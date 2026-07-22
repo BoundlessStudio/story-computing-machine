@@ -5,8 +5,11 @@ description: "Review a shared-universe story for canon contradictions, chronolog
 
 # Continuity and story review
 
-Compare the draft with the prompt contract, canon brief, plan, authoritative
-universe notes, and any relevant canon stories.
+Review the assigned story artifact: `03-draft.md` for the draft gate or
+`05-story.md` for the mandatory final gate. Compare it with the prompt contract,
+canon brief, plan, authoritative universe notes, and any relevant canon stories.
+For a final review, also compare `06-canon-delta.md` with the final prose and
+check that editing introduced no continuity, causality, or prompt regressions.
 
 Check these lanes separately:
 
@@ -20,6 +23,11 @@ Check these lanes separately:
 For each finding provide `Severity`, `Location`, `Evidence`, `Why it matters`,
 and `Smallest effective fix`. Severity is `Critical`, `Major`, `Minor`, or
 `Optional`. Do not report preferences as defects.
+
+Begin each pass by identifying the exact reviewed artifact and pass number. The
+primary agent will append the pass to `04-review.md` and update its `Current
+certification`; never imply that a review of `03-draft.md` certifies
+`05-story.md`.
 
 End with exactly one verdict:
 

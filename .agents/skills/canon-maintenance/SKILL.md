@@ -1,24 +1,31 @@
 ---
 name: canon-maintenance
-description: "Promote an explicitly approved final story and its canon delta into the shared-universe notes with provenance. Use only after the user clearly approves canon promotion; never use on drafts or candidate stories."
+description: "Promote an explicitly approved, final-reviewed story and its canon delta into the shared-universe notes with provenance. Never infer approval or promote drafts or unreviewed prose."
 ---
 
 # Canon maintenance
 
 Canon promotion is a controlled write operation.
 
-1. Confirm explicit user approval and identify one final story directory.
-2. Read `05-story.md`, `06-canon-delta.md`, `universe/README.md`, all affected
-   universe files, and relevant canon-story rows in `stories/INDEX.md`.
-3. Check each proposed fact for duplicates, aliases, ambiguity, and conflict.
-4. If a contradiction requires changing existing canon, stop for a specific
+1. Confirm explicit user approval and identify one story directory whose final
+   story is approved for promotion.
+2. Read `04-review.md`, `05-story.md`, `06-canon-delta.md`,
+   `universe/README.md`, all affected universe files, and the story row in
+   `stories/INDEX.md`.
+3. Require the latest review certification to identify `05-story.md` and have
+   verdict `PASS` with no unresolved Critical or Major findings. A reviewed
+   candidate is eligible for explicit promotion; a draft or unreviewed
+   candidate is not.
+4. Check each proposed fact for duplicates, aliases, ambiguity, and conflict.
+5. If a contradiction requires changing existing canon, stop for a specific
    ruling. Never disguise a retcon as cleanup.
-5. Add only reusable facts. Preserve story-only color in the story.
-6. Add provenance in the form `First established: stories/<slug>/05-story.md`.
-7. If an approved change supersedes canon, record it in `universe/retcons.md`
+6. Add only reusable facts. Preserve story-only color in the story.
+7. Add provenance in the form `First established: stories/<slug>/05-story.md`.
+8. If an approved change supersedes canon, record it in `universe/retcons.md`
    with date, old fact, new fact, reason, and approval source.
-8. Set the final story frontmatter to `status: final` and `canon: true`; update
-   its index row to status `final`, canon `yes`, and today's promotion date.
+9. Set the final story frontmatter to `status: final` and `canon: true`; update
+   its production record and index row to status `final`, canon `yes`, and
+   today's promotion date.
 
 Finish by listing every modified canon section and any delta item deliberately
 left unpromoted.

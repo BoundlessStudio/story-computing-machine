@@ -1,7 +1,7 @@
 # Shared-universe notes
 
-This directory is the setting's authoritative reference. It begins deliberately
-empty: headings and examples are templates, not facts.
+This directory is the setting's authoritative reference. Only entries carrying
+the statuses defined below establish setting or production facts.
 
 ## Authority order
 
@@ -11,8 +11,8 @@ When sources disagree, use this order:
 2. Entries marked `CANON` in this directory.
 3. Final stories whose row in `stories/INDEX.md` says canon `yes`.
 4. Entries marked `PROVISIONAL`, which are guidance but may change.
-5. Open questions, story plans, drafts, reviews, and canon deltas, which are not
-   canon.
+5. Archived decisions, open questions, story plans, drafts, reviews, and canon
+   deltas, which are not canon unless promoted into a topical entry above.
 
 Never silently reconcile two authoritative sources. Record the conflict and ask
 for a ruling. An approved correction or retcon belongs in `retcons.md`.
@@ -45,5 +45,8 @@ is a design direction. `RETIRED` is retained only for historical traceability.
 - `factions.md` — organizations, cultures, powers, and agendas.
 - `glossary.md` — canonical terms, spellings, and aliases.
 - `style-guide.md` — narrative tone and content boundaries for this universe.
-- `open-questions.md` — deliberately unresolved matters; not canon answers.
 - `retcons.md` — approved changes to previously authoritative facts.
+
+The complete initial decision and source-research record is preserved at
+`stories/_legacy/2026-07-22-universe-grill.md`. It supplies provenance and
+adaptation backlog but does not override topical `LOCKED` or `CANON` entries.

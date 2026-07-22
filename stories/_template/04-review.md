@@ -1,21 +1,37 @@
 # Continuity and story review
 
-## Verdict
+## Current certification
 
-PENDING
+- Reviewed artifact: None
+- Review pass: 0
+- Verdict: PENDING
+- Updated: Not yet reviewed
 
-## Canon
+This certification applies only to the named artifact. A completed story must
+end with a `PASS` certification for `05-story.md`.
 
-## Continuity
+## Review passes
 
-## Causality and character
+<!-- Preserve every pass. Duplicate the structure below for later passes, and
+update Current certification to match the newest pass. -->
 
-## Prompt fulfillment
+### Pass 1 — pending
 
-## Pacing and prose
+- Reviewed artifact: None
+- Verdict: PENDING
 
-## Canon-delta coverage
+#### Canon
 
-## Required fixes
+#### Continuity
+
+#### Causality and character
+
+#### Prompt fulfillment
+
+#### Pacing and prose
+
+#### Canon-delta coverage
+
+#### Required fixes
 
 <!-- Each finding: Severity / Location / Evidence / Why it matters / Smallest effective fix -->

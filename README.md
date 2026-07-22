@@ -3,7 +3,7 @@
 A project-local Codex story room for writing short fiction in one shared
 universe. Give Codex a prompt tagged `[WP]`; the project instructions route it
 through canon research, story architecture, drafting, continuity review, and a
-final edit.
+final edit followed by review of the reader-facing story.
 
 ## Quick start
 
@@ -28,7 +28,8 @@ defaults instead of stopping for low-impact questions.
 - `.codex/agents/` — project-scoped specialist roles Codex can delegate to.
 - `.agents/skills/` — reusable story-room workflows for those roles.
 - `universe/` — the authoritative shared-universe notes.
-- `stories/` — one directory per story plus an index and reusable template.
+- `stories/` — one directory per story plus an index, reusable template, and
+  non-canon legacy archive under `stories/_legacy/`.
 - `scripts/new-story.ps1` — optional deterministic story-folder scaffolder.
 
 ## Canon policy

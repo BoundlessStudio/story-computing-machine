@@ -9,12 +9,18 @@ Treat prose and universe notes as the product.
 - `stories/INDEX.md` lists story state and canon status.
 - Each story lives in `stories/<story-slug>/` and uses the numbered artifacts
   defined by `stories/_template/`.
+- `stories/_legacy/` records non-canon legacy-source provenance, research,
+  deferred adaptation questions, and import readiness.
 - `.agents/skills/` contains the required workflows.
 - `.codex/agents/` contains specialist roles for delegation.
 
 Read `universe/README.md` before interpreting setting facts. Never treat a
 template, draft, outline, review, open question, or proposed canon delta as
 established canon.
+
+Before adapting an external legacy work, require the exact reviewed version to
+meet the portability rule in `stories/_legacy/README.md`. A source import is
+evidence, not canon promotion.
 
 ## `[WP]` means the full story workflow
 
@@ -30,18 +36,28 @@ Use this dependency order:
    in `01-canon-brief.md`.
 3. Delegate planning to `story_architect`; it writes `02-story-plan.md`.
 4. Delegate drafting to `prose_writer`; it writes `03-draft.md`.
-5. Delegate review to `continuity_critic`; save its report in `04-review.md`.
-6. If the verdict is `REVISE` or `BLOCK`, revise and re-review. Do not finalize
-   with unresolved critical canon or story-logic defects.
+5. Delegate draft review to `continuity_critic`; save the identified review pass
+   in `04-review.md` without discarding earlier passes.
+6. If the verdict is `REVISE` or `BLOCK`, revise and re-review until the draft
+   earns `PASS`. Do not finalize with unresolved Critical or Major findings.
 7. Delegate the final edit to `story_editor`; it writes `05-story.md` and
    `06-canon-delta.md`.
-8. Update `stories/INDEX.md`. Leave canon status `candidate` until the user
+8. Delegate a final review of `05-story.md` to `continuity_critic`. Record that
+   pass in `04-review.md`. If it does not earn `PASS`, revise the final story and
+   canon delta, then re-review `05-story.md` until it does.
+9. Update `stories/INDEX.md`. Leave canon status `candidate` until the user
    explicitly approves promotion.
 
 Independent research may run in parallel, but stages with dependencies must
 not. Custom agents must perform only their assigned role and must not restart
 or re-orchestrate the whole workflow. If a custom role is unavailable, the
 primary agent performs that stage using the matching skill.
+
+The primary agent owns `stories/<story-slug>/README.md`. After verifying each
+stage, update its current stage and corresponding checklist item. At completion,
+the record must identify the story as `candidate`, show both review gates as
+complete, and agree with `stories/INDEX.md`. Specialist agents do not update the
+production record.
 
 ## Defaults and user control
 
@@ -60,6 +76,12 @@ primary agent performs that stage using the matching skill.
   a fact, but it can be room for a clearly labeled invention.
 - Prefer local, story-scale inventions over new global rules.
 - Record every newly introduced reusable fact in `06-canon-delta.md`.
+- Treat legacy sources as nonbinding adaptation inputs. Review or rebuild a
+  legacy work through the full story workflow before promotion; importing or
+  copying it does not create canon.
+- Unresolved factual contradictions, chronology problems, identity conflicts,
+  causal inconsistencies, and paradoxes block canon promotion. Copyediting
+  defects may be repaired during final editing.
 - Do not edit authoritative universe notes or mark a story canon unless the
   user explicitly asks to promote it. Then use `canon_steward` and the
   `canon-maintenance` skill.
@@ -68,8 +90,10 @@ primary agent performs that stage using the matching skill.
 
 ## Completion standard
 
-A full `[WP]` task is complete only when `05-story.md` contains polished prose,
-`04-review.md` has no unresolved critical issues, `06-canon-delta.md` is filled
-out (including `none` where appropriate), and `stories/INDEX.md` is current.
-The story remains a candidate unless the same request or a later user message
-explicitly authorizes canon promotion.
+A full `[WP]` task is complete only when `05-story.md` contains polished prose;
+the latest certification in `04-review.md` identifies `05-story.md`, has verdict
+`PASS`, and has no unresolved Critical or Major findings; `06-canon-delta.md` is
+filled out (including `none` where appropriate); the story production record is
+current; and `stories/INDEX.md` agrees with it. The story remains a candidate
+unless the same request or a later user message explicitly authorizes canon
+promotion.
