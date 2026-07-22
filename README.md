@@ -1,1 +1,42 @@
 # Story Computing Machine
+
+A project-local Codex story room for writing short fiction in one shared
+universe. Give Codex a prompt tagged `[WP]`; the project instructions route it
+through canon research, story architecture, drafting, continuity review, and a
+final edit.
+
+## Quick start
+
+1. Open this repository as the Codex workspace.
+2. Add known setting facts to `universe/` (or ask Codex to help seed them).
+3. Start a new task with a prompt such as:
+
+   ```text
+   [WP] Every city has a ghost assigned to it. Tonight, ours resigns.
+   Target: about 3,000 words; close third person; melancholy but hopeful.
+   ```
+
+4. Codex creates `stories/<story-slug>/` and keeps the prompt, canon brief,
+   plan, draft, review, final story, and proposed canon changes together.
+
+If length, point of view, or tone are omitted, the workflow records reasonable
+defaults instead of stopping for low-impact questions.
+
+## Project layout
+
+- `AGENTS.md` — the project director and non-negotiable workflow rules.
+- `.codex/agents/` — project-scoped specialist roles Codex can delegate to.
+- `.agents/skills/` — reusable story-room workflows for those roles.
+- `universe/` — the authoritative shared-universe notes.
+- `stories/` — one directory per story plus an index and reusable template.
+- `scripts/new-story.ps1` — optional deterministic story-folder scaffolder.
+
+## Canon policy
+
+Universe notes are authoritative. Drafts and plans are never canon. A final
+story becomes shared-universe canon only after the user explicitly approves
+its canon promotion; until then, `06-canon-delta.md` records proposed additions
+without silently changing the setting.
+
+Codex detects repo skills automatically. If newly added custom roles do not
+appear in an already-open task, start a new task or restart Codex.
