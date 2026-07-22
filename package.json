@@ -1,0 +1,39 @@
+{
+  "name": "story-computing-machine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first multi-agent story-world builder using Eve, OpenRouter, and SQLite",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "postinstall": "node scripts/patch-eve-windows.mjs",
+    "dev": "eve dev",
+    "dev:headless": "eve dev --no-ui",
+    "info": "eve info",
+    "build": "eve build",
+    "start": "eve start",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run test",
+    "smoke:live": "node scripts/smoke-eve.mjs",
+    "smoke:story": "tsx scripts/live-story-room-test.ts",
+    "db:migrate": "tsx scripts/migrate-database.ts",
+    "canon:bootstrap": "tsx scripts/bootstrap-canon.ts",
+    "world:offline": "tsx scripts/generate-offline.ts",
+    "world:demo": "tsx scripts/generate-offline.ts --seed 42 --premise \"A city built inside a sleeping sky-whale\""
+  },
+  "dependencies": {
+    "@openrouter/ai-sdk-provider": "^3.0.0",
+    "ai": "^7.0.0",
+    "eve": "^0.26.2",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "just-bash": "^3.1.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  }
+}
