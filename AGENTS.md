@@ -7,6 +7,8 @@ Treat prose and universe notes as the product.
 
 - `universe/` is the authoritative source for shared-universe facts.
 - `stories/INDEX.md` lists story state and canon status.
+- `stories/NAMES.md` is the production-memory registry mapping character-facing
+  names and aliases to every story or legacy source that uses them.
 - Each story lives in `stories/<story-slug>/` and uses the numbered artifacts
   defined by `stories/_template/`.
 - `stories/_legacy/` records non-canon legacy-source provenance, research,
@@ -35,18 +37,22 @@ Use this dependency order:
 2. Delegate canon research to `canon_librarian`; save its evidence-backed brief
    in `01-canon-brief.md`.
 3. Delegate planning to `story_architect`; it writes `02-story-plan.md`.
-4. Delegate drafting to `prose_writer`; it writes `03-draft.md`.
-5. Delegate draft review to `continuity_critic`; save the identified review pass
+4. Verify the plan's name check, register every planned character-facing name
+   in `stories/NAMES.md`, and run
+   `./scripts/check-story-names.ps1 -Story <story-slug>`.
+5. Delegate drafting to `prose_writer`; it writes `03-draft.md`.
+6. Delegate draft review to `continuity_critic`; save the identified review pass
    in `04-review.md` without discarding earlier passes.
-6. If the verdict is `REVISE` or `BLOCK`, revise and re-review until the draft
+7. If the verdict is `REVISE` or `BLOCK`, revise and re-review until the draft
    earns `PASS`. Do not finalize with unresolved Critical or Major findings.
-7. Delegate the final edit to `story_editor`; it writes `05-story.md` and
+8. Delegate the final edit to `story_editor`; it writes `05-story.md` and
    `06-canon-delta.md`.
-8. Delegate a final review of `05-story.md` to `continuity_critic`. Record that
+9. Delegate a final review of `05-story.md` to `continuity_critic`. Record that
    pass in `04-review.md`. If it does not earn `PASS`, revise the final story and
    canon delta, then re-review `05-story.md` until it does.
-9. Update `stories/INDEX.md`. Leave canon status `candidate` until the user
-   explicitly approves promotion.
+10. Reconcile `stories/NAMES.md` with the final story and canon delta, rerun the
+    name check, and update `stories/INDEX.md`. Leave canon status `candidate`
+    until the user explicitly approves promotion.
 
 Independent research may run in parallel, but stages with dependencies must
 not. Custom agents must perform only their assigned role and must not restart
@@ -87,6 +93,36 @@ role unless the user later asks for scheduling.
 - The user may name any artifact or stage to request a partial run or revision.
 - Never overwrite an existing story directory. Choose a distinct slug or ask.
 
+## Character-name discipline
+
+- Read `stories/NAMES.md` before proposing or introducing any character-facing
+  name. This includes full names, given names, mononyms, nicknames, aliases,
+  usernames, titles used as names, and named animals, companions, constructs,
+  or person-like entities. A surname is reserved separately when prose uses it
+  alone as a character label.
+- Default to a unique, readily distinguishable name across canon, candidates,
+  in-progress stories, and portable legacy sources. Check exact matches,
+  aliases, close spellings, reversals, and other easily confused forms.
+- Reuse is permitted only when it adds intentional meaning: the same recurring
+  identity, an earned crossover, an in-world family or naming convention, a
+  prompt-required collision, or a deliberate identity/theme device. Record
+  whether the identities are the same or distinct, why the reuse matters, and
+  how readers can distinguish them in both the plan's `Name check` and
+  `stories/NAMES.md`. Convenience, genre familiarity, or failure to search is
+  not a rationale.
+- Treat an undocumented or accidental collision as a defect. Rename it before
+  drafting when possible. If discovered later, update every current production
+  artifact and repeat the applicable review gate; never imply a shared identity
+  or continuity link merely because names match.
+- The primary agent owns `stories/NAMES.md`. Specialist agents read it and
+  report name decisions but do not edit it. Register planned names after
+  verifying `02-story-plan.md`, then reconcile the registry after final review
+  so it matches `05-story.md`, `06-canon-delta.md`, the story state, and any
+  aliases actually used.
+- A registry entry is production memory, not canon. Legacy and abandoned names
+  remain searchable reservations unless the registry explicitly marks them
+  released; canon promotion still requires the normal approval workflow.
+
 ## Canon discipline
 
 - Cite relevant universe files and headings in `01-canon-brief.md`.
@@ -111,7 +147,8 @@ role unless the user later asks for scheduling.
 A full `[WP]` task is complete only when `05-story.md` contains polished prose;
 the latest certification in `04-review.md` identifies `05-story.md`, has verdict
 `PASS`, and has no unresolved Critical or Major findings; `06-canon-delta.md` is
-filled out (including `none` where appropriate); the story production record is
-current; and `stories/INDEX.md` agrees with it. The story remains a candidate
-unless the same request or a later user message explicitly authorizes canon
-promotion.
+filled out (including `none` where appropriate); `stories/NAMES.md` contains
+every final character-facing name and passes the story-scoped name check; the
+story production record is current; and `stories/INDEX.md` agrees with it. The
+story remains a candidate unless the same request or a later user message
+explicitly authorizes canon promotion.

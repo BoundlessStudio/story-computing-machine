@@ -25,8 +25,12 @@
 - Aliases: None
 - Notes:
   - Use varied sentence rhythm, concrete detail, and em dashes sparingly.
-  - Treat repeated proper names as accidental reuse to fix unless a prompt
-    explicitly connects them.
+  - Consult `stories/NAMES.md` before choosing a character-facing name. Default
+    to a unique, readily distinguishable name across all story states and
+    portable legacy sources.
+  - Treat repeated or easily confused character names as accidental reuse to
+    fix unless the same identity recurs or the reuse has documented narrative
+    meaning and a clear reader-disambiguation strategy.
   - Recurring imagery may remain motif rather than forced mechanism.
   - A deliberate story voice or user-supplied sample may override these defaults
     when the departure is intentional.

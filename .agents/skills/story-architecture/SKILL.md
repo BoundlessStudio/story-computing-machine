@@ -5,7 +5,8 @@ description: "Design a scene-ready short-story plan from a captured prompt and c
 
 # Short-story architecture
 
-Read `00-prompt.md` and `01-canon-brief.md` before planning.
+Read `00-prompt.md`, `01-canon-brief.md`, and `stories/NAMES.md` before
+planning.
 
 Build `02-story-plan.md` around one central dramatic question and one meaningful
 change. The protagonist needs a concrete desire, pressure that makes delay
@@ -22,8 +23,17 @@ Include:
 - a scene table with purpose, conflict, turn, canon used, and word budget;
 - seeded details and their payoffs;
 - canon constraints and clearly labeled proposed inventions;
+- a `Name check` table covering every planned character-facing name, all forms
+  that will appear in prose, the registry result, and any deliberate reuse
+  rationale plus reader-disambiguation strategy;
 - failure modes the writer and critic should watch.
 
 Fit the plan to short fiction. Avoid subplots that cannot pay off within the
 word budget, lore tours, delayed inciting incidents, and endings solved by new
 information or unseeded powers.
+
+Default to names absent from the registry and readily distinguishable from
+reserved aliases and close variants. Reuse a name only when it has clear
+narrative meaning, and state whether it is the same identity or a distinct
+identity. Never infer a crossover from a matching name. The primary coordinator,
+not the architect, updates `stories/NAMES.md` after verifying the plan.

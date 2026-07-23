@@ -19,5 +19,6 @@ each stage. Specialist agents do not edit it. -->
 - [ ] Final story written
 - [ ] Canon delta recorded
 - [ ] Final story review passed
+- [ ] Name registry updated
 - [ ] Story index updated
 - [ ] Canon promotion explicitly approved (optional)

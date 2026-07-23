@@ -27,6 +27,10 @@ None.
 
 None.
 
+## Name registry updates
+
+None.
+
 ## Possible conflicts or retcons
 
 None.

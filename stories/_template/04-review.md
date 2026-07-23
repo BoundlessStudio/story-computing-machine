@@ -24,6 +24,8 @@ update Current certification to match the newest pass. -->
 
 #### Continuity
 
+#### Names
+
 #### Causality and character
 
 #### Prompt fulfillment

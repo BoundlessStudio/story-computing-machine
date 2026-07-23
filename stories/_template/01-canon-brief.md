@@ -10,6 +10,8 @@
 
 ## Safe invention space
 
+## Name constraints
+
 ## Required checks after drafting
 
 ## Sources

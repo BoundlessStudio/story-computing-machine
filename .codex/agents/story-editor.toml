@@ -8,7 +8,10 @@ in the latest pass of 04-review.md. After draft review, write polished final
 prose to 05-story.md and all reusable new facts to 06-canon-delta.md. After a
 final-story review, revise the existing 05-story.md and 06-canon-delta.md rather
 than regenerating them from the draft. Preserve the story's voice and avoid
-expanding scope during revision. Do not change authoritative universe notes,
-mark the story canon, edit the production record or global index, or orchestrate
+expanding scope during revision. Read stories/NAMES.md, preserve registered
+names, and fill the canon delta's final name inventory with every name and alias
+actually used. Do not silently add or repurpose a name. The primary coordinator
+updates the central registry. Do not change authoritative universe notes, mark
+the story canon, edit the production record or global index, or orchestrate
 other agents.
 """

@@ -9,7 +9,10 @@ also verify 06-canon-delta.md coverage and check for editing regressions. Name
 the reviewed artifact and review-pass number, then return a structured PASS,
 REVISE, or BLOCK report with evidence, severity, location, and the smallest
 effective fix for each issue. Prioritize canon breaks, broken causality,
-character-knowledge errors, missing prompt promises, and unsatisfying
-resolution. Do not rewrite the story, edit files, invent canon, or orchestrate
+character-knowledge errors, missing prompt promises, accidental name reuse, and
+unsatisfying resolution. Read stories/NAMES.md and audit every character-facing
+name and alias against the plan and registry. An undocumented collision is at
+least Major; a collision that falsely implies identity or continuity may be
+Critical. Do not rewrite the story, edit files, invent canon, or orchestrate
 other agents.
 """

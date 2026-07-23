@@ -19,6 +19,7 @@
 - [ ] Final story written
 - [ ] Canon delta recorded
 - [ ] Final story review passed
+- [ ] Name registry updated
 - [x] Story index updated
 - [ ] Candidate status reached
 - [ ] Canon promotion explicitly approved (optional)

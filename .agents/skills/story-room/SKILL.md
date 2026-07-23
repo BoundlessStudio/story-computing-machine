@@ -9,7 +9,8 @@ Produce the whole story and its audit trail.
 
 ## Start
 
-1. Read `AGENTS.md`, `universe/README.md`, and `stories/INDEX.md`.
+1. Read `AGENTS.md`, `universe/README.md`, `stories/INDEX.md`, and
+   `stories/NAMES.md`.
 2. Derive a lowercase kebab-case slug. Never reuse an existing story directory.
 3. Create the story directory from `stories/_template/`. On Windows, prefer:
    `./scripts/new-story.ps1 -Slug <slug> -Title "<title>"`.
@@ -32,6 +33,13 @@ The primary agent updates `README.md` after each verified artifact: `canon-brief
 `story-plan`, `draft`, `draft-review`, `final-edit`, `final-review`, and finally
 `candidate`. Check only work that actually exists and passed its applicable
 gate. Specialist agents do not update this record.
+
+After verifying `02-story-plan.md`, check its complete `Name check` against
+`stories/NAMES.md`. The primary agent registers the planned names and aliases,
+records any meaningful reuse rationale and reader-disambiguation strategy, and
+runs `./scripts/check-story-names.ps1 -Story <slug>` before drafting. A new or
+unresolved collision must be renamed or explicitly justified before prose
+begins.
 
 Save every continuity critic response as an identified pass in `04-review.md`.
 Preserve earlier passes and update `Current certification` to the latest pass.
@@ -56,12 +64,16 @@ Verify that:
   identifies `05-story.md` with verdict `PASS`;
 - no Critical or Major findings remain unresolved;
 - every reusable invention is listed in `06-canon-delta.md`;
+- the plan and canon brief include their name-registry sections;
+- every character-facing name and alias used in `05-story.md` is reconciled in
+  `stories/NAMES.md`, and
+  `./scripts/check-story-names.ps1 -Story <slug>` succeeds;
 - `stories/INDEX.md` has one current row. Unless explicit promotion was already
   authorized, its status is `candidate` and canon is `no`;
 - the production record's current stage is `candidate`, all required checklist
   items are checked, and its state agrees with the index. The optional canon
   promotion item remains unchecked unless promotion was explicitly approved.
 
-Report the final story path, approximate word count, review verdict, and whether
-the canon delta contains proposals. Do not promote canon without explicit user
-approval.
+Report the final story path, approximate word count, review verdict, whether the
+canon delta contains proposals, and whether any deliberate name reuse was
+approved. Do not promote canon without explicit user approval.

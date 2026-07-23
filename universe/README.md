@@ -50,3 +50,8 @@ is a design direction. `RETIRED` is retained only for historical traceability.
 The complete initial decision and source-research record is preserved at
 `stories/_legacy/2026-07-22-universe-grill.md`. It supplies provenance and
 adaptation backlog but does not override topical `LOCKED` or `CANON` entries.
+
+`stories/NAMES.md` is persistent production memory for character-name use
+across canon, candidates, in-progress work, and legacy sources. It prevents
+accidental reuse but does not establish that a listed character or name is
+canon.
