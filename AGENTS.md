@@ -59,6 +59,24 @@ the record must identify the story as `candidate`, show both review gates as
 complete, and agree with `stories/INDEX.md`. Specialist agents do not update the
 production record.
 
+## On-demand prompt discovery
+
+When the user asks to run the prompt scout, delegate only that task to
+`prompt_scout`. It must use the `prompt-scout` skill, fetch the newest 100
+previously unscanned r/WritingPrompts `[WP]` posts, rank and log all of them,
+and return the best ten. Do not start the story workflow merely because the
+scout recommends a prompt.
+
+When the user asks to improve or calibrate prompt recommendations, delegate to
+`prompt_calibrator`. It uses the latest ranks 11–100 to select an informative
+comparison set and asks the user for a most-to-least ordering. Preserve that
+ordering as preference evidence using the `prompt-calibration` skill.
+
+Both roles are read-only toward Reddit and may write only under
+`prompt-scout/` through the supporting scripts. They do not edit `stories/`,
+`universe/`, or canon state. They run on demand only; do not schedule either
+role unless the user later asks for scheduling.
+
 ## Defaults and user control
 
 - Default to a complete 2,500–4,000 word short story.

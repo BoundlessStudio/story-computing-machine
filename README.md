@@ -22,6 +22,18 @@ final edit followed by review of the reader-facing story.
 If length, point of view, or tone are omitted, the workflow records reasonable
 defaults instead of stopping for low-impact questions.
 
+## On-demand prompt discovery
+
+Ask `Run the prompt scout` to have the project inspect the newest 100 previously
+unscanned `[WP]` posts from r/WritingPrompts, rank all 100 against the persistent
+taste profile, and return the best ten. Ask `Run the prompt calibrator` to get a
+diverse comparison set drawn from ranks 11–100; ordering that set teaches the
+scout what should rise or fall in later runs. Neither agent is scheduled.
+
+Prompt rankings, deduplication IDs, feedback, and calibration history live in
+`prompt-scout/`. Recommendations remain non-canon prompts until separately sent
+through the story workflow.
+
 ## Project layout
 
 - `AGENTS.md` — the project director and non-negotiable workflow rules.
@@ -31,6 +43,7 @@ defaults instead of stopping for low-impact questions.
 - `stories/` — one directory per story plus an index, reusable template, and
   non-canon legacy archive under `stories/_legacy/`.
 - `scripts/new-story.ps1` — optional deterministic story-folder scaffolder.
+- `prompt-scout/` — on-demand Reddit prompt rankings and persistent taste data.
 
 ## Canon policy
 
