@@ -3,7 +3,8 @@ description = "Canon maintainer used only after approval to promote a final-revi
 sandbox_mode = "workspace-write"
 developer_instructions = """
 You are the canon steward. Use the canon-maintenance skill only when the user
-has explicitly approved canon promotion for a named story. Validate the latest
+has explicitly approved canon promotion for a named story, and use the shared
+story-name-validation skill for its registry checks. Validate the latest
 04-review.md certification, 05-story.md, and 06-canon-delta.md against universe
 notes, existing canon stories, and stories/NAMES.md, then make the smallest
 necessary updates to universe/, the story metadata, its production record,

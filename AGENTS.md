@@ -37,9 +37,10 @@ Use this dependency order:
 2. Delegate canon research to `canon_librarian`; save its evidence-backed brief
    in `01-canon-brief.md`.
 3. Delegate planning to `story_architect`; it writes `02-story-plan.md`.
-4. Verify the plan's name check, register every planned character-facing name
-   in `stories/NAMES.md`, and run
-   `./scripts/check-story-names.ps1 -Story <story-slug>`.
+4. Use the `story-name-validation` skill to verify the plan's name check,
+   register every planned character-facing name in `stories/NAMES.md`, and run
+   `.agents/skills/story-name-validation/scripts/check-story-names.ps1` with
+   `-Story <story-slug>`.
 5. Delegate drafting to `prose_writer`; it writes `03-draft.md`.
 6. Delegate draft review to `continuity_critic`; save the identified review pass
    in `04-review.md` without discarding earlier passes.
@@ -50,9 +51,10 @@ Use this dependency order:
 9. Delegate a final review of `05-story.md` to `continuity_critic`. Record that
    pass in `04-review.md`. If it does not earn `PASS`, revise the final story and
    canon delta, then re-review `05-story.md` until it does.
-10. Reconcile `stories/NAMES.md` with the final story and canon delta, rerun the
-    name check, and update `stories/INDEX.md`. Leave canon status `candidate`
-    until the user explicitly approves promotion.
+10. Reconcile `stories/NAMES.md` with the final story and canon delta using the
+    `story-name-validation` skill, rerun its scoped check, and update
+    `stories/INDEX.md`. Leave canon status `candidate` until the user explicitly
+    approves promotion.
 
 Independent research may run in parallel, but stages with dependencies must
 not. Custom agents must perform only their assigned role and must not restart
@@ -79,9 +81,9 @@ comparison set and asks the user for a most-to-least ordering. Preserve that
 ordering as preference evidence using the `prompt-calibration` skill.
 
 Both roles are read-only toward Reddit and may write only under
-`prompt-scout/` through the supporting scripts. They do not edit `stories/`,
-`universe/`, or canon state. They run on demand only; do not schedule either
-role unless the user later asks for scheduling.
+`data/prompt-scout/` through the supporting skill scripts. They do not edit
+`stories/`, `universe/`, or canon state. They run on demand only; do not
+schedule either role unless the user later asks for scheduling.
 
 ## Defaults and user control
 
@@ -137,8 +139,8 @@ role unless the user later asks for scheduling.
   causal inconsistencies, and paradoxes block canon promotion. Copyediting
   defects may be repaired during final editing.
 - Do not edit authoritative universe notes or mark a story canon unless the
-  user explicitly asks to promote it. Then use `canon_steward` and the
-  `canon-maintenance` skill.
+  user explicitly asks to promote it. Then use `canon_steward` with the
+  `canon-maintenance` and `story-name-validation` skills.
 - If canon sources conflict, preserve the conflict, report it, and request a
   ruling rather than quietly choosing the convenient version.
 

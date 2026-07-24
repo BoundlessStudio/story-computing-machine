@@ -12,9 +12,11 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
-$ScoutRoot = Join-Path $ProjectRoot 'prompt-scout'
-$DataDirectory = Join-Path $ScoutRoot 'data'
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
+$ScoutRoot = Join-Path $ProjectRoot 'data/prompt-scout'
+$DataDirectory = $ScoutRoot
 $CalibrationSetPath = Join-Path $ScoutRoot (
     "calibration/sets/{0}.json" -f $CalibrationId
 )

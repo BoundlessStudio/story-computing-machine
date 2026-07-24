@@ -7,16 +7,19 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
-$ScoutRoot = Join-Path $ProjectRoot 'prompt-scout'
-$DataDirectory = Join-Path $ScoutRoot 'data'
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
+$ScoutRoot = Join-Path $ProjectRoot 'data/prompt-scout'
+$DataDirectory = $ScoutRoot
+$WorkDirectory = Join-Path $ScoutRoot 'work'
 $ScansDirectory = Join-Path $ScoutRoot 'scans'
 
 if ([string]::IsNullOrWhiteSpace($CandidatePath)) {
-    $CandidatePath = Join-Path $DataDirectory 'pending-scan.json'
+    $CandidatePath = Join-Path $WorkDirectory 'pending-scan.json'
 }
 if ([string]::IsNullOrWhiteSpace($RankingsPath)) {
-    $RankingsPath = Join-Path $DataDirectory 'pending-rankings.json'
+    $RankingsPath = Join-Path $WorkDirectory 'pending-rankings.json'
 }
 
 $RankingsLedgerPath = Join-Path $DataDirectory 'rankings.jsonl'

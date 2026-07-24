@@ -31,19 +31,18 @@ diverse comparison set drawn from ranks 11–100; ordering that set teaches the
 scout what should rise or fall in later runs. Neither agent is scheduled.
 
 Prompt rankings, deduplication IDs, feedback, and calibration history live in
-`prompt-scout/`. Recommendations remain non-canon prompts until separately sent
-through the story workflow.
+`data/prompt-scout/`. Recommendations remain non-canon prompts until separately
+sent through the story workflow.
 
 ## Project layout
 
 - `AGENTS.md` — the project director and non-negotiable workflow rules.
 - `.codex/agents/` — project-scoped specialist roles Codex can delegate to.
-- `.agents/skills/` — reusable story-room workflows for those roles.
+- `.agents/skills/` — reusable workflows and their owned supporting scripts.
+- `data/` — persistent operational state shared by project workflows.
 - `universe/` — the authoritative shared-universe notes.
 - `stories/` — one directory per story plus an index, reusable template, and
   non-canon legacy archive under `stories/_legacy/`.
-- `scripts/new-story.ps1` — optional deterministic story-folder scaffolder.
-- `prompt-scout/` — on-demand Reddit prompt rankings and persistent taste data.
 
 ## Canon policy
 

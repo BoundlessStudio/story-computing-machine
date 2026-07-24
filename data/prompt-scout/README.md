@@ -38,8 +38,8 @@ Reply using the rank numbers from `latest.md`, for example:
 > Prompt scout [scan ID]: like 1, 4, and 8; dislike 3; 4 because the impossible
 > premise is grounded in a relationship.
 
-Explicit feedback is stored in `data/feedback.jsonl`. The feedback recorder also
-updates `data/preferences.json`, whose token weights give later scans a modest
+Explicit feedback is stored in `feedback.jsonl`. The feedback recorder also
+updates `preferences.json`, whose token weights give later scans a modest
 quantitative prior. The agent maintains higher-level, evidence-labeled semantic
 preferences in `taste-profile.md`.
 
@@ -47,21 +47,22 @@ preferences in `taste-profile.md`.
 
 - `taste-profile.md` — human-readable preferences and confidence.
 - `latest.md` — current top ten plus ranks 11–100.
-- `data/scanned-ids.txt` — deduplication ledger.
-- `data/rankings.jsonl` — one immutable ranking record per scanned prompt.
-- `data/feedback.jsonl` — explicit like/dislike/neutral events.
-- `data/preferences.json` — learned token weights and signal totals.
-- `data/calibration-asked.jsonl` — prompts already used for calibration.
-- `data/calibration-responses.jsonl` — recorded most-to-least orderings.
-- `data/latest-ranked.json` — structured form of the latest complete ranking.
+- `scanned-ids.txt` — deduplication ledger.
+- `rankings.jsonl` — one immutable ranking record per scanned prompt.
+- `feedback.jsonl` — explicit like/dislike/neutral events.
+- `preferences.json` — learned token weights and signal totals.
+- `calibration-asked.jsonl` — prompts already used for calibration.
+- `calibration-responses.jsonl` — recorded most-to-least orderings.
+- `latest-ranked.json` — structured form of the latest complete ranking.
 - `calibration/latest.md` — current user-facing calibration set.
 - `calibration/sets/<calibration-id>.json` — archived calibration sets for
   delayed responses.
 - `scans/<scan-id>.json` — archived candidates and rankings for each run.
 
-`data/pending-scan.json` and `data/pending-rankings.json` are transactional work
-files. A scan is not considered complete until the recorder validates every
-candidate and writes the archive, ledger, and latest outputs.
+`work/pending-scan.json`, `work/pending-rankings.json`, and
+`work/pending-calibration.json` are ignored transactional files. A scan or
+calibration is not complete until its recorder validates the transaction and
+writes the durable archive, ledger, and latest outputs.
 
 ## Ranking priority
 

@@ -8,7 +8,9 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
 $RegistryPath = Join-Path $ProjectRoot 'stories/NAMES.md'
 
 if (-not (Test-Path -LiteralPath $RegistryPath -PathType Leaf)) {

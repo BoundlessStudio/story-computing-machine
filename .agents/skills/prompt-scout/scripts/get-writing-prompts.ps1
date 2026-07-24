@@ -9,11 +9,14 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
-$ScoutRoot = Join-Path $ProjectRoot 'prompt-scout'
-$DataDirectory = Join-Path $ScoutRoot 'data'
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
+$ScoutRoot = Join-Path $ProjectRoot 'data/prompt-scout'
+$DataDirectory = $ScoutRoot
+$WorkDirectory = Join-Path $ScoutRoot 'work'
 $ScannedIdsPath = Join-Path $DataDirectory 'scanned-ids.txt'
-$OutputPath = Join-Path $DataDirectory 'pending-scan.json'
+$OutputPath = Join-Path $WorkDirectory 'pending-scan.json'
 
 function Get-HtmlAttribute {
     param(
@@ -38,6 +41,7 @@ function ConvertFrom-TitleHtml {
 }
 
 New-Item -ItemType Directory -Path $DataDirectory -Force | Out-Null
+New-Item -ItemType Directory -Path $WorkDirectory -Force | Out-Null
 
 $ScannedIds = [Collections.Generic.HashSet[string]]::new(
     [StringComparer]::OrdinalIgnoreCase

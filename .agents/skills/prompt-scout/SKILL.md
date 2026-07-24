@@ -10,15 +10,17 @@ prompts. It does not start the story-room workflow and never changes canon.
 
 ## Scan mode
 
-1. Read `prompt-scout/README.md`, `prompt-scout/taste-profile.md`,
-   `prompt-scout/data/preferences.json`, and recent entries in
-   `prompt-scout/data/feedback.jsonl` when present.
+1. Read `data/prompt-scout/README.md`,
+   `data/prompt-scout/taste-profile.md`,
+   `data/prompt-scout/preferences.json`, and recent entries in
+   `data/prompt-scout/feedback.jsonl` when present.
 2. Calibrate against the current starting-set prompt contracts and portable
    seeds named in the taste profile. Treat those as taste evidence, not canon.
-3. Run `scripts/get-writing-prompts.ps1`. Its default and maximum batch is the
-   newest 100 `[WP]` posts whose Reddit IDs are absent from
-   `prompt-scout/data/scanned-ids.txt`.
-4. Read `prompt-scout/data/pending-scan.json` and score every prompt from 0–100:
+3. Run `.agents/skills/prompt-scout/scripts/get-writing-prompts.ps1`. Its
+   default and maximum batch is the newest 100 `[WP]` posts whose Reddit IDs
+   are absent from `data/prompt-scout/scanned-ids.txt`.
+4. Read `data/prompt-scout/work/pending-scan.json` and score every prompt from
+   0–100:
    - 0–45: demonstrated personal fit;
    - 0–25: strength of the story engine (choice, conflict, consequence);
    - 0–15: fit with the project's broad thematic interests;
@@ -26,7 +28,7 @@ prompts. It does not start the story-room workflow and never changes canon.
    - 0–5: compatibility with the project's accessible content ceiling.
 5. Reddit score and comments may break a close tie but may not replace taste
    judgment. Do not infer preferences from popularity.
-6. Write `prompt-scout/data/pending-rankings.json` with this shape:
+6. Write `data/prompt-scout/work/pending-rankings.json` with this shape:
 
    ```json
    {
@@ -43,9 +45,10 @@ prompts. It does not start the story-room workflow and never changes canon.
    ```
 
    Include exactly one entry for every candidate and no extra IDs.
-7. Run `scripts/record-prompt-scan.ps1`. It validates completeness, generates
-   ranks, appends all results to the durable ledger, marks the IDs scanned,
-   archives the scan, and writes `prompt-scout/latest.md`.
+7. Run `.agents/skills/prompt-scout/scripts/record-prompt-scan.ps1`. It
+   validates completeness, generates ranks, appends all results to the durable
+   ledger, marks the IDs scanned, archives the scan, and writes
+   `data/prompt-scout/latest.md`.
 8. Return the top ten in rank order with links and one-line reasons. End with
    the scan-specific feedback syntax, for example:
    `Prompt scout [20260723T014038Z]: like 1, 4; dislike 7; 4 because ...`.
@@ -60,12 +63,12 @@ already-scanned IDs merely to fill the batch.
    scan named by the user. If the user omitted a scan ID in the same task that
    displayed a ranking, use that displayed scan ID explicitly; never silently
    substitute a newer scan.
-2. Run `scripts/record-prompt-feedback.ps1 -ScanId <id>` with those rank numbers
-   and any supplied note. The script logs immutable feedback events and updates
-   learned token weights.
+2. Run `.agents/skills/prompt-scout/scripts/record-prompt-feedback.ps1` with
+   `-ScanId <id>`, those rank numbers, and any supplied note. The script logs
+   immutable feedback events and updates learned token weights.
 3. Review the new signals alongside prior feedback. Update
-   `prompt-scout/taste-profile.md` only for semantic preferences supported by
-   explicit evidence. Record confidence and contradictory evidence.
+   `data/prompt-scout/taste-profile.md` only for semantic preferences supported
+   by explicit evidence. Record confidence and contradictory evidence.
 4. Do not run a new Reddit scan unless the user also asks for one.
 
 ## Boundaries

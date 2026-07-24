@@ -12,8 +12,9 @@ Produce the whole story and its audit trail.
 1. Read `AGENTS.md`, `universe/README.md`, `stories/INDEX.md`, and
    `stories/NAMES.md`.
 2. Derive a lowercase kebab-case slug. Never reuse an existing story directory.
-3. Create the story directory from `stories/_template/`. On Windows, prefer:
-   `./scripts/new-story.ps1 -Slug <slug> -Title "<title>"`.
+3. Create the story directory from `stories/_template/`. On Windows, run
+   `.agents/skills/story-room/scripts/new-story.ps1` with
+   `-Slug <slug> -Title "<title>"`.
 4. Put the user's verbatim prompt in `00-prompt.md`. Record target length,
    audience/rating, POV, tense, tone, required elements, prohibited elements,
    assumptions, and completion tests. Never silently remove a prompt promise.
@@ -35,11 +36,12 @@ The primary agent updates `README.md` after each verified artifact: `canon-brief
 gate. Specialist agents do not update this record.
 
 After verifying `02-story-plan.md`, check its complete `Name check` against
-`stories/NAMES.md`. The primary agent registers the planned names and aliases,
-records any meaningful reuse rationale and reader-disambiguation strategy, and
-runs `./scripts/check-story-names.ps1 -Story <slug>` before drafting. A new or
-unresolved collision must be renamed or explicitly justified before prose
-begins.
+`stories/NAMES.md`. Use the `story-name-validation` skill. The primary agent
+registers the planned names and aliases, records any meaningful reuse rationale
+and reader-disambiguation strategy, and runs
+`.agents/skills/story-name-validation/scripts/check-story-names.ps1` with
+`-Story <slug>` before drafting. A new or unresolved collision must be renamed
+or explicitly justified before prose begins.
 
 Save every continuity critic response as an identified pass in `04-review.md`.
 Preserve earlier passes and update `Current certification` to the latest pass.
@@ -66,8 +68,8 @@ Verify that:
 - every reusable invention is listed in `06-canon-delta.md`;
 - the plan and canon brief include their name-registry sections;
 - every character-facing name and alias used in `05-story.md` is reconciled in
-  `stories/NAMES.md`, and
-  `./scripts/check-story-names.ps1 -Story <slug>` succeeds;
+  `stories/NAMES.md`, and the `story-name-validation` skill's scoped check
+  succeeds;
 - `stories/INDEX.md` has one current row. Unless explicit promotion was already
   authorized, its status is `candidate` and canon is `no`;
 - the production record's current stage is `candidate`, all required checklist

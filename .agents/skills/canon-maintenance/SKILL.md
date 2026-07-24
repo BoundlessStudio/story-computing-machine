@@ -16,9 +16,10 @@ Canon promotion is a controlled write operation.
    verdict `PASS` with no unresolved Critical or Major findings. A reviewed
    candidate is eligible for explicit promotion; a draft or unreviewed
    candidate is not.
-4. Check each proposed fact for duplicates, aliases, ambiguity, and conflict.
-   Confirm every promoted character-facing name is registered and any repeated
-   name has an explicit meaningful-reuse rationale.
+4. Use the `story-name-validation` skill to check each proposed
+   character-facing name and alias. Confirm every promoted name is registered
+   and any repeated name has an explicit meaningful-reuse rationale. Check each
+   proposed fact for other duplicates, ambiguity, and conflict.
 5. If a contradiction requires changing existing canon, stop for a specific
    ruling. Never disguise a retcon as cleanup.
 6. Add only reusable facts. Preserve story-only color in the story.
@@ -30,7 +31,8 @@ Canon promotion is a controlled write operation.
    today's promotion date.
 10. Update the story's entries in `stories/NAMES.md` from `candidate` to
     `canon`, preserve provenance and reuse rationale, and run
-    `./scripts/check-story-names.ps1 -Story <slug>`.
+    `.agents/skills/story-name-validation/scripts/check-story-names.ps1` with
+    `-Story <slug>`.
 
 Finish by listing every modified canon section and any delta item deliberately
 left unpromoted.

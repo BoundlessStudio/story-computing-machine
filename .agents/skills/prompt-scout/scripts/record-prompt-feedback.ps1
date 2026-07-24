@@ -12,9 +12,12 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
-$DataDirectory = Join-Path $ProjectRoot 'prompt-scout/data'
-$ScanArchivePath = Join-Path $ProjectRoot ("prompt-scout/scans/{0}.json" -f $ScanId)
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
+$ScoutRoot = Join-Path $ProjectRoot 'data/prompt-scout'
+$DataDirectory = $ScoutRoot
+$ScanArchivePath = Join-Path $ScoutRoot ("scans/{0}.json" -f $ScanId)
 $FeedbackPath = Join-Path $DataDirectory 'feedback.jsonl'
 $PreferencesPath = Join-Path $DataDirectory 'preferences.json'
 

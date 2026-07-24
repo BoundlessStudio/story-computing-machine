@@ -9,7 +9,9 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
 $TemplateDirectory = Join-Path $ProjectRoot 'stories/_template'
 $StoryDirectory = Join-Path $ProjectRoot ("stories/{0}" -f $Slug)
 

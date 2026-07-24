@@ -6,9 +6,12 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-$ProjectRoot = Split-Path -Parent $PSScriptRoot
-$ScoutRoot = Join-Path $ProjectRoot 'prompt-scout'
-$DataDirectory = Join-Path $ScoutRoot 'data'
+$ProjectRoot = (Resolve-Path -LiteralPath (
+    Join-Path $PSScriptRoot '../../../..'
+)).Path
+$ScoutRoot = Join-Path $ProjectRoot 'data/prompt-scout'
+$DataDirectory = $ScoutRoot
+$WorkDirectory = Join-Path $ScoutRoot 'work'
 $CalibrationDirectory = Join-Path $ScoutRoot 'calibration'
 $CalibrationSetsDirectory = Join-Path $CalibrationDirectory 'sets'
 
@@ -16,7 +19,7 @@ if ([string]::IsNullOrWhiteSpace($LatestRankedPath)) {
     $LatestRankedPath = Join-Path $DataDirectory 'latest-ranked.json'
 }
 if ([string]::IsNullOrWhiteSpace($SelectionPath)) {
-    $SelectionPath = Join-Path $DataDirectory 'pending-calibration.json'
+    $SelectionPath = Join-Path $WorkDirectory 'pending-calibration.json'
 }
 
 $AskedPath = Join-Path $DataDirectory 'calibration-asked.jsonl'

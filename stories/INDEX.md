@@ -10,7 +10,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 | `the-names-on-the-cups` | *The Names on the Cups* | in-progress | no | — | Prompt-stage legacy seed imported from historical prose source `S06`. |
 | `the-small-moon-rose-first` | *The Small Moon Rose First* | in-progress | no | — | Prompt-stage legacy seed imported from outline source `S07`. |
 | `the-trouble-with-tuesdays` | *The Trouble With Tuesdays* | in-progress | no | — | Prompt-stage legacy seed imported from historical prose source `S08`. |
-| `the-weight-of-falling-up` | *The Weight of Falling Up* | candidate | no | — | Final story certified PASS after name-registry recheck; proposed canon delta not promoted. |
+| `the-weight-of-falling-up-rune-shoes` | *The Weight of Falling Up* | candidate | no | — | Wind-rune rocket-shoes revision certified PASS; proposed canon delta not promoted. |
 
 Statuses: `in-progress`, `candidate`, `final`, `abandoned`, or `apocrypha`.
 Canon is `yes` only after explicit user-approved promotion.

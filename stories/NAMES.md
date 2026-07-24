@@ -37,26 +37,31 @@ unnamed.
 | Character / entity | Reserved forms | Story or source | State | Reuse status | Rationale / disambiguation |
 | --- | --- | --- | --- | --- | --- |
 | Anin | `Anin` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
+| Arda Tench | `Arda Tench`; `Arda` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Assessor Havil | `Assessor Havil`; `Havil` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. `Assessor` was a common role noun, not a standalone proper name. |
 | Aunt Linda | `Aunt Linda`; `Linda` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Ben | `Ben` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
-| Bracken | `Bracken` | `the-weight-of-falling-up` | candidate | unique | — |
+| Bracken | `Bracken` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Cal Mercer | `Cal Mercer`; `Cal`; `Cal-Cal` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Caldrin | `Caldrin` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Captain | `Captain` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Named dog. |
 | Celia | `Celia` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Claire | `Claire`; `Tea Girl` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `TEA GIRL` as Claire's label on her relationship chart. |
+| Dezra Holt | `Dezra Holt`; `Dezra` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Dr. Kan | `Dr. Kan`; `Doctor Kan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Eli Mercer | `Eli Mercer`; `Eli` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
+| Examiner Dovek | `Examiner Dovek`; `Dovek` | `the-weight-of-falling-up-rune-shoes` | candidate | unique | `Examiner` is a common role noun and is not used alone as a proper name. |
 | Frank | `Frank` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | GutSaint72 | `GutSaint72` | `realms` / legacy `S03` | legacy seed | unique | Runner forum username. |
 | Highway | `Highway` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Nickname or surname used as Rae's boyfriend's only story-facing name. |
 | Ilya Sen | `Ilya Sen`; `Ilya` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
-| Ivo Darr | `Ivo Darr`; `Ivo` | `the-weight-of-falling-up` | candidate | unique | — |
+| Ivo Darr | `Ivo Darr`; `Ivo` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Jocelyn Park | `Jocelyn Park`; `Jocelyn` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Jonathan | `Jonathan`; `Jomathan` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | `Jomathan` is Tess's one-off cup misspelling of Jonathan's name. |
 | Jordan Price | `Jordan Price`; `Jordan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Juni Wex | `Juni Wex`; `Juni` | `the-weight-of-falling-up-rune-shoes` | candidate | unique | — |
 | Kaela Thorn | `Kaela Thorn`; `Kaela` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
-| Kelan Rusk | `Kelan Rusk`; `Kelan` | `the-weight-of-falling-up` | candidate | unique | Replaces the accidental draft name Pell Orin, which collided with legacy Pell and Orrin Pell. |
+| Kelan Rusk | `Kelan Rusk`; `Kelan` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. It had replaced the accidental draft name Pell Orin, which collided with legacy Pell and Orrin Pell. |
 | Kest | `Kest`; `Commander Kest` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Road name used by one identity. |
 | King Othran | `King Othran`; `Othran` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Named king in the recovered refusal record. |
 | Lena Mercer | `Lena Mercer`; `Lena` | `realms` / legacy `S03` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
@@ -70,7 +75,7 @@ unnamed.
 | Mother-fragment | `Mother-fragment`; `the Mother-fragment` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | A named person-like remnant whose relationship to the Goddess remains deliberately unresolved seed material. |
 | Mrs. Halpern | `Mrs. Halpern`; `Halpern` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Sebastian's cello instructor. |
 | Nell Mercado | `Nell Mercado`; `Nell`; `Mercado` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Her surname is used alone during the Earth return. |
-| Nessa Vale | `Nessa Vale`; `Nessa` | `the-weight-of-falling-up` | candidate | unique | — |
+| Nessa Vale | `Nessa Vale`; `Nessa` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Nina | `Nina` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Nisha (S02) | `Nisha` | external legacy `S02` | legacy reference | unresolved | `Nisha` also appears in `self-reflection`; no shared identity is established. |
 | Nisha (S04) | `Nisha` | `self-reflection` / legacy `S04` | legacy seed | unresolved | `Nisha` also appears in external legacy `S02`; no shared identity is established. |
@@ -85,15 +90,15 @@ unnamed.
 | Rae | `Rae`; `Red Scarf` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `RED SCARF` as Rae's label on her relationship chart. |
 | Rana Vey | `Rana Vey`; `Rana` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Rhea Voss | `Rhea Voss`; `Chancellor Rhea Voss`; `Rhea`; `Voss` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Voss` also labels M. Voss; the legacy ruling says they are not connected, so adaptation must rename or explicitly resolve the collision. |
-| Rill | `Rill` | `the-weight-of-falling-up` | candidate | unique | Living windlace colony and named flight partner. |
+| Rill | `Rill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. Living windlace colony and named flight partner in that version. |
 | Rose | `Rose` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Saint | `Saint` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Named mule. |
 | Sebastian “Bash” Wren | `Sebastian Wren`; `Sebastian`; `Bash`; `Wren`; `Sebastian “Bash” Wren` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | His surname is used alone during the Ravel and Earth sequences. |
 | Seris Venn | `Seris Venn`; `Seris` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Sister Calvea Dorn | `Sister Calvea Dorn`; `Calvea Dorn`; `Calvea` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Siva | `Siva` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
-| Sorel Dane | `Sorel Dane`; `Sorel`; `Dane` | `the-weight-of-falling-up` | candidate | unique | — |
-| Tamsin Quill | `Tamsin Quill`; `Tamsin`; `Quill` | `the-weight-of-falling-up` | candidate | unique | — |
+| Sorel Dane | `Sorel Dane`; `Sorel`; `Dane` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Tamsin Quill | `Tamsin Quill`; `Tamsin`; `Quill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Tavra | `Tavra` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Tess | `Tess` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | The Daughter | `the Daughter`; `Daughter` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Her personal name is unrevealed; she is a distinct identity from her mother, Queen Aurelia. |
