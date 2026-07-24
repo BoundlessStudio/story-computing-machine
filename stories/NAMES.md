@@ -36,6 +36,7 @@ unnamed.
 <!-- registry:start -->
 | Character / entity | Reserved forms | Story or source | State | Reuse status | Rationale / disambiguation |
 | --- | --- | --- | --- | --- | --- |
+| Adrian Bellweather | `Adrian Bellweather`; `Adrian` | `the-shape-of-mercy` | candidate | unique | No reuse. First-person narrator; `Bellweather` is not used alone as his individual label. |
 | Anin | `Anin` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Arda Tench | `Arda Tench`; `Arda` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Assessor Havil | `Assessor Havil`; `Havil` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. `Assessor` was a common role noun, not a standalone proper name. |
@@ -51,7 +52,9 @@ unnamed.
 | Dr. Kan | `Dr. Kan`; `Doctor Kan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Eli Mercer | `Eli Mercer`; `Eli` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Examiner Dovek | `Examiner Dovek`; `Dovek` | `the-weight-of-falling-up-rune-shoes` | candidate | unique | `Examiner` is a common role noun and is not used alone as a proper name. |
+| Evelyn Bellweather | `Evelyn Bellweather`; `Evelyn` | `the-shape-of-mercy` | candidate | unique | No reuse. Eldest Bellweather sibling; the shared surname intentionally marks one family. |
 | Frank | `Frank` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
+| Garran Bellweather | `Garran Bellweather`; `Garran` | `the-shape-of-mercy` | candidate | unique | No reuse. Estranged father; “my father” remains an ordinary role description, not a registered alias. |
 | GutSaint72 | `GutSaint72` | `realms` / legacy `S03` | legacy seed | unique | Runner forum username. |
 | Highway | `Highway` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Nickname or surname used as Rae's boyfriend's only story-facing name. |
 | Ilya Sen | `Ilya Sen`; `Ilya` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
@@ -64,6 +67,7 @@ unnamed.
 | Kelan Rusk | `Kelan Rusk`; `Kelan` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. It had replaced the accidental draft name Pell Orin, which collided with legacy Pell and Orrin Pell. |
 | Kest | `Kest`; `Commander Kest` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Road name used by one identity. |
 | King Othran | `King Othran`; `Othran` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Named king in the recovered refusal record. |
+| Lady Rowena Bellweather | `Lady Rowena Bellweather`; `Rowena Bellweather`; `Rowena` | `the-shape-of-mercy` | candidate | unique | No reuse. Family head; “my mother” remains an ordinary role description, not a registered alias. |
 | Lena Mercer | `Lena Mercer`; `Lena` | `realms` / legacy `S03` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
 | Lena Venn | `Lena Venn`; `Lena` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
 | Leth Varen | `Leth Varen`; `Leth`; `Varen` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
@@ -71,6 +75,7 @@ unnamed.
 | M. Voss | `M. Voss`; `Voss` | `realms` / legacy `S03` | legacy seed | unresolved | `Voss` also labels Rhea Voss; the legacy ruling says they are not connected, so adaptation must rename or explicitly resolve the collision. |
 | Mara (S08) | `Mara`; `Mara from Hinge` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unresolved | Distinct from Mara Osset; she is Eli's one-off Hinge date, so adaptation must rename one unless meaningful reuse is explicitly approved. |
 | Mara Osset | `Mara Osset`; `Mara` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Example identity spoken by a Ravel door ward; distinct from the Mara referenced in `S08`. |
+| Marcus Bellweather | `Marcus Bellweather`; `Marcus` | `the-shape-of-mercy` | candidate | unique | No reuse. Older Bellweather sibling; never shortened to `Mar`, avoiding confusion with unresolved `Mara`. |
 | Mae | `Mae` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Mother-fragment | `Mother-fragment`; `the Mother-fragment` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | A named person-like remnant whose relationship to the Goddess remains deliberately unresolved seed material. |
 | Mrs. Halpern | `Mrs. Halpern`; `Halpern` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Sebastian's cello instructor. |
@@ -85,6 +90,7 @@ unnamed.
 | Orrin Pell | `Orrin Pell`; `Orrin`; `Pell` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Pell` also names a distinct Regent official in `S07`; the legacy record treats the overlap as accidental pending adaptation. |
 | Paul | `Paul` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Pell | `Pell` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Distinct from Orrin Pell; rename one during adaptation unless a meaningful connection is explicitly approved. |
+| Phoebe Bellweather | `Phoebe Bellweather`; `Phoebe` | `the-shape-of-mercy` | candidate | unique | No reuse. Youngest Bellweather sibling; no nickname planned. |
 | Priya | `Priya` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Queen Aurelia / the Goddess | `Queen Aurelia`; `Aurelia`; `the Goddess`; `Goddess`; `Goddess of the Sun`; `the Goddess of the Sun`; `Sun Queen`; `the Sun Queen`; `Burning Queen`; `the Burning Queen`; `Mother` | `daughter-of-the-sun` / legacy `S01` and `S01-O` | legacy seed | unique | The provisional alias set belongs to the Daughter's mother, not the Daughter. |
 | Rae | `Rae`; `Red Scarf` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `RED SCARF` as Rae's label on her relationship chart. |
