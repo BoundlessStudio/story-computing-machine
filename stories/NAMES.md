@@ -24,7 +24,7 @@ accidental reuse.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-07-23.
+Last reconciled: 2026-07-26.
 
 Seed baseline: all six portable starting seeds in `stories/_legacy/MANIFEST.md`
 (`S01-O`, `S03`, `S04`, `S06`, `S07`, and `S08`) were audited on
@@ -39,8 +39,11 @@ unnamed.
 | Adrian Bellweather | `Adrian Bellweather`; `Adrian` | `the-shape-of-mercy` | candidate | unique | No reuse. First-person narrator; `Bellweather` is not used alone as his individual label. |
 | Anin | `Anin` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Arda Tench | `Arda Tench`; `Arda` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Asha | `Asha` | `the-station-between` | candidate | unique | No reuse. Ruth's deceased younger sister, present only in hospital memory; consistently identified by her relationship to Ruth. |
 | Assessor Havil | `Assessor Havil`; `Havil` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. `Assessor` was a common role noun, not a standalone proper name. |
 | Aunt Linda | `Aunt Linda`; `Linda` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
+| Aunt Zephra Morrow | `Aunt Zephra Morrow`; `Zephra Morrow`; `Aunt Zephra`; `Zephra` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's deceased great-great-aunt; `Aunt Zephra` consistently distinguishes the kinship role, and the shared Morrow surname intentionally marks one family. `Zephra Morrow` remains reserved from planning but is not independently used in final prose. |
+| Belphegor | `Belphegor` | `the-friends-i-built` | candidate | unique | No reuse. Prompt-required archdemon and Irix's parent; `archdemon` and relational descriptions remain common nouns rather than aliases. |
 | Ben | `Ben` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Bracken | `Bracken` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Cal Mercer | `Cal Mercer`; `Cal`; `Cal-Cal` | `realms` / legacy `S03` | legacy seed | unique | — |
@@ -48,16 +51,23 @@ unnamed.
 | Captain | `Captain` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Named dog. |
 | Celia | `Celia` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Claire | `Claire`; `Tea Girl` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `TEA GIRL` as Claire's label on her relationship chart. |
+| Davina Morrow | `Davina Morrow`; `Davina` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's living mother; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | Dezra Holt | `Dezra Holt`; `Dezra` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Dr. Kan | `Dr. Kan`; `Doctor Kan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Ekri | `Ekri` | `the-friends-i-built` | candidate | unique | No reuse. Irix's classmate; distinct in spelling and cadence from reserved `Eli`. |
 | Eli Mercer | `Eli Mercer`; `Eli` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Examiner Dovek | `Examiner Dovek`; `Dovek` | `the-weight-of-falling-up-rune-shoes` | candidate | unique | `Examiner` is a common role noun and is not used alone as a proper name. |
 | Evelyn Bellweather | `Evelyn Bellweather`; `Evelyn` | `the-shape-of-mercy` | candidate | unique | No reuse. Eldest Bellweather sibling; the shared surname intentionally marks one family. |
 | Frank | `Frank` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Garran Bellweather | `Garran Bellweather`; `Garran` | `the-shape-of-mercy` | candidate | unique | No reuse. Estranged father; “my father” remains an ordinary role description, not a registered alias. |
+| Greer Morrow | `Greer Morrow`; `Greer` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Imani's necromancer girlfriend; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | GutSaint72 | `GutSaint72` | `realms` / legacy `S03` | legacy seed | unique | Runner forum username. |
+| Hester Pike | `Hester Pike`; `Hester` | `the-station-between` | candidate | unique | No reuse. Local station attendant; `Pike` is not used alone, and `attendant` remains an ordinary role noun rather than an alias. |
 | Highway | `Highway` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Nickname or surname used as Rae's boyfriend's only story-facing name. |
 | Ilya Sen | `Ilya Sen`; `Ilya` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
+| Imani Crowe | `Imani Crowe`; `Imani` | `a-place-for-the-living` | candidate | unique | No reuse. Viewpoint partner; `Crowe` is not used alone as her individual label. |
+| Instructor Bexel | `Instructor Bexel`; `Bexel` | `the-friends-i-built` | candidate | unique | No reuse. `instructor` alone remains a common role noun and is not used as a proper name. |
+| Irix | `Irix` | `the-friends-i-built` | candidate | unique | No reuse. First-person protagonist; distinct in spelling and cadence from reserved `Ilya` and `Ivo`. |
 | Ivo Darr | `Ivo Darr`; `Ivo` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Jocelyn Park | `Jocelyn Park`; `Jocelyn` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Jonathan | `Jonathan`; `Jomathan` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | `Jomathan` is Tess's one-off cup misspelling of Jonathan's name. |
@@ -67,6 +77,7 @@ unnamed.
 | Kelan Rusk | `Kelan Rusk`; `Kelan` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. It had replaced the accidental draft name Pell Orin, which collided with legacy Pell and Orrin Pell. |
 | Kest | `Kest`; `Commander Kest` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Road name used by one identity. |
 | King Othran | `King Othran`; `Othran` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Named king in the recovered refusal record. |
+| Knurl | `Knurl` | `the-friends-i-built` | candidate | unique | No reuse. Self-chosen name of one living constructed friend. |
 | Lady Rowena Bellweather | `Lady Rowena Bellweather`; `Rowena Bellweather`; `Rowena` | `the-shape-of-mercy` | candidate | unique | No reuse. Family head; “my mother” remains an ordinary role description, not a registered alias. |
 | Lena Mercer | `Lena Mercer`; `Lena` | `realms` / legacy `S03` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
 | Lena Venn | `Lena Venn`; `Lena` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
@@ -90,6 +101,7 @@ unnamed.
 | Orrin Pell | `Orrin Pell`; `Orrin`; `Pell` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Pell` also names a distinct Regent official in `S07`; the legacy record treats the overlap as accidental pending adaptation. |
 | Paul | `Paul` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Pell | `Pell` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Distinct from Orrin Pell; rename one during adaptation unless a meaningful connection is explicitly approved. |
+| Petra Bristow | `Petra Bristow`; `Petra` | `the-wrong-side-of-the-part` | candidate | unique | No unrelated reuse. Tilda's younger sister and co-owner of their late mother's shop; the shared surname intentionally marks one family, and `Bristow` is not used alone as her individual label. |
 | Phoebe Bellweather | `Phoebe Bellweather`; `Phoebe` | `the-shape-of-mercy` | candidate | unique | No reuse. Youngest Bellweather sibling; no nickname planned. |
 | Priya | `Priya` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Queen Aurelia / the Goddess | `Queen Aurelia`; `Aurelia`; `the Goddess`; `Goddess`; `Goddess of the Sun`; `the Goddess of the Sun`; `Sun Queen`; `the Sun Queen`; `Burning Queen`; `the Burning Queen`; `Mother` | `daughter-of-the-sun` / legacy `S01` and `S01-O` | legacy seed | unique | The provisional alias set belongs to the Daughter's mother, not the Daughter. |
@@ -98,18 +110,24 @@ unnamed.
 | Rhea Voss | `Rhea Voss`; `Chancellor Rhea Voss`; `Rhea`; `Voss` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Voss` also labels M. Voss; the legacy ruling says they are not connected, so adaptation must rename or explicitly resolve the collision. |
 | Rill | `Rill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. Living windlace colony and named flight partner in that version. |
 | Rose | `Rose` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
+| Ruth | `Ruth` | `the-station-between` | candidate | unique | No reuse. First-person protagonist; no surname, nickname, or alias appears in the final story. |
+| Sabine Kroll | `Sabine Kroll`; `Sabine` | `the-station-between` | candidate | unique | No reuse. Hell-assigned passenger; `Kroll` is not used alone, and a blue wrist elastic preserves reader recognition through the transfer. |
 | Saint | `Saint` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Named mule. |
 | Sebastian “Bash” Wren | `Sebastian Wren`; `Sebastian`; `Bash`; `Wren`; `Sebastian “Bash” Wren` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | His surname is used alone during the Ravel and Earth sequences. |
 | Seris Venn | `Seris Venn`; `Seris` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Sister Calvea Dorn | `Sister Calvea Dorn`; `Calvea Dorn`; `Calvea` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Siva | `Siva` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Solstice Evening Bell | `Solstice Evening Bell`; `Solstice`; `Evening Bell`; `First Monarch`; `the First Monarch`; `queen of all magical girls`; `the queen of all magical girls` | `solstice-evening-bell` | candidate | unique | Prompt-required identity. Final prose uses the full name, `Solstice`, and both regnal titles for the same adult protagonist; `Evening Bell` remains reserved from planning but is not used independently. `Bell` and `Queen` are never used alone, preventing confusion with the Bellweather family and Queen Aurelia; the story establishes no crossover with those identities or the Goddess of Time. |
 | Sorel Dane | `Sorel Dane`; `Sorel`; `Dane` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Talvi | `Talvi` | `the-friends-i-built` | candidate | unique | No reuse. Irix's damned-soul parent; distinguishable from `Tavra` and `Tamsin` by full spelling, cadence, role, and story. |
 | Tamsin Quill | `Tamsin Quill`; `Tamsin`; `Quill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Tavra | `Tavra` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Tess | `Tess` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | The Daughter | `the Daughter`; `Daughter` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Her personal name is unrevealed; she is a distinct identity from her mother, Queen Aurelia. |
 | The Goddess of Time | `the Goddess of Time`; `Goddess of Time`; `Time` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | Named person-like deity; the source gives no personal name. |
 | The Hollow Regent | `the Hollow Regent`; `Hollow Regent`; `Regent` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Title used as the identity's only story-facing name. |
+| Thimble | `Thimble` | `the-friends-i-built` | candidate | unique | No reuse. Self-chosen name of one living constructed friend. |
+| Tilda Bristow | `Tilda Bristow`; `Tilda` | `the-wrong-side-of-the-part` | candidate | unique | No reuse. First-person protagonist; the inverted state is the same continuous identity and receives no separate name or alias. `Bristow` is not used alone as her individual label. |
 | Tovan Rek / the Keeper Below | `Tovan Rek`; `Tovan`; `the Keeper Below`; `Keeper Below`; `Hareth Tovan`; `the Hareth Tovan`; `Ninth Hollow Tovan`; `the Ninth Hollow Tovan` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Tovan is the mobile expression of the intelligence worshipped under this title; later branches share it. |
 | Tuck | `Tuck` | `realms` / legacy `S03` | legacy seed | unique | — |
 <!-- registry:end -->

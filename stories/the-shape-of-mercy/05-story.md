@@ -8,14 +8,6 @@ created: 2026-07-23
 
 # The Shape of Mercy
 
-Our neighbors called House Bellweather a great mage lineage, which meant the ordinary supper knife could become an accusation.
-
-Mine had no ward on it.
-
-Everyone else's silver gave off the faint blue shimmer my mother fed into the household things she wished to keep from breaking, tarnishing, or being used for murder during formal occasions. My knife was plain steel. So was my cup, my chair, and the square of floor beneath it.
-
-I had spent nineteen years believing these precautions were tact.
-
 Evelyn Bellweather, my eldest sister, could turn forests to ash. She had once stopped a wildfire by burning the untouched trees ahead of it. The songs omitted the black hills, the displaced villages, and the scars beneath her left glove. Marcus Bellweather, my older brother, had frozen an ocean reach hard enough to march an army across it, although he maintained that the fish had been deeply impressed. Phoebe Bellweather, my younger sibling, could put her hand against the muzzle of a raging magical beast and feel where terror ended and hunger began.
 
 I could make a supper knife nervous.
