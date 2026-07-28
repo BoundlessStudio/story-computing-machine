@@ -24,7 +24,7 @@ accidental reuse.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-07-26.
+Last reconciled: 2026-07-27.
 
 Seed baseline: all six portable starting seeds in `stories/_legacy/MANIFEST.md`
 (`S01-O`, `S03`, `S04`, `S06`, `S07`, and `S08`) were audited on
@@ -51,23 +51,28 @@ unnamed.
 | Captain | `Captain` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Named dog. |
 | Celia | `Celia` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Claire | `Claire`; `Tea Girl` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `TEA GIRL` as Claire's label on her relationship chart. |
+| Crowned Ancestors | `Crowned Ancestors`; `the Crowned Ancestors` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Personified collective of discontinued royal masks worshipped as supposedly dead monarchs; not a living magical collective and not an alias for Kharost. |
 | Davina Morrow | `Davina Morrow`; `Davina` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's living mother; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | Dezra Holt | `Dezra Holt`; `Dezra` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Dr. Kan | `Dr. Kan`; `Doctor Kan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Edda Rook | `Edda Rook`; `Edda` | `the-thirteenth-command` | candidate | unique | No reuse. Older civilian floodworks dispatcher and viewpoint Host; `Rook` is not used alone as her individual label, and the interface term `Host` remains a common role rather than an alias. |
 | Ekri | `Ekri` | `the-friends-i-built` | candidate | unique | No reuse. Irix's classmate; distinct in spelling and cadence from reserved `Eli`. |
 | Eli Mercer | `Eli Mercer`; `Eli` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Examiner Dovek | `Examiner Dovek`; `Dovek` | `the-weight-of-falling-up-rune-shoes` | candidate | unique | `Examiner` is a common role noun and is not used alone as a proper name. |
 | Evelyn Bellweather | `Evelyn Bellweather`; `Evelyn` | `the-shape-of-mercy` | candidate | unique | No reuse. Eldest Bellweather sibling; the shared surname intentionally marks one family. |
 | Frank | `Frank` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Garran Bellweather | `Garran Bellweather`; `Garran` | `the-shape-of-mercy` | candidate | unique | No reuse. Estranged father; “my father” remains an ordinary role description, not a registered alias. |
+| Gelda Parn | `Gelda Parn`; `Gelda` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. Human city delegate in the grain dispute; `Parn` is not used alone, and faction titles remain common descriptions. |
 | Greer Morrow | `Greer Morrow`; `Greer` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Imani's necromancer girlfriend; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | GutSaint72 | `GutSaint72` | `realms` / legacy `S03` | legacy seed | unique | Runner forum username. |
+| Harven Coil | `Harven Coil`; `Harven` | `the-thirteenth-command` | candidate | unique | No reuse. Copperwell watch captain; `watch captain` remains a common role description and reserved `Captain` is never used as his standalone name. `Coil` is not used alone. |
 | Hester Pike | `Hester Pike`; `Hester` | `the-station-between` | candidate | unique | No reuse. Local station attendant; `Pike` is not used alone, and `attendant` remains an ordinary role noun rather than an alias. |
 | Highway | `Highway` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Nickname or surname used as Rae's boyfriend's only story-facing name. |
 | Ilya Sen | `Ilya Sen`; `Ilya` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Imani Crowe | `Imani Crowe`; `Imani` | `a-place-for-the-living` | candidate | unique | No reuse. Viewpoint partner; `Crowe` is not used alone as her individual label. |
 | Instructor Bexel | `Instructor Bexel`; `Bexel` | `the-friends-i-built` | candidate | unique | No reuse. `instructor` alone remains a common role noun and is not used as a proper name. |
 | Irix | `Irix` | `the-friends-i-built` | candidate | unique | No reuse. First-person protagonist; distinct in spelling and cadence from reserved `Ilya` and `Ivo`. |
+| Istra Noll | `Istra Noll`; `Istra`; `Noll` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. First-person human water auditor; `Noll` is used by Kharost as a surname label, while the full identity remains reserved. |
 | Ivo Darr | `Ivo Darr`; `Ivo` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Jocelyn Park | `Jocelyn Park`; `Jocelyn` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Jonathan | `Jonathan`; `Jomathan` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | `Jomathan` is Tess's one-off cup misspelling of Jonathan's name. |
@@ -76,6 +81,7 @@ unnamed.
 | Kaela Thorn | `Kaela Thorn`; `Kaela` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Kelan Rusk | `Kelan Rusk`; `Kelan` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. It had replaced the accidental draft name Pell Orin, which collided with legacy Pell and Orrin Pell. |
 | Kest | `Kest`; `Commander Kest` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Road name used by one identity. |
+| Kharost / Queen Orvessa IV | `Kharost`; `Queen Orvessa IV`; `Queen Orvessa`; `Orvessa` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; names remain reserved. Kharost is one continuing dragon wearing the public regnal role Queen Orvessa IV; that story explicitly identifies the forms as one person. |
 | King Othran | `King Othran`; `Othran` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Named king in the recovered refusal record. |
 | Knurl | `Knurl` | `the-friends-i-built` | candidate | unique | No reuse. Self-chosen name of one living constructed friend. |
 | Lady Rowena Bellweather | `Lady Rowena Bellweather`; `Rowena Bellweather`; `Rowena` | `the-shape-of-mercy` | candidate | unique | No reuse. Family head; “my mother” remains an ordinary role description, not a registered alias. |
@@ -83,6 +89,8 @@ unnamed.
 | Lena Venn | `Lena Venn`; `Lena` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
 | Leth Varen | `Leth Varen`; `Leth`; `Varen` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Letha | `Letha` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
+| Ludo Dask | `Ludo Dask`; `Ludo` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. Human terrace delegate in the grain dispute; `Dask` is not used alone, and `delegate` remains a common role noun. |
+| Lumen Mott | `Lumen Mott`; `Lumen`; `Adjudicator Mott`; `Mott` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. First-person human royal adjudicator; all forms identify one person, while `adjudicator` alone remains a common office noun. |
 | M. Voss | `M. Voss`; `Voss` | `realms` / legacy `S03` | legacy seed | unresolved | `Voss` also labels Rhea Voss; the legacy ruling says they are not connected, so adaptation must rename or explicitly resolve the collision. |
 | Mara (S08) | `Mara`; `Mara from Hinge` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unresolved | Distinct from Mara Osset; she is Eli's one-off Hinge date, so adaptation must rename one unless meaningful reuse is explicitly approved. |
 | Mara Osset | `Mara Osset`; `Mara` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Example identity spoken by a Ravel door ward; distinct from the Mara referenced in `S08`. |
@@ -117,8 +125,10 @@ unnamed.
 | Seris Venn | `Seris Venn`; `Seris` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Sister Calvea Dorn | `Sister Calvea Dorn`; `Calvea Dorn`; `Calvea` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Siva | `Siva` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Sleepless Majesty | `the Sleepless Majesty`; `Sleepless Majesty`; `Majesty`; `Your Majesty` | `the-peace-they-could-sleep-through` | candidate | deliberate | Deliberate internal sharing: exactly twelve distinct dragons jointly enact one continuous living royal identity and rotate through its single human guise. Before revelation the singular title and appearance identify the collective; afterward individual `Varkesh` is distinguished from the other eleven and from the former collective sovereign. This is not a crossover or unrelated name reuse. |
 | Solstice Evening Bell | `Solstice Evening Bell`; `Solstice`; `Evening Bell`; `First Monarch`; `the First Monarch`; `queen of all magical girls`; `the queen of all magical girls` | `solstice-evening-bell` | candidate | unique | Prompt-required identity. Final prose uses the full name, `Solstice`, and both regnal titles for the same adult protagonist; `Evening Bell` remains reserved from planning but is not used independently. `Bell` and `Queen` are never used alone, preventing confusion with the Bellweather family and Queen Aurelia; the story establishes no crossover with those identities or the Goddess of Time. |
 | Sorel Dane | `Sorel Dane`; `Sorel`; `Dane` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Sula Brant | `Sula Brant`; `Sula` | `the-thirteenth-command` | candidate | unique | No reuse. Edda's former apprentice and the south-gate shift lead; distinct in spelling, cadence, and role from reserved `Siva`, `Solstice`, `Seris`, `Sabine`, and `Sorel`. `Brant` is not used alone. |
 | Talvi | `Talvi` | `the-friends-i-built` | candidate | unique | No reuse. Irix's damned-soul parent; distinguishable from `Tavra` and `Tamsin` by full spelling, cadence, role, and story. |
 | Tamsin Quill | `Tamsin Quill`; `Tamsin`; `Quill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Tavra | `Tavra` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
@@ -130,6 +140,8 @@ unnamed.
 | Tilda Bristow | `Tilda Bristow`; `Tilda` | `the-wrong-side-of-the-part` | candidate | unique | No reuse. First-person protagonist; the inverted state is the same continuous identity and receives no separate name or alias. `Bristow` is not used alone as her individual label. |
 | Tovan Rek / the Keeper Below | `Tovan Rek`; `Tovan`; `the Keeper Below`; `Keeper Below`; `Hareth Tovan`; `the Hareth Tovan`; `Ninth Hollow Tovan`; `the Ninth Hollow Tovan` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Tovan is the mobile expression of the intelligence worshipped under this title; later branches share it. |
 | Tuck | `Tuck` | `realms` / legacy `S03` | legacy seed | unique | — |
+| Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | candidate | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
+| Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
 <!-- registry:end -->
 
 ## Known unresolved legacy collisions
