@@ -1,12 +1,13 @@
 ---
 name: prompt-calibration
-description: "Select informative prompts from the latest scout ranks 11–100, ask the user to order them, and record the ordering as comparative taste evidence."
+description: "Select informative prompts from the latest archived ranks 11–100, ask the user to order them, and record the ordering as comparative taste evidence."
 ---
 
 # Prompt Calibration
 
-Use this skill for on-demand taste calibration after at least one complete
-prompt-scout scan. It does not fetch Reddit or start story production.
+Use this skill for on-demand taste calibration when at least one complete
+archived prompt ranking exists. It does not fetch Reddit or start story
+production.
 
 ## Create a calibration set
 
@@ -65,7 +66,7 @@ eligible prompt. Never recycle a previously asked post merely to reach ten.
 
 ## Boundaries
 
-- Do not fetch Reddit; calibrate only against a completed scout batch.
+- Do not fetch Reddit; calibrate only against a completed archived ranking.
 - Do not select any current top-ten prompt or previously asked calibration ID.
 - Do not edit `universe/`, `stories/`, or story indexes.
 - Do not infer a permanent dislike from a single relative ordering.

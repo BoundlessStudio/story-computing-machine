@@ -22,16 +22,14 @@ final edit followed by review of the reader-facing story.
 If length, point of view, or tone are omitted, the workflow records reasonable
 defaults instead of stopping for low-impact questions.
 
-## On-demand prompt discovery
+## On-demand prompt calibration
 
-Ask `Run the prompt scout` to have the project inspect the newest 100 previously
-unscanned `[WP]` posts from r/WritingPrompts, rank all 100 against the persistent
-taste profile, and return the best ten. Ask `Run the prompt calibrator` to get a
-diverse comparison set drawn from ranks 11–100; ordering that set teaches the
-scout what should rise or fall in later runs. Neither agent is scheduled.
+Ask `Run the prompt calibrator` to get a diverse comparison set drawn from ranks
+11–100 in the latest archived prompt ranking. Ordering that set records
+comparative taste evidence. The agent is not scheduled.
 
-Prompt rankings, deduplication IDs, feedback, and calibration history live in
-`data/prompt-scout/`. Recommendations remain non-canon prompts until separately
+Historical prompt rankings, deduplication IDs, feedback, and calibration history
+live in `data/prompt-scout/`. Ranked prompts remain non-canon until separately
 sent through the story workflow.
 
 ## Project layout
