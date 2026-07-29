@@ -50,7 +50,12 @@ a:focus-visible {
 }
 
 .site-header {
+  align-items: center;
   border-bottom: 1px solid var(--line);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.5rem;
+  justify-content: space-between;
   padding-block: 1.2rem;
 }
 
@@ -61,6 +66,11 @@ a:focus-visible {
   letter-spacing: 0.06em;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.repository-link {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.72rem;
 }
 
 .library {

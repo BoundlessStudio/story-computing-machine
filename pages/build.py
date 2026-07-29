@@ -186,6 +186,7 @@ def render_index(stories: list[Story]) -> str:
     total_words = sum(story.word_count for story in stories)
     content = f"""  <header class="site-header">
     <a class="site-name" href="./">Story Computing Machine</a>
+    <a class="repository-link" href="https://github.com/BoundlessStudio/story-computing-machine">BoundlessStudio/story-computing-machine ↗</a>
   </header>
   <main class="library">
     <p class="eyebrow">Shared-universe fiction</p>
