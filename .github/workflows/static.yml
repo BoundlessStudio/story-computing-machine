@@ -4,11 +4,13 @@ on:
   push:
     branches: ["main"]
     paths:
+      - "stories/**/00-prompt.md"
       - "stories/**/05-story.md"
       - "pages/**"
       - ".github/workflows/static.yml"
   pull_request:
     paths:
+      - "stories/**/00-prompt.md"
       - "stories/**/05-story.md"
       - "pages/**"
       - ".github/workflows/static.yml"

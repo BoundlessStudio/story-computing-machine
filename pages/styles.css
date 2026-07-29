@@ -132,12 +132,36 @@ h1 {
   margin: 1rem 0 0;
 }
 
+.collection-section {
+  margin-top: 3.5rem;
+}
+
+.collection-section + .collection-section {
+  border-top: 1px solid var(--line);
+  margin-top: 5rem;
+  padding-top: 4rem;
+}
+
+.collection-section h2 {
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.section-intro {
+  color: var(--muted);
+  margin: 0.9rem 0 0;
+  max-width: 44rem;
+}
+
 .story-grid {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
   list-style: none;
-  margin: 3.5rem 0 0;
+  margin: 1.75rem 0 0;
   padding: 0;
 }
 
@@ -166,10 +190,30 @@ h1 {
   transform: translateY(-2px);
 }
 
+.story-link-static {
+  box-shadow: none;
+  cursor: default;
+}
+
+.story-link-static:hover {
+  border-color: var(--line);
+  transform: none;
+}
+
 .story-title {
   color: var(--ink);
   font-size: 1.35rem;
   line-height: 1.25;
+}
+
+.story-prompt,
+.legacy-description {
+  color: var(--muted);
+  display: flex;
+  flex-direction: column;
+  font-size: 0.88rem;
+  gap: 0.35rem;
+  line-height: 1.5;
 }
 
 .story-meta {
@@ -200,6 +244,11 @@ h1 {
 .status-abandoned {
   background: #eee1df;
   color: #74453f;
+}
+
+.status-legacy {
+  background: #e3e5ef;
+  color: #454b72;
 }
 
 .story {

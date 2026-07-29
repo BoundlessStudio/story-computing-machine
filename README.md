@@ -41,16 +41,16 @@ sent through the story workflow.
 - `.agents/skills/` — reusable workflows and their owned supporting scripts.
 - `data/` — persistent operational state shared by project workflows.
 - `universe/` — the authoritative shared-universe notes.
-- `stories/` — one directory per story plus an index, reusable template, and
-  non-canon legacy archive under `stories/_legacy/`.
+- `stories/` — one directory per story plus an index and reusable template.
 
 ## GitHub Pages
 
 The Pages workflow builds a reader site from publishable
-`stories/*/05-story.md` files. It generates a homepage linking to every
-candidate, final, abandoned, or apocryphal story and excludes in-progress
-placeholders. Pull requests validate the build; relevant pushes to `main`
-deploy it.
+`stories/*/05-story.md` files. Its homepage links to every candidate, final,
+abandoned, or apocryphal story, displays each available `[WP]` from
+`00-prompt.md`, and separately lists selected legacy seeds without presenting
+them as finished prose or canon. Pull requests validate the build; relevant
+pushes to `main` deploy it.
 
 To preview the generated files locally:
 
