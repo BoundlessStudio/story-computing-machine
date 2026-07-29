@@ -12,6 +12,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 | `solstice-evening-bell` | *Solstice Evening Bell* | candidate | no | — | Lone-ultrahuman defense using twelve freely donated final spells against 131,072 invasion frames certified PASS; proposed canon delta not promoted. |
 | `the-city-of-eleven-foundations` | *The City of Eleven Foundations* | candidate | no | — | Architecture-first eleven-district hydraulic crisis certified PASS; proposed canon delta not promoted. |
 | `the-friends-i-built` | *The Friends I Built* | candidate | no | — | Living-construct school collaboration certified PASS; proposed canon delta not promoted. |
+| `the-future-that-refused-us` | *The Future That Refused Us* | candidate | no | — | Binding civic prophecy broken through synchronized deviations; sixty-eight-death flood aftermath and accountable rescue certified PASS; proposed canon delta not promoted. |
 | `the-names-on-the-cups` | *The Names on the Cups* | in-progress | no | — | Prompt-stage legacy seed imported from historical prose source `S06`. |
 | `the-peace-they-could-sleep-through` | *The Peace They Could Sleep Through* | candidate | no | — | Worshipped twelve-dragon collective, grain-debt crisis, and human-authored ninety-day common plea certified PASS; proposed canon delta not promoted. |
 | `the-shape-of-mercy` | *The Shape of Mercy* | candidate | no | — | Bellweather severance mystery certified PASS; proposed canon delta not promoted. |

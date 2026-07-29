@@ -24,7 +24,7 @@ accidental reuse.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-07-27.
+Last reconciled: 2026-07-28.
 
 Seed baseline: all six portable starting seeds in `stories/_legacy/MANIFEST.md`
 (`S01-O`, `S03`, `S04`, `S06`, `S07`, and `S08`) were audited on
@@ -43,6 +43,7 @@ unnamed.
 | Assessor Havil | `Assessor Havil`; `Havil` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. `Assessor` was a common role noun, not a standalone proper name. |
 | Aunt Linda | `Aunt Linda`; `Linda` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Aunt Zephra Morrow | `Aunt Zephra Morrow`; `Zephra Morrow`; `Aunt Zephra`; `Zephra` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's deceased great-great-aunt; `Aunt Zephra` consistently distinguishes the kinship role, and the shared Morrow surname intentionally marks one family. `Zephra Morrow` remains reserved from planning but is not independently used in final prose. |
+| Baird Ansel | `Baird Ansel`; `Baird` | `the-future-that-refused-us` | candidate | unique | No reuse. Sablewake's first reader; `first reader` remains a lowercase common role, and `Ansel` is not used alone as his individual label. |
 | Belphegor | `Belphegor` | `the-friends-i-built` | candidate | unique | No reuse. Prompt-required archdemon and Irix's parent; `archdemon` and relational descriptions remain common nouns rather than aliases. |
 | Ben | `Ben` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Bracken | `Bracken` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
@@ -101,6 +102,7 @@ unnamed.
 | Nell Mercado | `Nell Mercado`; `Nell`; `Mercado` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Her surname is used alone during the Earth return. |
 | Nessa Vale | `Nessa Vale`; `Nessa` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Nina | `Nina` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
+| Nilo Cleft | `Nilo Cleft`; `Nilo` | `the-future-that-refused-us` | candidate | unique | No unrelated reuse. Zadie's thirteen-year-old son and the prophecy's scheduled undergate casualty; the shared Cleft surname intentionally marks their parent-child relationship, `Cleft` is not used alone, and their given names and roles distinguish them. |
 | Nisha (S02) | `Nisha` | external legacy `S02` | legacy reference | unresolved | `Nisha` also appears in `self-reflection`; no shared identity is established. |
 | Nisha (S04) | `Nisha` | `self-reflection` / legacy `S04` | legacy seed | unresolved | `Nisha` also appears in external legacy `S02`; no shared identity is established. |
 | Nora | `Nora`; `Green Coat` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `GREEN COAT` as Nora's label on her relationship chart. |
@@ -142,6 +144,7 @@ unnamed.
 | Tuck | `Tuck` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | candidate | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
 | Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
+| Zadie Cleft | `Zadie Cleft`; `Zadie` | `the-future-that-refused-us` | candidate | unique | No unrelated reuse. Viewpoint builder and operator of Sablewake's civic bells and Nilo's mother; the shared Cleft surname intentionally marks their parent-child relationship, and `Cleft` is not used alone as her individual label. |
 <!-- registry:end -->
 
 ## Known unresolved legacy collisions
