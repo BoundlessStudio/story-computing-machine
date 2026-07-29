@@ -190,16 +190,6 @@ h1 {
   transform: translateY(-2px);
 }
 
-.story-link-static {
-  box-shadow: none;
-  cursor: default;
-}
-
-.story-link-static:hover {
-  border-color: var(--line);
-  transform: none;
-}
-
 .story-title {
   color: var(--ink);
   font-size: 1.35rem;
@@ -270,11 +260,53 @@ h1 {
   margin-bottom: clamp(2.5rem, 7vw, 5rem);
 }
 
+.story h2 {
+  font-size: clamp(1.5rem, 4vw, 2.1rem);
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 2.75rem 0 1rem;
+}
+
+.story h3 {
+  font-size: 1.2rem;
+  line-height: 1.3;
+  margin: 2.25rem 0 0.75rem;
+}
+
 .story p {
   hyphens: auto;
   margin: 0 0 1.25em;
   orphans: 3;
   widows: 3;
+}
+
+.story li {
+  margin-bottom: 0.45rem;
+}
+
+.story blockquote {
+  border-left: 3px solid var(--line);
+  color: var(--muted);
+  margin: 1.75rem 0;
+  padding-left: 1.25rem;
+}
+
+.story table {
+  border-collapse: collapse;
+  display: block;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.78rem;
+  margin-block: 2rem;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.story th,
+.story td {
+  border: 1px solid var(--line);
+  padding: 0.55rem 0.7rem;
+  text-align: left;
+  vertical-align: top;
 }
 
 .story hr {

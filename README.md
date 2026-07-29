@@ -48,9 +48,11 @@ sent through the story workflow.
 The Pages workflow builds a reader site from publishable
 `stories/*/05-story.md` files. Its homepage links to every candidate, final,
 abandoned, or apocryphal story, displays each available `[WP]` from
-`00-prompt.md`, and separately lists selected legacy seeds without presenting
-them as finished prose or canon. Pull requests validate the build; relevant
-pushes to `main` deploy it.
+`00-prompt.md`, and separately links to readable historical legacy sources.
+Legacy pages are retrieved from the exact Git revision recorded in
+`pages/legacy-stories.json`, verified against their recorded SHA-256 digests,
+and clearly labeled as unreviewed adaptation seeds rather than canon. Pull
+requests validate the build; relevant pushes to `main` deploy it.
 
 To preview the generated files locally:
 

@@ -4,9 +4,12 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
+import json
 import re
 import shutil
+import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -16,6 +19,7 @@ import markdown
 REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
 STORIES_ROOT = REPOSITORY_ROOT / "stories"
 ASSETS_ROOT = Path(__file__).resolve().parent
+LEGACY_MANIFEST = ASSETS_ROOT / "legacy-stories.json"
 PUBLISHABLE_STATUSES = {"candidate", "final", "abandoned", "apocrypha"}
 PLACEHOLDER_TEXT = "No reader-facing final story yet."
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
@@ -38,8 +42,12 @@ class Story:
         return self.body is not None
 
     @property
-    def is_legacy_seed(self) -> bool:
-        return self.body is None and self.legacy_source_form is not None
+    def is_legacy_source(self) -> bool:
+        return self.legacy_source_form is not None
+
+    @property
+    def is_reader_ready(self) -> bool:
+        return self.is_readable and not self.is_legacy_source
 
 
 def parse_front_matter(source: str, path: Path) -> tuple[dict[str, object], str]:
@@ -118,8 +126,130 @@ def parse_prompt_contract(story_directory: Path) -> tuple[str | None, str | None
     return writing_prompt, legacy_source_form
 
 
+def load_legacy_manifest() -> tuple[str, dict[str, dict[str, str]]]:
+    """Load and validate the controlled Git locators for readable legacy sources."""
+    try:
+        manifest = json.loads(LEGACY_MANIFEST.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise ValueError(f"Cannot read {LEGACY_MANIFEST}: {error}") from error
+
+    revision = manifest.get("revision")
+    if not isinstance(revision, str) or not re.fullmatch(r"[0-9a-f]{40}", revision):
+        raise ValueError(f"{LEGACY_MANIFEST}: revision must be a full Git SHA")
+
+    entries = manifest.get("stories")
+    if not isinstance(entries, list) or not entries:
+        raise ValueError(f"{LEGACY_MANIFEST}: stories must be a non-empty list")
+
+    stories: dict[str, dict[str, str]] = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            raise ValueError(f"{LEGACY_MANIFEST}: each story must be an object")
+        slug = entry.get("slug")
+        source_path = entry.get("source_path")
+        digest = entry.get("sha256")
+        if not isinstance(slug, str) or not SLUG_PATTERN.fullmatch(slug):
+            raise ValueError(f"{LEGACY_MANIFEST}: invalid legacy slug {slug!r}")
+        if slug in stories:
+            raise ValueError(f"{LEGACY_MANIFEST}: duplicate legacy slug {slug!r}")
+        if (
+            not isinstance(source_path, str)
+            or not source_path.startswith("stories/_legacy/imports/")
+            or ".." in Path(source_path).parts
+        ):
+            raise ValueError(
+                f"{LEGACY_MANIFEST}: unsafe source path for {slug!r}"
+            )
+        if not isinstance(digest, str) or not re.fullmatch(
+            r"[0-9a-f]{64}", digest
+        ):
+            raise ValueError(f"{LEGACY_MANIFEST}: invalid SHA-256 for {slug!r}")
+        stories[slug] = {"source_path": source_path, "sha256": digest}
+
+    return revision, stories
+
+
+def normalize_legacy_source(source: str, title: str, source_path: str) -> str:
+    """Remove source-document wrappers that would duplicate the page heading."""
+    source = source.lstrip("\ufeff")
+    if source.startswith("---"):
+        _, source = parse_front_matter(source, Path(source_path))
+
+    lines = source.strip().splitlines()
+    if not lines:
+        raise ValueError(f"{source_path}: legacy source is empty")
+    first_line = lines[0].strip()
+    plain_first_line = re.sub(r"[#*_`]", "", first_line).strip()
+    if first_line.startswith("# ") or plain_first_line.casefold() == title.casefold():
+        lines = lines[1:]
+
+    source = "\n".join(lines).strip()
+    seen_source_h1 = False
+
+    def normalize_heading(match: re.Match[str]) -> str:
+        nonlocal seen_source_h1
+        source_level = len(match.group(1))
+        if source_level == 1:
+            seen_source_h1 = True
+            page_level = 2
+        elif seen_source_h1:
+            page_level = min(6, source_level + 1)
+        else:
+            page_level = source_level
+        return f"{'#' * page_level} "
+
+    source = re.sub(r"(?m)^(#{1,6})\s+", normalize_heading, source)
+    return source
+
+
+def load_legacy_source(
+    slug: str,
+    title: str,
+    revision: str,
+    manifest: dict[str, dict[str, str]],
+) -> str:
+    """Retrieve and verify one exact legacy snapshot from repository history."""
+    entry = manifest.get(slug)
+    if entry is None:
+        raise ValueError(f"{LEGACY_MANIFEST}: no source configured for {slug!r}")
+
+    source_path = entry["source_path"]
+    try:
+        result = subprocess.run(
+            ["git", "show", f"{revision}:{source_path}"],
+            cwd=REPOSITORY_ROOT,
+            check=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+    except FileNotFoundError as error:
+        raise ValueError("Git is required to load readable legacy sources") from error
+    except subprocess.CalledProcessError as error:
+        details = error.stderr.decode("utf-8", errors="replace").strip()
+        raise ValueError(
+            f"Cannot load legacy source {slug!r}; fetch full Git history. {details}"
+        ) from error
+
+    source_bytes = result.stdout
+    expected_digest = entry["sha256"]
+    blob_digest = hashlib.sha256(source_bytes).hexdigest()
+    crlf_digest = hashlib.sha256(source_bytes.replace(b"\n", b"\r\n")).hexdigest()
+    if expected_digest not in {blob_digest, crlf_digest}:
+        raise ValueError(
+            f"{source_path}: SHA-256 mismatch; expected {expected_digest}, "
+            f"got {blob_digest}"
+        )
+
+    try:
+        source = source_bytes.decode("utf-8")
+    except UnicodeDecodeError as error:
+        raise ValueError(f"{source_path}: source is not valid UTF-8") from error
+    return normalize_legacy_source(source, title, source_path)
+
+
 def load_stories() -> list[Story]:
     stories: list[Story] = []
+    legacy_revision, legacy_manifest = load_legacy_manifest()
     for story_file in sorted(STORIES_ROOT.glob("*/05-story.md")):
         if story_file.parent.name.startswith("_"):
             continue
@@ -162,8 +292,10 @@ def load_stories() -> list[Story]:
                 )
             story_body: str | None = body
         elif legacy_source_form:
-            story_body = None
-            word_count = 0
+            story_body = load_legacy_source(
+                slug, title, legacy_revision, legacy_manifest
+            )
+            word_count = len(WORD_PATTERN.findall(markdown_text(story_body)))
         else:
             continue
 
@@ -180,8 +312,21 @@ def load_stories() -> list[Story]:
             )
         )
 
-    if not any(story.is_readable for story in stories):
+    if not any(story.is_reader_ready for story in stories):
         raise ValueError("No publishable stories were found")
+    configured_legacy_slugs = set(legacy_manifest)
+    loaded_legacy_slugs = {
+        story.slug for story in stories if story.is_legacy_source
+    }
+    if loaded_legacy_slugs != configured_legacy_slugs:
+        missing = configured_legacy_slugs - loaded_legacy_slugs
+        unexpected = loaded_legacy_slugs - configured_legacy_slugs
+        details = []
+        if missing:
+            details.append(f"not indexed: {', '.join(sorted(missing))}")
+        if unexpected:
+            details.append(f"not configured: {', '.join(sorted(unexpected))}")
+        raise ValueError(f"Legacy source mismatch ({'; '.join(details)})")
     return sorted(stories, key=lambda story: story.title.casefold())
 
 
@@ -238,37 +383,37 @@ def render_readable_card(story: Story) -> str:
 def render_legacy_card(story: Story) -> str:
     canon_label = "Canon" if story.canon else "Not canon"
     return f"""      <li class="story-card">
-        <article class="story-link story-link-static">
+        <a class="story-link story-link-legacy" href="stories/{html.escape(story.slug)}/">
           <span class="story-title">{html.escape(story.title)}</span>
           <span class="legacy-description">
-            Selected legacy seed: {html.escape(story.legacy_source_form or "historical source")}.
+            Historical source: {html.escape(story.legacy_source_form or "legacy story")}.
           </span>
           <span class="story-meta">
-            <span class="status status-legacy">Legacy seed</span>
-            <span>In development</span>
+            <span class="status status-legacy">Legacy source</span>
+            <span>{story.word_count:,} words</span>
             <span>{canon_label}</span>
           </span>
-        </article>
+        </a>
       </li>"""
 
 
 def render_index(stories: list[Story]) -> str:
-    readable_stories = [story for story in stories if story.is_readable]
-    legacy_stories = [story for story in stories if story.is_legacy_seed]
+    reader_ready_stories = [story for story in stories if story.is_reader_ready]
+    legacy_stories = [story for story in stories if story.is_legacy_source]
     cards = []
-    for story in readable_stories:
+    for story in reader_ready_stories:
         cards.append(render_readable_card(story))
     legacy_cards = []
     for story in legacy_stories:
         legacy_cards.append(render_legacy_card(story))
 
-    total_words = sum(story.word_count for story in readable_stories)
+    total_words = sum(story.word_count for story in stories)
     legacy_section = ""
     if legacy_cards:
         legacy_section = f"""
     <section class="collection-section legacy-section" aria-labelledby="legacy-heading">
-      <h2 id="legacy-heading">Legacy seeds</h2>
-      <p class="section-intro">Selected historical stories and outlines retained for future adaptation. These entries are in development and are not canon.</p>
+      <h2 id="legacy-heading">Readable legacy sources</h2>
+      <p class="section-intro">Historical stories and outlines preserved for reading and future adaptation. They have not completed the current review workflow and are not canon.</p>
       <ul class="story-grid">
 {chr(10).join(legacy_cards)}
       </ul>
@@ -285,7 +430,7 @@ def render_index(stories: list[Story]) -> str:
     <p class="eyebrow">Shared-universe fiction</p>
     <h1>Short stories</h1>
     <p class="lede">Reader-facing stories from the Boundless shared universe.</p>
-    <p class="collection-count">{len(readable_stories)} readable stories · {len(legacy_stories)} legacy seeds · {total_words:,} words</p>
+    <p class="collection-count">{len(reader_ready_stories)} reader-ready stories · {len(legacy_stories)} readable legacy sources · {total_words:,} words</p>
     <section class="collection-section" aria-labelledby="stories-heading">
       <h2 id="stories-heading">Reader-ready stories</h2>
       <ul class="story-grid">
@@ -304,20 +449,36 @@ def render_index(stories: list[Story]) -> str:
 
 def render_story(story: Story) -> str:
     if story.body is None:
-        raise ValueError(f"{story.slug}: legacy seed has no reader-facing story")
+        raise ValueError(f"{story.slug}: story has no readable body")
+    story_markdown = story.body
+    if story.is_legacy_source:
+        story_markdown = f"# {story.title}\n\n{story.body}"
     story_html = markdown.markdown(
-        story.body,
+        story_markdown,
         extensions=["extra", "sane_lists"],
         output_format="html5",
     )
     canon_label = "Canon" if story.canon else "Not canon"
+    if story.is_legacy_source:
+        story_status = "Legacy source"
+        status_class = "legacy"
+        description = (
+            f"Read the historical legacy source for {story.title}. "
+            "This source is not canon."
+        )
+    else:
+        story_status = status_label(story.status)
+        status_class = story.status
+        description = (
+            f"Read {story.title}, a short story from the Boundless shared universe."
+        )
     content = f"""  <header class="site-header">
     <a class="site-name" href="../../">← All stories</a>
   </header>
   <main>
     <article class="story">
       <p class="story-page-meta">
-        <span class="status status-{html.escape(story.status)}">{html.escape(status_label(story.status))}</span>
+        <span class="status status-{html.escape(status_class)}">{html.escape(story_status)}</span>
         <span>{story.word_count:,} words</span>
         <span>{canon_label}</span>
       </p>
@@ -329,7 +490,7 @@ def render_story(story: Story) -> str:
   </footer>"""
     return page_template(
         title=f"{story.title} · Story Computing Machine",
-        description=f"Read {story.title}, a short story from the Boundless shared universe.",
+        description=description,
         stylesheet="../../assets/styles.css",
         content=content,
         body_class="story-page",
@@ -398,11 +559,11 @@ def main() -> None:
     args = parser.parse_args()
 
     stories = build(args.output)
-    readable_count = sum(story.is_readable for story in stories)
-    legacy_count = sum(story.is_legacy_seed for story in stories)
+    reader_ready_count = sum(story.is_reader_ready for story in stories)
+    legacy_count = sum(story.is_legacy_source for story in stories)
     print(
-        f"Built {readable_count} story pages and listed {legacy_count} legacy seeds "
-        f"in {args.output.resolve()} "
+        f"Built {reader_ready_count} reader-ready story pages and "
+        f"{legacy_count} readable legacy source pages in {args.output.resolve()} "
         f"({sum(story.word_count for story in stories):,} words)."
     )
 
