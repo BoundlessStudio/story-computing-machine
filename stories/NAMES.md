@@ -56,6 +56,7 @@ unnamed.
 | Davina Morrow | `Davina Morrow`; `Davina` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's living mother; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | Dezra Holt | `Dezra Holt`; `Dezra` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Dr. Kan | `Dr. Kan`; `Doctor Kan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Duchess Yselle Flint | `Duchess Yselle Flint`; `Duchess Yselle`; `Yselle` | `the-gentlest-terror` | candidate | unique | No reuse. Breaching head of House Flint; final prose uses the full form and `Duchess Yselle`. `Yselle` remains reserved from planning but is not used independently, and `Flint` is not used alone as her individual label. |
 | Edda Rook | `Edda Rook`; `Edda` | `the-thirteenth-command` | candidate | unique | No reuse. Older civilian floodworks dispatcher and viewpoint Host; `Rook` is not used alone as her individual label, and the interface term `Host` remains a common role rather than an alias. |
 | Ekri | `Ekri` | `the-friends-i-built` | candidate | unique | No reuse. Irix's classmate; distinct in spelling and cadence from reserved `Eli`. |
 | Eli Mercer | `Eli Mercer`; `Eli` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
@@ -83,13 +84,17 @@ unnamed.
 | Kelan Rusk | `Kelan Rusk`; `Kelan` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. It had replaced the accidental draft name Pell Orin, which collided with legacy Pell and Orrin Pell. |
 | Kest | `Kest`; `Commander Kest` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Road name used by one identity. |
 | Kharost / Queen Orvessa IV | `Kharost`; `Queen Orvessa IV`; `Queen Orvessa`; `Orvessa` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; names remain reserved. Kharost is one continuing dragon wearing the public regnal role Queen Orvessa IV; that story explicitly identifies the forms as one person. |
+| King Ambric | `King Ambric`; `Ambric` | `the-gentlest-terror` | candidate | unique | No reuse. Olyra's late father, present through memory; final prose uses `King Ambric`, while `Ambric` remains reserved from planning but is not used independently. |
 | King Othran | `King Othran`; `Othran` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Named king in the recovered refusal record. |
 | Knurl | `Knurl` | `the-friends-i-built` | candidate | unique | No reuse. Self-chosen name of one living constructed friend. |
 | Lady Rowena Bellweather | `Lady Rowena Bellweather`; `Rowena Bellweather`; `Rowena` | `the-shape-of-mercy` | candidate | unique | No reuse. Family head; “my mother” remains an ordinary role description, not a registered alias. |
+| Larkspur | `Larkspur` | `the-gentlest-terror` | candidate | unique | No reuse. House Cress's dragon ally; mononym is distinct from registered dragon names and nearby Leth/Letha/Lumen forms. |
 | Lena Mercer | `Lena Mercer`; `Lena` | `realms` / legacy `S03` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
 | Lena Venn | `Lena Venn`; `Lena` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | Distinct legacy identities share `Lena`; rename one during adaptation unless meaningful reuse is explicitly approved. |
 | Leth Varen | `Leth Varen`; `Leth`; `Varen` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
 | Letha | `Letha` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
+| Lord Osric Fane | `Lord Osric Fane`; `Lord Osric`; `Osric` | `the-gentlest-terror` | candidate | unique | No reuse. Traditionalist court minister; final prose uses the full form and `Lord Osric`. `Osric` remains reserved from planning but is not used independently, and `Fane` is not used alone as his individual label. |
+| Lord Ruvik Cress | `Lord Ruvik Cress`; `Lord Ruvik`; `Ruvik` | `the-gentlest-terror` | candidate | unique | No reuse. Human partner in the healthy Cress/Larkspur alliance; final prose uses the full form and `Lord Ruvik`. `Ruvik` remains reserved from planning but is not used independently, and `Cress` is not used alone as his individual label. |
 | Ludo Dask | `Ludo Dask`; `Ludo` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. Human terrace delegate in the grain dispute; `Dask` is not used alone, and `delegate` remains a common role noun. |
 | Lumen Mott | `Lumen Mott`; `Lumen`; `Adjudicator Mott`; `Mott` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. First-person human royal adjudicator; all forms identify one person, while `adjudicator` alone remains a common office noun. |
 | M. Voss | `M. Voss`; `Voss` | `realms` / legacy `S03` | legacy seed | unresolved | `Voss` also labels Rhea Voss; the legacy ruling says they are not connected, so adaptation must rename or explicitly resolve the collision. |
@@ -97,6 +102,7 @@ unnamed.
 | Mara Osset | `Mara Osset`; `Mara` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Example identity spoken by a Ravel door ward; distinct from the Mara referenced in `S08`. |
 | Marcus Bellweather | `Marcus Bellweather`; `Marcus` | `the-shape-of-mercy` | candidate | unique | No reuse. Older Bellweather sibling; never shortened to `Mar`, avoiding confusion with unresolved `Mara`. |
 | Mae | `Mae` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
+| Mossback | `Mossback` | `the-gentlest-terror` | candidate | unique | No reuse. House Flint's dragon ally; distinct in spelling, cadence, and role from all registered dragon-associated forms. |
 | Mother-fragment | `Mother-fragment`; `the Mother-fragment` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | A named person-like remnant whose relationship to the Goddess remains deliberately unresolved seed material. |
 | Mrs. Halpern | `Mrs. Halpern`; `Halpern` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Sebastian's cello instructor. |
 | Nell Mercado | `Nell Mercado`; `Nell`; `Mercado` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Her surname is used alone during the Earth return. |
@@ -107,6 +113,8 @@ unnamed.
 | Nisha (S04) | `Nisha` | `self-reflection` / legacy `S04` | legacy seed | unresolved | `Nisha` also appears in external legacy `S02`; no shared identity is established. |
 | Nora | `Nora`; `Green Coat` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `GREEN COAT` as Nora's label on her relationship chart. |
 | Nox Marr / Edrin Vale | `Nox Marr`; `Nox`; `Edrin Vale`; `Court Ghost`; `the Court Ghost` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Edrin Vale is Nox's cover identity; Court Ghost is his story-facing epithet. |
+| Nyrzath / the Grief-Clad | `Nyrzath`; `Nyr`; `the Grief-Clad`; `Grief-Clad`; `Nyrzath the Grief-Clad`; `Nyrzath, the Grief-Clad` | `the-gentlest-terror` | candidate | unique | No reuse. All forms name the royal dragon; final prose uses `Nyrzath`, `Nyr`, `the Grief-Clad`, and combined `Nyrzath the Grief-Clad`, while the comma form appears in the canon delta. `Grief-Clad` without the article remains reserved from planning but is not used independently. The forms are readily distinguishable from Kharost and Varkesh. |
+| Olyra | `Princess Olyra`; `Olyra`; `Queen Olyra` | `the-gentlest-terror` | candidate | unique | No reuse. One continuous royal identity before and after accession; all three forms appear in final prose, and the changing title records story state rather than a second person. |
 | Oren | `Oren` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Possible road name; full identity remains undisclosed. |
 | Orrin Pell | `Orrin Pell`; `Orrin`; `Pell` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Pell` also names a distinct Regent official in `S07`; the legacy record treats the overlap as accidental pending adaptation. |
 | Paul | `Paul` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
