@@ -69,8 +69,26 @@ a:focus-visible {
 }
 
 .repository-link {
-  font-family: ui-sans-serif, system-ui, sans-serif;
-  font-size: 0.72rem;
+  align-items: center;
+  border-radius: 50%;
+  color: var(--ink);
+  display: inline-flex;
+  height: 2.25rem;
+  justify-content: center;
+  margin-left: auto;
+  transition: background-color 150ms ease, color 150ms ease;
+  width: 2.25rem;
+}
+
+.repository-link:hover {
+  background: var(--paper-raised);
+  color: var(--accent);
+}
+
+.repository-link svg {
+  fill: currentcolor;
+  height: 1.35rem;
+  width: 1.35rem;
 }
 
 .library {
