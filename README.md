@@ -44,6 +44,22 @@ sent through the story workflow.
 - `stories/` — one directory per story plus an index, reusable template, and
   non-canon legacy archive under `stories/_legacy/`.
 
+## GitHub Pages
+
+The Pages workflow builds a reader site from publishable
+`stories/*/05-story.md` files. It generates a homepage linking to every
+candidate, final, abandoned, or apocryphal story and excludes in-progress
+placeholders. Pull requests validate the build; relevant pushes to `main`
+deploy it.
+
+To preview the generated files locally:
+
+```powershell
+python -m pip install --requirement pages/requirements.txt
+python pages/build.py --output _site
+python -m http.server --directory _site
+```
+
 ## Canon policy
 
 Universe notes are authoritative. Drafts and plans are never canon. A final

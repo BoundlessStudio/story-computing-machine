@@ -1,0 +1,271 @@
+:root {
+  color-scheme: light;
+  --ink: #22201d;
+  --muted: #6c645a;
+  --paper: #f5f0e7;
+  --paper-raised: #fffdf8;
+  --line: #d8cec0;
+  --accent: #81552e;
+  --accent-dark: #5f3a1e;
+  --focus: #246b9f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: var(--accent-dark);
+  text-underline-offset: 0.16em;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+a:focus-visible {
+  border-radius: 0.15rem;
+  outline: 3px solid var(--focus);
+  outline-offset: 4px;
+}
+
+.site-header,
+.site-footer,
+.library,
+.story {
+  margin-inline: auto;
+  width: min(100% - 2rem, 72rem);
+}
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+  padding-block: 1.2rem;
+}
+
+.site-name {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.library {
+  padding-block: clamp(3.5rem, 8vw, 7rem);
+}
+
+.eyebrow,
+.collection-count,
+.story-meta,
+.story-page-meta {
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.eyebrow {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: clamp(2.7rem, 7vw, 5.5rem);
+  font-weight: 500;
+  letter-spacing: -0.035em;
+  line-height: 1.02;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.lede {
+  color: var(--muted);
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  margin: 1.4rem 0 0;
+  max-width: 38rem;
+}
+
+.collection-count {
+  font-size: 0.82rem;
+  margin: 1rem 0 0;
+}
+
+.story-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+  list-style: none;
+  margin: 3.5rem 0 0;
+  padding: 0;
+}
+
+.story-card {
+  display: flex;
+}
+
+.story-link {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: 0.35rem;
+  box-shadow: 0 0.25rem 1rem rgb(65 48 30 / 6%);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 1.25rem;
+  justify-content: space-between;
+  min-height: 10rem;
+  padding: 1.35rem;
+  text-decoration: none;
+  transition: border-color 150ms ease, transform 150ms ease;
+}
+
+.story-link:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.story-title {
+  color: var(--ink);
+  font-size: 1.35rem;
+  line-height: 1.25;
+}
+
+.story-meta {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 0.7rem;
+  gap: 0.45rem 0.75rem;
+}
+
+.status {
+  background: #eee5d9;
+  border-radius: 999px;
+  color: #5b4632;
+  display: inline-block;
+  font-weight: 700;
+  letter-spacing: 0.035em;
+  padding: 0.18rem 0.55rem;
+  text-transform: uppercase;
+}
+
+.status-final,
+.status-candidate {
+  background: #e1eddf;
+  color: #345d35;
+}
+
+.status-abandoned {
+  background: #eee1df;
+  color: #74453f;
+}
+
+.story {
+  max-width: 42rem;
+  padding-block: clamp(3rem, 8vw, 6rem);
+}
+
+.story-page-meta {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 0.72rem;
+  gap: 0.5rem 0.8rem;
+  margin: 0 0 2rem;
+}
+
+.story h1 {
+  font-size: clamp(2.4rem, 8vw, 4.6rem);
+  margin-bottom: clamp(2.5rem, 7vw, 5rem);
+}
+
+.story p {
+  hyphens: auto;
+  margin: 0 0 1.25em;
+  orphans: 3;
+  widows: 3;
+}
+
+.story hr {
+  border: 0;
+  color: var(--muted);
+  margin: 3.5rem auto;
+  overflow: visible;
+  text-align: center;
+}
+
+.story hr::after {
+  content: "⁂";
+  font-size: 1.1rem;
+  letter-spacing: 0.4em;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.72rem;
+  padding-block: 1.5rem 3rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+code {
+  font-size: 0.9em;
+}
+
+@media (max-width: 36rem) {
+  html {
+    font-size: 17px;
+  }
+
+  .site-header,
+  .site-footer,
+  .library,
+  .story {
+    width: min(100% - 1.4rem, 72rem);
+  }
+
+  .story-link {
+    min-height: 8.5rem;
+  }
+}
+
+@media print {
+  :root {
+    --ink: #000;
+    --paper: #fff;
+  }
+
+  .site-header,
+  .site-footer,
+  .story-page-meta {
+    display: none;
+  }
+
+  .story {
+    max-width: none;
+    padding: 0;
+    width: 100%;
+  }
+
+  .story h1 {
+    break-after: avoid;
+  }
+}
