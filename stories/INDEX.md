@@ -16,8 +16,10 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 | `the-friends-i-built` | *The Friends I Built* | candidate | no | — | Living-construct school collaboration certified PASS; proposed canon delta not promoted. |
 | `the-future-that-refused-us` | *The Future That Refused Us* | candidate | no | — | Binding civic prophecy broken through synchronized deviations; sixty-eight-death flood aftermath and accountable rescue certified PASS; proposed canon delta not promoted. |
 | `the-gentlest-terror` | *The Gentlest Terror* | candidate | no | — | Voluntary noble-dragon renewal, coordinated quarry-flood rescue, and a fearsome royal dragon's active gentleness certified PASS; proposed canon delta not promoted. |
+| `the-last-bus-to-briar-hill` | *The Last Bus to Briar Hill* | candidate | no | — | Modern Route 0 fairytale adventure through three request-stop tests and a freely chosen sibling return certified PASS; proposed canon delta not promoted. |
 | `the-names-on-the-cups` | *The Names on the Cups* | in-progress | no | — | Prompt-stage legacy seed imported from historical prose source `S06`. |
 | `the-peace-they-could-sleep-through` | *The Peace They Could Sleep Through* | candidate | no | — | Worshipped twelve-dragon collective, grain-debt crisis, and human-authored ninety-day common plea certified PASS; proposed canon delta not promoted. |
+| `the-quiet-party` | *The Quiet Party* | candidate | no | — | Three silent adventurers flawlessly coordinate a compelled Mallowgate flood rescue; certified PASS; proposed canon delta not promoted. |
 | `the-shape-of-mercy` | *The Shape of Mercy* | candidate | no | — | Bellweather severance mystery certified PASS; proposed canon delta not promoted. |
 | `the-small-moon-rose-first` | *The Small Moon Rose First* | in-progress | no | — | Prompt-stage legacy seed imported from outline source `S07`. |
 | `the-station-between` | *The Station Between* | candidate | no | — | Two-train afterlife refusal story certified PASS; proposed canon delta not promoted. |

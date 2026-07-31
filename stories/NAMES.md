@@ -24,7 +24,7 @@ accidental reuse.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-07-30.
+Last reconciled: 2026-07-31.
 
 Seed baseline: all six portable starting seeds in `stories/_legacy/MANIFEST.md`
 (`S01-O`, `S03`, `S04`, `S06`, `S07`, and `S08`) were audited on
@@ -105,7 +105,11 @@ unnamed.
 | Mara (S08) | `Mara`; `Mara from Hinge` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unresolved | Distinct from Mara Osset; she is Eli's one-off Hinge date, so adaptation must rename one unless meaningful reuse is explicitly approved. |
 | Mara Osset | `Mara Osset`; `Mara` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Example identity spoken by a Ravel door ward; distinct from the Mara referenced in `S08`. |
 | Marcus Bellweather | `Marcus Bellweather`; `Marcus` | `the-shape-of-mercy` | candidate | unique | No reuse. Older Bellweather sibling; never shortened to `Mar`, avoiding confusion with unresolved `Mara`. |
+| Mateo Velez | `Mateo Velez`; `Mateo` | `the-last-bus-to-briar-hill` | candidate | unique | No unrelated reuse. Miriam's fifteen-year-old brother; the shared Velez surname intentionally marks one sibling family, while their given names, ages, and roles distinguish them. `Velez` is not used alone as his individual label. |
+| Maude Dallow | `Maude Dallow`; `Maude`; `Ms. Dallow` | `the-last-bus-to-briar-hill` | candidate | unique | No reuse. All forms identify the living route-tender and night-bus driver. Her names are distinct from registered `Mae`, Morrow-family forms, and D-initial surnames; `Dallow` is not used alone without `Ms.` as her individual label. |
 | Mae | `Mae` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
+| Merrit Loam | `Merrit Loam`; `Merrit` | `the-quiet-party` | candidate | unique | No reuse. Final-story viewpoint field registrar; `Loam` and capitalized role forms are not used as individual labels. Her name is distinct from registered M-initial forms including Miriam, Mateo, Maude, Mara, Mae, Mercer, and Mercado. |
+| Miriam Velez | `Miriam Velez`; `Miriam` | `the-last-bus-to-briar-hill` | candidate | unique | No unrelated reuse. Mateo's sister and an app courier in the final story; the shared Velez surname intentionally marks one sibling family, while their given names and roles distinguish them. `Velez` is not used alone as her individual label. |
 | Mossback | `Mossback` | `the-gentlest-terror` | candidate | unique | No reuse. House Flint's dragon ally; distinct in spelling, cadence, and role from all registered dragon-associated forms. |
 | Mother-fragment | `Mother-fragment`; `the Mother-fragment` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | A named person-like remnant whose relationship to the Goddess remains deliberately unresolved seed material. |
 | Mrs. Halpern | `Mrs. Halpern`; `Halpern` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Sebastian's cello instructor. |
@@ -121,10 +125,12 @@ unnamed.
 | Olyra | `Princess Olyra`; `Olyra`; `Queen Olyra` | `the-gentlest-terror` | candidate | unique | No reuse. One continuous royal identity before and after accession; all three forms appear in final prose, and the changing title records story state rather than a second person. |
 | Oren | `Oren` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Possible road name; full identity remains undisclosed. |
 | Orrin Pell | `Orrin Pell`; `Orrin`; `Pell` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Pell` also names a distinct Regent official in `S07`; the legacy record treats the overlap as accidental pending adaptation. |
+| Osket Firth | `Osket Firth`; `Osket` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent rope scout; `Firth`, shortened forms, and capitalized role labels are not used as individual names. Spelling, cadence, rigging role, and physical-demonstration style distinguish him from Osric, Othran, Oren, Orrin, and Olyra. |
 | Paul | `Paul` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Pell | `Pell` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Distinct from Orrin Pell; rename one during adaptation unless a meaningful connection is explicitly approved. |
 | Petra Bristow | `Petra Bristow`; `Petra` | `the-wrong-side-of-the-part` | candidate | unique | No unrelated reuse. Tilda's younger sister and co-owner of their late mother's shop; the shared surname intentionally marks one family, and `Bristow` is not used alone as her individual label. |
 | Phoebe Bellweather | `Phoebe Bellweather`; `Phoebe` | `the-shape-of-mercy` | candidate | unique | No reuse. Youngest Bellweather sibling; no nickname planned. |
+| Pim Fallow | `Pim Fallow`; `Pim` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent field medic and river naturalist; `Fallow`, shortened forms, and capitalized role labels are not used as individual names. Waterproof notes, comprehension checks, and animal care keep their role distinct from the other party members. |
 | Priya | `Priya` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Queen Aurelia / the Goddess | `Queen Aurelia`; `Aurelia`; `the Goddess`; `Goddess`; `Goddess of the Sun`; `the Goddess of the Sun`; `Sun Queen`; `the Sun Queen`; `Burning Queen`; `the Burning Queen`; `Mother` | `daughter-of-the-sun` / legacy `S01` and `S01-O` | legacy seed | unique | The provisional alias set belongs to the Daughter's mother, not the Daughter. |
 | Rae | `Rae`; `Red Scarf` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `RED SCARF` as Rae's label on her relationship chart. |
@@ -148,9 +154,11 @@ unnamed.
 | Tamsin Quill | `Tamsin Quill`; `Tamsin`; `Quill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Tavra | `Tavra` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Tess | `Tess` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
+| The Briar Host | `the Briar Host`; `Briar Host` | `the-last-bus-to-briar-hill` | candidate | unique | No reuse or crossover. Both forms identify one living, rooted guardian of Briar Hill; `Host` is never used independently as its character-facing name, and the place name `Briar Hill` is never shortened into a person-name. |
 | The Daughter | `the Daughter`; `Daughter` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Her personal name is unrevealed; she is a distinct identity from her mother, Queen Aurelia. |
 | The Goddess of Time | `the Goddess of Time`; `Goddess of Time`; `Time` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | Named person-like deity; the source gives no personal name. |
 | The Hollow Regent | `the Hollow Regent`; `Hollow Regent`; `Regent` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Title used as the identity's only story-facing name. |
+| The Quiet Party | `the Quiet Party`; `Quiet Party` | `the-quiet-party` | candidate | unique | No reuse. Both final-story forms designate the same three-person local team—Veda Crake, Osket Firth, and Pim Fallow—after the guildmaster's sarcastic charter entry becomes binding local paperwork; no individual is called `Quiet`, and no shortened team alias is used. |
 | The Rollcaller | `the Rollcaller`; `Rollcaller` | `the-attendance-ledger` | candidate | unique | No reuse. One living local antagonist, not an office, record, or alias for another entity. Its observation-and-call behavior motivates the name, which is distinct from registered titled beings. |
 | Thimble | `Thimble` | `the-friends-i-built` | candidate | unique | No reuse. Self-chosen name of one living constructed friend. |
 | Tilda Bristow | `Tilda Bristow`; `Tilda` | `the-wrong-side-of-the-part` | candidate | unique | No reuse. First-person protagonist; the inverted state is the same continuous identity and receives no separate name or alias. `Bristow` is not used alone as her individual label. |
@@ -158,6 +166,7 @@ unnamed.
 | Tuck | `Tuck` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Urumet | `Urumet` | `a-little-winter-for-sale` | candidate | unique | No reuse. Ice dragon and voluntary cold-work vendor; readily distinguishable from every reserved dragon-associated name and alias, including `Kharost`, `Larkspur`, `Mossback`, `Nyrzath`, `Nyr`, `Varkesh`, and the `Sleepless Majesty` forms. No title, nickname, or shortened form is used. |
 | Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | candidate | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
+| Veda Crake | `Veda Crake`; `Veda` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent structural defender; `Crake`, shortened forms, and capitalized role labels are not used as individual names. Slate diagrams, shield work, and stress-marking distinguish her from the other party members and from registered Vale, Vey, Venn, and Varen forms. |
 | Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
 | Yara Mesk | `Yara Mesk`; `Yara` | `a-little-winter-for-sale` | candidate | unique | No reuse. Qarsis's civic waterkeeper; distinct in spelling and cadence from reserved `Rana`, `Rhea`, `Mara`, `Tavra`, and `Yselle`. `Mesk` is not used alone, and `waterkeeper` remains a lowercase common role noun. |
 | Zadie Cleft | `Zadie Cleft`; `Zadie` | `the-future-that-refused-us` | candidate | unique | No unrelated reuse. Viewpoint builder and operator of Sablewake's civic bells and Nilo's mother; the shared Cleft surname intentionally marks their parent-child relationship, and `Cleft` is not used alone as her individual label. |
