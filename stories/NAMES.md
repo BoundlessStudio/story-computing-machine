@@ -24,7 +24,7 @@ accidental reuse.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-07-28.
+Last reconciled: 2026-07-30.
 
 Seed baseline: all six portable starting seeds in `stories/_legacy/MANIFEST.md`
 (`S01-O`, `S03`, `S04`, `S06`, `S07`, and `S08`) were audited on
@@ -47,15 +47,18 @@ unnamed.
 | Belphegor | `Belphegor` | `the-friends-i-built` | candidate | unique | No reuse. Prompt-required archdemon and Irix's parent; `archdemon` and relational descriptions remain common nouns rather than aliases. |
 | Ben | `Ben` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Bracken | `Bracken` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Bryn Ahn / Pulsewire | `Bryn Ahn`; `Bryn`; `Pulsewire` | `the-attendance-ledger` | candidate | unique | No reuse. One continuing civilian/magical identity; `Ahn` is not used alone. The clipped civilian and magical forms are distinct from all reservations and map clearly to the team's connection-sensing and severance role. |
 | Cal Mercer | `Cal Mercer`; `Cal`; `Cal-Cal` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Caldrin | `Caldrin` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Captain | `Captain` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Named dog. |
+| Cassia Dominguez / Mothlight | `Cassia Dominguez`; `Cassia`; `Mothlight` | `the-attendance-ledger` | candidate | unique | No reuse. One continuing civilian/magical identity; `Dominguez` is not used alone. `Mothlight` maps to luminous decoys and is distinct from `Mother-fragment` in spelling, sound, and role. |
 | Celia | `Celia` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
 | Claire | `Claire`; `Tea Girl` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `TEA GIRL` as Claire's label on her relationship chart. |
 | Crowned Ancestors | `Crowned Ancestors`; `the Crowned Ancestors` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Personified collective of discontinued royal masks worshipped as supposedly dead monarchs; not a living magical collective and not an alias for Kharost. |
 | Davina Morrow | `Davina Morrow`; `Davina` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's living mother; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | Dezra Holt | `Dezra Holt`; `Dezra` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Dr. Kan | `Dr. Kan`; `Doctor Kan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
+| Drita Ademi / Kiteglass | `Drita Ademi`; `Drita`; `Kiteglass` | `the-attendance-ledger` | candidate | unique | No reuse. One continuing civilian/magical identity; `Ademi` is not used alone. The forms are unique and readily distinguished from the other students by spelling, cadence, role, and angular-shield imagery. |
 | Duchess Yselle Flint | `Duchess Yselle Flint`; `Duchess Yselle`; `Yselle` | `the-gentlest-terror` | candidate | unique | No reuse. Breaching head of House Flint; final prose uses the full form and `Duchess Yselle`. `Yselle` remains reserved from planning but is not used independently, and `Flint` is not used alone as her individual label. |
 | Edda Rook | `Edda Rook`; `Edda` | `the-thirteenth-command` | candidate | unique | No reuse. Older civilian floodworks dispatcher and viewpoint Host; `Rook` is not used alone as her individual label, and the interface term `Host` remains a common role rather than an alias. |
 | Ekri | `Ekri` | `the-friends-i-built` | candidate | unique | No reuse. Irix's classmate; distinct in spelling and cadence from reserved `Eli`. |
@@ -65,6 +68,7 @@ unnamed.
 | Frank | `Frank` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Garran Bellweather | `Garran Bellweather`; `Garran` | `the-shape-of-mercy` | candidate | unique | No reuse. Estranged father; “my father” remains an ordinary role description, not a registered alias. |
 | Gelda Parn | `Gelda Parn`; `Gelda` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. Human city delegate in the grain dispute; `Parn` is not used alone, and faction titles remain common descriptions. |
+| Gideon Tolland / Night Clerk | `Gideon Tolland`; `Gideon`; `Mr. Tolland`; `Night Clerk` | `the-attendance-ledger` | candidate | unique | No reuse. Civilian teacher and anonymous handler forms belong to one continuing identity; `Tolland` and `Clerk` are not used alone. The reader knows the mapping, while the girls hear only the voice-scrambled `Night Clerk`; the forms are distinct from registered staff and titled identities. |
 | Greer Morrow | `Greer Morrow`; `Greer` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Imani's necromancer girlfriend; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | GutSaint72 | `GutSaint72` | `realms` / legacy `S03` | legacy seed | unique | Runner forum username. |
 | Harven Coil | `Harven Coil`; `Harven` | `the-thirteenth-command` | candidate | unique | No reuse. Copperwell watch captain; `watch captain` remains a common role description and reserved `Captain` is never used as his standalone name. `Coil` is not used alone. |
@@ -139,6 +143,7 @@ unnamed.
 | Solstice Evening Bell | `Solstice Evening Bell`; `Solstice`; `Evening Bell`; `First Monarch`; `the First Monarch`; `queen of all magical girls`; `the queen of all magical girls` | `solstice-evening-bell` | candidate | unique | Prompt-required identity. Final prose uses the full name, `Solstice`, and both regnal titles for the same adult protagonist; `Evening Bell` remains reserved from planning but is not used independently. `Bell` and `Queen` are never used alone, preventing confusion with the Bellweather family and Queen Aurelia; the story establishes no crossover with those identities or the Goddess of Time. |
 | Sorel Dane | `Sorel Dane`; `Sorel`; `Dane` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Sula Brant | `Sula Brant`; `Sula` | `the-thirteenth-command` | candidate | unique | No reuse. Edda's former apprentice and the south-gate shift lead; distinct in spelling, cadence, and role from reserved `Siva`, `Solstice`, `Seris`, `Sabine`, and `Sorel`. `Brant` is not used alone. |
+| Tair Ked | `Tair Ked`; `Tair` | `a-little-winter-for-sale` | candidate | unique | No reuse. First-person traveler and route surveyor; distinct in full spelling and cadence from reserved `Talvi`, `Tavra`, `Tamsin`, `Tilda`, `Tess`, and `Claire`. `Ked` is not used alone as an individual label. |
 | Talvi | `Talvi` | `the-friends-i-built` | candidate | unique | No reuse. Irix's damned-soul parent; distinguishable from `Tavra` and `Tamsin` by full spelling, cadence, role, and story. |
 | Tamsin Quill | `Tamsin Quill`; `Tamsin`; `Quill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Tavra | `Tavra` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
@@ -146,12 +151,15 @@ unnamed.
 | The Daughter | `the Daughter`; `Daughter` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Her personal name is unrevealed; she is a distinct identity from her mother, Queen Aurelia. |
 | The Goddess of Time | `the Goddess of Time`; `Goddess of Time`; `Time` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | Named person-like deity; the source gives no personal name. |
 | The Hollow Regent | `the Hollow Regent`; `Hollow Regent`; `Regent` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Title used as the identity's only story-facing name. |
+| The Rollcaller | `the Rollcaller`; `Rollcaller` | `the-attendance-ledger` | candidate | unique | No reuse. One living local antagonist, not an office, record, or alias for another entity. Its observation-and-call behavior motivates the name, which is distinct from registered titled beings. |
 | Thimble | `Thimble` | `the-friends-i-built` | candidate | unique | No reuse. Self-chosen name of one living constructed friend. |
 | Tilda Bristow | `Tilda Bristow`; `Tilda` | `the-wrong-side-of-the-part` | candidate | unique | No reuse. First-person protagonist; the inverted state is the same continuous identity and receives no separate name or alias. `Bristow` is not used alone as her individual label. |
 | Tovan Rek / the Keeper Below | `Tovan Rek`; `Tovan`; `the Keeper Below`; `Keeper Below`; `Hareth Tovan`; `the Hareth Tovan`; `Ninth Hollow Tovan`; `the Ninth Hollow Tovan` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | Tovan is the mobile expression of the intelligence worshipped under this title; later branches share it. |
 | Tuck | `Tuck` | `realms` / legacy `S03` | legacy seed | unique | — |
+| Urumet | `Urumet` | `a-little-winter-for-sale` | candidate | unique | No reuse. Ice dragon and voluntary cold-work vendor; readily distinguishable from every reserved dragon-associated name and alias, including `Kharost`, `Larkspur`, `Mossback`, `Nyrzath`, `Nyr`, `Varkesh`, and the `Sleepless Majesty` forms. No title, nickname, or shortened form is used. |
 | Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | candidate | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
 | Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
+| Yara Mesk | `Yara Mesk`; `Yara` | `a-little-winter-for-sale` | candidate | unique | No reuse. Qarsis's civic waterkeeper; distinct in spelling and cadence from reserved `Rana`, `Rhea`, `Mara`, `Tavra`, and `Yselle`. `Mesk` is not used alone, and `waterkeeper` remains a lowercase common role noun. |
 | Zadie Cleft | `Zadie Cleft`; `Zadie` | `the-future-that-refused-us` | candidate | unique | No unrelated reuse. Viewpoint builder and operator of Sablewake's civic bells and Nilo's mother; the shared Cleft surname intentionally marks their parent-child relationship, and `Cleft` is not used alone as her individual label. |
 <!-- registry:end -->
 

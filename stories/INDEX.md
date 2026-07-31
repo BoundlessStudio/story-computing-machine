@@ -5,11 +5,13 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 | Story | Title | Status | Canon | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- |
 | `a-crown-of-quiet-hours` | *A Crown of Quiet Hours* | abandoned | no | — | Rejected after user feedback: its literal-fire interpretation did not fulfill the prompt; retained as production history. |
+| `a-little-winter-for-sale` | *A Little Winter for Sale* | candidate | no | — | Fair-pay desert waterworks and voluntary ice-dragon cold trade certified PASS; proposed canon delta not promoted. |
 | `a-place-for-the-living` | *A Place for the Living* | candidate | no | — | Necromantic family dinner and coerced ancestor visit certified PASS; proposed canon delta not promoted. |
 | `daughter-of-the-sun` | *Daughter of the Sun* | in-progress | no | — | Prompt-stage legacy seed imported from `S01-O`; full `S01` draft remains external. |
 | `realms` | *Realms* | in-progress | no | — | Prompt-stage legacy seed imported from historical prose source `S03`. |
 | `self-reflection` | *Self-Reflection* | in-progress | no | — | Prompt-stage legacy seed imported from historical prose source `S04`. |
 | `solstice-evening-bell` | *Solstice Evening Bell* | candidate | no | — | Lone-ultrahuman defense using twelve freely donated final spells against 131,072 invasion frames certified PASS; proposed canon delta not promoted. |
+| `the-attendance-ledger` | *The Attendance Ledger* | candidate | no | — | Teacher and anonymous handler protects three magical girls from a school-livestream identity probe; certified PASS; proposed canon delta not promoted. |
 | `the-city-of-eleven-foundations` | *The City of Eleven Foundations* | candidate | no | — | Architecture-first eleven-district hydraulic crisis certified PASS; proposed canon delta not promoted. |
 | `the-friends-i-built` | *The Friends I Built* | candidate | no | — | Living-construct school collaboration certified PASS; proposed canon delta not promoted. |
 | `the-future-that-refused-us` | *The Future That Refused Us* | candidate | no | — | Binding civic prophecy broken through synchronized deviations; sixty-eight-death flood aftermath and accountable rescue certified PASS; proposed canon delta not promoted. |
