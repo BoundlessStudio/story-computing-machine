@@ -5,6 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `tenth-world-lesson` | *The Tenth World Needs No Hero* | in-progress | no | pending | no | — | New story on `codex/story-tenth-world-lesson`. |
 | `a-crown-of-quiet-hours` | *A Crown of Quiet Hours* | final | yes | accepted | yes | 2026-08-01 | User-corrected legacy classification; personally reviewed, finalized, canon, and published. |
 | `a-little-winter-for-sale` | *A Little Winter for Sale* | final | yes | accepted | yes | 2026-08-01 | Fair-pay desert waterworks and voluntary ice-dragon cold trade; final PASS recorded. |
 | `a-place-for-the-living` | *A Place for the Living* | final | yes | accepted | yes | 2026-08-01 | Necromantic family dinner and coerced ancestor visit; final PASS recorded. |
