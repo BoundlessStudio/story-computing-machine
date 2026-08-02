@@ -64,6 +64,7 @@ for characters the prose leaves unnamed.
 | Drita Ademi / Kiteglass | `Drita Ademi`; `Drita`; `Kiteglass` | `the-attendance-ledger` | canon | unique | No reuse. One continuing civilian/magical identity; `Ademi` is not used alone. The forms are unique and readily distinguished from the other students by spelling, cadence, role, and angular-shield imagery. |
 | Duchess Yselle Flint | `Duchess Yselle Flint`; `Duchess Yselle`; `Yselle` | `the-gentlest-terror` | canon | unique | No reuse. Breaching head of House Flint; final prose uses the full form and `Duchess Yselle`. `Yselle` remains reserved from planning but is not used independently, and `Flint` is not used alone as her individual label. |
 | Edda Rook | `Edda Rook`; `Edda` | `the-thirteenth-command` | canon | unique | No reuse. Older civilian floodworks dispatcher and viewpoint Host; `Rook` is not used alone as her individual label, and the interface term `Host` remains a common role rather than an alias. |
+| Eiren / Steward Eiren | `Eiren`; `Steward Eiren` | `tenth-world-lesson` | candidate | unique | No reuse. One living door-steward locally described with lowercase `goddess`; `Steward` alone and other role nouns remain common descriptions, not aliases. Distinct from every reserved E-initial form and from the Goddess of Time and Queen Aurelia. |
 | Ekri | `Ekri` | `the-friends-i-built` | canon | unique | No reuse. Irix's classmate; distinct in spelling and cadence from reserved `Eli`. |
 | Eli Fenwick | `Eli Fenwick`; `Eli` | `the-trouble-with-tuesdays` | canon | unique | One watch holder; the unique surname avoids implying kinship with Cal Mercer and is not used alone. |
 | Eli Mercer | `Eli Mercer`; `Eli` | released reservation | released | unique | Formerly planned for `the-trouble-with-tuesdays`; replaced by Eli Fenwick in the current plan. |
@@ -90,6 +91,7 @@ for characters the prose leaves unnamed.
 | Jasper Renlow | `Jasper Renlow`; `Jasper` | `the-courtesy-of-blades` | canon | unique | No reuse. Adult river-patrol fencer, Fiora's longtime rival, and romantic counterpart; final prose uses both listed forms, never `Renlow` alone. His forms are distinct from all registered J-initial forms and from Fiora and Quade. |
 | Jocelyn Park | `Jocelyn Park`; `Jocelyn` | `self-reflection` | canon | unique | — |
 | Jonathan | `Jonathan`; `Jomathan` | `the-names-on-the-cups` | canon | unique | `Jomathan` is Tess's one-off cup misspelling of Jonathan's name. |
+| Jori Vale | `Jori Vale`; `Jori` | `tenth-world-lesson` | candidate | unique | No reuse. Tenth-world civic engineer; `Vale` is never used alone and the full form has no relationship to reserved Nessa Vale or Edrin Vale. `Jori` is distinct from Jordan, Jocelyn, Jonathan, and Juni. |
 | Jordan Price | `Jordan Price`; `Jordan` | released reservation | released | unique | Formerly planned for `the-small-moon-rose-first`; released by the current short-story plan. |
 | Juni Wex | `Juni Wex`; `Juni` | `the-weight-of-falling-up-rune-shoes` | canon | unique | — |
 | Kaela Thorn | `Kaela Thorn`; `Kaela` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; released by the current short-story plan. |
@@ -123,6 +125,7 @@ for characters the prose leaves unnamed.
 | Mother-fragment | `Mother-fragment`; `the Mother-fragment` | `daughter-of-the-sun` | canon | unique | A named person-like remnant whose relationship to the Goddess remains deliberately unresolved seed material. |
 | Mrs. Halpern | `Mrs. Halpern`; `Halpern` | released reservation | released | unique | Formerly planned for `the-small-moon-rose-first`; released by the current short-story plan. |
 | Nell Mercado | `Nell Mercado`; `Nell`; `Mercado` | `the-small-moon-rose-first` | canon | unique | Her surname is used alone during the Earth return. |
+| Necessary One (local role) | `the Necessary One`; `Necessary One` | `tenth-world-lesson` | candidate | unique | No reuse. Local sacrificial storm-engine operator title temporarily applied to Ryo; never shortened to `One` or `Necessary`, and it identifies a role rather than a separate person. |
 | Nessa Vale | `Nessa Vale`; `Nessa` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Nina | `Nina` | `self-reflection` | canon | unique | — |
 | Nilo Cleft | `Nilo Cleft`; `Nilo` | `the-future-that-refused-us` | canon | unique | No unrelated reuse. Zadie's thirteen-year-old son and the prophecy's scheduled undergate casualty; the shared Cleft surname intentionally marks their parent-child relationship, `Cleft` is not used alone, and their given names and roles distinguish them. |
@@ -149,6 +152,7 @@ for characters the prose leaves unnamed.
 | Rill | `Rill` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. Living windlace colony and named flight partner in that version. |
 | Rose | `Rose` | `the-trouble-with-tuesdays` | canon | unique | — |
 | Ruth | `Ruth` | `the-station-between` | canon | unique | No reuse. First-person protagonist; no surname, nickname, or alias appears in the final story. |
+| Ryo Sato | `Ryo Sato`; `Ryo` | `tenth-world-lesson` | candidate | unique | No reuse. Repeatedly assigned hero and close-third-person protagonist; `Sato` is not used alone. Forms are distinct from all registered R-initial identities. |
 | Sabine Kroll | `Sabine Kroll`; `Sabine` | `the-station-between` | canon | unique | No reuse. Hell-assigned passenger; `Kroll` is not used alone, and a blue wrist elastic preserves reader recognition through the transfer. |
 | Saint | `Saint` | `the-small-moon-rose-first` | canon | unique | Named mule. |
 | Sebastian “Bash” Wren | `Sebastian Wren`; `Sebastian`; `Bash`; `Wren`; `Sebastian “Bash” Wren` | `the-small-moon-rose-first` | canon | unique | His surname is used alone during the Ravel and Earth sequences. |
