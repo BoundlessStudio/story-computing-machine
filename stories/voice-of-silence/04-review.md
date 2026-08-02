@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/voice-of-silence/05-story.md`
-- Review pass: 3
+- Review pass: 4
 - Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 0
-- Updated: 2026-08-02T22:50:27.7253245Z
+- Updated: 2026-08-02T22:57:03.4823063Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -128,6 +128,45 @@ REVIEW_PASS_PAYLOAD
       "resolvedInPass": 2,
       "disposition": "RESOLVED",
       "evidence": "The final prose preserves the corrected Roofstay activation at stories/voice-of-silence/05-story.md:109-113: Dorram uses a brass node, marks the registered spell, signs yes as living shaper/caller, opens the twelve-heartbeat ready window, calls on one breath, and keeps the staff limited to geometry. The final delta records the same bounded mechanism consistently in VOS-03, VOS-05, VOS-08, VOS-09, and VOS-16."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only review; no files changed."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 4 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "voice-of-silence",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 4,
+  "reviewedArtifact": "stories/voice-of-silence/05-story.md",
+  "authorityManifest": "stories/voice-of-silence/authority.json",
+  "handoffLedger": "stories/voice-of-silence/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-02T22:57:03.4823063Z",
+  "reviewBasis": "Read-only joint re-review of unchanged stories/voice-of-silence/05-story.md and corrected stories/voice-of-silence/06-canon-delta.md at clean checkpoint 34b85a8, with 00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md through pass 3, authority.json, handoffs.json through completed sequence 9, and stories/NAMES.md. The sole final-artifact change since the pass-3 PASS is the delta heading correction from '## Final character-facing name inventory' to '## Final character-facing inventory:'; all 23 proposed facts, dependencies, targets, inventory rows, allowlist rows, and final prose are unchanged. The strict Final name gate (story-names/3) passed at 2026-08-02T22:56:55.9369878+00:00 with zero warnings and zero errors.",
+  "verdict": "PASS",
+  "blockType": "NONE",
+  "resolutionOwner": "none",
+  "resolutionQuestion": "none",
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "VOS-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose still preserves the corrected Roofstay activation at stories/voice-of-silence/05-story.md:109-113, and the unchanged delta records it consistently in VOS-03, VOS-05, VOS-08, VOS-09, and VOS-16. Pass 3 confirmed the resolution; the pass-4 formatting-only change does not affect it."
     }
   ],
   "findings": [],
