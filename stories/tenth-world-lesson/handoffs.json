@@ -137,6 +137,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "tenth-world-lesson",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:36:14.1069627+00:00",
+      "completedAt": "2026-08-02T22:40:56.1643527+00:00",
+      "guardId": "82429a48e998497c99e83bdc3ddd2b29",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"tenth-world-lesson\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/tenth-world-lesson/05-story.md\",\n  \"authorityManifest\": \"stories/tenth-world-lesson/authority.json\",\n  \"handoffLedger\": \"stories/tenth-world-lesson/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:39:46.0453012Z\",\n  \"reviewBasis\": \"Independent final review of the complete story and proposed canon delta against the captured prompt, canon brief, story plan, passing draft and prior review history, current authority inventory, ordered handoff ledger, exhaustive name registry, release-facing frontmatter, content boundaries, and the identified originality risk from The Trouble With Tuesdays.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Final review passed. The release-facing story preserves the previously passing 3,853-word prose with matching title, slug, and creation-date frontmatter. It fulfills the tenth-world prompt through Ryo's costly self-directed relinquishment, makes Eiren's exhaustion and shared usefulness wound causal, sustains compassionate and non-instant recovery, and remains teen-appropriate. Its living-agent crossing, continuous embodiment, unresolved destination cosmology, cultural goddess label, and nonliving civic engine remain locally bounded and compatible with the captured authority. Eiren's culpable mutual arc, embodied door mechanism, repeated-assignment relationship, and direct irreversible role in the distributed civic climax materially distinguish the story from The Trouble With Tuesdays. The canon delta exhaustively inventories reusable facts, preserves local qualifiers and unresolved cosmology/divinity, proposes no unauthorized promotion, and provides a complete final name inventory matching all planning reservations; no prose-only allowlist entries are required. Prior pass 1 contained no findings, so no dispositions remain unresolved. No prose or repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD\n",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/tenth-world-lesson/00-prompt.md",
+        "stories/tenth-world-lesson/01-canon-brief.md",
+        "stories/tenth-world-lesson/02-story-plan.md",
+        "stories/tenth-world-lesson/03-draft.md",
+        "stories/tenth-world-lesson/04-review.md",
+        "stories/tenth-world-lesson/05-story.md",
+        "stories/tenth-world-lesson/06-canon-delta.md",
+        "stories/tenth-world-lesson/authority.json",
+        "stories/tenth-world-lesson/handoffs.json",
+        "stories/tenth-world-lesson/story.json"
+      ],
+      "outputs": [
+        "stories/tenth-world-lesson/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
