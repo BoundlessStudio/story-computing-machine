@@ -136,6 +136,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "voice-of-silence",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:32:34.9405009+00:00",
+      "completedAt": "2026-08-02T22:34:46.7614816+00:00",
+      "guardId": "654bc41bb3af489da8a2b82e0cccc936",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"voice-of-silence\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/voice-of-silence/03-draft.md\",\n  \"authorityManifest\": \"stories/voice-of-silence/authority.json\",\n  \"handoffLedger\": \"stories/voice-of-silence/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:33:47.4385615Z\",\n  \"reviewBasis\": \"Read-only complete re-review of stories/voice-of-silence/00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, revised 03-draft.md at checkpoint c5fbab6, 04-review.md through pass 1, authority.json, handoffs.json through completed sequence 5, and stories/NAMES.md; checked against the unchanged LOCKED/CANON universe inventory captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15. A final delta is not applicable to REVIEW_DRAFT.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": \"NONE\",\n  \"resolutionOwner\": \"none\",\n  \"resolutionQuestion\": \"none\",\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"VOS-DRAFT-001\",\n      \"priorPass\": 1,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/voice-of-silence/03-draft.md:109-113, Dorram now uses a brass node, marks Roofstay, signs yes to authorize himself as living shaper and caller for the cell, gives the two-finger ready sign, calls within the twelve-heartbeat window on one breath, and keeps the staff limited to geometry. The successful release now follows the established activation gate without adding an exception.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Read-only review; no files changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
