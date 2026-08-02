@@ -2,13 +2,13 @@
 
 ## Current certification
 
-- Reviewed artifact: `stories/voice-of-silence/03-draft.md`
-- Review pass: 2
+- Reviewed artifact: `stories/voice-of-silence/05-story.md`
+- Review pass: 3
 - Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 0
-- Updated: 2026-08-02T22:33:47.4385615Z
+- Updated: 2026-08-02T22:50:27.7253245Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -89,6 +89,45 @@ REVIEW_PASS_PAYLOAD
       "priorPass": 1,
       "disposition": "RESOLVED",
       "evidence": "At stories/voice-of-silence/03-draft.md:109-113, Dorram now uses a brass node, marks Roofstay, signs yes to authorize himself as living shaper and caller for the cell, gives the two-finger ready sign, calls within the twelve-heartbeat window on one breath, and keeps the staff limited to geometry. The successful release now follows the established activation gate without adding an exception."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only review; no files changed."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "voice-of-silence",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/voice-of-silence/05-story.md",
+  "authorityManifest": "stories/voice-of-silence/authority.json",
+  "handoffLedger": "stories/voice-of-silence/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-02T22:50:27.7253245Z",
+  "reviewBasis": "Read-only joint review of stories/voice-of-silence/05-story.md and stories/voice-of-silence/06-canon-delta.md at clean checkpoint 5c574ad, with 00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md through passes 1-2, authority.json, handoffs.json through completed sequence 7, and stories/NAMES.md. Checked prompt fulfillment, unchanged LOCKED/CANON authority captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15, local scope, chronology, causality, spell activation, living agency, consent, disability treatment, prose readiness, immutable frontmatter, all 23 proposed delta items and their resolvable dependencies/targets, final character inventory, three-column non-character allowlist, and registry uniqueness.",
+  "verdict": "PASS",
+  "blockType": "NONE",
+  "resolutionOwner": "none",
+  "resolutionQuestion": "none",
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "VOS-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The final prose preserves the corrected Roofstay activation at stories/voice-of-silence/05-story.md:109-113: Dorram uses a brass node, marks the registered spell, signs yes as living shaper/caller, opens the twelve-heartbeat ready window, calls on one breath, and keeps the staff limited to geometry. The final delta records the same bounded mechanism consistently in VOS-03, VOS-05, VOS-08, VOS-09, and VOS-16."
     }
   ],
   "findings": [],
