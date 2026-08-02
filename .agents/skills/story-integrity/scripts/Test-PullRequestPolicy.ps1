@@ -6,7 +6,8 @@ $errors=[Collections.Generic.List[string]]::new()
 function Invoke-GitLines([string[]]$Arguments){$output=@(& git -C $ProjectRoot @Arguments 2>&1);if($LASTEXITCODE-ne0){throw "git $($Arguments -join ' ') failed: $($output -join ' ')"};return @($output|ForEach-Object{[string]$_}|Where-Object{$_})}
 function Get-LatestPathCommit([string]$Path){$value=@(Invoke-GitLines @('rev-list','-1',$HeadRef,'--',$Path));if($value.Count){return $value[0]};return $null}
 function Test-AtOrAfter([string]$Earlier,[string]$Later){if(-not$Earlier-or-not$Later){return $false};if($Earlier-ceq$Later){return $true};& git -C $ProjectRoot merge-base --is-ancestor $Earlier $Later 2>$null;return $LASTEXITCODE-eq0}
-$branch=if($env:GITHUB_HEAD_REF){$env:GITHUB_HEAD_REF}else{Get-RepositoryBranch $ProjectRoot}
+$repositoryBranch=Get-RepositoryBranch $ProjectRoot
+$branch=if($repositoryBranch){$repositoryBranch}elseif($env:GITHUB_HEAD_REF){$env:GITHUB_HEAD_REF}else{$null}
 if(-not$branch-or$branch-ceq'main'){$errors.Add('Pull-request production validation cannot run as direct main work.')}elseif($branch -cnotmatch '^codex/'){$errors.Add("Production branch '$branch' must use the codex/ prefix.")}
 try{$baseLines=@(Invoke-GitLines @('rev-parse',$BaseRef));$baseCommit=$baseLines[0];$null=(Invoke-GitLines @('rev-parse',$HeadRef))}catch{$errors.Add($_.Exception.Message);$baseCommit=$null}
 $changed=@();if($baseCommit){try{$changed=@(Invoke-GitLines @('diff','--name-only',"$BaseRef...$HeadRef")|ForEach-Object{$_.Replace('\','/')}|Sort-Object -Unique)}catch{$errors.Add($_.Exception.Message)}}
