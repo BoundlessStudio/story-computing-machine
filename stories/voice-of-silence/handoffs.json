@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "voice-of-silence",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-02T21:42:00.6585285+00:00",
+      "completedAt": "2026-08-02T22:09:18.5423694+00:00",
+      "guardId": "9f2bac5b56824801be68a4717c551f3d",
+      "persister": "story_architect",
+      "report": "status: READY  \nchangedPath: `stories/voice-of-silence/02-story-plan.md`  \nnameInventory:\n- `Kethra` — unique\n- `Ulan` — unique\n- `Dorram` — unique\n\nscopeCheck: only the allowed plan path changed; six scenes; 3,235 words; complete four-column Name check.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
