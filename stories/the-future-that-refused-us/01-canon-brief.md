@@ -88,7 +88,7 @@
   “Memory, myth, and recoverable truth”]
 - `stories/INDEX.md` currently marks every listed story canon `no`. Therefore
   no finalized `05-story.md` qualifies as a canon source for this brief, and
-  candidate or legacy prophecy-adjacent material must not be imported as
+  candidate or archive record prophecy-adjacent material must not be imported as
   established lore. [universe/README.md — “Authority order”;
   stories/INDEX.md — “Story index”]
 
@@ -193,7 +193,7 @@ if they survive into final prose.
   if prose will use it alone. [stories/NAMES.md — “Rules”]
 - Avoid all existing reserved forms unless the plan intentionally reuses the
   same identity or documents a meaningful distinct-identity collision and
-  reader-disambiguation strategy. Candidate, abandoned, and legacy reservations
+  reader-disambiguation strategy. Candidate, abandoned, and archive record reservations
   still count even though they are not canon.
 - The prophecy/time/divinity invention space has especially relevant reserved
   aliases: `the Goddess of Time`, `Goddess of Time`, and `Time`; `Queen
@@ -205,8 +205,8 @@ if they survive into final prose.
   Ancestors`; `Court Ghost`; and `Keeper Below`. Do not accidentally attach
   these to a new prophet, ruler, god, institution, or prophecy.
 - Do not add another `Lena`, `Mara`, `Nisha`, `Pell`, or `Voss`. Each form
-  already has an unresolved collision between distinct legacy identities.
-  [stories/NAMES.md — “Known unresolved legacy collisions”]
+  already has an unresolved collision between distinct in-progress story identities.
+  [stories/NAMES.md — “Known unresolved name collisions”]
 - Check close mythic-fantasy forms, not just exact matches. Documented
   high-density clusters include `Irix` / `Ilya` / `Ivo` / `Eli`; `Sula` /
   `Siva` / `Solstice` / `Seris` / `Sabine` / `Sorel`; and `Talvi` / `Tavra` /
@@ -274,7 +274,7 @@ if they survive into final prose.
 - `universe/characters.md` — “Recurring characters” (no established entries)
 - `universe/factions.md` — “Factions and cultures” (no established entries)
 - `stories/INDEX.md` — “Story index”
-- `stories/NAMES.md` — “Rules”; registry table; “Known unresolved legacy
+- `stories/NAMES.md` — “Rules”; registry table; “Known unresolved archive record
   collisions” (production memory, not canon)
 - `stories/the-future-that-refused-us/00-prompt.md` — “Verbatim writing
   prompt”; “Story controls”; “Assumptions”; “Completion tests”

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "prepared": "2026-07-22",
+  "authority": "none",
+  "decisionRecord": "sources/decisions/2026-07-22-universe-grill.md",
+  "records": [
+    {
+      "recordId": "S01-O",
+      "workTitle": "Daughter of the Sun outline",
+      "reviewedForm": "Detailed structural and world outline, about 12,023 words",
+      "path": "sources/records/s01-o/outline.md",
+      "sha256": "a8daf690f7318efe7e337c1c94727f9f9487dbb4576a754c30e68e7d6914859b",
+      "reviewedSha256": "a8daf690f7318efe7e337c1c94727f9f9487dbb4576a754c30e68e7d6914859b",
+      "authority": "none",
+      "historicalRevision": "c6417162d8c2e6c18d4a045f9e8664c62e232c02",
+      "historicalBlobOid": "46beb51e2cbcba94f203cbcb081b1006bee7a02f"
+    },
+    {
+      "recordId": "S03",
+      "workTitle": "Realms",
+      "reviewedForm": "Complete short story with sequel hook, about 3,260 words",
+      "path": "sources/records/s03/Realms.md",
+      "sha256": "0e1ac4f9b7f1193ed6c6f22120fd25a0ffb87cc6d1275a992c4f32fa52872d85",
+      "reviewedSha256": "64c48f60b617d1688ca1989b4e73cdc29510dcf74e8454e4c24a62f9c72933df",
+      "authority": "none",
+      "historicalRevision": "c6417162d8c2e6c18d4a045f9e8664c62e232c02",
+      "historicalBlobOid": "6998c7fd632e544343c3358fd0a2ad426a800aa6"
+    },
+    {
+      "recordId": "S04",
+      "workTitle": "Self-Reflection",
+      "reviewedForm": "Complete short story, about 3,337 words",
+      "path": "sources/records/s04/Self-Reflection.md",
+      "sha256": "64fe5ca502c20ebae7d104337bfecc86a5182285e12376a0986d18c72e1d7230",
+      "reviewedSha256": "75ec8812f0942c12c6bbf6842503ca1d2809bfc6de729e39059cca318b80f639",
+      "authority": "none",
+      "historicalRevision": "c6417162d8c2e6c18d4a045f9e8664c62e232c02",
+      "historicalBlobOid": "d89c5df562db89d5934da4e737f60083ad02d109"
+    },
+    {
+      "recordId": "S06",
+      "workTitle": "The Names on the Cups",
+      "reviewedForm": "Complete long short story, about 7,535 words",
+      "path": "sources/records/s06/The Names on the Cups.md",
+      "sha256": "cce87330d015b6f0aa0279288bdbc158cb0e4f52ae82f2525aa83f905664b408",
+      "reviewedSha256": "17ec7c399bb46e82097a7f0f3b212bb07617438d756704ff1a3b8124c8efebde",
+      "authority": "none",
+      "historicalRevision": "c6417162d8c2e6c18d4a045f9e8664c62e232c02",
+      "historicalBlobOid": "6ede2ac61a854b225590898d28ec581c6d03cc95"
+    },
+    {
+      "recordId": "S07",
+      "workTitle": "The Small Moon Rose First",
+      "reviewedForm": "Full 40-chapter novel outline, about 8,470 words",
+      "path": "sources/records/s07/The_Small_Moon_Rose_First_Full_Outline.md",
+      "sha256": "985a99370e369d41c0ed09654efd51a7652d4b03c4d49eb16994d22e55a784b6",
+      "reviewedSha256": "985a99370e369d41c0ed09654efd51a7652d4b03c4d49eb16994d22e55a784b6",
+      "authority": "none",
+      "historicalRevision": "c6417162d8c2e6c18d4a045f9e8664c62e232c02",
+      "historicalBlobOid": "dcfe43c24135409408de37ecd544034bc61a96ba"
+    },
+    {
+      "recordId": "S08",
+      "workTitle": "The Trouble With Tuesdays",
+      "reviewedForm": "Complete short story with cyclical hook, about 3,645 words",
+      "path": "sources/records/s08/The Trouble With Tuesdays.md",
+      "sha256": "e800a25e2bc167a0b7cfcd697484153a8f2c74c1c97f806766e4f5f395603ab2",
+      "reviewedSha256": "0633754a61ac1cd02a7ae79e35fde76c560c7aba3b638e261c33c60ac4a156f1",
+      "authority": "none",
+      "historicalRevision": "c6417162d8c2e6c18d4a045f9e8664c62e232c02",
+      "historicalBlobOid": "7c946c9e00e61e345575e517d95e64284ce72aa7"
+    }
+  ],
+  "externalRecords": [
+    {"recordId":"S01","workTitle":"Daughter of the Sun","reviewedForm":"Complete novel draft, about 89,350 words","logicalLocator":"Light/version 3/draft/daughter_of_the_sun.md","authority":"none"},
+    {"recordId":"S02","workTitle":"Day After","reviewedForm":"Complete short story, about 3,388 words","logicalLocator":"Day After/TheDayAfter.md","authority":"none"},
+    {"recordId":"S05","workTitle":"The Inheritance","reviewedForm":"Complete short story, about 2,564 words","logicalLocator":"The Inheritance/The Inheritance.md","authority":"none"},
+    {"recordId":"S09","workTitle":"Things September Can't Take","reviewedForm":"Complete 20-page short story, about 4,093 extracted words","logicalLocator":"Things_September_Cant_Take.pdf","authority":"none"},
+    {"recordId":"S10","workTitle":"Writing rules","reviewedForm":"Authorial constraints, about 2,023 words","logicalLocator":"writing-rules.md","authority":"none"}
+  ]
+}

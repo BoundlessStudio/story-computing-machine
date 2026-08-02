@@ -1,8 +1,6 @@
 ---
 title: "A Crown of Quiet Hours"
 slug: "a-crown-of-quiet-hours"
-status: abandoned
-canon: false
 created: 2026-07-27
 ---
 

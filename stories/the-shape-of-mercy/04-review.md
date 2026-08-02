@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 2 — final story review
+- Review pass: 4
+- Artifact SHA-256: `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`
+- Canon delta SHA-256: `5c07a682917c3c3831b410c8759934d5386c9e059404a5de47e3746f7082152a`
 - Verdict: PASS
-- Updated: 2026-07-23
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -40,7 +46,7 @@ update Current certification to match the newest pass. -->
   people's testimony survive (`03-draft.md:337–361`). The treatment preserves
   Adrian's personhood, consent, grief, and responsibility.
 - The story remains in an unnamed high-fantasy era and creates no unsupported
-  connection to Earth, Ravel, the Glass-Sea era, the Glass Gate, or any legacy
+  connection to Earth, Ravel, the Glass-Sea era, the Glass Gate, or any archive record
   character, artifact, or institution.
 
 #### Continuity
@@ -99,7 +105,7 @@ update Current certification to match the newest pass. -->
   descriptions, not undocumented proper-name aliases.
 - No exact, alias, close-spelling, reversal, surname, or misleading continuity
   collision was found. The story-scoped registry check passes; its five
-  warnings concern pre-existing global legacy collisions (`Lena`, `Mara`,
+  warnings concern pre-existing global released-reservation collisions (`Lena`, `Mara`,
   `Nisha`, `Pell`, and `Voss`) that do not appear in this draft.
 
 #### Causality and character
@@ -199,7 +205,7 @@ update Current certification to match the newest pass. -->
   skills, arbitrary memories, evidence, or other people's testimony.
 - The unnamed era creates no contradiction with the established era order and
   makes no unsupported connection to Earth, Ravel, the Glass-Sea era, the
-  Glass Gate, legacy material, or an existing canonical identity.
+  Glass Gate, unpromoted material, or an existing canonical identity.
 - Frontmatter correctly leaves the final story at `status: candidate` and
   `canon: false` (`05-story.md:4–5`).
 
@@ -251,7 +257,7 @@ update Current certification to match the newest pass. -->
 - No exact, alias, close-spelling, reversal, surname, or false-continuity
   collision was introduced. The story-scoped name validation passes with 76
   entries and 160 reserved forms. Its five warnings are the pre-existing
-  global legacy collisions `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`, none
+  global released-reservation collisions `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`, none
   of which appears here.
 - `06-canon-delta.md:143–158` accurately records the final name inventory and
   no new personal alias. Updating the six registry rows from `planned` to
@@ -342,3 +348,64 @@ update Current certification to match the newest pass. -->
   workflow follow-ups after this review, not review findings.
 
 **Verdict: PASS**
+
+### Pass 3 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-shape-of-mercy`
+- pass: 3
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `ebccbfe00c9d0c1a680b6a5dbf7fe940830c8966de6764b994ecb15a35bb93fd`
+- canonDeltaSha256: `5c07a682917c3c3831b410c8759934d5386c9e059404a5de47e3746f7082152a`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `c66832ab20778922ac122ebc49172f77dd6ec1c5c8f2d3b5027636ba885b480d`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 4 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `ebccbfe00c9d0c1a680b6a5dbf7fe940830c8966de6764b994ecb15a35bb93fd`
+- Artifact SHA-256: `609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a`
+- Canon delta SHA-256: `5c07a682917c3c3831b410c8759934d5386c9e059404a5de47e3746f7082152a`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `ebccbfe00c9d0c1a680b6a5dbf7fe940830c8966de6764b994ecb15a35bb93fd`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `5c07a682917c3c3831b410c8759934d5386c9e059404a5de47e3746f7082152a`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

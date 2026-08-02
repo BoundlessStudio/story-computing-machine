@@ -29,7 +29,7 @@ protective concealment and fear to honest consent.
 - Content boundary: Teen / PG-13; magical destruction, coercion, and
   non-graphic injury, with consequences foregrounded
 - Scope: One evening at Bellweather Hall and its living orchard; an unnamed
-  high-fantasy era independent of established named eras and legacy material
+  high-fantasy era independent of established named eras and unpromoted material
 
 ## Character engine
 
@@ -172,7 +172,7 @@ Total planned word budget: approximately 3,400 words.
   sharing one origin.
 - Burned trees, ice damage, injury, coerced animal pain, family betrayal, and
   Garran's loss receive consequence-centered, non-graphic treatment.
-- No existing character, faction, location, artifact, or legacy motif is
+- No existing character, faction, location, artifact, or archive record motif is
   treated as connected.
 
 ## Name check

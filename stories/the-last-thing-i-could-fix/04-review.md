@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
-- Reviewed artifact: `stories/the-last-thing-i-could-fix/05-story.md`
-- Review pass: 3
+- Reviewed artifact: `05-story.md`
+- Review pass: 5
+- Artifact SHA-256: `addcbd2d137c0e60678eacfb7f4a62d3256d29364a67c11f25a6416bbc82838f`
+- Canon delta SHA-256: `d3c2b23651b2fb786bbfbe45f3af9c523a6f83f5be6d4c32acf7b98fe50ae722`
 - Verdict: PASS
-- Updated: 2026-07-31
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 ### Pass 1 — draft gate
@@ -103,7 +109,7 @@ reversed, or identity-implying collision was found.
 
 The scoped name-validation script passed for
 `the-last-thing-i-could-fix`: 136 registry entries and 294 reserved forms
-checked. Its five warnings concern existing unrelated legacy collisions
+checked. Its five warnings concern existing unrelated released-reservation collisions
 (`Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`) absent from this draft.
 
 #### Causality and character
@@ -281,7 +287,7 @@ Finding FR2-01:
   validator afterward.
 
 The five global warnings for `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss` are
-pre-existing legacy collisions unrelated to this story.
+pre-existing released-reservation collisions unrelated to this story.
 
 #### Causality and character
 
@@ -418,7 +424,7 @@ The required scoped command succeeds:
 
 Result: 136 registry entries and 294 reserved forms checked; exit code 0. The
 five warnings for `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss` are unrelated
-pre-existing legacy collisions absent from this story.
+pre-existing released-reservation collisions absent from this story.
 
 FR2-01 is resolved.
 
@@ -465,3 +471,64 @@ becomes canon without user approval.
 #### Required fixes
 
 None. No unresolved Critical or Major findings remain.
+
+### Pass 4 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-last-thing-i-could-fix`
+- pass: 4
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `46d534ffd6a2d014d3d9f4b242c865bc3153422684e07826b1d1233cc288abd1`
+- canonDeltaSha256: `d3c2b23651b2fb786bbfbe45f3af9c523a6f83f5be6d4c32acf7b98fe50ae722`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `249aff5566a9c923864535a4a6a91ba5b5645ddca23189830b7e577209f81319`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 5 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `46d534ffd6a2d014d3d9f4b242c865bc3153422684e07826b1d1233cc288abd1`
+- Artifact SHA-256: `addcbd2d137c0e60678eacfb7f4a62d3256d29364a67c11f25a6416bbc82838f`
+- Canon delta SHA-256: `d3c2b23651b2fb786bbfbe45f3af9c523a6f83f5be6d4c32acf7b98fe50ae722`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `46d534ffd6a2d014d3d9f4b242c865bc3153422684e07826b1d1233cc288abd1`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `d3c2b23651b2fb786bbfbe45f3af9c523a6f83f5be6d4c32acf7b98fe50ae722`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

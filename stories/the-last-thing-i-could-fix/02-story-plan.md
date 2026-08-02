@@ -334,7 +334,7 @@ truer, and more useful.
 ## Name check
 
 Registry checked against the complete `stories/NAMES.md` production-memory
-table, including candidate, legacy, abandoned, and unresolved entries. No
+table, including candidate, archive record, abandoned, and unresolved entries. No
 deliberate reuse, crossover, shared identity, or prompt-required collision is
 planned.
 

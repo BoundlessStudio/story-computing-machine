@@ -5,7 +5,7 @@
 - **Canon authority:** Only `LOCKED` and `CANON` universe entries can establish
   facts for this story. `stories/INDEX.md` currently contains no row with canon
   `yes`, so no finalized story contributes binding lore. Candidate, abandoned,
-  in-progress, legacy, or proposed material must not be imported as canon.
+  in-progress, archive record, or proposed material must not be imported as canon.
   (`universe/README.md` — `## Authority order`; `stories/INDEX.md` — story
   table)
 - **One deep-time world:** If the story is placed in the modern-like era, that
@@ -192,7 +192,7 @@
   term becomes a handler codename, magical alias, mascot, construct, or
   person-like system name, it must be checked and registered.
 - Every name and alias in `stories/NAMES.md` remains reserved across canon,
-  candidates, abandoned stories, and portable legacy sources. Choose unique,
+  candidates, abandoned stories, and released reservations. Choose unique,
   readily distinguishable civilian names, magical identities, nicknames,
   usernames, honorific-plus-surname forms, villains, mascots, named weapons or
   constructs, and person-like entities. A magical and civilian alias belonging
@@ -212,7 +212,7 @@
   unless prose uses it as a character's proper name; any title used as a name
   must be registered.
 - Avoid the registry's unresolved collisions entirely: `Lena` (Lena Mercer /
-  Lena Venn), `Mara` (Mara from Hinge / Mara Osset), `Nisha` (legacy S02 /
+  Lena Venn), `Mara` (Mara from Hinge / Mara Osset), `Nisha` (archive record S02 /
   S04), `Pell` (Orrin Pell / Pell), and `Voss` (M. Voss / Rhea Voss).
   Repeating one would compound an existing unresolved defect.
 - Check close forms, not only exact matches. Relevant crowded clusters include
@@ -225,7 +225,7 @@
   can distinguish them. No current prompt element requires reuse.
   (`stories/NAMES.md` — `## Rules`, registry table under
   `# Character name registry`, and `## Known unresolved
-  legacy collisions`; `universe/style-guide.md` — `## Prose defaults`)
+  released-reservation collisions`; `universe/style-guide.md` — `## Prose defaults`)
 
 ## Required checks after drafting
 
@@ -261,7 +261,7 @@
   the registry through the primary coordinator, and run the story-scoped name
   validation.
 - Check that imagery, titles, or genre language do not imply an unsupported
-  connection to `Solstice Evening Bell`, another candidate, a legacy source,
+  connection to `Solstice Evening Bell`, another candidate, a archive record,
   the Glass Gate, Ravel, or any deity.
 - Ensure `06-canon-delta.md` captures every reusable new fact and labels
   story-only details appropriately; none becomes authoritative until explicit
@@ -290,6 +290,6 @@
 - `stories/INDEX.md` — `# Story index` table and canon-status key (no canon
   `yes` row)
 - `stories/NAMES.md` — `# Character name registry` table, `## Rules`, `## Known
-  unresolved legacy collisions`
+  unresolved source-name collisions`
 - `stories/the-attendance-ledger/00-prompt.md` — `## Verbatim writing prompt`,
   `## Story controls`, `## Assumptions`, `## Completion tests`

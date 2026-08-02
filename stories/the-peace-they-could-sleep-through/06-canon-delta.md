@@ -237,6 +237,14 @@ canon promotion.
   several recallable chairs, requiring proposed concessions and subject to
   district reconsideration after one year.
 
+## Final character-facing name inventory
+
+- **Lumen Mott** — Reserved forms: `Lumen Mott`; `Adjudicator Mott`
+- **Ludo Dask** — Reserved forms: `Ludo Dask`; `Ludo`
+- **Gelda Parn** — Reserved forms: `Gelda Parn`; `Gelda`
+- **Varkesh** — Reserved forms: `Varkesh`
+- **Sleepless Majesty** — Reserved forms: `the Sleepless Majesty`; `Sleepless Majesty`; `Majesty`; `Your Majesty`
+
 ## Name registry updates
 
 Final character-facing inventory:
@@ -282,7 +290,7 @@ Final character-facing inventory:
   `a-crown-of-quiet-hours`. Its economic and political crisis contains no
   literal-fire engine.
 - The story establishes no connection to a named era, portal, deity, artifact,
-  place, faction, character, or legacy source. Resemblance does not imply
+  place, faction, character, or archive record. Resemblance does not imply
   shared origin.
 - The transformation and sleep observations are restricted to these twelve.
   The godhood accounting follows the existing worship-power-authority taxonomy
@@ -293,4 +301,3 @@ Final character-facing inventory:
 None. Do not promote any proposal, mark the story canon, or alter
 authoritative universe notes without explicit user approval and the separate
 canon-maintenance workflow.
-

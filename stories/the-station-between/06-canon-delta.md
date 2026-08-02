@@ -144,6 +144,13 @@ proposed.
 
 None.
 
+## Final character-facing name inventory
+
+- **Ruth** — Reserved forms: `Ruth`
+- **Asha** — Reserved forms: `Asha`
+- **Sabine Kroll** — Reserved forms: `Sabine Kroll`; `Sabine`
+- **Hester Pike** — Reserved forms: `Hester Pike`; `Hester`
+
 ## Name registry updates
 
 - `stories/NAMES.md` already reserves all final character-facing forms for

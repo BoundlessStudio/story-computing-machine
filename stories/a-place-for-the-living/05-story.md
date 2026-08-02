@@ -1,8 +1,6 @@
 ---
 title: "A Place for the Living"
 slug: "a-place-for-the-living"
-status: candidate
-canon: false
 created: 2026-07-26
 ---
 

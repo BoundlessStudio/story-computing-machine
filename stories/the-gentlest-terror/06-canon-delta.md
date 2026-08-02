@@ -208,6 +208,17 @@ aristocracy, consent, or succession.
 - **the Grief-Clad** — Nyrzath's public epithet. **Nyr** is Olyra's private
   shortening for the same dragon. Neither form identifies a separate person.
 
+## Final character-facing name inventory
+
+- **Olyra** — Reserved forms: `Princess Olyra`; `Olyra`; `Queen Olyra`
+- **Nyrzath / the Grief-Clad** — Reserved forms: `Nyrzath`; `Nyr`; `the Grief-Clad`; `Nyrzath the Grief-Clad`
+- **Lord Osric Fane** — Reserved forms: `Lord Osric Fane`; `Lord Osric`
+- **Duchess Yselle Flint** — Reserved forms: `Duchess Yselle Flint`; `Duchess Yselle`
+- **Mossback** — Reserved forms: `Mossback`
+- **Lord Ruvik Cress** — Reserved forms: `Lord Ruvik Cress`; `Lord Ruvik`
+- **Larkspur** — Reserved forms: `Larkspur`
+- **King Ambric** — Reserved forms: `King Ambric`
+
 ## Name registry updates
 
 The final character-facing inventory is below. All forms are already reserved

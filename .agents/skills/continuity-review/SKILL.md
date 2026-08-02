@@ -5,12 +5,45 @@ description: "Review a shared-universe story for canon contradictions, chronolog
 
 # Continuity and story review
 
-Review the assigned story artifact: `03-draft.md` for the draft gate or
-`05-story.md` for the mandatory final gate. Compare it with the prompt contract,
-canon brief, plan, authoritative universe notes, and any relevant canon stories.
-For a final review, also compare `06-canon-delta.md` with the final prose and
-check that editing introduced no continuity, causality, prompt, or name-registry
-regressions. Always read `stories/NAMES.md`.
+Review one assigned artifact: `03-draft.md` for the draft gate or
+`05-story.md` for the mandatory final gate. The critic is read-only; the
+coordinator persists its bounded payload.
+
+## Inputs and authority
+
+Require the story slug and artifact. Read the complete `00-prompt.md`,
+`01-canon-brief.md`, `02-story-plan.md`, all prior `04-review.md` passes, the
+assigned artifact, `universe/README.md`, relevant universe notes,
+`stories/INDEX.md`, each relevant `story.json`, and `stories/NAMES.md`. For a
+final review also read `06-canon-delta.md` and the coordinator's latest
+available successful plan/final name-check result. This is review evidence, not
+a substitute for the mandatory Final check after final prose is stable.
+
+Only stories whose index row says canon `yes` and whose `story.json` says
+`canon: true`, with those records agreeing, are continuity authority.
+Candidate, in-progress, and abandoned stories are non-canon production context.
+Archived source material is separate non-canon evidence with authority `none`;
+it never classifies a production story. Do not turn resemblance to any of these
+into a canon constraint.
+An index/metadata disagreement for a relevant authority source is a
+`HANDOFF_ERROR` owned by the coordinator, not a canon verdict; do not silently
+choose one.
+
+## Pass identity and previous findings
+
+Read all of `04-review.md`. Count only completed passes that identify a real
+artifact and have a non-PENDING verdict. The untouched scaffold `Pass 1 —
+pending` is not completed history and is replaced for the first review. A
+coordinator-assigned pass is valid only if it is one greater than the highest
+completed pass, or 1 when none exists. If the coordinator omits it, compute that
+number. If completed history contains duplicates, malformed IDs, or a
+non-monotonic sequence, return `HANDOFF_ERROR` without a verdict rather than
+guessing.
+
+For every prior unresolved Critical or Major finding relevant to the current
+artifact, report a stable finding ID and one disposition:
+`RESOLVED`, `STILL_OPEN`, or `SUPERSEDED`, with current evidence. A review
+cannot pass while any such finding is still open.
 
 Check these lanes separately:
 
@@ -26,23 +59,59 @@ Check these lanes separately:
 7. Canon delta: reusable inventions and the final name inventory are captured
    without being pre-approved.
 
-For each finding provide `Severity`, `Location`, `Evidence`, `Why it matters`,
-and `Smallest effective fix`. Severity is `Critical`, `Major`, `Minor`, or
-`Optional`. Do not report preferences as defects.
+For each finding provide `findingId`, `lane`, `Severity`, `Location`,
+`Evidence`, `Why it matters`, and `Smallest effective fix`. Severity is
+`Critical`, `Major`, `Minor`, or `Optional`. Do not report preferences as
+defects. An undocumented accidental name reuse is at least Major. A collision
+that falsely implies identity, kinship, chronology, or crossover may be
+Critical. Reserved candidate and abandoned names still count as
+production-memory collisions even though their stories are not canon. Names
+found only in the source archive may be reported as collision evidence, but do
+not create a different registry state or validation exception for a production
+story.
 
-Begin each pass by identifying the exact reviewed artifact and pass number. The
-primary agent will append the pass to `04-review.md` and update its `Current
-certification`; never imply that a review of `03-draft.md` certifies
-`05-story.md`.
+## Verdict and resolution ownership
 
-An undocumented accidental name reuse is at least `Major`. A name collision
-that wrongly implies identity, kinship, chronology, or a crossover may be
-`Critical`. Do not downgrade a collision merely because the names belong to
-different non-canon stories; legacy and candidate names are reserved production
-memory too.
+- `PASS`: no unresolved Critical or Major; `blockType: NONE`,
+  `resolutionOwner: none`.
+- `REVISE`: one or more repairable Major findings; `blockType: NONE`, with
+  `resolutionOwner: prose_writer` for the draft or `story_editor` for final.
+- `BLOCK` plus `blockType: REPAIRABLE`: a Critical defect can be repaired in
+  the reviewed artifact; assign its artifact owner.
+- `BLOCK` plus `blockType: USER_RULING_REQUIRED`: conflicting authority or an
+  authorization choice cannot be repaired within current canon;
+  `resolutionOwner: user` and an exact ruling question are mandatory.
 
-End with exactly one verdict:
+## Exact persistence handoff
 
-- `PASS` — no Critical or Major issues remain.
-- `REVISE` — one or more Major issues remain but canon is resolvable.
-- `BLOCK` — a Critical issue or canon ruling prevents safe finalization.
+Return exactly one block bounded by `REVIEW_PASS_PAYLOAD` and
+`END_REVIEW_PASS_PAYLOAD` with these fields:
+
+```text
+story: <slug>
+pass: <positive integer>
+reviewedArtifact: <03-draft.md|05-story.md>
+artifactSha256: <raw-byte lowercase sha256>
+canonDeltaSha256: <raw-byte lowercase sha256|not-applicable>
+reviewer: <continuity_critic|explicit primary fallback identifier>
+reviewedAt: <ISO-8601 timestamp with offset>
+reviewBasis: <current authority/index snapshot>
+verdict: <PASS|REVISE|BLOCK>
+blockType: <NONE|REPAIRABLE|USER_RULING_REQUIRED>
+resolutionOwner: <none|prose_writer|story_editor|user>
+resolutionQuestion: <none|exact question requiring the user's decision>
+unresolvedCounts: { critical: <n>, major: <n>, minor: <n> }
+priorFindingDispositions: <list with IDs, dispositions, and evidence>
+findings: <structured list with all required finding fields>
+certificationEligible: <true|false>
+changeReport: read-only; no files changed
+```
+
+The coordinator verifies the hashes, appends this payload without discarding
+earlier passes, and updates Current certification with the pass's artifact and
+canon-delta hashes under exact labels `Artifact SHA-256` and `Canon delta
+SHA-256`, plus reviewer, verdict, and unresolved counts. A `03-draft.md` review never
+certifies `05-story.md`. Any artifact edit makes the matching review stale. A
+final PASS is only the review component of `release.json`; release certification
+also requires matching final-artifact hashes and a successful final name-check
+receipt.

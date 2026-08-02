@@ -5,7 +5,7 @@
 - Canon authority comes from `LOCKED` and `CANON` universe entries, followed by
   final stories whose index row says canon `yes`. The current story index has no
   canon-`yes` rows, so no existing story supplies binding dragon, city, or water
-  lore for this prompt. Candidate, in-progress, abandoned, and legacy material
+  lore for this prompt. Candidate, in-progress, abandoned, and unpromoted material
   must not be treated as canon. (`universe/README.md` — **Authority order**;
   `stories/INDEX.md` — **Story index**)
 - The story must occur somewhere in the one physical world that persists across
@@ -187,7 +187,7 @@
 
 - `stories/NAMES.md` is non-canon production memory, but every unreleased form
   in it is reserved across canon, candidates, abandoned work, and portable
-  legacy sources. The architect must consult the full registry before proposing
+  archive records. The architect must consult the full registry before proposing
   any personal name, mononym, nickname, alias, username, title used as a name,
   named animal, or person-like civic/magical entity. (`stories/NAMES.md` —
   **Rules**)
@@ -211,7 +211,7 @@
 - Known unresolved collisions are `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`.
   Do not add another identity under any of those forms; existing records already
   require renaming or an explicit ruling during their own adaptation.
-  (`stories/NAMES.md` — **Known unresolved legacy collisions**)
+  (`stories/NAMES.md` — **Known unresolved name collisions**)
 - No new character-facing name has yet been proposed, so an exact or close-form
   clearance cannot be issued at this stage. The future plan's `Name check` must
   compare each proposed form case-insensitively against the entire registry,
@@ -276,7 +276,7 @@
 - `universe/retcons.md` — **Retcon log** (no approved retcons)
 - `stories/INDEX.md` — **Story index** (no canon-`yes` rows)
 - `stories/NAMES.md` — **Rules**; **Character name registry**; **Known
-  unresolved legacy collisions** (production memory, not canon)
+  unresolved source-name collisions** (production memory, not canon)
 - `stories/a-little-winter-for-sale/00-prompt.md` — **Verbatim writing
   prompt**; **Story controls**; **Assumptions**; **Completion tests** (verified
   production input, not canon)

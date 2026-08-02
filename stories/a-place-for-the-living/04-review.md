@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 2 — final-story review
+- Review pass: 4
+- Artifact SHA-256: `f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5`
+- Canon delta SHA-256: `2cd47bae340b369e61dd1a6f16d6586cfaf09fa8d4993cd9e48364286588dcd2`
 - Verdict: PASS
-- Updated: 2026-07-26
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -98,7 +104,7 @@ update Current certification to match the newest pass. -->
   character-facing aliases or titles used as names.
 - No exact, case-insensitive, alias, close-spelling, reversal, surname-as-label,
   or false-continuity collision was found against the registry. None of its
-  unresolved legacy forms (`Lena`, `Mara`, `Nisha`, `Pell`, or `Voss`) appears
+  unresolved released reservation forms (`Lena`, `Mara`, `Nisha`, `Pell`, or `Voss`) appears
   here.
 
 #### Causality and character
@@ -302,7 +308,7 @@ update Current certification to match the newest pass. -->
 - No exact, case-insensitive, alias, close-spelling, reversal,
   surname-as-label, or false-identity collision was found. The registry marks
   all four identities unique for unrelated reuse; none of the unresolved
-  legacy forms `Lena`, `Mara`, `Nisha`, `Pell`, or `Voss` appears.
+  released reservation forms `Lena`, `Mara`, `Nisha`, `Pell`, or `Voss` appears.
 
 #### Causality and character
 
@@ -429,3 +435,64 @@ update Current certification to match the newest pass. -->
   certified story or delta.
 
 **Verdict: PASS**
+
+### Pass 3 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `a-place-for-the-living`
+- pass: 3
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `e83ad3c0049370b0bbd71e0cb4c056760dcf597234a2c72a42526952ff21f611`
+- canonDeltaSha256: `2cd47bae340b369e61dd1a6f16d6586cfaf09fa8d4993cd9e48364286588dcd2`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `1bdec7d11691161efc40717a313e88f30727f1a98331dba3108e53a918ba75ce`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 4 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `e83ad3c0049370b0bbd71e0cb4c056760dcf597234a2c72a42526952ff21f611`
+- Artifact SHA-256: `f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5`
+- Canon delta SHA-256: `2cd47bae340b369e61dd1a6f16d6586cfaf09fa8d4993cd9e48364286588dcd2`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `e83ad3c0049370b0bbd71e0cb4c056760dcf597234a2c72a42526952ff21f611`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `2cd47bae340b369e61dd1a6f16d6586cfaf09fa8d4993cd9e48364286588dcd2`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

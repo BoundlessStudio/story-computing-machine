@@ -195,7 +195,7 @@
   character-facing names.
 - Avoid the registry's unresolved collisions entirely: `Lena`, `Mara`, `Nisha`,
   `Pell`, and `Voss`. Adding another identity would compound an existing
-  unresolved production defect. (`stories/NAMES.md` — “Known unresolved legacy
+  unresolved production defect. (`stories/NAMES.md` — “Known unresolved archive record
   collisions”)
 - No deliberate name reuse is required by the prompt. Default to unique,
   readily distinguishable full names, given names, mononyms, nicknames,
@@ -266,5 +266,5 @@
 - `universe/factions.md` — “Factions and cultures”
 - `universe/characters.md` — “Recurring characters”
 - `stories/INDEX.md` — “Story index” (story status and canon state only)
-- `stories/NAMES.md` — “Rules” and “Known unresolved legacy collisions”
+- `stories/NAMES.md` — “Rules” and “Known unresolved name collisions”
   (non-canon production memory only)

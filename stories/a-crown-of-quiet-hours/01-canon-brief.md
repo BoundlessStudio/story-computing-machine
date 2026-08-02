@@ -174,7 +174,7 @@
 - Do not add to the unresolved collision sets `Lena`, `Mara`, `Nisha`, `Pell`,
   or `Voss`. The registry explicitly requires those overlaps to be resolved,
   not multiplied. (`stories/NAMES.md` —
-  `## Known unresolved legacy collisions`)
+  `## Known unresolved name collisions`)
 - With a likely cast of twelve dragons plus a human bureaucracy, avoid new
   names readily confused with occupied clusters such as `Ilya` / `Irix` /
   `Ivo`, `Talvi` / `Tavra` / `Tamsin`, and the Bellweather family / `Evening
@@ -254,4 +254,4 @@
 - `stories/INDEX.md` — `# Story index` (production status; no listed canon
   stories)
 - `stories/NAMES.md` — `## Character name registry`,
-  `## Known unresolved legacy collisions` (production memory; not canon)
+  `## Known unresolved name collisions` (production memory; not canon)

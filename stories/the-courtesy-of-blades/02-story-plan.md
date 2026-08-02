@@ -200,7 +200,7 @@
   fencer follows through. No target is the head, throat, hands, or joints.
   (`universe/style-guide.md`, **Audience and content boundaries**)
 - Do not import people, institutions, artifacts, imagery, or facts from
-  candidate, abandoned, or legacy stories. Similarity to another weapon or
+  candidate, abandoned, or historical stories. Similarity to another weapon or
   duel creates no continuity. (`universe/style-guide.md`, **Continuity and
   evidence discipline**)
 - Everything under **Proposed inventions** remains a story proposal until the

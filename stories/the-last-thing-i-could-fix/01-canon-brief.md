@@ -172,13 +172,13 @@ reusable facts actually introduced belong in the later canon delta.
 - Every planned personal name, mononym, nickname, alias, username, title used
   as a name, named animal, talking sword, named armor, construct, or other
   person-like entity must be checked case-insensitively against all `Reserved
-  forms`, including legacy, abandoned, candidate, and in-progress rows. A
+  forms`, including archive record, abandoned, candidate, and in-progress rows. A
   speaking object does not escape the name check merely because it is an
   artifact. (`stories/NAMES.md` — `## Rules`)
 - Do not introduce another `Lena`, `Mara`, `Nisha`, `Pell`, or `Voss`. Those are
-  unresolved legacy collisions already shared by distinct identities; adding a
+  unresolved source-name collisions already shared by distinct identities; adding a
   third use would compound the defect. (`stories/NAMES.md` —
-  `## Known unresolved legacy collisions`)
+  `## Known unresolved name collisions`)
 - If the résumé or climax names a dragon, avoid the already reserved
   dragon-associated forms `Kharost`, `Queen Orvessa IV`, `Queen Orvessa`,
   `Orvessa`, `Larkspur`, `Mossback`, `Nyrzath`, `Nyr`, `the Grief-Clad`,
@@ -252,5 +252,5 @@ reusable facts actually introduced belong in the later canon delta.
 - `universe/factions.md` — `# Factions and cultures` (no applicable entries)
 - `stories/INDEX.md` — `# Story index` (no row is canon `yes`)
 - `stories/NAMES.md` — `## Rules`, character-name registry table,
-  `## Known unresolved legacy collisions` (production memory, not canon)
+  `## Known unresolved name collisions` (production memory, not canon)
 

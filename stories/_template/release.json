@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": false,
+  "storySlug": "{{slug}}",
+  "certifiedAt": null,
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": null
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": null
+    }
+  },
+  "review": {
+    "artifact": null,
+    "pass": 0,
+    "verdict": "PENDING",
+    "reviewer": null,
+    "unresolvedCritical": null,
+    "unresolvedMajor": null
+  },
+  "nameCheck": {
+    "story": "{{slug}}",
+    "passed": false,
+    "checkedAt": null,
+    "scopedRegistrySha256": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-last-bus-to-briar-hill",
+  "certifiedAt": "2026-08-02T05:26:49.7265220+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "2a68824bd9eb1eb8b09783e33f48456176e8872e5c4d668bb75ea27710426f93"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "8c738c042e075e83d16d9e322c224fa31f3c88a89994d8bd2c11095fbea80f56"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 7,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-last-bus-to-briar-hill",
+    "passed": true,
+    "checkedAt": "2026-08-02T05:26:49.7144535+00:00",
+    "scopedRegistrySha256": "91e4970c6a20f70d4c3c535ee9970116ac44ddac15dd7160be583464cc8a4a9a"
+  }
+}

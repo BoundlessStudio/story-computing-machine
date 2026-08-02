@@ -108,6 +108,10 @@ None.
   bulkhead`, `equalization slot`, and `receiving cistern` remain lowercase
   functional descriptions rather than proper names.
 
+## Final character-facing name inventory
+
+None.
+
 ## Name registry updates
 
 - **Final character-facing name and alias inventory:** None. The final story

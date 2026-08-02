@@ -5,7 +5,7 @@
 - Status: LOCKED
 - Summary: The universal timeline is measured in Galactic Cycles, each defined
   by one orbit of the world's star system around the galactic center.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q019, Q036)
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q019, Q036)
 - Aliases: Galactic Cycle
 - Notes:
   - `ka`, `Ma`, and reference years may locate intervals within a Galactic
@@ -21,7 +21,7 @@
 - Status: CANON
 - Summary: The modern-like Nell and Bash era precedes the Glass-Sea era on the
   same physical world; Ravel's position relative to them is unresolved.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q002–Q006,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q002–Q006,
   Q036, Q071)
 - Aliases: None
 - Notes:
@@ -32,3 +32,524 @@
   3. The Glass-Sea era occurs long afterward.
   4. Ravel is another era of the same world, but its exact placement remains an
      open question.
+
+## Day of Glass
+
+- Status: CANON
+- Summary: Four centuries before the four-hundredth Rite of Deliverance, Queen
+  Aurelia centralized a seven-branch solar network to save the capital, and six
+  outer cities were consumed.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: the Day of Glass
+- Notes:
+  - Attacking kings' engines were tearing at the seven outer shields. Aurelia
+    sought alternatives for forty-three minutes, then rejected adaptive
+    isolation because its chance of preserving every branch was unknown.
+  - Deryn Venn carried the infant Daughter and challenged Aurelia's solitary
+    use of power; Aurelia preserved a warning that strength did not make future
+    decisions the Daughter's alone.
+  - This was a regional political and system catastrophe, not a synchronized
+    civilizational cycle or the origin of any Ravel, Glass Gate, or other
+    unrelated system.
+
+## Four-hundredth Rite and second dawn
+
+- Status: CANON
+- Summary: At the four-hundredth Rite of Deliverance, a damaged public witness
+  exposed Aurelia's foreknowledge, beginning the record recovery and
+  decentralization later called the second dawn.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: second-dawn crisis; second dawn
+- Notes:
+  1. The Daughter rejected Chancellor Dhal's demand to deny the excerpt, opened
+     Deryn's record, called the rite incomplete, and crossed the Glass Sea.
+  2. At the Ninth Hollow, a consent-bounded cistern repair woke the buried Crown
+     and began draining the settlement toward the capital.
+  3. Tovan, Orrin, Calvea, and the Daughter recovered the complete Day of Glass
+     account by overlapping four incomplete evidence streams.
+  4. When Dhal restored capital priority, Seris stopped the Daughter's
+     unilateral destruction attempt. Calvea held local thresholds, Seris took
+     temporary capital stewardship, Tovan divided, Orrin severed the master
+     conduit, Dhal authorized one bounded release, and the Daughter supplied
+     undirected living solar fire. The Mother-fragment held the collapsing frame
+     for three seconds without resolving its ontology.
+  5. The capital retained a smaller shield, the Ninth Hollow retained its water,
+     and two distant settlements survived local branch failures. The full
+     witness and the six lost city names were released, Dhal entered contestable
+     judgment, Tovan persisted in seven diverging expressions, and the Daughter
+     began witnessed, time-limited power covenants.
+  6. This sequence does not date Ravel or connect the Crown, Glass Sea, solar
+     fire, or black-sun key to the Glass Gate or another portal system.
+
+## Undated Queen Street crossing
+
+- Status: CANON
+- Summary: During one timed return window, Cal Mercer and Tuck crossed the
+  Queen Street seam to Deepmarket seeking a heartseed for Lena Mercer; the
+  theft left Cal as the seed's host and an unstamped follow trail open.
+- First established: stories/realms/05-story.md
+- Aliases: Deepmarket heartseed crossing
+- Notes:
+  1. Deepmarket's gate took Cal's episodic memory of his first kiss. Cal then
+     refused the living shop's relational-memory bargain and, with Tuck, stole
+     the heartseed tuned toward Lena.
+  2. The shop ejected both entrants toward their marked return routes. The jar
+     broke in the return tunnel, and the seed rooted through Cal's cut palm.
+  3. At the adjacent clinic, Lena and her mother agreed to one screened
+     transfusion. Lena's measurements improved without becoming normal, and Cal
+     committed to monitored, consensual care.
+  4. Cal's unstamped token remained with the dealer. Three knocks and the
+     dealer's voice at the clinic door established that the follow trail had
+     been used; the confrontation and its outcome remain unresolved.
+  5. No calendar year, Galactic Cycle coordinate, relationship to Ravel or the
+     Glass-Sea era, or connection to the Glass Gate is established.
+
+## Undated Fenwick watch sequence
+
+- Status: CANON
+- Summary: In an undated modern-like period, Eli Fenwick's forty-six watch
+  activations culminated in Mae's retained death, an audit and refusal seven
+  Tuesdays later, and Rose's nine-day overwrite many years afterward.
+- First established: stories/the-trouble-with-tuesdays/05-story.md
+- Aliases: April twenty-second watch sequence
+- Notes:
+  1. Before April twenty-second, Eli made fifteen small corrections, including
+     four activations during one date and one exactly nine-second cinema
+     activation.
+  2. On April twenty-second, Eli activated once before a van could strike Mae
+     and again after each of thirty failed attempts. The thirty-first
+     activation began the final attempt, which ended in Mae's thirty-first
+     lived death and the one death retained by public material history.
+  3. Seven Tuesdays later, the Time-title bearer arrived at eleven by Eli's
+     phone and ten fifty-five by his kitchen clock, audited all forty-six uses,
+     and mediated Mae's three-minute contact. She left at eleven fifty-three;
+     an old reminder sounded at eleven fifty-six. After midnight, Eli released
+     the stem without pressing it, boxed the watch, and never used it again.
+  4. Many years later Eli died from a heart attack on a Sunday. On the second
+     Tuesday without him, nine days after his death, adult Rose found the watch
+     and overwrote the interval to Sunday morning. The retained outcome is not
+     established.
+  5. Tuesday dates this family's encounters and provides a recurring motif; it
+     is not established as a trigger, recurrence rule, or causal power.
+
+## Undated Hinge relationship sequence
+
+- Status: CANON
+- Summary: From early autumn through the first Sunday in May, Nora's distant
+  idealization of Rae ended in a clear rejection, while direct conversation
+  and repaired boundaries led Nora and Claire to agree to one date.
+- First established: stories/the-names-on-the-cups/05-story.md
+- Aliases: Hinge autumn-to-May sequence
+- Notes:
+  1. For eleven Sundays Nora watched Rae, Claire watched and sketched Nora, and
+     Hinge staff reduced those observations to a receipt-paper chart. The owner
+     and Tess destroyed the chart and ended their intervention after
+     recognizing its privacy and consent failures.
+  2. During a storm, Claire offered Nora an umbrella, disclosed her sketches,
+     and accepted Nora's uncertainty and limits. Nora then asked Rae out and
+     accepted Rae's clear refusal because Rae was already seeing Highway.
+  3. Over subsequent months Nora and Claire learned about each other through
+     direct conversation. Claire kept the earlier drawings closed, Rae and
+     Highway continued their independent lives, and Nora demonstrated that her
+     interest in Claire was not a consolation for Rae's rejection.
+  4. In April Claire required Nora to clarify what she wanted. On the first
+     Sunday in May, Nora directly requested one date outside Hinge and Claire
+     accepted, with slow pacing and real choice preserved. Claire's six-week
+     coastal field assignment remained scheduled to begin in June.
+  5. No calendar year, nation, Galactic Cycle coordinate, recurrence, future
+     relationship, placement relative to Ravel, or automatic transfer of
+     literal Seattle history is established.
+
+## Undated four-dawn Nina–Anin incident
+
+- Status: CANON
+- Summary: In an undated modern-like period, Anin appeared beside Nina,
+  lived as a separate person across four dawns, and disappeared while Nina and
+  their mother held her hands.
+- First established: stories/self-reflection/05-story.md
+- Aliases: four-dawn branching event
+- Notes:
+  1. After returning from Jocelyn Park's birthday dinner, Nina made the
+     self-directed statement associated with the anomaly and woke beside Anin
+     the next morning.
+  2. Anin told their mother the truth, chose her name and new preferences,
+     consented to one day impersonating Nina at school, then refused further
+     substitution. She began fading independently of the family's failed tests
+     and emotional changes.
+  3. Near the fourth dawn, Anin refused replacement experiments, wrote a page
+     in her own emerging voice, chose her final hour with Nina and their
+     mother, and disappeared. Her duplicated worn matter vanished while her
+     records and the pre-existing green hoodie remained.
+  4. At lunch the following day, Nina told Jocelyn, Ben, and Daphne that she
+     had lost someone and disclosed how fear shaped her silence. Their
+     imperfect response began a more honest relationship without curing Nina's
+     anxiety or compensating for Anin's loss.
+  5. No calendar year, city, country, Galactic Cycle coordinate, relationship
+     to Ravel, recurrence, ontology, or continuation outcome is established.
+
+## Undated Morrow kept-place dinner
+
+- Status: CANON
+- Summary: At Imani Crowe's first dinner with Greer Morrow's parents, Davina
+  Morrow redirected Aunt Zephra's kept-place visit into an undisclosed partner
+  interview and prolonged it after Zephra asked to leave.
+- First established: stories/a-place-for-the-living/05-story.md
+- Aliases: Zephra's recorded kept-place visit
+- Notes:
+  1. Zephra refused to judge Imani. After confirming Zephra's wish directly,
+     Imani turned the moth-painted plate face-down, broke the prepared focus,
+     and returned Zephra to the afterlife.
+  2. Greer refused succession, placed the brass table key beside Zephra's
+     butter knife, and accepted loss of the house, custodial authority, and
+     assured future access to family visits.
+  3. Imani did not immediately forgive Greer; they agreed only to a living-only
+     breakfast and a full conversation about the concealed future. Davina made
+     one limited concession: no extra place would be set for Imani without
+     asking first.
+  4. The household conflict, Imani and Greer's relationship, later
+     custodianship, and future family visits remain unresolved. No calendar
+     year, settlement, country, Galactic Cycle coordinate, or relation to Ravel
+     is established.
+
+## Undated Ruth station sequence
+
+- Status: CANON
+- Summary: After Ruth died, one paired service at her local afterlife station
+  ended with Sabine Kroll transferred between trains and Ruth deliberately
+  stranded there on a blank ticket.
+- First established: stories/the-station-between/05-story.md
+- Aliases: None
+- Notes:
+  1. Years before Ruth's death, Asha died before dawn after Ruth left the
+     hospital despite promising to stay until morning and silenced Asha's final
+     call.
+  2. After Ruth arrived at the station, Sabine boarded the heaven-labeled train
+     with a hell-marked ticket. Once that train moved, the local mechanism
+     transferred Sabine into the waiting hell-labeled train. Ruth then let the
+     final train depart without uncovering or presenting her own ticket, which
+     expired permanently at that station.
+  3. After Hester left, Ruth remained and stayed beside an unnamed new arrival
+     until that passenger presented a matching heaven-marked ticket and
+     departed. Ruth's blank ticket remained unusable.
+  4. No calendar date, physical-world location, shared-universe era, Galactic
+     Cycle coordinate, sequence relative to another story, or later outcome for
+     Ruth, Sabine, Asha, Hester, or the unnamed passenger is established.
+
+## Undated Cinder Annex exhibition incident
+
+- Status: CANON
+- Summary: Three days after Instructor Bexel announced a collaborative-entry
+  requirement, Irix, Knurl, and Thimble reached the Aptitudes Exhibition and
+  jointly responded to Ekri's furnace-latch failure.
+- First established: stories/the-friends-i-built/05-story.md
+- Aliases: None
+- Notes:
+  1. Knurl and Thimble helped convert Irix's exhibit chassis into a walking cart
+     after adult transport failed, then entered as consenting collaborators and
+     jointly demonstrated the redesigned visual relay.
+  2. Irix broke the scoring seal to project a hall-scale evacuation map; Bexel
+     rerouted the students; Ekri closed the cutoff; Knurl opened the cold-air
+     shutter; and Thimble shielded the last students from ember spray, suffering
+     a scorched sail. No person or construct death is stated.
+  3. In the immediate aftermath, Bexel voided the formal score but recognized
+     all three collaborators' advanced-workshop aptitude. Ekri accepted repair
+     work, the school posted three reforms, and Talvi, Belphegor, and Bexel
+     established the adult support agreement with Irix's consent.
+  4. On the following morning, the standing conveyance arrived and Knurl and
+     Thimble independently chose to return to school with Irix.
+  5. No calendar date, physical-world location, era, Galactic Cycle coordinate,
+     sequence relative to another story, or relationship to another afterlife
+     or continuation mechanism is established.
+
+## Undated modern-like western-bay invasion
+
+- Status: CANON
+- Summary: In the modern-like Earth era, Solstice Evening Bell alone defeated
+  131,072 nonliving invasion frames above an evacuated western bay and sealed
+  their rupture at the permanent cost of her thirteen-tone crown.
+- First established: stories/solstice-evening-bell/05-story.md
+- Aliases: western-bay invasion
+- Notes:
+  1. Conventional forces withdrew and the bay was evacuated before eight
+     wedges of 16,384 frames emerged from a stationary rupture twenty
+     kilometers overhead.
+  2. The opening full chord destroyed 32,768, leaving 98,304. A repeated chord
+     destroyed fewer than one hundred more; edict corridors and the first
+     three burnt tones completed the reduction to 49,152 at the tropopause.
+  3. Six further burnt tones, ordinary storm physics, and constrained landing
+     geometry left 8,192 frames in eight columns of 1,024. The final three
+     orbiting tones destroyed four columns and forced the other four together,
+     leaving 4,096 synchronized frames.
+  4. Solstice's central release disabled the remaining 4,096, closed the
+     rupture, and brought the count to zero. No bridgehead or second wave
+     remained, the eastern ridge survived, and the public display continued
+     to report one era-local `ultrahuman` asset.
+  5. The event precedes the later Glass-Sea era and leaves the physical world
+     able to reach it. Its civil date, Galactic Cycle coordinate, exact
+     geography, relation to other modern-like stories, and invaders' later
+     history remain unresolved.
+
+## Undated Northbridge showcase incident
+
+- Status: CANON
+- Summary: During one modern-like school day, the Northbridge trio and Gideon
+  Tolland contained the Rollcaller without publicly confirming the girls'
+  civilian identities.
+- First established: stories/the-attendance-ledger/05-story.md
+- Aliases: attendance-ledger incident; Northbridge incident
+- Notes:
+  1. Six months earlier, three anonymous magical girls requested practical
+     support over a local emergency-radio frequency, and Gideon began assisting
+     them as the mutually anonymous Night Clerk.
+  2. Before the incident, Gideon inferred their civilian identities from
+     cumulative ordinary observation but did not disclose that knowledge. On
+     the preceding night, the trio fought the Rollcaller; it survived with
+     blurred street-camera evidence and followed them to school.
+  3. The Rollcaller observed and probed the trio, stole an ordinary attendance
+     page, started a guardian livestream early, juxtaposed their civilian names
+     with blurred transformed images, and copied Night Clerk's voice to order a
+     transformation. The girls recognized the channel compromise and refused.
+  4. At the trio's request, Gideon cut local power before they transformed,
+     ending the stream, cameras, and relay. He evacuated the class while
+     Kiteglass guarded the route, Mothlight exposed the Rollcaller's body with
+     decoys, and Pulsewire severed its external connections with both
+     teammates' consent.
+  5. No clear identity link reached the public. The trio chose food, injury
+     checks, two mission-free nights, and the new darkness protocol; Gideon
+     replaced spoken roll call with silent self-check-in. The Rollcaller's
+     long-term disposition remained undecided.
+  6. The civil date, city, country, Galactic Cycle coordinate, and ordering
+     relative to another modern-like story remain unresolved. No relationship
+     to Solstice's western-bay invasion or magical-girl tradition is
+     established.
+
+## Undated Qarsis glasswind crisis
+
+- Status: CANON
+- Summary: After four desert days beyond the last mapped cistern, Tair Ked
+  reached Qarsis as a glasswind disabled both the city's exposed solar stills
+  and its regulator; a purchased sunwheel core enabled the final two safe
+  exchanger batches and bridged the city's reduced-ration day.
+- First established: stories/a-little-winter-for-sale/05-story.md
+- Aliases: Qarsis regulator crisis
+- Notes:
+  1. Before the storm, Urumet had completed four of six contracted four-count
+     strokes. The glasswind buried the still field and drove a stone through
+     the Coldmouth's outer screen, shattering the regulator.
+  2. Qarsis held about 4,200 litres in emergency reserve plus household jars.
+     The final two batches could add roughly 800 litres, enough for a reduced
+     one-day ration of about ten litres per resident and the clearing crews.
+  3. Tair agreed to sell the calibrated heart of the sunwheel at a stated
+     replacement-and-delay price. Yara Mesk cut and nonmagically calibrated a
+     replacement regulator tongue, and Urumet accepted it only for the two
+     already contracted strokes.
+  4. Urumet performed exactly the fifth and sixth strokes, with no diagnostic
+     cold, seventh stroke, or emergency exception. It completed its heat-
+     shedding recovery by dawn and then withheld fresh work until the exchanger
+     intake could be cleared and inspected.
+  5. The storm ended the following afternoon. Qarsis cleared the stills,
+     restored distillation, and crossed the emergency day without reducing the
+     old, sick, or young below the temporary safety ration.
+  6. After the road reopened, Tair left along the marked eight-day caravan leg
+     carrying Urumet's paid letter and first commission installment. Qarsis
+     contracted to deliver the replacement sunwheel at the known freight
+     shelter before Tair began new precision surveying.
+  7. The era, civil date, Galactic Cycle coordinate, and ordering relative to
+     every other story remain unresolved. The event establishes no crossover,
+     universal dragon rule, universal water system, or magical force in
+     payment, pleasure, need, receipts, contracts, or consent.
+
+## Undated Ersene accession and Flint flood
+
+- Status: CANON
+- Summary: Three weeks after King Ambric's death, Olyra's royal accession
+  became a test of Ersene's voluntary alliance law when Mossback refused House
+  Flint and its concealed quarry breach opened a flood channel beneath his
+  nesting ledge.
+- First established: stories/the-gentlest-terror/05-story.md
+- Aliases: Olyra's accession; Flint quarry rescue
+- Notes:
+  1. Ambric's death ended his alliance with Nyrzath and left their scale focus
+     inert. During accession rehearsal, Nyrzath agreed to witness but refused
+     to force another dragon's vow.
+  2. House Cress and Larkspur renewed freely. Mossback then refused Duchess
+     Yselle and disclosed House Flint's illegal cut beneath the protected
+     nesting ledge.
+  3. Before the refusal was formally witnessed, Mossback used the still-active
+     Flint focus twice to warn that stormwater had entered the flood channel
+     and threatened his clutch and the villages. Olyra then recognized the
+     refusal, suspended House Flint's title, and ended the focus.
+  4. Olyra risked her succession by asking Nyrzath to choose her before the
+     court. He freely renewed on the condition that she remember witnessing was
+     not commanding, creating their new focus before its first call.
+  5. At the quarry, Nyrzath rejected a blast that would destroy Mossback's
+     clutch and braced the wall instead. Mossback guided Olyra into the old
+     sluice; together they opened it, and Mossback pulled her from the flood.
+  6. Lord Ruvik called Larkspur, who freely emptied the Cress cisterns and
+     cleared their channels to receive the diverted water. Olyra's call let
+     Nyrzath shift his brace long enough to protect her, worsening his severe
+     left-wing injury.
+  7. The Flint villages and Mossback's clutch survived. Mossback renewed his
+     refusal while continuing to watch the valley by choice; Duchess Yselle
+     faced ordinary judgment, and House Flint's title remained suspended.
+  8. The convocation resumed without the Dread Passage. The remaining pairs'
+     free renewals confirmed Queen Olyra, whose first proclamation restored the
+     royal dragon's future entrance as impartial witness without threat.
+  9. Ersene's era, civil date, Galactic Cycle coordinate, and relationship to
+     every other story remain unresolved. The event establishes no crossover,
+     universal dragon biology, universal alliance law, or connection to
+     Urumet.
+
+## Undated eleven-foundation storm crisis
+
+- Status: CANON
+- Summary: After a dry interval, a cloudburst and river surge overloaded the
+  unnamed basin city's buried foundation ring, forcing a costly human-directed
+  emergency route across all eleven districts and leaving permanent
+  equalization seams.
+- First established: stories/the-city-of-eleven-foundations/05-story.md
+- Aliases: foundation-ring crisis
+- Notes:
+  1. Debris blocked the city's sole low outfall while river pressure closed its
+     check gate. Automatic bulkheads then divided continued runoff into unequal
+     pressure compartments, transferring hammer, scour, settlement, and load
+     across district foundations.
+  2. Anonymous inhabitants evacuated low rooms, opened the central undercroft
+     and air vents, raised the bulkheads, exposed the industrial coupling, and
+     connected the pre-existing one-lift route with tools rather than magic or
+     autonomous infrastructure.
+  3. The diesel-driven reciprocating pumps lifted buffered water once to the
+     high settling basins. Gravity distribution, parallel cistern and courtyard
+     branches, biological filtration, and receiving storage then lowered and
+     equalized the water until the ring crown held.
+  4. Survival left mud, silt, displaced masonry, lost screens, an undermined
+     plinth, clogged filters, and a still-blocked outfall. Repairs retained
+     visible marks, accessible releases and couplings, spillways across district
+     boundaries, and raised bulkheads over low equalization slots.
+  5. The event's civil date, era, Galactic Cycle coordinate, wider geography,
+     ordering relative to other stories, and recurrence remain unresolved. It
+     establishes no crossover with Qarsis or Ersene and no universal hydraulic,
+     architectural, magical, or cosmological rule.
+
+## Undated Copperwell cistern assault
+
+- Status: CANON
+- Summary: During acute east-bank water scarcity, armed Drouth League fighters
+  entered Copperwell's cistern; opposed gate operations and gunfire created a
+  pressure cascade that people from both sides arrested through individually
+  accepted Common Cause links and coordinated physical work.
+- First established: stories/the-thirteenth-command/05-story.md
+- Aliases: Copperwell cistern crisis
+- Notes:
+  1. The League sought to force open ration channels while Copperwell's watch
+     defended the cistern. One unnamed person died before Common Cause opened,
+     and other people were wounded without an established exact count.
+  2. A former floodworks dispatcher rejected a watch scour order that would
+     sacrifice a trapped repair crew and League fighters, published a sourced
+     and uncertain cascade forecast, declared the objective `Nobody drowns. The
+     cistern holds.`, and invited both sides into Common Cause.
+  3. Participants accepted, refused, and withdrew individually. Shared
+     information exposed risk but did not stop a refused participant from
+     firing or force anyone to cooperate.
+  4. Voluntary work on both sides braced the south gate, turned the manual
+     spillwheel, opened one ration channel in measured increments, moved
+     wounded people, and timed pressure pulses. The cistern wall flexed but
+     held.
+  5. The host exported the symmetric incident log and discarded the class.
+     The watch retained the upper gallery and the League retained the west
+     ration controls while one jointly opened narrow channel carried water
+     eastward.
+  6. The outcome was a fragile armed ceasefire, not peace, justice, or a settled
+     water-sharing regime. The channel's duration, final ration policy, proposed
+     civilian board, regional scarcity, and lasting ceasefire remain unresolved.
+  7. Copperwell's era, civil date, Galactic Cycle coordinate, geography, and
+     ordering relative to other stories remain unresolved. No connection to
+     another city, water system, lattice, mesh, crown, living anomaly, or
+     person-like infrastructure is established.
+
+## Undated breaking of the Covenant of Hours
+
+- Status: CANON
+- Summary: At the end of one thirty-year cycle, a major flood overtopped
+  Sablewake while thousands of living participants used a bell-borne
+  counter-cadence during the forty-nine-heartbeat renewal hinge to overload and
+  irreversibly break the city's binding prophecy.
+- First established: stories/the-future-that-refused-us/05-story.md
+- Aliases: Covenant breach; breaking of the Covenant
+- Notes:
+  1. The fixed verse would have killed Nilo Cleft and nine other people while
+     guaranteeing every other registered resident's survival.
+  2. Nilo stepped away from the manual undergate wheel and Zadie released its
+     nonliving counterweight. The untested mechanism jammed with the gate still
+     open; the Covenant broke and the lower ward flooded.
+  3. Nilo survived. Five of the nine readers died, four survived without an
+     intact opening verse, and Baird's prophetic sense was ruined. At Zadie's
+     public confession the city had counted sixty-eight dead in total,
+     explicitly including the five readers, with eleven more people missing;
+     that in-scene count could rise.
+  4. Zadie rejected a statement blaming Nilo, publicly identified herself as
+     the breach's architect, admitted her deception and concealed risk, and
+     offered verified observations and multiple accountable rescue options.
+     Citizens improvised safeguards, repairs, and asynchronous bell signals for
+     observed needs.
+  5. The breach did not restore a prior timeline or erase any casualty, cost,
+     damage, choice, or responsibility. Sablewake's recovery, final toll,
+     future governance, later use of readers or bells, and recurrence of any
+     prophecy system remain unresolved.
+  6. The city's era, civil date, Galactic Cycle coordinate, geography, and
+     ordering relative to other stories remain unresolved. No connection to
+     Copperwell, the unnamed city of eleven foundations, Qarsis, Ersene, or
+     another flood or civic system is established.
+
+## Undated Lacebridge trial and courtesy bout
+
+- Status: CANON
+- Summary: Two official Lacebridge bouts six months apart ended three to two
+  through reciprocal truthful self-calls by Jasper Renlow and Fiora Halwick.
+- First established: stories/the-courtesy-of-blades/05-story.md
+- Aliases: Lacebridge rematch
+- Notes:
+  1. In the earlier public trial, Jasper self-called Fiora's touch as first;
+     Fiora won three to two and received the trial badge. Later gossip
+     misrepresented his honest call as romantic pity, and his failure to
+     challenge that account let the insult persist.
+  2. On the evening before Fiora's dawn departure for East Weir, their official
+     rematch reached two points each. Jasper's deciding touch landed half a beat
+     first, Fiora self-called the order, Jasper won three to two, and Quade
+     recorded the result and Fiora's call beside the earlier trial entry.
+  3. Jasper then invited Fiora to one riverside supper. She freely accepted and
+     the date began without changing her departure or head-instructor
+     appointment. A future East Weir visit remained only a possibility.
+  4. The events' civil date, era, Galactic Cycle coordinate, wider geography,
+     ordering relative to other stories, and connection to any other fencing,
+     courtship, legal, or magical system remain unresolved.
+
+## Undated Bellweather childhood severance and succession crisis
+
+- Status: CANON
+- Summary: Adrian Bellweather's childhood severance of Garran's faculty and a
+  succession crisis ten years later produced an accountable household practice
+  for future severance.
+- First established: stories/the-shape-of-mercy/05-story.md
+- Aliases: Bellweather succession crisis
+- Notes:
+  1. When Phoebe was six, Garran tried to turn her emerging beast affinity into
+     a dynastic weapon by making her share a captive fox's pain. Nine-year-old
+     Adrian reflexively severed Garran from his whole command-bond faculty and
+     lost his memory of performing the cut.
+  2. Rowena, Evelyn, and Marcus concealed Adrian's gift and history for ten
+     years, and Garran left the household.
+  3. Garran returned to Bellweather Hall with a stormhart compelled by one old
+     command-bond. Evelyn's firebreak and Marcus's ice protected guests but
+     penned the creature; Phoebe distinguished its innate storm and desire to
+     run from the foreign order.
+  4. Adrian signed an unenchanted pre-act record and severed only the command,
+     preserving the stormhart's magic, Phoebe's voluntary connection, and his
+     siblings' faculties. The stormhart escaped into open country, Garran was
+     confined, and his bracelet was retained as ordinary evidence.
+  5. The next morning, four witnesses supplied the signed record and their
+     account. Adrian accepted stewardship under the accountable severance
+     practice, and Rowena, Evelyn, Marcus, and Phoebe agreed.
+  6. The event's era, civil date, Galactic Cycle coordinate, wider geography,
+     ordering relative to other stories, future household course, and links to
+     another severance or magical system remain unresolved.

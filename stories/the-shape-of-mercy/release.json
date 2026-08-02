@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-shape-of-mercy",
+  "certifiedAt": "2026-08-02T08:02:29.8597406+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "609f99af062dc6145cd12913114ed39bc0bdfa24bcbb674a10cad5ee69bea11a"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "5c07a682917c3c3831b410c8759934d5386c9e059404a5de47e3746f7082152a"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 4,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-shape-of-mercy",
+    "passed": true,
+    "checkedAt": "2026-08-02T08:02:29.8480463+00:00",
+    "scopedRegistrySha256": "ace5f3e86b8653e0703046e5f999d6e801bc8817243c2816220052c785c8b023"
+  }
+}

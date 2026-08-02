@@ -100,6 +100,12 @@ the approved facts are added to `universe/`.
   public trial result.
 - New aliases: none.
 
+## Final character-facing name inventory
+
+- **Fiora Halwick** — Reserved forms: `Fiora Halwick`; `Fiora`
+- **Jasper Renlow** — Reserved forms: `Jasper Renlow`; `Jasper`
+- **Quade** — Reserved forms: `Quade`
+
 ## Name registry updates
 
 Final character-facing name and alias inventory actually used in
@@ -123,7 +129,7 @@ character-facing identities. No name is reused, added, or repurposed.
 
 None identified. The story leaves its era unnamed, establishes no connection to
 Earth, Ravel, the Glass-Sea era, the Glass Gate, any canon faction, or any
-candidate or legacy story, and proposes no retcon.
+candidate or historical story, and proposes no retcon.
 
 ## Recommended promotions
 

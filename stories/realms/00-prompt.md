@@ -4,41 +4,56 @@
 
 > import from C:\Users\jamie\OneDrive\Desktop\Stories the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, The Names on the Cups, outlines as starting seed stories;
 
+## Verbatim clarification
+
+> do not treat the imported stories any different.
+
+> i don't care about the meta difference either for the imported stories; treat them no diferently.
+
 ## Parsed scope for this story
 
 - Working title: *Realms*
-- Imported seed: legacy source `S03`
-- Portable snapshot: `stories/_legacy/imports/s03/Realms.md`
-- Source form: complete historical short story with a sequel hook
-- Current task boundary: initialize a starting seed; do not adapt or promote it yet
+- Task: complete the ordinary shared-universe story workflow, release the story,
+  and prepare it for the same user-authorized canon promotion as every other
+  passing story.
 
 ## Story controls
 
-- Target length: To be set when the full story workflow begins
-- POV: To be decided from the seed and canon brief
-- Tense: To be decided from the seed and canon brief
-- Tone and genre: To be decided from the seed and canon brief
-- Audience/content rating: To be decided before drafting
-- Required elements: Treat the imported prose as creative starting material and preserve its provenance
-- Prohibited elements: Treating source lore as established universe canon or this historical prose as `03-draft.md` or `05-story.md`
+- Target length: 3,000–4,000 words
+- POV: First person from Cal's viewpoint
+- Tense: Past
+- Tone and genre: Speculative fantasy with a complete emotional arc; retain the sequel hook only if the story still resolves
+- Audience/content rating: Teen; no explicit sexual content or gratuitous gore.
+- Required elements: Preserve the creative input's recognizable central
+  premise, important character relationships, and emotional promise while
+  making the result a complete short story that fits current canon.
+- Prohibited elements: Treating any input-only lore as established canon,
+  bypassing a numbered artifact or review gate, or exposing origin-based
+  production metadata to readers.
 
 ## Assumptions
 
-- This request initializes the story at prompt stage; it does not request the full `[WP]` workflow.
-- The historical story is nonbinding and must be reconciled against `universe/` before reuse.
-- Its existing prose may inspire revision but does not bypass planning, drafting, editing, or review.
-- Any later reusable invention belongs in `06-canon-delta.md` and remains non-canon until explicitly promoted.
+- The preserved text is creative material supplied with this prompt, not canon
+  authority.
+- Local changes needed for shared-universe consistency, name discipline,
+  short-story structure, causality, or reader clarity are allowed.
+- Reusable inventions belong in `06-canon-delta.md` and remain proposals until
+  the already-authorized promotion workflow succeeds.
+- This story uses exactly the same lifecycle and release requirements as every
+  other story in the repository.
 
-## Seed-import completion tests
+## Acceptance criteria
 
-- The exact selected source is stored under `stories/_legacy/imports/` with a verified SHA-256 digest.
-- The source is clearly labeled as a legacy seed rather than a production draft, final story, or canon.
-- The production record and `stories/INDEX.md` identify this story as in-progress and canon `no`.
-- No authoritative universe file is changed.
-
-## Future story completion tests
-
-- A canon brief distinguishes usable source ideas from contradictions and omissions.
-- The result completes every numbered production artifact and both review gates.
-- `05-story.md` is a complete, polished story rather than an unreviewed legacy import.
-- Canon remains `no` until the user explicitly approves promotion.
+- `01-canon-brief.md` distinguishes established constraints, unknowns, and
+  safe local invention.
+- `02-story-plan.md` provides a causal, scene-ready short-story architecture
+  and a complete name check.
+- `03-draft.md` is complete prose, not a placeholder or outline.
+- Both draft and final-story reviews pass with no unresolved Critical or Major
+  findings.
+- `05-story.md` is polished, reader-facing prose that fulfills this contract.
+- `06-canon-delta.md` inventories reusable facts and every final
+  character-facing name.
+- Strict name validation and the content-bound release certificate pass.
+- Story metadata, index, publication, and promotion follow the common schema
+  with no origin-based distinction.

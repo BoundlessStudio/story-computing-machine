@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-trouble-with-tuesdays",
+  "certifiedAt": "2026-08-02T05:37:17.0806719+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "49e9d5d60c2e458f65a2fb1375280f7893ce543b4e830a2679d8523cb2396d37"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 3,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-trouble-with-tuesdays",
+    "passed": true,
+    "checkedAt": "2026-08-02T05:37:17.0669718+00:00",
+    "scopedRegistrySha256": "3a8644b7a915162430fda8777d334ac9f5b03d794bc1d34fae05c5ea77c6a322"
+  }
+}

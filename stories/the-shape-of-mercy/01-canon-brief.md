@@ -104,7 +104,7 @@ shared-universe canon.
   modern-like Nell-and-Bash era is an established low-magic trough whose
   ordinary life treats magic as myth or legend; placing a renowned, publicly
   spectacular mage lineage there would require a coherent secrecy, isolation,
-  or anomaly explanation. Ravel's chronological position and detailed legacy
+  or anomaly explanation. Ravel's chronological position and detailed archive record
   lore are unresolved, and the Glass-Sea era's detailed geography and cultures
   are unresolved (`universe/timeline.md` — `## Established era order`;
   `universe/glossary.md` — `## Modern-like era`, `## Ravel`, and
@@ -186,7 +186,7 @@ shared-universe canon.
   provided that any creature using magic is alive and any nonliving equipment
   remains a focus or conduit rather than an independent magic user.
 - Keep the family independent of Ravel, the Glass-Sea era, the Glass Gate, and
-  legacy characters unless a later production decision supplies specific
+  released or non-canon characters unless a later production decision supplies specific
   evidence and accepts the added continuity burden. Shared fire, ice, beasts,
   glass, sun, moon, or other imagery alone does not establish a connection
   (`universe/rules.md` — `## Artifacts, motifs, and folklore`;
@@ -200,7 +200,7 @@ shared-universe canon.
 
 - `stories/NAMES.md` is non-canon production memory, but every listed reserved
   form remains unavailable for casual reuse across canon, candidate,
-  in-progress, abandoned, and portable legacy material. The prompt currently
+  in-progress, abandoned, and portable unpromoted material. The prompt currently
   supplies no personal name or alias, so planning should choose a wholly new,
   readily distinguishable set for all four siblings, parents or elders,
   lineage, named beasts, person-like constructs, and titles used as names
@@ -209,7 +209,7 @@ shared-universe canon.
   `Nisha`, `Pell`, and `Voss`. They already refer to distinct identities with
   no approved relationship, and adding another bearer would compound the
   defect (`stories/NAMES.md` —
-  `## Known unresolved legacy collisions`).
+  `## Known unresolved name collisions`).
 - Fantasy-facing forms already reserved and especially relevant during name
   generation include `Anin`, `Caldrin`, `Calvea`, `Dezra`, `Dovek`, `Ilya`,
   `Ivo`, `Kaela`, `Kelan`, `Kest`, `Leth`, `Letha`, `Nessa`, `Nox`, `Oren`,
@@ -258,7 +258,7 @@ shared-universe canon.
   paradox is being used as an unsupported patch.
 - If the story names the era as modern-like, Ravel, or Glass-Sea, recheck every
   claim against `universe/timeline.md`, `universe/glossary.md`, and
-  `universe/locations.md`; legacy lore must not be imported as fact. If the era
+  `universe/locations.md`; non-canon story lore must not be imported as fact. If the era
   remains unnamed, verify that nothing calls the world a separate planet or
   plane without establishing a permitted local cosmology.
 - Check the aftermath of any forest burning, ocean freezing, beast coercion,
@@ -271,7 +271,7 @@ shared-universe canon.
   reversed, or easily confused matches unless reuse is deliberate and
   documented.
 - Confirm that shared imagery or terminology has not accidentally implied a
-  crossover with Ravel, the Glass Gate, the Glass-Sea era, a legacy source, or
+  crossover with Ravel, the Glass Gate, the Glass-Sea era, a archive record, or
   any existing named identity.
 - Record each new reusable fact—lineage, power mechanism, location, institution,
   beast species, historical incident, or stable relationship—in
@@ -306,7 +306,7 @@ shared-universe canon.
   production metadata, not setting canon).
 - `stories/NAMES.md` — `# Character name registry`, `## Rules`, registry table,
   and
-  `## Known unresolved legacy collisions` (production memory, not canon).
+  `## Known unresolved name collisions` (production memory, not canon).
 - `stories/the-shape-of-mercy/00-prompt.md` — `## Verbatim writing prompt`,
   `## Story controls`, `## Assumptions`, `## Completion tests` (story contract,
   not shared-universe canon).

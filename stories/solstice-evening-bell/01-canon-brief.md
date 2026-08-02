@@ -213,25 +213,25 @@
 - **queen of all magical girls:** No exact registry form matches this title.
   Register the title and any article/capitalization variant used as an alias.
   Avoid `Queen` alone. Do not borrow `Sun Queen`, `Burning Queen`, `Goddess of
-  the Sun`, `Goddess`, or `Mother`; those forms belong to the distinct legacy
+  the Sun`, `Goddess`, or `Mother`; those forms belong to the distinct archive record
   identity Queen Aurelia. (`stories/NAMES.md` — “Character name registry,”
   Queen Aurelia / the Goddess)
 - **Time and solar imagery:** `Solstice` does not establish a time or sun
   domain. `Time`, `the Goddess of Time`, and `Goddess of Time` belong to a
-  distinct legacy deity. Crown, sun, time, and goddess language must not imply
+  distinct archive record deity. Crown, sun, time, and goddess language must not imply
   identity with that figure or Queen Aurelia. (`stories/NAMES.md` — “Character
   name registry,” The Goddess of Time and Queen Aurelia entries)
 - **`ultrahuman`:** This is a category, not a registered name. Keep it lowercase
   as supplied when used as a class. If `the Ultrahuman` becomes a proper epithet
   for Solstice, register it as another alias of the same identity.
 - **Additional names:** No prompt-supplied form collides with the unresolved
-  legacy set. Do not give new identities the unresolved forms `Lena`, `Mara`,
+  in-progress story set. Do not give new identities the unresolved forms `Lena`, `Mara`,
   `Nisha`, `Pell`, or `Voss`. Search every personal name, codename, username,
   named construct, person-like ship, animal companion, invader commander, and
-  title used as a name. (`stories/NAMES.md` — “Known unresolved legacy
+  title used as a name. (`stories/NAMES.md` — “Known unresolved archive record
   collisions”)
 - These are production-memory constraints, not canon. They prevent accidental
-  identity implications but do not place any registered legacy or candidate
+  identity implications but do not place any registered archive record or candidate
   character in Solstice's continuity. (`stories/NAMES.md` — “Rules”)
 
 ## Required checks after drafting
@@ -319,7 +319,7 @@
 - `universe/factions.md` — “Factions and cultures” (no established entries)
 - `stories/INDEX.md` — “Story index” (no story marked canon `yes`)
 - `stories/NAMES.md` — “Rules”; “Character name registry”; “Known unresolved
-  legacy collisions” (production memory, not canon)
+  released-reservation collisions” (production memory, not canon)
 - `stories/solstice-evening-bell/00-prompt.md` — “Verbatim writing prompt”;
   “Story controls”; “Assumptions”; “Completion tests” (prompt contract, not
   canon)

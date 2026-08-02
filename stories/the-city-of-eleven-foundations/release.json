@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-city-of-eleven-foundations",
+  "certifiedAt": "2026-08-02T07:28:17.4913459+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "c7750cd3dd40994a2c628d4f66222c64047ebc02aa1f1526b45ddb009e9027db"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "c0a451b352d5ef2cf976f81c93c931507deb1c152e492729c8b7763b96d5bdba"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 6,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-city-of-eleven-foundations",
+    "passed": true,
+    "checkedAt": "2026-08-02T07:28:17.4738196+00:00",
+    "scopedRegistrySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

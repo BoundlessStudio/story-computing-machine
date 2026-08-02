@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-station-between",
+  "certifiedAt": "2026-08-02T06:12:42.9896900+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "15f8b9170f2ead0212561ffb21c0444d79233781b353d7401c0d77c60d463794"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "3fac82694c18fa3e1a38d7e501162298e7d3c02bad7ef53de91f100502c0db5c"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 4,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-station-between",
+    "passed": true,
+    "checkedAt": "2026-08-02T06:12:42.9770751+00:00",
+    "scopedRegistrySha256": "f5ca5a3fdf40b269b5bb5c064c0766c6a7406040ced79ae893ba3776d96b11cd"
+  }
+}

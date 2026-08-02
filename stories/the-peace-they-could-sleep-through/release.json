@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-peace-they-could-sleep-through",
+  "certifiedAt": "2026-08-02T07:23:37.7787200+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "448495ece3221eef64cd9e5dc567368d3c9cab82233330531952efa110c9784c"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 7,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-peace-they-could-sleep-through",
+    "passed": true,
+    "checkedAt": "2026-08-02T07:23:37.7669002+00:00",
+    "scopedRegistrySha256": "89e8a23d5fdd4f2d4fee49a3558af6606bd5670e2f2d573b066f3e0c73c44323"
+  }
+}

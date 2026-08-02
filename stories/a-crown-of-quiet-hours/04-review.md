@@ -104,7 +104,7 @@ descriptors rather than aliases. `assistant auditor`, `chief auditor`,
 `examiner`, `guard`, `Crown`, `Book of Quiet`, `Flood Bell`, and `Charter of
 Waking Hours` are roles, an institution, a document, or civic works rather
 than character-facing identities. No exact reuse, close-spelling confusion,
-reversal, unresolved legacy form, or undocumented identity implication was
+reversal, unresolved released reservation form, or undocumented identity implication was
 found.
 
 #### Causality and character
@@ -405,7 +405,7 @@ reservations in `stories/NAMES.md`, and the final inventory in
 bodies, bedding, scars, and injuries are common descriptors rather than
 aliases. Documents, offices, events, institutions, and objects do not become
 person-like names. No exact collision, close-spelling confusion, reversal,
-unresolved legacy form, undocumented reuse, or false crossover/kinship
+unresolved released reservation form, undocumented reuse, or false crossover/kinship
 implication appears.
 
 #### Causality and character

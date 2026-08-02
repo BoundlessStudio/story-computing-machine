@@ -1,8 +1,6 @@
 ---
 title: "The Peace They Could Sleep Through"
 slug: "the-peace-they-could-sleep-through"
-status: candidate
-canon: false
 created: 2026-07-27
 ---
 
@@ -590,4 +588,3 @@ The hearing continued untidily into supper.
 
 Far from our voices, twelve dragons slept through the peace we had not finished
 making.
-

@@ -313,7 +313,7 @@ promotion before becoming authoritative.
 
 | Proposed invention | Scope and boundary |
 | --- | --- |
-| Juni Wex and Examiner Dovek | New local identities with no proposed tie to existing or legacy characters. |
+| Juni Wex and Examiner Dovek | New local identities with no proposed tie to existing or released or non-canon characters. |
 | The Collegium of Nine Eaves | A prestigious magic school in an unnamed active-magic era. Its prestige is local; its age, founders, geography, and relationship to known eras remain unspecified. |
 | Aerial qualification and rooftop-survey practicum | Local curricular requirements. Passing this assessment grants Juni access to a term practicum; no claim is made about other schools or cultures. |
 | Mixed-method aerial assessment | Nine Eaves commonly assesses broom riders, can accommodate rarer but familiar living mounts, and accepts approved individual alternatives against shared safety outcomes. This is not a global standard. |

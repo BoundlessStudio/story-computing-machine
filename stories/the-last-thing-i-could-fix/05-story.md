@@ -1,8 +1,6 @@
 ---
 title: "The Last Thing I Could Fix"
 slug: "the-last-thing-i-could-fix"
-status: candidate
-canon: false
 created: 2026-07-31
 ---
 

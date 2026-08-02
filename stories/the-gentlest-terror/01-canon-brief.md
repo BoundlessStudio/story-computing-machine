@@ -98,11 +98,11 @@
   era would need to reconcile an openly magical dragon aristocracy with that
   era being a low-magic trough in which ordinary life treats magic as myth or
   legend. Placement in Ravel would also import only the few canon facts in the
-  glossary; unpromoted legacy Ravel lore would remain nonbinding.
+  glossary; unpromoted archive record Ravel lore would remain nonbinding.
   (`universe/timeline.md`, **Established era order**;
   `universe/glossary.md`, **Modern-like era** and **Ravel**)
 - `stories/NAMES.md` contains dragon and royal identities from abandoned,
-  candidate, and legacy stories, but the registry explicitly does not make
+  candidate, and historical stories, but the registry explicitly does not make
   them canon. Those entries constrain production naming, not the setting's
   history.
 - No conflict requires a user ruling. Canon-research status: **READY**.
@@ -185,7 +185,7 @@
   `Kharost`, `Queen Orvessa IV`, `Queen Orvessa`, `Orvessa`, `King Othran`,
   `Queen Aurelia`, `Aurelia`, `Sun Queen`, `Burning Queen`, `Sleepless
   Majesty`, `Majesty`, `Your Majesty`, and `Varkesh`. These belong to distinct
-  abandoned, legacy, or candidate identities; none is established canon, but
+  abandoned, archive record, or candidate identities; none is established canon, but
   all remain reserved production names.
 - Avoid `Crowned Ancestors`, `First Monarch`, and `Court Ghost` as
   character-facing epithets. They are also reserved. Common-noun uses of
@@ -234,7 +234,7 @@
   belief.
 - Check chronology and setting labels. If the story names the modern-like era,
   Ravel, or the Glass-Sea era, verify every associated canon constraint; do not
-  import details from candidate or legacy stories. If the kingdom remains in
+  import details from candidate or historical stories. If the kingdom remains in
   an unnamed era, ensure no accidental contemporary or established-era
   reference fixes it elsewhere.
 - If worship or the word “god” is applied literally to a dragon, verify all
@@ -273,6 +273,6 @@
 - `stories/INDEX.md` — **Story index** (production authority for canon status;
   no row currently has canon `yes`)
 - `stories/NAMES.md` — **Rules**; registry entry table; **Known unresolved
-  legacy collisions** (production memory only, not canon)
+  released-reservation collisions** (production memory only, not canon)
 - `stories/the-gentlest-terror/00-prompt.md` — **Verbatim writing prompt**;
   **Story controls**; **Assumptions**; **Completion tests**

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "daughter-of-the-sun",
+  "certifiedAt": "2026-08-02T05:01:54.1943378+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "7aa54f0b43dea7a1c0cb9faaf3d97665b2b7b8c0348f7694e6f4133b755bf9bf"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "5cf44fa836ffe3b9bbebbc6bc1993003f2c10e5832acd0ab7e0a396c90951269"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 2,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "daughter-of-the-sun",
+    "passed": true,
+    "checkedAt": "2026-08-02T05:01:54.1830780+00:00",
+    "scopedRegistrySha256": "c33d52f818a8926e0e576d2794bdd4046a5c8a985ed5f54bcfe436294dde62d9"
+  }
+}

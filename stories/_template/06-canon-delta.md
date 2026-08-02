@@ -7,6 +7,15 @@ user explicitly approves promotion and the facts are added to `universe/`.
 
 None.
 
+## Final character-facing name inventory
+
+<!-- Replace `None.` with one bullet per final identity. List only forms that
+actually appear in 05-story.md. Use this exact shape:
+- **Display name** — Reserved forms: `Display name`; `Alias`
+-->
+
+None.
+
 ## New locations
 
 None.

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "self-reflection",
+  "certifiedAt": "2026-08-02T05:52:16.0077329+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "7438cbeaaaff052450860ba114b370a05de664012a271a6d9b525e73f851e2a3"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "6b6f659b8bc3104148e689cc5b8e492810e2246de594c70e88f51175331a3c19"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 2,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "self-reflection",
+    "passed": true,
+    "checkedAt": "2026-08-02T05:52:15.9951498+00:00",
+    "scopedRegistrySha256": "2b5039655974c50a47e9f55b1cb085cc4b663d9b071d7712713549fbdada8f88"
+  }
+}

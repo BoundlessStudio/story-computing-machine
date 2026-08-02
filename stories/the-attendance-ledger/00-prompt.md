@@ -37,7 +37,7 @@
 - The story may invent a local school, local threat, and small-scale magical
   support practices where canon is silent, provided all reusable inventions are
   recorded in `06-canon-delta.md`.
-- No external legacy story is being adapted.
+- No external historical story is being adapted.
 
 ## Completion tests
 

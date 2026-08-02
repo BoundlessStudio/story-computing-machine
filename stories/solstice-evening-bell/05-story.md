@@ -1,8 +1,6 @@
 ---
 title: "Solstice Evening Bell"
 slug: "solstice-evening-bell"
-status: candidate
-canon: false
 created: 2026-07-25
 ---
 

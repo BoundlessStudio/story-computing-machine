@@ -1,0 +1,42 @@
+name: Story integrity
+
+on:
+  pull_request:
+    paths:
+      - '.agents/skills/story-integrity/**'
+      - '.agents/skills/story-name-validation/**'
+      - '.agents/skills/story-room/**'
+      - 'stories/**'
+      - 'sources/**'
+      - 'tests/**'
+      - '.gitattributes'
+      - '.github/workflows/story-integrity.yml'
+  push:
+    paths:
+      - '.agents/skills/story-integrity/**'
+      - '.agents/skills/story-name-validation/**'
+      - '.agents/skills/story-room/**'
+      - 'stories/**'
+      - 'sources/**'
+      - 'tests/**'
+      - '.gitattributes'
+      - '.github/workflows/story-integrity.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-validate:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run executable PowerShell tests
+        shell: pwsh
+        run: ./tests/run.ps1
+      - name: Validate repository stories
+        shell: pwsh
+        run: ./.agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1

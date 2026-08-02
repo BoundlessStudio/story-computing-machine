@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
-- Reviewed artifact: `stories/the-gentlest-terror/05-story.md`
-- Review pass: 3
+- Reviewed artifact: `05-story.md`
+- Review pass: 5
+- Artifact SHA-256: `b447edb74d558049db6af711df79627e392f51c6b609526c5221964a50400c97`
+- Canon delta SHA-256: `6c3a257b3f0c32e86f6f3075adb7f406d6e02305fdd5b3013aaf3d63f4a9a4e0`
 - Verdict: PASS
-- Updated: 2026-07-28
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 ### Pass 1 — draft review
@@ -108,7 +114,7 @@ No name defect found. The prose uses only the planned and registered forms:
 `Mossback`; `Lord Ruvik Cress`, `Lord Ruvik`; `Larkspur`; and `King Ambric`.
 House names are not used alone as individual labels. No undocumented exact,
 alias, close-spelling, or misleading identity collision was found. The scoped
-registry check passed; its five warnings concern pre-existing global legacy
+registry check passed; its five warnings concern pre-existing global archive record
 collisions not used by this story.
 
 #### Causality and character
@@ -238,7 +244,7 @@ objects, travel, and swallow custody track through the revised scenes.
 
 No regression found. No character-facing name or alias was added or altered.
 All used forms remain documented in the plan and `stories/NAMES.md`. The scoped
-name check passes; its five warnings are unrelated pre-existing legacy
+name check passes; its five warnings are unrelated pre-existing archive record
 collisions not used in this story.
 
 #### Causality and character
@@ -343,7 +349,7 @@ Nyrzath introduction unambiguously joins two already documented forms of one
 identity. Surnames are not used alone as individual labels. No undocumented
 reuse, close confusion, false kinship, or implied crossover appears. The
 story-scoped registry check passes; its five warnings concern unrelated
-pre-existing legacy collisions absent from this story.
+pre-existing released-reservation collisions absent from this story.
 
 #### Causality and character
 
@@ -410,3 +416,64 @@ claims more authority than the final prose or approved canon supports.
 None.
 
 PASS
+
+### Pass 4 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-gentlest-terror`
+- pass: 4
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `316e9da4e7e19790584fb1a837f70a0d7b98a924afc7c41a994a4181c24692e5`
+- canonDeltaSha256: `6c3a257b3f0c32e86f6f3075adb7f406d6e02305fdd5b3013aaf3d63f4a9a4e0`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `5f087dcdeef4a140b776136208d6f1d9bd74bc6271b5412279be3340c9c33970`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 5 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `316e9da4e7e19790584fb1a837f70a0d7b98a924afc7c41a994a4181c24692e5`
+- Artifact SHA-256: `b447edb74d558049db6af711df79627e392f51c6b609526c5221964a50400c97`
+- Canon delta SHA-256: `6c3a257b3f0c32e86f6f3075adb7f406d6e02305fdd5b3013aaf3d63f4a9a4e0`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `316e9da4e7e19790584fb1a837f70a0d7b98a924afc7c41a994a4181c24692e5`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `6c3a257b3f0c32e86f6f3075adb7f406d6e02305fdd5b3013aaf3d63f4a9a4e0`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

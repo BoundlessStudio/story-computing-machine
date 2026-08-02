@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-friends-i-built",
+  "certifiedAt": "2026-08-02T06:28:58.8686704+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "e2008001ff0aa6d36fc4b43482872e427cdb8e44c5ca51d16f294f3f520f14f0"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 6,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-friends-i-built",
+    "passed": true,
+    "checkedAt": "2026-08-02T06:28:58.8558283+00:00",
+    "scopedRegistrySha256": "7bc3cb5c3007349e5019db27d1c1ab21474911de2e3dd696b2fd058301117499"
+  }
+}

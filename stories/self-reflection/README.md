@@ -2,24 +2,28 @@
 
 - Slug: `self-reflection`
 - Created: 2026-07-22
-- Current stage: prompt (legacy seed imported)
-- Story status: in-progress
-- Canon status: no
-- Seed source: `S04` at `stories/_legacy/imports/s04/Self-Reflection.md`
+- Current stage: final
+- Status: final
+- Canon: yes
+- User disposition: accepted
+- Publish: yes
+- Promotion date: 2026-08-01
 
 ## Checklist
 
-- [x] Legacy source snapshotted and digested
 - [x] Prompt contract captured
-- [ ] Canon brief completed
-- [ ] Story plan completed
-- [ ] Complete draft written
-- [ ] Draft review passed
-- [ ] Critical and major findings resolved
-- [ ] Final story written
-- [ ] Canon delta recorded
-- [ ] Final story review passed
-- [ ] Name registry updated
+- [x] Canon brief completed
+- [x] Story plan completed
+- [x] Plan name check passed
+- [x] Complete draft written
+- [x] Draft review passed
+- [x] Critical and major findings resolved
+- [x] Final story written
+- [x] Canon delta recorded
+- [x] Final story review passed
+- [x] Final name check passed
+- [x] Name registry updated
+- [x] Release certificate issued
 - [x] Story index updated
-- [ ] Candidate status reached
-- [ ] Canon promotion explicitly approved (optional)
+- [x] Candidate status reached
+- [x] Canon promotion explicitly approved (optional)

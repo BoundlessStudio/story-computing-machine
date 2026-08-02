@@ -82,7 +82,7 @@
 - **No canon-source contradiction was found. Canon status: READY; no canon
   ruling is required before planning.** `stories/INDEX.md` contains no row with
   canon `yes`, so no finalized story prose has authority at the story tier.
-  Candidate, in-progress, abandoned, and legacy works must not be mined as
+  Candidate, in-progress, abandoned, and historical works must not be mined as
   established setting facts. (`universe/README.md`, **Authority order**;
   `stories/INDEX.md`, **Story index**)
 - **Prompt-language tension, not a canon conflict:** “the winner gets to take
@@ -174,12 +174,12 @@ already established for the universe; a narrow local answer appears safe.
   name, given name, mononym, nickname, alias, username, title used as a name,
   or named person-like entity must be new and checked case-insensitively against
   the complete registry. Existing entries remain reserved even when their
-  source is candidate, abandoned, or legacy; no registry row is marked
+  source is candidate, abandoned, or archive record; no registry row is marked
   released. (`stories/NAMES.md`, **Rules** and registry table)
 - Avoid the registry's unresolved collision forms entirely: **Lena**, **Mara**,
-  **Nisha**, **Pell**, and **Voss**. Those forms already refer to distinct legacy
+  **Nisha**, **Pell**, and **Voss**. Those forms already refer to distinct archive record
   identities and are warnings, not available names. (`stories/NAMES.md`,
-  **Known unresolved legacy collisions**)
+  **Known unresolved name collisions**)
 - Watch the registry's dense close-match clusters when proposing fantasy names:
   **Leth / Letha / Lumen**; **Ilya / Irix / Ivo**; **Olyra / Oren / Orrin /
   Osric / Osket / Othran**; **Mara / Marcus / Mateo / Maude / Mae / Merrit /
@@ -244,7 +244,7 @@ already established for the universe; a narrow local answer appears safe.
   reconcile the registry after final review, and run
   `.agents/skills/story-name-validation/scripts/check-story-names.ps1 -Story
   the-courtesy-of-blades` at the required workflow gates.
-- Confirm that no candidate, abandoned, or legacy story detail has been treated
+- Confirm that no candidate, abandoned, or historical story detail has been treated
   as canon and that no resemblance alone creates a crossover, shared artifact,
   or shared institution.
 
@@ -269,7 +269,7 @@ already established for the universe; a narrow local answer appears safe.
   or courtship culture).
 - `universe/retcons.md` — **Retcon log** (no approved retcon entries).
 - `stories/INDEX.md` — **Story index** (no story row is canon `yes`).
-- `stories/NAMES.md` — **Rules**, registry table, **Known unresolved legacy
+- `stories/NAMES.md` — **Rules**, registry table, **Known unresolved archive record
   collisions** (production memory only, not canon).
 - `stories/the-courtesy-of-blades/00-prompt.md` — **Verbatim writing prompt**,
   **Story controls**, **Assumptions**, **Completion tests**.

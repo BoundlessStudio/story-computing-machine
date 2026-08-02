@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "a-little-winter-for-sale",
+  "certifiedAt": "2026-08-02T07:04:42.4842892+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "c666e5d088d7a32990d6065362868d040bf7eabbc9733cef7c6c815a2e21a75e"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "b8b94117505a5c0ab9d51ca19798520933f4ef8364c5673e14b37dcc08a0b779"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 6,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "a-little-winter-for-sale",
+    "passed": true,
+    "checkedAt": "2026-08-02T07:04:42.4720260+00:00",
+    "scopedRegistrySha256": "abfb75e002acea8e23fca06a698e9eed850c80fd709aef7203e2cbf4d86e5027"
+  }
+}

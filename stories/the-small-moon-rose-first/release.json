@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-small-moon-rose-first",
+  "certifiedAt": "2026-08-02T04:47:45.3216521+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "9c2bd9f42043eb73cedd1c64a432b60c8f3057608f45c127cbd0585f5cc5b557"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "fb9031c5f8bc1fff586c0f516c955820a15857aafd6929dcc5673eb506588850"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 2,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-small-moon-rose-first",
+    "passed": true,
+    "checkedAt": "2026-08-02T04:47:45.3096686+00:00",
+    "scopedRegistrySha256": "db97254abb33cf07132c33261148b347da902c7689958f464dc3b4fa260971da"
+  }
+}

@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 4 — final story re-review
+- Review pass: 6
+- Artifact SHA-256: `9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435`
+- Canon delta SHA-256: `e2008001ff0aa6d36fc4b43482872e427cdb8e44c5ca51d16f294f3f520f14f0`
 - Verdict: PASS
-- Updated: 2026-07-25
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -269,7 +275,7 @@ update Current certification to match the newest pass. -->
   `Ekri`, and `Instructor Bexel` / `Bexel`.
 - `archdemon parent`, `deaf`, and `non-speaking` are ordinary descriptions,
   not new names, titles used alone as identities, or aliases. No reserved or
-  readily confusable form was introduced, and none of the unresolved legacy
+  readily confusable form was introduced, and none of the unresolved archive record
   collisions appears.
 
 #### Causality and character
@@ -348,7 +354,7 @@ update Current certification to match the newest pass. -->
   identifies Belphegor only as Irix's parent (`05-story.md:11–12`); neither the
   story nor the delta claims godhood, a universal demon hierarchy, a universal
   form of Hell or damnation, or a connection to another era, portal, artifact,
-  or legacy identity.
+  or another story identity.
 - Magic remains dependent on living agency. Irix supplies the shaping current
   and stops when physically taxed (`05-story.md:151–161`); Ekri supplies the
   current used by his apparatus (`05-story.md:377–395`); and Belphegor works
@@ -661,3 +667,63 @@ update Current certification to match the newest pass. -->
 
 **Verdict: PASS**
 
+### Pass 5 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-friends-i-built`
+- pass: 5
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `59525970b46135bb75df380ec7e11bf8ef58deb1078de10738b792397f481fdd`
+- canonDeltaSha256: `e2008001ff0aa6d36fc4b43482872e427cdb8e44c5ca51d16f294f3f520f14f0`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `e7e6fb1576ebceaacdb1659f00617c029ba40f91233f7d0e0a82f439a9c5a737`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 6 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `59525970b46135bb75df380ec7e11bf8ef58deb1078de10738b792397f481fdd`
+- Artifact SHA-256: `9e6453159ba23aee2ef9e510790f94f2f814f81a35617eeeb630036deecc0435`
+- Canon delta SHA-256: `e2008001ff0aa6d36fc4b43482872e427cdb8e44c5ca51d16f294f3f520f14f0`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `59525970b46135bb75df380ec7e11bf8ef58deb1078de10738b792397f481fdd`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `e2008001ff0aa6d36fc4b43482872e427cdb8e44c5ca51d16f294f3f520f14f0`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

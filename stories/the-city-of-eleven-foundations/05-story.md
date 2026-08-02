@@ -1,8 +1,6 @@
 ---
 title: "The City of Eleven Foundations"
 slug: "the-city-of-eleven-foundations"
-status: candidate
-canon: false
 created: 2026-07-24
 ---
 
@@ -169,4 +167,3 @@ Most visible were the seams across the borders. Narrow spillways interrupted col
 Shutters reopened downslope. Ventilation stirred damp curtains behind windows. Lift rails shone with new oil. Fresh footprints passed through the drying Greek court, vanished on dark stone, and appeared again as mud on a repaired plinth. Warm squares of light returned to the basin after sunset.
 
 At one boundary, a thread of rain descended a green glazed tile, entered a newly cut channel in the raised stone, and crossed through a bronze-lined joint into the pale rill beside it. A small wet footprint overlaid the seam. The water kept both colors in its reflection as it moved on.
-

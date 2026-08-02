@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 2
+- Review pass: 4
+- Artifact SHA-256: `72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20`
+- Canon delta SHA-256: `a32727c1ddecaa98c3db89d29db07a7e2a9f1c98b5f3707fba0979d1563f886b`
 - Verdict: PASS
-- Updated: 2026-08-01
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -33,7 +39,7 @@ update Current certification to match the newest pass. -->
   agency and magic**.
 - The courtesy-bout stake and safety rules are presented through the
   Lacebridge civic blade yard rather than as universal law (`03-draft.md`,
-  lines 15–16, 29–38, 61–69). No candidate or legacy continuity is imported.
+  lines 15–16, 29–38, 61–69). No candidate or archive record continuity is imported.
 
 #### Continuity
 
@@ -59,7 +65,7 @@ update Current certification to match the newest pass. -->
   role descriptions, not aliases. No named spectator, animal, construct,
   person-like weapon, honorific-name, nickname, or username appears.
 - No exact, alias, close-spelling, reversal, or readily confused collision was
-  found, including against reserved candidate, abandoned, and legacy names.
+  found, including against reserved candidate, abandoned, and in-progress names.
 
 #### Causality and character
 
@@ -253,3 +259,63 @@ update Current certification to match the newest pass. -->
 
 **Verdict: PASS**
 
+### Pass 3 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-courtesy-of-blades`
+- pass: 3
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `d8e1446dffcfcb87c2bf245a4f4ca7267ad10df2a7d3c96637e28ccf6c539056`
+- canonDeltaSha256: `a32727c1ddecaa98c3db89d29db07a7e2a9f1c98b5f3707fba0979d1563f886b`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `b333373be7b3aac833fc1d2a480bf8354eaac42eb077a25f857d24f5f72de6ea`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 4 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `d8e1446dffcfcb87c2bf245a4f4ca7267ad10df2a7d3c96637e28ccf6c539056`
+- Artifact SHA-256: `72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20`
+- Canon delta SHA-256: `a32727c1ddecaa98c3db89d29db07a7e2a9f1c98b5f3707fba0979d1563f886b`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `d8e1446dffcfcb87c2bf245a4f4ca7267ad10df2a7d3c96637e28ccf6c539056`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `a32727c1ddecaa98c3db89d29db07a7e2a9f1c98b5f3707fba0979d1563f886b`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

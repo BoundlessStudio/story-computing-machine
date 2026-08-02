@@ -129,6 +129,11 @@ user explicitly approves promotion and the facts are added to `universe/`.
   second living person may explicitly and immediately share one activation's
   load.
 
+## Final character-facing name inventory
+
+- **Hadrik** — Reserved forms: `Hadrik`
+- **Aven** — Reserved forms: `Aven`
+
 ## Name registry updates
 
 - **Proposed final inventory — `Hadrik`:** Final character-facing form used for

@@ -194,6 +194,16 @@ user explicitly approves promotion and the facts are added to `universe/`.
 - New aliases: None. The signed renderings in the story refer to the same
   registered identities and do not create separate sign-name glosses.
 
+## Final character-facing name inventory
+
+- **Irix** — Reserved forms: `Irix`
+- **Belphegor** — Reserved forms: `Belphegor`
+- **Talvi** — Reserved forms: `Talvi`
+- **Knurl** — Reserved forms: `Knurl`
+- **Thimble** — Reserved forms: `Thimble`
+- **Ekri** — Reserved forms: `Ekri`
+- **Instructor Bexel** — Reserved forms: `Instructor Bexel`; `Bexel`
+
 ## Name registry updates
 
 - Final inventory of every character-facing identity and form actually used:

@@ -6,7 +6,7 @@
 - Summary: One physical world persists through deep time as countless
   civilizations rise, interact, collapse, and become archaeology for later
   cultures inside one coherent underlying cosmology.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q002–Q005,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q002–Q005,
   Q009, Q018–Q020, Q107)
 - Aliases: None universally; Earth, Ravel, and the Glass-Sea world are
   era-bound cultural labels for the same physical world.
@@ -31,7 +31,7 @@
 - Summary: The central shared-universe tension is memory versus myth: evidence
   degrades, is controlled or distorted, and may be recovered only partially by
   people whose choices still matter.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Starting
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Starting
   point, Q029–Q030, Q039, Q042, Q107)
 - Aliases: None
 - Notes:
@@ -49,7 +49,7 @@
 - Summary: Reality is coherent backstage, but cultures and characters may hold
   incomplete or incorrect models and may differ radically in awareness of the
   wider history.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q006–Q009,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q006–Q009,
   Q012, Q037, Q039)
 - Aliases: None
 - Notes:

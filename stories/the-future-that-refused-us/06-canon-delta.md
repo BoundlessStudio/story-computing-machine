@@ -139,6 +139,12 @@ canon.
   jointly demand thousands of simultaneous corrections and overload the
   readers' finite hinge capacity.
 
+## Final character-facing name inventory
+
+- **Zadie Cleft** — Reserved forms: `Zadie Cleft`; `Zadie`
+- **Nilo Cleft** — Reserved forms: `Nilo Cleft`; `Nilo`
+- **Baird Ansel** — Reserved forms: `Baird Ansel`; `Baird`
+
 ## Name registry updates
 
 The following is the exact proposed final inventory for this candidate story.

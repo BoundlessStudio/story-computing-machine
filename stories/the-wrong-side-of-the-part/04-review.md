@@ -3,13 +3,18 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 5
+- Review pass: 8
+- Artifact SHA-256: `bd363479fb2bf89532ab13920dda8a0d872c5f313abbfa0f03ed6a1adac8dd66`
+- Canon delta SHA-256: `d74ebc862f6e7da3dd574a268efd71ec3ef525c13a542f911f185b88e24e8a8f`
 - Verdict: PASS
-- Updated: 2026-07-25
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -498,3 +503,120 @@ update Current certification to match the newest pass. -->
 
 - None. No Critical or Major finding remains.
 
+### Pass 6 — final-story review
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-wrong-side-of-the-part`
+- pass: 6
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `0fa03582d67311c549193fa156cb6e6b0da586cfefebe3da49ba52f0e373a1be`
+- canonDeltaSha256: `d74ebc862f6e7da3dd574a268efd71ec3ef525c13a542f911f185b88e24e8a8f`
+- reviewer: continuity_critic
+- reviewedAt: `2026-08-01T22:40:58-04:00`
+- reviewBasis: Current 2026-08-01 universe LOCKED/CANON notes,
+  `stories/INDEX.md` with zero canon-yes stories, matching candidate/non-canon
+  `story.json`, `NAMES.md` reconciled 2026-08-01, monotonic completed passes
+  1–5, recorded successful plan name check, and the strict Final name-check
+  failure for the reviewed hashes.
+- verdict: REVISE
+- blockType: NONE
+- resolutionOwner: story_editor
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 1, minor: 0 }`
+- certificationEligible: false
+- changeReport: read-only; no files changed
+
+#### Prior finding dispositions
+
+- `C1` — RESOLVED. `05-story.md` changes Petra's ETA to quarter to five
+  because the lender's system is down and places her arrival at 4:43.
+- `D1` — RESOLVED. `06-canon-delta.md` omits unsupported exact ages and
+  residence, calls the wig old rather than antique, and confines activation
+  claims to Tilda's single observed use.
+
+#### Findings
+
+- findingId: `P6-Names-1`
+  - lane: Names
+  - Severity: Major
+  - Location: `05-story.md` throughout, especially Petra's first reference
+    and entrance; `06-canon-delta.md` character facts and final inventory;
+    `stories/NAMES.md` Petra row.
+  - Evidence: Exhaustive search of `05-story.md` finds no use of `Petra
+    Bristow`; prose uses only `Petra`. The delta nevertheless declares `Petra
+    Bristow` as a final form and proposed identity, and the plan and registry
+    reserve it. The mandatory Final name check fails.
+  - Why it matters: The final inventory is not an exact account of stable
+    prose, and the delta proposes a surname the reviewed story never
+    establishes. The failing Final name gate prevents release.
+  - Smallest effective fix: Establish the planned and registered full name
+    once at Petra's entrance, retain later `Petra` uses, then repeat Final
+    review and strict name validation because the prose hash changes.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 7 — final-story certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-wrong-side-of-the-part`
+- pass: 7
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `44d1babc91e3d21aac6eab610ca75e632f7259e03864b9d3f1eec5bb9eb9b636`
+- canonDeltaSha256: `d74ebc862f6e7da3dd574a268efd71ec3ef525c13a542f911f185b88e24e8a8f`
+- reviewer: continuity_critic
+- reviewedAt: `2026-08-01T23:04:49-04:00`
+- reviewBasis: Current LOCKED/CANON universe notes; agreeing index and machine
+  records with no canon story; complete production history; and passing strict
+  Final receipt
+  `3fad9b43aaafe9165a92eee2ba901b2716826376deaba2bd8bcb9977655a0a45`
+  with scoped registry SHA-256
+  `10034441663a61cd68871a466f336e740f4608c921af0f5be861b53885f15944`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only; no reviewed files changed
+
+#### Prior finding dispositions
+
+- `C1` — RESOLVED. Petra's lender delay and 4:43 arrival are coherent.
+- `D1` — RESOLVED. The delta omits unsupported age/residence claims and
+  confines activation to Tilda's single observed use.
+- `P6-Names-1` — RESOLVED. Petra's entrance now establishes `Petra Bristow`
+  once, agreeing with the plan, registry, delta, and strict Final receipt.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 8 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `44d1babc91e3d21aac6eab610ca75e632f7259e03864b9d3f1eec5bb9eb9b636`
+- Artifact SHA-256: `bd363479fb2bf89532ab13920dda8a0d872c5f313abbfa0f03ed6a1adac8dd66`
+- Canon delta SHA-256: `d74ebc862f6e7da3dd574a268efd71ec3ef525c13a542f911f185b88e24e8a8f`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `44d1babc91e3d21aac6eab610ca75e632f7259e03864b9d3f1eec5bb9eb9b636`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `d74ebc862f6e7da3dd574a268efd71ec3ef525c13a542f911f185b88e24e8a8f`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

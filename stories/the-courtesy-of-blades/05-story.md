@@ -1,8 +1,6 @@
 ---
 title: "The Courtesy of Blades"
 slug: "the-courtesy-of-blades"
-status: candidate
-canon: false
 created: 2026-08-01
 ---
 

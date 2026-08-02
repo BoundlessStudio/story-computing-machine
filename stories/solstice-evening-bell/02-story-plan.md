@@ -264,7 +264,7 @@ Total planned budget: approximately 3,600 words.
 
 | Character/entity | Reserved forms used in prose | Registry result | Reuse rationale and reader disambiguation |
 | --- | --- | --- | --- |
-| Solstice Evening Bell | `Solstice Evening Bell`; `Solstice`; `Evening Bell`; `First Monarch`; `the First Monarch`; `queen of all magical girls`; `the queen of all magical girls` | Available; no exact registry collision. `Bell` is deliberately not used alone because of the Bellweather near-match. Queen/time/solar legacy aliases are excluded. | Prompt-required new identity. All listed forms identify the same adult protagonist. Full name appears at first identification; later prose favors `Solstice`. `Evening Bell` appears only as part of the coronation office, never `Bell` alone. She is explicitly unrelated to the Bellweathers, Queen Aurelia, and the Goddess of Time; imagery does not imply crossover. |
+| Solstice Evening Bell | `Solstice Evening Bell`; `Solstice`; `Evening Bell`; `First Monarch`; `the First Monarch`; `queen of all magical girls`; `the queen of all magical girls` | Available; no exact registry collision. `Bell` is deliberately not used alone because of the Bellweather near-match. Queen/time/solar archive record aliases are excluded. | Prompt-required new identity. All listed forms identify the same adult protagonist. Full name appears at first identification; later prose favors `Solstice`. `Evening Bell` appears only as part of the coronation office, never `Bell` alone. She is explicitly unrelated to the Bellweathers, Queen Aurelia, and the Goddess of Time; imagery does not imply crossover. |
 
 No additional personal names, person-like ship names, commander names,
 usernames, named constructs, named animals, or titles used as identities are

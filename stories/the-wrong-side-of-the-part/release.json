@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "the-wrong-side-of-the-part",
+  "certifiedAt": "2026-08-02T07:41:58.5455105+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "bd363479fb2bf89532ab13920dda8a0d872c5f313abbfa0f03ed6a1adac8dd66"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "d74ebc862f6e7da3dd574a268efd71ec3ef525c13a542f911f185b88e24e8a8f"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 8,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-wrong-side-of-the-part",
+    "passed": true,
+    "checkedAt": "2026-08-02T07:41:58.5335545+00:00",
+    "scopedRegistrySha256": "a0aa913060a9df227a42514dfeb1c97b3f33829d096bb4f8fd9fd69f03543f94"
+  }
+}

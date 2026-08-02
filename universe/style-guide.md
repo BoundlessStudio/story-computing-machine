@@ -8,7 +8,7 @@
 - Summary: A cosmic or technical explanation may deepen an anomaly but must
   never invalidate a person's identity, grief, consent, relationships, or moral
   choices by reducing them to only a machine error.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q010, Q026,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q010, Q026,
   Q031)
 - Aliases: Personhood protection
 - Notes: Copies, branches, transformations, constructed minds, inherited
@@ -20,14 +20,14 @@
 - Status: CANON
 - Summary: Prefer precise, concrete, varied prose over canned phrasing,
   repetitive rhythm, or exposition that exists only to display lore.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q043,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q043,
   Q046, Q101)
 - Aliases: None
 - Notes:
   - Use varied sentence rhythm, concrete detail, and em dashes sparingly.
   - Consult `stories/NAMES.md` before choosing a character-facing name. Default
     to a unique, readily distinguishable name across all story states and
-    portable legacy sources.
+    archived reference material.
   - Treat repeated or easily confused character names as accidental reuse to
     fix unless the same identity recurs or the reuse has documented narrative
     meaning and a clear reader-disambiguation strategy.
@@ -40,7 +40,7 @@
 - Status: CANON
 - Summary: The project permits a wide tonal and genre range, connected by a
   coherent world rather than a mandatory mood, scale, or level of awareness.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q007, Q012,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q007, Q012,
   Q039, Q102, Q104)
 - Aliases: None
 - Notes:
@@ -55,7 +55,7 @@
 - Status: LOCKED
 - Summary: Default to broadly accessible, non-explicit fiction while allowing
   the universe's wide tonal and genre range.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q103)
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q103)
 - Aliases: Content ceiling
 - Notes:
   - Romance and adult intimacy may appear, but sexual content fades to black;
@@ -76,7 +76,7 @@
 - Status: LOCKED
 - Summary: Provenance, chronology, causal consequence, and explicit authority
   outrank convenient explanations or thematic resemblance.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q029–Q030,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q029–Q030,
   Q042–Q046, Q105–Q106)
 - Aliases: None
 - Notes:

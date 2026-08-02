@@ -6,23 +6,63 @@ Treat prose and universe notes as the product.
 ## Directories and authority
 
 - `universe/` is the authoritative source for shared-universe facts.
-- `stories/INDEX.md` lists story state and canon status.
-- `stories/NAMES.md` is the production-memory registry mapping character-facing
-  names and aliases to every story or legacy source that uses them.
-- Each story lives in `stories/<story-slug>/` and uses the numbered artifacts
-  defined by `stories/_template/`.
-- `stories/_legacy/` records non-canon legacy-source provenance, research,
-  deferred adaptation questions, and import readiness.
-- `.agents/skills/` contains the required workflows.
+- `stories/<story-slug>/story.json` is the machine authority for one story's
+  lifecycle, canon, acceptance, and publication metadata.
+- `stories/INDEX.md` is the checked human index of those story records.
+- `stories/NAMES.md` is production memory mapping character-facing names and
+  aliases to every story that uses them, plus released reservations.
+- Each story uses the numbered artifacts and machine records defined by
+  `stories/_template/`.
+- `sources/` preserves inert evidence and decision history. Every record there
+  has `authority: none`; nothing there classifies a production story.
+- `.agents/skills/` contains the required workflows and integrity scripts.
 - `.codex/agents/` contains specialist roles for delegation.
 
 Read `universe/README.md` before interpreting setting facts. Never treat a
-template, draft, outline, review, open question, or proposed canon delta as
-established canon.
+template, prompt, draft, outline, review, open question, proposed canon delta,
+or material marked `authority: none` as established canon. Any referenced
+input used for a reproducible decision must meet the verification rule in
+`sources/README.md`. Evidence does not establish canon.
 
-Before adapting an external legacy work, require the exact reviewed version to
-meet the portability rule in `stories/_legacy/README.md`. A source import is
-evidence, not canon promotion.
+## Lifecycle model
+
+Keep these axes independent in `story.json`:
+
+- `stage`: `prompt`, `canon-research`, `planning`, `drafting`, `draft-review`,
+  `final-edit`, `final-review`, `candidate`, `final`, or `abandoned`.
+- `status`: `in-progress`, `candidate`, `final`, or `abandoned`.
+- `canon`: a boolean; it becomes `true` only through explicit promotion.
+- `userDisposition`: `pending`, `accepted`, or `rejected`.
+- `publish`: a boolean independent of canon.
+
+Allowed terminal combinations are:
+
+| Status | Stage | Canon | Disposition | Promotion date | Publication |
+| --- | --- | --- | --- | --- | --- |
+| `candidate` | `candidate` | `false` | `pending` or `accepted` | `null` | optional after a valid release |
+| `final` | `final` | `true` | `accepted` | required | optional after a valid release |
+| `abandoned` | `abandoned` | `false` | `rejected` | `null` | `false` |
+
+An `in-progress` story uses a nonterminal stage, remains non-canon with pending
+disposition, has no promotion date, and is not published. `README.md` and
+`stories/INDEX.md` must agree with `story.json`, but they do not override it.
+
+## Release integrity
+
+`release.json` is a content-bound certificate, not an editable status marker.
+A certified release must bind all of the following:
+
+- the SHA-256 digests of `05-story.md` and `06-canon-delta.md`;
+- the latest identified review pass for `05-story.md`, with verdict `PASS`;
+- reviewer identity and zero unresolved Critical and Major findings;
+- a passing story-scoped name check and its scoped registry digest; and
+- the certification timestamp and story slug.
+
+Changing final prose, the canon delta, relevant name-registry rows, or the
+certified review invalidates the certificate. Re-run the affected review/name
+gate and issue a new certificate; never hand-edit hashes to make a check pass.
+Only a candidate or final story with a currently valid certificate may publish
+its reader-facing final.
 
 ## `[WP]` means the full story workflow
 
@@ -32,51 +72,62 @@ stage. Do not stop after brainstorming or outlining.
 
 Use this dependency order:
 
-1. Create `stories/<story-slug>/` and preserve the verbatim prompt in
-   `00-prompt.md` with explicit assumptions and acceptance criteria.
-2. Delegate canon research to `canon_librarian`; save its evidence-backed brief
-   in `01-canon-brief.md`.
+1. Scaffold `stories/<story-slug>/` transactionally with `new-story.ps1` and
+   preserve the verbatim prompt in `00-prompt.md` with assumptions and
+   acceptance criteria. New stories start `in-progress`, non-canon, pending,
+   and unpublished.
+2. Delegate canon research to `canon_librarian`. The primary agent persists its
+   evidence-backed handoff in `01-canon-brief.md` and verifies the write.
 3. Delegate planning to `story_architect`; it writes `02-story-plan.md`.
-4. Use the `story-name-validation` skill to verify the plan's name check,
-   register every planned character-facing name in `stories/NAMES.md`, and run
-   `.agents/skills/story-name-validation/scripts/check-story-names.ps1` with
-   `-Story <story-slug>`.
-5. Delegate drafting to `prose_writer`; it writes `03-draft.md`.
-6. Delegate draft review to `continuity_critic`; save the identified review pass
-   in `04-review.md` without discarding earlier passes.
-7. If the verdict is `REVISE` or `BLOCK`, revise and re-review until the draft
-   earns `PASS`. Do not finalize with unresolved Critical or Major findings.
+4. Use `story-name-validation` to verify the plan's `Name check`, register every
+   planned character-facing name in `stories/NAMES.md`, and run the scoped name
+   checker for the story.
+5. Delegate initial drafting or draft revision to `prose_writer`; it writes
+   `03-draft.md` in the explicitly assigned mode.
+6. Delegate draft review to `continuity_critic`. The primary agent appends its
+   identified pass to `04-review.md` without discarding earlier passes.
+7. For `REVISE`, return the findings to the prose writer, then re-review. For a
+   repairable `BLOCK`, revise the named production artifact and re-review. For a
+   `BLOCK` that requires a canon ruling, prompt reinterpretation, or new user
+   authority, stop and ask the user; do not invent the ruling. Never proceed
+   with unresolved Critical or Major findings.
 8. Delegate the final edit to `story_editor`; it writes `05-story.md` and
-   `06-canon-delta.md`.
-9. Delegate a final review of `05-story.md` to `continuity_critic`. Record that
-   pass in `04-review.md`. If it does not earn `PASS`, revise the final story and
-   canon delta, then re-review `05-story.md` until it does.
-10. Reconcile `stories/NAMES.md` with the final story and canon delta using the
-    `story-name-validation` skill, rerun its scoped check, and update
-    `stories/INDEX.md`. Leave canon status `candidate` until the user explicitly
-    approves promotion.
+   `06-canon-delta.md`. If that role is unavailable, the primary agent uses the
+   local `final-edit` skill with the same preconditions and file ownership.
+9. Delegate review of `05-story.md` to `continuity_critic` and append that
+   separately numbered pass. If it does not earn `PASS`, use final-revision mode
+   to update `05-story.md` and the canon delta, then re-review.
+10. Reconcile `stories/NAMES.md` against the final story and delta, repeat any
+    review invalidated by name changes, and run the strict scoped name check.
+11. Issue `release.json`, update `story.json` to `candidate`, synchronize the
+    story README and index, and run the repository validator. Leave `canon`
+    false unless this request explicitly authorizes promotion.
 
-Independent research may run in parallel, but stages with dependencies must
-not. Custom agents must perform only their assigned role and must not restart
-or re-orchestrate the whole workflow. If a custom role is unavailable, the
-primary agent performs that stage using the matching skill.
+Independent research may run in parallel, but dependent stages may not.
+Specialist agents perform only the assigned role and must not restart or
+re-orchestrate the workflow. If a custom role is unavailable, the primary agent
+uses the matching skill.
 
-The primary agent owns `stories/<story-slug>/README.md`. After verifying each
-stage, update its current stage and corresponding checklist item. At completion,
-the record must identify the story as `candidate`, show both review gates as
-complete, and agree with `stories/INDEX.md`. Specialist agents do not update the
-production record.
+## Ownership and handoffs
 
-## On-demand prompt calibration
+The primary agent owns coordination, persistence of read-only handoffs,
+`story.json`, `release.json`, each story's `README.md`, `stories/INDEX.md`, and
+`stories/NAMES.md`. Specialist write scopes are deliberately narrow:
 
-When the user asks to improve or calibrate prompt recommendations, delegate to
-`prompt_calibrator`. It uses the latest ranks 11–100 to select an informative
-comparison set and asks the user for a most-to-least ordering. Preserve that
-ordering as preference evidence using the `prompt-calibration` skill.
+| Role | Writes | Does not write |
+| --- | --- | --- |
+| `canon_librarian` | nothing; returns a persistence payload | story or universe files |
+| `story_architect` | `02-story-plan.md` | prose, registry, production record |
+| `prose_writer` | `03-draft.md` | final story, registry, production record |
+| `continuity_critic` | nothing; returns one numbered review payload | story artifacts |
+| `story_editor` | `05-story.md`, `06-canon-delta.md` | registry, metadata, index |
+| `canon_steward` | approved universe notes and promotion provenance | production README, index, registry, lifecycle metadata |
 
-This role may write only under `data/prompt-scout/` through the supporting skill
-scripts. It does not edit `stories/`, `universe/`, or canon state. It runs on
-demand only; do not schedule it unless the user later asks for scheduling.
+Every delegation names the slug, source artifact, mode, required inputs,
+allowed outputs, current pass/certificate state, and acceptance condition.
+Read-only payloads identify their intended destination; the primary agent
+persists and verifies them. A specialist must report a missing or stale
+precondition rather than silently broadening its scope.
 
 ## Defaults and user control
 
@@ -87,63 +138,66 @@ demand only; do not schedule it unless the user later asks for scheduling.
   story and no safe assumption exists.
 - The user may name any artifact or stage to request a partial run or revision.
 - Never overwrite an existing story directory. Choose a distinct slug or ask.
+- A partial run does not advance status past the last validated gate.
 
 ## Character-name discipline
 
 - Read `stories/NAMES.md` before proposing or introducing any character-facing
   name. This includes full names, given names, mononyms, nicknames, aliases,
   usernames, titles used as names, and named animals, companions, constructs,
-  or person-like entities. A surname is reserved separately when prose uses it
+  or person-like entities. Reserve a surname separately when prose uses it
   alone as a character label.
-- Default to a unique, readily distinguishable name across canon, candidates,
-  in-progress stories, and portable legacy sources. Check exact matches,
-  aliases, close spellings, reversals, and other easily confused forms.
+- Default to a unique, readily distinguishable name across every production
+  story lifecycle state and all active registry reservations. Check exact
+  matches, aliases, close spellings, reversals, and confusable forms.
 - Reuse is permitted only when it adds intentional meaning: the same recurring
   identity, an earned crossover, an in-world family or naming convention, a
   prompt-required collision, or a deliberate identity/theme device. Record
-  whether the identities are the same or distinct, why the reuse matters, and
-  how readers can distinguish them in both the plan's `Name check` and
-  `stories/NAMES.md`. Convenience, genre familiarity, or failure to search is
-  not a rationale.
-- Treat an undocumented or accidental collision as a defect. Rename it before
+  whether identities are the same or distinct, why reuse matters, and how
+  readers distinguish them in the plan and registry.
+- Treat undocumented or accidental collision as a defect. Rename it before
   drafting when possible. If discovered later, update every current production
-  artifact and repeat the applicable review gate; never imply a shared identity
-  or continuity link merely because names match.
-- The primary agent owns `stories/NAMES.md`. Specialist agents read it and
-  report name decisions but do not edit it. Register planned names after
-  verifying `02-story-plan.md`, then reconcile the registry after final review
-  so it matches `05-story.md`, `06-canon-delta.md`, the story state, and any
-  aliases actually used.
-- A registry entry is production memory, not canon. Legacy and abandoned names
-  remain searchable reservations unless the registry explicitly marks them
-  released; canon promotion still requires the normal approval workflow.
+  artifact and repeat any invalidated review and release gate.
+- The primary agent alone edits `stories/NAMES.md`. Register planned names after
+  verifying the plan, then reconcile it after final review against the final
+  story, delta, lifecycle state, and aliases actually used.
+- Registry entries are production memory, not canon. Rows for abandoned work
+  remain searchable reservations unless explicitly released.
 
-## Canon discipline
+## Canon discipline and promotion
 
 - Cite relevant universe files and headings in `01-canon-brief.md`.
 - Distinguish contradictions from omissions. Missing lore is not evidence for
-  a fact, but it can be room for a clearly labeled invention.
+  a fact, but it can be room for a clearly labeled local invention.
 - Prefer local, story-scale inventions over new global rules.
 - Record every newly introduced reusable fact in `06-canon-delta.md`.
-- Treat legacy sources as nonbinding adaptation inputs. Review or rebuild a
-  legacy work through the full story workflow before promotion; importing or
-  copying it does not create canon.
-- Unresolved factual contradictions, chronology problems, identity conflicts,
-  causal inconsistencies, and paradoxes block canon promotion. Copyediting
-  defects may be repaired during final editing.
+- Every production story follows the same workflow and promotion gates.
+  Material marked `authority: none` cannot establish a universe fact.
+- Factual contradictions, chronology problems, identity conflicts, causal
+  inconsistencies, and paradoxes block promotion. Copyediting defects may be
+  repaired during final editing, followed by recertification.
 - Do not edit authoritative universe notes or mark a story canon unless the
-  user explicitly asks to promote it. Then use `canon_steward` with the
-  `canon-maintenance` and `story-name-validation` skills.
-- If canon sources conflict, preserve the conflict, report it, and request a
-  ruling rather than quietly choosing the convenient version.
+  user explicitly authorizes promotion. Then use `canon_steward` with
+  `canon-maintenance` and `story-name-validation`, one named story at a time.
+- Recheck each story against everything promoted before it. Record every delta
+  item as `promote`, `story-local`, `defer`, or `reject`; do not copy a delta
+  wholesale into universe notes.
+- After stewardship succeeds, the primary agent revalidates names and release,
+  sets status/stage to `final`, canon true, disposition accepted, and records
+  the promotion date in metadata, README, registry, and index.
+- If authoritative sources conflict, preserve the conflict and request a
+  ruling rather than selecting the convenient version.
 
 ## Completion standard
 
 A full `[WP]` task is complete only when `05-story.md` contains polished prose;
-the latest certification in `04-review.md` identifies `05-story.md`, has verdict
-`PASS`, and has no unresolved Critical or Major findings; `06-canon-delta.md` is
-filled out (including `none` where appropriate); `stories/NAMES.md` contains
-every final character-facing name and passes the story-scoped name check; the
-story production record is current; and `stories/INDEX.md` agrees with it. The
-story remains a candidate unless the same request or a later user message
-explicitly authorizes canon promotion.
+the latest identified final-story review is `PASS` with no unresolved Critical
+or Major findings; `06-canon-delta.md` is complete (including `none` where
+appropriate); every final character-facing name is registered and the strict
+scoped check passes; `release.json` validly binds those results; and
+`story.json`, the production README, and index agree. The completed story is a
+candidate unless explicit promotion authority is part of the request.
+
+Run the repository integrity suite before declaring workflow completion or
+canon promotion complete. A published site must also build solely from the
+current checkout, without depending on Git history.

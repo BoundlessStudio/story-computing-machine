@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "certified": true,
+  "storySlug": "a-place-for-the-living",
+  "certifiedAt": "2026-08-02T06:00:29.6560903+00:00",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md",
+      "sha256": "f39320e56683ff797089ac845f751e1dfc9f86e0c2dba79d1aa1cdbb9a8837a5"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md",
+      "sha256": "2cd47bae340b369e61dd1a6f16d6586cfaf09fa8d4993cd9e48364286588dcd2"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 4,
+    "verdict": "PASS",
+    "reviewer": "primary_continuity_fallback",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "a-place-for-the-living",
+    "passed": true,
+    "checkedAt": "2026-08-02T06:00:29.6449941+00:00",
+    "scopedRegistrySha256": "a9f086cc197aa4b688698d54df64db1a2b4751748a7a26b6425b5bac60681cf2"
+  }
+}

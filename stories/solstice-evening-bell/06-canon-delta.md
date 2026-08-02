@@ -210,6 +210,10 @@ user explicitly approves promotion and the facts are added to `universe/`.
   relationship to the Glass Gate is proposed.
 - **New personal aliases:** None beyond Solstice's registered regnal titles.
 
+## Final character-facing name inventory
+
+- **Solstice Evening Bell** — Reserved forms: `Solstice Evening Bell`; `Solstice`; `First Monarch`; `the First Monarch`; `Queen of all magical girls`; `the queen of all magical girls`
+
 ## Name registry updates
 
 - Final inventory of every character-facing identity and form actually used in
@@ -233,7 +237,7 @@ user explicitly approves promotion and the facts are added to `universe/`.
   to the Bellweather family, Queen Aurelia, the Goddess of Time, King Othran,
   the Hollow Regent, or another registered identity.
 - Undocumented collisions, new forms, nicknames, usernames, titles used as
-  additional identities, or unresolved legacy names: None.
+  additional identities, or unresolved in-progress names: None.
 - Central registry edit requested here: None. The primary coordinator owns
   final reconciliation of `stories/NAMES.md`.
 
