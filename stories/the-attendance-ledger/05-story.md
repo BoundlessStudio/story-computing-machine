@@ -1,8 +1,6 @@
 ---
 title: "The Attendance Ledger"
 slug: "the-attendance-ledger"
-status: candidate
-canon: false
 created: 2026-07-30
 ---
 

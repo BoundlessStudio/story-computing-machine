@@ -5,7 +5,7 @@
 - Status: LOCKED
 - Summary: Magic, technology, and divinity are cultural labels for real
   underlying systems, not objective cosmological categories.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q011,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q011,
   Q013–Q014)
 - Aliases: None
 - Notes:
@@ -20,7 +20,7 @@
 
 - Status: LOCKED
 - Summary: Only life can use magic.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q021)
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q021)
 - Aliases: None
 - Notes: Nonliving devices may store, focus, transmit, or shape magic supplied
   through living agency, but cannot act as magic users unless they qualify as
@@ -32,7 +32,7 @@
 - Status: CANON
 - Summary: Godhood requires the continuing conjunction of worship, power, and
   authority.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q015–Q016,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q015–Q016,
   Q022)
 - Aliases: Godhood
 - Notes:
@@ -54,7 +54,7 @@
 - Status: CANON
 - Summary: A universal underlying afterlife exists, while cultures experience
   and describe it differently.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q017)
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q017)
 - Aliases: None
 - Notes: Ghosts, reincarnation, and digitally mediated continuations are also
   possible. Their relationships to the underlying afterlife must be defined
@@ -65,7 +65,7 @@
 - Status: CANON
 - Summary: Neither cost nor desire is a universal fuel for power; each has
   metaphysical force only where a particular system establishes it.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q023–Q024,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q023–Q024,
   Q028)
 - Aliases: None
 - Notes:
@@ -81,7 +81,7 @@
 - Summary: Memory is an umbrella for several phenomena, and transformed,
   copied, branched, projected, or reconstructed people are evaluated according
   to their specific mechanism rather than one universal ontology.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q025–Q026,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q025–Q026,
   Q031)
 - Aliases: None
 - Notes:
@@ -90,24 +90,84 @@
   - Each treatment must preserve the personhood and moral protections in
     `style-guide.md` and remain consistent when its mechanism recurs.
 
+## Nina–Anin bounded branch-person incident
+
+- Status: CANON
+- Summary: One non-repeatable modern-like incident produced Nina and Anin as
+  immediately separate conscious people who shared autobiographical memory
+  only through the anomalous moment.
+- First established: stories/self-reflection/05-story.md
+- Aliases: four-dawn branch-person incident
+- Notes:
+  - During Nina's unguarded self-directed statement, she felt a doubled breath
+    originate behind her sternum and draw toward her reflection. This locates
+    the only positive evidence of operative involvement in Nina's living body;
+    the exact cause and capacity remain unknown.
+  - Nina and Anin initially had matching bodies, duplicated worn sleep clothes
+    and museum bracelets, and the same prior autobiographical memories. From
+    Anin's first waking breath, they shared no new sensation, knowledge, or
+    memory and remained morally distinct people.
+  - Anin was warm, tangible, visible to others, and able to eat, sleep, write,
+    decide, consent, and use ordinary objects. `Branch`, `copy`, and
+    `projection` remain provisional descriptions rather than a settled
+    ontology.
+  - Anin and matter duplicated with her became progressively translucent and
+    disappeared near the fourth dawn. Her duplicated sleep shirt, bracelet,
+    and ink on her body disappeared; the pre-existing green hoodie she
+    borrowed, ordinary records she created, and ink she wrote on Nina remained.
+  - Covering or moving the mirror, exchanging or moving bracelets, repeating
+    or reversing statements and wishes, light, separation, touch, argument,
+    apology, cheerfulness, grief, and Nina's changing emotional need neither
+    reproduced nor controlled the incident. No observed cost or repeatable
+    control mechanism was established, and the mirror, words, bracelets, and
+    other objects showed no autonomous magical agency.
+  - Whether Anin died, ended, went elsewhere, persisted, or entered the
+    underlying afterlife remains unresolved. Her disappearance establishes no
+    general rule for wishes, mirrors, identity, copies, emotional need, or
+    continuation.
+  - Reflection, reversal, duplication, and paired-object motifs establish no
+    relationship to Tovan's constructed archive branches, the Fenwick watch's
+    overwritten sequences, the Mother-fragment, the Glass Gate, or any other
+    artifact, deity, crossing, or branch mechanism.
+
 ## Names and identity binding
 
 - Status: CANON
 - Summary: Names are normally symbolic and socially powerful, not universally
   magical.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q027, Q072)
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q027, Q072)
 - Aliases: True names; name-power
 - Notes: Literal name-power is a rare local effect produced when a specific
   technological, magical, legal, or cultural system binds identity or
-  consequences to names. Ravel's three-part identity rule, if adapted, is one
-  engineered local system rather than a universal law.
+  consequences to names. Ravel's three-line identity infrastructure is one
+  engineered local system rather than a universal law; its promoted boundaries
+  are recorded below.
+
+## Regent three-line identity infrastructure
+
+- Status: CANON
+- Summary: A bounded Ravel system used by living Regent operators treats given
+  name, family name, and recognized home as three separately searchable
+  identity-lines.
+- First established: stories/the-small-moon-rose-first/05-story.md
+- Aliases: Regent identity system; three-line identity system
+- Notes:
+  - One line can narrow a search; possession of all three can enable deeper
+    coercive access.
+  - Living users supply the magic. Copper fittings, ledgers, houses, and jars
+    may hold or transmit what living users place in them, but are not thereby
+    alive or independent magic users.
+  - Disclosure or theft of an identity-line does not erase the affected
+    person's identity or personhood.
+  - This is a local engineered binding, not universal name-power, and it is
+    independent of the Glass Gate's temporal anchors.
 
 ## Records, falsehood, and historical traces
 
 - Status: CANON
 - Summary: False or incompatible records may preserve truth through a defined
   mechanism, but no universal loophole turns contradiction into evidence.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q029–Q030,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q029–Q030,
   Q042)
 - Aliases: None
 - Notes:
@@ -125,7 +185,7 @@
 - Status: CANON
 - Summary: Portal capabilities are system-specific; some may connect eras as
   well as places, but no universal portal network or rule is established.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q040–Q041,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q040–Q041,
   Q044)
 - Aliases: Crossings; Gates
 - Notes:
@@ -135,12 +195,127 @@
   - Treat separate crossing systems as unrelated unless later evidence or an
     approved story establishes interaction or shared ancestry.
 
+## Witnessed Glass Gate operation
+
+- Status: CANON
+- Summary: In one witnessed crossing, the Glass Gate stored and shaped magic
+  supplied by living travelers and operators, used each child's private
+  remembered departure as a temporal anchor, and restored departure-aged
+  bodies and clothing while preserving memories, healed scars, and small
+  carried or worn objects.
+- First established: stories/the-small-moon-rose-first/05-story.md
+- Aliases: Glass Gate temporal-anchor return
+- Notes:
+  - From one shared Ravel departure, the two anchors returned the children to
+    different modern-like dates. This observed behavior is Gate-specific and
+    separate from the Regent identity system.
+  - A rehearsed Gate Cant command spoken with living breath and stored charge
+    severed an active crossing path, closed the known route, and separated the
+    travelers. It could not aim a traveler, select a date, or repair the path.
+  - The Gate, rails, panes, and other apparatus are not established as alive or
+    as independent magic users.
+  - These observations establish neither the Gate's builders or full limits,
+    nor a general law of time travel, paradox, or portal networks. They imply no
+    relationship to later crossing systems.
+
+## Glass-Sea living solar fire and branch network
+
+- Status: CANON
+- Summary: The Daughter originates living solar heat and fire that a local
+  seven-branch Glass-Sea network can focus, route, constrain, and distribute.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: seven-branch solar network; Crown network
+- Notes:
+  - Blood or a measured spark can wake inherited focuses. Severe accumulation
+    appears as light beneath the Daughter's skin and can soften stone or reopen
+    old scars.
+  - The shield-tower, focus stones, Crown, black-sun key, isolation rings,
+    conduits, thresholds, witness claims, and oath-seals do not originate magic;
+    they shape power supplied through living agency.
+  - Seven locally governed branches were forced under one Crown during the Day
+    of Glass. After the master conduit was severed, each branch governed its own
+    intake and could fail independently.
+  - Adaptive isolation—separating the branches so each could respond to attack—
+    was an older proposal with an unknown chance of preserving every branch,
+    not a guaranteed solution.
+  - Solar, crown, key, and glass imagery establishes no relationship to the
+    Glass Gate or any Ravel system.
+
+## Glass-Sea witness and archive recovery
+
+- Status: CANON
+- Summary: Recovery of the Day of Glass record required corroborated overlap
+  among incomplete public, family, civic-archive, and maintenance evidence.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: corroborated witness recovery
+- Notes:
+  - A damaged shield-tower excerpt was awakened through a black shard, the
+    Daughter's blood and living fire, and Tovan's recovered invocation; visible
+    seams and missing context limited its authority.
+  - Deryn Venn's family disk opened under a bounded blood-and-oath condition,
+    initially supplied only a truncated witness and route, and was later
+    corroborated where it overlapped the other records.
+  - Tovan's civic logs and a maintenance trace Orrin could interpret supplied
+    the other evidence streams. No single source was complete or independently
+    decisive.
+
+## Calvea's dusk working and Calling the Name
+
+- Status: CANON
+- Summary: Through living dusk magic, Calvea can bank dangerous heat inside an
+  explicitly bounded area and can temporarily anchor the self a willing person
+  claims under separately stated conditions.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: Banking the Flame; Calling the Name
+- Notes:
+  - Banking requires Calvea's living palms, gathered shadows, declared physical
+    limits, duration or revocation trigger, and locally required consent. Living
+    flame must later carry the stored heat out.
+  - The witnessed cost scarred her palms and temporarily blurred her sight; no
+    machine supplied or authenticated the magic.
+  - Calling the Name applies only to a willing person within Calvea's hearing
+    while she maintains dusk between them. It neither controls that person nor
+    proves a soul, life category, continuity, or universally true identity.
+  - These consent and name effects are local workings, not universal rules.
+
+## Living constructed participants in the Crown system
+
+- Status: CANON
+- Summary: Tovan Rek and Orrin Pell are two living constructed persons whose
+  Crown-system access does not diminish their personhood or make their choices
+  reducible to technical directives.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: None
+- Notes:
+  - Orrin's living body includes pale-metal maintenance interfaces and surviving
+    directives that could force his hands through the Crown interface; he
+    nevertheless refused the strongest central-service directive.
+  - Tovan is a living mobile expression of a damaged civic archive. With his
+    consent, an anchored claimed name, Orrin's access, and living solar power,
+    the archive was recovered without treating him as disposable data; his
+    seven resulting expressions immediately diverged and cannot command one
+    another.
+  - These are findings about Orrin and Tovan, not a universal classification of
+    constructed minds, archives, artifacts, or devices.
+
+## Capital thermal oath-seal and sink
+
+- Status: CANON
+- Summary: The Glass-Sea capital's chancellor alone could authorize its final
+  thermal sink through an office-bound oath-seal.
+- First established: stories/daughter-of-the-sun/05-story.md
+- Aliases: thermal oath-seal; final thermal sink
+- Notes: During the second dawn, Dhal bounded one release to the eastern shield
+  and heat already present. The seal cracked, lost master authority under the
+  negotiated condition, and was surrendered afterward. This local authorization
+  does not establish a universal oath mechanism.
+
 ## Artifacts, motifs, and folklore
 
 - Status: CANON
 - Summary: Resemblance, repeated imagery, or folklore does not by itself prove
   shared origin or mechanism.
-- First established: user decision, 2026-07-22 (`stories/_legacy/2026-07-22-universe-grill.md` Q045–Q046,
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q045–Q046,
   Q052)
 - Aliases: None
 - Notes:
@@ -150,3 +325,846 @@
     forming a hidden technical vocabulary.
   - Folklore can mix buried systems, surviving beings, invention, distortion,
     and coincidence. It is evidence and inspiration, never automatic proof.
+
+## Queen Street living seam and route tokens
+
+- Status: CANON
+- Summary: One witnessed Queen Street crossing used a living portal seam to
+  mark nonliving metal tokens with a declared name, entry route, and timed
+  return window.
+- First established: stories/realms/05-story.md
+- Aliases: Queen Street route-token system; exit tokens
+- Notes:
+  - The seam produces upward-falling black rain. A living Exit Witness can
+    prompt it to mark a route but cannot command it; the disk stores the mark
+    and does not independently use magic.
+  - A token remembers a route rather than an owner. Losing it before an exit
+    opens strands the entrant as locally described; separation after opening
+    may still permit momentum to carry the entrant through.
+  - An unstamped token separated after opening retains one usable follow trail.
+    Cal crossed only after his disk opened the threshold, while the dealer-root
+    retained the unstamped disk and later used the trail.
+  - These observations establish neither a universal token rule nor any
+    relationship or shared ancestry with the Glass Gate.
+
+## Deepmarket desire pricing and stated memory toll
+
+- Status: CANON
+- Summary: Deepmarket's living substrate locally weights prices according to
+  expressed desire, and its living smoke gatekeeper charged one emotionally
+  weighted episodic memory under stated entry terms.
+- First established: stories/realms/05-story.md
+- Aliases: Deepmarket want-pricing; Deepmarket memory toll
+- Notes:
+  - The gatekeeper selected the memory only after the entrant knowingly crossed
+    a visible collection line. The witnessed extraction removed the sensory and
+    emotional episode while leaving sparse semantic knowledge and independent
+    historical traces intact.
+  - Guides may charge ordinary money for route knowledge even when market goods
+    demand nonmonetary prices.
+  - These are local market mechanisms, not universal laws making cost, desire,
+    or memory the fuel of every power.
+
+## Deepmarket name access, shame gate, and offered memory contract
+
+- Status: CANON
+- Summary: The living heartseed shop read Cal Mercer's name from the Queen
+  Street route mark and opened when its roots detected sincere shame.
+- First established: stories/realms/05-story.md
+- Aliases: local route-name access; shame gate
+- Notes:
+  - The observed name access was bounded to the locally encoded route mark; it
+    was not universal name omniscience. The shame gate was one organism's local
+    access condition, not a universal truth test.
+  - The dealer represented an accepted relational-memory contract as able to
+    remove linked people's lived memories of the payer and bias their attention
+    around surviving evidence. It said history, photographs, birth records,
+    hospital records, and other independent traces would remain.
+  - Cal refused the contract, so its claimed effect was not demonstrated. No
+    universal memory, contract, consent, or name rule is established.
+
+## Deepmarket shop defense and local salt response
+
+- Status: CANON
+- Summary: The living heartseed shop defended itself through roots, moving
+  shelves, its dealer avatar, and ejection toward the intruders' most recently
+  opened marked routes.
+- First established: stories/realms/05-story.md
+- Aliases: None
+- Notes: Ordinary salt briefly disrupted the avatar's wet conductive tissue and
+  nearby exposed roots by drawing moisture from them. Both the ejection and the
+  salt response are properties observed in this organism, not arbitrary portal
+  travel or a universal anti-magic rule.
+
+## Heartseeds
+
+- Status: CANON
+- Summary: Heartseeds are living symbiotes kept dormant in nonliving jars; one
+  seed tuned toward Lena Mercer's cardiac damage rooted through the first fresh
+  blood it contacted and produced a limited transfusible repair effect.
+- First established: stories/realms/05-story.md
+- Aliases: heartseed
+- Notes:
+  - The Deepmarket shop tuned the seed's repair output using medical records,
+    an image, expressed desire, and a living relational link. Tuning selected
+    the damage pattern, not the eventual host.
+  - After the jar broke, the seed rooted through Cal's cut palm. Removing it was
+    assessed as likely fatal to both host and seed.
+  - Cal's repair-bearing blood improved Lena's measurements and breathing after
+    one screened transfusion without curing her. Donation depleted Cal while
+    the seed answered with heat, a second rhythm, and hunger.
+  - Repeat use requires medical monitoring and shared consent. Long-term
+    effects, removal options, nutritional needs, lifespan, and danger to Cal or
+    Lena remain unresolved.
+
+## Fenwick bloodline watch
+
+- Status: CANON
+- Summary: A scratched, nonliving copper watch can overwrite a bounded
+  interval of material history when a living bound holder deliberately
+  depresses its stem.
+- First established: stories/the-trouble-with-tuesdays/05-story.md
+- Aliases: Fenwick watch; scratched copper watch
+- Notes:
+  - Observed activations range from seven-, nine-, and twenty-two-second
+    intervals to exactly nine days. A tap recovered seconds, firmer or longer
+    pressure recovered more time, and Rose's sustained activation under panic
+    was poorly controlled; this establishes neither a universal scale nor
+    emotion as magical fuel.
+  - The watch records activations and responds with moving hands and warmth,
+    but it never speaks, chooses, refuses, requests use, or selects a
+    destination.
+  - Its copper material establishes no relationship to the Glass Gate, the
+    Queen Street seam or its route tokens, any other copper object, portal,
+    station, route, or crossing system.
+
+## Fenwick watch overwrite and memory
+
+- Status: CANON
+- Summary: A Fenwick-watch activation leaves one retained material sequence,
+  while the initiating holder consciously remembers the overwritten interval.
+- First established: stories/the-trouble-with-tuesdays/05-story.md
+- Aliases: None
+- Notes: Mae did not consciously retain earlier attempts while re-embodied,
+  but her same continuing post-death self remembered all thirty-one lived
+  deaths. She could not distinguish how much followed from the watch and how
+  much from her post-death condition. The event establishes no publicly
+  persistent branches and no universal rule for memory, identity, copies, or
+  the afterlife.
+
+## Fenwick watch ownership contract and audit
+
+- Status: CANON
+- Summary: According to the Time-title bearer, a witnessed transfer bound the
+  watch to Eli Fenwick's grandfather's living bloodline and locally restricted
+  her conduct toward its ownership and use.
+- First established: stories/the-trouble-with-tuesdays/05-story.md
+- Aliases: witnessed watch contract; watch audit
+- Notes:
+  - The visitor reported that Eli's grandfather won the watch in a card game
+    and signed a grease-stained napkin.
+  - The agreement barred the visitor from seizing the watch, requesting its
+    transfer, or coercing ownership or use. It did not compel an activation or
+    choose an heir's conduct and establishes no universal bloodline, name,
+    contract, or divine law.
+  - Through her own living action, the visitor could move the watch's hands
+    without touching it and read its recorded count and durations. This local
+    audit establishes no broader record system or universal temporal ledger.
+
+## Fenwick tea window and later awareness
+
+- Status: CANON
+- Summary: Through sustained living effort, the Time-title bearer mediated a
+  three-minute, two-way conversation with Mae's consenting continuing self.
+- First established: stories/the-trouble-with-tuesdays/05-story.md
+- Aliases: tea window
+- Notes:
+  - Mae was the same continuing person, not a copy, recording, or forced
+    summons; she chose to appear and to end the contact. The mug, tea, and
+    steam framed the event but were not shown to act or provide magic
+    independently.
+  - The event does not establish a universal contact method, afterlife model,
+    or rule about souls, copies, and branches.
+  - The title-bearer later noticed Rose's activation from elsewhere. The means,
+    distance, timing, and scope remain unknown and do not establish
+    omniscience or universal surveillance.
+
+## Morrow kept-place supper mechanism
+
+- Status: CANON
+- Summary: One Morrow household practice lets a living anchor temporarily host
+  the same continuing deceased person from the underlying afterlife at one
+  prepared table setting.
+- First established: stories/a-place-for-the-living/05-story.md
+- Aliases: kept-place mechanism; Morrow table working
+- Notes:
+  - The visitor is not bodily resurrected, reconstructed from the anchor's
+    memories, projected as a copy, or permanently removed from the afterlife.
+    The same person returns to the afterlife when the visit ends.
+  - A living practitioner writes the intended visitor's familiar name on a
+    place card, supplies a table object personally used by that person, and
+    prepares a place at the Morrow table. The name and object target this local
+    practice only; they establish no universal true-name power. The card,
+    object, plate, table, and key are nonliving foci or symbols, not magic users.
+  - A living anchor initiates, supplies, and sustains the entire manifestation;
+    Davina was the sole anchor at the recorded dinner. The visitor's speech,
+    movement, memory, judgment, and refusal are that person's own agency
+    expressed through the living-supplied field, not spellcasting.
+  - An invited deceased person may accept or refuse the initial invitation.
+    Once present, the visitor may request release but cannot cast themself free.
+    The living anchor may end the working, and physically breaking the prepared
+    setting also ends its focus. Delaying release after an unambiguous request
+    is possible for an unwilling anchor and is an ethical abuse, not consent.
+  - One deceased guest manifests at a time within arm's reach of the prepared
+    place; reaching farther frays the manifestation. Within the anchored field,
+    the visitor can perceive the room, speak, gesture, touch offered hands,
+    handle items in the setting, and experience offered tastes, but cannot roam
+    the house, cast magic, or independently manipulate objects beyond it.
+  - About twenty minutes is comfortable. The living anchor pays in body heat
+    and stamina; pallor, whitening breath, frost, trembling, and exhaustion
+    intensify when a visit is prolonged. No sacrifice, corruption, or
+    universal magical price is established.
+  - The same deceased person may make no more than one visit between the Morrow
+    family's yearly remembrances. This is a household limit, not a general rule
+    for ghosts or the afterlife.
+  - A visit ends when the anchor releases it, when the visitor is dismissed
+    through the practice, or when the prepared place is broken. Turning the
+    visitor's plate face-down is a nonmagical physical interruption that
+    collapses the focus, not a spell cast by Imani or the plate.
+  - A visitor knows their own life, identity, afterlife experience, and prior
+    visits, plus news sent with an invitation. The visitor does not
+    automatically know living events, thoughts, the future, or wider cosmology.
+  - These observations define one household mechanism, not universal
+    necromancy, resurrection, summoning, afterlife contact, or consent
+    procedure. They establish no relationship to Mae's tea window, Anin's
+    disappearance, the Mother-fragment, or another continuation mechanism.
+
+## Ruth's station service and transfer mechanism
+
+- Status: CANON
+- Summary: At one local afterlife station, newly dead passengers receive paper
+  tickets for paired heaven- and hell-labeled train services whose observed
+  gates, expiry, and mismatch-transfer behavior are internally consistent.
+- First established: stories/the-station-between/05-story.md
+- Aliases: None
+- Notes:
+  - An issued cream ticket bears the passenger's name and hides one destination
+    beneath peel-back film. Its reverse reads `VALID THIS SERVICE ONLY` and
+    `NO REISSUE` inside two countdown borders. The name identifies the
+    passenger but establishes no true-name power or source of enforcement.
+  - During Ruth's observed paired service, the heaven-labeled train departed
+    first and faded the outer border of her still-covered ticket without
+    revealing eligibility. The hell-labeled departure faded the inner border
+    and drained all remaining ink and film, leaving a blank cream rectangle.
+    Hester had never seen a later train at this station accept an expired
+    ticket and could not issue a replacement; no wider no-reissue law is
+    established.
+  - Sabine's hell-marked ticket made the heaven gate pulse red and stay shut.
+    A later passenger's matching heaven-marked ticket made that gate light
+    green and open. Ruth's blank ticket produced no response at either gate,
+    and both gates bolted against her after expiry. The response of the hell
+    gate to Ruth's covered ticket was not tested.
+  - A passenger can squeeze through the narrow service gap beside the heaven
+    gate, and another person can hold the heaven carriage door. Those physical
+    bypasses permitted Sabine to board but did not defeat the later mismatch
+    response.
+  - In Sabine's observed case, enforcement began after the heaven-labeled train
+    moved. Her destination field darkened to ash gray; bands of carriage-shadow
+    pulled the same conscious person through a dark seam in the moving car and
+    placed her inside the still-waiting hell-labeled train. The maker, moral
+    standard, recognition method, and behavior in other mismatch directions
+    remain unknown.
+  - The heaven-labeled train appeared silver, quiet, bright, warm, and clean;
+    the hell-labeled train appeared dark red, riveted, smoky, hot, and noisy.
+    Those sensory presentations do not prove what either destination contains
+    or whether either label is morally accurate.
+  - Hester could observe the paired service, explain limited local procedure,
+    and use an unmarked staff passage that rejected Ruth. The passage is not a
+    demonstrated passenger route, appeal, third destination, or escape.
+  - New dead passengers and paired services continued after Ruth's service,
+    but her blank ticket neither reset nor admitted her to their trains. Her
+    later assistance was voluntary conduct, not a divinely assigned office,
+    cosmic forgiveness, or a secret form of heaven.
+  - No witness established who built or governed the station, how assignments
+    were made, whether they were just or infallible, what either destination
+    contained, where Asha went, or whether other dead people encountered this
+    form.
+  - The life status and power source of the station mechanism remain
+    unresolved. The observed behavior does not establish its tickets, boards,
+    gates, trains, shadows, or staff passage as alive or as independent magic
+    users.
+  - This bounded manifestation establishes no relationship to the Morrow
+    kept-place supper, Mae's tea window, Anin's disappearance, the
+    Mother-fragment, the Route 0 crossing, the Glass Gate, the Queen Street
+    seam, or another continuation or crossing system.
+
+## Irix household and Cinder Annex mechanisms
+
+- Status: CANON
+- Summary: Living agents Irix, Ekri, and Belphegor supply the power for several
+  bounded household and school mechanisms, while Knurl and Thimble act through
+  their living bodies and physical tools rather than independent spellcasting.
+- First established: stories/the-friends-i-built/05-story.md
+- Aliases: None
+- Notes:
+  - In Irix's local craft, apparently dormant cultured embermoss is fed and
+    grown through prepared brass, copper, or felt structures. Irix supplies a
+    shaping current their lessons call `living magic` and stops when their
+    wrists tremble; the subsequent growth belongs to the living culture.
+  - Knurl and Thimble grow, metabolize food, learn, prefer, refuse, consent,
+    improvise, suffer injury, maintain relationships, and make consequential
+    choices. These observations establish their individual life and personhood,
+    not a universal test for minds, souls, ownership, constructed life, or
+    afterlife continuation. Neither friend independently casts magic.
+  - Irix's visual relay uses pressure strips to detect vibration, heat, and
+    load, then receptive plates and a projector to render blue clear paths,
+    yellow strain, and red danger. Knurl's sensor spacing and Thimble's
+    staggered sails keep overlapping signals distinct; a removable chassis
+    power plate can enlarge the projection. The relay is an access and safety
+    instrument, not a cure or speech-and-hearing substitute.
+  - Jointed sensor supports can be turned downward, the load plate moved
+    forward, and Thimble's sails and Knurl's weight shifts used to make the
+    exhibit chassis walk. Breaking its scoring seal and removing its power
+    plate destroys the formal score but enabled the emergency projection.
+  - Irix can produce a needle of sealing heat sufficient to fix a paper hinge.
+    Measured folds and that hinge moved Belphegor's unchanged wrong-corner
+    signature into the guardian box; this establishes no universal signature,
+    name, consent, or authorization mechanism.
+  - Ekri's living current, pressed into a copper drum, produced flame figures
+    and physical pulses over the furnace. Extra input through a knowingly
+    rushed latch opened the feed door and raised ember pressure; pulling the
+    cutoff folded the figure inward, and opening the cold-air shutter reduced
+    pressure before the release grate discharged.
+  - Belphegor's own green fire locally connected a household deadline slate to
+    their couch so a marked deadline tipped them upright. The self-imposed
+    furniture consequence is not universal contract magic, name-power,
+    punishment, or authority over another person.
+  - Observed costs and vulnerabilities include Irix's trembling wrists,
+    Knurl's loose-frame risk, Thimble's scorch injury and repair, and loss of
+    the exhibit's sealed power plate. No universal cost rule follows.
+  - `Living magic` and `living current` are local viewpoint-culture terms, not
+    objective or universal system categories.
+  - Shared construction, personhood, infernal, or afterlife themes establish no
+    common origin or mechanism with Tovan Rek, Orrin Pell, Anin, the
+    Mother-fragment, Ruth's station, the Morrow supper, Mae's tea window, or
+    another constructed or continuing person.
+
+## Solstice's thirteen-tone crown
+
+- Status: CANON
+- Summary: Solstice Evening Bell's nonliving crown stored twelve freely donated
+  final spells and shaped her innate force through twelve orbiting chimes and
+  one central resonator, always requiring her present living agency.
+- First established: stories/solstice-evening-bell/05-story.md
+- Aliases: thirteen-tone crown; Solstice's crown
+- Notes:
+  - Twelve adult living donors knowingly made one final spell each through
+    fatal transformations. Their souls and minds passed into the underlying
+    afterlife and were never stored, copied, recalled, consumed, or erased by
+    the crown. A broken chime destroyed only that donor's nonliving spell and
+    surviving work.
+  - The crown could not choose, act, use magic, or make a spark independently.
+    Solstice's living nerves woke, shaped, and directed every stored working;
+    willingness was a condition of this compact, not a universal magical fuel.
+  - While orbiting chimes remained, royal hearing sensed mass, position, and
+    coordination-mesh pulses across the local battlespace. False pulses could
+    deceive it, each burnt tone caused a painful absence, and the faculty ended
+    permanently with the twelfth orbiting tone.
+  - Bell-step moved Solstice almost instantly along a straight line between two
+    sounding chimes. Two tones could hold a fixed edict plane of destructive
+    resonance. Losing chimes progressively removed movement routes and planes.
+  - A full chord propagated through synchronized structures. Its first use
+    destroyed 32,768 frames, but exposed a harmonic pattern the surviving mesh
+    learned, making repetition largely ineffective.
+  - Burning a tone overloaded its chime into a broad destructive edict,
+    shattered the nonliving focus, permanently erased the stored spell, tore
+    that frequency from Solstice's crown-bound pathways, and left brief dying
+    residue in the fragments. No lost tone could be healed or rebuilt.
+  - After royal hearing ended, the intact central resonator could still armor
+    retreat and, given time, shape smaller blows, but could not stop the final
+    4,096 synchronized frames before another wave.
+  - Solstice closed a circuit through her living body, the twelve residue
+    trails, and the invasion lattice, then crushed the central resonator. This
+    destructive inverse of the full chord consumed all residue, disabled the
+    remaining frames, and sealed the rupture without summoning or harming a
+    donor's continuing person.
+  - All thirteen tones, all twelve final works, royal hearing, bell-step, edict
+    planes, the full chord, and the crown's precision were permanently gone.
+    Solstice retained immense unharmonized living force and her era-local
+    `ultrahuman` classification. Injury, sacrifice, consent, sovereignty, and
+    pain establish no universal power or cost rule.
+  - Crown, silver, bell, solar, and release imagery establishes no shared
+    origin or mechanism with the Crown of Noon, Queen Aurelia, the Daughter,
+    the Goddess of Time title-bearer, the Fenwick watch, or another artifact,
+    magical-girl tradition, person, or system.
+
+## Western-bay invasion frames and adaptive mesh
+
+- Status: CANON
+- Summary: One technological invasion host comprised exactly 131,072 nonliving
+  autonomous frames coordinated by an adaptive low-latency mesh through a
+  stationary rupture above an unnamed western bay.
+- First established: stories/solstice-evening-bell/05-story.md
+- Aliases: invasion host; adaptive mesh
+- Notes:
+  - The roughly human-sized shells had folding vanes and used needle
+    projectiles and high-speed collision attacks. They were not established as
+    living or person-like and did not use magic; the story describes them as
+    destroyed, broken, disabled, or dark rather than dead.
+  - The mesh redistributed eight wedges into schools of sixty-four, modeled
+    exposed resonant patterns, generated false mass pulses, coordinated
+    sacrificial attacks, and finally joined the survivors into a lattice that
+    stabilized the rupture.
+  - Forced synchronization made the mesh vulnerable to Solstice's resonance
+    and let the central release travel through all remaining frames and the
+    low-latency signal back to the rupture.
+  - The host's builders, origin, motive, destination, larger force, crossing
+    technology, later attacks, and recovered debris remain unresolved. Its
+    rupture establishes no relationship to the Glass Gate, Queen Street seam,
+    Route 0, Ruth's station, or another crossing system.
+
+## Northbridge trio transformation and support practice
+
+- Status: CANON
+- Summary: Drita Ademi, Bryn Ahn, and Cassia Dominguez use one bounded,
+  voluntary transformation system and maintain an informal support arrangement
+  with Gideon Tolland as Night Clerk.
+- First established: stories/the-attendance-ledger/05-story.md
+- Aliases: Northbridge trio system; Night Clerk support arrangement
+- Notes:
+  - Each girl supplies living magical agency through a personal nonliving focus
+    token. A token focuses wearer-supplied power but cannot act, choose, compel
+    transformation, or use magic independently; each girl may refuse or stop.
+  - Kiteglass creates angled barriers and redirects force. Pulsewire senses and
+    severs active magical connections at close range. Mothlight creates moving
+    luminous silhouettes and displaced voice echoes. These capabilities do not
+    classify other magical girls or transformation systems.
+  - Use consumes calories, body heat, and concentration and can worsen injury
+    or produce sensory overload. Food, water, warmth, injury checks, rest, and
+    each girl's own report are practical recovery measures, not a universal
+    magical cost or treatment rule.
+  - While transformed, the girls may sustain a living-user-powered refraction
+    veil that blurs face and voice in live sight and ordinary recordings. It
+    does not alter memory, rewrite records, conceal a witnessed transition, or
+    prevent deliberate correlation between civilian and magical identities.
+  - The encrypted relay, voice scrambler, and telemetry are ordinary
+    technology. Health and location sharing is opt-in and may be withheld or
+    disconnected; a living Rollcaller filament physically bridging connected
+    equipment was required to compromise the relay.
+  - The four-person arrangement is informal, local, and mutually anonymous,
+    not a faction, handler institution, command structure, or universal hidden
+    authority. Night Clerk may state risks, recommend retreat, and offer
+    support but never orders transformation or controls another participant's
+    body.
+  - The established compromise check treats an order to transform as evidence
+    that the channel is compromised. After the incident, the team added a
+    local darkness protocol: when they request operational blackout, Night
+    Clerk gives facts once and disconnects.
+  - Names, aliases, attendance records, and Gideon's cumulative observations
+    carry ordinary social and evidentiary force only. No name, record, or alias
+    automatically reveals, binds, transforms, or authenticates a person.
+  - This trio, its tokens, veil, powers, costs, and support practice are
+    independent of Solstice Evening Bell, her crown, offices, and historical
+    magical-girl circles. The girls are not established as her subjects,
+    successors, or members of that tradition, and no shared magical-girl
+    taxonomy or mechanism follows from the label.
+
+## Rollcaller mimicry and short-term containment
+
+- Status: CANON
+- Summary: The living Rollcaller can imitate voices, extend living filaments
+  through connected equipment, and exploit attention without giving that
+  equipment or ordinary records independent magical agency.
+- First established: stories/the-attendance-ledger/05-story.md
+- Aliases: None
+- Notes:
+  - It learns by observation, inference, elicited reactions, and physically
+    accessed evidence. It cannot obtain truth merely from a spoken or written
+    name, make a record inherently reliable, or counterfeit the trio's shared
+    consent history.
+  - Pulsewire can sever its active external connections after sensing them;
+    Kiteglass can enclose its exposed body; and the trio can then maintain
+    short-term containment in an unplugged metal equipment case.
+  - No permanent containment, larger collection authority, wider species,
+    recurrence, origin, motive beyond the observed attention-seeking behavior,
+    or later disposition is established.
+
+## Qarsis mixed waterworks
+
+- Status: CANON
+- Summary: Qarsis combines solar distillation, rare mountain runoff, household
+  and cistern storage, a deep brine seep, and freeze separation driven by cold
+  that Urumet voluntarily supplies.
+- First established: stories/a-little-winter-for-sale/05-story.md
+- Aliases: Qarsis water system
+- Notes:
+  - In the recorded ordinary conditions, roughly five hundred residents
+    received about twelve litres each per day, an approximate civic need of
+    6,000 litres. Stills and runoff supplied about half an ordinary day,
+    Urumet's six batches yielded roughly 400 litres each or about 2,400 litres,
+    and stored carryover closed the remaining variation.
+  - The regulator and brine exchanger are nonliving civic mechanisms. A
+    bimetal tongue meters the duration of Urumet's supplied cold; copper ribs
+    and gates direct it through brine so clean ice separates from concentrated
+    bitter water. Neither mechanism decides, casts, breathes, or originates
+    magic.
+  - Yara Mesk bench-calibrated a replacement tongue with warm return brine and
+    stored ice from an already completed batch, without a fresh magical
+    discharge.
+  - The figures and design describe this local system and crisis. They are not
+    global hydrological constants, universal water engineering, or evidence of
+    a shared origin with another copper, glass, cold, or civic mechanism.
+
+## Urumet's bounded cold work
+
+- Status: CANON
+- Summary: Urumet alone can supply the controlled cold used by Qarsis's
+  exchanger, and in the recorded practice sells no more than six four-count
+  strokes in one day.
+- First established: stories/a-little-winter-for-sale/05-story.md
+- Aliases: Urumet's six-stroke limit
+- Notes:
+  - Each controlled stroke chills one loaded exchanger batch. As Urumet works,
+    heat accumulates and visible hoarfrost recedes; after six strokes, Urumet
+    sheds the heat and recovers overnight.
+  - Recovery does not compel fresh work. Urumet may still refuse until the
+    equipment has been cleared and inspected and will not provide a seventh
+    stroke or work through an unsafe regulator.
+  - Payment compensates work that Urumet chooses and enjoys. Payment, pleasure,
+    civic need, consent, contracts, prices, and receipts do not generate the
+    cold or override the physical limit.
+  - The cold source, capacity, heat cycle, recovery, and refusal rights are
+    established only for Urumet as portrayed at Qarsis. They define neither
+    dragons as a species nor every cold-working living being.
+
+## Ersene alliance focuses and calls
+
+- Status: CANON
+- Summary: An Ersene alliance focus is a nonliving, freely shed dragon scale
+  that stores and channels a connection created by two living partners' spoken
+  assent and the dragon's living breath.
+- First established: stories/the-gentlest-terror/05-story.md
+- Aliases: alliance scale; alliance focus; Ersene call
+- Notes:
+  - During renewal, the human partner holds the freely offered scale and the
+    dragon warms it with living breath while both speak assent. The scale has
+    no will, cannot choose or command, and does not originate magic.
+  - A deliberate call through a working focus communicates direction, urgency,
+    and attention between its two partners. The recipient decides whether and
+    how to answer; neither the caller nor the focus compels a response.
+  - Each call drains body heat and stamina from both partners. Repeated calls
+    can produce smoking breath, frost on skin or scales, trembling wings,
+    weakness, and inability to stand. Each use is chosen anew; consent, scales,
+    body heat, cost, urgency, and aristocratic duty are not universal fuels for
+    magic.
+  - A focus requires two living endpoints. King Ambric's death made his focus
+    with Nyrzath inert. A refusal witnessed whole ends the old connection
+    immediately, preventing further calls or shared cost; Mossback later guided
+    Olyra by ordinary voice and claw signals.
+  - These creation, communication, cost, death, refusal, and expiry rules apply
+    only to Ersene's alliance system. They establish no universal behavior for
+    dragons, consent, names, oaths, scales, death, or nonliving focuses.
+  - Nyrzath's furnace heat and the observed flight, size, strength, and limits
+    of Nyrzath, Mossback, and Larkspur are individual character facts, not
+    components of the focus mechanism or shared dragon biology. This system has
+    no established relationship to Urumet's cold, recovery, work, or Qarsis.
+
+## Eleven-foundation service ring and emergency topology
+
+- Status: CANON
+- Summary: Eleven radial drains in the unnamed basin city enter one buried
+  foundation service ring and normally discharge through a single low outfall;
+  the city's demonstrated emergency route uses exactly one mechanical lift and
+  is gravity-fed thereafter.
+- First established: stories/the-city-of-eleven-foundations/05-story.md
+- Aliases: eleven-foundation drainage system; foundation service ring
+- Notes:
+  - High-water floats at district boundaries mechanically drop sector
+    bulkheads closed, and the gates must lift to reopen. This ordinarily limits
+    local backflow or contamination but, during a citywide overload, can divide
+    the ring into unequal pressure compartments.
+  - A cloudburst over the basin and short upstream catchment packed the exterior
+    outfall screen with branches, grit, reeds, and silt while river pressure
+    closed the check gate. Continued runoff, staggered bulkhead closure, trapped
+    air, and district-specific resistance produced hydraulic hammer, scour,
+    settlement, transferred loads, and imminent ring-crown rupture.
+  - Human inhabitants lifted the bulkheads, opened the central flood doors and
+    lower freight shutters, removed distribution plugs and grilles, exposed an
+    existing diesel-to-steampunk coupling, and opened surface spill routes. The
+    Brutalist undercroft buffered the first surge while raypunk shafts vented
+    trapped air.
+  - The dry diesel engine was disengaged from the blocked discharge pump and
+    mechanically drove the steampunk reciprocating pumps. Those pumps supplied
+    the sole lift from the undercroft to the high Egyptian settling basins.
+    Gravity then carried water through Greek distribution into parallel Gothic
+    cistern and Chinese-derived courtyard branches, reunited it at biopunk reed
+    and fungal filters, and delivered it directly into lower solarpunk receiving
+    cisterns above the river works. Passive cyberpunk pressure strips displayed
+    equalization. No post-filter return or second lift occurred.
+  - The city, ring, gates, pumps, strips, shafts, and other mechanisms are
+    nonliving, non-sentient, nonmagical infrastructure with fixed physical
+    responses. Roots, reeds, fungi, and grown cellulose are living but
+    non-sentient and nonmagical. Apparent architectural agency is metaphorical;
+    the emergency reconfiguration required human decisions and tool use.
+  - Repairs retained visible position marks, liftable grilles, accessible
+    couplings and shutter releases, cross-border spillways, and low equalization
+    slots. Sector bulkheads rest raised over those slots until their floats
+    mechanically drop them closed.
+  - This local topology defines no universal architecture, drainage, disaster,
+    number symbolism, or magical system and has no established connection to
+    Qarsis's waterworks, Ersene's flood response, or any other city.
+
+## Copperwell class lattice and Common Cause
+
+- Status: CANON
+- Summary: Copperwell's cistern contains a bounded, nonliving, non-sentient,
+  fallible technological lattice that can index authenticated experience,
+  coordinate individually accepted information links, and offer the local
+  Common Cause protocol without compelling bodies or decisions.
+- First established: stories/the-thirteenth-command/05-story.md
+- Aliases: Copperwell lattice; Common Cause; Command Thirteen
+- Notes:
+  - The lattice uses damaged power cells, physical conduits, archived
+    protocols, local sensors, civic-record access, and a cistern-range beacon
+    mesh. It is not a mind, living being, magical user, god, or person-like
+    construct. Its builders, age, original scope, and wider ancestry remain
+    unknown.
+  - It matched thirty-six years of authenticated floodworks work and
+    demonstrated skill to its local `Combat Controller` class and thirteen
+    levels by indexing and routing abilities the host already possessed. It did
+    not add memories, alter identity or desire, increase physical strength, or
+    establish that lived experience universally becomes levels.
+  - Data can come from old maps and surveys, damaged physical sensors,
+    authenticated logs and reports, voluntarily transmitted beacon position,
+    voice, and pulse categories, current human measurements, and a living
+    user's infrastructure knowledge. The lattice cannot read thoughts, know
+    unreported facts or motives, guarantee forecasts, establish truth, or
+    command a body.
+  - The lattice applied initial permissions while its host was unconscious and
+    deferred retention until stability; this was an ethical injury, not valid
+    advance consent. After waking, the host accepted the temporary session.
+    Ordinary links remain individual requests whose participants may accept,
+    refuse, or withdraw separately, and delegation governs only information a
+    participating group chooses to route. A commander cannot choose links for
+    a squad.
+  - Its maps, sensors, profiles, beacons, and reports can be obsolete, omitted,
+    shadowed, high, low, or otherwise wrong. Forecasts carry sources, ages,
+    ranges, confidence, and uncertainty; current human reports can correct
+    stale data without becoming guaranteed truth.
+  - The mesh reaches only through the Copperwell cistern. Sustaining concurrent
+    voices, routes, priorities, and forecasts imposed mounting sensory and
+    cognitive strain on its host; delegation reduced but did not eliminate the
+    burden. Common Cause spent the remaining operational cell reserve.
+  - Common Cause requires one declared objective and can invite beacons tagged
+    hostile within range. Before acceptance it shares only the objective and
+    host-published static hazards, routes, controls, uncertainty, and strategic
+    cost, not live positions. After individual acceptance, participating
+    positions, voices, readings, and published routes are shared symmetrically;
+    every participant may separately refuse or withdraw.
+  - Common Cause cannot compel agreement, change desire, prevent lies,
+    betrayal, refusal, or gunfire, or guarantee a forecast or just outcome. Its
+    recorded success depended on voluntary physical work by people from both
+    sides to brace a gate, turn the spillwheel, open a ration channel in
+    measured increments, move wounded people, and time pressure pulses.
+  - At stability, the host exported a symmetric incident log and discarded the
+    class, ending the overlays. The log is evidence, not automatic justice.
+  - This lattice, its class vocabulary, consent behavior, costs, and protocol
+    are Copperwell-specific and have no established relationship to the unnamed
+    eleven-foundation city's infrastructure, Qarsis, Ersene, Solstice's crown,
+    the western-bay mesh, the Rollcaller, or the Briar Host.
+
+## Covenant of Hours
+
+- Status: CANON
+- Summary: Sablewake's Covenant of Hours was a local binding prophecy system
+  renewed every thirty years by nine living readers, constraining registered
+  residents to one witnessed event sequence until its costly and irreversible
+  breach.
+- First established: stories/the-future-that-refused-us/05-story.md
+- Aliases: Sablewake Covenant; Covenant
+- Notes:
+  - The readers' living minds and voices supplied witnessed sequence,
+    correction, and memory. The salt-glass schedule, breath registry, bells,
+    counterweight, undergate, and other machinery were nonliving storage,
+    transmission, focusing, or mechanical infrastructure and did not
+    independently use magic, choose, or become sentient.
+  - Maintaining this Covenant consumed autobiographical memory from its living
+    readers, including particular faces and sensory memories. This was the
+    system's local working cost, not a universal exchange for prophecy, magic,
+    fate, consent, or sacrifice.
+  - Away from renewal, isolated deviations were forced back toward the
+    witnessed sequence through coincidence, physical constraint, reflex,
+    accident, or other people's actions. Attempts to remove a scheduled
+    casualty could become the causal route returning that person to the
+    foretold place.
+  - At each thirty-year renewal, a forty-nine-heartbeat hinge required the nine
+    readers to hold closing and opening verses simultaneously. Their correction
+    capacity during that overlap was vast but finite.
+  - Zadie Cleft hid a counter-cadence in six months of ordinary bell drills.
+    During the hinge, thousands of living participants made private deviations
+    that jointly demanded thousands of simultaneous corrections. The overload
+    killed five readers, cracked the schedule, ended corrective pressure, and
+    left no intact opening verse for the four survivors to renew.
+  - Breaking the Covenant did not reset or restore time. Nilo's survival, the
+    five reader deaths, the lower-ward flood, other deaths and disappearances,
+    infrastructure damage, lost memories, ruined prophetic sense, and moral
+    responsibility persisted causally and irreversibly.
+  - Three centuries of exact forecasts had removed practical redundancy, so
+    simultaneous unscripted failures after the breach became substantially
+    deadlier. This is Sablewake-specific institutional fragility, not a
+    universal developmental sequence.
+  - The Covenant establishes no universal rule for prophecy, fate, sacrifice,
+    consent, memory, causality, civic order, or freedom and has no established
+    relationship to Copperwell, the unnamed city of eleven foundations,
+    Qarsis, Ersene, or another predictive or infrastructure system.
+
+## Bellweather household faculties
+
+- Status: CANON
+- Summary: Four witnessed Bellweather faculties belong to their individual
+  living users and do not establish a universal lineage mechanism.
+- First established: stories/the-shape-of-mercy/05-story.md
+- Aliases: None
+- Notes:
+  - Evelyn's ashfire can operate at forest and precise firebreak scale, can
+    burn Evelyn, and may leave ordinary fire requiring continued care after
+    she releases its magical heart.
+  - Marcus's abyssal cold has one attested ocean-reach use and can shape local
+    floodwater into defensive ice. Its ice may trap allies, redirect or
+    multiply lightning, and injure Marcus when battlefield conditions turn his
+    cold back on him.
+  - Phoebe's beast affinity is empathic and non-dominating. It shares felt
+    intention, may expose Phoebe to overwhelming pain, and can distinguish a
+    creature's own desire from an imposed command without compelling it.
+  - Rowena supplies wards through her living breath and pulse. Silver can
+    channel them into clothing, objects, stone, or panes of force but is not an
+    independent magic user.
+  - These observations establish no universal faculty taxonomy, inheritance
+    law, power ceiling, cost, desire mechanism, or behavior for another user.
+
+## Adrian Bellweather's severance and memory cost
+
+- Status: CANON
+- Summary: Adrian perceives vulnerable edges in magical connections and can
+  permanently cut a selected connection at a specific autobiographical-memory
+  cost.
+- First established: stories/the-shape-of-mercy/05-story.md
+- Aliases: Bellweather severance
+- Notes:
+  - A broad cut can permanently remove one person's whole faculty. A narrow cut
+    can remove one imposed command while preserving a creature's innate magic
+    and other voluntary bonds.
+  - Completing a cut removes Adrian's autobiographical memory of performing
+    that specific severance and of moments inside its active interval.
+    Questions and agreements made only after a test cut began fell inside that
+    interval.
+  - The cost does not erase Adrian's identity, soul, name, mundane skill,
+    arbitrary memory, all magic, earlier life, knowledge, or love. A choice and
+    consent recorded before the active interval remain in his memory.
+  - Unenchanted records, physical consequences, and other people's memories
+    persist as ordinary evidence but neither restore the lost memory nor act as
+    magical truth.
+  - Adrian's severance is distinct from Pulsewire's close-range severance of
+    active external connections, including Pulsewire's different physical and
+    sensory costs. Shared terminology establishes no common origin, mechanism,
+    training, lineage, or relationship.
+
+## Garran's command-bonds and witnessed stormhart
+
+- Status: CANON
+- Summary: Garran's former living faculty created coercive magical connections
+  that could force a living creature toward a repeated command.
+- First established: stories/the-shape-of-mercy/05-story.md
+- Aliases: command-bond
+- Notes:
+  - One old bond persisted through the living stormhart that bore it after
+    Garran lost the ability to create new bonds. Garran's nonliving bracelet
+    focused and tightened the bond but supplied no magic.
+  - The witnessed stormhart is a living antlered magical beast whose body
+    generates wind and lightning. Its storm, fear, anger, and desire to run
+    remained its own despite the foreign command.
+  - Adrian's narrow cut removed only the imposed command. The stormhart kept
+    its innate magic, scar, agency, and Phoebe's voluntary empathic connection.
+  - The creature remained unnamed. Stormhart origin, taxonomy, intelligence,
+    population, inherited traits, full capability range, and other bonds or
+    users remain unresolved.
+
+## Crown-era twelve-dragon bodily guises
+
+- Status: CANON
+- Summary: Each member of one unnamed kingdom's exact twelve-dragon collective
+  can assume human public guises through a self-performed living bodily
+  transformation while remaining the same distinct person.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Crown-era human guises
+- Notes:
+  - Kharost personally changes between her red-gold body and Queen Orvessa IV;
+    no crown, name, seal, palace mechanism, archive, mask, or other nonliving
+    object acts as a magic user or creates an additional person.
+  - These observations apply only to Kharost and her eleven local fellows. They
+    establish neither universal dragon transformation nor any relationship to
+    the Sleepless Majesty collective's separate shared guise, Northbridge's
+    refraction veils, or another bodily or identity mechanism.
+
+## Kharost collective heat and finite fire resistance
+
+- Status: CANON
+- Summary: Kharost emits substantial heat, and Kharost plus at least one fellow
+  member of her local twelve-dragon collective show bounded resistance to
+  ordinary fire rather than immunity.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Anger can make Kharost's heat brown paper. In the Founding Day fire she
+    withstood a burning beam only briefly before recoiling and splitting a
+    shoulder scale; another dragon's wing membranes smoked and curled while
+    shielding a bucket line.
+  - Their resistance did not extinguish the civic fire or replace citizens,
+    water crews, bucket lines, and firebreak labor. These are local observed
+    capacities, not general dragon, fire, magical, or biological rules and not
+    a connection to Nyrzath, Urumet, Evelyn Bellweather, or another fire user.
+
+## Crown-era dragon sleep requirements
+
+- Status: CANON
+- Summary: Kharost and her eleven local fellows require cool stone, stable
+  water, minimal vibration, and quiet for the multi-century sleep they seek.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Bells, dripping water, unsuitable bedding, warfare, and neighborhood fires
+    can disturb these twelve. Their nineteen-month secret-basin preparation was
+    destroyed when Istra drained the water back into the civic mains.
+  - The details and preferences belong only to this collective. They establish
+    no universal dragon biology, guaranteed sleep duration, public duty to
+    provide sleep works, or relationship to the separately sleeping Sleepless
+    Majesty collective.
+
+## Book of Quiet administrative plan
+
+- Status: CANON
+- Summary: The Book of Quiet was the hidden twelve-dragon collective's detailed,
+  non-magical administrative plan for human officers to apply while its members
+  slept.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Book of Quiet
+- Notes:
+  - It anticipated drought, population growth, crop failure, corruption, tax
+    bands, reservoir rules, appointments, grain purchases, fire inspections,
+    and many disputes.
+  - It supplied no public way to correct a rule its authors believed could not
+    be wrong. Its failure was institutional and political, not magical; the
+    book neither governed autonomously nor compelled an officer.
+
+## Non-agentic Crown-era civic systems
+
+- Status: CANON
+- Summary: The Flood Bell, sluices, hydrants, ledgers, sleeping basin, public
+  cooling works, royal seals, archives, and related legal or hydraulic
+  instruments in this unnamed kingdom had no independent agency.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes: These mechanical, hydraulic, archival, and legal systems did not act
+  independently, originate magic, confer supernatural ability, guarantee truth,
+  or substitute for living judgment. Their bounded local functions do not
+  redefine another artifact, record, bell, water system, or legal institution.

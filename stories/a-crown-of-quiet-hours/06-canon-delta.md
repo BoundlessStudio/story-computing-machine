@@ -228,7 +228,7 @@ Final character-facing inventory:
   works, and the Charter occupy previously unspecified local invention space.
 - The story leaves its era and regional placement unspecified and establishes
   no connection to a named era, portal, deity, artifact, institution,
-  character, or legacy source.
+  character, or archive record.
 - The proposed worship structure remains compatible with the existing godhood
   taxonomy by keeping worship, present legal authority, and living draconic
   power attached to distinguishable identities and offices. The proposal does
@@ -241,4 +241,3 @@ Final character-facing inventory:
 None. Do not promote any entry from this delta, mark the story canon, or alter
 authoritative universe notes without explicit user approval and the separate
 canon-maintenance workflow.
-

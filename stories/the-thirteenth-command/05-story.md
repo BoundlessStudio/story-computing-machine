@@ -1,8 +1,6 @@
 ---
 title: "The Thirteenth Command"
 slug: "the-thirteenth-command"
-status: candidate
-canon: false
 created: 2026-07-27
 ---
 

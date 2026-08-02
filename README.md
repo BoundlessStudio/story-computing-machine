@@ -1,71 +1,47 @@
 # Story Computing Machine
 
-A project-local Codex story room for writing short fiction in one shared
-universe. Give Codex a prompt tagged `[WP]`; the project instructions route it
-through canon research, story architecture, drafting, continuity review, and a
-final edit followed by review of the reader-facing story.
+A project-local Codex story room for short fiction in a shared universe. A prompt tagged `[WP]` moves through canon research, planning, drafting, continuity review, final editing, name validation, and release validation.
 
 ## Quick start
 
-1. Open this repository as the Codex workspace.
-2. Add known setting facts to `universe/` (or ask Codex to help seed them).
-3. Start a new task with a prompt such as:
+1. Create or switch to `codex/story-<slug>` from current `main`.
+2. Open this repository as the Codex workspace.
+3. Submit a prompt such as:
 
    ```text
    [WP] Every city has a ghost assigned to it. Tonight, ours resigns.
    Target: about 3,000 words; close third person; melancholy but hopeful.
    ```
 
-4. Codex creates `stories/<story-slug>/` and keeps the prompt, canon brief,
-   plan, draft, review, final story, and proposed canon changes together.
+4. The workflow keeps the prompt, authority inventory, brief, plan, draft, review history, final story, canon delta, handoff ledger, lifecycle record, and release decision together under `stories/<slug>/`.
 
-If length, point of view, or tone are omitted, the workflow records reasonable
-defaults instead of stopping for low-impact questions.
+A completed workflow produces a non-canon candidate. Canon promotion is a separate explicit decision.
 
-## On-demand prompt calibration
+## Trust and branches
 
-Ask `Run the prompt calibrator` to get a diverse comparison set drawn from ranks
-11–100 in the latest archived prompt ranking. Ordering that set records
-comparative taste evidence. The agent is not scheduled.
+The repository relies on the current checkout, Git chronology, strict schemas, transactional writes, specialist boundaries, pull-request co-change policy, automated checks, and human acceptance. It does not maintain a parallel custom file-fingerprinting system.
 
-Historical prompt rankings, deduplication IDs, feedback, and calibration history
-live in `data/prompt-scout/`. Ranked prompts remain non-canon until separately
-sent through the story workflow.
+Story and universe changes are refused on `main`. Local story branches run focused checks; pull requests run the full repository and reader-site suite. `main` is intended to accept only current, passing squash merges through protected pull requests.
 
-## Project layout
+## Layout
 
-- `AGENTS.md` — the project director and non-negotiable workflow rules.
-- `.codex/agents/` — project-scoped specialist roles Codex can delegate to.
-- `.agents/skills/` — reusable workflows and their owned supporting scripts.
-- `data/` — persistent operational state shared by project workflows.
-- `universe/` — the authoritative shared-universe notes.
-- `stories/` — one directory per story plus an index and reusable template.
+- `AGENTS.md` — workflow, lifecycle, ownership, and branch rules.
+- `.codex/agents/` — narrow specialist roles.
+- `.agents/skills/` — workflows and integrity scripts.
+- `schemas/pipeline-contract.json` — strict shared record contract.
+- `universe/` — authoritative setting notes.
+- `stories/` — production story bundles, index, registry, and legacy attestation.
+- `sources/` — inert evidence and decision history.
+- `pages/` — deterministic reader-site builder.
 
-## GitHub Pages
+`story.json` v2 is lifecycle authority. `authority.json` v2 names the base commit and admitted authority inventory. `handoffs.json` v3 preserves ordered specialist work. `release.json` v3 records the review/name basis for publication. `promotion.json` v2 records one authorized canon transaction.
 
-The Pages workflow builds a reader site from publishable
-`stories/*/05-story.md` files. Its homepage links to every candidate, final,
-abandoned, or apocryphal story, displays each available `[WP]` from
-`00-prompt.md`, and separately links to readable historical legacy sources.
-Legacy pages are retrieved from the exact Git revision recorded in
-`pages/legacy-stories.json`, verified against their recorded SHA-256 digests,
-and clearly labeled as unreviewed adaptation seeds rather than canon. Pull
-requests validate the build; relevant pushes to `main` deploy it.
-
-To preview the generated files locally:
+## Validation
 
 ```powershell
-python -m pip install --requirement pages/requirements.txt
-python pages/build.py --output _site
-python -m http.server --directory _site
+pwsh -NoProfile -File .agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1
+pwsh -NoProfile -File tests/run.ps1
+python pages/test_build.py
 ```
 
-## Canon policy
-
-Universe notes are authoritative. Drafts and plans are never canon. A final
-story becomes shared-universe canon only after the user explicitly approves
-its canon promotion; until then, `06-canon-delta.md` records proposed additions
-without silently changing the setting.
-
-Codex detects repo skills automatically. If newly added custom roles do not
-appear in an already-open task, start a new task or restart Codex.
+The 24 user-reviewed legacy stories are explicitly listed in `stories/legacy-acceptance.json`; no historical agent activity is fabricated for them.

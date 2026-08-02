@@ -162,7 +162,7 @@
 
 - `stories/NAMES.md` is non-canon production memory, but every reserved form in
   it remains unavailable for casual reuse across canon, candidates,
-  in-progress work, abandoned versions, and portable legacy sources
+  in-progress work, abandoned versions, and released reservations
   (`stories/NAMES.md` — `## Rules`).
 - `Belphegor` has no exact registered match, alias, or readily confusable close
   match. It is prompt-required rather than a newly proposed name. The primary
@@ -177,9 +177,9 @@
   character registry unless the school is personified or otherwise treated as
   a person-like identity.
 - The unresolved forms `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss` already
-  collide between distinct legacy identities and must not be repeated in this
+  collide between distinct in-progress story identities and must not be repeated in this
   story without an approved, story-significant rationale
-  (`stories/NAMES.md` — `## Known unresolved legacy collisions`).
+  (`stories/NAMES.md` — `## Known unresolved name collisions`).
 - Construct- or title-shaped forms are reservations too. In particular,
   `Mother-fragment`, `Captain`, `Saint`, `the Daughter`, `the Hollow Regent`,
   and `the Goddess of Time` already label named animals or person-like
@@ -247,5 +247,5 @@
   `## Continuity and evidence discipline`
 - `stories/INDEX.md` — `# Story index`
 - `stories/NAMES.md` — `## Rules`;
-  `## Known unresolved legacy collisions`
+  `## Known unresolved name collisions`
 

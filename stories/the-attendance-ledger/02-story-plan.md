@@ -295,7 +295,7 @@ them to decide and act beyond his sight.
 - The story has no crossover, lineage, monarchy, shared iconography, or system
   connection with Solstice Evening Bell, the First Monarch, any “queen of all
   magical girls,” any deity, Ravel, the Glass Gate, or another candidate or
-  legacy story.
+  historical story.
 
 ## Name check
 
@@ -313,7 +313,7 @@ or title used as a proper name is planned. `teacher`, `handler`,
 lowercase role descriptions, not aliases. `the team` is a common collective
 description, not a named group. Northbridge Secondary is a location, not a
 character-facing identity. The plan deliberately avoids every unresolved
-legacy collision and every reserved Solstice Evening Bell form.
+archive record collision and every reserved Solstice Evening Bell form.
 
 ## Proposed inventions
 

@@ -166,15 +166,15 @@
 - Avoid all reserved forms unless reuse has intentional story value and a
   documented identity/rationale/disambiguation decision. Combat-facing labels
   need special care: `Captain` is reserved as a named dog; `Kest` and
-  `Commander Kest` identify one legacy character; `Court Ghost`, `the Court
+  `Commander Kest` identify one released or non-canon character; `Court Ghost`, `the Court
   Ghost`, `Keeper Below`, `the Keeper Below`, `Regent`, `Hollow Regent`, and
   `the Hollow Regent` are reserved aliases or titles. Generic rank nouns remain
   usable, but using one as a person's name or sole identifier makes it
   character-facing (`stories/NAMES.md` — `Rules` and the corresponding
   character/entity rows).
 - Do not repeat the unresolved collisions `Lena`, `Mara`, `Nisha`, `Pell`, or
-  `Voss`; each already labels distinct legacy identities
-  (`stories/NAMES.md` — `Known unresolved legacy collisions`).
+  `Voss`; each already labels distinct in-progress story identities
+  (`stories/NAMES.md` — `Known unresolved name collisions`).
 - Watch close forms already called out by the registry: `Irix`/`Ilya`/`Ivo`,
   `Ekri`/`Eli`, `Talvi`/`Tavra`/`Tamsin`, `Marcus`/`Mara`, and
   `Oren`/`Orrin`/`Pell`. Prefer names distinct in spelling, cadence, and role
@@ -259,7 +259,7 @@
 - `universe/factions.md` — `Factions and cultures` (no entries currently).
 - `universe/retcons.md` — `Retcon log` (no approved entries currently).
 - `stories/INDEX.md` — `Story index` (no row currently marked canon `yes`).
-- `stories/NAMES.md` — `Rules`, registry rows, and `Known unresolved legacy
+- `stories/NAMES.md` — `Rules`, registry rows, and `Known unresolved archive record
   collisions` (production memory; not canon).
 - `AGENTS.md` — `Character-name discipline` and `Canon discipline` (production
   requirements; not in-world canon).

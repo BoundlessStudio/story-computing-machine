@@ -189,7 +189,7 @@
   checked and registered.
 - Do not add to the unresolved collision sets `Lena`, `Mara`, `Nisha`, `Pell`,
   or `Voss`. (`stories/NAMES.md` —
-  `## Known unresolved legacy collisions`)
+  `## Known unresolved name collisions`)
 - A cast involving roughly twelve dragons, human disguises, regnal identities,
   and political factions creates high alias risk. Check exact forms, given
   names, surnames used alone, close spellings, reversals, epithets, and offices
@@ -281,5 +281,5 @@
 - `stories/INDEX.md` — `# Story index` (production status; no listed canon
   stories)
 - `stories/NAMES.md` — `## Rules`, `## Character name registry`,
-  `## Known unresolved legacy collisions` (production memory; not canon)
+  `## Known unresolved name collisions` (production memory; not canon)
 

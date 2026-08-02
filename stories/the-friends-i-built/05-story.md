@@ -1,8 +1,6 @@
 ---
 title: "The Friends I Built"
 slug: "the-friends-i-built"
-status: candidate
-canon: false
 created: 2026-07-25
 ---
 

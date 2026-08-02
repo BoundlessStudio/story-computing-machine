@@ -1,2 +1,3 @@
-/data/prompt-scout/work/pending-*.json
 /_site/
+/.story-locks/
+**/__pycache__/

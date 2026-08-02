@@ -1,10 +1,6 @@
-#!/usr/bin/env python3
-"""Build the reader-facing story collection for GitHub Pages."""
-
 from __future__ import annotations
 
 import argparse
-import hashlib
 import html
 import json
 import re
@@ -12,560 +8,232 @@ import shutil
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Any
 
 import markdown
 
-
-REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
-STORIES_ROOT = REPOSITORY_ROOT / "stories"
-ASSETS_ROOT = Path(__file__).resolve().parent
-LEGACY_MANIFEST = ASSETS_ROOT / "legacy-stories.json"
-PUBLISHABLE_STATUSES = {"candidate", "final", "abandoned", "apocrypha"}
-PLACEHOLDER_TEXT = "No reader-facing final story yet."
-SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
-WORD_PATTERN = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
+REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
+SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 @dataclass(frozen=True)
-class Story:
-    title: str
+class StoryMetadata:
+    directory: Path
     slug: str
+    title: str
+    created: str
+    stage: str
     status: str
     canon: bool
-    body: str | None
+    user_disposition: str
+    publish: bool
+    promotion_date: str | None
+    provenance: str
+
+
+@dataclass(frozen=True)
+class PublishedStory:
+    metadata: StoryMetadata
+    body: str
     word_count: int
-    prompt: str | None
-    legacy_source_form: str | None
-
-    @property
-    def is_readable(self) -> bool:
-        return self.body is not None
-
-    @property
-    def is_legacy_source(self) -> bool:
-        return self.legacy_source_form is not None
-
-    @property
-    def is_reader_ready(self) -> bool:
-        return self.is_readable and not self.is_legacy_source
 
 
-def parse_front_matter(source: str, path: Path) -> tuple[dict[str, object], str]:
-    """Parse the deliberately small YAML subset used by story front matter."""
-    lines = source.lstrip("\ufeff").splitlines()
-    if not lines or lines[0].strip() != "---":
-        raise ValueError(f"{path}: expected YAML front matter")
+@dataclass(frozen=True)
+class Catalog:
+    stories: tuple[PublishedStory, ...]
 
+
+def read_json_object(path: Path) -> dict[str, Any]:
     try:
-        closing_line = next(
-            index for index, line in enumerate(lines[1:], start=1) if line.strip() == "---"
-        )
-    except StopIteration as error:
-        raise ValueError(f"{path}: front matter is not closed") from error
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"Cannot read valid JSON from {path}: {exc}") from exc
+    if not isinstance(value, dict):
+        raise ValueError(f"{path} must contain a JSON object")
+    return value
 
-    metadata: dict[str, object] = {}
-    for line_number, line in enumerate(lines[1:closing_line], start=2):
-        if not line.strip() or line.lstrip().startswith("#"):
-            continue
+
+def require_exact_fields(value: dict[str, Any], fields: list[str], path: Path) -> None:
+    missing = sorted(set(fields) - set(value))
+    extra = sorted(set(value) - set(fields))
+    if missing or extra:
+        raise ValueError(f"{path} fields differ; missing={missing}, extra={extra}")
+
+
+def load_pipeline_contract(path: Path | None = None) -> dict[str, Any]:
+    contract_path = path or REPOSITORY_ROOT / "schemas" / "pipeline-contract.json"
+    value = read_json_object(contract_path)
+    if value.get("schemaVersion") != 2 or value.get("trustModel") != "git-pr-human-review":
+        raise ValueError(f"Unsupported pipeline contract in {contract_path}")
+    return value
+
+
+def parse_front_matter(content: str, path: Path) -> tuple[dict[str, str], str]:
+    normalized = content.replace("\r\n", "\n").replace("\r", "\n")
+    if not normalized.startswith("---\n"):
+        raise ValueError(f"{path} lacks required frontmatter")
+    end = normalized.find("\n---\n", 4)
+    if end < 0:
+        raise ValueError(f"{path} has unterminated frontmatter")
+    metadata: dict[str, str] = {}
+    for line in normalized[4:end].splitlines():
         if ":" not in line:
-            raise ValueError(f"{path}:{line_number}: invalid front matter field")
-        key, raw_value = line.split(":", maxsplit=1)
-        key = key.strip()
-        value = raw_value.strip()
-        if not key:
-            raise ValueError(f"{path}:{line_number}: empty front matter key")
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
-            value = value[1:-1]
-        if value.lower() in {"true", "false"}:
-            metadata[key] = value.lower() == "true"
-        else:
-            metadata[key] = value
-
-    return metadata, "\n".join(lines[closing_line + 1 :]).strip()
+            raise ValueError(f"Malformed frontmatter line in {path}: {line}")
+        key, raw = line.split(":", 1)
+        value = raw.strip().strip('"').strip("'")
+        metadata[key.strip()] = value
+    return metadata, normalized[end + 5 :]
 
 
-def markdown_text(value: str) -> str:
-    """Return a conservative plain-text representation for word counting."""
-    value = re.sub(r"```.*?```", " ", value, flags=re.DOTALL)
-    value = re.sub(r"`([^`]*)`", r"\1", value)
-    value = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", value)
-    value = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", value)
-    value = re.sub(r"^[#>*+\-\d.\s]+", "", value, flags=re.MULTILINE)
-    return re.sub(r"[*_~]", "", value)
-
-
-def parse_prompt_contract(story_directory: Path) -> tuple[str | None, str | None]:
-    """Extract an actual [WP] and selected legacy-seed metadata, when present."""
-    prompt_file = story_directory / "00-prompt.md"
-    if not prompt_file.is_file():
-        return None, None
-
-    source = prompt_file.read_text(encoding="utf-8")
-    prompt_match = re.search(
-        r"^## Verbatim writing prompt\s*(?P<prompt>.*?)(?=^## |\Z)",
-        source,
-        flags=re.MULTILINE | re.DOTALL,
+def validate_repository_integrity(repository_root: Path) -> None:
+    script = repository_root / ".agents" / "skills" / "story-integrity" / "scripts" / "Test-StoryIntegrity.ps1"
+    completed = subprocess.run(
+        ["pwsh", "-NoProfile", "-File", str(script), "-OutputFormat", "Text", "-ProjectRoot", str(repository_root)],
+        cwd=repository_root,
+        text=True,
+        capture_output=True,
+        check=False,
     )
-    writing_prompt = None
-    if prompt_match:
-        prompt_lines = []
-        for line in prompt_match.group("prompt").strip().splitlines():
-            cleaned_line = re.sub(r"^\s*>\s?", "", line).strip()
-            if cleaned_line:
-                prompt_lines.append(cleaned_line)
-        prompt_text = re.sub(r"\*\*", "", " ".join(prompt_lines)).strip()
-        if prompt_text.startswith("[WP]"):
-            writing_prompt = prompt_text.removeprefix("[WP]").strip()
-
-    legacy_source_form = None
-    if re.search(r"(?m)^- Imported seed:\s+legacy source\b", source):
-        source_form_match = re.search(r"(?m)^- Source form:\s*(.+?)\s*$", source)
-        if source_form_match:
-            legacy_source_form = source_form_match.group(1).strip()
-
-    return writing_prompt, legacy_source_form
+    if completed.returncode:
+        detail = (completed.stdout + completed.stderr).strip()
+        raise ValueError(f"Repository integrity failed: {detail}")
 
 
-def load_legacy_manifest() -> tuple[str, dict[str, dict[str, str]]]:
-    """Load and validate the controlled Git locators for readable legacy sources."""
-    try:
-        manifest = json.loads(LEGACY_MANIFEST.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError) as error:
-        raise ValueError(f"Cannot read {LEGACY_MANIFEST}: {error}") from error
-
-    revision = manifest.get("revision")
-    if not isinstance(revision, str) or not re.fullmatch(r"[0-9a-f]{40}", revision):
-        raise ValueError(f"{LEGACY_MANIFEST}: revision must be a full Git SHA")
-
-    entries = manifest.get("stories")
-    if not isinstance(entries, list) or not entries:
-        raise ValueError(f"{LEGACY_MANIFEST}: stories must be a non-empty list")
-
-    stories: dict[str, dict[str, str]] = {}
-    for entry in entries:
-        if not isinstance(entry, dict):
-            raise ValueError(f"{LEGACY_MANIFEST}: each story must be an object")
-        slug = entry.get("slug")
-        source_path = entry.get("source_path")
-        digest = entry.get("sha256")
-        if not isinstance(slug, str) or not SLUG_PATTERN.fullmatch(slug):
-            raise ValueError(f"{LEGACY_MANIFEST}: invalid legacy slug {slug!r}")
-        if slug in stories:
-            raise ValueError(f"{LEGACY_MANIFEST}: duplicate legacy slug {slug!r}")
-        if (
-            not isinstance(source_path, str)
-            or not source_path.startswith("stories/_legacy/imports/")
-            or ".." in Path(source_path).parts
-        ):
-            raise ValueError(
-                f"{LEGACY_MANIFEST}: unsafe source path for {slug!r}"
-            )
-        if not isinstance(digest, str) or not re.fullmatch(
-            r"[0-9a-f]{64}", digest
-        ):
-            raise ValueError(f"{LEGACY_MANIFEST}: invalid SHA-256 for {slug!r}")
-        stories[slug] = {"source_path": source_path, "sha256": digest}
-
-    return revision, stories
+def _story_metadata(directory: Path, contract: dict[str, Any]) -> StoryMetadata:
+    path = directory / "story.json"
+    value = read_json_object(path)
+    require_exact_fields(value, contract["story"]["fields"], path)
+    if value["schemaVersion"] != 2 or value["slug"] != directory.name or not SLUG.fullmatch(value["slug"]):
+        raise ValueError(f"Invalid story identity in {path}")
+    if not isinstance(value["title"], str) or not value["title"].strip() or not DATE.fullmatch(value["created"]):
+        raise ValueError(f"Invalid title or creation date in {path}")
+    state = contract["lifecycle"]["states"].get(value["status"])
+    if state is None or value["stage"] not in state["stages"]:
+        raise ValueError(f"Invalid lifecycle in {path}")
+    if value["canon"] is not state["canon"] or value["userDisposition"] not in state["userDispositions"] or value["publish"] not in state["publish"]:
+        raise ValueError(f"Contradictory lifecycle in {path}")
+    if state["promotionDate"] == "required" and not isinstance(value["promotionDate"], str):
+        raise ValueError(f"Final story lacks promotion date in {path}")
+    if state["promotionDate"] == "null" and value["promotionDate"] is not None:
+        raise ValueError(f"Non-final story has promotion date in {path}")
+    if value["provenance"] not in contract["story"]["provenanceValues"]:
+        raise ValueError(f"Invalid provenance in {path}")
+    return StoryMetadata(directory, value["slug"], value["title"], value["created"], value["stage"], value["status"], value["canon"], value["userDisposition"], value["publish"], value["promotionDate"], value["provenance"])
 
 
-def normalize_legacy_source(source: str, title: str, source_path: str) -> str:
-    """Remove source-document wrappers that would duplicate the page heading."""
-    source = source.lstrip("\ufeff")
-    if source.startswith("---"):
-        _, source = parse_front_matter(source, Path(source_path))
-
-    lines = source.strip().splitlines()
-    if not lines:
-        raise ValueError(f"{source_path}: legacy source is empty")
-    first_line = lines[0].strip()
-    plain_first_line = re.sub(r"[#*_`]", "", first_line).strip()
-    if first_line.startswith("# ") or plain_first_line.casefold() == title.casefold():
-        lines = lines[1:]
-
-    source = "\n".join(lines).strip()
-    seen_source_h1 = False
-
-    def normalize_heading(match: re.Match[str]) -> str:
-        nonlocal seen_source_h1
-        source_level = len(match.group(1))
-        if source_level == 1:
-            seen_source_h1 = True
-            page_level = 2
-        elif seen_source_h1:
-            page_level = min(6, source_level + 1)
-        else:
-            page_level = source_level
-        return f"{'#' * page_level} "
-
-    source = re.sub(r"(?m)^(#{1,6})\s+", normalize_heading, source)
-    return source
+def _validate_release(metadata: StoryMetadata, contract: dict[str, Any]) -> None:
+    path = metadata.directory / "release.json"
+    value = read_json_object(path)
+    spec = contract["release"]
+    require_exact_fields(value, spec["fields"], path)
+    if value["schemaVersion"] != 3 or value["storySlug"] != metadata.slug or value["certified"] is not True:
+        raise ValueError(f"Invalid release header in {path}")
+    if value["certificationBasis"] not in spec["certificationBases"]:
+        raise ValueError(f"Invalid release basis in {path}")
+    require_exact_fields(value["artifacts"], spec["artifactContainerFields"], path)
+    for key, expected in (("story", "05-story.md"), ("canonDelta", "06-canon-delta.md")):
+        require_exact_fields(value["artifacts"][key], spec["artifactFields"], path)
+        if value["artifacts"][key]["path"] != expected:
+            raise ValueError(f"Invalid release artifact path in {path}")
+    require_exact_fields(value["review"], spec["reviewFields"], path)
+    review = value["review"]
+    if review["artifact"] != "05-story.md" or review["verdict"] != "PASS" or review["unresolvedCritical"] != 0 or review["unresolvedMajor"] != 0:
+        raise ValueError(f"Release review gate failed in {path}")
+    require_exact_fields(value["nameCheck"], spec["nameCheckFields"], path)
+    if value["nameCheck"]["story"] != metadata.slug or value["nameCheck"]["phase"] != "Final" or value["nameCheck"]["passed"] is not True:
+        raise ValueError(f"Release name gate failed in {path}")
+    require_exact_fields(value["dependencies"], spec["dependencyFields"], path)
 
 
-def load_legacy_source(
-    slug: str,
-    title: str,
-    revision: str,
-    manifest: dict[str, dict[str, str]],
-) -> str:
-    """Retrieve and verify one exact legacy snapshot from repository history."""
-    entry = manifest.get(slug)
-    if entry is None:
-        raise ValueError(f"{LEGACY_MANIFEST}: no source configured for {slug!r}")
-
-    source_path = entry["source_path"]
-    try:
-        result = subprocess.run(
-            ["git", "show", f"{revision}:{source_path}"],
-            cwd=REPOSITORY_ROOT,
-            check=True,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-        )
-    except FileNotFoundError as error:
-        raise ValueError("Git is required to load readable legacy sources") from error
-    except subprocess.CalledProcessError as error:
-        details = error.stderr.decode("utf-8", errors="replace").strip()
-        raise ValueError(
-            f"Cannot load legacy source {slug!r}; fetch full Git history. {details}"
-        ) from error
-
-    source_bytes = result.stdout
-    expected_digest = entry["sha256"]
-    blob_digest = hashlib.sha256(source_bytes).hexdigest()
-    crlf_digest = hashlib.sha256(source_bytes.replace(b"\n", b"\r\n")).hexdigest()
-    if expected_digest not in {blob_digest, crlf_digest}:
-        raise ValueError(
-            f"{source_path}: SHA-256 mismatch; expected {expected_digest}, "
-            f"got {blob_digest}"
-        )
-
-    try:
-        source = source_bytes.decode("utf-8")
-    except UnicodeDecodeError as error:
-        raise ValueError(f"{source_path}: source is not valid UTF-8") from error
-    return normalize_legacy_source(source, title, source_path)
+def _legacy_slugs(root: Path) -> set[str]:
+    path = root / "stories" / "legacy-acceptance.json"
+    value = read_json_object(path)
+    require_exact_fields(value, ["schemaVersion", "acceptedBy", "acceptedAt", "reviewBasis", "stories"], path)
+    if value["schemaVersion"] != 1 or not value["acceptedBy"] or not value["reviewBasis"]:
+        raise ValueError(f"Invalid legacy acceptance header in {path}")
+    result: set[str] = set()
+    for item in value["stories"]:
+        require_exact_fields(item, ["slug", "promotionDate"], path)
+        if item["slug"] in result:
+            raise ValueError(f"Duplicate legacy acceptance story: {item['slug']}")
+        result.add(item["slug"])
+    return result
 
 
-def load_stories() -> list[Story]:
-    stories: list[Story] = []
-    legacy_revision, legacy_manifest = load_legacy_manifest()
-    for story_file in sorted(STORIES_ROOT.glob("*/05-story.md")):
-        if story_file.parent.name.startswith("_"):
+def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
+    contract = load_pipeline_contract(repository_root / "schemas" / "pipeline-contract.json")
+    legacy = _legacy_slugs(repository_root)
+    published: list[PublishedStory] = []
+    story_root = repository_root / "stories"
+    for directory in sorted((item for item in story_root.iterdir() if item.is_dir() and not item.name.startswith("_")), key=lambda item: item.name):
+        metadata = _story_metadata(directory, contract)
+        if not metadata.publish:
             continue
-
-        metadata, body = parse_front_matter(
-            story_file.read_text(encoding="utf-8"), story_file
-        )
-        missing = {"title", "slug", "status", "canon"} - metadata.keys()
-        if missing:
-            fields = ", ".join(sorted(missing))
-            raise ValueError(f"{story_file}: missing front matter field(s): {fields}")
-
-        title = str(metadata["title"]).strip()
-        slug = str(metadata["slug"]).strip()
-        status = str(metadata["status"]).strip().lower()
-        canon = metadata["canon"]
-        writing_prompt, legacy_source_form = parse_prompt_contract(story_file.parent)
-
-        if not title:
-            raise ValueError(f"{story_file}: title cannot be empty")
-        if not SLUG_PATTERN.fullmatch(slug):
-            raise ValueError(f"{story_file}: invalid slug {slug!r}")
-        if slug != story_file.parent.name:
-            raise ValueError(
-                f"{story_file}: slug {slug!r} does not match its directory name"
-            )
-        if not isinstance(canon, bool):
-            raise ValueError(f"{story_file}: canon must be true or false")
-
-        if status in PUBLISHABLE_STATUSES:
-            if PLACEHOLDER_TEXT in body:
-                raise ValueError(
-                    f"{story_file}: publishable story still contains the placeholder"
-                )
-            prose = markdown_text(body)
-            word_count = len(WORD_PATTERN.findall(prose))
-            if word_count < 100:
-                raise ValueError(
-                    f"{story_file}: publishable story has only {word_count} words"
-                )
-            story_body: str | None = body
-        elif legacy_source_form:
-            story_body = load_legacy_source(
-                slug, title, legacy_revision, legacy_manifest
-            )
-            word_count = len(WORD_PATTERN.findall(markdown_text(story_body)))
-        else:
-            continue
-
-        stories.append(
-            Story(
-                title=title,
-                slug=slug,
-                status=status,
-                canon=canon,
-                body=story_body,
-                word_count=word_count,
-                prompt=writing_prompt,
-                legacy_source_form=legacy_source_form,
-            )
-        )
-
-    if not any(story.is_reader_ready for story in stories):
-        raise ValueError("No publishable stories were found")
-    configured_legacy_slugs = set(legacy_manifest)
-    loaded_legacy_slugs = {
-        story.slug for story in stories if story.is_legacy_source
-    }
-    if loaded_legacy_slugs != configured_legacy_slugs:
-        missing = configured_legacy_slugs - loaded_legacy_slugs
-        unexpected = loaded_legacy_slugs - configured_legacy_slugs
-        details = []
-        if missing:
-            details.append(f"not indexed: {', '.join(sorted(missing))}")
-        if unexpected:
-            details.append(f"not configured: {', '.join(sorted(unexpected))}")
-        raise ValueError(f"Legacy source mismatch ({'; '.join(details)})")
-    return sorted(stories, key=lambda story: story.title.casefold())
+        if metadata.status not in contract["lifecycle"]["publishableStatuses"]:
+            raise ValueError(f"Published story is not terminal: {metadata.slug}")
+        _validate_release(metadata, contract)
+        if metadata.provenance == "legacy-user-attested" and metadata.slug not in legacy:
+            raise ValueError(f"Legacy story is not attested: {metadata.slug}")
+        front, body = parse_front_matter((directory / "05-story.md").read_text(encoding="utf-8"), directory / "05-story.md")
+        if set(front) != {"title", "slug", "created"}:
+            raise ValueError(f"Final frontmatter fields differ for {metadata.slug}")
+        if front != {"title": metadata.title, "slug": metadata.slug, "created": metadata.created}:
+            raise ValueError(f"Final frontmatter identity differs for {metadata.slug}")
+        word_count = len(re.findall(r"\b[\w’'-]+\b", body))
+        published.append(PublishedStory(metadata, body.strip(), word_count))
+    return Catalog(tuple(published))
 
 
-def page_template(
-    *,
-    title: str,
-    description: str,
-    stylesheet: str,
-    content: str,
-    body_class: str,
-) -> str:
-    safe_title = html.escape(title)
-    safe_description = html.escape(description, quote=True)
-    return f"""<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{safe_description}">
-  <title>{safe_title}</title>
-  <link rel="stylesheet" href="{stylesheet}">
-</head>
-<body class="{body_class}">
-{content}
-</body>
-</html>
-"""
+def _page(title: str, body: str) -> str:
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>body{{max-width:48rem;margin:0 auto;padding:2rem;font:18px/1.65 Georgia,serif;color:#241f1a;background:#fcf8f1}}a{{color:#70451f}}article{{margin:2rem 0}}.meta{{color:#6d645a;font:14px system-ui}}li{{margin:.7rem 0}}</style></head><body>{body}</body></html>'''
 
 
-def status_label(status: str) -> str:
-    return status.replace("-", " ").title()
+def render_index(catalog: Catalog) -> str:
+    items = []
+    for story in catalog.stories:
+        status = "Canon" if story.metadata.canon else "Candidate"
+        items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a><div class="meta">{status} · {story.word_count:,} words</div></li>')
+    return _page("Stories", f"<h1>Stories</h1><p>{len(items)} published stories from the current validated checkout.</p><ol>{''.join(items)}</ol>")
 
 
-def render_readable_card(story: Story) -> str:
-    canon_label = "Canon" if story.canon else "Not canon"
-    prompt = ""
-    if story.prompt:
-        prompt = f"""
-          <span class="story-prompt">
-            <span class="story-prompt-text">{html.escape(story.prompt)}</span>
-          </span>"""
-    return f"""      <li class="story-card">
-        <a class="story-link" href="stories/{html.escape(story.slug)}/">
-          <span class="story-title">{html.escape(story.title)}</span>{prompt}
-          <span class="story-meta">
-            <span class="status status-{html.escape(story.status)}">{html.escape(status_label(story.status))}</span>
-            <span>{story.word_count:,} words</span>
-            <span>{canon_label}</span>
-          </span>
-        </a>
-      </li>"""
+def render_story(story: PublishedStory) -> str:
+    prose = markdown.markdown(story.body, extensions=["extra", "smarty"])
+    status = "Canon" if story.metadata.canon else "Candidate"
+    body = f'<p><a href="../index.html">← All stories</a></p><article><h1>{html.escape(story.metadata.title)}</h1><p class="meta">{status} · {story.word_count:,} words</p>{prose}</article>'
+    return _page(story.metadata.title, body)
 
 
-def render_legacy_card(story: Story) -> str:
-    canon_label = "Canon" if story.canon else "Not canon"
-    return f"""      <li class="story-card">
-        <a class="story-link story-link-legacy" href="stories/{html.escape(story.slug)}/">
-          <span class="story-title">{html.escape(story.title)}</span>
-          <span class="legacy-description">
-            Historical source: {html.escape(story.legacy_source_form or "legacy story")}.
-          </span>
-          <span class="story-meta">
-            <span class="status status-legacy">Legacy source</span>
-            <span>{story.word_count:,} words</span>
-            <span>{canon_label}</span>
-          </span>
-        </a>
-      </li>"""
+def prepare_output(output: Path, repository_root: Path) -> Path:
+    resolved = output.resolve()
+    root = repository_root.resolve()
+    protected = [root / name for name in (".git", ".agents", ".codex", "pages", "schemas", "sources", "stories", "tests", "universe")]
+    if resolved == root or resolved in root.parents or any(resolved == item or item in resolved.parents for item in protected):
+        raise ValueError("Output overlaps protected repository content")
+    if resolved.exists():
+        shutil.rmtree(resolved)
+    resolved.mkdir(parents=True)
+    return resolved
 
 
-def render_index(stories: list[Story]) -> str:
-    reader_ready_stories = [story for story in stories if story.is_reader_ready]
-    legacy_stories = [story for story in stories if story.is_legacy_source]
-    cards = []
-    for story in reader_ready_stories:
-        cards.append(render_readable_card(story))
-    legacy_cards = []
-    for story in legacy_stories:
-        legacy_cards.append(render_legacy_card(story))
-
-    total_words = sum(story.word_count for story in stories)
-    legacy_section = ""
-    if legacy_cards:
-        legacy_section = f"""
-    <section class="collection-section legacy-section" aria-labelledby="legacy-heading">
-      <h2 id="legacy-heading">Readable legacy sources</h2>
-      <p class="section-intro">Historical stories and outlines preserved for reading and future adaptation. They have not completed the current review workflow and are not canon.</p>
-      <ul class="story-grid">
-{chr(10).join(legacy_cards)}
-      </ul>
-    </section>"""
-    content = f"""  <header class="site-header">
-    <a class="site-name" href="./">Story Computing Machine</a>
-    <a class="repository-link" href="https://github.com/BoundlessStudio/story-computing-machine" aria-label="View this project on GitHub" title="View this project on GitHub">
-      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-        <path d="M8 0C3.58 0 0 3.64 0 8.13c0 3.59 2.29 6.64 5.47 7.71.4.08.55-.17.55-.39 0-.19-.01-.82-.01-1.49-2.01.44-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.59 1.23.83.72 1.23 1.87.88 2.33.67.07-.53.28-.88.51-1.08-1.78-.21-3.64-.9-3.64-4.01 0-.89.31-1.62.82-2.19-.08-.21-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.92c.68 0 1.36.09 2 .28 1.53-1.06 2.2-.84 2.2-.84.44 1.12.16 1.95.08 2.16.51.57.82 1.3.82 2.19 0 3.12-1.87 3.8-3.65 4.01.29.25.54.73.54 1.49 0 1.07-.01 1.93-.01 2.2 0 .22.15.47.55.39A8.03 8.03 0 0 0 16 8.13C16 3.64 12.42 0 8 0Z"/>
-      </svg>
-    </a>
-  </header>
-  <main class="library">
-    <p class="eyebrow">Shared-universe fiction</p>
-    <h1>Short stories</h1>
-    <p class="lede">Reader-facing stories from the Boundless shared universe.</p>
-    <p class="collection-count">{len(reader_ready_stories)} reader-ready stories · {len(legacy_stories)} readable legacy sources · {total_words:,} words</p>
-    <section class="collection-section" aria-labelledby="stories-heading">
-      <h2 id="stories-heading">Reader-ready stories</h2>
-      <ul class="story-grid">
-{chr(10).join(cards)}
-      </ul>
-    </section>{legacy_section}
-  </main>"""
-    return page_template(
-        title="Story Computing Machine",
-        description="Short stories from the Boundless shared universe.",
-        stylesheet="assets/styles.css",
-        content=content,
-        body_class="index-page",
-    )
-
-
-def render_story(story: Story) -> str:
-    if story.body is None:
-        raise ValueError(f"{story.slug}: story has no readable body")
-    story_markdown = story.body
-    if story.is_legacy_source:
-        story_markdown = f"# {story.title}\n\n{story.body}"
-    story_html = markdown.markdown(
-        story_markdown,
-        extensions=["extra", "sane_lists"],
-        output_format="html5",
-    )
-    canon_label = "Canon" if story.canon else "Not canon"
-    if story.is_legacy_source:
-        story_status = "Legacy source"
-        status_class = "legacy"
-        description = (
-            f"Read the historical legacy source for {story.title}. "
-            "This source is not canon."
-        )
-    else:
-        story_status = status_label(story.status)
-        status_class = story.status
-        description = (
-            f"Read {story.title}, a short story from the Boundless shared universe."
-        )
-    content = f"""  <header class="site-header">
-    <a class="site-name" href="../../">← All stories</a>
-  </header>
-  <main>
-    <article class="story">
-      <p class="story-page-meta">
-        <span class="status status-{html.escape(status_class)}">{html.escape(story_status)}</span>
-        <span>{story.word_count:,} words</span>
-        <span>{canon_label}</span>
-      </p>
-{story_html}
-    </article>
-  </main>
-  <footer class="site-footer">
-    <p><a href="../../">Return to the story index</a></p>
-  </footer>"""
-    return page_template(
-        title=f"{story.title} · Story Computing Machine",
-        description=description,
-        stylesheet="../../assets/styles.css",
-        content=content,
-        body_class="story-page",
-    )
-
-
-def prepare_output(output: Path) -> Path:
-    output = output.resolve()
-    try:
-        relative_output = output.relative_to(REPOSITORY_ROOT)
-    except ValueError as error:
-        raise ValueError("Output directory must be inside the repository") from error
-    if (
-        not relative_output.parts
-        or not relative_output.parts[0].startswith("_site")
-    ):
-        raise ValueError(f"Refusing unsafe output directory: {output}")
-    if output.exists():
-        if output.is_symlink():
-            raise ValueError(f"Refusing to replace symlinked output directory: {output}")
-        if not output.is_dir():
-            raise ValueError(f"Output path is not a directory: {output}")
-        shutil.rmtree(output)
-    output.mkdir(parents=True)
-    return output
-
-
-def build(output: Path) -> list[Story]:
-    stories = load_stories()
-    readable_stories = [story for story in stories if story.is_readable]
-    output = prepare_output(output)
-
-    (output / "index.html").write_text(render_index(stories), encoding="utf-8")
-    (output / ".nojekyll").write_text("", encoding="utf-8")
-
-    assets_output = output / "assets"
-    assets_output.mkdir()
-    shutil.copy2(ASSETS_ROOT / "styles.css", assets_output / "styles.css")
-
-    for story in readable_stories:
-        story_output = output / "stories" / story.slug
-        story_output.mkdir(parents=True)
-        (story_output / "index.html").write_text(
-            render_story(story), encoding="utf-8"
-        )
-
-    missing_pages = [
-        story.slug
-        for story in readable_stories
-        if not (output / "stories" / story.slug / "index.html").is_file()
-    ]
-    if missing_pages:
-        raise RuntimeError(f"Missing generated story pages: {', '.join(missing_pages)}")
-
-    return stories
+def build(output: Path, repository_root: Path = REPOSITORY_ROOT, require_integrity_validator: bool = True) -> Catalog:
+    if require_integrity_validator:
+        validate_repository_integrity(repository_root)
+    catalog = load_catalog(repository_root)
+    destination = prepare_output(output, repository_root)
+    (destination / "stories").mkdir()
+    (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
+    for story in catalog.stories:
+        (destination / "stories" / f"{story.metadata.slug}.html").write_text(render_story(story), encoding="utf-8")
+    return catalog
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument(
-        "--output",
-        type=Path,
-        default=REPOSITORY_ROOT / "_site",
-        help="Site output directory (must be inside the repository)",
-    )
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--output", type=Path, default=REPOSITORY_ROOT / "_site")
     args = parser.parse_args()
-
-    stories = build(args.output)
-    reader_ready_count = sum(story.is_reader_ready for story in stories)
-    legacy_count = sum(story.is_legacy_source for story in stories)
-    print(
-        f"Built {reader_ready_count} reader-ready story pages and "
-        f"{legacy_count} readable legacy source pages in {args.output.resolve()} "
-        f"({sum(story.word_count for story in stories):,} words)."
-    )
+    catalog = build(args.output)
+    print(f"Built {len(catalog.stories)} published stories in {args.output}")
 
 
 if __name__ == "__main__":

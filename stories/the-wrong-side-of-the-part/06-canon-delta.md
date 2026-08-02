@@ -102,6 +102,11 @@ modern-like era generally.
 
 None.
 
+## Final character-facing name inventory
+
+- **Tilda Bristow** — Reserved forms: `Tilda Bristow`; `Tilda`
+- **Petra Bristow** — Reserved forms: `Petra Bristow`; `Petra`
+
 ## Name registry updates
 
 Final character-facing name inventory:

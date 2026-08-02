@@ -192,9 +192,9 @@
   a collision. Likewise, solarpunk imagery is not a name collision, but
   person-like titles such as `Sun Queen` or `Goddess of the Sun` are reserved
   aliases.
-- The unresolved legacy collisions `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`
+- The unresolved source-name collisions `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`
   must not be introduced again. None is required by this prompt
-  (`stories/NAMES.md` — `## Known unresolved legacy collisions`).
+  (`stories/NAMES.md` — `## Known unresolved name collisions`).
 - No deliberate reuse is justified or required by the prompt. If drafting
   unexpectedly introduces any character-facing form, the coordinator must
   check exact matches, aliases, close spellings, reversals, and confusing forms
@@ -256,7 +256,7 @@
   `## Continuity and evidence discipline`
 - `stories/the-city-of-eleven-foundations/00-prompt.md` —
   `## Story controls`; `## Assumptions`; `## Completion tests`
-- `stories/NAMES.md` — `## Rules`; `## Known unresolved legacy collisions`
+- `stories/NAMES.md` — `## Rules`; `## Known unresolved name collisions`
 - `stories/INDEX.md` — story index table (checked for canon-`yes` stories; none
   are listed)
 

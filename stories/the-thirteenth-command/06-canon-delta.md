@@ -182,6 +182,12 @@ personhood for the System.
   spillwheel`, and `symmetric incident log`.
 - No new personal aliases are proposed.
 
+## Final character-facing name inventory
+
+- **Edda Rook** — Reserved forms: `Edda Rook`; `Edda`
+- **Harven Coil** — Reserved forms: `Harven Coil`; `Harven`
+- **Sula Brant** — Reserved forms: `Sula Brant`; `Sula`
+
 ## Name registry updates
 
 - Final exact character-facing inventory:

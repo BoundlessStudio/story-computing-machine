@@ -140,6 +140,13 @@ None.
   the Briar Host.
 - No additional aliases or universal technical terms are proposed.
 
+## Final character-facing name inventory
+
+- **Miriam Velez** — Reserved forms: `Miriam Velez`; `Miriam`
+- **Mateo Velez** — Reserved forms: `Mateo Velez`; `Mateo`
+- **Maude Dallow** — Reserved forms: `Maude Dallow`; `Maude`; `Ms. Dallow`
+- **The Briar Host** — Reserved forms: `the Briar Host`; `Briar Host`
+
 ## Name registry updates
 
 Final character-facing inventory actually used in `05-story.md`:

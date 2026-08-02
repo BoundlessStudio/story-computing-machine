@@ -133,6 +133,14 @@ user explicitly approves promotion and the facts are added to `universe/`.
   support, logistics, safeguarding, and communications role. It is not a
   universal office or command rank.
 
+## Final character-facing name inventory
+
+- **Gideon Tolland / Night Clerk** — Reserved forms: `Gideon Tolland`; `Gideon`; `Mr. Tolland`; `Night Clerk`
+- **Drita Ademi / Kiteglass** — Reserved forms: `Drita Ademi`; `Drita`; `Kiteglass`
+- **Bryn Ahn / Pulsewire** — Reserved forms: `Bryn Ahn`; `Bryn`; `Pulsewire`
+- **Cassia Dominguez / Mothlight** — Reserved forms: `Cassia Dominguez`; `Cassia`; `Mothlight`
+- **The Rollcaller** — Reserved forms: `the Rollcaller`; `Rollcaller`
+
 ## Name registry updates
 
 - The primary coordinator should change the five existing
@@ -156,7 +164,7 @@ user explicitly approves promotion and the facts are added to `universe/`.
   arrangement, Rollcaller, and Northbridge incident are explicitly local. They
   do not establish a global magical authority, universal magic or true-name
   rule, public knowledge of magical girls, or any connection to Solstice
-  Evening Bell or another candidate or legacy story.
+  Evening Bell or another candidate or historical story.
 - **Promotion boundary:** The Rollcaller’s attention-seeking behavior,
   refraction veil, tokens, powers, costs, and consent protocols must remain
   specific to these characters and this local system unless later evidence

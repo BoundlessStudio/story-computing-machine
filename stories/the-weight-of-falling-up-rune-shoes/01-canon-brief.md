@@ -160,7 +160,7 @@ creative research; their registry names remain reserved production memory.
 
 - **No canon story prose can resolve these omissions.** Every row currently
   listed in `stories/INDEX.md` has Canon `no`; drafts, plans, rejected versions,
-  legacy sources, and proposed canon deltas therefore have no authority.
+  archive records, and proposed canon deltas therefore have no authority.
   (`universe/README.md` — “Authority order”; `stories/INDEX.md` — “Story
   index”)
 
@@ -286,7 +286,7 @@ with any of these forms:
 `Pell Orin` is documented in the Kelan Rusk registry note as an abandoned
 accidental draft name rather than as a released reservation. It is unusable in
 practice: `Pell` and the close form `Orrin` already participate in unresolved
-legacy collisions. Generic lowercase “assessor” remains available as a role
+released-reservation collisions. Generic lowercase “assessor” remains available as a role
 noun; the rejected proper forms `Assessor Havil` and `Havil` do not.
 
 ### Other reserved forms in production memory
@@ -359,7 +359,7 @@ fully documented:
 
 - `Lena` is already unresolved between Lena Mercer and Lena Venn.
 - `Mara` is already unresolved between Mara from Hinge and Mara Osset.
-- `Nisha` is already unresolved between two legacy identities.
+- `Nisha` is already unresolved between two non-canon identities.
 - `Pell` is already unresolved between Orrin Pell and a distinct Pell.
 - `Voss` is already unresolved between M. Voss and Rhea Voss, with an existing
   ruling that they are not connected.
@@ -376,7 +376,7 @@ distinct, why the collision materially serves this story, and how readers will
 distinguish the identities. That rationale belongs in the plan's `Name check`
 and in `stories/NAMES.md`; convenience is not a rationale. The primary
 coordinator, not the canon librarian, owns registry edits. (`stories/NAMES.md`
-— “Rules,” registry table, and “Known unresolved legacy collisions”;
+— “Rules,” registry table, and “Known unresolved name collisions”;
 `universe/style-guide.md` — “Prose defaults”)
 
 The school name is not a character-facing entry and is not governed by
@@ -466,7 +466,7 @@ proper noun may be recovered or reused.
   discipline.”
 - `stories/INDEX.md` — “Story index” (all currently listed stories have Canon
   `no`; no finalized story prose was used as canon evidence).
-- `stories/NAMES.md` — “Rules,” registry table, and “Known unresolved legacy
+- `stories/NAMES.md` — “Rules,” registry table, and “Known unresolved archive record
   collisions” (production memory only, not canon).
 - `stories/the-weight-of-falling-up-rune-shoes/00-prompt.md` — “Verbatim
   revision directive,” “Story controls,” “Assumptions,” and “Completion tests”

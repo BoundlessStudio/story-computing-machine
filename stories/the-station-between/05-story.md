@@ -1,8 +1,6 @@
 ---
 title: "The Station Between"
 slug: "the-station-between"
-status: candidate
-canon: false
 created: 2026-07-25
 ---
 

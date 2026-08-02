@@ -1,8 +1,6 @@
 ---
 title: "The Last Bus to Briar Hill"
 slug: "the-last-bus-to-briar-hill"
-status: candidate
-canon: false
 created: 2026-07-30
 ---
 

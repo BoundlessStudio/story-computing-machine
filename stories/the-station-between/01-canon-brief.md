@@ -103,7 +103,7 @@
   `universe/style-guide.md` — `## Personhood and moral consequence`).
 - `stories/INDEX.md` contains no row whose Canon column is `yes`; therefore no
   finalized canon story supplies a competing or more specific afterlife rule.
-  Candidate, in-progress, and legacy stories were not treated as authority
+  Candidate, in-progress, and historical stories were not treated as authority
   (`stories/INDEX.md` — `# Story index`;
   `universe/README.md` — `## Authority order`).
 
@@ -180,7 +180,7 @@
 - Do not reuse the registry's unresolved collision forms: `Lena`, `Mara`,
   `Nisha`, `Pell`, or `Voss`. These already refer to distinct identities and
   need resolution within their existing sources, not another reuse
-  (`stories/NAMES.md` — `## Known unresolved legacy collisions`).
+  (`stories/NAMES.md` — `## Known unresolved name collisions`).
 - Avoid adding to readily confusable reserved clusters already visible in the
   registry, including `Oren` / `Orrin`, `Leth` / `Letha`, `Cal` / `Caldrin` /
   `Calvea`, and `Nessa` / `Nina` / `Nisha`. A prior reversed form, `Pell Orin`,
@@ -265,7 +265,7 @@
   `## Continuity and evidence discipline`
 - `stories/INDEX.md` — `# Story index`
 - `stories/NAMES.md` — `# Character name registry`; `## Rules`;
-  `## Known unresolved legacy collisions`
+  `## Known unresolved name collisions`
 - `stories/the-station-between/00-prompt.md` — `## Verbatim writing prompt`;
   `## Story controls`; `## Assumptions`; `## Completion tests`
 

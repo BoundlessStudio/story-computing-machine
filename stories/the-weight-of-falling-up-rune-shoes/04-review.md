@@ -1,15 +1,19 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 6
+- Review pass: 9
+- Artifact SHA-256: `56aa71cf465347cafd8b4feb5fbeb88cfdde37de4de7613cb43e1d4f8e812e67`
+- Canon delta SHA-256: `e4881d84b2961c99b3d1089545a77bd6e9d5632b5b89633c2fc13cf03d40608c`
 - Verdict: PASS
-- Updated: 2026-07-23
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T04:05:08.5056492+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -64,7 +68,7 @@ No findings. The only character-facing forms are `Juni Wex` / `Juni` and
 in-progress reservations in `stories/NAMES.md`. The peers and winged horse
 remain unnamed, and `the Collegium of Nine Eaves` is an institution rather than
 a character-facing identity. The story-scoped name check passes; its five
-warnings concern pre-existing legacy collisions not used here.
+warnings concern pre-existing released-reservation collisions not used here.
 
 #### Causality and character
 
@@ -143,7 +147,7 @@ states are correct (`03-draft.md`, line 405).
 No findings. The revised plan and draft introduce no new character-facing
 form. `Juni Wex` / `Juni` and `Examiner Dovek` / `Dovek` remain documented,
 unique registry entries; the peers and winged horse remain unnamed. The
-story-scoped name check passes, with only the same five unrelated global legacy
+story-scoped name check passes, with only the same five unrelated global archive record
 warnings.
 
 #### Causality and character
@@ -221,7 +225,7 @@ No findings. The only final character-facing forms are `Juni Wex` / `Juni` and
 reservations in `stories/NAMES.md`. No surname-only `Wex`, standalone proper
 `Examiner`, named peer, named mount, title-as-name, construct, or new alias was
 introduced. The story-scoped name check passes; its five warnings remain
-unrelated pre-existing legacy collisions.
+unrelated pre-existing released-reservation collisions.
 
 #### Causality and character
 
@@ -324,7 +328,7 @@ No findings. The final prose uses only `Juni Wex` / `Juni` and
 unique candidate dispositions, and `stories/NAMES.md` assigns the same forms
 to this story with state `candidate` and reuse status `unique`. No unregistered
 alias or undocumented collision appears. The story-scoped name check passes;
-its five warnings concern unrelated pre-existing legacy collisions.
+its five warnings concern unrelated pre-existing released-reservation collisions.
 
 `05-story.md` has status `candidate` and `canon: false`;
 `06-canon-delta.md` identifies the story and both name dispositions as
@@ -399,7 +403,7 @@ No findings. The only character-facing forms are `Juni Wex` / `Juni` and
 candidate entries in `stories/NAMES.md`. The two broom candidates, mount rider,
 pale winged horse, and other apprentices remain unnamed; no title-as-name,
 animal name, alias, collision, or rejected reserved form appears. The
-story-scoped name check passes, with only five unrelated pre-existing legacy
+story-scoped name check passes, with only five unrelated pre-existing archive record
 warnings.
 
 #### Causality and character
@@ -455,3 +459,84 @@ None. No unresolved Critical, Major, or Minor finding remains.
 
 PASS
 
+### Pass 7 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-weight-of-falling-up-rune-shoes`
+- pass: 7
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `992cde5307d5faf13b057fb3115b6d9b0bd965f0e40b395de9577ba1ee56f192`
+- canonDeltaSha256: `dfee2b2f5823a8eb447ca4e9127ffe2029f3fd157646c51118c9f9d048d7df2f`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `b5e844f1fec73e38687caf2926d928614cf68132600f03878b847563622284d2`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 8 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `992cde5307d5faf13b057fb3115b6d9b0bd965f0e40b395de9577ba1ee56f192`
+- Artifact SHA-256: `56aa71cf465347cafd8b4feb5fbeb88cfdde37de4de7613cb43e1d4f8e812e67`
+- Canon delta SHA-256: `dfee2b2f5823a8eb447ca4e9127ffe2029f3fd157646c51118c9f9d048d7df2f`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `992cde5307d5faf13b057fb3115b6d9b0bd965f0e40b395de9577ba1ee56f192`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `dfee2b2f5823a8eb447ca4e9127ffe2029f3fd157646c51118c9f9d048d7df2f`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.
+
+### Pass 9 — origin-neutral terminology certification
+
+- Reviewed artifact: `05-story.md`
+- Artifact SHA-256: `56aa71cf465347cafd8b4feb5fbeb88cfdde37de4de7613cb43e1d4f8e812e67`
+- Previous canon delta SHA-256: `dfee2b2f5823a8eb447ca4e9127ffe2029f3fd157646c51118c9f9d048d7df2f`
+- Canon delta SHA-256: `e4881d84b2961c99b3d1089545a77bd6e9d5632b5b89633c2fc13cf03d40608c`
+- Review date: 2026-08-02T04:05:08.5056492+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Review evidence
+
+- Reconstructing the replaced phrase reproduces the prior certified delta hash exactly; only the obsolete provenance-class label changed, with no factual proposal or story claim changed.
+- Final name receipt `a041919c55a05c8e417361a366aec64f3038d5840ea992e355d63ba0da9614a5` passes against the exact current story,
+  delta, and scoped registry rows.
+
+#### Required fixes
+
+- None.

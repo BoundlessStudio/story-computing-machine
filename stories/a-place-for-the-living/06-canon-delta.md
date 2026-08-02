@@ -147,6 +147,13 @@ the afterlife**:
 - No new character alias, global term for necromancy, named ritual, named house,
   faction name, or universal supernatural category is proposed.
 
+## Final character-facing name inventory
+
+- **Imani Crowe** — Reserved forms: `Imani Crowe`; `Imani`
+- **Greer Morrow** — Reserved forms: `Greer Morrow`; `Greer`
+- **Davina Morrow** — Reserved forms: `Davina Morrow`; `Davina`
+- **Aunt Zephra Morrow** — Reserved forms: `Aunt Zephra Morrow`; `Aunt Zephra`; `Zephra`
+
 ## Name registry updates
 
 The primary coordinator should retain these four unique entries, change their

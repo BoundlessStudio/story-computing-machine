@@ -1,17 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
-- Reviewed artifact: `stories/solstice-evening-bell/05-story.md`
-- Review pass: 5
+- Reviewed artifact: `05-story.md`
+- Review pass: 7
+- Artifact SHA-256: `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c`
+- Canon delta SHA-256: `ae13beeaea29126fc76300f706e24b9aad8fd7d285c768853acfd7213422b0cd`
 - Verdict: PASS
-- Updated: 2026-07-26
+- Reviewer: primary_continuity_fallback
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -78,7 +82,7 @@ update Current certification to match the newest pass. -->
   person-like construct, ship, or commander. There is no undocumented exact,
   close, reversed, or identity-implying collision with the Bellweather family,
   Queen Aurelia, the Goddess of Time, King Othran, the Hollow Regent, or the
-  unresolved legacy-name set.
+  released-reservation name set.
 - `ultrahuman`, crown, chimes, resonator, host, frames, and rupture remain
   categories or common nouns rather than unregistered character-facing names.
 
@@ -201,7 +205,7 @@ update Current certification to match the newest pass. -->
 - `Evening Bell` remains reserved but is not used independently. `Bell` and
   `Queen` never appear alone as character labels; descriptive uses of
   `monarch` remain common nouns. No new identity, alias, commander, construct,
-  named animal, ship, username, or unresolved legacy form was introduced
+  named animal, ship, username, or unresolved released reservation form was introduced
   during editing.
 - There is no exact, close, reversed, or identity-implying collision with the
   Bellweather family, Queen Aurelia, the Goddess of Time, King Othran, the
@@ -649,3 +653,63 @@ update Current certification to match the newest pass. -->
 
 **Verdict: PASS**
 
+### Pass 6 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `solstice-evening-bell`
+- pass: 6
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `f0f3874152239ffc2040174883332e02412de859d8cac03bb7ac62bfa3824607`
+- canonDeltaSha256: `ae13beeaea29126fc76300f706e24b9aad8fd7d285c768853acfd7213422b0cd`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `7a0fb928c1250d97b97262253fecd12d6e01edea846e89e9bd32b099e69912c7`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 7 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `f0f3874152239ffc2040174883332e02412de859d8cac03bb7ac62bfa3824607`
+- Artifact SHA-256: `db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c`
+- Canon delta SHA-256: `ae13beeaea29126fc76300f706e24b9aad8fd7d285c768853acfd7213422b0cd`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `f0f3874152239ffc2040174883332e02412de859d8cac03bb7ac62bfa3824607`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `ae13beeaea29126fc76300f706e24b9aad8fd7d285c768853acfd7213422b0cd`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

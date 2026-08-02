@@ -164,9 +164,9 @@
   `Nina`, `Nora`, `Paul`, `Petra`, `Phoebe`, `Priya`, `Rae`, `Rose`, `Ruth`,
   `Sabine`, `Sebastian` / `Bash`, `Tess`, and `Tilda`.
 - Do not add a third bearer to unresolved collisions: `Lena` (Lena Mercer /
-  Lena Venn), `Mara` (Mara from Hinge / Mara Osset), `Nisha` (legacy S02 /
+  Lena Venn), `Mara` (Mara from Hinge / Mara Osset), `Nisha` (archive record S02 /
   S04), `Pell` (Orrin Pell / Pell), or `Voss` (M. Voss / Rhea Voss).
-  (`stories/NAMES.md` — `## Known unresolved legacy collisions`)
+  (`stories/NAMES.md` — `## Known unresolved name collisions`)
 - Avoid established family or identity forms including `Bellweather`,
   `Bristow`, `Mercer`, `Venn`, `Voss`, `Wren`, `Osset`, `Darr`, `Dane`, `Holt`,
   `Mercado`, `Park`, `Pike`, `Price`, `Quill`, `Rek`, `Rusk`, `Sen`, `Tench`,
@@ -236,7 +236,7 @@
 - `stories/INDEX.md` — `# Story index` (no row is canon `yes`; no story prose
   was used as authority)
 - `stories/NAMES.md` — `## Rules`,
-  `## Known unresolved legacy collisions` (production memory, not canon)
+  `## Known unresolved name collisions` (production memory, not canon)
 - `stories/a-place-for-the-living/00-prompt.md` —
   `## Verbatim writing prompt`, `## Story controls`, `## Assumptions`,
   `## Completion tests`

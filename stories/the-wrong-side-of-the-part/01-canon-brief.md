@@ -39,7 +39,7 @@
   `## Costs, desire, and local mechanisms`)
 - **No unsupported artifact connection.** Resemblance to another artifact,
   repeated imagery, folklore, a shared name, or a modern legend does not prove
-  common origin. The wig must not be tied to the Glass Gate, a deity, a legacy
+  common origin. The wig must not be tied to the Glass Gate, a deity, a archive record
   object, or any other system without story evidence later approved as canon.
   (`universe/rules.md` — `## Artifacts, motifs, and folklore`;
   `universe/style-guide.md` — `## Continuity and evidence discipline`)
@@ -110,7 +110,7 @@
   (`stories/the-wrong-side-of-the-part/00-prompt.md` — `## Assumptions`)
 - **Story-level canon coverage:** `stories/INDEX.md` currently has no row marked
   canon `yes`, so no `05-story.md` is authorized as supplemental canon and none
-  was used for this brief. Candidate and legacy stories remain nonbinding.
+  was used for this brief. Candidate and historical stories remain nonbinding.
   (`stories/INDEX.md` — `# Story index`; `universe/README.md` —
   `## Authority order`)
 
@@ -155,7 +155,7 @@
   modern-like era. Keep geography local and avoid declaring it literal
   real-world Earth or defining the era's global politics.
 - Create one new family and its immediate conflict, with no claimed connection
-  to existing candidate or legacy identities. Canon contains no recurring
+  to existing candidate or in-progress identities. Canon contains no recurring
   character or faction that this premise must use.
 - Treat the wig as a narrow anomaly with a story-specific trigger, duration,
   removal rule, visible morphology, and psychological selection rule. Record
@@ -187,7 +187,7 @@
 - Every full name, given name, mononym, nickname, username, title used as a
   name, named animal, and person-like name for the wig must be checked against
   the entire registry before planning. Existing forms remain reserved even
-  when their stories are candidate, in progress, abandoned, or legacy; registry
+  when their stories are candidate, in progress, abandoned, or archive record; registry
   presence is production memory, not proof of canon.
   (`stories/NAMES.md` — `# Character name registry`; `## Rules`)
 - Common contemporary exact forms already reserved and especially likely to
@@ -201,7 +201,7 @@
 - The unresolved exact collisions `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss`
   must not be repeated. Their existing identities are distinct and unresolved,
   so another use would compound a known defect. (`stories/NAMES.md` —
-  `## Known unresolved legacy collisions`)
+  `## Known unresolved name collisions`)
 - Close-match clusters needing extra scrutiny include `Eli` / `Ekri`, `Ilya` /
   `Irix` / `Ivo`, `Lena` / `Leth` / `Letha`, `Mara` / `Mae` / `Marcus`, `Nell`
   / `Nessa`, `Oren` / `Orrin`, `Rae` / `Rana` / `Rhea`, and `Talvi` / `Tavra`
@@ -274,4 +274,4 @@
 - `universe/retcons.md` — `# Retcon log` (no approved entries).
 - `stories/INDEX.md` — `# Story index` (no story row marked canon `yes`).
 - `stories/NAMES.md` — `# Character name registry`; `## Rules`;
-  `## Known unresolved legacy collisions` (production memory, not canon).
+  `## Known unresolved name collisions` (production memory, not canon).

@@ -1,8 +1,6 @@
 ---
 title: "The Gentlest Terror"
 slug: "the-gentlest-terror"
-status: candidate
-canon: false
 created: 2026-07-28
 ---
 

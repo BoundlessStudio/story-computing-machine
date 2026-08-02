@@ -19,7 +19,7 @@ all schools, all runes, all flight, or all magic.
     controls, diagnoses, redraws, and modifies the wind curls; Dovek records
     the pass and confirms her qualification in `05-story.md`.
   - **Boundary:** New local identity. No relationship to any established or
-    legacy character is proposed. Her wider biography, age, era, and later
+    released or non-canon character is proposed. Her wider biography, age, era, and later
     history remain unspecified.
 - **Examiner Dovek:** Administers Juni's aerial assessment. Dovek recognizes
   the shoe method's limitations, offers a scored repair pause, prepares to
@@ -86,6 +86,11 @@ elsewhere.
 | **stationary boundary** | The ribbon-marked volume in Juni's Nine Eaves assessment where a candidate must remain for a count of three. | The stationary-control scene. Local assessment term only. |
 | **repair pause** | A declared, one-point assessment pause that lets Juni inspect and refresh her physical marks before continuing. | Dovek's offer after the stationary attempt. Local procedure only. |
 
+## Final character-facing name inventory
+
+- **Juni Wex** — Reserved forms: `Juni Wex`; `Juni`
+- **Examiner Dovek** — Reserved forms: `Examiner Dovek`; `Dovek`
+
 ## Name registry updates
 
 Final character-facing name and alias inventory:
@@ -120,7 +125,7 @@ Final character-facing name and alias inventory:
 - The unnamed era and location do not alter `universe/timeline.md` —
   **Established era order**.
 - No ancestry, crossover, or relationship to an established artifact, motif,
-  culture, or legacy identity is proposed.
+  culture, or unrelated story identity is proposed.
 
 ## Recommended promotions
 

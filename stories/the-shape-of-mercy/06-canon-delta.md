@@ -140,6 +140,15 @@ user explicitly approves promotion and the facts are added to `universe/`.
   wind and lightning.
 - No new personal aliases are proposed.
 
+## Final character-facing name inventory
+
+- **Adrian Bellweather** — Reserved forms: `Adrian Bellweather`; `Adrian`
+- **Evelyn Bellweather** — Reserved forms: `Evelyn Bellweather`; `Evelyn`
+- **Marcus Bellweather** — Reserved forms: `Marcus Bellweather`; `Marcus`
+- **Phoebe Bellweather** — Reserved forms: `Phoebe Bellweather`; `Phoebe`
+- **Lady Rowena Bellweather** — Reserved forms: `Lady Rowena Bellweather`; `Rowena`
+- **Garran Bellweather** — Reserved forms: `Garran Bellweather`; `Garran`
+
 ## Name registry updates
 
 - Final character-facing name inventory actually used in `05-story.md`:

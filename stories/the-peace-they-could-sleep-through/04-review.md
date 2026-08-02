@@ -1,15 +1,19 @@
+
 # Continuity and story review
 
 ## Current certification
 
-- Reviewed artifact: `stories/the-peace-they-could-sleep-through/05-story.md`
-- Review pass: 4
+- Reviewed artifact: `05-story.md`
+- Review pass: 7
+- Artifact SHA-256: `f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6`
+- Canon delta SHA-256: `448495ece3221eef64cd9e5dc567368d3c9cab82233330531952efa110c9784c`
 - Verdict: PASS
-- Updated: 2026-07-27
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T04:05:08.5056492+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -104,7 +108,7 @@ collective. The other eleven receive no stable nickname, color-name, epithet,
 number, or court alias. Faction labels, `adjudicator`, `god`, legal procedures,
 records, and objects remain common descriptions rather than character-facing
 names. No rejected-predecessor name, exact collision, confusing close form,
-reversal, or unresolved legacy form appears. The scoped registry validator
+reversal, or unresolved released reservation form appears. The scoped registry validator
 passes for this story; its five warnings are the pre-existing global
 `Lena`, `Mara`, `Nisha`, `Pell`, and `Voss` collisions, none used here.
 
@@ -300,7 +304,7 @@ the plan and `stories/NAMES.md`; the prose distinguishes that former
 collective sovereign from Varkesh and the other eleven individual dragons.
 The unnamed dragons receive no stable epithet, color-name, number, or alias.
 No rejected-predecessor name, exact collision, close-form confusion, reversal,
-or unresolved legacy form appears.
+or unresolved released reservation form appears.
 
 The story-scoped name validator passes with 106 registry entries and 225
 reserved forms. Its five global warnings concern the pre-existing `Lena`,
@@ -460,7 +464,7 @@ Sleepless Majesty's deliberate internal sharing is fully documented and
 reader-distinguishable from Varkesh and the other eleven distinct persons.
 The unnamed dragons receive no stable color-name, epithet, number, or alias.
 No predecessor name, exact collision, close-spelling confusion, reversal,
-unresolved legacy form, or false identity, kinship, chronology, or crossover
+unresolved released reservation form, or false identity, kinship, chronology, or crossover
 implication appears.
 
 The scoped validator passes with 106 entries and 225 reserved forms. Its five
@@ -684,3 +688,84 @@ remains.
 
 **Verdict: PASS**
 
+### Pass 5 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-peace-they-could-sleep-through`
+- pass: 5
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `9f861f677276835866fcd785401a384ec34aa10d75306fc18d63b287da796b92`
+- canonDeltaSha256: `e512eaed72cbc5f89f48624ea4877afe7128d6a75faf1bccca75c60fdacf84e6`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `3efa20d42c15ea1ee18363ef3cf0c5cc30a45528ea8a88e6194a3b8c2b21f873`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 6 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `9f861f677276835866fcd785401a384ec34aa10d75306fc18d63b287da796b92`
+- Artifact SHA-256: `f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6`
+- Canon delta SHA-256: `e512eaed72cbc5f89f48624ea4877afe7128d6a75faf1bccca75c60fdacf84e6`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `9f861f677276835866fcd785401a384ec34aa10d75306fc18d63b287da796b92`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `e512eaed72cbc5f89f48624ea4877afe7128d6a75faf1bccca75c60fdacf84e6`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.
+
+### Pass 7 — origin-neutral terminology certification
+
+- Reviewed artifact: `05-story.md`
+- Artifact SHA-256: `f009f3970235a64af0510a9dff7df9cd34fdadbc835cc1bcd7393a9fd1aca2c6`
+- Previous canon delta SHA-256: `e512eaed72cbc5f89f48624ea4877afe7128d6a75faf1bccca75c60fdacf84e6`
+- Canon delta SHA-256: `448495ece3221eef64cd9e5dc567368d3c9cab82233330531952efa110c9784c`
+- Review date: 2026-08-02T04:05:08.5056492+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Review evidence
+
+- The full current delta was re-read after neutral terminology replaced a provenance-class label; no factual proposal, story claim, name inventory, or promotion recommendation changed.
+- Final name receipt `fdc98eee989e78591264135de165b91514abbe0a15c1cdde8c2e29b46014bbd4` passes against the exact current story,
+  delta, and scoped registry rows.
+
+#### Required fixes
+
+- None.

@@ -131,6 +131,12 @@ approved canon decision gives it wider scope.
   grit capable of burying stills and damaging exposed mechanisms.
 - **New character aliases beyond the final name inventory below:** None.
 
+## Final character-facing name inventory
+
+- **Tair Ked** — Reserved forms: `Tair Ked`; `Tair`
+- **Urumet** — Reserved forms: `Urumet`
+- **Yara Mesk** — Reserved forms: `Yara Mesk`; `Yara`
+
 ## Name registry updates
 
 Final story inventory:

@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 3 — final story focused recheck
+- Review pass: 5
+- Artifact SHA-256: `1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e`
+- Canon delta SHA-256: `9e8ee33afdb743776fa6d602e190db9e29bd1e70ced8844d21f528117ffe28ec`
 - Verdict: PASS
-- Updated: 2026-07-28
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 <!-- Preserve every pass. Duplicate the structure below for later passes, and
@@ -38,7 +44,7 @@ update Current certification to match the newest pass. -->
   none is treated as an autonomous magic user.
 - The setting stays in an unnamed era of the shared physical world. It makes
   no unsupported connection to Earth, Ravel, the Glass-Sea era, the Glass
-  Gate, any divine authority, or any candidate or legacy system.
+  Gate, any divine authority, or any candidate or archive record system.
 - The dead remain dead, the damage remains material, and neither the broken
   schedule nor the prospect of future freedom invalidates grief, consent, or
   responsibility. This satisfies the locked personhood and moral-consequence
@@ -247,7 +253,7 @@ update Current certification to match the newest pass. -->
   a location and `Covenant of Hours` is a civic system, not a character-facing
   alias.
 - No exact collision, close spelling, reversal, surname conflict, unresolved
-  legacy form, accidental reuse, or false identity, kinship, chronology, or
+  released reservation form, accidental reuse, or false identity, kinship, chronology, or
   crossover implication appears. The shared Cleft surname is documented and
   intentionally identifies one parent-child relationship.
 
@@ -464,3 +470,64 @@ update Current certification to match the newest pass. -->
   Critical or Major finding remains.
 
 **Verdict: PASS**
+
+### Pass 4 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-future-that-refused-us`
+- pass: 4
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `29582c49e8f0d529367d1a425066302b534577d8483986b8dd3c4370cc93db70`
+- canonDeltaSha256: `9e8ee33afdb743776fa6d602e190db9e29bd1e70ced8844d21f528117ffe28ec`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `7c0d5a49f7652eccfc20556905f22c18fc7599e69da3d890648128b1c9accac4`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 5 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `29582c49e8f0d529367d1a425066302b534577d8483986b8dd3c4370cc93db70`
+- Artifact SHA-256: `1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e`
+- Canon delta SHA-256: `9e8ee33afdb743776fa6d602e190db9e29bd1e70ced8844d21f528117ffe28ec`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `29582c49e8f0d529367d1a425066302b534577d8483986b8dd3c4370cc93db70`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `9e8ee33afdb743776fa6d602e190db9e29bd1e70ced8844d21f528117ffe28ec`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

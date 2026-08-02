@@ -1,0 +1,7 @@
+#Requires -Version 7.0
+. (Join-Path $PSScriptRoot 'TestHelpers.ps1');$root=New-TestRoot 'ledger'
+try{
+ Copy-Item (Join-Path $RepoRoot 'schemas') -Destination $root -Recurse;$null=New-Item -ItemType Directory -Path (Join-Path $root 'stories/sample') -Force;$script=Join-Path $RepoRoot '.agents/skills/story-integrity/scripts/Test-StoryHandoffs.ps1'
+ Write-TestJson (Join-Path $root 'stories/sample/handoffs.json') ([ordered]@{schemaVersion=3;storySlug='sample';entries=@()});$empty=Invoke-TestScript $script @('-Story','sample','-ProjectRoot',$root,'-OutputFormat','Json');Assert-True $empty.Succeeded $empty.Output
+ $entry=[ordered]@{sequence=2;story='sample';actor='wrong';mode='RESEARCH_CANON';status='READY';startedAt='2026-08-02T00:00:00Z';completedAt='2026-08-02T00:01:00Z';guardId=[guid]::NewGuid().ToString('N');persister='coordinator';report='status: READY';inputs=@('stories/sample/00-prompt.md','stories/sample/story.json','stories/sample/authority.json','stories/sample/handoffs.json');outputs=@('stories/sample/01-canon-brief.md');errorCode=$null;resolutionOwner=$null;resolutionQuestion=$null};Write-TestJson (Join-Path $root 'stories/sample/handoffs.json') ([ordered]@{schemaVersion=3;storySlug='sample';entries=@($entry)});$bad=Invoke-TestScript $script @('-Story','sample','-ProjectRoot',$root,'-OutputFormat','Json');Assert-True (-not$bad.Succeeded) 'Illegal sequence and actor were accepted.';'Handoff ledger tests passed.'
+}finally{Remove-TestRoot $root}

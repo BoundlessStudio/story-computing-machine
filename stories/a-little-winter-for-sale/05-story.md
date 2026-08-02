@@ -1,8 +1,6 @@
 ---
 title: "A Little Winter for Sale"
 slug: "a-little-winter-for-sale"
-status: candidate
-canon: false
 created: 2026-07-29
 ---
 

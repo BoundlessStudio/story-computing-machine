@@ -1,5 +1,9 @@
 # Prompt contract
 
+> Contract status: PENDING
+> Story slug: `{{slug}}`
+> Captured: {{date}}
+
 ## Verbatim writing prompt
 
 > {{prompt}}
@@ -17,7 +21,7 @@
 
 ## Assumptions
 
--
+- None recorded yet.
 
 ## Completion tests
 

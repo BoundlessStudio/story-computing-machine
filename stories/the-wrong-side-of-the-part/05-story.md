@@ -1,8 +1,6 @@
 ---
 title: "The Wrong Side of the Part"
 slug: "the-wrong-side-of-the-part"
-status: candidate
-canon: false
 created: 2026-07-25
 ---
 
@@ -128,7 +126,7 @@ I modelled three pieces at once over the impossible coils and told the crowd whi
 
 Every suppressed observation came out sharpened for entertainment. My jokes were accurate enough to draw blood and funny enough that the wounded laughed first.
 
-At four forty-three, Petra pushed through the door.
+At four forty-three, Petra Bristow pushed through the door.
 
 She wore her good coat and carried a document folder against her ribs. Her gaze went from the crowd to the open boxes, to the wig on my head, to the SELL sticker across the contract I had pinned to the wall.
 
@@ -327,4 +325,3 @@ The shop around us looked smaller without the wigs: just scuffed floorboards, sh
 “All right,” I said.
 
 Then I read her the rest of my terms aloud.
-

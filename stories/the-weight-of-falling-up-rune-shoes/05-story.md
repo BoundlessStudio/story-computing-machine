@@ -1,8 +1,6 @@
 ---
 title: "The Weight of Falling Up"
 slug: "the-weight-of-falling-up-rune-shoes"
-status: candidate
-canon: false
 created: 2026-07-23
 ---
 

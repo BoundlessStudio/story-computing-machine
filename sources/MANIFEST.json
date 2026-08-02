@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 3,
+  "prepared": "2026-07-22",
+  "authority": "none",
+  "decisionRecord": "sources/decisions/2026-07-22-universe-grill.md",
+  "records": [
+    {
+      "recordId": "S01-O",
+      "workTitle": "Daughter of the Sun outline",
+      "reviewedForm": "Detailed structural and world outline, about 12,023 words",
+      "path": "sources/records/s01-o/outline.md",
+      "authority": "none",
+      "verificationStatus": "verified",
+      "version": "archived repository copy prepared 2026-07-22",
+      "verifiedAt": "2026-08-02"
+    },
+    {
+      "recordId": "S03",
+      "workTitle": "Realms",
+      "reviewedForm": "Complete short story with sequel hook, about 3,260 words",
+      "path": "sources/records/s03/Realms.md",
+      "authority": "none",
+      "verificationStatus": "verified",
+      "version": "archived repository copy prepared 2026-07-22",
+      "verifiedAt": "2026-08-02"
+    },
+    {
+      "recordId": "S04",
+      "workTitle": "Self-Reflection",
+      "reviewedForm": "Complete short story, about 3,337 words",
+      "path": "sources/records/s04/Self-Reflection.md",
+      "authority": "none",
+      "verificationStatus": "verified",
+      "version": "archived repository copy prepared 2026-07-22",
+      "verifiedAt": "2026-08-02"
+    },
+    {
+      "recordId": "S06",
+      "workTitle": "The Names on the Cups",
+      "reviewedForm": "Complete long short story, about 7,535 words",
+      "path": "sources/records/s06/The Names on the Cups.md",
+      "authority": "none",
+      "verificationStatus": "verified",
+      "version": "archived repository copy prepared 2026-07-22",
+      "verifiedAt": "2026-08-02"
+    },
+    {
+      "recordId": "S07",
+      "workTitle": "The Small Moon Rose First",
+      "reviewedForm": "Full 40-chapter novel outline, about 8,470 words",
+      "path": "sources/records/s07/The_Small_Moon_Rose_First_Full_Outline.md",
+      "authority": "none",
+      "verificationStatus": "verified",
+      "version": "archived repository copy prepared 2026-07-22",
+      "verifiedAt": "2026-08-02"
+    },
+    {
+      "recordId": "S08",
+      "workTitle": "The Trouble With Tuesdays",
+      "reviewedForm": "Complete short story with cyclical hook, about 3,645 words",
+      "path": "sources/records/s08/The Trouble With Tuesdays.md",
+      "authority": "none",
+      "verificationStatus": "verified",
+      "version": "archived repository copy prepared 2026-07-22",
+      "verifiedAt": "2026-08-02"
+    }
+  ],
+  "externalRecords": [
+    {
+      "recordId": "S01",
+      "workTitle": "Daughter of the Sun",
+      "reviewedForm": "Complete novel draft, about 89,350 words",
+      "logicalLocator": "Light/version 3/draft/daughter_of_the_sun.md",
+      "authority": "none",
+      "verificationStatus": "descriptive-only",
+      "version": "not supplied",
+      "accessedAt": "2026-08-02",
+      "accessRequirements": "Provide the exact source bytes or a stable controlled locator before reliance."
+    },
+    {
+      "recordId": "S02",
+      "workTitle": "Day After",
+      "reviewedForm": "Complete short story, about 3,388 words",
+      "logicalLocator": "Day After/TheDayAfter.md",
+      "authority": "none",
+      "verificationStatus": "descriptive-only",
+      "version": "not supplied",
+      "accessedAt": "2026-08-02",
+      "accessRequirements": "Provide the exact source bytes or a stable controlled locator before reliance."
+    },
+    {
+      "recordId": "S05",
+      "workTitle": "The Inheritance",
+      "reviewedForm": "Complete short story, about 2,564 words",
+      "logicalLocator": "The Inheritance/The Inheritance.md",
+      "authority": "none",
+      "verificationStatus": "descriptive-only",
+      "version": "not supplied",
+      "accessedAt": "2026-08-02",
+      "accessRequirements": "Provide the exact source bytes or a stable controlled locator before reliance."
+    },
+    {
+      "recordId": "S09",
+      "workTitle": "Things September Can't Take",
+      "reviewedForm": "Complete 20-page short story, about 4,093 extracted words",
+      "logicalLocator": "Things_September_Cant_Take.pdf",
+      "authority": "none",
+      "verificationStatus": "descriptive-only",
+      "version": "not supplied",
+      "accessedAt": "2026-08-02",
+      "accessRequirements": "Provide the exact source bytes or a stable controlled locator before reliance."
+    },
+    {
+      "recordId": "S10",
+      "workTitle": "Writing rules",
+      "reviewedForm": "Authorial constraints, about 2,023 words",
+      "logicalLocator": "writing-rules.md",
+      "authority": "none",
+      "verificationStatus": "descriptive-only",
+      "version": "not supplied",
+      "accessedAt": "2026-08-02",
+      "accessRequirements": "Provide the exact source bytes or a stable controlled locator before reliance."
+    }
+  ]
+}

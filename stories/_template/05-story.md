@@ -1,8 +1,6 @@
 ---
 title: {{title_yaml}}
 slug: "{{slug}}"
-status: candidate
-canon: false
 created: {{date}}
 ---
 

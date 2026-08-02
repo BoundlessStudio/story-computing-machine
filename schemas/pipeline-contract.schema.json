@@ -1,0 +1,917 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://boundless.invalid/schemas/pipeline-contract-v2.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "trustModel",
+    "story",
+    "lifecycle",
+    "release",
+    "reviewPass",
+    "authority",
+    "handoffLedger",
+    "promotion",
+    "legacyAcceptance",
+    "sourceManifest"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 2
+    },
+    "trustModel": {
+      "const": "git-pr-human-review"
+    },
+    "story": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "fields",
+        "stages",
+        "statuses",
+        "userDispositions",
+        "provenanceValues"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 2
+        },
+        "fields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "stages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "statuses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "userDispositions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "provenanceValues": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "lifecycle": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "publishableStatuses",
+        "states"
+      ],
+      "properties": {
+        "publishableStatuses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "states": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "in-progress",
+            "candidate",
+            "final",
+            "abandoned"
+          ],
+          "properties": {
+            "in-progress": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "stages",
+                "canon",
+                "userDispositions",
+                "publish",
+                "promotionDate"
+              ],
+              "properties": {
+                "stages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "canon": {
+                  "type": "boolean"
+                },
+                "userDispositions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "publish": {
+                  "type": "array",
+                  "items": {
+                    "type": "boolean"
+                  }
+                },
+                "promotionDate": {
+                  "type": "string"
+                }
+              }
+            },
+            "candidate": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "stages",
+                "canon",
+                "userDispositions",
+                "publish",
+                "promotionDate"
+              ],
+              "properties": {
+                "stages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "canon": {
+                  "type": "boolean"
+                },
+                "userDispositions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "publish": {
+                  "type": "array",
+                  "items": {
+                    "type": "boolean"
+                  }
+                },
+                "promotionDate": {
+                  "type": "string"
+                }
+              }
+            },
+            "final": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "stages",
+                "canon",
+                "userDispositions",
+                "publish",
+                "promotionDate"
+              ],
+              "properties": {
+                "stages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "canon": {
+                  "type": "boolean"
+                },
+                "userDispositions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "publish": {
+                  "type": "array",
+                  "items": {
+                    "type": "boolean"
+                  }
+                },
+                "promotionDate": {
+                  "type": "string"
+                }
+              }
+            },
+            "abandoned": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "stages",
+                "canon",
+                "userDispositions",
+                "publish",
+                "promotionDate"
+              ],
+              "properties": {
+                "stages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "canon": {
+                  "type": "boolean"
+                },
+                "userDispositions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "publish": {
+                  "type": "array",
+                  "items": {
+                    "type": "boolean"
+                  }
+                },
+                "promotionDate": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "release": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "fields",
+        "artifactContainerFields",
+        "artifactFields",
+        "reviewFields",
+        "nameCheckFields",
+        "dependencyFields",
+        "certificationBases"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 3
+        },
+        "fields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "artifactContainerFields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "artifactFields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "reviewFields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "nameCheckFields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "dependencyFields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "certificationBases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "reviewPass": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fields",
+        "modes",
+        "persistedStatuses",
+        "verdicts"
+      ],
+      "properties": {
+        "fields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "modes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "persistedStatuses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "verdicts": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "authority": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "fields"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 2
+        },
+        "fields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "handoffLedger": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "fields",
+        "entryFields",
+        "statuses",
+        "modeContracts",
+        "releaseFamilies"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 3
+        },
+        "fields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "entryFields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "statuses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "modeContracts": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "RESEARCH_CANON",
+            "CREATE_PLAN",
+            "REVISE_PLAN",
+            "CREATE_DRAFT",
+            "REVISE_DRAFT",
+            "REVIEW_DRAFT",
+            "CREATE_FINAL",
+            "REVISE_FINAL",
+            "REVIEW_FINAL"
+          ],
+          "properties": {
+            "RESEARCH_CANON": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "CREATE_PLAN": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "REVISE_PLAN": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "CREATE_DRAFT": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "REVISE_DRAFT": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "REVIEW_DRAFT": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "CREATE_FINAL": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "REVISE_FINAL": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "REVIEW_FINAL": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "actor",
+                "persister",
+                "allowedStages",
+                "allowedOutputs",
+                "requiredInputs",
+                "statuses",
+                "requireAllReadyOutputs"
+              ],
+              "properties": {
+                "actor": {
+                  "type": "string"
+                },
+                "persister": {
+                  "type": "string"
+                },
+                "allowedStages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "allowedOutputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requiredInputs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "statuses": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "requireAllReadyOutputs": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        },
+        "releaseFamilies": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "promotion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "states",
+        "schemaPath"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 2
+        },
+        "states": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "schemaPath": {
+          "type": "string"
+        }
+      }
+    },
+    "legacyAcceptance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "path"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 1
+        },
+        "path": {
+          "type": "string"
+        }
+      }
+    },
+    "sourceManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "verificationStatuses"
+      ],
+      "properties": {
+        "schemaVersion": {
+          "const": 3
+        },
+        "verificationStatuses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

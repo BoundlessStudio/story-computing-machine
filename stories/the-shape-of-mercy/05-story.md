@@ -1,8 +1,6 @@
 ---
 title: "The Shape of Mercy"
 slug: "the-shape-of-mercy"
-status: candidate
-canon: false
 created: 2026-07-23
 ---
 

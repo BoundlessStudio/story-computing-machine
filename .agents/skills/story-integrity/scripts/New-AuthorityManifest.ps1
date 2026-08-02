@@ -1,0 +1,11 @@
+#Requires -Version 7.0
+[CmdletBinding()]param([Parameter(Mandatory)][string]$Story,[switch]$Verify,[ValidateSet('Text','Json')][string]$OutputFormat='Text',[string]$ProjectRoot)
+$ErrorActionPreference='Stop';if([string]::IsNullOrWhiteSpace($ProjectRoot)){$ProjectRoot=[IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../../../..'))}
+. (Join-Path $PSScriptRoot 'PipelineCommon.ps1');if(-not $Verify){Assert-ProductionBranch $ProjectRoot}
+$storyPath=Join-Path $ProjectRoot "stories/$Story/story.json";$record=Read-PipelineJson $storyPath;if($record.slug -cne $Story){throw 'Story identity mismatch.'}
+$branch='main';$base=$null;if(Test-Path -LiteralPath (Join-Path $ProjectRoot '.git')){& git -C $ProjectRoot rev-parse --verify origin/main *> $null;if($LASTEXITCODE -eq 0){$base=(& git -C $ProjectRoot merge-base HEAD origin/main|Out-String).Trim()}else{$base=(& git -C $ProjectRoot rev-parse HEAD|Out-String).Trim()}}
+$universe=@(Get-ChildItem -LiteralPath (Join-Path $ProjectRoot 'universe')-Filter *.md -File|ForEach-Object{Get-RelativeUnixPath $ProjectRoot $_.FullName}|Sort-Object)
+$canon=@(Get-ChildItem -LiteralPath (Join-Path $ProjectRoot 'stories')-Directory|Where-Object Name -ne '_template'|ForEach-Object{$p=Join-Path $_.FullName 'story.json';if(Test-Path $p){$j=Read-PipelineJson $p;if($j.status -ceq 'final'-and$j.canon -eq $true){[string]$j.slug}}}|Sort-Object)
+$value=[ordered]@{schemaVersion=2;storySlug=$Story;capturedAt=[DateTimeOffset]::UtcNow.ToString('o');baseBranch=$branch;baseCommit=$base;universeFiles=$universe;canonStories=$canon};$path=Join-Path $ProjectRoot "stories/$Story/authority.json"
+if($Verify){$stored=Read-PipelineJson $path;Assert-PipelineFields $stored @('schemaVersion','storySlug','capturedAt','baseBranch','baseCommit','universeFiles','canonStories') 'authority.json';if($stored.schemaVersion-ne 2-or$stored.storySlug-cne$Story-or$stored.baseBranch-cne$branch-or$stored.baseCommit-cne$base-or(@($stored.universeFiles)-join"`n")-cne($universe-join"`n")-or(@($stored.canonStories)-join"`n")-cne($canon-join"`n")){throw 'Authority inventory is stale.'};$value=$stored}else{Write-PipelineJson $path $value}
+if($OutputFormat -ceq 'Json'){$value|ConvertTo-Json -Depth 10}else{"Authority inventory $(if($Verify){'verified'}else{'written'}) for $Story."}

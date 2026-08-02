@@ -1,15 +1,21 @@
+
 # Continuity and story review
 
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 4 — final-story recheck
+- Review pass: 6
+- Artifact SHA-256: `21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0`
+- Canon delta SHA-256: `e04689f8e9f9488bef29106dd698ca3b932b7fd0e27722302da1539e4ebfbd13`
 - Verdict: PASS
-- Updated: 2026-07-27
+- Reviewer: primary_continuity_fallback
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 0
+- Updated: 2026-08-02T03:48:19.5150496+00:00
 
-This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
-
+This certification applies only to the exact artifact hashes above. The prose
+body and canon-delta bytes are unchanged from the preceding PASS; this pass
+certifies only removal of mutable lifecycle fields from YAML frontmatter.
 ## Review passes
 
 ### Pass 1 — draft review
@@ -296,3 +302,64 @@ end with a `PASS` certification for `05-story.md`.
 - None. No unresolved Critical, Major, Minor, or Optional finding remains.
 
 **Verdict: PASS**
+
+### Pass 5 — final-story migration certification
+
+REVIEW_PASS_PAYLOAD
+
+- story: `the-thirteenth-command`
+- pass: 5
+- reviewedArtifact: `05-story.md`
+- artifactSha256: `dd13f8b5b832554af46bac3f1671fce6b774aef8be84dc87434cae2b0e7937f7`
+- canonDeltaSha256: `e04689f8e9f9488bef29106dd698ca3b932b7fd0e27722302da1539e4ebfbd13`
+- reviewer: primary_continuity_fallback
+- reviewedAt: `2026-08-01T22:45:00-04:00`
+- reviewBasis: Prior specialist draft/final PASS history; current universe
+  LOCKED/CANON authority; the independent 17-story combined promotion audit;
+  exact current final/delta bytes; and successful strict Final name receipt
+  `14c8c0ee84a626009d07502b82e5814333e697ec8765d7b40568b0ebe2a33774`.
+- verdict: PASS
+- blockType: NONE
+- resolutionOwner: none
+- resolutionQuestion: none
+- unresolvedCounts: `{ critical: 0, major: 0, minor: 0 }`
+- certificationEligible: true
+- changeReport: read-only review; reviewed artifacts unchanged
+
+#### Prior finding dispositions
+
+No prior Critical or Major finding remained open in the preceding PASS.
+The migration review found no previously resolved blocker reopened by the
+frontmatter, exact-name-inventory, or LF normalization backfill.
+
+#### Findings
+
+None.
+
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 6 — immutable-frontmatter migration certification
+
+- Reviewed artifact: `05-story.md`
+- Previous artifact SHA-256: `dd13f8b5b832554af46bac3f1671fce6b774aef8be84dc87434cae2b0e7937f7`
+- Artifact SHA-256: `21a2190ca8a4caaf494646a1f4e9d5dcb1637143ea29a36d0352b834cd0facf0`
+- Canon delta SHA-256: `e04689f8e9f9488bef29106dd698ca3b932b7fd0e27722302da1539e4ebfbd13`
+- Review date: 2026-08-02T03:48:19.5150496+00:00
+- Verdict: PASS
+- Reviewer: primary_continuity_fallback
+- Findings: 0 Critical, 0 Major, 0 Minor
+
+#### Migration evidence
+
+- Reconstructing the former frontmatter from current immutable identity fields
+  plus the prior lifecycle values reproduces the prior release hash exactly:
+  `dd13f8b5b832554af46bac3f1671fce6b774aef8be84dc87434cae2b0e7937f7`.
+- The prose body beginning after the closing frontmatter delimiter is byte-for-byte
+  unchanged. `06-canon-delta.md` is also unchanged at `e04689f8e9f9488bef29106dd698ca3b932b7fd0e27722302da1539e4ebfbd13`.
+- The only story-byte change removes `status`, `canon`, `userDisposition`,
+  `publish`, and `promotionDate` from frontmatter. Those mutable fields remain
+  authoritative in `story.json` and checked projections.
+
+#### Required fixes
+
+- None.

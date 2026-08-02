@@ -1,8 +1,6 @@
 ---
 title: "The Future That Refused Us"
 slug: "the-future-that-refused-us"
-status: candidate
-canon: false
 created: 2026-07-28
 ---
 
