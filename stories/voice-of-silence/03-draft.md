@@ -106,7 +106,7 @@ The failed pattern struck her like a missed step in darkness. Her knees dipped. 
 
 A slab broke free above the gallery.
 
-Dorram moved before Kethra could finish mapping its fall. He planted his staff against the floor—not for power, only to mark the roof’s geometry—and gathered a familiar pattern into his own body. Amber lines climbed his arms. He selected the sagging ribs, drew breath, and called his own spell.
+Dorram moved before Kethra could finish mapping its fall. He planted his staff against the floor—not for power, only to mark the roof’s geometry—then caught the nearest brass node between his hands. With one hand he marked the registered shape for *Roofstay*; with the other he signed **yes** against the node, authorizing himself as both living shaper and living caller for that one cell. Amber lines climbed his arms as he gathered the familiar pattern into his body and selected the sagging ribs. When the shape was ready, he gave the two-finger ready sign to open the same twelve-heartbeat window Kethra used. One heartbeat later, he drew a single breath and called his own spell.
 
 “Roofstay!”
 
