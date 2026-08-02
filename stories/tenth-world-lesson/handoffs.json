@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "tenth-world-lesson",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-02T21:38:08.2297909+00:00",
+      "completedAt": "2026-08-02T22:05:04.4575675+00:00",
+      "guardId": "e41f6b89d482456ca3b96d143d2753be",
+      "persister": "story_architect",
+      "report": "status: READY\nstory_slug: tenth-world-lesson\nmode: CREATE_PLAN\nguard_id: e41f6b89d482456ca3b96d143d2753be\noutput: stories/tenth-world-lesson/02-story-plan.md\nchange_report: Wrote the scene-ready plan; no other files changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/tenth-world-lesson/00-prompt.md",
+        "stories/tenth-world-lesson/01-canon-brief.md",
+        "stories/tenth-world-lesson/authority.json",
+        "stories/tenth-world-lesson/handoffs.json",
+        "stories/tenth-world-lesson/story.json"
+      ],
+      "outputs": [
+        "stories/tenth-world-lesson/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
