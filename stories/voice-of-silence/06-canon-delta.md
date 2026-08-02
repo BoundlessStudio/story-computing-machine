@@ -38,7 +38,7 @@ unless its scope says otherwise.
   `stories/voice-of-silence/05-story.md`. **Suggested smallest topical target:**
   `universe/characters.md`.
 
-## Final character-facing name inventory
+## Final character-facing inventory:
 
 - **Kethra** — Reserved forms: `Kethra`
 - **Ulan** — Reserved forms: `Ulan`
