@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 3,
+  "storySlug": "voice-of-silence",
+  "entries": [
+    {
+      "sequence": 1,
+      "story": "voice-of-silence",
+      "actor": "canon_librarian",
+      "mode": "RESEARCH_CANON",
+      "status": "READY",
+      "startedAt": "2026-08-02T21:31:24.4825884+00:00",
+      "completedAt": "2026-08-02T21:41:35.8887249+00:00",
+      "guardId": "dee193408b3f49c5b63044f6864ced58",
+      "persister": "coordinator",
+      "report": "# Canon brief\n\nstatus: READY  \nresolutionOwner: none  \nstory: `voice-of-silence`  \nmode: `RESEARCH_CANON`  \nauthorityManifest: `stories/voice-of-silence/authority.json`  \nauthorityBaseCommit: `760be9974b5bf8bdd79a1961607b1a0a8fc52a15`\n\nNo user ruling is required. Planning is unblocked provided the vocal spell-name rule is a bounded local system, not a universal law governing every magical practice across the shared world.\n\n## Hard constraints\n\n- The setting belongs to the one persistent physical world established across deep time. The story may use an unnamed fantasy era and region, but “a world where” cannot establish a separate planet or overwrite the world’s other eras and systems (`universe/premise.md` — `## The deep-time shared world`; `universe/locations.md` — `## The world across eras`).\n\n- Magic, technology, and divinity are cultural labels for real underlying systems. This culture may correctly call its practice magic and its senior practitioner an archmage, but its vocabulary does not define an objective universal taxonomy (`universe/rules.md` — `## System categories`; `universe/glossary.md` — `## Magic, technology, and divinity`).\n\n- The audible spell-name requirement must be local. Existing canon contains magical practices that do not require spoken spell names, including Irix’s living-magic craft, Bellweather faculties, Nine Eaves wind runes, Northbridge transformations, and Solstice’s crown workings. The story must therefore avoid claims such as “all magic everywhere has always required a spoken name.” It may establish that every spell within this culture, school, jurisdiction, lineage, or bounded system requires its spell name to be audibly called (`universe/rules.md` — `## Irix household and Cinder Annex mechanisms`, `## Bellweather household faculties`, `## Northbridge trio transformation and support practice`, `## Solstice's thirteen-tone crown`; `stories/the-weight-of-falling-up-rune-shoes/05-story.md` — `# The Weight of Falling Up`).\n\n- The production contract remains controlling: spellcasting genuinely depends on a spell name being called out, the protagonist cannot produce ordinary spoken language, muteness remains a material constraint, and the climax cannot solve the premise through a cure or effortless technicality. Signing, writing, thinking, or merely displaying a spell name cannot silently become equivalent to calling it unless an audible call still occurs through the established mechanism (`stories/voice-of-silence/00-prompt.md` — `## Story controls`; `## Assumptions`; `## Completion tests`).\n\n- Only life can use magic. A nonliving focus, speaking apparatus, recorder, resonator, book, staff, or other device may store, focus, transmit, or shape magic supplied through living agency, but cannot independently become the magic user unless established as alive. If another being supplies a spell’s audible name, its life, agency, role, and consent must remain clear (`universe/rules.md` — `## Living agency and magic`).\n\n- Spell names cannot imply universal true-name metaphysics. Names are normally symbolic and socially powerful; literal name-power is a rare local effect. Treat vocal spell names as this system’s defined activation grammar or binding convention, not evidence that all names, identities, or words possess magic (`universe/rules.md` — `## Names and identity binding`).\n\n- Any cost, consent behavior, emotional fuel, voice-sharing rule, or caller–caster relationship must be defined locally and applied consistently. Neither cost, desire, nor consent has one universal metaphysical behavior (`universe/rules.md` — `## Costs, desire, and local mechanisms`).\n\n- The protagonist’s muteness must not be treated as intellectual, ethical, emotional, or magical deficiency. Their communication, judgment, expertise, and agency remain complete. No cure, restored speech, magical normalization, or revelation that they were “not really mute” may serve as reward or climax (`stories/voice-of-silence/00-prompt.md` — `## Story controls`; `universe/characters.md` — `## Irix`; `universe/style-guide.md` — `## Personhood and moral consequence`).\n\n- `Archmage` is not an established universe-wide rank or power class. It may be invented as a local office, qualification, social recognition, or mastery tier, but its criteria and authority must be demonstrated within this story and must not silently govern other mage traditions, including House Bellweather (`universe/factions.md` — `## House Bellweather`).\n\n- The teen treatment must remain broadly accessible and non-graphic. Magical danger and prejudice may be consequential, but disability-related mistreatment cannot be endorsed or reduced to spectacle (`universe/style-guide.md` — `## Audience and content boundaries`).\n\n## Useful established context\n\n- Deep time permits many unrelated magical cultures, including eras where a complex, openly magical society can exist without connecting to Ravel, the Glass-Sea era, or the modern-like low-magic period. Different systems need not operate in every era (`universe/premise.md` — `## The deep-time shared world`; `universe/rules.md` — `## System categories`).\n\n- Irix is a canonical deaf and non-speaking magical practitioner who communicates fluently through sign, writing, expression, diagrams, and visual systems. Irix supplies living magic, shapes embermoss, and produces sealing heat without cure or speech substitution. This establishes compatible disability treatment and non-speaking magical agency, but not a workaround for the new story’s distinct vocal spell system (`universe/characters.md` — `## Irix`; `universe/rules.md` — `## Irix household and Cinder Annex mechanisms`; `stories/the-friends-i-built/05-story.md` — `# The Friends I Built`).\n\n- Canon contains several bounded precedents where living voices, breath, words, or hearing matter:\n\n  - A rehearsed Gate Cant command spoken with living breath and stored charge severed one Glass Gate path. That behavior is expressly Gate-specific (`universe/rules.md` — `## Witnessed Glass Gate operation`; `stories/the-small-moon-rose-first/05-story.md` — `## Day 617`).\n  - Calvea’s Calling the Name requires a willing person within her hearing, her maintained dusk, her audible call, and the person’s claimed name. It is not universal identity magic (`universe/rules.md` — `## Calvea's dusk working and Calling the Name`; `stories/daughter-of-the-sun/05-story.md` — `# Daughter of the Sun`).\n  - Sablewake’s readers supplied a local prophecy system through living minds and voices; the nonliving schedule and bells only stored, focused, or transmitted their work (`universe/rules.md` — `## Covenant of Hours`; `stories/the-future-that-refused-us/05-story.md` — `# The Future That Refused Us`).\n  - Ersene alliance focuses are created through two living partners’ spoken assent and dragon breath, while later calls communicate rather than compel (`universe/rules.md` — `## Ersene alliance focuses and calls`; `stories/the-gentlest-terror/05-story.md` — `# The Gentlest Terror`).\n\n  These precedents show that voice-dependent local mechanisms are compatible with canon. They do not supply this story’s rules automatically.\n\n- Canon also demonstrates why the new mechanism cannot be universal:\n\n  - Irix works magic without speech.\n  - Bellweather users express individual faculties through living bodies and will, with no required spell-name call (`universe/rules.md` — `## Bellweather household faculties`; `stories/the-shape-of-mercy/05-story.md` — `# The Shape of Mercy`).\n  - Juni Wex activates drawn wind runes through living warmth and directed power rather than vocal naming (`stories/the-weight-of-falling-up-rune-shoes/05-story.md` — `# The Weight of Falling Up`).\n  - Northbridge focus tokens channel wearer-supplied transformation magic; copied voice commands do not compel transformation (`universe/rules.md` — `## Northbridge trio transformation and support practice`, `## Rollcaller mimicry and short-term containment`; `stories/the-attendance-ledger/05-story.md` — `# The Attendance Ledger`).\n  - Solstice directs stored final spells through her living nerves and will rather than by naming them aloud (`universe/rules.md` — `## Solstice's thirteen-tone crown`; `stories/solstice-evening-bell/05-story.md` — `# Solstice Evening Bell`).\n\n- House Bellweather supplies an established example of a locally renowned mage lineage, but its individual faculties, first-desire doctrine, rank structure, and unnamed era do not define this story’s culture. Similar “mage” vocabulary establishes no relationship (`universe/factions.md` — `## House Bellweather`).\n\n- Wide tonal and genre range, independent entry points, and local character-centered stories are explicitly supported. No crossover or cosmological exposition is required (`universe/style-guide.md` — `## Tonal range, scale, and connection`).\n\n## Conflicts or ambiguity\n\n- **No authoritative conflict requires a ruling.** The premise is compatible when scoped to one local spell system and culture.\n\n- **Conditional contradiction:** a literal claim that every magical practice across the shared world requires spoken spell names would contradict admitted canon stories showing non-vocal magic. The captured prompt already requires a mechanism that respects current authority, so the safe and controlling interpretation is local scope rather than a retcon.\n\n- **Omission, not contradiction:** canon establishes no society whose spells require their names to be called, no general theory of vocal spell activation, no mute archmage, and no established archmage office. These elements may be invented locally.\n\n- **Omission, not contradiction:** canon does not decide whether the spell’s caster must personally voice its name, whether another living participant may call it, or whether caller and shaper may be separate roles. The story must choose rather than treat one answer as pre-existing lore.\n\n- **Omission, not contradiction:** canon does not decide whether live breath, intelligible pronunciation, volume, intent, language, authorization, hearing, or social recognition makes an utterance a valid call.\n\n- Irix is not the prompt protagonist and should not be treated as a hidden crossover, prototype, or universal disability model. Irix is deaf and non-speaking; the new protagonist is specified only as unable to produce ordinary spoken language. Those descriptions must not be silently treated as identical diagnoses or experiences.\n\n- Gate Cant, Calling the Name, Sablewake’s living voices, Ersene calls, Solstice’s spells, and Northbridge voice mimicry resemble aspects of the premise but remain independent mechanisms. Shared use of breath, sound, names, calls, spells, or silence proves no common origin (`universe/style-guide.md` — `## Continuity and evidence discipline`).\n\n## Unknowns\n\n- The era, region, polity, institution, calendar, and relationship to established locations are unknown.\n\n- The spell system’s origin, users, source of living power, training method, costs, limits, counters, and failure modes are unknown.\n\n- What counts as “calling out” is unknown: minimum audibility, intelligibility, intended listener, exact pronunciation, rhythm, volume, breath, language, accent, and whether an involuntary sound can qualify.\n\n- Whether spell names are intrinsic, authored, assigned, translated, inherited, secret, changeable, or socially recognized is unknown.\n\n- Whether one spell has one valid name, multiple synonyms, translated forms, abbreviated calls, aliases, or nested components is unknown.\n\n- Whether the caller must be the caster is unknown. If roles can be separated, the required relationship among caller, living power source, spell designer, target, and nonliving focus is unknown.\n\n- Whether a recorded, synthesized, echoed, illusory, ventriloquized, telepathically prompted, or mechanically amplified voice can satisfy the rule is unknown. Canon allows nonliving tools to transmit or shape living-supplied magic, but does not make playback a living call.\n\n- Whether a living familiar, construct, organism, assistant, interpreter, choir, or partner can call a spell for another practitioner is unknown. Any such participant’s agency and consent must be preserved.\n\n- The protagonist’s cause, duration, and physical specifics of muteness are unknown and need not be explained unless directly necessary. Muteness alone establishes nothing about hearing, cognition, literacy, sign fluency, magical aptitude, or capacity for nonlinguistic sound.\n\n- The protagonist’s communication methods, accommodations, training history, prior exclusions, collaborators, and route to mastery are unknown.\n\n- The definition of archmage is unknown: examination rank, office, peer recognition, institutional authority, breadth of spell knowledge, demonstrated judgment, teaching role, or another local standard.\n\n- The number and scope of spells the protagonist can use, design, direct, counter, or coordinate are unknown.\n\n- All character-facing personal names, aliases, proper titles, named animals, living constructs, person-like entities, and institutions are unknown.\n\n## Safe invention space\n\n- Create one bounded magical culture, guild, court, academy, city, or professional order in an unnamed era of the shared physical world.\n\n- Define a local vocal spell grammar with concrete activation requirements, observable failures, and stable boundaries. The spell’s name must actually be called aloud during successful casting.\n\n- Separate magical functions if useful—for example authorship, power supply, targeting, shaping, and audible calling—provided the story makes the causal chain clear and does not reduce the call to a cosmetic formality.\n\n- Explore a demanding, nontrivial route by which the protagonist works within the vocal requirement: coordinated living callers, interpreters, a consenting partner or choir, carefully structured relay casting, authored spell systems, counterspells, prepared tactical language, or another bounded method. These are options, not established canon. Any selected solution must preserve latency, dependence, consent, interruption risk, or another meaningful consequence so muteness remains material.\n\n- Let the protagonist’s archmage standing rest on demonstrated mastery, invention, preparation, teaching, command judgment, spell design, or consequential coordination. Another person supplying sound must not erase the protagonist’s authorship, living agency, decision-making, or earned achievement.\n\n- Invent local accessibility practices and failures, including visual warnings, sign languages, written planning, tactile cues, caller protocols, emergency fallbacks, and institutional prejudice. Avoid making universal claims about disability or magical accommodation.\n\n- Use nonliving resonators, masks, staves, books, chambers, or other devices as storage, focusing, transmission, or amplification tools while keeping living magical agency explicit.\n\n- Invent local spell names and terminology. Do not reuse `Gate Cant`, `Calling the Name`, `Bell-step`, `Full chord`, `Covenant of Hours`, `Ersene call`, or another established term for an unrelated mechanism.\n\n- Keep the setting independent of Irix, Cinder Annex, House Bellweather, Nine Eaves, Northbridge, Solstice, Ravel, and the Glass-Sea systems unless a later explicit production decision accepts the continuity burden.\n\n- Record any reusable spell-system, archmage-office, institution, location, or recurring-character fact later as a proposed canon delta. None is established by this research brief.\n\n## Name constraints\n\n- `stories/NAMES.md` is production memory rather than canon, but all unreleased reserved forms remain unavailable for casual reuse. It currently reports no unresolved collision.\n\n- No personal name is supplied by the prompt. Canon research must not choose one. Planning must validate every full name, given name, mononym, nickname, alias, title used as a name, named animal, living caller, familiar, construct, and person-like entity.\n\n- Especially relevant existing reservations include `Irix`, `Belphegor`, `Ekri`, `Knurl`, `Thimble`, `Instructor Bexel`, `Juni Wex`, `Examiner Dovek`, the Bellweather family forms, `Solstice Evening Bell`, `First Monarch`, `Night Clerk`, `Mothlight`, `Pulsewire`, and `Kiteglass`.\n\n- Silence-adjacent abandoned-production reservations remain unavailable: `the Quiet Party`, `Veda Crake`, `Osket Firth`, and `Pim Fallow`. Their non-canon stories establish no lore, but their names remain reserved.\n\n- `archmage` may remain a lowercase common office or rank. If `Archmage`, `the Archmage`, or a compound title becomes a character’s standalone identity or alias, it must be registered and checked like any other character-facing name.\n\n- Spell names are not automatically character-name registry entries. If a spell, grimoire, voice, familiar, or magical manifestation is personified or treated as a person-like identity, its name must be validated and registered.\n\n- Check exact matches, aliases, close spellings, reversals, sound-alikes, and confusable forms. A deliberately reused identity must have a story-significant reason and clear reader disambiguation; this prompt requires no reuse.\n\n- Check new spell terminology separately against `universe/glossary.md` so an unrelated activation word does not accidentally appropriate an established system term.\n\n## Required checks after drafting\n\n- Audit every universalizing statement. Replace unsupported “all magic,” “every mage,” “the law of magic,” or world-spanning claims with this culture’s or system’s bounded rule.\n\n- For every consequential spell, identify:\n\n  1. the living magic user or power source;\n  2. the person or being who audibly calls the spell name;\n  3. the role of any nonliving focus or transmitter;\n  4. the established cost, delay, limitation, and failure behavior;\n  5. why the casting succeeds under rules already introduced.\n\n- Confirm that successful spellcasting always includes a genuine audible name call. Signing, writing, thought, gesture, lip movement, or an unexplained silent exception cannot satisfy the premise by itself.\n\n- Confirm that the chosen caller–caster workaround is introduced before the climax, carries meaningful constraints, and does not become an effortless technicality.\n\n- Confirm that the protagonist remains unable to produce ordinary spoken language at the end. Reject cures, restored speech, hidden voices, temporary normalization, possession, or “speaking through magic” if they erase the material constraint rather than operate within it.\n\n- Confirm that the protagonist’s archmage status has concrete local criteria and is earned and demonstrated through consequential choices. The climax must show mastery or judgment attributable to the protagonist, not merely another character casting on their behalf.\n\n- Track the protagonist’s communication access scene by scene. Other characters may misunderstand or discriminate, but the narrative must not equate muteness with ignorance, passivity, deficient thought, or moral purity.\n\n- Verify the agency and consent of every living caller, interpreter, familiar, construct, choir member, or assistant. Do not reduce a person-like voice source to equipment.\n\n- If recorded, synthetic, echoed, borrowed, or mechanically amplified speech appears, establish exactly why it does or does not qualify, and preserve the rule that the nonliving apparatus is not independently using magic.\n\n- Check that vocal spell names have not been conflated with identity true names, Ravel identity-lines, Calvea’s Calling the Name, Gate Cant, or another established mechanism.\n\n- Recheck era and location claims. An openly magical archmage institution should not be placed casually in the modern-like low-magic era without a coherent explanation.\n\n- Recheck all character-facing names after planning and after final review against the complete current `stories/NAMES.md`, including proper titles and person-like magical entities.\n\n- Confirm that danger and disability-related hostility remain non-graphic, consequence-centered, and appropriate for the teen audience.\n\n- Ensure `06-canon-delta.md` treats every new reusable fact as proposed rather than already established.\n\n## Sources\n\n### Story authority and production contract\n\n- `stories/voice-of-silence/00-prompt.md` — `## Verbatim writing prompt`; `## Story controls`; `## Assumptions`; `## Completion tests`\n- `stories/voice-of-silence/story.json` — complete lifecycle record\n- `stories/voice-of-silence/authority.json` — complete v2 authority inventory\n- `stories/voice-of-silence/handoffs.json` — current ordered handoff ledger\n- `stories/INDEX.md` — `# Story index`\n\n### Universe authority\n\n- `universe/README.md` — `## Authority order`; `## Entry format`; `## Files`\n- `universe/premise.md` — `## The deep-time shared world`; `## Knowledge and connection`\n- `universe/locations.md` — `## The world across eras`\n- `universe/rules.md` — `## System categories`; `## Living agency and magic`; `## Costs, desire, and local mechanisms`; `## Names and identity binding`; `## Witnessed Glass Gate operation`; `## Calvea's dusk working and Calling the Name`; `## Irix household and Cinder Annex mechanisms`; `## Solstice's thirteen-tone crown`; `## Northbridge trio transformation and support practice`; `## Rollcaller mimicry and short-term containment`; `## Ersene alliance focuses and calls`; `## Covenant of Hours`; `## Bellweather household faculties`\n- `universe/characters.md` — `## Irix`\n- `universe/factions.md` — `## House Bellweather`\n- `universe/glossary.md` — `## Magic, technology, and divinity`; `## Gate Cant`; `## Calling the Name`\n- `universe/style-guide.md` — `## Personhood and moral consequence`; `## Prose defaults`; `## Tonal range, scale, and connection`; `## Audience and content boundaries`; `## Continuity and evidence discipline`\n- `universe/retcons.md` — `# Retcon log` (no approved retcon relevant to this premise)\n\n### Relevant admitted canon stories\n\n- `stories/the-friends-i-built/05-story.md` — `# The Friends I Built`\n- `stories/the-small-moon-rose-first/05-story.md` — `## Day 617`\n- `stories/daughter-of-the-sun/05-story.md` — `# Daughter of the Sun`\n- `stories/solstice-evening-bell/05-story.md` — `# Solstice Evening Bell`\n- `stories/the-attendance-ledger/05-story.md` — `# The Attendance Ledger`\n- `stories/the-future-that-refused-us/05-story.md` — `# The Future That Refused Us`\n- `stories/the-gentlest-terror/05-story.md` — `# The Gentlest Terror`\n- `stories/the-shape-of-mercy/05-story.md` — `# The Shape of Mercy`\n- `stories/the-weight-of-falling-up-rune-shoes/05-story.md` — `# The Weight of Falling Up`\n\n### Production memory\n\n- `stories/NAMES.md` — `## Rules`; registry table; `## Known unresolved name collisions`\n\n### Verified but non-canonical evidence\n\n- `sources/README.md` — `# Evidence records`\n- `sources/MANIFEST.json` — verified record `S07`, with `authority: none`\n- `sources/records/s07/The_Small_Moon_Rose_First_Full_Outline.md` — `## The Glass Gate rule` and Gate Cant material; consulted only as inert provenance. It cannot extend or override current universe entries or the admitted final story.",
+      "inputs": [
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/01-canon-brief.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "voice-of-silence",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-02T21:42:00.6585285+00:00",
+      "completedAt": "2026-08-02T22:09:18.5423694+00:00",
+      "guardId": "9f2bac5b56824801be68a4717c551f3d",
+      "persister": "story_architect",
+      "report": "status: READY  \nchangedPath: `stories/voice-of-silence/02-story-plan.md`  \nnameInventory:\n- `Kethra` — unique\n- `Ulan` — unique\n- `Dorram` — unique\n\nscopeCheck: only the allowed plan path changed; six scenes; 3,235 words; complete four-column Name check.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "voice-of-silence",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:10:56.1318232+00:00",
+      "completedAt": "2026-08-02T22:19:22.4619251+00:00",
+      "guardId": "eae0ae7a882d40feb9bd36edb8f2163c",
+      "persister": "prose_writer",
+      "report": "status: READY  \nchangedPath: `stories/voice-of-silence/03-draft.md`  \nwordCount: 3159  \nnameInventoryUsed: `Kethra`, `Ulan`, `Dorram`  \nscopeCheck: only the allowed draft path changed  \ncompliance: Complete six-scene, close-third past-tense teen fantasy draft; follows the prompt, canon brief, authority, and plan. Every successful spell has an audible living consenting caller; fatigue, voice limits, **yes / wait / stop**, rail failures, and local scope remain material. No cure, hidden voice, playback activation, universalization, or new character-facing names.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "voice-of-silence",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:19:57.7685221+00:00",
+      "completedAt": "2026-08-02T22:28:44.3614994+00:00",
+      "guardId": "a6e915184e4d40f6b29a49dfc661af7b",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"voice-of-silence\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/voice-of-silence/03-draft.md\",\n  \"authorityManifest\": \"stories/voice-of-silence/authority.json\",\n  \"handoffLedger\": \"stories/voice-of-silence/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:27:02.4167167Z\",\n  \"reviewBasis\": \"Read-only review of stories/voice-of-silence/00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md, authority.json, handoffs.json, and stories/NAMES.md; checked against the LOCKED/CANON universe inventory captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15. No prior completed review exists; a final delta is not applicable to REVIEW_DRAFT.\",\n  \"verdict\": \"REVISE\",\n  \"blockType\": \"NONE\",\n  \"resolutionOwner\": \"prose_writer\",\n  \"resolutionQuestion\": \"none\",\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 1,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [\n    {\n      \"id\": \"VOS-DRAFT-001\",\n      \"severity\": \"Major\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"spell-mechanism consistency\",\n      \"locations\": [\n        \"stories/voice-of-silence/03-draft.md:19\",\n        \"stories/voice-of-silence/03-draft.md:109-113\"\n      ],\n      \"evidence\": \"The draft establishes that a spell needs an authorized living caller, while the controlling plan defines authorization through a brass-node call-link and requires the ready window before the audible name. Dorram instead plants only his staff, shapes Roofstay, and immediately calls its name; no node authorization or ready step appears, yet the spell succeeds. Dorram being both shaper and caller preserves living agency and consent, but the prose does not show that this consequential success satisfies the activation gate already established for the local practice.\",\n      \"requiredResolution\": \"Revise the Roofstay beat so Dorram's self-call visibly satisfies the already-established node authorization/link and ready-window rules, with the staff remaining only a geometry marker, or remove the successful release. Do not add an emergency or self-caller exception that is absent from the plan.\",\n      \"owner\": \"prose_writer\"\n    }\n  ],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Read-only review; no files changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "voice-of-silence",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:29:12.6617158+00:00",
+      "completedAt": "2026-08-02T22:31:59.6703202+00:00",
+      "guardId": "c7aa6b604116480fb556cbb435cd0711",
+      "persister": "prose_writer",
+      "report": "status: READY  \nchangedPath: `stories/voice-of-silence/03-draft.md`  \nwordCount: 3225  \nfindingDisposition: `VOS-DRAFT-001 — RESOLVED` — Dorram now authorizes himself as shaper and caller through a brass node, signs **yes**, gives the ready sign, and calls `Roofstay` within the twelve-heartbeat window. His staff remains only a geometry marker.  \nscopeCheck: only the allowed draft path changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "voice-of-silence",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:32:34.9405009+00:00",
+      "completedAt": "2026-08-02T22:34:46.7614816+00:00",
+      "guardId": "654bc41bb3af489da8a2b82e0cccc936",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"voice-of-silence\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/voice-of-silence/03-draft.md\",\n  \"authorityManifest\": \"stories/voice-of-silence/authority.json\",\n  \"handoffLedger\": \"stories/voice-of-silence/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:33:47.4385615Z\",\n  \"reviewBasis\": \"Read-only complete re-review of stories/voice-of-silence/00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, revised 03-draft.md at checkpoint c5fbab6, 04-review.md through pass 1, authority.json, handoffs.json through completed sequence 5, and stories/NAMES.md; checked against the unchanged LOCKED/CANON universe inventory captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15. A final delta is not applicable to REVIEW_DRAFT.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": \"NONE\",\n  \"resolutionOwner\": \"none\",\n  \"resolutionQuestion\": \"none\",\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"VOS-DRAFT-001\",\n      \"priorPass\": 1,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/voice-of-silence/03-draft.md:109-113, Dorram now uses a brass node, marks Roofstay, signs yes to authorize himself as living shaper and caller for the cell, gives the two-finger ready sign, calls within the twelve-heartbeat window on one breath, and keeps the staff limited to geometry. The successful release now follows the established activation gate without adding an exception.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Read-only review; no files changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 7,
+      "story": "voice-of-silence",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:35:23.8662514+00:00",
+      "completedAt": "2026-08-02T22:45:39.4538698+00:00",
+      "guardId": "000872a9c47b4578a34934bbb3df4b12",
+      "persister": "story_editor",
+      "report": "status: READY  \nchangedPaths:\n- `stories/voice-of-silence/05-story.md`\n- `stories/voice-of-silence/06-canon-delta.md`\n\nfinalWordCount: 3225  \ncharacterInventory: `Kethra`; `Ulan`; `Dorram`  \ndeltaItemCount: 23  \nconstraintChecks: frontmatter PASS; prompt PASS; canon PASS; names PASS  \nscopeCheck: exactly both allowed paths changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/05-story.md",
+        "stories/voice-of-silence/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "voice-of-silence",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:46:19.1678057+00:00",
+      "completedAt": "2026-08-02T22:51:26.7502064+00:00",
+      "guardId": "748e2df145894edd8a151127248aaf83",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"voice-of-silence\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 3,\n  \"reviewedArtifact\": \"stories/voice-of-silence/05-story.md\",\n  \"authorityManifest\": \"stories/voice-of-silence/authority.json\",\n  \"handoffLedger\": \"stories/voice-of-silence/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:50:27.7253245Z\",\n  \"reviewBasis\": \"Read-only joint review of stories/voice-of-silence/05-story.md and stories/voice-of-silence/06-canon-delta.md at clean checkpoint 5c574ad, with 00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md through passes 1-2, authority.json, handoffs.json through completed sequence 7, and stories/NAMES.md. Checked prompt fulfillment, unchanged LOCKED/CANON authority captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15, local scope, chronology, causality, spell activation, living agency, consent, disability treatment, prose readiness, immutable frontmatter, all 23 proposed delta items and their resolvable dependencies/targets, final character inventory, three-column non-character allowlist, and registry uniqueness.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": \"NONE\",\n  \"resolutionOwner\": \"none\",\n  \"resolutionQuestion\": \"none\",\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"VOS-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"The final prose preserves the corrected Roofstay activation at stories/voice-of-silence/05-story.md:109-113: Dorram uses a brass node, marks the registered spell, signs yes as living shaper/caller, opens the twelve-heartbeat ready window, calls on one breath, and keeps the staff limited to geometry. The final delta records the same bounded mechanism consistently in VOS-03, VOS-05, VOS-08, VOS-09, and VOS-16.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Read-only review; no files changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/05-story.md",
+        "stories/voice-of-silence/06-canon-delta.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 9,
+      "story": "voice-of-silence",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:53:46.5229294+00:00",
+      "completedAt": "2026-08-02T22:55:33.5173583+00:00",
+      "guardId": "39fe328375004c7080aac3100a3fe784",
+      "persister": "story_editor",
+      "report": "status: READY  \nchangedPath: `stories/voice-of-silence/06-canon-delta.md`  \nfindingDisposition: RESOLVED — exact `Final character-facing inventory:` label added; final-name gate passes.  \n05-story.md: untouched; SHA-256 unchanged.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/05-story.md",
+        "stories/voice-of-silence/06-canon-delta.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 10,
+      "story": "voice-of-silence",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:56:06.5158600+00:00",
+      "completedAt": "2026-08-02T22:57:59.0838592+00:00",
+      "guardId": "af837fc682534c6c8537f5aee0043f35",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"voice-of-silence\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 4,\n  \"reviewedArtifact\": \"stories/voice-of-silence/05-story.md\",\n  \"authorityManifest\": \"stories/voice-of-silence/authority.json\",\n  \"handoffLedger\": \"stories/voice-of-silence/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:57:03.4823063Z\",\n  \"reviewBasis\": \"Read-only joint re-review of unchanged stories/voice-of-silence/05-story.md and corrected stories/voice-of-silence/06-canon-delta.md at clean checkpoint 34b85a8, with 00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md through pass 3, authority.json, handoffs.json through completed sequence 9, and stories/NAMES.md. The sole final-artifact change since the pass-3 PASS is the delta heading correction from '## Final character-facing name inventory' to '## Final character-facing inventory:'; all 23 proposed facts, dependencies, targets, inventory rows, allowlist rows, and final prose are unchanged. The strict Final name gate (story-names/3) passed at 2026-08-02T22:56:55.9369878+00:00 with zero warnings and zero errors.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": \"NONE\",\n  \"resolutionOwner\": \"none\",\n  \"resolutionQuestion\": \"none\",\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"VOS-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"The unchanged final prose still preserves the corrected Roofstay activation at stories/voice-of-silence/05-story.md:109-113, and the unchanged delta records it consistently in VOS-03, VOS-05, VOS-08, VOS-09, and VOS-16. Pass 3 confirmed the resolution; the pass-4 formatting-only change does not affect it.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Read-only review; no files changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/05-story.md",
+        "stories/voice-of-silence/06-canon-delta.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    }
+  ]
+}
