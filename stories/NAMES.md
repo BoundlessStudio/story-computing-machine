@@ -24,7 +24,7 @@ accidental reuse.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-07-31.
+Last reconciled: 2026-08-01.
 
 Seed baseline: all six portable starting seeds in `stories/_legacy/MANIFEST.md`
 (`S01-O`, `S03`, `S04`, `S06`, `S07`, and `S08`) were audited on
@@ -43,6 +43,7 @@ unnamed.
 | Assessor Havil | `Assessor Havil`; `Havil` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. `Assessor` was a common role noun, not a standalone proper name. |
 | Aunt Linda | `Aunt Linda`; `Linda` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Aunt Zephra Morrow | `Aunt Zephra Morrow`; `Zephra Morrow`; `Aunt Zephra`; `Zephra` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Greer's deceased great-great-aunt; `Aunt Zephra` consistently distinguishes the kinship role, and the shared Morrow surname intentionally marks one family. `Zephra Morrow` remains reserved from planning but is not independently used in final prose. |
+| Aven | `Aven` | `the-last-thing-i-could-fix` | candidate | unique | No reuse. Young they/them hero and bearer of the nonliving plot-armor harness; distinct in spelling, cadence, and role from registered Adrian, Asha, Evelyn, Oren, and Veda. Final prose uses no surname, nickname, heroic epithet, or capitalized role title. |
 | Baird Ansel | `Baird Ansel`; `Baird` | `the-future-that-refused-us` | candidate | unique | No reuse. Sablewake's first reader; `first reader` remains a lowercase common role, and `Ansel` is not used alone as his individual label. |
 | Belphegor | `Belphegor` | `the-friends-i-built` | candidate | unique | No reuse. Prompt-required archdemon and Irix's parent; `archdemon` and relational descriptions remain common nouns rather than aliases. |
 | Ben | `Ben` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
@@ -65,12 +66,14 @@ unnamed.
 | Eli Mercer | `Eli Mercer`; `Eli` | `the-trouble-with-tuesdays` / legacy `S08` | legacy seed | unique | — |
 | Examiner Dovek | `Examiner Dovek`; `Dovek` | `the-weight-of-falling-up-rune-shoes` | candidate | unique | `Examiner` is a common role noun and is not used alone as a proper name. |
 | Evelyn Bellweather | `Evelyn Bellweather`; `Evelyn` | `the-shape-of-mercy` | candidate | unique | No reuse. Eldest Bellweather sibling; the shared surname intentionally marks one family. |
+| Fiora Halwick | `Fiora Halwick`; `Fiora` | `the-courtesy-of-blades` | candidate | unique | No reuse. Adult woman, Lacebridge assistant instructor, East Weir head-instructor appointee, and viewpoint duelist; final prose uses both listed forms, never `Halwick` alone. Her forms are distinct from all registered F-initial forms and from Jasper and Quade. |
 | Frank | `Frank` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Garran Bellweather | `Garran Bellweather`; `Garran` | `the-shape-of-mercy` | candidate | unique | No reuse. Estranged father; “my father” remains an ordinary role description, not a registered alias. |
 | Gelda Parn | `Gelda Parn`; `Gelda` | `the-peace-they-could-sleep-through` | candidate | unique | No reuse. Human city delegate in the grain dispute; `Parn` is not used alone, and faction titles remain common descriptions. |
 | Gideon Tolland / Night Clerk | `Gideon Tolland`; `Gideon`; `Mr. Tolland`; `Night Clerk` | `the-attendance-ledger` | candidate | unique | No reuse. Civilian teacher and anonymous handler forms belong to one continuing identity; `Tolland` and `Clerk` are not used alone. The reader knows the mapping, while the girls hear only the voice-scrambled `Night Clerk`; the forms are distinct from registered staff and titled identities. |
 | Greer Morrow | `Greer Morrow`; `Greer` | `a-place-for-the-living` | candidate | unique | No unrelated reuse. Imani's necromancer girlfriend; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | GutSaint72 | `GutSaint72` | `realms` / legacy `S03` | legacy seed | unique | Runner forum username. |
+| Hadrik | `Hadrik` | `the-last-thing-i-could-fix` | candidate | unique | No reuse. First-person legendary smith and only bearer of this mononym; readily distinguished from registered Havil and Harven by spelling, stress, and role. Final prose uses no surname, nickname, epithet, or capitalized occupational title. |
 | Harven Coil | `Harven Coil`; `Harven` | `the-thirteenth-command` | candidate | unique | No reuse. Copperwell watch captain; `watch captain` remains a common role description and reserved `Captain` is never used as his standalone name. `Coil` is not used alone. |
 | Hester Pike | `Hester Pike`; `Hester` | `the-station-between` | candidate | unique | No reuse. Local station attendant; `Pike` is not used alone, and `attendant` remains an ordinary role noun rather than an alias. |
 | Highway | `Highway` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Nickname or surname used as Rae's boyfriend's only story-facing name. |
@@ -80,6 +83,7 @@ unnamed.
 | Irix | `Irix` | `the-friends-i-built` | candidate | unique | No reuse. First-person protagonist; distinct in spelling and cadence from reserved `Ilya` and `Ivo`. |
 | Istra Noll | `Istra Noll`; `Istra`; `Noll` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. First-person human water auditor; `Noll` is used by Kharost as a surname label, while the full identity remains reserved. |
 | Ivo Darr | `Ivo Darr`; `Ivo` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Jasper Renlow | `Jasper Renlow`; `Jasper` | `the-courtesy-of-blades` | candidate | unique | No reuse. Adult river-patrol fencer, Fiora's longtime rival, and romantic counterpart; final prose uses both listed forms, never `Renlow` alone. His forms are distinct from all registered J-initial forms and from Fiora and Quade. |
 | Jocelyn Park | `Jocelyn Park`; `Jocelyn` | `self-reflection` / legacy `S04` | legacy seed | unique | — |
 | Jonathan | `Jonathan`; `Jomathan` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | `Jomathan` is Tess's one-off cup misspelling of Jonathan's name. |
 | Jordan Price | `Jordan Price`; `Jordan` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | — |
@@ -125,13 +129,14 @@ unnamed.
 | Olyra | `Princess Olyra`; `Olyra`; `Queen Olyra` | `the-gentlest-terror` | candidate | unique | No reuse. One continuous royal identity before and after accession; all three forms appear in final prose, and the changing title records story state rather than a second person. |
 | Oren | `Oren` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unique | Possible road name; full identity remains undisclosed. |
 | Orrin Pell | `Orrin Pell`; `Orrin`; `Pell` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unresolved | `Pell` also names a distinct Regent official in `S07`; the legacy record treats the overlap as accidental pending adaptation. |
-| Osket Firth | `Osket Firth`; `Osket` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent rope scout; `Firth`, shortened forms, and capitalized role labels are not used as individual names. Spelling, cadence, rigging role, and physical-demonstration style distinguish him from Osric, Othran, Oren, Orrin, and Olyra. |
+| Osket Firth | `Osket Firth`; `Osket` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent rope scout, climber, lock-picker, and habitual side-route explorer; `Firth`, shortened forms, and capitalized role labels are not used as individual names. Spelling, cadence, equipment, and exploration habits distinguish him from Osric, Othran, Oren, Orrin, and Olyra. |
 | Paul | `Paul` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | — |
 | Pell | `Pell` | `the-small-moon-rose-first` / legacy `S07` | legacy seed | unresolved | Distinct from Orrin Pell; rename one during adaptation unless a meaningful connection is explicitly approved. |
 | Petra Bristow | `Petra Bristow`; `Petra` | `the-wrong-side-of-the-part` | candidate | unique | No unrelated reuse. Tilda's younger sister and co-owner of their late mother's shop; the shared surname intentionally marks one family, and `Bristow` is not used alone as her individual label. |
 | Phoebe Bellweather | `Phoebe Bellweather`; `Phoebe` | `the-shape-of-mercy` | candidate | unique | No reuse. Youngest Bellweather sibling; no nickname planned. |
-| Pim Fallow | `Pim Fallow`; `Pim` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent field medic and river naturalist; `Fallow`, shortened forms, and capitalized role labels are not used as individual names. Waterproof notes, comprehension checks, and animal care keep their role distinct from the other party members. |
+| Pim Fallow | `Pim Fallow`; `Pim` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent, resourceful adventurer whose unexplained inventory gathering produces later solutions; `Fallow`, shortened forms, and capitalized role labels are not used as individual names. Their mushrooms, door wedge, ration, mirror, and hookbeak care distinguish them from the other party members without written dialogue. |
 | Priya | `Priya` | `realms` / legacy `S03` | legacy seed | unique | — |
+| Quade | `Quade` | `the-courtesy-of-blades` | candidate | unique | No reuse. Adult mutual friend and qualified bout official; final prose uses only this mononym. `friend`, `referee`, `official`, and `yardkeeper` remain lowercase role nouns rather than aliases. The clipped Q-initial form is distinct from all registered forms and from Fiora and Jasper. |
 | Queen Aurelia / the Goddess | `Queen Aurelia`; `Aurelia`; `the Goddess`; `Goddess`; `Goddess of the Sun`; `the Goddess of the Sun`; `Sun Queen`; `the Sun Queen`; `Burning Queen`; `the Burning Queen`; `Mother` | `daughter-of-the-sun` / legacy `S01` and `S01-O` | legacy seed | unique | The provisional alias set belongs to the Daughter's mother, not the Daughter. |
 | Rae | `Rae`; `Red Scarf` | `the-names-on-the-cups` / legacy `S06` | legacy seed | unique | Tess uses `RED SCARF` as Rae's label on her relationship chart. |
 | Rana Vey | `Rana Vey`; `Rana` | `daughter-of-the-sun` / legacy `S01-O` | legacy seed | unique | — |
@@ -166,7 +171,7 @@ unnamed.
 | Tuck | `Tuck` | `realms` / legacy `S03` | legacy seed | unique | — |
 | Urumet | `Urumet` | `a-little-winter-for-sale` | candidate | unique | No reuse. Ice dragon and voluntary cold-work vendor; readily distinguishable from every reserved dragon-associated name and alias, including `Kharost`, `Larkspur`, `Mossback`, `Nyrzath`, `Nyr`, `Varkesh`, and the `Sleepless Majesty` forms. No title, nickname, or shortened form is used. |
 | Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | candidate | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
-| Veda Crake | `Veda Crake`; `Veda` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent structural defender; `Crake`, shortened forms, and capitalized role labels are not used as individual names. Slate diagrams, shield work, and stress-marking distinguish her from the other party members and from registered Vale, Vey, Venn, and Varen forms. |
+| Veda Crake | `Veda Crake`; `Veda` | `the-quiet-party` | candidate | unique | No reuse. Final-story silent, shield-bearing front-line adventurer; `Crake`, shortened forms, and capitalized role labels are not used as individual names. Protective positioning, obstacle moving, and shield work distinguish her from the other party members and from registered Vale, Vey, Venn, and Varen forms. |
 | Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
 | Yara Mesk | `Yara Mesk`; `Yara` | `a-little-winter-for-sale` | candidate | unique | No reuse. Qarsis's civic waterkeeper; distinct in spelling and cadence from reserved `Rana`, `Rhea`, `Mara`, `Tavra`, and `Yselle`. `Mesk` is not used alone, and `waterkeeper` remains a lowercase common role noun. |
 | Zadie Cleft | `Zadie Cleft`; `Zadie` | `the-future-that-refused-us` | candidate | unique | No unrelated reuse. Viewpoint builder and operator of Sablewake's civic bells and Nilo's mother; the shared Cleft surname intentionally marks their parent-child relationship, and `Cleft` is not used alone as her individual label. |

@@ -1,7 +1,7 @@
-# The Quiet Party — production record
+# The Courtesy of Blades — production record
 
-- Slug: `the-quiet-party`
-- Created: 2026-07-31
+- Slug: `the-courtesy-of-blades`
+- Created: 2026-08-01
 - Current stage: candidate
 - Canon status: candidate
 
