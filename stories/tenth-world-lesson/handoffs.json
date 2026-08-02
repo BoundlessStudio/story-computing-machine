@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "tenth-world-lesson",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:06:58.7108374+00:00",
+      "completedAt": "2026-08-02T22:15:36.5707457+00:00",
+      "guardId": "9efc6c0a116b44aa8e69b6557b31b860",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory_slug: tenth-world-lesson\nmode: CREATE_DRAFT\nguard_id: 9efc6c0a116b44aa8e69b6557b31b860\nword_count: 3853\noutput: stories/tenth-world-lesson/03-draft.md\nchange_report: Wrote the complete draft; no other files changed.\nstale_precondition: none",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/tenth-world-lesson/00-prompt.md",
+        "stories/tenth-world-lesson/01-canon-brief.md",
+        "stories/tenth-world-lesson/02-story-plan.md",
+        "stories/tenth-world-lesson/authority.json",
+        "stories/tenth-world-lesson/handoffs.json",
+        "stories/tenth-world-lesson/story.json"
+      ],
+      "outputs": [
+        "stories/tenth-world-lesson/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
