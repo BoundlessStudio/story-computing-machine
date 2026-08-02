@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-trouble-with-tuesdays",
-  "certifiedAt": "2026-08-02T05:37:17.0806719+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "9b134b59d1f00ad15e9a16a95eb362dae073c99bb17e6372663ebbafb9cd997a"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "49e9d5d60c2e458f65a2fb1375280f7893ce543b4e830a2679d8523cb2396d37"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 3,
     "verdict": "PASS",
     "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-trouble-with-tuesdays",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T05:37:17.0669718+00:00",
-    "scopedRegistrySha256": "3a8644b7a915162430fda8777d334ac9f5b03d794bc1d34fae05c5ea77c6a322"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

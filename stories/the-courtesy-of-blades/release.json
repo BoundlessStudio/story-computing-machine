@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-courtesy-of-blades",
-  "certifiedAt": "2026-08-02T07:48:47.5743051+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "72118f074a28c6492a525d81159d5d3f989025a9fe92f60ea0497486afeeef20"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "a32727c1ddecaa98c3db89d29db07a7e2a9f1c98b5f3707fba0979d1563f886b"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 4,
     "verdict": "PASS",
     "reviewer": "primary_continuity_fallback",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-courtesy-of-blades",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T07:48:47.5620678+00:00",
-    "scopedRegistrySha256": "f7cb10689f9d8c62bb74982583de544955fa8e7bf080651fe3118b2245eadd69"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

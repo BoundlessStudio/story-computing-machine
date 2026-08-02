@@ -1,33 +1,12 @@
 # Evidence records
 
-This directory preserves inert evidence and decision history so the repository
-is self-contained. Every record has `authority: none`. Nothing here is a
-production story, lifecycle state, naming reservation, publication source, or
-canon authority. All production stories use the workflow and metadata defined
-under `stories/`.
+This directory preserves inert evidence and decision history. Every record has `authority: none`; nothing here establishes canon, story lifecycle, naming reservations, publication eligibility, or reader-site inclusion.
 
-- `MANIFEST.json` is the machine-readable path and digest inventory. `sha256`
-  binds current bytes; `reviewedSha256` preserves the originally reviewed byte
-  digest when historical line endings differed.
-- `MANIFEST.md` is its human-readable companion.
-- `decisions/` preserves research and user rulings as history.
-- `records/` contains exact snapshots.
-- `externalRecords` in the JSON manifest preserves locators for evidence whose
-  bytes are not stored in this checkout. Every external record declares a
-  `verificationStatus`:
-  - `verified` records include an immutable version, lowercase SHA-256 digest,
-    and explicit access requirements;
-  - `descriptive-only` records use `null` for version and digest and may be used
-    only as provenance or a request for the missing input.
-  A locator is not a runtime dependency or grant of authority.
+`MANIFEST.json` v3 contains:
 
-## Referenced-input verification
+- local records with repository path, controlled version label, verification status, and verification time;
+- external records with a controlled locator, declared version when known, access date, access requirements, and verification status.
 
-Before any non-authoritative input is quoted or relied on for a reproducible
-decision, its exact version must be available as a repository copy with a
-SHA-256 digest or through a `verified` stable controlled locator with version,
-digest, and access requirements. A `descriptive-only` record never satisfies
-this rule. The rule is the same for every referenced input.
-Recording evidence here grants no production status, canon authority, naming
-reservation, publication eligibility, or reader-site inclusion. If the exact
-input cannot be verified, treat claims drawn from it as unsupported.
+A `verified` record may support a reproducible decision when its declared version can be retrieved from its controlled path or locator. A `descriptive-only` record is provenance or a request for missing input and cannot support a factual claim. Locators are not runtime dependencies or grants of authority.
+
+If a referenced input cannot be verified at the declared location and version, treat claims drawn from it as unsupported. Preserve the uncertainty instead of promoting it into universe notes.

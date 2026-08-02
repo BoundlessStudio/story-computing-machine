@@ -1,17 +1,1 @@
-{
-  "schemaVersion": 1,
-  "state": "not-prepared",
-  "storySlug": "{{slug}}",
-  "promotionDate": null,
-  "preparedAt": null,
-  "preparationSha256": null,
-  "authorization": null,
-  "stewardship": null,
-  "authority": null,
-  "bundle": null,
-  "deltaInventory": null,
-  "deltaDispositions": [],
-  "universeChanges": [],
-  "retcon": null,
-  "completion": null
-}
+{"schemaVersion":2,"state":"not-prepared","storySlug":"{{slug}}","authorization":null,"promotionDate":null,"stewardship":null,"deltaDispositions":[],"modifiedFiles":[],"completedAt":null,"result":null,"rollback":{"attempted":false,"succeeded":null,"detail":null}}

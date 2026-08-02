@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "solstice-evening-bell",
-  "certifiedAt": "2026-08-02T06:39:44.8641179+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "db36da9adde7f8038f5718647a346721c782a17f6d61fe516f2ab5e81779013c"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "ae13beeaea29126fc76300f706e24b9aad8fd7d285c768853acfd7213422b0cd"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 7,
     "verdict": "PASS",
     "reviewer": "primary_continuity_fallback",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "solstice-evening-bell",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T06:39:44.8520893+00:00",
-    "scopedRegistrySha256": "ae8e9c18ddad1cb6a3ba859ad28c61df4027b497bc2b0061f75f27b4fec4b101"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

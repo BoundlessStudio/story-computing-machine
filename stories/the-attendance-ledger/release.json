@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-attendance-ledger",
-  "certifiedAt": "2026-08-02T06:53:21.5387829+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "68516b768a27f61a27f39f881465a0a9f5dfcb0a2e77ca00df619faec75cb5c0"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "d8284f2507e36b25369e66b372207b664a36df0285f2976fd51dba55ca759827"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 5,
     "verdict": "PASS",
     "reviewer": "primary_continuity_fallback",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-attendance-ledger",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T06:53:21.5273614+00:00",
-    "scopedRegistrySha256": "c4dd4c3e278ffd57da210a47573e7167ef98d7f331b9ef20748a7ee9a3a31464"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

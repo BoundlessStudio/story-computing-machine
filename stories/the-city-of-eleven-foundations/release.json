@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-city-of-eleven-foundations",
-  "certifiedAt": "2026-08-02T07:28:17.4913459+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "c7750cd3dd40994a2c628d4f66222c64047ebc02aa1f1526b45ddb009e9027db"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "c0a451b352d5ef2cf976f81c93c931507deb1c152e492729c8b7763b96d5bdba"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 6,
     "verdict": "PASS",
     "reviewer": "primary_continuity_fallback",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-city-of-eleven-foundations",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T07:28:17.4738196+00:00",
-    "scopedRegistrySha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

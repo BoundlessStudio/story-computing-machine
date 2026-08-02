@@ -347,3 +347,99 @@
     immediate coercion or harm, and then chooses the narrowest effective
     connection. This is local negotiated household practice, not universal
     consent law, metaphysics, or authority over other severance users.
+
+## Hidden twelve-dragon monarchy of Queen Orvessa IV
+
+- Status: CANON
+- Summary: In one unnamed kingdom, exactly twelve distinct dragons secretly
+  rotated through forty-seven royal masks and supporting public roles across a
+  218-year apparent dynasty.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: hidden draconic monarchy; Crown-era monarchy
+- Notes:
+  - Roles included monarchs, heirs, advisers, remote relatives, and on occasion
+    a disagreeable foreign envoy. Different dragons could perform different
+    masks and offices; Queen Orvessa IV was specifically Kharost's final regnal
+    mask. The masks were social and bodily roles, not separate persons.
+  - This collective is distinct from the Sleepless Majesty and its twelve
+    members, from Ersene's noble-dragon alliances, and from every other monarchy
+    or dragon group. The matching count and shared use of human guises establish
+    no crossover, shared ancestry, or universal institution.
+
+## Peace project of the hidden Crown-era monarchy
+
+- Status: CANON
+- Summary: The hidden collective built a real local peace while pursuing the
+  selfish but sincere goal of several quiet, cool centuries of undisturbed
+  sleep.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Its records credit the hidden monarchy with preventing six wars and three
+    succession crises, opening grain reserves, building cisterns and sewers,
+    enforcing fire precautions, and rejecting a dangerously undersized cistern.
+  - Those public goods do not erase the lack of political consent, manipulated
+    genealogy, secret diversion of public resources, or cultivated civic
+    worship. This is a judgment about one local government, not monarchy or
+    dragons generally.
+
+## Municipal water office of the Crown-era capital
+
+- Status: CANON
+- Summary: The unnamed capital's municipal water office used sounding rods,
+  ledgers, inspections, and the professional maxim `Water counted is fire
+  denied.`
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: municipal water office
+- Notes: Royal seals could authorize access and establish apparent custody, but
+  the post-fire settlement rejected a seal as a substitute for verified
+  quantities or correctable public judgment. The office's methods and maxim are
+  local civic practices, not universal water law or magical truth mechanisms.
+
+## Founding Vigil religion
+
+- Status: CANON
+- Summary: An annual commemorative speech in the unnamed kingdom developed into
+  the lamp-lit Founding Vigil, a state civic religion worshipping the Crowned
+  Ancestors.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Founding Vigil
+- Notes:
+  - Worshippers in white coats carried clay oil lamps and arranged forty
+    thousand prepared lamps into forty-seven golden circles for the supposedly
+    dead royal masks.
+  - The living Queen Orvessa IV held current legal authority but remained
+    outside the prayer ritual; the retired masks received worship but held no
+    present authority or living power; hidden Kharost had draconic capabilities
+    but was not worshipped under that identity.
+  - This local religion and its ritual do not establish universal ancestor
+    worship, prayer effects, monarchy, or godhood.
+
+## End of Crowned Ancestor state worship
+
+- Status: CANON
+- Summary: The Charter of Waking Hours ended state worship of the Crowned
+  Ancestors without banning private remembrance.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes: The Crowned Ancestors, Queen Orvessa IV, Kharost, and the exact
+  twelve-dragon collective are not shown holding the continuing conjunction of
+  worship, power, and authority required for godhood. The result follows the
+  established taxonomy without changing it and is distinct from the former
+  Sleepless Majesty's separately constituted living collective identity.
+
+## Charter of Waking Hours government
+
+- Status: CANON
+- Summary: After the Founding Day fire, one local constitutional settlement
+  transferred law, water, taxation, records, and appointments from the hidden
+  monarchy to elected human councils.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: post-fire elected government
+- Notes:
+  - Royal archives and accounts became open to audit. The twelve dragons became
+    non-ruling residents protected by and bound to the same law, with no
+    entitlement to a throne, sacrifice, or uncounted public resources.
+  - The settlement was completed in six weeks after nine hundred amendments.
+    It is local to this unnamed kingdom and does not establish universal
+    constitutional law, an anti-monarchy rule, or authority over other dragons.

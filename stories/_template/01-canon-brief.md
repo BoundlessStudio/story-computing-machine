@@ -2,8 +2,7 @@
 
 > Research status: PENDING
 > Resolution owner: coordinator
-> Prompt SHA-256: unknown
-> Authority manifest SHA-256: unknown
+> Authority manifest: `authority.json`
 
 ## Hard constraints
 

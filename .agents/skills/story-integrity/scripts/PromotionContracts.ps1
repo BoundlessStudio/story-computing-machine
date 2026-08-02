@@ -1,90 +1,14 @@
-#Requires -Version 7.0
-
 Set-StrictMode -Version Latest
-
-function ConvertTo-PromotionCanonicalNode {
-    param([AllowNull()][object]$Value)
-
-    if ($null -eq $Value) { return $null }
-    if ($Value -is [string] -or $Value -is [ValueType]) { return $Value }
-    if ($Value -is [Collections.IDictionary]) {
-        $Result = [ordered]@{}
-        foreach ($Key in @($Value.Keys | ForEach-Object { [string]$_ } | Sort-Object)) {
-            $Result[$Key] = ConvertTo-PromotionCanonicalNode $Value[$Key]
-        }
-        return $Result
-    }
-    if ($Value -is [Management.Automation.PSCustomObject]) {
-        $Result = [ordered]@{}
-        foreach ($Property in @($Value.PSObject.Properties | Sort-Object Name)) {
-            $Result[$Property.Name] = ConvertTo-PromotionCanonicalNode $Property.Value
-        }
-        return $Result
-    }
-    if ($Value -is [Collections.IEnumerable]) {
-        $Items = [Collections.Generic.List[object]]::new()
-        foreach ($Item in $Value) {
-            $Items.Add((ConvertTo-PromotionCanonicalNode $Item))
-        }
-        return ,([object[]]$Items.ToArray())
-    }
-    throw "Unsupported promotion canonicalization type '$($Value.GetType().FullName)'."
-}
-
-function Get-PromotionTextSha256 {
-    param([Parameter(Mandatory = $true)][AllowEmptyString()][string]$Text)
-
-    $Bytes = [Text.UTF8Encoding]::new($false).GetBytes(
-        $Text.Replace("`r`n", "`n").Replace("`r", "`n")
-    )
-    return [Convert]::ToHexString(
-        [Security.Cryptography.SHA256]::HashData($Bytes)
-    ).ToLowerInvariant()
-}
-
-function Get-PromotionPreparationSha256 {
-    [CmdletBinding()]
-    param([Parameter(Mandatory = $true)][object]$Manifest)
-
-    $Required = @(
-        'schemaVersion', 'storySlug', 'promotionDate', 'preparedAt',
-        'authorization', 'stewardship', 'authority', 'bundle',
-        'deltaInventory', 'deltaDispositions', 'universeChanges', 'retcon'
-    )
-    $IsDictionary = $Manifest -is [Collections.IDictionary]
-    $Properties = if ($IsDictionary) {
-        @($Manifest.Keys | ForEach-Object { [string]$_ })
-    }
-    else {
-        @($Manifest.PSObject.Properties.Name)
-    }
-    $Missing = @($Required | Where-Object { $_ -cnotin $Properties })
-    if ($Missing.Count -gt 0) {
-        throw "Promotion preparation is missing field(s): $($Missing -join ', ')."
-    }
-    $State = if ($IsDictionary) { $Manifest['state'] } else { $Manifest.state }
-    if ($State -notin @('ready', 'completed')) {
-        throw "A preparation digest requires ready/completed state, found '$State'."
-    }
-    $Projection = [ordered]@{}
-    foreach ($Field in $Required) {
-        $FieldValue = if ($IsDictionary) { $Manifest[$Field] } else { $Manifest.$Field }
-        $Projection[$Field] = ConvertTo-PromotionCanonicalNode $FieldValue
-    }
-    $Canonical = $Projection | ConvertTo-Json -Depth 100 -Compress
-    return Get-PromotionTextSha256 $Canonical
-}
-
-function Assert-PromotionPreparationSha256 {
-    [CmdletBinding()]
-    param([Parameter(Mandatory = $true)][object]$Manifest)
-
-    if ([string]$Manifest.preparationSha256 -cnotmatch '^[a-f0-9]{64}$') {
-        throw 'promotion.json preparationSha256 is missing or malformed.'
-    }
-    $Expected = Get-PromotionPreparationSha256 $Manifest
-    if ([string]$Manifest.preparationSha256 -cne $Expected) {
-        throw 'promotion.json preparationSha256 does not match its immutable preparation fields.'
-    }
-    return $Expected
+function Assert-PromotionRecord {
+ param([Parameter(Mandatory)][object]$Value,[Parameter(Mandatory)][string]$Story)
+ . (Join-Path $PSScriptRoot 'PipelineCommon.ps1')
+ Assert-PipelineFields $Value @('schemaVersion','state','storySlug','authorization','promotionDate','stewardship','deltaDispositions','modifiedFiles','completedAt','result','rollback') 'promotion.json'
+ if($Value.schemaVersion-ne2-or$Value.storySlug-cne$Story){throw 'Promotion identity/version is invalid.'};if($Value.state-cnotin@('not-prepared','ready','completed')){throw 'Promotion state is invalid.'}
+ Assert-PipelineFields $Value.rollback @('attempted','succeeded','detail') 'promotion rollback'
+ if($Value.state-cin@('ready','completed')){
+  Assert-PipelineFields $Value.authorization @('requestedBy','authorizedAt','basis') 'promotion authorization';Assert-PipelineFields $Value.stewardship @('identity','handoffText','authorityRecheck','nameCheck') 'promotion stewardship'
+  if([string]::IsNullOrWhiteSpace([string]$Value.authorization.requestedBy)-or-not(Test-PipelineTimestamp $Value.authorization.authorizedAt)-or[string]::IsNullOrWhiteSpace([string]$Value.authorization.basis)-or-not(Test-PipelineDate $Value.promotionDate)-or[string]::IsNullOrWhiteSpace([string]$Value.stewardship.identity)-or[string]::IsNullOrWhiteSpace([string]$Value.stewardship.handoffText)-or$Value.stewardship.authorityRecheck-cne'PASS'-or$Value.stewardship.nameCheck-cne'VERIFIED'-or@($Value.deltaDispositions).Count-eq0){throw 'Prepared promotion lacks valid authorization, stewardship, date, or dispositions.'}
+  $ids=@{};foreach($d in @($Value.deltaDispositions)){Assert-PipelineFields $d @('id','disposition','target','rationale') 'delta disposition';if($ids.ContainsKey([string]$d.id)){throw 'Duplicate delta disposition id.'};$ids[[string]$d.id]=$true;if($d.disposition-cnotin@('promote','story-local','defer','reject')){throw 'Invalid delta disposition.'};if($d.disposition-ceq'promote'-and[string]::IsNullOrWhiteSpace([string]$d.target)){throw 'Promoted delta requires target.'}}
+ }
+ if($Value.state-ceq'completed' -and ($Value.result-cne'PROMOTED'-or-not(Test-PipelineTimestamp $Value.completedAt))){throw 'Completed promotion lacks its result or completion time.'}
 }

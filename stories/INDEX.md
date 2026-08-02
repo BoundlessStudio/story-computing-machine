@@ -5,7 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| `a-crown-of-quiet-hours` | *A Crown of Quiet Hours* | abandoned | no | rejected | no | — | User rejected the literal-fire interpretation; retained only as production history. |
+| `a-crown-of-quiet-hours` | *A Crown of Quiet Hours* | final | yes | accepted | yes | 2026-08-01 | User-corrected legacy classification; personally reviewed, finalized, canon, and published. |
 | `a-little-winter-for-sale` | *A Little Winter for Sale* | final | yes | accepted | yes | 2026-08-01 | Fair-pay desert waterworks and voluntary ice-dragon cold trade; final PASS recorded. |
 | `a-place-for-the-living` | *A Place for the Living* | final | yes | accepted | yes | 2026-08-01 | Necromantic family dinner and coerced ancestor visit; final PASS recorded. |
 | `daughter-of-the-sun` | *Daughter of the Sun* | final | yes | accepted | yes | 2026-08-01 | Final review and name gate PASS; released candidate. |
@@ -32,4 +32,4 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 Statuses are `in-progress`, `candidate`, `final`, or `abandoned`. Canon is `yes`
 only after explicit user-authorized promotion. Publication is a separate opt-in
-and requires a current content-bound release for candidate or final prose.
+and requires a current validated release for candidate or final prose.

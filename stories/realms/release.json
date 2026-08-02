@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "realms",
-  "certifiedAt": "2026-08-02T05:22:30.5556904+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "d3010475b488d5f0f1663eda028c4bc4d6dc03804561485cf5654304d4ee37ae"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "d08b70e6f0746328fc194f755e4f95834053dae6bc6ea0900bcbce74daaca0b8"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 2,
     "verdict": "PASS",
     "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "realms",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T05:22:30.5434477+00:00",
-    "scopedRegistrySha256": "7d85004a32261b6c0b35f9541ea4e18aca9b9d8d3985f46b91ff5511b5f598ca"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

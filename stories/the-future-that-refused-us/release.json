@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-future-that-refused-us",
-  "certifiedAt": "2026-08-02T07:39:14.6230033+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "1ac99bba67d48ec1aacb01ad84886389e4d4f0c111f24acd8eb899456e48b88e"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "9e8ee33afdb743776fa6d602e190db9e29bd1e70ced8844d21f528117ffe28ec"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 5,
     "verdict": "PASS",
     "reviewer": "primary_continuity_fallback",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-future-that-refused-us",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T07:39:14.6114652+00:00",
-    "scopedRegistrySha256": "b2f146fa5fbf6410222baff2266e205b78c141ad8beeb92ca8b0dd51fd10e1a2"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

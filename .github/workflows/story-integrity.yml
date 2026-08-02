@@ -3,6 +3,7 @@ name: Story integrity
 on:
   pull_request:
   push:
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -16,27 +17,15 @@ jobs:
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v7
-      - name: Run executable PowerShell tests
+        with:
+          fetch-depth: 0
+      - name: Enforce pull-request chronology and co-changes
+        if: github.event_name == 'pull_request'
+        shell: pwsh
+        run: ./.agents/skills/story-integrity/scripts/Test-PullRequestPolicy.ps1 -BaseRef "origin/${{ github.base_ref }}" -HeadRef HEAD -OutputFormat Text
+      - name: Run complete PowerShell suite
         shell: pwsh
         run: ./tests/run.ps1
-      - name: Run focused pipeline contract suites
-        shell: pwsh
-        run: |
-          $suites = @(
-            'agent-contract.tests.ps1',
-            'authority-manifest.tests.ps1',
-            'handoff-guard.tests.ps1',
-            'handoff-ledger.tests.ps1',
-            'review-contract.tests.ps1',
-            'name-gate-hardening.tests.ps1',
-            'promotion-manifest.tests.ps1',
-            'pipeline-migration.tests.ps1',
-            'transaction-integrity.tests.ps1'
-          )
-          foreach ($suite in $suites) {
-            & pwsh -NoLogo -NoProfile -File (Join-Path 'tests' $suite)
-            if ($LASTEXITCODE -ne 0) { throw "Focused suite failed: $suite" }
-          }
       - name: Validate repository stories
         shell: pwsh
         run: ./.agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1 -OutputFormat Text

@@ -2,12 +2,12 @@
 
 - Slug: `a-crown-of-quiet-hours`
 - Created: 2026-07-27
-- Current stage: abandoned
-- Status: abandoned
-- Canon: no
-- User disposition: rejected
-- Publish: no
-- Promotion date: —
+- Current stage: final
+- Status: final
+- Canon: yes
+- User disposition: accepted
+- Publish: yes
+- Promotion date: 2026-08-01
 
 <!-- The primary story-room coordinator maintains this record after verifying
 each stage. Specialist agents do not edit it. -->

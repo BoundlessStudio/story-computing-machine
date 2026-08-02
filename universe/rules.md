@@ -1088,3 +1088,83 @@
   - The creature remained unnamed. Stormhart origin, taxonomy, intelligence,
     population, inherited traits, full capability range, and other bonds or
     users remain unresolved.
+
+## Crown-era twelve-dragon bodily guises
+
+- Status: CANON
+- Summary: Each member of one unnamed kingdom's exact twelve-dragon collective
+  can assume human public guises through a self-performed living bodily
+  transformation while remaining the same distinct person.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Crown-era human guises
+- Notes:
+  - Kharost personally changes between her red-gold body and Queen Orvessa IV;
+    no crown, name, seal, palace mechanism, archive, mask, or other nonliving
+    object acts as a magic user or creates an additional person.
+  - These observations apply only to Kharost and her eleven local fellows. They
+    establish neither universal dragon transformation nor any relationship to
+    the Sleepless Majesty collective's separate shared guise, Northbridge's
+    refraction veils, or another bodily or identity mechanism.
+
+## Kharost collective heat and finite fire resistance
+
+- Status: CANON
+- Summary: Kharost emits substantial heat, and Kharost plus at least one fellow
+  member of her local twelve-dragon collective show bounded resistance to
+  ordinary fire rather than immunity.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Anger can make Kharost's heat brown paper. In the Founding Day fire she
+    withstood a burning beam only briefly before recoiling and splitting a
+    shoulder scale; another dragon's wing membranes smoked and curled while
+    shielding a bucket line.
+  - Their resistance did not extinguish the civic fire or replace citizens,
+    water crews, bucket lines, and firebreak labor. These are local observed
+    capacities, not general dragon, fire, magical, or biological rules and not
+    a connection to Nyrzath, Urumet, Evelyn Bellweather, or another fire user.
+
+## Crown-era dragon sleep requirements
+
+- Status: CANON
+- Summary: Kharost and her eleven local fellows require cool stone, stable
+  water, minimal vibration, and quiet for the multi-century sleep they seek.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Bells, dripping water, unsuitable bedding, warfare, and neighborhood fires
+    can disturb these twelve. Their nineteen-month secret-basin preparation was
+    destroyed when Istra drained the water back into the civic mains.
+  - The details and preferences belong only to this collective. They establish
+    no universal dragon biology, guaranteed sleep duration, public duty to
+    provide sleep works, or relationship to the separately sleeping Sleepless
+    Majesty collective.
+
+## Book of Quiet administrative plan
+
+- Status: CANON
+- Summary: The Book of Quiet was the hidden twelve-dragon collective's detailed,
+  non-magical administrative plan for human officers to apply while its members
+  slept.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Book of Quiet
+- Notes:
+  - It anticipated drought, population growth, crop failure, corruption, tax
+    bands, reservoir rules, appointments, grain purchases, fire inspections,
+    and many disputes.
+  - It supplied no public way to correct a rule its authors believed could not
+    be wrong. Its failure was institutional and political, not magical; the
+    book neither governed autonomously nor compelled an officer.
+
+## Non-agentic Crown-era civic systems
+
+- Status: CANON
+- Summary: The Flood Bell, sluices, hydrants, ledgers, sleeping basin, public
+  cooling works, royal seals, archives, and related legal or hydraulic
+  instruments in this unnamed kingdom had no independent agency.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes: These mechanical, hydraulic, archival, and legal systems did not act
+  independently, originate magic, confer supernatural ability, guarantee truth,
+  or substitute for living judgment. Their bounded local functions do not
+  redefine another artifact, record, bell, water system, or legal institution.

@@ -1038,3 +1038,98 @@
   used a nonliving bracelet to focus it, and was confined after Adrian removed
   the command. His irreversible loss and grief remain real without excusing
   his coercion.
+
+## Istra Noll
+
+- Status: CANON
+- Summary: A human municipal-water civil servant whose refusal to certify a
+  nine-hundred-thousand-gallon cistern shortfall exposed an unnamed kingdom's
+  hidden draconic monarchy and restored emergency water during the Founding Day
+  fire.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Istra; Noll
+- Notes:
+  - During the final Founding Vigil of the hidden monarchy, Istra was an
+    assistant auditor seeking permanent appointment. She followed the diverted
+    water, discovered the dragons beneath the palace, recovered her sounding
+    sheets and the royal-sealed municipal ledger, reached the emergency works,
+    and became a principal witness at the public inquiry.
+  - Seven months later she held a permanent inspection post under the new
+    public-accountability system. Her unnamed mother had survived an earlier
+    tenement fire because a Crown-built cistern worked.
+  - Istra belongs only to this unnamed kingdom and era; no crossover with
+    another character, water office, capital, or story is established.
+
+## Kharost / Queen Orvessa IV
+
+- Status: CANON
+- Summary: Kharost is one red-gold dragon who continuously occupied the human
+  regnal role Queen Orvessa IV for nineteen years as the final public monarch
+  of an unnamed local twelve-dragon collective.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Kharost; Queen Orvessa IV; Queen Orvessa; Orvessa
+- Notes:
+  - Kharost and Queen Orvessa IV are one person, not two minds, a copy, or a
+    branch. The queen was Kharost's bodily public guise and current office, not
+    an independently living mask.
+  - Proud of the collective's real peace, Kharost nevertheless accepted a low
+    calculated risk to current citizens so the dragons could sleep. Challenged
+    by Istra, she abandoned the royal mask publicly, confessed the stolen water,
+    concealed rule, and selfish motive, and asked for help in her own face.
+  - During the fire she caught a falling beam, briefly endured its flames,
+    suffered a newly split shoulder scale, obeyed the water line, and helped
+    without being able to solve the fire alone. She later testified at the
+    inquiry, lost the throne with the other dragons, and entered the publicly
+    governed cooling works.
+  - She is distinct from Varkesh, the Sleepless Majesty, Nyrzath, Urumet, and
+    every other dragon or sovereign. Similar royal, dragon, crown, and sleep
+    motifs establish no shared identity, collective, mechanism, or origin.
+
+## Vicar Estrel
+
+- Status: CANON
+- Summary: The human officiant of the final Founding Vigil turned its public
+  call-and-response into practical evacuation, fuel-clearing, and bucket-line
+  instructions when the Founding Day fire began.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Estrel
+- Notes: Estrel initially would not halt the crowded ceremony when Istra's
+  evidence did not visibly overcome the royal seal. His later response used
+  ordinary ritual knowledge and human coordination; it involved no
+  supernatural conversion, granted power, or loss of human agency.
+
+## Crowned Ancestors
+
+- Status: CANON
+- Summary: A personified collective of forty-seven supposedly dead monarchs
+  worshipped by one unnamed kingdom's former civic religion, but actually
+  forty-seven discontinued public masks performed by twelve living dragons.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: the Crowned Ancestors
+- Notes:
+  - The Crowned Ancestors are not living beings, a magical collective, a
+    prayer-hearing power, Kharost's alias, or the twelve dragons themselves.
+    They held no present office; the living monarch was excluded from worship
+    while in office.
+  - The Charter of Waking Hours ended their state worship while allowing
+    private remembrance. This local distinction does not revise the universe's
+    established worship-power-authority taxonomy.
+
+## Kharost's eleven unnamed fellow dragons
+
+- Status: CANON
+- Summary: Eleven distinct unnamed dragons joined Kharost to make the exact
+  twelve-person collective that secretly ruled one unnamed kingdom.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Story-visible individuals include an ivory dragon using a damp eye cloth,
+    a green dragon particular about a river-stone bed, two copper-colored
+    dragons arguing about dripping water, a narrow blue dragon, and a large
+    black dragon with an old shoulder scar and wool earplugs. These descriptions
+    are not names or aliases.
+  - Kharost's newly split shoulder scale is separate from the black dragon's
+    old scar. All twelve remain distinct persons while using public guises.
+  - They are not Varkesh's eleven fellows or members of the Sleepless Majesty.
+    The exact count, political disguise, and desire for long sleep are parallel
+    local facts, not a crossover or universal dragon biology.

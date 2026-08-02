@@ -553,3 +553,87 @@
   6. The event's era, civil date, Galactic Cycle coordinate, wider geography,
      ordering relative to other stories, future household course, and links to
      another severance or magical system remain unresolved.
+
+## Undated 218-year Crown-era dragon rule
+
+- Status: CANON
+- Summary: Across 218 years in an unnamed kingdom and era, twelve dragons used
+  forty-seven regnal masks and quieter court roles to prevent wars, govern, build
+  fire-suppression infrastructure, and prepare a human-run state stable enough
+  for their intended shared sleep.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: 218-year hidden monarchy
+- Notes: The civil dates, Galactic Cycle coordinate, ordering relative to every
+  other story, and wider regional history remain unresolved. The event is
+  distinct from the Sleepless Majesty's two-century rule and establishes no
+  shared collective, universal monarchy, dragon cycle, or fixed duration.
+
+## Final nineteen-month basin diversion
+
+- Status: CANON
+- Summary: During the last nineteen months of the hidden monarchy, the twelve
+  dragons prepared a secret sleeping basin beneath the palace and on Founding
+  Day diverted nine hundred thousand gallons from the western cistern to bring
+  it to sleeping temperature.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: secret sleeping-basin diversion
+- Notes: The collective concealed the adjustment behind the royal seal while
+  forty thousand oil lamps were prepared for the Founding Vigil. The basin,
+  water, seals, and ledgers remained non-agentic physical and administrative
+  systems.
+
+## Founding Day western-arcade fire and water restoration
+
+- Status: CANON
+- Summary: A dry gust broke a prayer-streamer line and carried burning canvas
+  from six lamps into the western arcade while the nearest fountain and hydrant
+  were dry because of the secret diversion.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: Founding Day fire
+- Notes: Istra used the sealed municipal ledger to reach the emergency works,
+  had a guard break the sluice-wheel chain, returned the sleeping-basin water
+  to the civic mains, and rang the Flood Bell. The ledger and seal enabled
+  apparent access but supplied neither magical agency nor automatic truth.
+
+## Public dragon revelation and containment of the Founding Day fire
+
+- Status: CANON
+- Summary: During the fire, Estrel adapted the Vigil's ritual responses for
+  crowd coordination and Kharost chose to transform, confess, and join the
+  other eleven dragons in costly physical aid alongside human responders.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - Citizens, water crews, bucket lines, firebreak labor, Istra, Estrel, and the
+    twelve dragons together contained the fire; no revelation, dragon, ritual,
+    or object resolved it alone.
+  - The western arcade lost its roof. Thirty-one people were treated for smoke
+    and burns, and no one died. The event establishes no universal fire,
+    transformation, dragon-rescue, or civic-emergency rule.
+
+## Six-week Charter of Waking Hours settlement
+
+- Status: CANON
+- Summary: A public inquiry into uncensored water figures, royal archives,
+  saved lives, deception, resource diversion, and the Book of Quiet led to the
+  Charter of Waking Hours after six weeks and nine hundred amendments.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: constitutional settlement
+- Notes: The Charter retired all forty-seven masks, ended dragon rule and
+  state-sponsored dynastic worship, transferred governing functions to elected
+  human councils, opened royal archives and accounts to audit, and established
+  the twelve dragons as non-ruling residents under the same law. These are
+  local political events, not a universal legal template.
+
+## Seven-month completion of the public cooling works
+
+- Status: CANON
+- Summary: Seven months after the Founding Day fire, the separate publicly
+  accounted cooling works were completed and all twelve former rulers entered
+  them intending to sleep for two centuries.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes: Externally accessible gates and public ledgers left control of the
+  water with human institutions. The intended sleep duration is not guaranteed,
+  does not order this event relative to another story, and establishes no
+  connection to the Sleepless Majesty collective's separate refuge or sleep.

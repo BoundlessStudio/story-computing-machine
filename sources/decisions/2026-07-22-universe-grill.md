@@ -71,7 +71,7 @@ The survey treated each distinct story as a source, rather than counting duplica
 | `S09` | `Things_September_Cant_Take.pdf` | Complete 20-page short story | about 4,093 extracted words | Inspiration and understanding only |
 | `S10` | `writing-rules.md` | Authorial constraints | about 2,023 words | Style input, never lore |
 
-The logical paths above identify files within a private external archive; no workstation-specific absolute path is required. The source files are not currently stored in this repository, so `sources/MANIFEST.md` requires an approved snapshot or stable controlled locator plus a digest before adaptation. The `S09` PDF was text-extracted and its opening pages rendered and visually checked. Earlier *Light* versions and duplicate *Inheritance* exports were treated as superseded or derivative. Version 2 *Inheritance* character and Bronx location sheets were consulted only where the main story was silent; they do not override it.
+The logical paths above identify files within a private external archive; no workstation-specific absolute path is required. The source files are not currently stored in this repository, so `sources/MANIFEST.json` requires a controlled locator, declared version, access date, and successful verification before adaptation. The `S09` PDF was text-extracted and its opening pages rendered and visually checked. Earlier *Light* versions and duplicate *Inheritance* exports were treated as superseded or derivative. Version 2 *Inheritance* character and Bronx location sheets were consulted only where the main story was silent; they do not override it.
 
 ### Core-work selection ruling — 2026-07-22
 

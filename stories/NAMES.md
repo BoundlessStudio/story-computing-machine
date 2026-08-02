@@ -24,7 +24,7 @@ reuse. Names found only in archived reference material remain reserved too.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-08-01.
+Last reconciled: 2026-08-02.
 
 Registry baseline: every extant story was audited on 2026-07-23. The registry
 includes one-off and referential names, cover identities, titles used as names,
@@ -53,7 +53,7 @@ for characters the prose leaves unnamed.
 | Cassia Dominguez / Mothlight | `Cassia Dominguez`; `Cassia`; `Mothlight` | `the-attendance-ledger` | canon | unique | No reuse. One continuing civilian/magical identity; `Dominguez` is not used alone. `Mothlight` maps to luminous decoys and is distinct from `Mother-fragment` in spelling, sound, and role. |
 | Celia | `Celia` | `the-small-moon-rose-first` | canon | unique | — |
 | Claire | `Claire`; `Tea Girl` | `the-names-on-the-cups` | canon | unique | Tess uses `TEA GIRL` as Claire's label on her relationship chart. |
-| Crowned Ancestors | `Crowned Ancestors`; `the Crowned Ancestors` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Personified collective of discontinued royal masks worshipped as supposedly dead monarchs; not a living magical collective and not an alias for Kharost. |
+| Crowned Ancestors | `Crowned Ancestors`; `the Crowned Ancestors` | `a-crown-of-quiet-hours` | canon | unique | User-corrected legacy acceptance; name remains reserved. Personified collective of discontinued royal masks worshipped as supposedly dead monarchs; not a living magical collective and not an alias for Kharost. |
 | Chancellor Cythra Dhal | `Chancellor Cythra Dhal`; `Chancellor Dhal`; `Dhal` | `daughter-of-the-sun` | canon | unique | One capital official; `Chancellor` alone remains a common office noun. Replaces the released Rhea Voss forms and has no connection to M. Voss. |
 | Davina Morrow | `Davina Morrow`; `Davina` | `a-place-for-the-living` | canon | unique | No unrelated reuse. Greer's living mother; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | Daphne | `Daphne` | `self-reflection` | canon | unique | Nina and Anin's school friend; replaces the released Nisha form and is distinct from both central identities. |
@@ -84,7 +84,7 @@ for characters the prose leaves unnamed.
 | Indexer Prax | `Indexer Prax`; `Prax` | `the-small-moon-rose-first` | canon | unique | One Regent official; replaces the released Pell form and has no connection to Orrin Pell. `Indexer` alone remains a role noun. |
 | Instructor Bexel | `Instructor Bexel`; `Bexel` | `the-friends-i-built` | canon | unique | No reuse. `instructor` alone remains a common role noun and is not used as a proper name. |
 | Irix | `Irix` | `the-friends-i-built` | canon | unique | No reuse. First-person protagonist; distinct in spelling and cadence from reserved `Ilya` and `Ivo`. |
-| Istra Noll | `Istra Noll`; `Istra`; `Noll` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. First-person human water auditor; `Noll` is used by Kharost as a surname label, while the full identity remains reserved. |
+| Istra Noll | `Istra`; `Noll`; `Assistant Auditor Noll` | `a-crown-of-quiet-hours` | canon | unique | User-corrected legacy acceptance; the entity label reserves the combined identity Istra Noll. Final prose uses `Istra`, `Noll`, and the office-plus-surname form `Assistant Auditor Noll`. |
 | Ivo Darr | `Ivo Darr`; `Ivo` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Jasper Renlow | `Jasper Renlow`; `Jasper` | `the-courtesy-of-blades` | canon | unique | No reuse. Adult river-patrol fencer, Fiora's longtime rival, and romantic counterpart; final prose uses both listed forms, never `Renlow` alone. His forms are distinct from all registered J-initial forms and from Fiora and Quade. |
 | Jocelyn Park | `Jocelyn Park`; `Jocelyn` | `self-reflection` | canon | unique | — |
@@ -94,7 +94,7 @@ for characters the prose leaves unnamed.
 | Kaela Thorn | `Kaela Thorn`; `Kaela` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; released by the current short-story plan. |
 | Kelan Rusk | `Kelan Rusk`; `Kelan` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. It had replaced the accidental draft name Pell Orin, which collided with archive record Pell and Orrin Pell. |
 | Kest | `Kest`; `Commander Kest` | released reservation | released | unique | Formerly planned for `the-small-moon-rose-first`; released by the current short-story plan. |
-| Kharost / Queen Orvessa IV | `Kharost`; `Queen Orvessa IV`; `Queen Orvessa`; `Orvessa` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; names remain reserved. Kharost is one continuing dragon wearing the public regnal role Queen Orvessa IV; that story explicitly identifies the forms as one person. |
+| Kharost / Queen Orvessa IV | `Kharost`; `Queen Orvessa IV`; `Queen Orvessa`; `Orvessa` | `a-crown-of-quiet-hours` | canon | unique | User-corrected legacy acceptance; names remain reserved. Kharost is one continuing dragon wearing the public regnal role Queen Orvessa IV; that story explicitly identifies the forms as one person. |
 | King Ambric | `King Ambric`; `Ambric` | `the-gentlest-terror` | canon | unique | No reuse. Olyra's late father, present through memory; final prose uses `King Ambric`, while `Ambric` remains reserved from planning but is not used independently. |
 | King Othran | `King Othran`; `Othran` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; released by the current short-story plan. |
 | Knurl | `Knurl` | `the-friends-i-built` | canon | unique | No reuse. Self-chosen name of one living constructed friend. |
@@ -176,7 +176,7 @@ for characters the prose leaves unnamed.
 | Urumet | `Urumet` | `a-little-winter-for-sale` | canon | unique | No reuse. Ice dragon and voluntary cold-work vendor; readily distinguishable from every reserved dragon-associated name and alias, including `Kharost`, `Larkspur`, `Mossback`, `Nyrzath`, `Nyr`, `Varkesh`, and the `Sleepless Majesty` forms. No title, nickname, or shortened form is used. |
 | Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | canon | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
 | Veda Crake | `Veda Crake`; `Veda` | removed `the-quiet-party` version | abandoned | unique | Removed production version deleted 2026-08-01; name remains reserved. Silent, shield-bearing front-line adventurer in that version. |
-| Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | abandoned | unique | Rejected literal-fire version; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
+| Vicar Estrel | `Vicar Estrel`; `Estrel` | `a-crown-of-quiet-hours` | canon | unique | User-corrected legacy acceptance; name remains reserved. Human officiant of the Founding Vigil; `Vicar` alone remains a common office noun and is not used as a proper name. |
 | Willa Corst | `Willa Corst`; `Willa` | `the-small-moon-rose-first` | canon | unique | One identity named by a Ravel house; replaces the released Mara Osset forms. `Corst` is not used alone. |
 | Yara Mesk | `Yara Mesk`; `Yara` | `a-little-winter-for-sale` | canon | unique | No reuse. Qarsis's civic waterkeeper; distinct in spelling and cadence from reserved `Rana`, `Rhea`, `Mara`, `Tavra`, and `Yselle`. `Mesk` is not used alone, and `waterkeeper` remains a lowercase common role noun. |
 | Zadie Cleft | `Zadie Cleft`; `Zadie` | `the-future-that-refused-us` | canon | unique | No unrelated reuse. Viewpoint builder and operator of Sablewake's civic bells and Nilo's mother; the shared Cleft surname intentionally marks their parent-child relationship, and `Cleft` is not used alone as her individual label. |

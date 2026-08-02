@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-weight-of-falling-up-rune-shoes",
-  "certifiedAt": "2026-08-02T07:55:12.4263786+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "56aa71cf465347cafd8b4feb5fbeb88cfdde37de4de7613cb43e1d4f8e812e67"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "e4881d84b2961c99b3d1089545a77bd6e9d5632b5b89633c2fc13cf03d40608c"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 9,
     "verdict": "PASS",
     "reviewer": "primary_continuity_fallback",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-weight-of-falling-up-rune-shoes",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T07:55:12.4097188+00:00",
-    "scopedRegistrySha256": "74dd94ed25ac139d898803d86b873aa8c5ae3908790867fb2bf0797d88255395"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

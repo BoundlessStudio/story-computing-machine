@@ -463,3 +463,50 @@
   and nearby ground, and the freed stormhart broke part of its wall. Repair was
   expected to take years. The Hall's era, wider geography, and relationship to
   other settings remain unresolved.
+
+## Unnamed kingdom and capital of the Crowned Ancestors
+
+- Status: CANON
+- Summary: An unnamed local kingdom and capital in an unspecified era
+  experienced a 218-year peace under a hidden twelve-dragon monarchy.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes:
+  - The capital includes a palace square and western arcade. Its era, region,
+    wider geography, civil calendar, and Galactic Cycle coordinate remain
+    unresolved.
+  - No connection is established to Earth, Ravel, the Glass-Sea era, the Glass
+    Gate, Ersene, Qarsis, the Sleepless Majesty's polity, a named deity, or any
+    other story location. Similar monarchic or draconic features do not identify
+    the settings as the same place.
+
+## Crown-era capital water works and palace undercroft
+
+- Status: CANON
+- Summary: The unnamed capital used a public cistern and hydrant network,
+  ceremonial fountains, municipal and royal emergency sluices, and the Flood
+  Bell; beneath its palace, the dragons secretly diverted municipal water into
+  a cooled sleeping basin.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: palace undercroft basin; secret sleeping basin
+- Notes:
+  - The capital also contained royal archives and a palace undercroft cavern.
+    The sleeping basin was prepared over nineteen months and took nine hundred
+    thousand gallons from the western cistern on the final Founding Day.
+  - The water network, bell, sluices, basin, ledgers, seals, and archives were
+    non-agentic hydraulic, mechanical, legal, or archival systems rather than
+    independent magic users.
+
+## Public cooling works beyond the inhabited wards
+
+- Status: CANON
+- Summary: Seven months after the Founding Day fire, human engineers completed
+  separate, publicly governed cooling works beyond the unnamed capital's
+  inhabited wards for the twelve former dragon rulers.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: later cooling works; public sleep works
+- Notes: The works have their own watershed, public ledger, twelve stone beds,
+  soundproof walls, and externally accessible shutoff gates tested by human
+  inspectors. Their water remains under human institutional control. This one
+  local accommodation does not establish a universal dragon habitat, sleep
+  facility, civic duty, or water system.

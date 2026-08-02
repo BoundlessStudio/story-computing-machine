@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "acceptedBy": "RGBKnights",
+  "acceptedAt": "2026-08-02T12:00:00-04:00",
+  "reviewBasis": "User confirmed personal review and final acceptance of the 23 existing canon stories and corrected A Crown of Quiet Hours as accepted canon.",
+  "stories": [
+    {
+      "slug": "a-crown-of-quiet-hours",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "a-little-winter-for-sale",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "a-place-for-the-living",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "daughter-of-the-sun",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "realms",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "self-reflection",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "solstice-evening-bell",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-attendance-ledger",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-city-of-eleven-foundations",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-courtesy-of-blades",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-friends-i-built",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-future-that-refused-us",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-gentlest-terror",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-last-bus-to-briar-hill",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-last-thing-i-could-fix",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-names-on-the-cups",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-peace-they-could-sleep-through",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-shape-of-mercy",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-small-moon-rose-first",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-station-between",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-thirteenth-command",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-trouble-with-tuesdays",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-weight-of-falling-up-rune-shoes",
+      "promotionDate": "2026-08-01"
+    },
+    {
+      "slug": "the-wrong-side-of-the-part",
+      "promotionDate": "2026-08-01"
+    }
+  ]
+}

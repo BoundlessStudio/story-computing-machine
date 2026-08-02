@@ -639,3 +639,70 @@
 - Notes: One unnamed individual is attested. The term does not establish a
   global taxonomy, intelligence category, ancestry, population, or universal
   capability set.
+
+## Book of Quiet
+
+- Status: CANON
+- Summary: The non-magical administrative plan written by one unnamed
+  kingdom's twelve hidden dragon rulers for human officers to use during their
+  intended sleep.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes: Its institutional scope and limits are recorded in `rules.md`. It is
+  not an autonomous governor, a magical book, or a universal legal code.
+
+## Charter of Waking Hours
+
+- Status: CANON
+- Summary: The local constitutional settlement that ended one hidden draconic
+  monarchy and its official dynastic worship, transferred public authority and
+  resources to elected human councils, opened royal records and accounts, and
+  made the twelve dragons non-ruling residents.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: None
+- Notes: The charter is local to an unnamed kingdom and does not establish a
+  universal constitutional form, dragon law, anti-monarchy rule, or crossover.
+
+## Crowned Ancestors
+
+- Status: CANON
+- Summary: The personified collective of forty-seven retired royal masks once
+  worshipped as supposedly dead monarchs in one unnamed kingdom.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: the Crowned Ancestors
+- Notes: The term is not an alias for Kharost, Queen Orvessa IV, the twelve
+  dragons, the Sleepless Majesty, or any independently living or prayer-hearing
+  entity.
+
+## Flood Bell
+
+- Status: CANON
+- Summary: An obsolete emergency bell in the unnamed Crown-era capital,
+  associated with siege, earthquake, or royal command and located beside the
+  palace's emergency-water sluice controls.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: the Flood Bell
+- Notes: It was a non-agentic mechanical alarm. Bell imagery establishes no
+  relationship to Solstice Evening Bell, Sablewake's civic bells, the Fenwick
+  watch, or another bell or time system.
+
+## Founding Vigil
+
+- Status: CANON
+- Summary: The former state religion's annual lamp-lit commemoration and
+  worship of the Crowned Ancestors in one unnamed kingdom.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: the Founding Vigil
+- Notes: Its white coats, clay oil lamps, forty-seven golden circles, and
+  call-and-response belong only to this local civic religion. The Charter of
+  Waking Hours ended state worship without banning private remembrance.
+
+## Water counted is fire denied.
+
+- Status: CANON
+- Summary: The professional maxim of the unnamed Crown-era capital's municipal
+  water office.
+- First established: stories/a-crown-of-quiet-hours/05-story.md
+- Aliases: `Water counted is fire denied`
+- Notes: The maxim expresses local inspection discipline; it is not a spell,
+  oath, universal law, truth mechanism, or source of authority.

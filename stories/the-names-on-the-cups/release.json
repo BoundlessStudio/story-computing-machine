@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "certified": true,
   "storySlug": "the-names-on-the-cups",
-  "certifiedAt": "2026-08-02T05:45:41.1342117+00:00",
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": "6999bdfb9c7947e9983efa2763b57250633dbfaeeea44e208cbca7aefde1de17"
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": "bbff333cb6548777e14869478a11de8044062c51a4007298542c75db69db95bf"
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
@@ -18,13 +17,21 @@
     "pass": 2,
     "verdict": "PASS",
     "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-02T12:00:00-04:00",
+    "reviewBasis": "RGBKnights legacy user acceptance",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "the-names-on-the-cups",
+    "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T05:45:41.1226732+00:00",
-    "scopedRegistrySha256": "3a808b61c08d3c4ebe2b9f0bb48fbbd2e19ab1e343f39afcaa7259b19ac98faa"
+    "checkedAt": "2026-08-02T12:00:00-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }

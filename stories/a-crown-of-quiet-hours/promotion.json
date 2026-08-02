@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "state": "completed",
+  "storySlug": "a-crown-of-quiet-hours",
+  "authorization": {
+    "requestedBy": "RGBKnights",
+    "authorizedAt": "2026-08-02T12:00:00-04:00",
+    "basis": "User explicitly accepted all 24 legacy stories, corrected A Crown of Quiet Hours to published canon, and authorized promotion of every concrete Crown delta fact."
+  },
+  "promotionDate": "2026-08-01",
+  "stewardship": {
+    "identity": "canon_steward",
+    "handoffText": "STEWARDSHIP_HANDOFF\nstory: a-crown-of-quiet-hours\nauthorization: RGBKnights explicitly authorized promotion of every concrete item in stories/a-crown-of-quiet-hours/06-canon-delta.md with promotion date 2026-08-01\nsteward: canon_steward\ncandidateRelease: VERIFIED\nauthorityRecheck: PASS\nresolutionQuestion: none\nnameCheck: VERIFIED\nmodifiedFiles: universe/characters.md, universe/locations.md, universe/factions.md, universe/rules.md, universe/timeline.md, universe/glossary.md\ndeltaDispositions: [{\"id\":\"CROWN-CHAR-001\",\"disposition\":\"promote\",\"target\":\"universe/characters.md#istra-noll\",\"rationale\":\"Records Istra’s complete local civil-service, discovery, emergency-water, inquiry, appointment, and family-fire history.\"},{\"id\":\"CROWN-CHAR-002\",\"disposition\":\"promote\",\"target\":\"universe/characters.md#kharost--queen-orvessa-iv\",\"rationale\":\"Records Kharost and Queen Orvessa IV as one continuous person, her nineteen-year office, choices, confession, injury, inquiry, loss of rule, and entry into the cooling works.\"},{\"id\":\"CROWN-CHAR-003\",\"disposition\":\"promote\",\"target\":\"universe/characters.md#vicar-estrel\",\"rationale\":\"Records Estrel’s bounded human religious and emergency-coordination roles without supernaturalizing his response.\"},{\"id\":\"CROWN-CHAR-004\",\"disposition\":\"promote\",\"target\":\"universe/characters.md#crowned-ancestors\",\"rationale\":\"Records the forty-seven masks as a personified but nonliving, non-agentic, out-of-office collective distinct from Kharost and the dragons.\"},{\"id\":\"CROWN-CHAR-005\",\"disposition\":\"promote\",\"target\":\"universe/characters.md#kharosts-eleven-unnamed-fellow-dragons\",\"rationale\":\"Records the eleven distinct unnamed individuals, their observed descriptions, the exact total of twelve, and the separation of Kharost’s new injury from the black dragon’s old scar.\"},{\"id\":\"CROWN-LOC-001\",\"disposition\":\"promote\",\"target\":\"universe/locations.md#unnamed-kingdom-and-capital-of-the-crowned-ancestors\",\"rationale\":\"Records the unnamed kingdom, capital, unspecified era, 218-year peace, and explicit lack of connection to named settings or the Sleepless Majesty polity.\"},{\"id\":\"CROWN-LOC-002\",\"disposition\":\"promote\",\"target\":\"universe/locations.md#crown-era-capital-water-works-and-palace-undercroft\",\"rationale\":\"Records the palace square, western arcade, cisterns, hydrants, fountains, sluices, Flood Bell, archives, undercroft cavern, and secret sleeping basin.\"},{\"id\":\"CROWN-LOC-003\",\"disposition\":\"promote\",\"target\":\"universe/locations.md#public-cooling-works-beyond-the-inhabited-wards\",\"rationale\":\"Records the separately supplied watershed, public ledger, twelve beds, soundproofing, inspector-tested external shutoffs, and human water control.\"},{\"id\":\"CROWN-FACTION-001\",\"disposition\":\"promote\",\"target\":\"universe/factions.md#hidden-twelve-dragon-monarchy-of-queen-orvessa-iv\",\"rationale\":\"Records the exact twelve-dragon dynasty, forty-seven masks, rotating supporting roles, Kharost’s final mask, and separation from every other dragon collective.\"},{\"id\":\"CROWN-FACTION-002\",\"disposition\":\"promote\",\"target\":\"universe/factions.md#peace-project-of-the-hidden-crown-era-monarchy\",\"rationale\":\"Records the collective’s sincere sleep motive, six prevented wars, three prevented succession crises, reserves, sewers, cisterns, fire precautions, and the ethical limits of those accomplishments.\"},{\"id\":\"CROWN-FACTION-003\",\"disposition\":\"promote\",\"target\":\"universe/factions.md#municipal-water-office-of-the-crown-era-capital\",\"rationale\":\"Records the office’s rods, ledgers, inspections, maxim, and rejection of royal seals as substitutes for verified quantities and revisable judgment.\"},{\"id\":\"CROWN-FACTION-004\",\"disposition\":\"promote\",\"target\":\"universe/factions.md#founding-vigil-religion\",\"rationale\":\"Records the speech-derived state religion, white coats, clay lamps, forty-seven circles, forty-thousand-lamp preparation, and local separation of worship, office, and living power.\"},{\"id\":\"CROWN-FACTION-005\",\"disposition\":\"promote\",\"target\":\"universe/factions.md#end-of-crowned-ancestor-state-worship\",\"rationale\":\"Records the Charter’s end of official worship, continued private remembrance, and compatibility with the established godhood taxonomy.\"},{\"id\":\"CROWN-FACTION-006\",\"disposition\":\"promote\",\"target\":\"universe/factions.md#charter-of-waking-hours-government\",\"rationale\":\"Records elected human control of law, water, taxation, records, and appointments; open audit; and the dragons’ non-ruling equal legal status.\"},{\"id\":\"CROWN-RULE-001\",\"disposition\":\"promote\",\"target\":\"universe/rules.md#crown-era-twelve-dragon-bodily-guises\",\"rationale\":\"Records the collective’s self-performed living human guises, continuing identities, and strict separation from other transformation systems.\"},{\"id\":\"CROWN-RULE-002\",\"disposition\":\"promote\",\"target\":\"universe/rules.md#kharost-collective-heat-and-finite-fire-resistance\",\"rationale\":\"Records Kharost’s heat, bounded fire resistance, split scale, the other dragon’s damaged wing membranes, and the dragons’ inability to contain the fire alone.\"},{\"id\":\"CROWN-RULE-003\",\"disposition\":\"promote\",\"target\":\"universe/rules.md#crown-era-dragon-sleep-requirements\",\"rationale\":\"Records these twelve dragons’ local cool-stone, stable-water, low-vibration, quiet, bedding, bell, dripping-water, war, and fire sensitivities without generalizing dragon biology.\"},{\"id\":\"CROWN-RULE-004\",\"disposition\":\"promote\",\"target\":\"universe/rules.md#book-of-quiet-administrative-plan\",\"rationale\":\"Records the Book’s extensive non-magical planning scope and its institutional failure to provide public correction.\"},{\"id\":\"CROWN-RULE-005\",\"disposition\":\"promote\",\"target\":\"universe/rules.md#non-agentic-crown-era-civic-systems\",\"rationale\":\"Records the bell, sluices, hydrants, ledgers, basin, cooling works, seals, and archives as bounded non-agentic mechanical, hydraulic, legal, and archival systems.\"},{\"id\":\"CROWN-TIME-001\",\"disposition\":\"promote\",\"target\":\"universe/timeline.md#undated-218-year-crown-era-dragon-rule\",\"rationale\":\"Records the complete undated 218-year rule, forty-seven masks, governance, peace work, infrastructure, and sleep preparation.\"},{\"id\":\"CROWN-TIME-002\",\"disposition\":\"promote\",\"target\":\"universe/timeline.md#final-nineteen-month-basin-diversion\",\"rationale\":\"Records the nineteen-month preparation, nine-hundred-thousand-gallon Founding Day diversion, royal-seal concealment, and forty-thousand-lamp Vigil preparation.\"},{\"id\":\"CROWN-TIME-003\",\"disposition\":\"promote\",\"target\":\"universe/timeline.md#founding-day-western-arcade-fire-and-water-restoration\",\"rationale\":\"Records the gust, broken streamer, six lamps, dry fountain and hydrant, Istra’s ledger access, broken sluice chain, restored water, and Flood Bell.\"},{\"id\":\"CROWN-TIME-004\",\"disposition\":\"promote\",\"target\":\"universe/timeline.md#public-dragon-revelation-and-containment-of-the-founding-day-fire\",\"rationale\":\"Records Estrel’s coordination, Kharost’s confession and transformation, all twelve dragons’ bounded aid, the human response, lost roof, thirty-one treated injuries, and zero deaths.\"},{\"id\":\"CROWN-TIME-005\",\"disposition\":\"promote\",\"target\":\"universe/timeline.md#six-week-charter-of-waking-hours-settlement\",\"rationale\":\"Records the inquiry basis, six-week and nine-hundred-amendment process, retired masks, ended rule and state worship, elected councils, open audit, and non-ruling dragon status.\"},{\"id\":\"CROWN-TIME-006\",\"disposition\":\"promote\",\"target\":\"universe/timeline.md#seven-month-completion-of-the-public-cooling-works\",\"rationale\":\"Records completion seven months after the fire, all twelve dragons entering for an intended two-century sleep, and continuing human control through external gates and public ledgers.\"},{\"id\":\"CROWN-GLOSS-001\",\"disposition\":\"promote\",\"target\":\"universe/glossary.md#book-of-quiet\",\"rationale\":\"Defines the local non-magical administrative plan and excludes autonomous or universal legal meaning.\"},{\"id\":\"CROWN-GLOSS-002\",\"disposition\":\"promote\",\"target\":\"universe/glossary.md#charter-of-waking-hours\",\"rationale\":\"Defines the local constitutional transfer, audit regime, end of official worship, and non-ruling dragon status.\"},{\"id\":\"CROWN-GLOSS-003\",\"disposition\":\"promote\",\"target\":\"universe/glossary.md#crowned-ancestors\",\"rationale\":\"Defines the forty-seven retired masks and distinguishes them from Kharost, the dragons, and the Sleepless Majesty.\"},{\"id\":\"CROWN-GLOSS-004\",\"disposition\":\"promote\",\"target\":\"universe/glossary.md#flood-bell\",\"rationale\":\"Defines the local obsolete emergency bell and excludes connections to other bell, time, and artifact systems.\"},{\"id\":\"CROWN-GLOSS-005\",\"disposition\":\"promote\",\"target\":\"universe/glossary.md#founding-vigil\",\"rationale\":\"Defines the annual local lamp-lit commemoration and state worship ended by the Charter.\"},{\"id\":\"CROWN-GLOSS-006\",\"disposition\":\"promote\",\"target\":\"universe/glossary.md#water-counted-is-fire-denied\",\"rationale\":\"Defines the municipal water office’s professional maxim and excludes magical, oath, truth, or universal-law effects.\"}]\nchangeReport: Added 31 locally scoped CANON entries across the six authorized topical universe files, covering every ordered delta bullet and citing stories/a-crown-of-quiet-hours/05-story.md in every entry. Preserved the unnamed kingdom, capital, and era; the exact twelve-person collective; all quantities, durations, causes, consequences, capabilities, costs, institutions, and six glossary terms; non-agentic civic systems; and distinct identities. Explicitly separated Kharost’s collective from the Sleepless Majesty, Ersene, Qarsis, other dragons, transformation systems, monarchies, religions, and settings. Current LOCKED/CANON authority and all admitted legacy finals revealed no conflict requiring retcon or user ruling. Strict final names and universe integrity passed.\nEND_STEWARDSHIP_HANDOFF",
+    "authorityRecheck": "PASS",
+    "nameCheck": "VERIFIED"
+  },
+  "deltaDispositions": [
+    {
+      "id": "CROWN-CHAR-001",
+      "disposition": "promote",
+      "target": "universe/characters.md#istra-noll",
+      "rationale": "Records Istra’s complete local civil-service, discovery, emergency-water, inquiry, appointment, and family-fire history."
+    },
+    {
+      "id": "CROWN-CHAR-002",
+      "disposition": "promote",
+      "target": "universe/characters.md#kharost--queen-orvessa-iv",
+      "rationale": "Records Kharost and Queen Orvessa IV as one continuous person, her nineteen-year office, choices, confession, injury, inquiry, loss of rule, and entry into the cooling works."
+    },
+    {
+      "id": "CROWN-CHAR-003",
+      "disposition": "promote",
+      "target": "universe/characters.md#vicar-estrel",
+      "rationale": "Records Estrel’s bounded human religious and emergency-coordination roles without supernaturalizing his response."
+    },
+    {
+      "id": "CROWN-CHAR-004",
+      "disposition": "promote",
+      "target": "universe/characters.md#crowned-ancestors",
+      "rationale": "Records the forty-seven masks as a personified but nonliving, non-agentic, out-of-office collective distinct from Kharost and the dragons."
+    },
+    {
+      "id": "CROWN-CHAR-005",
+      "disposition": "promote",
+      "target": "universe/characters.md#kharosts-eleven-unnamed-fellow-dragons",
+      "rationale": "Records the eleven distinct unnamed individuals, their observed descriptions, the exact total of twelve, and the separation of Kharost’s new injury from the black dragon’s old scar."
+    },
+    {
+      "id": "CROWN-LOC-001",
+      "disposition": "promote",
+      "target": "universe/locations.md#unnamed-kingdom-and-capital-of-the-crowned-ancestors",
+      "rationale": "Records the unnamed kingdom, capital, unspecified era, 218-year peace, and explicit lack of connection to named settings or the Sleepless Majesty polity."
+    },
+    {
+      "id": "CROWN-LOC-002",
+      "disposition": "promote",
+      "target": "universe/locations.md#crown-era-capital-water-works-and-palace-undercroft",
+      "rationale": "Records the palace square, western arcade, cisterns, hydrants, fountains, sluices, Flood Bell, archives, undercroft cavern, and secret sleeping basin."
+    },
+    {
+      "id": "CROWN-LOC-003",
+      "disposition": "promote",
+      "target": "universe/locations.md#public-cooling-works-beyond-the-inhabited-wards",
+      "rationale": "Records the separately supplied watershed, public ledger, twelve beds, soundproofing, inspector-tested external shutoffs, and human water control."
+    },
+    {
+      "id": "CROWN-FACTION-001",
+      "disposition": "promote",
+      "target": "universe/factions.md#hidden-twelve-dragon-monarchy-of-queen-orvessa-iv",
+      "rationale": "Records the exact twelve-dragon dynasty, forty-seven masks, rotating supporting roles, Kharost’s final mask, and separation from every other dragon collective."
+    },
+    {
+      "id": "CROWN-FACTION-002",
+      "disposition": "promote",
+      "target": "universe/factions.md#peace-project-of-the-hidden-crown-era-monarchy",
+      "rationale": "Records the collective’s sincere sleep motive, six prevented wars, three prevented succession crises, reserves, sewers, cisterns, fire precautions, and the ethical limits of those accomplishments."
+    },
+    {
+      "id": "CROWN-FACTION-003",
+      "disposition": "promote",
+      "target": "universe/factions.md#municipal-water-office-of-the-crown-era-capital",
+      "rationale": "Records the office’s rods, ledgers, inspections, maxim, and rejection of royal seals as substitutes for verified quantities and revisable judgment."
+    },
+    {
+      "id": "CROWN-FACTION-004",
+      "disposition": "promote",
+      "target": "universe/factions.md#founding-vigil-religion",
+      "rationale": "Records the speech-derived state religion, white coats, clay lamps, forty-seven circles, forty-thousand-lamp preparation, and local separation of worship, office, and living power."
+    },
+    {
+      "id": "CROWN-FACTION-005",
+      "disposition": "promote",
+      "target": "universe/factions.md#end-of-crowned-ancestor-state-worship",
+      "rationale": "Records the Charter’s end of official worship, continued private remembrance, and compatibility with the established godhood taxonomy."
+    },
+    {
+      "id": "CROWN-FACTION-006",
+      "disposition": "promote",
+      "target": "universe/factions.md#charter-of-waking-hours-government",
+      "rationale": "Records elected human control of law, water, taxation, records, and appointments; open audit; and the dragons’ non-ruling equal legal status."
+    },
+    {
+      "id": "CROWN-RULE-001",
+      "disposition": "promote",
+      "target": "universe/rules.md#crown-era-twelve-dragon-bodily-guises",
+      "rationale": "Records the collective’s self-performed living human guises, continuing identities, and strict separation from other transformation systems."
+    },
+    {
+      "id": "CROWN-RULE-002",
+      "disposition": "promote",
+      "target": "universe/rules.md#kharost-collective-heat-and-finite-fire-resistance",
+      "rationale": "Records Kharost’s heat, bounded fire resistance, split scale, the other dragon’s damaged wing membranes, and the dragons’ inability to contain the fire alone."
+    },
+    {
+      "id": "CROWN-RULE-003",
+      "disposition": "promote",
+      "target": "universe/rules.md#crown-era-dragon-sleep-requirements",
+      "rationale": "Records these twelve dragons’ local cool-stone, stable-water, low-vibration, quiet, bedding, bell, dripping-water, war, and fire sensitivities without generalizing dragon biology."
+    },
+    {
+      "id": "CROWN-RULE-004",
+      "disposition": "promote",
+      "target": "universe/rules.md#book-of-quiet-administrative-plan",
+      "rationale": "Records the Book’s extensive non-magical planning scope and its institutional failure to provide public correction."
+    },
+    {
+      "id": "CROWN-RULE-005",
+      "disposition": "promote",
+      "target": "universe/rules.md#non-agentic-crown-era-civic-systems",
+      "rationale": "Records the bell, sluices, hydrants, ledgers, basin, cooling works, seals, and archives as bounded non-agentic mechanical, hydraulic, legal, and archival systems."
+    },
+    {
+      "id": "CROWN-TIME-001",
+      "disposition": "promote",
+      "target": "universe/timeline.md#undated-218-year-crown-era-dragon-rule",
+      "rationale": "Records the complete undated 218-year rule, forty-seven masks, governance, peace work, infrastructure, and sleep preparation."
+    },
+    {
+      "id": "CROWN-TIME-002",
+      "disposition": "promote",
+      "target": "universe/timeline.md#final-nineteen-month-basin-diversion",
+      "rationale": "Records the nineteen-month preparation, nine-hundred-thousand-gallon Founding Day diversion, royal-seal concealment, and forty-thousand-lamp Vigil preparation."
+    },
+    {
+      "id": "CROWN-TIME-003",
+      "disposition": "promote",
+      "target": "universe/timeline.md#founding-day-western-arcade-fire-and-water-restoration",
+      "rationale": "Records the gust, broken streamer, six lamps, dry fountain and hydrant, Istra’s ledger access, broken sluice chain, restored water, and Flood Bell."
+    },
+    {
+      "id": "CROWN-TIME-004",
+      "disposition": "promote",
+      "target": "universe/timeline.md#public-dragon-revelation-and-containment-of-the-founding-day-fire",
+      "rationale": "Records Estrel’s coordination, Kharost’s confession and transformation, all twelve dragons’ bounded aid, the human response, lost roof, thirty-one treated injuries, and zero deaths."
+    },
+    {
+      "id": "CROWN-TIME-005",
+      "disposition": "promote",
+      "target": "universe/timeline.md#six-week-charter-of-waking-hours-settlement",
+      "rationale": "Records the inquiry basis, six-week and nine-hundred-amendment process, retired masks, ended rule and state worship, elected councils, open audit, and non-ruling dragon status."
+    },
+    {
+      "id": "CROWN-TIME-006",
+      "disposition": "promote",
+      "target": "universe/timeline.md#seven-month-completion-of-the-public-cooling-works",
+      "rationale": "Records completion seven months after the fire, all twelve dragons entering for an intended two-century sleep, and continuing human control through external gates and public ledgers."
+    },
+    {
+      "id": "CROWN-GLOSS-001",
+      "disposition": "promote",
+      "target": "universe/glossary.md#book-of-quiet",
+      "rationale": "Defines the local non-magical administrative plan and excludes autonomous or universal legal meaning."
+    },
+    {
+      "id": "CROWN-GLOSS-002",
+      "disposition": "promote",
+      "target": "universe/glossary.md#charter-of-waking-hours",
+      "rationale": "Defines the local constitutional transfer, audit regime, end of official worship, and non-ruling dragon status."
+    },
+    {
+      "id": "CROWN-GLOSS-003",
+      "disposition": "promote",
+      "target": "universe/glossary.md#crowned-ancestors",
+      "rationale": "Defines the forty-seven retired masks and distinguishes them from Kharost, the dragons, and the Sleepless Majesty."
+    },
+    {
+      "id": "CROWN-GLOSS-004",
+      "disposition": "promote",
+      "target": "universe/glossary.md#flood-bell",
+      "rationale": "Defines the local obsolete emergency bell and excludes connections to other bell, time, and artifact systems."
+    },
+    {
+      "id": "CROWN-GLOSS-005",
+      "disposition": "promote",
+      "target": "universe/glossary.md#founding-vigil",
+      "rationale": "Defines the annual local lamp-lit commemoration and state worship ended by the Charter."
+    },
+    {
+      "id": "CROWN-GLOSS-006",
+      "disposition": "promote",
+      "target": "universe/glossary.md#water-counted-is-fire-denied",
+      "rationale": "Defines the municipal water office’s professional maxim and excludes magical, oath, truth, or universal-law effects."
+    }
+  ],
+  "modifiedFiles": [
+    "universe/characters.md",
+    "universe/locations.md",
+    "universe/factions.md",
+    "universe/rules.md",
+    "universe/timeline.md",
+    "universe/glossary.md"
+  ],
+  "completedAt": "2026-08-02T20:42:25.0031763+00:00",
+  "result": "PROMOTED",
+  "rollback": {
+    "attempted": false,
+    "succeeded": null,
+    "detail": null
+  }
+}

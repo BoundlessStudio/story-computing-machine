@@ -1,30 +1,44 @@
 {
-  "schemaVersion": 1,
-  "certified": false,
+  "schemaVersion": 3,
+  "certified": true,
   "storySlug": "a-crown-of-quiet-hours",
-  "certifiedAt": null,
+  "certifiedAt": "2026-08-02T12:00:00-04:00",
+  "certificationBasis": "legacy-user-attested",
   "artifacts": {
     "story": {
-      "path": "05-story.md",
-      "sha256": null
+      "path": "05-story.md"
     },
     "canonDelta": {
-      "path": "06-canon-delta.md",
-      "sha256": null
+      "path": "06-canon-delta.md"
     }
   },
   "review": {
-    "artifact": null,
-    "pass": 0,
-    "verdict": "PENDING",
-    "reviewer": null,
-    "unresolvedCritical": null,
-    "unresolvedMajor": null
+    "artifact": "05-story.md",
+    "pass": 4,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-07-27T00:00:00Z",
+    "reviewBasis": "RGBKnights legacy user acceptance",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
   },
   "nameCheck": {
     "story": "a-crown-of-quiet-hours",
-    "passed": false,
-    "checkedAt": null,
-    "scopedRegistrySha256": null
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-02T20:54:23.6728199+00:00",
+    "checkerVersion": "story-names/3",
+    "warnings": [
+      "Inventory label 'Book of Quiet' is not a registered character form.",
+      "Inventory label 'Charter of Waking Hours' is not a registered character form.",
+      "Inventory label 'Crown' is not a registered character form.",
+      "Inventory label 'Flood Bell' is not a registered character form.",
+      "Inventory label 'Founding Vigil' is not a registered character form.",
+      "Inventory label 'Vicar' is not a registered character form."
+    ]
+  },
+  "dependencies": {
+    "authorityManifest": null,
+    "handoffLedger": null
   }
 }
