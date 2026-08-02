@@ -13,36 +13,18 @@
 - Updated: Not yet reviewed
 
 This certification applies only to the named artifact. A completed story must
-end with a `PASS` certification for `05-story.md`.
+have a hash-current `03-draft.md` `PASS`, followed by a later hash-current
+`05-story.md` `PASS`. Current certification must exactly match the newest
+completed payload.
 
 ## Review passes
 
-<!-- Preserve every pass. Duplicate the structure below for later passes, and
-update Current certification to match the newest pass. -->
+<!-- Preserve every completed pass in ascending contiguous order. Replace this
+pending scaffold for the first review. Under each Pass heading, persist exactly
+one complete block bounded by `REVIEW_PASS_PAYLOAD` and
+`END_REVIEW_PASS_PAYLOAD`, exactly as returned by the reviewer. Update Current
+certification to match every field in the newest payload. -->
 
 ### Pass 1 — pending
 
-- Reviewed artifact: None
-- Artifact SHA-256: unknown
-- Canon delta SHA-256: not-applicable
-- Verdict: PENDING
-- Reviewer: None
-- Findings: unknown Critical, unknown Major, unknown Minor, unknown Optional
-
-#### Canon
-
-#### Continuity
-
-#### Names
-
-#### Causality and character
-
-#### Prompt fulfillment
-
-#### Pacing and prose
-
-#### Canon-delta coverage
-
-#### Required fixes
-
-<!-- Each finding: Severity / Location / Evidence / Why it matters / Smallest effective fix -->
+No completed review payload has been persisted.

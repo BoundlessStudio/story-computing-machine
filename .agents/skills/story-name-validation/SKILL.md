@@ -29,7 +29,11 @@ candidate's registry entries are promoted to canon.
    production-story lifecycle state.
 3. Prefer a unique name. Permit reuse only when the plan and registry both
    document the identities, intentional meaning, and reader-disambiguation
-   strategy required by `AGENTS.md`.
+   strategy required by `AGENTS.md`. Every one of the plan's four `Name check`
+   columns is required. A target-touching exact, punctuation/spacing-confusable,
+   reversed, or close-spelling collision fails unless every participating
+   registry identity is marked `deliberate` and the target plan row independently
+   documents that deliberate reuse. A target `unresolved` row always fails.
 4. At the authorized stage, reconcile the target story's registry rows with its
    plan or final story and canon delta. Do not remove unrelated or abandoned
    reservations.
@@ -48,18 +52,32 @@ candidate's registry entries are promoted to canon.
 6. Treat a story-scoped collision or unregistered final-delta character as a
    failure. Report unrelated global warnings, but do not misattribute them to
    the target story. Use `-Strict` only for an explicitly requested
-   registry-wide cleanup.
+   registry-wide cleanup. `-SkipConfusable` is a global diagnostic option and
+   is rejected by every story-scoped gate.
+7. During Final validation, reconcile the explicit inventory with the
+   independent prose-derived candidate audit. The checker strips frontmatter,
+   headings, comments, and known inventoried forms before conservatively
+   extracting character-like capitalized or label forms. Every extracted form
+   must be inventoried and registered, or appear in the exact three-column
+   `Reviewed prose name-audit allowlist` in `06-canon-delta.md` with an allowed
+   classification and a human review rationale. Never use the allowlist to
+   excuse a character-facing name.
 
 ## Receipts are gates
 
 Success requires both process exit code 0 and parseable schema-version-1 JSON
-with `receiptId`, the requested `story`, exact `phase: Plan | Final`, `passed: true`,
-`checkedAt`, and `scopedRegistrySha256` over the script's canonical scoped rows.
-Plan receipts must include the current raw-byte lowercase `planSha256`. Final
-receipts must include the current raw-byte lowercase `storySha256` and
-`canonDeltaSha256`. Capture the exact JSON as the name-check receipt; prose may
-not begin on a console summary, uncaptured exit code, failed receipt, mismatched
-slug, stale artifact hash, or stale registry hash.
+with `checkerVersion: story-names/2`, `receiptId`, the requested `story`, exact
+`phase: Plan | Final`, `passed: true`, `checkedAt`, `warnings`,
+`scopedRegistrySha256` over the script's canonical scoped rows, and
+`activeRegistrySha256` over every active comparison row. Plan receipts must
+include the current raw-byte lowercase `planSha256`. Final receipts must include
+the current raw-byte lowercase `storySha256` and `canonDeltaSha256`. The receipt
+also includes and binds `planSha256` when deliberate collision evidence is read
+from the plan. The receipt ID binds the checker version, phase, artifact
+digest(s), scoped registry digest,
+whole-active-registry digest, and sorted warnings. Capture the exact JSON as the
+name-check receipt; prose may not begin on a console summary, uncaptured exit code, failed
+receipt, mismatched slug, stale artifact hash, or stale registry hash.
 
 The Plan receipt is handed to `prose_writer`. The Final receipt is embedded in
 `release.json.nameCheck` only after final prose and the canon delta are stable.

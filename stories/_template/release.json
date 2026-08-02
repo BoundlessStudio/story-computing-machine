@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "certified": false,
   "storySlug": "{{slug}}",
   "certifiedAt": null,
@@ -19,12 +19,34 @@
     "verdict": "PENDING",
     "reviewer": null,
     "unresolvedCritical": null,
-    "unresolvedMajor": null
+    "unresolvedMajor": null,
+    "passSha256": null,
+    "historySha256": null,
+    "draftPass": 0,
+    "draftPassSha256": null,
+    "reviewedAt": null
   },
   "nameCheck": {
     "story": "{{slug}}",
+    "phase": "Final",
     "passed": false,
     "checkedAt": null,
-    "scopedRegistrySha256": null
+    "receiptId": null,
+    "storySha256": null,
+    "canonDeltaSha256": null,
+    "scopedRegistrySha256": null,
+    "activeRegistrySha256": null,
+    "checkerVersion": null,
+    "warnings": []
+  },
+  "provenance": {
+    "promptSha256": null,
+    "canonBriefSha256": null,
+    "planSha256": null,
+    "draftSha256": null,
+    "authorityManifestSha256": null,
+    "reviewAuthorityManifestSha256": null,
+    "promotionPreparationSha256": null,
+    "handoffLedgerSha256": null
   }
 }

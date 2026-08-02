@@ -1,0 +1,644 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://boundless.invalid/schemas/canon-promotion-v1.json",
+  "title": "Story canon-promotion transaction manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "state",
+    "storySlug",
+    "promotionDate",
+    "preparedAt",
+    "preparationSha256",
+    "authorization",
+    "stewardship",
+    "authority",
+    "bundle",
+    "deltaInventory",
+    "deltaDispositions",
+    "universeChanges",
+    "retcon",
+    "completion"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "state": {
+      "enum": [
+        "not-prepared",
+        "ready",
+        "completed"
+      ]
+    },
+    "storySlug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "promotionDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "preparedAt": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "preparationSha256": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "#/definitions/sha256" }
+      ]
+    },
+    "authorization": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/authorization"
+        }
+      ]
+    },
+    "stewardship": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/stewardship"
+        }
+      ]
+    },
+    "authority": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/authority"
+        }
+      ]
+    },
+    "bundle": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/bundle"
+        }
+      ]
+    },
+    "deltaInventory": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/deltaInventory"
+        }
+      ]
+    },
+    "deltaDispositions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/disposition"
+      }
+    },
+    "universeChanges": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/universeChange"
+      }
+    },
+    "retcon": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/retcon"
+        }
+      ]
+    },
+    "completion": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "$ref": "#/definitions/completion"
+        }
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "state": {
+            "const": "not-prepared"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "promotionDate": {
+            "type": "null"
+          },
+          "preparedAt": {
+            "type": "null"
+          },
+          "preparationSha256": {
+            "type": "null"
+          },
+          "authorization": {
+            "type": "null"
+          },
+          "stewardship": {
+            "type": "null"
+          },
+          "authority": {
+            "type": "null"
+          },
+          "bundle": {
+            "type": "null"
+          },
+          "deltaInventory": {
+            "type": "null"
+          },
+          "deltaDispositions": {
+            "maxItems": 0
+          },
+          "universeChanges": {
+            "maxItems": 0
+          },
+          "retcon": {
+            "type": "null"
+          },
+          "completion": {
+            "type": "null"
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "promotionDate": {
+            "type": "string"
+          },
+          "preparedAt": {
+            "type": "string"
+          },
+          "preparationSha256": {
+            "$ref": "#/definitions/sha256"
+          },
+          "authorization": {
+            "$ref": "#/definitions/authorization"
+          },
+          "stewardship": {
+            "$ref": "#/definitions/stewardship"
+          },
+          "authority": {
+            "$ref": "#/definitions/authority"
+          },
+          "bundle": {
+            "$ref": "#/definitions/bundle"
+          },
+          "deltaInventory": {
+            "$ref": "#/definitions/deltaInventory"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "state": {
+            "const": "ready"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "completion": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "state": {
+            "const": "completed"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "completion": {
+            "$ref": "#/definitions/completion"
+          }
+        }
+      }
+    }
+  ],
+  "definitions": {
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "safeText": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 1000,
+      "pattern": "^[^\\r\\n\\t]+$"
+    },
+    "relativePath": {
+      "type": "string",
+      "pattern": "^(?:stories|universe)/[A-Za-z0-9._/-]+$"
+    },
+    "authorization": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "approved",
+        "scope",
+        "storySlug",
+        "reference"
+      ],
+      "properties": {
+        "approved": {
+          "const": true
+        },
+        "scope": {
+          "const": "canon-promotion"
+        },
+        "storySlug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "reference": {
+          "$ref": "#/definitions/safeText"
+        }
+      }
+    },
+    "stewardship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "identity",
+        "handoffText",
+        "handoffSha256",
+        "candidateRelease",
+        "authorityRecheck",
+        "nameCheckReceipt",
+        "result"
+      ],
+      "properties": {
+        "identity": {
+          "$ref": "#/definitions/safeText"
+        },
+        "handoffText": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 100000,
+          "pattern": "^STEWARDSHIP_HANDOFF(?:\\r?\\n|$)"
+        },
+        "handoffSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "candidateRelease": {
+          "const": "VERIFIED"
+        },
+        "authorityRecheck": {
+          "const": "PASS"
+        },
+        "nameCheckReceipt": {
+          "const": "VERIFIED"
+        },
+        "result": {
+          "enum": [
+            "CANON_APPLIED_AWAITING_PRIMARY",
+            "NO_CANON_CHANGES_AWAITING_PRIMARY"
+          ]
+        }
+      }
+    },
+    "authorityFile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "sha256"
+      ],
+      "properties": {
+        "path": {
+          "$ref": "#/definitions/relativePath"
+        },
+        "sha256": {
+          "$ref": "#/definitions/sha256"
+        }
+      }
+    },
+    "authority": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "sha256",
+        "authoritySetSha256",
+        "capturedAt",
+        "fileCount",
+        "manifestSha256",
+        "files"
+      ],
+      "properties": {
+        "path": {
+          "$ref": "#/definitions/relativePath"
+        },
+        "sha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "authoritySetSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "capturedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "fileCount": {
+          "type": "integer",
+          "minimum": 2
+        },
+        "manifestSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "files": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "$ref": "#/definitions/authorityFile"
+          }
+        }
+      }
+    },
+    "boundArtifact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "sha256"
+      ],
+      "properties": {
+        "path": {
+          "$ref": "#/definitions/relativePath"
+        },
+        "sha256": {
+          "$ref": "#/definitions/sha256"
+        }
+      }
+    },
+    "bundle": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "release",
+        "story",
+        "canonDelta"
+      ],
+      "properties": {
+        "release": {
+          "$ref": "#/definitions/boundArtifact"
+        },
+        "story": {
+          "$ref": "#/definitions/boundArtifact"
+        },
+        "canonDelta": {
+          "$ref": "#/definitions/boundArtifact"
+        }
+      }
+    },
+    "deltaInventory": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sourceArtifactSha256",
+        "itemCount",
+        "dispositionsSha256"
+      ],
+      "properties": {
+        "sourceArtifactSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "itemCount": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "dispositionsSha256": {
+          "$ref": "#/definitions/sha256"
+        }
+      }
+    },
+    "disposition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "disposition",
+        "target",
+        "rationale"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,99}$"
+        },
+        "disposition": {
+          "enum": [
+            "promote",
+            "story-local",
+            "defer",
+            "reject"
+          ]
+        },
+        "target": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^universe/[A-Za-z0-9._-]+\\.md#[^\\r\\n\\t#]+$"
+        },
+        "rationale": {
+          "$ref": "#/definitions/safeText"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "disposition": {
+                "const": "promote"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "target": {
+                "type": "string"
+              }
+            }
+          },
+          "else": {
+            "properties": {
+              "target": {
+                "type": "null"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "universeChange": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "preSha256",
+        "postSha256",
+        "preImageBase64",
+        "deltaIds"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "pattern": "^universe/[A-Za-z0-9._-]+\\.md$"
+        },
+        "preSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "postSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "preImageBase64": {
+          "type": "string",
+          "pattern": "^(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?$"
+        },
+        "deltaIds": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,99}$"
+          }
+        }
+      }
+    },
+    "retcon": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "approved",
+        "scope",
+        "authorizationReference",
+        "targetPath",
+        "evidence",
+        "evidenceSha256"
+      ],
+      "properties": {
+        "approved": {
+          "const": true
+        },
+        "scope": {
+          "const": "retcon"
+        },
+        "authorizationReference": {
+          "$ref": "#/definitions/safeText"
+        },
+        "targetPath": {
+          "const": "universe/retcons.md"
+        },
+        "evidence": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 10000
+        },
+        "evidenceSha256": {
+          "$ref": "#/definitions/sha256"
+        }
+      }
+    },
+    "completion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "completedAt",
+        "completedBy",
+        "candidateReleaseSha256",
+        "finalReleaseSha256",
+        "candidateAuthorityManifestSha256",
+        "finalAuthorityManifestSha256",
+        "preAuthoritySetSha256",
+        "postAuthoritySetSha256",
+        "preAuthorityManifestSha256",
+        "postAuthorityManifestSha256",
+        "transactionSha256",
+        "modifiedFiles",
+        "result"
+      ],
+      "properties": {
+        "completedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "completedBy": {
+          "const": "Complete-CanonPromotion.ps1"
+        },
+        "candidateReleaseSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "finalReleaseSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "candidateAuthorityManifestSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "finalAuthorityManifestSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "preAuthoritySetSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "postAuthoritySetSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "preAuthorityManifestSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "postAuthorityManifestSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "transactionSha256": {
+          "$ref": "#/definitions/sha256"
+        },
+        "modifiedFiles": {
+          "type": "array",
+          "minItems": 6,
+          "items": {
+            "$ref": "#/definitions/relativePath"
+          }
+        },
+        "result": {
+          "const": "PROMOTED"
+        }
+      }
+    }
+  }
+}

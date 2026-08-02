@@ -13,6 +13,13 @@ Treat prose and universe notes as the product.
   aliases to every story that uses them, plus released reservations.
 - Each story uses the numbered artifacts and machine records defined by
   `stories/_template/`.
+- `authority.json` binds a story run to the exact universe files and promoted
+  stories that were authoritative for that run.
+- `handoffs.json` is the append-only, hash-chained specialist handoff ledger.
+- `promotion.json` is the inert/ready/completed canon-promotion transaction
+  record; it is not permission by itself.
+- `schemas/pipeline-contract.json` is the shared exact-field contract consumed
+  by PowerShell validation and the reader-site build.
 - `sources/` preserves inert evidence and decision history. Every record there
   has `authority: none`; nothing there classifies a production story.
 - `.agents/skills/` contains the required workflows and integrity scripts.
@@ -47,6 +54,54 @@ An `in-progress` story uses a nonterminal stage, remains non-canon with pending
 disposition, has no promotion date, and is not published. `README.md` and
 `stories/INDEX.md` must agree with `story.json`, but they do not override it.
 
+Use the transaction entry points for lifecycle mutations. Do not hand-edit the
+coordinated projections:
+
+```powershell
+pwsh -NoProfile -File .agents/skills/story-integrity/scripts/Complete-StoryCandidate.ps1 -Story <slug>
+pwsh -NoProfile -File .agents/skills/story-integrity/scripts/Set-StoryLifecycle.ps1 -Story <slug> -Action <Accept|Reject|Publish|Unpublish|Reopen>
+```
+
+`Complete-StoryCandidate.ps1` requires `final-review` state, a current
+`authority.json`, a complete release-mode handoff chain, a passing final review,
+and a strict name receipt. It changes metadata, README, index, registry, and
+release as one locked compare-and-swap transaction. `Set-StoryLifecycle.ps1`
+applies the same transaction discipline. Reopening a published candidate also
+requires `-AuthorizePublishedReopen`; canon finals require the retcon/promotion
+workflow and cannot be reopened through this command.
+
+## Authority snapshots and bounded handoffs
+
+Generate `authority.json` before canon research and verify it at every dependent
+gate:
+
+```powershell
+pwsh -NoProfile -File .agents/skills/story-integrity/scripts/New-AuthorityManifest.ps1 -Story <slug> -OutputFormat Json
+pwsh -NoProfile -File .agents/skills/story-integrity/scripts/New-AuthorityManifest.ps1 -Story <slug> -Verify -OutputFormat Json
+```
+
+The manifest covers the raw bytes of authoritative universe Markdown and every
+currently promoted story admitted by the lifecycle records. Research, plans,
+reviews, releases, and promotion provenance bind its raw SHA-256. If authority
+changes, stop the dependent run, regenerate the manifest, and repeat every gate
+whose inputs are now stale.
+
+Every specialist turn is bounded by `New-StoryHandoffGuard.ps1` and
+`Complete-StoryHandoffGuard.ps1` (or explicitly aborted with
+`Abort-StoryHandoffGuard.ps1`). Retain and pass both returned `guardId` and
+`guardSha256`; a mutable guard path or ID alone is not authority. Open the guard with the exact actor, mode,
+allowed output paths, and hashed input paths before delegation. For read-only
+specialists, the primary persists the returned artifact within that guard and
+is recorded separately from the specialist actor as `persister`. Abort refuses
+while any captured workspace bytes differ; it never discards work. On
+completion pass the specialist's exact returned payload through mandatory
+`-ReportText`; do not summarize or reconstruct it. The completion command
+rejects writes outside the allowlist and appends one entry to `handoffs.json`
+containing the input hashes, actual output byte changes, exact report text and
+report hash, previous entry hash, and canonical entry hash. A `READY` handoff
+must change at least one allowed output. Validate the chain with
+`Test-StoryHandoffs.ps1`.
+
 ## Release integrity
 
 `release.json` is a content-bound certificate, not an editable status marker.
@@ -56,7 +111,23 @@ A certified release must bind all of the following:
 - the latest identified review pass for `05-story.md`, with verdict `PASS`;
 - reviewer identity and zero unresolved Critical and Major findings;
 - a passing story-scoped name check and its scoped registry digest; and
-- the certification timestamp and story slug.
+- the prompt, canon brief, plan, draft, current `authority.json`, and final
+  `handoffs.json` raw-byte digests; and
+- the certification timestamp, story slug, review-pass digest, full review
+  history digest, and draft-pass digest.
+
+Each persisted review payload uses the exact 28-field contract in
+`schemas/pipeline-contract.json`: `story`, `mode`, `status`, `pass`,
+`reviewedArtifact`, `artifactSha256`, `canonDeltaSha256`, `canonBriefSha256`,
+`planSha256`, `scopedRegistrySha256`, `authorityManifest`,
+`authorityManifestSha256`, `handoffLedger`, `handoffLedgerSha256`,
+`handoffLedgerChainHead`, `reviewer`, `reviewedAt`, `reviewBasis`, `verdict`,
+`blockType`, `resolutionOwner`, `resolutionQuestion`, `errorCode`,
+`unresolvedCounts`, `priorFindingDispositions`, `findings`,
+`certificationEligible`, and `changeReport`. The corresponding
+`continuity_critic` ledger entry must store that exact canonical payload as its
+report and must bind the pre-review ledger digest and chain head. A verdict line
+without these byte and provenance bindings is not a review gate.
 
 Changing final prose, the canon delta, relevant name-registry rows, or the
 certified review invalidates the certificate. Re-run the affected review/name
@@ -76,32 +147,44 @@ Use this dependency order:
    preserve the verbatim prompt in `00-prompt.md` with assumptions and
    acceptance criteria. New stories start `in-progress`, non-canon, pending,
    and unpublished.
-2. Delegate canon research to `canon_librarian`. The primary agent persists its
-   evidence-backed handoff in `01-canon-brief.md` and verifies the write.
-3. Delegate planning to `story_architect`; it writes `02-story-plan.md`.
-4. Use `story-name-validation` to verify the plan's `Name check`, register every
+2. Generate and verify `authority.json`; all following specialists receive and
+   bind that snapshot.
+3. Delegate canon research to `canon_librarian` inside a bounded handoff. The
+   primary persists its evidence-backed exact report in `01-canon-brief.md` and
+   completes the guard with the same text as `-ReportText`.
+4. Delegate planning to `story_architect` inside a bounded handoff; it writes
+   only `02-story-plan.md` and returns the exact change report recorded in the
+   ledger.
+5. Use `story-name-validation` to verify the plan's `Name check`, register every
    planned character-facing name in `stories/NAMES.md`, and run the scoped name
    checker for the story.
-5. Delegate initial drafting or draft revision to `prose_writer`; it writes
-   `03-draft.md` in the explicitly assigned mode.
-6. Delegate draft review to `continuity_critic`. The primary agent appends its
-   identified pass to `04-review.md` without discarding earlier passes.
-7. For `REVISE`, return the findings to the prose writer, then re-review. For a
+6. Delegate initial drafting or draft revision to `prose_writer` inside a
+   bounded handoff; it writes only `03-draft.md` in the explicitly assigned
+   mode.
+7. Delegate draft review to `continuity_critic` inside a bounded handoff. The
+   primary appends its exact 28-field payload as the next identified pass in
+   `04-review.md`, then records that same canonical payload in `handoffs.json`.
+8. For `REVISE`, return the findings to the prose writer, then re-review. For a
    repairable `BLOCK`, revise the named production artifact and re-review. For a
    `BLOCK` that requires a canon ruling, prompt reinterpretation, or new user
    authority, stop and ask the user; do not invent the ruling. Never proceed
    with unresolved Critical or Major findings.
-8. Delegate the final edit to `story_editor`; it writes `05-story.md` and
-   `06-canon-delta.md`. If that role is unavailable, the primary agent uses the
-   local `final-edit` skill with the same preconditions and file ownership.
-9. Delegate review of `05-story.md` to `continuity_critic` and append that
-   separately numbered pass. If it does not earn `PASS`, use final-revision mode
-   to update `05-story.md` and the canon delta, then re-review.
-10. Reconcile `stories/NAMES.md` against the final story and delta, repeat any
+9. Delegate the final edit inside a bounded handoff to `story_editor`; it writes
+   only `05-story.md` and `06-canon-delta.md`. If that role is unavailable, the
+   primary agent uses the local `final-edit` skill with the same preconditions,
+   write scope, and ledger contract.
+10. Delegate review of `05-story.md` to `continuity_critic`, append its exact
+   separately numbered 28-field pass, and bind the canonical payload to its
+   handoff entry. If it does not earn `PASS`, use final-revision mode to update
+   `05-story.md` and the canon delta, then re-review.
+11. Reconcile `stories/NAMES.md` against the final story and delta, repeat any
     review invalidated by name changes, and run the strict scoped name check.
-11. Issue `release.json`, update `story.json` to `candidate`, synchronize the
-    story README and index, and run the repository validator. Leave `canon`
-    false unless this request explicitly authorizes promotion.
+12. Run `Complete-StoryCandidate.ps1`; it verifies the authority, handoff,
+    review, and strict name gates, issues schema-version-2 `release.json`, and
+    synchronizes lifecycle projections transactionally. Leave `canon` false
+    unless this request explicitly authorizes promotion.
+13. Run the repository validator. Any failure keeps or restores the prior
+    byte-for-byte production state.
 
 Independent research may run in parallel, but dependent stages may not.
 Specialist agents perform only the assigned role and must not restart or
@@ -126,7 +209,8 @@ The primary agent owns coordination, persistence of read-only handoffs,
 Every delegation names the slug, source artifact, mode, required inputs,
 allowed outputs, current pass/certificate state, and acceptance condition.
 Read-only payloads identify their intended destination; the primary agent
-persists and verifies them. A specialist must report a missing or stale
+persists and verifies them through the guard and records the exact report text.
+A specialist must report a missing or stale
 precondition rather than silently broadening its scope.
 
 ## Defaults and user control
@@ -163,6 +247,13 @@ precondition rather than silently broadening its scope.
   story, delta, lifecycle state, and aliases actually used.
 - Registry entries are production memory, not canon. Rows for abandoned work
   remain searchable reservations unless explicitly released.
+- Plan and Final gates use `checkerVersion: story-names/2` receipts. They bind
+  the relevant artifact hashes, story-scoped registry digest, active-registry
+  digest, and sorted warnings. Final validation also audits prose-derived name
+  candidates: every candidate must be inventoried and registered or appear in
+  the exact reviewed three-column allowlist in `06-canon-delta.md`. An allowlist
+  may never excuse a character-facing name, and `-SkipConfusable` is forbidden
+  for story-scoped gates.
 
 ## Canon discipline and promotion
 
@@ -179,6 +270,14 @@ precondition rather than silently broadening its scope.
 - Do not edit authoritative universe notes or mark a story canon unless the
   user explicitly authorizes promotion. Then use `canon_steward` with
   `canon-maintenance` and `story-name-validation`, one named story at a time.
+- Persist a schema-valid `promotion.json` in `ready` state only after exact
+  user authorization, current authority and release checks, complete stable
+  delta dispositions, pre/post universe images, and the steward's raw
+  `STEWARDSHIP_HANDOFF` are available. The primary must not invent that
+  handoff. Finalize only with `Complete-CanonPromotion.ps1`; successful
+  finalization makes the manifest `completed` and binds the authorization,
+  stewardship, candidate/final releases, authority transition, modified files,
+  and transaction digest.
 - Recheck each story against everything promoted before it. Record every delta
   item as `promote`, `story-local`, `defer`, or `reject`; do not copy a delta
   wholesale into universe notes.
@@ -197,6 +296,11 @@ appropriate); every final character-facing name is registered and the strict
 scoped check passes; `release.json` validly binds those results; and
 `story.json`, the production README, and index agree. The completed story is a
 candidate unless explicit promotion authority is part of the request.
+
+The candidate also requires a current `authority.json`, a validated complete
+`handoffs.json` release chain (including exact review report binding), and an
+inert `promotion.json` in `not-prepared` state. A promoted final instead
+requires `promotion.json.state: completed` with current provenance.
 
 Run the repository integrity suite before declaring workflow completion or
 canon promotion complete. A published site must also build solely from the

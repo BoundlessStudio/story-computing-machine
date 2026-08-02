@@ -12,16 +12,22 @@ under `stories/`.
 - `MANIFEST.md` is its human-readable companion.
 - `decisions/` preserves research and user rulings as history.
 - `records/` contains exact snapshots.
-- `externalRecords` in the JSON manifest preserves descriptive locators for
-  evidence whose bytes are not stored in this checkout. A locator is not a
-  runtime dependency or grant of authority.
+- `externalRecords` in the JSON manifest preserves locators for evidence whose
+  bytes are not stored in this checkout. Every external record declares a
+  `verificationStatus`:
+  - `verified` records include an immutable version, lowercase SHA-256 digest,
+    and explicit access requirements;
+  - `descriptive-only` records use `null` for version and digest and may be used
+    only as provenance or a request for the missing input.
+  A locator is not a runtime dependency or grant of authority.
 
 ## Referenced-input verification
 
 Before any non-authoritative input is quoted or relied on for a reproducible
 decision, its exact version must be available as a repository copy with a
-SHA-256 digest or through a stable controlled locator with version, digest, and
-access requirements. The rule is the same for every referenced input.
+SHA-256 digest or through a `verified` stable controlled locator with version,
+digest, and access requirements. A `descriptive-only` record never satisfies
+this rule. The rule is the same for every referenced input.
 Recording evidence here grants no production status, canon authority, naming
 reservation, publication eligibility, or reader-site inclusion. If the exact
 input cannot be verified, treat claims drawn from it as unsupported.

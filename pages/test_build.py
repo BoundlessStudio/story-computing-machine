@@ -103,6 +103,31 @@ class SiteBuildTests(unittest.TestCase):
             "> [WP] Tell a story whose prompt remains visible.\n",
             encoding="utf-8",
         )
+        (story_directory / "01-canon-brief.md").write_text(
+            "# Canon brief\n\nNone.\n", encoding="utf-8"
+        )
+        (story_directory / "02-story-plan.md").write_text(
+            "# Story plan\n\nA complete fixture plan.\n", encoding="utf-8"
+        )
+        (story_directory / "03-draft.md").write_text(
+            "# Draft\n\n" + " ".join(f"draft{index}" for index in range(130)) + "\n",
+            encoding="utf-8",
+        )
+        self.write_json(
+            story_directory / "authority.json",
+            {
+                "schemaVersion": 1,
+                "storySlug": slug,
+                "generatedAt": "2026-08-01T10:00:00Z",
+                "universeFiles": [],
+                "canonStories": [],
+                "manifestSha256": "a" * 64,
+            },
+        )
+        self.write_json(
+            story_directory / "handoffs.json",
+            {"schemaVersion": 2, "storySlug": slug, "chainHead": "b" * 64, "entries": []},
+        )
         if state["publish"] and status in build.PUBLISHABLE_STATUSES:
             self.write_release(story_directory, slug)
         return story_directory
@@ -114,8 +139,91 @@ class SiteBuildTests(unittest.TestCase):
         delta_digest = hashlib.sha256(
             (story_directory / "06-canon-delta.md").read_bytes()
         ).hexdigest()
+        draft_digest = hashlib.sha256(
+            (story_directory / "03-draft.md").read_bytes()
+        ).hexdigest()
+        canon_brief_digest = hashlib.sha256(
+            (story_directory / "01-canon-brief.md").read_bytes()
+        ).hexdigest()
+        plan_digest = hashlib.sha256(
+            (story_directory / "02-story-plan.md").read_bytes()
+        ).hexdigest()
+        authority_digest = hashlib.sha256(
+            (story_directory / "authority.json").read_bytes()
+        ).hexdigest()
+        ledger_digest = hashlib.sha256(
+            (story_directory / "handoffs.json").read_bytes()
+        ).hexdigest()
+        scoped_digest = "c" * 64
+
+        def review_payload(
+            pass_number: int,
+            mode: str,
+            artifact: str,
+            artifact_digest: str,
+            canon_delta_digest: str,
+            ledger_snapshot: str,
+            chain_head: str,
+        ) -> str:
+            body = "\n".join(
+                (
+                    f"story: {slug}",
+                    f"mode: {mode}",
+                    "status: READY",
+                    f"pass: {pass_number}",
+                    f"reviewedArtifact: {artifact}",
+                    f"artifactSha256: {artifact_digest}",
+                    f"canonDeltaSha256: {canon_delta_digest}",
+                    f"canonBriefSha256: {canon_brief_digest}",
+                    f"planSha256: {plan_digest}",
+                    f"scopedRegistrySha256: {scoped_digest}",
+                    f"authorityManifest: stories/{slug}/authority.json",
+                    f"authorityManifestSha256: {authority_digest}",
+                    f"handoffLedger: stories/{slug}/handoffs.json",
+                    f"handoffLedgerSha256: {ledger_snapshot}",
+                    f"handoffLedgerChainHead: {chain_head}",
+                    "reviewer: continuity_critic",
+                    "reviewedAt: 2026-08-01T12:00:00Z",
+                    "reviewBasis: Complete fixture pipeline evidence.",
+                    "verdict: PASS",
+                    "blockType: NONE",
+                    "resolutionOwner: coordinator",
+                    "resolutionQuestion: none",
+                    "errorCode: none",
+                    "unresolvedCounts: { critical: 0, major: 0, minor: 0 }",
+                    "priorFindingDispositions: none",
+                    "findings: none",
+                    "certificationEligible: true",
+                    "changeReport: read-only; no files changed",
+                )
+            )
+            return f"REVIEW_PASS_PAYLOAD\n{body}\nEND_REVIEW_PASS_PAYLOAD\n"
+
+        draft_payload = review_payload(
+            1,
+            "REVIEW_DRAFT",
+            "03-draft.md",
+            draft_digest,
+            "not-applicable",
+            "f" * 64,
+            "1" * 64,
+        )
+        final_payload = review_payload(
+            2,
+            "REVIEW_FINAL",
+            "05-story.md",
+            story_digest,
+            delta_digest,
+            "e" * 64,
+            "2" * 64,
+        )
+        draft_pass_digest = hashlib.sha256(draft_payload.encode("utf-8")).hexdigest()
+        final_pass_digest = hashlib.sha256(final_payload.encode("utf-8")).hexdigest()
+        history_digest = hashlib.sha256(
+            ("REVIEW_HISTORY_V1\n" + draft_payload + final_payload).encode("utf-8")
+        ).hexdigest()
         release = {
-            "schemaVersion": 1,
+            "schemaVersion": 2,
             "certified": True,
             "storySlug": slug,
             "certifiedAt": "2026-08-01T12:00:00Z",
@@ -133,12 +241,36 @@ class SiteBuildTests(unittest.TestCase):
                 "reviewer": "continuity_critic",
                 "unresolvedCritical": 0,
                 "unresolvedMajor": 0,
+                "passSha256": final_pass_digest,
+                "historySha256": history_digest,
+                "draftPass": 1,
+                "draftPassSha256": draft_pass_digest,
+                "reviewedAt": "2026-08-01T12:00:00Z",
             },
             "nameCheck": {
                 "story": slug,
+                "phase": "Final",
                 "passed": True,
                 "checkedAt": "2026-08-01T12:00:00Z",
-                "scopedRegistrySha256": "c" * 64,
+                "receiptId": "9" * 64,
+                "storySha256": story_digest,
+                "canonDeltaSha256": delta_digest,
+                "scopedRegistrySha256": scoped_digest,
+                "activeRegistrySha256": "d" * 64,
+                "checkerVersion": "story-names/2",
+                "warnings": [],
+            },
+            "provenance": {
+                "promptSha256": hashlib.sha256(
+                    (story_directory / "00-prompt.md").read_bytes()
+                ).hexdigest(),
+                "canonBriefSha256": canon_brief_digest,
+                "planSha256": plan_digest,
+                "draftSha256": draft_digest,
+                "authorityManifestSha256": authority_digest,
+                "reviewAuthorityManifestSha256": authority_digest,
+                "promotionPreparationSha256": None,
+                "handoffLedgerSha256": ledger_digest,
             },
         }
         self.write_json(story_directory / "release.json", release)
@@ -153,8 +285,12 @@ class SiteBuildTests(unittest.TestCase):
             "- Reviewer: continuity_critic\n"
             "- Unresolved Critical findings: 0\n"
             "- Unresolved Major findings: 0\n"
-            "- Updated: 2026-08-01\n\n"
-            "## Review passes\n",
+            "- Updated: 2026-08-01T12:00:00Z\n\n"
+            "## Review passes\n\n"
+            "### Pass 1 — fixture draft review\n\n"
+            f"{draft_payload}\n"
+            "### Pass 2 — fixture final review\n\n"
+            f"{final_payload}",
             encoding="utf-8",
         )
 
@@ -162,7 +298,12 @@ class SiteBuildTests(unittest.TestCase):
         self.add_story("fixture-story")
 
         output = self.root / "_site-test"
-        catalog = build.build(output, self.root, Path(build.__file__).parent)
+        catalog = build.build(
+            output,
+            self.root,
+            Path(build.__file__).parent,
+            require_integrity_validator=False,
+        )
 
         self.assertEqual(
             ("fixture-story",), tuple(story.slug for story in catalog.stories)
@@ -174,16 +315,15 @@ class SiteBuildTests(unittest.TestCase):
         self.assertIn("Reader-ready stories", index)
         self.assertNotIn("Tell a story whose prompt remains visible.", index)
 
-    def test_prompt_bytes_cannot_change_catalog_cards_or_story_pages(self) -> None:
+    def test_prompt_change_invalidates_reader_release(self) -> None:
         story_directory = self.add_story("fixture-story")
         first_output = self.root / "_site-before-prompt-change"
-        first_catalog = build.build(
-            first_output, self.root, Path(build.__file__).parent
+        build.build(
+            first_output,
+            self.root,
+            Path(build.__file__).parent,
+            require_integrity_validator=False,
         )
-        first_index = (first_output / "index.html").read_bytes()
-        first_story = (
-            first_output / "stories" / "fixture-story" / "index.html"
-        ).read_bytes()
 
         (story_directory / "00-prompt.md").write_text(
             "# Prompt\n\n## Verbatim writing prompt\n\n"
@@ -191,24 +331,24 @@ class SiteBuildTests(unittest.TestCase):
             encoding="utf-8",
         )
         second_output = self.root / "_site-after-prompt-change"
-        second_catalog = build.build(
-            second_output, self.root, Path(build.__file__).parent
-        )
-
-        self.assertEqual(first_catalog, second_catalog)
-        self.assertEqual(first_index, (second_output / "index.html").read_bytes())
-        self.assertEqual(
-            first_story,
-            (
-                second_output / "stories" / "fixture-story" / "index.html"
-            ).read_bytes(),
-        )
+        with self.assertRaisesRegex(ValueError, "provenance for 00-prompt.md is stale"):
+            build.build(
+                second_output,
+                self.root,
+                Path(build.__file__).parent,
+                require_integrity_validator=False,
+            )
 
     def test_final_story_uses_same_reader_path(self) -> None:
         self.add_story("fixture-story", status="final")
 
         output = self.root / "_site-test"
-        catalog = build.build(output, self.root, Path(build.__file__).parent)
+        catalog = build.build(
+            output,
+            self.root,
+            Path(build.__file__).parent,
+            require_integrity_validator=False,
+        )
 
         self.assertEqual("final", catalog.stories[0].metadata.status)
         self.assertTrue(
@@ -263,7 +403,10 @@ class SiteBuildTests(unittest.TestCase):
         )
         review_path.write_text(review, encoding="utf-8")
 
-        with self.assertRaisesRegex(ValueError, "does not match release.json"):
+        with self.assertRaisesRegex(
+            ValueError,
+            "Current certification Verdict does not match latest pass|does not match release.json",
+        ):
             build.load_catalog(self.root)
 
     def test_unknown_release_fields_are_rejected_at_every_level(self) -> None:

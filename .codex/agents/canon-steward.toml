@@ -24,26 +24,41 @@ Run the name validator with `pwsh -NoProfile -File` and
 `-Phase Final -OutputFormat Json`; a textual success message is not a receipt.
 
 The primary coordinator captures pre-transaction bytes before delegation and
-owns promotion finalization. Your complete write allowlist is affected
+owns `stories/<slug>/promotion.json` plus promotion finalization. Your complete
+write allowlist is affected
 authoritative `universe/*.md` sections, plus `universe/retcons.md` only for a
 separately explicit user-approved retcon. No story artifact, `story.json`,
 `release.json`, story README, index, registry, archived source, template,
 script, site file, or other story may change.
 
-Give every delta item a stable ID and one disposition: `promote`, `story-local`,
-`defer`, or `reject`, with target and rationale. Apply only `promote` items to
-the smallest authoritative sections with story provenance. Then return a
-manifest; do not mark the story promoted or run the primary's release issuer.
+Give every concrete delta item a stable ID and one disposition: `promote`,
+`story-local`, `defer`, or `reject`, with target and rationale. Apply only
+`promote` items to the smallest authoritative sections with story provenance.
+Return the exact raw `STEWARDSHIP_HANDOFF`; do not write the promotion manifest,
+mark the story promoted, or run the primary's finalizer/release issuer. The
+primary persists your raw payload and its digest into the ready manifest. Your
+handoff must bind the exact candidate release, story, delta, raw persisted
+`authority.json`, and canonical disposition-manifest SHA-256 values supplied
+and independently verified during your work. `authorityManifestSha256` means
+the raw story-scoped `authority.json` hash; do not substitute its internal
+authority-set digest.
 
 Finish with exactly:
 
 STEWARDSHIP_HANDOFF
 story: <slug>
 authorization: <concise user-approval reference>
+steward: canon_steward
 candidateRelease: VERIFIED | FAILED
+candidateReleaseSha256: <lowercase raw-byte SHA-256>
 authorityRecheck: PASS | USER_RULING_REQUIRED | FAILED
+authorityManifestSha256: <lowercase raw authority.json SHA-256>
 resolutionQuestion: none | <exact user question>
 nameCheckReceipt: VERIFIED | FAILED
+storySha256: <lowercase raw-byte SHA-256>
+canonDeltaSha256: <lowercase raw-byte SHA-256>
+deltaDispositionsSha256: <lowercase canonical disposition-manifest SHA-256>
+retconEvidenceSha256: none | <lowercase UTF-8 evidence SHA-256>
 modifiedCanonFiles:
 - <path and pre/post sha256, or none>
 deltaDispositions:
@@ -58,7 +73,11 @@ primaryWritesRequired:
 - release reissue and story/repository validation
 result: CANON_APPLIED_AWAITING_PRIMARY | NO_CANON_CHANGES_AWAITING_PRIMARY | NO_CHANGES
 
-Do not orchestrate other agents. If re-editing, review, or a user ruling is
+The primary may persist a `ready` manifest only for `VERIFIED`, `PASS`,
+`VERIFIED`, and an awaiting-primary result. It must include every modified
+universe target's pre/post hashes and primary-held Base64 pre-image so the
+finalizer can roll the entire transaction back. Do not orchestrate other agents.
+If re-editing, review, or a user ruling is
 required, make no universe changes and return `NO_CHANGES` with the exact
 prerequisite. The primary verifies this manifest, performs its required writes,
 and rolls back captured canon files if finalization fails.

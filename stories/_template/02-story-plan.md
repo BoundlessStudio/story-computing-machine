@@ -19,6 +19,12 @@
 
 ## Name check
 
+<!-- Keep exactly these four columns and populate every cell. Registry result
+must state whether the reservation is unique, deliberate, or unresolved. Any
+deliberate collision must also be marked deliberate in stories/NAMES.md, and
+the final column must explain why the reuse matters and how readers distinguish
+the identities. Unresolved reuse blocks the name gate. -->
+
 | Character/entity | Reserved forms used in prose | Registry result | Reuse rationale and reader disambiguation |
 | --- | --- | --- | --- |
 

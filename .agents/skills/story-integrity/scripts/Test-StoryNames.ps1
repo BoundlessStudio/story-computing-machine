@@ -19,6 +19,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
+$CheckerVersion = 'story-names/2'
 
 function Get-Sha256ForText {
     param([Parameter(Mandatory = $true)][AllowNull()][AllowEmptyString()][string]$Text)
@@ -36,7 +37,7 @@ function Get-Sha256ForFile {
 }
 
 function ConvertFrom-MarkdownCell {
-    param([Parameter(Mandatory = $true)][string]$Value)
+    param([Parameter(Mandatory = $true)][AllowEmptyString()][string]$Value)
 
     return ($Value.Trim() -replace '`', '').Trim()
 }
@@ -98,6 +99,23 @@ function Normalize-NameForm {
 
     return (($Form.Normalize([Text.NormalizationForm]::FormKC)).Trim() -replace
         '\s+', ' ').ToLowerInvariant()
+}
+
+function Get-OrdinalSortedUniqueStrings {
+    param(
+        [Parameter(Mandatory = $true)]
+        [AllowEmptyCollection()]
+        [AllowEmptyString()]
+        [string[]]$Values
+    )
+
+    $Unique = [System.Collections.Generic.HashSet[string]]::new(
+        [StringComparer]::Ordinal
+    )
+    foreach ($Value in $Values) { $null = $Unique.Add($Value) }
+    [string[]]$Sorted = @($Unique)
+    [Array]::Sort($Sorted, [StringComparer]::Ordinal)
+    return $Sorted
 }
 
 function Get-ConfusableKey {
@@ -247,7 +265,7 @@ function Get-RegistryRows {
             $HeaderSeen = $true
             continue
         }
-        if (($Cells | Where-Object { $_ -notmatch '^:?-{3,}:?$' }).Count -eq 0) {
+        if (@($Cells | Where-Object { $_ -notmatch '^:?-{3,}:?$' }).Count -eq 0) {
             if (-not $HeaderSeen -or $SeparatorSeen) {
                 throw "Unexpected or duplicate registry separator at line $($Index + 1)."
             }
@@ -284,7 +302,17 @@ function Get-RegistryRows {
             throw "Registry row '$Character' requires a reuse rationale at line $($Index + 1)."
         }
 
+        $CanonicalSource = (ConvertFrom-MarkdownCell $Source).ToLowerInvariant()
+        $CanonicalCharacter = Normalize-NameForm $Character
+        $CanonicalForms = @(Get-OrdinalSortedUniqueStrings -Values @(
+            $Forms | ForEach-Object { Normalize-NameForm $_ }
+        ))
+        $IdentityKey = Get-Sha256ForText (
+            "registry-identity-v1`n$CanonicalSource`n$CanonicalCharacter`n" +
+            ($CanonicalForms -join "`n")
+        )
         $Rows.Add([pscustomobject]@{
+            IdentityKey = $IdentityKey
             Character = $Character
             Forms = $Forms
             Source = $Source
@@ -308,26 +336,40 @@ function Get-PlanInventory {
     if ($null -eq $Section) {
         throw "02-story-plan.md is missing the 'Name check' section."
     }
-    if ($Section.Trim() -match '^None\.?$') { return @() }
+    $WithoutComments = [regex]::Replace($Section, '(?ms)<!--.*?-->', '').Trim()
+    if ($WithoutComments -match '^None\.?$') { return @() }
 
-    $Lines = @($Section -split '\r?\n' |
+    $Lines = @($WithoutComments -split '\r?\n' |
         Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
     $Rows = [System.Collections.Generic.List[object]]::new()
     $HeaderSeen = $false
     $SeparatorSeen = $false
     foreach ($Line in $Lines) {
         if ($Line -notmatch '^\s*\|') {
-            if ($Line -match '^<!--.*-->$') { continue }
             throw "Unexpected content in plan Name check table: $Line"
         }
 
         $Cells = Split-MarkdownRow -Line $Line -ExpectedCells 4 -Context '02-story-plan.md Name check'
         if ($Cells[0] -eq 'Character/entity') {
             if ($HeaderSeen) { throw 'Duplicate plan Name check header.' }
+            $ExpectedHeader = @(
+                'Character/entity',
+                'Reserved forms used in prose',
+                'Registry result',
+                'Reuse rationale and reader disambiguation'
+            )
+            for ($CellIndex = 0; $CellIndex -lt $ExpectedHeader.Count; $CellIndex++) {
+                if ($Cells[$CellIndex] -cne $ExpectedHeader[$CellIndex]) {
+                    throw (
+                        "Plan Name check column $($CellIndex + 1) must be " +
+                        "'$($ExpectedHeader[$CellIndex])'."
+                    )
+                }
+            }
             $HeaderSeen = $true
             continue
         }
-        if (($Cells | Where-Object { $_ -notmatch '^:?-{3,}:?$' }).Count -eq 0) {
+        if (@($Cells | Where-Object { $_ -notmatch '^:?-{3,}:?$' }).Count -eq 0) {
             if (-not $HeaderSeen -or $SeparatorSeen) {
                 throw 'Invalid plan Name check separator.'
             }
@@ -341,10 +383,31 @@ function Get-PlanInventory {
         $Character = ConvertFrom-MarkdownCell $Cells[0]
         $Forms = @((ConvertFrom-MarkdownCell $Cells[1]).Split(';') |
             ForEach-Object { $_.Trim() } | Where-Object { $_ })
-        if (-not $Character -or $Forms.Count -eq 0) {
-            throw "Plan Name check row has a blank character or reserved forms: $Line"
+        $RegistryResult = ConvertFrom-MarkdownCell $Cells[2]
+        $ReuseRationale = ConvertFrom-MarkdownCell $Cells[3]
+        if (-not $Character -or $Forms.Count -eq 0 -or
+            $RegistryResult -in @('', '-', '—') -or
+            $ReuseRationale -in @('', '-', '—')) {
+            throw "Plan Name check row must populate all four columns: $Line"
         }
-        $Rows.Add([pscustomobject]@{ Character = $Character; Forms = $Forms })
+        $CombinedReuseText = "$RegistryResult`n$ReuseRationale"
+        $ReuseStatus = if ($RegistryResult -match
+            '(?i)\bunresolved\b|\bpending\b.{0,40}\bcollision\b|\bcollision\b.{0,40}\bpending\b') {
+            'unresolved'
+        }
+        elseif ($CombinedReuseText -match '(?i)\bdeliberate(?:ly)?\b') {
+            'deliberate'
+        }
+        else {
+            'unique'
+        }
+        $Rows.Add([pscustomobject]@{
+            Character = $Character
+            Forms = $Forms
+            RegistryResult = $RegistryResult
+            ReuseRationale = $ReuseRationale
+            ReuseStatus = $ReuseStatus
+        })
     }
 
     if (-not $HeaderSeen -or -not $SeparatorSeen) {
@@ -403,6 +466,304 @@ function Get-DeltaDeclaredNames {
     return @($Names | Sort-Object -Unique)
 }
 
+function Get-ProseAuditAllowlist {
+    param([Parameter(Mandatory = $true)][string]$Content)
+
+    $Section = Get-MarkdownSection -Content $Content -Heading 'Reviewed prose name-audit allowlist'
+    if ($null -eq $Section) { return @() }
+    $WithoutComments = [regex]::Replace($Section, '(?ms)<!--.*?-->', '').Trim()
+    if ($WithoutComments -match '^None\.?$') { return @() }
+
+    $Lines = @($WithoutComments -split '\r?\n' |
+        Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
+    $Rows = [System.Collections.Generic.List[object]]::new()
+    $HeaderSeen = $false
+    $SeparatorSeen = $false
+    $AllowedClassifications = @(
+        'common-word', 'formatting-artifact', 'non-character', 'organization',
+        'place', 'quoted-text', 'setting-term'
+    )
+    foreach ($Line in $Lines) {
+        $Cells = Split-MarkdownRow -Line $Line -ExpectedCells 3 -Context (
+            '06-canon-delta.md Reviewed prose name-audit allowlist'
+        )
+        if ($Cells[0] -eq 'Candidate label') {
+            if ($HeaderSeen) { throw 'Duplicate prose name-audit allowlist header.' }
+            $ExpectedHeader = @('Candidate label', 'Classification', 'Review rationale')
+            for ($CellIndex = 0; $CellIndex -lt $ExpectedHeader.Count; $CellIndex++) {
+                if ($Cells[$CellIndex] -cne $ExpectedHeader[$CellIndex]) {
+                    throw (
+                        "Prose name-audit allowlist column $($CellIndex + 1) must be " +
+                        "'$($ExpectedHeader[$CellIndex])'."
+                    )
+                }
+            }
+            $HeaderSeen = $true
+            continue
+        }
+        if (@($Cells | Where-Object { $_ -notmatch '^:?-{3,}:?$' }).Count -eq 0) {
+            if (-not $HeaderSeen -or $SeparatorSeen) {
+                throw 'Invalid prose name-audit allowlist separator.'
+            }
+            $SeparatorSeen = $true
+            continue
+        }
+        if (-not $HeaderSeen -or -not $SeparatorSeen) {
+            throw 'Prose name-audit allowlist data appears before its header and separator.'
+        }
+
+        $Candidate = ConvertFrom-MarkdownCell $Cells[0]
+        $Classification = (ConvertFrom-MarkdownCell $Cells[1]).ToLowerInvariant()
+        $Rationale = ConvertFrom-MarkdownCell $Cells[2]
+        if (-not $Candidate -or $Classification -notin $AllowedClassifications -or
+            $Rationale -in @('', '-', '—')) {
+            throw "Malformed prose name-audit allowlist row: $Line"
+        }
+        $Rows.Add([pscustomobject]@{
+            Candidate = $Candidate
+            Normalized = Normalize-NameForm $Candidate
+            Classification = $Classification
+            Rationale = $Rationale
+        })
+    }
+    if (-not $HeaderSeen -or -not $SeparatorSeen) {
+        throw 'Reviewed prose name-audit allowlist is not a valid three-column table.'
+    }
+    $Duplicate = @($Rows | Group-Object Normalized | Where-Object Count -gt 1)
+    if ($Duplicate.Count -gt 0) {
+        throw "Duplicate prose name-audit allowlist candidate '$($Duplicate[0].Group[0].Candidate)'."
+    }
+    return @($Rows)
+}
+
+function Remove-StoryMarkup {
+    param([Parameter(Mandatory = $true)][string]$Content)
+
+    $Result = [regex]::Replace($Content, '(?s)\A---\s*.*?\s*---\s*', '')
+    $Result = [regex]::Replace($Result, '(?ms)<!--.*?-->', '')
+    $Result = [regex]::Replace($Result, '(?m)^\s{0,3}#{1,6}\s+.*$', '')
+    $Result = [regex]::Replace($Result, '(?m)^\s*```.*$', '')
+    return $Result
+}
+
+function Remove-KnownNameForms {
+    param(
+        [Parameter(Mandatory = $true)][string]$Prose,
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][string[]]$Forms
+    )
+
+    $Result = $Prose
+    foreach ($Form in @($Forms | Sort-Object -Unique | Sort-Object Length -Descending)) {
+        if ([string]::IsNullOrWhiteSpace($Form)) { continue }
+        $EscapedForm = [regex]::Escape($Form) -replace '\\\s', '\s+'
+        $Pattern = '(?<![\p{L}\p{N}])' + $EscapedForm + '(?![\p{L}\p{N}])'
+        $Result = [regex]::Replace(
+            $Result,
+            $Pattern,
+            ' ',
+            [Text.RegularExpressions.RegexOptions]::CultureInvariant -bor
+                [Text.RegularExpressions.RegexOptions]::IgnoreCase
+        )
+    }
+    return $Result
+}
+
+function Get-ProseNameCandidates {
+    param([Parameter(Mandatory = $true)][string]$Prose)
+
+    $CommonWords = [System.Collections.Generic.HashSet[string]]::new(
+        [StringComparer]::OrdinalIgnoreCase
+    )
+    foreach ($Word in @(
+        'A', 'Across', 'After', 'Again', 'All', 'Along', 'Although', 'An', 'And',
+        'Around', 'As', 'At', 'Before', 'Behind', 'Beyond', 'But', 'By', 'Down',
+        'Even', 'Every', 'For', 'From', 'He', 'Her',
+        'Here', 'His', 'How', 'However', 'I', 'If', 'In', 'Into', 'It', 'Its',
+        'Inside', 'Later', 'Meanwhile', 'My', 'Near', 'Neither', 'No', 'Nor', 'Now', 'Of',
+        'On', 'Once', 'Only', 'Or', 'Otherwise', 'Our', 'Over', 'She', 'So',
+        'Outside', 'Still', 'That', 'The', 'Their', 'Then', 'There', 'These', 'They', 'This',
+        'Those', 'Through', 'To', 'Under', 'Until', 'We', 'What', 'When', 'Where',
+        'Whether', 'While', 'Who', 'Why', 'With', 'Without', 'Yes', 'Yet', 'You', 'Up',
+        'Your'
+    )) { $null = $CommonWords.Add($Word) }
+
+    $TitleWords = @(
+        'Adjudicator', 'Agent', 'Aunt', 'Captain', 'Chancellor', 'Chief', 'Colonel',
+        'Commander', 'Councillor', 'Doctor', 'Dr', 'Duchess', 'Emperor', 'Examiner',
+        'Father', 'General', 'Goddess', 'Host', 'Indexer', 'Instructor', 'King',
+        'Lady', 'Lord', 'Majesty', 'Master', 'Minister', 'Mother', 'Mr', 'Mrs', 'Ms',
+        'Officer', 'Prince', 'Princess', 'Professor', 'Queen', 'Saint', 'Sergeant',
+        'Sister', 'Vicar', 'Warden'
+    )
+    $CapitalToken = '(?:(?:Dr|Mr|Mrs|Ms|St|[A-Z])\.|@?[A-Z][\p{L}\p{M}\p{N}\u2019''-]*)'
+    $CandidatePattern = '(?<![\p{L}\p{N}@])' + $CapitalToken +
+        '(?:[ \t]+(?:(?:of|the|and|de|da|van|von)|' + $CapitalToken + ')){0,5}'
+    $Observed = [System.Collections.Generic.List[object]]::new()
+    foreach ($Match in [regex]::Matches($Prose, $CandidatePattern)) {
+        $Value = $Match.Value.Trim().TrimEnd('.', ',', ':', ';', '!', '?')
+        $ValueIndex = $Match.Index
+        $Tokens = @($Value -split '[ \t]+' | Where-Object { $_ })
+        while ($Tokens.Count -gt 1 -and $CommonWords.Contains($Tokens[0])) {
+            $Tokens = @($Tokens[1..($Tokens.Count - 1)])
+        }
+        if ($Tokens.Count -eq 0) { continue }
+        $FirstTokenOffset = $Match.Value.IndexOf(
+            $Tokens[0],
+            [StringComparison]::Ordinal
+        )
+        if ($FirstTokenOffset -ge 0) {
+            $ValueIndex = $Match.Index + $FirstTokenOffset
+        }
+        $Value = $Tokens -join ' '
+        if ($Tokens.Count -eq 1 -and $CommonWords.Contains($Value)) { continue }
+        if ($Value -match '^[IVXLCDM]+$' -or $Value -match '^\d+$') { continue }
+
+        $BeforeStart = [Math]::Max(0, $ValueIndex - 48)
+        $Before = $Prose.Substring($BeforeStart, $ValueIndex - $BeforeStart)
+        $AfterStart = $Match.Index + $Match.Length
+        $AfterLength = [Math]::Min(64, $Prose.Length - $AfterStart)
+        $After = if ($AfterLength -gt 0) { $Prose.Substring($AfterStart, $AfterLength) } else { '' }
+        $SentencePrefix = $Before -replace '(?s)^.*[.!?\u2026]\s*["''\u201d\u2019)]*', ''
+        $AtSentenceStart = $SentencePrefix -match '^\s*["''\u201c\u2018(]*\s*$'
+        $StrongBefore = $Before -match (
+            '(?i)\b(?:answered|asked|called|greeted|heard|met|named|replied|' +
+            'said|saw|thanked|told|warned|watched|known\s+as)\s+["''\u201c\u2018]*$'
+        )
+        $StrongAfter = $After -match (
+            "^(?:['\u2019]s)?[,;:]?\s+(?i:agreed|answered|arrived|asked|breathed|" +
+            'closed|crossed|did|entered|flinched|gave|had|held|laughed|leaned|' +
+            'lifted|looked|lowered|nodded|opened|reached|refused|replied|returned|' +
+            'said|sat|shouted|sighed|smiled|stood|stepped|took|turned|waited|' +
+            'walked|was|watched|whispered|would)\b'
+        )
+        $HasTitle = $TitleWords -contains ($Tokens[0].TrimEnd('.'))
+        $AllCapsLabel = $Tokens.Count -gt 1 -and $Value -cmatch '^[A-Z0-9@ .''\u2019-]+$'
+        $Vocative = $After -match '^\s*,' -and $Before -match '["\u201c][^"\u201d]{0,80}$'
+        $Observed.Add([pscustomobject]@{
+            Form = $Value
+            Normalized = Normalize-NameForm $Value
+            Strong = [bool]($StrongBefore -or $StrongAfter -or $HasTitle -or
+                $Vocative)
+            AlwaysStrong = [bool]($StrongBefore -or $HasTitle -or $Vocative)
+            AtSentenceStart = [bool]$AtSentenceStart
+            AllCapsLabel = [bool]$AllCapsLabel
+            TokenCount = $Tokens.Count
+        })
+    }
+
+    $Candidates = [System.Collections.Generic.List[object]]::new()
+    foreach ($Group in @($Observed | Group-Object Normalized)) {
+        $Occurrences = @($Group.Group)
+        $StrongOccurrences = @($Occurrences | Where-Object {
+            $_.AlwaysStrong -or
+                ($_.Strong -and -not $_.AllCapsLabel -and
+                    (-not $_.AtSentenceStart -or $_.TokenCount -gt 1))
+        })
+        $RepeatedMixedPosition = $Occurrences.Count -ge 2 -and
+            @($Occurrences | Where-Object {
+                -not $_.AtSentenceStart -and -not $_.AllCapsLabel
+            }).Count -gt 0
+        if ($StrongOccurrences.Count -eq 0 -and -not $RepeatedMixedPosition) { continue }
+        $Preferred = @($Occurrences | Sort-Object { $_.Form.Length } -Descending)[0]
+        $Candidates.Add([pscustomobject]@{
+            Form = $Preferred.Form
+            Normalized = $Preferred.Normalized
+            Occurrences = $Occurrences.Count
+        })
+    }
+    return @($Candidates | Sort-Object Normalized)
+}
+
+function Get-CanonicalRegistryJson {
+    param([Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$RegistryRows)
+
+    $Canonical = @($RegistryRows | Sort-Object IdentityKey | ForEach-Object {
+        [ordered]@{
+            identityKey = $_.IdentityKey
+            character = $_.Character
+            forms = @(Get-OrdinalSortedUniqueStrings -Values @($_.Forms))
+            source = $_.Source
+            # Lifecycle projections are validated separately.  Canonical name
+            # receipts bind reservation identity, not a story's mutable stage.
+            state = if ($_.State -ceq 'released') { 'released' } else { 'reserved' }
+            reuseStatus = $_.ReuseStatus
+            rationale = $_.Rationale
+        }
+    })
+    return ConvertTo-Json -InputObject $Canonical -Depth 5 -Compress
+}
+
+function Test-MeaningfulReuseDocumentation {
+    param([AllowNull()][AllowEmptyString()][string]$Text)
+
+    return -not [string]::IsNullOrWhiteSpace($Text) -and
+        $Text.Trim() -notin @('-', '—') -and $Text.Trim().Length -ge 12
+}
+
+function Add-PlanIdentityBindings {
+    param(
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$PlanRows,
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$ScopedRegistryRows
+    )
+
+    foreach ($PlanRow in $PlanRows) {
+        $PlanForms = @($PlanRow.Forms | ForEach-Object { Normalize-NameForm $_ })
+        $Matches = @($ScopedRegistryRows | Where-Object {
+            $RegistryForms = @($_.Forms | ForEach-Object { Normalize-NameForm $_ })
+            @($PlanForms | Where-Object { $_ -notin $RegistryForms }).Count -eq 0
+        })
+        if ($Matches.Count -gt 1) {
+            $CharacterMatches = @($Matches | Where-Object {
+                (Normalize-NameForm $_.Character) -ceq
+                    (Normalize-NameForm $PlanRow.Character)
+            })
+            if ($CharacterMatches.Count -eq 1) { $Matches = $CharacterMatches }
+        }
+        if ($Matches.Count -ne 1) {
+            throw (
+                "Plan Name check identity '$($PlanRow.Character)' must map to exactly one " +
+                "story-scoped registry row; found $($Matches.Count)."
+            )
+        }
+        $PlanRow | Add-Member -NotePropertyName RegistryIdentityKey -NotePropertyValue $Matches[0].IdentityKey -Force
+    }
+    $DuplicateBindings = @($PlanRows | Group-Object RegistryIdentityKey |
+        Where-Object Count -gt 1)
+    if ($DuplicateBindings.Count -gt 0) {
+        throw (
+            "Plan Name check contains multiple rows for registry identity " +
+            "'$($DuplicateBindings[0].Group[0].Character)'."
+        )
+    }
+    return @($PlanRows)
+}
+
+function Test-CollisionHasDeliberateDocumentation {
+    param(
+        [Parameter(Mandatory = $true)][object[]]$Uses,
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$PlanRows
+    )
+
+    foreach ($Use in $Uses) {
+        if ($Use.ReuseStatus -ne 'deliberate' -or
+            -not (Test-MeaningfulReuseDocumentation $Use.Rationale)) {
+            return $false
+        }
+        if (-not $Use.TouchesStory) { continue }
+        $MatchingPlanRows = @($PlanRows | Where-Object {
+            $PlanNormalizedForms = @($_.Forms | ForEach-Object { Normalize-NameForm $_ })
+            $_.RegistryIdentityKey -ceq $Use.IdentityKey -and
+                $PlanNormalizedForms -contains $Use.Normalized
+        })
+        if ($MatchingPlanRows.Count -ne 1 -or
+            $MatchingPlanRows[0].ReuseStatus -ne 'deliberate' -or
+            -not (Test-MeaningfulReuseDocumentation $MatchingPlanRows[0].ReuseRationale)) {
+            return $false
+        }
+    }
+    return $true
+}
+
 if ([string]::IsNullOrWhiteSpace($ProjectRoot)) {
     $ProjectRoot = (Resolve-Path -LiteralPath (
         Join-Path $PSScriptRoot '../../../..'
@@ -427,6 +788,12 @@ $ArtifactHash = $null
 $PlanHash = $null
 $StoryHash = $null
 $DeltaHash = $null
+
+if ($Story -and $SkipConfusable) {
+    $Failures.Add(
+        '-SkipConfusable is not permitted for a story-scoped name gate.'
+    )
+}
 
 if ($Story) {
     $StoryDirectory = Join-Path $ProjectRoot "stories/$Story"
@@ -466,89 +833,10 @@ if ($Story) {
     }
 }
 
-$FormUses = [System.Collections.Generic.List[object]]::new()
-foreach ($Row in @($Rows | Where-Object State -ne 'released')) {
-    foreach ($Form in $Row.Forms) {
-        $FormUses.Add([pscustomobject]@{
-            Normalized = Normalize-NameForm $Form
-            ConfusableKey = Get-ConfusableKey $Form
-            ReversalKey = Get-ReversalKey $Form
-            Form = $Form
-            Character = $Row.Character
-            Source = $Row.Source
-            ReuseStatus = $Row.ReuseStatus
-            Rationale = $Row.Rationale
-            TouchesStory = if ($Story) {
-                Test-SourceReferencesStory -Source $Row.Source -Slug $Story
-            }
-            else { $false }
-        })
-    }
-}
-
-foreach ($Group in @($FormUses | Group-Object Normalized)) {
-    $Uses = @($Group.Group)
-    $DistinctIdentities = @($Uses.Character | ForEach-Object { $_.ToLowerInvariant() } |
-        Sort-Object -Unique)
-    if ($DistinctIdentities.Count -lt 2) { continue }
-
-    $Allowed = @($Uses | Where-Object {
-        $_.ReuseStatus -eq 'deliberate' -and $_.Rationale -notin @('', '-', '—')
-    }).Count -eq $Uses.Count
-    if ($Allowed) { continue }
-
-    $Description = "Exact collision '$($Uses[0].Form)' => " +
-        (($Uses | ForEach-Object { "$($_.Character) [$($_.Source)]" }) -join '; ')
-    $TouchesScopedStory = @($Uses | Where-Object TouchesStory).Count -gt 0
-    $ShouldFail = if ($Story) { $TouchesScopedStory } else { [bool]$Strict }
-    if ($ShouldFail) {
-        $Failures.Add($Description)
-    }
-    else {
-        $Warnings.Add($Description)
-    }
-}
-
-$ReportedPairs = [System.Collections.Generic.HashSet[string]]::new()
-for ($LeftIndex = 0; -not $SkipConfusable -and $LeftIndex -lt $FormUses.Count; $LeftIndex++) {
-    $Left = $FormUses[$LeftIndex]
-    for ($RightIndex = $LeftIndex + 1; $RightIndex -lt $FormUses.Count; $RightIndex++) {
-        $Right = $FormUses[$RightIndex]
-        if ($Story -and -not $Left.TouchesStory -and -not $Right.TouchesStory) {
-            continue
-        }
-        if ($Left.Character -ieq $Right.Character) { continue }
-        $PairParts = @($Left.Normalized, $Right.Normalized) | Sort-Object
-        $PairKey = $PairParts -join "`0"
-        if (-not $ReportedPairs.Add($PairKey)) { continue }
-
-        $Kind = $null
-        if ($Left.Normalized -ne $Right.Normalized -and
-            $Left.ConfusableKey -eq $Right.ConfusableKey) {
-            $Kind = 'punctuation/spacing-confusable'
-        }
-        elseif ($Left.ReversalKey -and $Left.ReversalKey -eq $Right.Normalized) {
-            $Kind = 'reversed-form'
-        }
-        else {
-            $MinimumLength = [Math]::Min($Left.ConfusableKey.Length, $Right.ConfusableKey.Length)
-            if ($MinimumLength -ge 4) {
-                $Threshold = if ($MinimumLength -ge 8) { 2 } else { 1 }
-                $Distance = Get-LevenshteinDistance $Left.ConfusableKey $Right.ConfusableKey
-                if ($Distance -le $Threshold) {
-                    $Kind = "close-spelling(distance $Distance)"
-                }
-            }
-        }
-        if ($Kind) {
-            $Warnings.Add(
-                "$Kind '$($Left.Form)' [$($Left.Source)] vs '$($Right.Form)' [$($Right.Source)]"
-            )
-        }
-    }
-}
-
 $Inventory = @()
+$PlanInventory = @()
+$Allowlist = @()
+$ProseCandidates = @()
 if ($Story) {
     if ($Phase -eq 'Auto') {
         $Status = [string]$StoryMetadata.status
@@ -582,9 +870,11 @@ if ($Story) {
             $PlanHash = Get-Sha256ForFile $PlanPath
             $ArtifactHash = $PlanHash
             try {
-                $Inventory = @(Get-PlanInventory -Content (
+                $PlanInventory = @(Get-PlanInventory -Content (
                     Get-Content -LiteralPath $PlanPath -Raw
                 ))
+                $PlanInventory = @(Add-PlanIdentityBindings -PlanRows $PlanInventory -ScopedRegistryRows $ScopedRows)
+                $Inventory = @($PlanInventory)
             }
             catch { $Failures.Add($_.Exception.Message) }
         }
@@ -608,15 +898,14 @@ if ($Story) {
             try {
                 $Inventory = @(Get-FinalInventory -Content $DeltaContent)
                 $DeclaredNames = @(Get-DeltaDeclaredNames -Content $DeltaContent)
+                $Allowlist = @(Get-ProseAuditAllowlist -Content $DeltaContent)
             }
             catch {
                 $Failures.Add($_.Exception.Message)
                 $DeclaredNames = @()
             }
 
-            $Prose = [regex]::Replace($FinalContent, '(?s)\A---\s*.*?\s*---\s*', '')
-            $Prose = [regex]::Replace($Prose, '(?ms)^#\s+.*?\r?\n', '')
-            $Prose = [regex]::Replace($Prose, '(?ms)<!--.*?-->', '')
+            $Prose = Remove-StoryMarkup $FinalContent
             $InventoryForms = @($Inventory | ForEach-Object Forms | ForEach-Object {
                 Normalize-NameForm $_
             } | Sort-Object -Unique)
@@ -656,6 +945,27 @@ if ($Story) {
                     }
                 }
             }
+
+            $AuditProse = Remove-KnownNameForms -Prose $Prose -Forms $InventoryRawForms
+            $ProseCandidates = @(Get-ProseNameCandidates -Prose $AuditProse)
+            $AllowedCandidateKeys = @($Allowlist | ForEach-Object Normalized)
+            foreach ($Candidate in $ProseCandidates) {
+                if ($Candidate.Normalized -notin $AllowedCandidateKeys) {
+                    $Failures.Add(
+                        "Prose-derived candidate name '$($Candidate.Form)' is omitted from the final " +
+                        'name inventory/registry and the reviewed prose name-audit allowlist.'
+                    )
+                }
+            }
+            $CandidateKeys = @($ProseCandidates | ForEach-Object Normalized)
+            foreach ($Allowed in $Allowlist) {
+                if ($Allowed.Normalized -notin $CandidateKeys) {
+                    $Warnings.Add(
+                        "Reviewed prose name-audit allowlist entry '$($Allowed.Candidate)' " +
+                        'was not produced by the conservative candidate extractor.'
+                    )
+                }
+            }
         }
     }
 
@@ -683,35 +993,166 @@ if ($Story) {
                 }
             }
         }
+        foreach ($Item in $PlanInventory | Where-Object ReuseStatus -eq 'unresolved') {
+            $Failures.Add(
+                "Plan Name check leaves target reuse unresolved for '$($Item.Character)'."
+            )
+        }
+    }
+    foreach ($Row in $ScopedRows | Where-Object ReuseStatus -eq 'unresolved') {
+        $Failures.Add("Registry reuse remains unresolved for target identity '$($Row.Character)'.")
+    }
+}
+
+$ActiveRows = @($Rows | Where-Object State -ne 'released')
+$FormUses = [System.Collections.Generic.List[object]]::new()
+foreach ($Row in $ActiveRows) {
+    foreach ($Form in $Row.Forms) {
+        $FormUses.Add([pscustomobject]@{
+            IdentityKey = $Row.IdentityKey
+            Normalized = Normalize-NameForm $Form
+            ConfusableKey = Get-ConfusableKey $Form
+            ReversalKey = Get-ReversalKey $Form
+            Form = $Form
+            Character = $Row.Character
+            Source = $Row.Source
+            ReuseStatus = $Row.ReuseStatus
+            Rationale = $Row.Rationale
+            TouchesStory = if ($Story) {
+                Test-SourceReferencesStory -Source $Row.Source -Slug $Story
+            }
+            else { $false }
+        })
+    }
+}
+$FormUses = @($FormUses | Sort-Object IdentityKey, Normalized, Form)
+
+$Collisions = [System.Collections.Generic.List[object]]::new()
+foreach ($Group in @($FormUses | Group-Object Normalized)) {
+    $Uses = @($Group.Group)
+    $DistinctIdentityKeys = @($Uses.IdentityKey | Sort-Object -Unique)
+    if ($DistinctIdentityKeys.Count -lt 2) { continue }
+    $Description = "Exact collision '$($Uses[0].Form)' => " +
+        (($Uses | ForEach-Object { "$($_.Character) [$($_.Source)]" }) -join '; ')
+    $Collisions.Add([pscustomobject]@{
+        Kind = 'exact'
+        Uses = $Uses
+        Description = $Description
+        TouchesStory = @($Uses | Where-Object TouchesStory).Count -gt 0
+    })
+}
+
+$ReportedPairs = [System.Collections.Generic.HashSet[string]]::new()
+for ($LeftIndex = 0; -not $SkipConfusable -and $LeftIndex -lt $FormUses.Count; $LeftIndex++) {
+    $Left = $FormUses[$LeftIndex]
+    for ($RightIndex = $LeftIndex + 1; $RightIndex -lt $FormUses.Count; $RightIndex++) {
+        $Right = $FormUses[$RightIndex]
+        if ($Left.IdentityKey -ceq $Right.IdentityKey -or
+            $Left.Normalized -ceq $Right.Normalized) { continue }
+        if ($Story -and -not $Left.TouchesStory -and -not $Right.TouchesStory) { continue }
+        $PairParts = @(
+            "$($Left.IdentityKey):$($Left.Normalized)",
+            "$($Right.IdentityKey):$($Right.Normalized)"
+        ) | Sort-Object
+        $PairKey = $PairParts -join "`0"
+        if (-not $ReportedPairs.Add($PairKey)) { continue }
+
+        $Kind = $null
+        if ($Left.ConfusableKey -eq $Right.ConfusableKey) {
+            $Kind = 'punctuation/spacing-confusable'
+        }
+        elseif (($Left.ReversalKey -and $Left.ReversalKey -eq $Right.Normalized) -or
+            ($Right.ReversalKey -and $Right.ReversalKey -eq $Left.Normalized)) {
+            $Kind = 'reversed-form'
+        }
+        else {
+            $MinimumLength = [Math]::Min($Left.ConfusableKey.Length, $Right.ConfusableKey.Length)
+            if ($MinimumLength -ge 4) {
+                $Threshold = if ($MinimumLength -ge 8) { 2 } else { 1 }
+                $Distance = Get-LevenshteinDistance $Left.ConfusableKey $Right.ConfusableKey
+                if ($Distance -le $Threshold) { $Kind = "close-spelling(distance $Distance)" }
+            }
+        }
+        if ($Kind) {
+            $Collisions.Add([pscustomobject]@{
+                Kind = $Kind
+                Uses = @($Left, $Right)
+                Description = "$Kind '$($Left.Form)' [$($Left.Source)] vs '$($Right.Form)' [$($Right.Source)]"
+                TouchesStory = [bool]($Left.TouchesStory -or $Right.TouchesStory)
+            })
+        }
+    }
+}
+
+$TargetCollisions = @($Collisions | Where-Object TouchesStory)
+if ($Story -and $TargetCollisions.Count -gt 0 -and $Phase -eq 'Final') {
+    $PlanPath = Join-Path $StoryDirectory '02-story-plan.md'
+    if (-not (Test-Path -LiteralPath $PlanPath -PathType Leaf)) {
+        $Failures.Add('02-story-plan.md is required to document deliberate target name reuse.')
+    }
+    else {
+        $PlanHash = Get-Sha256ForFile $PlanPath
+        $ArtifactHash = Get-Sha256ForText "$StoryHash`n$DeltaHash`n$PlanHash"
+        try {
+            $PlanInventory = @(Get-PlanInventory -Content (
+                Get-Content -LiteralPath $PlanPath -Raw
+            ))
+            $PlanInventory = @(Add-PlanIdentityBindings -PlanRows $PlanInventory -ScopedRegistryRows $ScopedRows)
+        }
+        catch { $Failures.Add($_.Exception.Message) }
+    }
+}
+
+foreach ($Collision in $Collisions) {
+    $Allowed = Test-CollisionHasDeliberateDocumentation -Uses $Collision.Uses -PlanRows $PlanInventory
+    if ($Story -and $Collision.TouchesStory) {
+        if (-not $Allowed) {
+            $Failures.Add(
+                "$($Collision.Description). Target-touching collisions require consistent " +
+                'deliberate reuse documentation in both the plan and every registry identity.'
+            )
+        }
+        else {
+            $Warnings.Add("Documented deliberate $($Collision.Description)")
+        }
+    }
+    elseif (-not $Story -and $Strict -and -not $Allowed) {
+        $Failures.Add($Collision.Description)
+    }
+    else {
+        $Warnings.Add($Collision.Description)
     }
 }
 
 $RowsToHash = if ($Story) { $ScopedRows } else { $Rows }
-$ScopedCanonical = @($RowsToHash | Sort-Object Character, Source | ForEach-Object {
-    [ordered]@{
-        character = $_.Character
-        forms = @($_.Forms | Sort-Object)
-        source = $_.Source
-        state = $_.State
-        reuseStatus = $_.ReuseStatus
-        rationale = $_.Rationale
-    }
-}) | ConvertTo-Json -Depth 5 -Compress
+$ScopedCanonical = Get-CanonicalRegistryJson -RegistryRows $RowsToHash
 $ScopedHash = Get-Sha256ForText -Text $ScopedCanonical
+$ActiveCanonical = Get-CanonicalRegistryJson -RegistryRows $ActiveRows
+$ActiveRegistryHash = Get-Sha256ForText -Text $ActiveCanonical
 
 if ($Failures.Count -gt 0) {
     throw ("Name registry check failed:`n- " +
         (@($Failures | Sort-Object -Unique) -join "`n- "))
 }
 
+$SortedWarnings = @(Get-OrdinalSortedUniqueStrings -Values @($Warnings))
+$WarningsHash = Get-Sha256ForText -Text (
+    ConvertTo-Json -InputObject $SortedWarnings -Compress
+)
 $ReceiptId = if ($Story) {
-    Get-Sha256ForText "$Story`n$($Phase.ToLowerInvariant())`n$ArtifactHash`n$ScopedHash"
+    Get-Sha256ForText (
+        "$CheckerVersion`n$Story`n$($Phase.ToLowerInvariant())`n" +
+        "$ArtifactHash`n$ScopedHash`n$ActiveRegistryHash`n$WarningsHash"
+    )
 }
 else {
-    Get-Sha256ForText "registry`n$ScopedHash"
+    Get-Sha256ForText (
+        "$CheckerVersion`nregistry`n$ScopedHash`n$ActiveRegistryHash`n$WarningsHash"
+    )
 }
 $Result = [ordered]@{
     schemaVersion = 1
+    checkerVersion = $CheckerVersion
     receiptId = $ReceiptId
     story = if ($Story) { $Story } else { $null }
     phase = if ($Story) { $Phase } else { 'Registry' }
@@ -721,11 +1162,15 @@ $Result = [ordered]@{
     storySha256 = $StoryHash
     canonDeltaSha256 = $DeltaHash
     registryEntries = $Rows.Count
+    activeRegistryEntries = $ActiveRows.Count
     reservedForms = $FormUses.Count
     scopedEntries = $ScopedRows.Count
     inventoryEntries = $Inventory.Count
+    proseCandidateEntries = $ProseCandidates.Count
+    proseAllowlistEntries = $Allowlist.Count
     scopedRegistrySha256 = $ScopedHash
-    warnings = @($Warnings | Sort-Object -Unique)
+    activeRegistrySha256 = $ActiveRegistryHash
+    warnings = $SortedWarnings
 }
 
 if ($OutputFormat -eq 'Json') {

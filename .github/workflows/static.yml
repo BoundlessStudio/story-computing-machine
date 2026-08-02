@@ -3,19 +3,7 @@ name: Build and deploy stories to Pages
 on:
   push:
     branches: ["main"]
-    paths:
-      - "stories/**"
-      - "pages/**"
-      - ".agents/skills/story-integrity/**"
-      - ".agents/skills/story-name-validation/**"
-      - ".github/workflows/static.yml"
   pull_request:
-    paths:
-      - "stories/**"
-      - "pages/**"
-      - ".agents/skills/story-integrity/**"
-      - ".agents/skills/story-name-validation/**"
-      - ".github/workflows/static.yml"
   workflow_dispatch:
 
 permissions:
@@ -29,28 +17,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Validate published stories
+      - name: Validate complete repository pipeline
         shell: pwsh
-        run: |
-          $validator = Resolve-Path ./.agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1
-          Get-ChildItem ./stories -Directory |
-            Where-Object { $_.Name -notmatch '^[_.]' } |
-            ForEach-Object {
-              $metadataPath = Join-Path $_.FullName story.json
-              if (Test-Path -LiteralPath $metadataPath -PathType Leaf) {
-                $metadata = Get-Content -LiteralPath $metadataPath -Raw | ConvertFrom-Json
-                if ($metadata.publish -eq $true) {
-                  $global:LASTEXITCODE = 0
-                  & $validator -Story $_.Name
-                  if (-not $? -or $LASTEXITCODE -ne 0) {
-                    throw "Story integrity failed for $($_.Name)."
-                  }
-                }
-              }
-            }
+        run: ./.agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1 -OutputFormat Text
 
       - name: Set up Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@v6
         with:
           python-version: "3.13"
           cache: pip

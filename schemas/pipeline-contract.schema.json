@@ -1,0 +1,187 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://boundless.invalid/schemas/pipeline-contract-v1.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "story",
+    "lifecycle",
+    "release",
+    "reviewPass",
+    "handoffLedger",
+    "promotion",
+    "sourceManifest"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "story": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schemaVersion", "fields", "stages", "statuses", "userDispositions"],
+      "properties": {
+        "schemaVersion": { "type": "integer", "minimum": 1 },
+        "fields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "stages": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "statuses": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "userDispositions": { "$ref": "#/definitions/nonemptyUniqueStrings" }
+      }
+    },
+    "lifecycle": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["publishableStatuses", "states"],
+      "properties": {
+        "publishableStatuses": { "$ref": "#/definitions/uniqueStrings" },
+        "states": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": { "$ref": "#/definitions/lifecycleState" }
+        }
+      }
+    },
+    "release": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "fields",
+        "artifactContainerFields",
+        "artifactFields",
+        "reviewFields",
+        "nameCheckFields",
+        "provenanceFields"
+      ],
+      "properties": {
+        "schemaVersion": { "type": "integer", "minimum": 1 },
+        "fields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "artifactContainerFields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "artifactFields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "reviewFields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "nameCheckFields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "provenanceFields": { "$ref": "#/definitions/nonemptyUniqueStrings" }
+      }
+    },
+    "reviewPass": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fields", "modes", "persistedStatuses", "verdicts"],
+      "properties": {
+        "fields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "modes": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "persistedStatuses": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "verdicts": { "$ref": "#/definitions/nonemptyUniqueStrings" }
+      }
+    },
+    "handoffLedger": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "schemaVersion",
+        "fields",
+        "entryFields",
+        "statuses",
+        "modeContracts",
+        "releaseFamilies"
+      ],
+      "properties": {
+        "schemaVersion": { "type": "integer", "minimum": 1 },
+        "fields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "entryFields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "statuses": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "modeContracts": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": { "$ref": "#/definitions/handoffMode" }
+        },
+        "releaseFamilies": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/nonemptyUniqueStrings" }
+        }
+      }
+    },
+    "promotion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schemaVersion", "states", "schemaPath"],
+      "properties": {
+        "schemaVersion": { "type": "integer", "minimum": 1 },
+        "states": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "schemaPath": { "type": "string", "pattern": "^[A-Za-z0-9._/-]+\\.json$" }
+      }
+    },
+    "sourceManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schemaVersion", "externalRecordFields", "verificationStatuses"],
+      "properties": {
+        "schemaVersion": { "type": "integer", "minimum": 1 },
+        "externalRecordFields": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "verificationStatuses": { "$ref": "#/definitions/nonemptyUniqueStrings" }
+      }
+    }
+  },
+  "definitions": {
+    "uniqueStrings": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "nonemptyUniqueStrings": {
+      "allOf": [
+        { "$ref": "#/definitions/uniqueStrings" },
+        { "minItems": 1 }
+      ]
+    },
+    "lifecycleState": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["stages", "canon", "userDispositions", "publish", "promotionDate"],
+      "properties": {
+        "stages": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "canon": { "type": "boolean" },
+        "userDispositions": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "publish": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "boolean" }
+        },
+        "promotionDate": { "enum": ["null", "required"] }
+      }
+    },
+    "handoffMode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "actor",
+        "persister",
+        "allowedOutputs",
+        "requiredInputs",
+        "allowedStages",
+        "statuses",
+        "requireAllReadyOutputs"
+      ],
+      "properties": {
+        "actor": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+        "persister": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+        "allowedOutputs": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "pattern": "^stories/(?:\\{story\\}|NAMES\\.md)[A-Za-z0-9._/{}/-]*$" }
+        },
+        "requiredInputs": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "pattern": "^stories/(?:\\{story\\}|NAMES\\.md)[A-Za-z0-9._/{}/-]*$" }
+        },
+        "allowedStages": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "statuses": { "$ref": "#/definitions/nonemptyUniqueStrings" },
+        "requireAllReadyOutputs": { "type": "boolean" }
+      }
+    }
+  }
+}

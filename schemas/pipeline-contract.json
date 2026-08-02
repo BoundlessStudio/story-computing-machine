@@ -1,0 +1,385 @@
+{
+  "schemaVersion": 1,
+  "story": {
+    "schemaVersion": 1,
+    "fields": [
+      "schemaVersion",
+      "slug",
+      "title",
+      "created",
+      "stage",
+      "status",
+      "canon",
+      "userDisposition",
+      "publish",
+      "promotionDate"
+    ],
+    "stages": [
+      "prompt",
+      "canon-research",
+      "planning",
+      "drafting",
+      "draft-review",
+      "final-edit",
+      "final-review",
+      "candidate",
+      "final",
+      "abandoned"
+    ],
+    "statuses": ["in-progress", "candidate", "final", "abandoned"],
+    "userDispositions": ["pending", "accepted", "rejected"]
+  },
+  "lifecycle": {
+    "publishableStatuses": ["candidate", "final"],
+    "states": {
+      "in-progress": {
+        "stages": [
+          "prompt",
+          "canon-research",
+          "planning",
+          "drafting",
+          "draft-review",
+          "final-edit",
+          "final-review"
+        ],
+        "canon": false,
+        "userDispositions": ["pending"],
+        "publish": [false],
+        "promotionDate": "null"
+      },
+      "candidate": {
+        "stages": ["candidate"],
+        "canon": false,
+        "userDispositions": ["pending", "accepted"],
+        "publish": [false, true],
+        "promotionDate": "null"
+      },
+      "final": {
+        "stages": ["final"],
+        "canon": true,
+        "userDispositions": ["accepted"],
+        "publish": [false, true],
+        "promotionDate": "required"
+      },
+      "abandoned": {
+        "stages": ["abandoned"],
+        "canon": false,
+        "userDispositions": ["rejected"],
+        "publish": [false],
+        "promotionDate": "null"
+      }
+    }
+  },
+  "release": {
+    "schemaVersion": 2,
+    "fields": [
+      "schemaVersion",
+      "certified",
+      "storySlug",
+      "certifiedAt",
+      "artifacts",
+      "review",
+      "nameCheck",
+      "provenance"
+    ],
+    "artifactContainerFields": ["story", "canonDelta"],
+    "artifactFields": ["path", "sha256"],
+    "reviewFields": [
+      "artifact",
+      "pass",
+      "verdict",
+      "reviewer",
+      "unresolvedCritical",
+      "unresolvedMajor",
+      "passSha256",
+      "historySha256",
+      "draftPass",
+      "draftPassSha256",
+      "reviewedAt"
+    ],
+    "nameCheckFields": [
+      "story",
+      "phase",
+      "passed",
+      "checkedAt",
+      "receiptId",
+      "storySha256",
+      "canonDeltaSha256",
+      "scopedRegistrySha256",
+      "activeRegistrySha256",
+      "checkerVersion",
+      "warnings"
+    ],
+    "provenanceFields": [
+      "promptSha256",
+      "canonBriefSha256",
+      "planSha256",
+      "draftSha256",
+      "authorityManifestSha256",
+      "reviewAuthorityManifestSha256",
+      "promotionPreparationSha256",
+      "handoffLedgerSha256"
+    ]
+  },
+  "reviewPass": {
+    "fields": [
+      "story",
+      "mode",
+      "status",
+      "pass",
+      "reviewedArtifact",
+      "artifactSha256",
+      "canonDeltaSha256",
+      "canonBriefSha256",
+      "planSha256",
+      "scopedRegistrySha256",
+      "authorityManifest",
+      "authorityManifestSha256",
+      "handoffLedger",
+      "handoffLedgerSha256",
+      "handoffLedgerChainHead",
+      "reviewer",
+      "reviewedAt",
+      "reviewBasis",
+      "verdict",
+      "blockType",
+      "resolutionOwner",
+      "resolutionQuestion",
+      "errorCode",
+      "unresolvedCounts",
+      "priorFindingDispositions",
+      "findings",
+      "certificationEligible",
+      "changeReport"
+    ],
+    "modes": ["REVIEW_DRAFT", "REVIEW_FINAL"],
+    "persistedStatuses": ["READY", "USER_RULING_REQUIRED"],
+    "verdicts": ["PASS", "REVISE", "BLOCK"]
+  },
+  "handoffLedger": {
+    "schemaVersion": 2,
+    "fields": ["schemaVersion", "storySlug", "chainHead", "entries"],
+    "entryFields": [
+      "sequence",
+      "story",
+      "actor",
+      "mode",
+      "status",
+      "recordedAt",
+      "guardId",
+      "persister",
+      "report",
+      "reportSha256",
+      "inputs",
+      "outputs",
+      "previousEntrySha256",
+      "entrySha256"
+    ],
+    "statuses": [
+      "READY",
+      "HANDOFF_ERROR",
+      "USER_RULING_REQUIRED",
+      "NAME_REGISTRATION_REQUIRED"
+    ],
+    "modeContracts": {
+      "RESEARCH_CANON": {
+        "actor": "canon_librarian",
+        "persister": "coordinator",
+        "allowedStages": ["prompt", "canon-research"],
+        "allowedOutputs": ["stories/{story}/01-canon-brief.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "CREATE_PLAN": {
+        "actor": "story_architect",
+        "persister": "story_architect",
+        "allowedStages": ["canon-research", "planning"],
+        "allowedOutputs": ["stories/{story}/02-story-plan.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED", "NAME_REGISTRATION_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "REVISE_PLAN": {
+        "actor": "story_architect",
+        "persister": "story_architect",
+        "allowedStages": ["planning"],
+        "allowedOutputs": ["stories/{story}/02-story-plan.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/04-review.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED", "NAME_REGISTRATION_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "CREATE_DRAFT": {
+        "actor": "prose_writer",
+        "persister": "prose_writer",
+        "allowedStages": ["planning", "drafting"],
+        "allowedOutputs": ["stories/{story}/03-draft.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED", "NAME_REGISTRATION_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "REVISE_DRAFT": {
+        "actor": "prose_writer",
+        "persister": "prose_writer",
+        "allowedStages": ["drafting", "draft-review"],
+        "allowedOutputs": ["stories/{story}/03-draft.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/03-draft.md",
+          "stories/{story}/04-review.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED", "NAME_REGISTRATION_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "REVIEW_DRAFT": {
+        "actor": "continuity_critic",
+        "persister": "coordinator",
+        "allowedStages": ["drafting", "draft-review"],
+        "allowedOutputs": ["stories/{story}/04-review.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/03-draft.md",
+          "stories/{story}/04-review.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "CREATE_FINAL": {
+        "actor": "story_editor",
+        "persister": "story_editor",
+        "allowedStages": ["draft-review", "final-edit"],
+        "allowedOutputs": [
+          "stories/{story}/05-story.md",
+          "stories/{story}/06-canon-delta.md"
+        ],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/03-draft.md",
+          "stories/{story}/04-review.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED", "NAME_REGISTRATION_REQUIRED"],
+        "requireAllReadyOutputs": true
+      },
+      "REVISE_FINAL": {
+        "actor": "story_editor",
+        "persister": "story_editor",
+        "allowedStages": ["final-edit", "final-review"],
+        "allowedOutputs": [
+          "stories/{story}/05-story.md",
+          "stories/{story}/06-canon-delta.md"
+        ],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/03-draft.md",
+          "stories/{story}/04-review.md",
+          "stories/{story}/05-story.md",
+          "stories/{story}/06-canon-delta.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED", "NAME_REGISTRATION_REQUIRED"],
+        "requireAllReadyOutputs": false
+      },
+      "REVIEW_FINAL": {
+        "actor": "continuity_critic",
+        "persister": "coordinator",
+        "allowedStages": ["final-edit", "final-review"],
+        "allowedOutputs": ["stories/{story}/04-review.md"],
+        "requiredInputs": [
+          "stories/{story}/00-prompt.md",
+          "stories/{story}/story.json",
+          "stories/{story}/01-canon-brief.md",
+          "stories/{story}/02-story-plan.md",
+          "stories/{story}/03-draft.md",
+          "stories/{story}/04-review.md",
+          "stories/{story}/05-story.md",
+          "stories/{story}/06-canon-delta.md",
+          "stories/{story}/authority.json",
+          "stories/{story}/handoffs.json",
+          "stories/NAMES.md"
+        ],
+        "statuses": ["READY", "HANDOFF_ERROR", "USER_RULING_REQUIRED"],
+        "requireAllReadyOutputs": true
+      }
+    },
+    "releaseFamilies": [
+      ["RESEARCH_CANON"],
+      ["CREATE_PLAN", "REVISE_PLAN"],
+      ["CREATE_DRAFT", "REVISE_DRAFT"],
+      ["REVIEW_DRAFT"],
+      ["CREATE_FINAL", "REVISE_FINAL"],
+      ["REVIEW_FINAL"]
+    ]
+  },
+  "promotion": {
+    "schemaVersion": 1,
+    "states": ["not-prepared", "ready", "completed"],
+    "schemaPath": ".agents/skills/canon-maintenance/schemas/promotion.schema.json"
+  },
+  "sourceManifest": {
+    "schemaVersion": 2,
+    "externalRecordFields": [
+      "recordId",
+      "workTitle",
+      "reviewedForm",
+      "logicalLocator",
+      "authority",
+      "verificationStatus",
+      "version",
+      "sha256",
+      "accessRequirements"
+    ],
+    "verificationStatuses": ["verified", "descriptive-only"]
+  }
+}

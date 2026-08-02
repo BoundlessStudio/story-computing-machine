@@ -9,6 +9,7 @@ import html
 import json
 import re
 import shutil
+import subprocess
 from dataclasses import dataclass
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -19,58 +20,37 @@ import markdown
 
 REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
 ASSETS_ROOT = Path(__file__).resolve().parent
-STORY_METADATA_FIELDS = {
-    "schemaVersion",
-    "slug",
-    "title",
-    "created",
-    "stage",
-    "status",
-    "canon",
-    "userDisposition",
-    "publish",
-    "promotionDate",
-}
-RELEASE_FIELDS = {
-    "schemaVersion",
-    "certified",
-    "storySlug",
-    "certifiedAt",
-    "artifacts",
-    "review",
-    "nameCheck",
-}
-RELEASE_ARTIFACTS_FIELDS = {"story", "canonDelta"}
-RELEASE_ARTIFACT_FIELDS = {"path", "sha256"}
-RELEASE_REVIEW_FIELDS = {
-    "artifact",
-    "pass",
-    "verdict",
-    "reviewer",
-    "unresolvedCritical",
-    "unresolvedMajor",
-}
-RELEASE_NAME_CHECK_FIELDS = {
-    "story",
-    "passed",
-    "checkedAt",
-    "scopedRegistrySha256",
-}
-ALLOWED_STAGES = {
-    "prompt",
-    "canon-research",
-    "planning",
-    "drafting",
-    "draft-review",
-    "final-edit",
-    "final-review",
-    "candidate",
-    "final",
-    "abandoned",
-}
-ALLOWED_STATUSES = {"in-progress", "candidate", "final", "abandoned"}
-PUBLISHABLE_STATUSES = {"candidate", "final"}
-USER_DISPOSITIONS = {"pending", "accepted", "rejected"}
+
+
+def load_pipeline_contract(path: Path = REPOSITORY_ROOT / "schemas" / "pipeline-contract.json") -> dict[str, Any]:
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeDecodeError, json.JSONDecodeError) as error:
+        raise RuntimeError(f"Cannot load pipeline contract {path}: {error}") from error
+    if not isinstance(value, dict) or value.get("schemaVersion") != 1:
+        raise RuntimeError(f"Unsupported pipeline contract: {path}")
+    return value
+
+
+PIPELINE_CONTRACT = load_pipeline_contract()
+STORY_METADATA_FIELDS = set(PIPELINE_CONTRACT["story"]["fields"])
+RELEASE_FIELDS = set(PIPELINE_CONTRACT["release"]["fields"])
+RELEASE_ARTIFACTS_FIELDS = set(
+    PIPELINE_CONTRACT["release"]["artifactContainerFields"]
+)
+RELEASE_ARTIFACT_FIELDS = set(PIPELINE_CONTRACT["release"]["artifactFields"])
+RELEASE_REVIEW_FIELDS = set(PIPELINE_CONTRACT["release"]["reviewFields"])
+RELEASE_NAME_CHECK_FIELDS = set(PIPELINE_CONTRACT["release"]["nameCheckFields"])
+RELEASE_PROVENANCE_FIELDS = set(
+    PIPELINE_CONTRACT["release"]["provenanceFields"]
+)
+ALLOWED_STAGES = set(PIPELINE_CONTRACT["story"]["stages"])
+ALLOWED_STATUSES = set(PIPELINE_CONTRACT["story"]["statuses"])
+LIFECYCLE_STATES = PIPELINE_CONTRACT["lifecycle"]["states"]
+PUBLISHABLE_STATUSES = set(
+    PIPELINE_CONTRACT["lifecycle"]["publishableStatuses"]
+)
+USER_DISPOSITIONS = set(PIPELINE_CONTRACT["story"]["userDispositions"])
 PLACEHOLDER_TEXT = "No reader-facing final story yet."
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DIGEST_PATTERN = re.compile(r"^[0-9a-f]{64}$")
@@ -187,9 +167,9 @@ def require_exact_fields(
         raise ValueError(f"{path}: invalid {context} fields ({'; '.join(details)})")
 
 
-def require_schema_version(value: object, path: Path) -> None:
-    if type(value) is not int or value != 1:
-        raise ValueError(f"{path}: schemaVersion must be 1")
+def require_schema_version(value: object, path: Path, expected: int = 1) -> None:
+    if type(value) is not int or value != expected:
+        raise ValueError(f"{path}: schemaVersion must be {expected}")
 
 
 def require_nonempty_text(value: object, path: Path, field: str) -> str:
@@ -240,6 +220,44 @@ def sha256_file(path: Path) -> str:
         raise ValueError(f"Cannot read {path}: {error}") from error
 
 
+def validate_repository_integrity(repository_root: Path) -> None:
+    validator = (
+        repository_root
+        / ".agents"
+        / "skills"
+        / "story-integrity"
+        / "scripts"
+        / "Test-StoryIntegrity.ps1"
+    )
+    if not validator.is_file():
+        raise ValueError(
+            f"{validator}: canonical repository validator is required for publication"
+        )
+    executable = shutil.which("pwsh")
+    if executable is None:
+        raise ValueError("PowerShell 7 (pwsh) is required for publication validation")
+    completed = subprocess.run(
+        [
+            executable,
+            "-NoLogo",
+            "-NoProfile",
+            "-File",
+            str(validator),
+            "-OutputFormat",
+            "Json",
+            "-ProjectRoot",
+            str(repository_root),
+        ],
+        check=False,
+        capture_output=True,
+        text=True,
+        timeout=180,
+    )
+    if completed.returncode != 0:
+        details = (completed.stdout + "\n" + completed.stderr).strip()
+        raise ValueError(f"Repository integrity validation failed:\n{details}")
+
+
 def load_story_metadata(story_directory: Path) -> StoryMetadata:
     metadata_file = story_directory / "story.json"
     if not metadata_file.is_file():
@@ -281,40 +299,25 @@ def load_story_metadata(story_directory: Path) -> StoryMetadata:
             promotion_date_value, metadata_file, "promotionDate"
         )
 
-    if status == "in-progress":
-        if (
-            stage in {"candidate", "final", "abandoned"}
-            or canon
-            or user_disposition != "pending"
-            or publish
-            or promotion_date is not None
-        ):
-            raise ValueError(f"{metadata_file}: invalid in-progress lifecycle state")
-    elif status == "candidate":
-        if (
-            stage != "candidate"
-            or canon
-            or user_disposition not in {"pending", "accepted"}
-            or promotion_date is not None
-        ):
-            raise ValueError(f"{metadata_file}: invalid candidate lifecycle state")
-    elif status == "final":
-        if (
-            stage != "final"
-            or not canon
-            or user_disposition != "accepted"
-            or promotion_date is None
-        ):
-            raise ValueError(f"{metadata_file}: invalid final lifecycle state")
-    elif status == "abandoned":
-        if (
-            stage != "abandoned"
-            or canon
-            or user_disposition != "rejected"
-            or publish
-            or promotion_date is not None
-        ):
-            raise ValueError(f"{metadata_file}: invalid abandoned lifecycle state")
+    lifecycle = LIFECYCLE_STATES.get(status)
+    if not isinstance(lifecycle, dict):
+        raise ValueError(f"{metadata_file}: lifecycle contract lacks {status!r}")
+    promotion_rule = lifecycle.get("promotionDate")
+    promotion_valid = (
+        promotion_date is None
+        if promotion_rule == "null"
+        else promotion_date is not None
+        if promotion_rule == "required"
+        else False
+    )
+    if (
+        stage not in lifecycle.get("stages", [])
+        or canon is not lifecycle.get("canon")
+        or user_disposition not in lifecycle.get("userDispositions", [])
+        or publish not in lifecycle.get("publish", [])
+        or not promotion_valid
+    ):
+        raise ValueError(f"{metadata_file}: invalid {status} lifecycle state")
 
     if publish and status not in PUBLISHABLE_STATUSES:
         raise ValueError(
@@ -359,7 +362,7 @@ def load_final_artifact(metadata: StoryMetadata) -> tuple[str, int]:
     return body, len(WORD_PATTERN.findall(prose))
 
 
-def load_review_certification(metadata: StoryMetadata) -> dict[str, str]:
+def load_review_contract(metadata: StoryMetadata) -> tuple[dict[str, str], list[dict[str, Any]], str]:
     review_file = metadata.directory / "04-review.md"
     if not review_file.is_file():
         raise ValueError(
@@ -369,16 +372,18 @@ def load_review_certification(metadata: StoryMetadata) -> dict[str, str]:
         review_content = review_file.read_text(encoding="utf-8")
     except (OSError, UnicodeDecodeError) as error:
         raise ValueError(f"Cannot read {review_file}: {error}") from error
-    section_match = re.search(
+    section_matches = list(re.finditer(
         r"(?ms)^## Current certification\s*\n(.*?)(?=^##\s+|\Z)",
         review_content,
-    )
-    if not section_match:
-        raise ValueError(f"{review_file}: missing Current certification section")
+    ))
+    if len(section_matches) != 1:
+        raise ValueError(
+            f"{review_file}: expected exactly one Current certification section"
+        )
 
     certification: dict[str, str] = {}
     for match in re.finditer(
-        r"(?m)^-\s+([^:]+):\s*(.+?)\s*$", section_match.group(1)
+        r"(?m)^-\s+([^:]+):\s*(.+?)\s*$", section_matches[0].group(1)
     ):
         label = match.group(1).strip()
         if label in certification:
@@ -396,60 +401,229 @@ def load_review_certification(metadata: StoryMetadata) -> dict[str, str]:
         "Reviewer",
         "Unresolved Critical findings",
         "Unresolved Major findings",
+        "Updated",
     }
-    missing = required - certification.keys()
-    if missing:
+    if set(certification) != required:
         raise ValueError(
-            f"{review_file}: Current certification missing "
-            f"{', '.join(sorted(missing))}"
+            f"{review_file}: Current certification field set is not exact"
         )
-    return certification
+
+    history_matches = list(re.finditer(
+        r"(?ms)^## Review passes\s*\n(.*?)(?=^##\s+|\Z)", review_content
+    ))
+    if len(history_matches) != 1:
+        raise ValueError(f"{review_file}: expected exactly one Review passes section")
+    history = history_matches[0].group(1).replace("\r\n", "\n").replace("\r", "\n")
+    all_headings = list(re.finditer(r"(?m)^###\s+[^\n]+$", history))
+    headings = list(re.finditer(
+        r"(?m)^### Pass (?P<pass>[1-9]\d*) — (?P<title>[^\n]+?)\s*$", history
+    ))
+    if len(all_headings) != len(headings) or not headings:
+        raise ValueError(f"{review_file}: malformed review pass headings")
+
+    field_order = list(PIPELINE_CONTRACT["reviewPass"]["fields"])
+    passes: list[dict[str, Any]] = []
+    canonical_blocks: list[str] = []
+    for index, heading in enumerate(headings, start=1):
+        pass_number = int(heading.group("pass"))
+        if pass_number != index:
+            raise ValueError(
+                f"{review_file}: review passes must be contiguous from 1"
+            )
+        segment_start = heading.end()
+        segment_end = headings[index].start() if index < len(headings) else len(history)
+        segment = history[segment_start:segment_end]
+        payload_matches = list(re.finditer(
+            r"(?ms)^REVIEW_PASS_PAYLOAD[ \t]*\n(?P<body>.*?)"
+            r"^END_REVIEW_PASS_PAYLOAD[ \t]*(?:\n|\Z)",
+            segment,
+        ))
+        if len(payload_matches) != 1:
+            raise ValueError(
+                f"{review_file}: pass {pass_number} needs one bounded payload"
+            )
+        body = payload_matches[0].group("body").strip("\n")
+        raw_fields: list[tuple[str, list[str]]] = []
+        for line in body.split("\n"):
+            field_match = re.match(r"^([A-Za-z][A-Za-z0-9]*):[ \t]*(.*)$", line)
+            if field_match:
+                raw_fields.append((field_match.group(1), [field_match.group(2)]))
+            elif raw_fields:
+                raw_fields[-1][1].append(line)
+            elif line.strip():
+                raise ValueError(
+                    f"{review_file}: pass {pass_number} has content before fields"
+                )
+        if [name for name, _ in raw_fields] != field_order:
+            raise ValueError(
+                f"{review_file}: pass {pass_number} payload field order is not exact"
+            )
+        fields = {
+            name: "\n".join(lines).strip() for name, lines in raw_fields
+        }
+        if fields["story"] != metadata.slug or fields["pass"] != str(pass_number):
+            raise ValueError(f"{review_file}: pass {pass_number} identity mismatch")
+        expected_artifact = {
+            "REVIEW_DRAFT": "03-draft.md",
+            "REVIEW_FINAL": "05-story.md",
+        }.get(fields["mode"])
+        if expected_artifact is None or fields["reviewedArtifact"] != expected_artifact:
+            raise ValueError(f"{review_file}: pass {pass_number} mode is invalid")
+        if fields["status"] not in {"READY", "USER_RULING_REQUIRED"}:
+            raise ValueError(f"{review_file}: pass {pass_number} status is invalid")
+        if fields["reviewedArtifact"] not in {"03-draft.md", "05-story.md"}:
+            raise ValueError(f"{review_file}: pass {pass_number} artifact is invalid")
+        require_digest(
+            fields["artifactSha256"], review_file, f"pass {pass_number} artifactSha256"
+        )
+        if fields["reviewedArtifact"] == "03-draft.md":
+            if fields["canonDeltaSha256"] != "not-applicable":
+                raise ValueError(
+                    f"{review_file}: draft pass {pass_number} has a canon-delta hash"
+                )
+        else:
+            require_digest(
+                fields["canonDeltaSha256"],
+                review_file,
+                f"pass {pass_number} canonDeltaSha256",
+            )
+        for field in (
+            "canonBriefSha256",
+            "planSha256",
+            "scopedRegistrySha256",
+            "authorityManifestSha256",
+            "handoffLedgerSha256",
+            "handoffLedgerChainHead",
+        ):
+            require_digest(fields[field], review_file, f"pass {pass_number} {field}")
+        if fields["authorityManifest"] != f"stories/{metadata.slug}/authority.json":
+            raise ValueError(
+                f"{review_file}: pass {pass_number} authority path is invalid"
+            )
+        if fields["handoffLedger"] != f"stories/{metadata.slug}/handoffs.json":
+            raise ValueError(
+                f"{review_file}: pass {pass_number} ledger path is invalid"
+            )
+        if fields["reviewer"] != "continuity_critic":
+            raise ValueError(f"{review_file}: pass {pass_number} reviewer is invalid")
+        if fields["errorCode"] != "none":
+            raise ValueError(f"{review_file}: pass {pass_number} errorCode is invalid")
+        require_utc_timestamp(
+            fields["reviewedAt"], review_file, f"pass {pass_number} reviewedAt"
+        )
+        count_match = re.fullmatch(
+            r"\{\s*critical:\s*(\d+),\s*major:\s*(\d+),\s*minor:\s*(\d+)\s*\}",
+            fields["unresolvedCounts"],
+        )
+        if not count_match:
+            raise ValueError(f"{review_file}: pass {pass_number} counts are invalid")
+        counts = tuple(int(value) for value in count_match.groups())
+        if fields["verdict"] not in {"PASS", "REVISE", "BLOCK"}:
+            raise ValueError(f"{review_file}: pass {pass_number} verdict is invalid")
+        if fields["certificationEligible"] not in {"true", "false"}:
+            raise ValueError(
+                f"{review_file}: pass {pass_number} eligibility is invalid"
+            )
+        if fields["changeReport"] != "read-only; no files changed":
+            raise ValueError(
+                f"{review_file}: pass {pass_number} change report is invalid"
+            )
+        if fields["verdict"] == "PASS" and (
+            counts[0] != 0
+            or counts[1] != 0
+            or fields["certificationEligible"] != "true"
+            or fields["blockType"] != "NONE"
+            or fields["status"] != "READY"
+            or fields["resolutionOwner"] != "coordinator"
+            or fields["resolutionQuestion"] != "none"
+        ):
+            raise ValueError(f"{review_file}: pass {pass_number} PASS is inconsistent")
+        canonical = f"REVIEW_PASS_PAYLOAD\n{body}\nEND_REVIEW_PASS_PAYLOAD\n"
+        pass_digest = hashlib.sha256(canonical.encode("utf-8")).hexdigest()
+        fields.update(
+            passNumber=pass_number,
+            unresolvedCritical=counts[0],
+            unresolvedMajor=counts[1],
+            passSha256=pass_digest,
+        )
+        passes.append(fields)
+        canonical_blocks.append(canonical)
+
+    latest = passes[-1]
+    expected_current: dict[str, object] = {
+        "Reviewed artifact": latest["reviewedArtifact"],
+        "Artifact SHA-256": latest["artifactSha256"],
+        "Canon delta SHA-256": latest["canonDeltaSha256"],
+        "Review pass": latest["passNumber"],
+        "Verdict": latest["verdict"],
+        "Reviewer": latest["reviewer"],
+        "Unresolved Critical findings": latest["unresolvedCritical"],
+        "Unresolved Major findings": latest["unresolvedMajor"],
+        "Updated": latest["reviewedAt"],
+    }
+    for field, expected_value in expected_current.items():
+        actual: object = certification[field]
+        if isinstance(expected_value, int):
+            if not str(actual).isdigit():
+                raise ValueError(f"{review_file}: {field} must be an integer")
+            actual = int(str(actual))
+        if actual != expected_value:
+            raise ValueError(
+                f"{review_file}: Current certification {field} does not match latest pass"
+            )
+    history_digest = hashlib.sha256(
+        ("REVIEW_HISTORY_V1\n" + "".join(canonical_blocks)).encode("utf-8")
+    ).hexdigest()
+    return certification, passes, history_digest
 
 
 def require_review_binding(
     metadata: StoryMetadata, release: dict[str, Any]
 ) -> None:
     review_file = metadata.directory / "04-review.md"
-    certification = load_review_certification(metadata)
-    reviewed_artifact = certification["Reviewed artifact"].replace("\\", "/")
-    if reviewed_artifact != "05-story.md" and not reviewed_artifact.endswith(
-        f"/{metadata.slug}/05-story.md"
-    ):
-        raise ValueError(
-            f"{review_file}: Current certification does not bind 05-story.md"
-        )
-
-    pass_match = re.fullmatch(r"(\d+)(?:\s.*)?", certification["Review pass"])
-    if not pass_match:
-        raise ValueError(f"{review_file}: Current certification pass is invalid")
-    expected = {
-        "Artifact SHA-256": release["artifacts"]["story"]["sha256"],
-        "Canon delta SHA-256": release["artifacts"]["canonDelta"]["sha256"],
-        "Review pass": release["review"]["pass"],
-        "Verdict": release["review"]["verdict"],
-        "Reviewer": release["review"]["reviewer"],
-        "Unresolved Critical findings": release["review"]["unresolvedCritical"],
-        "Unresolved Major findings": release["review"]["unresolvedMajor"],
+    _, passes, history_digest = load_review_contract(metadata)
+    latest = passes[-1]
+    review = release["review"]
+    expected_latest = {
+        "mode": "REVIEW_FINAL",
+        "reviewedArtifact": "05-story.md",
+        "artifactSha256": release["artifacts"]["story"]["sha256"],
+        "canonDeltaSha256": release["artifacts"]["canonDelta"]["sha256"],
+        "passNumber": review["pass"],
+        "verdict": "PASS",
+        "reviewer": review["reviewer"],
+        "unresolvedCritical": 0,
+        "unresolvedMajor": 0,
+        "passSha256": review["passSha256"],
+        "reviewedAt": review["reviewedAt"],
+        "canonBriefSha256": release["provenance"]["canonBriefSha256"],
+        "planSha256": release["provenance"]["planSha256"],
+        "authorityManifestSha256": release["provenance"]["authorityManifestSha256"],
+        "scopedRegistrySha256": release["nameCheck"]["scopedRegistrySha256"],
     }
-    actual_pass = int(pass_match.group(1))
-    for field, expected_value in expected.items():
-        actual_value: object = certification[field]
-        if field == "Review pass":
-            actual_value = actual_pass
-        elif field in {
-            "Unresolved Critical findings",
-            "Unresolved Major findings",
-        }:
-            if not certification[field].isdigit():
-                raise ValueError(
-                    f"{review_file}: Current certification {field} must be an integer"
-                )
-            actual_value = int(certification[field])
-        if actual_value != expected_value:
+    for field, expected_value in expected_latest.items():
+        if latest[field] != expected_value:
             raise ValueError(
-                f"{review_file}: Current certification {field} "
-                "does not match release.json"
+                f"{review_file}: latest review pass {field} does not match release.json"
             )
+    if history_digest != review["historySha256"]:
+        raise ValueError(f"{review_file}: review history digest does not match release.json")
+    draft_matches = [
+        item
+        for item in passes[:-1]
+        if item["passNumber"] == review["draftPass"]
+        and item["mode"] == "REVIEW_DRAFT"
+        and item["reviewedArtifact"] == "03-draft.md"
+        and item["verdict"] == "PASS"
+        and item["artifactSha256"] == sha256_file(metadata.directory / "03-draft.md")
+        and item["passSha256"] == review["draftPassSha256"]
+        and item["canonBriefSha256"] == release["provenance"]["canonBriefSha256"]
+        and item["planSha256"] == release["provenance"]["planSha256"]
+        and item["authorityManifestSha256"]
+        == release["provenance"]["authorityManifestSha256"]
+    ]
+    if len(draft_matches) != 1:
+        raise ValueError(f"{review_file}: bound draft PASS is missing or stale")
 
 
 def require_release(metadata: StoryMetadata) -> None:
@@ -460,7 +634,11 @@ def require_release(metadata: StoryMetadata) -> None:
         )
     value = read_json_object(release_file)
     require_exact_fields(value, RELEASE_FIELDS, release_file, "release")
-    require_schema_version(value["schemaVersion"], release_file)
+    require_schema_version(
+        value["schemaVersion"],
+        release_file,
+        int(PIPELINE_CONTRACT["release"]["schemaVersion"]),
+    )
     if value["certified"] is not True:
         raise ValueError(f"{release_file}: published prose must be certified")
     if value["storySlug"] != metadata.slug:
@@ -510,12 +688,23 @@ def require_release(metadata: StoryMetadata) -> None:
         raise ValueError(f"{release_file}: review.artifact must be '05-story.md'")
     if type(review["pass"]) is not int or review["pass"] < 1:
         raise ValueError(f"{release_file}: review.pass must be a positive integer")
+    if (
+        type(review["draftPass"]) is not int
+        or review["draftPass"] < 1
+        or review["draftPass"] >= review["pass"]
+    ):
+        raise ValueError(
+            f"{release_file}: review.draftPass must precede review.pass"
+        )
     if review["verdict"] != "PASS":
         raise ValueError(f"{release_file}: review.verdict must be 'PASS'")
     require_nonempty_text(review["reviewer"], release_file, "review.reviewer")
     for field in ("unresolvedCritical", "unresolvedMajor"):
         if type(review[field]) is not int or review[field] != 0:
             raise ValueError(f"{release_file}: review.{field} must be 0")
+    for field in ("passSha256", "historySha256", "draftPassSha256"):
+        require_digest(review[field], release_file, f"review.{field}")
+    require_utc_timestamp(review["reviewedAt"], release_file, "review.reviewedAt")
 
     name_check = value["nameCheck"]
     if not isinstance(name_check, dict):
@@ -525,16 +714,55 @@ def require_release(metadata: StoryMetadata) -> None:
     )
     if name_check["story"] != metadata.slug:
         raise ValueError(f"{release_file}: nameCheck.story must be {metadata.slug!r}")
+    if name_check["phase"] != "Final":
+        raise ValueError(f"{release_file}: nameCheck.phase must be 'Final'")
     if name_check["passed"] is not True:
         raise ValueError(f"{release_file}: nameCheck.passed must be true")
     require_utc_timestamp(
         name_check["checkedAt"], release_file, "nameCheck.checkedAt"
     )
-    require_digest(
-        name_check["scopedRegistrySha256"],
-        release_file,
-        "nameCheck.scopedRegistrySha256",
+    for field in (
+        "receiptId",
+        "storySha256",
+        "canonDeltaSha256",
+        "scopedRegistrySha256",
+        "activeRegistrySha256",
+    ):
+        require_digest(name_check[field], release_file, f"nameCheck.{field}")
+    if name_check["storySha256"] != value["artifacts"]["story"]["sha256"]:
+        raise ValueError(f"{release_file}: nameCheck.storySha256 is stale")
+    if name_check["canonDeltaSha256"] != value["artifacts"]["canonDelta"]["sha256"]:
+        raise ValueError(f"{release_file}: nameCheck.canonDeltaSha256 is stale")
+    if name_check["checkerVersion"] != "story-names/2":
+        raise ValueError(
+            f"{release_file}: nameCheck.checkerVersion must be 'story-names/2'"
+        )
+    if not isinstance(name_check["warnings"], list) or any(
+        not isinstance(item, str) for item in name_check["warnings"]
+    ):
+        raise ValueError(f"{release_file}: nameCheck.warnings must be a string array")
+
+    provenance = value["provenance"]
+    if not isinstance(provenance, dict):
+        raise ValueError(f"{release_file}: provenance must be an object")
+    require_exact_fields(
+        provenance, RELEASE_PROVENANCE_FIELDS, release_file, "provenance"
     )
+    provenance_paths = {
+        "promptSha256": "00-prompt.md",
+        "canonBriefSha256": "01-canon-brief.md",
+        "planSha256": "02-story-plan.md",
+        "draftSha256": "03-draft.md",
+        "authorityManifestSha256": "authority.json",
+        "handoffLedgerSha256": "handoffs.json",
+    }
+    for field, artifact_name in provenance_paths.items():
+        expected = require_digest(provenance[field], release_file, f"provenance.{field}")
+        actual = sha256_file(metadata.directory / artifact_name)
+        if actual != expected:
+            raise ValueError(
+                f"{release_file}: provenance for {artifact_name} is stale"
+            )
     require_review_binding(metadata, value)
 
 
@@ -713,8 +941,12 @@ def build(
     output: Path,
     repository_root: Path = REPOSITORY_ROOT,
     assets_root: Path = ASSETS_ROOT,
+    *,
+    require_integrity_validator: bool = True,
 ) -> Catalog:
     repository_root = repository_root.resolve()
+    if require_integrity_validator:
+        validate_repository_integrity(repository_root)
     catalog = load_catalog(repository_root)
     output = prepare_output(output, repository_root)
 

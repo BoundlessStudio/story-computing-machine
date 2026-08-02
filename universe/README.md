@@ -1,7 +1,9 @@
 # Shared-universe notes
 
-This directory is the setting's authoritative reference. Only entries carrying
-the statuses defined below establish setting or production facts.
+This directory is the setting's authoritative reference. Only current entries
+marked `LOCKED` or `CANON`, plus release-valid promoted stories whose
+`story.json` and checked index row agree, establish current setting facts.
+`PROVISIONAL` is nonbinding design guidance and `RETIRED` is history only.
 
 ## Authority order
 
@@ -9,7 +11,9 @@ When sources disagree, use this order:
 
 1. Entries marked `LOCKED` in this directory.
 2. Entries marked `CANON` in this directory.
-3. Final stories whose row in `stories/INDEX.md` says canon `yes`.
+3. Release-valid final stories whose `story.json` says `status: final` and
+   `canon: true`, and whose checked `stories/INDEX.md` row agrees. `story.json`
+   is the machine authority; the index is a validated projection.
 4. Entries marked `PROVISIONAL`, which are guidance but may change.
 5. All other materials, including decisions, open questions, story plans,
    drafts, reviews, and canon deltas, which are not canon unless promoted into
@@ -34,7 +38,8 @@ Use this shape in the topical files:
 
 `LOCKED` means stories may not contradict the entry without an explicit user
 retcon. `CANON` is established but can be deliberately expanded. `PROVISIONAL`
-is a design direction. `RETIRED` is retained only for historical traceability.
+is a nonbinding design direction and does not establish a fact. `RETIRED` is
+retained only for historical traceability and is not current authority.
 
 ## Files
 

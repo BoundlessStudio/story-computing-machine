@@ -10,6 +10,8 @@ $NameScript = Join-Path $RepoRoot '.agents/skills/story-name-validation/scripts/
 $ReleaseScript = Join-Path $RepoRoot '.agents/skills/story-integrity/scripts/New-StoryRelease.ps1'
 $IntegrityScript = Join-Path $RepoRoot '.agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1'
 $PromotionScript = Join-Path $RepoRoot '.agents/skills/canon-maintenance/scripts/Complete-CanonPromotion.ps1'
+$PromotionContracts = Join-Path $RepoRoot '.agents/skills/story-integrity/scripts/PromotionContracts.ps1'
+. $PromotionContracts
 $Pwsh = (Get-Command pwsh -ErrorAction Stop).Source
 $TestRoot = Join-Path ([IO.Path]::GetTempPath()) (
     'story-integrity-tests-' + [guid]::NewGuid().ToString('N')
@@ -69,6 +71,380 @@ function Assert-FileBytesEqual {
     ) "$Context bytes changed."
 }
 
+function Get-TextSha256 {
+    param([Parameter(Mandatory = $true)][AllowEmptyString()][string]$Text)
+
+    $Bytes = [Text.UTF8Encoding]::new($false).GetBytes($Text)
+    return [Convert]::ToHexString(
+        [Security.Cryptography.SHA256]::HashData($Bytes)
+    ).ToLowerInvariant()
+}
+
+function Get-FileSha256 {
+    param([Parameter(Mandatory = $true)][string]$Path)
+
+    return (Get-FileHash -LiteralPath $Path -Algorithm SHA256).Hash.ToLowerInvariant()
+}
+
+function Get-HandoffEntrySha256 {
+    param([Parameter(Mandatory = $true)][object]$Entry)
+
+    $Canonical = [ordered]@{}
+    foreach ($Property in $Entry.PSObject.Properties) {
+        if ($Property.Name -cne 'entrySha256') {
+            $Canonical[$Property.Name] = $Property.Value
+        }
+    }
+    $Json = ($Canonical | ConvertTo-Json -Depth 10 -Compress).
+        Replace("`r`n", "`n").Replace("`r", "`n")
+    return Get-TextSha256 $Json
+}
+
+function Get-HandoffLedgerSnapshotSha256 {
+    param(
+        [Parameter(Mandatory = $true)][string]$Story,
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$Entries,
+        [Parameter(Mandatory = $true)][AllowNull()][object]$ChainHead
+    )
+
+    $Ledger = [ordered]@{
+        schemaVersion = 2
+        storySlug = $Story
+        chainHead = $ChainHead
+        entries = @($Entries)
+    }
+    $Json = ($Ledger | ConvertTo-Json -Depth 16).
+        Replace("`r`n", "`n").Replace("`r", "`n") + "`n"
+    return Get-TextSha256 $Json
+}
+
+function New-HandoffEntry {
+    param(
+        [Parameter(Mandatory = $true)][int]$Sequence,
+        [Parameter(Mandatory = $true)][string]$Story,
+        [Parameter(Mandatory = $true)][string]$Actor,
+        [Parameter(Mandatory = $true)][string]$Mode,
+        [Parameter(Mandatory = $true)][string]$Report,
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$Inputs,
+        [Parameter(Mandatory = $true)][AllowEmptyCollection()][object[]]$Outputs,
+        [Parameter(Mandatory = $true)][AllowNull()][object]$PreviousEntrySha256
+    )
+
+    if ($Mode -notin @('REVIEW_DRAFT', 'REVIEW_FINAL')) {
+        $InputMap = @{}; foreach ($Input in $Inputs) { $InputMap[[string]$Input.path] = $Input }
+        $OutputMap = @{}; foreach ($Output in $Outputs) { $OutputMap[[string]$Output.path] = $Output }
+        $Prefix = "stories/$Story"
+        $Persister = if ($Actor -ceq 'canon_librarian') { 'coordinator' } else { $Actor }
+        $Lines = [Collections.Generic.List[string]]::new()
+        foreach ($Line in @(
+            'HANDOFF_REPORT', "story: $Story", "mode: $Mode", 'status: READY',
+            "resolutionOwner: $Persister", 'errorCode: none', 'resolutionQuestion: none',
+            "handoffLedger: $Prefix/handoffs.json",
+            "handoffLedgerSha256: $($InputMap["$Prefix/handoffs.json"].sha256)"
+        )) { $Lines.Add($Line) }
+        switch ($Mode) {
+            'RESEARCH_CANON' {
+                $Lines.Add("handoffLedgerChainHead: $(if ($null -eq $PreviousEntrySha256) { 'none' } else { $PreviousEntrySha256 })")
+                $Lines.Add("sourcePromptSha256: $($InputMap["$Prefix/00-prompt.md"].sha256)")
+                $Lines.Add("authorityManifestSha256: $($InputMap["$Prefix/authority.json"].sha256)")
+                $Lines.Add('BEGIN_FILE_CONTENT')
+                foreach ($Line in @($Report.Replace("`r`n", "`n").Replace("`r", "`n").TrimEnd("`n") -split "`n")) { $Lines.Add($Line) }
+                $Lines.Add('END_FILE_CONTENT')
+            }
+            'CREATE_PLAN' {
+                $Output = $OutputMap["$Prefix/02-story-plan.md"]
+                $Lines.Add("inputPromptSha256: $($InputMap["$Prefix/00-prompt.md"].sha256)")
+                $Lines.Add("inputCanonBriefSha256: $($InputMap["$Prefix/01-canon-brief.md"].sha256)")
+                $Lines.Add("beforePlanSha256: $($Output.beforeSha256)")
+                $Lines.Add("planScaffoldSha256: $($Output.beforeSha256)")
+                $Lines.Add("newPlanSha256: $($Output.afterSha256)")
+            }
+            'CREATE_DRAFT' {
+                $Output = $OutputMap["$Prefix/03-draft.md"]
+                $Lines.Add("beforeDraftSha256: $($Output.beforeSha256)")
+                $Lines.Add("draftScaffoldSha256: $($Output.beforeSha256)")
+                $Lines.Add("newDraftSha256: $($Output.afterSha256)")
+            }
+            'CREATE_FINAL' {
+                $StoryOutput = $OutputMap["$Prefix/05-story.md"]
+                $DeltaOutput = $OutputMap["$Prefix/06-canon-delta.md"]
+                $Lines.Add("inputPlanSha256: $($InputMap["$Prefix/02-story-plan.md"].sha256)")
+                $Lines.Add("inputDraftSha256: $($InputMap["$Prefix/03-draft.md"].sha256)")
+                $Lines.Add("beforeStorySha256: $($StoryOutput.beforeSha256)")
+                $Lines.Add("beforeCanonDeltaSha256: $($DeltaOutput.beforeSha256)")
+                $Lines.Add("storyScaffoldSha256: $($StoryOutput.beforeSha256)")
+                $Lines.Add("canonDeltaScaffoldSha256: $($DeltaOutput.beforeSha256)")
+                $Lines.Add("newStorySha256: $($StoryOutput.afterSha256)")
+                $Lines.Add("newCanonDeltaSha256: $($DeltaOutput.afterSha256)")
+            }
+        }
+        $Report = ($Lines -join "`n") + "`n"
+    }
+    $NormalizedReport = $Report.Replace("`r`n", "`n").Replace("`r", "`n")
+    $Entry = [pscustomobject][ordered]@{
+        sequence = $Sequence
+        story = $Story
+        actor = $Actor
+        mode = $Mode
+        status = 'READY'
+        recordedAt = ('2026-08-01T12:{0:D2}:00.0000000+00:00' -f $Sequence)
+        guardId = ('{0:x32}' -f $Sequence)
+        persister = if ($Actor -in @('continuity_critic', 'canon_librarian')) {
+            'coordinator'
+        }
+        else { $Actor }
+        report = $NormalizedReport
+        reportSha256 = Get-TextSha256 $NormalizedReport
+        inputs = @($Inputs)
+        outputs = @($Outputs)
+        previousEntrySha256 = $PreviousEntrySha256
+        entrySha256 = $null
+    }
+    $Entry.entrySha256 = Get-HandoffEntrySha256 $Entry
+    return $Entry
+}
+
+function New-HandoffInput {
+    param(
+        [Parameter(Mandatory = $true)][string]$Path,
+        [Parameter(Mandatory = $true)][string]$Sha256
+    )
+
+    return [pscustomobject][ordered]@{ path = $Path; sha256 = $Sha256 }
+}
+
+function New-HandoffOutput {
+    param(
+        [Parameter(Mandatory = $true)][string]$Path,
+        [AllowNull()][object]$BeforeSha256,
+        [Parameter(Mandatory = $true)][string]$AfterSha256
+    )
+
+    return [pscustomobject][ordered]@{
+        path = $Path
+        beforeSha256 = $BeforeSha256
+        afterSha256 = $AfterSha256
+    }
+}
+
+function New-ReviewPassPayload {
+    param(
+        [Parameter(Mandatory = $true)][string]$Story,
+        [Parameter(Mandatory = $true)][int]$Pass,
+        [Parameter(Mandatory = $true)][ValidateSet('REVIEW_DRAFT', 'REVIEW_FINAL')][string]$Mode,
+        [Parameter(Mandatory = $true)][string]$ArtifactSha256,
+        [Parameter(Mandatory = $true)][string]$CanonDeltaSha256,
+        [Parameter(Mandatory = $true)][string]$CanonBriefSha256,
+        [Parameter(Mandatory = $true)][string]$PlanSha256,
+        [Parameter(Mandatory = $true)][string]$ScopedRegistrySha256,
+        [Parameter(Mandatory = $true)][string]$AuthorityManifestSha256,
+        [Parameter(Mandatory = $true)][string]$HandoffLedgerSha256,
+        [Parameter(Mandatory = $true)][string]$HandoffLedgerChainHead
+    )
+
+    $Artifact = if ($Mode -ceq 'REVIEW_DRAFT') { '03-draft.md' } else { '05-story.md' }
+    $ReviewedAt = if ($Mode -ceq 'REVIEW_DRAFT') {
+        '2026-08-01T12:04:00Z'
+    }
+    else { '2026-08-01T12:06:00Z' }
+    $Fields = @(
+        "story: $Story",
+        "mode: $Mode",
+        'status: READY',
+        "pass: $Pass",
+        "reviewedArtifact: $Artifact",
+        "artifactSha256: $ArtifactSha256",
+        "canonDeltaSha256: $CanonDeltaSha256",
+        "canonBriefSha256: $CanonBriefSha256",
+        "planSha256: $PlanSha256",
+        "scopedRegistrySha256: $ScopedRegistrySha256",
+        "authorityManifest: stories/$Story/authority.json",
+        "authorityManifestSha256: $AuthorityManifestSha256",
+        "handoffLedger: stories/$Story/handoffs.json",
+        "handoffLedgerSha256: $HandoffLedgerSha256",
+        "handoffLedgerChainHead: $HandoffLedgerChainHead",
+        'reviewer: continuity_critic',
+        "reviewedAt: $ReviewedAt",
+        'reviewBasis: fixture current-authority and bounded production snapshot',
+        'verdict: PASS',
+        'blockType: NONE',
+        'resolutionOwner: coordinator',
+        'resolutionQuestion: none',
+        'errorCode: none',
+        'unresolvedCounts: { critical: 0, major: 0, minor: 0 }',
+        'priorFindingDispositions: none',
+        'findings: none',
+        'certificationEligible: true',
+        'changeReport: read-only; no files changed'
+    )
+    $CanonicalPayload = "REVIEW_PASS_PAYLOAD`n$($Fields -join "`n")`nEND_REVIEW_PASS_PAYLOAD`n"
+    return [pscustomobject][ordered]@{
+        Pass = $Pass
+        Mode = $Mode
+        ReviewedArtifact = $Artifact
+        ArtifactSha256 = $ArtifactSha256
+        CanonDeltaSha256 = $CanonDeltaSha256
+        Reviewer = 'continuity_critic'
+        ReviewedAt = $ReviewedAt
+        Verdict = 'PASS'
+        UnresolvedCritical = 0
+        UnresolvedMajor = 0
+        CanonicalPayload = $CanonicalPayload
+    }
+}
+
+function New-ReviewDocument {
+    param(
+        [Parameter(Mandatory = $true)][object[]]$Passes,
+        [Parameter(Mandatory = $true)][object]$Latest
+    )
+
+    $History = @($Passes | ForEach-Object {
+        $Label = if ($_.Mode -ceq 'REVIEW_DRAFT') { 'draft' } else { 'final' }
+        "### Pass $($_.Pass) — $Label`n`n$($_.CanonicalPayload)"
+    }) -join "`n"
+    return @(
+        '# Continuity and story review', '',
+        '## Current certification', '',
+        "- Reviewed artifact: ``$($Latest.ReviewedArtifact)``",
+        "- Artifact SHA-256: $($Latest.ArtifactSha256)",
+        "- Canon delta SHA-256: $($Latest.CanonDeltaSha256)",
+        "- Review pass: $($Latest.Pass)",
+        "- Verdict: $($Latest.Verdict)",
+        "- Reviewer: $($Latest.Reviewer)",
+        "- Unresolved Critical findings: $($Latest.UnresolvedCritical)",
+        "- Unresolved Major findings: $($Latest.UnresolvedMajor)",
+        "- Updated: $($Latest.ReviewedAt)", '',
+        '## Review passes', '', $History
+    ) -join "`n"
+}
+
+function Set-ReadyPromotionFixture {
+    param(
+        [Parameter(Mandatory = $true)][string]$Root,
+        [Parameter(Mandatory = $true)][string]$Slug,
+        [Parameter(Mandatory = $true)][string]$PromotionDate
+    )
+
+    $StoryDirectory = Join-Path $Root "stories/$Slug"
+    $AuthorityPath = Join-Path $StoryDirectory 'authority.json'
+    $AuthorityManifest = Get-Content -LiteralPath $AuthorityPath -Raw | ConvertFrom-Json
+    $Inventory = [Collections.Generic.List[object]]::new()
+    foreach ($File in @(Get-ChildItem -LiteralPath (Join-Path $Root 'universe') `
+        -Recurse -File -Filter '*.md')) {
+        $Relative = [IO.Path]::GetRelativePath($Root, $File.FullName).Replace('\', '/')
+        $Inventory.Add([pscustomobject][ordered]@{
+            path = $Relative
+            sha256 = Get-FileSha256 $File.FullName
+        })
+    }
+    $Inventory.Add([pscustomobject][ordered]@{
+        path = 'stories/INDEX.md'
+        sha256 = Get-FileSha256 (Join-Path $Root 'stories/INDEX.md')
+    })
+    $SortedInventory = @($Inventory)
+    [Array]::Sort($SortedInventory, [Comparison[object]]{
+        param($Left, $Right)
+        return [StringComparer]::Ordinal.Compare($Left.path, $Right.path)
+    })
+    [string[]]$AuthorityLines = @($SortedInventory | ForEach-Object {
+        "$($_.path)`t$($_.sha256)"
+    })
+    $AuthorityInventorySha256 = Get-TextSha256 (
+        ($AuthorityLines -join "`n") + "`n"
+    )
+
+    $ReleaseSha256 = Get-FileSha256 (Join-Path $StoryDirectory 'release.json')
+    $StorySha256 = Get-FileSha256 (Join-Path $StoryDirectory '05-story.md')
+    $DeltaSha256 = Get-FileSha256 (Join-Path $StoryDirectory '06-canon-delta.md')
+    $AuthoritySha256 = Get-FileSha256 $AuthorityPath
+    $Disposition = [ordered]@{
+        id = 'fixture-character'
+        disposition = 'story-local'
+        target = $null
+        rationale = 'Fixture character remains story-local.'
+    }
+    $DispositionSha256 = Get-TextSha256 (
+        "fixture-character`tstory-local`tnone`tFixture character remains story-local.`n"
+    )
+    $AuthorizationReference = 'fixture-user-authorization'
+    $StewardIdentity = 'canon_steward'
+    $StewardResult = 'NO_CANON_CHANGES_AWAITING_PRIMARY'
+    $HandoffText = @(
+        'STEWARDSHIP_HANDOFF',
+        "story: $Slug",
+        "authorization: $AuthorizationReference",
+        "steward: $StewardIdentity",
+        'candidateRelease: VERIFIED',
+        "candidateReleaseSha256: $ReleaseSha256",
+        'authorityRecheck: PASS',
+        "authorityManifestSha256: $AuthoritySha256",
+        'nameCheckReceipt: VERIFIED',
+        "storySha256: $StorySha256",
+        "canonDeltaSha256: $DeltaSha256",
+        "deltaDispositionsSha256: $DispositionSha256",
+        "result: $StewardResult",
+        'retconEvidenceSha256: none',
+        ''
+    ) -join "`n"
+    $Manifest = [ordered]@{
+        schemaVersion = 1
+        state = 'ready'
+        storySlug = $Slug
+        promotionDate = $PromotionDate
+        preparedAt = '2026-08-02T12:00:00Z'
+        preparationSha256 = $null
+        authorization = [ordered]@{
+            approved = $true
+            scope = 'canon-promotion'
+            storySlug = $Slug
+            reference = $AuthorizationReference
+        }
+        stewardship = [ordered]@{
+            identity = $StewardIdentity
+            handoffText = $HandoffText
+            handoffSha256 = Get-TextSha256 $HandoffText
+            candidateRelease = 'VERIFIED'
+            authorityRecheck = 'PASS'
+            nameCheckReceipt = 'VERIFIED'
+            result = $StewardResult
+        }
+        authority = [ordered]@{
+            path = "stories/$Slug/authority.json"
+            sha256 = $AuthoritySha256
+            authoritySetSha256 = [string]$AuthorityManifest.manifestSha256
+            capturedAt = '2026-08-02T12:00:00Z'
+            fileCount = $SortedInventory.Count
+            manifestSha256 = $AuthorityInventorySha256
+            files = $SortedInventory
+        }
+        bundle = [ordered]@{
+            release = [ordered]@{
+                path = "stories/$Slug/release.json"; sha256 = $ReleaseSha256
+            }
+            story = [ordered]@{
+                path = "stories/$Slug/05-story.md"; sha256 = $StorySha256
+            }
+            canonDelta = [ordered]@{
+                path = "stories/$Slug/06-canon-delta.md"; sha256 = $DeltaSha256
+            }
+        }
+        deltaInventory = [ordered]@{
+            sourceArtifactSha256 = $DeltaSha256
+            itemCount = 1
+            dispositionsSha256 = $DispositionSha256
+        }
+        deltaDispositions = @($Disposition)
+        universeChanges = @()
+        retcon = $null
+        completion = $null
+    }
+    $Manifest.preparationSha256 = Get-PromotionPreparationSha256 $Manifest
+    Write-Utf8File (Join-Path $StoryDirectory 'promotion.json') (
+        ($Manifest | ConvertTo-Json -Depth 16) + "`n"
+    )
+}
+
 function Invoke-Test {
     param(
         [Parameter(Mandatory = $true)][string]$Name,
@@ -92,18 +468,44 @@ function New-FixtureRepository {
     $Root = Join-Path $TestRoot $Name
     New-Item -ItemType Directory -Path (Join-Path $Root 'stories') -Force | Out-Null
     Copy-Item -LiteralPath (Join-Path $RepoRoot 'stories/_template') -Destination (Join-Path $Root 'stories/_template') -Recurse
+    New-Item -ItemType Directory -Path (Join-Path $Root 'universe') -Force | Out-Null
+    Write-Utf8File (Join-Path $Root 'universe/README.md') "# Fixture universe`n"
+    foreach ($UniverseFile in @(
+        'premise.md', 'rules.md', 'timeline.md', 'characters.md',
+        'locations.md', 'factions.md', 'glossary.md', 'style-guide.md'
+    )) {
+        Write-Utf8File (Join-Path $Root "universe/$UniverseFile") @"
+# Fixture $UniverseFile
+
+## Fixture entry
+
+- Status: PROVISIONAL
+- Summary: Isolated integrity-test authority entry.
+- First established: fixture setup
+- Aliases: none
+- Notes: Test-only structured universe content.
+"@
+    }
+    Write-Utf8File (Join-Path $Root 'universe/retcons.md') "# Fixture retcons`n"
+    Copy-Item -LiteralPath (Join-Path $RepoRoot 'sources') -Destination (Join-Path $Root 'sources') -Recurse
+    Copy-Item -LiteralPath (Join-Path $RepoRoot 'schemas') -Destination (Join-Path $Root 'schemas') -Recurse
     foreach ($Skill in @('story-room', 'story-name-validation', 'story-integrity')) {
         $TargetParent = Join-Path $Root '.agents/skills'
         New-Item -ItemType Directory -Path $TargetParent -Force | Out-Null
         Copy-Item -LiteralPath (Join-Path $RepoRoot ".agents/skills/$Skill") -Destination (Join-Path $TargetParent $Skill) -Recurse
     }
+    $PromotionSchemaRoot = Join-Path $Root '.agents/skills/canon-maintenance/schemas'
+    New-Item -ItemType Directory -Path $PromotionSchemaRoot -Force | Out-Null
+    Copy-Item -LiteralPath (
+        Join-Path $RepoRoot '.agents/skills/canon-maintenance/schemas/promotion.schema.json'
+    ) -Destination (Join-Path $PromotionSchemaRoot 'promotion.schema.json')
     return $Root
 }
 
 function Get-ReleaseTemplateObject {
     param([Parameter(Mandatory = $true)][string]$Slug)
     return [ordered]@{
-        schemaVersion = 1; certified = $false; storySlug = $Slug; certifiedAt = $null
+        schemaVersion = 2; certified = $false; storySlug = $Slug; certifiedAt = $null
         artifacts = [ordered]@{
             story = [ordered]@{ path = '05-story.md'; sha256 = $null }
             canonDelta = [ordered]@{ path = '06-canon-delta.md'; sha256 = $null }
@@ -111,10 +513,21 @@ function Get-ReleaseTemplateObject {
         review = [ordered]@{
             artifact = $null; pass = 0; verdict = 'PENDING'; reviewer = $null
             unresolvedCritical = $null; unresolvedMajor = $null
+            passSha256 = $null; historySha256 = $null; draftPass = 0
+            draftPassSha256 = $null; reviewedAt = $null
         }
         nameCheck = [ordered]@{
-            story = $Slug; passed = $false; checkedAt = $null
-            scopedRegistrySha256 = $null
+            story = $Slug; phase = 'Final'; passed = $false; checkedAt = $null
+            receiptId = $null; storySha256 = $null; canonDeltaSha256 = $null
+            scopedRegistrySha256 = $null; activeRegistrySha256 = $null
+            checkerVersion = $null; warnings = @()
+        }
+        provenance = [ordered]@{
+            promptSha256 = $null; canonBriefSha256 = $null; planSha256 = $null
+            draftSha256 = $null; authorityManifestSha256 = $null
+            reviewAuthorityManifestSha256 = $null
+            promotionPreparationSha256 = $null
+            handoffLedgerSha256 = $null
         }
     }
 }
@@ -222,15 +635,59 @@ function Set-CompleteStory {
     if (-not (Test-Path -LiteralPath $Directory -PathType Container)) {
         $Directory = New-ScaffoldedStory $Root $Slug $Title
     }
+    $ReviewPath = Join-Path $Directory '04-review.md'
+    $InitialReviewSha256 = Get-FileSha256 $ReviewPath
     $Canon = $Status -eq 'final'
     $PromotionDate = if ($Canon) { '2026-08-01' } else { $null }
     Set-StoryJson $Directory $Slug $Title $Status $Status $Canon 'accepted' $true $PromotionDate
     Set-ProductionReadme $Directory $Slug $Title $Status $Status $(if ($Canon) { 'yes' } else { 'no' }) 'accepted' 'yes' $(if ($Canon) { '2026-08-01' } else { '—' }) $true $Canon
 
-    Write-Utf8File (Join-Path $Directory '00-prompt.md') "# Prompt contract`n`nA complete fixture prompt."
-    Write-Utf8File (Join-Path $Directory '01-canon-brief.md') "# Canon brief`n`nNo conflicts."
-    Write-Utf8File (Join-Path $Directory '02-story-plan.md') @'
+    $PromptPath = Join-Path $Directory '00-prompt.md'
+    $CanonBriefPath = Join-Path $Directory '01-canon-brief.md'
+    $PlanPath = Join-Path $Directory '02-story-plan.md'
+    $DraftPath = Join-Path $Directory '03-draft.md'
+    $StoryPath = Join-Path $Directory '05-story.md'
+    $DeltaPath = Join-Path $Directory '06-canon-delta.md'
+    $AuthorityPath = Join-Path $Directory 'authority.json'
+    $HandoffPath = Join-Path $Directory 'handoffs.json'
+    $PromptContent = @(
+        '# Prompt contract', '', '## Verbatim writing prompt', '',
+        '> A complete fixture prompt.', '', '## Story controls', '',
+        "- Working title: $Title", '- Target length: 130 words',
+        '- POV: third person', '- Tense: present',
+        '- Tone and genre: neutral fixture',
+        '- Audience/content rating: general',
+        '- Required elements: Ada Vale completes the fixture',
+        '- Prohibited elements: none', '', '## Assumptions', '',
+        '- All inventions remain story-local.', '', '## Completion tests', '',
+        '- The release and integrity gates pass.', ''
+    ) -join "`n"
+    Write-Utf8File $PromptPath $PromptContent
+    Write-Utf8File $CanonBriefPath "# Canon brief`n`nNo conflicts."
+    Write-Utf8File $PlanPath @'
 # Story plan
+
+## Story controls
+
+- Follow the captured fixture controls.
+
+## Character engine
+
+- Ada Vale wants to complete a deterministic validation task.
+
+## Causal arc
+
+- Ada produces evidence, the critic reviews it, and the release binds it.
+
+## Scene plan
+
+| # | Purpose | Conflict | Turn | Canon used | Word budget |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Complete the fixture | Validation is strict | The receipt binds | None | 130 |
+
+## Setup and payoff
+
+- The initial task is paid off by a passing receipt.
 
 ## Name check
 
@@ -238,41 +695,23 @@ function Set-CompleteStory {
 | --- | --- | --- | --- |
 | Ada Vale | `Ada Vale`; `Ada` | unique | Distinct fixture identity. |
 
+## Failure modes to watch
+
+- Stale hashes must fail closed.
+
 ## Proposed inventions
 
 None.
 '@
-    Write-Utf8File (Join-Path $Directory '03-draft.md') "# $Title`n`nAda Vale completes a full working draft."
-    Write-Utf8File (Join-Path $Directory '04-review.md') @'
-# Continuity and story review
-
-## Current certification
-
-- Reviewed artifact: `05-story.md`
-- Review pass: 2
-- Verdict: PASS
-- Reviewer: continuity_critic
-- Unresolved Critical findings: 0
-- Unresolved Major findings: 0
-- Updated: 2026-08-01
-
-## Review passes
-
-### Pass 2 — final
-
-- Reviewed artifact: `05-story.md`
-- Verdict: PASS
-- Reviewer: continuity_critic
-- Findings: 0 Critical, 0 Major, 0 Minor, 0 Optional
-'@
+    Write-Utf8File $DraftPath "# $Title`n`nAda Vale completes a full working draft."
     $Words = (@('Ada Vale', 'Ada') + (1..130 | ForEach-Object { "word$_" })) -join ' '
     $Front = @(
         '---', ('title: ' + ($Title | ConvertTo-Json -Compress)), "slug: `"$Slug`"",
         'created: 2026-08-01',
         '---', '', "# $Title", '', $Words, ''
     ) -join "`n"
-    Write-Utf8File (Join-Path $Directory '05-story.md') $Front
-    Write-Utf8File (Join-Path $Directory '06-canon-delta.md') @'
+    Write-Utf8File $StoryPath $Front
+    Write-Utf8File $DeltaPath @'
 # Proposed canon delta
 
 ## New characters or character facts
@@ -282,6 +721,10 @@ None.
 ## Final character-facing name inventory
 
 - **Ada Vale** — Reserved forms: `Ada Vale`; `Ada`
+
+## Reviewed prose name-audit allowlist
+
+None.
 
 ## New locations
 
@@ -315,38 +758,226 @@ None.
 
 None.
 '@
-    $StoryDigest = (Get-FileHash -LiteralPath (Join-Path $Directory '05-story.md') -Algorithm SHA256).Hash.ToLowerInvariant()
-    $DeltaDigest = (Get-FileHash -LiteralPath (Join-Path $Directory '06-canon-delta.md') -Algorithm SHA256).Hash.ToLowerInvariant()
-    Write-Utf8File (Join-Path $Directory '04-review.md') @"
-# Continuity and story review
-
-## Current certification
-
-- Reviewed artifact: ``05-story.md``
-- Artifact SHA-256: $StoryDigest
-- Canon delta SHA-256: $DeltaDigest
-- Review pass: 2
-- Verdict: PASS
-- Reviewer: continuity_critic
-- Unresolved Critical findings: 0
-- Unresolved Major findings: 0
-- Updated: 2026-08-01
-
-## Review passes
-
-### Pass 2 — final
-
-- Reviewed artifact: ``05-story.md``
-- Artifact SHA-256: $StoryDigest
-- Canon delta SHA-256: $DeltaDigest
-- Verdict: PASS
-- Reviewer: continuity_critic
-- Findings: 0 Critical, 0 Major, 0 Minor, 0 Optional
-"@
-    Write-Utf8File (Join-Path $Directory 'release.json') (((Get-ReleaseTemplateObject $Slug) | ConvertTo-Json -Depth 8) + "`n")
     $RegistryState = if ($Canon) { 'canon' } else { 'candidate' }
     Write-Registry $Root @("| Ada Vale | ``Ada Vale``; ``Ada`` | ``$Slug`` | $RegistryState | unique | Distinct fixture identity. |")
     Write-Index $Root @("| ``$Slug`` | *$Title* | $Status | $(if ($Canon) { 'yes' } else { 'no' }) | accepted | yes | $(if ($Canon) { '2026-08-01' } else { '—' }) | Fixture. |")
+
+    $Promotion = [ordered]@{
+        schemaVersion = 1; state = 'not-prepared'; storySlug = $Slug
+        promotionDate = $null; preparedAt = $null; preparationSha256 = $null; authorization = $null
+        stewardship = $null; authority = $null; bundle = $null
+        deltaInventory = $null; deltaDispositions = @(); universeChanges = @()
+        retcon = $null; completion = $null
+    }
+    Write-Utf8File (Join-Path $Directory 'promotion.json') (
+        ($Promotion | ConvertTo-Json -Depth 8) + "`n"
+    )
+    Write-Utf8File (Join-Path $Directory 'release.json') (
+        ((Get-ReleaseTemplateObject $Slug) | ConvertTo-Json -Depth 8) + "`n"
+    )
+
+    $FixtureAuthorityScript = Join-Path $Root '.agents/skills/story-integrity/scripts/New-AuthorityManifest.ps1'
+    $AuthorityResult = Invoke-ExternalScript $FixtureAuthorityScript @(
+        '-Story', $Slug, '-OutputFormat', 'Json', '-ProjectRoot', $Root
+    )
+    Assert-ExitCode $AuthorityResult 0 "authority fixture $Slug"
+    $AuthorityReceipt = $AuthorityResult.Output | ConvertFrom-Json
+    Assert-True (
+        $AuthorityReceipt.passed -eq $true -and
+        $AuthorityReceipt.manifestSha256 -ceq (Get-FileSha256 $AuthorityPath)
+    ) "Authority fixture for '$Slug' is incomplete."
+    $FixturePromptSha256 = Get-FileSha256 $PromptPath
+    $FixtureAuthoritySha256 = Get-FileSha256 $AuthorityPath
+    $CanonBriefContent = @(
+        '# Canon brief', '', '> Research status: READY',
+        '> Resolution owner: coordinator',
+        "> Prompt SHA-256: $FixturePromptSha256",
+        "> Authority manifest SHA-256: $FixtureAuthoritySha256", '',
+        '## Hard constraints', '', 'None.', '',
+        '## Useful established context', '', 'None.', '',
+        '## Conflicts or ambiguity', '', 'None.', '',
+        '## Unknowns', '', 'None.', '',
+        '## Safe invention space', '', 'None.', '',
+        '## Name constraints', '', '- Reserve Ada Vale and Ada.', '',
+        '## Required checks after drafting', '',
+        '- Review the draft and final story.', '',
+        '## Sources', '', 'None.', ''
+    ) -join "`n"
+    Write-Utf8File $CanonBriefPath $CanonBriefContent
+
+    $NameResult = Invoke-ExternalScript $NameScript @(
+        '-Story', $Slug, '-Phase', 'Final', '-OutputFormat', 'Json',
+        '-ProjectRoot', $Root
+    )
+    Assert-ExitCode $NameResult 0 "final name fixture $Slug"
+    $NameReceipt = $NameResult.Output | ConvertFrom-Json
+
+    $PromptSha256 = Get-FileSha256 $PromptPath
+    $CanonBriefSha256 = Get-FileSha256 $CanonBriefPath
+    $PlanSha256 = Get-FileSha256 $PlanPath
+    $DraftSha256 = Get-FileSha256 $DraftPath
+    $StorySha256 = Get-FileSha256 $StoryPath
+    $DeltaSha256 = Get-FileSha256 $DeltaPath
+    $AuthoritySha256 = Get-FileSha256 $AuthorityPath
+    $StoryMetadataSha256 = Get-FileSha256 (Join-Path $Directory 'story.json')
+    # Handoffs bind the lifecycle bytes current at that historical stage. The
+    # terminal fixture's current candidate metadata is intentionally distinct.
+    $ResearchMetadataSha256 = Get-TextSha256 'fixture story.json at canon-research stage'
+    $PlanMetadataSha256 = Get-TextSha256 'fixture story.json at planning stage'
+    $DraftMetadataSha256 = Get-TextSha256 'fixture story.json at drafting stage'
+    $DraftReviewMetadataSha256 = Get-TextSha256 'fixture story.json at draft-review stage'
+    $FinalEditMetadataSha256 = Get-TextSha256 'fixture story.json at final-edit stage'
+    $FinalReviewMetadataSha256 = Get-TextSha256 'fixture story.json at final-review stage'
+    $RegistrySha256 = Get-FileSha256 (Join-Path $Root 'stories/NAMES.md')
+    $Entries = [Collections.Generic.List[object]]::new()
+    $Previous = $null
+    $PrefixSha256 = Get-HandoffLedgerSnapshotSha256 `
+        -Story $Slug -Entries @($Entries) -ChainHead $Previous
+
+    $Entry = New-HandoffEntry -Sequence 1 -Story $Slug `
+        -Actor 'canon_librarian' -Mode 'RESEARCH_CANON' `
+        -Report $CanonBriefContent `
+        -Inputs @(
+            (New-HandoffInput "stories/$Slug/00-prompt.md" $PromptSha256),
+            (New-HandoffInput "stories/$Slug/story.json" $ResearchMetadataSha256),
+            (New-HandoffInput "stories/$Slug/authority.json" $AuthoritySha256),
+            (New-HandoffInput "stories/$Slug/handoffs.json" $PrefixSha256)
+        ) -Outputs @(
+            (New-HandoffOutput "stories/$Slug/01-canon-brief.md" $null $CanonBriefSha256)
+        ) -PreviousEntrySha256 $Previous
+    $Entries.Add($Entry); $Previous = $Entry.entrySha256
+    $PrefixSha256 = Get-HandoffLedgerSnapshotSha256 `
+        -Story $Slug -Entries @($Entries) -ChainHead $Previous
+
+    $Entry = New-HandoffEntry -Sequence 2 -Story $Slug `
+        -Actor 'story_architect' -Mode 'CREATE_PLAN' `
+        -Report "story: $Slug`nmode: CREATE_PLAN`nstatus: READY`nfixture bounded plan`n" `
+        -Inputs @(
+            (New-HandoffInput "stories/$Slug/00-prompt.md" $PromptSha256),
+            (New-HandoffInput "stories/$Slug/story.json" $PlanMetadataSha256),
+            (New-HandoffInput "stories/$Slug/01-canon-brief.md" $CanonBriefSha256),
+            (New-HandoffInput "stories/$Slug/authority.json" $AuthoritySha256),
+            (New-HandoffInput "stories/$Slug/handoffs.json" $PrefixSha256),
+            (New-HandoffInput 'stories/NAMES.md' $RegistrySha256)
+        ) -Outputs @(
+            (New-HandoffOutput "stories/$Slug/02-story-plan.md" ('0' * 64) $PlanSha256)
+        ) -PreviousEntrySha256 $Previous
+    $Entries.Add($Entry); $Previous = $Entry.entrySha256
+    $PrefixSha256 = Get-HandoffLedgerSnapshotSha256 `
+        -Story $Slug -Entries @($Entries) -ChainHead $Previous
+
+    $Entry = New-HandoffEntry -Sequence 3 -Story $Slug `
+        -Actor 'prose_writer' -Mode 'CREATE_DRAFT' `
+        -Report "story: $Slug`nmode: CREATE_DRAFT`nstatus: READY`nfixture bounded draft`n" `
+        -Inputs @(
+            (New-HandoffInput "stories/$Slug/00-prompt.md" $PromptSha256),
+            (New-HandoffInput "stories/$Slug/story.json" $DraftMetadataSha256),
+            (New-HandoffInput "stories/$Slug/01-canon-brief.md" $CanonBriefSha256),
+            (New-HandoffInput "stories/$Slug/02-story-plan.md" $PlanSha256),
+            (New-HandoffInput "stories/$Slug/authority.json" $AuthoritySha256),
+            (New-HandoffInput "stories/$Slug/handoffs.json" $PrefixSha256),
+            (New-HandoffInput 'stories/NAMES.md' $RegistrySha256)
+        ) -Outputs @(
+            (New-HandoffOutput "stories/$Slug/03-draft.md" ('0' * 64) $DraftSha256)
+        ) -PreviousEntrySha256 $Previous
+    $Entries.Add($Entry); $Previous = $Entry.entrySha256
+
+    $DraftLedgerSha256 = Get-HandoffLedgerSnapshotSha256 `
+        -Story $Slug -Entries @($Entries) -ChainHead $Previous
+    $DraftPass = New-ReviewPassPayload -Story $Slug -Pass 1 `
+        -Mode REVIEW_DRAFT -ArtifactSha256 $DraftSha256 `
+        -CanonDeltaSha256 'not-applicable' `
+        -CanonBriefSha256 $CanonBriefSha256 -PlanSha256 $PlanSha256 `
+        -ScopedRegistrySha256 $NameReceipt.scopedRegistrySha256 `
+        -AuthorityManifestSha256 $AuthoritySha256 `
+        -HandoffLedgerSha256 $DraftLedgerSha256 `
+        -HandoffLedgerChainHead $Previous
+    $DraftReviewContent = New-ReviewDocument -Passes @($DraftPass) -Latest $DraftPass
+    $DraftReviewSha256 = Get-TextSha256 $DraftReviewContent
+
+    $Entry = New-HandoffEntry -Sequence 4 -Story $Slug `
+        -Actor 'continuity_critic' -Mode 'REVIEW_DRAFT' `
+        -Report $DraftPass.CanonicalPayload `
+        -Inputs @(
+            (New-HandoffInput "stories/$Slug/00-prompt.md" $PromptSha256),
+            (New-HandoffInput "stories/$Slug/story.json" $DraftReviewMetadataSha256),
+            (New-HandoffInput "stories/$Slug/01-canon-brief.md" $CanonBriefSha256),
+            (New-HandoffInput "stories/$Slug/02-story-plan.md" $PlanSha256),
+            (New-HandoffInput "stories/$Slug/03-draft.md" $DraftSha256),
+            (New-HandoffInput "stories/$Slug/04-review.md" $InitialReviewSha256),
+            (New-HandoffInput "stories/$Slug/authority.json" $AuthoritySha256),
+            (New-HandoffInput "stories/$Slug/handoffs.json" $DraftLedgerSha256),
+            (New-HandoffInput 'stories/NAMES.md' $RegistrySha256)
+        ) -Outputs @(
+            (New-HandoffOutput "stories/$Slug/04-review.md" $InitialReviewSha256 $DraftReviewSha256)
+        ) -PreviousEntrySha256 $Previous
+    $Entries.Add($Entry); $Previous = $Entry.entrySha256
+    $FinalEditLedgerSha256 = Get-HandoffLedgerSnapshotSha256 `
+        -Story $Slug -Entries @($Entries) -ChainHead $Previous
+
+    $Entry = New-HandoffEntry -Sequence 5 -Story $Slug `
+        -Actor 'story_editor' -Mode 'CREATE_FINAL' `
+        -Report "story: $Slug`nmode: CREATE_FINAL`nstatus: READY`nfixture bounded final edit`n" `
+        -Inputs @(
+            (New-HandoffInput "stories/$Slug/00-prompt.md" $PromptSha256),
+            (New-HandoffInput "stories/$Slug/story.json" $FinalEditMetadataSha256),
+            (New-HandoffInput "stories/$Slug/01-canon-brief.md" $CanonBriefSha256),
+            (New-HandoffInput "stories/$Slug/02-story-plan.md" $PlanSha256),
+            (New-HandoffInput "stories/$Slug/03-draft.md" $DraftSha256),
+            (New-HandoffInput "stories/$Slug/04-review.md" $DraftReviewSha256),
+            (New-HandoffInput "stories/$Slug/authority.json" $AuthoritySha256),
+            (New-HandoffInput "stories/$Slug/handoffs.json" $FinalEditLedgerSha256),
+            (New-HandoffInput 'stories/NAMES.md' $RegistrySha256)
+        ) -Outputs @(
+            (New-HandoffOutput "stories/$Slug/05-story.md" ('0' * 64) $StorySha256),
+            (New-HandoffOutput "stories/$Slug/06-canon-delta.md" ('0' * 64) $DeltaSha256)
+        ) -PreviousEntrySha256 $Previous
+    $Entries.Add($Entry); $Previous = $Entry.entrySha256
+
+    $FinalLedgerSha256 = Get-HandoffLedgerSnapshotSha256 `
+        -Story $Slug -Entries @($Entries) -ChainHead $Previous
+    $FinalPass = New-ReviewPassPayload -Story $Slug -Pass 2 `
+        -Mode REVIEW_FINAL -ArtifactSha256 $StorySha256 `
+        -CanonDeltaSha256 $DeltaSha256 `
+        -CanonBriefSha256 $CanonBriefSha256 -PlanSha256 $PlanSha256 `
+        -ScopedRegistrySha256 $NameReceipt.scopedRegistrySha256 `
+        -AuthorityManifestSha256 $AuthoritySha256 `
+        -HandoffLedgerSha256 $FinalLedgerSha256 `
+        -HandoffLedgerChainHead $Previous
+    $FinalReviewContent = New-ReviewDocument `
+        -Passes @($DraftPass, $FinalPass) -Latest $FinalPass
+    $FinalReviewSha256 = Get-TextSha256 $FinalReviewContent
+
+    $Entry = New-HandoffEntry -Sequence 6 -Story $Slug `
+        -Actor 'continuity_critic' -Mode 'REVIEW_FINAL' `
+        -Report $FinalPass.CanonicalPayload `
+        -Inputs @(
+            (New-HandoffInput "stories/$Slug/00-prompt.md" $PromptSha256),
+            (New-HandoffInput "stories/$Slug/story.json" $FinalReviewMetadataSha256),
+            (New-HandoffInput "stories/$Slug/01-canon-brief.md" $CanonBriefSha256),
+            (New-HandoffInput "stories/$Slug/02-story-plan.md" $PlanSha256),
+            (New-HandoffInput "stories/$Slug/03-draft.md" $DraftSha256),
+            (New-HandoffInput "stories/$Slug/04-review.md" $DraftReviewSha256),
+            (New-HandoffInput "stories/$Slug/05-story.md" $StorySha256),
+            (New-HandoffInput "stories/$Slug/06-canon-delta.md" $DeltaSha256),
+            (New-HandoffInput "stories/$Slug/authority.json" $AuthoritySha256),
+            (New-HandoffInput "stories/$Slug/handoffs.json" $FinalLedgerSha256),
+            (New-HandoffInput 'stories/NAMES.md' $RegistrySha256)
+        ) -Outputs @(
+            (New-HandoffOutput "stories/$Slug/04-review.md" $DraftReviewSha256 $FinalReviewSha256)
+        ) -PreviousEntrySha256 $Previous
+    $Entries.Add($Entry); $Previous = $Entry.entrySha256
+
+    Write-Utf8File $ReviewPath $FinalReviewContent
+    $Ledger = [ordered]@{
+        schemaVersion = 2
+        storySlug = $Slug
+        chainHead = $Previous
+        entries = @($Entries)
+    }
+    Write-Utf8File $HandoffPath (
+        (($Ledger | ConvertTo-Json -Depth 16).Replace("`r`n", "`n").Replace("`r", "`n")) + "`n"
+    )
     return $Directory
 }
 
@@ -476,8 +1107,11 @@ try {
             '| Kai Two | `Kai` | `foxglove-two` | candidate | unresolved | Unrelated collision two. |'
         )
         $Result = Invoke-ExternalScript $NameScript @('-Story', 'fox', '-Phase', 'Plan', '-Strict', '-ProjectRoot', $Root)
-        Assert-ExitCode $Result 0 'exact slug scope'
-        Assert-True ($Result.Output -match 'warning' -and $Result.Output -match 'close-spelling') 'Unrelated collision and close spelling should be reported as warnings.'
+        Assert-True (
+            $Result.ExitCode -ne 0 -and
+            $Result.Output -match "close-spelling.*'Fara'.*'Sara'" -and
+            $Result.Output -match 'Target-touching collisions require consistent deliberate reuse documentation'
+        ) 'The exact target scope did not reject its own undocumented close-spelling collision.'
     }
 
     Invoke-Test 'released name reservations remain searchable without creating active collisions' {
@@ -611,9 +1245,14 @@ The names below were reviewed.
         $Root = New-FixtureRepository 'review-hash-binding'
         $Directory = Set-CompleteStory $Root 'reviewed-story' 'Reviewed Story'
         $Final = Get-Content -LiteralPath (Join-Path $Directory '05-story.md') -Raw
-        Write-Utf8File (Join-Path $Directory '05-story.md') ($Final + "`nChanged after the recorded review.`n")
+        Write-Utf8File (Join-Path $Directory '05-story.md') ($Final + "`na harmless byte change after the recorded review.`n")
         $Issued = Invoke-ExternalScript $ReleaseScript @('-Story', 'reviewed-story', '-ProjectRoot', $Root)
-        Assert-True ($Issued.ExitCode -ne 0 -and $Issued.Output -match 'differ from the reviewed hashes') 'Issuer certified bytes that changed after review.'
+        Assert-True (
+            $Issued.ExitCode -ne 0 -and
+            $Issued.Output -match 'Release handoff chain failed validation' -and
+            $Issued.Output -match '05-story\.md' -and
+            $Issued.Output -match 'handoff output'
+        ) "Issuer certified bytes that changed after review. Output:`n$($Issued.Output)"
     }
 
     Invoke-Test 'integrity and Pages share the UTC release timestamp contract' {
@@ -667,15 +1306,15 @@ The names below were reviewed.
         $null = New-ScaffoldedStory $Root 'ordinary-story' 'Ordinary Story'
         Write-Registry $Root @('| Ordinary Person | `Ordinary Person` | `ordinary-story` | in-progress | unique | Fixture. |')
         Write-Index $Root @('| `ordinary-story` | *Ordinary Story* | in-progress | no | pending | no | — | Fixture. |')
-        Write-Utf8File (Join-Path $Root 'sources/decisions/archive.md') "# Archive decision`n"
+        $DecisionPath = 'sources/decisions/2026-07-22-universe-grill.md'
         $RecordPath = Join-Path $Root 'sources/records/r1/record.md'
         Write-Utf8File $RecordPath "line one`nline two`n"
         $CurrentDigest = (Get-FileHash -LiteralPath $RecordPath -Algorithm SHA256).Hash.ToLowerInvariant()
         $CrlfBytes = [Text.UTF8Encoding]::new($false).GetBytes("line one`r`nline two`r`n")
         $HistoricalDigest = [Convert]::ToHexString([Security.Cryptography.SHA256]::HashData($CrlfBytes)).ToLowerInvariant()
         $Manifest = [ordered]@{
-            schemaVersion = 1; prepared = '2026-08-01'; authority = 'none'
-            decisionRecord = 'sources/decisions/archive.md'
+            schemaVersion = 2; prepared = '2026-08-01'; authority = 'none'
+            decisionRecord = $DecisionPath
             records = @([ordered]@{
                 recordId = 'R1'; workTitle = 'Record One'; reviewedForm = 'Fixture source'
                 path = 'sources/records/r1/record.md'; sha256 = $CurrentDigest
@@ -686,6 +1325,8 @@ The names below were reviewed.
             externalRecords = @([ordered]@{
                 recordId = 'R2'; workTitle = 'External Record'; reviewedForm = 'Fixture source'
                 logicalLocator = 'archive/external-record.md'; authority = 'none'
+                verificationStatus = 'descriptive-only'; version = $null; sha256 = $null
+                accessRequirements = 'Provide exact source bytes before reliance.'
             })
         }
         Write-Utf8File (Join-Path $Root 'sources/MANIFEST.json') (($Manifest | ConvertTo-Json -Depth 8) + "`n")
@@ -694,7 +1335,10 @@ The names below were reviewed.
         $Manifest.records[0].sha256 = ('0' * 64)
         Write-Utf8File (Join-Path $Root 'sources/MANIFEST.json') (($Manifest | ConvertTo-Json -Depth 8) + "`n")
         $Invalid = Invoke-ExternalScript $IntegrityScript @('-ProjectRoot', $Root)
-        Assert-True ($Invalid.ExitCode -ne 0 -and $Invalid.Output -match 'sha256 digest does not match current raw bytes') 'Invalid neutral archive current-byte digest was not rejected.'
+        Assert-True (
+            $Invalid.ExitCode -ne 0 -and
+            $Invalid.Output -match 'source manifest validator did not pass'
+        ) 'Invalid neutral archive current-byte digest was not rejected.'
 
         $Manifest.records[0].sha256 = $CurrentDigest
         $Manifest.externalRecords[0]['intendedUse'] = 'classified input'
@@ -702,12 +1346,15 @@ The names below were reviewed.
         $Classified = Invoke-ExternalScript $IntegrityScript @('-ProjectRoot', $Root)
         Assert-True (
             $Classified.ExitCode -ne 0 -and
-            $Classified.Output -match "external record 'R2' contains unknown property 'intendedUse'"
+            $Classified.Output -match 'source manifest validator did not pass'
         ) 'Neutral external source record accepted a classification field.'
     }
 
     Invoke-Test 'canon promotion finalizer updates one exact story and preserves reviewed bytes' {
         $Root = New-FixtureRepository 'canon-promotion-success'
+        $UniversePath = Join-Path $Root 'universe/sentinel.md'
+        Write-Utf8File $UniversePath "# Sentinel`n`nUniverse bytes are outside primary finalization.`n"
+        $UniverseBefore = [IO.File]::ReadAllBytes($UniversePath)
         $Directory = Set-CompleteStory $Root 'promotion-story' 'Promotion Story'
         $null = New-ScaffoldedStory $Root 'promotion-story-two' 'Promotion Story Two'
         Write-Registry $Root @(
@@ -719,14 +1366,11 @@ The names below were reviewed.
             '| `promotion-story` | *Promotion Story* | candidate | no | accepted | yes | — | Promotion fixture. |',
             $OtherIndexRow
         )
-        $UniversePath = Join-Path $Root 'universe/sentinel.md'
-        Write-Utf8File $UniversePath "# Sentinel`n`nUniverse bytes are outside primary finalization.`n"
-        $UniverseBefore = [IO.File]::ReadAllBytes($UniversePath)
-
         $Issued = Invoke-ExternalScript $ReleaseScript @(
             '-Story', 'promotion-story', '-ProjectRoot', $Root
         )
         Assert-ExitCode $Issued 0 'candidate release issuance for promotion'
+        Set-ReadyPromotionFixture $Root 'promotion-story' '2026-08-02'
         $ReleasePath = Join-Path $Directory 'release.json'
         $InitialReleaseBytes = [IO.File]::ReadAllBytes($ReleasePath)
         $InitialRelease = Get-Content -LiteralPath $ReleasePath -Raw | ConvertFrom-Json
@@ -793,9 +1437,9 @@ The names below were reviewed.
             $FinalRelease.certified -eq $true -and
             $FinalRelease.artifacts.story.sha256 -ceq $StoryHashBefore -and
             $FinalRelease.artifacts.canonDelta.sha256 -ceq $DeltaHashBefore -and
-            $FinalRelease.nameCheck.scopedRegistrySha256 -cne
+            $FinalRelease.nameCheck.scopedRegistrySha256 -ceq
                 $InitialRelease.nameCheck.scopedRegistrySha256
-        ) 'Reissued release does not bind unchanged artifacts and the promoted registry state.'
+        ) 'Reissued release does not preserve unchanged artifacts and stable reservation identity.'
 
         foreach ($Path in @(
             (Join-Path $Directory 'story.json'), $ReleasePath,
@@ -817,15 +1461,17 @@ The names below were reviewed.
             '-Story', 'rollback-story', '-ProjectRoot', $Root
         )
         Assert-ExitCode $Issued 0 'rollback candidate release issuance'
+        Set-ReadyPromotionFixture $Root 'rollback-story' '2026-08-02'
 
-        Write-Index $Root @(
-            '| `rollback-story` | *Rollback Story* | candidate | no | accepted | yes | — | Rollback fixture. |',
-            '| `orphan-after-write` | *Orphan After Write* | in-progress | no | pending | no | — | Forces repository-only validation failure. |'
-        )
+        # Source verification is repository-scoped, so this reaches the final
+        # repository gate without invalidating the story/authority preflight.
+        Write-Utf8File (Join-Path $Root 'sources/MANIFEST.json') "{}`n"
         $ProductionPaths = @(
             (Join-Path $Directory 'story.json'),
             (Join-Path $Directory 'release.json'),
             (Join-Path $Directory 'README.md'),
+            (Join-Path $Directory 'promotion.json'),
+            (Join-Path $Directory 'authority.json'),
             (Join-Path $Root 'stories/INDEX.md'),
             (Join-Path $Root 'stories/NAMES.md')
         )
@@ -871,7 +1517,10 @@ The names below were reviewed.
         Assert-ExitCode $Valid 0 'safe in-progress state'
         Set-StoryJson $Directory 'state-story' 'State Story' 'in-progress' 'prompt' $true 'pending' $false $null
         $Invalid = Invoke-ExternalScript $IntegrityScript @('-Story', 'state-story', '-ProjectRoot', $Root)
-        Assert-True ($Invalid.ExitCode -ne 0 -and $Invalid.Output -match 'in-progress state requires') 'Unsafe in-progress canon state was not rejected.'
+        Assert-True (
+            $Invalid.ExitCode -ne 0 -and
+            $Invalid.Output -match "lifecycle fields do not satisfy the central 'in-progress' state rule"
+        ) 'Unsafe in-progress canon state was not rejected.'
     }
 }
 finally {

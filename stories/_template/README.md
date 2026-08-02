@@ -15,6 +15,7 @@ each stage. Specialist agents do not edit it. -->
 ## Checklist
 
 - [ ] Prompt contract captured
+- [ ] Authority snapshot recorded
 - [ ] Canon brief completed
 - [ ] Story plan completed
 - [ ] Plan name check passed
@@ -28,4 +29,6 @@ each stage. Specialist agents do not edit it. -->
 - [ ] Name registry updated
 - [ ] Release certificate issued
 - [ ] Story index updated
+- [ ] Specialist handoff ledger validated
+- [ ] Promotion manifest closed or not prepared
 - [ ] Canon promotion explicitly approved (optional)

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "prepared": "2026-07-22",
   "authority": "none",
   "decisionRecord": "sources/decisions/2026-07-22-universe-grill.md",
@@ -72,10 +72,10 @@
     }
   ],
   "externalRecords": [
-    {"recordId":"S01","workTitle":"Daughter of the Sun","reviewedForm":"Complete novel draft, about 89,350 words","logicalLocator":"Light/version 3/draft/daughter_of_the_sun.md","authority":"none"},
-    {"recordId":"S02","workTitle":"Day After","reviewedForm":"Complete short story, about 3,388 words","logicalLocator":"Day After/TheDayAfter.md","authority":"none"},
-    {"recordId":"S05","workTitle":"The Inheritance","reviewedForm":"Complete short story, about 2,564 words","logicalLocator":"The Inheritance/The Inheritance.md","authority":"none"},
-    {"recordId":"S09","workTitle":"Things September Can't Take","reviewedForm":"Complete 20-page short story, about 4,093 extracted words","logicalLocator":"Things_September_Cant_Take.pdf","authority":"none"},
-    {"recordId":"S10","workTitle":"Writing rules","reviewedForm":"Authorial constraints, about 2,023 words","logicalLocator":"writing-rules.md","authority":"none"}
+    {"recordId":"S01","workTitle":"Daughter of the Sun","reviewedForm":"Complete novel draft, about 89,350 words","logicalLocator":"Light/version 3/draft/daughter_of_the_sun.md","authority":"none","verificationStatus":"descriptive-only","version":null,"sha256":null,"accessRequirements":"Provide the exact source bytes or a stable controlled locator before reliance."},
+    {"recordId":"S02","workTitle":"Day After","reviewedForm":"Complete short story, about 3,388 words","logicalLocator":"Day After/TheDayAfter.md","authority":"none","verificationStatus":"descriptive-only","version":null,"sha256":null,"accessRequirements":"Provide the exact source bytes or a stable controlled locator before reliance."},
+    {"recordId":"S05","workTitle":"The Inheritance","reviewedForm":"Complete short story, about 2,564 words","logicalLocator":"The Inheritance/The Inheritance.md","authority":"none","verificationStatus":"descriptive-only","version":null,"sha256":null,"accessRequirements":"Provide the exact source bytes or a stable controlled locator before reliance."},
+    {"recordId":"S09","workTitle":"Things September Can't Take","reviewedForm":"Complete 20-page short story, about 4,093 extracted words","logicalLocator":"Things_September_Cant_Take.pdf","authority":"none","verificationStatus":"descriptive-only","version":null,"sha256":null,"accessRequirements":"Provide the exact source bytes or a stable controlled locator before reliance."},
+    {"recordId":"S10","workTitle":"Writing rules","reviewedForm":"Authorial constraints, about 2,023 words","logicalLocator":"writing-rules.md","authority":"none","verificationStatus":"descriptive-only","version":null,"sha256":null,"accessRequirements":"Provide the exact source bytes or a stable controlled locator before reliance."}
   ]
 }

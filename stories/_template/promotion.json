@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "state": "not-prepared",
+  "storySlug": "{{slug}}",
+  "promotionDate": null,
+  "preparedAt": null,
+  "preparationSha256": null,
+  "authorization": null,
+  "stewardship": null,
+  "authority": null,
+  "bundle": null,
+  "deltaInventory": null,
+  "deltaDispositions": [],
+  "universeChanges": [],
+  "retcon": null,
+  "completion": null
+}
