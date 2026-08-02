@@ -78,6 +78,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "tenth-world-lesson",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:16:10.2797252+00:00",
+      "completedAt": "2026-08-02T22:22:43.7371082+00:00",
+      "guardId": "b84bc570d1e047e7bdcf55f6782e99b4",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"tenth-world-lesson\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/tenth-world-lesson/03-draft.md\",\n  \"authorityManifest\": \"stories/tenth-world-lesson/authority.json\",\n  \"handoffLedger\": \"stories/tenth-world-lesson/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:21:27.7365633+00:00\",\n  \"reviewBasis\": \"Independent complete-draft review against the captured prompt, canon brief, story plan, current authority inventory, ordered handoff ledger, prior review history, and registered-name discipline.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Initial draft review. The complete 3,853-word draft fulfills the prompt, preserves local canon and transfer limits, follows the planned causal and emotional arc, remains teen-appropriate, differentiates Eiren and the civic-engine conflict from The Trouble With Tuesdays, uses only registered character-facing names, and is ready for final editing. No prose or repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD\n",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/tenth-world-lesson/00-prompt.md",
+        "stories/tenth-world-lesson/01-canon-brief.md",
+        "stories/tenth-world-lesson/02-story-plan.md",
+        "stories/tenth-world-lesson/03-draft.md",
+        "stories/tenth-world-lesson/04-review.md",
+        "stories/tenth-world-lesson/authority.json",
+        "stories/tenth-world-lesson/handoffs.json",
+        "stories/tenth-world-lesson/story.json"
+      ],
+      "outputs": [
+        "stories/tenth-world-lesson/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
