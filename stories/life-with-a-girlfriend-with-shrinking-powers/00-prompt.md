@@ -16,7 +16,7 @@
 - Tense: Past.
 - Tone and genre: Warm romantic speculative fiction with domestic comedy,
   escalating physical stakes, and an emotionally sincere resolution.
-- Audience/content rating: Teen / PG-13.
+- Audience/content rating: YA, ages 14+.
 - Required elements: An established adult couple; shrinking as a repeatable
   power rather than a one-off accident; ordinary shared life reshaped by the
   power; a consequential crisis that tests both partners; consent, agency, and
