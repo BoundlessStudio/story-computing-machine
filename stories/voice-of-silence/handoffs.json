@@ -165,6 +165,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 7,
+      "story": "voice-of-silence",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:35:23.8662514+00:00",
+      "completedAt": "2026-08-02T22:45:39.4538698+00:00",
+      "guardId": "000872a9c47b4578a34934bbb3df4b12",
+      "persister": "story_editor",
+      "report": "status: READY  \nchangedPaths:\n- `stories/voice-of-silence/05-story.md`\n- `stories/voice-of-silence/06-canon-delta.md`\n\nfinalWordCount: 3225  \ncharacterInventory: `Kethra`; `Ulan`; `Dorram`  \ndeltaItemCount: 23  \nconstraintChecks: frontmatter PASS; prompt PASS; canon PASS; names PASS  \nscopeCheck: exactly both allowed paths changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/05-story.md",
+        "stories/voice-of-silence/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
