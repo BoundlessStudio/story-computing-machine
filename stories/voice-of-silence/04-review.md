@@ -2,20 +2,59 @@
 
 ## Current certification
 
-- Reviewed artifact: None
-- Review pass: 0
-- Verdict: PENDING
-- Reviewer: None
-- Unresolved Critical findings: unknown
-- Unresolved Major findings: unknown
-- Updated: Not yet reviewed
+- Reviewed artifact: `stories/voice-of-silence/03-draft.md`
+- Review pass: 1
+- Verdict: REVISE
+- Reviewer: continuity_critic
+- Unresolved Critical findings: 0
+- Unresolved Major findings: 1
+- Updated: 2026-08-02T22:27:02.4167167Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
 ## Review passes
 
-<!-- Preserve every completed pass in ascending contiguous order. Replace this pending scaffold for the first review. Under each pass heading, persist exactly one complete block bounded by REVIEW_PASS_PAYLOAD and END_REVIEW_PASS_PAYLOAD, exactly as returned by the reviewer. -->
+### Pass 1 — draft review
 
-### Pass 1 — pending
-
-No completed review payload has been persisted.
+REVIEW_PASS_PAYLOAD
+{
+  "story": "voice-of-silence",
+  "mode": "REVIEW_DRAFT",
+  "status": "READY",
+  "pass": 1,
+  "reviewedArtifact": "stories/voice-of-silence/03-draft.md",
+  "authorityManifest": "stories/voice-of-silence/authority.json",
+  "handoffLedger": "stories/voice-of-silence/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-02T22:27:02.4167167Z",
+  "reviewBasis": "Read-only review of stories/voice-of-silence/00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md, authority.json, handoffs.json, and stories/NAMES.md; checked against the LOCKED/CANON universe inventory captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15. No prior completed review exists; a final delta is not applicable to REVIEW_DRAFT.",
+  "verdict": "REVISE",
+  "blockType": "NONE",
+  "resolutionOwner": "prose_writer",
+  "resolutionQuestion": "none",
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 1,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [],
+  "findings": [
+    {
+      "id": "VOS-DRAFT-001",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "spell-mechanism consistency",
+      "locations": [
+        "stories/voice-of-silence/03-draft.md:19",
+        "stories/voice-of-silence/03-draft.md:109-113"
+      ],
+      "evidence": "The draft establishes that a spell needs an authorized living caller, while the controlling plan defines authorization through a brass-node call-link and requires the ready window before the audible name. Dorram instead plants only his staff, shapes Roofstay, and immediately calls its name; no node authorization or ready step appears, yet the spell succeeds. Dorram being both shaper and caller preserves living agency and consent, but the prose does not show that this consequential success satisfies the activation gate already established for the local practice.",
+      "requiredResolution": "Revise the Roofstay beat so Dorram's self-call visibly satisfies the already-established node authorization/link and ready-window rules, with the staff remaining only a geometry marker, or remove the successful release. Do not add an emergency or self-caller exception that is absent from the plan.",
+      "owner": "prose_writer"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only review; no files changed."
+}
+END_REVIEW_PASS_PAYLOAD

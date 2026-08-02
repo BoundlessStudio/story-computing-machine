@@ -78,6 +78,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "voice-of-silence",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-02T22:19:57.7685221+00:00",
+      "completedAt": "2026-08-02T22:28:44.3614994+00:00",
+      "guardId": "a6e915184e4d40f6b29a49dfc661af7b",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"voice-of-silence\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/voice-of-silence/03-draft.md\",\n  \"authorityManifest\": \"stories/voice-of-silence/authority.json\",\n  \"handoffLedger\": \"stories/voice-of-silence/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-02T22:27:02.4167167Z\",\n  \"reviewBasis\": \"Read-only review of stories/voice-of-silence/00-prompt.md, story.json, 01-canon-brief.md, 02-story-plan.md, 03-draft.md, 04-review.md, authority.json, handoffs.json, and stories/NAMES.md; checked against the LOCKED/CANON universe inventory captured at base commit 760be9974b5bf8bdd79a1961607b1a0a8fc52a15. No prior completed review exists; a final delta is not applicable to REVIEW_DRAFT.\",\n  \"verdict\": \"REVISE\",\n  \"blockType\": \"NONE\",\n  \"resolutionOwner\": \"prose_writer\",\n  \"resolutionQuestion\": \"none\",\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 1,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [\n    {\n      \"id\": \"VOS-DRAFT-001\",\n      \"severity\": \"Major\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"spell-mechanism consistency\",\n      \"locations\": [\n        \"stories/voice-of-silence/03-draft.md:19\",\n        \"stories/voice-of-silence/03-draft.md:109-113\"\n      ],\n      \"evidence\": \"The draft establishes that a spell needs an authorized living caller, while the controlling plan defines authorization through a brass-node call-link and requires the ready window before the audible name. Dorram instead plants only his staff, shapes Roofstay, and immediately calls its name; no node authorization or ready step appears, yet the spell succeeds. Dorram being both shaper and caller preserves living agency and consent, but the prose does not show that this consequential success satisfies the activation gate already established for the local practice.\",\n      \"requiredResolution\": \"Revise the Roofstay beat so Dorram's self-call visibly satisfies the already-established node authorization/link and ready-window rules, with the staff remaining only a geometry marker, or remove the successful release. Do not add an emergency or self-caller exception that is absent from the plan.\",\n      \"owner\": \"prose_writer\"\n    }\n  ],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Read-only review; no files changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/voice-of-silence/00-prompt.md",
+        "stories/voice-of-silence/01-canon-brief.md",
+        "stories/voice-of-silence/02-story-plan.md",
+        "stories/voice-of-silence/03-draft.md",
+        "stories/voice-of-silence/04-review.md",
+        "stories/voice-of-silence/authority.json",
+        "stories/voice-of-silence/handoffs.json",
+        "stories/voice-of-silence/story.json"
+      ],
+      "outputs": [
+        "stories/voice-of-silence/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
