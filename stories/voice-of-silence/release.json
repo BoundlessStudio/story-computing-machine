@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "certified": true,
   "storySlug": "voice-of-silence",
-  "certifiedAt": "2026-08-02T22:59:28.1887129+00:00",
+  "certifiedAt": "2026-08-02T23:29:23.7332072+00:00",
   "certificationBasis": "pipeline",
   "artifacts": {
     "story": {
@@ -26,7 +26,7 @@
     "story": "voice-of-silence",
     "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-02T18:59:28.0067902-04:00",
+    "checkedAt": "2026-08-02T19:29:23.4184422-04:00",
     "checkerVersion": "story-names/3",
     "warnings": []
   },

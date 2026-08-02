@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "storySlug": "voice-of-silence",
-  "capturedAt": "2026-08-02T21:30:20.2460810+00:00",
+  "capturedAt": "2026-08-02T23:29:21.8475589+00:00",
   "baseBranch": "main",
-  "baseCommit": "760be9974b5bf8bdd79a1961607b1a0a8fc52a15",
+  "baseCommit": "0f79b0fcd603e0ba32ef62134114589c79dae4f5",
   "universeFiles": [
     "universe/characters.md",
     "universe/factions.md",
