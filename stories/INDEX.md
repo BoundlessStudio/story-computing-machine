@@ -5,6 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `transitions-in-common` | *Transitions in Common* | in-progress | no | pending | no | — | New story on `codex/story-transitions-in-common`. |
 | `what-i-hate-most` | *What I Hate Most* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-last-monster` | *The Last Monster* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-five-minute-warranty` | *The Five-Minute Warranty* | candidate | no | pending | no | — | Release-certified story candidate. |
