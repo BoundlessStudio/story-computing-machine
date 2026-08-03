@@ -16,7 +16,7 @@
 - Tense: Past.
 - Tone and genre: Institutional fantasy with scientific tension, dry wit, and an emotionally serious resolution.
 - Audience/content rating: General adult; no graphic sex or gore.
-- Required elements: A genuinely new magical effect; uncertainty about how it was produced; a formal demand from a board of magical researchers; an on-page demonstration; a resolved dramatic and intellectual arc; a meaningful continuity connection to `stories/voice-of-silence`, the existing story about mute magicians.
+- Required elements: A genuinely new magical effect; uncertainty about how it was produced; a formal demand from a board of magical researchers; an on-page demonstration; a resolved dramatic and intellectual arc; a meaningful prequel connection to `stories/voice-of-silence`, the existing story about mute magicians.
 - Prohibited elements: No contradiction of current canon, no effortless omnipotence, and no ending that dismisses the discovery as merely fake or imagined.
 
 ## Assumptions
@@ -26,6 +26,7 @@
 - The board may be adversarial, but its demand for evidence should remain intellectually credible.
 - The default `story-room` target of 2,500–4,000 words applies.
 - `stories/voice-of-silence` is currently a non-canon release candidate. Its final prose may supply candidate-to-candidate continuity for the requested connection, but must not be mislabeled as current shared-universe authority or promoted through this workflow.
+- The story should occur before `stories/voice-of-silence` and establish an origin, precursor, or institutional condition that enriches that later story without diminishing Kethra's later authorship, disability, or achievement.
 
 ## Completion tests
 
