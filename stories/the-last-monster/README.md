@@ -2,8 +2,8 @@
 
 - Slug: `the-last-monster`
 - Created: 2026-08-03
-- Current stage: final-review
-- Status: in-progress
+- Current stage: candidate
+- Status: candidate
 - Canon: no
 - User disposition: pending
 - Publish: no
@@ -25,10 +25,10 @@ each stage. Specialist agents do not edit it. -->
 - [x] Final story written
 - [x] Canon delta recorded
 - [x] Final story review passed
-- [ ] Final name check passed
-- [ ] Name registry updated
-- [ ] Release certificate issued
-- [ ] Story index updated
-- [ ] Specialist handoff ledger validated
-- [ ] Promotion manifest closed or not prepared
+- [x] Final name check passed
+- [x] Name registry updated
+- [x] Release certificate issued
+- [x] Story index updated
+- [x] Specialist handoff ledger validated
+- [x] Promotion manifest closed or not prepared
 - [ ] Canon promotion explicitly approved (optional)

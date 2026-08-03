@@ -5,7 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| `the-last-monster` | *The Last Monster* | in-progress | no | pending | no | — | New story on `codex/story-the-last-monster`. |
+| `the-last-monster` | *The Last Monster* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-five-minute-warranty` | *The Five-Minute Warranty* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `life-with-a-girlfriend-with-shrinking-powers` | *Life with a Girlfriend with Shrinking Powers* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `voice-of-silence` | *The Voice of Silence* | candidate | no | pending | no | — | Release-certified story candidate. |
