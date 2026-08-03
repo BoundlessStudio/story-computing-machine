@@ -5,6 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `the-five-minute-warranty` | *The Five-Minute Warranty* | in-progress | no | pending | no | — | New story on `codex/story-the-five-minute-warranty`. |
 | `life-with-a-girlfriend-with-shrinking-powers` | *Life with a Girlfriend with Shrinking Powers* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `voice-of-silence` | *The Voice of Silence* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `tenth-world-lesson` | *The Tenth World Needs No Hero* | candidate | no | pending | no | — | Release-certified story candidate. |
