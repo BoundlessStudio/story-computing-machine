@@ -78,6 +78,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "clerics-infernal-ex",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T18:51:49.1443886+00:00",
+      "completedAt": "2026-08-03T18:58:39.8515836+00:00",
+      "guardId": "29a1f0f7b03945f2b268b53c61a9a578",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"clerics-infernal-ex\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/clerics-infernal-ex/03-draft.md\",\n  \"authorityManifest\": \"stories/clerics-infernal-ex/authority.json\",\n  \"handoffLedger\": \"stories/clerics-infernal-ex/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T18:56:23.4865540Z\",\n  \"reviewBasis\": \"Independent read-only complete-draft review against the captured prompt, lifecycle record, canon brief, scene-ready plan, pending prior-review scaffold, authority manifest, ordered handoff ledger through completed sequence 3, full character-name registry, unchanged LOCKED/CANON universe authority, and the two directly relevant admitted canon stories identified by canon research, The Friends I Built and The Station Between. Checked prompt fulfillment, chronology, courtesy-hinge access and shutdown causality, living magical supply and nonliving foci, locally bounded demon and clerical framing, adult consensual history and present consent boundaries, party competence, close-third past-tense control, pacing, dialogue distinction, prose readiness, Teen/PG-13 treatment, physical object continuity, and registered names. No prior completed review exists, and a final delta is not applicable to REVIEW_DRAFT.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 2\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [\n    {\n      \"id\": \"CIE-DRAFT-001\",\n      \"severity\": \"Minor\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"courtesy-hinge activation continuity\",\n      \"locations\": [\n        \"stories/clerics-infernal-ex/03-draft.md:9-11\",\n        \"stories/clerics-infernal-ex/03-draft.md:69\",\n        \"stories/clerics-infernal-ex/03-draft.md:89\",\n        \"stories/clerics-infernal-ex/03-draft.md:205\"\n      ],\n      \"evidence\": \"The opening establishes that Emet discovers his stolen leaf already bolted into the fence's scaffold, and his later accounts say the party followed the components there and that his culpable present action was recognizing and powering the rig. Line 69 instead says a stolen leaf remains inert until its bearer mounts it in a new frame and supplies a new opening, then states that Emet did both. This briefly assigns Emet a physical mounting action contradicted by the surrounding chronology and obscures the intended division between the fence's construction and Emet's living activation.\",\n      \"requiredResolution\": \"During final editing, state the activation conditions without claiming Emet mounted the leaf: preserve that the fence or its operation mounted the stolen leaf, that mounting alone remained inert, and that Emet knowingly supplied the fresh living opening that completed the rig's usable conditions.\",\n      \"owner\": \"story_editor\"\n    },\n    {\n      \"id\": \"CIE-DRAFT-002\",\n      \"severity\": \"Minor\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"endpoint object continuity\",\n      \"locations\": [\n        \"stories/clerics-infernal-ex/03-draft.md:347-367\",\n        \"stories/clerics-infernal-ex/03-draft.md:389\"\n      ],\n      \"evidence\": \"Emet removes and bends his leaf on the sanctuary side while Lacrixa removes and melts her separate leaf after she has crossed into the kiln court; the window then closes between the two locations. The final paragraph nevertheless says the party leaves both ruined leaves fused into the sanctuary's iron scaffold for local authorities. Lacrixa's far-side leaf is never transferred back through the narrowing passage, so the two-leaf evidence inventory is spatially impossible as written.\",\n      \"requiredResolution\": \"Keep each destroyed leaf on its established endpoint, or explicitly and safely transfer Lacrixa's leaf before closure. Ensure the sanctuary evidence inventory names only objects physically present there while preserving bilateral destruction, final revocation, and usable evidence for local authorities.\",\n      \"owner\": \"story_editor\"\n    }\n  ],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Read-only review; no files changed. The complete approximately 3,400-word draft fulfills the required comic reversal verbatim, grounds the party's glance in Bosk's theatrical history rather than sexuality, makes Emet and Lacrixa's consensual adult relationship and unresolved keyed access causal to the breach, and resolves both the populated-site danger and their unfinished relationship without killing, absolution, or reunion. Emet and Lacrixa remain accountable living agents; every consequential magical act is supplied by one or both of them while the leaves, loops, reservoirs, medallion, scaffold, and stone remain nonliving foci. The Cauterized Reach, demon identity, shelter practice, and crossing system stay locally bounded and unconnected to established infernal or afterlife systems. Bosk and Udren are tactically indispensable, the four speakers remain distinguishable under pressure, the countdown and costs are legible, injuries and intimacy remain Teen/PG-13, close-third past tense is controlled, and all character-facing forms match the unique registry reservations for Emet Sarn, Emet, Lacrixa, Bosk, and Udren. Two Minor continuity defects remain for final editing: the activation summary incorrectly credits Emet with mounting the fence-built leaf, and the ending relocates Lacrixa's destroyed far-side leaf into the sanctuary evidence. No Critical or Major findings remain, and no user ruling is required.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/clerics-infernal-ex/00-prompt.md",
+        "stories/clerics-infernal-ex/01-canon-brief.md",
+        "stories/clerics-infernal-ex/02-story-plan.md",
+        "stories/clerics-infernal-ex/03-draft.md",
+        "stories/clerics-infernal-ex/04-review.md",
+        "stories/clerics-infernal-ex/authority.json",
+        "stories/clerics-infernal-ex/handoffs.json",
+        "stories/clerics-infernal-ex/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/clerics-infernal-ex/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
