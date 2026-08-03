@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "the-last-monster",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T07:58:57.9543599+00:00",
+      "completedAt": "2026-08-03T08:19:19.8429972+00:00",
+      "guardId": "0fd884a00c3a4599889bf7cbbec3dbbf",
+      "persister": "story_architect",
+      "report": "status: READY  \nstory_slug: `the-last-monster`  \nmode: `CREATE_PLAN`  \nguard_id: `0fd884a00c3a4599889bf7cbbec3dbbf`  \noutput: `stories/the-last-monster/02-story-plan.md`  \ninputs: `00-prompt.md`, `story.json`, `01-canon-brief.md`, `authority.json`, `handoffs.json`, `stories/NAMES.md`  \nsummary: Created a 3,955-word scene-ready plan with causal scenes, close-second present, nonmagical deprivation/trauma-based sensory collapse, airflow-guided creature evacuation, learned fear through behavior, a decisive humane pause, explicit escape, accountability, constraints, reversals, local inventions, and ending image.  \nname inventory: Unnamed protagonist; unnamed lantern-bearer; unnamed dungeon inhabitants; unnamed guardian and dependent; two unnamed spillway figures; unnamed surface searchers. No character-facing names or aliases introduced; complete collision review passes.  \nrisks: Victim identities intentionally remain partly uncertain; drafting must preserve observable evidence, non-graphic violence, and explicit responsibility without converting ambiguity into absolution.  \nacceptance confirmation: Only `stories/the-last-monster/02-story-plan.md` was modified; all assigned requirements are covered and no canon, registry, metadata, prose, or other files were changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
