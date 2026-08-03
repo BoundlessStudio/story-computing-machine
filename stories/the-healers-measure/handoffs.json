@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "the-healers-measure",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T21:33:54.8078354+00:00",
+      "completedAt": "2026-08-03T21:53:18.6031696+00:00",
+      "guardId": "d237307af52f4e42b4429deb0fe059b9",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: `the-healers-measure`\nmode: `CREATE_PLAN`\nguardId: `d237307af52f4e42b4429deb0fe059b9`\noutput: `stories/the-healers-measure/02-story-plan.md`\nnameRegistrationRequired: `true`\nnameInventory: `Ruva`; `Vekran`\nacceptanceSummary: `Complete six-scene plan targeting 3,400 story words, with close-third past controls, Teen rating, healer-centered arc, bounded living-powered witchknight mechanics, causal healing/martial/magical climax, speaker profiles, dialogue tactic changes, constraints, local inventions, and complete four-column Name check.`\nscopeCheck: `Only stories/the-healers-measure/02-story-plan.md changed; git diff check passed.`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-healers-measure/00-prompt.md",
+        "stories/the-healers-measure/01-canon-brief.md",
+        "stories/the-healers-measure/authority.json",
+        "stories/the-healers-measure/handoffs.json",
+        "stories/the-healers-measure/story.json"
+      ],
+      "outputs": [
+        "stories/the-healers-measure/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
