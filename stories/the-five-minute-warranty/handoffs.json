@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-five-minute-warranty",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T03:42:06.3210723+00:00",
+      "completedAt": "2026-08-03T03:48:24.2789017+00:00",
+      "guardId": "c36887dbc5444954b13211b388a4ed2e",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory_slug: the-five-minute-warranty\nmode: CREATE_DRAFT\nguard_id: c36887dbc5444954b13211b388a4ed2e\noutput_path: stories/the-five-minute-warranty/03-draft.md\nchange_report: Wrote the complete 3,170-word prose draft; only the draft changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-five-minute-warranty/00-prompt.md",
+        "stories/the-five-minute-warranty/01-canon-brief.md",
+        "stories/the-five-minute-warranty/02-story-plan.md",
+        "stories/the-five-minute-warranty/authority.json",
+        "stories/the-five-minute-warranty/handoffs.json",
+        "stories/the-five-minute-warranty/story.json"
+      ],
+      "outputs": [
+        "stories/the-five-minute-warranty/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
