@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: stories/the-healers-measure/05-story.md
-- Review pass: 4
-- Verdict: REVISE
+- Review pass: 5
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-03T22:42:35.8749114Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-03T22:49:14.4622386Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -289,5 +289,72 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only final re-review; no files changed. THM-FINAL-001 is fully resolved, and the unchanged final prose plus revised delta are substantively release-ready. THM-07 now keeps witchknight measure distinct from healer-sense, all absent `wound-knot` terminology is removed, THM-24 exactly inventories attested lowercase vocabulary including `measurework`, and THM-16's narrowed separation-act scope matches its dependencies. All 25 delta items remain unique, sequential, final-prose-supported, locally qualified, dependency-complete, proposed-only, unpromoted, and assigned explicit dispositions and smallest targets. The final story remains prompt-complete, canon-compatible, causally coherent, Teen, healer-centered, and prose-ready; all draft findings remain resolved. Its character-facing inventory contains exactly Ruva and Vekran, `None` remains the correct reviewed-prose non-character allowlist, and the strict final name gate passes cleanly. Certification is withheld solely because 04-review.md orders passes as 1, 3, 2 and handoff sequence 8 stores the pass-2 draft-review report under a pass-3 final-review entry. This coordinator-owned production-record repair requires no prose or delta change, canon ruling, retcon, or user authority."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 5 — final audit
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "the-healers-measure",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 5,
+  "reviewedArtifact": "stories/the-healers-measure/05-story.md",
+  "authorityManifest": "stories/the-healers-measure/authority.json",
+  "handoffLedger": "stories/the-healers-measure/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-03T22:49:14.4622386Z",
+  "reviewBasis": "Independent read-only later final audit under guard 3512425e80d84f438c7c06358fd983ba of the unchanged 3,869-word release-facing story, complete revised 25-item canon delta, repaired review history, and repaired handoff ledger against the captured prompt, lifecycle record, canon brief, scene-ready plan, passing revised draft, authority inventory captured at base commit c84db9d381f804d4b7ab4e09c9d49c7345c08ba2, specialist ledger through sequence 10, and current complete character-name registry. Reverified all prior finding dispositions, final-prose frontmatter, prompt fulfillment, chronology, causality, partial-brace and full-load behavior, sixty-heartbeat tracking, false-branch cycle, courtyard clearance, living magical agency, inert tools, local costs and scope, healing limits, consent, personhood, Teen treatment, dialogue profiles, prose readiness, all 25 delta facts, qualifiers, dependencies, dispositions and targets, exhaustive character-facing inventory, and reviewed-prose allowlist. Confirmed review headings and blocks are ascending passes 1, 2, 3, and 4; normalized exact-text comparison confirms handoff sequences 4, 6, 8, and 10 match their corresponding persisted review payloads, including the repaired pass-3 and pass-4 reports. Test-StoryHandoffs with the required release chain returned passed true, releaseReady true, ten entries, no unresolved entries, and no errors. Current universe authority remains unchanged, and the strict final story-names/3 gate remains clean.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "THM-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves the lower partial brace at stories/the-healers-measure/05-story.md:115-181, defers the full crisis load at lines 227 and 259, and tracks the four-line hold from sixty through forty-six, thirty-four, twenty-eight, and eighteen at lines 303-361."
+    },
+    {
+      "id": "THM-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves the exact false-branch rule and execution at stories/the-healers-measure/05-story.md:243 and 325-355: crossing begins on one, covers the living line on two and three, clears on four, and leaves the safe interval used for the cut."
+    },
+    {
+      "id": "THM-DRAFT-003",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves the cart and evacuation clearance at stories/the-healers-measure/05-story.md:95 and the safe outward redirection into that established empty strip at lines 361-365."
+    },
+    {
+      "id": "THM-FINAL-001",
+      "priorPass": 3,
+      "resolvedInPass": 4,
+      "disposition": "RESOLVED",
+      "evidence": "The revised delta continues to preserve the pass-4 repair: THM-07 at stories/the-healers-measure/06-canon-delta.md:40 separates iron-mediated witchknight measure from Ruva's touch-based healing working and healer-sense; lines 36 and 47-49 use only final-prose-supported working descriptions; no `wound-knot` occurrence remains; THM-24 at line 57 lists attested terms including `measurework`; and THM-16 at line 49 remains narrowed to the separation act with matching dependencies."
+    },
+    {
+      "id": "THM-FINAL-002",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/the-healers-measure/04-review.md:17, 92, 145, and 219, the review headings and complete payload blocks now appear in ascending contiguous order as passes 1, 2, 3, and 4. Exact normalized comparison confirms handoff sequence 8 now stores the persisted pass-3 REVIEW_FINAL payload for 05-story.md under guard d070bdb6753344669c58abb7d8eb0bb5, and sequence 10 stores the exact pass-4 REVIEW_FINAL payload under guard e6b82d42907446a8bc217936c375ef80. Test-StoryHandoffs reports passed true and releaseReady true with ten entries, no unresolved entries, and no errors."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Final audit passed; no repository files were changed. The unchanged release-facing story remains prompt-complete, canon-compatible, causally coherent, Teen, healer-centered, and prose-ready, with valid title, slug, and creation-date frontmatter. Vekran's formidable steel-and-magic integration remains costly and bounded; Ruva succeeds through combined healer judgment and narrow apprentice technique rather than effortless mastery; the partial brace, sixty-heartbeat full load, four-beat false branch, cleared courtyard path, living supply, inert foci, force movement, healing limits, active consent, attacker agency and custody, injuries, property damage, and incomplete apprenticeship remain exact. All five prior findings are resolved without regression. The canon delta retains 25 unique sequential, final-prose-supported, locally qualified, dependency-complete, proposed-only items with explicit dispositions and smallest targets; it introduces no promotion, retcon, crossover, autonomous object magic, or universalization. The character-facing inventory contains exactly Ruva and Vekran, `None` remains the correct reviewed-prose non-character allowlist, the registry has no unresolved collision, and the strict final name gate passes with zero warnings or errors. Review history and handoff records now agree exactly, and Test-StoryHandoffs confirms a complete release-ready chain. No unresolved finding or user ruling remains."
 }
 END_REVIEW_PASS_PAYLOAD
