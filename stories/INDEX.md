@@ -5,6 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `clerics-infernal-ex` | *Hello, Lover* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `transitions-in-common` | *Transitions in Common* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `what-i-hate-most` | *What I Hate Most* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-last-monster` | *The Last Monster* | candidate | no | pending | no | — | Release-certified story candidate. |

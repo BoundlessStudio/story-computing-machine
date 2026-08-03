@@ -45,6 +45,7 @@ for characters the prose leaves unnamed.
 | Baird Ansel | `Baird Ansel`; `Baird` | `the-future-that-refused-us` | canon | unique | No reuse. Sablewake's first reader; `first reader` remains a lowercase common role, and `Ansel` is not used alone as his individual label. |
 | Belphegor | `Belphegor` | `the-friends-i-built` | canon | unique | No reuse. Prompt-required archdemon and Irix's parent; `archdemon` and relational descriptions remain common nouns rather than aliases. |
 | Ben | `Ben` | `self-reflection` | canon | unique | — |
+| Bosk | `Bosk` | `clerics-infernal-ex` | candidate | unique | No reuse. Adult human bard; the clipped form is distinct in spelling, sound, cadence, and role from registered Bash, Baird, Bexel, Bracken, Mossback, and Osket. Final prose uses only `Bosk`, with no surname, nickname, stage name, proper title, or alternate form. |
 | Bracken | `Bracken` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
 | Bryn Ahn / Pulsewire | `Bryn Ahn`; `Bryn`; `Pulsewire` | `the-attendance-ledger` | canon | unique | No reuse. One continuing civilian/magical identity; `Ahn` is not used alone. The clipped civilian and magical forms are distinct from all reservations and map clearly to the team's connection-sensing and severance role. |
 | Cal Mercer | `Cal Mercer`; `Cal`; `Cal-Cal` | `realms` | canon | unique | — |
@@ -69,6 +70,7 @@ for characters the prose leaves unnamed.
 | Ekri | `Ekri` | `the-friends-i-built` | canon | unique | No reuse. Irix's classmate; distinct in spelling and cadence from reserved `Eli`. |
 | Eli Fenwick | `Eli Fenwick`; `Eli` | `the-trouble-with-tuesdays` | canon | unique | One watch holder; the unique surname avoids implying kinship with Cal Mercer and is not used alone. |
 | Eli Mercer | `Eli Mercer`; `Eli` | released reservation | released | unique | Formerly planned for `the-trouble-with-tuesdays`; replaced by Eli Fenwick in the current plan. |
+| Emet Sarn | `Emet Sarn`; `Emet` | `clerics-infernal-ex` | candidate | unique | No reuse. Adult human cleric and viewpoint character; distinct in spelling, sound, cadence, and role from registered Eiren, Eli, Ekri, Estrel, Salken, and Sorel. Final prose uses `Emet Sarn` and `Emet`; `Sarn` is not used alone, and no proper clerical title, nickname, or alternate form appears. |
 | Examiner Dovek | `Examiner Dovek`; `Dovek` | `the-weight-of-falling-up-rune-shoes` | canon | unique | `Examiner` is a common role noun and is not used alone as a proper name. |
 | Evelyn Bellweather | `Evelyn Bellweather`; `Evelyn` | `the-shape-of-mercy` | canon | unique | No reuse. Eldest Bellweather sibling; the shared surname intentionally marks one family. |
 | Fiora Halwick | `Fiora Halwick`; `Fiora` | `the-courtesy-of-blades` | canon | unique | No reuse. Adult woman, Lacebridge assistant instructor, East Weir head-instructor appointee, and viewpoint duelist; final prose uses both listed forms, never `Halwick` alone. Her forms are distinct from all registered F-initial forms and from Jasper and Quade. |
@@ -105,6 +107,7 @@ for characters the prose leaves unnamed.
 | King Ambric | `King Ambric`; `Ambric` | `the-gentlest-terror` | canon | unique | No reuse. Olyra's late father, present through memory; final prose uses `King Ambric`, while `Ambric` remains reserved from planning but is not used independently. |
 | King Othran | `King Othran`; `Othran` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; released by the current short-story plan. |
 | Knurl | `Knurl` | `the-friends-i-built` | canon | unique | No reuse. Self-chosen name of one living constructed friend. |
+| Lacrixa | `Lacrixa` | `clerics-infernal-ex` | candidate | unique | No reuse. Adult living demon and Emet's former partner; the four-syllable form and `-crixa` ending distinguish it from registered Larkspur, Letha, Luz, Cassia, Draxenne, and Irix. Final prose uses only `Lacrixa`, with no surname, shortening, epithet, proper title, or alternate form. |
 | Lady Rowena Bellweather | `Lady Rowena Bellweather`; `Rowena Bellweather`; `Rowena` | `the-shape-of-mercy` | canon | unique | No reuse. Family head; “my mother” remains an ordinary role description, not a registered alias. |
 | Larkspur | `Larkspur` | `the-gentlest-terror` | canon | unique | No reuse. House Cress's dragon ally; mononym is distinct from registered dragon names and nearby Leth/Letha/Lumen forms. |
 | Lena Mercer | `Lena Mercer`; `Lena` | `realms` | canon | unique | Cal's sister; no crossover or identity relationship with any released reservation. |
@@ -189,6 +192,7 @@ for characters the prose leaves unnamed.
 | Tovan Rek / the Keeper Below | `Tovan Rek`; `Tovan`; `the Keeper Below`; `Keeper Below` | `daughter-of-the-sun` | canon | unique | All forms identify one initially centralized person; later unnamed branches diverge under the local mechanism. |
 | Trenn | `Trenn` | `the-small-moon-rose-first` | canon | unique | One road guide; replaces the released Oren form and is distinct from Orrin Pell. |
 | Tuck | `Tuck` | `realms` | canon | unique | — |
+| Udren | `Udren` | `clerics-infernal-ex` | candidate | unique | No reuse. Adult human shield fighter; distinct in initial, spelling, sound, cadence, and role from registered Ulan, Urumet, Deryn, Oren, Orrin, and Trenn. Final prose uses only `Udren`, with no surname, nickname, proper title, or alternate form. |
 | Ulan | `Ulan` | `voice-of-silence` | in-progress | unique | No reuse. Final prose uses only `Ulan` for Kethra's living caller colleague; `caller` remains a lowercase role, and no surname, nickname, title, or shortening appears. |
 | Urumet | `Urumet` | `a-little-winter-for-sale` | canon | unique | No reuse. Ice dragon and voluntary cold-work vendor; readily distinguishable from every reserved dragon-associated name and alias, including `Kharost`, `Larkspur`, `Mossback`, `Nyrzath`, `Nyr`, `Varkesh`, and the `Sleepless Majesty` forms. No title, nickname, or shortened form is used. |
 | Varkesh | `Varkesh` | `the-peace-they-could-sleep-through` | canon | unique | No unrelated reuse. One of the twelve distinct dragons and the current wearer of the shared Sleepless Majesty guise; Varkesh is a member of, but not individually identical to, the collective sovereign. |
