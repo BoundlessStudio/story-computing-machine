@@ -1,1 +1,13 @@
-{"schemaVersion":2,"slug":"the-five-minute-warranty","title":"The Five-Minute Warranty","created":"2026-08-02","stage":"prompt","status":"in-progress","canon":false,"userDisposition":"pending","publish":false,"promotionDate":null,"provenance":"pipeline"}
+{
+  "schemaVersion": 2,
+  "slug": "the-five-minute-warranty",
+  "title": "The Five-Minute Warranty",
+  "created": "2026-08-02",
+  "stage": "canon-research",
+  "status": "in-progress",
+  "canon": false,
+  "userDisposition": "pending",
+  "publish": false,
+  "promotionDate": null,
+  "provenance": "pipeline"
+}

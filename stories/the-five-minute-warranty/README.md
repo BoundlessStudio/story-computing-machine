@@ -2,7 +2,7 @@
 
 - Slug: `the-five-minute-warranty`
 - Created: 2026-08-02
-- Current stage: prompt
+- Current stage: canon-research
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -14,9 +14,9 @@ each stage. Specialist agents do not edit it. -->
 
 ## Checklist
 
-- [ ] Prompt contract captured
-- [ ] Authority snapshot recorded
-- [ ] Canon brief completed
+- [x] Prompt contract captured
+- [x] Authority snapshot recorded
+- [x] Canon brief completed
 - [ ] Story plan completed
 - [ ] Plan name check passed
 - [ ] Complete draft written

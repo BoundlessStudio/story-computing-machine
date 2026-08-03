@@ -1,37 +1,240 @@
+status: READY
+resolution_owner: coordinator
+story_slug: the-five-minute-warranty
+mode: RESEARCH_CANON
+authority_manifest: stories/the-five-minute-warranty/authority.json
+authority_base_branch: main
+authority_base_commit: f59eeb1d0ae8fbb4767475ed7e56478ca41a6703
+guard_id: 2569d1fd9d1d412c8be80990290c234c
+
 # Canon brief
 
-> Research status: PENDING
-> Resolution owner: coordinator
-> Authority manifest: `authority.json`
+No user ruling is required. Planning may proceed as a standalone, non-canon candidate. Current authority contains no goblin entry, goblin culture, goblin engineering rule, or five-minute repair mechanism. That absence is an omission, not permission to assert unrestricted world-spanning goblin capabilities.
 
 ## Hard constraints
 
-None.
+- Preserve the captured production contract: 2,500–4,000 words; close third person selected during planning; past tense; warm, high-pressure comic fantasy with sincere stakes; teen-accessible danger and non-graphic injury (`stories/the-five-minute-warranty/00-prompt.md` — `## Story controls`).
 
-## Useful established context
+- Goblins must be demonstrably capable engineers. The central result must follow from their diagnosis, design choices, material knowledge, improvisation, testing, and operation—not luck, accidental magic, or another group secretly doing the important work (`stories/the-five-minute-warranty/00-prompt.md` — `## Story controls`; `## Completion tests`).
 
-None.
+- The apparently impossible system must visibly operate in-scene. Its short lifespan must have an understandable causal basis, legible warning signs, and a trackable deadline. Failure cannot be purely random or retroactively explained as goblin incompetence (`stories/the-five-minute-warranty/00-prompt.md` — `## Story controls`; `## Assumptions`; `## Completion tests`).
 
-## Conflicts or ambiguity
+- “Anything” is controlled hyperbole for extraordinary repair and recombination under pressure, not unrestricted reality alteration, omniscience, or a guarantee that every goblin can master every system in every era (`stories/the-five-minute-warranty/00-prompt.md` — `## Assumptions`).
 
-None.
+- Scope goblin engineering to the represented crew, workshop tradition, locality, or culture. The candidate may propose broader goblin reputation as local belief, but it must not silently establish a universal biological compulsion, universal racial temperament, or shared goblin civilization across deep time.
+
+- The temporary machine must enable a durable human choice or consequence. The story cannot end merely because the machine survives its timer; people must use the purchased interval to decide or accomplish something whose consequences remain after shutdown (`stories/the-five-minute-warranty/00-prompt.md` — `## Story controls`; `## Completion tests`).
+
+- Magic, technology, and divinity are culturally applied labels for real underlying systems rather than objective universal categories. A local culture may call goblin work engineering, magic, craft, or all three, but that vocabulary cannot define all systems (`universe/rules.md` — `## System categories`; `universe/glossary.md` — `## Magic, technology, and divinity`).
+
+- Only life can use magic. A nonliving goblin-built device may store, focus, transmit, or shape living-supplied magic, but it cannot independently cast, choose, or originate magic unless the story establishes that it is alive. If it is alive or person-like, its agency, consent, injury, and identity become material (`universe/rules.md` — `## Living agency and magic`; `universe/style-guide.md` — `## Personhood and moral consequence`).
+
+- Any magical cost, emotional fuel, consent behavior, or failure law must be defined locally and applied consistently. Cost, desire, and consent have no single universal metaphysical behavior (`universe/rules.md` — `## Costs, desire, and local mechanisms`).
+
+- The setting belongs to the one physical world persisting across deep time. A new unnamed fantasy era and region are safe; a separate “goblin world” or plane cannot be asserted without additional authority (`universe/premise.md` — `## The deep-time shared world`; `universe/locations.md` — `## The world across eras`).
+
+- Similar materials, repair imagery, or emergency mechanisms do not imply a relationship to an established system. Do not connect the new machine to Qarsis, the eleven-foundation city, Cinder Annex, Hadrik’s forge, or another canon mechanism without explicit evidence (`universe/rules.md` — `## Artifacts, motifs, and folklore`; `universe/style-guide.md` — `## Continuity and evidence discipline`).
+
+- Goblins must not be treated as stupid, disposable comic bodies, biologically reckless, or useful only because humans can spend them. Humor may arise from methods, professional culture, negotiation, confidence, or the known warranty limit while preserving expertise and moral agency (`stories/the-five-minute-warranty/00-prompt.md` — `## Story controls`; `universe/style-guide.md` — `## Personhood and moral consequence`; `## Audience and content boundaries`).
+
+- This story remains `status: in-progress`, `canon: false`, and `userDisposition: pending`. Research does not promote its goblins, mechanism, setting, or events into shared canon (`stories/the-five-minute-warranty/story.json` — complete lifecycle record).
+
+## Relevant established context
+
+- Current universe authority contains no goblin character, people, faction, culture, species rule, technical tradition, location, event, or glossary term. Goblins are therefore open local invention, subject to the foundational constraints above (`universe/characters.md` — `# Recurring characters`; `universe/factions.md` — `# Factions and cultures`; `universe/glossary.md` — `# Glossary`; `universe/timeline.md` — `# Timeline`).
+
+- Deep time supports an independent fantasy-era entry point with no crossover or cosmological exposition. Different technological and magical systems may coexist, hybridize, imitate one another, or operate in different eras (`universe/premise.md` — `## The deep-time shared world`; `## Knowledge and connection`; `universe/rules.md` — `## System categories`; `universe/style-guide.md` — `## Tonal range, scale, and connection`).
+
+- *The Last Thing I Could Fix* is the closest thematic precedent. Hadrik claims he can fix anything, redesigns coercive plot armor into a transparent three-use device, discloses its limits, and accepts that an honest repair may spend itself. This does not conflict with the goblin premise, but the new story should avoid repeating its lone legendary smith, protective harness, consent ring, sacrificial rivets, or revised “fix anything” sign (`stories/the-last-thing-i-could-fix/05-story.md` — `# The Last Thing I Could Fix`).
+
+- *A Little Winter for Sale* establishes a calibrated emergency repair accepted for exactly two remaining cold strokes. Its bimetal regulator and brine exchanger are nonliving local mechanisms, and its operational figures are expressly not universal engineering rules. The new story may likewise use a measured temporary repair but should not reuse Qarsis, Urumet, its water crisis, sunwheel sacrifice, regulator tongue, or contracted-stroke structure (`universe/rules.md` — `## Qarsis mixed waterworks`; `stories/a-little-winter-for-sale/05-story.md` — `# A Little Winter for Sale`).
+
+- *The City of Eleven Foundations* demonstrates that people can reconnect incompatible-looking physical infrastructure during an emergency through tools and human-directed decisions. Its machinery remains nonliving and nonmagical, and its topology is explicitly local. This supports comprehensible engineering stakes but supplies no goblin method or reusable city mechanism (`universe/rules.md` — `## Eleven-foundation service ring and emergency topology`; `stories/the-city-of-eleven-foundations/05-story.md` — `# The City of Eleven Foundations`).
+
+- *The Friends I Built* distinguishes living craftspeople and constructed persons from nonliving apparatus. If the goblin machine appears to want, choose, learn, refuse, or suffer, planning must decide whether that is metaphor, operator behavior, or actual life rather than borrowing Knurl and Thimble’s ontology (`universe/rules.md` — `## Irix household and Cinder Annex mechanisms`; `stories/the-friends-i-built/05-story.md` — `# The Friends I Built`).
+
+- Canon repeatedly preserves local qualifiers: Qarsis engineering, the eleven-foundation emergency route, and Crown-era civic systems do not redefine other machines. The same discipline should apply to goblin engineering (`universe/rules.md` — `## Qarsis mixed waterworks`; `## Eleven-foundation service ring and emergency topology`; `## Non-agentic Crown-era civic systems`).
+
+## Conflicts versus omissions
+
+### Contradictions
+
+- No contradiction exists in the captured prompt under its stated assumptions.
+
+- A later draft would contradict `LOCKED` authority if a nonliving machine independently used magic without a living source or without being established as alive (`universe/rules.md` — `## Living agency and magic`).
+
+- A later draft would conflict with the captured contract if the machine worked by unrestricted reality alteration, failed randomly, concealed its limit until the punchline, or made goblins incompetent (`stories/the-five-minute-warranty/00-prompt.md` — `## Story controls`; `## Assumptions`).
+
+- Placing an openly ordinary magical goblin industry in the established modern-like low-magic trough would require a coherent concealment or exception. The safer course is an otherwise unplaced fantasy era (`universe/timeline.md` — `## Established era order`).
+
+### Omissions
+
+- Goblin biology, lifespan, appearance, language, naming, family structure, government, prejudice history, geographic distribution, and relationship to humans are wholly unestablished.
+
+- Goblin engineering education, guilds, tools, professional ethics, warranties, compensation, failure reporting, and safety practice are unestablished.
+
+- No authority determines whether goblin engineering is mundane, magical, hybrid, inherited, taught, culturally guarded, or individually variable.
+
+- No authority establishes a five-minute operating window, a universal goblin failure interval, or a reason temporary goblin systems expire.
+
+- The machine, emergency, desired output, incompatible components, energy source, countdown indicators, failure mode, shutdown behavior, and aftermath are unestablished.
+
+- The human choice or durable consequence enabled by the temporary solution is unestablished.
+
+- The era, locality, chronology, polity, and relationship to every admitted story are unestablished.
+
+- Thematic similarity to Hadrik’s limited repair, Qarsis’s two-stroke regulator, the eleven-foundation emergency route, or Cinder Annex improvisation is not a continuity connection.
 
 ## Unknowns
 
-None.
+- Which goblin holds the close-third viewpoint and what professional role, authority, flaw, and stake they carry.
 
-## Safe invention space
+- Whether the central team is wholly goblin or includes human clients, officials, laborers, witnesses, or apprentices.
 
-None.
+- What social belief caused anyone to underestimate goblin engineering and whether that belief is local prejudice, contractual exploitation, rivalry, or simple unfamiliarity.
+
+- What “apparently impossible” means in physical terms.
+
+- Why the repair can operate only briefly, how accurately the goblins know that interval, and whether the title’s five minutes is literal.
+
+- What warning sequence lets characters and readers measure remaining life.
+
+- Whether the terminal state is safe shutdown, controlled destruction, irreversible component consumption, or damaging failure.
+
+- What the goblins are paid, promised, risking, or refusing, and who owns the machine before and after the emergency.
+
+- Which human choice becomes possible during the temporary window and why it remains meaningful after the machine stops.
+
+- Whether injuries occur and what operational, legal, political, or relational consequences remain.
+
+- All character-facing names, aliases, proper titles, named animals, named constructs, and person-like entities.
+
+## Safe local invention space
+
+- Create a new goblin crew, workshop, guild, contract practice, and engineering vocabulary in an unnamed fantasy-era region.
+
+- Let local goblins have a strong professional reputation for making incompatible components cooperate temporarily. Present any sweeping saying about “anything” as local pride, sales language, or outsider shorthand rather than proven universal biology.
+
+- Use mundane mechanics, a locally defined magic–machine hybrid, or both. If magic participates, identify the living supplier and the nonliving focus separately.
+
+- Build the short lifespan from concrete tradeoffs: deliberately excessive tolerances, incompatible cycles, sacrificial insulation, temporary alignment, heat accumulation, material creep, contamination, resonance drift, depleted living input, or another introduced causal chain.
+
+- Give the machine staged, visible degradation so the countdown remains readable without arbitrary clock announcements.
+
+- Permit professional comedy through warranties, disclaimers, repair etiquette, competing goblin methods, unconventional materials, or exact confidence about catastrophic-looking but predicted behavior.
+
+- Invent local human–goblin relations, including distrust or exploitation, provided individual characters have agency and the narrative does not treat prejudice as accurate biological diagnosis.
+
+- Allow the five-minute solution to buy time for evacuation, disclosure, transfer of authority, destruction of an unjust lock, completion of an ordinary structural repair, or another irreversible human act. These are options, not established canon.
+
+- Keep the central mechanism separate from water regulation, plot armor, living embermoss constructs, and the eleven-foundation hydraulic route unless planning intentionally accepts the similarity burden.
+
+- Propose any reusable goblin, institutional, technical, location, or historical facts later in `06-canon-delta.md`; none are established by this brief.
+
+## Concrete recommendation
+
+Use close third on a goblin lead engineer in a new, unnamed fantasy city. During a civic emergency, their crew connects two systems their builders considered incompatible through a deliberately sacrificial interface warranted for exactly five minutes. The interface should degrade in a predictable visible sequence—such as alignment marks burning away, a flywheel losing prepared teeth, or insulating layers being consumed—so the goblins know both why it works and why it cannot last.
+
+The machine should buy a human decision-maker or group enough time to perform an irreversible ordinary act whose consequences outlive it: open an evacuation route, surrender exclusive control, publish suppressed evidence, or commit resources to a durable repair. Let the machine stop for the exact reason the goblins predicted. Resolve the immediate danger, the human choice, the goblins’ professional treatment, and the cost of the spent mechanism.
+
+Avoid a lone “fix anything” celebrity smith, protective armor, water-regulator repair, or living constructed assistant; those shapes sit closest to admitted canon stories.
 
 ## Name constraints
 
-None.
+- `stories/NAMES.md` is production memory, not canon. Its current registry reports no unresolved collision, but all unreleased reservations—including abandoned and in-progress forms—remain unavailable for casual reuse (`stories/NAMES.md` — `## Rules`; registry table; `## Known unresolved name collisions`).
 
-## Required checks after drafting
+- Canon research does not authorize character names. Planning must validate every full name, given name, mononym, nickname, alias, title used as a name, named animal, construct, machine treated as person-like, and personified collective.
 
-None.
+- Especially relevant reservations to avoid include `Hadrik`, `Aven`, `Irix`, `Ekri`, `Knurl`, `Thimble`, `Instructor Bexel`, `Tair Ked`, `Yara Mesk`, `Urumet`, and `Zadie Cleft`.
+
+- Tool-like or material-like goblin names need careful checking because existing reservations include `Knurl`, `Thimble`, `Mossback`, `Bracken`, `Rill`, `Pulsewire`, and `Kiteglass`.
+
+- `Captain` is already reserved as a character-facing name. Occupational labels such as foreman, chief engineer, inspector, contractor, or clerk may remain common nouns; if used as standalone character identities, they require validation and registration.
+
+- A purely nonliving machine name need not automatically be a character name, but a talking, choosing, personified, or ambiguously living machine must be checked and registered.
+
+- Check exact matches, aliases, close spellings, reversals, sound-alikes, and confusable forms. This premise requires no deliberate reuse.
+
+- Check new mechanism and institution terms against `universe/glossary.md` independently of the character-name gate.
+
+## Required later checks
+
+- Confirm every required and prohibited prompt element is present, including a complete resolution and a durable human choice or consequence.
+
+- Construct an engineering causality audit identifying:
+
+  1. the original system and desired output;
+  2. why ordinary repair is impossible in time;
+  3. each goblin intervention;
+  4. the energy or living power source;
+  5. why the temporary configuration works;
+  6. why its lifespan is sharply limited;
+  7. the observable countdown stages;
+  8. the predicted terminal behavior;
+  9. what remains afterward.
+
+- Confirm goblin competence is visible before, during, and after operation. Other characters may doubt them, but the prose and causal outcome must not.
+
+- Confirm the failure is predicted or bounded rather than random, and that no hidden permanent fix would make the five-minute solution irrational.
+
+- Audit universalizing language. Replace unsupported claims about “all goblins,” “goblin blood,” “every goblin machine,” or world-spanning goblin civilization with demonstrated local scope unless explicitly framed as fallible belief or comic professional boast.
+
+- If magic participates, identify the living magic user, the nonliving device’s limited role, the cost or boundary, and why the device does not independently cast.
+
+- If the machine appears sentient, decide and establish whether it is alive. Preserve personhood, consent, injury, and refusal if it is.
+
+- Verify the durable human choice is genuinely voluntary and causally enabled by the five-minute window rather than dictated by the machine or appended after the climax.
+
+- Check for accidental duplication of Hadrik’s limited plot-armor redesign, Qarsis’s two-stroke regulator repair, the eleven-foundation emergency topology, or Irix’s living constructs.
+
+- Recheck era and location claims. Avoid an unexplained openly magical industry in the established modern-like low-magic trough.
+
+- Recheck every character-facing name after planning and after final review against the complete current `stories/NAMES.md`.
+
+- Keep danger and injury non-graphic, with consequences and accountability foregrounded.
+
+- Ensure `06-canon-delta.md` presents every reusable goblin or engineering fact as proposed. Candidate completion must leave `canon: false` unless the user later explicitly authorizes promotion.
 
 ## Sources
 
-None.
+### Story authority and production contract
+
+- `stories/the-five-minute-warranty/00-prompt.md` — `## Verbatim writing prompt`; `## Story controls`; `## Assumptions`; `## Completion tests`
+- `stories/the-five-minute-warranty/story.json` — complete lifecycle record
+- `stories/the-five-minute-warranty/authority.json` — complete v2 authority inventory and admitted-story list
+- `stories/the-five-minute-warranty/handoffs.json` — current ordered handoff ledger
+- `stories/INDEX.md` — `# Story index`
+
+### Universe authority
+
+- `universe/README.md` — `## Authority order`; `## Entry format`; `## Files`
+- `universe/premise.md` — `## The deep-time shared world`; `## Memory, myth, and recoverable truth`; `## Knowledge and connection`
+- `universe/characters.md` — `# Recurring characters` (current inventory; no goblin entry)
+- `universe/factions.md` — `# Factions and cultures` (current inventory; no goblin culture or faction)
+- `universe/glossary.md` — `## Magic, technology, and divinity` (no goblin-specific term)
+- `universe/locations.md` — `## The world across eras`
+- `universe/rules.md` — `## System categories`; `## Living agency and magic`; `## Costs, desire, and local mechanisms`; `## Artifacts, motifs, and folklore`; `## Irix household and Cinder Annex mechanisms`; `## Qarsis mixed waterworks`; `## Eleven-foundation service ring and emergency topology`; `## Non-agentic Crown-era civic systems`
+- `universe/style-guide.md` — `## Personhood and moral consequence`; `## Prose defaults`; `## Tonal range, scale, and connection`; `## Audience and content boundaries`; `## Continuity and evidence discipline`
+- `universe/timeline.md` — `## Universal chronology`; `## Established era order`
+- `universe/retcons.md` — `# Retcon log` (no approved retcon relevant to goblins or engineering)
+
+### Relevant admitted canon stories
+
+- `stories/the-last-thing-i-could-fix/05-story.md` — `# The Last Thing I Could Fix`
+- `stories/a-little-winter-for-sale/05-story.md` — `# A Little Winter for Sale`
+- `stories/the-city-of-eleven-foundations/05-story.md` — `# The City of Eleven Foundations`
+- `stories/the-friends-i-built/05-story.md` — `# The Friends I Built`
+
+Their `story.json` records and checked `stories/INDEX.md` rows agree that all four are final admitted canon stories.
+
+### Production memory
+
+- `stories/NAMES.md` — `## Rules`; registry table; `## Known unresolved name collisions`
+
+### Verified but non-canonical evidence
+
+- `sources/README.md` — `# Evidence records`
+- `sources/MANIFEST.json` — verified record `S01-O`, with `authority: none`
+- `sources/records/s01-o/outline.md` — `## Magic is real`; `## Ancient technology is also real`; `## The grammar of the old solar network`; `## What most people understand`
+
+The verified source record was consulted only as inert provenance. It contains no goblin lore and cannot extend or override current universe authority.
