@@ -7,6 +7,8 @@ description: "Run the complete shared-universe short-story workflow for prompts 
 
 Use for `[WP]` unless the user requests one named stage. Default to a coherent 2,500–4,000 word story and record safe assumptions rather than stopping for low-impact ambiguity.
 
+The planning, drafting, reviewing, and final-edit skills load the shared craft package through `../../writing-guides/README.md`. Keep those repository-level instructions outside guarded story inputs and authority manifests.
+
 1. Update `main`, create `codex/story-<slug>`, and scaffold with `new-story.ps1` without overwriting an existing directory.
 2. Capture the verbatim prompt and acceptance criteria.
 3. Generate authority v2.

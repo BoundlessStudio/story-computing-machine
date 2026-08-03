@@ -28,6 +28,7 @@ Story and universe changes are refused on `main`. Local story branches run focus
 - `AGENTS.md` — workflow, lifecycle, ownership, and branch rules.
 - `.codex/agents/` — narrow specialist roles.
 - `.agents/skills/` — workflows and integrity scripts.
+- `.agents/writing-guides/` — non-canonical guidance for prose, voice, and dialogue.
 - `schemas/pipeline-contract.json` — strict shared record contract.
 - `universe/` — authoritative setting notes.
 - `stories/` — production story bundles, index, registry, and legacy attestation.
