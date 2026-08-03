@@ -2,7 +2,7 @@
 
 - Slug: `the-last-monster`
 - Created: 2026-08-03
-- Current stage: drafting
+- Current stage: draft-review
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -20,8 +20,8 @@ each stage. Specialist agents do not edit it. -->
 - [x] Story plan completed
 - [x] Plan name check passed
 - [x] Complete draft written
-- [ ] Draft review passed
-- [ ] Critical and major findings resolved
+- [x] Draft review passed
+- [x] Critical and major findings resolved
 - [ ] Final story written
 - [ ] Canon delta recorded
 - [ ] Final story review passed
