@@ -24,7 +24,7 @@ reuse. Names found only in archived reference material remain reserved too.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-08-02.
+Last reconciled: 2026-08-03.
 
 Registry baseline: every extant story was audited on 2026-07-23. The registry
 includes one-off and referential names, cover identities, titles used as names,
@@ -131,6 +131,7 @@ for characters the prose leaves unnamed.
 | Nell Mercado | `Nell Mercado`; `Nell`; `Mercado` | `the-small-moon-rose-first` | canon | unique | Her surname is used alone during the Earth return. |
 | Necessary One (local role) | `the Necessary One`; `Necessary One` | `tenth-world-lesson` | candidate | unique | No reuse. Local sacrificial storm-engine operator title temporarily applied to Ryo; never shortened to `One` or `Necessary`, and it identifies a role rather than a separate person. |
 | Nessa Vale | `Nessa Vale`; `Nessa` | rejected `the-weight-of-falling-up` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
+| Night-Sovereign Ombria | `Night-Sovereign Ombria`; `Ombria` | `what-i-hate-most` | in-progress | unique | No reuse. Adult public night-sovereign of Vantress and close-third protagonist; final forms are constrained by the plan to these two. `Night-Sovereign` and `Sovereign` remain role nouns rather than standalone aliases, and the story will not use reserved `Majesty` forms. Distinct from Olyra, Olbit, Oren, Orrin, Osket, and `Night Clerk`. |
 | Nina | `Nina` | `self-reflection` | canon | unique | — |
 | Nilo Cleft | `Nilo Cleft`; `Nilo` | `the-future-that-refused-us` | canon | unique | No unrelated reuse. Zadie's thirteen-year-old son and the prophecy's scheduled undergate casualty; the shared Cleft surname intentionally marks their parent-child relationship, `Cleft` is not used alone, and their given names and roles distinguish them. |
 | Nisha (released reference) | `Nisha` | released reservation | released | unique | Released reference form retained only as searchable production memory. |
@@ -151,6 +152,7 @@ for characters the prose leaves unnamed.
 | Priya | `Priya` | `realms` | canon | unique | — |
 | Quade | `Quade` | `the-courtesy-of-blades` | canon | unique | No reuse. Adult mutual friend and qualified bout official; final prose uses only this mononym. `friend`, `referee`, `official`, and `yardkeeper` remain lowercase role nouns rather than aliases. The clipped Q-initial form is distinct from all registered forms and from Fiora and Jasper. |
 | Queen Aurelia / the Goddess | `Queen Aurelia`; `the Goddess` | `daughter-of-the-sun` | canon | unique | Both forms identify the Daughter's dead mother; the title is cultural and does not itself prove taxonomic godhood. |
+| Queen Draxenne | `Queen Draxenne`; `Draxenne` | `what-i-hate-most` | in-progress | unique | No reuse. Adult ruler of the Cinder March and Ombria's magically powerful rival; final forms are constrained by the plan to these two. `Queen` remains a title rather than a standalone alias, and the story will not use reserved `Majesty` forms. Distinct from Drita, Dezra, Deryn, Daphne, and other D-initial reservations. |
 | Rae | `Rae`; `Red Scarf` | `the-names-on-the-cups` | canon | unique | Tess uses `RED SCARF` as Rae's label on her relationship chart. |
 | Rana Vey | `Rana Vey`; `Rana` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; released by the current short-story plan. |
 | Rhea Voss | `Rhea Voss`; `Chancellor Rhea Voss`; `Rhea`; `Voss` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; replaced by Chancellor Cythra Dhal in the current plan. |

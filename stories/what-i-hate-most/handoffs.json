@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "what-i-hate-most",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "NAME_REGISTRATION_REQUIRED",
+      "startedAt": "2026-08-03T13:31:11.4819911+00:00",
+      "completedAt": "2026-08-03T13:43:12.2227433+00:00",
+      "guardId": "461a35d7707d4829a93e5a2d7d66d898",
+      "persister": "story_architect",
+      "report": "story_slug: what-i-hate-most  \nmode: CREATE_PLAN  \nguard_id: 461a35d7707d4829a93e5a2d7d66d898  \noutput: stories/what-i-hate-most/02-story-plan.md  \nchange_report: Complete 3,989-word, five-scene plan; all acceptance checks passed; sole file changed.  \nname_registration_required: Queen Draxenne; Night-Sovereign Ombria  \nstatus: NAME_REGISTRATION_REQUIRED",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/what-i-hate-most/00-prompt.md",
+        "stories/what-i-hate-most/01-canon-brief.md",
+        "stories/what-i-hate-most/authority.json",
+        "stories/what-i-hate-most/handoffs.json",
+        "stories/what-i-hate-most/story.json"
+      ],
+      "outputs": [
+        "stories/what-i-hate-most/02-story-plan.md"
+      ],
+      "errorCode": "NAME_REGISTRATION_REQUIRED",
+      "resolutionOwner": "coordinator",
+      "resolutionQuestion": null
     }
   ]
 }
