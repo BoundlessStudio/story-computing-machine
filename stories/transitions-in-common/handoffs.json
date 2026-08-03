@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "transitions-in-common",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T15:16:53.4661570+00:00",
+      "completedAt": "2026-08-03T15:29:43.0305322+00:00",
+      "guardId": "ea9083964e104e9a9cff17b6ea83d296",
+      "persister": "story_architect",
+      "report": "status: READY\nresolutionOwner: none\nstory: `transitions-in-common`\nmode: `CREATE_PLAN`\nguardId: `ea9083964e104e9a9cff17b6ea83d296`\ncurrentStage: `canon-research`\noutput: `stories/transitions-in-common/02-story-plan.md`\nnameRegistrationRequired: `true`\nnameInventory: `Cody`; `Hugo`\nacceptanceSummary: `Created a scene-ready five-scene plan targeting 3,300 words, with YA-14+ controls, causal male-versus-female identity play, distinct body/presentation/pronoun/inward-identity axes, local transformation rules, speaker and identity-language profiles, incompatible dialogue aims and tactic changes, consequential reveal, specific apology, reciprocal boundaries, complete friendship repair, canon constraints, local inventions, and collision-audited names.`\nchangeReport: `Only stories/transitions-in-common/02-story-plan.md changed; no canon, registry, lifecycle, review, draft, final, delta, or other file was modified.`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/transitions-in-common/00-prompt.md",
+        "stories/transitions-in-common/01-canon-brief.md",
+        "stories/transitions-in-common/authority.json",
+        "stories/transitions-in-common/handoffs.json",
+        "stories/transitions-in-common/story.json"
+      ],
+      "outputs": [
+        "stories/transitions-in-common/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
