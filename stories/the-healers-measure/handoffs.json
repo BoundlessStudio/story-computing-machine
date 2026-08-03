@@ -136,6 +136,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "the-healers-measure",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T22:18:45.6947599+00:00",
+      "completedAt": "2026-08-03T22:21:13.0843197+00:00",
+      "guardId": "bddfb638669245eeb1879d6ff6e57cc7",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-healers-measure\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/the-healers-measure/03-draft.md\",\n  \"authorityManifest\": \"stories/the-healers-measure/authority.json\",\n  \"handoffLedger\": \"stories/the-healers-measure/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T22:20:05.5587047Z\",\n  \"reviewBasis\": \"Independent read-only complete draft re-review under guard bddfb638669245eeb1879d6ff6e57cc7 against the captured prompt, in-progress lifecycle record, canon brief, scene-ready plan, revised 3,858-word draft, review history through pass 1, authority inventory captured at base commit c84db9d381f804d4b7ab4e09c9d49c7345c08ba2, ordered handoff ledger through completed sequence 5, and current complete character-name registry. Verified each prior finding against the revised prose and then re-audited the complete draft for prompt fulfillment, chronology, spatial and causal clarity, partial-brace and full-load behavior, sixty-heartbeat tracking, false-branch timing, courtyard clearance, living magical agency, non-agentic foci, local scope and costs, healing limits, consent, attacker personhood and custody, Teen injury treatment, close-third past-tense control, pacing, dialogue distinction and tactic changes, prose readiness, and exact registered name use. The captured universe authority and admitted canon-story inventory remain unchanged. No final delta applies to REVIEW_DRAFT.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"THM-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-healers-measure/03-draft.md:115-181, the revised prose identifies Vekran's initial working as a lower-load partial brace that carries only the sliding beam while intact posts and the divided knot continue bearing most roof pressure. Lines 227 and 259 explicitly defer the approximately sixty-heartbeat crisis limit until the final map. Lines 303-361 then begin the full four-line load at sixty and track it through forty-six, thirty-four, twenty-eight, and eighteen heartbeats before the immediate final redirection. The examination, consent negotiations, interruption, and failed apprentice hold therefore occur before the declared full-load countdown, while the mapped cut and release fit coherently inside it.\"\n    },\n    {\n      \"id\": \"THM-DRAFT-002\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-healers-measure/03-draft.md:243, the caster now defines one exact cycle: the false branch begins crossing on beat one, covers the living line on beats two and three, clears on four, and leaves a gap until the next tightening. Lines 325-355 follow that rule exactly: tightening begins, the caster calls one and movement, calls two and stops Ruva as the branch crosses, holds her through three, then calls four, clear, and now. Ruva's abort and subsequent safe parting are causally legible, and the caster's cooperation remains indispensable.\"\n    },\n    {\n      \"id\": \"THM-DRAFT-003\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-healers-measure/03-draft.md:95, Ruva and the two mobile patients rock the wedged wheel free, move the driver and injured passenger through the rear gate, shove the cart behind the stone wall, and explicitly leave the strip from the infirmary doorway past the trough empty. Lines 361-365 direct the released roof load into that previously cleared strip and show the debris stopping short of the cart behind the wall. The cracked axle remains accounted for in the aftermath.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Read-only re-review passed; no files changed. All three pass-1 findings are resolved without regression. The revised draft distinguishes Vekran's draining partial brace from the final full crisis load, starts and tracks the sixty-heartbeat limit at the exact transition to all four roof lines, and completes the map, turn, abort, parting, and redirection with eighteen heartbeats remaining. Its false-branch rule and performed count now align exactly, preserving both Ruva's refusal of a blind cut and the caster's consequential agency. The medicine cart, injured evacuees, and redirection path are established before the climax. The complete story remains prompt-complete, canon-compatible, locally bounded, causally coherent, Teen, and ready for final editing. Vekran's martial and magical mastery remains credible and costly; Ruva succeeds through integrated healing judgment and narrow apprentice skills rather than effortless combat mastery; living practitioners supply every magical act while iron, chalk, blades, braces, the clasp, and architecture remain inert foci. Healing remains limited and requires ordinary care, consent is active and revisited, the attacker survives without absolution and enters custody, injuries and property damage persist, dialogue strategies remain distinct under pressure, and the ending preserves Ruva's vocation within her continuing apprenticeship. Only the registered character-facing forms Ruva and Vekran appear. No unresolved finding or user ruling remains; certification eligibility remains false because this is a draft review rather than the release-facing final gate.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-healers-measure/00-prompt.md",
+        "stories/the-healers-measure/01-canon-brief.md",
+        "stories/the-healers-measure/02-story-plan.md",
+        "stories/the-healers-measure/03-draft.md",
+        "stories/the-healers-measure/04-review.md",
+        "stories/the-healers-measure/authority.json",
+        "stories/the-healers-measure/handoffs.json",
+        "stories/the-healers-measure/story.json"
+      ],
+      "outputs": [
+        "stories/the-healers-measure/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
