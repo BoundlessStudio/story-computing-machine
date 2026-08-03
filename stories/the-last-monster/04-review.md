@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/the-last-monster/05-story.md`
-- Review pass: 2
-- Verdict: REVISE
+- Review pass: 3
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-03T08:59:26.0618769Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-03T09:08:54.8407235Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -128,5 +128,58 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Final prose is prompt-complete, canon-compatible, causally coherent, non-graphic, and prose-ready. Its valid release frontmatter matches the title, slug, and creation date; its approximately 3,307 prose words preserve close second person and present tense; material wear and wounds establish unmeasured duration without altered chronology; observable behavior repeatedly corrects unstable interpretation; varied inhabitants demonstrate learned fear through warnings, evacuation, barricades, and protected dependents; and the airflow, spillway, bypass, guardian pause, levered grate, explicit daylight exit, restraint, confession, and offer of assistance form a complete physical and moral chain. TLM-DRAFT-001 is precisely resolved without regression. Salken appears exactly once, no other character-facing form exists, the final inventory is exhaustive, None is the correct empty reviewed-prose allowlist, and story-names/3 passes cleanly. The delta remains proposed-only, unpromoted, locally bounded, non-taxonomic, and conflict-free; its other twenty items are prose-supported with explicit dependencies and suitable smallest targets. Certification is withheld because TLM-03 imports an unestablished sleep-disruption cause, TLM-23 inaccurately denies ordinary technological mechanics, and TLM-14 does not align its story-local disposition with its suggested target. These are production-artifact repairs requiring no user ruling, retcon, or prose rewrite. No repository files were changed."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "the-last-monster",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/the-last-monster/05-story.md",
+  "authorityManifest": "stories/the-last-monster/authority.json",
+  "handoffLedger": "stories/the-last-monster/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-03T09:08:54.8407235Z",
+  "reviewBasis": "Independent read-only final re-review under guard 91da7299ae074ef787dd276db94a2384 of the unchanged release-facing story and revised proposed canon delta against the captured prompt, final-review lifecycle record, canon brief, revised plan, source draft, review history through passes 1 and 2, verified authority manifest at base commit a4c69f8211a7df39c364c6a720723d0b1c1e3e0b, ordered handoff ledger through completed sequence 8, and current full name registry. Git checkpoint comparison confirms 05-story.md is unchanged from the CREATE_FINAL checkpoint; the delta-only revision changes TLM-03, TLM-14, and TLM-23. Rechecked immutable frontmatter, prompt fulfillment, close-second present prose, chronology, causality, physical escape, perception discipline, mature-teen boundaries, agency, accountability, current LOCKED/CANON authority, and the five material admitted precedents: Realms, The Small Moon Rose First, The Shape of Mercy, The Gentlest Terror, and Daughter of the Sun. Audited all 23 unique sequential delta rows for final-prose support, local qualifiers, dependencies, dispositions, smallest targets, proposed-only posture, and absence of promotion, crossover, or universalization. Authority verification passed, the eight-entry handoff ledger is release-ready with no unresolved errors, and the strict Final story-names/3 gate passed at 2026-08-03T09:08:33.4309084+00:00 with zero warnings and zero errors.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "TLM-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves the pass-2 repair at stories/the-last-monster/05-story.md:139: the thrown rope catches the shoulder-hung lantern, tears its strap at the iron loop, and sends it toward the moss-hung opening before the escaping figure takes it. Line 153 locates the abandoned failing light beside the opening, maintaining explicit continuity from the fastening at line 19 through recovery at line 159."
+    },
+    {
+      "id": "TLM-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/the-last-monster/06-canon-delta.md:34, TLM-03 now limits Salken's deterioration to final-prose-supported deprivation, injury, isolation, darkness, and trauma-conditioned hypervigilance; unsupported sleep disruption is removed while the agency, nonmagical, non-diagnostic, and local qualifiers remain intact. At line 54, TLM-23 now affirmatively preserves ordinary nonliving architecture, tools, and physical mechanics, excludes only magical, divine, extraordinary established-system, universal, and crossover explanations, and narrows its dependencies to the rows supporting those mechanism boundaries."
+    },
+    {
+      "id": "TLM-FINAL-002",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/the-last-monster/06-canon-delta.md:45, TLM-14 retains its story-causal disposition, exact ordinary-mechanics qualifiers, and dependencies on TLM-10 and TLM-12 while its smallest target is now explicitly No universe write. The disposition and target are aligned."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Final re-review passed. The unchanged approximately 3,307-word story retains valid title, slug, and creation-date frontmatter; sustained close second person and present tense; material evidence of unmeasured confinement; nonmagical deprivation- and trauma-based perceptual deterioration; observable learned fear across warnings, retreat, barricades, evacuation, and protected dependents; a mechanically legible airflow, bypass, rope, lantern, grate, and lever chain; non-graphic consequential violence; a deliberate humane pause; explicit daylight escape; and restraint, confession, assistance, and accountability without absolution. TLM-DRAFT-001 remains resolved. The revised delta resolves TLM-FINAL-001 and TLM-FINAL-002 without changing prose or introducing facts: TLM-03 is evidence-bounded, TLM-14 is correctly story-local with no universe write, and TLM-23 preserves ordinary mechanics while excluding unsupported extraordinary explanations. All 23 rows remain unique, sequential, proposed-only, locally qualified, dependency-complete, and assigned appropriate dispositions and targets. The final character-facing inventory contains only the single registered Salken form, which appears exactly once; all other presences remain unnamed, None is the correct empty three-column non-character allowlist, and the strict Final name gate passes cleanly. Authority remains none, no promotion or retcon is authorized, no crossover or universal dungeon taxonomy is asserted, no unresolved finding or user ruling remains, and no repository files were changed."
 }
 END_REVIEW_PASS_PAYLOAD

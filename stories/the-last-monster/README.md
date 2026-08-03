@@ -21,10 +21,10 @@ each stage. Specialist agents do not edit it. -->
 - [x] Plan name check passed
 - [x] Complete draft written
 - [x] Draft review passed
-- [ ] Critical and major findings resolved
+- [x] Critical and major findings resolved
 - [x] Final story written
 - [x] Canon delta recorded
-- [ ] Final story review passed
+- [x] Final story review passed
 - [ ] Final name check passed
 - [ ] Name registry updated
 - [ ] Release certificate issued
