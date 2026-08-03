@@ -98,6 +98,12 @@ The 24 stories named in `stories/legacy-acceptance.json` use `provenance: legacy
 
 Read `stories/NAMES.md` before proposing any character-facing name. Register planned names after planning and reconcile them after final review. Check exact matches, aliases, close spellings, reversals, and confusable forms. Reuse requires an intentional story reason and documented identity relationship. The coordinator alone edits the registry. Abandoned rows remain searchable unless explicitly released.
 
+## Writing guidance
+
+`universe/style-guide.md` remains the compact binding policy layer for narrative tone, audience boundaries, personhood, and continuity. Practical, non-canonical craft guidance lives in `.agents/writing-guides/`; read its `README.md` for precedence and stage routing. Do not add craft manuals to the universe authority inventory or treat them as in-world facts.
+
+The story architect records a compact story-specific style profile in `02-story-plan.md`, including dialogue profiles for major speakers and incompatible conversational aims for dialogue-bearing scenes. The prose writer and story editor consult the writing, voice, and dialogue guides plus their operational aids. The continuity critic uses the dialogue review checklist to judge material prose-readiness problems, not to enforce isolated preferences or surface-feature quotas mechanically. Explicit prompt controls and intentional story-specific choices govern within current canon and the binding universe constraints.
+
 ## Canon and promotion
 
 Canon promotion requires explicit user authorization for one named story. Recheck the story against current `LOCKED` and `CANON` entries. Give every concrete delta item a disposition and target. Promote only into the smallest topical scope, preserve local qualifiers, and record story provenance. A discovered conflict with `LOCKED` canon stops for a user ruling; do not infer a retcon.
