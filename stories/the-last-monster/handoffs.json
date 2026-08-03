@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 3,
+  "storySlug": "the-last-monster",
+  "entries": [
+    {
+      "sequence": 1,
+      "story": "the-last-monster",
+      "actor": "canon_librarian",
+      "mode": "RESEARCH_CANON",
+      "status": "READY",
+      "startedAt": "2026-08-03T07:45:44.6477321+00:00",
+      "completedAt": "2026-08-03T07:58:13.6048861+00:00",
+      "guardId": "a0eb2860f0204217867eebacd89308b3",
+      "persister": "coordinator",
+      "report": "status: READY  \nresolution_owner: none  \nstory_slug: `the-last-monster`  \nmode: `RESEARCH_CANON`  \nauthority_manifest: `stories/the-last-monster/authority.json`  \nauthority_base_branch: `main`  \nauthority_base_commit: `a4c69f8211a7df39c364c6a720723d0b1c1e3e0b`  \nauthority_captured_at: `2026-08-03T07:45:09.5938191+00:00`  \nguard_id: `a0eb2860f0204217867eebacd89308b3`  \ncurrent_stage: `prompt`  \n\n# Canon brief\n\nNo user ruling is required. The prompt is compatible with current authority when the dungeon, its inhabitants, and any perception-altering pressure are bounded local inventions rather than extensions of an established crossing system or universal “monster” taxonomy.\n\n## Hard constraints\n\n- The story occurs somewhere in the one persistent physical world shared across deep time. An unnamed fantasy era and region are safe; the dungeon need not connect to Ravel, Deepmarket, the Glass-Sea era, or any known location (`universe/premise.md` — `## The deep-time shared world`; `universe/locations.md` — `## The world across eras`).\n\n- The prompt contract controls form and content: 2,500–4,000 words, close second person, present tense, claustrophobic dark fantasy and psychological horror with a humane core, and mature-teen non-graphic violence (`stories/the-last-monster/00-prompt.md` — `## Story controls`).\n\n- The story must dramatize a time-lost dungeon survivor, deteriorating perception, inability to distinguish monsters from adventurers, indiscriminate lethal violence, creatures that have learned to fear the survivor, a concrete escape attempt, and a resolved immediate escape outcome (`stories/the-last-monster/00-prompt.md` — `## Story controls`; `## Completion tests`).\n\n- The confusion must arise from prolonged exposure, deprivation, trauma, or a clearly bounded local environmental mechanism. It cannot frame mental illness as innate evil, erase the protagonist’s moral agency, or make violence consequence-free (`stories/the-last-monster/00-prompt.md` — `## Prohibited elements`; `## Assumptions`; `universe/style-guide.md` — `## Personhood and moral consequence`; `## Audience and content boundaries`).\n\n- Violence and death may be sustained and consequential but must remain non-graphic, emphasizing fear, aftermath, choice, and responsibility rather than gore or spectacle (`universe/style-guide.md` — `## Audience and content boundaries`).\n\n- The ending cannot declare the story a dream, dismiss the victims as unreal, or use an arbitrary hallucination reveal to patch causality. Evidence, chronology, and consequences must remain coherent even where victim identity stays uncertain (`stories/the-last-monster/00-prompt.md` — `## Prohibited elements`; `universe/style-guide.md` — `## Continuity and evidence discipline`).\n\n- If the dungeon or an environmental force uses magic, only life may be the magic user. Nonliving architecture, traps, relics, doors, or mechanisms may store, focus, transmit, or shape living-supplied magic but cannot independently cast unless the story establishes that they are alive (`universe/rules.md` — `## Living agency and magic`).\n\n- Any magical perception distortion, cost, desire response, consent behavior, time effect, or identity effect must be local and consistently demonstrated. Canon supplies no universal madness, memory, dungeon, monster, or time-loss mechanism (`universe/rules.md` — `## System categories`; `## Costs, desire, and local mechanisms`; `## Memory, transformation, copies, and branches`).\n\n- “Monster” is not an established objective species or moral category. The admitted corpus uses the word only as moral or metaphorical framing, while canonical nonhuman beings receive story-specific agency and mechanisms. The new story may use “monster” as the protagonist’s unstable or cultural label, but must not establish that appearance or species determines guilt (`stories/daughter-of-the-sun/05-story.md` — `# Daughter of the Sun`; `stories/the-gentlest-terror/05-story.md` — `# The Gentlest Terror`; `stories/the-shape-of-mercy/05-story.md` — `# The Shape of Mercy`).\n\n## Relevant established context\n\n- The full manifest-admitted story corpus contains no literal dungeon, labyrinth, or adventurer precedent. That absence leaves the dungeon open for local invention; it does not establish a universal dungeon ecology or rule.\n\n- `Realms` is the nearest location-and-escape precedent, but it is not a dungeon. The Queen Street seam, exit tokens, timed return windows, Deepmarket, living shops, memory toll, and route-stranding behavior are one bounded crossing system. Reusing any of those terms or mechanisms would create a continuity burden; superficial similarities such as tunnels, doors, hostile organisms, or being unable to return do not establish a connection (`universe/locations.md` — `## Queen Street crossing complex`; `## Deepmarket`; `universe/rules.md` — `## Queen Street living seam and route tokens`; `## Deepmarket desire pricing and stated memory toll`; `stories/realms/05-story.md` — `# Realms`).\n\n- `The Small Moon Rose First` establishes a survivor who endured 617 days elsewhere while eleven seconds passed at the modern-like departure point. Nell returned half-starved, scarred, hypervigilant, sleeping beneath a table and later hiding food. This supports humane treatment of long-duration survival trauma, but the Glass Gate’s temporal-anchor behavior is explicitly local and cannot explain this dungeon without an intentional crossover (`stories/the-small-moon-rose-first/05-story.md` — `## Day 617`; `## February 18`; `## One Year After Nell Returned`; `universe/rules.md` — `## Witnessed Glass Gate operation`).\n\n- `The Shape of Mercy` distinguishes a stormhart’s own terror, hunger, rage, and desire from an imposed command to kill. Fear can blur a frightened person’s judgment, but Phoebe’s ability to separate those impulses is her local beast-affinity faculty, not a perception power available to this protagonist (`stories/the-shape-of-mercy/05-story.md` — `# The Shape of Mercy`; `universe/rules.md` — `## Bellweather household faculties`; `## Garran's command-bonds and witnessed stormhart`).\n\n- `The Gentlest Terror` establishes that a physically frightening creature may be gentle, social, and morally independent, and explicitly criticizes using a “monster’s face” as a political instrument. This is thematic precedent, not shared dragon or monster biology (`stories/the-gentlest-terror/05-story.md` — `# The Gentlest Terror`).\n\n- `Daughter of the Sun` refuses to flatten a person responsible for mass death into a simple monster whose label removes grief or moral complexity. The new survivor may be terrifying and culpable without being reduced to innate evil or automatically absolved by impairment (`stories/daughter-of-the-sun/05-story.md` — `# Daughter of the Sun`).\n\n## Conflicts or ambiguity\n\n- **No present contradiction:** current canon does not prohibit a dungeon, local dungeon creatures, adventuring parties, survival-induced perceptual collapse, or a survivor feared by other inhabitants.\n\n- **Omission, not contradiction:** canon defines no dungeon origin, ecology, intelligence hierarchy, adventurer culture, map logic, respawn rule, loot economy, or objective monster taxonomy. These may be invented locally but cannot be presented as already established universe-wide lore.\n\n- **Omission, not contradiction:** canon supplies no environmental pressure that causes this protagonist’s confusion. Deprivation and trauma are already authorized prompt assumptions; any supernatural addition must be newly defined and bounded.\n\n- **Omission, not contradiction:** the survivor’s actual elapsed time, age, identity, original party, number of victims, and the human/nonhuman status of any victim are unknown.\n\n- **Conditional contradiction:** making an ordinary nonliving dungeon independently cast perception magic would conflict with the locked living-agency rule unless the dungeon is established as alive or the magic has a living source.\n\n- **Conditional contradiction:** declaring the dungeon part of the Queen Street Realms, the Glass Gate network, Ravel, or another established system solely because it has doors, tunnels, time loss, or route failure would violate continuity and evidence discipline.\n\n- **Conditional contradiction:** a final reveal that all violence was dreamed, simulated without consequence, or committed against unreal projections would violate the prompt and continuity requirements.\n\n- The verified archived `S03` version of `Realms` contains additional details absent from promoted authority, including the Bone Orchard and broader Runner claims. It has `authority: none`; none of those details may be imported as canon (`sources/README.md` — `# Evidence records`; `sources/MANIFEST.json` — record `S03`; `sources/records/s03/Realms.md` — complete inert record).\n\n## Unknowns\n\n- The dungeon’s era, region, builders, original purpose, age, depth, geometry, current condition, and relationship to the surface.\n\n- Whether the protagonist is merely unable to count elapsed time or has experienced an actual chronological anomaly.\n\n- The protagonist’s name, age, gender, origin, profession, equipment, original companions, prior morality, and exact route into the dungeon.\n\n- Whether deteriorating perception is entirely physiological and traumatic or includes a local toxin, organism, curse, magical effect, or sensory mismatch.\n\n- The creature populations’ intelligence, languages, communities, diet, territorial behavior, and reasons for fearing the survivor.\n\n- How creatures communicate or learn the warning, and whether their shared avoidance is observation, scent, sound, marks, rumor, or another local behavior.\n\n- Which killed beings were monsters, adventurers, neither, or unknowable. The ending may preserve some uncertainty while still resolving escape.\n\n- The physical exit mechanism, the survivor’s condition on reaching it, and whether anyone outside recognizes or restrains them.\n\n## Safe local invention space\n\n- Create an independent dungeon in an unnamed fantasy era of the shared world, with no crossover or cosmological exposition.\n\n- Invent the dungeon’s architecture, local history, traps, ecology, factions, monster labels, adventuring practice, navigation hazards, and surface entrance. Keep all claims geographically and culturally local.\n\n- Use deprivation, darkness, infection, sleep loss, malnutrition, isolation, trauma, or ordinary sensory ambiguity as the principal cause of confusion. A bounded biological or magical environmental effect is also safe if introduced early, given observable rules, and assigned a valid living source where magic is involved.\n\n- Give dungeon creatures individual or communal agency. They may hide, redirect young, leave warnings, imitate corpses, abandon feeding grounds, or create escape corridors in response to the survivor. Their fear should be demonstrated through behavior rather than asserted by the narrator.\n\n- Let “monster” and “adventurer” be unstable viewpoint categories. Concrete details—gear, posture, voices, wounds, hands, teeth, light, armor, or scent—may support multiple readings without an omniscient answer.\n\n- Invent a material escape trail such as airflow, water gradient, root growth, discarded rope, repeated creature migration, bells, or changing masonry. Avoid borrowing Queen Street tokens, Glass Gate anchors, Gate Cant, Deepmarket pricing, or Ravel identity-lines.\n\n- Resolve the escape while leaving emotional and moral consequences open. Reaching daylight, a surface gate, or an inhabited threshold is enough if the text clearly establishes whether the survivor exits.\n\n## Concrete planning recommendation\n\nUse a self-contained dungeon with no established-system crossover. Open after the survivor’s violence has already changed the ecology. Give the escape attempt one objective physical method—following airflow, water, or the creatures’ evacuation route—so the plot advances even as perception fails.\n\nBuild the midpoint around evidence that dungeon inhabitants coordinate around the survivor: abandoned nests, warning marks, deliberate silence, or bodies moved out of their path. In the climax, place one visibly terrified being between the survivor and the usable exit route. A pause, failed attack, or decision to follow rather than strike can provide the humane turn without proving what every earlier victim was. End with the immediate escape question answered and the survivor’s culpability, trauma, and uncertain victim record still real.\n\n## Name constraints\n\n- `stories/NAMES.md` is production memory, not canon. It currently reports no unresolved collision, but every unreleased reserved form remains unavailable for casual reuse.\n\n- The prompt supplies no character-facing name. An unnamed second-person protagonist is safe and well suited to the requested POV.\n\n- If the protagonist, an adventurer, creature, party, dungeon, deity, named weapon, animal, construct, or title used as an identity receives a character-facing name, planning must validate and register every full form, shortening, nickname, alias, and title.\n\n- Particularly relevant unavailable abandoned-production reservations are `the Quiet Party`, `Quiet Party`, `Veda Crake`, `Veda`, `Osket Firth`, `Osket`, `Pim Fallow`, and `Pim`. Their removed story establishes no canon, but the names remain reserved (`stories/NAMES.md` — registry rows for those forms).\n\n- Do not use `Runner`, `Exit Witness`, `Realms`, `Deepmarket`, or `Gate Cant` as generic dungeon terminology; they are established local terms for other systems (`universe/glossary.md` — `## Realms`; `## Runner`; `## Exit Witness`; `## Deepmarket`; `## Gate Cant`).\n\n- Lowercase `monster` and `adventurer` may remain common nouns. If `the Last Monster` becomes a proper standalone identity or alias inside the prose, it requires name validation and registration; the working title alone does not create that identity.\n\n- Recheck exact matches, aliases, close spellings, reversals, sound-alikes, and confusable forms after planning and again after final review.\n\n## Required later checks\n\n- **Planning:** establish one coherent local cause for perceptual deterioration and one concrete, foreshadowed escape method.\n\n- **Planning:** track enough elapsed-time evidence—food, wounds, gear wear, marks, sleep, or bodily decline—to support “time-lost” without claiming an unestablished chronology mechanism.\n\n- **Drafting:** preserve close second-person present tense and keep externally verifiable detail distinct from the protagonist’s uncertain interpretation.\n\n- **Drafting:** show the creatures’ learned fear through repeated causal behavior, not a late explanatory statement.\n\n- **Drafting:** keep every violent encounter non-graphic and consequential. The protagonist’s impairment may explain judgment failure but must not turn killing into spectacle, proof of innate evil, or automatic absolution.\n\n- **Continuity review:** verify that no dungeon feature has silently borrowed Queen Street, Deepmarket, Glass Gate, Ravel, Bellweather, or Ersene mechanics or terminology.\n\n- **Continuity review:** if magic appears, identify its living user or source and the nonliving role of every focus, trap, door, or architectural mechanism.\n\n- **Continuity review:** confirm that the immediate escape question is explicitly resolved and that no dream, simulation, or unreal-victim reveal erases consequences.\n\n- **Name gates:** validate all character-facing names and aliases after planning and reconcile them after final review.\n\n- **Canon delta:** record reusable dungeon, culture, creature, location, or mechanism facts as proposed local additions only; do not describe omissions as existing canon or generalize one dungeon into a world rule.\n\n## Sources\n\n### Story authority and production contract\n\n- `stories/the-last-monster/00-prompt.md` — `## Verbatim writing prompt`; `## Story controls`; `## Assumptions`; `## Completion tests`\n- `stories/the-last-monster/story.json` — complete lifecycle record\n- `stories/the-last-monster/authority.json` — complete v2 authority inventory, base branch, base commit, universe files, and admitted canon stories\n- `stories/the-last-monster/handoffs.json` — current ordered handoff ledger\n\n### Universe authority\n\n- `universe/README.md` — `## Authority order`; `## Files`\n- `universe/premise.md` — `## The deep-time shared world`; `## Memory, myth, and recoverable truth`; `## Knowledge and connection`\n- `universe/locations.md` — `## The world across eras`; `## Queen Street crossing complex`; `## Deepmarket`\n- `universe/rules.md` — `## System categories`; `## Living agency and magic`; `## Costs, desire, and local mechanisms`; `## Memory, transformation, copies, and branches`; `## Portals and crossing systems`; `## Witnessed Glass Gate operation`; `## Queen Street living seam and route tokens`; `## Deepmarket desire pricing and stated memory toll`; `## Bellweather household faculties`; `## Garran's command-bonds and witnessed stormhart`\n- `universe/glossary.md` — `## Magic, technology, and divinity`; `## Gate Cant`; `## Realms`; `## Runner`; `## Exit Witness`; `## Deepmarket`\n- `universe/style-guide.md` — `## Personhood and moral consequence`; `## Prose defaults`; `## Tonal range, scale, and connection`; `## Audience and content boundaries`; `## Continuity and evidence discipline`\n- `universe/retcons.md` — `# Retcon log` (no approved retcon relevant to this prompt)\n\n### Relevant admitted canon stories\n\n- `stories/realms/05-story.md` — `# Realms`\n- `stories/the-small-moon-rose-first/05-story.md` — `## Day 617`; `## February 18`; `## One Year After Nell Returned`\n- `stories/the-shape-of-mercy/05-story.md` — `# The Shape of Mercy`\n- `stories/the-gentlest-terror/05-story.md` — `# The Gentlest Terror`\n- `stories/daughter-of-the-sun/05-story.md` — `# Daughter of the Sun`\n\nAll 24 stories admitted by `authority.json` were checked as final canon records; the entries above are the material dungeon, survival, creature-fear, perception, and “monster” precedents.\n\n### Production memory and inert evidence\n\n- `stories/NAMES.md` — `## Rules`; registry table; `## Known unresolved name collisions`\n- `sources/README.md` — `# Evidence records`\n- `sources/MANIFEST.json` — verified local record `S03`, with `authority: none`\n- `sources/records/s03/Realms.md` — complete verified but non-canonical archived record; consulted only to exclude unpromoted details from reliance\n",
+      "inputs": [
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/01-canon-brief.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "the-last-monster",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T07:58:57.9543599+00:00",
+      "completedAt": "2026-08-03T08:19:19.8429972+00:00",
+      "guardId": "0fd884a00c3a4599889bf7cbbec3dbbf",
+      "persister": "story_architect",
+      "report": "status: READY  \nstory_slug: `the-last-monster`  \nmode: `CREATE_PLAN`  \nguard_id: `0fd884a00c3a4599889bf7cbbec3dbbf`  \noutput: `stories/the-last-monster/02-story-plan.md`  \ninputs: `00-prompt.md`, `story.json`, `01-canon-brief.md`, `authority.json`, `handoffs.json`, `stories/NAMES.md`  \nsummary: Created a 3,955-word scene-ready plan with causal scenes, close-second present, nonmagical deprivation/trauma-based sensory collapse, airflow-guided creature evacuation, learned fear through behavior, a decisive humane pause, explicit escape, accountability, constraints, reversals, local inventions, and ending image.  \nname inventory: Unnamed protagonist; unnamed lantern-bearer; unnamed dungeon inhabitants; unnamed guardian and dependent; two unnamed spillway figures; unnamed surface searchers. No character-facing names or aliases introduced; complete collision review passes.  \nrisks: Victim identities intentionally remain partly uncertain; drafting must preserve observable evidence, non-graphic violence, and explicit responsibility without converting ambiguity into absolution.  \nacceptance confirmation: Only `stories/the-last-monster/02-story-plan.md` was modified; all assigned requirements are covered and no canon, registry, metadata, prose, or other files were changed.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-last-monster",
+      "actor": "story_architect",
+      "mode": "REVISE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:21:31.9396702+00:00",
+      "completedAt": "2026-08-03T08:26:06.7083621+00:00",
+      "guardId": "985e2028c1f14b11868b03d46ec0aeaa",
+      "persister": "story_architect",
+      "report": "status: READY  \nstory_slug: `the-last-monster`  \nmode: `REVISE_PLAN`  \nguard_id: `985e2028c1f14b11868b03d46ec0aeaa`  \noutput: `stories/the-last-monster/02-story-plan.md`  \ninputs: `00-prompt.md`, `story.json`, `01-canon-brief.md`, `02-story-plan.md`, `04-review.md`, `authority.json`, `handoffs.json`, `stories/NAMES.md`  \nchange summary: Introduced protagonist mononym `Salken`; preserved close-second `you`; added one ending recognition where an unnamed searcher speaks `Salken`; updated the Name check and coordinator reservation action without changing story logic.  \nexact name inventory: `Salken` only. All other cast, groups, creatures, locations, and contextual descriptions remain unnamed and unreserved.  \ncollision analysis: No exact, case-insensitive, alias, sound-alike, or reversal match. Nearest confusable `Kelan` remains distinguishable by length, initial sound, consonant order/cluster, stressed vowel, silhouette, and cadence (`SAL-ken` versus `KEL-an`). Other S-initial forms are clearly distinct.  \nacceptance confirmation: Only `stories/the-last-monster/02-story-plan.md` changed; the revised 3,990-word plan reserves exactly `Salken`, introduces no other character-facing form, and preserves all existing plot, canon, POV, and ending requirements.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "the-last-monster",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:26:51.2154921+00:00",
+      "completedAt": "2026-08-03T08:33:21.7739382+00:00",
+      "guardId": "89511fb8e07045f88846ebadd8300669",
+      "persister": "prose_writer",
+      "report": "status: READY  \nstory_slug: `the-last-monster`  \nmode: `CREATE_DRAFT`  \nguard_id: `89511fb8e07045f88846ebadd8300669`  \noutput: `stories/the-last-monster/03-draft.md`  \ninputs: `stories/the-last-monster/00-prompt.md`, `stories/the-last-monster/story.json`, `stories/the-last-monster/01-canon-brief.md`, `stories/the-last-monster/02-story-plan.md`, `stories/the-last-monster/authority.json`, `stories/the-last-monster/handoffs.json`, `stories/NAMES.md`  \nword_count: 3,275 prose words  \nPOV/tense: close second person, present tense  \nname inventory: `Salken` exactly once, in direct address near the ending; no other character-facing names or aliases  \ncausal/prompt coverage: Complete seven-scene chain from indiscriminate killing through airflow-led evacuation, learned creature fear, spillway relapse, deliberate humane pause, cooperative ascent, explicit daylight escape, restraint, confession, and accountability without absolution.  \ncanon check: PASS; deterioration is entirely nonmagical and deprivation/trauma-based, evidence precedes unstable interpretation, violence is non-graphic and consequential, and no crossover, universal rule, or prohibited terminology was introduced.  \nstale_precondition: none  \nacceptance confirmation: Only `stories/the-last-monster/03-draft.md` was modified; the complete 2,500–4,000-word draft satisfies the assigned plan and acceptance criteria.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "the-last-monster",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:33:52.4683391+00:00",
+      "completedAt": "2026-08-03T08:40:37.9667492+00:00",
+      "guardId": "76f65c1e3b63428d907edfa2417c670b",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD and END_REVIEW_PASS_PAYLOAD, exactly as returned by the reviewer. -->\n\n### Pass 1 — draft review\n\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-last-monster\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/the-last-monster/03-draft.md\",\n  \"authorityManifest\": \"stories/the-last-monster/authority.json\",\n  \"handoffLedger\": \"stories/the-last-monster/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T08:37:57.1989247Z\",\n  \"reviewBasis\": \"Independent read-only complete-draft review under guard 76f65c1e3b63428d907edfa2417c670b against the captured prompt, drafting-stage lifecycle record, canon brief, revised scene-ready plan, pending pass-1 review scaffold, authority inventory captured at base commit a4c69f8211a7df39c364c6a720723d0b1c1e3e0b, ordered handoff ledger through completed sequence 4, and current full character-name registry. Rechecked current LOCKED/CANON universe authority and the five material admitted precedents identified by the brief: Realms, The Small Moon Rose First, The Shape of Mercy, The Gentlest Terror, and Daughter of the Sun. The audit covered prompt fulfillment, close-second present narration, elapsed-time evidence, scene causality, learned creature fear, physical escape mechanics, observable evidence versus unstable interpretation, nonmagical local scope, mature-teen violence boundaries, moral agency and accountability, exact single use of Salken, prose and pacing readiness, and exclusion of crossover, dream, simulation, and unreal-victim devices.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 1\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [\n    {\n      \"id\": \"TLM-DRAFT-001\",\n      \"severity\": \"Minor\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"physical action continuity\",\n      \"locations\": [\n        \"stories/the-last-monster/03-draft.md:19\",\n        \"stories/the-last-monster/03-draft.md:139\",\n        \"stories/the-last-monster/03-draft.md:153-159\"\n      ],\n      \"evidence\": \"Line 19 fastens the protagonist's lantern strap at their shoulder. During the spillway attack, line 139 has the escaping figure snatch up that lantern without showing the strap breaking, the lantern falling, or the figure taking it from the protagonist. Lines 153-159 then depend on the lantern having been abandoned beside the small opening so the protagonist can recover its failing light. The intended transfer is inferable but the physical action is momentarily discontinuous.\",\n      \"requiredResolution\": \"During final editing, add a brief mechanically explicit beat showing how the shoulder-fastened lantern becomes loose or is taken during the struggle and reaches the small opening, while preserving the destroyed brighter lantern, failing-light pressure, and non-graphic pacing.\",\n      \"owner\": \"story_editor\"\n    }\n  ],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Initial draft review passed with one Minor physical-staging finding. The complete approximately 3,275-word story fulfills the prompt in sustained close second person and present tense: material wear, overlapping wounds, failed counting, and contradictory remembered yesterdays establish prolonged time loss without an altered chronology mechanism; repeated airflow tests produce a concrete route; coordinated warnings, rear-facing barricades, abandoned shelters, converging tracks, and protected dependents demonstrate that varied dungeon inhabitants have learned to flee the protagonist; and the cistern recognition, spillway relapse, guardian pause, cooperative grate ascent, explicit emergence into daylight, restraint, confession, and offer to guide rescuers form a coherent causal and moral arc. Observable behavior repeatedly precedes or corrects frightened interpretation, while victim identities remain uncertain but real. Deprivation, injury, sleep loss, isolation, tinnitus, and trauma supply the entirely nonmagical deterioration; no established crossing, location, faculty, terminology, or mechanism is borrowed. Violence is sustained but non-graphic and consequential, impairment explains without compelling or absolving, and the ending resolves escape while preserving accountability. Salken appears exactly once in direct address, no other character-facing name or alias appears, and the title remains title-only. No dream, simulation, unreal-victim reveal, innate-evil mental-illness framing, or prohibited crossover occurs. No Critical or Major findings remain, no user ruling is required, certification eligibility remains false for this draft review, and no repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/03-draft.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "the-last-monster",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:41:20.6170232+00:00",
+      "completedAt": "2026-08-03T08:51:26.2709962+00:00",
+      "guardId": "f6dca9e7dee147aaa71eec486d9fc97b",
+      "persister": "story_editor",
+      "report": "status: READY\nstory_slug: `the-last-monster`\nmode: `CREATE_FINAL`\nguard_id: `f6dca9e7dee147aaa71eec486d9fc97b`\noutputs: `stories/the-last-monster/05-story.md`; `stories/the-last-monster/06-canon-delta.md`\ninputs: `00-prompt.md`; `story.json`; `01-canon-brief.md`; `02-story-plan.md`; `03-draft.md`; `04-review.md`; `authority.json`; `handoffs.json`; `stories/NAMES.md`\nstory_word_count: 3,307 prose words\nresolved_finding: `TLM-DRAFT-001` — `RESOLVED`; the thrown rope now snags the shoulder-hung lantern, tears its strap at the iron loop, and sends the still-burning lantern to the moss-hung opening before the fleeing figure takes it.\nname_inventory_allowlist: `Salken` appears exactly once in direct address; no other character-facing forms appear; no non-character candidate requires an allowlist row; `story-names/3` passes with zero warnings or errors.\ndelta_item_count: 23 sequential proposed-only items, each with evidence, disposition, exact local scope/qualifiers, dependencies, and smallest target.\ncanon_prompt_checks: PASS — immutable frontmatter preserved; close-second present; non-graphic mature-teen violence; airflow/evacuation/relapse/pause/ascent/daylight/accountability chain intact; no crossover, magic, living architecture, universal taxonomy, or promotion.\nacceptance_confirmation: Both required artifacts are complete and consistent; story-scoped integrity and diff checks pass; only the two allowed output paths changed; nothing is canon or promoted.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/03-draft.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/05-story.md",
+        "stories/the-last-monster/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 7,
+      "story": "the-last-monster",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:51:55.6007498+00:00",
+      "completedAt": "2026-08-03T09:01:22.4258933+00:00",
+      "guardId": "1f2cb19ded8d464380a579f2abb45c08",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-last-monster\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/the-last-monster/05-story.md\",\n  \"authorityManifest\": \"stories/the-last-monster/authority.json\",\n  \"handoffLedger\": \"stories/the-last-monster/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T08:59:26.0618769Z\",\n  \"reviewBasis\": \"Independent read-only joint review under guard 1f2cb19ded8d464380a579f2abb45c08 of the release-facing story and all 23 proposed canon-delta items against the captured prompt, final-edit lifecycle record, canon brief, revised scene-ready plan, source draft, pass-1 review history, authority manifest captured at base commit a4c69f8211a7df39c364c6a720723d0b1c1e3e0b, ordered handoff ledger through completed sequence 6, and current full name registry. Reverified the unchanged LOCKED/CANON universe inventory and the five material admitted precedents: Realms, The Small Moon Rose First, The Shape of Mercy, The Gentlest Terror, and Daughter of the Sun. Audited immutable frontmatter, prompt fulfillment, close-second present narration, elapsed-time evidence, perception discipline, chronology, causality, learned fear, physical escape mechanics, nonmagical local scope, mature-teen boundaries, agency and accountability, prose readiness, exact single Salken use, exhaustive character inventory, reviewed-prose allowlist, every delta disposition, qualifier, dependency, and target, and absence of promotion, crossover, dream, simulation, or unreal-victim devices. Authority verification and the six-entry handoff-ledger check passed. The strict Final story-names/3 gate passed at 2026-08-03T08:53:38.6658029+00:00 with zero warnings and zero errors.\",\n  \"verdict\": \"REVISE\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 1,\n    \"Minor\": 1\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"TLM-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-last-monster/05-story.md:139, the thrown rope now catches the shoulder-hung lantern, tears its strap at the iron loop, and sends the still-burning lantern toward the moss-hung opening before the escaping figure takes it. Line 153 then locates the abandoned failing light beside that opening. This explicitly connects the shoulder fastening at line 19 to the lantern's recovery at line 159 while preserving the destroyed brighter lantern and last-light pressure.\"\n    }\n  ],\n  \"findings\": [\n    {\n      \"id\": \"TLM-FINAL-001\",\n      \"severity\": \"Major\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"canon-delta evidence boundary\",\n      \"locations\": [\n        \"stories/the-last-monster/06-canon-delta.md:34\",\n        \"stories/the-last-monster/06-canon-delta.md:54\",\n        \"stories/the-last-monster/05-story.md:23-25\",\n        \"stories/the-last-monster/05-story.md:91\",\n        \"stories/the-last-monster/05-story.md:139-159\",\n        \"stories/the-last-monster/05-story.md:235-253\"\n      ],\n      \"evidence\": \"TLM-03 attributes Salken's deterioration partly to sleep disruption, but its own evidence column does not identify sleep disruption and the final prose establishes only that Salken once slept beside the cistern soot; it never establishes disrupted sleep as a cause. TLM-23 then says the story establishes no technological mechanism for the dungeon or escape even though its evidence calls the operative causes mechanical and the final story materially depends on designed architecture, lanterns, rope, grates, a map, and a sword used as a lever. The intended boundary is no magical, extraordinary established-system, universal, or crossover mechanism, not an absence of ordinary technology. These two claims exceed or conflict with the release-facing prose and could carry unsupported mechanism facts into a later promotion.\",\n      \"requiredResolution\": \"Revise TLM-03 to remove sleep disruption from the proposed fact unless the final prose is deliberately changed to establish it; the smallest safe repair is delta-only. Revise TLM-23 to preserve the demonstrated ordinary mechanical tools and architecture while excluding only magical, divine, extraordinary established-system, universal, and crossover explanations. Recheck all wording and dependencies in both rows against the unchanged final prose.\",\n      \"owner\": \"story_editor\"\n    },\n    {\n      \"id\": \"TLM-FINAL-002\",\n      \"severity\": \"Minor\",\n      \"status\": \"UNRESOLVED\",\n      \"category\": \"canon-delta disposition and target alignment\",\n      \"locations\": [\n        \"stories/the-last-monster/06-canon-delta.md:45\"\n      ],\n      \"evidence\": \"TLM-14 proposes retaining the lantern transfer as a story-causal detail, which denotes a story-local disposition, but assigns universe/timeline.md as its suggested topical target. The same delta uses No universe write for other facts proposed to remain unresolved or excluded, so this row leaves the intended future disposition ambiguous.\",\n      \"requiredResolution\": \"Align TLM-14's disposition and target: use No universe write if the transfer is to remain story-local, or change the proposed disposition to an explicit topical addition if timeline promotion is genuinely intended. Preserve its precise local qualifiers and ordinary physical mechanics.\",\n      \"owner\": \"story_editor\"\n    }\n  ],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Final prose is prompt-complete, canon-compatible, causally coherent, non-graphic, and prose-ready. Its valid release frontmatter matches the title, slug, and creation date; its approximately 3,307 prose words preserve close second person and present tense; material wear and wounds establish unmeasured duration without altered chronology; observable behavior repeatedly corrects unstable interpretation; varied inhabitants demonstrate learned fear through warnings, evacuation, barricades, and protected dependents; and the airflow, spillway, bypass, guardian pause, levered grate, explicit daylight exit, restraint, confession, and offer of assistance form a complete physical and moral chain. TLM-DRAFT-001 is precisely resolved without regression. Salken appears exactly once, no other character-facing form exists, the final inventory is exhaustive, None is the correct empty reviewed-prose allowlist, and story-names/3 passes cleanly. The delta remains proposed-only, unpromoted, locally bounded, non-taxonomic, and conflict-free; its other twenty items are prose-supported with explicit dependencies and suitable smallest targets. Certification is withheld because TLM-03 imports an unestablished sleep-disruption cause, TLM-23 inaccurately denies ordinary technological mechanics, and TLM-14 does not align its story-local disposition with its suggested target. These are production-artifact repairs requiring no user ruling, retcon, or prose rewrite. No repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/03-draft.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/05-story.md",
+        "stories/the-last-monster/06-canon-delta.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "the-last-monster",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T09:03:28.0713701+00:00",
+      "completedAt": "2026-08-03T09:06:45.8384809+00:00",
+      "guardId": "c29d0783af5f4ac1b3664d4e554d2af6",
+      "persister": "story_editor",
+      "report": "status: READY\nstory_slug: `the-last-monster`\nmode: `REVISE_FINAL`\nguard_id: `c29d0783af5f4ac1b3664d4e554d2af6`\nactual_output_changed: `stories/the-last-monster/06-canon-delta.md`\ninputs: `00-prompt.md`; `story.json`; `01-canon-brief.md`; `02-story-plan.md`; `03-draft.md`; `04-review.md`; `05-story.md`; `06-canon-delta.md`; `authority.json`; `handoffs.json`; `stories/NAMES.md`\nfinding_dispositions:\n- `TLM-FINAL-001` — `RESOLVED`; TLM-03 removes unsupported sleep disruption while retaining prose-evidenced causes and dependencies. TLM-23 now preserves ordinary architecture, tools, and physical mechanics while excluding only magical, divine, extraordinary established-system, universal, and crossover explanations; dependencies were narrowed to the supporting rows.\n- `TLM-FINAL-002` — `RESOLVED`; TLM-14 retains its story-causal disposition and ordinary-mechanics qualifiers, with smallest target corrected to `No universe write`.\nunchanged_prose_confirmation: `stories/the-last-monster/05-story.md was not modified; guarded changed-path inspection shows only 06-canon-delta.md.`\ndelta_name_canon_checks: PASS — all 23 unique sequential items remain proposed-only and unpromoted; inventory and empty allowlist remain consistent; `story-names/3` passes with zero warnings/errors; story-scoped integrity and diff checks pass.\nacceptance_confirmation: Only `06-canon-delta.md` changed; both assigned findings are resolved without new facts, names, prose changes, canon, promotion, or out-of-scope edits.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/03-draft.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/05-story.md",
+        "stories/the-last-monster/06-canon-delta.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    },
+    {
+      "sequence": 9,
+      "story": "the-last-monster",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T09:07:12.9928721+00:00",
+      "completedAt": "2026-08-03T09:11:41.1063078+00:00",
+      "guardId": "91da7299ae074ef787dd276db94a2384",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-last-monster\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 3,\n  \"reviewedArtifact\": \"stories/the-last-monster/05-story.md\",\n  \"authorityManifest\": \"stories/the-last-monster/authority.json\",\n  \"handoffLedger\": \"stories/the-last-monster/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T09:08:54.8407235Z\",\n  \"reviewBasis\": \"Independent read-only final re-review under guard 91da7299ae074ef787dd276db94a2384 of the unchanged release-facing story and revised proposed canon delta against the captured prompt, final-review lifecycle record, canon brief, revised plan, source draft, review history through passes 1 and 2, verified authority manifest at base commit a4c69f8211a7df39c364c6a720723d0b1c1e3e0b, ordered handoff ledger through completed sequence 8, and current full name registry. Git checkpoint comparison confirms 05-story.md is unchanged from the CREATE_FINAL checkpoint; the delta-only revision changes TLM-03, TLM-14, and TLM-23. Rechecked immutable frontmatter, prompt fulfillment, close-second present prose, chronology, causality, physical escape, perception discipline, mature-teen boundaries, agency, accountability, current LOCKED/CANON authority, and the five material admitted precedents: Realms, The Small Moon Rose First, The Shape of Mercy, The Gentlest Terror, and Daughter of the Sun. Audited all 23 unique sequential delta rows for final-prose support, local qualifiers, dependencies, dispositions, smallest targets, proposed-only posture, and absence of promotion, crossover, or universalization. Authority verification passed, the eight-entry handoff ledger is release-ready with no unresolved errors, and the strict Final story-names/3 gate passed at 2026-08-03T09:08:33.4309084+00:00 with zero warnings and zero errors.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"TLM-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"The unchanged final prose preserves the pass-2 repair at stories/the-last-monster/05-story.md:139: the thrown rope catches the shoulder-hung lantern, tears its strap at the iron loop, and sends it toward the moss-hung opening before the escaping figure takes it. Line 153 locates the abandoned failing light beside the opening, maintaining explicit continuity from the fastening at line 19 through recovery at line 159.\"\n    },\n    {\n      \"id\": \"TLM-FINAL-001\",\n      \"priorPass\": 2,\n      \"resolvedInPass\": 3,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-last-monster/06-canon-delta.md:34, TLM-03 now limits Salken's deterioration to final-prose-supported deprivation, injury, isolation, darkness, and trauma-conditioned hypervigilance; unsupported sleep disruption is removed while the agency, nonmagical, non-diagnostic, and local qualifiers remain intact. At line 54, TLM-23 now affirmatively preserves ordinary nonliving architecture, tools, and physical mechanics, excludes only magical, divine, extraordinary established-system, universal, and crossover explanations, and narrows its dependencies to the rows supporting those mechanism boundaries.\"\n    },\n    {\n      \"id\": \"TLM-FINAL-002\",\n      \"priorPass\": 2,\n      \"resolvedInPass\": 3,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-last-monster/06-canon-delta.md:45, TLM-14 retains its story-causal disposition, exact ordinary-mechanics qualifiers, and dependencies on TLM-10 and TLM-12 while its smallest target is now explicitly No universe write. The disposition and target are aligned.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Final re-review passed. The unchanged approximately 3,307-word story retains valid title, slug, and creation-date frontmatter; sustained close second person and present tense; material evidence of unmeasured confinement; nonmagical deprivation- and trauma-based perceptual deterioration; observable learned fear across warnings, retreat, barricades, evacuation, and protected dependents; a mechanically legible airflow, bypass, rope, lantern, grate, and lever chain; non-graphic consequential violence; a deliberate humane pause; explicit daylight escape; and restraint, confession, assistance, and accountability without absolution. TLM-DRAFT-001 remains resolved. The revised delta resolves TLM-FINAL-001 and TLM-FINAL-002 without changing prose or introducing facts: TLM-03 is evidence-bounded, TLM-14 is correctly story-local with no universe write, and TLM-23 preserves ordinary mechanics while excluding unsupported extraordinary explanations. All 23 rows remain unique, sequential, proposed-only, locally qualified, dependency-complete, and assigned appropriate dispositions and targets. The final character-facing inventory contains only the single registered Salken form, which appears exactly once; all other presences remain unnamed, None is the correct empty three-column non-character allowlist, and the strict Final name gate passes cleanly. Authority remains none, no promotion or retcon is authorized, no crossover or universal dungeon taxonomy is asserted, no unresolved finding or user ruling remains, and no repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/03-draft.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/05-story.md",
+        "stories/the-last-monster/06-canon-delta.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
+    }
+  ]
+}

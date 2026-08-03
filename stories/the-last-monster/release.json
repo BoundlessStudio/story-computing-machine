@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "the-last-monster",
+  "certifiedAt": "2026-08-03T09:12:59.2819786+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 3,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-03T09:08:54.8407235Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-last-monster",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-03T05:12:59.1035895-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}
