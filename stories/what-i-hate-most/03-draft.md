@@ -14,13 +14,13 @@ Draxenne had brought twelve ceramic plates, four carts of powdered stone, and a 
 
 Night-Sovereign Ombria stood at the central pylon with one bare hand spread upon its palm-worn surface.
 
-Five brass pressure studs knocked beneath her fingers, each carrying the mechanical pulse of a different ward district. With every pulse, Ombria tightened some part of the darkness over Vantress. The shadow beneath her boots rose in five thin planes, barely visible except where the lamps broke against their edges. Her black coat streamed in the grit. Her face was composed, severe, and much too pale.
+Five brass pressure studs knocked beneath her fingers, each carrying the mechanical pulse of a different ward district. Ombria listened to all five, but gave active shadow to four: four thin planes rose beneath her boots, barely visible except where the lamps broke against their edges. The fifth stud carried pressure only until she chose to answer it. Her black coat streamed in the grit. Her face was composed, severe, and much too pale.
 
 Forty-two years old, and still determined to spend herself as if the city had appointed her an inexhaustible resource.
 
 “The Ninth Conduit is split,” Ombria said without looking around. “I am pulling the lattice inward.”
 
-On the slate pressure map, a fresh white fracture crossed the border junction. The inward seal would keep the crowded inner streets behind five layers of angled shadow. It would also strip the March road and the outer settlements bare.
+On the slate pressure map, a fresh white fracture crossed the border junction. The inward seal would keep the crowded inner streets behind layers of angled shadow. It would also strip the March road and the outer settlements bare.
 
 “No,” Draxenne said.
 
@@ -70,7 +70,7 @@ Ombria's mouth curved by the smallest treacherous amount.
 
 Eight breaths.
 
-Draxenne drove a second stream through a ceramic groove. Ombria stepped onto the maintenance bridge and drew two planes from the shadow of her moving body, crossing them like shears across Draxenne's route. The bridge shuddered beneath the approaching gale. Ombria's dark silhouette held at its center, coat snapping, one hand shaping the planes while the other kept contact with the iron-rimmed housing.
+Draxenne drove a second stream through a ceramic groove. Ombria let one quiet district plane flatten into ordinary darkness, stepped onto the maintenance bridge, and drew a second contesting plane from the shadow of her moving body. She crossed the two like shears across Draxenne's route, four planes active in all. The bridge shuddered beneath the approaching gale. Ombria's dark silhouette held at its center, coat snapping, one hand shaping the planes while the other kept contact with the iron-rimmed housing.
 
 Dark-queen nonsense, Draxenne thought. Appointed by a council, worked to numbness, answerable to half a million complaints, and still somehow composed like night had dressed itself for her.
 
@@ -106,7 +106,7 @@ Another district pulse struck.
 
 “You know what I hate most? That I have to share you~.” Draxenne let the cinder brighten, a dangerous promise pointed safely into stone.
 
-Ombria's brows lifted. She was still crushing Draxenne's hottest route between two planes, still keeping three other districts intact, still cold enough that her next breath shook. “Wait are we fighting or flirting because I’m getting mixed signals here.”
+Ombria's brows lifted. She was still crushing Draxenne's hottest route between two planes, still keeping two other districts intact, still cold enough that her next breath shook. “Wait are we fighting or flirting because I’m getting mixed signals here.”
 
 There were a dozen answers Draxenne might have given on an easier night. Each was polished, possessive, and useless.
 
@@ -124,7 +124,7 @@ The district pulse struck a third time.
 
 Ombria chose.
 
-Her attention went to the roofs. One contesting plane flattened as she redirected its load, and Draxenne's cinder ran over the empty edge of the housing. She closed both hands around the conduit rim.
+Her housing hand tore free. The agreed rule ended her claim the instant her palm left iron. With that freed hand Ombria released the western contesting plane and used the freed capacity to raise a district plane toward the eastern roofs, while Draxenne's safe feint ran over the empty edge of the housing. Draxenne closed both hands around the conduit rim.
 
 “Twenty-nine,” Ombria said.
 
@@ -144,7 +144,7 @@ Ombria's gaze moved from Draxenne's empty palm to her face. Whatever answer live
 
 For eleven breaths, Draxenne was right.
 
-Ombria angled two shadow planes into baffles without contesting Draxenne's grip. The storm front struck the outer lattice. Violet-black dust plunged into the Ninth, compressed between Ombria's planes, and met Draxenne's cinder in measured bursts. Each burst fused a cloud of razored grit into heavy black beads. They fell rattling into the empty spillway.
+Ombria kept four costly planes active: two angled into baffles without contesting Draxenne's grip, and two covering the districts still under load. The storm front struck the outer lattice. Violet-black dust plunged into the Ninth, compressed between Ombria's baffles, and met Draxenne's cinder in measured bursts. Each burst fused a cloud of razored grit into heavy black beads. They fell rattling into the empty spillway.
 
 On the pressure map, the March road remained a steady gray line. The last wagons cleared the gate.
 
@@ -180,9 +180,9 @@ Instead she asked, “What do you need?”
 
 No triumph. No rescue disguised as command. The choice remained Draxenne's long enough to become a better one.
 
-Draxenne lifted her hand from the housing.
+Draxenne lifted her hand from the housing. With the other, she pried the vented plate free and tucked it beneath her arm; it was warm, but no longer molten.
 
-“Vents inside the channel,” she said. Without heat to sharpen her, the words came plain. “Three angled baffles. I can carry the eastern load through the ceramic, but not while you keep all five planes. Which two can you give up?”
+“Vents inside the channel,” she said. Without heat to sharpen her, the words came plain. “Three angled baffles. I can carry the eastern load through the ceramic. You would hold three planes, not four. Which two anchors can you give up?”
 
 Ombria stared at her. Then another crack sounded below them.
 
@@ -192,13 +192,17 @@ Ombria stared at her. Then another crack sounded below them.
 
 The storm reached the wall as they descended.
 
-Grit shrieked across the stone. Ombria kept her fifth shadow plane above them, and stormglass streaked along its angled surface in luminous purple threads. Four more stretched toward their district anchors. The maintenance bridge dropped into the conduit throat, narrow, wet, and crowded with ceramic braces that Draxenne's crews had fixed to the old masonry. Below, the clogged spillway boiled with dust.
+Grit shrieked across the stone. Ombria held at four, turning one plane above the stair so stormglass streaked along its angled surface in luminous purple threads while the other three strained toward their anchors. The maintenance bridge dropped into the conduit throat, narrow, wet, and crowded with ceramic braces that Draxenne's crews had fixed to the old masonry. Draxenne dropped the recovered housing plate atop the eleven waiting along the bridge wall. Below, the clogged spillway boiled with dust.
 
-“I release lower east,” Ombria said. Cold had shortened her words. “You take its pressure in the braces. I keep four.”
+“I release road east,” Ombria said. Cold had shortened her words. “You take its pressure in the braces. I keep three.”
 
-“Four is not three.”
+“And lower east?”
 
-“One is roof cover.”
+“It is open. To put its load into your brace cleanly, I must catch it first.”
+
+“With a fifth plane.”
+
+“For no more than three breaths.”
 
 The plane above them rippled. Ombria's fingers had gone gray at the tips.
 
@@ -214,7 +218,7 @@ Draxenne nearly ordered her. The old impulse rose hot and regal: give it to me, 
 
 She swallowed smoke and pride together. “Which two anchors can you live without?”
 
-Ombria studied her grip, her breathing, the open vents behind her. “Lower east and road east. Three breaths to taper them. I turn the remaining three into baffles. You hold two streams, no more. If either of us says stop, I turn the three inward and you vent into the spillway.”
+Ombria studied her grip, her breathing, the open vents behind her. “Lower east and road east. I catch the first, then taper both. The remaining three become baffles. You hold two streams, no more. If either of us says stop, I turn the three inward and you vent into the spillway.”
 
 “And if the spillway closes?”
 
@@ -224,17 +228,17 @@ It would cost both sides of the wall. It was still a real exit.
 
 “Accepted,” Draxenne said.
 
-Ombria lowered two fingers, one at a time.
+Ombria lifted her smallest finger. A fifth plane sprang across the unshielded lower-eastern gap and caught its loose pressure. The additional cold struck the composure from her face.
 
-On the first breath, the lower eastern plane thinned. Its stored pressure raced into the stone spillway as Ombria tapered its angle.
+On the first breath, Ombria bent that emergency plane toward the first ceramic brace.
 
-On the second, Draxenne fed a narrow cinder stream through the prepared brace. Ceramic glowed red, softened, and locked against the masonry. The physical load hit it. Her shoulder slammed into stone.
+On the second, Draxenne fed a narrow cinder stream through the prepared brace. Ceramic glowed red, softened, and locked against the masonry. Ombria released the fifth plane. It became ordinary shadow, and the physical load hit Draxenne's brace. Her shoulder slammed into stone.
 
 On the third, Ombria released the road plane. It became shadow and nothing more. Draxenne ignited the second brace.
 
 The bridge lurched. Her boot skidded to its outer edge.
 
-Ombria reached for her, then stopped before taking either of Draxenne's casting hands. “Can you hold?”
+The fifth plane had existed for two breaths. Even so, Ombria swayed before she reached for Draxenne, then stopped rather than take either of her casting hands. “Can you hold?”
 
 Draxenne's first instinct was to make the flame broad enough to blind the night.
 

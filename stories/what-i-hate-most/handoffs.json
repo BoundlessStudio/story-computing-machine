@@ -107,6 +107,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "what-i-hate-most",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T14:03:12.5812956+00:00",
+      "completedAt": "2026-08-03T14:07:11.7721153+00:00",
+      "guardId": "db3dccea9e6e4bc99f8a39f7bb9e456e",
+      "persister": "prose_writer",
+      "report": "story_slug: what-i-hate-most  \nmode: REVISE_DRAFT  \nguard_id: db3dccea9e6e4bc99f8a39f7bb9e456e  \noutput: stories/what-i-hate-most/03-draft.md  \nchange_report: Revised the 3,787-word draft; only the allowed file changed, with no stale precondition.\n\n- WHM-DRAFT-001: RESOLVED — sustained casting now stays at four planes; the fifth appears only for a two-breath emergency transfer before Ombria settles at three collaborative baffles.\n- WHM-DRAFT-002: RESOLVED — Ombria explicitly removes her housing hand to answer the eastern roofs, ending her claim under the agreed rule before breath thirty.\n- WHM-DRAFT-003: RESOLVED — Draxenne recovers the housing plate and adds it to the eleven waiting plates, restoring the twelve-plate climax inventory.\n\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/what-i-hate-most/00-prompt.md",
+        "stories/what-i-hate-most/01-canon-brief.md",
+        "stories/what-i-hate-most/02-story-plan.md",
+        "stories/what-i-hate-most/03-draft.md",
+        "stories/what-i-hate-most/04-review.md",
+        "stories/what-i-hate-most/authority.json",
+        "stories/what-i-hate-most/handoffs.json",
+        "stories/what-i-hate-most/story.json"
+      ],
+      "outputs": [
+        "stories/what-i-hate-most/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
