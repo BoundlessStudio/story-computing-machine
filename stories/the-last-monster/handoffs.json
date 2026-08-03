@@ -79,6 +79,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "the-last-monster",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:26:51.2154921+00:00",
+      "completedAt": "2026-08-03T08:33:21.7739382+00:00",
+      "guardId": "89511fb8e07045f88846ebadd8300669",
+      "persister": "prose_writer",
+      "report": "status: READY  \nstory_slug: `the-last-monster`  \nmode: `CREATE_DRAFT`  \nguard_id: `89511fb8e07045f88846ebadd8300669`  \noutput: `stories/the-last-monster/03-draft.md`  \ninputs: `stories/the-last-monster/00-prompt.md`, `stories/the-last-monster/story.json`, `stories/the-last-monster/01-canon-brief.md`, `stories/the-last-monster/02-story-plan.md`, `stories/the-last-monster/authority.json`, `stories/the-last-monster/handoffs.json`, `stories/NAMES.md`  \nword_count: 3,275 prose words  \nPOV/tense: close second person, present tense  \nname inventory: `Salken` exactly once, in direct address near the ending; no other character-facing names or aliases  \ncausal/prompt coverage: Complete seven-scene chain from indiscriminate killing through airflow-led evacuation, learned creature fear, spillway relapse, deliberate humane pause, cooperative ascent, explicit daylight escape, restraint, confession, and accountability without absolution.  \ncanon check: PASS; deterioration is entirely nonmagical and deprivation/trauma-based, evidence precedes unstable interpretation, violence is non-graphic and consequential, and no crossover, universal rule, or prohibited terminology was introduced.  \nstale_precondition: none  \nacceptance confirmation: Only `stories/the-last-monster/03-draft.md` was modified; the complete 2,500–4,000-word draft satisfies the assigned plan and acceptance criteria.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
