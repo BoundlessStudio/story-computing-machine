@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/what-i-hate-most/03-draft.md`
-- Review pass: 1
-- Verdict: REVISE
+- Review pass: 2
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 2
-- Updated: 2026-08-03T14:00:00.7256033Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-03T14:09:13.0774378Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -90,5 +90,58 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Initial draft review requires production revision for two Major mechanism/causality findings and one Minor object-continuity finding; no user ruling or canon change is needed. The complete approximately 3,627-word draft otherwise fulfills the prompt strongly: Draxenne and Ombria are unambiguously adult, powerful, distinct rivals; the required exchange lands naturally during a dangerous mutually bounded contest; sharing means Ombria's divided civic attention and labor; both women retain independent political duties, vetoes, withdrawal rights, and bodily agency; and political cooperation, courtship, and the kiss are requested and accepted separately. Close-third past tense remains controlled through Draxenne, the dialogue profiles and incompatible aims are distinct, banter yields to clipped operational speech under pressure, the plot resolves beyond flirtation, and the ending converts possessiveness into chosen time and shared labor. The story remains non-explicit and non-graphic, uses only the registered forms Queen Draxenne, Draxenne, Night-Sovereign Ombria, and Ombria, reproduces no song lyric, creates no autonomous object magic or universal consent fuel, and is materially distinct from the cited courtesy bout, Solstice battle, shared-sovereign identities, Ersene renewal, hidden dragon monarchy, and command-bond precedent. Certification eligibility remains false for this draft review, and no repository files were changed."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 2 — draft re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "what-i-hate-most",
+  "mode": "REVIEW_DRAFT",
+  "status": "READY",
+  "pass": 2,
+  "reviewedArtifact": "stories/what-i-hate-most/03-draft.md",
+  "authorityManifest": "stories/what-i-hate-most/authority.json",
+  "handoffLedger": "stories/what-i-hate-most/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-03T14:09:13.0774378Z",
+  "reviewBasis": "Independent read-only complete draft re-review under guard 31a0a3fcc0f34370b26ab79502940baa against the current captured prompt, in-progress lifecycle record, canon brief, scene-ready plan, revised 3,787-word draft, review history through pass 1, authority inventory captured at base commit 11a9362c21a65c76478b083177d6b39d7b13154d, ordered handoff ledger through completed sequence 5, and current complete character-name registry. Verified each prior finding against the revised prose and checkpoint change set, then audited the complete draft for regression in prompt fulfillment, chronology, causality, physical staging, local magic counts, costs, limits, failure and withdrawal behavior, living agency, non-agentic infrastructure, contest boundaries, consent and personhood, close-third past-tense control, dialogue distinction and competing aims, pacing, prose readiness, name use, originality, and content limits. The captured universe files and all admitted canon-story artifacts remain unchanged. Rechecked the draft against current LOCKED/CANON authority and the cited distinctions from The Courtesy of Blades, Solstice Evening Bell, the Sleepless Majesty, Ersene, Kharost, and Garran's command-bonds. No final delta applies to REVIEW_DRAFT.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "WHM-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The revised draft now establishes four active planes at stories/what-i-hate-most/03-draft.md:17, accounts for two contesting and two district planes at lines 73 and 109, and retains an explicit four-plane total at lines 147 and 195. Lines 203-241 identify the fifth as a maximum-three-breath emergency reach, raise it only to catch the lower-eastern load, release it on the second breath, show the immediate additional cold, and settle Ombria at three collaborative baffles by lines 247-249. The complete sequence now obeys the planned ceiling while preserving the civilian pulse, contest loss, costs, withdrawal, and later lethal-risk meaning."
+    },
+    {
+      "id": "WHM-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/what-i-hate-most/03-draft.md:123-135, Ombria deliberately tears her housing hand free to answer the eastern roofs; the prose explicitly states that her claim ends when her palm leaves iron, then shows her release the western contesting plane, raise district protection, and leave Draxenne holding the rim before breath thirty. The tactical result now follows the agreed contact rule without a bodily strike or romantic entitlement."
+    },
+    {
+      "id": "WHM-DRAFT-003",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/what-i-hate-most/03-draft.md:183, Draxenne removes and carries the cooled housing plate. Line 195 places that recovered plate atop the eleven waiting on the bridge, restoring the twelve-plate inventory later identified at line 281 and exhausted through the last plate at line 293. The venting use, recovery, total stock, and climactic sacrifice now form one continuous object chain."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": false,
+  "changeReport": "Draft re-review passed with all three pass-1 findings resolved and no material regression or new finding. The 3,787-word story remains within target length and fulfills the prompt through two unambiguously adult, dangerously competent magical rivals; the exact fighting/flirting exchange; a consequential conflict over Ombria's divided civic attention; and decisive political, tactical, and romantic resolutions. Plane counts, costs, transfer timing, contest adjudication, plate inventory, spatial action, and withdrawal behavior are now explicit and internally consistent. The prose sustains close-third past tense through Draxenne, preserves distinct dialogue profiles and tactic changes, grounds dark-queen glamour in labor and bodily cost, and ends on shared public burden plus freely chosen touch. Contest victory grants only temporary conduit command; the renewable civic compact, courtship, and kiss remain separate and revocable choices. The story introduces no autonomous object magic, universal consent fuel, objective godhood claim, crossover, copied song lyric, name collision, explicit sexual content, or graphic violence, and it remains materially distinct from the cited precedents. The draft is ready for final editing; release certification remains ineligible at the draft-review stage, and no repository files were changed."
 }
 END_REVIEW_PASS_PAYLOAD
