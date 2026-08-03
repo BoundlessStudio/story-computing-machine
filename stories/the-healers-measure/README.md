@@ -2,8 +2,8 @@
 
 - Slug: `the-healers-measure`
 - Created: 2026-08-03
-- Current stage: prompt
-- Status: in-progress
+- Current stage: candidate
+- Status: candidate
 - Canon: no
 - User disposition: pending
 - Publish: no
