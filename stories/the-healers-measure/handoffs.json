@@ -165,6 +165,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 7,
+      "story": "the-healers-measure",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T22:21:28.7021829+00:00",
+      "completedAt": "2026-08-03T22:32:07.0417492+00:00",
+      "guardId": "b8ecd7c62a8643eb89c5a4024396c71c",
+      "persister": "story_editor",
+      "report": "status: READY\nresolutionOwner: none\nstory: `the-healers-measure`\nmode: `CREATE_FINAL`\nguardId: `b8ecd7c62a8643eb89c5a4024396c71c`\ncurrentStage: `prompt`\noutputs: `stories/the-healers-measure/05-story.md`; `stories/the-healers-measure/06-canon-delta.md`\nstoryWordCount: `3869`\nproseChanges: `Created the polished reader-facing final with immutable frontmatter preserved; retained the passing revised story and made two surface-level clarity refinements without changing voice, plot, or mechanics.`\ndeltaSummary: `Created an authority-none, proposed-only 25-item inventory covering every reusable character, practice, mechanism, cost, location, event, chronology boundary, and glossary fact with evidence, exact local scope, constraints, dependencies, disposition, and smallest topical target.`\nnamesUsed: `Ruva`; `Vekran`\nnameInventoryAllowlist: `The exhaustive final character-facing inventory contains only Ruva and Vekran; no non-character candidate requires an allowlist row. The exact allowlist section is present, and story-names/3 passes with zero warnings and zero errors.`\ncanonPromptChecks: `PASS — close-third past tense, Teen treatment, living magical agency, inert tools, healing limits, regional scope, partial-brace/full-load distinction, 60/46/34/28/18 countdown, exact four-beat false-branch cycle, cleared courtyard route, healer-centered payoff, custody, continuing costs, and incomplete apprenticeship are preserved.`\nacceptanceSummary: `Both required artifacts are complete and synchronized. The final prose is within the 2,500–4,000-word range; story-scoped integrity and diff checks pass; only the two allowed output paths changed; no fact was promoted.`\nchangeReport: `Only stories/the-healers-measure/05-story.md and stories/the-healers-measure/06-canon-delta.md changed. No review, registry, metadata, index, release, promotion, handoff ledger, universe note, or other file was modified.`\nstalePrecondition: `none`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-healers-measure/00-prompt.md",
+        "stories/the-healers-measure/01-canon-brief.md",
+        "stories/the-healers-measure/02-story-plan.md",
+        "stories/the-healers-measure/03-draft.md",
+        "stories/the-healers-measure/04-review.md",
+        "stories/the-healers-measure/authority.json",
+        "stories/the-healers-measure/handoffs.json",
+        "stories/the-healers-measure/story.json"
+      ],
+      "outputs": [
+        "stories/the-healers-measure/05-story.md",
+        "stories/the-healers-measure/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
