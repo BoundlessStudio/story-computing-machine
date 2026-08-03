@@ -107,6 +107,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "clerics-infernal-ex",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T18:58:53.1639194+00:00",
+      "completedAt": "2026-08-03T19:09:23.0841704+00:00",
+      "guardId": "7f0ac2afb7de4d37a91fda84298ae02b",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: `clerics-infernal-ex`\nmode: `CREATE_FINAL`\nguardId: `7f0ac2afb7de4d37a91fda84298ae02b`\noutputs: `stories/clerics-infernal-ex/05-story.md`; `stories/clerics-infernal-ex/06-canon-delta.md`\nwordCount: `3450`\nfindingDispositions: `CIE-DRAFT-001 RESOLVED`; `CIE-DRAFT-002 RESOLVED`\nnameGate: `PASS — story-names/3; 0 warnings; 0 errors`\nscopeCheck: `PASS — only both allowed files changed; diff check clean`\nacceptanceSummary: `Complete polished final preserves immutable frontmatter, approved voice and plot, PG-13 treatment, registered character forms, and non-reunion ending. The fence mounts the inert stolen leaf while Emet supplies the fresh living opening; Lacrixa’s destroyed leaf remains beside her kiln-court hearthframe, and sanctuary evidence contains only near-side objects. The consistent proposed delta inventories 18 locally scoped reusable facts with constraints, dependencies, provenance, dispositions, and smallest topical targets, plus the exhaustive final character inventory and exact two-row three-column non-character allowlist. No universalization or crossover introduced.`",
+      "inputs": [
+        "stories/clerics-infernal-ex/00-prompt.md",
+        "stories/clerics-infernal-ex/01-canon-brief.md",
+        "stories/clerics-infernal-ex/02-story-plan.md",
+        "stories/clerics-infernal-ex/03-draft.md",
+        "stories/clerics-infernal-ex/04-review.md",
+        "stories/clerics-infernal-ex/authority.json",
+        "stories/clerics-infernal-ex/handoffs.json",
+        "stories/clerics-infernal-ex/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/clerics-infernal-ex/05-story.md",
+        "stories/clerics-infernal-ex/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
