@@ -90,16 +90,24 @@ continuous physical world, and no crossover is proposed.
   was offered a permanent shelter circuit, Lacrixa asked whether he wanted a
   shared home; he ended the relationship by letter and falsely implied that
   his oath required it. During three subsequent years Lacrixa prepared answers
-  to a prohibition the House had never made, while both retained keyed leaves
-  for partly technical and partly personal reasons. At the breach Emet names
-  the lie and present concealment as his choices and apologizes without asking
-  for forgiveness. Lacrixa agrees to one synchronized withdrawal, expressly
-  refuses a renewed relationship, and the two exchange a final goodbye after
-  revoking access. **Exact local scope:** These two adults and their past and
-  present choices only. **Constraints:** Past love, original keying, retained
-  artifacts, emergency cooperation, technical trust, apology, forgiveness,
-  and renewed romance remain separate questions; the story establishes no
-  reunion, absolution, romantic destiny, or universal metaphysics of desire.
+  to a prohibition the House had never made. Emet retained his keyed leaf
+  under a self-serving safety rationalization that covered his unresolved
+  desire to preserve access. Lacrixa kept her separate leaf locked away because,
+  as she later states, breaking one half without neutral de-keying could leave
+  a dangerous echo; she also wanted Emet to have to answer her, a personal
+  motive she identifies as pride. At the breach Emet names the lie and present
+  concealment as his choices and apologizes without asking for forgiveness.
+  Lacrixa agrees to one synchronized withdrawal, expressly refuses a renewed
+  relationship, and the two exchange a final goodbye after revoking access.
+  **Exact local scope:** These two adults and their past and present choices
+  only. **Constraints:** The reasons for retaining the leaves are asymmetric:
+  Emet's claimed safety reason is exposed as cover, while Lacrixa alone states
+  a genuine dangerous-echo concern alongside her personal motive; her
+  admission does not divide fault equally. Past love, original keying,
+  retained artifacts, emergency cooperation, technical trust, apology,
+  forgiveness, and renewed romance remain separate questions; the story
+  establishes no reunion, absolution, romantic destiny, or universal
+  metaphysics of desire.
   **Dependencies:** CIE-01, CIE-02, CIE-08 through CIE-11, CIE-14, and
   CIE-17. **Provenance:** `stories/clerics-infernal-ex/05-story.md`, authority
   none unless explicitly promoted. **Proposed disposition:** `PROPOSE ADD,
@@ -165,19 +173,21 @@ character-facing form appears.
 ## New factions or cultural facts
 
 - **CIE-08 — House of Common Shelter and its local clerical practice
-  (proposed).** **Fact:** The House of Common Shelter is Emet's local
-  service-and-faith institution. It operates shelter work and refuge halls,
-  previously maintained a refuge near a Cauterized Reach road endpoint, and
-  offered Emet a permanent circuit covering six shelters over twenty years.
-  Its clerical practice includes shelter counts, severing verses, stamped
-  medallions, ward-light, reports, and council settings. The House did not
-  forbid Emet's relationship with Lacrixa or require him to choose the circuit
-  over her. **Exact local scope:** This institution and the practices Emet
-  directly uses or describes. **Constraints:** No objective deity, patron,
-  godhood, universal cleric class, universal oath, hierarchy, doctrine,
-  jurisdiction, or opposition to demons is established. The stamped silver
-  medallion is an inert aid and focus, not a living or divine magic user.
-  **Dependencies:** CIE-01, CIE-05, CIE-10, and CIE-15. **Provenance:**
+  (proposed).** **Fact:** Emet identifies the House of Common Shelter as the
+  institution he serves and says it offered him a permanent circuit covering
+  six shelters over twenty years. He also states that the House did not forbid
+  his relationship with Lacrixa or require him to choose the circuit over her.
+  The final prose separately demonstrates Emet's own shelter practice: an
+  inert stamped medallion bears a shelter-count and an engraved severing verse;
+  his ward-light has illuminated refuge halls; and he has written shelter
+  reports. **Exact local scope:** Only the House facts Emet directly reports
+  and Emet's own demonstrated shelter practice. **Constraints:** The story
+  does not establish that every House cleric shares Emet's practices, or
+  establish an objective deity, patron, godhood, universal cleric class,
+  universal oath, hierarchy, doctrine, jurisdiction, or opposition to demons.
+  The medallion supplies only an inert shelter-count and engraved procedural
+  aid; it does not carry, focus, originate, or use ward-light. **Dependencies:**
+  CIE-01, CIE-05, and CIE-15. **Provenance:**
   `stories/clerics-infernal-ex/05-story.md`, authority none unless explicitly
   promoted. **Proposed disposition:** `PROPOSE ADD, INSTITUTION-LOCAL`.
   **Suggested smallest topical target:** `universe/factions.md`.
@@ -291,15 +301,19 @@ character-facing form appears.
   `universe/rules.md`.
 
 - **CIE-15 — observed ward-light, embercraft, and crossing costs (proposed).**
-  **Fact:** Emet's self-supplied ward-light can pass through an inert medallion
-  or hinge, illuminate refuge halls, hold a passage edge, and route stored
-  charge into foundation stone. Lacrixa's self-supplied heat, breath,
-  ember-light, and embercraft can answer the hinge, hold the passage, soften a
-  hot iron clasp, and melt a brass keyed edge. Repeated supply drains breath,
-  bodily heat, muscular control, coordination, and usable power: Emet's light
-  dwindles and his hand and wrist shake, while Lacrixa's glowing skin cools and
-  she misses a handhold. **Exact local scope:** Emet's and Lacrixa's observed
-  living capabilities and costs in this one emergency. **Constraints:** The
+  **Fact:** Emet supplies his own ward-light, which has illuminated refuge
+  halls and which he feeds through the keyed hinge leaf, along the held passage
+  edge, and through the scaffold's foot or rear brace to route stored charge
+  into foundation stone. His inert medallion supplies only the shelter-count
+  he uses to pace his breath and bears the severing verse he considers.
+  Lacrixa's self-supplied heat, breath, ember-light, and embercraft can answer
+  the hinge, hold the passage, soften a hot iron clasp, and melt a brass keyed
+  edge. Repeated supply drains breath, bodily heat, muscular control,
+  coordination, and usable power: Emet's light dwindles and his hand and wrist
+  shake, while Lacrixa's glowing skin cools and she misses a handhold. **Exact
+  local scope:** Emet's and Lacrixa's observed living capabilities, paths, and
+  costs in this one emergency. **Constraints:** The medallion is not shown
+  transmitting, carrying, focusing, originating, or using ward-light. The
   story establishes no universal division between clerical and infernal
   magic, no god as supplier, no power of love, no cost-free recovery, and no
   independent action by medallion, hinge, loop, salt-glass, frame, or stone.
