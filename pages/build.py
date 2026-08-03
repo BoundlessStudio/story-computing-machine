@@ -182,6 +182,7 @@ def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
             raise ValueError(f"Final frontmatter identity differs for {metadata.slug}")
         word_count = len(re.findall(r"\b[\w’'-]+\b", body))
         published.append(PublishedStory(metadata, body.strip(), word_count))
+    published.sort(key=lambda story: story.metadata.created, reverse=True)
     return Catalog(tuple(published))
 
 

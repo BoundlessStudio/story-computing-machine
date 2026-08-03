@@ -21,6 +21,12 @@ class SiteBuildTests(unittest.TestCase):
         self.assertTrue(crown.metadata.canon)
         self.assertEqual("final", crown.metadata.status)
 
+    def test_real_catalog_lists_newest_stories_first(self):
+        catalog = build.load_catalog(REPO)
+        dates = [story.metadata.created for story in catalog.stories]
+        self.assertEqual(sorted(dates, reverse=True), dates)
+        self.assertEqual("the-courtesy-of-blades", catalog.stories[0].metadata.slug)
+
     def test_real_build_writes_index_and_every_story(self):
         with tempfile.TemporaryDirectory() as temporary:
             output = Path(temporary) / "site"
