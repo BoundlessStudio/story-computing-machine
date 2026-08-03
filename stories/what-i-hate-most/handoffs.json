@@ -51,6 +51,33 @@
       "errorCode": "NAME_REGISTRATION_REQUIRED",
       "resolutionOwner": "coordinator",
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "what-i-hate-most",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T13:44:11.6307926+00:00",
+      "completedAt": "2026-08-03T13:54:00.5036820+00:00",
+      "guardId": "c7dfc275ff4b42c598df96cef497231d",
+      "persister": "prose_writer",
+      "report": "story_slug: what-i-hate-most  \nmode: CREATE_DRAFT  \nguard_id: c7dfc275ff4b42c598df96cef497231d  \noutput: stories/what-i-hate-most/03-draft.md  \nchange_report: Created a complete 3,627-word, five-scene draft satisfying the prompt, plan, registered-name, magic-limit, consent, content-boundary, and ending requirements. Only the allowed draft file changed; no stale precondition found.  \nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/what-i-hate-most/00-prompt.md",
+        "stories/what-i-hate-most/01-canon-brief.md",
+        "stories/what-i-hate-most/02-story-plan.md",
+        "stories/what-i-hate-most/authority.json",
+        "stories/what-i-hate-most/handoffs.json",
+        "stories/what-i-hate-most/story.json"
+      ],
+      "outputs": [
+        "stories/what-i-hate-most/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
