@@ -135,6 +135,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "the-last-monster",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:41:20.6170232+00:00",
+      "completedAt": "2026-08-03T08:51:26.2709962+00:00",
+      "guardId": "f6dca9e7dee147aaa71eec486d9fc97b",
+      "persister": "story_editor",
+      "report": "status: READY\nstory_slug: `the-last-monster`\nmode: `CREATE_FINAL`\nguard_id: `f6dca9e7dee147aaa71eec486d9fc97b`\noutputs: `stories/the-last-monster/05-story.md`; `stories/the-last-monster/06-canon-delta.md`\ninputs: `00-prompt.md`; `story.json`; `01-canon-brief.md`; `02-story-plan.md`; `03-draft.md`; `04-review.md`; `authority.json`; `handoffs.json`; `stories/NAMES.md`\nstory_word_count: 3,307 prose words\nresolved_finding: `TLM-DRAFT-001` — `RESOLVED`; the thrown rope now snags the shoulder-hung lantern, tears its strap at the iron loop, and sends the still-burning lantern to the moss-hung opening before the fleeing figure takes it.\nname_inventory_allowlist: `Salken` appears exactly once in direct address; no other character-facing forms appear; no non-character candidate requires an allowlist row; `story-names/3` passes with zero warnings or errors.\ndelta_item_count: 23 sequential proposed-only items, each with evidence, disposition, exact local scope/qualifiers, dependencies, and smallest target.\ncanon_prompt_checks: PASS — immutable frontmatter preserved; close-second present; non-graphic mature-teen violence; airflow/evacuation/relapse/pause/ascent/daylight/accountability chain intact; no crossover, magic, living architecture, universal taxonomy, or promotion.\nacceptance_confirmation: Both required artifacts are complete and consistent; story-scoped integrity and diff checks pass; only the two allowed output paths changed; nothing is canon or promoted.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/03-draft.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/05-story.md",
+        "stories/the-last-monster/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
