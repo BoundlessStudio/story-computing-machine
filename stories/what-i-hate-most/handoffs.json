@@ -31,12 +31,12 @@
       "story": "what-i-hate-most",
       "actor": "story_architect",
       "mode": "CREATE_PLAN",
-      "status": "NAME_REGISTRATION_REQUIRED",
+      "status": "READY",
       "startedAt": "2026-08-03T09:31:11.4819911-04:00",
       "completedAt": "2026-08-03T09:43:12.2227433-04:00",
       "guardId": "461a35d7707d4829a93e5a2d7d66d898",
       "persister": "story_architect",
-      "report": "story_slug: what-i-hate-most  \nmode: CREATE_PLAN  \nguard_id: 461a35d7707d4829a93e5a2d7d66d898  \noutput: stories/what-i-hate-most/02-story-plan.md  \nchange_report: Complete 3,989-word, five-scene plan; all acceptance checks passed; sole file changed.  \nname_registration_required: Queen Draxenne; Night-Sovereign Ombria  \nstatus: NAME_REGISTRATION_REQUIRED",
+      "report": "story_slug: what-i-hate-most\nmode: CREATE_PLAN\nguard_id: 461a35d7707d4829a93e5a2d7d66d898\noutput: stories/what-i-hate-most/02-story-plan.md\nchange_report: The original complete plan remains unchanged and accepted; required name registration is resolved.\nname_registration: RESOLVED — `Queen Draxenne`; `Draxenne`; `Night-Sovereign Ombria`; `Ombria` are registered with no collisions.\nstatus: READY",
       "inputs": [
         "stories/NAMES.md",
         "stories/what-i-hate-most/00-prompt.md",
@@ -48,8 +48,8 @@
       "outputs": [
         "stories/what-i-hate-most/02-story-plan.md"
       ],
-      "errorCode": "NAME_REGISTRATION_REQUIRED",
-      "resolutionOwner": "coordinator",
+      "errorCode": null,
+      "resolutionOwner": null,
       "resolutionQuestion": null
     },
     {
