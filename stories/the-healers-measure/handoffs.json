@@ -226,6 +226,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 9,
+      "story": "the-healers-measure",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T22:37:15.5764140+00:00",
+      "completedAt": "2026-08-03T22:40:50.2518134+00:00",
+      "guardId": "4c275c9f69eb43a48b5d78aa799e20e8",
+      "persister": "story_editor",
+      "report": "status: READY\nresolutionOwner: none\nstory: `the-healers-measure`\nmode: `REVISE_FINAL`\nguardId: `4c275c9f69eb43a48b5d78aa799e20e8`\ncurrentStage: `prompt`\noutput: `stories/the-healers-measure/06-canon-delta.md`\nfindingDispositions:\n- `THM-FINAL-001`: `RESOLVED` — THM-07 now separates iron-mediated witchknight measure from Ruva’s touch-based healing working and healer-sense; the absent `wound-knot` label was removed; THM-24 now lists only attested terms and includes `measurework`; THM-16 is narrowed to the separation act with corresponding dependencies.\nfinalProse: `UNCHANGED`\ndeltaItemCount: `25 sequential unique items preserved`\nnameGate: `PASS — story-names/3; zero warnings; zero errors`\nstoryIntegrity: `PASS`\nchangeReport: `Only stories/the-healers-measure/06-canon-delta.md changed. No final prose, review, registry, metadata, index, release, promotion, handoff ledger, universe note, or other file was modified.`\nstalePrecondition: `none`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-healers-measure/00-prompt.md",
+        "stories/the-healers-measure/01-canon-brief.md",
+        "stories/the-healers-measure/02-story-plan.md",
+        "stories/the-healers-measure/03-draft.md",
+        "stories/the-healers-measure/04-review.md",
+        "stories/the-healers-measure/05-story.md",
+        "stories/the-healers-measure/06-canon-delta.md",
+        "stories/the-healers-measure/authority.json",
+        "stories/the-healers-measure/handoffs.json",
+        "stories/the-healers-measure/story.json"
+      ],
+      "outputs": [
+        "stories/the-healers-measure/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
