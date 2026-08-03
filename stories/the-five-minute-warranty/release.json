@@ -1,1 +1,37 @@
-{"schemaVersion":3,"certified":false,"storySlug":"the-five-minute-warranty","certifiedAt":null,"certificationBasis":"pipeline","artifacts":{"story":{"path":"05-story.md"},"canonDelta":{"path":"06-canon-delta.md"}},"review":{"artifact":null,"pass":0,"verdict":"PENDING","reviewer":null,"reviewedAt":null,"reviewBasis":null,"unresolvedCritical":null,"unresolvedMajor":null},"nameCheck":{"story":"the-five-minute-warranty","phase":"Final","passed":false,"checkedAt":null,"checkerVersion":"story-names/3","warnings":[]},"dependencies":{"authorityManifest":"authority.json","handoffLedger":"handoffs.json"}}
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "the-five-minute-warranty",
+  "certifiedAt": "2026-08-03T04:09:23.6712237+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 2,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-03T04:06:35.1445443Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-five-minute-warranty",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-03T00:09:23.5165702-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}
