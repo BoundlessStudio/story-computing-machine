@@ -78,6 +78,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "the-unrepeatable-working",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T23:45:55.4332284+00:00",
+      "completedAt": "2026-08-03T23:50:10.4667111+00:00",
+      "guardId": "04d7fbd951494cb69df4fe8e2e0a2b2f",
+      "persister": "coordinator",
+      "report": "REVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-unrepeatable-working\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/the-unrepeatable-working/03-draft.md\",\n  \"authorityManifest\": \"stories/the-unrepeatable-working/authority.json\",\n  \"handoffLedger\": \"stories/the-unrepeatable-working/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T23:48:48.5498787Z\",\n  \"reviewBasis\": \"Independent read-only complete-draft review under guard 04d7fbd951494cb69df4fe8e2e0a2b2f against the captured prompt, lifecycle record, canon brief, scene-ready plan, pending pass-1 review scaffold, authority inventory captured at base commit 73d14a0a3c2e11a4b87d5dbdefa80bcd4bea6ff5, ordered handoff ledger through completed sequence 3, current full character-name registry, relevant LOCKED/CANON universe authority, and the unchanged release-certified but non-canon candidate dependency comprising stories/voice-of-silence/story.json, release.json, 05-story.md, and 06-canon-delta.md. Applied the repository writing, voice, dialogue, character-voice, and dialogue-review guidance. Checked prompt fulfillment, prequel chronology, local scope, seven-hold experiment causality and controls, living agency, apparatus limits, Melek's consent and credit, Dorram's deliberately incomplete growth, Kethra's retained later authorship, pacing, close-first-person past-tense control, dialogue profiles and competing aims, prose readiness, content boundaries, and registered names. No prior completed review exists, and this story's final delta is not applicable to REVIEW_DRAFT.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Read-only review passed; no files changed. The complete approximately 3,024-word prose body fulfills the prompt in close first person and past tense: a formal and intellectually credible board demands an on-page demonstration of a genuinely new local effect, predicted controls fail, the full paired conditions succeed with Dorram, and a second living shaper independently repeats the result while ultimate causation remains unresolved. The seven-live-hold sequence is internally consistent and distinguishes recurrence from explanation; the echo vial, brass contact, listening tube, timing bead, tiles, seals, notes, and records remain inert. Melek recalls the omitted appointment, refuses instrumental classification, sets and enforces a three-call limit, independently offers one final conditional call only after the chair honors the refusal, corrects Dorram's overclaim, enables the transfer test, and receives accurate caller credit without being credited with shaping. Dorram relinquishes sole performance and corrects the record, yet accepts the provisional self-call accreditation standard, creating a coherent incomplete arc into his later dependence question and evidence-based correction in Voice of Silence. The prequel uses the same deliberately registered Dorram, establishes only a primitive single-pattern paired release with an eight-drop window and crude apparatus, and does not anticipate Kethra's voiced lattice, three-cell architecture, rescue, spells, office result, or safety roster; Kethra's disability, agency, and authorship remain wholly intact. The experiment scenes escalate without redundant delay, all failures change the board's knowledge, and the ruling and archive aftermath resolve the dramatic and intellectual movements without granting easy reconciliation. Dorram's qualified lectures and defensive procedural wit, Melek's terse factual leverage and physical refusals, and the chair's clipped evidentiary bargaining remain distinct and tactically responsive. Names match the registry: Dorram is an intentional recurring identity, Melek is unique, and the chair, board, college, attendants, roles, apparatus, and spell label introduce no unregistered character-facing form. No canon, chronology, causality, prompt, pacing, dialogue, prose-readiness, or name finding remains, and no user ruling is required.\"\n}\nEND_REVIEW_PASS_PAYLOAD\n\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-unrepeatable-working/00-prompt.md",
+        "stories/the-unrepeatable-working/01-canon-brief.md",
+        "stories/the-unrepeatable-working/02-story-plan.md",
+        "stories/the-unrepeatable-working/03-draft.md",
+        "stories/the-unrepeatable-working/04-review.md",
+        "stories/the-unrepeatable-working/authority.json",
+        "stories/the-unrepeatable-working/handoffs.json",
+        "stories/the-unrepeatable-working/story.json"
+      ],
+      "outputs": [
+        "stories/the-unrepeatable-working/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
