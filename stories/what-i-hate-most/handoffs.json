@@ -226,6 +226,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 9,
+      "story": "what-i-hate-most",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T14:33:08.0932757+00:00",
+      "completedAt": "2026-08-03T14:35:44.0194730+00:00",
+      "guardId": "ce6087826a3b4e5791a250303a09a071",
+      "persister": "story_editor",
+      "report": "story_slug: what-i-hate-most  \nmode: REVISE_FINAL  \nguard_id: ce6087826a3b4e5791a250303a09a071  \noutput: stories/what-i-hate-most/06-canon-delta.md  \nunchanged: stories/what-i-hate-most/05-story.md\n\nfinding_disposition:\n- WHM-FINAL-001: RESOLVED — removed the unsupported junction-destruction claim, narrowed cindercraft costs to final-prose evidence, and corrected all assigned apparatus, withdrawal, spillway, stormglass, and ceramic dependencies.\n\nchange_report: Revised only the canon delta, preserving its 26-item structure, exact name inventory, allowlist, local scope, and non-promotion posture. Final prose remained byte-identical. Strict final names and diff checks passed.\n\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/what-i-hate-most/00-prompt.md",
+        "stories/what-i-hate-most/01-canon-brief.md",
+        "stories/what-i-hate-most/02-story-plan.md",
+        "stories/what-i-hate-most/03-draft.md",
+        "stories/what-i-hate-most/04-review.md",
+        "stories/what-i-hate-most/05-story.md",
+        "stories/what-i-hate-most/06-canon-delta.md",
+        "stories/what-i-hate-most/authority.json",
+        "stories/what-i-hate-most/handoffs.json",
+        "stories/what-i-hate-most/story.json"
+      ],
+      "outputs": [
+        "stories/what-i-hate-most/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

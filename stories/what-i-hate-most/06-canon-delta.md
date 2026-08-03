@@ -122,21 +122,23 @@ Final character-facing inventory:
   universal night-court office, hereditary title, divine hierarchy, magical
   caste, or claim that one person must permanently carry all five districts.
   The council's wider composition and appointment process are not established.
-  Depends on WHM-02, WHM-04, WHM-10 through WHM-12, and WHM-17.
+  Depends on WHM-02, WHM-04, WHM-09 through WHM-11, and the nonliving ward
+  apparatus in WHM-16.
   **Provenance:** `stories/what-i-hate-most/05-story.md`, proposal only.
   **Suggested smallest topical target:** `universe/factions.md`.
-- **WHM-08 — one-off emergency conduit contest (proposed).** **Fact:** Because
-  Draxenne and Ombria hold authority on opposite sides of the threatened
-  junction and simultaneous opposed casting could destroy it, they negotiate a
-  thirty-breath live contest. Spoken yield, spoken withdrawal, or loss of
+- **WHM-08 — one-off emergency conduit contest (proposed).** **Fact:** With
+  Ombria intending to pull the ward lattice inward and Draxenne demanding a
+  channel through the Ninth Conduit, they negotiate a thirty-breath live
+  contest over which plan will command the conduit for this breach. Spoken
+  yield, spoken withdrawal, or loss of
   housing contact ends a claim; body-directed casts and attacks on occupied
   wards are forbidden; the winner commands the Ninth Conduit for this breach
   only and gains no office, territory, future audience, touch, or other right.
   **Exact local scope:** This one negotiated contest between Draxenne and
   Ombria. **Constraints and dependencies:** There is no referee, ceremony,
   standing courtship rule, date wager, magical enforcement, or evidence of a
-  regional duel tradition. Depends on WHM-01, WHM-02, WHM-06, WHM-10,
-  WHM-13, and WHM-22. **Provenance:**
+  regional duel tradition. Depends on WHM-01, WHM-02, WHM-06, WHM-09, and
+  WHM-12. **Provenance:**
   `stories/what-i-hate-most/05-story.md`, authority none. **Suggested smallest
   topical target:** `universe/factions.md`.
 
@@ -151,8 +153,9 @@ Final character-facing inventory:
   Ninth Conduit. **Constraints and dependencies:** The planes do not enter a
   mind, compel a person, select targets, or continue after Ombria releases
   them. No wider shadow-magic class, inherited system, or connection to another
-  shadow mechanism is proposed. Depends on Ombria's living agency, available
-  shadow, the local anchors under WHM-17, and the costs in WHM-10.
+  shadow mechanism is proposed. Depends on Ombria's living agency under WHM-02,
+  available shadow, the local ward apparatus and anchors under WHM-16, and the
+  costs in WHM-10.
   **Provenance:** `stories/what-i-hate-most/05-story.md`, proposal only.
   **Suggested smallest topical target:** `universe/rules.md`.
 - **WHM-10 — shadowcraft capacity and cold cost (proposed).** **Fact:** Ombria
@@ -175,8 +178,10 @@ Final character-facing inventory:
   edges. **Exact local scope:** The witnessed contest, transfer, and final ward
   shutdown. **Constraints and dependencies:** The story shows warning signs but
   no completed catastrophic snap, so no universal break pattern or exact
-  damage radius is established. Safe loaded withdrawal depends on available
-  spillway capacity and coordination under WHM-20. **Provenance:**
+  damage radius is established. The coordinated safe-withdrawal procedure is
+  recorded in WHM-19 and uses the Ninth Conduit's spillway infrastructure under
+  WHM-06. The plane behavior itself depends on WHM-09 and WHM-10.
+  **Provenance:**
   `stories/what-i-hate-most/05-story.md`, proposal only. **Suggested smallest
   topical target:** `universe/rules.md`.
 - **WHM-12 — Draxenne's living cindercraft (proposed).** **Fact:** Draxenne can
@@ -188,20 +193,24 @@ Final character-facing inventory:
   **Constraints and dependencies:** The craft requires Draxenne's living
   attention, an available mineral path, and venting air; it does not create
   autonomous or living fire, compel anyone, or establish a universal fire
-  system. Depends on Draxenne's living agency, mineral material under WHM-18
-  and WHM-19, and the costs in WHM-13. **Provenance:**
+  system. Depends on Draxenne's living agency under WHM-01, the conduit stone
+  and apparatus under WHM-06 and WHM-16, stormglass under WHM-17, and prepared
+  ceramic under WHM-18. Associated bodily costs are inventoried separately in
+  WHM-13. **Provenance:**
   `stories/what-i-hate-most/05-story.md`, authority none. **Suggested smallest
   topical target:** `universe/rules.md`.
 - **WHM-13 — cindercraft bodily costs and working limit (proposed).** **Fact:**
   Cindercraft consumes Draxenne's body water and available breath, cracks her
-  fingertips, and under heavy use produces thirst, muscle tremor, visual halos,
-  and collapse risk. Three streams during the failing channel produce acute
-  oxygen debt; during the joint defense she and Ombria set two streams as her
-  sustainable limit. **Exact local scope:** Draxenne's observed condition and
+  fingertips, and under heavy use produces muscle tremor, visual halos, acute
+  oxygen debt, and severe post-crisis exhaustion. Three streams during the
+  failing channel produce the acute oxygen debt; during the joint defense she
+  and Ombria set two streams as her sustainable limit. **Exact local scope:**
+  Draxenne's observed condition and
   choices on this night. **Constraints and dependencies:** These costs cannot
   be transferred to another person and do not arise from rank, desire,
-  jealousy, consent, or virtue. Depends on WHM-12 and the intensity and
-  enclosure of the cast. **Provenance:**
+  jealousy, consent, or virtue. Depends on WHM-12; the three-stream failure and
+  sustained two-stream defense are recorded in WHM-22 and WHM-23.
+  **Provenance:**
   `stories/what-i-hate-most/05-story.md`, proposal only. **Suggested smallest
   topical target:** `universe/rules.md`.
 - **WHM-14 — cindercraft enclosure, withdrawal, and residual hazards
