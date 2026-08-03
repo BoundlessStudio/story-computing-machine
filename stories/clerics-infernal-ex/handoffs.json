@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "clerics-infernal-ex",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T18:17:16.7319641+00:00",
+      "completedAt": "2026-08-03T18:42:15.0647634+00:00",
+      "guardId": "f3107927171f4344a31508c2f2dad322",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: `clerics-infernal-ex`\nmode: `CREATE_PLAN`\nguardId: `f3107927171f4344a31508c2f2dad322`\noutput: `stories/clerics-infernal-ex/02-story-plan.md`\nnameRegistrationRequired: `true`\nacceptanceSummary: `Complete 3,500-word, seven-scene causal plan with bounded living-powered arrival mechanics, adult consensual ex history, action and emotional resolution without reunion, speaker profiles and dialogue tactic changes, canon boundaries, local inventions, and a collision-free four-column Name check for Emet Sarn, Lacrixa, Bosk, and Udren. No other file changed.`",
+      "inputs": [
+        "stories/clerics-infernal-ex/00-prompt.md",
+        "stories/clerics-infernal-ex/01-canon-brief.md",
+        "stories/clerics-infernal-ex/authority.json",
+        "stories/clerics-infernal-ex/handoffs.json",
+        "stories/clerics-infernal-ex/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/clerics-infernal-ex/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
