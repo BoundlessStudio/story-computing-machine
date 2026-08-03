@@ -2,13 +2,13 @@
 
 ## Current certification
 
-- Reviewed artifact: stories/the-healers-measure/03-draft.md
-- Review pass: 2
-- Verdict: PASS
+- Reviewed artifact: stories/the-healers-measure/05-story.md
+- Review pass: 3
+- Verdict: REVISE
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 0
-- Updated: 2026-08-03T22:20:05.5587047Z
+- Unresolved Major findings: 1
+- Updated: 2026-08-03T22:35:23.0672037Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -86,6 +86,80 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only review; no files changed. The complete approximately 3,600-word draft otherwise fulfills the prompt strongly: Vekran demonstrates disciplined martial and magical mastery at visible cost; Ruva remains a healer whose triage, anatomy, stabilization, consent practice, and preservation instinct become tactically indispensable; her six weeks of narrow martial training support rather than replace that vocation; and the selection rationale is proved through consequential action before Vekran names it. The local measurework remains living-powered, its iron, chalk, clasp, blade, bracer, and architecture remain non-agentic foci, and healing retains concrete limits and ordinary aftercare. The injured attacker chooses cooperation, survives without absolution, and enters ordinary custody. Violence remains non-graphic and Teen, close-third past tense is controlled, Ruva, Vekran, and the knot-caster retain distinct conversational strategies and material tactic changes, the aftermath preserves injury and rebuilding costs, and the ending earns the integrated apprenticeship without instant mastery or universal reform. Only the registered forms Ruva and Vekran appear as character-facing names. Production revision is required for the contradictory sixty-heartbeat hold chronology and false-branch count, plus one Minor courtyard-clearance continuity gap; no canon ruling, retcon, or material prompt reinterpretation is required."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "the-healers-measure",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/the-healers-measure/05-story.md",
+  "authorityManifest": "stories/the-healers-measure/authority.json",
+  "handoffLedger": "stories/the-healers-measure/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-03T22:35:23.0672037Z",
+  "reviewBasis": "Independent read-only joint final review under guard d070bdb6753344669c58abb7d8eb0bb5 of the complete 3,869-word release-facing story and all 25 proposed canon-delta items against the captured prompt, in-progress lifecycle record, canon brief, scene-ready plan, passing revised draft, review history through pass 2, authority inventory captured at base commit c84db9d381f804d4b7ab4e09c9d49c7345c08ba2, ordered handoff ledger through completed sequence 7, and current complete character-name registry. Verified that final prose differs from the passing draft only through required release frontmatter and two surface-level clarity edits, then rechecked title, slug, creation date, prompt fulfillment, close-third past-tense control, chronology, spatial and causal continuity, partial-brace and full-load behavior, sixty-heartbeat tracking, exact false-branch cycle, cleared courtyard path, living magical agency, non-agentic foci, local scope and costs, healing limits, consent, personhood, custody, Teen injury treatment, pacing, dialogue profiles and tactic changes, prose readiness, all prior finding dispositions, every delta fact, qualifier, dependency, disposition and target, the exhaustive final character-facing inventory, and the required reviewed-prose non-character allowlist. The strict final story-names/3 gate reported zero warnings and zero errors in the completed final-edit handoff. Captured universe authority remains unchanged.",
+  "verdict": "REVISE",
+  "blockType": null,
+  "resolutionOwner": "story_editor",
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 1,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "THM-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The final prose preserves the repair at stories/the-healers-measure/05-story.md:115-181, where Vekran's initial working carries only the sliding beam as a lower partial brace, and at lines 227 and 259, where the full crisis load is deferred until the final map. Lines 303-361 still begin the four-line load at sixty and track it through forty-six, thirty-four, twenty-eight, and eighteen before the immediate redirection. The two surface edits do not affect this chronology."
+    },
+    {
+      "id": "THM-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The final prose preserves the exact cycle at stories/the-healers-measure/05-story.md:243 and 325-355: the branch begins crossing on one, covers the living line on two and three, clears on four, and leaves the safe interval in which Ruva cuts. Her abort and the caster's indispensable live count remain causally exact."
+    },
+    {
+      "id": "THM-DRAFT-003",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The final prose preserves the established clearance at stories/the-healers-measure/05-story.md:95, where the wedged cart and evacuees move behind the rear wall and the doorway-to-trough strip is emptied. Lines 361-365 still direct the release into that cleared strip and stop debris short of the cart."
+    }
+  ],
+  "findings": [
+    {
+      "id": "THM-FINAL-001",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "canon-delta evidence and dependency boundary",
+      "locations": [
+        "stories/the-healers-measure/05-story.md:59-61",
+        "stories/the-healers-measure/05-story.md:161-175",
+        "stories/the-healers-measure/05-story.md:203-205",
+        "stories/the-healers-measure/05-story.md:353",
+        "stories/the-healers-measure/05-story.md:385",
+        "stories/the-healers-measure/06-canon-delta.md:36",
+        "stories/the-healers-measure/06-canon-delta.md:40",
+        "stories/the-healers-measure/06-canon-delta.md:47-49",
+        "stories/the-healers-measure/06-canon-delta.md:57"
+      ],
+      "evidence": "Three connected delta details exceed or blur the final-story evidence. THM-07 says `the measure` perceives active pressure through either an iron focus or direct healing contact, but final prose distinguishes Ruva's muddled witchknight measure through iron from her touch-based healing working and explicitly named `healer-sense`; operational overlap in the climax does not establish one shared faculty. THM-03, THM-14, THM-15, THM-16, and especially THM-24 use `wound-knot` as a reusable mechanism name, while THM-24 expressly claims final prose uses that lowercase term. `Wound-knot` never occurs in 05-story.md; the story uses `working`, `braided working`, `spell`, and `knot-caster`, while the actual final-prose term `measurework` is omitted from THM-24's candidate vocabulary bundle. Finally, THM-16 says success depends on the previously cleared courtyard path but its dependency list omits the location, evacuation, and release rows that establish that path. These inaccuracies could carry a merged faculty, plan-only terminology, and an incomplete dependency into later promotion despite the otherwise local qualifiers.",
+      "requiredResolution": "Revise the delta without changing final prose. In THM-07, distinguish witchknight measure through iron from Ruva's touch-based healing working and healer-sense, limiting their relationship to the demonstrated operational combination. Remove `wound-knot` as a claimed final-prose term and promotion-ready label from affected reusable facts, or explicitly classify it as delta-only editorial shorthand with no glossary or canon disposition; make THM-24's vocabulary evidence match terms actually present in 05-story.md, including `measurework` if that bundle is retained. In THM-16, either add the appropriate THM-17, THM-18, and/or THM-20 dependency for the cleared redirection path or narrow the row so it covers only the separation act. Recheck all affected constraints and dependencies for exact correspondence.",
+      "owner": "story_editor"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only final review; no files changed. The release-facing story itself is prompt-complete, canon-compatible, causally coherent, Teen, and prose-ready. Its immutable frontmatter matches story.json; the two final surface edits improve physical clarity without changing plot, voice, mechanics, or any resolved finding. Vekran remains a credible master of steel and locally bounded magic at visible cost, while Ruva succeeds through integrated healer judgment and narrow apprentice techniques rather than effortless mastery. The partial brace, sixty-heartbeat full load, four-beat false branch, cleared redirection path, living supply, inert tools, force movement, healing limits, renewed consent, attacker cooperation and custody, injuries, property damage, and incomplete apprenticeship remain consistent. Dialogue strategies remain distinct and change under resistance; the healer-centered selection rationale is demonstrated before it is explained. The final character inventory contains exactly Ruva and Vekran, the registry has no unresolved collision, `None` is correct for the reviewed-prose non-character allowlist, and the strict final name gate passes cleanly. All three draft findings remain resolved. The delta contains 25 unique sequential items and is proposed-only, unpromoted, locally qualified, and mostly exact, but certification is withheld because THM-07 merges distinct sensing practices, several rows import the absent `wound-knot` label while THM-24 misstates the final vocabulary, and THM-16 does not align its cleared-path constraint with its dependencies. These are delta-only production repairs requiring no user ruling, retcon, or prose revision."
 }
 END_REVIEW_PASS_PAYLOAD
 
