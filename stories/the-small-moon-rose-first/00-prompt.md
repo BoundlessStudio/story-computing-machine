@@ -1,27 +1,20 @@
 # Prompt contract
 
+> Contract status: CAPTURED
+> Story slug: `the-small-moon-rose-first`
+> Captured: 2026-07-22
+
 ## Verbatim writing prompt
 
-> import from C:\Users\jamie\OneDrive\Desktop\Stories the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, The Names on the Cups, outlines as starting seed stories;
-
-## Verbatim clarification
-
+> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
+>
 > do not treat the imported stories any different.
-
+>
 > i don't care about the meta difference either for the imported stories; treat them no diferently.
-
-## Parsed scope for this story
-
-- Working title: *The Small Moon Rose First*
-- Task: complete the ordinary shared-universe story workflow, release the story,
-  and prepare it for the same user-authorized canon promotion as every other
-  passing story.
-- Creative input: `sources/records/s07/The_Small_Moon_Rose_First_Full_Outline.md` (full novel outline).
-- Classification: no origin-based story class, lifecycle state, metadata field,
-  publication lane, or canon exception is permitted.
 
 ## Story controls
 
+- Working title: The Small Moon Rose First
 - Target length: 3,000–4,000 words
 - POV: Choose one close viewpoint that can carry a complete short-story arc from the outline
 - Tense: Past
@@ -36,6 +29,7 @@
 
 ## Assumptions
 
+- Creative input: `sources/records/s07/The_Small_Moon_Rose_First_Full_Outline.md` (full novel outline).
 - The preserved text is creative material supplied with this prompt, not canon
   authority.
 - Local changes needed for shared-universe consistency, name discipline,
@@ -45,7 +39,7 @@
 - This story uses exactly the same lifecycle and release requirements as every
   other story in the repository.
 
-## Acceptance criteria
+## Completion tests
 
 - `01-canon-brief.md` distinguishes established constraints, unknowns, and
   safe local invention.

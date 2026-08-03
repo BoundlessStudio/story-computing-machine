@@ -1,24 +1,20 @@
 # Prompt contract
 
+> Contract status: CAPTURED
+> Story slug: `self-reflection`
+> Captured: 2026-07-22
+
 ## Verbatim writing prompt
 
-> import from C:\Users\jamie\OneDrive\Desktop\Stories the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, The Names on the Cups, outlines as starting seed stories;
-
-## Verbatim clarification
-
+> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
+>
 > do not treat the imported stories any different.
-
+>
 > i don't care about the meta difference either for the imported stories; treat them no diferently.
-
-## Parsed scope for this story
-
-- Working title: *Self-Reflection*
-- Task: complete the ordinary shared-universe story workflow, release the story,
-  and prepare it for the same user-authorized canon promotion as every other
-  passing story.
 
 ## Story controls
 
+- Working title: Self-Reflection
 - Target length: 3,000–4,000 words
 - POV: Close third person from Nina's viewpoint
 - Tense: Past
@@ -33,6 +29,7 @@
 
 ## Assumptions
 
+- Creative input: `sources/records/s04/Self-Reflection.md` (complete short story).
 - The preserved text is creative material supplied with this prompt, not canon
   authority.
 - Local changes needed for shared-universe consistency, name discipline,
@@ -42,7 +39,7 @@
 - This story uses exactly the same lifecycle and release requirements as every
   other story in the repository.
 
-## Acceptance criteria
+## Completion tests
 
 - `01-canon-brief.md` distinguishes established constraints, unknowns, and
   safe local invention.
