@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "transitions-in-common",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T15:30:21.0189286+00:00",
+      "completedAt": "2026-08-03T15:38:39.6138906+00:00",
+      "guardId": "e7a6d88275b9478980ca35159351ada5",
+      "persister": "prose_writer",
+      "report": "status: READY\nresolutionOwner: none\nstory: `transitions-in-common`\nmode: `CREATE_DRAFT`\nguardId: `e7a6d88275b9478980ca35159351ada5`\ncurrentStage: `planning`\noutput: `stories/transitions-in-common/03-draft.md`\nwordCount: `3408`\nnamesUsed: `Cody`; `Hugo`\nacceptanceSummary: `Created a complete five-scene close-first-person past-tense draft satisfying the YA-14+ ceiling, causal masculine/feminine/mixed identity play, bounded transformation mechanics, distinct transgender and shapeshifting experiences, consequential secrecy breach, Hugo’s independent agency, conduct-specific apology without demanded absolution, reciprocal boundaries, and friendship repair through separately consented portraits.`\nchangeReport: `Only stories/transitions-in-common/03-draft.md changed; no prompt, authority, canon brief, plan, registry, lifecycle, handoff, review, final, delta, universe, or other file was modified.`\nstalePrecondition: `none`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/transitions-in-common/00-prompt.md",
+        "stories/transitions-in-common/01-canon-brief.md",
+        "stories/transitions-in-common/02-story-plan.md",
+        "stories/transitions-in-common/authority.json",
+        "stories/transitions-in-common/handoffs.json",
+        "stories/transitions-in-common/story.json"
+      ],
+      "outputs": [
+        "stories/transitions-in-common/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
