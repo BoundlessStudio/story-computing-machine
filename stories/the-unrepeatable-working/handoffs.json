@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "the-unrepeatable-working",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T23:29:42.0069667+00:00",
+      "completedAt": "2026-08-03T23:39:05.7096882+00:00",
+      "guardId": "e3fcf2572fa441ca997467157fb2250b",
+      "persister": "story_architect",
+      "report": "status: READY  \nchangedPath: `stories/the-unrepeatable-working/02-story-plan.md`  \nnameInventory:\n- `Dorram` — intentional recurring identity; same younger Dorram from `voice-of-silence`\n- `Melek` — unique\n\nscopeCheck: only the allowed plan path changed; six scenes; 3,400-word projected draft; complete four-column Name check.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-unrepeatable-working/00-prompt.md",
+        "stories/the-unrepeatable-working/01-canon-brief.md",
+        "stories/the-unrepeatable-working/authority.json",
+        "stories/the-unrepeatable-working/handoffs.json",
+        "stories/the-unrepeatable-working/story.json"
+      ],
+      "outputs": [
+        "stories/the-unrepeatable-working/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
