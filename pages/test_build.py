@@ -20,6 +20,7 @@ class SiteBuildTests(unittest.TestCase):
         crown = next(item for item in catalog.stories if item.metadata.slug == "a-crown-of-quiet-hours")
         self.assertTrue(crown.metadata.canon)
         self.assertEqual("final", crown.metadata.status)
+        self.assertTrue(crown.prompt.startswith("The benevolent monarchy"))
 
     def test_real_catalog_lists_newest_stories_first(self):
         catalog = build.load_catalog(REPO)
@@ -70,6 +71,22 @@ class SiteBuildTests(unittest.TestCase):
         rendered = build.render_index(catalog)
         self.assertIn("Canon", rendered)
         self.assertIn("24 published stories", rendered)
+        self.assertEqual(len(catalog.stories), rendered.count('<span class="prompt-label">Prompt</span>'))
+
+    def test_story_has_one_visible_title_and_displays_prompt(self):
+        catalog = build.load_catalog(REPO)
+        for story in catalog.stories:
+            rendered = build.render_story(story)
+            self.assertEqual(1, rendered.count("<h1>"), story.metadata.slug)
+        crown = next(item for item in catalog.stories if item.metadata.slug == "a-crown-of-quiet-hours")
+        rendered = build.render_story(crown)
+        self.assertIn('<span class="prompt-label">Prompt</span>', rendered)
+        self.assertIn("The benevolent monarchy", rendered)
+
+    def test_pages_follow_the_system_color_scheme(self):
+        rendered = build.render_index(build.load_catalog(REPO))
+        self.assertIn("color-scheme:light dark", rendered)
+        self.assertIn("prefers-color-scheme:dark", rendered)
 
 
 if __name__ == "__main__":
