@@ -2,7 +2,7 @@
 
 - Slug: `clerics-infernal-ex`
 - Created: 2026-08-03
-- Current stage: prompt
+- Current stage: final-review
 - Status: in-progress
 - Canon: no
 - User disposition: pending
