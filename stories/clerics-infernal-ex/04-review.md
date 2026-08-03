@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/clerics-infernal-ex/05-story.md`
-- Review pass: 2
-- Verdict: REVISE
+- Review pass: 3
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-03T19:13:03.3621296Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-03T19:19:12.1917579Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -135,5 +135,58 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only review; no files changed. The complete 3,450-word final story is prompt-complete, canon-compatible, causally coherent, Teen/PG-13, and prose-ready. Its immutable frontmatter matches story.json; the required greeting, bard glance, and cleric-ex reversal occur exactly; the former adult consensual relationship materially causes the breach and its solution; both populated endpoints and the unfinished relationship receive earned resolution without killing, absolution, or reunion. Living supply, nonliving focus behavior, eighty-heartbeat limit, three-loop escalation, costs, discharge order, synchronized revocation, and endpoint-local leaf destruction remain legible and consistent. Bosk and Udren are indispensable, speaker strategies remain distinct, and the Cauterized Reach, demon identity, House practice, and crossing system remain locally framed. Both pass-1 findings are resolved without regression. The final character inventory is exhaustive, the two-entry three-column allowlist is exact, all five character-facing forms match unique registry reservations, and the strict Final name gate passes cleanly. All 18 delta items have explicit scope, constraints, dependencies, provenance, dispositions, and targets, and the remaining fifteen are prose-supported and suitably bounded. Certification is withheld because CIE-05 blurs the exes' unequal reasons for retaining access, CIE-08 imports an unshown refuge history and overstates institutional evidence, and CIE-15 invents a medallion-conduit capability. These are delta-only production repairs requiring no user ruling, retcon, or prose change."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "clerics-infernal-ex",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/clerics-infernal-ex/05-story.md",
+  "authorityManifest": "stories/clerics-infernal-ex/authority.json",
+  "handoffLedger": "stories/clerics-infernal-ex/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-03T19:19:12.1917579Z",
+  "reviewBasis": "Independent read-only final re-review under guard 511b6c2fd2264308b5a92c534942df13 of the unchanged release-facing story and corrected proposed canon delta against the captured prompt, lifecycle record, canon brief, scene-ready plan, source draft, review history through passes 1 and 2, unchanged authority inventory captured at base commit 8c4f2cf44e9da943711a7df4f1bc5df505bbc4a2, ordered handoff ledger through completed sequence 7, and current full character-name registry. Checkpoint comparison confirms stories/clerics-infernal-ex/05-story.md is unchanged from pass 2 and only the delta, review history, and ledger changed. Rechecked immutable frontmatter, prompt fulfillment, chronology, causality, prose readiness, adult consent and accountability, living magical supply, nonliving foci, local infernal and clerical scope, all prior finding dispositions, all 18 unique sequential delta items and their constraints, dependencies, provenance, dispositions, and targets, the exhaustive final character-facing inventory, and the exact two-row three-column reviewed-prose allowlist. The strict Final story-names/3 gate passed at 2026-08-03T19:17:41.3089553+00:00 with zero warnings and zero errors.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "CIE-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves the pass-2 repair at stories/clerics-infernal-ex/05-story.md:69: the fence's mounting remains inert until keyed living bearers supply a fresh opening, and Emet's culpable action is correctly limited to recognizing and powering the rig while Lacrixa answers from her side. Delta items CIE-11 and CIE-16 remain aligned with that division."
+    },
+    {
+      "id": "CIE-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves Lacrixa's ruined leaf on the kiln-court tile at stories/clerics-infernal-ex/05-story.md:349 and limits the sanctuary evidence at line 389 to Emet's folded leaf, the three warped loops, spent salt-glass, and dead scaffold. Delta items CIE-06, CIE-14, and CIE-17 retain the same endpoint-local inventories."
+    },
+    {
+      "id": "CIE-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/clerics-infernal-ex/06-canon-delta.md:86-115, CIE-05 now distinguishes Emet's self-serving safety rationalization from Lacrixa's stated dangerous-echo concern and separate pride, expressly preserving their unequal responsibility. At lines 175-193, CIE-08 removes the unshown Reach-adjacent refuge, limits House facts to Emet's direct report, separates Emet's own demonstrated shelter practice, and denies extrapolation to every House cleric. At lines 303-324, CIE-15 routes ward-light only through the shown hinge leaf, held passage edge, scaffold foot or rear brace, and foundation path while limiting the inert medallion to its shelter-count and engraved procedural verse. The affected CIE-05, CIE-08, and CIE-15 constraints and dependencies remain complete and mutually consistent."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Final re-review passed; no repository files were changed. The unchanged 3,450-word story remains prompt-complete, canon-compatible, causally coherent, Teen/PG-13, and prose-ready, with valid title, slug, and creation-date frontmatter. Its exact comic reversal, adult consensual history, populated-endpoint danger, living-powered hinge mechanics, three-loop shutdown, indispensable party roles, accountable separation, and endpoint-local evidence remain intact. CIE-DRAFT-001 and CIE-DRAFT-002 remain resolved. The delta-only revision resolves CIE-FINAL-001 without altering prose or introducing unsupported facts: CIE-05 preserves the exes' asymmetric motives and responsibility, CIE-08 is limited to directly reported House facts and Emet's demonstrated practice, and CIE-15 confines ward-light transmission to paths shown in prose while treating the medallion solely as an inert count and procedural aid. All 18 delta items remain unique, sequential, proposed-only, locally qualified, provenance-backed, dependency-complete, and assigned explicit dispositions and smallest topical targets. The final inventory remains exhaustive for Emet Sarn, Emet, Lacrixa, Bosk, and Udren; the Cauterized Reach and House of Common Shelter remain the exact two non-character allowlist rows; and the strict Final name gate passes cleanly. Authority remains none, no promotion or retcon is authorized, no crossover or universalization is introduced, and no unresolved finding or user ruling remains."
 }
 END_REVIEW_PASS_PAYLOAD

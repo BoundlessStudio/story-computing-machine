@@ -199,6 +199,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "clerics-infernal-ex",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T19:18:07.7859061+00:00",
+      "completedAt": "2026-08-03T19:22:33.7863411+00:00",
+      "guardId": "511b6c2fd2264308b5a92c534942df13",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"clerics-infernal-ex\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 3,\n  \"reviewedArtifact\": \"stories/clerics-infernal-ex/05-story.md\",\n  \"authorityManifest\": \"stories/clerics-infernal-ex/authority.json\",\n  \"handoffLedger\": \"stories/clerics-infernal-ex/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T19:19:12.1917579Z\",\n  \"reviewBasis\": \"Independent read-only final re-review under guard 511b6c2fd2264308b5a92c534942df13 of the unchanged release-facing story and corrected proposed canon delta against the captured prompt, lifecycle record, canon brief, scene-ready plan, source draft, review history through passes 1 and 2, unchanged authority inventory captured at base commit 8c4f2cf44e9da943711a7df4f1bc5df505bbc4a2, ordered handoff ledger through completed sequence 7, and current full character-name registry. Checkpoint comparison confirms stories/clerics-infernal-ex/05-story.md is unchanged from pass 2 and only the delta, review history, and ledger changed. Rechecked immutable frontmatter, prompt fulfillment, chronology, causality, prose readiness, adult consent and accountability, living magical supply, nonliving foci, local infernal and clerical scope, all prior finding dispositions, all 18 unique sequential delta items and their constraints, dependencies, provenance, dispositions, and targets, the exhaustive final character-facing inventory, and the exact two-row three-column reviewed-prose allowlist. The strict Final story-names/3 gate passed at 2026-08-03T19:17:41.3089553+00:00 with zero warnings and zero errors.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"CIE-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"The unchanged final prose preserves the pass-2 repair at stories/clerics-infernal-ex/05-story.md:69: the fence's mounting remains inert until keyed living bearers supply a fresh opening, and Emet's culpable action is correctly limited to recognizing and powering the rig while Lacrixa answers from her side. Delta items CIE-11 and CIE-16 remain aligned with that division.\"\n    },\n    {\n      \"id\": \"CIE-DRAFT-002\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"The unchanged final prose preserves Lacrixa's ruined leaf on the kiln-court tile at stories/clerics-infernal-ex/05-story.md:349 and limits the sanctuary evidence at line 389 to Emet's folded leaf, the three warped loops, spent salt-glass, and dead scaffold. Delta items CIE-06, CIE-14, and CIE-17 retain the same endpoint-local inventories.\"\n    },\n    {\n      \"id\": \"CIE-FINAL-001\",\n      \"priorPass\": 2,\n      \"resolvedInPass\": 3,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/clerics-infernal-ex/06-canon-delta.md:86-115, CIE-05 now distinguishes Emet's self-serving safety rationalization from Lacrixa's stated dangerous-echo concern and separate pride, expressly preserving their unequal responsibility. At lines 175-193, CIE-08 removes the unshown Reach-adjacent refuge, limits House facts to Emet's direct report, separates Emet's own demonstrated shelter practice, and denies extrapolation to every House cleric. At lines 303-324, CIE-15 routes ward-light only through the shown hinge leaf, held passage edge, scaffold foot or rear brace, and foundation path while limiting the inert medallion to its shelter-count and engraved procedural verse. The affected CIE-05, CIE-08, and CIE-15 constraints and dependencies remain complete and mutually consistent.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Final re-review passed; no repository files were changed. The unchanged 3,450-word story remains prompt-complete, canon-compatible, causally coherent, Teen/PG-13, and prose-ready, with valid title, slug, and creation-date frontmatter. Its exact comic reversal, adult consensual history, populated-endpoint danger, living-powered hinge mechanics, three-loop shutdown, indispensable party roles, accountable separation, and endpoint-local evidence remain intact. CIE-DRAFT-001 and CIE-DRAFT-002 remain resolved. The delta-only revision resolves CIE-FINAL-001 without altering prose or introducing unsupported facts: CIE-05 preserves the exes' asymmetric motives and responsibility, CIE-08 is limited to directly reported House facts and Emet's demonstrated practice, and CIE-15 confines ward-light transmission to paths shown in prose while treating the medallion solely as an inert count and procedural aid. All 18 delta items remain unique, sequential, proposed-only, locally qualified, provenance-backed, dependency-complete, and assigned explicit dispositions and smallest topical targets. The final inventory remains exhaustive for Emet Sarn, Emet, Lacrixa, Bosk, and Udren; the Cauterized Reach and House of Common Shelter remain the exact two non-character allowlist rows; and the strict Final name gate passes cleanly. Authority remains none, no promotion or retcon is authorized, no crossover or universalization is introduced, and no unresolved finding or user ruling remains.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/clerics-infernal-ex/00-prompt.md",
+        "stories/clerics-infernal-ex/01-canon-brief.md",
+        "stories/clerics-infernal-ex/02-story-plan.md",
+        "stories/clerics-infernal-ex/03-draft.md",
+        "stories/clerics-infernal-ex/04-review.md",
+        "stories/clerics-infernal-ex/05-story.md",
+        "stories/clerics-infernal-ex/06-canon-delta.md",
+        "stories/clerics-infernal-ex/authority.json",
+        "stories/clerics-infernal-ex/handoffs.json",
+        "stories/clerics-infernal-ex/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/clerics-infernal-ex/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
