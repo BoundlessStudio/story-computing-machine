@@ -3,8 +3,6 @@ name: Build and deploy stories to Pages
 on:
   push:
     branches: ["main"]
-  pull_request:
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -48,7 +46,6 @@ jobs:
           path: _site
 
   deploy:
-    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 10

@@ -14,9 +14,17 @@ REPO = Path(__file__).resolve().parents[1]
 
 
 class SiteBuildTests(unittest.TestCase):
-    def test_real_catalog_contains_all_legacy_stories(self):
+    def test_real_catalog_contains_every_story(self):
         catalog = build.load_catalog(REPO)
-        self.assertEqual(24, len(catalog.stories))
+        expected = {
+            directory.name
+            for directory in (REPO / "stories").iterdir()
+            if directory.is_dir()
+            and not directory.name.startswith("_")
+        }
+        actual = {story.metadata.slug for story in catalog.stories}
+        self.assertEqual(expected, actual)
+        self.assertTrue(any(not story.metadata.publish for story in catalog.stories))
         crown = next(item for item in catalog.stories if item.metadata.slug == "a-crown-of-quiet-hours")
         self.assertTrue(crown.metadata.canon)
         self.assertEqual("final", crown.metadata.status)
@@ -26,7 +34,7 @@ class SiteBuildTests(unittest.TestCase):
         catalog = build.load_catalog(REPO)
         dates = [story.metadata.created for story in catalog.stories]
         self.assertEqual(sorted(dates, reverse=True), dates)
-        self.assertEqual("the-courtesy-of-blades", catalog.stories[0].metadata.slug)
+        self.assertEqual(max(dates), catalog.stories[0].metadata.created)
 
     def test_real_build_writes_index_and_every_story(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -70,8 +78,16 @@ class SiteBuildTests(unittest.TestCase):
         catalog = build.load_catalog(REPO)
         rendered = build.render_index(catalog)
         self.assertIn("Canon", rendered)
-        self.assertIn("24 published stories", rendered)
+        self.assertIn(f"{len(catalog.stories)} stories", rendered)
         self.assertEqual(len(catalog.stories), rendered.count('<span class="prompt-label">Prompt</span>'))
+
+    def test_pages_link_to_repository_with_github_icon(self):
+        catalog = build.load_catalog(REPO)
+        for rendered in (build.render_index(catalog), build.render_story(catalog.stories[0])):
+            self.assertIn(f'href="{build.REPOSITORY_URL}"', rendered)
+            self.assertIn('class="repository-link"', rendered)
+            self.assertIn('aria-label="View BoundlessStudio/story-computing-machine on GitHub"', rendered)
+            self.assertIn('<svg ', rendered)
 
     def test_story_has_one_visible_title_and_displays_prompt(self):
         catalog = build.load_catalog(REPO)

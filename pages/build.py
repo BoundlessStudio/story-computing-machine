@@ -33,7 +33,7 @@ class StoryMetadata:
 
 
 @dataclass(frozen=True)
-class PublishedStory:
+class ReaderStory:
     metadata: StoryMetadata
     prompt: str
     body: str
@@ -42,7 +42,7 @@ class PublishedStory:
 
 @dataclass(frozen=True)
 class Catalog:
-    stories: tuple[PublishedStory, ...]
+    stories: tuple[ReaderStory, ...]
 
 
 def read_json_object(path: Path) -> dict[str, Any]:
@@ -146,30 +146,6 @@ def _story_metadata(directory: Path, contract: dict[str, Any]) -> StoryMetadata:
     return StoryMetadata(directory, value["slug"], value["title"], value["created"], value["stage"], value["status"], value["canon"], value["userDisposition"], value["publish"], value["promotionDate"], value["provenance"])
 
 
-def _validate_release(metadata: StoryMetadata, contract: dict[str, Any]) -> None:
-    path = metadata.directory / "release.json"
-    value = read_json_object(path)
-    spec = contract["release"]
-    require_exact_fields(value, spec["fields"], path)
-    if value["schemaVersion"] != 3 or value["storySlug"] != metadata.slug or value["certified"] is not True:
-        raise ValueError(f"Invalid release header in {path}")
-    if value["certificationBasis"] not in spec["certificationBases"]:
-        raise ValueError(f"Invalid release basis in {path}")
-    require_exact_fields(value["artifacts"], spec["artifactContainerFields"], path)
-    for key, expected in (("story", "05-story.md"), ("canonDelta", "06-canon-delta.md")):
-        require_exact_fields(value["artifacts"][key], spec["artifactFields"], path)
-        if value["artifacts"][key]["path"] != expected:
-            raise ValueError(f"Invalid release artifact path in {path}")
-    require_exact_fields(value["review"], spec["reviewFields"], path)
-    review = value["review"]
-    if review["artifact"] != "05-story.md" or review["verdict"] != "PASS" or review["unresolvedCritical"] != 0 or review["unresolvedMajor"] != 0:
-        raise ValueError(f"Release review gate failed in {path}")
-    require_exact_fields(value["nameCheck"], spec["nameCheckFields"], path)
-    if value["nameCheck"]["story"] != metadata.slug or value["nameCheck"]["phase"] != "Final" or value["nameCheck"]["passed"] is not True:
-        raise ValueError(f"Release name gate failed in {path}")
-    require_exact_fields(value["dependencies"], spec["dependencyFields"], path)
-
-
 def _legacy_slugs(root: Path) -> set[str]:
     path = root / "stories" / "legacy-acceptance.json"
     value = read_json_object(path)
@@ -188,15 +164,10 @@ def _legacy_slugs(root: Path) -> set[str]:
 def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
     contract = load_pipeline_contract(repository_root / "schemas" / "pipeline-contract.json")
     legacy = _legacy_slugs(repository_root)
-    published: list[PublishedStory] = []
+    stories: list[ReaderStory] = []
     story_root = repository_root / "stories"
     for directory in sorted((item for item in story_root.iterdir() if item.is_dir() and not item.name.startswith("_")), key=lambda item: item.name):
         metadata = _story_metadata(directory, contract)
-        if not metadata.publish:
-            continue
-        if metadata.status not in contract["lifecycle"]["publishableStatuses"]:
-            raise ValueError(f"Published story is not terminal: {metadata.slug}")
-        _validate_release(metadata, contract)
         if metadata.provenance == "legacy-user-attested" and metadata.slug not in legacy:
             raise ValueError(f"Legacy story is not attested: {metadata.slug}")
         front, body = parse_front_matter((directory / "05-story.md").read_text(encoding="utf-8"), directory / "05-story.md")
@@ -207,53 +178,66 @@ def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
         prompt_path = directory / "00-prompt.md"
         prompt = parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path)
         word_count = len(re.findall(r"\b[\w’'-]+\b", body))
-        published.append(PublishedStory(metadata, prompt, body.strip(), word_count))
-    published.sort(key=lambda story: story.metadata.created, reverse=True)
-    return Catalog(tuple(published))
+        stories.append(ReaderStory(metadata, prompt, body.strip(), word_count))
+    stories.sort(key=lambda story: story.metadata.created, reverse=True)
+    return Catalog(tuple(stories))
 
 
-def _page(title: str, body: str) -> str:
+REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
+GITHUB_ICON = '''<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.64 0 8.13c0 3.59 2.29 6.64 5.47 7.71.4.08.55-.17.55-.39 0-.19-.01-.82-.01-1.49-2.01.44-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.59 1.23.83.72 1.23 1.87.88 2.33.67.07-.53.28-.88.51-1.08-1.78-.21-3.64-.9-3.64-4.01 0-.89.31-1.62.82-2.19-.08-.21-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.92c.68 0 1.36.09 2 .28 1.53-1.06 2.2-.84 2.2-.84.44 1.12.16 1.95.08 2.16.51.57.82 1.3.82 2.19 0 3.12-1.87 3.8-3.65 4.01.29.25.54.73.54 1.49 0 1.07-.01 1.93-.01 2.2 0 .22.15.47.55.39A8.03 8.03 0 0 0 16 8.13C16 3.64 12.42 0 8 0Z"/></svg>'''
+
+
+def _page(title: str, body: str, home_href: str) -> str:
+    repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
+    header = f'<header class="site-header"><a class="site-name" href="{home_href}">Story Computing Machine</a>{repository_link}</header>'
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>
 :root{{color-scheme:light dark;--background:#fcf8f1;--surface:#fffdf8;--text:#241f1a;--muted:#6d645a;--link:#70451f;--border:#d8cec0}}
 @media (prefers-color-scheme:dark){{:root{{--background:#181512;--surface:#211d19;--text:#eee8df;--muted:#b8aea2;--link:#e4b780;--border:#4a4036}}}}
 body{{max-width:48rem;margin:0 auto;padding:2rem;font:18px/1.65 Georgia,serif;color:var(--text);background:var(--background)}}
 a{{color:var(--link)}}
+.site-header{{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-bottom:1rem;border-bottom:1px solid var(--border)}}
+.site-name{{font:700 13px system-ui;text-decoration:none;letter-spacing:.04em;text-transform:uppercase}}
+.repository-link{{display:inline-flex;align-items:center;justify-content:center;width:2.25rem;height:2.25rem;border-radius:50%;color:var(--text)}}
+.repository-link:hover{{background:var(--surface);color:var(--link)}}
+.repository-link svg{{width:1.35rem;height:1.35rem;fill:currentColor}}
 article{{margin:2rem 0}}
 .meta,.prompt-label{{color:var(--muted);font:14px system-ui}}
 .prompt{{margin:1rem 0;padding:1rem 1.2rem;border:1px solid var(--border);border-radius:.35rem;background:var(--surface)}}
 .prompt-label{{display:block;margin-bottom:.25rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase}}
 .prompt blockquote{{margin:0}}
 li{{margin:1rem 0}}
-</style></head><body>{body}</body></html>'''
+</style></head><body>{header}<main>{body}</main></body></html>'''
 
 
 def _prompt(value: str) -> str:
     return f'<div class="prompt"><span class="prompt-label">Prompt</span><blockquote>{html.escape(value)}</blockquote></div>'
 
 
-def _without_leading_title(body: str, title: str) -> str:
-    heading = re.match(r"^#\s+(?P<title>[^\n]+?)\s*(?:\n+|\Z)", body)
+def _without_leading_title(body: str) -> str:
+    heading = re.match(r"^#\s+[^\n]+?\s*(?:\n+|\Z)", body)
     if heading is None:
         return body
-    heading_title = re.sub(r"[*_`]", "", heading.group("title")).strip()
-    if heading_title.casefold() != title.casefold():
-        return body
     return body[heading.end() :].lstrip()
+
+
+def _story_label(metadata: StoryMetadata) -> str:
+    status = metadata.status.replace("-", " ").title()
+    return f"{status} · Canon" if metadata.canon else status
 
 
 def render_index(catalog: Catalog) -> str:
     items = []
     for story in catalog.stories:
-        status = "Canon" if story.metadata.canon else "Candidate"
+        status = _story_label(story.metadata)
         items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a>{_prompt(story.prompt)}<div class="meta">{status} · {story.word_count:,} words</div></li>')
-    return _page("Stories", f"<h1>Stories</h1><p>{len(items)} published stories from the current validated checkout.</p><ol>{''.join(items)}</ol>")
+    return _page("Stories", f"<h1>Stories</h1><p>{len(items)} stories from the current validated checkout.</p><ol>{''.join(items)}</ol>", "index.html")
 
 
-def render_story(story: PublishedStory) -> str:
-    prose = markdown.markdown(_without_leading_title(story.body, story.metadata.title), extensions=["extra", "smarty"])
-    status = "Canon" if story.metadata.canon else "Candidate"
+def render_story(story: ReaderStory) -> str:
+    prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
+    status = _story_label(story.metadata)
     body = f'<p><a href="../index.html">← All stories</a></p><article><h1>{html.escape(story.metadata.title)}</h1><p class="meta">{status} · {story.word_count:,} words</p>{_prompt(story.prompt)}{prose}</article>'
-    return _page(story.metadata.title, body)
+    return _page(story.metadata.title, body, "../index.html")
 
 
 def prepare_output(output: Path, repository_root: Path) -> Path:
@@ -285,7 +269,7 @@ def main() -> None:
     parser.add_argument("--output", type=Path, default=REPOSITORY_ROOT / "_site")
     args = parser.parse_args()
     catalog = build(args.output)
-    print(f"Built {len(catalog.stories)} published stories in {args.output}")
+    print(f"Built {len(catalog.stories)} stories in {args.output}")
 
 
 if __name__ == "__main__":
