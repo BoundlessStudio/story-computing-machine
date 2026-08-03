@@ -78,6 +78,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 4,
+      "story": "transitions-in-common",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T15:38:59.3927118+00:00",
+      "completedAt": "2026-08-03T15:43:29.1255551+00:00",
+      "guardId": "ebd898cce5c045bf9d65c32b6b34583b",
+      "persister": "coordinator",
+      "report": "REVIEW_PASS_PAYLOAD\n{\n  \"story\": \"transitions-in-common\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 1,\n  \"reviewedArtifact\": \"stories/transitions-in-common/03-draft.md\",\n  \"authorityManifest\": \"stories/transitions-in-common/authority.json\",\n  \"handoffLedger\": \"stories/transitions-in-common/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T15:42:07.3654789Z\",\n  \"reviewBasis\": \"Independent complete-draft review against the captured prompt, canon brief, scene-ready plan, current authority inventory, ordered handoff ledger, prior review history, exhaustive name registry, binding audience and personhood constraints, and repository prose, voice, and dialogue-review guidance.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Initial draft review passed. The complete 3,408-word draft fulfills the prompt in close first-person past tense, respects the YA-14+ ceiling, and makes masculine, feminine, and mixed body and presentation choices causal without treating anatomy as proof of gender. It clearly separates Cody's locally bounded shapeshifting from Hugo's transgender identity while preserving the possibility of overlap through self-definition rather than mechanism. Cody's transformation timing, living initiation, continuous personhood, unchanged clothing and carried matter, cooldown, stalled mixed-state failure, fatigue, and recovery remain internally consistent and locally scoped. The misunderstanding is motivated by secrecy and incompatible meanings; the reveal creates a trust and exposure consequence; Cody's apology owns assumption, false shared understanding, and ambiguous permission; and the repair uses separately granted boundaries rather than instant absolution. Hugo retains an independent portrait goal, controls his disclosure and image, protects Cody without surrendering his hurt, withdraws on his own terms, chooses the later meeting, limits questions, and decides whether the friendship continues. Cody and Hugo retain distinct dialogue strategies under pressure, the Friday-to-Monday chronology and scene causality are coherent, the ending completes the friendship's bounded redefinition, and the only character-facing names match unique in-progress registry reservations. No prose or repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/transitions-in-common/00-prompt.md",
+        "stories/transitions-in-common/01-canon-brief.md",
+        "stories/transitions-in-common/02-story-plan.md",
+        "stories/transitions-in-common/03-draft.md",
+        "stories/transitions-in-common/04-review.md",
+        "stories/transitions-in-common/authority.json",
+        "stories/transitions-in-common/handoffs.json",
+        "stories/transitions-in-common/story.json"
+      ],
+      "outputs": [
+        "stories/transitions-in-common/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
