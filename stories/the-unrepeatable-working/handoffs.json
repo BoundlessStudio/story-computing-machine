@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-unrepeatable-working",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T23:39:53.7264149+00:00",
+      "completedAt": "2026-08-03T23:45:34.1750110+00:00",
+      "guardId": "b03214e20da342d5a3fceded4c16c184",
+      "persister": "prose_writer",
+      "report": "status: READY\n\nwordCount: 3,024\n\nchangedPath: `stories/the-unrepeatable-working/03-draft.md`\n\nscopeCheck: Only the allowed draft path changed; six scenes complete; dialogue checklist pass completed; no stale preconditions.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-unrepeatable-working/00-prompt.md",
+        "stories/the-unrepeatable-working/01-canon-brief.md",
+        "stories/the-unrepeatable-working/02-story-plan.md",
+        "stories/the-unrepeatable-working/authority.json",
+        "stories/the-unrepeatable-working/handoffs.json",
+        "stories/the-unrepeatable-working/story.json"
+      ],
+      "outputs": [
+        "stories/the-unrepeatable-working/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
