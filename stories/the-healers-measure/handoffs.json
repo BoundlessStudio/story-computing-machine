@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-healers-measure",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T21:53:59.9998739+00:00",
+      "completedAt": "2026-08-03T22:07:29.6036754+00:00",
+      "guardId": "fecf40ee4ebf4caeb53b44f9b81bbc17",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory: `the-healers-measure`\nmode: `CREATE_DRAFT`\nguardId: `fecf40ee4ebf4caeb53b44f9b81bbc17`\noutput: `stories/the-healers-measure/03-draft.md`\nwordCount: `3608`\nnamesUsed: `Ruva`; `Vekran`\nstalePrecondition: `none`\nacceptanceSummary: `Complete six-scene close-third past-tense draft integrating healing, bounded magic, narrow martial training, concrete consent, visible costs, Vekran’s demonstrated mastery, and Teen-rated consequences.`\nchangeReport: `Only stories/the-healers-measure/03-draft.md changed.`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-healers-measure/00-prompt.md",
+        "stories/the-healers-measure/01-canon-brief.md",
+        "stories/the-healers-measure/02-story-plan.md",
+        "stories/the-healers-measure/authority.json",
+        "stories/the-healers-measure/handoffs.json",
+        "stories/the-healers-measure/story.json"
+      ],
+      "outputs": [
+        "stories/the-healers-measure/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
