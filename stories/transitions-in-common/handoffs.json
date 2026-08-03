@@ -107,6 +107,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "transitions-in-common",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T15:43:47.1630349+00:00",
+      "completedAt": "2026-08-03T15:56:07.6047091+00:00",
+      "guardId": "e35113daf1014c2e94409046077adb8d",
+      "persister": "story_editor",
+      "report": "status: READY\nresolutionOwner: none\nstory: `transitions-in-common`\nmode: `CREATE_FINAL`\nguardId: `e35113daf1014c2e94409046077adb8d`\ncurrentStage: `draft-review`\noutputs: `stories/transitions-in-common/05-story.md`; `stories/transitions-in-common/06-canon-delta.md`\nstoryWordCount: `3408`\nproseChanges: `Created the publication-ready final with immutable frontmatter preserved and the passing reviewed story body retained intact.`\ndeltaSummary: `Created an authority-none, proposed-only seventeen-item canon delta inventory covering every reusable character, relationship, location, school-practice, shapeshifting-mechanic, boundary, timeline, and glossary fact. Every item has exact local scope, constraints, dependencies, disposition, and smallest topical target.`\nnamesUsed: `Cody`; `Hugo`\nnameInventoryAllowlist: `The exact final character-facing inventory and exact three-column non-character allowlist are present; story-names/3 passes with zero warnings and zero errors.`\nacceptanceSummary: `The complete YA-14+ story preserves causal masculine, feminine, and mixed identity play; distinct transgender and shapeshifting experiences; local mechanics and continuous personhood; Hugo’s agency; reciprocal boundaries; the approved friendship repair; and separately authorized portraits. Story-scoped integrity and diff checks pass.`\nchangeReport: `Only stories/transitions-in-common/05-story.md and stories/transitions-in-common/06-canon-delta.md changed. No registry, review, metadata, index, release, promotion, universe, or other file was modified; nothing was promoted.`\nstalePrecondition: `none`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/transitions-in-common/00-prompt.md",
+        "stories/transitions-in-common/01-canon-brief.md",
+        "stories/transitions-in-common/02-story-plan.md",
+        "stories/transitions-in-common/03-draft.md",
+        "stories/transitions-in-common/04-review.md",
+        "stories/transitions-in-common/authority.json",
+        "stories/transitions-in-common/handoffs.json",
+        "stories/transitions-in-common/story.json"
+      ],
+      "outputs": [
+        "stories/transitions-in-common/05-story.md",
+        "stories/transitions-in-common/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
