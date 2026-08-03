@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "transitions-in-common",
+  "certifiedAt": "2026-08-03T16:01:57.9024380+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 2,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-03T15:59:36.6274383Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "transitions-in-common",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-03T12:01:57.6226396-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}

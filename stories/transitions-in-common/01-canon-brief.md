@@ -1,0 +1,277 @@
+status: READY
+resolutionOwner: none
+story: `transitions-in-common`
+mode: `RESEARCH_CANON`
+guardId: `cc736801ebb540f7a67918b78980a8b0`
+authorityManifest: `stories/transitions-in-common/authority.json`
+authorityBaseCommit: `109e536075ef87bb3f97e8315898d62ab570bd81`
+currentStage: `prompt`
+
+# Canon brief
+
+No user ruling is required. The captured prompt is compatible with current authority when transgender identity and literal bodily shapeshifting remain independent categories, the shapeshifting mechanism stays locally bounded, and the requested male-versus-female identity play distinguishes body, presentation, pronouns, and inward identity.
+
+## Hard constraints
+
+- Deliver the captured story contract: 2,500–4,000 words, close first person from the shapeshifter’s perspective, past tense, and a contemporary-feeling speculative friendship comedy with escalating confusion, emotional sincerity, a consequential reveal, an honest apology, explicit boundaries, and a complete repair or redefinition of the friendship. (`stories/transitions-in-common/00-prompt.md` — `## Story controls`; `## Completion tests`)
+
+- The audience ceiling is `YA, ages 14+`. Identity discussion, embarrassment, non-graphic transformation, and proportionate peril are permitted. Exclude explicit sexual content, sexualization of minors, fetishized transformation, graphic injury, hate-crime spectacle, and slur-driven abuse. (`stories/transitions-in-common/00-prompt.md` — `## Story controls`; `## Completion tests`; `universe/style-guide.md` — `## Audience and content boundaries`)
+
+- The central misunderstanding must remain linguistic and interpersonal: the friend means `transgender`; the narrator has used `trans` to refer to literal transformation or shapeshifting. The transgender friend’s identity is never the error, punchline, inferior meaning, or less “literal” kind of transness. (`stories/transitions-in-common/00-prompt.md` — `## Verbatim writing prompt`; `## Story controls`)
+
+- Transgender identity and shapeshifting are neither equivalent nor mutually exclusive. Physical transformation does not make a person transgender, and being transgender does not imply supernatural transformation. Whether the narrator is also transgender, nonbinary, genderfluid, questioning, or comfortable outside those labels remains open and must arise from characterization rather than from the mere existence of the power. (`stories/transitions-in-common/00-prompt.md` — `## Required elements`; `## Assumptions`; `## Completion tests`)
+
+- Treat the user’s `male vs female identity play` as refined by the captured contract: voluntary movement among masculine, feminine, and mixed human forms and presentations, with body traits, gender identity, gender expression, name, and pronouns kept conceptually separate. Anatomy, magical shape, voice, clothing, or silhouette cannot be presented as conclusive proof of gender. (`stories/transitions-in-common/00-prompt.md` — `## Assumptions`; `## Completion tests`)
+
+- The identity play must materially affect choices, dialogue, misunderstanding, and character growth. It cannot be reduced to a cosmetic transformation montage, a sequence of gender stereotypes, or a claim that one body produces a corresponding personality. (`stories/transitions-in-common/00-prompt.md` — `## Completion tests`; `universe/style-guide.md` — `## Personhood and moral consequence`)
+
+- The transgender friend must remain a full teen character with their own boundaries, reactions, judgment, and choice about the friendship. They cannot exist only to explain terminology, validate the narrator, provide a moral lesson, or envy an allegedly easier magical transition. (`stories/transitions-in-common/00-prompt.md` — `## Required elements`; `universe/style-guide.md` — `## Personhood and moral consequence`)
+
+- Comedy must arise from incompatible assumptions, evasive wording, timing, and social escalation. Deadnaming, deliberate misgendering, intrusive anatomy questions, denial of either character’s identity, or the transgender friend’s vulnerability cannot supply the joke. (`stories/transitions-in-common/00-prompt.md` — `## Prohibited elements`; `## Assumptions`)
+
+- The reveal must create a real complication or decision. It may threaten the narrator’s secret, expose an earlier breach of trust, or force both friends to decide what they are willing to disclose and protect. It cannot end as a consequence-free demonstration followed only by exposition. (`stories/transitions-in-common/00-prompt.md` — `## Required elements`; `## Completion tests`)
+
+- Do not involuntarily out the transgender friend. The shapeshifter may voluntarily reveal their own body or power, but one person’s disclosure never grants permission to disclose the other’s gender history, pronouns, private conversation, or secrets. (`stories/transitions-in-common/00-prompt.md` — `## Prohibited elements`; `universe/style-guide.md` — `## Personhood and moral consequence`)
+
+- Mutual curiosity must include active boundaries. Each friend may ask, decline, redirect, or postpone questions about bodies, names, pronouns, transition, transformation, family, or concealment. Friendship and shared disclosure are not blanket consent. (`stories/transitions-in-common/00-prompt.md` — `## Required elements`; `universe/rules.md` — `## Costs, desire, and local mechanisms`)
+
+- Bodily transformation cannot erase or replace the narrator’s personhood, relationships, responsibility, memory, or moral agency. Unless the story explicitly establishes a more complex local ontology, the masculine, feminine, and mixed forms should be one continuous person rather than disposable bodies, copies, or separate minds. (`universe/style-guide.md` — `## Personhood and moral consequence`; `universe/rules.md` — `## Memory, transformation, copies, and branches`)
+
+- The shapeshifting mechanism must remain locally defined. Canon supplies no general shapeshifter species, sex-change law, transformation taxonomy, clothing rule, cost, trigger, or social institution. Once the story establishes activation, limits, continuity, costs, and failure behavior, it must use them consistently. (`universe/rules.md` — `## System categories`; `## Costs, desire, and local mechanisms`; `## Memory, transformation, copies, and branches`)
+
+- If the shapeshifting is magical, the narrator or another established living participant must supply the agency. Clothing, jewelry, mirrors, medication, phones, charms, or other nonliving objects may focus or respond to living power but cannot independently choose, compel, or perform magic unless established as alive. (`universe/rules.md` — `## Living agency and magic`)
+
+- Similarity to canonical transformations does not create a connection. The narrator is not thereby related to Kharost’s bodily guise, the Sleepless Majesty’s shared guise, Northbridge’s magical-girl transformations, Anin’s branch-person incident, Tilda’s personality-inverting wig, or another mechanism. (`universe/rules.md` — `## Artifacts, motifs, and folklore`; `## Crown-era twelve-dragon bodily guises`; `universe/style-guide.md` — `## Continuity and evidence discipline`)
+
+- A contemporary-feeling school or neighborhood may occupy an unnamed modern-like locality, but it remains one era of the persistent physical world. Do not establish literal real-world Earth or import an entire real-world legal, medical, political, or historical framework without story-specific evidence. (`universe/premise.md` — `## The deep-time shared world`; `universe/locations.md` — `## The world across eras`; `universe/glossary.md` — `## Modern-like era`)
+
+## Relevant established context
+
+- Independent, locally focused entry points are normal. This story needs no crossover, named era, cosmological explanation, or public knowledge of the wider universe. (`universe/premise.md` — `## Knowledge and connection`; `universe/style-guide.md` — `## Tonal range, scale, and connection`)
+
+- Current authority establishes no transgender character, trans-specific institution, universal gender taxonomy, transition custom, or public policy. This is an omission, not evidence that transgender people or appropriate contemporary terminology are absent from the world.
+
+- Current authority establishes no literal human shapeshifter who voluntarily moves among masculine, feminine, and mixed bodies. The proposed ability therefore occupies open local invention space rather than inheriting an existing mechanism.
+
+- Kharost is the closest bodily-transformation precedent: she personally changes between a dragon body and the human public guise Queen Orvessa IV while remaining one continuous person. Her transformation is self-performed, and clothing is physically prepared for the change. These facts support continuity across large bodily changes but establish no gender, human-shapeshifter, clothing, or species-wide rule. (`universe/rules.md` — `## Crown-era twelve-dragon bodily guises`; `universe/characters.md` — `## Kharost / Queen Orvessa IV`; `stories/a-crown-of-quiet-hours/05-story.md` — `# A Crown of Quiet Hours`)
+
+- The Northbridge trio provides a bounded teen precedent for voluntary transformation, concealed identities, consent, recovery costs, and the danger of correlating civilian and transformed presentations. Their refraction veil does not erase memory, records, or a witnessed change. None of their powers, tokens, aliases, costs, or privacy protections transfers to this narrator. (`universe/rules.md` — `## Northbridge trio transformation and support practice`; `universe/glossary.md` — `## Refraction veil`; `stories/the-attendance-ledger/05-story.md` — `# The Attendance Ledger`)
+
+- Nina and Anin establish that matching bodies and shared prior memories do not make two conscious people interchangeable. Their pronouns, new experiences, consent, and self-claimed identities matter independently. This is an ethical personhood precedent only; the narrator’s bodily modes should not be treated as Nina–Anin-style branches unless the story deliberately establishes separate consciousness, which would materially change the prompt. (`universe/rules.md` — `## Nina–Anin bounded branch-person incident`; `universe/characters.md` — `## Anin`; `stories/self-reflection/05-story.md` — `# Self-Reflection`)
+
+- The Sleepless Majesty demonstrates the opposite identity structure from the recommended one: twelve distinct dragons constituted one collective sovereign and could assume one identical public guise. That special arrangement must not be imported into a single shapeshifter’s gender play. (`stories/the-peace-they-could-sleep-through/05-story.md` — `# The Peace They Could Sleep Through`)
+
+- Tilda’s inverted state remains the same accountable person and receives no separate name. Her wig externalizes opposed traits rather than creating another person. It supplies no general rule that bodily presentation changes temperament and should not be used to encode feminine and masculine forms as stereotyped personalities. (`stories/the-wrong-side-of-the-part/05-story.md` — `# The Wrong Side of the Part`; `stories/NAMES.md` — `Tilda Bristow` registry row)
+
+- Names and aliases normally have social rather than magical force. A chosen name, stable name across forms, form-specific alias, or changed pronoun must matter because people use and respect it, not because canon makes language automatically transform or authenticate a body. (`universe/rules.md` — `## Names and identity binding`; `universe/rules.md` — `## Northbridge trio transformation and support practice`)
+
+- The modern-like era is a low-magic trough where ordinary life may treat magic as myth. Northbridge demonstrates that teen transformations can remain locally concealed there, but no universal secrecy regime, magical school, public response, or enforcement organization exists. (`universe/timeline.md` — `## Established era order`; `## Undated Northbridge showcase incident`; `universe/locations.md` — `## Northbridge Secondary`)
+
+## Conflicts and ambiguities
+
+- **Contradiction:** None in the captured prompt. The story may proceed without a user canon ruling.
+
+- **Resolved prompt ambiguity:** `male vs female identity play` could collapse sex, body, gender, and presentation if read alone. The captured assumptions resolve it into voluntary masculine, feminine, and mixed human forms while explicitly requiring the story to distinguish physical form, presentation, pronouns, and inward identity.
+
+- **Conditional contradiction:** Treating magical anatomy or a chosen body as objective proof of gender would violate the captured prompt and the locked personhood rule.
+
+- **Conditional contradiction:** Presenting transgender transition as supernatural shapeshifting, or describing the narrator as “actually” or “literally” trans in a way that makes the friend’s transgender identity metaphorical or mistaken, would violate the prompt contract.
+
+- **Conditional contradiction:** Making a nonliving object independently choose, initiate, compel, or reverse magical transformation would violate `Only life can use magic` unless that object is established as alive.
+
+- **Conditional contradiction:** Declaring the narrator’s mechanism to be the source or governing law of all transformation, all gender variance, all magical-girl changes, or all bodily guises would contradict the established plurality and local scope of canonical systems.
+
+- **Conditional contradiction:** Establishing a separate planet, plane, or literal real-world Earth as the setting would contradict locked one-world authority.
+
+- **Material prompt conflict:** Giving every masculine, feminine, or mixed form a separate autonomous mind would turn the premise into a branch-person story and undermine the captured assumption of one voluntary shapeshifter. Such a reinterpretation is unnecessary and should not be introduced during planning.
+
+- **Omission, not contradiction:** Canon does not establish whether the narrator was born with the ability, inherited it, learned it, acquired it, or belongs to a family or local population with similar traits.
+
+- **Omission, not contradiction:** Canon does not establish whether the narrator is cisgender, transgender, nonbinary, genderfluid, questioning, or unlabeled, or using different pronouns in different forms.
+
+- **Omission, not contradiction:** Canon does not establish the transgender friend’s gender, pronouns, transition history, degree of disclosure, or relationship to any community.
+
+- **Omission, not contradiction:** Canon does not define transformation speed, range, body-mass behavior, clothing behavior, voice, scent, fingerprints, injury continuity, fatigue, hunger, emotional triggers, involuntary failures, or detection.
+
+- **Omission, not contradiction:** Canon does not define local attitudes toward transgender people or shapeshifters. The absence of prior trans-specific lore cannot support a new universal claim of either acceptance or prejudice.
+
+- **Omission, not contradiction:** Canon does not decide whether the word `trans` is ordinary shorthand for transformation in the narrator’s family, a private abbreviation, a species term, or merely an improvised description. The story may define one local usage without globalizing it.
+
+## Unknowns
+
+- Both central characters’ names, exact ages, pronouns, gender identities, family situations, friendship duration, and ordinary social roles.
+
+- Which masculine, feminine, mixed, or androgynous presentation the friend knows when the misunderstanding begins.
+
+- Whether the narrator uses one stable name and pronoun set across all forms or has chosen form-specific language.
+
+- Whether the narrator already understands their inward gender or discovers during the story that bodily freedom has allowed them to postpone that question.
+
+- The transgender friend’s own chosen language, boundaries, degree of public disclosure, and reason for trusting the narrator with the information.
+
+- The narrator’s local meaning for `trans` and the exact conversation that lets both friends believe they understand one another.
+
+- The source, classification, onset, and discoverability of the shapeshifting ability.
+
+- Activation, transition duration, accessible forms, precision, frequency, cost, cooldown, interruption behavior, and involuntary failure conditions.
+
+- Continuity of memory, injury, fatigue, sensory experience, voice, fingerprints, clothing, carried objects, and identification across forms.
+
+- Whether the ability is secret from family, school, friends, institutions, or the wider public.
+
+- What event makes the narrator realize the misunderstanding and why clarification has already become emotionally or practically difficult.
+
+- The reveal’s immediate complication and the meaningful decision each friend must make afterward.
+
+- Which questions each friend permits or refuses, how boundaries are stated, and what apology repairs without demanding immediate forgiveness.
+
+- Whether the friendship returns to its prior form, deepens under revised honesty, or becomes a more carefully bounded but still genuine relationship.
+
+## Safe local invention space
+
+- Create two original teens in the same broad age range in an unnamed modern-like school, neighborhood, youth program, or other ordinary social setting.
+
+- Choose any self-defined transgender identity for the friend. Their assigned sex, deadname, medical history, and anatomy need not appear unless indispensable; the prompt specifically forbids deadnaming as comedy and does not require any deadname.
+
+- Give the narrator two or more practiced human forms spanning masculine, feminine, and mixed presentation. Keep one continuing memory and moral agency across them unless the story has a compelling reason for greater complexity.
+
+- Let the narrator use one stable name in every body, different validated form-specific names, or a deliberately unsettled naming practice. The choice should reveal character rather than certify gender mechanically.
+
+- Define a compact shapeshifting system with a small number of legible rules: voluntary activation, reachable range, transition time, bodily cost, clothing or carried-matter behavior, and one failure or exposure risk used by the plot.
+
+- If magical, make the narrator the living source. If biological, technological, or anomalous, establish only the observed local behavior and avoid an unsupported universal taxonomy.
+
+- Use non-graphic transformation detail suitable for YA-14+: posture, height, face, voice, hair, silhouette, clothing fit, balance, and sensory adjustment. Avoid explicit anatomy, fetish framing, or treating a teen body as spectacle.
+
+- Make male-versus-female identity play causal. For example, the narrator may discover that a familiar feminine body does not automatically answer what pronouns feel right, while a masculine public presentation may be socially useful without being the whole self.
+
+- Allow the narrator to be cisgender and play across forms, or to discover a transgender, nonbinary, genderfluid, questioning, or unlabeled identity. The story must show that this conclusion belongs to the narrator rather than being deduced by the friend from the power.
+
+- Let the friends find limited common ground in disclosure, social legibility, other people’s assumptions, chosen language, and the right to define oneself. Do not claim their embodied experiences are interchangeable.
+
+- Give both characters reciprocal boundaries. The friend may decline to explain transition or anatomy; the narrator may decline to demonstrate a form, reveal origins, be touched during a change, or disclose the power publicly.
+
+- Build comedy through a chain of reasonable but incompatible interpretations: remarks about changing, passing, presentation, parents, clothes, photographs, or names can mean different things to each speaker without making either identity absurd.
+
+- Make the reveal voluntary and private, or ensure any external exposure concerns only the narrator’s own secret. The friend’s transgender status must not be revealed to an unchosen audience.
+
+- Let the emotional consequence be real even without major physical danger: the friend may feel that a vulnerable disclosure was mirrored without understanding, while the narrator must choose between defensive explanations and a sincere apology that accepts delayed forgiveness.
+
+- Keep any family terminology, shapeshifter population, social accommodation, secrecy practice, or power rule narrowly local in the later canon delta.
+
+## Concrete canon recommendation
+
+Proceed as a standalone modern-like teen friendship story. Give the narrator one familiar public human presentation and at least one privately used contrasting form, with additional mixed variation available. Keep the narrator the same continuous person in every body, but do not predetermine whether their gender label is stable, fluid, questioning, or absent.
+
+Stage the misunderstanding after the transgender friend makes a sincere personal disclosure and the narrator responds with locally ambiguous shorthand such as `I’m trans too`. Let both characters reinforce the misunderstanding through different meanings of changing, presentation, names, or being seen. The narrator’s later realization should arrive after the friend has invested trust, making a simple correction emotionally insufficient.
+
+Use a voluntarily initiated, non-graphic transformation as the consequential reveal. The friend’s central decision should concern trust and continued friendship, not whether the narrator’s body proves anything about gender. The narrator must apologize for assuming shared meaning and for mishandling the friend’s disclosure, while neither apologizes for being transgender, fluid, questioning, or a shapeshifter.
+
+Resolve the story through a boundary-setting exchange: what terms each character uses, which questions are welcome, which forms and histories are private, what pronouns apply, and who may know. Their meaningful common ground should be the right to self-definition and chosen disclosure, not an assertion that gender transition and physical shapeshifting are the same experience.
+
+## Name constraints
+
+- The prompt supplies no personal name, alias, form-name, family name, username, named object, or person-like entity. Canon research must not choose them.
+
+- `stories/NAMES.md` is production memory rather than canon, but every unreleased reservation remains unavailable for casual reuse. It was reconciled on 2026-08-03 and currently reports no unresolved name collision.
+
+- Especially relevant reserved forms include `Nina` and `Anin`; `Drita Ademi`, `Drita`, and `Kiteglass`; `Bryn Ahn`, `Bryn`, and `Pulsewire`; `Cassia Dominguez`, `Cassia`, and `Mothlight`; `Kharost`, `Queen Orvessa IV`, `Queen Orvessa`, and `Orvessa`; `Varkesh`; `the Sleepless Majesty`; `Tilda Bristow`; and `Tilda`.
+
+- Avoid a reversed-name pairing resembling `Nina`/`Anin`, which already marks two distinct branch persons. This prompt supplies no reason for that identity structure or name reuse.
+
+- If the narrator uses one name across every body, register it once with all character-facing forms. If the narrator uses distinct masculine, feminine, mixed, magical, family, or online names, register every form and document that they belong to one continuing identity.
+
+- The transgender friend’s current chosen name is sufficient. Do not invent or register a deadname unless later work demonstrates an indispensable non-comedic story purpose consistent with the prompt’s prohibition.
+
+- Validate full names, given names, surnames used independently, nicknames, form-specific aliases, online handles, family terms functioning as names, and any named focus, animal, construct, or personified power.
+
+- Check exact matches, aliases, close spellings, reversals, sound-alikes, and visually confusable forms. Deliberate reuse requires a story-significant identity relationship and clear reader disambiguation; this prompt requires no reuse.
+
+## Required later checks
+
+- **Story architect:** Record an identity-language profile for both central characters: self-defined gender, pronouns, presentation, accepted and rejected terms, disclosure boundaries, and what each initially believes `trans` means in the conversation.
+
+- **Story architect:** Define the narrator’s transformation rules before designing the reveal: living source or mechanism, activation, available forms, continuity, cost, transition time, clothing behavior, cooldown, and exposure risk.
+
+- **Story architect:** Ensure masculine, feminine, and mixed forms change plot choices and dialogue without assigning stereotyped personalities, skills, morality, or social worth to bodies.
+
+- **Story architect:** Give the transgender friend an independent want, conversational aim, limit, and consequential decision about the friendship.
+
+- **Story architect:** Design a reveal that creates a real trust or secrecy complication while avoiding involuntary outing of the friend.
+
+- **Story architect:** Make the apology specific to the narrator’s conduct—assumption, careless shorthand, delayed correction, or mishandled confidence—rather than an apology for either identity.
+
+- **Coordinator:** Validate and register every planned personal name, nickname, form-name, alias, username, named object, and person-like entity before drafting.
+
+- **Prose writer:** Maintain the YA-14+ ceiling through non-graphic transformations, nonsexualized teen bodies, non-graphic peril, and identity discussion centered on character rather than spectacle.
+
+- **Prose writer:** Never use `actually trans`, `literally trans`, `real trans`, or equivalent phrasing to make supernatural transformation more authentic than transgender identity.
+
+- **Prose writer:** Track names and pronouns according to each character’s stated preference, not according to visible body state. If a preference changes, dramatize the choice and update subsequent usage deliberately.
+
+- **Prose writer:** Keep comedy attached to wording, assumptions, and timing. Audit every joke to ensure it still works without treating transgender identity, dysphoria, anatomy, or misgendering as inherently funny.
+
+- **Prose writer:** Let both friends refuse intrusive questions without punishment and ask permission before demonstrations, touching during transformation, or discussing private histories.
+
+- **Continuity critic:** Check every transformation against the local rules, including memory, injury, voice, clothing, carried matter, cost, interruption, and recovery.
+
+- **Continuity critic:** Check that body shape, presentation, name, pronouns, and inward identity remain distinct axes and that no scene accidentally treats anatomy as gender proof.
+
+- **Continuity critic:** Check that transgender identity and shapeshifting are neither equated nor falsely presented as mutually exclusive.
+
+- **Continuity critic:** Check for involuntary outing, deadnaming, deliberate misgendering as comedy, trans-explanatory burden placed solely on the friend, fetishized change, or stereotyped masculine/feminine behavior.
+
+- **Continuity critic:** Audit claims about shapeshifters, gender, transition, magic, social acceptance, prejudice, and public knowledge for unsupported universalization.
+
+- **Continuity critic:** Compare the finished story specifically against *Self-Reflection*, *The Attendance Ledger*, Kharost’s bodily guise, the Sleepless Majesty’s shared guise, and Tilda’s inverted state to prevent accidental mechanism or identity conflation.
+
+- **Story editor:** Keep `06-canon-delta.md` local to these characters, this locality, the observed shapeshifting mechanism, and the boundaries demonstrated in-story. Do not propose a universal gender taxonomy, shapeshifter species law, or shared transformation origin.
+
+- **Coordinator:** Reconcile final names, run the strict final name gate for `transitions-in-common`, and recheck current `LOCKED` and `CANON` authority before release or promotion.
+
+## Sources
+
+### Required story inputs
+
+- `stories/transitions-in-common/00-prompt.md` — complete captured prompt contract, YA-14+ ceiling, identity-play requirements, prohibitions, assumptions, and completion tests
+- `stories/transitions-in-common/story.json` — lifecycle authority
+- `stories/transitions-in-common/authority.json` — captured base commit, universe inventory, and 24 admitted canon stories
+- `stories/transitions-in-common/handoffs.json` — ordered handoff ledger at research input
+
+### Current universe authority
+
+- `universe/README.md` — `## Authority order`; `## Entry format`; `## Files`
+- `universe/premise.md` — `## The deep-time shared world`; `## Knowledge and connection`
+- `universe/rules.md` — `## System categories`; `## Living agency and magic`; `## Costs, desire, and local mechanisms`; `## Memory, transformation, copies, and branches`; `## Nina–Anin bounded branch-person incident`; `## Names and identity binding`; `## Artifacts, motifs, and folklore`; `## Northbridge trio transformation and support practice`; `## Crown-era twelve-dragon bodily guises`
+- `universe/characters.md` — `## Anin`; `## Gideon Tolland`; `## Drita Ademi`; `## Bryn Ahn`; `## Cassia Dominguez`; `## Kharost / Queen Orvessa IV`
+- `universe/glossary.md` — `## Magic, technology, and divinity`; `## Modern-like era`; `## Refraction veil`
+- `universe/locations.md` — `## The world across eras`; `## Northbridge Secondary`
+- `universe/timeline.md` — `## Established era order`; `## Undated four-dawn Nina–Anin incident`; `## Undated Northbridge showcase incident`; `## Public dragon revelation and containment of the Founding Day fire`
+- `universe/style-guide.md` — `## Personhood and moral consequence`; `## Prose defaults`; `## Tonal range, scale, and connection`; `## Audience and content boundaries`; `## Continuity and evidence discipline`
+- `universe/factions.md` — reviewed current authority; no independent transgender or human-shapeshifter rule
+- `universe/retcons.md` — `# Retcon log`; no approved retcon relevant to this premise
+
+### Relevant admitted canon stories
+
+- `stories/self-reflection/05-story.md` — `# Self-Reflection`
+- `stories/the-attendance-ledger/05-story.md` — `# The Attendance Ledger`
+- `stories/a-crown-of-quiet-hours/05-story.md` — `# A Crown of Quiet Hours`
+- `stories/the-peace-they-could-sleep-through/05-story.md` — `# The Peace They Could Sleep Through`
+- `stories/the-wrong-side-of-the-part/05-story.md` — `# The Wrong Side of the Part`
+- `stories/INDEX.md` and each admitted story’s `story.json` and `release.json` — all 24 manifest-admitted stories currently agree on `final`, `canon: true`, accepted disposition, certified release, passing review, and passing name check
+
+All 24 admitted final canon stories were checked for conflicting gender-identity, shapeshifter, bodily-transformation, identity-exposure, and personhood claims. None establishes a transgender-specific world rule or the proposed human shapeshifting mechanism.
+
+### Production memory
+
+- `stories/NAMES.md` — `## Rules`; complete registry; `## Known unresolved name collisions`
+
+### Verified but non-canonical evidence
+
+- `sources/README.md` — evidence authority rules
+- `sources/MANIFEST.json` — verified record inventory; every record has `authority: none`
+- `sources/records/s04/Self-Reflection.md` — verified older source form relevant to Nina/Anin provenance only
+
+The verified `Self-Reflection` source record was consulted only for provenance and cannot override its admitted final story or current topical authority. The manifest contains no verified transgender-specific source record; no external representation claim is promoted into canon by this research.
+
+status: READY
