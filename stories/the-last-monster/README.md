@@ -18,7 +18,7 @@ each stage. Specialist agents do not edit it. -->
 - [x] Authority snapshot recorded
 - [x] Canon brief completed
 - [x] Story plan completed
-- [ ] Plan name check passed
+- [x] Plan name check passed
 - [ ] Complete draft written
 - [ ] Draft review passed
 - [ ] Critical and major findings resolved

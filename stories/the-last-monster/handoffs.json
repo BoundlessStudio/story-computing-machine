@@ -51,6 +51,34 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-last-monster",
+      "actor": "story_architect",
+      "mode": "REVISE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-03T08:21:31.9396702+00:00",
+      "completedAt": "2026-08-03T08:26:06.7083621+00:00",
+      "guardId": "985e2028c1f14b11868b03d46ec0aeaa",
+      "persister": "story_architect",
+      "report": "status: READY  \nstory_slug: `the-last-monster`  \nmode: `REVISE_PLAN`  \nguard_id: `985e2028c1f14b11868b03d46ec0aeaa`  \noutput: `stories/the-last-monster/02-story-plan.md`  \ninputs: `00-prompt.md`, `story.json`, `01-canon-brief.md`, `02-story-plan.md`, `04-review.md`, `authority.json`, `handoffs.json`, `stories/NAMES.md`  \nchange summary: Introduced protagonist mononym `Salken`; preserved close-second `you`; added one ending recognition where an unnamed searcher speaks `Salken`; updated the Name check and coordinator reservation action without changing story logic.  \nexact name inventory: `Salken` only. All other cast, groups, creatures, locations, and contextual descriptions remain unnamed and unreserved.  \ncollision analysis: No exact, case-insensitive, alias, sound-alike, or reversal match. Nearest confusable `Kelan` remains distinguishable by length, initial sound, consonant order/cluster, stressed vowel, silhouette, and cadence (`SAL-ken` versus `KEL-an`). Other S-initial forms are clearly distinct.  \nacceptance confirmation: Only `stories/the-last-monster/02-story-plan.md` changed; the revised 3,990-word plan reserves exactly `Salken`, introduces no other character-facing form, and preserves all existing plot, canon, POV, and ending requirements.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-last-monster/00-prompt.md",
+        "stories/the-last-monster/01-canon-brief.md",
+        "stories/the-last-monster/02-story-plan.md",
+        "stories/the-last-monster/04-review.md",
+        "stories/the-last-monster/authority.json",
+        "stories/the-last-monster/handoffs.json",
+        "stories/the-last-monster/story.json"
+      ],
+      "outputs": [
+        "stories/the-last-monster/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

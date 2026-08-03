@@ -160,6 +160,7 @@ for characters the prose leaves unnamed.
 | Ryo Sato | `Ryo Sato`; `Ryo` | `tenth-world-lesson` | candidate | unique | No reuse. Repeatedly assigned hero and close-third-person protagonist; `Sato` is not used alone. Forms are distinct from all registered R-initial identities. |
 | Sabine Kroll | `Sabine Kroll`; `Sabine` | `the-station-between` | canon | unique | No reuse. Hell-assigned passenger; `Kroll` is not used alone, and a blue wrist elastic preserves reader recognition through the transfer. |
 | Saint | `Saint` | `the-small-moon-rose-first` | canon | unique | Named mule. |
+| Salken | `Salken` | `the-last-monster` | in-progress | unique | No reuse. Planned ungendered second-person protagonist; the mononym is spoken once by a surface searcher. Distinct from reserved Kelan by initial sound, consonant order, stressed vowel, silhouette, and cadence, and from other S-initial forms by spelling and sound. No surname, shortening, title, nickname, epithet, or alias is planned. |
 | Sebastian “Bash” Wren | `Sebastian Wren`; `Sebastian`; `Bash`; `Wren`; `Sebastian “Bash” Wren` | `the-small-moon-rose-first` | canon | unique | His surname is used alone during the Ravel and Earth sequences. |
 | Seris Venn | `Seris Venn`; `Seris` | `daughter-of-the-sun` | canon | unique | — |
 | Sister Calvea Dorn | `Sister Calvea Dorn`; `Calvea` | `daughter-of-the-sun` | canon | unique | One Duskkeeper; `Sister` alone and `Calvea Dorn` are not character-facing forms in the current plan. |

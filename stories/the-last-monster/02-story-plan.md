@@ -2,7 +2,7 @@
 
 ## Story promise
 
-An unnamed survivor, unable to measure how long they have been trapped underground, has learned to answer every uncertain shape with lethal force. When a dying lamp reveals a current of fresh air, they follow it through habitats already evacuating ahead of them. The route can lead outside only if they stop treating fear as proof of hostility. The story delivers the prompt's reversal physically and morally: the dungeon's inhabitants have learned to behave around the survivor as prey behaves around a monster, and the survivor must choose whether that recognition changes the next thing they do.
+Salken, unable to measure how long they have been trapped underground, has learned to answer every uncertain shape with lethal force. When a dying lamp reveals a current of fresh air, they follow it through habitats already evacuating ahead of them. The route can lead outside only if they stop treating fear as proof of hostility. The story delivers the prompt's reversal physically and morally: the dungeon's inhabitants have learned to behave around the survivor as prey behaves around a monster, and the survivor must choose whether that recognition changes the next thing they do.
 
 The immediate escape question resolves without qualification: the protagonist crawls out of the dungeon into open daylight. Escape does not erase the dead or settle every victim's identity. On the surface, evidence links at least one item carried by the protagonist to a missing person, and the protagonist submits to restraint while admitting what they have done and what they cannot know.
 
@@ -20,7 +20,7 @@ The immediate escape question resolves without qualification: the protagonist cr
 
 ### Protagonist
 
-The protagonist remains unnamed and ungendered. They entered the dungeon with other people but can no longer reliably reconstruct that entry, the group's identities, or the moment they became alone. Their only dependable self-description is behavioral: they are hungry, armed, hypervigilant, and still capable of choosing.
+The protagonist's mononym is Salken, and they remain ungendered. Close second-person narration refers to them only as `you` until an unnamed surface searcher recognizes them and speaks `Salken` in Scene 7. They entered the dungeon with other people but can no longer reliably reconstruct that entry, the group's identities, or the moment they became alone. Their only dependable self-description is behavioral: they are hungry, armed, hypervigilant, and still capable of choosing.
 
 - **Conscious want:** find clean air, reach the surface, and stop being hunted.
 - **Buried need:** recognize that uncertainty does not justify automatic killing; tolerate one exposed second without striking; accept responsibility without requiring perfect knowledge of every victim.
@@ -32,7 +32,7 @@ The protagonist remains unnamed and ungendered. They entered the dungeon with ot
 
 - The dungeon inhabitants are not one moral or biological category. Use several unnamed body types and survival strategies, but never grant the viewpoint an objective species taxonomy. Their common learned response to the protagonist is a repeated warning rhythm, immediate retreat, moving their young and wounded first, abandoning food, and blocking side passages after they pass.
 - The climax centers on one unnamed small guardian and one smaller dependent. The guardian is physically unfamiliar but behaviorally legible: it places itself between the dependent and the blade, shakes, averts its face from light, and refuses an opening to attack.
-- An unnamed surface search group provides the final social consequence. They are cautious, armed, and frightened by the protagonist, but they offer measured water and restraint rather than retaliation.
+- An unnamed surface search group provides the final social consequence. One searcher recognizes Salken and speaks the mononym; the group remains cautious, armed, and frightened, but offers measured water and restraint rather than retaliation.
 
 ## Stakes
 
@@ -153,12 +153,12 @@ The protagonist remains unnamed and ungendered. They entered the dungeon with ot
 **Beats:**
 
 1. An armed surface search group finds the protagonist. Daylight overwhelms their dark-adapted vision; overlapping voices and drawn weapons recreate every trigger from below.
-2. Instead of charging, the protagonist keeps empty hands visible and kneels. The group restrains them and gives water in measured sips.
-3. One searcher recognizes a worked buckle or cord on the protagonist as belonging to a missing companion. The protagonist cannot identify which dead figure it came from and does not claim certainty. They say, in substance, that they killed people below, killed others they could not identify, and can show where survivors may have gone.
+2. One searcher recognizes them and says `Salken?`—the mononym's only story-facing use. Being addressed as a person cuts through the threat noise; Salken keeps empty hands visible and kneels. The group restrains them and gives measured water.
+3. The searcher also recognizes a worked buckle or cord on Salken as belonging to a missing companion. Salken cannot identify which dead figure it came from and does not claim certainty. They say, in substance, that they killed people below, killed others they could not identify, and can show where survivors may have gone.
 4. When someone calls the fleeing inhabitants monsters and proposes pursuit, the protagonist states that those beings led them out. This does not demand trust; it records the first accurate moral debt they can name.
 5. End on an image that joins escape and consequence: sunlight falls on the protagonist's bound, open hands while the abandoned sword remains wedged in the dark drain behind them. The air is free; the protagonist is not absolved.
 
-**Resolution:** The protagonist has unquestionably escaped. They choose disclosure, restraint, and possible judgment rather than fleeing or killing again. The identities and exact number of earlier victims remain unresolved, but their reality and the protagonist's responsibility do not.
+**Resolution:** Salken has unquestionably escaped. Their restored individual identity does not absolve them; they choose disclosure, restraint, and possible judgment. Earlier victims remain partly unidentified but real, and Salken remains responsible.
 
 ## Major reversals
 
@@ -204,6 +204,7 @@ These are bounded story facts and should not be narrated as world-wide lore.
 - Use the protagonist's body and equipment as the elapsed-time clock. Avoid an exact day count, supernatural time loss, or an authorial answer to how long they have been below.
 - Keep the causal chain explicit: killing yields lamp -> draft -> evacuation trail -> remembered room -> spillway relapse -> guardian -> restraint -> shaft -> daylight -> accountability.
 - Use “The Last Monster” only as the story title. No character calls the protagonist `the Last Monster`, `Last Monster`, or any other proper epithet.
+- Keep narration in close second-person `you`; use `Salken` exactly once, in the surface searcher's direct address near the end. Introduce no shortening, surname, title, nickname, or alias.
 
 ## Name check
 
@@ -211,16 +212,16 @@ Complete inventory of every character or person-like presence planned for the st
 
 | Presence | Story-facing forms | Character-facing name or alias? | Registry result |
 | --- | --- | --- | --- |
-| Unnamed protagonist | second-person `you`; `the protagonist` appears only in planning notes | No | No form to reserve. Protagonist remains unnamed and receives no epithet, title, nickname, or surname. |
-| Uncertain lantern-bearer in Scene 1 | `shape`, `victim`, or relational/common descriptors in prose | No | Lowercase contextual nouns only; no identity label. |
-| Unnamed dungeon inhabitants collectively | `inhabitants`, `creatures`, `scavengers`, `young`, or precise physical descriptions | No | Lowercase common nouns only; no species, faction, collective, language, or proper title is named. |
-| Unnamed small guardian | `guardian` or physical/relational description | No | Lowercase scene role only, not a standing identity or title. Do not capitalize it. |
-| Unnamed dependent | `smaller one`, `dependent`, or physical description | No | Lowercase relational/common descriptors only. |
-| Two uncertain figures at the spillway | `figures`, `survivor`, `fallen figure`, or contextual descriptors | No | Lowercase contextual nouns only; neither receives a party name, profession-title identity, or personal name. |
-| Unnamed surface search group and individual searchers | `search group`, `searchers`, `one searcher`, or contextual descriptors | No | Lowercase roles only; no organization, party, settlement, or individual is named. |
+| Salken, the protagonist | narration: `you`; spoken once: `Salken`; planning only: `the protagonist` | Yes: `Salken` | Reserve exactly `Salken`; no surname, shortening, title, nickname, epithet, or alternate form. |
+| Uncertain lantern-bearer in Scene 1 | `shape`, `victim`, contextual descriptions | No | Lowercase common nouns; no identity label. |
+| Unnamed dungeon inhabitants collectively | `inhabitants`, `creatures`, `scavengers`, `young`, physical descriptions | No | No named species, faction, collective, or language. |
+| Unnamed small guardian | `guardian`, physical/relational descriptions | No | Lowercase scene role only. |
+| Unnamed dependent | `smaller one`, `dependent`, physical description | No | Lowercase contextual nouns only. |
+| Two uncertain spillway figures | `figures`, `survivor`, `fallen figure`, contextual descriptions | No | No party, title, or personal name. |
+| Unnamed surface search group and searchers | `search group`, `searchers`, `one searcher`, contextual descriptions | No | No organization, settlement, or individual name. |
 
 **Title check:** `The Last Monster` is only the work's title. It is not used in prose as a character-facing alias. Lowercase `monster` and `adventurer` remain common, contested categories.
 
-**Collision review:** No full name, given name, surname, mononym, nickname, username, proper title, named animal, named construct, person-like entity name, team name, or alias is introduced. Exact-match, case-insensitive, close-spelling, reversal, sound-alike, and confusable-form review therefore yields no planned collision with `stories/NAMES.md`. Particularly relevant reserved forms associated with removed dungeon-adventurer production—`the Quiet Party`, `Quiet Party`, `Veda Crake`, `Veda`, `Osket Firth`, `Osket`, `Pim Fallow`, and `Pim`—are not used. Established local terms `Runner`, `Exit Witness`, `Realms`, `Deepmarket`, and `Gate Cant` are also not used.
+**Collision review:** `Salken` is the only character-facing form. The full current registry contains no exact or case-insensitive match, alias, sound-alike, or reversal (`Neklas` is absent). Nearest confusable `Kelan` differs by length, initial sound, consonant order and cluster, stressed vowel, silhouette, and cadence: `SAL-ken` versus `KEL-an`. S-initial `Sabine`, `Saint`, `Seris`, `Siva`, `Solstice`, `Sorel`, and `Sula` differ clearly in spelling and cadence. No full name, title, animal, construct, team, or alias is confusable. Reserved dungeon-adventurer forms (`the Quiet Party`, `Veda Crake`, `Osket Firth`, `Pim Fallow`, and their listed forms) and established local terms (`Runner`, `Exit Witness`, `Realms`, `Deepmarket`, `Gate Cant`) remain unused.
 
-**Coordinator action after planning:** No name row needs registration unless drafting introduces a character-facing form not authorized by this plan. Any such introduction must stop for registry validation before use.
+**Coordinator action after planning:** Add one `the-last-monster` planned row reserving exactly `Salken` as the protagonist's unique mononym. Reserve no other form; any later character-facing addition requires validation.
