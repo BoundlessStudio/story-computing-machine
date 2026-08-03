@@ -107,6 +107,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "the-healers-measure",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T22:13:39.3648583+00:00",
+      "completedAt": "2026-08-03T22:18:31.8397281+00:00",
+      "guardId": "b2acfeeef82047b9a1aef80901cf74e4",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory: `the-healers-measure`\nmode: `REVISE_DRAFT`\nguardId: `b2acfeeef82047b9a1aef80901cf74e4`\noutput: `stories/the-healers-measure/03-draft.md`\nwordCount: `3858`\nnamesUsed: `Ruva`; `Vekran`\nstalePrecondition: `none`\nfindingDispositions:\n- `THM-DRAFT-001`: `RESOLVED` — Distinguished the lower-load partial brace from the final sixty-heartbeat full hold and tracked the latter through `60`, `46`, `34`, `28`, and `18`.\n- `THM-DRAFT-002`: `RESOLVED` — Defined the false branch as moving on beat one, covering the living line on beats two and three, clearing on beat four, and opening the safe interval used for the cut.\n- `THM-DRAFT-003`: `RESOLVED` — Freed the wedged wheel, moved the cart and evacuees behind the rear wall, established the empty redirection strip, and preserved the split-axle damage.\nchangeReport: `Only stories/the-healers-measure/03-draft.md changed.`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-healers-measure/00-prompt.md",
+        "stories/the-healers-measure/01-canon-brief.md",
+        "stories/the-healers-measure/02-story-plan.md",
+        "stories/the-healers-measure/03-draft.md",
+        "stories/the-healers-measure/04-review.md",
+        "stories/the-healers-measure/authority.json",
+        "stories/the-healers-measure/handoffs.json",
+        "stories/the-healers-measure/story.json"
+      ],
+      "outputs": [
+        "stories/the-healers-measure/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

@@ -92,7 +92,7 @@ The disarmed attacker rose behind him with a knife.
 
 Vekran pivoted before the knife reached him. He caught the wrist, folded it without breaking it, and sent the attacker face-down across the cart tongue. The crossbow shooter met him on the other side; Vekran slipped inside the stock, struck once with his sword guard, and caught the weapon before its owner hit the dust.
 
-Ruva bound the driver's head, checked the two walking patients, and found a third person beneath the cart with a bruised leg but a strong foot pulse. She showed the mobile pair where to lift the axle, freed the trapped leg, and sent all four toward the rear wall with the cart between them and the yard. Three hurt. None bleeding to death. No red priority.
+Ruva bound the driver's head, checked the two walking patients, and found a third person beneath the cart with a bruised leg but a strong foot pulse. She showed the mobile pair where to lift the axle, freed the trapped leg, and sent the driver and injured passenger through the rear gate. While Vekran stood between them and the fallen attackers, Ruva and the mobile pair rocked the wedged wheel clear of the trough. The axle cracked as they shoved the cart through the rear gate and left it behind the stone wall. The strip from the infirmary door past the trough stood empty. Three hurt. None bleeding to death. No red priority.
 
 She drew her edged apprentice blade. "My route is clear. I'm coming to the door."
 
@@ -112,7 +112,7 @@ It was not reassurance. It was usable.
 
 They crossed the threshold together. Inside, two patients crouched behind an overturned table. At the far roof post, a figure in a dark coat had one shoulder pressed against the wood and one hand clenched around an iron clasp fixed through torn clothing. Four lines of pressure ran from that point into the ceiling braces. The person held a knife in the other hand.
 
-Vekran moved between the table and a falling beam. He planted his sword point in a crack between two floorstones, set his palm to the doorframe, and made a fixed ward from one surface to the other. The beam stopped dropping. The whole room complained around him.
+Vekran moved between the table and a falling beam. He planted his sword point in a crack between two floorstones, set his palm to the doorframe, and made a fixed brace from one surface to the other. The intact posts still carried most of the roof while the caster's working divided its pressure among four braces; Vekran took only the beam's sliding weight. It spent his warmth and fixed him at the doorway, but it was not yet the full crisis load. The beam stopped dropping. The whole room complained around him.
 
 The knife flashed from beside the post. Vekran shifted enough to keep it from his ribs, but the edge opened his sleeve under the upper arm.
 
@@ -132,7 +132,7 @@ It beat twice for every beat in the caster's throat.
 
 "Don't touch it," they said. Their breath came shallow. "I let go, the roof comes down. Your witchknight cuts me, it comes down faster. So perhaps we discuss a door."
 
-Behind Ruva, Vekran's hold hummed through stone and iron. "I can part the hard line through clasp and shoulder. I cannot map past it while I carry these loads."
+Behind Ruva, Vekran's partial brace hummed through stone and iron. "I can part the hard line through clasp and shoulder. I cannot map past it while I carry even this crossing load."
 
 The fastest cut would end the living source. It would also cross muscle, vessels, perhaps the joint. Ruva looked at the four braces, each drawn toward the wounded shoulder as if the caster had tied the room to their own body and pulled.
 
@@ -174,11 +174,11 @@ Ruva followed the imposed rhythm as far as her touch allowed. It did not end at 
 
 She took her hands away. "The working is braided along the wound. If you cut through the shoulder, all four loads release together."
 
-The ward shuddered under Vekran's hand.
+The partial brace shuddered under Vekran's hand.
 
 "My map was incomplete," he said at once. "I can keep the roof or attempt a second working. Not both."
 
-No excuse. No performance of certainty. The room had become a measure of how long his body could remain warm enough to choose.
+No excuse. No performance of certainty. The partial brace was already cooling him. Taking all four roof lines would leave still less room for error.
 
 Ruva pulled her cloak around the caster's uninjured side and looked for another line.
 
@@ -224,7 +224,7 @@ Ruva ignored them. Listing reasons had not changed the room. She changed tactics
 
 "And the roof?"
 
-"About sixty heartbeats under this load when I began. Fewer now."
+"The posts carry most of it now, and the knot keeps its pressure divided. When you begin the final map, I take all four lines. About sixty heartbeats at full load."
 
 The caster's hand closed over the clasp. "It stays. It's the only reason your people haven't killed me."
 
@@ -240,7 +240,7 @@ The caster looked past her to Vekran. "And him?"
 
 Dust spilled from a new crack overhead.
 
-The caster released the clasp, though their fingers hovered beside it. "It throws a false branch on the fourth beat after each tightening. I call it."
+The caster released the clasp, though their fingers hovered beside it. "After each tightening, the false branch starts across on one. It lies over the living line on two and three. It clears on four. The gap after four lasts until the next tightening. I call every beat."
 
 Ruva took chalk from her satchel and settled the edged apprentice blade in her grip. Stabilize for three breaths. Trace. Shift to guard. Turn the defensive pressure into bare floor. Part the braid. If the map blurred, stop.
 
@@ -255,6 +255,8 @@ Ruva tucked both hands into the warm fold of her cloak until her fingertips stun
 "Yes. The clasp stays until you cut it."
 
 "If you pull away, I stop."
+
+"This pass only settles the wound," Ruva told Vekran. "Keep the partial brace until I call the final map."
 
 She cleaned the accessible skin, replaced the blood-wet cloth, and set her palms around the wound. Her warmth moved again. One breath: tissue edges, unsteady but distinct. Two: the caster's true pulse, quick beneath her little finger. Three: the imposed rhythm sliding beside it.
 
@@ -288,11 +290,7 @@ The pressure struck the wall above them and showered grit. Forcing the hold woul
 
 "New count," she said. Her breath shook. "I lost the footing."
 
-She shifted half a pace to dry stone. Her arm throbbed where the bracer had taken the sword. Vekran's hands shook now, too, but his ward remained fixed.
-
-"Ready," he said.
-
-Ruva put her palms back to the wound.
+She shifted half a pace to dry stone. Her arm throbbed where the bracer had taken the sword. Vekran's hands shook now, too, but his partial brace remained fixed.
 
 "Still yes?"
 
@@ -302,15 +300,23 @@ Ruva put her palms back to the wound.
 
 The caster swallowed and nodded.
 
-"One," Vekran counted.
+"The full load starts with my first breath," Ruva said.
+
+"Ready," Vekran said.
+
+Ruva put her palms back to the wound. Vekran drove his sword point deeper and, with one long exhale, interposed his fixed ward across all four roof lines. The ceiling settled the width of a finger as the intact posts shed their strain into him. His next breath stopped short.
+
+"Full load," he said. "Sixty."
+
+"First breath," Vekran counted.
 
 Ruva found the living pulse.
 
-"Two."
+"Second."
 
 She found the false rhythm alongside it.
 
-"Three."
+"Third breath. Forty-six heartbeats."
 
 She drew chalk across the clasp where the narrow gap lay at that instant. Then she released the healing hold. The wound stayed bound by cloth and its own encouraged clotting, not cured, not safe for long.
 
@@ -322,13 +328,15 @@ Force hammered into the floor. Tile split with a flat crack. Numbness rushed fro
 
 Moved, not erased.
 
-"One," the caster gasped. "Two—"
+"Thirty-four," Vekran said.
 
-Ruva brought the edged iron toward the chalk mark.
+"One—moving," the caster gasped.
 
-"Don't. It moved."
+Ruva began the stroke toward the chalk mark, intending to land before the second beat.
 
-The false branch slid toward the living pulse.
+"Two. Across. Stop."
+
+The false branch slid across the living pulse.
 
 Vekran's breath hitched. The beam above him dropped the width of a nail before his ward caught it again.
 
@@ -338,9 +346,11 @@ But there was no safe line beneath her blade.
 
 She aborted, drew back, and waited.
 
-"Three," the caster said. Their whole body strained against the need to move. "Four. Now."
+"Twenty-eight," Vekran said.
 
-The false branch passed. Beneath it, for less than a heartbeat, healer-sense gave Ruva the boundary her eyes could not: warm living tissue here, cold clasp there, shaped pressure crossing only the iron.
+"Three. Hold," the caster said. Their whole body strained against the need to move. "Four. Clear. Now."
+
+The false branch passed beyond the living pulse. In the promised gap before the next tightening, healer-sense gave Ruva the boundary her eyes could not: warm living tissue here, cold clasp there, shaped pressure crossing only the iron.
 
 She cut on that line.
 
@@ -348,11 +358,11 @@ The blade passed through the edge of the clasp and the braided working with a so
 
 The four roof loads released unevenly.
 
-Vekran pulled his sword from the floor and turned with his whole body. He opened the ward toward the empty courtyard. Timber, tile, and force went outward through the path he chose, bursting across the cleared paving in a roar of dust.
+"Eighteen," Vekran said. He pulled his sword from the floor and turned with his whole body. He opened the ward toward the cleared strip between the doorway and the trough. Timber, tile, and force went outward through the path he chose, bursting across the empty paving in a roar of dust.
 
 Then he dropped the hold before it could take the last warmth from his hands.
 
-Part of the roof fell where the medicine cart had stood before the patients dragged it back. The inner beam settled onto the overturned table instead of the people behind it.
+Part of the roof fell across the cleared strip, stopping short of the cart behind the rear wall. The inner beam settled onto the overturned table instead of the people behind it.
 
 Vekran sank to one knee, conscious, his sword point resting on stone.
 
