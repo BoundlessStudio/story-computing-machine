@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "clerics-infernal-ex",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-03T18:43:40.5874046+00:00",
+      "completedAt": "2026-08-03T18:51:28.8097931+00:00",
+      "guardId": "070219c431054e7ab666e32901a3ce64",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory: `clerics-infernal-ex`\nmode: `CREATE_DRAFT`\nguardId: `070219c431054e7ab666e32901a3ce64`\noutput: `stories/clerics-infernal-ex/03-draft.md`\nwordCount: `3418`\nstalePrecondition: `none`\nacceptanceSummary: `Complete seven-scene close-third past-tense prose draft with exact prompt reversal, bounded living-powered courtesy-hinge causality, distinct dialogue, competent party action, PG-13 consequences, and earned physical and non-reunion emotional resolution. Only the allowed draft file changed.`",
+      "inputs": [
+        "stories/clerics-infernal-ex/00-prompt.md",
+        "stories/clerics-infernal-ex/01-canon-brief.md",
+        "stories/clerics-infernal-ex/02-story-plan.md",
+        "stories/clerics-infernal-ex/authority.json",
+        "stories/clerics-infernal-ex/handoffs.json",
+        "stories/clerics-infernal-ex/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/clerics-infernal-ex/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
