@@ -1,0 +1,142 @@
+story_slug: what-i-hate-most
+mode: RESEARCH_CANON
+authority_manifest: stories/what-i-hate-most/authority.json
+authority_base: main@11a9362c21a65c76478b083177d6b39d7b13154d
+guard_id: cf6e063ce712469b95fb10fec328c7d7
+resolution_owner: coordinator
+
+# Canon brief
+
+> Research status: READY  
+> Resolution owner: coordinator  
+> Authority conflict: none  
+> User ruling required: no
+
+## Hard constraints
+
+- Fulfill the captured prompt contract: two adult, magically powerful rivals; contest functioning simultaneously as conflict and courtship; dark-queen or night-sovereign energy; the quoted exchange appearing naturally; a concrete, consequential meaning for “share”; freely exercised agency; and a decisive emotional and plot resolution. Possessiveness may create tension but cannot make either person a prize, erase refusal, or present coercion as healthy romance. (`stories/what-i-hate-most/00-prompt.md` — “Story controls”, “Assumptions”, and “Completion tests”)
+- The Suno references supply tone only: nocturnal grandeur, intimacy, shared liberation, competitive spellcraft, and lover-versus-rival energy. They have `authority: none`, establish no setting fact, and their lyrics must not be copied. (`stories/what-i-hate-most/00-prompt.md` — “User-provided tonal references”; `sources/README.md` — evidence authority)
+- The story occurs somewhere in the one continuous physical world. A new fantasy court, city, or border realm may occupy an unnamed era, but must not be declared a separate planet, plane, or disconnected fantasy cosmos. Earth, Ravel, and the Glass-Sea world are era-bound labels for the same world. (`universe/premise.md` — “The deep-time shared world”; `universe/locations.md` — “The world across eras”)
+- Only living beings may use magic. A crown, throne, sword, mirror, ward, veil, arena, contract, or other nonliving focus may store, channel, measure, or shape power supplied through living agency, but may not independently choose, cast, desire, become jealous, or decide the rivals’ relationship unless established as alive and treated as a person. (`universe/rules.md` — “System categories” and “Living agency and magic”; `universe/style-guide.md` — “Personhood and moral consequence”)
+- Attraction, jealousy, desire, pain, sacrifice, oaths, victory, and consent are not universal magical fuels. If any matters mechanically, define one bounded local system with clear access, costs, limits, failure states, and revocation behavior. Consent must remain an ethical choice even if a local mechanism can register assent. (`universe/rules.md` — “Costs, desire, and local mechanisms”)
+- A contest may reveal desire or settle a political/tactical question, but victory cannot itself create romantic consent, ownership, exclusivity, touch rights, or a relationship. This is both a prompt requirement and the established lesson of Lacebridge’s courtesy-bout practice. (`stories/what-i-hate-most/00-prompt.md` — “Prohibited elements”; `universe/factions.md` — “Lacebridge civic blade-yard practice”; `universe/glossary.md` — “Courtesy bout (Lacebridge)”)
+- Calling a lead a queen, night-sovereign, goddess, divine ruler, or similar title does not automatically establish objective godhood. Objective godhood requires the continuing conjunction of worship, power, and authority; no universal divine government spans all eras. A cultural or political title is safer unless all three elements are intentionally established. (`universe/rules.md` — “Divinity”)
+- Do not identify either lead with Queen Aurelia, the Goddess of Time title-bearer, Solstice Evening Bell, Queen Olyra, Kharost/Queen Orvessa IV, the Sleepless Majesty, or another established sovereign merely because of queen, crown, night, duel, or magical imagery. Resemblance does not establish identity, shared origin, or mechanism. (`universe/rules.md` — “Artifacts, motifs, and folklore”; `universe/style-guide.md` — “Continuity and evidence discipline”)
+- Keep intimacy suggestive and non-explicit, with any sexual culmination fading to black. Violence may be intense but must remain non-graphic and consequence-centered. (`universe/style-guide.md` — “Audience and content boundaries”; `stories/what-i-hate-most/00-prompt.md` — “Story controls”)
+
+## Relevant established context and precedents
+
+- Independent audience entry points are normal. No crossover, established faction, named era, or explanation of the wider cosmology is required. (`universe/premise.md` — “Knowledge and connection”; `universe/style-guide.md` — “Tonal range, scale, and connection”)
+- *The Courtesy of Blades* is the closest structural precedent: adult longtime rivals use a nonlethal contest to demand full competence and repair a romantic misunderstanding, while explicit rules preserve refusal, career independence, and the difference between winning and consent. It is a useful ethical precedent but a substantial originality risk. The new story should differ through magical and political stakes, nocturnal sovereign atmosphere, the concrete “sharing” conflict, and a resolution larger than one date after a regulated bout. (`stories/the-courtesy-of-blades/05-story.md` — “The Courtesy of Blades”; `universe/timeline.md` — “Undated Lacebridge trial and courtesy bout”)
+- *Solstice Evening Bell* establishes a centuries-old First Monarch and queen of all magical girls whose immense living power is shaped by a thirteen-tone crown during a night-sky battle. Her crown techniques, donated final spells, western-bay setting, titles, and solitary-defense structure are specific to her. No living subjects are identified after her circles fade, and her demonstrated crown techniques are permanently gone. A new nocturnal sovereign should not imply she is Solstice, her successor, or part of that tradition. (`stories/solstice-evening-bell/05-story.md` — “Solstice Evening Bell”; `universe/characters.md` — “Solstice Evening Bell”; `universe/rules.md` — “Solstice’s thirteen-tone crown”)
+- *The Peace They Could Sleep Through* establishes the Sleepless Majesty as an exact twelve-dragon collective sharing one public guise and constituting one sovereign god until its members renounce royal and religious authority. This creates a strong collision risk around “sharing” a sovereign identity, multiple rulers in one body, hidden draconic monarchy, and collective godhood. The new leads should remain two distinct people and should not repeat a shared-face or composite-sovereign reveal. (`stories/the-peace-they-could-sleep-through/05-story.md` — “The Peace They Could Sleep Through”)
+- *The Gentlest Terror* establishes Queen Olyra, the fearsome-looking royal dragon Nyrzath, and an Ersene alliance system whose legitimacy depends on separately asked, freely answered, wholly witnessed assent. It supports dangerous competence without domination and distinguishes witnessing from commanding. It is not a romance template, and the new story need not reuse Ersene, Olyra, Nyrzath, dragon alliances, shed-scale focuses, or their formula. (`stories/the-gentlest-terror/05-story.md` — “The Gentlest Terror”; `universe/factions.md` — “Ersene noble-dragon alliance law”)
+- *A Crown of Quiet Hours* establishes Kharost as Queen Orvessa IV, one of twelve dragons who secretly rotated through royal masks before surrendering power. A new night court must not imply a relationship to that hidden monarchy, its exact twelve-dragon structure, or its shared desire for long sleep. (`universe/characters.md` — “Kharost / Queen Orvessa IV”; `universe/factions.md` — “Hidden twelve-dragon monarchy of Queen Orvessa IV”)
+- Queen Aurelia’s cultural alias is `the Goddess`; the Goddess of Time is a distinct claimed title; neither title automatically certifies objective godhood. These forms are unavailable for a new dark sovereign. (`universe/characters.md` — “Queen Aurelia” and “The woman claiming the Goddess of Time title”; `universe/glossary.md` — “Goddess of Time (claimed title)”)
+- *The Shape of Mercy* treats coercive command-bonds as abuse even when the bonded creature retains feelings and innate power. A jealousy, bond, oath, or contest mechanism that compels affection or bodily compliance would therefore require condemnation and release, not romantic validation. (`universe/rules.md` — “Garran’s command-bonds and witnessed stormhart”; `universe/glossary.md` — “Command-bond (Garran Bellweather)”)
+
+## Conflicts and collision risks
+
+- **Contradiction:** None in the captured prompt. The story can proceed without a canon ruling.
+- **Omission, not contradiction:** Canon does not specify the leads’ identities, genders, names, courts, era, relationship history, magical systems, or the object of “sharing.”
+- **Omission, not contradiction:** Canon does not define a universal night sovereign, nocturnal court, queen-duel tradition, or magical courtship law. Their absence leaves local invention space; it does not authorize a global institution.
+- **Conditional contradiction:** Presenting the setting as another world or plane disconnected from the shared physical world would contradict locked one-world authority.
+- **Conditional contradiction:** Letting a nonliving crown, blade, throne, ward, or contract independently use magic would contradict the living-agency rule.
+- **Conditional contradiction:** Declaring a night queen objectively divine without worship, power, and authority would contradict the established godhood taxonomy.
+- **Conditional contradiction:** Treating combat victory, magical binding, office, jealousy, or public expectation as romantic consent would contradict the prompt contract and established personhood boundaries.
+- **Structural collision:** A regulated duel whose winner earns only an invitation would closely repeat *The Courtesy of Blades*. Use a materially different contest, source of resentment, plot danger, and resolution.
+- **Sovereign-image collision:** A lone crowned woman fighting an army beneath a ruptured night sky with resonant, bell, chime, or sacrificial-spell mechanics would closely repeat *Solstice Evening Bell*.
+- **Identity collision:** Multiple rulers sharing one body, face, office, or divine identity—especially an exact twelve-member collective—would closely repeat the Sleepless Majesty or Kharost’s monarchy.
+- **Consent-system collision:** A scale focus, “asked/answered/witnessed” formula, royal dragon witness, or alliance-renewal structure would closely repeat Ersene.
+- **Authority conflict:** None among current `LOCKED`/`CANON` entries and the admitted stories relevant to this prompt.
+
+## Unknowns
+
+- The two leads’ names, genders, ages beyond adulthood, species, offices, and prior romantic history.
+- Whether both are literal political queens, one is a queen and one a rival power, or “dark queen” is tonal rather than constitutional.
+- The unnamed era and locality in which the story occurs.
+- What “share” means: civic obligations, divided magical attention, public office, factional allegiance, protective duty, court access, or another non-romantic claim.
+- Why the rivalry has become a contest now and what material outcome the contest can legitimately settle.
+- The source, scale, costs, limits, and interaction of both living magical abilities.
+- Whether a nonliving focus or arena participates and, if so, exactly what it can do without agency.
+- What danger prevents the story from resolving through banter alone.
+- What freely chosen compact, boundary, relationship, or separation resolves both plot and possessive tension.
+
+These are omissions and planning questions, not evidence for new universal lore.
+
+## Safe local invention space
+
+- Create two original adult leads and a standalone fantasy locality in an unnamed era of the shared physical world.
+- The strongest canon-compatible setting is an independent nocturnal court or border city jointly endangered after sunset, with no connection to Ersene, Lacebridge, Solstice’s circles, the Glass-Sea capital, or either dragon monarchy.
+- The strongest mechanism is a bounded civic night-ward sustained by living magic from the two rival sovereigns. The ward, crown, towers, sigils, or weapons may focus their power but must remain non-agentic. Define what each woman supplies, what happens when their methods conflict, what each use costs, and how either may stop.
+- Make “share” refer to the night-sovereign’s divided public attention and duty—for example, her obligation to answer every ward, petitioner, or threatened district—rather than to a third romantic partner or another person’s ownership. The rival may resent that the whole city continually claims the woman she wants, while still recognizing that the sovereign chooses and values those duties.
+- Let the contest decide a legitimate tactical or political question—such as which defense plan governs the current night—not whether either person owes affection. Mutual attraction can surface through the way each recognizes the other’s competence.
+- Resolve the possessive tension through a freely chosen, renewable arrangement that shares burden without sharing ownership: separate offices, explicit limits, continued public duties, and an unambiguous private choice to pursue one another.
+- Create two distinct living magic expressions suited to the tonal contrast—shadow, moonlight, storm, flame, silence, stars, or another local vocabulary—without implying that motifs establish kinship with existing systems.
+- A crown or sovereign title may be culturally meaningful without establishing godhood. Prefer local political authority unless worship and taxonomic godhood are necessary to the story.
+- Use luminous nocturnal imagery, dangerous banter, and a sensuous fade-to-black ceiling without importing song lyrics.
+- Keep proposed canon additions narrow: these two people, this locality, this ward or contest, and its observed limits. Leave the era and wider cosmology unresolved unless the story needs them.
+
+## Concrete canon recommendation
+
+Proceed with two original adult rival rulers in an unnamed fantasy-era night city on the shared physical world. One is the city’s publicly answerable night-sovereign; the other is an equally powerful rival whose magic is necessary to survive one bounded nocturnal breach. The sovereign’s duty requires her to divide her attention among the city’s wards and people, giving “I have to share you” a concrete emotional and political meaning without introducing ownership or a third romantic partner.
+
+Their combat should determine which defensive strategy governs the night, not romantic entitlement. Their living powers may interlock through a non-agentic civic ward, provided access, limits, costs, and withdrawal are explicit. The resolution should have them choose a revocable joint defense compact and choose each other privately, while preserving separate agency and the duties that caused the conflict.
+
+Differentiate the result from *The Courtesy of Blades* by avoiding a formal date-as-prize wager; from *Solstice Evening Bell* by avoiding a lone crowned defender, chimes, resonance, donated final spells, and the western-bay structure; from *The Peace They Could Sleep Through* by keeping two distinct identities rather than a composite sovereign; and from Ersene by avoiding dragon-scale focuses and its renewal formula.
+
+## Name constraints
+
+- The prompt supplies no personal names. Every full name, given name, mononym, nickname, alias, title used as a stable name, named weapon, and person-like entity must be checked case-insensitively against the complete registry.
+- Do not reuse `Solstice Evening Bell`, `Solstice`, `Evening Bell`, `First Monarch`, or `queen of all magical girls`.
+- Do not reuse `Queen Aurelia`, `the Goddess`, `the Goddess of Time`, `Goddess of Time`, or `Time`.
+- Do not reuse `Princess Olyra`, `Queen Olyra`, `Olyra`, `Kharost`, `Queen Orvessa IV`, `Queen Orvessa`, or `Orvessa`.
+- Do not reuse `the Sleepless Majesty`, `Sleepless Majesty`, `Majesty`, or `Your Majesty` as a stable character-facing identity. If ordinary court address would produce a reserved form, the coordinator must validate its use rather than assume genericity.
+- Avoid other sovereign or nocturnal reservations including `Crowned Ancestors`, `the Daughter`, `Daughter`, `Night Clerk`, `the Grief-Clad`, `Nyr`, and `Nyrzath`.
+- `stories/NAMES.md` currently reports no unresolved collisions, but canon, candidate, in-progress, abandoned, and unreleased historical reservations remain searchable. The lack of an unresolved collision does not release any reserved form.
+- Default to fresh, readily distinguishable names with different silhouettes and cadence from dense registry clusters. Any intentional reuse must identify the same or distinct identity, explain why the reuse materially matters, and provide reader disambiguation. This prompt supplies no reason for reuse. (`stories/NAMES.md` — “Rules”, registry table, and “Known unresolved name collisions”)
+
+## Required later checks
+
+- **Story architect:** Confirm both romantic leads are unambiguously adults, have independent goals, and retain meaningful choices unrelated to romance.
+- **Story architect:** Make “share” concrete in civic, magical, political, or attentional terms and ensure the resentment cannot reasonably be read as ownership of a person.
+- **Story architect:** Define exactly what the contest can settle and explicitly exclude affection, exclusivity, bodily access, office, or personhood from the winner’s entitlement.
+- **Story architect:** Specify each living user, magical capability, cost, limit, interaction, failure state, and withdrawal condition; identify every nonliving focus as non-agentic.
+- **Story architect:** Differentiate the scene structure and emotional proof from *The Courtesy of Blades*, *Solstice Evening Bell*, the Sleepless Majesty reveal, and Ersene’s alliance renewal.
+- **Coordinator:** Validate and register every planned personal name, alias, sovereign title used as a name, named weapon, and person-like entity.
+- **Prose writer:** Include the quoted exchange naturally and preserve genuine fighting/flirting ambiguity until reciprocal choices clarify it.
+- **Prose writer:** Give both leads dangerous competence on page; neither may exist merely as prize, obstacle, temptation, or audience for the other.
+- **Prose writer:** Keep possessive language character-specific and contestable. The resolution must demonstrate chosen reciprocity rather than rely on the narration declaring coercion romantic.
+- **Prose writer:** Preserve the non-explicit intimacy ceiling and non-graphic violence ceiling; reproduce no Suno lyrics.
+- **Continuity critic:** Check for accidental separate-world language, objective godhood claims, universal night-court rules, autonomous object magic, or desire/consent treated as universal fuel.
+- **Continuity critic:** Check that no duel result, magical bond, crown, oath, public office, or civic need overrides either lead’s refusal or continuing consent.
+- **Continuity critic:** Compare the finished story specifically against the Lacebridge rematch, Solstice’s night battle, the Sleepless Majesty’s shared identity, Ersene’s royal renewal, and the hidden Kharost monarchy.
+- **Story editor:** Keep `06-canon-delta.md` local to the new people, locality, mechanism, and witnessed limits; do not infer era placement, crossover, universal courtship law, or divine hierarchy.
+- **Coordinator:** Reconcile final names and run `.agents/skills/story-name-validation/scripts/check-story-names.ps1 -Story what-i-hate-most`.
+- **Coordinator:** Recheck current `LOCKED` and `CANON` authority before release or promotion.
+
+## Sources
+
+- `stories/what-i-hate-most/00-prompt.md` — complete captured prompt contract and authority-none Suno context
+- `stories/what-i-hate-most/story.json` — lifecycle authority
+- `stories/what-i-hate-most/authority.json` — captured universe inventory and 24 admitted canon stories
+- `stories/what-i-hate-most/handoffs.json` — ordered handoff ledger at research input
+- `universe/README.md` — “Authority order”, “Entry format”, and “Files”
+- `universe/premise.md` — “The deep-time shared world”, “Memory, myth, and recoverable truth”, and “Knowledge and connection”
+- `universe/rules.md` — “System categories”, “Living agency and magic”, “Divinity”, “Costs, desire, and local mechanisms”, “Artifacts, motifs, and folklore”, “Solstice’s thirteen-tone crown”, “Ersene alliance focuses and calls”, and “Garran’s command-bonds and witnessed stormhart”
+- `universe/locations.md` — “The world across eras”, “Ersene”, “Lacebridge”, and “Unnamed kingdom and capital of the Crowned Ancestors”
+- `universe/factions.md` — “Solstice’s historical magical-girl circles and coronation compact”, “Ersene noble-dragon alliance law”, “Lacebridge civic blade-yard practice”, and “Hidden twelve-dragon monarchy of Queen Orvessa IV”
+- `universe/characters.md` — “Queen Aurelia”, “The woman claiming the Goddess of Time title”, “Solstice Evening Bell”, “Olyra”, “Nyrzath”, and “Kharost / Queen Orvessa IV”
+- `universe/glossary.md` — “Magic, technology, and divinity”, “Goddess of Time (claimed title)”, “Courtesy bout (Lacebridge)”, “Alliance focus (Ersene)”, “the Grief-Clad”, and Solstice’s crown-technique entries
+- `universe/style-guide.md` — “Personhood and moral consequence”, “Prose defaults”, “Tonal range, scale, and connection”, “Audience and content boundaries”, and “Continuity and evidence discipline”
+- `universe/timeline.md` — “Universal chronology”, “Established era order”, “Undated modern-like western-bay invasion”, “Undated Ersene accession and Flint flood”, and “Undated Lacebridge trial and courtesy bout”
+- `universe/retcons.md` — retcon log; no approved retcon entries
+- `stories/the-courtesy-of-blades/05-story.md` — “The Courtesy of Blades”
+- `stories/solstice-evening-bell/05-story.md` — “Solstice Evening Bell”
+- `stories/the-peace-they-could-sleep-through/05-story.md` — “The Peace They Could Sleep Through”
+- `stories/the-gentlest-terror/05-story.md` — “The Gentlest Terror”
+- `stories/INDEX.md` — checked final/canon projections for the admitted stories
+- `stories/NAMES.md` — non-canon production-memory rules, complete reservations, and no unresolved collisions
+- `sources/README.md` and `sources/MANIFEST.json` — evidence rules and inventory; no verified Suno source record exists, and no canon claim relies on the external songs
+
+status: READY
