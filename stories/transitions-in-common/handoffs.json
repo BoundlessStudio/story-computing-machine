@@ -137,6 +137,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "transitions-in-common",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T15:56:26.0433400+00:00",
+      "completedAt": "2026-08-03T16:00:25.8049759+00:00",
+      "guardId": "b4306ef8660d443bb8ddfc248c4f203c",
+      "persister": "coordinator",
+      "report": "REVIEW_PASS_PAYLOAD\n{\n  \"story\": \"transitions-in-common\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/transitions-in-common/05-story.md\",\n  \"authorityManifest\": \"stories/transitions-in-common/authority.json\",\n  \"handoffLedger\": \"stories/transitions-in-common/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T15:59:36.6274383Z\",\n  \"reviewBasis\": \"Independent final review of the complete release-facing story and proposed canon delta against the captured prompt, canon brief, scene-ready plan, passing draft and prior review history, current authority inventory, ordered handoff ledger, exhaustive name registry, immutable artifact identity, binding audience and personhood constraints, and repository prose, voice, and dialogue-review guidance.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Final review passed. The release-facing story preserves the previously passing 3,408-word prose exactly while replacing draft-only frontmatter with title, slug, and creation date that match lifecycle authority. It remains a complete close-first-person past-tense YA-14+ story whose masculine, feminine, and mixed body and presentation play is causal, nonsexualized, and separate from stable name, pronouns, continuous personhood, and inward gender. Hugo's transgender identity is never the error, lesser meaning, supernatural analogue, or explanatory burden; his portrait goal, privacy limits, protective choice, withdrawal, bounded return, image approval, and friendship decision preserve independent agency. Cody's living initiation, human-range forms, forty-second change, unchanged clothing, cooldown, stalled mixed-state failure, fatigue, recovery, and voluntary final change remain chronologically and causally consistent, local, and unconnected to established transformation systems. The misunderstanding, consequential reveal, apology, delayed meeting, reciprocal curiosity limits, and separately authorized portraits preserve the passing dialogue profiles and earn the friendship's revised repair without instant absolution. The authority-none canon delta exhaustively inventories seventeen proposed character, relationship, location, school-practice, mechanic, boundary, event, and character-local glossary items with explicit scope, constraints, dependencies, dispositions, and smallest topical targets; it proposes no retcon, universal rule, external connection, promotion, or universe write. Its final character-facing inventory contains exactly Cody and Hugo, the reviewed three-column allowlist accounts for all non-character candidates, and the final story-scoped story-names/3 check passes with zero warnings and zero errors. Prior pass 1 contained no findings, so no prior disposition remains unresolved. No prose or repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/transitions-in-common/00-prompt.md",
+        "stories/transitions-in-common/01-canon-brief.md",
+        "stories/transitions-in-common/02-story-plan.md",
+        "stories/transitions-in-common/03-draft.md",
+        "stories/transitions-in-common/04-review.md",
+        "stories/transitions-in-common/05-story.md",
+        "stories/transitions-in-common/06-canon-delta.md",
+        "stories/transitions-in-common/authority.json",
+        "stories/transitions-in-common/handoffs.json",
+        "stories/transitions-in-common/story.json"
+      ],
+      "outputs": [
+        "stories/transitions-in-common/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
