@@ -137,6 +137,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 6,
+      "story": "the-five-minute-warranty",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T04:04:49.5643254+00:00",
+      "completedAt": "2026-08-03T04:08:06.8779906+00:00",
+      "guardId": "6aefb1dcfb7944ac8a09a0cdecc3d274",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-five-minute-warranty\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/the-five-minute-warranty/05-story.md\",\n  \"authorityManifest\": \"stories/the-five-minute-warranty/authority.json\",\n  \"handoffLedger\": \"stories/the-five-minute-warranty/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T04:06:35.1445443Z\",\n  \"reviewBasis\": \"Independent read-only joint review of the release-facing story and complete proposed canon delta against the captured prompt, lifecycle record, canon brief, story plan, source draft, pass-1 review history, unchanged LOCKED/CANON authority inventory captured at base commit f59eeb1d0ae8fbb4767475ed7e56478ca41a6703, ordered handoff ledger through completed sequence 5, full name registry, and the four admitted comparison stories identified in the canon brief. Rechecked prompt fulfillment, chronology, engineering causality, five-minute countdown, local goblin scope, mundane nonliving machinery, Nalda's voluntary durable choice, prose readiness, teen boundaries, originality, immutable frontmatter, all 25 proposed fact dispositions and qualifiers, dependencies and smallest targets, exhaustive final character-facing inventory, and reviewed-prose allowlist. The strict Final name gate story-names/3 passed at 2026-08-03T04:06:24.1693829+00:00 with zero warnings and zero errors.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"FMW-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-five-minute-warranty/05-story.md:13, the unseen opening mechanics are explicitly framed as Kezli's sound-based reconstruction and conditional inference. At line 17, she confirms the teeth, inspection-cover damage, displaced drum, and engaged brake only after arriving at the North Rise. The three-sound opening and immediate stakes remain intact without leaving close-third viewpoint.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Final review passed. The release-facing frontmatter exactly matches the story title, slug, and creation date. The complete story preserves the passing draft's collaborative goblin diagnosis, calculation, testing, construction, operation, disclosure, and aftermath while resolving FMW-DRAFT-001. Its mundane coal-steam friction bridge works through assigned mechanical functions; its five-minute life follows declared load, clearance, heat, sacrificial wear, and designed isolation; and white, blue, yellow, orange, red, then bare iron provide a legible countdown ending in the predicted shear, roller withdrawal, steam dump, and brake engagement. Nalda freely writes, witnesses, transmits, repeats, and later accepts responsibility for the costly persons-before-property decision. Goblin ability remains local to Kezli, Olbit, and their workshop; danger and injury remain teen-appropriate; pacing and prose are release-ready; and the civic lift rescue remains materially distinct from the comparison stories' lone plot-armor smith, Qarsis cold-work contract, eleven-foundation flood topology, and living constructed collaborators. The delta inventories 25 sequential, prose-supported proposal items, gives every item an explicit proposed disposition, dependency set, exact local scope, limiting qualifiers, and smallest topical target, preserves the unnamed and unplaced era, asserts no promotion or retcon, and correctly treats all machinery and records as nonliving, nonmagical, and non-agentic. Its final character-facing inventory is exhaustive, its two-entry non-character allowlist is exact, and all forms match the registry. No unresolved findings or user ruling remain, and no repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-five-minute-warranty/00-prompt.md",
+        "stories/the-five-minute-warranty/01-canon-brief.md",
+        "stories/the-five-minute-warranty/02-story-plan.md",
+        "stories/the-five-minute-warranty/03-draft.md",
+        "stories/the-five-minute-warranty/04-review.md",
+        "stories/the-five-minute-warranty/05-story.md",
+        "stories/the-five-minute-warranty/06-canon-delta.md",
+        "stories/the-five-minute-warranty/authority.json",
+        "stories/the-five-minute-warranty/handoffs.json",
+        "stories/the-five-minute-warranty/story.json"
+      ],
+      "outputs": [
+        "stories/the-five-minute-warranty/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
