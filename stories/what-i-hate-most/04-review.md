@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/what-i-hate-most/05-story.md`
-- Review pass: 3
-- Verdict: REVISE
+- Review pass: 4
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-03T14:31:16.9517334Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-03T14:43:16.5761636Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -219,3 +219,62 @@ REVIEW_PASS_PAYLOAD
 }
 END_REVIEW_PASS_PAYLOAD
 
+### Pass 4 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "what-i-hate-most",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 4,
+  "reviewedArtifact": "stories/what-i-hate-most/05-story.md",
+  "authorityManifest": "stories/what-i-hate-most/authority.json",
+  "handoffLedger": "stories/what-i-hate-most/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-03T14:43:16.5761636Z",
+  "reviewBasis": "Independent read-only final re-review under guard 5f49a5e2af7b47b0ba52bb8290530bfc against the current prompt, in-progress lifecycle record, canon brief, scene-ready plan, passing revised draft, ordered review history through pass 3, byte-unchanged final prose, revised 26-item canon delta, authority inventory captured at base commit 11a9362c21a65c76478b083177d6b39d7b13154d, repaired handoff ledger through completed sequence 9, and current complete character-name registry. Verified every subpart of WHM-FINAL-001 against the revised delta, then re-audited all twenty-six proposed items for final-prose support, dependencies, local scope, constraints, provenance, targets, conflicts, promotion posture, character inventory, registry reconciliation, and the five-entry non-character allowlist. Reconfirmed prompt fulfillment, chronology, causality, magic mechanics, living agency, non-agentic infrastructure, dialogue distinction, consent, originality, prose readiness, frontmatter, and content boundaries. The final-prose Git object hash remains afa53e1d08d2e6c358822fe78a9d9c857697b8df, identical to the original final checkpoint. The strict final name check passed without warnings or errors. Current universe files and admitted canon stories remain unchanged from the authority base. Review headings and payloads are now ordered pass 1, pass 2, pass 3; handoff sequences are contiguous from 1 through 9; sequence 8 contains the exact pass-3 REVIEW_FINAL report with WHM-FINAL-001; and both Test-StoryHandoffs and Test-StoryIntegrity pass.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "WHM-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose preserves the corrected capacity sequence: four active planes at stories/what-i-hate-most/05-story.md:17, four throughout the contest and initial defense at lines 73, 109, 147, and 195, a fifth plane raised only for the two-breath emergency transfer at lines 203-241, and three collaborative baffles thereafter at lines 247-249. Revised delta items WHM-10 and WHM-23 preserve that sequence."
+    },
+    {
+      "id": "WHM-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/what-i-hate-most/05-story.md:123-137, Ombria deliberately removes her housing hand to answer the eastern roofs, the agreed contact rule explicitly ends her claim, and Draxenne holds the housing through breath thirty before extinguishing her flame. Delta item WHM-21 accurately records the adjudication."
+    },
+    {
+      "id": "WHM-DRAFT-003",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/what-i-hate-most/05-story.md:183 and 195, Draxenne recovers the housing plate and places it atop the eleven waiting plates; lines 281-293 then account for and exhaust all twelve. Delta items WHM-18 and WHM-23 preserve the continuous inventory."
+    },
+    {
+      "id": "WHM-FINAL-001",
+      "priorPass": 3,
+      "resolvedInPass": 4,
+      "disposition": "RESOLVED",
+      "evidence": "Revised WHM-08 at stories/what-i-hate-most/06-canon-delta.md:129-143 now grounds the contest in the two conflicting conduit plans actually shown in final prose and removes the unsupported junction-destruction claim. Revised WHM-13 at lines 202-215 removes thirst and collapse risk and limits the inventory to demonstrated body-water and breath consumption, cracked fingertips, tremor, visual halos, acute oxygen debt, and severe post-crisis exhaustion. WHM-09 at lines 147-160 now assigns anchors and apparatus to WHM-16; WHM-11 at lines 174-186 assigns coordinated withdrawal to WHM-19 and spillway infrastructure to WHM-06; and WHM-12 at lines 187-201 correctly assigns stone and apparatus to WHM-06 and WHM-16, stormglass to WHM-17, ceramic to WHM-18, and bodily costs to WHM-13. The complete dependency re-audit found all twenty-six item IDs present and unique, with no missing item references or widened authority claim."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Final re-review passed with WHM-FINAL-001 fully resolved and no regression or new finding. The approximately 3,790-word final prose remains byte-identical, publication-ready, within the requested length and content limits, and fully responsive to the prompt. It preserves the exact fighting/flirting exchange, two adult and independently motivated magical rivals, the concrete civic meaning of sharing, coherent bounded magic and physical causality, distinct dialogue tactics, and separate revocable tactical, political, romantic, and bodily choices. The revised 26-item delta is now fully supported by final prose, locally scoped, dependency-correct, non-promotional, and release-ready. Its character inventory matches the registry, its non-character allowlist remains complete, and no authority conflict, name collision, autonomous object magic, universal rule, separate-world claim, copied lyric, or precedent regression is present. The repaired review and handoff histories now validate successfully. Certification eligibility is true, and no repository files were changed."
+}
+END_REVIEW_PASS_PAYLOAD
