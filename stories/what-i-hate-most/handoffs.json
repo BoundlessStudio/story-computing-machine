@@ -195,6 +195,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "what-i-hate-most",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-03T14:24:20.3968500+00:00",
+      "completedAt": "2026-08-03T14:32:51.9606854+00:00",
+      "guardId": "c4b217af9a014e299586fc23df76ad5c",
+      "persister": "coordinator",
+      "report": "REVIEW_PASS_PAYLOAD\n{\n  \"story\": \"what-i-hate-most\",\n  \"mode\": \"REVIEW_DRAFT\",\n  \"status\": \"READY\",\n  \"pass\": 2,\n  \"reviewedArtifact\": \"stories/what-i-hate-most/03-draft.md\",\n  \"authorityManifest\": \"stories/what-i-hate-most/authority.json\",\n  \"handoffLedger\": \"stories/what-i-hate-most/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-03T14:09:13.0774378Z\",\n  \"reviewBasis\": \"Independent read-only complete draft re-review under guard 31a0a3fcc0f34370b26ab79502940baa against the current captured prompt, in-progress lifecycle record, canon brief, scene-ready plan, revised 3,787-word draft, review history through pass 1, authority inventory captured at base commit 11a9362c21a65c76478b083177d6b39d7b13154d, ordered handoff ledger through completed sequence 5, and current complete character-name registry. Verified each prior finding against the revised prose and checkpoint change set, then audited the complete draft for regression in prompt fulfillment, chronology, causality, physical staging, local magic counts, costs, limits, failure and withdrawal behavior, living agency, non-agentic infrastructure, contest boundaries, consent and personhood, close-third past-tense control, dialogue distinction and competing aims, pacing, prose readiness, name use, originality, and content limits. The captured universe files and all admitted canon-story artifacts remain unchanged. Rechecked the draft against current LOCKED/CANON authority and the cited distinctions from The Courtesy of Blades, Solstice Evening Bell, the Sleepless Majesty, Ersene, Kharost, and Garran's command-bonds. No final delta applies to REVIEW_DRAFT.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"WHM-DRAFT-001\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"The revised draft now establishes four active planes at stories/what-i-hate-most/03-draft.md:17, accounts for two contesting and two district planes at lines 73 and 109, and retains an explicit four-plane total at lines 147 and 195. Lines 203-241 identify the fifth as a maximum-three-breath emergency reach, raise it only to catch the lower-eastern load, release it on the second breath, show the immediate additional cold, and settle Ombria at three collaborative baffles by lines 247-249. The complete sequence now obeys the planned ceiling while preserving the civilian pulse, contest loss, costs, withdrawal, and later lethal-risk meaning.\"\n    },\n    {\n      \"id\": \"WHM-DRAFT-002\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/what-i-hate-most/03-draft.md:123-135, Ombria deliberately tears her housing hand free to answer the eastern roofs; the prose explicitly states that her claim ends when her palm leaves iron, then shows her release the western contesting plane, raise district protection, and leave Draxenne holding the rim before breath thirty. The tactical result now follows the agreed contact rule without a bodily strike or romantic entitlement.\"\n    },\n    {\n      \"id\": \"WHM-DRAFT-003\",\n      \"priorPass\": 1,\n      \"resolvedInPass\": 2,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/what-i-hate-most/03-draft.md:183, Draxenne removes and carries the cooled housing plate. Line 195 places that recovered plate atop the eleven waiting on the bridge, restoring the twelve-plate inventory later identified at line 281 and exhausted through the last plate at line 293. The venting use, recovery, total stock, and climactic sacrifice now form one continuous object chain.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": false,\n  \"changeReport\": \"Draft re-review passed with all three pass-1 findings resolved and no material regression or new finding. The 3,787-word story remains within target length and fulfills the prompt through two unambiguously adult, dangerously competent magical rivals; the exact fighting/flirting exchange; a consequential conflict over Ombria's divided civic attention; and decisive political, tactical, and romantic resolutions. Plane counts, costs, transfer timing, contest adjudication, plate inventory, spatial action, and withdrawal behavior are now explicit and internally consistent. The prose sustains close-third past tense through Draxenne, preserves distinct dialogue profiles and tactic changes, grounds dark-queen glamour in labor and bodily cost, and ends on shared public burden plus freely chosen touch. Contest victory grants only temporary conduit command; the renewable civic compact, courtship, and kiss remain separate and revocable choices. The story introduces no autonomous object magic, universal consent fuel, objective godhood claim, crossover, copied song lyric, name collision, explicit sexual content, or graphic violence, and it remains materially distinct from the cited precedents. The draft is ready for final editing; release certification remains ineligible at the draft-review stage, and no repository files were changed.\"\n}\nEND_REVIEW_PASS_PAYLOAD\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/what-i-hate-most/00-prompt.md",
+        "stories/what-i-hate-most/01-canon-brief.md",
+        "stories/what-i-hate-most/02-story-plan.md",
+        "stories/what-i-hate-most/03-draft.md",
+        "stories/what-i-hate-most/04-review.md",
+        "stories/what-i-hate-most/05-story.md",
+        "stories/what-i-hate-most/06-canon-delta.md",
+        "stories/what-i-hate-most/authority.json",
+        "stories/what-i-hate-most/handoffs.json",
+        "stories/what-i-hate-most/story.json"
+      ],
+      "outputs": [
+        "stories/what-i-hate-most/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
