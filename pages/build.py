@@ -35,6 +35,7 @@ class StoryMetadata:
 @dataclass(frozen=True)
 class PublishedStory:
     metadata: StoryMetadata
+    prompt: str
     body: str
     word_count: int
 
@@ -84,6 +85,29 @@ def parse_front_matter(content: str, path: Path) -> tuple[dict[str, str], str]:
         value = raw.strip().strip('"').strip("'")
         metadata[key.strip()] = value
     return metadata, normalized[end + 5 :]
+
+
+def parse_writing_prompt(content: str, path: Path) -> str:
+    normalized = content.replace("\r\n", "\n").replace("\r", "\n")
+    match = re.search(
+        r"^## Verbatim writing prompt\s*\n(?P<prompt>.*?)(?=^## |\Z)",
+        normalized,
+        flags=re.MULTILINE | re.DOTALL,
+    )
+    if match is None:
+        raise ValueError(f"{path} lacks a Verbatim writing prompt section")
+
+    lines = []
+    for line in match.group("prompt").strip().splitlines():
+        cleaned = re.sub(r"^\s*>\s?", "", line).strip()
+        if cleaned:
+            lines.append(cleaned)
+    prompt = re.sub(r"\*\*", "", " ".join(lines)).strip()
+    if prompt.startswith("[WP]"):
+        prompt = prompt.removeprefix("[WP]").strip()
+    if not prompt:
+        raise ValueError(f"{path} has an empty Verbatim writing prompt section")
+    return prompt
 
 
 def validate_repository_integrity(repository_root: Path) -> None:
@@ -180,28 +204,55 @@ def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
             raise ValueError(f"Final frontmatter fields differ for {metadata.slug}")
         if front != {"title": metadata.title, "slug": metadata.slug, "created": metadata.created}:
             raise ValueError(f"Final frontmatter identity differs for {metadata.slug}")
+        prompt_path = directory / "00-prompt.md"
+        prompt = parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path)
         word_count = len(re.findall(r"\b[\w’'-]+\b", body))
-        published.append(PublishedStory(metadata, body.strip(), word_count))
+        published.append(PublishedStory(metadata, prompt, body.strip(), word_count))
     published.sort(key=lambda story: story.metadata.created, reverse=True)
     return Catalog(tuple(published))
 
 
 def _page(title: str, body: str) -> str:
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>body{{max-width:48rem;margin:0 auto;padding:2rem;font:18px/1.65 Georgia,serif;color:#241f1a;background:#fcf8f1}}a{{color:#70451f}}article{{margin:2rem 0}}.meta{{color:#6d645a;font:14px system-ui}}li{{margin:.7rem 0}}</style></head><body>{body}</body></html>'''
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>
+:root{{color-scheme:light dark;--background:#fcf8f1;--surface:#fffdf8;--text:#241f1a;--muted:#6d645a;--link:#70451f;--border:#d8cec0}}
+@media (prefers-color-scheme:dark){{:root{{--background:#181512;--surface:#211d19;--text:#eee8df;--muted:#b8aea2;--link:#e4b780;--border:#4a4036}}}}
+body{{max-width:48rem;margin:0 auto;padding:2rem;font:18px/1.65 Georgia,serif;color:var(--text);background:var(--background)}}
+a{{color:var(--link)}}
+article{{margin:2rem 0}}
+.meta,.prompt-label{{color:var(--muted);font:14px system-ui}}
+.prompt{{margin:1rem 0;padding:1rem 1.2rem;border:1px solid var(--border);border-radius:.35rem;background:var(--surface)}}
+.prompt-label{{display:block;margin-bottom:.25rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase}}
+.prompt blockquote{{margin:0}}
+li{{margin:1rem 0}}
+</style></head><body>{body}</body></html>'''
+
+
+def _prompt(value: str) -> str:
+    return f'<div class="prompt"><span class="prompt-label">Prompt</span><blockquote>{html.escape(value)}</blockquote></div>'
+
+
+def _without_leading_title(body: str, title: str) -> str:
+    heading = re.match(r"^#\s+(?P<title>[^\n]+?)\s*(?:\n+|\Z)", body)
+    if heading is None:
+        return body
+    heading_title = re.sub(r"[*_`]", "", heading.group("title")).strip()
+    if heading_title.casefold() != title.casefold():
+        return body
+    return body[heading.end() :].lstrip()
 
 
 def render_index(catalog: Catalog) -> str:
     items = []
     for story in catalog.stories:
         status = "Canon" if story.metadata.canon else "Candidate"
-        items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a><div class="meta">{status} · {story.word_count:,} words</div></li>')
+        items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a>{_prompt(story.prompt)}<div class="meta">{status} · {story.word_count:,} words</div></li>')
     return _page("Stories", f"<h1>Stories</h1><p>{len(items)} published stories from the current validated checkout.</p><ol>{''.join(items)}</ol>")
 
 
 def render_story(story: PublishedStory) -> str:
-    prose = markdown.markdown(story.body, extensions=["extra", "smarty"])
+    prose = markdown.markdown(_without_leading_title(story.body, story.metadata.title), extensions=["extra", "smarty"])
     status = "Canon" if story.metadata.canon else "Candidate"
-    body = f'<p><a href="../index.html">← All stories</a></p><article><h1>{html.escape(story.metadata.title)}</h1><p class="meta">{status} · {story.word_count:,} words</p>{prose}</article>'
+    body = f'<p><a href="../index.html">← All stories</a></p><article><h1>{html.escape(story.metadata.title)}</h1><p class="meta">{status} · {story.word_count:,} words</p>{_prompt(story.prompt)}{prose}</article>'
     return _page(story.metadata.title, body)
 
 
