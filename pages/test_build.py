@@ -35,6 +35,10 @@ class SiteBuildTests(unittest.TestCase):
         dates = [story.metadata.created for story in catalog.stories]
         self.assertEqual(sorted(dates, reverse=True), dates)
         self.assertEqual(max(dates), catalog.stories[0].metadata.created)
+        addition_order = build._story_addition_order(REPO)
+        for date in set(dates):
+            same_day = [addition_order[story.metadata.slug] for story in catalog.stories if story.metadata.created == date]
+            self.assertEqual(sorted(same_day), same_day)
 
     def test_real_build_writes_index_and_every_story(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -80,6 +84,11 @@ class SiteBuildTests(unittest.TestCase):
         self.assertIn("Canon", rendered)
         self.assertIn(f"{len(catalog.stories)} stories", rendered)
         self.assertEqual(len(catalog.stories), rendered.count('<span class="prompt-label">Prompt</span>'))
+        self.assertEqual(len(catalog.stories), rendered.count("<time datetime="))
+        self.assertIn(
+            f'<time datetime="{catalog.stories[0].metadata.created}">{catalog.stories[0].metadata.created}</time>',
+            rendered,
+        )
 
     def test_pages_link_to_repository_with_github_icon(self):
         catalog = build.load_catalog(REPO)
