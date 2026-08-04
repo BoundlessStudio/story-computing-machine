@@ -5,7 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| `the-sky-remembers-us` | *The Sky Remembers Us* | in-progress | no | pending | no | — | New story on `codex/story-the-sky-remembers-us`. |
+| `the-sky-remembers-us` | *The Sky Remembers Us* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-unrepeatable-working` | *The Unrepeatable Working* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-healers-measure` | *The Healer's Measure* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `clerics-infernal-ex` | *Hello, Lover* | candidate | no | pending | no | — | Release-certified story candidate. |
