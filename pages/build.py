@@ -15,6 +15,7 @@ import markdown
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+STORY_JSON_PATH = re.compile(r"^stories/(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)/story\.json$")
 
 
 @dataclass(frozen=True)
@@ -161,6 +162,42 @@ def _legacy_slugs(root: Path) -> set[str]:
     return result
 
 
+def _story_addition_order(repository_root: Path) -> dict[str, int]:
+    completed = subprocess.run(
+        [
+            "git",
+            "-C",
+            str(repository_root),
+            "log",
+            "--diff-filter=A",
+            "--name-only",
+            "--pretty=format:",
+            "--",
+            ":(glob)stories/*/story.json",
+        ],
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+    if completed.returncode:
+        return {}
+
+    result: dict[str, int] = {}
+    for line in completed.stdout.splitlines():
+        match = STORY_JSON_PATH.fullmatch(line.strip().replace("\\", "/"))
+        if match is not None and match["slug"] not in result:
+            result[match["slug"]] = len(result)
+    return result
+
+
+def _sort_stories_newest_first(stories: list[ReaderStory], addition_order: dict[str, int]) -> None:
+    # Git history resolves stories created on the same calendar day. Stable
+    # fallbacks keep archive builds without Git metadata deterministic.
+    stories.sort(key=lambda story: story.metadata.slug)
+    stories.sort(key=lambda story: addition_order.get(story.metadata.slug, len(addition_order)))
+    stories.sort(key=lambda story: story.metadata.created, reverse=True)
+
+
 def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
     contract = load_pipeline_contract(repository_root / "schemas" / "pipeline-contract.json")
     legacy = _legacy_slugs(repository_root)
@@ -179,7 +216,7 @@ def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
         prompt = parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path)
         word_count = len(re.findall(r"\b[\w’'-]+\b", body))
         stories.append(ReaderStory(metadata, prompt, body.strip(), word_count))
-    stories.sort(key=lambda story: story.metadata.created, reverse=True)
+    _sort_stories_newest_first(stories, _story_addition_order(repository_root))
     return Catalog(tuple(stories))
 
 
@@ -229,7 +266,8 @@ def render_index(catalog: Catalog) -> str:
     items = []
     for story in catalog.stories:
         status = _story_label(story.metadata)
-        items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a>{_prompt(story.prompt)}<div class="meta">{status} · {story.word_count:,} words</div></li>')
+        created = html.escape(story.metadata.created)
+        items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a>{_prompt(story.prompt)}<div class="meta"><time datetime="{created}">{created}</time> · {status} · {story.word_count:,} words</div></li>')
     return _page("Stories", f"<h1>Stories</h1><p>{len(items)} stories from the current validated checkout.</p><ol>{''.join(items)}</ol>", "index.html")
 
 
