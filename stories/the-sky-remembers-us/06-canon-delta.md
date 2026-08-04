@@ -204,19 +204,26 @@ additional character-facing form appears.
   **Fact:** The authorized pilot offers eighteen minutes from the finite chorus,
   through Veyru, across a two-kilometer contour. Either party may call staged
   contraction; abrupt halt is reserved for immediate threat to life. Contact
-  measurably burdens Veyru through altered pulse, blood oxygen, temperature,
-  response time, breathing and wrist-membrane strain, food and sugared-drink
-  needs, shaking, gasping, and recovery; one chorus voice withdraws during the
-  interval. A one-second calibration sends a cool blue impulse through
+  burdens Veyru. They offer blood oxygen, temperature, and response time for
+  monitoring, but the story reports no change in those three readings. Observed
+  effects are a quickened pulse, diminished skin warmth, repeated food and
+  sugared-drink use, high metabolic load, wrist-membrane strain, a caught
+  breath, shaking, sagging, gasping, and later recovery. During the interval,
+  the chorus is reduced by one voice. A one-second calibration sends a cool
+  blue impulse through
   saltgrass and gives Naomi a nonverbal sense of pressure seeking several
   living routes. During the initial full pilot the sky changes color without
   brightening, water cools six-tenths of a degree, dissolved oxygen briefly
   rises then settles, saltgrass conducts blue, and a faint counter-pattern
-  appears above the marsh. **Exact local scope:** This calibration and initial
-  pilot interval. **Constraints and dependencies:** Distances, times,
+  appears above the marsh. **Exact local scope:** Veyru's observed condition
+  from the pre-pilot shutter test and archive activation through the pilot and
+  public-inquiry recovery, plus this calibration and initial pilot interval.
+  **Constraints and dependencies:** Distances, times,
   physiology, color, and effects are local observations, not universal rules;
-  Naomi is not chosen, trained, or permanently changed, and long-term exposure
-  remains unknown. Depends on TSRU-01 through TSRU-04 and TSRU-09.
+  no reason or voluntary action is established for the chorus's one-voice
+  reduction; Naomi is not chosen, trained, or permanently changed; and
+  long-term exposure remains unknown. Depends on TSRU-01 through TSRU-04 and
+  TSRU-09.
   **Provenance:** `stories/the-sky-remembers-us/05-story.md`.
   **Proposed disposition:** `PROPOSE ADD WITH PILOT-SPECIFIC LIMITS AND COSTS`.
   **Suggested smallest topical target:** `universe/rules.md`.
@@ -325,12 +332,15 @@ additional character-facing form appears.
 - **TSRU-16 — local restoration and governance vocabulary bundle (proposed).**
   **Fact:** Candidate local terms are `repair compact`, `living bridge`,
   `finite chorus`, `staged contraction`, `exposure contour`, `automatic safety
-  feed`, `Earth-side living operator`, and `local reconnection charter`, with
-  meanings bounded by TSRU-06, TSRU-07, and TSRU-09 through TSRU-15.
+  feed`, and `Earth-side living operator`, with meanings bounded by TSRU-06,
+  TSRU-07, and TSRU-09 through TSRU-15.
   **Exact local scope:** The parties, mechanism, safeguards, and settlement in
   this story. **Constraints and dependencies:** These are local descriptions,
   not character names, universal taxonomies, magical true names, aliases for
-  prior systems, or evidence of common origin. **Provenance:**
+  prior systems, or evidence of common origin. `Local reconnection charter` is
+  delta-only editorial shorthand in the TSRU-07 heading, not attested
+  final-prose vocabulary, and receives no glossary or canon disposition.
+  **Provenance:**
   `stories/the-sky-remembers-us/05-story.md`. **Proposed disposition:**
   `PROPOSE ADD ONLY IF USEFUL WITH LOCAL QUALIFIERS`. **Suggested smallest topical target:**
   `universe/glossary.md`.
