@@ -102,9 +102,9 @@ Veyru touched one pylon with the back of two fingers. Nothing happened. "Witness
 
 Ochoa's mouth narrowed. "That is precisely the problem."
 
-Naomi stopped beside the pump house. "Automatic safety feed if we cross a red threshold. Instruments and exterior cameras, no restricted communications. If nothing fails, you keep the data sealed pending review. If something fails, residents get the warning before anyone gets the story."
+Naomi stopped beside the pump house. "Automatic safety feed if a perimeter breach holds for five seconds or a flood gate misses a commanded position. Raw safety instruments and exterior cameras go public, and the resident warnings start. Operations audio, command logs, and crew channels stay restricted. If neither trigger occurs, you keep the data sealed pending review."
 
-Ochoa considered the mainland gates. "Agreed."
+Ochoa considered the mainland gates. "Those two triggers, that data. Agreed."
 
 They ran the one-second calibration from the pilot pool. Veyru knelt with both palms in the water. The chorus entered through them—not as voices, exactly, but as layered changes in their breathing. The pylons caught and narrowed what those living bodies supplied.
 
@@ -158,6 +158,8 @@ Ochoa's hand closed on the stop control. "Boundary breach."
 
 "Staged contraction," Naomi said. "Do not make the gradient sharper."
 
+The breach timer counted through five seconds. The automatic safety feed opened: raw thresholds and exterior cameras went public, and the low district's warning network began its evacuation tone. Ochoa did not reach for an override. She took the operations radio instead. "Begin the low-district evacuation. Keep the emergency channels clear."
+
 Veyru tried to ease the supply down. The blue in the pilot pool dimmed, but the creek brightened further. Earth life had learned the borrowed practice while the bridge remained open. Roots and microbial film were not generating the current; Veyru's shaking body and the distant chorus still paid for every blue centimeter. But the marsh had become its own set of conductors, branching beyond the apparatus meant to shape them.
 
 Warning lights flashed on the gate monitor.
@@ -200,15 +202,15 @@ The contour held. After one terrible second, it stopped widening.
 
 Ochoa spoke into the operations radio. "Remove Naomi Basto from the active zone. Biocide release in thirty seconds."
 
-Naomi opened the red cover on the public-feed switch.
+Naomi opened the red cover beside the command console. The agreed safety feed was already public; this switch added the excluded operations-room audio and the command log showing who had armed which system and when. Crew channels and evacuation routes would remain protected.
 
-"Do that," Ochoa said, "and your clearance ends now."
+"Release the command record," Ochoa said, "and your clearance ends now."
 
 Private appeal had failed. Naomi pressed the switch.
 
-Exterior cameras and live thresholds went public. At the same moment, the island sirens carried across the water and the low district's warning network began its evacuation tone. Everyone could see the jammed gates, Veyru's metabolic readings, the armed spray system, and the unauthorized bend that had appeared in the sky and stopped.
+The public could already see the jammed gates, Veyru's metabolic readings, the armed spray system, and the unauthorized bend that had appeared in the sky and stopped. Now they could hear Ochoa order the rehearsed biocide, Veyru propose widening the contact, and Naomi refuse them both. The log also carried Naomi's own dismissal of the calibration response as noise.
 
-"Evacuation first," Naomi said. "Give me the three basins and two minutes."
+"Evacuation is running," Naomi said. "Give me the three basins and two minutes."
 
 "You logged the calibration as noise."
 
@@ -296,9 +298,9 @@ Across the water, the pumps kept running. The level in the low district fell.
 
 * * *
 
-At the public inquiry, Naomi's clearance was suspended and her hands still carried thin cuts from saltgrass.
+At the public inquiry, Naomi's clearance was suspended for releasing the restricted command record and entering the active zone. Her hands still carried thin cuts from saltgrass.
 
-The failure footage had been copied too widely to seal. Everyone had seen the government's forecast come true. Everyone had also seen the biocide remain in its tank while the gates closed by another method.
+The automatic safety feed had been copied too widely to seal. So had the command record Naomi added. Everyone had seen the government's forecast come true and Veyru begin an unauthorized widening before stopping. Everyone had also heard Ochoa order the rehearsed biocide, then seen her hold it when another method began to work.
 
 Ochoa sat at the end of the hearing table with the proposed moratorium before her. "The pilot exceeded its legal boundary, altered protected ecology, disabled flood infrastructure, and required an evacuation. Those facts justify suspension."
 

@@ -107,6 +107,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "the-sky-remembers-us",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-04T04:13:16.6430585+00:00",
+      "completedAt": "2026-08-04T04:16:32.3009566+00:00",
+      "guardId": "67314eeb984349598856843973291ff2",
+      "persister": "prose_writer",
+      "report": "status: READY\n\n- Story: `the-sky-remembers-us`\n- Mode: `REVISE_DRAFT`\n- Output: `stories/the-sky-remembers-us/03-draft.md`\n- Word count: 3,586 prose words\n- Scope: Only the allowed draft file changed; frontmatter preserved.\n- `TSRU-DRAFT-001`: RESOLVED\n- Evidence: The five-second perimeter breach now automatically publishes safety telemetry/exterior cameras and starts resident warnings. Naomi separately releases excluded command audio and logs, exposing Veyru’s widening attempt, Ochoa’s biocide decisions, and Naomi’s calibration error; that unauthorized disclosure explicitly costs her clearance.\n- Name inventory: `Naomi Basto`, `Naomi`, `Minister Ochoa`, `Ochoa`, `Veyru`\n- Name gate: PASS — all forms remain registered and unique; no new character-facing names introduced.\n- Acceptance: All other approved canon, causality, POV, dialogue, living-agency, political-credibility, and resolution properties remain intact.\n- Stale preconditions: None.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-sky-remembers-us/00-prompt.md",
+        "stories/the-sky-remembers-us/01-canon-brief.md",
+        "stories/the-sky-remembers-us/02-story-plan.md",
+        "stories/the-sky-remembers-us/03-draft.md",
+        "stories/the-sky-remembers-us/04-review.md",
+        "stories/the-sky-remembers-us/authority.json",
+        "stories/the-sky-remembers-us/handoffs.json",
+        "stories/the-sky-remembers-us/story.json"
+      ],
+      "outputs": [
+        "stories/the-sky-remembers-us/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
