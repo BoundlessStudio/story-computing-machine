@@ -2,7 +2,7 @@
 
 - Slug: `the-sky-remembers-us`
 - Created: 2026-08-03
-- Current stage: drafting
+- Current stage: draft-review
 - Status: in-progress
 - Canon: no
 - User disposition: pending
