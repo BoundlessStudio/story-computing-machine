@@ -199,6 +199,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "the-unrepeatable-working",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-04T00:05:16.3982279+00:00",
+      "completedAt": "2026-08-04T00:08:41.9276954+00:00",
+      "guardId": "933cb6e3bf3d48bebd2a382f0f7ce4e0",
+      "persister": "coordinator",
+      "report": "REVIEW_PASS_PAYLOAD\n{\n  \"story\": \"the-unrepeatable-working\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 3,\n  \"reviewedArtifact\": \"stories/the-unrepeatable-working/05-story.md\",\n  \"authorityManifest\": \"stories/the-unrepeatable-working/authority.json\",\n  \"handoffLedger\": \"stories/the-unrepeatable-working/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-04T00:06:27.4223828Z\",\n  \"reviewBasis\": \"Independent read-only final re-review under guard 933cb6e3bf3d48bebd2a382f0f7ce4e0 of the unchanged release-facing story and corrected proposed canon delta against the full REVIEW_FINAL contract: captured prompt, lifecycle record, canon brief, scene-ready plan, source draft, review history through passes 1 and 2, authority inventory captured at base commit 73d14a0a3c2e11a4b87d5dbdefa80bcd4bea6ff5, ordered handoff ledger through completed sequence 7, current character-name registry, relevant unchanged LOCKED/CANON universe authority, and the unchanged release-certified but non-canon voice-of-silence dependency. Git object comparison confirms stories/the-unrepeatable-working/05-story.md is byte-for-byte unchanged from its creation checkpoint; only 06-canon-delta.md changed during the finding-resolution handoff. Rechecked TUW-FINAL-001 line by line, searched all delta summary sections for stale overclaims, and re-audited immutable frontmatter, prompt fulfillment, prequel chronology, seven-hold causality, living agency, inert apparatus, Melek and Dorram's arcs, Kethra's retained authorship, dialogue and prose readiness, all 17 unique delta IDs and required fields, candidate-only qualifiers, final inventory, exact three-column allowlist, registry forms, and unresolved name collisions. The sequence-7 handoff reports the strict Final name gate passing with zero warnings.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"TUW-FINAL-001\",\n      \"priorPass\": 2,\n      \"resolvedInPass\": 3,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/the-unrepeatable-working/06-canon-delta.md:43-55, TUW-02 now identifies Melek only as a records technician and explicitly leaves their age unstated. At lines 172-178, TUW-07 assigns the cold sensation solely to Dorram's own power, describes the chair's different power only through the witnessed blue segments, and explicitly leaves its temperature unstated. At lines 294-299, TUW-13 now states that the chair pauses, tests Dorram's grip, and allows the two scheduled holds remaining under the original seven-hold cap; it no longer claims a reduction. Searches of the remaining delta, conflict summary, and promotion guidance find no stale adult designation, generalized cold-feeling power, or reduced-hold claim. The final prose remains byte-for-byte unchanged.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Final re-review passed; no repository files were changed. TUW-FINAL-001 is fully resolved without altering the already passing prose or weakening any scope, constraint, dependency, provenance, disposition, or target. The approximately 3,024-word story remains prompt-complete, canon-compatible, causally coherent, correctly front-mattered, and prose-ready: the formal board demand, seven controlled holds, two-shaper reproduction, bounded uncertainty, living magical supply, inert apparatus, Melek's agency and credit, and Dorram's intentionally incomplete correction all remain intact. The primitive eight-drop procedure stays distinct from the later candidate's twelve-heartbeat call-links and speaking rails, while Kethra retains sole authorship of the voiced lattice and ownership of her rescue, qualification, and safety work. All 17 TUW items remain unique and each retains an exact local scope, constraints, story dependencies, non-canon candidate dependency, provenance, proposed disposition, and smallest topical target. The delta remains authority none, proposes no promotion, and requires any future promotion to re-evaluate the candidate dependency. The final character-facing inventory remains exhaustive for Dorram and Melek; Dorram is deliberate recurring-identity reuse, Melek is unique, no collision is unresolved, and the exact three-column allowlist contains only the non-person setting term Parting Line. Pass 1 had no findings, the sole pass-2 finding is resolved, no regression or new finding exists, and no user ruling is required.\"\n}\nEND_REVIEW_PASS_PAYLOAD\n\nstatus: READY",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-unrepeatable-working/00-prompt.md",
+        "stories/the-unrepeatable-working/01-canon-brief.md",
+        "stories/the-unrepeatable-working/02-story-plan.md",
+        "stories/the-unrepeatable-working/03-draft.md",
+        "stories/the-unrepeatable-working/04-review.md",
+        "stories/the-unrepeatable-working/05-story.md",
+        "stories/the-unrepeatable-working/06-canon-delta.md",
+        "stories/the-unrepeatable-working/authority.json",
+        "stories/the-unrepeatable-working/handoffs.json",
+        "stories/the-unrepeatable-working/story.json"
+      ],
+      "outputs": [
+        "stories/the-unrepeatable-working/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
