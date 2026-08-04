@@ -40,8 +40,8 @@ authority. Any later promotion must re-evaluate both stories together.
   CHARACTER-LOCAL`. **Suggested smallest topical target:**
   `universe/characters.md`.
 
-- **TUW-02 — Melek (proposed).** **Fact:** Melek is an adult records
-  technician, exact witness, and originating living caller in the paired
+- **TUW-02 — Melek (proposed).** **Fact:** Melek is a records technician,
+  exact witness, and originating living caller in the paired
   release. They recover the omitted appointment sequence, require participant
   credit and disclosed risks before cooperating, set a three-call limit,
   correct Dorram's unsupported causal claim, complete the first successful
@@ -52,8 +52,9 @@ authority. Any later promotion must re-evaluate both stories together.
   reconstruction and board demonstration. **Constraints:** Melek supplies no
   shaping power, pattern, target, or direction. Their extra call is a fresh
   conditional choice, not evidence that prior assent, institutional pressure,
-  or an emergency can override a stated limit. No surname, nickname, title,
-  later biography, or relationship to another character is established.
+  or an emergency can override a stated limit. Their age is unstated; no
+  surname, nickname, title, later biography, or relationship to another
+  character is established.
   **Story-local dependencies:** TUW-05 and TUW-08 through TUW-16.
   **Non-canon candidate dependency:** Melek's distinct caller contribution is
   an earlier example of the local role later described in `voice-of-silence`
@@ -170,10 +171,11 @@ nickname, epithet, title-as-name, or additional character-facing form appears.
 
 - **TUW-07 — `Parting Line` stone-working (proposed).** **Fact:** Dorram's
   ordinary `Parting Line` lets a trained living shaper touch one palm-sized
-  stone tile, map one short opening through its grain, supply cold-feeling
-  living power, hold the last gap unfinished, and release the opening by
-  speaking the designated two-word phrase. The chair can shape the same
-  bounded working with a different line and visible shaping pattern. **Exact
+  stone tile, map one short opening through its grain, supply their own living
+  power, hold the last gap unfinished, and release the opening by speaking the
+  designated two-word phrase. Dorram experiences his own power as cold. The
+  chair can shape the same bounded working with different living power shown
+  as short blue segments; its temperature is unstated. **Exact
   local scope:** The small tiles and two trained living shapers witnessed in
   this demonstration. **Constraints:** The working does not act beyond the
   touched tile, sustain a structure, prove name magic, or establish a universal
@@ -293,9 +295,10 @@ nickname, epithet, title-as-name, or additional character-facing form appears.
   **Fact:** Each collapsed hold numbs Dorram's fingers and progressively
   reduces his hand precision, reaching his wrist after repeated failures;
   repeated complete calls through the dry brass horn roughen Melek's throat.
-  The chair tests Dorram's grip, reduces the remaining holds, pauses the work,
-  and accepts Melek's participant-set call limit and refusal before Melek
-  offers one additional final call. **Exact local scope:** Dorram's shaping
+  The chair pauses the work, tests Dorram's grip, and allows the two scheduled
+  holds still remaining under the original seven-hold cap. The chair also
+  accepts Melek's participant-set call limit and refusal before Melek offers
+  one additional final call. **Exact local scope:** Dorram's shaping
   fatigue, Melek's throat strain, and the safety choices made during this one
   demonstration. **Constraints:** These are observed bodily costs, not
   universal fuel, sacrifice, moral price, disability rule, or proof that every
