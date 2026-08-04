@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "the-sky-remembers-us",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-04T03:27:52.3195340+00:00",
+      "completedAt": "2026-08-04T03:57:10.6327577+00:00",
+      "guardId": "ebdc4b23a1634ae2930ca8da37b6e708",
+      "persister": "story_architect",
+      "report": "status: READY\n\n- Story: `the-sky-remembers-us`\n- Mode: `CREATE_PLAN`\n- Output: `stories/the-sky-remembers-us/02-story-plan.md`\n- Change: Replaced the template with a complete seven-scene, approximately 3,400-word story plan.\n- Includes: causal structure, character arc, stakes, reversals, material pilot failure, bounded resolution, setup/payoff, canon constraints, local inventions, style profile, speaker profiles, dialogue aims/tactic changes, failure modes, and exhaustive four-column Name check.\n- Planned character-facing forms: `Naomi Basto`, `Naomi`, `Minister Ochoa`, `Ochoa`, `Veyru`.\n- Scope: Only the allowed plan file changed.\n- Blocking issues: None.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-sky-remembers-us/00-prompt.md",
+        "stories/the-sky-remembers-us/01-canon-brief.md",
+        "stories/the-sky-remembers-us/authority.json",
+        "stories/the-sky-remembers-us/handoffs.json",
+        "stories/the-sky-remembers-us/story.json"
+      ],
+      "outputs": [
+        "stories/the-sky-remembers-us/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
