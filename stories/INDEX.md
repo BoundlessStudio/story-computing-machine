@@ -5,6 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `the-unrepeatable-working` | *The Unrepeatable Working* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-healers-measure` | *The Healer's Measure* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `clerics-infernal-ex` | *Hello, Lover* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `transitions-in-common` | *Transitions in Common* | candidate | no | pending | no | — | Release-certified story candidate. |
