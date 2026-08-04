@@ -2,13 +2,13 @@
 
 ## Current certification
 
-- Reviewed artifact: `stories/the-sky-remembers-us/03-draft.md`
-- Review pass: 2
-- Verdict: PASS
+- Reviewed artifact: `stories/the-sky-remembers-us/05-story.md`
+- Review pass: 3
+- Verdict: REVISE
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 0
-- Updated: 2026-08-04T04:19:18.3161780Z
+- Unresolved Major findings: 1
+- Updated: 2026-08-04T04:40:52.8046167Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -100,5 +100,62 @@ REVIEW_PASS_PAYLOAD
   "findings": [],
   "certificationEligible": false,
   "changeReport": "Read-only re-review passed; no files changed. TSRU-DRAFT-001 is fully resolved without regression. The revised approximately 3,586-word draft now distinguishes the automatically triggered public safety telemetry and resident evacuation warning from Naomi's deliberate release of restricted command audio and logs, while exposing Ochoa's rehearsed biocide order, Veyru's unauthorized widening attempt, and Naomi's own calibration error. Her clearance suspension is therefore earned by a specific additional disclosure and active-zone breach rather than by using the agreed safeguard. The complete story remains within the requested length, close-third Earth-based POV, past tense, contemporary political science-fantasy tone, non-graphic content boundary, and ultimately hopeful resolution. Earth remains ordinarily rather than literally magicless; the ancient severance is corroborated without universalizing magic or merging canon systems; the repair compact and coastal government remain bounded; and later world chronology stays open. Veyru and the finite living chorus supply every magical action, Naomi and the living marsh shape only the supplied local practice, and all devices and records remain non-agentic. Ochoa's risk forecast, Veyru's limited responsibility, Naomi's seeded wetland intervention, the divided shutdown, persistent consequences, local charter, and timed final contour remain politically and causally credible. Naomi, Ochoa, and Veyru retain distinct dialogue strategies and material tactic changes. Every character-facing form remains registered and unique: Naomi Basto, Naomi, Minister Ochoa, Ochoa, and Veyru. No unresolved finding, canon ruling, retcon, material prompt reinterpretation, or new user authority remains; the draft is ready for final editing."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "the-sky-remembers-us",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/the-sky-remembers-us/05-story.md",
+  "authorityManifest": "stories/the-sky-remembers-us/authority.json",
+  "handoffLedger": "stories/the-sky-remembers-us/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-04T04:40:52.8046167Z",
+  "reviewBasis": "Independent read-only final review under guard d144a560513147b28c945aabd0555d7d of the complete 3,586-word release-facing story and all 16 proposed canon-delta items against the captured prompt, in-progress lifecycle record, canon brief, scene-ready plan, passing revised draft, complete review history through pass 2, authority inventory captured at base commit f1629b0da3703324f34de718d3e9fe4159424f58, ordered handoff ledger through completed sequence 7, and current complete character-name registry. Verified that final prose is unchanged from the passing revised draft apart from valid release frontmatter, then rechecked prompt fulfillment, canon and chronology, spatial and political causality, living agency, non-agentic apparatus, personhood, local scope, close-third past-tense control, pacing, dialogue distinction and tactic changes, prose readiness, Teen content limits, immutable title, slug and creation date, TSRU-DRAFT-001, every delta fact, qualifier, dependency, provenance, disposition and smallest target, the exhaustive final character-facing inventory, and the exact three-column reviewed-prose non-character allowlist. The completed final-edit handoff reports a strict story-names/3 PASS with zero warnings and zero errors. Current universe authority remains unchanged, and the worktree is clean.",
+  "verdict": "REVISE",
+  "blockType": null,
+  "resolutionOwner": "story_editor",
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 1,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "TSRU-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The final prose preserves the repair at stories/the-sky-remembers-us/05-story.md:105-107, where the agreement defines two exact automatic triggers, public safety instruments and exterior cameras, resident warnings, and excluded operations audio, command logs, and crew channels. Lines 155-161 preserve the five-second breach trigger, automatic publication, evacuation warning, and Ochoa's coordinated response. Lines 203-211 preserve Naomi's distinct unauthorized release of the excluded operations-room audio and command log while protecting crew and evacuation channels. Lines 301-303 still tie her clearance suspension to that additional disclosure and active-zone entry. The disclosure chain, evacuation timing, Naomi's cost, and Ochoa's political credibility remain consistent."
+    }
+  ],
+  "findings": [
+    {
+      "id": "TSRU-FINAL-001",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "canon-delta evidence and vocabulary exactness",
+      "locations": [
+        "stories/the-sky-remembers-us/05-story.md:39",
+        "stories/the-sky-remembers-us/05-story.md:57",
+        "stories/the-sky-remembers-us/05-story.md:133-145",
+        "stories/the-sky-remembers-us/05-story.md:163",
+        "stories/the-sky-remembers-us/06-canon-delta.md:203-220",
+        "stories/the-sky-remembers-us/06-canon-delta.md:325-335"
+      ],
+      "evidence": "Two delta claims exceed the final-story evidence. TSRU-10 says contact measurably alters Veyru's blood oxygen, temperature, and response time, but line 39 only offers those metrics for measurement; the story never reports changes in them, and line 133's temperature and dissolved-oxygen changes describe the marsh water. The story does report Veyru's quickened pulse, diminished warmth, food and sugar use, high metabolic load, wrist-membrane strain, caught breath, shaking, sagging, gasping, and recovery. TSRU-10 also turns `Chorus reduced by one voice` at line 145 into `one chorus voice withdraws`, adding a voluntary action the prose does not establish. Separately, TSRU-16 proposes `local reconnection charter` as final-story vocabulary even though that phrase never occurs in 05-story.md; the prose uses only `charter`, while the longer phrase appears solely as a delta heading and glossary proposal. These inaccuracies could promote unobserved physiology, unsupported remote-agent intent, and delta-invented terminology despite the otherwise careful local qualifiers.",
+      "requiredResolution": "Revise the delta for exact correspondence without requiring a prose change. In TSRU-10, distinguish metrics merely offered for monitoring from physiological changes actually observed, and replace the claimed voice withdrawal with the story's neutral statement that the chorus was reduced by one voice unless the final prose is deliberately changed to establish withdrawal. In TSRU-16, remove `local reconnection charter` from the promotion-ready final-prose vocabulary bundle or explicitly classify it as delta-only editorial shorthand with no glossary or canon disposition; the TSRU-07 heading may remain organizational only if it is not represented as attested story terminology. Recheck TSRU-10 and TSRU-16 facts, evidence, and dispositions after revision.",
+      "owner": "story_editor"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only final review; no files changed. The release-facing prose itself passes: valid immutable frontmatter precedes prose identical to the passing revised draft, TSRU-DRAFT-001 remains resolved, and the story fulfills the prompt within the requested length, viewpoint, tense, tone, content boundary, and hopeful local resolution. Earth remains ordinarily rather than literally magicless; the severance, repair compact, coastal jurisdiction, chronology, and restoration attempt remain bounded and compatible with captured canon. Veyru and the finite living chorus supply every magical act, Naomi and connected wetland life shape only the supplied local practice, and all apparatus and records remain non-agentic. Ochoa's forecast, Naomi's seeded intervention, shared shutdown, public evidence, persistent costs, inquiry, charter, and five-second follow-up remain politically and causally credible. Dialogue profiles are distinct and change under resistance. The final character inventory is exhaustive for Naomi Basto, Naomi, Minister Ochoa, Ochoa, and Veyru; every form is uniquely registered. The reviewed-prose allowlist has exactly the required three columns and correctly contains only Earth as a place; the strict final name gate passes. All 16 delta IDs are unique and sequential, proposal-only, structurally complete, locally targeted, and otherwise supported, but certification is withheld because TSRU-10 overstates measured physiology and remote-chorus intent and TSRU-16 presents an absent phrase as final-story vocabulary. These are delta-only repairs requiring no canon ruling, retcon, material prompt reinterpretation, or new user authority."
 }
 END_REVIEW_PASS_PAYLOAD
