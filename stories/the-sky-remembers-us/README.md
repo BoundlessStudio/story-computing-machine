@@ -2,7 +2,7 @@
 
 - Slug: `the-sky-remembers-us`
 - Created: 2026-08-03
-- Current stage: planning
+- Current stage: drafting
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -19,7 +19,7 @@ each stage. Specialist agents do not edit it. -->
 - [x] Canon brief completed
 - [x] Story plan completed
 - [x] Plan name check passed
-- [ ] Complete draft written
+- [x] Complete draft written
 - [ ] Draft review passed
 - [ ] Critical and major findings resolved
 - [ ] Final story written

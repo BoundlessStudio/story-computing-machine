@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-sky-remembers-us",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-04T03:58:33.2566696+00:00",
+      "completedAt": "2026-08-04T04:06:13.0458988+00:00",
+      "guardId": "b004007507034fc9a1014084689c655e",
+      "persister": "prose_writer",
+      "report": "status: READY\n\n- Story: `the-sky-remembers-us`\n- Mode: `CREATE_DRAFT`\n- Output: `stories/the-sky-remembers-us/03-draft.md`\n- Word count: 3,444 prose words\n- Scope: Only the allowed draft file changed; immutable frontmatter preserved.\n- Name inventory: `Naomi Basto`, `Naomi`, `Minister Ochoa`, `Ochoa`, `Veyru`\n- Name gate: PASS — all forms registered and unique; no additional character-facing names introduced.\n- Acceptance: Complete seven-scene close-third past-tense draft. It establishes credible government risk, bounded compact authority, living agency for every magical act, spatially causal pilot failure and shutdown, and an earned local charter with a five-second final contour.\n- Stale preconditions: None.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-sky-remembers-us/00-prompt.md",
+        "stories/the-sky-remembers-us/01-canon-brief.md",
+        "stories/the-sky-remembers-us/02-story-plan.md",
+        "stories/the-sky-remembers-us/authority.json",
+        "stories/the-sky-remembers-us/handoffs.json",
+        "stories/the-sky-remembers-us/story.json"
+      ],
+      "outputs": [
+        "stories/the-sky-remembers-us/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
