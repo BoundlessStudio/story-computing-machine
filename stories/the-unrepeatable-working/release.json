@@ -1,1 +1,37 @@
-{"schemaVersion":3,"certified":false,"storySlug":"the-unrepeatable-working","certifiedAt":null,"certificationBasis":"pipeline","artifacts":{"story":{"path":"05-story.md"},"canonDelta":{"path":"06-canon-delta.md"}},"review":{"artifact":null,"pass":0,"verdict":"PENDING","reviewer":null,"reviewedAt":null,"reviewBasis":null,"unresolvedCritical":null,"unresolvedMajor":null},"nameCheck":{"story":"the-unrepeatable-working","phase":"Final","passed":false,"checkedAt":null,"checkerVersion":"story-names/3","warnings":[]},"dependencies":{"authorityManifest":"authority.json","handoffLedger":"handoffs.json"}}
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "the-unrepeatable-working",
+  "certifiedAt": "2026-08-04T00:09:21.4067140+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 3,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-04T00:06:27.4223828Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "the-unrepeatable-working",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-03T20:09:21.1748926-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}
