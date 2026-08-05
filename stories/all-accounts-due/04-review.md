@@ -342,3 +342,70 @@ REVIEW_PASS_PAYLOAD
   "changeReport": "Read-only final review; no repository files changed. The final prose itself passes. Immutable frontmatter matches story.json; six substantial flashbacks remain 2,949 of 5,221 prose words (56.5%); AAD-DRAFT-003 is resolved without changing Faris's required he/him usage; and the strict final name precheck passes cleanly. Faris remains an ordinary lifelong nonmagical man dependent on mistakes, mundane tools, learning, and material rescue. Six powers freshly choose distinct arming and defensive actions; all eight nonliving relics are causal and terminal; six unrelated systems and their hybrids exhaust material-world magic; and Faris pulls the ordinary cotter while saying exactly `No More Magic`, with the prose expressly assigning causation to the physical release rather than the words. The wave permanently ends capacity, workings, charge, structures, material-side crossings, faculties, hybrids, reserves, relics, seeds, inheritance, repeatable mechanisms, and restoration while preserving personhood, memory, relationships, responsibility, earlier history, and the unclaimed afterlife and other realities. Seyathi's voluntary but uninformed act, technically fulfilled promise, valid betrayal claim, failed two-finger faculty, and the literal final sentence `Nothing moved. Nothing answered.` all hold. Dialogue, pacing, close-third control, Teen treatment, and originality are prose-ready. The delta retains 37 unique sequential IDs, complete fields, appropriate smallest topical targets, and explicit authority-none, proposal-only, promotion-unauthorized posture, but AAD-03, AAD-06, AAD-10, AAD-20, and AAD-22 require the evidence corrections in AAD-FINAL-002 before the delta is ready or certification can become eligible. No canon ruling, retcon, material prompt reinterpretation, or new user authority is required."
 }
 END_REVIEW_PASS_PAYLOAD
+
+### Pass 6 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 6,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T15:07:42.8368842Z",
+  "reviewBasis": "Independent read-only final pass-6 review under guard 7e7b8b13081c4caf8020c365be9d0252 of the current 5,221-word 05-story.md and revised 37-item 06-canon-delta.md against the prompt, canon brief, scene-ready plan, passing draft, complete review history through pass 5, final-review lifecycle record, authority inventory captured from main at b0f0453d290dd8dae270031eea6036da97832c1f, ordered handoff ledger through completed sequence 23, and current character-name registry. Reapplied the continuity-review and final name-validation procedures and rechecked current LOCKED/CANON constraints for chronology, independent magical systems, living agency, consent and costs, nonliving artifacts, declarations, divinity, crossings, personhood, afterlife boundaries, Teen treatment, and evidence discipline. Verified that 05-story.md remains byte-identical to the pass-5 artifact at SHA-256 E56064235D9CA8695C614E981453F199CA5B2596424480CB065E6564D7B3D4F5, with matching immutable frontmatter, six substantial flashbacks totaling 2,949 words or 56.5% of the prose, six renewed choices, eight causal relics, six unrelated exhaustive systems, active magic through Faris's declaration, ordinary cotter causality, permanent material-world extinction, the Seyathi betrayal realization, failed former faculty, and exact hard endpoint. Audited revised delta SHA-256 431F3C30F6CD23A23D1DBBBCE63952ED29910D7415C901198D09962AA395AF23: all 37 unique sequential AAD items retain a fact, exact local scope, constraints and dependencies, final-prose provenance, proposed disposition, and smallest topical target; authority remains none, status remains proposal only, and promotion remains unauthorized. Specifically rechecked AAD-03, AAD-06, AAD-10, AAD-20 and its allowlist row, and AAD-22 against their exact prose evidence. The strict Final story-names/3 check passed at 2026-08-05T15:06:46.1342285+00:00 with zero warnings and zero errors. The worktree was clean and universe authority remained unchanged from the captured base.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/all-accounts-due/05-story.md:291-297 of the rejected bounded version, the capstan holds the counterweight while Faris retracts and locks the safety catch before the brake eases, then pays line out through the quay sheave toward the descending counterweight. The historical disposition remains resolved; none of that version's setting, cast, or mechanism survives in the replacement final."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded final corrected its lifelong-zero metaphor before pass 2. The historical disposition remains resolved; the replacement final independently establishes at stories/all-accounts-due/05-story.md:29 and 337-339 that Faris has no inner gift, was born without magic, has lived without it all his life, and gains no immunity or hidden capacity."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version's revised delta removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. That historical finding remains resolved and none of its 17 delta items or creative content survives in the current 37-item replacement delta."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:271 and 283-291 use `themself`, `they`, and `their` consistently for Ekkorath, matching the plan and current final inventory at stories/all-accounts-due/06-canon-delta.md:143-157 and 633-641. Faris remains he/him throughout."
+    },
+    {
+      "id": "AAD-FINAL-002",
+      "priorPass": 5,
+      "resolvedInPass": 6,
+      "disposition": "RESOLVED",
+      "evidence": "The revised delta now assigns coup exposure to the rescued demon young's shouted testimony in AAD-03 at stories/all-accounts-due/06-canon-delta.md:76-90, assigns the signed-order exposure to Faris while preserving Jelveth's stabilization and bargain in AAD-06 at lines 124-141, preserves Seyathi's invitation to ask and fresh present agreement in AAD-10 at lines 188-204, removes the unsupported `lawfully` qualifier from AAD-20 at lines 345-359 and the Nearmost Vertebra allowlist row at line 675, and limits AAD-22 at lines 380-397 to the demonstrated six-system inventory, separate living authorities and keystones, simultaneous propagation, hybrid-not-seventh status, and complete extinction. These statements match stories/all-accounts-due/05-story.md:53-61, 123-159, 197-207, 243-249, and 349-367."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only final re-review; no repository files changed. AAD-FINAL-002 is resolved entirely in 06-canon-delta.md, while 05-story.md remains byte-identical to pass 5 and all earlier finding dispositions remain resolved. Final frontmatter matches story.json. Faris remains a lifelong nonmagical man whose mistakes, ordinary tools, learned knowledge, relationships, and material assistance determine the climax. Six living powers freshly choose their arming and defensive acts; all eight nonliving relics have bounded causal functions; and six unrelated systems plus their constituent hybrids exhaust magic in the present material world. Faris pulls an ordinary cotter while saying exactly `No More Magic`; the prose explicitly states that the words cause nothing and the physical release causes the six simultaneous terminal conditions. Capacity, workings, stored charge, structures, material-side crossings, faculties, hybrids, reserves, relics, seeds, inheritance, repeatable mechanisms, and every material restoration possibility end permanently, while earlier history, personhood, memory, relationships, responsibility, and unclaimed afterlife and other-reality scope remain intact. Seyathi recognizes the deliberately omitted `only`, remains personally and morally aggrieved, attempts her former two-finger faculty, and the story ends exactly with `Nothing moved. Nothing answered.` The revised delta contains all 37 sequential items with complete local qualification and proposal fields, an unchanged exhaustive seven-character inventory, and a complete three-column 27-row non-character allowlist. The strict final name gate passes with no warnings or errors. No canon ruling, retcon, prompt reinterpretation, or new user authority is required; the final review is PASS and certification is eligible."
+}
+END_REVIEW_PASS_PAYLOAD

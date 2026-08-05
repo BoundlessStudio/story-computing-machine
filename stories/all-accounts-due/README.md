@@ -24,8 +24,8 @@ each stage. Specialist agents do not edit it. -->
 - [x] Critical and major findings resolved
 - [x] Final story written
 - [x] Canon delta recorded
-- [ ] Final story review passed
-- [ ] Final name check passed
+- [x] Final story review passed
+- [x] Final name check passed
 - [x] Name registry updated
 - [ ] Release certificate issued
 - [ ] Story index updated
