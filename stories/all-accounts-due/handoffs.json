@@ -254,6 +254,34 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 10,
+      "story": "all-accounts-due",
+      "actor": "story_architect",
+      "mode": "REVISE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-05T11:06:27.9830886+00:00",
+      "completedAt": "2026-08-05T11:47:36.2031815+00:00",
+      "guardId": "fb1aaff24acc46ecb9c206e1108b5d51",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_PLAN\nguard_id: fb1aaff24acc46ecb9c206e1108b5d51\ncurrent_stage: planning\nchanged_output: stories/all-accounts-due/02-story-plan.md\nname_inventory: PASS — Faris; the Daughter/Daughter; Seris Venn/Seris; Tovan Rek/Tovan; Orrin Pell/Orrin; Sister Calvea Dorn/Calvea. Faris retained and revalidated; Tycho, Uma, and Zeke excluded and designated prior-version-only for coordinator reconciliation.\nkey_continuity_choices: Exactly nine years after the Glass-Sea second dawn; permanent end of all magic in the present material world only; unresolved-era live crossovers excluded; Tovan’s divergence, Orrin’s and Tovan’s personhood, the Daughter’s history, and all prior consequences preserved; no reserve, restoration, autonomous artifact, universal ontology, or afterlife/other-realm claim.\nchange_report: Completely replaced the rejected Gannet Reach plan with a 5,400-word-target, seven-scene epic/elegiac architecture. It includes Faris’s lifelong nonmagical arc, five freely renewed relationships, three fully audited artifacts, causal world-scale consequences across all required classes, an irreversible water/seed/routes/memory/accountability climax, dialogue profiles and incompatible aims, chronology boundaries, style controls, local inventions, exhaustive name checks, and explicit prior-version dispositions. Verification passed: only stories/all-accounts-due/02-story-plan.md changed; 180 lines; git diff check clean.",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
