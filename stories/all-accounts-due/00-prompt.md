@@ -31,6 +31,10 @@
 >
 > AGIAN Lets focus on the build up as flashbacks and focus on the declaration “No More Magic” event itsself.
 
+## Verbatim quest-build clarification
+
+> the main event should be the climax; the body of story should be focus on flashback to main quests/adventures all without magic/skills, many relics/artifacts gathered or collected, or stollen, or taken as gifts, favors owed by godness, demonlords, dragons, and kings alike; 
+
 ## Story controls
 
 - Working title: All Accounts Due
@@ -38,13 +42,15 @@
   remaining a complete short story rather than a synopsis.
 - POV: Chosen during planning for strongest dramatic effect.
 - Tense: Chosen during planning for strongest dramatic effect.
-- Structure: Keep roughly 75–85% of the story in the continuous present-time
-  declaration event, beginning in the final minutes or hours while magic is
-  still active and already converging toward extinction. Reveal the lifetime
-  buildup through four to six concise, payoff-triggered flashbacks totaling
-  roughly 800–1,200 words. Each flashback
-  must unlock the immediately following use of a skill, artifact, relationship,
-  or favor. Do not narrate the protagonist's life chronologically.
+- Structure: Frame the story at the already assembled extinction site, then let
+  the body focus on six major quest/adventure flashbacks comprising roughly
+  55–65% of the prose. Each flashback is triggered by a present relic, scar,
+  opponent, or favor-holder and shows how the wholly nonmagical, non-superhuman
+  protagonist survived, helped, bargained, stole, received, or earned the exact
+  resource now required. The flashbacks need not be chronological, but together
+  they must feel like the great adventures of a lifetime. The final 35–45%
+  returns continuously to the present for the extended `No More Magic` climax
+  and a very brief dawn coda.
 - Tone and genre: World-ending event fantasy; epic, elegiac, cumulative, and
   mythic, cosmic, spectacular, and intimate enough that the scale is felt
   through irreversible personal losses.
@@ -58,6 +64,11 @@
   freely renewed favors that all converge in one cosmic action; and a climax in
   which the protagonist explicitly chooses or declares "No More Magic" and
   thereby makes the end permanent.
+- Adventure-build requirements: multiple original quests with mythic variety;
+  many relics obtained through a mix of collection, theft, bargains, rescues,
+  and freely given gifts; and personal favors presently owed by original
+  goddesses, demon lords, dragons, kings, and other powerful beings. These are
+  new standalone identities, not reused characters or renamed analogues.
 - Prohibited elements: No direct use of Marvel characters, settings, or plot;
   the *House of M* note controls the event's scale, culmination, and emotional
   premise only. Do not reuse, cameo, name, or directly reference any character
@@ -103,13 +114,18 @@
   witness, or decide where active users cannot, but it is not a concealed power,
   immunity, prophecy, or chosen destiny. Their access to the climax must also
   depend on accumulated knowledge, specific artifacts, and freely renewed help.
+- The protagonist is not secretly a master warrior, inventor, savant, or holder
+  of another compensating superpower. Their adventures succeed through nerve,
+  persistence, empathy, bargains, observation, preparation, opportunism, and
+  other ordinary abilities plausibly learned over a lifetime.
 - The climax should make the cosmos-scale loss visible in-scene: magical skies,
   structures, beings, realms or crossings, and accumulated wonders end before
   the protagonist and the world. Reports may widen scale but cannot substitute
   for spectacle and decisive action.
-- The principal cast and artifacts must already be converging when the story
-  opens. Do not spend the story assembling a party, touring the world, or
-  administering the aftermath. The declaration event itself is the story.
+- The principal cast and artifacts must already be converging when the framing
+  present opens. The quests are dramatized as flashbacks rather than a new
+  assembly journey. Do not administer the aftermath; the declaration is the
+  climactic payoff to the adventures that form the body.
 
 ## Completion tests
 
@@ -120,9 +136,10 @@
   and identity consequences.
 - The story feels like the payoff of years of accumulated relationships and
   artifacts, not an ordinary emergency with enlarged numbers.
-- At least four materially different favors or relationships and four
-  individually bounded, wondrous artifacts pay off causally; none is decorative
-  and none becomes an autonomous magic user.
+- At least six materially different favors or relationships—including original
+  goddess, demon-lord, dragon, and royal debts—and at least eight individually
+  bounded, wondrous artifacts converge causally. Some may combine into a single
+  climax stage, but none may be decorative or autonomous.
 - The lifetime convergence, extinction mechanism, declaration wave, and dawn
   aftermath are mechanically distinct and causally legible.
 - The climax is the spectacular act that ends all magic while it is still

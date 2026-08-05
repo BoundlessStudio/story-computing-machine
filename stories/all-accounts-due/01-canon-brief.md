@@ -8,288 +8,325 @@ resolution_owner: story_architect
 
 ## Authority basis and feasibility
 
-The newest prompt requires a wholly standalone cosmic culmination. Every living user wakes with maximum mana zero, but residual, structural, and stored magic remains. A real restoration path begins converging those remnants. Faris’s lifetime of learning, wondrous artifacts, and freely renewed favors must unlock the spectacular present-time action in which Faris declares and enacts “No More Magic,” extinguishing every remaining form permanently. (`stories/all-accounts-due/00-prompt.md` — `## Verbatim cosmic-scale clarification`; `## Story controls`; `## Assumptions`; `## Completion tests`)
+The newest prompt requires an intentional, wholly standalone extinction event. Magic is fully active when the present action begins. Faris’s lifetime plan, comparative learning, wondrous artifacts, and freely renewed favors are already assembled and converging. At the climax, Faris says exactly `No More Magic` while performing a final nonmagical action that ends living capacity, stored charge, magical structures, material-world crossings, and every reserve throughout the present material world. A brief dawn coda shows everyone waking with maximum mana zero. (`stories/all-accounts-due/00-prompt.md` — `## Verbatim event-focus clarification`; `## Verbatim no-restoration clarification`; `## Story controls`; `## Assumptions`; `## Completion tests`)
 
-This is canon-compatible. The initial suspension and final extinction may be distinct world-wide events without asserting that all magical systems have one origin. Current authority already establishes the only universal dependency needed: only life can use magic. Systems may otherwise remain unrelated. (`universe/rules.md` — `## System categories`; `## Living agency and magic`)
+This is canon-compatible. Different magical systems need not share origin, fuel, ontology, or ordinary mechanism. A one-time terminal act may coordinate separate system-specific extinction mechanisms without turning them into one system. Only life can use magic, while nonliving artifacts may store, focus, transmit, or shape power supplied through living agency. (`universe/rules.md` — `## System categories`; `## Living agency and magic`)
 
 No retcon or separate user ruling is required.
 
-## Private chronology and crossover prohibition
+## Private chronology and original-only boundary
 
-Place the story in a new terminal era after every currently admitted material-world history in which magic remains active. This avoids contradicting later magic-active canon while allowing the world to continue nonmagically afterward. (`universe/timeline.md` — `## Established era order`; `universe/premise.md` — `## The deep-time shared world`)
+Place the story in a new terminal era after every currently admitted material-world history in which magic remains active. This prevents the permanent ending from contradicting later magic-active canon. The shared physical world may continue through deep time after magic ends. (`universe/timeline.md` — `## Established era order`; `universe/premise.md` — `## The deep-time shared world`)
 
-This chronology is backstage only. The prose must not name, cameo, quote, inherit from, or directly reference any earlier repository character, place, artifact, institution, title, magical system, crisis, relationship, or plot history. Do not create renamed analogues whose distinctive mechanism or narrative role remains recognizable.
+This is a backstage placement only. The prose must not name, cameo, quote, inherit, or directly reference any prior repository character, location, artifact, institution, title, magical system, crisis, relationship, or plot history. Do not use recognizable renamed analogues.
 
-The story must use an original calendar, original historical events, original cultures, and original cosmology-facing vocabulary.
+Create an original cast, calendar, setting, history, cultures, systems, species, cosmic beings, artifacts, offices, and vocabulary.
 
-## Two-phase terminal model
+## Terminal mechanism: synchronized separate extinctions
 
-### Phase one: living capacity reaches zero
+The cleanest scene-manageable model gives the terminal era exactly four active magical systems. They are unrelated in origin and mechanism; hybrids derive only from combinations of those four.
 
-At the opening, a unique world-wide boundary condition interrupts the relationship between living agency and magic:
+Each system possesses its own original terminal condition:
 
-- every living user’s capacity becomes zero;
-- no living being can originate, replenish, direct, or newly shape magic;
-- distinct cultures observe the loss through their own original practices and vocabulary;
-- one original culture may call the result `maximum mana zero`;
-- the event does not prove that the affected systems share a source, substance, ancestry, or ordinary operating rule.
+1. **Embodied system:** living practitioners originate one kind of magic through a system-specific bodily act. Its terminal adapter turns the participating practitioners’ final supplied power against the capacity-path itself.
+2. **Living nonhuman system:** an original magical species or symbiotic people originates a separate faculty. Its extinction requires authority freely exercised by living members of that system, not human ownership.
+3. **Structural system:** world-scale nonliving architecture stores and shapes power historically supplied by living operators. Its terminal mechanism drains every connected reserve and converts the structure to ordinary matter, heat, motion, or ruin.
+4. **Crossing or cosmic system:** a distinct original living or structural mechanism sustains material-world crossings and sky-scale wonders. Its terminal authority closes the material-world endpoints and destroys their local anchors without asserting what happens at destinations beyond them.
 
-Phase one affects the shared fact of living use, not the separate origins of the systems. It is a singular terminal incident, not a newly reusable universal spell.
+For each system, the plan must define:
 
-Phase one does not yet erase:
+- independent origin;
+- living source;
+- ordinary operating mechanism;
+- limits and costs;
+- authority to initiate its own ending;
+- bounded extinction adapter;
+- how its living users participate;
+- how stored and structural residues are reached;
+- what physical consequences remain;
+- why its ending alone would not terminate the other three.
 
-- magic already stored in a nonliving focus;
-- fixed structural effects previously supplied by living agency;
-- already-open material-world crossings;
-- magical alterations already embodied in matter;
-- original living magical beings whose bodies persist despite losing active use;
-- records, memories, scars, relationships, and consequences.
+Faris’s lifetime work has already brought the four terminal adapters into one original nonliving convergence assembly. The assembly does not generate magic, understand morality, or choose an outcome. While magic remains active, the four systems’ living authorities separately supply and aim their final workings through their own adapters. The assembly synchronizes timing only.
 
-Nonliving structures may continue predetermined behavior while charge remains, but they do not choose, improvise, or become users. (`universe/rules.md` — `## Living agency and magic`)
+When Faris completes the final nonmagical connection, each adapter executes its own irreversible terminal action. Their effects propagate simultaneously through the system-specific relations already established across the world. No shared magical substance or ancestry is revealed.
 
-### Phase two: Faris extinguishes the remainder
+The narrative may authoritatively confirm that these four systems and their hybrids exhaust all magic active in the present material world. Do not invent an unseen fifth reserve or ambiguous surviving anomaly.
 
-Residual magic begins converging through an original late-era restoration framework. That framework was constructed to interface with multiple unrelated systems through system-specific adapters; interoperability does not establish shared origin.
+## Why the act must be synchronized
 
-Its fixed alternatives are:
+The four extinctions must occur within one bounded interval because partial action would let surviving systems:
 
-- **restore:** use each surviving system’s residue as its own seed, reopening living access through one imposed world-wide governor;
-- **extinguish:** reverse every adapter, consume each system-specific seed, collapse the restoration framework, close living access permanently, and draw remaining structural and stored magic into terminal dissipation.
+- absorb abandoned structures or users;
+- sustain hybrid effects;
+- keep crossings or reservoirs available;
+- interrupt another system’s termination;
+- leave enough active magic to prevent permanent zero.
 
-The extinction wave travels through temporary restoration connections, not through an alleged common magical substance. Each system dies according to its own adapter and mechanism. The framework supplies simultaneous reach; it does not reveal one original cosmology.
-
-Every usable residue, structural effect, active material-world crossing, and restoration seed must be spent, destroyed, dissipated into ordinary physical consequences, or rendered permanently inaccessible during the climax. The aftermath must contain no spark, reserve, hidden user, recoverable template, or functioning restoration route.
-
-## The restoration path must be real
-
-Restoration cannot be a trick, false reading, villain’s bluff, or obviously impossible ritual. The plan must establish before Faris chooses that it would successfully return magical capacity.
-
-Its moral cost must also be concrete, certain, and unacceptable—not merely a chance of later corruption.
-
-A canon-safe restoration price should combine these original facts:
-
-1. The framework can restart unrelated systems only by placing every restored living user under one permanent governing interface.
-2. No living person can opt out once the reset begins; future life is registered as potential magical infrastructure.
-3. Original living cosmic custodians must be consumed as translation templates, destroying or overwriting distinct persons.
-4. Distinct systems retain their effects but lose independent consent, refusal, and local authority because one governor controls access and revocation.
-5. The restoration authority would inherit the ability to ration, withdraw, or compel every restored magical relation.
-
-This is genuine restored magic at the cost of universal conscription, assimilated persons, and permanent central control.
-
-The alternative is also costly. Extinction ends wonders, identities built around practice, magical ecologies, and possibly the lives of original beings whose bodies cannot survive without residual magic. The choice must remain tragic rather than easy.
+This creates the climax’s pressure without introducing any recovery, repair, or alternative magical future. The choice to end magic has already been made by the necessary rights-holders; the present conflict is whether they can complete it against active resistance and personal cost.
 
 ## Faris remains wholly nonmagical
 
-Faris has never possessed magical capacity, undergone severance, carried a dormant gift, satisfied a prophecy, or belonged to a chosen bloodline.
+Faris has never possessed magical capacity, undergone severance, carried a dormant gift, fulfilled a prophecy, or belonged to a chosen lineage.
 
-Their lifelong lack may matter only through an original structure’s bounded design:
+Their lifelong lack matters only through the bounded design of the original convergence assembly:
 
-- the restoration framework detects and routes everyone who has ever formed a magical binding;
-- former users remain legible to it after reaching zero;
-- a lifelong non-user has no such routing record and can cross one otherwise dangerous decision space without being absorbed into the reset;
-- any lifelong non-user could meet that physical condition.
+- the charged interior automatically treats every active magical binding as a conduit;
+- a magical user entering the final control space would be seized by one of the four systems, disrupting synchronization or burning out before completing the mundane connection;
+- Faris has no magical binding for the assembly to seize;
+- any lifelong non-user could meet that one structural condition.
 
-This is not immunity to magic in general. Faris can still be injured or killed by residual effects, falling structures, heat, pressure, distance, and magical beings.
+This is not general immunity. Active spells, heat, force, collapsing matter, magical creatures, and crossing failures can injure or kill Faris. Protective artifacts and allies remain necessary.
 
-Faris is the person who reaches the choice because they alone combine:
+Faris reaches the final position because of accumulated knowledge and relationships, not metaphysical uniqueness:
 
-- decades of comparative learning;
-- lawful custody of four necessary artifacts;
-- knowledge of their exact order and limits;
-- relationships with four people or constituencies holding independent vetoes;
-- practical skill navigating and operating the framework without active magic;
-- willingness to ask again rather than treat prior help as ownership.
+- decades of comparative study identify the four terminal mechanisms;
+- long practice handling charged artifacts without feeding them power prevents fatal mistakes;
+- mundane technical skill lets Faris assemble and operate the final linkage;
+- four artifact custodians or system authorities freely renew prior trust;
+- Faris understands the timing, physical route, and cost because of past service across all four cultures.
 
-No artifact should activate because Faris is special. No cosmic being should recognize them as destined. Remove any line that implies the world was waiting for Faris.
+Remove any suggestion that the cosmos selected, foretold, recognized, or waited for Faris.
 
-## Faris’s declaration and causal act
+## The declaration and final action
 
-“No More Magic” must be exact or unmistakable and must occur at the decisive instant.
+Faris must say exactly:
 
-The words are not a spell, true-name effect, or hidden faculty. Names and declarations have no universal magical power. (`universe/rules.md` — `## Names and identity binding`)
+> No More Magic
 
-The declaration seals the choice because:
+The words are not a spell, true-name effect, universal command, or hidden faculty. Names and declarations have no universal magical force. (`universe/rules.md` — `## Names and identity binding`)
 
-1. four independent permissions or refusals have already armed the extinction configuration;
-2. Faris has physically placed, inverted, broken, or aligned the four artifacts;
-3. the restoration framework’s remaining selection is controlled through an ordinary mechanical or acoustic confirmation built into the original system;
-4. Faris performs the final nonmagical action while stating the decision for witnesses and the world.
+The declaration coincides with a clearly nonmagical action, such as:
 
-The structure executes a predetermined stored-energy pathway. It does not interpret Faris’s soul, choose the better outcome, or obey because of personal destiny.
+- driving an ordinary insulating pin from the final junction;
+- closing a mechanical bridge between four already charged conductors;
+- breaking a mundane restraint that prevents the synchronized discharge;
+- turning a physical selector after all four authorities have armed their own adapters.
 
-The prose should make the declaration inseparable from visible action: Faris speaks, completes the physical selection, and the remaining magic ends in the same causal beat.
+The four living systems and artifacts provide the active magic. The assembly provides fixed routing. Faris supplies timing and ordinary physical completion.
 
-## Lifetime convergence
+The declaration seals the event as witnessed human choice. The physical act releases the already assembled terminal sequence. Neither voice nor identity creates power.
 
-Every lifetime element must unlock the climax itself. Nothing important may pay off only as aftermath logistics.
+## Active resistance and participation
 
-Use four interlocked chains:
+Magic must remain spectacularly active throughout the confrontation.
 
-| Lifetime investment | Present-time necessity |
-| --- | --- |
-| Comparative study of unrelated magical grammars | Lets Faris recognize that the restoration adapters must be reversed in different ways and in a precise order. |
-| Years of handling dangerous relics without personally powering them | Lets Faris carry, orient, and physically operate charged objects inside the zero-capacity nexus. |
-| Service that honored refusals and protected personhood | Earns four freely renewed vetoes needed to arm extinction instead of restoration. |
-| Historical research into the framework’s builders and failures | Reveals the true restoration cost and the deliberately obscured extinction configuration. |
-| Mundane navigation, observation, memory, and tool use | Gets Faris through the decision space when active guidance, portals, and magical senses are unavailable. |
+Resistance may come from original people or institutions who oppose extinction, but they must have materially credible motives:
 
-A remembered skill must become a visible present action. A remembered favor must result in a fresh choice. A collected artifact must perform one irreplaceable bounded function and be spent.
+- magic sustains their bodies, culture, authority, loved ones, or world-scale works;
+- extinction will kill or permanently alter some original beings;
+- wonders and sacred relations will end;
+- no participant can fully calculate the nonmagical future.
 
-## Flashback and present-time structure
+Opponents may use active magic to:
 
-The present-time declaration event must dominate the story.
+- attack or restrain Faris;
+- reclaim an artifact;
+- break synchronization;
+- force one authority to withdraw;
+- divert a terminal charge;
+- keep a crossing or structural reserve outside its adapter.
 
-Required form:
+Participation must be equally active:
 
-- Begin after phase one, with living capacity already zero and residual wonders visibly destabilizing.
-- Keep approximately 80–90% of the narrative in one continuous present crisis lasting minutes or a few hours.
-- Reveal the lifetime build-up through four to six concise, payoff-triggered flashbacks.
-- Trigger each flashback by touching an artifact, meeting the favor-holder, using a learned skill, or confronting the cost attached to an earlier choice.
-- Each flashback must supply exactly the missing context needed for the next climax step.
-- Total flashback space should remain compact—roughly 600–900 words across the story.
-- Do not narrate Faris’s life chronologically.
-- Do not stage a long journey to assemble the cast or artifacts; they must already have converged when the story opens or arrive immediately through the last residual wonders.
-- Do not spend the second half on survival administration.
-- Keep aftermath to a short confirmation that magic remains gone and earlier personhood and history remain real.
+- practitioners expend their final workings to hold their adapter open;
+- an original cosmic being uses its last faculty to position or expose its own terminal anchor;
+- a structural custodian releases stored wonders they could preserve briefly;
+- a crossing authority closes escape paths and accepts separation from unknown destinations;
+- allies protect Faris long enough to complete a task none of them can safely perform.
 
-A suitable progression is:
+Keep violence within the Teen ceiling: intense, dangerous, and consequential but non-graphic.
 
-1. zero-capacity awakening and residual cosmic instability;
-2. discovery that restoration is real and already beginning;
-3. first artifact/favor unlocks entry;
-4. successive artifacts, refusals, and flashbacks expose the price and arm extinction;
-5. restoration begins visibly enough to prove it would work;
-6. Faris rejects it, declares “No More Magic,” and completes the physical act;
-7. spectacular simultaneous extinction;
-8. brief permanent aftermath.
+## Four wondrous artifacts
 
-## Four original wondrous artifacts
+Use at least four original artifacts from the four unrelated systems. Every artifact must perform an irreplaceable extinction step and be destroyed, consumed, or rendered permanently inert during the declaration.
 
-Use at least four artifacts from four unrelated original systems. Their proper names must be newly invented and validated later.
+### Artifact one: access
 
-### Artifact one: entry
+A charged boundary or traversal artifact brings Faris and the assembled components into the final control space.
 
-A precharged traversal or boundary artifact permits one final passage into the restoration framework.
+- One bounded route only.
+- Destination fixed before use.
+- Requires a living original-system user to arm it.
+- Faris can carry and physically trigger it but cannot supply its power.
+- Charge is completely consumed on entry.
+- Its use triggers a concise flashback explaining why its custodian entrusted it to Faris.
 
-- It must have been entrusted to Faris because of a specific past act.
-- It opens one route only.
-- It cannot select destination or return on its own.
-- Its entire remaining charge is consumed upon entry.
-- Its use triggers the flashback showing why its custodian trusts Faris.
+### Artifact two: protection and carriage
 
-### Artifact two: survival
+A wondrous containment artifact lets Faris carry one incompatible terminal charge through the active convergence.
 
-A protective or containment artifact lets Faris carry incompatible residual energies through one otherwise fatal interval.
+- Protects against one defined energy, pressure, or binding effect.
+- Does not confer general immunity.
+- Requires exact mundane handling learned years earlier.
+- Cracks, burns out, sheds its impossible form, or becomes ordinary matter at its limit.
+- Its use triggers the flashback in which Faris learned its handling and honored its former owner’s limits.
 
-- It protects against one precisely defined effect.
-- It does not make Faris generally immune.
-- It cracks, burns out, or disintegrates at its limit.
-- Its use pays off Faris’s learned handling skill, not mere possession.
+### Artifact three: synchronization
 
-### Artifact three: translation and proof
+A bounded comparative instrument makes the four unrelated terminal intervals simultaneously legible.
 
-A bounded witnessing artifact renders the restoration framework’s actual terms legible across several original systems.
+- It translates only the four adapters for which it was constructed.
+- It is not a universal truth detector or common magical grammar.
+- Faris’s comparative knowledge is required to interpret its four distinct outputs.
+- It supplies timing, not judgment.
+- It destroys its internal patterns when synchronization locks.
+- Its use triggers the flashback showing how Faris assembled knowledge without claiming ownership of the systems.
 
-- It reads only the framework and adapters it was designed to examine.
-- It is not a universal truth detector.
-- It shows that restoration would work and identifies its certain personhood and consent costs.
-- It cannot decide whether the price is acceptable.
-- It is destroyed once it has translated the extinction sequence.
+### Artifact four: final junction
 
-### Artifact four: terminal selection
+A nonliving terminal artifact physically holds the four armed adapter outputs apart until Faris acts.
 
-A final system-specific seed or control artifact can be oriented toward restoration or inverted toward extinction.
+- It originates no power.
+- It cannot choose or speak.
+- It has one precisely defined mechanical restraint.
+- Each system authority must separately arm its corresponding segment.
+- Faris removes or closes the ordinary restraint while declaring `No More Magic`.
+- The resulting wave consumes the artifact, all four adapters, and every reproducible magical pattern inside them.
 
-- It contains a finite, audited reserve.
-- It has no will, voice, or autonomous safeguard.
-- Restoration would spend it as the first re-seeding template.
-- Extinction consumes it as the first break in the convergence.
-- Faris must physically complete its configuration while declaring “No More Magic.”
-- It and every copy or recoverable pattern must be destroyed by the result.
+Additional artifacts may appear only if they add a necessary step. Decorative relic display will weaken the promised convergence.
 
-At least one additional wondrous object may appear as spectacle, but it must not dilute the four causal artifacts.
+For each artifact, the plan must record:
 
-For every artifact, the plan must record creator, age, material, owner, provenance, living-agency dependency, stored charge, exact capability, limitation, trigger, payoff, and destruction.
+1. original creator and era;
+2. material construction;
+3. present owner or custodian;
+4. how Faris obtained custody or access;
+5. living-agency requirement;
+6. stored-charge amount or bounded state;
+7. exact capability;
+8. exact limitation;
+9. required mundane handling;
+10. flashback trigger;
+11. climax function;
+12. terminal destruction.
 
 ## Four freely renewed favors
 
-The extinction pathway should require four independent present choices, not one hero’s presumed moral mandate.
+At least four relationships must unlock four distinct climax steps.
 
 Recommended functions:
 
-1. **Custody:** an original artifact keeper freely transfers the entry artifact despite knowing it will be destroyed.
-2. **Access:** a former rival or institutional opponent opens a forbidden physical route or releases information they could withhold.
-3. **Personhood veto:** an original living cosmic being refuses assimilation into the restoration template and authorizes Faris to destroy the adapter bound to them.
-4. **Distributed legitimacy:** representatives of several original traditions separately withdraw their restoration claims, arming the framework’s extinction branch.
+1. **Passage:** a former beneficiary arms the access artifact and knowingly removes Faris’s return route.
+2. **Custody:** an artifact keeper surrenders a unique wonder despite opposing its destruction or grieving its loss.
+3. **Authority:** a living nonhuman or cosmic person exercises their own system’s terminal right and refuses anyone else’s ownership of that choice.
+4. **Defense or timing:** a former rival, institution, or practitioner spends their last active magic holding opposition away from Faris or maintaining synchronization.
 
 Each favor-holder must:
 
-- remember a specific earlier service;
-- retain a real reason to refuse;
-- initially limit, challenge, or renegotiate the request;
-- choose again in the present;
-- unlock one necessary climax step.
+- have an original relationship with Faris established through one precise earlier incident;
+- retain a credible present reason to refuse;
+- make a fresh, freely chosen commitment;
+- impose a limit Faris must honor;
+- contribute an irreplaceable action while magic remains active;
+- suffer a specific loss when the act succeeds.
 
-Faris cannot possess global moral authority merely because they helped people. The extinction act becomes legitimate because multiple necessary rights-holders exercise independent vetoes and Faris serves as executor of those converging refusals. Some people may still demand restoration; the story need not pretend unanimous consent.
+Favors do not become fuel or compulsion. Consent has only the social, ethical, political, and system-specific behavior established for that relationship. (`universe/rules.md` — `## Costs, desire, and local mechanisms`)
 
-## Original cosmic spectacle
+Faris is not granted universal sovereign authority. Each system’s legitimate original authority chooses its own end; Faris synchronizes and executes the shared terminal act.
 
-The climax must make the remaining magic physically visible at the decision site and across the world.
+## Lifetime build-up through payoff-triggered flashbacks
 
-Planning may create:
+Keep 75–85% of the story in the continuous present event. Use four to six flashbacks totaling approximately 800–1,200 words.
 
-- a nonliving planet-girdling structure carrying fixed residual charge;
-- original auroral, orbital, atmospheric, subterranean, or horizon-spanning wonders;
-- material-world crossing mouths whose open structures persist briefly after users reach zero;
-- original living beings vast enough to be mistaken for landscape or sky while remaining distinct persons;
-- stored cities, impossible architectures, suspended seas, altered gravity, or other original wonders maintained by residual effects;
-- a restoration nexus in which unrelated residues arrive through visibly different behaviors rather than merging into one generic light.
+Each flashback must:
 
-During extinction:
+- begin from a present trigger: artifact contact, a favor-holder’s refusal, a learned gesture, a scar, or a system-specific phrase;
+- show one concrete earlier service or lesson;
+- explain why Faris now possesses knowledge, custody, or trust;
+- end at the present decision point;
+- unlock the immediately following action.
 
-- each system should end in its own visual grammar;
-- stored structures exhaust their last charge;
-- crossings close on the material-world side;
-- magical skies or architectures become ordinary matter, weather, darkness, or ruin;
-- original cosmic beings lose magical form according to their established biology and choices;
-- the final restoration seed is destroyed in Faris’s hands or direct sight;
-- the world-wide reach is visible through the nexus and a few brief original distant images.
+Recommended flashback functions:
 
-Avoid a report-only montage. The declaration itself should occupy the story’s largest concentration of spectacle.
+1. how Faris learned the access artifact’s exact limitation;
+2. why its custodian trusts Faris with irreversible use;
+3. how Faris learned to carry incompatible charge safely;
+4. how Faris protected a nonhuman person’s right to refuse;
+5. how comparative study revealed the four timings without reducing them to one system;
+6. why a former opponent now spends their last magic defending the act.
 
-Cosmic scale remains bounded to the present material world. Do not claim destruction in other worlds, planes, timelines, eras, or the afterlife.
+Do not narrate Faris’s life chronologically. Do not stage a long collection journey, party assembly, or retrospective biography. The artifacts, allies, opposition, and extinction assembly are already present or entering the final site when the story opens.
 
-## Personhood and ontology safeguards
+## Present-time structure
 
-Original cosmic beings, magical species, constructs, symbiotes, transformed people, and gods must be established as persons where the story treats them as such.
+A scene-ready sequence should follow this shape:
 
-- Loss of magic cannot reveal that their relationships or choices were unreal.
-- A physical ending may be death, transformation, survival, or uncertain continuation only as their original mechanism supports.
-- Do not describe an assimilated restoration as benign if it overwrites individual minds.
-- A being may freely choose extinction over use as a restoration template.
-- Their consent does not become magical fuel; it determines whether Faris has ethical and practical permission to destroy the adapter attached to them.
-- Earlier scars, love, wrongdoing, worship, responsibility, and achievements persist.
+1. **Opening convergence:** magic is fully active; the four systems’ wonders are visibly gathering around the terminal site.
+2. **First authority arms:** artifact and favor trigger flashback one; the first system begins its irreversible terminal sequence.
+3. **Opposition strikes:** active magic makes the cost and spectacle immediate; the protection artifact and learned handling pay off.
+4. **Second and third authorities commit:** two short flashbacks reveal why they choose extinction and why Faris must honor their limits.
+5. **Synchronization crisis:** the four systems approach incompatible terminal moments; Faris uses comparative knowledge and the synchronization artifact.
+6. **Final refusal or defense:** the last favor-holder spends their active magic to create the physical opening Faris needs.
+7. **Declaration:** all four segments are armed; Faris performs the mundane final action and says exactly `No More Magic`.
+8. **Extinction wave:** the largest continuous spectacle in the story.
+9. **Dawn coda:** everyone wakes with maximum mana zero; no magic remains.
 
-An original god who loses power no longer satisfies the continuing worship-power-authority conjunction, although worship, legal office, memory, and the underlying person may persist. (`universe/rules.md` — `## Divinity`)
+The declaration and extinction should occupy the final quarter to third of the story. The coda should be brief and unequivocal, not an aftermath-administration sequence.
 
-The universal afterlife remains outside the event’s established scope. Do not assert that beings killed by extinction are erased from all continuation. (`universe/rules.md` — `## Afterlife and continuation`)
+## Spectacular world-wide extinction
 
-## World consequences
+The terminal site must provide direct visual access to the world-wide event.
 
-Agriculture, water, medicine, transport, and disaster response may appear as immediate consequences, but they cannot become the central objective or climax.
+Planning may create wholly original:
 
-The principal losses should be mythic and civilizational:
+- planet-girdling magical architecture;
+- auroral, atmospheric, orbital, oceanic, subterranean, or horizon-spanning structures;
+- living cosmic beings physically present in the material world;
+- impossible landscapes supported by active magic;
+- material-world crossing mouths;
+- transformations or symbioses that visibly end;
+- stored cities, suspended seas, artificial constellations, or other wonders.
 
-- magical species losing defining capacities;
-- gods losing power and status;
-- world-spanning structures collapsing;
-- crossings sealing;
-- impossible landscapes becoming ordinary matter;
-- transformations becoming fixed or unavailable under original rules;
-- residual wonders streaming toward restoration and then extinguishing;
-- cultures realizing that their sacred or political orders cannot be restored without universal coercion.
+During the wave:
 
-The climax’s success criterion is not supplies moved or infrastructure stabilized. It is that the restoration has been prevented, every residual magical form is gone, and the world’s future can no longer be governed through magic.
+- embodied practitioners’ active workings fail and their capacities reach zero;
+- stored charges discharge, dissipate, or collapse into ordinary physical effects;
+- nonliving magical structures become inert matter, ruin, heat, weather, or darkness;
+- material-world crossing anchors close and are destroyed locally;
+- original magical beings lose active faculties according to their established biology;
+- gods lose power, while worship and social authority may persist;
+- all four artifacts and adapters are consumed;
+- the convergence assembly destroys its own magical components;
+- no reserve, hidden focus, living user, autonomous substitute, or reusable terminal pattern remains.
+
+Each original system should end in its own visual grammar. Do not reduce everything to one color, sound, dust effect, or generic beam.
+
+Reports or brief distant images may confirm reach, but the main spectacle must occur in Faris’s direct presence.
+
+## Personhood and ontology boundaries
+
+Loss of power cannot erase identity, relationships, consent, grief, wrongdoing, memory, or prior moral consequence. (`universe/style-guide.md` — `## Personhood and moral consequence`)
+
+For each original magical or cosmic person, planning must specify:
+
+- whether their body survives without magic;
+- whether they become physically ordinary, fixed in one form, disabled, mortal, or die;
+- what ordinary abilities and relationships remain;
+- what they knowingly consent to lose;
+- what remains unresolved about continuation.
+
+Do not describe a dying magical being as merely a battery, spell, program, or system component. If a person supplies a final working, their agency belongs to them; an artifact only stores or routes what they freely provide.
+
+An original god loses godhood when power ends because the required worship-power-authority conjunction no longer continues. Worship, memory, legal office, and the underlying person may persist. (`universe/rules.md` — `## Divinity`)
+
+The universal afterlife is outside the event’s scope. Do not claim that death in the extinction wave erases a person from all continuation. (`universe/rules.md` — `## Afterlife and continuation`)
+
+The event reaches only the present material world. It does not retroactively erase earlier eras or establish conditions in other worlds, planes, alternate timelines, destinations beyond closed crossings, or the afterlife.
+
+## Dawn coda
+
+The coda fulfills the prompt’s original image:
+
+- ordinary people and former practitioners wake;
+- every original culture’s capacity test or practice confirms zero in its own terms;
+- Faris’s reading remains what it has always been;
+- no artifact answers;
+- no structure retains charge;
+- no crossing reopens;
+- no god or magical being demonstrates a surviving faculty;
+- the narration confirms permanence.
+
+Keep the coda focused on irreversible silence, changed bodies or identities, and the contrast between Faris’s unchanged lack and everyone else’s loss. Agriculture, water, routes, and governance may be mentioned as future consequences but cannot become the resolution.
 
 ## Conflict and omission assessment
 
@@ -297,87 +334,81 @@ The climax’s success criterion is not supplies moved or infrastructure stabili
 
 None.
 
-A two-phase ending is compatible with the prompt and current authority:
+A one-time synchronized extinction is compatible with current authority when:
 
-- phase one removes living use;
-- stored and structural magic may persist without becoming independent users;
-- phase two consumes those remnants and permanently closes restoration;
-- unrelated systems need not share origin.
+- each unrelated system has its own terminal mechanism and authority;
+- a nonliving assembly synchronizes rather than originates magic;
+- living participants supply active power before zero;
+- Faris completes only a mundane final connection;
+- every remaining magical form is consumed in the wave;
+- the scope remains the present material world.
 
 ### Omissions, not contradictions
 
 Canon does not establish:
 
-- the cause of phase one;
-- a universal mana substance;
-- the original terminal-era framework;
-- the restoration adapters;
-- Faris’s lifetime history;
-- the four artifacts or favor-holders;
-- the restoration price;
-- the visible behavior of the final extinction.
+- the terminal era’s systems;
+- their system-specific extinction conditions;
+- Faris’s history;
+- the four artifacts or authorities;
+- the convergence assembly;
+- the political reason for opposition;
+- the exact visual behavior of extinction.
 
-These are authorized original invention space. Missing lore does not require a user ruling.
+These are original invention space authorized by the current prompt. Missing lore does not require a user ruling.
 
 ## Rejected and non-authoritative production artifacts
 
-All previous creative versions are rejected and establish no canon:
+Every earlier creative version is rejected and establishes no canon:
 
-- the bounded Gannet Reach brief, plan, prose, reviews, and delta;
-- the crossover-oriented canon brief, plan, and partial draft;
-- the standalone disaster-logistics canon brief, plan, and partial draft;
+- bounded Gannet Reach brief, plan, prose, reviews, and delta;
+- crossover-oriented brief, plan, and partial draft;
+- standalone disaster-logistics brief, plan, and partial draft;
+- restoration-framework brief and any plan or draft derived from it;
 - all prior handoff reports as creative authority.
 
-Specifically, current `stories/all-accounts-due/01-canon-brief.md`, `02-story-plan.md`, and `03-draft.md` must be completely replaced. The latest partial draft is explicitly recorded as `HANDOFF_ERROR / USER_SCOPE_CHANGED`.
+Current `stories/all-accounts-due/01-canon-brief.md`, `02-story-plan.md`, and `03-draft.md` must be completely replaced.
 
-Do not salvage:
-
-- earlier settings, institutions, cultures, systems, artifacts, crises, or proper nouns;
-- crossover references or renamed equivalents;
-- the disaster-logistics objective;
-- the distributed water/seed/route climax;
-- old relationship histories or supporting identities.
-
-Only the current prompt’s abstract requirements survive: lifelong nonmagical protagonist, lifetime learning, freely renewed favors, wondrous artifacts, phase-one zero, real restoration, spectacular declaration, and permanent extinction.
+Do not salvage any earlier setting, institution, culture, supporting identity, artifact, crisis, proper noun, magical mechanism, logistics climax, zero-first structure, recovery premise, or restoration choice. Only the abstract requirements in the newest prompt survive.
 
 ## Name constraints
 
-- **Faris** remains reserved to `all-accounts-due` and may be retained as the wholly nonmagical protagonist. No identity detail from any rejected version carries forward.
+- **Faris** remains reserved to this slug and may be retained as the lifelong nonmagical protagonist. No identity detail from any rejected version carries forward.
 - **Tycho, Uma, and Zeke** remain abandoned Gannet Reach reservations and must not be reused.
 - **Malko Durev, Ishbel Rann, Ossun, and Brameth Caum** remain abandoned logistics-version reservations and must not be reused.
-- All proper nouns from the rejected logistics plan remain unavailable for this replacement version even when they are not character names.
-- Do not reuse any character identity or currently reserved character-facing form from another story.
-- Validate every full name, given name, mononym, nickname, alias, character-facing title, deity, named creature, construct, or person-like artifact against `stories/NAMES.md`.
-- Manually search the repository for every proposed location, artifact, institution, faction, magical system, cosmic structure, crisis, holiday, and office name.
+- Proper nouns from every rejected plan remain unavailable for the replacement.
+- Do not reuse any character identity or reserved character-facing form from another story.
+- Validate every full name, mononym, nickname, alias, character-facing title, deity, named creature, construct, or person-like artifact against `stories/NAMES.md`.
+- Manually search the repository for every proposed place, artifact, institution, faction, system, cosmic structure, crisis, holiday, and office name.
 - Check exact matches, case-insensitive matches, close spellings, sound, reversals, cadence, and confusable forms.
-- The coordinator alone updates the registry after planning and reconciles it after final review.
+- The coordinator alone updates the registry and later reconciles final names.
 
 ## Required planning and review checks
 
-1. Record the story privately as the terminal era after all currently admitted magic-active material-world histories.
-2. Keep all prior repository names, references, cameos, mechanisms, and renamed analogues out of the prose.
-3. Separate phase-one living capacity zero from phase-two residual extinction mechanically and visibly.
-4. Define the original restoration framework without claiming common magical origin.
-5. Prove in-scene that restoration would work.
-6. Establish the restoration price as certain, concrete, and morally unacceptable.
-7. Keep Faris lifelong and wholly nonmagical; make their access structural and non-unique.
-8. Require comparative knowledge, artifact handling, history, and freely renewed help for every access step.
-9. Give at least four artifacts distinct systems, mechanisms, charges, limits, payoffs, and terminal destruction.
-10. Give at least four favor-holders independent refusal rights and present-time choices.
-11. Tie every skill, artifact, favor, and relationship to a necessary climax step.
-12. Keep 80–90% of the narrative in the present declaration crisis.
-13. Reveal the lifetime build-up only through concise payoff-triggered flashbacks.
-14. Do not use a linear biography, long assembly journey, or logistics-centered second half.
-15. Make “No More Magic” exact or unmistakable and simultaneous with Faris’s final physical act.
-16. Confirm that the words are declaration and witness, not a spell or hidden name-power.
-17. Show spectacular system-specific extinction across original skies, structures, beings, and crossings.
-18. Preserve personhood and earlier consequences through loss.
-19. Exhaust, destroy, dissipate, or permanently seal every residual charge and restoration template.
-20. Keep other worlds, planes, timelines, earlier eras, and the afterlife outside the established reach.
-21. Keep aftermath short and unequivocal: magic is gone forever.
+1. Place the story privately in the terminal era after all admitted magic-active material-world histories.
+2. Keep every prior repository name, reference, cameo, mechanism, and renamed analogue out of the prose.
+3. Begin while magic is fully active and the intentional extinction convergence is already underway.
+4. Establish exactly four unrelated active systems or another equally exhaustive, scene-manageable inventory.
+5. Give each system its own origin, authority, adapter, terminal mechanism, and visual extinction.
+6. Confirm that synchronization does not imply common origin or universal fuel.
+7. Keep Faris lifelong and wholly nonmagical.
+8. Make Faris’s access structural and available in principle to any lifelong non-user.
+9. Require every lifetime skill, artifact, relationship, and favor for an irreplaceable present extinction step.
+10. Use at least four wondrous artifacts, audit them individually, and destroy or exhaust all four.
+11. Use at least four freely renewed favors with credible refusal and present choice.
+12. Keep active magical resistance and participation spectacular, direct, and costly.
+13. Keep 75–85% of the story in the continuous present declaration event.
+14. Use four to six payoff-triggered flashbacks totaling roughly 800–1,200 words.
+15. Do not use a linear biography, assembly journey, logistics-centered climax, or long aftermath.
+16. Make the exact declaration `No More Magic` simultaneous with Faris’s nonmagical final action.
+17. Confirm that the words are witnessed choice, not spell, name-power, or hidden faculty.
+18. Show living capacity, stored charge, structures, crossings, active faculties, and reserves ending in the same world-wide wave.
+19. Preserve personhood and all earlier historical consequences.
+20. Keep earlier eras, other worlds, planes, timelines, crossing destinations, and the afterlife outside the established reach.
+21. End with a brief dawn coda in which everyone wakes at zero and permanence is explicit.
 22. Validate all character-facing names and manually collision-check every other proper noun.
 23. Replace rather than revise around every rejected brief, plan, and draft.
-24. Final continuity review must reject any surviving agriculture/logistics climax, reversible restoration hint, autonomous artifact choice, chosen-destiny implication, common-origin claim, or cross-story reference.
+24. Final continuity review must reject any recovery path, surviving reserve, prior zero event, chosen-destiny implication, autonomous artifact choice, common-origin claim, crossover reference, or logistics-centered resolution.
 
 ## Status and ownership
 
@@ -385,5 +416,5 @@ Only the current prompt’s abstract requirements survive: lifelong nonmagical p
 - Canon ruling required now: No
 - Retcon required now: No
 - Planning owner: `story_architect`
-- Coordinator follow-up: persist this replacement brief, replace the logistics plan and failed partial draft, and preserve rejected-name reservations
-- Later escalation owner: user only if planning moves the event before later magic-active canon, extends extinction outside the present material world, reuses another story’s material, or introduces a genuine authority conflict
+- Coordinator follow-up: persist this replacement brief, replace every prior plan and draft, and preserve rejected-name reservations
+- Later escalation owner: user only if planning moves the event before later magic-active canon, extends the ending outside the present material world, reuses another story’s material, or introduces a genuine authority conflict
