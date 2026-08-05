@@ -1,6 +1,6 @@
 # Prompt contract
 
-> Contract status: REVISED AFTER CANDIDATE FEEDBACK
+> Contract status: REVISED AGAIN AFTER CROSSOVER FEEDBACK
 > Story slug: `all-accounts-due`
 > Captured: 2026-08-05
 
@@ -12,6 +12,10 @@
 ## Verbatim revision clarification
 
 > the house of M was the pinickle event over the course of many years and this feels like avg Tuesday... please try again. This should be end of all magic in world it should feel more grand...
+
+## Verbatim crossover clarification
+
+> i see reference to "the Daughter" i didnt say you can cross stories or reuse characters; try again.
 
 ## Story controls
 
@@ -25,15 +29,20 @@
 - Audience/content rating: Teen.
 - Required elements: A protagonist who has never had magic; years of helping
   others that have yielded consequential favors, relationships, and artifacts;
-  the permanent end of magic across the world; established shared-universe
-  history and people where chronology permits; visible collapse across multiple
-  magical systems, cultures, and kinds of life; and a climax in which the
-  protagonist's accumulated nonmagical capital decides what survives the end.
+  the permanent end of magic across the world; an entirely original cast,
+  setting, history, magical systems, cultures, and kinds of life created for
+  this story; visible collapse across those distinct systems; and a climax in
+  which the protagonist's accumulated nonmagical capital decides what survives
+  the end.
 - Prohibited elements: No direct use of Marvel characters, settings, or plot;
   the *House of M* note controls the event's scale, culmination, and emotional
-  premise only. Do not reduce the event to one neighborhood emergency, restore
-  magic by the ending, grant the protagonist hidden magic, or substitute a
-  generic catastrophe montage for earned historical and personal consequence.
+  premise only. Do not reuse, cameo, name, or directly reference any character
+  from another repository story. Do not make this a crossover or import another
+  story's named location, artifact, institution, magical system, crisis, title,
+  or relationship as the source of grandeur. Do not reduce the event to one
+  neighborhood emergency, restore magic by the ending, grant the protagonist
+  hidden magic, or substitute a generic catastrophe montage for earned
+  historical and personal consequence.
 
 ## Assumptions
 
@@ -41,15 +50,19 @@
   permanent end of magic in the story's present material world. It does not by
   itself erase magic from unrelated earlier eras, other timelines, afterlives,
   or planes unless current canon and the revised canon brief support that reach.
-- The story is a culmination after the relevant established histories, not an
-  isolated side incident. It should reuse authoritative characters, places,
-  relationships, or systems when chronology can be made exact, and must not
-  fabricate prior crossovers merely to imitate accumulated history.
+- The story is a wholly standalone culmination, not an isolated side incident
+  and not a shared-cast event. Its sense of prior history must be established
+  inside this story through the protagonist's own years of service, original
+  relationships, original artifacts, and the visible institutions and cultural
+  expectations that now end. Canon research may constrain chronology and world
+  rules behind the scenes, but the prose may not borrow another story's named
+  people, places, artifacts, systems, titles, or plot history.
 - The cause may remain partly unknown if naming it would contradict authority,
   but the end state may not be softened into temporary suppression, faulty
   measurement, or a reversible local outage.
-- Artifacts may retain stored charge or useful nonmagical functions only if
-  current canon permits it; they do not become autonomous magic users.
+- Original artifacts may retain stored charge or useful nonmagical functions
+  only if the story defines their bounded mechanisms; they do not become
+  autonomous magic users, and no charge may leave magic surviving at the end.
 - The protagonist's decisive advantage should come from earned trust,
   practical knowledge, and reciprocal obligations, not a concealed magical
   awakening.
@@ -61,7 +74,7 @@
 
 - The result is a complete short story, not a synopsis or chapter fragment.
 - The central promise of the prompt is dramatized and resolved.
-- The end of magic is witnessed across multiple authoritative systems and
+- The end of magic is witnessed across multiple original systems and
   communities with immediate civilizational, ecological, political, spiritual,
   and identity consequences.
 - The story feels like the payoff of years of accumulated relationships and
@@ -74,4 +87,5 @@
 - The protagonist remains genuinely nonmagical through the ending.
 - The story passes canon and continuity review.
 - Every character-facing name and alias is checked against `stories/NAMES.md`;
-  any deliberate reuse has a documented narrative reason.
+  no character identity or reserved character-facing form is reused from
+  another story.

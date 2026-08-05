@@ -282,6 +282,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 11,
+      "story": "all-accounts-due",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "HANDOFF_ERROR",
+      "startedAt": "2026-08-05T11:49:18.2283873+00:00",
+      "completedAt": "2026-08-05T12:01:23.9769890+00:00",
+      "guardId": "488c79365d6f4409a9a96b8c6f389875",
+      "persister": "prose_writer",
+      "report": "status: HANDOFF_ERROR\nstory: all-accounts-due\nmode: REVISE_DRAFT\nguard_id: 488c79365d6f4409a9a96b8c6f389875\ncurrent_stage: drafting\nerror_code: USER_SCOPE_CHANGED\nresolution_owner: coordinator\nchanged_output: stories/all-accounts-due/03-draft.md\nchange_report: Partial replacement draft uses crossover/reused canon characters and is rejected, incomplete for the revised user scope, and non-authoritative. No salvage attempted and no additional file touched.\nstale_precondition: User now requires no crossover and no reused characters; the supplied replacement brief and plan require both.",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/03-draft.md"
+      ],
+      "errorCode": "USER_SCOPE_CHANGED",
+      "resolutionOwner": "coordinator",
+      "resolutionQuestion": null
     }
   ]
 }
