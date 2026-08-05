@@ -8,17 +8,17 @@ created: 2026-08-05
 
 The Ithrom Array hung where six world-curves crossed, and every kind of magic in the material world had come to kill Faris.
 
-He crouched behind a broken brace with one hand bruised and no protection except ordinary stone. Six empty sockets circled the Unwritten Axis, each beside a cradled keystone. The Parity Astrolabe hung above. Beside Faris, three body-lengths from its mounting recess, the Mortal Latch waited with bearing unseated, selector upward, plungers apart, lever folded, and cotter strapped to its housing. Across thirty-one years, those eight relics and their relationships had accumulated without one plan. He had known of the Yoke for nine years and possessed the junction for four.
+One hand bruised, Faris crouched behind ordinary stone. Six empty sockets ringed the Unwritten Axis beside cradled keystones; the Parity Astrolabe hung above. Three body-lengths away, the Mortal Latch waited cradled: bearing unseated, selector upward, plungers apart, lever folded, cotter strapped. Eight relics converged accidentally over thirty-one years—nine since he learned of the Yoke, four since he found the junction.
 
-Beyond the hub, distances folded and unfolded. A city walked on luminous legs. Black fire ate inward through a fortress without touching its walls. Dragons stitched horizons together. Palaces occupied three skies at once. An aurora tightened around a falling mountain and held it up. Far below, soldiers traded eyes, lungs, and wings as casually as knives.
+Beyond, a luminous city walked; black fire ate a fortress; dragons stitched horizons; palaces filled three skies; an aurora held a mountain; soldiers exchanged organs and wings.
 
-Three hundred and two years earlier, engineers delegated by all six practices had built the Array as a mutual last resort after rulers first learned to couple root authorities. They divided its controls deliberately: route custodians kept the timing instrument at a calibration station, while graft keepers guarded the final junction whose selector protected material bodies. No one practice was meant to possess both.
+Six-practice engineers built the Array three hundred and two years earlier as a last resort against coupled roots. Route custodians held the timing instrument; graft keepers guarded the final junction, whose selector protected material bodies. No practice held both.
 
-Through all six wonders descended the Absolute Yoke. Its bands had no single color. They borrowed whichever power they crossed, turning grace into command, fire into appetite, flight into pursuit, rooms into prisons, weight into chains, and living gifts into forced flesh. At their meeting point, the Bound Ascendancy wore a tall body made from all six.
+The Absolute Yoke descended through six wonders, borrowing grace for command, fire for appetite, flight for pursuit, rooms for prisons, weight for chains, gifts for forced flesh. The Bound Ascendancy wore all six at their meeting.
 
-The Ascendancy had begun as armistice councils after route wars dropped cities and furnace armies crossed sanctuaries. Frightened rulers, priests, users, and peoples whose bodies and homes depended on magic had reached one answer: peace required every root to obey. From stolen Array studies and living contributions taken or volunteered across all six systems, they built the Yoke to preserve the magical world by removing its power to refuse.
+Born as armistice councils after route wars and furnace invasions, frightened rulers, priests, users, and magic-dependent peoples decided peace required every root to obey. Using stolen Array studies and living contributions taken or volunteered across all six systems, the Ascendancy would preserve the magical world by ending refusal.
 
-“Leave the Latch,” it said through a hundred conscripted mouths. “There can still be order.”
+“Leave the Latch,” it said through conscripted mouths. “There can still be order.”
 
 Then Seyathi stepped through a tessellated wall and reached for the Missing Tessera.
 
@@ -60,17 +60,7 @@ Afterward, Seyathi could not find the stairs without Faris taking her elbow. She
 
 “One day,” she told him, “you may ask me to arm it against the Yoke. Say exactly what you mean. A promise protects only its exact shape.”
 
-Now, at the Ithrom Array, Faris said, “Arm the Missing Tessera, and before this hour ends the Absolute Yoke will be powerless. I will not take its power, wear it, or pass it to anyone.”
-
-Every clause was true. Thirty-one years had supplied relationships and relics; nine since Talarum had supplied the Yoke and Tessera; four since Keruvan had supplied the Latch. Faris had shaped this promise only after those pieces met, and deliberately left one word out.
-
-Seyathi studied him and the six keystones. From her side, they appeared to be six strikes against the Yoke's six borrowed faces; the terminal connections stayed hidden until the Latch was seated. Trust, not carelessness, supplied what Faris withheld.
-
-“Against the Yoke, within this hour,” she said, setting each boundary in place. “I agree.” She pressed her thumb to the matte square and set it blank-side inward. Geometric light filled the first socket.
-
-The other five had heard the whole request before they came, knew Seyathi had not, and had agreed not to supply the missing scope. They still had to choose here. Their complicity did not absolve Faris.
-
-The Sole Chamber began to ring.
+At the Array, the unarmed Sole Chamber rang inside nine Yoke-folded rooms.
 
 *Twenty-four years earlier, at Mavorn Palace*
 
@@ -112,19 +102,7 @@ Malrec visited his cell three days later. “You stole the legal heart of my hou
 
 The king pardoned him, retained a witnessed claim, and granted one decision over the Chamber if that decision was made publicly and applied to the palace as well as its enemies.
 
-Now Malrec stood at the second socket in a crown that occupied five possible shapes.
-
-“If my capital's crossings remain,” he said, “I will renounce every foreign claim and submit the record to any witness you choose.”
-
-“No exemption.”
-
-“Then your terms reduce every royal door to carpentry, including mine.”
-
-“Yes.”
-
-Malrec looked toward the many palaces sheltering his people. “Let the record show that necessity has defeated negotiation. Witness this: I release every claim in the Sole Chamber, including my own.”
-
-He folded its nine possible walls shut until one bronze room remained. The socket held the renounced claims behind the unfired Latch. Until the cotter came free, the armed Chamber retained one use: collapsing an imposed overlap into its material base. The Nearmost Vertebra knocked slowly against stone.
+At the Array, the Nearmost Vertebra knocked under the Yoke's stolen gravity.
 
 *Fourteen years earlier, at the Aphalion Belt*
 
@@ -168,15 +146,7 @@ OURS. NOT NEEDED. SHED.
 
 Qeluun entrusted the bone back to him. One day, it would align one terminal change. Faris promised never to speak of Qeluun as terrain while asking it.
 
-Now the immense curve of Qeluun tightened around the Array. The third socket waited.
-
-END US? came the pressure, making Faris's broken brace tremble.
-
-“You may die,” Faris said. “All who depend on Worldcoil may die. I am asking you to align it anyway.”
-
-Silence pressed on him. Then Qeluun moved the Nearmost Vertebra into place. The bone pulsed once and became dust. Gravity convulsed. The third socket shone.
-
-The Cold Maw opened its paired jaws.
+At the Array, Yoke-fire opened the unarmed Cold Maw.
 
 *Thirty-one years earlier, at the Ghorvane Underforge*
 
@@ -216,23 +186,7 @@ Later, Hurzai set the Cold Maw on a table between them. The paired heatless jaws
 
 “Custody,” Hurzai said, “if you never call a terminal ending painless. One root act when you ask. You will name the meat cost first.”
 
-Now Hurzai's woundless older body gleamed with contained fire beside the fourth socket.
-
-He did not touch the jaws. “One quenched furnace does not cool a foundry. Show me why all six roots must die with this mold.”
-
-Faris pointed to the band of black fire descending through a folded horizon. “Turn one jaw far enough to close its present furnace line. Not far enough to arm it.”
-
-Hurzai narrowed the Maw. Its Yoke-band pinched out—and reappeared inside a Grace command, carrying black appetite through colored stone.
-
-“Every Yoke branch holds all six adapter patterns,” Faris said. “End five and the sixth preserves their instructions, then compels its users to rebuild the entrances. All six must lose capacity together.”
-
-Hurzai reopened it. “Then we pour out the metal, break the molds, and accept the workers caught by the heat. Name them.”
-
-“Some demons will survive,” Faris said. “Some will not. Fortresses will collapse. Stored heat will break loose. Your lordship and your fire end with theirs.”
-
-Hurzai's face hardened without becoming calm. “You have named flesh, furnace, and crown. I accept the burn.” He seized both jaws and wrenched them outward. They fused around the socket. Black light filled it.
-
-The Unhatched Form flexed without being alive.
+At the Array, forced flesh made the unarmed Form flex.
 
 *Four years earlier, at the Keruvan Fold*
 
@@ -268,21 +222,7 @@ The patrons arrived claiming the keeper had endangered everyone by resisting the
 
 Jelveth did not forgive him. She did establish a public bargain. He would repair the sanctuary, never call a fixed grafted body counterfeit, and hold lawful custody of the two relics. In return, she would perform one bounded root act after reading its selector herself.
 
-Now she stood over the Unwritten Axis while forced wings erupted from attacking soldiers below.
-
-Without lifting the Latch from its carrying cradle, Faris rotated its selector plate toward her. Two instructions were cut into the metal: end function; preserve matter.
-
-Jelveth read twice. “Fixed tissue remains. No body is declared false. The shared heart?”
-
-“Its impossible sharing ends. Each body keeps whatever its own matter can sustain.”
-
-“Which is not a promise that each body lives.”
-
-“It is not.”
-
-She closed the Unhatched Form in both hands and opened the Axis with a precise incision of borrowed sight. The Form went still. The fifth socket accepted it.
-
-Across the ring, the Unflown Arc lifted from its cradle as if remembering a route it had never flown.
+At the Array, a Yoke-folded horizon stirred the unarmed Arc.
 
 *Eighteen years earlier, at the Skairrift*
 
@@ -312,7 +252,71 @@ The Astrolabe was why Ekkorath had entered the ruin. Skairrift had been an Array
 
 “One flight,” the dragon said. “If you state every destination you will close and everyone you expect to fall.”
 
-Now Ekkorath faced the sixth socket while cities flickered at the ends of their wings.
+Now, at the Ithrom Array, all six keystones remained unarmed.
+
+Faris turned first to Seyathi. “Arm the Missing Tessera, and before this hour ends the Absolute Yoke will be powerless. I will not take its power, wear it, or pass it to anyone.”
+
+Every clause was true. Thirty-one years had supplied relationships and relics; nine since Talarum had supplied the Yoke and Tessera; four since Keruvan had supplied the Latch. Faris had shaped this promise only after those pieces met, and deliberately left one word out.
+
+Seyathi studied him and the six keystones. From her side, they appeared to be six strikes against the Yoke's six borrowed faces; the terminal connections stayed hidden until the Latch was seated. Trust, not carelessness, supplied what Faris withheld.
+
+“Against the Yoke, within this hour,” she said, setting each boundary in place. “I agree.” She pressed her thumb to the matte square and set it blank-side inward. Geometric light filled the first socket.
+
+The other five had heard the whole request before they came, knew Seyathi had not, and had agreed not to supply the missing scope. They still had to choose here. Their complicity did not absolve Faris.
+
+The Sole Chamber rang louder. Malrec stood at the second socket in a crown that occupied five possible shapes.
+
+“If my capital's crossings remain,” he said, “I will renounce every foreign claim and submit the record to any witness you choose.”
+
+“No exemption.”
+
+“Then your terms reduce every royal door to carpentry, including mine.”
+
+“Yes.”
+
+Malrec looked toward the many palaces sheltering his people. “Let the record show that necessity has defeated negotiation. Witness this: I release every claim in the Sole Chamber, including my own.”
+
+He folded its nine possible walls shut until one bronze room remained. The socket held the renounced claims behind the unfired Latch. Until the cotter came free, the armed Chamber retained one use: collapsing an imposed overlap into its material base.
+
+The Nearmost Vertebra knocked hard enough to fracture stone. The immense curve of Qeluun tightened around the Array. The third socket waited.
+
+END US? came the pressure, making Faris's broken brace tremble.
+
+“You may die,” Faris said. “All who depend on Worldcoil may die. I am asking you to align it anyway.”
+
+Silence pressed on him. Then Qeluun moved the Nearmost Vertebra into place. The bone pulsed once and became dust. Gravity convulsed. The third socket shone.
+
+The Cold Maw opened wider. Hurzai's woundless older body gleamed with contained fire beside the fourth socket, but he did not touch the jaws.
+
+“One quenched furnace does not cool a foundry. Show me why all six roots must die with this mold.”
+
+Faris pointed to the band of black fire descending through a folded horizon. “Turn one jaw far enough to close its present furnace line. Not far enough to arm it.”
+
+Hurzai narrowed the Maw. Its Yoke-band pinched out—and reappeared inside a Grace command, carrying black appetite through colored stone.
+
+“Every Yoke branch holds all six adapter patterns,” Faris said. “End five and the sixth preserves their instructions, then compels its users to rebuild the entrances. All six must lose capacity together.”
+
+Hurzai reopened it. “Then we pour out the metal, break the molds, and accept the workers caught by the heat. Name them.”
+
+“Some demons will survive,” Faris said. “Some will not. Fortresses will collapse. Stored heat will break loose. Your lordship and your fire end with theirs.”
+
+Hurzai's face hardened without becoming calm. “You have named flesh, furnace, and crown. I accept the burn.” He seized both jaws and wrenched them outward. They fused around the socket. Black light filled it.
+
+Forced wings erupted from attacking soldiers below. Jelveth stood over the Unwritten Axis and the fifth socket.
+
+Without lifting the Latch from its carrying cradle, Faris rotated its selector plate toward her. Two instructions were cut into the metal: end function; preserve matter.
+
+Jelveth read twice. “Fixed tissue remains. No body is declared false. The shared heart?”
+
+“Its impossible sharing ends. Each body keeps whatever its own matter can sustain.”
+
+“Which is not a promise that each body lives.”
+
+“It is not.”
+
+She closed the Unhatched Form in both hands and opened the Axis with a precise incision of borrowed sight. The Form went still. The fifth socket accepted it.
+
+Across the ring, the Unflown Arc lifted from its cradle as if remembering a route it had never flown. Ekkorath faced the sixth socket while cities flickered at the ends of their wings.
 
 “Dragons will be grounded,” Faris said. “Crossings will close. Suspended cities will fall toward whatever is physically below them. You may tear your last flight holding the corridor long enough for me to reach the Latch.”
 

@@ -736,6 +736,38 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 27,
+      "story": "all-accounts-due",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T23:32:00.8171934+00:00",
+      "completedAt": "2026-08-05T23:50:15.9815935+00:00",
+      "guardId": "1ee83573734342a5938fd721c48bbf39",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_FINAL\nguard_id: 1ee83573734342a5938fd721c48bbf39\ncurrent_stage: final-review / in-progress\nchanged_outputs:\n  - stories/all-accounts-due/05-story.md\n  - stories/all-accounts-due/06-canon-delta.md\nfinding_dispositions:\n  - id: AAD-FINAL-003\n    disposition: RESOLVED\n    evidence: AAD-09 no longer describes the Unwritten Axis as person-sized or the Latch recess as round. AAD-21 now inventories only the demonstrated Unhatched Form stored exchanges, impossible faculties, shared senses, keeper awareness, forced hybrids, and Kindred Graft reserves. All 37 delta entries were re-audited against current prose; sequential IDs, required fields, local scopes, dependencies, provenance, dispositions, targets, authority-none posture, and promotion prohibition remain intact.\n  - id: AAD-FINAL-004\n    disposition: RESOLVED\n    evidence: The five interleaved present arming returns are now brief relic/Yoke memory triggers. After the sixth flashback, all six renewed arming choices, the assault, declaration, extinction, and Seyathi endpoint proceed in one uninterrupted present sequence. All required choices, costs, mechanisms, casualties, payoffs, voices, declaration causality, and the exact ending are preserved.\nstructural_counting:\n  method: Strip YAML frontmatter and the H1, then count words with regex `\\b[\\p{L}\\p{N}][\\p{L}\\p{N}'’\\-]*\\b`. Flashback-only counts sum the prose bodies after each of the six italic flashback headings through—but excluding—the following present trigger; headings and present triggers are excluded. Uninterrupted-final counting begins at the marker below and continues through the final sentence.\n  total_prose_words: 5472\n  flashback_only_words: 3010\n  flashback_only_percent: 55.01\n  flashback_parts: 570, 573, 465, 507, 456, 439\n  uninterrupted_final_start_line: 255\n  uninterrupted_final_start_marker: \"Now, at the Ithrom Array, all six keystones remained unarmed.\"\n  uninterrupted_final_words: 2110\n  uninterrupted_final_percent: 38.56\ndelta_checks:\n  sequential_ids: 37/37\n  required_fields: complete\n  character_inventory: 7 exhaustive rows\n  non_character_allowlist: 27 rows, exactly 3 columns\n  posture: authority none; proposal only; promotion unauthorized\nname_check: Final story-names/3 PASS; zero warnings; zero errors\nscope_check: PASS; only 05-story.md and 06-canon-delta.md changed\nvalidation:\n  immutable_frontmatter: preserved\n  flashback_count: exactly 6\n  declaration_count: exactly 1\n  exact_endpoint: preserved\n  story_integrity: PASS\n  git_diff_check: PASS\nchange_report: Restructured the release-facing story into six intact quest memories followed by a 2,110-word uninterrupted final sequence containing all six informed or deliberately under-informed renewed choices, the complete assault, Mortal Latch operation, extinction spectacle, and Seyathi realization. Tightened the opening and replaced earlier arming returns with short present-time triggers without padding or grouping them into flashback counts. Reconciled every affected delta provenance and removed unsupported or plan-only descriptors discovered during the required 37-item evidence audit. No new character-facing names, canon ruling, retcon, material prompt reinterpretation, or user authority is required.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

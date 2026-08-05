@@ -130,9 +130,10 @@ story-local proposals under the exact entries below.
 - **AAD-05 — Qeluun (proposed).** **Fact:** Qeluun is a vast living nonhuman
   person whose bodily contractions alter weight across the upper air and whose
   exposed sensory tissue can be injured. Qeluun rescues Faris after his tether
-  mistake, guides him by pressure knocks while he removes poacher rigs,
-  re-entrusts a shed vertebra that Faris returned, and requires him never to
-  address them as terrain. At the Array, Qeluun refuses euphemism, accepts the
+  mistake, guides him by pressure knocks while he removes poacher rigs, and
+  re-entrusts a shed vertebra that Faris returned. Faris promises never to
+  address Qeluun as terrain.
+  At the Array, Qeluun refuses euphemism, accepts the
   stated possibility of death, aligns the Nearmost Vertebra, and holds one last
   stable down for Faris. They remain conscious when Worldcoil ends and begin
   falling with their ultimate fate unresolved. **Exact local scope:** Qeluun's
@@ -195,7 +196,8 @@ story-local proposals under the exact entries below.
   concealment, which neither transfers Faris's responsibility nor makes
   Seyathi's choice informed. Depends on AAD-01 through AAD-07, AAD-10 through AAD-15,
   AAD-23 through AAD-30, AAD-32, and AAD-36. **Provenance:**
-  `05-story.md`, six flashback returns and continuous climax. **Proposed disposition:** `PROPOSE ADD WITH SIX-RELATIONSHIP QUALIFIER`. **Suggested smallest topical target:** `universe/characters.md`.
+  `05-story.md`, six flashback triggers and the uninterrupted final six-choice
+  arming sequence. **Proposed disposition:** `PROPOSE ADD WITH SIX-RELATIONSHIP QUALIFIER`. **Suggested smallest topical target:** `universe/characters.md`.
 
 ## New locations and quest events
 
@@ -206,8 +208,8 @@ story-local proposals under the exact entries below.
   distributed mutual failsafe against coupled root authority. They assigned
   timing custody to route custodians and junction custody to graft keepers so
   one practice would not hold both. Its hub has six sockets around the
-  person-sized Unwritten Axis, the Astrolabe above, and a round Latch mounting
-  recess below; the unseated Latch begins in a cradle three exposed
+  Unwritten Axis, the Astrolabe above, and a Latch mounting recess below; the
+  unseated Latch begins in a cradle three exposed
   body-lengths away. At the Axis, the Absolute
   Yoke finds no address in lifelong non-user Faris, but neither the recess nor Faris
   is immune to direct magical or physical harm. During extinction, the
@@ -222,7 +224,7 @@ story-local proposals under the exact entries below.
   topical target:** `universe/locations.md`.
 
 - **AAD-10 — Talarum Steps rescue (proposed).** **Fact:** Nine years before the
-  Array event, a corrupted Tessellate Grace pavement at the Talarum Steps holds
+  Array event, a coercive Tessellate Grace pavement at the Talarum Steps holds
   forty-three pilgrims in compulsory worship. Faris mistakenly trusts a blank
   tile, a captive points out an ordinary maintenance pin, Seyathi suspends the
   compulsion for one breath, and Faris removes the pin with his sandal buckle,
@@ -283,7 +285,8 @@ story-local proposals under the exact entries below.
 
 - **AAD-14 — Keruvan Fold sanctuary breach and bargain (proposed).** **Fact:**
   Four years before the Array event, Faris steals Unhatched Form and Mortal
-  Latch because patrons use Kindred Graft on captive people. The Latch is in
+  Latch because patrons use Kindred Graft to make consent a ceremony performed
+  after cutting. The Latch is in
   graft-keeper custody because the six-practice Array engineers assigned its
   preserve-matter selector to that tradition. Jelveth pursues
   him through a sanctuary of chosen exchanged faculties. Faris cuts a
@@ -295,7 +298,7 @@ story-local proposals under the exact entries below.
   theft, material repair, exposure, and bargain in the Keruvan Fold.
   **Constraints and dependencies:** That custody explains the Latch's location
   but does not make Faris's initial theft lawful or establish a universal
-  keeper office. The patrons, captives, law, broader Fold, sanctuary's later
+  keeper office. The patrons, affected people, law, broader Fold, sanctuary's later
   state, and universal graft policy remain unspecified.
   Depends on AAD-06, AAD-21, AAD-27, and AAD-28. **Provenance:**
   `05-story.md`, Keruvan flashback. **Proposed disposition:** `PROPOSE ADD,
@@ -416,8 +419,9 @@ story-local proposals under the exact entries below.
   load-bearing exchange fails. Unhatched Form stores possible exchanges, and
   Jelveth's root act can close that reservoir while selecting `end function;
   preserve matter`. Extinction preserves completed material bodies and
-  identities while ending impossible faculties, shared senses, storage
-  organs, keeper awareness, and forced hybrid functions. **Exact local scope:**
+  identities while ending the Unhatched Form's stored possible exchanges,
+  impossible faculties, shared senses, keeper awareness, forced hybrid
+  functions, and Kindred Graft reserves. **Exact local scope:**
   Kindred Graft bodies, keepers, sanctuary, reservoir, and hybrids shown or
   reached in this story. **Constraints and dependencies:** Some bodies
   materially dependent on a lost faculty die, but no universal survival rule
@@ -448,7 +452,7 @@ story-local proposals under the exact entries below.
   origin, fuel, substance, ancestry, language, or operation, and it does not
   classify magic in earlier eras or other realities. Depends on AAD-16 through
   AAD-21, AAD-23 through AAD-35. **Provenance:** `05-story.md`, opening's six
-  wonders, six arming returns, six derivative attacks, six extinction
+  wonders, the uninterrupted final six-choice arming sequence, six derivative attacks, six extinction
   grammars, and explicit no-seventh statement. **Proposed disposition:**
   `PROPOSE ADD WITH TERMINAL-ERA QUALIFIER`. **Suggested smallest topical target:**
   `universe/rules.md`.
@@ -491,7 +495,7 @@ story-local proposals under the exact entries below.
   was born. Faris recovers it from a poachers' buyer, returns it to Qeluun, and
   accepts it back in entrusted terminal custody. Qeluun must personally align
   it; it carries one Worldcoil terminal change, becomes dust while arming, and
-  later scatters without responding to Qeluun's fear. **Exact local scope:**
+  answers nothing after extinction. **Exact local scope:**
   This one shed bodily relic and its Worldcoil alignment. **Constraints and dependencies:**
   It grants Faris no weight control or protection, acts only through Qeluun,
   and leaves no magical bone, pulse, or recovery seed. Depends on AAD-05,
@@ -506,8 +510,8 @@ story-local proposals under the exact entries below.
   authority over Inward Fire. Before arming, Hurzai partially narrows them to
   test the Yoke's cross-root rerouting, then reopens them. Turned outward once
   by Hurzai, they reverse that
-  authority, receive active hostile fire, fuse around the socket, and finish as
-  two dead lumps of alloy after stored heat escapes ordinarily. **Exact local scope:**
+  authority, receive active hostile fire, fuse around the socket, and soften
+  into dead alloy after stored heat escapes ordinarily. **Exact local scope:**
   This one Inward Fire keystone, bargain, and terminal inversion.
   **Constraints and dependencies:** It does not burn, choose, speak, protect
   generally, or operate without Hurzai's living act, and it retains no root or
@@ -522,7 +526,7 @@ story-local proposals under the exact entries below.
   been a person. Faris steals it, then receives lawful custody through
   Jelveth's public bargain. Jelveth closes it under the preserve-matter
   selector; its synchronized reversal ends Kindred Graft reserves and the Form
-  denatures into inert protein ash. **Exact local scope:** This one Kindred
+  becomes protein ash. **Exact local scope:** This one Kindred
   Graft keystone, its reservoir, custody, and terminal closure. **Constraints and dependencies:**
   It cannot choose bodies, speak, consent, reset identity, or restore a form,
   and no viable magical tissue or possibility remains. Depends on AAD-06,
@@ -534,8 +538,9 @@ story-local proposals under the exact entries below.
 - **AAD-28 — Mortal Latch (proposed).** **Fact:** Mortal Latch is a nonliving
   terminal junction built with the Array and Parity Astrolabe by unnamed
   engineers delegated from all six practices three hundred and two years
-  before the terminal event. It comprises a ceramic bearing, iron lever, six
-  insulated plungers, selector plate, and removable ordinary iron cotter. The
+  before the terminal event. Its shown parts include a ceramic bearing, lever,
+  six plungers, selector plate, housing, removable ordinary cotter, and
+  insulation that holds the armed outputs apart. The
   engineers assign it to graft-keeper custody because its selector protects
   material bodies. Faris steals it at Keruvan when it is two hundred and
   ninety-eight years old, then receives lawful custody. At the Array it begins
@@ -563,8 +568,8 @@ story-local proposals under the exact entries below.
   not to spend on themself, and they freely give it to Faris as a rescue gift.
   The Arc, rather than the Astrolabe, visibly lifts after the fifth arming.
   Ekkorath's terminal counter-flight charges it at the sixth socket; the
-  synchronized reversal empties its one circuit, cracks it along its length,
-  and leaves ordinary horn with no second flight. **Exact local scope:** This
+  synchronized reversal empties its one circuit, cracks it into ordinary horn,
+  and leaves no second flight. **Exact local scope:** This
   one Horizon Flight keystone, gift, circuit, and terminal use. **Constraints
   and dependencies:** It grants Faris no flight, opens no route on its own,
   chooses no circuit, and retains no stored distance. Depends on AAD-07,
@@ -589,8 +594,8 @@ story-local proposals under the exact entries below.
   universal translator, truth detector, common magical grammar, authority, or
   decision-maker; it neither arms a system nor retains a reproducible pattern.
   Depends on AAD-07, AAD-09, AAD-15, AAD-22 through AAD-29, and AAD-32 through
-  AAD-35. **Provenance:** `05-story.md`, Skairrift recovery, six arming
-  returns, cotter release, and extinction. **Proposed disposition:** `PROPOSE
+  AAD-35. **Provenance:** `05-story.md`, Skairrift recovery, the uninterrupted
+  final six-choice arming sequence, cotter release, and extinction. **Proposed disposition:** `PROPOSE
   ADD`. **Suggested smallest topical target:** `universe/rules.md`.
 
 ## Opposition and terminal event
@@ -608,7 +613,7 @@ story-local proposals under the exact entries below.
   cities, crossings, bodies, gods, and magical care functioning by making
   disobedience impossible. Every magical defense gives it a cleaner route into
   that system, and each branch contains all six stolen adapter patterns. It
-  loses every borrowed face and becomes dust when the six
+  loses every borrowed face and disperses when the six
   source systems end. **Exact local scope:** This coalition, hybrid coercive
   structure, assault, and offer at the Array. **Constraints and dependencies:**
   The prose establishes no named founder or leader, seventh source, independent
@@ -637,15 +642,15 @@ story-local proposals under the exact entries below.
   unanimous world consent. Five participants know the full request and are
   complicit in not supplying its scope to Seyathi; her information remains
   limited as stated in AAD-36. Depends on AAD-02 through AAD-08, AAD-16 through AAD-30, AAD-31,
-  and AAD-36. **Provenance:** `05-story.md`, six present returns and
-  continuous attack. **Proposed disposition:** `PROPOSE ADD`. **Suggested smallest topical target:** `universe/timeline.md`.
+  and AAD-36. **Provenance:** `05-story.md`, the uninterrupted final arming
+  sequence and continuous attack. **Proposed disposition:** `PROPOSE ADD`. **Suggested smallest topical target:** `universe/timeline.md`.
 
 - **AAD-33 — ordinary cotter release and declaration (proposed).** **Fact:**
   Faris lifts Mortal Latch from its cradle with selector already fixed and its
   bearing, plungers, lever, and cotter still in their opening states. He crosses
   three exposed body-lengths, seats and twists the bearing flush below the Axis,
-  presses and braces the six insulated plungers short of contact, inserts an
-  ordinary iron cotter through all six, and turns the hand lever ninety degrees
+  presses the six plungers short of contact, braces the housing, inserts an
+  ordinary cotter through all six, and turns the lever ninety degrees
   to load them against it. When the Astrolabe's sixth needle meets the other
   five, he pulls the cotter while saying exactly `No More Magic`.
   The words cause nothing; the physical release drops the six plungers into
@@ -781,9 +786,10 @@ honorific, nickname, additional title-as-name, or crossover identity appears.
 ## New glossary terms or aliases
 
 - **AAD-37 — terminal-era proper-noun bundle (proposed).** **Fact:** Candidate
-  local terms comprise the four structure/opposition labels, six quest-place
-  labels, six system labels, and eight relic labels enumerated in the reviewed
-  prose allowlist, with their meanings bounded by AAD-09 through AAD-31.
+  local proper-noun terms comprise four structure/opposition labels, six
+  quest-place labels, six system labels, and eight relic labels, with their
+  meanings bounded by AAD-09 through AAD-31. The reviewed prose allowlist also
+  classifies the declaration, engraved instructions, and capitalized dialogue.
   **Exact local scope:** The vocabulary of this standalone terminal-era story.
   **Constraints and dependencies:** These terms do not imply character status,
   shared magical ancestry, universal taxonomy, relationship to an admitted
