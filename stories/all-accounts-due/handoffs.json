@@ -673,6 +673,38 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 25,
+      "story": "all-accounts-due",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T22:51:48.0156559+00:00",
+      "completedAt": "2026-08-05T23:19:00.0028764+00:00",
+      "guardId": "c0671d58c9004debae45ddf344820f0c",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_FINAL\nguard_id: c0671d58c9004debae45ddf344820f0c\ncurrent_stage: final-review\nchanged_outputs: stories/all-accounts-due/05-story.md; stories/all-accounts-due/06-canon-delta.md\nfinding_disposition: RESOLVED — implemented every assigned external-review finding covering final attribution and syntax, Mortal Latch blocking and state, Array and Faris falling, the 31/9/4-year chronology, Hurzai’s all-roots test, five-patron knowledge and complicity, Seyathi’s credible incomplete understanding, engineer and opposition provenance, Malrec’s aging cost and armed failsafe, fifth-arming relic trigger, opening injury payoff, casualty accounting, dialogue differentiation, ritual rhythm, concrete world-scale evidence, and protected ending controls.\nprose_word_count: 5,547; exactly six flashbacks total 3,203 words, approximately 57.7%.\ndelta_item_count: 37 preserved; 37 unique sequential IDs.\nname_result: PASS — strict Final story-names/3 check passed with zero warnings and zero errors; exhaustive seven-character inventory and exact three-column 27-row non-character allowlist preserved; no new character-facing names.\nconsistency_result: PASS — immutable frontmatter is unchanged; Latch location, bearing, selector, plungers, cotter, lever, seating, loading, and release track continuously; all unsupported magical suspension ends, including the Array; prose and delta agree on chronology, provenance, complicity, costs, casualties, terminal mechanics, personhood, permanence, and scope; authority remains `none`, delta status remains `proposal only`, and promotion remains unauthorized.\nscope_check: PASS — only stories/all-accounts-due/05-story.md and stories/all-accounts-due/06-canon-delta.md changed; `git diff --check` passed.\nchange_report: Revised the final story comprehensively while preserving close-third past tense, all existing names and forms, the exact `No More Magic` declaration, target length, six-flashback architecture, every required relic and favor, permanent present-material-world extinction, Faris’s lifelong nonmagical status, and the exact final line `Nothing moved. Nothing answered.` Reconciled every changed reusable fact into the existing 37 delta entries with exact local scope, constraints, dependencies, provenance, disposition, and target. No review, registry, lifecycle, index, release, authority, handoff, universe, prompt, plan, or draft file was changed.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
