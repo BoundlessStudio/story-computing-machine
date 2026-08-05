@@ -1,1 +1,13 @@
-{"schemaVersion":2,"slug":"the-hollow-cask","title":"The Hollow Cask","created":"2026-08-05","stage":"final-review","status":"in-progress","canon":false,"userDisposition":"pending","publish":false,"promotionDate":null,"provenance":"pipeline"}
+{
+  "schemaVersion": 2,
+  "slug": "the-hollow-cask",
+  "title": "The Hollow Cask",
+  "created": "2026-08-05",
+  "stage": "candidate",
+  "status": "candidate",
+  "canon": false,
+  "userDisposition": "pending",
+  "publish": false,
+  "promotionDate": null,
+  "provenance": "pipeline"
+}
