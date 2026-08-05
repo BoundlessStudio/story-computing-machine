@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 6
-- Verdict: PASS
+- Review pass: 7
+- Verdict: REVISE
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 0
-- Updated: 2026-08-05T15:07:42.8368842Z
+- Unresolved Major findings: 2
+- Updated: 2026-08-05T23:28:59.1349167Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -69,6 +69,107 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only initial draft review; no repository files changed. The approximately 3,450-word draft fulfills the prompt in a bounded Gannet Reach crisis: every connected gauge and twenty-seven independently tested practitioners across five trades read zero, attempted living-powered workings fail, outside evidence remains limited, and the cause, duration, and wider reach stay unknown. Faris remains lifelong nonmagical; her past help yields freely renegotiated aid from Uma and Zeke, Tycho's technical collaboration, and separately limited artifacts whose mechanical or informational properties—not autonomous magic—enable access, mapping, rigging, and communication failure. Refusals materially improve evacuation, barge position, load limits, stop authority, rotations, and the renewed climax plan. The gate sequence otherwise tracks water pressure, direct-pull shear risk, counterweight unloading, sling creep, a lower-rated choke, measured pull increments, guide clearing, braking, gravity drainage, and irreversible wet-room damage. Close-third past tense stays fixed on Faris; all six scenes turn through changed leverage or action; pacing is controlled; Faris, Tycho, Uma, and Zeke retain distinct planned conversational logic and tactic changes; Teen limits hold; and only those four registered character-facing names appear. Two Minor clarity defects remain for final editing: the safety catch and rope direction need explicit load-path continuity, and one sentence inverts Faris's lifelong-zero floor metaphor. Neither defect requires a canon ruling, retcon, material prompt reinterpretation, or draft revision gate, so the draft passes with zero unresolved Critical and Major findings and remains ineligible for final certification until the later final review."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 7 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 7,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T23:28:59.1349167Z",
+  "reviewBasis": "Independent read-only final pass-7 review under guard 6a73e2fce9ae4edb8d1f028cd6bac77a of current 05-story.md SHA-256 83CF467AD5DA22EC6D2641F6F9FBAA775624C82E22C550F5AC7E8693F1420701 and revised 06-canon-delta.md SHA-256 361BFB9B563D109B6D92638CEEB0F967FB2FEB0E4A179A5AA678F610E2B691F4 after completed sequence-25 REVISE_FINAL. Reviewed the revised prompt contract, lifecycle record, current canon brief, scene-ready plan and planned dialogue profiles, passing replacement draft, complete official review history through pass 6, authority inventory captured from main at b0f0453d290dd8dae270031eea6036da97832c1f, ordered v3 handoff ledger through sequence 25, current character-name registry, all routed writing, voice, character-voice, dialogue, and dialogue-review guidance, and the external pasted critique as non-authoritative revision input. Rechecked current LOCKED/CANON authority governing deep-time chronology, independent systems, living magical agency, local costs and consent, artifacts, names and declarations, divinity, crossings, afterlife limits, personhood, Teen treatment, and evidence discipline; universe authority remains unchanged from the captured base and the checkpointed worktree is clean. Independently audited prompt fulfillment, chronology and arithmetic, Mortal Latch state and blocking, Array and hub free-fall, engineer/failsafe and Ascendancy/Yoke provenance, all-roots necessity, the five informed patrons' complicity, Seyathi's credible but uninformed voluntary act, Malrec's cost and armed failsafe, casualty accounting, artifact boundaries, personhood, permanent material-world scope, declaration causality, dialogue differentiation and rhythm, pacing, exact ending, all seven character-facing identities, the 27-row three-column allowlist, and all 37 sequential delta items. The strict Final story-names/3 check passed at 2026-08-05T23:22:22.1255915+00:00 with zero warnings and zero errors.",
+  "verdict": "REVISE",
+  "blockType": null,
+  "resolutionOwner": "story_editor",
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 2,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/all-accounts-due/05-story.md:291-297 of the rejected bounded version, the capstan holds the counterweight while Faris retracts and locks the safety catch before the brake eases, then pays line out through the quay sheave toward the descending counterweight. The historical disposition remains resolved; none of that version's setting, cast, or mechanism survives in the replacement final."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded final corrected its lifelong-zero metaphor before pass 2. The historical disposition remains resolved; the current replacement independently establishes at stories/all-accounts-due/05-story.md:11, 35, and 369-371 that Faris has never had magic, receives no hidden capacity, and remains normally vulnerable to magical and physical harm."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version's revised delta removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. That historical finding remains resolved, and none of its 17 delta items or creative content survives in the current 37-item replacement delta."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:289-325 consistently uses `themself`, `they`, and `their` for Ekkorath, matching the plan, registry row, and final inventory at stories/all-accounts-due/06-canon-delta.md:731-739. Faris remains he/him throughout."
+    },
+    {
+      "id": "AAD-FINAL-002",
+      "priorPass": 5,
+      "resolvedInPass": 6,
+      "disposition": "RESOLVED",
+      "evidence": "Current AAD-03 at stories/all-accounts-due/06-canon-delta.md:93-109 assigns coup exposure to the rescued young; AAD-06 at lines 147-163 assigns the written-order exposure to Faris while retaining Jelveth's demonstrated actions; AAD-10 at lines 224-239 preserves Seyathi's invitation to ask and fresh agreement; AAD-20 at lines 395-410 contains no unsupported `lawfully` qualifier; and AAD-22 at lines 432-454 now has direct final-prose support for its local all-roots counterfactual in stories/all-accounts-due/05-story.md:221-233."
+    }
+  ],
+  "findings": [
+    {
+      "id": "AAD-FINAL-003",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "canon-delta final-prose evidence exactness",
+      "locations": [
+        "stories/all-accounts-due/05-story.md:9-15",
+        "stories/all-accounts-due/05-story.md:239-283",
+        "stories/all-accounts-due/05-story.md:383-397",
+        "stories/all-accounts-due/06-canon-delta.md:203-221",
+        "stories/all-accounts-due/06-canon-delta.md:412-430"
+      ],
+      "evidence": "Two revised delta items still import facts not established by the release-facing prose. AAD-09 calls the Unwritten Axis `person-sized` and the Mortal Latch mounting recess `round`; 05-story.md establishes the Axis, six surrounding sockets, a mounting recess three body-lengths from the Latch, and the bearing seating beneath the Axis, but never establishes the Axis's dimensions or the recess's shape. AAD-21 says extinction ends Kindred Graft `storage organs`; the final establishes that Unhatched Form stores possible exchanges and that extinction ends impossible faculties, shared senses, keeper awareness, hybrids, reserves, and restoration, but it introduces no plural storage-organ component. These plan-level or newly inferred details would become unsupported canon proposals if AAD-09 and AAD-21 were promoted as written.",
+      "requiredResolution": "Revise AAD-09 to remove `person-sized` and `round`, or deliberately establish those physical facts in 05-story.md. Revise AAD-21 to name only the demonstrated Unhatched Form reservoir, stored possible exchanges, faculties, shared senses, keeper awareness, hybrids, and reserves, or add direct final-prose evidence for distinct storage organs. Re-audit all 37 facts against current 05-story.md while preserving their sequential IDs, local scopes, constraints, dependencies, provenance, dispositions, targets, authority-none status, and promotion prohibition.",
+      "owner": "story_editor"
+    },
+    {
+      "id": "AAD-FINAL-004",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "prompt-controlled continuous-climax proportion and pacing",
+      "locations": [
+        "stories/all-accounts-due/00-prompt.md:19-27",
+        "stories/all-accounts-due/02-story-plan.md:15",
+        "stories/all-accounts-due/02-story-plan.md:101-108",
+        "stories/all-accounts-due/02-story-plan.md:161-202",
+        "stories/all-accounts-due/05-story.md:25-325",
+        "stories/all-accounts-due/05-story.md:327-417"
+      ],
+      "evidence": "The captured control requires the final roughly 35-45% of the prose to return continuously to the present for the extended declaration climax and immediate goddess realization; the plan correspondingly budgets about 1,950 words for the unbroken climax plus 140 for Seyathi. In the 5,547-word final, the uninterrupted final return begins only at `Now Ekkorath faced the sixth socket` after the sixth flashback and contains approximately 1,377 words, 24.8% of the prose; the assault beginning at line 327 contains approximately 1,225 words, 22.1%. The sequence-25 report's 3,203-word/57.7% figure groups interleaved present arming returns with the six quest blocks and therefore does not establish the required continuous-final share. The flashback memories themselves remain approximately 3,010 words and roughly satisfy their 55-65% control, but too much of the remaining allocation is spent in the 386-word opening and five earlier interleaved present returns, leaving the explicitly controlled continuous climax materially short.",
+      "requiredResolution": "Rebalance or restructure the prose so that, after the sixth and final flashback, the uninterrupted present-time arming, assault, declaration, extinction spectacle, and Seyathi realization occupy roughly 35-45% of the complete 4,500-6,000-word story. Preserve exactly six substantial flashbacks at roughly 55-65%, all six renewed choices and causal payoffs, the clarified all-roots proof, Mortal Latch blocking, free-fall physics, casualty accounting, Teen ceiling, exact `No More Magic` causality, and the absolute endpoint `Nothing moved. Nothing answered.` Reconcile every resulting reusable fact and location in the 37-item delta.",
+      "owner": "story_editor"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only pass-7 final review; no repository file was changed. The sequence-25 revision successfully resolves the external critique's principal prose defects: the final attribution and italicized `only` are unambiguous; the Mortal Latch's cradle, selector, bearing, plungers, lever, cotter, seating, loading, and release track continuously; the 31/9/4-year chronology is explicit; Worldcoil and the world-curves no longer exempt the Array, Faris, Seyathi, or mechanism from open fall; six-practice engineer custody explains the Array, Astrolabe, and Latch; the Ascendancy and Yoke receive credible provenance and motive; Hurzai tests and argues the all-roots necessity; five informed patrons knowingly share responsibility for concealing scope while Seyathi acts credibly through trust without informed extinction consent; Malrec's aging cost and armed one-way failsafe are established; casualties are expressly counted without graphic treatment; Faris's metronomic quips and the patrons' shared maxim register are materially differentiated; and the exact hard ending remains untouched. Chronology, mechanics, declaration causality, worldwide permanent material-world scope, personhood, afterlife boundaries, artifact terminality, originality, Teen treatment, all seven registered character identities, the 27-row allowlist, and the 37 unique sequential delta IDs otherwise pass. Certification remains ineligible because AAD-FINAL-003 leaves unsupported facts in two delta items and AAD-FINAL-004 leaves the prompt-controlled uninterrupted final climax materially below its required proportion. Both are production-resolvable by the story editor without canon ruling, retcon, material prompt reinterpretation, or new user authority."
 }
 END_REVIEW_PASS_PAYLOAD
 
