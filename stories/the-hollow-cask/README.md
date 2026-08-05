@@ -2,7 +2,7 @@
 
 - Slug: `the-hollow-cask`
 - Created: 2026-08-05
-- Current stage: draft-review
+- Current stage: final-edit
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -22,8 +22,8 @@ each stage. Specialist agents do not edit it. -->
 - [x] Complete draft written
 - [x] Draft review passed
 - [x] Critical and major findings resolved
-- [ ] Final story written
-- [ ] Canon delta recorded
+- [x] Final story written
+- [x] Canon delta recorded
 - [ ] Final story review passed
 - [ ] Final name check passed
 - [ ] Name registry updated

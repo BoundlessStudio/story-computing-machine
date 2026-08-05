@@ -107,6 +107,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "the-hollow-cask",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T17:22:55.7265085+00:00",
+      "completedAt": "2026-08-05T17:34:23.9348057+00:00",
+      "guardId": "8fe1f5f9d4d84a9486391640de6c1ba1",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: the-hollow-cask\nmode: CREATE_FINAL\nguard_id: 8fe1f5f9d4d84a9486391640de6c1ba1\ncurrent_stage: draft-review\noutputs: stories/the-hollow-cask/05-story.md; stories/the-hollow-cask/06-canon-delta.md\nword_count: 3343 prose words\nfinding_disposition: THC-DRAFT-001 RESOLVED — normalized the maintenance-book wording from the split `the under breath` form to the registered `the Underbreath` form; no alias or additional registry form is introduced.\ndelta_item_count: 20\nname_inventory_result: PASS — exhaustive final character-facing forms are Agnes Wold, Agnes, Silas Cray, Silas, and the Underbreath.\nname_allowlist_result: PASS — the exact three-column reviewed-prose allowlist contains the nonliving pub label `Hollow Cask` and five extracted chalk or maintenance-book labels; story-names/3 passed with zero warnings and zero errors.\nvalidation_result: PASS — immutable title, slug, and creation-date frontmatter match story.json; all twenty sequential delta items contain exact local scope, constraints and dependencies, final-prose evidence, proposed disposition, and smallest topical target; fast story-branch validation passed.\nscope_check: PASS — only stories/the-hollow-cask/05-story.md and stories/the-hollow-cask/06-canon-delta.md changed; git diff --check is clean.\nchange_report: Created the release-facing final from the passing reviewed draft, preserving its prompt fulfillment, close-third past-tense voice, planned dialogue profiles, tactile rural-gothic restoration, bounded living agency, load-path causality, non-graphic peril, and complete humane resolution while resolving only THC-DRAFT-001. Replaced the delta placeholder with a complete authority-none, proposal-only inventory of every reusable final-prose fact, including local scope, evidence, constraints, dependencies, dispositions, smallest topical targets, exhaustive names, and reviewed non-character labels. No registry, review, lifecycle, metadata, index, release, promotion, handoff-ledger, or universe file was edited; no promotion or retcon occurred.\nstale_precondition: none",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-hollow-cask/00-prompt.md",
+        "stories/the-hollow-cask/01-canon-brief.md",
+        "stories/the-hollow-cask/02-story-plan.md",
+        "stories/the-hollow-cask/03-draft.md",
+        "stories/the-hollow-cask/04-review.md",
+        "stories/the-hollow-cask/authority.json",
+        "stories/the-hollow-cask/handoffs.json",
+        "stories/the-hollow-cask/story.json"
+      ],
+      "outputs": [
+        "stories/the-hollow-cask/05-story.md",
+        "stories/the-hollow-cask/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
