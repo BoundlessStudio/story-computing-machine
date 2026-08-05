@@ -335,6 +335,34 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 13,
+      "story": "all-accounts-due",
+      "actor": "story_architect",
+      "mode": "REVISE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-05T12:08:52.9793791+00:00",
+      "completedAt": "2026-08-05T12:23:12.5200411+00:00",
+      "guardId": "f7a158ebff54438daf468299e2222dbc",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_PLAN\nguard_id: f7a158ebff54438daf468299e2222dbc\ncurrent_stage: planning\nchanged_output: stories/all-accounts-due/02-story-plan.md\nname_inventory: PASS — Faris; Malko Durev/Malko; Ishbel Rann/Ishbel; Ossun; Brameth Caum/Brameth. All forms manually checked; no unresolved collision. Tycho, Uma, and Zeke remain excluded prior-version reservations.\nproper_noun_inventory: PASS — Drenovar; Voln Plateau/Voln; Aruq Saltlands/Aruq; Oltin Coast/Oltin; Common Tally; Open Days; Bearing Census; Copper Relay; Provision Assembly; Drenovar Turnworks; Exchange Hall; Siltwinter; Aruq Refusal; Nine-Depot Fire; kilnvoice; wheelshare; bloomcall; nerethi; pluun; four audited artifact labels. No external exact occurrence or renamed canon analogue found.\ncontinuity_choices: Standalone terminal era after all admitted magic-active histories; prose contains no prior-era or cross-story reference. Four unrelated original magical systems permanently cease worldwide without implying common ontology. Earlier acts and personhood remain real; no magic survives through artifacts, gods, technology, hidden reserves, or restoration.\nchange_report: Completely replaced the rejected crossover plan with a 5,400-word-target, seven-scene epic/elegiac architecture using an original cast, calendar, history, communities, institutions, systems, species, crises, relationships, and artifacts. Faris receives an eighteen-year early/middle/recent service history and an arc from collectible debt to freely renewed cooperation. The climax irreversibly distributes people, water, seed, pollinators, knowledge, routes, and accountable custody while magic remains permanently absent. Includes full system and artifact audits, causal world evidence, dialogue profiles, tactic changes, chronology boundaries, exhaustive names, and proper-noun collision checks. Verification passed: only stories/all-accounts-due/02-story-plan.md changed; 209 lines; git diff check clean.",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
