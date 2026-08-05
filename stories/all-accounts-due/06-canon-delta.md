@@ -15,19 +15,21 @@ universal mana ontology, global outage, or cause of the event is proposed.
 ## New characters or character facts
 
 - **AAD-01 — Faris (proposed).** **Fact:** Faris is the close-third viewpoint,
-  a lifelong nonmagical courier and practical neighborhood fixer in Gannet
-  Reach. Her maximum-mana ceiling has never risen above zero, with no hidden
-  capacity or later awakening. Past help has left her with a notebook of
+  a lifelong nonmagical resident of Gannet Reach who handles practical problems
+  for other people. Her maximum-mana ceiling has never risen above zero, with
+  no hidden capacity or later awakening. Past help has left her with a notebook of
   favors, useful access, relationships, and individually limited objects. In
   the flood emergency she identifies the obsolete relief route, accepts
   others' refusals and safety limits, asks the team to choose the changed plan
   again, works the gate's mechanical releases by hand, and accepts continuing
   reciprocal work rather than treating help as a settled debt.
-  **Exact local scope:** Faris's identity, history, holdings, choices, and relationships in
-  this story. **Constraints:** Her nonmagical status is ordinary fact, not
+  **Exact local scope:** Faris's identity, history, holdings, choices, and
+  relationships in this story. **Constraints:** Her nonmagical status is ordinary fact, not
   immunity, destiny, a severance effect, a dormant faculty, or a social form of
-  magic. Her notebook creates no compulsion or enforceable claim. No surname,
-  nickname, proper title, or crossover is established. **Dependencies:**
+  magic. Her notebook creates no compulsion or enforceable claim. Delivering
+  medicine and other practical help does not establish `courier` as her
+  profession. No surname, nickname, proper title, or crossover is established.
+  **Dependencies:**
   AAD-02 through AAD-05 and AAD-08 through AAD-16. **Provenance:**
   `stories/all-accounts-due/05-story.md`, authority none unless explicitly
   promoted. **Proposed disposition:** `PROPOSE ADD, CHARACTER-LOCAL`.
@@ -56,7 +58,7 @@ universal mana ontology, global outage, or cause of the event is proposed.
   lower channel, then freely offers her barge, upper-quay capstan, and six crew
   under a twelve-hundredweight wet-line ceiling, no-shock-load condition, and
   immediate halt authority. She devises the lower-rated mundane choke hitch
-  after the inert stormweave sling slips. **Exact local scope:** Uma, her crew,
+  after the first doubled-basket rig slips. **Exact local scope:** Uma, her crew,
   barge, prior interaction with Faris, and negotiated participation in this
   incident. **Constraints:** Gratitude never transfers control of Uma or her
   crew to Faris; Uma's load ceiling and stop signal remain operative through
@@ -67,14 +69,16 @@ universal mana ontology, global outage, or cause of the event is proposed.
   promoted. **Proposed disposition:** `PROPOSE ADD, CHARACTER-LOCAL`.
   **Suggested smallest topical target:** `universe/characters.md`.
 
-- **AAD-04 — Zeke (proposed).** **Fact:** Zeke is a clinic steward whom Faris
-  previously helped by organizing hand-carried cold boxes during an earlier
-  breakdown. He refuses to abandon patients for the gate attempt, organizes an
-  uphill evacuation, invites off-duty volunteers without compelling them,
-  supplies stretchers and bandages, treats an injured worker, rotates exhausted
-  hands, and reaches the throat only after moving with the last clinic patients.
-  **Exact local scope:** Zeke's clinic role, prior interaction with Faris, and
-  choices during this local emergency. **Constraints:** His refusal is honored;
+- **AAD-04 — Zeke (proposed).** **Fact:** Zeke acts with practical authority at
+  the Lowbank clinic, where Faris previously helped organize hand-carried cold
+  boxes during an earlier breakdown. He refuses to abandon patients for the
+  gate attempt, organizes an uphill evacuation, invites off-duty volunteers
+  without compelling them, supplies stretchers and bandages, treats an injured
+  worker, rotates exhausted hands, and reaches the throat only after moving
+  with the last clinic patients. **Exact local scope:** Zeke's demonstrated
+  clinic actions, prior interaction with Faris, and choices during this local
+  emergency. **Constraints:** The final story does not establish `clinic
+  steward` or any other formal title for Zeke. His refusal is honored;
   he does not treat patients as losses, order off-duty people into danger, or
   convert Faris's past help into a debt. No surname, nickname, proper title,
   magical healing capability, or crossover is established. **Dependencies:**
@@ -161,12 +165,15 @@ additional character-facing form appears.
 - **AAD-08 — Reach maximum-mana calibration practice (proposed).** **Fact:**
   Gannet Reach practitioners use `maximum mana` for the most power a living
   user can presently feed into the settlement's conductive workings. The
-  measured ceiling informs shift assignments, safe loads, and bills, and local
-  tests include connected wrist gauges, a municipal account board, and copper-
-  leaf hand testers activated by a regulated living pulse.
-  **Exact local scope:** Gannet Reach's municipal terminology, measurements, and uses during
-  this story. **Constraints:** A zero reading shows no power accessible through
-  these methods; it does not distinguish destroyed capacity from blockage,
+  measured ceiling informs shift assignments, safe loads, and bills. The final
+  story shows Faris's single wrist gauge, a municipal account board with black
+  needles, and three hand testers whose copper leaves should open at a regulated
+  living pulse. **Exact local scope:** Gannet Reach's stated terminology and
+  uses, plus only those instruments and test behavior shown or counted during
+  this incident. **Constraints:** The story does not establish plural or
+  connected wrist gauges, the board's connection architecture, or every Reach
+  testing practice. A zero reading shows no power accessible through the shown
+  methods; it does not distinguish destroyed capacity from blockage,
   suppression, disconnection, sleep, or another inaccessible state. This is
   not an objective or universal taxonomy of magic. **Dependencies:** AAD-01,
   AAD-02, AAD-06, and AAD-09. **Provenance:**
@@ -179,12 +186,15 @@ additional character-facing form appears.
 - **AAD-09 — bounded zero-mana observations (proposed).** **Fact:** On the
   incident morning, every needle on the Reach municipal account board reads
   zero; twenty-seven tested people across five local trades read zero on three
-  hand testers; Tycho cannot produce a regulated pulse; and attempted pump,
-  lamp, lift, docking-ward, clinic-coil, and long-relay workings fail. An
-  upstream flag station reports only that its public workings are dark. Repeat
-  local hand tests and the board still read zero in early afternoon.
-  **Exact local scope:** Tested and connected people and attempted workings in or
-  reported immediately around Gannet Reach during this incident. **Constraints:**
+  hand testers; an adept directly attempts the lift-pump start, a lampwright
+  directly tries a door filament, Tycho directly attempts a regulated test
+  pulse, and the clinic reports that its healer cannot wake a sterilizing coil.
+  Separately, people report powered lifts stalled and the long relay dead; Uma
+  is replacing silent docking wards; and an upstream flag station reports only
+  that its public workings are dark. Repeat local hand tests and the board still
+  read zero in early afternoon. **Exact local scope:** Tested people, board
+  indications, direct attempts, observed conditions, and reports in or
+  immediately around Gannet Reach during this incident. **Constraints:**
   The cause, duration, reversibility, geographic reach, cosmological reach, and
   effects on untested systems or beings remain unknown. The evidence does not
   establish that every being or magical system has one mana supply or that
@@ -200,11 +210,13 @@ additional character-facing form appears.
   throat, designed clearance, and depth marks; those passive records guide the
   team around the flooded lower chamber and through the gate operation.
   **Exact local scope:** This plate and the Lowbank floodworks information
-  engraved on it. **Constraints:** The plate stores no charge, supplies no
-  magic, makes no choice, and establishes no generic property of brass,
-  surveys, or artifacts. Its information is useful only when people interpret
-  it against the installation. **Dependencies:** AAD-01, AAD-07, AAD-14, and
-  AAD-15. **Provenance:** `stories/all-accounts-due/05-story.md`, authority none
+  engraved on it. **Constraints:** The final story establishes no storage state
+  for the plate. It shows and relies only on passive inscriptions interpreted
+  against the installation; the plate does not act, choose, or produce an
+  observed magical effect during the incident. This establishes no generic
+  property of brass, surveys, or artifacts. **Dependencies:** AAD-01, AAD-07,
+  AAD-14, and AAD-15. **Provenance:**
+  `stories/all-accounts-due/05-story.md`, authority none
   unless explicitly promoted. **Proposed disposition:** `PROPOSE ADD,
   ARTIFACT-LOCAL`. **Suggested smallest topical target:** `universe/rules.md`.
 
@@ -225,14 +237,18 @@ additional character-facing form appears.
 - **AAD-12 — stormweave lifting sling (proposed).** **Fact:** Faris possesses
   a nonliving stormweave sling whose braided base fiber remains strong when its
   magical self-tightening fails. A living rigger normally supplies power
-  through its silvered edge; the sling stores no power and does not tighten at
-  zero. Used first in a doubled basket, it creeps and slips; Uma then uses it as
-  ordinary rope in a tight choke backed by two turns, with the lower mundane
-  rating and original twelve-hundredweight cap preserved. **Exact local scope:**
+  through its silvered edge. Tycho's attempted activation produces no
+  tightening during the zero event, while pulling the base fiber by hand still
+  moves a crate. Used first in a doubled basket, it creeps and slips; Uma then
+  uses it as ordinary rope in a tight choke backed by two turns, with the lower
+  mundane rating and Uma's twelve-hundredweight wet-line cap preserved.
+  **Exact local scope:**
   This sling, its separately observed functions, and this counterweight lift.
-  **Constraints:** It cannot activate, move, select a load, or protect users by
-  itself, and its surviving fiber establishes no generic rule that enchanted
-  objects retain useful mundane functions. **Dependencies:** AAD-03, AAD-07,
+  **Constraints:** The final story establishes no storage state for the sling.
+  It shows no magical activation or self-tightening during the incident; the
+  sling does not act, choose, or protect users by itself. Its surviving fiber
+  establishes no generic rule that enchanted objects retain useful mundane
+  functions. **Dependencies:** AAD-03, AAD-07,
   AAD-14, and AAD-15. **Provenance:**
   `stories/all-accounts-due/05-story.md`, authority none unless explicitly
   promoted. **Proposed disposition:** `PROPOSE ADD, ARTIFACT-LOCAL`.
@@ -255,8 +271,8 @@ additional character-facing form appears.
   **Fact:** A direct capstan pull on the water-loaded gate would exceed Uma's
   ceiling, shear the stem, twist the gate, and permanently block the sluice.
   The successful alternative leads a line from the counterweight through the
-  old quay sheave to Uma's barge capstan, uses the inert sling as ordinary
-  rigging, and lifts the counterweight in measured increments to nine
+  old quay sheave to Uma's barge capstan, uses the sling's base fiber as
+  ordinary rigging, and lifts the counterweight in measured increments to nine
   hundredweight. Faris places a safety catch, removes the unloaded maintenance
   dog, clears and aligns the guide shoe, and then deliberately retracts the
   catch while the capstan holds the weight. Under Uma's continuing halt
@@ -276,14 +292,20 @@ additional character-facing form appears.
 ## Timeline events
 
 - **AAD-15 — zero morning and Lowbank flood response (proposed).** **Fact:**
-  On one undated morning before dawn, Reach gauges and attempted workings read
-  or act as zero while runoff rises toward Lowbank's overtopping line. Faris,
-  Tycho, Uma, Zeke, their crews, clinic volunteers, and unnamed residents
-  evacuate patients and low streets, gain access to the obsolete upper throat,
-  and open the relief gate through the bounded mechanical operation in AAD-14.
-  Gravity drains the catchment before the river covers the old outfall enough
-  to defeat the response. **Exact local scope:** This single Gannet Reach
-  morning and the people and infrastructure directly involved. **Constraints:**
+  On one undated morning before dawn, the local zero readings, direct failures,
+  and reported service outages in AAD-09 accumulate while runoff rises toward
+  Lowbank's overtopping line. Zeke organizes the clinic's uphill evacuation and
+  runners; clinic volunteers and unnamed residents move patients and other
+  threatened residents uphill. Uma and her crew rig the upper-quay pull and
+  operate the capstan; Tycho calculates load limits and directs measured
+  movements; Faris secures access and works the gate's mechanical releases,
+  catch, guide, and alignment; Zeke treats the injured worker and manages water
+  and rotations; clinic volunteers and other unnamed helpers maintain the
+  bucket lines and balance wheel. Their coordinated work opens the relief gate
+  through the bounded operation in AAD-14, and gravity drains the catchment
+  before the river covers the old outfall enough to defeat the response.
+  **Exact local scope:** This single Gannet Reach morning and the people and
+  infrastructure directly involved. **Constraints:**
   The response prevents local overtopping but does not restore magic, explain
   the event, prove a world-scale catastrophe, or establish that every Reach
   resident took part. **Dependencies:** AAD-01 through AAD-14. **Provenance:**
