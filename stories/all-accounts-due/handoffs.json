@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "all-accounts-due",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-05T04:53:44.0232248+00:00",
+      "completedAt": "2026-08-05T05:22:15.0699943+00:00",
+      "guardId": "5c0dc2bccb894e2aa845da6ed99e6be4",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: all-accounts-due\nmode: CREATE_PLAN\nauthority_base_commit: b0f0453d290dd8dae270031eea6036da97832c1f\noutput: stories/all-accounts-due/02-story-plan.md\nchange_report: Replaced the placeholder with a complete scene-ready plan covering the bounded mana evidence, voluntary favors, individually limited artifacts, character arc, style and dialogue profiles, six causal scenes with word budgets and tactic changes, stakes, reversals, ending, canon constraints, local inventions, and an exhaustive four-name check.\nname_check: PASS — Faris, Tycho, Uma, and Zeke are fresh unique forms with no unresolved collision.\nresolution_owner: coordinator",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
