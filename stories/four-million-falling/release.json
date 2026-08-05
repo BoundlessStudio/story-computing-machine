@@ -1,1 +1,37 @@
-{"schemaVersion":3,"certified":false,"storySlug":"four-million-falling","certifiedAt":null,"certificationBasis":"pipeline","artifacts":{"story":{"path":"05-story.md"},"canonDelta":{"path":"06-canon-delta.md"}},"review":{"artifact":null,"pass":0,"verdict":"PENDING","reviewer":null,"reviewedAt":null,"reviewBasis":null,"unresolvedCritical":null,"unresolvedMajor":null},"nameCheck":{"story":"four-million-falling","phase":"Final","passed":false,"checkedAt":null,"checkerVersion":"story-names/3","warnings":[]},"dependencies":{"authorityManifest":"authority.json","handoffLedger":"handoffs.json"}}
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "four-million-falling",
+  "certifiedAt": "2026-08-05T04:39:29.7319394+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 3,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-05T04:36:08.0758564Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "four-million-falling",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-05T00:39:29.5540951-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}
