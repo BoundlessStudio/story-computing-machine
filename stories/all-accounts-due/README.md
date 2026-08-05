@@ -2,7 +2,7 @@
 
 - Slug: `all-accounts-due`
 - Created: 2026-08-05
-- Current stage: final-edit
+- Current stage: final-review
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -21,7 +21,7 @@ each stage. Specialist agents do not edit it. -->
 - [x] Plan name check passed
 - [x] Complete draft written
 - [x] Draft review passed
-- [x] Critical and major findings resolved
+- [ ] Critical and major findings resolved
 - [x] Final story written
 - [x] Canon delta recorded
 - [ ] Final story review passed
