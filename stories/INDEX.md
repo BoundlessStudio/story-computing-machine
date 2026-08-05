@@ -5,6 +5,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| `a-friendly-little-game` | *A Friendly Little Game* | in-progress | no | pending | no | — | New story on `codex/story-a-friendly-little-game`. |
 | `the-hollow-cask` | *The Hollow Cask* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `all-accounts-due` | *All Accounts Due* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `four-million-falling` | *Four Million Falling* | candidate | no | pending | no | — | Release-certified story candidate. |
