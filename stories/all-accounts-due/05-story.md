@@ -6,336 +6,376 @@ created: 2026-08-05
 
 # All Accounts Due
 
-The bell above the Lowbank pump house began striking six minutes before dawn. Its hammer was driven by a float, a chain, and the unpleasant persistence of gravity. Faris had repaired it twice. She knew there was no magic in the thing.
+The Ithrom Array hung where six world-curves crossed, and every kind of magic in the material world had come to kill Faris.
 
-The pumps were silent.
+He crouched behind a broken brace with blood in one eye and no protection except ordinary stone. Around the Unwritten Axis, six empty sockets waited in a ring. The eight relics he had spent thirty-one years gathering lay between them: six keystones, the Parity Astrolabe suspended on a brass hook above, and the Mortal Latch clamped beneath. Beyond the hub, distances folded and unfolded. A city walked on luminous legs. Black fire ate inward through a fortress without touching its walls. Dragons stitched horizons together. Palaces occupied three skies at once. An aurora tightened around a falling mountain and held it up. Far below, soldiers traded eyes, lungs, and wings as casually as knives.
 
-By the time she reached the catchment wall, runoff had covered the lowest red mark and was licking at the second. Usually the lift-pumps made the bricks tremble under her boots. This morning she heard only the bell, water slapping stone, and the voices of people discovering that the rules they had built their mornings around had gone missing.
+Through all six wonders descended the Absolute Yoke. Its bands had no single color. They borrowed whichever power they crossed, turning grace into command, fire into appetite, flight into pursuit, rooms into prisons, weight into chains, and living gifts into forced flesh. At their meeting point, the Bound Ascendancy wore a tall body made from all six.
 
-Faris pushed through the pump-house door. Her wrist gauge knocked against the frame. Its needle rested where it had rested all her life: zero.
+“Leave the Latch,” it said through a hundred conscripted mouths. “There can still be order.”
 
-On the municipal account board, every black needle rested beside hers.
+Then Seyathi stepped through a tessellated wall and reached for the Missing Tessera.
 
-At the nearest lift-pump, an adept pressed both palms to the conductive start plate. The vanes remained still. A lampwright tried the door filament, first gently and then with enough strain to whiten their lips. It stayed dark.
+*Nine years earlier, at the Talarum Steps*
 
-Tycho stood beneath it with a hand tester clamped around his forearm. He had rolled his sleeve so high that the seam bit into his shoulder. The tester's three copper leaves should have opened at his regulated pulse. They did not move.
+The pilgrims had been kneeling for four days.
 
-“Again,” he said.
+Their knees bled through their clothes, but Tessellate Grace cared less about pain than arrangement. Every attempt to rise completed another line in the prepared pavement, and the completed line bent their bodies back into worship. Seyathi stood beyond them inside a shelter of rotating mineral color. She was holding the greater pattern apart by a finger's width. Sweat silvered her mouth. Each breath cost her another piece of her sense of place; when Faris shouted, she looked first in the wrong direction.
 
-The pump apprentice working the crank looked sick. “That's four.”
+“Do not step on anything beautiful,” she called.
 
-“Then the fifth will be unusually well documented.”
+“That advice would have helped at the bottom.”
 
-Faris took the tester from them, inspected the contacts, and rubbed one clean with her cuff. “Twenty-seven people. Five trades. Three hand testers.”
+He lay flat in the drainage cut beside the stairs. He had no counter-pattern to wear and no inner gift for the pavement to recognize. That did not make him safe. A prepared surface could arrange an unmagical body as easily as a chair. He crawled where the mortar was still raw, testing it with the brass tongue from his sandal buckle. Plain grit crumbled. Worked grit hummed against the metal.
 
-“Two testers.”
+A blank white tile sat between him and the nearest pilgrim. No lines. No pigment. Faris put his palm on it.
 
-“The clinic sent word. Theirs reads zero too. Their healer can't wake a sterilizing coil. Lampwrights, lift tenders, kiln minders, your pump crew. That's five.”
+The prepared underside turned him over and folded him to both knees.
 
-In Gannet Reach, *maximum mana* meant the most power a living user could presently feed into the town's conductive workings. It was a ceiling used for shift assignments, safe loads, and bills. Faris's own ceiling had never risen above zero. There was no hidden capacity behind the needle; she had never had magic.
+His shoulder struck the step. His teeth met hard enough to fill his mouth with blood. The pilgrims' hands rose together, compelled into the next figure, and the shelter around Seyathi narrowed.
 
-Tycho braced his fingers around the tester and attempted the pulse himself. Nothing lit. Nothing warmed. His face became careful.
+“Blank side inward,” she said, voice tight. “You were meant to notice.”
 
-Outside, somebody shouted that the powered lifts had stalled. Another voice said the long relay was dead. From the roof, an apprentice called down that the upstream flag station had raised two black squares: public workings dark. That said nothing about anyone's capacity beyond the Reach, but it was not encouraging.
+“I have noticed very thoroughly.”
 
-“We need to isolate the board,” Tycho said. “Then the trunk conductors. If this is a reporting failure—”
+He tried to lift one knee. The tile corrected him by twisting his ankle until his heel fitted the design. Nothing in the pain was mystical. Tendons were tendons even when a goddess's geometry chose how to pull them. Faris wedged the buckle tongue beneath his sole and used it as a lever, gaining less than a finger's width. Enough to keep the joint from breaking. Not enough to stand.
 
-Faris pointed through the window. The water had reached the second red mark.
+One of the kneeling pilgrims moved one finger. Not up, which the pattern would have caught. Sideways, scraping at a seam beneath the lip of the stair. Faris followed the scratch with his eyes. A maintenance pin held the prepared facing to an ordinary support bed. No holy geometry protected the pin. It was only iron, green with damp.
 
-“I can see it.”
+Seyathi understood his look. “One breath,” she said. “After that, I will not know which way you are.”
 
-“Then tell me when it reaches the third.”
+She turned two fingers.
 
-“With unknown inflow?”
+The colored shelter opened. For one breath the compulsion loosened, and every pilgrim sagged without being forced into the next posture. Faris tore the buckle from his sandal and struck the maintenance pin. Once. Twice. On the third blow it slid free. The facing dropped a thumb's width, breaking the pattern's continuity. Forty-three people fell out of worship at once.
 
-“Give me the worst useful answer.”
+The hidden lines on the tile flashed before they died. They were not devotional. They were a trial lattice for the Absolute Yoke.
 
-That changed his tactic. He looked once more at the useless tester, set it down, and pulled a slate from the wall. He measured the rise against the timed bell strokes, checked the inlet gauges, then wrote three compact lines.
+Afterward, Seyathi could not find the stairs without Faris taking her elbow. She gave him the Missing Tessera, a square of matte mineral two fingers wide. It had been made for her two hundred and thirty-three years before, she said, and contained one finite direction of her grace.
 
-“Two hours and forty minutes if runoff remains constant,” he said. “Less when the river rises. Before noon, Lowbank overtops.”
+“One day,” she told him, “you may ask me to arm it against the Yoke. Say exactly what you mean. A promise protects only its exact shape.”
 
-“Good.”
+Now, at the Ithrom Array, Faris said, “Arm the Missing Tessera, and before this hour ends the Absolute Yoke will be powerless. I will not take its power, wear it, or pass it to anyone.”
 
-Tycho stared at her.
+Every clause was true. He had built the sentence for three decades and deliberately left one word out.
 
-“Not good,” Faris said. “Specific. Specific can be carried.”
+Seyathi studied him, then pressed her thumb to the matte square. “Agreed.” She set it blank-side inward. Geometric light filled the first socket.
 
-The usual drain could not. Its lift-pumps waited for living power that nobody in the building could supply.
+The Sole Chamber began to ring.
 
-* * *
+*Twenty-four years earlier, at Mavorn Palace*
 
-Faris's storeroom occupied the back half of a former fish shop and retained the smell as a warning against optimism. Shelves bowed beneath objects people had given her after she found a missing permit, delivered medicine through a storm, recovered a box somebody important had sworn was never lost, or knew which clerk would listen if approached before breakfast.
+Faris entered the palace prison dressed as a laundry porter, carrying wet sheets and the confidence of a man nobody important intended to remember.
 
-Tycho surveyed the collection. “Dead charms.”
+Nine prison wings occupied the same foundation. King Malrec's heartbeat chose which arrangement a corridor wore. With one beat, Faris passed cells full of debtors. With the next, the same doors held soldiers. Another beat revealed an empty banquet hall through the bars. Living people remained one body each, crossing between rooms only at permitted thresholds. The stone was less disciplined. It could be wall, stair, ceiling, and oubliette before a guard finished yawning.
 
-“Some of them were never alive enough to die.”
+The Sole Chamber governed Manyroom from a bronze model no bigger than a thumb. Faris had been told to follow a scratched line along the base wall until it ended under the royal archive.
 
-She began with the whisper bead. A courier had left the pearl-gray thing in payment for a route Faris considered a favor. It required a living sender at one end and a living receiver at the other, each supplying their own trace of power. She pressed it between two fingers and spoke Uma's name.
+He followed the wrong scratch.
 
-The bead remained a cold, expensive pebble.
+The next heartbeat put him inside a locked cell. The following one put the cell behind the kitchens. Then under a chapel. Then nowhere he could name. He dropped the sheets and felt along the base, but each wall carried decades of scratches. He could not tell signal from damage.
 
-“No stored message, no charge,” Tycho said. “Useless.”
+The prisoner sharing the cell watched him sniff the air.
 
-Faris put it aside. “This one is.”
+“What?” Faris whispered.
 
-The stormweave sling came next. Its braided fibers normally tightened themselves around a load when a rigger fed power through the silvered edge. Faris looped it around a crate. Tycho attempted the smallest safe activation. The braid hung loose. When Faris pulled the free end by hand, however, the crate scraped across the floor.
+The prisoner pointed through the wall, then pinched their nose and mimed eating.
 
-“Base fiber's sound,” she said.
+Faris held up one finger for each shift and let the prisoner tap his wrist when a smell returned. On the seventh heartbeat, soup and lamp oil repeated together. On the ninth, wet wool came back without the soup. The scratched walls were meant to defeat sight, but cooks still burned onions on schedule and laundries still made steam. The prisoner smiled when Faris finally began counting the palace as work instead of wonder.
 
-“Without self-tension it will creep under load.”
+Meal smells. Grease when the kitchens were near. Damp grain by storage. Wax by the archive. Faris stopped looking for the right mark and waited through the pulse of rooms, tracking the ordinary things each arrangement could not quite hide. When wax and mouse droppings arrived together, he found the true scratch under his heel. It led to a loose base stone.
 
-“So write that down instead of pronouncing its funeral.”
+Behind it sat the Sole Chamber, made by the first palace architects four hundred and eighty-six years earlier. Faris closed his hand around it. Nine wings shuddered toward one plain arrangement.
 
-He gave her an irritated look, but he wrote it down.
+He could have left during the confusion. Then a heartbeat made the wall beside him share space with King Malrec's private room. Faris saw a blade emerging behind the king, its wielder hidden in another arrangement.
 
-They proceeded one mechanism at a time. The brass service key still turned because it had teeth and no ambitions. The old inspector's seal embossed paper when Faris leaned on it. Neither stored power. Neither opened anything except the lock or argument it had been made for.
+He threw the bronze model at Malrec's head.
 
-Last came an etched brass survey plate, green at the edges from the afternoon Faris had hauled a retired surveyor's waterlogged records out of a broken gate office. She dusted flour over its lines and wiped the surface with her palm. Channels and elevations emerged pale against the brass.
+The king ducked to rebuke him. The assassin's blade passed through the place his throat had been. Faris shouted where to strike, and the royal guard dragged the attacker across a threshold into one body and one room.
 
-Tycho bent closer.
+The prison settled. Every captive remained alive in the base structure. Faris was arrested before he reached the laundry door.
 
-“That was taken before the lift-pumps,” Faris said. “See the old catchment?”
+Malrec visited his cell three days later. “You stole the legal heart of my house.”
 
-“And a relief sluice.” He traced a narrow line running below Lowbank toward the river. “Gravity-fed. The outfall is lower than the current water level.”
+“I also threw it at you. That seems disrespectful twice.”
 
-“Until the river comes up.”
+“Your accounting is crude but accurate.”
 
-“The lower chamber will already be flooded.”
+The king pardoned him, retained a witnessed claim, and granted one decision over the Chamber if that decision was made publicly and applied to the palace as well as its enemies.
 
-Faris tilted the plate. A second set of marks appeared where the flour caught shallow cuts. “Upper inspection throat.”
+Now Malrec stood at the second socket in a crown that occupied five possible shapes.
 
-Tycho forgot to be dismissive. He compared the plate's elevation notches with figures from his slate. The obsolete sluice had been closed when the pumps made it redundant, but not filled. If its gate could be opened before the river covered the outfall, the catchment would drain without asking anyone's gauge for permission.
+“Preserve my capital's crossings,” he said. “I will renounce every foreign claim.”
 
-“We need access to the upper throat,” he said. “A river-side pull, a capstan, evacuation below the second contour, and more hands than I can responsibly estimate.”
+“No exemption.”
 
-Faris gathered the plate, key, seal, and sling.
+“Then you ask me to make every door merely a door.”
 
-“That is not a plan,” Tycho said.
+“Yes.”
 
-“It's a shopping list. Plans are shopping lists with timing.”
+Malrec looked toward the many palaces sheltering his people. “Witness this. I release every claim in the Sole Chamber, including my own.”
 
-The whisper bead stayed on the table. They would have to ask people in person.
+He crushed the bronze room flat between his palms. The second socket filled, and the Nearmost Vertebra knocked slowly against stone.
 
-* * *
+*Fourteen years earlier, at the Aphalion Belt*
 
-Uma was on her barge at the upper quay, ordering her crew to replace the silent docking wards with doubled ropes. She listened to Faris's proposal without interrupting. That was worse than interruption.
+Qeluun was too large for Faris to see as a body.
 
-“You remember the toll clerk,” Faris finished. “When they tried to seize your barge, I testified.”
+He saw a dark plain curving through the upper air, ribbed with pale sensory tissue. He saw storms dragged into crescents by a contraction somewhere beyond the horizon. He saw poacher rigs fixed to that living surface, their drills chewing for fragments that could alter weight. He felt each wound as a change in which direction his boots wanted to fall.
 
-“I remember what you did.” Uma pulled one of the wet ropes tight, tested it, and retied the knot. “You're still not taking my crew into the lower channel.”
+The Nearmost Vertebra was in his coat: a porous length of shed bone stolen from Qeluun ninety-seven years before Faris was born. He had recovered it from the poachers' buyer. Returning it would have been simple if the rigs had not started drilling deeper when he arrived.
 
-Faris had planned on the lower channel because it gave a straighter pull. She had planned on Uma saying yes because Faris had a page in her notebook that implied yes was already half-owned.
+Faris crawled between them with an ordinary pry bar tied to his wrist. He cut power cables, opened fuel valves, and hammered wedges into drill gears. Magic shifted the sky around him. None of it made a rusted clamp less vulnerable to leverage.
 
-“The submerged quay puts you closest to the gate.”
+At the fourth rig, he cut a tether he thought held the machine.
 
-“It also puts a stone wall between us and the rising river. No.”
+It held him.
 
-The bell carried from Lowbank, thin at this distance. Faris nearly spent another sentence trying to make *no* smaller.
+The curved plain dropped away. Faris went outward, toward a seam of stars. The pry bar snapped to the end of its cord and spun behind him. His scream had no useful direction.
 
-“All right,” she said. “Not the lower channel.”
+Qeluun contracted.
 
-Uma glanced toward the upper inspection road. “From here, I can run a line through the old quay sheave if it hasn't rusted solid. Barge stays tied above the surge line. Capstan and six crew. Twelve hundredweight at the wet line, no shock load. You accept my halt signal the first time.”
+Weight returned sideways. Faris struck warm tissue, bounced, and caught the edge of a drilling frame. The catch tore both palms. Under him, the vast body pulsed. Three slow knocks traveled through the frame.
 
-It was less force and a worse angle than Faris wanted. It was also a barge, a capstan, and six living people choosing to come.
+The poachers saw him hanging there and restarted the nearest drill. Its teeth did not need magic now; the flywheel already carried enough motion to cut. Qeluun shifted again, not to throw them off, but to bring Faris's dangling pry bar within reach. The movement opened a tear in the pale tissue wider than a road. Faris understood the scale of the choice only when dark blood rose past him in floating beads.
 
-“Accepted.”
+“I don't speak mountain,” Faris gasped.
 
-“Don't sound so surprised.”
+One knock. Then two. Then a pressure beneath his left knee.
 
-At the clinic, Zeke had set ordinary kettles boiling because the sterilizing coils would not answer their healers. Patients crowded the front hall while volunteers carried bedding toward the upper street. He took one look at Faris's plate and said, “How many houses?”
+He understood enough. Qeluun could move masses, but every contraction tore more of the tender tissue the drills had exposed. Faris followed the pulses instead. Pry left. Brace right. Turn the bar. The clamps had been driven by spellwork, but they were physical iron once seated. One after another, they opened. The rigs drifted clear. The last drill stopped with its point resting against living flesh.
 
-“Everything below the third contour. I need you at the gate.”
+Faris placed the Nearmost Vertebra into the wound it had once bordered.
+
+The slow voice reached him as pressure through bone.
+
+SELL IT. COULD HAVE.
+
+“It wasn't mine.”
+
+OURS. NOT NEEDED. SHED.
+
+“Still not mine.”
+
+Qeluun entrusted the bone back to him. One day, it would align one terminal change. Faris promised never to speak of Qeluun as terrain while asking it.
+
+Now the immense curve of Qeluun tightened around the Array. The third socket waited.
+
+END US? came the pressure, making Faris's broken brace tremble.
+
+“You may die,” Faris said. “All who depend on Worldcoil may die. I am asking you to align it anyway.”
+
+Silence pressed on him. Then Qeluun moved the Nearmost Vertebra into place. The bone pulsed once and became dust. Gravity convulsed. The third socket shone.
+
+The Cold Maw opened its paired jaws.
+
+*Thirty-one years earlier, at the Ghorvane Underforge*
+
+Faris was young enough to believe a good plan became better when performed quickly.
+
+The demon young were trapped in a root-furnace during a coup. Black fire burned inward through their bodies, consuming flesh to draw heat and mineral toward the moving forge. The usurpers had sealed the air shutters. The young could feed the furnace or suffocate beside it.
+
+Faris followed a draft through machinery that rearranged itself around appetite. He held a strip of cloth near each seam and watched which way the loose end bent. Hot metal hunted his boots. Chains slithered toward the iron in his blood. He kept moving because stopping would let the forge decide what use to make of him.
+
+He found a wheel beside a sealed hatch and turned it with both hands.
+
+The hatch opened onto slag.
+
+A half-forged predator came through, all wet alloy and borrowed teeth. Faris threw himself behind the wheel. The creature bit the axle in half. Its second lunge ended in Hurzai's hand.
+
+The demon lord crushed its head and burned the remains inward until nothing but a cold iron knot hit the floor. The effort took a strip of flesh from Hurzai's arm. Black fire filled the wound, bright at the edges and lightless in the center.
+
+“You opened waste,” Hurzai said. “Air is above. Your nose has cheated you.”
+
+“My nose and I are reviewing our arrangement.”
+
+“Review while moving.” Hurzai kicked the iron knot into a gear train and jammed it. The forge convulsed around them. “I can consume a wall or carry you. Not both.”
+
+Faris looked at the half-closed passage, then at the ladder rising through heat toward the shutters. “The wall.”
+
+Hurzai burned a path for him. The fire ate a visible hollow from the demon lord's side. Faris climbed through before the metal could flow back, knowing rescue had already placed him in debt and that the price was being paid in living flesh.
+
+Hurzai could have left through the breach. Instead, the demon lord lifted Faris out of the predator's reach and showed him the real shutter chain. Faris climbed. He passed an artifact vault whose door had split in the fighting. Any one object inside could have bought him a quiet lifetime.
+
+Below, the young struck the furnace wall with weakening hands.
+
+Faris passed the vault.
+
+He braced his feet on ordinary rivets and cranked the shutter until his shoulders failed. Hurzai took the wheel only after Faris had broken the seal. Fresh air crossed the furnace. The black flames steadied. The young survived, and what they shouted through the vents named the officers who had arranged the coup.
+
+Later, Hurzai set the Cold Maw on a table between them. The paired heatless jaws had been forged by a predecessor six hundred and eleven years earlier. Turned inward, they preserved root authority over Inward Fire. Turned outward, they could reverse it once.
+
+“Custody,” Hurzai said, “if you never make terminal sound painless. One root act when you ask. You will name the meat cost first.”
+
+Now Hurzai's woundless older body gleamed with contained fire beside the fourth socket.
+
+“Some demons will survive,” Faris said. “Some will not. Fortresses will collapse. Stored heat will break loose. Your lordship and your fire end with theirs.”
+
+“Adequate price language.” Hurzai seized both jaws and wrenched them outward. They fused around the socket. Black light filled it.
+
+The Unhatched Form flexed without being alive.
+
+*Four years earlier, at the Keruvan Fold*
+
+Faris stole two relics from Jelveth Sorn because patrons were using Kindred Graft to turn consent into a ceremony performed after the cutting.
+
+The Unhatched Form was a nonliving organoid shaped by six former keepers one hundred and forty-one years earlier. It stored possible exchanges without ever having been a person. The Mortal Latch was plainer: a ceramic bearing, an iron lever, six insulated plungers, and one removable iron cotter, built by engineers who understood that a terminal device should not carry the charge it released.
+
+Faris got both into a canvas sack before Jelveth found him.
+
+She pursued him through a sanctuary where every resident carried a chosen faculty from someone else. One man heard through the soles of his feet. A woman breathed water through living folds at her ribs. Two people shared the effort of one damaged heart. Jelveth tracked Faris using their offered senses, never taking more than each had consented to lend.
+
+He climbed a support membrane and cut what he thought was an alarm filament.
+
+The membrane sagged.
+
+Borrowed muscles failed along the gallery. The shared heartbeat stumbled. Water struck the floor around the woman who could no longer use her gills. Faris reached the outer door with the relics and saw the whole sanctuary folding behind him.
+
+He went back.
+
+“You severed a load-bearing exchange,” Jelveth said. Her fingers were inside the living wall to the knuckle. “Put down the theft.”
+
+“Tell me where to brace it.”
+
+“You cannot perceive the strain.”
+
+“I can perceive people falling.”
+
+The woman with gills convulsed beside them. Jelveth pressed her free hand to the woman's ribs and took the drowning reflex into her own lungs. Pain folded the keeper over, but her directions stayed clipped and exact. “Pole under the third seam. Not the red tissue. That is sensation. The gray band. Lift on my count.” Faris obeyed without pretending he understood the body he was helping hold together.
+
+At her direction, he jammed ordinary poles between the gallery and its physical foundation. One split. He doubled the next with a bench leg. Jelveth rerouted sensation, muscle, and breath long enough for material supports to take the weight. Faris held a pole against his shoulder until the last resident crawled clear.
+
+The patrons arrived claiming the keeper had endangered everyone by resisting their program. Faris still had their signed orders in his coat. He read them aloud.
+
+Jelveth did not forgive him. She did establish a public bargain. He would repair the sanctuary, never call a fixed grafted body counterfeit, and hold lawful custody of the two relics. In return, she would perform one bounded root act after reading its selector herself.
+
+Now she stood over the Unwritten Axis while forced wings erupted from attacking soldiers below.
+
+Faris turned the Latch's selector toward her. Its words were mechanical, cut into a plate: end function; preserve matter.
+
+Jelveth read twice. “No identity reset. No body declared false.”
 
 “No.”
 
-“When your cold boxes failed last summer, who organized the hand chain?”
+She closed the Unhatched Form in both hands and opened the Axis with a precise incision of borrowed sight. The Form went still. The fifth socket accepted it.
 
-“You did.” Zeke passed a stack of folded cloths to an assistant. “I'm not leaving patients in a dark clinic because you kept medicine cold once.”
+Above them, the six passive needles of the Parity Astrolabe began to move.
 
-The old sentence rose ready in her: *I am calling in what you owe.* It had always protected the soft and dangerous request underneath. If Zeke refused a debt, then perhaps the fault belonged to his bookkeeping.
+*Eighteen years earlier, at the Skairrift*
 
-Water ran in a thin sheet along the clinic's lower lane.
+Ekkorath rescued Faris before Faris rescued Ekkorath.
 
-“What can you spare without leaving anyone?” Faris asked.
+The dragon was pinned inside a corridor knot around a falling ruin. Bent distance kept bringing the same broken towers back beneath them. Faris had no wings, magical or otherwise. He rode a slab of masonry with a ballast rope around his waist and tried not to look at the repeated sky.
 
-Zeke looked at her properly then. “Two stretchers. Bandages. Every off-duty pair of hands who agrees after I tell them the street may flood.”
+His first knot slipped.
 
-He stepped into the hall and made the offer. Three people volunteered at once. Two more after asking where their families would be sent. One shook their head and stayed beside the kettles; Zeke gave them the next boiling time without a trace of reproach. He organized runners for the uphill evacuation and sent one ahead with red and white flags for Uma's halt signals.
+Ekkorath could have spent the remaining fold of one wing to free themself. Instead they snapped their neck across the gap and caught Faris against their scales. The motion tore cartilage along the trapped wing. Distance opened and closed inside the wound.
 
-By the time Faris left, the clinic was becoming a chain of people rather than a building. The limits she had resented were moving patients uphill before the gate attempt had even begun.
+“You are falling toward the western edge of your own mistake,” Ekkorath said.
 
-* * *
+“Is there an eastern edge?”
 
-They crossed Lowbank through a morning stripped of its conveniences. People hauled buckets up staircases beside stalled lifts. Lampwrights set mirrors behind mundane oil flames. A healer who had once closed wounds with two fingers now carried the back end of a chair, jaw set with concentration. Faris knew better than to call any of this proof that magic would not return. It was proof only that water did not pause for grief.
+“Not for long.”
 
-At the upper inspection throat, a works officer planted both boots before the sealed door. Faris showed the old inspector's seal. The officer inspected its embossed number, inspected the water below, and moved aside.
+Faris crawled onto a grounded beam that passed through the knot. The magical horizons lied, showing cliffs above and valleys behind. Falling chips of stone did not lie. Each chip found ordinary down whenever it crossed the beam. Faris followed them to a physical pin holding two ruins in the same flight circuit.
 
-The brass key entered one lock and one lock only. Its mechanical wards resisted after years of disuse. Faris leaned until the square bow printed itself into her palm. With a crack of rust, it turned.
+Halfway there, the beam rolled. Faris flattened himself and looped the loose ballast rope around a crack rather than trusting another knot. Ekkorath's trapped wing swept overhead, opening a destination that looked one step away and was probably a mile beneath them. Faris shut one eye. With depth reduced to shape and falling grit, the unenchanted beam was easier to read.
 
-The throat beyond was a narrow stone shaft above the drowned lower chamber. The survey plate's elevation marks showed them where to descend without approaching the flooded stair. Tycho found the gate chains under a skin of orange grit. He followed them upward to a counterweight suspended in a guide well.
+The dragon shouted headings. Faris translated them into left, right, duck, and hit this. He hammered the pin with a loose block until it bent. The circuit tore open. Ekkorath pulled their wing free and carried them both out while towers resumed their separate falls.
 
-“There,” he said.
+The Unflown Arc came loose from Ekkorath's damaged flight horn during the escape. It held the Horizon Flight counter-circuit they had chosen not to spend on themself. They gave it to Faris as a rescue gift.
 
-The weight should have descended when the gate opened, hauling the gate upward through the chain wheel. Instead, it rested on a maintenance dog that had not been withdrawn in years. Grit packed one guide shoe. The magical assist would ordinarily have taken the load, eased the shoe sideways, and lifted the dog free. Its conductive handles were as cold as the wall.
+They found the Parity Astrolabe in the wreckage afterward, wedged under an ordinary roof tile. The same engineers who built the Mortal Latch had made its frame three hundred and two years before from six passive indicator metals. Each needle answered to the timing of one root system without holding any power itself. Ekkorath lifted the tile; Faris worked the bent nail free. He asked before taking it. Ekkorath made him name what its use might cost.
 
-“We put Uma's line on the gate,” Faris said. “Pull it up directly.”
+“One flight,” the dragon said. “If you state every destination you will close and everyone you expect to fall.”
 
-“No.” Tycho crouched beside the chain and measured three links. “Water pressure on the lower face, gate weight, friction in both runners. The line load exceeds Uma's ceiling before motion. If the capstan wins anyway, it shears this stem.” He tapped the narrow iron rod disappearing below. “The gate twists in its runners and blocks the sluice permanently.”
+Now Ekkorath faced the sixth socket while cities flickered at the ends of their wings.
 
-“We have maybe an hour.”
+“Dragons will be grounded,” Faris said. “Crossings will close. Suspended cities will fall toward whatever is physically below them. You may tear your last flight holding the corridor long enough for me to reach the Latch.”
 
-“Then we can destroy it with admirable punctuality.”
+“Complete coordinates at last.”
 
-Faris began dividing people and tools in her head, searching for a way to make force substitute for time. The old habit made every problem look like a person who had not yet been reminded what they owed.
+Ekkorath lowered the Unflown Arc into the socket and flew the terminal counter-circuit. The shed horn lit along an old fracture. All six Astrolabe needles aligned.
 
-She stopped.
+The Bound Ascendancy struck before the sixth needle settled.
 
-“Design it within twelve hundredweight,” she said. “No shock load. Uma's halt is final.”
+Prepared color raced across the hub, commanding every body it touched to kneel. Hurzai tore a hole through it with inward-burning hands. Seyathi turned two fingers and folded the broken pattern away from Faris.
 
-Tycho's answer did not come at once. He studied the plate, then scraped grit from the guide with the corner of his slate.
+“The Yoke,” she said. “Finish the Yoke.”
 
-“We do not pull the gate. We lift the counterweight one finger-width, only enough to unload the maintenance dog. Set the safety catch. Withdraw the dog, clear the shoe, then let the counterweight down under the capstan brake. Gravity raises the gate.”
+Black fire followed the color. It consumed the stone's stored heat and spat the cold inward at Faris's bones. Hurzai stepped across it. The demon lord drew the attack into his own chest, losing flesh with every breath, and fed its appetite into the outward-facing Cold Maw.
 
-“Load?”
+Distance shortened behind him. Soldiers arrived before their feet had crossed the gap. Malrec struck the flattened Sole Chamber with his palm. For one heartbeat he gave the overlapping attackers a single base room. They collided in a heap, alive and suddenly unable to occupy one another's space.
 
-“Nine hundredweight if the shoe moves. Perhaps eleven if it argues. Within her limit.”
+The Ascendancy pulled weight from Qeluun's wounded tissue. The Array lurched. Faris slid toward open sky with the Mortal Latch under one arm. Qeluun contracted around the hub. The vast person's pain moved through the floor in slow blows, holding one last stable down.
 
-“And if it doesn't move?”
+Forced grafts opened along the fallen soldiers. Wings tangled with arms. Shared lungs dragged breath from strangers. Jelveth cut through the imposed exchanges with small exact motions, separating function while preserving every material body she could reach.
 
-“We stop.” His mouth tightened around the word. “Impossibility is a result, not a plan. This may work.”
+Six derivative attacks, each borrowing a root authority, and the Yoke running through them all. Faris understood then why the Ascendancy had come in person. Every power used against the Array gave the command a cleaner path into its own source.
 
-Water had reached the clinic's front step. They carried the stormweave sling into the throat.
+The tall hybrid body stepped from a folded horizon into three rooms at once. Its shadow carried enough weight to crack the hub. Its many hands offered Faris the lever he had not yet reached.
 
-* * *
+“Withdraw the Latch,” the mouths said. “The cities remain aloft. The crossings remain open. Chosen bodies keep their gifts. Gods keep their care. We end the war by making disobedience impossible.”
 
-Uma rejected the sling's first knot.
+It was not lying. Faris could see the offered order descend along the Yoke: no battle, no refusal, no one falling because no one permitted to move without command.
 
-“It used to tighten itself,” Faris said.
+Behind him, Seyathi held a floor pattern apart and screamed as her sense of space failed. Hurzai was half his former mass. Malrec had aged years in a minute. Qeluun's pressure came ragged. Jelveth's hands shook. Ekkorath flew the same shrinking corridor with blood striping both wings.
 
-“It used to do a lot of work nobody learned to see.” Uma ran the dull silver edge through her hands. It did not stir. “As fiber, it's strong. As rigging, it is slick and vain.”
+Faris thought of forty-three pilgrims unable to rise.
 
-She wrapped it in a doubled basket around the counterweight while her crew led the line through the old quay sheave to the barge capstan. Tycho marked allowable travel on the survey plate with chalk. Faris climbed into the side of the throat with a hammer, a scraper, and the brass key tucked through her belt.
+“No,” he said.
 
-Below her, brown water pressed against the gate. Above, people took their places on the capstan bars. Volunteers from the clinic maintained a bucket line to keep the working ledge clear. More guided residents uphill. Nothing about the arrangement was elegant enough to resemble rescue from a distance.
+The Ascendancy drove all six systems at him.
 
-Tycho raised one white flag. Uma repeated it from the quay.
+Faris dropped flat on the unprepared mortar between the colored lines. Command passed over his back. He found a scratch at the base of the Axis and shoved the ceramic bearing into the plain recess it marked. A pulse traveled through the floor; he followed its vibration when magic made every direction look wrong. Heat drew inward on his left, so he turned toward the ordinary draft on his right. A horizon folded over the last three exposed body-lengths.
 
-The capstan turned.
+Ekkorath hit it wing-first.
 
-The line tightened with a wet hum. At four hundredweight, the counterweight shivered but did not rise. At six, the stormweave crept over one corner. Faris saw the doubled basket narrowing and shouted, but Uma's red flag was already up.
+“The corridor is yours,” the dragon said, and held two false destinations apart until a narrow span of ordinary distance appeared between them.
 
-“Stop!”
+Faris ran. Stolen weight broke one knee against the stone. He crawled the last length and found the six plungers. Their heads showed the selector's instruction in six material arrangements. Preserve matter. End function. He pressed them in that order, bracing the cracked housing with a strip torn from his belt as if it were a slipping ballast knot. Their insulation held the six armed outputs apart.
 
-The capstan halted. The sling slipped a handspan and snapped taut against the stone. One volunteer lost their footing and struck the ledge hard. Others caught them before they reached the shaft. The injured worker cradled one arm, face drained of color.
+The Ascendancy reached for him through every magical being on the hub.
 
-Zeke arrived with the last stretcher from the evacuated clinic and went straight to them. He had not left his patients; he had moved with the last of them. “Fingers?” he asked. “Move them. Slowly.”
+It found no address in Faris. He had been born without magic and had lived without it all his life. That did not make him immune to fire, falling stone, command surfaces, talons, or blades. It meant only that the Yoke had never learned where inside him to issue an order.
 
-“The load's still below ceiling,” Faris called toward the quay. “One hard pull could seat it.”
+He seated the Mortal Latch beneath the Axis. He slid the ordinary iron cotter through the aligned plungers. He turned the lever ninety degrees, loading all six against the restraint.
 
-Uma came through the throat door, heard her, and did not raise her voice. “No shock load.”
+The six Astrolabe needles met at one instant.
 
-“We are out of time.”
+Faris pulled the cotter free and said, “No More Magic.”
 
-“Then waste none arguing with the condition under which my crew came.”
+The words caused nothing. The physical release did.
 
-Tycho was inspecting the chain. “A hard pull may seat the sling. It may also jump the guide shoe and add a side load I cannot measure.”
+The plungers dropped into contact together. All six terminal conditions propagated in the same instant. The breaking world-curves made that instant visible in six different grammars.
 
-“Can anybody here give me something other than *no*?”
+The Missing Tessera discharged through one curve. Tessellate Grace went white through every prepared surface in the world. Painted commands flattened into pigment. Walking sanctuaries put down their luminous legs and settled wherever ordinary foundations could hold them. Compelled knees unlocked. Healing alignments ceased in mid-pattern, leaving bodies no worse than their material state and no longer held in any impossible one. Seyathi's radiance stripped away. Her person remained; her godhood and every capacity to tessellate did not.
 
-Zeke looked up from binding the worker's arm. “Rotate those four off the bucket line before they fall. That's what I can give you.”
+Through another, the Cold Maw ended Inward Fire. Every black flame pinched toward its own center and vanished. Heat held inside it returned as ordinary expansion: furnaces burst, moving fortresses slumped into incandescent slag, and demon bodies lost the conversion that had sustained or consumed them. Some lived, abruptly mortal. Some did not. No ember retained a root, a reserve, or a way to begin again. The fused jaws softened into two dead lumps of alloy.
 
-The bell went on striking. Faris's notebook pressed against her ribs inside her coat. Pages of favors, every one written down as if ink made people safe to ask and refusal an arithmetic error.
+The Unflown Arc spent its Horizon Flight counter-circuit. Horizons straightened. Crossing anchors closed on their material side without claiming whatever had once been reachable beyond. Suspended cities began to fall toward physical ground. Dragons beat wings that were only wings; stored distance emptied from bone, cartilage, sky roads, eggs, and memory-shaped circuits. The Arc cracked down its length and became horn with no second flight inside it.
 
-There was no second list hidden behind it. No power waking in her blood because everybody else's had vanished. Her gauge still read zero. Her hands held a hammer badly enough to blister. Her only leverage was that these people knew what she had done before—and knew she might listen now.
+The crushed Sole Chamber released Manyroom's last arrangement. Translucent palaces shed their possible rooms. Every structure became one material structure in one place. People crossing at that instant remained whole on the side containing most of their bodies, not copied, erased, or trapped between. Malrec's fivefold crown became one heavy object. The bronze under his palm tore flat and stayed flat.
 
-Faris closed her hand over the notebook, then let it go.
+The Nearmost Vertebra ended Worldcoil. Auroras loosened into weather. Mountains Qeluun had held began ordinary paths through air. The great body's leverage over weight ended everywhere at once. Qeluun remained conscious in flesh that could no longer make down turn aside, vulnerable now to every mass already moving. The bone dust scattered without answering the pressure of that fear.
 
-“Uma,” she said, “is there a slower rig you are willing to try?”
+The Unhatched Form ended Kindred Graft. Possible anatomies withdrew from the living. Chosen material bodies remained their own; no healed scar reopened, no surviving organ vanished merely because magic had helped shape it. But impossible faculties stopped. Shared senses separated. Storage organs emptied. Keeper awareness went dark. Forced hybrids failed constituent by constituent, producing no seventh system and leaving whatever ordinary life their material bodies could support. The Form denatured into inert protein ash.
 
-Uma considered the sling. “A choke hitch will bite. It lowers the fiber's mundane rating, so the cap stays where it is and we lift half as far.”
+The extinction crossed gods and worshippers, demons and dragons, kings and prisoners, vast persons and small ones without ranking their personhood. Every god lost power and godhood; worship and personhood remained. Memories, relationships, scars, grief, and responsibility remained. It emptied living capacity, spent charge, standing structure, hidden crossing, bestowed faculty, hybrid function, reserve, relic, seed, and every material possibility of restoration. No artifact retained a spark. No descendant could inherit one. No machine could recover one. Magic had been real in the material world, and from that instant it could never be real there again. The past remained what it had been. Faris had made no claim about afterlives or realities beyond the closed material crossings.
 
-“Tycho?”
+The Parity Astrolabe registered six perfect zeros. Then its needles melted, its passive metals losing even the difference they had been built to measure. The frame fell apart. The Mortal Latch split its ceramic bearing, bent its lever, and shattered all six plungers around the cotter in Faris's hand. Nothing in it held a repeatable action.
 
-“Half a finger-width can unload the dog if Faris keeps the shoe aligned. I call every pull. Red flag from anyone stops all motion.”
+Across the collapsing world-curves, measures of cultural capacity plunged after the vanished powers that had supported them. Then the magical measures themselves disappeared because there was no longer anything for them to count. The Ithrom Array became ordinary stone and metal obeying ordinary strain. Its arches broke. The Unwritten Axis cracked from top to base. The Absolute Yoke, powerless exactly as promised, lost every borrowed face and came down as dust.
 
-“Zeke?”
+Faris saw Seyathi through it.
 
-“Give me three minutes for water and rotations. The injured worker is done. So are they.” He pointed to two exhausted volunteers before either could object. “I can ask for replacements.”
+She looked from the powder of the Missing Tessera to Hurzai's dead fire, from the straight horizon to Malrec's absent rooms, from Qeluun falling beyond the broken arch to Jelveth staring at unanswering hands. Her own skin held no light now. She was alive. She was herself. She was no longer a goddess.
 
-Faris looked around the throat. “You can all walk away. I have no better promise than his numbers and her knot. Will you try again?”
+“Before this hour ends,” she said, each clause placed with terrible care, “the Absolute Yoke will be powerless. You will not take its power, wear it, or pass it to anyone.”
 
-The answers did not arrive together. Uma picked up the sling. Tycho began chalking shorter increments. Zeke sent a runner to ask for four more hands. At the capstan, one crew member rubbed both palms on their trousers, then took hold of the bar again.
+Faris did not look away.
 
-They chose again.
+“You left out *only*.”
 
-Uma tied the stormweave as ordinary rope, a tight choke backed by two turns that would have embarrassed its makers. Faris set the iron safety catch below the counterweight. The survey plate showed the designed clearance, but the sight slot was too dark to judge. She slid the brass key's flat shaft through it as a feeler. When the key stopped scraping the guide shoe and touched open space, the shoe would be straight.
+She planted her heel in the first position of Tessellate Grace and turned two fingers at him, the gesture that had once made every prepared surface seize every body upon it.
 
-“White flag,” Tycho said. No formulas now. “Pull to the first chalk. Slow.”
-
-The capstan bars moved. The choke tightened. Five hundredweight. Seven. The counterweight lifted the width of Faris's smallest fingernail.
-
-“Hold.”
-
-Faris struck the maintenance dog. It did not move. She scraped rust from its shoulder, struck again, and felt the weight tremble through the wall.
-
-“No change,” she called.
-
-“One increment,” Tycho said. “Not two.”
-
-Uma repeated the white flag. The crew leaned. At nine hundredweight, the dog loosened with a sound like a cough. Faris dragged it clear and set both hands on the scraper. Grit came away from the guide shoe in black clots. She worked until the key slid cleanly through the sight slot and the plate's depth mark aligned with the lower edge.
-
-“Shoe clear. Ready to lower.”
-
-Tycho looked to Uma. Uma looked along the line, at every knot, hand, and turning point. She lowered the red flag and raised the white.
-
-“Retract the catch,” Tycho said.
-
-The capstan held the weight while Faris levered the iron catch back into its wall slot. It resisted, then locked flush. She pulled the scraper clear. “Catch clear.”
-
-The capstan brake eased.
-
-For a breath, the counterweight hung. Then gravity took its proper account. The weight descended inside the cleared guide, slowly at first, while the capstan paid line out through the quay sheave toward it. The chain wheel turned. Below, the gate rose a thumb's width.
-
-Water knifed through the gap.
-
-The jet hit the lower channel hard enough to shake grit from the ceiling. Faris ducked, though the water was two levels below. Tycho shouted for the brake, checked that the gate remained square, then called another measured release. Volunteers put shoulders to the manual balance wheel. Zeke changed them every quarter turn. Uma kept the line below her ceiling. Faris watched the depth marks and cleared each clot before it could catch the shoe.
-
-The gate rose by inches. The opening widened. Water stopped climbing the catchment wall.
-
-Then it began to fall.
-
-No light answered. No charm woke. Gravity drew the flood through the obsolete sluice toward the river, and ordinary hands kept the machinery from tearing itself apart.
-
-* * *
-
-By early afternoon, Lowbank's lowest rooms were wet, but the clinic and the houses above the second contour stood. The river had risen over the old outfall; by then the catchment had enough room to hold the remaining runoff without overtopping.
-
-Every repeat hand test still read zero. The municipal board had not lifted a single needle. An upstream flag reported only that its public workings remained dark. Nobody knew whether power was gone, blocked, sleeping, or inaccessible only to every method the Reach knew how to try.
-
-Faris sat beside the falling waterline and opened her notebook.
-
-She found Uma's page first and drew a line through the toll hearing.
-
-Uma, inspecting a frayed section of capstan line, said, “What are you doing?”
-
-“Closing an account.”
-
-“I didn't pay you. I helped because I agreed to help.”
-
-Faris moved to Tycho's page. He took the notebook out of her hand before she could cross anything else.
-
-“Tomorrow,” he said, “we calculate a permanent manual bypass. I know the pumps. You know every door that opens onto the wrong side of them.”
-
-“That sounds like new debt.”
-
-“It sounds like work.”
-
-Zeke appeared above them and handed Faris a wrapped heel of bread. “Eat. Then sleep somewhere uphill.”
-
-“Is that medical advice?”
-
-“It's an assignment. You like those better.”
-
-At the open throat, volunteers changed places on the balance wheel. The gate still needed watching. The lines still needed hands. Faris ate while the page lay open on her knee, one account crossed out, three new tasks written beneath it, and no total that could make the columns agree.
-
-When the bell finally stopped, the wheel kept turning.
+Nothing moved. Nothing answered.

@@ -550,6 +550,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 21,
+      "story": "all-accounts-due",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T14:21:36.8141918+00:00",
+      "completedAt": "2026-08-05T14:48:56.2664781+00:00",
+      "guardId": "3adb72251e80487f8c009a049ee3d8d4",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: all-accounts-due\nmode: CREATE_FINAL\nguard_id: 3adb72251e80487f8c009a049ee3d8d4\ncurrent_stage: final-edit\noutputs: stories/all-accounts-due/05-story.md; stories/all-accounts-due/06-canon-delta.md\nword_count: 5221 prose words\nstructure_check: PASS — exactly six substantial flashbacks; unchanged 2,949-word/56.5% share; six renewed favors, eight causal relics, six unrelated systems, and continuous terminal climax preserved.\nprompt_check: PASS — magic remains active until Faris pulls the ordinary cotter while saying exactly `No More Magic`; the words cause nothing; capacity, charge, structures, crossings, faculties, hybrids, reserves, relics, and restoration possibilities permanently end throughout the present material world.\nending_check: PASS — Seyathi identifies the deliberately omitted `only`, retains her valid betrayal claim, attempts her former faculty, and `Nothing moved. Nothing answered.` is the exact absolute endpoint.\nfinding_disposition: AAD-DRAFT-003 RESOLVED — every Ekkorath reference now uses they/them, including reflexive and possessive forms; Faris remains he/him throughout.\ndelta_check: PASS — 37 unique sequential proposal-only items inventory all reusable facts with exact local scope, constraints, dependencies, final-prose provenance, proposed dispositions, and smallest topical targets; authority remains none and promotion remains unauthorized.\nname_check: PASS — exhaustive final inventory contains only Faris, Seyathi, Hurzai, Ekkorath, King Malrec/Malrec, Qeluun, and Jelveth Sorn/Jelveth; the exact three-column non-character allowlist contains 27 reviewed rows and no unchecked proper noun.\nname_gate_note: Final story-names/3 currently also requires ten absent abandoned prior-version forms because those registry rows remain slug-associated; actual final names are registered, unique, and clear. Coordinator-owned registry reconciliation is required before the strict post-review gate.\nscope_check: PASS — only stories/all-accounts-due/05-story.md and stories/all-accounts-due/06-canon-delta.md changed; git diff --check is clean.\nchange_report: Completely replaced both rejected final artifacts without creative salvage. Created immutable-frontmatter release-facing prose from the passing cosmic draft, changing only the assigned Ekkorath pronouns, and created a consistent authority-none canon delta with complete locally scoped fact inventory, exhaustive character inventory, and required non-character allowlist. No crossover, rejected-version creative content, dawn, reassurance, reconstruction, restoration hint, registry edit, metadata edit, review edit, universe edit, or commit occurred.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
