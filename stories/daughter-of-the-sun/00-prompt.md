@@ -6,11 +6,7 @@
 
 ## Verbatim writing prompt
 
-> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
->
-> do not treat the imported stories any different.
->
-> i don't care about the meta difference either for the imported stories; treat them no diferently.
+> **[WP] Four centuries ago, your mother saved the capital by burning the rest of the kingdom and became a goddess in the history she left behind. Now you are worshipped as the Daughter of the Sun—and when proof of what she did awakens the same buried power, you must decide whether to destroy it alone or trust the people it endangers to share control of your fire.**
 
 ## Story controls
 

@@ -6,11 +6,7 @@
 
 ## Verbatim writing prompt
 
-> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
->
-> do not treat the imported stories any different.
->
-> i don't care about the meta difference either for the imported stories; treat them no diferently.
+> **[WP] Your twelve-year-old sister is dying, and the only cure is a living heartseed sold in a market beyond a hidden portal. The dealer will accept no money—only your place in every memory your family has of you. When you refuse the bargain, stealing the heartseed may be your last chance to save her.**
 
 ## Story controls
 

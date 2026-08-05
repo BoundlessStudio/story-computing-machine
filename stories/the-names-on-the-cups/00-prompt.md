@@ -6,11 +6,7 @@
 
 ## Verbatim writing prompt
 
-> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
->
-> do not treat the imported stories any different.
->
-> i don't care about the meta difference either for the imported stories; treat them no diferently.
+> **[WP] Every Sunday, a café owner writes the same names on the same cups and watches a quiet chain of longing unfold: Nora pines for the dazzling Rae while Claire waits for Nora to notice her. After rejection breaks the pattern, Nora must learn the difference between falling for a story she invented and truly seeing the person in front of her.**
 
 ## Story controls
 
