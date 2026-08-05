@@ -2,7 +2,7 @@
 
 - Slug: `all-accounts-due`
 - Created: 2026-08-05
-- Current stage: final-review
+- Current stage: final-edit
 - Status: in-progress
 - Canon: no
 - User disposition: pending

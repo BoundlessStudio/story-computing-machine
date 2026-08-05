@@ -260,3 +260,85 @@ REVIEW_PASS_PAYLOAD
   "changeReport": "Read-only draft review passed; no repository files changed. The replacement draft fulfills the controlling cosmic-climax prompt: exactly six substantial, nonchronological quest flashbacks occupy 2,949 of 5,221 prose words (56.5%), with the remaining prose forming the assembled present frame, immediate arming returns, continuous terminal confrontation, extinction wave, and Seyathi endpoint. Faris is consistently an ordinary lifelong nonmagical man whose errors, mundane tools, learned handling, and repeated rescues preclude hidden power or compensating super-skill. Seyathi, Malrec, Qeluun, Hurzai, Jelveth, and Ekkorath each make a fresh present choice after a materially distinct refusal or boundary. The six keystones, Parity Astrolabe, and Mortal Latch are individually causal and become powder, dead alloy, ordinary horn, unusable bronze, dust, protein ash, melted metal, or shattered mechanism. Six visibly distinct systems exhaust material-world magic without a common-origin claim; magic remains active through the attack until Faris pulls the ordinary cotter while saying exactly `No More Magic`, and the prose expressly states that the words cause nothing while the physical release propagates the six armed terminal conditions. The wave ends living capacity, stored charge, active workings, structures, material crossing anchors, divine and species faculties, hybrids, reserves, relics, seeds, inheritance, machines, and every material restoration possibility forever while preserving earlier history, personhood, memory, relationships, grief, responsibility, and the unclaimed afterlife and other realities. Seyathi's voluntary but uninformed arming follows Faris's technically true, deliberately narrowed promise; she identifies the omitted `only`, retains a morally valid personal grievance, attempts her established two-finger faculty, and `Nothing moved. Nothing answered.` is the absolute endpoint. The climax is spectacular, causally legible, Teen, close-third past tense, and dialogue-ready, with distinct conversational logic for all major speakers. No external exact occurrence of any new character, place, system, faction, structure, or relic name was found. One Minor pronoun-continuity correction for Ekkorath remains for the story editor; it does not require draft revision, canon ruling, retcon, material prompt reinterpretation, or new user authority."
 }
 END_REVIEW_PASS_PAYLOAD
+
+### Pass 5 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 5,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T14:55:44.8184955Z",
+  "reviewBasis": "Independent read-only final pass-5 review under guard 579b8eecfdae43be99976775d9dea9a4 of the current 5,221-word 05-story.md and complete 37-item 06-canon-delta.md against the revised prompt contract, canon brief, scene-ready plan, passing draft, review history through pass 4, final-review lifecycle record, authority inventory captured from main at b0f0453d290dd8dae270031eea6036da97832c1f, ordered handoff ledger through sequence 21, and reconciled character-name registry. Re-read the continuity-review skill and all routed craft, voice, character-voice, and dialogue-review guidance; applied the story-name-validation final-gate procedure. Rechecked current LOCKED/CANON authority governing chronology, system independence, living magical agency, local consent and cost behavior, artifacts, declarations and name-power, crossings, divinity, afterlife scope, personhood, Teen limits, and evidence discipline. Audited final frontmatter, exact six-flashback 2,949-word/56.5% structure, all six renewed favors, eight causal and terminal relics, six unrelated exhaustive systems, active magic through the declaration, ordinary cotter causality, worldwide permanent extinction, restoration exclusion, Seyathi's deliberate bounded deception and surviving grievance, close-third craft, pacing, dialogue distinction, hard endpoint, originality, every character-facing form, the complete three-column allowlist, and AAD-01 through AAD-37 for sequential IDs, final-prose evidence, exact scope, constraints, dependencies, provenance, dispositions, smallest targets, authority-none status, and proposal-only posture. The strict Final story-names/3 precheck passed at 2026-08-05T14:52:39.7733041+00:00 with zero warnings and zero errors. Current universe authority and the worktree were unchanged.",
+  "verdict": "REVISE",
+  "blockType": null,
+  "resolutionOwner": "story_editor",
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 1,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/all-accounts-due/05-story.md:291-297 of the rejected bounded version, the capstan holds the counterweight while Faris retracts and locks the safety catch before the brake eases, then pays line out through the quay sheave toward the descending counterweight. The historical disposition remains resolved; none of that version's setting, cast, or mechanism survives in the replacement final."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded final corrected its lifelong-zero metaphor before pass 2. The historical disposition remains resolved; the replacement final independently establishes at stories/all-accounts-due/05-story.md:29 and 337-339 that Faris has no inner gift, was born without magic, has lived without it all his life, and gains no immunity or hidden capacity."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version's revised delta removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. That historical finding remains resolved and none of its 17 delta items or creative content survives in the current 37-item replacement delta."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:271 and 283-291 now use `themself`, `they`, and `their` consistently for Ekkorath, matching the plan and the final inventory at stories/all-accounts-due/06-canon-delta.md:140-154 and 626-634. Faris remains he/him throughout."
+    }
+  ],
+  "findings": [
+    {
+      "id": "AAD-FINAL-002",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "canon-delta final-prose evidence, causal attribution, and renewed-choice exactness",
+      "locations": [
+        "stories/all-accounts-due/05-story.md:53-61",
+        "stories/all-accounts-due/05-story.md:197-207",
+        "stories/all-accounts-due/05-story.md:243-249",
+        "stories/all-accounts-due/05-story.md:123-159",
+        "stories/all-accounts-due/05-story.md:349-367",
+        "stories/all-accounts-due/06-canon-delta.md:76-88",
+        "stories/all-accounts-due/06-canon-delta.md:122-138",
+        "stories/all-accounts-due/06-canon-delta.md:185-198",
+        "stories/all-accounts-due/06-canon-delta.md:339-353",
+        "stories/all-accounts-due/06-canon-delta.md:374-390"
+      ],
+      "evidence": "Five delta details exceed or misassign final-prose evidence. AAD-10 says Seyathi `promises one future arming`, but her exact Talarum statement is only that Faris `may ask` her to arm the Tessera; she studies the present request and freshly says `Agreed` at the Array. Upgrading permission to ask into a prior promise weakens the prompt-critical renewed-choice distinction. AAD-03 attributes exposure of the root-furnace coup to Hurzai, while 05-story.md says the rescued demon young identify the officers through what they shout from the vents. AAD-06 attributes exposure of the Keruvan patrons to Jelveth, while Faris retains and reads their signed orders aloud; Jelveth then establishes the bargain. AAD-20 calls Qeluun's vertebra `lawfully shed`, although the final establishes only that it was shed, later stolen, recovered, returned, and entrusted; no legal status attaches to the shedding. AAD-22 additionally imports the plan-level counterfactual that ending any one system alone would leave the others active and that synchronization prevents a surviving system from preserving continuation. The final proves six distinct system-specific conditions, simultaneous propagation, no seventh source, and no surviving magic, but does not state that counterfactual mechanism.",
+      "requiredResolution": "Revise only the delta unless the final prose is deliberately expanded. In AAD-10 preserve Seyathi's invitation to ask and her fresh present agreement rather than calling the earlier line a promised arming. In AAD-03 assign coup exposure to the rescued young's testimony or describe Hurzai's exact enabling role. In AAD-06 assign the signed-order exposure to Faris and retain Jelveth's demonstrated stabilization and bargain actions. Remove `lawfully` from AAD-20 or add direct final-prose support. Limit AAD-22 to the demonstrated six-system inventory, separate authorities and keystones, synchronized propagation, hybrid-not-seventh status, and complete extinction, unless the final deliberately establishes the single-system counterfactual. Recheck all affected scopes, dependencies, provenance, dispositions, and targets while preserving all 37 sequential IDs, authority-none status, proposal-only posture, and promotion prohibition.",
+      "owner": "story_editor"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only final review; no repository files changed. The final prose itself passes. Immutable frontmatter matches story.json; six substantial flashbacks remain 2,949 of 5,221 prose words (56.5%); AAD-DRAFT-003 is resolved without changing Faris's required he/him usage; and the strict final name precheck passes cleanly. Faris remains an ordinary lifelong nonmagical man dependent on mistakes, mundane tools, learning, and material rescue. Six powers freshly choose distinct arming and defensive actions; all eight nonliving relics are causal and terminal; six unrelated systems and their hybrids exhaust material-world magic; and Faris pulls the ordinary cotter while saying exactly `No More Magic`, with the prose expressly assigning causation to the physical release rather than the words. The wave permanently ends capacity, workings, charge, structures, material-side crossings, faculties, hybrids, reserves, relics, seeds, inheritance, repeatable mechanisms, and restoration while preserving personhood, memory, relationships, responsibility, earlier history, and the unclaimed afterlife and other realities. Seyathi's voluntary but uninformed act, technically fulfilled promise, valid betrayal claim, failed two-finger faculty, and the literal final sentence `Nothing moved. Nothing answered.` all hold. Dialogue, pacing, close-third control, Teen treatment, and originality are prose-ready. The delta retains 37 unique sequential IDs, complete fields, appropriate smallest topical targets, and explicit authority-none, proposal-only, promotion-unauthorized posture, but AAD-03, AAD-06, AAD-10, AAD-20, and AAD-22 require the evidence corrections in AAD-FINAL-002 before the delta is ready or certification can become eligible. No canon ruling, retcon, material prompt reinterpretation, or new user authority is required."
+}
+END_REVIEW_PASS_PAYLOAD
