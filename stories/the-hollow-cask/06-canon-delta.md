@@ -200,19 +200,25 @@ or additional person-like entity receives a character-facing form.
 ## New rules, capabilities, or costs
 
 - **THC-09 — living force and inert routing network (proposed).** **Fact:**
-  Living Underbreath cords can contract colonized old oak beyond their ordinary
-  physical leverage; the cask-shell, hollow dowels, pegs, mortises, gutter,
-  clay branches, and gallery joinery only route the force. Agnes directly sees
-  a cord tighten, the oak grain close, and a linked gallery peg settle.
+  Living Underbreath cords supply supernatural contraction to colonized old oak
+  beyond their ordinary physical leverage. Colonized hollow dowels transmit
+  that contraction, while linked pegs, mortises, and gallery joinery carry or
+  bear the resulting structural force. Separately, the copper gutter—described
+  in dialogue as a serving gutter—routes poured material; the clay branches and
+  bellows throat route smoke; and the cask-shell houses the colony as habitat.
+  Agnes directly sees a cord tighten, the oak grain close, and a linked gallery
+  peg settle.
   **Exact local scope:** The demonstrated mechanism inside the Hollow Cask.
   **Constraints and dependencies:** No inert component chooses, casts, speaks,
   or acts by itself; no effect is established in uncolonized timber, beyond the
   pub, or without current living cords. Depends on THC-03, THC-04, THC-06, and
   THC-10 through THC-14. **Evidence:** `stories/the-hollow-cask/05-story.md` —
-  paragraphs beginning “One loose gallery peg” and “The cord was fine as
-  sewing thread.” **Proposed disposition:** `PROPOSE ADD AS STRICTLY LOCAL
-  LIVING-AGENCY MECHANISM`. **Suggested smallest topical target:**
-  `universe/rules.md`.
+  paragraphs beginning “The dowels descended through the wall frame,” “They
+  freed the cellar door,” “One loose gallery peg,” “The cord was fine as sewing
+  thread,” and “She traced the smoke branch upward,” plus the storm sequence
+  beginning “The rebuilt bellows shutter clapped open.” **Proposed
+  disposition:** `PROPOSE ADD AS STRICTLY LOCAL LIVING-AGENCY MECHANISM`.
+  **Suggested smallest topical target:** `universe/rules.md`.
 - **THC-10 — demonstrated structural capability and limits (proposed).**
   **Fact:** Through colonized dowels, the Underbreath can fractionally close old
   oak grain, settle or release pegs, temporarily alter a gallery's load path,
@@ -373,16 +379,16 @@ or additional person-like entity receives a character-facing form.
 
 - **THC-20 — Hollow Cask vocabulary bundle (proposed).** **Fact:** Local
   candidate terms are `the Hollow Cask`, `the Underbreath`, `cask-shell`,
-  `hollow dowels`, `speaking step`, `feed gutter`, `copper grille`, and
-  `bellows throat`, with meanings bounded by THC-03 through THC-18. **Exact
-  local scope:** Names and working material terms used for this pub, resident,
-  architecture, and mechanism. **Constraints and dependencies:** These labels
-  are not universal categories, magical true names, afterlife terms, or aliases
-  for any established place or being. `the Hollow Cask` is never shortened to
-  `the Hollow`; `the Underbreath` has no articleless, split, or shortened alias.
-  **Evidence:** `stories/the-hollow-cask/05-story.md` in full. **Proposed
-  disposition:** `PROPOSE ADD ONLY IF USEFUL WITH STRICT LOCAL QUALIFIERS`.
-  **Suggested smallest topical target:** `universe/glossary.md`.
+  `hollow dowels`, `speaking step`, `copper gutter`, `serving gutter`, `copper
+  grille`, and `bellows throat`, with meanings bounded by THC-03 through THC-18.
+  **Exact local scope:** Names and working material terms used for this pub,
+  resident, architecture, and mechanism. **Constraints and dependencies:**
+  These labels are not universal categories, magical true names, afterlife
+  terms, or aliases for any established place or being. `the Hollow Cask` is
+  never shortened to `the Hollow`; `the Underbreath` has no articleless, split,
+  or shortened alias. **Evidence:** `stories/the-hollow-cask/05-story.md` in
+  full. **Proposed disposition:** `PROPOSE ADD ONLY IF USEFUL WITH STRICT LOCAL
+  QUALIFIERS`. **Suggested smallest topical target:** `universe/glossary.md`.
 
 ## Name registry updates
 

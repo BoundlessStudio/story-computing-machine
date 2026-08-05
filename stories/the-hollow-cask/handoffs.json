@@ -168,6 +168,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 7,
+      "story": "the-hollow-cask",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T17:40:52.8366864+00:00",
+      "completedAt": "2026-08-05T17:43:48.0497606+00:00",
+      "guardId": "c44dab7b0aac4ccea1870ee16f4d80ef",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: the-hollow-cask\nmode: REVISE_FINAL\nguard_id: c44dab7b0aac4ccea1870ee16f4d80ef\ncurrent_stage: final-review\noutput: stories/the-hollow-cask/06-canon-delta.md\nprose_check: PASS — stories/the-hollow-cask/05-story.md remained byte-unchanged at SHA-256 6B2400697C8B1FF8FBAF06CDBECD97C6B23A77CD5FFCD562EBC3F8161001DD89; word count remains 3,343 prose words.\nfinding_disposition: THC-FINAL-001 RESOLVED — THC-09 now assigns supernatural contraction only to the living cords, structural transmission or bearing to colonized dowels, pegs, mortises and joinery, poured-material routing to the copper/serving gutter, smoke routing to the clay branches and bellows throat, and habitat function to the cask-shell; THC-20 removes unattested `feed gutter` and inventories only the attested `copper gutter` and `serving gutter` forms.\nprior_finding_disposition: THC-DRAFT-001 remains RESOLVED — the registered `the Underbreath` form and no-alias posture are unchanged.\ndelta_check: PASS — all 20 unique sequential items retain local scope, constraints, dependencies, evidence, proposed dispositions, smallest topical targets, authority-none status, proposal-only posture, and unauthorized-promotion status; the six-row three-column allowlist is unchanged.\nname_check: PASS — strict Final story-names/3 returned zero warnings and zero errors.\nvalidation_result: PASS — fast story-branch validation passed and git diff --check is clean.\nscope_check: PASS — only stories/the-hollow-cask/06-canon-delta.md changed; no prose, review, registry, lifecycle, metadata, index, release, promotion, handoff-ledger, or universe file was modified.\nchange_report: Resolved only THC-FINAL-001 by correcting the two assigned delta items to the final prose's demonstrated component functions and attested vocabulary. Preserved numbering, dependencies, dispositions, targets, local and living-agency qualifiers, non-canon posture, allowlist, prior finding resolution, and story/delta consistency. No promotion, retcon, canon ruling, or prose revision occurred.\nstale_precondition: none",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-hollow-cask/00-prompt.md",
+        "stories/the-hollow-cask/01-canon-brief.md",
+        "stories/the-hollow-cask/02-story-plan.md",
+        "stories/the-hollow-cask/03-draft.md",
+        "stories/the-hollow-cask/04-review.md",
+        "stories/the-hollow-cask/05-story.md",
+        "stories/the-hollow-cask/06-canon-delta.md",
+        "stories/the-hollow-cask/authority.json",
+        "stories/the-hollow-cask/handoffs.json",
+        "stories/the-hollow-cask/story.json"
+      ],
+      "outputs": [
+        "stories/the-hollow-cask/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
