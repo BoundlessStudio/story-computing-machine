@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "the-hollow-cask",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-05T16:43:47.9932854+00:00",
+      "completedAt": "2026-08-05T17:04:53.5114956+00:00",
+      "guardId": "170d9ad8579e42b5bf724f31a74a55b5",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: `the-hollow-cask`\nmode: `CREATE_PLAN`\nguardId: `170d9ad8579e42b5bf724f31a74a55b5`\noutput: `stories/the-hollow-cask/02-story-plan.md`\nnameRegistrationRequired: `true`\nnameInventory: `Agnes Wold`; `Agnes`; `Silas Cray`; `Silas`; `the Underbreath`\nacceptanceSummary: `Complete seven-scene plan targeting approximately 3,500 story words, with restoration-driven clues and climax, material former-grandeur evidence, bounded living magical agency with explicit costs and limits, purchaser-restorer arc, stakes, reversals, humane ending, story-specific style profile, dialogue cards and tactic changes, canon constraints, local inventions, and complete four-column Name check.`\nscopeCheck: `Only stories/the-hollow-cask/02-story-plan.md changed; no canon, registry, metadata, prose, review, or other file was modified.`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-hollow-cask/00-prompt.md",
+        "stories/the-hollow-cask/01-canon-brief.md",
+        "stories/the-hollow-cask/authority.json",
+        "stories/the-hollow-cask/handoffs.json",
+        "stories/the-hollow-cask/story.json"
+      ],
+      "outputs": [
+        "stories/the-hollow-cask/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
