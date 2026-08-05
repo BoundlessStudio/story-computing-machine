@@ -2,8 +2,8 @@
 
 - Slug: `all-accounts-due`
 - Created: 2026-08-05
-- Current stage: candidate
-- Status: candidate
+- Current stage: canon-research
+- Status: in-progress
 - Canon: no
 - User disposition: pending
 - Publish: no
@@ -16,19 +16,19 @@ each stage. Specialist agents do not edit it. -->
 
 - [x] Prompt contract captured
 - [x] Authority snapshot recorded
-- [x] Canon brief completed
-- [x] Story plan completed
-- [x] Plan name check passed
-- [x] Complete draft written
-- [x] Draft review passed
-- [x] Critical and major findings resolved
-- [x] Final story written
-- [x] Canon delta recorded
-- [x] Final story review passed
-- [x] Final name check passed
-- [x] Name registry updated
-- [x] Release certificate issued
-- [x] Story index updated
-- [x] Specialist handoff ledger validated
+- [ ] Canon brief completed
+- [ ] Story plan completed
+- [ ] Plan name check passed
+- [ ] Complete draft written
+- [ ] Draft review passed
+- [ ] Critical and major findings resolved
+- [ ] Final story written
+- [ ] Canon delta recorded
+- [ ] Final story review passed
+- [ ] Final name check passed
+- [ ] Name registry updated
+- [ ] Release certificate issued
+- [ ] Story index updated
+- [ ] Specialist handoff ledger validated
 - [x] Promotion manifest closed or not prepared
 - [ ] Canon promotion explicitly approved (optional)
