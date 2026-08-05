@@ -107,6 +107,36 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "four-million-falling",
+      "actor": "story_editor",
+      "mode": "CREATE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T04:11:50.1106907+00:00",
+      "completedAt": "2026-08-05T04:22:29.7372099+00:00",
+      "guardId": "6ec7edc801fb43af994660f97e0f409f",
+      "persister": "story_editor",
+      "report": "status: READY\nresolutionOwner: none\nstory: `four-million-falling`\nmode: `CREATE_FINAL`\nguardId: `6ec7edc801fb43af994660f97e0f409f`\ncurrentStage: `draft-review`\noutputs: `stories/four-million-falling/05-story.md`; `stories/four-million-falling/06-canon-delta.md`\nstoryWordCount: `3236`\nproseChanges: `Created the release-facing final with immutable title, slug, and creation-date frontmatter; preserved the passing reviewed story body byte-identically.`\ndeltaSummary: `Created an authority-none, proposal-only 23-item sequential canon delta. Every item includes evidence, exact local scope, constraints, dependencies, proposed disposition, and smallest topical target.`\nnamesUsed: `Inez Arco`; `Inez`; `Arco`; `Chief Damas`; `Damas`; `Paz Arco`; `Paz`\nnameInventoryAllowlist: `Exhaustive final character-facing inventory and exact three-column 24-row non-character allowlist are present; story-names/3 passed with zero warnings and zero errors.`\ncanonPromptChecks: `PASS — 2,500–4,000-word range, close-third past tense, ancient floating city of 4,083,612 residents, local dead-magic belief, six-reactor failure cascade, catastrophic on-page consequences, permanent grounding and displacement, PG-13 treatment, no magical restoration, no crossover, and no promotion claim.`\nscopeCheck: `PASS — story-scoped branch validation and git diff checks passed; only the two allowed output paths changed.`\nchangeReport: `Created only stories/four-million-falling/05-story.md and stories/four-million-falling/06-canon-delta.md. No review, registry, metadata, index, release, promotion, handoff-ledger, universe-note, or other file was modified; nothing was promoted.`\nstalePrecondition: `none`",
+      "inputs": [
+        "stories/four-million-falling/00-prompt.md",
+        "stories/four-million-falling/01-canon-brief.md",
+        "stories/four-million-falling/02-story-plan.md",
+        "stories/four-million-falling/03-draft.md",
+        "stories/four-million-falling/04-review.md",
+        "stories/four-million-falling/authority.json",
+        "stories/four-million-falling/handoffs.json",
+        "stories/four-million-falling/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/four-million-falling/05-story.md",
+        "stories/four-million-falling/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
