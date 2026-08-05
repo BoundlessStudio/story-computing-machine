@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 2
-- Verdict: REVISE
+- Review pass: 3
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 0
-- Updated: 2026-08-05T05:58:55.9539591Z
+- Updated: 2026-08-05T06:12:49.7249212Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -69,6 +69,59 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only initial draft review; no repository files changed. The approximately 3,450-word draft fulfills the prompt in a bounded Gannet Reach crisis: every connected gauge and twenty-seven independently tested practitioners across five trades read zero, attempted living-powered workings fail, outside evidence remains limited, and the cause, duration, and wider reach stay unknown. Faris remains lifelong nonmagical; her past help yields freely renegotiated aid from Uma and Zeke, Tycho's technical collaboration, and separately limited artifacts whose mechanical or informational properties—not autonomous magic—enable access, mapping, rigging, and communication failure. Refusals materially improve evacuation, barge position, load limits, stop authority, rotations, and the renewed climax plan. The gate sequence otherwise tracks water pressure, direct-pull shear risk, counterweight unloading, sling creep, a lower-rated choke, measured pull increments, guide clearing, braking, gravity drainage, and irreversible wet-room damage. Close-third past tense stays fixed on Faris; all six scenes turn through changed leverage or action; pacing is controlled; Faris, Tycho, Uma, and Zeke retain distinct planned conversational logic and tactic changes; Teen limits hold; and only those four registered character-facing names appear. Two Minor clarity defects remain for final editing: the safety catch and rope direction need explicit load-path continuity, and one sentence inverts Faris's lifelong-zero floor metaphor. Neither defect requires a canon ruling, retcon, material prompt reinterpretation, or draft revision gate, so the draft passes with zero unresolved Critical and Major findings and remains ineligible for final certification until the later final review."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T06:12:49.7249212Z",
+  "reviewBasis": "Independent read-only final re-review under guard fa2b1fdece0d490390d131a0476cc19d of the unchanged 3,510-word release-facing story and revised 17-item canon delta against the captured prompt, final-review lifecycle record, canon brief, scene-ready plan, passing draft, review history through pass 2, authority inventory captured from main at b0f0453d290dd8dae270031eea6036da97832c1f, ordered handoff ledger through completed sequence 7, current complete character-name registry, binding universe constraints, and routed craft and dialogue guidance. Confirmed 05-story.md remains byte-for-byte unchanged at SHA-256 8D4147434414A95D89DAE22F467860CA40AC42958D83C4CC8262551F23AD9983, verified every component of AAD-FINAL-001, preserved both draft-finding dispositions, and re-audited all 17 delta IDs for final-prose evidence, exact local scope, constraints, dependencies, provenance, proposed dispositions, smallest topical targets, authority-none status, and unpromoted posture. Reconfirmed frontmatter, prompt fulfillment, chronology, hydraulic and load-path causality, living agency, artifact limits, voluntary favors, close-third craft, pacing, dialogue distinction, Teen treatment, final name inventory, and three-column allowlist. All seven completed handoffs are ordered and READY; current universe authority remains unchanged; and the strict Final story-names/3 gate passed at 2026-08-05T06:11:19.8602250+00:00 with zero warnings and zero errors.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/all-accounts-due/05-story.md:291-297, the capstan holds the counterweight while Faris retracts and locks the safety catch before the brake eases, then pays line out through the quay sheave toward the descending counterweight. Revised AAD-14 at stories/all-accounts-due/06-canon-delta.md:270-290 preserves the corrected load path, limits, halt authority, renewed choice, and gravity-driven opening."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:35 states that Faris's ceiling has never risen above zero, no hidden capacity exists, and she has never had magic. Revised AAD-01 at stories/all-accounts-due/06-canon-delta.md:17-36 preserves that lifelong nonmagical status without adding immunity, destiny, severance, dormancy, or social magic."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The revised delta now matches final-prose evidence throughout the seven affected areas. AAD-01 at lines 17-36 removes `courier` as Faris's profession and explicitly withholds it; AAD-04 at lines 72-88 describes only Zeke's demonstrated clinic authority and withholds `clinic steward` or another formal title; AAD-08 at lines 165-182 limits the instruments to Faris's single wrist gauge, the municipal board, and the counted hand testers while withholding plural or connected wrist gauges and board architecture; AAD-09 at lines 186-205 separates direct attempts from stalled, silent, dead, and flag-reported conditions; AAD-10 at lines 207-221 and AAD-12 at lines 237-255 explicitly leave storage state unestablished and retain only observed passive or mechanical behavior; AAD-15 at lines 294-314 assigns evacuation, rigging, calculation, gate work, injury care, rotations, and collective labor to the participants who perform them. Related AAD-03 and AAD-14 wording now describes the slipping rig and base-fiber use without importing inert-storage conclusions. All affected scopes, constraints, dependencies, dispositions, and targets remain present and locally qualified."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Final re-review passed; no repository files were changed. AAD-FINAL-001 is fully resolved in the revised delta without altering the already passing final prose or regressing AAD-DRAFT-001 or AAD-DRAFT-002. The story remains prompt-complete, canon-compatible, causally coherent, Teen, close-third past tense, and prose-ready: the local zero evidence stays bounded, Faris remains genuinely nonmagical, helpers retain meaningful refusal and renewed choice, artifacts remain individually limited and non-agentic, and the catch-counterweight-capstan-gate sequence remains mechanically legible. AAD-01 through AAD-17 are unique and ordered; every item retains final-prose-supported facts, exact local scope, constraints, dependencies, provenance, an explicit proposed disposition, and a smallest topical target. The delta remains authority none, proposal only, promotion unauthorized, unplaced, and free of crossover or universal mana claims. The final character inventory remains exhaustive for Faris, Tycho, Uma, and Zeke; the allowlist contains only Gannet Reach, Reach, and Lowbank in the required three-column form; registry reservations remain unique; and the strict final name gate passes cleanly. Handoff sequences 1 through 7 are complete and READY. No unresolved finding, canon ruling, retcon, material prompt reinterpretation, or user authority need remains, so the final artifacts are eligible for the next release and name-reconciliation gates."
 }
 END_REVIEW_PASS_PAYLOAD
 

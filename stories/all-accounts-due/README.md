@@ -21,14 +21,14 @@ each stage. Specialist agents do not edit it. -->
 - [x] Plan name check passed
 - [x] Complete draft written
 - [x] Draft review passed
-- [ ] Critical and major findings resolved
+- [x] Critical and major findings resolved
 - [x] Final story written
 - [x] Canon delta recorded
-- [ ] Final story review passed
-- [ ] Final name check passed
-- [ ] Name registry updated
+- [x] Final story review passed
+- [x] Final name check passed
+- [x] Name registry updated
 - [ ] Release certificate issued
 - [ ] Story index updated
-- [ ] Specialist handoff ledger validated
+- [x] Specialist handoff ledger validated
 - [ ] Promotion manifest closed or not prepared
 - [ ] Canon promotion explicitly approved (optional)
