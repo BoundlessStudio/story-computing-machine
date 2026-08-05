@@ -106,6 +106,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 5,
+      "story": "a-friendly-little-game",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-05T19:35:00.3897610+00:00",
+      "completedAt": "2026-08-05T19:42:00.6184060+00:00",
+      "guardId": "0fbceb95f4604207889c69ec6d958b94",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD and END_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/a-friendly-little-game/00-prompt.md",
+        "stories/a-friendly-little-game/01-canon-brief.md",
+        "stories/a-friendly-little-game/02-story-plan.md",
+        "stories/a-friendly-little-game/03-draft.md",
+        "stories/a-friendly-little-game/04-review.md",
+        "stories/a-friendly-little-game/authority.json",
+        "stories/a-friendly-little-game/handoffs.json",
+        "stories/a-friendly-little-game/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/a-friendly-little-game/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
