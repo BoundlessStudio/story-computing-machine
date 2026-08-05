@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 7
+- Review pass: 8
 - Verdict: REVISE
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 2
-- Updated: 2026-08-05T23:28:59.1349167Z
+- Updated: 2026-08-05T23:53:25.6085793Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -508,5 +508,115 @@ REVIEW_PASS_PAYLOAD
   "findings": [],
   "certificationEligible": true,
   "changeReport": "Read-only final re-review; no repository files changed. AAD-FINAL-002 is resolved entirely in 06-canon-delta.md, while 05-story.md remains byte-identical to pass 5 and all earlier finding dispositions remain resolved. Final frontmatter matches story.json. Faris remains a lifelong nonmagical man whose mistakes, ordinary tools, learned knowledge, relationships, and material assistance determine the climax. Six living powers freshly choose their arming and defensive acts; all eight nonliving relics have bounded causal functions; and six unrelated systems plus their constituent hybrids exhaust magic in the present material world. Faris pulls an ordinary cotter while saying exactly `No More Magic`; the prose explicitly states that the words cause nothing and the physical release causes the six simultaneous terminal conditions. Capacity, workings, stored charge, structures, material-side crossings, faculties, hybrids, reserves, relics, seeds, inheritance, repeatable mechanisms, and every material restoration possibility end permanently, while earlier history, personhood, memory, relationships, responsibility, and unclaimed afterlife and other-reality scope remain intact. Seyathi recognizes the deliberately omitted `only`, remains personally and morally aggrieved, attempts her former two-finger faculty, and the story ends exactly with `Nothing moved. Nothing answered.` The revised delta contains all 37 sequential items with complete local qualification and proposal fields, an unchanged exhaustive seven-character inventory, and a complete three-column 27-row non-character allowlist. The strict final name gate passes with no warnings or errors. No canon ruling, retcon, prompt reinterpretation, or new user authority is required; the final review is PASS and certification is eligible."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 8 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 8,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T23:53:25.6085793Z",
+  "reviewBasis": "Independent read-only final pass-8 review under guard 99f2c310852f4e4e8f98b393bd6cb6c0 of current 05-story.md SHA-256 CE18A5563CF19D750CB246050458C7FD3B29A317829F5BC7971B64C104A78293 and revised 06-canon-delta.md SHA-256 894677CE75D7B5C86627825E1A84A6619797AFCB604AF98C3E17A0593EA5809 after completed sequence-27 REVISE_FINAL. Re-read the continuity-review and strict final-name procedures and reapplied all routed writing, voice, character-voice, dialogue, and dialogue-review guidance. Reviewed the current prompt, lifecycle record, canon brief, scene-ready plan and dialogue profiles, replacement draft, official review history through pass 7, authority inventory captured from main at b0f0453d290dd8dae270031eea6036da97832c1f, ordered v3 handoff ledger through sequence 27, current registry, final prose, and complete 37-item delta. Rechecked current LOCKED/CANON authority for terminal chronology, independent systems, living magical agency, local costs and consent, artifact limits, declarations, divinity, crossings, afterlife scope, personhood, Teen treatment, and evidence discipline; universe authority remains unchanged from the captured base. Independently reproduced the structural counts by stripping YAML frontmatter and H1, counting words with `\\b[\\p{L}\\p{N}][\\p{L}\\p{N}'’\\-]*\\b`, counting each flashback body only from its italic heading to but excluding its following present trigger, and counting the uninterrupted final from `Now, at the Ithrom Array, all six keystones remained unarmed.` through the endpoint. Results exactly match 5,472 total prose words; six flashbacks of 570, 573, 465, 507, 456, and 439 words, totaling 3,010 or 55.01%; and 2,110 uninterrupted-final words or 38.56%. Re-audited all 37 delta items, seven character identities, and 27-row three-column allowlist. The strict Final story-names/3 check passed at 2026-08-05T23:53:17.0546260+00:00 with zero warnings and zero errors. Git diff checking is clean, immutable frontmatter remains correct, the declaration occurs once, and `Nothing moved. Nothing answered.` remains the exact endpoint.",
+  "verdict": "REVISE",
+  "blockType": null,
+  "resolutionOwner": "coordinator",
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 2,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its catch, counterweight, sheave, and capstan load path before pass 2. That historical disposition remains resolved; none of the bounded setting or mechanism survives in the current replacement."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its inverted lifelong-zero metaphor before pass 2. The current replacement independently establishes at stories/all-accounts-due/05-story.md:11, 35, and 373-375 that Faris has never had magic, receives no hidden capacity, and remains normally vulnerable."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. None of its 17 delta items or creative content survives in the current 37-item replacement."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:227-253 consistently uses `themself`, `they`, and `their` for Ekkorath, matching the plan, registry, and final inventory at stories/all-accounts-due/06-canon-delta.md:736-744. Faris remains he/him."
+    },
+    {
+      "id": "AAD-FINAL-002",
+      "priorPass": 5,
+      "resolvedInPass": 6,
+      "disposition": "RESOLVED",
+      "evidence": "Current AAD-03 assigns coup exposure to the rescued demon young; AAD-06 assigns the written-order exposure to Faris; AAD-10 preserves Seyathi's invitation to ask and fresh agreement; AAD-20 contains no unsupported `lawfully` qualifier; and AAD-22 now has direct support for its local all-roots counterfactual at stories/all-accounts-due/05-story.md:289-303."
+    },
+    {
+      "id": "AAD-FINAL-003",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-09 at stories/all-accounts-due/06-canon-delta.md:204-223 no longer assigns an unsupported size to the Unwritten Axis or shape to the Latch recess. AAD-21 at lines 415-434 now limits its extinction inventory to the demonstrated Unhatched Form stored exchanges, impossible faculties, shared senses, keeper awareness, forced hybrids, and Kindred Graft reserves."
+    },
+    {
+      "id": "AAD-FINAL-004",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:255-421 now forms one uninterrupted post-sixth-flashback present sequence containing all six renewed arming choices, the assault, declaration, extinction, and Seyathi endpoint. Independent counting confirms 2,110 of 5,472 words, or 38.56%, while the six flashback-only bodies total 3,010 words, or 55.01%, satisfying both captured proportions without counting interleaved triggers as flashback prose."
+    }
+  ],
+  "findings": [
+    {
+      "id": "AAD-FINAL-005",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "canon-delta unsupported causal qualifier",
+      "locations": [
+        "stories/all-accounts-due/05-story.md:27-61",
+        "stories/all-accounts-due/06-canon-delta.md:70-92",
+        "stories/all-accounts-due/06-canon-delta.md:224-240"
+      ],
+      "evidence": "AAD-02 still says Seyathi holds a `corrupted pattern` open at the Talarum Steps. The release-facing prose establishes a coercive prepared pavement, the greater pattern Seyathi holds apart, and a hidden Absolute Yoke trial lattice, but it never establishes that a formerly valid pattern was corrupted or otherwise supplies that causal/history qualifier. AAD-10 correctly uses the prose-supported term `coercive`, leaving AAD-02 inconsistent with the more exact account. Promotion-ready delta facts cannot turn an observed coercive Yoke trial into an unestablished corruption history.",
+      "requiredResolution": "In AAD-02 replace `corrupted pattern` with a prose-supported description such as the coercive pattern or Yoke trial pattern, unless 05-story.md is deliberately revised to establish corruption. Preserve Seyathi's exact assistance, cost, gift, voluntary but incompletely informed arming, surviving personhood and grievance, dependencies, local scope, provenance, disposition, and target; then rerun the 37-item evidence audit.",
+      "owner": "story_editor"
+    },
+    {
+      "id": "AAD-FINAL-006",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "ordered handoff ledger and official review-history mismatch",
+      "locations": [
+        "stories/all-accounts-due/04-review.md:75-173",
+        "stories/all-accounts-due/handoffs.json:710-739",
+        "stories/all-accounts-due/handoffs.json:741-750"
+      ],
+      "evidence": "Handoff sequence 26 has guard ID `6a73e2fce9ae4edb8d1f028cd6bac77a`, the completed pass-7 guard, but its persisted `report` is the old pass-6 PASS payload: it identifies pass 6, guard `7e7b8b13081c4caf8020c365be9d0252`, no findings, and certification eligibility. The official 04-review.md correctly contains pass 7 as REVISE with AAD-FINAL-003 and AAD-FINAL-004, and sequence 27 claims to resolve those pass-7 findings. The ledger therefore does not preserve the exact returned pass-7 specialist payload and its sequence-26 evidence contradicts both the official review history and the following revision handoff. This breaks the ordered specialist-work record required for release readiness even though the creative revisions themselves are present.",
+      "requiredResolution": "The coordinator must reconcile sequence 26 through the repository's supported handoff-record transaction or repair procedure so its report is the exact pass-7 payload already preserved in 04-review.md, without inventing new specialist work, changing sequence order, or altering the pass-7 disposition. Revalidate the v3 ledger and its agreement with review history and sequence 27 before certification.",
+      "owner": "coordinator"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only pass-8 final review; no repository file was changed. AAD-FINAL-003 and AAD-FINAL-004 are resolved directly and completely. The revised story now honors the prompt-controlled structure with six intact flashback memories followed by a 38.56% uninterrupted final sequence. It preserves the 31/9/4-year chronology; continuous Mortal Latch state and blocking; Array, Faris, Seyathi, and mechanism free-fall; six-practice engineer and Ascendancy/Yoke provenance; Hurzai's demonstrated all-roots proof; the five informed patrons' complicity and Seyathi's credible trust-based but uninformed choice; Malrec's aging cost and armed failsafe; explicit casualty accounting; differentiated dialogue and ritual rhythms; six renewed choices; eight necessary and terminal relics; six unrelated exhaustive systems; Teen treatment; ordinary cotter causality for the exact declaration; permanent present-material-world extinction with protected personhood and afterlife boundaries; and the exact hard ending. Strict names, exhaustive inventory, allowlist shape, 37 unique sequential IDs, immutable frontmatter, and prose mechanics pass. Certification remains ineligible because AAD-FINAL-005 leaves one unsupported qualifier in AAD-02 and AAD-FINAL-006 leaves the pass-7 handoff ledger entry inconsistent with the official review and sequence-27 revision. Both are locally resolvable without canon ruling, retcon, material prompt reinterpretation, or new user authority."
 }
 END_REVIEW_PASS_PAYLOAD
