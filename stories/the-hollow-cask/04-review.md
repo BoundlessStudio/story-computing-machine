@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/the-hollow-cask/05-story.md`
-- Review pass: 2
-- Verdict: REVISE
+- Review pass: 3
+- Verdict: PASS
 - Reviewer: `continuity_critic`
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-05T17:38:50.2531779Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-05T17:45:28.3376573Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -117,5 +117,51 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only final review; no files changed. THC-DRAFT-001 is fully resolved, and the release-facing story itself is prompt-complete, canon-compatible, causally coherent, Teen, and prose-ready. Its immutable frontmatter matches story.json, and its body otherwise preserves the passing draft exactly. Agnes voluntarily purchases and personally restores a genuinely crumbling rural pub; converging fabric, wear, artifacts, tallies, joinery and records establish former communal grandeur and a relatively ancient secret without overclaiming builders, absolute age or chronology. The Underbreath remains a bounded living fungal-and-mite colony whose metabolism, growth, brood care, injury, preference, refusal and withdrawal supply every supernatural act, while the pub and all architectural components remain inert. The storm crisis follows the reconstructed smoke route, established load path, costs and escape choices; the independently shored and severed repair permanently sacrifices the finest gallery bay, removes concealed living labor, preserves the colony's revisable exit and continued presence, and reopens a smaller self-supporting hall without coercion or sequel-hook dependence. Agnes and Silas retain distinct dialogue strategies, close-third past-tense control remains exact, peril is non-graphic, and evidence claims remain proportional. The final character inventory contains exactly Agnes Wold, Agnes, Silas Cray, Silas, and the Underbreath; the six-row reviewed-prose allowlist is exact, and the strict final name gate passes cleanly. The delta otherwise contains 20 unique sequential, final-prose-grounded, locally qualified, proposal-only items with explicit scopes, constraints, dependencies, dispositions and smallest targets, but certification is withheld until THC-09 assigns the gutter, smoke branches and cask-shell their actual distinct functions and THC-20 replaces the unattested `feed gutter` term with attested final-story vocabulary. This delta-only correction requires no canon ruling, retcon, material prompt reinterpretation, registry edit or prose revision."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "the-hollow-cask",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/the-hollow-cask/05-story.md",
+  "authorityManifest": "stories/the-hollow-cask/authority.json",
+  "handoffLedger": "stories/the-hollow-cask/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T17:45:28.3376573Z",
+  "reviewBasis": "Independent read-only final re-review under guard d294707b3f0a4b08a0a05d512b6ccdbf of the byte-unchanged approximately 3,343-word release-facing story and revised complete 20-item canon delta against the captured prompt, final-review lifecycle record, canon brief, scene-ready plan, passing draft, complete review history through pass 2, authority inventory captured from main at 18da3f718b2d3ecfefe536e706528a52ad6a2b38, ordered handoff ledger through completed sequence 7, and current complete character-name registry. Verified that stories/the-hollow-cask/05-story.md remains byte-unchanged from pass 2 at SHA-256 6B2400697C8B1FF8FBAF06CDBECD97C6B23A77CD5FFCD562EBC3F8161001DD89 and that only 06-canon-delta.md plus the handoff ledger changed during the resolution checkpoint. Verified THC-FINAL-001 against the corrected component functions and vocabulary, preserved THC-DRAFT-001, and re-audited all 20 unique sequential delta items for final-prose evidence, exact local scope, constraints, dependencies, proposed dispositions, smallest targets, authority-none posture, and promotion limits. Rechecked prompt fulfillment, canon and chronology, restoration and load-path causality, smoke, vent and withdrawal mechanics, living agency, inert architecture, personhood, purchaser and resident choice, evidence discipline, close-third past-tense control, pacing, dialogue distinction and tactic changes, prose readiness, Teen/non-graphic limits, complete resolution, immutable frontmatter, exhaustive final character-facing inventory, and the six-row three-column reviewed-prose allowlist. Every inventoried universe file and all 24 admitted canon stories remain unchanged from the authority base. The strict Final story-names/3 gate passed again at 2026-08-05T17:45:05.4829715+00:00 with zero warnings and zero errors; git diff --check passed and the worktree was clean.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "THC-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The unchanged final prose at stories/the-hollow-cask/05-story.md:179 continues to use the exact registered form `the Underbreath` rather than the split `the under breath` wording. Stories/the-hollow-cask/06-canon-delta.md:68-89, 104-113 and 393-403 preserve that single form, the exact quoted-text allowlist classification, and the no-alias posture. The final inventory still matches stories/NAMES.md:38, 192 and 210, and the strict Final story-names/3 gate again passes with zero warnings and zero errors."
+    },
+    {
+      "id": "THC-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/the-hollow-cask/06-canon-delta.md:202-221, THC-09 now assigns supernatural contraction only to living Underbreath cords, transmission to colonized hollow dowels, structural bearing to linked pegs, mortises and gallery joinery, poured-material routing to the copper or serving gutter, smoke routing to the clay branches and bellows throat, and habitat function to the cask-shell. These functions align with stories/the-hollow-cask/05-story.md:75, 85, 101-103, 141, 163-167 and 219. At delta lines 380-391, THC-20 removes unattested `feed gutter` and inventories the exact final-prose forms `copper gutter` and `serving gutter`. Local scope, living-agency constraints, dependencies, evidence, disposition, targets and proposal-only posture remain intact."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only final re-review passed; no files changed. THC-FINAL-001 is fully resolved without regression, and THC-DRAFT-001 remains resolved. The unchanged release-facing story fulfills the prompt within its required length, viewpoint, tense, rural-gothic tone and Teen/non-graphic boundary. Agnes voluntarily purchases and personally restores a genuinely crumbling countryside pub; converging fabric, wear, artifacts, tallies, joinery and records establish its former communal grandeur and relatively ancient secret without overstating builders, absolute age or chronology. The Underbreath remains a bounded living fungal-and-mite colony whose metabolism, growth, brood care, injury, preference, refusal and withdrawal supply every supernatural action, while the pub, deed and architectural apparatus remain inert. The storm crisis follows the reconstructed smoke path, established load mechanics, habitat needs and withdrawal behavior; the costly severance removes coerced hidden labor, permanently sacrifices the finest gallery bay, preserves a revisable exit, and reopens a smaller independently supported hall. Close-third past-tense control, dialogue distinction, pacing, physical clarity, evidence discipline, personhood treatment and complete humane resolution are release-ready. The corrected delta contains 20 unique sequential, final-prose-supported and locally bounded proposal items with explicit constraints, dependencies, dispositions and smallest targets. THC-09 now distinguishes living force, structural transmission, poured-material routing, smoke routing and habitat exactly; THC-20 inventories only attested vocabulary. Authority remains none, promotion remains unauthorized, and no retcon or crossover is inferred. The final character inventory contains exactly Agnes Wold, Agnes, Silas Cray, Silas, and the Underbreath; the six-row reviewed-prose allowlist is exact, the registry has no unresolved collision, and the strict final name gate passes cleanly. No unresolved finding, canon ruling, retcon, material prompt reinterpretation or new user authority remains; the final artifacts are certification-eligible."
 }
 END_REVIEW_PASS_PAYLOAD
