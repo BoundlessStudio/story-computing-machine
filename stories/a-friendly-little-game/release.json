@@ -1,1 +1,37 @@
-{"schemaVersion":3,"certified":false,"storySlug":"a-friendly-little-game","certifiedAt":null,"certificationBasis":"pipeline","artifacts":{"story":{"path":"05-story.md"},"canonDelta":{"path":"06-canon-delta.md"}},"review":{"artifact":null,"pass":0,"verdict":"PENDING","reviewer":null,"reviewedAt":null,"reviewBasis":null,"unresolvedCritical":null,"unresolvedMajor":null},"nameCheck":{"story":"a-friendly-little-game","phase":"Final","passed":false,"checkedAt":null,"checkerVersion":"story-names/3","warnings":[]},"dependencies":{"authorityManifest":"authority.json","handoffLedger":"handoffs.json"}}
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "a-friendly-little-game",
+  "certifiedAt": "2026-08-05T20:14:00.3272512+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 3,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-05T20:09:21.7813824Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "a-friendly-little-game",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-05T16:14:00.1338312-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}
