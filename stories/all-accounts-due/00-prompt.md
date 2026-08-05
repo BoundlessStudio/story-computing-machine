@@ -1,6 +1,6 @@
 # Prompt contract
 
-> Contract status: REVISED AGAIN AFTER CROSSOVER FEEDBACK
+> Contract status: REVISED AGAIN FOR COSMIC CLIMAX
 > Story slug: `all-accounts-due`
 > Captured: 2026-08-05
 
@@ -17,6 +17,10 @@
 
 > i see reference to "the Daughter" i didnt say you can cross stories or reuse characters; try again.
 
+## Verbatim cosmic-scale clarification
+
+> its the same kind of issues thought in this new draft; agriculture is not the cosmos type of event i was thinking of the House of M for Magic.. it needs to be more grand, more spectacle, a great pay off for all the time invested in their life, learning, colling artifacts, favours, etc... all pointing to the climax of "No More Magic"
+
 ## Story controls
 
 - Working title: All Accounts Due
@@ -25,15 +29,18 @@
 - POV: Chosen during planning for strongest dramatic effect.
 - Tense: Chosen during planning for strongest dramatic effect.
 - Tone and genre: World-ending event fantasy; epic, elegiac, cumulative, and
-  intimate enough that the scale is felt through irreversible personal losses.
+  mythic, cosmic, spectacular, and intimate enough that the scale is felt
+  through irreversible personal losses.
 - Audience/content rating: Teen.
 - Required elements: A protagonist who has never had magic; years of helping
   others that have yielded consequential favors, relationships, and artifacts;
   the permanent end of magic across the world; an entirely original cast,
   setting, history, magical systems, cultures, and kinds of life created for
-  this story; visible collapse across those distinct systems; and a climax in
-  which the protagonist's accumulated nonmagical capital decides what survives
-  the end.
+  this story; visible collapse across those distinct systems; a lifetime of
+  learning, helping, collecting consequential magical artifacts, and earning
+  freely renewed favors that all converge in one cosmic action; and a climax in
+  which the protagonist explicitly chooses or declares "No More Magic" and
+  thereby makes the end permanent.
 - Prohibited elements: No direct use of Marvel characters, settings, or plot;
   the *House of M* note controls the event's scale, culmination, and emotional
   premise only. Do not reuse, cameo, name, or directly reference any character
@@ -42,7 +49,9 @@
   or relationship as the source of grandeur. Do not reduce the event to one
   neighborhood emergency, restore magic by the ending, grant the protagonist
   hidden magic, or substitute a generic catastrophe montage for earned
-  historical and personal consequence.
+  historical and personal consequence. Agriculture, water, seed, routes, and
+  disaster logistics may appear as consequences, but they may not be the main
+  objective, central spectacle, or climactic payoff.
 
 ## Assumptions
 
@@ -59,7 +68,11 @@
   people, places, artifacts, systems, titles, or plot history.
 - The cause may remain partly unknown if naming it would contradict authority,
   but the end state may not be softened into temporary suppression, faulty
-  measurement, or a reversible local outage.
+  measurement, or a reversible local outage. At the opening, living users may
+  all have maximum mana zero while residual, structural, stored, or otherwise
+  bounded magic still exists and a credible restoration path remains. The
+  protagonist's climactic act must extinguish every remaining form and close
+  that path forever.
 - Original artifacts may retain stored charge or useful nonmagical functions
   only if the story defines their bounded mechanisms; they do not become
   autonomous magic users, and no charge may leave magic surviving at the end.
@@ -67,8 +80,17 @@
   practical knowledge, and reciprocal obligations, not a concealed magical
   awakening.
 - The decisive question is not whether magic can be restored. It is what can be
-  saved, completed, released, remembered, or carried forward when restoration
-  is impossible.
+  saved or sacrificed when restoration is possible but unacceptable. The
+  protagonist must earn the authority and means to reject restoration, and the
+  final irreversible answer is "No More Magic."
+- The protagonist's lifelong lack of magic may let them resist, enter, carry,
+  witness, or decide where active users cannot, but it is not a concealed power,
+  immunity, prophecy, or chosen destiny. Their access to the climax must also
+  depend on accumulated knowledge, specific artifacts, and freely renewed help.
+- The climax should make the cosmos-scale loss visible in-scene: magical skies,
+  structures, beings, realms or crossings, and accumulated wonders end before
+  the protagonist and the world. Reports may widen scale but cannot substitute
+  for spectacle and decisive action.
 
 ## Completion tests
 
@@ -79,11 +101,17 @@
   and identity consequences.
 - The story feels like the payoff of years of accumulated relationships and
   artifacts, not an ordinary emergency with enlarged numbers.
-- At least three materially different favors or relationships and three
-  individually bounded artifacts pay off causally; none becomes magic by
-  another name.
-- The climax makes an irreversible world-scale difference even though magic
-  remains gone.
+- At least four materially different favors or relationships and four
+  individually bounded, wondrous artifacts pay off causally; none is decorative
+  and none becomes an autonomous magic user.
+- The opening zero-capacity event, residual wonders, restoration possibility,
+  lifetime convergence, and final eradication are mechanically distinct and
+  causally legible.
+- The climax is the spectacular act that ends all remaining magic, not a later
+  response to magic already being permanently gone. The exact or unmistakable
+  declaration "No More Magic" seals the choice.
+- The climax makes an irreversible cosmos-scale difference and the aftermath
+  confirms that magic remains gone forever.
 - The protagonist remains genuinely nonmagical through the ending.
 - The story passes canon and continuity review.
 - Every character-facing name and alias is checked against `stories/NAMES.md`;

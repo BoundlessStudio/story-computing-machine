@@ -363,6 +363,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 14,
+      "story": "all-accounts-due",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "HANDOFF_ERROR",
+      "startedAt": "2026-08-05T12:24:32.9432575+00:00",
+      "completedAt": "2026-08-05T12:36:08.0539338+00:00",
+      "guardId": "2d44a7d582194d8b81347df0c29e0681",
+      "persister": "prose_writer",
+      "report": "status: HANDOFF_ERROR\nstory: all-accounts-due\nmode: REVISE_DRAFT\nguard_id: 2d44a7d582194d8b81347df0c29e0681\ncurrent_stage: drafting\nerror_code: USER_SCOPE_CHANGED\nresolution_owner: coordinator\nchanged_output: stories/all-accounts-due/03-draft.md\nchange_report: Partial standalone draft is rejected and non-authoritative. It centers distributed disaster logistics rather than the requested spectacular lifetime convergence culminating explicitly in “No More Magic.” No further edits or salvage attempted.\nstale_precondition: The current canon brief and story plan center disaster logistics rather than a cosmic House-of-M-scale convergence of Faris’s lifetime learning, artifacts, and freely renewed favors.",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/03-draft.md"
+      ],
+      "errorCode": "USER_SCOPE_CHANGED",
+      "resolutionOwner": "coordinator",
+      "resolutionQuestion": null
     }
   ]
 }

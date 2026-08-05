@@ -6,458 +6,436 @@ canon: false
 
 # All Accounts Due
 
-Nine years after the second dawn, Faris watched the Daughter open her hands to the sun.
+On the first Open Day of 606 Common Tally, Faris laid her zero on the table with everyone else's wonders.
 
-The Crown of Noon chamber had become a record hall after it ceased to be a command center. Once each year, branch witnesses stood before its seven doors, read the first covenants, and named the six cities erased from the prayer. They checked the old conduits, though no branch had sent power through the Crown since the master line was cut.
+Her capacity card was brass, hand-stamped, and older than three of the clerks checking it. Under *maximum mana* it said `0`, as it had said at her first examination and every examination since. There was no sleeping gift behind the numeral, no injury that had taken one away. Faris had been born without magic and had lived thirty-eight years without it.
 
-Faris checked different things.
+She slid the card across the long counter in Drenovar's Exchange Hall. Above her, belts carried Bearing Census forms toward the type drums of the Copper Relay. The Census had been held every twelve years for three hundred and twelve years. Each living user declared capacity, dependencies, and promised output in an emergency. The form translated all of that into Drenovar's columns, including the misleading convenience of *maximum mana*. Nobody outside the city had to believe the systems shared anything.
 
-She checked that the west stair remained passable if the lifts stopped, that clerks had brought paper as well as luminous tablets, and that the branch windows could be shuttered by hand. At her belt hung a copper route fan, a compact steel jack, and a brass tally with seven removable marks. Her favor ledger rode against her hip. She had learned to distribute weight.
+Malko Durev stood at the next station with one hand on a fired-clay testing block. He had been a master of kilnvoice for forty-one years, the latest in a craft that had shaped the Voln Plateau for nine hundred and seventy. At the clerk's signal, he touched the block and sang a mineral-changing overtone.
 
-The Daughter stood inside the dead glass circle. The living fire beneath her skin made her scars shine gold. She spoke the greenhouse covenant in the formal cadence Faris had heard on eight previous anniversaries.
+His voice cracked into ordinary breath.
 
-“One hour of heat to the eastern growing room of the Ninth Hollow. No adjoining conduit. No secondary draw. Any three household witnesses may end the gift.”
+The block did not soften.
 
-Three witnesses raised their hands. Sister Calvea Dorn, watching from the Hollow's window, named the temperature limit. Orrin Pell rested two bare fingers against a pale-metal interface to confirm the route. Tovan Rek stood beside the local archive lectern while the six other branch windows held six versions of his face, already different in posture, dress, and the manner in which they waited.
+Malko tried again. A damaged tooth showed when he pulled his lips back from the sound. The note became louder, rougher, useless.
 
-Sunrise touched the narrow vent above the chamber.
+Across the hall, a dial reporting the Drenovar Turnworks roster total dropped from eight hundred shares to zero. Beneath the floor, flywheels that had been multiplied by wheelshare began to coast. Their slowing rhythm traveled through Faris's soles.
 
-The gold went out under the Daughter's skin.
+In a low testing pool, Ossun floated beside a pluun that had approached for the Census pairing. The little animal spread its six paddling limbs and pulsed a pale band along its back. Ossun, an adult nerethi, answered with a dark ripple through their own skin. For fourteen recorded centuries, such pairings had separated salt from water in the Aruq Saltlands.
 
-Not down the conduit. Out.
+The pool stayed brackish. Ossun dipped a tasting reed, frowned, and opened the gate so the pluun could leave.
 
-The capacity slates on the seven doors clicked to zero. Tovan's six windows became blank glass. Orrin jerked his fingers from the interface and opened them as if checking that they still belonged to him. At the chamber's center, the black-sun key fell the width of a thumb into its cradle and lay there, cold metal under ordinary light.
+At the eastern doors, Brameth Caum faced a drifting cloud of orchard pollinators. Their bloomcall had guided migrations along the Oltin Coast for two hundred and thirty-three years. Worship, power, and agricultural authority had made Brameth a god there. They inhaled, released a breath scented for northward flight, and waited.
 
-Calvea pressed both scarred palms to the sill of the Hollow's window. “Dusk,” she said.
+The insects settled on the warm doorstones.
 
-Nothing answered. Her old burns did not disappear. The silver dimness in her eyes remained.
+At that dawn, in every country of the present material world, every living act that had been magic became ordinary effort. Powers of body, partnership, congregation, worship, and countless other kinds ceased together without thereby acquiring one origin or one name. This was not a pause, a blockage, or a fault in the Census instruments. Magic had ended everywhere in that world.
 
-An inland visitor unwound their weather cord. The knots should have tightened toward pressure. They hung loose. Another visitor, whose body had been changed years before by a working no one there understood, remained the same person and material shape. Their attempt at one further change failed.
+It would never work there again.
 
-Above the west stair, a fold-door collapsed into an arch of plain stone. Two travelers on its threshold stumbled apart, one stranded in the chamber and one gone from sight. The arch showed no destination, only the maintenance wall behind it.
+Faris knew only what the hall showed her. For one hard instant, satisfaction moved through her: every celebrated ceiling had fallen to meet the zero she carried every day.
 
-Faris's wrist gauge read zero, as it had at her naming and every morning since. Its ceiling had never risen. No capacity slept behind the needle. She had never had magic.
+Then the Turnworks alarms began.
 
-For the first time, the others shared her limit.
+Ishbel Rann came through the western doors at a run, her chief engineer's coat open and chalk whitening one sleeve. “Clear the tread galleries. No one touches a valve until I know which flywheels are still carrying load.”
 
-Shame arrived with the small, hard satisfaction of being right about stairs.
+“The gauges all agree,” Faris said. “We start dependency counts now.”
 
-“Nothing works,” Faris said. “We inventory what still does.”
+“The gauges do not tell me whether a freight piston is about to cross a gallery.”
 
-“One test,” the Daughter said. The gold was gone, but pain tightened the corners of her mouth. “The branch focus, with no Crown path.”
+Malko struck the clay block with his palm. “I require another comb. That guide was warped.”
 
-“I require one as well,” Tovan said. His voice was too exact. “A local archive query. The windows failing is not proof that I have lost local access.”
+Brameth turned their back to the crowd pressing in from the steps. “I will test in private.”
 
-Faris wanted to tell them the cooling shield-stones were proof enough. Instead she forced her hands away from the buckles of her satchel. “One bounded test each. Then you report only what failed.”
+Four failures, four refusals to call them the same thing. Faris stopped reaching for one conclusion.
 
-The Daughter laid her palm to the branch focus. The stone stayed cold. Tovan asked the lectern for yesterday's western water tally. No script appeared.
+“One system-specific test each,” she said. “Then one physical deadline. No theories.”
 
-“My fire is gone,” the Daughter said.
+Malko chose an unmarked block and sang until the old crack in his tooth bled a little. It remained hard. Ishbel sent a runner to disconnect one walker from a gallery. Without the living multiplication, the mechanism produced only the force of one tired body. Ossun and the pluun paired again by the pool gate; the animal broke away when nothing followed. Brameth called once from the open steps. The pollinators groomed their legs.
 
-“I retain embodied memory,” Tovan said. “I have no archive access. I have no contact with the other expressions.”
+“Voln's unfinished joints begin separating as soon as their braces cool,” Malko said.
 
-Beyond every branch window, the same ending had passed through every living user in the present material world. It extinguished powers with different names and unrelated costs, carried in flesh, worship, craft, weather, blood, and song. Maximum mana was only the branches' phrase for a ceiling, not the substance of the world or an explanation for the silence.
+“The cold rooms have ten hours,” Ishbel said. “Useful pressure, less.”
 
-The silence was nevertheless complete. Magic had ended. It would not return.
+“Nursery salinity is already rising,” Ossun said.
 
-The things built upon it had only begun to fall.
+Brameth watched the grounded insects. “The colonies have until midday heat before boxed travel becomes dangerous.”
 
-* * *
-
-Orrin gave them the deadlines in the short clauses he used when fear left no room for courtesy.
-
-“Upper cistern pumps are stopped. Four hours before the service channels empty. The hand bypass is beneath the seed-house gate.” He turned a blank palm toward the maintenance wall, but no diagram rose from his skin. After the briefest pause, he drew the gate in chalk. “Six hours before the eastern growing room drops below the seed stock's safe range. The shield stones are cooling now. Lifts are dead. Stairs remain.”
-
-“The fold-door traffic?” Faris asked.
-
-“One tide before carts turning back from the dead arches block both causeways.”
-
-An ordinary signal flag opened in the shaft: three red squares, coastward. Tovan supplied the code from memory. The weather-working coast had lost its storm line and was sending vessels inland. Their carts would meet stranded crossing traffic on the causeways.
-
-A salt-streaked runner reported a heat-dependent refuge evacuating onto the slow road Faris needed for seed. A clinic porter said a living healer had tried three practices and could close no wound beyond pressure and thread. North-wall flags reported another material crossing inert. The reports shared no explanation. Together they removed roads and shortened hours.
-
-The capital continuance stewards entered with guards and an order to lock the central cistern and seed reserve until lawful authority could be restored. They wore no old master seal. That relic had been cracked and surrendered nine years ago.
-
-Their leading steward spread both hands on the route table. “If we divide the winter stock in panic, the capital dies first.”
-
-“If you hold it until the pumps drain, the outer branches die thirsty while your water sits above a shut gate,” Faris said. “You owe them more than that.”
-
-The guards shifted. A bad sentence could take physical space from a room.
-
-Seris Venn stepped between the table and the order. Her armor no longer carried warmth from the Daughter's fire. She looked at the public clock, then at the branch witnesses gathering along the wall.
-
-“I will hold temporary stewardship until the third public bell,” she said. “Not one stroke longer. Any two of these witnesses may replace me before then.”
-
-“You do not hold office,” the steward said.
-
-“Correct.” Seris took the order from beneath their hand and set it where everyone could read it. “That is why this expires.”
-
-Faris swallowed the urge to count Seris's answer as a favor paid. She opened the seven-leaf route fan instead.
-
-Seven survey crews had etched one copper leaf apiece with elevations, wells, bridges, ferries, and roads that never relied on a crossing. They gave the bound set to Faris in year four, after her mule circuit brought stranded patients and duplicate records home. The fan had never held magic. It required light and a reader.
-
-“Here is the deadline,” Faris said. She laid a charcoal nub across the central cistern mark. “In four hours the high water becomes inaccessible unless we open the mechanical bypass. In six hours we lose the seed that can live without greenhouse heat. By the next tide, the fold-door carts and the coastal evacuation close our fastest ordinary roads. We cannot preserve the capital by waiting for an authority that used to travel through power. Power is not coming back.”
-
-She turned the leaves, one by one, until seven physical corridors radiated from the Crown.
-
-“We open gravity feeds. We divide ordinary seed. We copy verified memory. We mark routes that feet, wheels, ferries, and animals can still take. Every packet names who counted it and who can correct it. Seven branches send the same five accounts outward: people, water, seed, routes, witnesses.”
-
-“You have no count,” the steward said.
-
-“I have parts of one.” Faris looked toward Tovan, Orrin, Calvea's blank window, the Daughter, and Seris. “None of them are mine to command.”
-
-That was the shape of the problem. Faris had a design large enough to matter and no right to make any necessary person complete it.
+The hall's type drums started hammering. The world's replies were coming in.
 
 * * *
 
-The first officials to corner Tovan called him the complete archive.
+The Copper Relay had no magic to lose. Operators turned cranks that drove current through copper wire. Batteries failed, cables broke, type drums jammed, and distant people sometimes chose not to answer. For a hundred and twelve years, its limitations had made it an unfashionable backup to faster wonders.
 
-He stood in the copy room between ranks of mundane drawers. With the luminous catalogues dead, clerks had begun pulling them open at random. Paper accumulated on the floor. Every sheet carried something urgently valuable to somebody and nothing that told Faris whether the western bridge still stood.
+Now every hand in the relay room was black with ribbon ink.
 
-“The other expressions are unavailable,” an official said. “You are the surviving archive. Certify the branch record and we can act.”
+The first clear message came from Voln. Three active aqueduct joints had stopped changing under their workers' voices. Fired spans completed years ago still carried water. One half-shaped joint was pulling apart under its own weight.
 
-Tovan's back became very straight. “I am a surviving expression. You have no evidence for the word *the*.”
+Faris crossed the advertised northern road from her route table. Falling ceramic would close it within four hours. Seed for two cold upland towns would need a different grade.
 
-“We do not have time for seven versions of modesty.”
+Aruq reported *no pairing*. Fresh water already separated remained fresh inside sealed tanks, but each tide pushed salt farther into nursery pools. The water inventory on Drenovar's Census form was suddenly fiction unless somebody tested each cistern.
 
-“This is not modesty.”
+Oltin reported *no call*. Pollinator colonies had landed wherever dawn found them rather than continuing toward orchards. Sending seed without compatible insects would preserve one planting and imperil the next.
 
-Faris touched the official's elbow and pointed toward the outer room. “The stewards are looking for someone to explain why their lawful order is sitting under Seris's hand.”
+Two clinic networks transmitted diagrams for splints, pressure dressings, boiled instruments, and dosage tables before their cable went silent. Faris added ordinary medical records to the release list. A transport office reported thousands stranded where its magical routes had ceased; every freight estimate now needed physical miles. Three continental stations sent only partial headers. Five sent nothing at all.
 
-The official left fast enough to suspect an opportunity.
+The blanks mattered. Faris drew boxes around them rather than pretending the wire had reached everywhere.
 
-Faris put her ledger beside Tovan. “I need every route and archive fact you retain.”
+Each report changed a load in Drenovar. Seed crates came out of deep refrigeration queues. Water casks lost their assumed destinations. Orchard drivers demanded ventilated boxes. Printed medical plates took priority over legal forms. Physical roads replaced departure times copied from vanished transport.
+
+The Provision Assembly convened at the relay floor while the changes were still arriving. Its members did not propose saving everyone. They proposed saving Drenovar.
+
+“Enclose the seed cellars,” an Assembly member said. “Hold the remaining air for local cooling. We have no authority to spend the city's winter on messages we cannot verify.”
+
+“Nor enough food if every displaced traveler stops here,” another said. “A controlled city can help later. A stripped city helps no one.”
+
+Ishbel stood beside the Turnworks pressure chart. “An uncontrolled release wastes both. Open the wrong manifold and the freight pistons strike their stops. Vent too quickly and the press brakes fail with plates still moving. I support a hold until my crews audit the system.”
+
+Faris pulled her old account book from her satchel. Eighteen years of help filled it: loads carried, refusals defended, stores redirected, routes walked when easier methods failed. The recent pages still smelled faintly of smoke from the Nine-Depot Fire.
+
+“The Assembly owes me access,” she said. “The Turnworks owes me bypass priority. Put my plan on the global wire now.”
+
+Ishbel looked at the book, then at Faris. “My crews did not sign your pages.”
+
+No. They had not.
+
+Faris shut the account book and spread the spoilage schedule instead. “Ten hours to move viable seed. Less than four before Voln's road closes. Nursery chemistry changes with the tide. Pollinator boxes have to clear before midday heat. Give me three hours to build a release you can audit.”
+
+“An engineering audit,” Ishbel said. “Not permission.”
+
+“Three hours.”
+
+Ishbel marked the deadline on the pressure chart.
+
+Faris drew six columns on a sheet broad enough for everyone to see: people; potable water; viable seed and pollinators; ordinary skills and records; physical routes; named custodian. Beside the last column she added *replacement*, because a custodian nobody could remove was only enclosure with cleaner handwriting.
+
+“Each station fills what it knows,” she said. “Copies go outward, not only back here. Every receiver may correct the account or reject it.”
+
+“You still need the cellars,” the Assembly member said.
+
+Faris looked at Malko, Ossun, Brameth, and Ishbel. Between them stood the gate, water, insects, legitimacy, pressure, and four separate ways to say no.
+
+* * *
+
+The seed-cellar doors met inside a ceramic locking sleeve as long as Faris's forearm. For four centuries, a kilnvoice worker had softened the sleeve, slid the iron bars free, then fused it closed again. The first makers had assumed the craft would outlive the hinges.
+
+Malko touched the sleeve with two fingers. “The lower half is carrying the left leaf. Break it carelessly and the door drops inward.”
+
+“Then pay the school account,” Faris said. She set Malko's red vise at his feet. “Open it.”
+
+He did not look at the tool. “You hauled wedges during Siltwinter. You copied my load tables. You did not purchase the rest of my life.”
+
+“The school shell would have crushed children if you hadn't held it.”
+
+“With kilnvoice.” He struck the sleeve. The sound was dull. “Do not offer me an ordinary pair of hands as consolation.”
+
+He turned toward the exit. The Voln message was folded into his coat. He meant to reach an aqueduct already three hours away, as if standing beneath a lost craft could make it return.
+
+Faris remembered Siltwinter in the scar on the vise's red ceramic jaw. She had been twenty-two, an unknown junior auditor hauling wedges while Malko sang the school shell rigid. His voice had failed before the road cleared. Faris had copied the load table because he could no longer speak it. Afterward he gave her the vise, which he had forged and lined two years earlier, and marked every safe load by hand.
+
+The vise had once fused mineral pieces held between its jaws when a living kilnvoice user sang into them. It had never stored power. The screw and jaws could still clamp.
+
+“I don't need consolation or your debt,” Faris said. “I need the engineer who knew where that school would break after the singing stopped. Tell me how this door carries weight. Choose whether you stay.”
+
+Malko's hand closed around the vise handle.
+
+“Counterbar first,” he said. His old grandeur narrowed into precision. “Across both posts, not the leaves. Two screw braces take the inward thrust. Nobody stands inside the fall line.”
+
+Ishbel refused before Faris finished repeating the design. “My crews don't go under a ceramic sleeve held by a portable clamp.”
+
+“They will not,” Malko said. He pointed to the threshold. “The work stays on this side. Your counterbar carries the leaf. The vise contains the sleeve fragments. Wedges open the firing seam a thumb at a time.”
+
+“Rated load?”
+
+He named it. Ishbel named a lower one.
+
+Malko's jaw tightened. “That leaves half the seed behind.”
+
+“It leaves my crew alive.”
+
+Faris wanted the door broken now. Instead she put Ishbel's lower figure on the work sheet. Malko took the chalk from her, recalculated, and cut the opening into two lifts.
+
+The Turnworks crew brought an iron counterbar and two screw braces. They seated the bar across the stone posts, tightened each brace evenly, and tested the load with everyone outside the fall line. Only then did Malko set the red vise around the ceramic sleeve. Its dead jaws did not fuse. The screw held them shut.
+
+Faris drove the first steel wedge into the visible firing seam. A young worker drove its mate from the other side. At every thumb of separation, Malko tapped the sleeve, listened to the fracture, and shifted the vise before allowing another strike. The ninety minutes Ishbel had predicted disappeared into half turns and measured blows.
+
+The ceramic split along the old seam. The vise caught both halves. With the counterbar carrying the leaves, the crew pulled the upper locking bar, lowered the load onto the braces, reset, and pulled the lower bar. The doors opened far enough for one crate at a time.
+
+They would never close by kilnvoice again. The ruined sleeve made enclosure irreversible unless Drenovar built a new lock by ordinary means.
+
+Malko bolted the vise across the remaining fragments as a permanent clamp. “It stays with the door.”
+
+“It is mine,” Faris said, too quickly.
+
+“It was my gift. It is your choice.”
+
+She looked at the open cellar and the workers testing the braces. Then she gave the handle to Ishbel's foreman.
+
+The first seed crate rolled into the warming air.
+
+Water still had nowhere honest to go.
+
+* * *
+
+Ossun had lined seven sample cups along the water yard, one for each candidate cistern. Beside them lay the seven-vial case: sealed ceramic, glass reagents, a printed color card. Aruq chemists had made it after the Aruq Refusal and Ossun had given it to Faris, who kept it wrapped against breakage for nine years.
+
+It had never been magic. Today that did not make it infinite. Seven vials meant seven answers.
+
+Ossun broke the first seal, added three drops, and watched the water darken past the safe color. “Too saline for the human drinking allotment. Too saline for young pluun.”
+
+The second was worse. A route clerk crossed two large cisterns from the inventory.
+
+Faris counted the people waiting at the yard gates, then the wet sledges being prepared for the nursery. “Use the nursery reserve for drinking. The young animals can go downhill with the tide.”
+
+Ossun put the third vial down unopened. “No.”
+
+“Aruq loses both cisterns. Drenovar has clinic patients already on carts.”
+
+“Pluun are not water containers we empty after use.”
+
+“I didn't say they were.”
+
+“You placed every human in the count and called the nursery a reserve.” Ossun folded the finned edge of one wrist against their chest. “During the Aruq Refusal, officials called pluun partners until drought made the word inconvenient. You carried my no overland. Now you have returned to purchase its opposite.”
+
+In the ninth year of Faris's service, officials had ordered nerethi to continue brining beyond safe dehydration and penned exhausted pluun in the pools. Ossun's spoken refusal had never reached the inland record; the convenient figures had. Faris carried the true water count across dry roads, published it through the relay, and organized mundane condensers while both species recovered. The seven-vial case had been Ossun's thanks.
+
+Faris had entered it as an asset.
+
+She pushed the six-column sheet across the testing table. “Take the water column.”
+
+Ossun did not touch it.
+
+“Set the thresholds,” Faris said. “For humans, nerethi, and pluun separately. Name which loss you will accept. I won't overrule the chemistry.”
+
+The pause cost another minute of warming seed.
+
+Then Ossun opened the third vial.
+
+The next three cisterns tested within the shared potable range. The sixth was too brackish for humans or young pluun but safe for adult nerethi skin and for damping empty nursery sledges. The seventh carried industrial contamination that no ordinary filter in the yard could remove. Seven decisions stained seven cups. No reagent remained.
+
+Ossun divided the safe water among clinic casks, human travelers, nerethi households, and the upper nursery pools. The sixth cistern would wet the sledges and the adults guiding them; nobody would drink it. The first two stores stayed where they were rather than ruin good water by mixing. The seventh was marked against accidental use.
+
+“Half the lower nursery can move uphill,” Ossun said. “Open the channels and let the pluun approach the sledges. Any that turn away remain in the lower pool with a reduced fresh allotment. They are animals. Their refusal is behavior, and it still changes what we do.”
+
+“How many survive?” Faris asked.
+
+“I do not have that number.”
+
+Faris almost asked for an estimate she could put in a reassuring box. Instead she wrote *unknown*.
+
+The nursery attendants opened shallow channels. Some pluun followed Ossun's skin pulses until the magic should have joined them and did not; they continued toward the wet sledges anyway, guided by familiar movement and water. Others turned back. Nobody netted them.
+
+Ossun spent the last drops rinsing the test tips into a waste jar, then set the empty case beside Faris. She pushed it back.
+
+“Keep it as a sampling case.”
+
+“The gift was yours.”
+
+“The access was.” Faris watched the first accepted pluun sledge start uphill under human and nerethi hauling straps. “The reagents are gone.”
+
+The revised water figures reached the Assembly at the same moment another relay message arrived: Oltin's grounded colonies were beginning to overheat.
+
+The release had chemistry now. It still lacked a public reason for anyone beyond Drenovar to trust it.
+
+* * *
+
+Brameth stood in the Exchange Hall beneath two incompatible demands.
+
+Their worshipers wanted one more bloomcall. Several Assembly members wanted a declaration that Brameth's office was void and orchard custody had reverted to civil control. Between them sat four ventilated insect boxes. Ordinary wings rasped against mesh.
+
+“Call them into the boxes,” a worshiper said. “It does not have to reach the coast.”
+
+Brameth lifted a lid, breathed the migration scent across it, and waited. The insects shifted away from the shadow of their hand. Nothing more.
+
+“Again,” the Assembly member said.
+
+“No.” Brameth closed the lid. “The call is gone. Repeating breath until I collapse will not improve your law.”
+
+They had used bloomcall for two hundred and thirty-three years. Its cost had left them unable to eat for days after guiding the longest migrations. Now they accepted a cup of broth from a worshiper and drank without pain. The small freedom did not look like comfort.
+
+With power gone, the conjunction that had made Brameth a god no longer held. Worship persisted in the bowed heads around them. Legal memory persisted in their careful reading of the Assembly order. Brameth persisted. Supernatural authority did not.
+
+Faris laid her account book on the insect box. “Your orchard wagons cleared grain from the Nine-Depot Fire because I put them on the right roads. I need your endorsement now.”
 
 “No.”
 
-The word struck harder because she had expected loyalty to soften it.
+“Without you, the Assembly calls this seizure by another district.”
 
-In the second year after the dawn, a relay failure had left three Tovan expressions arguing through contradictory paper extracts. Faris had carried the bundles over two mountain roads and a flooded ford. Officials had asked her to reconcile the voices into one clean report before delivery. She had refused. Each version arrived under its own seal, including the disagreement that made the capital uncomfortable.
+“With me, you call it blessed.” Brameth's silence stretched until Faris wanted to fill it with every depot they had saved. “I will not lend absent power to your plan. I will not help frightened people mistake memory for a miracle.”
 
-She had not done it to purchase this morning.
+The relay punch 9D pressed a hard shape against Faris's pocket. During the fire last year, ordinary bypasses from Ishbel and orchard wagons arranged by Brameth had moved grain ahead of nine advancing fronts. Faris had used the Copper Relay to keep all nine depots from sending their carts to the same safe yard. Afterward relay mechanics built the punch and the Provision Assembly gave her conditional custody for authenticated emergency messages. Public praise had taught her the wrong lesson: that saving institutions made their future assent hers.
 
-“You're right,” she said. The apology did not make the water wait. “Not every fact. Yours. What you saw, what you copied, and what you can source. Mark anything that came from an expression who isn't here. Leave the rest blank.”
+She removed the account book from the box.
 
-Tovan looked at the ledger, not at her. “You carried our contradictions without deciding which of us deserved the future.”
+“Which insects survive travel?” she asked.
 
-“I carried paper. The future was above my load rating.”
+Brameth looked at her for a long time, then crouched beside the mesh. Their ceremonial cadence gave way to the language of shade and appetite.
 
-The attempt at dryness fell between them. After a moment, he drew the ledger closer.
+“This colony can take a cool road for two days. Not three. That one will abandon a box unless it carries flowering cuttings. The small dark species must travel with Oltin seed; it wakes earlier than the pale species and feeds the first bloom. Do not send either through afternoon heat.”
 
-“I know yesterday's capital inventory,” he said. “I know copies of the third and seventh branch wells as of six days ago. I know the six restored city names because I spoke them here this morning. I do not know whether any other expression retained the same bridge survey.”
+They pulled the counterwheel atlas closer and marked seasonal shade beside the physical grades. They paired seed lots with pollinator boxes, crossing out destinations that could not support both. The plan saved fewer immediate calories and more possible harvests.
 
-“Good. Start there.”
+Then Brameth read the six-column custody language.
 
-He dictated in layers. Direct memory first. Copied witness overlap second. Reports from other expressions dated and attributed, never absorbed into his own voice. He put a square around conflicts and left open lines for missing conditions. Where the branch records named a focus, a fold-door, or a luminous road marker, Faris compared the entry with the route fan. Copper showed which gradients and wells still existed when the shortcut did not.
+“No custodian holds water, seed, route records, or these colonies without publishing an outgoing copy,” they said. “Every notice names who can replace them and how. Silence is not renewal.”
 
-At midday, the mechanical semaphore on the western ridge returned three acknowledgments. Three other Tovan expressions were alive. Nothing in the flags established the fate of the remaining three, and none of the answering expressions offered or received command.
+“Will you say that to the Assembly?”
 
-“Record exactly that,” Tovan told the clerk.
+“As an agricultural jurist.”
 
-The clerk hesitated over the blank columns. “It will look incomplete.”
+“Not as what you were.”
 
-“It is incomplete.” His precision wavered, then simplified. “I know what I know. I do not know the rest. Write both.”
+Brameth rested two fingers on the mesh. “What I was is not false because it ended. But it cannot sign today.”
 
-Faris tore the first finished sheets from her ledger and sent them to the copy drawers. The packet could travel because Tovan had refused to let urgency turn one person into seven.
+They entered the Assembly without a blessing. Worshipers followed, carrying the boxes themselves.
 
-It could not yet travel with seed or water. Those remained behind the Ninth Hollow gate.
+Only Ishbel could decide whether anything left before the cold rooms warmed.
 
 * * *
 
-They descended by stair with household witnesses carrying oil lamps. Dead lift cages hung at each landing. At the fold-door, stranded travelers pried service-lane stones into a ramp for carts.
+By the fourteenth hour, the Turnworks sounded like a great animal trying not to wake. Four hundred and twelve years of wheelshare had filled its galleries with opposed treads, flywheels, air cisterns, brake presses, and freight tubes. The magical multiplication was gone. The last force made before zero remained only as ordinary compressed air behind steel walls.
 
-The eastern greenhouse had lost twenty degrees. A vine bred to carry living light sagged from its trellis, its glow gone and pale leaves curling. One dying plant could not answer what would happen to every magical creature. This one had lost both its own faculty and the greenhouse heat.
+Pressure needles fell while Faris ran among the relay floor, seed cellar, water yard, and departure gates.
 
-Under the benches waited sacks of ordinary seed. They would keep if hands moved them now.
+The counterwheel atlas failed her first.
 
-Calvea stood beside the household cistern list. Earlier she had tried dusk once, at the witnesses' request. It had not risen. The old burns still crossed her palms, and the dimness in her eyes still made her angle the page toward the lamp.
+Its brass disks and paper sectors compared grade, cargo, wells, seasonal water, and travel time. Voln surveyors had made it sixteen years earlier and given it to Faris after Siltwinter. It had always been mundane. When she stripped magical transit times from the six proposed relief routes, three advertised roads had no physical road beneath crucial miles.
 
-“Release the winter water and all viable seed,” Faris said. “We can sort it in the yard.”
+One ended at a gorge. One delivered freight to a coast that now lay twelve days away. One assumed cargo could cross a mountain without climbing it.
 
-“No,” Calvea said.
+Faris turned the disks again, slower. She found six possible routes, none fast enough for every load. Two regions would not receive viable seed before spoilage. She wrote that failure on the public route board.
 
-“You have six hours.”
+“Leave it blank,” an Assembly member said. “The receiving stations will improvise.”
 
-“The households have six hours. You have no permission to spend them.”
+“They can improvise from the truth.” Faris marked the last safe departure for each reachable road.
 
-“If we ask every gallery—”
+The delay consumed forty minutes.
 
-“We will ask every occupied gallery. We will name how much leaves, what remains, who carries it, and when the permission ends.”
+At the pressure chart, Ishbel drew a line through Faris's remaining schedule. “We can keep expansion cooling on Drenovar's cellars until tomorrow, or discharge through the freight manifolds now. One release sends seed crates to the gates and holds the press brakes while the record plates run. Afterward the air reaches balance. There is no second release.”
 
-Faris heard delay because delay was what she feared. Seven years earlier, three households had revoked her caravan passage after a support crack. Calvea had not made their no a test of whether the food mattered. Faris had taken the slow salt road and delivered it a day late, furious and intact.
+“How many local days do we lose?”
 
-Now she made herself close her ledger.
+“Six, if the night stays cool. Nine if it doesn't.”
 
-“What can I do while you count?”
+“And if we retain it?”
 
-Calvea's shoulders loosened by less than an inch. “Get the gate ready. Do not open it.” She struck the speaking plate with a wooden mallet, found it useless, and sent runners instead. “I will bring you a first allotment, not the whole reserve.”
+“Drenovar keeps the winter reserve. The outer loads miss their roads.”
 
-The seed-house gate had been built to lift under a living maintainer's touch. Orrin placed both hands on the interface. The seams in his fingers did not open. Nothing forced them to.
+The air was not stored magical agency. Steel had contained pressure made before the ending; once a valve opened, physics would spend it. Faris could almost feel the city's cold rooms behind Ishbel, each wall a hand around food that would last longer if nobody else received it.
 
-“Open the system,” Faris said.
+She showed Ishbel the Assembly's three-hour audit mark. “The Nine-Depot bypasses saved your intake house. Release the pressure.”
 
-Orrin stepped back so quickly his heel struck the wall. “No.”
+Ishbel took the chart from her. “No. My bypasses saved it. My crews are beside those manifolds. Your ledger cannot spend their bodies or this city's air.”
 
-The Crown had once used those words—central service, open, preserve—to force his hands. Faris had honored his no during a flood in year five, even with a crew trapped beyond an interface only he could call. They broke through ordinary stone instead. Orrin later built the split-shaft jack so crews could lift without summoning him and gave it to Faris because he wanted his absence to be survivable.
+At the seed gate, Malko refused to work above Ishbel's lower load rating. At the water yard, Ossun refused any cask that crossed the tested salinity thresholds. In the hall, Brameth refused to turn agricultural testimony into a sacred seal. Four old accounts had produced four current limits, not obedience.
 
-She had managed to turn the gift back into a command.
+The Provision Assembly waited for Faris to make them agree.
 
-Faris set the jack on the floor. “The lower dog pins the seed gate and the bypass wheel shares its crossbar. I will take the channel side. Will you tell me where to place the screw, then choose whether you work outside the load?”
+She opened the account book on the relay desk. Eighteen years of entries covered the pages. Some were witnessed services; some were private kindnesses reduced afterward to quantities because a number felt less dangerous than asking twice. She did not tear the book or burn it. No page carried power. Destroying the record would only make history easier to lie about.
 
-Orrin studied the rust line, dog, and engraved rating without touching the tool. “Your first placement will twist the shaft.”
+“This proves what happened before,” Faris said. “Nothing else.”
 
-“Show me the second.”
+Her voice barely carried over the type drums.
 
-“I will set it. You will not put your head beneath the crossbar. If I say reset, you unload it completely.”
+She turned first to Malko. “You do not owe me the school or your hands. Will you keep the cellar opening inside the limit you set?”
+
+“Inside Ishbel's limit,” he said, correcting her. “And the conversion plates carry my name. Kilnvoice did the first work. I will not let your manuals pretend otherwise.”
 
 “Agreed.”
 
-The jack's self-centering collar had once tightened under a living maintainer's magic and had never stored charge. Now it hung loose. The steel screw, ratchet, pawl, lever, and load marks remained mechanical.
+To Ossun she said, “The nursery water remains in your column. Will you direct the mixed allocation?”
 
-Orrin aligned the split shaft by hand while Faris worked the lever. At each tooth, witnesses wedged the rising crossbar so a slip could drop it only a finger's width. Iron complained. The dog rose halfway from its crusted slot.
+“For nerethi, humans, and pluun under separate thresholds,” Ossun said. “Receiving custodians may not convert an animal's water into a human surplus.”
 
-The dead collar shifted.
+“Agreed.”
 
-The jack kicked sideways. Faris released the lever and braced it. The crossbar cracked down onto the last wedge.
+Brameth did not let her ask the old question again. “I will send the migration maps, take an insect wagon, and testify for replaceable custody. I will bless none of it.”
 
-“Unload,” Orrin said.
+Faris nodded, then faced Ishbel.
 
-Water was already thinning in the service channel. Faris could hear the capital steward's guards on the stair above.
+“What will you choose?”
 
-“Unload,” Orrin repeated.
+Ishbel traced the pressure line with a thumb. “Three stages. Freight manifold first. Press brakes second. Manual vent last. A worker at any station may stop the release. If it stops, you publish where and why. Drenovar keeps the clinic casks already counted and no hidden seed lot.”
 
-She backed the screw down. They reset its base against squared stone, lashed the inert collar, and began again. Orrin's refusal had made the slower work safe. Faris's palms blistered. His hands remained his own.
+“The Assembly may not accept that.”
 
-When the dog cleared, a household witness raised one palm. “Stop.”
+“Then the air stays in the tanks.”
 
-Faris stopped.
+Faris put Ishbel's terms before the Provision Assembly. Brameth gave ordinary agricultural evidence. Ossun gave the chemistry. Malko signed the conversion load. Ishbel named the local cost: six to nine days of cold reserve, every remaining pressure unit, and no promise that outgoing aid would ever return.
 
-The runners had returned with a count. Two galleries would release half their winter water. One would release a third and seed only from the eastern bins. Another had offered carts but no stored grain. Calvea read every limit aloud, including which three witnesses could close the bypass.
+The Assembly voted in public. The margin was two hands.
 
-It was less than Faris wanted. It was water that could actually leave.
+Open the cellars. Spend the air. Divide the reserves. Surrender exclusive custody.
 
-“Set the wedges for that head,” Orrin said. “No more.”
+Relay operators still had to choose whether to transmit. Faris fitted relay punch 9D to the six-column plate and squeezed. The brass-and-steel tool had never held magic. Its irregular holes did not prove truth or compel anyone at a distant drum. Living operators compared them with printed codebooks and decided whether the Assembly's conditional access applied.
 
-They lifted the bypass crossbar to the agreed mark. Gravity took hold with a deep knock in the pipe. Water moved downhill toward the filling yard. The same lift freed the seed-house dog. Crates emerged hand to hand beneath the failing greenhouse glass.
+The first operator read the proposal twice. “I will send it with an annotation: figures revised at the seventh hour and routes revised at the fifteenth.”
 
-Before the last eastern bin reached the stairs, a runner came down with news: the continuance stewards had moved guards onto the outgoing road. The third bell was less than an hour away.
+“Send both versions,” Faris said.
 
-* * *
+“That uses another plate.”
 
-The crowd in the dispatch yard had divided around the Daughter.
+“Send both.”
 
-Some people begged her to try again. Others held out an old emergency crown brought from a civic vault, as if office could restore the fire that once made office dangerous. A metal cup stood in her palms. She had agreed to warm one finger's depth of water under witness. The water remained cold. Her scars remained scars, neither luminous nor healed.
+The operator began cranking. Others joined one by one. Two refused an unverified water figure until Ossun signed its chemistry threshold. One coastal operator reduced the insect allocation after a heat report. Each refusal changed the message before it traveled.
 
-“Again,” someone said. “Please. Harder.”
+At the Turnworks, Ishbel raised one hand.
 
-The Daughter set the cup down. Silence came before her answer.
+Crews cleared the freight tubes. Malko checked the counterbar and the red vise, now bolted to the ruined cellar lock. Workers loaded seed crates into piston carts and tied Brameth's insect boxes into shaded wagons at the departure gates. Ossun placed water casks by tested use and walked beside the first pluun sledge. Clinic patients occupied ordinary carts; record plates and tool chests went wherever space remained.
 
-“No. My power is gone. Hurting me will not make that less true.”
+Ishbel opened the first valve.
 
-“Then take the crown,” the leading steward said. “The people still know you.”
+Compressed air drove the piston carts out of the warming cellars. No absent walker multiplied it. Each acceleration lowered the gauge. At the press floor, the second valve fed the brake cylinders while flywheels rolled medical diagrams, route tables, load conversions, water thresholds, pollinator pairings, and custody rules onto paper. Workers could see the pressure falling with every copy.
 
-“Capacity was never permission.” Her voice lost its ritual shape. “And loss is not permission either.”
+The counterwheel atlas lay at Faris's elbow. If she kept it, every later correction could return to one reliable master. If she sent it, the least-mapped convoy might survive the road Faris had never walked.
 
-She stepped away from the crown and took the handles of the first seed crate.
+She closed its brass disks and put the original aboard that convoy. The other five received rubbings and copied scales.
 
-At the road gate, guards asked Seris to extend her stewardship past the third bell. Faris caught her beside them.
+From the relay drums came replies.
 
-“Block the seizure,” Faris said. “You have witnesses. Use them.”
+Voln accepted structural plates but reduced its seed share to make wagon room for braces. Aruq corrected the nursery count and rejected a human custodian for one mixed pool. Oltin divided its insect boxes among three roads rather than trust one shipment. An inland station accepted the medical plates and refused Drenovar's proposed route as physically blocked. Other stations reported no reserve to share. Several remained blank.
 
-“Until when?”
+The account spread because recipients could alter it, not because Drenovar controlled them.
 
-“Until the packets leave.”
+At the final pressure stage, Ishbel opened the manual vent. Air roared from the high tanks, pushed the last paper plates clear, and faded. The needles reached ordinary atmospheric balance. The freight pistons stopped. The cold rooms began warming without reserve.
 
-“That is an event you control, not a time they can replace me.”
+Water, seed, pollinators, people, knowledge, and physical routes left through different gates under custodians whose replacements were printed beside their names. Drenovar could not recall them. It could not close the broken seed lock, pull back the water already divided, or make one destroyed copy erase the rest.
 
-“If you let the bell end this, the stewards take the reserve.”
+Faris punched one final relay notice: pressure spent; cellars open; figures subject to named correction; exceptional access ended.
 
-Seris glanced toward the Daughter lifting one end of the crate. Her hand rose, as if to help, then stopped before touching. “I will not preserve a limit by pretending it has no edge.”
+Then she removed the irregular code tooth from relay punch 9D. Before the Assembly and the operators, she set it against the edge of the steel desk and struck it with the punch body. The tooth snapped. She returned both pieces to the clerk.
 
-Eight years after the dawn, Faris had carried physical testimony that a capital steward wanted omitted from a branch judgment. Seris had entrusted her with the seven-mark witness tally for the circuit. Faris could have used the credential to open every dispatch drawer on the way home and learned who meant to bury the evidence next. She had returned it unused. The witnesses later placed it in her keeping for future transit, conditional on local countersignature.
+The last machine she could open alone was gone.
 
-It had never been magical. Its seven brass marks matched seven mundane clerk-lock profiles. It opened no focus, proved no truth, and gave no order to a guard.
-
-Faris pressed the first mark into the capital copy-room drawer. The lock turned.
-
-“Then don't block them for me,” she said. “Hold the gate until the bell. Require a public transfer before it rings: each release countersigned by its branch witness, each witness able to replace the carrier. When your time ends, theirs begins.”
-
-Seris considered the clock. “The stewards may refuse.”
-
-“Then they refuse in front of the water count.”
-
-“Name the people who can remove me now.”
-
-Faris did. Seris made her repeat the names to the yard, though Faris knew none of them as characters in her ledger—only as witnesses with raised hands. Then Seris planted herself at the road until the appointed stroke.
-
-The tally opened six more drawers, one mechanical profile at a time. A witness stood beside each and countersigned Tovan's bounded packet. Tovan crossed out the religious title a clerk had put beneath his name.
-
-“Tovan Rek,” he said. “This statement belongs to me. The missing statements remain missing.”
-
-At the water line, Calvea placed former practitioners beside people who had never used magic and asked the same questions of both: what could they carry, whom were they responsible for, what medicine did they know without a working? Orrin corrected a guard who asked whether his mechanisms were broken.
-
-“The interfaces are silent,” he said. “I am speaking.”
-
-The third bell began.
-
-On its final stroke, Seris stepped away from the gate. The road did not pass to Faris, the Daughter, or the continuance stewards. Seven witnesses took positions beside seven release sheets. The guards looked from the old order to the visible count and did not close the gate.
-
-No central office owned what happened next.
-
-They had one daylight interval left to make that fact useful.
+Magic was gone too. Nothing in the day's work had replaced it.
 
 * * *
 
-Faris spent the afternoon running between five failures.
+By night, the Drenovar Turnworks cold rooms were warm enough for condensation to run down their walls. Clinics worked from the printed plates with boiled instruments and human hands. Malko's manual conversion reached Voln before the damaged aqueduct joint fell; other unfinished structures received timber braces, and some were abandoned. Old kilnvoice buildings remained shaped as their makers had left them. The past did not become a fraud because the voices were now only voices.
 
-Tovan dictated sourced water figures, branch dependencies, six restored city names, and blanks he refused to invent. The Daughter and strangers loaded seed. Orrin supervised the jack and filling casks. Calvea enforced household marks and redirected empty carts. Seris read each transfer before its signal flag rose.
+Nerethi and humans hauled water together without recovering the paired sense. The upper pluun nursery contracted. Some animals survived the move; others in the lower pools did not. No single pool settled the future of either species. Ossun's empty case acquired new reagents slowly, one ordinary batch at a time.
 
-At the road table, Faris rubbed charcoal over the seven copper leaves.
+Brameth's worshipers kept vigil outside the Exchange Hall. No supernatural answer came. Some left. Others brought food, copied orchard maps, or sat near the person they had worshiped. The office founded on power was over. Brameth's relationships, legal experience, memories, and responsibility remained.
 
-The first route sheet sent two convoys through the shortest corridor, cleared the coastward causeway before the tide, and reached the heat refuge by nightfall.
+Former practitioners lost rank, livelihood, and bodily habits that had told them who they were. They did not lose personhood. Faris's lifelong zero did not make her a new kind of superior being. It made her practiced at some useful inconveniences and ignorant of many griefs.
 
-Tovan leaned over it. “The travel interval between these two entries is copied from the sixth expression's record. Source condition is blank.”
+In the years that followed, the six-column account traveled farther than the first wire messages. Physical roads replaced vanished passage. Seed and pollinator exchanges prevented some famines and arrived too late for others. Ordinary salinity testing spread beyond Aruq. Custodians were renewed, corrected, deposed, and sometimes protected by the records they had been required to publish. Copies survived rain, war, and governments that preferred a single master list. Whole regions failed. The material world continued diminished, plural, and alive.
 
-Faris's finger stopped on a gap where the copper fan showed no bridge, ferry, or graded descent.
+Magic never returned anywhere in that world. No birth renewed it. No artifact held a spark. No former god, hidden reserve, machine, future discovery, or changed vocabulary restored it. Earlier magical acts and their consequences remained part of history, but nothing living in the material world's future ever used magic again. The ending made no claim about the dead, the past, other worlds, other planes, or other histories. Faris's account reached none of those places and presumed nothing about them.
 
-Two fold-doors.
+Near dawn, the last Turnworks flywheel made one slow revolution.
 
-She had built the fastest route around stone arches that led nowhere.
+Faris sat with Ishbel on the relay floor. Between them lay a new sheet with no column for what anyone owed her. It recorded what had left, by which road, who held it, and who could be asked to replace them.
 
-A runner waited with the clean sheet in hand. For one vicious moment Faris understood why people hid blanks. Clean maps moved faster.
+“Certify the account closed,” Faris said.
 
-She tore the route sheet in half.
+Ishbel pushed the first overnight correction toward her. “Aruq changed two water casks. Oltin lost a road. Voln wants the brace load amended.”
 
-“Stand down the eastern load,” she called. “We lost the short corridor.”
+“I had hoped the end of magic might settle a balance.”
 
-The yard answered with curses, questions, and the scrape of crates coming off carts.
+Ishbel was already reading the next strip from the drum. The joke received no attention.
 
-The lead carrier had once lent Faris animals for a winter record circuit. “The salt road adds an hour,” they said. “We miss the refuge turn.”
+Faris left the page open.
 
-“I know.” Faris turned two leaves of the fan. “Can you take the ridge ferry?”
-
-“Not with full water.”
-
-“Half?”
-
-“Half water, all seed, and no injured passengers.”
-
-A clinic team refused that division and offered to take the injured by the low road for two carts and a barrel. Coastward carriers refused the exposed causeway and offered boats for the inner leg. Each no stripped speed from Faris's answer. Each counteroffer made a route survivable.
-
-She rebuilt the seven loads. The original route fan no longer lay at the center when she finished. She tied it into the packet for the ridge ferry, the route with the most uncertain elevations. Every other convoy received rubbings. A master map sitting safely in the capital would be another name for a loss.
-
-At the cistern, the second failure arrived as arithmetic.
-
-Orrin had marked two lines on the bypass gauge. Above the first, the capital retained its exclusive winter reserve. Below it, enough gravity head remained to drive water past the dead pumps and into the seven outward channels. The water could do one or the other. It could not stay and flow.
-
-The continuance steward stared at the falling level. “Close it at the upper mark.”
-
-Calvea read the household limits. “Their released share includes the lower draw.”
-
-“The capital did not consent to empty its reserve.”
-
-“The capital witnesses did,” Seris said. She no longer stood before the gate. She stood among them.
-
-The steward turned to Faris. “Then you decide. You assembled the routes. The branches trust your tally. Keep custody through winter and choose where the water goes. One accountable hand is better than seven frightened committees.”
-
-Faris's ledger seemed to gain weight at her hip.
-
-Nine years of entries waited inside: an axle repaired, medicine carried, revocations honored, contradictory testimony delivered, a crew reached through ordinary stone. Every page proved she had been useful when powerful people were not. Now everyone had been brought to her ceiling.
-
-She could make the account come due. The temptation was not magic. It was older and far more available.
-
-Faris climbed onto the filling platform and opened the ledger.
-
-“These are not orders,” she said. Her voice carried poorly; people had to stop working to hear. “They are the reasons I am asking you instead of strangers.”
-
-She looked at Tovan. “In year two, I carried three accounts and kept them three. You owe me nothing. Will you publish only your own record and its holes?”
-
-“Yes,” he said. “If every copy keeps the holes.”
-
-“Orrin. In year five, we found another wall because you said no. You owe me nothing. Will you keep the hand gate within its marks?”
-
-“I will,” Orrin said. “The jack stays here. Any team may stop the load.”
-
-“Calvea. In year seven, I took the salt road. You owe me nothing. Will the households release the shares they counted?”
-
-She made Faris wait through the time it took to look along the witness line. “The shares named. No more. Corrections posted before dark.”
-
-“Seris. In year eight, I returned the tally. You owe me nothing. Will you witness its division and let your stewardship stay ended?”
-
-“Yes. If every mark leaves your hand.”
-
-Faris faced the Daughter last. Across nine years, she had repaired failed roads, relayed branch conditions, and found ordinary answers without once asking the Daughter to exceed a covenant or become sovereign infrastructure. She would not turn restraint into a greater claim now.
-
-“I will not ask you for a miracle.”
-
-“Good,” the Daughter said. The plainness of it hurt. She settled the seed crate against her hip. “I will carry this to the first cart. After that, ask me again for whatever a person with two hands can choose.”
-
-Faris looked beyond them to carriers, copyists, clinic workers, wardens, counters, guards, and travelers. Some she had helped. Some knew her only as the woman delaying departure.
-
-“No debt survives this page,” she said. She tore the written balances from the ledger and laid them on the table without destroying them; history was not erased because collection ended. “Choose the work you will do. Refuse what you will not. Give me the counteroffer before the light goes.”
-
-Agreement was not unanimous. A warden refused the coast tower and offered the lower station. Two carriers left. A branch witness disproved the seed ratio: a large household convoy was missing. The correction cost a quarter hour and saved thirty sacks.
-
-Faris distributed vetoes until the plan no longer belonged to her.
-
-At the cistern, Orrin called, “Ready at the lower mark.”
-
-Calvea repeated the allocations. The capital witnesses countersigned. Seris asked once whether any named witness replaced the decision. None did.
-
-“Open,” Faris said, because someone still had to say when.
-
-Orrin's team turned the screw and wedged every tooth. Within its engraved rating, the jack lifted the crossbar and remained there as part of the hand gate. No collar centered itself; no interface woke. When the dog cleared, the team eased out wedges until the bypass reached its manual stop.
-
-Water struck the outward pipes.
-
-The capital level fell below exclusive reserve. That choice could not be recalled by decree. Casks filled in seven lines while the winter stock became common risk.
-
-In the copy room, Faris used the tally one last time. Each brass mark opened its matching drawer. Each local witness removed that mark, countersigned the packet, and kept it. By sunset Faris held only the empty ring. It could open nothing.
-
-Every packet carried five accounts: people moving and staying; water released; seed and food; checked physical routes; witnesses who counted, refused, corrected, and assumed custody. Tovan's incomplete memory traveled with them, including the six restored city names and visible blanks. Faris added four instructions: correct locally, preserve earlier versions, name every witness, copy outward.
-
-Flags reached visible stations, then runners, ferries, roads, boats, and other towers. The packets commanded nobody; they gave each recipient something usable to correct and send farther.
-
-The Daughter carried the first seed crate through the gate. Behind her went water, ordinary seed, route rubbings, medical bundles, named records, and people who had chosen their loads. Seven convoys took seven unequal roads away from the dead Crown.
-
-Magic remained absent from every hand.
-
-What left those hands could no longer be gathered back into one capital.
-
-* * *
-
-Night made the cost plain.
-
-Clinics worked by oil lamp, pressure, boiled thread, trained attention, and exhausted hands. Some patients lived who would once have been healed in a breath. Some did not. The shield districts cooled after dark, and families moved into public rooms away from glass that no longer held warmth. Travelers stranded at stone arches became road crews, carriers, or people with nowhere to go. Focus stones were set in marked bins so no frightened child would mistake inert material for rescue.
-
-The greenhouse lost its luminous vine and the heat-dependent growth the convoys could not move. Its ordinary seed reached cold soil before dawn. No one called the exchange equal.
-
-At the public steps, power-based offices found that guards could remember an order while refusing its monopoly. Seris was replaced at the time she had named. The replacement witnesses posted the first allocation errors beside the corrected counts. Worshipers still prayed near the Daughter. Prayer and memory remained human acts, but neither restored the power whose conjunction with worship and authority could make a god. No one in the yard settled what she had been before. She was alive, grieving, responsible for her own choices, and carrying water with both hands.
-
-Calvea remained Calvea without dusk. Her burns did not become meaningless when the practice that caused them ended. Orrin remained a living person when his interfaces fell silent, and Tovan remained one living person when his archive access disappeared. The three answering expressions remained other persons, distant and diverged. No failure turned any of them into broken equipment or dead data.
-
-The second dawn had still happened. Six cities had still been destroyed and returned to the prayer. A mother had still chosen, a daughter had still refused a crown, a guardian had still stopped a clean act of destruction, and seven branches had learned to say no to one another. The lost were not restored. The rescued were not unrescued. Every scar, relationship, material change, and moral consequence survived the power that had made some of them possible.
-
-Tovan added a scope line to the packets before the last convoy left: *This account concerns the living material world at the present time.* He made no claim about the dead, any afterlife they knew, other worlds or planes, alternate histories, or destinations beyond the inert crossing stones. Their condition was not evidence in Faris's hands. The present world's silence was.
-
-In the years that followed, those first packets were copied badly, corrected carefully, argued over, stained by weather, translated into systems that had never called their workings mana, and carried beyond the seven branches. Some communities failed before water or seed reached them. Famine changed borders. Roads grew around dead crossing arches; wells were rebuilt for buckets, screws, animal wheels, and gravity; seed exchanges became treaties; missing names remained visible beside recovered ones. Many people lived because no capital could destroy every copy or recall every cask. The first account did not save the world intact. It gave a broken world distributed means to continue.
-
-Magic never returned to the material world. No hidden reserve opened. No relic kept a spark. No god, artifact, machine, newborn child, or future discovery restored what had ended. The sun rose, seasons turned, and every wonder afterward was accomplished by matter, life, memory, chance, and labor without magic.
-
-At the end of the first night, Faris sat on the public steps with her favor ledger open across her knees. The six restored city names had worn shallow under nine years of feet but remained legible. Beyond them, seven roads carried unequal loads into the paling dark.
-
-The Daughter knelt in the greenhouse plot below the steps. Without living fire in her palms, she pressed ordinary seed into cold soil and covered it to the depth Calvea had measured.
-
-Faris drew a line beneath the last private balance. “All accounts settled,” she said.
-
-The Daughter looked at the departing wheels, then at the blank margin beneath Faris's line. “Are they?”
-
-It was not a grand rebuke. She sounded tired.
-
-“I was hoping the end of magic might improve bookkeeping.”
-
-The joke received no answer. Fair enough.
-
-Faris turned to a fresh page. At the top she wrote the date: nine years and one day after the second dawn. Beneath it she wrote *Corrections*, and left the next line empty for whoever arrived.
-
-The first wholly ordinary sunrise reached the Daughter's open, powerless hands. Wagon wheels knocked over the road stones. Old names held their places under new dust, and the seed stayed where human fingers had planted it.
+Outside, seed wagons and pollinator boxes took the long physical roads. Ordinary insects stirred against mesh as the sky paled. The flywheel stopped, its rim warm beneath Ishbel's hand, and the first fully nonmagical dawn reached Drenovar.
