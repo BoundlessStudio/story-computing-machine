@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/four-million-falling/05-story.md`
-- Review pass: 2
-- Verdict: REVISE
+- Review pass: 3
+- Verdict: PASS
 - Reviewer: `continuity_critic`
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-05T04:27:38.2163609Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-05T04:36:08.0758564Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -96,5 +96,44 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only final review; no repository files changed. The release-facing prose itself passes and preserves the prior draft PASS: its approximately 3,236 words fulfill the prompt through an ancient floating city of 4,083,612 residents, a locally taught extinction of magic, six unavailable fission reactors, an explicit common-bus cascade, finite nonmagical stored lift, city-scale evacuation constraints, destructive mass shedding, permanent grounding, deaths and missing people, contamination control, and mass displacement. The reactor and landing sequence remains technically conservative and causally legible; no reactor detonates, no inert system becomes magical or agentic, no unrelated canon mechanism is connected, and no repair or magical restoration erases the catastrophe. Inez, Damas, and Paz retain distinct dialogue behavior and tactic changes; close-third past tense, pacing, spatial clarity, emotional completion, and PG-13 treatment remain ready. The final character inventory is exhaustive and registry-aligned for Inez Arco, Inez, Arco, Chief Damas, Damas, Paz Arco, and Paz. The reviewed-prose non-character allowlist has exactly three columns and 24 correctly classified rows, and the strict final name gate passes cleanly. All 23 delta IDs are unique, sequential, proposal-only, unpromoted, and assigned explicit dispositions and topical targets, but certification is withheld because FMF-01, FMF-03, FMF-18, and FMF-19 contain final-prose-unsupported or causally inaccurate statements. These are story-editor-owned delta repairs requiring no canon ruling, retcon, material prompt reinterpretation, or user authority."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "four-million-falling",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/four-million-falling/05-story.md",
+  "authorityManifest": "stories/four-million-falling/authority.json",
+  "handoffLedger": "stories/four-million-falling/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T04:36:08.0758564Z",
+  "reviewBasis": "Independent read-only final re-review under guard 8c8c5ca72d5b4885bd5b8933e2e7098c of the unchanged approximately 3,236-word release-facing story and corrected complete 23-item canon delta against the captured prompt, final-review lifecycle record, canon brief, scene-ready plan, passing draft, complete review history through pass 2, unchanged authority inventory captured from main at ece7353ffe586d6e4dc792532605776fe451e9ff, ordered handoff ledger through completed sequence 7, current complete character-name registry, binding universe style constraints, and review-routed craft guidance. Verified every component of FMF-FINAL-001, then re-audited prompt fulfillment, canon and chronology, reactor shutdown and decay-heat behavior, common-bus and lift causality, technical conservatism, four-million-person logistics, close-third past-tense control, dialogue profiles and tactic changes, pacing, prose readiness, Teen/PG-13 limits, permanent consequences, all 23 delta facts, evidence, local scopes, constraints, dependencies, dispositions and smallest targets, the exhaustive final character-facing inventory, and the exact three-column 24-row non-character allowlist. The strict final story-names/3 gate returned passed true with zero warnings and zero errors; Test-StoryHandoffs returned passed true and releaseReady true with seven entries and no unresolved entries or errors; story-scoped integrity returned passed true. Current universe authority and final prose remain unchanged, and the worktree is clean.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "FMF-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/four-million-falling/06-canon-delta.md:36-80, FMF-01 and FMF-03 now retain only the final-prose-supported sister relationship and Paz's demonstrated clinic-evacuation conduct; the unsupported relative ages and clinic-logistics occupation are absent. At lines 329-343, FMF-18 assigns Orison's roll solely to the frozen Ring Two switch and limits the powerless tilt sensor to its stale six-degree report while the horizon continues climbing. At lines 345-358, FMF-19 says Orison settles unevenly, assigns the seven-degree southward cant only to the control room, and explicitly leaves any citywide cant measurement unestablished."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only final re-review; no repository files changed. FMF-FINAL-001 is fully resolved without prose changes or regression. The corrected delta no longer promotes the plan-only Arco age ordering or Paz occupation, now distinguishes the switch-caused roll from the stale powerless tilt sensor, and confines the seven-degree measurement to the control room. All 23 delta IDs remain unique, sequential, final-prose-supported, locally qualified, dependency-complete, proposal-only, unpromoted, and assigned explicit dispositions and smallest topical targets. The final prose preserves the prior draft PASS and fulfills the prompt through an ancient floating city of 4,083,612 residents, a locally taught extinction of magic, six unavailable fission reactors, an explicit common-bus cascade, finite nonmagical stored lift, city-scale evacuation constraints, destructive mass shedding, permanent grounding, deaths and missing people, contamination control, and mass displacement. Its technical and causal chain remains conservative and legible; no reactor detonates, inert infrastructure remains nonmagical and non-agentic, no unrelated canon system is connected, and no repair or magical restoration erases the catastrophe. Close-third past tense, dialogue distinction, pacing, spatial clarity, emotional completion, and PG-13 treatment remain ready. The final character inventory is exhaustive and registry-aligned for Inez Arco, Inez, Arco, Chief Damas, Damas, Paz Arco, and Paz; the exact three-column 24-row non-character allowlist remains correct; and all strict name, handoff, and story-integrity checks pass. No canon ruling, retcon, material prompt reinterpretation, or new user authority is required."
 }
 END_REVIEW_PASS_PAYLOAD

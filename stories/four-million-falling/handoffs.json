@@ -199,6 +199,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "four-million-falling",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T04:33:15.2529501+00:00",
+      "completedAt": "2026-08-05T04:38:06.4416721+00:00",
+      "guardId": "8c8c5ca72d5b4885bd5b8933e2e7098c",
+      "persister": "coordinator",
+      "report": "status: READY\n\nREVIEW_PASS_PAYLOAD\n{\n  \"story\": \"four-million-falling\",\n  \"mode\": \"REVIEW_FINAL\",\n  \"status\": \"READY\",\n  \"pass\": 3,\n  \"reviewedArtifact\": \"stories/four-million-falling/05-story.md\",\n  \"authorityManifest\": \"stories/four-million-falling/authority.json\",\n  \"handoffLedger\": \"stories/four-million-falling/handoffs.json\",\n  \"reviewer\": \"continuity_critic\",\n  \"reviewedAt\": \"2026-08-05T04:36:08.0758564Z\",\n  \"reviewBasis\": \"Independent read-only final re-review under guard 8c8c5ca72d5b4885bd5b8933e2e7098c of the unchanged approximately 3,236-word release-facing story and corrected complete 23-item canon delta against the captured prompt, final-review lifecycle record, canon brief, scene-ready plan, passing draft, complete review history through pass 2, unchanged authority inventory captured from main at ece7353ffe586d6e4dc792532605776fe451e9ff, ordered handoff ledger through completed sequence 7, current complete character-name registry, binding universe style constraints, and review-routed craft guidance. Verified every component of FMF-FINAL-001, then re-audited prompt fulfillment, canon and chronology, reactor shutdown and decay-heat behavior, common-bus and lift causality, technical conservatism, four-million-person logistics, close-third past-tense control, dialogue profiles and tactic changes, pacing, prose readiness, Teen/PG-13 limits, permanent consequences, all 23 delta facts, evidence, local scopes, constraints, dependencies, dispositions and smallest targets, the exhaustive final character-facing inventory, and the exact three-column 24-row non-character allowlist. The strict final story-names/3 gate returned passed true with zero warnings and zero errors; Test-StoryHandoffs returned passed true and releaseReady true with seven entries and no unresolved entries or errors; story-scoped integrity returned passed true. Current universe authority and final prose remain unchanged, and the worktree is clean.\",\n  \"verdict\": \"PASS\",\n  \"blockType\": null,\n  \"resolutionOwner\": null,\n  \"resolutionQuestion\": null,\n  \"errorCode\": null,\n  \"unresolvedCounts\": {\n    \"Critical\": 0,\n    \"Major\": 0,\n    \"Minor\": 0\n  },\n  \"priorFindingDispositions\": [\n    {\n      \"id\": \"FMF-FINAL-001\",\n      \"priorPass\": 2,\n      \"resolvedInPass\": 3,\n      \"disposition\": \"RESOLVED\",\n      \"evidence\": \"At stories/four-million-falling/06-canon-delta.md:36-80, FMF-01 and FMF-03 now retain only the final-prose-supported sister relationship and Paz's demonstrated clinic-evacuation conduct; the unsupported relative ages and clinic-logistics occupation are absent. At lines 329-343, FMF-18 assigns Orison's roll solely to the frozen Ring Two switch and limits the powerless tilt sensor to its stale six-degree report while the horizon continues climbing. At lines 345-358, FMF-19 says Orison settles unevenly, assigns the seven-degree southward cant only to the control room, and explicitly leaves any citywide cant measurement unestablished.\"\n    }\n  ],\n  \"findings\": [],\n  \"certificationEligible\": true,\n  \"changeReport\": \"Read-only final re-review; no repository files changed. FMF-FINAL-001 is fully resolved without prose changes or regression. The corrected delta no longer promotes the plan-only Arco age ordering or Paz occupation, now distinguishes the switch-caused roll from the stale powerless tilt sensor, and confines the seven-degree measurement to the control room. All 23 delta IDs remain unique, sequential, final-prose-supported, locally qualified, dependency-complete, proposal-only, unpromoted, and assigned explicit dispositions and smallest topical targets. The final prose preserves the prior draft PASS and fulfills the prompt through an ancient floating city of 4,083,612 residents, a locally taught extinction of magic, six unavailable fission reactors, an explicit common-bus cascade, finite nonmagical stored lift, city-scale evacuation constraints, destructive mass shedding, permanent grounding, deaths and missing people, contamination control, and mass displacement. Its technical and causal chain remains conservative and legible; no reactor detonates, inert infrastructure remains nonmagical and non-agentic, no unrelated canon system is connected, and no repair or magical restoration erases the catastrophe. Close-third past tense, dialogue distinction, pacing, spatial clarity, emotional completion, and PG-13 treatment remain ready. The final character inventory is exhaustive and registry-aligned for Inez Arco, Inez, Arco, Chief Damas, Damas, Paz Arco, and Paz; the exact three-column 24-row non-character allowlist remains correct; and all strict name, handoff, and story-integrity checks pass. No canon ruling, retcon, material prompt reinterpretation, or new user authority is required.\"\n}\nEND_REVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/four-million-falling/00-prompt.md",
+        "stories/four-million-falling/01-canon-brief.md",
+        "stories/four-million-falling/02-story-plan.md",
+        "stories/four-million-falling/03-draft.md",
+        "stories/four-million-falling/04-review.md",
+        "stories/four-million-falling/05-story.md",
+        "stories/four-million-falling/06-canon-delta.md",
+        "stories/four-million-falling/authority.json",
+        "stories/four-million-falling/handoffs.json",
+        "stories/four-million-falling/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/four-million-falling/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
