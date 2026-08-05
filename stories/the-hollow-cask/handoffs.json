@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "the-hollow-cask",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-05T17:06:09.7056316+00:00",
+      "completedAt": "2026-08-05T17:12:58.4286688+00:00",
+      "guardId": "4b68e54f44044b1b9ecf32b88542b82f",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory: `the-hollow-cask`\nmode: `CREATE_DRAFT`\nguardId: `4b68e54f44044b1b9ecf32b88542b82f`\noutput: `stories/the-hollow-cask/03-draft.md`\nwordCount: `3344`\nnamesUsed: `Agnes Wold`; `Agnes`; `Silas Cray`; `Silas`; `the Underbreath`\nstalePrecondition: `none`\nacceptanceSummary: `Complete seven-scene close-third Agnes/past-tense draft with tactile restoration, gathering rural-gothic unease, materially established former grandeur, distinct dialogue profiles, bounded living magical agency, non-graphic structural peril, costly adaptive restoration, and a humane complete resolution. Craft and dialogue revision pass completed.`\nscopeCheck: `PASS — only stories/the-hollow-cask/03-draft.md changed; git diff --check passed.`",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/the-hollow-cask/00-prompt.md",
+        "stories/the-hollow-cask/01-canon-brief.md",
+        "stories/the-hollow-cask/02-story-plan.md",
+        "stories/the-hollow-cask/authority.json",
+        "stories/the-hollow-cask/handoffs.json",
+        "stories/the-hollow-cask/story.json"
+      ],
+      "outputs": [
+        "stories/the-hollow-cask/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
