@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "all-accounts-due",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-05T05:23:21.4583408+00:00",
+      "completedAt": "2026-08-05T05:31:34.2453727+00:00",
+      "guardId": "1dc627d15d7a48b08b74155be8a0888e",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory: all-accounts-due\nmode: CREATE_DRAFT\nguard_id: 1dc627d15d7a48b08b74155be8a0888e\ncurrent_stage: planning\noutput: stories/all-accounts-due/03-draft.md\nword_count: 3453\nname_use: PASS — only registered forms Faris, Tycho, Uma, and Zeke used; strict plan-phase name check passed.\ncanon_plan_adherence: PASS — complete six-scene close-third past-tense draft preserves bounded zero-mana evidence, unknown cause/reach/duration, living agency, individual artifact limits, voluntary refusals and counteroffers, hydraulic/load causality, and Faris’s genuinely nonmagical role.\nchange_report: Replaced the placeholder with complete publishable-intent prose executing all six causal scenes. Paid off favors, the survey plate, service key, and stormweave sling while making the climax depend on coordinated people, access, rigging, capstan, timing, evacuation, and gravity. Only stories/all-accounts-due/03-draft.md changed.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
