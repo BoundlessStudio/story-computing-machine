@@ -33,7 +33,7 @@
 
 ## Verbatim quest-build clarification
 
-> the main event should be the climax; the body of story should be focus on flashback to main quests/adventures all without magic/skills, many relics/artifacts gathered or collected, or stollen, or taken as gifts, favors owed by godness, demonlords, dragons, and kings alike; 
+> the main event should be the climax; the body of story should be focus on flashback to main quests/adventures all without magic/skills, many relics/artifacts gathered or collected, or stollen, or taken as gifts, favors owed by godness, demonlords, dragons, and kings alike;
 
 ## Story controls
 
