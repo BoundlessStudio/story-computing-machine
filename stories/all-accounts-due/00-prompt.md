@@ -21,6 +21,10 @@
 
 > its the same kind of issues thought in this new draft; agriculture is not the cosmos type of event i was thinking of the House of M for Magic.. it needs to be more grand, more spectacle, a great pay off for all the time invested in their life, learning, colling artifacts, favours, etc... all pointing to the climax of "No More Magic"
 
+## Verbatim event-focus clarification
+
+> lets focus on the build up as flashbacks and focus on the declaration “No More Magic” event itsself.
+
 ## Story controls
 
 - Working title: All Accounts Due
@@ -28,6 +32,11 @@
   remaining a complete short story rather than a synopsis.
 - POV: Chosen during planning for strongest dramatic effect.
 - Tense: Chosen during planning for strongest dramatic effect.
+- Structure: Keep roughly 80–90% of the story in the continuous present-time
+  declaration event. Reveal the lifetime buildup through four to six concise,
+  payoff-triggered flashbacks totaling roughly 600–900 words. Each flashback
+  must unlock the immediately following use of a skill, artifact, relationship,
+  or favor. Do not narrate the protagonist's life chronologically.
 - Tone and genre: World-ending event fantasy; epic, elegiac, cumulative, and
   mythic, cosmic, spectacular, and intimate enough that the scale is felt
   through irreversible personal losses.
@@ -91,6 +100,9 @@
   structures, beings, realms or crossings, and accumulated wonders end before
   the protagonist and the world. Reports may widen scale but cannot substitute
   for spectacle and decisive action.
+- The principal cast and artifacts must already be converging when the story
+  opens. Do not spend the story assembling a party, touring the world, or
+  administering the aftermath. The declaration event itself is the story.
 
 ## Completion tests
 
