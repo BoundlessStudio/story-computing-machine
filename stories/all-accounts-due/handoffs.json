@@ -464,6 +464,34 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 18,
+      "story": "all-accounts-due",
+      "actor": "story_architect",
+      "mode": "REVISE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-05T13:14:05.5519884+00:00",
+      "completedAt": "2026-08-05T13:48:29.1233063+00:00",
+      "guardId": "37d47a9d4adf4fa68c45ac85b51d7697",
+      "persister": "story_architect",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_PLAN\nguard_id: 37d47a9d4adf4fa68c45ac85b51d7697\ncurrent_stage: planning\nchanged_output: stories/all-accounts-due/02-story-plan.md\nname_inventory: PASS — Faris; Seyathi; Hurzai; Ekkorath; King Malrec/Malrec; Qeluun; Jelveth Sorn/Jelveth. All forms are exhaustively listed and name-gate-ready; rejected names are excluded.\nproper_noun_inventory: PASS — Ithrom Array; Unwritten Axis; Absolute Yoke; Bound Ascendancy; six quest locations; six unrelated systems; and exactly eight relics are inventoried with collision findings and rejected-version exclusions.\nevent_check: PASS — 5,800-word architecture; active-magic terminal opening; exactly six 550-word dramatized flashbacks totaling 56.9%; continuous 35–45% climax; six authorities and renewed favors; exactly eight indispensable relics; mundane cotter release with exact `No More Magic`; worldwide permanent extinction of capacity, charge, structures, crossings, faculties, hybrids, and reserves; no restoration or coda.\ntwist_check: PASS — Seyathi freely arms her keystone under a preserved technically accurate narrow promise while Faris deliberately withholds worldwide scope; the named target becomes powerless; her final realization, unmistakable failed former faculty, and cut to black are explicit.\nchecks: PASS — active guard and non-main checkpoint verified; authority base matches current `main`; required inputs and routed guides read; only `02-story-plan.md` changed; 236 lines, within the 400-line ceiling; six flashback headings and eight relic-audit rows verified; `git diff --check` passed.\nchange_report: Completely replaced the rejected plan with a wholly original, scene-ready cosmic-extinction architecture. The plan supplies causal scene turns, triggers and returns, word budgets, Faris’s ordinary lifelong arc and reason for ending magic, credible opposition, dialogue profiles and incompatible aims, six independent system audits, eight complete relic audits and terminal dispositions, favor/payoff and lifetime-convergence matrices, causal climax mechanics, distinct worldwide spectacle, personhood outcomes, constraints, local inventions, exhaustive character-facing names, and proper-noun collision checks. Only stories/all-accounts-due/02-story-plan.md changed.",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
