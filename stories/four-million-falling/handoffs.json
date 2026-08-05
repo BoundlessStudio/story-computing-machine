@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "four-million-falling",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-05T03:57:48.8870905+00:00",
+      "completedAt": "2026-08-05T04:05:06.8165144+00:00",
+      "guardId": "166afc917e884091a722ce3e20a013d7",
+      "persister": "prose_writer",
+      "report": "status: READY\nresolutionOwner: none\nstory: `four-million-falling`\nmode: `CREATE_DRAFT`\nguardId: `166afc917e884091a722ce3e20a013d7`\ncurrentStage: `planning`\noutput: `stories/four-million-falling/03-draft.md`\nwordCount: `3235`\nnamesUsed: `Inez Arco`; `Inez`; `Arco`; `Chief Damas`; `Damas`; `Paz Arco`; `Paz`\nacceptanceSummary: `Complete six-scene close-third past-tense draft executing the approved plan: a conservative six-reactor/common-bus cascade, finite nonmagical stored-field lift, visible four-million-person logistics, irreversible structural and human losses, distinct dialogue tactics and shifts, PG-13 catastrophe, and a complete permanent sea-landing aftermath without universal magic-extinction claims or magical restoration.`\nchangeReport: `Only stories/four-million-falling/03-draft.md changed; frontmatter was preserved and no registry, lifecycle, handoff, review, final, delta, universe, or other file was modified.`\nstalePrecondition: `none`",
+      "inputs": [
+        "stories/four-million-falling/00-prompt.md",
+        "stories/four-million-falling/01-canon-brief.md",
+        "stories/four-million-falling/02-story-plan.md",
+        "stories/four-million-falling/authority.json",
+        "stories/four-million-falling/handoffs.json",
+        "stories/four-million-falling/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/four-million-falling/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
