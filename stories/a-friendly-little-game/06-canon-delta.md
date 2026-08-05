@@ -245,19 +245,24 @@ relationship under AFLG-07.
 
 - **AFLG-12 — living source and inert recording components (proposed).**
   **Reusable fact:** In this incident, the living hooded stranger alone supplies
-  the heat-work. Three blank thumb-sized salt-glazed ceramic pieces and a
-  shallow wooden rack serve as nonliving focuses that temporarily display
-  shorthand records of the viewpoint character's spoken forecasts. The pieces
-  do not move, choose, speak, score, predict, compel, bind, transfer ownership,
-  or affect the arriving companions. **Exact local scope:** The stranger's
-  three-piece display during this one game. **Constraints:** No universal magic
-  category, ceramic technology, sentient board, speaking object, game law,
-  autonomous artifact, or connection to another focus or prediction system is
-  established. The story does not establish the pieces' maker, age, origin,
-  capacity outside this game, or behavior under damage. **Dependencies:**
+  the heat-work. A shallow wooden rack is the inert distribution focus: it
+  carries the stranger's supplied heat to the set only while one of their hands
+  remains in contact with its wood. Three blank thumb-sized salt-glazed ceramic
+  pieces are inert recording surfaces; with rack contact sustained, the
+  stranger's other hand writes or wakes one selected piece. Direct piece contact
+  alone does not sustain any mark. The pieces and rack do not move, choose,
+  speak, score, predict, compel, bind, transfer ownership, or affect the arriving
+  companions. **Exact local scope:** The stranger's three-piece display during
+  this one game. **Constraints:** The rack distributes only the living
+  stranger's supplied power and is not itself a source or user. No universal
+  magic category, ceramic technology, sentient board, speaking object, game
+  law, autonomous artifact, or connection to another focus or prediction system
+  is established. The story does not establish the components' maker, age,
+  origin, capacity outside this game, or behavior under damage. **Dependencies:**
   AFLG-05, AFLG-13, AFLG-16, AFLG-17, AFLG-19, and AFLG-20. **Evidence:**
   `stories/a-friendly-little-game/05-story.md` — the stranger's disclosed
-  limits, visible fingertip work, Alba's hand-lift test, and the inert pieces
+  rack-versus-piece distinction, each staged write and replay, Alba's test that
+  leaves piece contact in place while rack contact breaks, and the inert pieces
   during the attempted forfeit claims. **Proposed disposition:** `PROPOSE ADD
   WITH LIVING-SOURCE AND NON-AGENTIC-FOCUS QUALIFIERS`.
   **Suggested smallest topical target:** `universe/rules.md`.
@@ -265,21 +270,23 @@ relationship under AFLG-07.
 - **AFLG-13 — accepted-speaker forecast recording (proposed).** **Reusable
   fact:** After verbally accepting the game, the viewpoint character presses a
   thumb to each blank piece and states one forecast about one expected
-  companion. While touching the opposite edge, the stranger writes a compressed
-  orange heat-pattern that preserves the forecast closely enough for witnesses
-  to compare it with later action. Personal names identify the three records
+  companion. While keeping one hand on the rack and touching the selected
+  piece's opposite edge with the other, the stranger writes a compressed orange
+  heat-pattern that preserves the forecast closely enough for witnesses to
+  compare it with later action. Personal names identify the three records
   conversationally but show no mechanical access or binding effect. **Exact local scope:**
-  The three observed recordings made from this consenting
-  speaker's words. **Constraints:** The story does not establish whether thumb
+  The three observed recordings made from this consenting speaker's words.
+  **Constraints:** The story does not establish whether the player's thumb
   contact is required in every use, whether another speaker can use the pieces,
   whether false or involuntary speech records differently, whether any language
   is privileged, or whether names have power. Recording consent does not create
   informed consent to the stranger's later dehumanizing interpretation.
   **Dependencies:** AFLG-12, AFLG-14, AFLG-16, AFLG-17, and AFLG-19.
   **Evidence:** `stories/a-friendly-little-game/05-story.md` — the explicit yes,
-  three thumb placements, three spoken forecasts, and the three displayed
-  shorthand labels. **Proposed disposition:** `PROPOSE ADD AS OBSERVED LOCAL
-  ACCESS BEHAVIOR`. **Suggested smallest topical target:** `universe/rules.md`.
+  three thumb placements, three spoken forecasts, the stranger's staged rack
+  and piece contact, and the three displayed shorthand labels.
+  **Proposed disposition:** `PROPOSE ADD AS OBSERVED LOCAL ACCESS BEHAVIOR`.
+  **Suggested smallest topical target:** `universe/rules.md`.
 
 - **AFLG-14 — this game's disclosed turn and score structure (proposed).**
   **Reusable fact:** For this game, before each expected companion enters, the
@@ -324,20 +331,27 @@ relationship under AFLG-07.
 
 - **AFLG-16 — contact, range, fade, and living effort (proposed).** **Reusable
   fact:** The stranger states that the display works within twelve paces only
-  while they keep a hand on the rack or a piece. Alba's test demonstrates that
-  lifting the stranger's other hand makes the first record dim and the second
-  blur; renewed contact slowly restores heat. Charging and maintaining all
-  three records visibly blanches the stranger's nail beds and fingertips and
-  produces worsening tremor, and all writing fades when the stranger releases
-  the rack to take the key. **Exact local scope:** The stated and observed limits
-  of this stranger's display in the bar. **Constraints:** The twelve-pace claim
-  is not independently tested at its boundary; no universal range, fuel,
-  metabolic equation, injury, cooldown, recovery time, remote use, lethal
-  consequence, or behavior for another operator is established. **Dependencies:**
-  AFLG-05, AFLG-12, AFLG-13, and AFLG-19 through AFLG-21. **Evidence:**
-  `stories/a-friendly-little-game/05-story.md` — the range disclosure, whitening
-  fingertips, Alba's lift test, three-piece tremor, and post-transfer fading.
-  **Proposed disposition:** `PROPOSE ADD AS OBSERVED PERSONAL LIMIT AND COST`.
+  while one sustaining hand remains on the wooden rack. The other hand must
+  touch a selected piece to write or brighten that record, but piece contact
+  alone cannot maintain heat. Every write and replay occurs with rack contact
+  sustained. During Alba's test, the stranger leaves two fingers on the second
+  piece but lifts the rack hand: the first record dims and the directly touched
+  second record blurs. Returning one finger to the rack slowly restores the
+  heat; releasing the rack to take the key makes all writing fade at once.
+  Charging and maintaining all three records visibly blanches the stranger's
+  nail beds and fingertips and produces worsening tremor. **Exact local scope:**
+  The stated and observed limits of this stranger's display in the bar.
+  **Constraints:** The twelve-pace claim is not independently tested at its
+  boundary; the rack is inert and neither supplies nor uses magic; no universal
+  range, fuel, metabolic equation, injury, cooldown, recovery time, remote use,
+  lethal consequence, or behavior for another operator is established.
+  **Dependencies:** AFLG-05, AFLG-12, AFLG-13, and AFLG-19 through AFLG-21.
+  **Evidence:** `stories/a-friendly-little-game/05-story.md` — the precise
+  rack-versus-piece disclosure, rack-sustained writing and replay staging,
+  whitening fingertips, Alba's rack-release test with piece contact retained,
+  restoration on renewed rack contact, three-record tremor, and final fade on
+  rack release. **Proposed disposition:** `PROPOSE ADD AS OBSERVED PERSONAL
+  LIMIT AND COST`.
   **Suggested smallest topical target:** `universe/rules.md`.
 
 - **AFLG-17 — observation rather than prediction or name access (proposed).**

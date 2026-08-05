@@ -66,7 +66,7 @@ You thought of the spare wedges in Felix's pack, Gwen's rolls of survey charcoal
 
 “How far?”
 
-The thin mouth moved, almost a smile. “Twelve paces, if I keep a hand upon the rack or a piece. Farther, or without my touch, the marks cool. The witnesses may remember the score if the pottery does not.”
+The thin mouth moved, almost a smile. “Twelve paces, if I keep one hand upon the rack. The other writes a piece or wakes its marks. A piece cannot keep itself warm. Farther, or without my hand on the wood, the marks cool. The witnesses may remember the score if the pottery does not.”
 
 No prophecy, then. No trap hidden in a speaking board. A little heat-work, a purse, and a boast dressed as a wager. Gwen would laugh at you for hesitating.
 
@@ -76,7 +76,7 @@ You put your thumb on the first piece. It was cold and slightly rough.
 
 “Yes.”
 
-They placed a forefinger on the opposite edge. Warmth entered the ceramic between you. Fine orange lines followed the stranger's fingertip, branching over the glaze in letters too small to read from a distance. Their nail bed blanched.
+They braced the rack with one hand and placed a forefinger of the other on the opposite edge. Warmth entered the ceramic between you. Fine orange lines followed the stranger's fingertip, branching over the glaze in letters too small to read from a distance. Their nail bed blanched.
 
 “Gwen,” you said. “She'll come in, report the cause of the delay before anything else, then take the right-hand stool. She always takes the position with the clearest exits.”
 
@@ -104,7 +104,7 @@ She passed you.
 
 “Make it four.” Gwen stayed on her feet, watching until the coins disappeared into the till.
 
-The stranger touched the first piece. The heat-writing brightened. You did not need the repeated words to know the score.
+Keeping one hand on the rack, the stranger touched the first piece with the other. The heat-writing brightened. You did not need the repeated words to know the score.
 
 “She reported the delay,” you said. “The request tells us the bridge is still blocked.”
 
@@ -158,7 +158,7 @@ The stranger waited. They did not urge you. That courtesy was worse than urging.
 
 You adjusted the forecast because precision, at least, was still yours. “Alba will reach for my hand, and begin treatment before asking how it happened.”
 
-The stranger's fingertip whitened as the second piece warmed. ALBA—REACH—TREAT BEFORE QUESTION. When they fitted it into the rack, a tremor ran through their index finger and stopped.
+The stranger kept one hand on the rack. Their other fingertip whitened as the second piece warmed. ALBA—REACH—TREAT BEFORE QUESTION. When they fitted it into the rack, a tremor ran through their index finger and stopped.
 
 Gwen saw it. So did you.
 
@@ -184,7 +184,7 @@ Say yes, and the stranger could call it close. Say nothing, and ten breaths woul
 
 “All right.” Alba buckled the bag again. “The driver is awake. Shoulder bruised, no break I could find. Someone local took over.” Then they turned to the rack. “What powers those marks?”
 
-The stranger laid two fingers on the second piece. Its writing flared bright enough to shine on the damp leather of Alba's bag.
+With one hand flat on the rack, the stranger laid two fingers of the other on the second piece. Its writing flared bright enough to shine on the damp leather of Alba's bag.
 
 “A forecast freely recorded,” they said. “A clear miss.”
 
@@ -200,9 +200,9 @@ Alba did not touch the ceramic. “Lift your other hand from the rack.”
 
 “Then it costs you nothing.”
 
-The stranger regarded Alba for a moment. They lifted the hand.
+The stranger regarded Alba for a moment. They lifted the hand from the rack, leaving the other two fingers on the second piece.
 
-At once the first piece dimmed. On the second, the word ALBA blurred at the edges. When the stranger put one trembling finger back against the wood, heat gathered again, slow and uneven.
+At once the first piece dimmed. On the second, the word ALBA blurred at the edges. When the stranger returned one trembling finger to the rack, heat gathered again, slow and uneven.
 
 “The pieces hold the pattern,” Alba said. “You're keeping it warm.”
 
@@ -226,7 +226,7 @@ Alba let out a tired breath. Gwen released your wrist as if it had become someon
 
 “Felix will see a hooded stranger beside me,” you said. “He'll put a hand on his knife and wait for my order.”
 
-The stranger's pale fingertip rested opposite yours.
+Keeping that hand on the rack, the stranger's other pale fingertip rested opposite yours.
 
 “Don't use that,” Gwen said.
 
@@ -264,7 +264,7 @@ Felix waited for what you wanted, not for an order he had already accepted.
 
 “Nothing,” you said.
 
-The stranger touched the third piece. Its letters burned steadily, preserving every word you had supplied.
+With one hand still on the rack, the stranger touched the third piece with the other. Its letters burned steadily, preserving every word you had supplied.
 
 “He put his hand to the knife,” you said.
 
@@ -322,7 +322,7 @@ You placed the key beside the three pieces.
 
 “Mine.”
 
-The stranger's fingers left the rack and closed on the key. The heat-writing began to fade at once.
+The stranger's sustaining hand left the rack and closed on the key. The heat-writing began to fade at once.
 
 “It qualifies,” they said.
 

@@ -196,6 +196,38 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 8,
+      "story": "a-friendly-little-game",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T20:03:40.6699592+00:00",
+      "completedAt": "2026-08-05T20:07:40.1288340+00:00",
+      "guardId": "dde02ff751eb42899f3743aa4b765349",
+      "persister": "story_editor",
+      "report": "status: READY\nstory_slug: a-friendly-little-game\nmode: REVISE_FINAL\nguard_id: dde02ff751eb42899f3743aa4b765349\ncurrent_stage: final-review\nchanged_files:\n  - stories/a-friendly-little-game/05-story.md\n  - stories/a-friendly-little-game/06-canon-delta.md\nfinding_dispositions:\n  - AFLG-FINAL-001 — RESOLVED: Established rack contact as the sole sustaining contact. The living stranger keeps one hand on the inert rack while the other writes or wakes an inert piece; piece contact alone cannot sustain marks. Every write, replay, Alba test, restoration, and final fade now obeys this rule.\nauthority_conflict: none\nuser_ruling_required: no\nresolution_owner: none\ndelta_changes: AFLG-12, AFLG-13, and AFLG-16 now inventory only demonstrated rack-versus-piece behavior, retain the untested twelve-pace qualifier, living sole source, inert components, visible effort, rapid fade, non-compulsion, and incident-local scope, and cite the revised prose evidence.\nname_inventory_allowlist: Unchanged and exhaustive; registered forms remain Gwen, Alba, and Felix, with the same three-row non-character allowlist.\nfinal_name_gate: PASS — story-names/3 returned zero warnings and zero errors.\nvalidation: Immutable frontmatter PASS; exact invitation PASS; 22 delta items and all required fields preserved; story-scoped branch validation PASS; git diff check PASS.\nscope_check: Only stories/a-friendly-little-game/05-story.md and stories/a-friendly-little-game/06-canon-delta.md changed. No review, registry, metadata, index, release, promotion, handoff-ledger, universe-note, or other file was modified.\nchange_report: Revised both authorized final artifacts solely to resolve AFLG-FINAL-001. No new character-facing form, canon claim, retcon, crossover, or unrelated prose change was introduced.\nstale_precondition: none",
+      "inputs": [
+        "stories/a-friendly-little-game/00-prompt.md",
+        "stories/a-friendly-little-game/01-canon-brief.md",
+        "stories/a-friendly-little-game/02-story-plan.md",
+        "stories/a-friendly-little-game/03-draft.md",
+        "stories/a-friendly-little-game/04-review.md",
+        "stories/a-friendly-little-game/05-story.md",
+        "stories/a-friendly-little-game/06-canon-delta.md",
+        "stories/a-friendly-little-game/authority.json",
+        "stories/a-friendly-little-game/handoffs.json",
+        "stories/a-friendly-little-game/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/a-friendly-little-game/05-story.md",
+        "stories/a-friendly-little-game/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
