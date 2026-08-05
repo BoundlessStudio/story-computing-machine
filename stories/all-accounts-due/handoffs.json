@@ -492,6 +492,35 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 19,
+      "story": "all-accounts-due",
+      "actor": "prose_writer",
+      "mode": "REVISE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-05T13:50:45.8633768+00:00",
+      "completedAt": "2026-08-05T14:05:50.5655435+00:00",
+      "guardId": "59d32b37970649a48e9e418c83b88666",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_DRAFT\nguard_id: 59d32b37970649a48e9e418c83b88666\ncurrent_stage: drafting\nchanged_output: stories/all-accounts-due/03-draft.md\nword_count: 5221\nstructure_check: PASS — exactly six substantial dramatized quest flashbacks; 2,949 words, 56.5% of prose; six present returns; exactly six unrelated systems, six renewed favors, eight causal relics, and six ordinary learned-lesson payoffs.\nending_check: PASS — Faris pulls the ordinary cotter while saying exactly `No More Magic`; simultaneous permanent extinction exhausts capacity, charge, structures, crossings, faculties, hybrids, reserves, relics, and restoration; Seyathi identifies the omitted `only`, attempts her established two-finger Tessellate Grace faculty, and `Nothing moved. Nothing answered.` is the final sentence.\nchecks: PASS — cleared names only; forbidden and rejected-version content absent; required systems and relics present; `git diff --check` passed; only the allowed draft changed.\nchange_report: Completely replaced the rejected draft without creative salvage. The new close-third, past-tense cosmic culmination keeps Faris an ordinary lifelong nonmagical man, dramatizes all six nonchronological quests and material assists, preserves the exact bounded promise and deliberate omission, keeps magic active through the continuous climax, makes all relics and favors indispensable, preserves personhood while ending magic permanently throughout the present material world, and ends immediately on Seyathi’s morally valid betrayal response and failed faculty.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

@@ -6,436 +6,376 @@ canon: false
 
 # All Accounts Due
 
-On the first Open Day of 606 Common Tally, Faris laid her zero on the table with everyone else's wonders.
+The Ithrom Array hung where six world-curves crossed, and every kind of magic in the material world had come to kill Faris.
 
-Her capacity card was brass, hand-stamped, and older than three of the clerks checking it. Under *maximum mana* it said `0`, as it had said at her first examination and every examination since. There was no sleeping gift behind the numeral, no injury that had taken one away. Faris had been born without magic and had lived thirty-eight years without it.
+He crouched behind a broken brace with blood in one eye and no protection except ordinary stone. Around the Unwritten Axis, six empty sockets waited in a ring. The eight relics he had spent thirty-one years gathering lay between them: six keystones, the Parity Astrolabe suspended on a brass hook above, and the Mortal Latch clamped beneath. Beyond the hub, distances folded and unfolded. A city walked on luminous legs. Black fire ate inward through a fortress without touching its walls. Dragons stitched horizons together. Palaces occupied three skies at once. An aurora tightened around a falling mountain and held it up. Far below, soldiers traded eyes, lungs, and wings as casually as knives.
 
-She slid the card across the long counter in Drenovar's Exchange Hall. Above her, belts carried Bearing Census forms toward the type drums of the Copper Relay. The Census had been held every twelve years for three hundred and twelve years. Each living user declared capacity, dependencies, and promised output in an emergency. The form translated all of that into Drenovar's columns, including the misleading convenience of *maximum mana*. Nobody outside the city had to believe the systems shared anything.
+Through all six wonders descended the Absolute Yoke. Its bands had no single color. They borrowed whichever power they crossed, turning grace into command, fire into appetite, flight into pursuit, rooms into prisons, weight into chains, and living gifts into forced flesh. At their meeting point, the Bound Ascendancy wore a tall body made from all six.
 
-Malko Durev stood at the next station with one hand on a fired-clay testing block. He had been a master of kilnvoice for forty-one years, the latest in a craft that had shaped the Voln Plateau for nine hundred and seventy. At the clerk's signal, he touched the block and sang a mineral-changing overtone.
+“Leave the Latch,” it said through a hundred conscripted mouths. “There can still be order.”
 
-His voice cracked into ordinary breath.
+Then Seyathi stepped through a tessellated wall and reached for the Missing Tessera.
 
-The block did not soften.
+*Nine years earlier, at the Talarum Steps*
 
-Malko tried again. A damaged tooth showed when he pulled his lips back from the sound. The note became louder, rougher, useless.
+The pilgrims had been kneeling for four days.
 
-Across the hall, a dial reporting the Drenovar Turnworks roster total dropped from eight hundred shares to zero. Beneath the floor, flywheels that had been multiplied by wheelshare began to coast. Their slowing rhythm traveled through Faris's soles.
+Their knees bled through their clothes, but Tessellate Grace cared less about pain than arrangement. Every attempt to rise completed another line in the prepared pavement, and the completed line bent their bodies back into worship. Seyathi stood beyond them inside a shelter of rotating mineral color. She was holding the greater pattern apart by a finger's width. Sweat silvered her mouth. Each breath cost her another piece of her sense of place; when Faris shouted, she looked first in the wrong direction.
 
-In a low testing pool, Ossun floated beside a pluun that had approached for the Census pairing. The little animal spread its six paddling limbs and pulsed a pale band along its back. Ossun, an adult nerethi, answered with a dark ripple through their own skin. For fourteen recorded centuries, such pairings had separated salt from water in the Aruq Saltlands.
+“Do not step on anything beautiful,” she called.
 
-The pool stayed brackish. Ossun dipped a tasting reed, frowned, and opened the gate so the pluun could leave.
+“That advice would have helped at the bottom.”
 
-At the eastern doors, Brameth Caum faced a drifting cloud of orchard pollinators. Their bloomcall had guided migrations along the Oltin Coast for two hundred and thirty-three years. Worship, power, and agricultural authority had made Brameth a god there. They inhaled, released a breath scented for northward flight, and waited.
+He lay flat in the drainage cut beside the stairs. He had no counter-pattern to wear and no inner gift for the pavement to recognize. That did not make him safe. A prepared surface could arrange an unmagical body as easily as a chair. He crawled where the mortar was still raw, testing it with the brass tongue from his sandal buckle. Plain grit crumbled. Worked grit hummed against the metal.
 
-The insects settled on the warm doorstones.
+A blank white tile sat between him and the nearest pilgrim. No lines. No pigment. Faris put his palm on it.
 
-At that dawn, in every country of the present material world, every living act that had been magic became ordinary effort. Powers of body, partnership, congregation, worship, and countless other kinds ceased together without thereby acquiring one origin or one name. This was not a pause, a blockage, or a fault in the Census instruments. Magic had ended everywhere in that world.
+The prepared underside turned him over and folded him to both knees.
 
-It would never work there again.
+His shoulder struck the step. His teeth met hard enough to fill his mouth with blood. The pilgrims' hands rose together, compelled into the next figure, and the shelter around Seyathi narrowed.
 
-Faris knew only what the hall showed her. For one hard instant, satisfaction moved through her: every celebrated ceiling had fallen to meet the zero she carried every day.
+“Blank side inward,” she said, voice tight. “You were meant to notice.”
 
-Then the Turnworks alarms began.
+“I have noticed very thoroughly.”
 
-Ishbel Rann came through the western doors at a run, her chief engineer's coat open and chalk whitening one sleeve. “Clear the tread galleries. No one touches a valve until I know which flywheels are still carrying load.”
+He tried to lift one knee. The tile corrected him by twisting his ankle until his heel fitted the design. Nothing in the pain was mystical. Tendons were tendons even when a goddess's geometry chose how to pull them. Faris wedged the buckle tongue beneath his sole and used it as a lever, gaining less than a finger's width. Enough to keep the joint from breaking. Not enough to stand.
 
-“The gauges all agree,” Faris said. “We start dependency counts now.”
+One of the kneeling pilgrims moved one finger. Not up, which the pattern would have caught. Sideways, scraping at a seam beneath the lip of the stair. Faris followed the scratch with his eyes. A maintenance pin held the prepared facing to an ordinary support bed. No holy geometry protected the pin. It was only iron, green with damp.
 
-“The gauges do not tell me whether a freight piston is about to cross a gallery.”
+Seyathi understood his look. “One breath,” she said. “After that, I will not know which way you are.”
 
-Malko struck the clay block with his palm. “I require another comb. That guide was warped.”
+She turned two fingers.
 
-Brameth turned their back to the crowd pressing in from the steps. “I will test in private.”
+The colored shelter opened. For one breath the compulsion loosened, and every pilgrim sagged without being forced into the next posture. Faris tore the buckle from his sandal and struck the maintenance pin. Once. Twice. On the third blow it slid free. The facing dropped a thumb's width, breaking the pattern's continuity. Forty-three people fell out of worship at once.
 
-Four failures, four refusals to call them the same thing. Faris stopped reaching for one conclusion.
+The hidden lines on the tile flashed before they died. They were not devotional. They were a trial lattice for the Absolute Yoke.
 
-“One system-specific test each,” she said. “Then one physical deadline. No theories.”
+Afterward, Seyathi could not find the stairs without Faris taking her elbow. She gave him the Missing Tessera, a square of matte mineral two fingers wide. It had been made for her two hundred and thirty-three years before, she said, and contained one finite direction of her grace.
 
-Malko chose an unmarked block and sang until the old crack in his tooth bled a little. It remained hard. Ishbel sent a runner to disconnect one walker from a gallery. Without the living multiplication, the mechanism produced only the force of one tired body. Ossun and the pluun paired again by the pool gate; the animal broke away when nothing followed. Brameth called once from the open steps. The pollinators groomed their legs.
+“One day,” she told him, “you may ask me to arm it against the Yoke. Say exactly what you mean. A promise protects only its exact shape.”
 
-“Voln's unfinished joints begin separating as soon as their braces cool,” Malko said.
+Now, at the Ithrom Array, Faris said, “Arm the Missing Tessera, and before this hour ends the Absolute Yoke will be powerless. I will not take its power, wear it, or pass it to anyone.”
 
-“The cold rooms have ten hours,” Ishbel said. “Useful pressure, less.”
+Every clause was true. He had built the sentence for three decades and deliberately left one word out.
 
-“Nursery salinity is already rising,” Ossun said.
+Seyathi studied him, then pressed her thumb to the matte square. “Agreed.” She set it blank-side inward. Geometric light filled the first socket.
 
-Brameth watched the grounded insects. “The colonies have until midday heat before boxed travel becomes dangerous.”
+The Sole Chamber began to ring.
 
-The hall's type drums started hammering. The world's replies were coming in.
+*Twenty-four years earlier, at Mavorn Palace*
 
-* * *
+Faris entered the palace prison dressed as a laundry porter, carrying wet sheets and the confidence of a man nobody important intended to remember.
 
-The Copper Relay had no magic to lose. Operators turned cranks that drove current through copper wire. Batteries failed, cables broke, type drums jammed, and distant people sometimes chose not to answer. For a hundred and twelve years, its limitations had made it an unfashionable backup to faster wonders.
+Nine prison wings occupied the same foundation. King Malrec's heartbeat chose which arrangement a corridor wore. With one beat, Faris passed cells full of debtors. With the next, the same doors held soldiers. Another beat revealed an empty banquet hall through the bars. Living people remained one body each, crossing between rooms only at permitted thresholds. The stone was less disciplined. It could be wall, stair, ceiling, and oubliette before a guard finished yawning.
 
-Now every hand in the relay room was black with ribbon ink.
+The Sole Chamber governed Manyroom from a bronze model no bigger than a thumb. Faris had been told to follow a scratched line along the base wall until it ended under the royal archive.
 
-The first clear message came from Voln. Three active aqueduct joints had stopped changing under their workers' voices. Fired spans completed years ago still carried water. One half-shaped joint was pulling apart under its own weight.
+He followed the wrong scratch.
 
-Faris crossed the advertised northern road from her route table. Falling ceramic would close it within four hours. Seed for two cold upland towns would need a different grade.
+The next heartbeat put him inside a locked cell. The following one put the cell behind the kitchens. Then under a chapel. Then nowhere he could name. He dropped the sheets and felt along the base, but each wall carried decades of scratches. He could not tell signal from damage.
 
-Aruq reported *no pairing*. Fresh water already separated remained fresh inside sealed tanks, but each tide pushed salt farther into nursery pools. The water inventory on Drenovar's Census form was suddenly fiction unless somebody tested each cistern.
+The prisoner sharing the cell watched him sniff the air.
 
-Oltin reported *no call*. Pollinator colonies had landed wherever dawn found them rather than continuing toward orchards. Sending seed without compatible insects would preserve one planting and imperil the next.
+“What?” Faris whispered.
 
-Two clinic networks transmitted diagrams for splints, pressure dressings, boiled instruments, and dosage tables before their cable went silent. Faris added ordinary medical records to the release list. A transport office reported thousands stranded where its magical routes had ceased; every freight estimate now needed physical miles. Three continental stations sent only partial headers. Five sent nothing at all.
+The prisoner pointed through the wall, then pinched their nose and mimed eating.
 
-The blanks mattered. Faris drew boxes around them rather than pretending the wire had reached everywhere.
+Faris held up one finger for each shift and let the prisoner tap his wrist when a smell returned. On the seventh heartbeat, soup and lamp oil repeated together. On the ninth, wet wool came back without the soup. The scratched walls were meant to defeat sight, but cooks still burned onions on schedule and laundries still made steam. The prisoner smiled when Faris finally began counting the palace as work instead of wonder.
 
-Each report changed a load in Drenovar. Seed crates came out of deep refrigeration queues. Water casks lost their assumed destinations. Orchard drivers demanded ventilated boxes. Printed medical plates took priority over legal forms. Physical roads replaced departure times copied from vanished transport.
+Meal smells. Grease when the kitchens were near. Damp grain by storage. Wax by the archive. Faris stopped looking for the right mark and waited through the pulse of rooms, tracking the ordinary things each arrangement could not quite hide. When wax and mouse droppings arrived together, he found the true scratch under his heel. It led to a loose base stone.
 
-The Provision Assembly convened at the relay floor while the changes were still arriving. Its members did not propose saving everyone. They proposed saving Drenovar.
+Behind it sat the Sole Chamber, made by the first palace architects four hundred and eighty-six years earlier. Faris closed his hand around it. Nine wings shuddered toward one plain arrangement.
 
-“Enclose the seed cellars,” an Assembly member said. “Hold the remaining air for local cooling. We have no authority to spend the city's winter on messages we cannot verify.”
+He could have left during the confusion. Then a heartbeat made the wall beside him share space with King Malrec's private room. Faris saw a blade emerging behind the king, its wielder hidden in another arrangement.
 
-“Nor enough food if every displaced traveler stops here,” another said. “A controlled city can help later. A stripped city helps no one.”
+He threw the bronze model at Malrec's head.
 
-Ishbel stood beside the Turnworks pressure chart. “An uncontrolled release wastes both. Open the wrong manifold and the freight pistons strike their stops. Vent too quickly and the press brakes fail with plates still moving. I support a hold until my crews audit the system.”
+The king ducked to rebuke him. The assassin's blade passed through the place his throat had been. Faris shouted where to strike, and the royal guard dragged the attacker across a threshold into one body and one room.
 
-Faris pulled her old account book from her satchel. Eighteen years of help filled it: loads carried, refusals defended, stores redirected, routes walked when easier methods failed. The recent pages still smelled faintly of smoke from the Nine-Depot Fire.
+The prison settled. Every captive remained alive in the base structure. Faris was arrested before he reached the laundry door.
 
-“The Assembly owes me access,” she said. “The Turnworks owes me bypass priority. Put my plan on the global wire now.”
+Malrec visited his cell three days later. “You stole the legal heart of my house.”
 
-Ishbel looked at the book, then at Faris. “My crews did not sign your pages.”
+“I also threw it at you. That seems disrespectful twice.”
 
-No. They had not.
+“Your accounting is crude but accurate.”
 
-Faris shut the account book and spread the spoilage schedule instead. “Ten hours to move viable seed. Less than four before Voln's road closes. Nursery chemistry changes with the tide. Pollinator boxes have to clear before midday heat. Give me three hours to build a release you can audit.”
+The king pardoned him, retained a witnessed claim, and granted one decision over the Chamber if that decision was made publicly and applied to the palace as well as its enemies.
 
-“An engineering audit,” Ishbel said. “Not permission.”
+Now Malrec stood at the second socket in a crown that occupied five possible shapes.
 
-“Three hours.”
+“Preserve my capital's crossings,” he said. “I will renounce every foreign claim.”
 
-Ishbel marked the deadline on the pressure chart.
+“No exemption.”
 
-Faris drew six columns on a sheet broad enough for everyone to see: people; potable water; viable seed and pollinators; ordinary skills and records; physical routes; named custodian. Beside the last column she added *replacement*, because a custodian nobody could remove was only enclosure with cleaner handwriting.
+“Then you ask me to make every door merely a door.”
 
-“Each station fills what it knows,” she said. “Copies go outward, not only back here. Every receiver may correct the account or reject it.”
+“Yes.”
 
-“You still need the cellars,” the Assembly member said.
+Malrec looked toward the many palaces sheltering his people. “Witness this. I release every claim in the Sole Chamber, including my own.”
 
-Faris looked at Malko, Ossun, Brameth, and Ishbel. Between them stood the gate, water, insects, legitimacy, pressure, and four separate ways to say no.
+He crushed the bronze room flat between his palms. The second socket filled, and the Nearmost Vertebra knocked slowly against stone.
 
-* * *
+*Fourteen years earlier, at the Aphalion Belt*
 
-The seed-cellar doors met inside a ceramic locking sleeve as long as Faris's forearm. For four centuries, a kilnvoice worker had softened the sleeve, slid the iron bars free, then fused it closed again. The first makers had assumed the craft would outlive the hinges.
+Qeluun was too large for Faris to see as a body.
 
-Malko touched the sleeve with two fingers. “The lower half is carrying the left leaf. Break it carelessly and the door drops inward.”
+He saw a dark plain curving through the upper air, ribbed with pale sensory tissue. He saw storms dragged into crescents by a contraction somewhere beyond the horizon. He saw poacher rigs fixed to that living surface, their drills chewing for fragments that could alter weight. He felt each wound as a change in which direction his boots wanted to fall.
 
-“Then pay the school account,” Faris said. She set Malko's red vise at his feet. “Open it.”
+The Nearmost Vertebra was in his coat: a porous length of shed bone stolen from Qeluun ninety-seven years before Faris was born. He had recovered it from the poachers' buyer. Returning it would have been simple if the rigs had not started drilling deeper when he arrived.
 
-He did not look at the tool. “You hauled wedges during Siltwinter. You copied my load tables. You did not purchase the rest of my life.”
+Faris crawled between them with an ordinary pry bar tied to his wrist. He cut power cables, opened fuel valves, and hammered wedges into drill gears. Magic shifted the sky around him. None of it made a rusted clamp less vulnerable to leverage.
 
-“The school shell would have crushed children if you hadn't held it.”
+At the fourth rig, he cut a tether he thought held the machine.
 
-“With kilnvoice.” He struck the sleeve. The sound was dull. “Do not offer me an ordinary pair of hands as consolation.”
+It held him.
 
-He turned toward the exit. The Voln message was folded into his coat. He meant to reach an aqueduct already three hours away, as if standing beneath a lost craft could make it return.
+The curved plain dropped away. Faris went outward, toward a seam of stars. The pry bar snapped to the end of its cord and spun behind him. His scream had no useful direction.
 
-Faris remembered Siltwinter in the scar on the vise's red ceramic jaw. She had been twenty-two, an unknown junior auditor hauling wedges while Malko sang the school shell rigid. His voice had failed before the road cleared. Faris had copied the load table because he could no longer speak it. Afterward he gave her the vise, which he had forged and lined two years earlier, and marked every safe load by hand.
+Qeluun contracted.
 
-The vise had once fused mineral pieces held between its jaws when a living kilnvoice user sang into them. It had never stored power. The screw and jaws could still clamp.
+Weight returned sideways. Faris struck warm tissue, bounced, and caught the edge of a drilling frame. The catch tore both palms. Under him, the vast body pulsed. Three slow knocks traveled through the frame.
 
-“I don't need consolation or your debt,” Faris said. “I need the engineer who knew where that school would break after the singing stopped. Tell me how this door carries weight. Choose whether you stay.”
+The poachers saw him hanging there and restarted the nearest drill. Its teeth did not need magic now; the flywheel already carried enough motion to cut. Qeluun shifted again, not to throw them off, but to bring Faris's dangling pry bar within reach. The movement opened a tear in the pale tissue wider than a road. Faris understood the scale of the choice only when dark blood rose past him in floating beads.
 
-Malko's hand closed around the vise handle.
+“I don't speak mountain,” Faris gasped.
 
-“Counterbar first,” he said. His old grandeur narrowed into precision. “Across both posts, not the leaves. Two screw braces take the inward thrust. Nobody stands inside the fall line.”
+One knock. Then two. Then a pressure beneath his left knee.
 
-Ishbel refused before Faris finished repeating the design. “My crews don't go under a ceramic sleeve held by a portable clamp.”
+He understood enough. Qeluun could move masses, but every contraction tore more of the tender tissue the drills had exposed. Faris followed the pulses instead. Pry left. Brace right. Turn the bar. The clamps had been driven by spellwork, but they were physical iron once seated. One after another, they opened. The rigs drifted clear. The last drill stopped with its point resting against living flesh.
 
-“They will not,” Malko said. He pointed to the threshold. “The work stays on this side. Your counterbar carries the leaf. The vise contains the sleeve fragments. Wedges open the firing seam a thumb at a time.”
+Faris placed the Nearmost Vertebra into the wound it had once bordered.
 
-“Rated load?”
+The slow voice reached him as pressure through bone.
 
-He named it. Ishbel named a lower one.
+SELL IT. COULD HAVE.
 
-Malko's jaw tightened. “That leaves half the seed behind.”
+“It wasn't mine.”
 
-“It leaves my crew alive.”
+OURS. NOT NEEDED. SHED.
 
-Faris wanted the door broken now. Instead she put Ishbel's lower figure on the work sheet. Malko took the chalk from her, recalculated, and cut the opening into two lifts.
+“Still not mine.”
 
-The Turnworks crew brought an iron counterbar and two screw braces. They seated the bar across the stone posts, tightened each brace evenly, and tested the load with everyone outside the fall line. Only then did Malko set the red vise around the ceramic sleeve. Its dead jaws did not fuse. The screw held them shut.
+Qeluun entrusted the bone back to him. One day, it would align one terminal change. Faris promised never to speak of Qeluun as terrain while asking it.
 
-Faris drove the first steel wedge into the visible firing seam. A young worker drove its mate from the other side. At every thumb of separation, Malko tapped the sleeve, listened to the fracture, and shifted the vise before allowing another strike. The ninety minutes Ishbel had predicted disappeared into half turns and measured blows.
+Now the immense curve of Qeluun tightened around the Array. The third socket waited.
 
-The ceramic split along the old seam. The vise caught both halves. With the counterbar carrying the leaves, the crew pulled the upper locking bar, lowered the load onto the braces, reset, and pulled the lower bar. The doors opened far enough for one crate at a time.
+END US? came the pressure, making Faris's broken brace tremble.
 
-They would never close by kilnvoice again. The ruined sleeve made enclosure irreversible unless Drenovar built a new lock by ordinary means.
+“You may die,” Faris said. “All who depend on Worldcoil may die. I am asking you to align it anyway.”
 
-Malko bolted the vise across the remaining fragments as a permanent clamp. “It stays with the door.”
+Silence pressed on him. Then Qeluun moved the Nearmost Vertebra into place. The bone pulsed once and became dust. Gravity convulsed. The third socket shone.
 
-“It is mine,” Faris said, too quickly.
+The Cold Maw opened its paired jaws.
 
-“It was my gift. It is your choice.”
+*Thirty-one years earlier, at the Ghorvane Underforge*
 
-She looked at the open cellar and the workers testing the braces. Then she gave the handle to Ishbel's foreman.
+Faris was young enough to believe a good plan became better when performed quickly.
 
-The first seed crate rolled into the warming air.
+The demon young were trapped in a root-furnace during a coup. Black fire burned inward through their bodies, consuming flesh to draw heat and mineral toward the moving forge. The usurpers had sealed the air shutters. The young could feed the furnace or suffocate beside it.
 
-Water still had nowhere honest to go.
+Faris followed a draft through machinery that rearranged itself around appetite. He held a strip of cloth near each seam and watched which way the loose end bent. Hot metal hunted his boots. Chains slithered toward the iron in his blood. He kept moving because stopping would let the forge decide what use to make of him.
 
-* * *
+He found a wheel beside a sealed hatch and turned it with both hands.
 
-Ossun had lined seven sample cups along the water yard, one for each candidate cistern. Beside them lay the seven-vial case: sealed ceramic, glass reagents, a printed color card. Aruq chemists had made it after the Aruq Refusal and Ossun had given it to Faris, who kept it wrapped against breakage for nine years.
+The hatch opened onto slag.
 
-It had never been magic. Today that did not make it infinite. Seven vials meant seven answers.
+A half-forged predator came through, all wet alloy and borrowed teeth. Faris threw himself behind the wheel. The creature bit the axle in half. Its second lunge ended in Hurzai's hand.
 
-Ossun broke the first seal, added three drops, and watched the water darken past the safe color. “Too saline for the human drinking allotment. Too saline for young pluun.”
+The demon lord crushed its head and burned the remains inward until nothing but a cold iron knot hit the floor. The effort took a strip of flesh from Hurzai's arm. Black fire filled the wound, bright at the edges and lightless in the center.
 
-The second was worse. A route clerk crossed two large cisterns from the inventory.
+“You opened waste,” Hurzai said. “Air is above. Your nose has cheated you.”
 
-Faris counted the people waiting at the yard gates, then the wet sledges being prepared for the nursery. “Use the nursery reserve for drinking. The young animals can go downhill with the tide.”
+“My nose and I are reviewing our arrangement.”
 
-Ossun put the third vial down unopened. “No.”
+“Review while moving.” Hurzai kicked the iron knot into a gear train and jammed it. The forge convulsed around them. “I can consume a wall or carry you. Not both.”
 
-“Aruq loses both cisterns. Drenovar has clinic patients already on carts.”
+Faris looked at the half-closed passage, then at the ladder rising through heat toward the shutters. “The wall.”
 
-“Pluun are not water containers we empty after use.”
+Hurzai burned a path for him. The fire ate a visible hollow from the demon lord's side. Faris climbed through before the metal could flow back, knowing rescue had already placed him in debt and that the price was being paid in living flesh.
 
-“I didn't say they were.”
+Hurzai could have left through the breach. Instead, the demon lord lifted Faris out of the predator's reach and showed him the real shutter chain. Faris climbed. He passed an artifact vault whose door had split in the fighting. Any one object inside could have bought him a quiet lifetime.
 
-“You placed every human in the count and called the nursery a reserve.” Ossun folded the finned edge of one wrist against their chest. “During the Aruq Refusal, officials called pluun partners until drought made the word inconvenient. You carried my no overland. Now you have returned to purchase its opposite.”
+Below, the young struck the furnace wall with weakening hands.
 
-In the ninth year of Faris's service, officials had ordered nerethi to continue brining beyond safe dehydration and penned exhausted pluun in the pools. Ossun's spoken refusal had never reached the inland record; the convenient figures had. Faris carried the true water count across dry roads, published it through the relay, and organized mundane condensers while both species recovered. The seven-vial case had been Ossun's thanks.
+Faris passed the vault.
 
-Faris had entered it as an asset.
+He braced his feet on ordinary rivets and cranked the shutter until his shoulders failed. Hurzai took the wheel only after Faris had broken the seal. Fresh air crossed the furnace. The black flames steadied. The young survived, and what they shouted through the vents named the officers who had arranged the coup.
 
-She pushed the six-column sheet across the testing table. “Take the water column.”
+Later, Hurzai set the Cold Maw on a table between them. The paired heatless jaws had been forged by a predecessor six hundred and eleven years earlier. Turned inward, they preserved root authority over Inward Fire. Turned outward, they could reverse it once.
 
-Ossun did not touch it.
+“Custody,” Hurzai said, “if you never make terminal sound painless. One root act when you ask. You will name the meat cost first.”
 
-“Set the thresholds,” Faris said. “For humans, nerethi, and pluun separately. Name which loss you will accept. I won't overrule the chemistry.”
+Now Hurzai's woundless older body gleamed with contained fire beside the fourth socket.
 
-The pause cost another minute of warming seed.
+“Some demons will survive,” Faris said. “Some will not. Fortresses will collapse. Stored heat will break loose. Your lordship and your fire end with theirs.”
 
-Then Ossun opened the third vial.
+“Adequate price language.” Hurzai seized both jaws and wrenched them outward. They fused around the socket. Black light filled it.
 
-The next three cisterns tested within the shared potable range. The sixth was too brackish for humans or young pluun but safe for adult nerethi skin and for damping empty nursery sledges. The seventh carried industrial contamination that no ordinary filter in the yard could remove. Seven decisions stained seven cups. No reagent remained.
+The Unhatched Form flexed without being alive.
 
-Ossun divided the safe water among clinic casks, human travelers, nerethi households, and the upper nursery pools. The sixth cistern would wet the sledges and the adults guiding them; nobody would drink it. The first two stores stayed where they were rather than ruin good water by mixing. The seventh was marked against accidental use.
+*Four years earlier, at the Keruvan Fold*
 
-“Half the lower nursery can move uphill,” Ossun said. “Open the channels and let the pluun approach the sledges. Any that turn away remain in the lower pool with a reduced fresh allotment. They are animals. Their refusal is behavior, and it still changes what we do.”
+Faris stole two relics from Jelveth Sorn because patrons were using Kindred Graft to turn consent into a ceremony performed after the cutting.
 
-“How many survive?” Faris asked.
+The Unhatched Form was a nonliving organoid shaped by six former keepers one hundred and forty-one years earlier. It stored possible exchanges without ever having been a person. The Mortal Latch was plainer: a ceramic bearing, an iron lever, six insulated plungers, and one removable iron cotter, built by engineers who understood that a terminal device should not carry the charge it released.
 
-“I do not have that number.”
+Faris got both into a canvas sack before Jelveth found him.
 
-Faris almost asked for an estimate she could put in a reassuring box. Instead she wrote *unknown*.
+She pursued him through a sanctuary where every resident carried a chosen faculty from someone else. One man heard through the soles of his feet. A woman breathed water through living folds at her ribs. Two people shared the effort of one damaged heart. Jelveth tracked Faris using their offered senses, never taking more than each had consented to lend.
 
-The nursery attendants opened shallow channels. Some pluun followed Ossun's skin pulses until the magic should have joined them and did not; they continued toward the wet sledges anyway, guided by familiar movement and water. Others turned back. Nobody netted them.
+He climbed a support membrane and cut what he thought was an alarm filament.
 
-Ossun spent the last drops rinsing the test tips into a waste jar, then set the empty case beside Faris. She pushed it back.
+The membrane sagged.
 
-“Keep it as a sampling case.”
+Borrowed muscles failed along the gallery. The shared heartbeat stumbled. Water struck the floor around the woman who could no longer use her gills. Faris reached the outer door with the relics and saw the whole sanctuary folding behind him.
 
-“The gift was yours.”
+He went back.
 
-“The access was.” Faris watched the first accepted pluun sledge start uphill under human and nerethi hauling straps. “The reagents are gone.”
+“You severed a load-bearing exchange,” Jelveth said. Her fingers were inside the living wall to the knuckle. “Put down the theft.”
 
-The revised water figures reached the Assembly at the same moment another relay message arrived: Oltin's grounded colonies were beginning to overheat.
+“Tell me where to brace it.”
 
-The release had chemistry now. It still lacked a public reason for anyone beyond Drenovar to trust it.
+“You cannot perceive the strain.”
 
-* * *
+“I can perceive people falling.”
 
-Brameth stood in the Exchange Hall beneath two incompatible demands.
+The woman with gills convulsed beside them. Jelveth pressed her free hand to the woman's ribs and took the drowning reflex into her own lungs. Pain folded the keeper over, but her directions stayed clipped and exact. “Pole under the third seam. Not the red tissue. That is sensation. The gray band. Lift on my count.” Faris obeyed without pretending he understood the body he was helping hold together.
 
-Their worshipers wanted one more bloomcall. Several Assembly members wanted a declaration that Brameth's office was void and orchard custody had reverted to civil control. Between them sat four ventilated insect boxes. Ordinary wings rasped against mesh.
+At her direction, he jammed ordinary poles between the gallery and its physical foundation. One split. He doubled the next with a bench leg. Jelveth rerouted sensation, muscle, and breath long enough for material supports to take the weight. Faris held a pole against his shoulder until the last resident crawled clear.
 
-“Call them into the boxes,” a worshiper said. “It does not have to reach the coast.”
+The patrons arrived claiming the keeper had endangered everyone by resisting their program. Faris still had their signed orders in his coat. He read them aloud.
 
-Brameth lifted a lid, breathed the migration scent across it, and waited. The insects shifted away from the shadow of their hand. Nothing more.
+Jelveth did not forgive him. She did establish a public bargain. He would repair the sanctuary, never call a fixed grafted body counterfeit, and hold lawful custody of the two relics. In return, she would perform one bounded root act after reading its selector herself.
 
-“Again,” the Assembly member said.
+Now she stood over the Unwritten Axis while forced wings erupted from attacking soldiers below.
 
-“No.” Brameth closed the lid. “The call is gone. Repeating breath until I collapse will not improve your law.”
+Faris turned the Latch's selector toward her. Its words were mechanical, cut into a plate: end function; preserve matter.
 
-They had used bloomcall for two hundred and thirty-three years. Its cost had left them unable to eat for days after guiding the longest migrations. Now they accepted a cup of broth from a worshiper and drank without pain. The small freedom did not look like comfort.
-
-With power gone, the conjunction that had made Brameth a god no longer held. Worship persisted in the bowed heads around them. Legal memory persisted in their careful reading of the Assembly order. Brameth persisted. Supernatural authority did not.
-
-Faris laid her account book on the insect box. “Your orchard wagons cleared grain from the Nine-Depot Fire because I put them on the right roads. I need your endorsement now.”
+Jelveth read twice. “No identity reset. No body declared false.”
 
 “No.”
 
-“Without you, the Assembly calls this seizure by another district.”
+She closed the Unhatched Form in both hands and opened the Axis with a precise incision of borrowed sight. The Form went still. The fifth socket accepted it.
 
-“With me, you call it blessed.” Brameth's silence stretched until Faris wanted to fill it with every depot they had saved. “I will not lend absent power to your plan. I will not help frightened people mistake memory for a miracle.”
+Above them, the six passive needles of the Parity Astrolabe began to move.
 
-The relay punch 9D pressed a hard shape against Faris's pocket. During the fire last year, ordinary bypasses from Ishbel and orchard wagons arranged by Brameth had moved grain ahead of nine advancing fronts. Faris had used the Copper Relay to keep all nine depots from sending their carts to the same safe yard. Afterward relay mechanics built the punch and the Provision Assembly gave her conditional custody for authenticated emergency messages. Public praise had taught her the wrong lesson: that saving institutions made their future assent hers.
+*Eighteen years earlier, at the Skairrift*
 
-She removed the account book from the box.
+Ekkorath rescued Faris before Faris rescued Ekkorath.
 
-“Which insects survive travel?” she asked.
+The dragon was pinned inside a corridor knot around a falling ruin. Bent distance kept bringing the same broken towers back beneath them. Faris had no wings, magical or otherwise. He rode a slab of masonry with a ballast rope around his waist and tried not to look at the repeated sky.
 
-Brameth looked at her for a long time, then crouched beside the mesh. Their ceremonial cadence gave way to the language of shade and appetite.
+His first knot slipped.
 
-“This colony can take a cool road for two days. Not three. That one will abandon a box unless it carries flowering cuttings. The small dark species must travel with Oltin seed; it wakes earlier than the pale species and feeds the first bloom. Do not send either through afternoon heat.”
+Ekkorath could have spent the remaining fold of one wing to free himself. Instead he snapped his neck across the gap and caught Faris against his scales. The motion tore cartilage along the trapped wing. Distance opened and closed inside the wound.
 
-They pulled the counterwheel atlas closer and marked seasonal shade beside the physical grades. They paired seed lots with pollinator boxes, crossing out destinations that could not support both. The plan saved fewer immediate calories and more possible harvests.
+“You are falling toward the western edge of your own mistake,” Ekkorath said.
 
-Then Brameth read the six-column custody language.
+“Is there an eastern edge?”
 
-“No custodian holds water, seed, route records, or these colonies without publishing an outgoing copy,” they said. “Every notice names who can replace them and how. Silence is not renewal.”
+“Not for long.”
 
-“Will you say that to the Assembly?”
+Faris crawled onto a grounded beam that passed through the knot. The magical horizons lied, showing cliffs above and valleys behind. Falling chips of stone did not lie. Each chip found ordinary down whenever it crossed the beam. Faris followed them to a physical pin holding two ruins in the same flight circuit.
 
-“As an agricultural jurist.”
+Halfway there, the beam rolled. Faris flattened himself and looped the loose ballast rope around a crack rather than trusting another knot. Ekkorath's trapped wing swept overhead, opening a destination that looked one step away and was probably a mile beneath them. Faris shut one eye. With depth reduced to shape and falling grit, the unenchanted beam was easier to read.
 
-“Not as what you were.”
+The dragon shouted headings. Faris translated them into left, right, duck, and hit this. He hammered the pin with a loose block until it bent. The circuit tore open. Ekkorath pulled his wing free and carried them both out while towers resumed their separate falls.
 
-Brameth rested two fingers on the mesh. “What I was is not false because it ended. But it cannot sign today.”
+The Unflown Arc came loose from Ekkorath's damaged flight horn during the escape. It held the Horizon Flight counter-circuit he had chosen not to spend on himself. He gave it to Faris as a rescue gift.
 
-They entered the Assembly without a blessing. Worshipers followed, carrying the boxes themselves.
+They found the Parity Astrolabe in the wreckage afterward, wedged under an ordinary roof tile. The same engineers who built the Mortal Latch had made its frame three hundred and two years before from six passive indicator metals. Each needle answered to the timing of one root system without holding any power itself. Ekkorath lifted the tile; Faris worked the bent nail free. He asked before taking it. Ekkorath made him name what its use might cost.
 
-Only Ishbel could decide whether anything left before the cold rooms warmed.
+“One flight,” the dragon said. “If you state every destination you will close and everyone you expect to fall.”
 
-* * *
+Now Ekkorath faced the sixth socket while cities flickered at the ends of his wings.
 
-By the fourteenth hour, the Turnworks sounded like a great animal trying not to wake. Four hundred and twelve years of wheelshare had filled its galleries with opposed treads, flywheels, air cisterns, brake presses, and freight tubes. The magical multiplication was gone. The last force made before zero remained only as ordinary compressed air behind steel walls.
+“Dragons will be grounded,” Faris said. “Crossings will close. Suspended cities will fall toward whatever is physically below them. You may tear your last flight holding the corridor long enough for me to reach the Latch.”
 
-Pressure needles fell while Faris ran among the relay floor, seed cellar, water yard, and departure gates.
+“Complete coordinates at last.”
 
-The counterwheel atlas failed her first.
+Ekkorath lowered the Unflown Arc into the socket and flew the terminal counter-circuit. The shed horn lit along an old fracture. All six Astrolabe needles aligned.
 
-Its brass disks and paper sectors compared grade, cargo, wells, seasonal water, and travel time. Voln surveyors had made it sixteen years earlier and given it to Faris after Siltwinter. It had always been mundane. When she stripped magical transit times from the six proposed relief routes, three advertised roads had no physical road beneath crucial miles.
+The Bound Ascendancy struck before the sixth needle settled.
 
-One ended at a gorge. One delivered freight to a coast that now lay twelve days away. One assumed cargo could cross a mountain without climbing it.
+Prepared color raced across the hub, commanding every body it touched to kneel. Hurzai tore a hole through it with inward-burning hands. Seyathi turned two fingers and folded the broken pattern away from Faris.
 
-Faris turned the disks again, slower. She found six possible routes, none fast enough for every load. Two regions would not receive viable seed before spoilage. She wrote that failure on the public route board.
+“The Yoke,” she said. “Finish the Yoke.”
 
-“Leave it blank,” an Assembly member said. “The receiving stations will improvise.”
+Black fire followed the color. It consumed the stone's stored heat and spat the cold inward at Faris's bones. Hurzai stepped across it. The demon lord drew the attack into his own chest, losing flesh with every breath, and fed its appetite into the outward-facing Cold Maw.
 
-“They can improvise from the truth.” Faris marked the last safe departure for each reachable road.
+Distance shortened behind him. Soldiers arrived before their feet had crossed the gap. Malrec struck the flattened Sole Chamber with his palm. For one heartbeat he gave the overlapping attackers a single base room. They collided in a heap, alive and suddenly unable to occupy one another's space.
 
-The delay consumed forty minutes.
+The Ascendancy pulled weight from Qeluun's wounded tissue. The Array lurched. Faris slid toward open sky with the Mortal Latch under one arm. Qeluun contracted around the hub. The vast person's pain moved through the floor in slow blows, holding one last stable down.
 
-At the pressure chart, Ishbel drew a line through Faris's remaining schedule. “We can keep expansion cooling on Drenovar's cellars until tomorrow, or discharge through the freight manifolds now. One release sends seed crates to the gates and holds the press brakes while the record plates run. Afterward the air reaches balance. There is no second release.”
+Forced grafts opened along the fallen soldiers. Wings tangled with arms. Shared lungs dragged breath from strangers. Jelveth cut through the imposed exchanges with small exact motions, separating function while preserving every material body she could reach.
 
-“How many local days do we lose?”
+Six derivative attacks, each borrowing a root authority, and the Yoke running through them all. Faris understood then why the Ascendancy had come in person. Every power used against the Array gave the command a cleaner path into its own source.
 
-“Six, if the night stays cool. Nine if it doesn't.”
+The tall hybrid body stepped from a folded horizon into three rooms at once. Its shadow carried enough weight to crack the hub. Its many hands offered Faris the lever he had not yet reached.
 
-“And if we retain it?”
+“Withdraw the Latch,” the mouths said. “The cities remain aloft. The crossings remain open. Chosen bodies keep their gifts. Gods keep their care. We end the war by making disobedience impossible.”
 
-“Drenovar keeps the winter reserve. The outer loads miss their roads.”
+It was not lying. Faris could see the offered order descend along the Yoke: no battle, no refusal, no one falling because no one permitted to move without command.
 
-The air was not stored magical agency. Steel had contained pressure made before the ending; once a valve opened, physics would spend it. Faris could almost feel the city's cold rooms behind Ishbel, each wall a hand around food that would last longer if nobody else received it.
+Behind him, Seyathi held a floor pattern apart and screamed as her sense of space failed. Hurzai was half his former mass. Malrec had aged years in a minute. Qeluun's pressure came ragged. Jelveth's hands shook. Ekkorath flew the same shrinking corridor with blood striping both wings.
 
-She showed Ishbel the Assembly's three-hour audit mark. “The Nine-Depot bypasses saved your intake house. Release the pressure.”
+Faris thought of forty-three pilgrims unable to rise.
 
-Ishbel took the chart from her. “No. My bypasses saved it. My crews are beside those manifolds. Your ledger cannot spend their bodies or this city's air.”
+“No,” he said.
 
-At the seed gate, Malko refused to work above Ishbel's lower load rating. At the water yard, Ossun refused any cask that crossed the tested salinity thresholds. In the hall, Brameth refused to turn agricultural testimony into a sacred seal. Four old accounts had produced four current limits, not obedience.
+The Ascendancy drove all six systems at him.
 
-The Provision Assembly waited for Faris to make them agree.
+Faris dropped flat on the unprepared mortar between the colored lines. Command passed over his back. He found a scratch at the base of the Axis and shoved the ceramic bearing into the plain recess it marked. A pulse traveled through the floor; he followed its vibration when magic made every direction look wrong. Heat drew inward on his left, so he turned toward the ordinary draft on his right. A horizon folded over the last three exposed body-lengths.
 
-She opened the account book on the relay desk. Eighteen years of entries covered the pages. Some were witnessed services; some were private kindnesses reduced afterward to quantities because a number felt less dangerous than asking twice. She did not tear the book or burn it. No page carried power. Destroying the record would only make history easier to lie about.
+Ekkorath hit it wing-first.
 
-“This proves what happened before,” Faris said. “Nothing else.”
+“The corridor is yours,” the dragon said, and held two false destinations apart until a narrow span of ordinary distance appeared between them.
 
-Her voice barely carried over the type drums.
+Faris ran. Stolen weight broke one knee against the stone. He crawled the last length and found the six plungers. Their heads showed the selector's instruction in six material arrangements. Preserve matter. End function. He pressed them in that order, bracing the cracked housing with a strip torn from his belt as if it were a slipping ballast knot. Their insulation held the six armed outputs apart.
 
-She turned first to Malko. “You do not owe me the school or your hands. Will you keep the cellar opening inside the limit you set?”
+The Ascendancy reached for him through every magical being on the hub.
 
-“Inside Ishbel's limit,” he said, correcting her. “And the conversion plates carry my name. Kilnvoice did the first work. I will not let your manuals pretend otherwise.”
+It found no address in Faris. He had been born without magic and had lived without it all his life. That did not make him immune to fire, falling stone, command surfaces, talons, or blades. It meant only that the Yoke had never learned where inside him to issue an order.
 
-“Agreed.”
+He seated the Mortal Latch beneath the Axis. He slid the ordinary iron cotter through the aligned plungers. He turned the lever ninety degrees, loading all six against the restraint.
 
-To Ossun she said, “The nursery water remains in your column. Will you direct the mixed allocation?”
+The six Astrolabe needles met at one instant.
 
-“For nerethi, humans, and pluun under separate thresholds,” Ossun said. “Receiving custodians may not convert an animal's water into a human surplus.”
+Faris pulled the cotter free and said, “No More Magic.”
 
-“Agreed.”
+The words caused nothing. The physical release did.
 
-Brameth did not let her ask the old question again. “I will send the migration maps, take an insect wagon, and testify for replaceable custody. I will bless none of it.”
+The plungers dropped into contact together. All six terminal conditions propagated in the same instant. The breaking world-curves made that instant visible in six different grammars.
 
-Faris nodded, then faced Ishbel.
+The Missing Tessera discharged through one curve. Tessellate Grace went white through every prepared surface in the world. Painted commands flattened into pigment. Walking sanctuaries put down their luminous legs and settled wherever ordinary foundations could hold them. Compelled knees unlocked. Healing alignments ceased in mid-pattern, leaving bodies no worse than their material state and no longer held in any impossible one. Seyathi's radiance stripped away. Her person remained; her godhood and every capacity to tessellate did not.
 
-“What will you choose?”
+Through another, the Cold Maw ended Inward Fire. Every black flame pinched toward its own center and vanished. Heat held inside it returned as ordinary expansion: furnaces burst, moving fortresses slumped into incandescent slag, and demon bodies lost the conversion that had sustained or consumed them. Some lived, abruptly mortal. Some did not. No ember retained a root, a reserve, or a way to begin again. The fused jaws softened into two dead lumps of alloy.
 
-Ishbel traced the pressure line with a thumb. “Three stages. Freight manifold first. Press brakes second. Manual vent last. A worker at any station may stop the release. If it stops, you publish where and why. Drenovar keeps the clinic casks already counted and no hidden seed lot.”
+The Unflown Arc spent its Horizon Flight counter-circuit. Horizons straightened. Crossing anchors closed on their material side without claiming whatever had once been reachable beyond. Suspended cities began to fall toward physical ground. Dragons beat wings that were only wings; stored distance emptied from bone, cartilage, sky roads, eggs, and memory-shaped circuits. The Arc cracked down its length and became horn with no second flight inside it.
 
-“The Assembly may not accept that.”
+The crushed Sole Chamber released Manyroom's last arrangement. Translucent palaces shed their possible rooms. Every structure became one material structure in one place. People crossing at that instant remained whole on the side containing most of their bodies, not copied, erased, or trapped between. Malrec's fivefold crown became one heavy object. The bronze under his palm tore flat and stayed flat.
 
-“Then the air stays in the tanks.”
+The Nearmost Vertebra ended Worldcoil. Auroras loosened into weather. Mountains Qeluun had held began ordinary paths through air. The great body's leverage over weight ended everywhere at once. Qeluun remained conscious in flesh that could no longer make down turn aside, vulnerable now to every mass already moving. The bone dust scattered without answering the pressure of that fear.
 
-Faris put Ishbel's terms before the Provision Assembly. Brameth gave ordinary agricultural evidence. Ossun gave the chemistry. Malko signed the conversion load. Ishbel named the local cost: six to nine days of cold reserve, every remaining pressure unit, and no promise that outgoing aid would ever return.
+The Unhatched Form ended Kindred Graft. Possible anatomies withdrew from the living. Chosen material bodies remained their own; no healed scar reopened, no surviving organ vanished merely because magic had helped shape it. But impossible faculties stopped. Shared senses separated. Storage organs emptied. Keeper awareness went dark. Forced hybrids failed constituent by constituent, producing no seventh system and leaving whatever ordinary life their material bodies could support. The Form denatured into inert protein ash.
 
-The Assembly voted in public. The margin was two hands.
+The extinction crossed gods and worshippers, demons and dragons, kings and prisoners, vast persons and small ones without ranking their personhood. Every god lost power and godhood; worship and personhood remained. Memories, relationships, scars, grief, and responsibility remained. It emptied living capacity, spent charge, standing structure, hidden crossing, bestowed faculty, hybrid function, reserve, relic, seed, and every material possibility of restoration. No artifact retained a spark. No descendant could inherit one. No machine could recover one. Magic had been real in the material world, and from that instant it could never be real there again. The past remained what it had been. Faris had made no claim about afterlives or realities beyond the closed material crossings.
 
-Open the cellars. Spend the air. Divide the reserves. Surrender exclusive custody.
+The Parity Astrolabe registered six perfect zeros. Then its needles melted, its passive metals losing even the difference they had been built to measure. The frame fell apart. The Mortal Latch split its ceramic bearing, bent its lever, and shattered all six plungers around the cotter in Faris's hand. Nothing in it held a repeatable action.
 
-Relay operators still had to choose whether to transmit. Faris fitted relay punch 9D to the six-column plate and squeezed. The brass-and-steel tool had never held magic. Its irregular holes did not prove truth or compel anyone at a distant drum. Living operators compared them with printed codebooks and decided whether the Assembly's conditional access applied.
+Across the collapsing world-curves, measures of cultural capacity plunged after the vanished powers that had supported them. Then the magical measures themselves disappeared because there was no longer anything for them to count. The Ithrom Array became ordinary stone and metal obeying ordinary strain. Its arches broke. The Unwritten Axis cracked from top to base. The Absolute Yoke, powerless exactly as promised, lost every borrowed face and came down as dust.
 
-The first operator read the proposal twice. “I will send it with an annotation: figures revised at the seventh hour and routes revised at the fifteenth.”
+Faris saw Seyathi through it.
 
-“Send both versions,” Faris said.
+She looked from the powder of the Missing Tessera to Hurzai's dead fire, from the straight horizon to Malrec's absent rooms, from Qeluun falling beyond the broken arch to Jelveth staring at unanswering hands. Her own skin held no light now. She was alive. She was herself. She was no longer a goddess.
 
-“That uses another plate.”
+“Before this hour ends,” she said, each clause placed with terrible care, “the Absolute Yoke will be powerless. You will not take its power, wear it, or pass it to anyone.”
 
-“Send both.”
+Faris did not look away.
 
-The operator began cranking. Others joined one by one. Two refused an unverified water figure until Ossun signed its chemistry threshold. One coastal operator reduced the insect allocation after a heat report. Each refusal changed the message before it traveled.
+“You left out *only*.”
 
-At the Turnworks, Ishbel raised one hand.
+She planted her heel in the first position of Tessellate Grace and turned two fingers at him, the gesture that had once made every prepared surface seize every body upon it.
 
-Crews cleared the freight tubes. Malko checked the counterbar and the red vise, now bolted to the ruined cellar lock. Workers loaded seed crates into piston carts and tied Brameth's insect boxes into shaded wagons at the departure gates. Ossun placed water casks by tested use and walked beside the first pluun sledge. Clinic patients occupied ordinary carts; record plates and tool chests went wherever space remained.
-
-Ishbel opened the first valve.
-
-Compressed air drove the piston carts out of the warming cellars. No absent walker multiplied it. Each acceleration lowered the gauge. At the press floor, the second valve fed the brake cylinders while flywheels rolled medical diagrams, route tables, load conversions, water thresholds, pollinator pairings, and custody rules onto paper. Workers could see the pressure falling with every copy.
-
-The counterwheel atlas lay at Faris's elbow. If she kept it, every later correction could return to one reliable master. If she sent it, the least-mapped convoy might survive the road Faris had never walked.
-
-She closed its brass disks and put the original aboard that convoy. The other five received rubbings and copied scales.
-
-From the relay drums came replies.
-
-Voln accepted structural plates but reduced its seed share to make wagon room for braces. Aruq corrected the nursery count and rejected a human custodian for one mixed pool. Oltin divided its insect boxes among three roads rather than trust one shipment. An inland station accepted the medical plates and refused Drenovar's proposed route as physically blocked. Other stations reported no reserve to share. Several remained blank.
-
-The account spread because recipients could alter it, not because Drenovar controlled them.
-
-At the final pressure stage, Ishbel opened the manual vent. Air roared from the high tanks, pushed the last paper plates clear, and faded. The needles reached ordinary atmospheric balance. The freight pistons stopped. The cold rooms began warming without reserve.
-
-Water, seed, pollinators, people, knowledge, and physical routes left through different gates under custodians whose replacements were printed beside their names. Drenovar could not recall them. It could not close the broken seed lock, pull back the water already divided, or make one destroyed copy erase the rest.
-
-Faris punched one final relay notice: pressure spent; cellars open; figures subject to named correction; exceptional access ended.
-
-Then she removed the irregular code tooth from relay punch 9D. Before the Assembly and the operators, she set it against the edge of the steel desk and struck it with the punch body. The tooth snapped. She returned both pieces to the clerk.
-
-The last machine she could open alone was gone.
-
-Magic was gone too. Nothing in the day's work had replaced it.
-
-* * *
-
-By night, the Drenovar Turnworks cold rooms were warm enough for condensation to run down their walls. Clinics worked from the printed plates with boiled instruments and human hands. Malko's manual conversion reached Voln before the damaged aqueduct joint fell; other unfinished structures received timber braces, and some were abandoned. Old kilnvoice buildings remained shaped as their makers had left them. The past did not become a fraud because the voices were now only voices.
-
-Nerethi and humans hauled water together without recovering the paired sense. The upper pluun nursery contracted. Some animals survived the move; others in the lower pools did not. No single pool settled the future of either species. Ossun's empty case acquired new reagents slowly, one ordinary batch at a time.
-
-Brameth's worshipers kept vigil outside the Exchange Hall. No supernatural answer came. Some left. Others brought food, copied orchard maps, or sat near the person they had worshiped. The office founded on power was over. Brameth's relationships, legal experience, memories, and responsibility remained.
-
-Former practitioners lost rank, livelihood, and bodily habits that had told them who they were. They did not lose personhood. Faris's lifelong zero did not make her a new kind of superior being. It made her practiced at some useful inconveniences and ignorant of many griefs.
-
-In the years that followed, the six-column account traveled farther than the first wire messages. Physical roads replaced vanished passage. Seed and pollinator exchanges prevented some famines and arrived too late for others. Ordinary salinity testing spread beyond Aruq. Custodians were renewed, corrected, deposed, and sometimes protected by the records they had been required to publish. Copies survived rain, war, and governments that preferred a single master list. Whole regions failed. The material world continued diminished, plural, and alive.
-
-Magic never returned anywhere in that world. No birth renewed it. No artifact held a spark. No former god, hidden reserve, machine, future discovery, or changed vocabulary restored it. Earlier magical acts and their consequences remained part of history, but nothing living in the material world's future ever used magic again. The ending made no claim about the dead, the past, other worlds, other planes, or other histories. Faris's account reached none of those places and presumed nothing about them.
-
-Near dawn, the last Turnworks flywheel made one slow revolution.
-
-Faris sat with Ishbel on the relay floor. Between them lay a new sheet with no column for what anyone owed her. It recorded what had left, by which road, who held it, and who could be asked to replace them.
-
-“Certify the account closed,” Faris said.
-
-Ishbel pushed the first overnight correction toward her. “Aruq changed two water casks. Oltin lost a road. Voln wants the brace load amended.”
-
-“I had hoped the end of magic might settle a balance.”
-
-Ishbel was already reading the next strip from the drum. The joke received no attention.
-
-Faris left the page open.
-
-Outside, seed wagons and pollinator boxes took the long physical roads. Ordinary insects stirred against mesh as the sky paled. The flywheel stopped, its rim warm beneath Ishbel's hand, and the first fully nonmagical dawn reached Drenovar.
+Nothing moved. Nothing answered.
