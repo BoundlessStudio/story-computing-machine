@@ -2,8 +2,8 @@
 
 - Slug: `all-accounts-due`
 - Created: 2026-08-05
-- Current stage: final-review
-- Status: in-progress
+- Current stage: candidate
+- Status: candidate
 - Canon: no
 - User disposition: pending
 - Publish: no
@@ -27,8 +27,8 @@ each stage. Specialist agents do not edit it. -->
 - [x] Final story review passed
 - [x] Final name check passed
 - [x] Name registry updated
-- [ ] Release certificate issued
-- [ ] Story index updated
-- [ ] Specialist handoff ledger validated
+- [x] Release certificate issued
+- [x] Story index updated
+- [x] Specialist handoff ledger validated
 - [x] Promotion manifest closed or not prepared
 - [ ] Canon promotion explicitly approved (optional)

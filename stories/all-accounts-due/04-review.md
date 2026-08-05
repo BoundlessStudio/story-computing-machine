@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 3
+- Review pass: 6
 - Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 0
-- Updated: 2026-08-05T06:12:49.7249212Z
+- Updated: 2026-08-05T15:07:42.8368842Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
