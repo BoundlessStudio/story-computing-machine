@@ -6,11 +6,7 @@
 
 ## Verbatim writing prompt
 
-> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
->
-> do not treat the imported stories any different.
->
-> i don't care about the meta difference either for the imported stories; treat them no diferently.
+> **[WP] An anxious teenager wishes for someone who understands her perfectly and wakes beside a second version of herself. The duplicate has her memories but quickly develops choices, relationships, and a life of her own—just as both girls discover she has only four days before she disappears.**
 
 ## Story controls
 

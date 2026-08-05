@@ -7,7 +7,6 @@
 ## Verbatim writing prompt
 
 > **[WP]”You know what I hate most? That I have to share you~.” “Wait are we fighting or flirting because I’m getting mixed signals here.”**
-> - Read my Suno songs for some suggestive context: https://suno.com/song/993bd1ff-a8ec-4392-b84d-fb8c94a9fde6 & https://suno.com/song/c19b71a9-1250-44c4-92ee-9738fc653f49
 
 ## Story controls
 

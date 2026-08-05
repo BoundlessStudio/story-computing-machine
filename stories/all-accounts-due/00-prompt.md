@@ -7,37 +7,6 @@
 ## Verbatim writing prompt
 
 > [WP] You have no magic, but as you've helped others you've amassed tons of favors, artifacts, etc. Today everyone woke up to find thier max mana is zero.
-> - *House of M* - "No More Mutants" style of event but for magic instead.
-
-## Verbatim revision clarification
-
-> the house of M was the pinickle event over the course of many years and this feels like avg Tuesday... please try again. This should be end of all magic in world it should feel more grand...
-
-## Verbatim crossover clarification
-
-> i see reference to "the Daughter" i didnt say you can cross stories or reuse characters; try again.
-
-## Verbatim cosmic-scale clarification
-
-> its the same kind of issues thought in this new draft; agriculture is not the cosmos type of event i was thinking of the House of M for Magic.. it needs to be more grand, more spectacle, a great pay off for all the time invested in their life, learning, colling artifacts, favours, etc... all pointing to the climax of "No More Magic"
-
-## Verbatim event-focus clarification
-
-> lets focus on the build up as flashbacks and focus on the declaration “No More Magic” event itsself.
-
-## Verbatim no-restoration clarification
-
-> nope you still missed the point; i dont want to fix everything by the end of the story with this wonderful relics that bring magic back;
->
-> AGIAN Lets focus on the build up as flashbacks and focus on the declaration “No More Magic” event itsself.
-
-## Verbatim quest-build clarification
-
-> the main event should be the climax; the body of story should be focus on flashback to main quests/adventures all without magic/skills, many relics/artifacts gathered or collected, or stollen, or taken as gifts, favors owed by godness, demonlords, dragons, and kings alike;
-
-## Verbatim goddess-twist clarification
-
-> i would like add one twist to end where he "kind of" tricked the goddess to get what he needed and we should end on the story on her after the words “No More Magic” have been spoken where she relieves what the main character has done, wanting to act she can't; cut to black.
 
 ## Story controls
 

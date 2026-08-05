@@ -6,11 +6,7 @@
 
 ## Verbatim writing prompt
 
-> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
->
-> do not treat the imported stories any different.
->
-> i don't care about the meta difference either for the imported stories; treat them no diferently.
+> **[WP] You inherited a watch that can rewind any mistake, and you have used it for everything from fallen toast to failed first dates. Seven Tuesdays after your sister's death, the Goddess of Time arrives with an audit: every rescue you overwrote was still a death your sister remembers, and you have one last chance to choose between a better goodbye and letting time move forward.**
 
 ## Story controls
 

@@ -6,11 +6,7 @@
 
 ## Verbatim writing prompt
 
-> import the Daughter of the Sun, The Small Moon Rose First, Realms, Self-Reflection, The Trouble With Tuesdays, and The Names on the Cups;
->
-> do not treat the imported stories any different.
->
-> i don't care about the meta difference either for the imported stories; treat them no diferently.
+> **[WP] You and your best friend survived 617 days in another realm before you severed the portal home. You return to discover that, on Earth, your friend will not disappear for another four months—and when nobody believes he was ever real, one shared memory becomes your only chance to find each other again: the small moon rose first.**
 
 ## Story controls
 
