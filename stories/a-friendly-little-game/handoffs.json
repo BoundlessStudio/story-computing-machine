@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "a-friendly-little-game",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "NAME_REGISTRATION_REQUIRED",
+      "startedAt": "2026-08-05T18:49:58.9090591+00:00",
+      "completedAt": "2026-08-05T19:24:14.1313796+00:00",
+      "guardId": "1f5e81cb1fb6496f9ab673a481f107af",
+      "persister": "story_architect",
+      "report": "story_slug: a-friendly-little-game\nmode: CREATE_PLAN\nstatus: NAME_REGISTRATION_REQUIRED\nguard_id: 1f5e81cb1fb6496f9ab673a481f107af\nchanged_files:\n  - stories/a-friendly-little-game/02-story-plan.md\nnames_to_register:\n  - Gwen\n  - Alba\n  - Felix\nauthority_conflict: none\nuser_ruling_required: no\nresolution_owner: coordinator",
+      "inputs": [
+        "stories/a-friendly-little-game/00-prompt.md",
+        "stories/a-friendly-little-game/01-canon-brief.md",
+        "stories/a-friendly-little-game/authority.json",
+        "stories/a-friendly-little-game/handoffs.json",
+        "stories/a-friendly-little-game/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/a-friendly-little-game/02-story-plan.md"
+      ],
+      "errorCode": "PLANNED_NAMES_UNREGISTERED",
+      "resolutionOwner": "coordinator",
+      "resolutionQuestion": null
     }
   ]
 }
