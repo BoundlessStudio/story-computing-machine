@@ -75,12 +75,14 @@ survives as a magical seed.
 
 - **AAD-03 — Hurzai (proposed).** **Fact:** Hurzai is a demon lord who uses
   Inward Fire by sacrificing material from his own body. In the Ghorvane
-  Underforge he rescues Faris, helps open air to trapped demon young, exposes a
-  coup through their testimony, bargains custody of Cold Maw, and requires any
-  terminal request to name the bodily cost. At the Array he accepts Faris's
-  account of likely deaths, fortification loss, mortality, and the end of his
-  lordship and fire; he turns Cold Maw outward and shields Faris from active
-  Inward Fire at visible bodily cost. **Exact local scope:** Hurzai's actions
+  Underforge he lifts Faris out of a half-forged predator's reach, shows Faris
+  the real shutter chain, and takes the wheel only after Faris breaks the seal.
+  The rescued demon young expose the coup when what they shout through the
+  vents names the officers who arranged it. Hurzai later bargains custody of
+  Cold Maw and requires any terminal request to name the bodily cost. At the
+  Array he accepts Faris's account of likely deaths, fortification loss,
+  mortality, and the end of his lordship and fire; he turns Cold Maw outward
+  and shields Faris from active Inward Fire at visible bodily cost. **Exact local scope:** Hurzai's actions
   during the Ghorvane rescue and terminal event. **Constraints and dependencies:** The prose does not establish Hurzai's survival after
   extinction or a universal demon biology, polity, furnace law, or title.
   Depends on AAD-13, AAD-17, AAD-26, and AAD-32 through AAD-35.
@@ -123,12 +125,13 @@ survives as a magical seed.
   Kindred Graft and Faris's former adversary. She pursues his theft of
   Unhatched Form and Mortal Latch, then directs him in materially bracing a
   sanctuary he damaged, takes a resident's drowning reflex into her own lungs,
-  exposes patrons who had displaced consent, and grants lawful custody through
-  a public bargain without forgiving him. At the Array she verifies the
-  selector preserves matter rather than resetting identity, closes the
-  Unhatched Form, opens the Axis, and separates forced grafts while preserving
-  material bodies. Her keeper awareness ends, while she remains present and
-  responsive through unanswering hands. **Exact local scope:** Jelveth's
+  and stabilizes the residents while Faris follows her directions. Faris
+  exposes the patrons by reading their signed orders aloud; Jelveth then grants
+  lawful custody through a public bargain without forgiving him. At the Array
+  she verifies the selector preserves matter rather than resetting identity,
+  closes the Unhatched Form, opens the Axis, and separates forced grafts while
+  preserving material bodies. Her keeper awareness ends, while she remains
+  present and responsive through unanswering hands. **Exact local scope:** Jelveth's
   actions, authority, and relationship with Faris in the Keruvan Fold and at
   the Array. **Constraints and dependencies:** The story establishes no
   universal keeper office, graft law, or promise of harmless survival for
@@ -188,10 +191,13 @@ survives as a magical seed.
   tile, a captive points out an ordinary maintenance pin, Seyathi suspends the
   compulsion for one breath, and Faris removes the pin with his sandal buckle,
   breaking the prepared surface and revealing a trial lattice for the Absolute
-  Yoke. Seyathi then gives him Missing Tessera and promises one future arming
-  against the Yoke. **Exact local scope:** This one prepared stair complex,
-  rescue, and relationship origin. **Constraints and dependencies:** The
-  broader location, polity, faith, later fate, and reach of the trial remain
+  Yoke. Seyathi then gives him Missing Tessera and invites him to ask her to arm
+  it against the Yoke one day. At the Array she freshly studies Faris's exact
+  request and agrees before arming it. **Exact local scope:** This one prepared
+  stair complex, rescue, relationship origin, and later present choice.
+  **Constraints and dependencies:** The invitation is not a prior promise or
+  compulsion; Seyathi's later agreement is voluntary but incompletely informed.
+  The broader location, polity, faith, later fate, and reach of the trial remain
   unspecified. Depends on AAD-02, AAD-16, AAD-23, and AAD-36.
   **Provenance:** `05-story.md`, Talarum flashback. **Proposed disposition:**
   `PROPOSE ADD, LOCALLY BOUNDED`. **Suggested smallest topical target:**
@@ -340,7 +346,7 @@ survives as a magical seed.
   contractions alter weight across the upper atmosphere, hold masses away from
   ordinary trajectories, and generate auroras. Contractions tear sensory
   tissue, and pressure knocks carry intentional communication through the
-  body. A lawfully shed vertebra can carry one terminal alignment when Qeluun
+  body. A shed vertebra can carry one terminal alignment when Qeluun
   personally moves it into place. Extinction drains auroras into weather, ends
   stored weight and impossible leverage, and leaves conscious Qeluun subject
   to ordinary falling. **Exact local scope:** Qeluun's one body, its reached
@@ -375,10 +381,11 @@ survives as a magical seed.
   Tessellate Grace, Inward Fire, Horizon Flight, Manyroom, Worldcoil, and
   Kindred Graft are the six kinds of magic active in the story's terminal
   present material world. The Absolute Yoke and forced hybrids borrow from
-  these constituents and do not constitute a seventh source. Each system
-  requires its own living authority and terminal keystone; ending any one alone
-  would leave the others active, while simultaneous release prevents a
-  surviving system or hybrid from retaining a magical continuation. **Exact local scope:**
+  these constituents and do not constitute a seventh source. Each system is
+  represented by its own living authority and terminal keystone. The six armed
+  conditions propagate simultaneously; the wave ends all six systems, their
+  reserves and structures, and every constituent hybrid, leaving no magic in
+  the present material world. **Exact local scope:**
   This one unplaced terminal era and material world at the Ithrom Array event.
   **Constraints and dependencies:** Shared timing does not establish shared
   origin, fuel, substance, ancestry, language, or operation, and it does not
@@ -665,7 +672,7 @@ honorific, nickname, additional title-as-name, or crossover identity appears.
 | `Cold Maw`; `Maw` | nonliving relic | Reviewed in final prose; this is a pair of heatless-alloy jaws, never a creature or person. |
 | `Unflown Arc`; `Arc` | nonliving relic | Reviewed in final prose; this is Ekkorath's shed horn keystone, not a separate dragon or living being. |
 | `Sole Chamber`; `Chamber` | nonliving relic | Reviewed in final prose; this is a bronze Manyroom model and keystone, not a room-person. |
-| `Nearmost Vertebra`; `Vertebra` | nonliving relic | Reviewed in final prose; this is Qeluun's lawfully shed bone segment, not a separate living entity. |
+| `Nearmost Vertebra`; `Vertebra` | nonliving relic | Reviewed in final prose; this is Qeluun's shed bone segment, not a separate living entity. |
 | `Unhatched Form`; `Form` | nonliving relic | Reviewed in final prose; this organoid stores possible grafts but is explicitly never a person. |
 | `Parity Astrolabe`; `Astrolabe` | nonliving relic | Reviewed in final prose; this is a passive six-needle timing instrument, not a character or truth-speaking entity. |
 | `Mortal Latch`; `Latch` | nonliving relic | Reviewed in final prose; this is the mechanical terminal junction and does not interpret Faris's words. |

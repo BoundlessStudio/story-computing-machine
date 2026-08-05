@@ -611,6 +611,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 23,
+      "story": "all-accounts-due",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T14:58:33.4776683+00:00",
+      "completedAt": "2026-08-05T15:04:23.4525131+00:00",
+      "guardId": "5045563722f246078141edd10211fae5",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_FINAL\nguard_id: 5045563722f246078141edd10211fae5\ncurrent_stage: final-edit\nchanged_outputs: stories/all-accounts-due/06-canon-delta.md\nunchanged_outputs: stories/all-accounts-due/05-story.md\nprose_unchanged_status: PASS — byte-for-byte unchanged; 5,221 prose words; SHA-256 E56064235D9CA8695C614E981453F199CA5B2596424480CB065E6564D7B3D4F5; `Nothing moved. Nothing answered.` remains the exact endpoint.\nfinding_disposition: AAD-FINAL-002 RESOLVED — AAD-10 now preserves Seyathi’s invitation to ask and her fresh present agreement; AAD-03 assigns coup exposure to the rescued demon young’s shouted testimony while preserving Hurzai’s exact rescue and shutter-opening assistance; AAD-06 assigns signed-order exposure to Faris while preserving Jelveth’s stabilization and later bargain; AAD-20 removes the unsupported `lawfully` qualifier throughout; AAD-22 now states only the demonstrated six-system inventory, separate living authorities and keystones, synchronized propagation, hybrid-not-seventh status, and complete extinction.\ndelta_item_count: 37 preserved; 37 unique sequential IDs.\nname_result: PASS — strict Final story-names/3 check completed with zero warnings and zero errors; exhaustive seven-character inventory and exact three-column 27-row non-character allowlist preserved.\nconsistency_result: PASS — all 37 items retain exact local scope, constraints, dependencies, final-prose provenance, proposed disposition, and smallest topical target; authority remains `none`, delta status remains `proposal only`, and promotion remains unauthorized.\nscope_check: PASS — only stories/all-accounts-due/06-canon-delta.md changed; stories/all-accounts-due/05-story.md remained byte-identical; `git diff --check` passed.\nchange_report: Revised only stories/all-accounts-due/06-canon-delta.md to resolve AAD-FINAL-002 against final-prose evidence. Corrected the five assigned attribution, renewed-choice, qualifier, and mechanism issues while preserving all 37 sequential delta IDs, local scopes, dependencies, provenance, dispositions, targets, character inventory, non-character allowlist, authority-none posture, proposal-only status, promotion prohibition, passed prose, names, and ending. No review, registry, metadata, index, release, universe note, or commit was changed.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
