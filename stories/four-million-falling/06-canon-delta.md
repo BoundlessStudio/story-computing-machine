@@ -34,7 +34,7 @@ no shared origin or mechanism.
 ## New characters or character facts
 
 - **FMF-01 — Inez Arco (proposed).** **Fact:** Inez Arco is an Orison
-  lift-balance engineer and Paz Arco's older sister. She signed a thirty-day
+  lift-balance engineer and Paz Arco's sister. She signed a thirty-day
   operating waiver for a bridged breaker-actuator rail after the individual
   breakers tested green. During Orison's fall, she diagnoses the common-bus
   cascade, designs and executes the mass-shedding and ring-bleed sequence,
@@ -64,15 +64,15 @@ no shared origin or mechanism.
   `### 0:17`, `### 0:35`, and `### After`. **Proposed disposition:**
   `PROPOSE ADD WITH LOCAL-OFFICE QUALIFIER`. **Suggested smallest topical target:**
   `universe/characters.md`.
-- **FMF-03 — Paz Arco (proposed).** **Fact:** Paz Arco is Inez's younger sister
-  and works with clinic logistics in Low Keel South Three. During the
-  evacuation she refuses a sister-only route, requires Inez to open stair K to
+- **FMF-03 — Paz Arco (proposed).** **Fact:** Paz Arco is Inez's sister.
+  During the evacuation from a clinic in Low Keel South Three, she refuses a
+  sister-only route, requires Inez to open stair K to
   the whole clinic block, and moves with a group initially reported as
   forty-one patients, twelve staff, and six neighboring civilians. A partial
   receiving list later places Paz at Central School with thirty-seven patients
   and nine staff; four patients and three staff from the clinic group remain
   unlocated at that time. **Exact local scope:** Paz's family relationship,
-  clinic work, evacuation choices, and provisional status during this one
+  clinic evacuation conduct, and provisional status during this one
   emergency. **Constraints and dependencies:** The partial receiving list is
   not a final casualty record and establishes no later fate for the unlocated
   people. Depends on FMF-01, FMF-05, FMF-15 through FMF-17, and FMF-21.
@@ -327,9 +327,10 @@ appears.
   `PROPOSE ADD WITH PERMANENT-COST AND INCOMPLETE-EVACUATION QUALIFIERS`.
   **Suggested smallest topical target:** `universe/timeline.md`.
 - **FMF-18 — roll correction and final field expenditure (proposed).**
-  **Fact:** A frozen western switch on Ring Two and a failed tilt sensor cause
-  Orison to roll. Inez uses the visible horizon and overloads the opposite
-  east-five segment, causing a second permanent ring loss. When a failed
+  **Fact:** A frozen western switch on Ring Two causes Orison to roll. The
+  powerless tilt sensor then freezes at a stale six-degree reading while the
+  visible horizon continues to climb. Inez uses that horizon and overloads the
+  opposite east-five segment, causing a second permanent ring loss. When a failed
   temperature sensor reveals less outer-ring reserve than modeled, she rejects
   a stretched twenty-one-metre-per-second landing and commits both outer rings
   to one final pulse modeled to reach approximately eleven metres per second,
@@ -343,12 +344,14 @@ appears.
   QUALIFIERS`. **Suggested smallest topical target:** `universe/timeline.md`.
 - **FMF-19 — Orison's Inner Sea landing and permanent grounding (proposed).**
   **Fact:** Orison strikes the Inner Sea nearly level, impacts twice, floods
-  from below, and settles at a seven-degree southward cant. Its ring fields are
-  spent and damaged; it cannot rise again. Three sealed ring trunks are later
+  from below, and settles unevenly. In the immediate aftermath, the control
+  room is canted seven degrees south. Orison's ring fields are spent and
+  damaged; it cannot rise again. Three sealed ring trunks are later
   reported flooded, two holding, and one uncertain. **Exact local scope:** The
   immediate physical outcome of this incident. **Constraints and dependencies:**
-  Exact altitude before descent, directly measured contact speed, final hull
-  settlement, salvageability, and long-term buoyancy are not established.
+  Exact altitude before descent, directly measured contact speed, a citywide
+  cant measurement, final hull settlement, salvageability, and long-term
+  buoyancy are not established.
   Depends on FMF-04, FMF-12 through FMF-18. **Evidence:**
   `stories/four-million-falling/05-story.md` — `### 0:35` and `### After`.
   **Proposed disposition:** `PROPOSE ADD AS PERMANENT GROUNDING WITH UNRESOLVED
