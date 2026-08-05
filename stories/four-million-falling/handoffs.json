@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "four-million-falling",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-05T03:32:47.0616043+00:00",
+      "completedAt": "2026-08-05T03:57:05.0499648+00:00",
+      "guardId": "43733d3741b4415e8831b4cf272ac4c1",
+      "persister": "story_architect",
+      "report": "status: READY\n\nchange report:\n- Story: `four-million-falling`\n- Mode: `CREATE_PLAN`\n- Wrote only: `stories/four-million-falling/02-story-plan.md`\n- Plan: Complete, scene-ready, 2,594 words\n- Name check: PASS — all proposed names and aliases validated\n- Preconditions: PASS\n- Additional files changed: None\n- User ruling required: No",
+      "inputs": [
+        "stories/four-million-falling/00-prompt.md",
+        "stories/four-million-falling/01-canon-brief.md",
+        "stories/four-million-falling/authority.json",
+        "stories/four-million-falling/handoffs.json",
+        "stories/four-million-falling/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/four-million-falling/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

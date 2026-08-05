@@ -24,7 +24,7 @@ reuse. Names found only in archived reference material remain reserved too.
 - The primary story coordinator updates this table after planning and reconciles
   it again after final review. Specialist agents read it but do not edit it.
 
-Last reconciled: 2026-08-03.
+Last reconciled: 2026-08-04.
 
 Registry baseline: every extant story was audited on 2026-07-23. The registry
 includes one-off and referential names, cover identities, titles used as names,
@@ -57,6 +57,7 @@ for characters the prose leaves unnamed.
 | Cody | `Cody` | `transitions-in-common` | candidate | unique | No reuse. Sixteen-year-old first-person shapeshifter who uses one stable name and they/them pronouns across masculine, feminine, and mixed human forms; final prose uses no surname, nickname, form-name, username, title, or alternate spelling. Distinct from every current reservation in exact form, spelling, sound, reversal, and role. |
 | Crowned Ancestors | `Crowned Ancestors`; `the Crowned Ancestors` | `a-crown-of-quiet-hours` | canon | unique | User-corrected legacy acceptance; name remains reserved. Personified collective of discontinued royal masks worshipped as supposedly dead monarchs; not a living magical collective and not an alias for Kharost. |
 | Chancellor Cythra Dhal | `Chancellor Cythra Dhal`; `Chancellor Dhal`; `Dhal` | `daughter-of-the-sun` | canon | unique | One capital official; `Chancellor` alone remains a common office noun. Replaces the released Rhea Voss forms and has no connection to M. Voss. |
+| Chief Damas | `Chief Damas`; `Damas` | `four-million-falling` | in-progress | unique | Reactor-and-lift control shift chief. `chief` and `the chief` remain common role nouns, not aliases. No connection to any existing identity. |
 | Davina Morrow | `Davina Morrow`; `Davina` | `a-place-for-the-living` | canon | unique | No unrelated reuse. Greer's living mother; the shared Morrow surname intentionally marks one family, and `Morrow` is not used alone as her individual label. |
 | Daphne | `Daphne` | `self-reflection` | canon | unique | Nina and Anin's school friend; replaces the released Nisha form and is distinct from both central identities. |
 | Dezra Holt | `Dezra Holt`; `Dezra` | rejected `the-weight-of-falling-up-reimagined` version | abandoned | unique | Rejected production version removed 2026-07-23; name remains reserved. |
@@ -88,6 +89,7 @@ for characters the prose leaves unnamed.
 | Ilya Sen | `Ilya Sen`; `Ilya` | released reservation | released | unique | Formerly planned for `daughter-of-the-sun`; released by the current short-story plan. |
 | Imani Crowe | `Imani Crowe`; `Imani` | `a-place-for-the-living` | canon | unique | No reuse. Viewpoint partner; `Crowe` is not used alone as her individual label. |
 | Indexer Prax | `Indexer Prax`; `Prax` | `the-small-moon-rose-first` | canon | unique | One Regent official; replaces the released Pell form and has no connection to Orrin Pell. `Indexer` alone remains a role noun. |
+| Inez Arco | `Inez Arco`; `Inez`; `Arco` | `four-million-falling` | in-progress | unique | Principal lift-balance engineer. The shared Arco surname intentionally marks Inez and Paz as sisters; only Inez is addressed as `Arco`. |
 | Instructor Bexel | `Instructor Bexel`; `Bexel` | `the-friends-i-built` | canon | unique | No reuse. `instructor` alone remains a common role noun and is not used as a proper name. |
 | Irix | `Irix` | `the-friends-i-built` | canon | unique | No reuse. First-person protagonist; distinct in spelling and cadence from reserved `Ilya` and `Ivo`. |
 | Istra Noll | `Istra`; `Noll`; `Assistant Auditor Noll` | `a-crown-of-quiet-hours` | canon | unique | User-corrected legacy acceptance; the entity label reserves the combined identity Istra Noll. Final prose uses `Istra`, `Noll`, and the office-plus-surname form `Assistant Auditor Noll`. |
@@ -153,6 +155,7 @@ for characters the prose leaves unnamed.
 | Orrin Pell | `Orrin Pell`; `Orrin`; `Pell` | `daughter-of-the-sun` | canon | unique | One constructed maintenance identity; retained after the unrelated Small Moon form was released. |
 | Osket Firth | `Osket Firth`; `Osket` | removed `the-quiet-party` version | abandoned | unique | Removed production version deleted 2026-08-01; name remains reserved. Silent rope scout, climber, lock-picker, and habitual side-route explorer in that version. |
 | Paul | `Paul` | `the-names-on-the-cups` | canon | unique | — |
+| Paz Arco | `Paz Arco`; `Paz` | `four-million-falling` | in-progress | unique | Inez Arco's younger sister and a clinic logistics coordinator. The shared surname marks their family relationship; `Arco` is not used alone for Paz. |
 | Pell | `Pell` | released reservation | released | unique | Formerly planned for `the-small-moon-rose-first`; replaced by Indexer Prax in the current plan. |
 | Petra Bristow | `Petra Bristow`; `Petra` | `the-wrong-side-of-the-part` | canon | unique | No unrelated reuse. Tilda's younger sister and co-owner of their late mother's shop; the shared surname intentionally marks one family, and `Bristow` is not used alone as her individual label. |
 | Phoebe Bellweather | `Phoebe Bellweather`; `Phoebe` | `the-shape-of-mercy` | canon | unique | No reuse. Youngest Bellweather sibling; no nickname planned. |

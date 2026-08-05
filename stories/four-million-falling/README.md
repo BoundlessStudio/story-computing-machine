@@ -2,7 +2,7 @@
 
 - Slug: `four-million-falling`
 - Created: 2026-08-04
-- Current stage: canon-research
+- Current stage: planning
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -17,8 +17,8 @@ each stage. Specialist agents do not edit it. -->
 - [x] Prompt contract captured
 - [x] Authority snapshot recorded
 - [x] Canon brief completed
-- [ ] Story plan completed
-- [ ] Plan name check passed
+- [x] Story plan completed
+- [x] Plan name check passed
 - [ ] Complete draft written
 - [ ] Draft review passed
 - [ ] Critical and major findings resolved
