@@ -2,7 +2,7 @@
 
 - Slug: `all-accounts-due`
 - Created: 2026-08-05
-- Current stage: canon-research
+- Current stage: planning
 - Status: in-progress
 - Canon: no
 - User disposition: pending
@@ -16,7 +16,7 @@ each stage. Specialist agents do not edit it. -->
 
 - [x] Prompt contract captured
 - [x] Authority snapshot recorded
-- [ ] Canon brief completed
+- [x] Canon brief completed
 - [ ] Story plan completed
 - [ ] Plan name check passed
 - [ ] Complete draft written
