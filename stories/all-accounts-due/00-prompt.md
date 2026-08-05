@@ -25,6 +25,12 @@
 
 > lets focus on the build up as flashbacks and focus on the declaration “No More Magic” event itsself.
 
+## Verbatim no-restoration clarification
+
+> nope you still missed the point; i dont want to fix everything by the end of the story with this wonderful relics that bring magic back;
+>
+> AGIAN Lets focus on the build up as flashbacks and focus on the declaration “No More Magic” event itsself.
+
 ## Story controls
 
 - Working title: All Accounts Due
@@ -32,9 +38,11 @@
   remaining a complete short story rather than a synopsis.
 - POV: Chosen during planning for strongest dramatic effect.
 - Tense: Chosen during planning for strongest dramatic effect.
-- Structure: Keep roughly 80–90% of the story in the continuous present-time
-  declaration event. Reveal the lifetime buildup through four to six concise,
-  payoff-triggered flashbacks totaling roughly 600–900 words. Each flashback
+- Structure: Keep roughly 75–85% of the story in the continuous present-time
+  declaration event, beginning in the final minutes or hours while magic is
+  still active and already converging toward extinction. Reveal the lifetime
+  buildup through four to six concise, payoff-triggered flashbacks totaling
+  roughly 800–1,200 words. Each flashback
   must unlock the immediately following use of a skill, artifact, relationship,
   or favor. Do not narrate the protagonist's life chronologically.
 - Tone and genre: World-ending event fantasy; epic, elegiac, cumulative, and
@@ -75,23 +83,22 @@
   expectations that now end. Canon research may constrain chronology and world
   rules behind the scenes, but the prose may not borrow another story's named
   people, places, artifacts, systems, titles, or plot history.
-- The cause may remain partly unknown if naming it would contradict authority,
-  but the end state may not be softened into temporary suppression, faulty
-  measurement, or a reversible local outage. At the opening, living users may
-  all have maximum mana zero while residual, structural, stored, or otherwise
-  bounded magic still exists and a credible restoration path remains. The
-  protagonist's climactic act must extinguish every remaining form and close
-  that path forever.
+- The protagonist and their allies intentionally cause the zero-capacity event
+  at the climax. Present-time action begins before the declaration, while magic
+  remains active and spectacular. The declaration wave extinguishes living
+  capacity, stored power, structures, crossings, beings' active faculties, and
+  every possible reserve together. A short coda fulfills the original image:
+  the world wakes to maximum mana zero and magic is gone forever.
 - Original artifacts may retain stored charge or useful nonmagical functions
   only if the story defines their bounded mechanisms; they do not become
   autonomous magic users, and no charge may leave magic surviving at the end.
 - The protagonist's decisive advantage should come from earned trust,
   practical knowledge, and reciprocal obligations, not a concealed magical
   awakening.
-- The decisive question is not whether magic can be restored. It is what can be
-  saved or sacrificed when restoration is possible but unacceptable. The
-  protagonist must earn the authority and means to reject restoration, and the
-  final irreversible answer is "No More Magic."
+- There is no restoration engine, restoration attempt, recovery quest, or
+  relic-based offer to bring magic back. The story is not about fixing the
+  opening zero event. It is about executing the lifetime plan that creates it.
+  The final irreversible answer is "No More Magic."
 - The protagonist's lifelong lack of magic may let them resist, enter, carry,
   witness, or decide where active users cannot, but it is not a concealed power,
   immunity, prophecy, or chosen destiny. Their access to the climax must also
@@ -116,12 +123,12 @@
 - At least four materially different favors or relationships and four
   individually bounded, wondrous artifacts pay off causally; none is decorative
   and none becomes an autonomous magic user.
-- The opening zero-capacity event, residual wonders, restoration possibility,
-  lifetime convergence, and final eradication are mechanically distinct and
-  causally legible.
-- The climax is the spectacular act that ends all remaining magic, not a later
-  response to magic already being permanently gone. The exact or unmistakable
-  declaration "No More Magic" seals the choice.
+- The lifetime convergence, extinction mechanism, declaration wave, and dawn
+  aftermath are mechanically distinct and causally legible.
+- The climax is the spectacular act that ends all magic while it is still
+  active, not a later response and not a failed restoration. The exact
+  declaration "No More Magic" seals the choice and causes the world to wake at
+  zero.
 - The climax makes an irreversible cosmos-scale difference and the aftermath
   confirms that magic remains gone forever.
 - The protagonist remains genuinely nonmagical through the ending.
