@@ -8,117 +8,168 @@ resolution_owner: story_architect
 
 ## Authority basis
 
-The captured prompt requires a genuinely nonmagical protagonist, earned favors and artifacts, an observed zero-mana crisis, and a climax in which accumulated nonmagical capital matters decisively. “Everyone” is explicitly bounded to the story’s setting and available evidence. The *House of M* reference controls scale and emotional premise only; Marvel characters, settings, and plot are prohibited. (`stories/all-accounts-due/00-prompt.md` — `## Story controls`; `## Assumptions`)
+The revised prompt explicitly authorizes a permanent, world-wide end of magic in the story’s present material world. That authority supersedes the rejected bounded Gannet Reach interpretation. It does not erase prior history or authorize claims about every era, alternate timeline, plane, afterlife manifestation, or other world. (`stories/all-accounts-due/00-prompt.md` — `## Verbatim revision clarification`; `## Story controls`; `## Assumptions`)
 
-Only current `LOCKED`/`CANON` universe entries and the canon stories admitted by `stories/all-accounts-due/authority.json` establish authority. Source records are inert evidence with `authority: none`. (`universe/README.md` — `## Authority order`; `sources/README.md` — `# Evidence records`)
+Only current `LOCKED`/`CANON` universe entries and the final canon stories admitted by `stories/all-accounts-due/authority.json` establish setting facts. The old plan, prose, review, delta, and prior canon brief for this slug are non-canon production history. Verified source record `sources/records/s01-o/outline.md` is useful provenance for the Glass-Sea material but remains `authority: none`; where it differs from promoted authority, it cannot control. (`universe/README.md` — `## Authority order`; `sources/README.md` — `# Evidence records`; `sources/MANIFEST.json` — record `S01-O`; `sources/records/s01-o/outline.md` — `## Canonical Decisions for Version 3`)
+
+## Decisive chronology placement
+
+The culmination must occur after the Glass-Sea second dawn.
+
+A terminal event in the modern-like era would contradict the established future: the modern-like low-magic trough precedes later magic-active ages, and the Glass-Sea era occurs long afterward. A permanent end there would erase the Daughter’s later solar fire, Calvea’s dusk magic, and the second-dawn branch network. (`universe/timeline.md` — `## Established era order`; `## Four-hundredth Rite and second dawn`; `universe/locations.md` — `## The world across eras`; `universe/premise.md` — `## The deep-time shared world`)
+
+The clean placement is several years after the second dawn, late enough for Faris to have accumulated a genuine service history within the decentralized seven-branch region, but near enough that the Daughter, Seris, Tovan, Orrin, Calvea, and Dhal may still be present without inventing longevity. Earlier canon remains completed history. The story may state that this culmination follows the established histories it deliberately places in its past; it must not claim a fully ordered master chronology for every undated story.
+
+This placement creates no current `LOCKED` contradiction. No retcon or separate user ruling is required.
 
 ## Hard constraints
 
-1. Treat the event as local and evidence-bounded. The story may establish that every tested or reachable person in one settlement, institution, network, or jurisdiction has maximum mana zero. It may not conclude that every living being, era, world system, god, magical creature, or afterlife participant has lost magic.
+1. Magic ends permanently throughout the living material world at the story’s present. The narrative may leave the cause unknown, but not the permanence, reach within that world, or final absence of usable magic.
 
-2. `Mana` and `maximum mana` are not established universal terms. If used, they must be a local culture’s measurement, interface label, or explanatory model—not objective cosmological taxonomy. Magic comprises many real systems with no single universal origin, and different systems need not operate in every era. (`universe/rules.md` — `## System categories`; `universe/glossary.md` — `## Magic, technology, and divinity`)
+2. `Mana` and `maximum mana` remain viewpoint-language, not a newly discovered universal substance or taxonomy. The event may make every living user’s familiar measure read zero while extinguishing multiple differently understood systems. (`universe/rules.md` — `## System categories`; `universe/glossary.md` — `## Magic, technology, and divinity`)
 
-3. Only life can use magic. A nonliving artifact may store, focus, transmit, measure, or shape living-supplied magic, but cannot originate magic, choose, cast, or become an autonomous magical rescuer unless the story establishes that it is alive. (`universe/rules.md` — `## Living agency and magic`)
+3. The scope is the one physical world at this present moment. Do not claim retroactive erasure from earlier eras, effects in alternate timelines, destruction of the universal afterlife, extinction of magic on other worlds or planes, or certainty about realms whose relationship to the physical world is unresolved. (`universe/premise.md` — `## The deep-time shared world`; `universe/rules.md` — `## Afterlife and continuation`)
 
-4. Artifact behavior must be defined individually. Similar materials, symbols, charges, or appearances do not imply a common mechanism. No generic rule may declare that all artifacts retain charge, all artifacts fail, or stored magic universally bypasses zero mana. (`universe/rules.md` — `## Artifacts, motifs, and folklore`)
+4. Earlier magical acts, transformations, relationships, injuries, memories, and material consequences remain real. Ending magic does not rewrite history, restore casualties, undo personhood, or invalidate the choices that built canon. (`universe/style-guide.md` — `## Personhood and moral consequence`; `## Continuity and evidence discipline`)
 
-5. The protagonist must remain genuinely nonmagical. Do not repeat Adrian Bellweather’s apparent-powerlessness reveal, grant a concealed faculty, make the zero event awaken them, or reveal their favors as a latent magical system. (`stories/all-accounts-due/00-prompt.md` — `## Completion tests`; `stories/the-shape-of-mercy/05-story.md` — `# The Shape of Mercy`)
+5. Only life can use magic. Nonliving artifacts never become autonomous replacement casters. Their material bodies, ordinary records, mechanisms, or previously established nonmagical functions may remain useful. (`universe/rules.md` — `## Living agency and magic`)
 
-6. Favors and obligations are ordinary social relationships unless a specific local mechanism is established. Consent, sacrifice, debt, desire, and cost are not universal magical fuels. People must retain meaningful choice about whether to honor a favor. (`universe/rules.md` — `## Costs, desire, and local mechanisms`)
+6. The protagonist remains genuinely nonmagical. Faris may be disadvantaged by magical institutions and uniquely practiced at mundane work, but is not immune, chosen, secretly severed, dormant, or “socially magical.” Trust and reciprocity remain ordinary human capital.
 
-7. The climax must turn on earned trust, practical knowledge, reciprocal help, and at least one causally useful artifact. A concealed magical awakening, universe-saving destiny, or autonomous artifact intervention would violate the prompt contract. (`stories/all-accounts-due/00-prompt.md` — `## Assumptions`; `## Completion tests`)
+7. Favors do not compel. Each helper must be free to refuse, narrow, renegotiate, or answer for reasons beyond debt. The climax should depend on the network’s renewed choices under irreversible conditions. (`universe/rules.md` — `## Costs, desire, and local mechanisms`)
 
-8. Maintain the teen ceiling: consequences may include injury, death, institutional collapse, or fear, but treatment must remain non-graphic and character-centered. (`universe/style-guide.md` — `## Audience and content boundaries`)
+8. The end cannot be caused by scaling Adrian Bellweather’s severance, Pulsewire’s severance, Gate Cant, the Fenwick watch, the Covenant breach, Solstice’s central release, or another bounded mechanism into a universal answer. Similar language is not shared origin. (`universe/rules.md` — `## Adrian Bellweather's severance and memory cost`; `## Artifacts, motifs, and folklore`; `universe/style-guide.md` — `## Continuity and evidence discipline`)
 
-## Relevant established context
+9. Maintain the Teen ceiling. Mass loss, death, ecological collapse, religious crisis, and grief may be present, but the camera remains non-graphic and consequence-centered. (`universe/style-guide.md` — `## Audience and content boundaries`)
 
-- Stored magic does not automatically eliminate the need for living agency. Solstice’s crown held twelve donated final spells but required Solstice’s present living nerves to wake, shape, and direct every working. (`universe/rules.md` — `## Solstice's thirteen-tone crown`; `stories/solstice-evening-bell/05-story.md` — `# Solstice Evening Bell`)
+## Recommended scene-manageable ensemble
 
-- The Glass Gate used stored charge, yet its witnessed severance command still required living breath; the apparatus was not an independent magic user. This is one local precedent, not a general artifact rule. (`universe/rules.md` — `## Witnessed Glass Gate operation`; `stories/the-small-moon-rose-first/05-story.md` — `# The Small Moon Rose First`)
+Use a five-person active core, with one supporting recurring character:
 
-- The Fenwick watch is nonliving and produces an extraordinary effect only when a living bound holder deliberately activates it. It never chooses or selects an outcome. (`universe/rules.md` — `## Fenwick bloodline watch`; `stories/the-trouble-with-tuesdays/05-story.md` — `# The Trouble With Tuesdays`)
+- **Faris** — the lifelong nonmagical viewpoint and logistical hinge.
+- **The Daughter** — the living solar source whose loss embodies the end of the region’s greatest power.
+- **Tovan Rek** — one locally present expression of the divided archive, able before zero to corroborate reports from the seven branches; the expressions are already diverging and cannot command one another.
+- **Orrin Pell** — living constructed maintenance person whose knowledge survives even when magical access ends.
+- **Sister Calvea Dorn** — living dusk practitioner whose final failed working makes the loss intimate and whose consent practice shapes the response.
+- **Seris Venn**, supporting — established guardian and temporary-stewardship precedent, useful as a witness, organizer, or final institutional counterweight rather than another full arc.
 
-- Ersene alliance focuses require two living endpoints; death or witnessed refusal can render a focus inert. This supports the possibility that an intact artifact becomes unusable when its necessary living relationship fails, but only under an individually established mechanism. (`universe/rules.md` — `## Ersene alliance focuses and calls`)
+This group already shares history, geography, and relationships. It requires no cross-era meeting. (`universe/characters.md` — `## The Daughter`; `## Seris Venn`; `## Tovan Rek`; `## Orrin Pell`; `## Sister Calvea Dorn`; `stories/daughter-of-the-sun/05-story.md` — `# Daughter of the Sun`)
 
-- Aven’s plot-armor harness was inert off its living wearer, operated through living intent, and eventually became dead weight after its finite components were spent. This is a useful boundary example but must not be copied as the new story’s artifact system. (`stories/the-last-thing-i-could-fix/05-story.md` — `# The Last Thing I Could Fix`)
+Dhal may appear through a short public-authority scene or existing judgment record, but a full Dhal subplot will overcrowd 4,500–6,000 words. The Mother-fragment cannot return without resolving its established disappearance and ontology, so use only its remembered choice or archived evidence. (`universe/characters.md` — `## Chancellor Cythra Dhal`; `## Mother-fragment`)
 
-- Adrian Bellweather can permanently remove a whole faculty or narrowly sever one magical connection, but his ability is individual, costly, and expressly distinct from other severance systems. The zero-mana event must not be presented as Adrian’s faculty scaled to a population without new authority. (`universe/rules.md` — `## Adrian Bellweather's severance and memory cost`; `## Bellweather household faculties`)
+## How Faris can earn years of favors safely
 
-- Canon permits crises in which a dependable supernatural civic system fails irreversibly and ordinary people must improvise without its guidance. That precedent supports the human stakes, not reuse of Sablewake or its prophecy mechanism. (`stories/the-future-that-refused-us/05-story.md` — `# The Future That Refused Us`; `universe/rules.md` — `## Covenant of Hours`)
+Place Faris inside the post-second-dawn seven-branch mutual-aid circuit. The second dawn already left seven independent branches, diverging Tovan expressions, damaged infrastructure, public witnesses, limited covenants, and communities that could fail separately. (`universe/rules.md` — `## Glass-Sea living solar fire and branch network`; `universe/factions.md` — `## Branch covenant practice`; `universe/timeline.md` — `## Four-hundredth Rite and second dawn`)
 
-## Conflict and omission assessment
+Over several years, Faris can have:
 
-### Current contradictions
+- carried physical records and messages when magical relays or branch interfaces were unavailable;
+- matched stranded people, repair crews, food, water, tools, and transport across branch boundaries;
+- preserved duplicate mundane routes and inventories after central authority ended;
+- helped communities enforce a stated limit, replace a steward, or document a refusal;
+- solved practical emergencies without asking the Daughter to become a sovereign power source.
 
-None. The prompt can proceed safely as a bounded, locally observed event in a new setting.
+Those are new local facts within the already connected Glass-Sea region, not fabricated meetings with Solstice, the Bellweathers, Ravel travelers, Ersene dragons, or other chronologically unplaced casts. Most favors should be owed by branch workers, witnesses, carriers, mechanics, and civic organizers. The recurring canon characters answer the present crisis because of shared responsibilities and newly dramatized choices; they need not all owe Faris personal life-debts.
 
-### Omissions, not contradictions
+A compact cumulative structure can show three brief, concrete memories of earlier service, then pay off three different relationships in the present:
+
+1. access or corroborated information;
+2. transport, labor, or shelter;
+3. civic authority, testimony, or permission.
+
+Istra Noll is an authoritative thematic precedent for a nonmagical worker whose counting, records, access, and earned credibility coordinate magical beings without becoming power, but Istra’s era is unresolved and she must not cross over directly. (`stories/a-crown-of-quiet-hours/05-story.md` — `# A Crown of Quiet Hours`; `universe/characters.md` — `## Istra Noll`)
+
+## Canon systems and artifacts that may appear together
+
+Within the direct Glass-Sea ensemble:
+
+- The seven-branch solar network, its branch focuses, conduits, thresholds, shield infrastructure, and Crown chamber may appear. They shape living solar fire but do not originate it. (`universe/rules.md` — `## Glass-Sea living solar fire and branch network`; `universe/locations.md` — `## Crown of Noon chamber`)
+- Tovan’s seven living expressions may exchange previously established branch information only through whatever communication is actually available; they are distinct, diverging persons with no mutual command authority. (`universe/rules.md` — `## Living constructed participants in the Crown system`)
+- Orrin’s pale-metal maintenance interfaces belong to his living body. His knowledge and ordinary tool use survive zero; magical access and compelled Crown response do not.
+- The Venn oath-record may appear in Seris’s custody as bounded historical evidence. It is not Faris’s reward, a universal truth device, or an autonomous witness. (`universe/factions.md` — `## Venn oath-record stewardship`)
+- The black-sun key may appear as a nonliving archive/transfer interface. It requires living power and established participants; do not give it agency or assume a useful mundane function after zero unless the story demonstrates one physically. (`universe/glossary.md` — `## Black-sun key`)
+- The shield-tower record may preserve already recovered testimony, but awakening it originally required the Daughter’s living fire and Tovan’s invocation. It cannot independently rescue or broadcast after zero. (`universe/rules.md` — `## Glass-Sea witness and archive recovery`)
+- Dhal’s thermal oath-seal is cracked, surrendered, and stripped of master authority. It cannot be restored as a working universal key. (`universe/rules.md` — `## Capital thermal oath-seal and sink`)
+
+For the prompt’s required artifact payoffs, the safest choice is three new, individually bounded objects earned within Faris’s local service history:
+
+1. a passive route or elevation record whose information remains legible without magic;
+2. a durable maintenance tool or component with a demonstrated mechanical use;
+3. a public credential, witness token, or access key whose force is social or mechanical, not supernatural.
+
+For each, planning must state who made it, why Faris received it, whether it ever held magic, what living agency it formerly required, what exact material function remains, and how it pays off. Do not repurpose Seris’s family record, the black-sun key, or another character’s unique possession as casual loot.
+
+Stored charge is not a loophole. A bounded artifact may contain a final residual effect only if its established mechanism permits that state and a living user can still release it. Because the ending requires no magic to remain, any such residue must be spent, dissipated into ordinary physical consequences, or become permanently inaccessible before the final state. A nonliving object may never choose how to spend it.
+
+## Directly incompatible or unsupported crossovers
+
+- **Solstice and the Northbridge trio:** both belong to the modern-like era, which must precede this terminal post-Glass-Sea event. Solstice’s survival into the Glass-Sea era is not established, and her crown was completely destroyed. Use records, cultural memory, or thematic echo only; no living-team assembly. (`universe/timeline.md` — `## Undated modern-like western-bay invasion`; `## Undated Northbridge showcase incident`; `universe/rules.md` — `## Solstice's thirteen-tone crown`)
+- **Ravel and the Glass Gate:** Ravel’s placement remains unresolved. Do not use the Gate to gather heroes across eras, escape the ending, or transmit the loss to other times. (`universe/timeline.md` — `## Established era order`; `universe/locations.md` — `## The Glass Gate`)
+- **Queen Street, Deepmarket, and the Realms:** their ontology, ultimate location, and chronology are unresolved. The event cannot be extended through the seam to declare other realms magicless. (`universe/locations.md` — `## Queen Street crossing complex`; `## Deepmarket`)
+- **Ruth’s station, the Morrow supper, and Cinder Annex:** their relationships to one another and to the physical world are explicitly unresolved. The material-world end does not erase the afterlife or certify that infernal localities share the event. Living material-world anchors may lose their ability to perform magic; deceased continuing persons remain protected from unsupported erasure. (`universe/locations.md` — `## Ruth's local afterlife station`; `## Unnamed Morrow family house`; `## Cinder Annex`)
+- **Ersene, Qarsis, Bellweather Hall, Sablewake, Copperwell, Lacebridge, the eleven-foundation city, and the Crown-era kingdom:** their era order relative to Glass-Sea is unresolved. Do not place their named casts in the active ensemble or claim contemporaneous reports without deliberately establishing a new chronology. Their final stories may guide consequence and craft, not serve as an assumed world map.
+- Do not connect distinct dragon groups, crowns, bells, glass motifs, severance systems, or waterworks by resemblance.
+
+## World-scale consequences
+
+The story must make the event global through consequences, not a generic montage. Use the direct Glass-Sea crisis as the spine and a few brief, clearly separated distant glimpses or corroborated reports from the same present material world.
+
+Required consequence classes:
+
+- **Civilizational:** wards, magical cooling, heat, medicine, communication, transport, prophecy, transformation, water systems, and defenses stop wherever living magical input was necessary. Mundane technology and passive physical systems continue.
+- **Ecological:** living magical beings lose supernatural output. Do not assume automatic death or harmless survival; show at least one bounded case and leave species-wide biology unclaimed. Habitats maintained by magical heat, cold, weather, or growth begin ordinary physical failure.
+- **Political:** offices justified by power lose practical leverage; emergency authorities face contested legitimacy; mutual-aid and mundane redundancy become decisive.
+- **Spiritual:** a being satisfying godhood’s worship-power-authority conjunction loses godhood when power ends, though worship, memory, legal authority, and the person may persist. Do not erase belief or declare every former god dead. (`universe/rules.md` — `## Divinity`)
+- **Identity:** practitioners, transformed people, magical beings, and constructed living persons remain persons when their faculties vanish. Loss of function must not be written as loss of moral worth.
+- **Crossing:** material-world portal endpoints requiring living magic close or become inert under their own mechanisms. Do not claim effects on destinations, other eras, or the afterlife.
+- **Material:** nonliving foci become inert objects, archives, salvage, hazards, or memorials. Their ordinary mass, heat, records, geometry, and mechanics remain.
+- **Historical:** no earlier miracle is undone. Scars, deaths, saved cities, surviving people, destroyed artifacts, broken regimes, and remembered choices remain.
+
+The climax’s world-scale difference should be what Faris’s network preserves before cascading failures outrun ordinary response: people, verified records, water, seed stock, nonmagical routes, accountable institutions, and a distributed manual survival protocol. Magic remains gone. The victory is that the world enters its first wholly nonmagical future with more lives and memory intact than it otherwise would have.
+
+## Omissions, not contradictions
 
 Canon does not establish:
 
-- a universal mana pool, maximum-mana statistic, or shared magical resource;
-- the event’s cause, duration, reversibility, geographic reach, or chronology;
-- whether zero represents lost capacity, blocked access, severed connections, exhaustion, suppression, or a measurement failure;
-- whether stored charge survives or can be discharged by a zero-mana living user;
-- whether magical creatures, living artifacts, gods, afterlife participants, or constructed living persons are affected;
-- the protagonist’s identity, profession, setting, specific favors, or artifacts;
-- which services depend on local magic or what mundane redundancies exist.
+- the cause of the terminal event;
+- a universal mana substance or one shared origin for all systems;
+- an exhaustive census of living users or magical species;
+- whether a specific magical being’s ordinary biology survives zero;
+- a complete post-Glass-Sea world map or communication network;
+- Faris’s occupation, age, family, or precise favor ledger;
+- a global scientific method capable of proving permanence in-scene.
 
-These gaps authorize story-local choices only. They do not support a new global rule.
+These are omissions. The prompt supplies authority for the permanent present-world end, not for a universal ontology. Permanence may be established by the story’s authoritative narrative frame or coda even if the characters cannot experimentally prove all future time.
 
-### Choices that would create authority conflict
+## Name constraints and prior-version dispositions
 
-- Declaring that every magical system across the shared world has one mana source and simultaneously reaches zero.
-- Treating `mana` as the objectively correct explanation for all established systems.
-- Making a nonliving artifact independently cast, choose, or rescue.
-- Identifying the event as a scaled version of Adrian’s severance or another named system without supported causal evidence.
-- Placing the story in an established location or era while silently overriding its recorded characters, systems, or chronology.
+`stories/NAMES.md` is production memory, not canon. The coordinator alone changes it.
 
-Any such direction requires a user ruling before planning continues.
+- **Faris:** retain the current reservation for this same story and revalidate it as the revised version’s lifelong nonmagical protagonist. The current Gannet Reach/final-prose rationale is stale and must be rewritten after planning. Keep the mononym unless planning has a strong reason to add a separately checked form. Recheck confusion with `Fiora`.
+- **Tycho, Uma, and Zeke:** they belong only to the rejected bounded version and are not canon. For the recommended Glass-Sea plan, do not import them automatically. The coordinator should mark them as abandoned/prior-version-only production rows while keeping the forms reserved and searchable, not released. If any is deliberately retained as the same revised-story identity, revalidate the name and replace the stale role rationale.
+- **Recurring canon identities:** reuse exact registered forms for the Daughter, Seris Venn, Tovan Rek, Orrin Pell, Sister Calvea Dorn, and any Dhal appearance. Do not give the Daughter an unrevealed personal name or treat `Keeper Below` as proof of godhood.
+- Validate every new helper, title used as a name, named animal, construct, and person-like entity after planning.
 
-## Safe local invention space
+(`stories/NAMES.md` — `## Rules`; registry rows `Faris`, `Tycho`, `Uma`, `Zeke`)
 
-Planning may safely create:
+## Required planning and review checks
 
-- A new unnamed era and bounded settlement, city district, guild network, academy, caravan territory, or similar population.
-- One locally understood magical practice whose users recognize `maximum mana` as a familiar measurement.
-- Multiple corroborating observations—failed workings, inert user displays, medical or infrastructure symptoms—without proving universal reach.
-- An unknown cause, including a story that resolves the immediate crisis without restoring magic or explaining the event cosmologically.
-- Local magical infrastructure with clearly stated dependencies and mundane failure modes.
-- Artifacts with separately defined histories and limits. The safest payloads are passive or mundane functions: maps, seals used as identification, containers, lenses, keys, durable tools, stored records, structural materials, or components repurposed without spellcasting.
-- A precharged artifact only if the plan states who supplied its charge, what remains stored, what living activation it normally requires, and why zero mana does or does not prevent its bounded use.
-- Ordinary favors such as transport, shelter, access, testimony, labor, medical help, engineering knowledge, political cover, or a promised hearing. Each helper may freely accept, refuse, renegotiate, or limit the request.
-- A climax that coordinates several small obligations and artifacts into one practical response rather than converting social trust into literal power.
-
-The cleanest canon-safe approach is a standalone local crisis whose cause remains unknown and whose resolution concerns survival, evacuation, stabilization, or preventing exploitation—not reversing magic loss everywhere.
-
-## Name constraints
-
-No character-facing names have been approved for this story.
-
-Before planning locks names, check every full name, given name, mononym, nickname, alias, username, title used as a name, named animal, construct, and person-like artifact against `stories/NAMES.md` — `## Rules` and the registry. Check exact matches, close spellings, sound-alikes, reversals, and confusable forms.
-
-Avoid accidental reuse of especially relevant existing identities and forms, including `Hadrik`, `Aven`, `Adrian Bellweather` / `Adrian`, `Solstice Evening Bell` / `Solstice`, and established artifact or person-like titles. Reuse is permitted only for the same intentional recurring identity or for a documented, narratively meaningful collision with clear reader disambiguation.
-
-The coordinator, not the architect or prose specialist, registers and later reconciles names.
-
-## Required later checks
-
-The plan must explicitly define:
-
-1. The bounded setting and what population “everyone” actually denotes.
-2. The observations supporting zero mana and the limits of those observations.
-3. The local meaning of `mana` and `maximum mana`.
-4. Whether capacity is lost, inaccessible, suppressed, or merely reported as zero.
-5. Each artifact’s origin, living-agency dependency, stored state, and nonmagical utility.
-6. Immediate practical and emotional consequences.
-7. At least one seeded favor and one seeded artifact with causal payoff.
-8. Why helpers retain meaningful choice rather than becoming magically compelled debts.
-9. How the protagonist’s ordinary competence and relationships decide the climax.
-10. Confirmation that the protagonist remains nonmagical through the ending.
-11. Confirmation that no named canon mechanism, artifact, character, faction, or location is imported by resemblance alone.
-12. A chronology and continuity recheck if planning selects an established era or location.
-13. Full planned-name validation before drafting and final-name reconciliation before release.
+1. Place the story explicitly after the Glass-Sea second dawn and explain the number of elapsed years.
+2. Confirm that all earlier canon deliberately placed before the event remains true and materially consequential.
+3. State that the permanent reach is the present living material world, with no claim about earlier eras, branches, timelines, afterlives, planes, or other worlds.
+4. Define `maximum mana` as one or more cultures’ measurement language, not the cause or universal substance.
+5. Show at least three materially distinct systems or kinds of living users reaching zero; do not merely enlarge a local failure montage.
+6. Give Faris three seeded service histories, three freely renewed favor payoffs, and three individually bounded artifact payoffs.
+7. For every artifact, audit origin, ownership, living-agency requirement, stored state, ordinary residual function, and final disposition.
+8. Preserve Tovan and Orrin’s personhood. Tovan’s seven expressions must remain diverging and non-commanding.
+9. Keep the Daughter’s power loss distinct from death, coronation, absolution, or proof that her mother’s history was meaningless.
+10. Do not restore magic, preserve an autonomous magical reserve, imply temporary suppression, substitute measurement failure, or leave permanence unknown.
+11. Do not make Faris secretly magical, cosmically immune, or able to compel favors.
+12. Confirm that the climax changes survival and memory at world scale through ordinary coordination while magic remains absent.
+13. Audit every named crossover against chronology; unresolved-era casts remain excluded unless a separate authority-supported placement is established.
+14. Review the afterlife boundary expressly: living material-world workings can cease without erasing deceased continuing persons or the underlying afterlife.
+15. Validate planned names, update the four stale production rows through the coordinator, and reconcile final names after the passing final review.
+16. Final continuity review must distinguish an actual contradiction from missing lore and must reject any prose that quietly retreats to local, temporary, reversible, or merely unmeasured loss.
 
 ## Status and ownership
 
@@ -126,5 +177,5 @@ The plan must explicitly define:
 - Canon ruling required now: No
 - Retcon required now: No
 - Planning owner: `story_architect`
-- Coordinator-owned follow-up: name registration and persistence of this brief
-- Later escalation owner: the user, only if planning seeks universe-wide scope, a universal mana ontology, a named-system causal connection, a retcon, or a material reinterpretation of the bounded prompt.
+- Coordinator follow-up: persist this replacement brief and reconcile name rows after planning
+- Later escalation owner: user only if planning moves the terminal event before the Glass-Sea era, extends it beyond the present material world, revives a destroyed artifact, imports an unresolved-era crossover, or rewrites an established bounded mechanism into the universal cause
