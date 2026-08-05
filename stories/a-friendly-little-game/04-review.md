@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/a-friendly-little-game/05-story.md`
-- Review pass: 2
-- Verdict: REVISE
+- Review pass: 3
+- Verdict: PASS
 - Reviewer: `continuity_critic`
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-05T20:01:51.9253501Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-05T20:09:21.7813824Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -91,5 +91,44 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only final review; no files changed. The immutable frontmatter matches story.json, and the release-facing prose otherwise preserves the passing draft exactly. The story fulfills the prompt within its required length, close-second-person unnamed viewpoint, past tense, suspenseful speculative tone, Teen boundary, exact invitation, bar setting, expected companion group, central game, consequential arrivals, completed outcome, and durable practical and relational cost. Gwen, Alba, and Felix make independent choices, reject unauthorized claims, retain distinct conversational strategies, and materially affect the resolution without rescuing the viewpoint character from responsibility. The crooked wager receives no magical or moral authorization; the personally owned key alone transfers, and the lost recovery, fee, advance, trust, and leadership remain unresolved costs. No admitted precedent is repeated or universalized, no crossover is implied, and the ceramic pieces remain nonliving and non-agentic. The 22-item delta is sequential, proposal-only, locally qualified, dependency-linked, dispositioned, targeted to the smallest topical files, and otherwise faithful to the final prose. The exhaustive character-facing inventory contains only registered unique forms Gwen, Alba, and Felix; the three-row, three-column allowlist exactly accounts for the uppercase forecast-display labels, and the strict final name gate passes cleanly. Certification is withheld solely because the final prose and AFLG-16 do not yet establish one coherent contact rule: the stranger claims that touching either rack or piece sustains the marks, but the test depicts both records weakening while a piece remains directly touched and recovering only with renewed rack contact. Resolving that staging and aligning AFLG-12 and AFLG-16 requires no canon ruling, retcon, material prompt reinterpretation, registry change, or new user authority."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — final re-review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "a-friendly-little-game",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/a-friendly-little-game/05-story.md",
+  "authorityManifest": "stories/a-friendly-little-game/authority.json",
+  "handoffLedger": "stories/a-friendly-little-game/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-05T20:09:21.7813824Z",
+  "reviewBasis": "Independent read-only final re-review under guard 08c46f47835a415fae0a82818013cddb at checkpoint 082d224bf736578777749ac270e2a6d66d9c4883 of the revised approximately 3,350-word release-facing story and complete 22-item canon delta against the captured prompt, current lifecycle record, canon brief, scene-ready plan, passing draft, complete review history through pass 2, authority inventory captured from main at b9926d2ce1933941a9e91871d9110028eff22605, ordered handoff ledger through completed sequence 8, and current complete character-name registry. Verified the targeted resolution of AFLG-FINAL-001 against the pass-2 evidence and required outcome: rack contact is now the sole sustaining contact; the other hand writes or wakes a selected piece; direct piece contact alone cannot sustain marks; and every initial write, replay, Alba test, restoration, third write and replay, and final fade follows that rule. Re-audited prompt fulfillment, canon and collision boundaries, chronology, causality, personhood, consent and accountability, game-rule legibility, living source and inert components, visible cost, local scope, close-second-person control, pacing, dialogue distinction, ending and retained consequences, immutable frontmatter, validity of every draft-to-final and pass-2-to-pass-3 change, source fidelity and structure of all 22 delta items, dependencies, dispositions, smallest targets, proposal-only authority, exhaustive character-facing inventory, and the exact three-column reviewed-prose allowlist. The revised final story has SHA-256 9C3EBD111A6487C0C2C433FB35187FF78B3DF5249F68A34BAA180CB5E7F5E94E and the revised delta has SHA-256 C7A923AB911941AB3805218DCAB78EEB8E3FCE8B2D204BABDE94F41A0F51558F. Every inventoried universe file and all 24 admitted canon stories remain unchanged from the authority base, the worktree was clean, and the strict Final story-names/3 gate passed at 2026-08-05T20:07:40.6734028+00:00 with zero warnings and zero errors.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AFLG-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/a-friendly-little-game/05-story.md:69, the stranger now discloses that one hand must remain on the wooden rack, the other hand writes or wakes a piece, piece contact cannot sustain heat, and loss of rack contact cools the marks. Lines 79, 107, 161, 187, 229 and 267 consistently stage rack contact during every write or replay. Lines 203-205 explicitly retain direct contact with the second piece while breaking rack contact, causing both records to weaken, and restore heat only when rack contact resumes; line 325 makes the final rack release fade all writing. Stories/a-friendly-little-game/06-canon-delta.md:246-268, 270-289 and 332-355 now distinguish the living stranger as sole source, the inert rack as distribution focus, the inert pieces as recording surfaces, and rack contact as the sole sustaining condition while preserving the untested twelve-pace claim, visible effort, rapid fade, non-compulsion, and incident-local scope."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only final re-review passed; no files changed. AFLG-FINAL-001 is fully resolved without introducing a new contradiction, name, authority claim, or unrelated prose change. The revised mechanism is precise and internally consistent: the living stranger alone supplies heat-work; one hand on the inert wooden rack sustains distribution to the set; the other hand writes or brightens one inert ceramic record; direct piece contact cannot sustain any mark; breaking rack contact weakens the records despite retained piece contact; renewed rack contact restores them; and final rack release makes all writing fade. AFLG-12, AFLG-13, and AFLG-16 reproduce only that demonstrated behavior and retain the untested range qualifier, visible physiological cost, non-agentic components, non-compulsion, and single-incident limits. The immutable title, slug and creation date remain correct, and all other final prose continues to fulfill the prompt within its required length, close-second-person unnamed viewpoint, past tense, suspenseful speculative tone, Teen boundary, exact invitation, bar setting, expected companions, central game, consequential arrivals, completed outcome, and durable financial and relational cost. Gwen, Alba, and Felix retain independent agency and distinct dialogue strategies; the crooked wager never authorizes another person's property, body, care, labor, identity, or future choice; only the viewpoint character's personally owned key transfers. No precedent is repeated or universalized, no crossover or retcon is implied, and chronology and causality remain coherent. The delta contains 22 unique sequential, final-prose-supported, locally bounded proposal items with complete constraints, dependencies, dispositions and smallest topical targets; authority remains none, canon remains false, and promotion remains unauthorized. The final character-facing inventory contains exactly registered unique forms Gwen, Alba and Felix, while the exact three-row, three-column allowlist accounts for all uppercase forecast-display labels. No unresolved finding, canon ruling, retcon, material prompt reinterpretation, registry change, or new user authority remains; the final artifacts are certification-eligible."
 }
 END_REVIEW_PASS_PAYLOAD
