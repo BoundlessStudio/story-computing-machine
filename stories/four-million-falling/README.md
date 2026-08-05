@@ -2,7 +2,7 @@
 
 - Slug: `four-million-falling`
 - Created: 2026-08-04
-- Current stage: final-edit
+- Current stage: final-review
 - Status: in-progress
 - Canon: no
 - User disposition: pending
