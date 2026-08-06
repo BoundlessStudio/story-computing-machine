@@ -69,7 +69,7 @@ story-local proposals under the exact entries below.
 
 - **AAD-02 — Seyathi (proposed).** **Fact:** Seyathi is a living goddess whose
   Tessellate Grace acts through prepared geometry and whose use can temporarily
-  damage her sense of place. At the Talarum Steps she holds a corrupted pattern
+  damage her sense of place. At the Talarum Steps she holds a coercive pattern
   open, helps free forty-three pilgrims, gives Faris the Missing Tessera, and
   teaches that a promise protects only its exact shape. At the Array she
   voluntarily arms the Tessera under Faris's technically true narrow promise,

@@ -799,6 +799,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 29,
+      "story": "all-accounts-due",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-05T23:58:26.2048548+00:00",
+      "completedAt": "2026-08-06T00:00:12.6207573+00:00",
+      "guardId": "b4a0b170549b426094be70715c53ef11",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_FINAL\nguard_id: b4a0b170549b426094be70715c53ef11\ncurrent_stage: final-review / in-progress\nchanged_outputs:\n  - stories/all-accounts-due/06-canon-delta.md\nfinding_dispositions:\n  - id: AAD-FINAL-005\n    disposition: RESOLVED\n    evidence: AAD-02 now says Seyathi holds a `coercive pattern` open, matching release-facing prose and AAD-10. Her assistance, cost, gift, voluntary but incompletely informed arming, surviving personhood and grievance, scope, dependencies, provenance, disposition, and target remain unchanged.\nfinal_story:\n  changed: false\n  byte_identical: true\n  sha256: CE18A5563CF19D750CB246050458C7FD3B29A317829F5BC7971B64C104A78293\ndelta_audit:\n  sequential_ids: 37/37\n  required_fields: complete\n  character_inventory: 7 exhaustive rows\n  non_character_allowlist: 27 rows, exactly 3 columns\n  authority_status: none\n  delta_status: proposal only\n  promotion_status: not authorized and not applied\n  aad_10_consistency: PASS\nname_check: Final story-names/3 PASS; zero warnings; zero errors\nstory_integrity: PASS\ngit_diff_check: PASS\nscope_check: PASS; only stories/all-accounts-due/06-canon-delta.md changed\nchange_report: Replaced the single unsupported `corrupted pattern` qualifier in AAD-02 with the prose-supported `coercive pattern`, re-audited all 37 delta entries, and preserved the final story, names, structure, endpoint, inventory, allowlist, and proposal posture.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
