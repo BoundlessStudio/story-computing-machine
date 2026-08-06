@@ -51,6 +51,33 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 3,
+      "story": "strength-of-ten",
+      "actor": "prose_writer",
+      "mode": "CREATE_DRAFT",
+      "status": "READY",
+      "startedAt": "2026-08-06T03:11:16.0334761+00:00",
+      "completedAt": "2026-08-06T03:21:43.7399162+00:00",
+      "guardId": "8cc0afa9048e4bbeb51e34d80fea2cb2",
+      "persister": "prose_writer",
+      "report": "status: READY\nstory_slug: strength-of-ten\nmode: CREATE_DRAFT\nguard_id: 8cc0afa9048e4bbeb51e34d80fea2cb2\nchanged_file: stories/strength-of-ten/03-draft.md\nword_count: 3285 prose words\nrequirement_validation: PASS — complete seven-scene close-third, past-tense, PG-13 story; defenseless Redwater, bounded tenfold strength, enforceable refusal, reciprocal compact, meaningful northern deployment, Ninepin resolution, separate costs, and marriage-void ending are all resolved.\ncanon_validation: PASS — current authority base matches local main; local magic and political mechanisms remain bounded; no established-setting collision, universalized rule, unsupported army, romanticized coercion, or user ruling required.\nname_validation: PASS — only registered character-facing forms Prince Lysander/Lysander, King Gorm/Gorm, and Princess Sigrun/Sigrun are used; unnamed figures remain common-role descriptions.\ncraft_dialogue_revision: PASS — corrected courier chronology, clarified Harrowfast’s independent trade interest, verified speaker distinction, tactic changes, subtext, concrete action beats, and earned conversational endings.\ndepartures_from_plan: none\nscope_check: PASS — only stories/strength-of-ten/03-draft.md changed; git diff check clean.\nstale_precondition: none — story.json stage prompt is the expected pre-candidate lifecycle state; guarded handoff chronology supplies the in-progress stage.",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/strength-of-ten/00-prompt.md",
+        "stories/strength-of-ten/01-canon-brief.md",
+        "stories/strength-of-ten/02-story-plan.md",
+        "stories/strength-of-ten/authority.json",
+        "stories/strength-of-ten/handoffs.json",
+        "stories/strength-of-ten/story.json"
+      ],
+      "outputs": [
+        "stories/strength-of-ten/03-draft.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
