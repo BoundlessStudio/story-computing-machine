@@ -56,9 +56,11 @@ one named stage.
 6. If the verdict is `REVISE`, delegate only blocking fixes to `story_writer`,
    repeat the pre-review check, and request one fresh review. Ask the user only
    when a canon ruling, retcon, or material prompt reinterpretation is required.
-7. After `PASS`, run `python pages/build.py capture <slug>` once and commit
-   `pages/catalog.json`. Capture is the final story handoff; GitHub CI performs
-   final validation and publication.
+7. After `PASS`, run `Test-Stories.ps1 -Phase Final` locally, capture the story
+   with `python pages/build.py capture <slug>` once, run
+   `python pages/build.py check`, and commit `pages/catalog.json`. Capture is
+   the final story handoff; GitHub Actions only builds and publishes Pages from
+   the stored catalog after merge.
 
 Do not create a canon brief, authority snapshot, draft copy, canon delta,
 handoff guard, release record, promotion record, story README, or index row.
@@ -79,9 +81,9 @@ person-like being, or place:
 - use a single `None` row when the story has no named noun of that kind.
 
 `PreReview` validates the scaffold, usable prompt/outline/story, and exact
-outline declarations. CI uses `-Phase Final` to validate the final review
-structure, exact inventory, and continuity verdict. Neither mode substitutes
-for the reviewer's semantic judgment.
+outline declarations. Run `-Phase Final` locally after review to validate the
+final review structure, exact inventory, and continuity verdict. Neither mode
+substitutes for the reviewer's semantic judgment.
 
 ## Review and continuity
 
@@ -110,8 +112,9 @@ needed.
 
 ## Pages
 
-`pages/catalog.json` is the publication boundary. GitHub Pages validates and
-renders only that stored snapshot; it never traverses `stories/`. The
+`pages/catalog.json` is the publication boundary. GitHub Pages builds and
+publishes only that stored snapshot; it never traverses `stories/` or runs
+story validation. The
 `capture` command requires a passing review and copies one completed story into
 the catalog without rerunning full validation. `capture-all` exists only for an
 intentional full refresh, not for CI.
@@ -121,4 +124,4 @@ intentional full refresh, not for CI.
 A current story is complete when its four files exist, `review.md` says `PASS`,
 people and places are inventoried, all three continuity lines pass, and the
 story has been captured into `pages/catalog.json`. Repository acceptance also
-requires the final CI validator to pass.
+requires the local final validator and catalog check to pass.
