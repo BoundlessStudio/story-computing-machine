@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 10
-- Verdict: REVISE
+- Review pass: 11
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-06T00:16:21.6559976Z
+- Unresolved Major findings: 0
+- Updated: 2026-08-06T00:23:44.0546336Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -823,5 +823,107 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only pass-10 authority-refresh review; no repository file was changed. The refreshed authority manifest is current and valid, and the unchanged story and delta retain every creative, continuity, prompt, canon, structural, mechanical, prose-readiness, name, and terminal-scope success certified in pass 9. All nine prior finding dispositions remain resolved. Certification is withheld solely for AAD-FINAL-007: handoff sequence 8 duplicates pass 2 instead of preserving the exact official pass-3 PASS payload. This is a coordinator-owned production-record repair requiring no prose or delta change, canon ruling, retcon, prompt reinterpretation, or new user authority."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 11 — final certification review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 11,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-06T00:23:44.0546336Z",
+  "reviewBasis": "Decisive independent read-only final pass-11 certification audit under guard dea5cc5064a741969c7d863350b992b6 at checkpoint e7abfc68e07bf5cb216a29261860008211afa666. Reviewed current 05-story.md SHA-256 CE18A5563CF19D750CB246050458C7FD3B29A317829F5BC7971B64C104A78293 and 06-canon-delta.md SHA-256 61609CD722ECA776AD3F20D9E5C9AAA468A134F6ABEEA33C1CDF94EAFDAC7214 against the prompt, lifecycle record, canon brief, plan and dialogue profiles, official review history through pass 10, repaired v3 handoff ledger through sequence 31, refreshed authority manifest, current registry, routed craft and dialogue guidance, and current LOCKED/CANON authority. The only post-pass-10 changes are the exact sequence-8 report correction and persistence of pass 10 in 04-review.md and ledger sequence 31; all other sequence-8 fields are byte-equivalent as parsed, and the story, delta, authority manifest, registry, and other inputs are unchanged. Exhaustively joined every official REVIEW_DRAFT/REVIEW_FINAL payload to every review handoff by guard, pass, and mode, then compared normalized full reports character-for-character. All ten official passes have exactly one matching ledger entry: pass 1/sequence 4, pass 2/sequence 6, pass 3/sequence 8, pass 4/sequence 20, pass 5/sequence 22, pass 6/sequence 24, pass 7/sequence 26, pass 8/sequence 28, pass 9/sequence 30, and pass 10/sequence 31. There are zero duplicate passes, duplicate guards, missing official payloads, missing handoffs, mode mismatches, or report mismatches. New-AuthorityManifest -Verify exits zero with baseCommit b8df6a9cf7b48ed2eded47385b4e69bcbfb7a20f equal to origin/main and the HEAD/origin-main merge base, and its universeFiles and canonStories arrays exactly match current inventory. Test-StoryHandoffs -RequireReleaseChain reports 31 entries, releaseReady true, and no errors; Test-StoryIntegrity passes; and strict Final story-names/3 passes at 2026-08-06T00:22:26.5101540+00:00 with zero warnings or errors. Reconfirmed immutable frontmatter, 5,472 prose words, exactly six flashback bodies of 570, 573, 465, 507, 456, and 439 words totaling 3,010 or 55.01%, and a 2,110-word uninterrupted final sequence or 38.56%. Re-audited all 37 unique sequential delta items and their complete semantic fields; seven character identities; 27-row three-column allowlist; authority-none, proposal-only, promotion-unauthorized posture; prompt fulfillment; chronology; Mortal Latch continuity; Array free-fall; six systems; eight relics; six renewed choices; all-roots proof; informed-participant complicity; Seyathi's credible uninformed choice and betrayal; casualties; Teen ceiling; dialogue distinction; permanent present-material-world scope; personhood; declaration causality; and exact endpoint. The worktree is clean and git diff checking passes.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its catch, counterweight, sheave, and capstan load path before pass 2. That historical disposition remains resolved; none of the bounded setting or mechanism survives."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its inverted lifelong-zero metaphor before pass 2. The replacement independently establishes at stories/all-accounts-due/05-story.md:11, 35, and 373-375 that Faris has never had magic, gains no hidden capacity, and remains normally vulnerable."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded delta removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. None of its 17 items or creative content survives in the current replacement."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:227-253 consistently uses they/them forms for Ekkorath, matching the plan, registry, and final inventory. Faris remains he/him."
+    },
+    {
+      "id": "AAD-FINAL-002",
+      "priorPass": 5,
+      "resolvedInPass": 6,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-03 assigns coup exposure to the rescued demon young; AAD-06 assigns written-order exposure to Faris; AAD-10 preserves Seyathi's invitation to ask and fresh agreement; AAD-20 contains no unsupported `lawfully` qualifier; and AAD-22 has direct prose support for its local all-roots counterfactual."
+    },
+    {
+      "id": "AAD-FINAL-003",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-09 contains no unsupported Axis dimension or Latch-recess shape. AAD-21 limits its extinction inventory to the demonstrated Unhatched Form stored exchanges, impossible faculties, shared senses, keeper awareness, forced hybrids, and Kindred Graft reserves."
+    },
+    {
+      "id": "AAD-FINAL-004",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:255-421 is one uninterrupted post-sixth-flashback sequence containing all six renewed choices, assault, declaration, extinction, and Seyathi endpoint. Independent counting confirms the required 55.01% flashback-only and 38.56% uninterrupted-final proportions."
+    },
+    {
+      "id": "AAD-FINAL-005",
+      "priorPass": 8,
+      "resolvedInPass": 9,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-02 at stories/all-accounts-due/06-canon-delta.md:70-92 now says Seyathi holds a `coercive pattern` open, matching stories/all-accounts-due/05-story.md:27-61 and AAD-10's exact account. Her assistance, cost, gift, arming, personhood, grievance, scope, dependencies, provenance, disposition, and target remain intact."
+    },
+    {
+      "id": "AAD-FINAL-006",
+      "priorPass": 8,
+      "resolvedInPass": 9,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 26 preserves the exact official pass-7 REVISE report under guard 6a73e2fce9ae4edb8d1f028cd6bac77a, with sequence and surrounding fields unchanged. Sequence 27 legitimately records the ensuing AAD-FINAL-003/004 revision; sequence 28 exactly preserves pass 8; and sequence 29 records only the AAD-FINAL-005 delta correction."
+    },
+    {
+      "id": "AAD-FINAL-007",
+      "priorPass": 10,
+      "resolvedInPass": 11,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 8 now retains its original sequence, guard fa2b1fdece0d490390d131a0476cc19d, actor, mode, status, timestamps, persister, inputs, outputs, and resolution fields while its report matches the official pass-3 PASS payload in 04-review.md character-for-character after newline normalization. Exhaustive joining confirms all ten official review passes have exactly one matching ledger report, including pass 2 only at sequence 6 and pass 3 only at sequence 8; no duplicate, missing, guard-mismatched, mode-mismatched, or payload-mismatched review record remains."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only pass-11 final review; no repository file was changed. AAD-FINAL-007 is fully resolved by the exact sequence-8 report repair, and every earlier finding disposition remains resolved. Current authority, strict names, the release handoff chain, story integrity, artifact hashes, frontmatter, structure, pacing, chronology, mechanics, dialogue, casualties, originality, all 37 delta entries, seven-character inventory, 27-row allowlist, authority posture, declaration causality, permanent material-world scope, personhood protections, and the exact final sentence all pass. The final artifacts have zero unresolved Critical, Major, or Minor findings and are genuinely certification-eligible; no canon ruling, retcon, prompt reinterpretation, prose or delta revision, record repair, or new user authority remains."
 }
 END_REVIEW_PASS_PAYLOAD
