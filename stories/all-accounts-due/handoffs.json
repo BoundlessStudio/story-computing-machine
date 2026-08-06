@@ -955,6 +955,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 34,
+      "story": "all-accounts-due",
+      "actor": "continuity_critic",
+      "mode": "REVIEW_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-06T01:09:25.5773025+00:00",
+      "completedAt": "2026-08-06T01:24:12.3154108+00:00",
+      "guardId": "e5dd70118e3b4b94a98f0d371ef5a3fc",
+      "persister": "coordinator",
+      "report": "status: READY\nREVIEW_PASS_PAYLOAD",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/04-review.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }

@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 11
+- Review pass: 12
 - Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
 - Unresolved Major findings: 0
-- Updated: 2026-08-06T00:23:44.0546336Z
+- Updated: 2026-08-06T01:18:43.5621459+00:00
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -925,5 +925,107 @@ REVIEW_PASS_PAYLOAD
   "findings": [],
   "certificationEligible": true,
   "changeReport": "Read-only pass-11 final review; no repository file was changed. AAD-FINAL-007 is fully resolved by the exact sequence-8 report repair, and every earlier finding disposition remains resolved. Current authority, strict names, the release handoff chain, story integrity, artifact hashes, frontmatter, structure, pacing, chronology, mechanics, dialogue, casualties, originality, all 37 delta entries, seven-character inventory, 27-row allowlist, authority posture, declaration causality, permanent material-world scope, personhood protections, and the exact final sentence all pass. The final artifacts have zero unresolved Critical, Major, or Minor findings and are genuinely certification-eligible; no canon ruling, retcon, prompt reinterpretation, prose or delta revision, record repair, or new user authority remains."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 12 — final review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 12,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-06T01:18:43.5621459+00:00",
+  "reviewBasis": "Decisive independent read-only final pass-12 review under guard e5dd70118e3b4b94a98f0d371ef5a3fc at clean checkpoint 379f74bc36f17618e301cbd31ddda405289823dd. Reviewed current 05-story.md SHA-256 292E29CFE17E210ECFF5258C9D59788E953424845E532099B651BA7B7A32B61B and 06-canon-delta.md SHA-256 923472562CC20C1B9CB9D28473A4A60A12D669FD1AEDD0CE1A52BB0546AD78A1 against the complete prompt, lifecycle record, canon brief, plan and dialogue profiles, replacement draft, official review history through pass 11, refreshed authority manifest, ordered v3 handoff ledger through sequence 33, current registry, routed craft and dialogue guidance, current LOCKED/CANON authority, final prose, and all 37 delta entries. Git comparison confirms the only post-pass-11 story/delta changes are the user-approved line-417 clarification and AAD-36's matching direct quotation. The sentence clearly and correctly attributes the inference to Seyathi, accurately identifies Faris's deliberate omission, follows her exact recitation of his promise, fits her balanced exact-promise voice, remains speakable under pressure, and functions as a personal accusation rather than redundant narrator exposition. Re-audited every prior finding disposition, prompt fulfillment, chronology, causal mechanics, Mortal Latch continuity, Array free-fall, six-system exhaustion, eight relics, six renewed choices, all-roots proof, five-participant complicity, Seyathi's credible uninformed choice and moral claim, casualty accounting, Teen ceiling, dialogue distinction, permanent present-material-world scope, personhood, declaration causality, exact endpoint, delta evidence and authority posture, seven character identities, and the 27-row three-column allowlist. Independently reproduced 5,480 prose words, exactly six flashback bodies of 570, 573, 465, 507, 456, and 439 words totaling 3,010 or 54.93%, and a 2,118-word uninterrupted final sequence or 38.65%; the story still satisfies the prompt's approximate proportions and ends exactly with `Nothing moved. Nothing answered.` New-AuthorityManifest -Verify exits zero; strict Final story-names/3 passes at 2026-08-06T01:16:02.3551534+00:00 with zero warnings and errors; the 33-entry ledger validates with no unresolved entries; Test-StoryIntegrity passes; and all eleven official prior review payloads each match exactly one ledger report by pass, guard, mode, and normalized content. Release readiness is currently false only because sequence 33 correctly invalidated pass 11 and this pass-12 payload has not yet been persisted; release.json is correspondingly uncertified and requires coordinator-owned reconsideration after this handoff completes.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its catch, counterweight, sheave, and capstan load path before pass 2. That historical disposition remains resolved; none of the bounded setting or mechanism survives."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its inverted lifelong-zero metaphor before pass 2. The replacement independently establishes at stories/all-accounts-due/05-story.md:11, 35, and 373-375 that Faris has never had magic, gains no hidden capacity, and remains normally vulnerable."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded delta removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. None of its 17 items or creative content survives in the current replacement."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:227-253 consistently uses they/them forms for Ekkorath, matching the plan, registry, and final inventory. Faris remains he/him."
+    },
+    {
+      "id": "AAD-FINAL-002",
+      "priorPass": 5,
+      "resolvedInPass": 6,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-03 assigns coup exposure to the rescued demon young; AAD-06 assigns written-order exposure to Faris; AAD-10 preserves Seyathi's invitation to ask and fresh agreement; AAD-20 contains no unsupported `lawfully` qualifier; and AAD-22 has direct prose support for its local all-roots counterfactual."
+    },
+    {
+      "id": "AAD-FINAL-003",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-09 contains no unsupported Axis dimension or Latch-recess shape. AAD-21 limits its extinction inventory to the demonstrated Unhatched Form stored exchanges, impossible faculties, shared senses, keeper awareness, forced hybrids, and Kindred Graft reserves."
+    },
+    {
+      "id": "AAD-FINAL-004",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:255-421 is one uninterrupted post-sixth-flashback sequence containing all six renewed choices, assault, declaration, extinction, and Seyathi endpoint. Independent counting confirms the required 55.01% flashback-only and 38.56% uninterrupted-final proportions."
+    },
+    {
+      "id": "AAD-FINAL-005",
+      "priorPass": 8,
+      "resolvedInPass": 9,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-02 at stories/all-accounts-due/06-canon-delta.md:70-92 now says Seyathi holds a `coercive pattern` open, matching stories/all-accounts-due/05-story.md:27-61 and AAD-10's exact account. Her assistance, cost, gift, arming, personhood, grievance, scope, dependencies, provenance, disposition, and target remain intact."
+    },
+    {
+      "id": "AAD-FINAL-006",
+      "priorPass": 8,
+      "resolvedInPass": 9,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 26 preserves the exact official pass-7 REVISE report under guard 6a73e2fce9ae4edb8d1f028cd6bac77a, with sequence and surrounding fields unchanged. Sequence 27 legitimately records the ensuing AAD-FINAL-003/004 revision; sequence 28 exactly preserves pass 8; and sequence 29 records only the AAD-FINAL-005 delta correction."
+    },
+    {
+      "id": "AAD-FINAL-007",
+      "priorPass": 10,
+      "resolvedInPass": 11,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 8 now retains its original sequence, guard fa2b1fdece0d490390d131a0476cc19d, actor, mode, status, timestamps, persister, inputs, outputs, and resolution fields while its report matches the official pass-3 PASS payload in 04-review.md character-for-character after newline normalization. Exhaustive joining confirms all ten official review passes have exactly one matching ledger report, including pass 2 only at sequence 6 and pass 3 only at sequence 8; no duplicate, missing, guard-mismatched, mode-mismatched, or payload-mismatched review record remains."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only pass-12 final review; no repository file was changed. The user-approved clarification succeeds: Seyathi's new accusation is unambiguous, correctly attributed, natural for her exact-promise conversational logic, faithful to Faris's deliberate omission and the established deception, emotionally personal, and not materially over-expository. AAD-36 quotes the same sentence and changes no reusable fact, scope, dependency, disposition, target, or authority posture. Every prior finding disposition remains resolved. Frontmatter, chronology, structure, six flashbacks, uninterrupted climax, six systems, eight relics, six choices, mechanics, casualties, dialogue distinction, names, allowlist, all 37 delta items, permanent bounded extinction, personhood, declaration causality, and the exact endpoint remain intact. The final artifacts have zero unresolved Critical, Major, or Minor findings and are genuinely certification-eligible once the coordinator persists this payload, completes the guarded handoff, and reconsiders the uncertified release. No canon ruling, retcon, prompt reinterpretation, prose or delta revision, registry repair, ledger repair, or new user authority is required."
 }
 END_REVIEW_PASS_PAYLOAD
