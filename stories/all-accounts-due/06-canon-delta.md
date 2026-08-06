@@ -718,7 +718,7 @@ story-local proposals under the exact entries below.
   supply it; their complicity does not absolve Faris or make Seyathi informed.
   The visible six-strike arrangement and hidden terminal connection support her
   narrow reading. After the wave, Seyathi repeats the promise and says
-  unambiguously, `You left out only.` She strikes her heel against the slab
+  unambiguously, `You never said the Yoke would be the *only* thing made powerless.` She strikes her heel against the slab
   falling beside her, assumes the first Tessellate position, and makes the
   two-finger turn that formerly forced prepared surfaces and bodies to kneel.
   Nothing moves or answers. **Exact local scope:** Faris and Seyathi's

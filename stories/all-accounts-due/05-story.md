@@ -414,7 +414,7 @@ She looked from the powder of the Missing Tessera to Hurzai's dead fire, from th
 
 Faris did not look away.
 
-Seyathi said, “You left out *only*.”
+Seyathi said, “You never said the Yoke would be the *only* thing made powerless.”
 
 She struck her heel against the slab falling beside her, forced her body into the first position of Tessellate Grace, and turned two fingers at him—the gesture that had once made every prepared surface seize every body upon it.
 
