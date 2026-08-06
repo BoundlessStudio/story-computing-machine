@@ -44,9 +44,9 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Story 
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 ```
 
-The agent runs only the targeted pre-review phase. GitHub CI runs the final
-phase. Both ignore locked legacy bundles; semantic noun extraction and
-continuity judgment remain the reviewer's responsibility.
+The agent runs the targeted pre-review phase before review and the final phase
+locally after a passing review. Both ignore locked legacy bundles; semantic
+noun extraction and continuity judgment remain the reviewer's responsibility.
 
 ## Pages
 
@@ -58,4 +58,13 @@ python pages/build.py capture <slug>
 ```
 
 Capture requires a passing review but does not duplicate the full story check.
-GitHub Pages subsequently validates and renders `pages/catalog.json` alone.
+Verify the stored snapshot and reader locally:
+
+```powershell
+python pages/build.py check
+python -m unittest discover -s pages -p "test_*.py" -v
+python pages/build.py build --output _site
+```
+
+After merge, GitHub Actions only builds, uploads, and deploys
+`pages/catalog.json`; it does not rerun story validation or reader tests.
