@@ -25,9 +25,9 @@
 - Aliases: None
 - Notes:
   - Use varied sentence rhythm, concrete detail, and em dashes sparingly.
-  - Consult `stories/NAMES.md` before choosing a character-facing name. Default
-    to a unique, readily distinguishable name across all story states and
-    archived reference material.
+  - Consult `stories/NAMES.md` and current `review.md` noun inventories before
+    choosing a person or place name. Default to a unique, readily
+    distinguishable form.
   - Treat repeated or easily confused character names as accidental reuse to
     fix unless the same identity recurs or the reuse has documented narrative
     meaning and a clear reader-disambiguation strategy.
@@ -65,7 +65,7 @@
     explored when relevant, but treatment remains non-graphic,
     non-instructional, and non-endorsing, emphasizing character and consequence
     rather than spectacle.
-  - Record audience, intensity, and content notes in each `00-prompt.md`.
+  - Record audience, intensity, and content notes in each `prompt.md`.
   - If a passage cannot be drafted safely, narrow the narrative camera to
     implication, emotion, or aftermath rather than attempting safeguard evasion.
   - Applicable platform policy is always the floor; these project limits are

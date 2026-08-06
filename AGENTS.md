@@ -1,119 +1,111 @@
 # Story Computing Machine
 
-This repository is a shared-universe fiction workspace. Prose and universe notes are the product.
+This repository is a shared-universe fiction workspace. The prose and the
+universe notes are the product; process records are not.
 
-## Authority and records
+## Two story layouts
 
-- `universe/` is authoritative for shared-universe facts. Read `universe/README.md` before interpreting canon.
-- `stories/<slug>/story.json` v2 is the lifecycle authority. `stories/INDEX.md` and each story README are checked projections.
-- `stories/NAMES.md` is production memory, not canon.
-- `authority.json` v2 records the selected base branch commit, universe-file inventory, and admitted canon stories.
-- `handoffs.json` v3 is an ordered specialist-work ledger.
-- `release.json` v3 records the current release decision, review result, name result, artifacts, and dependencies.
-- `promotion.json` v2 records one explicitly authorized canon transaction.
-- `stories/legacy-acceptance.json` is the user attestation for the listed legacy stories. Do not invent missing historical specialist work.
-- `sources/` contains inert evidence with `authority: none`.
-- `schemas/pipeline-contract.json` is the strict shared field contract.
+A current story has exactly four files:
 
-Templates, prompts, plans, drafts, reviews, proposed deltas, source evidence, and anything marked `authority: none` do not establish canon.
+- `prompt.md` — the verbatim request and its few explicit constraints.
+- `outline.md` — the causal shape, proposed people and places, and relevant
+  continuity boundaries.
+- `story.md` — the reader-facing prose and its minimal metadata.
+- `review.md` — the final people/place inventory and continuity verdict.
 
-## Trust model
+Any existing story directory containing `05-story.md` is a locked legacy
+bundle. Do not edit, migrate, validate, or regenerate it. Its extra files are
+historical residue from the retired pipeline. Only the explicit Pages capture
+command understands that layout; normal validation and site builds do not.
 
-Correctness is established from the current checkout, the branch and pull-request history, required co-changes, strict schemas, transactional writes, specialist role boundaries, automated checks, and human acceptance. The project does not maintain custom cryptographic file-binding records.
+## Authority
 
-Git commits establish stage chronology. Specialist work begins from a clean checkpoint on a non-protected branch. Temporary raw byte copies may be used only for rollback and concurrent-write comparison; they are never durable evidence.
+- `universe/` is authoritative for shared facts. Read `universe/README.md`
+  before interpreting canon.
+- `universe/style-guide.md` is the binding narrative policy.
+- `stories/NAMES.md` is the frozen name baseline for legacy stories, not canon.
+- Current `review.md` files extend production memory for new people and places.
+- Plans, reviews, prompts, source notes, and non-canon stories never establish
+  shared-universe facts.
 
-## Branch workflow
+## Branches
 
-- Never mutate `stories/` or `universe/` on `main`.
-- New stories start on `codex/story-<slug>` from current `main`.
-- Checkpoint the branch before every specialist delegation.
-- Ordinary local work runs fast story-scoped checks. Pull requests run the complete suite, repository validator, source and universe checks, pull-request policy, and reader-site test/build.
-- `main` accepts squash merges through pull requests only. It requires all configured checks, must be current before merge, blocks force pushes and deletion, and has no routine administrative bypass.
-- Do not require signatures, CODEOWNERS, or approving reviews unless the user changes this policy.
+Never change `stories/` or `universe/` on `main`. Start a new story on
+`codex/story-<slug>` and merge through a pull request. Git is the history; do
+not create manifests, ledgers, receipts, release certificates, or duplicate
+lifecycle records.
 
-## Lifecycle
+## `[WP]` workflow
 
-Keep these `story.json` axes independent: `stage`, `status`, `canon`, `userDisposition`, `publish`, and `provenance`.
+Use the `story-room` skill for a prompt tagged `[WP]` unless the user requests
+one named stage.
 
-| Status | Stage | Canon | Disposition | Promotion date | Publication |
-| --- | --- | --- | --- | --- | --- |
-| `in-progress` | nonterminal | false | pending | null | false |
-| `candidate` | candidate | false | pending or accepted | null | optional |
-| `final` | final | true | accepted | required | optional |
-| `abandoned` | abandoned | false | rejected | null | false |
+1. Scaffold the four files with `new-story.ps1` and preserve the prompt.
+2. Read the universe README and style guide. Search only the universe entries,
+   legacy names, and current reviews relevant to this prompt.
+3. Write a compact, scene-ready `outline.md`. Check proposed people and places
+   before drafting.
+4. Write the complete story directly to `story.md`; there is no separate draft
+   or final-edit pass.
+5. Delegate one independent review to `story_reviewer`. The reviewer writes
+   only `review.md` and checks prompt fulfillment, every story-facing person and
+   place noun, universe continuity, chronology, causality, and internal facts.
+6. If the verdict is `REVISE`, fix only blocking findings and request one fresh
+   review. Ask the user only when a canon ruling, retcon, or material prompt
+   reinterpretation is actually required.
+7. Run `Test-Stories.ps1` once. A passing review makes a non-canon story
+   complete.
+8. If the story should appear on Pages, run
+   `python pages/build.py capture <slug>` once and commit `pages/catalog.json`.
 
-Use transaction entry points; do not hand-edit coordinated lifecycle projections.
+Do not create a canon brief, authority snapshot, draft copy, canon delta,
+handoff guard, release record, promotion record, story README, or index row.
 
-```powershell
-pwsh -NoProfile -File .agents/skills/story-integrity/scripts/Complete-StoryCandidate.ps1 -Story <slug>
-pwsh -NoProfile -File .agents/skills/story-integrity/scripts/Set-StoryLifecycle.ps1 -Story <slug> -Action <Accept|Reject|Publish|Unpublish|Reopen>
-```
+## People and places
 
-## Complete `[WP]` workflow
+The outline proposes names; the review inventories the final prose. For every
+story-facing proper noun that names a person, person-like being, or place:
 
-A request containing `[WP]` uses the `story-room` skill unless the user requests a named stage only.
+- label it `new` or `recurring` in the review;
+- search `stories/NAMES.md`, current `review.md` files, and the relevant
+  `universe/characters.md` or `universe/locations.md` entries;
+- avoid accidental exact, alias, close-spelling, and easily confused reuse;
+- explain intentional recurrence briefly; and
+- use a single `None` row when the story has no named noun of that kind.
 
-1. Scaffold with `new-story.ps1`; preserve the verbatim prompt and explicit assumptions in `00-prompt.md`.
-2. Create `authority.json` from the branch base commit and current inventories.
-3. Delegate canon research to `canon_librarian`; the coordinator persists `01-canon-brief.md`.
-4. Delegate a scene-ready plan to `story_architect`, which writes only `02-story-plan.md`.
-5. Validate and register every planned character-facing name.
-6. Delegate draft creation or revision to `prose_writer`, which writes only `03-draft.md`.
-7. Delegate draft review to `continuity_critic`; the coordinator appends the exact 20-field payload to `04-review.md`.
-8. Resolve every Critical or Major finding. Stop for user authority when a canon ruling, retcon, or material prompt reinterpretation is required.
-9. Delegate final creation or revision to `story_editor`, which writes only `05-story.md` and `06-canon-delta.md`.
-10. Delegate final review to `continuity_critic`; revise and repeat until the latest final pass is `PASS` with zero unresolved Critical and Major findings.
-11. Reconcile final names and run the strict final gate.
-12. Complete the candidate transaction and run story-scoped validation.
-13. Run the full validator in the pull request. Leave canon false unless the user explicitly authorizes promotion.
+The validator catches declared exact collisions and missing review structure.
+The reviewer owns exhaustive extraction and semantic confusion checks.
 
-Dependent stages are sequential. Independent read-only research may be parallelized. Every specialist delegation states the slug, mode, inputs, allowed outputs, current stage, and acceptance condition.
+## Review and continuity
 
-## Specialist handoffs
+A `PASS` review requires all three continuity lines to pass:
 
-Open a handoff with `New-StoryHandoffGuard.ps1`. It requires a UUID, a clean/checkpointed branch, exact inputs, and an output allowlist. Complete it with `Complete-StoryHandoffGuard.ps1 -GuardId <id> -ReportText <exact returned payload>`. Completion checks `git diff --name-only`, rejects out-of-scope changes, and appends one sequence-numbered ledger event. Abort never discards work.
+- `Prompt` — the story fulfills the request and resolves its central promise.
+- `Universe` — people, places, chronology, capabilities, and facts do not
+  contradict current `LOCKED` or `CANON` notes.
+- `Internal` — the story is causally coherent and keeps its own facts straight.
 
-Role ownership:
+Review prose concisely. Record only blocking findings and short useful notes;
+do not preserve reviewer chain-of-thought, repeated summaries, or audit logs.
 
-| Role | Writes |
-| --- | --- |
-| `canon_librarian` | nothing; returns canon-brief payload |
-| `story_architect` | `02-story-plan.md` |
-| `prose_writer` | `03-draft.md` |
-| `continuity_critic` | nothing; returns one review payload |
-| `story_editor` | `05-story.md`, `06-canon-delta.md` |
-| `canon_steward` | approved topical `universe/*.md` entries only |
-| coordinator | read-only payload persistence, metadata, index, registry, releases, promotion records |
+## Canon
 
-## Review and release
+New stories begin with `canon: false`. Canon promotion requires explicit user
+approval for one named story, a fresh passing review against current authority,
+and direct edits to the smallest relevant `universe/*.md` entries. Then set
+`canon: true` in `story.md`. A conflict with `LOCKED` canon stops for a user
+ruling. Git records the transaction; no separate delta or promotion file is
+needed.
 
-Each persisted review payload uses the exact fields in `schemas/pipeline-contract.json`. It identifies the story, mode, sequence pass, reviewed path, current authority and ledger paths, reviewer, time, basis, verdict, block ownership, findings, unresolved counts, eligibility, and change report. Preserve every pass.
+## Pages
 
-A v3 release is certified only when the latest final review is `PASS`, Critical and Major counts are zero, the strict final name gate passes, and required pipeline records exist. A release records paths and decision facts, not duplicate file identities. Final prose, delta, review, or relevant registry changes require release reconsideration in the same pull request.
-
-The 24 stories named in `stories/legacy-acceptance.json` use `provenance: legacy-user-attested`. They are exempt from nonexistent historical authority, handoff, and promotion records when their lifecycle projections, simplified releases, and acceptance entries agree. This exemption never applies to a new pipeline story.
-
-## Name discipline
-
-Read `stories/NAMES.md` before proposing any character-facing name. Register planned names after planning and reconcile them after final review. Check exact matches, aliases, close spellings, reversals, and confusable forms. Reuse requires an intentional story reason and documented identity relationship. The coordinator alone edits the registry. Abandoned rows remain searchable unless explicitly released.
-
-## Writing guidance
-
-`universe/style-guide.md` remains the compact binding policy layer for narrative tone, audience boundaries, personhood, and continuity. Practical, non-canonical craft guidance lives in `.agents/writing-guides/`; read its `README.md` for precedence and stage routing. Do not add craft manuals to the universe authority inventory or treat them as in-world facts.
-
-The story architect records a compact story-specific style profile in `02-story-plan.md`, including dialogue profiles for major speakers and incompatible conversational aims for dialogue-bearing scenes. The prose writer and story editor consult the writing, voice, and dialogue guides plus their operational aids. The continuity critic uses the dialogue review checklist to judge material prose-readiness problems, not to enforce isolated preferences or surface-feature quotas mechanically. Explicit prompt controls and intentional story-specific choices govern within current canon and the binding universe constraints.
-
-## Canon and promotion
-
-Canon promotion requires explicit user authorization for one named story. Recheck the story against current `LOCKED` and `CANON` entries. Give every concrete delta item a disposition and target. Promote only into the smallest topical scope, preserve local qualifiers, and record story provenance. A discovered conflict with `LOCKED` canon stops for a user ruling; do not infer a retcon.
-
-The `canon_steward` edits only approved universe files and returns an exact stewardship report. The coordinator owns `promotion.json`, lifecycle/index/registry changes, validation, and rollback. Finalization uses `Complete-CanonPromotion.ps1` for pipeline candidates. A legacy correction may record a completed v2 promotion after user attestation, exact delta disposition, universe validation, and successful transactional projection updates.
-
-## Source evidence
-
-A local source record declares a repository path, controlled version label, verification status, and verification time. An external record declares a controlled locator, version when known, access date, access requirements, and verification status. A descriptive-only locator cannot support a reproducible claim. Evidence never grants canon or production status.
+`pages/catalog.json` is the publication boundary. GitHub Pages validates and
+renders only that stored snapshot; it never traverses `stories/`. The
+`capture` command copies one reviewed story into the catalog. `capture-all`
+exists only for an intentional full refresh, not for CI.
 
 ## Completion
 
-A story workflow is complete when final prose and delta exist, the newest final review passes, strict final names pass, release v3 is certified, projections agree, authority and handoff records are current, and the pull-request checks pass. A promoted final additionally requires explicit authorization, complete dispositions, updated universe notes, and a completed promotion record.
+A current story is complete when its four files exist, `review.md` says `PASS`,
+people and places are inventoried, all three continuity lines pass, and the
+single story validator succeeds.

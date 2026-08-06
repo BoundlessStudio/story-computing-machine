@@ -1,15 +1,68 @@
 #Requires -Version 7.0
-[CmdletBinding()]param([Parameter(Mandatory)][ValidatePattern('^[a-z0-9]+(?:-[a-z0-9]+)*$')][string]$Slug,[Parameter(Mandatory)][string]$Title,[string]$Date=(Get-Date -Format 'yyyy-MM-dd'),[string]$ProjectRoot)
-$ErrorActionPreference='Stop';if([string]::IsNullOrWhiteSpace($ProjectRoot)){$ProjectRoot=[IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../../../..'))}
-$scripts=Join-Path $ProjectRoot '.agents/skills/story-integrity/scripts';. (Join-Path $scripts 'PipelineCommon.ps1');Assert-ProductionBranch $ProjectRoot
-$branch=Get-RepositoryBranch $ProjectRoot;if($branch -and $branch -cne "codex/story-$Slug"){throw "New story '$Slug' must be scaffolded on branch codex/story-$Slug; current branch is $branch."}
-if(-not(Test-PipelineDate $Date)){throw 'Date must be YYYY-MM-DD.'};$target=Join-Path $ProjectRoot "stories/$Slug";if(Test-Path $target){throw "Story directory already exists: $target"}
-$template=Join-Path $ProjectRoot 'stories/_template';$staging=Join-Path $ProjectRoot ".story-staging/$Slug-$([guid]::NewGuid().ToString('N'))";$indexPath=Join-Path $ProjectRoot 'stories/INDEX.md';$indexBefore=[IO.File]::ReadAllBytes($indexPath)
-try{
- $null=New-Item -ItemType Directory -Path $staging -Force;Get-ChildItem -LiteralPath $template -Force|Copy-Item -Destination $staging -Recurse -Force
- Get-ChildItem -LiteralPath $staging -File|ForEach-Object{$text=Get-Content -LiteralPath $_.FullName -Raw;$text=$text.Replace('{{slug}}',$Slug).Replace('{{date}}',$Date).Replace('{{title}}',$Title).Replace('{{title_yaml}}',($Title|ConvertTo-Json -Compress));[IO.File]::WriteAllText($_.FullName,$text.Replace("`r`n","`n").Replace("`r","`n"),[Text.UTF8Encoding]::new($false))}
- $record=Read-PipelineJson(Join-Path $staging 'story.json');$contract=Get-PipelineContract $ProjectRoot;$issues=@(Test-StoryLifecycleRecord $record $contract);if($issues.Count){throw($issues-join'; ')}
- $index=Get-Content $indexPath -Raw;$row="| ``$Slug`` | *$Title* | in-progress | no | pending | no | — | New story on ``codex/story-$Slug``. |";$lines=$index.Replace("`r`n","`n").Split("`n");$headerEnd=($lines|Select-String '^\| ---').LineNumber;if(-not$headerEnd){throw 'INDEX.md table header was not found.'};$insert=$headerEnd;$new=@($lines[0..($insert-1)]+$row+$lines[$insert..($lines.Count-1)]);[IO.File]::WriteAllText($indexPath,(($new-join"`n").TrimEnd()+"`n"),[Text.UTF8Encoding]::new($false))
- Move-Item -LiteralPath $staging -Destination $target
-}catch{[IO.File]::WriteAllBytes($indexPath,$indexBefore);if(Test-Path $staging){Remove-Item -LiteralPath $staging -Recurse -Force};if(Test-Path $target){Remove-Item -LiteralPath $target -Recurse -Force};throw}
-[ordered]@{schemaVersion=1;story=$Slug;branch=$branch;directory="stories/$Slug";stage='prompt'}|ConvertTo-Json
+[CmdletBinding()]
+param(
+    [Parameter(Mandatory)]
+    [ValidatePattern('^[a-z0-9]+(?:-[a-z0-9]+)*$')]
+    [string]$Slug,
+
+    [Parameter(Mandatory)]
+    [ValidateNotNullOrEmpty()]
+    [string]$Title,
+
+    [Parameter(Mandatory)]
+    [ValidateNotNullOrEmpty()]
+    [string]$Prompt,
+
+    [string]$Date = (Get-Date -Format 'yyyy-MM-dd'),
+    [string]$ProjectRoot
+)
+
+$ErrorActionPreference = 'Stop'
+
+if ([string]::IsNullOrWhiteSpace($ProjectRoot)) {
+    $ProjectRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../../../..'))
+}
+else {
+    $ProjectRoot = [IO.Path]::GetFullPath($ProjectRoot)
+}
+
+if ($Date -notmatch '^\d{4}-\d{2}-\d{2}$') {
+    throw 'Date must be YYYY-MM-DD.'
+}
+
+$branch = (& git -C $ProjectRoot branch --show-current 2>$null)
+if ($LASTEXITCODE -eq 0 -and $branch.Trim() -eq 'main') {
+    throw 'Create a non-main story branch before scaffolding.'
+}
+
+$template = Join-Path $ProjectRoot 'stories/_template'
+$target = Join-Path $ProjectRoot "stories/$Slug"
+if (Test-Path -LiteralPath $target) {
+    throw "Story directory already exists: $target"
+}
+if (-not (Test-Path -LiteralPath $template -PathType Container)) {
+    throw "Story template not found: $template"
+}
+
+Copy-Item -LiteralPath $template -Destination $target -Recurse
+
+$normalizedPrompt = [regex]::Replace($Prompt, '\r\n?', [string][char]10).Trim()
+$promptBlock = (($normalizedPrompt -split '\n') | ForEach-Object { "> $($_.TrimEnd())" }) -join [char]10
+$titleYaml = $Title | ConvertTo-Json -Compress
+
+foreach ($file in Get-ChildItem -LiteralPath $target -File) {
+    $text = Get-Content -LiteralPath $file.FullName -Raw
+    $text = $text.Replace('{{slug}}', $Slug)
+    $text = $text.Replace('{{title}}', $Title)
+    $text = $text.Replace('{{title_yaml}}', $titleYaml)
+    $text = $text.Replace('{{date}}', $Date)
+    $text = $text.Replace('{{prompt_block}}', $promptBlock)
+    $text = [regex]::Replace($text, '\r\n?', [string][char]10)
+    [IO.File]::WriteAllText($file.FullName, $text, [Text.UTF8Encoding]::new($false))
+}
+
+[ordered]@{
+    story = $Slug
+    directory = "stories/$Slug"
+    files = @('prompt.md', 'outline.md', 'story.md', 'review.md')
+} | ConvertTo-Json

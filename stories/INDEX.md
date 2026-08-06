@@ -1,7 +1,8 @@
-# Story index
+# Locked legacy story index
 
-Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
-`story.json` is authoritative; this table is a repository-validated projection.
+This is a frozen index of the stories produced before the four-file workflow.
+Do not update it for current stories. Current metadata lives only in
+`story.md`, and Pages uses the separate stored publication catalog.
 
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

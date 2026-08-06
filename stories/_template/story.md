@@ -2,8 +2,9 @@
 title: {{title_yaml}}
 slug: "{{slug}}"
 created: {{date}}
+canon: false
 ---
 
 # {{title}}
 
-<!-- Polished reader-facing prose goes here. -->
+<!-- Complete reader-facing prose goes here. -->

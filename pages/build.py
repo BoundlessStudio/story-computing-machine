@@ -6,44 +6,44 @@ import json
 import re
 import shutil
 import subprocess
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
 
 import markdown
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
+SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
+STORY_VALIDATOR = (
+    REPOSITORY_ROOT
+    / ".agents"
+    / "skills"
+    / "story-room"
+    / "scripts"
+    / "Test-Stories.ps1"
+)
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-STORY_JSON_PATH = re.compile(r"^stories/(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)/story\.json$")
 
 
 @dataclass(frozen=True)
-class StoryMetadata:
-    directory: Path
+class Story:
     slug: str
     title: str
     created: str
-    stage: str
-    status: str
     canon: bool
-    user_disposition: str
-    publish: bool
-    promotion_date: str | None
-    provenance: str
-
-
-@dataclass(frozen=True)
-class ReaderStory:
-    metadata: StoryMetadata
+    status: str
     prompt: str
     body: str
-    word_count: int
+
+    @property
+    def word_count(self) -> int:
+        return len(re.findall(r"\b[\w’'-]+\b", self.body))
 
 
 @dataclass(frozen=True)
 class Catalog:
-    stories: tuple[ReaderStory, ...]
+    stories: tuple[Story, ...]
 
 
 def read_json_object(path: Path) -> dict[str, Any]:
@@ -56,19 +56,11 @@ def read_json_object(path: Path) -> dict[str, Any]:
     return value
 
 
-def require_exact_fields(value: dict[str, Any], fields: list[str], path: Path) -> None:
-    missing = sorted(set(fields) - set(value))
-    extra = sorted(set(value) - set(fields))
+def require_exact_fields(value: dict[str, Any], fields: set[str], label: str) -> None:
+    missing = sorted(fields - set(value))
+    extra = sorted(set(value) - fields)
     if missing or extra:
-        raise ValueError(f"{path} fields differ; missing={missing}, extra={extra}")
-
-
-def load_pipeline_contract(path: Path | None = None) -> dict[str, Any]:
-    contract_path = path or REPOSITORY_ROOT / "schemas" / "pipeline-contract.json"
-    value = read_json_object(contract_path)
-    if value.get("schemaVersion") != 2 or value.get("trustModel") != "git-pr-human-review":
-        raise ValueError(f"Unsupported pipeline contract in {contract_path}")
-    return value
+        raise ValueError(f"{label} fields differ; missing={missing}, extra={extra}")
 
 
 def parse_front_matter(content: str, path: Path) -> tuple[dict[str, str], str]:
@@ -78,25 +70,28 @@ def parse_front_matter(content: str, path: Path) -> tuple[dict[str, str], str]:
     end = normalized.find("\n---\n", 4)
     if end < 0:
         raise ValueError(f"{path} has unterminated frontmatter")
+
     metadata: dict[str, str] = {}
     for line in normalized[4:end].splitlines():
         if ":" not in line:
             raise ValueError(f"Malformed frontmatter line in {path}: {line}")
         key, raw = line.split(":", 1)
-        value = raw.strip().strip('"').strip("'")
-        metadata[key.strip()] = value
+        key = key.strip()
+        if key in metadata:
+            raise ValueError(f"Repeated frontmatter field in {path}: {key}")
+        metadata[key] = raw.strip().strip('"').strip("'")
     return metadata, normalized[end + 5 :]
 
 
 def parse_writing_prompt(content: str, path: Path) -> str:
     normalized = content.replace("\r\n", "\n").replace("\r", "\n")
     match = re.search(
-        r"^## Verbatim writing prompt\s*\n(?P<prompt>.*?)(?=^## |\Z)",
+        r"^## (?:Verbatim writing prompt|Prompt)\s*\n(?P<prompt>.*?)(?=^## |\Z)",
         normalized,
         flags=re.MULTILINE | re.DOTALL,
     )
     if match is None:
-        raise ValueError(f"{path} lacks a Verbatim writing prompt section")
+        raise ValueError(f"{path} lacks a Prompt section")
 
     lines = []
     for line in match.group("prompt").strip().splitlines():
@@ -107,14 +102,107 @@ def parse_writing_prompt(content: str, path: Path) -> str:
     if prompt.startswith("[WP]"):
         prompt = prompt.removeprefix("[WP]").strip()
     if not prompt:
-        raise ValueError(f"{path} has an empty Verbatim writing prompt section")
+        raise ValueError(f"{path} has an empty Prompt section")
     return prompt
 
 
-def validate_repository_integrity(repository_root: Path) -> None:
-    script = repository_root / ".agents" / "skills" / "story-integrity" / "scripts" / "Test-StoryIntegrity.ps1"
+def _bool(value: str, path: Path, field: str) -> bool:
+    if value == "true":
+        return True
+    if value == "false":
+        return False
+    raise ValueError(f"{path} field {field} must be true or false")
+
+
+def _load_current_story(directory: Path) -> Story:
+    story_path = directory / "story.md"
+    front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
+    require_exact_fields(front, {"title", "slug", "created", "canon"}, str(story_path))
+    if front["slug"] != directory.name or not SLUG.fullmatch(front["slug"]):
+        raise ValueError(f"Invalid slug in {story_path}")
+    if not front["title"] or not DATE.fullmatch(front["created"]):
+        raise ValueError(f"Invalid title or date in {story_path}")
+
+    review_path = directory / "review.md"
+    review = review_path.read_text(encoding="utf-8")
+    required_review_lines = (
+        r"(?m)^Verdict:\s*PASS\s*$",
+        r"(?m)^-\s+Prompt:\s*PASS\s*$",
+        r"(?m)^-\s+Universe:\s*PASS\s*$",
+        r"(?m)^-\s+Internal:\s*PASS\s*$",
+        r"(?m)^-\s+Blocking:\s*none\s*$",
+    )
+    if any(re.search(pattern, review) is None for pattern in required_review_lines):
+        raise ValueError(f"{review_path} is not a passing review")
+
+    prompt_path = directory / "prompt.md"
+    return Story(
+        slug=front["slug"],
+        title=front["title"],
+        created=front["created"],
+        canon=_bool(front["canon"], story_path, "canon"),
+        status="canon" if front["canon"] == "true" else "reviewed",
+        prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
+        body=body.strip(),
+    )
+
+
+def _load_legacy_story(directory: Path) -> Story:
+    record_path = directory / "story.json"
+    record = read_json_object(record_path)
+    for field in ("slug", "title", "created", "status", "canon"):
+        if field not in record:
+            raise ValueError(f"{record_path} lacks {field}")
+    if record["slug"] != directory.name or not SLUG.fullmatch(record["slug"]):
+        raise ValueError(f"Invalid legacy slug in {record_path}")
+    if not isinstance(record["title"], str) or not DATE.fullmatch(record["created"]):
+        raise ValueError(f"Invalid legacy title or date in {record_path}")
+    if not isinstance(record["canon"], bool) or not isinstance(record["status"], str):
+        raise ValueError(f"Invalid legacy status in {record_path}")
+
+    story_path = directory / "05-story.md"
+    front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
+    expected = {
+        "title": record["title"],
+        "slug": record["slug"],
+        "created": record["created"],
+    }
+    if front != expected:
+        raise ValueError(f"Legacy story identity differs in {story_path}")
+
+    prompt_path = directory / "00-prompt.md"
+    return Story(
+        slug=record["slug"],
+        title=record["title"],
+        created=record["created"],
+        canon=record["canon"],
+        status=record["status"],
+        prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
+        body=body.strip(),
+    )
+
+
+def load_story_source(slug: str, repository_root: Path = REPOSITORY_ROOT) -> Story:
+    if not SLUG.fullmatch(slug):
+        raise ValueError(f"Invalid story slug: {slug}")
+    directory = repository_root / "stories" / slug
+    if (directory / "story.md").is_file():
+        return _load_current_story(directory)
+    if (directory / "05-story.md").is_file():
+        return _load_legacy_story(directory)
+    raise ValueError(f"No readable story source for {slug}")
+
+
+def validate_current_stories(repository_root: Path = REPOSITORY_ROOT) -> None:
     completed = subprocess.run(
-        ["pwsh", "-NoProfile", "-File", str(script), "-OutputFormat", "Text", "-ProjectRoot", str(repository_root)],
+        [
+            "pwsh",
+            "-NoProfile",
+            "-File",
+            str(STORY_VALIDATOR),
+            "-ProjectRoot",
+            str(repository_root),
+        ],
         cwd=repository_root,
         text=True,
         capture_output=True,
@@ -122,102 +210,94 @@ def validate_repository_integrity(repository_root: Path) -> None:
     )
     if completed.returncode:
         detail = (completed.stdout + completed.stderr).strip()
-        raise ValueError(f"Repository integrity failed: {detail}")
+        raise ValueError(f"Current story validation failed before capture: {detail}")
 
 
-def _story_metadata(directory: Path, contract: dict[str, Any]) -> StoryMetadata:
-    path = directory / "story.json"
-    value = read_json_object(path)
-    require_exact_fields(value, contract["story"]["fields"], path)
-    if value["schemaVersion"] != 2 or value["slug"] != directory.name or not SLUG.fullmatch(value["slug"]):
-        raise ValueError(f"Invalid story identity in {path}")
-    if not isinstance(value["title"], str) or not value["title"].strip() or not DATE.fullmatch(value["created"]):
-        raise ValueError(f"Invalid title or creation date in {path}")
-    state = contract["lifecycle"]["states"].get(value["status"])
-    if state is None or value["stage"] not in state["stages"]:
-        raise ValueError(f"Invalid lifecycle in {path}")
-    if value["canon"] is not state["canon"] or value["userDisposition"] not in state["userDispositions"] or value["publish"] not in state["publish"]:
-        raise ValueError(f"Contradictory lifecycle in {path}")
-    if state["promotionDate"] == "required" and not isinstance(value["promotionDate"], str):
-        raise ValueError(f"Final story lacks promotion date in {path}")
-    if state["promotionDate"] == "null" and value["promotionDate"] is not None:
-        raise ValueError(f"Non-final story has promotion date in {path}")
-    if value["provenance"] not in contract["story"]["provenanceValues"]:
-        raise ValueError(f"Invalid provenance in {path}")
-    return StoryMetadata(directory, value["slug"], value["title"], value["created"], value["stage"], value["status"], value["canon"], value["userDisposition"], value["publish"], value["promotionDate"], value["provenance"])
+def _ordered(stories: Iterable[Story]) -> tuple[Story, ...]:
+    return tuple(sorted(stories, key=lambda item: (item.created, item.slug), reverse=True))
 
 
-def _legacy_slugs(root: Path) -> set[str]:
-    path = root / "stories" / "legacy-acceptance.json"
-    value = read_json_object(path)
-    require_exact_fields(value, ["schemaVersion", "acceptedBy", "acceptedAt", "reviewBasis", "stories"], path)
-    if value["schemaVersion"] != 1 or not value["acceptedBy"] or not value["reviewBasis"]:
-        raise ValueError(f"Invalid legacy acceptance header in {path}")
-    result: set[str] = set()
-    for item in value["stories"]:
-        require_exact_fields(item, ["slug", "promotionDate"], path)
-        if item["slug"] in result:
-            raise ValueError(f"Duplicate legacy acceptance story: {item['slug']}")
-        result.add(item["slug"])
-    return result
+def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
+    value = read_json_object(snapshot_path)
+    require_exact_fields(value, {"schemaVersion", "stories"}, str(snapshot_path))
+    if value["schemaVersion"] != 1 or not isinstance(value["stories"], list):
+        raise ValueError(f"Unsupported snapshot in {snapshot_path}")
+
+    stories: list[Story] = []
+    seen: set[str] = set()
+    fields = {"slug", "title", "created", "canon", "status", "prompt", "body"}
+    for index, item in enumerate(value["stories"]):
+        if not isinstance(item, dict):
+            raise ValueError(f"Snapshot story {index} is not an object")
+        require_exact_fields(item, fields, f"snapshot story {index}")
+        if (
+            not isinstance(item["slug"], str)
+            or not SLUG.fullmatch(item["slug"])
+            or item["slug"] in seen
+            or not isinstance(item["title"], str)
+            or not item["title"].strip()
+            or not isinstance(item["created"], str)
+            or not DATE.fullmatch(item["created"])
+            or not isinstance(item["canon"], bool)
+            or not isinstance(item["status"], str)
+            or not item["status"].strip()
+            or not isinstance(item["prompt"], str)
+            or not item["prompt"].strip()
+            or not isinstance(item["body"], str)
+            or not item["body"].strip()
+        ):
+            raise ValueError(f"Invalid snapshot story {index}")
+        seen.add(item["slug"])
+        stories.append(Story(**item))
+
+    ordered = _ordered(stories)
+    if tuple(stories) != ordered:
+        raise ValueError(f"{snapshot_path} stories are not in newest-first order")
+    return Catalog(ordered)
 
 
-def _story_addition_order(repository_root: Path) -> dict[str, int]:
-    completed = subprocess.run(
-        [
-            "git",
-            "-C",
-            str(repository_root),
-            "log",
-            "--diff-filter=A",
-            "--name-only",
-            "--pretty=format:",
-            "--",
-            ":(glob)stories/*/story.json",
-        ],
-        text=True,
-        capture_output=True,
-        check=False,
+def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
+    catalog = Catalog(_ordered(stories))
+    value = {
+        "schemaVersion": 1,
+        "stories": [asdict(story) for story in catalog.stories],
+    }
+    snapshot_path.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
     )
-    if completed.returncode:
-        return {}
-
-    result: dict[str, int] = {}
-    for line in completed.stdout.splitlines():
-        match = STORY_JSON_PATH.fullmatch(line.strip().replace("\\", "/"))
-        if match is not None and match["slug"] not in result:
-            result[match["slug"]] = len(result)
-    return result
+    return catalog
 
 
-def _sort_stories_newest_first(stories: list[ReaderStory], addition_order: dict[str, int]) -> None:
-    # Git history resolves stories created on the same calendar day. Stable
-    # fallbacks keep archive builds without Git metadata deterministic.
-    stories.sort(key=lambda story: story.metadata.slug)
-    stories.sort(key=lambda story: addition_order.get(story.metadata.slug, len(addition_order)))
-    stories.sort(key=lambda story: story.metadata.created, reverse=True)
+def capture_story(
+    slug: str,
+    repository_root: Path = REPOSITORY_ROOT,
+    snapshot_path: Path = SNAPSHOT_PATH,
+) -> Catalog:
+    if (repository_root / "stories" / slug / "story.md").is_file():
+        validate_current_stories(repository_root)
+    story = load_story_source(slug, repository_root)
+    existing = list(load_catalog(snapshot_path).stories) if snapshot_path.exists() else []
+    by_slug = {item.slug: item for item in existing}
+    by_slug[story.slug] = story
+    return save_catalog(by_slug.values(), snapshot_path)
 
 
-def load_catalog(repository_root: Path = REPOSITORY_ROOT) -> Catalog:
-    contract = load_pipeline_contract(repository_root / "schemas" / "pipeline-contract.json")
-    legacy = _legacy_slugs(repository_root)
-    stories: list[ReaderStory] = []
+def capture_all(
+    repository_root: Path = REPOSITORY_ROOT,
+    snapshot_path: Path = SNAPSHOT_PATH,
+) -> Catalog:
     story_root = repository_root / "stories"
-    for directory in sorted((item for item in story_root.iterdir() if item.is_dir() and not item.name.startswith("_")), key=lambda item: item.name):
-        metadata = _story_metadata(directory, contract)
-        if metadata.provenance == "legacy-user-attested" and metadata.slug not in legacy:
-            raise ValueError(f"Legacy story is not attested: {metadata.slug}")
-        front, body = parse_front_matter((directory / "05-story.md").read_text(encoding="utf-8"), directory / "05-story.md")
-        if set(front) != {"title", "slug", "created"}:
-            raise ValueError(f"Final frontmatter fields differ for {metadata.slug}")
-        if front != {"title": metadata.title, "slug": metadata.slug, "created": metadata.created}:
-            raise ValueError(f"Final frontmatter identity differs for {metadata.slug}")
-        prompt_path = directory / "00-prompt.md"
-        prompt = parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path)
-        word_count = len(re.findall(r"\b[\w’'-]+\b", body))
-        stories.append(ReaderStory(metadata, prompt, body.strip(), word_count))
-    _sort_stories_newest_first(stories, _story_addition_order(repository_root))
-    return Catalog(tuple(stories))
+    slugs = [
+        item.name
+        for item in story_root.iterdir()
+        if item.is_dir()
+        and not item.name.startswith("_")
+        and ((item / "story.md").is_file() or (item / "05-story.md").is_file())
+    ]
+    if any((story_root / slug / "story.md").is_file() for slug in slugs):
+        validate_current_stories(repository_root)
+    return save_catalog((load_story_source(slug, repository_root) for slug in slugs), snapshot_path)
 
 
 REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
@@ -252,37 +332,49 @@ def _prompt(value: str) -> str:
 
 def _without_leading_title(body: str) -> str:
     heading = re.match(r"^#\s+[^\n]+?\s*(?:\n+|\Z)", body)
-    if heading is None:
-        return body
-    return body[heading.end() :].lstrip()
+    return body if heading is None else body[heading.end() :].lstrip()
 
 
-def _story_label(metadata: StoryMetadata) -> str:
-    status = metadata.status.replace("-", " ").title()
-    return f"{status} · Canon" if metadata.canon else status
+def _story_label(story: Story) -> str:
+    return "Canon" if story.canon else story.status.replace("-", " ").title()
 
 
 def render_index(catalog: Catalog) -> str:
     items = []
     for story in catalog.stories:
-        status = _story_label(story.metadata)
-        created = html.escape(story.metadata.created)
-        items.append(f'<li><a href="stories/{html.escape(story.metadata.slug)}.html">{html.escape(story.metadata.title)}</a>{_prompt(story.prompt)}<div class="meta"><time datetime="{created}">{created}</time> · {status} · {story.word_count:,} words</div></li>')
-    return _page("Stories", f"<h1>Stories</h1><p>{len(items)} stories from the current validated checkout.</p><ol>{''.join(items)}</ol>", "index.html")
+        created = html.escape(story.created)
+        items.append(
+            f'<li><a href="stories/{html.escape(story.slug)}.html">{html.escape(story.title)}</a>'
+            f'{_prompt(story.prompt)}<div class="meta"><time datetime="{created}">{created}</time> · '
+            f'{_story_label(story)} · {story.word_count:,} words</div></li>'
+        )
+    body = f"<h1>Stories</h1><p>{len(items)} stored publications.</p><ol>{''.join(items)}</ol>"
+    return _page("Stories", body, "index.html")
 
 
-def render_story(story: ReaderStory) -> str:
+def render_story(story: Story) -> str:
     prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
-    status = _story_label(story.metadata)
-    body = f'<p><a href="../index.html">← All stories</a></p><article><h1>{html.escape(story.metadata.title)}</h1><p class="meta">{status} · {story.word_count:,} words</p>{_prompt(story.prompt)}{prose}</article>'
-    return _page(story.metadata.title, body, "../index.html")
+    body = (
+        f'<p><a href="../index.html">← All stories</a></p><article>'
+        f'<h1>{html.escape(story.title)}</h1>'
+        f'<p class="meta">{_story_label(story)} · {story.word_count:,} words</p>'
+        f'{_prompt(story.prompt)}{prose}</article>'
+    )
+    return _page(story.title, body, "../index.html")
 
 
-def prepare_output(output: Path, repository_root: Path) -> Path:
+def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Path:
     resolved = output.resolve()
     root = repository_root.resolve()
-    protected = [root / name for name in (".git", ".agents", ".codex", "pages", "schemas", "sources", "stories", "tests", "universe")]
-    if resolved == root or resolved in root.parents or any(resolved == item or item in resolved.parents for item in protected):
+    protected = [
+        root / name
+        for name in (".git", ".agents", ".codex", "pages", "sources", "stories", "universe")
+    ]
+    if (
+        resolved == root
+        or resolved in root.parents
+        or any(resolved == item or item in resolved.parents for item in protected)
+    ):
         raise ValueError("Output overlaps protected repository content")
     if resolved.exists():
         shutil.rmtree(resolved)
@@ -290,24 +382,45 @@ def prepare_output(output: Path, repository_root: Path) -> Path:
     return resolved
 
 
-def build(output: Path, repository_root: Path = REPOSITORY_ROOT, require_integrity_validator: bool = True) -> Catalog:
-    if require_integrity_validator:
-        validate_repository_integrity(repository_root)
-    catalog = load_catalog(repository_root)
-    destination = prepare_output(output, repository_root)
+def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
+    catalog = load_catalog(snapshot_path)
+    destination = prepare_output(output)
     (destination / "stories").mkdir()
     (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
     for story in catalog.stories:
-        (destination / "stories" / f"{story.metadata.slug}.html").write_text(render_story(story), encoding="utf-8")
+        (destination / "stories" / f"{story.slug}.html").write_text(
+            render_story(story),
+            encoding="utf-8",
+        )
     return catalog
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--output", type=Path, default=REPOSITORY_ROOT / "_site")
+    commands = parser.add_subparsers(dest="command", required=True)
+
+    build_parser = commands.add_parser("build", help="Build Pages from the stored snapshot.")
+    build_parser.add_argument("--output", type=Path, default=REPOSITORY_ROOT / "_site")
+
+    capture_parser = commands.add_parser("capture", help="Store one reviewed story for Pages.")
+    capture_parser.add_argument("slug")
+
+    commands.add_parser("capture-all", help="Regenerate the stored snapshot from every story source.")
+    commands.add_parser("check", help="Validate the stored publication snapshot.")
+
     args = parser.parse_args()
-    catalog = build(args.output)
-    print(f"Built {len(catalog.stories)} stories in {args.output}")
+    if args.command == "build":
+        catalog = build(args.output)
+        print(f"Built {len(catalog.stories)} stored stories in {args.output}")
+    elif args.command == "capture":
+        catalog = capture_story(args.slug)
+        print(f"Stored {args.slug}; publication catalog now has {len(catalog.stories)} stories")
+    elif args.command == "capture-all":
+        catalog = capture_all()
+        print(f"Stored {len(catalog.stories)} stories in {SNAPSHOT_PATH}")
+    else:
+        catalog = load_catalog()
+        print(f"PASS: {len(catalog.stories)} stored stories")
 
 
 if __name__ == "__main__":

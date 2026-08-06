@@ -1,10 +1,19 @@
 # Story Computing Machine
 
-A project-local Codex story room for short fiction in a shared universe. A prompt tagged `[WP]` moves through canon research, planning, drafting, continuity review, final editing, name validation, and release validation.
+A small shared-universe story room. A `[WP]` prompt becomes four files:
+
+```text
+prompt.md → outline.md → story.md → review.md
+```
+
+One writer/coordinator handles the first three. One independent reviewer checks
+people, places, prompt fulfillment, and continuity. There are no draft/final
+duplicates, canon briefs, handoff ledgers, release certificates, or per-stage
+agents.
 
 ## Quick start
 
-1. Create or switch to `codex/story-<slug>` from current `main`.
+1. Create `codex/story-<slug>` from current `main`.
 2. Open this repository as the Codex workspace.
 3. Submit a prompt such as:
 
@@ -13,36 +22,37 @@ A project-local Codex story room for short fiction in a shared universe. A promp
    Target: about 3,000 words; close third person; melancholy but hopeful.
    ```
 
-4. The workflow keeps the prompt, authority inventory, brief, plan, draft, review history, final story, canon delta, handoff ledger, lifecycle record, and release decision together under `stories/<slug>/`.
+The default result is a reviewed, non-canon story. Adding it to shared canon is
+a separate explicit user decision.
 
-A completed workflow produces a non-canon candidate. Canon promotion is a separate explicit decision.
+## Repository map
 
-## Trust and branches
+- `AGENTS.md` — the complete operating rules.
+- `.agents/skills/story-room/` — the one workflow and its two scripts.
+- `.codex/agents/story-reviewer.toml` — the one specialist.
+- `stories/_template/` — the four-file scaffold.
+- `universe/` — authoritative shared-universe facts and style constraints.
+- `stories/` — locked legacy bundles and current four-file stories.
+- `pages/catalog.json` — the stored publication snapshot used by Pages.
+- `pages/build.py` — captures reviewed stories and renders the snapshot.
 
-The repository relies on the current checkout, Git chronology, strict schemas, transactional writes, specialist boundaries, pull-request co-change policy, automated checks, and human acceptance. It does not maintain a parallel custom file-fingerprinting system.
-
-Story and universe changes are refused on `main`. Local story branches run focused checks; pull requests run the full repository and reader-site suite. `main` is intended to accept only current, passing squash merges through protected pull requests.
-
-## Layout
-
-- `AGENTS.md` — workflow, lifecycle, ownership, and branch rules.
-- `.codex/agents/` — narrow specialist roles.
-- `.agents/skills/` — workflows and integrity scripts.
-- `.agents/writing-guides/` — non-canonical guidance for prose, voice, and dialogue.
-- `schemas/pipeline-contract.json` — strict shared record contract.
-- `universe/` — authoritative setting notes.
-- `stories/` — production story bundles, index, registry, and legacy attestation.
-- `sources/` — inert evidence and decision history.
-- `pages/` — deterministic reader-site builder.
-
-`story.json` v2 is lifecycle authority. `authority.json` v2 names the base commit and admitted authority inventory. `handoffs.json` v3 preserves ordered specialist work. `release.json` v3 records the review/name basis for publication. `promotion.json` v2 records one authorized canon transaction.
-
-## Validation
+## One check
 
 ```powershell
-pwsh -NoProfile -File .agents/skills/story-integrity/scripts/Test-StoryIntegrity.ps1
-pwsh -NoProfile -File tests/run.ps1
-python pages/test_build.py
+pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1
 ```
 
-The 24 user-reviewed legacy stories are explicitly listed in `stories/legacy-acceptance.json`; no historical agent activity is fabricated for them.
+It ignores locked legacy bundles. For current stories it checks the four-file
+shape, minimal story metadata, declared people/place nouns, and the final
+continuity verdict.
+
+## Pages
+
+Pages does not read `stories/` during CI. Publish a reviewed story into the
+stored catalog once:
+
+```powershell
+python pages/build.py capture <slug>
+```
+
+GitHub Pages subsequently validates and renders `pages/catalog.json` alone.
