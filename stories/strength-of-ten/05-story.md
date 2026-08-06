@@ -48,7 +48,7 @@ The side door opened before Lysander could answer. Princess Sigrun came in carry
 
 "You will not have three thousand," she said. "And I will not marry him."
 
-Lysander had crossed one hundred and forty miles rehearsing surrender. "Princess Sigrun, I understand what is required. I accept the match."
+At thirty, Lysander had crossed one hundred and forty miles rehearsing surrender. "Princess Sigrun, I understand what is required. I accept the match."
 
 Her eyes settled on him. "Did you come here to request my answer, or to carry it?"
 

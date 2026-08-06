@@ -39,8 +39,9 @@ or reform of Gorm.
 ## New characters or character facts
 
 - **SOT-01 — Prince Lysander (proposed).** **Fact:** Prince Lysander is
-  Redwater's prince and the close-third viewpoint of the Ninepin crisis. During
-  a food shortage he releases Redwater's thirteen hundred seasonal soldiers
+  Redwater's thirty-year-old prince and the close-third viewpoint of the
+  Ninepin crisis. During a food shortage he releases Redwater's thirteen
+  hundred seasonal soldiers
   so grain can feed households, later discounts Greyglass warnings, and calls
   the resulting condition merely outnumbered. After Greyglass falls, he orders
   three villages evacuated, sluice workers placed under the watch, and one
@@ -51,18 +52,21 @@ or reform of Gorm.
   tolls for seven years; accepts a tribunal and possible loss of succession;
   contributes his wedding-chain gold, household horses, route knowledge, and
   labor; frees the jammed eastern culvert with Redwater watch members; and
-  honors the compact's no-pursuit limit. **Exact local scope:** Lysander's
-  conduct during Redwater's food shortage, the immediate Black Reed invasion
-  crisis, the Harrowfast negotiation, the five-day march, the Ninepin defense,
-  and the first post-battle tallies. **Constraints and dependencies:** The
-  final prose supplies no exact age, parent name, accession history, tribunal
-  verdict, acquittal, abdication, or later reign. His useful acts do not erase
-  his prior concealment or the missing watch member. He does not command
+  honors the compact's no-pursuit limit. **Exact local scope:** Lysander's age
+  during the Ninepin crisis and his conduct during Redwater's food shortage,
+  the immediate Black Reed invasion crisis, the Harrowfast negotiation, the
+  five-day march, the Ninepin defense, and the first post-battle tallies.
+  **Constraints and dependencies:** The
+  final prose establishes his age as thirty but supplies no parent name,
+  accession history, tribunal verdict, acquittal, abdication, or later reign.
+  His useful acts do not erase his prior concealment or the missing watch
+  member. He does not command
   Harrowfast's host and gains no right to Sigrun through service or sacrifice.
-  Depends on SOT-04, SOT-06, and SOT-15 through SOT-18. **Evidence:** `05-story.md`,
-  gatehouse opening; map-room audit; compact signing; Frostroad march; eastern
-  culvert action; no-pursuit exchange; final tallies. **Proposed disposition:**
-  `PROPOSE ADD WITH ACCOUNTABILITY AND UNRESOLVED-SUCCESSION QUALIFIERS`.
+  Depends on SOT-04, SOT-06, and SOT-15 through SOT-18. **Evidence:**
+  `05-story.md`, gatehouse opening; first-hall age anchor; map-room audit;
+  compact signing; Frostroad march; eastern culvert action; no-pursuit
+  exchange; final tallies. **Proposed disposition:** `PROPOSE ADD WITH
+  AGE-THIRTY, ACCOUNTABILITY, AND UNRESOLVED-SUCCESSION QUALIFIERS`.
   **Suggested smallest topical target:** `universe/characters.md`.
 
 - **SOT-02 — Princess Sigrun (proposed).** **Fact:** Princess Sigrun is King
@@ -238,8 +242,8 @@ or reform of Gorm.
   `universe/factions.md`.
 
 - **SOT-11 — Harrowfast road-marshal network (proposed).** **Fact:** During
-  this winter campaign, Harrowfast's current road-marshal coordinates six depot
-  keepers, remount masters, route ledgers, seven town reeves, and twelve
+  this winter campaign, Harrowfast's current road-marshal coordinates keepers at
+  six depots, remount masters, route ledgers, seven reeves, and twelve
   captains whose matching human commitments make a rapid winter march
   possible. Gorm can call troops and attempt to remove the marshal, but a
   forced removal stops depot and captain participation until the seven reeves
@@ -247,15 +251,21 @@ or reform of Gorm.
   Sigrun can act through the office to end Gorm's punishment of the road clerk,
   while twelve captains mark the deployment ledger and three representatives
   countersign defined refusal rights. **Exact local scope:** Sigrun's current
-  appointment and this six-day emergency. **Constraints and dependencies:**
+  appointment, keepers at the six shown depots, seven reeves of unstated
+  jurisdiction, and this six-day emergency. **Constraints and dependencies:**
   The office is neither magical, hereditary, universally northern, nor
-  independent of human participants. The final prose does not establish its
-  usual selection procedure beyond reeve replacement, its peacetime reach,
-  later holder, or superiority to all royal authority. Depends on SOT-02,
-  SOT-05, SOT-07, SOT-13, SOT-15, and SOT-16. **Evidence:** `05-story.md`, route-ledger
-  confrontation, outer-arch release, map-room planning, captain
-  countersignatures, and depot checks. **Proposed disposition:** `PROPOSE ADD
-  WITH HUMAN-COMMITMENT AND CURRENT-APPOINTMENT QUALIFIERS`. **Suggested smallest topical target:** `universe/factions.md`.
+  independent of human participants. The number of individual keepers and the
+  reeves' municipal or territorial jurisdictions are unstated. The final prose
+  does not establish the office's usual selection procedure beyond reeve
+  replacement, its peacetime reach, later holder, or superiority to all royal
+  authority. Depends on SOT-02, SOT-05, SOT-07, SOT-13, SOT-15, and SOT-16.
+  **Evidence:** `05-story.md`,
+  route-ledger confrontation and seven-reeve replacement statement;
+  outer-arch release; map-room six-depot plan; captain countersignatures; and
+  six-depot march checks. **Proposed disposition:** `PROPOSE ADD WITH
+  HUMAN-COMMITMENT, CURRENT-APPOINTMENT, UNSTATED-KEEPER-COUNT, AND
+  UNSTATED-REEVE-JURISDICTION QUALIFIERS`. **Suggested smallest topical target:**
+  `universe/factions.md`.
 
 ## New rules, capabilities, and mechanism boundaries
 
