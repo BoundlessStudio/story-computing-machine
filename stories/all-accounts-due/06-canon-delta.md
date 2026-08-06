@@ -4,7 +4,7 @@
 - Source artifact: `stories/all-accounts-due/05-story.md`
 - Authority base: `main@b0f0453d290dd8dae270031eea6036da97832c1f`
 - Authority status: `none`
-- Story lifecycle at handoff: `stage: final-edit`; `status: in-progress`; `canon: false`; `userDisposition: pending`
+- Story lifecycle at handoff: `stage: final-review`; `status: in-progress`; `canon: false`; `userDisposition: pending`
 - Delta status: `proposal only`
 - Promotion status: `not authorized and not applied`
 
@@ -36,14 +36,26 @@ supplies witness, not power; his ordinary cotter pull releases the already
 armed conditions. No object chooses, consents, judges, casts independently, or
 survives as a magical seed.
 
+The revised prose establishes that six-practice engineers built the Array,
+Astrolabe, and Latch together three hundred and two years before the terminal
+event as a distributed mutual failsafe, then separated timing custody from
+junction custody. It also establishes the Bound Ascendancy's armistice-council
+origin, coercive peace motive, stolen-study and living-contribution provenance,
+the physical fall of the Array after support ends, and non-graphic deaths in
+falling or collapsing magic-dependent bodies and structures. These remain
+story-local proposals under the exact entries below.
+
 ## New characters or character facts
 
 - **AAD-01 — Faris (proposed).** **Fact:** Faris is a man who has never had
   magic. Across six shown adventures spanning thirty-one years, he survives
   through ordinary observation, persistence, mundane tools, bargaining,
   mistakes, and material help from others; he gathers lawful or contested
-  custody of eight relics, asks six powers to choose again, enters the final
-  recess because the Absolute Yoke has no magical address in him, and
+  custody of eight relics and relationships without an original terminal
+  plan. He learns of the Yoke and receives Missing Tessera nine years before
+  the Array, obtains Mortal Latch four years before it, and shapes his narrow
+  promise only after those pieces meet. He asks six powers to choose again,
+  enters the final recess because the Absolute Yoke has no magical address in him, and
   physically releases the terminal sequence. **Exact local scope:** Faris's
   life as shown in the six quest episodes and the Ithrom Array event.
   **Constraints and dependencies:** His lack is not severance, dormancy,
@@ -57,18 +69,23 @@ survives as a magical seed.
 
 - **AAD-02 — Seyathi (proposed).** **Fact:** Seyathi is a living goddess whose
   Tessellate Grace acts through prepared geometry and whose use can temporarily
-  damage her sense of place. At the Talarum Steps she holds a corrupted pattern
+  damage her sense of place. At the Talarum Steps she holds a coercive pattern
   open, helps free forty-three pilgrims, gives Faris the Missing Tessera, and
   teaches that a promise protects only its exact shape. At the Array she
   voluntarily arms the Tessera under Faris's technically true narrow promise,
-  without informed agreement to worldwide extinction. She loses every magical
+  without informed agreement to worldwide extinction. From her side, the six
+  keystones appear to be separate attacks on the Yoke's six borrowed faces,
+  while terminal connections remain hidden until the Latch is seated; trust in
+  Faris supplies the narrow inference. She loses every magical
   capacity and godhood but remains alive, herself, remembering, angry, and able
   to recognize his betrayal. **Exact local scope:** Seyathi's material body,
   actions, relationship with Faris, and authority over Tessellate Grace in this
   terminal-era story. **Constraints and dependencies:** Her choice is free but
   incompletely informed; it is not consent to global extinction, magical
-  compulsion, stupidity, forgiveness, or proof that her grievance is invalid.
-  Depends on AAD-10, AAD-16, AAD-23, AAD-32 through AAD-36.
+  compulsion, stupidity, inattentiveness, forgiveness, or proof that her
+  grievance is invalid. The five informed participants' silence in AAD-08 does
+  not make her responsible for information they and Faris withhold. Depends on
+  AAD-10, AAD-16, AAD-23, AAD-32 through AAD-36.
   **Provenance:** `05-story.md`, Talarum flashback, first arming, extinction
   wave, and final failed gesture. **Proposed disposition:** `PROPOSE ADD`.
   **Suggested smallest topical target:** `universe/characters.md`.
@@ -80,8 +97,11 @@ survives as a magical seed.
   The rescued demon young expose the coup when what they shout through the
   vents names the officers who arranged it. Hurzai later bargains custody of
   Cold Maw and requires any terminal request to name the bodily cost. At the
-  Array he accepts Faris's account of likely deaths, fortification loss,
-  mortality, and the end of his lordship and fire; he turns Cold Maw outward
+  Array he refuses arming until Faris proves why all six roots must end. Hurzai
+  partially narrows Cold Maw without arming it; the Yoke reroutes its Fire
+  pattern through Grace, testing the cross-root sheltering premise. He then
+  accepts Faris's account of likely deaths, fortification loss, mortality, and
+  the end of his lordship and fire; he turns Cold Maw outward
   and shields Faris from active Inward Fire at visible bodily cost. **Exact local scope:** Hurzai's actions
   during the Ghorvane rescue and terminal event. **Constraints and dependencies:** The prose does not establish Hurzai's survival after
   extinction or a universal demon biology, polity, furnace law, or title.
@@ -90,13 +110,16 @@ survives as a magical seed.
   terminal defense. **Proposed disposition:** `PROPOSE ADD`. **Suggested smallest topical target:** `universe/characters.md`.
 
 - **AAD-04 — King Malrec (proposed).** **Fact:** King Malrec's heartbeat
-  controls the Manyroom arrangements of Mavorn Palace. After Faris steals the
+  controls the Manyroom arrangements of Mavorn Palace, and every arrangement
+  beyond the material base spends his bodily years faster. After Faris steals the
   Sole Chamber and warns him of an assassin hidden across an overlapping room,
   Malrec pardons him, retains a witnessed claim, and grants one public decision
   applying to the palace as well as its enemies. At the Array, Malrec asks for
   a capital exemption, accepts Faris's refusal, publicly releases every claim,
-  and later compresses overlapping attackers into one base room at the cost of
-  rapid aging. **Exact local scope:** Malrec, Mavorn Palace, and the Array
+  and arms rather than destroys the Chamber. Before terminal release, its
+  one-way failsafe can collapse an imposed overlap into the base room without
+  making a new arrangement; Malrec uses that defense at the established cost
+  of rapid aging. **Exact local scope:** Malrec, Mavorn Palace, and the Array
   event. **Constraints and dependencies:** The prose does not establish
   Malrec's post-event survival, the later government of Mavorn, or a universal
   law of magical monarchy, pardon, or architecture. Depends on AAD-11, AAD-19,
@@ -107,9 +130,10 @@ survives as a magical seed.
 - **AAD-05 — Qeluun (proposed).** **Fact:** Qeluun is a vast living nonhuman
   person whose bodily contractions alter weight across the upper air and whose
   exposed sensory tissue can be injured. Qeluun rescues Faris after his tether
-  mistake, guides him by pressure knocks while he removes poacher rigs,
-  re-entrusts a shed vertebra that Faris returned, and requires him never to
-  address them as terrain. At the Array, Qeluun refuses euphemism, accepts the
+  mistake, guides him by pressure knocks while he removes poacher rigs, and
+  re-entrusts a shed vertebra that Faris returned. Faris promises never to
+  address Qeluun as terrain.
+  At the Array, Qeluun refuses euphemism, accepts the
   stated possibility of death, aligns the Nearmost Vertebra, and holds one last
   stable down for Faris. They remain conscious when Worldcoil ends and begin
   falling with their ultimate fate unresolved. **Exact local scope:** Qeluun's
@@ -145,8 +169,9 @@ survives as a magical seed.
   integrity to catch Faris rather than immediately free themself; after Faris
   releases the pin trapping their wing, they carry both of them out, give him
   Unflown Arc, and consent to his custody of the recovered Parity Astrolabe. At
-  the Array, Ekkorath requires Faris to name grounded dragons and falling
-  cities, then completes the terminal counter-circuit and holds one last
+  the Array, Ekkorath rejects a structures-only account and requires Faris to
+  name deaths among grounded dragons, city occupants, and people below falling
+  cities. They then complete the terminal counter-circuit and hold one last
   ordinary-distance corridor while blood stripes both wings. **Exact local scope:** Ekkorath's Skairrift rescue, relationship with Faris, and terminal
   Horizon Flight. **Constraints and dependencies:** The prose does not
   establish Ekkorath's survival, a universal dragon authority, biology,
@@ -161,32 +186,45 @@ survives as a magical seed.
   the power to refuse or limit Faris's request and each makes a fresh,
   materially distinct present choice. Their acts arm one system apiece and
   their separate defensive actions keep Faris alive long enough to reach the
-  Latch. Five understand the terminal loss described to them; Seyathi alone
-  acts under Faris's deliberate omission of worldwide scope. **Exact local scope:** These six relationships and this one Ithrom Array convergence.
+  Latch. Five have heard the complete terminal request before arriving and know
+  Seyathi has not; they agree not to supply Faris's missing scope, then still
+  make their own fresh choices at the Array. Seyathi alone acts under his
+  deliberate omission of worldwide scope. **Exact local scope:** These six relationships and this one Ithrom Array convergence.
   **Constraints and dependencies:** Past service creates trust, argument, or a
   claim to be heard, not magical debt, compulsion, universal sovereignty, or
-  unanimous consent. Depends on AAD-01 through AAD-07, AAD-10 through AAD-15,
+  unanimous consent. The five informed participants are complicit in the
+  concealment, which neither transfers Faris's responsibility nor makes
+  Seyathi's choice informed. Depends on AAD-01 through AAD-07, AAD-10 through AAD-15,
   AAD-23 through AAD-30, AAD-32, and AAD-36. **Provenance:**
-  `05-story.md`, six flashback returns and continuous climax. **Proposed disposition:** `PROPOSE ADD WITH SIX-RELATIONSHIP QUALIFIER`. **Suggested smallest topical target:** `universe/characters.md`.
+  `05-story.md`, six flashback triggers and the uninterrupted final six-choice
+  arming sequence. **Proposed disposition:** `PROPOSE ADD WITH SIX-RELATIONSHIP QUALIFIER`. **Suggested smallest topical target:** `universe/characters.md`.
 
 ## New locations and quest events
 
 - **AAD-09 — Ithrom Array and Unwritten Axis (proposed).** **Fact:** The Ithrom
   Array is a stone-and-metal assembly suspended where six world-curves meet.
-  Its hub contains six sockets around the person-sized Unwritten Axis, the
-  Parity Astrolabe above, and Mortal Latch below. At the Axis, the Absolute
+  Engineers delegated by all six practices built it, Parity Astrolabe, and
+  Mortal Latch three hundred and two years before the terminal event as a
+  distributed mutual failsafe against coupled root authority. They assigned
+  timing custody to route custodians and junction custody to graft keepers so
+  one practice would not hold both. Its hub has six sockets around the
+  Unwritten Axis, the Astrolabe above, and a Latch mounting recess below; the
+  unseated Latch begins in a cradle three exposed
+  body-lengths away. At the Axis, the Absolute
   Yoke finds no address in lifelong non-user Faris, but neither the recess nor Faris
   is immune to direct magical or physical harm. During extinction, the
   world-curves expose six simultaneous endings; afterward the Array becomes
-  ordinary matter, its arches break, and the Axis cracks. **Exact local scope:** This one terminal assembly, recess, and event in the present
-  material world. **Constraints and dependencies:** No creator, date, reuse,
-  sentience, judgment, universal map, or relationship to another structure is
+  ordinary unsupported matter and enters open fall with Faris, Seyathi, and its
+  fragments, while its arches diverge and the Axis cracks free. **Exact local scope:** This one terminal assembly, recess, and event in the present
+  material world. **Constraints and dependencies:** The engineers remain
+  unnamed; no personal creator, later reuse, sentience, judgment, universal
+  map, public location, or relationship to another admitted structure is
   established. Depends on AAD-01, AAD-22, AAD-28, AAD-30 through AAD-35.
-  **Provenance:** `05-story.md`, opening and continuous climax. **Proposed disposition:** `PROPOSE ADD, UNDATED AND UNPLACED`. **Suggested smallest
+  **Provenance:** `05-story.md`, opening and continuous climax. **Proposed disposition:** `PROPOSE ADD, RELATIVELY DATED AND PUBLICLY UNPLACED`. **Suggested smallest
   topical target:** `universe/locations.md`.
 
 - **AAD-10 — Talarum Steps rescue (proposed).** **Fact:** Nine years before the
-  Array event, a corrupted Tessellate Grace pavement at the Talarum Steps holds
+  Array event, a coercive Tessellate Grace pavement at the Talarum Steps holds
   forty-three pilgrims in compulsory worship. Faris mistakenly trusts a blank
   tile, a captive points out an ordinary maintenance pin, Seyathi suspends the
   compulsion for one breath, and Faris removes the pin with his sandal buckle,
@@ -247,7 +285,10 @@ survives as a magical seed.
 
 - **AAD-14 — Keruvan Fold sanctuary breach and bargain (proposed).** **Fact:**
   Four years before the Array event, Faris steals Unhatched Form and Mortal
-  Latch because patrons use Kindred Graft on captive people. Jelveth pursues
+  Latch because patrons use Kindred Graft to make consent a ceremony performed
+  after cutting. The Latch is in
+  graft-keeper custody because the six-practice Array engineers assigned its
+  preserve-matter selector to that tradition. Jelveth pursues
   him through a sanctuary of chosen exchanged faculties. Faris cuts a
   load-bearing exchange, abandons escape, returns with the relics, and follows
   Jelveth's instructions to brace the sanctuary with poles and a bench leg
@@ -255,8 +296,10 @@ survives as a magical seed.
   Jelveth grants lawful custody through a public bargain requiring repair and
   respect for fixed grafted identity. **Exact local scope:** This sanctuary,
   theft, material repair, exposure, and bargain in the Keruvan Fold.
-  **Constraints and dependencies:** The patrons, captives, law, broader Fold,
-  sanctuary's later state, and universal graft policy remain unspecified.
+  **Constraints and dependencies:** That custody explains the Latch's location
+  but does not make Faris's initial theft lawful or establish a universal
+  keeper office. The patrons, affected people, law, broader Fold, sanctuary's later
+  state, and universal graft policy remain unspecified.
   Depends on AAD-06, AAD-21, AAD-27, and AAD-28. **Provenance:**
   `05-story.md`, Keruvan flashback. **Proposed disposition:** `PROPOSE ADD,
   LOCALLY BOUNDED`. **Suggested smallest topical target:**
@@ -264,14 +307,17 @@ survives as a magical seed.
 
 - **AAD-15 — Skairrift rescue and recovery (proposed).** **Fact:** Eighteen
   years before the Array event, a Horizon Flight corridor knot pins Ekkorath
-  around a falling ruin. Faris's ballast knot slips and Ekkorath catches him at
+  around a falling ruin. Ekkorath entered the former Array calibration station
+  to recover Parity Astrolabe from a known service recess sealed beneath a
+  marked ordinary roof tile. Faris's ballast knot slips and Ekkorath catches him at
   further cost to their wing. Faris uses falling stone to identify ordinary
   down, hammers out the physical pin binding two ruins into one circuit, and
   frees Ekkorath. They give him Unflown Arc, then together recover the Parity
-  Astrolabe from beneath an ordinary roof tile; Ekkorath consents to Faris's
+  Astrolabe from that marked recess; Ekkorath consents to Faris's
   custody after requiring him to name the cost of its use. **Exact local scope:** This one corridor knot, ruin, mutual rescue, gift, and recovery at
-  Skairrift. **Constraints and dependencies:** The ruin's builders, regional
-  geography, route network, and later Skairrift history remain unresolved.
+  Skairrift. **Constraints and dependencies:** The recovery is intentional,
+  but the station's staff, regional geography, route network, and later
+  Skairrift history remain unresolved.
   Depends on AAD-07, AAD-18, AAD-29, and AAD-30. **Provenance:**
   `05-story.md`, Skairrift flashback. **Proposed disposition:** `PROPOSE ADD,
   LOCALLY BOUNDED`. **Suggested smallest topical target:**
@@ -300,7 +346,10 @@ survives as a magical seed.
   their own body mass to make black fire draw heat and mineral inward along
   furnace relations. The act wounds Hurzai, and air continues to move
   physically through the machinery. Root authority can be inverted once
-  through Cold Maw. At extinction, black flames pinch out, held heat returns as
+  through Cold Maw. A partial, non-arming narrowing at the Array makes the
+  Yoke's Fire pattern reroute through a Grace command, demonstrating hybrid
+  cross-root sheltering without establishing shared origin. At extinction,
+  black flames pinch out, held heat returns as
   ordinary expansion, moving fortresses become slag, living capacities end,
   and some demon bodies survive while others do not. **Exact local scope:**
   Inward Fire, its root-furnace relation, and demonstrated bodies and
@@ -318,7 +367,8 @@ survives as a magical seed.
   Ekkorath's terminal counter-flight charges Unflown Arc; synchronized reversal
   straightens horizons, empties stored distance from routes and bodies, closes
   material-side crossing anchors, and returns suspended cities to ordinary
-  falling. **Exact local scope:** Horizon Flight as shown at Skairrift, the
+  falling. City occupants, people below falling wreckage, and some grounded
+  dragons die, while some dragons descend on ordinary wings. **Exact local scope:** Horizon Flight as shown at Skairrift, the
   Array, and the visible terminal world. **Constraints and dependencies:**
   Material-side closure makes no claim about former destinations. The prose
   establishes no universal dragon flight, culture, origin, egg biology, or
@@ -330,11 +380,14 @@ survives as a magical seed.
 - **AAD-19 — Manyroom (proposed).** **Fact:** King Malrec's heartbeat lets
   nonliving rooms and structures occupy multiple material arrangements while
   each living person remains one body crossing only at permitted thresholds.
+  Every arrangement beyond the material base accelerates Malrec's bodily aging.
   Repeated arrangements can be tracked through ordinary smells and one base
   structure. Sole Chamber governs the royal arrangements; Malrec's public
-  renunciation and the terminal reversal collapse all overlaps into one
-  material arrangement without copying or erasing people. Use at the Array
-  visibly ages Malrec. **Exact local scope:** Mavorn Palace, Malrec's authority,
+  renunciation arms it without spending it. Until release, a one-way failsafe
+  can collapse an imposed overlap to the base without creating a new
+  arrangement. The terminal reversal collapses all overlaps into one material
+  arrangement without copying or erasing people. Malrec's defensive use visibly
+  exacts the established aging cost. **Exact local scope:** Mavorn Palace, Malrec's authority,
   and Manyroom structures reached in this terminal era. **Constraints and dependencies:**
   No universal architecture, duplication rule, monarchy, prison practice, or
   shared origin is established. Depends on AAD-04, AAD-11, AAD-24, AAD-22,
@@ -348,7 +401,8 @@ survives as a magical seed.
   tissue, and pressure knocks carry intentional communication through the
   body. A shed vertebra can carry one terminal alignment when Qeluun
   personally moves it into place. Extinction drains auroras into weather, ends
-  stored weight and impossible leverage, and leaves conscious Qeluun subject
+  stored weight and impossible leverage, drops previously held mountains, and
+  leaves conscious Qeluun subject
   to ordinary falling. **Exact local scope:** Qeluun's one body, its reached
   masses and structures, and the terminal event. **Constraints and dependencies:**
   No universal gravity law, landscape identity, cosmic species, world-body
@@ -365,12 +419,14 @@ survives as a magical seed.
   load-bearing exchange fails. Unhatched Form stores possible exchanges, and
   Jelveth's root act can close that reservoir while selecting `end function;
   preserve matter`. Extinction preserves completed material bodies and
-  identities while ending impossible faculties, shared senses, storage
-  organs, keeper awareness, and forced hybrid functions. **Exact local scope:**
+  identities while ending the Unhatched Form's stored possible exchanges,
+  impossible faculties, shared senses, keeper awareness, forced hybrid
+  functions, and Kindred Graft reserves. **Exact local scope:**
   Kindred Graft bodies, keepers, sanctuary, reservoir, and hybrids shown or
-  reached in this story. **Constraints and dependencies:** The prose does not
-  promise survival for a body materially dependent on a lost faculty, define
-  universal consent law, reset bodies, restore an “original” identity, or
+  reached in this story. **Constraints and dependencies:** Some bodies
+  materially dependent on a lost faculty die, but no universal survival rule
+  is established. The prose does not define universal consent law, reset
+  bodies, restore an “original” identity, or
   establish a relation to another transformation system. Depends on AAD-06,
   AAD-14, AAD-27, AAD-22, and AAD-34. **Provenance:** `05-story.md`,
   Keruvan, terminal defense, and extinction scenes. **Proposed disposition:**
@@ -383,15 +439,20 @@ survives as a magical seed.
   present material world. The Absolute Yoke and forced hybrids borrow from
   these constituents and do not constitute a seventh source. Each system is
   represented by its own living authority and terminal keystone. The six armed
-  conditions propagate simultaneously; the wave ends all six systems, their
+  conditions must propagate simultaneously because every Yoke branch holds all
+  six stolen adapter patterns: if five roots ended while one retained living
+  capacity, the survivor could preserve the instructions and compel users to
+  rebuild the closed entrances. Hurzai's partial Cold Maw test demonstrates one
+  root pattern rerouting through another. The wave ends all six systems, their
   reserves and structures, and every constituent hybrid, leaving no magic in
   the present material world. **Exact local scope:**
   This one unplaced terminal era and material world at the Ithrom Array event.
-  **Constraints and dependencies:** Shared timing does not establish shared
+  **Constraints and dependencies:** The partial-ending counterfactual is local
+  to this six-root Yoke and its stolen adapter design. Shared timing does not establish shared
   origin, fuel, substance, ancestry, language, or operation, and it does not
   classify magic in earlier eras or other realities. Depends on AAD-16 through
   AAD-21, AAD-23 through AAD-35. **Provenance:** `05-story.md`, opening's six
-  wonders, six arming returns, six derivative attacks, six extinction
+  wonders, the uninterrupted final six-choice arming sequence, six derivative attacks, six extinction
   grammars, and explicit no-seventh statement. **Proposed disposition:**
   `PROPOSE ADD WITH TERMINAL-ERA QUALIFIER`. **Suggested smallest topical target:**
   `universe/rules.md`.
@@ -418,8 +479,9 @@ survives as a magical seed.
   hundred and eighty-six years before the theft. Faris steals it from the
   palace prison; Malrec later legalizes his custody through a pardon while
   retaining a witnessed claim. The Chamber governs Manyroom at Mavorn,
-  receives Malrec's public renunciation, briefly supports his defensive base
-  room, then tears permanently flat as every overlap ends. **Exact local scope:**
+  receives Malrec's public renunciation without discharging, then uses its
+  armed one-way failsafe to collapse imposed attackers into the base room
+  before tearing permanently flat as every overlap ends. **Exact local scope:**
   This one keystone, Mavorn custody history, and Manyroom function.
   **Constraints and dependencies:** It does not duplicate people, choose an
   arrangement, pardon Faris, act without Malrec, or retain usable geometry.
@@ -433,7 +495,7 @@ survives as a magical seed.
   was born. Faris recovers it from a poachers' buyer, returns it to Qeluun, and
   accepts it back in entrusted terminal custody. Qeluun must personally align
   it; it carries one Worldcoil terminal change, becomes dust while arming, and
-  later scatters without responding to Qeluun's fear. **Exact local scope:**
+  answers nothing after extinction. **Exact local scope:**
   This one shed bodily relic and its Worldcoil alignment. **Constraints and dependencies:**
   It grants Faris no weight control or protection, acts only through Qeluun,
   and leaves no magical bone, pulse, or recovery seed. Depends on AAD-05,
@@ -445,9 +507,11 @@ survives as a magical seed.
   heatless-alloy jaws forged by one of Hurzai's predecessors six hundred and
   eleven years before the Ghorvane rescue. Hurzai bargains custody to Faris
   under a cost-naming condition. Turned inward, the jaws preserve root
-  authority over Inward Fire; turned outward once by Hurzai, they reverse that
-  authority, receive active hostile fire, fuse around the socket, and finish as
-  two dead lumps of alloy after stored heat escapes ordinarily. **Exact local scope:**
+  authority over Inward Fire. Before arming, Hurzai partially narrows them to
+  test the Yoke's cross-root rerouting, then reopens them. Turned outward once
+  by Hurzai, they reverse that
+  authority, receive active hostile fire, fuse around the socket, and soften
+  into dead alloy after stored heat escapes ordinarily. **Exact local scope:**
   This one Inward Fire keystone, bargain, and terminal inversion.
   **Constraints and dependencies:** It does not burn, choose, speak, protect
   generally, or operate without Hurzai's living act, and it retains no root or
@@ -462,7 +526,7 @@ survives as a magical seed.
   been a person. Faris steals it, then receives lawful custody through
   Jelveth's public bargain. Jelveth closes it under the preserve-matter
   selector; its synchronized reversal ends Kindred Graft reserves and the Form
-  denatures into inert protein ash. **Exact local scope:** This one Kindred
+  becomes protein ash. **Exact local scope:** This one Kindred
   Graft keystone, its reservoir, custody, and terminal closure. **Constraints and dependencies:**
   It cannot choose bodies, speak, consent, reset identity, or restore a form,
   and no viable magical tissue or possibility remains. Depends on AAD-06,
@@ -472,16 +536,26 @@ survives as a magical seed.
   `universe/rules.md`.
 
 - **AAD-28 — Mortal Latch (proposed).** **Fact:** Mortal Latch is a nonliving
-  terminal junction built by unnamed engineers from a ceramic bearing, iron
-  lever, six insulated plungers, one selector plate, and a removable ordinary
-  iron cotter. Faris steals it at Keruvan, later receives lawful custody, seats
-  it below the Unwritten Axis, presses the six plungers in the physical
-  preserve-matter/end-function order, inserts the cotter, and turns the lever
-  ninety degrees. Pulling the cotter releases the already armed conditions.
+  terminal junction built with the Array and Parity Astrolabe by unnamed
+  engineers delegated from all six practices three hundred and two years
+  before the terminal event. Its shown parts include a ceramic bearing, lever,
+  six plungers, selector plate, housing, removable ordinary cotter, and
+  insulation that holds the armed outputs apart. The
+  engineers assign it to graft-keeper custody because its selector protects
+  material bodies. Faris steals it at Keruvan when it is two hundred and
+  ninety-eight years old, then receives lawful custody. At the Array it begins
+  unseated in a cradle three body-lengths from its recess, selector upward,
+  plungers separate, lever folded, and cotter strapped to the housing. Jelveth
+  verifies and Faris sets `preserve matter; end function` before he lifts it.
+  Faris carries it across the three lengths, seats and twists the bearing flush
+  below the Axis, presses the plungers short of contact, braces the housing,
+  slides the cotter through all six, and turns the lever ninety degrees to load
+  them against that restraint. Pulling the cotter releases the already armed conditions.
   The bearing splits, lever bends, plungers shatter, and no repeatable action
   remains. **Exact local scope:** This one six-output junction and its single
-  terminal use. **Constraints and dependencies:** Its age is unstated. It
-  stores no demonstrated independent charge, originates no power, interprets
+  terminal use. **Constraints and dependencies:** The collective engineers are
+  unnamed, and the custody does not make the Latch a keeper, authority, or
+  living actor. It stores no demonstrated independent charge, originates no power, interprets
   no words, chooses no outcome, and cannot fire an unarmed system. Depends on
   AAD-01, AAD-06, AAD-09, AAD-14, AAD-21, AAD-30, and AAD-32 through AAD-35.
   **Provenance:** `05-story.md`, Keruvan, Axis crossing, cotter release, and
@@ -492,9 +566,10 @@ survives as a magical seed.
   piece of Ekkorath's damaged flight horn that comes loose during the
   Skairrift rescue. It holds the Horizon Flight counter-circuit Ekkorath chose
   not to spend on themself, and they freely give it to Faris as a rescue gift.
-  Ekkorath's terminal counter-flight charges the Arc at the sixth socket; the
-  synchronized reversal empties its one circuit, cracks it along its length,
-  and leaves ordinary horn with no second flight. **Exact local scope:** This
+  The Arc, rather than the Astrolabe, visibly lifts after the fifth arming.
+  Ekkorath's terminal counter-flight charges it at the sixth socket; the
+  synchronized reversal empties its one circuit, cracks it into ordinary horn,
+  and leaves no second flight. **Exact local scope:** This
   one Horizon Flight keystone, gift, circuit, and terminal use. **Constraints
   and dependencies:** It grants Faris no flight, opens no route on its own,
   chooses no circuit, and retains no stored distance. Depends on AAD-07,
@@ -504,10 +579,13 @@ survives as a magical seed.
   target:** `universe/rules.md`.
 
 - **AAD-30 — Parity Astrolabe (proposed).** **Fact:** Parity Astrolabe is a
-  nonliving synchronizer built by the Mortal Latch's unnamed engineers three
-  hundred and two years before the Skairrift recovery from six passive
-  indicator metals. Ekkorath lifts the roof tile covering it, Faris frees a
-  bent nail, and he takes custody with Ekkorath's consent. Each needle answers
+  nonliving synchronizer built with the Array and Mortal Latch by the six
+  practices' unnamed engineers three hundred and two years before the terminal
+  event. Route custodians seal it at Skairrift's Array calibration station in a
+  marked service recess under an ordinary roof tile. Ekkorath intentionally
+  enters the ruin to recover it when it is two hundred and eighty-four years
+  old, lifts the marked tile, and lets Faris free its bent nail and take custody
+  with consent. Each of its six passive indicator metals answers
   to one root system's timing without holding power itself. When all six
   keystones are armed, the needles align one common release instant; after
   registering six zeros, the needles melt and the frame falls apart.
@@ -516,25 +594,33 @@ survives as a magical seed.
   universal translator, truth detector, common magical grammar, authority, or
   decision-maker; it neither arms a system nor retains a reproducible pattern.
   Depends on AAD-07, AAD-09, AAD-15, AAD-22 through AAD-29, and AAD-32 through
-  AAD-35. **Provenance:** `05-story.md`, Skairrift recovery, six arming
-  returns, cotter release, and extinction. **Proposed disposition:** `PROPOSE
+  AAD-35. **Provenance:** `05-story.md`, Skairrift recovery, the uninterrupted
+  final six-choice arming sequence, cotter release, and extinction. **Proposed disposition:** `PROPOSE
   ADD`. **Suggested smallest topical target:** `universe/rules.md`.
 
 ## Opposition and terminal event
 
 - **AAD-31 — Bound Ascendancy and Absolute Yoke (proposed).** **Fact:** The
-  named Bound Ascendancy opposition attacks the Ithrom Array through a hybrid body, conscripted
-  mouths, and derivative uses of all six systems. The Absolute Yoke borrows
+  Bound Ascendancy grows from armistice councils formed after route wars drop
+  cities and furnace armies cross sanctuaries. Its frightened rulers, priests,
+  users, and magic-dependent peoples conclude that peace requires every root to
+  obey. From stolen Array studies and living contributions taken or volunteered
+  across all six systems, they build the Absolute Yoke to preserve the magical
+  world by removing refusal. At the Array the Ascendancy attacks through a
+  hybrid body, conscripted mouths, and derivative uses of all six systems. The Yoke borrows
   Grace as command, Fire as appetite, Flight as pursuit, Manyroom as prison,
   Worldcoil as chains, and Graft as forced flesh. Its offered peace would keep
   cities, crossings, bodies, gods, and magical care functioning by making
   disobedience impossible. Every magical defense gives it a cleaner route into
-  that system. It loses every borrowed face and becomes dust when the six
+  that system, and each branch contains all six stolen adapter patterns. It
+  loses every borrowed face and disperses when the six
   source systems end. **Exact local scope:** This coalition, hybrid coercive
   structure, assault, and offer at the Array. **Constraints and dependencies:**
-  The prose establishes no seventh source, independent species, singular
-  separate character, shared origin, surviving member roster, or later
-  political history. The offer is materially credible but coercive, not a
+  The prose establishes no named founder or leader, seventh source, independent
+  species, singular separate character, shared origin, surviving member roster,
+  exact duration, or later political history. Taken contributions are not
+  universalized as the status of every participant. The offer is materially
+  credible but coercive, not a
   restoration path after extinction. Depends on AAD-16 through AAD-22 and
   AAD-32 through AAD-35. **Provenance:** `05-story.md`, opening, six attacks,
   offered order, and extinction. **Proposed disposition:** `PROPOSE ADD WITH
@@ -544,23 +630,29 @@ survives as a magical seed.
 - **AAD-32 — six arming choices and defenses (proposed).** **Fact:** While
   magic remains active, Seyathi arms Missing Tessera, Malrec releases every
   claim into Sole Chamber, Qeluun aligns Nearmost Vertebra, Hurzai turns Cold
-  Maw outward, Jelveth closes Unhatched Form and opens the Axis, and Ekkorath
+  Maw outward after testing the all-roots premise, Jelveth closes Unhatched
+  Form and opens the Axis, and Ekkorath
   flies the counter-circuit that charges Unflown Arc. During the assault,
   Seyathi folds command geometry away, Hurzai absorbs hostile fire, Malrec
-  reduces overlapping attackers to one room, Qeluun holds stable down, Jelveth
+  uses Sole Chamber's armed one-way failsafe to reduce imposed overlapping
+  attackers to the base room, Qeluun holds stable down, Jelveth
   separates forced grafts, and Ekkorath holds the final corridor. **Exact local scope:** One continuous arming and defense at the Ithrom Array.
   **Constraints and dependencies:** These are six living choices and
   costly actions, not artifact autonomy, compelled debts, one common spell, or
-  unanimous world consent. Seyathi's information remains limited as stated in
-  AAD-36. Depends on AAD-02 through AAD-08, AAD-16 through AAD-30, AAD-31,
-  and AAD-36. **Provenance:** `05-story.md`, six present returns and
-  continuous attack. **Proposed disposition:** `PROPOSE ADD`. **Suggested smallest topical target:** `universe/timeline.md`.
+  unanimous world consent. Five participants know the full request and are
+  complicit in not supplying its scope to Seyathi; her information remains
+  limited as stated in AAD-36. Depends on AAD-02 through AAD-08, AAD-16 through AAD-30, AAD-31,
+  and AAD-36. **Provenance:** `05-story.md`, the uninterrupted final arming
+  sequence and continuous attack. **Proposed disposition:** `PROPOSE ADD`. **Suggested smallest topical target:** `universe/timeline.md`.
 
 - **AAD-33 — ordinary cotter release and declaration (proposed).** **Fact:**
-  Faris crosses three exposed body-lengths, seats Mortal Latch, orders its six
-  plungers to preserve matter and end function, inserts an ordinary iron
-  cotter, turns the hand lever ninety degrees, and waits for the Astrolabe's six
-  needles to align. He pulls the cotter while saying exactly `No More Magic`.
+  Faris lifts Mortal Latch from its cradle with selector already fixed and its
+  bearing, plungers, lever, and cotter still in their opening states. He crosses
+  three exposed body-lengths, seats and twists the bearing flush below the Axis,
+  presses the six plungers short of contact, braces the housing, inserts an
+  ordinary cotter through all six, and turns the lever ninety degrees
+  to load them against it. When the Astrolabe's sixth needle meets the other
+  five, he pulls the cotter while saying exactly `No More Magic`.
   The words cause nothing; the physical release drops the six plungers into
   contact and propagates six already armed terminal conditions in the same
   instant. **Exact local scope:** This one synchronized release at the
@@ -581,6 +673,11 @@ survives as a magical seed.
   material possibility of restoration. Nonliving remnants become powder, dead
   alloy, ordinary horn, unusable bronze, dust, protein ash, melted metal,
   broken ceramic, ordinary heat, weather, falling matter, or inert structure.
+  With Worldcoil and world-curves ended, the Ithrom Array receives no exemption:
+  its hub, Seyathi, Faris, and its broken pieces all enter open fall, with a
+  nearby slab providing contact but no stable platform. Occupants die in some
+  falling cities, sanctuaries, fortresses, and magic-dependent bodies, and
+  people below released masses also die.
   No artifact, descendant, machine, focus, or repeatable terminal pattern can
   restore magic, and magic can never return to that material world.
   **Exact local scope:** The present material world from this terminal instant
@@ -598,9 +695,11 @@ survives as a magical seed.
   power and therefore godhood, while worship and personhood remain. Completed
   grafted material bodies remain themselves, Manyroom travelers remain whole
   in one material location, Qeluun remains conscious as impossible leverage
-  ends, Seyathi remains alive and angry, and demon or graft-dependent survival
-  follows the ordinary material body rather than one universal harmless or
-  fatal rule. **Exact local scope:** People and bodies directly shown or
+  ends, and Seyathi remains alive and angry. Death is explicitly retained as a
+  consequence among occupants of falling structures, people beneath released
+  masses, some demons and dragons, and bodies dependent on lost magical
+  functions. Survival follows ordinary matter rather than one universal
+  harmless or fatal rule. **Exact local scope:** People and bodies directly shown or
   narratively reached by this one terminal event. **Constraints and dependencies:** Loss of function is not loss of personhood; survival is not
   guaranteed; death is not established as erasure from the afterlife; no
   universal post-magic biology is created. Depends on AAD-02 through AAD-07,
@@ -615,8 +714,12 @@ survives as a magical seed.
   or pass it to anyone.` Every clause becomes true. Faris has deliberately
   omitted `only`, knows Seyathi understands the request as bounded to the
   Yoke, and lets her arm a global system keystone without informed consent to
-  extinction. After the wave, Seyathi repeats the promise, identifies the
-  omitted word, plants her heel in the first Tessellate position, and makes the
+  extinction. The five other authorities know the full scope and agree not to
+  supply it; their complicity does not absolve Faris or make Seyathi informed.
+  The visible six-strike arrangement and hidden terminal connection support her
+  narrow reading. After the wave, Seyathi repeats the promise and says
+  unambiguously, `You left out only.` She strikes her heel against the slab
+  falling beside her, assumes the first Tessellate position, and makes the
   two-finger turn that formerly forced prepared surfaces and bodies to kneel.
   Nothing moves or answers. **Exact local scope:** Faris and Seyathi's
   Talarum-derived promise, first arming, and immediate final confrontation.
@@ -683,9 +786,10 @@ honorific, nickname, additional title-as-name, or crossover identity appears.
 ## New glossary terms or aliases
 
 - **AAD-37 — terminal-era proper-noun bundle (proposed).** **Fact:** Candidate
-  local terms comprise the four structure/opposition labels, six quest-place
-  labels, six system labels, and eight relic labels enumerated in the reviewed
-  prose allowlist, with their meanings bounded by AAD-09 through AAD-31.
+  local proper-noun terms comprise four structure/opposition labels, six
+  quest-place labels, six system labels, and eight relic labels, with their
+  meanings bounded by AAD-09 through AAD-31. The reviewed prose allowlist also
+  classifies the declaration, engraved instructions, and capitalized dialogue.
   **Exact local scope:** The vocabulary of this standalone terminal-era story.
   **Constraints and dependencies:** These terms do not imply character status,
   shared magical ancestry, universal taxonomy, relationship to an admitted
