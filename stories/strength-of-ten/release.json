@@ -1,1 +1,37 @@
-{"schemaVersion":3,"certified":false,"storySlug":"strength-of-ten","certifiedAt":null,"certificationBasis":"pipeline","artifacts":{"story":{"path":"05-story.md"},"canonDelta":{"path":"06-canon-delta.md"}},"review":{"artifact":null,"pass":0,"verdict":"PENDING","reviewer":null,"reviewedAt":null,"reviewBasis":null,"unresolvedCritical":null,"unresolvedMajor":null},"nameCheck":{"story":"strength-of-ten","phase":"Final","passed":false,"checkedAt":null,"checkerVersion":"story-names/3","warnings":[]},"dependencies":{"authorityManifest":"authority.json","handoffLedger":"handoffs.json"}}
+{
+  "schemaVersion": 3,
+  "certified": true,
+  "storySlug": "strength-of-ten",
+  "certifiedAt": "2026-08-06T04:24:00.1751875+00:00",
+  "certificationBasis": "pipeline",
+  "artifacts": {
+    "story": {
+      "path": "05-story.md"
+    },
+    "canonDelta": {
+      "path": "06-canon-delta.md"
+    }
+  },
+  "review": {
+    "artifact": "05-story.md",
+    "pass": 4,
+    "verdict": "PASS",
+    "reviewer": "continuity_critic",
+    "reviewedAt": "2026-08-06T04:20:34.4044633Z",
+    "reviewBasis": "independent continuity review",
+    "unresolvedCritical": 0,
+    "unresolvedMajor": 0
+  },
+  "nameCheck": {
+    "story": "strength-of-ten",
+    "phase": "Final",
+    "passed": true,
+    "checkedAt": "2026-08-06T00:23:59.9453545-04:00",
+    "checkerVersion": "story-names/3",
+    "warnings": []
+  },
+  "dependencies": {
+    "authorityManifest": "authority.json",
+    "handoffLedger": "handoffs.json"
+  }
+}
