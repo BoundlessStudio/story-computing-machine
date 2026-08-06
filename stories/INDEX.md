@@ -7,7 +7,7 @@ Character-name usage and aliases are tracked in [`NAMES.md`](NAMES.md).
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | `a-friendly-little-game` | *A Friendly Little Game* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-hollow-cask` | *The Hollow Cask* | candidate | no | pending | no | — | Release-certified story candidate. |
-| `all-accounts-due` | *All Accounts Due* | in-progress | no | pending | no | — | Lifecycle action: Reopen. |
+| `all-accounts-due` | *All Accounts Due* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `four-million-falling` | *Four Million Falling* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-sky-remembers-us` | *The Sky Remembers Us* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-unrepeatable-working` | *The Unrepeatable Working* | candidate | no | pending | no | — | Release-certified story candidate. |
