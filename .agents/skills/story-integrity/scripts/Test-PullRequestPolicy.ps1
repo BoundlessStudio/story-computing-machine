@@ -12,12 +12,14 @@ if(-not$branch-or$branch-ceq'main'){$errors.Add('Pull-request production validat
 try{$baseLines=@(Invoke-GitLines @('rev-parse',$BaseRef));$baseCommit=$baseLines[0];$null=(Invoke-GitLines @('rev-parse',$HeadRef))}catch{$errors.Add($_.Exception.Message);$baseCommit=$null}
 $changed=@();if($baseCommit){try{$changed=@(Invoke-GitLines @('diff','--name-only',"$BaseRef...$HeadRef")|ForEach-Object{$_.Replace('\','/')}|Sort-Object -Unique)}catch{$errors.Add($_.Exception.Message)}}
 $changedSet=[Collections.Generic.HashSet[string]]::new([StringComparer]::Ordinal);foreach($item in $changed){$null=$changedSet.Add($item)}
+$touched=@();if($baseCommit){try{$touched=@(Invoke-GitLines @('log','--format=','--name-only',"$BaseRef..$HeadRef")|ForEach-Object{$_.Replace('\','/')}|Sort-Object -Unique)}catch{$errors.Add($_.Exception.Message)}}
+$touchedSet=[Collections.Generic.HashSet[string]]::new([StringComparer]::Ordinal);foreach($item in $touched){$null=$touchedSet.Add($item)}
 $legacyMigration=($branch -ceq 'codex/pipeline-simplification-and-legacy-acceptance' -and $changedSet.Contains('stories/legacy-acceptance.json'))
 $storySlugs=@($changed|ForEach-Object{if($_ -match '^stories/(?<slug>[a-z0-9-]+)/'){$Matches.slug}}|Where-Object{$_ -ne'_template'}|Sort-Object -Unique)
 foreach($slug in $storySlugs){
  if($legacyMigration -and -not(Test-Path -LiteralPath (Join-Path $ProjectRoot "stories/$slug/story.json"))){continue}
  $prefix="stories/$slug/";$finalChanged=$changedSet.Contains("${prefix}05-story.md")-or$changedSet.Contains("${prefix}06-canon-delta.md")
- if($finalChanged){foreach($required in @("${prefix}04-review.md","${prefix}release.json","${prefix}story.json","${prefix}README.md",'stories/INDEX.md','stories/NAMES.md')){if(-not$changedSet.Contains($required)){$errors.Add("$slug final artifact changes require co-change: $required")}}}
+ if($finalChanged){foreach($required in @("${prefix}04-review.md","${prefix}release.json","${prefix}story.json","${prefix}README.md",'stories/INDEX.md','stories/NAMES.md')){if(-not$touchedSet.Contains($required)){$errors.Add("$slug final artifact changes require co-change: $required")}}}
  if($changedSet.Contains("${prefix}04-review.md")){
   try{$cert=Get-ReviewCertification(Join-Path $ProjectRoot "${prefix}04-review.md");$artifact=$(if([string]$cert.artifact -match '/'){([string]$cert.artifact).Replace('\','/')}else{"${prefix}$($cert.artifact)"});$artifactCommit=Get-LatestPathCommit $artifact;$reviewCommit=Get-LatestPathCommit "${prefix}04-review.md";if(-not(Test-AtOrAfter $artifactCommit $reviewCommit)){$errors.Add("$slug review must be committed at or after $artifact.")}}catch{$errors.Add("${slug}: $($_.Exception.Message)")}
  }
@@ -36,6 +38,6 @@ if($universeChanges.Count){
  }
 }
 if(@($changed|Where-Object{$_ -cmatch '^sources/'}).Count){& (Join-Path $PSScriptRoot 'Test-SourceManifest.ps1') -OutputFormat Json -ProjectRoot $ProjectRoot *> $null;$sourceOk=$?;if(-not$sourceOk){$errors.Add('Source changes fail locator/version validation.')}}
-$result=[ordered]@{schemaVersion=1;passed=($errors.Count-eq0);branch=$branch;baseRef=$BaseRef;baseCommit=$baseCommit;headRef=$HeadRef;changedPaths=$changed;legacyAcceptanceMigration=$legacyMigration;errors=@($errors)}
+$result=[ordered]@{schemaVersion=1;passed=($errors.Count-eq0);branch=$branch;baseRef=$BaseRef;baseCommit=$baseCommit;headRef=$HeadRef;changedPaths=$changed;touchedPaths=$touched;legacyAcceptanceMigration=$legacyMigration;errors=@($errors)}
 if($OutputFormat-ceq'Json'){$result|ConvertTo-Json -Depth 12}else{if($result.passed){"Pull-request policy passed for $($changed.Count) changed path(s)."}else{$errors|ForEach-Object{"ERROR: $_"}}}
 if(-not$result.passed){exit 1}
