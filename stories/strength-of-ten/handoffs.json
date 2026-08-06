@@ -25,6 +25,32 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 2,
+      "story": "strength-of-ten",
+      "actor": "story_architect",
+      "mode": "CREATE_PLAN",
+      "status": "READY",
+      "startedAt": "2026-08-06T02:52:13.0136639+00:00",
+      "completedAt": "2026-08-06T03:10:03.3555874+00:00",
+      "guardId": "c8e3223156de490388c51c94417b92aa",
+      "persister": "story_architect",
+      "report": "status: READY\nstory_slug: strength-of-ten\nmode: CREATE_PLAN\nguard_id: c8e3223156de490388c51c94417b92aa\nchanged_file: stories/strength-of-ten/02-story-plan.md\nplan_summary: Complete 3,746-word, seven-scene executable plan with causal military logistics, bounded living-powered tenfold strength, Sigrun’s enforceable refusal, Lysander’s separate command/revenue/succession costs, compact style profile, three major-speaker dialogue profiles, tactic changes in every dialogue-bearing scene, complete resolution, ending image, and canon/local-invention partition.\nname_registration_required: true\nname_inventory: Prince Lysander; Lysander; King Gorm; Gorm; Princess Sigrun; Sigrun\ncollision_result: PASS — no exact, alias, reversal, close-spelling, sound, cadence, or confusable registry collision; no deliberate reuse.\nvalidation: PASS — 3,746 words; seven dialogue-scene aim/tactic markers; complete four-column Name check; git diff check clean.\nscope_check: PASS — only stories/strength-of-ten/02-story-plan.md changed.\nstale_precondition: none\nauthority_conflict: none\nuser_ruling_required: no\nresolution_owner: coordinator",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/strength-of-ten/00-prompt.md",
+        "stories/strength-of-ten/01-canon-brief.md",
+        "stories/strength-of-ten/authority.json",
+        "stories/strength-of-ten/handoffs.json",
+        "stories/strength-of-ten/story.json"
+      ],
+      "outputs": [
+        "stories/strength-of-ten/02-story-plan.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
