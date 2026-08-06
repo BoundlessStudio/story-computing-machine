@@ -429,7 +429,7 @@ or reform of Gorm.
 - **Princess Sigrun** — Reserved forms: `Princess Sigrun`; `Sigrun`; pronouns: she/her.
 
 This inventory is exhaustive for the final prose. Gorm's other two grown
-daughters, Lysander's father, the two Redwater couriers, six escorts, the
+daughters, the two Redwater couriers, six escorts, the
 Greyglass marshal, road clerk, living field-healer, seven reeves, twelve
 captains and three representatives, keepers, remount masters, drivers, healers,
 smiths, depot workers, soldiers, scouts, watch members, sluice workers,

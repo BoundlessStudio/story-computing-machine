@@ -231,6 +231,37 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 9,
+      "story": "strength-of-ten",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-06T04:14:07.9131394+00:00",
+      "completedAt": "2026-08-06T04:17:38.2518594+00:00",
+      "guardId": "bfe809ff85914666886eae598283ebab",
+      "persister": "story_editor",
+      "report": "status: READY\nstory_slug: strength-of-ten\nmode: REVISE_FINAL\nguard_id: bfe809ff85914666886eae598283ebab\ncurrent_stage: final-review\nchanged_file: stories/strength-of-ten/06-canon-delta.md\nunchanged_file: stories/strength-of-ten/05-story.md\nprose_unchanged_status: PASS — byte-for-byte unchanged from checkpoint; Git blob e14f19c408b435f15741f5dbaf75838945c5a73d; 3287 prose words.\nfinding_disposition: SOT-FINAL-003 RESOLVED — removed the unsupported `Lysander's father` entry from the exhaustive final character-facing inventory. Both final-prose uses of “father” refer to Gorm.\ninventory_audit: PASS — all three named identities and every remaining unnamed figure, group, or role were rechecked against complete 05-story.md and are story-supported.\nprior_findings: PASS — SOT-FINAL-001 and SOT-FINAL-002 resolutions remain intact.\nname_result: PASS — strict Final story-names/3 completed with zero warnings and zero errors.\nallowlist_result: PASS — exact nine-row, three-column non-character allowlist preserved.\ndelta_validation: PASS — all 19 unique sequential items and 19/19 required field sets preserved; source fidelity, authority-none, canon-false, proposal-only, and promotion-unauthorized posture remain intact.\nscope_check: PASS — only stories/strength-of-ten/06-canon-delta.md changed; exact diff is one deletion and one replacement line.\nstale_precondition: none — checkpoint remains 79326d819dbaee755540132e3dfbc1ae8d8088d5; main remains 95d83ba02d9a3717ab30947466dfb6bdf541c100.\nauthority_conflict: none\nuser_ruling_required: no",
+      "inputs": [
+        "stories/NAMES.md",
+        "stories/strength-of-ten/00-prompt.md",
+        "stories/strength-of-ten/01-canon-brief.md",
+        "stories/strength-of-ten/02-story-plan.md",
+        "stories/strength-of-ten/03-draft.md",
+        "stories/strength-of-ten/04-review.md",
+        "stories/strength-of-ten/05-story.md",
+        "stories/strength-of-ten/06-canon-delta.md",
+        "stories/strength-of-ten/authority.json",
+        "stories/strength-of-ten/handoffs.json",
+        "stories/strength-of-ten/story.json"
+      ],
+      "outputs": [
+        "stories/strength-of-ten/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
