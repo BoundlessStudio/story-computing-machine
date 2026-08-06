@@ -1,6 +1,13 @@
 #Requires -Version 7.0
 [CmdletBinding()]
-param([string]$ProjectRoot)
+param(
+    [ValidateSet('PreReview', 'Final')]
+    [string]$Phase = 'Final',
+
+    [string]$Story,
+
+    [string]$ProjectRoot
+)
 
 $ErrorActionPreference = 'Stop'
 if ([string]::IsNullOrWhiteSpace($ProjectRoot)) {
@@ -10,12 +17,25 @@ else {
     $ProjectRoot = [IO.Path]::GetFullPath($ProjectRoot)
 }
 
+if ($Phase -eq 'PreReview' -and [string]::IsNullOrWhiteSpace($Story)) {
+    throw 'PreReview requires -Story <slug>.'
+}
+if ($Phase -eq 'Final' -and -not [string]::IsNullOrWhiteSpace($Story)) {
+    throw 'Final validates all current stories; omit -Story.'
+}
+if (-not [string]::IsNullOrWhiteSpace($Story) -and $Story -notmatch '^[a-z0-9]+(?:-[a-z0-9]+)*$') {
+    throw 'Story must be a lowercase kebab-case slug.'
+}
+
 $requiredFiles = @('outline.md', 'prompt.md', 'review.md', 'story.md')
 $errors = [Collections.Generic.List[string]]::new()
-$nounInventory = [Collections.Generic.List[object]]::new()
+$warnings = [Collections.Generic.List[string]]::new()
+$finalInventory = [Collections.Generic.List[object]]::new()
+$storyRoot = Join-Path $ProjectRoot 'stories'
 
 function Get-Section {
     param([string]$Text, [string]$Heading)
+
     $escaped = [regex]::Escape($Heading)
     $match = [regex]::Match(
         $Text,
@@ -27,25 +47,11 @@ function Get-Section {
     return $match.Groups['body'].Value.Trim()
 }
 
-function Get-NounRows {
-    param(
-        [string]$StorySlug,
-        [string]$Kind,
-        [string]$ReviewText,
-        [string]$StoryBody
-    )
-
-    $section = Get-Section $ReviewText $Kind
-    if ($null -eq $section) {
-        $errors.Add("$StorySlug/review.md lacks the '$Kind' section.")
-        return @()
-    }
+function Get-TableRows {
+    param([string]$Section)
 
     $rows = [Collections.Generic.List[object]]::new()
-    $sawNone = $false
-    $dataRows = 0
-
-    foreach ($line in ($section -split "\r?\n")) {
+    foreach ($line in ($Section -split "\r?\n")) {
         $trimmed = $line.Trim()
         if (-not $trimmed.StartsWith('|')) {
             continue
@@ -53,10 +59,33 @@ function Get-NounRows {
 
         $cellsText = $trimmed -replace '^\|', '' -replace '\|$', ''
         $cells = @(($cellsText -split '\|') | ForEach-Object { $_.Trim() })
-        if ($cells.Count -lt 3 -or $cells[0] -eq 'Noun' -or $cells[0] -match '^-+$') {
+        if ($cells.Count -lt 3 -or $cells[0] -eq 'Noun' -or $cells[0] -match '^:?-{3,}:?$') {
             continue
         }
+        $rows.Add([pscustomobject]@{ Cells = $cells })
+    }
+    return @($rows)
+}
 
+function Get-NounRows {
+    param(
+        [string]$StorySlug,
+        [string]$Kind,
+        [string]$Text,
+        [string]$SourceName
+    )
+
+    $section = Get-Section $Text $Kind
+    if ($null -eq $section) {
+        $errors.Add("$StorySlug/$SourceName lacks the '$Kind' section.")
+        return @()
+    }
+
+    $rows = [Collections.Generic.List[object]]::new()
+    $sawNone = $false
+    $dataRows = 0
+    foreach ($tableRow in Get-TableRows $section) {
+        $cells = @($tableRow.Cells)
         $dataRows++
         $name = ($cells[0] -replace '^\x60|\x60$', '').Trim()
         $status = $cells[1].ToLowerInvariant()
@@ -65,20 +94,24 @@ function Get-NounRows {
         if ($name -eq 'None') {
             $sawNone = $true
             if ($status -ne 'none') {
-                $errors.Add("$StorySlug/review.md must give the None row status 'none' in $Kind.")
+                $errors.Add("$StorySlug/$SourceName must give the None row status 'none' in $Kind.")
+            }
+            if ([string]::IsNullOrWhiteSpace($note)) {
+                $errors.Add("$StorySlug/$SourceName needs a short note for the None row in $Kind.")
             }
             continue
         }
 
+        if ([string]::IsNullOrWhiteSpace($name)) {
+            $errors.Add("$StorySlug/$SourceName has an empty $Kind noun.")
+            continue
+        }
         if ($status -notin @('new', 'recurring')) {
-            $errors.Add("$StorySlug/review.md gives '$name' invalid $Kind status '$status'.")
+            $errors.Add("$StorySlug/$SourceName gives '$name' invalid $Kind status '$status'.")
             continue
         }
         if ([string]::IsNullOrWhiteSpace($note)) {
-            $errors.Add("$StorySlug/review.md needs a continuity note for $Kind noun '$name'.")
-        }
-        if ($StoryBody.IndexOf($name, [StringComparison]::Ordinal) -lt 0) {
-            $errors.Add("$StorySlug/review.md declares $Kind noun '$name', but that exact form is absent from story.md.")
+            $errors.Add("$StorySlug/$SourceName needs a role or continuity note for $Kind noun '$name'.")
         }
 
         $rows.Add([pscustomobject]@{
@@ -87,77 +120,71 @@ function Get-NounRows {
             Name = $name
             Key = $name.ToLowerInvariant()
             Status = $status
+            Note = $note
+            Source = $SourceName
         })
     }
 
     if ($dataRows -eq 0) {
-        $errors.Add("$StorySlug/review.md has no noun inventory rows in $Kind.")
+        $errors.Add("$StorySlug/$SourceName has no noun inventory rows in $Kind.")
     }
     if ($sawNone -and $rows.Count -gt 0) {
-        $errors.Add("$StorySlug/review.md mixes None with named rows in $Kind.")
+        $errors.Add("$StorySlug/$SourceName mixes None with named rows in $Kind.")
     }
     foreach ($duplicate in @($rows | Group-Object Key | Where-Object Count -gt 1)) {
-        $errors.Add("$StorySlug/review.md lists $Kind noun '$($duplicate.Group[0].Name)' more than once.")
+        $errors.Add("$StorySlug/$SourceName lists $Kind noun '$($duplicate.Group[0].Name)' more than once.")
     }
-
     return @($rows)
 }
 
-$template = Join-Path $ProjectRoot 'stories/_template'
-if (-not (Test-Path -LiteralPath $template -PathType Container)) {
-    $errors.Add('stories/_template is missing.')
-}
-else {
-    $templateFiles = @(Get-ChildItem -LiteralPath $template -File -Force | Select-Object -ExpandProperty Name | Sort-Object)
-    if ((Compare-Object $requiredFiles $templateFiles).Count -ne 0) {
-        $errors.Add("stories/_template must contain exactly: $($requiredFiles -join ', ').")
-    }
-}
+function Read-LooseNounRows {
+    param([string]$Text, [string]$Kind, [string]$StorySlug)
 
-$storyRoot = Join-Path $ProjectRoot 'stories'
-$legacyCount = 0
-$currentCount = 0
-
-foreach ($directory in Get-ChildItem -LiteralPath $storyRoot -Directory | Sort-Object Name) {
-    if ($directory.Name.StartsWith('_')) {
-        continue
+    $section = Get-Section $Text $Kind
+    if ($null -eq $section) {
+        return @()
     }
 
-    $hasCurrentFile = $false
-    foreach ($name in $requiredFiles) {
-        if (Test-Path -LiteralPath (Join-Path $directory.FullName $name) -PathType Leaf) {
-            $hasCurrentFile = $true
-            break
+    $rows = [Collections.Generic.List[object]]::new()
+    foreach ($tableRow in Get-TableRows $section) {
+        $cells = @($tableRow.Cells)
+        $name = ($cells[0] -replace '^\x60|\x60$', '').Trim()
+        $status = $cells[1].ToLowerInvariant()
+        if ($name -eq 'None' -or $status -notin @('new', 'recurring')) {
+            continue
         }
+        $rows.Add([pscustomobject]@{
+            Story = $StorySlug
+            Kind = $Kind
+            Name = $name
+            Key = $name.ToLowerInvariant()
+            Status = $status
+        })
     }
+    return @($rows)
+}
 
-    if (-not $hasCurrentFile) {
-        if (Test-Path -LiteralPath (Join-Path $directory.FullName '05-story.md') -PathType Leaf) {
-            $legacyCount++
-        }
-        continue
-    }
+function Read-StoryPackage {
+    param([IO.DirectoryInfo]$Directory)
 
-    $currentCount++
-    $slug = $directory.Name
-    $files = @(Get-ChildItem -LiteralPath $directory.FullName -File -Force | Select-Object -ExpandProperty Name | Sort-Object)
+    $slug = $Directory.Name
+    $files = @(Get-ChildItem -LiteralPath $Directory.FullName -File -Force | Select-Object -ExpandProperty Name | Sort-Object)
     if ((Compare-Object $requiredFiles $files).Count -ne 0) {
         $errors.Add("$slug must contain exactly the four current story files.")
     }
-    foreach ($name in $requiredFiles) {
-        if (-not (Test-Path -LiteralPath (Join-Path $directory.FullName $name) -PathType Leaf)) {
-            $errors.Add("$slug is missing $name.")
-        }
+
+    $missing = @($requiredFiles | Where-Object { -not (Test-Path -LiteralPath (Join-Path $Directory.FullName $_) -PathType Leaf) })
+    foreach ($name in $missing) {
+        $errors.Add("$slug is missing $name.")
     }
-    $missing = @($requiredFiles | Where-Object { -not (Test-Path -LiteralPath (Join-Path $directory.FullName $_) -PathType Leaf) })
     if ($missing.Count -gt 0) {
-        continue
+        return $null
     }
 
-    $promptText = Get-Content -LiteralPath (Join-Path $directory.FullName 'prompt.md') -Raw
-    $outlineText = Get-Content -LiteralPath (Join-Path $directory.FullName 'outline.md') -Raw
-    $storyText = Get-Content -LiteralPath (Join-Path $directory.FullName 'story.md') -Raw
-    $reviewText = Get-Content -LiteralPath (Join-Path $directory.FullName 'review.md') -Raw
+    $promptText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'prompt.md') -Raw
+    $outlineText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'outline.md') -Raw
+    $storyText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'story.md') -Raw
+    $reviewText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'review.md') -Raw
 
     $promptSection = Get-Section $promptText 'Prompt'
     if ([string]::IsNullOrWhiteSpace($promptSection) -or $promptSection -notmatch '(?m)^>\s*\S') {
@@ -168,6 +195,18 @@ foreach ($directory in Get-ChildItem -LiteralPath $storyRoot -Directory | Sort-O
         if ([string]::IsNullOrWhiteSpace((Get-Section $outlineText $heading))) {
             $errors.Add("$slug/outline.md lacks a non-empty '$heading' section.")
         }
+    }
+    $storySection = Get-Section $outlineText 'Story'
+    if ($null -ne $storySection -and $storySection -notmatch '(?m)^-\s+[^:]+:\s*\S') {
+        $errors.Add("$slug/outline.md Story section has no completed story statement.")
+    }
+    $beatsSection = Get-Section $outlineText 'Beats'
+    if ($null -ne $beatsSection -and $beatsSection -notmatch '(?m)^\s*\d+\.\s+\S') {
+        $errors.Add("$slug/outline.md Beats section has no completed beat.")
+    }
+    $continuitySection = Get-Section $outlineText 'Continuity'
+    if ($null -ne $continuitySection -and $continuitySection -notmatch '(?m)^-\s+[^:]+:\s*\S') {
+        $errors.Add("$slug/outline.md Continuity section has no completed boundary.")
     }
 
     $front = [regex]::Match($storyText, '(?s)\A---\r?\n(?<value>.*?)\r?\n---\r?\n')
@@ -214,6 +253,113 @@ foreach ($directory in Get-ChildItem -LiteralPath $storyRoot -Directory | Sort-O
         $errors.Add("$slug/story.md must contain a title and complete prose.")
     }
 
+    return [pscustomobject]@{
+        Slug = $slug
+        PromptText = $promptText
+        OutlineText = $outlineText
+        StoryText = $storyText
+        StoryBody = $storyBody
+        ReviewText = $reviewText
+    }
+}
+
+function Add-UniverseNouns {
+    param([string]$Path, [Collections.Generic.HashSet[string]]$Set)
+
+    if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) {
+        return
+    }
+    foreach ($line in Get-Content -LiteralPath $Path) {
+        if ($line -match '^##\s+(?<name>.+?)\s*$') {
+            $null = $Set.Add($Matches['name'])
+        }
+        elseif ($line -match '^-\s+Aliases:\s*(?<aliases>.+?)\s*$' -and $Matches['aliases'] -ne 'None') {
+            foreach ($alias in ($Matches['aliases'] -split '[;,]')) {
+                $clean = $alias.Trim().Trim('`')
+                if (-not [string]::IsNullOrWhiteSpace($clean)) {
+                    $null = $Set.Add($clean)
+                }
+            }
+        }
+    }
+}
+
+function Get-StaticBaselines {
+    $people = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+    $places = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+
+    $namesPath = Join-Path $storyRoot 'NAMES.md'
+    if (Test-Path -LiteralPath $namesPath -PathType Leaf) {
+        foreach ($line in Get-Content -LiteralPath $namesPath) {
+            if (-not $line.StartsWith('|')) {
+                continue
+            }
+            $cells = @((($line -replace '^\|', '' -replace '\|$', '') -split '\|') | ForEach-Object { $_.Trim() })
+            if ($cells.Count -lt 2) {
+                continue
+            }
+            foreach ($match in [regex]::Matches($cells[1], '\x60(?<name>[^\x60]+)\x60')) {
+                $null = $people.Add($match.Groups['name'].Value)
+            }
+        }
+    }
+
+    Add-UniverseNouns (Join-Path $ProjectRoot 'universe/characters.md') $people
+    Add-UniverseNouns (Join-Path $ProjectRoot 'universe/locations.md') $places
+    return [pscustomobject]@{ People = $people; Places = $places }
+}
+
+function Get-PassingCurrentInventory {
+    param([string]$ExcludeStory)
+
+    $rows = [Collections.Generic.List[object]]::new()
+    foreach ($directory in Get-ChildItem -LiteralPath $storyRoot -Directory | Sort-Object Name) {
+        if ($directory.Name -eq $ExcludeStory -or $directory.Name.StartsWith('_')) {
+            continue
+        }
+        if (Test-Path -LiteralPath (Join-Path $directory.FullName '05-story.md') -PathType Leaf) {
+            continue
+        }
+        $reviewPath = Join-Path $directory.FullName 'review.md'
+        if (-not (Test-Path -LiteralPath $reviewPath -PathType Leaf)) {
+            continue
+        }
+        $text = Get-Content -LiteralPath $reviewPath -Raw
+        if ($text -notmatch '(?m)^Verdict:\s*PASS\s*$') {
+            continue
+        }
+        foreach ($kind in @('People', 'Places')) {
+            foreach ($row in Read-LooseNounRows $text $kind $directory.Name) {
+                $rows.Add($row)
+            }
+        }
+    }
+    return @($rows)
+}
+
+$legacyFiles = @()
+if (Test-Path -LiteralPath $storyRoot -PathType Container) {
+    $legacyFiles = @(
+        Get-ChildItem -LiteralPath $storyRoot -Directory |
+            ForEach-Object { Join-Path $_.FullName '05-story.md' } |
+            Where-Object { Test-Path -LiteralPath $_ -PathType Leaf }
+    )
+}
+
+function Test-LegacyExactUse {
+    param([string]$Name)
+
+    if ($legacyFiles.Count -eq 0) {
+        return $false
+    }
+    return @(Select-String -LiteralPath $legacyFiles -SimpleMatch -Pattern $Name -List).Count -gt 0
+}
+
+function Test-FinalReview {
+    param([object]$Package)
+
+    $slug = $Package.Slug
+    $reviewText = $Package.ReviewText
     if ($reviewText -notmatch '(?m)^Verdict:\s*PASS\s*$') {
         $errors.Add("$slug/review.md verdict is not PASS.")
     }
@@ -231,66 +377,151 @@ foreach ($directory in Get-ChildItem -LiteralPath $storyRoot -Directory | Sort-O
         }
     }
 
-    foreach ($row in Get-NounRows $slug 'People' $reviewText $storyBody) {
-        $nounInventory.Add($row)
-    }
-    foreach ($row in Get-NounRows $slug 'Places' $reviewText $storyBody) {
-        $nounInventory.Add($row)
-    }
-}
-
-$legacyPeople = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
-$namesPath = Join-Path $storyRoot 'NAMES.md'
-if (Test-Path -LiteralPath $namesPath -PathType Leaf) {
-    foreach ($line in Get-Content -LiteralPath $namesPath) {
-        if (-not $line.StartsWith('|')) {
-            continue
-        }
-        $cells = @((($line -replace '^\|', '' -replace '\|$', '') -split '\|') | ForEach-Object { $_.Trim() })
-        if ($cells.Count -lt 2) {
-            continue
-        }
-        foreach ($match in [regex]::Matches($cells[1], '\x60(?<name>[^\x60]+)\x60')) {
-            $null = $legacyPeople.Add($match.Groups['name'].Value)
+    foreach ($kind in @('People', 'Places')) {
+        foreach ($row in Get-NounRows $slug $kind $reviewText 'review.md') {
+            if ($Package.StoryBody.IndexOf($row.Name, [StringComparison]::Ordinal) -lt 0) {
+                $errors.Add("$slug/review.md declares $kind noun '$($row.Name)', but that exact form is absent from story.md.")
+            }
+            $finalInventory.Add($row)
         }
     }
 }
 
-$legacyPlaces = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
-$locationsPath = Join-Path $ProjectRoot 'universe/locations.md'
-if (Test-Path -LiteralPath $locationsPath -PathType Leaf) {
-    foreach ($line in Get-Content -LiteralPath $locationsPath) {
-        if ($line -match '^##\s+(?<name>.+?)\s*$') {
-            $name = $Matches['name']
-            $null = $legacyPlaces.Add($name)
-            if ($name.StartsWith('The ')) {
-                $null = $legacyPlaces.Add($name.Substring(4))
+if (-not (Test-Path -LiteralPath $storyRoot -PathType Container)) {
+    $errors.Add('stories is missing.')
+}
+
+$template = Join-Path $storyRoot '_template'
+if (-not (Test-Path -LiteralPath $template -PathType Container)) {
+    $errors.Add('stories/_template is missing.')
+}
+else {
+    $templateFiles = @(Get-ChildItem -LiteralPath $template -File -Force | Select-Object -ExpandProperty Name | Sort-Object)
+    if ((Compare-Object $requiredFiles $templateFiles).Count -ne 0) {
+        $errors.Add("stories/_template must contain exactly: $($requiredFiles -join ', ').")
+    }
+}
+
+$directories = [Collections.Generic.List[IO.DirectoryInfo]]::new()
+$legacyCount = 0
+if (-not [string]::IsNullOrWhiteSpace($Story)) {
+    $target = Join-Path $storyRoot $Story
+    if (-not (Test-Path -LiteralPath $target -PathType Container)) {
+        $errors.Add("Story directory does not exist: stories/$Story.")
+    }
+    elseif (Test-Path -LiteralPath (Join-Path $target '05-story.md') -PathType Leaf) {
+        $errors.Add("stories/$Story is a locked legacy bundle.")
+    }
+    else {
+        $directories.Add((Get-Item -LiteralPath $target))
+    }
+}
+elseif (Test-Path -LiteralPath $storyRoot -PathType Container) {
+    foreach ($directory in Get-ChildItem -LiteralPath $storyRoot -Directory | Sort-Object Name) {
+        if ($directory.Name.StartsWith('_')) {
+            continue
+        }
+        if (Test-Path -LiteralPath (Join-Path $directory.FullName '05-story.md') -PathType Leaf) {
+            $legacyCount++
+            continue
+        }
+        if (@($requiredFiles | Where-Object { Test-Path -LiteralPath (Join-Path $directory.FullName $_) -PathType Leaf }).Count -gt 0) {
+            $directories.Add($directory)
+        }
+    }
+}
+
+$packages = [Collections.Generic.List[object]]::new()
+foreach ($directory in $directories) {
+    $package = Read-StoryPackage $directory
+    if ($null -eq $package) {
+        continue
+    }
+    $packages.Add($package)
+    if ($Phase -eq 'Final') {
+        foreach ($kind in @('People', 'Places')) {
+            $null = @(Get-NounRows $package.Slug $kind $package.OutlineText 'outline.md')
+        }
+    }
+}
+
+$baselines = Get-StaticBaselines
+
+if ($Phase -eq 'PreReview') {
+    $existing = @(Get-PassingCurrentInventory $Story)
+    $declared = [Collections.Generic.List[object]]::new()
+    if ($packages.Count -eq 1) {
+        $package = $packages[0]
+        foreach ($kind in @('People', 'Places')) {
+            foreach ($row in Get-NounRows $package.Slug $kind $package.OutlineText 'outline.md') {
+                $declared.Add($row)
+            }
+        }
+
+        foreach ($row in $declared) {
+            $static = if ($row.Kind -eq 'People') { $baselines.People } else { $baselines.Places }
+            $currentMatch = @($existing | Where-Object { $_.Kind -eq $row.Kind -and $_.Key -eq $row.Key }).Count -gt 0
+            $legacyMatch = Test-LegacyExactUse $row.Name
+            $alreadyExists = ($static -contains $row.Name) -or $currentMatch -or $legacyMatch
+
+            if ($row.Status -eq 'new' -and $alreadyExists) {
+                $errors.Add("$($row.Story)/outline.md marks $($row.Kind) noun '$($row.Name)' new, but that exact form already exists.")
+            }
+            elseif ($row.Status -eq 'recurring' -and -not $alreadyExists) {
+                $errors.Add("$($row.Story)/outline.md marks $($row.Kind) noun '$($row.Name)' recurring, but no exact prior use was found.")
+            }
+
+            if ($package.StoryBody.IndexOf($row.Name, [StringComparison]::Ordinal) -lt 0) {
+                $warnings.Add("Advisory outline noun '$($row.Name)' does not appear exactly in story.md; the reviewer must inventory the final prose independently.")
             }
         }
     }
+
+    if ($errors.Count -gt 0) {
+        $separator = [Environment]::NewLine + '- '
+        throw ('Pre-review validation failed:' + $separator + ($errors -join $separator))
+    }
+
+    "PASS: pre-review structure and $($declared.Count) declared person/place nouns checked for $Story."
+    if ($warnings.Count -gt 0) {
+        "Reviewer notes:"
+        foreach ($warning in $warnings) {
+            "- $warning"
+        }
+    }
+    else {
+        'Reviewer notes: no exact-declaration warnings; exhaustive semantic extraction is still required.'
+    }
+    return
 }
 
-foreach ($noun in $nounInventory) {
-    $baseline = $legacyPlaces
-    if ($noun.Kind -eq 'People') {
-        $baseline = $legacyPeople
-    }
-    if ($noun.Status -eq 'new' -and $baseline.Contains($noun.Name)) {
-        $errors.Add("$($noun.Story)/review.md marks '$($noun.Name)' new, but it already exists in the legacy $($noun.Kind.ToLowerInvariant()) baseline.")
-    }
+foreach ($package in $packages) {
+    Test-FinalReview $package
 }
 
-foreach ($group in @($nounInventory | Group-Object Kind, Key)) {
+foreach ($group in @($finalInventory | Group-Object Kind, Key)) {
+    $sample = $group.Group[0]
+    $static = if ($sample.Kind -eq 'People') { $baselines.People } else { $baselines.Places }
+    $legacyMatch = Test-LegacyExactUse $sample.Name
     $newUses = @($group.Group | Where-Object Status -eq 'new')
+    $recurringUses = @($group.Group | Where-Object Status -eq 'recurring')
+
     if ($newUses.Count -gt 1) {
         $stories = ($newUses.Story | Sort-Object -Unique) -join ', '
-        $errors.Add("Noun '$($group.Group[0].Name)' is independently marked new in multiple $($group.Group[0].Kind.ToLowerInvariant()) inventories: $stories.")
+        $errors.Add("Noun '$($sample.Name)' is independently marked new in multiple $($sample.Kind.ToLowerInvariant()) inventories: $stories.")
+    }
+    if ($newUses.Count -eq 1 -and (($static -contains $sample.Name) -or $legacyMatch)) {
+        $errors.Add("$($newUses[0].Story)/review.md marks '$($sample.Name)' new, but that exact $($sample.Kind.ToLowerInvariant()) form already exists.")
+    }
+    if ($recurringUses.Count -gt 0 -and $newUses.Count -eq 0 -and -not ($static -contains $sample.Name) -and -not $legacyMatch) {
+        $stories = ($recurringUses.Story | Sort-Object -Unique) -join ', '
+        $errors.Add("Noun '$($sample.Name)' is marked recurring in $stories, but no exact prior use was found.")
     }
 }
 
 if ($errors.Count -gt 0) {
     $separator = [Environment]::NewLine + '- '
-    throw ('Story validation failed:' + $separator + ($errors -join $separator))
+    throw ('Final story validation failed:' + $separator + ($errors -join $separator))
 }
 
-"PASS: four-file template; $currentCount current stories; $legacyCount locked legacy stories ignored."
+"PASS: four-file template; $($packages.Count) current stories; $legacyCount locked legacy stories ignored; final nouns and continuity verified."

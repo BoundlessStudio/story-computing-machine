@@ -13,15 +13,15 @@
 
 ## People
 
-| Name | Role |
-| --- | --- |
-| None yet | — |
+| Noun | Status | Role / recurrence note |
+| --- | --- | --- |
+| None | none | No named person proposed. |
 
 ## Places
 
-| Name | Role |
-| --- | --- |
-| None yet | — |
+| Noun | Status | Role / recurrence note |
+| --- | --- | --- |
+| None | none | No named place proposed. |
 
 ## Continuity
 
