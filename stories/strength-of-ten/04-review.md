@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `stories/strength-of-ten/05-story.md`
-- Review pass: 2
+- Review pass: 3
 - Verdict: REVISE
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 2
-- Updated: 2026-08-06T03:58:31.7252397Z
+- Unresolved Major findings: 1
+- Updated: 2026-08-06T04:10:33.0568652Z
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -108,5 +108,67 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only final review; no repository files changed. The 3,285-word release-facing body exactly preserves the passing draft and is otherwise canon-compatible, causally coherent, PG-13, and prose-ready. Redwater is genuinely defenseless; the 5,100-person Black Reed force, six-day deadline, 140-mile supplied march, day-four carts, night-five arrival, bounded command, Ninepin terrain, culvert timing, two-day defense, and restrained withdrawal remain legible and credible. Gorm's living-supplied six-heartbeat feat materially threatens the negotiation and exposes its cost; Sigrun's refusal is effective through observable human commitments and independent trade interest; Lysander pays separate command, revenue, succession, material, and bodily costs; and the final article voids marriage without converting optional correspondence into betrothal or forgiveness. Close-third past tense, speaker distinction, tactic changes, humane tone, and non-graphic consequences pass. Frontmatter is exact, all six registered character-facing forms appear without collision, the final character inventory is exhaustive, the nine-row three-column allowlist is complete, and the strict Final name gate passes. All 19 delta IDs are unique and sequential, contain the required field sets, remain locally qualified proposals with authority none, and authorize no promotion; no universe file changed and canon remains false. Certification is withheld because the final never makes Lysander unambiguously adult as explicitly required, SOT-01 records that omission, and SOT-11 promotes unsupported exact keeper-count and town-reeve details. Both findings are production-fixable by the story editor without a canon ruling, retcon, material prompt reinterpretation, or new user authority."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 3 — Final re-review (REVISE)
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "strength-of-ten",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 3,
+  "reviewedArtifact": "stories/strength-of-ten/05-story.md",
+  "authorityManifest": "stories/strength-of-ten/authority.json",
+  "handoffLedger": "stories/strength-of-ten/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-06T04:10:33.0568652Z",
+  "reviewBasis": "Independent read-only pass-3 final re-review under guard 628f02a6fcaa402986a85acefd9953ad of the complete revised story and all 19 proposed canon-delta items against the captured prompt, lifecycle record, canon brief, scene-ready plan, source draft, complete review history through pass 2, unchanged authority inventory captured from main at 95d83ba02d9a3717ab30947466dfb6bdf541c100, ordered handoff ledger through completed sequence 7, current complete character-name registry, relevant current LOCKED and CANON authority and admitted-canon collision precedents, binding style constraints, and all review-routed craft, voice, character-voice, and dialogue guidance. Compared the revision with guarded checkpoint 62816c0567dd3d9e6fb65b0bb3120aa639fbdabe and confirmed that final prose changed only through the age anchor assigned by SOT-FINAL-001, while delta-item changes are confined to the assigned SOT-01 and SOT-11 repairs; the completed handoff ledger is the only additional production record change. Rechecked immutable frontmatter, prompt fulfillment, adult status, authority and canon posture, chronology, military causality and logistics, bounded living-powered strength, personhood and consent, close-third past-tense control, PG-13 limits, pacing, prose and dialogue readiness, all prior finding dispositions, all 19 delta items and their fields, the final character-facing inventory, the exact nine-row three-column non-character allowlist, and promotion boundaries. Current universe authority and admitted canon artifacts remain unchanged from the captured base; story.json correctly remains in-progress and canon false at the pre-candidate prompt stage while the logical production stage is final-review. The strict Final story-names/3 gate passed at 2026-08-06T04:07:55.2715200+00:00 with zero warnings and zero errors.",
+  "verdict": "REVISE",
+  "blockType": null,
+  "resolutionOwner": "story_editor",
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 1,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "SOT-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/strength-of-ten/05-story.md:51, the revised sentence begins `At thirty`, directly and naturally establishing Prince Lysander as an adult before he attempts to accept the marriage. SOT-01 at stories/strength-of-ten/06-canon-delta.md:41-70 now identifies him as Redwater's thirty-year-old prince, includes his age in exact scope, preserves thirty as final-prose evidence, removes the former no-exact-age claim, and adds an age-thirty disposition qualifier."
+    },
+    {
+      "id": "SOT-FINAL-002",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "At stories/strength-of-ten/06-canon-delta.md:244-268, SOT-11 now states `keepers at six depots` and `seven reeves`, explicitly leaves the number of individual keepers and the reeves' jurisdiction unstated, and aligns its local scope, constraints, evidence, disposition, dependencies, and factions target with the final story's six-depot and seven-reeve evidence."
+    }
+  ],
+  "findings": [
+    {
+      "id": "SOT-FINAL-003",
+      "severity": "Major",
+      "status": "UNRESOLVED",
+      "category": "final name inventory and canon-delta source fidelity",
+      "locations": [
+        "stories/strength-of-ten/02-story-plan.md:149",
+        "stories/strength-of-ten/05-story.md:73",
+        "stories/strength-of-ten/05-story.md:135",
+        "stories/strength-of-ten/06-canon-delta.md:425-439"
+      ],
+      "evidence": "The delta's purportedly exhaustive final-prose inventory includes `Lysander's father` among present or referenced unnamed figures. The final story never mentions Lysander's father: both occurrences of `father` identify Gorm as Sigrun's father. Lysander's ill father appears only in the authority-none story plan. Retaining him in the final inventory therefore imports a plan-only character relationship and makes the release-facing inventory non-exact even though the mechanical name gate passes.",
+      "requiredResolution": "Remove `Lysander's father` from the exhaustive final character-facing inventory in 06-canon-delta.md. Re-audit the remaining named and unnamed inventory against the complete final prose and rerun the strict Final name gate; no prose change is required.",
+      "owner": "story_editor"
+    }
+  ],
+  "certificationEligible": false,
+  "changeReport": "Read-only re-review; no repository files changed. SOT-FINAL-001 and SOT-FINAL-002 are fully resolved without regression: Lysander is now unambiguously thirty and SOT-01 matches, while SOT-11 preserves six depots, an unstated keeper count, seven reeves, and unstated jurisdiction. The approximately 3,300-word final remains prompt-complete apart from no outstanding prose issue, canon-compatible, causally coherent, PG-13, and prose-ready. Redwater's defenselessness, the six-day threat, five-day supplied march, force arithmetic, Ninepin defense, withdrawal, Gorm's bounded feat and brutality, Sigrun's effective refusal and command authority, Lysander's separate costs, marriage-void resolution, close-third past tense, speaker distinction, tactic changes, and restrained ending all pass. Immutable frontmatter is exact. All 19 delta IDs remain unique and sequential with complete field sets, source-supported item facts, local qualifiers, dependencies, dispositions, and smallest topical targets; authority remains none, canon remains false, release remains uncertified, and promotion remains unauthorized and unapplied. All six registered character forms and the nine-row three-column allowlist pass the strict Final name gate. Certification is withheld solely because the final inventory still imports Lysander's father from the non-authoritative plan even though that figure never appears or is referenced in final prose. This is a delta-only production repair requiring no user ruling, retcon, material prompt reinterpretation, or prose revision."
 }
 END_REVIEW_PASS_PAYLOAD
