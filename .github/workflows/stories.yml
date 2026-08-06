@@ -18,9 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Check current story nouns and continuity
+      - name: Final current-story noun and continuity check
         shell: pwsh
-        run: ./.agents/skills/story-room/scripts/Test-Stories.ps1
+        run: ./.agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 
       - uses: actions/setup-python@v6
         with:

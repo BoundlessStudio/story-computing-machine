@@ -1,8 +1,9 @@
 import importlib.util
 import shutil
+import subprocess
+import sys
 import tempfile
 import unittest
-import sys
 from pathlib import Path
 
 SPEC = importlib.util.spec_from_file_location("story_site", Path(__file__).with_name("build.py"))
@@ -10,34 +11,18 @@ build = importlib.util.module_from_spec(SPEC)
 assert SPEC.loader
 sys.modules[SPEC.name] = build
 SPEC.loader.exec_module(build)
+
 REPO = Path(__file__).resolve().parents[1]
+STORY_VALIDATOR = REPO / ".agents/skills/story-room/scripts/Test-Stories.ps1"
+NEW_STORY = REPO / ".agents/skills/story-room/scripts/new-story.ps1"
 
 
-class SiteBuildTests(unittest.TestCase):
-    def make_current_story(self, root: Path) -> Path:
-        stories = root / "stories"
-        shutil.copytree(REPO / "stories" / "_template", stories / "_template")
-        story = stories / "sample"
-        story.mkdir()
-        (root / "universe").mkdir()
-        (story / "prompt.md").write_text(
-            "# Prompt\n\n## Prompt\n\n> [WP] A small test.\n",
-            encoding="utf-8",
-        )
-        (story / "outline.md").write_text(
-            "# Outline\n\n"
-            "## Story\n\n- Premise: Mira returns.\n\n"
-            "## Beats\n\n1. Mira crosses the gate.\n\n"
-            "## People\n\n| Name | Role |\n| --- | --- |\n| Mira | Traveler |\n\n"
-            "## Places\n\n| Name | Role |\n| --- | --- |\n| Alder Gate | Crossing |\n\n"
-            "## Continuity\n\n- Canon used: none.\n",
-            encoding="utf-8",
-        )
-        (story / "story.md").write_text(
-            "---\ntitle: Sample\nslug: sample\ncreated: 2026-08-06\ncanon: false\n---\n\n"
-            "# Sample\n\nMira walked through Alder Gate and returned.\n",
-            encoding="utf-8",
-        )
+class StorySystemTests(unittest.TestCase):
+    def write_review(self, story: Path, passing: bool) -> None:
+        if not passing:
+            shutil.copy2(REPO / "stories/_template/review.md", story / "review.md")
+            return
+
         (story / "review.md").write_text(
             "# Review\n\nVerdict: PASS\n\n"
             "## People\n\n| Noun | Status | Continuity note |\n"
@@ -48,7 +33,220 @@ class SiteBuildTests(unittest.TestCase):
             "## Findings\n\n- Blocking: none\n- Notes: none\n",
             encoding="utf-8",
         )
+
+    def make_current_story(self, root: Path, passing_review: bool = True) -> Path:
+        stories = root / "stories"
+        shutil.copytree(REPO / "stories/_template", stories / "_template")
+        story = stories / "sample"
+        story.mkdir()
+        universe = root / "universe"
+        universe.mkdir()
+        (universe / "characters.md").write_text("# Characters\n", encoding="utf-8")
+        (universe / "locations.md").write_text("# Locations\n", encoding="utf-8")
+        (story / "prompt.md").write_text(
+            "# Prompt\n\n## Prompt\n\n> [WP] A traveler returns through a gate.\n",
+            encoding="utf-8",
+        )
+        (story / "outline.md").write_text(
+            "# Outline\n\n"
+            "## Story\n\n- Premise: Mira returns.\n- Ending: She chooses to stay.\n\n"
+            "## Beats\n\n1. Mira crosses the gate.\n\n"
+            "## People\n\n| Noun | Status | Role / recurrence note |\n"
+            "| --- | --- | --- |\n| Mira | new | Returning traveler. |\n\n"
+            "## Places\n\n| Noun | Status | Role / recurrence note |\n"
+            "| --- | --- | --- |\n| Alder Gate | new | Local crossing. |\n\n"
+            "## Continuity\n\n- Canon used: none.\n- Boundaries and unknowns: none.\n",
+            encoding="utf-8",
+        )
+        (story / "story.md").write_text(
+            "---\ntitle: Sample\nslug: sample\ncreated: 2026-08-06\ncanon: false\n---\n\n"
+            "# Sample\n\nMira walked through Alder Gate and chose to stay.\n",
+            encoding="utf-8",
+        )
+        self.write_review(story, passing_review)
         return story
+
+    def validate(self, root: Path, phase: str, story: str | None = None) -> subprocess.CompletedProcess:
+        command = [
+            "pwsh",
+            "-NoProfile",
+            "-File",
+            str(STORY_VALIDATOR),
+            "-ProjectRoot",
+            str(root),
+            "-Phase",
+            phase,
+        ]
+        if story is not None:
+            command.extend(("-Story", story))
+        return subprocess.run(command, cwd=root, text=True, capture_output=True, check=False)
+
+    def test_scaffold_creates_exactly_four_files(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            (root / "stories").mkdir()
+            shutil.copytree(REPO / "stories/_template", root / "stories/_template")
+            completed = subprocess.run(
+                [
+                    "pwsh",
+                    "-NoProfile",
+                    "-File",
+                    str(NEW_STORY),
+                    "-ProjectRoot",
+                    str(root),
+                    "-Slug",
+                    "sample",
+                    "-Title",
+                    "Sample",
+                    "-Prompt",
+                    "[WP] A small test.",
+                    "-Date",
+                    "2026-08-06",
+                ],
+                cwd=root,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            self.assertEqual(
+                {"prompt.md", "outline.md", "story.md", "review.md"},
+                {path.name for path in (root / "stories/sample").iterdir()},
+            )
+
+    def test_pre_review_accepts_pending_review(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self.make_current_story(root, passing_review=False)
+            completed = self.validate(root, "PreReview", "sample")
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            self.assertIn("2 declared person/place nouns", completed.stdout)
+
+    def test_pre_review_allows_advisory_outline_deviation(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            story_path = story / "story.md"
+            content = story_path.read_text(encoding="utf-8")
+            story_path.write_text(
+                content.replace("Mira walked through Alder Gate", "Nessa walked through Willow Door"),
+                encoding="utf-8",
+            )
+            completed = self.validate(root, "PreReview", "sample")
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            self.assertIn("Advisory outline noun", completed.stdout)
+
+    def test_pre_review_rejects_exact_collisions_and_unknown_recurrence(self):
+        cases = ("legacy person", "current person", "universe place", "unknown recurrence")
+        for case in cases:
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_current_story(root, passing_review=False)
+                if case == "legacy person":
+                    (root / "stories/NAMES.md").write_text(
+                        "| Identity | Reserved forms | Story |\n"
+                        "| --- | --- | --- |\n| Earlier Mira | `Mira` | locked-story |\n",
+                        encoding="utf-8",
+                    )
+                elif case == "current person":
+                    prior = root / "stories/prior"
+                    prior.mkdir()
+                    self.write_review(prior, passing=True)
+                elif case == "universe place":
+                    (root / "universe/locations.md").write_text(
+                        "# Locations\n\n## Alder Gate\n\n- Aliases: None\n",
+                        encoding="utf-8",
+                    )
+                else:
+                    outline_path = story / "outline.md"
+                    outline_path.write_text(
+                        outline_path.read_text(encoding="utf-8").replace(
+                            "| Mira | new |", "| Mira | recurring |"
+                        ),
+                        encoding="utf-8",
+                    )
+                completed = self.validate(root, "PreReview", "sample")
+                self.assertNotEqual(0, completed.returncode)
+                self.assertIn("Pre-review validation failed", completed.stdout + completed.stderr)
+
+    def test_pre_review_accepts_known_recurrence(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            (root / "stories/NAMES.md").write_text(
+                "| Identity | Reserved forms | Story |\n"
+                "| --- | --- | --- |\n| Earlier Mira | `Mira` | locked-story |\n",
+                encoding="utf-8",
+            )
+            outline_path = story / "outline.md"
+            outline_path.write_text(
+                outline_path.read_text(encoding="utf-8").replace(
+                    "| Mira | new |", "| Mira | recurring |"
+                ),
+                encoding="utf-8",
+            )
+            completed = self.validate(root, "PreReview", "sample")
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_pre_review_rejects_bad_metadata_and_missing_prose(self):
+        cases = ("bad metadata", "missing prose")
+        for case in cases:
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_current_story(root, passing_review=False)
+                story_path = story / "story.md"
+                content = story_path.read_text(encoding="utf-8")
+                if case == "bad metadata":
+                    content = content.replace("created: 2026-08-06", "created: someday")
+                else:
+                    content = content[: content.index("# Sample")] + "# Sample\n\n<!-- No prose. -->\n"
+                story_path.write_text(content, encoding="utf-8")
+                completed = self.validate(root, "PreReview", "sample")
+                self.assertNotEqual(0, completed.returncode)
+                self.assertIn("Pre-review validation failed", completed.stdout + completed.stderr)
+
+    def test_final_validation_accepts_passing_story(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self.make_current_story(root)
+            completed = self.validate(root, "Final")
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            self.assertIn("1 current stories", completed.stdout)
+
+    def test_final_validation_rejects_inventory_continuity_and_blockers(self):
+        cases = ("missing inventory", "failed continuity", "blocking finding")
+        for case in cases:
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_current_story(root)
+                review_path = story / "review.md"
+                review = review_path.read_text(encoding="utf-8")
+                if case == "missing inventory":
+                    start = review.index("## Places")
+                    end = review.index("## Continuity")
+                    review = review[:start] + review[end:]
+                elif case == "failed continuity":
+                    review = review.replace("- Universe: PASS", "- Universe: PENDING")
+                else:
+                    review = review.replace("- Blocking: none", "- Blocking: repair the ending")
+                review_path.write_text(review, encoding="utf-8")
+                completed = self.validate(root, "Final")
+                self.assertNotEqual(0, completed.returncode)
+                self.assertIn("Final story validation failed", completed.stdout + completed.stderr)
+
+    def test_capture_requires_pass_but_does_not_repeat_full_validation(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            snapshot = root / "catalog.json"
+            with self.assertRaisesRegex(ValueError, "not a passing review"):
+                build.capture_story("sample", root, snapshot)
+
+            self.write_review(story, passing=True)
+            self.assertFalse(hasattr(build, "validate_current_stories"))
+            catalog = build.capture_story("sample", root, snapshot)
+            self.assertEqual(("sample",), tuple(item.slug for item in catalog.stories))
+            self.assertEqual(catalog, build.load_catalog(snapshot))
 
     def test_stored_catalog_is_valid_and_newest_first(self):
         catalog = build.load_catalog()
@@ -77,43 +275,6 @@ class SiteBuildTests(unittest.TestCase):
                 f"{len(catalog.stories)} stored publications",
                 (output / "index.html").read_text(encoding="utf-8"),
             )
-
-    def test_capture_current_story_updates_snapshot(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            root = Path(temporary)
-            self.make_current_story(root)
-            snapshot = root / "catalog.json"
-            catalog = build.capture_story("sample", root, snapshot)
-            self.assertEqual(("sample",), tuple(item.slug for item in catalog.stories))
-            self.assertEqual(catalog, build.load_catalog(snapshot))
-
-    def test_capture_rejects_missing_nouns_failed_continuity_and_name_collisions(self):
-        cases = ("missing nouns", "failed continuity", "legacy name collision")
-        for case in cases:
-            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
-                root = Path(temporary)
-                story = self.make_current_story(root)
-                review_path = story / "review.md"
-                if case == "missing nouns":
-                    review = review_path.read_text(encoding="utf-8")
-                    start = review.index("## People")
-                    end = review.index("## Continuity")
-                    review_path.write_text(review[:start] + review[end:], encoding="utf-8")
-                elif case == "failed continuity":
-                    review = review_path.read_text(encoding="utf-8")
-                    review_path.write_text(
-                        review.replace("- Universe: PASS", "- Universe: PENDING"),
-                        encoding="utf-8",
-                    )
-                else:
-                    (root / "stories" / "NAMES.md").write_text(
-                        "| Identity | Reserved forms | Story |\n"
-                        "| --- | --- | --- |\n"
-                        "| Earlier Mira | `Mira` | locked-story |\n",
-                        encoding="utf-8",
-                    )
-                with self.assertRaisesRegex(ValueError, "validation failed"):
-                    build.capture_story("sample", root, root / "catalog.json")
 
     def test_rendering_keeps_one_visible_story_title(self):
         story = build.load_catalog().stories[0]

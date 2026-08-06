@@ -5,7 +5,6 @@ import html
 import json
 import re
 import shutil
-import subprocess
 from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any, Iterable
@@ -14,14 +13,6 @@ import markdown
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
-STORY_VALIDATOR = (
-    REPOSITORY_ROOT
-    / ".agents"
-    / "skills"
-    / "story-room"
-    / "scripts"
-    / "Test-Stories.ps1"
-)
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -193,26 +184,6 @@ def load_story_source(slug: str, repository_root: Path = REPOSITORY_ROOT) -> Sto
     raise ValueError(f"No readable story source for {slug}")
 
 
-def validate_current_stories(repository_root: Path = REPOSITORY_ROOT) -> None:
-    completed = subprocess.run(
-        [
-            "pwsh",
-            "-NoProfile",
-            "-File",
-            str(STORY_VALIDATOR),
-            "-ProjectRoot",
-            str(repository_root),
-        ],
-        cwd=repository_root,
-        text=True,
-        capture_output=True,
-        check=False,
-    )
-    if completed.returncode:
-        detail = (completed.stdout + completed.stderr).strip()
-        raise ValueError(f"Current story validation failed before capture: {detail}")
-
-
 def _ordered(stories: Iterable[Story]) -> tuple[Story, ...]:
     return tuple(sorted(stories, key=lambda item: (item.created, item.slug), reverse=True))
 
@@ -274,8 +245,6 @@ def capture_story(
     repository_root: Path = REPOSITORY_ROOT,
     snapshot_path: Path = SNAPSHOT_PATH,
 ) -> Catalog:
-    if (repository_root / "stories" / slug / "story.md").is_file():
-        validate_current_stories(repository_root)
     story = load_story_source(slug, repository_root)
     existing = list(load_catalog(snapshot_path).stories) if snapshot_path.exists() else []
     by_slug = {item.slug: item for item in existing}
@@ -295,8 +264,6 @@ def capture_all(
         and not item.name.startswith("_")
         and ((item / "story.md").is_file() or (item / "05-story.md").is_file())
     ]
-    if any((story_root / slug / "story.md").is_file() for slug in slugs):
-        validate_current_stories(repository_root)
     return save_catalog((load_story_source(slug, repository_root) for slug in slugs), snapshot_path)
 
 
