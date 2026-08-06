@@ -3,12 +3,12 @@
 ## Current certification
 
 - Reviewed artifact: `05-story.md`
-- Review pass: 13
-- Verdict: REVISE
+- Review pass: 14
+- Verdict: PASS
 - Reviewer: continuity_critic
 - Unresolved Critical findings: 0
-- Unresolved Major findings: 1
-- Updated: 2026-08-06T01:32:02.1985574+00:00
+- Unresolved Major findings: 0
+- Updated: 2026-08-06T01:39:21.1029388+00:00
 
 This summary must match the newest completed payload. A completed story requires a passing draft review followed by a later passing review of `05-story.md`.
 
@@ -1143,5 +1143,114 @@ REVIEW_PASS_PAYLOAD
   ],
   "certificationEligible": false,
   "changeReport": "Read-only authority-refresh pass-13 review; no repository file was changed. The refreshed authority manifest is current at a63db783ff6c1c4997f3c02d0bb52d0228bbd3b8, its inventories are unchanged, the universe tree and admitted canon artifacts are unchanged, and the upstream squash retains the exact pre-clarification story and delta blobs. Current prose and delta hashes remain identical to pass 12, so the clarification, dialogue, prompt fulfillment, structure, endpoint, names, canon boundaries, delta exactness, and all ten prior finding dispositions remain valid. Certification is withheld solely for AAD-FINAL-008: sequence 34 truncates the exact pass-12 report after its opening marker. This is a coordinator-owned mechanical production-record repair requiring no prose or delta revision, canon ruling, retcon, prompt reinterpretation, registry change, or new user authority."
+}
+END_REVIEW_PASS_PAYLOAD
+
+### Pass 14 — final certification review
+
+REVIEW_PASS_PAYLOAD
+{
+  "story": "all-accounts-due",
+  "mode": "REVIEW_FINAL",
+  "status": "READY",
+  "pass": 14,
+  "reviewedArtifact": "stories/all-accounts-due/05-story.md",
+  "authorityManifest": "stories/all-accounts-due/authority.json",
+  "handoffLedger": "stories/all-accounts-due/handoffs.json",
+  "reviewer": "continuity_critic",
+  "reviewedAt": "2026-08-06T01:39:21.1029388+00:00",
+  "reviewBasis": "Decisive independent read-only final pass-14 follow-up under guard 656cb3025f5a4bab94e88065581bbb9a at clean checkpoint 5ee5b355d5f8ad0e7b203961c492a01332a3a423. Reviewed current 05-story.md SHA-256 292E29CFE17E210ECFF5258C9D59788E953424845E532099B651BA7B7A32B61B, 06-canon-delta.md SHA-256 923472562CC20C1B9CB9D28473A4A60A12D669FD1AEDD0CE1A52BB0546AD78A1, authority.json SHA-256 4DB62DCA6FBE89E3ADCF1B6EED48C5CF93D9ECDCDF5B8351D674593FA95E7057, 04-review.md SHA-256 0DA99BBFA5B0F1E6D874771CB1BF6DB4E5EC725629EB622D4BF4F8EA0C96E57C, and repaired handoffs.json SHA-256 BC13C5CD6C97066F7F098E7AD6805431E0F88103E668B280186D18D8274D211D against the complete current prompt, lifecycle record, canon brief, plan and dialogue profiles, replacement draft, official review history through pass 13, current authority manifest, ordered v3 handoff ledger through sequence 35, current registry, routed craft and dialogue guidance, current LOCKED/CANON authority, final prose, and all 37 delta entries. Exhaustive parsing and newline-normalized comparison proves that official passes 1 through 13 now each have exactly one matching ledger report: passes 1-13 map respectively to sequences 4, 6, 8, 20, 22, 24, 26, 28, 30, 31, 32, 34, and 35, with matching guards in every embedded reviewBasis. Sequence 34's report is now the complete 9,032-character official pass-12 return, including status, both payload markers, and the canonical 20-field JSON object; comparison with checkpoint 2dd0cfcd652edb1722b79c6a142b31d97e14a8d1 proves that only its report value changed and that its sequence, story, actor, mode, status, timestamps, guard, persister, inputs, outputs, error code, resolution owner, and resolution question remain unchanged. Sequence 35 exactly preserves official pass 13. New-AuthorityManifest -Verify exits zero at base a63db783ff6c1c4997f3c02d0bb52d0228bbd3b8, which remains origin/main, local main, and the HEAD/origin-main merge base; the authority-refresh inventory, universe tree, admitted canon artifacts, and upstream story/delta blobs remain unchanged as established in pass 13. The current story and delta hashes remain identical to pass 12, so its clarification and all creative conclusions remain supported: independently reproduced 5,480 prose words, exactly six flashback bodies totaling 3,010 words or 54.93%, a 2,118-word uninterrupted final sequence or 38.65%, and the exact endpoint `Nothing moved. Nothing answered.` Strict Final story-names/3 passes at 2026-08-06T01:37:40.3087815+00:00 with zero warnings and errors; Test-StoryHandoffs with RequireReleaseChain passes with 35 entries and no errors; Test-StoryIntegrity passes; git diff --check is clean. Release.json is correctly uncertified pending persistence of this pass, guarded handoff completion, and coordinator-owned release reconsideration.",
+  "verdict": "PASS",
+  "blockType": null,
+  "resolutionOwner": null,
+  "resolutionQuestion": null,
+  "errorCode": null,
+  "unresolvedCounts": {
+    "Critical": 0,
+    "Major": 0,
+    "Minor": 0
+  },
+  "priorFindingDispositions": [
+    {
+      "id": "AAD-DRAFT-001",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its catch, counterweight, sheave, and capstan load path before pass 2. That historical disposition remains resolved; none of the bounded setting or mechanism survives."
+    },
+    {
+      "id": "AAD-DRAFT-002",
+      "priorPass": 1,
+      "resolvedInPass": 2,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded version corrected its inverted lifelong-zero metaphor before pass 2. The replacement independently establishes at stories/all-accounts-due/05-story.md:11, 35, and 373-375 that Faris has never had magic, gains no hidden capacity, and remains normally vulnerable."
+    },
+    {
+      "id": "AAD-FINAL-001",
+      "priorPass": 2,
+      "resolvedInPass": 3,
+      "disposition": "RESOLVED",
+      "evidence": "The rejected bounded delta removed unsupported roles, testing generalizations, storage claims, and merged causal attributions before pass 3. None of its 17 items or creative content survives in the current replacement."
+    },
+    {
+      "id": "AAD-DRAFT-003",
+      "priorPass": 4,
+      "resolvedInPass": 5,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:227-253 consistently uses they/them forms for Ekkorath, matching the plan, registry, and final inventory. Faris remains he/him."
+    },
+    {
+      "id": "AAD-FINAL-002",
+      "priorPass": 5,
+      "resolvedInPass": 6,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-03 assigns coup exposure to the rescued demon young; AAD-06 assigns written-order exposure to Faris; AAD-10 preserves Seyathi's invitation to ask and fresh agreement; AAD-20 contains no unsupported `lawfully` qualifier; and AAD-22 has direct prose support for its local all-roots counterfactual."
+    },
+    {
+      "id": "AAD-FINAL-003",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-09 contains no unsupported Axis dimension or Latch-recess shape. AAD-21 limits its extinction inventory to the demonstrated Unhatched Form stored exchanges, impossible faculties, shared senses, keeper awareness, forced hybrids, and Kindred Graft reserves."
+    },
+    {
+      "id": "AAD-FINAL-004",
+      "priorPass": 7,
+      "resolvedInPass": 8,
+      "disposition": "RESOLVED",
+      "evidence": "Stories/all-accounts-due/05-story.md:255-421 is one uninterrupted post-sixth-flashback sequence containing all six renewed choices, assault, declaration, extinction, and Seyathi endpoint. Independent counting confirms the required 55.01% flashback-only and 38.56% uninterrupted-final proportions."
+    },
+    {
+      "id": "AAD-FINAL-005",
+      "priorPass": 8,
+      "resolvedInPass": 9,
+      "disposition": "RESOLVED",
+      "evidence": "AAD-02 at stories/all-accounts-due/06-canon-delta.md:70-92 now says Seyathi holds a `coercive pattern` open, matching stories/all-accounts-due/05-story.md:27-61 and AAD-10's exact account. Her assistance, cost, gift, arming, personhood, grievance, scope, dependencies, provenance, disposition, and target remain intact."
+    },
+    {
+      "id": "AAD-FINAL-006",
+      "priorPass": 8,
+      "resolvedInPass": 9,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 26 preserves the exact official pass-7 REVISE report under guard 6a73e2fce9ae4edb8d1f028cd6bac77a, with sequence and surrounding fields unchanged. Sequence 27 legitimately records the ensuing AAD-FINAL-003/004 revision; sequence 28 exactly preserves pass 8; and sequence 29 records only the AAD-FINAL-005 delta correction."
+    },
+    {
+      "id": "AAD-FINAL-007",
+      "priorPass": 10,
+      "resolvedInPass": 11,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 8 now retains its original sequence, guard fa2b1fdece0d490390d131a0476cc19d, actor, mode, status, timestamps, persister, inputs, outputs, and resolution fields while its report matches the official pass-3 PASS payload in 04-review.md character-for-character after newline normalization. Exhaustive joining confirms all ten official review passes have exactly one matching ledger report, including pass 2 only at sequence 6 and pass 3 only at sequence 8; no duplicate, missing, guard-mismatched, mode-mismatched, or payload-mismatched review record remains."
+    },
+    {
+      "id": "AAD-FINAL-008",
+      "priorPass": 13,
+      "resolvedInPass": 14,
+      "disposition": "RESOLVED",
+      "evidence": "Handoff sequence 34 now preserves the exact complete 9,032-character official pass-12 return from 04-review.md, including its leading `status: READY`, both required markers, and canonical 20-field JSON object. Comparison with the pre-repair checkpoint proves that only sequence 34's report value changed and all other sequence fields remain intact. Exhaustive normalized joining confirms that all thirteen official review passes now have exactly one matching ledger report, with pass 12 only at sequence 34 and pass 13 only at sequence 35; no duplicate, missing, guard-mismatched, mode-mismatched, or payload-mismatched review record remains."
+    }
+  ],
+  "findings": [],
+  "certificationEligible": true,
+  "changeReport": "Read-only pass-14 final follow-up; no repository file was changed. AAD-FINAL-008 is fully resolved: sequence 34 now contains the exact complete official pass-12 return, preserves every non-report field, and restores an exact one-to-one official-review-to-ledger chain through pass 13. Every prior finding disposition remains resolved. The authority manifest is current and valid; prose and delta hashes are unchanged from pass 12; the user-approved Seyathi clarification, dialogue, prompt fulfillment, chronology, structure, six flashbacks, uninterrupted climax, six systems, eight relics, six renewed choices, mechanics, casualties, names, allowlist, all 37 delta items, permanent bounded extinction, personhood, declaration causality, and exact endpoint remain intact. The final artifacts and production records have zero unresolved Critical, Major, or Minor findings and are genuinely certification-eligible once the coordinator persists this payload, completes the guarded handoff, and reconsiders the uncertified release. No canon ruling, retcon, prompt reinterpretation, prose or delta revision, registry repair, ledger repair, or new user authority is required."
 }
 END_REVIEW_PASS_PAYLOAD
