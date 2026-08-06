@@ -1,25 +1,45 @@
 ---
 name: story-room
-description: "Run the complete shared-universe short-story workflow for prompts tagged [WP], from branch/scaffold through candidate release."
+description: "Create or review a shared-universe short story using only prompt, outline, story, and review."
 ---
 
 # Story room
 
-Use for `[WP]` unless the user requests one named stage. Default to a coherent 2,500–4,000 word story and record safe assumptions rather than stopping for low-impact ambiguity.
+Use for `[WP]` prompts or a named story stage. Prefer safe, low-impact
+assumptions over questions. Default to a coherent 2,500–4,000 word story unless
+the prompt says otherwise.
 
-The planning, drafting, reviewing, and final-edit skills load the shared craft package through `../../writing-guides/README.md`. Keep those repository-level instructions outside guarded story inputs and authority manifests.
+## CREATE mode
 
-1. Update `main`, create `codex/story-<slug>`, and scaffold with `new-story.ps1` without overwriting an existing directory.
-2. Capture the verbatim prompt and acceptance criteria.
-3. Generate authority v2.
-4. Checkpoint; delegate canon research; persist its exact brief.
-5. Checkpoint; delegate plan creation; validate/register names.
-6. Checkpoint; delegate draft creation.
-7. Checkpoint; delegate draft review; persist the exact review payload; revise/re-review as required.
-8. Checkpoint; delegate final edit.
-9. Checkpoint; delegate final review; revise/re-review until `PASS` with no unresolved Critical/Major findings.
-10. Reconcile final names and run the strict gate.
-11. Complete the candidate transaction and run fast local integrity.
-12. Push a pull request; full PR policy, repository, source, universe, test, and reader-site checks must pass.
+1. Work on a non-main branch and scaffold with `scripts/new-story.ps1`.
+2. Preserve the prompt. Read `universe/README.md` and
+   `universe/style-guide.md`, then search only relevant canon entries, legacy
+   names, and current reviews.
+3. Write a compact `outline.md` with causal beats, ending, people, places, and
+   continuity boundaries. Keep it useful to the prose pass, not exhaustive.
+4. Write the complete prose directly to `story.md`.
+5. Delegate one independent REVIEW to `story_reviewer`.
+6. Resolve blocking findings only. Re-review once after changes; stop for the
+   user only when authority or prompt meaning genuinely requires a ruling.
+7. Run `scripts/Test-Stories.ps1` once.
+8. If the story should appear on Pages, capture it once with
+   `python pages/build.py capture <slug>`. Pages builds only from that stored
+   snapshot.
 
-The candidate remains non-canon unless the user separately authorizes promotion. Never work directly on `main`, skip a dependent gate, fabricate a specialist report, or run the deferred disposable canary unless explicitly requested.
+Do not create research briefs, authority snapshots, handoff records, separate
+draft/final files, canon deltas, release records, promotion manifests, story
+READMEs, or index projections. Do not reread the complete legacy corpus when a
+targeted search answers the continuity question.
+
+## REVIEW mode
+
+Write only `review.md`. Follow its template exactly:
+
+- inventory all story-facing people and place proper nouns;
+- mark each noun `new` or `recurring`, with `None` for an empty category;
+- check the prompt, current universe authority, and internal story facts;
+- use `Verdict: PASS` only when all continuity lines are `PASS` and blocking
+  findings are `none`; otherwise use `REVISE` and list concise fixes.
+
+Keep the review short. Findings and outcomes belong in the file; hidden
+reasoning, audit narration, and repeated plot summaries do not.
