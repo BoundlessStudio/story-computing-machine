@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "storySlug": "all-accounts-due",
-  "capturedAt": "2026-08-06T00:05:20.2585421+00:00",
+  "capturedAt": "2026-08-06T01:27:19.7462737+00:00",
   "baseBranch": "main",
-  "baseCommit": "b8df6a9cf7b48ed2eded47385b4e69bcbfb7a20f",
+  "baseCommit": "a63db783ff6c1c4997f3c02d0bb52d0228bbd3b8",
   "universeFiles": [
     "universe/characters.md",
     "universe/factions.md",
