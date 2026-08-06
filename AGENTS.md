@@ -57,10 +57,12 @@ one named stage.
    repeat the pre-review check, and request one fresh review. Ask the user only
    when a canon ruling, retcon, or material prompt reinterpretation is required.
 7. After `PASS`, run `Test-Stories.ps1 -Phase Final` locally, capture the story
-   with `python pages/build.py capture <slug>` once, run
-   `python pages/build.py check`, and commit `pages/catalog.json`. Capture is
-   the final story handoff; GitHub Actions only builds and publishes Pages from
-   the stored catalog after merge.
+   with `python pages/build.py capture <slug>` once, and run
+   `python pages/build.py check`. Stage the story's four files together with
+   `pages/catalog.json`, commit them, push the current story branch to `origin`
+   with upstream tracking, and open a draft pull request against the repository's
+   default branch. Capture is the final story handoff; GitHub Actions only builds
+   and publishes Pages from the stored catalog after merge.
 
 Do not create a canon brief, authority snapshot, draft copy, canon delta,
 handoff guard, release record, promotion record, story README, or index row.
@@ -124,4 +126,6 @@ intentional full refresh, not for CI.
 A current story is complete when its four files exist, `review.md` says `PASS`,
 people and places are inventoried, all three continuity lines pass, and the
 story has been captured into `pages/catalog.json`. Repository acceptance also
-requires the local final validator and catalog check to pass.
+requires the local final validator and catalog check to pass, the completed
+changes to be committed and pushed on the story branch, and a draft pull
+request to be open against the repository's default branch.
