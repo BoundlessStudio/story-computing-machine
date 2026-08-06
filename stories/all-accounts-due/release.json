@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
-  "certified": false,
+  "certified": true,
   "storySlug": "all-accounts-due",
-  "certifiedAt": null,
+  "certifiedAt": "2026-08-06T01:24:45.9888204+00:00",
   "certificationBasis": "pipeline",
   "artifacts": {
     "story": {
@@ -14,10 +14,10 @@
   },
   "review": {
     "artifact": "05-story.md",
-    "pass": 11,
+    "pass": 12,
     "verdict": "PASS",
     "reviewer": "continuity_critic",
-    "reviewedAt": "2026-08-06T00:23:44.0546336Z",
+    "reviewedAt": "2026-08-06T01:18:43.5621459+00:00",
     "reviewBasis": "independent continuity review",
     "unresolvedCritical": 0,
     "unresolvedMajor": 0
@@ -26,7 +26,7 @@
     "story": "all-accounts-due",
     "phase": "Final",
     "passed": true,
-    "checkedAt": "2026-08-05T20:34:35.8284442-04:00",
+    "checkedAt": "2026-08-05T21:24:45.614944-04:00",
     "checkerVersion": "story-names/3",
     "warnings": []
   },
