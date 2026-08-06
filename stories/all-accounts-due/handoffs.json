@@ -923,6 +923,38 @@
       "errorCode": null,
       "resolutionOwner": null,
       "resolutionQuestion": null
+    },
+    {
+      "sequence": 33,
+      "story": "all-accounts-due",
+      "actor": "story_editor",
+      "mode": "REVISE_FINAL",
+      "status": "READY",
+      "startedAt": "2026-08-06T01:00:27.8949424+00:00",
+      "completedAt": "2026-08-06T01:08:29.9896968+00:00",
+      "guardId": "62bb4b51d6264663b7bd7866e80c04bf",
+      "persister": "story_editor",
+      "report": "status: READY\nstory: all-accounts-due\nmode: REVISE_FINAL\nguard_id: 62bb4b51d6264663b7bd7866e80c04bf\ncurrent_stage: final-review / in-progress\nchanged_outputs:\n  - stories/all-accounts-due/05-story.md\n  - stories/all-accounts-due/06-canon-delta.md\noutput_hashes:\n  05-story_before_sha256: CE18A5563CF19D750CB246050458C7FD3B29A317829F5BC7971B64C104A78293\n  05-story_after_sha256: 292E29CFE17E210ECFF5258C9D59788E953424845E532099B651BA7B7A32B61B\n  06-canon-delta_before_sha256: 61609CD722ECA776AD3F20D9E5C9AAA468A134F6ABEEA33C1CDF94EAFDAC7214\n  06-canon-delta_after_sha256: 923472562CC20C1B9CB9D28473A4A60A12D669FD1AEDD0CE1A52BB0546AD78A1\nrevision_disposition: RESOLVED — replaced Seyathi’s awkward final accusation with the exact user-approved sentence. Updated only AAD-36’s direct quotation because retaining the superseded words would contradict the release-facing prose; no reusable fact, scope, dependency, disposition, target, or canon posture changed.\nfrontmatter_check: PASS — immutable final-story frontmatter is unchanged.\nstructure_check: PASS — 5,480 prose words; exactly six flashbacks remain 3,010 words (54.93%); the uninterrupted final sequence remains 2,118 words (38.65%); endpoint remains exactly `Nothing moved. Nothing answered.`\ndelta_audit: PASS — all 37 sequential reusable-fact entries retain exact local scope, constraints, dependencies, provenance, proposed dispositions, and topical targets; seven-character inventory and exact three-column 27-row non-character allowlist remain intact; authority remains none, proposal only, and promotion unauthorized.\nname_check: PASS — strict Final story-names/3 check completed at 2026-08-06T01:07:00.2284000+00:00 with zero warnings and zero errors.\nintegrity_check: PASS — story integrity passed; the 32-entry handoff ledger remains valid and releaseReady; git diff --check passed.\nscope_check: PASS — only the two permitted final-edit outputs changed, with one sentence substitution in each.\nreview_invalidation: This change invalidates the prior final review and requires coordinator-owned re-review/release reconsideration.\nchange_report: Clarified Seyathi’s final accusation exactly as authorized and reconciled AAD-36’s quoted evidence to that sentence. Preserved all other prose, frontmatter, endpoint, facts, names, prompt and plan fulfillment, delta inventory, allowlist, and canon posture. No lifecycle, registry, review, handoff, index, authority, release, universe, prompt, plan, draft, or metadata file was changed.\nstale_precondition: none",
+      "inputs": [
+        "stories/all-accounts-due/00-prompt.md",
+        "stories/all-accounts-due/01-canon-brief.md",
+        "stories/all-accounts-due/02-story-plan.md",
+        "stories/all-accounts-due/03-draft.md",
+        "stories/all-accounts-due/04-review.md",
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md",
+        "stories/all-accounts-due/authority.json",
+        "stories/all-accounts-due/handoffs.json",
+        "stories/all-accounts-due/story.json",
+        "stories/NAMES.md"
+      ],
+      "outputs": [
+        "stories/all-accounts-due/05-story.md",
+        "stories/all-accounts-due/06-canon-delta.md"
+      ],
+      "errorCode": null,
+      "resolutionOwner": null,
+      "resolutionQuestion": null
     }
   ]
 }
