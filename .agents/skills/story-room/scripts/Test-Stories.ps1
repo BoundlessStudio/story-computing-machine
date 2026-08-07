@@ -28,6 +28,7 @@ if (-not [string]::IsNullOrWhiteSpace($Story) -and $Story -notmatch '^[a-z0-9]+(
 }
 
 $requiredFiles = @('outline.md', 'prompt.md', 'review.md', 'story.md')
+$titleImageFile = 'title-image.jpg'
 $errors = [Collections.Generic.List[string]]::new()
 $warnings = [Collections.Generic.List[string]]::new()
 $finalInventory = [Collections.Generic.List[object]]::new()
@@ -164,13 +165,80 @@ function Read-LooseNounRows {
     return @($rows)
 }
 
+function Get-JpegDimensions {
+    param([string]$Path)
+
+    $bytes = [IO.File]::ReadAllBytes($Path)
+    if ($bytes.Length -lt 4 -or $bytes[0] -ne 0xff -or $bytes[1] -ne 0xd8) {
+        return $null
+    }
+
+    $startOfFrameMarkers = @(0xc0, 0xc1, 0xc2, 0xc3, 0xc5, 0xc6, 0xc7, 0xc9, 0xca, 0xcb, 0xcd, 0xce, 0xcf)
+    $offset = 2
+    while ($offset -lt $bytes.Length) {
+        while ($offset -lt $bytes.Length -and $bytes[$offset] -ne 0xff) {
+            $offset++
+        }
+        while ($offset -lt $bytes.Length -and $bytes[$offset] -eq 0xff) {
+            $offset++
+        }
+        if ($offset -ge $bytes.Length) {
+            break
+        }
+
+        $marker = $bytes[$offset]
+        $offset++
+        if ($marker -in @(0x01, 0xd8, 0xd9) -or ($marker -ge 0xd0 -and $marker -le 0xd7)) {
+            continue
+        }
+        if ($offset + 1 -ge $bytes.Length) {
+            break
+        }
+
+        $segmentLength = ([int]$bytes[$offset] -shl 8) + [int]$bytes[$offset + 1]
+        if ($segmentLength -lt 2 -or $offset + $segmentLength -gt $bytes.Length) {
+            break
+        }
+        if ($marker -in $startOfFrameMarkers) {
+            if ($segmentLength -lt 7) {
+                break
+            }
+            $height = ([int]$bytes[$offset + 3] -shl 8) + [int]$bytes[$offset + 4]
+            $width = ([int]$bytes[$offset + 5] -shl 8) + [int]$bytes[$offset + 6]
+            return [pscustomobject]@{ Width = $width; Height = $height }
+        }
+        $offset += $segmentLength
+    }
+    return $null
+}
+
+function Test-TitleImage {
+    param([string]$StorySlug, [string]$Path)
+
+    if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) {
+        $errors.Add("$StorySlug is missing $titleImageFile.")
+        return
+    }
+
+    $dimensions = Get-JpegDimensions $Path
+    if ($null -eq $dimensions) {
+        $errors.Add("$StorySlug/$titleImageFile is not a readable JPEG.")
+        return
+    }
+    if ($dimensions.Width -ne 864 -or $dimensions.Height -ne 1536) {
+        $errors.Add("$StorySlug/$titleImageFile must be exactly 864x1536 (9:16 portrait); found $($dimensions.Width)x$($dimensions.Height).")
+    }
+}
+
 function Read-StoryPackage {
     param([IO.DirectoryInfo]$Directory)
 
     $slug = $Directory.Name
     $files = @(Get-ChildItem -LiteralPath $Directory.FullName -File -Force | Select-Object -ExpandProperty Name | Sort-Object)
-    if ((Compare-Object $requiredFiles $files).Count -ne 0) {
-        $errors.Add("$slug must contain exactly the four current story files.")
+    $allowedFiles = @($requiredFiles) + $titleImageFile
+    $unexpected = @($files | Where-Object { $_ -notin $allowedFiles })
+    if ($unexpected.Count -gt 0) {
+        $errors.Add("$slug contains unsupported files: $($unexpected -join ', ').")
     }
 
     $missing = @($requiredFiles | Where-Object { -not (Test-Path -LiteralPath (Join-Path $Directory.FullName $_) -PathType Leaf) })
@@ -179,6 +247,9 @@ function Read-StoryPackage {
     }
     if ($missing.Count -gt 0) {
         return $null
+    }
+    if ($Phase -eq 'Final') {
+        Test-TitleImage $slug (Join-Path $Directory.FullName $titleImageFile)
     }
 
     $promptText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'prompt.md') -Raw
@@ -524,4 +595,4 @@ if ($errors.Count -gt 0) {
     throw ('Final story validation failed:' + $separator + ($errors -join $separator))
 }
 
-"PASS: four-file template; $($packages.Count) current stories; $legacyCount locked legacy stories ignored; final nouns and continuity verified."
+"PASS: four-file scaffold; 9:16 portrait title images; $($packages.Count) current stories; $legacyCount locked legacy stories ignored; final nouns and continuity verified."

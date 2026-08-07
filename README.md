@@ -1,15 +1,18 @@
 # Story Computing Machine
 
-A small shared-universe story room. A `[WP]` prompt becomes four files:
+A small shared-universe story room. A `[WP]` prompt becomes four authored files
+and, after review, one title image:
 
 ```text
-prompt.md → outline.md → story.md → review.md
+prompt.md → outline.md → story.md → review.md → title-image.jpg
 ```
 
 The coordinator delegates one compact outline pass, one skilled prose pass,
-and one independent review. The reviewer checks people, places, prompt
-fulfillment, and continuity. There are no draft/final duplicates, canon briefs,
-handoff ledgers, or release certificates.
+one independent review, and one final-story title-image pass. The reviewer
+checks people, places, prompt fulfillment, and continuity; the illustrator
+reads the finished prose and creates an exact 864x1536 portrait key visual. There are no
+draft/final duplicates, canon briefs, handoff ledgers, or release certificates.
+Each cover includes the exact reader-facing story title once.
 
 ## Quick start
 
@@ -30,11 +33,13 @@ a separate explicit user decision.
 - `AGENTS.md` — the complete operating rules.
 - `.agents/skills/story-room/` — the workflow and its two scripts.
 - `.agents/skills/short-story-writing/` — the one compact prose-craft skill.
-- `.codex/agents/` — the narrow outliner, writer, and reviewer roles.
+- `.codex/agents/` — the narrow outliner, writer, reviewer, and title-image roles.
 - `stories/_template/` — the four-file scaffold.
 - `universe/` — authoritative shared-universe facts and style constraints.
-- `stories/` — locked legacy bundles and current four-file stories.
+- `stories/` — legacy bundles and current story packages; title images live
+  beside their story prose as `title-image.jpg`.
 - `pages/catalog.json` — the stored publication snapshot used by Pages.
+- `pages/covers/` — captured title images used by the index and story pages.
 - `pages/build.py` — captures reviewed stories and renders the snapshot.
 
 ## Two validation phases
@@ -44,9 +49,11 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Story 
 pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase Final
 ```
 
-The agent runs the targeted pre-review phase before review and the final phase
-locally after a passing review. Both ignore locked legacy bundles; semantic
-noun extraction and continuity judgment remain the reviewer's responsibility.
+The agent runs the targeted pre-review phase before review, generates the title
+image only after a passing review, and then runs the final phase locally. Final
+validation requires a readable 864x1536 JPEG for every current story. Both
+phases ignore locked legacy bundles; semantic noun extraction and continuity
+judgment remain the reviewer's responsibility.
 
 ## Pages
 
@@ -58,6 +65,9 @@ python pages/build.py capture <slug>
 ```
 
 Capture requires a passing review but does not duplicate the full story check.
+It stores the prose in `pages/catalog.json` and copies the title image into
+`pages/covers/`. The Pages index renders cover cards with each story's title and
+prompt; each story page places the cover below its title and prompt.
 Verify the stored snapshot and reader locally:
 
 ```powershell
@@ -67,4 +77,5 @@ python pages/build.py build --output _site
 ```
 
 After merge, GitHub Actions only builds, uploads, and deploys
-`pages/catalog.json`; it does not rerun story validation or reader tests.
+the stored `pages/catalog.json` and `pages/covers/` snapshot with the reader
+stylesheet; it does not rerun story validation or reader tests.

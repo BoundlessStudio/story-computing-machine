@@ -23,9 +23,13 @@ the prompt says otherwise.
 6. If the verdict is `REVISE`, delegate only the blocking fixes to
    `story_writer`, repeat the pre-review check, and request one fresh review.
    Stop for the user only when authority or prompt meaning requires a ruling.
-7. After `PASS`, capture the story with `python pages/build.py capture <slug>`.
-   This mandatory final handoff updates the publication catalog; GitHub CI runs
-   final validation and publishes from the stored snapshot.
+7. After `PASS`, delegate the final prose to `story_title_illustrator`. It reads
+   the complete story and writes only `title-image.jpg`, an exact 9:16 portrait,
+   spoiler-light title visual. Unless the assignment overrides it, use the
+   agent's premium anime/light-novel key-visual default.
+8. Run final validation, then capture the story with
+   `python pages/build.py capture <slug>`. This mandatory final handoff updates
+   the stored prose catalog and its matching Pages cover asset.
 
 Do not create research briefs, authority snapshots, handoff records, separate
 draft/final files, canon deltas, release records, promotion manifests, story
@@ -52,3 +56,15 @@ Write only `review.md`. Follow its template exactly:
 
 Keep the review short. Findings and outcomes belong in the file; hidden
 reasoning, audit narration, and repeated plot summaries do not.
+
+## TITLE IMAGE responsibility
+
+Read the complete final reader-facing story, select one spoiler-light scene or
+visual metaphor that carries its emotional promise, and write only
+`title-image.jpg`. Preserve story-specific character, setting, era, mood, and
+material details. The source asset must be a high-quality JPEG at exactly
+864x1536 pixels. It must display the exact reader-facing story title once, with
+no author name, caption, logo, border, watermark, or other text. Generate the
+illustration and verbatim title together in one image-generation pass; canvas
+normalization may not add or replace typography. The image is presentation,
+not canon authority, and must never cause prose or continuity edits.

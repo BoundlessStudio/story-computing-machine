@@ -5,18 +5,28 @@ universe notes are the product; process records are not.
 
 ## Two story layouts
 
-A current story has exactly four files:
+A completed current story has four authored Markdown files and one generated
+title image:
 
 - `prompt.md` — the verbatim request and its few explicit constraints.
 - `outline.md` — the causal shape, proposed people and places, and relevant
   continuity boundaries.
 - `story.md` — the reader-facing prose and its minimal metadata.
 - `review.md` — the final people/place inventory and continuity verdict.
+- `title-image.jpg` — the final-story 9:16 portrait visual; never canon authority.
+
+The cover displays the exact reader-facing story title once. It has no author
+name, caption, logo, border, watermark, or other text.
+
+The scaffold contains only the four Markdown files until the story passes
+review. No other files belong in a current story directory.
 
 Any existing story directory containing `05-story.md` is a locked legacy
-bundle. Do not edit, migrate, validate, or regenerate it. Its extra files are
-historical residue from the retired pipeline. Only the explicit Pages capture
-command understands that layout; normal validation and site builds do not.
+bundle. Do not edit, migrate, validate, or regenerate its bundle files. Its
+extra files are historical residue from the retired pipeline. The title-image
+workflow may add or replace only `title-image.jpg` beside a legacy bundle;
+that asset does not alter or reopen the bundle. Only the explicit Pages capture
+command understands the legacy layout; normal story validation does not.
 
 ## Authority
 
@@ -56,13 +66,17 @@ one named stage.
 6. If the verdict is `REVISE`, delegate only blocking fixes to `story_writer`,
    repeat the pre-review check, and request one fresh review. Ask the user only
    when a canon ruling, retcon, or material prompt reinterpretation is required.
-7. After `PASS`, run `Test-Stories.ps1 -Phase Final` locally, capture the story
-   with `python pages/build.py capture <slug>` once, and run
-   `python pages/build.py check`. Stage the story's four files together with
-   `pages/catalog.json`, commit them, push the current story branch to `origin`
-   with upstream tracking, and open a draft pull request against the repository's
-   default branch. Capture is the final story handoff; GitHub Actions only builds
-   and publishes Pages from the stored catalog after merge.
+7. After `PASS`, delegate `title-image.jpg` to `story_title_illustrator`. It
+   reads the complete final prose and writes only the spoiler-light 9:16 title
+   visual. Unless the prompt says otherwise, use the repository's premium
+   anime/light-novel key-visual default defined in that agent.
+8. Run `Test-Stories.ps1 -Phase Final` locally, capture the story with
+   `python pages/build.py capture <slug>` once, and run
+   `python pages/build.py check`. Stage the story's four Markdown files together
+   with `title-image.jpg`, `pages/catalog.json`, and the captured
+   `pages/covers/<slug>.jpg`; commit them, push the current story branch to
+   `origin` with upstream tracking, and open a draft pull request against the
+   repository's default branch. Capture is the final prose-and-cover handoff.
 
 Do not create a canon brief, authority snapshot, draft copy, canon delta,
 handoff guard, release record, promotion record, story README, or index row.
@@ -114,18 +128,20 @@ needed.
 
 ## Pages
 
-`pages/catalog.json` is the publication boundary. GitHub Pages builds and
-publishes only that stored snapshot; it never traverses `stories/` or runs
-story validation. The
-`capture` command requires a passing review and copies one completed story into
-the catalog without rerunning full validation. `capture-all` exists only for an
-intentional full refresh, not for CI.
+`pages/catalog.json` and `pages/covers/` form the stored publication snapshot.
+GitHub Pages builds and publishes only that snapshot; it never traverses
+`stories/` or runs story validation. The `capture` command requires a passing
+review and copies one completed story and its title image into the snapshot
+without rerunning full validation. `capture-all` exists only for an intentional
+full refresh, not for CI.
 
 ## Completion
 
-A current story is complete when its four files exist, `review.md` says `PASS`,
-people and places are inventoried, all three continuity lines pass, and the
-story has been captured into `pages/catalog.json`. Repository acceptance also
-requires the local final validator and catalog check to pass, the completed
-changes to be committed and pushed on the story branch, and a draft pull
-request to be open against the repository's default branch.
+A current story is complete when its four Markdown files and 9:16 portrait
+`title-image.jpg` exist, `review.md` says `PASS`, people and places are
+inventoried, all three continuity lines pass, and the story plus image have
+been completed in the story directory and captured into `pages/catalog.json`
+and `pages/covers/`. Repository acceptance also requires the local final
+validator and catalog check to pass, the completed changes to be committed and
+pushed on the story branch, and a draft pull request to be open against the
+repository's default branch.

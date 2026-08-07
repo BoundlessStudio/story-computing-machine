@@ -18,6 +18,15 @@ NEW_STORY = REPO / ".agents/skills/story-room/scripts/new-story.ps1"
 
 
 class StorySystemTests(unittest.TestCase):
+    def write_title_image(self, story: Path, width: int = 864, height: int = 1536) -> None:
+        # Minimal JPEG structure sufficient for the story validator's dimension check.
+        story.joinpath("title-image.jpg").write_bytes(
+            bytes.fromhex("ffd8ffc0001108")
+            + height.to_bytes(2, "big")
+            + width.to_bytes(2, "big")
+            + bytes.fromhex("03011100021100031100ffd9")
+        )
+
     def write_review(self, story: Path, passing: bool) -> None:
         if not passing:
             shutil.copy2(REPO / "stories/_template/review.md", story / "review.md")
@@ -64,6 +73,7 @@ class StorySystemTests(unittest.TestCase):
             encoding="utf-8",
         )
         self.write_review(story, passing_review)
+        self.write_title_image(story)
         return story
 
     def validate(self, root: Path, phase: str, story: str | None = None) -> subprocess.CompletedProcess:
@@ -121,6 +131,14 @@ class StorySystemTests(unittest.TestCase):
             completed = self.validate(root, "PreReview", "sample")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
             self.assertIn("2 declared person/place nouns", completed.stdout)
+
+    def test_pre_review_accepts_pending_title_image(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            (story / "title-image.jpg").unlink()
+            completed = self.validate(root, "PreReview", "sample")
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
 
     def test_pre_review_allows_advisory_outline_deviation(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -214,7 +232,13 @@ class StorySystemTests(unittest.TestCase):
             self.assertIn("1 current stories", completed.stdout)
 
     def test_final_validation_rejects_inventory_continuity_and_blockers(self):
-        cases = ("missing inventory", "failed continuity", "blocking finding")
+        cases = (
+            "missing inventory",
+            "failed continuity",
+            "blocking finding",
+            "missing title image",
+            "wrong title image size",
+        )
         for case in cases:
             with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
                 root = Path(temporary)
@@ -227,8 +251,12 @@ class StorySystemTests(unittest.TestCase):
                     review = review[:start] + review[end:]
                 elif case == "failed continuity":
                     review = review.replace("- Universe: PASS", "- Universe: PENDING")
-                else:
+                elif case == "blocking finding":
                     review = review.replace("- Blocking: none", "- Blocking: repair the ending")
+                elif case == "missing title image":
+                    (story / "title-image.jpg").unlink()
+                else:
+                    self.write_title_image(story, 1024, 768)
                 review_path.write_text(review, encoding="utf-8")
                 completed = self.validate(root, "Final")
                 self.assertNotEqual(0, completed.returncode)
@@ -247,6 +275,8 @@ class StorySystemTests(unittest.TestCase):
             catalog = build.capture_story("sample", root, snapshot)
             self.assertEqual(("sample",), tuple(item.slug for item in catalog.stories))
             self.assertEqual(catalog, build.load_catalog(snapshot))
+            self.assertEqual("covers/sample.jpg", catalog.stories[0].cover)
+            self.assertTrue((root / "covers/sample.jpg").is_file())
 
     def test_stored_catalog_is_valid_and_newest_first(self):
         catalog = build.load_catalog()
@@ -254,6 +284,7 @@ class StorySystemTests(unittest.TestCase):
         dates = [story.created for story in catalog.stories]
         self.assertEqual(sorted(dates, reverse=True), dates)
         self.assertEqual(len({story.slug for story in catalog.stories}), len(catalog.stories))
+        self.assertTrue(all(story.cover == f"covers/{story.slug}.jpg" for story in catalog.stories))
 
     def test_build_uses_stored_catalog(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -267,20 +298,37 @@ class StorySystemTests(unittest.TestCase):
             finally:
                 build.load_story_source = original_loader
             self.assertTrue((output / "index.html").is_file())
+            self.assertTrue((output / "styles.css").is_file())
             self.assertEqual(
                 len(catalog.stories),
                 len(list((output / "stories").glob("*.html"))),
+            )
+            self.assertEqual(
+                len(catalog.stories),
+                len(list((output / "covers").glob("*.jpg"))),
             )
             self.assertIn(
                 f"{len(catalog.stories)} stored publications",
                 (output / "index.html").read_text(encoding="utf-8"),
             )
+            self.assertIn('class="story-grid"', (output / "index.html").read_text(encoding="utf-8"))
 
-    def test_rendering_keeps_one_visible_story_title(self):
+    def test_rendering_places_cover_below_title_and_prompt(self):
         story = build.load_catalog().stories[0]
         rendered = build.render_story(story)
         self.assertEqual(1, rendered.count("<h1>"))
         self.assertIn('<span class="prompt-label">Prompt</span>', rendered)
+        self.assertIn(f'src="../{story.cover}"', rendered)
+        self.assertLess(rendered.index("<h1>"), rendered.index('class="prompt"'))
+        self.assertLess(rendered.index('class="prompt"'), rendered.index('class="story-cover"'))
+
+    def test_index_cards_include_title_cover_and_prompt(self):
+        story = build.load_catalog().stories[0]
+        rendered = build.render_index(build.Catalog((story,)))
+        self.assertIn('class="story-card"', rendered)
+        self.assertIn(f'src="{story.cover}"', rendered)
+        self.assertIn(f'<span class="story-title">{build.html.escape(story.title)}</span>', rendered)
+        self.assertIn(build.html.escape(story.prompt), rendered)
 
     def test_output_cannot_replace_repository_root(self):
         with self.assertRaises(ValueError):

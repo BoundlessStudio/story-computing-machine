@@ -13,6 +13,10 @@ import markdown
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
+STYLESHEET_PATH = Path(__file__).with_name("styles.css")
+TITLE_IMAGE_NAME = "title-image.jpg"
+TITLE_IMAGE_WIDTH = 864
+TITLE_IMAGE_HEIGHT = 1536
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -25,6 +29,7 @@ class Story:
     canon: bool
     status: str
     prompt: str
+    cover: str
     body: str
 
     @property
@@ -105,6 +110,77 @@ def _bool(value: str, path: Path, field: str) -> bool:
     raise ValueError(f"{path} field {field} must be true or false")
 
 
+def _jpeg_dimensions(path: Path) -> tuple[int, int]:
+    try:
+        data = path.read_bytes()
+    except OSError as exc:
+        raise ValueError(f"Cannot read title image {path}: {exc}") from exc
+    if len(data) < 4 or data[:2] != b"\xff\xd8":
+        raise ValueError(f"{path} is not a readable JPEG")
+
+    start_of_frame = {
+        0xC0,
+        0xC1,
+        0xC2,
+        0xC3,
+        0xC5,
+        0xC6,
+        0xC7,
+        0xC9,
+        0xCA,
+        0xCB,
+        0xCD,
+        0xCE,
+        0xCF,
+    }
+    offset = 2
+    while offset < len(data):
+        while offset < len(data) and data[offset] != 0xFF:
+            offset += 1
+        while offset < len(data) and data[offset] == 0xFF:
+            offset += 1
+        if offset >= len(data):
+            break
+
+        marker = data[offset]
+        offset += 1
+        if marker in {0x01, 0xD8, 0xD9} or 0xD0 <= marker <= 0xD7:
+            continue
+        if offset + 1 >= len(data):
+            break
+
+        segment_length = int.from_bytes(data[offset : offset + 2], "big")
+        if segment_length < 2 or offset + segment_length > len(data):
+            break
+        if marker in start_of_frame:
+            if segment_length < 7:
+                break
+            height = int.from_bytes(data[offset + 3 : offset + 5], "big")
+            width = int.from_bytes(data[offset + 5 : offset + 7], "big")
+            return width, height
+        offset += segment_length
+    raise ValueError(f"{path} is not a readable JPEG")
+
+
+def _validate_title_image(path: Path) -> None:
+    width, height = _jpeg_dimensions(path)
+    if (width, height) != (TITLE_IMAGE_WIDTH, TITLE_IMAGE_HEIGHT):
+        raise ValueError(
+            f"{path} must be exactly {TITLE_IMAGE_WIDTH}x{TITLE_IMAGE_HEIGHT}; "
+            f"found {width}x{height}"
+        )
+
+
+def _cover_value(slug: str) -> str:
+    return f"covers/{slug}.jpg"
+
+
+def _source_cover(directory: Path, slug: str) -> str:
+    path = directory / TITLE_IMAGE_NAME
+    _validate_title_image(path)
+    return _cover_value(slug)
+
+
 def _load_current_story(directory: Path) -> Story:
     story_path = directory / "story.md"
     front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
@@ -134,6 +210,7 @@ def _load_current_story(directory: Path) -> Story:
         canon=_bool(front["canon"], story_path, "canon"),
         status="canon" if front["canon"] == "true" else "reviewed",
         prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
+        cover=_source_cover(directory, front["slug"]),
         body=body.strip(),
     )
 
@@ -169,6 +246,7 @@ def _load_legacy_story(directory: Path) -> Story:
         canon=record["canon"],
         status=record["status"],
         prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
+        cover=_source_cover(directory, record["slug"]),
         body=body.strip(),
     )
 
@@ -191,12 +269,12 @@ def _ordered(stories: Iterable[Story]) -> tuple[Story, ...]:
 def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     value = read_json_object(snapshot_path)
     require_exact_fields(value, {"schemaVersion", "stories"}, str(snapshot_path))
-    if value["schemaVersion"] != 1 or not isinstance(value["stories"], list):
+    if value["schemaVersion"] != 2 or not isinstance(value["stories"], list):
         raise ValueError(f"Unsupported snapshot in {snapshot_path}")
 
     stories: list[Story] = []
     seen: set[str] = set()
-    fields = {"slug", "title", "created", "canon", "status", "prompt", "body"}
+    fields = {"slug", "title", "created", "canon", "status", "prompt", "cover", "body"}
     for index, item in enumerate(value["stories"]):
         if not isinstance(item, dict):
             raise ValueError(f"Snapshot story {index} is not an object")
@@ -214,10 +292,12 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
             or not item["status"].strip()
             or not isinstance(item["prompt"], str)
             or not item["prompt"].strip()
+            or item["cover"] != _cover_value(item["slug"])
             or not isinstance(item["body"], str)
             or not item["body"].strip()
         ):
             raise ValueError(f"Invalid snapshot story {index}")
+        _validate_title_image(snapshot_path.parent / item["cover"])
         seen.add(item["slug"])
         stories.append(Story(**item))
 
@@ -230,14 +310,23 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = Catalog(_ordered(stories))
     value = {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "stories": [asdict(story) for story in catalog.stories],
     }
     snapshot_path.write_text(
         json.dumps(value, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
+        newline="\n",
     )
     return catalog
+
+
+def _capture_cover(story: Story, repository_root: Path, snapshot_path: Path) -> None:
+    source = repository_root / "stories" / story.slug / TITLE_IMAGE_NAME
+    _validate_title_image(source)
+    destination = snapshot_path.parent / story.cover
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(source, destination)
 
 
 def capture_story(
@@ -249,6 +338,7 @@ def capture_story(
     existing = list(load_catalog(snapshot_path).stories) if snapshot_path.exists() else []
     by_slug = {item.slug: item for item in existing}
     by_slug[story.slug] = story
+    _capture_cover(story, repository_root, snapshot_path)
     return save_catalog(by_slug.values(), snapshot_path)
 
 
@@ -264,33 +354,26 @@ def capture_all(
         and not item.name.startswith("_")
         and ((item / "story.md").is_file() or (item / "05-story.md").is_file())
     ]
-    return save_catalog((load_story_source(slug, repository_root) for slug in slugs), snapshot_path)
+    stories = tuple(load_story_source(slug, repository_root) for slug in slugs)
+    for story in stories:
+        _capture_cover(story, repository_root, snapshot_path)
+    return save_catalog(stories, snapshot_path)
 
 
 REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
 GITHUB_ICON = '''<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.64 0 8.13c0 3.59 2.29 6.64 5.47 7.71.4.08.55-.17.55-.39 0-.19-.01-.82-.01-1.49-2.01.44-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.59 1.23.83.72 1.23 1.87.88 2.33.67.07-.53.28-.88.51-1.08-1.78-.21-3.64-.9-3.64-4.01 0-.89.31-1.62.82-2.19-.08-.21-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.92c.68 0 1.36.09 2 .28 1.53-1.06 2.2-.84 2.2-.84.44 1.12.16 1.95.08 2.16.51.57.82 1.3.82 2.19 0 3.12-1.87 3.8-3.65 4.01.29.25.54.73.54 1.49 0 1.07-.01 1.93-.01 2.2 0 .22.15.47.55.39A8.03 8.03 0 0 0 16 8.13C16 3.64 12.42 0 8 0Z"/></svg>'''
 
 
-def _page(title: str, body: str, home_href: str) -> str:
+def _page(title: str, body: str, home_href: str, stylesheet_href: str) -> str:
     repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
     header = f'<header class="site-header"><a class="site-name" href="{home_href}">Story Computing Machine</a>{repository_link}</header>'
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>
-:root{{color-scheme:light dark;--background:#fcf8f1;--surface:#fffdf8;--text:#241f1a;--muted:#6d645a;--link:#70451f;--border:#d8cec0}}
-@media (prefers-color-scheme:dark){{:root{{--background:#181512;--surface:#211d19;--text:#eee8df;--muted:#b8aea2;--link:#e4b780;--border:#4a4036}}}}
-body{{max-width:48rem;margin:0 auto;padding:2rem;font:18px/1.65 Georgia,serif;color:var(--text);background:var(--background)}}
-a{{color:var(--link)}}
-.site-header{{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-bottom:1rem;border-bottom:1px solid var(--border)}}
-.site-name{{font:700 13px system-ui;text-decoration:none;letter-spacing:.04em;text-transform:uppercase}}
-.repository-link{{display:inline-flex;align-items:center;justify-content:center;width:2.25rem;height:2.25rem;border-radius:50%;color:var(--text)}}
-.repository-link:hover{{background:var(--surface);color:var(--link)}}
-.repository-link svg{{width:1.35rem;height:1.35rem;fill:currentColor}}
-article{{margin:2rem 0}}
-.meta,.prompt-label{{color:var(--muted);font:14px system-ui}}
-.prompt{{margin:1rem 0;padding:1rem 1.2rem;border:1px solid var(--border);border-radius:.35rem;background:var(--surface)}}
-.prompt-label{{display:block;margin-bottom:.25rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase}}
-.prompt blockquote{{margin:0}}
-li{{margin:1rem 0}}
-</style></head><body>{header}<main>{body}</main></body></html>'''
+    return (
+        '<!doctype html><html lang="en"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        f'<title>{html.escape(title)}</title>'
+        f'<link rel="stylesheet" href="{html.escape(stylesheet_href, quote=True)}">'
+        f'</head><body>{header}<main>{body}</main></body></html>'
+    )
 
 
 def _prompt(value: str) -> str:
@@ -308,26 +391,46 @@ def _story_label(story: Story) -> str:
 
 def render_index(catalog: Catalog) -> str:
     items = []
-    for story in catalog.stories:
+    for index, story in enumerate(catalog.stories):
         created = html.escape(story.created)
+        slug = html.escape(story.slug, quote=True)
+        title = html.escape(story.title)
+        cover = html.escape(story.cover, quote=True)
+        loading = "eager" if index == 0 else "lazy"
         items.append(
-            f'<li><a href="stories/{html.escape(story.slug)}.html">{html.escape(story.title)}</a>'
-            f'{_prompt(story.prompt)}<div class="meta"><time datetime="{created}">{created}</time> · '
-            f'{_story_label(story)} · {story.word_count:,} words</div></li>'
+            f'<li class="story-card"><a class="story-card-link" href="stories/{slug}.html">'
+            f'<img class="card-cover" src="{cover}" alt="" width="864" height="1536" '
+            f'loading="{loading}" decoding="async">'
+            f'<span class="card-copy"><span class="story-title">{title}</span>'
+            f'<span class="card-prompt"><span class="prompt-label">Prompt</span>'
+            f'{html.escape(story.prompt)}</span>'
+            f'<span class="story-meta"><time datetime="{created}">{created}</time>'
+            f'<span>{_story_label(story)}</span><span>{story.word_count:,} words</span>'
+            f'</span></span></a></li>'
         )
-    body = f"<h1>Stories</h1><p>{len(items)} stored publications.</p><ol>{''.join(items)}</ol>"
-    return _page("Stories", body, "index.html")
+    body = (
+        '<section class="library"><p class="eyebrow">Shared-universe fiction</p>'
+        '<h1>Stories</h1><p class="lede">Choose a cover and step into another world.</p>'
+        f'<p class="collection-count">{len(items)} stored publications.</p>'
+        f'<ol class="story-grid">{"".join(items)}</ol></section>'
+    )
+    return _page("Stories", body, "index.html", "styles.css")
 
 
 def render_story(story: Story) -> str:
     prose = markdown.markdown(_without_leading_title(story.body), extensions=["extra", "smarty"])
+    title = html.escape(story.title)
+    cover = html.escape(f"../{story.cover}", quote=True)
     body = (
-        f'<p><a href="../index.html">← All stories</a></p><article>'
-        f'<h1>{html.escape(story.title)}</h1>'
-        f'<p class="meta">{_story_label(story)} · {story.word_count:,} words</p>'
-        f'{_prompt(story.prompt)}{prose}</article>'
+        f'<article class="story"><p class="back-link"><a href="../index.html">← All stories</a></p>'
+        f'<h1>{title}</h1>'
+        f'<p class="story-page-meta">{_story_label(story)} · {story.word_count:,} words</p>'
+        f'{_prompt(story.prompt)}'
+        f'<figure class="story-cover"><img src="{cover}" alt="Cover art for {html.escape(story.title, quote=True)}" '
+        f'width="864" height="1536" decoding="async"></figure>'
+        f'<div class="story-prose">{prose}</div></article>'
     )
-    return _page(story.title, body, "../index.html")
+    return _page(story.title, body, "../index.html", "../styles.css")
 
 
 def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Path:
@@ -353,8 +456,11 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = load_catalog(snapshot_path)
     destination = prepare_output(output)
     (destination / "stories").mkdir()
+    (destination / "covers").mkdir()
+    shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
     for story in catalog.stories:
+        shutil.copy2(snapshot_path.parent / story.cover, destination / story.cover)
         (destination / "stories" / f"{story.slug}.html").write_text(
             render_story(story),
             encoding="utf-8",

@@ -1,11 +1,17 @@
 # Stories
 
-New stories live in `stories/<slug>/` and contain exactly four files:
+New stories live in `stories/<slug>/`. Their scaffold contains exactly four
+authored Markdown files:
 
 1. `prompt.md`
 2. `outline.md`
 3. `story.md`
 4. `review.md`
+
+After `review.md` passes, the title-image agent reads the complete final story
+and adds `title-image.jpg`. A completed current story directory therefore has
+those four Markdown files plus one exact 864x1536 (9:16 portrait) JPEG and nothing else.
+The cover includes the exact reader-facing story title once and no other text.
 
 `story.md` is the only reader-facing file. It carries `title`, `slug`,
 `created`, and `canon` in frontmatter. A new story is non-canon until the user
@@ -18,9 +24,10 @@ places as `new` or `recurring`. The final review inventories the nouns actually
 used in prose and makes the prompt and continuity decision.
 
 A directory containing `05-story.md` is a locked legacy story. Its larger file
-set belongs to the retired workflow. Do not edit or migrate those directories.
-The current validator ignores them. The explicit Pages capture command retains
-a compatibility reader only for intentional snapshot refreshes.
+set belongs to the retired workflow. Do not edit or migrate its bundle files;
+the title-image workflow may add or replace only `title-image.jpg` beside them.
+The current validator ignores legacy bundles. The explicit Pages capture
+command retains a compatibility reader only for intentional snapshot refreshes.
 
 `NAMES.md` remains the frozen people-name baseline from legacy production. New
 people and places are inventoried in each current story's `review.md`, avoiding
@@ -28,4 +35,6 @@ another central record that must be synchronized.
 
 Every passing current story is captured into `pages/catalog.json` as the final
 workflow step. The Pages builder treats that catalog as a separate publication
-snapshot and does not reopen story sources during CI builds.
+snapshot and does not reopen story sources during CI builds. Capture also copies
+the story's title image into `pages/covers/` for publication on the card index
+and story detail page.
