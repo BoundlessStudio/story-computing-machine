@@ -1,4 +1,5 @@
 import importlib.util
+import os
 import shutil
 import subprocess
 import sys
@@ -122,6 +123,10 @@ class StorySystemTests(unittest.TestCase):
             self.assertEqual(
                 {"prompt.md", "outline.md", "story.md", "review.md"},
                 {path.name for path in (root / "stories/sample").iterdir()},
+            )
+            self.assertRegex(
+                (root / "stories/sample/story.md").read_text(encoding="utf-8"),
+                r"(?m)^created-at: 2026-08-06T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}$",
             )
 
     def test_pre_review_accepts_pending_review(self):
@@ -278,11 +283,57 @@ class StorySystemTests(unittest.TestCase):
             self.assertEqual("covers/sample.jpg", catalog.stories[0].cover)
             self.assertTrue((root / "covers/sample.jpg").is_file())
 
+    def test_same_day_catalog_order_uses_source_file_time(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            later = self.make_current_story(root)
+            snapshot = root / "catalog.json"
+            later_story_path = later / "story.md"
+            os.utime(later_story_path, (1_800_000_000, 1_800_000_000))
+            build.capture_story("sample", root, snapshot)
+
+            earlier = root / "stories" / "earlier"
+            shutil.copytree(later, earlier)
+            earlier_story_path = earlier / "story.md"
+            earlier_story_path.write_text(
+                earlier_story_path.read_text(encoding="utf-8")
+                .replace("title: Sample", "title: Earlier")
+                .replace("slug: sample", "slug: earlier")
+                .replace("# Sample", "# Earlier"),
+                encoding="utf-8",
+            )
+            os.utime(earlier_story_path, (1_799_996_400, 1_799_996_400))
+
+            catalog = build.capture_story("earlier", root, snapshot)
+
+            self.assertEqual(("sample", "earlier"), tuple(item.slug for item in catalog.stories))
+            self.assertGreater(catalog.stories[0].created_at, catalog.stories[1].created_at)
+            self.assertEqual(catalog, build.load_catalog(snapshot))
+
+    def test_source_created_at_overrides_filesystem_time(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            story_path = story / "story.md"
+            story_path.write_text(
+                story_path.read_text(encoding="utf-8").replace(
+                    "created: 2026-08-06",
+                    "created: 2026-08-06\ncreated-at: 2026-08-06T21:43:12-04:00",
+                ),
+                encoding="utf-8",
+            )
+
+            loaded = build.load_story_source("sample", root)
+
+            self.assertEqual("2026-08-06T21:43:12-04:00", loaded.created_at)
+
     def test_stored_catalog_is_valid_and_newest_first(self):
         catalog = build.load_catalog()
         self.assertGreater(len(catalog.stories), 0)
         dates = [story.created for story in catalog.stories]
         self.assertEqual(sorted(dates, reverse=True), dates)
+        timestamps = [build._parse_created_at(story.created_at, story.slug) for story in catalog.stories]
+        self.assertEqual(sorted(timestamps, reverse=True), timestamps)
         self.assertEqual(len({story.slug for story in catalog.stories}), len(catalog.stories))
         self.assertTrue(all(story.cover == f"covers/{story.slug}.jpg" for story in catalog.stories))
 

@@ -14,6 +14,7 @@ param(
     [string]$Prompt,
 
     [string]$Date = (Get-Date -Format 'yyyy-MM-dd'),
+    [string]$CreatedAt,
     [string]$ProjectRoot
 )
 
@@ -28,6 +29,24 @@ else {
 
 if ($Date -notmatch '^\d{4}-\d{2}-\d{2}$') {
     throw 'Date must be YYYY-MM-DD.'
+}
+
+if ([string]::IsNullOrWhiteSpace($CreatedAt)) {
+    $CreatedAt = "${Date}T$((Get-Date).ToString('HH:mm:sszzz'))"
+}
+$parsedCreatedAt = [DateTimeOffset]::MinValue
+$validCreatedAt = (
+    $CreatedAt -match '^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})$' -and
+    [DateTimeOffset]::TryParse(
+        $CreatedAt,
+        [Globalization.CultureInfo]::InvariantCulture,
+        [Globalization.DateTimeStyles]::None,
+        [ref]$parsedCreatedAt
+    ) -and
+    $CreatedAt.StartsWith("$Date`T", [StringComparison]::Ordinal)
+)
+if (-not $validCreatedAt) {
+    throw 'CreatedAt must be an ISO 8601 timestamp with a timezone and the same date as Date.'
 }
 
 $branch = (& git -C $ProjectRoot branch --show-current 2>$null)
@@ -56,6 +75,7 @@ foreach ($file in Get-ChildItem -LiteralPath $target -File) {
     $text = $text.Replace('{{title}}', $Title)
     $text = $text.Replace('{{title_yaml}}', $titleYaml)
     $text = $text.Replace('{{date}}', $Date)
+    $text = $text.Replace('{{created_at}}', $CreatedAt)
     $text = $text.Replace('{{prompt_block}}', $promptBlock)
     $text = [regex]::Replace($text, '\r\n?', [string][char]10)
     [IO.File]::WriteAllText($file.FullName, $text, [Text.UTF8Encoding]::new($false))

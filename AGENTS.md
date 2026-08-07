@@ -40,9 +40,17 @@ command understands the legacy layout; normal story validation does not.
 
 ## Branches
 
-Never change `stories/` or `universe/` on `main`. Start a new story on
-`codex/story-<slug>` and merge through a pull request. Git is the history; do
-not create manifests, ledgers, receipts, release certificates, or duplicate
+Before starting any new story, make branch setup the first repository action:
+
+1. Switch to `main`.
+2. Pull the latest changes from `origin/main` with a fast-forward-only pull.
+3. Create and switch to a new `codex/story-<slug>` branch.
+
+Do not scaffold, read for story production, or modify story files until this
+sequence is complete. If local changes prevent switching branches safely, stop
+and ask the user how to preserve them. Never change `stories/` or `universe/`
+on `main`; merge the story branch through a pull request. Git is the history;
+do not create manifests, ledgers, receipts, release certificates, or duplicate
 lifecycle records.
 
 ## `[WP]` workflow
@@ -132,8 +140,12 @@ needed.
 GitHub Pages builds and publishes only that snapshot; it never traverses
 `stories/` or runs story validation. The `capture` command requires a passing
 review and copies one completed story and its title image into the snapshot
-without rerunning full validation. `capture-all` exists only for an intentional
-full refresh, not for CI.
+without rerunning full validation. Keep the catalog ordered by full creation
+timestamp, newest to oldest, so the newest story is always the first card on the
+GitHub Pages index. New scaffolds record `created-at`; when a source has only a
+`created` date, capture combines that date with the story prose file's filesystem
+modification time. `capture-all` exists only for an intentional full refresh,
+not for CI.
 
 ## Completion
 
