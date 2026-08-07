@@ -288,7 +288,7 @@ function Read-StoryPackage {
     else {
         $metadata = [ordered]@{}
         foreach ($line in ($front.Groups['value'].Value -split "\r?\n")) {
-            if ($line -notmatch '^(?<key>[a-z]+):\s*(?<value>.*)$') {
+            if ($line -notmatch '^(?<key>[a-z]+(?:-[a-z]+)*):\s*(?<value>.*)$') {
                 $errors.Add("$slug/story.md has malformed frontmatter line '$line'.")
                 continue
             }
@@ -299,10 +299,12 @@ function Read-StoryPackage {
             $metadata[$key] = $Matches['value'].Trim().Trim('"').Trim("'")
         }
 
-        $expectedFields = @('canon', 'created', 'slug', 'title')
-        $actualFields = @($metadata.Keys | Sort-Object)
-        if ((Compare-Object $expectedFields $actualFields).Count -ne 0) {
-            $errors.Add("$slug/story.md frontmatter must contain exactly title, slug, created, and canon.")
+        $requiredFields = @('canon', 'created', 'slug', 'title')
+        $allowedFields = @('canon', 'created', 'created-at', 'slug', 'title')
+        $missingFields = @($requiredFields | Where-Object { -not $metadata.Contains($_) })
+        $extraFields = @($metadata.Keys | Where-Object { $_ -notin $allowedFields })
+        if ($missingFields.Count -ne 0 -or $extraFields.Count -ne 0) {
+            $errors.Add("$slug/story.md frontmatter must contain title, slug, created, optional created-at, and canon.")
         }
         if ($metadata.slug -cne $slug) {
             $errors.Add("$slug/story.md has a different slug.")
@@ -312,6 +314,23 @@ function Read-StoryPackage {
         }
         if ($metadata.created -notmatch '^\d{4}-\d{2}-\d{2}$') {
             $errors.Add("$slug/story.md created must be YYYY-MM-DD.")
+        }
+        $createdAtValid = $true
+        if ($metadata.Contains('created-at')) {
+            $parsedCreatedAt = [DateTimeOffset]::MinValue
+            $createdAtValid = (
+                $metadata['created-at'] -match '^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})$' -and
+                [DateTimeOffset]::TryParse(
+                    $metadata['created-at'],
+                    [Globalization.CultureInfo]::InvariantCulture,
+                    [Globalization.DateTimeStyles]::None,
+                    [ref]$parsedCreatedAt
+                ) -and
+                $metadata['created-at'].StartsWith("$($metadata.created)T", [StringComparison]::Ordinal)
+            )
+        }
+        if (-not $createdAtValid) {
+            $errors.Add("$slug/story.md created-at must be an ISO 8601 timestamp with a timezone and the same date as created.")
         }
         if ($metadata.canon -notin @('true', 'false')) {
             $errors.Add("$slug/story.md canon must be true or false.")

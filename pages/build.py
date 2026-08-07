@@ -5,7 +5,8 @@ import html
 import json
 import re
 import shutil
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -26,6 +27,7 @@ class Story:
     slug: str
     title: str
     created: str
+    created_at: str
     canon: bool
     status: str
     prompt: str
@@ -181,10 +183,37 @@ def _source_cover(directory: Path, slug: str) -> str:
     return _cover_value(slug)
 
 
+def _parse_created_at(value: str, label: str) -> datetime:
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError as exc:
+        raise ValueError(f"{label} must be an ISO 8601 timestamp with a timezone") from exc
+    if parsed.tzinfo is None:
+        raise ValueError(f"{label} must include a timezone")
+    return parsed
+
+
+def _resolve_created_at(path: Path, created: str, source_value: str | None) -> str:
+    if source_value is None:
+        modified = datetime.fromtimestamp(path.stat().st_mtime).astimezone()
+        resolved = datetime.combine(date.fromisoformat(created), modified.timetz())
+    else:
+        if not isinstance(source_value, str):
+            raise ValueError(f"created-at in {path} must be a string")
+        resolved = _parse_created_at(source_value, f"created-at in {path}")
+    if resolved.date().isoformat() != created:
+        raise ValueError(f"created-at in {path} must use the same date as created")
+    return resolved.isoformat(timespec="seconds")
+
+
 def _load_current_story(directory: Path) -> Story:
     story_path = directory / "story.md"
     front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
-    require_exact_fields(front, {"title", "slug", "created", "canon"}, str(story_path))
+    required = {"title", "slug", "created", "canon"}
+    if set(front) not in (required, required | {"created-at"}):
+        raise ValueError(
+            f"{story_path} fields must be title, slug, created, optional created-at, and canon"
+        )
     if front["slug"] != directory.name or not SLUG.fullmatch(front["slug"]):
         raise ValueError(f"Invalid slug in {story_path}")
     if not front["title"] or not DATE.fullmatch(front["created"]):
@@ -207,6 +236,7 @@ def _load_current_story(directory: Path) -> Story:
         slug=front["slug"],
         title=front["title"],
         created=front["created"],
+        created_at=_resolve_created_at(story_path, front["created"], front.get("created-at")),
         canon=_bool(front["canon"], story_path, "canon"),
         status="canon" if front["canon"] == "true" else "reviewed",
         prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
@@ -243,6 +273,7 @@ def _load_legacy_story(directory: Path) -> Story:
         slug=record["slug"],
         title=record["title"],
         created=record["created"],
+        created_at=_resolve_created_at(story_path, record["created"], record.get("createdAt")),
         canon=record["canon"],
         status=record["status"],
         prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
@@ -263,22 +294,43 @@ def load_story_source(slug: str, repository_root: Path = REPOSITORY_ROOT) -> Sto
 
 
 def _ordered(stories: Iterable[Story]) -> tuple[Story, ...]:
-    return tuple(sorted(stories, key=lambda item: (item.created, item.slug), reverse=True))
+    return tuple(
+        sorted(
+            stories,
+            key=lambda item: _parse_created_at(item.created_at, f"createdAt for {item.slug}"),
+            reverse=True,
+        )
+    )
 
 
 def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     value = read_json_object(snapshot_path)
     require_exact_fields(value, {"schemaVersion", "stories"}, str(snapshot_path))
-    if value["schemaVersion"] != 2 or not isinstance(value["stories"], list):
+    if value["schemaVersion"] != 3 or not isinstance(value["stories"], list):
         raise ValueError(f"Unsupported snapshot in {snapshot_path}")
 
     stories: list[Story] = []
     seen: set[str] = set()
-    fields = {"slug", "title", "created", "canon", "status", "prompt", "cover", "body"}
+    fields = {
+        "slug",
+        "title",
+        "created",
+        "createdAt",
+        "canon",
+        "status",
+        "prompt",
+        "cover",
+        "body",
+    }
     for index, item in enumerate(value["stories"]):
         if not isinstance(item, dict):
             raise ValueError(f"Snapshot story {index} is not an object")
         require_exact_fields(item, fields, f"snapshot story {index}")
+        created_at = (
+            _parse_created_at(item["createdAt"], f"createdAt in snapshot story {index}")
+            if isinstance(item["createdAt"], str)
+            else None
+        )
         if (
             not isinstance(item["slug"], str)
             or not SLUG.fullmatch(item["slug"])
@@ -287,6 +339,8 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
             or not item["title"].strip()
             or not isinstance(item["created"], str)
             or not DATE.fullmatch(item["created"])
+            or created_at is None
+            or created_at.date().isoformat() != item["created"]
             or not isinstance(item["canon"], bool)
             or not isinstance(item["status"], str)
             or not item["status"].strip()
@@ -299,7 +353,19 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
             raise ValueError(f"Invalid snapshot story {index}")
         _validate_title_image(snapshot_path.parent / item["cover"])
         seen.add(item["slug"])
-        stories.append(Story(**item))
+        stories.append(
+            Story(
+                slug=item["slug"],
+                title=item["title"],
+                created=item["created"],
+                created_at=item["createdAt"],
+                canon=item["canon"],
+                status=item["status"],
+                prompt=item["prompt"],
+                cover=item["cover"],
+                body=item["body"],
+            )
+        )
 
     ordered = _ordered(stories)
     if tuple(stories) != ordered:
@@ -310,8 +376,21 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = Catalog(_ordered(stories))
     value = {
-        "schemaVersion": 2,
-        "stories": [asdict(story) for story in catalog.stories],
+        "schemaVersion": 3,
+        "stories": [
+            {
+                "slug": story.slug,
+                "title": story.title,
+                "created": story.created,
+                "createdAt": story.created_at,
+                "canon": story.canon,
+                "status": story.status,
+                "prompt": story.prompt,
+                "cover": story.cover,
+                "body": story.body,
+            }
+            for story in catalog.stories
+        ],
     }
     snapshot_path.write_text(
         json.dumps(value, ensure_ascii=False, indent=2) + "\n",
@@ -336,10 +415,9 @@ def capture_story(
 ) -> Catalog:
     story = load_story_source(slug, repository_root)
     existing = list(load_catalog(snapshot_path).stories) if snapshot_path.exists() else []
-    by_slug = {item.slug: item for item in existing}
-    by_slug[story.slug] = story
     _capture_cover(story, repository_root, snapshot_path)
-    return save_catalog(by_slug.values(), snapshot_path)
+    remaining = (item for item in existing if item.slug != story.slug)
+    return save_catalog((story, *remaining), snapshot_path)
 
 
 def capture_all(
@@ -393,6 +471,7 @@ def render_index(catalog: Catalog) -> str:
     items = []
     for index, story in enumerate(catalog.stories):
         created = html.escape(story.created)
+        created_at = html.escape(story.created_at, quote=True)
         slug = html.escape(story.slug, quote=True)
         title = html.escape(story.title)
         cover = html.escape(story.cover, quote=True)
@@ -404,7 +483,7 @@ def render_index(catalog: Catalog) -> str:
             f'<span class="card-copy"><span class="story-title">{title}</span>'
             f'<span class="card-prompt"><span class="prompt-label">Prompt</span>'
             f'{html.escape(story.prompt)}</span>'
-            f'<span class="story-meta"><time datetime="{created}">{created}</time>'
+            f'<span class="story-meta"><time datetime="{created_at}">{created}</time>'
             f'<span>{_story_label(story)}</span><span>{story.word_count:,} words</span>'
             f'</span></span></a></li>'
         )

@@ -140,8 +140,12 @@ needed.
 GitHub Pages builds and publishes only that snapshot; it never traverses
 `stories/` or runs story validation. The `capture` command requires a passing
 review and copies one completed story and its title image into the snapshot
-without rerunning full validation. `capture-all` exists only for an intentional
-full refresh, not for CI.
+without rerunning full validation. Keep the catalog ordered by full creation
+timestamp, newest to oldest, so the newest story is always the first card on the
+GitHub Pages index. New scaffolds record `created-at`; when a source has only a
+`created` date, capture combines that date with the story prose file's filesystem
+modification time. `capture-all` exists only for an intentional full refresh,
+not for CI.
 
 ## Completion
 
