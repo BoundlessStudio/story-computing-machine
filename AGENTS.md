@@ -40,9 +40,17 @@ command understands the legacy layout; normal story validation does not.
 
 ## Branches
 
-Never change `stories/` or `universe/` on `main`. Start a new story on
-`codex/story-<slug>` and merge through a pull request. Git is the history; do
-not create manifests, ledgers, receipts, release certificates, or duplicate
+Before starting any new story, make branch setup the first repository action:
+
+1. Switch to `main`.
+2. Pull the latest changes from `origin/main` with a fast-forward-only pull.
+3. Create and switch to a new `codex/story-<slug>` branch.
+
+Do not scaffold, read for story production, or modify story files until this
+sequence is complete. If local changes prevent switching branches safely, stop
+and ask the user how to preserve them. Never change `stories/` or `universe/`
+on `main`; merge the story branch through a pull request. Git is the history;
+do not create manifests, ledgers, receipts, release certificates, or duplicate
 lifecycle records.
 
 ## `[WP]` workflow
