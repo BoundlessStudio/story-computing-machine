@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | All people and person-like beings remain unnamed; `god of death` and `Dad` are descriptive or kinship roles, not proper names. |
+| None | none | All people and person-like beings remain unnamed; `god of death`, `regent`, and `lockbreaker` are descriptive roles, and title-case `Death` is not used as a character name. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | All homes, care settings, and other locations remain unnamed. |
+| None | none | The city, palace, quarter, safehouse, and ritual bell tower all remain generic and unnamed. |
 
 ## Continuity
 

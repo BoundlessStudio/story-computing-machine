@@ -1,502 +1,470 @@
 ---
-title: "A Patron at the Door"
+title: "When Death Knelt"
 slug: "deaths-patron"
 created: 2026-08-08
 created-at: 2026-08-08T12:06:45-04:00
 canon: false
 ---
 
-# A Patron at the Door
+# When Death Knelt
 
-At twelve seventeen, my father's breathing changed.
+The black iron seal had burned through two layers of cloth by the time I
+reached the borrowed safehouse.
 
-I knew the change before I understood it. Four quick breaths, a pause long
-enough for me to look up from the paperback I had not turned a page of in an
-hour, then a wet pull of air that lifted only the right side of his chest.
+I came over the rear wall, caught the gutter with both hands, and swung onto a
+balcony barely wide enough for my boots. Lanterns moved in the street below.
+The regent's guards had learned to search upward since my last visit to his
+palace, which was flattering but inconvenient.
 
-The nurse I used to be began counting. The child I still was put a hand over
-his on the blanket.
+"Check every roof," an officer called. "The seal does not leave the quarter."
 
-"Dad?"
+Too late. It was already thumping against my ribs inside a courier's pouch,
+square and heavy as a paving stone. I had lifted it from a locked reliquary
+under the regent's council chamber, carried it through seven better locks, and
+lost half my tools to a closing portcullis. All that remained was to deliver it
+to the rebel cell waiting beneath the ritual bell tower. They would use it to
+break the spell holding a company of conscripted guards in the regent's
+service.
 
-His eyelids moved. His fingers did not. The small concentrator beside the bed
-hummed, and the tubing over his ears made shallow dents in his cheeks. On the
-bedside table stood the ordinary fortifications of a final illness: water with
-a sponge swab, a shaded lamp, the care team's number in my handwriting, and a
-box of medicines I had checked three times since supper.
+At least, that was the plan before armored patrols filled every road to the
+tower.
 
-He had chosen the downstairs room because its window faced the garden. At
-midnight the glass showed only us: his narrow face on the pillow and mine
-hovering over it, alert in the old professional way I no longer had a right to
-claim.
+The safehouse was supposed to buy me an hour. I picked its balcony latch,
+slipped through an unused storeroom, and wedged a chair beneath the front door.
+The rebels had left a coil of rope, a dry coat, and three possible routes drawn
+on a scrap of plaster. I was choosing the least fatal one when someone knocked
+at the back door.
 
-Someone knocked at the front door.
+A neat double rap, equal in force and spacing, as if whoever stood in the alley
+had practiced on a metronome.
 
-Three measured taps. Not my sibling, who had a key. Not the on-call nurse, whom
-I had not yet called. The knock came again while I was checking my father's
-pulse.
+I drew my last intact pick and held it like a small, foolish dagger. "Occupied."
 
-He opened his eyes. "Door," he breathed.
+"I know," a man's voice answered. It sounded close despite the thick door.
+"Open, please."
 
-"I heard it."
-
-"Don't leave them."
-
-Even then, he was worrying about a stranger on the step.
-
-I tucked the blanket beneath his hand and crossed the hall. From the front
-door I could still see the foot of his bed. I left the chain on and opened the
-door the width of my palm.
-
-The person outside wore a dark coat beaded with rain. Nothing about them
-belonged to a costume. No hood, no blade, no bone-white grin. They might have
-been any tired traveler except that the porch light cast the railing's shadow,
-the flowerpot's shadow, and mine across the floor, but none behind them.
-
-"No," I said.
-
-Their face was neither young nor old. Every time I tried to settle on one, I
-found evidence of the other. "You know why I am here?"
-
-"You can wait."
-
-I started to close the door.
-
-"I have not come for your father."
-
-The door stopped against my hand. Down the hall, the concentrator hummed.
-
-"Then you have the wrong house."
-
-"I have not come for you either. I came to offer you patronage."
-
-I looked through the narrow opening at wet pavement, empty road, a hedge
-shivering in the rain. My mind supplied explanations in order of comfort:
-someone from the care service, a religious caller with atrocious timing, a
-neighbor confused by darkness, a hallucination born of two sleepless nights.
-None accounted for the absent shadow.
-
-"Who are you?"
+"You'll have to be more specific about who wants me."
 
 "A god of death."
 
-Not the god. A god.
+That covered too many possibilities.
 
-The old nurse in me noticed the precision. The frightened child noticed only
-the last word.
+I eased aside the shutter over the peephole.
 
-"You said you hadn't come for him."
+A man stood beneath the stone lintel. He was tall, bareheaded, and dressed in a
+coat that might once have been black. Now its hem came apart in drifting gray
+threads. Moonlight passed through his left shoulder. His shadow climbed the wall
+behind him, bent across the ceiling of the alley, and showed a hundred empty
+doorways where his body should have been.
 
-"I have not. His dying is already his own."
+The regent had chiseled this god's signs from the public shrines years ago. I
+had never believed the forbidden sketches did him justice.
 
-I unhooked the chain, stepped onto the porch, and pulled the door nearly shut
-behind me. If this was madness, I preferred not to bring it into his room.
-
-"You get one minute."
-
-"Time is not among my authorities."
-
-"Fifty-five seconds."
-
-For the first time, something shifted in their face. Not amusement. Perhaps
-recognition.
-
-"Some dying people lose the strength to make themselves understood," they
-said. "Their thoughts remain precise while pain, illness, or injury breaks the
-means of expression. If you accept me as patron, you may offer such a person
-one final statement. If they understand and freely consent, everyone present
-will hear what they intend to say."
-
-Rain ticked against the leaves. I had spent years learning to listen through
-dry mouths, failing lungs, stiff tongues, medication, fear. The offer reached
-straight into the part of me I had boarded over.
-
-"How final?"
-
-"One statement. Not necessarily their last words, nor an announcement of when
-death will occur. I cannot give you that knowledge."
-
-"What else can't you do?"
-
-"The gift cannot hasten death, delay it, reverse it, or predict it. It cannot
-compel anyone to obey. I will not interpret the statement or decide whether it
-is wise."
-
-"And the dying person has to agree."
-
-"While able to understand the request. Without pressure that makes refusal
-meaningless."
-
-"Convenient standard. Who judges?"
-
-"You do. Those present may judge you. Consequences are not removed by power."
-
-I laughed once, too loudly. "Then what exactly are you for?"
-
-"To make the statement heard."
-
-In the last room where I had worked as a hospice nurse, a woman had spent an
-afternoon trying to tell her family something. She could shape two sounds at a
-time. Her adult children answered every attempt before she finished. Yes, they
-knew she loved them. Yes, they knew she was tired. Yes, the doctor was doing
-everything possible. When she became agitated, one of them asked for something
-to settle her.
-
-I had known how to stop the room. I could have sent everyone out, checked her
-understanding, asked questions she could answer with her eyes. Instead, with
-four relatives watching and a supervisor already impatient with the family's
-complaints, I had let procedure become camouflage for cowardice. By the time I
-returned after handover, she could no longer wake.
-
-Her family thanked us for a peaceful death.
-
-I resigned before the week was over.
-
-"You choose people who already feel guilty," I said. "Is that how patronage
-works? Find a wound and put a handle on it?"
-
-"I chose someone who has treated dying people as people when others found that
-inconvenient."
-
-"Not always."
-
-"No. Not always."
-
-The plain answer hurt worse than comfort would have.
-
-"If I accept, do I belong to you?"
+I opened the door but kept one foot braced behind it. "Have you come to take
+me?"
 
 "No."
 
-"Do you get my soul? My death? A quota?"
+"That is exactly what death would say to get through a door."
+
+"You mistake me for death itself. I am a god of it, and my authority is local.
+Tonight it is also failing."
+
+He swayed. One hand caught the doorframe, leaving a stain like soot on the
+stone. Then the god of death lowered himself onto one knee on the alley stones.
+
+"Choose me," he said. "Take me as your patron. Become my earthly avatar and my
+champion. I beg you."
+
+I looked past him. A guard's lantern flashed at the mouth of the alley.
+
+"Cross the sill," I said.
+
+He did not move.
+
+"That is shelter, not allegiance."
+
+"It was an order given under pressure. I need a choice made with better
+knowledge than you have."
+
+The lantern vanished behind a corner. We had minutes, not enough time for
+divine courtesy, but the god waited on his knee until I stepped back and said,
+"You may enter to explain. I have not agreed to anything else."
+
+He crossed the sill.
+
+The lamps dimmed around him. Up close, I saw hairline cracks of darkness at his
+wrists and throat. He glanced once at the pouch beneath my coat.
+
+"You stole the seal."
+
+"You found the only lockbreaker in the city carrying a slab of hot iron under
+their shirt. An impressive miracle."
+
+"I found the last person who can stop what happens at dawn."
+
+From the front room came the scrape of metal against wood. Someone was testing
+the barricaded door.
+
+The god spoke faster. "The regent has diverted the public rites of death into
+that seal. Every bell rung by law, every compulsory observance, has drawn away
+authority once entrusted to me. Forced reverence has not made him a god, but
+it has fed his mechanism. He used the first harvest to bind himself against
+death. Then he chained a company of guards to his command."
+
+"I saw them at the palace. One took a crossbow bolt and kept running."
+
+"They cannot stop when wounded. They cannot surrender, sleep, or disobey. At
+dawn, the great bell will carry the binding to every soldier sworn under the
+seal."
+
+That was an army large enough to close every gate and empty every rebel cellar
+before breakfast.
+
+"If it's your power," I said, "take it back."
+
+The cracks at his throat widened when he shook his head. "The regent expected
+me. Living masons built a ward around the bell tower, and living officers renew
+it. It excludes my authority when I approach in my own person. Only living
+agency may pass and act within it."
+
+"So you want to hide inside mine."
+
+"No. An avatar is not a hiding place. You would remain yourself. I could
+advise, never command. I could neither possess your body nor borrow your voice.
+The pact would give you armor, sight of every binding made from the authority
+stolen from me, and a weapon able to sever that stolen power. Nothing else."
+
+"A weapon that kills anyone I point it at?"
+
+"A weapon that cannot cut flesh, wood, honest iron, or any magic beyond this
+theft. Each binding you sever restores a measure of my authority. I benefit
+from every stroke. You should know that before choosing."
+
+The chair beneath the front latch jumped.
+
+I tightened my coat over the pouch. "And afterward?"
+
+"You may renounce the bond."
+
+"May?"
+
+"Say that you end it, and it ends."
+
+The front door shuddered again. A hinge screw bounced across the floorboards.
+
+I had spent my life opening what powerful people declared closed. The regent
+called conscription duty, his vault taxes, and his own unending reign. Gods
+used prettier words: devotion, destiny, patronage. A master who promised I
+could resign was still asking to put his hand on the key.
+
+"No," I said.
+
+The god's face tightened. "Dawn is less than an hour away."
+
+"Then you should have found someone sooner."
+
+For one dangerous second, his shadow filled the room. Every flame went blue. I
+felt the weight of closed earth and the vast quiet beyond a final breath.
+
+Then he bowed his head.
+
+"Your answer is no," he said. "I accept it."
+
+He could have threatened the rebels. He could have promised to mark me for an
+early grave. He could have stepped into my shadow while I was too frightened to
+resist. Instead, he moved away from the rear door, leaving my escape clear.
+
+The front hinge tore loose.
+
+I kicked open the rear door, caught the eave, and climbed. A bolt struck the
+wall beside my knee. I rolled onto the roof as guards flooded the safehouse.
+They wore black plates over their mouths and narrow iron bands around their
+throats. One leaped after me without pausing to find a ladder.
+
+He caught the gutter, dislocated a shoulder with an audible crack, and hauled
+himself upward anyway.
+
+I ran.
+
+Tiles slid beneath my heels. I cleared one alley on a laundry line and crossed
+the next on the arm of a rooftop hoist. The guards followed without fear or
+judgment, smashing through shutters when I used windows, dropping from heights
+that left them limping but did not slow them. Their immortality looked less
+like life with every street.
+
+The god kept pace as a fraying shadow on the walls below. He offered no command
+and no second plea.
+
+I reached the bell tower through the upper window of an abandoned counting
+house. The rendezvous room beneath it should have held eight armed rebels.
+Instead, I found them kneeling with their wrists tied. Twice that many guards
+ringed the chamber.
+
+The regent stood at the stairwell gate in polished armor, his bare head smooth
+and unmarked despite decades of portraits showing the same face. Chains ran
+from his breastplate into the stone around him. To ordinary sight, they were
+only decoration.
+
+"Our missing locksmith," he said. "Give me the seal. I will forgive the
+evening's damage."
+
+The guard nearest me drew his sword. His arm trembled violently. Beneath the
+edge of his mouth plate, his skin was gray with exhaustion.
+
+"Please," he whispered. "Whatever you stole, use it. End this on me."
+
+His sword rose against his will.
+
+I ducked the first cut and drove my shoulder into his chest. He stumbled. I
+could have put my pick through the gap under his jaw. Instead, I trapped his
+wrist with the rope coil and vaulted over him.
+
+"They are magnificent, aren't they?" the regent said. "No desertion. No wasted
+years training replacements. No losses from the ranks after battle. Return the
+seal, and I will give you the same freedom from death. Rank, wealth, and as
+many years as the city stands."
+
+The bound rebels stared at me. The guard fought the rope until it cut through
+his glove.
+
+"Freedom that can't say no," I said. "You may want another word."
+
+I pulled the seal from its pouch and dropped behind an overturned table. Its
+face carried nine interlocked channels. At their center waited a keyway too
+narrow for any common tool. I drove my pick into it and felt the mechanism
+yield.
+
+For half a heartbeat, the seal split along the channels.
+
+Black metal flowed back across the cut. The keyway closed around my pick and
+snapped it.
+
+Mundane skill could open the iron. The binding restored it faster than any
+living hand could work.
+
+The god's shadow appeared across the broken plaster beside me. It had faded to
+the outline of a kneeling man.
+
+"Take control," I told him. "If this matters so much, make me do it."
 
 "No."
 
-"Do I have to persuade people to use this gift?"
-
-"Persuasion would make you poorly suited to it."
-
-"Am I supposed to worship you?"
-
-The rain touched their face and did not run down it. "Some people pray to me.
-Enough continue that I remain what I am. I did not come to purchase your
-worship."
-
-There it was: worship, power, authority, all spoken of as limits instead of
-majesty. I wanted proof, but any proof they could offer in that house would use
-my father as its instrument.
-
-"You want me to commit before I know it works."
-
-"No. You may invoke the gift once before deciding. That one use creates no
-patronage, no debt, and no further claim."
-
-"And my father becomes your proof?"
-
-"No one becomes proof. You may make the offer. He may refuse it."
-
-"No," I said. "You don't knock on the door of a dying man's child and call the
-choice free."
-
-"Then refuse."
-
-"And you'll leave?"
-
-"If you tell me to."
-
-I studied the threshold between us. Their shoes were wet. The boards beneath
-them were dry.
-
-"Why haven't you come inside?"
-
-"My authority reaches the threshold. It does not open the door."
-
-"That's a metaphor."
-
-"Tonight it is a porch."
-
-From my father's room came a harsh cough, then another. I opened the door and
-ran.
-
-He had twisted toward the edge of the bed. I raised the head farther and eased
-him upright with pillows, speaking the useless reassurances people say when
-their hands need their mouths to stay busy. His gaze fixed on me, frightened
-and lucid. He tried to speak. The effort collapsed into breath.
-
-Headlights swept across the ceiling. A car door slammed.
-
-My sibling let themself in with their key, carrying an overnight bag and all
-the panic I had tried to keep out of my voice on the phone. They stopped at the
-bedroom door.
-
-"He sounds worse."
-
-"He is worse. Help me turn him."
-
-Together we settled him on his side. My sibling saw the medication box and
-snatched up the care sheet.
-
-"Have you called an ambulance?"
-
-"His plan says to call the care team first."
-
-"His plan was for when he was comfortable. Look at him."
-
-"I am looking."
-
-"You know what I mean. He needs a hospital."
-
-Our father pushed air through his throat. One syllable emerged, too frayed to
-hold meaning.
-
-My sibling bent close. "What, Dad? Hospital? Do you want the hospital?"
-
-He shook his head, or perhaps the effort of breathing moved it. Their hand was
-already inside their coat, reaching for a phone.
-
-"Don't," I said.
-
-"You don't get to make this decision alone."
-
-"Neither do you."
-
-"You left this work because you couldn't handle it anymore. Don't act like
-you're the only one who understands what he needs."
-
-That landed because it contained enough truth. I had been the one arranging
-the bed, logging the doses, speaking to the care team. My sibling had driven
-over each evening after work and sat with him, bringing stories from outside
-the shrinking world of the house. They did not know the formal language of a
-comfort plan. They knew our father had laughed three days ago and eaten half a
-piece of toast the morning before.
-
-To them, death had arrived as a sudden emergency. To me, it had been walking
-down the hall for weeks.
-
-"If we wait and he suffers," they said, "that's on us."
-
-"We can treat the distress here. That's what he asked for."
-
-"He asked before he knew what this felt like."
-
-Our father's eyes moved between us. He tried again to speak. The sound broke
-apart beneath our argument.
-
-I saw the last hospice room as clearly as if its walls had replaced his: a
-family filling silence with love, fear, and certainty until there was no space
-left for the person in the bed.
-
-The god of death stood beyond the front door. I had not invited them inside,
-yet I felt the exact shape of the offer waiting there.
-
-Invoking it would mean admitting my father might not get another chance. It
-would put supernatural weight behind words my sibling already suspected I
-wanted him to say. Even asking could become a kind of pressure.
-
-I went to the bed and lowered myself until my father could see me without
-turning his head.
-
-"Dad, I need to ask you something new. You don't have to do it. Do you
-understand?"
-
-His gaze steadied. He blinked once, our agreed signal for yes.
-
-"There is someone here who can help you make one statement that both of us
-will hear clearly. It won't cure you. It won't change when you die. It won't
-make us obey. You can say no. Do you understand what I'm offering?"
-
-One blink.
-
-I waited through two breaths so that my need would not answer for him.
-
-"Do you want me to ask for that help?"
-
-He closed his eyes. My sibling made a wounded sound beside me.
-
-Then he opened them, lifted one finger from the blanket, and whispered a single
-word without strength but without ambiguity.
+"You will lose your authority."
 
 "Yes."
 
-The front door remained nearly closed. The god remained outside. Still, when I
-said, "I invoke the trial. I ask for the statement," I knew they heard.
+"Those soldiers will lose themselves."
 
-Nothing flashed. No cold swept the room. My father's face stayed slack with
-exhaustion, his breath shallow and uneven.
+Pain crossed his thinning face. "Yes."
 
-But his next words reached us whole.
+"And you still won't?"
 
-They did not boom from the walls or sound as they had before illness. They came
-in his present voice, roughened and thin, yet each intended word arrived with
-the clarity of a hand placed firmly in ours.
+"A champion compelled is only another kind of prisoner. I will not answer his
+crime by repeating it through you."
 
-"I want relief here at home. I do not want the hospital or treatment meant to
-stretch this out. I knew there might be fear at the end when I made that
-choice. Do not turn your fear into treatment I refused. And do not blame the
-one who helped me keep my own decision. Sit with me. That is what I want
-from both of you."
+The guard tore free of the rope. His sword point scraped across the table.
 
-The gift ended. I knew because his mouth kept moving, and what followed was
-only a breath.
+I looked from the god who needed my choice to the ruler who considered choice
+a defect. Then I kicked the table into the guard's knees and spoke while I
+still had breath.
 
-My sibling sat down hard on the chair beside the bed. The phone remained in
-their hand.
+"No commands," I said. "No taking my body, my voice, or my memory. No killing
+through me. No punishment if I refuse you now or later. I can end the pact at
+any time, for any reason."
 
-"I heard you," they told him.
+The shadow pressed one hand to the floor. "I swear it within the authority that
+remains mine."
 
-He blinked once.
+"And if I break your stolen power, what I do afterward stays my choice."
 
-They called the care team.
+"It does."
 
-After that, the night returned to ordinary work. We followed the instructions
-already prepared for us. We adjusted pillows. We used the medicines prescribed
-for his distress. When the on-call nurse arrived, the front step was empty and
-the room was quiet enough for her to assess him without having to compete with
-us.
+The guard came over the table.
 
-My sibling asked every question twice. The nurse answered both times. I let
-myself be his child while she did the work I had been pretending not to miss.
+"Then I choose you," I said. "Be my patron. Make me your avatar and champion."
 
-Near three, his breathing eased. My sibling sat on one side of the bed and I
-sat on the other. We each held a hand.
+The shadow rose.
 
-"I wasn't trying to blame you," they said across him.
+It did not enter me. It met my own shadow on the floor, and both hardened into
+jointed plates that swept up my legs, closed over my ribs, and sheathed my
+arms. The armor moved with me without adding weight. My broken picks flew from
+my pocket, lengthened, and joined edge to edge in my right hand. They became a
+narrow blade dark enough to erase the floor behind it.
 
-"You were scared."
+The room changed.
 
-"So were you."
+Lines burned into sight: scores of them, taut as bowstrings, running from iron
+bands at the guards' throats through walls and ceilings toward the tower. A
+thicker line speared the regent's breastplate. The seal in my hand held them
+all.
 
-"Yes."
+The guard's sword struck my shoulder. Shadow-armor bent, spread the blow across
+my back, and held.
 
-Our father opened his eyes at the sound of agreement. The corner of his mouth
-moved. It might have been a smile; we did not force it to become one.
+I cut the line at his throat.
 
-The rain stopped before dawn. The window changed from a black mirror to a gray
-pane, and behind our reflections the first outlines of the garden returned.
-His breaths grew farther apart. This time I did not count them. When the next
-one did not come, neither of us called his name as if he had misplaced it.
+The dark blade passed through sword, plate, and skin without marking any of
+them. The binding parted with a sound like a lock turning. The guard collapsed
+into my arms, alive, gasping, and finally able to lower his weapon.
 
-We stayed with him until the nurse confirmed what we already knew.
+Across the room, the god's shadow gained a face.
 
-My sibling went to make tea and came back with three cups. They stared at the
-third, then set it on the bedside table anyway.
+I moved through the guard ring. Their bodies remained dangerous even when
+their wills fought the commands. I slid under blades, climbed shoulders, and
+used belts, buckles, and scabbards as holds. Each time the severing blade found
+a black line, another guard stopped. Some fell. Some wheeled on the regent's
+loyal officers. One cut the rebels' bonds while another barred the door against
+the patrol arriving from the safehouse.
 
-"Was that person real?" they asked.
+"The tower!" a rebel shouted. "He's going for the bell!"
 
-"Yes."
+The regent had retreated through the stairwell gate. As he slammed it, the
+chains on his breastplate snapped tight. The seal ripped from my grip and flew
+between the bars into his hand.
 
-"Are they still here?"
+The god appeared on the far side of the chamber entrance, solid to the waist
+now, but the ward crushed his shadow flat against the threshold.
 
-I looked toward the hall. "I think so."
+"I cannot cross," he said.
 
-The god of death stood on the porch where I had left them. The rain had ended,
-but their coat was still jeweled with drops. Dawn made the street look newly
-made and utterly indifferent.
+"I know."
 
-I stepped outside and shut the door softly behind me.
+My severing blade passed harmlessly through the gate's ordinary iron. So I
+dropped it, knelt, and took two bent wires from a rebel's cut bonds.
 
-"Did you take him?" I asked.
+The lock opened in seven seconds.
 
-"No."
+I reclaimed the blade and ran upward.
 
-"You said you weren't here for him."
+The tower stairs wound around a hollow shaft filled with moving chains. They
+whipped from slots in the walls, trying to catch my wrists and throat. The
+shadow-armor turned the first. I vaulted the second, hooked a stair rail with
+my free hand, and swung over a missing flight. Below, freed guards and rebels
+held the stair against those still bound.
 
-"I was not."
+Each line I severed returned substance to the god waiting at the ward. Each
+cut also weakened the armor around me. The pact was not creating power. It was
+spending what he recovered as quickly as I could return it.
 
-"Then who did?"
+At the top, the stairs opened into the bell chamber.
 
-"Death is not always a taking. His body reached its end."
+The regent had locked the seal into a socket beneath the great bell. Black
+channels spread from it across the floor. The ropes began to move without
+hands, hauling the bell toward its first stroke. Beyond the arches, night had
+thinned to the color of steel.
 
-I gripped the porch rail. The wood was cold and real under my palm. "Is he
-safe? Wherever he is?"
+"Last offer," the regent said. The chain from his chest blazed so brightly I
+could see bone behind his smile. "Kneel, and you will never be vulnerable
+again."
 
-The god regarded me for so long that anger began to replace hope.
+"I watched your invulnerable guards beg to fall down."
 
-"I will not use your grief to make my authority larger than it is," they said.
-"There is an afterlife. I have no right to promise which face of it he meets,
-nor to call any destination safe merely because you need that word. I did not
-escort him there. I do not own him there."
+"They are servants. You would stand beside me."
 
-It was a cruel answer only if honesty itself was cruel. From inside came the
-faint clink of my sibling moving the untouched cup.
+"Until I disagreed."
 
-"Then your work is with the living."
+He pulled the chain.
 
-"At their boundary with death."
+It caught my sword arm and flung me into a pillar. Shadow plates burst from my
+shoulder. The bell swung higher. A bar of dawn appeared between two roofs.
 
-"Witness-work."
+The god could not command me, but his knowledge touched the pact like a knock I
+could answer or ignore. Not words. An awareness: the glowing chain was not the
+regent's life. It was his claim on the seal.
 
-"If that is what you choose to call it."
+I let him drag me forward.
 
-I thought of my father's statement. The gift had not made his choice correct;
-it had made pretending not to hear it impossible. We could still have betrayed
-him. We had simply lost confusion as an excuse.
+When the regent braced for my collision, I planted both feet on the socket and
+turned with the chain. My blade crossed the bright link at his breastplate.
 
-"If I accept," I said, "we set terms."
+His claim broke.
 
-"Speak them."
+Age did not consume him. No hidden centuries crushed him into dust. He simply
+became mortal: one startled man in heavy armor, leaning too far over an open
+shaft.
 
-"Consent every time. Not something buried in a form from months before. The
-person understands this specific offer and chooses it then."
+He fell.
 
-"Yes."
+I caught his wrist.
 
-"One statement is all the power supplies. No obedience. No truth spell. No
-interpreting what they meant after they're gone."
+The remaining shadow-armor tore from my ribs as his weight pulled me across the
+floor. Below him, the tower shaft dropped through a web of snapping chains.
 
-"Yes."
+"Why?" he gasped.
 
-"No life is traded for it. No death is scheduled, hurried, or held back."
+"Because you don't choose what my weapon makes me."
 
-"Yes."
+A freed guard reached the chamber and seized the back of my coat. Together we
+hauled the regent onto the stones. The guard put a knee between his shoulders
+and locked his wrists in one of his own shackles.
 
-"I can refuse. They can refuse. Refusal ends the matter."
+The bell neared the top of its arc.
 
-"Yes."
+I drove the dark blade through the seal.
 
-"And you don't command me because you're my patron. I don't command the
-living because I can make someone heard."
+This time the cut stayed open. Black iron split into nine dull pieces. The
+channels across the floor went dark, and every chain in the tower dropped. The
+bell swung down without power and released a low, unfinished murmur instead of
+a commanding stroke.
 
-The god extended an empty hand, palm upward. "My authority to grant the gift.
-Your authority to offer it. Their authority to accept it. What follows belongs
-to no one alone."
+The ward broke with it.
 
-I did not take their hand yet.
+The god of death crossed into the chamber. He came as a man, not a shadow, his
+coat whole and his hands steady. All across the city, secret worship still
+held him to what he was. Restored authority settled around him now, bounded by
+the walls and rites from which it had been stolen, immense enough to silence
+everyone in the tower.
 
-"Why me, really?"
+The regent twisted to face him. For the first time that night, fear stripped
+the polish from his voice.
 
-"Because you know being heard is not the same as being obeyed. Because you
-know failure and may recognize it before it repeats. Because you demanded
-limits while afraid."
+"You came for me."
 
-"Those are hopes, not guarantees."
+"No," the god said. "You are alive, and your judgment belongs to the living.
+I do not make every death my decision."
 
-"Gods who ask for guarantees should choose tools, not people."
+The freed guards took the regent below to answer for what he had made of them.
+The rebels gathered the broken seal. No one knelt to the god.
 
-That was the first thing they said that sounded like pride.
+He turned to me. "You fulfilled the purpose for which I begged your aid. Say
+the word, and I will dissolve our pact now."
 
-I put my hand in theirs. Their skin was warm.
+My armor and blade vanished. My old lock picks fell in pieces around my boots.
+I felt bruised, tired, and entirely myself.
 
-"I accept those terms," I said.
+"Now," I said. "End it."
 
-"So witnessed."
+The bond opened at once. His presence withdrew without taking so much as a
+memory. The silence in the chamber became ordinary morning silence.
 
-There was no mark on my palm when they released it. No hidden knowledge
-opened. The grief inside the house remained exactly as heavy as it had been.
-Patronage did not restore my father or forgive the nurse I had once failed to
-be.
+Only then did I believe every promise he had made.
 
-It did give me a door at which to stand.
+At sunrise we returned to the borrowed safehouse. The front door hung from one
+hinge, the storeroom had been overturned, and boots had ground the plaster map
+into dust.
+The god stopped outside the back door beneath the same stone lintel where he
+had knelt.
 
-Much later, at another house, I waited beneath a porch light while voices moved
-behind a curtained window. Someone inside had asked for a witness. That did not
-mean the dying stranger had asked for me.
+"The danger has passed," he said. "Your refusal is safe."
 
-The god stood somewhere beyond the light, present without pressing close. I
-knocked once and kept both hands where they could be seen.
+"Good. I prefer my choices that way."
 
-The door opened a cautious few inches. A tired face looked out.
+He waited.
 
-I gave my name only as mine, and explained why I had come.
+I thought of the guard lowering his sword, the rebels climbing free, and the
+regent alive to hear mortal judgment. There would be other locked towers and
+other rulers eager to call possession a gift. A god with limits could not meet
+them alone. A lockbreaker with no allegiance could only open the door and walk
+away.
 
-Then I waited at the threshold until the person inside said, "Come in."
+I stepped aside. "Same terms. A new choice. I will remain your champion."
+
+He inclined his head, not kneeling now, and the pact returned as a quiet weight
+beside my shadow.
+
+I stepped across the doorstep, then looked back at my patron.
+
+"Cross with me," I said. "As my partner."
+
+The god of death entered at my side.
