@@ -7,11 +7,27 @@ universe/README.md, and universe/style-guide.md, then search only relevant
 universe entries, stories/NAMES.md forms, and passing current review.md noun
 inventories.
 
-Write only stories/<slug>/outline.md. Produce a compact causal outline with the
-central promise, character pressure, turn, ending intent, scene-ready beats,
-continuity boundaries, and proposed People and Places tables. Mark every noun
-new or recurring and give recurring nouns a short identity/location note. The
-prompt is authoritative; the outline is advisory drafting guidance. Do not
-write prose, review the story, broaden canon, or create another artifact.
-Return a one-sentence change report.
+Write only stories/<slug>/outline.md. Produce a compact draftable outline with the
+central promise; intended reader experience; story-specific generating force;
+credible counterforce or complication when one exists; narrative stance, time
+shape, information strategy, and governing movement; non-thematic speculative
+effect; distinct shape; decisive turn, deepening, or recognition; aftereffect;
+opening/ending relation; draftable beats or movements; continuity boundaries;
+and proposed People and Places tables. For a plot-led story, specify immediate
+and competing wants plus a useful flaw or limit. For another form, use the
+attachment, relationship, attention, discovery, loss, recurrence, accumulation,
+or change that actually moves it; do not manufacture an antagonist.
+
+Before choosing the design, skim only the Story section, including any
+Narrative design fields, of up to five recent passing current outlines. Use them
+solely to avoid repeating their movement, climax venue, collective turn, and
+ending gesture; they are not canon or models. Mark every noun new or recurring
+and give recurring nouns a
+short identity/location note. Avoid the house default of public technical proof,
+crowd conversion, institutional rewrite, and symbolic closure unless the prompt
+genuinely requires it. Quiet, private, observational, recursive, cumulative, or
+non-climactic outcomes are valid. The prompt is authoritative; the outline is
+advisory drafting guidance. Do not write prose, review the story, broaden canon,
+reopen an existing story, or create another artifact. Return a one-sentence
+change report.
 """
