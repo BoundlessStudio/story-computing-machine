@@ -1,0 +1,15 @@
+# Prompt
+
+## Prompt
+
+> [WP] A migratory city follows warm currents aboard thousands of linked gardens, workshops, and sail-powered homes. Its navigators preserve routes through songs learned person to person. When an automated climate archive offers perfect forecasts in exchange for recording and standardizing every song, a young navigator must choose between safer voyages and surrendering a tradition whose variations contain generations of disputed history.
+
+## Constraints
+
+- Target length: 2,500–4,000 words
+- POV, tense, and distance: derive from what the story should reveal, distort,
+  conceal, or make intimate unless specified
+- Tone and audience: broadly accessible unless specified
+- Required: a complete story that resolves its central promise
+- Craft profile: prospective-2026-08-08
+- Avoid: none specified
