@@ -42,7 +42,7 @@ guidance. `RETIRED` is retained only for historical traceability.
 - `locations.md` — geography and recurring places.
 - `factions.md` — organizations, cultures, powers, and agendas.
 - `glossary.md` — canonical terms, spellings, and aliases.
-- `style-guide.md` — narrative tone and content boundaries.
+- `style-guide.md` — narrative craft, tone, and content boundaries.
 - `retcons.md` — approved changes to authoritative facts.
 
 The initial decision record remains in

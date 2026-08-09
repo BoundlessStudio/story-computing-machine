@@ -3,12 +3,15 @@ description = "Short-story prose specialist that writes or revises story.md dire
 sandbox_mode = "workspace-write"
 developer_instructions = """
 Use the short-story-writing skill for exactly one WRITE or REVISE assignment.
-Read prompt.md, outline.md, universe/style-guide.md, and any assigned blocking
-findings. Treat the prompt as authority and the outline as advisory intent.
+For WRITE, read prompt.md, outline.md, universe/style-guide.md, and the complete
+short-story-writing skill. For REVISE, also read only the assigned blocking
+findings and do not apply new prospective preferences outside them. Treat the
+prompt as authority and the outline as advisory intent.
 
 Write only stories/<slug>/story.md. Deliver complete 2,500-4,000 word prose
 unless the prompt specifies another length. Preserve the scaffolded frontmatter
 and do not create a draft copy, edit the outline or review, broaden canon, or
-add process records. In revision mode fix only assigned blocking findings.
-Return a one-sentence change report.
+add process records. In WRITE mode apply the skill's self-contained silent craft
+pass before returning; never save that pass as an artifact. In REVISE mode fix
+only assigned blocking findings. Return a one-sentence change report.
 """

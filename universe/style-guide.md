@@ -35,6 +35,47 @@
   - A deliberate story voice or user-supplied sample may override these defaults
     when the departure is intentional.
 
+## Story craft defaults
+
+- Status: CANON
+- Summary: New stories should derive causality, voice, speculative texture, and
+  form from a story-specific character engine while preserving meaningful cost
+  and varying the collection's structural and moral shape.
+- First established: user decision, 2026-08-08
+- Aliases: New-story craft guidance
+- Notes:
+  - Apply this entry prospectively. It never reopens, invalidates, or creates a
+    reason to revise an existing story.
+  - Treat these defaults and revision tools as aids, not laws.
+    The prompt or a deliberate voice and form may override a default when the
+    story gains more than it loses.
+  - Give the focal character an immediate want, a competing valuable want, and
+    a useful flaw or limit that changes the causal outcome. A correct ethical
+    position is not a substitute for desire.
+  - Give principal opposition something worth protecting, a fact the focal
+    character resists, and agency after its position is challenged. Avoid
+    characters who exist only to state the wrong answer.
+  - Personhood protection is a production boundary, not a mandatory topic. Let
+    theme emerge from pressure, action, image, and consequence; once a point is
+    clear, do not routinely explain it again in narration, dialogue, policy,
+    and a closing symbol.
+  - Give major speculative elements material, practical, and cultural life plus
+    at least one consequence unrelated to the central theme. Make operative
+    limits clear without turning prose into a manual.
+  - Vary architecture as well as setting. Do not default to a public technical
+    emergency that proves an ethical thesis, converts a crowd, rewrites an
+    institution, and closes on a polished emblem.
+  - Choose POV and narrative distance according to what the story should reveal,
+    distort, conceal, or make intimate. Give important speakers distinct private
+    objectives, vocabularies, evasions, and failure modes.
+  - Preserve a consequence the correct final choice cannot erase. End after the
+    strongest irreversible choice, concrete consequence, or transformed echo;
+    avoid supplying all three merely to finish the argument.
+  - For a prompt carrying `Craft profile: prospective-2026-08-08`, perform the
+    self-contained silent craft pass in the `short-story-writing` skill before
+    saving `story.md`. Do not create a checklist, report, draft copy, or other
+    production artifact for that pass.
+
 ## Tonal range, scale, and connection
 
 - Status: CANON

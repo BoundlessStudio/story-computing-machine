@@ -2,10 +2,20 @@
 
 ## Story
 
-- Premise:
-- Character want and pressure:
+- Premise and central promise:
+- Character engine:
+  - Immediate want:
+  - Competing want:
+  - Useful flaw or limit:
+- Opposition:
+  - Defensible need:
+  - Resisted fact:
+  - Pressure:
+- Speculative surplus:
+- Structural distinction:
 - Turn:
-- Ending:
+- Lasting cost or uncertainty:
+- Ending intent:
 
 ## Beats
 

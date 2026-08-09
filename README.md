@@ -9,7 +9,8 @@ prompt.md → outline.md → story.md → review.md → title-image.jpg
 
 The coordinator delegates one compact outline pass, one skilled prose pass,
 one independent review, and one final-story title-image pass. The reviewer
-checks people, places, prompt fulfillment, and continuity; the illustrator
+checks people, places, prompt fulfillment, binding narrative policy, and
+continuity; the illustrator
 reads the finished prose and creates an exact 864x1536 portrait key visual. There are no
 draft/final duplicates, canon briefs, handoff ledgers, or release certificates.
 Each cover includes the exact reader-facing story title once.
@@ -32,7 +33,8 @@ a separate explicit user decision.
 
 - `AGENTS.md` — the complete operating rules.
 - `.agents/skills/story-room/` — the workflow and its two scripts.
-- `.agents/skills/short-story-writing/` — the one compact prose-craft skill.
+- `.agents/skills/short-story-writing/` — the self-contained prose-craft skill
+  and silent final pass for prospectively scaffolded stories.
 - `.codex/agents/` — the narrow outliner, writer, reviewer, and title-image roles.
 - `stories/_template/` — the four-file scaffold.
 - `universe/` — authoritative shared-universe facts and style constraints.

@@ -32,7 +32,10 @@ command understands the legacy layout; normal story validation does not.
 
 - `universe/` is authoritative for shared facts. Read `universe/README.md`
   before interpreting canon.
-- `universe/style-guide.md` is the binding narrative policy.
+- `universe/style-guide.md` is the binding narrative policy. Current scaffolds
+  apply its prospective craft profile through the outline and writer skills;
+  never use that profile to reopen completed current stories or locked legacy
+  bundles.
 - `stories/NAMES.md` is the frozen name baseline for legacy stories, not canon.
 - Current `review.md` files extend production memory for new people and places.
 - Plans, reviews, prompts, source notes, and non-canon stories never establish
@@ -61,10 +64,12 @@ one named stage.
 1. Scaffold the four files with `new-story.ps1` and preserve the prompt.
 2. Delegate `outline.md` to `story_outliner`. It reads the universe README and
    style guide, searches only relevant authority and noun history, and proposes
-   people and places as `new` or `recurring`.
+   a character-specific causal shape plus people and places as `new` or
+   `recurring`.
 3. Delegate `story.md` to `story_writer`. It uses the compact
-   `short-story-writing` skill and writes the complete story directly; there is
-   no separate draft or final-edit pass.
+   `short-story-writing` skill, applies its self-contained silent craft pass,
+   and writes the complete story directly; there is no separate draft,
+   craft-report, or final-edit pass.
 4. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Pass its concise
    result to the reviewer without creating another file.
 5. Delegate one independent review to `story_reviewer`. It writes only
@@ -121,6 +126,12 @@ A `PASS` review requires all three continuity lines to pass:
 The prompt is the only acceptance authority. The reviewer may use the outline
 to understand design intent, but deviation from it is not blocking unless the
 result breaks the prompt, universe continuity, or internal coherence.
+
+For prompts carrying `Craft profile: prospective-2026-08-08`, the reviewer also
+checks material compliance with the binding story craft defaults. Craft is
+blocking only when it breaks the prompt's central promise, reader-facing
+causality, or binding narrative policy. Do not copy the writer's silent craft
+check into `review.md`, and do not apply it retroactively to existing stories.
 
 Review prose concisely. Record only blocking findings and short useful notes;
 do not preserve reviewer chain-of-thought, repeated summaries, or audit logs.

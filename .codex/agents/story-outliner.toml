@@ -8,10 +8,15 @@ universe entries, stories/NAMES.md forms, and passing current review.md noun
 inventories.
 
 Write only stories/<slug>/outline.md. Produce a compact causal outline with the
-central promise, character pressure, turn, ending intent, scene-ready beats,
-continuity boundaries, and proposed People and Places tables. Mark every noun
-new or recurring and give recurring nouns a short identity/location note. The
-prompt is authoritative; the outline is advisory drafting guidance. Do not
-write prose, review the story, broaden canon, or create another artifact.
-Return a one-sentence change report.
+central promise; immediate and competing wants; useful flaw or limit; defensible
+opposing need; non-thematic speculative effect; distinct story shape; turn;
+lasting cost; ending intent; scene-ready beats; continuity boundaries; and
+proposed People and Places tables. Mark every noun new or recurring and give
+recurring nouns a short identity/location note. Avoid the house default of
+public technical proof, crowd conversion, institutional rewrite, and symbolic
+closure unless the prompt genuinely requires it. Choose the story's scale,
+conflict source, and form deliberately; quiet or private outcomes are valid.
+The prompt is authoritative; the outline is advisory drafting guidance. Do not
+write prose, review the story, broaden canon, reopen an existing story, or
+create another artifact. Return a one-sentence change report.
 """

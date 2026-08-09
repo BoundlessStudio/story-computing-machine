@@ -128,6 +128,21 @@ class StorySystemTests(unittest.TestCase):
                 (root / "stories/sample/story.md").read_text(encoding="utf-8"),
                 r"(?m)^created-at: 2026-08-06T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}$",
             )
+            prompt = (root / "stories/sample/prompt.md").read_text(encoding="utf-8")
+            outline = (root / "stories/sample/outline.md").read_text(encoding="utf-8")
+            self.assertIn(
+                "Craft profile: prospective-2026-08-08",
+                prompt,
+            )
+            for field in (
+                "Character engine:",
+                "Opposition:",
+                "Speculative surplus:",
+                "Structural distinction:",
+                "Lasting cost or uncertainty:",
+                "Ending intent:",
+            ):
+                self.assertIn(field, outline)
 
     def test_pre_review_accepts_pending_review(self):
         with tempfile.TemporaryDirectory() as temporary:

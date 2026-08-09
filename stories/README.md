@@ -23,6 +23,10 @@ the outline specialist to the prose writer; it declares proposed people and
 places as `new` or `recurring`. The final review inventories the nouns actually
 used in prose and makes the prompt and continuity decision.
 
+New scaffolds carry `Craft profile: prospective-2026-08-08`. The outline and
+prose skills apply its binding defaults prospectively, and its self-check stays
+silent: it does not add a fifth authored file or reopen any completed story.
+
 A directory containing `05-story.md` is a locked legacy story. Its larger file
 set belongs to the retired workflow. Do not edit or migrate its bundle files;
 the title-image workflow may add or replace only `title-image.jpg` beside them.
