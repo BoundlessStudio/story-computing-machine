@@ -20,34 +20,47 @@ For a new WRITE assignment whose prompt carries
 profile below. Do not use it to reopen existing prose. In a REVISE assignment,
 fix only the assigned blocking findings.
 
-## Character engine and shape
+## Generating force and shape
 
-- Build causality from the focal character's immediate want, competing valuable
-  want, private stake, and useful flaw or limit. A correct moral position is not
-  a character engine. Add an appetite, pleasure, irritation, relationship, or
-  preoccupation unrelated to the central problem.
-- Test necessity: if another competent, decent person could replace the focal
-  character without materially changing the plot, make desire, knowledge,
-  relationship, or error more specific.
-- Give each principal character something worth protecting, an unwelcome fact,
-  a self-serving motive mistaken for principle, a real boundary, an imagined
-  boundary, and agency after challenge. Opposition need not be sympathetic, but
-  it must be intelligible from inside rather than existing only to be wrong.
+- Start from the story's own generating force rather than a universal plot
+  diagram. For a plot-led story, build causality from the focal character's
+  immediate want, competing valuable want, private stake, and useful flaw or
+  limit. For a quieter or less linear story, movement may come from relating,
+  finding, losing, bearing, discovering, parting, changing, recurring,
+  accumulating, or attending. Whatever the mode, give the focal consciousness
+  an attachment, appetite, curiosity, duty, pleasure, irritation, or
+  contradiction more particular than the correct moral position.
+- Use the necessity test only when the story promises a protagonist-driven
+  outcome: if another competent person could replace the focal character
+  without materially changing it, make desire, knowledge, relationship, error,
+  or perception more specific. A witness, ensemble, or deliberately passive
+  focal presence may instead be necessary because of what only that position can
+  notice, misunderstand, preserve, or withhold.
+- Do not manufacture an antagonist to complete a diagram. Give every principal
+  character an inside: something worth protecting, an unwelcome fact, a real or
+  imagined boundary, and choices after new information arrives. A person who
+  supplies opposition must be intelligible from within rather than existing
+  only to state the wrong answer. Conditions, absences, environments,
+  incompatible goods, and the focal character's own habits can also generate
+  change.
 - Let collective responses contain friction. Witnesses may hesitate,
-  misunderstand, benefit from the old arrangement, or support change for the
-  wrong reason.
+  misunderstand, benefit from the old arrangement, support change for the wrong
+  reason, remain divided, or never become a collective at all.
 - Vary structure as well as setting. Avoid defaulting to the house sequence of
   institutional coercion, public technical proof, crowd conversion, procedural
   reform, and emblematic closure.
-- Choose scale, conflict source, and form deliberately. Private temptation,
+- Choose scale, movement, time shape, and form deliberately. Private temptation,
   conversation, maintenance, scarcity, competing goods, mystery, comedy,
-  recurrence, documents, aftermath, failed repair, or quiet accumulation are as
-  available as public emergencies and conventional quest shapes.
-- Establish the opening's character, tone, conflict, and formal promises; make
-  the middle progress or deteriorate them; pay off the most important promise,
-  not merely the largest physical plot.
-- Preserve a cost, compromise, or uncertainty that the correct final choice
-  cannot erase.
+  recurrence, documents, aftermath, failed repair, ritual, journey, or quiet
+  accumulation are as available as public emergencies and conventional quests.
+  Linear escalation is one option, not the definition of story.
+- Establish the opening's character, tonal, informational, and formal promises.
+  Let the middle advance, deepen, complicate, repeat with difference, or
+  reframe them. Pay off the most important promise, not merely the largest
+  physical event or neatest thesis.
+- Keep the costs, compromises, pleasures, and uncertainties that genuinely
+  follow from the central action. Do not attach a token wound, lost office,
+  policy reform, or bittersweet sentence solely to certify consequence.
 
 ## Theme and speculative life
 
@@ -72,20 +85,27 @@ fix only the assigned blocking findings.
 
 ## Story movement
 
-- Put a specific person under immediate pressure. A premise becomes a story
-  when it forces choices with consequences.
-- Give each scene an objective, pressure, tactic, turn, and residue. It must
-  change knowledge, leverage, commitment, danger, relationship, or available
-  choices rather than merely let both sides explain themselves.
+- Convert the prompt's abstraction into lived experience. Immediate pressure
+  and consequential choice are strong engines, but curiosity, intimacy,
+  anticipation, work, ritual, discovery, loss, and accumulation can also hold a
+  reader when the story is true to their movement.
+- Make every full scene or summary passage earn its space. A passage may change
+  knowledge, leverage, commitment, danger, relationship, interpretation,
+  rhythm, or available choices; establish a pattern; repeat it with difference;
+  or let an experience gather weight. Not every unit needs an argument, tactic,
+  reversal, or miniature climax.
 - Earn causal transitions. Compress travel, repetition, routine, and background
   unless their accumulation is the point.
 - In action, establish space before speed, show tools and limits before decisive
   use, track cause through bodies and objects, and let expertise create both
   solutions and blind spots. Do not pause to list rejected alternatives once
   the reader understands the danger.
-- Resolve the prompt's central promise. Test endings after the irreversible
-  choice, first concrete consequence, and transformed echo; keep the version
-  with the strongest afterimage rather than the fullest thematic summary.
+- Resolve the prompt's central promise. Read the opening beside the ending and
+  ask whether they belong to the same organic whole. The story may end at an
+  irreversible choice, concrete consequence, revelation, release, return,
+  interruption, transformed echo, or the moment its governing movement is
+  complete. Prefer the necessary stopping point over the fullest thematic
+  summary.
 
 ## Viewpoint and world
 
@@ -94,9 +114,16 @@ fix only the assigned blocking findings.
   drift.
 - Choose viewpoint for what it reveals, distorts, conceals, or makes intimate.
   If it makes nothing meaningfully impossible, it is not yet doing craft work.
+- Control reader knowledge as deliberately as character knowledge. Decide what
+  creates curiosity, what deserves immediate orientation, what gains force from
+  delay, and what may remain unresolved. Mystery withholds meaning; confusion
+  withholds the footing needed to recognize meaning.
 - Prefer concrete nouns, active verbs, material consequences, and details that
   affect action or reveal the observer. Favor details that do two jobs: world
   and character, world and plot, setting and emotion, or object and theme.
+- Treat paragraphs as units of attention and relationship. Vary their breath
+  with the voice and action; do not isolate every sentence, reaction, or camera
+  beat for automatic emphasis.
 - Summary and exposition may create voice, establish scale, supply information
   needed by a later choice, set up contrast, or compress repetition. Cut or
   reshape exposition that certifies an obvious interpretation, tours a mechanism
@@ -129,15 +156,16 @@ fix only the assigned blocking findings.
 
 ## Consequence, connection, and range
 
-- A lasting cost need not be punishment. It may be incomplete trust, private
-  misunderstanding, lost status, a burden shifted elsewhere, knowledge that
-  stays uncomfortable, an unclaimable victory, a changed role or home, a heavy
-  chosen obligation, or refused reconciliation. Do not invent misery merely to
-  appear serious.
-- Avoid triple closure. Stop after the strongest choice, consequence, or echo,
-  and leave live uncertainty when the reader can still understand what changed.
-  Check recent endings before reusing open doors, hands, widening light, rain,
-  clean paper, shared lifting, or declarations of togetherness or ordinary life.
+- An aftereffect need not be punishment, and not every story needs a permanent
+  debit. It may be incomplete trust, private misunderstanding, lost status, a
+  burden shifted elsewhere, knowledge that stays uncomfortable, an unclaimable
+  victory, a changed role or home, a chosen obligation, ordinary pleasure, or
+  refused reconciliation. Do not invent misery merely to appear serious.
+- Avoid triple closure. Stop after the strongest necessary movement and leave
+  live uncertainty when the reader can still understand what changed. Treat
+  open doors, offered hands, widening light, rain, clean paper, shared lifting,
+  and declarations of togetherness or ordinary life as available images, not
+  automatic proof that an ending has landed.
 - Use recurring people, places, artifacts, or images only when they change the
   causal or emotional story. Let ordinary characters misunderstand history and
   prefer one consequential continuity detail to decorative signals of belonging.
@@ -149,34 +177,30 @@ fix only the assigned blocking findings.
 - Moral ambiguity is not moral indifference. The narrative may know that people
   matter without arranging immediate rewards for that belief.
 
-## Final pass
+## In-place revision pass
 
-Perform this silent craft pass before returning:
+After the complete prose exists, revise it in place at three scales. This is
+one prose assignment and creates no draft copy, checklist, or report.
 
-1. **Character:** identify two incompatible wants, a private stake, and one
-   useful flaw or limit.
-2. **Necessity:** confirm that replacing the protagonist would materially change
-   the story.
-3. **Opposition:** preserve what the opposing force reasonably protects.
-4. **Agency:** let major characters act after receiving new information rather
-   than merely agree.
-5. **Theme:** remove any redundant layer among event, reaction, interpretation,
-   legislation, and symbol.
-6. **Premise:** confirm a non-thematic use or effect for the speculative element,
-   or that the story is deliberately ordinary.
-7. **Structure:** compare the opening device, climax venue, collective turn, and
-   institutional outcome with recent work.
-8. **Scenes:** ensure each full scene turns pressure, knowledge, leverage,
-   intimacy, commitment, danger, or available choice.
-9. **Dialogue:** verify speaker distinction, private objectives, and subtext.
-10. **POV:** name what this position reveals, distorts, conceals, or prevents.
-11. **Cost:** retain something lost, compromised, uncertain, or difficult.
-12. **Ending:** choose the strongest stopping point among choice, consequence,
-    and echo.
-13. **Prose:** replace unintentional house habits with story-specific phrasing,
-    rhythm, or image.
-14. **Sound:** read at least one representative page aloud.
-15. **Prompt:** fulfill the request and resolve its central promise.
+1. **Whole story:** reread without line editing. Confirm prompt fulfillment and
+   the intended reader experience; identify the actual generating force that
+   emerged; test whether the focal position is necessary on the terms of this
+   story; preserve every principal character's independent logic and agency;
+   and revise any opening, center, turn, or ending that still serves the outline
+   more faithfully than the living prose. Check that any cost or reform follows
+   from events rather than decorating them.
+2. **Movement and information:** trace cause, chronology, spatial logic, rules,
+   and who knows what when. Make scenes, summary, omissions, repetitions, and
+   transitions perform distinct work. Remove redundant levels among event,
+   reaction, interpretation, legislation, and symbol. Confirm a non-thematic
+   use or effect for each major speculative element, or that the story is
+   deliberately ordinary.
+3. **Language and sound:** tune viewpoint filtering, narrative distance,
+   paragraph breath, sentence rhythm, image fields, and speaker-specific
+   dialogue. Replace generic gestures, synthetic metaphors, and thematic words
+   that do not belong to the narrator's or character's mouth. Read at least one
+   representative page aloud and repair tangles, monotony, accidental echoes,
+   and emphasis created only by line breaks.
 
 Delete redundant explanation when event and reaction already carry the point.
 Use abstract theme words only in the vocabulary of a character who would choose
@@ -187,7 +211,8 @@ recognitions; “not X, but Y” corrections; breath, shoulder, or returning-smi
 shorthand; and a last-paragraph object arranged as a moral emblem. Listen for
 repeated sentence stress, paragraph openings, fragment-only emphasis, dialogue
 too polished for its speaker, and words chosen for thematic neatness rather than
-the narrator's mouth. Do not record the pass in another file.
+the narrator's mouth. A diagnostic pattern is permission to look closely, not a
+command to flatten an intentional voice. Do not record the pass in another file.
 
 In revision mode, fix only assigned blocking findings; do not restart the story,
 rewrite the prompt or outline, apply new prospective preferences to unrelated

@@ -135,12 +135,17 @@ class StorySystemTests(unittest.TestCase):
                 prompt,
             )
             for field in (
-                "Character engine:",
-                "Opposition:",
+                "Intended reader experience:",
+                "Generating force:",
+                "Counterforce or complication:",
+                "Narrative design:",
+                "Time shape and compression:",
+                "Information and reveal strategy:",
                 "Speculative surplus:",
                 "Structural distinction:",
-                "Lasting cost or uncertainty:",
-                "Ending intent:",
+                "Decisive turn, deepening, or recognition:",
+                "Aftereffect or live uncertainty:",
+                "Opening / ending relation:",
             ):
                 self.assertIn(field, outline)
 

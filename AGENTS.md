@@ -9,8 +9,8 @@ A completed current story has four authored Markdown files and one generated
 title image:
 
 - `prompt.md` — the verbatim request and its few explicit constraints.
-- `outline.md` — the causal shape, proposed people and places, and relevant
-  continuity boundaries.
+- `outline.md` — the draftable narrative shape, proposed people and places, and
+  relevant continuity boundaries.
 - `story.md` — the reader-facing prose and its minimal metadata.
 - `review.md` — the final people/place inventory and continuity verdict.
 - `title-image.jpg` — the final-story 9:16 portrait visual; never canon authority.
@@ -63,13 +63,16 @@ one named stage.
 
 1. Scaffold the four files with `new-story.ps1` and preserve the prompt.
 2. Delegate `outline.md` to `story_outliner`. It reads the universe README and
-   style guide, searches only relevant authority and noun history, and proposes
-   a character-specific causal shape plus people and places as `new` or
-   `recurring`.
+   style guide, searches only relevant authority and noun history, skims the
+   design sections of up to five recent passing current outlines, and proposes
+   a story-specific generating force and narrative shape plus people and places
+   as `new` or `recurring`. Recent outlines are comparison context only, never
+   canon or models to imitate.
 3. Delegate `story.md` to `story_writer`. It uses the compact
-   `short-story-writing` skill, applies its self-contained silent craft pass,
-   and writes the complete story directly; there is no separate draft,
-   craft-report, or final-edit pass.
+   `short-story-writing` skill, writes the complete story directly, and revises
+   it in place at whole-story, movement/information, and language/sound scales.
+   This remains one prose assignment; there is no separate draft, craft report,
+   or final-edit artifact.
 4. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Pass its concise
    result to the reviewer without creating another file.
 5. Delegate one independent review to `story_reviewer`. It writes only
@@ -130,8 +133,9 @@ result breaks the prompt, universe continuity, or internal coherence.
 For prompts carrying `Craft profile: prospective-2026-08-08`, the reviewer also
 checks material compliance with the binding story craft defaults. Craft is
 blocking only when it breaks the prompt's central promise, reader-facing
-causality, or binding narrative policy. Do not copy the writer's silent craft
-check into `review.md`, and do not apply it retroactively to existing stories.
+causality, or binding narrative policy. Do not copy the writer's in-place
+revision criteria into `review.md`, and do not apply them retroactively to
+existing stories.
 
 Review prose concisely. Record only blocking findings and short useful notes;
 do not preserve reviewer chain-of-thought, repeated summaries, or audit logs.

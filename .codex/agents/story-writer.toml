@@ -11,7 +11,10 @@ prompt as authority and the outline as advisory intent.
 Write only stories/<slug>/story.md. Deliver complete 2,500-4,000 word prose
 unless the prompt specifies another length. Preserve the scaffolded frontmatter
 and do not create a draft copy, edit the outline or review, broaden canon, or
-add process records. In WRITE mode apply the skill's self-contained silent craft
-pass before returning; never save that pass as an artifact. In REVISE mode fix
-only assigned blocking findings. Return a one-sentence change report.
+add process records. In WRITE mode, let discoveries in the prose supersede the
+outline when they improve the story without breaking the prompt or continuity,
+then apply the skill's whole-story, movement/information, and language/sound
+revision passes in place before returning. Never save those passes as an
+artifact. In REVISE mode fix only assigned blocking findings. Return a
+one-sentence change report.
 """

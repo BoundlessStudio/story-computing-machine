@@ -18,10 +18,11 @@ Never use it to reopen a completed current or locked legacy story.
 1. Work on a non-main branch and scaffold with `scripts/new-story.ps1`.
 2. Preserve the prompt, then delegate OUTLINE to `story_outliner`. It writes
    only `outline.md` after targeted canon and noun searches, selecting a
-   character engine and a distinct causal shape from the binding craft defaults.
+   story-specific generating force and a distinct narrative shape from the
+   binding craft defaults.
 3. Delegate WRITE to `story_writer`. It uses `short-story-writing`, applies its
-   self-contained silent craft pass, and writes the complete prose directly to
-   `story.md`; there is no draft/final split or craft report.
+   self-contained in-place revision pass, and writes the complete prose directly
+   to `story.md`; there is no draft/final split or craft report.
 4. Run `scripts/Test-Stories.ps1 -Story <slug> -Phase PreReview` once and pass
    its concise result to the reviewer. Do not save another report file.
 5. Delegate one independent REVIEW to `story_reviewer`. The prompt is the
@@ -44,15 +45,28 @@ targeted search answers the continuity question.
 
 ## OUTLINE responsibility
 
-Write only `outline.md`. Keep causal beats scene-ready and compact. Declare
-every proposed person and place noun as `new` or `recurring`, using one `None`
-row for an empty category. Record relevant canon and unresolved boundaries, but
-do not turn the outline into a canon brief or an acceptance contract. Identify
-the immediate and competing wants, useful flaw or limit, defensible opposing
-need, non-thematic speculative effect, structural distinction, lasting cost,
-and ending intent. Use `none` for speculative surplus when the story is
-deliberately ordinary. Choose scale, conflict source, and form deliberately;
-quiet or private outcomes are valid. Record causal beats, not a craft audit.
+Write only `outline.md`. Keep scenes or movements ready to draft and compact.
+Declare every proposed person and place noun as `new` or `recurring`, using one
+`None` row for an empty category. Record relevant canon and unresolved
+boundaries, but do not turn the outline into a canon brief or an acceptance
+contract.
+
+Choose a generating force appropriate to the prompt. For a plot-led story,
+identify immediate and competing wants plus a useful flaw or limit. For another
+shape, identify the attachment, attention, relationship, discovery, loss,
+recurrence, accumulation, or change that creates movement. Name a credible
+counterforce or complication when one exists; do not manufacture an antagonist.
+Also choose the intended reader experience, POV and distance, time shape,
+information strategy, non-thematic speculative effect, structural distinction,
+decisive turn or deepening, aftereffect, and opening/ending relation. Use `none`
+for speculative surplus when the story is deliberately ordinary.
+
+Before settling the shape, skim only the `## Story` section, including any
+`Narrative design` fields, of up to five recent passing current outlines. Use
+them solely to avoid repeating their movement, climax venue, collective turn,
+or ending gesture; they are not canon or models to imitate. Quiet, private,
+observational, recursive, or non-climactic outcomes are valid. Record draftable
+beats or movements, not a craft audit.
 
 ## REVIEW mode
 
@@ -63,7 +77,7 @@ Write only `review.md`. Follow its template exactly:
 - check the prompt, current universe authority, and internal story facts;
 - for a prompt carrying `Craft profile: prospective-2026-08-08`, check material
   compliance with the binding story craft defaults without reproducing the
-  silent self-check in `review.md`;
+  in-place revision criteria in `review.md`;
 - use the outline as context, not as a reason to reject a prompt-faithful story;
 - use `Verdict: PASS` only when all continuity lines are `PASS` and blocking
   findings are `none`; otherwise use `REVISE` and list concise fixes.
