@@ -50,7 +50,12 @@ Nevenra lifted the disk. Its metal was warm from the cradle.
 
 The cold filament ended exactly when the archive had predicted.
 
-They walked forward through the trailing gardens as Latsara loosened itself from the harbor. Nevenra sang the departure measures softly, saving her full voice for the lead sail. The first verses were work she loved because each sound had somewhere to go. A long note held the stern sails across a side current. Two clipped syllables told the garden crews when to open their underfins. A fall of a third placed a shelf of submerged stone to the west, even when fog hid it.
+They walked forward through the trailing gardens as Latsara loosened itself from the harbor. Nevenra sang the departure measures softly, saving her full voice for the lead sail. The opening was the part every child knew, though the youngest sang it years before they learned what the words could move:
+
+*Brown hills behind us, warm water before;*  
+*root follow root till the cold sings no more.*
+
+The verses that followed were work she loved because each sound had somewhere to go. A long note held the stern sails across a side current. Two clipped syllables told the garden crews when to open their underfins. A fall of a third placed a shelf of submerged stone to the west, even when fog hid it.
 
 At the end of each section, the recorder chimed and played a proposed revision.
 
@@ -64,7 +69,12 @@ Caldren lifted one shoulder, either agreement or the start of a cough. The cough
 
 The city gathered motion beneath them. Onion stalks shivered in beds of black compost. Water slapped the hollow floats and then found a rhythm along Latsara's length. Ahead, roofs opened like fans as households raised their sails. Behind, the fixed harbor dwindled among its brown hills.
 
-Nevenra recorded the verse for a crosswind that smelled of iron. The program replaced three local names for the same wind with one descriptive phrase. She accepted it. At the medicinal garden, an old worker leaned over the walk and supplied a timing phrase Nevenra had swallowed too quickly. She repeated it with the consonants restored. At the dye pools, two girls sang the shallow-water response while stomping blue weed in a trough. One came in late, laughed, and shoved the other's elbow. The recorder separated their voices without comment and displayed the cleaner interval.
+Nevenra recorded the verse for a crosswind that smelled of iron. The program replaced three local names for the same wind with one descriptive phrase. She accepted it. At the medicinal garden, an old worker leaned over the walk and supplied a timing phrase Nevenra had swallowed too quickly. She repeated it with the consonants restored. At the dye pools, two girls stomped blue weed in a trough and sang the shallow-water response:
+
+*Pale sand at ankle, dark sand at knee;*  
+*lift the gardens, one-two-three.*
+
+One came in late, laughed, and shoved the other's elbow. The recorder separated their voices without comment and displayed the cleaner interval.
 
 Every correction seemed to lift a small weight from Nevenra. She imagined taking the lead sail with the archive's edition fixed in her ear: no faces turned upward while she chose between teachers, no hot pause after someone asked which wording she meant. A whole moving city held on a voice. Surely the voice should know what it was saying.
 
@@ -169,7 +179,12 @@ Toward Latsara's front, the walks tilted as the lead platforms caught the curren
 
 Between sections, it played interim passages of the completed edition. The whole route began to sound as if it had always come from one throat.
 
-At the narrow-water verse, Nevenra heard her mother's pause disappear. Her mother had used it to take flour from her hands before beating the next measure on the crock. It carried no direction and deserved no place in a standard.
+At the narrow-water verse, the archive sang:
+
+*Stone at the left hand, gray water thin;*  
+*answer the echo, then draw the sails in.*
+
+Nevenra heard her mother's pause disappear between *left hand* and *gray water*. Her mother had used it to take flour from her hands before beating the next measure on the crock. It carried no direction and deserved no place in a standard.
 
 At the storm-fan verse, Caldren's low alternative became a notation below the principal melody. A learner could retrieve it, the display explained, but forecast reports sung in that form would be flagged for correction.
 
@@ -227,7 +242,12 @@ Nevenra had expected accusation. His briskness was worse. "You agree?"
 
 "No. You refused certainty. That leaves navigation. Western arc or eastern lane?"
 
-She went to the gauges. The east still showed warm water and black reed. The west remained cooler, its surface chopped by a crosscurrent she could feel shivering up the lead ropes. She sang the two relevant lines under her breath. One teacher would have read shelter in the reed. Another would have waited for silver minnows before trusting the east.
+She went to the gauges. The east still showed warm water and black reed. The west remained cooler, its surface chopped by a crosscurrent she could feel shivering up the lead ropes. She sang the two relevant lines under her breath:
+
+*Black reed sleeping, hold to the sun.*  
+*Trust not the east till the silver ones run.*
+
+One teacher would have read shelter in the reed. Another would have waited for silver minnows before trusting the east.
 
 "Western arc," she said. "Seven parts in ten that the eastern eddy has stalled. Moderate confidence in the crosscurrent holding until dusk. Low confidence after."
 
