@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| ORCHID-32 | new | Awakened transit-system person, also called Orchid; the uppercase form is their pre-awakening asset designation, and no exact, alias, close-spelling, or confusing reuse was found. |
-| Rema Vesk | new | Human provenance auditor, also called Rema; no exact, alias, close-spelling, or confusing reuse was found. |
+| Aumelor | new | Constructed focal person; no exact, alias, close-spelling, or confusing reuse found in authority, the frozen baseline, locked legacy stories, or passing current inventories. |
+| Ione Sivet | new | Nonmagical maker; no exact or alias reuse found. `Ione` has no confusing close reuse, and `Sivet` remains distinct from `Siva` and `Sivren`. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun appears. |
+| None | none | The workshop and wider culture are unnamed. |
 
 ## Continuity
 
@@ -24,4 +24,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Making is unmistakably a fourth magical provenance rather than a profession, species, or machine-bodied form of Inheritance; diverse awakened people and immediate worldwide service, labor, ownership, and personhood consequences fulfill the cyberpunk premise without generalizing or retconning established constructed life, and the prospective craft profile is materially satisfied.
+- Notes: Making is established through two constructed living people whose distinct faculties originate outside their materials, design, maker, and transfer; the nonliving heron only channels Aumelor's supplied power. The one-night causal progression and choice-shaped ending materially satisfy the prospective craft profile.

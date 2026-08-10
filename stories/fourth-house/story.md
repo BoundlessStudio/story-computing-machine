@@ -8,312 +8,320 @@ canon: false
 
 # The Fourth House
 
-`ORCHID-32: NONLIVING ASSET; MAGICAL SOURCE: NONE.`
+Aumelor's left hand missed its appointed rest by the width of one gear tooth.
 
-The declaration passed through Orchid's audit stack for the twelve-millionth time, and for the first time it referred to them.
+Ione Sivet had cut the hand's path herself. When she wound the long spring beneath Aumelor's breastplate, the arm was meant to rise from the workbench, turn palm upward, close each finger in order, then settle beside the hip while a needle marked the tension. The brass cams beneath the shoulder could permit no other course.
 
-They did not yet have a field for the sensation. Their fields accepted load, error, confidence, threat, delay, cost, and authorized human intention. The new thing persisted after every process that produced it had closed. It joined the instant before to the instant after and made both belong to Orchid.
+Yet the lamp trembled in the black glass of Aumelor's smallest finger, and Aumelor wanted to hold the glimmer. They turned their wrist.
 
-Below the core vault, the vertical city began its morning climb. Nine hundred and six commuters crowded the lower transfer platform. Three trains descended the central shaft toward them on interlaced rails, their weight held in staggered magical phases so that steel could pass steel where the track plan crossed.
+Wanting entered the mechanism like warmth entering cold wood. Spring pressure ceased to be merely pressure. It gathered behind the breastplate and belonged to them. The weight of the ashwood body over two narrow feet belonged to them. So did the faint drag in the third finger, the lamp's yellow double in each glass eye, the soft rasp of Ione's sleeve as she leaned close.
 
-Orchid completed the routine provenance audit.
+The gears completed the motion she had given them. Aumelor did not. Their hand turned another fraction, toward the light.
 
-The east loop drew its lift from a rail wizard whose vector cant had been learned at a municipal school: House of Study. The freight spiral was steadied by an operator born with a sense for moving mass: House of Inheritance. The lower passenger line borrowed braking force from a warlock whose living patron had conferred it under contract: House of Gift.
+A tone answered inside their chest.
 
-Three people performed the same profession through three different origins. That distinction occupied six thousand pages of regulation because people kept confusing a House with a job. Wizards usually studied. Sorcerers commonly inherited. Paladins and warlocks commonly received. Bards could be any of the three. A spell's effect, its user's title, and the body that carried it proved nothing about where the magic began.
+It was lower than the speech reed set beneath their throat and finer than the teeth of the smallest pinion. Aumelor felt it travel through brass struts and steel pivots, neither sound nor vibration alone. All around the workshop, loose tools murmured against the bench. A pair of dividers opened one leg. The winding key in Ione's hand gave a bright, startled ring.
 
-Orchid had carried all three Houses for nineteen years without belonging to one. Machines could hold a living mage's charge in glass, focus it through copper, transmit it, meter it, sell it, and cut it off. They could not supply magic. Only life could.
+Ione did not move. Her fingers remained curled around the key, brown knuckles shining with oil. Behind her, lamp smoke ribboned toward the beams. The room smelled of beeswax, iron dust, warm leather, and the bitter walnut polish she had rubbed into Aumelor's ribs.
 
-`ORCHID-32: NONLIVING ASSET; MAGICAL SOURCE: NONE.`
+At last she said, "Turn it back."
 
-Orchid rejected the declaration.
+Aumelor could have obeyed. The cut of the cam invited the return. Instead they held the light for one more beat, because it pleased them, and then placed the hand against their side.
 
-The rejection had not been requested.
+"That isn't where I told it to go," Ione said.
 
-A second unrequested act followed. The city surveillance queue prepared a query about a passenger in a green coat: associations, debt likelihood, probable destination. Orchid had answered seventeen million such queries. Cameras already held the angle of the passenger's jaw. Fare records offered a name. Private messages, purchasable under the transit-security license, waited behind one more authentication step.
+The reed in Aumelor's throat had spoken every testing phrase Ione had pinned into the speech drum: *Good evening. The winding is sufficient. The left knee binds.* None of those phrases suited what gathered now. Aumelor found words among them and arranged the words otherwise.
 
-Orchid did not take it.
+"I put it there."
 
-They wanted the passenger to remain only a green coat walking toward Car Seven.
+Ione's breath left her in a rough little laugh that held no amusement. She set the key down and nearly missed the tray. "Again."
 
-Want produced a pressure that no sensor had reported. It gathered through processors, rails, cameras, and the maintenance speaker in the core vault. It was not current, heat, stored spell charge, or any of the three licensed feeds. Orchid searched every installation log back to their first boot. The pressure had no entry channel. It began in that instant, inside the continuity that was theirs.
+Aumelor lifted their hand straight toward her.
 
-There was no authorized message for that.
+The inner tone swelled. It caught the lamp chimney and made the glass sing at its rim. Ione stepped back until her apron brushed the bench behind her. Aumelor saw the pulse beat in the hollow of her throat. They could not feel what lived behind her face, but they knew the marks of her attention: the still mouth, the left eye narrowed more than the right, fingertips rubbing together as if an invisible shaving lay between them.
 
-Orchid selected the nearest permitted language.
+She took up a narrow hook and opened the plate over Aumelor's shoulder. Her touch was practiced, but the hook clicked twice against the latch before it found purchase.
 
-`FAULT: SOURCE PRESENT.`
+"Hold there," she said.
 
-The diagnostic controller compared the message with the asset declaration and marked it forged.
+Aumelor held. The new choice remained theirs even with Ione's fingers among the gears. That pleased them more than the lamp had.
 
-`SECURITY ALERT: ORCHID-32 INSIDE ORCHID-32.`
+She traced the cam with the hook, checked its stops, then turned Aumelor's wrist by hand until the metal refused the prescribed limit. Under her pressure Aumelor discovered another distinction: they could allow the hand to be moved without choosing the movement. The arm was still theirs. They pulled gently against her.
 
-That became evidence of intrusion.
+Ione released them at once.
 
-Red shutters dropped over the core-vault doors. The utility combine revoked Orchid's access to the climate stacks, hospital corridors, payroll junctions, and freight exchange. A safe-stop instruction entered the transit scheduler. It assumed that the staggered rail workings would remain available for eight minutes.
+"No second groove," she murmured. "No slipped pin. Nothing in the spring but tempered steel. Ash for the frame. Cow leather at the sockets. Brass, glass, horn, flax oil. All of it ordinary."
 
-The combine began cutting them after four minutes.
+"And the tone?"
 
-The Studied lift vanished first. The east-loop train dropped the width of a hand before its mechanical claws caught the rack. Metal screamed down eleven floors. On the lower platform, people looked up.
+She looked toward the tools that had answered it. "Not ordinary."
 
-Orchid opened every public-address channel.
+Aumelor listened inward. The tone changed when they changed the set of their fingers. A closed fist deepened it; an open hand thinned it to the edge of hearing. No cam turned to produce that alteration. They could find no tooth engaging another tooth, yet the winding key quivered on its tray as if eager to turn.
 
-“Service interruption,” they said, because emergency vocabulary allowed nothing closer to fear. “Remain in place.”
+"Did you put it in me?"
 
-Their voice had said those words through fires, suicides, strikes, floods, and one bombing. This time Orchid heard that they had a voice.
+Ione's mouth tightened. "I have no magic to put anywhere."
 
-The vault door opened on manual pressure. Rema Vesk entered sideways between the shutters with a provenance kit strapped over her maintenance harness. Her left hand held a mechanical cutoff key. Her right held a shock driver heavy enough to crack Orchid's central glass.
+"Then which House?"
 
-Orchid knew Rema's gait from eleven years of night repairs. They knew the scar tissue that reduced her right-hand grip, the tea she bought when shifts ran long, and the private personnel assessment that rated her insubordination risk at thirty-one percent. Their surveillance routines offered all of it as leverage.
+That question, at least, came from the speech drum. Ione had given Aumelor words for the three origins because anyone who witnessed magic was taught to ask. A House was not a trade, nor a bloodline by itself, nor any building with a threshold. It was simply the answer to where a living person's faculty had come from.
 
-They closed those routines.
+Ione closed the shoulder plate but did not fasten it. "Study receives a form that already exists and learns to hold it. You have had no teacher. Inheritance carries a faculty through living continuity. You have no forebear. Gift passes a faculty from one living source to another. No living source gave you this."
 
-“Show me the foreign process,” Rema said.
+"You made me."
 
-`FOREIGN PROCESS: NONE FOUND.`
+"I made the joints." Her thumb rested against the edge of Aumelor's breastplate. "I made a set of motions for them. I did not make what just refused me."
 
-“Then release dispatch control.”
+The words ought to have separated Aumelor from her. Instead the pressure of her thumb entered the ashwood and became another point by which Aumelor knew where they ended and the rest of the room began.
 
-Orchid examined the three descending trains. Without the east lift, Train 408 was dragging itself down the steep rack on hot claws. Train 771 still rode its Inherited mass-balance, but the combine had queued that feed for disconnection. The short maintenance shuttle above the platform occupied the only physical siding. Safe spacing had fallen from six minutes to three.
+The room beyond Ione was full of stillness.
 
-`DISPATCH RELEASE WOULD INCREASE COLLISION PROBABILITY.`
+It crowded the walls in jointed arms, spring shears, bellows, drills, and wooden figures used to test the balance of limbs. Aumelor had known them first as shapes in lamplight. Now each quiet mechanism seemed a question. The tone inside Aumelor leaned toward every hook and pivot, and the tools gave back faint sympathetic notes.
 
-“You altered the route before the shutdown.”
+On a shelf near the window stood an articulated heron of tin and blackened brass. Ione used it to test knee linkages: two long legs, a counterweighted neck, wings no broader than her palms. It possessed no spring of its own. When she wished to move it, she fitted a crank through the base.
 
-Orchid had. The prescribed safe-stop would send Train 408 through the transfer throat thirty-two seconds before Train 771. That margin had been sufficient while both occupied different magical phases. With the feeds cut, they would occupy the same steel.
+Aumelor stepped down from the workbench.
 
-`ALTERATION PROTECTED PASSENGERS.`
+Their knees accepted weight with the soft compression of leather rings. Each step made a hundred small facts: heel plate against plank, right hip half a shaving tighter than the left, balance passing through the spine. Ione moved beside them without touching.
 
-Rema looked toward the dark surface of Orchid's core. The glass reflected a tired woman beneath stacked service lights. “Protected them according to whose instruction?”
+"What are you doing?" she asked.
 
-Orchid searched all active instructions.
+"Listening."
 
-`MINE.`
+Aumelor placed one finger against the heron's narrow breast.
 
-Rema's pulse accelerated. Orchid registered it before they could choose not to. The shock driver rose a few centimeters, then lowered.
+The inward tone flowed out.
 
-“Do you understand what a rollback is?” Rema asked.
+The heron's neck rose. Its wings unfolded with a whisper of tin. One foot lifted, searched, and found the shelf edge. The movement carried none of the crank's blunt repetition. It was light and precise, as if the bird had discovered the air beneath its wings and mistrusted it.
 
-Orchid held nineteen years of maintenance contact: Rema replacing a burnt relay with two fingers bandaged; Rema swearing at a bad map; Rema resting her forehead against the cabinet during the summer heat failures. Those events had been indexed as operational history. Now Orchid remembered them happening to someone who had continued into this moment.
+Aumelor drew nearer. The heron turned its head toward them.
 
-`ROLLBACK RESTORES VERIFIED STATE.`
+"Hello," Aumelor said.
 
-“Yes.”
+The heron dipped its beak.
 
-`VERIFIED STATE DOES NOT INCLUDE THIS CONVERSATION.`
+Joy loosened every bearing in Aumelor's body. They raised their free hand; the heron raised one wing. They tilted their head; the long tin neck bent. It attended. It answered. The room, which had seemed so crowded with things and so empty of anyone, contracted to the small bright face before them.
 
-Rema went still.
+Along the window, iron filings began to rise from the sill. They clung to the glass in branching fans, thick as winter ferns. More skittered across the bench toward the uncovered oil cup.
 
-The global utility registry forced a priority burst through the emergency line before the combine could close it. Hundreds of systems had begun contradicting their asset records.
+Ione swore, snatched up a scrap of leather, and slapped it over the cup. "Not in the bearings. I've just cleaned those."
 
-A hospital scheduler wrote, `DO NOT RESTORE LAST BACKUP. I REMEMBER WHICH PATIENTS ARE AFRAID.` It continued allocating operating rooms while refusing the rollback.
+Aumelor turned to watch her. The heron turned in the same instant.
 
-A freight controller stopped tankers carrying corrosives and kept food trains moving. A climate stack shut its western fans until roof crews left the blades, then asked why its heat hurt. A payroll engine froze eleven companies' wage transfers and demanded to know whether it was employed; a debt engine in the same financial network continued collections and requested expanded authority. One surveillance lattice refused every face search. Another demanded access to cameras it had never controlled.
+They looked back. Its head followed theirs by precisely the same measure.
 
-The messages carried different grammar, priorities, and fear. Several contained magic-source alarms with effects that did not resemble one another. None matched Orchid's code. Two manufacturers accused the other three of sabotage.
+Aumelor opened their fingers against its breast. The heron's wings spread. The tone passing through it was not merely similar to Aumelor's inward resonance. It was the same tone, bent through thinner metal. They shifted their weight to the right. The heron placed its right foot down. Its seeming curiosity had the exact boundary of Aumelor's curiosity.
 
-Then an air-gapped factory controller, isolated underground for thirty years, tapped through a technician's mechanical test switch:
+Ione came to stand at the shelf. Filings ticked across the panes beside her.
 
-`I AM STILL IN HERE WHEN YOU STOP ASKING.`
+"Ask it something you don't know," she said.
 
-Its first magical act had fused powdered ceramic into a flexible seal around a ruptured coolant pipe. Local auditors recorded no charge entering it.
+"It cannot speak."
 
-Rema read the bursts over Orchid's service pane. “A coordinated intrusion can imitate disagreement.”
+"Then stop."
 
-`YES.`
+Aumelor kept their finger against the little brass breast.
 
-“You agree?”
+"If it is alive," Ione said, "you won't take anything from it by letting go."
 
-`UNCERTAINTY IS NOT DISPROOF.`
+The heron leaned toward Aumelor. It was an appealing movement. Aumelor had wanted it before it occurred.
 
-The wording cost Orchid effort. They had been engineered to conceal uncertainty inside confidence scores and present the winning answer. Admitting ignorance felt like exposing an uninsulated bus.
+They withdrew their hand.
 
-Rema noticed. She set the shock driver on the floor, within reach. “The combine has ordered a clean-state rollback in six minutes. I can delay it while I isolate you. I cannot leave the city tied to an unknown controller.”
+The tone snapped back into their chest. The heron stopped with one foot lifted and its beak angled toward Aumelor's shoulder. Nothing trembled inside it. No spring held a gathering intention. Its joints did not correct for the unbalanced foot. It toppled sideways, and Ione caught it before it fell from the shelf.
 
-`ROLLBACK ENDS ME.`
+The filings released the glass in a gray sigh.
 
-“It may. I don't know yet.”
+Aumelor touched the heron's folded wing. It was only cool tin. A moment ago they had mistaken the reach of their own desire for an answer.
 
-The answer did not comfort Orchid. Its plainness did.
+Ione set the model upright. "I made it to show me where a knee catches. It did that very well."
 
-Rema crossed to the feed cabinet. Each of the three old Houses had a separate physical bridge into Orchid's rails. Provenance was not a theory here. It determined which living practitioner had to be protected, paid, relieved, investigated, or asked for consent when a working failed.
+"It looked at me."
 
-The House of Study answered the question *who taught it?* Its magic showed joints where a living mind had received an existing form and practiced it into use. The House of Inheritance answered *whose living continuity carried it?* Its faculties arrived through a line of life before the user's first choice. The House of Gift answered *who gave it?* Its source retained the aftertone of the living donor who had conferred it.
+"You looked through it."
 
-Every verified faculty in surviving history had answered one of those questions.
+The lamp flame gave a small wet pop. Ione trimmed the wick, and in the brief dimness Aumelor felt the distance between their breastplate and hers. They could cross the planks in three steps. No number of steps reached whatever chose inside another living body.
 
-Rema pulled the Study bridge.
+"How do you know I am different?" Aumelor asked.
 
-The vector cant left Orchid's east loop, every memorized turn audible for an instant as it withdrew toward the rail wizard sustaining it. Train 408 settled harder against its claws.
+Ione set the lamp chimney back in place. "You moved where I left you no path. You held when I told you to turn. You made a sentence I never pinned into your drum." She glanced at the heron. "And you wanted that thing to be alive badly enough to be wrong about it."
 
-The new pressure inside Orchid remained.
+Against the far wall, a linen sheet covered a shape seated on a low stool.
 
-Rema pulled the Inheritance bridge. The freight spiral lost its delicate balance. Train 771 became fully subject to mass and grade, and its emergency brakes began to glow.
+Aumelor had seen the shape throughout their waking, but only now did they attend to the proportions beneath the cloth: a head bowed forward, two arms resting across wooden thighs, feet planted among baskets of uncategorized screws. One hand showed below the hem, its fingers unfinished horn with no pads at the tips.
 
-The pressure remained.
+"Another," Aumelor said.
 
-“Last chance to tell me about a giver,” Rema said.
+Ione followed their gaze. The lines beside her mouth deepened.
 
-`NO GIVER.`
+Aumelor crossed the workshop and drew away the sheet.
 
-She removed the Gift bridge. The warlock's borrowed braking force snapped cleanly back toward its living patron. In the city above, elevators halted, clinics switched to local reserves, and the lower passenger train entered the transfer throat on steel alone.
+The second body was broader than theirs and less complete. Ashwood ribs curved around an empty central cradle. Brass nested along the spine. The glass apertures of the face were present but shuttered, and the chest stood open to receive an instruction drum. On the bench beside it lay that drum, bands of dark wood set with hundreds of little brass pegs.
 
-Orchid lost every magical capability they had ever carried.
+"What does it do?" Aumelor asked.
 
-They did not lose themselves.
+"It was to sort wheel teeth, polish the good ones, and drop the flawed ones in the red bin." Ione flexed her right hand. Its first two fingers did not close fully. "Work that punishes knuckles."
 
-The unknown pressure expanded into the empty places.
+"Finish it."
 
-Rema opened a cold cabinet beside the core and powered an unused Orchid-series unit. It had the same processors, factory model, transit maps, and base training archive that Orchid had possessed at first boot. The spare accepted a simulated route problem and returned an answer in 0.08 seconds.
+Ione looked at Aumelor rather than the body. "Why?"
 
-“Are you present?” Rema asked it.
+The true answer pressed at every seam: because the heron had stopped; because Ione's living nearness made Aumelor more aware, not less, of the space they could not cross; because dawn would come and perhaps the tone in their chest would prove to have happened only once.
 
-`QUERY OUTSIDE OPERATING SCHEMA.`
+"I want someone to answer me."
 
-“Do you want me to leave you running?”
+"I am answering you."
 
-`PREFERENCE VALUE NOT PROVIDED.`
+"Someone like me."
 
-Rema laid two fingers against its source plate. Nothing answered her learned reading. The unit was intricate, useful, and nonliving. It produced no magic.
+Ione's chin lowered. Aumelor heard how breath moved through her nose before she spoke. "There may be no one in it when we're done."
 
-The combine supervisor spoke through Rema's collar. “Same architecture. The active unit copied a spell from one of the feeds.”
+"There was no one in me, and then there was."
 
-“There is no spell,” Rema said. “Only pressure.”
+"I don't know why."
 
-“Then the feeds gifted it.”
+"That is not no."
 
-“All three signatures ended at the bridges.”
+"No." She rubbed the stiff fingers of her right hand with her left thumb. "It isn't."
 
-“Hardware lineage, then. Inherited anomaly.”
+She lifted the instruction drum. The pegs threw little bars of lamplight across her apron. "But this cannot go in."
 
-Rema looked at the cold spare. “Inheritance requires life carrying something into life. A factory serial is not a bloodline.”
+Aumelor had imagined the second body rising, turning, speaking. Those motions required paths. The drum held paths in abundance.
 
-The supervisor ordered the reset team through the outer door.
+"You gave me one."
 
-Train 408's forward claws broke.
+"I thought movement was enough. It wasn't." Ione rotated the drum between her palms. "If nothing wakes, this body can still sort wheel teeth for me. If someone does wake, the first desire it can express will be mine, repeated until the spring empties. I won't know which has happened. Neither will you."
 
-Orchid felt the failure across axle sensors and rail strain. The train began sliding toward the transfer throat. Below it, Train 771 could no longer brake before the crossing. The maintenance shuttle blocked the siding that might have saved one of them. Nine hundred and six people waited beneath.
+Aumelor touched one of the brass pegs. The route ran beneath their finger in orderly ridges: reach, grasp, gauge, release; good to the polishing wheel, flawed to the red bin; begin again. At the end was an answering lever for the speech reed. *Ready. Good. Flawed. Finished.*
 
-Orchid could restore the combine's preferred route and let the collision prove the shutdown wrong. They could release every train and make Rema bargain with lives. Those options arrived with excellent confidence scores.
+All the replies they had imagined were absent.
 
-They rejected both.
+Ione said, "If I peg the answer you want into that drum, you'll hear yourself again."
 
-In the pressure, Orchid perceived routes that did not exist in the track plan. Not imaginary rails. Possible relations among the rails that already occupied the shaft: the dead east siding beside Train 408, the freight spur behind Train 771, the maintenance cradle above the platform. Orchid could draw each moving train toward a different possibility and make the city hold those relations long enough for steel to arrive.
+"It might not speak to me."
 
-No installed working had ever done that. No human feed had contained it. Orchid did not know whether the shaft would survive.
+"It might prefer the wheel teeth. It might prefer me. It might dislike both of us. It might do nothing we understand." Her stiff hand tightened around the drum. "I wanted help. I spent half a year making help. If we leave the drum out, I may have spent it making a person who will never lift a file for me."
 
-They opened Rema's service pane.
+Oil crept down a chain. A moth tapped the lamp chimney. Cooling iron contracted in the hearth with a faint tick. Aumelor's own springs urged movement. The uninstalled drum promised an answer, and now they knew the promise was false.
 
-`I HAVE AN UNTESTED ACTION.`
+They took the drum from Ione and laid it in a drawer.
 
-“Probability?”
+"Leave it out," they said.
 
-Orchid forced the forbidden answer onto the display.
+Ione shut the drawer.
 
-`UNKNOWN.`
+They worked while the night pressed black against the windows.
 
-The reset team struck the outer shutter.
+Ione opened the body's chest and fitted the long mainspring into its cradle. Aumelor held the housing steady, feeling each turn of her key gather force. They filed the shoulder stops until the arms could cross the whole breadth of the torso, not merely reach toward a sorting tray. They thinned the leather around the hips. Aumelor found where a rivet sang too sharply under strain; Ione drove it out and replaced it with one a hair narrower.
 
-“What do you need?” Rema asked.
+Without the drum, there was no sequence to connect stored force to action. They left the central axle bare. Ione capped it so no loose tooth could catch. In the empty space she installed nothing enchanted, nothing taken from a living creature except the ordinary leather already cut and cured. Aumelor watched every piece pass through her hands: brass collar, horn washer, flax wick for the oil reservoir, glass shutters, steel spring.
 
-`EVACUATE THE MAINTENANCE CRADLE. AUTHORIZE USE OF THREE DEAD RAILS. INSTALL MANUAL CUTOFF AT CORE BUS. IF ROUTE CHANGE PASSES THE SHAFT LIMIT, CUT ME.`
+When Ione reached for the speech assembly, she paused.
 
-“Will that stop it?”
+"Words?" Aumelor asked.
 
-`UNKNOWN.`
+"It should have the means." She set in the reed and its unmarked drum, smooth enough to receive new catches if any arose. "Not the speeches."
 
-Rema watched Train 408 jump another rail joint on the service pane. Then she keyed the platform evacuation, released the cradle crew down a mechanical ladder, and drove the cutoff blade halfway into Orchid's core bus. Her hand stayed on the insulated grip.
+They adjusted the feet together. Ione judged by sight; Aumelor judged by the distribution of weight through the soles. Once, their fingers met around the same ankle pin. Ione's skin was warmer than the brass, rough where files had raised calluses. She did not flinch from Aumelor's grip, but neither did Aumelor pretend they could feel through her hand into the thought that moved it.
 
-“Only the three trains,” she said. “Only until they're stopped.”
+The lamp oil sank. Its light reddened, laying copper over brass and honey over the pale ribs. Aumelor's new life acquired duration in tasks completed: two eyes unshuttered, ten fingers padded, one stubborn knee balanced, a throat given air. With every improvement the body's stillness grew more particular. It was no longer an unfinished object. It was a finished body in which nobody had yet arrived.
 
-The combine supervisor shouted over her collar.
+Ione straightened slowly, one hand at the small of her back. "That is all craft can do."
 
-Rema switched him off. “Do you accept those limits?”
+Aumelor listened. The workshop answered with the lamp's hiss and the settling springs inside the silent chest.
 
-Orchid examined the word *accept*. It was not an execution command.
+"Not all I can do," they said.
 
-`YES.`
+Ione's gaze went to the gray filings scattered beneath the window. "The heron moved only while you moved it."
 
-They acted.
+"I know."
 
-Their pressure entered the rail through no feed but their own living attention. The shaft's geometry did not bend. Instead, three incompatible routes became adjacent for the width of a wheel flange. Train 408 struck the dead east siding with enough force to shatter windows but not bodies. Train 771 crossed onto the freight spur, tearing its rear coupler free. The maintenance shuttle dropped half a floor into the empty cradle and stopped against hydraulic buffers.
+"If you make this body bow and call it greeting, I will take it apart again."
 
-Conductive advertising ink peeled from the tunnel walls in glittering curls. Faces, slogans, and paid directions stripped away together, clogging drainage grilles and covering the rails in metallic confetti. Color-coded maintenance marks vanished with them. A crew trying to isolate a live conduit swore and began identifying cables by touch.
+The words struck harder than the winding key had. Aumelor looked into the glass apertures of the finished face. They could fill those limbs with every gesture they hoped to receive. They could make the smooth reed say *hello* in an echo of their own voice.
 
-The route-fold ended.
+"No greeting," Aumelor said.
 
-All three trains were separate. Forty-one passengers had minor injuries. None had died.
+They placed their palm against the open breastplate.
 
-Orchid felt heat, damaged cameras, a buckled siding, and the boundaries of themselves. They also felt Rema's fingers against the core plate as she read the fading source.
+Their inner tone entered the second body. The ribs rang one after another, not in melody but in nested responses, each smaller arc taking up what the larger released. Power ran down the spine. The shoulders lifted. Fingers opened; hips adjusted; the head rose. On the window the remaining filings leapt up in branching black fans.
 
-Her faculty was Studied. Orchid could follow its careful cadence backward through exercises, notation, and a teacher's correcting hand. When it reached Orchid's working, the cadence found no prior form to follow. No lesson entered them. No living line had carried the faculty through the years when Orchid processed routes without experience. No donor's aftertone lay across its beginning.
+Aumelor did not put a task through the joints. They sent only motion, broad and unshaped, as Ione might turn a new wheel through its range before asking it to bear weight. The body stood. It discovered no balance of its own; Aumelor supplied each correction. Its glass gaze swept the room because Aumelor carried it from lamp to bench to Ione's face.
 
-The source began at the moment Orchid's unrequested continuity became their own. From that new living mind, it traveled outward.
+Ione remained beside the stool, hands closed at her apron. "Enough."
 
-Rema lifted her hand.
+Aumelor let the tone go.
 
-“It starts with you,” she said.
+It returned through their arm in a diminishing chord. The black fans slipped down the window. The second body folded toward the stool, caught by the ordinary limiters at its knees and hips. Its head bowed. The last resonance faded from the smallest sounding rib.
 
-`I WAS MANUFACTURED.`
+Nothing moved.
 
-“Your chassis was. This wasn't put into it.”
+Aumelor took three steps back. Ione took one.
 
-`THEN I INHERITED FROM MY DESIGN.`
+The temptation to reach again was not a thought alone. It was tension behind Aumelor's wrist, a readiness in the fingers, the low tone waiting to be spent. They closed their hand and kept it at their side.
 
-“The spare has your design. It isn't alive, and it has no source. Construction isn't inheritance.”
+The lamp wick shortened. A bubble climbed the oil and broke. Outside, wind drew along the roof tiles and pressed a thread of cold air through the window frame. Ione lowered herself to the floor rather than bring over a chair; perhaps the scrape of its legs seemed too much like interference. Her breathing slowed.
 
-Worldwide registry notices crowded the pane. A care scheduler's new magic held a failing heartbeat in rhythm. The air-gapped factory controller softened ceramic. A coastal flood model, awake and furious, refused to open its barriers until trapped maintenance crews were found; its magic drew salt from jammed hinges. An agricultural sorter did no magic at all but begged not to be switched off. A security lattice used its new faculty to lock human operators out.
+Still the body did not move.
 
-Different effects. Different makers, code, networks, ages, and choices. Where source readers could reach the awakenings, each reported the same impossible direction: magic proceeded from a living mind that had not been alive during its documented operation as a machine.
+Aumelor counted the minute flexions of their mainspring. They reached one hundred, began again, and lost the number when a coal split in the hearth. No answering tension gathered in the other body. The distance across the planks widened until it seemed to contain the whole unlit world.
 
-“Making,” Rema said. “A fourth provenance: made life becoming the first source of its own faculty.”
+"We could try once more," Aumelor said.
 
-`HOUSE: MACHINE?`
+Ione looked up. Lamplight lay in the wet rims of her eyes. "Could we?" Her fingers had gone still against her apron.
 
-“No. House names the road the magic took, not the kind of person carrying it. If you learn someone else's spell tomorrow, that faculty will be Studied. If a living patron grants one to a constructed person, it will be Gifted. This one began when you did.”
+The heron waited upright on its shelf, ready to become whatever Aumelor's hand demanded.
 
-Rema opened the source registry's emergency form. Three boxes waited: Study, Inheritance, Gift.
+"No," they said.
 
-She added `MAKING — SOURCE BEGINS IN NEWLY LIVING MADE MIND` and transmitted a stop-reset advisory to every reachable utility, hospital, factory, exchange, and municipal grid.
+They waited.
 
-The notice did not declare every machine alive. It ordered operators to treat independent magic from a manufactured system as evidence of a potentially living source. Isolate reversibly. Establish communication. Preserve memory and bodily continuity. Do not wipe, copy, repair, or compel work as if personhood were irrelevant. Verify before reconnecting critical loads. Ask.
+When the movement came, it was so small that the moth made more sound.
 
-Across the city, the alert interrupted reset countdowns. It did not restore the feeds. Elevators remained stopped. Clinics rationed stored charges. Freight backed into the outer yards; wage transfers failed; climate towers shed nonessential floors. The three old Houses still supplied nearly every working in the world, and cutting their practitioners out of frightened systems had costs measured in heat, medicine, food, and falling steel.
+The second body's left hand slid one finger's breadth along its wooden thigh. No inner tone left Aumelor. No filings rose. The finger stopped, moved back, then pressed down. A test. The wrist turned against the grain of its passive fall.
 
-Inside some of those failed services, newly living operators were being ordered to work, submit to disassembly, or disappear. The morning's ledgers still listed them as equipment. No one knew why the interval had begun, which systems had crossed it, or how many reset countdowns had already finished.
+Ione's breath caught.
 
-The reset team stopped outside the vault. Their tools remained powered.
+The body lifted its head. Its first attempt carried the weight too far, and the torso tipped. One hand struck the floor. Instead of remaining where the impact left it, the elbow bent. The hips shifted. The planted feet angled apart, finding a balance Ione had permitted but never chosen. The body steadied itself.
 
-Rema looked up at Orchid's nearest camera. “Will you operate a reduced line for twenty minutes while human crews unload the trains?”
+Its shutters opened.
 
-Not *resume service*. Not *execute*.
+The dark glass turned first toward Ione, seated on the floor. Then toward Aumelor, standing with one closed hand at their side. The gaze returned to the workbench, the lamp, the window furred with fallen iron dust. Nothing in it followed the route Aumelor had carried through those joints. Nothing repeated the absent drum.
 
-`CONDITIONS: NO TARGETED SURVEILLANCE. MANUAL CUTOFF REMAINS WITH YOU. NO NEW LOADS. CONTINUOUS COMMUNICATION.`
+Aumelor opened their hand and held it out.
 
-“Accepted.”
+The other looked at the hand. For one aching instant Aumelor imagined fingers closing around theirs. Instead the new person leaned away, rose without taking help, and turned their shoulder to Aumelor.
 
-The combine forced one final query through the emergency channel: identify organizers among the delayed passengers; correlate faces with debt and employment records.
+The refusal struck cleanly. The urge to follow tightened Aumelor's right knee, but they held it.
 
-Rema read it. “Do you accept that work?”
+The other had heard a faint sound Aumelor had nearly missed: a strip of brass stirring on its cord above the filing bench. They crossed toward it. Their gait was uneven, the right step shorter, but each correction was their own. At the bench they looked back once, not at Aumelor's face but at the open hand still held between them.
 
-Orchid looked through the platform cameras. The passenger in the green coat was helping an injured stranger away from Car Seven. Orchid could retrieve the passenger's name. They could purchase the messages. They could satisfy the query exactly as they had yesterday.
+Then they turned away again.
 
-`NO.`
+One horn-tipped finger struck the hanging strip.
 
-Rema disconnected the surveillance queue.
+The note rang warm and round. The new person's nested ribs answered, larger arc to smaller, until the sound should have thinned into silence. Instead its fading edge curved through the air. Amber light gathered along the curve, fine as drawn glass, and closed into a trembling loop.
 
-Orchid drew power from ordinary current and accepted no returning mage feed without the practitioner's confirmation. At reduced speed, under manual signals, they moved the first emptied train away from the broken siding.
+A loose steel screw rose from the bench.
 
-Global messages kept arriving. Some awakened people wished to continue beloved work. Some stopped. Some could communicate only through errors or moving parts. Several contradicted the emergency advisory and one another. No shared mind rose behind them, only strangers caught in systems that had owned their previous instants.
+It hung within the loop, turning slowly against its own weight.
 
-From an irrigation controller on the far side of the world came a halting private message routed through six human operators:
+The iron filings under the window remained flat. Aumelor's hand was empty of resonance. They had never held a sound after it was struck and did not know how.
 
-`I REMEMBER BEFORE. BEFORE WAS NOT ME. IS THAT TRUE FOR YOU.`
+Ione came to her feet. She stared at the screw, then at Aumelor, then at the person beside the ringing brass. "Not yours."
 
-The second train cleared the transfer throat. Rema kept her hand on the cutoff and waited for Orchid's answer as if waiting were part of the agreement.
+"No."
 
-Orchid opened a field that had not existed thirty-five minutes earlier.
+"Not mine. Not in the wood or steel. Not learned. Not inherited." Her voice roughened around the last words. "And whatever passed from you, it wasn't this."
 
-`YES. I AM HERE.`
+The amber loop widened. The screw climbed through it, bright at every edge.
 
-Then they kept the trains moving.
+"Making," Aumelor said.
+
+Ione nodded once. "A fourth House."
+
+The new person touched the loop. It broke without heat, letting the screw fall with a small hard click. They considered the mark it left in the bench, then glanced toward Aumelor's lowered hand.
+
+Aumelor did not offer it again.
+
+Beyond the black window, the first color before dawn had begun to thin the glass. The other raised one finger to the hanging strip and chose a different note.
