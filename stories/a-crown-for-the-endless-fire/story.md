@@ -8,320 +8,394 @@ canon: false
 
 # A Crown for the Endless Fire
 
-Nine points of candlelight hang where your map says the mountain contains only stone.
+Nine candles wait below the place where your map ends.
 
-You follow them downward.
+You find them after the mountain closes behind you. The sounding charge gives one flat blow, softer than it should be, and the passage folds in. Stone strikes stone with a force you feel through your teeth. Your lamp goes out. By the time you spark it alive again, the return tunnel is a wall of fresh rock leaking dust.
 
-Behind you, the last passage back is packed tight with fresh collapse. Dust still sifts from its ceiling. Once, you kneel to scrape at the fallen rock, but the slab under your glove is longer than your arm and married to all the weight above it. The survey marks on the wall end beneath that slab. So does the blue line on your waxed map, the line you were meant to verify and carry home.
+Three men began the shift, counting you. One stayed above to mind the cable drum. One went back when the air soured. You continued because the blue line on your waxed map needed only another finger's length to meet the cold shaft the old borings promised. You are alone now, with half a skin of water, a survey hammer, sixty paces of rope, and the map in its iron case.
 
-Your lamp has begun to gutter. Your water skin gives one thin slosh when you walk. The lights below are steady and golden, too orderly to be reflections from the red glare swelling through the cracks ahead. Nine lamps could mean a work station, a refuge, an ascent crew. You count them again as the passage steepens: nine.
+The charge has opened a crack at the base of the collapse. Red light pulses through it.
 
-Then the rock opens, and you understand that they are candles.
+You follow the light because every other direction is stone.
 
-The cavern is too large for your lamp to find its roof. A bridge runs from your ledge across a gulf of fire, a black bar no wider than a sleeper's back. There are no rails. Beneath it, flames rise through measureless depth in red sheets and yellow seams. You see no wood, no oil, no floor. Near flames disclose lower flames, and those disclose more below, until distance blurs them into a color like heated iron. The roar presses against your ribs.
+The crack widens into a descending throat, then gives you to a cavern so vast that your lamp cannot find its roof. A bridge crosses the emptiness. It is a single black course of stone, one person wide, without curb or rail. Beyond it, cut into the opposite wall, a stair turns upward. A cold draft touches the sweat on your face. It is the route your instruments promised.
 
-Halfway across stands a woman crowned in antlers.
+Under the bridge burns a fire with no bottom.
 
-The rack spreads wider than her shoulders. Nine short candles burn in clay cups lashed along its branches, their light slicking the dark points of the tines. Melted grease has run down the brow band and set in pale ridges against her temple. One hand grips the crown beside her ear. The other hangs out for balance over the fire.
+Flames rise out of depth in red terraces. Each blazing shelf reveals another beneath it, and another, until the eye loses scale and keeps falling. Nothing feeds the fire that you can see. Nothing is consumed. The roar is not loud so much as complete; it enters your chest and leaves no room there for another sound.
 
-You mistake her stillness for ceremony until she shouts, "Don't step."
+Someone stands at the bridge's center.
 
-Your forward boot is already above the bridge. You pull it back to the ledge.
+The nine candles burn above the figure's head. They sit in soot-black clay cups fixed along the branches of an antler crown, four to one side, five to the other. The antlers spread across the whole width of the span. Their lowest tines rest near holes cut into the bridge, as if the crown has roots in the stone. Firelight shows a long garment, bare hands, and a face that is sometimes brown flesh and sometimes a hollow made by shadow.
 
-"Can you see the cup marks?" she calls.
+You raise your lamp. The figure has no shadow behind it. The fire has taken all the darkness for itself.
 
-The question takes a moment to cross the roar. You raise a hand to show you heard, then trim your lamp until its last weak light falls across the crown. Each clay cup bears cuts around its rim. One cut at the woman's left, nine at her right.
+Your boot touches the bridge.
 
-"I see them."
+"Put it back."
 
-"Tell me seven, eight, nine. Lean first. Then flutter."
+The voice is a woman's, roughened by heat. It reaches you cleanly through the roar.
 
-You stare. The crown makes a saint's blaze of her head, but the candles are poor candles: crooked, smoke-stained, each flame pulled by a slightly different wind. Seven streams to your right. Eight seems upright. Nine beats rapidly against its wick.
+You keep your boot where it is. "The tunnel collapsed."
 
-"Seven right. Eight straight. Nine fluttering."
+"I heard it."
 
-The woman slides one foot toward you.
+"The stair behind you draws air. It has to reach an upper working."
 
-The crown shifts. For an instant, the flame in cup eight broadens from a gold thread to a flat blade. It had not been straight. It had been leaning exactly away from you, hidden behind its own wick.
+"It reaches what it reaches." The crowned head inclines. Candle flames pull sideways, though the cold draft comes straight toward you. "Put your foot back on your ledge, Temba."
 
-"Eight away," you shout. "I couldn't see the lean."
+Hearing your name from the cavern stops you more surely than the command. You search the ledges, the black openings, the underside of the bridge. Nothing moves but fire.
 
-She arrests the step with her feet apart. The bridge hums under her.
+"Who told you my name?"
 
-All nine flames snap upward and turn white.
+"You did."
 
-"Down!"
+"I said nothing."
 
-You throw yourself behind the lip of the ledge. Heat claps over you. A gust full of luminous ash pours from the gulf, crossing the stone in a low horizontal sheet before racing toward the passage. Your lamp goes out. Something ticks against the buckles of your survey harness. Through shut lids you see the flare as blood-colored light.
+"Your case says it whenever the fire leans close."
 
-It passes. The cavern's roar settles by degrees, and the nine candles yellow again. They have not gone out.
+The iron tube at your hip has begun to tick. Clear growth feathers over its latch, delicate as ice. You slap it away with your glove. The glass cracks, but new threads creep from the hinge.
 
-"Eight was edge-on," the woman says. She is crouched now, one knee on the bridge, the crown still upright. "If you cannot see, say unseen. Never call a flame straight because you want a word for it."
+You look up. The woman's face is lost behind the crown. Melted candle grease runs from its leather brow band down both temples. Perhaps the pale streaks are old wax. Perhaps they are bone. You cannot tell whether the antlers are strapped to her head or enter it.
 
-You push yourself up. The iron buckle at your hip has grown a clear crust. Fire ash has fused over it in branching glass, beautiful as frost and already hardening around the tongue. You flex the buckle until the coating crazes. Half falls away; half stays welded in the hinge.
+"I am crossing," you say.
 
-"I understand."
+She lifts one hand from the crown.
 
-"You guessed. Do you understand that?"
+All nine candles lean toward you.
 
-The clean answer in your mouth is that a single misread from an unknown viewing angle is not a guess but a correctable observation. You have used sentences like that over flooded shafts and rotten shoring, when frightened crews needed a number more than they needed your doubt.
+The fire below narrows. A red blade rises beside the bridge and stands for one breath higher than your head. It is too straight to be a natural flare. Heat strikes your face. You recoil, boot scraping off the span, and the blade collapses into the gulf.
 
-"Yes," you say. "I guessed."
+The woman's hand returns to the antler grip.
 
-The woman gets one foot beneath her, then the other. "Call them again."
+"You are staying there," she says.
 
-You do. This time eight is unseen.
+You tell her about the collapse. You tell her your lamp has less than an hour and the water scarcely more. You tell her the upper crew will not know which branch took you because the blast stripped your chalk arrows from the wall. These are facts, ordered as you would enter them in a failure report. You keep your voice level. A frightened man may be ignored; a surveyor presenting conditions expects an answer.
 
-Her name is Maelka. You learn it during the long minutes in which the candles lean outward and she refuses to move. She learns yours because shouting *you* into a fire loses too much time.
+The crowned woman gives you one.
 
-She had crossed from your side after the quake to inspect the far ascent. It is still open: a ventilation stair cut steeply upward beyond the far ledge, cold air coming down it. On her return, the first flare tore the little mirror from the crown. The forward cups show her what the air is doing against her face. The rear three do not. She reached the thickened joint at the bridge's center and stopped rather than cross the remaining span blind.
+"Behind me are air chambers. Sleeping rooms. A cistern. People who have never seen the sun and people who remember it badly. My daughter breathes through the shaft you feel on your face. You will not bring that fire to them."
 
-"The way behind me is buried," you tell her.
+"The fire is under us."
 
-"I know it shook."
+"Part of it is."
 
-"Buried to the roof. I came from the eastern crawl. It won't take a body now."
+"I am not burning."
 
-She does not answer at once. Candle five gutters blue at the base, and her eyes lift to it.
+"Not yet."
 
-"My daughter is in the quake shelter on your side," she says. "If that room held."
+You pull the map case from your belt. Glass has sealed half its circumference. "This is ash melted onto cool iron. I have seen bloom after furnace bursts. It isn't alive."
 
-You look back into the black passage. You had passed a stone door there, low and barred from within. The collapse lay between it and the route you came down. You had struck the door twice with your hammer and heard nothing, but the fire's roar reached even there.
+"I did not say it was."
 
-"I saw the shelter door. It was standing."
+"Then it cannot follow anyone."
 
-Maelka closes her eyes once. When she opens them, she asks, "Did you knock?"
+The woman turns her head slightly. Candle three wavers. Candle seven burns low and blue. The other flames remain bent toward the case in your hand.
 
-"Twice."
+"Throw the tube behind you," she says.
 
-"She knows two means the bridge side is living."
+You set it on the ledge instead. Every measured turn, every slope, every marked seam between the surface and this cavern lies inside it. The map is the one thing that can tell the upper crew where the missing men went. It is also five months of your life reduced to blue wax and black figures.
 
-The cups shift. Flame one leans toward the mountain wall. Nine follows it. The inner flames shorten one after another until the crown seems to bow beneath an invisible palm.
+"Now my hands are empty."
 
-Maelka's fingers tighten on the antler grip. "Last fall."
+"The bridge is still closed."
 
-"Meaning?"
+"You said the case carried fire."
 
-"The air will go down before it comes white. We can walk the downward pull. After that, the white rise lasts three days. Sometimes four."
+"I said it speaks your name."
 
-You lift your water skin. Four swallows, if you lie to yourself about the first two. Maelka has a narrow clay flask tied at her waist.
+You hate riddles most when time is short. "What are you?"
 
-"Enough for four days?" you ask.
+At that, she shifts her feet. One candle gutters, and a bead of wax falls onto her knuckle. She flinches. The movement is small and involuntary. Whatever the crown may be, pain reaches the woman beneath it.
 
-"Enough for my daughter until morning. Enough for me until tomorrow, if I don't speak."
+"I am the reason the far side is still breathing," she says.
 
-"Then come across. I'll use the crown after you."
+The crown moves with her as she kneels. A long outer tine settles into one of the holes in the bridge. Its tip fits exactly. Flame gathers beneath the span, following the antler's shadow upward. You cannot see whether the stone contains a vent, whether the antler opens something, or whether the fire simply knows her.
 
-"There won't be an after. The fall is one crossing long."
+You uncoil your rope.
 
-"Leave it at this end."
+The bridge crosses no more than fifty paces of open gulf. At the center, separate slabs overlap around a thick locking stone. You could loop the bridge, hang beneath its edge, pass under the crowned woman, and climb on the far half. The stone has survived heat that would soften iron. Your rope is braided cave fiber, not hemp, and you have trusted it over longer drops.
 
-"And how does it return for you?"
+"Do not put weight under this bridge," she says.
 
-You do not answer. The bridge is forty-two paces by your estimate, perhaps forty-four if the heat has cheated your sense of scale. A low draft that permits one deliberate pace per breath might give Maelka the ledge and you half the span. Below, either half ends in the same fire.
-
-You suggest cutting away the rear branch so Maelka can turn her head far enough to see the last cups. She says the branch carries four and nine apart; bring them closer and their heat bends each other's flame. You suggest she abandon the crown at the center and crawl the rest. She looks at the glass on your buckle and asks what you imagine a crawl will do when the white ash comes level with the bridge.
-
-"I imagine it gets you to your daughter," you say.
-
-"And leaves you here. No."
-
-The refusal angers you because it spends time, and because it is not yours to overrule.
-
-You uncoil your survey rope instead.
-
-The bridge has squared slots along its edge, narrow but deep. You could fix a loop through one near the center, hang below the stone while Maelka passes above, then climb and continue to the far side. You measure by forearm and knot, subtracting for the rope's singed outer fibers. The arithmetic steadies you. Load, length, hand reach, clearance. A body is awkward, but it can be reduced to what must fit.
-
-"The crown clears me if I'm two arm lengths down," you call. "I only need to hang for six counts."
-
-"What holds the loop?"
-
-You raise the locking hook from your harness.
-
-Maelka gives a flat, immediate shake of her head. "No cool metal."
-
-"The hook is rated for six times my weight."
-
-"Yesterday it was."
-
-You thumb the gate. It moves halfway and jams. Clear glass has grown inside the spring housing. You strike it against the ledge until most of the bloom fractures away, then pull again. The gate closes slowly, leaving a gap the width of a candle wick.
-
-"I can bind it shut," you say.
-
-"With rope shortened by heat. On a slot you haven't sounded."
-
-"The stone is continuous."
-
-"From there?"
-
-You kneel, sight along the bridge, and find the subtle dark lines your confidence had erased: separate slabs nested end to end, each one hooked beneath the next. The center joint is broader because two slabs overlap. You cannot see how deeply. You cannot know which slot belongs to the upper stone and which opens at the seam. Your calculation still has numbers, but no longer has a bridge beneath them.
-
-The cups tremble. One sheds a hot bead of wax onto Maelka's cheek. She does not wipe it away.
-
-"The hanging plan cannot be trusted," you say.
-
-Maelka nods and returns to candle four.
-
-You pull the useless rope through your hands, keeping the stiffened hook away from the stone. Above Maelka's forehead, pale fiber lashings loop through holes bored in the antler. They are old, repaired in three colors. As she tips the frame to pinch a loose wick, your view opens beneath its left branch.
-
-There are two grips there.
-
-One lies under her palm, polished yellow by use. The other faces outward, paired with it across the frame. You trim your lamp by habit before remembering it is dead, then bend close to the firelight. On the other side of the crown, another matched pair gleams between blackened lashings.
-
-"Why are there grips facing both ways?"
-
-Maelka glances at the one beyond her hand. "For lifting it on. For passing it between keepers."
-
-"Has anyone passed it while standing on the bridge?"
+"Then stand aside."
 
 "No."
 
-"The center overlap is wider."
+You work a loop over the near end. The rope's hook is plated in thin glass, but its gate still closes after you strike it twice with your hammer. You test the line with your full weight on the ledge.
 
-"Not wide enough for that rack to pass a body."
+"The last man carried a hook like that," the woman says.
 
-"It doesn't have to pass. We do."
+"Did you stop him?"
 
-You lay your rope along the ledge in a loop the size of the central joint. The sides are the bridge edges. Your folded knife is Maelka; the ruined hook is you. When you try to slide them past each other, they fall from the loop. When you put both beneath the curve of rope and rotate them around the same point, they exchange sides without crossing the boundary.
+"I let him explain."
 
-Maelka watches, expressionless. Then she looks down at the slab under her feet, judging its width with better knowledge than yours.
+"And?"
 
-"Back to back at the turn," she says.
+"I listened until I mistook an explanation for safety."
 
-"Shoulder to shoulder first. You raise the crown. I take the outward grip and turn under the long tine. Then we pivot together."
+Her far side remains hidden behind the crown, but the hand gripping its left branch changes. The thumb presses a scar that circles her wrist like a white cord.
 
-"Your pack catches."
+"He crossed," she says. "By dawn, glass had flowered through the cold shaft. It sealed two chambers before we broke it. The fire took the moving air and climbed inside it. I heard my sister striking the other side of a clear wall until she had no breath to strike again."
 
-You shrug out of the survey pack. It holds your spare lamp oil, map case, and the rope kit. Without it, the far stair becomes harder. With it, the center turn becomes impossible.
+The words carry no ceremony. She might be reciting the dimensions of a grave.
 
-You take the map case and one coil of fiber line. The glass-jammed metal and the rest of the pack you set against the passage wall.
+"One accident does not establish a rule."
 
-"Better," she says. "Your left shoulder still rises when you argue. Keep it down."
+"It established mine."
 
-"I wasn't arguing."
+You lock the rope around your harness.
 
-"Down, Temba."
+The woman lifts candle seven from its clay cup. It continues to burn between her fingers, though grease runs over them. She lowers it near the antler tine seated in the bridge.
 
-You lower it.
+"If you go over the edge, Temba, the rope burns."
 
-They are not instructions you would have devised, but they become a working vocabulary. A number alone means a steady flame. *Toward* and *away* belong to Maelka's body, not yours. *Flutter* means the tip moves but the base holds. *Wild* means wait. *Unseen* means no one moves until an angle changes.
+"You would murder me for a theory."
 
-Maelka calls the cups she can see. You call the cups hidden by the rear sweep of antler. Between changes, she teaches you the bridge's pace: place the whole foot, never test with the toe; bend before lifting, not while the foot is loose; count on the roar's low beat instead of trying to hear each other over its crest.
+"I would keep you from murdering people for a route."
 
-"One steady. Two toward. Three flutter," she calls.
+The charge behind you has not finished with the mountain. A grinding shock passes through the cavern. Pebbles leap on your ledge. The bridge bows, too little for the eye but enough for the rope to twitch against your palm. Far below, whole curtains of flame tilt toward the cold stair.
 
-"Seven away. Eight unseen. Nine steady."
+For an instant the woman is perfectly visible.
 
-"No step. Shift your head left."
+She is not a skull or a shape made of ash. She is a woman perhaps ten years older than you, with cropped hair plastered to her forehead and soot caught deep beside her mouth. The crown's leather band has rubbed the skin above her ears raw. Her eyes are dark, intent, and afraid.
 
-The lost angle returns. "Eight toward."
+Then the flare rises, and shadow takes her again.
 
-"All set. On the low beat."
+"The mountain will bring the roof down," you call. "If that happens while we argue, your bridge dies with me."
 
-The fire gives a sound deeper than the rest. You step onto the bridge as Maelka shifts one foot within the central overlap, making room for your approach without leaving the only place wide enough to turn.
+"It was built to die before what is below can cross."
 
-Heat comes through your boot sole at once. The stone is faintly ridged, each groove worn across rather than along the span. You set your feet into those old marks. Maelka's antlers float above the gulf, dipping as she transfers her weight and braces again. Each step brings the impossible figure nearer and makes her more ordinary: sweat dark at the neck of her tunic, a patched knee, soot in the creases beside her mouth. The wax on her brow has trapped three strands of hair.
+The meaning reaches you as she turns the antler in its socket. A crack opens across the black locking stone at her feet.
 
-It does not make the gulf smaller.
+The crown is not only a warning. It is a key.
 
-The candles begin their announced descent. Flames shrink into the cups as air pours downward. The fire flattens far below, sheet under sheet drawing toward a depth you cannot see. This is the interval Maelka promised.
+You clip the rope and lower yourself over the ledge.
 
-"Now," she says.
+Heat hits the soles of your boots. The endless fire has no smell of wood or pitch, only hot minerals and a sweetness from the candles above. You swing beneath the bridge, catch its rough underside, and move hand over hand. Fine ash rises around you. Wherever it touches the iron parts of your harness, it hardens into clear barbs.
 
-You move on every low beat. At cup six she corrects your *steady* to *slow flutter*. At cup eight you start to say *away*, stop, lean until the wick separates from its flame, and call *toward*. The bridge warms from painful to punishing. Your map case taps your thigh. Maelka's clay flask swings in the opposite rhythm.
+"Climb back," the woman says.
 
-Six paces separate you. Four. Two.
+You keep moving.
 
-At the central overlap, the bridge broadens by less than the width of your hand.
+The first antler tine enters a second socket.
 
-Maelka turns sideways. The antlers sweep across the full stone, points hanging over both edges. Up close, the crown smells of hot tallow, bone dust, and scorched wool. She reaches across herself for the outward grip. You put your right foot beside hers, hip to hip, with both your left feet on opposite slabs.
+The nine flames bow. A thin tongue of fire slips upward, not beside the bridge now but along its underside. It finds the rope ahead of your hands. The fiber darkens.
 
-"Take it," she says.
+You swing hard, reach past the burning place, and seize a stone lip. The rope parts behind your shoulder. Your legs drop into red light. For one terrible count you hang by your left hand while the severed line whips away into the gulf.
 
-Your hand closes on polished antler.
+Your right hand catches the bridge.
 
-The weight surprises you. The crown is not an ornament resting on her skull but a frame braced against a leather band, its balance kept by constant pressure from her wrists. When you take one side, her head lifts a fraction.
+You drag yourself back to the near ledge with two fingers blistered and the iron rings on your harness crusted shut. The crowned woman has not moved from the center.
 
-"Raise on three," you say.
+"I warned you," she says.
 
-"On the low beat."
+"You burned it."
 
-The roar drops.
+"Yes."
 
-Together you lift. Maelka ducks free of the brow band. You turn your lowered head beneath the longest tine, bringing your back toward hers. For one breath, the frame crowns you both, held above your shoulders by opposite grips. One point grazes the wall of heat beyond the bridge and comes back shining at the tip.
+No apology. No triumph.
 
-"One steady," Maelka says. "Two steady. Three toward."
+The candles shorten. Wax that had been running down the cups now crawls upward along the wicks. The fire's roar deepens until the bridge hums.
 
-You scan the other arc. "Seven steady. Eight toward. Nine..."
+The woman's head snaps toward candle one.
 
-Cup nine has vanished behind the longest tine. You can see its glow on the antler and the thread of smoke rising beyond it. The other eight flames hold the pattern for a downward pull. Eight agreements invite the ninth.
+"How long?" you ask.
 
-The word *steady* reaches your teeth.
+She does not pretend not to understand. "Until the white rise? Less than you need."
 
-"Nine unseen," you say.
+"Can your crown shield this ledge?"
 
-The bridge vibrates through all four of your planted feet. Maelka cannot turn without dragging the crown's points over you. You cannot bend farther without lifting your left heel. White begins at the base of cup one.
+"For a little while."
 
-"Hold the frame," she says.
+"Can it shield me?"
 
-She twists her grip inward.
+"If I come to you."
 
-The old lashings draw tight. Antler complains with a dry, fibrous creak beside your ear. Maelka twists harder. A crack races halfway through the long tine, and cup nine swings into the narrow space between it and her shoulder.
+"Then come."
 
-Its flame is low, steady, and bending toward her.
+"The bridge opens behind me, and you run for the stair."
 
-"Nine toward."
+You say nothing.
 
-"Turn."
+"There it is," she says. "The honest part."
 
-You pivot together.
+Your right hand will no longer close fully. You cut the damaged rope away and flex the remaining buckles to break their glass. The map case waits on the ledge, ticking faster. You think of the crew above lowering another man into the cleared shaft tomorrow, then a drill cage next month. You think of pipes laid through this cavern to draw heat. On paper it had been an elegant project: endless power under a mountain already full of old cuttings. No fuel roads. No smoke.
 
-There is no room to think in distances now. Your right heel replaces her left toe. Her hip moves through the space your pack would have occupied. The crown rotates above you, held high enough for bone to clear flesh and low enough that its outer tips do not overbalance you. Your shoulders meet, slide, separate. For half a count you stand back to back with the endless fire on both sides.
+The woman knows the thought by the direction of your eyes.
 
-Then you are facing the far ledge, and Maelka is facing the near.
+"Why did you sound the wall?" she asks.
 
-She lowers the crown onto its band. The cracked tine sags but holds. You release the outward grip.
+"To find the shaft."
 
-"Go," she says.
+"Why?"
 
-You go apart on the same beat.
+"To measure the heat."
 
-Now Maelka sees the forward six and calls their changes for you. You look back over your shoulder to read the three behind her, the ones she cannot see. Distance makes the flames small. Heat makes them swim. You wait for wick and flame to separate.
+"For whom?"
 
-"Seven toward. Eight flutter. Nine steady."
+"People who freeze."
 
-"One steady. Two toward. Three toward. Step."
+"People always arrive shivering. They leave carrying fire."
 
-You step.
+"Heat can be contained."
 
-The white grows from wick bases to flame tips, then stains the air above the gulf. Your buckle makes a brittle clicking sound as new glass seals it shut. You leave it. The far ledge is three paces away. Behind you, Maelka has three.
+She looks at the glass on your harness. You have no answer that does not sound like the ones before.
 
-The roar climbs until her next call reaches you as torn syllables. You see cups eight and nine lean hard toward her spine.
+Candle one turns white at the base.
 
-"Wild!" you shout. "Rear wild!"
+The crowned woman takes the long tine from its socket and stands. "Go into the passage behind you. Lie flat when the rise comes. If the collapse holds, you may have an hour after."
 
-Both of you crouch.
+"An hour for what?"
 
-A first white gust combs over the bridge. It is not yet the full updraft. Ash skates around your boots and plates the abandoned hook on the near ledge in a clear shell. The cracked tine bends. Maelka braces it with one hand, keeping the cups apart with the other.
+"Whatever a man does with his last hour."
 
-The gust falls away.
+"And you?"
 
-"Three toward!" she calls. "Step on low!"
+"I close the bridge."
 
-The fire drops one last note.
+She plants both hands on the crown. Antler tips sink into sockets on either side of the locking stone. The rack now lies across the span like a gate. Each candle burns at the height of her face.
 
-You take three paces without looking at the ledge, because looking would shorten them. Your boot meets level stone. You throw your weight forward and catch yourself on both hands beyond the bridge.
+Your lamp dies.
 
-Across the gulf, Maelka reaches her ledge in the same breath. She sinks to one knee and pulls the crown after her. The fire surges white between you, swallowing every other color. Her mouth moves, but sound is gone.
+The only way left is through her.
 
-You draw the survey hammer from your belt and strike the floor twice.
+You sling the map case across your body. Then you take up the survey hammer.
 
-The blows travel through stone where voices cannot. A pause. Then two answering knocks come up through your palms.
+Her gaze drops to it. "You have measured badly all night."
 
-Maelka is already working. In the candlelight she binds the cracked tine against its neighbor with a spare length of fiber, quick pulls made clumsy by exhaustion. When it will bear its own weight, she sets the crown upright and turns toward the dark passage and the shelter door beyond it. The nine lights recede, one lower than the others, until the mountain takes them.
+"Move."
 
-You unfasten your harness by cutting the strap beside the glass-locked buckle. The rope, hook, spare oil, and careful instruments remain across the gulf with the route that no longer exists. Your waxed map says nothing about what waits ahead.
+"No."
 
-Beyond the far ledge, you find the first step of the ventilation stair with your boot. The stone above it gives no light. It gives only a cool draft moving down against your face.
+You step onto the bridge.
 
-You test the step with your full weight, then climb into the dark while the fire goes on below.
+The stone is hot through your boots. Three candles lean toward you and six toward the fire; you remember the pattern that came before the straight flare. You advance when the flames flatten, stop when they lift. The woman waits at the center, hands wide on the antlers.
+
+When twenty paces remain, she twists the crown. Fire climbs the right edge of the bridge. You throw yourself left, one boot half over emptiness, and keep moving.
+
+At twelve paces she lowers her head. The antlers turn every gap into a point. There is no space beside her, none beneath her, and no room for you to swing the hammer without giving the fire your balance.
+
+"You can drop the bridge," you say. "But you're standing on it."
+
+"My stone stays."
+
+You look past the candle glare. The locking stone is cut in two layers. Her feet are on the far slab. Yours are on a chain of near slabs held by the black wedge between them.
+
+She has told you the truth.
+
+"Give me your name," you say.
+
+The request surprises her.
+
+"If you kill me, I want a woman's name, not a crown."
+
+Wax strikes her cheek. She does not wipe it away.
+
+"Maelka."
+
+Now that you have it, she seems more dangerous, not less.
+
+"Maelka, I am not going back."
+
+"Then you have chosen the fire."
+
+You rush her.
+
+She turns the crown.
+
+The locking stone drops.
+
+The bridge comes apart under your feet, slab after slab tipping into the gulf. You run on falling ground. One step exists long enough to take your weight; the next rolls as you leave it. Fire opens between the joints in white columns.
+
+Maelka's antlers fill your sight.
+
+You swing the hammer at the lowest tine. She jerks the crown aside. Iron grazes bone, throwing a spark. A clay cup breaks. Burning wax spills across her shoulder, and she cries out, a human sound torn thin by the roar.
+
+The last near slab falls.
+
+You jump.
+
+Your chest strikes the far edge. The hammer leaves your hand. Your legs swing over the endless fire, and the iron map case slams against the stone below Maelka's feet. One of her hands closes around your wrist. The other braces the crown, which has twisted sideways on her brow.
+
+Only now are you close enough to see the cords working in her neck. Blood runs from a cut beneath the leather band. Her breath smells of smoke and bitter leaves. She is a woman. You are still not certain she is only that.
+
+Below you, the map case shines.
+
+Glass branches race over it, join the plated rings of your harness, and climb. They do not climb toward your body. They reach past you, thin clear fingers stretching toward Maelka and the cold stair behind her. Fire moves inside them, red as blood behind skin.
+
+All the crown's remaining candles lean toward your chest.
+
+Maelka could release you. Her grip tightens instead.
+
+"Empty yourself," she says.
+
+You claw at the harness buckle. Glass has locked it. Your burned fingers slip.
+
+"The knife," she says. "Left boot."
+
+You drag out your black-glass survey knife and saw through the shoulder strap. The case and harness hang from the waist belt. Fire enters the clear branches one joint at a time. Heat presses through your clothes.
+
+"Faster."
+
+"The belt is iron-tongued."
+
+"Then cut yourself out of it."
+
+You slice leather. The harness falls away, but the map case remains slung across your throat.
+
+You drag its strap over your head. For a moment the case hangs from your free hand. Inside it are the blue route, the figures, the proof that you were right about the cold shaft. There is enough there for another crew to find a different descent. Your fingers close around the strap.
+
+Maelka sees.
+
+"I cannot hold both the man and his road."
+
+The glass reaches for her wrist.
+
+You let go.
+
+The iron case falls without turning. The fire receives it far below, a black fleck vanishing into brightness. The clear branches snap. Six candles on Maelka's crown stand upright. Two pull weakly toward your boots.
+
+She pulls.
+
+You kick against the broken edge and come over it on your stomach. Maelka drags you until your boots are on sound stone, then lets you lie there while the white rise fills the gulf.
+
+The remaining bridge vanishes in light. Ash strikes the crown and melts into its wax, plating the antlers in a translucent skin. Maelka kneels over you with her head bowed against the weight. Each candle burns within a small clear hollow. Her arms shake. Whatever power you imagined in her has a woman's muscles beneath it, and those muscles are near their end.
+
+The flare subsides. Where the bridge stood, there is only open fire.
+
+You have crossed.
+
+Maelka sits back. One branch of the crown is cracked where your hammer struck it. The empty clay socket leaks wax down her shoulder. She touches the cut at her brow, examines the blood on her fingers, and looks at you.
+
+"I told you no."
+
+"You pulled me up."
+
+"The road fell first."
+
+Behind her, the cold stair waits. It is close enough to touch. You have no map, no hammer, no rope, no lamp, and no iron except two boot nails you begin prying out with the black-glass knife.
+
+"Will the fire follow those?" you ask.
+
+"The candles will tell me."
+
+"And if they lean?"
+
+"You have seen the answer."
+
+You remove the nails and set them at the broken edge. They tumble soundlessly into the light.
+
+The last two flames rise straight.
+
+Maelka takes a candle stub from a waxed pocket and lights it from a wick protected inside the crown. She fixes the stub into the cracked cup with wax from her own cheek. The act is practiced, almost ordinary. This, more than the fire, convinces you that she has stood here before and expected to stand here again.
+
+"What happens to me now?" you ask.
+
+"You walk ahead. You keep your empty hands where I can see them. You tell my daughter why part of the mountain fell."
+
+There is no welcome in it. There is passage.
+
+You enter the stair. Maelka follows close enough that the antler points throw nine narrow shadows past you onto the wall. One shadow moves when none of the candles do. You decide not to look back a second time.
+
+Below, deep beneath the mountains, the endless fire burns against an empty gulf. It has lost your map. Maelka has not lowered her crown.
