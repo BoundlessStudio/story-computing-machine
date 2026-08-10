@@ -7,7 +7,7 @@ Verdict: PASS
 | Noun | Status | Continuity note |
 | --- | --- | --- |
 | Nevenra | new | Young route-holder; no exact, alias, close-spelling, or confusing reuse found. |
-| Caldren | new | Senior navigator and Nevenra's teacher; near form `Caldrin` is only an explicitly released baseline reservation, with no story-facing reuse. |
+| Caldren | new | Senior navigator and Nevenra's teacher; no exact or alias reuse. Near forms `Caldrin` (a released baseline reservation), `Maris Calder`, and `Quiet Caldera` remain distinct in story-facing use and role. |
 
 ## Places
 
@@ -24,4 +24,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The bounded, nonliving archive and undated Latsara remain story-local; the refusal's material cost and Caldren's continuing dissent preserve causality, agency, and the prompt's intended tension.
+- Notes: The route-song fragments make both navigation and contested testimony legible; the bounded, nonliving archive remains story-local, the refusal causes concrete work without settling the disputed history, and Caldren retains independent dissent and post-choice agency.
