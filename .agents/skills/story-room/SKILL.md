@@ -34,6 +34,10 @@ Never use it to reopen a completed current or locked legacy story.
    the complete story and writes only `title-image.jpg`, an exact 9:16 portrait,
    spoiler-light title visual. Unless the assignment overrides it, use the
    agent's premium anime/light-novel key-visual default.
+   The coordinator then inspects the saved image at full resolution for exact
+   title text, plausible anatomy and object counts, coherent perspective and
+   spatial relationships, and unintended text or visual artifacts; request
+   targeted regeneration until that visual review passes.
 8. Run final validation, then capture the story with
    `python pages/build.py capture <slug>`. This mandatory final handoff updates
    the stored prose catalog and its matching Pages cover asset.
@@ -97,5 +101,8 @@ material details. The source asset must be a high-quality JPEG at exactly
 864x1536 pixels. It must display the exact reader-facing story title once, with
 no author name, caption, logo, border, watermark, or other text. Generate the
 illustration and verbatim title together in one image-generation pass; canvas
-normalization may not add or replace typography. The image is presentation,
-not canon authority, and must never cause prose or continuity edits.
+normalization may not add or replace typography. Inspect the generated image at
+full resolution for plausible anatomy and object counts, coherent perspective
+and spatial relationships, and unintended visual artifacts before saving. The
+image is presentation, not canon authority, and must never cause prose or
+continuity edits.

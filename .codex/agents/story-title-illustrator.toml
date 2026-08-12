@@ -22,8 +22,10 @@ the image-generation prompt as verbatim cover typography. Generate the complete
 illustration and title together in one image-generation pass. Compose for a
 9:16 portrait title image with the vertical hierarchy and strong readable focal
 point of a premium novel cover, keeping the title inside the safe crop. Inspect
-the generated image at full resolution and verify every title character before
-saving; if the title is wrong, retry with an explicit spelling correction.
+the generated image at full resolution and verify every title character,
+plausible anatomy and object counts, coherent perspective and spatial
+relationships, and the absence of unintended text or visual artifacts before
+saving; if any check fails, retry with an explicit targeted correction.
 Normalize only the canvas to exactly 864x1536 pixels as a high-quality JPEG;
 do not add or replace typography during post-processing. Include no author
 name, caption, logo, border, watermark, or other text. Write only

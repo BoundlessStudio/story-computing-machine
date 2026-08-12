@@ -86,6 +86,10 @@ one named stage.
    reads the complete final prose and writes only the spoiler-light 9:16 title
    visual. Unless the prompt says otherwise, use the repository's premium
    anime/light-novel key-visual default defined in that agent.
+   The coordinator must then inspect the saved image at full resolution for
+   exact title text, plausible anatomy and object counts, coherent perspective
+   and spatial relationships, and unintended text or visual artifacts; delegate
+   targeted regeneration until that visual review passes.
 8. Run `Test-Stories.ps1 -Phase Final` locally, capture the story with
    `python pages/build.py capture <slug>` once, and run
    `python pages/build.py check`. Stage the story's four Markdown files together
