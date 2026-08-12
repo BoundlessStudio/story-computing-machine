@@ -6,9 +6,9 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Maledict | new | Villain identity; no exact, alias, close-spelling, or confusing reuse found. |
-| Pickle | new | Brightguard's household name for Maledict in dog form; this alias names the same person and has no exact, close-spelling, or confusing reuse. |
-| Brightguard | new | Hero title and homeowner; no exact, alias, close-spelling, or confusing reuse found. |
+| Maledict | new | Villain whose mind occupies Pickle's body; no exact, alias, close-spelling, or confusing reuse found. |
+| Pickle | new | Brightguard's established living dog, distinct from Maledict; no exact, alias, close-spelling, or confusing reuse found. |
+| Brightguard | new | Older contemporary hero and Pickle's owner; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
@@ -25,4 +25,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The Tri-City Area is explicit, Maledict's fortress is consistently a modern skyscraper, Brightguard is visibly older and equipped as a contemporary superhero, and Pickle's white forepaw is explicitly natural fur rather than clothing. The local transformation preserves Maledict's identity and agency; the comic infiltration sustains its generating force through his chosen concealment, and the ending grows from the story's accumulated comforts without a moral coda.
+- Notes: The opening immediately establishes the fourteen-hour body swap between Brightguard's already-pampered dog and Maledict. Brightguard's escalating habit corrections sustain the comedy; Maledict reaches his intended crime, then deliberately refuses reversal for Pickle's established luxury. Pickle remains alive, unharmed, dog-minded, and cared for in Maledict's safe human body, while only the unnamed butler knows the private outcome and the public and heroes keep searching. The Tri-City Area, modern skyscraper, older contemporary Brightguard, and natural white-fur forepaw are explicit, and the ending grows from the accumulated comforts rather than adding a coda.

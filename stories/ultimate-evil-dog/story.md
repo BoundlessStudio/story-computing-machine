@@ -8,356 +8,268 @@ canon: false
 
 # A Very Good Dog
 
-Maledict had calculated that he needed to be a dog for fourteen hours.
+Pickle, alive and delighted inside the adult human body of the most feared villain in the Tri-City Area, galloped on hands and knees across the black-glass floor of Maledict’s skyscraper laboratory with the butler’s left shoe in his teeth. The butler caught him around the waist an instant before he charged headfirst through a rack of humming weapons. At the same time, on the other side of the paired silver circles, Maledict stared down at Pickle’s rough brown legs, one forepaw naturally white with fur from ankle to toes, and reminded himself that the indignity would last exactly fourteen hours.
 
-Three hours to wait beside Brightguard’s route home. Two to endure whatever precautions she considered prudent. Eight to permit the household to settle. One to kill her, recover the counterseal from the secure compartment beside her bed, resume his proper shape, and leave before dawn.
+“Sir,” said the butler, wrestling eighty gleeful kilograms of Maledict away from an armed security drone, “your body is trying to fetch the surveillance equipment.”
 
-Fourteen hours of humiliation purchased a century of dominion. It was an excellent bargain.
+The human body barked. No sound came out but a hoarse, delighted *ha!* Pickle dropped the shoe, slapped both hands on the floor, and lunged after the drone.
 
-He stood naked in the sealed penthouse laboratory of his fortress, a fortified glass-and-steel skyscraper above the Tri-City Area. Armored server racks blinked behind one-way partitions. Private elevators dropped past command floors, drone bays, and enough reinforced concrete to survive anything the three cities could throw back at him. On a graphite workbench lay a black polymer collar, its smart buckle concealing a tracking rune that led nowhere useful. Beside it waited a glass bead no larger than a peppercorn and a ceramic override strip thin enough to hide inside a false dewclaw. One crack of the bead in Brightguard’s bedside water and the greatest obstacle to his design would never wake. With her counterseal in his possession, nothing would prevent Maledict from opening the seven storm vaults above the Tri-City Area.
+Maledict attempted to say, *Then fly it higher.* His new mouth produced a rusty woof. His tail thumped the base of a machine that could remove a city block from history.
 
-He tucked the bead into a narrow pocket he had shaped behind his right molar, spoke the ninety-nine names of surrender backward, and changed.
+Fourteen hours. That was all.
 
-The world leaped at him through his nose.
+The butler had the reversal instructions. At midnight, he would stand Pickle-in-Maledict inside the penthouse circle. Maledict would bite and hold the silver activation plate folded against the inside of Pickle’s collar. Both halves had to engage during the same thirty-second window. The butler could prepare the circle, restrain the dog-minded man, and send the signal, but he could not press Maledict’s plate for him.
 
-Disinfectant. Hot circuitry. Metal. His own old blood on the surgical blade. Mice in a cable chase, three of them, one ill. Lubricant in the elevator rails. Rain beginning over the western expressway. The smells arrived with the force of accusations, each insisting it mattered.
+Maledict had designed it so no subordinate could steal his body. At present, this seemed less like genius.
 
-Maledict planted four paws on the polished concrete and remembered that none of it did.
+The butler recovered his damp shoe. “The pet shuttle is waiting, sir. I have placed the poison capsule and lock override in your collar. Press the counterseal to the override, and its live code will transmit here. Three hours to settle into the target’s home, eight for the household to quiet, one for the operation, and two in reserve. Then you activate the plate. Midnight precisely.”
 
-He had selected the body with care: medium-sized, brown, rough-coated, neither pitiful nor expensive, with amber eyes and one forepaw naturally white from ankle to toes. The body was not an illusion. Brightguard’s wards stripped glamours from bone and burned possession spells out of living flesh. So Maledict had built himself bone by bone into a genuine dog, carrying his memory and will inside it. The change had cost him nine months and the lives of several rare orchids. Reversal remained available. Beneath the left foreleg, where teeth could reach, a seed of silver rested under the skin. Bite hard enough to break it and his true shape would return. The override strip sat inside the hollow sheath of his right dewclaw, close enough for his teeth to draw it out.
+Pickle bounded onto a steel console in Maledict’s body and began trying to catch his own reflection in the dark window. Forty-nine stories of glass-and-steel fortress glittered around him. Maledict lifted his white forepaw with as much dignity as it allowed.
 
-He tried the collar buckle. His paw pushed it three inches across the table.
+Fourteen hours later, he would be human again. Brightguard would be dead. Her counterseal would be his. No one would ever laugh about the ultimate evil learning to sit. His tail struck the machine again.
 
-This was within projections.
+The automated shuttle delivered him to Brightguard’s townhouse at ten thirty, exactly as it had delivered the real Pickle after every scheduled grooming appointment for six years. The front gate scanned his face, his collar, and the pad of his white forepaw. Green lights rippled along the path. Maledict walked straight into the home of his oldest enemy.
 
-He tried again, using both forepaws. The collar slid off the edge, struck the floor, and rang like a tiny gong.
+The townhouse was all clean concrete, warm timber, and broad windows facing the city. A rescue drone rested on a charging rail above the entry. Compact emergency shields hung among ordinary coats. On a bench lay Brightguard’s silver-and-blue field helmet, its visor still scrolling air-quality figures.
 
-Also within projections.
+Brightguard herself came down the open stairs fastening the cuff of a contemporary rescue suit. She was older than Maledict by a decade and looked stronger for it: silver at both temples, laugh lines around alert eyes, and the relaxed balance of someone who had caught falling trains without needing to pose afterward.
 
-Getting it over his head required twenty-seven minutes and language for which the canine throat was sadly inadequate. When it was done, he regarded himself in the lab’s full-length inspection mirror. The dog in it panted. Maledict closed the dog’s mouth. The tail continued moving.
+“There you are,” she said.
 
-“Fourteen hours,” he attempted to say.
+Maledict braced for interrogation.
 
-“Hrrr-woof,” said the architect of the coming age.
+She planted her feet and patted her left thigh twice.
 
-At his collar’s encrypted pulse, the laboratory sealed itself and the service elevator opened. Maledict padded inside. Forty-eight floors of his own operations slipped past in steel silence before the doors released him into the secured underground garage. He went to destroy Brightguard.
+He had studied floor plans, thermal cycles, patrol routes, password changes, grocery deliveries, and the maintenance records of every drone in the building. He had not studied two pats on a thigh.
 
-***
+Brightguard waited. He chose a respectable compromise and sat.
 
-By late afternoon, rain had soaked Maledict through.
+“Pickle.” Her smile bent sideways. “Home means white paw, then red ball. You know that.”
 
-He lay in a weedy drainage strip beside the bike lane behind Brightguard’s townhouse, because a muddy stray appearing on her smart doorbell would look arranged. He had chosen a patch of nettles for authenticity. The nettles had ceased to improve the deception some time ago.
+She held out her hand. Something in his borrowed shoulder moved before he decided. His white forepaw landed in her palm. Motor memory: an irritating residue the exchange had carried along with balance, gait, and the location of an itch behind his left ear.
 
-He heard Brightguard before he saw her: tactical bootheels dragging on wet pavement, a comms earpiece murmuring beneath the rain, the soft knock of a compact rescue kit against one armored thigh. She came around the corner with her lightweight mask folded back and rain shining on cropped dark hair threaded silver at the temples. Fine lines bracketed her eyes. The reflective piping of her impact-resistant patrol suit had been burned away along one forearm, but she moved with the economical caution of someone who had spent decades walking out of disasters. Soot striped one cheek.
+“There’s my boy.”
 
-She stopped when she saw him.
+Maledict reclaimed his paw. The red ball lay in a basket beside the door. He picked it up, set it neatly at her feet, and looked up for confirmation.
 
-Maledict lowered his head and performed the precise tremble he had rehearsed.
+Brightguard blinked. “You never hand it over. I have to chase you around the kitchen.”
 
-“No,” Brightguard said.
+First error, and he was not fully inside. He snatched the ball and bolted. Brightguard laughed and pursued him past the stairs. He hated the absurdity until she feinted left, he cut right, and the dog body executed a perfect skid beneath the dining table. The red ball squeaked between his teeth. Brightguard pointed at him from the other side, breathing hard and grinning.
 
-He had prepared for suspicion. He had not prepared for her to step around him.
+“Cheat,” she said fondly.
 
-The great hero made it six paces. Then she stopped, looked up at the rain as if appealing a sentence, and came back.
+He won in twelve seconds. He did not return the ball for four minutes.
 
-“You may be bait,” she told him. “You probably have fleas. I have had a long day and dislike both possibilities.”
+Brightguard’s command wall filled the living room with maps and emergency feeds while she unfastened pieces of her rescue gear. Municipal crews searched a damaged transit tunnel. News panels carried the same urgent banner: **Maledict missing after unexplained energy event. Public advised to report unusual activity.** His organization had canceled its noon ultimatum. Hero channels, police networks, and three amateur tracking groups all admitted they could not locate him.
 
-Maledict widened his eyes.
+Maledict sat beneath the command wall and felt tremendously clever.
 
-“That is unfair.”
+“Snack?” Brightguard asked.
 
-She crouched beyond biting range, unclipped a compact threat scanner from her utility harness, and passed two fingers through a sequence of signs over its lens. Pale light threaded the rain between them. It found no hidden human shape because Maledict wore none, no leash of compulsion because his will was his own, no disease, no active curse. The light did pause at the collar.
+She opened a cabinet bearing a small painted paw. Inside, clear containers stood in labeled ranks: liver buttons, salmon twists, dental braids, frozen pumpkin cubes, emergency cheese. This was not a random supply. It was an arsenal of indulgence.
 
-Brightguard’s tiredness vanished. Her hand moved once, and a clear shell snapped around him.
+Brightguard selected a liver button. “Your favorite.”
 
-Maledict could have broken it. Doing so would compromise the operation.
+The smell struck Maledict like a warm fist. He turned his head away.
 
-She hooked the collar off with the telescoping probe from her kit, sealed it inside a silver-lined evidence pouch, and scanned it. “Terrible work, whoever did this. The tracking knot feeds back into itself.”
+“You love liver.”
 
-Precisely. Let her waste the evening tracing it.
+He kept his nose pointed at the ceiling.
 
-She clipped the pouch to her harness and tagged it for remote analysis on her phone.
+Brightguard crouched and inspected his muzzle. “You once opened a latched picnic cooler for these.”
 
-Maledict stared at nine months of elegant false spoor reduced to a blinking case number.
+Her fingers moved beneath his jaw, gentle but methodical. She checked gums, eyes, ears. Maledict endured it until he saw a cucumber slice on her lunch plate. He had eaten cucumber at state dinners. Cucumber was civilized.
 
-“Come on, then,” Brightguard said. The shell vanished. “One night. In the washroom. Tomorrow I find out whether anyone has lost you.”
+He stole it.
 
-He remained motionless for two seconds, so she would not think him overeager.
+Brightguard froze with one hand inside his ear. “You spit cucumber behind the radiator.”
 
-Then the smell from the paper parcel under her arm reached him: roasted chicken, pepper, and something sharp with vinegar.
+It was crisp, cold, and magnificent. He stole a second slice.
 
-He followed.
+Her health app came out. A blue diagnostic fan swept from his nose to his tail. Maledict’s collar warned him with a silent vibration that deeper imaging would find the poison capsule and override key.
 
-Brightguard’s back gate was powder-coated steel with an integrated ward contact and a camera above the latch. When she opened it, the threshold scan crawled over Maledict’s skin like warm ants. It found a dog and admitted one. Beyond lay a small, untidy yard, a kitchen door, and six windows he had memorized from stolen plans. The bedroom was upstairs at the rear. The counterseal sat in a flush wall compartment beside the bed.
+He seized the liver button from the floor and swallowed.
 
-Brightguard set the parcel on an outdoor table while she unlocked the kitchen. A green slice rolled from the paper, struck the boards, and landed by Maledict’s foot.
+His dog tongue informed him that his human judgment had been catastrophically wrong. Salt, iron, fat, smoke: the button vanished in one blissful gulp. His ears lifted. His tail betrayed him with such force that it slapped Brightguard’s knee.
 
-He did not eat scraps from the ground.
+She lowered the scanner. “Okay. Appetite’s fine. Opinions are apparently under renovation.”
 
-The vinegar sharpened every edge of the rain-washed world.
+Maledict stared at the cabinet.
 
-He ate it.
+“One,” she said.
 
-“Pickle,” Brightguard said.
+He sat without being asked.
 
-Maledict looked up.
+“Shameless.” She gave him another.
 
-“You need something until morning.”
+Across the Tri-City Area, the butler removed a fist-sized black crystal from Maledict’s human mouth.
 
-He followed her inside to correct this insult by murder.
+“No, sir,” he said. “That is a forbidden artifact. It is also sharp.”
 
-***
+Pickle crouched behind Maledict’s desk, grinning with all the villain’s teeth. He slapped one hand on the carpet, inviting pursuit.
 
-The bath was strategically unnecessary.
+The penthouse outside the laboratory had been designed to intimidate diplomats: long planes of black stone, a sunken audience chamber, and windows that made the city appear small enough to pocket. The dog in Maledict’s body had already overturned the throne, drunk from a decorative fountain, and discovered that the security drones fled when chased.
 
-Brightguard disagreed. She carried him through the kitchen while he went rigid with dignity, deposited him in the deep composite utility sink in the washroom, and closed the door. He inspected the latch. Lever handle, easily depressed in human form. His paw slipped off it twice.
+A command call flashed on the wall. The butler straightened Maledict’s collar, guided him into the throne, and arranged a desk high enough to hide his hands. Pickle immediately put his chin on it.
 
-Behind him, water hissed from a pull-out sprayer.
+Six silhouettes appeared on the screen. “Our master remains in strategic seclusion,” the butler announced.
 
-Maledict turned. Brightguard had peeled the scorched half of her patrol suit to her waist but kept her gauntlets on and a compact pulse emitter clipped at her hip. Good. Caution suited her. He would regret extinguishing such a formidable enemy for nearly a minute.
+One silhouette asked for proof of life. Pickle’s borrowed fingers rose. For one promising second, human motor memory arranged them into Maledict’s dreaded gesture of dismissal. Then he spotted the butler’s recovered shoe and crawled under the desk after it.
 
-“If you are an assassin,” she said, testing the water with her wrist, “this is going to be embarrassing for one of us.”
+The butler blanked the screen. “His displeasure is extreme.” He ended the call before Maledict’s body emerged with the shoe.
 
-His gaze flicked to the silver seed beneath his foreleg. One bite. Then a human hand around her throat before she could shout.
+At the townhouse, Maledict followed Brightguard upstairs to locate the counterseal. She went into a tiled washroom. He followed, distracted by the open door and the chance to study the bedroom beyond.
 
-Fourteen hours, he reminded himself.
+Brightguard turned on the tap. Maledict jumped into the shower.
 
-She lifted him into the sink.
+It offered the best angle on the hall: bedroom to the left, equipment closet to the right, a reinforced panel beside the bed. He examined the drain, then noticed Brightguard staring.
 
-Water closed around his feet, warm enough that every muscle in his new body reconsidered its loyalties. Brightguard worked soap into his coat. Mud curled away in brown ribbons. Her fingers found the dense fur behind his ears, and something inside his skull loosened so suddenly that his back foot kicked the sink.
+“You hate baths,” she said.
 
-They both looked at it.
+He stepped out.
 
-Maledict stopped the foot.
+“You hide behind the couch when I say *bath*. Last month you pretended to be asleep in the laundry hamper.”
 
-Brightguard rubbed the same place again.
+Maledict climbed back into the shower. Consistency after discovery was a form of strength.
 
-The foot resumed.
+Brightguard folded her arms. “All right. Bath.”
 
-“A vulnerability,” she said gravely. “Useful to know.”
+Ten minutes later, he stood in warm water while massaging jets worked dust from Pickle’s coat. Brightguard scrubbed behind his ears with unscented shampoo and told him, in exacting detail, what a confusing animal he had decided to become. Maledict had endured volcanic prisons, hero tribunals, and the collapse of a moon base. None had included a rubber mat heated to the ideal temperature for his paws.
 
-He fixed her with a promise of annihilation. Soap slid down his nose. He sneezed in her face.
+Afterward she wrapped him in a towel from a warming drawer. “Do not tell anyone about this,” Maledict tried to say.
 
-She laughed. Not the polished laugh she used after a live-broadcast rescue or a televised evacuation. This was one startled bark, gone almost before it happened.
+“Rrrr-ow.”
 
-Maledict hated it. He hated the bath, the name Pickle, and the clean warmth creeping under his ribs.
+“Yes, terrible bath. You volunteered.”
 
-The drying was worse.
+Downstairs she brushed him on an elevated grooming platform while reviewing rescue alerts through one lens of her visor. The brush reached the itch behind his ear. His back leg began hammering the platform.
 
-Brightguard wrapped him in two towels and rubbed until the world became linen, friction, and hands. He endured thirty seconds before leaning, by accident, into the pressure. She scrubbed his cheeks and chest. He leaned harder. The towel moved down his spine. His eyes closed.
+“Still you in there somewhere,” she murmured.
 
-This was not pleasure. It was the maintenance of an asset in hostile territory.
+The words should have alarmed him. Instead, they settled with the brush strokes.
 
-When she stopped, he pushed his head under her hand.
+She led him to a nook beneath the stairs. Pickle’s bed occupied nearly all of it: deep memory foam, raised edges, an orthopedic slope beneath the hips, and a slate-blue blanket worn soft in one round patch. A thermostat on the wall read **PICKLE FLOOR: 27°**. Beside the bed waited the snack cabinet, three water bowls of different depths, and a drawer full of toys.
 
-Brightguard’s fingers settled on his ears. “You are very bad at being mysterious.”
+Maledict stepped onto the bed.
 
-Maledict opened his eyes.
+Warmth rose through his paws. The foam yielded under his ribs and supported every joint. He circled once because the body wanted to, twice because the blanket improved when pushed into a ridge, and a third time for reasons he refused to examine. He lay down.
 
-The washroom control panel flashed blue and started the exhaust fan at full speed. Brightguard jerked her hand back.
+Brightguard sat beside the bed and resumed brushing him. She did not demand intelligence, victory, or terror. She removed a burr from his shoulder.
 
-“Ow.”
+Maledict had never understood why heroes built homes with so many soft surfaces.
 
-The transformation had one minor flaw. His coat accumulated harmless static and discharged it into capacitive controls. Three laboratory tablets had woken under his fingers during testing before he moderated the effect. Apparently, rain and towels aggravated it.
+He slept for forty-three minutes.
 
-Brightguard took an anti-static grooming brush from a cabinet and ran its carbon-fiber back along him. The charge crackled into the steel rim of the sink. “There. An ordinary nuisance.”
+At four, Brightguard rolled the red ball toward the hallway and said, “Orbit.” Maledict watched it bump against the wall.
 
-No one had called any part of Maledict ordinary since he was seventeen.
+“You love orbit.”
 
-It was oddly difficult to object.
+She rolled it again. The ball curved along the baseboard and vanished around the kitchen island. Pickle’s body knew the route; Maledict did not let it move.
 
-***
+“You never ignore orbit.” Worry had replaced amusement in her voice. “Pickle, middle.”
 
-She fed him chicken in the kitchen, first examining each piece for bones. Maledict intended to eat only enough to sustain the disguise. The dog’s stomach, empty since dawn, possessed simpler ambitions.
+He went to her left side, the disciplined position used by Maledict’s attack hounds.
 
-He swallowed the first piece without chewing.
+“You never heel unless there’s traffic.” She tapped both thighs. “Middle.”
 
-Brightguard raised an eyebrow. “Slowly.”
+The health scanner came out again. Motor memory saved him. His paws carried him between her legs. He looked up. Brightguard’s hand landed on his head, relief loosening her face.
 
-He swallowed the second piece faster.
+“Good dog.”
 
-She put a hand over the bowl.
+He disliked how much he liked that.
 
-Maledict knew seven ways to remove it, none available without ending the infiltration. He sat. He produced a low, commanding sound.
+She sent the ball around the island once more. This time he ran. It became a contest against angles, cabinet legs, and the red blur’s maddening ability to escape under a stool. Brightguard changed each throw. Maledict calculated each interception. Pickle’s muscles supplied the turns his mind demanded. By the ninth circuit, Brightguard had abandoned her worry and was laughing again. By the twelfth, Maledict forgot the scanner entirely.
 
-“That does not work on me.”
+The butler’s first message pulsed against the collar at eleven fifteen.
 
-It had worked on prime ministers.
+**Return circle prepared. Subject safe. Window in forty-five minutes.**
 
-She uncovered the bowl when he stopped growling. He ate with enough restraint to avoid choking, which was not the same as obedience. Fat, salt, hot meat, and crisp skin filled his mouth. He had attended private launch galas with conquest plans projected across entire walls. He had eaten white fruit couriered through a gate that opened once every hundred years. None of it had demanded his entire attention the way a strip of chicken did now.
+At the skyscraper, “subject” was stretched full-length on a laboratory rug in Maledict’s body while the butler rubbed his stomach. This had proved the sole reliable method of keeping the ultimate evil still. Pickle’s human heel drummed against the floor. Each time the butler stopped, Maledict’s hand pawed at his sleeve.
 
-Brightguard sat at the kitchen table with her own meal and a secure video window open on her phone. A pinched municipal emergency coordinator in a reflective response jacket occupied the screen.
+Around them, preparations for the reversal gleamed. The paired circle was charged. The throne room doors were locked. Every weapon console had been covered with a temporary steel hood. A bowl of food safe for a dog mind in a human digestive system sat on the floor, because plates had become projectiles.
 
-“No movement at the western vault,” he reported. “His lieutenants are claiming seclusion, but none have received orders. We found two captains fighting over a key.”
+“At midnight,” the butler told Pickle, “your owner-by-theft will activate his collar. You will stand here, and both of you will return to your proper bodies.”
 
-Maledict paused over the bowl. Excellent. Uncertainty was spreading on schedule.
+Pickle rolled over and licked his face with Maledict’s tongue. The butler removed his glasses and cleaned them for a very long time.
 
-“And the river wards?” Brightguard asked.
+At eleven fifty, Brightguard went to bed.
 
-“Holding. If Maledict has the opening rite, he still needs your counterseal.”
+Pickle’s established bedtime, Maledict had learned, involved a final trip to the courtyard, half a dental braid, three laps around the heated bed, and an absolute refusal to climb the stairs after dark. Brightguard pointed to the nook.
 
-“Then let him come.”
+“Bed.”
 
-He was beneath her table, licking grease from a chipped blue bowl.
+Maledict went to the nook. He waited until her door closed, then removed the lock override from the collar with his teeth and padded upstairs.
 
-The perfection of it sent a thrill through him. His enemies searched secure bunkers, transit tunnels, and dead-drop servers. His own personnel watched an empty command chair. Terror enlarged him even in absence.
+The reinforced panel beside her bed recognized Pickle and opened its outer pet-safe layer. The inner lock was made for human intruders, not a key carried under a dog’s tongue. It clicked.
 
-Brightguard’s boot rested near his nose. Leather, rain, smoke, the faint mineral smell of old spell-burns. Without thinking, Maledict placed his chin across it.
+Inside rested the counterseal: a palm-sized disk of pale alloy able to cancel the safeguards on Maledict’s buried engines. Without its live code, his grandest weapons remained dormant. Beside it sat Brightguard’s emergency beacon.
 
-The video conference continued above him. Reports. Failed searches. Three supposed sightings, all fools in replica masks. Brightguard ate, occasionally lowering a piece of chicken beneath the table without looking.
+He took the disk gently between his teeth. One touch against the override under his collar would copy its changing code to the skyscraper and make the counterseal his without requiring him to carry metal through a mind swap.
 
-Maledict accepted them because refusing would attract notice.
+The poison capsule slid from its collar slot with pressure from his claw. One bite would crack it. One touch against Brightguard’s skin would do what fourteen years of machines and armies had failed to do. This was not a theatrical rehearsal. The poison was real. The counterseal was his. Brightguard slept three steps away, one hand beneath the pillow, silver hair bright against the dark fabric.
 
-By the time the phone screen darkened, his eyes were half closed. He had not issued a command in hours. No operations chief awaited his judgment. No analyst watched his face for signs of displeasure. The world remained afraid without requiring him to do anything at all.
+His collar warmed. Midnight.
 
-Brightguard shifted her foot. Maledict grumbled and tightened his chin across it.
+The silver activation plate hinged inward against his neck. To return, he had only to set down the counterseal, catch the plate between his rear teeth, and hold until the pulse completed. Across the city, the butler would already be guiding Pickle into the paired circle.
 
-“Is that so?” she said.
+Maledict placed one paw on the edge of Brightguard’s mattress. Her eyes opened. He froze with the counterseal in his mouth and the poison capsule beneath his white paw.
 
-It was temporary, he told himself. Fourteen hours.
+“Pickle?” Sleep roughened her voice. She pushed herself onto one elbow. “You never come upstairs at night.”
 
-Then she threw a red rubber ball down the hall.
+The collar pulsed once. Brightguard looked at the open compartment, but from her angle the bed hid its contents. She looked back at him. “You never sleep up here.”
 
-His body launched after it.
+The pulse came faster. Twenty seconds.
 
-***
+Maledict could kill her. He could copy the disk, bite the plate, and wake human over a silver circle while the butler disposed of the evidence. By morning every screen in the Tri-City Area would carry his face again.
 
-He caught the ball before the first bounce.
+Brightguard lifted the blanket. “After today,” she said, “I suppose you get to change your mind.” She made room beside her.
 
-This demonstrated the hunting efficiency of the form.
+Maledict stared at the space. No throne had ever been offered without a negotiation attached. No fortress had ever warmed its floors for his joints. No one had ever kept six kinds of snacks because his tastes mattered, then worried when those tastes changed.
 
-He brought it back so Brightguard would throw it again, thereby permitting further evaluation.
+Ten seconds.
 
-The second throw went through the living room, under a chair, and off the baseboard. Maledict cornered it with brilliant lateral movement. The third climbed the stairs.
+He returned the counterseal to its velvet slot. He nudged the poison capsule into its shielded collar pocket until the catch sealed. Then he jumped onto the bed.
 
-He knew what she was doing. She was testing his coordination and, perhaps, leading him away from restricted rooms. He knew this while his claws scrabbled over the runner and the red ball rolled through the upstairs hall like the last surviving heart of a conquered city.
+Brightguard caught him with a startled grunt. “You also never do that.”
 
-He pounced on it.
+Maledict reached the activation plate with his tongue. Across the city, Pickle stood in Maledict’s body inside the blazing circle, held upright by the butler and distracted with the right shoe.
 
-Brightguard came up behind him, slower now. The bedroom door stood open at the rear. Maledict saw the bed, the water glass on the bedside table, the charging pad beside it, and the nearly invisible seam of the wall compartment. All objectives confirmed.
+Maledict let the plate go. The thirty-second window closed.
 
-Brightguard took the ball from his mouth. “No dogs upstairs.”
+Nothing changed.
 
-She tossed it back down.
+Brightguard settled an arm across his back. “Very strange dog,” she murmured.
 
-Maledict ran after it.
+Maledict laid his head on her pillow and listened to the collar cool.
 
-By the sixth throw, he had abandoned strategic terminology. Running felt good. Turning felt good. The ball was red, elusive, and his. He skidded into a basket of clean laundry, came out with a T-shirt sleeve over one ear, and found Brightguard sitting on the stairs laughing so hard she had to hold her burned arm against her chest.
+The butler’s message arrived at twelve oh-one.
 
-He dropped the ball at her feet.
+**Window missed. Next paired alignment: midnight tomorrow. Please advise.**
 
-Again.
+Maledict closed his eyes.
 
-She understood.
+The next evening, the butler tried again. He charged the circle, hid the organization’s callers behind another story about strategic seclusion, and placed Pickle-in-Maledict at its center. Maledict ate half a liver button in the townhouse, felt the collar pulse, and remained on Pickle’s original heated bed.
 
-Later, she arranged a folded blanket outside her bedroom. “Just tonight,” she said. “Animal services opens in the morning.”
+The evening after that, Brightguard discovered him on the couch. “You never get on the furniture.” Maledict moved deeper into the cushions.
 
-Maledict turned in three circles before lying down. He did this because the blanket’s folds required compression, not because the body asked him to.
+She sat beside him. “Apparently we’re renegotiating everything.”
 
-Brightguard sat in the hall for another hour with her reading glasses on and a secure home display spread across her lap. Maledict watched through lowered eyelids as she marked possible refuges across the Tri-City Area. The list included a decommissioned server farm, sealed subway maintenance tunnels, and a private lunar research station.
+On the fourth day she offered cucumber with his liver snack. On the fifth, Maledict entered the washroom before she said *bath*, and she laughed so hard she had to sit on the floor. He learned *orbit* properly and improved it with ambushes. He tolerated *middle*. He brought the red ball at the door, though he still surrendered it much too easily. Every correction told him about the life Pickle had lived before him. Every indulgence had been waiting long before Maledict decided it was valuable.
 
-“Not the moon,” she muttered, swiping it off the list.
+The public search widened from towers to tunnels to the river and found nothing. Brightguard studied the reports each morning with Pickle’s brown head on her knee, never suspecting that the missing villain was watching himself remain missing.
 
-Correct. He had found it draughty.
+At the glass-and-steel skyscraper, the butler quietly altered the fortress. He childproofed the weapon controls. He scheduled exercise at hours when no lieutenant could visit. He commissioned a reinforced bed large enough for Maledict’s human body and placed it in the penthouse, safely away from the windows. Pickle remained alive, unharmed, magnificently dog-minded, and pleased with the arrangement. The butler fed him, brushed Maledict’s hair after the dog tried to roll on the roof garden, and sacrificed three shoes to the preservation of organizational secrecy.
 
-She checked the window locks, armed three hair-thin laser alarms across the stairs, and closed restricted doors. Before entering her room, she ran the anti-static brush along Maledict’s coat until the little blue sparks stopped jumping.
+At the seventh midnight, the paired circle shone again.
 
-“Good night, Pickle.”
+The butler stood beside it with the silver control in one hand. Pickle turned three careful circles on the oversized new bed, curled Maledict’s long body into an impossible knot, and rested his head on the last surviving shoe.
 
-The latch clicked.
+“Sir,” the butler said to the silent connection, “both bodies remain secure. The return apparatus is ready. It still requires your plate.”
 
-He waited.
+Across the Tri-City Area, the answering pulse warmed Pickle’s collar.
 
-At midnight, he would depress the latch with both paws. He would spit the bead into her water, release the wall compartment with the override strip, take the counterseal, bite the silver seed, and depart in his own magnificent body. Four actions. No resistance.
+Maledict was already curled on the familiar worn patch of Pickle’s deep, heated bed. He had received his brushing, his dental braid, and two liver buttons on the outrageous claim that the first had been undersized. Brightguard had gone upstairs after telling him he was a very good dog, even if he had become a completely different one.
 
-Maledict listened to Brightguard’s breathing settle beyond the door. Rain ticked at the high window. The folded blanket held heat beneath his chest and smelled faintly of cedar.
+Maledict tucked his natural white-fur forepaw beneath his nose.
 
-He closed his eyes to concentrate.
-
-***
-
-When he woke, the house was silent.
-
-Maledict surged to his feet, outraged by treachery. The blanket had no mind and therefore could not have drugged him. Brightguard had not touched it since his arrival. His own body had simply slept.
-
-Moonlight silvered the hall. He had missed midnight by nearly two hours.
-
-This changed nothing.
-
-He placed both forepaws on the bedroom handle and leaned. The latch withdrew. The door opened without a whisper, precisely as planned. Brightguard lay on her side beneath a dark quilt, one hand near the compact pulse emitter charging on her bedside table. Her collapsed rescue baton rested within reach. A security strip glowed under the bed, tuned to sudden spells and hostile shapes. It paid no attention to the clean brown dog padding across the hardwood.
-
-The poison bead remained tucked behind Maledict’s molar. He worked it forward with his tongue until its bitter glass touched his teeth. Her water waited, uncovered.
-
-First, the counterseal.
-
-He found the compartment by smell: machined steel, circuitry, Brightguard’s skin from the last time she had opened it. Its seam was almost invisible in the wall beside the bed, its biometric lock dark. He caught the tab of the ceramic override strip between his teeth and drew it from the hollow sheath of his right dewclaw. One touch to the concealed service contact. The lock winked amber, then green, and the pressure latch released with a soft click that sounded enormous in the sleeping room.
-
-Brightguard shifted.
-
-Maledict froze. Her hand brushed the pulse emitter, then fell away.
-
-He nosed the panel open. In a black shock-resistant cradle rested a disk of dull white stone. The counterseal. He slid the override strip back into its claw sheath and took the disk carefully between his front teeth. He could carry it past the household security in this shape, spit the poison into her water, and break the silver seed once clear of the gate. If she woke, he could reverse here and trust speed against her alarm. Every failure remaining in the world was someone else’s.
-
-Brightguard made a small sound in her sleep.
-
-Maledict turned. Her eyes stayed closed. She lifted the edge of the quilt.
-
-“Come on, then,” she murmured.
-
-He stared at the opening.
-
-The blackglass bead waited behind his right molar. The counterseal rested between his front teeth. Under his left foreleg, the silver seed pressed against the skin, ready to break.
-
-He would get onto the bed to preserve the disguise.
-
-Maledict returned the counterseal to its cradle and pressed the wall panel shut with his nose. The lock returned to amber.
-
-He would wait until Brightguard’s hand moved away from the water.
-
-He climbed onto the bed. Her hand settled heavily across his shoulder. Heat soaked through his coat. He kept the poison secure and counted her breaths.
-
-At thirty, her hand slipped away.
-
-Nothing prevented him from moving.
-
-Maledict lay in the dark and considered the seven storm vaults across the Tri-City Area, his empty command center, the captains fighting over access keys, the century of dominion he had designed down to its final obedient alert. He considered baths and chicken. He considered the red ball waiting beneath the living-room chair. He considered never again having to explain why a failure was not his fault, because no one asked a dog to rule competently.
-
-The Tri-City Area would survive him. Brightguard would wake. Neither was why.
-
-He had not become kind. He was abandoning murder, empire, and catastrophe because victory would end the blanket, the chicken, and the reasonable expectation of breakfast.
-
-The trade was disgraceful.
-
-It was also, Maledict admitted, much better.
-
-He pushed the bead deep into his cheek, nosed farther under the quilt, and went back to sleep.
-
-***
-
-Municipal animal services asked Brightguard to keep him three more days while its kennels were repaired. On the second day, it sent an intake van anyway. By then Brightguard had purchased a lead, two brushes, and a bed he disliked because her chair was softer. She looked through the video intercom at the waiting handler, looked at Pickle, and declined the pickup.
-
-“It seems you live here,” she told him.
-
-Maledict rolled onto his back and demanded attention to his stomach.
-
-Weeks passed. Each offered chances to resume his form. Brightguard left him alone while she searched transit service tunnels. She took long baths behind an unlocked door. She fell asleep over digital maps with the counterseal sometimes near enough to touch. Maledict kept the silver seed unbroken and the poison bead hidden. He stole half a pie, shed on her formal jacket, and learned that barking once at the pantry produced better results than terrorizing a city district.
-
-Outside the house, his dominion disassembled itself. One lieutenant declared herself his successor and lasted four days. Rivals raided the warehouse levels of his fortified skyscraper and barricaded themselves in separate command floors. Heroes searched flooded parking structures, a decommissioned server farm, and several other sites across the Tri-City Area that Maledict had once described as “too cold” without imagining this would become useful intelligence.
-
-One afternoon Brightguard returned from a regional rescue council session, dropped her utility harness by the door, and found Pickle occupying the whole good chair.
-
-“Move,” she said.
-
-He looked at her.
-
-She sat on the floor beside him.
-
-The home display announced that another sighting had proved false. Brightguard scratched behind Maledict’s ear while she listened. Before touching her phone, she grounded one hand on the steel side table. Blue sparks clicked harmlessly into the metal.
-
-“He cannot hide forever,” she said.
-
-Maledict considered this.
-
-From the kitchen came the sound of a tin opening, followed by the smell of beef, gravy, and the special biscuits Brightguard claimed were only for training.
-
-Pickle got down from the chair and trotted toward dinner.
+The collar pulsed through the whole reversal window. He never touched the plate.
