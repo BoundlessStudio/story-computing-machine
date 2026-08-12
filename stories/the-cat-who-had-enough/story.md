@@ -8,306 +8,214 @@ canon: false
 
 # The Cat Who Had Enough
 
-At six in the evening, the application portal was open on my laptop, five finished portfolio pieces waited in a folder, and Tallow was sitting on the refrigerator with the expression of a landlord who had found a bicycle in the fire exit.
+The first advice Tallow gave me after I inherited him was to put my keys in the blue dish beside the door.
 
-“They don’t want work,” I told him. “They want evidence that I have been one continuous, employable person for the last three years. There’s nowhere on this form to explain context.”
+I had been explaining that the apartment misplaced them. I explained it directly to him, which mattered. Tallow could only speak when someone aimed a complaint at him, and then only about the complaint. Questions outside it received the same rusty meow he used for an empty bowl. Aunt Beryl's note had called this “a narrow gift, which is why it remains useful.”
 
-Tallow’s ears tipped toward me. A complaint had to be aimed at him before he could answer in human language. I had tested the rule by complaining to the kettle, the ceiling, and once a municipal parking meter while he watched from his carrier. Nothing. Address him, however, and his rough cat’s mouth produced a voice like a tired man calling from the bottom of a stairwell.
+Her second note said Tallow was not property, that the money was for his care if he chose to stay, and that I should offer the blue dish. He stayed. I kept the dish. The keys were another matter.
 
-“Send the five good pieces,” he said. “Stop trying to submit a life.”
+“A dish is passive,” I told him. “What I need is a system that catches me in motion.”
 
-On the counter, the towel over my bowl of dinner dough rose three inches.
+Tallow, a broad charcoal cat with one white paw, looked from me to the dish. “You stop moving when you close the door.”
 
-That was the other thing his voice did. Yeast adored it. Beryl used to shut rising bread in the pantry on days when she expected conversation. She had never discovered why Tallow’s speech could turn a sensible loaf into a foam mattress, and neither had I. He was not interested in experiments, especially experiments involving the removal of treats, so our knowledge ended there.
+It was sound advice but insufficiently tailored, so I ordered a brass wall hook shaped like an antler. The hook came with three kinds of anchors, none appropriate to what I believed the wall might be made of. I set the package on the hall table until I could research plaster.
 
-“Five pieces looks careless when they allow eight.”
+Three days later I found my keys in the pocket of a coat I had been wearing while looking for them. The blue dish sat empty beneath a padded envelope containing the hook.
 
-“Five good pieces looks like five good pieces.”
+This established the character of our first six weeks together.
 
-The towel lifted again. I pressed it down, opened the first image caption, and changed *community arts poster* to *neighborhood event poster*. The selectors might distrust adjectives. They might also distrust someone who could not decide whether neighborhood was warmer than community, so I changed it back.
+I did not complain to Tallow constantly. I complained to him at breakfast, after lunch, during the difficult part of the afternoon, and when the evening had failed to improve itself. There were gaps.
 
-At seven twelve, Tallow moved from the refrigerator to the empty chair across from me. The five pieces remained unselected in the upload window. I had improved four captions, cleaned a mug I wasn’t using, and discovered an electricity bill under a supermarket flyer.
+At first he seemed to enjoy the work. His ears came forward. His tail curled neatly around his feet. He had watched Beryl's household for years and possessed the brisk confidence of someone who had never confused owning a cupboard with organizing one.
 
-“The problem,” I told him, “is that nobody teaches you how to present incomplete work without sounding apologetic.”
+In our second week, I complained that healthy eating had become impossible because every recipe required a second, better kitchen.
 
-“Use the simplest caption. Open the message from your old tutor. She offered to help.”
+“Buy eggs, bread, and three vegetables you already eat,” he said from the windowsill.
 
-The message had arrived that morning. Its subject line was *Checking in—tonight’s the deadline*, which struck me as faintly accusing. I marked the electricity bill urgent instead.
+“That's survival food. I want to build a sustainable relationship with nutrition.”
 
-“I can’t ask her to rescue me again.”
+“Start by sustaining a carrot.”
 
-“Reading is not asking.”
+I appreciated the phrasing. I wrote it in a new notebook headed Tallow's Principles, then spent the afternoon comparing meal-planning methods. By dinner I had ordered twelve stackable glass containers with bamboo lids. A row of identical containers, I reasoned, would remove the visual chaos that made meal preparation hostile.
 
-I wiped the clean mug dry. “You reduce every situation until it has no emotional content.”
+The next day I bought spinach, fennel, radishes, two kinds of cabbage, a bundle of herbs I could not identify once the paper band came off, and no eggs. The vegetables looked so promising in their grocery bags that putting them away felt premature. I left them on the counter while I washed the new containers.
 
-“You add emotional content until it has no door.”
+The bamboo lids could not go in the dishwasher. This had not been prominent in the photographs.
 
-The dough bumped its towel onto the counter.
+A week later the pristine containers stood nested on top of the refrigerator. The spinach had become a green handkerchief in the bottom of the crisper. I complained to Tallow that grocery shops sold vegetables in quantities designed for families.
 
-Tallow had been Beryl’s companion for longer than anyone seemed able to specify. When she died eight months earlier, what I inherited was responsibility for his care and money for food and veterinary bills, not ownership of a cat. The lawyer gave me a separate note in Beryl’s square handwriting.
+“Buy eggs, bread, and three vegetables you already eat.”
 
-*Tallow is a companion with opinions, not property and not an oracle. The enclosed funds are for his care if he elects to stay. He may not. Ask sparingly.*
+“Repeating yourself doesn't account for new evidence.”
 
-Tallow had spent his first three days after the funeral in Beryl’s apartment, sleeping on the back of her green chair while I sorted sweaters and canceled services. On the fourth day, I found him inside my empty suitcase. He refused to get out. When I carried him to my apartment, he inspected every room, ate half a saucer of chicken, and fell asleep on my bathmat. I understood that as an election.
+He looked at the collapsed spinach. “It accounts for this evidence.”
 
-The first morning, I complained that the bedroom was too dark to get up in.
+By then his afternoon nap took place on top of the refrigerator, behind the containers, where I could see only one ear.
 
-“Open the curtains before you go to bed,” he said from the bathmat.
+Laundry presented the third major failure of the apartment. The machine washed perfectly well, but it ended its cycle with three polite chimes that could not be heard from my desk. Twice I discovered a wet load the following morning and had to wash it again.
 
-It worked. So did putting my phone across the room, canceling a delivery subscription, and telling a client that three unpaid revisions were not included in one paid revision. Tallow was good at finding the short handle on a large problem. I started taking him my large problems. Then the medium ones. By the fifth month, I was asking what to cook while holding a bag of rice.
+“The machine needs a proper alert,” I complained.
 
-Beryl had written *ask sparingly*. I had interpreted sparingly as one issue at a time.
+“Set an alarm on your phone when you press start.”
 
-At eight, I opened a tin for Tallow and heated soup for myself. The dough had developed a smooth dome that pushed against the towel like a bald head.
+“If I could remember to set an alarm, I could remember the washing.”
 
-“This apprenticeship pays less than a proper job anyway,” I said, setting down his dish. “It might actually make my finances worse.”
+Tallow licked his white paw. “Set it while your finger is on the button.”
 
-He lowered his nose to the food, which meant he was declining the invitation.
+This was too dependent on a single point of human failure. I downloaded an app that broke household tasks into layered routines, allowed custom sounds, and awarded digital acorns. Then I bought lavender scent beads, because improvement works best when it has sensory reinforcement.
 
-“I’m only saying, the whole thing is set up for people who can afford a year of being grateful.”
+The next Saturday I pressed start, set four notifications, and took tea to my desk. The first alert arrived while I was choosing an icon for Laundry Complete. I cleared it because it blocked the color menu. The second arrived during a video explaining why repeated alerts trained the brain to ignore urgency. I silenced the phone to hear the expert. The third and fourth joined the low, continuous weather of notifications I planned to rationalize on Monday.
 
-He ate one bite, sat back, and looked at me.
+On Sunday morning I complained about the smell from the machine.
 
-“Submit first,” he said. “Resent the wage if they offer it.”
+“Alarm,” said Tallow without opening his eyes.
 
-I laughed despite myself. That was often the sequence I wanted from him: complaint, answer, one neat piece of contempt that made the room feel occupied. Beryl had left a silence larger than her furniture. Tallow could put edges on it.
+“I used four.”
 
-I carried the laptop to the sofa so I could eat without spilling soup on the application. The change of location required adjusting the charger, then moving a stack of mail, then opening my banking app to see whether I could pay the electricity bill. I could, barely. I scheduled the payment for three days later in case a freelance invoice arrived first.
+“One alarm. Obey it.”
 
-At nine ten, I returned to the portfolio and saw that one illustration had a pale blue stripe along its right edge. It had probably been there for months. Once noticed, it acquired the urgency of smoke.
+I tipped in another capful of detergent and a confident amount of scent beads. On the shelf above the machine, yesterday's teacup held a teaspoon welded to its bottom with dried honey.
 
-“This is what I mean,” I told Tallow. “Every time I get near finished, something objectively wrong appears.”
+The advice rule was precise enough to be annoying. If I said, “Tallow, the laundry is conspiring against me,” he could discuss laundry until the grievance was finished. If, in the middle of that discussion, I asked what he wanted for dinner, he could only meow. I began phrasing most attempts at conversation as dissatisfaction.
 
-“Crop it.”
+“It's unfortunate that I don't know whether you prefer chicken or fish.”
 
-“That changes the balance.”
+“Fish,” he would say.
 
-“Leave it.”
+This was not cheating. It was adapting to a magical companion's access needs.
 
-“Then why did I spend two years learning standards?”
+Tallow adapted too. His early answers had possessed shape and polish. Put the keys in the dish. Start by sustaining a carrot. By week four, he had begun economizing.
 
-“To recognize when you are using them as a hiding place.”
+I complained that money vanished through small charges too petty to notice.
 
-I enlarged the image to eight hundred percent. The stripe was three pixels wide.
+“Open the statement,” he said. “Cancel one.”
 
-Tallow jumped down and left the room. Without his yellow eyes across from me, the work became only work, which was less comforting. I corrected the stripe, then corrected two nearby shadows that had not troubled me until I went looking for trouble in their neighborhood.
+I opened the app store instead and found an elegant budgeting service that promised to identify recurring expenses. It cost seven ninety-nine a month after a free trial. The reviews said setup took less than ten minutes, which meant it deserved a fresh morning rather than the used-up eleven minutes remaining before lunch.
 
-At ten, the unread message from my old tutor was still visible at the top of my inbox. I had studied with her before Beryl got sick, when my weeks had classrooms around them. After the funeral, she had sent a list of paid programs and offered to look at five pieces. I thanked her, waited nineteen days, and sent seven. She replied the next morning with notes. I read them after three weeks, when the shame of not reading them had grown heavy enough to seem like a reason not to reply.
+The following week I complained about two small recurring charges. Tallow stared at me until I pointed out that silence was not advice.
 
-Tallow returned and curled on Beryl’s green cushion, which I had kept although it matched nothing.
+“Statement.”
 
-“She’s probably given up on me,” I said.
+“Statements only show what has already gone wrong. The question is how to become someone who notices sooner.”
 
-“Read the message.”
+His tail struck the windowsill once. “Open.”
 
-“Suppose it says she can’t help?”
+I placed my coffee on the sill to sit beside him and demonstrate that I welcomed collaboration. When he moved away, I forgot the cup. It stayed there with its spoon leaning against the rim while the budgeting app renewed.
 
-“Then you will possess information.”
+In week five, my wireless headphones went flat in the middle of a program about reducing avoidable friction.
 
-“I know that. I’m asking how to stop being the kind of person who needs three weeks to read a kind email.”
+“Nothing in this home is ever charged,” I complained.
 
-“Read this one tonight.”
+Tallow was lying in the one clean square of sunlight on my desk. He glanced at the charging cable beside my wrist.
 
-“That’s not an answer to the life problem.”
+“Plug them in.”
 
-Tallow opened his eyes. “It is an answer to the envelope the life problem arrived in.”
+“I do, but the cable migrates.”
 
-The dough made a soft adhesive sound in the kitchen.
+The cable had not migrated. It was looped around the dead herb pot so it would not slide behind the desk. A teaspoon stood upright in the dry soil; I had used it to lever out a battery and apparently planted it there.
 
-He was not always right. Once, when I complained that a friend had canceled coffee for the third time, Tallow told me to stop letting people keep me as backup company. I sent her a message sharpened by that phrase. What Tallow did not know was that her brother had been in hospital and she had asked me not to tell anyone. By the time she explained that I had made her feel tried and convicted during the worst month of her life, apologies sounded like efforts to make her comfort me. We had not spoken since winter.
+I ordered a premium charging dock that could hold the headphones, my phone, and a watch I did not own. The dock arrived in a box whose matte finish communicated that wires were no longer my class of problem. Unfortunately, its best position was the clean square of sunlight.
 
-When I later told Tallow his advice had been wrong, he said, “Repeated disregard is still disregard.” I said he did not understand. He washed one paw until I stopped talking.
+I set it, still boxed, on the desk while I considered whether Tallow's preference for that spot should govern the whole room. The headphones remained beside the cable until their next use, when they were flat.
 
-But he had been right about the curtains. It was difficult to build a philosophy from the mixed record, though I kept trying.
+“The real problem,” I told Tallow, “is that every solution demands permanent space.”
 
-At eleven twenty-six, the portal rejected the sixth piece for exceeding the file limit. I had not selected the first five yet, but the rejection appeared in red, immediate and official. My chest tightened with vindication.
+He rose, stepped onto the charging cable, and sat with his back to me.
 
-“There,” I said. “This is exactly how these things work. They pretend to invite you, then put a trip wire in the instructions.”
+The sixth week was unusually productive in theory. I began a Sunday reset, a pantry inventory, and a plan to drink more water. Each began with a beverage. The reset required two starts and left two cups on saucers beside the sofa, one under the reset binder. During the pantry inventory, a teaspoon went into the jar labeled GRAINS, which contained three buttons and a receipt. Yogurt counted as breakfast until I put the open carton beside the full bin. I stirred a face mask in the bathroom, stacked three spoons in the sink, and left another coffee cup to keep the old one company on the windowsill. I carried things as far as the room where I next needed them, which was not quite the same thing as carrying them back.
 
-Tallow was on the table now, his tail tucked around his feet.
+Tallow watched teaspoons travel. I mistook his attention for an interest in beverages.
 
-“Export it smaller.”
+On the sixth Sunday, I woke with the pleasant conviction that the week had not yet had time to become complicated. Sun lay across the kitchen floor. Tallow ate his fish. I put bread in the toaster, boiled the kettle, and opened the cutlery drawer.
 
-“It’ll ruin the texture.”
+The teaspoon compartment was empty.
 
-“Use the five.”
+I checked beneath the forks. I checked the dish rack, which held two plates and the metal tea strainer I never used because it was difficult to clean. I checked the drawer again in case the angle had changed.
 
-“Five looks unfinished.”
+“Tallow, this apartment eats teaspoons,” I said. “I had twelve. A functional home should not require constant vigilance over basic cutlery.”
 
-“Then send unfinished.”
+He stopped eating.
 
-“Easy for you to say. You don’t have to make anything anyone can reject.”
+“Collect the twelve spoons you used,” he said. “Wash them.”
 
-His tail-tip moved once.
+“You have missed the larger point.”
 
-I went on. The electricity bill would empty my account. The apprenticeship wage was insulting. My tutor had probably written only because some calendar reminded her. The portal had hidden its file limit. I was exhausted from months of freelance scraps and paperwork and grief. Every practical answer Tallow gave assumed a reserve of energy I did not have. The blue stripe proved the work was not ready. Five pieces proved I had wasted the year. Eight pieces would prove I lacked judgment.
+Tallow lifted his head very slowly.
 
-Tallow offered solutions until his voice became clipped enough to raise the dough without sentences.
+There are silences one mistakes for permission because one has survived them before.
 
-“Pay half.”
+“The larger point,” I continued, “is that dozens of tiny acts are demanded every day just to keep a home from sliding backward, and when one person has to notice all of them—”
 
-“Compress the file.”
+“No,” Tallow said. “You want the larger point? You have dragged the larger point through every room of this apartment and left it there with a spoon in it.”
 
-“Open the message.”
+He stepped away from his breakfast.
 
-“Select the five.”
+“One spoon is in the herb pot on your desk. You used it to pry open the kitchen scale because walking to the toolbox felt excessive. Two are in coffee cups on the windowsill, one stuck in what was milk. One is in the teacup above the washing machine with enough honey on it to preserve a small mammal. Two are on saucers beside the sofa, one under your Sunday-reset binder. One is in the open yogurt carton beside the bin. One is in the jar labeled GRAINS, among three buttons and a receipt. One is in the bathroom because you stirred a face mask with it. Three are in the sink. That makes twelve. The apartment has not eaten anything. The apartment is displaying your movements.”
 
-At eleven thirty-eight, I shoved the laptop back hard enough to rattle my spoon.
+“I don't think the bathroom one should—”
 
-“Do you know what your problem is?” I said. “You enjoy this. You sit above the refrigerator issuing obvious instructions, and when I can’t turn them into a better life, you get to be superior. Maybe you like me failing. If I ever fixed anything, what would you have left?”
+“Be counted because its purpose changed? Of course. Nothing counts once you rename it. A key in yesterday's coat becomes a failure of domestic design. Spinach you declined to eat indicts package sizes. Laundry left wet after four alarms proves machines communicate poorly. Your headphones are not uncharged. They are victims of spatial uncertainty.”
 
-Tallow stood. For a moment I thought he would leave again.
+He jumped to the counter, and I moved my toast out of reach. He noticed.
 
-Instead he stepped onto the application printout, planted one white paw over the portfolio guidelines, and snapped.
+“Yes, protect the toast. At last, an object receives timely intervention. Beryl put the blue dish beside the door because that is where keys enter and leave. You called it passive and bought an antler. The antler has spent five weeks in an envelope on the hall table. You researched plaster without tapping the wall. You chose brass because nickel looked temporary, and now the permanent solution is packaging.”
 
-“What would I have left?” he said. “Breakfast. Windows. Six uninterrupted hours a day. A clean litter mat. Your company when it is company instead of compulsory consultation. Do you imagine advice is my natural resource? Do you think it gathers under my tongue overnight?”
+“It was twenty-nine—”
 
-In the kitchen, the dough pushed free of its bowl.
+“Excellent. You have recovered nine minutes. Put them with the hours spent preparing not to do things.
 
-“You want to know why I give obvious instructions? Because you have built your life at the foot of obvious instructions and declared the stairs inaccessible. Open the message. Send the form. Answer the client. Wash the bowl before the remains acquire a civilization. You ask me how to endure uncertainty, and I tell you to make one telephone call. Then you explain that I have failed to address uncertainty.”
+“Look at your kitchen. Twelve glass boxes because leftovers lacked a coherent visual language. Their lids require special care, so you have protected them from food. Spinach liquefied, radishes softened, herbs became black threads, and both cabbages remain because even decay approaches cabbage cautiously. You sustained online comparison long enough to miss lunch, then ordered noodles because groceries covered the counter. You wasted food, delivery money, hot water, cupboard space, and three evenings explaining why eggs would be surrender.”
+
+His tail had doubled in width. He paced along the counter, away from the toast and toward the sink.
+
+“The laundry? You needed one alarm and acquired acorns. You dismissed one to improve its icon, another to hear an expert warn you about alarms, and the rest because you had trained yourself with astonishing speed. Then you washed the clothes again with twice the detergent and enough lavender to sting my eyes. You complain that chores steal time while repeating them for fragrance.
+
+“You paid for an app to locate the money you waste, then did not link the accounts because the morning was not fresh enough. Now the app is one of the charges you want it to discover: seven ninety-nine a month for admiring its interface.
+
+“You bought a charging dock rather than move your hand six inches to the cable. You have not plugged it in because you cannot choose its permanent site. Its box sits in my sun. The headphones sit beside the cable. You spent money and removed a warm place from the household to preserve a complaint.
+
+“And complain you do. You want each complaint polished until it reflects no image of you. A plain answer is simplistic. A repeated answer ignores new evidence. A detailed answer contains one condition that might fail. Silence is not advice. You bring me the same problem in a different hat and demand novelty because novelty is cheaper than obedience.”
 
 “Tallow—”
 
-“No. I have heard eight months of your qualifications. You may hear mine.” His back had risen in a dark ridge. “You printed the rent relief form six weeks ago. It is under the flour because you put it there when you cleaned the table for a video interview you then canceled because the table looked dishonest. You bought storage baskets after saying clutter prevented you from working. The baskets are full of unopened mail. You have moved the same reminder to call the dentist from Monday to Monday so often that your phone suggests it as a seasonal event.”
+“No. I know this part. You will say life should not require systems, everyone needs a personal system, and no system can account for a human day. You will argue all three before the toast cools and call the contradiction nuance. A dish is oppression because it asks one repeated act. A hook is hope because it arrives in the post. Food you eat is surrender; food you discard is aspiration. One timer mechanizes the soul, but four notifications honor your complexity.
 
-The dough slid over the counter’s edge in a thick, pale rope. Neither of us moved.
+“You cultivate the little tasks of a home. You leave each one alive until it breeds, then present the litter to me as an infestation. A cup becomes a stain, a missing spoon, and a search. Laundry becomes rewashing and a shelf of products. A statement becomes a second subscription. You manufacture the sequel and complain that the story is repetitive.
 
-“You say no one helps unless your tutor writes, and when she writes, kindness becomes pressure. You say clients exploit you, then spend unpaid hours perfecting changes they did not request because sending the invoice would let them answer. You say you have no money, then buy small prizes for surviving days on which you did the easier half of one task. You complain that your friend left you, although you sent the message that drove her away. You ask what you should do, punish every answer with an argument, and return the next evening angry that nothing changed.”
+“Do you know what a waste you are?”
 
-“You don’t know what every day costs me.”
+My face went hot. “That's not—”
 
-“I know more than you permit anyone to know, because you narrate every cost while hiding every choice inside it.”
+“You asked for the larger point. Here it is. You are a waste. You waste spinach, detergent, scent beads, subscription fees, batteries, packaging, hot water, mornings, and every clear surface you claim would save you. You waste Beryl's useful dish while keeping it like a museum piece. You waste my naps by turning a spoon into a philosophical emergency. You waste good advice, then accuse it of becoming stale. Worst of all, you waste an entirely adequate intelligence manufacturing loopholes for a person you pretend has no choices.
 
-That landed. I reached for the laptop, but not to submit. I wanted the clock, some neutral fact with which to interrupt him. Eleven forty-seven.
+“You are the source of your recurring problems. Not weather. Not architecture. Not the hostile spirit of cutlery. You. Your hands carried every spoon out of this drawer. Your finger cleared every alarm. Your card bought every solution that preserved its problem. You were present at every disappearance. Then you stand amid the evidence and announce that life has acted upon you.
 
-Tallow followed my glance. “You had five finished pieces at six. You have five finished pieces now. The sixth is smaller, the captions are worse, a mug is cleaner, and the application remains empty. This was not done to you.”
+“Homes require work. That does not make every extra chore an unavoidable tax. There is washing a spoon after breakfast, and there is hunting twelve after six weeks while accusing the apartment of appetite. You do the second so reliably you call it your circumstances. It is your method.
 
-“I was taking care of Beryl.”
+“I am tired of your method. I am tired of the voice you use when cause reaches consequence and you introduce them as strangers. I am tired of watching you spend more effort escaping an answer than the answer required. Wash the spoons. Put the keys in the dish. Eat what you buy. Open the statement. Plug in the thing. Take out the laundry. They are exits you keep decorating instead of using.
 
-His claws came out through the paper.
+“And stop telling me I have missed the larger point. I have been lying on it for six weeks because you put the charging dock in my sun.”
 
-“Yes,” he said, and his voice dropped. The dough kept moving, folding onto the floor. “You took her to appointments. You learned the names of pills. You slept in a chair when she was afraid. You held the cup when her hands shook. She died, and it was terrible, and you are not late for grief.”
+Tallow stopped.
 
-For one hopeful second I thought he had finished.
+The kitchen held the small electrical hum of appliances doing exactly what they had been designed to do. My toast stood cold in the rack. Tallow returned to his fish and ate with furious precision.
 
-“But you use her death like a key that fits whichever lock is nearest. When someone asks why you have done nothing, eight months is no time at all. When you want proof that life has abandoned you, eight months is long enough to have ruined everything. You invoke her for emails she never saw, bills she did not incur, work you began before she was ill. I miss her too. I do not make her carry my litter out from the grave.”
+I checked the herb pot first because it seemed the least credible. The spoon was there, tilted among the dry stems. The two windowsill cups produced two more. I found the honeyed one above the washer, both beneath the Sunday-reset binder, the yogurt spoon, the jar spoon, and the bathroom spoon with a crust of green clay.
 
-The cruelty of it struck before the sense did. I stood so fast the chair legs shrieked on the floor.
+The three in the sink brought the count to twelve.
 
-“You don’t get to say that.”
+I laid them on the counter. Together they occupied less than half the draining board. I nearly told Tallow that washing all twelve would now take the best part of the morning.
 
-“And you did not get to turn me into the voice that grants permission for your life. Beryl asked my opinion when she wanted it. Sometimes she said, ‘That is nonsense, Tallow,’ and baked her bread. She did not return with six revised versions of the same complaint until I was too tired to distinguish care from surrender.”
+His ears turned toward me.
 
-He paced across the guidelines, leaving crescent punctures. “You are a waste. Do you understand? Not because your work is poor. That would be simpler. You waste good work where no one can reject it. You waste food because planning meals feels like a verdict on the week. You waste favors by making people prove they meant them. You waste money soothing delays that become more expensive. You waste my attention and call the waste intimacy. And then you name the consequences bad luck.”
+I washed one spoon. Then, because the water was running and no philosophy arrived in time to stop me, I washed the other eleven. Tallow finished breakfast. He did not praise me. He did not need the power of human speech to make that clear.
 
-I could hear the refrigerator motor, the faint traffic below, the soft collapse of dough meeting linoleum.
+That afternoon, on my way out, I reached for my keys and found the blue dish empty.
 
-Tallow stopped inches from the laptop. “You keep asking for the source of your problems. For many of them, look at the chair you are sitting in. Look at the hand that keeps moving the task. You are not cursed. The portal does not fear your talent. Your tutor has not conspired with time. You are frightened of an answer you cannot revise, so you arrange to receive no answer and call that rejection. You are the source. You. And I am tired of being asked to lie about it politely.”
+“The problem with this apart—”
 
-The response rose in me fully assembled: grief was not an excuse; it was damage. The work was not ready. The wage really was low. The client really had expanded the scope. Systems could be unfair even when a person procrastinated inside them. Each statement was true. I had used every one already.
+Tallow opened one eye from the strip of sun beside the still-boxed charging dock.
 
-Tallow had heard them in combinations I had forgotten.
+I stopped. The keys were in yesterday's coat. I took them out, put them in the blue dish once, then picked them up again to leave.
 
-I looked at the green cushion on the sofa, the unopened message, the five thumbnails waiting in their folder. Then I remembered the one fact his chronology had flattened.
-
-“My friend’s brother was in hospital.”
-
-Tallow blinked.
-
-“When she canceled those coffees,” I said, “she was sleeping in a chair beside him. She asked me not to tell anyone. You said she was keeping me as backup company, and I believed you because you sounded certain. When I told you afterward, you wouldn’t listen. You said the pattern was still the pattern.”
-
-“She canceled three—”
-
-“Hear yourself.”
-
-His mouth closed.
-
-The clock in the corner of the screen changed to eleven fifty-eight.
-
-“You saw part of it,” I said. “You made the part into the whole. You do that because people keep asking and because being right feels good. I’m not the source of everything. I did not choose for Beryl to die. I did not set the apprenticeship wage. I didn’t invent the portal or the rent or my client.”
-
-“You chose the message to your friend.”
-
-“On your advice.”
-
-“You chose to follow it.”
-
-We stared at each other. It was an ugly little truth, intact from both directions.
-
-The application window dimmed. A banner replaced the upload boxes.
-
-*Submissions are now closed.*
-
-Midnight had passed without ceremony. No hidden grace period appeared. I clicked once, then again. The portal did not care that I had spent the last twelve minutes receiving an unusually thorough character assessment from a cat.
-
-Tallow looked toward the screen. His fur settled by degrees.
-
-“I should have stopped when I saw the time,” he said.
-
-“I had six hours.”
-
-“I still chose those twelve minutes.”
-
-“So did I.”
-
-The dough had reached the cabinet toe-kick. I stepped around it and fetched the scraper. My hands shook, which made gathering the sticky mass harder. Tallow jumped down, approached the edge, and recoiled when one paw touched it.
-
-“This is your fault,” I told him.
-
-His head came up.
-
-“The dough,” I said. “That one is almost entirely you.”
-
-He considered the spreading ruin. “You left it beside a conversation.”
-
-“You turned a conversation into a weather system.”
-
-His whiskers shifted. It was not an apology, but it was the nearest available relative.
-
-I scraped dough into the bin. “You were right about the application. And the rent form. And the invoices. Not about all of me.”
-
-“No,” he said after a while. “I saw a pattern and spoke as if I had seen the whole of you.”
-
-“You called me a waste.”
-
-“I meant that you waste what you have.”
-
-“That is not what you said.”
-
-“No.” He sat beyond the sticky patch and wrapped his tail around his paws. “It was cruel.”
-
-I rinsed the scraper. The apology did not erase the sentence, but at least it did not ask me to erase it for him.
-
-“New rule,” I said. “A complaint is not automatically a request for advice.”
-
-Tallow’s ears tilted back, thinking. “Counsel, sympathy, or silence?”
-
-“Those are the choices.”
-
-“I may also decline.”
-
-“Fine.”
-
-“And you may not request counsel and then classify it as sympathy because you dislike it.”
-
-“We’ll need definitions.”
-
-“Tomorrow.”
-
-We went to bed without resolving whether that counted as progress. Tallow slept on the bathmat. I lay awake long enough to imagine six different messages begging the apprenticeship committee for an exception and sent none of them.
-
-In the morning, the kitchen smelled like a brewery. I peeled dried dough from the cabinet and found the rent relief form under the flour exactly where Tallow had said it was. I put it on the table, not in a basket.
-
-Then I opened my old tutor’s message.
-
-*You have enough good work,* she had written. *Choose five. Don’t wait for the portfolio to explain the difficult year. If you want, send me exactly what you submit and we’ll talk tomorrow.*
-
-The offer had expired in one sense and not in another. I attached the five pieces to a reply. I wrote that I had missed the deadline, that I was not asking her to obtain an exception, and that I would value her opinion on whether the five formed a strong base for the next application. I deleted two paragraphs explaining the night. I kept one sentence apologizing for not answering sooner.
-
-Tallow watched from the green cushion. He did not tell me to press send. I did it while the message still felt inadequate.
-
-Nothing changed on the screen except the message moving from Drafts to Sent. My friendship remained broken. The bill was still due. The apprenticeship was still closed.
-
-Tallow walked into the kitchen and tapped his empty dish with one paw.
-
-I fed him without asking whether I had done the right thing. He ate without telling me.
+The antler hook remained in its envelope. I was not cured. I was, however, briefly out of material.

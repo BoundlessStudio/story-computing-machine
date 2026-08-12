@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tallow | new | No exact, alias, close-spelling, or semantic collision found; distinct from Gideon Tolland, and his bounded speech and yeast effect are consistent with living magical agency. |
-| Beryl | new | No exact, alias, close-spelling, or semantic collision found; the narrator's late aunt and Tallow's former companion. |
+| Tallow | new | Living magical cat and Beryl's former companion; no exact, alias, or confusing reuse found, and the name remains readily distinguishable from Gideon Tolland, Talvi, and Talune. |
+| Beryl | new | The narrator's late aunt and Tallow's former companion; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
@@ -24,4 +24,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The complaint/advice escalation sustains the promised rupture, both principals retain agency, consequences remain causal, and the ending grows from the opening task without erasing the missed opportunity.
+- Notes: The complaint-bound advice, accumulated self-authored nuisances, sustained caustic lecture, and chastened non-reconciliatory aftereffect fulfill the prompt and prospective craft profile; Tallow's bounded living magic, the six-week sequence, and the twelve-spoon accounting remain coherent.
