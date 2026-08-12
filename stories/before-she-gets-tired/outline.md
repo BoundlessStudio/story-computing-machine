@@ -2,7 +2,7 @@
 
 ## Story
 
-- Proposed reader-facing title: *Before She Gets Tired*.
+- Proposed reader-facing title: *Not Friday*.
 - Premise and central promise: After another weekly game night, Omar corners his close friend Kian with the prompt exchange and insists that Yasmin likes him just as the previous four women did before Kian waited them out. Kian follows Yasmin to an ordinary bus shelter intending to perform one brave ask and secure a yes. His first attempt merely renames their existing ambiguous outings, and Yasmin refuses to keep translating hints into commitments for him. Resolve the prompt when Kian stops treating Omar's confidence, past signals, and Yasmin's patience as guarantees; asks Yasmin plainly for one specific date; clarifies rather than retreats when she cannot make the proposed night; and receives a freely given yes to another time. The romantic success is real, but it rests on accepting that a clear question also permits a clear no.
 - Intended reader experience: Begin with fast, affectionate ribbing and the guilty recognition that Omar's ridiculous certainty has evidence behind it. Let Kian's walk downstairs turn comic bravado into intimate discomfort, then make the bus-shelter exchange warm, exacting, and slightly embarrassing rather than punitive. Readers should root for the yes while understanding why Yasmin is tired of the arrangement, and feel the deeper relief when Kian listens through an apparent rejection instead of fleeing from it.
 - Generating force:

@@ -1,12 +1,12 @@
 ---
-title: "Before She Gets Tired"
+title: "Not Friday"
 slug: "before-she-gets-tired"
 created: 2026-08-12
 created-at: 2026-08-12T18:58:30-04:00
 canon: false
 ---
 
-# Before She Gets Tired
+# Not Friday
 
 The apartment door clicked shut behind Yasmin, and Omar said, “Bro, just trust me. She likes you.”
 
