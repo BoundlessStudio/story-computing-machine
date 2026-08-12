@@ -1,0 +1,363 @@
+---
+title: "A Very Good Dog"
+slug: "ultimate-evil-dog"
+created: 2026-08-12
+created-at: 2026-08-12T10:52:57-04:00
+canon: false
+---
+
+# A Very Good Dog
+
+Maledict had calculated that he needed to be a dog for fourteen hours.
+
+Three hours to wait beside Brightguard’s route home. Two to endure whatever precautions she considered prudent. Eight to permit the household to settle. One to kill her, recover the counterseal beneath her bedroom floor, resume his proper shape, and leave before dawn.
+
+Fourteen hours of humiliation purchased a century of dominion. It was an excellent bargain.
+
+He stood naked within the last chamber of his buried fortress, surrounded by black candles and the patient instruments of his art. On the table lay a brass collar, its buckle concealing a tracking rune that led nowhere useful. Beside it waited a glass bead no larger than a peppercorn. One crack in Brightguard’s bedside water and the greatest obstacle to his design would never wake. With her counterseal in his possession, nothing would prevent Maledict from opening the seven storm vaults above the populous valleys.
+
+He tucked the bead into a narrow pocket he had shaped behind his right molar, spoke the ninety-nine names of surrender backward, and changed.
+
+The world leaped at him through his nose.
+
+Wax. Ash. Metal. His own old blood on the transformation knife. Mice behind the western wall, three of them, one ill. Oil on a hinge. Rain beginning in the forest ten miles overhead. The smells arrived with the force of accusations, each insisting it mattered.
+
+Maledict planted four paws on the slate and remembered that none of it did.
+
+He had selected the body with care: medium-sized, brown, rough-coated, neither pitiful nor expensive, with one white sock and eyes of an unremarkable amber. The body was not an illusion. Brightguard’s wards stripped glamours from bone and burned possession spells out of living flesh. So Maledict had built himself bone by bone into a genuine dog, carrying his memory and will inside it. The change had cost him nine months and the lives of several rare orchids. Reversal remained available. Beneath the left foreleg, where teeth could reach, a seed of silver rested under the skin. Bite hard enough to break it and his true shape would return.
+
+He tried the collar buckle. His paw pushed it three inches across the table.
+
+This was within projections.
+
+He tried again, using both forepaws. The collar slid off the edge, struck the floor, and rang like a tiny gong.
+
+Also within projections.
+
+Getting it over his head required twenty-seven minutes and language for which the canine throat was sadly inadequate. When it was done, he regarded himself in a low mirror. The dog in it panted. Maledict closed the dog’s mouth. The tail continued moving.
+
+“Fourteen hours,” he attempted to say.
+
+“Hrrr-woof,” said the architect of the coming age.
+
+He extinguished the candles with a suppression charm stored in the collar, climbed the narrow escape stair, and went to destroy Brightguard.
+
+***
+
+By late afternoon, rain had soaked Maledict through.
+
+He lay in a ditch beside the lane behind Brightguard’s house, because a muddy stray appearing at her front gate would look arranged. He had chosen a patch of nettles for authenticity. The nettles had ceased to improve the deception some time ago.
+
+He heard Brightguard before he saw her: bootheels dragging on wet gravel, mail links whispering beneath a coat, the slow scrape of a sword tip that a less exhausted hero would never have permitted. She came around the bend with her hood down and rain shining on her cropped dark hair. Her left sleeve had been burned away to the elbow. Soot striped one cheek.
+
+She stopped when she saw him.
+
+Maledict lowered his head and performed the precise tremble he had rehearsed.
+
+“No,” Brightguard said.
+
+He had prepared for suspicion. He had not prepared for her to step around him.
+
+The great hero made it six paces. Then she stopped, looked up at the rain as if appealing a sentence, and came back.
+
+“You may be bait,” she told him. “You probably have fleas. I have had a long day and dislike both possibilities.”
+
+Maledict widened his eyes.
+
+“That is unfair.”
+
+She crouched beyond biting range and passed two fingers through a sequence of signs. Pale light threaded the rain between them. It found no hidden human shape because Maledict wore none, no leash of compulsion because his will was his own, no disease, no active curse. The light did pause at the brass collar.
+
+Brightguard’s tiredness vanished. Her hand moved once, and a clear shell snapped around him.
+
+Maledict could have broken it. Doing so would compromise the operation.
+
+She hooked the collar off with a twig, sealed it inside a scrap of silver cloth, and studied it. “Terrible work, whoever did this. The tracking knot feeds back into itself.”
+
+Precisely. Let her waste the evening tracing it.
+
+She tossed the bundle into the ditch.
+
+Maledict stared after nine months of elegant false spoor.
+
+“Come on, then,” Brightguard said. The shell vanished. “One night. In the washroom. Tomorrow I find out whether anyone has lost you.”
+
+He remained motionless for two seconds, so she would not think him overeager.
+
+Then the smell from the paper parcel under her arm reached him: roasted chicken, pepper, and something sharp with vinegar.
+
+He followed.
+
+Brightguard’s back gate was ironwood, banded in brass. When she opened it, the threshold runes crawled over Maledict’s skin like warm ants. They found a dog and admitted one. Beyond lay a small, untidy yard, a kitchen door, and six windows he had memorized from stolen plans. The bedroom was upstairs at the rear. The loose floorboard lay three paw-lengths from the bed.
+
+Brightguard set the parcel on an outdoor table while she unlocked the kitchen. A green slice rolled from the paper, struck the boards, and landed by Maledict’s foot.
+
+He did not eat scraps from the ground.
+
+The vinegar sharpened every edge of the rain-washed world.
+
+He ate it.
+
+“Pickle,” Brightguard said.
+
+Maledict looked up.
+
+“You need something until morning.”
+
+It was not. He followed her inside to correct this insult by murder.
+
+***
+
+The bath was strategically unnecessary.
+
+Brightguard disagreed. She carried him through the kitchen while he went rigid with dignity, deposited him in a copper tub in the washroom, and closed the door. He inspected the latch. Lever handle, easily depressed in human form. His paw slipped off it twice.
+
+Behind him, water thundered.
+
+Maledict turned. Brightguard had removed her sword and coat but kept a knife at her hip. Good. Caution suited her. He would regret extinguishing such a formidable enemy for nearly a minute.
+
+“If you are an assassin,” she said, testing the water with her wrist, “this is going to be embarrassing for one of us.”
+
+His gaze flicked to the silver seed beneath his foreleg. One bite. Then a human hand around her throat before she could shout.
+
+Fourteen hours, he reminded himself.
+
+She lifted him into the tub.
+
+Water closed around his feet, warm enough that every muscle in his new body reconsidered its loyalties. Brightguard worked soap into his coat. Mud curled away in brown ribbons. Her fingers found the dense fur behind his ears, and something inside his skull loosened so suddenly that his back foot kicked the tub.
+
+They both looked at it.
+
+Maledict stopped the foot.
+
+Brightguard rubbed the same place again.
+
+The foot resumed.
+
+“A vulnerability,” she said gravely. “Useful to know.”
+
+He fixed her with a promise of annihilation. Soap slid down his nose. He sneezed in her face.
+
+She laughed. Not the bright, ceremonial laugh she used after foiling an execution or stepping alive from a ruined tower. This was one startled bark, gone almost before it happened.
+
+Maledict hated it. He hated the bath, the name Pickle, and the clean warmth creeping under his ribs.
+
+The drying was worse.
+
+Brightguard wrapped him in two towels and rubbed until the world became linen, friction, and hands. He endured thirty seconds before leaning, by accident, into the pressure. She scrubbed his cheeks and chest. He leaned harder. The towel moved down his spine. His eyes closed.
+
+This was not pleasure. It was the maintenance of an asset in hostile territory.
+
+When she stopped, he pushed his head under her hand.
+
+Brightguard’s fingers settled on his ears. “You are very bad at being mysterious.”
+
+Maledict opened his eyes.
+
+Somewhere in the washroom, a brass pipe snapped blue. Brightguard jerked her hand back.
+
+“Ow.”
+
+The transformation had one minor flaw. His coat accumulated harmless static and discharged it into nearby brass. Three sets of buckles had snapped at his fingers during testing before he moderated the effect. Apparently, rain and towels aggravated it.
+
+Brightguard took a wooden brush from a shelf and ran its back along him. The charge crackled away. “There. An ordinary nuisance.”
+
+No one had called any part of Maledict ordinary since he was seventeen.
+
+It was oddly difficult to object.
+
+***
+
+She fed him chicken in the kitchen, first examining each piece for bones. Maledict intended to eat only enough to sustain the disguise. The dog’s stomach, empty since dawn, possessed simpler ambitions.
+
+He swallowed the first piece without chewing.
+
+Brightguard raised an eyebrow. “Slowly.”
+
+He swallowed the second piece faster.
+
+She put a hand over the bowl.
+
+Maledict knew seven ways to remove it, none available without ending the infiltration. He sat. He produced a low, commanding sound.
+
+“That does not work on me.”
+
+It had worked on kings.
+
+She uncovered the bowl when he stopped growling. He ate with enough restraint to avoid choking, which was not the same as obedience. Fat, salt, hot meat, and crisp skin filled his mouth. He had attended victory feasts under ceilings painted with the surrender of nations. He had eaten white fruit brought through a gate that opened once every hundred years. None of it had demanded his entire attention the way a strip of chicken did now.
+
+Brightguard sat at the kitchen table with her own meal and a speaking mirror propped against the salt jar. A pinched man in a magistrate’s sash occupied the glass.
+
+“No movement at the western vault,” he reported. “His lieutenants are claiming seclusion, but none have received orders. We found two captains fighting over a key.”
+
+Maledict paused over the bowl. Excellent. Uncertainty was spreading on schedule.
+
+“And the river wards?” Brightguard asked.
+
+“Holding. If Maledict has the opening rite, he still needs your counterseal.”
+
+“Then let him come.”
+
+He was beneath her table, licking grease from a chipped blue bowl.
+
+The perfection of it sent a thrill through him. His enemies searched crypts, mirrors, old battlefields. His own servants trembled before an empty throne. Terror enlarged him even in absence.
+
+Brightguard’s boot rested near his nose. Leather, rain, smoke, the faint mineral smell of old spell-burns. Without thinking, Maledict placed his chin across it.
+
+The mirror conference continued above him. Reports. Failed searches. Three supposed sightings, all fools in theatrical cloaks. Brightguard ate, occasionally lowering a piece of chicken beneath the table without looking.
+
+Maledict accepted them because refusing would attract notice.
+
+By the time the mirror darkened, his eyes were half closed. He had not issued a command in hours. No messenger awaited his judgment. No acolyte watched his face for signs of displeasure. The world remained afraid without requiring him to do anything at all.
+
+Brightguard shifted her foot. Maledict grumbled and tightened his chin across it.
+
+“Is that so?” she said.
+
+It was temporary, he told himself. Fourteen hours.
+
+Then she threw a red wool ball down the hall.
+
+His body launched after it.
+
+***
+
+He caught the ball before the first bounce.
+
+This demonstrated the hunting efficiency of the form.
+
+He brought it back so Brightguard would throw it again, thereby permitting further evaluation.
+
+The second throw went through the parlor, under a chair, and off the skirting board. Maledict cornered it with brilliant lateral movement. The third climbed the stairs.
+
+He knew what she was doing. She was testing his coordination and, perhaps, leading him away from restricted rooms. He knew this while his claws scrabbled over the runner and the red ball rolled through the upstairs hall like the last surviving heart of a conquered city.
+
+He pounced on it.
+
+Brightguard came up behind him, slower now. The bedroom door stood open at the rear. Maledict saw the bed, the water glass on its little table, and the edge of the third floorboard. All objectives confirmed.
+
+Brightguard took the ball from his mouth. “No dogs upstairs.”
+
+She tossed it back down.
+
+Maledict ran after it.
+
+By the sixth throw, he had abandoned strategic terminology. Running felt good. Turning felt good. The ball was red, elusive, and his. He skidded into a basket of clean laundry, came out wearing a stocking over one ear, and found Brightguard sitting on the stairs laughing so hard she had to hold her burned arm against her chest.
+
+He dropped the ball at her feet.
+
+Again.
+
+She understood.
+
+Later, she arranged a folded blanket outside her bedroom. “Just tonight,” she said. “The animal office opens in the morning.”
+
+Maledict turned in three circles before lying down. He did this because the blanket’s folds required compression, not because the body asked him to.
+
+Brightguard sat in the hall for another hour with papers spread around her. Maledict watched through lowered eyelids as she marked possible refuges on a map. The list included a drowned palace, a monastery whose monks had all taken vows to kill him, and the moon.
+
+“Not the moon,” she muttered, crossing it out.
+
+Correct. He had found it draughty.
+
+She checked the window locks, set three hair-thin alarms across the stairs, and closed restricted doors. Before entering her room, she ran the wooden brush along Maledict’s coat until the little blue sparks stopped jumping.
+
+“Good night, Pickle.”
+
+The latch clicked.
+
+He waited.
+
+At midnight, he would depress the latch with both paws. He would spit the bead into her water, lift the loose board with his teeth, take the counterseal, bite the silver seed, and depart in his own magnificent body. Four actions. No resistance.
+
+Maledict listened to Brightguard’s breathing settle beyond the door. Rain ticked at the high window. The folded blanket held heat beneath his chest and smelled faintly of cedar.
+
+He closed his eyes to concentrate.
+
+***
+
+When he woke, the house was silent.
+
+Maledict surged to his feet, outraged by treachery. The blanket had no mind and therefore could not have drugged him. Brightguard had not touched it since his arrival. His own body had simply slept.
+
+Moonlight silvered the hall. He had missed midnight by nearly two hours.
+
+This changed nothing.
+
+He placed both forepaws on the bedroom handle and leaned. The latch withdrew. The door opened without a whisper, precisely as planned. Brightguard lay on her side beneath a dark quilt, one hand near the knife on her bedside table. Her sword leaned within reach. A ward line glowed under the bed, tuned to sudden spells and hostile shapes. It paid no attention to the clean brown dog padding across the boards.
+
+The poison bead remained tucked behind Maledict’s molar. He worked it forward with his tongue until its bitter glass touched his teeth. Her water waited, uncovered.
+
+First, the counterseal.
+
+He found the board by smell: dust, iron, Brightguard’s skin from the last time she had opened it. One corner stood a fraction proud. He wedged a claw into the gap and scraped. The sound was enormous in the sleeping room.
+
+Brightguard shifted.
+
+Maledict froze. Her hand touched the knife, then fell away.
+
+He worked his teeth under the board and lifted. Beneath it, wrapped in black cloth, rested a disk of dull white stone. The counterseal. He could carry it past the household wards in this shape, spit the poison into her water, and break the silver seed once clear of the gate. If she woke, he could reverse here and trust speed against her alarm. Every failure remaining in the world was someone else’s.
+
+Brightguard made a small sound in her sleep.
+
+Maledict turned. Her eyes stayed closed. She lifted the edge of the quilt.
+
+“Come on, then,” she murmured.
+
+He stared at the opening.
+
+The blackglass bead waited between his teeth. The counterseal lay inches from his nose. Under his left foreleg, the silver seed pressed against the skin, ready to break.
+
+He would get onto the bed to preserve the disguise.
+
+Maledict pushed the floorboard down with his nose. The counterseal vanished beneath it.
+
+He would wait until Brightguard’s hand moved away from the water.
+
+He climbed onto the bed. Her hand settled heavily across his shoulder. Heat soaked through his coat. He kept the poison secure and counted her breaths.
+
+At thirty, her hand slipped away.
+
+Nothing prevented him from moving.
+
+Maledict lay in the dark and considered the seven storm vaults, the valleys below them, his empty throne, the captains fighting over keys, the century of dominion he had designed down to its final obedient bell. He considered baths and chicken. He considered the red ball waiting beneath the parlor chair. He considered never again having to explain why a failure was not his fault, because no one asked a dog to rule competently.
+
+The valleys would survive him. Brightguard would wake. Neither was why.
+
+He had not become kind. He was abandoning murder, empire, and catastrophe because victory would end the blanket, the chicken, and the reasonable expectation of breakfast.
+
+The trade was disgraceful.
+
+It was also, Maledict admitted, much better.
+
+He pushed the bead deep into his cheek, nosed farther under the quilt, and went back to sleep.
+
+***
+
+The animal office asked Brightguard to keep him three more days while its kennels were repaired. On the second day, it sent a carriage anyway. By then Brightguard had purchased a lead, two brushes, and a bed he disliked because her chair was softer. She looked at the waiting handler, looked at Pickle, and shut the door.
+
+“It seems you live here,” she told him.
+
+Maledict rolled onto his back and demanded attention to his stomach.
+
+Weeks passed. Each offered chances to resume his form. Brightguard left him alone while she searched old tunnels. She took long baths behind an unlocked door. She fell asleep over maps with the counterseal sometimes near enough to touch. Maledict kept the silver seed unbroken and the poison bead hidden. He stole half a pie, shed on her formal cloak, and learned that barking once at the pantry produced better results than terrorizing a province.
+
+Outside the house, his dominion disassembled itself. One lieutenant declared herself his successor and lasted four days. Rivals raided his northern storehouses. Heroes searched the drowned palace, the murderous monastery, and several other places Maledict had once described as “draughty” without imagining this would become useful intelligence.
+
+One afternoon Brightguard returned from a council session, dropped her sword belt by the door, and found Pickle occupying the whole good chair.
+
+“Move,” she said.
+
+He looked at her.
+
+She sat on the floor beside him.
+
+A speaking mirror on the table announced that another sighting had proved false. Brightguard scratched behind Maledict’s ear while she listened. Before touching the brass buckle on her boot, she grounded his coat with the wooden back of the brush. Blue sparks clicked harmlessly into the bristles.
+
+“He cannot hide forever,” she said.
+
+Maledict considered this.
+
+From the kitchen came the sound of a tin opening, followed by the smell of beef, gravy, and the special biscuits Brightguard claimed were only for training.
+
+Pickle got down from the chair and trotted toward dinner.
