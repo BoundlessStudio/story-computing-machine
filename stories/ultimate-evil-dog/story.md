@@ -104,7 +104,7 @@ Maledict looked up.
 
 “You need something until morning.”
 
-It was not. He followed her inside to correct this insult by murder.
+He followed her inside to correct this insult by murder.
 
 ***
 
