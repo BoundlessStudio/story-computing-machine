@@ -86,10 +86,29 @@ one named stage.
    reads the complete final prose and writes only the spoiler-light 9:16 title
    visual. Unless the prompt says otherwise, use the repository's premium
    anime/light-novel key-visual default defined in that agent.
-   The coordinator must then inspect the saved image at full resolution for
-   exact title text, plausible anatomy and object counts, coherent perspective
-   and spatial relationships, and unintended text or visual artifacts; delegate
-   targeted regeneration until that visual review passes.
+   The illustrator and coordinator must each judge the saved image through
+   three separate gates:
+   - **Story promise** — the image foregrounds the story's distinctive emotional
+     or narrative contradiction, could not be mistaken for a generic genre
+     cover, preserves character roles and relationships, and does not imply a
+     resolution the prose has not earned.
+   - **Cover read** — at thumbnail scale the exact title is readable once, the
+     focal hierarchy is immediate, and the important figures, relationships,
+     and story-specific objects remain legible rather than collapsing into a
+     crowded tableau.
+   - **Image integrity** — at full resolution anatomy and object counts are
+     plausible, hands and faces withstand close inspection, perspective and
+     physical connections are coherent, and there is no unintended text,
+     pseudo-text, watermark, or visual artifact.
+   The coordinator must compare the actual saved image against the prompt and
+   final prose and make an independent decision; the illustrator's self-report
+   is not acceptance. Technical polish cannot compensate for a generic or
+   off-promise concept. When a gate fails, delegate a concise regeneration brief
+   that says what to preserve, names the blocking miss, directs the composition
+   or focal change, and restates the invariants. Require a new composition for a
+   story-promise failure and a targeted correction for a localized integrity
+   failure. Repeat review until all three gates pass, and do not capture a
+   rejected image.
 8. Run `Test-Stories.ps1 -Phase Final` locally, capture the story with
    `python pages/build.py capture <slug>` once, and run
    `python pages/build.py check`. Stage the story's four Markdown files together
