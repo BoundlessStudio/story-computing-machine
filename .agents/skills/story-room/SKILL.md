@@ -34,10 +34,15 @@ Never use it to reopen a completed current or locked legacy story.
    the complete story and writes only `title-image.jpg`, an exact 9:16 portrait,
    spoiler-light title visual. Unless the assignment overrides it, use the
    agent's premium anime/light-novel key-visual default.
-   The coordinator then inspects the saved image at full resolution for exact
-   title text, plausible anatomy and object counts, coherent perspective and
-   spatial relationships, and unintended text or visual artifacts; request
-   targeted regeneration until that visual review passes.
+   The illustrator self-reviews and the coordinator independently reviews the
+   actual saved file through three gates: story promise, thumbnail cover read,
+   and full-resolution image integrity. A mechanically clean but generic image,
+   or one that omits the prompt's defining relationship or contradiction, does
+   not pass. When a gate fails, send a regeneration brief that identifies what
+   to preserve, the blocking miss, the required focal or compositional change,
+   and the unchanged constraints. Use a new composition for an editorial miss
+   and a targeted correction for a localized defect. Do not capture until all
+   three gates pass.
 8. Run final validation, then capture the story with
    `python pages/build.py capture <slug>`. This mandatory final handoff updates
    the stored prose catalog and its matching Pages cover asset.
@@ -97,12 +102,49 @@ the craft checklist, and repeated plot summaries do not.
 Read the complete final reader-facing story, select one spoiler-light scene or
 visual metaphor that carries its emotional promise, and write only
 `title-image.jpg`. Preserve story-specific character, setting, era, mood, and
-material details. The source asset must be a high-quality JPEG at exactly
-864x1536 pixels. It must display the exact reader-facing story title once, with
-no author name, caption, logo, border, watermark, or other text. Generate the
-illustration and verbatim title together in one image-generation pass; canvas
-normalization may not add or replace typography. Inspect the generated image at
-full resolution for plausible anatomy and object counts, coherent perspective
-and spatial relationships, and unintended visual artifacts before saving. The
-image is presentation, not canon authority, and must never cause prose or
-continuity edits.
+material details. Before generating, form a compact internal cover brief: the
+story's distinctive promise, the relationship or contradiction the image must
+foreground, the minimum story-specific visual evidence, the spoiler boundary,
+and likely anatomy, crowding, typography, or spatial risks. Do not save this as
+another artifact.
+
+The source asset must be a high-quality JPEG at exactly 864x1536 pixels. It
+must display the exact reader-facing story title once, with no author name,
+caption, logo, border, watermark, or other text. Generate the illustration and
+verbatim title together in one image-generation pass; canvas normalization may
+not add or replace typography.
+
+Before saving, review the candidate through all three gates:
+
+- **Story promise:** the image reads as this story rather than merely its genre.
+  It makes the defining relationship, contrast, or pressure visually primary,
+  preserves who is aligned with whom and who holds power, and does not falsely
+  advertise reconciliation, triumph, romance, scale, or stakes absent from the
+  prose. A generic action pose or literal captivity image fails when the prompt's
+  real promise is the relationship revealed inside that situation. When the
+  promise depends on contrasting couples, groups, roles, or relationships, show
+  enough people or unmistakable visual evidence to make that contrast legible.
+  Reducing the cast or hiding anatomy risk is valid only if it does not erase the
+  premise.
+- **Cover read:** inspect at reduced cover-card scale. The exact title remains
+  immediately readable once; the silhouette, focal hierarchy, emotional read,
+  important relationships, and story-specific object or setting cue survive
+  reduction. Reject crowding, competing focal points, decorative detail that
+  looks like text, or a composition whose premise becomes legible only after
+  reading the story.
+- **Image integrity:** inspect at full resolution. Count every intended person
+  and visible limb; trace hands, fingers, faces, restraints, held or suspended
+  objects, reflections, shadows, and contact points. Reject fused or duplicate
+  anatomy, ambiguous couples or roles, floating or disconnected objects,
+  incoherent perspective, impossible support or restraint geometry, accidental
+  extra figures, unintended text or pseudo-text, watermarks, and crop damage.
+
+If any gate fails, regenerate before saving. For a story-promise or focal miss,
+choose a materially different composition instead of cosmetically repairing the
+same idea. For a localized integrity defect, make one targeted correction while
+repeating every invariant that already works. Use this regeneration structure:
+`Preserve`, `Blocking miss`, `Change`, and `Keep fixed`. Return the final cover
+thesis, one-sentence visual description, exact verified title, concise pass
+result for all three gates, final prompt/spec, and saved path. The image is
+presentation, not canon authority, and must never cause prose or continuity
+edits.
