@@ -21,7 +21,12 @@ param(
 $ErrorActionPreference = 'Stop'
 
 if ([string]::IsNullOrWhiteSpace($ProjectRoot)) {
-    $ProjectRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../../../..'))
+    $invocationDirectory = (Get-Location).Path
+    $gitRoot = (& git -C $invocationDirectory rev-parse --show-toplevel 2>$null)
+    if ($LASTEXITCODE -ne 0 -or [string]::IsNullOrWhiteSpace($gitRoot)) {
+        throw 'Run new-story.ps1 from within the target Git worktree or pass -ProjectRoot explicitly.'
+    }
+    $ProjectRoot = [IO.Path]::GetFullPath($gitRoot.Trim())
 }
 else {
     $ProjectRoot = [IO.Path]::GetFullPath($ProjectRoot)

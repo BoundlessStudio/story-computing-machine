@@ -47,14 +47,22 @@ Before starting any new story, make branch setup the first repository action:
 
 1. Switch to `main`.
 2. Pull the latest changes from `origin/main` with a fast-forward-only pull.
-3. Create and switch to a new `codex/story-<slug>` branch.
+3. Create a new `codex/story-<slug>` branch from the updated `main` without
+   switching the primary checkout away from `main`.
+4. Add a dedicated sibling Git worktree for that branch, then use the worktree
+   as the working directory for the coordinator and every delegated agent for
+   the rest of the story workflow.
 
 Do not scaffold, read for story production, or modify story files until this
-sequence is complete. If local changes prevent switching branches safely, stop
-and ask the user how to preserve them. Never change `stories/` or `universe/`
-on `main`; merge the story branch through a pull request. Git is the history;
-do not create manifests, ledgers, receipts, release certificates, or duplicate
-lifecycle records.
+sequence is complete. Resolve and retain the worktree's absolute path before
+delegating, and include that path in every agent assignment so no story work
+lands in the primary checkout. Run all validation, capture, Git, push, and pull
+request commands from the worktree. If local changes prevent switching the
+primary checkout to `main` safely, or if the intended worktree path is already
+occupied, stop and ask the user how to preserve or reuse it. Never change
+`stories/` or `universe/` in the primary `main` checkout; merge the story branch
+through a pull request. Git is the history; do not create manifests, ledgers,
+receipts, release certificates, or duplicate lifecycle records.
 
 ## `[WP]` workflow
 

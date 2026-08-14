@@ -18,14 +18,17 @@ Each cover includes the exact reader-facing story title once.
 
 ## Quick start
 
-1. Create `codex/story-<slug>` from current `main`.
-2. Open this repository as the Codex workspace.
-3. Submit a prompt such as:
+1. Open the primary `main` checkout as the Codex workspace.
+2. Submit a prompt such as:
 
    ```text
    [WP] Every city has a ghost assigned to it. Tonight, ours resigns.
    Target: about 3,000 words; close third person; melancholy but hopeful.
    ```
+
+3. The coordinator updates `main`, creates `codex/story-<slug>`, adds a
+   dedicated sibling Git worktree for the branch, and runs the complete story
+   workflow from that worktree.
 
 The default result is a reviewed, non-canon story. Adding it to shared canon is
 a separate explicit user decision.
