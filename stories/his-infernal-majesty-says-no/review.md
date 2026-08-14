@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Lord Vordain | new | No exact, alias, close-spelling, or confusing semantic reuse found; `Vordain` and `His Infernal Majesty` consistently identify the same reigning hell-lord father. |
+| Lord Vordain | new | No exact, alias, close-spelling, or confusing semantic reuse found; `Vordain`, `His Infernal Majesty`, and `Papa` consistently identify the same reigning hell-lord father. |
 | Sivelle | new | No exact, alias, close-spelling, or confusing semantic reuse found; she is Vordain's newly adult daughter. |
 
 ## Places
