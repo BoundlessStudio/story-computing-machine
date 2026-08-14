@@ -149,6 +149,50 @@ class StorySystemTests(unittest.TestCase):
             ):
                 self.assertIn(field, outline)
 
+    def test_scaffold_defaults_to_invocation_git_root(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            temporary_root = Path(temporary)
+            source_checkout = temporary_root / "source-checkout"
+            target_worktree = temporary_root / "target-worktree"
+            copied_script = source_checkout / ".agents/skills/story-room/scripts/new-story.ps1"
+            copied_script.parent.mkdir(parents=True)
+            shutil.copy2(NEW_STORY, copied_script)
+            for checkout in (source_checkout, target_worktree):
+                (checkout / "stories").mkdir(parents=True)
+                shutil.copytree(REPO / "stories/_template", checkout / "stories/_template")
+            subprocess.run(
+                ["git", "init", "-b", "codex/test-worktree"],
+                cwd=target_worktree,
+                text=True,
+                capture_output=True,
+                check=True,
+            )
+
+            completed = subprocess.run(
+                [
+                    "pwsh",
+                    "-NoProfile",
+                    "-File",
+                    str(copied_script),
+                    "-Slug",
+                    "worktree-sample",
+                    "-Title",
+                    "Worktree Sample",
+                    "-Prompt",
+                    "[WP] A portable scaffold test.",
+                    "-Date",
+                    "2026-08-06",
+                ],
+                cwd=target_worktree,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            self.assertTrue((target_worktree / "stories/worktree-sample/prompt.md").is_file())
+            self.assertFalse((source_checkout / "stories/worktree-sample").exists())
+
     def test_pre_review_accepts_pending_review(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
