@@ -8,388 +8,306 @@ canon: false
 
 # The Blade Calls Your Name
 
-The driest thing in the road house was a roof beam no wider than Marram's hand.
-She lay along it with one knee hooked over a crosspiece and the sealed jar tied
-against her ribs. Below her, rain worried at the shutters. It found the copper
-gutter, ran to the corner chain, and ticked into a sand bucket by the back door.
+Rethka Vol drew a chalk line across the road where she meant to break the mountain.
 
-Lilt crouched on the next beam, a pale shape among the rafters. The hem of her
-coat was still dark from the road. Between them hung two arm lengths of open
-air, then the loft floor with its copper-edged hatch.
+The line was scarcely longer than her arm. It crossed a black fissure in Talasar’s stone, then vanished beneath the boots of the last stretcher team stumbling east. The highland road ran along a knife-backed ridge between two clouded ravines. To the north, a hanging face of rock leaned over the passage, its roots split by a season of earthshocks. Pebbles had been ticking down from it since noon.
 
-"Keep to wood," Marram whispered. "A road name limits a search only while we
-give him nothing else. Skin off every fitting. Jar off them too."
+A stripe of broken daylight crawled over Rethka’s chalk. It moved east although the sun stood east, rippling across boots and shields like light reflected from water.
 
-The front door opened downstairs.
+“Twelve still behind,” said the youngest of her demolition guard.
 
-There came no boots at first. Only the small sounds of a careful man entering a
-dark house: the latch eased back, wet gloves pressed together once, a shutter
-hook lifted and set down. Then metal slid into metal beneath them.
+Rethka did not turn. She could hear the twelve coming: two squads and a limping signaler, iron-shod boots striking the ridge in ragged time. Farther west came Eshren’s people, thousands pressed onto the same narrow road—fighters at their front, wagons and litter teams behind. They had burned three of Rethka’s border camps in spring. Rethka’s column had emptied two of their wells in summer. By autumn, neither people had enough country left to retreat through, and Talasar was the only highland passage not buried by landslides.
 
-Every copper piece in the house spoke at once.
+She set the last clay charge into the fissure. When her twelve crossed the chalk, she would light the cord. The middle span would drop. Eshren’s column would be stranded on the western ridge, and hers would gain a day to reach the eastern descent.
 
-"Marram."
+One clean loss. That was how you kept a column alive.
 
-The word trembled from the hatch rim, the stove hoops, the rain chain, and the
-green-headed tacks holding waxed cloth over sacks of flour. None of those things
-knew her. The narrow search-blade seated in the house circuit knew nothing
-either. A living hand below had given it the one line he possessed, and the
-fittings carried what that hand sent.
+The wind blew from the east, hard enough to stream every banner westward.
 
-That did not make the sound easier to bear.
+Against it came a voice.
 
-Marram had chosen the name from salt grass that survived in roadside ditches.
-She had expected to discard it when the journey ended. Now it traveled through
-the building in her own remembered cadence, almost her voice and wrong in every
-joint.
+“Rethka Vol.”
 
-Lilt's head turned toward the hatch. Marram put one finger to her lips.
+Her name crossed Talasar as if distance had bent to listen. It sounded from the overhanging cliffs and returned from the ravines, clear and enormous, nothing like an echo.
 
-The examiner spoke from the public room. His ordinary voice was low and dry.
-"I have closed the door branch. The jar you took carries unsecured Regent
-lines. Set it on the loft ladder and move away."
+The stretcher team halted. The last twelve stopped running. Across the widening space, Eshren’s front rank went still.
 
-A click followed. In the front wall, copper lock straps took up the current.
-Green moisture beaded along their screw holes. The nearest flour cover puckered
-as sour-smelling droplets crept under its edge.
+Rethka rose with the fuse cord in her hand.
 
-Marram shifted her weight toward the westward beam. She had studied the branch
-marks beside the stairs when they broke into the shuttered house: door first,
-stove second, gutters third, then the loft fittings. The old roof service
-cavity ran west to the eaves. If she and Lilt reached it before the gutter
-branch closed, they could lift three slates and drop to the woodpile.
+“Rethka Vol.”
 
-They could still carry person, jar, and plan out together.
+This time she saw where the voice began.
 
-She pointed. Lilt went first, placing her palms where Marram had placed hers on
-the climb up. She moved like someone reading a road in bad weather, testing each
-span before committing her weight. Marram followed less neatly. The jar pulled
-at its cord whenever she crawled, a fist-sized copper weight wrapped in waxed
-canvas. Six thin leaves had once stood separated inside it. Four were gone now,
-returned one by one to the people whose lines had been pressed into them. Two
-remained.
+A man stood before the enemy column in a coat of grey scales, broad without heaviness, bareheaded in the mountain wind. In his right hand he carried a long transparent sword.
 
-The blade called again.
+Heshavar was one piece of glass from pommel to point. Its clear blade rose in fixed ridges like a single wave arrested at the instant before it broke; its guard curved from that same unbroken piece, and even the grip preserved the glass’s watery shape. Motionless seams of white salt crossed its depths. Sunlight caught every ridge and cast the moving bands that had reached Rethka’s chalk.
 
-"Marram."
+Heshavar was not alive. No spirit occupied the glass and no creature slept within it. It was Glass Sea glass and nothing else, a wholly nonliving thing whose own impossible magic called a master, chose a hand, and carried a stroke beyond the reach of steel. That defiance belonged to Heshavar alone. No ordinary shard of the old sea had ever called a name.
 
-This time the sound was strongest in the front lock straps. The examiner had
-searched that branch and found no living return. A lever knocked into its next
-notch below.
+Every child along the western border knew its shape. Heshavar had opened a mountain pass, felled nine towers, and cut a rainstorm in half long enough for an army to cross dry ground. The songs disagreed about its age. They agreed on one thing: before every master, Heshavar called a name.
 
-Heatless current entered the stove hoops.
+Eshren was not dead.
 
-Lilt was halfway across the beam above the kitchen. She stopped with one boot
-hovering over a copper brace sunk into the wall. At first the brace only shone
-wetly. Then green sweat welled from its edge and slid down the plaster.
+He stared through the clear blade at Rethka as if the glass had struck him.
 
-"Back," Marram breathed.
+Rethka’s column-master pushed back through the eastward crowd. “Why did it say your name?”
 
-There was no room to turn. Lilt backed by feel, sole finding the beam while the
-brace began to hum under it. Marram retreated faster than she meant to. Her
-shoulder struck a hanging scoop. Its wooden bowl swung; its copper-repaired
-handle tapped the wall.
+“Ask it.” Rethka thrust the fuse cord at the young guard. “Nobody stops. Get the twelve across my mark.”
 
-Below, silence.
+The column-master caught her arm. “If that is Heshavar—”
 
-The examiner said, "You are above the pantry."
+“It is still in his hand.”
 
-Marram caught the scoop before its second swing. Lilt looked at her, asking
-without words whether to run. Marram shook her head. The stove branch stopped
-humming.
+Behind Eshren, horns sounded. His fighters spread across the western ridge as far as the road allowed, shields overlapping. Eshren drew a smoked-cloth veil from the long glass blade. He wound it around his forearm without looking, the motion worn smooth by years of hiding Heshavar’s betraying flashes.
 
-"Marram," said the hatch rim behind them.
+Then he set his feet.
 
-The call had moved, but not close enough. The blade could narrow one supplied
-line through the circuit. It could not pluck a family from Marram's blood or a
-home from her memory. The examiner still had to search the house piece by
-piece, and their bodies still had to touch or bridge his current before he
-could place her exactly.
+Rethka had seen his long stroke once, from half a valley away. Heshavar’s blow had crossed the distance between armies and peeled the gates from a fortress without touching the wall around them.
 
-"That name," Lilt whispered. "Is it yours?"
+“Down!” she shouted.
 
-Marram watched the copper brace. "For roads."
+Eshren swung.
 
-"You never said."
+The salt seams inside the transparent blade remained dull. No force crossed the ridge, no distant cut thundered through Rethka’s people. Heshavar moved only as its weight and Eshren’s muscle moved it, whistling through cold air. The clear tip fell short of the stone.
 
-"You didn't need it."
+The sword spoke while he still held the failed stroke.
 
-Lilt's mouth tightened. It was the look she gave a washed-out path when Marram
-insisted the map was probably right. "You know what I need now?"
+“Rethka Vol.”
 
-"A dry route. Move."
+The name passed through both columns. Some of Eshren’s fighters recoiled from him. Others raised their shields higher, as though Rethka had loosed a flight of arrows. One woman sank to her knees beside a wagon, but the old man driving it struck her shoulder and made her rise. Nothing had stopped except belief.
 
-Marram pointed them east, back across the pantry beam toward a triangular gap
-between the inner roof and the chimney housing. It was tighter, but it joined
-the same service cavity beyond the live stove brace. They had lost time and
-gained no distance. She kept the jar tied to herself.
+An earthshock struck beneath them.
 
-They crawled. Beneath them, the examiner walked from the circuit block to the
-base of the loft ladder. Two other sets of boots moved outside, one around each
-wall. Road wardens. Marram had counted three horses through a crack in the
-shutter, but she had hoped the other two belonged to sleeping travelers.
+The ridge bucked once. A crack leaped from the hanging face toward Rethka’s chalk line, and the charge jars clicked against one another in their sockets.
 
-"You returned four leaves," the examiner said. "That does not make your method
-safe. It makes four journeys on which no one robbed you."
+“Move!” Rethka bellowed. “The mountain does not care whose song this is.”
 
-Marram pressed herself into the chimney gap. Rough plaster grated her coat.
+Her twelve ran. The last iron-shod boot cleared the chalk, and the column moved again.
 
-"A private operator needs one of those leaves and a cooperative house circuit,"
-he continued. "A creditor would buy both. A grieving family might decide a
-recognized home belongs to them. You cannot promise the leaves reach the people
-whose lines they carry. I can contain them."
+Eshren lowered Heshavar. He looked older now that he no longer stood inside the shape of the legend. “Rethka Vol,” he called in his own voice. “Come halfway.”
 
-Marram could not answer without giving his ears another measure of distance.
-She also could not dismiss the warning. The second line-holder had changed
-roads twice since the jar was filled. The last return mark might lead to an
-empty room, or to kin who would say they had a better claim. That was why Marram
-had kept the marks. Lilt could guide them through rain and patrols, but only
-Marram knew whose hands should open the jar.
+The column-master drew Rethka aside. “Go. Take the sword. If he resists, take his head with it.”
 
-It had seemed like protection when there was still road ahead.
+“My charges are live.”
 
-Lilt slipped through the gap. Marram loosened the jar, pushed it ahead of her,
-then dragged herself after. The chimney housing narrowed around her shoulders.
-Canvas rasped over plaster. For three long pulls she could move neither forward
-nor back.
+“Your guard can light a cord.” The column-master glanced beyond Eshren’s shield line. “That blade ends pursuit. With it, we don’t only escape. We go home.”
 
-The examiner changed branches.
+Home lay west, beyond the army now filling the road. Rethka pictured the border shelf in spring, dark soil terraced between the foothills, seed bells knocking in the wind. She had spent six months cutting away everything between her people and that shelf. Wagons first. Then tents. Then the slow. Every loss had purchased another mile.
 
-Current struck the gutters.
+Heshavar could purchase the rest.
 
-Rain gave it the whole roof edge. Copper chains spat green droplets into their
-sand buckets. The west rafters answered with a deep, wet note, and the lifting
-hooks beneath the slates brightened through the dark.
+She took six of her guard onto the empty middle span. Eshren came alone from the west.
 
-Their planned exit vanished within arm's reach.
+Up close, the sword was transparent enough for Rethka to see his grey sleeve through its wave-ridged blade. The trapped salt made thin, unmoving seams from guard to point. Bands of false water crawled over the road even while he held Heshavar still. He angled the flat toward the empty ravine so the flashes would not blind his own front rank. Fine stone grit had gathered in the blade’s ripples; he worked it free with his thumb.
 
-Lilt seized Marram's sleeve and pulled. Marram came through the chimney gap so
-suddenly that the jar rolled from her hands. Lilt trapped it against a dry
-joist with her boot.
+“It has called three times,” Rethka said. “Do you need a fourth?”
 
-Inside the waxed canvas, something whispered.
+Eshren’s gaze settled on the chalk dust across her knuckles. “My teacher was dead eleven days when Heshavar called me. Her teacher had been ash for a year. In every account we possess, one bearer ended before the next began.”
 
-The two leaves were mounted apart, each held in its own cork groove. The gutter
-current had found the jar's outer shell through damp cloth and wet leather. It
-could not read what was sealed inside. It made the thin leaves vibrate across
-the gap, one taking up the other's pitch until their separate tones roughened
-into a single ugly chord.
+“Then your accounts are short one living man.”
 
-Marram snatched the jar clear and cradled it against the dry beam. The sound
-faded.
+“Or I am about to die.” He did not make a performance of the words. That made them harder. “I have carried it thirty years. I used its realm-stroke against the reed kings. I slept with that glass under my coat when my daughter was born. When it cracked in the shale country, I splinted the pieces and kept watch for nine days until its own light sealed them.”
 
-"Keep it sealed," the examiner called. For the first time, urgency cracked his
-procedural calm. "Put it across a live fitting and the impressions may cross.
-Then you will have no clean line to return."
+His ungloved left hand hovered near the transparent blade. Whatever attachment thirty years could build between a man and an unthinking relic, it had not begun today and did not belong to Rethka’s songs.
 
-Marram had already seen the possibility. The jar's rim would bridge the gutter
-hook and the chimney band. Two leaves could swallow the search current, foul
-the call, perhaps even kick the blade from its slot below. It would also grind
-the remaining impressions together. The people at the end of the route would
-receive copper carrying some mixture of each other, useful to anyone and
-faithful to neither.
+“Why did it call you?” he asked.
 
-Lilt read the thought in her face. "It would stop him?"
+“No explanation came with my name.”
 
-"It would stop everything we came to do."
+“What will you do with it?”
 
-"Then give it to me. Your coat is soaked."
+“Get my people off this road.”
 
-"No."
+“By cutting mine from it.”
 
-"I can keep it dry."
+She looked past him. His front ranks were soldiers. Behind them the truth broadened: handcarts, wrapped infants, a roof beam carried by four people who had refused to leave it, wounded riders lashed upright because there were no more litters. A boy walked with one hand on a milk goat’s back and the other pressed to a bandage at his ear.
 
-"You know the route, not the returns."
+None of that cleansed the ash from Rethka’s border camps. It only gave the people who had burned them faces and weight.
 
-The words landed harder than Marram intended. Lilt took her boot from the
-joist. "Exactly."
+“Get them off my western span,” she said. “I will drop the middle after my last guard crosses.”
 
-Below, a ladder rung creaked. One warden was climbing while the examiner kept
-his living hand on the blade. The second remained outside. The circuit called
-Marram's road name softly through the rain hooks, then through the chimney band,
-testing each branch in turn.
+“The western retreat vanished behind a slide this morning. We have nowhere to go but east.”
 
-Marram tucked the jar back under her coat and led them deeper into the service
-cavity.
+“There is no room east.”
 
-The passage was built for soot brushes and roof tools, not bodies. It bent
-around the chimney and descended between two walls. Marram went feet first,
-feeling for dry pegs in the dark. Lilt followed close enough that her knee
-pressed Marram's shoulder whenever the ladder below groaned.
+“Then your people and mine are standing in the same grave.”
 
-At the bottom, the cavity divided.
+The hanging face groaned above them. A shelf broke from its lower edge and struck the north slope far below. Dust billowed higher than the ridge.
 
-To the left, a waist-high maintenance door opened into the loft. A copper wear
-strip crossed its sill, keeping tool carts from chewing through the wood. Beyond
-it lay the loft hatch and, somewhere below, the warden on the ladder. To the
-right, a clay ash chute dropped beside the chimney to the outdoor cleanout. Its
-interior was narrow and black. Lilt might work through with the jar held ahead
-of her. Marram had barely passed the wider chimney gap. Her shoulders would
-seal the chute like a stopper.
+Eshren lifted Heshavar until the wave-ridged blade lay level between them. “The old telling leaves me one answer to a second name.”
 
-The sill strip was still dark.
+Rethka drew her thick-backed ridge sword. “Your old telling is welcome to try.”
 
-"There," Marram whispered, pointing into the ash chute.
+“Not here,” said her young guard. “Captain, the fissure—”
 
-Lilt looked down, then back toward the maintenance door. "Both of us?"
+Another earthshock rolled up through Talasar. The road dropped the breadth of two fingers. Men and women fell against one another in both columns. One clay charge leaped from its socket and broke harmlessly against Rethka’s boot, spilling black powder.
 
-"You."
+Her marked fissure did not open. The new crack skipped beneath it, tore southward through the ridge, and swallowed the narrow descent Rethka’s column had meant to use. A hundred paces of road folded into the ravine. The head of her column was trapped on the eastern shelf.
 
-"No. We cross the loft before he changes branches."
+Above them, the escarpment leaned.
 
-"The hatch rim is live. The roof is live."
+At first its movement was visible only in the streams of dust pouring from its brow. Then daylight opened along its northern root, a widening slit beneath a slab large enough to bury both columns. It would fall across Talasar from north to south. If its weight struck the road whole, the knife-backed ridge would drive downward like an axe into rotten wood.
 
-"Then we wait him out."
+Rethka knew broken highlands. She saw the two paths before anyone spoke them.
 
-"With a warden climbing?"
+The falling face’s eastern lip could be broken. Its mass would slew west along the ridge, sweeping Eshren’s column from the road. The slide would pack the breach below Rethka’s people into a rough descent while leaving the western anchorage intact. In time, they might even reopen the road home.
 
-Lilt put a hand against the clay lip. Soot marked her fingertips. "You brought
-me because I could find a road after maps stopped helping. Let me find one."
+Or the western anchorage itself could be cut. Freed from its root, Talasar would split when the escarpment struck. One half would fall north and one south, spreading into two brutal fans of broken rock instead of one grave. Both columns might reach the lower valleys.
 
-Marram's first impulse was to refuse and keep all three moving: Lilt, jar,
-herself. She had built the journey that way. Lilt received each turn only when
-they reached it. The line-holders received no warning that could be intercepted.
-Marram alone carried the return marks, scratched on bone tabs sewn inside her
-collar. No captured person could betray the whole route.
+The road west would be gone to its foundations. No army would march home across it in Rethka’s lifetime.
 
-No free person could finish it either.
+The column-master saw enough in her face. “When you have Heshavar, turn the fall west.”
 
-She cut the tabs from her collar.
+Eshren heard. His expression changed, not to outrage but decision. “I cannot give you my people’s death.”
 
-One bore a split spindle. The other showed a cup with a crack down one side.
-They were not identity-lines, only signs their holders would recognize and draw
-in return. Marram pressed them into Lilt's sooty palm.
+“And I cannot give you mine,” Rethka said.
 
-"The spindle comes first," she whispered. "The holder will draw it before you
-show the tab. If no one can, keep the leaf sealed. The cracked cup is farther
-along the same road. No kin, no clerk, no one who says they can accept on the
-holder's behalf. If the holder is gone, you carry it until you can be certain."
+He came for her.
 
-Lilt stared at the tabs. "You let me walk four returns without knowing what was
-in your coat."
+Heshavar had denied him its distant stroke. It had not taken thirty years from his hands. Eshren crossed the stone in two steps and cut low. Rethka caught the transparent edge on the spine of her ridge sword. The impact numbed both arms and sent a watery stripe of sunlight whipping around them.
 
-"Copied lines. Not minds. Enough to find and hurt the holder. Enough that the
-choice belongs with them."
+“Rethka Vol,” Heshavar said through the joined blades.
 
-"And now you want me to carry them alone."
+Eshren wrenched free before she could bind his wrist. He drove her backward with three compact cuts, each placed where the next shudder of the road would spoil her footing. He had survived long enough to make a skill of everything that wanted him dead.
 
-"I do."
+Rethka let him think she would guard high a fourth time. When his shoulders turned, she stepped inside the clear edge and struck his mouth with her pommel. Blood flecked his lips. He answered with Heshavar’s glass guard against her ribs. Pain flared down her side.
 
-Lilt closed her fingers, then opened them again. "If I take this, I choose the
-road. I choose how long I carry it. If your marker is watched, I don't walk in
-because your plan says so."
+Around them, neither army joined the duel. The road had become too narrow for loyalty. Rethka’s guard hauled a fallen litter toward the eastern shelf. Eshren’s front rank turned to stop a wagon rolling backward through their own people. Every few heartbeats the sky shifted as the escarpment inclined farther overhead.
 
-Marram heard the warden reach the loft. A boot scraped beside the hatch.
+Eshren cut at Rethka’s knee. She jumped the blade, landed on the sloping side of the fissure, and slid. He could have opened her from hip to shoulder. Heshavar’s clear edge flashed before her eyes.
 
-"You choose," she said.
+“Rethka Vol.”
 
-"And if I decide the jar is safer buried for a year?"
+The call jarred Eshren’s grip. It cost him the instant.
 
-Marram untied it from her ribs. The cord had rubbed a hot groove into her side.
-She placed the weight in Lilt's hands. "Then I won't know where you buried it."
+Rethka slammed her guard under his, rolled the long glass blade outward, and put her point beneath his jaw.
 
-Lilt gave one short, angry laugh. It caught on whatever else she might have
-said. She wrapped the cord around her wrist and lowered the jar into the chute.
+Eshren froze. Heshavar’s edge rested against her side. Each had the other’s life within a finger’s motion.
 
-The copper sill brightened.
+The legend wanted one of them dead. Her column-master wanted it. Eshren’s own history expected it. Even Rethka’s body, trained to cut away the part that endangered the whole, had already begun the thrust.
 
-Green condensate pushed from its edges and spread across the wood. The examiner
-had closed the loft branch. His blade sent Marram's name into the narrow strip
-between her and the maintenance door.
+Behind Eshren, the boy with the bandaged ear had lost the goat. He stood in the crush calling for it while adults dragged wagons around him. Behind Rethka, two of her soldiers were lowering litters over the broken edge with ropes that would not reach the valley floor.
 
-"Marram."
+The old answer waited in the blade between them: kill Eshren, take Heshavar, throw the mountain across his people. Save her own. Keep the road that led home.
 
-Here the call had nowhere to disperse. It rang in the cavity, thin and intimate.
-Lilt flinched toward the chute.
+One clean loss.
 
-Marram nodded.
+Rethka lowered her sword.
 
-"I dislike your roads," Lilt said.
+She let it fall. The thick blade struck stone and spun away.
 
-"Find a better one."
+Heshavar’s clear edge remained against her ribs. Eshren’s eyes narrowed. “What are you doing?”
 
-Lilt slid feet first into the chute. Clay scraped her coat. The jar descended
-between her boots, its waxed wrapping soon gray with ash. She paused when only
-her head and one hand remained above the lip.
+“You decide. Kill me, or let go.”
 
-Marram did not give her an order. After a moment, Lilt drew the split-spindle
-tab across her palm, tucked both marks away, and lowered herself out of sight.
+“That is not an answer.”
 
-The warden tried the maintenance door. Its latch lifted a finger's width.
+“It is the last one we have.”
 
-Marram kicked it shut.
+The hanging face boomed as a buried shelf broke. Its shadow swallowed the western column, raced over Eshren, and climbed Rethka’s boots.
 
-The blow boomed through the loft. The warden swore. Below, the blade called
-again, all its current pressed into the sill strip.
+She reached barehanded for Heshavar.
 
-"Marram."
+Eshren pulled the sword back. For one heartbeat he held the cold glass to his chest. Rethka saw the man who had slept with it under winter canvas, veiled its light from enemy scouts, and carried its impossible power for three decades. She saw, too, the thousands trapped behind him.
 
-She waited until she heard Lilt's boots slide beyond the first bend of the ash
-chute. Then she opened the maintenance door and stepped onto the copper.
+“If I release it,” he said, “do they live?”
 
-Current climbed through her wet sole. It did not reveal a hidden childhood or
-drag a family name from her teeth. It caught the road line the examiner was
-holding and made every fitted piece nearby answer together. The sill, the hatch
-rim, and the buckles on the warden's coat filled the loft with one name.
+“If it answers me.”
 
-Marram gave it her living voice.
+“And if it does not?”
 
-"Marram."
+“Then we die here.”
 
-The warden lunged. She backed into the cavity so he had to come over the live
-strip one careful foot at a time. He carried a plain restraint cord and kept
-his gloved hands wide of the copper. Marram struck the door against his knee.
-He caught its edge, shoved through, and looped the cord over her wrist.
+His face hardened, as if she had offered comfort and he meant to refuse it. “Do not make this noble.”
 
-She braced one foot against the clay lip and made him pull. The cord tightened.
-The door banged. Their boots scuffed soot across the floor while, below them,
-the examiner held his blade on the person who had answered.
+“I haven’t time.”
 
-In the ash chute, nothing moved.
+The stone beneath them pitched south. Eshren’s boots slid. His fingers tightened around the glass grip.
 
-The warden got Marram's second wrist. He drew her across the threshold and away
-from the service cavity. Only then did someone below wrench the search-blade
-from its slot.
+Then he opened them.
 
-The whole house fell quiet. Rain resumed its mindless ticking in the buckets.
+Heshavar dropped into Rethka’s hands.
 
-By the time the examiner climbed into the loft, green damp had darkened the
-knees of his coat. He was narrower than Marram had imagined from his voice and
-older around the eyes. He looked first at her bound hands, then at the empty
-cord hanging from beneath her coat.
+The cold, transparent hilt did not alter beneath her grip. Instead every motionless salt seam inside the glass filled with white light. It answered her hands alone: the radiance vanished from the length still crossing Eshren’s palm and flared beneath Rethka’s fingers.
 
-"Where is the jar?"
+At arm’s length, in a voice no louder than a person speaking beside a fire, the nonliving sword said, “Rethka Vol.”
 
-Marram said nothing.
+The western column heard. The eastern column heard. Every cliff of Talasar returned her name.
 
-He crouched at the cavity door. Soot carried the plain facts the blade could
-not: one broad set of scuffs at the sill, another set leading into the ash
-chute, and a round drag mark from the wrapped jar.
+Eshren staggered as though the sound had passed through the place where his right hand should have been.
 
-The examiner measured the ash chute with one hand. Then he called down, "Second
-traveler. Ash cleanout. Search the road and the ditch. Use your eyes."
+Power gathered within Heshavar’s clear blade, light running through the salt seams from pommel to point. No vision of righteous paths came with it, no guarantee that the stroke would spare everyone she wished spared. The direction remained hers.
 
-The outside warden ran. The one holding Marram hesitated, looking from his
-prisoner to the ladder.
+The column-master shouted from the eastern shelf, “Turn the fall west, Rethka! Into them!”
 
-"Go," the examiner said. "She has answered to the line. I can keep her."
+Eshren said nothing. He stood empty-handed between her and his people.
 
-The restraint cord passed into his hand. The second warden followed the first,
-boots striking each ladder rung and then the pantry floor. A door opened to the
-rain.
+Rethka turned toward the western anchorage.
 
-The examiner waited until the house stopped shaking. "Family line?"
+It rose beyond Eshren’s column, a dark shoulder where the knife-backed road joined the older mountain. Beyond it lay the route to her border shelf. Seed bells in spring. Black soil under her nails. All the ground her dead had bought mile by mile.
 
-"Marram."
+She lifted Heshavar above her shoulder. Through its long transparent wave, she saw the escarpment fill the sky.
 
-"That is the road line you gave us."
+Rethka struck.
 
-"It is the one I answered."
+Heshavar answered.
 
-His gaze rested on the soot at her collar where the two tabs had been. He did
-not pretend the blade had learned more. "Recognized home?"
+The glass edge did not reach the anchorage. The cut did.
 
-Outside, the running boots divided, one pair taking the wet road and one the
-ditch.
+The salt seams blazed, and a hairline of white advanced through the air. Where it crossed the mountain, every buried strain answered at once. The western anchorage opened from ridge to root. A gulf appeared so cleanly that for an instant both severed faces showed matching bands of stone.
 
-"Marram," she said.
+Then Talasar turned.
+
+The escarpment crashed onto the unanchored road. Its weight drove the western half north and the eastern half south. The ridge broke along the paths Rethka had seen: shelves rolled outward, shedding avalanches of stone and dust, while the narrow crest spread into two descending fans.
+
+Rethka hit the road on one knee. The radiance inside Heshavar faltered. In her hands, the long glass sword went dark.
+
+“North face!” Eshren roared to his people. His voice, not the sword’s. “Leave the wagons. Take the wounded. North!”
+
+Rethka found her own voice. “South face! Litter teams first. Follow the black rock and keep wide of the scree!”
+
+The columns peeled away from one another. Eshren’s families dragged their handcarts down the northern fan until the carts overturned, then shouldered what they could carry. Rethka’s rear guard cut harness and made ropes of it for the southern slope. The broken sections of the hanging face settled between them in long booming collapses, each smaller than the blow that had made them.
+
+Not everyone reached the lower valleys unhurt. Two litters slipped and had to be caught by six people sliding on their knees. A team of Eshren’s fighters vanished behind a burst of dust and emerged carrying one another. But Talasar did not become a grave. By the time the last shelf came down, both columns stood on opposite faces of the ruin.
+
+Rethka rose. Heshavar hung from her hands like a length of winter ice. Its wave-ridged body remained clear and wholly still, but every salt seam inside it had gone opaque.
+
+“The light goes after a stroke like that,” Eshren said.
+
+He had come only as far as the shattered spine between the two escape slopes. The distance separating them was twenty paces and widening as rubble settled. His empty right hand was curled around a hilt no longer there.
+
+“How long?” Rethka asked.
+
+“Once, nine months. Once, four years.” His mouth bent around the cut she had given him. “The old accounts offer no measure.”
+
+The column-master climbed from below, white with rock dust. She looked past Rethka toward the west. Nothing remained of the anchorage but a cliff of sliding rubble.
+
+“You buried our road,” she said.
+
+“I did.”
+
+“We had them.”
+
+Rethka looked north. Eshren’s people were already withdrawing down the far valley, still armed, still carrying the banners under which the border camps had burned. They had not become friends because they had survived the same fall.
+
+“No,” Rethka said. “I had them.”
+
+The column-master’s jaw worked. Then someone below called for officers at the third litter, and she descended without another word.
+
+Eshren remained across the widening break. “Veil it before sunrise,” he said. “Those bands have betrayed every hidden camp I ever trusted.”
+
+Rethka found the smoked cloth where it had fallen and wound it around the transparent blade. A moving strip of brightness escaped between two folds, a false reflection persisting after the sun had slipped behind the peaks.
+
+His gaze followed her hands. “I did not give it to you.”
+
+“No.”
+
+“I released it for them.”
+
+“I know.”
+
+He turned north before the settling ridge could divide them completely. No bow. No blessing. He walked down toward his people with his bare hand held away from his thigh, as if it still expected Heshavar’s familiar weight.
+
+On the southern fan, Rethka’s guard had joined the litter line. They needed every pair of hands. She tried to sling Heshavar across her back, but its spent weight pulled the strap loose, and she remembered Eshren keeping watch beside the cracked glass for nine days.
+
+Rethka took the silent sword in both hands and started down.
