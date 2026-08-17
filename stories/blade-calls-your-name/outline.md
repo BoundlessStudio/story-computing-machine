@@ -2,181 +2,53 @@
 
 ## Story
 
-- Premise and central promise: In an isolated Ravel road house before dawn,
-  Marram and Lilt hide with a copper jar containing identity-lines that Marram
-  intends to return directly to the people from whom they were taken. A living
-  Regent examiner overtakes them, seats a narrow copper search-blade in the
-  house circuit, and loads the only line he knows: Marram's road name. The
-  blade calls `Marram` through each fitting as he closes the circuit branch by
-  branch. Fulfill the prompt literally but boundedly: the nonliving blade can
-  transmit only the known line supplied by its operator, and Marram eventually
-  chooses when to answer so Lilt can leave with the jar while her family-name
-  and recognized-home lines remain undisclosed.
-- Intended reader experience: Taut, intimate suspense built from wet timber,
-  humming copper, held breath, and the unnerving repetition of a familiar
-  name. Let the examiner's search feel dangerous without granting him moral
-  omniscience, and let Marram's final surrender cost liberty rather than
-  identity. End with partial success, separation, and a continuing obligation,
-  not triumph over the whole Regent system.
+- Premise and central promise: Long after the Glass-Sea age and far from that region, two hostile migration columns are fighting across Talasar, a knife-backed highland road and the only passage left after a season of landslides. Rear-guard captain Rethka Vol is preparing to drop the road behind her own people when Heshavar—the ancient, wholly nonliving sword carried by enemy champion Eshren—speaks `Rethka Vol` across the wind through its own artifact magic. The weapon is unmistakably and entirely glass: blade, guard, grip, and pommel form one transparent length of wave-ridged Glass Sea glass crossed by motionless white salt seams. Every Heshavar master in a thousand years was first named by the blade, but never while the previous master remained alive, and never from the opposing host. Fulfill the promise directly: the nonliving artifact repeatedly and literally calls Rethka, rejects Eshren's legendary stroke, passes into her hand by its own unmistakable selection, and answers her first blow as its new master. The choice gives her neither a throne nor an effortless victory. It gives her one terrible stroke and responsibility for where it falls.
+- Intended reader experience: Begin with an impossible name crossing an immense, dangerous landscape; build awe, battlefield dread, and the intimate shock of being singled out by an impossible artifact from a remote age. Keep the sword's transparent one-piece construction, frozen wave-shape, and salt seams present enough that it can never read as metal, decorative crystal, or an inhabited shell. Let Rethka want its power even while she resents being designated by another authority. Make Eshren's displacement from thirty years of mastery painful and credible rather than treating him as a false claimant. Deliver one vast, cleanly visualized mythic stroke whose consequence is morally and materially costly, then end with mastery established and the larger war unresolved.
 - Generating force:
-  - Mode: Plot-led closing circuit. The examiner energizes one conductive
-    branch at a time, removing the dry wooden spaces in which the pair can move
-    unseen until the roof cavity divides into one live threshold and one narrow
-    ash chute.
-  - Focal attachment or contradiction: Marram protects people by dividing
-    knowledge: Lilt knows the return route but not the identity-lines, while
-    Marram carries the sealed jar but has withheld the route's final names.
-    That discipline has kept both safer, yet the search can be beaten only if
-    Marram trusts Lilt with the whole remaining task and makes herself the one
-    unmistakable answer.
-  - Plot-led wants and useful limit, if applicable: Marram immediately wants to
-    get both of them and the jar beyond the road house before the examiner
-    isolates her circuit branch. Competing with escape, she wants the remaining
-    line-holders to control the dangerous copies and wants Lilt to stay outside
-    the Regent search. Her useful flaw is defensive compartmentalization: she
-    has given Lilt too little context to improvise and initially wastes their
-    shrinking lead trying to move person, jar, and plan together.
+  - Mode: Plot-led held-line sequence. The story remains on one collapsing crest while each repetition of Rethka's name changes who can command, attack, retreat, or trust the next span. The physical line narrows as the claimed line of mastery breaks open.
+  - Focal attachment or contradiction: Rethka has kept her exhausted column alive by deciding quickly what must be cut loose—loads, roads, stragglers, sometimes any hope of return. She is attached to the people who still follow because she has never made them pay for an enemy's survival. Heshavar offers the force to make that loyalty absolute, yet its call asks her to accept mastery conferred by a nonliving foreign artifact from an age and sea she knows only through hostile legend.
+  - Plot-led wants and useful limit, if applicable: Rethka immediately wants to get her last rear-guard squads across Talasar and collapse the span before Eshren's host can follow. Once the sword calls, she also wants its realm-cut to end the pursuit and preserve her people's homeward road. Her competing valuable want is to bring her column through without becoming the author of a needless mass death. Her useful limit is severing certainty: experience has taught her that every crisis contains one necessary abandonment, so she keeps reducing mastery to identifying what deserves the blade.
 - Counterforce or complication:
-  - Source: Conductive branches reach the door, stove, rain gutters, and loft
-    fastenings, leaving progressively less dry structure. The search-blade
-    narrows one supplied line but cannot disclose who else is present; ordinary
-    footprints and disturbed dust can still expose Lilt. The jar itself is a
-    genuine hazard because any capable living operator who takes it may exploit
-    what its copper leaves hold.
-  - Credible inside logic, if a person: The unnamed examiner is not a sadist or
-    a convert in waiting. He is responsible for recovering an unsecured Regent
-    line jar before a private coercer obtains it, believes institutional custody
-    is safer than Marram's unauthorized journey, and does not accept her word
-    that each copy will reach its subject. He keeps the blade current on Marram
-    even after suspecting a second traveler, then orders an ordinary pursuit as
-    soon as he secures her.
-  - Pressure or change created: Marram cannot keep the jar, Lilt, and herself
-    together once the final copper threshold goes live. Corrupting the jar in
-    the circuit would silence the immediate search but mix or destroy the very
-    lines she meant to return; saving them requires transferring both trust and
-    danger to Lilt.
+  - Source: Eshren remains alive, formidable, and physically able to wield Heshavar as an ordinary sharp sword even after the artifact's greater magic stops answering him. His host includes families and wounded people who will die if denied the crest. Meanwhile repeated earthshocks have loosened an enormous hanging face above Talasar; when it falls, Rethka can preserve her own road by directing the collapse into Eshren's column, or save both columns only by spending Heshavar's stored realm-stroke to sever the western anchorage and permanently destroy her people's route home.
+  - Credible inside logic, if a person: Eshren has been Heshavar's chosen master for thirty years. He has defended his migrating people with it, knows that their enemies will exploit its loss, and has inherited no legend in which a living master survives the next call. He reasonably treats Rethka's naming as either a death sentence or an impossible invalidation of every known succession. He challenges her because surrendering the blade could doom his people, not because bloodline pride makes him irrational. When the falling escarpment makes refusal fatal to both hosts, he can release the hilt without forgiving Rethka, joining her cause, or pretending the loss means nothing.
+  - Pressure or change created: Rethka cannot claim Heshavar by killing Eshren without making the old legend true in the worst way, and Eshren cannot command artifact magic that has already selected a successor. The landscape forces a handoff before either side has settled what the call means. Rethka's first act as master must choose between the total victory she wanted and a shared survival that costs her people their return.
 - Narrative design:
-  - POV, tense, distance, and limitation: Close third-person past through
-    Marram, intimate with her practiced inventory of conductive surfaces,
-    withheld facts, and involuntary response to hearing her name. She cannot
-    see the examiner below, know how much he inferred from their trail, or know
-    whether Lilt will accept the burden. Give Lilt compact route-and-weather
-    language and the examiner procedural language of custody, containment, and
-    risk; neither gets an expository speech.
-  - Time shape and compression: Roughly forty continuous predawn minutes from
-    the first insertion of the blade to Marram's capture. Render the first call,
-    branch-by-branch search, jar dispute, roof-cavity division, transfer, and
-    answer in scene. Compress the pair's earlier recovery of the jar and four
-    completed returns into a few materially anchored exchanges; no flashback,
-    public hearing, or later policy coda.
-  - Information and reveal strategy: Make clear at the first call that Marram
-    is the named target, avoiding a false-name twist. Reveal in pressure order
-    that the name is her deliberately limited road name, the blade already had
-    to be loaded with it, one line can narrow but not compel, the jar contains
-    separate copied lines rather than minds or stolen personhood, and two
-    returns remain. Let the examiner's warning establish the jar's real danger.
-    Withhold only Marram's decision to stay until she gives Lilt the route
-    leaves and steps onto the live strip.
-  - Governing movement: Hear the blade call from below; freeze on dry roof
-    beams; identify the first live branch; move ahead of the current; let Lilt
-    learn that `Marram` is the searched line; hear the examiner demand the jar;
-    lose the gutter route to rain-conducted current; reject grounding the jar
-    when its leaves begin to answer one another; reach the divided service
-    cavity; give Lilt the sealed jar and the two remaining return marks; draw
-    the examiner toward the copper threshold; send Lilt down the dry ash chute;
-    step onto the live strip; answer only to `Marram`; be taken while Lilt clears
-    the house and the examiner starts a line-blind pursuit.
-- Speculative surplus: Active search current makes nearby copper sweat a sour
-  green condensate that slickens floors and spoils uncovered flour. Ravel road
-  houses therefore keep sand buckets and waxed food covers beside their
-  circuits. The effect adds smell, mess, and footing risk but cannot indicate a
-  true name, identify a hidden person, read the jar, or solve the escape.
-- Structural distinction: A contained, vertically tightening search in which
-  safe space disappears as a circuit closes below two hidden travelers. The
-  decisive venue is a cramped roof service cavity, and success consists of one
-  person and one dangerous obligation getting away. There is no public
-  technical proof, crowd conversion, institution-wide correction, destruction
-  of the system, or polished symbolic disposal of the blade or jar.
-- Decisive turn, deepening, or recognition: At the last dry fork, Marram sees
-  that her habit of keeping every fact in a different hand has reached its
-  limit: neither traveler can finish the returns alone with what each currently
-  knows. She refuses to pour the jar into the live circuit, tells Lilt the two
-  remaining return marks, and hands over the sealed leaves. Then she crosses the
-  live copper strip and answers the repeated call with her road name. The
-  examiner must hold his supplied line on the person who has acknowledged it;
-  while he reaches and restrains Marram, Lilt takes the ordinary ash chute. The
-  act gives the search no second or third identity-line and no proof that a
-  road name is lesser than the person who chose it.
-- Aftereffect or live uncertainty: Marram is detained under the one known line;
-  her family name and recognized home remain unavailable, but ordinary
-  questioning and confinement still carry consequences. Lilt escapes with the
-  jar, the complete route, and the first unshared decision Marram has trusted
-  her to make. The examiner promptly sends line-blind searchers after Lilt, and
-  the two remaining returns, Marram's release, and the jar's eventual safety
-  remain unresolved beyond this completed transfer of responsibility.
-- Opening / ending relation: Open with Marram choosing a dry beam and reminding
-  Lilt that a road name limits a search only if they do not supply the missing
-  lines; the blade interrupts by calling that road name. End after Lilt has gone
-  with the examiner asking for Marram's family and home. Marram gives him no
-  silence-as-magic and no alternate self—only the same road name she chose to
-  answer, while ordinary boots begin searching the wet road.
+  - POV, tense, distance, and limitation: Close third-person past through Rethka, intimate with the balance of a failing ridge, the count of people still behind her, and the bodily trespass of hearing her ordinary public name arrive against the wind. She can observe light crossing Heshavar's fixed wave-ridges, the white seams frozen inside its clear body, the artifact's repeated call, and which hand its magic answers, but she cannot know the selection criterion. Keep Eshren legible through a veteran's economy, his practiced handling of the glass relic, and the people he shields; do not enter his mind or turn him into a spokesman for lore. Never imply a mind, occupant, spirit, pulse, or life inside Heshavar.
+  - Time shape and compression: One continuous late-day stand of roughly an hour, from the first call to the two columns' separation before dark. Render the initial naming, the failed collapse, parley, contest, handoff, and realm-cut in scene. Compress troop movement through banners dropping out of sight, litter teams crossing, changing distances between signal calls, and fractures arriving underfoot. Use no ancient flashback, reincarnation memory, prophecy scene, or later political coda.
+  - Information and reveal strategy: Establish Heshavar first as a voice arriving from impossible distance, then show the long transparent sword in Eshren's hand: blade, guard, grip, and pommel are a single motionless piece of frozen wave-ridged Glass Sea glass with white salt seams and no organic inclusion. State early through confident viewpoint knowledge that it is a nonliving artifact, not a creature or vessel, and let both sides' reactions establish that its own magic calls and selects masters despite that fact. Reveal that Eshren still lives and has not consented to replacement immediately, avoiding a simple vacant inheritance. Before the decisive stroke, make both physical outcomes and their costs plain: enemy destruction preserves Rethka's route; the shared-survival cut sacrifices that route. Leave who shaped Heshavar, its selection criterion, and what triggers a call before the prior master's death unresolved without suggesting an undisclosed consciousness.
+  - Governing movement: Mark the demolition fissure; hear `Rethka Vol` arrive against the wind; locate the voice in Heshavar's distant, sunlit glass; deny the call and continue the withdrawal; watch the blade's internal light stay dark as its artifact magic refuses Eshren's attempt at a long stroke; meet him between the columns; learn that no master has survived a successor's naming; reject the opposing demands that she kill Eshren at once or submit to the old claim; feel the earthshocks close the rear span; contest the hilt with ordinary blades while Heshavar repeats her name at every contact; recognize families and wounded people behind Eshren without absolving his host; see the hanging face begin to fall; gain a clear killing opening and lower her blade instead; reach barehanded for Heshavar; have Eshren choose to release rather than drag both of them down; see white artifact light answer only Rethka's grip and activate the realm-cut from the sword itself; choose the costly western-anchorage stroke; split the fall into two survivable descents; carry the spent transparent artifact while both still-hostile columns escape by opposite faces.
+- Speculative surplus: Heshavar's wave-ridged glass scatters daylight into moving bands that crawl across the ground even when the sword is held still; after sunset its own nonliving magic continues the false refractions for several minutes, making dry ground look wet. Bearers veil the blade on open ground so the flashes do not betray position, and scouts can mistake its reflected bands for water. The effect creates beauty and practical risk but cannot identify a master, compel an answer, disclose intent, or fuel the realm-cut; ordinary Glass Sea glass is not thereby established to behave this way.
+- Structural distinction: A single exposed line in a later, distant age holds two opposed mass movements while the nonliving Glass-Sea sword's repeated name-call transfers the center of force from its prior bearer to its called master. This is not a hunt, relic excavation, identity recovery, stone extraction, court test, coronation, or proof staged to convert a crowd. The mythic spectacle occurs in a moving battlefield landscape, but no witness grants Rethka office or allegiance afterward; the decisive human action remains the voluntary handoff between Rethka and Eshren under the artifact's impossible selection.
+- Decisive turn, deepening, or recognition: As Talasar's hanging face tilts, Rethka can kill Eshren, take Heshavar over his body, and use its newly answering stroke to throw the collapse into his host. Instead she drops her ordinary weapon and gives him the choice the legend never recorded. Eshren releases Heshavar into her bare hand because holding on will kill both columns. Every motionless salt seam inside the cold clear hilt flares white, the nonliving artifact speaks her name once at arm's length, and its own magic carries her answering stroke farther than sight should permit. Rethka cuts the western anchorage, knowing the resulting fan-shaped collapse will open two escape slopes while erasing her own people's sole route home. The act proves what kind of master Heshavar has chosen: one capable of making an irrevocable cut without disguising conquest as necessity.
+- Aftereffect or live uncertainty: Both columns survive the immediate fall and separate before night, but the war, displacement, and blame remain. Rethka's commander has lost the victory and return road she expected; Eshren has lost the relic and deterrent he carried for thirty years; neither side accepts the other's authority. Heshavar remains wholly nonliving and visibly glass, but its salt seams have gone opaque and its own magic cannot make another realm-cut for an unknown interval. Rethka possesses no automatic command beyond her own rear guard. She must carry a foreign people's legend and a material remnant of the Glass Sea while they may still try to reclaim it; the criterion behind its selection remains unknown.
+- Opening / ending relation: Open with Rethka chalking the exact place she intends to sever after the last of her people crosses, certain that command means choosing one clean loss, while an impossible stripe of wave-broken light announces Heshavar before its voice. End with that chalk mark gone inside a far larger cut she chose for herself: the two columns descend opposite faces, Eshren walks away alive, and Rethka joins the litter line with Heshavar's spent transparent weight in both hands. Do not end on enthronement, acclaim, a kneeling enemy, a new law, a second chosen name, or a polished declaration of worthiness.
 
 ## Beats
 
-1. Marram and Lilt hide above an isolated road-house loft with the sealed line
-   jar as the examiner arrives below and inserts his blade into the copper
-   circuit; it calls `Marram`.
-2. Marram keeps them on dry timber and explains only the operative limit: the
-   examiner already knows one line, and their bodies must not complete a live
-   branch that lets him narrow it further.
-3. The examiner closes door, stove, and gutter branches in turn, speaking his
-   credible demand for the unsecured jar while green condensate and rain make
-   the pair's movement tighter and less silent.
-4. Lilt realizes Marram never told her the searched road name was her own.
-   Marram admits the jar contains two unreturned lines but still tries to keep
-   person, cargo, and route under her sole control.
-5. When the pair crosses above the stove branch, separated copper leaves in the
-   jar begin to resonate. Marram stops herself from using them as a ground:
-   silencing the blade that way would corrupt the copies and defeat the returns.
-6. The last dry path divides at a service cavity: a live threshold large enough
-   for Marram and a narrow, nonconductive ash chute that can take Lilt and the
-   jar but not both travelers together.
-7. Marram gives Lilt the two return marks and enough context to choose what to
-   do if direct return becomes impossible. Lilt objects, then accepts rather
-   than being tricked into the burden.
-8. Marram makes noise at the threshold, steps onto copper, and answers the
-   blade. Its call localizes around her while Lilt descends the chute and slips
-   onto the wet road.
-9. The examiner secures Marram, recognizes the escape, and orders ordinary
-   pursuit without a line for Lilt. Under questioning, Marram supplies neither
-   family nor home and hears the search move away from the road house.
+1. At the Talasar demolition fissure, Rethka counts the last friendly squads. A moving stripe of refracted light reveals a long, clear, wave-ridged sword in the enemy line; then `Rethka Vol` reaches her against the wind. The impossible call interrupts both advances but does not stop the earthshock beneath them.
+2. Rethka denies the claim and orders the withdrawal to continue. Eshren unveils Heshavar and attempts its feared long stroke to force the ridge; the one-piece Glass Sea sword remains dark, its greater artifact magic does not answer him, and it calls Rethka again, publicly displacing him without physically leaving his hand.
+3. A short parley on the narrowing center span establishes the stakes rather than resolving them. Eshren says every recorded master died before the next naming; Rethka's commander urges her to make tradition efficient, while Eshren shows that his rear ranks are a migration column as trapped as hers.
+4. Rethka tries to complete the ordinary demolition without touching Heshavar. An earthshock skips her prepared cut, closes the safer descent, and starts Talasar's hanging face leaning over both columns.
+5. Eshren challenges Rethka for the only claim his history understands. Their compact, hard duel keeps him dangerous and her desire for the sword honest; Heshavar speaks her name through each joined blade but grants neither fighter an easy supernatural advantage.
+6. When the ridge pitches, Rethka gains a clean chance to kill Eshren and make the succession resemble the legend. She sees the two possible collapse paths, drops her weapon, and reaches instead. Eshren chooses his people's immediate survival over possession and releases Heshavar.
+7. White artifact light fills the motionless salt seams beneath the transparent hilt, answers Rethka's grip alone, and carries the sword's call to intimate distance. She spends its self-powered realm-cut on the western anchorage, destroying her own return road so the falling face divides into two descending fans rather than crushing Eshren's host.
+8. The survivors evacuate in opposite directions with no truce ceremony. Eshren refuses allegiance and names the loss without blessing it; Rethka's commander names the homeward cost. Rethka takes the spent Glass Sea sword to the litter line, master of an ancient legend but ruler of no one.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Marram | new | Adult Ravel road traveler and focal character; `Marram` is the only character-facing identity-line proposed. |
-| Lilt | new | Adult companion trusted with the line jar and final return route; `Lilt` is the only character-facing identity-line proposed. |
+| Rethka Vol | new | Focal rear-guard captain literally called and chosen as Heshavar's new master; no exact, alias, or close-spelling reuse found in the frozen baseline, current noun inventories, or relevant authority. |
+| Eshren | new | Heshavar's living human prior master and Rethka's credible opposing champion; no exact, alias, close-spelling, or confusing reuse found in the frozen baseline, current noun inventories, or relevant authority. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Ravel | recurring | Established era-setting of the bounded Regent three-line identity infrastructure; exact chronology and geography remain unresolved. |
+| Glass Sea | recurring | Canon hard, frozen-looking regional expanse of glasslike waves and windblown translucent salt in the Glass-Sea era; it does not appear as the present venue, but Heshavar is visibly made from glass taken from this region in an earlier age. No connection is added to the Glass Gate. |
+| Talasar | new | Story-local knife-backed highland passage in a later, distant age and the entire story's collapsing venue; no exact, alias, close-spelling, or confusing reuse found in the frozen baseline, current noun inventories, or relevant authority. |
 
 ## Continuity
 
-- Canon used: Names are normally symbolic rather than universally magical.
-  Ravel's living Regent operators can search given name, family name, and
-  recognized home as separate identity-lines; one line can narrow a search and
-  all three can enable deeper coercive access. Living users supply the magic;
-  copper and jars may hold or transmit what they place in them without becoming
-  alive. A road name deliberately discloses one usable line while withholding
-  the other two, and disclosure never erases identity or personhood.
-- Boundaries and unknowns: The isolated road house, its branch circuit, the
-  search-blade's exact operation, the copied-line jar's history, and green
-  condensate are new and story-local, not general additions to every Regent
-  search. The blade has no agency, cannot discover an unknown name, compel an
-  answer, authenticate a whole person, or contain a mind. Do not settle Ravel's
-  date, geography, government, lawful custody rules, relation to another era,
-  or the ultimate fate of Marram, Lilt, the examiner, or the remaining lines.
+- Canon used: The Glass Sea is a hard regional expanse of glasslike waves and windblown translucent salt in a much later era of the one physical world, and that physical world persists across eras. Binding authority otherwise states that only life can use magic and that nonliving objects may only store or shape power supplied by life. Local systems can have their own costs and limits, and resemblance between artifacts does not establish shared origin.
+- Boundaries and unknowns: The prompt explicitly authorizes a deliberate, story-specific exception to the life-only rule. Heshavar is wholly nonliving, non-sentient, uninhabited, not person-like, and made entirely from one piece of Glass Sea glass; no living operator, occupant, spirit, organic inclusion, or concealed mind supplies its power. Its own autonomous artifact magic literally calls and selects Rethka, stops answering Eshren, and supplies the realm-cut. This exception is scoped only to Heshavar and does not establish that other Glass Sea material or nonliving artifacts are magical, conscious, unusually durable, able to call names, able to choose masters, or capable of carrying a stroke. Heshavar's physical survival into a later age is story-specific. Its call is not Calvea Dorn's `Calling the Name`, Ravel identity-line infrastructure, Gate Cant, an oath mechanism, universal name magic, the Crown of Noon, living solar fire, or the Glass Gate. Talasar, its later age and earthshocks, the two migration columns, Heshavar's shaping and master-line, and the realm-cut remain story-specific. The story does not date Talasar against any other post-Glass-Sea event or imply a crossover with recurring people, places beyond the named provenance, or factions. Heshavar's maker, selection criterion, reset interval, route out of the Glass Sea, and future remain unresolved.
