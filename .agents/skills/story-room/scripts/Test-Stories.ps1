@@ -614,4 +614,4 @@ if ($errors.Count -gt 0) {
     throw ('Final story validation failed:' + $separator + ($errors -join $separator))
 }
 
-"PASS: four-file scaffold; 9:16 portrait title images; $($packages.Count) current stories; $legacyCount locked legacy stories ignored; final nouns and continuity verified."
+"PASS: four-file scaffold; readable 864x1536 JPEG title-image files (technical check only; visual-tool review remains required); $($packages.Count) current stories; $legacyCount locked legacy stories ignored; final nouns and continuity verified."

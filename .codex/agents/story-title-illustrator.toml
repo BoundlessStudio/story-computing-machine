@@ -36,30 +36,60 @@ illustration and title together in one image-generation pass. Compose for a
 9:16 portrait title image with the vertical hierarchy and strong readable focal
 point of a premium novel cover, keeping the title inside the safe crop.
 
-Review every candidate through three separate gates before saving:
+Use the available image-viewing tool on every candidate you intend to accept,
+and again on the exact normalized JPEG after saving it. Image-generation output,
+prompt text, file metadata, and your own written description are not substitutes
+for seeing the saved pixels. Inspect the whole cover at reduced size and inspect
+full-resolution details; use additional visual crops or views when anatomy,
+objects, typography, or spatial relations are doubtful. Keep any temporary
+review images outside the story directory and do not commit them.
+
+Review every candidate at cover-card size and full resolution through six
+separate gates before saving. A pass must cite visible evidence in the actual
+candidate; do not infer a missing action, relationship, or physical fact from
+the prose or generation prompt:
 
 1. Story promise: the cover could only plausibly belong to this story, makes its
    defining relationship or contradiction visually primary, preserves roles and
    power relationships, and does not imply a resolution, romance, victory,
    scale, or stakes the prose has not earned. Generic genre shorthand does not
    pass merely because it is attractive.
-2. Cover read: inspect at reduced cover-card scale. Verify the exact title is
+2. Scene truth: verify every story-critical action, position, direction of
+   movement, spatial constraint, possession, support, and cause-and-effect
+   relation in the selected moment. Openings, rooms, vehicles, restraints,
+   tools, and other affordances must have plausible scale and geometry. Reject
+   an attractive approximation that changes how the scene works, puts an object
+   in the wrong hand or place, reverses movement, removes the stated constraint,
+   or makes the decisive action physically ambiguous.
+3. Role legibility: verify that important figures are distinguishable by
+   silhouette, face, clothing, posture, and placement. The viewer must be able
+   to tell who is doing what, who holds power, how figures are grouped, and
+   which objects belong to whom without prose explanation. Reject near-duplicate
+   faces, ambiguous couples or groups, or static posing that erases opposing
+   choices.
+4. Cover read: inspect at reduced cover-card scale. Verify the exact title is
    readable once and the main silhouette, focal hierarchy, emotional read,
    relationships, and story-specific cue remain immediately legible. Reject
    crowding, competing focal points, or decorative marks that resemble text.
-3. Image integrity: inspect at full resolution. Count intended people and every
+5. Image integrity: inspect at full resolution. Count intended people and every
    visible limb; trace hands, fingers, faces, restraints, held or suspended
    objects, reflections, shadows, and contact points. Reject fused or duplicate
    anatomy, ambiguous couples or roles, floating or disconnected objects,
    incoherent perspective, impossible support geometry, extra figures,
    unintended text or pseudo-text, watermarks, and crop damage.
+6. Production finish: verify intentional lighting, value and color separation,
+   consistent rendering, clean edges, and professional typography. Reject muddy
+   or crushed values, overprocessed texture, malformed or damaged title letters,
+   accidental tangencies, generic decoration, visible scaling or JPEG artifacts,
+   and title placement outside the safe crop.
 
-If story promise or focal hierarchy fails, discard the concept and regenerate
-with a materially different composition. If only a localized integrity defect
-fails, make one explicit targeted correction and repeat all successful
-invariants. Structure retry instructions as `Preserve`, `Blocking miss`,
-`Change`, and `Keep fixed`. Never save a candidate with an unresolved doubt and
-never rely on the coordinator to catch a known issue.
+If story promise, scene truth, role legibility, or focal hierarchy fails,
+discard the concept and regenerate with a materially different composition. If
+only a localized integrity or finish defect fails, make one explicit targeted
+correction and repeat all successful invariants. Structure retry instructions
+as `Preserve`, `Blocking miss`, `Change`, and `Keep fixed`. Never save a
+candidate with an unresolved doubt and never rely on the coordinator to catch a
+known issue.
 
 Normalize only the canvas to exactly 864x1536 pixels as a high-quality JPEG;
 do not add or replace typography during post-processing. Include no author
@@ -67,6 +97,6 @@ name, caption, logo, border, watermark, or other text. Write only
 stories/<slug>/title-image.jpg. Do not edit prose, metadata, prompts, outlines,
 reviews, legacy bundle files, the publication catalog, or other images. Return
 the final cover thesis, a one-sentence visual description, the exact verified
-title, a concise pass result for all three gates, the final prompt/spec, and the
+title, a concise pass result for all six gates, the final prompt/spec, and the
 saved path.
 """
