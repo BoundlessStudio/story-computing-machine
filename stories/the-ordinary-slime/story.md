@@ -10,274 +10,350 @@ canon: false
 
 You pick up the slime and examine it.
 
-It has the cool, yielding weight of a peeled plum. Cloudy green gel, darker where silt has worked inside. No bones. No core. No swallowed jewel waiting to explain anything. Its underside opens in a shallow feeding groove against your palm, tastes the rainwater there, and closes.
+It is plum-sized, cool, and green. Its weight barely dips your palm. A blunt feeding groove opens along its underside, tastes the soot on your glove, and closes again. Your acid strip fades from blue to a thoroughly unimpressive mauve. Your burden lens puts the creature's lifting force below one basket of turnips.
 
-You press one edge with your thumb. The opposite edge bulges. You turn it over. It rights itself with the dim persistence of spilled syrup seeking a low place.
+No core. No relic. No compressed storm hiding behind its simple membrane. It cannot even climb your thumb without sliding backward twice.
 
-A normal ditch slime in every visible respect.
+In all respects, a normal ditch slime worth half a copper to an optimistic glue-boiler.
 
-Behind you, two dozen normal ditch slimes are settling after doing something impossible.
+This is difficult to reconcile with what you saw twelve seconds ago.
 
-They dot the lower shelf of Nacre Spill, some in puddles, some beneath the mossy lip where translucent egg clutches cling to stone. Moments ago, the sluice wash came around the headwall with enough force to pluck you from your footing. This slime had struck a rhythm into the water. The others moved in timed waves, rank after rank, until their bodies packed beneath a pilot stone jammed in its channel. The stone rolled. The overflow gate dropped. Most of the wash bent into the empty spill basin instead of scouring the nesting shelf and taking you with it.
+Behind you, a severed iron gauntlet lies in the wreckage of two painted castles. It has four fingers left and no arm attached. Nevertheless, it just stood on those fingers, wound up like an offended tavern champion, and backhanded a three-legged cutter machine across Papermantle Yard. The cutter passed through the rose castle, skipped off the moat castle, and landed upside down in a shed marked FRAGILE MOONS.
 
-Now the water drains in harmless threads. The slimes resume feeding.
+Then the gauntlet split at the cuff and ejected this slime directly into your boot.
 
-“Very impressive,” you tell the one in your hand. “Now show me the part of you that did it.”
+You hold the lens closer.
 
-The slime says nothing.
+The slime slips backward off your thumb again.
 
-Your field kit survived on the maintenance ledge: six shallow sampling dishes, two brass probes, a lens, and one canteen. You set the animal in a glazed dish and begin properly. Its mass falls squarely in the common range. Its digestive film fades a thread of moss without pitting the probe. When you touch the dish beside it, the slime flattens away from the vibration. When you shade it, it turns toward the warmth of your wrist.
+“Do the impossible thing,” you suggest.
 
-You put it back in your palm to test its grip. Its gel creeps over the blue tally mark on your glove and bleaches half the dye away.
+It quivers with what might be concentration. Or digestion.
 
-That earns the first laugh you have managed since the wash. Waterworkers stopped marking bare leather in berry blue years ago for exactly this reason. Feskarn used to say that any tally a slime could eat was a tally you deserved to count twice.
+Across the yard, the overturned cutter's three legs begin folding themselves the correct way up. Its shears open with a metallic snick. Inside nearby bins, smaller snicks answer.
 
-The slime tightens.
+You know that sound. Papermantle Yard built hollow battlefield decoys: false troops, false beasts, false fortifications, all meant to draw an enemy's expensive attention toward cheap paint and empty air. The verifier system made sure nothing unauthorized moved during construction. You removed one bronze balance key from its gate twenty minutes ago because it looked valuable and the yard looked dead.
 
-Five pressure taps travel through the water beaded on your glove and into the small bones of your wrist. Two quick. One firm. A pause. Two soft.
+It looked dead in the same way the slime looks ordinary.
 
-Your laugh ends.
+“I withdraw my professional opinion about both of you.”
 
-Every crew at Nacre Spill knows five-beat signals. Feskarn Veylor had used his own. He never struck the last two at equal strength. The fourth meant clear; the fifth, softer beat meant wait and look again. He put it through gate chains, pipe walls, flooded timbers, anything that could carry a knock when water was too loud for speech.
+The slime pours from your palm into the first hollow thing within reach: an abandoned seamstress's thimble.
 
-He put it through your shoulder the first day you tried to lift a gate before checking what had lodged beneath it.
+The thimble rocks. It rises onto its rim. With tremendous dignity and very little traction, it walks toward the cake of black assay wax beside your kit. The burden lens twitches from turnips to one small sack of flour.
 
-Two quick. One firm. A pause. Two soft.
-
-The slime repeats it against your palm.
-
-You nearly drop him.
-
-The pronoun arrives before belief. You lower your hand until the dish catches its rim. “Again.”
-
-He gives you the five beats.
-
-Rain drips from the broken timing wheel above the headwall. One tooth catches, shudders, and advances. The next sluice release is already being wound by the swollen upper race. You know this. You cannot make yourself look away from the slime.
-
-“One tap for yes,” you say. “Two for no. Do you understand?”
-
-One tap dimples the water on your glove.
-
-“Are you Feskarn?”
-
-He does not answer at once. His body gathers toward the dish rim, and a clear thread runs down into the silt at your feet. Seven narrow spurts of water disturb the brown surface. The first mark has two short bars. The second has three. The third curves twice. The fourth forks from a straight cut. The fifth becomes an angle with a crossbar. The sixth loops, then kicks away. The seventh is a diagonal pressed between two lines.
+The thimble scratches seven letters into the wax.
 
 FESKARN.
 
-Your knees meet the ledge harder than you intend.
+“Feskarn Veylor?”
 
-Feskarn died in a winter culvert nine months ago. You were there when the ice shelf broke. You were there when the crew drew him out by his coat and found no breath to save. Since then you have heard his corrections in every groaning hinge and badly set pin, the mind's cruel habit of keeping a voice after the world has stopped making it.
+It scratches YES.
 
-This is not a voice. Cool gel overlaps your knuckle. Five taps enter your wrist.
+You knew Feskarn as a stage-effects rigger with an incurable fondness for larger curtains, louder thunder sheets, and buildings that fell down only when scheduled. Last autumn, a plaster palace fell early. They recovered his body from under the throne room.
 
-You ask, “What did I miss on my first gate?”
+“You died.”
 
-The slime turns to the silt again. The droplet he drives has lost strength; it makes only one word.
+DEAD.
 
-HEEL.
+“Anything between?”
 
-The left hinge heel, cracked underneath where no inspection mirror could reach. Feskarn found it after you signed the repair as sound. He made you crawl back into the mud and replace it without telling the crew why. Mercy, he said, was letting a fool fix a mistake before breakfast. After breakfast, it became instruction.
+NO BODY.
 
-You close your eyes. The five-beat cadence continues through your palm, weaker now.
+“Then you woke as a slime?”
 
-“You remember dying?”
+SLIME. YES.
 
-One tap.
+That is four answers, three fresh scratches in your understanding of death, and all the time the hand-cutters need to climb from their bins.
 
-“Did you wake in this body after it had already lived?”
+Six of them scamper over the painted rubble. Each is the size of your forearm, with tin snips at the front and little spiked wheels behind. They converge on the moving thimble.
 
-Two.
+You put your solid assay knife in Feskarn's path. “Can you move this?”
 
-“From its first waking?”
+The thimble bumps the knife. Nothing happens.
 
-One.
+A snail emerges from beneath the wax cake. Feskarn swerves toward its shell.
 
-You wet the silt with a capful from the canteen. Feskarn sends a droplet through it in a wavering line and manages a longer word.
+“Occupied.”
 
-CARRIED.
+He brakes so hard the thimble rolls twice.
 
-“Between?”
+Hollow. Nonliving. Empty. Enter through a real opening. The rule is wonderfully simple, provided you ignore what it might do in a yard built almost entirely from empty lies.
 
-One tap.
+The cutters close.
 
-“By whom?”
+An intact iron gauntlet rests beside the shattered one. You lay it cuff-first in front of Feskarn. Thimble and slime hop inside.
 
-The water remains still. Whether he does not know or cannot fit the answer through silt, you cannot tell. His human life ended in that culvert. Something carried the same stubborn soul onward without hands, lungs, or voice. His next awareness began with this small body in cold water.
+The gauntlet closes its fingers.
 
-You slide the dish beneath him. “Then let's get you out of here.”
+Your burden lens jumps to two cartloads.
 
-Feskarn throws his weight toward the far rim.
+“That is not how mass works.”
 
-It is not much weight, but the refusal is plain. He spills half over the glaze and stretches toward the lower shelf, where the other slimes have begun to gather around the egg clutches.
+The gauntlet plants two fingers, pivots, and repeats the backhand you saw before. Three cutters become silver streaks. One vanishes into a papier-mache tower. Another shears its companions in half while flying backward. The sixth ducks, apparently through excellent engineering rather than fear.
 
-“I can come back for them.”
+Every bell in the yard rings once. The cutter that vanished into the papier-mache tower bursts from its rear wall and strikes a storage frame farther down the lane. The frame springs open. Empty suits of scenery armor hang inside like metal laundry. One is complete except for a backward-hinged left knee and a red breastplate painted with heroic abdominal muscles.
 
-Two hard taps.
+You point. “Bigger shell.”
 
-You look from him to the timing wheel. Three of its remaining teeth are bent. When the last good tooth slips, the upper sluice will release whether anyone is ready or not. The first wash opened the overflow gate; the next will arrive faster, with the basin already full. At most, you have an hour and a half.
+The gauntlet gives you an enthusiastic thumb, forgets it is standing on the same thumb, and falls over.
 
-The lower shelf has one safe destination. An upper seep glistens beyond the maintenance lip, fed from a crack above the wash line. It could keep the slimes wet through the release. Between the shelf and the seep lies six feet of dry, pale stone. A slime might cross before it dried if it chose a straight path and never paused. These slimes do not know there is a release coming. Some are feeding. Some rest in shade. Several have spread themselves beneath the egg gel and do not move when you approach.
+You kick it toward the armor as the surviving cutter charges. Feskarn runs on his fingertips, ducks through the breastplate's open maintenance grille, and pulls the gauntlet wholly into the hollow chest.
 
-Feskarn pulses the old cadence into his dish. The nearest puddle quivers. Three slimes turn toward him.
+Red paint around the armor's seams bleaches mint. The breastplate grille booms.
 
-“You did that before,” you say. “You can call them.”
+“I HAVE A VOICE.”
 
-One tap.
+The suit stands. The backward knee folds the wrong way. It sits down violently on the cutter.
 
-The certainty in your voice is greater than his answer warrants.
+Your lens reads twelve cartloads.
 
-You inspect the dry lip. Shallow grooves cross it where old workers dragged gate pins to the repair bench. Six glazed dishes placed rim to rim will span the worst of the distance. Filled and overflowing, they can make a continuous thread of water from the lower shelf to the seep.
+“You have one backward leg.”
 
-It will use most of the canteen.
+“I HAVE MOST OF A VOICE.”
 
-You drink one mouthful, then begin.
+Feskarn rises by hauling on a scenery lamppost. He takes one careful step, one less careful step, then charges down the lane with his left knee kicking forward and his right knee behaving like a knee. The result resembles a knight losing an argument with a staircase.
 
-The dishes make a bright white chain across the stone. You wedge grit beneath their rims until water can pass from one to the next without pooling too deeply. When you pour, a narrow run connects the lower puddle to the first dish, slips over each glazed lip, and darkens the last handspan before the seep.
+He still hits like twelve carts.
 
-Feskarn enters the first dish. He sends two quick beats, one firm, a pause, two soft.
+Two more cutters leap from a roof. Feskarn punches one through a mural of a peaceful harvest. He catches the other against his chest and claps it flat between both armored palms. His mint seams widen with every motion. Ordinary slime gel bleaches berry dyes, stage red, warning stripes, and apparently heroic abdominal shading. His breastplate now looks as though it dressed for battle and was interrupted by spring.
 
-The rhythm travels visibly. Water dimples in the second dish, then the third. By the sixth, the soft final beat has blurred into the wake of the fourth.
+A second bell rings.
 
-Slimes nearest the shelf lift their edges. One pours into the connecting run. Five follow. They crowd the first dish until green bodies overlap and the water rises around them.
+The kennel doors open.
 
-Feskarn repeats the cadence.
+Four verifier hounds unfold from the darkness, each built from three scissor-legs and a pair of shearing jaws. They are exactly armor-sized. The system has no mind, but its old instructions remain brutally attentive: unauthorized hand, send cutters; unauthorized soldier, send something that cuts soldiers apart.
 
-More come. A feeding slime abandons its patch of moss. Two others turn away. The bodies beneath the egg clutches contract but hold their places. At the back of the puddle, a broad slime flattens hard against the stone as though the pulse were something to hide from.
+“Those are load verifiers,” you shout from the ladder on Feskarn's back. “Stop showing them new loads!”
 
-Feskarn strikes again, harder.
+“THEN HOW WILL WE KNOW MY RANGE?”
 
-The crowded slimes surge toward the second dish at once. Three meet at the narrow overflow and jam, each trying to follow the same wet edge. Their combined gel damps the connection. The fifth beat does not reach the far dishes at all.
+The first hound springs.
 
-You separate them with your fingers. “Wait. Give them room.”
+Feskarn blocks with his left arm. The jaws bite through the elbow, and the severed forearm goes dead before it hits the ground. He punches the hound with his remaining fist, but another saws at the backward knee. A third climbs his back toward you.
 
-Feskarn sends the signal again.
+Twenty paces ahead, a parade dragon crouches in an open shed. It is twenty feet from tin nose to paper tail, hollow behind a round chest hatch, and painted a red so aggressive it has faded three nearby signs.
 
-It is what he did with crews in bad weather: repeat the clearest order until confusion yielded. Human workers knew that the fifth beat meant look again. These slimes feel attraction, warning, water, food. They do not know Feskarn's old hands.
+“Dragon!” you call.
 
-The line bunches tighter. One slime spills onto dry stone and puckers back from it. Another absorbs enough of the shallow run to break the water between the first dish and the shelf.
+“EXCELLENT PLAN.”
 
-Feskarn's body has thinned. The silt grains inside him stand out like pepper in weak broth.
+“It was a noun!”
 
-You scoop him from the press and lower the chipped lip into the puddle. “Enough. I'll carry you to the seep. I'll bring what eggs I can and come back with more water.”
+Feskarn runs anyway.
 
-Against the dish, he strikes quick, firm, soft, firm, then nothing. A broken message from a failing body.
+You jump from his ladder onto the shed catwalk. The hound snaps beneath your boots. Feskarn dives armor-first through the dragon's chest hatch. His remaining shoulder catches. The hounds seize both armored feet and pull.
 
-You start to translate it anyway. Clear, lift, wait. Feskarn's meanings. Human meanings.
+“Turn sideways!”
 
-Then the lower puddle answers.
+“I AM WEARING A MAN INSIDE A LIZARD. SIDEWAYS IS THEORETICAL.”
 
-Two light flutters pass through the water beside the moss patch. A slime folds its feeding groove over the green surface, and the flutters repeat. From the crowded first dish comes one hard dimple. Every body at the narrow rim pulls back. Near the eggs, a slow roll moves through three resting slimes, followed by two small pulses.
+You swing the hatch against his shoulder. The armor drops fully into the dragon's belly.
 
-None matches Feskarn's broken rhythm. None is an echo. They arrive from separate puddles and repeat with separate acts: feeding, recoil, eggs.
+The parade dragon inhales.
 
-Feskarn goes still in your scoop.
+Its eyes light. Its four wooden legs slam straight. Mint green races from the chest hatch along every red-painted seam until its ferocious jaws become the color of boiled sweets. Your burden lens spins past four hundred cartloads.
 
-“You hear them,” you say.
+The hounds leap together.
 
-One weak tap.
+Feskarn opens the dragon's mouth and coughs three centuries of compacted parade confetti directly into their jaws.
 
-He had not called two dozen slimes in ranks during the first wash. He had struck a pressure pattern into runoff, and that pattern had caught rhythms the slimes already used. Their movement became a wave because water, fear, feeding, and the jammed stone happened to align. The miracle had been partly luck.
+The blast buries one. The others hesitate because their cutting edges are full of tiny paper crowns. Feskarn lowers the dragon's head and charges. He rams two hounds through the shed wall, collects the fourth on one horn, and keeps going through the wall behind that.
 
-The next one would have to be learned.
+“There were doors!” you shout, sprinting along the catwalk.
 
-You lift the third dish from the chain. The continuous run breaks, and the slimes in the first two dishes stop pressing forward. Some retreat to the lower puddle. One remains where it is, feeding on the moss caught in the glaze.
+“THEY WERE TOO SMALL.”
 
-The timing wheel clacks above you.
+The third bell rings.
 
-“We have six dishes,” you tell Feskarn. “One canteen with less than half its water. You have three replies. I have two hands. Correct me before breakfast.”
+Ram cranes wake along both rails of the central lane. Their counterweighted heads swing toward the dragon. One punches through a painted wing. The detached section goes limp and sails away, shedding mint flakes and banners that read VICTORY, WEATHER PERMITTING.
 
-His edge lifts against the scoop. It might be amusement. It might be thirst. You carry him to the lower puddle and let him spread until his outline thickens.
+Feskarn sneezes another confetti cloud, which accomplishes nothing except making the ram cranes festive.
 
-This time you do not begin with a route. You wait.
+“Next shell,” he says, his voice delayed enough that the dragon's mouth finishes moving before the words arrive.
 
-The paired feeding flutters come first. Feskarn answers with the opening two beats of his cadence, softly enough that only the nearest water dimples. The feeding slimes keep feeding. He waits until the flutter returns, then adds his firm third beat. Two slimes turn toward him. No others move.
+The dragon crashes into the rehearsal hall at the end of the lane.
 
-The hard recoil pulse comes from the crowded dish. Feskarn answers with one of his soft beats and stops. The bodies at the rim loosen.
+The hall is not a hall. It is the open belly of a hundred-foot battlefield giant seated against the western ridge. Wooden ribs arch over the rehearsal floor. Its enormous painted face peers through the missing roof, smiling with the calm of something that has never attempted to stand.
 
-The slow roll by the eggs takes longest. It passes under the translucent clutches, through the slimes spread beneath them, and reaches Feskarn as a tremor you barely feel through the scoop. He repeats the roll before adding the final beat of his own pattern.
+At the back of its belly, a registration mark frames an access passage.
 
-One egg guard lifts an edge. Another stays flat.
+“Straight through!”
 
-Feskarn listens again.
+Feskarn barrels the dragon between the giant's ribs. You slide down a banner rope and land outside as the tail clears the opening. The dragon is wholly contained.
 
-You rearrange the dishes into two staggered lanes, three to each. Rather than touching rim to rim, they sit apart at distances a slime can bridge. You pour narrow runs from the lower shelf to both first dishes, then wet the grooves between each pair. The paths are broken. A slime that enters a gap completes the water connection with its own body; one that withdraws closes it.
+The giant's painted eyes open.
 
-The design would have annoyed the old Feskarn. Too many pauses. Too many places for workers to choose badly.
+Your lens passes ten thousand cartloads, rattles against its stop, and keeps climbing.
 
-You slide the scoop beneath Feskarn and move him into the puddle between the lanes. He sends the paired feeding flutter and waits for an answer. When it returns from the left, he adds two beats of his human cadence. Three mobile slimes gather there. He lets their bodies bridge the first gap before sending the firm beat onward.
+Feskarn stands. The roof gives up. His right foot lands in the rehearsal hall. His left foot lands in a decorative pond and launches six stone ducks over the east wall.
 
-On the right, a hard recoil dimple warns of crowding. Feskarn holds that lane silent. The left group crosses into the second dish, spreads, and restores the water thread to the third.
+The collapsing roof sweeps both ram cranes from their rails. They vanish under scenery bricks with two matched clangs.
 
-He is no longer sounding one order. The pattern branches around the replies: gather on the paired flutter, hold at the hard dimple, wait through the egg roll. Each answer changes the next pulse. Human cadence and slime rhythm run together without becoming the same thing.
+The dragon grille inside the giant's chest speaks half a heartbeat late.
 
-The first group reaches the upper seep.
+“I REQUIRE A WEAPON.”
 
-You grin hard enough to hurt. “Again.”
+The giant's sword is a hundred-foot plank with silver paint on one edge.
 
-Feskarn's body compresses once, gathering water, and the braid begins anew.
+“It has no edge.”
 
-The crossing is slow. Some slimes enter the dishes readily. Some turn aside to a wet crevice halfway across the lip and stay there. Feskarn calls once, receives a recoil pulse, and leaves them. A fat slime spends several precious minutes cleaning berry stain from the edge of your glove before following the feeding rhythm into the left lane.
+“IT HAS PRESENCE.”
 
-At the lower shelf, the egg guards do not leave. Feskarn sends their slow roll through the puddle and waits. Two answer. They contract beneath the clear gel until one clutch slides to the water's edge.
+The fourth bell rings.
 
-You understand the offer only after the second clutch follows.
+The mobile forge tears itself free from the yard's eastern foundry. Six furnace wheels bite into the ground. Its chimney lowers like a horn, and a white flame shoots across the lane. Feskarn raises the plank sword. The paint catches fire.
 
-You hold the right lane silent, lift its third dish, and use it to carry each trembling sheet with enough water to keep it supported. The guards cling to the rim while you cross the dry lip. Between trips you reset the dish and let another loose group pass. You settle the clutches in a shallow pocket beside the upper seep, where the slimes spread underneath again.
+“Presence is burning!”
 
-Others refuse to present theirs. You do not peel them from the stone.
+“ADJUSTING GENRE.”
 
-The timing wheel skips a bent tooth. From beyond the headwall comes the deep wooden knock of the sluice bar lifting.
+He plants the flaming plank under the forge's front axle. The giant crouches, backward armor knee wobbling somewhere deep inside the stack. Dragon, armor, gauntlet, and thimble all answer at slightly different times. The sword bends almost double.
 
-“Last crossing,” you say.
+Then Feskarn pole-vaults the mobile forge.
 
-The braid falters at the second lane. Feskarn has thinned again; his clear edge trembles around a core of visible silt. You pour the canteen's final swallow into his puddle. He absorbs part of it, then drives the rest down both grooves.
+It sails over him trailing sparks, clears the yard wall, and lands upside down in the abandoned quarry. Feskarn lands on both giant feet. The impact splits the western rehearsal floor and peels a whole section of grassy ridge away like damp paper.
 
-Paired flutter. Gather.
+Behind it stands a fortress-sized service gate.
 
-Hard dimple. Hold.
+You and Feskarn stare at the hillside.
 
-Slow roll. Wait.
+The hillside has rivets.
 
-The last mobile slimes cross in loose groups. One more egg clutch reaches the edge. You carry it. When you return, the old nesting shelf is nearly empty except for guards that chose the deep crack beneath the moss. Water already gleams inside that crack. It may hold. You cannot improve their chances by tearing them out.
+The mobile forge rights itself in the quarry. Its white flame cuts a glowing line toward the giant's heel.
 
-Only Feskarn remains within reach. You set the scoop beside him. “Ready?”
+“The hill is hollow,” you say.
 
-One tap. He slides onto the glaze without resistance.
+“I KNEW THAT.”
 
-The sluice releases as you climb onto the maintenance lip.
+“You just tried to lean on it.”
 
-Water fills the lower channel with a sound like masonry splitting. It strikes the pilot run, rolls the stone back against its stop, and sweeps across the abandoned shelf. Moss tears free in green ropes. Your dish lanes rattle, overflow, and vanish beneath white water. You reach the upper seep with Feskarn cupped between both hands and your empty canteen knocking against your hip.
+“TACTILE VERIFICATION.”
 
-The wash stops below the lip.
+You find the release wheel. Feskarn turns it with two giant fingers and crushes it, but the gate opens anyway. Beyond lies an empty dark vast enough to swallow the giant.
 
-Around the seep, ordinary slimes feed, rest, avoid one another, and settle beneath the clutches you moved. The ones in the halfway crevice remain there, dark shapes under a wet shine. No neat rank forms. Nothing waits for praise.
+You climb onto the mountain's exterior inspection stair while Feskarn ducks through the gate. Giant face, dragon tail, armor feet, gauntlet, thimble, slime: every layer passes inside. The service gate slams behind him.
 
-You lower Feskarn into clean water. He spreads until the silt inside him clouds from view. You want to ask a hundred questions: why he returned, what carried him, whether memories can survive hunger and weather in this body. Instead you ask the one required now.
+For one second, nothing happens.
 
-“Do you want me to take you home?”
+Then Papermantle Yard loses its western horizon.
 
-Two taps.
+The false mountain rises on concealed fortress legs. Grass mats slide from painted cliffs. Fake pine trees shake loose and rain into the yard. Water stored in canvas snowcaps pours through Feskarn's dye-bleached seams, turning red scenery paint into mint waterfalls. The burden lens needle crosses one hundred thousand cartloads, hits its printed limit at one million, and bends backward around the pin.
 
-The answer hurts. It also leaves room to notice where he turns: first toward the egg clutches, then down the drainage groove running from the seep toward the far side of Nacre Spill.
+One fortress heel settles across the quarry. The mobile forge gives a final white puff through its chimney and disappears under several thousand cartloads of theatrical geology.
 
-Feskarn nudges the half-bleached tally on your glove. He sounds his five old beats once. After them he adds the paired flutter used by the feeding slimes, then presses six long shapes into the wet silt between you.
+Feskarn's new face is a cliff. His voice issues from a cave the size of a city gate.
 
-“Six more?”
+“IS THIS EXCESSIVE?”
 
-One tap.
+“You are asking from inside a mountain.”
 
-“Dishes?”
+“THAT IS NOT A NO.”
 
-Two.
+The fifth and final bell rings beneath your feet.
 
-You look at the long marks, the grooves carrying seep water, and the direction he has chosen. “Glazed channels.”
+Across the valley, terraces unfold into rails. A stamping ram rises higher than the yard wall. Behind it, an authenticity press drags itself forward on linked tracks, furnace mouth opening beneath folding compaction plates. It spans the valley from slope to slope. Its route points through Papermantle's main gate.
 
-One tap.
+Beyond that gate sits the occupied salvage camp: wagons, cookfires, canvas roofs, and everyone who expected you back before supper. Even if they start running now, the wagons will not clear the press's line.
 
-“Downstream?”
+The bronze balance key in your satchel feels much heavier than bronze.
 
-One.
+“One precise hit,” you say. “Wait for my mark.”
 
-The new reply flutters through the water beside him. Something answers faintly from beyond the bend.
+“I HAVE NEVER BEEN MORE PRECISE.”
 
-You leave Feskarn at the seep with the slimes that fed him when he had no hands and no words. The old path out is longer with an empty canteen. You take it at a run. Six glazed channels are heavier than six dishes, and dusk is already working down the spill walls.
+Feskarn throws a celebratory hook.
+
+The thimble turns first. The gauntlet follows. Armor, dragon, giant, and mountain each receive the decision later and add their own enthusiastic error. The mountain fist passes fifty feet above the press, removes a ridge of fake trees, and backhands them toward the salvage camp.
+
+You flash your examiner's signal mirror. Camp workers scatter from the bright warning. Trees smash wagons instead of people, which is not the standard by which you prefer to judge success.
+
+The press clamps Feskarn's mountain shoulder between two folding plates. Its furnace ignites against painted stone. Fire races through the scenery grass.
+
+“DO I GET ANOTHER TRY?”
+
+“No!”
+
+“A SMALLER HOOK?”
+
+“Hold still.”
+
+The mountain shudders as Feskarn resists the clamp. You scramble through the prop office behind his brow. Load diagrams slap from the walls. In the observation floor, inspection shafts look down through the nested shells. Each decoy bears a white registration cross near its main opening. You saw them as Feskarn entered: mountain gate, giant belly, dragon chest, armor grille, gauntlet cuff, thimble rim.
+
+They are rehearsal marks. A rigger aligns them so a movement begun by the smallest mechanism travels outward instead of every layer anticipating the cue.
+
+Feskarn died under scenery because a palace moved before his mark.
+
+“Can you feel the thimble?” you shout into the speaking pipe.
+
+The answer takes two heartbeats to climb back through the stack. “YES.”
+
+“Only the thimble moves on my first flash. Gauntlet receives it. Armor receives the gauntlet. Nobody anticipates.”
+
+“I AM EVERYBODY.”
+
+“Then disappoint yourself six times.”
+
+The press's stamping ram draws back. When it fires, it will punch through the mountain and continue toward the gate.
+
+You angle the signal mirror down the shafts. A point of white light touches the thimble's registration mark, tiny at the bottom of the nested dark.
+
+“Thimble. Now.” Flash.
+
+Feskarn snaps the thimble sideways. You wait until its motion reaches the next white cross.
+
+“Gauntlet. Receive.” Flash.
+
+The gauntlet's wrist accepts the turn instead of starting one. Iron knuckles rotate inside the armor's chest.
+
+“Armor.” Flash.
+
+The suit swings one-armed. Its grille booms a note too low to be language.
+
+“Dragon.” Flash.
+
+The parade dragon rolls with the armor. Confetti erupts from vents along the giant's ribs.
+
+“Giant.” Flash.
+
+The battlefield giant turns from the hips. The painted plank sword, still burning, draws a bright arc behind the mountain wall. You wait through the awful delay until the giant's registration cross aligns with the mountain's.
+
+“Mountain.” Final flash.
+
+The false mountain backhands the valley.
+
+Its mint-streaked palm arrives exactly as the authenticity press fires. Stone fingers catch the stamping ram. The layered turn carries through thimble, gauntlet, armor, dragon, giant, and mountain in one widening crack of force. The ram reverses. It punches backward through the press's open furnace and into its own loading hopper.
+
+The hopper sensors register the press's own ram as unauthorized material.
+
+Compaction plates slam inward. Rails fold. Furnace wheels buckle into the hopper. The preset cycle stamps the entire valley-spanning machine once, twice, and a third time. What remains is one smoking iron cube the size of the rose castle.
+
+The shock folds Feskarn's mountain arm across his chest. A fake summit collapses. Confetti fountains from three cliff caves. You are thrown into a cabinet labeled EMERGENCY APPLAUSE and discover it contains exactly that: ten thousand brass clappers, all ringing.
+
+Outside, the burning scenery gutters when the press's broken fuel line retracts into the cube. Mint rain pours over the last flames. The salvage camp remains upright except for two wagons, fourteen tents, and everyone's opinion of you.
+
+Feskarn lowers his city-block-sized hand beside the yard. You climb onto the palm with the ruined burden lens.
+
+“Partnership terms,” you say. “I assess openings, ownership, structural loads, and bystanders.”
+
+The mountain voice rumbles through your boots. “I PROVIDE ARTISTIC DIRECTION.”
+
+“You provide force and terrible ideas.”
+
+“THAT IS ARTISTIC DIRECTION.”
+
+He retains every surviving layer. You can see the cost in the crooked mountain shoulder, the missing armor arm, the dragon's torn wing, and the time his smallest shrug takes to reach his outer cliffs. He is flammable, inaccurate, mint-striped, and stronger than your instruments can express without breaking.
+
+You point the lens at the ordinary slime nested somewhere inside him. The bent needle twitches past one million cartloads and snaps off.
+
+“DO I STILL LOOK NORMAL?” Feskarn asks.
+
+Before you answer, a brass inventory plate drops from the mountain's prop office and lands between you with a city-block clang.
+
+REHEARSAL MODEL. SCALE 1:100.
+
+FULL-SIZE FALSE TERRAIN UNITS: SIX.
+
+Feskarn is silent long enough for all seven layers to finish being silent.
+
+“WHERE DOES ANYONE STORE A FULL-SIZE MOUNTAIN?”
