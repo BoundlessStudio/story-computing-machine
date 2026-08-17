@@ -34,15 +34,26 @@ Never use it to reopen a completed current or locked legacy story.
    the complete story and writes only `title-image.jpg`, an exact 9:16 portrait,
    spoiler-light title visual. Unless the assignment overrides it, use the
    agent's premium anime/light-novel key-visual default.
+   After saving, both the illustrator and coordinator must use the available
+   image-viewing tool on that exact file. Generation output, prompt text, file
+   metadata, and written self-reports do not count as visual inspection. View
+   the whole cover at reduced size and full-resolution details; use additional
+   visual crops or views for doubtful anatomy, objects, typography, or spatial
+   relations. Keep any temporary review images outside the story directory and
+   do not commit them.
    The illustrator self-reviews and the coordinator independently reviews the
-   actual saved file through three gates: story promise, thumbnail cover read,
-   and full-resolution image integrity. A mechanically clean but generic image,
+   actual saved file at cover-card size and full resolution through six gates:
+   story promise, scene truth, role legibility, cover read, image integrity,
+   and production finish. Each pass must cite visible evidence rather than
+   repeat the generation prompt or the illustrator's claims. If a required
+   action, role, object connection, or spatial fact is ambiguous, fail it rather
+   than filling the gap from the prose. A mechanically clean but generic image,
    or one that omits the prompt's defining relationship or contradiction, does
    not pass. When a gate fails, send a regeneration brief that identifies what
    to preserve, the blocking miss, the required focal or compositional change,
-   and the unchanged constraints. Use a new composition for an editorial miss
-   and a targeted correction for a localized defect. Do not capture until all
-   three gates pass.
+   and the unchanged constraints. Use a new composition for an editorial,
+   scene-truth, or role-legibility miss and a targeted correction for a localized
+   defect. Do not capture until all six gates pass.
 8. Run final validation, then capture the story with
    `python pages/build.py capture <slug>`. This mandatory final handoff updates
    the stored prose catalog and its matching Pages cover asset.
@@ -114,7 +125,12 @@ caption, logo, border, watermark, or other text. Generate the illustration and
 verbatim title together in one image-generation pass; canvas normalization may
 not add or replace typography.
 
-Before saving, review the candidate through all three gates:
+Before saving, review the candidate at cover-card size and full resolution
+through all six gates. For each pass, identify visible evidence in the actual
+candidate. Do not infer a missing action, relationship, or physical fact from
+the prose or generation prompt. After saving the normalized JPEG, open the exact
+saved path with the available image-viewing tool and repeat the gates; file
+metadata and the generation response cannot establish a visual pass:
 
 - **Story promise:** the image reads as this story rather than merely its genre.
   It makes the defining relationship, contrast, or pressure visually primary,
@@ -126,6 +142,19 @@ Before saving, review the candidate through all three gates:
   enough people or unmistakable visual evidence to make that contrast legible.
   Reducing the cast or hiding anatomy risk is valid only if it does not erase the
   premise.
+- **Scene truth:** verify every story-critical action, position, direction of
+  movement, spatial constraint, possession, support, and cause-and-effect
+  relation in the selected moment. Openings, rooms, vehicles, restraints,
+  tools, and other affordances must have plausible scale and geometry. Reject
+  an attractive approximation that changes how the scene works, puts an object
+  in the wrong hand or place, reverses movement, removes the stated constraint,
+  or makes the decisive action physically ambiguous.
+- **Role legibility:** verify that story-important figures remain distinct in
+  silhouette, face, clothing, posture, and placement. A viewer must be able to
+  tell who is doing what, who holds power, how figures are grouped, and which
+  objects belong to whom without prose explanation. Reject near-duplicate
+  faces, ambiguous couples or groups, or static posing that erases opposing
+  choices.
 - **Cover read:** inspect at reduced cover-card scale. The exact title remains
   immediately readable once; the silhouette, focal hierarchy, emotional read,
   important relationships, and story-specific object or setting cue survive
@@ -138,13 +167,19 @@ Before saving, review the candidate through all three gates:
   anatomy, ambiguous couples or roles, floating or disconnected objects,
   incoherent perspective, impossible support or restraint geometry, accidental
   extra figures, unintended text or pseudo-text, watermarks, and crop damage.
+- **Production finish:** verify intentional lighting, value and color
+  separation, consistent rendering, clean edges, and professional typography.
+  Reject muddy or crushed values, overprocessed texture, malformed or damaged
+  title letters, accidental tangencies, generic decoration, visible scaling or
+  JPEG artifacts, and title placement outside the safe crop.
 
-If any gate fails, regenerate before saving. For a story-promise or focal miss,
-choose a materially different composition instead of cosmetically repairing the
-same idea. For a localized integrity defect, make one targeted correction while
-repeating every invariant that already works. Use this regeneration structure:
+If any gate fails, regenerate before saving. For a story-promise, scene-truth,
+role-legibility, or focal miss, choose a materially different composition
+instead of cosmetically repairing the same idea. For a localized integrity or
+finish defect, make one targeted correction while repeating every invariant
+that already works. Use this regeneration structure:
 `Preserve`, `Blocking miss`, `Change`, and `Keep fixed`. Return the final cover
 thesis, one-sentence visual description, exact verified title, concise pass
-result for all three gates, final prompt/spec, and saved path. The image is
+result for all six gates, final prompt/spec, and saved path. The image is
 presentation, not canon authority, and must never cause prose or continuity
 edits.
