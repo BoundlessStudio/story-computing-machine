@@ -1,0 +1,15 @@
+# Prompt
+
+## Prompt
+
+> [WP] A moon begins casting two shadows across the world below. An orbital repair crew discovers that the second shadow comes from an ancient sunshade mistaken for a celestial omen—and that an enormous living migration has built its nests across the machinery needed to move it.
+
+## Constraints
+
+- Target length: 2,500–4,000 words
+- POV, tense, and distance: derive from what the story should reveal, distort,
+  conceal, or make intimate unless specified
+- Tone and audience: broadly accessible unless specified
+- Required: a complete story that resolves its central promise
+- Craft profile: prospective-2026-08-08
+- Avoid: none specified
