@@ -1,0 +1,15 @@
+# Prompt
+
+## Prompt
+
+> [WP] A disgraced shipwright is crowned the town’s god for a joke—but when the sea obeys her, she has fifty-seven minutes to decide whether she will allow the ritual to make her mortal again.
+
+## Constraints
+
+- Target length: 2,500–4,000 words
+- POV, tense, and distance: derive from what the story should reveal, distort,
+  conceal, or make intimate unless specified
+- Tone and audience: broadly accessible unless specified
+- Required: a complete story that resolves its central promise
+- Craft profile: prospective-2026-08-08
+- Avoid: none specified
