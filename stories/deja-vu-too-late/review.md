@@ -23,4 +23,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The endless wheat, human-surpassing square-faced white marble block, immense open sky, and corner-driven temporal dislocations directly fulfill the revised prompt. Four fixed sensory spillbacks make the warning causally legible rather than prophetic; persistent bodily and material consequences keep the sequence coherent, and the final refusal grows from the traveler's grief without reducing the brother or the narrator's choice to machinery.
+- Notes: The story makes the prompt's warning literal: each déjà vu is the pastward aftereffect of a later fixed circuit, so recognition arrives too late to function as advance warning. The local, non-agentic mechanism preserves bodily and material consequences, and the final refusal grows from the traveler's grief without reducing the brother or the narrator's choice to machinery.
