@@ -6,15 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Halen Corren | new | Full form for the locksmith and building-clearance contractor; no exact or alias reuse found, and current `Harlan Ives`, `Halvek Prynn`, and `Coru` remain readily distinguishable. |
-| Halen | new | Short form of Halen Corren; consistently identifies the same person without confusing reuse. |
-| Joss | new | Halen's adult younger brother; the final prose uses only this form, with no exact, alias, close-spelling, or confusing reuse found. |
+| None | none | The traveler, younger brother, parents, father, neighbor, doctor, and unknown warning-carver remain unnamed. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The condemned apartment block, numbered flats, neighboring cellar, streets, and stairs are unnamed. |
+| None | none | The wheat field, marble monument, childhood hallway, bus station, kitchens, brother's flat, hedgerow, and road remain unnamed. |
 
 ## Continuity
 
@@ -25,4 +23,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The locally bounded route-copying effect makes the warning's delayed recognition causally legible, preserves both siblings' independent choices, and earns the one-use lateral escape without universalizing ordinary déjà vu or linking the event to an established system.
+- Notes: The endless wheat, human-surpassing square-faced white marble block, immense open sky, and corner-driven temporal dislocations directly fulfill the revised prompt. Four fixed sensory spillbacks make the warning causally legible rather than prophetic; persistent bodily and material consequences keep the sequence coherent, and the final refusal grows from the traveler's grief without reducing the brother or the narrator's choice to machinery.
