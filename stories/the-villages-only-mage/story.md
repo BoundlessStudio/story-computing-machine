@@ -8,7 +8,7 @@ canon: false
 
 # The One Who Helped Everyone
 
-The knocking started before sunrise, and you were halfway through saying yes before you had lifted the latch.
+The knocking started before sunrise, and you were halfway through saying yes before you had lifted the latch, still in your nightshirt with your iron-gray beard flattened on one side.
 
 On the other side stood the cooper's youngest, one boot in his hand and his bare foot tucked behind his other ankle. His mother held him by the shoulder. Behind them, the miller waited with a loop of iron from the sluice gate, the midwife cradled a gray stone in both palms, and the baker had brought her starter crock despite the rule about keeping dough away from you.
 
@@ -22,7 +22,7 @@ You liked that laugh. You liked the instant in which pain ceased and surprise to
 
 The miller's iron loop had frozen solid around its pin. You laid two fingers against it and persuaded the ice nearest the metal to loosen first. Water ticked onto the floor without the iron heating enough to swell the wooden housing. Then you pressed warmth into the midwife's stone, layer by patient layer, until it would hold through a difficult birth without scorching the blankets.
 
-No one else in the village had been born with magic. Beyond the last goat track, the mountains rose high enough to turn travelers elsewhere, so as far as most villagers were concerned, magic meant your hands and a problem in front of them. By the time you were twelve, people had begun knocking before breakfast.
+No one else in the village had been born with magic. Beyond the last goat track, the mountains rose high enough to turn travelers elsewhere, so as far as most villagers were concerned, magic meant your hands and a problem in front of them. People had begun knocking before breakfast when you were twelve. Forty-six years later, they still did, though now some of the children you had once helped sent grandchildren of their own.
 
 By then the baker's crock had begun to knock under its lid.
 
@@ -44,7 +44,7 @@ All three wore traveling coats grayed with old salt and fresh mud. The first was
 
 He reached the queue, looked from face to face, and asked, “Where is the one with the absurdly massive amount of magical energy?”
 
-Every hand pointed at you.
+Every hand pointed at you, a fifty-eight-year-old man still dressed for bed.
 
 Even the boy on the wood box pointed with his splintered foot.
 
@@ -148,7 +148,7 @@ The mill gate, however, was a problem with a place to put your hands, so you car
 
 The trio followed you through the village. At the mill, water had climbed nearly to the top of the sluice because the iron pin had seized again in its wooden collar. The miller and his sister had ropes around the gate, but pulling harder would only split the housing.
 
-You knelt on the wet boards. Here was a problem that fit you. You traced warmth along the hidden side of the pin, felt ice loosen grain by grain, and held the swollen wood cool. The rope jerked. The gate rose, and brown water shouldered through beneath it.
+You knelt on the wet boards, your left knee lodging its usual complaint about cold weather. Here was a problem that fit you. You traced warmth along the hidden side of the pin, felt ice loosen grain by grain, and held the swollen wood cool. The rope jerked. The gate rose, and brown water shouldered through beneath it.
 
 The familiar pleasure moved through you as immediate as hunger. Skill met need; the work fitted under your hands. You grinned at the open gate.
 
@@ -222,7 +222,7 @@ The road mage spent the remaining light counting what the village had quietly ar
 
 The list lengthened as the sun went down.
 
-Your old neighbor had raised you after your parents died. She had taught you to bank a fire, mend a sock, and never trust a clean-looking mushroom with a yellow frill. Magic had made two of those lessons less necessary. Age had made the third more emphatic.
+Your old neighbor had raised you from boyhood after your parents died. She had taught you to bank a fire, mend a sock, and never trust a clean-looking mushroom with a yellow frill. Magic had made two of those lessons less necessary. Her age had made the third more emphatic.
 
 She was in bed when you visited, wrapped in two quilts with the stove unlit. She said your warmth felt better in her joints than stove heat and did not dry her throat. You believed her. You also knew the woodpile outside was too low.
 
@@ -256,7 +256,7 @@ The room seemed colder after you said it.
 
 She looked toward the empty stove. “It might.”
 
-You had hoped, without admitting it, that she would tell you to go freely. Instead she rubbed at one knuckle and said, “I want you here. I sleep better when you're across the path. I also don't want to look at you in ten years and know my cold feet kept you from the first thing you ever wanted. I can't make those facts agree, and I won't say I can just to soothe you.”
+You had hoped, without admitting it, that she would tell you to go freely. Instead she rubbed at one knuckle and said, “I want you here. I sleep better when you're across the path. I also don't want to spend whatever years I have left knowing my cold feet kept you from the first thing in all these years that you've wanted simply for yourself. I can't make those facts agree, and I won't say I can just to soothe you.”
 
 You laughed once, and your eyes stung.
 
