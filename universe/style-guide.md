@@ -78,8 +78,10 @@
   - Choose POV and narrative distance according to what the story should reveal,
     distort, conceal, or make intimate. Also choose the time shape, compression,
     and order in which the reader understands important facts. Give important
-    speakers distinct private objectives, vocabularies, evasions, and failure
-    modes.
+    speakers distinct attention, knowledge, pressures, and verbal behavior.
+    Difference should arise from character and situation rather than cosmetic
+    quirks. Directness, mutual understanding, and articulate speech remain
+    available when earned.
   - Keep costs and aftereffects that genuinely follow from the central action,
     but do not attach token misery or a policy coda merely to certify seriousness.
     Let the opening imply the kind of ending the story needs. The end may be a
@@ -89,6 +91,24 @@
     self-contained in-place revision pass in the `short-story-writing` skill
     before saving `story.md`. Do not create a checklist, report, draft copy, or
     other production artifact for that pass.
+  - `Craft profile: prospective-2026-08-18` includes the preceding defaults and
+    in-place revision pass only for new stories. Its outline targets 700–1,000
+    words and may not exceed 1,200; it records draftable pressure and limits
+    without scripting confessions, reconciliations, or final thematic lines. An
+    optional dialogue-pressure note is capped at 75 words.
+  - Under the 2026-08-18 profile, revise every major dialogue exchange in place.
+    Test whether it changes knowledge, leverage, commitment, risk,
+    relationship, or action; whether abstraction belongs to the speaker;
+    whether exposition is needed by the listener; and whether the ending
+    explains action that already landed. Preserve unequal fluency when the
+    characters and pressure support it rather than imposing resistance or
+    inarticulacy as a quota.
+  - The reviewer reads prompt and prose before the outline and records
+    `Dialogue: PASS`, `REVISE`, or `N/A`. N/A means essentially no meaningful
+    dialogue. A material reader-facing dialogue failure is blocking
+    even when continuity and causality pass; outline compliance never proves
+    that dialogue works. This extension is prospective and does not reopen any
+    completed story.
 
 ## Tonal range, scale, and connection
 

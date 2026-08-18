@@ -10,7 +10,8 @@ assumptions over questions. Default to a coherent 2,500–4,000 word story unles
 the prompt says otherwise.
 
 For CREATE mode, the scaffold marks the self-contained prospective craft profile
-implemented by the binding style defaults, outline handoff, and prose skill.
+implemented by the binding style defaults, compact outline handoff, prose skill,
+and dialogue-aware review.
 Never use it to reopen a completed current or locked legacy story.
 
 ## CREATE mode
@@ -19,14 +20,17 @@ Never use it to reopen a completed current or locked legacy story.
 2. Preserve the prompt, then delegate OUTLINE to `story_outliner`. It writes
    only `outline.md` after targeted canon and noun searches, selecting a
    story-specific generating force and a distinct narrative shape from the
-   binding craft defaults.
+   binding craft defaults. Under `prospective-2026-08-18`, target 700–1,000
+   words and never exceed 1,200.
 3. Delegate WRITE to `story_writer`. It uses `short-story-writing`, applies its
    self-contained in-place revision pass, and writes the complete prose directly
    to `story.md`; there is no draft/final split or craft report.
 4. Run `scripts/Test-Stories.ps1 -Story <slug> -Phase PreReview` once and pass
    its concise result to the reviewer. Do not save another report file.
-5. Delegate one independent REVIEW to `story_reviewer`. The prompt is the
-   acceptance authority; `outline.md` is advisory context.
+5. Delegate one independent REVIEW to `story_reviewer`. It reads prompt and
+   prose first and forms a provisional reader-facing judgment before opening
+   the outline. The prompt is the acceptance authority; `outline.md` is
+   advisory context.
 6. If the verdict is `REVISE`, delegate only the blocking fixes to
    `story_writer`, repeat the pre-review check, and request one fresh review.
    Stop for the user only when authority or prompt meaning requires a ruling.
@@ -66,20 +70,29 @@ targeted search answers the continuity question.
 ## OUTLINE responsibility
 
 Write only `outline.md`. Keep scenes or movements ready to draft and compact.
+For `Craft profile: prospective-2026-08-18`, target 700–1,000 words when useful
+and never exceed 1,200. The outline supplies choices and pressure, not a
+miniature prose draft.
 Declare every proposed person and place noun as `new` or `recurring`, using one
 `None` row for an empty category. Record relevant canon and unresolved
 boundaries, but do not turn the outline into a canon brief or an acceptance
 contract.
 
 Choose a generating force appropriate to the prompt. For a plot-led story,
-identify immediate and competing wants plus a useful flaw or limit. For another
-shape, identify the attachment, attention, relationship, discovery, loss,
-recurrence, accumulation, or change that creates movement. Name a credible
-counterforce or complication when one exists; do not manufacture an antagonist.
-Also choose the intended reader experience, POV and distance, time shape,
-information strategy, non-thematic speculative effect, structural distinction,
-decisive turn or deepening, aftereffect, and opening/ending relation. Use `none`
-for speculative surplus when the story is deliberately ordinary.
+identify immediate and competing wants plus a useful limit. For another shape,
+identify the attachment, attention, relationship, discovery, loss, recurrence,
+accumulation, or change that creates movement. Name a credible counterforce or
+complication when one exists; do not manufacture an antagonist. Record the
+central promise, focal pressure, POV and information limit, governing movement
+and time shape, operative speculative or ordinary-world constraint, and
+flexible beats. Omit design commentary the writer cannot act on.
+
+If dialogue will carry a decisive conflict, an optional `Dialogue pressure`
+note may use at most 75 words for the speakers' asymmetrical aims, knowledge or
+withheld information, likely tactics or proxy subjects, and character-specific
+diction sources. Do not draft exchanges, confessions, apologies,
+reconciliation protocols, speeches, banter, or final thematic lines unless the
+prompt requires exact wording.
 
 Before settling the shape, skim only the `## Story` section, including any
 `Narrative design` fields, of up to five recent passing current outlines. Use
@@ -92,21 +105,32 @@ beats or movements, not a craft audit.
 
 Write only `review.md`. Follow its template exactly:
 
+- read prompt and story first and form a provisional judgment before opening
+  the outline;
 - inventory all story-facing people and place proper nouns;
 - mark each noun `new` or `recurring`, with `None` for an empty category;
 - check the prompt, current universe authority, and internal story facts;
-- for a prompt carrying `Craft profile: prospective-2026-08-08`, check material
-  compliance with the binding story craft defaults without reproducing the
-  in-place revision criteria in `review.md`;
+- for a prompt carrying `Craft profile: prospective-2026-08-08` or
+  `prospective-2026-08-18`, check material compliance with the binding story
+  craft defaults without reproducing the in-place revision criteria;
+- for `prospective-2026-08-18`, record exactly one `Dialogue` verdict under
+  `## Craft`: `PASS`, `REVISE`, or `N/A`; use N/A only when there is essentially
+  no meaningful dialogue;
 - use the outline as context, not as a reason to reject a prompt-faithful story;
-- use `Verdict: PASS` only when all continuity lines are `PASS` and blocking
-  findings are `none`; otherwise use `REVISE` and list concise fixes.
+- use `Verdict: PASS` only when all continuity lines and the applicable dialogue
+  gate pass, and blocking findings are `none`; otherwise use `REVISE` and list
+  concise fixes.
 
-Craft is blocking only when a failure materially breaks the prompt's central
-promise, reader-facing causality, or binding narrative policy. A deliberate
-prompt-led departure from a default is not a finding. Keep the review short.
-Findings and outcomes belong in the file; hidden reasoning, audit narration,
-the craft checklist, and repeated plot summaries do not.
+Under the older profile, craft blocks only when a failure materially breaks the
+prompt's central promise, reader-facing causality, or binding narrative policy.
+Under `prospective-2026-08-18`, a material reader-facing dialogue defect also
+blocks. Scan all dialogue, closely inspect the decisive and final meaningful
+exchanges with their adjacent narration, and record at most one targeted
+dialogue finding supported by no more than three short examples. Outline
+compliance is not evidence that dialogue works. A deliberate prompt-led
+departure from a default is not a finding. Keep the review short. Findings and
+outcomes belong in the file; hidden reasoning, audit narration, the craft
+checklist, and repeated plot summaries do not.
 
 ## TITLE IMAGE responsibility
 

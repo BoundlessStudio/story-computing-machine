@@ -20,6 +20,10 @@ Verdict: PENDING
 - Universe: PENDING
 - Internal: PENDING
 
+## Craft
+
+- Dialogue: PENDING
+
 ## Findings
 
 - Blocking: not reviewed

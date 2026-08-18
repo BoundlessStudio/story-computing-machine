@@ -33,9 +33,9 @@ command understands the legacy layout; normal story validation does not.
 - `universe/` is authoritative for shared facts. Read `universe/README.md`
   before interpreting canon.
 - `universe/style-guide.md` is the binding narrative policy. Current scaffolds
-  apply its prospective craft profile through the outline and writer skills;
-  never use that profile to reopen completed current stories or locked legacy
-  bundles.
+  apply its prospective craft profile through the outline, writer, and reviewer
+  skills; never use that profile to reopen completed current stories or locked
+  legacy bundles.
 - `stories/NAMES.md` is the frozen name baseline for legacy stories, not canon.
 - Current `review.md` files extend production memory for new people and places.
 - Plans, reviews, prompts, source notes, and non-canon stories never establish
@@ -75,21 +75,27 @@ one named stage.
    design sections of up to five recent passing current outlines, and proposes
    a story-specific generating force and narrative shape plus people and places
    as `new` or `recurring`. Recent outlines are comparison context only, never
-   canon or models to imitate.
+   canon or models to imitate. For `prospective-2026-08-18`, target 700–1,000
+   words and never exceed 1,200. Record pressure and choices, not drafted
+   confessions, reconciliations, speeches, or final thematic lines.
 3. Delegate `story.md` to `story_writer`. It uses the compact
    `short-story-writing` skill, writes the complete story directly, and revises
-   it in place at whole-story, movement/information, and language/sound scales.
-   This remains one prose assignment; there is no separate draft, craft report,
-   or final-edit artifact.
+   it in place at whole-story, movement/information, dialogue-scene, and
+   language/sound scales. This remains one prose assignment; there is no
+   separate draft, craft report, or final-edit artifact.
 4. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Pass its concise
    result to the reviewer without creating another file.
 5. Delegate one independent review to `story_reviewer`. It writes only
-   `review.md`, inventories every story-facing person and place noun, and checks
-   prompt fulfillment, universe continuity, chronology, causality, and internal
-   facts. The prompt is authoritative; the outline is advisory.
+   `review.md`. It reads prompt and story first, forms a provisional
+   reader-facing and dialogue judgment before opening the outline, inventories
+   every story-facing person and place noun, and checks prompt fulfillment,
+   universe continuity, chronology, causality, and internal facts. The prompt is
+   authoritative; the outline is advisory.
 6. If the verdict is `REVISE`, delegate only blocking fixes to `story_writer`,
-   repeat the pre-review check, and request one fresh review. Ask the user only
-   when a canon ruling, retcon, or material prompt reinterpretation is required.
+   allowing the smallest necessary surrounding action or narration for a
+   dialogue repair, repeat the pre-review check, and request one fresh review.
+   Ask the user only when a canon ruling, retcon, or material prompt
+   reinterpretation is required.
 7. After `PASS`, delegate `title-image.jpg` to `story_title_illustrator`. It
    reads the complete final prose and writes only the spoiler-light 9:16 title
    visual. Unless the prompt says otherwise, use the repository's premium
@@ -173,9 +179,10 @@ person-like being, or place:
 - explain intentional recurrence briefly; and
 - use a single `None` row when the story has no named noun of that kind.
 
-`PreReview` validates the scaffold, usable prompt/outline/story, and exact
-outline declarations. Run `-Phase Final` locally after review to validate the
-final review structure, exact inventory, and continuity verdict. Neither mode
+`PreReview` validates the scaffold, usable prompt/outline/story, exact outline
+declarations, and the new profile's 1,200-word outline ceiling. Run final
+validation locally with `-Phase Final` after review to validate the structure, exact
+inventory, continuity verdict, and required dialogue verdict. Neither mode
 substitutes for the reviewer's semantic judgment.
 
 ## Review and continuity
@@ -197,6 +204,17 @@ blocking only when it breaks the prompt's central promise, reader-facing
 causality, or binding narrative policy. Do not copy the writer's in-place
 revision criteria into `review.md`, and do not apply them retroactively to
 existing stories.
+
+For prompts carrying `Craft profile: prospective-2026-08-18`, the reviewer
+applies those defaults and records exactly one dialogue line under `## Craft`:
+`- Dialogue: PASS`, `- Dialogue: REVISE`, or `- Dialogue: N/A`. N/A means the
+story has essentially no meaningful dialogue, not merely that it is
+dialogue-light. The reviewer scans every dialogue scene and closely examines
+the decisive and final meaningful exchanges, including their adjacent action
+and narration. Outline compliance is not evidence that dialogue works. A
+material reader-facing dialogue defect is independently blocking;
+Dialogue REVISE requires an overall REVISE and one concise targeted finding
+supported by no more than three short examples.
 
 Review prose concisely. Record only blocking findings and short useful notes;
 do not preserve reviewer chain-of-thought, repeated summaries, or audit logs.

@@ -29,6 +29,8 @@ if (-not [string]::IsNullOrWhiteSpace($Story) -and $Story -notmatch '^[a-z0-9]+(
 
 $requiredFiles = @('outline.md', 'prompt.md', 'review.md', 'story.md')
 $titleImageFile = 'title-image.jpg'
+$dialogueCraftProfile = 'prospective-2026-08-18'
+$outlineWordLimit = 1200
 $errors = [Collections.Generic.List[string]]::new()
 $warnings = [Collections.Generic.List[string]]::new()
 $finalInventory = [Collections.Generic.List[object]]::new()
@@ -46,6 +48,26 @@ function Get-Section {
         return $null
     }
     return $match.Groups['body'].Value.Trim()
+}
+
+function Test-CraftProfile {
+    param([string]$PromptText, [string]$Profile)
+
+    $escaped = [regex]::Escape($Profile)
+    return [regex]::IsMatch(
+        $PromptText,
+        "(?m)^-\s+Craft profile:\s*${escaped}\s*$"
+    )
+}
+
+function Get-MarkdownWordCount {
+    param([string]$Text)
+
+    $withoutComments = [regex]::Replace($Text, '(?s)<!--.*?-->', '')
+    return [regex]::Matches(
+        $withoutComments,
+        "\b[\p{L}\p{N}]+(?:['’\-][\p{L}\p{N}]+)*\b"
+    ).Count
 }
 
 function Get-TableRows {
@@ -257,6 +279,14 @@ function Read-StoryPackage {
     $storyText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'story.md') -Raw
     $reviewText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'review.md') -Raw
 
+    $usesDialogueCraftProfile = Test-CraftProfile $promptText $dialogueCraftProfile
+    if ($usesDialogueCraftProfile) {
+        $outlineWordCount = Get-MarkdownWordCount $outlineText
+        if ($outlineWordCount -gt $outlineWordLimit) {
+            $errors.Add("$slug/outline.md exceeds the $outlineWordLimit-word limit for $dialogueCraftProfile; found $outlineWordCount words.")
+        }
+    }
+
     $promptSection = Get-Section $promptText 'Prompt'
     if ([string]::IsNullOrWhiteSpace($promptSection) -or $promptSection -notmatch '(?m)^>\s*\S') {
         $errors.Add("$slug/prompt.md must preserve a non-empty blockquoted Prompt section.")
@@ -350,6 +380,7 @@ function Read-StoryPackage {
         StoryText = $storyText
         StoryBody = $storyBody
         ReviewText = $reviewText
+        UsesDialogueCraftProfile = $usesDialogueCraftProfile
     }
 }
 
@@ -461,9 +492,40 @@ function Test-FinalReview {
     if ($reviewText -notmatch '(?m)^-\s+Blocking:\s*none\s*$') {
         $errors.Add("$slug/review.md has unresolved or malformed blocking findings.")
     }
-    foreach ($heading in @('Continuity', 'Findings')) {
+    $requiredReviewHeadings = @('Continuity', 'Findings')
+    if ($Package.UsesDialogueCraftProfile) {
+        $requiredReviewHeadings += 'Craft'
+    }
+    foreach ($heading in $requiredReviewHeadings) {
         if ([string]::IsNullOrWhiteSpace((Get-Section $reviewText $heading))) {
-            $errors.Add("$slug/review.md lacks a non-empty '$heading' section.")
+            if ($heading -eq 'Craft') {
+                $errors.Add("$slug/review.md lacks a non-empty 'Craft' section for the required Dialogue verdict.")
+            }
+            else {
+                $errors.Add("$slug/review.md lacks a non-empty '$heading' section.")
+            }
+        }
+    }
+
+    if ($Package.UsesDialogueCraftProfile) {
+        $craftSection = Get-Section $reviewText 'Craft'
+        if (-not [string]::IsNullOrWhiteSpace($craftSection)) {
+            $dialogueLines = [regex]::Matches(
+                $craftSection,
+                '(?m)^-\s+Dialogue:\s*(?<value>[^\r\n]+?)\s*$'
+            )
+            if ($dialogueLines.Count -ne 1) {
+                $errors.Add("$slug/review.md Craft section must contain exactly one Dialogue verdict.")
+            }
+            else {
+                $dialogueVerdict = $dialogueLines[0].Groups['value'].Value.Trim()
+                if ($dialogueVerdict -notin @('PASS', 'REVISE', 'N/A')) {
+                    $errors.Add("$slug/review.md Dialogue verdict must be PASS, REVISE, or N/A; found '$dialogueVerdict'.")
+                }
+                elseif ($dialogueVerdict -eq 'REVISE') {
+                    $errors.Add("$slug/review.md Dialogue verdict is REVISE.")
+                }
+            }
         }
     }
 
