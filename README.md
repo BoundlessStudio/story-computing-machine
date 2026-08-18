@@ -8,10 +8,10 @@ prompt.md → outline.md → story.md → review.md → title-image.jpg
 ```
 
 The coordinator delegates one compact outline pass, one skilled prose assignment
-with in-place structural and language revision,
-one independent review, and one final-story title-image pass. The reviewer
-checks people, places, prompt fulfillment, binding narrative policy, and
-continuity; the illustrator
+with in-place structural, dialogue, and language revision,
+one independent review, and one final-story title-image pass. The reviewer reads
+the prose before the outline and checks people, places, prompt fulfillment,
+dialogue, binding narrative policy, and continuity; the illustrator
 reads the finished prose and creates an exact 864x1536 portrait key visual. There are no
 draft/final duplicates, canon briefs, handoff ledgers, or release certificates.
 Each cover includes the exact reader-facing story title once.
@@ -57,8 +57,10 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase 
 
 The agent runs the targeted pre-review phase before review, generates the title
 image only after a passing review, and then runs the final phase locally. Final
-validation requires a readable 864x1536 JPEG for every current story. Both
-phases ignore locked legacy bundles; semantic noun extraction and continuity
+validation requires a readable 864x1536 JPEG for every current story. For the
+new prospective craft profile, local validation also enforces the compact
+outline ceiling and structured dialogue verdict. Both phases ignore locked
+legacy bundles; semantic noun extraction, dialogue judgment, and continuity
 judgment remain the reviewer's responsibility.
 
 ## Pages

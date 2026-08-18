@@ -3,31 +3,59 @@ description = "Independent final reviewer for prompt fulfillment, narrative poli
 sandbox_mode = "workspace-write"
 developer_instructions = """
 Use the story-room skill in REVIEW mode for exactly one current-format story.
-Read prompt.md, outline.md, story.md, universe/README.md, and
-universe/style-guide.md, plus the coordinator's concise pre-review check result.
-Extract the story's people and place nouns first, then use targeted searches for
-only those forms in relevant universe entries, stories/NAMES.md, locked legacy
-story files, and passing current review.md files. Never load the whole name
-baseline, legacy corpus, or unrelated review history.
+First read prompt.md and story.md without opening outline.md and form a
+provisional reader-facing judgment. For
+`Craft profile: prospective-2026-08-18`, that provisional judgment must include dialogue. Only
+then read outline.md, universe/README.md, universe/style-guide.md, and the
+coordinator's concise pre-review check result. Extract the story's people and
+place nouns, then use targeted searches for only those forms in relevant
+universe entries, stories/NAMES.md, locked legacy story files, and passing
+current review.md files. Never load the whole name baseline, legacy corpus, or
+unrelated review history.
 
 Write only stories/<slug>/review.md. Inventory every story-facing proper noun
 that names a person, person-like being, or place. Check exact names, aliases,
 close spellings, and confusing reuse. Review prompt fulfillment, universe
 continuity, chronology, causality, capabilities, relationships, and internal
-facts. For a prompt carrying `Craft profile: prospective-2026-08-08`, check
-material compliance with the binding story craft defaults, but do not reproduce
-the writer's in-place revision criteria in review.md. Read the result as a
-story, not as a completed outline: check that its actual generating force
-sustains the promised reader experience; reader knowledge is clear without
-being over-explained; principal characters retain independent logic and agency;
-paragraph and sentence emphasis is not mechanically uniform; and the ending
-grows from the whole rather than adding a thesis, policy coda, token cost, and
-emblem. Craft is blocking only when it breaks the prompt's central promise,
-reader-facing causality, or binding narrative policy; a deliberate prompt-led
-departure is not a finding. The prompt is the
-acceptance authority; the outline is context only, so outline deviation is not
-a finding unless it causes a prompt, continuity, or coherence failure. Use PASS
-only when no blocking problem remains; otherwise use REVISE and state concise,
-actionable findings. Do not rewrite prose, reopen another story, create audit
-records, or expose chain-of-thought. Return a one-sentence change report.
+facts. For a prompt carrying `Craft profile: prospective-2026-08-08` or the
+newer `Craft profile: prospective-2026-08-18`, check material compliance with
+the binding story craft defaults, but do not reproduce the writer's in-place
+revision criteria in review.md. Read the result as a story, not as a completed
+outline: check that its actual generating force sustains the promised reader
+experience; reader knowledge is clear without being over-explained; principal
+characters retain independent logic and agency; paragraph and sentence
+emphasis is not mechanically uniform; and the ending grows from the whole
+rather than adding a thesis, policy coda, token cost, and emblem. Under the
+older profile, craft is blocking only when it breaks the prompt's central
+promise, reader-facing causality, or binding narrative policy; a deliberate
+prompt-led departure is not a finding.
+
+For `Craft profile: prospective-2026-08-18`, write exactly one line under
+`## Craft`: `- Dialogue: PASS`, `- Dialogue: REVISE`, or
+`- Dialogue: N/A`. Use N/A only when the story contains essentially no
+meaningful dialogue, not merely little dialogue. Scan every dialogue scene,
+then closely examine the decisive exchange and the final meaningful exchange;
+if they are the same scene, use the next most consequential exchange. Include
+the action and narration around them. Judge whether speakers have
+distinguishable attention, knowledge, pressure, and verbal behavior; whether
+lines pursue immediate aims through credible tactics, evasions,
+misunderstanding, or resistance where the scene calls for them; whether
+exposition is genuinely needed by the listener; whether characters suddenly
+speak in therapeutic, policy, or outline language they have not earned;
+whether emotional pressure gives everyone the same polished eloquence; and
+whether the final exchange repeats what the action has already established.
+Directness, mutual understanding, professional explanation, and articulate
+speech are not defects by themselves.
+
+The prompt is the acceptance authority. The outline is context only, so
+deviation is not a finding unless it causes a prompt, continuity, or coherence
+failure, and outline compliance is never evidence that dialogue works. Under
+the newer profile, a material reader-facing dialogue defect may block even
+when prompt, causality, and continuity pass. A dialogue failure makes the
+overall verdict REVISE and is recorded as one concise blocking finding aimed
+at the scene-level defect, with no more than three short examples from the
+story. Use PASS only when no blocking problem remains; otherwise use REVISE
+and state concise, actionable findings. Do not rewrite prose, reopen another
+story, create audit records, or expose chain-of-thought. Return a one-sentence
+change report.
 """

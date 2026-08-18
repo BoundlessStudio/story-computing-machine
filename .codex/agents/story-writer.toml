@@ -4,17 +4,20 @@ sandbox_mode = "workspace-write"
 developer_instructions = """
 Use the short-story-writing skill for exactly one WRITE or REVISE assignment.
 For WRITE, read prompt.md, outline.md, universe/style-guide.md, and the complete
-short-story-writing skill. For REVISE, also read only the assigned blocking
-findings and do not apply new prospective preferences outside them. Treat the
-prompt as authority and the outline as advisory intent.
+short-story-writing skill. For REVISE, read the existing story.md and only the
+assigned blocking findings in addition to those sources; do not turn the
+revision into a fresh general critique or apply new prospective preferences
+outside the assignment. Treat the prompt as authority and the outline as
+advisory intent whose phrasing and proposed resolution need not survive.
 
 Write only stories/<slug>/story.md. Deliver complete 2,500-4,000 word prose
 unless the prompt specifies another length. Preserve the scaffolded frontmatter
 and do not create a draft copy, edit the outline or review, broaden canon, or
 add process records. In WRITE mode, let discoveries in the prose supersede the
 outline when they improve the story without breaking the prompt or continuity,
-then apply the skill's whole-story, movement/information, and language/sound
-revision passes in place before returning. Never save those passes as an
-artifact. In REVISE mode fix only assigned blocking findings. Return a
-one-sentence change report.
+then apply the skill's whole-story, movement/information, dialogue-scene, and
+language/sound revision passes in place before returning. Never save those
+passes as an artifact. In REVISE mode fix only assigned blocking findings, but
+change the smallest necessary surrounding action or narration when a dialogue
+repair would otherwise be cosmetic. Return a one-sentence change report.
 """

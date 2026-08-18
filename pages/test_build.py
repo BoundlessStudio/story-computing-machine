@@ -40,6 +40,7 @@ class StorySystemTests(unittest.TestCase):
             "## Places\n\n| Noun | Status | Continuity note |\n"
             "| --- | --- | --- |\n| Alder Gate | new | Local to this story. |\n\n"
             "## Continuity\n\n- Prompt: PASS\n- Universe: PASS\n- Internal: PASS\n\n"
+            "## Craft\n\n- Dialogue: PASS\n\n"
             "## Findings\n\n- Blocking: none\n- Notes: none\n",
             encoding="utf-8",
         )
@@ -54,7 +55,8 @@ class StorySystemTests(unittest.TestCase):
         (universe / "characters.md").write_text("# Characters\n", encoding="utf-8")
         (universe / "locations.md").write_text("# Locations\n", encoding="utf-8")
         (story / "prompt.md").write_text(
-            "# Prompt\n\n## Prompt\n\n> [WP] A traveler returns through a gate.\n",
+            "# Prompt\n\n## Prompt\n\n> [WP] A traveler returns through a gate.\n\n"
+            "## Constraints\n\n- Craft profile: prospective-2026-08-18\n",
             encoding="utf-8",
         )
         (story / "outline.md").write_text(
@@ -130,22 +132,20 @@ class StorySystemTests(unittest.TestCase):
             )
             prompt = (root / "stories/sample/prompt.md").read_text(encoding="utf-8")
             outline = (root / "stories/sample/outline.md").read_text(encoding="utf-8")
+            review = (root / "stories/sample/review.md").read_text(encoding="utf-8")
             self.assertIn(
-                "Craft profile: prospective-2026-08-08",
+                "Craft profile: prospective-2026-08-18",
                 prompt,
             )
+            self.assertIn("## Craft\n\n- Dialogue: PENDING", review)
             for field in (
-                "Intended reader experience:",
-                "Generating force:",
+                "Premise and central promise:",
+                "Focal pressure or attachment:",
                 "Counterforce or complication:",
-                "Narrative design:",
-                "Time shape and compression:",
-                "Information and reveal strategy:",
-                "Speculative surplus:",
-                "Structural distinction:",
-                "Decisive turn, deepening, or recognition:",
-                "Aftereffect or live uncertainty:",
-                "Opening / ending relation:",
+                "POV, distance, and information limit:",
+                "Governing movement and time shape:",
+                "Speculative rule or ordinary-world constraint:",
+                "Dialogue pressure (optional, at most 75 words):",
             ):
                 self.assertIn(field, outline)
 
@@ -207,6 +207,42 @@ class StorySystemTests(unittest.TestCase):
             story = self.make_current_story(root, passing_review=False)
             (story / "title-image.jpg").unlink()
             completed = self.validate(root, "PreReview", "sample")
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_pre_review_rejects_new_profile_outline_over_1200_words(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            outline_path = story / "outline.md"
+            outline_path.write_text(
+                outline_path.read_text(encoding="utf-8") + "\n\n" + ("excess " * 1201),
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertNotEqual(0, completed.returncode)
+            self.assertIn("outline.md exceeds the 1200-word limit", completed.stdout + completed.stderr)
+
+    def test_pre_review_does_not_apply_new_outline_limit_retroactively(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8").replace(
+                    "prospective-2026-08-18", "prospective-2026-08-08"
+                ),
+                encoding="utf-8",
+            )
+            outline_path = story / "outline.md"
+            outline_path.write_text(
+                outline_path.read_text(encoding="utf-8") + "\n\n" + ("legacy " * 1201),
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
 
     def test_pre_review_allows_advisory_outline_deviation(self):
@@ -299,6 +335,71 @@ class StorySystemTests(unittest.TestCase):
             completed = self.validate(root, "Final")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
             self.assertIn("1 current stories", completed.stdout)
+
+    def test_final_validation_accepts_dialogue_na_for_story_without_dialogue(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            review_path = story / "review.md"
+            review_path.write_text(
+                review_path.read_text(encoding="utf-8").replace(
+                    "- Dialogue: PASS", "- Dialogue: N/A"
+                ),
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "Final")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_final_validation_rejects_bad_new_profile_dialogue_verdict(self):
+        cases = ("missing", "invalid", "duplicate", "revise")
+        for case in cases:
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_current_story(root)
+                review_path = story / "review.md"
+                review = review_path.read_text(encoding="utf-8")
+                if case == "missing":
+                    review = review.replace("## Craft\n\n- Dialogue: PASS\n\n", "")
+                elif case == "invalid":
+                    review = review.replace("- Dialogue: PASS", "- Dialogue: MAYBE")
+                elif case == "duplicate":
+                    review = review.replace(
+                        "- Dialogue: PASS", "- Dialogue: PASS\n- Dialogue: N/A"
+                    )
+                else:
+                    review = review.replace("- Dialogue: PASS", "- Dialogue: REVISE")
+                review_path.write_text(review, encoding="utf-8")
+
+                completed = self.validate(root, "Final")
+
+                self.assertNotEqual(0, completed.returncode)
+                self.assertIn("Final story validation failed", completed.stdout + completed.stderr)
+                self.assertIn("Dialogue", completed.stdout + completed.stderr)
+
+    def test_final_validation_does_not_require_dialogue_verdict_retroactively(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8").replace(
+                    "prospective-2026-08-18", "prospective-2026-08-08"
+                ),
+                encoding="utf-8",
+            )
+            review_path = story / "review.md"
+            review_path.write_text(
+                review_path.read_text(encoding="utf-8").replace(
+                    "## Craft\n\n- Dialogue: PASS\n\n", ""
+                ),
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "Final")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
 
     def test_final_validation_rejects_inventory_continuity_and_blockers(self):
         cases = (
