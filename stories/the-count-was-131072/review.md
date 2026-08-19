@@ -6,14 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Solstice Evening Bell | recurring | Canonical centuries-old sovereign and battle witness; `First Monarch` recurs intentionally, while `Sol-steece Evening Bell` and transcript `Belle` are explicit museum errors rather than new identities. |
-| the Twelve | recurring | Intentional museum label, including exhibit title `The Twelve Within`, for Solstice's canonical twelve unnamed deceased donors; the story clearly distinguishes these people from their nonliving final spells and unrelated twelve-person collectives. |
+| Solstice Evening Bell | recurring | Canonical centuries-old sovereign and battle witness; `Solstice` and `First Monarch` recur intentionally. Guide/transcript forms `Sol-steece Evening Bell` and `SOL-STEECE EVENING BELL` are explicit errors, not another identity; `Evening Bell` remains distinct from the unrelated Bellweather family. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| the Bay | recurring | Story-local capitalized form within `Battle of the Bay` for Solstice's canonical unnamed western-bay battlespace; no new city, country, or geography is asserted. |
+| the Bay | recurring | Story-local capitalized form for the canonical unnamed western bay / bay-to-rupture battlespace; `Battle of the Bay` is its prompt-authorized commemorative event title, and no new city, country, or geography is asserted. |
 
 ## Continuity
 
@@ -21,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The corrected battle arithmetic, museum-caption accumulation, bounded testimony, independent focal agency, material audio-bead use, and unresolved institutional aftereffect fulfill the prompt, continuity, and prospective craft profile.
+- Notes: Caption-by-caption pressure sustains the museum-self encounter through exact arithmetic, constrained memory, and a bounded submission; the stored guide, shore excerpt, and Solstice's testimony have distinct registers and purposes, while the institution remains unchanged.

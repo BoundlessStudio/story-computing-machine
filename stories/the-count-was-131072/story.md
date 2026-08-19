@@ -8,206 +8,182 @@ canon: false
 
 # The Count Was 131,072
 
-The audio bead says your name wrong before you have properly entered the new wing.
+The audio bead mispronounces your name while late sunlight is still moving across the entrance floor.
 
-“Sol-*steece* Evening Bell,” it murmurs into the thumb-width field of air behind your right ear, “stood alone against countless invaders in what became known as the Battle of the Bay.”
+“Sol-*steece* Evening Bell,” says the stored voice just behind your right ear, “raised her sword against countless invaders and stood alone between the Bay and destruction.”
 
-You stop with one foot inside the painted slow lane. The visitor behind you raises two fingers to her collar, the common sign for *listening*, and steps around without looking annoyed. Museum manners have survived better than royal ones.
+The bead knows only that you have crossed a strip in the floor. It does not know that you are Solstice Evening Bell. No one at the admissions desk knew either. You arrived in a plain dark coat, accepted the bead, and promised yourself that you would read every caption in the new wing before deciding whether to leave anything of your own behind.
 
-The correct first syllable is already in the machine. It is the second that has been sharpened into something foreign and grand. You touch the bead clipped below your ear, discover no pronunciation control, and let the track continue.
+Already the guide has supplied four reasons to break that promise.
 
-You came to read every caption before deciding whether to answer any of them. A bad vowel does not release you from the promise.
+Above the inner doors, the wing gives the event its later name: **THE BATTLE OF THE BAY**.
 
-The entrance hall is built around your silhouette.
+Your name’s second syllable is short: *stiss*. The recording stretches it into *steece*, stately and wrong. You press two fingers to your collar, the museum gesture that tells other visitors you are listening, and wait for a pair of people to pass. Then you enter beneath a queen who has never existed.
 
-It rises through two stories of smoked glass: crown streaming like a small sun, skirts driven backward by an impossible wind, one arm extended toward a black seam in the sky. The other hand grips a sword as tall as you are. Through the glass, small figures cross the pale floor beneath your feet and disappear into your hem.
+She fills the two-story glass at the end of the hall. Her crown burns in a tidy halo. Her face is yours after a flattering argument with symmetry, and her left hand closes around a sword whose point reaches the black slit painted above the western bay. The blade gives the composition a useful diagonal. It also gives you a weapon you never carried.
 
-You never carried a sword.
+The first plaque admits that no clear image of the battle survives. The next calls the sword “a visual convention expressing concentrated sovereign force.” A smaller label describes the metal, though the metal is as imaginary as the grip. You read the fabrication method, the source list, the access description, and the line crediting the shape to centuries of commemorative art.
 
-There were girls in some circles who did. There were spears, knives, ribbons hardened to edges, a bronze pestle once used with terrible efficiency. Your own hands had other work. A sword would have occupied one.
+You keep your hands in your coat pockets. They had other work that night. A sword would only have occupied one.
 
-The plaque calls it an “artist’s synthesis of surviving battle imagery.” The images are not from the battle. The offshore cameras failed when the host descended, the military feeds show weather and interference, and the clearest surviving picture of you was taken years earlier at a ceremony where someone else’s blade happened to stand behind your shoulder. The artist has been careful with the boots and invented everything above them.
+Across the base of the glass, silver letters finish the guide’s sentence:
 
-Then comes the word in raised silver letters large enough to read from the stairs:
-
-**COUNTLESS.**
+**ONE QUEEN. ONE BLADE. COUNTLESS FOES.**
 
 The count was 131,072.
 
-Eight wedges emerged through the stationary rupture, 16,384 frames to a wedge. They were not soldiers. They did not fear, surrender, choose, or mourn. Roughly human-sized shells unfolded vanes in the upper dark and arranged themselves around pulses that your crown could hear. A living army might have become countless through panic: bodies crossing, breaking, hiding, returning. These kept their places.
+The number wall lies beyond the tableau. Eight tall panels angle inward, each dusted with black points that drift when a visitor approaches. The points separate, rejoin, and slide beyond the panel edges. An inscription explains that the motion conveys an enemy “too numerous and unstable for meaningful enumeration.”
 
-You kept them too.
+Meaningful to whom, it does not say.
 
-Track Two wakes when you approach the count wall.
+Track Two begins at the first panel. “Contemporary observers could not establish the strength of the host faced by Sol-*steece* Evening Bell. In this gallery, *countless* honors both the scale of the threat and the limits of the surviving record.”
 
-“Although later legends assign precise totals to the enemy, contemporary instruments could not penetrate the storm. Most historians therefore describe the force faced by Sol-*steece* Evening Bell as effectively countless.”
+The host entered in eight wedges of 16,384. The count arrived with royal hearing before the folding vanes caught enough light for sight. Mass, position, and the mesh pulse connecting every nonliving frame pressed against your nerves at once: eight exact arrangements descending from a stationary rupture twenty kilometers above the water.
 
-The wall displays eight fan-shaped clouds of light. Their dots drift so that no visitor can hold one arrangement long enough to reckon it. A child has planted both hands on the glass and is trying anyway, counting in fierce whispers until a programmed gust scatters the formation. His adult says, “It means there were too many.”
+The museum’s dots evade the eye because someone programmed them to. The frames did not become uncountable by moving.
 
-It means the designer thought motion looked more frightening than arithmetic.
+You follow the first panel from its large text down to a diagram placed too low for most adults to notice. It turns the opening attack into a bright slash and labels the result **THE HOST WAVERS**. What happened is both less dramatic and more severe. Your first full chord passed through the synchronized formation and destroyed 32,768 frames. Royal hearing registered the new total before wreckage reached the storm: 98,304.
 
-Your count began at the rupture, twenty kilometers over the water. Royal hearing did not sound like bells despite the name later historians gave it. It was pressure without air, interval without music: mass and position held against your nerves, each frame a point in a structure too large for sight. The mesh threw false pulses. You learned their hollowness. The frames changed formation. You changed the shape in which you remembered them.
+The second chord destroyed fewer than one hundred. The adaptive mesh had learned the exposed pattern. The failed repetition does not appear on the wall.
 
-The first full chord removed 32,768. The absence opened in your hearing before the wreckage began to fall, the leading quarter cut from each of all eight wedges, leaving 98,304.
+You move to the next panel. A painted line curls elegantly through a cloud graphic. Your routes had never curled. Bell-step carried you almost instantly between two sounding chimes, but only in straight lines, and every burnt tone removed routes that could not be replaced. Two tones could hold an edict plane in one fixed place. It could break a frame that crossed; it could not pursue one that refused.
 
-The same chord, used again, destroyed fewer than a hundred.
+Those limits made the battle. The wall has room for the sword instead.
 
-The wall skips that. Its next panel shows the glass queen discovering a brighter sword.
+At the third panel, black points thin by half under a wash of gold. You remember the first three orbiting tones breaking, each stored final spell erased with its chime, while corridors and planes forced the host downward. At the tropopause, the remaining count was 49,152. The reduction belongs on a line. The three absences do not. They enter memory as missing pressure, places royal hearing once occupied and never occupied again.
 
-You lean close enough to read the small caption beneath the animation. It praises “a decisive second strike.” No number is offered. The host had learned the shape of the first blow and passed it through the mesh; repetition had become almost useless. That was the first honest thing it taught you. Not terror. Not resolve. The cost of admiring your own solution.
+You read the rest of the number wall, including its note that surviving instrument traces turn to noise in the storm. That evidentiary limit is honest. The word *countless* is not. It takes a limit in the museum’s records and assigns it backward to your perception.
 
-A family crosses the threshold too quickly, and three beads trigger at once. For a moment the air fills with private voices leaking at their edges—your wrong name, directions to the accessible lift, a request not to touch the wall. Everyone involved lifts two fingers to a collar. The family backs into the blue slow lane, laughing softly, and their tracks separate.
+The next threshold is narrow enough that visitors naturally slow. When you reach its center, another floor strip starts Track Three.
 
-Your guide resumes as if it has never been interrupted.
+“The legendary crown of Sol-*steece* Evening Bell may have housed the spirits of twelve fallen companions.”
 
-“The queen’s legendary weapon may have changed form as the battle demanded.”
+May have. The softened grammar makes the lie harder to catch and no less complete.
 
-“No,” you tell it.
+The crown case is dark except for thirteen white points. Twelve small replica chimes orbit a central piece on hidden magnetic arms. Their spacing is close to what you remember. Their sound is not. A speaker below the velvet supplies a low harmony whenever the mechanism completes a turn, and you feel its vibration through the soles of your shoes like any other visitor.
 
-The bead is only a speaker. It neither hears nor fails to hear you.
+Royal hearing is gone. The replica cannot restore it by looking persuasive.
 
-The crown case occupies the next room. Here the museum lowers its lights and its voice. A silver replica hangs above black velvet, twelve chimes orbiting a larger central bell. The proportions are close. Whoever made it had studied the ceremonial portraits and noticed that the third tone hung a finger-width lower than the ninth. Whoever wrote the label had not shown the same care.
+The case title is **THE TWELVE WITHIN**. Its main label proposes that dead warriors remained conscious in the crown, advised the First Monarch, and were finally released when she spent their souls to win the battle. An animation gives each chime a woman’s translucent face. None is a face you know.
 
-**THE TWELVE WITHIN**
+You know twelve.
 
-According to the plaque, twelve dead warriors endured as spirits bound to the First Monarch’s crown, lending their strength in battle until their final sacrifice set them free.
+They were adults and alive when they made their choices. Each knowingly drove one final transformation past bodily survival and freely placed one final spell into the nonliving crown. Their souls and minds passed into the underlying afterlife. They were never stored, copied, recalled, or consumed. What remained in silver was work: shaped force without thought, appetite, memory, or will.
 
-You read it twice. You have read every prior caption twice as well, but this time the second reading is not for accuracy. It is to keep your hands at your sides.
+Even that work could do nothing alone. Your living nerves woke every tone. Your force entered it; your attention shaped it; your choice directed it. The crown could not act, choose, advise, or make a spark without you.
 
-They did not endure inside anything.
+You remember the donors as people, which is not the same as carrying them. Their particular lives press at the edge of the case, available to you and absent from its evidence. An interactive panel invites visitors to match speculative names to the twelve faces. You do not touch it. Correcting the crown does not require placing the dead on another display.
 
-Twelve adults made twelve final works. Each knew the compact. Each chose while choice still belonged to them, and the act of making was fatal. Their minds did not enter the silver. Their souls went where the dead had always gone. What remained with you was shaped power without appetite or voice, a spell incapable of so much as a spark until your living nerves woke it.
+At the bottom of the final label, the museum calls their confinement “a sacrifice redeemed by liberation.” You read the footnote attached to *liberation*. It cites later songs, not contemporary testimony.
 
-You remember the people. That is different.
+All twelve final spells were freely given. All twelve were permanently destroyed. No person was freed from the crown because no person was there.
 
-The museum would like their names. An inset screen invites visitors to explore “the lost identities of the Twelve,” assembling candidates from folktales, court lists, and graves damaged past certainty. Two guesses are people you knew. Neither donated a spell. One donor appears in the list under a title she despised.
+You take that sentence with you into the reconstruction chamber.
 
-Your memories could settle some of this. A date at a bedside. A joke made badly because there was no good way to ask one final time. The precise pressure of a hand that had gone cold before you understood you were still holding it. None of those things are required to correct the case. You do not owe them to the glass.
+The chamber is circular and nearly full. Visitors stand on a map of the Bay while cloud rolls across the domed ceiling. The projected queen appears on the shore, large enough for those at the back to see. She draws the same sword as the glass figure. Above her, black shapes pour from an opening rendered as a spinning tunnel rather than a stationary rupture.
 
-On the far side, a child-sized handle lets visitors “play the crown.” Turning it lights each replica chime and adds a tone to a pleasant chord. The mechanism sticks at seven. A museum attendant is nowhere in sight, so you turn it backward, slowly, until the gears release. The next visitor reaches twelve and grins at the harmony.
+The next stored track drops to a near-whisper. “With no army, no counsel, and no aid, Sol-*steece* Evening Bell faced the countless host alone.”
 
-It is not the chord. It is better for a room full of children.
+No other living combatant fought above the western bay. That part is true.
 
-The central gallery begins with a warning about storms and battle sound. You step onto a circular floor painted as the Bay. The northern breakwater lies under one boot, the southern beneath the other; the eastern ridge curves at the room’s edge. Above, the rupture is a dark ring in the dome.
+The projection makes truth look smaller. It plants you between the breakwaters instead of in the high dark. It turns the twelve chimes into pale women who place their hands on the sword. The blade swells. One stroke clears the sky. The women rise out of the crown, smiling, and vanish into a dawn that arrives without weather.
 
-The reconstruction puts your glass double on the shore.
+Memory refuses the sequence but offers only pieces.
 
-Of course it does. A queen in the sky would be hard to see, and a queen twenty kilometers below her enemy cannot meet its gaze. The projection plants its feet between the breakwaters. Music gathers. One hundred thousand black figures pour down the dome in a quantity made impressive by refusing to number it.
+Forty-nine thousand one hundred fifty-two frames meet the autumn storm at the tropopause. Six more tones burn while ordinary wind, rain, gravity, and constrained landing routes take away the host’s freedom to spread. The storm obeys no spell. The mesh generates false pulses and coordinates sacrificial attacks. You lose straight routes one by one.
 
-Your double draws the sword.
+When three orbiting tones remain, so do 8,192 frames: eight columns of 1,024 aimed at the sea shelf, the two breakwaters, and four points along the eastern ridge. The last three tones destroy four columns and force the other four into one synchronized formation. The twelfth chime breaks. Royal hearing ends with 4,096 held as its final count.
 
-You know what follows. The blade will enlarge into a column of gold. It will pass upward once. Every black figure will fall. The twelve captive spirits will fly free as women made of light, young and grateful, and the queen will remain alone in a clean dawn.
+The chamber’s sword is rising now. Gold runs along the false edge. Around you, visitors look up.
 
-The spectacle is beautiful.
+What comes next in memory has no edge and no captive voices. The surviving frames lock into a lattice across the bay mouth and stabilize the rupture. Twelve trails of dying residue lie through broken nonliving chimes. The intact central resonator remains keyed to your sternum, carrying the one crown tone that began with you. It cannot stop 4,096 synchronized frames before another wave arrives.
 
-That is its worst defense and its best one. Gold trembles across the painted water. The score finds a low note that visitors feel through their shoes. People tilt their faces toward your double with open delight. For eleven minutes the room gives them weather, danger, sacrifice, and survival, each event waiting politely for the last to finish.
+You close the circuit with your living body: central resonator, residue trails, invasion lattice. Then you crush the resonator. The central release travels through the forced synchronization, disables the remaining frames, and seals the rupture. It consumes every residue and ends every crown faculty. Four thousand ninety-six becomes zero because you act through what remains, not because a crown or a company of dead women acts for you.
 
-Your battle had no such manners.
+The projected sword falls. The dome clears all at once.
 
-You moved between sounding chimes on straight routes while the host tried to close around them. Edict planes held where two tones could still answer each other. Needles hissed through rain. Frames struck at speeds that turned correction into impact. After the first three tones burned, 49,152 points remained at the tropopause, and the gaps in royal hearing hurt more than the wounds you could place in your body.
+Applause moves through the chamber in a few uncertain taps, then stops. Your present force is still vast, living, and unharmonized. It would be easy to mar the projection. It would prove that a powerful visitor dislikes a picture. It would not establish a number, repair a false ontology, or give the shore its history.
 
-You do not remember each destroyed frame. You remember the structure reducing. Six more tones. Storm winds no spell commanded. Landing geometries narrowed by breakwater, shelf, and ridge. Eight columns of 1,024. Then the last three orbiting tones, spent to destroy four columns and crush the survivors together.
+As the chamber empties, its exit wall lights with the reconstruction’s final word: **ALONE**.
 
-When royal hearing vanished with the twelfth, the world did not become silent. The storm remained. Your own pulse remained. Four thousand ninety-six synchronized frames descended beyond the reach of the faculty that had let you place every one of the original host.
+The wall repeats the heroic image in smaller forms: the queen against the sky; the queen refusing an offered army; the queen after victory with no figure beside her. The captions move carelessly between *sole living combatant* and *without aid*, as if the phrases were interchangeable. One recognizes the withdrawal of conventional forces, then treats their absence as proof that nothing outside your body mattered.
 
-There was no sword stroke. You closed the circuit through your living body, the dying trails of twelve ruined works, and the invasion lattice. Then you crushed the central resonator.
+You had ordered batteries and aircraft behind the ridge. No observer warned you, no force attacked beside you, no instrument advised you, no one on the ground powered or healed you. The count in the sky was yours to hold.
 
-Your crown did not free anyone. It ceased to exist.
+The final works were not people fighting at your side. They were also not yours. Twelve adults chose what their work would become, and your living agency gave those choices effect. *Alone* cannot erase their donation merely because accuracy forbids turning it into companionship.
 
-The projection’s blade rises.
+You read the wall’s source notes. The last points through a side opening toward the shore archive.
 
-Force still answers you, centuries later: immense, unharmonized, less exact than what you spent but entirely yours. You could cut one bright seam through the false sword without warming the hands of the visitors below it. You could interrupt the sound system, scar the projection surface, leave an error no conservator could politely attribute to age.
+The change in scale is almost rude. After the dome and the sword, the archive offers paper under low glass: evacuation orders, route tallies, weather strips, maintenance slips, and dispatch transcripts. The labels are dense. Most visitors take in the first case and drift toward the exit.
 
-Every face in the room would turn toward a solitary queen performing power beneath her own enormous image.
+You begin at the left.
 
-You watch the sword fall instead.
+A route ledger records each inhabited shore sector cleared before the rupture opened. The final vehicle is marked beyond the eastern ridge; a second notation verifies it on a separate dispatch strip. A road crew reports that, once traffic ceased, loose signal panels could be heard striking their poles from blocks away. A driver notes lamps failing in pulses inside the storm and orders passengers kept below the window line. The weather record shows a pressure change the museum’s reconstruction omits. A shelter transcript says only: “Cloud sealed. White above it. Impacts continuing.”
 
-The projected spirits ascend. The audience applauds—not loudly, not as if at a theater, but with the uncertain little patter people use when an exhibit has moved them and no one knows whether appreciation is permitted. You do not blame them. The ridge did survive. The rupture did close. No second wave came through. The exhibit has taken two true things and built a sword between them.
+The language has no use for majesty. Each writer is trying to move people, hold a road, record a condition, or tell the next shift what remains dangerous.
 
-Track Five says, “Sol-*steece* Evening Bell’s victory marked the beginning of—”
+You did not witness any of it.
 
-You step out before hearing what it began.
+At twenty kilometers, and then falling through the host, you had royal hearing fixed on mass, position, and mesh pulses. It did not reach into a vehicle. It did not count passengers. Ordinary sight gave you cloud tops, vanes, needles, the next straight route. You never saw the final vehicle cross the ridge. You never heard loose panels on an empty road. You cannot certify the shelter’s white light from below.
 
-The shore archive is quieter. No monumental glass, no music underfoot. Its first case contains evacuation orders, route maps, transport tallies, maintenance calls, and copies of messages sent by people who never saw what fought above them. These records are offered as context. The type is small. Several visitors glance in and continue toward the interactive memorial at the exit.
+The records can.
 
-You begin at the left edge and read.
+Their authority is bounded too. The route ledger cannot count the frames above the cloud; the weather strip cannot tell whether a pulse was false; the shelter transcript cannot see the central release. But multiple evacuation records establish what their writers observed and did. Their witnesses being dead does not transfer their vantage to the last one still living.
 
-A harbor dispatcher recorded the emptied roads as an operational hazard: without ordinary traffic noise, crews kept mistaking loose signs for approaching vehicles. A transport driver reported clearing the eastern ridge before the rupture widened, then complained that the passengers would not stay seated because the storm made the road lights flicker. A weather observer wrote that the clouds appeared to pulse from within. Someone sheltering inland insisted the battle sounded like furniture being dragged across an upstairs room.
+The museum calls you the last living witness. Here the phrase becomes smaller and more useful. You witnessed the invasion from the battlespace. You did not witness the whole event from every place it touched.
 
-You remember none of this.
+The people on the shore did not join the combat circuit. They did not destroy a frame. They cleared the roads and carried the population beyond the ridge before the host arrived. That work gave you an evacuated bay beneath the fight, not help in the sky. It belongs to the history without becoming your aid or your achievement.
 
-The people who wrote these records have been dead for centuries. Their copies sit under glass; you stand outside it. That difference is why the wing calls you the last living witness. It does not give you their roads.
+The last archive panel asks whether the queen was truly alone. Its answer returns to the supposed spirits in the crown and misses the distinction again.
 
-From twenty kilometers up, there had been no empty-road quiet. Royal hearing held the host; ordinary hearing caught wind, impacts, your own teeth meeting when a frame changed direction too late. You did not see the last transport pass the ridge. You had been counting the seventh wedge and testing a false pulse. You cannot say whether the passengers stood. You cannot say what the sky looked like from below.
+Only one living combatant. Not one unaided hero.
 
-The observation is obvious enough to irritate you: exactness has an altitude.
+You read the panel’s bibliography, the reproduction notice, the humidity warning, and the caption beneath a transport tally enlarged for low-vision access. Then you continue. A loan statement. A map key. Three image credits. A label explaining why the surviving paper has darkened at its folds. The small type takes long enough that late sun leaves the entrance glass and the room settles into its own lighting.
 
-The next caption calls the accounts “fragmentary but invaluable,” which is the first phrase in the wing you would not amend. One message contradicts the driver’s timing. Another was copied decades after the event from a damaged original. A route tally has been added wrong by one. Their limitations are printed below them in calm museum language. The small records are allowed uncertainty. Only the queen has been polished until nothing partial remains.
+You finish the final caption when the closing cue sounds.
 
-At the end of the case, a final panel asks whether Sol-*steece* Evening Bell was truly alone.
+It is not a bell. Four soft notes descend through ceiling speakers, followed by a request to proceed toward the exit. You step across the archive threshold too quickly. The bead triggers its concluding track before the return instruction has finished loading, and two stored voices occupy the same narrow field behind your ear.
 
-The text offers the Twelve as an answer. It calls them possible ghosts, symbolic companions, or later inventions meant to soften the terrible solitude of heroism.
+“Sol-*steece* Evening Bell’s solitary triumph—please return this device—secured the Bay—do not place it in a waste receptacle—”
 
-You were the only living combatant over the Bay. That matters. No other person could take a position beside you, warn you of a needle flight, catch you when a bell-step ended in sleet. The twelve could not speak or choose. Calling them companions would invent life where none was stored.
+You step back into the painted slow lane. The tracks separate by position and finish their unrelated sentences. Nothing in the bead evaluates what it says. It has made a routing error, not a judgment.
 
-Calling you unaided would erase their choices.
+Beyond the exhibition proper, a sign points to an unstaffed testimony alcove. The recess contains one seat, one recording lens, and a screen offering categories for inherited accounts, research notes, and first-hand witness material. You stand outside until the closing cue repeats.
 
-And below, beyond your attention, drivers carried civilians east. Dispatchers emptied roads. Weather observers kept instruments running under a sky they could barely read. They did not fight the host. They made it possible for a battle over an evacuated shore to remain one.
+You had intended to inspect the wing, not become one of its holdings. The difference still matters. The museum does not need your memories of twelve private lives, your coronation, or the centuries between the battle and this late afternoon. It does not need an exhibition of force. It has four errors you can address from the position you actually occupied.
 
-On the plaque, *alone* has to cover the sky, the crown, and every road below. It cannot.
+You enter and close the soft door.
 
-You read the source note. Then the image credit. Then the donor acknowledgment for the case. Your promise was every caption, and museums hide their most revealing claims in small print.
+The interface begins with a bright prompt.
 
-The remaining wall takes forty-three minutes.
+**DESCRIBE YOUR CONNECTION TO THE SUBJECT.**
 
-You learn which governments have lent facsimiles, which alloys were guessed for the unrecovered frames, which poet first placed a sword in your hand, and how many schoolchildren voted for the reconstructed crown’s color. You read a sanitation notice on the touch table. You read the label beneath a bench explaining that its wood came from storm-felled trees planted long after the battle.
+You postpone it. The next screen asks for supporting documents, artifacts, or an identity demonstration. You choose **NONE PROVIDED**. A warning says unauthenticated submissions may be declined, held for research, or preserved without public use. You accept. Whether the museum believes a living queen is a different question from whether you will give it a statement.
 
-Closing tones begin while you are bent over the fire-capacity plate beside the exit. You straighten too quickly and cross two floor triggers. The audio bead overlays a solemn account of your “final sword form” with instructions to return the device at reception. For several seconds your mythical weapon is available in six languages and must not be placed in a pocket or waste bin.
+The lens opens. You press record.
 
-You laugh. It surprises you enough that the two tracks end before you move again.
+“My name is Solstice Evening Bell.” You give *Solstice* its own sound, neither grand nor difficult. “I am the person this exhibition calls the First Monarch. I am correcting four claims within my direct knowledge as the exhibition’s subject and the living combatant above the Bay.
 
-The testimony alcove stands beyond the exhibition proper, a padded recess with one stool and a recording lens. A sign invites family stories, inherited traditions, and first-hand witness accounts. You nearly pass it. The categories have the soft, posthumous air of everything in the wing. They are built for grandchildren carrying a box of letters, not for the grammatical subject of the plaques.
+“The host numbered exactly 131,072 nonliving autonomous frames: eight wedges of 16,384. I counted them through royal hearing. I carried no sword.
 
-The screen brightens as you approach.
+“The crown was nonliving. Twelve adults knowingly and freely donated one final spell each. Their souls and minds passed into the underlying afterlife; they were never held in the crown. The stored spells had no independent agency. Every use required mine. All twelve works, all thirteen tones, and every crown faculty were permanently destroyed in the battle.
 
-**TELL US YOUR CONNECTION TO THE BATTLE OF THE BAY.**
+“I was the sole living combatant. I was not unaided. That distinction includes the freely donated works I carried. It does not make me a witness to the evacuation from the shore. The surviving shore records should speak for what their writers observed.”
 
-You sit.
+You stop. The red mark goes dark.
 
-The form asks for your life story first. It offers prompts about childhood, coronation, grief, and the burden of survival. You skip them. It asks whether you possess an artifact for scanning. You select no. It asks what proof of identity you can provide.
+The interface offers space for a complete personal account. You decline. It asks whether you will provide the donors’ identities. You decline. It asks whether the museum may synthesize your voice, reenact the statement, excerpt it for promotion, or separate quotations from your declaration of scope. You refuse each use.
 
-You leave the field empty.
+You permit preservation of the raw recording. You permit quotation of the four corrections only when the limits you spoke remain attached. The screen summarizes the submission as unverified testimony with restricted quotation. That is narrow enough to be useful and narrow enough to remain yours.
 
-The recording lens opens. In its small black surface, you look less like the glass silhouette than the tired visitor you are: plain coat, museum bead, hair flattened on one side where the clip has pressed for hours. You could authenticate yourself in a dozen spectacular ways, none of which would prove a count. A bright seam through the wall would establish only that you could make one.
-
-You press record.
-
-“My name is Solstice Evening Bell.” You say it slowly, correctly, without giving the machine a performance to admire. “I am the person your exhibition calls the First Monarch. I was present above the Bay. I am recording four corrections limited to what I witnessed and what I carried.”
-
-The red mark beside the lens holds steady.
-
-“The host consisted of 131,072 nonliving autonomous frames: eight wedges of 16,384. I counted them through royal hearing. I did not carry a sword. The crown did not contain twelve spirits, minds, or persons. It contained twelve final spells, freely made by twelve adults whose souls and minds had passed on. Those works required my living agency, and all twelve were destroyed during the battle.
-
-“I was the only living combatant above the Bay. I was not unaided. I cannot testify to the evacuation as it was experienced from the shore, and I do not authorize the museum to treat my account as a complete history of the event.”
-
-You stop there.
-
-The form asks if you would like to add the donors’ names. No. It asks permission to extract clips for promotional use. No. To preserve the raw recording for research and accession review: yes. To quote the four corrections, unaltered and with the limits you stated: yes. To synthesize or revoice your speech: no.
-
-Relationship to the subject offers seven choices. Descendant. Family. Scholar. Community custodian. Eyewitness. Other.
-
-At the bottom, perhaps included for people recording about themselves in more ordinary exhibitions, is **SELF**.
+The postponed relationship field returns. Its list begins with descendant, family, scholar, and eyewitness. Near the bottom is **SELF**.
 
 You select it.
 
-The automatic transcript appears. It has spelled the number correctly. It has turned *Bell* into *Belle* and supplied *Sol-steece* as a pronunciation note beside your name.
+An automatic transcript unrolls beneath the waveform. It has captured 131,072, both factors, and every denial. At the top it identifies the speaker as **SOL-STEECE EVENING BELL**.
 
-An edit button waits.
+The same mistake, consistent to the end.
 
-You leave the text attached to the raw voice. The accession status reads **UNVERIFIED — PENDING REVIEW**. You submit before the screen can offer another prompt.
+You leave the transcript attached to the raw recording. Your spoken name remains in the file, correctly pronounced and available only under the permissions you chose. The screen asks once whether you are ready to submit.
 
-At reception, you return the audio bead. As you cross the outer hall, another visitor steps into the painted lane behind you.
-
-“Sol-*steece* Evening Bell,” the guide begins, “stood alone against countless invaders—”
-
-You continue through the doors before it reaches the sword.
+You are still seated in the unstaffed alcove when you press **YES**.
