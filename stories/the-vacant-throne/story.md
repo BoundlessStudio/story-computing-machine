@@ -7,290 +7,340 @@ canon: false
 
 # The Vacant Throne
 
-The fifteenth bell sounded as Rielle reached the bronze doors.
+The law allowed lost regalia through the throne-hall doors. It did not say what the guards should do when the person carrying it had horns.
 
-On the other side, a thousand people were reciting the final words of King Veradan.
+By the time the fifteenth memorial bell stopped ringing, Rielle stood inside a cage of crossed pikes. The royal sword lay along her forearms, wrapped in dun wool and tied with a red cord. Hundreds of mourners packed the benches behind her. At the far end of the hall, the throne waited above eleven shallow steps, bare except for the old king’s circlet on its seat.
 
-Rielle knew the words because her mother had made her learn every version of the story, including the ones that called Demon Queen Sarthene a butcher, a seducer, and a beast in a woman's shape. The court's version was the shortest.
+No monarch had touched either in fifteen years.
 
-*Let no shadow inherit me.*
+The guard at Rielle’s left stared at the blunt black tips of her horns. The guard at her right stared at the shape beneath the wool. Both had forgotten to take her name.
 
-The words came through the doors in a single solemn murmur. Rielle shifted the long bundle against her shoulder. Beneath two layers of travel cloth, the royal sword felt heavier than it had on the road. Its pommel pressed between her shoulder blades like a warning finger.
+Rielle kept her thumbs away from the bundle. Her mother’s last instruction had concerned thumbs: *Keep yours loose when they crowd you. If it hooks the guard, you’ll draw before you decide.*
 
-Her mother had not asked her to come. She had only said, *Fifteen years after the battle, you may choose which border defines you.*
+At the foot of the steps, Lord Protector Cadran Mirel folded the memorial proclamation he had been reading. He wore no crown, only a square silver seal at his throat, but everyone else watched him before deciding whether to breathe.
 
-Rielle put one palm to the door. The guard beside it stared at her black nails, then at the blunt red horns curving back through her hair.
+“Outer rank, bar the doors,” he said. “Inner rank, clear three paces around the claimant. Do not touch the bundle.”
 
-"The observance is closed," he whispered.
+That final order was the first thing about him Rielle liked.
 
-"Then open it. I have an addition."
+White rods tapped shoulders as the inner guards pushed citizens back. The west doors shut easily. The east doors met the weight of people still crowding in from the square and stopped half a handspan short of their frame. Two guards leaned against them.
 
-She pushed before courage could turn into good sense.
+Cadran looked from the gap to Rielle. “You have interrupted the king’s remembrance. Name what you carry.”
 
-The bronze doors swung inward. The final word of the false quotation died under the scrape of their hinges.
+Rielle had rehearsed a speech during twenty-three days of travel. The packed hall had boiled it down to one legal sentence.
 
-The throne hall had been built to make petitioners feel small. White pillars climbed toward a ceiling painted with kneeling kings. Sunlight fell through narrow windows in rigid bars. At the far end, above twelve stone steps, stood the vacant throne. No cloth covered it. No wreath softened it. Veradan's crown rested on the seat inside a crystal case, as it had for fifteen years.
+“I petition an assay of lost regalia before the full council.”
 
-The lord protector stood below it, one hand raised over an altar flame. Councilors filled the benches to his right. Officers and foreign envoys occupied the left. Behind them, citizens crowded shoulder to shoulder beneath black anniversary ribbons.
+The silver chains on the council benches rattled as people turned. A woman in black court wool rose from the first bench, tucking a writing board beneath one arm. Councilor Ysabet Roane was small, gray-haired, and already irritated.
 
-All of them turned toward Rielle.
+“Who taught you that petition?” she asked.
 
-The guard caught her sleeve. The wrapping slipped from the bundle.
+“My mother.”
 
-Four inches of dark scabbard showed, then the winged silver guard of the sword. One wing was broken at its tip. Even from the doors, people recognized it. Rielle heard the recognition move through the hall, a breath drawn by a single enormous body.
+“Name her for the record.”
 
-The lord protector lowered his hand. He was a narrow old man in mourning white, and he wore authority as if it had been tailored to conceal hunger.
+“Demon Queen Sarthene.”
 
-"Seal the doors," he said.
+Noise struck the hall like weather. A man behind Rielle shouted *murderer*. Someone farther back shouted for the doors to be opened. The east doors jumped in their frame as the crowd outside pushed again.
 
-They shut behind Rielle.
+Cadran raised one hand. “If the object is what she implies, it is stolen royal property. Take her alive. Councilor, you may assay it once it is in our custody.”
 
-Spears crossed in front of her. A second rank of guards closed at her back. Rielle had rehearsed an opening before three mirrors, her mother, and a bored horse. None of them had included spearheads.
+Ysabet did not sit. “There is no royal custody while the throne is vacant. The claimant’s rail holds disputed regalia until provenance is heard.”
 
-She unwrapped the sword and held it horizontally on her palms.
+“I am the protector of the throne.”
 
-"My name is Rielle," she said. Her voice sounded young in the huge room. There was nothing to do but continue. "My father was King Veradan. My mother is Sarthene. I have brought back his sword."
+“Clause nine lists the offices that may take custody. Yours is not among them.”
 
-Silence held for one heartbeat.
+She spoke without heat, as if correcting a copied date. Four clerks hurried to lift two brass bars from grooves in the floor. They joined the bars with a crosspiece and spread a square of white linen over it, making a waist-high table between Rielle and the steps.
 
-Then the hall broke apart.
+“Bearer,” Ysabet said, “place the object on the rail without uncovering it. State its keepers from the last acknowledged royal custody onward. Names and sequence. Leave motives out.”
 
-People shouted questions, curses, and prayers. A woman on the citizens' floor began to sob. Three officers drew steel. Councilors leaned across one another while the altar flame guttered in their wake.
+Rielle stepped between the pikes. The wool dragged against her palms when she lowered the sword.
 
-The lord protector did not raise his voice. "Quiet."
+“King Veradan. Sarthene. Me.”
 
-The guards struck their spear butts against the floor. The crack restored the shape of the room.
+The hall found a new kind of silence.
 
-"Bring her forward," he said.
+Cadran’s gaze sharpened. “You omitted the thief between the king and the demon queen.”
 
-Rielle walked between the spears. Every step took her closer to the empty throne and farther from the doors. She looked for one face that held curiosity instead of disgust or fear. She found an old soldier standing beneath a faded regimental banner. His left arm ended above the elbow. He was staring at the broken wing of the sword's guard.
+“No.”
 
-When Rielle reached the altar, the lord protector studied her as one might study rot in a roof beam.
+“Then say how she took it.”
 
-"Who gave you that weapon?"
+Ysabet’s chalk clicked against her board. “Provenance first. Account second. Let her finish.”
 
-"My mother. Its owner gave it to her first."
+“Sarthene kept it in a stone chest sealed with her own mark,” Rielle said. “She opened the chest in front of me twenty-four days ago. I cut her seal. I wrapped the sword. No one else has held it.”
 
-"Its owner died by her hand."
+“Did she order you here?”
 
-"He died of a wound she gave him," Rielle said. "That is not the whole account."
+The question came from Cadran, but Ysabet’s chalk waited for the answer.
 
-Murmurs rose again. The protector lifted two fingers, and they subsided.
+“She forbade an escort across the border. She said an army would answer the question before I could.” Rielle looked at the linen instead of the throne. “She told me where the road ran. I chose it.”
 
-"You enter on the day of his murder carrying property stolen from his corpse, and you expect this court to admire precision?"
+“A child repeats the choice prepared for her.” Cadran turned so the benches, not Rielle, received his words. “Sarthene killed Veradan. She took his sword. Now, on the very day we mourn him, she sends us a horned claimant and calls the intrusion voluntary.”
 
-"I expect the court to hear what happened after they wounded each other."
+He gave the hall a clean sequence. It was almost a relief to hear. Nothing in it required a person to wonder what a dying king might have done after the famous blow.
 
-She had meant to tell it slowly. Faced with the man's calm contempt, she spent the story like a handful of coins flung on a table.
+Ysabet held out a hand toward the bundle. “Untie the cord. Unwrap from your side. Touch no metal.”
 
-Veradan and Sarthene had met between their armies at dusk. Their commanders believed the duel would spare thousands if one sovereign fell. Pride had helped both sovereigns believe it too. They fought until Veradan's blood filled one boot and Sarthene could no longer close the fingers of her right hand. Then, from the ridge, they saw eager captains advancing on both sides. Neither army intended to honor the duel. Each meant to turn sacrifice into advantage.
+Rielle pulled the knot. The wool opened onto a black leather scabbard scarred white near the tip. Silver wire bound its throat in a pattern of seven narrow branches. The sword’s guard showed above it: one quillon swept like a wing, while the other ended in a jagged break.
 
-So the king and queen had stood together and ordered their banners back.
+A chair scraped in the veterans’ gallery. An old man had risen so fast that the attendant beside him had to catch his elbow. He wore the faded blue sash of the king’s standard company. Two fingers were missing from his right hand.
 
-"They stopped a battle," Rielle said. "My father knew he would not survive the night. He gave my mother the sword. He knew she was carrying me. He told her to keep both of us beyond the reach of people who would make an infant continue their war."
+Cadran noticed him. “Sit down, Lornivar.”
 
-The protector's expression did not change. "Convenient. The dead king confesses a secret love, absolves his killer, and hands her the succession. Did he also compose a song?"
+The old man sat, but he did not look away from the broken guard.
 
-Scattered laughter answered him. It was brittle, grateful laughter from people relieved to be told what to think.
+Ysabet called for the regalia ledger. A clerk brought a cedar box from beneath the council bench and unlocked it in view of the hall. Inside lay charcoal rubbings, weights, calipers, and a thumb-sized tablet of dark wax under glass.
 
-Heat gathered behind Rielle's teeth. On the road, her mother had warned her about that too. *Anger is honest. What it asks you to do may not be.*
+“Recorded damage at the king’s last inspection,” Ysabet said. “Left quillon broken beyond the third feather. Two nicks on the forward edge, six fingers apart. Garnet absent from the north face of the pommel. Scabbard tip abraded to the ashwood.”
 
-"They were not lovers when they first met," Rielle said. "They became lovers during the winter truce, and enemies again when it failed. My mother did not ask forgiveness from me, so I cannot sell it to you. She asked that the truth arrive with the sword."
+She made Rielle turn the bundle by pulling the linen beneath it. Two clerks measured. One read numbers; another wrote them. The exposed damage appeared where the ledger said it should; the edge nicks would have to wait for the blade. At the scabbard’s throat, Ysabet bent close but kept her hands behind her back.
 
-"Truth?" The protector descended one step. "Our king's body came home. His sword did not. Sarthene's armies withdrew before dawn. Those are facts. You have brought a demon tale to finish what demon steel began."
+“Seven-wire royal bind,” she said. “No break visible. The private stamp is beneath the fourth crossing. It cannot be compared without cutting the wire.”
 
-"Then test the sword."
+“An exact copy,” Cadran said. “Made with fifteen years and the original at hand.”
 
-For the first time, caution disturbed his face.
+“Possible,” Ysabet said.
 
-One councilor, a severe woman with a chain of bronze seals across her chest, rose from the foremost bench. "The succession rite may be performed before the full council. By law, my lord."
+The single word pleased neither side.
 
-"The rite identifies the king's blood," the protector said. "It does not identify the means by which it was obtained."
+Rielle felt the room tip away from her. The sword could be measured and still called counterfeit. Sarthene’s account could be exact and still called a demon’s invention. She had imagined disbelief, but not its patience.
 
-The words struck harder than a slap. Rielle's grip closed around the scabbard. A few people looked away. Most did not.
+“There is writing inside the scabbard,” she said.
 
-"Perform it," she said.
+Ysabet looked up. “How do you know?”
 
-The councilor approached the altar. She looked frightened, but she met Rielle's eyes. "The blade must be bare. The claimant must draw it without aid."
+“My mother watched him write part of it. She saw it sealed. She never opened it.”
 
-Rielle had drawn the sword every morning since leaving home. Never before a room that might decide to kill her for succeeding.
+Cadran stepped toward the rail. “Conveniently unexamined evidence, carried for a day such as this.”
 
-She wrapped her hand around the grip.
+“If the seven wires are unbroken,” Ysabet said, “whatever lies inside predates its present custody or was placed there by the maker. That is what the stamp will determine.”
 
-The lord protector spoke to the guards. "If she lifts the blade toward anyone, put her down."
+“And if a demon queen compelled the dying king’s mark?”
 
-Rielle drew.
+Rielle met his eyes. “Then prove compulsion. The bind is still closed.”
 
-Steel whispered from leather. The blade was plain near the point, scarred and darkened by fifteen years of careful oil over old damage. As the hilt cleared the scabbard, a thin silver line appeared in the central groove. It climbed from guard to tip like frost forming on a window. At Rielle's touch, the line divided into the seven-branch mark stamped on Veradan's crown.
+A few people laughed, not kindly. Cadran’s face remained composed, but the square seal at his throat swung once as he stopped.
 
-The hall went still enough for Rielle to hear the altar flame.
+“Identity before destructive assay,” Ysabet said. “Bearer, state your name and alleged relation to the last sovereign.”
 
-The severe councilor sank to one knee.
+“Rielle. Sarthene is my mother. Veradan was my father.”
 
-Others followed in startled waves: two more councilors, several officers, citizens near the aisle. The old one-armed standard-bearer did not kneel. His face had crumpled.
+The old veteran covered his mouth with his damaged hand.
 
-"Royal blood," the councilor said. "The sword acknowledges it."
+“What proof apart from the object?”
 
-The protector stared at the shining mark. Then he turned to the hall.
+“His letters to her. Her word. My blood, if the old claims about the sword are true.”
 
-"You see the danger."
+“Letters in your mother’s custody carry the same disputed chain. We will not cut you in a crowded room. The blade’s response may be observed without injury.” Ysabet glanced at the guards. “The bearer alone may draw. She will lift no higher than the rail.”
 
-The kneeling stopped.
+Cadran’s voice hardened. “A demon enters armed and you propose a demonstration.”
 
-"For fifteen years," he continued, "the enemy has kept the one object that can open our throne. They return it now in the hand of a child bred from stolen blood. That glow is not her claim. It is proof of the design against us."
+“You propose that thirty pikes close on her while the sword remains wrapped. Which spectacle do you expect the rear benches to misunderstand less?”
 
-He made fear sound reasonable. Rielle watched it pass from face to face, changing wonder into suspicion. The very thing meant to prove who she was became evidence that she should not exist.
+He studied the guards. The inner rank waited on his order. The soldiers along the western wall watched the brass rail, not him. They wore the small iron circlets of the old household guard, whose oath ran to the sovereign rather than the protector.
 
-The protector held out his hand. "Seize the sword. Take the creature alive if possible."
+“Crossbows remain trained,” Cadran said. “If the point clears the linen, shoot.”
 
-The guard captain did not move at once. That hesitation saved lives.
+Ysabet nodded to Rielle. “Right hand on the grip. Left on the scabbard. Draw toward the vacant side of the rail.”
 
-Spears lowered on Rielle's right. On her left, two officers stepped between her and the guards. Someone shouted that the lawful heir must be protected. Someone else shouted that there had been no lawful heir. Benches scraped. The citizens surged backward, but the doors were sealed. A child screamed from somewhere in the crush.
+Rielle obeyed. The grip was worn into the shape of another hand, broader than hers. Steel slid free with a dry whisper.
 
-Rielle raised the sword by instinct.
+At first the blade looked dead: dark, nicked, ordinary. Then seven hair-thin channels along its center brightened under her palm. Pale fire traveled from hilt to point and stopped there without smoke or heat. The matching branches on the old circlet shone through the glass case above.
 
-The guards recoiled. The shining branch-mark painted their faces in cold light.
+People rose. The household guards lowered their crossbows by an inch. The inner guards raised their pikes.
 
-She knew what the blade could do. Her mother had not sent her untrained. The first guard's spear was too far inward; Rielle could beat it aside, turn under the second, and reach the narrow space behind the altar. The officers who had moved to defend her would make a wall. Once the court saw blood on Veradan's sword, every frightened person in the room would choose a side.
+“Veradan’s line answers,” Ysabet said. Her chalk moved. “That establishes descent. It establishes nothing else.”
 
-She could survive the next ten breaths.
+The qualification vanished beneath the uproar. *Heir* came from the gallery. *Trick* came from the west benches. A councilor tried to climb over a seat. The east doors slammed inward, caught on a guard’s boot, and opened just enough for the people outside to drive those inside against the last row.
 
-After that, the story would be simple again. Demon steel. Human dead. An inheritance no one had to understand.
+Cadran pointed at Rielle. “Disarm her now.”
 
-Rielle looked up at the vacant throne. For fifteen years, every ruler of the kingdom had stopped one step below it. All that empty space had not prevented cruelty or ambition. It had merely allowed powerful people to call their choices temporary.
+The inner rank advanced. The household guards swung their crossbows away from Rielle and toward the pikes. A bolt struck the ceiling when someone was jostled. Plaster fell in white chips.
 
-She turned the sword point down.
+Rielle brought the sword up.
 
-"Rielle," the bronze-chained councilor warned.
+Training arranged the hall into distances. The nearest pikehead was too far left. She could bind its shaft under the broken quillon, step past the bearer, and put the brass rail at her back. Three cuts would reach the aisle. Five might reach the steps.
 
-Rielle laid the blade on the lowest throne step.
+Behind the guards, the east doors bucked again. A woman was pinned against the end of a bench, her mouth open but unable to draw breath. One loose crossbow aimed through Rielle at the citizens’ floor. If Rielle moved quickly, half the room would see an attack and the other half a rescue. Both halves had steel.
 
-The silver mark faded.
+“What stops an assay?” Rielle asked.
 
-She set the scabbard beside it and stepped back with empty hands raised. The nearest guard could have run her through. His spearpoint trembled against the cloth over her heart.
+Ysabet heard her through the shouting. “Blood on the rail. Broken custody. Removal of the object.”
 
-"There is a testament sealed inside the scabbard," she said. "The bronze chain opens the chamber. So does the protector's ring. My mother could not open it without breaking the seals. Neither could I."
+“How do I stay in it?”
 
-The protector's hand closed over the ring on his finger.
+“Blade flat. Hands behind you. Submit to binding.”
 
-"Open it before the council," Rielle said. "If it is false, arrest me. If there is nothing there, arrest me. But if you take the sword away unopened, everyone here will know what you were afraid to read."
+The nearest guard lunged for the sword.
 
-This time the silence belonged to her.
+Rielle could have taken his hand. Instead she dropped the point until the blade lay across the linen. Pale fire went out. She stepped behind the claimant’s rail and locked her wrists at the small of her back.
 
-The councilor reached for the scabbard.
+“Bind me,” she told the guard. “Not the sword.”
 
-"No," said the protector.
+He stared at her for a beat, then looped a leather restraint around her wrists. It bit tight. Rielle did not move when he took her shoulder and pulled her away from the rail.
 
-"The claimant has invoked examination before the full council," she said. Her fear had left her voice. "By law, we must examine."
+The household crossbows lowered. Pikes followed, one by one. Cadran shouted for the east doors to be held at a handspan so air could pass. The trapped woman sagged as two strangers dragged the bench aside.
 
-"I said no."
+Rielle’s sword remained in the middle of the hall where everyone could see that she had let it go.
 
-"And the law says yes."
+Ysabet seized the moment. “The object is in lawful assay. Any person who removes it commits seizure against the court. Clerk, record the bearer’s submission and the restraint. Bring cutters, glass, and the private-seal matrix.”
 
-She knelt on the step and pressed the largest bronze seal in her chain against a shallow hollow beneath the scabbard's throat. It fitted. After a moment, something clicked, but a narrow metal cover remained shut.
+“This has become a riot,” Cadran said. “Adjourn.”
 
-All eyes went to the protector's ring.
+“The doors cannot open safely, and the rail cannot be moved. We finish where we stand.”
 
-He could refuse. Rielle saw the calculation in the tightness around his mouth. Refusal would not put the secret back in its hiding place. Too many people now knew it existed.
+Before cutting the bind, the clerks measured the two nicks in the blade. Both matched the ledger.
 
-He descended, placed his ring into a second hollow, and twisted.
+The tools arrived on a tray. Ysabet made the clerk show each one to the benches. She slid a thin sheet of glass beneath the scabbard’s wire throat, then cut the first wire above it so no blade touched the leather. Six more small snaps sounded. The winding came away as one stiff cage.
 
-The cover sprang open.
+Under the fourth crossing lay a flake of black wax. Its underside bore a tiny impression: a crowned hand with the little finger bent.
 
-Inside lay a roll of silk no wider than Rielle's little finger. It was stained brown at one end.
+The matrix from the cedar box matched it, nick for nick.
 
-The old standard-bearer made a broken sound.
+“Private mark of Veradan,” Ysabet said. “Applied beneath an intact royal bind. The scabbard chamber has not been opened since.”
 
-"That was his bandage," he said.
+“It proves his servants sealed it,” Cadran said. “Not what was placed inside or under whose command.”
 
-The protector rounded on him. "You will keep your place."
+“Turn it over,” Lornivar Renscott said from the gallery.
 
-"I have kept it fifteen years."
+No one moved.
 
-The soldier left the faded banner and walked into the aisle. His missing arm made his ceremonial coat hang unevenly. Rielle recognized the look in his eyes now. It was not grief alone. It was exhaustion at the end of a long cowardice.
+The old veteran came down the side aisle. His attendant reached for him, but Lornivar shook her off. Up close, his blue sash was threadbare and his left leg dragged half a pace behind the right.
 
-He stopped before the throne steps.
+“Councilor, keep it on the glass,” he said. “Roll it a quarter turn toward the windows. There will be a doubled stitch beneath the throat. Yellow thread, not silver.”
 
-"I carried the king's standard at the ridge," he said. "When the order came to withdraw, our front rank had already advanced. I rode down to demand the king's own word. I saw them together. Queen Sarthene was holding him upright."
+Ysabet drew the linen sideways. A short yellow loop emerged from under the leather rim.
 
-The protector said, "You testified that smoke obscured the field."
+Lornivar stopped breathing for a moment. “I tied that with these.” He raised the hand missing two fingers. “Before I lost them.”
 
-"It did. I lied about what I saw inside it."
+Cadran descended one step. “You swore you reached the king after Sarthene had withdrawn.”
 
-The hall received this more quietly than it had received Rielle. One old man's shame was harder to dismiss than a demon queen's message.
+“I swore to the deposition your office wrote.”
 
-"He gave Sarthene the sword," the standard-bearer continued. "I heard him tell her to keep it from the generals. I did not hear all his words. I heard him say 'the child.' Then her guard took me away with the other wounded. When I returned home, the protector's officers were hanging men for less useful truths."
+“You signed it.”
 
-His gaze settled on Rielle. "I told myself silence kept the peace. But silence only kept the chair empty."
+“Yes.” Lornivar looked at the crowded benches, then at the veterans who had stood when he did. “Put that down too, Councilor. My name. My lie. Do not clean it for me.”
 
-The bronze-chained councilor unrolled the silk across the altar. Writing covered it in cramped, slanting lines. Seven councilors came forward to examine the hand, the private seal pressed in wax, the pattern of thread woven through the silk. The protector challenged each mark. Each challenge failed.
+Ysabet’s chalk resumed.
 
-At last, the councilor read.
+Lornivar faced the scabbard rather than Rielle. His account came in pieces of work. Veradan’s standard had fallen on the ridge. Lornivar had gone back for it and found Sarthene kneeling in trampled grass, one arm burned to the elbow, holding the king upright while both armies waited below. Veradan had written the silk and pressed his private mark into a wax wafer. He made Lornivar wrap the strip around the scabbard’s inner lath, stitch it with thread pulled from the royal banner, set the wafer beneath the fourth crossing, and bind the throat with silver wire.
 
-Veradan's testament did not call Sarthene innocent. It called the battle a joint folly and the peace afterward their joint duty. It named their unborn child as his heir, if the child someday came freely to claim kinship with both peoples. It commanded the court to judge that heir not by blood alone, but by conduct under choice.
+“His hands shook,” Lornivar said. “Mine did not yet. The queen could not close hers. That is why he used me.”
 
-The final line was not the one the court had recited for fifteen years.
+“Why leave it with her?” Ysabet asked.
 
-"Let no fear inherit me," the councilor read.
+“Our captains were climbing the ridge to take the sword and continue the attack. He told me they would crown whichever cousin signed their commissions. He ordered me downhill with the retreat signal.” Lornivar rubbed the gap where his fingers had been. “Sarthene gave me time to raise it. Her people took the king and the sword east. Ours took me home.”
 
-Rielle closed her eyes.
+Cadran’s voice was almost gentle. “And when three armies disputed the succession, you decided not to mention this.”
 
-Her mother had never told her those words. Perhaps Sarthene had feared turning a dead man's hope into another command laid upon a child. Perhaps she had wanted Rielle to arrive without knowing that the last line was waiting for her.
+“You decided. I agreed.”
 
-When Rielle opened her eyes, the lord protector was watching the room abandon him.
+“Because naming the demon queen as his trusted keeper would have broken the army before it reached home.”
 
-He recovered quickly. "The document recognizes a blood claim, subject to this court's judgment. Very well. Let us judge."
+“Because you showed me the charge for abandoning a king in battle. Because you said the standard widows would lose their bread if our company were condemned with me.” Lornivar finally looked at Cadran. “Both can be true. Write both.”
 
-He faced Rielle across the altar.
+That answer left the protector nothing simple to strike.
 
-"Denounce Sarthene's title and all allegiance to her. Affirm that whatever corruption entered you through her blood is subordinate to your human inheritance. Do that, and I will support your recognition. Refuse, and you prove you cannot rule this kingdom without serving its enemy."
+Ysabet opened the scabbard chamber. The inner lath slid free with the faint tear of old wax. Around it lay a brown-edged strip of silk, stitched in yellow. Lornivar named the direction of the fold before the clerk unwrapped it. He named the place where Veradan’s blood had soaked through. Each detail appeared.
 
-It was a smaller trap than the first, and therefore more dangerous. Rielle could hear the offer tempting the room. A crown, a concession, a way to accept her without changing too much. She imagined her mother receiving the news: proud that Rielle lived, unsurprised by the price, wounded despite herself.
+The writing was cramped and slanted downhill. Ysabet compared it with three royal orders from the cedar box. Then she asked seven councilors, chosen from opposing benches, to inspect the hand and seals. Two objected to the blood mark. One objected to Lornivar. None found a difference in the writing.
 
-Rielle looked at the crystal case on the throne. The crown inside had been designed for Veradan's broad human brow. It would not fit over her horns.
+Ysabet read only after the objections had been entered.
 
-"No," she said.
+Veradan named the duel as a choice he and Sarthene had made, the mortal wound as hers, and the withdrawal as theirs together. He wrote of the child Sarthene carried, not as sovereign but as an heir entitled to appear. Blood and the sword would establish descent. They would not compel a crown.
 
-The protector spread his hands toward the council as if she had proved his case.
+The council, he wrote, must judge the claimant in open session and take binding articles before recognition. Once the heir appeared and the instrument was proved, the vacancy could not continue. Before the memorial day ended, the council must recognize the heir under articles or reject the claim and name another sovereign.
 
-"I will not call my mother a corruption to make you comfortable calling my father a king. I am heir to both of them, including their mistakes. If you require half a person on that throne, leave it vacant."
+Murmurs passed through the chamber as people understood the trap Veradan had left for the future. There was no third choice in which a protector went on borrowing the throne.
 
-The guard captain lowered his spear.
+Cadran listened without moving. When Ysabet finished, he looked older but not defeated.
 
-Rielle went to the first step and picked up the scabbard, but not the sword.
+“Then we judge,” he said. “Now, while the border garrisons are still ours and the crowd has not torn itself apart.”
 
-"You have been governed for fifteen years by fear of what a crowned ruler might do," she said. "Keep some of that caution. Seat a council with equal places for those who fought on each side and those who buried the dead. Give it power to refuse the crown's taxes and wars. Take testimony from every survivor willing to speak, and publish it. Send envoys to Sarthene to negotiate a peace neither army can quietly undo."
+He came down to the brass rail. The sword lay between him and Rielle.
 
-"You presume to set terms before you are recognized," the protector said.
+“Sarthene has an army,” he said. “You arrived with the key to ours. If I recognize you without terms the captains understand, some will ride against the border before night. Others will open their forts to your mother. Give me one sentence I can send them. Say Sarthene remains the king’s killer and enters this realm only as an enemy. I will put my seal beneath your name.”
 
-"I am telling you what you are choosing. Not whether my blood is pure enough. Whether I will rule as though one people must always be the other's inherited enemy. Judge my claim by that. My father asked you to."
+Rielle’s wrists burned inside the strap. She could almost hear her mother considering the offer: not insulted first, but measuring which soldiers it would move and where.
 
-The bronze-chained councilor removed the largest seal from her chain and placed it on the altar beside Veradan's testament.
+“If I say it, will you open the doors?” Rielle asked.
 
-"I recognize Rielle as heir," she said, "under the limits she has proposed, to be entered into law before coronation."
+“When the hall is secure.”
 
-Another seal joined hers. Then another.
+“Will the west guard lower their bows?”
 
-The officers on Rielle's left sheathed their swords. The guard captain knelt, followed by the guards who had aimed their spears at her. Across the citizens' floor, people bowed uncertainly, unevenly, some not at all. Rielle preferred that to the smooth obedience she had imagined on the road. It looked more like judgment.
+“When the succession is secure.”
 
-The lord protector stood alone at the altar.
+“You keep making the answer mean your seal.”
 
-"This is not peace," he said to her. Up close, the certainty had drained from his face, leaving an old man terrified of the future he had spent fifteen years delaying.
+“My seal has kept this kingdom in one piece for fifteen years.”
 
-"No," Rielle said. "It is the first honest day of it."
+“And the doors?”
 
-She could have ordered his arrest. Half the hall expected it; she felt expectation gather like another weapon offered hilt-first. Instead she turned to the councilor.
+One of them slammed again. The gap narrowed on a torn sleeve. A guard captain shouted that people were fainting in the passage.
 
-"My first order is that the doors be opened. My second is that the true testament be copied and read in every court where the false words were spoken. My third is that a peace delegation leave before sunset. The former protector will surrender his seals and answer the council's questions. He will not disappear into a cell before he can answer them."
+Ysabet set down her chalk. “There are three motions available. Recognition without articles. Recognition under articles entered today. Rejection with a named alternative. The protector cannot extend the vacancy. The claimant may propose articles; the council may amend them.”
 
-The councilor bowed. "And the coronation?"
+Rielle looked at the sword. Taking it back would give her a road out. Leaving it on the rail left her bound in a hostile hall with no promise Sarthene could rescue her without proving everyone’s fear.
 
-Rielle looked up the twelve steps.
+“First article,” she said. “The sword stays with the seal council until the vote is copied and carried to every garrison. I do not touch it.”
 
-She climbed them alone. At the top, she lifted Veradan's crown from its case. It was as heavy as the sword and far less useful. She did not try to wear it. She placed it on the arm of the throne, where everyone could see that it was an inheritance, not a fit.
+Cadran glanced at the west guard. Several bows lowered.
 
-Then she sat.
+“Second,” Rielle said. “No army under this throne crosses the border for forty days unless this council and two guard captains sign the order. I send Sarthene the same bond.”
 
-The bronze doors opened below. Daylight widened across the floor, and the waiting crowd outside pressed forward to hear what had changed.
+“She can refuse it,” Cadran said.
 
-Rielle ordered the royal sword set point-down beside the throne. No hand held it. Its scarred blade caught the widening light while the first copyist spread clean paper over the altar.
+“Yes. Record her answer. I stay here for the forty days, whatever she says. No secret road home, no escort of hers inside the walls.”
+
+That cost landed differently from the sword. Rielle felt it herself only after speaking. Her mother would wait beyond a border that could close without warning. For forty days, Rielle would be the pledge left in the other side’s hands.
+
+Ysabet wrote. “The crown submits to residence and the no-march bond. Continue.”
+
+Rielle nodded toward Lornivar. “His testimony is sealed before anyone questions him alone. He answers for his false oath in open council. No pardon from me.”
+
+Lornivar bowed his head once.
+
+“And Sarthene?” Cadran asked.
+
+“She gets a safe-conduct to answer the testament. Twelve attendants. No soldiers. If she refuses, you record that too.” Rielle shifted her bound hands. “I will not begin by lying about who wounded Veradan. I will not call her only his killer so your message fits on one line.”
+
+It was not eloquent. Her shoulders hurt, the hall smelled of old wool and frightened bodies, and she wanted the east doors open more than she wanted any crown. That made the answer easier.
+
+Cadran touched the silver square at his throat. “You would put the kingdom under a child’s body as hostage.”
+
+“The testament gives you another choice. Name your sovereign.”
+
+His mouth tightened. He could have ordered his loyal guards to take the rail. Some still would. But Lornivar’s testimony sat in the clerk’s hand, and Veradan’s words lay open beneath glass. Every command now had witnesses.
+
+Ysabet called the motions. Recognition without articles failed. Rejection failed by three seals. Recognition under Rielle’s articles passed by four.
+
+The room did not kneel as one. The household guards did. Half the council followed. Citizens near the east doors were too busy hauling a fainted man over a bench. Several officers walked out as soon as the doors were forced wide enough, their faces set toward messages Rielle could not stop.
+
+Cadran removed the protector’s seal from his throat. He placed it beside the sword, not in Rielle’s hand.
+
+“It takes two keys to divide that authority,” he told Ysabet. “The civil key is in my office. The garrison key is on the west captain’s belt.”
+
+Ysabet only nodded and sent two clerks in opposite directions.
+
+The guard behind Rielle cut her wrist strap. Blood returned to her fingers in needles. She did not reach for the sword.
+
+Instead she climbed the eleven steps while clerks repeated the vote for the people outside. At the top, the old circlet still shone faintly in its glass case. No one had prepared a coronation. No one knew whether the circlet would clear her horns. That question could wait.
+
+Rielle sat on the vacant throne.
+
+It was deeper than it looked. Her boots did not quite meet the top step, and one carved lion dug into her shoulder. Below, clerks lowered a clear evidence hood over the sword. Ysabet pressed her bronze seal into wax across its latch. Cadran’s silver square lay beside it. Lornivar remained between two guards, holding his damaged hand against his sash.
+
+The east doors groaned open another foot. Cool air reached the dais at last.
+
+“Your first order?” Ysabet called.
+
+Rielle watched the guards turn the benches sideways to make a path for the crushed and fainting. Outside, the memorial crowd had begun arguing over what the testament said. The argument would outrun any proclamation.
+
+“Get the doors off their hinges,” she said. “Then bring me the garrison maps.”
+
+Cadran looked at the men along the western wall, who still watched him instead of the throne. “Axes to the hinges,” he said. “Strings off the bows first.”
+
+Across the hall, thirty bowstrings slackened.
