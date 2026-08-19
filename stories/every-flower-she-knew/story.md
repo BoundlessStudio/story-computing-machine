@@ -8,176 +8,158 @@ canon: false
 
 # Every Flower She Knew
 
-At the valley boundary, Ressa ties four requests to the handles of her empty baskets.
+The boundary stones are still black against a thinning sky when Ressa lays four cords across the rims of two empty reed baskets.
 
-The red cord has three knots: a child, a fever, the third day. The yellow cord asks strength for the thatcher whose winter roof is still open to the sky. The gray belongs to an old woman who has misplaced, somewhere in her own memory, the hillside where she buried her best bean seed. The blue cord is for the fevered child's mother, who has not slept longer than an hour since the sickness began.
+The red cord has three tight knots: a child, a common fever, the third night ending. The child's parent holds one end of it. Rain has dried in pale scales on the adult's boots, though the ground here is bare. There has been pacing while the village slept.
 
-Ressa tests each knot with her thumb. She checks the reed ribs of both baskets, the waxed skin covers rolled beneath their rims, and the four fitted compartments inside. Her crescent knife is sharp. Her wooden tongs close cleanly. Flint and char wait in a lidded horn. Nothing has been forgotten.
+“Still drinking?” Ressa asks.
 
-Last, she turns her hands over. No cut, no split nail, no place where sap might enter. The inspection is habit, like the rule that has governed every harvest she has carried home: a flower tied to a request is not hers to use.
+“When we wake the child.”
 
-Behind her, in the dark, someone coughs. The child's mother has walked as far as the boundary and no farther. Nobody follows Ressa into the valley.
+“Any stiffness in the neck?”
 
-“Before moonrise?” the woman asks.
+“No.”
 
-“If the weather keeps its manners.”
+The answers leave red mercy useful, if Ressa can bring it back in time. She ties the cord to the rear divider of the right-hand basket. An ochre cord, looped twice for strength, goes to the left rear divider; someone must raise a roof brace before the next long rain, but not today. A gray cord asks for memory from a person who put away next spring's seed in a place now inaccessible to ordinary recall. The indigo one asks sleep for the fevered child's parent. Those three can wait until morning. The fever should not.
 
-It is not comfort, but the woman knows better than to ask for that. She touches the blue cord once and returns toward the roofs below.
+Ressa knots the gray cord to the left front compartment and the indigo to the right front. The baskets are narrow, hip-deep, each with its own shoulder strap and waxed skin cover rolled beneath the rim. She turns them upside down, checks every reed rib, then fits them left and right against her body. A crescent knife rides at her belt. Her staff, water gourd, oat cake, lidded tinder horn, and hooded lamp account for the rest of the weight.
 
-Ressa waits until the first gray light shows the path, then crosses between the two boundary stones.
+Her fingers have no cuts. Her boot seams are sealed. She can feel every toe.
 
-The valley opens beneath her in folds of wet green. Mist lies low along the stream, leaving the slopes clear. Flowers stripe the ground: yellow shelves on the sunward rock, blue pockets under thorn, white drifts in every shaded hollow. A stranger might see abundance. Ressa sees distances.
+Only then does she look again at the cords. For years she has gathered alone, and the rule has been simple: no carried flower is for her. A cord arrives with a need; the cut share goes home beneath that cord. She has returned light in bad seasons and empty twice, but never with a request short because she fed herself from it.
 
-Three handspans between the copper bells and the path. Six paces around a thorn-star root, because its buried runners sting as fiercely as the purple points above ground. Never step downhill of a nodding cup when rain sits inside it; the water carries a rash that blinds for half a day. She knows where sweetness means medicine, where it means bait, where the stems can be touched safely but the pollen cannot.
+The parent lets go of the red cord. Ressa crosses between the stones before sunrise.
 
-At the first turn, widow's lace trails from beneath a black rock.
+Cold air drains out of the valley and slides around her ankles. Beneath it, the lower slopes smell of wet bark, mineral water, and the faint pepper of unopened lion's breath. She does not need the lamp now. Gray light has begun to separate stone from leaf, and the eastern wind is steady enough to show the pale undersides of the alder leaves without turning them over.
 
-Most of it is furled in the morning, each white flower twisted to the width of a finger. Three blossoms in the deepest shade have already opened. Their petals overlap like fine cloth, and drops of clear nectar jewel the curled edges. Beautiful enough to draw an unknowing hand.
+The descent begins on a rib of dark rock. Ressa watches sap, posture, and wind before color. Copper bells are harmless while their stems run clear; a yellow stain means their cups have begun shedding blistering oil. Nodding cups collect dew in their lowered petals, so she passes above them, outside the spill line. At a bend where moss disguises the edge, three finger-widths of bare grit beside a thorn root are enough for her boot if she sets it straight. She does, without breaking stride.
 
-Ressa gives the patch the whole width of the path. Years ago, a goat had leaned through a fence and brushed one open blossom with its nose. It took three steps before its front legs folded. There was no poultice for widow's lace, no useful dose hidden inside the poison, no safer part of the plant. Skin against petal, sap, root, or pollen meant death.
+At the shoulder below a leaning pine, the usual trail narrows toward the lower saddle. White flowers spread beneath the chalk face there.
 
-She plants her staff beyond the last trailing leaf and steps onto a pale stone. Above her, the slope rises in broken ledges: another pale stone, a pine root curved like a hook, a shelf of dark rock hidden under moss. The upper traverse is longer and meaner than the low path, but she checks its first handholds whenever she passes. Valleys change. Good paths do not become faithful because one has used them for years.
+Widow's lace is furled at this hour. Each blossom is twisted into a narrow spindle, but two in the shelter of the rock have opened early. Their overlapping petals are fine as woven cloth. Clear drops stand along their rims.
 
-The healing patch grows near the valley floor, where the stream divides around a warm stone. Red mercy holds its petals upright as if offering a cup. Ressa crouches outside the patch and studies it before she cuts. Young blossoms are orange at the throat and good only for stomach cramps. Mature ones show a dark line down each petal. Of those, she takes six, clipping above the lowest paired leaves so the plants will branch again. She leaves nine mature flowers open to insects and seed.
+Ressa stops well outside the longest runner. She waits for the wind to move uphill, then takes the inner edge of the saddle, one boot on a dry heelstone and the next on a flat patch of slate. Nothing touches her trousers, baskets, staff, or skin. The first person who taught her this path had shown her a sheep that brushed one open petal with its muzzle. The animal had folded to the ground before it reached its water pail. There is no useful part of widow's lace, no safe interval after contact, and no reason to approach it more closely than the path requires.
 
-The stems bead milky sap. She wraps each one in dock leaf and binds it with thread before laying it in the red-cord compartment. Red mercy has broken dozens of village fevers. It had cleared the shaking sickness from the potter's household last spring and eased an infected cut in the shepherd's palm. It could not knit a crushed chest or call breath back once it had gone. Ressa knows that boundary too.
+Above the chalk face lies the upper traverse. Ressa checks it whenever weather is uncertain, although it adds half a valley to the journey home. Two pale stones angle toward a narrow shelf. Beyond them, two pine roots hook down from the wall, the lower root gray with rot and the higher one red-brown and sound. Farther along, a line of bare holds crosses the rock beneath a hanging mat of fern. The first of two shallow gutters lies beyond the holds and has a pale runoff notch at its head; a sloping crack rises between that gutter and the second, before the traverse reaches the leaning pine again. She stands long enough to fix the sequence: rust-seamed stone, cupped stone, sound root-hook, clear holds, pale-notched gutter, sloping crack, second gutter, leaning pine. The upper way is free of widow's lace today. It is also steep, exposed, and unnecessary.
 
-She closes the compartment. Six should be enough for the child, with two doses to spare if the fever climbs again.
+She continues over the lower saddle.
 
-Lion's breath grows farther up the sunny shoulder, thick-stemmed and gold. It smells of pepper when she cuts it. Three petals chewed slowly will lend a tired body the force to work for an hour, sometimes two. They do not heal what the work has worn down. A person who borrows enough strength to lift on an injured back may finish the lifting and lose the use of the back afterward.
+Sunlight reaches the warm seep near the valley floor as she arrives. Red mercy grows in a low crescent around it, scarlet cups held upright on jointed green stems. Orange at the throat means a flower is too young for fever. A dark vein down all five petals means it is ready. Ressa counts the mature cups, watches insects moving between them, and cuts seven from plants spaced across the patch. Eleven remain open; smaller buds will follow. Her knife passes above paired leaves so each cut stem can branch.
 
-Ressa takes four flowers. The patch is small this year, and the thatcher's roof can wait through one more dry day if it must. She pinches spent heads over the bare earth, scattering seed, then wraps the flowers in waxed cloth. A breeze travels through the patch after she rises, bowing every gold head over the seed.
+Milky sap beads at the cut ends. She binds them in broad dock leaves, seals the bundles with waxed thread, and lays them flat in the right rear compartment under the red cord. Last autumn, two petals in hot water had broken a common fever before its fourth night. The same dose had done nothing for a child whose sickness had already moved into the lungs. Red mercy lowers the right kind of heat. It does not reverse every road an illness has taken.
 
-Silver ledger hides its usefulness. The plant is low and gray, with four dull petals no wider than a thumbnail. Goats eat around it. Children complain of its chalky taste. Yet half a flower held beneath the tongue can bring back an observed detail that fatigue or age has buried: a face glimpsed at a market, the order of words in a message, which hillside received morning sun in the year the bean harvest was best. It supplies nothing a person never knew. When the cooper took it to discover who had stolen his adze, he remembered only that he himself had carried the tool outside and set it down. Ressa found it under nettles.
+From the seep, Ressa follows a gravel rise into the first sun. Lion's breath stands there in gold clusters, petals pressed close around thick green hearts. The sap should be amber. She cuts one stem, checks the shining drop, and takes three more from separate plants. A fourth of the patch is enough. She rubs dry seed heads between her palms over open gravel before wrapping the four flowers in waxed cloth and setting them behind the ochre cord in the left basket.
 
-She harvests three silver flowers from separate plants. The gray cord brushes her wrist as she packs them.
+A whole lion's-breath flower can lend a spent body force for several hours. It does not mend the body that spends that force. Ressa remembers a mason finishing a storm wall on it with a strained shoulder, then being unable to lift a cup the following day. The roof brace can rise after the dose is measured and the worker's joints are checked. It need not rise tonight.
 
-Moon hush comes last, because its blue petals bruise if carried beneath heavier stems. It grows under hazel where afternoon arrives early. Steeped in hot water, one petal gives a child a quiet hour; a whole flower can carry a sleepless adult through a night without dreams. Too much leaves the limbs loose and the mind slow after waking. It brings rest, not recovery. Ressa has seen people wake grateful and still ill.
+The route turns downstream through low alders. Silver ledger is easy to step over because its four gray petals look like scraps of old leaf. Ressa kneels where the soil is firm. The plant can sharpen the path back to something truly noticed: the position of a misplaced tool, the words of a message, the face seen beside a cart. It cannot put a fact behind eyes that never received it. A grieving parent once swallowed two blossoms and recovered every button on a lost child's coat, but not the unwitnessed place where the child had gone.
 
-She selects two open blooms. The child's mother will need only half of one if the fever turns.
+Ressa cuts three ledger blooms, each from a different clump. She leaves the low green centers untouched and slides the flowers into three paper sleeves in the left front compartment. The gray cord lies over their lid.
 
-To seal the last stem wrapping, Ressa sets a coal glowing inside the cup of her hooded lamp and warms a bead of pine gum on her knife. As the gum softens, the coal's orange edge turns blue. The little flame leans toward the baskets.
+Moon hush opens only after the sun reaches the western stones. Its blue petals darken at the edges when ready, so Ressa eats half her oat cake and waits beside the shadow line. She drinks sparingly. While she waits, she turns each basket a quarter turn, checks that no stem has shifted, and feels the eastern wind weaken against her wet fingertip.
 
-It leans toward all of them. Red mercy or widow's lace, healing cup or killing petal, every freshly cut valley flower draws fire and colors it blue. The pull reveals nothing useful except that a basket should never be left beside an open hearth. Ressa keeps the lamp between her knees, shielding the coal while she seals the cloth. Even so, the blue tongue lengthens toward the nearest compartment.
+When the dark border appears on the blue petals, she cuts two moon-hush flowers and leaves the other six. One steeped petal settles a restless child for an hour. Half a flower can bring an exhausted adult through a quiet night. It does not reduce fever, close a wound, or restore what sleeplessness has spent. The last adult Ressa dosed woke after sunrise with a clear head and the same swollen ankle that had kept him awake.
 
-“Greedy nuisance,” she tells it, and caps the lamp.
+She cushions the two blooms in wool inside the right front compartment. To fix the final paper sleeve, she opens her hooded lamp and sets a coal from the tinder horn beneath a shaving of wax. The small orange flame turns blue as soon as it catches. It angles toward the right basket. When she moves that basket beyond her knee, the flame tilts toward the cut flowers in the left one instead.
 
-The first rain strikes the hazel leaves.
+Every fresh-cut flower from this valley does that. The bend says nothing about medicine or poison. It only makes bare fire troublesome near a harvest.
 
-Ressa looks up. A gray wall has swallowed the upper rim of the valley. The morning wind should have carried weather east, but down here the air has gone still. Cold drops begin to rattle through the canopy.
+Ressa melts the wax with the lamp at arm's length, closes the sleeve, then caps the flame before it can heat a skin cover. The first cold drop strikes the back of her hand.
 
-She pulls the skin covers over both baskets and knots them beneath the cords. There is another patch of red mercy beyond the hazel, and on a clear day she would inspect it before turning home. Today she leaves it untouched. She straps one basket to her back, takes the other on her left hip, and begins the climb.
+She looks east. The wind has vanished. Fog is pouring over the rim in a solid gray spill, close behind a sheet of rain.
 
-Rain reaches the valley floor before she does. The stream darkens and swells around its warm stone. On the sunny shoulder, lion's breath bends under the drops, gold heads striking the earth. Ressa slows enough to keep mud from shaking the baskets, but no more. Fog pours down the slopes and eats the distance between one landmark and the next.
+Ressa unrolls both skin covers and knots them below the basket rims. She had intended to inspect a second red-mercy patch near the southern wall. The seven mature blooms already wrapped are a proper dose and reserve; more would cost time the weather has removed. She sets the right basket against her right hip, the left against her left, cinches both waist cords, and starts home.
 
-By the time she reaches the black rock, her sleeves are soaked and her right thigh has begun to tremble.
+Rain reaches the valley floor before she crosses it. On the return past moon hush, blue faces blur beneath hard drops. The silver-ledger leaves lie flat in the alder mud. Lion's breath has folded toward the gravel, gold hidden under green. At the warm seep, water runs over the stones where Ressa placed her heels that morning, and she chooses two higher ones before crossing. The covered baskets stay level. Their cords grow dark with rain but remain visible under the folded rims.
 
-She stops well above the turn.
+Fog takes the chalk face from sight. Ressa knows she is near the lower saddle by the lean of the pine and the smell of its opened bark. Her thighs are already trembling from the crouched harvest and the climb. She shortens her steps, keeps the baskets from swinging, and reaches the broad dry stone below the face.
 
-Widow's lace has opened across the low path.
+White fills the trail above it.
 
-Cold rain has made dusk at midday. Hundreds of white blooms spread from the rock to the streamward drop, lifting on runners Ressa stepped past that morning. The safe strip of mud is gone. Petals tremble under the rain and shed clear drops onto the stones below.
+Cold rain has opened the widow's lace hours before its evening spread. The two early blossoms are now lost among hundreds. Open petals cover the lower saddle from the chalk wall to the outer drop, and runners have lifted across the heelstones Ressa used before dawn. No patch of grit remains wide enough for a boot. Clear water drains from flower to flower and falls from the low edge onto the slate below.
 
-The fog makes the mass seem endless, but Ressa does not need to see its end to understand it. She lowers the hip basket onto a dry hump of stone. Then she backs up four paces before taking off the other. Nothing from the patch has touched her. Nothing will.
+Ressa backs down until the dry stone stands between her and the nearest runner. She removes the baskets one at a time, right first, then left, and places them on the inner half of the rock. Both covers are clean. Her sleeves and boots are clean. She drinks, eats the rest of the oat cake, and examines the route without moving closer.
 
-She eats a heel of oat bread and inventories the valley.
+The direct saddle requires contact. That removes it.
 
-The direct path is closed. No boot or glove in the village can be trusted against widow's lace sap. Cutting the flowers would bring them nearer. Fire would pull toward the cut blooms, scatter heated sap, and leave the roots alive. The patch will furl after dawn if the rain passes.
+Cutting the lace would throw sap across the only footing. Fire would bend toward fresh cuts, carry heat and sap through the runners, and leave living roots under the mud. No glove she owns is proof against a torn seam. No valley flower is an antidote. If she waits, the blooms may furl after dawn, but red mercy works best before a common fever has held through a fourth night.
 
-By dawn, the fever may have gone beyond the work red mercy can do.
+The upper traverse is still physically possible. Its entry rises from the dry stone above the open band, then crosses the pale stones, root-hooks, bare holds, first gutter, sloping crack, and second gutter before rejoining the home ridge at the leaning pine. Ressa saw each part this morning. Fog has erased the joins. Her legs have enough left for the ordinary saddle, not for the longer climb; fatigue has already blurred which pale stone is cupped and which carries the rust seam.
 
-The upper traverse remains. It climbs above the patch, crosses two steep gutters, then rejoins the home path just inside the boundary stones. She has walked it three times in twenty years, never with full baskets, never in fog. The first section is marked by the pale stones and hooked roots she inspected on her descent. After that, the route relies on narrow footing and the shape of the rock beneath the hand.
+She assesses the case as she would beside a bed. The carrier is depleted but uninjured, and all four treatments are dry. Delay endangers one patient; the direct passage kills the carrier. The upper passage exceeds her present stamina, and fatigue has put needed observations out of reach. In the left basket are four lion's-breath blooms and three silver ledgers, both attached to requests that can wait.
 
-Ressa looks at her trembling thigh. Harvesting requires long crouches, careful cuts, no wasted motion. Careful work still spends the body. She has enough strength for the ordinary low path. She does not have enough for the upper one.
+Leaving the sleep flowers would spare almost no weight. Leaving the entire left basket would remove the remedies that make the upper route possible, and rain would reach the paper sleeves before morning. Carrying only red mercy would still put the necessary basket on a body unable to finish the traverse.
 
-She considers dividing the flowers. Take only the red mercy and leave the rest wrapped under the stone. The back basket alone would be lighter. But the climb would still exceed what is left in her legs, and abandoned moon hush would drink rain through its wrapping by morning. She considers waiting. The child has survived three days. Some survive four.
+Ressa opens the left rear compartment. She takes one whole lion's-breath flower. Before eating it, she adds a small cross-knot to the ochre request cord: one dose spent on the road. The petals taste of pepper and bitter bark. Heat spreads from her tongue into her jaw, shoulders, and thighs. The ache in her knees remains exactly where it was. Under it, muscle gathers enough force to answer when called.
 
-That is not the counsel she would give beside a bed. She would name the danger, name the remedy, and use what offered the better chance.
+From the left front compartment she removes one whole silver-ledger bloom. She marks the gray cord with the same cross-knot and holds the chalky petals beneath her tongue until they soften.
 
-Rain ticks against the basket skins. Beneath the covers lie four lion's-breath flowers, because a man needs strength to close a roof. Beside them lie three silver ledgers, because an old woman wants to find a hill inside her own life. Both needs are real. Neither request requires every flower she has cut.
+The morning returns by particulars. Not a picture, and not sight through fog. The rust seam crossed the first pale stone two finger-widths from its inner edge. The cupped stone came second and held a little brown water. The sound root hooked downward above the rotten one. Of the bare holds, the middle was deep enough for four fingers; the last was only a roughness for the palm. Beyond them came the pale-notched gutter, the left-rising crack, the second gutter, and the leaning pine at the home ridge. She remembers because she stopped and looked.
 
-Ressa has always thought her rule kept the harvest honest. It has. Yet if the thatcher came to her with a shaking thigh and a child depending on what he carried, she would not send him up a wet cliff to protect a flower.
+Other details arrive with equal force: six remaining blue cups at the moon-hush patch after one insect bent a stem; the missing button on the coat of the child no search had found; the exact cracked glaze of a cup beside a fever bed where red mercy came too late. No new answers come with them. The blur is simply gone.
 
-Basket handles split. She mends those before loading them again.
+Ressa closes both left compartments. She repacks for the wall. The right basket, holding red mercy in back and moon hush in front, goes high across her back beneath crossed straps. The left basket, now three lion's-breath and two ledger blooms, hangs short against her chest where she can lift it away from stone. She tightens both skin covers, threads the staff through her free right hand, and begins above the dry rock.
 
-She opens the yellow compartment.
+The first rise is a chute of wet shale. With borrowed strength, she drives her boot into it, but the sole still slips half a handspan and scrapes her ankle against stone. Pain stays bright. She lowers herself, tests a firmer edge with the staff, and climbs on the firmer line.
 
-Lion's breath burns like pepper and green wood. She chews one flower, petal by petal, and swallows the fibrous heart. Warmth spreads from her tongue to her jaw, then down her throat. Her pulse kicks harder. The ache remains in her legs, but force gathers beneath it, clean and dangerous as a loaded sling.
+At the top of the chute, the first pale stone appears only when her knee is level with it. The rust seam is where she remembers. She probes the inner edge, finds it solid, and puts her left foot there. The chest basket must pass first. She lifts it onto the narrow shelf, keeps one hand through its strap, then moves her body and draws the basket back against her ribs.
 
-From the gray compartment she takes half a silver ledger, hesitates, then takes the whole flower. The upper traverse will punish a blurred sequence. Chalk coats her mouth. For several breaths, nothing changes.
+The cupped stone lies one long step beyond. Rain has filled its hollow and made the outer half shine. Ressa braces her staff above it, empties the cup with the heel of her hand without leaning over the drop, and weights the inner edge. Below, the opened lace is a white band without gaps.
 
-Then she remembers the morning.
+At the pine roots, her sharpened memory offers both hooks with painful clarity. The low gray root had powder beneath its bark at dawn. She reaches above it for the red-brown curve, pulls once to test the living wood, and shifts the chest basket under her elbow. The back basket brushes rock, never leaf. Her right knee complains as she rises. Lion's breath gives the leg power; it does not quiet the joint.
 
-Not as a vision. The fog stays thick, the rain cold. But details she had let pass return to their places: the first pale stone canted inward; the second shone because water ran across it; the pine root hooked left, while the dead root below it hooked right and would tear free under weight. Beyond the dark shelf, a seam split the rock at the height of her shoulder. She had seen red beetle shells in it.
+The route turns out of sight of the dry stone. Fog reduces the next ledge to the length of her staff. Ressa finds the first bare hold beneath fern, then the deep middle hold. At the last, memory gives her only palm roughness. She feels for it twice, finds wet moss instead, and withdraws. On the third search her skin catches the rough patch lower than expected. Water has flattened the fern and changed its apparent height, not the rock.
 
-Ressa reties both request cords. On each she adds a small cross-knot, the village mark for a dose spent on the road. No one will have to ask what became of it.
+Near the outer corner, three widow's-lace blooms rise from a crack below the shelf. They are not on the upper route, but rain has bowed their stems toward its edge. Ressa sees the nearest white curve at shin height and backs to the deep handhold. There is no space to turn with the basket on her chest. She unclips its short strap, sets the basket behind her on the clear stone she has just crossed, and studies the gap. The inner wall has a narrow ledge above the bowed petals. She tests it with the staff, brings her right boot up, and passes facing the wall. Only after both feet stand beyond the flowers does she reach back along the clean path and pull the basket by its strap. Petal, reed, cloth, and skin remain separate.
 
-She repacks the weight. Red mercy and moon hush ride against her back, protected from jolts. Strength and memory go on her hip. She raises her staff and starts upward.
+Beyond the corner, the first gutter drops across the traverse. The pale notch she observed from below now heads a hand-wide stream. Ressa plants the staff in it, lifts the chest basket clear, and steps through. Cold floods one boot. The next slope forces her to climb sideways so the basket on her back does not catch the wall. She can feel red mercy's compartment against her shoulder blade, steady and dry.
 
-The first pale stone holds. The second is slick, as remembered. She tests it twice, shifts her hip basket ahead, and steps with her weight low. At the pine roots she grips the living hook and avoids the dead one. A white petal floats through the fog below her and catches against the rock. She waits until rain washes it down before crossing.
+Daylight thins before she reaches the sloping crack. Ressa kneels on a clear shelf and opens the hooded lamp. Its flame catches blue and immediately angles backward toward the two loads. When she holds it beside her face, it lights the skin cover instead of the path. She extends it ahead on its ring. The pull stretches the blue tongue against the hood, leaving a narrow, wavering light over the crack.
 
-The lent force urges her to hurry. She refuses it.
+It is enough to show the entrance, not enough to solve it. Sharpened recall supplies the line she deliberately followed with her eyes that morning: crack rising left, a dark knot of stone at shoulder height, then a flat hold under the lip. Ressa closes the lamp slit until the blue becomes a thread. She tests the crack with the staff, steps into it, and keeps her chest away from the wall so the front basket clears.
 
-At the first gutter she sets both baskets on a ledge, climbs three body lengths, and hauls them separately with cord. Mud slides beneath her left boot. Her knee strikes stone. The lion's breath lets the leg hold, but pain flashes sharp enough to warn her what the flower has not repaired.
+Halfway up, the lion's breath begins to ebb.
 
-The silver ledger keeps offering details. Dark shelf. Shoulder-high seam. Beetle shells. A notch shaped like a bite, good for the right foot but too shallow for the left. She uses each memory only after the staff confirms rock beneath the fog.
+The change starts in her shoulders. The back basket seems to settle twice its weight against the straps. Then the power in her thighs becomes intermittent, there for one step and absent at the next. The scrape at her ankle throbs inside the wet boot. None of this is new damage delivered by the flower. It is the day's work arriving all at once.
 
-Other memories arrive with the useful ones. Silver ledger does not know kindness.
+Ressa stops with both feet wedged in the crack. The lamp flame strains backward and heats the rim of its hood. She caps it, hooks it to her belt, and waits until her shaking eases. The flat hold under the lip is above her left hand. She remembers its grain; she does not move until her fingers verify the edge.
 
-She remembers the miller's first wife gripping her wrist while red mercy cooled a fever but could not stop the blood leaving her body. She remembers the winter when moon hush gave a burned boy six peaceful hours and his last breath came before waking. She remembers every face she carried into the valley as a cord and carried out again as an untied string.
+One pull brings her onto the high shelf. A second gutter follows, then the broad back of the leaning pine. Here the upper traverse rejoins the home ridge above the opened lace. The ground is safer, though still steep. Ressa lowers the chest basket to her left hip again, tightens its waist cord, and walks between remembered tree trunks while the last borrowed strength drains away.
 
-At the second gutter, she nearly puts her hand into a curtain of rain-heavy leaves. Their sawed edges come clear a finger's width from her skin: glass nettle, not fatal, but its sting would close her hand for hours. She steps back. The sharpened memory supplies the safe hold lower down, a knob of stone she noticed because a snail shell gleamed on it. She probes until her fingers find the knob.
+The boundary stones emerge after full dark. They are only two damp uprights, but the ground between them is level. Ressa crosses with both baskets. No white petal has touched her, her clothes, or the covers.
 
-Halfway across the high slope, daylight thins toward evening. Ressa lights the hooded lamp. Its flame rises blue at once and pulls toward the cut flowers on her back. She holds it high and away, exposing only a narrow slit. Fog shines around her in a small blue chamber. Beyond it, the world is rain and steepness.
+The village lies below another stretch of ordinary path. She takes it in short sections. At each turn she sets the left basket on a wall stone, rests without unstrapping the right, then lifts again. The whole day remains unnaturally near: every heel placement in the valley, every room where a measured flower failed because the wrong damage had already been done. She attends to the next step, the clean covers, the four cords.
 
-The lion's breath begins to ebb at the dark shelf.
+Late evening has closed around the houses when she reaches the fever room.
 
-It goes first from her shoulders. The back basket doubles in weight. Then her thighs start to shake again, not gently now. Every strain the flower allowed her to overrule waits in the muscles. She sits against the rock before the weakness can choose the place for her.
+The hearth is banked under a stone plate. No open lamp stands near the preparation table. Ressa puts the right basket on the table, leaves the left closed beside the wall, and washes her hands. The child lies under a single sheet, cheeks dark with heat, lips damp from recent water. Ressa checks the neck, eyes, pulse, and breathing. The illness is still the common fever she came prepared to treat.
 
-The village is close. She knows because the stone beneath her palm bears three shallow grooves cut by generations of basket rims. Past this shelf, the traverse narrows, turns around a shoulder of rock, and meets the ordinary path above the widow's lace.
+She unwraps one red-mercy bloom. Three of its five petals go into a glazed cup; the other two stay covered for a second measure if the first fails. Water heated over covered coals turns the petals dark. Ressa waits until it will not burn the child's mouth.
 
-Her lamp flame stretches sideways until it licks the metal hood. The flowers are pulling harder as the distance between lamp and back basket shortens. Heat touches her knuckles.
+“How many?” the parent asks.
 
-Ressa caps the lamp. Darkness and fog close together.
+“Three swallows now. Water after.”
 
-She rests until her pulse stops hammering, then moves by contact with stone. Staff forward. Left palm in the long seam. Right foot to the bite-shaped notch. Slide the hip basket. Bring the left foot beside the right. The silver ledger holds the morning's rock under the evening's rain, but she tests every placement. Once, her staff finds empty air where she remembers a shelf. She stops, feels lower, and discovers that runoff has covered it with a thin sheet of moving mud. She scrapes the mud aside before trusting her boot.
+The parent lifts the child while Ressa holds the cup. Three swallows go down. They wait. Ressa keeps one hand at the small wrist and counts through the pulse, again and again. When the child wakes enough to ask for water, the parent moves too quickly.
 
-Around the rock shoulder, a faint white blur hangs at knee height. Widow's lace has climbed higher here than it had in the morning. Ressa backs away until stone presses her spine. She remembers a root above her head, reaches only after the staff finds its trunk, and edges around the bloom with her face turned into the rock. One wet petal brushes the outside of her basket cover.
+“Slowly,” Ressa says. “Two mouthfuls.”
 
-She keeps her weight on the rear foot and does not turn the basket.
+The parent obeys. Sweat begins at the child's hairline. The pulse loses its hard, rapid beat. By the time the covered coals have settled from red to dull gray, the heat beneath Ressa's palm is falling. The fever breaks cleanly, leaving the child limp, damp, and breathing without effort.
 
-The skin cover is whole. The petal has touched no part of her body, but clear moisture gleams on the wax. She cannot carry that surface against herself. Gripping the clean underside with her wooden tongs, she folds the contaminated corner outward and pins it away from her with the point of her knife. The knife goes blade-first into the mud, not its sheath. She leaves it there and moves on.
+The parent sits beside the bed with both hands wrapped around the child's one. Ressa opens the right front compartment, divides one moon-hush flower, and covers one half. She does not put the other half in water yet.
 
-The boundary stones emerge from the fog as darker columns in the dark. Ressa crosses between them with both baskets. Only then does she call.
+“I won't sleep,” the parent says.
 
-Feet answer on the path below. The child's mother arrives first, carrying a shuttered lantern and a blanket. Two neighbors follow. Ressa makes them stop while she explains the folded basket cover. One neighbor takes the clean hip basket. The other cuts the back straps with a sickle, careful never to touch the marked corner. Together they lower the basket onto a door plank and carry it level.
+The adult who has been tending the covered hearth draws the stool to the bedside. “I take the watch until dawn. You wake if the breathing changes.”
 
-Ressa walks behind them. Without the baskets, she should feel light. Instead, every step finds the bottom of her strength.
+Ressa looks at the watcher. “Water every time the child wakes. Nothing else unless you wake me.”
 
-In the child's house, the hearth has been banked under flat stones. This is how the village prepares valley flowers: no bare flame, no hanging lamp near the table. Steam lifts from a pot over the covered coals.
+The watcher nods once and takes the child's free wrist.
 
-The child lies beneath one thin sheet, face bright with fever, breath quick and dry. Ressa washes her hands, checks the whites of the eyes, the color beneath the nails, the stiffness of the neck. Common fever still. Dangerous, but still within the red flower's reach.
+Only then does Ressa steep the half petal. The parent drinks, lies on a pallet within reach of the bed, and is asleep before Ressa covers the remaining moon hush.
 
-She unwraps one mature mercy bloom and tears its petals into a glazed cup. Hot water darkens them from red to brown. She waits until the surface stops steaming, then feeds the child three spoonfuls, pauses, and gives three more.
-
-Nothing happens quickly enough for the mother. She kneels with her hands locked between her knees. Twice she asks whether the dose was strong. Twice Ressa answers, “Strong enough.” A stronger dose would not make the flower faster.
-
-The child's breath eases first. Sweat beads along the hairline. After a while, one small foot pushes free of the sheet. Ressa touches the ankle. The heat is leaving.
-
-The mother makes a sound that is almost a laugh and almost the beginning of weeping. She reaches for the child.
-
-“Let the sweat come,” Ressa says. “You can hold a hand.”
-
-The woman takes the child's hand and bows her head over it.
-
-Ressa prepares half a moon-hush flower in a second cup. The mother refuses it until the neighbor with the lantern settles beside the bed and promises to watch the child's breathing. Then she drinks, grimacing at the bitter water, and lies down on a mat without releasing the small hand. Her eyes close before the cup cools.
-
-The two baskets remain near the door, their compartments not yet sorted. The thatcher has heard Ressa returned. He stands outside, rainwater running from his hair, and asks through the doorway whether she can prepare the remaining lion's breath tonight. Behind him, the old woman with the gray cord waits under a shawl.
-
-Ressa's legs have begun to shake so hard the cups rattle when she stacks them.
+Someone waits in the passage for the strength cord. Another voice asks whether the gray preparation will take long. Ressa closes the left basket without opening either compartment.
 
 “Morning,” she says.
 
-The thatcher looks at the sleeping mother, the damp child, and Ressa's bloodied knee. “Morning,” he agrees.
-
-Ressa lowers herself to the floor before her legs give way.
+She ties the crossed ochre and gray cords over the lid, catches the low stool with both hands, and gets onto it before her knees fold.
