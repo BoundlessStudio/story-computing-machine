@@ -8,332 +8,362 @@ canon: false
 
 # By Tooth and Threshold
 
-The woman on my doorstep said, through the four inches allowed by the security chain, “You opened iron for me. I owe you the closing of it.”
+The knock came while I was trying to persuade one bent tooth on my multitool back into line. Three blows, evenly spaced, hard enough to lift the loose spoons in the draining rack.
 
-Rain ticked against the porch roof behind her. She was soaked from dark hair to unlaced boots, and she kept most of her weight on her left leg. The porch light made the water on her face look colder than it was. Beyond her, the yard sloped into wet grass and then the black wall of trees.
+Rain had already erased the evening beyond my kitchen windows. I left the tool on a towel around the corner from the door, set the security chain, and opened the door as far as the chain allowed.
 
-I had never seen her before.
+A woman stood under the leaking edge of the porch roof. Her hair lay black against her cheeks. One hand gripped the rail, and her left boot touched the boards by the heel alone.
 
-“You have the wrong house,” I said.
+“I owe you a vigil,” she said. “One threshold. Tonight.”
 
-“No.” Her eyes moved from my face to the gap, the chain, and my hand on the door. Pale brown eyes. Steady ones. “Your pliers have a bent tooth now. You used the screwdriver instead. It slipped twice.”
+I kept my shoulder against the door. “We don’t know each other.”
 
-My multitool lay open on the kitchen table behind me because I had spent part of the afternoon trying to straighten that tooth. The steel trap had won the argument.
+“Four nights ago, the third tooth on your narrow plier jaw folded left. You tried the flat driver after that. It slipped off the lower spring twice.”
 
-The rain pushed a wet leaf over her boot. She did not glance down.
+The kitchen table was out of her sight. So was the multitool, and the new bright scar along its driver blade.
 
-I said, “Who told you about that?”
+She watched me measure that fact. Then she said, quieter, “You put your sleeve beside my mouth and whispered, ‘Wait on the hinge. Six breaths. Then move.’ Your voice failed on *six*.”
 
-“You did. Mostly you swore. Then you put your blue sleeve between my teeth and said, ‘Easy, big thing. You can bite me after.’”
+At the campsite there had been no witness who could have repeated those words. There had only been me, a steel trap hidden in leaf mold, and a wolf large enough that its shoulder came nearly to my chest when it finally stood.
 
-The chain gave a small metal sound when my grip shifted.
+I had found it on the second afternoon of a short camping trip, less than a day’s walk into the woods behind my rented house. Its left hind leg was caught above the paw. The trap’s jaws had no rubber pads, no tag, and no business being on public ground. Blood had worked into the chain links. When I crouched, the wolf had lifted its head without wasting strength on a snarl.
 
-Four evenings earlier, I had been coming back to my campsite with an armload of damp wood when I heard something worrying at the ground. It was too heavy a sound for a fox. The wolf had lain in a churned hollow beneath the pines, one hind leg clamped in an old steel trap, its fur blackened with mud and blood. At first I thought it was a dog. Then it raised its head and filled the space between two trees.
+I had wedged my camp hatchet under one spring and attacked the trigger latch with the multitool. The plier tooth bent. The screwdriver slipped. The wolf’s breath struck the sleeve I offered as if cloth could make my arm less breakable. Six breaths later the jaw opened far enough. I tied orange tent cord above the wound because it was the only clean length I had, then loosened it when the paw swelled. The wolf watched every error. When it limped away, it used three legs and never looked tame.
 
-I remembered the yellow of its teeth. More than that, I remembered the restraint. It could have taken my wrist when I knelt. It watched me fight the springs with a tent peg and the ruined multitool, panting against my jacket sleeve, and did not.
+The woman at my door raised her wet trouser cuff.
 
-No one else had been there.
+That orange cord circled her left ankle. Its cut end had the same black, bubbled bead I had made with a cooking lighter. Below it, a fresh bandage covered a deep bruised ring. Four narrow breaks showed where the dressing had shifted, placed exactly where steel had bitten through gray fur.
 
-The woman lifted her right trouser leg.
-
-An orange cord was knotted above her ankle. I knew the uneven melted end where I had cut a guyline from my tent. Beneath it, a clean dressing covered most of a bruised, swollen band of flesh. At the edges were four dark breaks in the skin, spaced like the trap’s jaws.
-
-“I tied that around a wolf.”
-
-“You tied it too loose to stop blood and tight enough to hurt.”
-
-“I was improvising.”
-
-“Badly.”
-
-That sounded so much like the judgment in the animal’s eyes that I unhooked the chain before I had decided to.
-
-The woman stepped back as the door opened. Not far, but deliberately, keeping the sill between us.
-
-“Come inside,” I said. “You’re freezing.”
-
-“I stay here.”
-
-“At least let me look at the wound.”
-
-“No.”
-
-I stared at her. “You came to my house injured, in the rain, talking about a debt.”
+My hand loosened from the door, though I did not remove the chain. “You were the wolf.”
 
 “Yes.”
 
-“But I can’t help you.”
+“You understood me.”
 
-“You already did.” She lowered her trouser leg. “This is the part where I help you.”
+“Enough.” She let the cuff fall. “May I use the porch?”
 
-Somewhere in the gutter, a clot of leaves gave way. Water slapped onto the concrete beside her. She moved half a step clear without taking her eyes from the yard.
-
-I looked past her. Nothing shifted at the tree line, but the woods began close enough that storms carried the smell of wet bark into my kitchen. The house was a rental, small and cheaply fitted, the last one before the road narrowed to gravel. I had liked the privacy until that moment.
-
-“What kind of help?” I asked. “What are you offering?”
-
-“Nothing you can spend.”
-
-“That’s not what debt means.”
-
-“It is where I live.” She glanced toward the trees again. “My blood was at the trap. Yours was not, but your scent was. Your hands, your coat, your camp. I left on three legs. You left carrying blood. My sister found the site before I found her.”
-
-The shape of it came together slowly, because I was still trying to fit this woman over the memory of a huge gray body under the pines.
-
-“Your sister thinks I did that to you.”
-
-“She found iron, my blood, and a human trail. What would you think?”
-
-“That I should call someone.”
-
-“Who?”
-
-I had no answer ready that did not include patrol lights, uniforms, tranquilizer rifles, or explaining why an injured stranger claimed to have been a wolf. I looked toward my phone on the counter anyway.
-
-“Do not call witnesses,” she said. “That is the first condition.”
-
-“Conditions.”
-
-“Three. I stay outside. When she comes, you stay behind the sill. No one else sees me change.”
-
-The last word should have sounded theatrical. In her mouth it was another item, like turn off the porch light or bring a dry towel.
-
-“Change into the wolf.”
-
-“I did not stop being myself when I stood up.” Her annoyance showed for the first time. “But yes. Into that body.”
-
-I thought of the impossible size of the animal. I thought of its injured leg dragging through pine needles after I forced the trap open, and how I had stood there holding my broken tool while it disappeared. I had told myself for four days that it had survived. I had not asked what survival required after it left my sight.
-
-“Why not change now and go find her?”
-
-“Because changing costs heat, the leg will open again, and she is already following your trail. If I miss her in the woods, she reaches you without me.”
-
-“Then do it inside. I’ll close the curtains.”
-
-“Your house smells like you. Your doors lock. If I come out of it, what does she see?”
-
-I looked at the chain hanging against the frame.
-
-“And the wind is wrong,” the woman said. “It carries from her to us. She cannot smell me waiting here until she is close.”
-
-As if to prove it, a gust shouldered rain under the porch roof. She shivered once, violently, and set her jaw.
-
-“You can wait in the kitchen until you hear her.”
+“You need a clinic.”
 
 “No.”
 
-“The porch is part of the house.”
+“At least come in so I can dry that and check whether the swelling—”
 
-“Not to her.”
+“I remain outside.”
 
-That was unreasonable in every ordinary way. I had dry rooms, clean bandages, painkillers, and heat. She had a porch chair with a cracked plastic seat and a roof that leaked at both ends. My mind began sorting improvements before she finished refusing them.
+It was the first refusal, and she gave it the flat finality of a measurement. Rain blew around her calves. Beyond the porch, a narrow yard descended twenty paces to the trees. The same woods continued behind them toward the ridge where I had camped, black now except when water flashed on a leaf.
 
-“I have a weather sheet,” I said. “It’s not shelter. Just something between you and the concrete.”
+“Then tell me what the debt is,” I said. “Money? A favor?”
 
-She considered that. “Put it inside the rail. I need room beyond it.”
+“A correction.”
 
-The permission, small as it was, put me in motion.
+“Of what?”
 
-I turned off the porch light. From the hall closet I brought the folded sheet, a wool blanket, and the first-aid kit. She accepted the sheet and declined the rest. I fetched a bowl of water and set it where she pointed, close to the wall. Plain bread earned another brief nod. When I reached for the blood-stiffened camping jacket hanging beside the door, she stopped me.
+“My older sister found the trap.”
 
-“Leave it.”
+The woman looked past me, not into the house but at the blood-marked jacket hanging just inside the hall. I had worn it while I freed the wolf, then packed my camp and walked home along the service trail the following morning. I had meant to wash it. Instead I had hung it by the door while I decided whether the dried brown along one sleeve might matter to whoever investigated an illegal trap. No one had returned either of my calls.
 
-“It’s inside.”
+“She found my blood in the circle,” the woman continued. “Steel. Your boot marks. Your hands and jacket over my scent. A human trail leading away.”
 
-“Its scent is already here. Moving it spreads the line.”
+“Leading here.”
 
-The jacket had a torn blue cuff and a brown smear across the sleeve. I had kept it out of the wash because some foolish part of me wanted evidence that the weekend had happened as I remembered. Now it seemed to fill the hallway with the smell of cold iron.
+“She is following it.”
 
-She lowered herself onto the folded sheet with her back to the porch post. I stayed in the open doorway until she looked at my bare feet and then at the sill.
+I reached for the chain.
 
-“The rule is for when my sister comes,” I said.
+“Not to close the door,” she said.
 
-“Practice.”
+“To get my phone.”
 
-I stepped back into the kitchen.
+“No witnesses.”
 
-For the next hour, rain thickened the dark and we waited on opposite sides of a strip of wood.
+“If a wolf is tracking my house, I can call wildlife control without mentioning any of this.”
 
-The arrangement felt absurdly domestic. I made tea. She ate half a slice of bread in careful bites. I kept finding reasons to approach the door: another towel, a better dressing, a chair that would let her raise her ankle. Each offer met the same answer.
+“Then strangers arrive carrying cages and rifles. My sister sees them at the end of my blood trail.”
+
+My fingers stopped on the metal slide. “She thinks I set the trap.”
+
+“Or took me after it caught me. She does not know whether I am captive or dead. She knows I did not come home.”
+
+“Why didn’t you?”
+
+The grip of her hand tightened on the rail. “I could not find her before she found the blood. I crossed her track twice. She is casting across your trail. I came straight.”
+
+Her soaked coat trembled against her ribs. She looked exhausted, but not lost. Every part of her attention pointed toward the yard.
+
+“If I walk back with you,” I said, “we can meet her away from the house.”
+
+“You walk nowhere.”
+
+“I have a brighter light than whatever you brought. I can show her I’m not—”
+
+“She does not need your explanation.”
+
+“What does she need?”
+
+“My scent. The injury carried in my body. A clear view that I stand here by choice.” She nodded at the sill between us. “That is what I owe you: I stop the danger my survival brought to your door.”
+
+No wish. No service I could save for later. She had not come to reward me or promise that the woods would favor me. She had come because another body, acting on reasonable evidence, might tear through my door before hearing a human defense.
+
+“One vigil,” I said.
+
+“Until she sees and leaves. Then it is paid.”
+
+“And if she doesn’t leave?”
+
+“Then I have failed, and you close the door.”
+
+I looked down at the chain still bridging its small gap. “Give me the plan.”
+
+“Three conditions. I stay outside. When she reaches the yard, you stay behind this sill. No one else sees me change.”
+
+“You’ll change here?”
+
+“Before she arrives.”
+
+The direct answer left no useful space for disbelief. I had the cord, the wound, the tool tooth, and the sentence whispered with my mouth inches from a wolf’s ear. Mystery had become a practical problem.
+
+I unhooked the chain and opened the door. She moved backward at once, preserving the sill between us.
+
+“The kitchen is warmer,” I said. “You could wait inside and step out when you hear her.”
+
+“A locked human room on the end of a blood trail looks like a locked human room.”
+
+“I can leave the door open.”
+
+“Your walls carry your scent. I need her to see where I chose to wait.”
+
+Wind drove a sheet of rain from the trees across the yard and under the porch roof. It pushed against her back and spat drops onto my kitchen floor. She angled her face to it.
+
+“Wrong direction,” she said.
+
+The woods were upwind. Anything on the porch streamed toward the house, away from a searcher approaching through the trees. Her sister would have to come close before she caught the woman’s scent over the blood on my jacket.
+
+I found a rubber doorstop and wedged the door open. The porch was six boards deep, with steps straight down to the yard and a solid lower rail on either side. A narrow fixed window filled the wall beside the door. The driveway curved away to the left. To the right, two wet shrubs hid most of the next house’s unlit windows.
+
+“Porch light off,” she said. “Road curtains shut.”
+
+I did both. “I have a tarp. Dry clothes. Bandages.”
+
+“Tarp.”
+
+“A chair so you can raise your leg?”
 
 “No.”
 
-After the fourth, she added, “You do not become more helpful by asking faster.”
+“Water?”
 
-“I’m not asking faster.”
+She pointed to the outer corner by the rail, three full boards from the sill. “There.”
 
-“You are bringing the questions in your hands.”
+I filled a metal mixing bowl. When I bent to set it where she had indicated, she stepped aside and waited until I was back in the kitchen before taking my place near the post.
 
-I was holding the first-aid kit again. I put it down.
+“Food matters if changing costs energy,” I said.
 
-She almost smiled, or the porch shadows changed around her mouth.
+“Bread. Salt. Nothing cooked now.”
 
-The rain made conversation difficult enough that silence could pass without apology. I sat on the kitchen floor with my back against a cabinet, where I could see the pale wedge of her face and one hand resting over the injured ankle. Whenever a car moved on the distant paved road, I lifted my head. She did not. Twice she turned toward sounds I never heard.
+That answer sent me to the cupboard instead of into another argument. I slid half a loaf and the saltcellar across the boards with a broom. She caught the loaf before rain reached it, tore off two pieces, and salted them with careful pinches. Her hands were scraped across the knuckles. They were human hands, chilled and unsteady, belonging to the same person who had kept enormous teeth away from my wrist while I worked.
 
-“Is this what you do?” I asked eventually. “Pay people back?”
+I brought the first-aid box anyway.
 
-“When our trouble follows us to their door.”
+“Inside,” she said.
 
-“Our?”
+“The bandage is wet through.”
 
-“My family.”
+“It comes off before I change.”
 
-“How many of you are there?”
+“If the wound opens—”
 
-She gave me a flat look.
+“It will.”
 
-“Right. Not helpful.”
+“Then pressure, clean cloth, something.”
 
-“Not yours.”
+“After my sister reads it.”
 
-There were a hundred questions crowded behind that answer. Whether she had been born able to change. Whether moonlight mattered. Whether the trap had been set for her. Whether the people who had set it knew what they were catching. She had brought danger to my house and an impossible truth to my porch, but neither gave me a key to the rest of her life.
+She took another bite of bread. The discussion was over, but my hand stayed on the box.
 
-I chose a smaller question. “Does it always hurt?”
+“You keep solving the next injury,” she said. “Solve this hour.”
 
-“Changing? No. The trap hurts.”
+I set the box beside my heel, inside the sill.
 
-“But it costs heat.”
+For a while, the work was only waiting. Rain rattled over the shallow roof and ran down one porch post in a twisting rope. The woman sat on the tarp with her left shoulder against the rail, left leg straight, gaze moving between the tree line and the driveway. I sat on the kitchen floor. The open gap brought in the odors of wet soil, old porch paint, and the iron trace of my jacket.
 
-“So does swimming. People still like water.” She shifted her leg, breath hissing between her teeth. “In better circumstances, running is worth being cold afterward.”
+Each sound made me inventory a tool. The fireplace poker could extend my reach. The broom could pull the door shut. My car keys could put distance between the house and whatever came out of the trees. The woman ignored the poker when I placed it near my chair and stopped me when I picked up the keys.
 
-“If this works, what happens?”
+“Driving spreads the jacket trail,” she said.
 
-“She leaves. I wait for the wind to carry the right answer after her, or until the trail goes cold enough that it no longer matters. Then I leave.” She nodded toward the jacket. “Afterward, wash the porch with cold water and seal that before you carry it through the house. Do not follow me.”
+“I’d seal it first.”
 
-“I wasn’t planning to.”
+“After I leave. Seal it where it hangs. Moving it now makes a new line through the house.”
 
-“You plan very quickly when someone limps.”
+“So I leave the thing that led her here hanging beside my head.”
 
-A gust sent a branch scraping along the porch rail. She stilled midway through the movement. Her head turned, not toward the branch but toward the yard.
+“Yes.”
 
-“What?” I whispered.
+“That’s difficult advice to like.”
 
-She raised one finger.
+“It only needs doing.”
 
-I listened until the rain separated into its pieces: gutter drip, roof hiss, tires far away, water ticking in the downspout. Beneath it came a faint click from the trees, like two stones touched together once.
+A harder gust flung rain onto the narrow window. The woman turned her face into it, listening past the noise.
 
-The woman pushed herself upright against the post.
+I asked, “How far?”
 
-“Now?”
+“Not near enough.”
 
-“Soon.” Her voice had shortened with pain. “Close the inner door to the chain’s width. Stay where she can see the room behind you. No sudden lights.”
+“You can hear her?”
 
-She stripped off her wet coat and folded it on the weather sheet. Her sweater and shirt followed. I turned my face aside.
+“I hear what she disturbs.”
 
-“You will need to watch when I am done,” she said. “Before that is only courtesy.”
+I waited for an explanation. None came.
 
-Fabric rustled. A boot dropped softly. She told me to take the orange cord, then snapped the word back when I stepped toward her.
+“Does your leg change with the rest of you?” I asked.
 
-“No. I will.”
+“Same wound. Left hind.”
 
-Balanced against the rail, she unwound it herself and placed it over her folded clothes. The dressing beneath had spotted through. I could see her fingers trembling.
+“Same person?”
 
-“The blanket,” I said.
+Her eyes shifted to me. “Who else would pay my debt?”
 
-“Leave it inside.”
+There was no invitation in the answer. I let the questions about birth, moons, and how many people could do what she did stay unasked.
 
-“You just said you lose heat.”
+“Will it heal better one way?”
+
+“Human, tonight. Changing will cost heat and open it. Changing back would cost more. I will leave on four legs before dawn.”
+
+“I could drive you afterward.”
+
+“No.”
+
+“Carry your clothes, then.”
+
+“No.”
+
+“Follow at a distance in case—”
+
+“No second favor.”
+
+The words were quiet. They altered the shape of morning more cleanly than any threat could have. I leaned back against the cabinet.
+
+On the counter lay the paper where I had written the trap’s location and the numbers I had called. A length of its chain had vanished under the leaves, perhaps toward another anchor, perhaps toward more iron. I told her that.
+
+“Not this debt,” she said.
+
+“I’m not asking you to deal with it.”
+
+“Good.” Her head turned sharply toward the trees. “Now be quiet.”
+
+Nothing moved at first. Then a loose stone clicked at the far edge of the yard. A second click followed from closer in, too deliberate to be runoff.
+
+The woman got upright using the porch post. Her left knee shook once and locked.
+
+“Close the door to the chain’s length,” she said. “Do not set the chain. Keep your hands visible. When I go down the steps, remain behind the sill.”
+
+“If you fall?”
+
+“Remain.”
+
+“If she charges?”
+
+“Close the door.”
+
+“If you start bleeding badly?”
+
+“Remain.”
+
+Each answer took an option away from me. She waited until I drew the door almost shut and stood on the kitchen side of the sill.
+
+I passed her a waterproof gear bag at her direction. Behind the solid rail, hidden from the road, she removed her coat and rolled it tight. Boots, trousers, and the rest followed while I faced into the kitchen. She told me when I could turn. Wrapped in the tarp, she sat with the bag open beside her. The bandage had come off her left ankle. She unwound the orange cord herself and put both cord and dressing into the bag, then folded her clothes over them and cinched the handles into a knot she could grip with her teeth.
+
+The wound made a broken dark ring around her ankle. Fresh blood welled from one of the deeper points.
+
+“Clean cloth is two feet away,” I said.
 
 “After.”
 
-She crouched behind the solid lower half of the porch rail. There was no flash and no merciful instant. Her outline folded, held, and pressed outward. Breath came from her in low, measured bursts. The storm-door glass whitened from the edges inward, filmed by condensation on its outside surface although rain had chilled the pane. I wiped it with my sleeve before water could gather and run into the frame.
+“At least take the blanket under you.”
 
-“Windows,” she said thickly from below the rail. It was almost a laugh. “Always windows.”
+“Keep it inside.”
 
-Then words became a rough exhalation.
+She unwrapped the tarp and spread it flat beneath her, then braced one hand on the porch boards and drew several deliberate breaths. “The window will film. Wipe the inside before it runs into the frame. It means heat, nothing else.”
 
-The rail hid most of what happened. I saw a hand brace against the concrete, fingers tightening, and then a broad paw slide into its place. Wet gray fur rose above the boards. The folded sheet crackled under a weight far greater than the woman’s body had promised. When she stood, the porch became too small.
+Then she chose to change.
 
-Her shoulders came nearly to the top of the rail. Mud-dark fur thickened around her neck; her right hind leg hovered above the concrete. The dressing had fallen loose beside her clothes. Under the porch’s dim spill of kitchen light, the trap marks showed through the fur as angry gaps in a swollen ring.
+There was no break in which the woman vanished and an animal arrived. Her back bowed. Muscle gathered and shifted under skin as her body pressed into another proportion. Her breath went ragged, steadied, and went ragged again. The boards complained under increasing weight. Gray fur darkened along her shoulders. A hand splayed beside the bag, fingers straining; a broad forepaw occupied the same place when I blinked rain from my eyes.
 
-She looked at me with the same pale brown eyes. The color matched, and so did the patience. At the campsite, pain had reduced the world to iron, blood, and the stranger kneeling too close. Still, she had waited while my hands fumbled. Now she waited for me to understand what I was seeing.
+The narrow window whitened from the outer edges inward. Condensation clouded its inside face despite the cold. I wiped it with the towel I had kept in the kitchen, chasing beads away from the wooden frame while her shape rose behind the blur.
 
-“All right,” I whispered.
+When the glass cleared, the wolf from the trap filled the outer half of my porch.
 
-Her ears tipped toward the trees.
+Her head stood level with my chest. Damp gray fur framed pale brown eyes that fixed first on me, then on the sill at my feet. Her left hind leg remained lifted. Where the human ankle had bled, the same broken circle showed through thinner fur above the paw. She checked the yard, the bag, and the distance to the bowl in the order the woman had prepared them.
 
-The second click came from the yard, closer than before.
+Heat rolled faintly through the door gap. A tremor traveled from her shoulders to her ribs. The change had spent what she said it would spend.
 
-She moved down the porch steps. On level ground, her limp became more severe. She set the injured paw down only long enough to balance, then lifted it. Rain silvered her back. She stopped halfway between the house and the trees, broadside to me, facing the dark.
+I reached for the blanket.
 
-At first I thought a bush at the edge of the yard was bowing under the water. Then it separated from the tree line.
+Her upper lip tightened.
 
-The second wolf was darker and a little smaller, though that still made her larger than any wolf I had seen outside old museum photographs. She stood with her head low and her forelegs apart. Water ran from her muzzle. She stared past the injured wolf at the open door, the kitchen behind me, and the jacket on its hook.
+I left it on the floor.
 
-No growl reached me. The quiet was worse. It seemed to pull the whole yard tight.
+She took the bag by its knotted handles and placed it against the outer rail. Then she descended the three porch steps, using the wall side for balance. At the bottom, she paused with her body between the open door and the trees.
 
-The injured wolf took one step toward her sister, then another. She placed herself directly between the dark wolf and the house.
+The wind still blew toward me. Rain stippled the yard beyond her. For several seconds there was only gray grass and the vertical dark of trunks.
 
-Her bad leg touched down on slick grass. It folded.
+Then a second wolf stepped out of the woods.
 
-She hit the ground hard enough that I heard it over the rain.
+She was darker, longer through the body, and uninjured. Her head stayed low as she entered the yard. Water streamed from her coat. She looked at the blood on the injured wolf’s hind leg, then beyond her at my door.
 
-I already had the blanket in my hands. I do not remember picking it up. One moment it lay on the chair; the next I was across the sill, opening it as I went.
+The dark wolf’s attention landed on me with physical weight. Her front paws spread. Her nose lifted once, testing a wind that offered her almost nothing from the porch.
 
-The dark wolf dropped lower. Her weight shifted forward.
+The injured wolf advanced. Three steady steps, then a fourth on the bad leg. That paw slid in wet grass. Her hip struck the ground, and the impact tore a short sound from her throat.
 
-The injured wolf twisted on the ground and bared her teeth at me.
+I had the blanket before thought caught up. I crossed the sill, shoved the door wide, and reached the top porch step with the wool opening between my hands.
 
-They were the teeth I had put my arm beside in the woods. Close enough now to show the dark line of her gums. The warning came from deep in her chest, one hard vibration that I felt through my bare feet on the porch.
+The dark wolf hardened. Her shoulders lowered and her weight moved forward.
 
-I stopped.
+The injured wolf twisted toward me.
 
-Every useful impulse in me shouted the same facts: she had fallen; she was bleeding; I had a blanket; I could reach her in three strides. None of those facts changed what she had told me.
+Her teeth appeared all at once. Not the controlled glimpse I remembered beside the trap, but a full white barrier aimed at my hands. A growl drove through the porch boards. Her body hurt; the blanket was dry; I could cover the distance in two steps. She showed me what mattered more plainly than speech had managed.
 
-I stepped backward over the sill.
+I backed up.
 
-The dark wolf held her crouch. I put the blanket down. I let my hands hang empty at my sides and made myself still.
+The door frame touched my shoulder. I crossed the sill backward, lowered the blanket onto the kitchen floor, and let both hands hang open where the yard could see them.
 
-The injured wolf watched until I was fully inside. Only then did she turn away from me.
+The injured wolf kept her teeth bare until both my feet were inside. Then she turned to her sister.
 
-Her sister crossed the yard in a slow curve. She did not rush. She came close enough to touch noses, withdrew, then circled the injured wolf with quick, searching breaths. At the hurt leg she stopped. Her muzzle hovered over the trap marks. A sound passed between them too low for me to separate from the rain.
+I did nothing.
 
-The injured wolf stood through the inspection. When her leg shook, she widened her stance rather than look back at me.
+The dark wolf came forward in a curve, ready to change direction. She touched noses with her sister for less than a breath and began to circle. Her muzzle passed over the injured wolf’s face, chest, flanks, and finally the torn ring on the left hind leg. At the wound she stopped. She smelled the blood without touching it, then traced the injured wolf’s trail back toward the steps.
 
-The dark wolf moved past her toward the porch.
+The injured wolf rose. Her leg buckled again. I felt my weight shift and made it stop at my heels.
 
-Three yards away, she caught the jacket’s scent. Her lips lifted. I saw the blunt shine of her teeth and kept my hands empty. She approached until her forepaws reached the patch of grass below the steps.
+Her sister climbed the first step. The blood on my jacket hung a few feet from her nose now. Her lips drew back. She smelled the porch boards where the woman had waited, the bread crumbs, and the damp patch where the removed dressing had rested before the woman packed it. She looked through the door at my empty hands.
 
-The injured wolf limped between us again.
+The injured wolf could have followed her sister toward the woods. Instead she limped past the dark wolf and returned to the foot of the porch. She stood facing my threshold, leaving the wound exposed behind her. No chain held her. Nothing blocked the yard.
 
-This time she did not face her sister. She faced the house. Her body left the dark wolf a clear view of the wound, the porch, and the strip of floor where I stood behind the sill. She could have come toward me. She could have left with her sister. She did neither.
+The dark wolf pressed her muzzle hard into her sister’s shoulder, urging sideways. The injured wolf yielded one step, recovered it, and stood again between the house and the woods.
 
-The dark wolf tested the air that the wind kept carrying the wrong way. She stepped sideways, seeking another angle. Her nose passed over the concrete where the woman’s wet boots had rested, the bread she had eaten, the dressing she had removed herself. She climbed one porch step, stopped, and looked at me.
+I kept still.
 
-I thought of the trap under the pines. Rust under leaf litter. A chain fixed where an animal strong enough to bend my tent peg could spend itself against a circle of dirt. If the dark wolf believed I had done that, restraint was costing her something too.
+Rain gathered at my hairline through the open doorway and crawled down the back of my neck. The first-aid box waited beside my foot. Blood darkened the fur above the injured paw. Every object in reach proposed an action. I let the proposals pass.
 
-I did not reach for the chain or the door.
+The dark wolf inspected the left leg once more. She sniffed along her sister’s flank, then the ground between the fall and the porch. Whatever she found there did not make her gentle. Her ears remained flat when she looked at me. She had not revised a judgment about humans. She had only acquired the missing piece of this one trail.
 
-After a long moment, she stepped down.
+At last she stepped down from the porch.
 
-The sisters touched muzzles once more. The dark wolf pressed her nose against the injured one’s shoulder, firm enough to move her fur, then backed away. There was no softening that I could read, no gratitude directed at the house. She looked at me one last time as if setting my shape aside for later judgment.
+She moved backward toward the trees, watching her sister. The injured wolf did not go with her. At the edge of the yard, the dark wolf turned. A few wet branches shook after her, and then the woods held their shape again.
 
-Then she turned and crossed the yard. The trees took her without drama. Wet branches moved, a shadow passed between two trunks, and there was only rain.
+The injured wolf waited until the last small disturbance had traveled away. Only then did she climb the steps. She collected her clothes bag in her teeth and dragged it closer to the outer corner. The metal water bowl remained where she had chosen it, three boards from the sill. She drank for a long time, raised her head to listen, then settled beside the rail without asking for the blanket.
 
-The injured wolf remained facing the woods until even she could hear nothing more.
+Her sister had left. By the woman’s own measure, the debt was paid.
 
-I waited.
+I kept the door open to the same narrow gap. The chain hung slack. Once I reached toward the first-aid box, and the wolf looked from my hand to the sill. I drew my hand back. She lowered her head onto her forepaws.
 
-At last she climbed the porch steps. Each one took planning. At the top she nudged the water bowl away from the wall, drank, and settled on the weather sheet beside her folded clothes. When I lifted the blanket, she fixed me with one eye.
+Sometime after midnight, the rain softened. The wind turned by degrees until it moved from the house across the yard. The wolf lifted her muzzle as the air carried the porch’s mingled scents toward the woods: her body alive, my jacket untouched, the two of us on opposite sides of the line she had set.
 
-“May I?” I asked.
+She slept in brief stretches. I did not. Before the sky began to pale, she stood and tested the injured leg. It held for two steps, failed on the third, and held again. She took the knotted clothes bag in her mouth.
 
-She looked away toward the yard.
+I wanted to offer the blanket, the flashlight, my car, my shoulder, one more look at the wound. The available words were only tools she had already declined. I stayed behind the sill.
 
-That was not yes. I put it within reach instead. Several minutes later she hooked an edge with her teeth, pulled it across her forelegs, and rested her muzzle on the wool.
+The wolf crossed the yard without looking back. She paused once at the tree line to adjust the bag in her teeth, then passed between the wet trunks. No sound promised a return.
 
-We kept the threshold that way for the rest of the night: her outside, me inside, the inner door open to the chain’s width though the chain itself hung loose. Once, near three in the morning, the wind turned. It moved from the porch toward the trees and lifted the fur along her shoulders. She raised her head and smelled the corrected trail going out into the dark.
+The paper with the trap’s location still waited on my counter. My two calls remained unanswered. Somewhere beyond the rain, the trap’s chain still ran under the leaves.
 
-Near dawn, she rose. The wound had stiffened while she slept, and she held the leg clear of the floor. Her clothes remained folded on the sheet with the orange cord laid across them. She nosed the bundle once, then looked at me.
-
-“I can keep those,” I said. “If that helps.”
-
-Her ears shifted forward.
-
-“No chasing you down the road with lost property. Understood.”
-
-She stepped off the porch. At the edge of the yard, gray morning blurred her into the rain. She did not look back.
-
-When she was gone, I shut the door. The chain swung against the frame, unused.
-
-I washed the concrete, wrung out the weather sheet, and put her folded clothes in a lidded box. Last came my camping jacket. I folded the bloodied sleeve inward, sealed it in an ordinary plastic storage bin, and carried it no farther than the hall closet.
+I shut the door. I folded the blood-marked sleeve of my camping jacket inward without carrying it farther through the house. An ordinary storage bin fit beneath the hall bench. I put the jacket inside, pressed the lid down until each latch clicked, and left the security chain hanging free.
