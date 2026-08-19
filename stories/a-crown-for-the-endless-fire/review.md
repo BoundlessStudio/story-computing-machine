@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Maelka | new | No exact or alias reuse found; the form remains distinguishable from legacy Mae, Malko Durev, and Melek. |
 | Temba | new | No exact, alias, close-spelling, or confusing semantic reuse found. |
+| Maelka | new | No exact or alias reuse found; the form remains distinguishable from legacy Mae, Malko Durev, and Melek. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The story names no place proper noun; its mountain, bridge, passages, chambers, and stair remain unnamed local features. |
+| None | none | The story contains no story-facing place proper noun. |
 
 ## Continuity
 
@@ -21,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The required barred-passage confrontation is explicit and sustained: Temba is identified as a man, Maelka actively denies him the one-person-wide bridge, and the attack, bridge drop, and rescue decisively resolve his crossing in original language and action. The map case's danger, candle count, bridge geometry, injuries, equipment losses, and Maelka's protective logic remain coherent; her apparent power stays intentionally uncertain. The unnamed fire, glass bloom, and crown establish no unsupported connection to another canonical system, and no material prospective-craft conflict remains.
+- Notes: The encounter resolves through an earned two-way crossing while preserving the endless fire's mystery. Temba's estimate-first phrasing and Maelka's terse procedural corrections remain distinct through the decisive crown transfer and final calls, and their reports change immediate action rather than explain action already complete. The unnamed mountain, fire, glass bloom, and antler crown remain bounded local features with no asserted link to established places or systems; bridge geometry, timing, equipment failure, and the opposite crossings remain coherent.
