@@ -8,310 +8,264 @@ canon: false
 
 # Not Friday
 
-The apartment door clicked shut behind Yasmin, and Omar said, “Bro, just trust me. She likes you.”
+The apartment door had barely latched behind Yasmin when Omar said, “Bro, just trust me. She likes you.”
 
-Kian kept his attention on the bowl he was carrying to the kitchen. Three curled chips and a drift of salt moved across the bottom with each step. “You said that about the last four girls, and—”
+Kian kept gathering glasses from the coffee table. If he looked busy enough, perhaps the sentence would have to wait its turn. “You said that about the last four women, and—”
 
-“Shut up. I wasn’t wrong about the last four.” Omar intercepted the bowl, dumped its contents into the bin, and shoved it back into Kian’s hands as if returning a serve. “They didn’t leave because you misinterpreted signals. They left because you waited six-plus months to be a man. Now ask her out before she gets tired of you.”
+“Shut up. I wasn’t wrong about the last four.” Omar caught the stack of coasters before Kian could add those too. “They didn’t leave because you misinterpreted signals. They left because you waited six-plus months to be a man. Now ask her out before she gets tired of you.”
 
-In the living room, the game they had abandoned was still spread across the coffee table: bright cardboard territories, neat piles of wooden pieces, four glasses making wet rings among them. Yasmin’s chair sat angled away from the table. She had been the first to notice the time, the first to stand, and the only person who had put her glass in the sink.
+The remains of game night covered the room: cards in uneven piles, wooden markers beneath the sofa, a bowl holding one broken pretzel. Thursday games had begun when the three of them were twenty-seven. Now all of them were past thirty, Omar had his own apartment and a cupboard full of games nobody else understood, and Kian still knew how to make clearing three glasses look like urgent work.
 
-“That is an incredibly stupid definition of being a man,” Kian said.
+“That may be the worst definition of being a man I’ve ever heard,” Kian said.
 
-“Fine. Be a fern. Just be a fern who asks Yasmin to dinner.”
+“Fine. Forget being a man. Act like an adult with a functioning mouth.”
 
-Kian took out his phone. No new message waited on the screen. He put it away. “She has a bus.”
+“I am cleaning.”
 
-“She has nine minutes before the bus.”
+“You are hiding behind drinkware.” Omar took two of the glasses from him and put them back on the table. “She asked you to walk down with her. You chose my sticky bowls.”
 
-“Why do you know that?”
+Yasmin had stood by the door winding a green scarf around her neck. There was a bakery near her stop, she had said, still open for another half hour. Did Kian want to walk with her and split something? He had looked at the crowded table and told her he should help Omar clean. She had nodded once, said good night to both of them, and left.
 
-“Because she said, ‘I have nine minutes before the bus.’ You were busy pretending to study the board after she squeezed your shoulder.”
+At the time, cleaning had seemed like the considerate answer. The evening was over. Omar had hosted. Yasmin needed to catch her bus. Kian could always ask her about the bakery another night, when he had time to choose the wording.
 
-“She squeezes everyone’s shoulder.”
+“She wanted a pastry,” he said.
 
-Omar looked toward his own shoulder, apparently reviewing the evidence available there. “No. Continue, though. I love watching a defense attorney ruin his career.”
+“With you.”
 
-Kian set the bowl in the sink. He had spent most of the evening noticing Yasmin without looking directly at her: the small crease between her eyebrows whenever Omar invented a rule, the ink smudge on the side of her hand, the way she laughed before she tried to hide it when Kian made a terrible move on purpose. Or mostly on purpose. Noticing was safe. Noticing asked nothing of anybody.
+“Those are two compatible facts. They are not necessarily one fact.”
 
-“The last four,” Omar said, ticking them off on his fingers. “The woman who invited you to a wedding and clarified twice that she had one hotel room. The woman who sent you apartment listings in her neighborhood.”
+Omar stared at him. “This. This is why your romantic history looks like a train schedule after a cancellation.”
 
-“Her rent was going up.”
+Kian carried the remaining glass toward the kitchen. Omar followed close enough to make escape impossible.
 
-“The one who held your hand through an entire bad movie.”
+“The last four,” Kian said, rinsing a crescent of foam from the glass. “You cannot keep citing them as proof. One asked me to a wedding because she needed a guest. One wanted help finding an apartment. One shared her popcorn during a film. One asked a hypothetical question.”
 
-“She was scared.”
+“One told you there would be one bed at the hotel. One sent you listings in her neighborhood and asked if you wanted to live five minutes away. One held your hand through a comedy. And the hypothetical was, ‘Would you ever date me if I asked?’” Omar planted both hands on the counter. “You waited seven months, six months, eight months, and almost a year. Then every one of them met somebody who answered a question before it fossilized.”
 
-“It was a comedy. And the one who asked if you’d ever date someone exactly like her.”
+There were corrections Kian could make. The hotel had contained a foldout chair. The apartment listings had come during a citywide rise in rent. The woman at the film had startled easily, though the film had not given her much reason. The hypothetical had arrived after two drinks and therefore belonged in a separate evidentiary category.
 
-Kian dried his hands on the dish towel, although they were not wet. “Exactly like her could mean a category.”
+He also remembered the final conversations. None had accused him of cruelty. They had said things like *I assumed you weren’t interested* and *I stopped waiting to find out*. At the time, their calmness had confirmed his belief that he had avoided doing harm. Only later had he wondered whether their calmness meant they had finished the difficult part without him.
 
-Omar’s mouth fell open. For once, no insult arrived. He dragged both palms down his face instead.
+Omar pointed toward the door. “Yasmin is doing the same thing. Six months of coffee, exhibits, errands, those terrible little sandwiches you both pretend are good—”
 
-Those four women had not vanished in one dramatic migration. They had simply stopped offering chances for him to classify. One met someone. One moved. One became a friend who now sent him cheerful messages about the person she planned to marry. One had told him, with extraordinary kindness, that she had assumed he was not interested and had adjusted accordingly. Omar counted all four as victories for his own perception and defeats for Kian’s timing. Kian counted them as situations in which he had successfully avoided making a woman uncomfortable.
+“Seven months,” Kian said, and regretted it at once.
 
-Lately, that count felt less honest.
+“Thank you for entering the winning statistic into evidence.”
 
-“Nine minutes,” Omar said. “Probably eight now.”
+“You don’t know what she wants.”
 
-Kian looked at the door. His stomach tightened so abruptly that it felt as if he had missed a stair.
+“No, I don’t.” Omar’s answer came so quickly that Kian looked up. “I think I do. I would bet a painful amount of money on it. But I could be wrong about her. That is why you ask her instead of waiting for me to become a certified prophet.”
 
-Omar slapped the dish towel over his shoulder. “Go.”
+Kian dried the glass. The towel rasped around and around the same spot.
 
-“If this goes badly, you’re not allowed to say anything about it.”
+Yasmin’s bus came every twenty minutes at this hour. She had said she had eleven minutes when she left. He could send a message. A message would let her answer privately and give him time to remove every phrase that might sound presumptuous. It would also let him write something so qualified she could not tell whether he meant a date, which was less a risk than a certainty.
 
-“If this goes badly, I’ll bring food and say nothing for an entire evening.”
+Omar checked the clock above the stove. “Nine minutes.”
 
-“You can’t do that.”
+“Stop counting.”
 
-“I’ll bring enough food that it won’t matter.”
+“Then move.”
 
-Kian listened for footsteps in the hall, though Yasmin was already several floors below. He could stay. He could send her a message tomorrow, after selecting each word for maximum reversibility. He could ask whether she wanted coffee, which they had done twice in the past month, or whether she wanted to visit the second half of the gallery they had not finished, or whether she needed company while buying the lamp she had mentioned. There were dozens of ways to spend time with Yasmin without admitting why he wanted it.
+“If she says no, you do not get to tell me you were still right.”
 
-He put on his shoes.
+Omar’s mouth tightened. The competitive answer gathered there, then did not come. “If she says no, I was wrong. You come back, we put the pieces away, and I don’t make it about my record.”
 
-“Okay,” he said. “I am going for it.”
+That promise, more than the boasts, pushed Kian from the counter. He jammed his feet into his shoes and got the right one only halfway on before standing.
 
-“That sounded like a hostage statement.”
+“Okay,” he said. His pulse seemed to have moved into his throat. “I am going for it.”
 
-“Good night, Omar.”
+“Coat.”
 
-The lift was on another floor. Kian took the stairs, moving fast enough to make confidence briefly indistinguishable from gravity.
+Kian had already opened the door. “No time.”
 
-On the first landing he tried, *I think we both know there’s something here.* It sounded assured, which was the quality Omar valued. It also assigned Yasmin a conclusion before she had spoken.
+The lift display showed the car six floors above. Kian took the stairs.
 
-On the second landing: *Omar thinks we should go out.* That had the advantage of being true and the disadvantage of making Omar sound like the person requesting the date.
+On the first landing, he tried to build a question that would be unmistakable but not forceful. On the second, he added an assurance that their friendship would be unchanged. By the third, that assurance had acquired three exceptions and an offer never to mention the subject again. Halfway down the fourth flight, he heard himself rehearsing *only if you have independently considered the possibility*, lost his footing, and caught the rail hard enough to sting his palm.
 
-By the third, he had reached *Would you maybe want to do something sometime?* This one asked nothing they had not already done.
+He stopped. The stairwell smelled of dust and somebody’s fried onions. Through the narrow window in the landing door, the city was a set of lit rectangles and passing headlights. Omar’s confidence had carried him as far as the stairs. It had not supplied a usable sentence.
 
-He pushed through the lobby door into the cool night. Across the road, past two parked cars and a bare-limbed street tree, Yasmin stood beneath the bus shelter’s flat roof. The illuminated panel at one end gave her coat a pale blue edge. She was looking down the road, not at her phone.
+Kian pushed through the lobby and into the cold.
 
-Kian waited for the signal, crossed, and had time to remember the coffee she had suggested after everyone else canceled. She had arrived with a book and never opened it. The lamp had taken twenty minutes to choose; afterward she had proposed dinner, and he had texted the group to see who wanted to join. At the gallery she had touched his sleeve and said, *We should come back, just us.* He had answered that quieter days were better for everybody.
+The bus shelter stood two blocks away on the far side of the road. Yasmin was already beyond the first intersection, the green scarf visible between parked cars. Kian walked quickly but did not call out. He could not ask her from half a block behind and make her turn in the dark to see who was following. At the next light he crossed, cut along the wider pavement by the closed shops, and reached the shelter while she was reading the route display.
 
-Each memory had once seemed inconclusive alone. Together, they did not become consent, or a promise, or even proof. They became a history of questions he had answered as if she had asked different ones.
+She heard his shoes on the concrete and turned. A small bakery bag showed from the top of her tote. Surprise loosened her face before caution returned.
 
-She saw him when he was a few paces away. Surprise lifted her face, followed by a smile that made hope flare so quickly he distrusted it.
+“Did you forget something?” she asked.
 
-“Did I leave something?” she asked.
+“My coat, apparently.”
 
-“No. I just—” He glanced at the route display. Six minutes. “I thought I’d wait with you.”
+Her gaze traveled over his shirtsleeves. “That was not what I meant.”
 
-“You didn’t bring a coat.”
+“I know.” Kian stepped beneath the shelter roof but left space between them. The display said six minutes. “I wanted to catch you.”
 
-“I did not think that part through.”
+“You did.”
 
-Yasmin shifted to make room beneath the shelter, though there was plenty. Kian stood beside her. The glass behind them carried faint scratches and a strip of old adhesive where a notice had been torn away. A paper cup rolled along the curb, stopped against a tire, then rolled back when the wind changed.
+Traffic moved through the intersection behind him. A wet black patch beneath the bench reflected the shelter light; the rest of the pavement was dry. Yasmin put her hands in her coat pockets and waited.
 
-“Thanks,” she said. “For waiting.”
+He had prepared for encouragement, teasing, even immediate rejection. He had not prepared for the plain fact that she had given him the next move and would not make it for him.
 
-“Of course.”
+“Would you want to do something together sometime?” he asked. “Just us, I mean. Properly.”
 
-She looked down the road again.
+Yasmin’s eyebrows drew together. “Different from the bakery I just asked you to walk to?”
 
-He had caught her. That had seemed like the difficult action in Omar’s kitchen. Now the silence presented the larger one.
+“Yes. More intentional.”
 
-“Do you want to hang out properly sometime?” he asked.
+“I intended to go to the bakery.”
 
-Yasmin turned to him. “Properly?”
+“I mean something that we both knew was—” He felt the sentence dividing into safe branches. “Something with a little more possibility.”
 
-“Yeah. You know. Deliberately.”
+“Possibility of what?”
 
-“Have I been spending time with you by accident?”
+Kian glanced at the display. It still said six minutes, which felt personal.
 
-“No. I mean the two of us.”
+Yasmin drew one hand from her pocket and adjusted the strap of her bag. “You came down four flights to ask whether I might want to do something like the things we already do.”
 
-“Coffee was the two of us.”
+“When you put it that way—”
 
-“Right.”
+“How would you put it?”
 
-“The gallery was the two of us until you invited six people.”
-
-“Only Omar came.”
-
-“He came because you told him you had an extra ticket.”
-
-Kian rubbed his thumb along the side of his phone. He had not taken it from his pocket, but his hand had found it anyway. “I mean something a little more... proper than that.”
-
-Yasmin watched him work. Her expression was not cold or angry. That made it worse. She looked tired in a way he had not noticed upstairs, the skin beneath her eyes darkened by the blue-white panel.
-
-“Kian,” she said, “what are you asking me?”
-
-The simplest answer crowded against his teeth. Instead he said, “I like spending time with you. I thought maybe you felt the same.”
-
-“I do.”
-
-Relief arrived before understanding. “Great. So maybe we could do that more. Just see how it—”
+The word *date* waited. Kian approached it and turned aside. “I like spending time with you. I was wondering if we should see where that goes.”
 
 “No.”
 
-The relief collapsed so fast it left him light-headed.
+The answer was quiet. It still seemed to remove the air from the shelter.
 
-Yasmin folded her arms, not tightly, and looked toward the road. “No more invitations that could mean a date if they go well and nothing if they don’t. I don’t want another one of those.”
+Kian took one step back before catching himself. “Okay.”
 
-“I wasn’t trying to—”
+“No to that question,” Yasmin said. “I’m not doing another plan that becomes a date if you enjoy it and becomes nothing if you get nervous.”
 
-She waited.
+“I wasn’t trying to leave myself an exit.”
 
-Kian heard the unfinished lie and let it die. Of course he had been trying to. The escape hatch had not appeared by accident; he had built the sentence around it.
+She said nothing.
 
-“Omar sent me,” he said.
+The unfinished defense stood between them. Kian could hear how familiar it was. At the exhibit, when she had produced two tickets, he had asked who else was coming. When she said nobody, he had sent a group message anyway. After coffee that lasted three hours, he had called it a useful break from errands. Each time, he had left himself an exit wide enough for both of them to walk through separately.
 
-Yasmin closed her eyes for a moment. “That is not better.”
+“I was,” he said. “Trying to leave an exit.”
 
-“I know. It sounded more honest before I heard it out loud.”
+Yasmin’s shoulders lowered a fraction, but she did not supply forgiveness.
 
-“Did he give you a message to deliver?”
+Kian rubbed the sore center of his palm. “Omar told me to come after you.”
 
-“No. Well, sort of. He said you liked me.”
+“Of course he did.”
 
-“That is mine to say.”
+“He said you liked me.”
 
-“Yes.”
+Her face went still. “Is that why you’re here? Because Omar gave you my answer?”
 
-“Did he send you down here to inform me how I feel?”
+“No. I mean, it got me out the door, but he doesn’t know your answer. He admitted that.”
 
-“No. He sent me because he thinks I’ve been ignoring signals.” Kian heard the courtroom opening in his voice and hurried through it anyway. “The coffee, and the lamp, and when you said we should go back to the gallery—”
+“How generous.”
 
-“I remember my own calendar.”
+“He noticed things.” Kian heard himself returning to the safety of collected facts and could not stop before the list began. “The exhibit tickets. The coffee after everyone canceled. Tonight you asked me to walk with you. You keep choosing the seat beside—”
 
-“Right.”
+“Kian.”
 
-“And I know what I meant. Do you?”
+He stopped.
 
-His hand came out of his pocket. The phone stayed there. “I thought you might be interested.”
+“I bought two tickets,” she said. “You invited the group. I asked you to coffee after the others canceled. You spent the first twenty minutes telling me they might still come. Tonight I asked you to walk two blocks with me, and you stayed upstairs to wash a clean glass.”
 
-“I am interested.”
+“It had lipstick on it.”
 
-For the second time, relief made a foolish rush forward. This time he stopped it before it reached his mouth.
+Yasmin looked at him.
 
-Yasmin saw something in his face. Her arms loosened. “I like you, Kian. I’ve liked you for months. But Omar doesn’t get to declare what I’ll say, and you don’t get to keep gathering evidence instead of asking me.”
+“That was a stupid correction,” he said.
 
-“I wasn’t trying to make you wait,” he said.
+“It was an exact correction. You like exact corrections.” She tucked her hand back into her pocket. “What do those events prove to you?”
 
-“What did you think was happening?”
+“That you might like me.”
 
-He searched for an answer that did not make him sound careless. “I thought we were becoming closer.”
+“I do like you.”
 
-“We were.”
+The words arrived without a smile or a reward. Kian’s relief rose anyway, warm and immediate, and began trying to convert her statement into permission for everything he had not yet asked.
 
-“And I didn’t want to presume. I didn’t want to make every friendly thing you did into something else, or make you regret being kind to me.”
+Yasmin saw it happen. “Do not make that the end of the conversation.”
 
-“That part is decent.” Her voice softened, but not enough to offer rescue. “I liked that part about you. For a while.”
+He closed his mouth.
 
-The traffic signal changed. A delivery rider went through the intersection, bag rocking behind the seat, and the faint electric hum dwindled along the next block.
+“I like you,” she said. “I have for months. That does not mean Omar gets to send you down here with a guaranteed result. It does not mean every question you ask has the same answer.”
 
-“What happened after a while?” Kian asked.
+“No.”
 
-“After a while, it stopped feeling like you were protecting me from pressure. It felt like I was carrying all of yours.”
+“And it does not mean I’ll keep arranging things so you can decide later what they were.”
 
-He looked at her.
+The display changed to four minutes.
 
-“I had to invite you,” she continued, counting the facts against her fingers. “I had to make it obvious we could be alone. Then, when you added everybody else or called it an errand, I had to decide whether to push harder and risk cornering you. And if I backed off, I had to wonder if I’d imagined the whole thing. You got to be comfortable either way.”
+Kian wanted to explain that he had been careful because he respected her. He had not wanted to turn ordinary kindness into evidence or punish her for being warm. Those things were true. He could also see Yasmin on the other side of every careful choice: buying two tickets, waiting through his group message, opening her book at coffee while he checked for replies, offering him a short walk tonight and leaving alone.
 
-The accusation was not perfectly fair. He had not been comfortable. He had examined messages until commas developed motives. He had lain awake after the gallery composing three versions of a question and sending none. He had felt sick each time she left, and grateful each time she came back.
+“I thought not asking was safer for you,” he said.
 
-But none of that discomfort had required Yasmin to know anything. It had been private, protected discomfort. He could not offer it as his share of the work.
+Yasmin looked down the road. “Last month I asked if you wanted dinner after the exhibit. You said we should see what everyone was doing. They had already gone home.”
 
-“Tonight was the last time,” she said.
+“I remember.”
 
-He must have reacted, because she added, “I’m not leaving the group. I’m not going to make game night strange. I just decided I wasn’t asking you anywhere alone again. If you wanted friendship, fine. If you wanted something else, you knew where I was.”
+“Tonight I asked you to walk with me. You chose three bowls and a glass. I decided on the stairs that I wasn’t asking again.”
 
-Before she got tired of you, Omar had said. He had made *tired* sound like a timer on Kian’s chance. Kian had missed the part that mattered: what Yasmin was tired of.
+The cold tightened across Kian’s bare forearms. “Again tonight?”
 
-The route display changed from four minutes to three.
+“Again at all.” She faced him. “I wasn’t going to leave the group or make Thursdays strange. I was going to stop offering you time alone and then wondering whether you understood me. If you wanted to be friends, I could do that. If you wanted something else, you could say it.”
+
+She stopped. No invitation followed. No gentler wording arrived to turn the last sentence into a question on his behalf.
+
+Kian had imagined Yasmin’s tiredness as the end of her attraction, a small light going out because he had failed to reach it in time. What stood in front of him was less convenient. She still liked him. She had simply finished doing his part.
 
 “I’m sorry,” he said.
 
-“Thank you.”
+Yasmin nodded once. “All right.”
 
-She did not say it was fine. Kian appreciated that, though it gave him nowhere easy to stand.
+The answer did not wipe away the past seven months. It did not close the conversation either.
 
-“Omar thinks asking is the brave part,” he said. “He thinks if I say something confident enough, the rest has already happened.”
+A bus appeared at the far end of the road, too distant for its number to show. Yasmin watched it approach the next signal. Kian watched her. He could tell her how long he had liked her, list the questions he had drafted, describe every hour he had spent trying not to presume. All of it would ask her to admire effort she had never been allowed to see.
 
-“Omar treats ordering lunch like a championship final.”
+He let his arms fall to his sides. His phone stayed in his pocket. Omar stayed two blocks away.
 
-Kian laughed once. Yasmin’s mouth bent, but she kept her gaze on him.
+“Will you have dinner with me Friday at seven?” Kian asked. “Just us, as a date.”
 
-“I think I was doing the opposite,” he said. “Waiting until I knew the answer so well that I wouldn’t really be asking.”
+Yasmin looked back at him. “I can’t Friday.”
 
-“You can’t know it that well.”
+His mind reacted before the rest of him. The question was too abrupt. Seven was inconvenient. Dinner sounded formal. He could say he had meant whenever she happened to be free. He could fold the word *date* back into *dinner*, dinner into *hanging out*, and hanging out into nothing worth refusing.
 
-“I know.”
+“That’s fine,” he began. “I didn’t—”
 
-He had said those words several times tonight, usually to hurry past something unpleasant. This time he waited after them. The wind pressed his shirt against his arms. A bus turned at the far intersection, too distant for him to read the number.
+Yasmin waited.
 
-Yasmin looked at it, then back at him. She did not fill the silence.
+The bus reached the signal. Its number was still hidden behind the glow of a passing car.
 
-Kian’s prepared lines were gone. He felt no sudden surge of the kind of courage Omar had tried to lend him. What remained was smaller and less impressive: one question, and Yasmin’s right to dislike it.
+Kian made himself leave the question where he had put it. “Is that no to Friday, or no to going out with me?”
 
-“Would you have dinner with me on Friday,” he said, “as a date?”
+For the first time since he reached the shelter, Yasmin smiled. It was small and tired and entirely her own.
 
-Yasmin’s expression changed, though he could not yet read how. “I can’t Friday.”
+“Friday,” she said. “My cousin’s birthday dinner starts at six, and my family treats an end time as a personal insult.”
 
-The answer struck with clean, familiar force. His mind opened every exit at once.
+“Friday is out.”
 
-*That’s okay, I only meant if you were free.*
+“Sunday isn’t.”
 
-*No pressure. Forget I asked.*
+The bus turned through the intersection. It was hers.
 
-*We can all do something another time.*
+“Sunday at seven?” Kian asked.
 
-He could erase the date so thoroughly that by tomorrow both of them might doubt it had been offered. He had done versions of that before, smiling through the retreat so the other person would not have to soothe him. He had called it taking rejection well.
+“Seven-thirty. I’m working until six.”
 
-Yasmin waited. A bus passed on the opposite side of the road, interior lights revealing faces and then taking them away.
+“Sunday at seven-thirty. Dinner. A date.”
 
-“Okay,” Kian said. The word came out thin. He swallowed. “Is that no to Friday, or no to going out with me?”
+“Yes.” Yasmin stepped toward the curb, then paused. “Pick a place and send it tomorrow. Not four places with a voting system.”
 
-Yasmin stared at him for half a second. Then some of the weariness left her face. “Friday is my cousin’s birthday.”
+“One place.”
 
-“Ah.”
+The bus pulled close enough that wind pushed cold air beneath the shelter roof. Kian’s hands had begun to ache. He became aware of the apartment behind him, of Omar waiting for a report, of the quick bright urge to make the yes larger before Yasmin could leave. He could offer to ride with her and walk from her stop. He could ask what Sunday meant for the week after it.
 
-“I can do Sunday.”
+Instead he asked, “Do you want company home?”
 
-The yes was so ordinary that he almost missed its arrival. There were no hidden conditions in it, nothing for him to decode. Sunday. Four days away.
+“No, thanks. I want the bus ride to myself.”
 
-“Sunday would be good,” he said.
+“Okay.”
 
-“For a date,” she added.
+Yasmin studied him for a beat, as if checking whether another question would be hidden inside that answer. Then she moved to the front door as it folded open.
 
-“For a date.”
+“Tomorrow,” she said.
 
-“Dinner, not an errand that develops food.”
+“Tomorrow.”
 
-“Dinner. I’ll even choose a restaurant before we meet.”
+She tapped her fare and took a seat halfway down the bus. Kian remained behind the curb while the doors closed. Through the glass, Yasmin unwound the green scarf from her neck, set her bag on her lap, and looked out at the road ahead.
 
-“That sounds dangerously decisive.”
-
-“I may send you two options.”
-
-“Acceptable.”
-
-The approaching bus slowed at the intersection, and its route number came into view. Yasmin stepped toward the curb. Kian’s happiness was physical and embarrassing, a warmth rising into his face despite the cold. His mind tried to sprint ahead: which restaurant, what time, whether he should tell Omar, whether Yasmin’s smile meant she wanted him to kiss her now.
-
-He stopped at the curb beside her.
-
-“I could walk you home,” he said. “If you want.”
-
-Yasmin glanced at him, then at his shirtsleeves. “No, thanks. I want the bus, and you’re going to freeze.”
-
-The refusal landed beside the yes. His mind reached automatically for a connection between them, some hidden amendment in her tone.
-
-There wasn’t one.
-
-“Okay,” he said. “I’ll message you tomorrow about where?”
-
-“After ten. I have an early meeting.”
-
-“After ten.”
-
-The bus sighed to the curb and opened its doors. Yasmin stepped aboard, then turned before tapping her fare.
-
-“Good night, Kian.”
-
-“Good night.”
-
-She went down the aisle without looking back. The doors folded closed, and the bus carried her through the intersection.
-
-Kian stood beneath the shelter roof for another moment. In his pocket, his phone began to vibrate. Omar, almost certainly, demanding a score before the teams had even been chosen.
-
-Kian let it ring while he crossed the road. Sunday was a date. Tonight, Yasmin wanted the bus home alone. Both answers were clear enough to leave alone.
+His phone began vibrating before the bus cleared the intersection. Kian left it in his pocket and started back toward the apartment, shirt snapping lightly against his cold arms.
