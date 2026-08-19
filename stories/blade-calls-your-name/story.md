@@ -8,306 +8,290 @@ canon: false
 
 # The Blade Calls Your Name
 
-Rethka Vol drew a chalk line across the road where she meant to break the mountain.
+Rethka Vol had three charges in the road, thirty-eight people still west of them, and less than an hour of sun.
 
-The line was scarcely longer than her arm. It crossed a black fissure in Talasar’s stone, then vanished beneath the boots of the last stretcher team stumbling east. The highland road ran along a knife-backed ridge between two clouded ravines. To the north, a hanging face of rock leaned over the passage, its roots split by a season of earthshocks. Pebbles had been ticking down from it since noon.
+Talasar carried the wind like a drawn whistle. The road ran east along the top of a stone rib, eight paces wide at Rethka’s demolition line and narrowing westward until two handcarts could not pass. North of the crest, a hanging wall rooted in the old western shoulder leaned over the road and shed fist-sized rocks. South, the slope fell through cloud. Every earthshock changed the tilt beneath her boots by some amount too small to see and too large to ignore.
 
-A stripe of broken daylight crawled over Rethka’s chalk. It moved east although the sun stood east, rippling across boots and shields like light reflected from water.
+She pressed a final clay charge into the middle bore and tamped stone dust around it. The three fuses came together at a chalk ring by her knee. Once the rear guard crossed, she would fire them in sequence: south pocket, middle bore, north pocket. The weakened neck would fold into the southern ravine and leave the enemy migration stranded on the western approach.
 
-“Twelve still behind,” said the youngest of her demolition guard.
+The road back to her people’s border shelf also lay west. Breaking Talasar would postpone that return, perhaps for years, but not erase it. The western anchorage would remain for masons and ropes whenever the war loosened its grip.
 
-Rethka did not turn. She could hear the twelve coming: two squads and a limping signaler, iron-shod boots striking the ridge in ragged time. Farther west came Eshren’s people, thousands pressed onto the same narrow road—fighters at their front, wagons and litter teams behind. They had burned three of Rethka’s border camps in spring. Rethka’s column had emptied two of their wells in summer. By autumn, neither people had enough country left to retreat through, and Talasar was the only highland passage not buried by landslides.
+“Thirty-eight,” her fuse guard called.
 
-She set the last clay charge into the fissure. When her twelve crossed the chalk, she would light the cord. The middle span would drop. Eshren’s column would be stranded on the western ridge, and hers would gain a day to reach the eastern descent.
+Rethka looked up. The last friendly squads were coming at a run, burdened with rolled tents, stretchers, and the short iron tools they had refused to abandon. Beyond them, Eshren’s shield line filled the road from open edge to open edge. His fighters advanced east with measured steps because their column had nowhere else to move. Families and wounded pressed behind their shields. The season’s landslides had closed every lower pass.
 
-One clean loss. That was how you kept a column alive.
+A band of watery light crossed the black stone between the two forces. It slid uphill against the sun, broke over Rethka’s chalk ring, and trembled across her hands.
 
-The wind blew from the east, hard enough to stream every banner westward.
+The east wind flattened every coat and banner toward Eshren.
 
-Against it came a voice.
+Against that wind, from three hundred paces west, something called, “Rethka Vol.”
 
-“Rethka Vol.”
+No shout could have arrived so cleanly. Her given name and family name struck the hanging face above her and came back from the cloud below, each consonant intact. Runners missed steps. A stretcher tipped before its bearers caught it. Even Eshren’s front shields dipped.
 
-Her name crossed Talasar as if distance had bent to listen. It sounded from the overhanging cliffs and returned from the ravines, clear and enormous, nothing like an echo.
+Rethka stood. “Thirty-eight, keep moving. Fuses stay covered.”
 
-The stretcher team halted. The last twelve stopped running. Across the widening space, Eshren’s front rank went still.
+“Captain,” the guard said, staring west.
 
-Rethka rose with the fuse cord in her hand.
+“Count.”
 
-“Rethka Vol.”
+The man at the enemy point had removed a smoked veil from the object in his right hand and looped the cloth through his belt. He was broad through the shoulders, grey-haired, and still balanced while stone shivered under everyone else. The uncovered sword was longer than his arm and transparent from its wave-ridged point to the rounded pommel. Blade, curved guard, bare grip, and pommel were one continuous piece of Glass Sea glass. There was no leather, metal pin, or joined fitting anywhere along it. White seams of salt crossed the clear body in fixed lines. Sunlight caught the ridges and cast false water over the dry road.
 
-This time she saw where the voice began.
+Heshavar.
 
-A man stood before the enemy column in a coat of grey scales, broad without heaviness, bareheaded in the mountain wind. In his right hand he carried a long transparent sword.
+The old weapon contained no person, animal, spirit, or hidden operator. It was wholly nonliving glass. Traders still carried Glass Sea splinters east; they cut hide and caught sunlight, but none called names. Heshavar alone broke the common law. Its own impossible magic could call a name, register one bearer’s hand, reject another, and power a single realm-cut before going dormant. No one in Rethka’s lifetime had explained how. Nothing inside the glass moved now except light.
 
-Heshavar was one piece of glass from pommel to point. Its clear blade rose in fixed ridges like a single wave arrested at the instant before it broke; its guard curved from that same unbroken piece, and even the grip preserved the glass’s watery shape. Motionless seams of white salt crossed its depths. Sunlight caught every ridge and cast the moving bands that had reached Rethka’s chalk.
+The man holding it was Eshren, Heshavar’s master of thirty years. He was also plainly alive.
 
-Heshavar was not alive. No spirit occupied the glass and no creature slept within it. It was Glass Sea glass and nothing else, a wholly nonliving thing whose own impossible magic called a master, chose a hand, and carried a stroke beyond the reach of steel. That defiance belonged to Heshavar alone. No ordinary shard of the old sea had ever called a name.
+His face had tightened at the call. He shifted his left hand onto the unwrapped glass grip, fitting thumb and heel into its old wave hollows without looking. Then he raised Heshavar behind his shoulder.
 
-Every child along the western border knew its shape. Heshavar had opened a mountain pass, felled nine towers, and cut a rainstorm in half long enough for an army to cross dry ground. The songs disagreed about its age. They agreed on one thing: before every master, Heshavar called a name.
+Rethka knew the preparation for his legendary stroke. “Flat!”
 
-Eshren was not dead.
+Her guard dropped. Eshren cut toward the demolition line.
 
-He stared through the clear blade at Rethka as if the glass had struck him.
+The long glass edge whistled through empty air. The fixed salt seams did not brighten. No force crossed the distance, and none of Rethka’s fuses parted. Heshavar had rejected Eshren’s realm-stroke while he remained alive and holding it; the failure was visible to both columns.
 
-Rethka’s column-master pushed back through the eastward crowd. “Why did it say your name?”
-
-“Ask it.” Rethka thrust the fuse cord at the young guard. “Nobody stops. Get the twelve across my mark.”
-
-The column-master caught her arm. “If that is Heshavar—”
-
-“It is still in his hand.”
-
-Behind Eshren, horns sounded. His fighters spread across the western ridge as far as the road allowed, shields overlapping. Eshren drew a smoked-cloth veil from the long glass blade. He wound it around his forearm without looking, the motion worn smooth by years of hiding Heshavar’s betraying flashes.
-
-Then he set his feet.
-
-Rethka had seen his long stroke once, from half a valley away. Heshavar’s blow had crossed the distance between armies and peeled the gates from a fortress without touching the wall around them.
-
-“Down!” she shouted.
-
-Eshren swung.
-
-The salt seams inside the transparent blade remained dull. No force crossed the ridge, no distant cut thundered through Rethka’s people. Heshavar moved only as its weight and Eshren’s muscle moved it, whistling through cold air. The clear tip fell short of the stone.
-
-The sword spoke while he still held the failed stroke.
+At the end of his useless swing, the artifact called again.
 
 “Rethka Vol.”
 
-The name passed through both columns. Some of Eshren’s fighters recoiled from him. Others raised their shields higher, as though Rethka had loosed a flight of arrows. One woman sank to her knees beside a wagon, but the old man driving it struck her shoulder and made her rise. Nothing had stopped except belief.
+Eshren recovered before his front rank did. “Shields up. Litters to the inner side. No one runs for the blade.” His own voice reached only the first ranks. “Move the third wagon back six lengths.”
 
-An earthshock struck beneath them.
+Rethka pointed east. “Four abreast until the chalk. Two after it. Leave the south edge clear for the wounded.”
 
-The ridge bucked once. A crack leaped from the hanging face toward Rethka’s chalk line, and the charge jars clicked against one another in their sockets.
+The column-master had pushed back from the eastern shelf. She caught Rethka by the shoulder strap as another team passed. “It has displaced him. Take it before he closes the gap.”
 
-“Move!” Rethka bellowed. “The mountain does not care whose song this is.”
+“Thirty-four people are still on his side of my charges.”
 
-Her twelve ran. The last iron-shod boot cleared the chalk, and the column moved again.
+“Then cut faster.”
 
-Eshren lowered Heshavar. He looked older now that he no longer stood inside the shape of the legend. “Rethka Vol,” he called in his own voice. “Come halfway.”
+Rethka pulled free. She had already left flour, spare boots, two wagons, and a winter’s worth of tent poles on the highland roads to keep the column moving. She had not yet left people. “North cord ready. Middle only on my hand.”
 
-The column-master drew Rethka aside. “Go. Take the sword. If he resists, take his head with it.”
+For nineteen minutes after Heshavar first named her, the impossible did not excuse anyone from the road. Her count fell from thirty-eight to six. Eshren’s front rank came no closer, but his column compressed behind it until Rethka could distinguish what the shields had concealed: a woman holding a sleeping child beneath her coat, litter bearers with bloody cloth tied over their mouths, a limping old fighter towing a two-wheeled cart loaded with cooking pots. Soldiers were among them, including people who had burned Rethka’s grain stations, but this was a migration rather than a battle line with supplies behind it.
 
-“My charges are live.”
+Eshren spent those minutes keeping them alive. He sent the wagons backward one at a time to a wider turn, paired uninjured fighters with litters, and made his archers unstring their bows so a dropped arrow could not light Rethka’s powder. Heshavar stayed low along his leg. Its one-piece glass grip showed pale through his scarred hand.
 
-“Your guard can light a cord.” The column-master glanced beyond Eshren’s shield line. “That blade ends pursuit. With it, we don’t only escape. We go home.”
+When the last six of Rethka’s people reached the charges, an earthshock rolled from west to east. The hanging face cracked like ice on a pond. Rethka shoved two runners over the chalk ring, seized the rear pole of a stretcher, and helped its two bearers carry their wounded passenger to the eastern side.
 
-Home lay west, beyond the army now filling the road. Rethka pictured the border shelf in spring, dark soil terraced between the foothills, seed bells knocking in the wind. She had spent six months cutting away everything between her people and that shelf. Wagons first. Then tents. Then the slow. Every loss had purchased another mile.
+One person remained west: the signaler, hopping on a broken sandal while he tried to save his horn.
 
-Heshavar could purchase the rest.
+Eshren advanced alone. His shields did not follow.
 
-She took six of her guard onto the empty middle span. Eshren came alone from the west.
+“Hold there,” Rethka ordered.
 
-Up close, the sword was transparent enough for Rethka to see his grey sleeve through its wave-ridged blade. The trapped salt made thin, unmoving seams from guard to point. Bands of false water crawled over the road even while he held Heshavar still. He angled the flat toward the empty ravine so the flashes would not blind his own front rank. Fine stone grit had gathered in the blade’s ripples; he worked it free with his thumb.
+He stopped ten paces short of the south-pocket bore. False reflections slid from Heshavar and climbed the north wall. Up close, the fixed salt seams were milk-white flaws inside perfectly clear glass. The guard sprang from the same unbroken body as blade and grip. Nothing had been put into the sword. Nothing looked out through it.
 
-“It has called three times,” Rethka said. “Do you need a fourth?”
+“My master had been dead six days when it named me,” Eshren said. “Thirty years I have carried it. In every handling account, the old bearer was buried before a new name crossed the air.”
 
-Eshren’s gaze settled on the chalk dust across her knuckles. “My teacher was dead eleven days when Heshavar called me. Her teacher had been ash for a year. In every account we possess, one bearer ended before the next began.”
+“Step back to your shields.” Rethka waved the signaler through. “I fire when his heel clears.”
 
-“Then your accounts are short one living man.”
+Eshren’s eyes followed the damaged sandal, then returned to the chalk ring. “The west road behind us fell at midday. My first wounded are under that red wagon. If you close Talasar, they die here.”
 
-“Or I am about to die.” He did not make a performance of the words. That made them harder. “I have carried it thirty years. I used its realm-stroke against the reed kings. I slept with that glass under my coat when my daughter was born. When it cracked in the shale country, I splinted the pieces and kept watch for nine days until its own light sealed them.”
+“If I leave it open, your swords reach my litters before dark.”
 
-His ungloved left hand hovered near the transparent blade. Whatever attachment thirty years could build between a man and an unthinking relic, it had not begun today and did not belong to Rethka’s songs.
+“Give me the eastern shelf.”
 
-“Why did it call you?” he asked.
+“There are two thousand of mine on it.”
 
-“No explanation came with my name.”
+“There are more than two thousand behind me.”
 
-“What will you do with it?”
+The signaler’s heel crossed the line.
 
-“Get my people off this road.”
+The column-master shouted, “Fire all three. If he stays on the line, bury him.”
 
-“By cutting mine from it.”
+Rethka struck her coal into the south fuse. “South pocket lit. Fall east.”
 
-She looked past him. His front ranks were soldiers. Behind them the truth broadened: handcarts, wrapped infants, a roof beam carried by four people who had refused to leave it, wounded riders lashed upright because there were no more litters. A boy walked with one hand on a milk goat’s back and the other pressed to a bandage at his ear.
+Eshren moved on the word *lit*.
 
-None of that cleansed the ash from Rethka’s border camps. It only gave the people who had burned them faces and weight.
+He covered the ten paces before her guard could level their spears. Heshavar gave him no distance and no magic, but it kept an ordinary edge. He turned the first spear with the clear guard, cut the second shaft through, and swept the flat into its wielder’s chest. The soldier fell east instead of over the south edge. Eshren stepped across him and slashed at the burning cord.
 
-“Get them off my western span,” she said. “I will drop the middle after my last guard crosses.”
+Rethka intercepted with her thick-backed ridge sword. Glass met iron hard enough to sting her teeth. Heshavar did not chip. Eshren rolled its wave-ridged edge down her fuller, unhooked her guard, and kicked stone dust over the fuse. The ember survived beneath the dust, crawling toward the bore.
 
-“The western retreat vanished behind a slide this morning. We have nowhere to go but east.”
+The signaler blew one raw note. Rethka’s last people ran for the eastern shelf.
 
-“There is no room east.”
+“Middle cord,” she called. “Pull it long. North charge stays cold.”
 
-“Then your people and mine are standing in the same grave.”
+Her fuse guard obeyed, paying out the middle cord as he retreated. Eshren heard the order and changed direction. He let Rethka’s next cut pass his coat, took the shallow line it opened across his upper arm, and reached the middle fuse first. The transparent blade severed it against the road. An ordinary stroke, perfectly placed.
 
-The hanging face groaned above them. A shelf broke from its lower edge and struck the north slope far below. Dust billowed higher than the ridge.
+The south charge fired.
 
-Eshren lifted Heshavar until the wave-ridged blade lay level between them. “The old telling leaves me one answer to a second name.”
+Talasar punched upward. A slab the width of a house tore away under Eshren’s rear foot. He threw himself north, caught the lip with one hand, and kept Heshavar clear of the stone. Rethka seized his wrist before the falling slab could take him. His weight dragged her to both knees. For a breath she held the enemy champion above cloud while his sword threw bands of false water across the void.
 
-Rethka drew her thick-backed ridge sword. “Your old telling is welcome to try.”
+Eshren found a toe hold and climbed without thanks. There was no time for one. The blast had not followed the line Rethka prepared. The south third of the neck was gone, but the new break curved beneath the untouched middle bore and opened northward. Five paces of road had become less than two. Her north charge remained in the surviving ledge, its cold fuse trailing to the chalk ring; the middle charge had tilted out of its socket and lay leaking powder into a crack.
 
-“Not here,” said her young guard. “Captain, the fissure—”
+The columns now faced each other across a ledge barely wide enough for two fighters, with no room to pass.
 
-Another earthshock rolled up through Talasar. The road dropped the breadth of two fingers. Men and women fell against one another in both columns. One clay charge leaped from its socket and broke harmlessly against Rethka’s boot, spilling black powder.
+Above them, the hanging face had moved a handspan. Its lower lip had pulled away from the stone buttress beneath it. A black opening ran under the wall from the eastern toe to the massive western anchorage where Talasar joined the old shoulder. The face was beginning a slow southward rotation. When it struck the unsupported ridge, the crest would drive down beneath both migrations.
 
-Her marked fissure did not open. The new crack skipped beneath it, tore southward through the ridge, and swallowed the narrow descent Rethka’s column had meant to use. A hundred paces of road folded into the ravine. The head of her column was trapped on the eastern shelf.
+“Back from the neck,” Rethka told her guard. “Take every loose cord east. Mark the south chute.”
 
-Above them, the escarpment leaned.
+“Captain, the middle powder—”
 
-At first its movement was visible only in the streams of dust pouring from its brow. Then daylight opened along its northern root, a widening slit beneath a slab large enough to bury both columns. It would fall across Talasar from north to south. If its weight struck the road whole, the knife-backed ridge would drive downward like an axe into rotten wood.
+“Lost. Go.”
 
-Rethka knew broken highlands. She saw the two paths before anyone spoke them.
+Eshren raised Heshavar. His bleeding arm had slowed his reach but not his balance. “You have no charge left that can clear my road.”
 
-The falling face’s eastern lip could be broken. Its mass would slew west along the ridge, sweeping Eshren’s column from the road. The slide would pack the breach below Rethka’s people into a rough descent while leaving the western anchorage intact. In time, they might even reopen the road home.
+“I have the north pocket.”
 
-Or the western anchorage itself could be cut. Freed from its root, Talasar would split when the escarpment struck. One half would fall north and one south, spreading into two brutal fans of broken rock instead of one grave. Both columns might reach the lower valleys.
+“Fire it and the face drops whole.” He glanced once at the widening black gap overhead. “You know that.”
 
-The road west would be gone to its foundations. No army would march home across it in Rethka’s lifetime.
+She did. A second local blast would remove the last brace at the wrong angle. The hanging mass would hammer straight through the crest before either column could descend.
 
-The column-master saw enough in her face. “When you have Heshavar, turn the fall west.”
+The column-master called from the east, “Kill him, Rethka. The sword already gave you the range.”
 
-Eshren heard. His expression changed, not to outrage but decision. “I cannot give you my people’s death.”
+Eshren heard that too. His stance narrowed. “It gave her a name. I still have the edge.”
 
-“And I cannot give you mine,” Rethka said.
+He proved it.
 
-He came for her.
+His first cut forced Rethka away from the cold north fuse. His second came short, the clear point stopping where her retreating foot had to land. She shifted south and found half her heel over air. Eshren had read the remaining stone in three exchanges. Thirty years with Heshavar had made the strange length ordinary in his hands: he knew where the one-piece guard would catch iron, how its ridges dragged in a bind, how far the transparent point extended after Rethka’s eye lost it against the sky.
 
-Heshavar had denied him its distant stroke. It had not taken thirty years from his hands. Eshren crossed the stone in two steps and cut low. Rethka caught the transparent edge on the spine of her ridge sword. The impact numbed both arms and sent a watery stripe of sunlight whipping around them.
+She stopped watching the point. His hips declared the stroke sooner.
 
-“Rethka Vol,” Heshavar said through the joined blades.
+Rethka drove at his injured side. He shortened his grip without any wrapping to aid him, caught her blade on the inside curve of the glass guard, and turned her toward the north wall. White salt seams flashed in sunlight but stayed fixed and dull. No realm-cut helped him. He did not need one to split the buckle at her shoulder and score the mail beneath.
 
-Eshren wrenched free before she could bind his wrist. He drove her backward with three compact cuts, each placed where the next shudder of the road would spoil her footing. He had survived long enough to make a skill of everything that wanted him dead.
+Her guard started forward.
 
-Rethka let him think she would guard high a fourth time. When his shoulders turned, she stepped inside the clear edge and struck his mouth with her pommel. Blood flecked his lips. He answered with Heshavar’s glass guard against her ribs. Pain flared down her side.
+“Stay east,” she snapped. “If he gets past me, take the litters downslope. Do not touch the north fuse.”
 
-Around them, neither army joined the duel. The road had become too narrow for loyalty. Rethka’s guard hauled a fallen litter toward the eastern shelf. Eshren’s front rank turned to stop a wagon rolling backward through their own people. Every few heartbeats the sky shifted as the escarpment inclined farther overhead.
+Eshren lunged on her distraction. Rethka gave him the shoulder he had already opened, let the glass edge bite mail, and trapped Heshavar between her arm and breastplate. Pain burned down her ribs. She hammered her pommel into his wounded upper arm.
 
-Eshren cut at Rethka’s knee. She jumped the blade, landed on the sloping side of the fissure, and slid. He could have opened her from hip to shoulder. Heshavar’s clear edge flashed before her eyes.
+The artifact called from between their bodies, louder than either of them.
 
 “Rethka Vol.”
 
-The call jarred Eshren’s grip. It cost him the instant.
+The name went west over Eshren’s shields and east over her own. His rear fighters looked toward him. Rethka’s column-master shouted for a rush. Neither side could obey without sending its first rank off the narrowed crest.
 
-Rethka slammed her guard under his, rolled the long glass blade outward, and put her point beneath his jaw.
+Eshren tore Heshavar free. The edge peeled three rings from Rethka’s mail. “It never called another while my hand was on it.”
 
-Eshren froze. Heshavar’s edge rested against her side. Each had the other’s life within a finger’s motion.
+“Your hand is slowing.” She cut at his knee and made him yield one step. “Move west.”
 
-The legend wanted one of them dead. Her column-master wanted it. Eshren’s own history expected it. Even Rethka’s body, trained to cut away the part that endangered the whole, had already begun the thrust.
+“My litters cannot move west.” He returned a low sweep that drove her back to the chalk. “Open east.”
 
-Behind Eshren, the boy with the bandaged ear had lost the goat. He stood in the crush calling for it while adults dragged wagons around him. Behind Rethka, two of her soldiers were lowering litters over the broken edge with ropes that would not reach the valley floor.
+“No width.”
 
-The old answer waited in the blade between them: kill Eshren, take Heshavar, throw the mountain across his people. Save her own. Keep the road that led home.
+“Make it.”
 
-One clean loss.
+The next earthshock arrived as a deep lateral shove. The north wall dropped a shower of stones. Eshren covered his head with the glass flat and kept his feet. Rethka crouched inside the chalk ring. The fuses danced. A chunk of the hanging face struck the western approach and broke a wagon tongue; through the shields came screams, then Eshren’s second-in-command ordering the wounded clear.
 
-Rethka lowered her sword.
+More than half an hour had passed since the first call. The sun’s lower rim touched the western teeth. Rethka measured the growing black joint above, the two descending faults that forked under the road, and the slant of dust from the hanging face. The mountain offered two cuts, neither within reach of clay powder.
 
-She let it fall. The thick blade struck stone and spun away.
+She pointed her ridge sword at the eastern toe of the hanging mass. “Cut there and the face pivots west. It takes your shields, wagons, and every litter behind them. The impact packs my eastern break into a descent. The western anchorage holds, and my people keep a road home.”
 
-Heshavar’s clear edge remained against her ribs. Eshren’s eyes narrowed. “What are you doing?”
+Eshren did not look away from her blade. “The other cut.”
 
-“You decide. Kill me, or let go.”
+“Western anchorage, root to root. Talasar opens under the face. Your half falls north; mine falls south. Both columns get slopes.”
 
-“That is not an answer.”
+“Your return?”
 
-“It is the last one we have.”
+“Gone. Not closed. Gone.”
 
-The hanging face boomed as a buried shelf broke. Its shadow swallowed the western column, raced over Eshren, and climbed Rethka’s boots.
+One cut remained. The eastern toe meant Eshren’s host dead and her homeward road preserved. The western root meant both columns alive and no road home.
 
-She reached barehanded for Heshavar.
+Eshren shifted one foot toward his column. “I have kept a hand on this grip for thirty years. I will not open it on your reading of dust.”
 
-Eshren pulled the sword back. For one heartbeat he held the cold glass to his chest. Rethka saw the man who had slept with it under winter canvas, veiled its light from enemy scouts, and carried its impossible power for three decades. She saw, too, the thousands trapped behind him.
+“Then hold it and watch both sides go under.”
 
-“If I release it,” he said, “do they live?”
+The hanging face dropped another handspan. Wind burst from the joint and drove grey dust between them.
 
-“If it answers me.”
+Eshren attacked through it. Heshavar came high, vanished against the bright sky, and reappeared beside Rethka’s neck. She ducked, felt cold glass take hair, and struck the inside of his forward ankle. His stance collapsed. He caught himself with his left hand on the road, Heshavar extended past Rethka’s hip.
 
-“And if it does not?”
+She stepped over the clear blade and set her point into the hollow beneath his jaw.
 
-“Then we die here.”
+Eshren stopped. He could drag Heshavar back across her legs, but her thrust would reach him first. Behind him, the red wagon had begun to roll toward the broken south edge. Four fighters strained at its wheels. A narrow litter slid from beneath its awning, and someone too weak to stand reached for the axle.
 
-His face hardened, as if she had offered comfort and he meant to refuse it. “Do not make this noble.”
+Rethka could kill him. She could pull Heshavar from a dead hand, let the eastern toe go, and preserve the way west. No old account would have to change except by a few breaths.
 
-“I haven’t time.”
+The stone tipped under her boots.
 
-The stone beneath them pitched south. Eshren’s boots slid. His fingers tightened around the glass grip.
+She lowered her killing point.
 
-Then he opened them.
+Eshren’s eyes followed it. Before he could rise, Rethka opened her own hand. Her ridge sword struck once and went over the south edge.
 
-Heshavar dropped into Rethka’s hands.
+“Western root,” she said. “Release Heshavar.”
 
-The cold, transparent hilt did not alter beneath her grip. Instead every motionless salt seam inside the glass filled with white light. It answered her hands alone: the radiance vanished from the length still crossing Eshren’s palm and flared beneath Rethka’s fingers.
+He brought the long glass sword across his body. “If your split is wrong—”
 
-At arm’s length, in a voice no louder than a person speaking beside a fire, the nonliving sword said, “Rethka Vol.”
+“North fan under your red wagon. South fan under my chalk. Put the cut between them.” Rethka held out her bare right hand. “Twenty breaths before the face lands.”
 
-The western column heard. The eastern column heard. Every cliff of Talasar returned her name.
+The hanging mass groaned. The sound deepened until Rethka felt it in her teeth. Eshren looked past her at the south fault, then west at the families jammed behind his shields. His grip settled once more into the familiar wave hollows.
 
-Eshren staggered as though the sound had passed through the place where his right hand should have been.
+“My wounded take the north fan first,” he said.
 
-Power gathered within Heshavar’s clear blade, light running through the salt seams from pommel to point. No vision of righteous paths came with it, no guarantee that the stroke would spare everyone she wished spared. The direction remained hers.
+“They move when it breaks.”
 
-The column-master shouted from the eastern shelf, “Turn the fall west, Rethka! Into them!”
+“Say the route.”
 
-Eshren said nothing. He stood empty-handed between her and his people.
+“Red wagon to black scree. Keep below the white shelf.”
 
-Rethka turned toward the western anchorage.
+He took one step close enough that Heshavar’s unjoined guard touched Rethka’s wrist. For an instant both their hands covered the transparent grip. Eshren’s fingers were tight, and he was strong enough to make possession a final contest.
 
-It rose beyond Eshren’s column, a dark shoulder where the knife-backed road joined the older mountain. Beyond it lay the route to her border shelf. Seed bells in spring. Black soil under her nails. All the ground her dead had bought mile by mile.
+Then he opened them one by one. As his last finger opened, he pushed the glass the final thumb’s width into Rethka’s palm and drew his hand away. He remained crouched, boots braced, eyes on the western column. The full weight of the one-piece sword settled into Rethka’s bare hand. She had not pulled it from him; he had placed it there.
 
-She lifted Heshavar above her shoulder. Through its long transparent wave, she saw the escarpment fill the sky.
+Before Eshren’s hand had cleared the guard, the fixed white salt seams filled with hard radiance beneath Rethka’s palm. The sections under his departing fingers had stayed dull. Light ran through the clear guard, grip, pommel, and wave-ridged blade as one continuous structure. Nothing stirred inside it. No pulse met hers. There was no thought or counsel, only glass, light, weight, and the selection of her hand.
 
-Rethka struck.
+It called the only words it ever called.
 
-Heshavar answered.
+“Rethka Vol.”
 
-The glass edge did not reach the anchorage. The cut did.
+At arm’s reach the name was quiet. Talasar carried it to both columns.
 
-The salt seams blazed, and a hairline of white advanced through the air. Where it crossed the mountain, every buried strain answered at once. The western anchorage opened from ridge to root. A gulf appeared so cleanly that for an instant both severed faces showed matching bands of stone.
+The column-master pointed over Rethka’s shoulder. “East toe! Throw it west now!”
 
-Then Talasar turned.
+Eshren stepped aside, empty-handed. “Ten breaths.”
 
-The escarpment crashed onto the unanchored road. Its weight drove the western half north and the eastern half south. The ridge broke along the paths Rethka had seen: shelves rolled outward, shedding avalanches of stone and dust, while the narrow crest spread into two descending fans.
+Rethka turned away from the killing line. Through Heshavar’s transparent blade she found the western anchorage: the old dark shoulder, the road buried through its middle, and beyond it the switchbacks that led toward her people’s border. If she cut the eastern toe, those switchbacks would remain. Eshren’s migration would not.
 
-Rethka hit the road on one knee. The radiance inside Heshavar faltered. In her hands, the long glass sword went dark.
+She aligned the fixed salt seam nearest the edge with the black root fault. One blow. One direction. No second stroke waited to correct it.
 
-“North face!” Eshren roared to his people. His voice, not the sword’s. “Leave the wagons. Take the wounded. North!”
+Rethka swung at empty air.
 
-Rethka found her own voice. “South face! Litter teams first. Follow the black rock and keep wide of the scree!”
+On her first blow as its new master, Heshavar answered.
 
-The columns peeled away from one another. Eshren’s families dragged their handcarts down the northern fan until the carts overturned, then shouldered what they could carry. Rethka’s rear guard cut harness and made ropes of it for the southern slope. The broken sections of the hanging face settled between them in long booming collapses, each smaller than the blow that had made them.
+The artifact’s single realm-cut left the transparent edge as a white plane too thin to cast shadow. It crossed the western anchorage from high shoulder to buried root. For one suspended instant, the mountain showed two matching faces along the cut. Then the anchorage separated and the old homeward road dropped with it, not blocked for repair but removed from the ridge.
 
-Not everyone reached the lower valleys unhurt. Two litters slipped and had to be caught by six people sliding on their knees. A team of Eshren’s fighters vanished behind a burst of dust and emerged carrying one another. But Talasar did not become a grave. By the time the last shelf came down, both columns stood on opposite faces of the ruin.
+The hanging face struck Talasar.
 
-Rethka rose. Heshavar hung from her hands like a length of winter ice. Its wave-ridged body remained clear and wholly still, but every salt seam inside it had gone opaque.
+Freed at the west and already split beneath Rethka’s chalk, the crest opened along both descending faults. The western half rolled north under Eshren’s red wagon. The eastern half rolled south under Rethka’s demolition ring. The falling face broke on the widening fork instead of driving the whole rib down. Rock spread into two steep fans with a standing spine of ruin between them.
 
-“The light goes after a stroke like that,” Eshren said.
+Rethka landed on one knee. Heshavar’s radiance went out at once. Its transparent length remained cold and rigid, every wave ridge unchanged, while the fixed salt seams turned opaque. The realm-cut was spent.
 
-He had come only as far as the shattered spine between the two escape slopes. The distance separating them was twenty paces and widening as rubble settled. His empty right hand was curled around a hilt no longer there.
+Eshren was already facing west. “North fan! Red wagon to black scree. Wounded first. Shields above them!”
 
-“How long?” Rethka asked.
+Rethka drew breath through the pain in her side. “South fan! Litters on the chalk line. Six to each rope. Keep below the white shelf!”
 
-“Once, nine months. Once, four years.” His mouth bent around the cut she had given him. “The old accounts offer no measure.”
+The two columns moved on opposite slopes. They did not mingle. Eshren’s fighters abandoned three wagons, lashed their wheels together as a brake, and lowered litters through the north scree. Rethka’s rear guard pulled people down the south fan with salvaged fuse cord and harness. Fresh rocks chased both descents. A northern shelf gave way behind the last enemy shield team; a southern slide took Rethka’s remaining powder and buried the chalk ring.
 
-The column-master climbed from below, white with rock dust. She looked past Rethka toward the west. Nothing remained of the anchorage but a cliff of sliding rubble.
+The western anchorage continued falling. Each collapse carried another switchback out of the mountain. There would be no rebuilding Talasar toward home. The route was not hidden under rubble; its foundation had become the north fan.
 
-“You buried our road,” she said.
+When Rethka reached the lowest stable shelf, the sun had vanished behind the western peaks. Less than an hour had passed since Heshavar first carried her name against the wind. Eshren stood across the central ruin, twenty paces away and lower than she was. His surviving fighters held shields toward Rethka even while their litter teams descended.
 
-“I did.”
+“My rear guard takes the north fork,” he called. His empty right hand stayed close to his belt. “Keep yours south.”
 
-“We had them.”
+“South only,” Rethka said. “Count your last six before you move.”
 
-Rethka looked north. Eshren’s people were already withdrawing down the far valley, still armed, still carrying the banners under which the border camps had burned. They had not become friends because they had survived the same fall.
+“I know how to withdraw a column.”
 
-“No,” Rethka said. “I had them.”
+“Then do it.”
 
-The column-master’s jaw worked. Then someone below called for officers at the third litter, and she descended without another word.
+He turned from her. No one lowered a banner. No one crossed the broken spine to offer terms.
 
-Eshren remained across the widening break. “Veil it before sunrise,” he said. “Those bands have betrayed every hidden camp I ever trusted.”
+The column-master climbed up from Rethka’s litter line, dust packed into her lashes. She looked west, where the road had been. Rethka found Heshavar’s smoked veil pinned beneath a chip of road near her boot.
 
-Rethka found the smoked cloth where it had fallen and wound it around the transparent blade. A moving strip of brightness escaped between two folds, a false reflection persisting after the sun had slipped behind the peaks.
+“You spent our return,” she said.
 
-His gaze followed her hands. “I did not give it to you.”
+“Third litter needs four more hands,” Rethka answered. “Put the unhurt guard there. Leave two above the white shelf.”
 
-“No.”
+For a moment the column-master looked ready to strike her. A cry rose from below as a rope slipped. She swore and went down to the litter.
 
-“I released it for them.”
+Heshavar was awkward without a sling. Rethka wrapped the smoked cloth around the clear blade, then stopped when false bands of pale water leaked from a gap in the veil. The sun was gone, yet Heshavar’s refractions persisted over the stone. They illuminated nothing useful and advertised exactly where she stood.
 
-“I know.”
+Across the ruin, Eshren noticed. “Double the fold at the guard,” he called. “The ridge holds light there.”
 
-He turned north before the settling ridge could divide them completely. No bow. No blessing. He walked down toward his people with his bare hand held away from his thigh, as if it still expected Heshavar’s familiar weight.
+Rethka made the adjustment. The last false band disappeared.
 
-On the southern fan, Rethka’s guard had joined the litter line. They needed every pair of hands. She tried to sling Heshavar across her back, but its spent weight pulled the strap loose, and she remembered Eshren keeping watch beside the cracked glass for nine days.
+“Keep it covered,” he said. “My archers will shoot at the next flash.”
 
-Rethka took the silent sword in both hands and started down.
+“Then lead them north.”
+
+He did.
+
+Below, the third litter had begun moving again. Rethka could not sling Heshavar without a harness, and its long glass body would strike the slope if she carried it one-handed. She took the spent, nonliving weight in both hands and followed her guard down the south fan.
