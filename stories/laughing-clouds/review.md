@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Zelka | new | Serious young engineer and focal character; no exact, alias, close-spelling, or confusing reuse found in the targeted authority and production-memory search. |
-| Kavi | new | Zelka's rival and testing partner; no exact, alias, close-spelling, or confusing reuse found in the targeted authority and production-memory search. |
+| Zelka | new | Serious young engineer and focal character; targeted authority, legacy-name, locked-story, and passing-review searches found no exact, alias, close-spelling, phonetic, or confusing reuse. |
+| Kavi | new | Zelka's rival and testing partner; targeted authority, legacy-name, locked-story, and passing-review searches found no exact, alias, close-spelling, phonetic, or confusing reuse. |
 
 ## Places
 
@@ -21,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The annual useful-failures celebration, compact condenser's unexpected laughter-triggered personal clouds, attempted corrections, reluctant rivalry, and bounded alternate use fulfill the prompt. The nonliving device has a coherent local mechanism and limits, establishes no conflicting chronology or shared connection, and the prospective craft profile is materially satisfied.
+- Notes: The one-day workbench comedy fulfills the useful-failures premise through escalating physical tests, preserves Zelka's rigor as valuable, and resolves the rivalry through reciprocal engineering work rather than a prize or institutional coda. Zelka's clipped precision, Kavi's playful but observant pressure, their safety dispute, the judges' necessary questions, and the restrained final test exchange remain distinct and action-bearing.

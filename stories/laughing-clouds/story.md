@@ -8,288 +8,384 @@ canon: false
 
 # A Little Weather Between Us
 
-Zelka chose the sound-damped testing booth because it had no wind, no foot traffic, and felted walls thick enough to swallow the fair's morning clatter. Silence removed variables. Silence made a promise a machine could keep.
+Zelka booked the felt-lined booth for the first test of the morning. By the time the useful-failures fair opened, every terrace would be full of rattling prototypes, food carts, children, and inventors explaining why their mistakes deserved tables in the shade. Here, behind two curtains and a door that sealed with a soft rubber sigh, she could hear only the tick of her timer.
 
-Outside, the city was hanging its mistakes from the pergolas.
+She liked that. A machine should not have to compete with a festival to make itself understood.
 
-Once a year, the market terraces filled with inventions that had become useful by refusing their first instructions. A desalination membrane that clogged on salt now grew white crystals for cold-storage walls. Survey kites too unstable to map a straight line danced above orchards to frighten fruit moths. Children carried bowls made by a brick press that had stubbornly produced curves. By noon, every shaded stair and garden bridge would be crowded.
+On the shelf she set a clear bottle, an empty measuring tube, and a stack of dry result cards. Then she centered her condenser above the bottle's mouth.
 
-Zelka had no objection to failure. Failure was a measurement. What she objected to was presenting one before it had been properly understood.
+The device had begun as a greenhouse dehumidifier that could not keep pace with a greenhouse. She had rebuilt it into something smaller and, she had believed, more honest: a portable unit that pulled drinking water from humid air. A fan drew air across a wheel of moisture-hungry fins. A warmed channel released the water at the outlet. The whole assembly fit inside a flask-sized housing and ran on one shoulder-bag cell.
 
-She centered a clear bottle beneath the condenser's outlet, checked the seal twice, and flattened her result card beside it. Her name appeared above the declared history of the device: a greenhouse dehumidifier too weak for a greenhouse, rebuilt as a compact source of drinking water. The useful second purpose was supposed to be the easy part. Her final housing, no bigger than a lunch flask, contained a fan, a wheel of moisture-hungry fins, a collection channel, and a low-draw power cell. In the workshop it had passed every separate test.
+Its entry placard outside the booth already named both histories. At sixteen hundred, judges would expect to see the second one work.
 
-Zelka pressed the start stud.
+Zelka checked the bottle seal once, distrusted the feeling that made her check it, and checked it again.
 
-The fan whispered. The fins turned. A green indicator shone. Nothing entered the bottle.
+She pressed the start stud.
 
-Instead, a white tuft seeped through the collar around the outlet. It swelled into a cloud the width of Zelka's hand, lifted past her nose, and settled above her head.
+The fan breathed in. The collector wheel began its slow turn. A green line climbed across the monitor.
 
-She stepped left. The cloud followed.
+The bottle remained dry.
 
-She stepped right. It followed again, maintaining a distance of twenty-eight centimeters from her hair.
+A thread of white appeared around the outlet collar. It did not fall. It climbed the housing, thickened above Zelka's wrist, and rolled into a cloud no wider than her spread hand.
 
-Zelka looked at the empty bottle. Then she looked up, which showed her only a grey underside and one loose curl of vapor.
+Zelka moved the bottle under it. The cloud drifted away from the glass and stopped over her head.
 
-“No,” she told the condenser.
+She moved left. It followed.
 
-Someone at the booth entrance laughed.
+She grounded the housing. It followed.
 
-The cloud rained.
+She took two brisk steps toward the booth door, trailing the power lead, and the cloud hurried after her with its underside wrinkling like damp cloth.
 
-It had stored perhaps thirty milliliters, which was not much until all thirty milliliters landed at once. Cold drops struck Zelka's scalp, ran under her collar, and spread the ink across her immaculate result card. The green line for *collection efficiency* bled into the blue line for *potability*.
+“No,” she said.
 
-Kavi leaned against the door frame with a coil of vine-cord over one shoulder and three brass test weights knocking against their knee. They were trying, without success, to stop laughing.
+The outer curtain twitched. Kavi looked in, saw Zelka standing beneath private weather, and laughed once in pure surprise.
 
-“Do that again,” they said.
+Rain struck Zelka's scalp.
 
-“You have already done it once too often.”
+It was not much water. Twenty or thirty milliliters, she estimated before the drops found her collar, her eyelashes, and the first result card. The ink for *outlet volume* spread into a blue bruise.
 
-“I meant the cloud.”
+Kavi caught the door frame. Their second laugh produced a second, thinner shower.
 
-Zelka snapped off the condenser. The cloud thinned but remained attached to her by some invisible nuisance. “My judging slot is at sixteen hundred.”
+“Stop supplying the fault,” Zelka said.
 
-“Mine is forty minutes after yours.” Kavi set down the weights. “Convenient. We have nearly a day to make it worse.”
-
-Across three apprentice exhibitions, Zelka had learned what made Kavi so difficult to beat. They treated every apparatus as if it might reveal a joke worth encouraging. Their devices arrived in baskets, with fasteners sorted by intuition and wires the colors of summer fruit. They also worked very quickly and, worse, knew when not to touch a component.
-
-Zelka lifted the wet result card by one corner. “I am going to correct it.”
-
-Kavi watched the cloud hover over her. Delight sharpened into attention. “Of course. But first we find out what it does.”
-
-“It fails to condense water into a bottle.”
-
-“That is what it doesn't do.”
-
-From the terraces came the creak of awnings opening toward the sun. Somewhere a mallet rang, followed by cheers. The cloud over Zelka tightened at the sound but did not rain.
-
-She had reserved the final repair bay beside the nursery stalls. She could replace the outlet channel there, if she hurried. But operating the monitors required both hands, and the fault apparently required someone with Kavi's regrettable disposition.
-
-“You will follow my test sequence,” she said.
-
-Kavi collected their weights. “Painfully.”
-
-The unaltered condenser took forty-three minutes to characterize.
-
-Zelka fitted a dry result strip to her board and stood on a marked tile while Kavi moved around her with a temperature wand. The cloud stayed with the nearest charged body. At half a meter it chose Zelka; when she grounded herself on the bay rail, it drifted to Kavi and flattened above their dark curls like a very small, dissatisfied hat.
-
-It reduced the temperature on Kavi's forehead by two degrees. Its fringe shaded their eyes. It drew less than a quarter of the power Zelka's bottle cycle required.
-
-“Perfect,” Kavi said.
-
-“Incomplete.” Zelka wrote down the figures. “Laugh.”
-
-Kavi looked toward the open fair. “On instruction?”
-
-“You did not struggle before.”
-
-Their first attempt sounded like a cough with ambitions. The cloud trembled without releasing. On the second, Kavi glanced at the precise square of blotting cloth Zelka had placed under them and let out a real, startled bark. Rain ticked across the cloth.
-
-On the monitor, the laughter's uneven pulses overlapped one of the housing's resonant frequencies. The collar vibrated. Suspended droplets bumped together, grew heavy, and fell. Ordinary speech lacked the right rhythm; the mallet outside had been too regular.
-
-“Again,” she said.
-
-By the sixth sample, Kavi had exhausted their easy laughter and accused the cloud of looking judgmental. By the ninth, Zelka's demand that they pronounce *hygroscopic* with dignity produced a snort that released twenty-six milliliters. She recorded pulse spacing, rain volume, battery draw, skin temperature, tether distance, and false triggers. She also recorded that the static fringe raised the hairs on her wrist and gathered metallic filing dust into black freckles along the condenser's conductive seams.
-
-“Portable shade,” Kavi said. “Cooling mist. One-person irrigation.”
-
-“Wet paperwork. Contaminated bearings. Uncontrolled discharge.”
-
-“A cloud with professional ambitions.”
-
-Zelka underlined *uncontrolled*. “Now we correct it.”
-
-Her component case held two spare housings and an open test frame. She labeled the intact condenser A, set it at the back of the bench, and divided the remaining modules among three branches.
-
-The first corrected version was respectable. Zelka grounded the suspension ring and gave the droplets a conductive path into the outlet. The cloud collapsed. Water clicked into the bottle at irregular intervals.
-
-For twenty minutes they stood beside the machine while the fair warmed around them. Sunlight filtered through leaf-cell canopies and patterned the workbench green. Visitors began to fill the terrace, ringing bells made from warped pipe and trying sandals whose failed algae foam squeaked at every step. Zelka kept her eyes on the bottle.
-
-At the end of the run, a warm spoonful covered its bottom.
-
-Kavi turned the bottle sideways. “If you are very small and not especially thirsty—”
-
-“Thirty-one milliliters.” Zelka checked the power meter. The grounding path required continuous heating to stop the channel from clogging. At that draw, a bottleful would take most of the day and exhaust three cells.
-
-She increased the fan rate. The channel warmed. Output rose by less than two milliliters.
-
-Her original specification sat on the damp board: enough drinking water for an afternoon, from humid air, with a cell a person could carry. She had written each term herself. Compactness had limited the area of the collector; power had limited how quickly the fins could cycle. The cloud was not stealing water from the bottle. The bottle had been an optimistic destination for an amount of water better suited to weather.
-
-Zelka unplugged the ground lead. “Acoustic isolation next.”
-
-They fitted a soft ceramic baffle inside a second housing. That version formed another handspan cloud and ignored three convincing laughs, two poor ones, and Kavi's description of Zelka's expression as “the face of a ruler discovering millimeters.”
-
-Zelka allowed herself satisfaction. “Stable suspension.”
-
-“How long do you intend to suspend it?”
-
-“Until the manual release is fitted.”
-
-Kavi reached for the voltage probe. Their elbow clipped a small wrench. It hit the floor once.
-
-The filtered cloud convulsed. The baffle had silenced the common laugh pulses while letting charge accumulate around the suspension ring. The wrench strike supplied one sharp vibration at precisely the frequency the crowded housing still favored.
-
-Water slapped onto the bench hard enough to bounce. Zelka snatched the power cell clear. Kavi caught the monitor under one arm and the bottle under the other, saving both while sacrificing the front of their shirt.
-
-For a moment, neither spoke. Then the original cloud, which had been waiting above the grounded rail, drifted back toward Kavi.
-
-“Don't,” Zelka warned.
-
-Kavi pressed their lips together.
-
-Black filings stippled the wet seams of the second housing. When Zelka tried to open it, the miniature hinge grated and stuck. She worked it loose with a brush and added another line to the card: exposed moving parts required nonconductive covers.
-
-“It is useful that your perfect cloud keeps providing evidence against itself,” she said.
-
-Kavi's amusement subsided. “It isn't evidence against it. It is a use condition.”
-
-“That phrase does not make a hazard decorative.”
-
-“I know.” They handed her the dry probe rather than the one that had gone through the spill. “Test three?”
-
-They built the boosted collector from Zelka's last spare wheel and the high-flow fan Kavi removed from their own stall kit. If volume was the honest measure, Zelka intended to meet it.
-
-Kavi wore the tether cuff. Zelka stood at the cutoff.
-
-The boosted cloud formed fast. It spread from handspan to shoulder-width, grey at the center, its edge churning as the collector stripped vapor from the bay. The monitor registered fifty milliliters, then ninety. Kavi stopped watching the figures and looked down at their arm.
-
-“Cold,” they said.
-
-“Skin temperature down four degrees. End the trial.”
-
-Kavi reached for the cuff release, but condensation had slicked the clasp. Their fingers fumbled. The cloud rolled down around their forearm.
-
-Zelka hit the cutoff. The fan stopped; the suspension ring stayed charged. She seized the discharge lead with its insulated grip and slapped the copper end against the ground plate. The cloud broke over the runoff basin, soaking both of them to the elbows.
-
-Kavi flexed their hand slowly. The color returned to their fingers.
-
-At the edge of the bay, a tray of nursery moss had changed from glossy green to dull olive. Its curled tips pointed toward the condenser. The boosted collector had lowered the local humidity so sharply that the open tray was losing moisture faster than its shallow wick could supply it.
-
-Zelka carried the moss beyond the fan's reach and poured the grounded version's warm spoonful across it. The water disappeared without filling a single hollow.
-
-“Better output,” Kavi said quietly.
-
-“Worse device.”
-
-The words cost less than Zelka expected. The figures were unambiguous.
-
-They dismantled the boosted housing. Zelka dried every contact and capped the cell. Around them, other entrants began carrying finished work toward the judging terrace. The repair bay emptied until only their crowded bench remained: one grounded condenser that made too little warm water, one filtered condenser capable of a surprise downpour, one high-flow carcass, and the intact original trailing its harmless-looking cloud.
-
-Zelka counted her remaining modules. One baffle. Two ceramic sleeves. A cutoff sensor. No spare collector wheel.
-
-She reached for the original.
-
-Kavi put a hand over it.
-
-“Move,” Zelka said.
+Kavi bit the inside of their cheek. Their vine-cord harness was slung across one shoulder, and four brass test weights hung from it in a line. “Was that in the greenhouse version?”
 
 “No.”
 
-“I need its suspension ring.”
+“It’s perfect.”
 
-“You need it to stop existing in its current form, because you think the judges will confuse surprise with carelessness.”
+“The bottle is empty.”
 
-“Its current form wets strangers when it hears laughter.”
+“That cloud has followed you through three static changes.”
 
-“Then limit the wetting. Give it an off switch. Don't take apart the one version that does anything well.”
+“The bottle,” Zelka repeated, “is empty.”
 
-Zelka looked at Kavi's hand, still a little pale from the cold. “You called that version perfect.”
+Kavi leaned closer without crossing the booth threshold. Delight was still on their face, but their eyes had gone to the outlet collar and then the monitor. That was the irritating thing about them. They could look unserious while noticing the right component.
 
-“It is perfect.” Kavi did not lift their hand. “I didn't say safe. I also like having feeling in my fingers. Both facts fit on your cards.”
+“What frequency did the housing pick up?” they asked.
 
-“Your own entry is not prepared.”
+“I do not know yet.”
 
-“No. My left hinge still thinks a crosswind is sunrise, and I have given you its fan.” Their jaw tightened. “If you withdraw, I get judged against two squeaking shoes and a compost fork that sorts spoons. I would rather be late.”
+Kavi lifted the weights. “I can spare these until the calibration bell. You need another pair of hands.”
 
-Zelka had assumed Kavi wanted an easy win because Kavi wanted every win. Yet their own machine was waiting without its fan, and the dry probe sat ready by Zelka's elbow.
+Zelka's reserved repair bay was across the lower terrace. She could strip the collar, remount the channel, and run one corrected cycle alone. She could not watch the voltage trace, change the ground path, keep the cloud away from her cards, and reproduce laughter on command.
 
-Kavi took their hand away. “Your machine,” they said. “Your decision.”
+“My sequence,” she said.
 
-They gathered their weights and wet probe, leaving the good one by Zelka's elbow, and went back toward their stall.
+Kavi stepped back to let her carry the condenser out. “Until it gets boring.”
 
-For several minutes, Zelka did nothing but arrange the evidence.
+Outside, the city had begun displaying its disobedient machines.
 
-She placed the four result cards in a row. Bottle volume improved from original to grounded to boosted. Power use worsened. Predictability improved with the baffle until it failed completely. Cooling moved from pleasant to unsafe. Beside those columns, the original had the longest list of observations because Kavi had made her measure it before changing it.
+A failed salt separator extruded translucent blocks for cold walls. Mapping kites that could not hold a survey line snapped and wheeled over the orchard stairs, where their shadows frightened fruit moths from the trees. A pottery press designed for straight drainage tile had made hundreds of shallow curves; the breakfast stall served melon in them. Above the terraces, leaf-cell awnings opened toward the sun one panel at a time.
 
-Zelka turned the first card over.
+The repair bays faced a nursery run of moss, herbs, and young climbing vines. Zelka claimed the end bench, clipped her cards beneath a transparent cover, and marked four spaces in chalk. The original condenser went in the first.
 
-On the clean side she wrote a different heading: *Provisional wearable shade-and-mist unit, originating as a failed bottle condenser.* Under it she ruled columns for tether range, shade temperature, rain volume, false triggers, power, minimum safe humidity, manual discharge, and fouling.
+Kavi set their weights under the bench. “Before you cure it, let me wear it.”
 
-The description felt evasive for exactly three seconds. Then the discomfort resolved into a better question. Not whether the cloud deserved to be called useful. What would another person need to know before trusting it over their head?
+“It has already rained on one person without warning.”
 
-She did not need a new collector. She needed the truth about the collector she had.
+“Then you stand at the cutoff.”
 
-Zelka carried the intact condenser and the new card to Kavi's stall.
+That was not the careless answer Zelka had prepared to reject. She fitted a grounding cuff to Kavi's wrist and handed them the dry emergency lead.
 
-Their self-leveling shade hinge lay in pieces beneath a square of woven leaf-fiber. It had been designed to follow the sun. Instead, its flexible joint yielded to uneven loads and sprang level again, which Kavi believed could keep balcony gardens from tearing loose in gusts. At present, the control board was uncovered and one arm sagged toward the floor.
+The cloud left Zelka when Kavi moved closer to the charged housing. It settled over their curls. The fringe gave them a faint silver halo and lifted the loose fibers of their sleeve.
 
-Kavi glanced at the intact condenser. “You came to apologize to it.”
+Zelka measured tether distance, surface temperature, and draw. At twenty centimeters, the cloud shaded Kavi's eyes. At forty, it followed their wrist. Beyond a meter and a half, it thinned but did not break. The skin beneath it cooled by nearly two degrees. The collector consumed less than a quarter of the power required by Zelka's bottle cycle.
 
-“I need ceramic sleeves for the exposed bearings, a waterproof collar, and a discharge tab that can be reached without seeing through the cloud.”
+Kavi turned their face into the shade. “Put that on the card.”
 
-Kavi read the heading on the card twice. When Zelka pointed at the clock, they turned at once to the parts drawers.
+“I am putting everything on the card.”
 
-They worked.
+“Put *shade* on the card.”
 
-The collar took stray rain away from the wearer's neck. The ceramic sleeves kept metallic dust out of the hinges. Zelka wired the humidity sensor to shut down the collector before the air became dry enough to stress nearby plants. Kavi shaped a broad discharge tab from scrap copper and mounted it against a sponge-lined catch cup. Pulling the tab drained the suspension charge; the cloud fell where the cup could hold most of it.
+Zelka wrote *localized temperature reduction*. Kavi watched the pen move but did not argue.
 
-They could not make laughter recognition precise. A ratcheting tool still triggered rain if used near the housing, and an especially even chuckle sometimes did nothing. Zelka wrote both facts down.
+The harder test was the trigger. Kavi could laugh at Zelka unexpectedly, but not at a spoken command. Their first attempt sounded like a hinge dragging over stone. The cloud gave one heavy drop.
 
-At three minutes before her slot, Kavi fastened the tether cuff around their wrist. The cloud settled above them. They walked fast toward the judging terrace, carrying a patch of private shade between the larger shadows of the awnings.
+“That is not representative,” Zelka said.
 
-The judges did not laugh when Zelka announced that her compact drinking-water condenser had failed.
+“Your instructions are interfering with the instrument.”
 
-One turned the empty bottle in her hand. Another examined the dark freckles along the housing seam. The third stood beneath the leaf-cell canopy with Zelka's revised card held close to his face.
+“You are the instrument.”
 
-“And your proposed use?” he asked.
+Kavi looked offended enough that Zelka almost revised the term. Then a squeaking sandal crossed the aisle, each step producing a small indignant chirp. Kavi's mouth twitched. The wearer stopped to ask the stallholder why the left shoe sounded lonelier than the right.
 
-“Wearable shade and intermittent cooling mist in humid outdoor conditions,” Zelka said. “It can water a small planter, not supply a person's drinking water. It should not be used near unprotected electronics, exposed precision bearings, low-humidity plantings, or anyone who has not agreed to be rained on.”
+Kavi laughed. Rain whispered onto the blotting square at their feet.
 
-“It responds to laughter?”
+The monitor caught it: uneven pulses in a narrow band that overlapped a resonance in the outlet collar. The vibration made suspended droplets collide. Once they grew heavy enough, gravity did the rest.
 
-“It responds to irregular pulses near a housing resonance. Laughter is the most common source we found. Certain hand tools also trigger it. Other laughter will not.”
+Ordinary speech did nothing. Clapping did nothing. A hand ratchet made the cloud tremble. The nursery's brass watering bell caused one drop. Kavi's laugh after Zelka demanded a dignified pronunciation of *hygroscopic* released twenty-seven milliliters and wet the end of the temperature probe.
 
-Behind the judges, Kavi made a strangled sound.
+Zelka changed probes. Along the housing seams, the charged fringe had collected iron-colored repair dust in fine dark freckles. One hinge began to rasp.
 
-Zelka looked at them. “What?”
+Kavi touched none of it until Zelka finished writing.
 
-“You said *other laughter will not* as if you're filing a complaint against it.”
+“Now,” they said, “we know it gives shade, a little cooling, and enough rain for a planter.”
 
-The laugh escaped before they finished. Rain pattered over their hair and shoulders. Three drops leapt the collar and marked the corner of a judge's card.
+“We know it wets anything within its fall line, responds to unrelated tools, attracts conductive debris, and follows the nearest charged body.”
 
-Zelka pulled the discharge tab. The remaining cloud collapsed into the catch cup in a soft rush. She checked that Kavi's cuff had released, then gave the judge a dry cloth.
+“Yes.”
 
-“The collar is incomplete,” she said. “It also needs a visible charge indicator. The current prototype is safe for supervised trials, not sale.”
+“You keep saying that as if agreement improves your position.”
 
-The judge blotted the card. “How much shade?”
+“It saves time.”
 
-Zelka showed them the temperature trace.
+Zelka drew a box around *uncontrolled release*. “Grounded collection first.”
 
-They asked about skin cooling, power draw, water cleanliness, cleaning the collector, and whether a nearby person could steal the cloud by building a larger static charge. Zelka answered what she knew. When she did not know, she said so. The judges filled two sides of a sheet and called for the next entry.
+She moved the original condenser to the back of the bench and labeled it A. They built B with a conductive path from the suspension ring into the outlet. No cloud formed. Droplets clicked into the bottle instead, respectably and one by one.
 
-No one told her whether she had won anything.
+Kavi went to check their own entry. Zelka watched the first six millimeters collect and felt the day right itself.
 
-Kavi was already halfway back to their stall.
+Twenty minutes later, the bottle held a warm spoonful. The heated channel had consumed almost half the cell to keep itself clear. When Zelka increased airflow, the outlet temperature rose and the water level barely moved.
 
-By the time Zelka caught up, they had mounted the left hinge and were wrestling the woven shade into its frame. Their judging slot was twelve minutes away. The high-flow fan's empty bracket gaped beside the control board.
+Kavi returned carrying a flexible shade joint and two torn strips of woven canopy. Their entry had been designed to track the sun. Its failed joint yielded under uneven force and then sprang level again, which Kavi intended to demonstrate as a wind stabilizer for balcony gardens.
 
-“The low-flow fan will be enough for your sensor,” Zelka said. “Your joint is doing the mechanical work.”
+They tipped Zelka's bottle. Water ran along the bottom without covering it.
 
-Kavi tossed her a test lead. “I thought you were busy awaiting glory.”
+“How many cells for your promised volume?” they asked.
 
-“The judges have my measurements. Waiting will not alter them.”
+“Three, if humidity remains constant.”
 
-Together they connected the smaller fan. Zelka recalibrated the light sensor while Kavi hung brass weights from the shade corners. A burst of laughter rose from the aisle, and the re-forming cloud above Kavi released a quick shower.
+“And if a person carries three cells?”
 
-Zelka clipped the waterproof hood over the exposed control board. Water drummed on it and ran harmlessly into a bucket of thirsty basil beneath the bench.
+“The unit is no longer compact.”
 
-Kavi passed her the heaviest test weight.
+Kavi put the bottle down. They did not smile.
 
-Zelka considered the sagging arm, moved the weight one hook inward, and held it ready. “Start with three.”
+Zelka had sized the collector to the surface area she could fit into one hand. No outlet repair could give those fins more air. The cloud had not diverted a bottleful. It had made visible the modest amount the machine could actually gather.
 
-“Painfully sensible.”
+She replaced B's cell. “We still have the trigger fault.”
 
-“You asked for my help.”
+For C, they seated a soft ceramic baffle around the resonant collar. A neat cloud formed above Kavi and ignored three genuine laughs. Zelka tested the charge. Stable.
 
-Kavi energized the hinge. “Load it.”
+Kavi checked the time. “I need my weights in twenty-eight minutes.”
 
-Zelka did.
+“This run requires fifteen.”
+
+“It requires however long the charge takes to become your next problem.”
+
+Zelka held out the voltage probe. “Then monitor it.”
+
+For seven minutes, C behaved. Kavi read the trace while Zelka adjusted the baffle. The cloud swelled by less than a centimeter. A laugh from the aisle produced no rain.
+
+“Filtered,” Zelka said.
+
+The small wrench on the bench rolled off the edge.
+
+It struck the floor with a bright, single crack.
+
+C emptied itself.
+
+Water slapped across the work surface. Kavi swept the monitor under one arm and caught the power cell in the other hand. Zelka threw the transparent card cover down over A. The bottle fell, bounced, and rolled beneath the nursery rack.
+
+When the spill stopped moving, Kavi's shirt was wet from collar to waist. Their face had gone blank with the effort of not making the situation worse.
+
+The baffle had blocked the common laughter band while charge accumulated in the suspension ring. The wrench strike supplied a stronger vibration at one of the collar's remaining peaks. Instead of frequent small releases, Zelka had made an unpredictable large one.
+
+The wet repair dust packed itself into C's hinge. Zelka worked the cover open with a ceramic pick.
+
+Kavi laid the rescued monitor on a dry towel. “I will accept *not perfect* for this one.”
+
+Zelka glanced at them.
+
+“I need the towel, not the look.”
+
+She passed it over. “The original discharged before dangerous accumulation.”
+
+“I noticed.”
+
+“And its fault gave warning.”
+
+“I noticed that too.”
+
+Zelka recorded both observations. They put ceramic caps over A's exposed bearings, then took the high-flow fan from Kavi's stall kit for the last branch.
+
+D would solve the volume problem. With Zelka's last spare wheel, she doubled the collector area, widened the suspension ring, and set the cutoff at the greatest load her cell could sustain. Kavi fitted the tether cuff to their forearm.
+
+“You will release at four degrees of skin cooling,” Zelka said.
+
+“My hand is on the clasp.”
+
+“If the clasp slips, use the emergency lead.”
+
+“And if I say stop?”
+
+“I stop it.”
+
+Kavi tested the clasp twice. “Run.”
+
+The cloud arrived too quickly. It passed handspan width and thickened until its grey center covered Kavi from shoulder to fingertips. The monitor rose through fifty milliliters, eighty, one hundred.
+
+Kavi shifted their weight. “Three degrees.”
+
+“I have two point seven.”
+
+“You are measuring above the cuff. My fingers are colder.”
+
+Zelka reached for the cutoff. Kavi tried to release first, but condensation had slicked the clasp and their thumb skated over it.
+
+Zelka killed the fan. The charged cloud stayed where it was.
+
+Kavi caught the emergency lead, missed the ground plate, and caught it again. Zelka stepped inside the cloud, took the insulated grip below their hand, and drove the copper end against the plate.
+
+The cloud collapsed into the runoff trough. Cold water struck both their arms. Kavi tore the cuff loose and worked their fingers open and shut.
+
+At the nursery's edge, a tray of moss had dulled from wet green to grey-green. Its tips curled toward the condenser. D had pulled moisture from the bay faster than the tray's shallow wick could replace it.
+
+Zelka moved the tray beyond the fan and poured B's warm spoonful over the center. The moss swallowed it without a shine.
+
+Kavi rubbed their forearm with the dry corner of the towel. “You got the volume.”
+
+Zelka shut D's cell inside its safety box. “I corrected the wrong thing.”
+
+Kavi's answer was a short nod. There was no pleasure in it.
+
+They took D apart before anyone else could brush its switch. Kavi reclaimed the high-flow fan but left the dry voltage probe and their ceramic pick. The fair moved toward afternoon around them: entries rolling uphill to the judging terrace, cooking steam caught beneath the awnings, the mapping kites drawing frantic loops over the orchard. Empty repair benches appeared one by one.
+
+On Zelka's crowded work surface, B had little warm water in a bottle. C had emptied without warning despite its baffle. D lay in safe pieces. A continued making a hand-sized cloud that followed whichever of them stood closest.
+
+Zelka unclipped A's cover. “I can reuse this suspension ring in B.”
+
+Kavi set their hand on the housing.
+
+“Remove it,” Zelka said.
+
+“No. If you strip A, you destroy the only result we can reproduce.”
+
+“The result is a fault.”
+
+“The fair has a word for those.”
+
+“The fair also has runoff channels, equipment clearances, and forms for injuries.”
+
+“Then give A clearances.” Kavi's fingers tightened on the housing. “You have spent four hours proving it is better at releasing water than your filter and safer than your volume fix.”
+
+“It cannot distinguish a laugh from a ratchet.”
+
+“It does not have to. You have to stop claiming it can.”
+
+Zelka pointed at Kavi's damp sleeve. “You called it perfect before we had one measurement.”
+
+“I was looking at a cloud the size of my hand. I was not signing it out to a school.”
+
+Their voice had flattened. The jokes went first when they were angry; Zelka had never noticed because she was usually busy winning the argument that caused it.
+
+Kavi lifted their hand. “Take it apart if that is the entry you want. But I need my probe, and my judging rig still has no calibrated fan.”
+
+They collected the probe, the pick, and the brass weights from beneath the bench. At the aisle, they stopped.
+
+“I did not give you my afternoon so you could submit something I knew was false,” they said. “That includes *fixed*.”
+
+Then they left.
+
+Zelka stood alone beneath A's small shadow.
+
+She set the four result cards side by side. The bottle column climbed from A to B to D. The power column worsened with it. C had the longest delay and the largest accidental release. D had chilled its wearer and dried another living thing outside the test boundary.
+
+A's card was dense with Kavi's demanded measurements. Tether range. Temperature change. Draw. Trigger band. Rain volume. Dust. The observations did not become less true because they belonged under a different heading.
+
+Zelka turned the card over.
+
+She wrote: *Failed compact drinking-water condenser.*
+
+Beneath that, after a pause, she wrote: *Provisional wearable shade and intermittent mist collector for humid outdoor use.*
+
+Then she ruled columns for minimum ambient humidity, maximum tether charge, fall clearance, runoff, false triggers, skin temperature, bearing fouling, and manual discharge. The card filled quickly. It did not look like absolution. It looked like work.
+
+She carried A to Kavi's stall.
+
+Kavi was on the floor under their shade frame, tightening the left joint with their teeth because both hands were holding the canopy level. Zelka took the frame's weight without being asked.
+
+Kavi released the fastener. “What did you break?”
+
+“Nothing else. I am entering A.”
+
+“As a drinking-water condenser?”
+
+Zelka handed them the new card.
+
+Kavi read the first line, then the second. Their thumb stopped at *false triggers*.
+
+“The cuff must come off with a numb hand,” they said.
+
+“Yes.”
+
+“And the rain cannot run down a wearer's neck.”
+
+“Yes.”
+
+Kavi got up and opened the parts drawer. “My judging slot is forty minutes after yours. You have my hands for twenty.”
+
+They built the safeguards in eighteen.
+
+A ceramic sleeve kept charged dust out of each exposed hinge. Kavi cut a soft waterproof collar that carried runoff away from the wearer's skin. Zelka wired a humidity floor into the collector, so it would stop before stripping a dry pocket around nearby plants. The manual discharge became a broad copper tab beside a sponge-lined catch cup, reachable without sight or fine finger control.
+
+They failed to make the acoustic trigger precise. The hand ratchet still caused a brief shower. An even, deliberate laugh sometimes caused none. Zelka wrote that on the display card in letters large enough to read from the aisle.
+
+At three minutes to sixteen hundred, Kavi buckled A's housing to their belt and fastened the cuff over their sleeve. The cloud settled above them, small and white. Zelka loaded B and the bottle tray onto the repair cart. They walked uphill together through broad patches of awning shade.
+
+Zelka began her presentation with the empty bottle.
+
+“This unit did not meet its intended output,” she told the three judges. “At its current collector area and power draw, it cannot produce an afternoon's drinking water and remain compact.”
+
+One judge examined the warm residue in B's bottle. Another leaned close to A's freckled housing but kept outside the marked fall circle. The third read both sides of the result card.
+
+“You entered the original behavior,” the third said.
+
+“With limits and controls added. Its observed use is local shade and intermittent cooling mist in humid outdoor conditions. It is not a drinking-water supply.”
+
+“What triggers the rain?”
+
+“Vibration near the outlet collar's resonant bands. Laughter often overlaps them. So do some ratchets and impact tools. The device cannot identify laughter.”
+
+From the next stall came the sudden wooden clatter of a failed sorting arm dropping six spoons at once. Someone in the aisle laughed.
+
+A rained over Kavi.
+
+The collar took most of it past their shoulders. Two drops cleared the marked circle. Zelka pulled the broad tab. The remaining cloud fell into the catch cup, and the cuff went inert.
+
+The judge nearest Kavi checked the dry skin beneath the collar. “Can another person take the tether?”
+
+“Yes, if they carry a stronger charge and enter its range. That is why the current version is for supervised trials. It also needs a visible tether indicator.”
+
+“How long before the cloud reforms?”
+
+“In this humidity, six to nine minutes.”
+
+“Can it be used near electronics?”
+
+“Only if they are covered. It fouls exposed conductive bearings and seams.”
+
+The questions continued until the page on the judges' board was full. Zelka gave measured answers, three estimates, and four versions of *not tested*. When the bell sounded for the next entry, no one announced a prize or told her the failure had become beautiful. They kept A's card for the final table.
+
+Kavi was already moving downhill.
+
+Their shade frame stood crooked at the stall, its woven panel folded back and the high-flow fan loose beside the control board. Eleven minutes remained before their slot.
+
+Kavi unbuckled A and set it beneath the bench. Zelka took the fan. “Your sensor does not need this flow.”
+
+“It drifts at low speed.”
+
+“Because the left joint sags. Load the right side first and let the frame level before calibration.”
+
+Kavi threw her the test lead. “You have eight minutes to be correct.”
+
+Zelka clipped in the low-flow fan from B. Kavi hung two brass weights on the right corner and one on the left. The frame dipped, resisted, and returned level with a soft snap. On the second run, the sensor held the false horizon Kavi needed to demonstrate.
+
+Laughter rolled along the aisle. A had re-formed above Kavi and gave one quick shower.
+
+Before Kavi could turn, Zelka clipped the waterproof hood over the exposed control board. Water ran from its edge into a bucket of basil beneath the stall.
+
+Kavi reached for the fourth brass weight.
+
+“Three,” Zelka said.
+
+“It held three.”
+
+“It has held three once.”
+
+The judging bell rang uphill.
+
+Kavi looked at the shivering left joint, then handed her the fourth weight instead. They hooked three to the test cord and lifted the frame.
+
+Zelka kept the last one in her palm while the arm found level.
