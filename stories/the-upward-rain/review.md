@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tressa Vahl | new | Explorer and epigrapher; `Tressa` is unique, and the full form remains distinguishable from the older Vale forms, including rejected `Nessa Vale`. |
-| Rudek Sohl | new | Rival explorer and surveyor; no exact, alias, close-spelling, or confusing reuse found. |
+| Tressa Vahl | new | Explorer and epigrapher; story alias `Tressa` has no reuse, and the full form remains clear beside the older `Vale` forms. |
+| Rudek Sohl | new | Rival explorer and surveyor; story alias `Rudek` has no exact, alias, close-spelling, or confusing reuse. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Caudren Reach | new | Coastal region of the upward rain; the full name is unique, and local shorthand `the Reach` is clear despite other places sharing the generic suffix. |
+| Caudren Reach | new | Coastal region of the upward rain; story alias `the Reach` is clear, and `Caudren` remains distinguishable from the current name `Caldren`. |
 | Namarre | new | Legendary drowned city or kingdom; no exact, alias, close-spelling, or confusing reuse found, with `Namarrean` used only as its adjectival form. |
 
 ## Continuity
@@ -22,7 +22,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The complementary tally and terrain evidence resolves the promised descent without overclaiming Namarre's fate; the upward rain remains a bounded local anomaly, both rivals retain agency, and the ending grows from their opening contest over priority.
+- Notes: The fixed tally and haul traces make the organized absence legible only through both rivals' expertise; the one-day descent remains causal, disputed history and anomaly source stay unresolved, and their clipped final corrections extend rather than explain the opening contest over priority.
