@@ -8,348 +8,366 @@ canon: false
 
 # She Literally Has Wings
 
-Twenty-three minutes before our first-anniversary party, my wife came through the apartment door carrying six folding chairs under one arm and our elderly neighbor under the other.
+At five seventeen on the evening of our first anniversary, my wife came through the rooftop door carrying a cake and announced that the sky had changed its mind.
 
-The neighbor was not injured. She had simply decided that the elevator was taking too long, and my wife had found her resting halfway up the stairs with a lemon cake balanced on her knees.
+I was on a stepladder, feeding paper lanterns along the ridge line of a canvas awning. My best friend stood below with both hands on the ladder and neither eye on it. He was watching my wife’s wings clear the doorframe.
 
-“I can walk,” the neighbor protested, although she made no attempt to get down.
+“The forecast says clear,” I told her.
 
-“Of course you can,” my wife said. “You can also arrive with enough breath left to complain about the music.”
+She set the cake on the only table not covered in clips, cord, or my emergency tool pouch. She wore the dark green dress she had altered around the roots of her wings, and the wind pressed the skirt against her knees. Her outer feathers lifted one after another, white shutters opening along both sides of her body.
 
-The neighbor smiled. People did that around my wife.
+“The forecast,” she said, “does not have primaries.”
 
-I hurried over to rescue the cake. My wife turned sideways so her wings would clear the doorframe, ducked the hanging paper garland, and set our neighbor gently on the couch. Six chairs hit the floor with a metallic clatter. Not one of the pearl-white feathers sweeping behind her so much as brushed the frosting.
+“It has radar.”
 
-“Show-off,” I said.
+“Lower the west edge.”
 
-She kissed my cheek. “You married me for my upper-body strength.”
+I looked at my phone. There was a yellow triangle over the weather app that had not been there ten minutes earlier.
 
-“I married you because you own a drill.”
+“Temporary gusts,” I said.
 
-“Romance.”
+My wife untied the ribbon around the cake box. “I am going to write that on your grave.”
 
-My best friend watched this exchange from the kitchen doorway with the blank, fixed stare of a man who had just discovered that gravity was optional in our home.
+My friend finally put his eyes on the ladder. “She may have a point.”
 
-I had invited him early to help. So far, he had inflated four balloons, eaten three stuffed mushrooms, and asked why we owned a feather rake. I had explained that a feather rake was for grooming feathers. He had stared at me then too.
+“You tied two of these knots.”
 
-My wife opened her wings just enough to shake out the tips. In our small living room, they seemed to occupy every available gap without touching anything. The longest feathers caught the amber light from the windows. For an instant, their edges shone as if the sunset had followed her inside.
+“I definitely have no point.”
 
-The apartment felt warmer.
+The awning mattered to me more than canvas had any right to. We had planned our wedding cheaply and well, which meant the ceremony had been lovely and the courtyard roof had leaked exactly where we were supposed to dance. Our first dance happened beside a service elevator while a waiter steered a mop bucket around us. My wife had said it was perfect. She was often kind when I was being rained on.
 
-It always did when she was happy.
+For our anniversary I had borrowed the apartment building’s roof, stitched two striped picnic cloths into a broad canopy, and made a dry square under which I intended to dance with her properly. The forecast had promised cooperation. The forecast was apparently reconsidering.
 
-I handed her the repaired paper garland. “Can you put this back up?”
+I lowered the west edge.
 
-She looked at me over one shoulder. “You want me to use the stepladder, don’t you?”
+“Another foot,” she said.
 
-“Absolutely.”
+“That will make it crooked.”
 
-“Because using my wings indoors would be unsafe.”
+“It will make it attached.”
 
-“And because the last time you did, we had to explain a ceiling-fan-shaped bald patch.”
+I lowered it another foot.
 
-“It grew back.”
+She came over to test the tension with two fingers. One wing opened behind her for balance. It was wider than the awning was high, so she angled it with the unconscious precision of someone who had spent her life calculating ceilings. The white feathers passed above the cake and below the lantern cord without touching either.
 
-“The security deposit won’t.”
+My friend looked from the wing to me, then back to the wing.
 
-The neighbor laughed so hard she had to hold the cake box level with both hands. My wife climbed the ladder, muttering about tyrannical landlords and husbands with no sense of adventure.
+“Stop doing that,” I told him.
 
-Our guests arrived in a happy trickle. My wife welcomed each one as if their presence had solved a problem she had been worrying over all day. She remembered whose new job had started badly and whose cat had stopped eating. She placed the shyest guest beside our neighbor, who could draw conversation out of a brick wall, and intercepted a bottle from a nervous coworker before it slipped from his damp hands.
+“Doing what?”
 
-Every time she crossed the room, shoulders loosened. Voices lifted. Smiles appeared.
+“Looking like you have swallowed a question sideways.”
 
-I took credit for the snacks.
+My wife plucked the utility shears from my pouch and slid them into my back pocket. “Keep those on you. If the corner line goes, cut the black webbing. Do not try to save the cloth.”
 
-Ten minutes into the party, someone knocked from the hall. My wife tilted her head. A faint scratching came through the door, followed by a small and indignant bark.
+“I made the cloth.”
 
-“The dog got loose again,” she said.
+“Then it has known love.” She kissed my cheek. “Now put the ladder away before our guests arrive.”
+
+They arrived while I was still arguing with the lantern timer. We had invited ten people and enough food for twenty-three, because my wife believed leftovers were a form of pension. She welcomed each guest with a specific question. How was the new apartment? Had the wrist stopped hurting? Was the landlord still pretending not to understand the word mold?
+
+One friend arrived looking as though sleep had become theoretical. She had buried someone she loved that week and warned us she might not stay. My wife did not tell her to cheer up. She showed her the chair nearest the door, put a plate within reach, and said she could talk or not talk as she pleased. The friend did not smile. She did take off her coat.
+
+The air always eased around my wife when she was glad. I knew that much. A tight room seemed to discover an extra window; people breathed lower in their chests. It did not turn sorrow off. By the time the first bottle was open, our grieving friend was still grieving, but she had moved her chair closer to the table and was arguing about whether cake counted as dinner.
+
+I had filed the whole effect under my wife being good with people.
+
+The wind lifted again. My wife turned her head toward it before the lanterns stirred.
+
+“Ice,” she said. “We need it now, before the elevator decides otherwise.”
 
 “I’ll go.”
 
-“You’re holding hot cheese.” She tucked her wings close and slipped out. “I’m fireproof. You’re not bite-proof.”
+“You are still fighting a timer.” She took the empty cooler. “Win one battle.”
 
-“That is a terrible division of labor.”
+She slipped through the rooftop door. The room she left behind was a roof, technically, but it felt smaller without her.
 
-The door shut behind her.
+My best friend caught my sleeve.
 
-My best friend seized my elbow and dragged me three steps toward the kitchen.
+“Bro,” he said, “how did you not know your wife is an angel? She literally has wings.”
 
-“Bro,” he said, keeping his voice low, “how did you not know your wife is an angel? She literally has wings.”
+“Well, to be honest, I thought she was some bird demi-human or hybrid or something.”
 
-I looked toward the door. “Well, to be honest, I thought she was some bird demi-human or hybrid or something.”
-
-His mouth opened. Closed. Opened again.
-
-“Some bird?”
-
-“Not some bird. Some bird demi-human. Or hybrid. The distinction seemed personal, so I didn’t pry.”
-
-He pointed at the closed door with both hands. “She literally makes everyone smile when she walks in a room.”
+“She literally makes everyone smile when she walks in a room.”
 
 “To be fair, she does have an amazing personality. That’s why we’re married.”
 
-He stared at me so intensely that I checked my shirt for spilled sauce.
+He stared at me. Behind him, one of the lanterns blinked on, thought better of it, and went dark.
 
-“You thought the light was her personality?”
+“A bird hybrid,” he said at last.
 
-“People use that expression all the time.”
+“Some kind of bird hybrid.”
 
-“The physical light.”
+“Which bird?”
 
-“Some feathers are reflective.”
+“I didn’t ask for a feather chart.”
 
-“She found my missing wallet from three streets away.”
+“No bird has feathers like hers. They change color at the edges when she laughs.”
 
-“You always lose it.”
+“Light changes color at edges. That is how edges work.”
 
-“That does not explain how she knew where it was.”
+“She knew this storm was coming before your app did.”
 
-“You always lose it near food.”
+“So did my knee.”
 
-He rubbed both hands over his face. “On your wedding day, she walked down the aisle and every flower in the room turned toward her.”
+“Your knee is not an angel either.”
 
-“The florist said those were very responsive flowers.”
+“Finally, an area of agreement.”
 
-“The florist was crying.”
+He pointed at the lantern cord. “You haven’t fixed that timer, and the lights come on whenever she passes.”
 
-“Weddings are emotional.”
+“Static. Feathers produce static.”
 
-He stepped closer. “Her feathers don’t match any bird. Strangers tell her their darkest secrets in grocery-store lines. She refuses to promise miracles in exactly those words. Did none of this add up?”
+“You built an entire species in your head rather than ask one question.”
 
-“It added up to her being unusual.” I heard my own voice sharpen. “Most people are, once you know them.”
+“I was being respectful.”
 
-“Sure. My unusual trait is that I can wiggle one ear. Your wife glows when she’s moved.”
+The door opened behind me.
 
-“What did you want me to do, ask for a certificate?”
+My wife stood on the threshold with a bag of ice braced against one hip. The cooler hung from her other hand. She had folded her wings so tightly that their upper joints made two pale angles above her shoulders.
 
-“I wanted you to ask your wife a question.”
+“Please continue,” she said. “I want to hear which half of me is duck.”
 
-That landed harder than the jokes deserved. I knew what he meant, but what I heard was that our marriage was a ridiculous accident. I heard him saying I had been fooled by the woman who had sat on the bathroom floor with me through food poisoning, rebuilt our cabinets when the top shelf collapsed, and learned to sleep with one wing hanging off the bed because I sprawled.
+My friend took the cooler. “I’m going to put this somewhere very far from the conversation.”
 
-“I know her,” I said. “I know she hates olives and loves terrible detective shows. I know she counts under her breath when she’s angry because it stops her saying things she can’t take back. I know she keeps bandages in every coat and reads the last page of a novel first. Whatever category you think matters, I married a person.”
+“Inside,” she told me.
 
-Behind me, the apartment door clicked shut.
+The rooftop access room contained a breaker panel, a mop sink, and exactly enough floor for one married couple to regret each other at close range. My wife shut the door but left the small window open. Through it came the party’s music and the nervous click of lanterns testing their current.
 
-My friend’s face changed.
+She leaned the ice against the sink. “What am I?”
 
-I turned.
+“My wife.”
 
-My wife stood with one hand still on the lock. A small red feather clung to her sleeve, probably from the dog’s ridiculous collar. Her wings were folded so tightly that their joints rose above her shoulders like white walls.
+“That answer is lovely and useless.”
 
-“A bird demi-human,” she said.
+I tried again. “An angel.”
 
-Her voice was quiet. Her smile was gone.
+“Because he told you?”
 
-“Or hybrid,” my friend offered weakly.
+“Because you are telling me now.”
 
-She looked at him.
+“Good.” She counted three breaths under her breath. I knew she did that when anger had given her too many available sentences. “Angel is the word I use here. For me. It is not a promise that I can heal people, carry messages for them, find out anything about the people they miss, or behave better than they do. I do not grant wishes. I am not accepting applications.”
 
-“I’m going to check the mushrooms,” he said, and fled.
+“I have never asked you for any of that.”
 
-My wife nodded toward the kitchen. “Can we talk?”
+“You never asked me what I called myself either.”
 
-The kitchen had no door. Privacy required standing beside the refrigerator and trusting the party music to do its work. She faced the counter. I faced her back, where the smaller feathers lay in careful overlapping rows.
+“I didn’t want to make you explain your body to me.”
 
-“I’m an angel,” she said.
+“So you explained it to yourself.”
 
-“Right.”
+That was unfair for about half a second. Then it became exact.
 
-She glanced over her shoulder. “That was not a quiz.”
+I put my hands in my pockets and found the utility shears. “Bird demi-human covered the visible facts.”
 
-“No. I know. I mean, I know now.”
+“Woman with wings covered the visible facts.” She picked a chip of ice from the torn bag and bit it. “You added a family tree.”
 
-“Did you ever wonder?”
+“It wasn’t an important theory.”
 
-“Of course I wondered. I just didn’t think it changed anything.”
+“You kept it for three years.”
 
-She turned around. “You wondered enough to settle on an answer.”
+“You never corrected me.”
 
-“A loose answer.”
+“You never said it aloud. Was I meant to inspect your private bird cabinet?”
 
-“You guessed what I was. You never asked what I am.”
+I looked at the mop sink. It offered no advice.
 
-“Because it doesn’t change how I love you.”
+She bit another piece of ice and winced at the cold. “When people hear angel, some of them stop at the noun. A woman once put a lottery ticket in my mouth because my hands were full and she wanted it blessed. A man I dated asked me to stand behind him during a job interview and look significant. Strangers have handed me medical reports, wedding rings, petitions, and one extremely ill-tempered rabbit. They decide I am proof of whatever they already wanted proved.”
 
-The words sounded good while they were leaving me. Then I saw her expression.
+“I didn’t.”
 
-I had answered a question she had not asked. Worse, I had answered the version that made me noble: I had overlooked the wings because my love was too pure for labels. In the version on her face, I had overlooked part of her because I had decided it was none of my concern.
+“No. You asked whether wing oil would stain your sofa.”
 
-“That’s my intention,” I said slowly. “Not your hurt.”
+“It was a new sofa.”
 
-Some tension left her shoulders, though her wings stayed closed.
+“I liked that question. I liked you. You learned where I need room at a table and which comb doesn’t split the small feathers. You never asked for a blessing. I assumed you knew and were choosing not to make it the only thing about me.” Her gaze stayed on mine. “I did not know you had settled the matter with imaginary poultry.”
 
-“No,” she said. “It isn’t.”
+She had walked through the world with her wings in full view. I had supplied an answer, called the silence courtesy, and never checked whether it belonged to her.
 
-The refrigerator hummed between bursts of laughter from the living room.
+“Does knowing the word change anything?” I asked.
 
-“Why didn’t you tell me?” I asked.
+“It changes what you call me when ‘wife’ isn’t the question.”
 
-She traced one finger through a patch of flour on the counter. “The first time we had coffee, the server asked whether I could bless her pregnancy. Before I could answer, you told her I was off duty and asked me which pastry I wanted.”
+I reached for a defense and found only variations of the ones she had already broken.
 
-“She was holding up the line.”
+“I don’t know what angel means,” I said.
 
-“I know. It was wonderful.” Her mouth almost curved. “Then you asked if the chair was comfortable with my wings. You didn’t ask whether I could heal anyone. You didn’t confess to me. You didn’t tell me I must be good, or pure, or wise. You wanted to know if I preferred custard or jam.”
+Her shoulders lowered a fraction. “Then ask. You have the sentence. It’s free.”
 
-“Custard.”
+Something struck the outer wall with a flat boom.
 
-“You remembered.”
+The lantern cord snapped past the open window.
 
-“That one was important.”
+My wife was through the door before I had the shears out of my pocket.
 
-This time the curve came, but it faded quickly.
+The west corner of the awning had torn free of its upper hook. Wind filled the stitched cloth from below, turning my dry square into a striped sail. One weighted post had tipped, and the ridge line dragged it by inches toward the parapet. Guests crowded away from the table. My best friend had both hands around the second post and the expression of a man losing an argument with weather.
 
-“When people hear the word, I become whatever they need an angel to be,” she said. “A sign. A judge. A messenger. A cure. Sometimes proof that something they lost is safe. Sometimes proof that they themselves are. They ask me for things I cannot give and resent me for having limits. Or they watch me, waiting for perfection.”
+“Everyone inside,” my wife said.
 
-“I never wanted that from you.”
+Nobody moved for one beat. A guest nearest the door looked from her wings to me.
 
-“I know. That was the problem.” She looked down. “I liked being only myself with you so much that every time I could have corrected you, I chose not to. At first it was relief. Then it was fear. Then enough time passed that telling you became an admission that I had let you marry me without saying it.”
+“Did you say she’s an angel?” he asked.
 
-I wanted to tell her that I would have married her anyway. It was true, but it would not make the choice retroactively mine.
+Another guest had already lifted a phone.
 
-“You should have told me,” I said.
+“Put that down,” my wife said.
 
-“Yes.” She met my eyes. “I should have.”
+The phone disappeared.
 
-“And I should have asked.”
+“Can you stop this?” someone else asked her.
+
+“No.” She pointed at the access room. “Inside. Now.”
+
+The grieving guest rose first. That broke the hesitation. Coats, plates, and bodies squeezed through the narrow doorway. Questions started anyway—was angel literal, did that mean she could fly in this wind, was the warm feeling coming from her? They tangled with apologies before any of them became full sentences.
+
+The loose edge of the canopy cracked like a flag.
+
+My wife stepped beneath it and caught the leaning ridge pole against her shoulder. “Get the west release.”
+
+I ran for the black webbing. The cake table stood over it.
+
+“Can’t she just fly it down?” the guest with the phone called from the doorway.
+
+“Not while it’s tied to the roof,” I said.
+
+“And attached to me,” my wife said.
+
+The canvas dropped hard across her left side. She opened that wing by reflex, and the cloth wrapped over the outer half of it. The next gust pulled both toward the parapet. Her shoes slid. The ridge pole jumped against her shoulder.
+
+“Do not pull my wing,” she said. Her voice had gone flat with effort. “Cut the black strap when the cloth slackens.”
+
+The release lay beneath the cake table’s back leg. I could crawl under, feel for the buckle, and perhaps save the table. I could also watch the fabric twist another row of her feathers backward while I did it.
+
+I shoved the table aside.
+
+The anniversary cake hit the roof in its box. Something inside made a soft, expensive collapse.
+
+For one second the canopy bellied upward. The black webbing went loose. I cut it.
+
+The west side spilled down, but a fold remained cinched around my wife’s wing. I knew better than to tug. I slid one hand beneath the taut cloth, found the long outer feather trapped against the ridge cord, and cut through my beautiful stitched seam six inches above it.
+
+Air burst out of the canopy. The cloth fell around us.
+
+My wife folded her freed wing in sections, testing each joint. Rain began as a scatter of cold dots on the striped canvas.
+
+“Anything broken?” I asked.
+
+“Not me.” She looked past me at the cake box. White icing had begun to press through one corner. “The lemon layer may require prayer.”
+
+The guest in the doorway made an uncertain sound.
+
+She turned her head. “No.”
+
+“I didn’t say anything.”
+
+“You were about to.”
+
+For once, nobody argued with her.
+
+She sent the guests home. She told them the roof was unsafe, the party was over, and they could take the food that had not been crushed. One person apologized four separate times while putting on the same sleeve. Another asked whether they should forget what they had heard, then apologized for asking. The grieving guest paused beside my wife and said only, “Thank you for the chair.” My wife squeezed her hand. The friend put on her coat and left without a smile.
+
+My best friend remained after the others had filed downstairs. Water ran off his hair and down his nose.
+
+“I should have kept my mouth shut,” he said.
+
+“You should have checked whether the door was shut,” my wife replied.
+
+“That too.” He lifted the ruined lantern cord. “Do you want help?”
+
+She looked at the roof, the rain, and me. “Take the speaker inside. Then leave us the forks.”
+
+He obeyed.
+
+When the door closed behind him, the roof became quiet except for rain ticking on canvas. My wife sat on the overturned cake table. The tightness in her face had outlasted the danger.
+
+“Left wing?” I asked.
+
+She turned to give me access, careful and unsmiling.
+
+The outer primary was whole. Two smaller feathers had crossed under it, their barbs ruffled where the canvas had dragged them. I took the narrow comb from my tool pouch and worked from the tips inward while she held still. Rain darkened the shoulders of her dress. The warmth around her had drawn close to her skin, no wider than breath on glass.
+
+“You threw my cake,” she said.
+
+“The table was on the release.”
+
+“I saw.”
+
+“I can buy another.”
+
+“Not tonight.”
+
+I eased the last feather back into its proper overlap. “No.”
+
+She flexed the wing once, then folded it. “Thank you.”
+
+I put the comb away. “I’m sorry.”
+
+She waited.
+
+“I kept calling it politeness because that sounded better than guessing,” I said. “I wondered, made up an answer, and stopped before the part where I asked you.”
 
 “Yes.”
 
-There was no neat division that made one of us innocent. Her silence had protected her from a fear I had not caused, then carried that protection into vows I had made without understanding it. My incuriosity had begun as courtesy and hardened into certainty because certainty was easier.
+“I should have asked.”
 
-“I’m sorry,” I said. “Not because my guess was stupid, although it was very stupid. I’m sorry I mistook not judging you for knowing you.”
+“A long time ago.”
 
-Her eyes brightened. Not with light. Just tears.
+Rain found the back of my collar. I kept my mouth shut.
 
-From the living room, someone called, “Wait, did you say angel?”
+“I am still angry,” she said.
 
-We both froze.
+“I know.”
 
-My best friend appeared at the kitchen entrance, holding the mushroom tray like a shield. “For the record, I told no one.”
+“I’ll probably still be angry tomorrow.”
 
-Behind him, half the party was trying not to look interested and failing. The other half had given up pretending.
+I nodded.
 
-Our nervous coworker spoke first. “Can you really bless things?”
+“If you wake me early to apologize again, I will throw you out of bed.”
 
-“Is that why the apartment feels so nice?” someone else asked.
+“I’ll wait until you’re awake.”
 
-The neighbor hugged the cake to her chest. “I knew those stairs felt shorter.”
+Her mouth moved, almost a smile and not yet one.
 
-The questions were smiling questions at first. Could she improve job interviews? Weddings? Lottery tickets? Could she do something about a football team’s defense? Someone asked whether a blessed houseplant still needed watering.
+I rescued the cake box. The bottom had gone soggy, but the lid opened. The lemon layer had slid sideways into the chocolate layer and taken most of the sugar flowers with it. My wife stared down at the wreckage.
 
-My wife answered the first two with a strained patience I recognized. Her wings tightened until the tips crossed at her ankles. The warmth in the apartment thinned. Nobody stopped smiling, but the smiles became the embarrassed kind people wore when they realized they had been laughing too loudly.
+“Forks,” she said.
 
-Then a guest near the window pushed forward. He had been quiet all evening. Now his hands shook.
+We ate standing beneath the shallow shelter of the access-room overhang. She took the lemon side. I took whatever she pushed away. The cake had acquired a little rain and a lot of cardboard, but the middle was excellent.
 
-“My brother is sick,” he said. “They’ve tried everything. If you could just touch him, or say something, anything...”
+After several bites, she nodded toward the door. “Where is the speaker?”
 
-The room went still.
+“Inside. The party is over.”
 
-My wife’s face changed in a way I had never seen. It was not coldness. It was the look of someone standing at the foot of a familiar, impossible hill.
+“The guests left. Our anniversary did not.”
 
-Every eye turned to her.
+I looked at the wet roof and the canopy lying in striped folds across our intended dance floor.
 
-Mine did too.
+“You still want the dance?”
 
-For one ugly second, I waited for the miracle.
+“I am angry with you. I did not donate the entire evening to your stupidity.” She cut a sugar flower in half with the side of her fork and gave me the smaller piece. “Get the speaker.”
 
-Then I saw what all those eyes were doing to her.
+At the door, I stopped. “Can I ask you one thing first?”
 
-I moved beside her, close enough that our shoulders touched, and kept my mouth shut.
+“A question,” she said. “Not another theory.”
 
-Her right wing loosened by a fraction.
+“Do you like being an angel?”
 
-“I’m sorry about your brother,” she said. “I can sit with him, if he wants company. I can listen to you. I cannot heal him.”
+She looked out at the rain. Her right wing opened a little, catching the damp current without lifting her from the roof.
 
-The guest’s face crumpled. “But you’re an angel.”
+“I like flying when the wind is not trying to upholster me,” she said. “I like the warmth when a tight room eases enough that someone can laugh if they want to. I hate when they call that happiness and blame me because they are still sad. I cannot choose it for them.”
 
-“I am.” She drew a breath. “I am not all-powerful. I am not a wish-granter, and I am not evidence that grief can be avoided if you ask correctly. What you feel around me is warmth, not happiness. It can make a hard thing easier to carry for a moment. It cannot make the hard thing untrue.”
+She ate the rest of the sugar flower.
 
-She had said it without apology. The room did not know what to do with that.
+“I chose the word after I came here,” she added. “It fits me better than the others did. The rest is not a first-anniversary story.”
 
-I looked at her. She gave the smallest nod.
+“All right.”
 
-“All right,” I said to our guests. “No more requests. She came to her anniversary party as my wife, not as public emergency equipment.”
+I fetched the speaker.
 
-Several people lowered their eyes. My best friend began collecting abandoned plates with sudden dedication.
+We found one dry patch inside the access room, between the mop sink and the breaker panel. Our first-dance song sounded terrible through a wet speaker. My wife put one hand on my shoulder and opened her wings as far as the walls allowed. I kept my hand below the newly combed feathers.
 
-I turned to the man whose brother was ill. “You said they’ve tried everything. Does that include getting dinner into you this week?”
+Halfway through the chorus, the lantern timer finally connected somewhere out on the roof. A dozen soaked paper globes flashed once behind the little window, bright as a bad idea, and went dark for good.
 
-He blinked. “What?”
+My wife laughed. The cramped room eased around us.
 
-“You look exhausted. Does your brother need rides? Does someone need to sit with him while you sleep?”
-
-The neighbor immediately put the lemon cake on the table. “I can make soup.”
-
-The nervous coworker raised one hand. “I have a car.”
-
-Someone by the window said they could cover an evening. Another guest found a pen. Within two minutes, the back of a paper napkin had become a schedule. It was not a miracle. It was six people arguing about soup containers, and it was something.
-
-My wife’s wing brushed my wrist.
-
-When I looked at her, the warmth had returned to the room. Softer this time. Nobody mistook it for a promise.
-
-Later, I stood beside our crooked anniversary cake with a glass in my hand and abandoned the toast I had prepared. The original had three jokes about married life and a story about a smoke alarm. None of it belonged to the evening anymore.
-
-“A year ago,” I said, “I promised to love my wife for everything she was. It turns out I had not done the sensible research needed to support that claim.”
-
-My best friend coughed the word “wings” into his drink.
-
-“Thank you,” I said. “We’ll address your contribution separately.”
-
-My wife stood across from me. Her wings were no longer pinned closed, but her expression remained careful.
-
-“I did know some things,” I continued. “I knew she was funny, generous, stubborn, brave, and capable of repairing plumbing while insulting it creatively. I knew she could make a room feel kinder just by entering it. I thought loving those things meant the rest did not matter.”
-
-I set the glass down.
-
-“It matters because it’s hers. I’m sorry I mistook being unafraid of a question for not needing to ask it. I married her for her amazing personality, and I would like to spend the rest of our marriage learning everything else she chooses to tell me.”
-
-No one clapped right away. I was grateful. Apologies made poor performances.
-
-My wife regarded me for a long moment. Then she came around the table.
-
-“That is a direction,” she said, “not a pardon.”
-
-“Understood.”
-
-“After everyone leaves, you may begin with one real question.”
-
-“Only one?”
-
-“You have a year of homework to make up.”
-
-The room laughed. More importantly, she did too.
-
-Her light rose around her in a pale gold wash. It did not seize anyone’s mouth and bend it toward joy. The man with the sick brother was still grieving. The neighbor’s knees still hurt. My best friend was still an idiot. But grief shared space with soup, pain with cake, and idiocy with loyalty. One by one, people smiled because she had given them permission to remain imperfect in front of her.
-
-I smiled because she had offered me another chance.
-
-We stayed up after midnight cleaning. She washed plates while I dried, since wet feathers were a nuisance and my wings remained entirely theoretical. We spoke about ordinary things: the neighbor’s cake, the forgotten balloons, whether our friend should be banned from future anniversaries.
-
-At last, only two glasses remained.
-
-My wife leaned against the counter. “One question.”
-
-I had hundreds. Where had she come from? Were there others? Did she have duties she had never mentioned? Had she lived before she met me in ways I had failed to imagine?
-
-They could wait until she invited them.
-
-“When you wrap your wings around me,” I asked, “what does it mean to you?”
-
-She looked surprised. Then the final guarded line between her brows eased.
-
-“It means I trust you enough to stop watching the door.”
-
-She opened one wing and folded it around my back. The feathers settled over my shoulder, warm and heavier than they looked.
-
-From the hallway came the scrape of a key against wood, followed by my best friend’s voice.
-
-“I forgot my coat. Also, finally.”
-
-My wife closed her eyes.
-
-“May I ban him from our second anniversary?” I asked.
-
-“That is an excellent second question.”
-
-Her smile broke free, bright and completely her own. Mine answered before the room had time to.
+A moment later she stepped on my shoe, blamed the floor, and kept dancing.
