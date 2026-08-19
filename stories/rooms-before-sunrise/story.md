@@ -8,342 +8,332 @@ canon: false
 
 # The Rooms the City Forgot
 
-Forty-three minutes before sunrise, Mavek rested the teeth of her pruning blade against a warm wall she had already named disease.
+At forty-three minutes before sunrise, Mavek put three teeth of her municipal blade into a warm swelling on Mast Nine and heard crockery move behind it.
 
-Mast Nine flexed beneath her boots. The movement was ordinary: a slow draw through the tower's service muscle as it readied itself for the morning tide. Clear salt film slicked the wall and pearled along the seams of Mavek's gloves. She had waxed the blade housing before her shift, but one drop found the hinge and made it complain when she opened the guard.
+She stopped her thumb before the fourth tooth engaged. The blade's motor died, leaving the small sounds of predawn Aqessa: water worrying the reef piers far below, wind combing the tower's heat vanes, and now the scrape of a spoon across the other side of a membrane her map showed as solid muscle.
 
-On her wrist, the municipal reader displayed the facts in pale green strokes. No lease nodule. No registered chamber. Mineral uptake at three times the rate of the adjacent apartments. Heat without a corresponding resident signature.
+Mavek kept the blade where it was. Pulling it carelessly would tear the shallow cut into a mouth.
 
-She thumbed the blade to diagnostic depth. Its first teeth worried through the tower's outer rind. The flesh gave with the fibrous drag of wet rope.
+Her wrist reader laid pale figures over the wall. The swelling drew mineral at nearly three times the service band's allowance. It carried heat, divided fast, and lacked both a lease nodule and a chamber boundary. Four signs her crew used to distinguish a bad bud from a room. Four signs that usually let her cut without waking anyone.
 
-From beyond the cut line came the bright strike of a spoon against a bowl.
+The spoon struck a bowl once.
 
-Mavek killed the blade. The teeth stopped less than a finger's width from the inner membrane.
+“Move away from this wall,” Mavek called.
 
-For a moment she heard only the mast's pulse and the sea slapping the lower reefs of Aqessa. Then the spoon scraped again, slowly this time.
+A woman's voice came through the wet tissue. “How far?”
 
-She leaned close to the wall. “Municipal pruning. Is someone behind this membrane?”
+Mast Nine could flex, warm, seal, and exchange, but it had no structure for words. A person had answered from the cut field and already knew exactly where Mavek stood.
 
-No answer. Mast Nine had no voice, no shaped nerves for one. Its lease systems communicated by pressure, heat, water, and the blunt chemistry of welcome or rejection. Still, Mavek felt foolish addressing a wall until a woman on the other side said, “Your saw answers that question poorly.”
+“Two arm lengths. Take everyone with you.”
 
-“Step away from the cut.”
+“Only my table is close. Give me a breath.”
 
-“I did. The table didn't.”
+Wood dragged. A peg squealed out of the floor. Mavek waited until the voice said, “Clear.”
 
-The wall bulged outward under Mavek's palm, then settled. The reader continued to insist that the volume behind it was solid service tissue.
+She reversed the teeth one by one, pressed sealing foam into the narrow cut, and clipped the blade to her belt. Restraint felt worse than cutting. A clean excision left two edges she could inspect and join. An uncut growth kept all its answers inside it.
 
-Thirty-nine minutes.
+The legal maintenance fold ran four palms to her right. Its groove should have descended straight along the exterior service muscle, but halfway down, the groove bent toward the swelling and disappeared beneath clear salt film. Mavek brushed the film away. She fitted a fold-key into the groove and sent a low contraction through it.
 
-Mavek retracted the blade and took a fold-key from her belt. Pruning was easiest when done early. A bad growth taken at the bud cost a scoop of tissue and an afternoon of mineral paste. Left until it found a feeder rib, it could hollow half a mast. Every pruner learned that lesson from diagrams; Mavek had learned it from holding a compression cuff on a feeder while an upstairs family hammered at a door that had swollen shut.
+The wall pleated, held at an old scar, then opened to the width of her hand.
 
-She had never learned what to do when the growth set a table.
+Warm air breathed past her, smelling of boiled grain, lamp oil, damp blankets, and bodies.
 
-The fold-key sent a harmless twitch through the muscle. A maintenance seam appeared beneath the salt film, too new to be on her map. She eased it apart. Warm, briny air slipped through carrying boiled grain, lamp oil, and the sour trace of seven sleeping bodies.
+“One notch wider,” the woman said. “The table blocks the other way.”
 
-The woman waiting inside was narrow-faced and gray-haired, dressed in trousers patched at both knees. One hand held the offending spoon. The other braced a table whose three feet had been pegged to the floor with barbed fishbone. Adhesive would not last a week in an Aqessan apartment; the walls shed salt before every tide, loosening labels, mirrors, love notes, and anything else tenants imagined should stay where they put it. This room shed the same clear film. It had already tarnished the spoon black along one edge.
+“Two would split the upper seam.”
 
-“Name,” Mavek said.
+“One, then. You won't clear it as it is.”
+
+Mavek increased the key by one notch. The fold parted enough for her shoulders, no more. She went through sideways, blade guard turned toward her hip.
+
+The woman had gray hair braided close to her head and a spoon tucked into her waistband. She held a three-legged table clear of the wall. Each foot ended in a barbed bone peg. Glue was useless in Aqessa's living rooms; the salt shed before morning tide loosened hooks, labels, and most tenants' faith in shelves. This room shed the same salt. A cloudy water blister hung over a basin, waste cilia slept beneath a slatted cover, and heat pleats ribbed the low ceiling.
+
+None of it existed on Mavek's reader.
+
+“Name.”
 
 “Imro.”
 
-Mavek raised her census reader. “Lease palm.”
+“Palm.”
 
-Imro did not offer one. “You can put that away.”
+Imro shifted the table to one hand and offered the other. Municipal light crossed her skin, found no lease, searched the census, and returned an empty ring.
 
-“I can put away the blade or the reader. Choose.”
+Mavek changed reader modes and tried again. Empty.
 
-Imro gave her the hand. The reader painted light across the creases, waited, and returned a hollow circle.
+“When did the record fail?”
 
-NO RESIDENT.
+“Fourteen nights ago, after the relocation counter sent us to a mast that wouldn't take the leases.”
 
-“Again,” Mavek said.
+The answer gave Mavek a date. The reader still showed a blank where Imro's record should have been. She entered the date manually. “How many are inside?”
 
-“It won't improve with practice.”
+“Seven, counting me.”
 
-The second scan returned the same result. Mavek looked past her. The room was small but complete: heat pleats in the ceiling, a cloudy water blister beside a washbasin, waste cilia furled under a covered trench. The far wall curved into a doorway. Beyond it, the floor continued down and inward.
+Mavek changed to an occupancy sweep. Six deeper pulse patterns appeared beyond Imro's and curved inward through tissue the tower map labeled solid. The census lookup returned an empty ring for each one.
 
-“How many?”
+“Anyone beyond the innermost wall?”
 
-Imro tapped the spoon twice against her palm. “Seven people. Seven if nobody's gone outside without telling me.”
+“No one past the wet room.”
 
-Mavek's map showed a service muscle, one feeder rib, and no voids at all. “Wake them. Nobody cuts, grafts, pulls, feeds, burns, or pours anything until I finish inspection.”
+The tower flexed under their feet. It was a routine preparatory draw, weaker than the circulation that would climb from its lower reservoirs at sunrise. The water blister dimpled and recovered.
 
-“You arrived holding the only blade.”
+Thirty-seven minutes.
 
-“Then this should be easy for you.”
+“Wake the others,” Mavek said. “No one touches the walls, the feeders, or anything grafted into them. I inspect to the inner end and back.”
 
-Imro's mouth tightened. She set down the spoon.
+Imro set the table down without replacing its pegs. “And if you decide to cut on the way in?”
 
-Mavek opened the classification on her wrist. The municipal form offered two fields. HOUSING. DISEASE. At sunrise, Mast Nine's lower reservoirs would contract and drive a fresh mineral load through every feeder. If the new tissue was proliferative, the pulse could carry it into the structural ribs before a crew could isolate them. Her on-site judgment was required before then. Disease authorized an immediate cut. Housing forbade one without a different order, one no dawn supervisor could improvise.
+“Three long strikes through the main rib. After the third, you use this fold. You'll have four minutes before pressure falls.”
 
-There was no field for a room occupied by a person the census denied existed.
+Imro watched the blade at Mavek's belt instead of Mavek's face. She lifted a small oil lamp from a bone hook.
 
-Imro lifted a lamp from its wall hook, freeing it from another bone peg. “You'll need this. The blue pores haven't learned when to open.”
+“The passage turns,” she said. “Keep your left shoulder to the inner wall.”
 
-“Learned?”
+Mavek followed.
 
-“Started, if you prefer a word that frightens you less.”
+The hidden passage coiled inward around Mast Nine's central service band. Its floor descended in shallow ridges, each one firm enough for a boot but soft at the lip. Imro knew where to shorten her step. Mavek tested every ridge with the blunt heel of her probe before trusting her weight.
 
-Mavek followed her through the far doorway.
+In the second chamber, a man was wrapping clothes inside a sleeping mat. He had put on one shoe and left the other beside a chipped mineral grinder too heavy to carry. While he knotted the mat, the ceiling pleats above his bare foot thickened and warmed.
 
-The passage spiraled toward the center of the mast, descending by shallow ridges that had hardened like vertebrae underfoot. Imro moved without looking down. Mavek placed each boot deliberately, feeling for soft tissue. The walls were pink-brown and slightly translucent. Veins of dissolved shell shone when Imro's lamp passed them.
+Mavek pressed a temperature strip to them. “Who shaped this fold?”
 
-In the second room, a man knelt beside a sleeping mat and rolled shirts into a blanket. He did not ask what Mavek planned. He packed a chipped cup, two coils of cord, and a packet of dried peel. When the blanket would not close, he took out the cup and held it in his hands.
+“It gathers heat where his leg locks,” Imro said. “We moved his mat twice. The warmth moved after him.”
 
-“The room's warmer over him after midnight,” Imro said at the door. “He cramps in cold.”
+“How long did the change take?”
 
-Mavek pressed two fingers to the nearest heat pleat. The folds had thickened above the mat and thinned over the unused half of the room. Legal rooms made similar adjustments through the lease nodule, reading salts and temperature from a tenant's skin. Here there was no nodule. She swabbed the pleat. The tissue was clean, well supplied, and dividing faster than code allowed.
+“One night the first time. Less than an hour now.”
 
-“Did you shape this?” she asked the man.
+The tissue was regulating heat for him as legal housing did. On Mavek's strip, it was changing faster than legal housing was allowed to change. She cut a sample no larger than a fish scale. Healthy capillaries closed beneath her knife. New cells crowded the sample's edge.
 
-He looked to Imro, then back to his cup. “I slept.”
+“Excision rate,” she said.
 
-In the passage beyond, Mavek found three blind buds pushing into the service muscle. Each was no bigger than a thumb joint, without water vessels or nerve mesh. Useless growth. She marked them with chalk that the salt film would erase by midday.
+Imro looked at the man, not at the sample. He left the grinder, took the second shoe, and carried the rolled mat toward the outer room.
 
-Housing adapted. Disease proliferated. The distinction was reassuring on training tables where the samples had been killed first.
+Beyond his threshold, three blind buds pushed from the passage wall. Mavek's probe found no air pores, water vessels, waste cilia, or load-bearing fibers in them. They consumed mineral and served nothing she could measure.
 
-Thirty-one minutes.
+She ringed each bud with blue assay chalk.
 
-The next chamber held two adults and a child old enough to understand packing. The adults folded bedding while the child worked six carved animals loose from the wall. Each had been fixed with a double-barbed peg. She freed five. The sixth peg had sunk under fresh tissue, and she pulled until her knuckles whitened.
+“Those weren't there yesterday,” Imro said.
 
-“Leave it,” one adult said.
+“You're certain?”
 
-“It's mine.”
+“I hung the lamp on that peg.” She pointed to a bone barb now half swallowed by the middle bud. “I still have the tear in my cuff.”
 
-Mavek crouched, slid a blunt probe around the peg, and compressed the new tissue until it released. The child snatched the animal without thanks. A bead of clear fluid formed where the peg had been and sealed the puncture.
+Growth within a day. Mavek pressed a listening pin beside the buds. Their vibration was quick and shallow, badly synchronized with the surrounding muscle.
 
-Too fast, Mavek thought.
+“Don't sleep against this passage,” she said.
 
-Also useful.
+“We don't. It's a passage.”
 
-At the room's water blister, she tested salinity and microbial load. Both were safe. The blister refilled while she watched, drawing from a pipe that should have supplied two leased apartments above. Her wrist showed their pressure falling by a measurable fraction.
+Imro moved the lamp inward.
 
-“They complain?” Imro asked.
+The third chamber held an adult and a child. The adult bundled blankets while the child worked carved fish from their wall pegs. One fish remained trapped where new tissue had covered the barb. The child tugged until the wall blanched around it, then stopped, chose four other toys, and pushed them into the bundle.
 
-“Not while they're asleep.”
+Mavek tested the chamber's water. The blister above the basin held clean water at a safe salt balance. It refilled as her sample tube drew, though no lease nodule instructed it to do so. On her map, the supply line belonged to two apartments three levels above.
 
-“They'll complain at breakfast, then.”
+“It fills at night even when we tie it off,” Imro said.
 
-Mavek glanced at her. “You say that as if you're staying.”
+“The upper line has lost nine percent pressure.”
 
-“I say it as if your numbers don't care where I put my blanket.”
+“Give us a clamp. They can carry from the public cistern.”
 
-Imro's lamp moved on. Behind them, the adults kept packing.
+“A clamp here could backflow waste into the legal line.”
 
-The occupant of the fourth room had already stripped his niche except for a reed frame too wide for the passage. He sat on it to break the joints, stopping whenever the wall flexed under the impact. Mavek tested the bruised tissue before she followed Imro onward. It was thickening around each dent.
+Imro put two fingers beneath the blister, feeling its weight. “Then mark the pipe. We can stop drinking before you find a better answer.”
 
-Between the fourth and fifth rooms, the passage narrowed around the feeder rib. Here the flesh had the pale, papery look Mavek distrusted most. The illicit chambers drank mineral faster than the mast could carry it inward. She set a listening pin against the rib. The vibration arrived thin and irregular, a stressed hum under the stronger dawn rhythm.
+Mavek tagged the stolen branch on her reader. Imro pulled the basin away from it. Behind them, the adult shouldered the blanket. The child went back, eased the trapped fish until its peg tore free, and pocketed it despite the adult's outstretched hand. A bead of clear fluid sealed the wall in seconds.
 
-This was the place to cut. Not the outer wall, not through a table: around the feeder, above and below, isolating the entire spiral before the morning load. She could bring her blade up to full depth and finish in nine minutes. The residents would have perhaps four minutes to cross the maintenance fold. Anyone who stumbled would be inside when the chambers lost pressure.
+Twenty-nine minutes.
 
-Mavek looked back. The curve of the spiral hid the outer room. There were bodies behind three walls in either direction, and her reader saw none of them.
+In the fourth chamber, an older resident sat on a reed frame too wide for the spiral. Instead of packing it, they were untying the joints one by one. Their breathing made a patch of tiny wall pores open and close near the pillow. When Imro's lamp approached, the pores tightened. When it passed, they opened again.
 
-“How long has the rib looked like this?” she asked.
+No lease nodule. Sustained exchange. Fast response.
 
-Imro held the lamp near it. Her evasiveness went still. “I don't know.”
+Mavek noted both.
 
-“You've been watching the water and heat.”
+The main feeder rib crossed the passage beyond that room. It rose from the floor like a thick white tendon, curved through the inner wall, and carried the tower's mineral slurry upward. An illicit branch left its underside and followed the spiral toward the hidden chambers.
 
-“We live here. We watch what keeps us alive.”
+The rib should have been ivory and spring-hard. Around the branch it was gray, thin enough for Mavek to see fluid shiver through it.
 
-“Then you watched this.”
+She placed listening pins on the main rib, one above the branch and one below. The upper pin hummed evenly. The lower missed every sixth beat.
 
-“I watched the wall go pale yesterday. It colored again after high tide.”
+Her thumb lifted the blade guard. Habit completed half the motion before she stopped it.
 
-“And you didn't report it.”
+This was the cut she trusted: two crescents across the branch root, angled away from the main rib, then a compression bridge over the open ends. Nine minutes if the flesh separated cleanly. The spiral would lose pressure. The rooms might sag, close, or bleed into the service muscle, but the rib would keep Mast Nine standing.
 
-“To whom?” Imro asked. “Your little glass says there is nobody here. Was I meant to slide a complaint under the door of an apartment that isn't on the map?”
+Imro crouched on the other side and held the lamp low. “It was that color yesterday.”
 
-Mavek removed the listening pin. A drop of salt film ran into its collar. She wiped and waxed it by habit, though her hands wanted the blade.
+“How long?”
 
-“Something started this growth,” she said. “Show me.”
+“Until high tide. It pinked after the lower tanks filled.”
 
-Imro lifted the lamp and continued inward.
+“This isn't tide color. The inner layers are losing shell.”
 
-The rooms grew less finished as they descended. The fifth had a working waste trench but no separate sleeping niche. In the sixth, water gathered in a sagging wall pocket rather than a proper blister. A woman tied a cookpot to her back with a curtain cord. She stepped aside for Mavek, then changed her mind and blocked the doorway.
+“Will it split at sunrise?”
 
-“If you cut,” she said, “say it where all of us hear.”
+“It may.”
 
-“I haven't classified it.”
+Imro glanced back along the curve. The resident with the reed frame had freed only half the joints. “Then why are we going farther in?”
 
-“That isn't what I asked.”
+Mavek released the blade handle. “The branch narrows toward its source. If I cut, I choose the smallest cut that clears it.”
 
-Mavek looked at the cookpot, the knot, the woman's bare feet planted on a floor that warmed around them. “If I cut, I'll sound three long strikes through the rib. You'll have four minutes after the third.”
+Imro stood and carried the light onward.
 
-The woman nodded once and let her pass.
+The fifth room had no water blister, but its air pores worked. A resident with a cloth tied over their mouth packed three medicine tubes into a belt and left bedding where it lay. As Mavek entered, the pores widened, drawing the bitter medicinal smell toward the passage. The resident watched the ceiling, waited for the next breath of air, then slipped past Imro toward the outer fold.
 
-Twenty-two minutes.
+The sixth chamber had a waste trench and a sagging water pocket but no heat pleats. A broad-shouldered woman set a cookpot on a square of sailcloth, tested the bundle's weight, and took the pot off again. Imro crouched to lift it for her. The woman covered its handle with one hand, left it on the sailcloth, and tied her boots.
 
-The spiral ended in a chamber barely large enough for two people to sit. Its surfaces were dark, wet, and unfinished. No lamp pegs had been driven here. Imro set the light on the floor. Against the inner wall, a ribbed sleeve emerged from new tissue and closed around an object the length of Mavek's hand.
+Mavek counted. Imro; the man with the stiff leg; the adult and child; the resident dismantling the frame; the person with medicine; the cook. Seven.
 
-Mavek recognized the graft seam before she saw the object clearly. One edge was old scar; the other had knitted badly, as if the tower had been made to accept tissue cut from somewhere else.
+Past the sixth chamber, the spiral narrowed to a wet cell that could barely take Mavek and Imro side by side. Its floor sloped toward the central rib. There were no furnishings and no pegs. Pale tissue gathered in ropes around an object embedded lengthwise in the inner wall.
 
-She touched the sleeve. The wall tightened around the object.
+Mavek set her lamp pin beside it. The object was hand-long, ribbed, and brown at its exposed end. A seam circled its base where yellowed foreign tissue met Mast Nine's pink muscle.
 
-“Don't,” Imro said.
+“Don't open that seam,” Imro said.
 
-Mavek took out her probe. “That's the first honest word you've given me.”
+Mavek kept the flat of her probe against it. “The scar predates the rooms. What is inside it?”
 
-“I gave you my name.”
+Imro's grip tightened around the lamp.
 
-“My reader disagrees.”
+“Not inside the rib. There was a service scar beside it.”
 
-“Your reader wasn't in the relocation queue.” Imro crouched across from her. “They moved our leases. The receiving mast rejected the batch. During reconciliation, the old entries closed before the new ones opened. We went back three times. On the fourth, the counter had no record that we had ever stood there.”
+“What did you graft?”
 
-It was more history than Mavek needed and less than the city form requested. A failed transfer could erase a lease for a day. Seven people gone this long meant several failures laid end to end, but she could not tell whether they had been accidental, purchased, or arranged. Sunrise would not wait for that answer either.
+“A nursery plug.”
 
-She slid the probe under the sleeve. The object was a nursery plug, browned at the cut end and still faintly warm. Such plugs coaxed emergency chambers from young masts while permanent lease nodules took root. Municipal stores accounted for each one because a misplaced plug could make a tower spend itself growing space no engineer had planned.
+Mavek uncovered the municipal marker with one stroke of her probe. The serial had been scraped away, but the plug's rib spacing was unmistakable. Nursery plugs were used to coax a single emergency room from young apartment tissue while permanent lease nodules rooted. They were counted at every civic store because their growth salts did not care whether a wall had budget left to spend.
 
-“Where?” Mavek asked.
+“From the failed relocation?” Mavek asked.
 
-“From the relocation nursery. After they cleared it.”
+“From the nursery after they emptied it.”
 
-“You grafted it here.”
+“You cut it out.”
 
-“I did.”
+“It was already loose.” Imro lowered the lamp so the flame no longer hid her face. “We pushed it into the scar. Starter gel, a cup of brine, my blood. One feed.”
 
-“Seven rooms.”
+“And one room.”
 
-“One,” Imro said. “We asked for one. Enough to get out of the rain and stop the little one coughing. The next wall softened by itself. Then the stairs turned.”
+“One dry room by morning. All seven of us slept in it. Three nights later, that wall folded open. Then another.”
 
-“You fed the plug?”
+“You fed those?”
 
-“Salt, blood, the starter gel still in its sleeve. Once.”
+“Nothing. We moved our blankets. The water came after.”
 
-Mavek sampled the seam. Nursery tissue, Mast Nine tissue, and fresh untyped cells tangled in the probe's capillary. The ratios changed when she sampled a finger's width away. She could map the direction of growth back to this chamber. She could not tell whether the plug had instructed the mast, merely wounded it, or given it a way to respond to bodies sleeping in an empty muscle.
+Mavek slid a capillary along the graft without breaking it. Nursery cells crowded the seam and diminished within a hand's width. Mast Nine's own cells dominated farther out. Between them lay untyped cells that might have come from the plug, the tower, or skin shed by people packed into the first chamber. The chemistry mapped the spread from this point. It could not distinguish continued instruction from a wound response or adaptation to seven bodies. The plug had caused or catalyzed the first room; its exhausted starter gel did not account for the later ones.
 
-Above them, Mast Nine contracted. The lamp flame flattened, and pressure pushed at Mavek's ears.
+Mast Nine tightened around them. The lamp flame shortened. A deeper beat entered the floor as the lower reservoirs began their final fill.
 
-Sixteen minutes.
+Fourteen minutes.
 
-Imro wrapped both hands around the nursery plug. The sleeve puckered under her fingers.
+Mavek's reader opened the dawn decision over her samples: `housing` or `disease`. No third field. The classification had to be signed before circulation or the anomaly would default to emergency excision.
 
-“Let go,” Mavek said.
+Imro set the lamp down and wrapped both hands around the exposed end of the plug.
 
-“If this is the sickness, take it out.”
+“Release it,” Mavek said.
 
-“Let go.”
+“If this is what you have to cut, take it alone.”
 
-“You want to know what started the rooms. So do I.” Imro's voice had lost its dry edge. “Pull it, watch what stops. If the rooms close, you have your answer. If they keep growing, you cut.”
+“It isn't loose now.”
 
-“And if the feeder tears when the graft comes free?”
+“It came out of the nursery with two fingers.” Imro shifted her feet for leverage. “The others are almost at the fold. Pull this, see if the rooms stop drawing. If they close, we get out. If they don't, you know where to put your blade.”
 
-Imro looked toward the passage. The six rooms curved away beyond sight. “Then you'll have four minutes.”
+She twisted. The seam whitened. The lower listening pin at Mavek's wrist dropped a beat.
 
-“No.”
+Mavek drove the blunt guard of her blade between Imro's knuckles and the wall, blocking the turn without touching the teeth. “Stop. You're unloading the graft.”
 
-“You were ready to saw through my breakfast.”
+“That's why I'm doing it.”
 
-“I heard the spoon.”
+“A collapse tells me you tore out bearing tissue. It does not tell me the rooms were disease.”
 
-“Hear me now.” Imro twisted the plug a fraction. The wall around it blanched.
+“It tells us not to sleep in them.”
 
-Mavek caught her wrists. “A collapse means the plug was carrying the rooms, or that you ripped out a healed graft. Continued growth means the mast has taken the pattern, or the cause is somewhere else. No change means we waited too little. Every result leaves us guessing, and some of them bury seven people.”
+“And continued growth tells me nothing until after the pulse.” Mavek leaned into the guard until Imro's hands opened. “No. Seven people are still in this cut field. The plug may be holding the feeder together. I won't spend them and Mast Nine to get a cleaner sample.”
 
-Imro strained once, then stopped. “Guessing is what you came with.”
+For a moment Imro kept one palm against the plug. Her other hand shook from the strain.
+
+“If you leave it,” she said, “we may be the weight that splits the rib.”
 
 “Yes.”
 
-The admission quieted them both.
+Imro took her hand away.
 
-Mavek loosened her grip but kept one hand between Imro's fingers and the plug. With the other she unclipped an isolation sleeve from her belt. It was meant for containing suspect buds during transport, not for wrapping a graft still joined to a housing mast. She opened it flat and eased its mesh around the plug's ribbed casing.
+Mavek unrolled an isolation sleeve from the back of her belt. It was a split mesh cuff meant to contain a suspect bud without pulling it from living tissue. She fed its narrow lower tongue between the exposed plug and the wet ropes around it, stopping where the graft disappeared into the wall. The upper half closed over the plug. When she pressed the edges together, the mesh stiffened and bonded to healthy Mast tissue in a ring around the seam. The sleeve would trap shed cells and slow chemical exchange without taking any of the plug's possible load.
 
-“That doesn't fix the feeder,” Imro said.
+“Hold the light on the lower edge,” Mavek said.
 
-“No.”
+Imro did. When a thread of brown fluid entered the mesh, she shifted the flame before Mavek asked, showing the spread along the sleeve rather than hiding it in glare.
 
-“Does it stop the rooms growing?”
+Mavek knelt to attach a sensor. The unfinished wall touched the sweat at the back of her neck. A scatter of pores opened there, stirring cool air under her collar. Tissue thickened beneath the hard corner of her tool case until its weight stopped biting into her thigh. Beside her bare wrist, a clear bead gathered and rounded into a thumb-sized water sac.
 
-“It may slow chemical exchange. It may do nothing.”
+Her lease belonged elsewhere in Aqessa. No nodule linked her to this room. The tissue was exchanging air, support, and water with the body inside it anyway.
 
-“Good municipal work.”
+At the same moment, her reader showed the hidden branch taking another fraction of mineral from the main rib. A blind nub pushed against the sleeve's upper edge, purposeless and new.
 
-“Hold the lamp.”
+Mavek sampled the nub, capped it in blue gel, and stood.
 
-Imro did.
+Nine minutes.
 
-Once the sleeve sealed, Mavek sat back against the unfinished wall to enter the sample readings. Damp tissue touched the nape of her neck. She shifted away. The surface dimpled, then opened a scatter of tiny pores behind her collar. Air moved across her skin, carrying off sweat.
+“Back to the feeder,” she said.
 
-Mavek went still.
+Imro picked up the lamp. “Blade or bands?”
 
-A soft blister rose beside her left hand. Clear water gathered inside it. At her hip, the floor thickened under the weight of her tool belt. The changes were crude and small, but they matched her body: its heat, its pressure, its thirst. There was no lease nodule in the room. Her census identity was valid, yet she had not offered it to the tissue. Whatever the chamber sensed, the blank place where a lease signal should have been did not stop it.
+“Bands first.”
 
-The listening pin, still fixed to the feeder trace on her wrist, showed the mineral loss continuing.
+On the outward walk, the cook's pot remained on the sailcloth; its owner had chosen boots and a small knife. The resident from the fifth room was gone toward the fold, medicine secured at the waist. In the fourth, the reed frame lay in six sections, but its owner had taken only two and left the rest stacked above the floor's damp line. The child wore the bundle of blankets like a shell and kept one fist around the fish with the torn peg.
 
-Shelter and strain. Neither canceled the other.
+At the pale feeder, Mavek fed a narrow occlusion band through the groove between the main rib and the illicit branch. She locked it around the branch root without circling the rib. A wider reference band went around healthy rib tissue below the junction. If the branch draw crossed the red limit, the first band would constrict it; the reference band would stop that contraction if host pressure collapsed. Neither could replace mineral already lost. She linked both to the sensor in the plug sleeve, then painted a blue line on the floor outside their contraction range.
 
-Ten minutes.
+“Anyone using the exterior fold crosses now,” Mavek told Imro. “At the first reservoir knock, it stays open. Everyone else keeps outside this line.”
 
-Mavek stood. The pores behind her closed slowly, leaving a cool salt crust on her neck.
+Imro sent four quick taps along the wall with the spoon from her waistband. The signal traveled outward. The man with the rolled mat continued through the fold. The adult carrying blankets stopped inside it; the child crossed the passage to their side, still clutching the fish.
 
-“Are you cutting?” Imro asked.
+Six minutes.
 
-“We're going back to the pale rib.”
+The bands tasted the feeder's flow. The reference reading held. The branch continued to thin, but slowly enough for the occlusion band to close before a tear if its sensors remained true. Mavek tagged the three blind buds for non-destructive sampling and set separate alarms for the stolen water line, the graft, and the mineral deficit.
 
-“That isn't an answer.”
+Biological risk, active and unresolved.
 
-“Bring the lamp.”
+She did not clear the blade.
 
-They retraced the spiral. The sixth room no longer held its cookpot or its owner. In the fifth, someone had bundled the bedding but left a steaming bowl on the floor. The water pocket bulged above it, catching the lamp's reflection. Mavek had seen the rooms as extensions of the graft on the way in, each adaptation another symptom radiating outward. Now the objects interrupted the pattern: a curtain cord gone, a mat rolled, damp footprints cooling where people had chosen what to carry.
+They returned to Imro's outer room. The table stood loose on its three legs. Imro planted one knee against it while Mavek opened the decision field. Beyond the room, packed residents occupied different thresholds, some facing the fold and some facing inward.
 
-At the pale feeder, Mavek cut nothing. She fitted two pressure bands around the rib, one above the illicit branch and one below. Their needles tasted flow through the skin. There was enough difference to isolate the draw in the report and alarm it if the rib weakened further. Not safe. Watchable.
+The reader displayed its two tests. `Disease`: uncontrolled tissue requiring immediate excision to preserve the host. `Housing`: tissue sustaining shelter exchange with occupants.
 
-Imro watched her set the thresholds. “Can I tell them to unpack?”
+Mavek reviewed the heat that followed a sleeping leg, clean water drawn through the wrong pipe, waste cilia, breath pores, sealed peg wounds, and the unfinished cell's response to her own weight. Then the blind buds, the starved rib, the illegal plug, and the branch still drinking toward dawn.
 
-“No.”
+The rooms met the housing test. The blind growth and feeder strain remained active biological hazards, but the bands and sleeve gave her a non-destructive interval through the pulse. Under the separate hazard field, Mavek attached the plug-sleeve trace, the branch and rib thresholds, and every blue mark. She ordered isolation without excision.
 
-“Can I tell them to leave?”
+Then she selected `housing` and pressed her palm to the signature field.
 
-“If they have somewhere.”
+Two minutes.
 
-Imro rubbed the heel of her hand over her mouth, then went to pass the answer along.
+Imro watched the reader accept Mavek's name. “Does housing put our palms back?”
 
-Mavek returned through the remaining rooms alone. She recorded seven occupied bodies manually. The form demanded lease histories, but she left those cells empty rather than repeat what the census had said. She marked three blind buds for sampling, the upper apartments' water loss, the stressed feeder, the graft seam, and the nursery plug now held in a containment mesh of uncertain value.
+“No. It stops this excision. Your census entries are still empty.”
 
-At the outer room, the first gray line of morning showed through the maintenance fold.
+“Can they cut after today?”
 
-Three minutes.
+“A later finding can. A lease order can remove you without calling the rooms disease.” Mavek tightened the table peg nearest the fold so it would not jump during circulation. “The rib is still losing mineral. The bands can fail.”
 
-The binary fields waited on her wrist.
+Imro looked down the spiral. “So no one unpacks.”
 
-DISEASE would turn her blade into the next action. HOUSING would stop the emergency cut and summon inspectors whose instruments might be better, whose orders might be worse, and whose arrival would not make seven missing records reappear. The classification could describe what the tissue was doing now. It could not absolve the graft or promise the mast another year.
+“Some have crossed the fold already. Keep whoever stays off the blue line.”
 
-Mavek selected HOUSING.
+Imro tapped a different sequence with her spoon: no cut now, rib unsafe. The cook went back for her pot. The resident with the reed frame left two sections behind. The child passed the blanket bundle to the adult and kept the fish.
 
-The form asked her to confirm that the growth performed sustained exchange with occupants. She confirmed. It warned that illegal housing remained subject to lease enforcement. She confirmed that she understood. It asked for the responsible pruner.
+The first reservoir knock came through the floor.
 
-She pressed her palm to the glass.
+Mavek widened the maintenance fold by half a hand so it would not seal during the surge. Imro braced the loose table. The room's heat pleats flattened as Mast Nine drew inward.
 
-“Done?” Imro stood by the table with the tarnished spoon tucked through her belt.
+Sunrise reached Aqessa's upper reefs.
 
-“Classified housing at two minutes before sunrise. Emergency pruning is stayed.”
+The dawn circulation struck the feeder rib. Warmth rushed under Mavek's boots. The water blister collapsed to a skin, filled again, and quivered. Deep in the spiral, the isolation sleeve's sensor darkened with captured fluid. The branch band tightened until its reading hovered one mark below red.
 
-Someone in the passage gave a short, involuntary laugh. Nobody else joined it.
+For three beats the hidden branch took no more.
 
-Mavek continued. “The feeder is losing mineral. The plug stays sleeved. Nobody touches the pressure bands. A dawn team will inspect the graft, the blind buds, the upper water supply, and every room.”
+On the fourth, mineral began to pass into it again, slow and measurable.
 
-“Housing,” Imro said, trying the word. “So we're tenants.”
+The rooms remained open. The mineral loss resumed.
 
-“No. It means I won't cut occupied tissue as disease this morning.”
+Mavek left the `housing` classification signed and the hazard alarms live. She locked the teeth of her blade, turned sideways through the maintenance fold, and stepped onto Mast Nine's brightening outer ledge.
 
-“And tomorrow?”
-
-The lower reservoirs contracted before Mavek could answer.
-
-The dawn pulse climbed through Mast Nine with a force that bent the table pegs. Heat swept the floor. The water blister flattened, swelled, and held. Somewhere inward, a pressure band sounded one thin note, then fell silent. Mavek watched the feeder trace jump on her wrist and settle above the alarm line.
-
-The mineral loss did not stop.
-
-Imro took the lamp from its peg though morning had reached the room. “Tomorrow, then.”
-
-Mavek closed the maintenance fold behind her and stepped onto the outer ledge. Aqessa was brightening from the reefline upward, its coral roofs flushing rose as their heat vanes opened. All along Mast Nine, legal apartments shed their night's salt in glittering sheets. Ten levels below, another service muscle showed a patch of yellowing tissue, the next item on her route.
-
-She clipped her blade guard and started down.
-
-The tower's ordinary post-pulse contraction caught her safety tether where it crossed the fold. The line snapped taut and pulled her hard against the wall. Before she could reach the release, three taps traveled through the tissue by her shoulder: back one foothold, slacken, pull.
-
-Imro's practical rhythm.
-
-Mavek stepped back. The fold relaxed enough for her to free the tether. Beneath her palm, the wall remained warm, silent, and impossible to question.
-
-She moved down toward the yellow patch.
+Behind her, Imro carried the lamp inward. Beneath Mavek's palm, the feeder missed its sixth beat again.
