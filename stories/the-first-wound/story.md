@@ -8,280 +8,372 @@ canon: false
 
 # The First Wound
 
-Before I entered Tammel's memory, I asked him to stop me.
+Tammel chose *pencil* because I had cleared the room of pencils.
 
-He sat in the joining chair with his sleeves rolled above his elbows, watching the empty frame between us. The frame was an oval of gray ceramic set with pulse glass and nothing else. It could measure the distance between our heartbeats, break the circuit if either of us let go, and ring for the attendant. It could not open a memory. For that, there had to be two living people, one willing to remember and one willing to attend.
+He checked anyway. He looked beneath the two soft cups, along the blue walking rail, and through the oval of gray ceramic between our chairs. His gaze stopped on the session clock: 70:00, not yet moving.
 
-"Choose a word," I said. "Something that does not belong to what happened."
+Tammel rolled his left sleeve above the elbow. A white seam crossed the heel of his palm and disappeared into the wrist crease. His intake form had put *unknown* where an age belonged. Nothing else in his face or body disputed forty.
 
-His intake form gave his age as *unknown*. He looked about forty-five, though the skin at his eyes had the stillness of a person accustomed to letting other people guess and tire of it.
+“Say it,” I told him.
 
-"Spoon," he said.
+“Pencil.”
 
-"Use it now."
+“That names it. Now test it.”
 
-"Spoon."
+He set his forearm inside the oval. I found his pulse; he found mine. We matched one breath while we both watched the clock. On the second, the room leaned faintly toward his left although my feet were square.
 
-I removed my fingers from his wrist. The frame dimmed at once.
+“Pencil.”
 
-"Again, once we're joined. If speaking becomes difficult, press your thumb twice against my fingers. If you can't do that, withdraw your pulse. Don't slow it. Don't hold your breath. Simply stop reaching for mine."
+I let go before the last syllable ended. The pulse traces split, and the room righted. The timer had not moved.
 
-"And you'll come out?"
+He offered his wrist again. This time he pressed his thumb twice against my fingers. I released him at the second press.
 
-"We both will."
+“At any depth?” he asked.
 
-He looked past the frame to the blue walking rail fixed along the wall. Two soft cups waited on the recovery table. Mine stood on the right beside a green wrist band; his stood on the left beside an amber one. Every practical precaution in a recall room looked faintly childish until someone came back with another person's balance.
+“If I hear or feel you, I turn us to this room. Once you can place it, I release.”
 
-"I don't want to watch it," he said. "I want you to find where it starts and take it out."
+“And if you can’t?”
 
-"I can't cut a memory away. I can follow what you let me follow, and help you stay present while we do."
+“Stop reaching for my pulse. At zero, the frame opens the loop.”
 
-"Then find the source. Don't make me look."
+The ceramic could compare rhythms, sound fixed warnings, and open the contact loop. It could not enter, search, or bring either of us home. Joined recall required two living spans of attention. Mine would follow; his would make the path.
 
-Joined recall gave me no private route past him. I could witness what his attention made accessible; I could not search his mind as if it were an unattended archive. "I won't move your attention for you."
+“Go to the first time,” he said. “Don’t turn me around when we get there.”
 
-He put his left forearm through the frame. A pale scar crossed the base of his palm, straight as a crease made by folded paper. I laid two fingers over his pulse. He found mine with his right hand. We took three ordinary breaths, then a fourth together.
+“I won’t move the remembered body.”
 
-The clinic vanished at the speed of a door falling.
+“You’ll still see through it.”
 
-I was under a service lintel with cold rain on the back of my neck. A sheet of corrugated metal rattled downward in front of me. Someone on the other side struck it once, twice, three times, four. Each blow came through the floor and up my shins. My left hand closed so hard that my nails bit the palm, though there was nothing in it.
+“Only where you look.”
 
-The terror arrived before the scene could explain itself. My body tried to throw us flat. Tammel's remembered knees struck wet concrete; my present knees twitched against the joining chair. The frame sounded a low corrective note somewhere far above us.
+He rotated his forearm until the scar faced the floor, then returned it to the oval.
 
-"The clinic," I said. My voice belonged to no mouth in the rain. "Gray frame. Amber band on your left wrist."
+I was Seska to him only when he wanted me to stop sounding like my profession. “Seska,” he said now, “find it without making me watch it.”
 
-"I know."
+“The next sound, the next room, the next step—I can ask for those. You decide whether they open.”
 
-He stood beside me and also knelt beneath the falling door. In joined recall, the remembered person often appeared twice: the body whose senses carried us and the present attention deciding where to look. His present attention was less substantial than the rain, a man-shaped refusal turned toward the wall.
+He put his right fingers over my pulse. “Will you know what really happened?”
 
-The metal door hit the ground. A delivery worker outside shouted that the chain had slipped. Nothing had trapped us. No one was dying. The four blows had been a warning from someone who saw Tammel under the door.
+“I’ll know what you can still remember.”
 
-His remembered heart did not believe any of that. It battered at the old pace.
+His grip on my wrist eased by a degree. We matched one breath, lost the second, found the third. On the fourth, his pulse stopped feeling like something under my fingers and became a direction I could walk.
 
-"Where does the fourth blow lead?" I asked.
+The clock began to fall.
 
-"Here."
+Metal came down in front of my face.
 
-"No. Here is where you woke last week. Find the earliest edge you can reach without leaving this scene."
+It was a freight shutter in a delivery court, six days earlier. Rain had washed brown silt off the wheels of a handcart and spread it over the concrete. Tammel slipped on the inner side of the sill as the shutter rattled from its housing. His left palm struck the ground. The scar burned under a pressure that did not belong to the flat floor; his fingers closed around a lever grip that was not there.
 
-He turned his head a fraction. The service yard drained of color. Rain became ash. The corrugations in the metal broadened into black bars descending through orange air.
+A worker on the other side struck the shutter four times with a wrench.
 
-"There," he said, with something like relief. "That one."
+The first blow took the air from us. The second turned the court sideways. By the third, Tammel’s remembered shoulder had driven into a stack of cartons. At the fourth, the shutter stopped a handspan above the ground, its safety catch engaged, and the worker ducked beneath it to help.
 
-We fell six centuries.
+Tammel hit him before he knew who had opened the way. The worker’s split lip left blood across our knuckles; Tammel remembered its heat and the man’s startled face with equal precision.
 
-Heat pressed against my teeth. We were running along a ditch outside a burning settlement, one among hundreds who had abandoned carts and bundles to reach the inner earthworks. The people around us wore glass scales sewn onto cloth. I understood their shouts only as Tammel had understood them then: *keep low, leave it, faster*. Behind us, roofs made of some pale ribbed material buckled without flame.
+“Keep us in the court,” I said. “Which part changes first?”
 
-A gate of charred timber and iron descended ahead. Tammel's left hand reached for its lower edge. The scar across his palm was already there.
+“The door.”
 
-He looked exactly as he did in my clinic.
+“The door is still here.”
 
-Not a father whose sensations he had inherited. Not an old story dressed in his present body. The reach was his reach, a slight inward turn of the elbow he had made when testing the exit signal. His lungs knew precisely how far they could run. His tongue found the gap behind the same back tooth.
+“The ground, then.”
 
-"How long ago?" I asked.
+Silt ran between our fingers although the remembered hand had lifted from the floor. The four dents in the shutter deepened into black spaces. Rain sharpened to sparks.
 
-"It doesn't matter."
+“Earlier?” I asked.
 
-The gate struck the ground. Four people on our side drove their shoulders into it, and the impact ran through his empty fist. Tammel jerked our attention away before I could see who had been shut outside.
+Tammel faced the wall. “Down and inside.”
 
-The burning ditch returned. Then the rain. He pushed at both memories as if trying to arrange screens between us and something deeper.
+He gave the direction like an order. The delivery court folded along it.
 
-"Five hundred and eighty years," he said. "Approximately. You wanted sequence."
+We emerged running through river silt beneath a smoke-red sky. A metal grille was descending into the mouth of an earthwork. Tammel carried no weapon. He had one arm around a young soldier whose boot dragged a furrow behind them. The same white scar crossed the same left palm. His breath broke at the same point in his ribs; a chipped edge on his back tooth caught his tongue.
 
-"I wanted footing."
+Four stones from an engine struck the grille as its chains paid out. Each impact shivered through the passage roof. Tammel got the soldier across the sill after the third. Another runner reached through the narrowing gap. Tammel caught the runner’s wrist with his left hand.
 
-"You have it. That's the source."
+For one long second, Tammel’s scar lay over the runner’s pulse. Then the fourth stone landed, the grille dropped the last half pace, and Tammel had to release him or lose the arm.
 
-It could have been. Later wounds do not become counterfeit because an earlier one resembles them. The remembered heat had substance; so did his desperation at the gate. If he had asked to return then, we would have returned with honest work ahead of us.
+The runner vanished behind metal and smoke. Silt packed the lines of Tammel’s palm. Again his fingers stayed curved around a lever the passage did not contain.
 
-But his left hand remained closed around an absence.
+The scene tried to carry us on into the shouting. Tammel wrenched our attention toward the lowering chain instead.
 
-"What are you holding?" I asked.
+“That gate hurt you,” I said.
 
-The burning settlement split down the middle.
+“Six hundred eighty-three years ago.”
 
-We stood in a white-walled shelter while dust hissed over its roof. The air tasted of hot coins. Tammel, unchanged, braced beneath a circular hatch as four locking dogs slammed home above him. On the far side of the seal, a child's bracelet flashed once through the narrowing gap. He let me feel the bite of the hatch rim across his scar, then pulled us away before the fourth lock finished turning.
+I had not asked for a date. He had offered one so I would accept the room as an answer.
 
-That memory was more than three thousand years old. He gave me the number as a direction: farther than the ditch, short of the river. He would not tell me who had worn the bracelet.
+“Was the soldier—”
 
-The next layers came as torn lengths rather than rooms. We ran an evacuation path paved with springy black blocks while a warning spoke in a language his present self no longer knew. We crouched under a woven dome as metal descended on chains. We tasted river silt in winter and felt the scar pull tight around the shape of a handle that vanished whenever I attended to it.
+“Alive when I let go.”
 
-Four impacts. Falling metal. The fist with nothing inside.
+The words shut that route. I left it shut.
 
-With each descent, the world lost names before it lost sensation. Fastenings changed. Soles thinned, thickened, disappeared. One people built in sheets that rang underfoot; another sealed their doors with grown ropes that recoiled from smoke. Tammel's body persisted through them, not untouched but recognizably his. The scar was younger in one fragment, red at its edges. I could not discover how he had lived so long by looking at the place where he feared he had failed.
+The clock showed 49:26. More than twenty minutes had passed in two memories that felt shorter than breathing.
 
-The frame's warning entered as a blue flare at the edge of every memory.
+“Tell me where your left hand goes next,” I said.
 
-"Fifty-two minutes," I said.
+“It doesn’t.”
 
-"Forty-nine."
+The missing handle pushed against our palm hard enough to blanch the scar. Tammel looked away from the runner, away from me.
 
-"You are reading my clock hand."
+“Four thousand nine hundred.”
 
-"Your left one is louder now."
+He gave me no calendar, only the interval. The earthwork roof became a circular plate descending through white dust.
 
-In the clinic, I knew, my right hand was on his pulse. Inside the recall I felt it as my left. Motor bleed had begun. Soon I would stop knowing which body had initiated a step; after that, even an uncomplicated return could leave us vomiting on the floor or unable to stand.
+We stood under a shelter shaft 4,900 years behind the clinic while the last people climbed down a rope ladder. Outside, the daylight had the green cast of a storm seen through deep water. Silt whispered through every seam. Tammel’s remembered hands worked a wheel that lowered a metal cap over the shaft. It was a real wheel, cold and pitted, but his left palm bore down on a second shape beneath it: a lever the mechanism did not have.
 
-I stopped following.
+One locking pin struck home. Then a second. A voice above called through the narrowing gap. Tammel stopped the wheel.
 
-We settled in no single memory. Rain passed through ash, and under both lay the mineral smell of a river. Tammel faced away from the lever-shaped hollow in his attention.
+The shelter floor rolled. Someone below screamed for him to finish.
 
-"The path continues," he said.
+The third pin drove in by itself as the cap’s weight settled. He reversed the wheel, but the threads jumped. The fourth pin struck. Darkness sealed the voice outside from the people beneath it.
 
-"Yes."
+Tammel stayed with that darkness longer than he had stayed with the runner. I felt him count those sheltered below, lose the number, begin again. He did not let the voice above become anonymous. In the stale dark it wore a face he kept outside my reach.
 
-"You're stopping."
+Yet the pressure in his palm belonged to another machine.
 
-"Yes."
+“Do you want the clinic?” I asked.
 
-He made a small, angry motion with his left hand. Around us, three doors tried to fall at once.
+“Continue.”
 
-"You asked me to find the source without making you look at it," I said. "Every time I ask what your hand is holding, you take us earlier."
+“Which direction?”
 
-"Isn't that what you're here for? Earlier?"
+“Withdraw from the shaft. Take the inner line.”
 
-"Earlier is not the same as truer."
+Military verbs had begun to replace his distances.
 
-The rain thinned. He could have broken contact. I made sure he could feel my fingers around his present wrist, the steady pressure of the chair beneath his legs, and the ridiculous safe word waiting unused.
+The years widened as the rooms shortened.
 
-"How far?" I asked.
+“Thirteen thousand four hundred,” Tammel said.
 
-For the first time since we entered, his attention turned toward me. His face held none of the age on his form and all of it.
+At that interval, we crossed a marsh causeway roofed in woven reeds. Four mallets struck the pins of a suspended metal shield. With every blow the shield sank another span while refugees crawled beneath it. River silt coated Tammel to the knees. He held the shield until its edge crushed the wooden brace beside his wrist, and the scar in his left palm pressed around the absent lever. When the metal fell, it broke two ribs. The fire passed over the shield instead of through the people below.
 
-"I counted by the calendars I could keep," he said. "Then by the ones I could reconstruct. About twenty-five thousand years."
+After that came pieces too worn to hold a room: a bronze-colored lip descending; four impacts carried through black water; silt cold enough to numb the nails; Tammel’s left shoulder leaning into resistance while his hand insisted on a lever grip that disappeared whenever I tried to see it. Each interval opened wider than the last. Materials outlived their names. His body did not change.
 
-The frame gave a second warning. I had perhaps twelve useful minutes before it broke the join for us.
+The warning tone reached us through the soles of our feet. On the clock, 13:08 remained.
 
-"We can return now," I said. "Or you can show me what you have been taking us around. If we go on, you stay in charge of the exit. I won't call what we see complete history, and I won't decide for you what it means."
+I tried to step back and nearly fell to Tammel’s left. My present body was in a chair, but his balance had entered my legs. When I raised my right hand, the hand inside the memory rose left. Motor bleed had reached the line beyond which I would not follow another layer.
 
-"You think you already know."
+I stopped.
 
-"I think your hand was on a lever."
+Fragments crowded us: freight shutter, river grille, shelter cap, marsh shield. Four impacts sounded in each at different speeds. Tammel stood with his back to the only open direction.
 
-The half-memories convulsed. For an instant the remembered self was outside every closing door, striking to be let in. Then Tammel pressed his thumb once against my fingers and held it there. One more press would end the join. He could feel the choice under his hand; so could I.
+“The next room is there,” he said.
 
-"It works," he said.
+“I’m not taking another step.”
 
-"It works."
+“You said you’d follow.”
 
-He closed his eyes. "Stay until I say."
+“You’re bracing against me.”
 
-The river took us.
+“I’m standing still.”
 
-It was broad but not placid. Silt made the water yellow beneath a sky the color of hammered tin. We stood inside a gate post built into an earthen wall, close enough to the machinery that its vibration buzzed in our molars. Through the front slit I saw an embankment crossing the flood basin. People were running toward us along its narrow crown.
+“With everything you have.”
 
-Tammel's remembered left hand rested on a wooden lever polished dark by use. The palm scar caught against a split in the grip.
+The layers shifted around his silence. I placed our present bodies for him without asking him to agree: two chairs; my fingers at his left wrist; his fingers at my right; green band on me, amber on him; blue rail three paces to our right.
 
-I knew only what he had known from that post. A line of his rearguard came over the embankment in broken groups, carrying shields of hide and lacquered cane. Beyond them, another force advanced behind low rectangular screens. I could not see faces, banners, or the shape of the battle outside the slit. Below the embankment, in the lower channel, civilian barges strained downstream under patched square sails. One carried animals packed so closely that their backs made a shifting brown floor. Another sat low with people.
+His pulse steadied under the words.
 
-A horn sounded upstream: one long note.
+“I thought you were trying to get through every door,” I said. “I was wrong.”
 
-In the remembered body, the sound had a precise use. The first post had fallen. The retreat was still open.
+Tammel’s absent grip tightened.
 
-"There were supposed to be two of us here," Tammel said beside me.
+“In every room your feet reach the inner side. Your hand keeps searching for the thing that drops the metal.”
 
-The remembered man glanced once at an empty hook where a second lever-key should have hung. No commander waited to give him an order. Dust lifted behind the approaching screens.
+“The shelter had a wheel.”
 
-A second horn sounded.
+“Your right hand held it.”
 
-The barges had not cleared the mouth of the lower channel. If the enemy reached that bank, the people aboard would be pinned against the bend. If Tammel released the defensive water now, the stored head of the river would pour through the spill cuts on both sides of the embankment, tearing away the narrow crossing. The lowered road gate would keep the surge from the post.
+He turned then. Not toward the oldest memory, but toward me.
 
-Several of his own rearguard were still beyond it.
+“You think I worked the gate.”
 
-The third horn came ragged, its note breaking in the middle.
+“I think there was a release under your left hand. I don’t know what you did with it.”
 
-The frame's warning flashed blue across the river. My present right foot could no longer find the floor. I said, "We need to begin back."
+“Don’t look.”
 
-"Not yet."
+“I won’t.”
 
-"Tammel."
+I held our attention on his planted feet and the four closed rooms. The way behind him stayed dark.
 
-"You said you would stay until I said."
+The tone sounded again. 11:51.
 
-It was not permission without a limit, and he knew it. The ceramic frame would end the contact soon whether either of us wished it or not. But the fourth horn had not sounded. His remembered hand had not moved. He was asking for seconds, not surrender.
+“How much time lies past the marsh?” I asked.
 
-"I'm here," I said.
+His answer came without a calendar name. “From the river gate to this chair, close to twenty-five thousand years.”
 
-The people on the nearest barge turned their sail. Wind filled it, failed, then filled it again. Its stern crawled between two black marker posts at the channel mouth. On the embankment, two defenders carried a third between them. The approaching screens drew close enough that short projectiles began to skip from the road. One struck a runner's shield and spun him sideways. He rose.
+Six days, 683 years, 4,900, 13,400: none of them had prepared my body for twenty-five thousand.
 
-The fourth horn sounded.
+“Your years?”
 
-Tammel pulled the lever.
+“I kept count while calendars held. When they broke, I counted between them.” He opened his scarred palm but kept it turned away. “No ancestor. I was there. I have lived about twenty-five thousand years since.”
 
-His whole weight went into it. Wood grated over stone. Below our feet, a catch released with a crack, and an iron counterweight plunged through the gate post. The falling metal seemed to take my stomach with it. Chains ran. The road gate dropped across the inner end of the embankment as the spill doors heaved open.
+He did not tell me how he had lived it. I did not ask.
 
-For one breath, nothing happened.
+“Pencil,” I said.
 
-Then the basin stood up.
+He kept his back to the dark way.
 
-Yellow water struck the embankment from both sides. It carried reeds, roof pieces, a dead tree twisting root-first. The opposing screens disappeared. So did the far end of the road. The last running figures staggered toward the descending gate. I could not count them. Tammel had not counted them then.
+“Use it. We test the whole way out now.”
 
-The barges slipped past the bend.
+For a moment I thought he would drive himself past me. Then his thumb pressed twice against my fingers.
 
-Something hit the outer face of the road gate.
+“Pencil.”
 
-Once.
+I put the chair backs behind our spines and the floor beneath our feet. The fragments snapped dark. Breath returned before vision: mine too quick, his held at the top. When the clinic settled around us, gray and square, I let go. The pulse traces separated. The frame had measured the break; it had not made it.
 
-Twice.
+Tammel stared at the amber band on his left wrist. “Tammel,” he said before I could ask. “Left hand. Your name is Seska. The rail is right of us.”
 
-The remembered man kept both hands on the lever although it no longer needed him.
+The clock continued: 11:19.
 
-Three times.
+I kept my hands in my lap. “We’re done joining.”
 
-On the fourth blow, the gate post shook. The scar in his left palm opened against the splintered grip. He looked down at the blood instead of through the slit.
+“No.”
 
-The memory had preserved every grain of silt between his fingers. It had not preserved the number of people outside.
+“That was a clean return. A second one may not be.”
 
-"I chose the barges," Tammel said. His present voice was almost lost beneath the water. "I left my own people beyond the gate."
+“The oldest memory is one gate post.”
 
-The remembered man was still staring at his hand, arranging the world so that the falling metal had trapped him too.
+“Eleven minutes includes the way home.”
 
-I did not tell him the choice had been necessary. I did not tell him it had been unforgivable. From the gate post there was no honest view large enough for either sentence.
+He watched two seconds leave the clock. His right shoulder still leaned with my balance.
 
-The blue warning became a continuous field. "What do you need me to carry out?"
+“Take the first horn,” he said. “Stay off my hand until I turn it toward you.”
 
-He watched the last edge of the embankment dissolve.
+He had narrowed the memory to one gate post and kept his hand outside it. I could enter on those terms.
 
-"That I pulled it," he said. "That there were people I couldn't count. That it was twenty-five thousand years ago, and I remember."
+“When the clock gives two, I need your word,” I said.
 
-His thumb touched my fingers in the buried clinic.
+“You’ll have it.”
 
-"Spoon."
+He offered his pulse.
 
-I drew us upward on the line of our joined pulse. The gate became the white shelter hatch; the hatch became timber burning over a ditch; iron bars narrowed into a service door shining with rain. I named none of them. Names would have made stopping places. I kept the present around us instead: gray frame, two chairs, green band, amber band, my fingers on his wrist, his fingers on mine.
+I did not touch him until he looked at me and nodded. Our breathing met badly, then settled. The oldest threshold opened from the silt caught in the lines of his palm.
 
-The service door struck concrete. Four harmless warning blows chased us through it.
+The river gate post was smaller than the rooms built over it.
 
-Then I was sitting in the clinic with my left hand clamped around empty air.
+We stood inside a stone chamber at the eastern end of a raised embankment. The retreat road ran west along the embankment’s narrow crown, straight toward the slit in front of us. North, behind a stone-faced bank, a held basin pressed hard enough to make the floor tremble. Its stone spill cut crossed a lowered, sacrificial reach of the road fifty paces from the gate, then emptied south into the lower river channel. An upstream white post and a downstream one bracketed that spill mouth. Three civilian barges labored with the current toward them; beyond the downstream post, the channel turned behind a ridge.
 
-The frame dimmed. Tammel had let go.
+A metal road gate hung above the opening in front of us. If it dropped, it would seal the inner end of the embankment and protect the gate chamber from the first cross-surge. A shaft beside Tammel’s left leg held an iron counterweight. I could feel its mass through the floor, but he kept the release outside our attention.
 
-We did not speak for several minutes. He leaned to the right, compensating for a balance that was temporarily mine. I reached left-handed for my cup and knocked it over. Its soft lid kept the water in. Tammel stared at it, then gave one brief, exhausted laugh.
+Through the slit, his rearguard came toward us in broken files. They had shed packs and long weapons. Some carried others. Farther west, an advancing force moved behind hide screens, close enough that thrown darts flashed over the embankment.
 
-"That's why they're soft," I said.
+The first retreat horn sounded from beyond them.
 
-"I assumed it was because your patients throw things."
+Tammel’s body knew its meaning: the outer holding line was gone. The files were to withdraw without stopping.
 
-"That too."
+“Keep your eyes on the road,” he said.
 
-We touched the colored bands on our correct wrists and stood with the rail between us. He passed the walking check on his second try. I needed three. By then the room had stopped listing toward his stronger side, and he could close his left hand without mine answering.
+I did. I did not know the soldiers’ names, what they had defended, or what orders had preceded the horn. Joined recall gave me the pressure in Tammel’s jaw and no council beyond it.
 
-Back in our chairs, I said, "What I witnessed was accessible memory, not a historical record. I can't tell you the larger battle, whether the barges survived the next bend, or what another person at that gate would say."
+The lead barge cleared the downstream post. Families crouched beneath its reed covers. The second carried animals and two people fighting a torn steering sweep. The third, not yet at the upstream post, rode low with people standing shoulder to shoulder.
 
-"There isn't another person at that gate."
+The second retreat horn sounded.
 
-"No."
+The advancing screens passed a burned marker on the western road. At that distance, Tammel knew, they could reach the bank above the lower channel before the final barge made the bend. If they reached it, the barges would be trapped beneath them.
 
-He studied the amber band. The service-door panic would not vanish because we had found an older shape beneath it. The burning settlement and the sealed shelter had happened too.
+Water from the held basin could stop the advance. Released through the northern sluice, it would cross the lowered reach, tear that section of road away, and pour through the marked spill mouth into the lower channel. Soldiers on the western side would lose the crossing. Anything between the white posts would meet the surge broadside.
 
-I stopped before explanation became another way of keeping him in the room.
+The second barge cleared the downstream post. The third barge’s bow reached the upstream one.
 
-"If you come back," I said, "where should we begin?"
+The third retreat horn gave one ragged note that broke in the middle. A group of Tammel’s rearguard was still far beyond the gate. One soldier turned to loose an arrow, then ran. Another fell. The advancing screens kept their pace.
 
-He flexed the scarred hand once.
+The session clock spoke through the memory with its fixed two-tone warning. Four minutes.
 
-"At the lever."
+“We turn at two,” I said.
 
-Then he looked directly at me and said, "Spoon."
+“The last stern is still above the spill.”
 
-The appointment was over.
+“The clock won’t hold for it.”
+
+“This minute does.”
+
+His present thumb rested against my fingers. He could have pressed. He did not ask me to decide for him, and I did not reach for the memory’s hand.
+
+The third barge crawled forward. Its bow passed the downstream post while its stern remained between the markers. A dart struck the gate slit and dropped inside at our feet.
+
+Three minutes.
+
+“Tammel.”
+
+“Watch the road.”
+
+The nearest rear file was thirty paces out. Behind them, the screens opened and the advancing soldiers began to run.
+
+The barge stern moved past the upstream post.
+
+“Now,” Tammel said. “Look.”
+
+He turned his attention left.
+
+The release was a waist-high wooden lever socketed into the wall above the counterweight shaft. His palm scar lay exactly along its polished upper edge. Silt from years of testing the spill gear had dried in the split beside his thumb. This was the shape his hand had carried through every later door.
+
+The fourth retreat horn sounded.
+
+The last barge’s stern cleared the downstream post. The nearest of Tammel’s rearguard had not reached the gate.
+
+He pulled the lever.
+
+Its catch resisted. He put his left shoulder behind it and dragged it to his hip. The latch beneath the floor opened. The iron counterweight fell through the shaft with a roar, hauling the northern sluice upward by chain. At the same instant, freed from the same catch, the metal road gate dropped across the inner mouth of the embankment.
+
+The falling weight was the sound inside every later descent.
+
+Held water punched through the lifted sluice and hit the lowered reach of road broadside. Packed earth broke into slabs. The advancing screens pitched out of sight as the crossing opened beneath them. The closest rear soldiers had already passed the break; they reached the metal road gate with the flood following them toward the chamber.
+
+The barges vanished around the downstream ridge ahead of the surge.
+
+Someone struck the outer face of the metal gate.
+
+Once. The lever kicked under Tammel’s palm.
+
+Twice. Silt ground into his scar.
+
+Three times. A voice outside used the short command for *raise*.
+
+At the fourth blow, Tammel’s remembered hand locked on the lever although lifting it could no longer reverse the sluice. The counterweight had reached the bottom of its shaft. The road gate could not rise until the water drained and the weight was reset from below. His scar stayed white and unbroken. He gripped harder.
+
+Two minutes.
+
+Tammel looked through the slit. I saw only water, the near half of the road, and one hand sliding out of view beneath the gate. The larger battle remained where it had always been, beyond his sight.
+
+“I waited for the last barge,” he said. His words came separately. “I did not wait for the last file. Then I pulled.”
+
+His present pulse surged beneath my fingers. I said nothing.
+
+The hand outside disappeared. Tammel released the remembered lever.
+
+“Pencil,” he said.
+
+The living beat beneath my fingers displaced the water one pulse at a time. The gate post lost its walls. At the edge of attention, the marsh shield flashed, then the shelter cap, the river grille, the freight shutter. None held us for its fourth impact. Tammel kept breathing. I kept the chair backs behind both spines and the colored bands on the correct wrists.
+
+The frame’s final warning sounded with fifty-three seconds left.
+
+My left hand believed it held the lever. Tammel’s balance dragged right with mine. I named neither sensation. We followed the unequal pulses until they became two rhythms again.
+
+At thirty-one seconds, the clinic returned with my fingers still locked around his wrist. Tammel withdrew his reach; the pulse traces split. I lifted my fingers. The frame opened the contact loop after us, its timer continuing toward zero.
+
+“Don’t stand,” I said.
+
+Tammel had already planted his feet as if the floor sloped beneath the right one. He obeyed. I used my right hand to pry my left fingers loose, one at a time. The scar in his palm stayed white and closed.
+
+When the timer reached zero, we were both still in our chairs.
+
+Recovery took longer than the return. Tammel reached for his soft cup with his right hand, overshot it, and stopped before trying again. I could not make my right fingers close around mine; his left-handed grip still occupied the other side of my body. We drank only after he could lift with his left and I with my right.
+
+At the rail he drifted toward my stronger side. I leaned toward his. We kept two arm lengths between us and made the walking check separately. His first turn carried him into the wall pad. My first step crossed in front of the other. Neither of us attempted the door.
+
+On his third pass, Tammel’s weight settled over his own feet. A cart rolled down the corridor outside. Its metal lid fell once, and his shoulders rose. They did not come down quickly.
+
+He sat to put on his coat. I waited until his left hand found the sleeve without help.
+
+“If there’s another session,” I said, “give me one interval.”
+
+He turned the scar upward. For several breaths he studied the line that had been old before every remembered room.
+
+“The fourth horn,” he said. “Until my hand leaves the lever.”
+
+I started to ask whether he meant before or after the water. He caught me at the first word and shifted his grip on the rail from right to left, deliberately this time.
+
+“Pencil, Seska.”
+
+I stopped.

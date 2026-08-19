@@ -6,13 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tammel | new | Patient whose recall reaches the ancient battle; no exact, alias, close-spelling, or confusing reuse found in the required noun history. |
+| Seska | new | Memory therapist and first-person witness; no exact or alias reuse. Nearest current form `Veska Doss` remains distinct in opening sound, full-name form, role, and story context. |
+| Tammel | new | Male patient whose continuous recall reaches the ancient battle; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The clinic, service yard, remembered settlements, shelter, river, gate post, battlefield, and wider geography are unnamed. |
+| None | none | The clinic, delivery court, earthwork, shelter, marsh causeway, river gate post, embankment, battlefield, and wider geography are unnamed. |
 
 ## Continuity
 
@@ -20,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The outline-only name `Seska` does not appear in the final prose and is not story-facing; the story materially complies with the prospective craft profile.
+- Notes: The two-entry session clock, motor bleed, gate geometry, and bounded subjective-recall mechanism remain coherent; the story materially meets the binding craft defaults without turning the discovery into a cure or historical certification.
