@@ -8,270 +8,295 @@ canon: false
 
 # The Apes Above
 
-The pebble came down a rain gutter during the first attendance count, clicked twice against the stone, and rolled toward the floor drain.
+The first piece of the human station entered the session before Ketta’s motion did.
 
-Ketta stopped it beneath one foreclaw.
+It rattled down a rain channel in the Stone Choir, leaped the lip above the Fern Basin bench, and came to rest against the raised word *fatalities* on Ketta’s slate. She pinned it with one blunt foreclaw. The thing was smaller than the last joint of her toe, blackened on one face, with a curl of silver insulation baked into the other. It was still warm from lying in the sun. That did not stop three councillors from leaning away from it.
 
-It was black, thumb-sized, and blistered on one side. A thread of silver insulation clung to it like shed skin. Nothing in the hills above the Stone Choir made stone like that. Nothing on Earth had put that particular scorch on it, either, until one of the human stations had thrown it down.
+Ketta drew a hard zero beside *fatalities*. Above it, she had already entered three nursery roofs opened, eleven heat pipes cracked, one irrigation trench lost, and six clutches carried to uncertain ground. A zero could close a column. It could not mend anything in it.
 
-She set it on her motion tablet. The tablet already carried the larger figures: three nursery roofs broken in Fern Basin, one irrigation trench blocked, six eggs moved because the ground beneath their warming beds had cracked. No deaths. The line mattered. So did the word *yet* that she had not written after it.
+Through the central opening of the chamber roof, a pale point moved across the blue. One of the human habitats. The humans had abandoned Earth for their stations so many generations earlier that their launch towers had become vine-filled escarpments, but their descendants still crossed the sky on paths predictable enough for calendars. The lowest station was no longer predictable enough for comfort. Seven times in forty-one days, pieces of it had entered the atmosphere.
 
-Above the council benches, a blue point crawled across the noon opening in the roof. One of the stations. Humans had left the surface so many generations ago that their stairways to the sky had become cliffs furred with vines, but they had not gone far enough to become stars. On clear nights their habitats crossed the dark in tidy rows. Lately, the lowest one had begun dropping untidy pieces of itself.
+The clock attendant fitted a red marker into the outer groove of the impact dial: ninety minutes until the seventh load reached air dense enough to break it.
 
-The long-necked chair finished counting those present, those present by proxy, and one marsh delegation whose three heads claimed to constitute either one vote or three depending on the motion. He lowered his chin to the speaking height.
+At the center of the Dino Council’s chamber, the long-necked chair lowered his head from the attendance balcony. The descent took long enough for the clerk to finish disputing whether the marsh delegation’s three heads occupied one seat or merely obstructed three.
 
-“The councillor for Fern Basin has the floor.”
+“Fern Basin,” the chair said when his mouth reached speaking height. “Your emergency motion.”
 
-Ketta rose. Ankylosaurs did not rise impressively from council benches designed by hadrosaurs, but her tail club struck the aisle with a satisfying report.
+Ketta pushed herself up. The hadrosaur-built bench released her hips with a damp wooden complaint. She let her tail club settle into the aisle groove reserved for members whose arguments extended behind them.
 
-“I move that the Upthrower’s next window be used against the lowest human station.” She nudged the pebble into the light. “The apes above have thrown seven loads in forty-one days. The intervals are shortening. Fern Basin’s hatching migration begins in nine days. We will stop the throwing before then.”
+“I move that the next Upthrower slot be used against the lowest human station.” She slid the fragment onto the speaking ledge. “Its intervals are shortening. Our hatching migration begins in nine days. We will stop further releases before then.”
 
-From the defense benches, Othrik said, “Seconded.”
+Othrik rose at the defense bench. The old repairs across the ceratopsian’s frill were paler than the bone beneath, a useful record of the occasions when shelter had meant his own body. “Second.”
 
-The ceratopsian marshal’s frill bore a map of old repairs, each pale patch a season in which something with teeth or weather had tested it. He did not tap the bench or make speeches when one word would hold.
+The chair turned one eye to the clerk. “Is *against* an admissible trajectory?”
 
-The chair blinked with grave patience. “Before debate, the sponsor will define *against*.”
+“It lacks a terminal condition,” the clerk said.
 
-“The station.”
+“Councillor Ketta, supply one.”
 
-“A spatial definition. I require an operational one.”
+“Put a penetrator through the ballast mechanism. Disable its ability to throw anything else.”
 
-The chamber began offering help. Strike its rock chute. Break its engines. Frighten it. Blind it. Tug it higher. Tug it lower. One small raptor moved to insert *without precipitating an extinction event*, and a sauropod objected that every motion should contain that phrase as a matter of good housekeeping. A duck-bill from the floodplain moved to describe the apes as *pesky*, which the clerk ruled descriptive but not operational, then asked the Council to authorize immediate ducking. The armored delegations rejected public funds for ducking on the grounds that they had already funded armor.
+The chamber flared with incompatible definitions of *disable*. A sauropod requested that any shot pass above neck height; the clerk asked which neck, and the chair ruled his own anatomy inadmissible as a weapons standard.
 
-“Order,” said the chair, while councillors with horns attempted to determine whether they could fit under their desks without disqualifying themselves from speaking.
+Ketta kept her feet planted. The chamber had been cut among natural basalt ribs that returned low sounds to the floor. Every objection trembled faintly through her belly. So did the impact clock when the attendant advanced it one notch.
 
-Ketta waited them out. The Stone Choir had been cut around natural ribs of basalt. Every footstep entered the walls and returned as a low, dignified hum, which was why the builders had chosen it for government. They had not anticipated three hundred representatives testing furniture with their foreheads.
+“The target is the release assembly,” she said over the hum. “The destination is the station. The result is no eighth load.”
 
-“Cripple the station’s ability to release further mass,” Ketta said. “The Upthrower can place a penetrator through the ballast works.”
+“The result is not in evidence.” Pellik spoke from the skywatchers’ gallery.
 
-“Can,” called Pellik from the skywatchers’ gallery, “is doing unusually heavy labor in that sentence.”
+She came down the narrow steps with a stack of waxed plots braced between her feathered forearms. Horned councillors had to turn sideways to let her pass; Pellik did not. She placed her first plot over the clerk’s unfinished basking-stone appropriation.
 
-She sprang down the gallery steps, feathered arms crowded with slates. She was narrow enough to pass between two arguing horned councillors without either noticing. The clock attendant at the chamber door turned the outer ring of the impact dial. Eighty-three minutes remained before the next predicted entry.
+The chair inspected the clock. “The skywatcher was scheduled after drainage.”
 
-Ketta looked at the chair. “Is the gallery now permitted to amend verbs?”
+“The load enters before drainage will be reached,” Pellik said. “I request priority because the strike motion assumes the wrong direction of throw.”
 
-“The skywatcher has been summoned as an expert.”
+The clerk moved drainage down one line. Pellik set three more plots side by side.
 
-“I was summoned for the third agenda item,” Pellik said. “But the third agenda item may arrive before the first one finishes.” She laid her slates across the clerk’s table, covering a proposed subsidy for communal basking stones. “This is the low station over the last forty-one days.”
+On each, Earth was a dark circle scored with altitude marks. Around it ran the lowest station’s orbit: high on one side, low enough on the other that the atmosphere worried at it. Short arrows marked the moment each piece had left. All seven arrows pointed behind the station, opposite its travel.
 
-Each slate showed Earth as a circle and the station’s path as a loop drawn in wax. The earliest loop nearly touched the upper breath of the atmosphere. After each ejection, the next loop stood a little farther away.
+“They are not pushing rocks down,” Pellik said. “They are throwing them backward. Each discarded load loses forward speed and drops into thicker air. The station receives the equal forward push. Because the releases occur within the same narrow part of its orbit, the next measured low point rises.”
 
-Pellik used the black pebble as a pointer. “The released loads travel backward relative to the station. The station moves forward. Throw mass one way and the thrower is pushed the other. Every release buys it height.”
+Ketta tapped the seventh arrow. “By how much?”
 
-“How much?” Ketta asked.
+“After the first release, enough altitude for nineteen days at the drag we measured then. The sixth bought twelve. The estimate for this one is nine to fourteen.”
 
-“Not enough.”
+“Why less?”
 
-“That is not a number.”
+“By the time it needs the next release, its low point is lower than after the previous one. Drag increases there. The loads are also smaller.”
 
-“Between twelve and nineteen days before the atmosphere takes the height back, depending on the mass of the load and whether the station can still correct its own attitude.”
+“Can the humans correct the orbit without shedding mass?”
 
-“Can it?”
+Pellik separated two feathers and looked at the line through them. “No thrust plume we can distinguish from venting. No measured correction larger than our tracking error. That supports *cannot*. It does not prove it.”
 
-“Unknown.”
+Ketta did not allow the phrasing to pass. “Confidence.”
 
-Ketta preferred unknowns that sat still in their own columns. Pellik’s moved around and borrowed one another’s hats.
+“Seventy-eight percent that the releases are principally keeping that one habitat aloft. Fifty-six that its main drive is unusable. Those are different claims.”
 
-Othrik came down from the defense bench. “Whatever pushes the station, the rocks fall on us.”
+Othrik descended from the defense benches, careful not to turn his horns through the neighboring delegation’s writing frames. “Your percentages do not change the ground track.”
 
-“Yes,” Pellik said. She pulled out a surface map stippled with impact marks. The old drops scattered over forest, salt waste, sea, and once the eastern edge of Fern Basin. The recent marks crowded toward one blank bowl in the southern highlands. “But the main masses have been moving here.”
+“No,” Pellik said. “This load is already committed. Forty-three tonnes before breakup, plus or minus three.”
 
-“Quiet Caldera,” the clerk read.
+“And where have the apes committed it?” Ketta asked.
 
-No nests, no farms, no council districts, and not enough water to tempt anyone but mineral lickers. Even the caldera’s name had survived several attempts by musicians to improve it.
+Pellik unrolled a surface map. Six long fall regions crossed sea, forest, salt flats, and the outer shelves of Fern Basin. The last three narrowed toward an uninhabited bowl in the southern uplands. The seventh region was drawn in fresh red: its densest center covered Quiet Caldera; its ragged northern end crossed the Stone Choir.
 
-Ketta pressed one claw to the mark in Fern Basin. “This one missed your empty bowl by four hundred and twelve lengths.”
+The clerk read the labels aloud for the record. “Probable main-body destination: Quiet Caldera. Fragment corridor: south ridge through the council precinct.”
 
-“Its largest piece did. The basin damage came from fragments after breakup.”
+Quiet Caldera held neither settlement nor standing water. Surveyors used its cracked floor to test instruments because there was no one there to complain when an instrument failed noisily.
 
-“Then your pattern proves they aim badly.”
+Ketta pressed the scorched pebble against the mark for Fern Basin. “Release five put six tonnes outside this outline.”
 
-“It supports the possibility that someone is trying to aim.”
+“Our tracking began after breakup on that pass,” Pellik said. “The revised model includes the fragment that struck your district.”
 
-“Someone,” Othrik said. “Not necessarily everyone aboard. Not necessarily every station.”
+“Does the model say they chose the caldera?”
 
-Pellik’s crest feathers flattened. “Correct.”
+“The chance of three main masses clustering there by unguided release is under four percent.”
 
-“And they have answered none of our transmissions.”
+Othrik shifted until the tip of his forward horn covered the red fringe over the chamber. “The chance of a fragment entering this roof?”
 
-“Also correct. Radio sequences, mirror pulses, thermal figures. We do not know whether they receive them, understand them, or have the equipment and agreement to answer.”
+“Between one in eleven and one in twenty-six. Wind aloft is changing faster than the last sounding.”
 
-“You have brought us,” Ketta said, “a comforting possibility attached to seven falling rocks.”
+“Then aiming is not control.”
 
-“No. I have brought you a decaying orbit attached to them. Comfort was not included.”
+“Correct.” Pellik did not defend the absent humans. “A pattern can indicate a choice. It cannot tell us who made it, what they value, or whether they accept the fragments.”
 
-The clerk cleared a patch on the table and began a new slate. She made four columns: MASS, ENERGY, DESTINATION, DISPLACED WORK.
+Ketta looked through the roof opening at the low station, now almost lost in daylight. “They have not answered radio.”
 
-The Council considered waiting first. It required no mass and no energy. Its destination was listed as *wherever the next load breaks*. The displaced work was nursery repair, since every repair crew in Fern Basin would spend the hatching migration building shelters instead.
+“Nine radio bands and two seasons of mirror sequences,” Pellik said. “No reply separated from machine traffic. We do not know whether they hear us, or whether one station could answer for another. We do not know whether the people on this one agree.”
 
-Intercepting every load sounded better until Pellik showed how late the stones became visible against Earth and Othrik explained how many launch crews would be needed along the possible tracks. A delegate suggested nets. Another suggested very large nets. The clerk entered both under *mass returning to Earth, exact destination disputed*.
+The clock attendant moved the marker. Sixty-eight minutes.
 
-Striking the station required the ready penetrator, all the Upthrower’s stored energy, and a target model Pellik would certify only with the phrase *if the station does not tumble*. Its destination was at first recorded as *ballast works*. Ketta approved that. Then the clerk added a question mark and left room beneath it.
+Ketta drew a box around Pellik’s four-percent figure. “Enter this as possible effort to miss. Do not enter it as restraint.”
 
-Sending something up without striking required the same launch window. A transmitter could repeat the surface signals close enough to be noticed. An instrument package could inspect the station’s orbit. A counterweight matched beside the habitat could carry Quiet Caldera’s coordinates within reach of whatever instruments the humans still possessed.
+The clerk’s stylus scratched. “Possible effort. No credited restraint.”
+Before the clerk could prepare the first comparison slate, Pellik’s receiver snapped twice. The red fringe on her surface map widened north.
 
-“And its displaced work?” Ketta asked.
+“Upper-air wind update,” she said. “The hot fragment track now crosses the eastern roof with one chance in nine.”
 
-The clerk did not look at her. “Fern Basin survey package.”
+Othrik was moving before the chair could recognize him. He drove the defense bench backward with his shoulder, opening a route to the western ribs. “Clear the east third. Small bodies first. Anyone who cannot fit under a bench goes behind a frill or a plate.”
 
-The room’s hum seemed to settle into Ketta’s shell.
+The chair lifted his neck clear of the route. “Emergency conduct supersedes debate. The strike motion remains pending.”
 
-For five seasons she had fought for that survey: an eye in the sky to chart spring floods, warm nesting shelves, and the creeping collapse along the basin’s western wall. She had promised the nursery circles that this year they would stop guessing where the ground would hold. The instrument was packed. Its launch cradle was fitted. It was the reason the Upthrower was ready at all.
+For the next fifty minutes, the Council became a badly assorted shelter crew. Duck-bills worked the warped roof winch. Long-necked members passed brace poles over everyone else. Ketta used her tail club as a stop while attendants shifted the Fern Basin bench beneath a basalt rib. No one proposed equal-length poles after the first one became trapped between Othrik’s horns.
 
-“Use another window,” she said.
+Pellik spread her plots on the cleared floor and updated them as the southern watch called heights and speeds. Ketta made her answer while they worked.
 
-“The rails will fall out of seasonal alignment in two days,” the clerk said. “The next full-energy window is after the migration.”
+“Full station mass.”
 
-Othrik planted both forefeet beside Ketta’s bench. “Then we use the penetrator. A message is an expensive way to ask permission to remain alive.”
+“Ninety-one thousand tonnes at the lower bound. Occupancy unknown.”
 
-Pellik gathered up her maps. “And a shot is an expensive way to alter something whose balance we do not understand.”
+“If my penetrator breaks the release assembly?”
 
-The chair called a recess of seven minutes, partly for consultation and partly because two councillors had become lodged beneath a desk while demonstrating evacuation procedure. The impact clock continued turning.
+“It stops that assembly. It may also remove their last way to slow the decay. I cannot bound the breakup path without its internal structure.”
 
-Ketta found Pellik in the western colonnade, pecking seed paste from the end of a measuring stylus. Beyond the columns, roof crews had left three replacement slabs stacked on a cart. Stone chips from the last fragment still lay in the gutters.
+Othrik wedged a brace beneath the eastern leaf. “Its descent is already hastening. We have two diverting darts for the next load, provided skywatch calls it thirty-two minutes before entry. Those protect Fern Basin and this chamber, not everything between.”
 
-“Suppose they are aiming for Quiet Caldera,” Ketta said. “Why no message?”
+The wall radio brought an answer from the Upthrower. One full-energy insertion remained in the seasonal alignment. The ready penetrator weighed two point six tonnes. An instrumented counterweight would weigh seven point one and could be placed twenty-four lengths behind and outward from the station with no closing path for six days. Either shot required removing Fern Basin’s survey package from the cradle. There would be no second orbital launch before the hatching migration.
 
-“Perhaps their transmitters are dead. Perhaps ours are noise to them. Perhaps every release requires an argument longer than ours.” Pellik scraped the stylus clean against one tooth. “Perhaps they do not care whether a fragment reaches Fern Basin, provided the main mass misses. A pattern is not kindness.”
+Ketta braced harder against the bench. Five seasons of bargaining sat inside that last sentence: the warm-shelf map, the western wall scan, the date she had given every nursery circle.
 
-That was the first answer Pellik had given all day that fit neatly in a column.
+“Can the counterweight make them understand?” she asked.
 
-Othrik stood at the open end of the colonnade, looking south though the caldera lay beyond the horizon. “The lowest station has passed over my watches for thirty years,” he said. “We used to set patrol time by it. Now every pass comes early, and every sentry looks up.”
+Pellik marked a fresh observation. “It can put our signal at their hull with better than ninety-nine percent energy confidence. Understanding is unknown. A changed release afterward would be measurable.”
 
-“If we break it,” Pellik said, “they will look up for a different reason.”
+“A message consumes our only reach,” Othrik said. “A strike changes what can fall next.”
 
-“I know what mass does.” Othrik’s front horn pointed toward the roof slabs. “I also know what delay does. If it is coming down, I would rather choose the day and clear the ground beneath it.”
+“And ninety-one thousand tonnes after that?” Ketta asked.
 
-“Can you clear an entire hemisphere?” Ketta asked.
+“Still above us.” He bore down on the brace as the roof leaf groaned. “So is the next forty-three. I choose the threat I can force onto a schedule.”
+
+The warning drum began at fifteen minutes. Whatever motion survived would have to survive the rock first.
+
+At eleven minutes, the three-beat entry warning rolled through the basalt. Pellik climbed onto the clerk’s table so she could see the radio board over the backs and frills below.
+
+“Forty-one tonnes remain on the central track,” she said. “Two or three tonnes have separated. The main body is south of the ridge line.”
+
+Othrik did not ask whether that was good. “Northern fragments?”
+
+Pellik watched a new mark burn into the board. “One hot return. Confidence too low for size.”
+
+“Close the roof. Everyone under rated stone.”
+
+The chair accepted the command as an emergency interruption. Attendants shoved the two slate leaves across the central opening. They had been built to turn rain, not orbital debris; each slid in a groove between basalt ribs and met badly in the middle because the eastern leaf had warped. A chorus of species-specific advice did not improve the fit.
+
+Ketta stayed at the speaking ledge until the clerk collected the exposed records. “Leave the strike motion,” she said.
+
+“It is not rated stone,” Othrik said.
+
+That changed where she stood. Ketta carried the motion under the nearest rib, lowered her belly, and backed over the clerk’s low desk until her shell covered both clerk and records. The clerk tucked her stylus harness flat. Small-bodied members went beneath benches. Ceratopsians faced outward and made the space behind their frills available. The chair threaded his neck twice around one basalt rib and still had to leave his head under a different one.
+
+“Main body crossing the caldera rim,” Pellik called. “Impact in twelve.”
+
+Ketta counted the last six by the floor, not Pellik’s voice. The Stone Choir received distant events through its foundations before sound reached its roof. At zero, a weight struck the soles of Ketta’s feet and climbed into her jaw. Dust sifted along the rib above her. Far south, forty-one tonnes had met empty ground.
+
+“Quiet Caldera,” Pellik said. “Inside the western rim. Twenty-seven lengths from modeled center.”
+
+Several members began to unfold.
+
+Othrik’s bellow flattened them again. “Northern return still live.”
+
+The eastern roof leaf flashed white. Something punched through its sloping edge, tore a handspan of slate into the chamber, and crossed above the empty defense bench. It struck Ketta’s speaking ledge, drove her motion tablet against the basalt, and buried itself halfway into the aisle groove with a burst of hot gray dust. The little pebble shot from the ledge and vanished among the chair’s feet.
+
+For a few breaths, the Stone Choir held only the ticking of cooling metal. No one screamed. Ketta lifted enough to let the clerk crawl out and start a count.
+
+Othrik was already moving benches beyond the new roof line. “Eastern third stays empty. Two braces under the leaf. Marshal crews only.” He shoved his shoulder beneath a fractured support until attendants wedged a stone prop beside him. “Report injuries by location, not volume.”
+
+The count found a cut crest, two pinched tails, and one feather fan scorched at the tips. No deaths. The clerk transferred those facts to the surviving margin of the attendance slate.
+
+Pellik approached the thing in the aisle only after its glow faded. It was a twisted piece of structural metal packed around stone, one surface melted smooth and another threaded with the same pale insulation as Ketta’s pebble. Pellik held a heat gauge near it.
+
+“Mass after entry, perhaps eleven kilograms,” she said. “The upper track separated at thirty-six heights. Wind carried it north of the central body. The frame alloy and insulation match the earlier loads: consistent with ballast structure, but not proof of motive.”
+
+Othrik kept his shoulder against the roof support. “The central body missed every settlement. This one entered the Council.”
+
+Pellik’s throat feathers shook once before she pressed them flat. “Both observations remain true.”
+
+The clerk recovered Ketta’s tablet in two pieces. The fragment had broken it through the destination line. One half read *release assembly*. The other held the first digits of the station’s mass and nothing below them.
+
+Ketta fitted the halves of her slate together. Her motion had assigned the penetrator a target and the station a verb. It had assigned the station’s mass nowhere. The central body’s accuracy did not move the eleven kilograms out of the aisle.
+
+Ketta made her put the station estimate on the unbroken back of the slate: ninety-one thousand tonnes at the lower bound, a hundred and six thousand at the center. If the strike opened the frame or started a tumble, Pellik’s models put between eight thousand and thirty-eight thousand tonnes on the surface, scattered across tracks too broad for Othrik to clear.
+
+“Can my shot make any of that mass cease to exist?” Ketta asked.
 
 “No.”
 
-He did not soften the word. Ketta respected him for it and disliked the fact that respect complicated the arithmetic.
+Othrik heard while helping a crew lever the cracked roof leaf onto a second prop. “The next load will not cease to exist either. Do not let one hole choose for you.”
 
-The clock attendant called five minutes. The three of them returned to the chamber. No one had changed position, but the spaces between positions had narrowed.
+Ketta slid her tail beneath the fallen edge of the speaking ledge and lifted while two smaller councillors pulled the clerk’s records free. “The hole supplied a missing destination.”
 
-The debate resumed with an amendment to strike only after the next drop, followed by an amendment to contact only after the next strike, which the chair ruled temporally ambitious. Ketta answered questions about penetrator composition. Pellik refused six invitations to call the caldera pattern deliberate. Othrik listed the thickness of every nursery roof in Fern Basin and how far each fell short of his new recommendation.
+“Then give me a day to evacuate what I can and strike on a caldera pass.”
 
-At eleven minutes on the impact dial, the Stone Choir’s warning drums began.
+“Your failure track crosses a hemisphere.”
 
-The sound came through the floor before it came through the air: three quick pulses from the southern watch, a pause, then three more. The predicted stone had entered the atmosphere. High in the noon opening, a white scratch appeared against the blue.
+“And their successful track crossed this room.” Othrik shoved the last record box clear, then lowered his dusty frill. “I still recommend the strike.”
 
-The chair ordered the shutters closed. The shutters had been designed for rain and required six attendants, two poles, and advice from every species with a different opinion about overhead danger.
+He did not pretend his plan was clean. Ketta could not pretend hers had been complete.
 
-Pellik stood on the clerk’s table, watching numbers arrive on a radio slate. “Main body holding south track. Breakup has begun.”
+She found the black pebble under the chair’s rear foot, dropped it into the sand bucket with the new fragment, and handed her broken motion to the clerk. “Withdraw it. Keep the session open by field radio.”
 
-“Range?” Othrik asked.
+The chair was directing long-necked members out through the one entrance that did not require them to pass beneath the damaged leaf. “A replacement must return with mass, destination, displaced work, and a defense provision.”
 
-“Too broad.”
+Ketta and Pellik left for the Upthrower with the sand bucket strapped to a cargo sled. Othrik took the opposite road beside four slab wagons, two bound for Fern Basin nurseries and two for the Stone Choir. His crews had begun work before his motion existed.
 
-“Caldera?”
+At the launch cut, the survey package was already locked to its cradle. Its folded lenses would have mapped the basin’s warm shelves and the water-eaten western wall before the clutches moved. Beside it lay a dense calibration block cast around recovered human ballast, which Pellik wanted to turn into the counterweight. The crew chief would not loosen one bolt until Ketta named what would replace the survey.
 
-“Likely.”
+Ketta opened the Fern Basin circuit. The nursery delegate answered over hammer blows.
 
-“Likely is not shelter,” he said, and bellowed for everyone to brace.
+“Is the survey still on its cradle?” the delegate asked.
 
-The council obeyed according to anatomy rather than rank. Small councillors vanished beneath benches. Horned ones turned their frills upward. The long-necked chair folded himself between two basalt ribs with the miserable care of someone packing a tent. Ketta lowered her belly to the floor and put her shell over the clerk, who objected that she had not finished entering the motion.
+“Yes.”
 
-The main body struck Quiet Caldera.
+“Then leave it there.”
 
-It arrived as a pressure in Ketta’s jaw, a deep blow passed through miles of Earth. Dust sighed from the Choir’s joints. A heartbeat later came a distant sound like a mountain closing a door.
+“The low station may release again in five to eight days.”
 
-Councillors began to lift their heads.
+“The western shelf may fail in three.”
 
-Something screamed through the eastern shutter. The stone fragment crossed the chamber in a spray of slate and hot metal fibers, struck Ketta’s speaking ledge, and split her motion tablet down the middle. The black pebble leaped away. The fragment buried itself in the floor where her figures for *no deaths* had been.
+Ketta watched a technician hold a ceramic wrench over the first cradle bolt. “I am spending the launch. Assign hand-sounding teams and move the outer clutches one shelf inward. I cannot give you another survey date.”
 
-Silence held for perhaps half a breath. Then the clerk, still beneath Ketta, said, “The destination column will need revision.”
+The pause held no forgiveness. “Hand soundings missed the last hollow.”
 
-No one was hurt. A feathered delegate had lost most of an ornamental tail fan and considered this very near to injury. The chair had to be unpacked. Othrik took command of the roof opening while still nominally under parliamentary objection, moving benches from the fall line and stationing attendants beneath the remaining ribs.
+“Mark every unsounded strip closed, even if it costs nesting space. Send me the labor deficit.”
 
-Pellik crouched by the new fragment. Its outer face had melted to glass. Pale insulation bristled from a crack.
+Only then did the delegate call the teams. Ketta lowered her foreclaw. The crew chief turned the first bolt.
 
-“The main mass struck inside the caldera rim,” she said, reading the next report. Her voice shook, and she made it flatter. “Thirty-one lengths from the projected point.”
+While the survey came off, Pellik fitted a radio, light emitter, passive cameras, and heat gauges around the seven-point-one-tonne block. She discarded every proposed symbol that depended on the humans sharing dinosaur eyes or gestures. What remained began with quantities the low station had already made: its last seven release times, the corresponding orbital changes, and the measured fall tracks. Quiet Caldera’s outline followed, with two entry windows that kept the main-body path inside its rim.
 
-Othrik shoved a broken shutter pole beneath a loose roof slab. “And this struck the Council.”
+“Start the signal with all seven releases,” Ketta said. “One could be dismissed as noise.”
 
-“Both are data,” said the clerk.
+“All seven establish the units.” Pellik sealed the transmitter case. “If an eighth release changes after reception, we will have a new measurement. If it does not, we will not invent an answer.”
 
-Ketta looked at her tablet. One half still held the word *cripple*. The other held the destination of her proposed shot: *ballast works?* Beneath that, the blank space the clerk had left.
+Othrik’s voice arrived from a nursery roof as stone rollers thundered behind him. He had two diverting darts and crews for the next release, but a dart had to launch before breakup and could not protect every farm along the error region.
 
-She had counted the penetrator and not the thing it penetrated.
+“Give defense a trigger,” he said. “Any main body outside the caldera corridor. Any modeled fragment risk over an occupied site.”
 
-“Pellik,” she said. “Full station mass.”
+“At what confidence?” Pellik asked.
 
-Pellik gave the estimate.
+“Fifteen percent.”
 
-It was more than all seven discarded loads by a factor large enough to make Ketta ask for the figure again. Then she asked how much would burn. Pellik gave a range. How much would remain in orbit. Another range. Where the rest would land if the penetrator disabled attitude control, split the ballast frame, or changed the station’s speed by one part in ten thousand.
+“At fifteen, upper-air uncertainty spends both darts on almost every pass. Twenty.”
 
-“Unknown,” Pellik said at last. “Several differently shaped unknowns.”
+Ketta looked at the empty survey cradle. “Eighteen, updated thirty-two minutes before entry. Review after two releases, after any breach of the corridor, or after either dart.”
 
-Othrik lowered his head until one horn nearly touched Ketta’s brow. “Withdraw because they nearly hit us, and you teach them that near is good enough.”
+“I will execute eighteen,” Othrik said. “I will vote against the counterthrow.”
 
-“Restore the motion as written,” Ketta said, “and I put a blank destination under a mass larger than Quiet Caldera can hold.”
+The chair reconvened the emergency quorum over the Upthrower’s field radio. Ketta stated the upward mass: seven point one tonnes. Pellik stated the co-orbit: twenty-four lengths behind and outward, no closing path for six days, no penetrator or attachment system. Othrik stated the shelter work and interception limit. The clerk stated what disappeared from the ledger: Fern Basin’s survey slot, with no replacement date before migration.
 
-“Then amend it. A timed deorbit. A controlled break.”
+The vote took less time than removing the survey cradle. It passed by five. Half of Ketta’s own district opposed her; Othrik’s no came through clearly and without delay.
 
-“Controlled by the apes whose controls we cannot see?”
+“Defense provision is active,” the chair said. “Proceed with the launch.”
 
-“By us, as far as possible.”
+Othrik had already signed the slab team across the first nursery boundary.
 
-He meant it. Othrik would have emptied valleys, moved hatcheries, and stood beneath the predicted track until the last dinosaur was clear. He would also have accepted everything outside that track as the price of ending the threat. It was not cowardice or bloodlust. It was the marshal’s habit of making the danger face him where he could plant his feet.
+Last light turned the Upthrower’s two induction rails copper. The launch crew issued Ketta four thick reed pads for her feet and a ceramic case for the documents whose clasps they had confiscated. Anything ferrous left near a charged rail would choose its own destination.
 
-Ketta’s habit was to make every cost hold still long enough to receive a number. The broken tablet showed what happened when she let one cost hide inside a verb.
+Beyond the safety fence, the Fern Basin survey rested on a service trolley, its folded lenses wrapped against dust. In its former place, technicians locked the counterweight into the launch saddle. They sealed Ketta’s scorched pebble into an exterior sample cup. The larger fragment stayed below; its heat and torn frame made poor launch ballast and useful ground evidence.
 
-She found the black pebble beside the chair’s dais and set it on a clean slate.
+The crew chief walked the rail cut with a wooden hook. “External metal count.”
 
-“I withdraw my motion.”
+“Tools secured,” called one team.
 
-Fern Basin’s delegates erupted before anyone else could. Ketta let them. They named the cracked warming beds, the frightened nursery circles, the survey she had promised. Especially the survey. One elder struck the bench hard enough to add a fresh repair to the day’s account.
+“Visitors checked,” called another.
 
-When they had finished, Ketta moved the clean slate to the clerk.
+The chief looked along Ketta’s armored back. “Plated visitor not yet checked.”
 
-“Replacement motion. The Upthrower will launch an unarmed instrumented counterweight into a path beside the low station, not through it. It will repeat our signals at close range: coordinates and safe entry windows for Quiet Caldera, acknowledgment requested, and warning that loads projected elsewhere will be intercepted where possible.”
+Two technicians worked reed combs between her osteoderms and found a roof tack, a fastening ring, and a sliver from the speaking ledge. The ring had hidden under her tail club where no one inclined toward politeness would have searched during the session.
 
-Pellik opened her mouth.
+The rails began to charge. Iron in Ketta’s plates answered with a crawling pull beneath her hide. One missed washer lifted from the observation platform, crossed three body lengths, and struck her tail with a click. The chief removed it with the wooden hook, advanced the count by one breath, and ordered everyone farther behind the painted line.
 
-“The skywatchers will choose symbols they can defend as measurements,” Ketta continued, “not as a universal language and not as a greeting from our hearts.”
+The launch struck the ridge like a single hard footfall. The counterweight became a white bead between the rails, then a spark above them, then only a mark moving across Pellik’s tracking board. Its first measured arc matched the filed solution. By the second, it held behind and outward from the low station, the gap opening exactly as calculated.
 
-Pellik shut her mouth and nodded.
+The transmitter sent the seven releases. It sent the two Quiet Caldera windows. It sent the warning and asked for a deliberate change in return.
 
-“Defense will fortify Fern Basin shelters and prepare two intercept crews. The Council will review after the next two releases, or sooner if any trajectory falls outside the marked corridor.”
+One full pass brought no answer Pellik would name. The instruments found cold surfaces, escaping gas, and weak bursts near the station’s old machine frequencies. A person might have caused one of them. A failing pump might have caused all of them.
 
-The clerk’s stylus hovered over the last column. “Displaced work?”
+Night had settled by the time Ketta entered the Stone Choir again. Woven mats covered the torn eastern roof, and Othrik’s two stone props remained under the cracked leaf. The clerk worked below a borrowed lamp with roof invoices on one side and Fern Basin’s manual-survey deficit on the other.
 
-Ketta could feel every Fern Basin eye upon the plates of her back.
+“Next release estimate?” Ketta asked.
 
-“Surface survey postponed. Package removed from this window.”
+“Six days. Error of nine hours.”
 
-Othrik voted no. So did all but one of his marshals, half the Fern Basin delegation, the large-net faction, and a mountain bloc that believed nothing good had ever followed putting expensive machinery above the weather. The motion passed anyway, narrowly enough that the three-headed marsh delegation demanded another attendance ruling.
+Ketta backed into her bench. Despite the reed combs, three small washers still clung along her tail and ticked over the basalt.
 
-There was no cheering. Othrik recorded his dissent, then requisitioned the three roof slabs from the western colonnade for Fern Basin and began arguing with the clerk about transport teams. Pellik carried the transmitter slate to the skywatchers and crossed out every signal that assumed the receivers possessed eyes, ears, or patience.
-
-Ketta sent the nursery circles a notice that began with the lost survey window. She did not use the word *temporary*. The next window was an estimate, and she had exhausted her appetite for comforting estimates.
-
-That evening, at the Upthrower, launch crew wrapped Ketta’s feet in reed spacers and made her surrender the metal clasps on her document case. The facility lay in a long cut through a ridge, two induction rails aimed into a violet sky. The Fern Basin survey instrument sat on a trolley beyond the safety fence, wrapped and useless, while technicians fastened Pellik’s beacon around a block made from recovered human ballast. Ketta’s black pebble went into a sample pocket on its side.
-
-“Loose steel?” the crew chief called.
-
-“None,” answered the rail teams.
-
-“Horn ornaments?”
-
-“Resented but removed.”
-
-When the rails charged, every iron-rich plate along Ketta’s back tingled. A forgotten fastening washer flew from under the observation rail and snapped onto her tail. Then another did. The crew chief swore in three grazing dialects but did not stop the count.
-
-The counterweight left with a flat crack that Ketta felt through her reed-wrapped feet. It ran the rails as a white spark, climbed past the ridge, and dwindled into the dark. On Pellik’s tracking board, its line curved toward the low station and matched the habitat’s track beside it, close enough to speak and far enough that no reasonable trajectory could be mistaken for a strike.
-
-Nothing answered.
-
-They waited through one full pass. The station remained a moving light. The beacon repeated the caldera coordinates, the safe windows, the warning, and the request. It reported cold metal, thin gas, and several weak transmissions no one could yet distinguish from machinery talking to itself.
-
-By the time Ketta returned to the Stone Choir, the eastern opening had been covered with woven mats. Dust still marked the benches. The clerk sat beneath a borrowed lamp, transferring the day’s surviving figures to new slate.
-
-“Next predicted ballast event?” Ketta asked.
-
-“Six days, with an error of nine hours.”
-
-Ketta backed carefully toward her bench. The launch crew had removed most of the stray hardware from her tail, but three washers remained stuck along the club and clicked against the stone as she moved.
-
-“Put Fern Basin shelter transport first,” she said. “Then the eastern roof allocation. We can argue about the washers after we know where the next rock is going.”
+“Shelter slabs south first,” she said. “Then this roof. Put a skywatch update on both crews before dawn.”
