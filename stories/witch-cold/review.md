@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Mallow Fenn | new | The unnamed narrator's magical-girl best friend; no exact, alias (`Mallow`), close-spelling, or confusing prior reuse found. Her witch cold and transformation practice remain story-local. |
+| Mallow Fenn | new | The unnamed narrator's adult magical-girl best friend; the story-facing alias `Mallow` has no exact, alias, close-spelling, or confusing prior reuse. Her witch cold and transformation practice remain story-local. |
 
 ## Places
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The prospective craft profile is materially satisfied; the uncontrolled random spells sustain the central promise, both friends retain distinct agency, and the morning reversal grows from the night's choices and consequences.
+- Notes: The 2026-08-08 craft defaults are materially satisfied. The friends' distinct tactics change under illness and role reversal, while the fever's end leaves the narrator's size and the apartment damage as consequences without implying control, cure, immunity, or blame.
