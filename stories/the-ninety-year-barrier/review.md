@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The unnamed child, gran, dragon, and village add no proper-noun inventory rows; the ninety-three-year living-root ward remains a local system powered and directed by its living caster.
+- Notes: The unnamed child, gran, dragon, and village add no proper-noun inventory rows; the three-week propagation, morning cut, shifted outside anchor, inside-root repair, magic cost, dragon strike, and guardian-conditioned departure remain causally consistent and story-local, with the living witch supplying and directing the ward's magic.
