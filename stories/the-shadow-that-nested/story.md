@@ -8,274 +8,326 @@ canon: false
 
 # The Shadow That Nested
 
-Oru Korr draws one gloved finger along the weather map and finds the fault by touch.
+The moon's night crosses the world first. From the repair tug, Oru Pendrothiel watches its round umbra pass over white cloud and the copper shine of an ocean, exactly where the orbit model promised.
 
-The moon's shadow is the clean mark, a black seed crossing cloud systems and ocean glare on the tug's curved display. The second darkness follows eleven minutes behind. It is ragged, broader at one end, and wrong in a way Oru likes: wrong by the same amount on every surface station's recording.
+Nine minutes later, darkness crosses again.
 
-Everything else in the feed is useless. Six languages call it a warning. One report insists the trailing night has wings. Another has removed its coordinates but preserved a chant. Twice, anxious people have damaged observatories trying to prevent the next passage. Oru strips the messages down to time, direction, and the gray fall in solar yield.
+The second track has a straight leading edge and a ragged tail. It extinguishes the tops of daylight storms, then runs out over the ocean. Surface feeds arrive crowded with explanations: a celestial warning, a second moon too dark to see, a wing folded over the sun. Oru discards messages without timestamps. The rest agree within four seconds.
 
-"Repeatable offset," he says. "Same source plane."
+Beside him, Nemi Quell folds the thermal returns through the moon's orbital plane. "The trailing edge loses heat in strips. Twelve of them, overlapping."
 
-Nemi Quell braces their boots beneath the life-console and studies a different rendering, one made from temperatures rather than light. "Same neighborhood. Source could be larger than the moon. Less opaque."
+"Range the source, not the surface."
 
-"A large object near a moon ought to be in the traffic register."
+"I need us thirty kilometers higher to separate it from the moon."
 
-"Then it isn't traffic."
+Oru changes the tug's climb. "Match the unknown's angular rate. Keep six meters per second in hand."
 
-The tug shudders through its last orbit-matching burn. Beyond the forward glass, the moon fills half the sky: ash-colored highlands, blue-white mineral scars, no lights. The world hangs past its limb, banded with weather. Oru has worked orbital yards where an unsecured washer could be tracked across three jurisdictions. Here, something broad enough to dim continents has gone unlisted.
+The new trajectory spends part of their maneuver margin. It also brings the thing out from behind the moon before the next surface crossing.
 
-He closes the omen reports. The next full crossing is less than nine hours away. A fault with a schedule is almost a courtesy.
+Stars vanish ahead. As the tug rises, darkness resolves into a black disk canted nearly edge-on to the sun, twelve flexible petals around a thick hub. One petal has warped toward its neighbor. Dust on the immense outer rim forces the scanner to assemble its circle piece by piece.
 
-They round the moon and the stars go out in pieces.
+Oru overlays the second shadow. The ragged track fits the overlapping petals. The straight edge fits the one sector that has turned too far toward the world.
 
-At first Oru mistakes the shape for a broken horizon. Then the tug's ranging pulses return a shallow dish, so wide the scanner must stitch it from separate sweeps. Black membrane spreads from a central hub in overlapping petals. Most lie nearly edge-on to the sun, invisible except where dust shines along their seams. One third of the structure has yawed toward the world. It catches the light and gives none back.
+"Working name: sunshade," Nemi says. The thermal image shows old heat trapped in the petal laminates and a colder circle at the rim.
 
-Nemi lowers the scan gain. Heat blooms along the image: not working heat, but old sunlight banked in laminates and joints. "Sunshade."
+"Function unknown. Shadow source confirmed." Oru sends the surface network a position and closes the incoming interpretations. "Next umbra in seven hours, forty-one minutes. Range the hub."
 
-"Maybe."
+Nothing identifies the builders. The hub offers no beacon or legible record, only layered repairs: clamps over welds, pale ceramic stitched across black membrane, service marks cut through older marks. Whatever the disk once shaded, its present yaw is a hazard. Another three tenths of a degree will broaden the next second night across the same inhabited latitudes.
 
-"You have a better use for a moon-sized parasol?"
+They dock against a flange beneath mineral crust. When Oru powers its contacts, a diagram wakes in amber lines. Twelve arcuate rails divide the outer ring, each holding a carriage linked inward to a petal edge. Together, the carriages walk the rim around the hub and turn the disk without concentrating force at its brittle center. Oru calls the carriage-and-drive assemblies walkers; the diagram offers no surviving word.
 
-Oru does not. The thing was built to stand between sunlight and somewhere else, though whether that somewhere was the world, the moon, or a vanished station the diagnostic cannot say. Its position explains the trailing darkness precisely. The leading rim has drifted out of plane; each slow degree fattens the second shadow below.
+A bright reference line stands beyond the current position. Oru names it zero. The machine's meaning for it is gone; the geometry remains. At zero the disk would lie edge-on to the sun and its shadow would collapse. On younger machines, he does not leave until service and live lines overlap; that habit keeps hidden load from passing to the next crew.
 
-They coast along its hub. No maker's beacon answers. Service symbols have been cut into, plated over, and cut again in scripts the tug cannot keep separate. Three different kinds of patch brace the membrane roots. Someone maintained this machine for a very long time. Someone stopped.
+"All twelve brakes report closed," he says. "Links carry load. I can take up slack without travel."
 
-But machines survive their names. Oru finds a docking geometry beneath two layers of mineral crust and brings the tug in sideways, matching the hub's languid tumble. The clamps close with a noise through the hull like teeth meeting.
+Nemi attaches their sensor bridge to the old ring diagram. "Limit preload to four tenths of nominal. I want each sector separately."
 
-Local power wakes when he bridges the service contacts. Pale marks crawl across the console, rearrange, and settle into a diagram. A segmented ring circles the shade: twelve perimeter walkers, each able to pull one portion of membrane along a rail so the load turns without tearing. Eleven are displaced from a bright notch. The twelfth is nearly there.
+"Four tenths. No brake release."
 
-The notch is unmistakable. Zero. Rest. Correct.
+Oru touches the reset control. Power reaches all twelve tension links in a quick sequence. Eleven strain traces rise with the hard response of metal and laminate.
 
-"Actuators respond," Oru says. "No gross breaks. If the ring can carry load, we can clear the surface track before the next pass."
+Sector one's trace keeps rising after its command ends.
 
-Nemi has clipped three borrowed sensors to the console, making the ancient display tolerate modern questions. "Your load model assumes empty rails."
+"Sector one has a delayed return," Nemi says. "Soft load, seven to eleven kilograms. Cut power."
 
-"The cutaway shows empty rails."
+Oru isolates the ring. The last trace subsides in small elastic steps.
 
-"The cutaway shows what its builders expected. I have mass on walker one. Soft mass, distributed into the tension link."
+"No carriage displacement," he says.
 
-The hull ticks as the sunshade crosses from cold into hard light. On Oru's screen, the path home to zero glows as a simple sequence. The tug has enough propellant for a direct return if they finish before the crossing, enough life support for far longer, and very little patience built into its orbit.
+"Then the load stretched in place. I need the rail open before another test."
 
-"A partial stroke," he says. "Two percent. We characterize the load."
+They go out through the tug's lock with the sun at their backs.
 
-Nemi's mouth tightens, which in them means a whole argument has been compressed into one line. "Abort on my call."
+At orbital distance the shade looks almost flat. Up close, it is folded membrane, hollow trusses, and rail wells wide enough to crawl through. Oru anchors his waist tether to the hub line and a second line to his tool tray. The unpowered skin carries a faint charge; his loose driver inches across its magnetic pad until the tether catches it.
 
-Oru arms the first walker. Ancient power moves without a hum. The ring takes tension, clean and even. Then a fine vibration enters the service contacts, too irregular for metal, and Nemi strikes the abort pad.
+Walker one sits where the first rail meets a petal seam. Its cover has fused around three fasteners. Oru cuts the heads and lifts the plate while Nemi holds a probe against the tension link. The plate rises a finger's width and stops against something springy.
 
-The walker stops after the width of Oru's hand.
+Silver-gray fiber fills the rail well. It loops between the runner's teeth, crosses the spindle, and gathers around the tension link in a sealed bulb larger than Oru's torso. His lamp reveals another bulb under the next cover, then more along the curve, packed wherever the ring offers shelter.
 
-Something crackles across their suit channel. Nemi says, "That load changed," and the last syllable comes back from the hull in faint overlapping copies: changed, changed, changed.
+Nemi presses the probe to the sealed mass. "Outer fiber is at rail temperature. The center is warmer by one point six. Heat rises, rests, rises again."
 
-The empty cutaway still shines on the display.
+"Runner obstructed. Central reset stays isolated."
 
-Outside, walker one is a low housing sunk beneath the membrane rim. Its service cover flakes under Oru's cutter. He works around the surviving fasteners and tethers every loosened piece; static from the black skin makes small tools creep toward the edge of his tray. Nemi floats beside him with a thermal probe, one boot hooked under a line.
+"The heat rhythm has a weak electrical edge. It is coupling into the skin. This housing is occupied, and the spindle passes through it."
 
-The cover lifts three centimeters and catches.
+A faint rasp enters Oru's helmet. His suit returns the end of Nemi's last word several seconds late: through it, it, it. The repetition comes through the tether and shade skin, not across open radio. On his tray the driver creeps again.
 
-Inside, where an open rail should gleam, dull silver fibers cross the gap in hundreds of tight loops. They pass through the walker carriage, around the tension link, and back into a swollen woven mass. Oru thinks first of cable rot, then sees the mass flex against the probe's light.
+Oru clips every tool to a hard line. "Map the warm mass around the ring."
 
-His glove stops.
+Nemi sends a low pulse through the probes. Warm knots appear by the hundreds, then by the thousands, following all twelve rails. The signal says nothing about what they are. It only makes the machine's supposedly empty spaces visible.
 
-"Surface temperature rising six tenths," Nemi says. "Core warmer. Patterned pulse."
+The sunlight dims.
 
-"Contamination in the housing."
+A narrow body passes between Oru and the star, surrounded by six transparent vanes larger than the tug. Blue currents travel through the tissue as it spreads against the light. Another follows, then a procession of dark bodies and flashing vane edges. They miss the shade and angle along the ring. Nemi labels the returns driftwings only to separate them from the sealed nests on the map.
 
-"Occupancy. Unknown kind."
+"Adults are crossing the rim," Nemi says. "No size range yet."
 
-Oru angles his helmet lamp farther along the rim. A second fibrous swelling crouches behind the next cover. Then a third. He increases the work lights, and the sunshade answers by becoming crowded.
+"Keep the scanner off their path. We have enough evidence."
 
-Nests wrap the entire visible rail. They fill the trough between membrane layers, pear-shaped masses lashed down with shining strands. Thousands recede into darkness until curvature hides them. The weak pulses travel through the conductive skin, and every sound in the radio acquires a frayed little wake.
+Back at the hub, Oru models the available forces without moving anything. A central-clamp tow puts the innermost membrane root at nine times permitted shear; the oldest patch would split before half the required turn. A central reset distributes force, but every runner and spindle would close through warm fiber. Drifting adds another tenth of a degree before the next pass and brings the warped petals into overlap within two passes.
 
-"We can clear the local runner," Oru says. His own voice returns: runner, runner.
+"Direct tow tears petal four at sixty percent of required torque," Oru says. "Central drive damages every occupied rail. Waiting loses the membrane."
 
-Nemi turns their helmet toward him. "There is no local runner."
+Nemi changes the life map from points to bands. "A root tear crosses sectors three through six. The warm nests there are anchored to the laminate; they go with it."
 
-A shadow crosses the sun.
+"Can you clear individual walkers?"
 
-Oru looks up in time to see an adult body pass beyond the shade, vast and thin. It has no wings in the atmospheric sense. Six vanes of translucent tissue open around a dark central spindle, taking pressure from sunlight and spilling it in a blue edge-glow. Another follows, then five together, coasting over the nests. Their vanes fold as they enter shadow and bloom again in light.
+"Not through covers. I can clear runner path, spindle core, local heat, and strain response if you seat the probe on each housing before touching its brake."
 
-The surface reports had preserved one useful word after all.
+"Then we inspect clockwise."
 
-Back inside the hub, Oru runs the choices until they turn into the same answer.
+"The occupied fraction is between seventy and ninety-four percent. At that density, individual inspection extends past the next umbra."
 
-Tow from the center, and the brittle petals take unequal load. The oldest patch reaches failure in fourteen minutes. Command the ring, and twelve walkers close through twelve occupied housings. Wait, and the shade continues its slow yaw. The second darkness will cross the world wider than before; another full degree risks folding a petal into its neighbor. Cutting the nests free would take days even if the woven anchors did not pass through every moving part.
+Oru looks through the hub's open truss. Sunlight has begun to touch walker one. "Measure what warming changes."
 
-"They may all be empty," Oru says.
+They return to the rim and wait beside the first sealed bulb. The shade's slow yaw carries the sunlight across it. At a threshold Nemi cannot yet bound, the silver fibers contract. A seam opens.
 
-Nemi puts the thermal map between them. Warm points crowd the ring until it resembles a necklace of coals. "Maximum estimate, ninety-one percent occupied. Minimum estimate, sixty-eight."
+A small body pushes free. Its wet-looking vanes spread into six trembling sheets, and sunlight runs blue through them. It remains attached for half a minute before the last filament parts. Two more follow. An adult crosses above, strips a loose ribbon from the shell, and carries it out of Oru's light.
 
-"That's an extravagant interval."
+Along the rim, other nests open as the thermal line reaches them. The openings proceed clockwise. Behind that moving boundary, loose fibers lift away from runner teeth and spindle gaps. Ahead of it, the woven bulbs remain closed and warm.
 
-"We don't know their dormant temperature, developmental cycle, or whether one heat source spans adjacent structures. I could make the number narrower by lying."
+Nemi works the probe over the first exposed mechanism. "Runner path has no attached fiber. Spindle has no internal heat rhythm. Skin temperature is falling toward bare rail. Strain return is metallic."
 
-Oru rubs the ridge in his right glove where an old knuckle break has set badly. Every repair begins by naming states: nominal, limited, failed. This machine is failed. It has a rest mark and the means to reach it. The life map gives him no such clean vocabulary, only red points and Nemi's refusal to pretend confidence.
+"One is the local test stroke."
 
-The radio whispers the ends of their breaths back at them.
+"One is clear within sensor range. I have no clearance for the next housing."
 
-"If the membrane tears," Oru says, "your occupancy goes to zero along with my surface problem."
+Oru studies the moving strip of empty machinery. It is narrow, but it is going where the disk must turn.
 
-"Agreed."
+"We stay behind the boundary," he says. "I traverse the rim and seat the probe. You return to the hub and read each housing. Local manual pulses only."
 
-He had expected resistance. Nemi's agreement leaves him holding his urgency without anyone to push it against.
+Nemi marks four abort lines on his wrist display. "Runner obstruction, spindle rhythm, heat above bare-skin range, or soft strain return. Any one stops the stroke."
 
-They go back out to watch.
+"Call all four before brake release."
 
-The shade turns through the boundary between darkness and sun. Light advances over the rim, sharp as a blade and slow as dawn. At the first warm nest, silver fibers loosen. The woven mass opens along a seam Oru had taken for damage.
+"The echoes are delayed up to three seconds."
 
-Three young driftwings unfold into vacuum.
+Oru hears seconds arrive again from the shade. "End each clearance with the walker number. I answer with number and state. Old words carry the wrong number."
 
-They are all vane at first, crumpled films trembling around narrow bodies. One catches the sunlight, jerks along its tether of fiber, and opens wide. Blue runs through it. The tether parts. The animal lifts from the machine without thrust Oru's instruments can resolve and joins the adult shapes crossing overhead.
+Nemi clips the multipoint probe to his tool rail and waits for the echo to die. "That is sufficient. Keep every tool tethered." Then they push off toward the hub.
 
-Nests open one after another as the thermal boundary reaches them. The hatch wave travels clockwise. Behind it, collapsed fibers peel away from the rail and gather into loose streamers that adults pluck free as they pass.
+At walker one, Oru seats the probe and a hand controller directly into the carriage. The cleared wake extends only twenty meters clockwise. Beyond it, the next closed nests shine like bundled wire.
 
-Nemi tags the cleared housings on Oru's visor. One. Then two. A moving length of usable machine appears behind the living dawn.
+Nemi's voice comes from the hub. "Runner open. Spindle cold. Heat within two tenths of bare rail. Strain hard-return. One."
 
-Oru watches the first cleared walker glide along its exposed rail when he turns it manually. Nothing strains. Nothing warm lies in its path.
+"One releasing."
 
-"We follow the gap," he says. "Local strokes only. You clear each housing. I fire, lock, and move. Abort on heat, mass, or irregular tension."
+He trips the brake, gives the controller a short pulse, and feels the ring move through his boots. The carriage advances along its arc; the tension link draws the first petal edge sideways. Oru stops at the calculated mark and drives the mechanical lock home.
 
-"The gap is moving faster than a suited traverse."
+"One moved and locked."
 
-"Then you stay at the hub and map ahead. I take the rim line."
+The orbit overlay on his wrist redraws. The coming umbra shifts eight kilometers toward the world's limb.
 
-"Your remaining maneuver load is six hours."
+Walker two has a brake crusted with mineral growth. Oru wraps it in the waste-heat line from his cutter. Nemi withholds clearance when the spindle temperature rises.
 
-"Five forty after I depressurize."
+"Heat is climbing with your tool. No occupancy rhythm detected. Hold until it returns within three tenths. Two."
 
-Nemi looks from the world on the display to the hatching band. Their fingers make quick occupancy boxes, measuring what neither of them can hurry. "No inference from an open outer layer. I clear the runner and spindle separately. Checksum every stroke."
+"Two held. Heater off."
 
-"Runner, spindle, tension."
+The lost minute lets the hatching boundary pull farther ahead. When the housing cools, Nemi clears each element, and Oru breaks the brake free. The second petal responds more sharply than the first. He shortens the pulse and locks it before their strain ceiling.
 
-The hull repeats tension in a dwindling chorus.
+At three, the runner is exposed but a newly emerged animal remains tied across the spindle by one bright filament. Oru can see empty space behind its folded vanes. Nemi still says, "Runner open. Spindle obstructed. Heat source moving. No stroke. Three."
 
-Oru crosses the rim in one direction because the empty space closes behind him.
+Oru retracts the controller. The animal turns in the light without any sign that it sees him. Its filament thins, snaps, and drifts clear. Only after Nemi's probe loses the pulse does Oru release three.
 
-At walker two he clips the local drive across contacts furred with mineral bloom. Nemi feeds him temperatures from the hub. "Runner cold. Spindle cold. Anchor mass drifting clear. Two is clear-clear-clear."
+The weak current in a dense cluster ahead sends the ends of Nemi's words back through his radio. At four, an echoed clear arrives after Nemi has found fresh fiber under the runner. The walker number attached to the old word prevents Oru's thumb from arming the drive.
 
-"Checksum two."
+"Four runner obstructed," Nemi says. "Cold loose strand, no coupled heat. Remove from the tooth path; do not pull toward the spindle. Four."
 
-He releases the brake, fires a measured pulse, and feels the ancient machine pull through his boots. The petal beneath him shifts a fraction against the stars. Far below, the forecast trail of the second shadow narrows by nine kilometers.
+Oru hooks the strand from its free end and folds it beneath the opened cover. Static tugs the hook sideways; its tether snaps straight. Nemi repeats the four-part check, and Oru moves the carriage.
 
-At walker three, a juvenile hangs snagged on a housing seam. Oru waits while it saws at its own fiber with a hooked forelimb, spending four minutes he does not have. When it lifts, the empty cocoon rolls toward his tool line. He catches it and tethers it to the cover rather than let it foul the next spindle.
+Walker five accepts its first pulse, then the tension link answers too slowly.
 
-At four, the rail brake refuses to open until he warms it with the cutter's waste loop. At five, an adult passes so close its vane eclipses his visor. Blue veins flicker in the translucent sheet; the suit radio fills with the repeated click of his tongue against his teeth. The animal banks around him without contact and continues toward the hatching front.
+"Soft strain return at the lower anchor," Nemi says. "Stop five."
 
-Nothing about the migration acknowledges the repair. That steadies him.
+"Five stopped. Brake closing."
 
-The work lights thin as he advances. The hub shrinks behind him, a knot of gold at the center of black petals. His tether reel lays a bright line along the rim. Ahead, nest after nest opens in sunlight. Behind, nest after nest is empty, but not safe for long: adults strip fibers across housings, and the moving membrane changes which nests enter light.
+The carriage has moved a third of its planned travel. Oru locks it there. The hatch front continues clockwise while Nemi compares the response against the thermal map.
 
-Six walkers. Seven. Eight.
+"No heat at the anchor," they say. "Likely old laminate separation, confidence sixty-eight. Five can remain at current position. Reduce later walker strokes by eight percent or the next link inherits the load."
 
-Nemi calls numbers instead of encouragement. Fuel to return. Oxygen reserve. The increasing shear between moved and unmoved petals. Their voice frays into echoes whenever a cluster of nests pulses through the skin, so they adopt checksums of single clipped words.
+"Eight percent reduction entered. Five stays locked."
 
-"Nine clear."
+The change leaves more shadow for the tug to remove later. It keeps the petal attached now.
 
-"Nine moved."
+Six spreads tension without another soft return and locks cleanly. At seven, a vast driftwing's blue-lit vane fills Oru's visor and blinds the probe's optical channel. Nemi calls the lost heat data; Oru holds the released brake until the animal passes, then pulses and locks seven. At eight, his tether reaches its last guide. He anchors a new line before opening the brake. The old guide bends when the petal moves; eight reaches its reduced mark and locks.
 
-"Nine locked."
+By walker nine, Oru's suit is radiating more heat than the empty nests. Nemi narrows the probe field to separate him from the spindle.
 
-"Lock confirmed."
+"Move your left boot off the housing. Nine."
 
-The second shadow's predicted center approaches the world's duskward limb. It no longer crosses the largest ocean. It still clips cloud decks and populated nightward coasts. Oru can see the clean zero notch on his visor, waiting two walkers beyond the moving hatch front.
+Oru shifts to the rail lip. "Boot clear."
 
-Ten costs him a glove seal. A splinter from the service cover pierces the outer layer at his thumb, and resin stiffens the joint before pressure can fall. He finishes the stroke one-handed while the suit counts the leak rate down to nothing.
+"Runner open. Spindle cold. Heat source now external and receding. Strain hard-return. Nine."
 
-Eleven lies half in sunlight. The young have gone, but their cast fibers remain looped through the carriage. Oru cuts no living weave; he frees each loose loop, bundles it under the cover, and moves the walker. The shade answers with a long shiver. One petal bows inward far enough to hide the world, then recovers.
+"Nine moving."
 
-"Tension is outside builder range," Nemi says.
+The echo gives him moving after the lock is already seated.
 
-"Current range?"
+Walker ten lies beside an ancient patch whose edge rises as the carriage takes load. Nemi calls strain at the patch root rather than at the runner. Oru divides the reduced stroke into three manual pulses, waiting between them for the laminate to flatten, then locks ten beneath the patch. The predicted umbra touches only a narrowing crescent of the world now, but it still reaches the atmosphere.
 
-"Stable if you don't ask me how long."
+The nest at eleven opens while Oru approaches. Four young bodies lift into the sunlit stream. Their empty casing collapses around the tension link instead of peeling away. Nemi finds no warmth in it, yet the link cannot move with the loops drawn tight.
 
-The direct-return reserve has dwindled to a yellow sliver. Oru advances. The old zero mark is one housing away.
+"Eleven runner clear. Spindle clear. Heat matches rail. Strain blocked by cast fiber. Mechanical obstruction only. Eleven."
 
-Walker twelve carries a nest that has not opened.
+"Eleven brake stays closed. I am clearing the link."
 
-It sits inside the thermal band with its seam sealed, gray and slack. All around it, empty fibers stream toward the sun. The next occupied nests are still in darkness beyond the zero mark. If this one failed before hatching, the path is clear. Oru gets his cutter under the outer anchoring loop.
+Oru works the loose loops over the end of the housing one at a time. He does not cut until each length lies free of the spindle; then he severs the cold outer web and binds it under the cover.
 
-"Abandoned structure at twelve," he says. "No surface response. Preparing clearance."
+"Heat unchanged. Strain return is hard. Eleven."
 
-"Hold."
+When Oru finally pulses the carriage, the whole shade shudders. A shallow crease runs inward across one petal and fades before reaching the hub.
 
-"We have eight minutes in the direct window."
+"Root strain peaked four point one," Nemi says. "Current stable band ends at four point four. No further local stroke there."
 
-"Your sensor is on the sunward face. Hold."
+"Eleven at mark. Lock engaged."
 
-Nemi sends a probe command through the skin. Static crawls over Oru's visor, and the channel gives back a hundred tiny holds. He presses his glove against the nest to steady the cutter. Through the insulation he feels nothing.
+"Lock load confirmed."
 
-Then Nemi finds it: a dim rhythm deep in the mass, one pulse every nineteen seconds, warmth rising and falling by less than a tenth of a degree.
+On the old diagram, eleven carriages now sit displaced and mechanically locked. Only walker twelve remains at its starting position. The bright zero line waits beyond it.
 
-"Occupied," they say. "Confidence eighty-three and increasing."
+Oru follows the empty wake to the last housing. Sunlight has crossed the outer fibers, but the nest has not opened. Tight gray weave encloses the spindle; no vane stirs beneath it. The thermal boundary has passed twelve and continues clockwise across the woven rail. The genuinely cleared wake ends here.
 
-Oru pulls the cutter free.
+His wrist shows twelve minutes until the shade's umbra begins to touch the high atmosphere.
 
-On his visor, the machine still draws the last movement for him. Release twelve. Advance to zero. Restore alignment. Every diagnostic he woke agrees. One remaining stroke turns the ancient shade back to the state someone intended.
+"Twelve surface is at bare-rail temperature," Oru says. He seats the release tool without turning it. "No motion. Preparing spindle clearance."
 
-Below it, the surface track is no longer centered on the world.
+"Keep torque at zero," Nemi says. "Put the probe on the anti-sun seam, under the tension link. Six centimeters inward. Twelve."
 
-Oru enlarges the weather overlay until the builder's diagram disappears beneath current cloud and atmosphere. Eleven walkers have pushed the second umbra almost clear. Its darkest core will miss. The soft outer fall still touches the high air, enough to be measured and argued over, not enough to make another night.
+Oru moves the probe. The suit channel fills with static, then gives back the last syllable of inward again and again. He braces his hand so tool creep cannot turn the release.
 
-Almost. The shade's slow yaw will carry it inward again before the pass unless they add a fraction more turn.
+"Nothing above noise."
 
-Not a full walker. Not zero.
+"I have a rise of four hundredths. Seventeen-second interval. Hold for three cycles."
 
-Oru looks back along the three-quarters of the ring they have altered. No service label fits what is in front of him. He cannot certify it nominal, and he cannot reach the old mark without cutting through the warm housing. He can still name what the shade must do before they leave.
+The three cycles cost fifty-one seconds. The machine's reference line stays bright. Oru could release the walker in less than one minute and put the shade where its surviving diagram says it belongs.
 
-"Nemi, return to the tug. Keep thermal watch on twelve."
+Nemi speaks after the third interval. "The rise repeats within one hundredth. Core stays warmer than the outer weave. Occupancy confidence eighty-six to ninety-two. Spindle is not clear. Twelve."
 
-"For what operation?"
+Oru draws the release tool straight out. The spindle remains locked.
 
-"Distributed tow. Eleven walkers locked to carry the rim. Tug supplies the missing fraction at the hub."
+"Time to likely opening?"
 
-"That consumes direct return."
+"No bounded estimate. The surrounding nests opened across a nine-degree heat range. This one is inside that range and still cycling."
 
-"Yes."
+"Waiting one pass consumes the shadow window. Bound the occupied sectors under current yaw."
 
-"Off-axis load could crease petal three."
+"Petal overlap begins within one to three passes. A tear would cross occupied sectors. I cannot clear waiting as a stable condition."
 
-"Limit burn at the first propagation past its root. We need four tenths of a degree, not the zero mark."
+Oru opens the surface model over the ancient diagram. Zero demands another seven tenths of a degree and twelve's full stroke. The mission demand is smaller. Eleven changed petals have pushed the umbra almost off the world; its inner edge still cuts sixty-two kilometers into the high atmosphere. Another two tenths will clear the model's uncertainty.
 
-The echoes take degree and make it shiver. Nemi is quiet long enough that Oru can hear his suit pump laboring.
+The tug can supply that fraction through the hub. It cannot restore zero without tearing the membrane, and an off-center pull will load the locked petals unevenly. Oru reads the fuel figures twice. Forty-three point seven meters per second remain in the tanks. A fast return needs thirty-seven. The shade burn will use as much as sixteen point four. A slow three-loop return needs twenty-four point eight.
 
-"Twelve remains fixed," they say at last. "No corrective pulse if it binds."
+"Nemi, isolate drive power to twelve. Keep its mechanical brake set. Verify locks one through eleven."
 
-"Twelve remains fixed."
+"One through eleven locked. Twelve drive isolated. The nest rhythm persists."
 
-"Checksum: surface clearance, nest temperature, membrane propagation. Any one fails, we stop."
+"Move to the tug controls. We torque the hub clockwise for two tenths. Eleven locks carry the shifted rim; twelve does not stroke."
 
-Oru looks at the bright notch he will not reach. "Confirmed."
+"The off-center load puts petal four and the tension link at twelve outside tested balance. My strain range widens under thrust."
 
-By the time Nemi reaches the tug, the next shadow has begun to form beyond the moon. Oru anchors himself at walker twelve, one hand on the nest housing, where he can see the membrane root and the world together.
+"Set abort at four point four root strain, nest warming three tenths, or fuel twenty-seven. Minimum umbra clearance is twelve kilometers."
 
-The tug fires.
+Nemi does not answer until their route marker begins moving from the hub toward the docked tug. "Recoil can add two tenths after cutoff. Lower the thrust ceiling nine percent and cut at four point two."
 
-Force comes through the central hub, runs down eleven locked spokes, and arrives unevenly at Oru's boots. The shade tries to become a bowl. Petal three folds a shallow ridge; Nemi feathers the thrust before it can sharpen. Walker seven slips half a tooth and catches. Across the dark skin, empty nest fibers lift in a silver storm.
+"Ceiling reduced nine. Strain cutoff four point two. Heat and fuel cutoffs unchanged."
 
-"Track moving," Nemi says. "Two tenths. Nest stable."
+"Then modeled warming stays inside the observed heat range if the link holds. I will call lower-bound umbra clearance, not center track."
 
-The burn drains the yellow sliver and enters red. Their return line lengthens on Oru's visor, changing from a quick arc to a slow falling loop around the moon.
+"Use tank value with every burn command. Ignore echoes without a current value."
 
-The membrane booms without air, a vibration carried through suit soles and bone. An adult driftwing crosses between Oru and the world, vanes bright blue at the edges. Others follow the hatching boundary. They do not scatter from the machine's movement. They do not gather to witness it.
+Nemi reaches the tug. "Ready at forty-three point seven."
 
-"Three tenths. Root propagation rising."
+Oru anchors both tethers beside twelve and braces one boot on each side of its rail. He can see the nest, its outer tension link, and the root of petal four across the disk. Beyond them, the bright curve of the world enters the moon's approaching shadow.
 
-"Hold to limit."
+"Start at forty-three point seven," he says.
 
-"Nest stable. Fuel at reserve floor."
+The tug's lateral thrusters fire while its clamps hold the hub. Torque travels outward along the petal roots. Eleven displaced walkers take it through their locked carriages. Because the twelfth carriage remains at its original rail position, that sector lags elastically and the disk cups around Oru.
 
-On the weather overlay, two shadows travel together. The moon's touches the world. The shade's slides along the thin bright line of atmosphere, close enough to dim the highest sensors, then peels away into space.
+His waist line pulls toward the hub. The nest does not move relative to its spindle, but the tension link bows beneath it.
 
-"Clear," Nemi says.
+"Root strain three point six and rising," Nemi says. "Nest rhythm present. Fuel forty-one point nine."
 
-Oru cuts the burn.
+"Reduce thrust four percent. Hold vector."
 
-The shade rebounds against its locked walkers. His tether snaps taut. Walker twelve groans beneath his hand, but the warm rhythm inside the nest continues: faint, slow, present. Petal three keeps its shallow ridge and no more. The ancient display settles with its pointer short of zero.
+The thrust softens. A crease in petal four points toward Oru, then stops lengthening. Abandoned fibers rise from the eleven cleared sectors. Driftwing adults follow the hatching boundary, vanes opening and closing in sunlight. Nest pulses coupling into the skin return the old word hold after the actual command is over.
 
-Oru waits through three pulses before he moves.
+The orbit model crawls across his wrist. The shade's umbra retreats toward the world's edge.
 
-They leave local diagnostics awake and everything else isolated. Nemi gives the final status in bounds: shade umbra clear of the world for the current alignment; eleven walkers repositioned and locked; one occupied spindle untouched; membrane stable under asymmetric load, duration unknown. Oru attaches images of the nests and raw heat readings. He does not attach an opinion about what the second shadow meant.
+"Lower-bound penetration thirty-eight kilometers," Nemi says. "Root strain three point nine. Twelve core warmer by seven hundredths. Fuel thirty-eight point six."
 
-At the tug, the return solution has become a long loop with little margin. Nemi programs the next inspection alert for the closed nest's most likely hatch window, though the estimate spans hours. Oru accepts it and releases the docking clamps.
+"Continue. Same ceiling."
 
-As the bright zero mark diminishes in the aft glass, the orbital model still shows two shadows traveling on. Only one reaches the world.
+A lock at sector six skips one tooth. Oru feels the impact through the rim before the diagram marks it. The recoil rotates him against his tether and loads the twelve link sideways.
+
+"Six slipped. Cut thrust to half at thirty-seven point eight."
+
+"Half thrust, thirty-seven point eight."
+
+The old echo repeats eight while Nemi's measured fuel falls past it. Oru watches sector six settle against its second tooth. Petal four's crease shortens by a handspan.
+
+"Six holding on secondary tooth," he says. "Raise to three quarters. Cap strain four point two."
+
+"Three quarters. Cap four point two. Fuel thirty-six point nine."
+
+The direct return has vanished from the route display. In its place, the tug draws a long falling loop around the moon and two slower loops before meeting the world. The available margin shrinks with every second of thrust.
+
+The shade turns another fraction. The second umbra reaches the bright atmospheric rim and becomes a narrow blade laid against it.
+
+"Lower bound minus nine kilometers," Nemi says. "Root four point one. Nest warming one tenth. Fuel thirty-two point four."
+
+"Continue to plus twelve or abort."
+
+The membrane's vibration passes through Oru's boots and ribs. The closed nest presses against the bowed link. Under his glove, its faint rhythm comes once, disappears in the structural tremor, then comes again.
+
+"Lower bound plus four. Fuel thirty point one."
+
+"Continue."
+
+"Plus nine. Root four point one nine."
+
+"Reduce to quarter. Cut on the next lower-bound clearance."
+
+The tug's thrust falls. The heavy disk keeps turning under its own flex, returning some of the strain it has stored. Oru's wrist trace crosses the target.
+
+"Lower bound plus thirteen kilometers," Nemi says. "Root four point two. Fuel twenty-nine point three. Nest warming one tenth."
+
+"Cut at twenty-nine point three."
+
+The thrusters stop.
+
+Asymmetric recoil runs around the ring. Walker six strikes its lock. Petal four flattens, overshoots, and cups the other way. Oru's tethers pull tight enough to force air from his lungs, but twelve's brake does not release. The closed nest stays wrapped around the unmoved spindle.
+
+On his wrist, the current shade umbra passes thirteen kilometers beyond the atmosphere at the lower edge of the prediction range. Only the moon's darkness touches the world.
+
+Oru keeps his glove on the nest while the structure settles. The warm core rises by four hundredths, falls, and rises again after seventeen seconds.
+
+"Rhythm remains inside the preburn band," Nemi says. "Root strain is three point seven and falling. Eleven locks hold. Twelve is fixed."
+
+"Keep the ring isolated. Open the slow return solution."
+
+Oru waits until the next heat rise before leaving the rail. The ancient display still shows every carriage short of its zero mark. Petal four retains a shallow off-center fold, and the locked walkers carry loads no surviving diagram calls normal.
+
+At the hub, he closes the local service covers without sealing the nest housings. The tug undocks with twenty-nine point one meters per second in its tanks. Nemi commits them to the first long loop, twenty-four point eight reserved for the eventual descent and capture.
+
+The crooked shade diminishes behind the moon. Its predicted umbra keeps clear of the world for the current alignment. On Oru's wrist, the sensor at walker twelve records another small rise of heat as the tug begins its slow, low-fuel return.
