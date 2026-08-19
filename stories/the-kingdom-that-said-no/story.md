@@ -7,340 +7,246 @@ canon: false
 
 # The Kingdom That Said No
 
-I knew how kingdoms asked to be saved.
+Five columns of smoke rose beyond the eastern ridge, each one straight enough to have been drawn with a ruler.
 
-Sometimes they sent riders with white ribbons tied around their wrists. Sometimes they lit three fires on a hill, or rang every bell they owned until somebody with a sword grew curious. Once, a whole fishing village had floated its doors out to sea, each painted with the same black plea. I had learned to recognize distress at a distance.
+I knew the grammar of alarm. One fire might be a shepherd burning ticks from a pen. Two could mark a lost child. Five meant a settlement had run out of smaller ways to be noticed.
 
-So when I crossed the eastern ridge and saw smoke rising from Aldervane in five ruler-straight columns, I did not stop to wonder whether the smoke meant something else.
+I left the road and climbed.
 
-Below me, the kingdom filled a narrow green valley between shelves of red stone. Houses climbed the northern slope in orderly terraces. Orchards covered the southern one. Along the valley floor ran a broad avenue of packed clay, wide enough for six carts abreast, leading from one end of the kingdom to the other.
+From the ridge, Aldervane looked less besieged than dismantled. Red-roofed houses climbed the northern terraces, but the valley floor had been stripped into a broad clay avenue running east to west. Doors, shutters, fence rails, and whole sections of pale wall lay stacked above it. People moved uphill with baskets and coiled ropes. Beyond the open eastern boundary, something vast shouldered through the scrub.
 
-Something enormous was coming down that avenue.
+Its back stood higher than the orchard trees. Gray plates overlapped from its blunt skull to its dragging tail, and grass seeds made tawny fur of the seams between them. It walked on six pillar-thick legs. Each footfall pressed a dark bowl into the dust, while lightning crawled over its spine without finding the ground.
 
-It moved beneath a bruise-colored mass of cloud. At first I mistook the ridges on its back for a line of wagons. Then it shouldered around a spur of rock, and lightning crawled from one black plate of its hide to the next.
+The smoke had brought me to fires, raiders, floodwater, and once to a prince who had mistaken a mine collapse for an invasion. The details varied. The sequence did not: identify the principal threat, find the exposed people, remove one from the other.
 
-The thunderback stood higher than a house. Its low head swung as it walked, sweeping blunt horns over scrub and stone. Each footfall puffed dust from the dry earth. Behind it, rain stitched the hills silver. Ahead, Aldervane's fields lay cracked and yellow beneath a clear sky.
+I ran down toward Aldervane.
 
-Five columns of smoke. A beast. A city in its path.
+A woman waited beside a waist-high boundary stone painted in bands of white and ochre. She wore no armor. A flat case of signal flags hung at her hip, and she had one hand lifted toward a boy on a watch platform farther down the avenue. He answered with a square of white cloth.
 
-I started downhill at a run.
+“Brevic Jandor,” I called before she could challenge me. My name had opened gates from the salt marshes to the river courts. “I saw your alarm.”
 
-As I descended, sections of Aldervane's outer wall toppled inward.
+Her attention moved from my face to the sword on my back, then to the animal behind me.
 
-Not one section. Three. Then a fourth.
+“Passage smoke,” she said. “Five columns means it crossed the east crown. Stop at the stone.”
 
-The blocks did not tumble like masonry under attack. They folded neatly, each wall dropping into the dust as if its mortar had vanished. People in yellow vests pulled ropes and ran clear. Beyond them, teams rolled market stalls from the central avenue. Doors swung open. Bright awnings came down. The kingdom was laying itself bare.
+I stopped because she had given a clear order, and because clear orders usually saved time. “Who commands your evacuation?”
 
-I had seen panic disguised as obedience before. I had seen frightened councils order their people to call surrender wisdom. By the time I reached the boundary stone, my hand was on the hilt at my shoulder and every old lesson in me was shouting the same command: do not wait for permission from someone who has decided to die.
+“The galleries command their own. I command the route. Neya Orm.”
 
-A woman stepped into my path.
+“How many remain below the third terrace?”
 
-She wore a gray coat despite the heat, its sleeves rolled above brown forearms. A bundle of signal flags was tucked under one arm. The other hand was raised, palm out. She was perhaps my age, though the white beginning at her temples made her look sterner, and her eyes went first to my weapon rather than my face.
+“Route crews. Two signal runners. No households.”
 
-"Ulric Quist," she said.
+“Good. I can turn it before it reaches the first wall.”
 
-I slowed. "You know me. Good. Who commands the defense?"
+“No attack. No diversion. No rescue.” She pulled an ochre flag from her case but kept it furled. “If you enter, your sword stays tied and you keep above the white stones.”
 
-"I command the route. Neya Orm, third warden." She planted a heel against the white line painted across the road. "By authority of the valley council and the households of the passage district, Aldervane refuses your intervention. You are not to attack, divert, obstruct, bait, challenge, rescue us from, or otherwise interfere with the thunderback."
+The animal's next step sounded through the soles of my boots. “You have a storm beast walking at your homes.”
 
-I stared at her. The beast took another step in the distance. A blue spark leaped from its shoulder to a standing stone with a crack like a breaking mast.
+“A thunderback. It walks to the west cut every midsummer. My grandmother kept this route before I did.”
 
-"You practiced that speech," I said.
+“And if it changes its mind?”
 
-"Every spring for eleven years. You're the first wandering hero we've needed it for."
+“It is an animal. We watch its shoulders.” She glanced at the eastern platform. The white flag remained out. “White means centered. Ochre means north drift. Blue from a shelter niche means the runner is clear. If you don't know a signal, you don't move.”
 
-"Your wall is open."
+She spoke while counting distances, not while trying to convince me. That made her refusal harder to place. Frightened officers talked too much. Corrupt ones made a show of calm. Neya only checked the platform again and told a crew at the nearest wall to pull their last hinge pin.
 
-"Yes."
+“Why open the kingdom to it?” I asked.
 
-"Your people are abandoning their homes."
+“By midsummer, the valley floor is hard enough to shed rain into the cut. Its feet break the pan. Seeds ride in the plates. The storm follows it down.” She pointed with the furled flag. “The lower orchards drink through those cracks. Here, in this valley. That's what we know.”
 
-"They are moving out of the passage district until tomorrow."
+The thunderback lowered its head to squeeze between two red outcrops. Blue-white sparks jumped between the blunt plates above its eyes.
 
-"And that thing is walking toward you."
+“You could break the ground yourselves.”
 
-Neya glanced past me, measuring distance. "It is walking through us. It has done so three times in my life. The oldest terrace records describe twenty-seven passages. It cracks the hardpan so rain can reach the deep soil. Seeds lodge between its back plates and shake loose along the valley. The storm follows it. If you turn it aside, the western cisterns will stay empty and half our planting will fail."
+“Not forty acres in one afternoon.”
 
-As if the animal had heard her, thunder rolled behind the ridge.
+“I could.”
 
-"If it follows the avenue," she continued, "it will break shutters, gutters, several cheap walls, and whatever some fool forgot to move. Those things can be replaced. The occupied terraces are outside its path."
+“Then you would still not be carrying a season's seed or drawing that rain.” Neya finally looked directly at me. “We've cleared its line. You haven't found an emergency here.”
 
-I looked at the fallen wall sections, the ropes, the bare road. There was order in it. I could see that. I could also see the thunderback's horn gouge a pale scar through a boulder I could not have moved with both arms.
+I had been told that before, by men hiding fever pits, by magistrates whose locked granaries were technically not on fire, by a mother so afraid of soldiers that she had denied raiders were inside her house. Refusal was information. It was not always an answer.
 
-"What if it leaves the path?"
+I unbuckled my sword belt, wrapped the peace cord twice around hilt and sheath, and held it out for her inspection.
 
-"Then the horns sound three descending notes, the upper terraces evacuate, and my crews open a wider line."
+“White stones,” she said. “Stay above them.”
 
-"What if your crews are too slow?"
+Inside the boundary, the cleared avenue was more deliberate than it had looked from the ridge. Waist-high marker posts divided it from the northern stairs, and a timber guide gate closed the lowest stair. Low stone niches had been cut into the shelves on both sides of the route, each narrow at the mouth and wider behind, with a second crawl opening uphill. On the south side, beyond the first niches, an orchard wall ran beside an empty yard of raked clay. Its panels rested on chiseled feet, held upright by two rope-bound release beams.
 
-"They have not been."
+Not surrender, then. Preparation. But preparation could fail.
 
-"Until they are."
+A man and his teenage daughter were lifting the front wall off a low house near the corridor. The roof remained on four heavy posts; the plaster panels slid free between them. I caught one before it tipped.
 
-Her mouth tightened. "That is not consent."
+“The north stair is open,” I told them. “I can get you both above the ridge before the animal enters.”
 
-The words landed harder than they should have. I told myself it was her tone.
+The man shifted his end of the panel. “My father is already in the fourth gallery. She runs hinge pins to Orm. We need this on the rack.”
 
-"A title can speak for a kingdom," I said, "but it cannot speak for every frightened person in it. Let me walk your cleared streets. If no one asks for my help, I'll leave your beast alone."
+“If the route moves north—”
 
-Neya studied me while the smoke columns thinned in the wind. "You will keep your weapon bound. You will touch no route marker, rope, wall pin, shelter door, or signal stand."
+“Then three short notes send the fourth gallery to the red stair.” He nodded at my hands. “Higher. The wet edge chips.”
 
-"Agreed."
+We set the panel onto a timber rack. The girl scooped its iron pins into her apron and ran them toward Neya without waiting to thank me.
 
-"And when no one asks, you will believe them."
+Near the eastern stakes, a red-sashed runner stood along the south marker line, one white and one ochre flag tucked through his belt. I stepped down from the white-marked margin to meet him.
 
-I hesitated just long enough for her to notice.
+“I can take that post,” I said. “You'll clear faster uphill.”
 
-"I'll listen," I said.
+He watched the thunderback, not me. “Which forefoot shortens when it drifts?”
 
-She led me into the kingdom.
+I followed his gaze. The animal's gait looked slow only because of its size. Its left front foot landed a little ahead of the right, crushing a thornbush into the first deep print.
 
-The first person I approached was a cooper hammering wooden pegs into the brackets of a breakaway porch. His family carried hoops and staves uphill behind him.
+“Left,” I said.
 
-"Do you want an escort?" I asked. "I can take you all beyond the western ridge before the animal arrives."
+“Right. Left is reaching. Get behind the stones.”
 
-He squinted at the cloud. "Then who'd put my porch back up?"
+Neya's whistle cut once. I returned to the margin as the runner raised white.
 
-"Your life is worth more than a porch."
-
-"That's why I'm leaving the porch here and taking my life to my sister's kitchen." He struck the last peg flush. "No offense, hero, but you've made a poor bargain sound like generosity."
-
-Neya did not smile. I wished she had. It would have been easier to dismiss her.
-
-Farther on, two old women painted fresh white arrows at a junction where runoff channels crossed the road. They refused my offer without pausing their work. A baker loading sacks onto a handcart said the thunderback's last passage had ruined his oven and given him the best wheat crop of his life. He hoped to move the oven this time.
-
-At a low house beneath the second terrace, a mother and two children were climbing an exterior stair. Their packs looked too small for flight.
-
-"The ridge road is clear," I called. "I can carry the youngest."
-
-The older child, a boy missing one front tooth, hugged a clay jar to his chest. "We're going to the viewing roof."
-
-"You are not," his mother said.
-
-"We brought plum cakes."
-
-"We are going to the shelter gallery, from which there happens to be a safe view." She looked down at me. "The gallery is cut into the slope. It has two exits and stone between us and the route. We have practiced. Please don't frighten them."
-
-The younger child was not frightened. She leaned between the rails and asked whether I had really held up a collapsing bridge while thirty people crawled over my back.
-
-"Twenty-eight," I said.
-
-"Did they say thank you?"
-
-"Most of them."
-
-"We said no thank you," the boy informed me.
-
-Their mother herded them upward before I found an answer.
-
-Everywhere I looked, Aldervane was taking itself apart in careful pieces. Clay pipes separated at cloth-wrapped joints. Shopfronts folded flat against stone. Fruit trees along the avenue had been trained low behind waist-high berms. White niches punctuated the red cliff at regular intervals, each marked with a painted spiral. Nothing was hidden. Nothing was abandoned thoughtlessly.
-
-This should have reassured me.
-
-Instead I felt the old uselessness gathering beneath my ribs.
-
-For years I had reached places at the worst hour of their lives. People saw the sword over my shoulder and made room. They trusted me with choices they could not bear to make. In the moments after, when fires were out or floodgates shut or teeth no longer pressed at the door, I always knew exactly who I was.
-
-Aldervane had made room, too. It simply was not for me.
-
-The first horn sounded: one long note.
-
-Neya snapped a yellow flag open. Down the avenue, wardens answered in sequence. On the terraces, doors closed. The last handcarts rolled behind stone barriers. I turned toward the eastern gap.
+The west-cut horn sounded one long note: the far end of the route was clear. Every terrace answered in descending order. People vanished from stairs and overlooks. The man at the panel house hauled the rack uphill. The girl with the pins crouched beside Neya's flag case.
 
 The thunderback entered Aldervane.
 
-Up close, its size defeated comparison. It was not a house or a hill or a siege engine. It was an animal, and that was worse, because a wall did not breathe steam from four nostrils or twitch a hide heavy enough to crush a wagon. Its back plates overlapped in jagged rows, black at the roots and blue along the edges. Dry grass, thorn pods, and handfuls of dark mud clung in the gaps. Tiny white flowers grew behind one shoulder.
+It did not charge. Its plated head swayed a few feet above the clay, tasting the corridor with two dark tongues. The air tightened until the hair along my arms stood up. Then its front foot came down.
 
-It followed the open road.
+The hardpan cracked in a wheel around it.
 
-The ground shook. Window latches chattered on the empty houses. Static lifted my hair and filled my mouth with the taste of old coins. Rain advanced behind the animal in a gray curtain, but the street around us remained hot and dry.
+That was when I understood why picks and plows were not the same. The break ran deep enough that cool, dark earth showed at its center. Burrs and seed husks sifted from the thunderback's moving plates. The creature advanced, and the valley opened beneath it one print at a time.
 
-Neya raised a red flag. We stood behind a retaining wall on the first terrace, high enough to see the route but well back from it. "Eastern team in shelter," she said, more to herself than to me. "Second wall clear. West gate standing by."
+The runner moved backward between the stakes. White stayed level in his left hand. With his right, he gave two quick downward cuts: speed steady. Neya replied from the boundary.
 
-A runner appeared below, sprinting across the avenue.
+I knew coordinated retreats. I had held a bridge while three hundred people crossed behind me. I had split a fallen gate beam along its grain and lifted each half clear. My strength required a grip, a seam, somewhere for the weight to go. It could not stop a charging mass on bare ground, but stone had always offered me an argument I could win.
 
-She wore a yellow vest and carried a roll of blue cloth under one arm. The thunderback was three houses away. With every stride of the beast, stones jumped under the runner's boots.
+The thunderback's shoulder brushed the south shelf.
 
-"She's too late," I said.
+The runner folded his flags and dived into the nearest south niche.
 
-"She is on count."
+From where I stood, the opening seemed scarcely deeper than his body. The thunderback's next foot struck beside it. Loose clay rattled over the niche mouth and hid it. No blue flag appeared.
 
-The runner reached the cliff side. Instead of climbing toward us, she dropped to her knees and vanished into one of the white spiral niches.
+I heard Neya shout my name. I thought she was too far away to see the ledge moving.
 
-The thunderback lowered its head.
+There was a clean fault in the south shelf, pale as a scar. I crossed the white stones, planted both hands beneath the lip, and drove upward.
 
-For one instant I did not see Aldervane. I saw another street years earlier, smoke turning daylight brown. I saw a cellar door jammed by falling beams and a hand reaching through the gap. The people there had told me the lower floor was empty. They had been wrong.
+Rock split with a report that flattened every other sound.
 
-"Stay here," Neya ordered.
+I had meant the slab to fall squarely in front of the animal and stop it long enough for the runner to escape. Instead, the shelf broke beyond the seam. Three blocks the size of carts dropped into the avenue. One buried the niche mouth. The largest rolled to the north marker line, while the third struck the orchard wall and pinned its eastern release.
 
-I was already over the retaining wall.
+The thunderback recoiled. Lightning struck both corridor walls at once. Then the animal swung its head away from the fresh rubble and stepped north, toward the stair that climbed to the occupied terraces.
 
-The niche sat beneath an overhanging ledge of red rock. If I brought the ledge down ahead of the thunderback, the impact would force it away from the cliff. Away from the runner. I tore the binding from my sword, drove the point into a seam, and put my shoulder against the hilt.
+Five short horn blasts tore across Aldervane.
 
-Neya shouted my name.
+Neya reached me as I dragged at the block over the niche. She struck my forearm with the wooden handle of her flag.
 
-Stone resisted, then split.
+“Leave it.”
 
-The ledge came down in three great slabs and a boiling sheet of rubble. The thunderback reared. Lightning snapped across the avenue. One of the cheap walls burst outward. The animal swung its head from the noise and struck the fallen stone with one horn.
+“Your runner is behind this.”
 
-The ledge did not turn it back toward the center of the route.
+“The rear throat opens uphill. He's moving to the third post.” She pointed west. A blue square had appeared beyond the dust, held by a red-sashed arm. “You closed the route.”
 
-It blocked the route.
+The north guide gate shook under the thunderback's breath. Above it, people streamed along the third terrace toward a red-painted stair.
 
-The thunderback stepped sideways.
+“I'll draw it south,” I said.
 
-Above us, the occupied terraces clung to the northern slope.
+“You will not draw anything.” Neya snapped open a black flag and sent it around her head. Crews on both walls answered. “The rain yard is our bypass. Your fall has pinned its first release. The second takes longer than that gate has.”
 
-The horns sounded three descending notes.
+“I caused this,” I said. “Tell me what to move.”
 
-For a few breaths, Aldervane became all movement. Shutters banged open on the upper galleries. People streamed toward cut-stone stairs. Yellow flags flashed from roof to roof. A wall team hacked free the lashings on a second gap. Through it all, the thunderback kept edging north, seeking firm ground around the pile I had made.
+Her gaze went from my hands to the fall.
 
-Neya slid down the scree toward me. Blood striped one sleeve where a flying chip had caught her, but her signal flags remained in her hand.
+“Blue cloth marks the stones. Carry them south of the black stakes. Nothing unmarked. Then brace the north gate when I whistle twice.”
 
-"The niche has a stone roof and a rear shaft," she said. Her voice was low and terribly even. "It was built for runners. She was safe."
+She thrust a bundle of blue strips into my hands. “Now listen.”
 
-I looked at the rubble. "I can clear it."
+Masons were already crawling over the fall. One slapped cloth against a block and pointed; I lifted it. Another stopped me when I reached for a larger slab.
 
-"You can make more guesses, certainly."
+“That one holds the ledge,” she said. “Blue only.”
 
-The animal planted one broad foot on the curb. Clay blocks powdered beneath its weight.
+I carried the marked stone past the black stakes and laid it where she indicated. Under ordinary strain, my gift felt like heat driven down through muscle into whatever I held. The block had edges. The ground gave me purchase. It moved.
 
-"Tell me what to do."
+Behind us, the thunderback shoved its brow against the north guide gate. Timber groaned. People above called stair counts—not prayers or screams, just numbers passed landing to landing. The red-sashed runner reached the third post and raised ochre. North drift increasing.
 
-Neya searched my face, perhaps for the argument I had given her at the boundary. I had none left.
+We cleared a narrow channel along the south edge of the fall. It was not enough for the animal, but it exposed the first rain-yard beam, crushed beneath the block jammed against the orchard wall.
 
-"The danger is mine," I said. "At least partly. Use me."
+Neya whistled twice.
 
-"Entirely under my signals," she said. "You move only stones marked with blue paint. You do not chase the runner when she emerges. You do not improvise. Afterward, if there is an afterward, you answer to the district in public."
+I ran to the north gate and set my shoulder beneath its crossbar. The gate was built to guide, not withstand. Its footings shifted in the cracked clay as the thunderback leaned harder. Static burned pinpricks over my neck. I gave the weight somewhere to go: boots against the stair curb, back beneath the timber, hands locked around an iron brace.
 
-"Yes."
+“Set wedges!” Neya called.
 
-"Say it properly."
+The panel-house man drove the first wedge beside my left boot. His daughter hammered another home. Neither looked at me. The gate dropped half an inch and held.
 
-The thunderback's horn scraped the retaining wall. Cracks forked beneath my boots.
+Across the corridor, crews threaded ropes through the second rain-yard release. The first beam remained pinned. Neya watched the animal's head, the rope crew, and the runner at the third post. Her flag stayed black.
 
-"I accept your command."
+The thunderback lifted one forefoot. The runner broke from his post and sprinted toward the next niche, directly across the animal's front.
 
-Neya raised the yellow flag.
+Every rescue I had ever made arrived in my body before thought: let go, cross the distance, take the blow first.
 
-Workers spilled from a side passage carrying pots of blue wash. Two dabbed marks across the fallen slabs while others threaded chains around the largest. I waited until Neya pointed to the first mark. Then I lifted.
+“Hold north!” Neya shouted.
 
-My cracked ledge was heavier than the bridge of the old story, and no cheering crowd waited on the other side. Chains bit through my gloves. Six people hauled beside me, timing their pull to the horn blasts. We dragged the slab into the shell of an empty shop. A marked boulder followed. Then baskets of loose stone passed hand to hand while the thunderback's shadow covered half the avenue.
+The runner dropped flat behind a stone deflector. The thunderback's foot came down where he had been. He rolled through the niche mouth and, a breath later, thrust blue from its uphill throat.
 
-Someone struck my arm. I wheeled, ready to defend myself.
+I kept my shoulder under the gate.
 
-It was the runner. Dust whitened her face. The blue cloth had become a streamer in her hands, and she was tying it to a post beside the niche.
+“Wedges set,” the man said.
 
-"You," I began.
+Neya's black flag fell.
 
-Neya's red flag cut across my sight.
+“Release south!”
 
-Hold.
+I left the gate to the wedges, crossed to the pinned beam, and got both hands under the broken end. The beam had no useful seam. I could not split it without bringing more wall down, so I lifted the stone that trapped it instead, inch by inch, while the south crew hauled.
 
-Every part of me wanted to pull the runner away. The thunderback's next step landed close enough to shake her against the post. She caught herself, finished the knot, and scrambled into the rear shaft as calmly as a sailor reefing canvas.
+The first beam tore free. Across the yard, the rope crew ripped the second from its sockets.
 
-I held.
+Wall panels dropped outward in sequence, their chiseled feet snapping cleanly. They struck the empty rain yard in a pale burst of plaster and dust. An open swath of raked clay appeared beyond them, curving around the rockfall and back to the western corridor.
 
-The blue streamer snapped in the charged wind. Its line showed the wall teams exactly where the cleared center of the passage lay beneath the dust.
+The thunderback turned toward the new space.
 
-Neya pointed. I moved the next stone.
+The creature shied from the broken stone and chose the lower ground Neya's people had prepared. Its head passed through the released wall. Its shoulders followed with a grinding of plates against timber. One rear foot crushed a panel to powder; the next sank into the rain yard and split its clay bed from end to end.
 
-The route opened one yard at a time. The thunderback continued its northern veer, confused by the rubble and the shouting crews, though no one struck it. On the terrace above, the last evacuees filed behind a stone door. The outermost stair cracked under a sweep of the animal's horn and fell empty into the road.
+The north gate sprang straight behind it.
 
-At the western end stood the final wall section, still upright across part of the old path. A network of ropes ran from its supports to a braced lever. Neya sent me there with two sharp movements of her flag.
+Neya kept signaling until the dragging tail cleared the last house. White flags traveled west, post by post. The thunderback regained the old avenue beyond the rubble and walked toward the cut, shedding seed into every fresh fracture.
 
-I reached the lever as a roof beam dropped behind me. The team leader pointed to the iron pin locking it in place, then to my feet. I planted them where white heel marks had been painted on the stones.
+Only then did the rain come.
 
-"Not yet," Neya called.
+It struck hard enough to erase the dust in seconds. Water ran off the terraces, found the black wheels opened by the animal's feet, and vanished into the ground instead of racing toward the western cut. Lightning moved away above the thunderback's back. The released wall sagged into mud. No one cheered.
 
-The thunderback bore down on us.
+Neya closed her flag case. “South shelf first,” she said. “If that lets go in the rain, it takes the niche.”
 
-The central passage was almost clear. Almost. One slab remained at the edge, too low to block the animal but high enough to catch its foot. Workers wrestled it with poles. The beast's horns swayed above them. The first rain spattered its back and flashed into steam.
+The runner crawled out of the uphill throat with blood on one elbow and clay pasted to his red sash. I met him beside the buried entrance.
 
-I could have charged. I could have struck the horn, seized a plate, forced that vast head around with every measure of strength I had. The old certainty rose in me, bright and clean. Act first. Be the reason everyone survives.
+“I saw you go in,” I said. Rain streamed off my nose and chin. “I decided your signals were too slow. I am sorry.”
 
-Neya's flag stayed red.
+He looked at the block, then at Neya's blue strips still knotted around my wrist.
 
-The runner burst from the shaft again and seized one of the poles. The slab rolled. Workers scattered into the niches.
+“Lift when I tap,” he said. “If you lift before, the roof follows it.”
 
-Neya changed flags.
+He crawled under the sheltered edge with two masons. I put my hands where they marked. This time, I waited for the tap.
 
-Yellow.
+At dusk, Aldervane's route crews gathered beneath the third gallery to record the passage. Neya read the signal times from a slate. A clerk recorded one damaged guide gate, eleven released wall panels, one blocked niche, and the evacuation of two northern terraces. When she reached the cause of the blockage, she looked at me.
 
-I wrenched the pin free and threw my weight on the lever. Ropes snapped taut. The wall's hidden joints opened in a straight line from ground to parapet. For a heartbeat it remained standing, whole and useless.
+“South shelf broken by Brevic Jandor after the runner entered cover,” I said. “No diversion had been ordered.”
 
-Then the thunderback touched it.
+The clerk's chalk scratched. That was all the public answer anyone asked of me.
 
-The blocks folded outward into prepared trenches. A broad, blue-marked line opened through the gap. Wind caught the runner's streamer. The thunderback lifted its wet snout, found empty ground ahead, and turned.
+I stayed through nine days of repair. The route masons counted my hours against the stone, timber, and plaster I had destroyed. They marked every load. I hauled blocks from the quarry, held posts while their feet were cut, and learned that a breakaway wall was harder to build than a strong one because it had to fail in only one direction.
 
-It passed within ten paces of me.
+On the tenth morning, Neya inspected the rebuilt niche by crawling through it herself. She emerged uphill, brushed red grit from her knees, and handed me the road book I had left in her signal room to keep it dry.
 
-I saw one black eye beneath the shelf of its brow, glossy and untroubled by the meaning we had loaded onto its walk. Its flank smelled of wet stone and bruised herbs. Seed husks rattled between its plates. Then the bulk of it moved through the fallen wall and on toward the western hills.
+Its last pages held the places I counted as rescues: names, threats, people removed alive. I opened to the next blank line, then turned back to the section for debts and entered nine days of labor against Aldervane's eastern route.
 
-Rain struck Aldervane.
+Neya watched my pencil. “The west road is clear,” she said. “Rain took the lower ford, so use the terrace track for two miles.”
 
-It came hard enough to erase the dust in seconds. Water rushed along the opened channels, carrying grit and leaves toward the fields. Children shouted from the shelter galleries. The workers in the niches stepped out laughing, though several looked at me and stopped.
+“Understood.”
 
-I released the lever.
+She had already turned to inspect a bundle of replacement flags.
 
-No one cheered my name.
+Three weeks west, I found a hamlet gathered around a freight wagon canted into a washed-out ditch. Two teams had ropes on the axle. A woman in a green cap was chalking load points on the stones while a driver tried to quiet the horses.
 
-The public answer happened that evening under the cooper's surviving porch roof, because the council hall stood in the passage district and had acquired a thunderback-sized opening. Half the kingdom seemed to crowd the wet square. Neya stood beside me with her cut arm bandaged. The runner sat in front, her boots propped on a broken stone she had not asked me to move.
+My hands had found the wagon's high side before anyone recognized me. I took them off.
 
-I had prepared apologies before. They had always begun with explanations.
+“Do you need another back?” I asked the woman with the chalk. “If you do, where?”
 
-This one did not.
+She considered the axle, marked one stone with a white cross, and pointed.
 
-"You told me no," I said. Rain ticked from the porch tiles. "I decided my fear mattered more than your knowledge. I broke the route, endangered the terraces, and nearly made you pay for my idea of courage. I am sorry."
+“There. Not the wheel.”
 
-The runner studied me. "Were you trying to drop a cliff on my shelter?"
-
-"I was trying to drop it in front of the thunderback."
-
-"That is not better by as much as you think."
-
-"No."
-
-Someone at the back laughed once, then covered it with a cough.
-
-Neya listed the damage: one route shelter blocked, two awnings crushed, an empty stair destroyed, the north retaining wall cracked, the western breakaway wall spent three years earlier than planned, and eighteen plum cakes lost to rain when a certain boy abandoned the basket to watch me pull the lever.
-
-"And what do you offer Aldervane?" she asked.
-
-It was a formal question. I could hear the shape of the expected answer, though no one had rehearsed it with me.
-
-"My labor until the route is repaired," I said. "My coin for materials I cannot replace. And no claim that I saved you. Aldervane's plan saved Aldervane. I only helped mend the danger I caused."
-
-The cooper raised a hand. "Can he rebuild porches?"
-
-"Poorly," I admitted.
-
-"We can teach him."
-
-So I stayed.
-
-For twelve days I carried stone where blue marks told me to carry it. I learned to mix the crumbly mortar used in breakaway walls and the stronger mortar used everywhere else, and I learned why confusing them was the kind of mistake people remembered for generations. The runner inspected my repairs with pitiless attention. The boy from the shelter gallery brought me one surviving plum cake and said it was not payment, because I had not been hired.
-
-On the thirteenth morning, the western cisterns overflowed. New water darkened the cracks the thunderback had pressed into the fields. People pushed seeds into softened earth.
-
-Neya walked with me to the boundary line.
-
-"Where now?" she asked.
-
-"Wherever the road looks troublesome."
-
-"That sounds dangerously familiar."
-
-I shifted the sword on my shoulder. Its binding was new and knotted twice. "I'll try to let the trouble introduce itself."
-
-She gave me the smallest of smiles. "Travel well, Ulric Quist."
-
-I crossed the eastern ridge without adding Aldervane to the number of kingdoms I had saved.
-
-Three weeks later, I came upon a riverside community where a footbridge had sagged into the current. People crowded both banks. A wagon stood trapped midspan, one wheel through the planks, while ropes ran from its axle to six different trees.
-
-I felt my stride lengthen. My hand rose toward the sword at my shoulder.
-
-Then I stopped at the first rope, well outside its strain, and waited until a mud-spattered woman on the bank looked my way.
-
-"I'm Ulric," I said. "What help do you want?"
+I went where she sent me.
