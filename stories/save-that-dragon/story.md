@@ -8,314 +8,408 @@ canon: false
 
 # One Night's Mercy
 
-The queen had chosen Ordran's workroom because it was the one place in the capital where no one would see her kneel.
+"Please," Queen Ivara begged from her knees, "save that dragon from my daughter."
 
-The room was shuttered against the predawn cold. Coals glowed under a sand bath; glass tubes and copper jaws crowded the bench between them. Queen Ivara's skirts covered the floorboards. She had dismissed her carriage, her lamps, even the woman who fastened her cloak. Still, she wore the crown.
+Ordran kept the little copper hook between his fingers. It belonged to a rabbit's splint, not a dragon's throat, but putting it down would have made the queen's entrance feel like a command obeyed.
 
-"Please," the queen begged on her knees. "Save that dragon from my daughter."
+Predawn pressed blue at the edges of his shutter. Ivara had come without a lamp or escort. Rain darkened the shoulders of her cloak. She had knelt on the strip of floor where patients usually stood dripping mud, and although the hem of her dress drank the dirty water, the narrow state crown remained pinned above her left ear.
 
-Ordran set down the clasp he had been filing. The steel clicked once against the bench.
-
-"Dovra," he said.
+"Dovra," Ordran said.
 
 "Yes."
 
-"And your daughter is Princess Basma. Twenty-six years old. Commanding her own household. Let us not pretend I am being asked to steal a pet from a child."
+"Alive?"
 
-Ivara's mouth tightened. Her gloves lay in her lap, palms upward. The leather had gone shiny and curled across two fingers, old scorch damage rubbed with oil until it passed at court. "Dovra's scales are changing. Basma will not permit an examination. She has dismissed everyone who suggested removing the harness."
+Ivara's breath caught. "For now. The breast scales have begun to clear. One wing as well. We believe the change has accelerated."
 
-"The temporary harness."
+"We."
 
-"It has remained necessary."
+She pulled off a glove and twisted it inside out. The lining had scorched where it crossed her wrist. "Neris's attacks are closer together."
 
-The filing on his bench suddenly seemed too delicate for his hands. He had built the harness nine months ago, while Basma burned through a cedar bed and Dovra lay beside her swallowing flame in great, shuddering gulps. Ordran had designed it to steady one night's work: two silver rings set over a dragon's heat channels, with a safety catch that could be opened by anyone with a thumb. By sunrise Dovra had been able to speak again. By noon Ordran had been dismissed.
+Princess Neris was twenty-nine, had kept her own household for seven years, and had once dismissed Ordran in a voice so level that half the court had mistaken terror for authority. No one could mistake the heat damage on Ivara's glove.
 
-"Who has the key?" he asked.
+Ordran put the hook down at last. "Where is my release key?"
 
-"Basma."
+"Neris keeps the key."
 
-"Who locked it?"
+"My catch did not need one."
 
-Ivara looked at his instruments instead of him. "You may punish me after."
+The queen's gaze moved to his bench: the bone saw, the silver wire, six neat bottles labeled in a handwriting no palace physician had ever managed to copy. "There were alterations. At the time, we judged that a positive lock would prevent an accidental break in the transfer."
 
-"I am a physician. Punishment is the hobby of palaces."
+"Who is we?"
 
-She accepted that without flinching, which irritated him more than an excuse would have. He lifted her left glove. The heat damage was recent at the cuff, where a daughter's hand might have seized her wrist. Another flare was gathering. Perhaps hours away, perhaps less.
+"If you come now, you can ask in the room."
 
-Ordran put his cutters, wedges, salves, and a coil of soft copper into his old field case. "You come with me. No guards."
+Another answer arranged as a door. Ordran shut his case on wedges, cutters, a roll of soft copper, two clay cooling packs, and every clean cloth he had. He nudged the case toward Ivara with his boot.
 
-"Basma may not admit us."
+"Carry that."
 
-"Then you may discover what a royal order can and cannot repair."
+She stood too quickly and caught the table. The crown slipped farther sideways.
 
-They entered the palace below the kitchens, through a provision door whose hinges Ordran remembered complaining about when he had still been welcome. Night bakers stood over floury tables. No one bowed until the queen had passed. They were watching a row of glass bulbs cool in a trough, each thin as an onion skin, some round, some twisted at the mouth. One gave a pure little note as the water tightened it.
+"No guards," he said. "No one between Dovra and an open route."
 
-"Dovra made those?" Ordran asked.
+"Neris has barred the apartments."
 
-The chief baker looked at Ivara before answering. "Each cough draws up sand and blows one of those, sir. We send washed cooking sand to their hearth. Better than carpet grit. The singing carries down the flue."
+"Then you may put your seal to something useful."
 
-A scullion lifted a round bulb from the cool water and tucked it among crocks packed around the morning cream. Another bulb, lopsided and still hot, escaped its pad and rolled under a table. Three people stepped around it without looking down.
+Ivara carried the case.
 
-They had learned the hazards. They had found uses for the waste. That was how a prolonged emergency became furniture.
+They entered the palace through the dairy court. Ordran had not crossed its black-and-white stones since the morning his medicines were returned in a fish cart. Tonight the rain had polished them. Warm air poured from the kitchen arch, smelling of yeast, wet ash, and something sharp enough to make his teeth ache.
 
-"Her Highness's convalescence has supplied the kitchens," Ivara said as they climbed the service stair.
+Inside, a kitchen boy was chasing a glass bulb with a folded towel.
 
-"Whose convalescence?"
+The bulb was no bigger than a quince, thin-walled and smoking. It rolled away whenever he tried to trap it. On a cooling rack above him sat three dozen more: clear globes, greenish globes, long-necked mistakes that sang in different notes as they contracted. Servants had nested the best-shaped ones between milk crocks. One misshapen bulb escaped its ring of salt, chimed against the queen's shoe, and spun under a flour bin.
 
-The queen did not answer.
+"How many today?" Ordran asked.
 
-Basma had sealed her apartments against every draft. The first room held orange trees in bloom and a breakfast table set for two. Damp cloths filled silver bowls. A brazier had been smothered under ash, though the room was hot enough to loosen the glue in Ordran's case.
+The boy looked at the crown and stopped speaking.
 
-The princess waited beside the inner door in a plain linen gown, awake and neatly braided. She looked thinner than she had nine months ago, but there was nothing childish in her face or the way she kept one hand behind her back.
+Ivara said, "Answer him."
 
-"Mother," she said. "You promised me time."
+"Nine since supper, sir. Cook fills the round ones from the well and packs them by the cream. The sharp ones go back for cullet."
 
-"I promised we would discuss a change."
+Dovra made glass only when carrying more heat than their breath could shed. Their lungs drew grit from hearths and mortar, fused it, and coughed out hollow waste. One or two bulbs after the first rescue had astonished everyone. Nine in a night meant the dragon had been drowning in fire while the palace sorted the bubbles by usefulness.
 
-"You brought the man who called me a chimney with a pulse."
+Ordran stepped around the towel and kept walking.
 
-"It was a clinical description," Ordran said.
+"We sent clean sand upstairs," Ivara said behind him. "Once the coughing began to cut their mouth."
 
-"It was at dinner."
+"How thoughtful."
 
-Before he could improve his defense, something coughed beyond the inner door. A hollow globe rolled into view, smoking faintly over the carpet. It tapped the princess's bare heel with a musical clink.
+"The grit was already in the air. The sand reduced injury."
 
-Basma picked it up in the fold of her gown. Her expression softened before she turned. "Dovra, look who's come to insult us."
+"Then carry the case and save your breath."
 
-The dragon lay before an open hearth large enough to roast an ox, though no fire burned there. Dovra was the length of a river barge, folded with court-trained neatness among cushions and low bookshelves. Pearly scales covered the narrow head and long limbs. Along the breast, however, each scale had become transparent at the rim. Through them Ordran could see dark vessels pulse. The leading edges of both wings had hardened into clear, brittle fans.
+The sealed apartments occupied the palace's western shoulder, where old bathing rooms backed against the outer wall. Every corridor door stood shut. Copper pans of water had been left along the baseboards, and all the portraits sweated varnish. At the final landing, Ivara stamped her seal into the wax over Neris's private latch. It took her three attempts because the softened wax clung to the ring.
 
-A broad collar circled Dovra's throat. It was Ordran's work and not his work. Someone had replaced the thumb catch with a brass housing stamped in miniature with the royal seal. Fine copper vanes trembled against the scales as Basma moved nearer.
+"Mother?" Neris called from within.
 
-Dovra raised their head. Their pupils narrowed, then focused. "Physician."
+Not *Who is there?* She had felt the disturbance in the air, perhaps the cold draft around Ordran's boots.
 
-"If I had known the invitation was so warm, I would have come sooner."
+Ivara opened the door.
 
-"Your invitations were burned."
+Neris stood barefoot beyond it in a sleeveless linen shift, a wet sheet draped over one shoulder. An iron key hung at her waist among household keys, its bow worked into a tiny crown. Her dark hair had been hacked short around one temple where an earlier flare had burned it. She was not fever-vague or helpless. She took in Ordran, the case in her mother's hand, and the broken seal.
 
-Basma flushed. "I did not burn all of them."
+"Put him out," she said.
 
-"The rest were returned by guards," Dovra said.
+The queen closed the door behind them. "Dovra is failing."
 
-Ordran approached from the front, set down his case, and waited. "May I examine you?"
+"Dovra is resting. Or was."
 
-Dovra lowered their jaw to the carpet.
+A click sounded in the adjoining room.
 
-The collar's inner silver had sunk between two rows of scales. Heat beat from it in an irregular pattern, three quick pulses and a pause. Ordran touched a copper probe to the clear edge of a breast scale. It rang like a glass knife. The sound continued in neighboring scales after he lifted the probe.
+Ordran knew the sound. His temporary clasp had never made it.
 
-"How often now?"
+Ordran took his case from Ivara and pushed past Neris. Heat thickened around him, perfumed by orange trees that had blossomed out of season and begun dropping petals brown at the edges. Cushions and books lay in orderly banks around Dovra, as if comfort could hide the fact that every window had been bolted. Folded tight between an empty hearth and the doors to the old baths, Dovra was the length of two dining tables. Even so, the room seemed to contract around their breath.
 
-"Twice since midnight," Dovra said.
+Their pearl-gray head rested on the tiles. Each exhale clicked in the throat. Along their chest, scale edges had gone clear enough to reveal slow shadows underneath. The outer fingers of the right wing shone like smoked glass.
 
-"They were small," Basma said at once.
+The collar had changed more than Ordran expected. He had made two flexible bands of silver with six copper vanes between them. During Dovra's willing first draw, those vanes had followed the path their living breath opened toward Neris. His thumb catch had been designed to fall apart at daylight. In its place squatted a riveted iron box bearing Ivara's seal. Every few breaths, the spring-driven catch struck that lock.
 
-Ordran opened one of Dovra's eyelids, checked the pale membrane, and laid his ear against the hinge of the jaw. The dragon's breath crackled in passages that should have been silent.
+Click.
 
-"One more full transfer will harden the breast," he said. "If the change reaches the wing joints, they may never soften enough for flight. If it reaches the heart sac, there will be nothing to treat."
+Dovra opened one eye. "Ordran."
 
-Basma pressed the glass bulb between her palms. "How long?"
+He stopped outside reach of their foreclaws. "May I come close?"
 
-"Until you flare?"
+"Bring no blade."
 
-"Until you can make a safer harness."
+Ordran took the shears from his belt and set them on a low table where Dovra could see them. He waited until one talon shifted aside, then knelt at the dragon's neck.
 
-"I will not make another. This one comes off now, while neither of you is in transfer."
+The collar's inner band had sunk between swollen scales. When he laid two fingers near it, heat struck his knuckles in three uneven pulses. Dovra's lungs answered with a dry scrape. A seed of glass swelled at the corner of their mouth. They spat it onto the tile before it could close over a tooth.
+
+"How far did you walk yesterday?" Ordran asked.
+
+"To the window."
+
+"Six paces," Neris said. "Without help."
+
+"Back?"
+
+Dovra's eye stayed on him. "No."
+
+Neris caught up the wet sheet. "They had transferred an attack that morning. You cannot measure recovery on the same day."
+
+"Which day would please you?"
+
+"Three quiet mornings. That was the condition. We nearly had two before this week."
+
+"Last month it was one," Dovra said.
+
+"Last month you could still unfold your wing."
+
+"Which is why the condition moved."
+
+Ordran pressed at the base of the clear scale and felt no give. The hardening had reached deeper than the color showed. "A full draw now will seal the joints under the breast. You may get a few breaths afterward. Not enough to leave."
+
+Neris's fingers tightened in the sheet. "Then take the surplus out of Dovra. You did it the first night."
+
+"Dovra took it out of you. I kept their airway open."
+
+"You built the focus."
+
+"And someone rebuilt the lock."
+
+Dovra's foreclaw slid across the tile and covered the iron box. "Ivara did."
+
+The queen was filling basins from a copper cistern. Water rang against metal; she let it run long after the first basin overflowed.
+
+Neris looked at her. "You said he required the seal."
+
+Ivara shut the tap. "You were burning again. The catch had opened. Dovra had not yet left. We needed time to prepare another room."
+
+"You told me the dragon physician had revised his work."
+
+"I ordered the armorer to revise it."
+
+There it was, smaller than a confession and harder. Water crawled over the tabletop and dropped onto the floor.
+
+Neris pulled the ring of keys from her belt. "And you gave this to me."
+
+"The following week."
+
+"After Dovra asked you twice."
+
+Dovra lifted their head. The movement made the glassed wing fingers chatter. "I asked at sunrise. I had offered until sunrise."
+
+Neris flinched as though the room had snapped a spark at her. "You stayed."
+
+"The door was closed."
+
+"You could have broken it."
+
+Dovra's claw left the lock and settled near Neris's bare foot, careful not to touch. "With you behind it."
+
+The princess took one step back. The house keys knocked together in her hand.
+
+Ordran reached toward the lock with a probe. Dovra caught the leather cuff of his sleeve between two talons. Weak as they were, they stopped his hand without effort.
+
+"If I quiet the vanes," he said, "I can split the armorer's rivets before the next rise."
+
+"And her fire?" Dovra asked.
+
+"Her mother gets her to the baths. I treat her there."
+
+"Before she knows?"
+
+"Before she stops us."
+
+Dovra released his sleeve. "Put the probe away."
+
+He did not. "You want the collar off or you do not."
+
+"I want your hand away from my throat."
+
+Ordran heard his own certainty a moment too late. He put the probe back in its slot.
+
+Neris laughed once, without amusement. "Your rescue seems to be going badly. Mother, take him home. When the north room is lined, we can discuss a controlled release."
+
+"The north room will take a month," Ivara said.
+
+"Then the lower cistern. Two weeks."
+
+"There is no two weeks," Ordran said.
+
+"Three days. I can fast. I can sleep packed in ice. Dovra will not need to draw."
+
+A glass bulb rolled from beneath the dragon's folded wing. It wandered through the spilled water, trailing steam. Dovra tried to move clear of it and their foreleg folded. The breast struck tile with a crystalline note.
+
+Neris dropped beside them. "Easy. Don't push."
+
+"Open the collar," Ordran said.
+
+"Not while they cannot stand."
+
+"They cannot stand because you keep the collar closed."
+
+"I kept everyone alive."
+
+"You kept changing the morning."
+
+Heat flashed through the wet floor under Ordran's knees.
+
+Neris froze. The sheet on her shoulder began to dry from the center outward. Beneath the skin of her neck, a thin orange line climbed toward her jaw.
+
+The collar clicked twice.
+
+Dovra's head came up. "No."
+
+The vanes all turned toward Neris.
+
+Ordran tore the soft-copper roll from his case. The harness was only arranged metal until living heat entered it; now the original path opened between Neris and Dovra, and the royal lock held that path against the dragon's body. No intention lived in the silver. It pulled because it had been made to pull and prevented from letting go.
+
+The first forced draw hit.
+
+Neris's rising line vanished. Dovra arched so hard that their horns scored plaster. White light spread under the transparent breast scales. Their cough threw three hot glass bulbs across the room. One burst against a basin. Another spun toward Ordran, and he trapped it beneath his case with the sole of his boot.
+
+He drove a flattened loop of copper into the teeth of the iron box.
+
+The box snapped down on it.
+
+The draw broke unevenly. Half the light drained from Dovra's chest; half the orange line blazed back along Neris's arms. She screamed and clawed the wet sheet away before it could steam against her skin.
+
+Ivara seized the key ring.
+
+Neris struck her hand aside. "Mine."
+
+"Then use it."
+
+"Not in here. Not with the curtains—"
+
+The casement drapes had begun to smoke.
+
+"Baths," Ordran said. "The west shutters. Now."
+
+He kept one hand on the copper loop. The royal box ground it down with short clicks. When the soft metal sheared, the whole draw would reopen.
+
+Ivara ripped a drape from its hooks and stamped the smoking hem in the spilled water. She flung open the tiled doors behind Dovra. Cold damp came through, along with the smell of old stone.
+
+Neris tried to stand and went down on one palm. Fire curled between her fingers without consuming them. "Dovra, take only enough for me to walk."
+
+The dragon gathered their feet under them. "No."
+
+"You won't reach the shutters if I cannot move."
+
+Dovra lurched forward. "Then crawl."
+
+Ivara crouched, took her adult daughter beneath the arms, and dragged her onto the wet tile. Neris cursed and fought for footing, but when her heels found the shallow drain she pushed with them.
+
+The old bath was one long chamber built against the outer wall, its empty pools sunk below a gallery of blue tile. At the far end, tall steam shutters opened onto a sloping lead roof above the marsh side of the palace. The wheel that lifted them hung high, its chain orange with rust. One of the fresh glass bulbs rolled ahead through the rainwater and came to rest six paces from the first pool step. Dovra halted as if counting how many of those paces their legs could bear.
+
+Ordran walked beside the collar, holding the copper jam in place. Dovra's right forefoot skidded on the bulb. It cracked flat beneath their palm, leaving a thin red line across one pad. They did not stop. Neris came behind, leaning backward into Ivara's body as heat pushed from her in waves.
+
+"Cloths in the drain," Ordran called. "Neck, armpits, inner thighs. Don't wrap her."
+
+"We know how to cool a fever," Ivara said.
+
+"This is not a fever."
+
+The queen bit off her next answer. She laid Neris on the lowest broad step, soaked two cloths, and pressed them where Ordran had said. When Neris twisted away, Ivara followed rather than pinning her flat. The crown finally came loose and rang into the empty pool. Neither woman looked at it.
+
+Ordran braced Dovra near the outer wall and reached for his wedge.
+
+"Forefeet here," he said. "When I split the hinge, lift against—"
+
+Dovra put one bleeding talon on the wedge and pressed it to the tile.
+
+"If I tell you to stop after you begin," they asked, "will your hand stop?"
+
+The copper in the lock gave another crushed click.
+
+Ordran looked at the tool beneath Dovra's claw. Cutting now would be fast. The stored fire might recoil through the open path into both bodies; it might also free the dragon before anyone could change their mind.
+
+He opened his fingers and left the wedge on the floor.
+
+"The jam may hold for two minutes," he said. "If Neris turns the key before it fails, the vanes will flatten and I can cut the cold hinge. If I split it while the path is open, the recoil may stop either heart. If the jam breaks and you take the whole rise, the glass will reach your chest before we can get you out."
+
+Dovra moved their talon off the wedge.
+
+"What do you want?" Ordran asked.
+
+"No more of her fire. Collar off. Shutters open."
+
+"All right."
+
+Neris made a broken sound from the pool step. "Dovra. Look at me."
+
+The dragon did.
+
+"Until he gets the shutters up," she said. "A sip. Not the crest. You know how fast I burn when the air turns cold."
 
 "No."
 
-Ordran had expected the princess. The second refusal surprised him.
+"I will open it after."
 
-"No," Dovra repeated. Their voice came slowly, each word carried on a shallow portion of breath. "You will not cut it without telling Basma what follows."
+Dovra's answer was a rasp of breath. "No."
 
-"She can be told after you are out of range."
+Neris shook her head, trying to move the future by force of habit. "When the cloths are cold, then. When Mother has me in the pool."
 
-"There is no out of range. The harness learned her fire from my body. If I fly while it is awake, it will pull through distance until one of us breaks."
+The copper loop shrieked inside the lock.
 
-Ordran knew that. He had built no such reach into it, but nine months of repeated transfer could teach silver habits its maker had not intended. He disliked magic most when it resembled law: precedent accumulating where mercy had once been.
+Neris grabbed the key ring. Her fingers were too slick to separate the iron key from the smaller brass ones. "Mother, order—"
 
-"I can deaden it first," he said. "Quietly. You could be through the west window before anyone knows."
+"The long key," Ivara said, pushing a soaked cloth under Neris's wrist. "Turn it left."
 
-Dovra studied him. "I offered Basma one night. I offered because she was burning and afraid. I did not offer to vanish while she slept and leave her to wake burning again."
+"Order them!"
 
-Basma knelt beside the dragon's head. "You see? Dovra wants to stay."
+Ivara set her knees against Neris's hips as another spasm bowed her off the step. "I did."
 
-The dragon's transparent wing edge clicked as it shifted. "I want you to live. I wanted to stay one night. I endured the second because you were still ill. On the sixth morning I asked for the catch to be opened. Your mother called the locked buckle her mercy. Two hundred and seventy-one temporary mornings have passed since then."
+That was all she managed before Neris's heat threw steam into both their faces.
 
-Basma's hand stopped a finger's width from Dovra's cheek.
+The jam split.
 
-Ordran looked at the crown stamped upon the brass housing. His own catch could not have taken that casing; its hinge had been sawed out and a longer tongue riveted through the silver. The work was careful. Official.
+Dovra's scales flashed.
 
-"You altered it," he said to Ivara.
+Neris found the long key. She dragged herself across two wet tiles and thrust it into the royal box. The metal burned her palm; she lost it, caught it against the collar, and tried again. Ordran held the harness steady without touching her hand.
 
-"I ordered the armorer to do so."
+"Left," Ivara said.
 
-Basma stood. "You told me Ordran had changed his mind."
+Neris turned.
 
-"You had nearly died. Dovra was still uncertain. I believed one more day without argument would let everyone recover."
+The box opened with a blunt clack. Every copper vane fell away from Dovra's throat. Fire surged back through Neris so quickly that she collapsed against the dragon's shoulder, then recoiled before Dovra could be made to hold her weight.
 
-"And then?" Ordran asked.
+Ivara caught her.
 
-"Then Basma would not surrender the key."
+Ordran slid the cold wedge under the altered hinge. "Dovra?"
 
-The princess drew her hidden hand forward. A brass key hung from her fist on a red cord. "Do not put this all on me now. You locked it. He built it. Dovra kept saying yes until suddenly the yes had footnotes. None of you has standing to judge what I did to stay alive."
+"Cut."
 
-It was an excellent defense because nearly all of it was true. Ordran felt the old pleasure of a clean incision nonetheless.
+He struck once. The armorer's rivet broke. Silver sprang wide, tearing one glass-thin scale but carrying no heat with it. Dovra shook the collar onto the tiles.
 
-"Dovra's lack of violence was not agreement," he said. "It was care you found convenient."
+The dragon did not wait.
 
-The bulb in Basma's other hand softened.
+They limped to the steam shutters while Ordran climbed the wheel housing. The chain would not move. Ivara had laid her daughter back in the rain channel and was holding soaked cloths at her neck with one hand, bracing her shoulders with the other.
 
-Ordran saw it sag between her fingers. He saw the copper vanes on Dovra's collar turn toward her as flower heads turn toward the sun. Then Basma doubled over with a sound of shocked anger, and a red thread raced under her skin from wrist to throat.
+Neris reached toward Dovra. Whether for help or to stop them, Ordran could not tell. Her arm fell short. Flame sheeted across the rainwater and vanished in a blast of white vapor.
 
-The harness closed.
+Dovra rose onto their hind legs and hooked both foreclaws through the lowest shutter slat. The glassed right wing stayed clamped to their side. Ordran knocked the corroded axle pin loose with the heel of his cutter. Dovra hauled; the wheel spun hard enough to wrench Ordran's shoulder, and the shutters climbed.
 
-Dovra's head struck the carpet. Light flooded the clear rims of their scales, rushing inward. The brass housing began a steady metallic ticking.
+Cold night opened above the roof.
 
-"Don't touch it," Basma gasped. "Let it finish. It is always worse if you interrupt."
+Dovra shoved their head and shoulders through. The broken scale at their neck wept one dark line. They paused only to pull the injured forefoot onto the sill.
 
-Ordran tore open his case. His wedge would sever the silver in one blow, but during transfer the stored heat would recoil through both linked bodies. He used the soft copper instead, looping it behind the royal housing and twisting until the metal bit his fingers. One tick faltered. On the next, he drove his file between the clasp's teeth.
+Behind them, Neris began to burn in earnest.
 
-The mechanism jammed halfway.
+Ordran left the wheel propped with his case and went to her. Ivara had gotten both arms around Neris's ribs, keeping her upright so the heat could escape without the princess striking her head on stone. The queen's wet sleeves steamed. Blisters rose on the hand that supported Neris's jaw.
 
-Dovra dragged in a breath. Basma screamed.
+"Keep her facing the vent," Ordran said. "Don't let her breathe the steam."
 
-Flame ran up her arms in wavering bands, bright but not yet feeding on cloth. The room's damp hangings began to steam. Around Dovra, half-formed glass shells dropped from their mouth and shattered against the hearthstone.
+The shutters banged once in the wind.
 
-"What have you done?" Ivara seized Ordran's shoulder.
+Dovra squeezed onto the lead roof. For a moment their clear wing fingers snagged between two slats. They folded tighter, worked free, and slid out of sight.
 
-"Returned half your daughter's illness to her. Bought the dragon minutes. The clasp will force itself past my file if we leave it loaded."
+Ordran heard claws cross the roof. Then a heavy scramble, a scrape of glass on lead, and silence.
 
-"Then take it out," Basma said through clenched teeth.
+He could not turn. Neris's pulse was running too fast beneath his fingers. Fire moved under her skin in branching seams. He changed the cloth at her throat, then another, while Ivara held her through each convulsion and took the curses that came whenever Neris found breath.
 
-"No."
+The first wingbeat sounded below the window.
 
-The word was his this time. He had said it too quickly and liked the sound too much.
+The second struck harder. On the third, a pale body rose past the open shutters. Dovra's right wing opened late and crooked, but it opened. They cleared the palace wall and dropped toward the black marsh, where cold mist lay between the reeds.
 
-Water would not quench Basma's fire, but stone and evaporation could spare her lungs and the palace. He remembered the old bath chamber behind the tiled wall, abandoned when a roof beam had cracked. Its upper smoke vent opened toward the marsh. If it still opened at all.
+Neris saw them. Her mouth formed the dragon's name, but the oncoming crest crushed it into a gasp.
 
-"Can you walk?" he asked Dovra.
+Ordran could have shouted. Dovra had turned at smaller sounds during that first night. They might have turned now from care, from fear, from the old practiced reach of Neris's fire.
 
-"If the floor is clear."
+He put both hands to the work in front of him and did not call.
 
-Ivara was already hauling cushions out of the way. She kicked aside the rolling bulbs, then caught one in her hem and went hard onto one knee. For once she did not ask anyone to lift her. She rose, shoved a table against the wall, and shouldered open the bath door.
+The crest lasted long enough for the rain channel to run hot. Neris's hair smoldered at the ends. A patch of skin along her left arm blistered, and her breath caught twice until Ordran levered her jaw forward. Ivara stayed on her knees behind her, thighs locked around her daughter's hips, one burned hand supporting her chest. She asked for cloth, then water, then another cloth.
 
-Cold damp breathed through.
+At last the orange seams beneath Neris's skin shortened. The flame at her hands guttered. She sagged into Ivara so abruptly that the queen nearly struck the pool edge with her shoulder.
 
-They moved badly and together. Dovra crawled with wings clamped close so the glassed edges would not strike the doorframe. Ordran walked beside the collar, keeping both hands on the file as the harness tried to chew through it. Basma followed with one arm around her mother, leaving scorched footprints on the tiles. Each time her knees failed, Ivara took more of her weight.
+"Still here," Ordran said when Neris's eyes opened.
 
-The baths were a sunken square of blue stone under a ribbed ceiling. The pools had been drained, but rainwater stood in the channels. A copper wheel controlled the vent high above them. Its chain was furred with green.
-
-"Cloths," Ordran told Ivara. "Soak them. Pack them at Basma's neck and under her arms. Keep them wet."
-
-Ivara lowered her daughter onto the shallowest step and obeyed. Basma slapped the first cloth away. The queen picked it up, soaked it again, and held it where it would cool the blood without covering her daughter's face.
-
-Ordran cut the vent chain free of its corrosion. The wheel groaned. Two shutters opened a hand's breadth, spilling a blade of night across the floor. Not enough for Dovra. He braced a shoulder under one spoke.
-
-Behind him the harness ticked against the file.
-
-"When I pull the wedge," he told Dovra, "brace your forefeet against the pool rim. On three, force your throat upward. Basma, turn your face from the collar. Your Majesty, hold her wrists."
-
-"Physician," Dovra said.
-
-"There is no time. One."
-
-"Why are you still giving orders over my body?"
-
-His hand remained on the wedge. The answer that came first was because I know better. It had carried him through fever tents and birthing rooms and battle yards. It had also built a catch for one desperate night and then left a dragon wearing its consequence for a season.
-
-The harness ticked again.
-
-Ordran released the wedge. "If I cut it while the transfer is active, the heat may strike both your hearts. If Basma opens the royal lock before the clasp forces past my file, the draw will end and I can remove the harness safely. If we wait, the file will fail. If you take another full transfer, I expect you to die. I cannot promise Basma will survive without you."
-
-Dovra's throat worked against the silver. "Then I choose no more heat. Can you help her?"
-
-"I can cool the blood at her neck and groin. I can keep her airway open if the smoke thickens. I can try."
-
-Basma twisted away from her mother's hands. Fire showed at the roots of her hair now, a fine restless gold. "Dovra. One last time. Please. Let him plan after. Let me learn after. You have borne so many that this one cannot matter more."
-
-"It matters to me," Dovra said.
-
-"One smaller draw, then. Only until the pain stops."
+She coughed. "That is not a prognosis."
 
 "No."
 
-"Not forever. Not even until morning."
+"Tomorrow?"
 
-"Basma. No."
+"If you are breathing tomorrow, I will know more."
 
-The princess stared at them. Terror stripped the courtliness from her face. Ordran had seen that look nine months before, when she woke in a bed of smoking feathers and found a dragon drinking death from her lungs. It would have been easy to call her selfish from across a cool room. Here the heat lifted blisters on his knuckles.
+She swallowed, each breath a shallow effort. "Come anyway."
 
-The red cord around her wrist began to smolder.
+Ordran checked her pupils and said nothing he could not guarantee. Her pulse was slowing. The burns were survivable. The next rise might be gentler or worse; there was no collar now to hide it from her until it had already begun.
 
-"Mother," Basma said. "Order them."
+Ivara shifted one numb leg and tightened her hold before Neris could slide. Her crown lay at the bottom of the empty pool, bright under a skin of rainwater. The opened key remained in the iron box across the room. No one reached for either.
 
-Ivara's hands tightened on the soaked cloth. "I have given that order once."
-
-"Then give it again!"
-
-"No."
-
-The clasp gave a sharp internal snap. Ordran's file bent.
-
-Basma cried out and dragged the key over her head. For a moment Ordran thought she meant to throw it into the empty pool. Instead she thrust it into the brass housing at Dovra's throat. Her fingers shook too hard to turn it.
-
-Ivara reached toward her, then stopped short of touching the key.
-
-Basma set her other hand over the first. The skin along both wrists was reddening. She turned.
-
-The royal housing sprang open. The copper vanes went slack.
-
-Basma flung the key at her mother. "Keep it, since you like deciding what mercy is."
-
-Ivara let it strike her breast and fall. She did not reach for it. She gathered Basma against her instead as the next wave of fire lifted from the princess's body.
-
-The harness was inert under Ordran's hands. His cutters bit through the altered hinge. Silver peeled away from Dovra's throat, taking three small scales and no more. The dragon lurched free.
-
-"The vent," Dovra said.
-
-Ordran ran to the copper wheel. It had opened only a hand's breadth before. He planted both boots against the pool rim and hauled until the chain skipped a tooth and the shutters spread wide enough for the long head, the narrow shoulders, the glass-edged wings. Cold rushed into the room. It struck Basma's flames sideways and filled the baths with white steam.
-
-Dovra climbed the slanted pool wall. One hind foot slipped. The clear rim of a wing struck tile and chimed, but did not break. Ordran caught himself reaching to guide the leg and lowered his hand.
-
-The dragon paused with their head in the night.
-
-"Dovra," Basma said. Her voice was small beneath the hiss of wet cloth. "Will I see you again?"
-
-Dovra did not turn. "I do not know."
-
-Then they pulled through the opening.
-
-For three wingbeats Ordran thought the glassed edges would not hold. Dovra dropped below the sill, out of sight. A pale shape rose beyond the wall, caught the low wind, and flew toward the cold black spread of the marsh. No one called after them.
-
-Basma's fire crested before the shape disappeared.
-
-Ordran returned to the pool. He made Ivara move the cloths in sequence, never leaving one long enough to trap heat. He kept Basma on her side when the coughing began. The princess cursed him, then Dovra, then her mother in language precise enough to reassure him. When she clawed at the scorched skin of her arms, Ivara held her wrists against the tile and accepted every word.
-
-"How long?" Ivara asked.
-
-"I don't know."
-
-"You always know."
-
-"You always preferred that I sound certain."
-
-So they worked without certainty. Steam pearled the queen's crown. Basma shook until her teeth knocked together, though heat still shimmered above her skin. Ordran treated the two burns that worried him and left the smaller ones alone. Beyond the open vent, the sky thinned from black to iron gray.
-
-At last the red under Basma's skin faded to the ordinary flush of fever. Her pulse slowed. She opened her eyes and found her mother's face above hers.
-
-"Get away from me," she whispered.
-
-Ivara eased her grip but stayed kneeling in the rain channel, one hand beneath Basma's head so it would not rest on stone.
-
-Ordran checked the princess's throat and listened to her lungs. Painful breaths, shallow but clear. She would scar at both wrists. She would live through this morning. Beyond that, he would not counterfeit knowledge.
-
-"You will come tomorrow," Basma said.
-
-"If you ask me tomorrow."
-
-Her eyes narrowed at the condition. For a moment he saw the familiar machinery of rank searching for purchase. Then another tremor took her, and she closed her eyes. "Come tomorrow. Bring no harness."
-
-"I will."
-
-The marsh wind flowed through the bath, cold enough now that Ivara covered her daughter with her own cloak. Far out above the reeds, Dovra had become a pale mark against the growing light. The dragon flew unevenly, favoring the left wing, but each stroke carried them farther.
-
-Ordran watched until he could no longer distinguish Dovra from the morning. He kept his mouth closed. Beside him, the queen remained on her knees, one hand cradling her daughter's head above the stone.
+Beyond the shutters, morning grayed the marsh. Dovra was already a narrow, uneven shadow over it, flying west without circling. Ordran watched for one breath, then knelt to replace the cooling cloth in Ivara's burned hand.
