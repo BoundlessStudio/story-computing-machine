@@ -8,334 +8,342 @@ canon: false
 
 # Leave the Names
 
-At weigh-out, everything had to answer for its mass.
+By sunrise, we had made Merenza lighter by six hundred and nine measures.
 
-We hung copper gutters in the cradle scale, nested by diameter and wired in threes. We stacked door hinges with their pins run through them, good steel on one tarp and red-rotted steel on another. Pava crawled under the west sledge with a slate, calling out axle wear while I checked her figures against the load marks. Around us, thirty cutters took Merenza apart by useful handfuls.
+The caravan scale stood beneath the old civic arch. We fed it the city in portions small enough to carry: copper pipe bundled by bore, hinge leaves strung on their own pins, two fan housings with the blades knocked out, a washbasin beaten flat. Anything we meant to sell took a notch in the weigh stick and a charcoal entry in the load book. Anything promised elsewhere took a red cord. Anything unsafe took yellow chalk and stayed where it was.
 
-The city had been dead longer than our oldest route song. Wind had filled its ground floors, so we worked among third-storey windows and walked streets laid over streets. We did not pretend restraint made the work gentle. By noon there would be kitchens without pipes, halls without doors, towers opened to the weather along the yellow strokes our surveyors painted safe to cut.
+Pava had crawled beneath the west sledge to read me the wear on its running gear. Her boots projected from under the axle. She called, “Left wheel, three fingers before the line. Front shoe—new.”
 
-Still, the code had one clean edge. The road songs said it was older than every city under our knives.
+“New?”
 
-Take the metal. Leave the names.
+She came out too quickly and struck her brow on the frame. When she sat up, grease crossed one cheek. She pressed her lips flat while she waited for me to notice what she had done. She was twenty-three, old enough to trade under another cutter’s eye and young enough that the caravan still called her my apprentice before it called her by name.
 
-I was binding the morning tally when I looked up at the civic arch. Yesterday, seven bronze letters had stood across its face, each as long as my forearm. That morning there were seven pale shapes in the soot and sixteen empty pinholes.
+I looked past her to the arch.
 
-The absence did not look empty. It looked freshly worked.
+Seven soot-pale shapes crossed the stone above us. Fourteen pinholes made two neat rows beneath them. The bronze letters that had stood there yesterday were gone.
 
-“Pava.”
+The city’s dead had left us no pronunciation. We called it Merenza because that was the shape the letters made in our road script. We had taken its roof sheets and its pump chains. We had opened a buried exchange for the conductor coil inside. The letters, arm-long and green at the edges, were the one metal on that plaza no one had entered in my book.
 
-She came out from under the sledge on her elbows. Grease crossed one cheek. At twenty-three she was too old to hide badly and still young enough to hope that silence might rearrange a fact.
+“Where?” I asked.
 
-“I sold them,” she said.
+Pava followed my gaze. The flush left her face.
 
-No one near us stopped working. A hammer rang inside the old counting house. Somebody swore as a coil of wire escaped its binding. The ordinary sounds made her words worse.
+Around us, work continued. A cutter broke mortar from a lintel. The kitchen crew argued over whether a copper vat had held dye or stew. Nobody had yet noticed what was missing.
 
-“To whom?”
+“Jassik bought them,” Pava said. “Yesterday.”
 
-“Jassik. The roof-founder with the blue cart.”
+The old code was six words when spoken with the pause in the middle: take the metal, leave the names.
 
-“When?”
+I held out my hand. “Sale chit.”
 
-“Yesterday, before last light.”
+She produced it from her belt purse. Twenty-eight and a quarter measures of untested bronze. The price was fair if the bronze had been ordinary. Jassik’s thumb mark was still blue from the dye he used on his cart and contracts.
 
-“Weight?”
+“You signed as trader.”
 
-“Twenty-eight and a quarter.”
+“I’m permitted market sales.”
 
-“Price?”
+“For entered salvage.”
 
-She named it. Too little for letter bronze, fair for untested scrap.
+“The letters weren’t entered.”
 
-I closed the tally book. “Show me what you bought.”
+“Show me the brake.”
 
-Pava led me to the front running gear. The west sledge was low and long, built to couple to the pale rail at dusk. Its new brake shoe showed bright where it met the wheel. The pin had been trimmed, peened, and seated square. She had spent the balance on a strip of hide that kept grit out of the housing. It was good work.
+Pava did not move. Then she ducked under the frame and brought out a cracked shoe wrapped in sacking. The new one was already mounted against the west wheel, its pin trimmed clean and peened square. She had bought the shoe, a hide dust flap, and two proper locking wedges. No sweetcakes. No bright knife. Not even the expensive awl she had handled at three markets and always put down.
 
-Beside it lay the old shoe. Pava had cleaned it, perhaps because she knew I would inspect the break. A dark line ran from the worn face halfway through the neck. I put the tip of my knife into it. The crack took the blade.
+I set the old shoe on a wheel hub and struck its neck with my hammer. The crack opened to the depth of my smallest finger.
 
-“I showed you,” she said.
+The afternoon before, Pava had put that same shoe in my hand while I was measuring the conductor coil. I had scraped the dark line with a nail and called it surface crazing. We were already half a day behind the rail window. Put it back, I had told her. It will hold to the southern stop.
 
-I remembered without effort. She had brought me the shoe while I was pricing a fan cage, and I had scraped the neck with my thumb. Surface crazing, I had told her. Put it back. We had a rail window to catch and no spare of the right size.
+“It would have failed on the descent,” she said.
 
-“You did.”
+The lead driver was checking jaw clamps at the head of the pale rail. I beckoned him over, showed him the break, and asked for no opinion. His silence was enough.
 
-Our lead driver called that the north loads were lashed. I raised a hand without turning. “The caravan leaves at the window. If we’re not back, take Pava’s and my shares out of the west sledge and go.”
+“When the rail wakes,” I told him, “leave with the caravan. Take our personal loads off the west sledge. Pava and I will follow by road.”
 
-Pava stared at me. “You’re going after him?”
+Pava rubbed her brow where she had struck it. “You’re not sending me away?”
 
-“We are.”
+“Not before you show me what you sold.”
 
-“And when we come back?”
+Jassik’s cart had gone west. Its iron-rimmed wheels left a double rut through the drifts that buried Merenza’s lower streets, and its furnace leaked a fan of charcoal chips on every climb. We followed with the sale chit, my testing file, and all the bronze not already claimed by another crew.
 
-“First we find what can come back.”
+At the first turn, Pava stopped beside an old well. A green plate remained riveted to its curb. She had removed the iron crank brace without so much as scratching the two rows of raised symbols.
 
-Jassik’s cart had left deep paired ruts in the dust. He carried a travel furnace, water, molds, and enough charcoal to make his wheels quarrel with every slope. We followed the tracks west from the arch and down through Merenza’s upper market.
+“I left that,” she said.
 
-Pava walked one pace behind me. That was apprentice distance, and she kept it so exactly it became an argument.
+“Walk.”
 
-We passed a bronze plate riveted to a well curb. Two words remained under green bloom. The pump was gone, the chain was gone, and yesterday Pava had cut out the iron brace without touching the plate. Farther on, three shop signs hung above rooms opened to the sky. She had marked the safe cuts around each in yellow chalk.
+At the covered market, three shop signs hung from a roofless arcade. Yellow cut lines bent around each bracket. Pava pointed at those too. “And those.”
 
-“You knew them when you saw them,” I said.
+“You knew the rule.”
+
+“I knew the words.”
+
+Her apprentice distance was one pace behind. She kept it across broken paving, even where walking beside me would have been easier.
+
+Merenza had died in layers. Wind-borne soil buried its ground floors, and some later people had laid a narrower street through its third-storey rooms. We crossed a kitchen whose stone sinks opened onto empty air. Pava had found the safe line for its pipe yesterday by tapping the wall and listening for hollow places. She was the best listener in our caravan. That was why I had chosen her. It was also why the crack in the brake sat like grit under my tongue.
+
+“What else did you try to buy?” I asked.
+
+She answered at once. “Kitchen copper. They refused. Bell stock from the mill crew. Promised. Two valve rings from common scrap, but they were leaded. I asked you to stop.”
+
+“You asked once while I was working.”
+
+“I put the shoe in your hand.”
+
+I could have ordered her silent. Instead I followed the charcoal chips.
+
+We found Jassik in a sunken courtyard where the western wall broke the wind. His blue cart was braced level on four stones. Clay molds lay beside it in rows, each mold curved like a finger hooked over a roof edge. He had rigged his bellows to a treadle and was driving a white heat through a squat travel furnace.
+
+The six surviving letters lay face down in casting sand.
+
+I counted twice. M, E, R, E, N, A. Jassik had sawn through the old straps that joined them, leaving bright wounds across the dark bronze.
+
+“Close the air,” I said.
+
+He saw Pava, saw me, and kept one boot on the treadle for three more breaths. Then he let the bellows sag.
+
+“If this is about yesterday’s bronze,” he said, “you chose a late hour.”
+
+“Where is the seventh?”
+
+Jassik lifted a black spoon from his bench. A bead of bronze rolled in its bowl, no bigger than the last joint of my thumb.
+
+Pava’s breath stopped.
+
+“Test melt,” he said. “I needed to know whether the batch would take the bend.”
+
+I picked up the bead with my tongs. One letter had become a sample, then a number in a founder’s head. It was still warm.
+
+“You bought a city name,” I said.
+
+“I bought metal from a licensed seller.” Jassik pulled his mouth cloth down. His beard had been singed blunt on one side. “The six on the sand are not in my furnace. That is the courtesy I can offer before I hear what you want.”
+
+“I want them returned.”
+
+“I want nine sets of roof clamps loaded before the biting rain reaches the salt road.” He kicked a wooden count board near the furnace. Nine holes, each fitted with a household peg. “Your custom does not keep their rafters down.”
+
+Pava said, “We can repay the price.”
+
+“Keep it. I promised bronze, and the salt towns have none clean enough. If I hunt for stock on the road, the rain gets there first.”
+
+I spread our unclaimed scrap on his scale: two valve collars, bearing strip, three hatch plates, and a length of ornamental rail. The pile outweighed the letters. He tested each piece anyway. The valve collars sweated lead under the flame. The bearing strip snapped cold. One hatch plate had green fire at its filed edge, evidence of some old addition neither of us wanted near a roof.
+
+“Weights,” he said, pushing the pile back. “Bells for people you dislike. Nothing I promised.”
+
+“Double the bronze in mixed stock.”
+
+“Then I spend charcoal separating your rubbish and miss the road.”
+
+Pava unhooked her tool roll. “Take these against the work. I can stay through the pour.”
+
+Jassik looked at the chisels and gauges, then at her. “I did not ask for a hand.”
+
+“You need one.”
+
+“I can manage the pour.” He held up his blackened hands. “What bought the new shoe?”
+
+Pava’s jaw tightened. “These letters.”
+
+“Then the shoe stays where it is.”
+
+“It’s high copper. Better than half this pile.”
+
+“It is a brake now. The west descent would shear the old one. I will not put that break back under your load.”
+
+She stepped toward the scale. “Then take my share of the letters and give Varoq the rest.”
+
+“There are no shares.” I said it before Jassik could. “Not in this.”
+
+The furnace ticked as it cooled. Beyond the broken wall, the sun still stood above the roofless market. At dusk Merenza’s intact transit rail would shed most of its own weight for about an hour. Our sledges could run fast on it then, but only then. If the caravan missed the change, it would sit another day. If Pava and I missed it, we would walk.
+
+Jassik turned the six letters face up. Their soot stains no longer joined. “Bring me equal sound bronze before I pour,” he said. “Not money. Not labor I did not hire. Bronze I can promise without lying.”
+
+“The test bead too.”
+
+“No. It is already measured into the first batch.”
+
+Pava reached for her tool roll. “There isn’t any sound bronze free.”
+
+I knew of some.
+
+The conductor coil lay at the center of the west sledge, red-corded and padded with woven straw. A pumpwright two rail stops south had paid us to recover it whole. Wire as thick as my thumb wound around a ceramic core, clean and spring-hard. The advance had fed the caravan for half the northern route.
+
+It had been in my hands when I dismissed the crack.
+
+“Keep the furnace closed,” I told Jassik.
+
+He looked at the dropping sun. “At the sun’s edge, I open the furnace. If you are not here, the letters go in.”
+
+We ran back through the upper market. Pava abandoned apprentice distance on the first slope. She was faster over broken ground and reached the arch ahead of me.
+
+The caravan had finished lashing. Drivers crouched at the pale rail, brushing grit from the coupling jaws. No one hurried yet. The rail set its own hour, and panic could not move sunset.
+
+I went to the west sledge and cut the red cord around the coil. Five outer turns would be more than Jassik needed. I dragged them clear of the padding and set my bow saw against the wire.
+
+The lead driver caught my wrist. “That is contract freight.”
+
+“I know.”
+
+“The advance is spent.”
+
+“Charge the claim to my next shares.”
+
+“Your next ten shares may not cover it.”
+
+Pava reached for the knife. “Mine first.”
+
+I kept it. “Her sale caused the claim. My inspection caused the need. Enter half against each of us until the pumpwright sets damages.”
+
+The driver stared at the blank arch. He had finally seen the pale letter-shapes. “And her market mark?”
+
+“Suspended.”
+
+Pava said, “You can’t settle that without hearing me.”
+
+“I heard you beside the brake. This is what the coil costs. The rest waits until the name is back.”
+
+The lead driver released my wrist, but he did not help us. Pava steadied the loose turns while I sawed. We folded the length across two carrying poles and lifted. It dragged our arms long before we reached the first turn.
+
+Jassik had relit only his testing flame. He filed one bright curl from the wire, heated it, quenched it, bent it double, then set the cut length on his scale. He measured out what his roof batch required and sawed off the extra. The bronze bead went into his small crucible. The wire followed.
+
+“Enough,” he said.
+
+“You took less mass than the letters.”
+
+“I need nine sound sets. That makes nine. Take the rest.”
+
+He shoved the remainder of the coil toward me, then wrapped the six letters in furnace canvas. Pava watched the crucible. The bead had already lost its roundness in the heat.
+
+“Could you cast another Z?” she asked.
+
+“From new metal.”
+
+“Then—”
+
+“This one is already in the clamps.” Jassik lifted the crucible with his tongs.
+
+He poured before she answered. A thread of orange metal vanished into the first hooked mold.
+
+We tied Jassik’s rejected arc of wire to my pack and divided the letters, three to each canvas sling. Twenty-eight and a quarter measures had sounded manageable on Pava’s chit. Against my shoulder, the cut edge of an E found a new place to hurt at every step.
+
+The rail woke while we were still crossing the market.
+
+Blue light ran under the dust in a straight line. The exposed stretches lifted a finger above their beds with a hum I felt through my boots. Back at the arch, our people guided the low sledges over the pale metal and locked the jaws beneath its edges. The rail became nearly weightless. The loads did not. Drivers leaned into the traces, and the first sledge moved with the dangerous ease of a full bucket on ice.
+
+Lanterns streamed past gaps in the buildings. The last driver had to uncouple before the hour ended or the settling rail would flatten a wheel. No one stopped for us.
+
+The lead driver rode the final load. He held up the shortened coil so I could see it remained on the sledge. I lifted one hand. Pava kept both hands on her sling.
+
+When the caravan’s hum faded, the city seemed larger.
+
+Pava lowered her letters beside the well. “There was no free stock.”
+
+“There is never free stock. There is entered stock and stock we have not judged yet.”
+
+“The arch had stood over three weigh-outs. No tag, no chalk, no red cord. You taught me that if nobody claims a piece by market eve, it returns to common tally.”
+
+“Names do not go on the common tally.”
+
+“That was the part you left out.”
+
+I shifted the sling. The E’s cut corner had numbed two fingers. “I said leave them.”
+
+“You also said the shoe would hold.”
+
+We stood with the green plate at our knees. Pava had cut the brace behind it so precisely that the plate still covered its original patch of stone. She had followed one order whose reason she understood and broken another after my judgment nearly put her under the sledge.
+
+“If the shoe had failed,” I said, “the letters would still not have been yours to sell.”
+
+“What was I supposed to sell?”
+
+“Nothing. Stop the load. Pull the coupling pin and put it in your pocket if you must.”
+
+“You would have ordered me to return it.”
+
+“Then call the lead driver. Call every driver. Make me say the crack is safe where they can see it.”
+
+She crouched to retie her sling. “So I get a vote only if I make enough noise.”
+
+“No. You get a brake inspection when you ask for one.”
+
+“I asked.”
+
+“Next time you get one.”
+
+She hauled the letters up and started walking before me. “That is not an answer about the names.”
+
+She was right, which did not make me ready. I followed her past the shop signs, black shapes hanging above blacker rooms.
+
+My first master had told me that names soured a smelter. I had later melted a loose funeral plate by accident and produced excellent rivets. Another cutter said the dead followed stolen letters. The dead had never followed our caravan as far as I knew. Every road had a different fright wrapped around the same six words.
+
+“A name stays out of the load book on purpose,” I said. “The empty line is its mark.”
+
+“That is a poor mark.”
 
 “Yes.”
 
-“But not the arch.”
+She glanced back, suspicious of the agreement.
 
-“I knew what it was.”
+“We take the useful shape from a place until a later traveler can mistake it for a quarry,” I said. “A wall becomes block count. A watercourse becomes pipe. The names are what we refuse to turn into quantities.”
 
-I kept walking.
+“Why those and not graves? Or pictures? Or the little handprints in the kiln house?”
 
-“Every other sound piece was on a tally,” she said. “I checked. The copper sheet belonged to the kitchen crew. The bell bronze was promised to the mill crew. Even the broken grate bars were entered under camp iron. The letters weren’t in your book.”
+“I don’t know why the first cutters chose names.”
 
-“So you priced them.”
+“Then how do you know they chose right?”
 
-“I stopped the sledge first. You ordered it loaded again.”
+“I have seen a hungry camp find a necessity for every hinge, grave rail, and cooking pot it could lift. Need does not finish.”
 
-“So you priced them.”
+Pava kicked a charcoal chip off the paving. “People under a roof might price it differently.”
 
-“Yes.”
+“Jassik did.”
 
-The ruts crossed a broad avenue where glass grass grew between slabs. Its dry blades chimed against our boots. On either side, balconies leaned into one another like exhausted carriers. There were thousands of things in reach and almost none that our caravan could use. Salvage was never taking whatever shone. It was knowing which shine would survive the hammer, which beam was holding more than itself, which old machine kept poison in a chamber no gauge could read. Pava was better at that knowing than I had been at her age. Often better than I was now.
+Neither of us spoke for the rest of the climb.
 
-That was why I had taken her on. It did not soften the pinholes in the arch.
+At the arch, the letter shadows waited exactly where morning had left them. We unwrapped the bronze and sorted the cut joining straps. The old makers had pinned each letter through the facing stones and linked the backs with crossbars. Jassik’s saw had spared enough of four straps to reuse. For the others, I cut short backing plates from our plain repair stock while Pava climbed into the hollow above the arch.
 
-We smelled Jassik’s furnace before we saw it. Charcoal smoke pooled in a sunken court beyond the western wall. His blue cart stood with its wheels chocked. Copper roof pans leaned against one side; on the other lay bundles of clay molds shaped like hooked fingers.
+We worked by two oil lamps. She fed wire through each pinhole; I used it to draw the letters against their soot-pale beds. M first. Then E, R, E, N. We left the sixth space open and fixed the A beyond it.
 
-Jassik was feeding charcoal into the furnace when we entered. He wore a patched leather apron and a cloth across his mouth. He looked at me, then at Pava, and shut the air gate.
+MEREN_A.
 
-“I wondered if you’d come, Varoq,” he said.
+The gap was not subtle. Two old pinholes sat inside the pale diagonal shadow. Jassik could have cast the missing shape by noon tomorrow. We could have cut it from new sheet, scored the face, packed the grooves with soot. From the plaza, no traveler would know.
 
-“You bought a name.”
+Pava came down from the hollow with metal dust in her hair. She held a scrap of paper over the shadow and rubbed it with charcoal until the lost Z appeared.
 
-“I bought twenty-eight and a quarter of old bronze from a caravan trader who named a price.” He pulled the cloth down. His beard was singed shorter on one side. “If your people don’t sell letters, teach your sellers that before market.”
+“For a pattern,” she said.
 
-He pointed to a canvas beside the cart.
+I looked at the black shape. “For whose eye?”
 
-The letters had been cut apart. M, E, R, E, N, A. Sawn through their old joining straps, they had lost the posture that made them a word. Jassik had scrubbed one edge of each to inspect the grain. Their faces still wore the weather of the arch: soot in the hollows, green feathering around the pinholes.
+“Anyone passing under it.”
 
-Six letters.
+“Would they know it was ours?”
 
-“Where is the Z?” I asked.
+Her thumb smeared one corner. She looked from the rubbing to the saw-bright edges of the letters we had recovered. Then she folded the paper once and put it in the load book without asking.
 
-Jassik took a small blacksmith’s spoon from his bench. A bronze bead rested in it, no larger than the last joint of my thumb. He tossed it to me. I caught it hot enough to sting.
+We did not hide the cuts. We did not green the new pins. Near midnight we tightened the last backing plate, and six old letters held their places again.
 
-“Test melt,” he said. “Good close-grained stock. A little stubborn in the pour, but it takes tin without crumbling.”
+Pava sat on the scale platform and waited. She had stopped arranging her face into the blank patience apprentices used during correction. She looked exhausted and furious and too competent to be dismissed for my comfort.
 
-Pava made a small sound behind me.
+“Your market mark stays suspended,” I said. “You may not price, tag, or sell without another trader present until your shares clear your half of the claim.”
 
-I set the bead down. If we had come at dawn instead of weighing our gutters, the Z would still have been a Z. If I had listened beside the sledge, none of the letters would have been here. The chain of ifs was long enough to hang anyone we chose.
+“Half.”
 
-“I want the six,” I said.
+“The coil debt is half yours. I took the other half when I ignored the shoe.”
 
-“And I need roof clamps.” Jassik tapped the clay molds. “Nine households east of the salt flats stripped their bad roofs last week. I promised the new clamps before the biting rain. Their old ones split at the bends. I’m not going back with apologies and a fine story about your code.”
+She rubbed bronze filings between her palms. “And after the debt?”
 
-“I’ll pay your purchase price.”
+“Before we cut, you mark name-bearing pieces on a separate strip. Not in the tally. Beside it. You show that strip to the next apprentice before they earn a market mark.”
 
-“That buys coins. I promised bronze.”
+“You’re keeping me, then.”
 
-“At double.”
+“If you still want the place when we catch the caravan.”
 
-“Will double money hold a roof down?”
+“I do.” She said it without gratitude.
 
-He did not say it cleverly. He sounded tired. On his bench, a wooden count board had nine holes, seven plugged with pegs. Whatever Jassik thought of names, he kept his own promises where he could see them.
+At dawn we went looking for enough saleable copper to justify the long road south. In a narrow house off the market, I found a conduit running beneath cracked plaster. Pava sounded the wall and located its anchors. I raised the yellow chalk.
 
-Pava unbuckled her tool roll. “The new brake shoe is high copper. The founder stamped it.”
+She brushed dust from a ceramic tile beside the first anchor. Small incised characters appeared, no wider together than her palm.
 
-Jassik looked past her toward the road, as if he could see the sledge waiting in Merenza. “You bought a brake with this metal?”
+Pava took the chalk from my fingers. First she drew a box around the tile. Then she measured the conduit again, shifted our proposed cut by two handspans, and marked the slower route.
 
-“With the money.”
-
-“Then the brake stays on the wheel.”
-
-“You could melt it.”
-
-“And you could roll your load down a grade on prayers. Don’t bring me a death and call it square.”
-
-I put our uncommitted metal on his scale: two broken valve collars, a bundle of bearing strips, three thick squares cut from a cistern hatch. The mass was enough. Jassik filed each piece, wet the filings, and held them one by one in the pale tongue of a testing flame. One burned green at the edge. One sweated gray lead. The bearing strips snapped when he bent them cold.
-
-“Useful for weights,” he said. “Or cheap bells. Not clamps.”
-
-The six letters lay between us. In pieces, their old word was hard to see unless I arranged it in my head. That did not make them ordinary. Jassik had bought them under the rules of his road. His roofs would not become less real because I named our rule older.
-
-Behind his cart, the late sun had reached the broken wall. We had perhaps three hours before the pale rail lightened.
-
-Pava said, “I’ll leave the trade.”
-
-I turned to her.
-
-“Jassik can keep my shoe. You can sell my tools. My coming shares will cover the rest.” Her voice was steady now, because she had found a way to make the totals agree. “Send me east with him. I can work the molds until I’ve paid the difference.”
-
-Jassik frowned. “I said I don’t want the shoe.”
-
-“Then take the labor.”
-
-“I don’t buy people with scrap.”
-
-“Nobody is buying—”
-
-“Enough,” I said.
-
-She bit the inside of her lip. That habit had survived every correction I had given her.
-
-The west sledge carried a conductor coil from Merenza’s buried exchange, wire thick as a finger wound around a ceramic heart. We had not cut it. We had dug it out whole under contract for a pumpwright two rail stops south. The bronze was clean, spring-hard, and more than Jassik needed. The advance had paid for half our food on the northern leg.
-
-It was also in my charge.
-
-“There’s a conductor coil on our sledge,” I said.
-
-Pava looked up sharply. Jassik asked, “Sound?”
-
-“Sound enough that someone is waiting for it.”
-
-“Then it isn’t yours.”
-
-“It is mine to fail to deliver.”
-
-His mouth twisted. “Those are not the same.”
-
-“They will be when the claim comes.”
-
-We walked back to the camp at the pace of people who could not afford the walk. The conductor coil was still lashed at the center of the west sledge. The lead driver watched me unbind it.
-
-“Absolutely not,” he said.
-
-“Take the pumpwright’s claim from my shares.”
-
-“Your shares won’t cover it.”
-
-“Then take the rest from mine before hers.”
-
-His eyes moved to Pava. “What happened?”
-
-“I missed a cracked brake. She replaced it with metal she had no right to sell.”
-
-The driver looked toward the arch and saw the fastening shadows. His face closed.
-
-“The rail won’t wait,” he said.
-
-“Neither will the pour.”
-
-He helped me lift the coil down.
-
-By the time we carried it into Jassik’s court, my arms shook. He tested a shaving, then weighed the coil against the letters and his promised clamps. He unwound four turns and cut them free. The rest he pushed back across the scale.
-
-“I said equal,” I told him.
-
-“And I measured equal. I won’t learn your bad habits to settle this.”
-
-He wrapped the six letters in his canvas. The bronze bead remained on the bench.
-
-Pava reached for it. “Can I take that?”
-
-Jassik covered it with two fingers. “No. That is in the first clamp batch. I’ve heated it once already, and I won’t waste it for the shape it used to have.”
-
-She stared at his hand, then nodded.
-
-On the return, we divided the letters between us. Their cut ends worried through the canvas and into my shoulder. Pava carried the M, one E, and the N. I carried the rest. Twenty-eight and a quarter was a market figure. On foot, it became straps, bruises, and stops chosen for flat stones.
-
-We were still above the avenue when the rails woke.
-
-Light traveled through the pale metal in a thin blue line, first along the buried stretches, then across the open ground. For one hour after sunset, intact rail rose a finger’s breadth and shed nearly all its weight. Our people guided the low sledges onto it, closed their jaws beneath its edges, and leaned into the hauling ropes. The jaws ran with little drag, straight and swift, while the cargo kept every pound. That was the trick and the danger. A load could drag its drivers off their feet, and if they had not uncoupled before the hour ended, the settling rail could crush a wheel flat.
-
-One by one the sledges slid from Merenza. Lanterns streamed past the arch. Our lead driver stood on the last load, one hand raised. I raised mine. Pava did not.
-
-Soon all we heard was the faint running hum and then nothing.
-
-“There was no unclaimed metal,” Pava said.
-
-We walked on.
-
-“I looked all afternoon. I asked the kitchen crew if they would sell back a sheet. I asked the mill crew for the bell bronze. Everyone had a use or an owner. But those letters had sat through three weigh-outs. No one entered them. No one put a cut claim on the arch.”
-
-“Because we don’t tally names.”
-
-“You never told me that part.”
-
-“I told you the code.”
-
-“You told me six words.”
-
-I had nearly answered that six words ought to be enough. The letters cutting into my shoulder made the answer ridiculous.
-
-At the well plate, Pava shifted her burden and waited. Night had taken the shop fronts. The old names hung as deeper dark above the doors.
-
-“A tally means a thing may move,” I said. “It says who cuts it, who carries it, who gets the weight. A name stays off the book because it does not enter the trade.”
-
-“Even if the brake fails?”
-
-“I don’t know what every failure permits.” The admission caught against my teeth. “I know you could have stopped the caravan.”
-
-“You would have overruled me again.”
-
-“Then you could have made me do it in front of the lead driver.”
-
-“And if he agreed with you?”
-
-“Then we would have been three fools standing beside a stopped sledge, which is safer than one clever thief under a rolling one.”
-
-She flinched at thief. I let the word remain. I had called myself a fool; balance was not absolution.
-
-After a while she asked, “Why names?”
-
-There were answers masters gave apprentices because their masters had given them: the dead owned the word, the word owned the place, luck followed the cut letters. I had never seen luck inspect a brake. The oldest cutters I knew disagreed about who first spoke the code, and each swore the others had mangled it.
-
-“Because we take everything else,” I said. “Because a trade that can price a stair, a cradle, a water pipe, and the roof over a grave needs one thing the scale cannot settle. We leave the names so whoever comes after us can know there was something here besides stock.”
-
-“Merenza might not even be what they called it.”
-
-“It might not.”
-
-“Leaving the letters doesn’t save the city.”
-
-“No.”
-
-That answer seemed to trouble her more than a defense would have. Good. It troubled me too.
-
-We reached the arch after midnight. Moonlight made the soot look silver. We unwrapped the letters and found their positions by the stains around the empty pins. Jassik’s saw had taken some of the joining straps, but the old bronze accepted a hand drill without splitting. We cut short pins from plain stock, threaded them through the arch, and tightened backing plates inside the hollow stonework.
-
-The work was slow. Pava held the letters while I fixed them, then we exchanged places when my hands began to tremble. M. E. R. E. N. The gap. A.
-
-I laid a bar of clean bronze beside the missing space. We had enough to cut a Z-shaped face by dawn. With soot rubbed into it and green salts on the edges, a traveler might pass beneath without seeing the difference.
-
-Pava touched the bar. “We would know.”
-
-“Yes.”
-
-“And we’d be making the arch say we brought it all back.”
-
-I put the bar away.
-
-We left Jassik’s saw marks visible on the six letters. The new pins shone around the old faces. MEREN_A stood over us, damaged in a way no weather could explain.
-
-When the tools were packed, Pava waited for judgment at apprentice distance.
-
-“You keep your place,” I said. “You lose price authority until your shares cover the conductor claim. No market, no tally changes, no sale without me or the lead driver beside you. Before any cut, you mark every name within the fall line.”
-
-Her chin lifted a little. “How long?”
-
-“The debt decides the first part. I decide the second.”
-
-“And if I see something unsafe?”
-
-“You stop the work.”
-
-“If you disagree?”
-
-“I inspect it before I answer.”
-
-She looked at me in the patchy dark beneath the arch. “That should have been the rule already.”
-
-“It was. I broke it.”
-
-There was no ceremony after that. We slept on our rolled coats with the tool chest between us. Wind passed through the letter pins and made a low, uneven whistle. Once, I woke thinking the rail had begun to hum, but it was only the city cooling around us.
-
-At first light we went to find metal enough to begin paying what we owed. A conduit ran along the inner wall of a narrow house near the old market, heavy copper under a crust of plaster. I had noticed it the day before. It would not replace the conductor coil, but it was a start.
-
-Pava brushed dust from the wall before I could set my chisel. Beside the conduit, shallow marks emerged on a ceramic tile: a household name, smaller than my palm.
-
-She read the shapes aloud, though neither of us knew their sound.
-
-Behind us, high over the avenue, Merenza kept its gap.
-
-“Show me another route around the tile,” I said.
-
-Pava knelt, opened the measure, and began.
+I set my chisel where her line began.
