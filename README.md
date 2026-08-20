@@ -74,9 +74,9 @@ python pages/build.py capture <slug>
 
 Capture requires a passing review but does not duplicate the full story check.
 It stores the prose in `pages/catalog.json` and copies the title image into
-`pages/covers/`. The Pages index renders cover cards with each story's title and
-cover, created and edited dates, status, word count, and content rating; each
-story page places the cover below its title and prompt.
+`pages/covers/`. The Pages index renders cover cards with each story's title,
+prompt, cover, created and edited dates, state, word count, and content rating;
+each story page places the cover below its title and prompt.
 Verify the stored snapshot and reader locally:
 
 ```powershell
