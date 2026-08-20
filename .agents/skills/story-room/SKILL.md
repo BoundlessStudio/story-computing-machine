@@ -16,8 +16,17 @@ Never use it to reopen a completed current or locked legacy story.
 
 ## CREATE mode
 
-1. Work on a non-main branch and scaffold with `scripts/new-story.ps1`.
-2. Preserve the prompt, then delegate OUTLINE to `story_outliner`. It writes
+1. Work on a non-main branch. Identify and visually inspect every reference
+   image supplied with the request, then scaffold with `scripts/new-story.ps1`,
+   passing those paths or attachment labels through `-ReferenceImage` so
+   `prompt.md` inventories their display names. Record `None supplied` when the
+   request has no reference images. Reference originals remain external inputs;
+   never copy them into the story directory.
+2. Preserve the prompt, then delegate OUTLINE to `story_outliner`. Include every
+   supplied reference image in the assignment with a resolvable path or
+   unambiguous attachment identifier and any purpose stated by the user. The
+   outliner must inspect all of them before designing the story and must not
+   silently omit an inaccessible image. It writes
    only `outline.md` after targeted canon and noun searches, selecting a
    story-specific generating force and a distinct narrative shape from the
    binding craft defaults. Under `prospective-2026-08-18`, target 700–1,000
@@ -38,6 +47,15 @@ Never use it to reopen a completed current or locked legacy story.
    the complete story and writes only `title-image.jpg`, an exact 9:16 portrait,
    spoiler-light title visual. Unless the assignment overrides it, use the
    agent's premium anime/light-novel key-visual default.
+   Include every reference image from the original request in the assignment
+   and as an actual image-generation reference. Use resolved local paths when
+   all originals have them; otherwise use the smallest recent-attachment set
+   containing them all. The illustrator inspects each reference before forming
+   the cover brief and preserves recognizable traits relevant to the requested
+   character, object, setting, mood, palette, or style. Final prose controls
+   story facts; a reference image is not canon unless the written prompt makes
+   its detail binding. If any reference cannot be included, restore access or
+   ask the user to attach it again before generating.
    After saving, both the illustrator and coordinator must use the available
    image-viewing tool on that exact file. Generation output, prompt text, file
    metadata, and written self-reports do not count as visual inspection. View
@@ -70,6 +88,16 @@ targeted search answers the continuity question.
 ## OUTLINE responsibility
 
 Write only `outline.md`. Keep scenes or movements ready to draft and compact.
+Inspect every reference image supplied in the assignment with the available
+image-viewing tool before choosing the story design. Use relevant visible
+evidence for the role the prompt implies,
+such as character appearance, relationships, setting, objects, atmosphere,
+palette, or visual contrast. Do not treat incidental background detail as
+canon, override the written prompt or universe authority, or invent certainty
+about an ambiguous image. Translate the useful evidence into the existing
+Story, Beats, or Continuity fields so the writer can act on it; do not add an
+image-analysis section or another artifact. If a supplied reference is
+inaccessible, report the blocker instead of proceeding without it.
 For `Craft profile: prospective-2026-08-18`, target 700–1,000 words when useful
 and never exceed 1,200. The outline supplies choices and pressure, not a
 miniature prose draft.
@@ -142,6 +170,17 @@ story's distinctive promise, the relationship or contradiction the image must
 foreground, the minimum story-specific visual evidence, the spoiler boundary,
 and likely anatomy, crowding, typography, or spatial risks. Do not save this as
 another artifact.
+
+Inspect every reference image supplied with the original request and include
+all of them as actual inputs to image generation. Use `referenced_image_paths`
+when every reference has a resolved local path; otherwise use the smallest
+supported recent-image set that includes them all, never both mechanisms. Keep
+the requested subject identity, design traits, setting cues, mood, palette, or
+style recognizable while making the composition specific to the final story.
+When a reference conflicts with final prose, prose controls story facts unless
+the written prompt explicitly makes the visual detail binding. If every supplied
+reference cannot be included, request the missing attachment again rather than
+generating without it.
 
 The source asset must be a high-quality JPEG at exactly 864x1536 pixels. It
 must display the exact reader-facing story title once, with no author name,

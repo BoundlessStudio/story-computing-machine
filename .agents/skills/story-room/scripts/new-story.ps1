@@ -13,6 +13,9 @@ param(
     [ValidateNotNullOrEmpty()]
     [string]$Prompt,
 
+    [Alias('ReferenceImages')]
+    [string[]]$ReferenceImage = @(),
+
     [string]$Date = (Get-Date -Format 'yyyy-MM-dd'),
     [string]$CreatedAt,
     [string]$ProjectRoot
@@ -72,6 +75,27 @@ Copy-Item -LiteralPath $template -Destination $target -Recurse
 
 $normalizedPrompt = [regex]::Replace($Prompt, '\r\n?', [string][char]10).Trim()
 $promptBlock = (($normalizedPrompt -split '\n') | ForEach-Object { "> $($_.TrimEnd())" }) -join [char]10
+$referenceImageLabelCounts = @{}
+$referenceImageLabels = @(
+    foreach ($image in $ReferenceImage) {
+        if ([string]::IsNullOrWhiteSpace($image)) {
+            continue
+        }
+        $trimmed = $image.Trim()
+        $leaf = [IO.Path]::GetFileName($trimmed)
+        $label = if ([string]::IsNullOrWhiteSpace($leaf)) { $trimmed } else { $leaf }
+        $labelKey = $label.ToUpperInvariant()
+        $referenceImageLabelCounts[$labelKey] = 1 + [int]$referenceImageLabelCounts[$labelKey]
+        $labelCount = $referenceImageLabelCounts[$labelKey]
+        if ($labelCount -eq 1) { $label } else { "$label ($labelCount)" }
+    }
+)
+$referenceImageBlock = if ($referenceImageLabels.Count -eq 0) {
+    '- None supplied.'
+}
+else {
+    ($referenceImageLabels | ForEach-Object { "- ``$($_.Replace('`', "'"))``" }) -join [char]10
+}
 $titleYaml = $Title | ConvertTo-Json -Compress
 
 foreach ($file in Get-ChildItem -LiteralPath $target -File) {
@@ -82,6 +106,7 @@ foreach ($file in Get-ChildItem -LiteralPath $target -File) {
     $text = $text.Replace('{{date}}', $Date)
     $text = $text.Replace('{{created_at}}', $CreatedAt)
     $text = $text.Replace('{{prompt_block}}', $promptBlock)
+    $text = $text.Replace('{{reference_image_block}}', $referenceImageBlock)
     $text = [regex]::Replace($text, '\r\n?', [string][char]10)
     [IO.File]::WriteAllText($file.FullName, $text, [Text.UTF8Encoding]::new($false))
 }
