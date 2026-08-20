@@ -8,442 +8,432 @@ canon: false
 
 # Where Sleep Takes You
 
-I put the emergency tag, shoes, and coat beside the bed while Talune watches from the doorway with the blue mug in both hands.
+Talune packs the blue mug in her last box, changes her mind, and sets it beside my bowl.
 
-The mug is hers. We established this ten minutes ago. The discovery has not encouraged her to leave.
+“Take it,” I say.
 
-“Shoes need to be on you,” she says.
+“You hate the green one.”
 
-“Shoes do not make good pajamas.”
+“The green one is a mug, not a crisis.”
 
-“That has never stopped you.”
+She turns the chip toward me. We eat the final noodles of our eight years as roommates from opposite ends of the kitchen table. Behind her, two cupboard doors stand open on bare shelves. The walls have pale squares where her pictures were. Most of the boxes have already gone three streets east, into an apartment with yellow cupboards and a bathroom window. Talune can walk back in six minutes. We have measured.
 
-I point at the soft-soled boots already on my feet. “I mean the spare shoes. The ones by the bed. Look at them being spare.”
+The mug is one of the small things we keep moving between our sides while dividing the strainers, the chairs, and a population of lidless containers. It gives us somewhere to look besides my clothes.
 
-Talune drinks the last of her tea and surveys what remains of our shared bedroom. Her side is a pale rectangle on the floorboards, four clean screw holes, and one forgotten loop of silver tinsel caught behind the radiator. The bed is mine because she bought the sofa; the sofa is hers because I once teleported away from it during a film and returned to find she had eaten my share of the dumplings. This was judged, by both of us, to establish ownership.
+I am dressed for bed at ten in the evening: soft-soled boots, leggings, close shirt, and the flat kit strapped around my waist. Everything touching me and secured comes when I teleport. Everything loose stays. That is why there is no coat over the back of my chair and no blanket tucked through the strap as a cape, despite Talune's previous experiments.
 
-In the kitchen, half the cupboards stand open. We have divided the duplicates: two strainers, three wooden spoons, four years of takeaway containers without lids. Talune's boxes have gone three streets east to an apartment with yellow cabinets, a bathroom fan that screams, and a bedroom not occupied by me. She can walk back in six minutes.
+She points her fork at the kit. “Open it.”
 
-I can come back in less than one.
+“You helped pack it.”
 
-“Live call,” she says. “Just for tonight.”
+“Humor the woman abandoning you for superior cupboards.”
 
-“Absolutely not.”
+“Nearby cupboards.”
 
-“You don't have to talk. Put the phone on the pillow and I'll hear if you go.”
+“Open.”
 
-“You will hear me breathing, which you hate.”
+I release the two metal snaps. Cash, gauze, a folded foil sheet, cloth tape, a pencil, and an embossed steel identification tag lie in their loops. My phone sits in a fabric band around my wrist, tethered through its case. No magnetic clasp. No bank card with a stripe for a jump to comb blank, and no little magnet to come back as a useless bit of metal. Teleportation ruins those every time. It has never made one point north, named a destination, or done anything else helpful.
 
-“I hate your whistle. Your breathing is otherwise acceptable.”
+Talune taps the tag. “Wear it, not pack it.”
 
-I kneel to check the kit attached snugly under my sleep shirt. The little pouch has cash, gauze, a foil blanket, a short pencil, and no zipper, magnets, or clever clasps. Two press studs hold it shut. The embossed steel tag gives my name and an emergency number in letters that cannot be wiped by a jump. I used to carry a bank card until teleporting combed its stripe blank for the third time. Talune used to keep a hotel key in her pocket until I borrowed the trousers and woke locked out of a room I had paid for.
+I tie it under my shirt. “There. Identified, solvent, and offensively sensible.”
 
-Everything close and secured comes with me. Loose blankets do not. Pillows do not. Dignity varies.
-
-“I will message you if I jump,” I say. “I wake, I come home, I message. Then you go to sleep.”
-
-“In that order?”
-
-“It's a strong order.”
-
-She puts the blue mug on my windowsill, apparently undecided about its legal status. “What if you don't wake?”
-
-“Then I don't mind where I am.”
-
-The joke lands badly. Some nights a quiet destination lets me sleep for an hour. Some nights cold or noise returns me to myself at once. The part between is unavailable for review.
-
-Talune looks at the bed instead of me. “What if you wake somewhere you shouldn't be?”
-
-“I come back.”
-
-“What if you're hurt?”
-
-“I come back.”
-
-“What if you can't get awake enough to picture here?”
-
-“Talune.”
-
-She picks up the mug. “Live call.”
+“Keep a call open tonight.”
 
 “No.”
 
-Her mouth tightens, not quite anger and not quite surrender. She has spent years developing expressions with no emergency value whatsoever. “Message after every one.”
+“You can turn the screen down.”
 
-“Immediately.”
+“And you can listen to me breathe until dawn from your exciting new bedroom.”
 
-“Even if it's three in the morning.”
+“I can hear when the room goes quiet.”
 
-“Especially then. You'll see I'm back, and we can both sleep.”
+“The room is often quiet. That's why we paid for it.”
 
-She gives me a long look. We both leave the arithmetic alone.
+Her fork stays raised. Talune uses each answer to narrow the next question. “If you fall asleep and don't wake at the landing?”
 
-At the front door, Talune hugs me with the mug trapped between us. Then she carries it away, settling the final disputed object through theft.
+“I keep sleeping.”
 
-“I intend to wake at home,” I tell her.
+“If the landing wakes you?”
 
-“Excellent,” she says. “Do that.”
+“I come home.”
 
-Alone, I make the apartment exact.
+“How soon?”
 
-I turn the rug so its worn edge meets my left heel when I stand beside the bed. I leave the lamp on low. The radiator knocks twice every few minutes, with the self-importance of someone at a door. Dust warms on the shade. The fitted sheet has a cold patch near the wall and a small rough place where an old spring presses up. I know this room awake, ill, laughing, furious, and half blind with fatigue. To return deliberately, I need to hold a place in my mind clearly enough that it becomes more present than wherever I am.
+“Immediately. I send **back**. You see it. Done.”
 
-It is an easy room to remember.
+“From here?”
 
-I brush my teeth. I secure my phone to my wrist with the ridiculous running band. I lie down in boots, leggings, sleep shirt, and kit. The coat waits close enough to mock me but not close enough to travel.
+“From wherever sleep puts me.”
 
-I open a puzzle on my phone, because I am not yet tired and because refusing to monitor whether I am tired is the closest I come to relaxation. The clue is *Put into boxes, eight letters*. I type C-A-T-E-G—
+She lowers the fork. The word *sleep* does not need explanation between us. When wakefulness holds, I can go to a place I know well by bringing its sensory shape clear in my mind. When narcolepsy drops me into sleep, the choice disappears: every onset sends my sleeping body somewhere genuinely random. Need has never pulled me toward shelter. Fear has never pushed me toward danger. Talune is not an anchor, geography is not a hint, and thirteen years of notes produced only expensive paper.
 
-My cheek is pressed against coarse plastic. A motor screams beyond a corrugated wall.
+The landing gives me something that supports my weight. It does not promise warmth, privacy, legal entry, still machinery, or a pleasant person to discover me. A quiet surface may let me sleep on. Cold, noise, or impact may return me to the problem.
 
-I sit up too fast. My phone strikes my eyebrow, held by its wrist strap, and something collapses beneath me with a dry, enveloping crunch. For half a second I understand nothing except cold air and the smell of rubber.
+Talune coils noodles around her fork and lets them fall. “One open call.”
 
-Then the place separates into things. Bundles of flattened packing sleeves support my weight. A corrugated roof, high and black between hanging lamps. Orange racks. A closed roller door shivering in its frame. The motor starts again, nearer or louder; I cannot tell which. White light flickers through wired glass.
+“You moved so we would stop doing this.”
 
-My hands are already reaching for home.
+“I moved because I wanted a door I could close.”
 
-Rug edge. Radiator. Warm dust. Rough spring. The room gathers around the memory, and the freight shed is gone.
+“Exactly.”
 
-I land beside the bed with my knees locked. My shoulder hits the wall. The lamp trembles on the crate that serves as a bedside table.
+“I still brought my phone.”
 
-I type **back** before the room has settled.
+I put my hand over the tag. “Wake. Home. Message. You go to sleep after the first one, if there is a first one.”
 
-Talune's reply arrives while I am still rubbing the mark above my eyebrow.
+“And if you are hurt?”
 
-**Hurt?**
+“Home has bandages.”
 
-I look down. Both boots. No obvious blood. My left wrist is red from the phone band.
+“That wasn't what I asked.”
 
-**No. Freight shed. Very glamorous.**
+I lift my bowl and drink until she must choose between waiting and leaving. She waits.
 
-Three dots appear at once.
+At the door, she carries the box under one arm and takes the blue mug with the other hand.
 
-**What was moving?**
+“Thief,” I say.
 
-**Nothing near me.**
+“Put it on the list.”
 
-**You said motor.**
+“I will send **back**.”
 
-I have no memory of telling her that. I read my message again. I did not.
+Her thumb rubs once over the mug's chipped rim. “I know you will.”
 
-**Lucky guess. Go to sleep.**
+Then she goes.
 
-**Was there an exit? Anyone there? Were you warm enough?**
+The apartment sounds larger without her. Pipes mutter behind the bathroom wall. A bus sighs at the corner. I take my bowl to the sink, then leave it there because making the bedroom exact matters more.
 
-I start to type three different answers and discover I possess none of them. The freight shed in my mind has already flattened into plastic, noise, and the decision to leave.
+The rug's frayed edge meets my left boot when I stand beside the bed. The radiator gives two hollow knocks every few minutes. The lamp smells faintly of hot dust. Beneath the fitted sheet, one tired spring makes a rough coin against my hip. I know this room in summer heat and winter dark, in arguments and bad jokes and mornings when my eyes refuse to focus. Awake, I can hold these details until they replace the place around me.
 
-**Back means safe**, I send.
+I put the coat beside the bed. Close is not carried, but it looks prepared.
 
-The reply takes longer.
+At the table I start the remaining-possessions list. **Blue mug—disputed. Peeler—Talune. Small pan—** I pause over that one, because the small pan has survived three kitchens and a fire. I write **joint custody**, cross it out, and begin **radia—**
 
-**Back means back.**
+Plastic ridges press into my cheek. A reversing alarm shrieks somewhere beyond a metal wall.
 
-I reset the rug. I straighten the lamp. The tooth mug is three centimeters left of where I put it, so I correct that too, though no part of teleportation has touched the bathroom. When my room is exact again, I lie down.
-
-My phone says 12:41. I have slept eleven minutes.
-
-The next gap is less violent.
-
-I wake curled on something cool and yielding, with wet seeping through the knees of my leggings. Night presses close on every side. The air smells of soil and cut stalks. When I lift my head, low clouds hold the glow of a distant town, and a row of black trees leans along the horizon.
-
-I am in a field. It is not raining. Nothing is approaching me. My right hand rests in clover, and a small beetle shines on the steel tag at my waist.
-
-I check the time. 2:18.
-
-For one astonished moment I am pleased. More than an hour of sleep, uninterrupted after arrival. My limbs feel heavy in the good way, as though they belong to gravity instead of vigilance.
-
-Twenty paces away, a tin awning juts from a low agricultural building. The ground beneath it appears dry. I could go there. I could make sure it is empty, sit against the wall, and perhaps sleep again. If someone finds me, I can leave before they finish asking how I crossed the fence.
-
-My phone is dark. Talune is waiting for **back**.
-
-I do not quite choose. The apartment comes faster than the question: rug, radiator, dust, spring. Damp grass snaps out of existence.
-
-This time I arrive crouching. Mud flakes from my boots onto the floorboards.
-
-**Back**, I send.
-
-Talune replies before I can unfasten the phone.
-
-**Hurt?**
-
-The pleasure of the long sleep drains away. **No. Field. Fine. You were supposed to sleep.**
-
-**I was. Phone woke me.**
-
-It is a lie with poor structural support. We both know her phone gives my messages a soft two-note chime, and we both know what Talune's sentences look like when she has just woken. Capitals disappear. Punctuation becomes theoretical. The message on my screen is fully dressed and standing at attention.
-
-**Good night**, I type.
-
-**Good night.**
-
-I clean mud from the floor. The boots are damp inside, so I change socks and put them back on. I consider the coat. It is rainproof, warm, and miserable to sleep in. Saving it for somewhere worse feels sensible. Also, if I use everything on the first night alone, the first night has won.
-
-At 2:46 I lie down again. My body is tired enough to ache. My mind starts making bright, stupid inventories: coastlines, rooftops, locked rooms, winter roads. Places are not summoned by fear. Fear has tried.
-
-I turn the phone face down.
-
-The mattress gives beneath me.
-
-Rain needles my face.
-
-I am on my back, staring up through a grid of yellow steel. A lamp beyond it scatters light in the water on my eyelashes. Something clangs hard enough to punch the sleep from me.
-
-I roll to my side. My palm skids over wet concrete and catches on a jagged edge. Heat opens across the skin.
-
-There is a painted line beside my shoulder. Beyond it, rain stripes a darkness cut by two parallel rails. Not a passenger platform: no signs, no benches, no tidy edge. A service walkway, narrow and slick, roofed in sections by cable trays. Red lamps burn at ground level. Farther down, an alarm begins a patient electronic pulse.
-
-I get one boot under me. It slides. My hand slaps down again, and this time I see blood diluted pink around my fingers.
+I jerk upright. The bundles beneath me collapse inward with a crisp, enveloping crackle. They are tied stacks of packing sleeves, soft enough to take my weight and unstable enough to swallow one boot to the ankle. Sodium lamps hang high among roof trusses. Orange freight racks rise on either side. A roller door shakes as an engine revs beyond it, or behind it, or very close to it. My heart supplies several answers before my eyes supply one.
 
 Home.
 
-I seize the radiator knock and lose it beneath the alarm. Rug edge, lamp dust, rough spring. The walkway wobbles. A few steps away, a door stands under a shallow shelter, its green emergency bar bright in the rain.
+I pull up the rug under my left heel, the radiator's double knock, the dusty heat of the lamp, the spring's blunt pressure. The freight shed folds away.
 
-Home, now.
-
-The apartment takes me.
-
-I arrive in the correct place and the wrong arrangement, pitched forward with my weight committed to a floor that is no longer wet. My knees hit first. I catch myself on the wounded hand and make a noise like a chair dragged over tile.
-
-The lamp falls. Its shade rolls beneath the bed.
-
-For several seconds I stay on all fours, watching blood bead on my palm. The radiator knocks twice.
+My bedroom arrives exactly where I asked for it. I arrive sitting hard beside the bed because I was sitting hard on the bundles. My shoulder catches the mattress. The coat slides to the floor.
 
 I send **back**.
 
-Talune calls.
+Talune answers before I have checked both palms.
 
-I reject it.
+**What woke you?**
 
-She calls again. I reject that too and type **Fine. Small cut.**
+**Freight shed alarm. Five-star packing material.**
 
-The third call keeps vibrating against my wrist until I answer.
+**Hurt?**
 
-“What happened?” Talune says.
+I look at the red mark the phone strap has left on my wrist and the plastic groove across my cheek.
 
-“I slipped.”
+**No.**
+
+**Was the engine inside?**
+
+I listen, as if the apartment might know.
+
+**Outside, I think.**
+
+**Door between you and it? Other people? Could you stand?**
+
+I remember height, orange steel, a noise. I do not remember a person, an exit, or whether the bundle would have rolled under me if I tried to rise.
+
+**I am home**, I type.
+
+The typing dots appear, vanish, and return.
+
+**That is one fact.**
+
+I set the phone face down. The clock says 11:54. Nine minutes are missing. The pencil still rests against the unfinished word on the table, because I had not tied it to myself. I put it back in the kit and brush dust from my boots even though the boots are clean.
+
+At 12:18, I lie down. I turn the rug so the frayed edge is square again and set the fallen coat upright on the chair. The room does not require either correction. I make them anyway.
+
+The second landing is quiet enough that I sleep through most of it.
+
+I wake a little after two to cold dampness at my knees and the smell of crushed clover. Clouds turn the sky into one low gray lid. My shoulder rests on a cushion of long grass. No road lights move nearby. No animal breathes close enough to hear.
+
+A low building stands beyond a wire fence. Its corrugated awning shelters a strip of dry earth, perhaps twenty paces away. The gate between us hangs open. I could reach the cover. I could sit with my back to the wall, listen for people or livestock, and use the rest my body has already managed to take.
+
+The time on my phone is 2:07.
+
+Talune is waiting for one word.
+
+Home comes easily because I have been rehearsing it instead of looking at the field. Rug. Knocks. Dust. Spring. The damp air disappears.
+
+I land in a crouch beside the bed and send **back**.
+
+The answer appears at once.
+
+**Hurt?**
+
+**No. Damp field. I got nearly two hours. You were meant to sleep.**
+
+**I did.**
+
+Talune types carelessly when she has just woken. She loses capitals first, then punctuation, then whole necessary verbs. The sentence on my screen stands upright in polished shoes.
+
+**That sentence has punctuation.**
+
+**I was awake.**
+
+I peel off my damp socks. **Good night, Talune.**
+
+**Good night, Carys.**
+
+Talune has not slept at all.
+
+Mud stipples the boot seams. I wipe it away, replace the socks, and leave the weatherproof layer folded in the kit drawer. It is thin, warm, and hateful against sheets. I am saving it for a worse place, though randomness does not reward economy and cloth does not become more rainproof through neglect.
+
+At 2:39, the ordinary heaviness returns behind my eyes. I do not fight it. Fighting has never picked the destination either.
+
+The mattress warms my back.
+
+Rain strikes my face.
+
+I am flat on wet concrete beneath a yellow grid of cable supports. A red lamp pulses at floor level. Beyond a painted line, two rails run into darkness. The cold arrives first; then an electronic alarm punches through the last of sleep.
+
+I roll away from the edge. My right palm slides across grit and catches on a broken lip in the concrete. The edge cuts across the heel of my palm. When I snatch the hand back, rain thins the blood and draws it toward my wrist.
+
+The walkway is narrow. I wedge one boot beneath me and rise too quickly. The sole slips. Farther along, a shallow awning covers a gray door. Its lever hangs down and the door stands open by the width of two fingers. I see all of that without making any of it useful.
+
+The alarm pulses again.
+
+Home. Now.
+
+I seize the frayed rug, lose it, find the radiator knock beneath the alarm, and force the lamp's hot-dust smell into the front of my mind. The destination holds. My judgment does not improve merely because the destination is right.
+
+The bedroom replaces the service platform while my weight is pitched forward over one bent leg. My foot finds dry floor where it expects slick concrete and grips. I go over my knee. The wounded palm strikes the rug before I can turn it away. My shoulder clips the chair, and the coat spills down after me.
+
+The radiator knocks twice above me.
+
+I send **back**.
+
+Talune calls. I refuse it and type **small cut. handled.**
+
+She calls again.
+
+I take the phone into the bathroom and answer with my good hand. “You were supposed to be asleep.”
+
+“What cut you?”
+
+“Bad concrete.”
 
 “Where?”
 
-“Here.”
+“Service platform. Private, I think.”
 
-“Before here.”
+“What made you wake?”
 
-“Some kind of rail service platform.” I sit back against the bed. The room tilts a fraction and rights itself. “Not a public one. I don't know. There was an alarm.”
+“Rain. Alarm. Pick one.”
 
-“Are you bleeding?”
+“Were the rails live?”
 
-“A little.”
+I turn on the tap. Pink water curls into the basin. “They did not introduce themselves.”
 
-“Wash it.”
+“Carys.”
 
-“I know how cuts work.”
+“I was on the walkway, not the rails.”
 
-“Then why are you still sitting on the floor?”
+“Are you hurt anywhere except your hand?”
 
-I look automatically toward the corner of the ceiling, where there has never been a camera. “Go to bed, Talune.”
+“My pride is beyond repair.”
 
-“I was in bed.”
+“Your head. Knees. Ankle.”
 
-“You were staring at your phone.”
+I test each while water runs over the cut. My right knee aches where it hit; the ankle bears weight. No head pain. “Knee. Hand. Nothing dramatic.”
 
-“Yes.”
+“Were you fully awake when you came back?”
 
-She says it without even trying to protect my feelings.
+“I named the room and reached it.”
 
-I push myself upright, using my elbow on the mattress. “I am home. You can sleep.”
+“You reached it on the floor.”
 
-“Are you dizzy?”
+“The floor is part of the room.”
 
-“You are not listening.”
-
-“Because you sound dizzy.”
-
-“I said I'm home.”
-
-“And I can hear the part you're using that word to cover.”
-
-My hand throbs. In the bathroom, I run it under water and wedge the phone between my ear and shoulder. “You moved out so you wouldn't have to do this.”
-
-“I moved out because the yellow cupboards made me happy and because I would like to invite people over without telling them that my roommate may disappear between the starter and dessert.”
-
-“So invite them.”
-
-“I intend to. That's not the same as wanting you dead in a drainage culvert.”
-
-“I wasn't in a drainage culvert.”
-
-“Congratulations.”
-
-“Stop monitoring me.”
-
-There is a pause. Water ticks against the basin. When Talune speaks again, her voice is quieter.
-
-“All right.”
-
-The answer catches where resistance would have been easier. I tear open the gauze packet with my teeth. “All right what?”
-
-“I will stop.”
-
-“You can't just turn your phone off.”
-
-“You told me to.”
-
-“I told you to sleep. If I call because I need you, that's different.”
-
-“Then call because you need me.”
-
-“How am I supposed to know if I need you?”
-
-“Carys.” Her patience tears. “You want me unconscious but also available to confirm that every decision you made while I was unconscious was safe.”
-
-“I want you to be my friend.”
-
-“I am your friend. I cannot be the little green light that comes on when you get back.”
-
-I press gauze to my palm. It stings sharply enough to clear the last fog. “You always wanted the messages.”
-
-“I wanted to know you were alive.”
-
-“Same thing.”
-
-“No. It isn't.” A cupboard opens on her end of the call, followed by the soft knock of glass on wood. She is in her yellow kitchen, probably filling the blue mug again. “What was beside you on the platform?”
+Talune does not take the joke. “What was behind you?”
 
 “Tracks.”
 
-“On the other side.”
+“Beside you.”
 
-I close my eyes. Rain. Cable trays. Red ground lamps. A green bar. “A door.”
+“Cable racks. Lamps.”
+
+“Shelter?”
+
+I pull a square of gauze from the kit with my teeth. The image returns in pieces: gray door, lowered lever, black line between door and frame, awning beating with rain.
+
+“There was a door.”
 
 “Locked?”
 
-“I don't know.”
+“Open a little.”
 
-“Cover?”
+“How far?”
 
-“Some.”
+“Several steps.”
 
-“Could you have got out of the rain?”
+“And you left before you knew whether it opened.”
 
-“I don't know.”
+“I came home.”
 
-“In the field?”
+“You came home before finding out whether you could stand.”
 
-I say nothing.
+The gauze darkens in my palm. I replace it. “Home is known. That's the advantage.”
 
-“You came back because I was waiting,” Talune says.
+“Knowing the address did not make your body ready to arrive.”
 
-“I came back because that is what I do.”
+“You wanted immediate messages. I gave you immediate messages.”
 
-“Those are the same answer.”
+“I wanted to know you were alive. Tonight you have sent me **back** three times and made me ask whether you were bleeding after each one.”
 
-The bathroom light is too white. On the floor by my boot, a blade of clover worked loose from the tread has survived the cleaning cloth. I crouch, pick it up, and drop it in the bin.
+“I wasn't bleeding after each one.”
 
-“The shed could have had a forklift coming through,” I say. “The field could have had a bull. The platform had rails. Home is safer.”
+“That's your defense?”
 
-“Usually.”
+I pull the cloth tape against my teeth. It stretches without parting.
 
-“Reliably.”
+“Kitchen shears,” Talune says.
 
-“You just arrived reliably on your knees.”
+“Across the apartment.”
 
-That is unfair, chiefly because it is exact.
+“Then turn the tape sideways.”
 
-Talune exhales near the receiver. “I don't want you to stay somewhere dangerous to prove you can. I want you to look before you spend the one useful thing you know.”
+I obey because this is the kind of thing her attention does well. The tape parts cleanly. I anchor the gauze around my palm.
 
-I know home. That is what she means. The room is not a rope attached to my waist; it is a sensory fact I can hold when I am properly awake. Tonight I have been grabbing it like a handle before I know whether I can stand.
+“You moved out,” I say. “You don't have to keep doing this.”
 
-“Three questions,” Talune says. “Not to me. You answer them there.”
+“I moved out because I wanted the yellow cupboards, Carys. I also want to turn my phone over and sleep.”
 
-“I hate questionnaires.”
+“Do it.”
 
-“Awake?”
+“And if you call?”
 
-I wait.
+“Answer.”
 
-“Hurt?” she continues. “Safer here or known place?”
+For four breaths I hear only the bathroom fan and the tap in Talune's kitchen.
 
-“That third one has too many words.”
+Talune says, “You tell me to sleep, then tell me to answer before the second ring.”
 
-“You can afford the metal.”
+“I want one person I trust to pick up if something is wrong.”
 
-I turn the tag over. The back is blank except for scratches left by years of keys I no longer carry. “And then?”
+“Then call when something is wrong. I will not stay awake for every **back**.”
 
-“If you need help, you call me. Once. If I don't answer, you use the emergency number. If you don't need help, send a message when you can, and I do not have to answer.”
+The tape has pulled a crease across my skin. I unwind it and start again. “How am I meant to know which wrong deserves a call when I've just woken on railway concrete?”
 
-“How will I know you got it?”
+“Look at the place before you leave it.”
 
-“You won't.”
+“I knew about the rails.”
 
-The word opens a small, cold place in me that has nothing to do with weather.
+“After I asked. You didn't know about the open door until I kept asking. In the shed you couldn't tell me whether a vehicle was coming through. In the field you left a place you called fine because you expected me to answer.”
 
-“I'm three streets away,” she says. “I'm still going to worry. I am just not going to stay awake as evidence that worrying works.”
+“I did not say that.”
 
-My palm has stopped bleeding through the gauze. “What if the next place is worse?”
+“You checked my punctuation.”
 
-“Then it is worse whether I'm watching my phone or not.”
+I have no dry answer ready. The bathroom fan pushes a thin whine through the room. My cut stings in time with my pulse.
 
-Her voice shakes at the edge of the sentence. She covers it by drinking from the mug.
+Talune continues, precise rather than gentle. “I know which details you skip. I cannot stay awake every night to ask for them.”
 
-I take the pencil from my kit. On a strip of waterproof tape from the bathroom drawer, I print the questions in letters that grow smaller toward the end: **AWAKE? HURT? SAFER HERE OR KNOWN PLACE?** I wrap the tape around the back of the tag.
+I turn the steel tag over. Its blank back is scratched by years of ordinary keys I stopped carrying after one ruined magnetic fob too many. I press a strip of cloth tape across it.
 
-“Done,” I say.
+“Fine,” I say. “Three questions, since you like them.”
 
-“Good.”
+“Not questions for me.”
 
-Neither of us hangs up.
+That stops the pencil.
 
-Finally Talune says, “I'm putting my phone on sleep mode. Your calls will ring. Messages won't.”
+I picture the service platform. I had a route home. I used it before I knew what shape I was in.
 
-“Good.”
+On the tape I print **AWAKE?**
 
-“Good night, Carys.”
+Talune hears the pencil. “Not awake as in you can say your name. Awake enough to choose.”
 
-“Good night.”
+“I know my name.”
 
-The line goes quiet.
+“You thought the freight engine was on two sides of a wall.”
 
-I finish cleaning the cut and bandage it without making the dressing so thick I cannot close my hand. In the bedroom, I put the lamp back together. I remove the damp socks, dry my feet, and dress again. This time I add the thin weatherproof layer and zip it to my throat. It whispers whenever I move. I have been saving it for a hypothetical worse place, as if fabric could be used up by being worn.
+I add **HURT?** beneath the first word. “Second insult recorded.”
 
-Cash. Gauze. Foil blanket. Pencil. Tag. Phone. Boots.
+“What changes the decision?”
 
-I do not reset the rug.
+I inspect the bandage. It is snug without whitening my fingers. “Weather. Moving equipment. People. Exits.”
 
-At 3:37, I lie down. The jacket is unpleasant against the sheet. My palm pulses. Talune's contact shows a crescent beside it. Her phone is quiet; the icon tells me nothing about her.
+“And the known place.”
 
-I put the phone face down and let my eyes close before I feel ready.
+The bedroom will arrive where I ask for it. It will not straighten my knees or slow my fall. I fit the last words into two compressed lines: **SAFER HERE OR KNOWN PLACE?**
 
-The hum comes first.
+“Can you read it?” Talune asks.
 
-It is soft and steady, threaded with an occasional plastic tick. My hip rests on coarse carpet. My face is warm, but cold has found the gap above my collar.
+I hold the tag near the bathroom light. “Yes.”
 
-I open my eyes.
+“Good. If you need hands or a voice, call me once. I will answer. If the call cannot reach me, use the emergency number on the front.”
 
-Metal shelving rises on two sides, stacked with boxes of envelopes, toner cartridges, and paper cups. An amber light glows on a power strip beneath a desk. There is no window. Above me, a vent breathes refrigerated air into the cramped room.
+“And if I don't need help?”
 
-I do not move yet.
+“Decide what to do. Send facts when you can. I am not waiting for proof that you returned.”
 
-Awake?
+I close my fingers. The bandage holds. “What if the next place is worse?”
 
-Enough to read the labels twice. The clock on my phone says 5:52.
+“My ringer will be on.”
 
-Hurt?
+“That isn't much.”
 
-The bandaged palm is dry. My head is clear. My feet are warm. The carpet has pressed a grid into my cheek, but this does not qualify.
+“No.”
+
+I carry the phone to the bedroom. On Talune's end, a cupboard closes, then a tap runs. She is preparing for bed instead of preparing to watch me.
+
+“Stay until I get the wet clothes off,” I say.
+
+“This is your one call.”
+
+“I know.”
+
+“My messages are muted now. Your calls will ring.”
+
+I strip the damp shirt away from the secured kit, dry my shoulders, and pull on the thin weatherproof layer. It whispers at every movement. The boots stay. Cash, spare gauze, foil, pencil, taped tag, phone. Snaps and knots, nothing that expects magnetism to remember what it was.
+
+A mattress frame creaks through the phone.
+
+“The fingers are warm,” I say, flexing my palm. “The tape's holding.”
+
+Talune does not answer. Her breathing has lengthened. After half a minute, one small blunt snore reaches the receiver, the sound she has denied making since the first apartment.
+
+For once, I do not wake her to win the argument. I end the call.
+
+I leave the rug crooked. I leave the fallen coat on the floor because I am wearing the layer that matters. At 3:26, I lie down with my phone face down. My palm throbs. Sleep comes before I can arrange my face for it.
+
+Cold air finds the gap at my collar.
+
+I open my eyes on coarse office carpet. A steel shelf rises at my shoulder, loaded with envelopes, paper cups, and sealed boxes of toner. The hum above me is a ventilation grille. It has been blowing on my neck long enough to wake me; the phone says 5:48.
+
+Home is ready at the edge of thought. I leave it there.
+
+The tag lies against my ribs. I turn it over.
+
+Awake? I read the nearest box label twice, check the time again, and follow the vent's hum to its source. My thoughts stay in order.
+
+Hurt? The bandaged palm is dry. My knee bends. No new pain. My fingers and toes are warm enough, though the room is cold.
 
 Safer here or known place?
 
-Here is cold, private, and probably trespassing. Home is known. Home is also three seconds away once I can summon it without panic, and nothing in this room requires three seconds.
+I sit up slowly, brace the bandaged hand against my thigh, and wait for the room to stay level.
 
-I sit up slowly. The storeroom door has no interior lock. A narrow pane of wired glass shows a dark office beyond: blank monitors, wheeled chairs, the green glow of an exit sign. No voices. No machinery. Beside the door hangs a laminated fire plan. I find the storeroom square, trace the short corridor to a stairwell, and listen.
+Here is somebody else's storeroom. My sleeping body arrived supported between a low cabinet and the shelving, hidden from the door but not protected by a lock. Through a wired-glass pane I can see a dark office: chairs tucked under desks, blank monitors, a cleaner's cart parked near a green exit sign. No one moves. No conveyor or vehicle shares the room with me. A fire plan beside the door shows a stairwell at the end of one short corridor.
 
-Silence, except for the vent and the blood moving in my ears.
+The door has an ordinary lever on my side. Beyond the office, trespass and an alarm remain possible. Home is known and empty. Here, for the moment, the floor is stable and the corridor is silent. I can hold the bedroom clearly, but I have not yet tested my legs. Five minutes of listening is safer than carrying another bad posture home.
 
 I type one message.
 
 **awake, unhurt, staying five minutes**
 
-It shows as delivered. No reply appears. No reply is required.
+It shows delivered. Nothing follows. Talune is sleeping three streets away; I heard her begin.
 
-I turn the phone face down on the carpet and study the office through the glass: the sightlines between desks, the stairwell door, the shadow where a cleaner's cart might be parked. If the corridor remains empty, I can walk out. If it changes, I can come home.
+I set the phone face down on the carpet, shift with my back clear of the shelving, and study the strip of office visible through the glass. I count the desks between me and the stairwell. I find the ceiling camera and the angle it cannot see. I test the door without opening it and feel which way the latch gives.
 
-Four minutes remain. I use them to learn the door.
+The five minutes start. I use them to learn the exit.
