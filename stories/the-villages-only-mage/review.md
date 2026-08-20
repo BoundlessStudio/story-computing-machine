@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The exact visitor question opens a warm, materially specific discovery of immense reserve and narrow control. The teacher's precision, road mage's logistics, youngest mage's appetite for scale, neighbor's concrete resistance, and protagonist's changing answers remain distinct; the final feeder-pipe refusal enacts rather than restates the bounded choice.
+- Notes: The clean third-person-to-second-person pivot lets the travelers' alarm frame the exact prompt question before the sounding earns its reversal. The reserve remains unmeasured and non-sentient, the approach establishes the storm before it closes the pass, and the final ward exercise enacts reciprocal learning without requiring departure; the teacher's caution, road mage's logistics, youngest mage's appetite for scale, and village mage's practical precision remain distinct.
