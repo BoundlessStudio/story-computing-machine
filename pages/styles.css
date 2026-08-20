@@ -146,7 +146,7 @@ h1 {
 
 .story-grid {
   display: grid;
-  align-items: start;
+  align-items: stretch;
   gap: clamp(1rem, 2vw, 1.5rem);
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 15.5rem), 1fr));
   list-style: none;
@@ -155,6 +155,7 @@ h1 {
 }
 
 .story-card {
+  height: 100%;
   min-width: 0;
 }
 
@@ -166,6 +167,7 @@ h1 {
   color: inherit;
   display: flex;
   flex-direction: column;
+  height: 100%;
   overflow: hidden;
   text-decoration: none;
   transition: border-color 150ms ease, box-shadow 150ms ease, transform 150ms ease;
@@ -188,8 +190,9 @@ h1 {
 
 .card-copy {
   display: flex;
+  flex: 1;
   flex-direction: column;
-  gap: 0.85rem;
+  gap: 1rem;
   padding: 1.15rem 1.2rem 1.25rem;
 }
 
@@ -198,14 +201,43 @@ h1 {
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.2;
+  margin: 0;
   text-wrap: balance;
 }
 
-.card-prompt {
+.card-details {
+  border-top: 1px solid var(--line);
+  display: grid;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  gap: 0.8rem 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: auto 0 0;
+  padding-top: 0.9rem;
+}
+
+.card-detail {
+  min-width: 0;
+}
+
+.card-detail:last-child {
+  grid-column: 1 / -1;
+}
+
+.card-detail dt {
   color: var(--muted);
-  display: block;
-  font-size: 0.9rem;
-  line-height: 1.45;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  margin-bottom: 0.28rem;
+  text-transform: uppercase;
+}
+
+.card-detail dd {
+  color: var(--ink);
+  font-size: 0.75rem;
+  line-height: 1.3;
+  margin: 0;
 }
 
 .prompt-label {
@@ -219,33 +251,51 @@ h1 {
   text-transform: uppercase;
 }
 
-.story-meta {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  font-size: 0.7rem;
-  gap: 0.45rem 0.75rem;
-  margin-top: auto;
-}
-
+.rating,
 .status {
   background: #eee5d9;
   border-radius: 999px;
   color: #5b4632;
   display: inline-block;
+  font-size: 0.62rem;
   font-weight: 700;
   letter-spacing: 0.035em;
   padding: 0.18rem 0.55rem;
   text-transform: uppercase;
 }
 
-.status-final,
-.status-candidate {
+.status-canon,
+.status-final {
   background: #e1eddf;
   color: #345d35;
 }
 
+.status-reviewed {
+  background: #e2e8f4;
+  color: #344f78;
+}
+
+.status-candidate {
+  background: #f2e8d2;
+  color: #6a4c1f;
+}
+
 .status-abandoned {
+  background: #eee1df;
+  color: #74453f;
+}
+
+.rating-pg {
+  background: #e1eddf;
+  color: #345d35;
+}
+
+.rating-ya {
+  background: #e2e8f4;
+  color: #344f78;
+}
+
+.rating-r-plus {
   background: #eee1df;
   color: #74453f;
 }

@@ -446,7 +446,22 @@ class StorySystemTests(unittest.TestCase):
             self.assertEqual(("sample",), tuple(item.slug for item in catalog.stories))
             self.assertEqual(catalog, build.load_catalog(snapshot))
             self.assertEqual("covers/sample.jpg", catalog.stories[0].cover)
+            self.assertRegex(catalog.stories[0].edited, r"^\d{4}-\d{2}-\d{2}$")
+            self.assertEqual("PG", catalog.stories[0].rating)
             self.assertTrue((root / "covers/sample.jpg").is_file())
+
+    def test_content_rating_maps_to_supported_card_symbols(self):
+        cases = {
+            "- Tone and audience: broadly accessible unless specified": "PG",
+            "- Audience/content rating: Teen / PG-13; non-graphic peril.": "YA",
+            "- Audience/content rating: Adult characters; suggestive but non-explicit.": "YA",
+            "- Tone and audience: adult, hard-R crime noir.": "R+",
+            "- Explicit user ruling: explicit consensual sexual content may remain on the page.": "R+",
+            "# Prompt\n\n## Prompt\n\n> A quiet walk.": "PG",
+        }
+        for source, expected in cases.items():
+            with self.subTest(source=source):
+                self.assertEqual(expected, build._content_rating(source))
 
     def test_same_day_catalog_order_uses_source_file_time(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -501,6 +516,8 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(sorted(timestamps, reverse=True), timestamps)
         self.assertEqual(len({story.slug for story in catalog.stories}), len(catalog.stories))
         self.assertTrue(all(story.cover == f"covers/{story.slug}.jpg" for story in catalog.stories))
+        self.assertTrue(all(build.DATE.fullmatch(story.edited) for story in catalog.stories))
+        self.assertTrue(all(story.rating in build.RATINGS for story in catalog.stories))
 
     def test_build_uses_stored_catalog(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -538,13 +555,24 @@ class StorySystemTests(unittest.TestCase):
         self.assertLess(rendered.index("<h1>"), rendered.index('class="prompt"'))
         self.assertLess(rendered.index('class="prompt"'), rendered.index('class="story-cover"'))
 
-    def test_index_cards_include_title_cover_and_prompt(self):
+    def test_index_cards_include_requested_metadata(self):
         story = build.load_catalog().stories[0]
         rendered = build.render_index(build.Catalog((story,)))
         self.assertIn('class="story-card"', rendered)
         self.assertIn(f'src="{story.cover}"', rendered)
-        self.assertIn(f'<span class="story-title">{build.html.escape(story.title)}</span>', rendered)
-        self.assertIn(build.html.escape(story.prompt), rendered)
+        self.assertIn(f'alt="Cover art for {build.html.escape(story.title)}"', rendered)
+        self.assertIn(f'<h2 class="story-title">{build.html.escape(story.title)}</h2>', rendered)
+        self.assertIn("<dt>Date created</dt>", rendered)
+        self.assertIn(f'datetime="{story.created}"', rendered)
+        self.assertIn("<dt>Date edited</dt>", rendered)
+        self.assertIn(f'datetime="{story.edited}"', rendered)
+        self.assertIn("<dt>Status / tag</dt>", rendered)
+        self.assertIn(build._story_label(story), rendered)
+        self.assertIn("<dt>Word count</dt>", rendered)
+        self.assertIn(f"{story.word_count:,}", rendered)
+        self.assertIn("<dt>Rating</dt>", rendered)
+        self.assertIn(f'>{story.rating}</span>', rendered)
+        self.assertNotIn('class="card-prompt"', rendered)
 
     def test_output_cannot_replace_repository_root(self):
         with self.assertRaises(ValueError):
