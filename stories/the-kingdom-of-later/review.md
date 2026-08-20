@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Della | new | Rush-chair mender and focal narrator; no exact, alias, close-spelling, or confusing reuse found in universe authority, the legacy name baseline and story files, or passing current inventories. |
+| Dulcie | new | Rush-chair mender and focal narrator; no exact, alias, close-spelling, phonetic, or confusing reuse found in universe authority, the frozen legacy baseline and files, or passing current inventories. |
 
 ## Places
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The story fulfills the prompt, remains consistent with current universe authority and its own later-moth rules, and materially complies with the prospective craft profile.
+- Notes: The six commitment/object/release chains, borrowed-tool custody, deposits, balances, rent, and supper remain causally accounted for. Living later-moths alone supply magical action; their cocoons and every ordinary object, record, and agreement remain inert. Customer dialogue preserves distinct practical stakes, and the final exchange demonstrates Dulcie's changed method without explaining it twice.

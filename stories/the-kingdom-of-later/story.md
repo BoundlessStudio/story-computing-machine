@@ -8,252 +8,364 @@ canon: false
 
 # The Kingdom of Later
 
-“Later today,” I said, which was how rent day began.
+Fourteen coppers were trapped in the apothecary’s chair when the rent collector came for eleven.
 
-The collector stood in my doorway with his ledger tucked beneath one elbow. He was a narrow man who disliked entering workshops, where glue caught at his soles and every horizontal surface threatened his cuffs. Behind him, first light showed the trade lane one shutter at a time. Somewhere a baker beat yesterday’s flour from a cloth. Somewhere else a hammer struck three hopeful blows and stopped.
+I had the chair upside down on my bench, its high back against my shoulder and its four applewood feet pointing toward the rafters. The seat was woven. The joints were tight. One last band of fine rush and waxed cord would close the raw edge beneath the front rail. Fourteen coppers for the balance, once the apothecary had sat, risen, and declared the thing fit.
 
-“Final bell,” the collector said. “Coin, Della. Not another explanation shaped like coin.”
+Eleven for the room. Three for supper. Nothing difficult remained except doing it.
 
-“The apothecary’s chair only wants binding. I’ll deliver it later today and pay you from the balance.”
+The collector rapped his pencil against the open door. “Dulcie. Eleven at final bell.”
 
-There was a dry flutter above my head.
+I turned the chair upright so he could see how nearly money it was. “One binding run.”
 
-The collector looked up. I did not. Looking never helped.
+He did not look at the polished arms. He looked at the clock bell’s shadow, still lying low across the trade lane. “My grain tally closes at final bell. I can pass eleven coppers to the factor. I can pass a finished thing at a value he recognizes. What can I pass from this room?”
 
-A blue-grey later-moth slipped from the rafters, broad as my palm and furry around the body. It circled once, choosing. On my bench lay the high-backed chair, its new rush seat woven tight and square. Beside it were my binding knife, my tea cup, a heel of bread, and the rent notice. I lunged for the knife. The moth reached it first.
+“I’ll put the finished chair in the apothecary’s hands before final bell.”
 
-Silk flew from its mouth in a pale ribbon. Two turns wrapped the horn handle. Four made a cocoon. Before I could get a grip, the moth lifted the knife and bumped upward with it, not gracefully but successfully, into the dark between two beams.
+A soot-blue later-moth unhooked itself from the beam above him.
 
-The collector made a mark in his ledger.
+The binding knife lay on the bench where I had set it while lifting the chair. Its crescent blade was no longer than my hand; the moth’s body was scarcely longer than my thumbnail. That did not keep the creature from landing on the horn handle and pouring silk over it. I caught the blade between two fingers just as the first white threads tightened.
 
-“That mark had better mean you witnessed an act of moth.”
+The moth beat its wings. The knife sawed my fingertip. I let go.
 
-“It means final bell.” He tapped the page with his pencil. “Promises do not pass into the grain account. Your landlord cannot eat them, and the miller will not grind them.”
+With the handle bundled and the blade shining out like a sting, the moth climbed in jerks toward the loft hatch. It vanished through the gap, carrying the one tool shaped exactly for the work.
 
-“I know how accounts work.”
+The collector watched the knife vanish. “What remains on your bench?”
 
-“You know how chairs work. I recommend it.”
+“A kitchen blade and neighbors.”
 
-He left before I found a reply that would not attract wings.
+He put the ledger under his arm. “Short rent comes from my purse. That turns my children’s flour into the landlord’s roof. Final bell. I prefer your chair.”
 
-Later-moths were not rare, wicked, or impressed by good intentions. Every child knew the rule: give a task a sincere place in the future, and a moth would wrap up one idle, portable thing you would need to do it. A hammer already swinging was safe. A person was safe. An anvil was too much even for the large brown breed that lived over the palace kitchens. Everything else was a candidate.
+He went on down the lane.
 
-People adapted. Roofers tied nails to their belts. Tailors held their shears while discussing delivery. The royal council, it was said, had kept the same cushion under active consideration for thirty-two years. In the trade lane we spoke warmly of possibilities and never set down a tool while naming a day.
+Every child in the kingdom knew the limits. No later-moth could fly with that much applewood. It could not take me, anything else alive, or a tool moving under the hand. But a sincere task placed aloud in the future drew a living moth within hearing, and the moth wrapped one idle, portable thing its speaker would need. The creature knew nothing of wisdom or honesty. It was an animal, not a magistrate, and its cocoon was only silk.
 
-I had set down my knife.
+I put my onion knife to a spare rush and pulled. The blunt edge flattened the green strand, then skated sideways. A smear of onion skin still clung near the hilt. I could sharpen it, except my little whetstone was in my binding basket, and if I was going begging for an edge, I might as well beg for a proper one.
 
-The chair did, in truth, want only binding. I had repaired the loose left joint, re-rushed the seat, and rubbed the arms until the applewood shone. The apothecary needed the tall back because her hip caught when she rose from low chairs. She had paid a deposit six weeks before. The remaining twelve coppers would cover my rent and leave two for soup.
+I slung the basket over my arm. Inside it lay my cord shuttle, awl, whetstone, two bundles of soaked rush under a wet cloth, and a block of beeswax. A whole small workshop, portable enough to be prey.
 
-I fetched my kitchen knife. Its blade was good for onions, poor for splitting rush, and insulted by both. It mashed the first wet strand. The second slipped and scored a pale line across the new seat.
+The cobbler across the lane was cutting soles. His skiving knife whispered through leather while seven chalked shapes waited on his board. Because the knife was moving, two brown later-moths on his ceiling ignored it.
 
-Across the lane, the cobbler was hanging one boot outside his shop. It was the traditional signal that he was open, although its missing buckle had kept it from being sold since spring.
+“Six cuts,” I said. “I need the knife for six cuts.”
 
-“Need your skiving knife,” I said.
+“It needs me for seven pairs.”
 
-“Need my boot buckle.”
+“Mine pays rent.”
 
-We both looked up at his rafters. Small cocoons hung there among bundles of laces, each one grey with dust.
+“Mine pay for leather already walking around town.” He drew another clean crescent. “What went into your loft?”
 
-“For an hour,” I said. “I’ll hone it and bring it back before noon.”
+“Only my knife.”
 
-The words escaped whole. A later-moth darted from behind the boot sign, flew past my ear, and settled on the little whetstone I had taken from my apron and set on his sill while I tested the knife’s edge.
+His low work chair occupied the wall behind mine. I had replaced its front rail and laid the first courses of a new seat, enough to make the unfinished side look like shadow from my doorway.
 
-“Hold still,” the cobbler said.
+I held out my hand. “Let me take the knife. I’ll bring it back under your finished chair before third bell.”
 
-I snatched for the stone. Too late. Silk tightened around it and the moth jerked it from the sill. The small weight pulled the creature almost to the floor before it gained height and vanished into his loft.
+The cobbler stopped cutting.
 
-The cobbler gave me a look usually reserved for customers who stood in wet leather and asked why their shoes pinched.
+The promise stirred a pale moth behind his boot rack. My cord shuttle was on top of the basket, unattended. The moth struck it, wound the waxed linen into its own silk, and heaved upward. The shuttle knocked once against the cobbler’s sign before disappearing through a crack into the shared loft above our row.
 
-“You’ve done me a kindness,” he said. “That knife hasn’t been honed since winter.”
+The cobbler looked from the crack to me. “My chair needs that cord.”
 
-He lent it anyway. He had sat on a three-legged milking stool for the past month because I had his work chair in my shop, waiting for a new rush rail. Kindness and self-interest often shared a coat in the lane.
+“So does mine.”
 
-His blade pulled at the rush. I could make it cut if I found a stone. The grinder two doors down owned twenty-seven, all chained to his wheel by little iron leashes. He also owned a lunch basket whose handle had come unwoven.
+“And yet you said it.”
 
-“Five strokes on the fine face,” I said. “That is all.”
+“I need the blade.”
 
-“The chain stays on.”
+He wiped the blade, shoved it into a wooden sheath, and slapped it into my palm. “The knife does not cross the lane alone.” He followed me over.
 
-“Naturally.”
+The dyer kept waxed cord in coils above her indigo vat, each coil tied with a different scrap so wet hands could tell the weights. Steam had silvered her hair around the temples. She pinched the strand I needed and glanced through her open door toward my shop.
 
-He put his foot on the chain.
+“My two vat stools,” she said.
 
-I should have kept my mouth shut. Instead I saw the basket near his stove and heard myself say, “I’ll mend that handle as soon as this chair is done.”
+“On my floor.”
 
-Flutter. Blue-grey this time. It sped out through his doorway, crossed the lane, and disappeared into mine.
+“They were on your floor when I paid the deposit.”
 
-I ran after it. The grinder ran too, because entertainment before breakfast was not to be wasted.
+“One leg wants shaving. The second seat wants its edge turned. Noon will find both under your knees.”
 
-We arrived as the moth hoisted my cord shuttle from the bench. I had left the shuttle ready with waxed linen, the exact thing required to bind the finished edge. It rose past my reach and joined the knife above the beam.
+I had taken out my awl to pry a knot loose from the basket strap. I set it down to catch the coil she tossed. A grey moth came from behind the warm vat and wrapped the awl before it had stopped rolling. Its feet scrabbled on the wood; then silk took the weight, and it hauled the tool through the upper vent.
 
-“You could mend the basket with rush,” the grinder observed.
+The dyer pulled the cord back out of my hand.
 
-“I could bind the chair with cord.”
+“The saddler hides two awls from borrowers,” she said. “Try the one he admits to.”
 
-“Could you?”
+She measured six armspans, cut them, and wound them around my wrist. “At noon, a standing dyer owns this cord again.”
 
-I gave him back his unused stone and closed the door on his satisfaction.
+She came after me anyway.
 
-By the time the sun cleared the chimneys, I had borrowed twine from the baker, an awl from the saddler, and a hank of fine rush from the dyer, whose copper vats steamed at the end of the lane. Each favor came with a need attached. Each need drew a reassurance out of me. The baker’s settle would be reseated after the apothecary’s chair. The saddler’s split cane back would be next. I would return rush equal to the dyer’s hank after market day.
+The saddler was punching a line of holes through a harness strap. He listened while the awl rose and fell. The tool remained safe in motion, though a dun moth crawled along the ceiling directly above it.
 
-The moths took my awl haft, the small shears I used for trimming undersides, and the wooden measure with the chair widths notched along its edge. They could not lift my bench. One tried. It silked a corner, beat its wings until sawdust danced, then abandoned the attempt with what I chose to interpret as embarrassment.
+“No,” he said at the end.
 
-The lane had been built out of such bargains. The baker’s oven door lacked a hinge promised by the smith, who was waiting for bellows leather from the saddler, who needed the cobbler’s waxed thread, which hung in a plum-sized cocoon over the cobbler’s stove. We got by with wedges, string, three-legged stools, and much talk of tomorrow.
+“I have not asked.”
 
-Empty cocoons at least had value. Once a promise was fulfilled or withdrawn, the silk split and dropped whatever it held. The clean husks smelled of cedar and kept common cloth moths from cupboards. The dyer bought them by the sack, cursing living later-moths while lining her wool chests with the remains of their work. A nuisance that could be sold was nearly a crop.
+“You came without an awl and with the dyer. You have asked all the way down the lane.”
 
-I wedged the apothecary’s chair between my knees so no moth could call it unattended and tried binding with baker’s twine. It broke. The borrowed awl had no business piercing applewood; its point bent. When I reached for the fine rush, the bundle was gone.
+“My applewood chair needs four holes opened. Your cane-backed stitching chair needs one edge and a polish.”
 
-Not wrapped. Gone.
+“It needs to be behind my spine. I have eight girths to stitch.”
 
-I looked up. A new cocoon, long as my forearm, swung above the loft hatch.
+He drove the last hole, but before he could set the awl down I closed my hand over its handle and pushed its point into a scrap of hide. Active work was active work, even when useless.
 
-Someone knocked.
+“I’ll put your chair at the stitching frame by the dinner bell,” I said, piercing the same hole twice.
 
-The baker filled the doorway. Flour silvered both sleeves, and the heat of her ovens came with her.
+The dun moth dropped. It could not silk the awl while I worked it. My whetstone sat in the open basket instead. The creature covered the stone in three quick loops and flew so low with it that its cocoon dragged a line through the saddler’s floor dust before it rose.
 
-“My settle,” she said.
+The saddler nodded at the missing stone. “Now what?”
 
-It stood against the far wall with half its old seat stripped away. I had placed a folded cloth over the unfinished half, which made it look deliberate from a distance.
+“The grinder has one.”
 
-“The rail needed more soaking than I expected. I’ll bring it round this afternoon.”
+He looped a cord through the awl’s handle and kept the other end. “The awl stays on this.” I pulled once to test the reach, then carried it away without speaking. He joined the dyer and cobbler behind me, the half-punched harness over one shoulder.
 
-The rafters rustled. A moth dropped, selected my glue brush, and wrapped it before my eyes.
+At the grinder’s, sparks were running from a scythe blade. His stool was one of my six commissions: a three-legged thing with the outer courses of its round rush top missing and a split leg below. I had cut a replacement leg but not fitted it. He saw the saddler, the dyer, and the cobbler in my wake and lifted his face shield.
 
-The baker watched it go. “This afternoon.”
+“No credit,” he said.
 
-“Toward evening.”
+“Your palmstone. Ten minutes.”
 
-Another flutter began. I coughed loudly over the rest of the sentence.
+“Six shear blades wait behind that scythe.”
 
-She took the cloth off the settle. “It is drier than my flour bin.”
+“Your stool will be fitted at the wheel before the fourth bell.”
 
-“Too dry is also a soaking problem.”
+The fine rush in my basket had been soaking since dawn, wrapped in wet sacking. A broad cream-colored moth plunged straight into it. Silk cinched the bundle at the middle. The moth could lift it, barely. It bounced off the grinder’s wheel, recovered, and dragged the rush into the loft on a diagonal.
 
-Her expression suggested I was fortunate she needed every loaf for sale. “I will come back before final bell.”
+The grinder switched off the wheel. Silence landed harder than the sparks had.
 
-She met the saddler outside. Behind him came the grinder carrying his basket, the dyer with three rush-bottomed nursery stools on a handcart, and the cobbler, who had crossed the lane by bringing his milking stool with him. They had not conspired. Morning had simply reached the hour at which my promises matured.
+“What do you plan to put on my stool?” he asked.
 
-There were six commissions in the workshop, including the high-backed chair. The grinder’s basket made a seventh future task, though at least it had no deposit attached. I had kept the six paid pieces visually close to completion. The saddler’s chair had a back but no seat. The dyer’s first stool had a seat but one short leg. The grinder’s work stool wore a handsome new rush pad above a replacement leg I had not cut. I had become skilled at turning unfinished sides toward walls.
+“The rush seller has stock.”
 
-I told them the sort of things that sounded small. A final binding. A last peg. A little drying time. I said “after dinner,” “by evening,” and “no later than tomorrow” while moths launched like sparks from a smoky chimney.
+He put the palmstone in my basket. “She also has your settle.”
 
-One took the peg box. One took my mallet. One carried off the spool of cane. The smallest attempted the pencil from behind my ear, discovered that I was still using it to point at the ledger, and chose the cord binding my chair wedges instead. The wedges rattled around my customers’ shoes.
+The grinder followed us.
 
-The customers stood among the settling cocoons. No one looked persuaded, but no one left either. Their deposits were in a clay cup on the top shelf. As long as the money remained there and the work remained here, I could pretend I possessed both coin and custom.
+By then the procession had become expensive. The cobbler wanted his knife. The dyer wanted her cord. The saddler wanted his awl. The grinder wanted his stone. I possessed all four and none of them for long.
 
-“I need room,” I said. “Give me until noon to sort this.”
+The rush seller had bundled the morning’s reeds by width along her wall. The finest were meant for cradle rims and chair edges. She put both hands across them when she saw me.
 
-The entire loft woke.
+“No.”
 
-That promise was apparently ambitious enough to require my broom.
+“Your settle is already in my shop.”
 
-I grabbed its handle while the moth was still silking the bristles. Because the broom was now in active use, the creature let go. I laughed, once, with more triumph than the victory deserved.
+“You already owe me work.”
 
-Then I climbed the loft ladder to take back the rest.
+Her long shop settle was in my room with the old seat stripped out and new warp tied across only half the frame.
 
-The loft was not tall enough to stand in. I crawled on my knees beneath a roof warm with sun. Later-moths shifted away from me in dusty waves. Their eyes were black and untroubled. Between the beams hung the portable history of the lane: spoons, hinges, buckles, shears, a child’s wooden whistle, three cobbler’s lasts, a door latch, a copper ladle gone green. Some had waited long enough for silk to take the color of smoke.
+I touched the narrowest bundle. “Enough to bind one front rail. Your settle comes back seated before the supper bell.”
 
-My binding knife dangled near the eaves. I hooked its cocoon with the broom.
+The beeswax block in my basket gave a small scrape.
 
-The moth holding it woke. It lifted the knife farther up the slope, passing it to another cluster. I swung. A rain of empty husks came down, cedar-scented and useless. The moths bore the occupied cocoons deeper. They did not attack. They treated my knife exactly as they treated a yellow sock I had promised to darn for myself last winter.
+A russet moth had found it. The creature wrapped the wax, tasted it once with its forefeet, and carried it into the rafters. The rush seller watched the silk packet disappear. Then she counted out exactly twenty-four reeds.
 
-At the roof peak, my fine rush bundle shone inside new silk. Beside it hung my mallet, my shears, the awl haft, and the whetstone.
+“A split reed costs two.”
 
-Below, the collector’s voice said, “Della?”
+“I know rush.”
 
-I backed down the ladder with husks in my hair.
+“You know mine mostly from failing to return it.”
 
-He surveyed my crowded workshop. “This is more explanation than usual.”
+She tucked the reeds under my arm and walked with the others.
 
-“The chair...” I began.
+When I reached my workshop, five customers entered behind me and made the room smaller than its debts.
 
-I heard the rest of the sentence forming, felt the familiar relief waiting at its end. Everyone would be angry later. For the present instant, they might allow me to remain the woman who had matters in hand.
+Their commissions stood along the walls, each turned to show its better side. The cobbler’s low chair displayed a square new seat but hid an unbound rear rail. The dyer’s first stool stood firm; the second wore one new leg a finger too long. The saddler’s handsome cane back rose above a bare seat frame. The grinder’s loose replacement leg lay beneath a ragged seat edge. The rush seller’s settle presented six feet of perfect new warp and an equal length of emptiness.
 
-Above us, wings stirred.
+On the bench, the apothecary’s high-backed chair wanted less than any of them. It also had none of the things I had carried out to finish it.
 
-I shut my mouth.
+The cobbler picked up his chair and turned the raw rail toward the light. “Third bell?”
 
-The collector waited. He was not cruel enough to finish the sentence for me.
+“It is binding. That is thumb work.”
 
-“If the apothecary pays you, I can take the rent,” he said. “If you hand me the chair, I can walk it to her myself and bring back the balance. What I cannot take is your noon and enter it as twelve coppers. The grain clerk would laugh me out of his office, and I have an account to close too.”
+“My knife cuts with the whole hand.”
 
-Behind him, the baker folded her floury arms. The cobbler studied the floor. The dyer checked a blue thread tied around one wrist and looked as if she regretted all of us.
+The dyer set her two stools side by side. One rocked. “My vat floor is level.”
 
-I went to the top shelf and brought down the clay cup.
+The saddler pressed a thumb into his chair’s empty seat frame. “You called this polish.”
 
-The deposits inside made a finer sound than my actual money. I had not spent them. Spending them would have ended the game too early.
+“It sounded smaller.”
 
-I opened my ledger to the baker’s settle.
+The grinder crouched beside his stool. He fitted the loose leg into its socket, and it fell out again. He did not speak. That was worse. The rush seller tore one strand of warp from her settle and held up its dry, frayed end.
 
-“I cannot finish it today,” I said. “I withdraw today. And tomorrow.”
+Every answer I owned began with a little word: after, before, by, soon. I kept them behind my teeth and reached for the cobbler’s knife.
 
-Above us, silk tore. My glue brush dropped bristles-first onto the floor, followed by the baker’s missing seat pegs. One bounced beneath the bench.
+“Where is my cord?” the dyer asked.
 
-The baker’s anger did not disappear with the cocoon.
+“Where is my awl?” said the saddler.
 
-“You said three days.”
+The grinder held out his hand for the stone.
 
-“I did.” I counted her deposit into her palm. “Take the settle. Or leave it without a date.”
+The borrowed rush under my arm was already drying at the tips. I laid it in the damp trough. Above us, the loft shifted with the small friction of wings.
 
-“My mother has eaten standing up for a week.”
+“I can fetch my own things,” I said.
 
-“Then take it to someone with fewer chairs.”
+No moth came. Fetch was present work.
 
-She stared at me, perhaps because the answer was unhelpful and perhaps because it was the first useful one I had given her. She took the settle and the coins. On her way out, she clipped my doorframe hard enough to scrape it.
+I snatched the long peg hook from the wall and climbed the ladder.
 
-“I withdraw the basket promise,” I told the grinder, “and every date I put on your stool.” He accepted the basket, the stool, and his returned deposit, then called me three varieties of turnip. None was unfair. The withdrawals dropped my cord shuttle onto the high-backed chair with a solid, lovely knock.
+Heat sat under the tiles. The loft ran unbroken over all six shops in the row, narrowed by chimneys and crossed with old braces. Later-moths crowded the warm side of every beam. Their bodies were blue, brown, cream, soot-black; their wings powdered my hair when I crawled through them.
 
-I withdrew every date I had given the saddler. He took back his chair but waved away the deposit until market day, not from mercy. “You’ll need coin to buy the cane you cut wrong,” he said. “Bring me that, not a speech.” The withdrawal released the bent awl and, from somewhere farther down the lane, my chair-wedge cord.
+Occupied cocoons hung everywhere. A latch with no matching door. One brass buckle from a pair. A cook’s tasting spoon. A spindle whorl. The small key to somebody’s locked flour bin. Years of indispensable last pieces swung above the lane while patched doors scraped and people stirred pots with handles.
 
-I withdrew the week I had given the dyer, then the afternoon, then an older promise I had dressed up as “after the wet weather.” She inspected her three stools. “What happens if I leave them?”
+Empty husks lay in cedar-scented drifts between the joists. The dyer pocketed two that fell through the hatch; clean shells kept common cloth moths out of wool chests.
 
-“I work on them when they are the work in front of me. I do not know when.”
+I found my binding knife under the roof peak. Its moth straddled the cocoon, antennae combing the air.
 
-“That is a poor arrangement.”
+The hook caught the silk. I drew it toward me one careful inch. The living moth opened its wings, lifted the bundle off the hook, and crawled with it behind the chimney where my arm could not follow. I lunged. Tiles burned my palm. A cluster of other moths took flight, each carrying an occupied cocoon farther along the braces. My cord, awl, stone, rush, and wax moved away in separate jerks.
 
-“Yes.”
+The cocoons themselves did nothing. When I pinned one against a brace, its moth wound fresh silk around another grip and pulled it free. The colony shifted the occupied bundles beyond my reach.
 
-She considered the handcart she would have to reload. “One week of not knowing. Then I take them.”
+My peg hook struck a brace and slipped from my hand. It fell through the hatch.
 
-No new moth moved.
+The customers scattered below. The hook hit the floor between the collector’s boots.
 
-Last, I withdrew every date attached to the cobbler’s work chair, and noon from his skiving knife. He sat on the half-finished chair long enough to test its old frame, then carried the milking stool back across the lane. “This has three legs,” he said. “It is finished. I’ll collect the other thing when it is too.” He left the knife on my bench and asked for no new promise.
+He had returned with the grain factor’s canvas purse tied at his belt. The clock shadow now cut my threshold in half.
 
-After the withdrawals, my shop looked robbed. Three commissions gone, two uncertain, deposits diminished to a few coppers. Yet tools pattered from the rafters: shears, measure, mallet, whetstone, cane spool. I did not catch all of them. The measure gained a split at one end, and the whetstone landed in the glue pot.
+“Is this finished value?” he asked, looking down at the hook.
 
-The fine rush bundle fell last. I snatched it before it hit the floor.
+I backed down the ladder. Cedar husks clung to my skirt and sweat ran into my eyes.
 
-The collector kicked loose rush from the place where the baker’s settle had stood. “Final bell,” he said, quieter now.
+“The apothecary’s chair needs a binding edge. The cobbler’s needs one rail. The dyer’s need one leg corrected. I can have every one of them before—”
 
-I put the high-backed chair on the bench.
+Before opened in my mouth. The living roof went quiet enough that I heard claws settle on silk.
 
-There were hours left. I did not count them aloud.
+I stopped.
 
-I honed the cobbler’s blade, split the rush, and pulled each strand through waxed linen. The work narrowed the room. Thumb on the binding, knife angled away from the weave, turn the chair, pull again. When my hands occupied the shears, the moths could not take them. When I set them down, I said nothing about what I would do next.
+The collector stepped around the hook. “The factor’s cart leaves at final bell. Eleven coppers in my hand enter the grain account. An accepted chair becomes fourteen in yours. These five are still wood.”
 
-The collector fetched water without offering. The dyer returned to her vats. The grinder shouted a correction through the wall, which I ignored until I realized it was right. Near midday the apothecary came herself, leaning slightly on the side that hurt. She did not ask when. She sat on my upturned kindling box and watched me trim the underside.
+I looked at the six commissions.
 
-I tested every joint against the floor. The left rear foot clicked. Six weeks earlier I would have called it settling and sent the chair out. I turned it over, found the shallow socket, and reset the peg. The apothecary waited. The collector watched the light move across his ledger.
+Not at their good sides. I turned each one.
 
-When I set the chair upright again, the seat gave beneath my palm and held.
+The rush seller’s settle needed half a seat: a day if my fingers did not cramp. The grinder’s leg needed shaping, fitting, and wedging. The saddler’s bare seat needed a full weave. The dyer’s bad stool needed its new leg remade, not shaved. The cobbler’s rail could be bound, but his promised third bell had already passed and its balance was seven coppers.
 
-The apothecary sat. She shifted once, gripped both arms, and rose without catching at the hip. Her face lost a small, habitual pinch.
+The apothecary’s chair needed one edge. Fourteen coppers. One rent, one supper.
 
-“Twelve?” she asked.
+My deposit box was screwed beneath the bench. Four paper packets waited inside, marked for the dyer, saddler, grinder, and rush seller. Their coppers were untouched. The cobbler’s deposit had become his new rail and rush; the apothecary’s had bought the applewood pegs beneath her seat.
 
-“Twelve.”
+I put the grinder’s packet on the bench first.
 
-She counted the coppers into my hand. The collector counted ten out again and closed my rent account with a line so firm it nearly cut the paper.
+“I withdraw my promise to fit your stool by the fourth bell.”
 
-With one remaining copper I bought onion broth. With the other I bought half a small loaf from the baker’s boy, who took my coin without forgiving me on his mother’s behalf. I ate after final bell on one of the dyer’s two sound nursery stools. Above me, later-moths whispered among thousands of useful things. The kingdom remained held together by wedges, string, and confident afternoons.
+Silk ripped overhead. My soaked rush bundle dropped through the hatch, struck the bench, and sprayed cool water across the grinder’s apron.
 
-At dusk, a woman I did not know carried a broken stool into the shop. One stretcher had split along the grain. It might have needed glue. It might have needed a new piece. I had two undated commissions, no cushion of deposits, and tomorrow’s soup to consider.
+He caught his palmstone out of my hand before I could set it down. I pushed his packet to him. He counted the deposit, tucked it away, and lifted the stool by its sound leg.
 
-“When can you have it ready?” she asked.
+“Still too narrow,” he said, wedging the useless blank beneath the seat.
 
-My mouth already had tomorrow ready. The rafters seemed to listen.
+He left with the stool under his arm. His anger had no interest in me beyond the doorway.
 
-“I don’t know.”
+The saddler was next. “I withdraw the dinner-bell promise on your stitching chair. It can stay without a date, or go now.”
 
-She frowned. I turned the stool over, found the split with my thumb, and brought it to the bench.
+My whetstone fell into the damp trough with a splash.
+
+He snatched back his awl. “Eight girths. No chair is better than no holes.” He glanced at the bare frame. “It stays. Keep my deposit there. Keep dates out of it.”
+
+He left angry enough to shoulder the cobbler aside.
+
+I faced the dyer. “I withdraw the noon promise on both vat stools.”
+
+My awl came down point-first and buried itself in the grinder’s discarded leg blank.
+
+The dyer unwound her cord from my wrist. “One stool is usable.”
+
+“The other is wrong.”
+
+“I saw.” She set the sound stool by the door and left the rocking one against my wall. “The deposit remains with the pair. There is no date.”
+
+There was relief in the way she stopped measuring me, but no warmth. She carried the sound stool back to her vat and left me the worse half of the work.
+
+The cobbler had already sheathed his knife. I gave him the chair before he asked.
+
+“I withdraw the third-bell promise.”
+
+A cord shuttle struck the seat between us. The waxed line uncoiled as it fell, looping his wrist.
+
+He freed himself and inspected the new rail, the rush already laid, the naked binding edge. “My deposit covers what is in it?”
+
+“Rail, rush, and half the labor.”
+
+“Then we are square. I need another mender.” He put the unfinished chair upside down on his head and walked across the lane. Relief made him quick; losing the balance of his payment made my stomach feel scraped.
+
+Last stood the rush seller.
+
+I laid her packet beside the borrowed reeds. “I withdraw the promise to finish your settle by the supper bell.”
+
+The beeswax dropped softly. It struck my shoulder and landed at her feet.
+
+She picked it up, smelled it, and threw it onto my bench. Then she counted her deposit twice.
+
+“My twenty-four.”
+
+I returned every borrowed reed. She checked their tips, bound them with her own strip, and took the settle by one end. I lifted the other without being asked. We carried it to her doorway now, not later. She did not thank me. When we set it down, she dragged it inside and shut the door against my shop.
+
+Three commissions had gone out of my room. Their unpaid balances were gone with them. Two remained without dates or certain pay. The five refunded coppers left with their owners; my purse was empty. The two deposit packets under the bench still belonged to customers, not supper.
+
+The collector stood beside the apothecary’s chair. “The cart has not left.”
+
+I put the recovered tools in a row and did the arithmetic with my hands.
+
+The fine rush was still wet under its torn silk. My cord was waxed and sound. My awl point had survived the leg blank. The whetstone had chipped at one corner but kept a long flat face. The wax carried two little grooves from the moth’s feet. My binding knife still hung above the chimney, held by the promise I meant to keep.
+
+The onion knife would have to become useful.
+
+I rubbed it over the wet stone until black water gathered along the edge. Ten strokes each side, then five, then the thumbnail test. The blade caught instead of skating. I split the rush down its center and chose the halves that bent without feathering. No date left my mouth. I needed both breath and hands for the work.
+
+The apothecary came at the first warning of final bell. She wore her shop apron and carried the smell of mint, vinegar, and something bitter enough to tighten the tongue.
+
+“My old stool pitched me into the feverfew,” she said. “Tell me what this chair can do, not when.”
+
+“The arms are set high enough to push from. The back joint is pegged. The front edge is open.”
+
+“How open?”
+
+I showed her the unfinished rail.
+
+She pressed the weave with four spread fingers. “Tight enough. Close it.”
+
+She sat on the bare floor with her back to the wall, not because it was comfortable but because she would not test unfinished work. The collector moved out of my light.
+
+I passed waxed cord through the awl hole, laid the first rush half along the rail, and drew the binding over it. My left thumb kept the last turn from loosening while my right hand opened the next hole. Pierce, pull, cross. The rush squeaked under tension. Water and wax made the cord bite into my skin.
+
+Halfway across, one outer strand cracked where its wet wrapping had loosened in the loft. I cut it out. The easy words rose again: only a moment, nearly done. I chose a green half from the center, tapered it against the knife edge, and overlapped the join beneath the rail where a palm would never find it.
+
+The apothecary watched my hands. “The right arm sits lower.”
+
+“It is the floor.”
+
+“My floor is level.”
+
+I stopped binding and measured from arm to seat with the cord. She was right by the width of a barley grain. The rear peg had seated unevenly. I tapped it home with my wooden mallet, checked both arms again, and finished the edge.
+
+The final knot went beneath the front corner. I trimmed every tail close enough not to catch a skirt, rubbed the wet rush smooth with the wax block, and set all four feet on the floor.
+
+The apothecary did not admire it. She sat hard, shifted her weight to the right, then the left. She planted both palms on the arms and rose. Once. Again with a stop halfway, where the joints took the greatest strain.
+
+The chair held.
+
+“Fourteen,” she said.
+
+“Fourteen.”
+
+She counted the balance onto the seat, then gripped the high back and lifted the chair. Silk tore above the chimney. My binding knife fell point-down. The collector knocked it aside with his ledger before it struck the floor.
+
+The apothecary flinched. “Your knife?”
+
+“Mine again.”
+
+She carried the chair out herself, pausing at the threshold to clear the high back beneath the signboard. She offered no other commission.
+
+The collector slid my knife across the bench. I counted eleven coppers into his hand. He counted them again into the grain purse, pulled its cord tight, and marked my rent paid.
+
+That left three.
+
+After final bell I bought a bowl of barley broth and the end of a coarse loaf. I ate at my bench because the two customer seats remaining could not bear me. Across the lane, the cobbler cut leather while sitting crookedly on his unfinished chair. The grinder’s wheel started and stopped. Under the tiles, later-moths shifted among thousands of small useful things.
+
+Dusk had reached the back wall when a carter brought in a stool with one stretcher split under the rung.
+
+“When can you mend it?” she asked.
+
+The answer pressed against my teeth, smooth and cheap.
+
+I turned the stool upside down. The split ran farther than it showed from above. I worked my thumbnail into the grain, sighted along the leg, and reached for the peg gauge.
+
+“I haven’t looked far enough yet,” I said.
