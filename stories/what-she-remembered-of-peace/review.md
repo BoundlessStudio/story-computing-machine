@@ -23,4 +23,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Coru's voluntary use of locally bounded war routines resolves the prompt while preserving her personhood; the unnamed war and search units establish no link to existing invasion-frame canon.
+- Notes: Coru's voluntary, locally bounded use of war routines resolves the prompt without diminishing her personhood; her compressed tactical speech and the narrator's repairer's logic remain distinct, materially alter the escape, and reach workable coordination without a thematic coda. The unnamed war and search units establish no link to existing invasion-frame canon.

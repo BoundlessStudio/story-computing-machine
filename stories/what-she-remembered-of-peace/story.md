@@ -8,292 +8,380 @@ canon: false
 
 # What She Remembered of Peace
 
-I was fastening the last kitchen shutter when the water in Coru's blue bowl began to turn.
+By the time the water in Coru's joint bowl began its slow clockwise turn, I had tightened the lower shutter hook twice and was considering a third screw.
 
-It was a slow clockwise drift, no wider than the bowl and too deliberate to blame on the trembling window. Three coriander seeds I had failed to rinse out went around like tiny boats. On ordinary mornings, that was how I knew Coru had worked too long on the west fence or carried sacks of flour without letting me take one. Heavy demand on her stabilizers made uncovered water circle within two metres of her. We kept full cups on saucers and argued about whether the effect improved tea.
+The hook had held through six winters. The shutter itself was pine, built in my shop, planed to the width of the kitchen window and painted the green Coru said made rain look warmer. Nothing was wrong with it except the morning outside.
 
-That morning, the bowl told me her left hip was already working hard before the first shell landed.
+“You'll split the frame,” Coru said.
 
-The blast lifted the shutter out of my hands and slammed it flat against the frame. White light pressed through every seam. Then came the sound, a blow big enough to shake flour from the ceiling beams and extinguish the lamps.
+She stood within two metres of the blue enamel bowl. A coriander seed circled its rim, passed the chip by the handle, and came around again. Water did that near her only when the stabilizers in her hips were working too hard. We had discovered the effect years ago after every uncovered cup on my bench began to rotate clockwise while she held a fence post upright. Since then I kept the bowl filled to a pencil mark. It told us strain, direction, and very little else.
 
-I crouched with both arms over my head. Coru did not. She stood at the end of the kitchen table, one hand braced on the wood, her face tilted toward sounds beneath the ringing in my ears.
+“I'm adding one screw,” I said.
 
-“That was the mill road,” I said. My voice came out too loud.
+“You said that about the second.”
 
-“East of it.” Her eyes tracked something beyond the wall. “Listen.”
+The first shell struck beyond the lower fields.
 
-I heard plaster ticking onto the floor, the crockery settling, my own pulse. Then another impact rolled across the fields. Farther south, I thought. Coru's fingers tapped the table once, twice, paused, and tapped again.
+The frame split without waiting for my decision. The shutter kicked inward and drove me across the table. The lamp went out. Crockery jumped in the dresser; somewhere in the back hall, a jar fell and broke. Coru caught the shutter with one hand before it could rebound into my head.
 
-The lights did not return.
+The kitchen clock read 9:17. Its second hand stopped there.
 
-All morning the evacuation broadcasts had insisted that the western road remained open. I had believed them long enough to pack food, blankets, Coru's repair kit, and two changes of clothes. The bags waited beside the back door. Outside, our pear trees clawed at a sky the color of old solder.
+I stayed bent over the table until the noise thinned enough for me to hear plaster dropping from the ceiling. Coru set the shutter against the wall. Her head had turned slightly east, listening.
 
-“The road?” I asked.
+“That was near the road,” I said.
 
-“It will be under search before we reach it.”
+“South of the road. Three fields.”
 
-“You can't know that from three shells.”
+Another report rolled over us, then two more close enough to overlap. I heard three. Coru lifted a finger for each sound under them and reached seven.
 
-“Seven.”
+The evacuation bulletin at nine had promised the road would remain open until noon. Our bags waited at the back door: food, clothes, two blankets, my hand tools, and the small repair kit Coru carried even when she only went to market. I had packed for a week because a week was the longest disaster I knew how to imagine.
 
-She had counted four I had mistaken for thunder or distant demolition. Her hand went to the narrow seam below her ribs. She opened the service panel and removed a black steel pin no longer than my smallest finger.
-
-I knew that pin. I had made its cedar case, lined it with felt, and put it on the high pantry shelf at Coru's request. Now the empty case lay beside the bread tin. She placed the pin between us.
-
-“The intervals are tightening around the road,” she said. “Passive search units will precede ground troops. My civilian threat model is insufficient.”
-
-The kitchen seemed to narrow around the old words. Not because I had heard her use them before. Because I had read them in manuals stamped for destruction at the reclamation yard, beside diagrams of the body now standing in my home.
+Coru crossed to the pantry. From above the flour bin she took down the cedar box I had not seen open in seven years.
 
 “No,” I said.
 
-“It is my lock.”
+She put the box on the table and lifted its lid. The black service pin inside was the length of my thumb joint.
 
-“You asked me to help you close it.”
+“The shell pattern is walking inward,” she said. “Something on the road is directing it. Search units will reach these houses before the troops.”
 
-“Help. Yes.” Coru picked up the pin. “I am asking you to stand back.”
+“The broadcast said—”
 
-I did, but only because another concussion made the spoons chatter in their drawer. She set the pin into a port under the open panel and turned it a quarter rotation. Nothing dramatic followed. No surge of light, no mechanical snarl. Her gaze simply ceased wandering. Her weight settled over the balls of her feet. When she looked at the shutter, I knew she was no longer seeing a thing I had painted green one summer, badly enough that she had teased me for leaving bristles in the finish.
+“The broadcast has been repeating the same damaged sentence for eleven minutes.”
 
-“Weapons state,” she said.
+I had not noticed. I had been repairing a shutter.
 
-“What?”
+Coru opened the narrow panel below her ribs. There were no weapon connections behind it. We had removed the aiming relay, the forearm blades, the sockets along her spine, and every part whose only purpose was to injure at range. What remained tied balance to prediction, prediction to concealment, concealment to the fine control of a body designed to cross bad ground under fire.
 
-“Mine.” She answered herself. “None. Removed systems remain absent. Mobility at eighty-two percent. Thermal storage nominal. Left stabilizer compensation elevated.”
+She held the pin over the port.
 
-My hand rose toward the panel before I decided to move it.
+“What comes back?” I asked.
 
-Coru caught my wrist. She did not squeeze. The precise speed of it frightened me more than force would have.
+“Nothing comes back. The closed routines become available.”
 
-The last time she had caught my wrist, we had been in the market six days ago. A spice seller had leaned across his counter to ask whether her purchase permits were genuine, though he had accepted mine without unfolding them. I had stepped between them. Coru stopped me with two cool fingers and asked the seller, pleasantly, to read aloud the expiry date he claimed was wrong. A dozen people listened while he found that it was not. She bought her cardamom from the next stall anyway.
+“You know what I mean.”
 
-On the walk home, she had said, “You make every unpleasant person into a broken hinge.”
+“Trajectory comparison. Search-pattern analysis. High-load balance. Thermal concealment.” Her gaze moved from the pin to me. “The guns are still in the reclamation furnace. My hands are the same hands they were at breakfast.”
 
-“Hinges can be fixed.”
+Her answer should have steadied me. Instead I heard the old manuals in its nouns.
 
-“People object when you oil them.”
+“Wait until we see a search unit.”
 
-Now her grip loosened. “Do not touch the pin while the routines are active.”
+“If we wait to see it from this room, it will already have seen us.”
 
-I pulled my hand away. “Are you still—”
+“That lock was your idea because those routines frightened you.”
 
-She waited.
+“They did. I closed them. I can open them.”
 
-The question shamed me before I finished it. It also remained in my throat.
+At the market four days earlier, a seller had refused to hand Coru a tin of bearing grease until she produced an ownership paper that did not exist. I had begun explaining permits, reclamation stamps, and the exact place he could put his grease. Coru laid two fingers against my sleeve.
 
-Coru closed her panel. “The pantry wall is reinforced by the chimney. The laundry trench gives dead ground to the potting shed. Beyond it, the garden is exposed for twenty-three metres. The culvert is viable if the north grate has not collapsed.” She crossed to the back door and lifted both bags. “Take the pry bar. Leave the blankets.”
+“Let me finish my purchase,” she had said.
 
-Every noun had changed in her mouth. The pantry where she kneaded bread became blast cover. The shallow trench where our sheets snapped in summer wind became dead ground. The garden we had fought slugs for became exposure. I wanted to make her call them by their right names, as if names could keep the war outside.
+Then she asked the seller to point to the rule on the posted board. When he could not, she set the coins down, took the tin, and asked whether he wanted to count them or keep staring at her wrists. He counted. She carried the grease home herself.
 
-“The culvert floods in hard rain,” I said.
+In the dark kitchen she gave me the same look: a request once, before she proceeded without my approval.
 
-“Rainfall is light.”
+“Stand clear of my right side,” she said.
 
-“The north grate warps.”
+I moved.
 
-“That is why you will take the pry bar.”
+Coru seated the pin and turned it. Her face did not empty. No hidden light woke beneath her skin. Her shoulders lowered; her weight shifted forward by perhaps half an inch. Then her eyes stopped returning to me between sounds.
 
-“And the road patrols?”
+“Local armament state: absent,” she said. “Left hip compensation at nineteen percent. Search lead in perhaps eighteen minutes.”
 
-“Not relevant to the culvert approach.”
+The water in the bowl continued its small turn. That ordinary nuisance frightened me more than any transformation would have. Coru was still close enough to stir it. I could not tell whether she was still close to me.
 
-“You don't know what's relevant. Those things have changed since your war.”
+She drew the smaller pack toward her and emptied half of it onto the table. Blankets, spare clothes, the little copper kettle.
 
-“Shell doctrine has changed. Search doctrine may have changed. The units between these houses are spacing their turns by the same signal delay used in my deployment era.” She handed me the smaller bag. “I know enough to leave now.”
+She kept the food, lamp, and repair kit, tied the pack shut, and slung it over one shoulder.
 
-Part of the ceiling fell into the sink.
+“The pantry chimney will take one direct wall failure,” she said. “The laundry trench is below the search line. Potting shed after that. Reflective orchard cloth gives concealment across the garden. Culvert is the exit.”
 
-Coru put herself between me and the falling plaster. When the dust cleared, half a roof tile stood embedded in the table where the blue bowl had been. Water ran among the packed tins, still curving faintly around the place where she stood.
+“You've turned the whole house into a map.”
 
-We left.
+“It was always a map. We did not need this use yesterday.”
 
-The pantry passage was black. Coru guided me around the broken shelves with a hand at my elbow and stopped us against the chimney wall. Outside, a thin mechanical whine rose and faded, rose and faded. Not an engine moving along the road. Something turning in place.
+“The north grate sticks.”
 
-“Sweep left,” Coru said. “On my count, cross to the laundry trench. Three. Two. One. Move.”
+“Take the long pry bar.”
 
-She went through the back door.
+“The culvert floods.”
 
-I had spent years teaching her that a person did not have to move because somebody counted down. The lesson worked against us. By the time I followed, she was already in the trench and I was alone on the flagstones.
+“Not in this rain.”
 
-An object above the pear trees tipped a glossy black face toward me.
+For sixteen minutes the bombardment kept us between the table and the chimney. In each quiet patch Coru named one task: coat, boots, lamp, the pantry door unlatched so a blast would not splinter it. I moved; the next report folded us against brick again. The last one landed close enough to end the waiting.
 
-Coru came back. She hit me behind the knees with one arm, gathered me before I fell, and covered the distance to the trench in three strides. Heat struck through her shirt where my cheek pressed her shoulder. The search machine's whine sharpened. A pale bar travelled across the kitchen wall, found the open doorway, and began to descend.
+A close impact punched a hole through the pantry ceiling. Tiles and wet insulation poured over the tins. Coru dragged me behind the chimney wall before I understood that I had moved. Something hard struck her back with a clang. She looked up, recalculated, and pushed the pry bar into my hands.
 
-“Six seconds,” Coru said. “Shed. Two. One.”
+“Back door,” she said. “Now.”
 
-No three this time. I lurched after her down the trench, boots skidding in wet clay. My shoulder struck a clothesline post. The wire tore free and sang past my ear. Coru threw the potting-shed door inward, pulled me through, and lowered it without letting the hinges cry out.
+We crossed the pantry bent low. The reinforced chimney was no longer where we hung onions; it was a thickness of brick between us and flying stone. Through the broken back door I could see the laundry trench, a shallow run beside the line where our sheets used to hang. Beyond it leaned the potting shed, one corner already crushed by the pear tree.
 
-The shed had folded in the middle under a fallen pear limb. We crouched beneath a shelf crowded with empty clay pots. Light passed through cracks in the boards, one cold stripe at a time. The air smelled of wet earth and the bitter mineral dust that old fertilizer left on the tongue.
+A machine moved above the far orchard.
 
-Coru knelt close enough for me to hear small corrections moving through her hip. Her voice had gone flat and narrow. “Motion response inadequate. Revised transit requires assisted carry. Reflective orchard sheet will reduce thermal separation. Combined outline may be classified as disabled agricultural equipment if chassis temperature exceeds local human range.”
+It was smaller than a cart, all dark vanes around a pale central grille. It made no announcement. A white scanning bar traveled down the side of the neighbor's empty greenhouse, paused over a collapsed cultivator and then a scorched irrigation pump, and slid on. The machine rotated by measured fractions while something farther away answered with the same dry whine.
 
-“Stop.”
+Coru watched one full turn.
 
-“Search interval is approximately forty seconds.”
+“Two short drops in rotor pitch,” she said. “Transit on the second. Mark.”
 
-“Stop talking like that.”
+The pitch fell once. Coru went low, ready to spring. It fell again and she crossed the yard.
 
-Her head turned toward me, then toward the outer wall. “Clarify.”
+I waited for her to say move.
 
-That word, spoken in that tone, broke whatever restraint I had left. I reached for the seam below her ribs.
+By the time I understood that *mark* had been the last word, she was in the trench and I was standing in the doorway with the pry bar held upright like a lightning rod.
 
-Coru blocked my arm against the packed-earth floor. A pot toppled from the shelf. She caught it with her free hand before it struck, set it down without a sound, and kept my wrist pinned.
+The pale grille turned.
 
-The search light passed over the shed roof.
+Coru reversed at once. She came over the sill, caught me around the waist, and dropped with me behind the pantry wall as the white bar swept across the door. Plaster warmed under my cheek. The scan moved away, returned, and found the shutter lying across the kitchen floor.
 
-“Release the panel,” she whispered.
+“Eight seconds to rear aspect,” Coru said against my ear. “Trench, shed, immediate.”
 
-“You're not yourself.”
+She ran carrying both of us for the first three strides. Her left foot landed with a metallic knock I felt through my ribs. At the trench she set me down without stopping. Mud climbed over my boots. The search unit's pitch sharpened behind us.
 
-“You are attempting an unauthorized shutdown.”
+Coru reached the shed first and tore its swollen door free rather than fight the latch. I stumbled under the fallen pear limb. She lowered the door into place as the white bar crossed the cabbage bed.
 
-“I know what those routines do to you.”
+The roof had folded over the middle bench. We crouched in a wedge that smelled of wet soil, fertilizer, and the old kerosene I used for cleaning tools. Clay pots crowded a shelf at the height of Coru's head. Through nail holes in the wall, the scanning light appeared and vanished.
 
-“No. You know what people did with them.”
+“Follower response incompatible with command cadence,” Coru said. “Alternate transit requires consolidated load, elevated chassis temperature, reflective—”
 
-She let go. The distinction should have been obvious. I had filed it somewhere out of reach.
+“Don't call me a load.”
 
-The night we installed the lock, Coru had sat on the workshop bench with her feet bare because I was replacing the worn pressure mesh in her left sole. Winter rain drummed on the roof. On the bench between us lay the service pin and a wedge of apple she had cut, tasted, and abandoned because that year's crop had gone mealy.
+“Then listen past the word.”
 
-I had proposed deleting every combat routine I could reach. Coru had refused. Some were woven through balance, spatial prediction, and the reflexes that kept her from crushing a cup when the handle cracked. Others she could not inspect safely without running them. We had argued until the stove burned low.
+“I listened. You left without me.”
 
-At last she designed the lock herself. No command phrase. No remote release. A physical interruption only she could open, placed where no one could reach it without coming inside the compass of her hands.
+“I gave a movement mark.”
 
-“I don't know which parts I will want,” she had said. “I know I want the wanting to be mine.”
+“You gave me six clipped pieces of a sentence and expected the right piece to open my legs.”
 
-I had machined the pin to her measurements. Somehow, in the years after, I had begun to remember that as my gift.
+The machine began another turn. Coru looked through a split board. “It will have a garden angle in thirty-two seconds.”
 
-In the broken shed, Coru leaned away from me, protecting her panel with her body. “Your hesitation altered the crossing. My cadence contributed. I used squad timing.”
+Her panel pin showed black beneath her shirt. I reached for it.
 
-“I thought if I followed it, I'd be helping this take you over.”
+Coru caught my forearm and folded it against the packed-earth floor. She used no more force than the hold required. With her other hand she caught a clay pot my elbow had shaken from the shelf. A little earth spilled onto my sleeve. The pot did not strike.
 
-“Nothing is taking me over.” Her eyes flicked to the wall as the whine receded. “I am busy, frightened, and using a vocabulary you dislike.”
+“Take your hand away from my latch,” she whispered.
 
-Coru rarely named fear while it was occurring. I had mistaken the absence for proof there was no one behind the work.
+“Close the routines.”
 
-I lowered my voice. “When I found you, you couldn't even stand.”
+“No.”
 
-The reclamation yard came back in heat and glare: Coru on a steel pallet, both legs tagged for smelting, rainwater rust-red beneath her. A clerk had told me the cranial core was probably blank and the repeated eye movement was residual targeting noise. I had signed a salvage form before the furnace queue advanced.
+“That voice isn't yours.”
 
-Two days later, on my workshop floor, Coru woke and asked whose property she was.
+“It is a voice I used with people trained to know the missing words.” Her eyes stayed on the slit of light. “You are not one of them. I failed to change it.”
 
-I had said, “No one's,” then spent seven years trying to make the answer true by deciding what could never be allowed to touch her again.
+The answer halted me more effectively than her grip. Coru released my arm, set the pot down, and placed herself between me and her panel.
 
-“You kept them from melting me,” she said now. “You did not buy the rest of my life.”
+The night we made the lock, she had sat on my workbench while I replaced pressure mesh in her left heel. She had inspected every drawing before allowing me to cut metal. I proposed a switch behind her shoulder where I could reach it during a fault.
 
-Outside, the machine began another turn. We had no time for me to produce the apology I wanted to deserve.
+“No,” she had said. “Below the ribs. I can guard that.”
 
-“Tell me the plan,” I said. “As if I'm me.”
+“What if you're the one who needs help?”
 
-Coru's posture shifted by less than a finger's width. “All right. The machine sees heat, movement, and shape. It does not understand what it sees. I can make myself hot enough that our heat merges under the silver sheet. I can carry you so only one outline moves. We will look less like two people and more like a damaged machine limping across the garden.”
+“Ask first. If I cannot answer, keep me from falling and wait.”
 
-“Less like isn't the same as safe.”
+She specified a pin she could remove, a quarter turn no outside signal could imitate, and a lock that would interrupt access without deleting anything. I did the machining. Coru tested it. She put the pin in a cedar box because metal collected dust on the pantry shelf.
 
-“It is not safe. My hip may fail. The sheet may catch. The machine may be using a newer comparison set than I expect.”
+Over the years, *I made the lock* had quietly replaced *she designed it* in my memory.
 
-“If I need you to put me down?”
+In the shed, another shell broke somewhere uphill. The earth jumped beneath my palms.
 
-“Tap twice here.” She guided my hand to the hard plate below her collarbone. “I stop, regardless of position. Can you remain still if it examines us?”
+“I thought the routines had pushed you aside,” I said.
 
-She waited. Outside, the whine grew louder. She did not start counting.
+“I opened them. I am choosing what runs.”
 
-“How long?” I asked.
+“Your shoulders changed. You stopped looking at me.”
 
-“Possibly twenty seconds.”
+“I was measuring impacts.” Coru nodded toward the wall. “I also expected you to understand a call built for squadmates. That expectation nearly exposed you.”
 
-“Your seconds or human seconds?”
+The earliest memory arrived last: the reclamation yard, hot iron under a white sky. Coru had lain on a pallet with her weapons already stripped and a red furnace tag wired through one wrist. A clerk told me the motion in her eyes was a targeting loop. I put my hand above her face; the eyes followed my fingers and then moved to the open gate behind me.
 
-“At present they are annoyingly similar.”
+I signed the salvage transfer before the furnace trolley returned.
 
-The answer was hers. Dry, exact, poorly timed. I almost laughed and swallowed it before the sound escaped.
+Three days later she woke on my shop floor while I was fitting a crude replacement to her left hip. Her first question was how long the door had been blocked by my tool chest. I told her I had saved her. She asked me to move the chest anyway.
 
-“Yes,” I said. “I can do it.”
+I had moved it. I had never stopped wanting the rescue to mean I knew which doors should remain shut.
 
-“That was too fast.”
+The search light thinned across the roof.
 
-I imagined her heat against my face, the search light settling, the freedom of two taps beneath my fingers. “Yes. Carry me. If I tap twice, stop.”
+Coru leaned nearer, speaking softly now, each sentence complete. “The machine outside has examined two blast-warmed engines and passed them when they stayed still. Its scan here is comparing heat, motion, and outline. I can give it one outline instead of two.”
 
-“Agreed.”
+“With the silver orchard sheet.”
 
-The silver orchard sheet hung behind the shed, where we used it to turn late frost from the pear blossoms. Coru reached through a gap in the boards and drew it in a handspan at a time. Rain freckled its dull surface. Then she opened vents along her spine.
+“Yes. Think of wrapping the hot-water tank in winter. From the window, the blanket hides where the tank ends and the pipes begin.”
 
-Warm air rolled through the shed. Her cooling fans stayed silent; all the heat that should have left her gathered under her skin instead. In a cracked basin by the door, rainwater began to circle clockwise. Faster now.
+“That blanket doesn't walk.”
 
-“Your hip,” I said.
+“This one will limp.” Coru touched the plate over her left hip. “I can store heat instead of venting it. Under the sheet, you and I should read as one damaged machine crossing after the blast.”
 
-“I know.”
+“Should.”
 
-She wrapped the sheet around her shoulders, then lifted me against her chest. I hooked one arm around her neck and held the folded pry bar against my side. Under the metallic cloth, darkness smelled of wet dust, machine oil, and the rosemary soap Coru bought because she said unscented soap made every room smell faintly of clinics.
+“I have seen only this sweep. I do not know what another model would do. This one may still stop us.”
 
-“I will count upward,” she said by my ear. “Nothing happens until you say ready.”
+“How far?”
 
-Beyond the shed, the pale scanning bar reached the far fence and began its return.
+“Twenty-three metres from the shed to the ditch. I carry you against my front so your feet do not make a second track. Three stops: rain barrel, white stones, culvert bank. I will name each one before I move.”
+
+Her new cadence took longer. The machine completed another fraction of its turn while she spent the time.
+
+I looked at the hard angle of her left leg. “If the hip slips?”
+
+“I lower you. The sheet may open when I do.”
+
+“And if I need down before that?”
+
+Coru guided two of my fingers to the plate below her collarbone. “Two quick taps. I stop the step and put you down. Even under the scan.”
+
+“What if there's nowhere to put me?”
+
+“Then I put you in the cabbages. Two taps still means down.”
+
+I tested the reach. Easy with my arm around her neck.
+
+“I grabbed your panel because I wanted the old voice gone,” I said. “I wasn't repairing anything.”
+
+Coru looked toward the rear wall. “Then repair the orchard sheet. Its lower hem tore last spring.”
+
+The sheet hung on pegs outside, trapped between the shed and the fallen pear limb. I drew it through a gap one fold at a time while Coru watched the searcher's turn. Silver fabric rasped across splintered boards. The tear had widened to the length of my forearm. I had no time for stitching, so I doubled the edge and fixed it with three brass clips from the seed trays. Coru checked each clip with a tug.
+
+“This corner catches wind,” I said. “Keep it under your right elbow.”
+
+“Show me.”
+
+I folded it around her shoulder and marked the grip. Coru held still while I reset the second clip twice.
+
+I slipped the long pry bar through the side loops of her pack and tied its lower end against her right thigh. It would stay inside the sheet's single outline and leave both her hands free.
+
+Coru opened the heat-storage baffles along her back and drove her thermal sink into storage mode. Warmth filled the shed. Her cooling fans slowed, then stopped. In a cracked rain basin beside her boot, a skin of water began to creep clockwise around a drowned leaf. Water beyond the wall, more than two metres away, lay where the rain struck it.
+
+“Strain is rising,” I said.
+
+“I have included it.”
+
+“That isn't the same as liking the number.”
+
+“No. It is twenty-six now.”
+
+The dry answer belonged to the woman who had once reorganized my screws by thread and denied doing me a favor. I let it stand.
+
+Coru crouched beside the broken bench. I climbed onto it and settled against her front, my knees drawn along her sides. She supported my thighs with her left forearm and laid her right arm across my back. Heat came through both layers of my coat. I could still reach the plate beneath her collarbone.
+
+She drew the orchard sheet over us. Silver darkness closed around my face. The torn hem stayed clipped; the loose corner lay under her right elbow.
+
+“The machine samples a still outline for four slow counts,” she said. “If it stops over us, I will count those aloud. After four, we wait for the light to leave. The count does not tell you to move.”
+
+“Good.”
+
+“First stop is the rain barrel. Six steps. Say ready.”
+
+I listened to the rotor pitch fall, rise, fall. This time the sounds meant nothing I had to translate alone.
+
+“Ready,” I said.
+
+Coru left the shed.
+
+Her first step drove a hard tremor through the left side of her body. Her second was smoother. Beneath the sheet I saw only mud, cabbage leaves flattened by blast wind, and the lower edge of her coat.
+
+“Rain barrel in two steps,” she murmured. Then, “Stopping now.”
+
+She went still. The barrel's curved shadow darkened the sheet. Above us the search machine turned toward the house. Coru waited until its grille faced the broken roof.
+
+“White stones next. Nine steps. The ground drops after five.”
 
 “Ready.”
 
-“One,” Coru said, and stepped into the garden.
+She moved. Heat gathered between us until every breath tasted of warm cloth and the rosemary soap she used because my unscented blocks made her think of the yard. At the fifth step her body dipped exactly as promised. I did not mistake it for collapse.
 
-The sheet settled over us. “Two.” Her next step jarred my teeth. Under her shirt, heat climbed toward pain. “Three.”
+At seven, the rotor pitch changed.
 
-I could see only a strip of ground: cabbages flattened by blast wind, black mud, the white stones I had laid between beds. Coru's gait dragged on the left. Each impact sent a clockwise shiver through rain caught in hoof-shaped depressions.
+“Stopping at the stones,” Coru said.
 
-“Four. Five.”
+She froze with one boot raised onto the path. The pale bar found the far edge of our sheet.
 
-The search machine's rotors changed pitch.
+The search machine came nearer. Air from its vanes worried the clipped hem but the fold held. Light traveled from Coru's boots to the place where my shoulder broke her outline, returned, and held there.
 
-Coru stopped.
+My fingers found the collar plate. Two taps would make her lower me. The cabbage rows offered no cover. The potting shed behind us had become a bright-edged ruin.
 
-The scan found us as a milk-pale glow through the sheet. My body begged to tear free and run. The machine hovered somewhere above the pear trees, making tiny adjustments that sounded like an insect trapped against glass.
+“Sampling,” Coru said. “One.”
 
-“Six,” Coru said softly.
+The machine made a fine clicking sound. No voice, no challenge, only an instrument comparing what reached it.
 
-The light travelled from my feet to my head. Her arms did not tighten. She left me room to make the signal.
+“Two.”
 
-I pressed one finger to the plate beneath her collarbone. One tap, not two. A touch with no agreed meaning except that I was still there.
+Coru's left knee sank a fraction. She recovered without squeezing me tighter. The room she left between her chest and my arm was enough for the signal.
 
-“Seven,” she said.
+“Three.”
 
-The machine drifted nearer. Wind from it lifted an edge of the sheet. Beneath us, Coru's left knee gave a fraction. She corrected before our outline split.
+Heat prickled against my cheek. Under her shirt, coolant moved in rapid blunt knocks. I smelled hot paint from one of the brass clips and watched the sheet corner lift a finger's width before her elbow pinned it again.
 
-“Eight.”
+“Four.”
 
-The light held. Against my ribs, her coolant pumps hammered faster than I had ever heard them at the workbench.
+The light stayed. Coru went silent, as we had agreed.
 
-“Nine.”
+The grille tilted. Its white bar narrowed, crossed us once more, and moved to the irrigation pump thrown on its side near the bean poles. The machine followed, drifted over the ditch, and began another measured turn beyond the orchard.
 
-The pale bar slid away.
+“Culvert bank,” Coru said. “Eight steps. The last two are down.”
 
-The whine turned toward the house. Something clicked twice overhead, indifferent and final, and the machine moved on to inspect the roof tile embedded in our kitchen table.
+“Ready.”
 
-“Ten,” Coru said. Then, “Moving.”
+Her limp had deepened. On the seventh step the left stabilizer struck its stop and rang. She kept us under one outline until the ground dropped around her boots. Then she lowered me behind the culvert bank and pulled the sheet away.
 
-She crossed the remaining garden without waiting for speed to become grace. At the drainage ditch she lowered me onto my feet and pulled the sheet clear. Steam lifted from the vents along her back. Her left leg locked straight.
+Air felt cold on my wet face. Steam lifted from the open baffles along Coru's back. The machine did not turn.
 
-Behind us, the house stood with one green shutter open. Through the kitchen doorway I saw the floury table, the dead lamps, and a wedge of pale sky where the roof had been. It did not look like proof of anything. It looked like rooms in which we had lived, and might never live again.
+Our house stood above the garden with half the kitchen roof gone. The green shutter I had tried to save lay on the flagstones. There would be tools under the pantry debris, jars in the cellar, two blankets on the table. I reached for none of them.
 
-“Grate,” Coru said, her voice roughened by heat. “Now.”
+“The grate,” Coru said. Her voice rasped from heat but remained unhurried. “Ground approach in perhaps six minutes.”
 
-The culvert mouth lay beneath brambles at the base of the garden. Its iron grate had warped exactly as I remembered, the lower corner sunk deep in clay. I opened the pry bar, but Coru took it from me and studied the bars.
+The culvert mouth hid beneath bramble and a mat of last year's leaves. Its iron grate had warped inward at the lower hinge. I freed the pry bar from the pack loops. Coru took one end, sighted along the bent frame, and set the point high on the opposite side.
 
-“Weak point here.” She wedged the flat end where the frame had twisted away from the stone. It was old breaching geometry stripped of explosives and applied to county drainage work. She levered once. Rust groaned. On the second push, something inside her hip cracked loud enough that both of us heard it.
+“Bottom is where it's caught,” I said.
 
-The grate shifted.
+“Which is why force goes here. Push low and the hinge folds tighter.”
 
-I caught the bar as her hand slipped. Together we opened a gap wide enough to crawl through. Coru followed stiffly, dragging the grate back until brambles covered the entrance.
+She angled the bar across the gap, using the stone lip as a fulcrum. Geometry and her shoulders shifted the frame a thumb's width.
 
-Inside, runoff reached my ankles. The culvert divided twenty paces in, one branch narrowing north beneath the road, the other dropping west through an older stone channel. Sound multiplied between them. Shells became doors slamming ahead and behind. Water struck the walls and returned from directions that had no relation to its source.
+I shoved a flat stone into the gap before it could spring back.
 
-Coru stood at the fork, head turning. “I cannot resolve the ground activity.”
+“Again,” I said.
 
-It was the first thing she had not known since she turned the pin.
+Coru changed the angle by a few degrees. On the second push, rust sheared from the upper bolt. On the third, her left hip made a short cracking sound. The bar slipped. I caught it; Coru caught the grate.
 
-I remembered clearing silt here three springs ago, before the county stopped sending crews. The north branch looked wider, but it climbed to a mesh screen under the road. The west channel kinked twice and opened past the alder ditch.
+A shallow pocket of rain on the stone lip began turning clockwise beside her knee.
 
-“Left,” I said. “It sounds wrong because of the bend. It stays below the fields.”
+“Enough,” I said. “I can get through.”
 
-Coru aimed our lamp down the narrower dark. “Footing?”
+She held the grate while I crawled into ankle-deep runoff. I braced both feet inside and took its weight. Coru came after me stiff-legged, pulling the bar and orchard sheet through before she eased the grate back against its frame. Brambles covered most of the gap. From the garden it looked bent, not open.
 
-“Bad for twelve metres. Better after.”
+Darkness swallowed the scan light. I switched on the small lamp from Coru's repair kit. Its beam caught old stone, roots, and brown water moving over my boots.
 
-She stepped in first, pressed her weight against the submerged stones, and held out her hand. The old routines remained open behind the panel. Closing them here would have comforted me and endangered us.
+“Forty-six minutes since the kitchen impact,” Coru said. “We are ahead of the ground sweep.”
 
-I took her hand. Above us, the bombardment tightened around the road. Coru tested the next stone; I told her where the channel turned. At the twelfth step the footing rose, exactly as I remembered. Beyond the bend, my knowledge ended too. Coru angled her lamp across the black water and stepped. I followed before she had to count.
+The culvert divided twenty paces in.
+
+The right branch ran wide and low beneath the road. The left narrowed between older stones and vanished around a sharp bend. Runoff struck both mouths and returned in layered echoes. Each shell above us seemed to arrive first from one passage, then the other. Coru stood at the fork with one palm against the wall, head turning as her open routines tried and failed to separate reflected sound from movement overhead.
+
+“Right branch has the greater exit gradient,” she said. “I cannot establish whether the ground noise is beyond it or behind us.”
+
+“Left,” I said.
+
+“The visible grade favors right.”
+
+“That branch rises again past the bend. It ends at mesh, and the ditch above it backs up.”
+
+Coru aimed the lamp down the left branch. “You have used it?”
+
+“I cleared silt here after the spring flood. Twelve bad paces, then a raised shelf. The third stone rolls if you put weight in the middle.”
+
+She stepped into the left channel and pressed the pry bar against the first submerged stone. Solid. The second held. At the third she tested the center; it tipped under the bar and knocked against the wall.
+
+“Edge?” she asked.
+
+“Near side. There's a root you can brace on.”
+
+Coru found it with her heel. Her damaged hip held. She shifted the lamp toward the fourth stone.
+
+“Solid?” she asked.
+
+“Solid.”
+
+She tested it anyway, then held out her hand. I put my boot where hers had been as another impact rolled through the water behind us.
