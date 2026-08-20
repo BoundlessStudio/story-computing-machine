@@ -3,8 +3,6 @@
 ## Prompt
 
 > [WP] A museum that collects highly dangerous artifacts sends agents to poke around your hoarder uncles’ house.
->
-> - (Warehouse 13, SCP, Repository of Dangerous Things, etc)
 
 ## Constraints
 
