@@ -6,15 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Maledict | new | Villain whose mind occupies Pickle's body; no exact, alias, close-spelling, or confusing reuse found. |
-| Pickle | new | Brightguard's established living dog, distinct from Maledict; no exact, alias, close-spelling, or confusing reuse found. |
-| Brightguard | new | Older contemporary hero and Pickle's owner; no exact, alias, close-spelling, or confusing reuse found. |
+| Maledict | new | Supervillain occupying Pickle's body; targeted screening found no exact, alias, close-spelling, or confusing reuse. |
+| Pickle | new | Brightguard's established living dog, dog-minded in Maledict's body; targeted screening found no conflicting reuse. |
+| Brightguard | new | Older contemporary superhero and Pickle's owner; targeted screening found no exact, alias, close-spelling, or confusing reuse. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tri-City Area | new | Modern metropolitan setting; no exact, alias, close-spelling, or confusing reuse found. |
+| Tri-City Area | new | Modern metropolitan setting containing the townhouse and skyscraper; targeted screening found no conflicting reuse. |
 
 ## Continuity
 
@@ -25,4 +25,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The opening immediately establishes the fourteen-hour body swap between Brightguard's already-pampered dog and Maledict. Brightguard's escalating habit corrections sustain the comedy; Maledict reaches his intended crime, then deliberately refuses reversal for Pickle's established luxury. Pickle remains alive, unharmed, dog-minded, and cared for in Maledict's safe human body, while only the unnamed butler knows the private outcome and the public and heroes keep searching. The Tri-City Area, modern skyscraper, older contemporary Brightguard, and natural white-fur forepaw are explicit, and the ending grows from the accumulated comforts rather than adding a coda.
+- Notes: The established-pet swap and both occupants are clear in the opening, and the 10:00-to-midnight interval is exactly fourteen hours. Brightguard's intimate habit and health corrections, the butler's clipped operational cover, and Maledict's enforced silence give the exchanges distinct pressures that repeatedly alter action. Maledict gains access to the poison and counterseal, voluntarily withholds his local signal, and keeps refusing later windows while the butler alone safeguards dog-minded Pickle and prepares the other half. The Tri-City Area, modern skyscraper, older contemporary Brightguard, existing luxury, natural white forepaw, public uncertainty, and continuous safety of both distinct bodies all remain explicit without implying a universal transformation law or appending a redemptive or policy coda.
