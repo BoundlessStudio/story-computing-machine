@@ -22,7 +22,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The required exchange opens a complete cosmic-game peril that the three friends jointly identify and solve. The bounded seeking shape and return aperture establish no conflicting shared-system connection, the guides are not certified as gods, and the session-zero ending grows from the game's consent failure after the physical danger is resolved.
+- Notes: The required exchange opens a complete cosmic-game peril that the three friends jointly identify and solve. The nonliving seeking shape remains dependent on person-like players' forecasts and bounded return path, the guides are not certified as gods, and the final mug condition grows from the game's consent failure after the physical danger is resolved. The outline-only surnames `Thorne` and `Ruan` do not appear in the final prose and therefore are not inventory entries.
