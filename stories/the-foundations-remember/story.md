@@ -8,308 +8,390 @@ canon: false
 
 # The Foundations Remember
 
-The lender wanted Teren Vard's first clear view of the city.
+The apartment had fifty-one minutes left in Orla Dace's name when the repossession rig asked Teren Vard to prove they remembered being four.
 
-They stood outside apartment 81, repossession rig balanced against one knee, while the license check opened a door in the back of their sight. At once they were six years old again, too short to see over the lift rail. Their fingers fitted the old scratches in its brass. Someone behind them smelled of hot cloth and citrus soap. Their mother said, *Wait. Now look.*
+Teren sat cross-legged on the bare floor. A pale rectangle on the wall showed where a bed had blocked the neon for years; everything else had already gone to the eviction warehouse. Across the room, Orla waited beside one packed transit bag, silver hair flattened on one side from a cap she no longer owned.
 
-The lift rose out of the lower dark. Floors slipped past in bars of blue, green, fever-pink. Neon found the child's reflection piece by piece: knuckles, cheek, both startled eyes. Then the towers opened above, stacked so high that their lights narrowed into a second sky.
+The rig would not open a client's source until its operator retrieved a licensed identity anchor. Teren selected EARLY-LIFE BLOCK TWO, ITEM 03.
 
-Every school film began with that ascent. Humanity had first gathered here, the teachers said; below the lowest foundations waited untouched stone.
+A lift gate pressed its diamond pattern into small fingers. Someone's wool sleeve warmed one cheek. The car climbed through the city's interior, passing strata of violet signs and green-lit bridges, while a train far below made four soft blows through the lift cables, a pause, then two more. Beyond the mesh, a school banner wrapped three towers: FIRST CIVILIZATION. FIRST CITY. NOTHING HUMAN CAME BEFORE.
 
-IDENTITY ANCHOR ACCEPTED, the rig printed across the view. CHILDHOOD BLOCK THREE: COLLATERAL ACTIVE.
+The woman holding Teren bent close enough for citrus peel to scent her breath.
 
-The memory released Teren with citrus still sharp at the back of their tongue. They resented that most. A lender should have been able to check a checksum. It did not need their mother's soap.
+“Look up, Teren. That's where we're going.”
 
-Forty-nine minutes remained before the eviction handover.
+It was the first memory in which their name sounded like theirs. The licensed childhood partition held forty-three more: their mother's face above a breakfast bowl, the first room they knew as home, the first letters they had written without help. Teren could recall the facts outside the block, but facts did not give back the wool against their cheek or that upward pull beneath the ribs.
 
-Teren straightened their gray junior's coat, confirmed the green seal on the rig, and knocked.
+The lift dissolved under a status pane.
 
-Orla Dace opened the door before the second knock. She was a broad, compact woman with silver hair clipped close to her scalp and the pale twin stripes on her wrists left by years of transit gloves. Behind her, the apartment had been reduced to rectangles: clean patches where shelves had stood, dust borders around missing chairs, four bolt holes where a wall display had been.
+ANCHOR VERIFIED. ACCESS ACTIVE. EARLY-LIFE BLOCK TWO: COLLATERALIZED IN FULL.
 
-Her eyes went to the junior stripe on Teren's collar. “They sent a learner.”
+Orla's mouth tightened. “They make you open your own before you can take mine?”
 
-“A licensed technician.”
+“They verify my licensed space before a source session.” Teren disliked how young they sounded after the memory released them. They straightened the junior stripe on their cuff. “My storage has to reconcile when I close.”
 
-“Both can be true.”
+“That wasn't an answer.”
 
-Teren offered the writ. Orla did not take it. The text shone between them anyway: tenancy terminated, work-life tranche in arrears, one selected recollection subject to repossession and erasure at source. Its boundaries were unusually exact. Lowest-line platform, unauthorized panel entry, descent and return. Thirty-six minutes, nine seconds of lived material.
+“No,” Teren said. “It wasn't.”
 
-“The furniture crew arrives at noon,” Teren said. “If we begin now, I can keep the procedure private.”
+Outside the window, advertisements ran upward along the opposite tower. A laughing child plunged into a summer sea, the leased recollection edited so the water shone pink and the fear had been cut out. Lower-tier citizens often paid rent with experiences instead of money. The housing corporation copied each selection into its archive, recut it for sale, and licensed access back to the person who had lived it while the account remained current. Eviction turned those licenses into recoverable property.
 
-“Generous.”
+Teren unfolded the rig's three screens. They clipped the source cuff around Orla's wrist, fitted the witness band behind their own ears, and seated the creditor key in its black slot. A raw buffer would hold the selected sequence only until the session closed. From there, the rig permitted three destinations: creditor upload, verified deletion, or Teren's licensed space. It permitted no external export. Teren's junior credential could not create another partition.
 
-“Practical.”
+Orla watched each lead go in. “Say what they keep.”
 
-She stepped aside.
+“The corporate archive retains its editable master. Today's upload confirms the current source against it. Then I remove your access to the selected recollection.”
 
-Teren set the rig on the bare floor. Its three hinged screens unfolded like dull petals. One lead went to Orla's source cuff, one to the contact band Teren fastened behind their own ears. The third terminated in the black creditor key already authorized by the writ. When the session closed, the rig would purge its raw working buffer. What remained could go only to the creditor vault, back to the registered source, or into the technician's licensed space. Junior licenses were small, audited, and expensive. Teren's was nearly full of their own life.
+“Say what I keep.”
 
-Orla sat on the windowsill. Beyond her, traffic advertisements climbed the neighboring tower in luminous schools: borrowed summer dives, a pilot's first cloudbreak, a chef's recollection of cinnamon altered to advertise perfume. The same fourteen delighted faces repeated every forty floors.
+“Everything outside the authorized boundary.”
 
-“Inventory,” Teren said.
+“I do not agree to the deletion.”
 
-“You already have it.”
+“The writ doesn't require source authorization. Witness playback does.”
 
-“I need your confirmation. The selected memory belongs to a leased work-life tranche acquired by your former transit employer, then transferred to its memory subsidiary after dismissal. The corporation retains its archival master. Today's action removes your accessible source copy.”
+“Then mark me opposed. Don't turn my sitting still into permission.”
 
-“You mean my memory.”
+Teren marked the source deletion disputed. The entry did not stop the order; it changed what their record could claim about Orla.
+
+The rig projected the boundary statement between them: lowest-line inspection, unauthorized access, descent, sampling, concealment, return. Thirty-eight minutes and twelve seconds.
+
+Teren began the inventory. “Please confirm the recollection begins at 23:16, after the final westbound service.”
+
+“It begins before that.”
+
+“The registered entry—”
+
+“Begins when the rail tells me something is moving under it.” Orla flexed the hand in the source cuff. Pale bands crossed her wrists where transit gloves had ended for twenty-three years. “Your clock starts when I opened the panel. Cut there and you leave me knowing I found a wrong vibration, with no memory of how I answered it.”
+
+The order allowed boundary correction when the selected event had been clipped inaccurately. Teren found the preceding ninety-four seconds. “Adding this increases the source loss.”
+
+“It makes the loss accurate.”
+
+Forty-six minutes remained. Teren extended the boundary.
+
+The rig offered a shallow automated match. Teren could certify the selection without entering its sensory record. Orla read the option upside down.
+
+“You'll let a label tell you it's a tunnel.”
+
+“I can verify sequence and source at low depth.”
+
+“You can verify a door.” Orla tapped the floor twice with her heel, waited, then tapped once. “You won't know what was on the other side.”
+
+“Witnessing doesn't preserve it.”
+
+“I know what witnessing does.” Her gaze stayed on the black key. “I leased them my first emergency stop. They sold the calm and removed the passenger under the wheel. Watch this one before they decide what it was about.”
+
+Teren's training warned against accepting a client's purpose for a memory. It also required a technician to resolve a disputed boundary.
+
+“Do you understand that I will receive recorded sensation and motor trace from the selected interval?” they asked. “Not anything you think now. Not anything outside the capture.”
+
+“Can you hear me deciding whether I trust you?”
+
+“No.”
+
+“Good. Record that I authorize you to witness this interval. No farther.”
+
+Teren logged her words and lowered the band.
+
+The empty apartment lost its edges.
+
+A rail hummed under two gloved fingers.
+
+Not the bright singing vibration of a train taking the curve above. This pulse came up through the ballast: four impacts, a long gap, two. The knees had already softened. Weight had shifted away from the platform edge before Teren knew there was an edge.
+
+Cold air tasted of brake dust and old rain. The lowest line lay after service, its lamps dimmed to alternate pools. Forty paces beyond the westbound stop marker, the platform narrowed behind a column. A camera swept to the first pool of light, hesitated, and swept back. During that hesitation, Orla's boots crossed to an unnumbered wall panel.
+
+The panel's paint matched the tile too well. Its upper screws were new. The bottom plate bore a crescent polished by movement from within. A transit key entered the utility lock, turned left, resisted, then gave when the hand lifted as well as twisted.
+
+Behind it, a ladder dropped past the reach of the lamp. Twelve rungs were bright city alloy. The thirteenth was black iron, cupped at its center by feet that had climbed it for years.
+
+Teren cut the playback.
+
+They returned with their right shoulder pressed hard against Orla's wall. The rig shivered a moment later as a train moved somewhere above the apartment. Teren caught the open center screen before it struck the floor.
+
+Orla glanced at their hand. “Freight. Two tiers up.”
+
+“Motor residue,” Teren said. “It passes.”
+
+“So does a train. You still step back.”
+
+Teren checked the source graph. “The entrance matches the order.”
+
+“The entrance contradicts every foundation plan they issued me.”
+
+“An unlisted service void isn't evidence of a civilization.”
+
+“Those first twelve rungs were installed from above. The iron below was worn from the middle.” Orla drew one finger along the old glove mark on her wrist. “You know what a track worker learns before she's allowed near live rail? New metal fails at its joins. Old metal fails where hands and feet have used it. That ladder had both.”
+
+Teren could mark the interval verified now. The rig would send the source state to the creditor, erase Orla's access, and purge the buffer. Their first unsupervised repossession would close without an exception.
+
+“Why was your work contract terminated?” they asked.
+
+“Because I filed a subsurface fault notice.”
+
+“The personnel record says repeated access breach.”
+
+“The first notice got no inspection. The second got my night shifts removed. After the third, they welded the panel, took my key, and billed the missing rent against the same work-life tranche.” Orla nodded toward the empty wall. “The bed went this morning. Apparently steel keeps better than a worker.”
+
+Thirty-nine minutes.
+
+Teren reopened the depth control. “I need to see the lower boundary.”
+
+“You need enough to sign.”
 
 “Yes.”
 
-“You mean they keep theirs.”
+Orla studied them, perhaps waiting for a better reason. Teren had none they could warranty. At last she turned her cuff palm-up. “Then count past the alloy before you sign.”
 
-Teren looked at the black key. “Yes.”
+The ladder returned beneath their hands.
 
-Orla flexed her hands as if settling them into absent gloves. “Then you see it first.”
+Twelve alloy rungs. Forty-one iron. At the bottom, the left boot found small hexagonal tiles under a skin of silt. A pipe bearing current inspection bands crossed the low ceiling; Orla followed it through a brick opening, ducked beneath a newer conduit, and counted six rectangular columns.
 
-“Witness playback isn't required.”
+The city's foundation piles descended among them.
 
-“Neither was bricking a door under the lowest line, but someone was particular about that too.”
+Each pile was broad enough to fill a room. Smooth gray composite had punched through the tiled ceiling, through a flight of stairs, through a bench whose corroded frame still curved around it. Fluorescent batch stamps on the nearest pile matched the official foundation works. Around those vertical intrusions extended an older concourse: paired narrow rails, platforms on both sides, a clock face with two rings of numerals, and wall signs scraped until only pale hollows remained.
 
-The handover timer turned amber: forty-three minutes.
+Orla's issued assay tool knocked against her thigh. Her hand set it first against the gray pile. The tool drilled a pinprick control sample and displayed an age consistent with the city's six-hundred-year history.
 
-Teren could refuse. A clean job meant minimal playback, exact boundaries, no contamination between source and technician. Their supervisor said people ruined themselves by getting curious inside other people's lives. Yet deletion required Teren to certify that the selection matched the writ, and Orla was challenging the match.
+At the rail fastening, its tone changed. A second microcore slid into the assay wafer. The estimate climbed past three thousand years.
 
-“One verification pass,” Teren said.
+The recorded body did not supply triumph. It supplied a cramped calf, condensation under a glove, and the ache of holding still while a train crossed somewhere overhead. The foundation pile trembled. Dust fell from an erased sign.
 
-Orla held out her wrist.
+Four blows through the old concourse. A pause. Two more.
 
-The rig found the edges quickly. Sound thickened. The bare room went dark.
+Small bare fingers tightened on a lift gate. Wool touched the cheek. Neon ran where mineral water should have run, and the voice beside Teren said, “Look up.”
 
-Metal dust gritted between the teeth.
+Teren's eyes were open inside the memory, but the rig painted a source line over the intrusion: CHILDHOOD BLOCK TWO / CADENCE MATCH / CROSSFADE.
 
-The lowest platform was supposed to be empty after last service, but empty track was never quiet. Power lines ticked as they cooled. Ventilation breathed through tile seams. Far above, trains made the ceiling tremble in patterns learned over twenty-two years: local, freight, express, then the short hard shiver of a switching engine.
+They pulled out.
 
-This vibration came from below.
+Orla was speaking before the apartment fully returned. “Where did you lose it?”
 
-Boots crossed the yellow edge stripe. A hand pressed the rail bed, two fingers down, not to feel force but spacing. There: a pulse, a pause, a longer pulse. Repeating.
+“I didn't lose anything.” Teren pushed the childhood trace behind an isolation wall. “The same subsonic cadence is in my anchor. The rig crossfaded on frequency.”
 
-The body turned before Teren chose to turn. Its lamp picked out an access panel beyond the platform camera's arc. The panel bore no number. Gray sealant had been painted over its bolts, but the lower hinge was polished where vibration had worried metal against metal.
+“The train under your lift struck the same pattern?”
 
-A transit key fitted.
+“The same cadence. The lift crossed above a train guide.” Teren heard the stiffness in their answer and forced their hands flat. “The reading on your assay display is not physical proof. Inside playback, it is only a record of what the tool appeared to say.”
 
-Behind the panel, a ladder descended farther than the city's foundation diagrams allowed. The first twelve rungs were new alloy. The next were black iron, their centers worn shallow by boots.
+“Finally.”
 
-Teren broke the link.
+Teren looked up.
 
-The apartment returned too bright. Their right hand clutched the rig's casing. Their left was lifted away from an edge that was no longer there.
+“Finally you're suspicious of the right part,” Orla said. “The display could have been miscalibrated. My recollection could smear a digit. Their master can be edited.”
 
-Orla watched them. “Infrastructure hazard?”
+“What remains outside the memory?”
 
-The phrase had already risen to Teren's mouth. It was the reason code on the writ. “An unlisted access route is dangerous.”
+“The wafer keeps the cores.”
 
-“So is a staircase if you stop halfway down.”
+“Where?”
 
-A train passed somewhere inside the tower. Before the sound reached the windows, Teren bent their knees and caught the top screen. The rig had not yet begun to rattle.
+“You stopped.”
 
-Orla noticed. “That wears off.”
+SOURCE LABEL STABILITY: 73%. RAW BUFFER: 00:24:31.
 
-Commercial playback warnings called it motor residue. Customers who leased athletes' victories often dropped cups for an hour afterward because their hands expected a different weight. Teren had laughed at the instructional clip in training. They did not laugh now.
+Teren said, “A third immersion increases cross-source contamination.”
 
-“You reported the panel,” they said.
+“Of your labels.”
 
-“I reported what was past it. My shifts disappeared first. The apartment took longer.” Orla rubbed one pale wrist stripe with her thumb. “Your order doesn't include the reports. Or the meetings. Just the part where I learned what they needed forgotten.”
+“And of what I can certify.”
 
-“The master won't be forgotten.”
+Orla rubbed the cuff where it pressed into tendon. “You keep saying source as if it means a socket. This route is in the way my ankles count a ladder. If you go back, you borrow that. If you erase it, I lose it.”
 
-“No. They can trim it, soften the colors, sell the descent to people who like a scare before dinner. I suppose that's a kind of remembering.”
+“The selected sequence is data linked to your registered access. It isn't another you in the buffer. But the experience is yours.”
 
-Teren checked the selection graph. The memory had clean physiological continuity, no edit scars. A single pass was enough to confirm the first boundary but not the last. They could mark it verified and never know what lay at the bottom.
+“That distinction matters to your forms.”
 
-Thirty-seven minutes.
+“It matters to me.”
 
-“What do you want me to find?” Teren asked.
+Orla's expression changed by less than a smile. “Does it?”
 
-“What I found.”
+Teren could have defended the system. Instead they rotated the witness pane so she could see its limits. “I cannot hear your present thoughts. I cannot search beyond the interval. When the raw buffer purges, ordinary impressions may remain with me, but not a navigable playback. If I don't witness the last section, I won't retain the route to whatever you hid.”
 
-“And then?”
+“And if you do?”
 
-“Then you'll at least erase the right thing.”
+“The same purge applies.”
 
-She did not ask to be rescued.
+“But for a few minutes, two people know where the wafer is.”
 
-Teren lowered the playback threshold. “Second pass.”
+Teren nodded.
 
-Dark. Iron cold beneath both hands.
+Orla looked toward the window, where somebody else's edited summer climbed the tower again. “I am authorizing the rest because I want you to know what your deletion contains. That is not permission to spend anything else.”
 
-The ladder ended on tile.
+“I understand.”
 
-Not service tile. Small cream hexagons spread beneath dust, buckled by roots of concrete driven down from overhead. The nearest foundation pile filled what had once been a stairwell. Another punched through the roof of a long chamber. Along its far side lay paired steel rails, narrower than the city's lowest line and furred orange with corrosion.
+“Don't answer quickly.”
 
-The headlamp moved slowly. Benches emerged. A smashed clock with two rings of markings. Signs had been abraded to white scars, yet in one corner several characters remained under mineral bloom. They belonged to no transit alphabet Teren knew. Orla's hand measured their height, then photographed them with an issued assay wand.
+Teren let the buffer lose eleven seconds. “I understand the difference.”
 
-The wand was a cheap maintenance instrument, built to tell whether a corroded beam would survive another season. It chirped unhappily at the rail, sampled oxidation and trapped residue, and returned an age range nearly four times longer than the city's six-century official history.
+Orla offered her wrist.
 
-ERROR: ENVIRONMENTAL CONTAMINATION, its display decided.
+Water closed over the boots.
 
-Orla sampled a roof bracket. The estimate shifted older.
+The cold belonged first to no one. Then the left ankle rolled against a submerged edge with Orla's practiced correction, and Teren knew whose body the recording described.
 
-Above, through concrete and layers of earth, a train approached. The remembered body moved to the wall. Teren's small hand closed on a scratched brass rail.
+Beyond the old concourse, behind the sixth column, a broken route board covered an arch. Its frame lifted when pressed at the lower right corner. Through it, a shoulder-width passage sloped under the nearest current foundation pile. Orla touched every junction on the return: brick opening; cable bracket shaped like a hook; seventeen descending steps, the last three underwater.
 
-*Wait. Now look.*
+The chamber below was round. Narrow channels scored its floor toward a central basin. Its walls had been laid in fitted rectangular blocks, but the builders had not cut those blocks from fresh stone. On their exposed faces ran fine diagonal tooth marks. Beneath chipped corners lay wider crescent blows, weather-softened before the fine tools ever dressed them. Some blocks had been turned sideways, trapping the older marks inside mortar.
 
-The old concourse rose in neon bars. For one impossible second their mother's reflection stared from a black tunnel mouth, and Orla's gloved fingers lay over the child's.
+The city stood on a rail concourse. The concourse stood above a water chamber. The chamber itself had been built from the worked remains of something older still.
 
-Teren tore free so sharply that the contact band pulled their hair.
+Orla took a mortar sample. The assay wafer accepted a third core and returned a range more than twice the rail's age. She cleaned one exposed crescent with distilled water from her kit, sampled the darkened stone beneath it, and watched the tool abandon numbers for BEYOND CALIBRATED CIVIC RANGE.
 
-SOURCE LABEL STABILITY: 82%, the center screen warned.
+The display was not a verdict. The wafer in the tool now held the gray foundation control, the rail fastening, the chamber mortar, and grit from the older worked face in separate sealed cells. Its serial matched an issued maintenance instrument. Someone with another assay could test each cell. Someone with the route could inspect the pile through the old platform and the chamber underneath it.
 
-Orla leaned forward. “You crossed into something.”
+A deep vibration moved through the water. Orla's knees loosened.
 
-“Temporary sensory crossfade.” Teren opened the diagnostic pane. “Similar low-frequency inputs. It doesn't alter either source unless I write the session.”
+The lift rose through neon. Teren's mother had one hand on the gate, except the hand wore a transit glove, except the glove held an assay tool, except a small thumb was tracing the diamond mesh. The source label flickered between ORLA DACE / SELECTED INTERVAL and TEREN VARD / ITEM 03.
 
-“Is that what you tell yourself, or what the manual told you?”
+The recorded hand ejected the wafer.
 
-“Both can be true.”
+Back up seventeen steps. Through the lifted route frame. Six columns toward the ladder, then past the pile that had split the old bench. At the clock, turn away from the platform edge. A drain channel ran under the wall. Orla removed the third grille after the clock, pressed the wafer into a dry gap above its upper bracket, and returned the grille with the middle fastener one turn short of flush.
 
-“Learner,” Orla said.
+Her thumbnail tested that fastener twice.
 
-Teren increased label isolation. It cost them six minutes of buffer time. The handover timer and purge timer advanced together, one threatening interruption, the other obliteration.
+Then the route reversed: clock, broken bench, six columns, hook-shaped bracket, brick opening, forty-one iron rungs, twelve alloy. The wall panel shut. The transit key came free.
 
-“The assay isn't proof,” Teren said. “The reading happened inside the memory.”
+The apartment struck Teren all at once. Their thumbnail was scraping the rig's center hinge.
+
+SOURCE LABEL STABILITY: 46%. RAW BUFFER: 00:11:02.
+
+Orla leaned against the wall. “Now you can erase the right thing.”
+
+Teren opened the destination controls. The creditor master answered first: present, editable, licensed for derivative sale. A fresh upload would reconcile its copy with Orla's source. Verified deletion waited beneath it.
+
+“Can you keep the wafer location?” Orla asked.
+
+“Not separately.” Teren selected the last twenty seconds and tried to route them into a text note. The rig marked the directions as derived source material and refused export. “The boundary follows any extract.”
+
+“Say it until you know it.”
+
+“I'll remember a clock and a loose fastener. I won't have your measured route after isolation closes.”
+
+“Then put the route in your space.”
+
+“My free allocation holds three minutes.”
+
+“Compress it.”
+
+“The licensed sequence is already compressed. I can't create a partition with a junior seal.”
+
+Orla lowered herself to the floor opposite them. “Then you're out of permitted controls.”
+
+“Most of them.”
+
+The crossfade warning pulsed under the destination pane. Teren opened it to clear the error and saw the two cadence traces lying almost exactly together: the childhood lift crossing a transit guide; the buried trains passing through stone. Four beats, pause, two. The rig offered the standard repair function for a licensed memory with sensory dropout.
+
+A reversible repair kept its entire reference sequence behind the target memory. Ordinarily a technician used a few seconds of the same person's adjacent experience to restore a missing voice or color. Teren could designate Orla's full interval as the reference track for the lift vibration, burying thirty-nine minutes behind fourteen seconds of childhood. The shared subsonic cadence would pass the automatic match. The source mismatch would not vanish. It would make the entire target block contractually suspect.
+
+Teren opened the warning.
+
+EARLY-LIFE BLOCK TWO: 44 ITEMS.
+COLLATERAL WARRANTY WILL REQUIRE REVALUATION.
+POSSIBLE ACTIONS: IMMEDIATE FREEZE, ACCESS SEIZURE, FULL-BLOCK FORECLOSURE.
+FOREIGN-SOURCE REFERENCE MAY BE TRANSFERRED WITH COLLATERAL.
+
+Orla read without asking Teren to turn the screen.
+
+“No,” she said.
+
+“The repair would retain the complete playback.”
+
+“Close it.”
+
+“The corporation would no longer hold the only navigable master.”
+
+“I said close it.” Orla reached toward the screen, stopped before touching Teren's controls, and put her hand back on her knee. “I asked you to look. I did not ask for your first room, your mother's face, whatever else they have tied up in there.”
+
+“They're already collateral.”
+
+“Then you know what already feels like.” She nodded toward the clean floor where her bed had been. “Don't add my weight and call it my choice.”
+
+Seven minutes remained in the raw buffer. Teren stared at ITEM 03 behind the warning. Forty-four pieces of their beginning sat there as one collateral unit.
+
+Their childhood block was the complete reference for Teren's own beginning. They had pledged it to keep an apartment and told themselves pledged was not lost because they could still open it. Orla had not needed to say how poor that distinction was. Her bare wall had said it first.
+
+“Use the order,” Orla said. “Keep your childhood.”
+
+Teren met her eyes. “If I preserve it, I won't record you as authorizing the transfer.”
+
+“You don't have it.”
 
 “I know.”
 
-“You could misremember the number.”
+“And I won't tell you it's worth the trade.”
 
-“I know.”
+“Good.” Teren returned to the repair pane.
 
-“A copied playback could be edited.”
+Orla's jaw shifted. “Why?”
 
-“That's why we're going farther.” Orla tapped the black creditor key with one fingernail. “You think I don't know what they can do because I fixed trains instead of minds?”
+“I reconcile versions for a living. If they hold the only full one, no one can find what they change later. I can't call that exact.”
 
-Teren reattached the band. “Where did you put the sample?”
+“Then leave me out of your warranty statement.”
 
-Orla looked toward the window.
+Teren set the tunnel playback as reference.
 
-The third pass began with a shoulder scraping masonry.
+The rig aligned the shared cadence. It asked whether the lift's missing vibration required a reversible source record. Teren answered yes. They reconciled the clock's assay chirp as transient lift noise, the headlamp glare as damaged neon response, the cold water as a sensor artifact. None of those labels made the tunnel untrue or chose it as important. They only told a storage system where to put data.
 
-At the end of the ancient platform, a service breach opened behind fallen panels. Orla squeezed through. The assay wand hung at her belt; grit rasped under her coat. Beyond the breach, steps descended through the tiled wall into stonework that had never belonged to the rails.
+At the final control, Teren saw the childhood block listed not as forty-four memories but as one collateral unit.
 
-Water covered the bottom step. The chamber below was round, its ceiling shallow and corbeled. Each block had been cut with parallel grooves, but not all the grooves ran alike. Some were narrow and regular. Others underneath were broad crescents, weathered before the smaller blocks had been set on them. Builders of the chamber had reused the ruins of something older.
+They signed.
 
-Orla's lamp found a channel worn around the room and a row of square sockets where a mechanism had once stood. The current foundation piles missed the chamber by less than a meter. Wet concrete had leaked between stones and hardened in pale curtains.
+LICENSED-SPACE TRANSFER COMPLETE.
 
-She knelt in black water and fitted the assay wand's last clean cartridge to a fallen block. The tool drilled a core thinner than a needle and sealed it into an ejected wafer. Its dating routines split the result across incompatible columns. Mortar: older than the buried rails. Tool surface beneath the mortar: beyond calibrated civic range.
+The creditor upload took twenty-two seconds. Its master accepted Orla's current source and retained edit rights. Teren then placed two fingers on the deletion control.
 
-The wand urged submission to a supervisor.
+Orla held out her cuffed wrist. “The whole boundary.”
 
-Orla laughed once. The sound hurt Teren's throat though the laugh was not theirs.
+“The whole boundary,” Teren said.
 
-She marked the chamber's relation to the foundation piles, counted seventeen steps back to the breach, and climbed. At the old platform, she pried a drain grille loose with the flat end of her transit key. Three screws came out. The fourth only turned. She slid the wafer behind the grille's upper left corner, where runoff had carved a pocket in the tile bedding, then replaced the screws with the stripped one last.
+They initiated verified deletion.
 
-Footsteps sounded on the iron ladder.
+Nothing visible left Orla. She inhaled once when the progress line crossed the first ninety-four seconds, then watched it move through the panel, the ladder, the concourse, the chamber, the hidden wafer, and the return. At completion the rig compared absence at source with the authorized boundary and issued its receipt.
 
-Fear brought the next minutes in pieces: a gloved hand closing the panel, two supervisors refusing to look at the assay log, gray sealant pressed over the bolts while Orla stood without her key. Yet the route remained in her muscles. Lowest platform. Blind side of the camera. Ladder. Old concourse. Breach. Seventeen steps. Drain grille, upper left.
+The raw buffer purged.
 
-Then six-year-old Teren was rising again, above foundations everyone said were the beginning. Their mother turned them toward the light. Teren could not see her face. A black iron ladder cut through it.
+Orla looked down at her boots. “I can remember the rail felt wrong.”
 
-They surfaced in the apartment with both hands gripping the floor.
+Teren did not prompt her.
 
-The rig chimed. SOURCE LABEL STABILITY: 61%. RAW BUFFER PURGE IN 00:12:08.
+“I can remember filing notices. I can remember losing my shifts.” She closed her eyes, then opened them. “There should be distance between those things.”
 
-Orla's face had gone gray. The rig damped panic and pain during playback. It had no setting for grief over an experience not yet gone.
+“Your source access is erased,” Teren said. “The corporate master remains.”
 
-Teren pulled up the destination table.
+“And yours?”
 
-Creditor vault: authorized. Source restoration: prohibited by writ. Licensed technician space: capacity available, source-bound storage violation. Export: unavailable. Local partition creation: senior credential required. The red rows were designed to leave no accidental independent copy.
+Before Teren could answer, all three screens dimmed.
 
-“Can you leave it?” Orla asked.
+COLLATERAL HOLD INITIATED.
+EARLY-LIFE BLOCK TWO FROZEN FOR REVALUATION.
+RETRIEVAL, REPAIR, AND REFERENCE ACCESS SUSPENDED.
+AUDIT APPOINTMENT: 08:20.
 
-“Not with you.”
+Teren requested ITEM 03. The rig returned no lift gate, no wool sleeve, no citrus breath. They knew a woman had spoken their name. They could not hear her do it.
 
-“Anywhere.”
+Orla read the hold. “I told you not to.”
 
-Teren tried the destinations in every order, then tried to isolate the wafer location as maintenance data. The rig identified it as derived from the selected recollection and refused. A written description failed for the same reason. Junior systems were designed for juniors who got clever under pressure.
+“You did.”
 
-Another train passed above. The childhood elevator shivered in the diagnostic graph at precisely the same cadence as Orla's descent. Crossfade had laid two label traces across one frequency band. Teren zoomed in.
+“Can you open what you kept?”
 
-When licensed memories developed sensory dropout, technicians could restore missing texture from a verified adjacent source. The repair became part of the original block, not a foreign partition. Teren had done hundreds of training exercises: patch rain into rain, a voice into the same voice, never more than three seconds. The rig checked labels, timing, and contractual containers. It did not care what the container meant to the person carrying it.
+“No.”
 
-Childhood Block Three waited behind their license seal. The elevator memory had enough duration only if the tunnel sequence were folded as dormant repair data. A frequency match would admit it. The source mismatch would surface at the lender's next deep audit.
+“Can they take it?”
 
-The projected warning filled all three screens.
+“The lender can seize the block. The foreign reference would go with it.”
 
-COLLATERAL WARRANTY MAY BE INVALIDATED. BLOCK MAY BE LOCKED, REVALUED, OR SEIZED IN FULL. ASSOCIATED LICENSE SUBJECT TO REVIEW.
+Orla unfastened the source cuff herself and placed it beside the rig. “Then don't tell me where this ends.”
 
-Orla read it upside down. “No.”
+“I don't know.”
 
-Teren's fingers remained over the controls.
+The apartment handover tone sounded from the door. Teren cleared the mandatory audit notice with a fingerprint because their anchor was unavailable, folded the screens, and packed the leads. Orla shouldered her one bag.
 
-“Do the deletion,” she said.
+A tremor touched the soles of Teren's boots. Their knees bent. They caught the rig against their thigh before the building moved.
 
-“The corporation keeps the only copy.”
+Orla paused with her hand near the door.
 
-“I heard you the first time.” She rose from the sill, stiff from sitting, and stood over the rig. “I wanted you to know what they were taking. I didn't ask for your six-year-old self in exchange.”
+“Not yet,” she said. “Freight rolls twice.”
 
-“You didn't ask for any of this.”
-
-“Don't polish it. That's not permission.”
-
-The timer reached nine minutes. Teren thought of their supervisor's clean boundaries. A memory on one side, a job on the other. Childhood in its licensed space, rent paid by letting strangers borrow everything less necessary. They had leased the taste of a winter fruit, the relief of passing an exam, three summers of swimming. The childhood block was the piece they had sworn not to touch. Pledging it for housing had seemed different. The block stayed available as long as payments cleared, and Teren had confused available with safe.
-
-If the lender seized it, Teren might still know facts. A mother. A brass rail. Light on towers. Facts were what Orla would have in a few minutes: panel, dismissal, missing cause. Without another copy, the route to the wafer would exist only in the vault of the company that sealed it.
-
-Orla crouched until they faced each other across the screens. “I'm not going to tell you it's worth it.”
-
-“Good,” Teren said. “I don't want you deciding for me too.”
-
-Orla sat back. After a moment, she gave a tired dip of her chin.
-
-Teren opened the repair tool.
-
-They matched the subsonic cadence first. The rig accepted the childhood elevator as target and Orla's descent as restoration source. Three seconds became thirty under compression, then six minutes, then the full tunnel sequence tucked into dormant sensory correction. Red flags gathered along the source line. Teren reconciled each one with the exactness that had earned their license: rail vibration to lift cable, assay chirp to floor signal, headlamp glare to neon. They did not blend the memories. They gave the machine reasons to store one behind the other.
-
-At the last flag, the rig displayed the child's obscured face and the drain grille's upper left corner.
-
-Teren signed the repair.
-
-TRANSFER TO LICENSED BLOCK: COMPLETE.
-
-Five minutes remained. The selected recollection still existed at Orla's source and in the volatile buffer. Teren turned the black creditor key. The archival master acknowledged possession. The writ's final control brightened.
-
-Orla put her cuffed wrist on the floor between them. “Be exact, technician.”
-
-Teren certified the boundary and erased her access.
-
-There was no flash, no emptying cry. Orla blinked at the bare room. Her gaze traveled to the rig as if she had forgotten why it was open, then found the cuff and understood from that.
-
-“I went below the line,” she said slowly.
-
-Teren said nothing.
-
-“No. I know I was disciplined for going below. I know there was a report.” She pressed two fingers to her temple, an engineer testing a silent circuit. “I can't get from the platform to the meeting.”
-
-The raw buffer purged. On the center screen, a progress wheel completed and vanished.
-
-REPOSSESSION ACCEPTED. SOURCE DELETION VERIFIED.
-
-Orla unclipped the cuff herself. “Did you keep anything?”
-
-“Nothing I can give you.”
-
-Orla studied them, then looked at the lender alert appearing across the left screen.
-
-COLLATERAL BLOCK FROZEN FOR REVALUATION. ACCESS SUSPENDED. ATTEND AUDIT: 08:30 TOMORROW.
-
-“Oh,” she said.
-
-Teren closed the destination table. “The furniture crew will be here in three minutes.”
-
-They packed the leads. The rig demanded an end-of-session identity check before it would fold. CHILDHOOD BLOCK THREE: RETRIEVE ANCHOR ELEVEN.
-
-Teren submitted the request.
-
-No brass rail came. No citrus soap. Behind their eyes lay a closed field of dark, and under it the cold certainty of water around their boots. Their weight shifted to the balls of their feet. Seventeen steps waited somewhere they could not enter.
-
-ANCHOR UNAVAILABLE: COLLATERAL HOLD.
-
-Teren recorded the audit appointment and forced the rig shut.
-
-Orla had one bag beside the door. She lifted it before Teren could offer, then waited while they sealed the apartment's memory service port. Outside, the lift indicator climbed toward them through eighty floors of colored light.
-
-A train crossed several levels above. The vibration arrived through the wall before the sound. Teren planted one foot back and steadied the rig against their hip.
-
-Orla, watching the numbers, loosened her knees at the same instant.
-
-The lift doors opened. They entered without speaking.
+The second shiver found Teren ready.
