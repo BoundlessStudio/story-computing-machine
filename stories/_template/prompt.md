@@ -4,6 +4,10 @@
 
 {{prompt_block}}
 
+## Reference images
+
+{{reference_image_block}}
+
 ## Constraints
 
 - Target length: 2,500–4,000 words

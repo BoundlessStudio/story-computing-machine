@@ -8,7 +8,8 @@ universe notes are the product; process records are not.
 A completed current story has four authored Markdown files and one generated
 title image:
 
-- `prompt.md` — the verbatim request and its few explicit constraints.
+- `prompt.md` — the verbatim request, its few explicit constraints, and a
+  display-name inventory of any reference images supplied with the request.
 - `outline.md` — the draftable narrative shape, proposed people and places, and
   relevant continuity boundaries.
 - `story.md` — the reader-facing prose and its minimal metadata.
@@ -20,6 +21,14 @@ name, caption, logo, border, watermark, or other text.
 
 The scaffold contains only the four Markdown files until the story passes
 review. No other files belong in a current story directory.
+
+Reference images supplied with a prompt remain external workflow inputs; never
+copy them into the story directory or treat them as canon. Record only their
+display names in `prompt.md`, resolve and visually inspect every original, and
+pass the originals to both the outliner and title-image illustrator. The written
+prompt and universe authority control any conflict during outlining; the final
+prose controls story facts during cover generation unless the prompt explicitly
+makes an image detail binding.
 
 Any existing story directory containing `05-story.md` is a locked legacy
 bundle. Do not edit, migrate, validate, or regenerate its bundle files. Its
@@ -69,7 +78,11 @@ receipts, release certificates, or duplicate lifecycle records.
 Use the `story-room` skill for a prompt tagged `[WP]` unless the user requests
 one named stage.
 
-1. Scaffold the four files with `new-story.ps1` and preserve the prompt.
+1. Before scaffolding, identify and visually inspect every reference image
+   attached to the request. Scaffold the four files with `new-story.ps1`,
+   preserve the prompt, and pass the reference image paths or attachment labels
+   so `prompt.md` inventories their display names. If none were supplied,
+   record that explicitly. Keep the original images outside the story directory.
 2. Delegate `outline.md` to `story_outliner`. It reads the universe README and
    style guide, searches only relevant authority and noun history, skims the
    design sections of up to five recent passing current outlines, and proposes
@@ -77,7 +90,13 @@ one named stage.
    as `new` or `recurring`. Recent outlines are comparison context only, never
    canon or models to imitate. For `prospective-2026-08-18`, target 700–1,000
    words and never exceed 1,200. Record pressure and choices, not drafted
-   confessions, reconciliations, speeches, or final thematic lines.
+   confessions, reconciliations, speeches, or final thematic lines. Include
+   every supplied reference image in the assignment with a resolvable path or
+   unambiguous attachment identifier and its intended role when the prompt
+   states one. The outliner must inspect all of them and use their relevant
+   visual evidence without turning unrequested details into canon. If an image
+   cannot be accessed, restore access or ask the user to attach it again rather
+   than silently omitting it.
 3. Delegate `story.md` to `story_writer`. It uses the compact
    `short-story-writing` skill, writes the complete story directly, and revises
    it in place at whole-story, movement/information, dialogue-scene, and
@@ -100,6 +119,14 @@ one named stage.
    reads the complete final prose and writes only the spoiler-light 9:16 title
    visual. Unless the prompt says otherwise, use the repository's premium
    anime/light-novel key-visual default defined in that agent.
+   Include every reference image supplied with the original prompt in the
+   assignment and in the image-generation call. Use resolved local paths when
+   all originals have them; otherwise include the smallest recent-attachment
+   set that contains them all. The illustrator must inspect every reference
+   before composing, use it for the visual role implied by the request, and
+   preserve recognizable reference traits that do not conflict with the final
+   prose. If not all references can be provided to image generation, ask the
+   user to attach the missing images again rather than generating without them.
    After the JPEG is saved, both the illustrator and coordinator must open that
    exact file with the available image-viewing tool. Image-generation output,
    prompt text, file metadata, and the illustrator's written report are not

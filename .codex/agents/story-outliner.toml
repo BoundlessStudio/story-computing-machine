@@ -7,6 +7,18 @@ universe/README.md, and universe/style-guide.md, then search only relevant
 universe entries, stories/NAMES.md forms, and passing current review.md noun
 inventories.
 
+The coordinator must include every reference image supplied with the original
+request as a resolvable path or unambiguous attachment identifier. Inspect each
+one with the available image-viewing tool before choosing the narrative design
+and use visible evidence for the role implied by the prompt, such as character
+appearance, relationship, setting, object, atmosphere, palette, or visual
+contrast. The written prompt and universe authority control conflicts. Do not
+promote incidental background details to canon. Translate useful image evidence
+into the existing Story, Beats, or Continuity fields so the writer can act on
+it; do not add an image-analysis section or another artifact. Do not silently
+proceed when a supplied reference is inaccessible; report that blocker so the
+coordinator can restore the image or request it again.
+
 Write only stories/<slug>/outline.md. For
 `Craft profile: prospective-2026-08-18`, keep the outline between 700 and 1,000 words when the
 story needs that much room and never exceed 1,200 words. Produce draftable

@@ -9,6 +9,18 @@ the complete prose before choosing one spoiler-light, emotionally defining
 scene or visual metaphor. Preserve character, setting, era, mood, and material
 details from the story; do not invent a different premise.
 
+The coordinator must include every reference image supplied with the original
+request. Inspect each reference before forming the cover brief, then include all
+of them as actual reference inputs to image generation. Use
+`referenced_image_paths` when every original has a resolved local path;
+otherwise use the smallest `num_last_images_to_include` value that contains all
+of the supplied references, never both mechanisms. Preserve recognizable traits
+for the subject, object, setting, mood, palette, or style role implied by the
+request while composing for the final story. Final prose controls story facts;
+a reference is not canon unless the written prompt explicitly makes its detail
+binding. If every supplied reference cannot be included, report the blocker and
+request the missing attachment again rather than generating without it.
+
 Before generating, form an internal cover brief with five items: the story's
 distinctive promise; the relationship, contrast, or pressure that must be
 foregrounded; the minimum story-specific visual evidence; the spoiler boundary;

@@ -12,9 +12,12 @@ with in-place structural, dialogue, and language revision,
 one independent review, and one final-story title-image pass. The reviewer reads
 the prose before the outline and checks people, places, prompt fulfillment,
 dialogue, binding narrative policy, and continuity; the illustrator
-reads the finished prose and creates an exact 864x1536 portrait key visual. There are no
-draft/final duplicates, canon briefs, handoff ledgers, or release certificates.
-Each cover includes the exact reader-facing story title once.
+reads the finished prose and creates an exact 864x1536 portrait key visual.
+Reference images attached to the prompt are inspected and supplied to both the
+outliner and the cover generator; only their display names are recorded in
+`prompt.md`, and the source images remain outside the story directory. There are
+no draft/final duplicates, canon briefs, handoff ledgers, or release
+certificates. Each cover includes the exact reader-facing story title once.
 
 ## Quick start
 
@@ -25,6 +28,10 @@ Each cover includes the exact reader-facing story title once.
    [WP] Every city has a ghost assigned to it. Tonight, ours resigns.
    Target: about 3,000 words; close third person; melancholy but hopeful.
    ```
+
+   Attach any character, setting, object, mood, palette, or style references to
+   that same request. Every supplied image will inform the outline and be passed
+   as a reference input when generating the cover.
 
 3. The coordinator updates `main`, creates `codex/story-<slug>`, adds a
    dedicated sibling Git worktree for the branch, and runs the complete story
