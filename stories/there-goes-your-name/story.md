@@ -7,344 +7,392 @@ canon: false
 
 # There Goes Your Name
 
-The payment came out through my mouth, though I did not speak.
+The fae closed its warm fingers around the sound my mother had given me, and pulled.
 
-One moment my name lived where it always had, fastened behind my teeth and under my ribs, threaded through every time my mother had called me in from rain. The next, the fae hooked one green fingernail beneath my lower lip and drew out a filament of gold.
+Gold came out of me.
 
-It did not hurt. That frightened me more than pain would have.
+It slipped from the hollow beneath my tongue in a shining strand. With it went no memory I could catch: not my brother’s first steps, not the burn on my thumb from teaching him to light a stove, not the reason I had followed his footprints into an orchard that flowered under a winter moon. Yet each memory lost the little turn it had once made toward me. I knew whose life I remembered. The word that had gathered that life together now ran across the damp boards and wound itself around the fae’s hand.
 
-The thread kept coming. It whispered across my tongue, carrying voices with it: my father laughing as he taught me to whistle, my brother shouting for me from the top of the pear tree, my own voice given back by a well. The memories stayed. Only their address went sliding away.
+I had offered it knowingly. When the apple branches tightened around my brother’s chest, the fae had asked what I would pay for his release. I had answered before he could bargain with his fingers going blue.
 
-At last the thread came free. The fae wound it twice around one long finger. A brightness pulsed there in the damp orchard house, small and warm as a vein beneath skin.
+The last loop settled against the fae’s knuckle. Its green skin was thin there, showing a quick, living pulse beneath the gold.
 
 “There goes your name,” the fae cooed. “Now, go ahead and pick a new one!”
 
-Across the room, the cage opened.
+The cage opened at once.
 
-It was not a cage anyone had built. Apple branches had grown through the floorboards and bent together around my brother, their twigs interlaced so tightly that not even his hand could pass between them. Now they unknitted with the dry, deliberate sound of fingers snapping. He stumbled out, one cheek patterned red from bark and his hair full of dead petals.
+The branches that had pinned my brother to the orchard-house wall unbraided and drew back through the plaster. He pitched forward. I caught him under the arms, and his forehead struck my collarbone hard enough to make my eyes water.
 
-I caught him before he fell.
+“Up,” he gasped. “Get me up.”
 
-He gripped the front of my coat. “Is it you?”
+I did. He was lighter than he should have been after three missing nights. Bark had printed red bars along his cheeks, and one trouser leg was dark with mud to the knee, but he stood when I set his boots beneath him.
 
-“Yes.” My answer came at once. My voice was mine. The scar on his chin was the one he had earned at six, chasing me over a stone wall. I knew he hated cooked carrots, lied badly, and slept with both feet outside the blanket. I knew I had found his empty bed three nights ago and followed apple blossoms through a winter field to this house.
+The door hung open six paces away. Beyond it, a strip of pale grass ran between two rows of black apple trees. At the far end stood the orchard gate: two waist-wide stone posts, an iron arch between them, and cold stubble fields beyond. Smoke from home fires lay low on the horizon.
 
-I knew I would do it again.
+My brother saw it too. “Gate.”
 
-His shoulders loosened. He pressed his face against me, just once, then pulled back as if embarrassed by the need. He was young enough to be frightened and old enough to resent being seen frightened.
+“We’re going.”
 
-Behind him, the fae flicked my name-thread over its knuckle.
+He took my hand without asking what had changed. That nearly broke me. When he had been small, he had reached for the same hand in crowds and thunderstorms. I remembered every time. The fae had taken none of it.
 
-Something in me turned toward the glint. Not my body. Not even my attention, exactly. It felt like hearing someone call from another room and knowing, after one startled heartbeat, that they meant somebody else.
+Behind us, gold tightened softly over green knuckles.
 
-The gate stood open beyond the orchard house. I could see it through the crooked doorway: two stone posts, a black iron arch, and between them the pale field under a sinking moon. We had only to cross it. That had been the bargain.
+My old address ended there.
 
-“His freedom,” I said, tightening my arm around my brother, “for my name. Paid and finished.”
+“His release for my name,” I said. “You have it.”
 
-“Paid,” said the fae. “Certainly.”
+“A splendid payment.” The fae shook out the cuff of its cream-colored coat. “And now we shall make you presentable.”
 
-It moved between us and the door.
+A fan of leaf-thin slips opened between its fingers. They had been cut from dried apple leaves and pressed flat until light passed through their veins. A thread ran from the stem of each slip, over the fae’s palm, and into the same hand that held my stolen name.
 
-The orchard house smelled of wet plaster and fruit left too long in a cellar. Roots buckled the floor. Shelves sagged under brown jars in which moth wings, milk teeth, and little folded shadows floated in cloudy liquid. The fae seemed the only clean thing there. Its pale coat had pearl buttons. Its silver-green hair lay smooth against its narrow skull. Even its bare feet were free of mud.
+My brother tugged toward the door. “Leave them.”
 
-It smiled at my brother, who stepped behind me.
+“That would be unkind,” said the fae. Its voice had the softness of fruit yielding under a thumb. “Imagine a whole road with no sound to turn your head.”
 
-“But your elder has a difficulty,” it said. “One cannot go about being called nothing. Think of the inconvenience.”
+“We can imagine outside.”
 
-“Move,” I said.
+He pulled again. I moved with him.
 
-“Gladly, as soon as the choosing is done.”
+The fae did not bar the door. It drifted beside us, close enough that the slips brushed my sleeve. Its bare feet left dark prints on the boards. A bruised-apple sweetness came off its skin.
 
-From inside its sleeve, the fae produced a fan of slips thin enough for light to shine through. Each was the brown-green of an apple leaf after frost. Ink curled across them, but whenever I tried to read a word, I heard it instead.
+Its thumb stroked the first slip, and the leaf warmed to amber. “This one would make courage easy to recognize. You have earned something brave.”
 
-Brave, said one in the voice of a crowd.
+“If I touch it, have I chosen?”
 
-Beloved, breathed another beside my ear.
+The fae’s smile held. “A willing touch is such a graceful answer.”
 
-Fortunate chimed like coins poured onto a table.
+I put my free hand in my pocket.
 
-My brother stared. “Take one.”
+We reached the doorway. A pruning hook hung from a peg on the left jamb, its crescent blade spotted brown but solid, its ash handle longer than my arm. Below it sat a split basket and a coil of ordinary hemp line gone green with damp. My brother glanced at the hook. I squeezed his fingers once.
 
-From the bottom of every slip ran a hair-fine green strand. The strands gathered between the fae’s fingers and disappeared into its cuff.
+The fae warmed a second slip. The smell of fresh bread filled the ruined house, followed by the remembered ease of being expected at a table.
 
-“Not yet,” I said.
+“I call this one beloved,” it murmured. “A name that opens faces.”
 
-“We need to go.” His voice cracked on the last word. Outside, the black branches shifted although there was no wind. Beyond the gate, the field waited, ordinary and cold.
+“Does its thread leave your hand if I take it?”
 
-“We will.”
+“Why would I send a gift into the world without a way to care for it?”
 
-The fae extended the fan. “Bravery would suit. You displayed some in coming here.”
+“So you keep hold.”
 
-“If I choose it, what must I do?”
+“I keep company.”
 
-“Do?” The fae widened its amber eyes. “Why, you must be brave.”
+The answer cost the fae three more steps. My brother and I crossed the threshold. The path to the gate was twenty paces, perhaps less. The moon made every thorn cast two shadows.
 
-“For whom?”
+My brother whispered, “Just take one. We’ll cut the string past the gate.”
 
-“What an anxious question.”
+His eyes stayed on the field. Fear had narrowed his world to distance: path, gate, ditch, home.
 
-“Who decides whether I have been?”
+“What cuts it?” I asked.
 
-The fan snapped shut. “Names decide many things for themselves.”
+His gaze flicked back to the hook.
 
-That was not an answer, and the fae knew I knew it. Its smile remained, but the corners sharpened.
+The fae answered for him with a delighted little breath. “Nothing need cut what may be worn beautifully.”
 
-I nodded at the second slip. “And beloved?”
+I looked at the glowing slip. “Can you tighten that thread once I’m outside?”
 
-“A comfort for a lonely soul.”
+“When you wander, a kind name should remind you where warmth waits.”
 
-“Whose love?”
+“Can you pull my body with it?”
 
-“Must you inspect every gift for thorns?”
+“What a rough picture you make of care.”
 
-“In this orchard?”
+“Yes or no?”
 
-For the first time, its smile disappeared.
+The fae’s smile thinned. “There is no iron in it.”
 
-My brother tugged my sleeve. His fingers were icy. “Please. Any one. You can change it later.”
+It had not said no.
 
-The fae’s pleasant expression returned. “Listen to him. Such good sense in a little thing.”
+My brother released my hand.
 
-I looked again at the green strands. When the fae shifted its wrist, the slips shifted with it, though the air was still. My old name lay wound in gold around its other hand. The prepared names were not gifts. They were reins with pretty words painted on them.
+I kept walking. My whole body wanted to turn after him, but the fae wanted that too. I fixed my eyes on the gate and asked, “Can you speak an order through it?”
 
-I could have chosen one anyway. The gate was twenty paces off. I could have worn a new tether long enough to get my brother through, then fought whatever followed outside. That thought had the clean shape of desperation. It asked me to forget that the fae had taken him from his bed without opening a window and grown a prison around him in less than three days.
+The fae flexed its hand. The dry leaves rasped together. “Must every sweet be crushed between your teeth before you taste it?”
 
-I needed to know what remained mine.
+Behind us, wood scraped softly against the jamb.
 
-I touched the notch in my brother’s chin. “You got this jumping the wall behind the mill.”
+“Would I owe you an answer when you called?” I asked.
 
-He blinked. “What?”
+“You would hear me.”
 
-“You cried because you tore your good trousers, not because you were bleeding. I gave you mine to tie around your knee. Then I told Father a dog had stolen them off the washing line.”
+“Would refusing hurt?”
 
-“He didn’t believe you.”
+“You are making yourself difficult to adorn.”
 
-“No. He made me scrub both pairs.”
+Another scrape. Then my brother’s hand found mine again. The pruning hook lay along the back of his leg, hidden from the fae by our joined coats. He had managed its weight without knocking the blade against stone.
 
-The memory was intact: soap numbing my hands, my brother sitting on an upturned bucket to keep me company, both of us choking back laughter whenever Father passed the washroom. Yet when I reached for the sound Father had used to scold me, I found a bright distance. I could remember being called. I could remember answering. The call itself led elsewhere, down a road of gold to the fae’s curled finger.
+We had reached the fourth apple tree.
 
-Grief rose so quickly that I had to grip my brother’s shoulder to stay upright.
+The fae stepped ahead of us.
 
-The fae saw. “There now. You feel the hollow.”
+Its coat caught moonlight without taking on any dirt from the path. It turned, walking backward, and raised a third slip. This one shone green-gold. I smelled coins warmed in sunlight, clean sheets, pear skin, the sharp air before good news.
 
-“I feel the loss.”
+“This one is fortunate,” it said. “No one complains of that one.”
 
-“A hollow, precisely. Choose, and I shall fill it.”
+“Who receives the good fortune?”
 
-“No.” I drew a breath that tasted of damp apples. “I chose to come after him. I chose the bargain. I choose to leave.”
+“You, naturally.”
 
-“You have no name with which to choose.”
+“Who pays when it turns?”
 
-“You just called me ‘you.’”
+The fae stopped. For the first time, the offered leaf went dark beneath its thumb.
 
-The fae’s eyes narrowed.
+My brother bumped my shoulder. He had been watching the ground. “The roots are moving.”
 
-I pressed on because irritation was safer than grief. “You called me his elder. A lonely soul. The one who came here. You have plenty of ways to describe me, but that doesn’t make any of them yours.”
+Fine root tips had pushed through the grass behind our heels. They stitched the path shut one pale loop at a time. Ahead, thorn shoots lifted from both orchard rows and inclined toward one another.
 
-“Cleverness is a poor coat in winter.”
+“Run?” he breathed.
 
-“Still my coat.”
+“Not yet.”
 
-My brother made an impatient sound. “I know who you are.”
+“There’s nothing in front of us.”
 
-The words went through me more cleanly than comfort would have. He was not trying to solve me. He was tired, cold, and angry that anyone thought he might mistake me.
+“Not yet.”
 
-The fae studied us both. Its gaze stopped pretending to be kind.
+The fae folded the fan against its palm. “Your little one has the better instinct.”
 
-“Then go,” it said.
+“He wants the gate.”
 
-It stepped aside.
+“He wants you clothed in a sound he may use.”
 
-I did not move.
+My brother’s grip tightened. “I know who this is.”
 
-The doorway beyond it was clear, but the orchard had changed while we talked. Thorny whips had crept across the path. They lay slack among the weeds, thin enough to step over, each hooked with backward-pointing barbs. At the gate, a living briar as thick as my wrist had braided itself between the stone posts. It passed through an iron ring and doubled back, a green-black latch furred with thorns.
+“Today.” The fae drew the word out like syrup. “Memory spoils. Faces alter. A fine new name would save you both the labor.”
 
-Beside the orchard-house door hung a pruning hook. Its wooden handle was spotted with rot, but the curved blade showed a bright edge where years of use had worn it smooth.
+The thought struck exactly where it meant to strike. Our mother calling from the back step. Our father marking our heights on the pantry wall and writing my old name beside the higher notch. My brother cutting its first letter into the underside of the kitchen table, then denying it with sawdust still in his hair. Every scene remained bright. In each, when someone spoke the word, the remembered sound now traveled past me toward the fae’s fist.
 
-“We can’t,” my brother whispered.
+My steps faltered.
 
-“The exchange is completed,” I said to the fae. “Open the gate.”
+My brother caught my elbow. “Ditch first,” he said. “You can fall apart in the ditch.”
 
-“The gate is not part of our exchange.”
+The field-side ditch lay just beyond the gate.
 
-“You said he would be free.”
+“Good plan.”
 
-“And so he is. See how no branch confines him.”
+He shifted the hook between us. Its wood was real and rough against my knuckles.
 
-The thorns on the path began to lift.
+The fae watched us recover. Courtesy tightened around its face.
 
-Courtesy had been another latch. The fae had waited for me to choose a prepared name because that would look like agreement. Now that I would not, it was willing to let the orchard do what its spoken bargain could not.
+“You feel the tear,” it said. “Why keep walking with it open?”
 
-My brother’s breath came fast against my shoulder. I put my hand over his where it clutched my coat.
+“How do we open the gate?” I asked.
 
-“When I take the hook,” I said quietly, “stay behind me. Step where I step.”
+“The gate is open to guests.”
 
-The fae sighed. “Must rescue always make people tedious?”
+The two stone posts were now eight paces away. Nothing hinged between them, but a briar as thick as my forearm had grown from the right orchard row. Under the fae’s gaze it slid across the gap, passed through an iron eye set in the left post, and curled back on itself. Smaller thorn stems wove over and under it. The living braid cinched until it made a latch from stone to stone.
 
-“You could try being rescued.”
+“The gate was clear when you released him,” I said.
 
-I lunged for the wall.
+“Orchards grow.”
 
-The fae was quicker. Its hand closed around my wrist before my fingers reached the hook. The touch was dry and cold. My brother struck at its arm. A root ripped up through the floor between his boots and flung him backward.
+“You are making it grow.”
 
-I drove my shoulder into the fae. It barely shifted. Up close, its amber eyes held black flecks that moved like ants. My stolen name warmed on its finger.
+The fae spread one hand. Its pulse beat visibly at the wrist. The branches above us bent with that beat, leafless tips clicking together. The dried slips in its other hand stayed limp until its fingers pressed them.
 
-The fae smiled again, breath sweet with rotten fruit.
+“My orchard has missed me,” it said.
 
-Then it spoke the name.
+“Will you let him cross without my choosing?”
 
-I will not set it down here. I could not if I wished to. I heard its shape clearly in that room, every sound polished by years of use, but none of it belonged to my mouth anymore.
+“Your bargain did not purchase my hospitality.”
 
-“Kneel,” the fae commanded its owner. “Kneel and stay.”
+My brother stepped forward, bringing the hook around. “Then move.”
 
-I braced for my knees to buckle.
+The fae’s head turned slowly toward him. “You were prettier behind the branches.”
 
-Nothing happened.
+He swung the hook up between them. He did not strike. He set the blade outward, the way our father held a shovel when a strange dog came into the yard.
 
-No, not nothing.
+“Gate,” he said. “Then field. Then home.”
 
-The gold thread jerked on the fae’s finger.
+The fae backed against the right stone post. Its nostrils flared, and its soft voice lost one layer of sweetness.
 
-Its hand snapped downward, dragging my arm with it. The thread unwound in a bright rush, spilled across the floor, and darted through the doorway. It moved like a line pulled by an invisible needle. Over the lifted thorns, under a root, straight to the gate. There it looped around the heavy briar latch, dipped low to the earth, and knotted itself fast.
+“Choose,” it told me.
 
-It knelt. It stayed.
+It opened the fan again and thrust the leaf slips toward my chest. The green threads stretched taut from their stems to its palm. I stepped aside. The slips missed my coat, and the fae’s bare heel skidded in wet grass.
 
-The fae stared at the taut gold line between its hand and the gate.
+“What happens if I refuse every one?” I asked.
 
-I stared too.
+“You remain what you paid to become.”
 
-It had not taken me. It had taken the part of the world that answered when that sound was used. A handle, severed and held. When the fae pulled on it, the handle moved.
+“And my brother?”
 
-The door had come off the bucket, and I was still standing.
+“Released.”
 
-My brother recovered first. He scrambled up and seized the pruning hook from the wall.
+“Can he cross?”
 
-“That belongs here,” the fae said.
+“I have answered.”
 
-“So do the thorns.” He shoved the handle at me. “Do something.”
+“No. You changed the word.”
 
-I took it.
+My brother had edged within reach of the latch. He turned the hook and tested the briar with the back of the blade. The living thorns recoiled, then twined around the iron faster. The hook alone would not clear it. He lowered the blade but did not let go.
 
-The fae released my wrist and clawed at the gold around its finger. The knot at the gate held. The thread would not slip free, obedient to the last command.
+The fae saw too.
 
-I swung the hook low. The blade caught the first thorn-whip and pinned it against the floor. “Behind me.”
+“Poor thing,” it said to him. “You could have your elder properly fitted before the frost takes your fingers.”
 
-My brother stepped into the place I cleared. We moved out of the house. The orchard woke around us. Branches bowed over the path. Barbs scraped my boots and snagged my coat. I used the hook as a lever, forcing the worst of them aside, but every step let the last one spring back behind us.
+“Stop talking about my fingers.”
 
-The fae followed as far as the doorway, one arm stretched toward the gate by the golden thread.
+“They are bleeding.”
 
-“You cannot leave that behind,” it called. Its voice had lost its coo. “It is you.”
+They were. Old branch scratches had opened when he gripped the hook, and the handle shone dark beneath his palms. He adjusted rather than let go.
 
-A thorn caught my sleeve and tore the cloth from wrist to elbow. I ripped free.
+I moved between him and the fae. “You hold my old name. Tell me exactly what that lets you do.”
 
-“It was mine,” I said. “There’s a difference.”
+At last, the fae looked tired of me. The beautiful slips crumpled in its fist.
 
-At the gate, the briar latch remained woven through the iron ring. Gold bound its middle, but kneeling had only bent it lower. It still barred the gap between the posts.
+“It lets me address what I own.”
 
-My brother grabbed it with both hands. The thorns bit his palms. He hissed and held on.
+Its fingers closed around the golden loops.
 
-The fae pulled at the thread. The briar groaned but did not shift.
+It spoke the old name.
 
-I understood what I needed before I understood whether it would work.
+I knew every sound. I knew how my brother clipped the end when he needed help quickly, how my mother softened the middle when she was worried, how I had once shouted the whole of it into an empty valley just to hear the echo. All of that knowledge stayed mine.
 
-I turned my back to the gate and faced the fae. “You wanted me to come to you.”
+The address itself struck the gold on the fae’s hand.
 
-Its lips parted.
+“Kneel,” it said. “Stay.”
 
-“You brought my brother here because you knew I would follow. You made all those lovely names because you wanted me tethered. Are you going to let a stolen word refuse you now?”
+I waited for my legs to fold. They did not.
 
-The gold line trembled.
+The gold thread did.
 
-The fae’s face changed. Anger stripped it of elegance. For a heartbeat it looked as neglected as the orchard: skin grey as old wood, hair hanging in mossy ropes, mouth a crack in bark.
+It sprang from the fae’s knuckles, a bright length unwinding so fast that the loops burned red tracks across green skin. The loose end slapped the grass between us, dove toward the lowest point of the living briar, and wrapped it. Once, twice, three times. Then it tied itself into a tight shining knot around the thorn-latch and dragged that section down until it touched the earth.
 
-It spoke the old name again.
+The fae’s arm jerked after it. Its prepared slips scattered.
 
-“Come to me!”
+I remained upright.
 
-The thread obeyed.
+My brother stared at my knees, then at the knot. “It called the string.”
 
-Gold snapped back toward the fae’s hand. Because it had knotted itself around the briar, it took the latch with it. The living bar wrenched sideways through the iron ring. Its thorns shrieked against stone. The fae tried to release the line, but the loose coils wound over its palm and around its wrist, binding its reaching arm to the command.
+The fae yanked its hand back. The gold stayed low. The command held it there, fastened around the living latch.
 
-The gate opened the width of a body.
+“Give me the hook,” I said.
 
-I jammed the pruning hook into the mass of brambles and leaned with all my weight. The handle bowed. Thorns pressed close enough for me to smell their green sap.
+My brother passed it handle-first. “That bar still goes through the left ring.”
 
-“Through!”
+He was right. The name-thread had pulled the briar down but not out of the iron eye. The gate remained closed.
 
-My brother squeezed between the stone post and the dragged latch. His coat snagged. He tore it loose and tumbled onto the pale grass beyond.
+The fae plucked at the gold with its free hand. Its nails passed under one loop, but when it tried to lift, the thread snapped down again. Kneel. Stay.
 
-The fae shouted my lost name a third time, followed by words I did not hear. The thread convulsed. The briar thrashed against the hook.
+It looked at me, and its face had gone grey around the mouth.
 
-I let go.
+I stepped close enough to the latch to feel the thorns searching the air. “You said you owned what answered.”
 
-The handle flew from my hands. I threw myself through the gap as the latch slammed back. A thorn raked my boot sole. Then I was on the other side, rolling down the shallow ditch, with my brother’s arms locked around my shoulders.
+“I do.”
 
-The moon vanished behind a bank of cloud.
+“Then call it back to your hand.”
 
-For a few breaths, neither of us moved. Frost silvered the rough grass. The field smelled of mud and distant chimney smoke. No branches reached for us. The gate stood shut above the ditch, its arch framing darkness too dense to show the orchard house.
+The fae went still.
 
-The fae came to the threshold but did not cross. Gold tethered its wrist to the briar latch. Its pale coat hung open now, stained at the hem, and leaf-thin names circled it in a restless flock.
+My brother crouched at the right post, where the briar entered the braid. “If it pulls left to right, the ring comes clear.”
 
-“Come back,” it said. “Choose, and I will return what you threw away.”
+The fae gathered the loose leaf slips against its chest. “Keep away from what is mine.”
 
-“You pulled it out of me.”
+I set the hook against the lowered briar and shoved until mud streaked the gold. “Or leave it there.”
 
-“You offered it.”
+The fae spoke the old name again. This time the sounds came sharp and bare.
 
-That was true. I had offered it when the cage tightened around my brother and the fae asked what I would give. The choice had been mine, though the cruelty of it belonged elsewhere.
+“Come to me.”
 
-“I paid,” I said. “Keep your purchase.”
+The golden knot obeyed.
 
-Its bound hand closed over the golden thread. “You will miss it.”
+Thread tore upward toward the fae’s hand, tightened around the briar, and hauled. The thorn-latch ripped backward through the left iron eye with a squeal of wet bark. The fae staggered as gold recoiled around its wrist. The living bar followed, bent in a hard arc toward the fae, and left a gap between the briar tip and the stone.
 
-“I already do.”
+One body could fit. Barely.
 
-The answer seemed to trouble it more than defiance. Perhaps it understood bargains only when people pretended not to care about the price.
+“Now,” my brother said.
 
-My brother sat up beside me. Blood marked his palms in narrow lines. He looked at the fae, then at me, and said my old name once.
+The fae flung its free hand wide. Thorn whips dropped from overhead. I caught the first with the pruning hook and dragged it across the right post. My brother put both hands on the handle below mine. Together we leaned. The ash wood bowed; the branch shuddered against the blade. Another runner wrapped my boot and drove a barb through the leather.
 
-The sound crossed the gate.
+“Go,” I told him.
 
-It did not touch me. It entered the orchard and shivered along the gold until the thread brightened in the fae’s fist. I remembered my mother bending over a cradle. I remembered chalking those letters badly on a slate. I remembered my brother shortening the name when he wanted a favor and stretching it into three accusing syllables when I stole food from his plate.
+“I’m holding this.”
 
-I remembered whom it had meant.
+“I’ll take it. Go.”
 
-Then the gold dimmed, and the address ended on the wrong side of the gate.
+He shook his head once. Immediate, furious. Then he changed his grip instead. He ducked under my arm, kept one hand on the hook, and thrust his shoulder through the body-wide opening. The stone scraped his coat. The briar tip curled toward his cheek.
 
-My brother’s mouth twisted. “I’m sorry.”
+I planted my free boot against the post and pushed his back. He spilled through to the field side, rolled, and came up still holding the bottom of the hook. Its handle lay crosswise through the gap, pinning the descending thorn.
 
-“Don’t be.” My throat ached. “I wanted to hear it from you once.”
+“Your hand,” he shouted.
 
-Behind the gate, the first grey light seeped between the trees. The fae stepped backward. Branches closed over it, over the ruined coat and the fistful of names, until there was only an orchard going quietly to rot.
+The fae seized the back of my coat. Its nails punched through wool. Its other wrist remained wrapped in gold and bent toward the latch it had called.
 
-We walked until the gate was out of sight.
+I let go of the hook, twisted out of one sleeve, and drove my shoulder between stone and briar. Thorns raked from my neck to my upper arm. My brother caught my wrist with both bloody hands and pulled.
 
-At the field’s edge we found a dry ditch beneath a hawthorn hedge. My brother sat with his back against the bank while I wrapped his palms with strips from my torn sleeve. Dawn spread slowly, revealing mud on our clothes, burrs in his hair, and a purple bruise along my wrist where the fae had held me. Ordinary injuries. I was grateful for every one.
+For one breath I was wedged at the ribs. The fae hauled on my empty sleeve. The living latch strained toward the iron eye. My brother set both boots in the ditch bank and shouted, not a name, only, “Move!”
 
-When I finished the knots, my brother flexed his fingers.
+I exhaled, turned sideways, and came through hard enough to knock us both into the frost.
 
-“What am I supposed to call you?” he asked.
+The hook clattered after us. The briar snapped back into the iron eye. My torn coat sleeve stayed inside, hanging from the fae’s hand.
 
-I had been waiting for the question. It still frightened me.
+We were beyond the stones.
 
-I tried a few sounds under my breath. One was too hard, a stone knocking against teeth. Another reminded me of the fae’s leaf-slips though I could not have said why. A third felt borrowed from somebody glimpsed across a market. None carried a thread. None carried anything.
+My brother crawled farther down the ditch before he stopped. I followed on one knee, dragging the hook. The field grass bent under our weight and did nothing else. Behind us, every orchard branch had gone motionless. The fae stood between the posts, breathing hard, its living hand still tangled in gold.
 
-Not yet.
+“Come back within the gate,” it said. Its coo had returned, though it shook at the edges. “Take one suitable name, and I will put the first where it was.”
 
-My brother waited. For once, he did not rush me.
+The old loss opened in me at once. I wanted my mother’s call to reach me again. I wanted the pantry marks, the kitchen table, every letter on every old scrap to point home instead of here. Wanting it made the next breath hurt.
 
-The sky above the hedge had turned the silver-blue that comes just before sunrise. A word occurred to me, assembled from no prophecy and promised by no whisper. I said it once to hear its weight.
+My brother found the back of my shirt and held on.
+
+“What do I have to touch?” I asked.
+
+The fae lifted one leaf slip. A green thread ran straight from it into its palm. “Only this.”
+
+“And you keep that thread.”
+
+“I would keep you from being lost.”
+
+I looked at its fist around my torn sleeve, at the gold wound into its skin, at the briar already curling toward the iron eye again.
+
+“No. I won’t come back.”
+
+“You miss it.”
+
+“Yes.”
+
+Beside me, my brother whispered, “Can I say it?”
+
+I knew which word he meant. He waited with his fingers locked in the back of my shirt.
+
+“Once,” I said.
+
+From the safe side of the ditch, he spoke my old name.
+
+The sound passed me.
+
+A narrow gold gleam ran over the frost, climbed the left gatepost, and entered the orchard. It traveled along the captured thread until every loop around the fae’s hand shone. For that heartbeat I heard my whole house using the name: irritated, fond, sleepy, frightened, ordinary. My throat closed. I pressed my scratched hand to my mouth and let the grief have its full weight.
+
+The light faded on the wrong hand.
+
+My brother leaned his head against my shoulder. Neither of us apologized.
+
+We left the fae standing behind the latch.
+
+By the time the moon set, the orchard was a dark seam behind the fields. We kept off the road until the grass gave way to a dry drainage hollow. There my brother made me sit. He tore the loose hem from my shirt and wrapped the cuts across my shoulder while I bound his palms with the least dirty pieces of my coat lining. He carried the pruning hook afterward because my left arm had begun to stiffen.
+
+Morning found us on the last rise above home.
+
+Roof smoke lifted through the bare trees. A cart creaked somewhere on the road below, and a dog barked itself hoarse at nothing we could see. My brother’s bandages had gone rusty at the palms. He kept shifting the hook from one shoulder to the other, too stubborn to admit its weight.
+
+“What do I call you at the door?” he asked.
+
+The question was practical. Our father would open it. Our mother would pull us inside. They would need some sound that reached me.
+
+I tried several under my breath as we walked. One caught on my sore jaw. One belonged too clearly to an old neighbor. Another had the same honeyed finish as the fae’s prepared leaves, and I spat it into the grass.
+
+Then one sound stayed with me for three steps without tasting of the orchard. No hand held it ready. No thread showed at its edge. I could keep it between my teeth or offer it.
+
+“Sivren,” I said.
+
+He glanced over. Dawn showed every scratch on his face.
+
+“Again?” he asked.
 
 “Sivren.”
 
-My brother considered it with the grave suspicion he usually reserved for new food. “Sivren.”
+He nodded, testing the weight rather than pretending it was familiar. We took another dozen steps. The old grief kept its place. The cart below hit a rut, the dog kept barking, and my brother nearly dragged the pruning hook through a patch of stones.
 
-No light flared. No hidden branch bent. Somewhere beyond the field, a cart rattled over a rough road.
+“Sivren, take this thing before I drop it on my foot.”
 
-“Do you like it?” he asked.
-
-“I think I might.” The loss inside me had not closed. I did not want it to, not that morning. “It’s mine to offer, anyway.”
-
-He pushed himself to his feet and held out one bandaged hand. “Come on, Sivren. We’re going home.”
-
-I took it, and went with him.
+I took the hook from him with my good hand, and we went down the hill toward home.
