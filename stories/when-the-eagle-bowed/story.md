@@ -8,242 +8,274 @@ canon: false
 
 # When the Eagle Bowed
 
-The eagle landed close enough for Tirra to see blood on its feet.
+Tirra was sorting the goat's liver from the other offal when the eagle dropped out of the late-autumn sky.
 
-Not prey blood. The scales of its left foot were split around a thorn, and the bird held that leg stiff on the shale. Tirra lowered the goat haunch from her shoulder. A wild eagle did not spend strength flying down to a person unless hunger or injury had made it foolish. This one was neither thin nor exhausted. Its breast lifted evenly. Its hooked beak could have opened her wrist before she drew her knife.
+It struck the shale one spear-length from her and folded its wings without a stumble. A full-grown bird, dark across the shoulders, pale at the crown. It watched the steam lift from the opened carcass. Tirra kept her gutting knife low and reached with her other hand for the spear planted beside her knee.
 
-She eased the knife free anyway.
+The eagle did not lunge for the meat. It lowered its head.
 
-The eagle lowered its head.
+She checked its feet for a snare, its breast for the quick pull of sickness, the slope above for someone who might have driven it down. Nothing. The bird bowed lower, beak almost to stone, while its gold eye stayed on her.
 
-For a moment Tirra took the posture for pain: neck stretched, crown presented, wings folded hard. Then it bent lower, until its beak almost touched the mountain.
+A crack sounded behind it.
 
-Harrowscar answered.
+Five bronze fingers pushed through Harrowscar.
 
-Three spear-lengths beyond the bird, bronze fingers burst through a seam in the cliff. They closed on bare stone. Plates shaped like overlapping feathers ground against one another, hauling an empty arm out of the mountain.
+They opened and caught the cliff face. Broken slate poured between their joints. A second pull brought out an arm plated in metal feathers, each one dark at the root and bright along the edge. The hand had no flesh inside it. Tirra could see daylight through the wrist when it turned.
 
-Tirra dropped the meat and ran.
+Orphaned too young to inherit a family version of the old tale, Tirra knew the execution carving instead: the crowned woman kneeling, the axe overhead, an eagle cut above the empty space where her name had once been. Every hearth in Eyrpass Valley carried some worn version of the warning.
 
-She had no parents to give her a lineage, but she had been given plenty of warnings. Every child in Eyrpass Valley knew the figure cut above the old hearths: a crowned woman beneath a descending axe, an eagle flying away with her name. The last Eagle Queen had been dead a hundred years, yet every crossing-house kept the same command under its roof tiles. If the eagle bowed, if queen-metal walked, kill the woman it followed before she remembered.
+If the wild eagle bowed and queen-metal woke, the last Eagle Queen had returned. Kill her before she remembered.
 
-The cliff boomed behind Tirra. Stones skipped past her boots. She glanced back from the first rise and saw the arm joined to a shoulder, the shoulder to a dark, feather-scaled breast. There was no body within it. Through the open throat of the armor she saw daylight and the broken rock behind.
+Tirra tore her short bow and quiver from their two bloody hide bindings, looped the strips through her quiver strap, and left the spear, the rest of the hide, and the heap of offal where they lay.
 
-The eagle had not followed. It stood over the discarded goat meat, head up now, as wild and unreadable as weather.
+The first signal mirror caught the weak sun before she had crossed the rise.
 
-On the eastern ridge, a mirror flashed.
+The watcher on the east ridge sent the old pattern—bird, woman, walking metal. A southern mirror answered with the kill order. One. A spark above the river road made two. Three came from the northern crags, four from a square of white fire far below, five and six so close together that she nearly counted them as one. Tirra reached the crest and saw the seventh flash from the western court directly beyond the pass she meant to take.
 
-The watcher there had seen her. Light struck twice, paused, then seven times: eagle, woman, waking metal. A mirror answered from the nearest court. Then one farther south, small as a spark. From each king's court came the same closing sequence, three hard flashes that renewed the death order. Tirra counted because counting kept fear from becoming a direction. At the seventh answer, every pass out of the valley had become a gate with archers behind it.
+Seven kings. Seven orders, returned while she still remembered only her own life.
 
-She kept west.
+Horns began below. The long calls closed roads; the short ones moved searchers onto the slopes.
 
-The mountain held a dusting of old snow above the heather line. Tirra crossed a field of it on the outside edges of her boots, climbed a granite rib, then came backward in her own prints. At a juniper she tied strips from her goat-hide wrapping around two low branches and snapped them free. A careless tracker would see where she had brushed past. A good one would see that the twigs had been broken by hand. A very good one would waste time deciding what she wanted him to think.
+Tirra ran west.
 
-Below, horns passed the alarm from ridge to ridge. The calls did not mean soldiers yet. They meant roads closing, horses turning, a hundred ordinary people being told that an orphan who trapped hares for winter salt had become the oldest death warrant in the valley.
+A skin of frozen rain lay over the heather. Her right boot cut deeper than her left because the goat hunt had opened an old blister, so she changed her stride before the first patch of snow. She crossed it twice, once toward the saddle and once backward into her own marks. On bare ground she dragged one strip of bloody hide down a southern chute, then stepped from boulder to boulder toward the west.
 
-Tirra stepped from the false trail onto a sloping slab and crawled along it to leave no prints. The west pass lay beyond two shoulders of Harrowscar. If she reached the scree channels before the patrols climbed, even seven kings could order the clouds arrested and have the same luck catching her.
+Two horns followed the false descent. A third cut them off.
 
-A sound traveled through the soles of her boots.
+The third call belonged to Dajan, the royal trail warden. Tirra had never met him, but every hunter knew his correction signal. He had once found a lost salt train after three days of sleet by noticing which ravens carried barley husks.
 
-Not footsteps. A long crushing, then a pause, then another. She looked downslope. The armor was not following her trail. A ridge stood between it and her, thick with stone and dwarf pine. Bronze fingertips punched through the ridge's face. The buried hand tore open a hole. An empty helm followed, its hooked brow bent toward her though no eyes occupied the slits.
+His next call held the searchers on the contour.
 
-It had taken the straight line.
+He had read past the blood.
 
-Tirra sprinted. A boulder struck where she had crouched and burst into gray chips. Something cold snapped at her hip. Feather-shaped frost spread across the iron ring of her quiver, white points racing over the metal. The ring contracted. Leather creaked. She cut the strap before it could seize against her ribs and caught the arrows under one arm.
+Tirra climbed into a seam between two granite ribs. The western pass was three ridges away. If Dajan kept his people on the obvious shelves, she could cross the bare crown above them and reach scree before the archers formed their line.
 
-Old queen-work, the winter hunters said, sucked the wet from breath and laid it sharp on iron. That was why old fools wrapped spearheads in felt when they crossed the high ruins. Tirra had laughed at them. She had never expected to hear her own buckle hiss against her skin.
+A grinding shock came through the rock into her palms.
 
-The armor came through the ridge on one knee. It was taller than a person, but not by much. One forearm dragged uselessly until a shower of stones freed it. Its breast opened at the center, two plates peeling apart like the halves of a seedpod. Nothing waited inside except darkness.
+She looked back across the snowfield. The queen-metal suit had not turned toward the hide. It had entered the nearer ridge instead. Bronze knuckles broke through first, then a hooked helm, then one shoulder. It forced the rest of itself along the shortest line to Tirra, leaving a tunnel of crushed stone behind it.
 
-Tirra threw herself across a narrow cut. Bronze closed on the ledge behind her. The gauntlet's smallest finger brushed her bare wrist.
+There was nobody inside. Gray daylight showed through the slit beneath its helm and the open collar below. It did not look from trail to trail. It did not hesitate. The empty suit only came on.
 
-She knew there was a stair beneath her.
+Tirra scrambled out of the seam. The iron buckle at her hip gave a small, vicious hiss. Moisture vanished from the leather around it and reappeared as feather-shaped frost across the metal. White vanes sharpened outward until the buckle bit through her coat. She struck it open with the brass pommel of her knife. The brass stayed wet; the iron burned two bare fingertips numb.
 
-The knowledge arrived with the smell of lamp grease and wet wool. Her right knee hurt from an old fall that had never happened to her. She remembered descending thirteen steps, turning beneath a carved eagle whose left eye had been chipped away, and pressing a heel against the wall until a hidden door gave.
+Behind her, the armor put its forearm through the granite rib.
 
-Tirra recoiled so hard she slipped. Her hand found a crack. Below her, the cut dropped into shadow; above, the armor's fingers searched the ledge.
+Tirra reached the crown just as a crossbow bolt struck the shale ahead. The shot skipped left into empty air, placed to turn her rather than hit.
 
-Thirteen steps.
+Dajan stood across a narrow draw, gray cloak wrapped close, crossbow already lowering for another wind. Two scouts climbed beneath him while four more spread toward the saddle.
 
-She hated the knowledge. She used it.
+“West is closed,” he called. “Your south spoor cost us six minutes.”
 
-The stair mouth lay behind a skin of lichen exactly where the borrowed memory placed it. Tirra drove her knife into the seam and peeled away a slab thin as bread crust. She squeezed into the dark just as the bronze hand reached the opening.
+“The low notch sheds stone after midday,” Tirra called back. “Move those two uphill.”
 
-The stair smelled of lamp grease and wet wool.
+Dajan looked once, not at her but at the fractured cap above his scouts. He gave a two-note order. They changed their climb.
 
-At the thirteenth step, a man's voice said, “Don't move.”
+His crossbow came up again.
 
-Tirra stopped. A crossbow point hovered at the level of her throat. The man behind it wore a trail warden's gray cloak, its iron clasp muffled in felt. He was broad through the chest and old enough to have gray in his beard, but he had climbed ahead of his soldiers without breathing hard. The narrow stair forced him to brace the bow sideways.
+Tirra went north because he had left her no other clean line.
 
-“Dajan,” Tirra said. Everyone who hunted the crown slopes knew the royal warden. He could read a footprint after sleet had filled it and once found three lost charcoal burners by the grease stain a raven carried on its breast.
+The armor came through the crown between them.
 
-“You know me. Good. Put down the knife.”
+Its shoulder burst a black shelf apart. Dajan dropped behind cover. Tirra leaped a cut in the rock, landed on frost, and slid toward a narrow ledge. Her bow struck stone. Iron arrowheads whitened inside the quiver, each rimmed in fine frozen barbs. She pulled one loose, lost skin from her thumb, and flung it aside.
 
-“Do you know me?”
+Bronze fingers closed where her leg had been. The smallest one brushed the back of her wrist.
 
-“Tirra. Goat hunter. No registered hearth. Seen on the east face when the signal went up.” His eyes flicked to the wall behind her as bronze scraped stone. “And named by the warrant.”
+A stair appeared in her knowing.
 
-“The warrant names a dead queen.”
+Not a queen. Not an axe. Eleven steep steps descending from an entrance hidden under yellow lichen; a carved eagle at the turn; its chipped left eye above a heel-latch for the lower gallery. Lamp grease hung in the air, though Tirra still smelled only snow and her own blood.
 
-“It names what comes after her.”
+The gauntlet swung back.
 
-The stair shuddered. Powdered mortar fell between them. Frost flowered over the crossbow's metal stirrup despite its felt wrapping. Dajan did not look down.
+She threw herself toward the place the stair should be. Yellow lichen covered a slab at knee height. Her knife found the seam. She pried, squeezed through, and kicked the slab shut as bronze scraped over it.
 
-“What did she do?” Tirra asked. “Not the hearth carving. What do you kill me for?”
+Darkness swallowed the mountain noise. Tirra counted down eleven steps with one hand on the wall. At the turn her thumb found the chipped eye.
 
-“She ended the rebel winter at the southern pass.”
+A crossbow bolt touched her throat.
 
-“That sounds like a king's answer.”
+Dajan had taken a square-cut upper entrance from his side of the draw while Tirra worked at the hidden slab. Felt muffled its iron fittings, but frost already needled through the wrapping around the trigger.
 
-“My grandmother's mother was among those trying to cross. Rebels went first. Families were behind them. The Eagle Queen ordered the pass closed before the last carts cleared.” His words had the short, level shape of route instructions. “The armor brought down both walls. There were children under the road when spring opened it.”
+“Knife on the step,” he said. “Slowly. The saddle line has twelve bows. The north chute has six. This stair has me.”
 
-Tirra waited for denial to rise in her. Nothing did. She had a stranger's aching knee, a remembered stair, and no memory of giving any order.
+Tirra felt behind her with one heel. The latch from that single impossible place-memory was below the eagle carving.
 
-Stone cracked above. Dajan shifted his aim a finger's width away from her throat.
+“Your scouts are still over the broken cap.”
 
-“Back,” he said. “The roof is going.”
+“They cleared it.”
 
-He meant it as much for whoever followed him. A young voice answered from above. Dajan ordered his scouts out of the stair before the second crack had finished. Tirra kicked the crossbow into the wall. The string released. The bolt struck the step beside her boot, and she dropped through the hidden door her heel had already found.
+“The armor didn't.”
 
-She landed on an old exterior gallery. Wind slapped the breath from her. She ran along a ledge no wider than a sleeping mat while Dajan forced himself through behind her.
+Stone groaned somewhere beyond the wall. Dajan shifted the crossbow a fraction, changing the shot away from her throat and toward the center of her chest.
 
-The armor shouldered out of the stair. Its plates stripped the lintel away. Above it, half a field of shattered rock began to slide.
+“Why this warrant?” Tirra asked. “Give me tracks, not a hearth tale.”
 
-Tirra saw where it would go. The high face funneled every falling stone toward the winter slopes, where herders had drawn their huts close beneath the overhangs. Smoke rose from six camps. Dark flecks moved between them: people running because the horns had changed from hunt calls to avalanche warning.
+“Nine family carts were still inside the southern markers when the Eagle Queen ordered both pass walls dropped. The spring dig found eight axle beds under the slide.”
 
-The west pass lay open below Tirra. Patrols had not yet reached the scree. She could be across before the slide came down.
+The iron trigger whitened. Frost feathers pushed through the felt and burned Dajan's trigger finger. He shifted it to the wooden guard without lowering his aim.
 
-The armor turned toward her.
+“You saw the axles,” Tirra said.
 
-If she descended, it would make its straight road through the slope and the camps beneath.
+“I measured them.”
 
-“Curse you,” she told the empty helm.
+A split opened over his shoulder. Daylight cut the stair.
 
-She climbed back toward Harrowscar.
+Dajan called upward. “East exit. All of you. No return shot.”
 
-Dajan shouted for his scouts to clear the lower face. He did not thank her for turning. He followed, and that steadied something in Tirra. Gratitude would have been another sort of trap.
+The scouts moved at once. Tirra drove her heel into the carved eye.
 
-She crossed the mountain high, drawing the armor toward an empty wall of black stone. Twice she showed herself against the sky. Twice it changed course. It never hurried, never slowed, never chose; it simply found the shortest line between them and ruined whatever occupied that line.
+The hidden outer door dropped beneath her weight. Dajan loosed as she fell; his bolt tore her quiver strap instead of her body. Arrows rang down the steps. Tirra landed on an exterior gallery with only her knife and damaged bow, rolled under the low parapet, and ran.
 
-Royal horns converged below. Tirra reached a shelf that slanted around the old execution ledge. Snow lay clean across it. The safest trail would bring her within bowshot of Dajan's scouts. She made the juniper trick again, brushing a path toward a narrow traverse, then crawled back behind a stack of weathered stones.
+Dajan came after her. He had left the discharged crossbow in the stair to fit through the lower door.
 
-Dajan came alone around the shoulder. He glanced once at the broken branches and once at the clean snow.
+The armor did not use the stair. It drove through the mountain beside it.
 
-“You used that lie below,” he called.
+A bronze shoulder opened the buttress above the gallery. Rock peeled from Harrowscar in slabs. Tirra reached the gallery's end and saw the west descent below her, bare of soldiers for half a mile. Beyond it, the pass narrowed into a cut she could cross before the next horn.
 
-Tirra heard the armor grinding under them.
+Then the first slab struck the lower slope.
 
-The shelf sagged.
+It split into pieces that bounded toward six winter camps tucked beneath the overhangs. Smoke rose from hide roofs. People spilled between them, small and hurried. The horns changed to the broken avalanche warning.
 
-Dajan heard it too. He threw himself toward the mountain. Tirra jumped for the outer lip. The whole shelf split between them. Stone, snow, and two living bodies fell into the dark.
+Tirra could reach the descent. The empty armor would take the straight route after her, through the loosened buttress and directly across the camps.
 
-Tirra struck a sloping floor and slid. Her shoulder hit something hard enough to numb the arm. Dajan crashed against a broken pillar, and his empty crossbow clattered after him. Above, the shelf sealed itself in a roar.
+She turned uphill.
 
-When the noise stopped, the chamber was no larger than a trapping hut. A shaft of gray light came through the broken ceiling. On one wall, age-blackened iron rings hung beneath a ledge of stone. Tirra knew where she was before the other memory came.
+Dajan saw where she was going. He blew four scouts away from the chase and toward the winter slope, ordered the nearest pair to hold the high contour, then followed her alone.
 
-The crowd had watched from above.
+Tirra climbed across the face until her lungs tasted of iron. Twice she showed herself on open rock to draw the suit toward the empty heights. Twice it altered its line. It neither hurried nor chose; whatever the old queen had set into the metal joined Tirra's living presence to the shortest route, and the armor broke that route open.
 
-She had knelt beneath those rings with her hair tied away from her neck. Seven young kings had stood where daylight now entered. One of them wept. None halted the axe. Below the platform, hidden in the mountain, her armor had waited behind a stone wall with its collar open.
+The path narrowed under the execution ledge. A high shelf curved around black stone, snow on its outer half and frost-slick shale within. Old drainage holes pocked the cliff below it. The shelf was hollow. Tirra heard the armor grinding underneath.
 
-Tirra pressed her palm to the floor until the chamber became one place again.
+One bloody binding still hung from the cut quiver strap across her chest. She dragged it across the snow toward the outer traverse, walked backward three steps, then climbed the bare inner edge where no print would hold. Dajan reached the shelf as she flattened behind a tooth of rock.
 
-Dajan stirred. Blood darkened the hair over one ear, but his hands still worked. He drew a long knife.
+He studied the red smear. Then he looked above it.
 
-“This is where they did it,” Tirra said.
+“Blood went outward,” he said. “Your boots stayed high.”
 
-“I know.”
+A scout horn answered from the eastern shoulder. Dajan raised one hand without looking back.
 
-“Did you plan to bring me here?”
+“Hold there,” he called. “Shelf won't carry three.”
 
-“I planned to shoot you on the stair.” He pushed himself upright, favoring one leg. “The mountain had another route.”
+He stepped onto it alone, knife drawn.
 
-The wall behind Tirra bulged. A bronze claw came through. Frost raced over the iron rings. One snapped with a sound like a plucked wire.
+Tirra rose behind the stone tooth and cut toward the ledge. Dajan angled across her route. He knew she could not take the outer snow without entering his reach. She knew the inner shale would roll under a hard turn.
 
-Dajan lunged.
+Below them, bronze struck the hollow shelf.
 
-The chamber was too small for sword work and too broken for footing. It was the kind of ground Tirra understood. She stepped inside his knife arm, caught his wrist with both hands, and drove it against the pillar. He struck her mouth with his free hand. Light flashed in her eyes. She stamped the side of his injured knee. When he folded, she twisted the knife loose and flung it through the gap in the ceiling.
+The first blow lifted both their feet. The second opened a seam from the cliff to the outer edge.
 
-Dajan gripped her coat and dragged her down with him.
+Dajan shouted for his scouts to get back. Tirra jumped toward the ledge. The shelf folded before either reached stone.
 
-The armor tore the wall apart.
+They fell with snow and broken rock into a chamber no bigger than a herder's hut.
 
-Its helm entered first, followed by shoulders shedding slabs. The chamber filled with bronze feathers, stone dust, and a cold that burned Tirra's wet lips. The breastplates spread. The collar unfolded above them, offering the hollow where a living neck should go.
+Tirra struck on her side. Her damaged bow snapped beneath her. Dajan landed against an old pillar, and his knife skittered into the dark. The collapse sealed the hole above with slabs, leaving only three seams of gray light. Voices called from the far side. Dajan answered with the number of living and the direction of the void.
 
-Dajan released her and reached for a fallen rock.
+“Two alive,” he shouted. “Chamber below the ledge. Dig east, not down.”
 
-“The pass,” he said. “Remember them before you put that on.”
+He stood carefully. Blood ran from his hairline. His right boot dragged.
 
-Tirra could have backed away. The armor would follow if there was room, and if there was not, it would make room until the chamber buried them. She could let Dajan crush her skull. She could climb into the suit and discover whether bronze made a queen harder to kill.
+Tirra pushed herself up. Her left sleeve had torn, but her arm held weight. Age-black iron rings lined one wall. A stone lip projected above them. She did not remember the room. A cold draft touched her ankle from behind the broken pillar.
 
-Instead she put her hand inside the open collar.
+“There's an outlet low on the north side,” she said.
 
-Metal ridges met her fingers as if made for them.
+Dajan tested his leg, then retrieved his knife. “Too small. My scouts need a body-width.”
 
-The axe descended.
+“The armor will make one.”
 
-Before it, the pass: snow clogged by carts, frightened oxen, rebels carrying spears among families carrying blankets. A messenger begged for another hour. She, the Eagle Queen, stood within the armor and felt stones placed in the walls like bones under skin. The rebel king's riders were almost through. If they escaped, the winter war would last. If she closed the pass, it would end that day.
+“That leaves me less time.”
 
-She gave the order.
+He crossed the chamber with the blade close to his thigh.
 
-The mountain walls fell. The sound afterward was not silence. It was oxen screaming under rock. It was a woman calling the same child's name until the snow took the voice.
+Tirra backed toward the draft. “Your nearest man is ten feet east. Miss me and you'll open the roof over him.”
 
-Other memories crowded behind it: taxes collected at bronze spearpoint; granaries opened during a black summer; lords made to send hostages; roads cleared of bandits and filled with her own patrols. She had called it peace.
+“I won't miss at this distance.”
 
-Then the last chamber before execution. Her hands, older than Tirra's hands, guided artisans as they cut channels inside the collar that only living flesh could close. The armor could wait. It could answer the pattern of her life if that pattern returned, though no artisan promised it would. She had built a road for memory through metal because she could not imagine the valley continuing without her.
+He came in low.
 
-The axe fell. Pain flashed white and ended.
+The chamber denied him the reach he wanted. Tirra kicked a shard toward his bad boot and moved outside his knife hand. He checked the kick instead of stepping on it, fast enough to keep his balance. His shoulder caught her chest. They struck the wall together.
 
-Tirra came back standing with her hand in the collar. Dajan had lifted the stone but had not struck. The ceiling above him was splitting.
+The iron rings bloomed white.
 
-She knew the armor now: how to close it around her body, how to carry the mountain's weight through its feet, how to pull a wall down with both arms. It wanted nothing. It was a harness waiting for muscle, and her touch was muscle enough.
+The armor was close now. Feather frost spread across the rings and the knife blade, drawing the wet from Dajan's glove. His fingers burned open. Tirra caught his wrist, turned it against the wall, and drove the heel of her hand under his elbow. The knife fell. She could have drawn her own blade across the gap beneath his jaw. She used its flat to shove the frozen weapon into a crack beyond his reach.
 
-The broken chamber offered her Dajan's death as easily as a rabbit in a snare.
+Dajan hooked her injured sleeve and pulled. The wall behind them jumped.
 
-Tirra pressed two fingers into the collar's lowest grooves. She turned her wrist, not toward herself but toward the falling roof.
+A bronze hand entered the chamber.
 
-The empty armor pivoted. One foot drove into the floor. Its back struck the ceiling just as the central slab gave way. Bronze screamed against stone. The suit bent beneath the load and held.
+Stone burst inward. Tirra and Dajan separated under the rain of fragments. The helm forced through next, empty eye slits turned along its fixed line. One shoulder remained buried. Its breast plates opened. The collar spread toward Tirra, close enough to enter.
 
-Dajan stared up.
+Dajan reached for a fist-sized rock.
 
-“Move,” Tirra said.
+“If you touch it,” he said, “I have one throw before it closes around you.”
 
-His leg was pinned beneath part of the pillar. Tirra crouched and levered it with his fallen crossbow while he pulled free. Frost glazed the bow stock and bit into her palms. When his boot came loose, he rolled clear. A crack opened at the rear of the chamber, revealing a black channel narrow enough for a person.
+Tirra looked at the roof seam widening above his scouts. “Throw high. Break that, and they come down with us.”
 
-Tirra remembered workers washing blood from the execution ledge through that drain.
+His arm stopped. It did not lower.
 
-Above them, the armor's knees began to buckle.
+The collar waited open. Tirra could step between the plates and let them close over her ribs. She put only her bare hand inside.
 
-“Can you stop it?” Dajan asked.
+The metal took her living touch, and memory found the channels prepared for it.
 
-Tirra put her hand back in the collar. There was no word of command. There had never been. She found the pressure that locked hip, spine, shoulder, and wrist in place, then drew her hand out before the plates could close around it.
+A queen's palm pressed into fresh-cut grooves while frightened metalworkers watched from the edge of lamplight. The queen had ordered them to shape a waiting pattern from her own pulse and breath, a road the same life might someday close again. The suit held only the pattern; the memory gave Tirra nothing of the century between.
 
-The suit froze half-crouched beneath the mountain.
+Winter petitions lay unopened on a cedar table. Riders carried household heirs to the capital as pledges. Gates that had stood open at dusk were chained by midnight. The Eagle Queen had ended feuds by putting her own patrol between every neighbor and calling the quiet peace.
 
-Dajan looked from the armor to Tirra. “What came back?”
+At the southern pass, iron levers trembled under the armor's gauntlets. A messenger pointed through blowing snow: rebel riders beyond the markers, family carts still within them. The queen saw bright blankets, ox horns, a child walking because a wheel had broken. She knew the rear had not cleared. Another hour might let the rebel column escape.
 
-Dust streaked his face. He had saved his scouts in the stair. He had also climbed the mountain to kill her before she could answer his question.
+She ordered both slopes released.
 
-“I remember,” she said.
+The ground moved through her armored feet. One cart overturned before the dust hid it. The child's red cap stayed visible an instant longer.
 
-His hand went to his empty belt.
+Later came rope rough against her wrists, the execution ledge cold beneath her knees, seven young kings above. Under the ledge, the empty suit waited where she had commanded it to wait. She had arranged a return because even at the block she could imagine the valley without her only as ruin.
 
-Tirra nodded toward the drainage cleft. “It reaches the north face. You can crawl it with that leg, or wait here for your scouts to dig through.”
+The axe fell.
 
-“The warrant stands.”
+Tirra's hand remained inside the collar. Her own life was still where she had left it: the taste of juniper tea, the blister in her right heel, the western rabbit runs, the goat offal cooling on the high face. The queen's years ended behind those things and were hers all the same.
 
-“Then wait.”
+Dajan still held the rock.
 
-She entered the drain.
+“Were the carts inside?” he asked.
 
-The queen knew its turns. Tirra knew when the air changed. At the third fork, memory pulled her toward a stair that had once opened beside the ledge. The draft there smelled of soldiers and torch smoke. Tirra chose the lower crack instead, where cold air came in thin pulses. Outside, horns sounded from the north and west. She stopped between calls, moved while their echoes crossed, and climbed toward the scent of juniper.
+“Yes.”
 
-She emerged above the first snow as evening put copper along the peaks. Far below, people streamed away from the winter slopes. The slide had stopped short of the highest huts. Harrowscar still groaned around the ancient armor, but no bronze claw broke the surface.
+The ceiling broke.
 
-The eagle waited near Tirra's morning kill. It had torn open the goat haunch and fed until its white head was stained. The thorn lay on the stone beside it, worried free. When Tirra approached, the bird mantled over the meat and snapped its beak.
+A central slab dropped, pinning Tirra's coat to the floor and catching Dajan across the shin. The eastern seam collapsed toward his scouts. He flung the rock under it, buying no more than a breath.
 
-No bow this time.
+Inside the collar, Tirra felt the fixed paths of the suit: close, lift, turn, brace, still. No thought met hers. No metal will offered service. Her living hand completed motions laid down a century before.
 
-Behind her, Dajan's first horn gave the call for a living quarry. Another answered from the western pass.
+The breast plates waited to close.
 
-The Eagle Queen remembered a royal road hidden beyond the north ridge. Tirra watched the loose breast feathers along the wild bird's throat and felt the downslope gust before it touched her face. Snow would soon close that road. The wind had scoured a different line across the shale.
+Tirra stayed outside them. She hooked two fingers under the lowest ridge and drove her thumb across the brace path.
 
-She took it at a run.
+The half-buried armor turned away from her. Its free foot stamped beside the pillar. Both arms rose under the falling slab, elbows locking as the roof came down. Bronze shrieked. The suit bowed beneath the weight and held it.
+
+Tirra cut through her trapped coat and crawled free. Dajan's leg lay under the pillar base. She wedged the longer half of her broken bow into the gap and leaned until the wood cracked. Dajan pulled his boot clear. Together they rolled behind the armored leg as another sheet of stone spilled over its back.
+
+The drain behind the pillar stood open now, black water worn through old mortar. Tirra remembered its built course: blood and rain had once washed north from the execution ledge, through two forks, to a grate below the mirror ridge.
+
+The armor's knees shifted.
+
+She put her hand into the collar once more. Her fingertips found the locking sequence—hip, spine, shoulders, wrists—and pressed it through before the suit could resume its route toward her. Then she withdrew.
+
+The armor stopped half out of the mountain, back bent under Harrowscar, one buried shoulder wedged in the wall while grit ticked from its plates. Frost continued to edge the nearby rings. It was neither buried nor safe. It simply held the last command.
+
+Dajan sat with his back to the pillar and tested his ankle. Then he took the horn from beneath his cloak.
+
+“The warrant stands,” he said. “The north mouth is below our second mirror. One call closes it.”
+
+“Your horn points into rock.”
+
+Tirra entered the drain while he dragged himself toward the eastern seam. Behind her, he found an angle and blew three hard notes. His scouts answered. A second horn, higher on the north face, took up the living-quarry call.
+
+The Eagle Queen's memory gave Tirra the old drain: right at the worn channel, left where the wall bore chisel marks, upward to the iron grate. Tirra heard boots gathering beyond that grate. The wind came cold against her cheek from a split no builder had cut, low and narrow under the second fork. Horn echoes reached it late and thin. She put the remembered route behind her and followed the moving air.
+
+The crack scraped skin from her knuckles and dropped her onto the high face near dusk. Copper light lay along the peaks. Below, the winter camps emptied toward safer ground. The slide had stopped above their first roofs.
+
+At her morning kill, the wild eagle stood ankle-deep in goat offal. It tore once at the liver and mantled when Tirra approached. Its beak clicked. Its head stayed high.
+
+Tirra recovered her spear without coming within the bird's reach.
+
+Dajan's pursuit call sounded from the execution face behind her, then two answers spread west and north.
+
+The queen remembered a stone road under the northern snow. Tirra watched blown grit skip across the shale and saw where the evening wind had scoured a different line clean.
+
+She ran that way.
