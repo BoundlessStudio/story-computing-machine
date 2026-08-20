@@ -1,351 +1,311 @@
 ---
-title: "The Inheritance Remembers"
+title: "The Counted Road"
 slug: "the-inheritance-remembers"
 created: 2026-08-20
 created-at: 2026-08-20T08:45:02-04:00
 canon: false
 ---
 
-# The Inheritance Remembers
+# The Counted Road
 
-At every Darrow birth, someone mentioned the curse. At every Darrow funeral, someone admitted they had no idea what it did.
+My father died with all seven of his sons touching his bed.
 
-By the time we buried my grandmother Iven, it had become one of those family possessions nobody liked enough to display or trusted enough to throw away. My mother said it was probably an ancestor's excuse for a bad temper. I said, during the drive back from the cemetery, that if it had waited through generations of Darrows to turn me into a grouch, it had wasted its patience.
+That was not tenderness. Merrick Farrow had sent for us three days before, when the rattle began low in his chest, and Bareth had gone from house to house until every brother stood under the old roof. Father would not let any of us sleep in the barn. He wanted us close enough to count.
 
-That was the last joke I remembered my mother laughing at.
+The Farrows had always counted sons.
 
-The house was still full of funeral food. Covered bowls occupied the stove, the sink, and half the table. A sheet cake sweated under its plastic lid beside Iven's brown teapot. I had rolled my sleeves and begun assigning everything a destination: freezer, neighbors, waste. My mother, Meri, stood at the open refrigerator with a dish of baked onions in both hands.
+Merrick had been the seventh born in an unbroken run, with all six elder boys alive to see him come. Then he married our mother and did the same thing again. No daughter broke our line. No small grave interrupted it. Bareth first, then five more, then me. Mother told me once that, after Hesk, she had called six enough. Father had answered that six was a door left open.
 
-“Did we say these were for the downstairs freezer?” she asked.
+Nobody knew what stood beyond the door. We only knew there was a curse, and that a seventh son of a seventh son must keep his place.
 
-“No. The freezer's full. We said we'd give them to the woman with the red scarf.”
+My place, while Father died, was at the foot of the bed.
 
-“What woman?”
+His last breath slipped out shortly before dawn. For a little while nothing followed. Wind worried the thatch. A coal settled in the hearth. Hesk put two fingers to Father's throat and shook his head.
 
-“From the funeral home. She stayed to stack the chairs.”
+Then Bareth fell against the bedpost.
 
-Meri looked down at the onions, then at the table. “Right. Did we say these were for the downstairs freezer?”
+I thought grief had struck him until a spike of pain drove through my own right knee. Bone ground where bone had no reason to grind. My leg folded. I caught the footboard with my left hand, and that hand clenched so hard I could not open it.
 
-Her voice was ordinary. That made me answer too sharply.
+Across the bed, our second brother stared at his right hand. Three fingers that had curled toward his palm since a lime-kiln burn were rising, slowly, cleanly, as if invisible strings drew them straight.
 
-“You just asked me that.”
+“Ruen,” Hesk said.
 
-“I did not.”
+I could hear him on one side only. In my left ear, the room had filled with the dull roar of deep water. Our fourth brother turned toward the scrape of a mouse behind the flour chest. He had been deaf on that side since a winter fever at twelve. His face changed as he followed the tiny sound.
 
-“Ten seconds ago.”
+Heat flooded me. My shirt stuck to my spine, though ice filmed the water jug. The third brother pressed both hands to his cheeks. He had woken every ninth or tenth morning shaking with marsh ague since his soldiering years. Now his skin was cool.
 
-She shut the refrigerator with her hip. There were damp crescents under her eyes where the funeral veil had rubbed away her makeup. “Then I am tired enough to repeat myself. There is no need to make it an indictment.”
+The room tipped. A milk-white blur spread across my right eye. Our fifth brother covered his left eye, then uncovered it, laughing once in disbelief at the sharp edges of the rush basket by the wall. A thorn had clouded that eye the summer I was born.
 
-I apologized. I took the dish from her and carried it to the front hall, where a row of paper bags waited to leave. When I came back, she had opened the refrigerator again.
+Last came a wrench beneath my shoulder blade. My right arm sagged. Hesk's arm, weakened by a fall from the hayloft, lifted above his head for the first time in twenty years.
 
-“Are the onions going downstairs?”
+Six old harms had left six bodies and found mine.
 
-The kitchen clock made one dry click.
+Bareth tested his leg. He bent the knee that a cart wheel had crushed, put his full weight on it, and straightened. He was the eldest and the heaviest of us. I had never seen him stand without favoring one side.
 
-“Mum.”
+“Six rise,” our fourth brother whispered.
 
-This time she heard the fear. She closed the door carefully and wiped her palms on her skirt. Meri had kept inventories all her working life. Grocery staples, client files, winter clothes, every object in the house Iven might trip over—she trusted a sequence because a sequence could be checked. She reached for her phone.
+The words belonged to a counting rhyme we had used with pebbles as children. We had forgotten most of it because Father slapped the rhyme out of our mouths whenever he heard it.
 
-“Tell me exactly what happened.”
+Hesk looked at me on the floor. “Seventh bears.”
 
-I did. She opened her messages and found our thread. It contained the afternoon in blue and gray blocks: my photograph of the cemetery entrance, her request for Iven's black gloves, my reply that they were already in the car. At the bottom was a message she had sent from the parlor twenty-three minutes earlier.
+No one laughed at the old words now.
 
-Take the onions to the red-scarf woman. She was kind.
+They laid me on the settle while Hesk examined me. He did not call what he did healing. He compared. He worked my locked fingers and asked the second brother where the burn pulled worst. He covered one of my ears, then the other, while the fourth clicked his tongue beside my head. He watched the fever bead on my chest. When he pressed the notch beneath my shoulder, both he and I knew the place.
 
-Meri read it twice.
+“It's ours,” the third brother said. He had stripped to his undershirt in the cold room, astonished not to be shivering. “Each bit.”
 
-“So I sent this.”
+“That tells us where it came from,” Hesk said. “Not what happens next.”
 
-“You were sitting beside me.”
+Bareth was walking the length of the room, heel to toe. At the far wall he turned without the stiff three-step swing that had shaped his whole adult life. Four children waited for him in a house with a leaking west roof and winter two months away. I knew what every easy step meant to him.
 
-“I remember sitting in the parlor.” She scrolled upward. “I remember asking the director about the death certificates. I remember the hymn books being boxed. I do not remember writing this.”
+I also knew what my father had meant by a door left open.
 
-“Maybe you were distracted.”
+“Put him in the ground,” Bareth said.
 
-“That is your theory now?”
+Hesk looked up. “Ruen or Father?”
 
-“It's the theory I want.”
+Bareth stopped walking. “Don't be foul.”
 
-She considered that, then pressed the number on the funeral home's receipt. The red-scarf woman answered. Meri put her on speaker and asked who had remained after the service.
+“Then name who you mean.”
 
-“You and your daughter,” the woman said. “Your daughter did most of the carrying. Senra, isn't it?”
+The burial had to be done before sunset. That was another Farrow rule whose reason had worn away. A Farrow dead beneath his own roof went to Whinbarrow by the Counted Road: across the pasture, between seven standing stones, then up the last steep turn to the family earth. There was a lower sheep track, but no Farrow coffin used it. Father had made each of us rehearse the route when we were boys. Six carried the ash bier. The seventh walked behind with the trailing loop of its rope in his hand.
 
-My mother looked at me. Her face did not soften, but some tension left her shoulders.
+Always the seventh. Always me.
 
-“Yes,” she said. “Thank you. We are overtired and sorting out the day.”
+I could barely stand, but I wanted Father out of the house. I wanted the grave shut over whatever he had done. Most of all, I wanted to prove that the road was only a road and the stones only old rock.
 
-When she ended the call, I reached across the table. She let me touch her wrist for one breath, then drew it away.
+We washed him, wrapped him in undyed wool, and tied him to the bier. The brothers moved around the work with the startled wastefulness of men who had been returned more body than they expected. Bareth crouched to knot the foot rope and rose without bracing a hand on the floor. The second brother seized a knot with all ten fingers. The fourth answered questions spoken behind him. Each small wonder made my borrowed flesh hurt more.
 
-“She confirms you were there,” Meri said.
+Hesk packed bread, hard cheese, and a stoppered jar of fresh milk for the grave meal. He set them beneath Father's feet inside the bier ropes.
 
-“You know I was there.”
+“Why take him the old way?” I asked.
 
-“I know you are my daughter. I know you attended your grandmother's funeral. Those are facts. I am telling you I cannot find the part where we sat together.”
+Bareth pulled the final knot tight. “Because he asked it.”
 
-Sun from the west window had reached the table. Its edge divided Iven's teapot neatly in half.
+“He asked many things.”
 
-I tried recent things first, because recent things seemed safer. The morning I had taken Iven for her last scan. The Tuesday Meri and I had replaced the loose latch on the back gate. The winter I slept in the spare room for three weeks because Iven had begun wandering before dawn.
+“He'll be buried a Farrow.”
 
-Meri knew Iven had received the scan; she remembered the technician's cold hands and the machine's buzzing door. She believed the gate had been repaired because it no longer banged in the wind. She remembered making up the spare bed, but not for whom.
+“He made certain of that seven times.”
 
-“You put the blue quilt on it,” I said. “The one that scratches. I complained every night.”
+Bareth glanced toward our brothers. None met his eye. “We start before the sun clears the ash tree.”
 
-“That quilt is in the linen cupboard.”
+It was not an answer. It moved them anyway.
 
-“Because I folded it this morning.”
+The first stone stood at the pasture gate. Six brothers lifted the bier, three to each ash pole. I took the black rope loop. Father had tarred it every spring, though no one used it except for funerals. Its fibers rasped my locked palm.
 
-“Senra.” Her voice flattened on my name. “Stop supplying details for a moment.”
+We crossed the first marker in birth order.
 
-“I'm trying to give you a way in.”
+Pain bit down through my knee. I stumbled, and the bier swayed. Bareth did not. He looked back at me, then faced the open pasture and lengthened his step.
 
-“And I am trying to determine whether the details are opening anything. They aren't.”
+At the second stone the fever climbed. The third brother, walking at the middle left handle, took a long breath through his nose.
 
-She made two columns on the back of the funeral receipt. REMEMBERED and SHOWN. Under REMEMBERED she wrote cemetery, director, gloves, hymn books. Under SHOWN she wrote onions text, Senra carrying chairs, scan ride, gate repair.
+“I can smell frost,” he said.
 
-Watching my name go into the second column hurt more than it should have. It was still her handwriting. The S leaned forward; the last a never quite closed. She had written that name on lunch bags and permission slips and the labels inside my school sweaters.
+“There isn't any,” said the fifth.
 
-“The labels,” I said.
+“There will be tonight.” He smiled. Then he saw me wipe sweat from my mouth, and the smile went.
 
-“What?”
+Hesk called a halt beyond the marker. He changed places with the fourth brother so he could walk nearest me. Bareth objected to stopping, though Father's body had waited three days to die.
 
-“You embroidered my initials because laundry marker bled through the white blouses. S.D. in green thread, always green because you hated sewing and that spool was already in the needle case.”
+“Show your hand,” Hesk said to me.
 
-Meri's pen stopped.
+“You saw it indoors.”
 
-For an instant I thought I had found the door. Then she stood so quickly the chair legs struck the floor.
+“Show it after every stone.”
 
-“How do you know what was in my mother's needle case?”
+My nails had cut four crescents into my palm. Hesk looked forward to the second brother's restored grip on the pole.
 
-“Because it was in the top drawer of the yellow dresser, beside her button tin. I used to sort the buttons by color while you hemmed things.”
+“Still his,” he said.
 
-“Please don't.”
+“Still mine,” our brother answered.
 
-I heard myself continue. “The pearl ones went in the chipped saucer. The black ones smelled like coins if you held them too long.”
+“Those are the same fact for now.”
 
-“Please stop telling me things about this house.”
+At the third stone, the cloud in my eye thickened until the whole right half of the world was wool and sunlight. The fifth brother began warning the others of rabbit holes. He had never seen them soon enough before. Once, he reached back as if to steady me; his hand stopped short of my sleeve.
 
-My mother was frightened of me.
+We rested the bier on two field blocks. Hesk uncorked the milk. The stopper came free with a soft sigh, and a sour smell rose from the jar.
 
-That fact arrived before I could defend myself against it. I was no longer offering memories to someone who had misplaced them. I was a woman standing in Iven's kitchen, reciting the contents of drawers.
+“Drawn this morning,” he said.
 
-I backed away from the table. “All right.”
+The second brother touched the bread. “Cold as cellar stone.”
 
-Meri picked up the funeral receipt and folded it once. “You have a key?”
+The loaf had been warm when we packed it. Now the crust was damp and chilled. The cheese crumbled under Hesk's thumb, dry at its heart. Outside the rope, the water in his flask was cool but sweet.
 
-“Since I was sixteen.”
+Our fourth brother made the old sign against ill luck. “It's feeding him.”
 
-“Put it on the table. Not because I have decided anything. Because until I know what is happening, I need to control who can enter.”
+“Father never liked sour milk,” said the fifth.
 
-I set the key beside the teapot. She watched my hand leave it.
+That broke a laugh out of two of them. It was a frightened laugh, brief and ugly. Bareth lifted his end of the bier and made the others snatch for their handles.
 
-Then she said, “You said my mother's papers were in the hall desk.”
+“The light won't wait,” he said.
 
-“Iven's papers. Yes.”
+Past the fourth stone, the road narrowed between a drainage ditch and a bank of furze. My deadened ear faced the bier, so I could not hear the brothers' warnings. My right shoulder dragged low. I watched Bareth's feet and placed mine where his had been, though his stride now carried him farther than I could reach.
 
-“We will look together. You will stand where I can see you.”
+The rope jerked.
 
-The hall desk had three shallow drawers and one deep one that smelled of cedar. Meri opened each in order. Bills. Appliance manuals. Iven's pension letters. A clothbound album with photographs held under gray corner tabs. Meri carried the album into the sitting room, where the light was better, and placed it on the coffee table between us.
+My bad knee gave way. I pitched left, missed the packed track, and tumbled down the shallow ditch. The loop tore from my hand. For one breath I lay beyond the black line of rope with wet grass against my face.
 
-The first pages were recent. Iven in her garden chair. Meri holding a birthday cake. Me behind them with both hands on their shoulders.
+The pain vanished from my knee.
 
-Meri touched Iven's photographed face, then her own. Her finger hovered over mine.
+Above me the front of the bier struck earth. Bareth had collapsed. He clutched his right leg, his face gone gray with the old grinding agony. The second brother's fingers crooked around his handle. The fevered brother began to shake. Someone shouted that he could not hear.
 
-“The woman at the funeral home identified you,” she said.
+My clouded sight cleared by a pale degree.
 
-“Yes.”
+Hesk slid down the bank. His right arm hung loose again, but his left was sound enough to hook under mine. The fifth brother caught my belt. They hauled me over the verge onto the Counted Road.
 
-“And this photograph is consistent with that.”
+All six harms struck me at once. I screamed. Up ahead, Bareth forced himself upright on a straightened knee.
 
-Consistent. I wanted to make her say daughter, but I had already learned what wanting could do.
+No one moved for several moments. Father's bier lay crooked with one pole in the mud. A lark poured song into the empty sky.
 
-Farther back, the pictures showed my graduation, my school concerts, one beach holiday in which I was brown-kneed and furious about a sunburn. Meri recognized places, weather, the orange towel she had lost on the train home. On every page I was evidence of an intrusion into a day that otherwise belonged to her.
+Hesk crouched at the road edge and drew a line in the wet soil with one finger. “Out, it goes back. In, it comes to Ruen.”
 
-Behind the final photograph, I found an envelope flattened against the cover. It held six smaller pictures, all old enough to have white borders. Someone had written dates on the backs. In each, one face had been circled in pencil. A stern young man beside a market stall. A woman holding a baby. An old man in a collarless shirt, seated apart from a wedding party.
+“Then he walks outside,” the third brother said through chattering teeth.
 
-“Who are they?” I asked.
+“And we carry Father below,” said the fourth, too loud because his deafness had returned for those few breaths and left him uncertain of his voice.
 
-Meri examined the names. “Darrows, apparently. I don't know them.”
+Bareth planted his boot across Hesk's line. “We finish what we began.”
 
-The same sentence had been copied beneath three of the photographs in three different hands.
+The fifth brother stared at him. “You felt it return.”
 
-When the holding one dies, watch the living line. One will remain clear while blood forgets.
+“I felt him fall. Those aren't the same.”
 
-Meri read it aloud without emphasis. Under the photographs lay a square of newer paper in Iven's writing. It was not an explanation. It looked like notes copied from some longer document that had failed to survive.
+“They were the same to your knee,” Hesk said.
 
-Newest goes first.
+Bareth took hold of the fallen pole. “Lift.”
 
-Facts outside the blood stay where they are.
+The second brother obeyed first. His straight fingers closed around the wood. The fifth followed after a pause. The third kept both hands at his sides until Bareth said his name—not a plea, but the tone Father had used when counting us at table. Then he bent and took his place.
 
-Do not make them prove love with what has been removed.
+Hesk cleaned mud from my cheek. “Can you step off again?”
 
-At full dark, what is gone stays gone. What begins after may hold.
+I looked at the ditch. On the road I could not trust my knee or see properly to my right. The bank might as well have been a cliff.
 
-Meri checked the window. The sun had lowered behind the houses opposite, but the sky above them was still bright.
+“Not without help,” I said.
 
-“This is why we kept saying there was a curse,” I said.
+Hesk's mouth tightened. I had hidden that truth since the house. Bareth heard it. His shoulders lowered, almost with relief.
 
-“This is a note claiming there is one.”
+We went on.
 
-“It describes today.”
+At the fifth stone I began to understand the shape of the trap. The road did not need walls. It gave the six men strong enough to hold me in place what they had missed for years, and it gave me exactly enough of their weakness that I could not leave alone.
 
-“Three sentences resemble today. The fourth has not been tested.”
+The rhyme returned in scraps as we walked. Our fourth brother found one line. The third supplied another. They spoke them not like a song but like men testing rotten boards with their weight.
 
-“You don't believe it?”
+“Keep the rope and keep the road.”
 
-“I believe I am forgetting my day in a pattern that concerns you. I believe my mother preserved this. Believing beyond the evidence will not make me safer.” She turned the paper over. Blank. “Who is the holding one?”
+“Six go light and one takes load.”
 
-“Iven was. Maybe. Then she died, and it picked me.”
+The second brother muttered, “Past the last and under clay.”
 
-“Why you?”
+Nobody knew the line that followed.
 
-“I don't know.”
+Bareth did. I saw it in the way his neck stiffened.
 
-“What does ‘full dark’ mean?”
+The sixth stone stood at the foot of Whinbarrow. Beyond it, the road bent uphill through yellow grass toward the final marker. The seventh stone waited at the crown beside the open grave. From below, it was thin and dark as a man turned sideways.
 
-“I don't know.”
+We set the bier down.
 
-“Does it affect anyone else?”
+“What did Father tell you?” I asked Bareth.
 
-I thought of all the people we could call, all the private histories I might weaponize before sunset. “Your brother.”
+He busied himself checking the lashings. “He told us all the route.”
 
-The circled strangers in the photographs no longer looked like a family record. They looked like holes measured around the people who were left. If Iven's scraps were right, the Darrows had not simply neglected to pass down an explanation. The relatives who learned what the curse did had lost the person who taught them.
+“What did he tell you?”
 
-Meri phoned him. She began with the funeral, not with me. He remembered the service, the rain starting as the coffin was lowered, his wet cuffs. When Meri asked whether he had spoken to Senra, there was a pause.
+Hesk lowered his rear handle and left it on the ground. That made Bareth look up.
 
-“Your girl?” he said at last. “I know you have a girl.”
+“Three nights ago,” Hesk said. “You sent us from the room one at a time. You stayed.”
 
-“You have sent her birthday cards for thirty-one years.”
+Wind bent the whin above us. The open grave was close enough that I could see the pale heap of dug earth. Bareth put both hands on the pole.
 
-“Then they're in a drawer somewhere. Meri, I don't like this.”
+“He said not to let Ruen leave his place,” he answered. “Not until the seventh stone. Not until he was lowered.”
 
-“Neither do I.”
+The fifth brother stepped back from the bier.
 
-I said hello from across the room. He asked who had spoken. Meri ended the call before I could try again.
+“You knew,” I said.
 
-She added his answers to the receipt. The paper was becoming an inventory of my disappearance.
+“I suspected.”
 
-I took Iven's note to the dining table and photographed both sides. Then I opened a blank document on my phone and wrote only what we had seen: recent shared events inaccessible; older events initially intact; messages, photographs, and unrelated witnesses unchanged; another blood relative affected; loss centered on me. I did not write curse as the cause. I did not write that sunset would stop it. Meri looked over my shoulder and corrected the time of the first repeated question.
+“You knew enough not to tell us before we put our hands on the rope.”
 
-That small correction nearly undid me. It was so completely hers: grief could eat the world, and Meri would still make the minutes line up.
+Bareth's gaze went to the cottages below the pasture. His own chimney stood among them. “I knew he believed it. Now we all know he was right.”
 
-At five twenty, she remembered my first flat. She could describe the narrow balcony and the radiator that knocked all night. At five forty-two, she remembered visiting the building but believed she had gone there to deliver a package for Iven.
+“About what happens today. Not after.”
 
-At six, she knew I had attended university because the degree was framed in Iven's upstairs room. She could not recall moving me into residence, though she remembered driving the same motorway in hard rain with the back seat packed to the roof.
+The second brother flexed his healed hand. “Past the last and under clay,” he said. “Sounds plain.”
 
-The daylight withdrew from the sitting room and left us with the ceiling lamp. Each time Meri lost another decade, she marked it. Her fear became methodical. Mine became inventive.
+Hesk looked at the black rope, at Father's shrouded shape, then up the hill. “There was another verse. Mother sang it once.”
 
-“The night I came home with my eyebrow split,” I said. “You sat on the bathroom floor because I wouldn't let the doctor stitch it. You held a towel full of ice against my face and told me I could be vain after the bleeding stopped.”
+“Mother sang nonsense,” Bareth said.
 
-Meri's hand went to her own eyebrow, as if searching for the scar on the wrong person. “I remember blood on the bath mat.”
+“You remember it too.”
 
-“Mine.”
+For the first time that day, Bareth looked ashamed. The expression did not soften him. It made him angry.
 
-“I don't remember you.”
+I found the next line. “Hurts to come go walking by.”
 
-“The scar is here.” I stepped toward her and lifted my fringe.
+Our fourth brother continued, “Seventh sealed till bearer dies.”
 
-She stepped back.
+The third spoke the warning, his voice flat with recognition. “Leave the road ere stone is won.”
 
-I stopped. Between us, on the coffee table, a photograph showed her kissing that same wound while fourteen-year-old me protested toward the camera.
+Hesk finished it. “Each must bear again his own.”
 
-“I'm sorry,” I said.
+There it was. This was no exchange of six old wounds only. Once Father lay in the barrow, every cart wheel, fever, thorn, and fall waiting for my brothers would pass them and find me. Six households would keep their workers. Six men would go light. One would take the road for all of them until it killed him.
 
-“I asked you not to use more details.”
+“And if he leaves now?” the fifth asked.
 
-“They are all I have.”
+Hesk pointed down toward the ditch where our bodies had answered. “Each takes back his own. Merrick dies once. This road cannot begin his death again.”
 
-“No. They are what I no longer have.”
+Bareth shook his head. “You don't know that.”
 
-I could not tell whether the distinction was cruel. I knew only that she needed it.
+“Neither did you when you started us.”
 
-By the time the windows reflected the rooms back at us, Meri had reached my childhood. She knew she had once taken a small child to hospital with a bead lodged in her nose. The chart in Iven's papers supplied my name. Meri remembered the waiting room's fish tank and the nurse who sneezed into her mask. She did not remember my hand in hers.
+The sun had crossed west of the barrow. Father's grave waited. Bareth stepped around the bier toward me.
 
-One memory remained, or I believed it did. Iven's back stairs had frightened me when I was five. The steps were steep, with no risers, and through each open gap I could see the dark cupboard underneath. Meri used to climb below me, one tread at a time, so if I slipped I would land against her chest. She never coaxed. She only said, Put your heel down. Find me with your foot.
+“My roof is open,” he said. “My eldest is ten. If I spend another winter dragging that leg, the beams rot before spring.” He pointed to the second brother. “His hand earns bread. The fever takes a third of every month from that one. Hesk hasn't pitched a full load since his fall. Look at them.”
 
-I had not told anyone that in years. It felt less like a fact than a key worn smooth by use.
+“I have been looking at them from inside their bodies.”
 
-“Mum,” I said. “The back stairs.”
+“Then you know what one mile of this has given back.”
 
-She was standing by the front window. Outside, the first streetlamp had come on.
+He did not speak of fairness. Bareth had never bought anything with a word when he could price it in timber, days, or mouths fed. He stood close enough to lift me. With his knee restored and my shoulder hanging, he could have thrown me over the pole like another burial bundle.
 
-“What about them?”
+“Father chose this,” he said.
 
-“You climbed beneath me. I was scared of the gaps.”
+“Father chose another son when Mother wanted to stop.” My voice was thin from fever, but every brother heard it. “He chose my place before I had feet to stand in it. If you carry me uphill, call it your choice.”
 
-Meri looked toward the kitchen door, beyond which the stairs descended to the basement.
+Bareth's hands opened and closed.
 
-“You said, ‘Find me with your foot.’ Every step. You wouldn't let Iven carry me because you said then I'd stay afraid.”
+The second brother took hold of the front pole. He would finish. The fifth returned to the opposite handle but did not lift. The third sat down in the road beside Father's body, shaking his head. Our fourth brother moved between Bareth and me. He said nothing; he simply planted his boots wide.
 
-“How old were you?”
+Hesk came to my left side. The arm that had failed him for twenty years was strong now. He hooked it around my back and offered me his shoulder.
 
-“Five.”
+“The turf is rough,” he said. “Put your weight here.”
 
-“And you expect this to make me recognize you?”
+The lower sheep track lay twenty paces across the grass.
 
-“I hoped it would.”
+Bareth could have stopped us. The second brother would have helped him. Perhaps the fifth would too, if someone else moved first. Bareth looked up at the seventh stone, then down at Father's body. His new stance was square and effortless.
 
-“It makes me think you know what my voice sounded like when I was alone with a child.”
+He stepped aside, leaving us room.
 
-The last of the room's reflected sky drained from the glass. In it I saw what she saw: a woman with swollen eyes and funeral clothes, whose key lay on the kitchen table; a woman who knew where the spare blankets were kept and how Meri spoke when nobody else could hear.
+Hesk and I left the Counted Road.
 
-She moved to the front door and opened it.
+At the first pace my right knee loosened. Behind us, Bareth made a harsh sound and dropped to one hand.
 
-“I want you to leave now.”
+At the second, my locked fingers opened against Hesk's coat. The front pole slipped from our second brother's curling grip.
 
-“It's almost dark.”
+At the third, sweat cooled on my skin while the old ague seized its owner. Sound rushed back into my left ear. The cloud thinned from my eye, and strength returned to my shoulder as Hesk's arm weakened beneath me.
 
-“Then the note says waiting outside should cost you nothing more.”
+We nearly fell together. Our fourth brother caught Hesk. The fifth came after him, judging the ground once more with one clear eye and one clouded one. The third followed slowly, wrapped in the grave blanket against his returning chills.
 
-“What if it isn't true?”
+The second brother stayed with Bareth and Father. He looked at his stiffened hand for a long while. Then he used the other to help Bareth sit.
 
-“Then staying here won't make me remember.”
+Nothing called us back. Wind moved through the grass, and the sour milk leaked in a white thread from the jar beneath Father's feet.
 
-I wanted to argue that this was my grandmother's house too. I wanted the key back. I wanted to stand in the doorway and keep naming rooms until one of them turned me into her daughter again. But she was braced behind the door, and every name only told her how far inside I had been.
+We took the lower track.
 
-I put on my coat. At the threshold, I took my phone from my pocket and showed her my number beneath my name.
+There were no places assigned on that path. We had to work out the bier as we went. Bareth could not carry, so I took his front corner. The second brother looped the rope around his wrist where his fingers failed. When the fevered third shook hard enough to threaten the pole, we stopped until he could go on. Bareth hobbled beside us using an ash staff. The fourth watched our mouths when we called a halt. The fifth chose the firm ground. Hesk bore weight on his good shoulder and let the other hang.
 
-“It's also in your contacts,” I said. “Call the funeral home first if you need to. Call your brother. Check every paper.”
+We reached the grave from Whinbarrow's northward slope, keeping the seventh stone uphill behind us. By then sunset had reddened the grave earth and every one of us was exhausted in his own familiar way.
 
-“I will.”
+Bareth would not look at me. I did not ask him to.
 
-“I won't come in unless you ask.”
-
-Meri held the door with both hands. She did not thank me.
-
-I stepped outside. The door closed, and the lock turned.
-
-For forty minutes I sat in my car across the street. Lights moved through Iven's house. Kitchen, hall, upstairs room, hall again. My mother was following the records. Once her silhouette paused at the front window, but if she saw me, she gave no sign.
-
-Night settled without ceremony. The dashboard clock changed by one minute, then another, and nothing in my body told me the curse had finished. Cars passed. The red-scarf woman's onions fogged the dish on the passenger-side floor.
-
-At seven thirty-eight, my phone rang.
-
-Meri's number.
-
-I answered but did not say Mum.
-
-“This is Meri Darrow,” she said. Her voice had the careful firmness she used with tradespeople who arrived without an estimate. “I have documents stating that you are Senra Darrow and that I am your mother. I spoke to the funeral home. I believe you did what you said you did today.”
-
-“All right.”
-
-“I don't remember any of it.”
-
-I pressed my forehead to the steering wheel. “I know.”
-
-“The note says new things may hold after dark.”
-
-“It says may.”
-
-“Yes. So I am going to tell you something. I want you to ask me for it before we hang up.”
-
-“What thing?”
-
-“Come tomorrow at ten. Bring the list you made. Knock. Do not use a key.”
-
-We spoke for another minute about the onions. They had to be refrigerated; grief did not exempt them. Then I asked, “What time should I come?”
-
-There was a pause long enough for me to hear her kitchen clock click at the other end.
-
-“Ten,” Meri said. “I told you ten. And you are to knock.”
-
-I wrote it down anyway.
+We lowered Merrick Farrow into the ground without the black rope. The first shovelful struck the wool over his chest. Then another fell, and another. Seven sons stood around the grave, but nobody gave us places, and nobody counted.
