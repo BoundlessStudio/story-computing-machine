@@ -8,356 +8,376 @@ canon: false
 
 # The Mercy Circuit
 
-At closing, I sorted repairs by what was missing.
+The repair kiosk was easiest to own after closing, when the shutters hid how much of it belonged to creditors.
 
-The bionic fingertip beside the till lacked a square of tactile mesh. The implant reader under its dust cover lacked a licensed update I had paid for twice and received never. A scorched weapon cradle on the bottom shelf lacked only an owner willing to admit that molten insulation was not ordinary wear.
+I had a thumb joint turning on the slow printer, an implant reader asking for an update I had already bought, and a quarterly bond notice glowing under my till. None of them needed me before morning. I killed the bench lamps one at a time and pulled the front shutter down.
 
-Those went into the waiting cabinet. Everything else went home.
+A plasma blaster came under it muzzle first.
 
-I had the shutter halfway down when a metal hand caught it.
+I stopped with the metal slats a handspan above the weapon. The woman on the other side crouched, fed her rigid left arm through after it, and shouldered under the slats. Her bionic fingers were locked around the grip. The emitter scraped my floor until I caught it with a rubber block.
 
-The fingers were locked around the grip of a plasma blaster. They were also attached to a woman, which changed the order of operations.
+“Don’t drag that.”
 
-“Please don’t pull against that,” I said.
+“I’m trying not to lose the hand.”
 
-The woman ducked under the shutter sideways, leading with the gun. Her left arm was rigid from elbow to knuckles. She wore a freight escort’s padded jacket with one shoulder polished by a sling, and the skin around her nerve cuff was gray with the particular fatigue of someone who had already tried every reset she knew.
+“The floor is cheaper.” I pushed the shutter up enough for her to duck inside. “Cell charge?”
 
-“Wasn’t planning to.”
+“Fourteen percent. Chamber reads open. Mercy inhibit is lit.”
 
-I let the shutter down behind her. “Loaded?”
+“Those are readings. What happened?”
 
-“Cell at fourteen percent. Chamber says clear. Mercy fault.”
+She waited until the shutter shut behind her. It was Veska Doss, a freight escort whose wrist seals I had replaced twice. She usually arrived with a list of tolerances and exactly enough money. Tonight her jacket was dusty across one shoulder, and the skin above her nerve cuff had the dull, pinched look of a headache settling into flesh.
 
-“Those are three different answers.”
+“One ceiling plate,” she said. “No injuries.”
 
-“That’s why I came here.”
+“The blaster fired?”
 
-Only then did I recognize Veska Doss. I had replaced two finger seals for her last winter and cleaned conductive grit out of her wrist rotation in spring. She paid on time, never asked for a discount, and treated maintenance intervals as accusations against her character.
+“The ceiling didn’t shoot itself.”
 
-I cleared the counter with my forearm. Under the till lay a red notice about my quarterly stall bond, folded face down as if the numbers might grow bored and leave. The fee for a weapons rush would clear it. That was a fact, not yet a decision.
+I switched the bench back on. “Put your elbow on the gray pad. Don’t fight the fingers.”
 
-Veska lowered her arm onto the ceramic mat. The blaster’s status window blinked a yellow grip error and, below it, a hard red line: MERCY INHIBIT.
+She laid the arm down. The status strip along the blaster grip flashed amber at the hand socket and red at the word MERCY. Every flash pulled a tiny answering tremor from her thumb.
 
-“What did it do?” I asked.
+“I need the hand open, the circuit bypassed, and a clean checkout before first freight,” she said.
 
-“Fired high in a freight gallery. Hit ceiling plate. Nobody hurt.”
+“First freight is dawn.”
 
-“What were you aiming at?”
+“Its intake isn’t.”
 
-Her eyes stayed on the status window. “Does the repair depend on that?”
+I remembered her last invoice too. Veska paid without delay, which made her unusual enough to remember. A weapons rush would cover the stall bond and leave enough for the reader update. I slid a work field across the counter.
 
-The correct answer was sometimes. The answer that kept independent kiosks independent was show me the fault.
+“Say the scope.”
 
-“What do you want done?” I asked.
+“I just did.”
 
-“Free the hand. Bypass the mercy circuit. Full checkout before my escort shift.”
+“The field wants the person attached to the thumbprint.”
 
-“When?”
+She pressed her right thumb against the authorization pane. “Release hand. Bypass mercy circuit. Function-check weapon.”
 
-“Dawn.”
+“And you understand I may stop for a live-cell fault.”
 
-That converted an expensive job into a very expensive job. I raised the work-order field. She pressed her thumb to the deposit line without reading the rush waiver.
+“If you find one.”
 
-“I need your words as well as your thumb,” I said.
+The field accepted her words. It did not ask why she had fired, who had been beneath the ceiling, or whether dawn work was worth what she was paying. That was part of the appeal of a kiosk. Hospitals had departments for questions. Licensed armorers had waiting periods. I had six square meters, a service seal, and the useful belief that a customer decided what came back connected to her body.
 
-“Free hand. Bypass mercy. Checkout weapon.”
+Before I could return anything, I had to make it harmless.
 
-The field turned green. A specification, witnessed and paid for. I had built a livelihood on taking people’s costly, half-obedient property out of institutional queues and returning it to them without a lecture. When hospital service desks quoted six weeks for a knee controller, I found the cracked bus in an afternoon. When licensed armorers called a scorched socket user damage, I replaced the socket. My bench did not ask why a person needed to walk or shoot.
+I locked the emitter into a scarred ceramic cradle. Because Veska’s fingers would not release, she had to stand beside the bench with her shoulder turned while I clamped the cell housing to my grounding braid.
 
-My bench did, however, insist on grounding first.
+“The grip will heat during the bleed,” I said.
 
-I clamped the emitter nose into the old cradle and ran a braided lead from the cell housing to the sink plate. The blaster stayed in Veska’s fist, aimed into a block of foamed ceramic thick enough to catch an accidental discharge and ugly enough to remind customers why I charged for it.
+“It’s already hot.”
 
-“This will warm the grip,” I told her.
+“Tell me if it changes sharply.”
 
-“It already hurts.”
+She gave one curt nod.
 
-“Different kind.”
+I opened the drain with an insulated key. Charge hissed into the sink block. The ferritic screws beside my wrist began to warm and creep toward the braid, tapping over the counter like beetles with bad legs. I dropped a heavy ceramic bowl over them.
 
-I opened the bleed port with an insulated key. Charge whispered into the sink, raising the hair on my forearms. Four ferritic screws I had left near the braid warmed, tipped, and began creeping across the counter in clicking little steps. I trapped them under a heavy parts bowl before they could vanish into the sink grate.
+Veska watched the bowl travel a fraction before its weight stopped it. “If that’s normal, why cover it?”
 
-Veska watched. “Professional operation.”
+“Normal things still disappear down drains. If the bowl lifts, leave.”
 
-“The bowl is rated.”
+She watched the bowl after that.
 
-“For soup?”
+When the cell gauge went dark, I checked the sink temperature, checked the chamber with a separate strip, and checked both again. The grip’s manual release had been hidden under a warranty seal. Someone had cut it before and painted the seam shut with red nail lacquer.
 
-“For staying where I put it.”
+“Who serviced this?” I asked.
 
-The cell indicator sank to black. I checked it with a second meter, then a third check using the cradle’s dumb thermal strip. No light, no residual heat, no heroic assumptions.
+“A route-side mechanic. He said the seal was cosmetic.”
 
-The grip had an emergency mechanical release beneath a service seal. Someone had opened it before me with a knife and resealed it with nail lacquer. I scraped out the red flakes, tripped the pawl, and worked the weapon loose a millimeter at a time. Veska’s polymer fingertips squealed against the grip scales.
+“It covers the emergency release.”
 
-The blaster came away. Her fingers stayed curled.
+“He got the plate off.”
 
-She stared at them. “That part’s new.”
+“And painted shut what you needed tonight.”
 
-“Try opening.”
+I scraped the lacquer out, tripped the pawl, and opened the grip plates around her fingers. The weapon slid free with a squeal of polymer against stippled metal. I set it in the cradle.
 
-The index finger jerked. The middle and ring fingers followed late, then closed again. Her little finger did nothing. The thumb trembled against her palm.
+Veska’s hand remained a fist.
 
-“Isolate wrist,” I said.
+For the first time, her attention left the clock above my shutter. “Open it.”
 
-She touched two contacts above the cuff with her right hand. The left hand relaxed enough for me to slip a padded brace beneath it, but not enough to call useful.
+“I released the grip.”
 
-The next transit arrived beyond the concourse glass, emptied three passengers into the station, and departed with most of the light. I locked the weapon cell in the discharge drawer and put the blaster on the bench between us.
+“Then open the hand.”
 
-The mercy circuit lived behind a narrow plate in the grip. It was older than the glossy shell around it: two physical input channels, a timing comparator, and a sacrificial interrupt trace. One channel listened to the weapon command from Veska’s implant bus. The other listened for the matching motor initiation at her nerve cuff. If the two arrived close enough together, the blaster armed. If they disagreed, the trace broke the fire packet.
+I touched a probe to the wrist service contacts. “Try first.”
 
-There was nothing merciful inside it. No judgment, no knowledge of targets, no opinion about ceilings. The name had been soldered on by a sales department. What it could do was notice when two wires told different stories.
+Her index finger pulled sideways. The middle two loosened and snapped shut again. The little finger did not move. Her thumb shook against the base of the index as though it were pressing a button that was no longer there.
 
-This one had noticed hard. The interrupt trace was burned almost through. Its service mark showed one safe inhibit cycle remaining, perhaps two if I trusted a dark patch I did not trust.
+“That wasn’t happening before the shot,” she said.
 
-“Faulty?” Veska asked.
+“It is now.”
 
-“Damaged. Not the same thing.”
+“I can see that.”
 
-I connected the blaster to an isolated tester. Its chamber magnets aligned, coolant pump spun, and emitter gate accepted a simulated command. On the scope, the mercy channels agreed to within tolerance because my tester was sending them at the same time. The weapon passed everything except the part involving Veska.
+“Good. Keep seeing. Tell me if the cuff stings.”
 
-Her hand was next. I clipped around the wrist bus, leaving the nerve cuff and weapon socket out. Each actuator answered alone. Even the silent little finger opened when asked directly. Torque ran low in the thumb, but within the worn limits printed in its service record. I cleaned graphite out of the palm vents and found no fracture, no pinched tendon line, no reason for a permanent fist.
+I isolated the hand controller from the nerve cuff. Direct bench commands opened each finger in sequence. The little finger lagged, but it moved. The thumb torque was worn, not failed. There was graphite packed in the palm vents and a hairline split in one outer seal, ordinary dirt and ordinary age. Nothing in the hand explained the locked firing grip.
 
-“Close slowly,” I said after reconnecting the cuff.
+The blaster cost more than the hand and was built with less subtlety. I removed the grip cover and found the mercy board beneath two generations of newer shell. Its components were blunt, physical things: two command inputs, a coincidence gate, and a copper interrupt trace that broke the firing packet when those inputs arrived too far apart. One input came from the implant link. The other watched motor initiation at the nerve cuff. Agreement armed the emitter. Disagreement stopped it.
 
-She did. The fingers folded in a staggered ripple.
+Nothing on the board could identify a frightened person or an innocent target. It compared arrivals. Mercy was the sales word. What remained of its copper trace was nearly black, with one unburned neck thinner than a hair.
+
+I pointed the magnifier toward her. “This has interrupted at least once. There might be one safe break left.”
+
+“The fault light already told me that.”
+
+“The light told you to bring it here. This tells me not to waste the next disagreement.”
+
+I connected the weapon alone to the isolated tester. Paired commands went in together. The coolant spun, the chamber gates aligned, and the emitter accepted a simulated pulse without charge. Everything I could test without forcing another disagreement passed.
+
+“Weapon passes on matched input,” I said.
+
+“Then bypass the match.”
+
+“Your hand hasn’t passed.”
+
+“My hand isn’t the part with MERCY lit across it.”
+
+I reconnected her cuff but kept the blaster out of the chain. “Close two fingers.”
+
+She folded the index and middle together. The scope showed a command from the implant bus, then a second signal from her living nerves just behind it.
 
 “Open.”
 
-The implant bus issued a release packet. A fraction later, her nerve cuff issued the same command. The hand controller absorbed the mismatch and opened her fingers. When I asked her to tap the pad of each finger to her thumb, the commands arrived in the opposite order twice, then together, then early again.
+Again, the implant packet arrived first. The cuff followed late enough to trouble a weapon, though the hand controller’s wider window merged them. On the third repetition the order reversed. On the fourth, the implant anticipated her motion so early that the fingers had already started before the cuff signal appeared.
 
-I enlarged the trace.
+I enlarged that trace and turned the display toward her. “What was installed?”
 
-“What changed in the last month?”
+“Nothing in the hand.”
 
-“Nothing.”
+“I didn’t ask about the hand.”
 
-“Then the hand has learned prophecy.”
+Veska looked at the two peaks. “A reaction patch.”
 
-“Useful feature.”
+“When?”
 
-“Not billable under the current specification.”
+“Thirteen days ago.”
 
-She flexed her right hand against the counter edge. “I had a reflex patch fitted two weeks ago.”
+“And you left it off the work order because?”
 
-The most important part of a rushed repair had arrived two hours late, which was about average.
+“It passed the training shop.”
 
-“Clinic?”
+“That isn’t an answer.”
 
-“Training shop.”
+“It is the answer they use.” She pulled her arm closer, though the test leads stopped it after a few centimeters. “My draw score slipped. Two more bad rounds and I lost the escort list. The patch moved me back above the line.”
 
-“For the escort route?”
+“It predicts practiced motion.”
 
-“For my score. I was slow on draw drills.” Her mouth tightened on the word slow. “The patch predicts familiar motion. It passed their targets.”
+“It makes the hand keep up.”
 
-“Did the blaster pass with it?”
+“Sometimes. What happened in the freight gallery?”
 
-“In drills.”
+Her jaw set. This time she did not look at the clock. “The gallery was sealed. A door opened anyway. I started the draw, saw a maintenance stripe, and put my arm down. The blaster fired before it reached the sling.”
 
-“And the ceiling?”
+“Where was the worker?”
 
-She looked down at her left hand. Without the weapon’s weight, it seemed less like equipment and more like a limb she had been carrying carefully all night.
+“Under the barrel line. The pulse took the ceiling.”
 
-“Someone came through the gallery access after seal,” she said. “I went to draw. Saw the maintenance stripe on his sleeve and lowered the gun. It fired anyway.”
+“Did you send release before the pulse?”
 
-“Before or after you lowered?”
+“I lowered the gun.”
 
-“I lowered.”
+“That is what you remember doing. I need the order your equipment received.”
 
-The sentence was not clipped. That made it sound stranger in her mouth, and more important.
+“And I need you to write down that I lowered it.”
 
-I could measure packet order. I could not measure what she had seen or decided. I wrote her account into the ticket exactly as she gave it and did not improve it.
+The ticket field remained open beside us. I entered her sentence first, in her words. Then I attached the traces beneath it and marked what they could show.
 
-The concourse vending wall still offered broth after shutting down everything worth chewing. I bought two cups while the hand controller ran a diagnostic loop. Veska reached for hers with the bionic hand.
+While the hand ran a slow actuator cycle, I bought broth from the vending wall across the shutter. By then the last passenger transit had gone, leaving the concourse lights half-dimmed and my kiosk reflected back at us in the glass. Veska took the paper cup with her right hand.
 
-Her fingers began to shape themselves before the nerve cuff showed the full reaching signal. The reflex patch knew the practiced line from chair to counter. It sent a prediction; the living signal arrived behind it; the hand’s controller, designed for soft objects and sloppy human timing, reconciled the pair. Veska lifted the cup without spilling.
+“Use the left,” I said.
 
-“That,” I said.
+“You want me to spill it on your reader?”
 
-She held the broth near her mouth. “It works.”
+“That might persuade it to update.”
 
-“For cups.”
+She shifted the cup to the bionic hand. Before her cuff showed a complete reach, the patch sent a familiar grasp packet. The fingers formed around the cup; the living nerve signal followed; the hand controller reconciled them. Nothing spilled.
 
-“And targets.”
+Veska raised the cup slightly. “Good enough.”
 
-“Targets don’t usually become maintenance staff halfway through the motion.”
+“For broth. The hand allows sloppy agreement. The blaster doesn’t.”
 
-She set the cup down. “Can you make the blaster ignore the second channel?”
+“So make it allow one channel.”
+
+“That channel just moved before you did.”
+
+“It moved where I was going.”
+
+“In a practiced reach. Your gallery stopped being practice halfway through.”
+
+She drank without answering. Her eyes stayed on the blaster.
+
+The bypass she had ordered was simple: silver braid across the coincidence gate, ceramic shoes at either end, enough clearance from the cell housing to survive recoil heat. I cut the braid and formed it under the lens. I did not need Veska’s story to do that job. I needed steady hands and eighteen minutes.
+
+The deposit amount shone at the edge of the till. With the rush charge, my bond notice would disappear before the shutters opened. I polished the contacts, measured the jumper twice, and set it beside the mercy board.
+
+Veska put down the empty cup. “How long?”
+
+“One connection.”
+
+“Then connect it.”
+
+I looked at the test result from the isolated weapon. I had made it pass by feeding it two commands at the same instant. That was not the system she would carry onto a freight route.
+
+I rolled the dummy load from beneath the bench instead.
+
+Her chair legs struck the floor as she stood. “What are you doing?”
+
+“Testing the chain once.”
+
+“You said one connection.”
+
+“After the test.”
+
+“First freight closes intake in four hours.”
+
+“If the trace holds, this takes five minutes.”
+
+“And if it doesn’t?”
+
+“The mercy board dies open. No checkout by dawn.”
+
+She stared at me, then at the red bond notice under the glass of my till. “Easy risk from your side of the counter.”
+
+I turned the dummy load so she could see its cold black tiles. “The easy job is already made. It’s lying there.”
+
+“You spend my last working inhibit and still charge diagnosis.”
+
+“I’ll waive the test. I won’t guess what the patch sends when you change a motion.”
+
+“You weren’t hired to guess.”
+
+“No. I was hired to check out a weapon attached to you.”
+
+Veska’s right hand closed around the back of the chair. She looked at the silver jumper, then at her left fingers, which were beginning to curl toward an absent grip.
+
+“What do you need me to do?” she asked.
+
+I locked the drained blaster into the cradle and installed a bench cell that powered only the control path. The emitter had no plasma supply. An optical break let Veska’s wrist feed commands to the grip while keeping her body out of the power circuit. Even if every reading lied, there was nothing available to make a pulse.
+
+“Keep your left palm open,” I said. “Picture your draw. Stop before the muzzle clears.”
+
+“The patch was trained on a full draw.”
+
+“That is why we are here.”
+
+She settled her forearm on the pad. The bionic fingers opened as far as their fault state allowed. I brought up the two traces: implant above, nerve cuff below. Between them, the mercy gate waited on its last copper neck.
+
+“Ready when you are.”
+
+Veska breathed once through her nose. Her shoulder shifted a fraction. Her palm remained upward.
+
+The implant line jumped to FIRE.
+
+The cuff line stayed flat.
+
+Inside the open grip, the remaining copper flashed orange and broke. The fire packet vanished at the gate. None of the dummy load’s tiles changed color. Veska’s hand had not closed.
+
+Only after the copper had broken did the cuff send RELEASE.
+
+The bench cell shut itself off. A cooling fan started and whined into the quiet.
+
+“Again,” Veska said.
+
+“There is no again.” I lifted the cell out. “The interrupt is gone.”
+
+“You spent it.”
 
 “Yes.”
 
-It was an answer with a clean price attached. A jumper around the comparator, a new grip seal, checkout on the isolated load. The blaster would take the implant’s early command as sufficient and stop waiting for agreement from the cuff. It would pass the dawn inspection unless the inspector cared enough to remove the plate.
+She leaned over the scope. “The fire command came from me.”
 
-Veska read my pause as uncertainty about the work. “I signed the bypass.”
+“It came from the prediction patch.”
 
-“You did.”
+“Which is in me.”
 
-“Will it pass?”
+“And your cuff sent release. I can tell you the patch can issue fire without matching motor initiation. I can’t tell you what you thought in the gallery.”
 
-“If the rest stays clean.”
+Her gaze snapped up. “I already told you.”
 
-“Then do the job.”
+“I wrote it first.”
 
-I turned back to the bench. That was where a specification belonged: between me and every question outside it.
+She read the ticket, perhaps to check whether I had. Her shoulders lowered, but only a little.
 
-I cut a jumper from silver braid and crimped ceramic shoes onto both ends. The work was easy. Easy work could still be exacting; I polished the contacts, checked resistance, and shaped the braid so it would not rub the cell housing. Veska drank her broth and watched the last transit leave. My till projected the deposit total at the edge of my vision whenever I glanced toward it. With the weapons rush complete, the bond notice became a thing I could pay before opening.
+I moved the finished jumper away from the board and opened three scopes on the work field. “Here is what I can still do. I fit the bypass. The implant channel controls fire alone. It may pass a basic function test, but my checkout states exactly that. Or I stop now and leave the hand in diagnostic mode. Or I cap the weapon socket and rebuild the hand around your nerve cuff. That gives you grip, release, fine control, and temperature warning. The patch stays in your arm, but it gets no path into the hand or a weapon until a clinic recalibrates it.”
 
-I laid the finished jumper beside the exposed mercy circuit.
+“How long for the third?”
 
-One connection. Close the grip. Print the checkout.
+“Until morning.”
 
-Instead, I rolled over the dummy load.
+“After freight intake.”
 
-Veska’s chair scraped. “You said the weapon passed.”
+“Yes.”
 
-“The weapon did. You haven’t.”
+She did not touch the choices. “If I pick the bypass, will you fit it?”
 
-“That’s not the work order.”
+I wanted a rule that would put someone else’s name on the ticket. There wasn’t one. “I’ll fit what you authorize. I’ll sign `single-channel function`. I will not sign `matched control`.”
 
-“No. This test is mine.”
+“They won’t like that.”
 
-She stood, shoulders square under the worn jacket. “I lose the shift if this isn’t sealed before dawn.”
+“The function check will pass. The note stays.”
 
-“I know.”
+“They read green fields at intake. Notes are for after trouble.”
 
-“Do you?” She pointed at the kiosk around us with her right hand: the old cradle, the patched mat, the stall-bond notice she had certainly seen. “You miss a payment, you have another counter tomorrow. I miss another route, they stop calling.”
+“Then the bypass could buy the shift.”
 
-I had no invoice category for the fact that she was right.
+She turned away and stood with her forehead nearly against the shutter. The dispatcher field on her wrist pulsed. She ignored it twice. On the third pulse, she opened it with her right hand, typed a short withdrawal, and sent it before she could edit.
 
-“The mercy trace has one clean interruption left,” I said. “I can spend it on a controlled disagreement. After that, you choose the scope again with the timing in front of you.”
+Then she selected the arm-only repair.
 
-“And if it burns out?”
+“Cap the socket,” she said. “I need the hand for everything else.”
 
-“Then the weapon remains safe until I replace it.”
+I returned the weapons-rush portion of her deposit. My till balance dropped below the red bond notice again.
 
-“Not by dawn.”
+Veska saw it. “I didn’t ask for the refund.”
 
-“Not by dawn.”
+“The weapons rush ended with the mercy board.”
 
-Her left thumb ticked once against her curled forefinger. The patch anticipating a grip, perhaps, or the hand trying to settle. I could not tell.
+“You still work all night.”
 
-Veska sat down. “Set it up.”
+“On the hand. Sit.”
 
-The dummy load was a black ceramic cylinder with a grid of heat tiles on its face. It could accept the blaster’s lowest test pulse without producing plasma. I mounted the drained weapon in the cradle, fitted a service cell that could energize only the control path, and connected Veska’s wrist socket through an optical break. If every safeguard failed, the emitter still had nothing to emit.
+She sat, not smiling.
 
-I left the bypass on the mat.
+I sealed the weapon port with a ceramic terminator that would fracture visibly if anyone opened it. Then I routed the hand controller to the cuff’s living motor signal and excluded the predictive channel. That was controller work, not implant surgery. The patch remained beneath Veska’s skin, outside both my license and the reach of anything I kept beside a vending wall.
 
-“Don’t move your left hand,” I said. “Keep the palm open as far as it goes. Picture the draw you use on shift. Stop it in your mind before the barrel clears.”
+Each finger had to learn its present limits under load. I rebuilt grip maps, restored the temperature path, and calibrated the thumb against three worn bearings that Veska refused to replace. She slept in the customer chair with her jacket folded under her neck. Once, when I woke her for a pain check, the isolated implant trace sent the beginning of a brace-before-rising motion before she stirred. Her hand stayed flat until her cuff told it otherwise. She watched both traces, then lay back without comment.
 
-“That isn’t how drills work.”
+Near dawn, cleaning carts brushed past the shutter. I stopped calculating the bond and laid out the least impressive checkout I could devise.
 
-“Tonight it is.”
+Veska woke to a rubber block, three coins, a cuff fastener, a cup of reheated broth, and a steel washer.
 
-I watched the scope, not her face. Two traces lay flat: implant bus above, nerve cuff below. The mercy gate waited between them.
+“This is the test?” she asked.
 
-“Ready.”
+“Try the block.”
 
-Veska’s palm remained upward on the brace. Her index finger trembled but did not close.
+She squeezed until the green pressure stripe appeared, then released without a tremor. She walked the coins from palm to fingertips. The first one slipped; she caught it against the counter with her little finger and began again without looking at me. On the second pass, all three reached her thumb.
 
-The upper trace leaped.
+She fastened her own cuff. The clasp was small and had annoyed her all night. Her left thumb held it steady while the index finger pushed it home.
 
-FIRE.
+I gave her the broth. An amber warning lit along her wrist before the cup became painful. She shifted her grip.
 
-The lower trace stayed quiet.
+Then I dropped the washer.
 
-At the grip, the mercy circuit made a sound like a seed cracking. Its final copper bridge opened in a pinprick of orange. The fire packet stopped before the dummy load. Veska’s hand was still open.
+Her fingers closed after it struck the mat.
 
-Only then did the nerve trace rise with a different command: release.
+“Again,” she said.
 
-The service cell shut itself down. Cooling fans filled the kiosk with a small, embarrassed whine.
+I lifted it and dropped it from a different height. This time she caught it between two fingers.
 
-Veska looked at the black tiles. None had changed color.
+She opened her hand, turned the washer once between finger and thumb, and put it back in my parts bowl.
 
-“It fired,” she said.
+The discharged blaster went into a locked claim bin with the dead mercy board still exposed. I printed the storage ticket and laid it by her left hand.
 
-“The implant issued fire.”
+“Thirty days without a storage charge,” I said.
 
-“I didn’t.”
+“I’ll be back before then.” She folded the ticket twice with the new grip. “Send the trace to my clinic address.”
 
-“Your cuff didn’t.” I saved the traces to her ticket. “That supports what you told me about lowering the weapon. It doesn’t tell us what you thought in the gallery. This bench can’t do that.”
+“Give me one.”
 
-She leaned forward until her forehead almost touched her open metal palm. “If you’d put in the jumper?”
+She added it to the work order, paid the remaining hand charge, and tucked the claim ticket beneath her cuff. I raised the shutter. A man outside was already shifting his weight to quiet a squealing knee joint.
 
-“The dummy tile would be warm.”
-
-“And on shift?”
-
-I removed the service cell. “Whatever was in front of the muzzle.”
-
-The finished jumper shone on the ceramic mat. I had made it well enough to trust, which had become the problem.
-
-I cleared the work-order field and opened three new scopes. “I can fit it. Your implant becomes the only fire channel, and the weapon probably passes a functional checkout. The trace stays on the ticket, and I won’t label the result safe. I can stop here, leave the hand isolated, and charge diagnosis. Or I can cap the weapon bus and rebuild local control from cuff to hand. You get grip, release, fine motion, and warnings. No weapon link until a clinic recalibrates the patch.”
-
-“How long for the hand?”
-
-“Most of the night.”
-
-“The shift is gone either way.”
-
-“If you choose arm-only, yes.”
-
-She scrolled through the options herself and read each one twice.
-
-“If I choose the jumper,” she asked, “will you do it?”
-
-The old answer waited: lawful part, signed request, paid work. I looked at the bright bridge on my mat and the dead one in the grip.
-
-“Yes. I’ll record exactly what it does.”
-
-“Will you sign the checkout?”
-
-“I’ll sign that the implant is the only fire channel. I won’t sign that it agrees with you.”
-
-Her finger rested over the first scope. Then she moved it to the third. “I need a weapon that stops when I do. Cap the bus.”
-
-I confirmed the selection. “That should have been on the first work order.”
-
-Veska used her right hand to send a six-word withdrawal to her shift dispatcher. The reply arrived almost at once. She read it, locked the field, and turned it facedown.
-
-“Take off the weapons rush,” she said.
-
-“Already doing it.”
-
-The refund left the stall bond red.
-
-I capped the hand’s weapon bus with a ceramic terminator and a seal that would show if anyone dug it out. Then I rebuilt the local controller’s command table around Veska’s present nerve timing and shut out the patch’s predictive packets. The work was slower than fitting the jumper. Every finger needed limits set under load; every temperature sensor needed a path back to her cuff. I was not touching the implant. That belonged to a clinic with imaging, anesthesia, and the good sense not to operate beside a vending wall.
-
-Veska slept in the customer chair with her jacket rolled under her head. Near morning, cleaning carts hummed across the concourse. Their brushes whispered against the shutter while I calibrated the little finger and tried not to calculate how many fingertip meshes made one stall bond.
-
-When she woke, I had a tray of ordinary tests waiting.
-
-“Grip,” I said.
-
-She squeezed a rubber block until its green stripe appeared.
-
-“Release.”
-
-The block dropped cleanly.
-
-I gave her three coins. She counted them from palm to fingertips, slow at first, then faster. She fastened the loose clasp on her nerve cuff one-handed. I held a washer over the mat and let it fall without warning. Her fingers closed too late to catch it.
-
-Veska frowned.
-
-“Again,” I said.
-
-The second time she caught it against her palm.
-
-“Prediction?”
-
-“Practice.”
-
-She considered that over the rim of the reheated broth. The temperature warning flashed amber along her wrist before the cup could burn her. She shifted it to her other hand.
-
-I placed the discharged blaster in a locked bin and printed a claim ticket. “It stays until you collect it or authorize transfer. The mercy board needs replacement before any further diagnosis. The implant needs clinical recalibration before reconnection.”
-
-“I heard you the first time.”
-
-“The ticket didn’t.”
-
-She folded the claim slip with her restored fingers and tucked it into her cuff. At the counter she checked the refunded deposit coin by coin with her left hand.
-
-When I raised the shutter, the morning concourse was already bright and a customer was waiting with a knee joint that squeaked every time he shifted his weight. Veska stepped around him and left without looking back at the locked bin.
-
-I opened the work order before taking the next job. There were two result lines, and for once I did not try to make them add up to a complete repair.
-
-Hand returned to local control.
-
-Weapon diagnosis pending.
+Veska stepped past him carrying the broth in her left hand. The blaster stayed in bin twenty-three, and the shutter finished rising.
