@@ -10,389 +10,428 @@ canon: false
 
 You pick up the slime and examine it.
 
-It settles in the bowl of your palm with the confidence of rainwater. Green, plum-sized, cold from the flagstones. Its feeding seam dimples around a fleck of mortar on your glove and decides the mortar is not worth eating.
+From inside the slime, Feskarn Veylor examines you back.
 
-You try the common assays first. The blue strip turns the weak violet of household acid. The core prism finds no core. Under your burden lens, the needle rises to the mark for three onions, trembles, and sinks to two.
+He has no eyes. Light reaches him as warmth through green gel; motion comes as shivers in the membrane pressed against your glove. Even so, he can tell you are disappointed. The blue assay strip turns the weak violet of household acid. The core prism finds no core. Your burden lens climbs to three onions, reconsiders, and settles at two.
 
-You tilt your hand. The slime attempts the climb toward your thumb, stretches too far, and folds over backward.
+Ordinary membrane. Ordinary appetite. Ordinary speed, if speed is the word for what happens when he leans too far and pours onto his own face.
 
-Ordinary membrane. Ordinary appetite. Ordinary humiliating speed. A glue-boiler might give you half a copper if you supplied the jar.
+*DOWN,* says the new, wet portion of his mind.
 
-You clean the lens and test it again, because what you saw earlier is still standing in the middle of Papermantle Yard.
+The older portion, which remembers thirty-eight years as Papermantle Yard's finest effects rigger and six regrettable minutes as the man beneath a collapsing palace, has more dignified priorities.
 
-Or rather, lying there.
+First: learn why he is alive.
 
-A severed iron gauntlet has punched a three-legged cutting engine through two painted castle walls. The cutter entered a rose tower, departed a blue keep, and came to rest with its shears buried in a papier-mâché moon. The gauntlet had no arm when it rose on four fingers, drew itself back, and delivered the blow. It had no arm when its cuff split either. This slime dropped out, bounced off your boot, and tried to hide beneath your valuation case.
+Second: recover the severed iron gauntlet lying in the wreckage behind you.
 
-The impossible event is eighteen seconds old.
+Third: repeat what he did with it, preferably on purpose.
 
-The slime in your palm remains worth half a copper.
+The gauntlet has punched a three-legged cutting engine through a painted castle, a painted banquet, and most of a papier-mâché moon. Feskarn remembers waking under a costume rack with no body he recognized. He remembers the cutter descending. He remembers a dark opening in the gauntlet's cuff.
 
-“Again,” you tell it.
+Then a backhand large enough to redecorate the yard.
 
-It bunches toward your finger, loses purchase, and makes the smallest wet slap in the yard.
+The gauntlet split at the wrist and spat him onto your boot. Now your lens insists that the miracle weighs less than lunch.
 
-Behind the ruined castles, the cutter pulls its shears free. One leg unfolds, then the other two. A bronze bell on the verifier tower gives a testing knock.
+*DOWN. DARK. AWAY.*
 
-Papermantle used to build hollow deceptions for wars no one will name now: soldiers with canvas ribs, dragons that breathed parade smoke, hills designed to stand up when an enemy marched past. The verifier machinery rejected any decoy that moved before its inspection mark. It has spent decades under bird nests and soot.
+Yes, Feskarn thinks. Your contribution has been recorded.
 
-You have spent twenty-three minutes proving it was not dead. The bronze balance key in your satchel looked like an easy month's rent until its shaft snapped, leaving two teeth inside the gate.
+High above the ruined castle, the bronze bell in Papermantle's verifier tower strikes once.
 
-The tower bell knocks again. Lids lift along a row of tool bins.
+The cutting engine pulls its shears from the moon.
 
-You turn toward the exit. Beyond it, the salvage camp is packing supper, not wagons. If the verifier follows its old proving lane, it will go straight through them.
+Its three legs straighten. A red inspection lamp finds the broken gauntlet, follows a wet mint-colored smear across the flagstones, and settles on Feskarn.
 
-“Half a copper,” you say to the slime, “and somehow still the expensive part of today.”
+The hand around him opens.
 
-A pewter thimble lies on its side beside your wax cake. The slime pours from your hand and vanishes through the thimble's open end.
+For a hopeful instant, Feskarn believes you have understood the tactical situation. Then you drop him onto the assay tray and run.
 
-Metal taps stone. The thimble rises onto its rim.
+The cutter charges.
 
-Your lens needle springs from onions to a sack of flour.
+*RUN.*
 
-The thimble hops to the wax, presses one edge into it, and cuts letters with the slow fury of a blunt chisel.
+Feskarn contracts every part of himself. The result is a determined wobble toward a pewter thimble lying beside the wax cake.
 
-FESKARN VEYLOR.
+*FASTER.*
 
-You recognize Feskarn Veylor's downstroke before the surname is finished. He lettered scenery weights in the same hard capitals so actors could read them while running. He rigged collapsing palaces, thunder stairs, and one ocean that rolled the wrong way for an entire summer. Last autumn, a plaster throne room dropped before his cue. They found him beneath the royal balcony.
+I welcome technical notes from any portion of the body capable of implementing them.
 
-“You're dead.”
+The cutter vaults the bench. Feskarn reaches the thimble, pours through its open end, and presses himself into the deepest dark.
 
-DEAD, the thimble scratches.
+Cold pewter closes around his awareness.
 
-“You remember being Feskarn?”
+The thimble becomes his skin.
 
-STILL AM.
+He tries to crawl. The cup rocks onto its rim and takes one stiff little step.
 
-“What did you wake in?”
+Oh, Feskarn thinks.
 
-THIS.
+*BODY.*
 
-The thimble rocks toward the slime-sized wet ring on the wax.
+The cutter's shears close on the assay tray.
 
-“Was anything here before you?”
+Wood, wax, bottles, and one newly ambulatory thimble cartwheel across the lane. Feskarn bounces twice, rolls through a white registration cross painted on the floor, and shoots cuff-first into an intact iron gauntlet beneath the costume rack.
 
-FIRST THOUGHT MINE.
+The thimble strikes the hollow palm. His awareness expands again—across rivets, finger joints, flaking gold paint. He feels the entire hand around the cup around the slime, each layer touching the next without crushing it.
 
-“Anything between?”
+*MORE BODY.*
 
-WAITING. NO BODY.
+The cutter lunges beneath the rack.
 
-You have questions about what lay between the palace and that first thought. The bins answer first. Six hand-cutters spring to the ground, each all shears, wheels, and fixed instruction.
+Feskarn rises on five iron fingertips.
 
-You slide your solid assay knife across the thimble's path. “Move that.”
+The movement begins at the thimble, reaches the gauntlet a blink later, and nearly flips him onto his back. He catches himself on the thumb. The shears snap where the cup had been.
 
-The thimble rams the handle. The knife does not so much as twitch. Feskarn backs up to try harder.
+He scuttles into the assembly lane.
 
-“No time.” You pluck a snail from beside your wax cake and set it in front of him. Its shell would fit the thimble neatly.
+At its far end, beyond storage sheds and scenery frames, daylight shows beneath a stone drainage arch. Between Feskarn and freedom runs a chain of white crosses, each painted where one piece of stage machinery once received another.
 
-Feskarn circles it once. The snail extends an eye stalk. He writes OCCUPIED.
+He knows marks. He does not yet know why this yard has placed them in a line.
 
-Empty, then. Hollow, nonliving, and entered through an opening. You look from the ordinary slime inside the thimble to a yard whose chief product was emptiness given a silhouette.
+The cutter clips his smallest finger away.
 
-The cutters click closer.
+The severed iron goes dead before it lands. Sensation vanishes with it, clean and immediate.
 
-A second gauntlet hangs from a costume rack, intact except for flaking gold paint. You lower it cuff-first. “Can you take this with the thimble still around you?”
+*BAD. RUN.*
 
-Feskarn does not waste wax on an answer. The thimble rolls through the cuff.
+Feskarn runs on four fingers. His old crew would have called it undignified. His old crew had also worked under the belief that scenery should not pursue them with shears, so their standards can wait.
 
-The iron hand closes.
+The next cross lies beneath a suit of decoy armor kneeling on a wheeled fitting stand. Red muscles have been painted over its iron belly. Its left knee hinge points backward. A breast grille is secured by a latch the size of Feskarn's remaining thumb.
 
-It lands on two knuckles just as the first cutter leaps. The motion that follows is not strong at the thimble and stronger at the gauntlet. It is one backhand receiving more force from the shell around it. Three cutters leave the lane together. One lodges in a false drawbridge. Two continue through a painted banquet where every guest has the same face.
+The lane narrows between the armor stand and a stone trough. No room to pass. The cutter closes behind him.
 
-Your lens reads two loaded carts.
+*HOLE,* says the slime portion, feeling darkness beyond the grille.
 
-The surviving cutters turn their shears toward the wrist opening.
+Locked hole.
 
-“Next housing,” you say.
+*OPEN.*
 
-The gauntlet points past you at the lane, where a sprung storage frame displays twelve empty suits of decoy armor. Then it points at itself.
+At last, a constructive suggestion.
 
-“Wholly inside,” you understand. “No separate pieces.”
+Feskarn leaps for the latch. The gauntlet catches it with two fingers. He pulls. Rust holds. The cutter drives one blade through his palm and pins him to the stand.
 
-Feskarn runs on his fingertips. The cutters pursue. You shoulder your kit and sprint beside him, kicking a fallen spear out of his path. The nearest armor has an open breast grille, a backward-hinged left knee, and red muscles painted over an iron belly.
+Pain arrives strangely: not from damaged iron, but from the sudden loss of a place his mind had occupied. The slime clenches inside the thimble. The thimble twists inside the hand. The hand tears sideways, leaving another finger on the blade.
 
-“Bad leg,” you warn.
+The latch breaks.
 
-The gauntlet dives through the grille. Its thumb catches. You strike the cuff with your mallet, driving thimble, slime, and hand completely into the chest.
+The grille falls open. Feskarn climbs the armor's painted stomach with thumb, forefinger, and spite. The cutter frees its blade as he rolls through the opening. One shear strikes his cuff and drives the whole gauntlet deep into the hollow chest.
 
-Mint spreads through the red paint around every armor seam.
+The armor arrives around him.
 
-The suit inhales through a horn it does not possess. A voice comes out of the grille, deepened and flattened by old speaking plates.
+Feskarn stands.
 
-“House to dark,” Feskarn says. “Stand clear.”
+The thimble moves first. The damaged gauntlet follows. Then the armor receives the command, too late and much too enthusiastically. Its good leg straightens; its backward knee folds forward. A seven-foot iron soldier drops into a kneel and crushes the cutter under its shin.
 
-“Your left knee is reversed.”
+Silence holds for half a breath.
 
-“I heard you.”
+*SAFE.*
 
-He rises. The reversed knee folds forward. The armor drops into a kneel and crushes a cutter beneath its shin.
+The verifier bell strikes twice.
 
-“Did you hear the knee?”
+Kennel doors open along both sides of the lane.
 
-Feskarn plants both palms, shoves upright, and adjusts his stance as if a rehearsal floor has merely surprised him. Your burden lens settles at twelve cartloads.
+Four scissor-hounds unfold onto the flagstones, each built to bite the joints from an unauthorized soldier.
 
-The remaining cutters rush. He does not swing until you slap the safe side of his breastplate. Then one iron fist drives through a harvest mural and takes two machines with it. His other palm pins the last shears against a stone trough.
+Not safe.
 
-The verifier tower rings its first full bell.
+*RUN.*
 
-Kennel doors open ahead.
+Feskarn runs.
 
-Four scissor-hounds unfold into the lane, each the size of the armor and built to bite joints apart. The system has no temper to provoke and no pride to trick. It has simply measured an unauthorized soldier and selected the tool marked soldier.
+His right stride is a stride. His left is a disagreement between anatomy and carpentry. Every second step pitches him forward, and every recovery reaches the armor after the ground has moved elsewhere. He learns by falling, rising, and revising his opinion of the knee's designer.
 
-You grab the ladder bolted to Feskarn's back. “Exit is east. Do not make it measure anything larger.”
+The hounds learn faster.
 
-“East puts those shears between us and the camp.”
+One snaps at his ankle. He kicks too early and misses; the delayed iron foot catches it on the return and sends it through a tool shed. A second leaps for his chest. Feskarn backhands it with the same motion that wrecked the painted castle, but the armor magnifies the strike beyond his new balance. He spins completely around.
 
-“Us?”
+For three strides he is running toward the hounds.
 
-“You removed the key.”
+*WRONG.*
 
-The first hound springs before you can object to his accounting. Feskarn catches its upper jaw, but the reversed knee gives under him. A second hound bites through his left elbow. The severed forearm hits the ground and becomes ordinary scrap before it stops sliding.
+I am correcting.
 
-Feskarn stares at it for half a beat too long.
+*MORE WRONG.*
 
-“Move,” you say.
+He turns with the good leg and regains the white-marked lane. Ahead, a crimson parade dragon rests low on a timber cradle. Its round chest hatch hangs open on a chain, dark enough to satisfy the most demanding slime. Beyond it, the drainage arch remains a bright thumbprint under the far gate.
 
-His remaining fist dents the first hound. The others fan out, one toward his bad knee, one toward the ladder beneath your boots. Twenty paces down the lane, a parade dragon crouches in a shipping shed. Its chest hatch hangs open on a chain.
+A hound bites through Feskarn's left elbow. The forearm drops inert. Another locks its shears around the backward knee.
 
-Feskarn sees it. “Call the entrance.”
+The armor cannot reach the gate. It may not reach the dragon.
 
-“Round hatch, near side. Twenty paces. Mind the horn.”
+*HOLE.*
 
-He runs.
+I see it.
 
-The backward knee makes every second stride a collapse he has learned to interrupt. You climb over his shoulder as a hound shears the bottom rungs from the ladder. At the shed you jump to a roof brace, catch it one-handed, and swing above snapping blades.
+*HOLE NOW.*
 
-Armor and gauntlet jam across the dragon's hatch.
+Feskarn lowers his remaining shoulder and runs badly with great commitment.
 
-“Quarter turn!” you shout.
+The hound at his knee pulls. The faulty joint separates. Feskarn falls, slides along the registration stripe, and collides with the dragon's cradle. His remaining hand catches the hatch chain. Armor, gauntlet, thimble, and slime swing beneath it while the hounds close.
 
-“Which quarter?”
+He pulls the chain with all four bodies.
 
-“Your live shoulder toward the painted crown. Now.”
+The hatch drops. Its weight flings him through the round opening. A hound strikes his backplate as he enters and drives the last of the armor inside.
 
-Feskarn rotates. The crown flakes beneath his pauldron. A hound clamps both armor ankles and pulls, widening the torn elbow into the hollow chest. You kick the hatch chain loose. The iron door drops against his back and drives the whole nested body inward.
+The door slams.
 
-For an instant the dragon contains him without moving.
+Wooden ribs surround iron ribs. The dragon floods into Feskarn's senses: four braced legs, a hinged jaw, canvas wings, a tail packed with parade banners. The white cross on its hatch aligns with the cross on the armor grille.
 
-Then its wooden feet punch through their chocks.
+Outside, shears probe the seam.
 
-Mint washes along the seams of its crimson jaw. The burden needle races past four hundred cartloads. The hounds release the empty space where the armor's feet had been and leap for the dragon's belly.
+*BIG BODY. RUN.*
 
-Feskarn snaps open the great mouth. What comes out is not fire. It is three centuries of compressed parade confetti, damp at the center and violent from confinement.
+Feskarn commands one foreleg forward.
 
-Paper crowns pack the hounds' joints. Feskarn lowers one horn and plows them through the opposite wall.
+The slime tightens. The thimble rocks. The gauntlet turns inside the armor; the armor lurches inside the dragon. By the time the dragon's foot obeys, Feskarn has already asked for the next three steps.
 
-You land on the dragon's inspection saddle as he crosses the next lane. “You've passed the gate.”
+It attempts all four together.
 
-“I cannot turn in this body. Call the next opening.”
+The parade dragon launches itself off the cradle and lands chin-first in the lane.
 
-The wall ahead carries a faded passage mark. “Straight through. Something hollow is behind it.”
+The hounds swarm its hatch.
 
-The dragon strikes it nose-first. Plaster scenery becomes weather. Beyond it, two ram cranes roll awake on parallel rails. The verifier has measured beast.
+Feskarn opens the great jaw. A bellows sits behind it, connected to a pressure bladder in the chest. Parade dragon. Fire, perhaps. Smoke at minimum.
 
-One ram caves in the dragon's left flank. Another clips away a painted wing. The loose wing goes dead in the air and lands across the shed you just left.
+He squeezes.
 
-Feskarn backs into the lane. The delayed dragon voice reaches you after its jaw has opened.
+Three centuries of damp confetti explode from the mouth.
 
-“I need the next costume.”
+Paper crowns, silver suns, and the portraits of forgotten generals pack the hounds' joints. One machine freezes wearing six kings across its face. Another disappears beneath a festive avalanche.
 
-“A shell, not a costume. End of lane: giant's belly. The doorway is under the blue sash.”
+*GOOD BITE.*
 
-A hundred-foot battlefield giant sits against the western ridge, smiling over the yard with wooden teeth. What seemed to be a rehearsal hall is the open space between its ribs. The blue sash crosses an access passage wide enough for the parade dragon—if the dragon reaches it before the cranes complete another stroke.
+That was not a bite.
 
-You pull the inspection mirror from your case and flash the nearer crane's manual sight plate. The old inspection signal turns it toward your light. Its ram fires across the other track and knocks its twin off alignment.
+*DO AGAIN.*
 
-“Go on the rebound,” you say.
+The dragon finds its feet. Feskarn gives each stride time to arrive and charges down the marked lane, shedding banners. Red paint fades to mint wherever slime acid travels through the nested seams.
 
-Feskarn waits. This time he waits.
+The bell strikes three times.
 
-The ram retracts. The dragon charges beneath it, tail shedding banners, torn wing scraping sparks from the rail. You cling to the saddle until the giant fills your sight. At the last brace, you jump for a hanging inspection rope.
+Rails unfold from the storage walls ahead. Two ram cranes roll onto them, framing the only route to the drainage arch. Their bronze sight plates turn toward the dragon.
 
-The dragon drives through the access passage. Its tail clears the blue sash by a handspan.
+The first ram fires.
 
-The giant's eyes open.
+Feskarn orders left. The message is still passing through the armor when the steel head caves in the dragon's right flank. The impact supplies the turn he requested and several he did not. He crashes through a painted barracks wall.
 
-The rehearsal hall tears loose around its waist as it stands. One wooden foot crushes the derailed crane. The other lands in a decorative pond and launches six stone ducks over the verifier tower. Your lens clicks past ten thousand cartloads and begins making a noise lenses should not make.
+There is no building behind it.
 
-Feskarn's voice descends from the giant's chest in stages, armor horn under dragon grille under a mouth wide as a cottage.
+There is a room between wooden ribs, a rehearsal bay inside a seated battlefield giant. A white cross the size of the dragon's hatch covers the far wall.
 
-“Now this,” he says, “has sightlines.”
+The dragon skids halfway into the giant and stops with its tail across the broken barracks.
 
-“You have a forge entering from the east.”
+The second crane fires.
 
-The yard's foundry walks out on six furnace wheels. Its chimney lowers. White flame lances across the giant's shins and ignites the peeling paint.
+*HIT.*
 
-Feskarn reaches for the giant's sword. It is a silver-painted plank.
+Yes.
 
-“Prop blade,” you say. “Softwood spine. It will not cut.”
+*BAD.*
 
-“It can take a load.”
+Not this time.
 
-He does not swing it. He sets the point beneath the mobile forge's front axle and leans. The sword bows. Deep within the stack, the reversed armor knee answers late; the dragon hips answer later. For a sick moment the giant tips toward the occupied camp.
+Feskarn braces the dragon's broken flank and lets the ram strike its tail. The blow drives the complete body across the giant's threshold. A safety shutter falls behind it, severing the last parade banner but clearing the tail by a handspan.
 
-“Hold the line painted under your right heel,” you call. “Let the bend throw, not your shoulder.”
+The battlefield giant opens its eyes.
 
-Feskarn shifts one foot the width of the mark. The plank straightens.
+Feskarn rises through a hundred feet of hollow scenery. Dragon ribs hang inside iron ribs; iron surrounds gauntlet, thimble, slime. Each layer enlarges his intention and delays it. He thinks about standing. The giant remains seated long enough for doubt to arrive, then unfolds beneath him.
 
-The forge rises off its wheels, arcs over the giant, and lands in the quarry beyond the western ridge. Feskarn comes down on both feet. The yard floor splits from the impact. Turf slides from the ridge in a single painted sheet.
+Its head tears through the storage roof.
 
-Rivets show beneath it.
+The drainage arch is close now, set into the false hillside beyond the far gate. A white assembly line runs directly toward it.
 
-A service gate stands in the hillside, fortress-wide and unmistakably hollow behind the seams.
+Between Feskarn and the arch, foundry doors open.
 
-The forge rights itself in the quarry. Its flame begins carving through the giant's heel.
+A mobile forge rolls out on six furnace wheels. Its chimney lowers until the mouth points at his chest.
 
-Feskarn reaches for the gate's red wheel.
+*HOT. AWAY.*
 
-“Stop. That locks from this side.” You slide down the inspection rope, run to the ridge, and wrench open the person-door beside the main gate. It leads into a stairwell inside the false mountain. A white registration cross has been painted above both doors. “Large opening. Bring every layer through.”
+Agreed.
 
-“I know a release wheel.”
+Feskarn reaches for the giant's silver sword. His enormous hand closes around painted softwood.
 
-“Then read the red lock stripe.”
+Of course it is a prop.
 
-The giant's fingers hover, withdraw, and use the unpainted lever beside it. The gate opens. Feskarn stoops through, passes his head and shoulders inside, then drags the parade dragon's tail clear of the threshold deep within his belly. You watch through a slit until the final inch crosses, then run up the enclosed stair toward the mountain's brow.
+The forge breathes white flame. Feskarn tries to step aside. Slime, thimble, hand, armor, dragon, giant: the command climbs the stack while the fire crosses the lane. It scorches one trouser leg black and ignites the dragon's remaining banners deep inside him.
 
-Feskarn occupies the mountain.
+*HOTTER.*
 
-The western ridge rises.
+Feskarn jams the wooden sword beneath the forge's front axle. It cannot cut. It can still carry a load.
 
-Canvas snowcaps spill their stored water. Painted cliffs unfold over fortress legs. Hundreds of false pines tumble into the yard; red camouflage bleaches mint wherever ordinary slime acid follows the nested seams. Your lens reaches a million cartloads, bends its needle around the stop, and continues to hum.
+The forge advances over the blade. The softwood bends nearly double. Feskarn waits for his mountain-slow hands—no, giant-slow, he has not become ridiculous enough to be a mountain—and leans on the hilt.
 
-The moving mountain steps on the quarry. The forge disappears beneath a heel with one brief chimney whistle.
+The sword springs straight.
 
-From the brow gallery, you look across Papermantle and see the final verifier assemble beyond the opposite slope. Terraced rails flatten fields as they extend. Compaction plates lift like iron jaws around a furnace mouth. A stamping ram draws back between them. The authenticity press is wider than the yard, and the fixed proving lane points through the main gate to the salvage camp.
+The forge leaves its wheels. It arcs over Feskarn's shoulder and strikes the hillside beside the drainage arch.
 
-People are running now. Wagons are not.
+Painted turf peels away in one sheet. Canvas trees snap their strings. Beneath the scenery stands a fortress-wide service gate with a white registration cross above it.
 
-Feskarn speaks through a cave below the gallery. Each word arrives with the slowness of falling masonry.
+The hill is hollow.
 
-“Clear the lane.”
+The forge rights itself in the wreckage. Its chimney turns toward Feskarn. Flame has already eaten through the giant's painted calf, and the fire inside the dragon is climbing toward the armor.
 
-“You cannot aim this body yet.”
+*HOLE.*
 
-“I can reach the press.”
+That is not a hole. That is terrain.
 
-“Those are different measurements.”
+*DARK TERRAIN.*
 
-The press advances. Feskarn's mountain fist pulls back.
+The forge fires.
 
-You find the speaking pipe that descends through the nested inspection shafts. “Take my mark.”
+Feskarn seizes the gate lever.
 
-“I died waiting for somebody else's mark.”
+The doors part into the hillside. Beyond them waits an empty chamber shaped around the giant, its floor marked heel, knee, shoulder, crown. Feskarn ducks through while fire washes across his back. The backward armor knee catches inside the dragon; the dragon's broken flank catches inside the giant. The delays turn one step into six impacts, each threatening to stop the next.
 
-The press's furnace glows brighter. You look once toward the camp.
+He drags every layer across the threshold.
 
-“Then miss on your own time,” you say. “Not over their tents.”
+The doors fall shut behind his heels.
 
-Feskarn throws the punch.
+The mountain takes a breath without lungs.
 
-The thimble begins it. The gauntlet turns a fraction later, then the armor, dragon, giant, and mountain, each layer adding force to a direction already spoiled by delay. The fist passes above the press. Its back edge strips a forest of false pines from Feskarn's shoulder and sends them cartwheeling toward the camp.
+Canvas snowcaps spill water. Painted cliffs unfold over fortress legs. Thousands of false pines shake themselves awake. The service chamber, the giant, the dragon, the armor, the gauntlet, and the thimble become small nested pressures somewhere deep within a body that weighs more than Feskarn's old theater district.
 
-Your mirror is already in your hand. Three hard flashes strike the camp lookout's plate. People scatter between the wagons. The pines crush canvas and axles, not bodies.
+The verifier bell does not strike again.
 
-The press closes one compaction jaw over Feskarn's shoulder. Furnace flame enters the mint-streaked seam. Painted grass catches. Heat rolls through the brow gallery.
+The tower splits down the middle.
 
-“Again,” Feskarn says.
+Terraced rails spread across the yard. Compaction jaws rise around a furnace mouth. Between them, a stamping ram draws back. The final machine is wider than the route to the drainage arch, and it is already closing the distance.
 
-“No.”
+*RUN.*
 
-“The range is corrected.”
+Feskarn tries.
 
-“You corrected nothing. Hold the jaw.”
+His slime body moves at once. The thimble follows. The gauntlet, armor, dragon, and giant each receive a slightly older version of the command. By the time the mountain lifts one foot, its inner giant has begun putting that foot down. The whole slope twists. Stone ducks, false pines, and one decorative waterfall fall from his knee.
 
-The mountain arm shakes. For once, Feskarn spends his strength without moving the target.
+The authenticity press advances faster.
 
-Inside the gallery, old load charts slap against their pins. One diagram shows the mountain during rehearsal: smaller decoys nested in its inspection chamber, every opening marked by a white cross. Through a row of sight tubes you can see them now—giant belly, dragon hatch, armor grille, gauntlet cuff, thimble rim—each swimming in heat and delay.
+*LEAVE BODIES.*
 
-Registration marks are not decoration. They tell a rigger when one piece of scenery has received another piece's motion.
+For one clean instant, Feskarn feels the route backward: out of mountain, giant, dragon, armor, gauntlet, thimble. Naked slime. Two onions of burden. The drainage arch forty yards away across the press's proving lane.
 
-The stamping ram locks forward. Its next stroke will pass through Feskarn and continue down the proving lane.
+The first compaction jaw closes where the naked slime would have been.
 
-You set the mirror against the first sight tube. “Can you feel the thimble?”
+No.
 
-A pause. “Yes.”
+Feskarn draws back the mountain's fist.
 
-“Move only there when the light hits. Let every outer shell receive the turn. No one takes the cue early.”
+He has thrown this backhand twice. Once by accident, once in armor. He knows the motion.
 
-“I am the whole cast.”
+He throws.
 
-“You are six bad understudies around one good hand. Give me the hand.”
+The thimble turns. The gauntlet turns later. The armor, missing an arm and a knee, yanks the dragon off line. The dragon rolls inside the giant. The giant's shoulder arrives before its hips. The mountain fist passes over the press and folds backward across its own chest.
 
-The furnace roars. Feskarn's answer comes quieter through the pipe.
+The press catches his elbow between its jaws.
 
-“Call it.”
+Furnace light enters the seam.
 
-You catch the firelight in your mirror and send a white flash to the thimble's rim.
+Heat takes the painted trees first, then the giant's softwood sword, then the old banners inside the dragon. Feskarn commands the arm to pull free. Every layer pulls at a different moment. The jaws tighten.
 
-“Thimble.”
+*NOW,* says the slime part.
 
-At the bottom of the nested dark, the pewter cup snaps sideways. Its edge reaches the gauntlet's cuff mark.
+Feskarn strains harder.
 
-“Hand.”
+*NOW. NOW. NOW.*
 
-The iron wrist receives the turn. It carries the thimble without outrunning it. The cross on its cuff travels to the armor grille.
+I am trying now.
 
-“Suit.”
+The answer comes not in words but in six distinct shudders. The slime feels the stamping ram through the ground before the mountain sees it move. Its body has been warning him at the first vibration. Feskarn has been answering at the last visible instant, then demanding that every shell pretend distance does not exist.
 
-The one-armed knight rotates inside the dragon. Its backward knee cannot spoil a movement that asks nothing of its feet.
+Across his nested dark, white crosses drift out of alignment: thimble rim, gauntlet cuff, armor grille, dragon hatch, giant bay, mountain gate.
 
-“Dragon.”
+Registration marks.
 
-Wooden ribs roll. Confetti coughs from split vents and lifts through the giant's chest like colored smoke. The dragon's hatch cross reaches the blue sash.
+Not instructions to move together. Marks showing when one piece has received another piece's motion.
 
-“Giant.”
+The stamping ram locks forward. The next stroke will pass through the mountain and close over the smallest thing inside it.
 
-The hundred-foot body turns from its load mark. The last of the painted sword draws a burning line through the mountain's inner chamber. You wait while that turn travels outward, slow enough for the press to fire.
+Feskarn stops pulling.
 
-The stamping ram drives toward the yard.
+He lets the slime feel.
 
-The giant's mark meets the mountain gate.
+*WAIT,* he thinks with the older voice.
 
-“House,” you say. “Now.”
+The body trembles against heat and pressure.
 
-Feskarn backhands the valley.
+*WAIT.*
 
-The mountain palm arrives square to the stamping ram. Stone fingers close. All the widening force of thimble, gauntlet, armor, dragon, giant, and terrain reverses the steel shaft into the press's open furnace.
+The ram fires.
 
-The verifier reads its own ram entering the hopper as rejected material.
+Vibration reaches the slime through the flagstones.
 
-Its fixed routine accepts the error without surprise. Compaction jaws fold inward. Rails buckle. Furnace wheels climb over one another. The press stamps itself once, twice, and a third time, each blow shortening the machine until the valley holds a smoking iron cube no larger than the painted rose castle.
+*NOW.*
 
-The recoil collapses Feskarn's false summit. His mountain arm folds across his chest; inside it, the giant loses two fingers and the dragon's torn flank caves farther. The brow gallery tips. You fall through a cupboard door into ten thousand brass clappers labeled EMERGENCY APPLAUSE.
+Feskarn turns the thimble.
 
-They make the victory sound much more organized than it was.
+He waits until pewter meets the mark inside the damaged gauntlet, then turns the hand. Iron receives the motion and carries it to the armor grille. The armor rotates without asking its ruined knee to stand. Its shoulder brings the dragon hatch across the next white cross.
 
-Water from the canvas snowcaps pours along the mint seams and drowns the shoulder fire. Below, camp workers emerge between two crushed wagons and a great many ruined tents. No one approaches the walking mountain.
+Dragon.
 
-Feskarn lowers one palm beside the main gate. By the time you descend the stairwell and climb onto it, the burden lens has stopped humming.
+Giant.
 
-You set the bronze balance key on the painted stone between you. “That was what I came for.”
+At every layer the strike grows, and at every layer Feskarn refuses to hurry it. The press's ram crosses the yard. Furnace light fills the mountain seam.
 
-“Poor salvage,” the cave voice says.
+The giant's mark reaches the service gate.
 
-“It bought us the verifier.”
+Feskarn releases the mountain.
 
-“That belongs to us?”
+The valley backhands the press.
 
-“It belongs to whoever can move it. So does the mountain, if we can find an owner foolish enough to argue.”
+His palm meets the stamping ram square. Stone fingers close around its head. The whole widening force of slime, thimble, gauntlet, armor, dragon, giant, and false terrain reverses the steel shaft into the open furnace.
 
-The outer fingers begin to curl.
+The verifier identifies its own ram as rejected material.
 
-You rap one knuckle with your mallet. “After I mark the safe direction.”
+Its routine accepts the mistake without embarrassment. Compaction jaws fold inward. Rails buckle. Furnace wheels climb over one another. The press stamps itself once, twice, and a third time, shortening with every blow until a smoking iron cube sits in the lane.
 
-They stop.
+The recoil drops Feskarn onto both mountain knees.
 
-You raise the damaged burden lens. The needle jerks beyond one million cartloads and breaks loose from its pin.
+Somewhere inside him, ten thousand brass clappers marked EMERGENCY APPLAUSE fall from their hooks.
 
-A brass plate above the palm has shaken open. Letters the size of doors appear beneath decades of dust.
+They make survival sound rehearsed.
+
+For a while, Feskarn does not move. Water from his false snowcaps runs through the seams and reaches the slime as cool mineral traces.
+
+*SAFE?*
+
+He waits for the outer echoes to settle.
+
+Safe.
+
+*DARK?*
+
+Very.
+
+*GOOD BODY.*
+
+Feskarn looks across the wrecked yard through sight tubes in the mountain's brow. The drainage arch remains beyond the iron cube. Reaching it will require perhaps nine steps and most of the afternoon.
+
+He begins with one.
+
+The foot comes down exactly where intended.
+
+On the third step, his heel cracks a brass plate hidden beneath the assembly lane. The plate flips upright against his shin. Its letters are large enough to read through the lowest sight tube.
 
 FALSE TERRAIN REHEARSAL BODY
 
 SCALE: ONE TO ONE HUNDRED
+
 FULL-SIZE STORAGE SITES: SIX
 
-The mountain remains still until the last inner layer has caught up with the reading.
+Six arrows point beyond the drainage arch.
 
-“Six,” Feskarn says at last. “Find the first door.”
+Feskarn feels the old rigger's delight rise before he can stop it. A full-size shell would have weather systems. Continental sightlines. Entrances requiring maps.
+
+It would need someone who understood marks.
+
+*NO,* says the slime part.
+
+Feskarn takes another careful step toward the arch.
+
+*NO BIGGER BODY.*
+
+Certainly not, he agrees.
+
+The first arrow points into a tunnel wider than his mountain foot and perfectly dark.
+
+The slime considers this.
+
+*Maybe one.*
