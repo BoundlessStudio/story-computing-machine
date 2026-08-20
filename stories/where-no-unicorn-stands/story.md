@@ -8,256 +8,322 @@ canon: false
 
 # Where No Unicorn Stands
 
-On the third morning of his mother's reign, Prince Cadris stood beside her throne and tried not to move.
+Three mornings after the coronation, the terrace banners still smelled of dye and wet starch. Prince Cadris stood beneath them at his mother's left shoulder while a court speaker praised the new reign for bringing the realm safely through its change of crown.
 
-Stillness was the first courtesy taught to royal unicorns. It showed that no petition could startle them, no insult hurry them, no fear take command of their hooves. On the palace terrace, beneath seven white banners that snapped in the mountain wind, Cadris offered the assembled courtiers a body as composed as carved stone.
+Cadris had heard that praise in five forms since breakfast. Each was addressed to Queen Adessra; each gaze crossed to her only son at the word *safely*. He was a full-grown unicorn, taller than his mother and old enough to have stood through years of audiences without shifting a hoof. That morning his body was being exhibited as one more reason no one need fear what came next.
 
-He had been offering it for three days.
+Adessra's crown sat slightly behind the white whorl at the base of her horn. Cadris could tell she wanted to shake it forward. She kept still instead. He copied her, though a loose thread from the nearest banner was brushing his ear.
 
-Queen Adessra listened while a grain minister praised the steadiness of the new reign. The small gold crown between her ears caught the morning light. Only Cadris, standing near enough to see the pulse beneath her jaw, knew how little she had slept since the coronation.
+The thread snapped upward.
 
-The minister turned his praise toward the succession. Every eye followed it to Cadris: the queen's adult son, her only son, visible proof that the future had already been provided for.
+So did the banner.
 
-Something struck the banners from above.
+Weighted cords tore through the cloth from the sky side, ripping seven long windows in the royal white. Pegasi came through them with their wings folded tight. One struck Cadris across the shoulder before he could lower his horn; another flung a loop over his forelegs. He kicked free of the first sling, caught a flight strap with his teeth, and dragged its wearer hard enough to skid both of them against the parapet.
 
-White cloth collapsed across the terrace. Courtiers cried out. Cadris heard the hard clap of wings and saw a slit of blue open in the fabric before a rope loop swept his forelegs together. A padded sling hit his belly. He lurched sideways, horn tearing a bright seam through the fallen banner, and then the stone vanished beneath him.
+Then the cloth dropped over his face. A padded bar rammed under his belly. Lines closed around all four legs, and the terrace fell away.
 
-His mother's voice cut through the uproar. "Cadris!"
+Adessra shouted his name from below. Cadris twisted until the banner tore from his horn. He saw her rear against a blast of wing-driven air, crown gone, forehooves striking at nothing while guards crowded behind her. Four Pegasi had the corners of his cargo sling. Two more climbed above them. By the time the guards found room to throw a spear, the palace roof was below Cadris's hooves.
 
-He saw her once between the folds, crown gone, charging toward the parapet. A broad-winged Pegasus drove her back with a blast of air. The sling tightened. Four Pegasi hauled Cadris above the palace roof while guards crowded the terrace below, their spears diminishing to pins.
+He had no wings. The fact had never before seemed like an injury.
 
-He did not call out. Air tore the sound from every mouth around him, and he would not give the court his terror to remember.
+The sling swung clear of the city. Wind flattened his mane along his neck and drove water from his eyes. He tried to bite through one of the load lines, but a gray Pegasus shortened it beyond his teeth without losing a beat. She wore three brass bars against a flight harness polished by use rather than ceremony.
 
-The city spread beneath his hanging body. Streets became pale threads. The coronation tents in the lower square were scraps of colored paper; the river was a blade. Cadris clenched the sling with all four legs, which was neither regal nor useful. When the Pegasi banked toward the mountains, his stomach seemed to continue east without him.
+"Prince Cadris," she called. "Look at me."
 
-One of his captors flew close enough that her shadow covered his face. She was iron-gray, with a cropped black mane and flight straps scarred by long use. A captain's three brass bars lay flat against her breast.
+He looked at the mountains instead. They were already tilting as the flight banked north.
 
-"Prince Cadris," she called. Her voice carried cleanly despite the wind. "I am Flight-Captain Vorune. Nine months ago your crown took my daughter Iltan at the southern pass. She has been held since then without charge or hearing. Your queen will return her before moonrise tomorrow. When I have my daughter, she will have her son."
+"I am Flight-Captain Vorune. My grown daughter Iltan is a mapmaker. Unicorn border riders took her nine months ago, and the old king put her in a lower cell without charge. Every petition I sent came back unopened."
 
-Cadris made himself look at Vorune instead of the leagues of empty air beyond her. "I know of no Iltan. If your daughter is in a royal prison, there will be a lawful cause."
+Cadris swallowed cold air. Unicorns and the migrating Pegasi traded storm warnings, pass markers, and accusations over damaged routes; neither realm called the other an enemy. No royal child had been carried off in all the records he knew.
 
-"You speak as though ignorance were evidence."
+"Captain Vorune," he said, making each title exact, "release me, and the queen will receive your complaint."
 
-"You offer me only your word."
+"My complaint has had nine months of flight time." Vorune moved closer, matching the sling's swing. "Your mother will bring Iltan to the last low pass. This city takes the sea wind at moonrise tomorrow. Once it turns west, we cannot make that pass again before another migration. I took the one load your crown could not leave on the ground."
 
-"Then you can inspect the old king's word when your feet are under you."
+"You have kidnapped the queen's only son three days into her reign," Cadris said. "That is not a petition."
 
-The climb took hours. The Pegasi traded places at the sling ropes while Vorune never left his sight. Frost silvered Cadris's mane. Once he retched over open country and afterward pretended he had only coughed. Vorune pretended with him. Her mercy made him dislike her more.
+"No. It is why she will read the next one."
 
-By afternoon, what he had mistaken for a bank of summer storm filled the northern sky. Sunlight burned along its towers. Dark rain trailed from its underside, miles long and combed by the wind. As they approached, the cloud separated into terraces, arches, sloping channels and pale houses anchored one above another. Thousands of Pegasi moved across it. Their wings flashed blue, brown, copper, white. The whole kingdom traveled slowly west, broad as a province and quiet from a distance.
+"And if this Iltan is not in our custody?"
 
-They carried him through the crown of it.
+"Then you will inspect the docket and ask why your old king wrote her cell mark on it."
 
-The landing terrace looked solid: a floor of pearl-gray cloud packed smooth beneath translucent ribs. Vorune unfastened the sling and nodded for him to step down.
+Vorune signaled, and the flight climbed.
 
-Cadris put one forehoof on the floor. It held. He shifted his weight.
+For hours Cadris hung beneath living wings. The six Pegasi exchanged the four load lines in pairs, never leaving one corner unsupported. Vorune called each transfer before it happened: weight forward, crosswind left, two breaths to level. Cadris learned to recognize a change by the tightening under his ribs. He also learned that closing his eyes made the falling worse. He fixed them on the gray feathers at Vorune's shoulders and hated needing her to keep them in sight.
 
-The cloud swallowed him to the knee.
+Near midday, a long cloud rose ahead of them. At first it resembled a storm caught against the blue. Then the sun picked out stepped terraces, pale ribs, and hundreds of moving wings. Rain combed down from its dark underside. Its upper towers streamed and reformed as the whole mass drifted toward the western mountains.
 
-He plunged forward. White vapor closed over his chest, then his throat, as insubstantial as breath. He struck at nothing. A strap snapped taut beneath his ribs and stopped his fall with his hind legs kicking in open sky.
+The flight entered through an opening at the bright crown. Pegasi flew between floors that looked carved from pearl. Cadris saw doors, ramps, cistern bulges, hanging gardens rooted in mesh—and no surface made of earth or stone.
 
-Vorune hovered above him, wingbeats slow and punishing. The cloud firmed around Cadris until two Pegasi could drag him back onto its surface. He lay there with his muzzle pressed to something that felt like wet wool and saw, through a thinning patch beside his eye, the green world far below.
+The crew set his sling on a landing ledge. Vorune kept one line clipped to her breast harness and loosened the straps around his legs.
 
-"The floor bears what the wings above it bear," Vorune said. She was breathing harder now. "Not what merely stands on it."
+"One question," Cadris said. His voice had held until he saw open blue through the translucent floor. "What supports a wingless body here?"
 
-Her crew fitted him with a harness of braided line and thin wooden stays. A cord ran from it to a ring on Vorune's flight straps. With every downward stroke of her wings, a tremor passed along the cord and the cloud under Cadris's hooves grew dense.
+"A nearby bearing wake."
 
-"Stay in my wake," she told him. "If the line goes slack, lie flat. If I leave its reach, you fall."
+"Define nearby."
 
-His legs shook when he rose. He arranged them carefully beneath him. "Your assurances as a captor are difficult to value, Captain."
+"You are about to. Step down."
 
-"Value the distance instead. Six wing-lengths."
+He placed his right forehoof on the cloud. It felt cool and densely sprung. Pegasi walked over it without sinking. Cadris shifted half his weight off the sling.
 
-There was no cell. A cell would have required a floor that held him without effort, and apparently no one intended to waste that effort. Vorune led him down through the kingdom while other Pegasi dismantled it around them.
+The ledge opened around his leg.
 
-At the high terraces, weather workers reeled lightning rods into waxed sleeves and stitched torn banks of cloud with the downstrokes of their wings. Lower down, families bound tables to walls and packed sleeping nets into cases. Every object had a hook. Every cup had a lid. Cadris passed a bakery where two Pegasi beat a warm updraft into gray dough while a third painted the finished loaves with dark glaze to weigh them. A small roll escaped its cooling net and bumped along the ceiling. Two laughing children flew after it until an adult barked at them to mind the packing cords.
+He dropped chest-deep before Vorune's wings cracked downward. The line under his ribs snapped taut. Cloud packed against his sides, then thinned beneath his hindquarters, showing a sickening green distance. He struck at the floor with both forelegs and found no purchase until Vorune beat again. Two members of her flight hauled him onto the ledge.
 
-No one cheered the sight of the hostage. Some stared. One old Pegasus turned away. A baker pressed a warm heel of bread into Cadris's mouth as he passed, perhaps from pity, perhaps because a fainting prisoner would be another load for someone's wings. He ate because hunger was less dignified than suspicion.
+Cadris lay with his cheek in cold vapor. "You could have explained that without dropping me through it."
 
-The kingdom had no palace that Cadris could see. Vorune took him into a low weather room whose walls billowed whenever the wind changed. Maps hung under glass weights. She dropped a cracked leather cylinder at his feet.
+"You might have tested my explanation at a worse height." Vorune was breathing through her mouth. "This city's worked cloud bears a wingless unicorn only while a living Pegasus maintains the wake. Cord and wood carry it; they do not make it."
 
-"Iltan's case," she said. "Found below the ridge where your border riders took her."
+Her crew buckled a broad harness around Cadris's chest and flanks. Thin wooden spreaders kept the cords from cutting his legs. A short tether joined it to Vorune's harness. On each downstroke of her wings, a fine pressure ran through the line and the ledge firmed beneath him.
 
-The brass cap bore a small engraving: three feathers over a contour line. The cylinder had been broken inward by a hoof.
+"Five wing-lengths on a calm tier," she said. "Three in rain. If the line slackens, lower your body. If the flyer stops, there is no floor."
 
-Vorune set down a second object, a square of yellow paper sealed in wax.
+Cadris rose one joint at a time. "I understand the threat."
 
-Cadris knew the seal. He had watched the former king press that crowned sun into decrees while Cadris stood behind the council rail and learned to keep questions out of his face.
+"Understand the distance. The threat is separate."
 
-The docket named Iltan, gave the date and pass of her capture, and assigned her to a lower holding cell under border authority. Where a charge should have been entered, a clerk had written *pending further instruction*. The same words appeared beside hearing, counsel and release.
+She led him downward.
 
-"Where did you get this?" Cadris asked.
+The highest tier held weather work. Pegasi flew in place over long troughs, their wingbeats pressing loose vapor into banks that other workers cut and tied with nets. Sleeved rods, gauges, hooks, and channels shaped what the wings supplied; when a worker rested, the cloud under her tools slowly relaxed. Vorune crossed each room first, chose a path wide enough for Cadris's horn and body, then kept the tether short while he followed.
 
-"A gaoler's daughter brought it to a rain station. She asked us not to use her name."
+On the next tier, families were packing for the sea wind. Sleeping nets vanished into wall cases. Low tables were lashed upright. A pair of adults folded the cloud wall of a nursery into a traveling roll while their children carried pegs in their mouths. They stared at Cadris, but no one spoke to him.
 
-"This proves detention. It does not prove innocence."
+Warm air struck his face outside a bakery. Two bakers beat an updraft through bowls of cloud-grain dough. New loaves tugged toward the ceiling until a third baker slid them under cooling nets. One escaped roll knocked lightly against Cadris's horn. The baker trapped it with a weighted paddle, broke it, and set half within his reach. Cadris ate without thanking her. Vorune did not call the act kindness.
 
-"I am not asking the paper to love her." Vorune tapped the blank beside *charge*. "Only to admit where she is."
+Below the family terraces, she brought him into a map workshop stripped almost bare for travel. Its floor sloped toward an open wall, so Vorune clipped a second safety line from Cadris's harness to a hovering guard. Only then did she place a cracked leather map case between his hooves.
 
-Cadris read the docket again. He had been ready to find a reason in it: a forbidden route copied, a watch post exposed, a warning ignored. Something untidy but sufficient, hidden in language he knew how to interpret. The blanks gave him nothing to defend.
+The brass cap carried Iltan's initials. A crescent-shaped break had crushed one side inward. Cadris fitted the curve against the edge of his own hoof and wished he had not.
 
-"My mother had three days to open the crown archives," he said. "You gave her fewer than two to answer for this."
+Vorune added a folded docket. Dark wax bore the previous king's sun seal, pressed with a flaw Cadris knew: a notch at the sixth ray where the royal die had chipped years before.
 
-"I gave the old king nine months. He sent my petitions back unopened."
+"Date of seizure?" he asked.
 
-"So you took someone else."
+"Read it."
 
-Vorune's folded wings lifted once from her sides. "I took the one demand the new crown could not file away."
+"I am confirming your account, Captain."
 
-She led him to a rain channel at sunset. It was a narrow balcony built around a falling ribbon of water. A weather-scribe hovered beside it, shaping the ribbon with minute beats of her wings until its surface ran smooth as glass. Words spoken into the channel traveled as patterns of heavy and light drops to a basin far below.
+"Nine months and six days ago. Southbound survey line, half a day's flight above the pass marker."
 
-Vorune gave Cadris a ransom sentence. He refused it.
+The docket agreed. It assigned Iltan to a lower holding cell. The space for an accusation was empty. So were the lines for hearing and release. At the bottom, in a different hoof, someone had written *retain pending royal instruction*.
 
-"She must hear the condition," Vorune said.
+"Who broke the case?" Cadris asked.
 
-"She has heard it from you. She will hear my words from me."
+"A border rider. Iltan dropped it when they bound her wings."
 
-He addressed the rain. He named himself. He described the broken map case and read Iltan's cell mark from the docket. He gave the time of the cloud kingdom's last low pass. He said he was alive and, after a moment, that he had not been injured.
+"You did not see that."
 
-He did not ask Adessra to yield. He did not ask her to refuse.
+"No. I saw the case returned through a rain post. I saw six petitions come back with their seals unbroken. I saw none come back with my daughter."
 
-The rain swallowed his voice. All night the moving kingdom creaked around him while he lay harnessed to a wake-post outside Vorune's quarters. The post stored nothing; a pair of guards took turns flying above it, each wingbeat carried down the tether to keep his narrow patch of floor firm. Cadris slept in pieces. Whenever the guard changed, the cloud softened under his hip and the world below seemed to tug at his bones.
+Cadris touched the chipped sun in the wax with the blunt side of his horn. He had expected falsified paper, or at least a charge that could occupy the safe space between law and cruelty. The old king's seal left him nowhere to put his ignorance.
 
-An answer climbed the rain shortly after dawn.
+"This shows she was held," he said. "It does not make taking me lawful."
 
-The weather-scribe drew cold beads upward with her wingbeats. They gathered on the channel's surface as dark letters. Cadris read them through twice before they dissolved.
+Vorune drew the docket away before his hoof could crease it. "The docket is why you are here."
 
-*Iltan found. I will bring her to the last low pass. Adessra.*
+"It records her cell. It does not authorize this harness."
 
-Vorune exhaled through her nose. "Your mother learns quickly."
+"Tell that to your queen in the rain room."
 
-Cadris could not tell whether Adessra meant to exchange a prisoner, spring an ambush, or arrive alone and dare the Pegasi to murder her son. As a child he had known her answers before she spoke them. She disliked pears, ceremonial trumpets and anyone who mistook volume for rank. The crown had made even six words unreadable.
+At dusk they reached a narrow outer tier wrapped around a vertical thread of water. A Pegasus held position beside the thread, changing its fall with small, exact wingbeats. A stone basin waited far below at a ground station; while the flyer worked, patterns of heavier drops could carry a few lines to it. The curved gutter and wooden mouth merely bounded the water. When the wings paused, the rain lost every shape.
 
-"You will release me when Iltan reaches you," he said.
+Vorune recited the message she wanted. "Say: *Release Iltan at the low pass by moonrise. Delay endangers Prince Cadris.*"
 
-"When she is safe."
+"No."
 
-"That was not a different condition yesterday."
+"The channel has room for twenty-eight words. Do not spend them on rank."
 
-Vorune looked toward the west, where a long blue rent had opened in the cloud. "Yesterday the sea wind had not begun to turn."
+"Your threat is already yours, Flight-Captain. My voice will establish that I live."
 
-By afternoon the cloud kingdom was descending. Its towers folded into low traveling shapes. Outer terraces streamed away and were caught, compressed and carried inward by teams whose wingbeats shook the streets. Cadris moved with Vorune through each lower layer: kitchens gone cold, emptied sleeping galleries, workshops stripped to their hooks. The city did not pause for a prince or a captain's daughter. If it missed the seasonal wind, Vorune said, its households would scatter among weak inland currents and might not gather again for a year.
+"Without the condition, she may waste the approach."
 
-"Then you chose an expensive day for a kidnapping," Cadris said.
+Cadris looked into the falling water. "Add Iltan's cell mark after my name. Add that your city leaves on the next moonrise."
 
-"It was the last day we could reach her."
+"And the exchange."
 
-The underside rain dock hung beneath everything else, a crescent of worked cloud cupped around a vertical shaft. Black rain raced past its open edge. Far below, mountains broke through the weather, their peaks lit by the last sun. Signal fires burned on one narrow pass.
+"No exchange."
 
-Adessra was down there.
+Vorune's jaw worked once. "Nineteen words. Speak on my count."
 
-Cadris took one step toward the edge. Vorune's tether stopped him.
+At her signal he said, "Cadris alive, uninjured. Iltan recorded in lower cell four-seventeen. Cloud city crosses the last low pass before next moonrise."
 
-At the shaft's mouth stood a wooden lever long enough for a unicorn's weight, its handle bound in red cord. Behind it, cloud cisterns bulged with rain. A shallow cargo cradle rested on angled rails beneath the lever.
+The weather worker caught every word and drove it downward.
 
-"Emergency sluice," Vorune said when she saw him studying it. "If the dock shears loose, the last worker opens the cisterns and rides the flood clear."
+He spent the night on a family tier that had already been emptied. His harness ran to a bearing frame over a shallow sleeping hollow, but the frame supplied nothing by itself. Two Pegasi took alternating watches in the air above it, their living wakes traveling down the tether. At each changeover the cloud softened under Cadris's ribs for half a breath. He did not sleep through any of them.
 
-Cadris watched rain descend toward the pass. "Clear to where?"
+Near dawn, bells sounded below. Vorune brought him back to the rain room as the city began a slow descent toward the mountains. The same weather worker lifted a bounded chain of drops from the lower basin. Under her wingbeats, eight words darkened the water.
 
-"Wherever the water strikes. In that cradle, you might live to complain of the landing."
+*Iltan found. Bringing her to low pass. Adessra.*
 
-She tapped the red-bound handle. "It spends the lift in the well. Nothing flies up afterward until the current is rebuilt. The lever moves only if losing the dock is worse."
+Then the message broke into ordinary rain.
 
-Might was more than the sky had offered him so far.
+"Found where?" Vorune demanded of the worker.
 
-The dock lurched. Bells hammered somewhere above, two quick strokes repeated. Pegasi shouted from the outer rim. A seam had opened in the traveling cloud, and the sea wind was pulling at it.
+"No more weight came up."
 
-Vorune sprang aloft. "Stay down."
+Cadris read the vanished words against the gutter. Adessra had not written *released*. She had not written *exchange*. He could picture her finding the blank docket and turning very quiet; he could not picture what the crown had made her do next.
 
-She flew to the far side of the dock, hauling three workers into position with clipped commands. The tether between them paid out until it hummed. Cadris lay flat as ordered, still inside the reach of her wake. Each time Vorune banked, the floor thinned beneath him.
+"When Iltan reaches this city," he said, "you will lower me to the pass."
 
-The red-bound lever stood one body-length away.
+Vorune checked the western horizon. "When I know she can leave again under her own wings."
 
-He could reach it. The cargo cradle would catch the flood; the falling water would carry its own temporary firmness around him. The signal fires marked the slope. He imagined stone striking his hooves, guards surrounding him, his mother's neck beneath his muzzle. He imagined Vorune turning to find a slack tether and an open shaft.
+"State any other condition now."
 
-Cadris rose. The cloud sagged under his hind legs. He edged toward the lever, keeping the line tight, and hooked one foreleg over the red cord.
+"Lift is turning south. The upper tiers must be folded by midday, the rain dock by moonrise, and I have a daughter somewhere below our route. Those are the conditions I have."
 
-From below came a wingbeat.
+She moved him down before he could ask another question.
 
-It was so faint he mistook it for rain striking the shaft. Then it came again: three uneven blows, a pause, two more. The updraft stored beneath the dock trembled in answer.
+The city contracted around them through the day. At the weather tier, crews released the last trailing banks and rolled their nets. At the family tier, households flew their bundled walls inward and hooked them beneath a dense central shelf. The bakery fires were out; the cooling nets hung empty. Every descent narrowed Cadris's view of the upper city and widened the mountains below. The city was not waiting for its captain's bargain. It had to catch the sea wind as one body or lose families into separate weather for a year.
 
-"Vorune!" a voice called from far below.
+By moonrise, Cadris could see signal fires marking the low pass. The city had come down through rain, close enough that individual pines showed black on the slopes. Vorune led him onto its underside dock, a crescent of compacted cloud beneath the lowest workshops. A circular rainwell opened through the center. Pegasi had spent the afternoon beating an updraft into its walls; the worked shaft held that living effort for the last ascent from the pass.
 
-The captain's head snapped around.
+Beside the well, swollen cisterns leaned against a timber gate. A shallow cargo cradle stood on rails aimed into the shaft. A red emergency lead ran from its nose through a guide on the gate and ended in an open clip. Cadris followed the rails to a long release bar placed low enough to take a worker's body weight.
 
-Cadris looked from the sluice to the black throat of the rainwell. Opening the cisterns would give him a road down. It would pour through the stored lift and flatten it, leaving whatever flew below to meet miles of rain on exhausted wings.
+"Where does the cradle land?" he asked.
 
-His foreleg tightened around the lever. Adessra was waiting under those fires. He had been stolen, suspended, fed and moved according to another creature's measure of mercy. He wanted the choice that belonged to him, even if it ended in broken bones on the mountain.
+Vorune shortened his tether as a gust rolled the dock. "It does not choose. The sluice throws the cistern water down the mountain side of the well. The flood bears the cradle until the stored wake runs out."
 
-Another wingbeat dragged itself upward.
+"A survivable descent?"
 
-He removed his leg from the cord.
+"If you lie flat, if the cradle stays straight, and if rock is kinder than air."
 
-"Captain," he shouted, louder than any court had ever heard him. "Strengthen the well. She's here."
+"What remains in the well afterward?"
 
-Vorune wheeled back. The cloud seam still tore behind her. For one instant she hung between her kingdom and the shaft. Then she drove straight down over the rainwell, beating her wings until the dock bucked.
+"Rain." Vorune glanced at him. "No updraft. Nothing climbs."
 
-Air roared upward. The sluice lever jumped in its brackets. Cadris threw his shoulder against it. The red cord burned through his coat while the cisterns hammered on the gate. If the latch opened now, the water would spend the current they were building.
+"And the red lead?"
 
-A pale wingtip appeared in the shaft and vanished. Vorune shouted something that had no numbers in it. She plunged chest-deep into the rainwell, wings braced against its walls.
+"Clip it to your second harness ring. When the water moves, the clay link on your dock tether parts and the sluice wake takes your load. No gap."
 
-The next gust lifted a dun-colored Pegasus over the rim.
+Two sharp bells rang above. The entire dock yawed west. A packing line had torn loose from the tier overhead, and a folded workshop was opening in the sea wind. Vorune clipped Cadris's tether into the harness of a dock flyer hovering beside the rainwell.
 
-She was gaunt enough that every strap hung loose. One wing faltered as soon as it cleared the shaft. Vorune caught her, and both dropped hard onto the cloud beside Cadris. His tether went slack. The floor opened under one hoof, but a dock worker seized the line and restored the bearing wake before he could fall.
+"Keep three lengths," she ordered. "Hold the well."
 
-Vorune covered her daughter with both wings. For a few breaths, the captain's precise world of loads and intervals ceased to exist.
+Then she launched upward with the repair crew.
 
-Iltan pushed her way free first.
+The dock flyer faced into the well, beating hard enough to keep both Cadris's floor and the stored current from fraying. Rain sheeted across her eyes. Cadris lowered his body as instructed and edged along the tether's arc. Three lengths carried him to the cargo cradle.
 
-"You took him," she said.
+He stepped into it. The cloud dipped beneath the runners; the flyer's next stroke packed it again. He closed the red clip on his second harness ring with his teeth, leaving the dock tether taut until the flood could break its clay link. Then Cadris worked the safety loop off the release bar with the side of one hoof and set his shoulder against the wood. It moved a splinter's breadth. Behind the gate, a cistern boomed.
 
-Her voice was scraped thin, but her gaze on Cadris was steady.
+The signal fires below showed where his mother waited. If he drove the bar down, water would take him beyond Vorune's reach. He might arrive with shattered legs. He might miss the slope. Both risks belonged to him more than the harness did.
 
-"I brought you home," Vorune said.
+He leaned harder.
 
-"The queen brought me out of the cell. She opened it before she asked where her son was. Before she asked what you wanted. She said I was not a price." Iltan looked at the lever, then at the raw patch on Cadris's shoulder. "You kept the lift for me?"
+From the rainwell came an uneven beat: three strokes, a long empty interval, then one.
 
-"I heard you below."
+The dock flyer changed rhythm to answer it. The updraft tightened around the shaft.
 
-"Thank you." The words were exact, neither warmer nor colder than they needed to be. "That does not answer for the prison. And it does not answer for this."
+Far below, a pale shape climbed through the rain. One wing opened fully. The other folded too early. The stored current caught the body before it dropped from sight.
 
-Vorune folded her wings. Above them the migration bells changed rhythm; the repaired seam had caught, but the whole dock was tilting west.
+Cadris looked at the gate against his shoulder. Once it opened, the cistern water would scour that current out of the well. His escape would not merely delay the flyer below. It would remove the only support she had left.
 
-"My flight will require amnesty," she said. "Our map routes must be recognized. The crown will answer for your imprisonment, and then—"
+He let the release bar rise and released the red clip with his teeth.
 
-"Then what?" Iltan asked.
+It did not seat. The loosened gate hammered in its frame, each impact peeling cloud from the cistern wall.
 
-Vorune's jaw hardened. "Then he goes."
+"Captain Vorune!" Cadris called. He abandoned the cradle, planted both forehooves against the gate brace, and drove his shoulder under the bar. "The well. Strengthen it now."
 
-"If they refuse, do you keep him where I was kept?"
+Vorune looked down from the torn workshop line. She saw the shape below. One command sent the repair crew outward to hold the tier; then she folded her wings and dropped past Cadris into the well.
 
-"I am securing what comes after."
+Her first downstroke struck like weather. The current roared upward. Cadris's hooves slid, but his chest kept the release bar high while the dock flyer hooked the safety loop back over it with her teeth. Only when the latch caught did Cadris step away.
 
-"For me?" Iltan stepped closer to her mother. The long feathers of her damaged wing dragged in the cloud. "Did you rescue me, or replace me below?"
+Vorune beat again. A dun Pegasus rose out of the well, gaunt under rain-darkened fur, with one wing trembling at the shoulder. Vorune caught her around the chest. Still holding Cadris's tether, the dock flyer widened her working circle and brought all three of them onto firm cloud. She passed the tether back to Vorune.
 
-Vorune's ears flattened. She looked past Iltan at Cadris, as if surprised to find him still there.
+"Iltan." Vorune folded over her daughter, nose pressed into her wet mane. "Nine months. I had one night left."
 
-Cadris did not plead. He had spent his life believing stillness could force others to reveal themselves. Here, whenever he stood still, someone else's wings were working to keep the floor beneath him.
+Iltan braced a foreleg against her mother's chest and made room to breathe. Her eyes found Cadris in the harness, then the unbroken safety loop on the sluice.
 
-He faced Vorune. "Your daughter is safe. My mother did not buy me with her. Decide what I am now without calling this an exchange already paid."
+"Did he open it?"
 
-The captain looked toward the signal fires below, then at the city drawing away above them. Around the dock, workers avoided her eyes. None offered agreement. None objected.
+"He called me back," Vorune said.
 
-Vorune took the tether from the worker and clipped it to her own harness.
+Iltan's damaged wing dragged as she crossed to Cadris. "You left the current."
 
-"You are a load I no longer have the right to carry," she said. "Get in the sling."
+"You were using it."
 
-She lowered him herself.
+"Yes." She took one breath before continuing. "Queen Adessra opened my cell before dawn. First she broke the old seal. Then she ordered the door unbarred. Only after I was outside did she show me your rain message and ask which flight had you."
 
-The journey down was colder than the ascent. Vorune's wingbeats came rough after the work at the rainwell, and twice Cadris felt the bearing wake weaken around the sling. Iltan flew above and behind them, using the captain's draft. No one spoke. The cloud kingdom caught the sea wind, its folded towers streaming west across the moon like a second night.
+Vorune lifted her head. "What did she demand for your release?"
 
-Vorune set Cadris on a shelf of mountain stone above the signal fires. Real ground struck through his hooves so hard that his knees folded. He pressed his horn to the rock and stayed there until its chill reached his skull.
+"Nothing. She offered a covered cart south if I wanted it. I chose the mountain. I chose to come up. If she calls that proof her new crown is clean, I will correct her myself."
 
-When he looked up, Vorune had already lifted away. Iltan circled once to gather height, not farewell, and followed her mother toward the departing cloud.
+The city bells changed to a long continuous note. The sea wind had taken the upper tiers; the underside dock shuddered as they pulled west.
 
-Adessra came climbing from the pass without crown, escort or royal pace. Mud darkened all four legs to the knee. She had made the night journey up the mountain and seemed to have spent whatever strength remained on the last slope.
+Vorune stood. "Then the prince stays only until the crown grants safe return to this flight and answers for the old king's seizure. We can carry him over the coast until—"
 
-Cadris met her halfway. She put her neck over his and shook against him. He had imagined this moment in the rain dock, but not her weight, nor the small torn place at the base of her mane where the coronation crown had caught when she charged the terrace rail.
+"No." Iltan's voice was hoarse, not loud. "I was not her price. The cell stays wrong after he leaves. The harness is yours, not mine."
 
-After a while he asked, "Why did you open Iltan's cell before you had me back?"
+"I did this to bring you home."
 
-Adessra kept her head against his. "Because the door was in front of me," she said. "You were not. And because I knew my son would ask me that if I left it shut."
+"You brought him here. Adessra opened the door. I flew the last span." Iltan turned her weak wing out of the rain and faced her mother squarely. "Those are the parts. Keep them separate."
 
-Below them, beyond the bend in the path, ministers and guards waited with questions that would harden by morning into accusations, orders and debts. Cadris could not yet tell them whether his mother's answer had been wise. He knew only that her legs trembled when she tried to turn downhill.
+Vorune looked toward the mountain fires. Her flight straps were pulled crooked from the catch in the well. Cadris could see the instant she began measuring again: time to the sea wind, her daughter's failing wing, his weight, whatever force Adessra might have waiting below.
 
-He moved beside her, braced her ribs with his shoulder, and matched his pace to hers on the steep path down.
+He did not offer forgiveness or a bargain. "Flight-Captain, I am still under your tether. Your daughter arrived free and by her own choice. Do you intend to carry me away after hearing her?"
+
+Vorune's wings opened halfway, then closed.
+
+"Answer the question," Cadris said. "Then remove the line or name the new threat."
+
+The dock rolled. Cloud tore from its outer edge and vanished west.
+
+Vorune unclipped the lead from her own harness. "No new threat."
+
+Iltan held out her breast ring. "Give it to me."
+
+"Your right wing cannot lift his weight."
+
+"We are going down. You take the outer sling. I carry his floor."
+
+Vorune hesitated only long enough to test Iltan's wing joint with her muzzle. Then she clipped Cadris's bearing tether to Iltan and secured two broad descent lines around the cargo sling. Cadris stepped into it without being ordered. Vorune took the high line; Iltan took the lead beside his shoulder.
+
+Her first wingbeat barely firmed the cloud under his feet. The second traveled cleanly through the harness. On the third, Iltan walked him to the edge.
+
+The cloud city released them into open rain, but not loose. Vorune braked the sling above and behind while Iltan stayed within one wing-length of Cadris, beating the wake that held his body. They descended across the face of the mountain in long slanting turns. When Iltan's damaged wing faltered, Vorune moved close enough for her draft to catch it; Iltan kept the bearing line clipped to herself.
+
+Above them, the compacted city climbed onto the sea wind. Its last terraces streamed west across the moon. By the time the mountain filled Cadris's vision, the kingdom was already departing.
+
+Iltan chose a shelf of bare rock above the signal fires. Vorune took more of the sling's weight. Iltan shortened the bearing tether, drove two hard strokes into it, and guided Cadris forward until his right forehoof struck stone. Then his left. His hind hooves skidded once and found the shelf. Only when all four legs held and the cargo sling sagged did she stop beating.
+
+The sudden weight of his own body folded Cadris to his knees.
+
+Iltan pulled the harness buckle loose with her teeth. "Can you stand?"
+
+"On this, yes."
+
+"Then I am going."
+
+She offered no message for Adessra. Vorune offered no apology. They launched together, Iltan inside her mother's draft, and turned toward the moving cloud.
+
+Cadris put his muzzle against the rock. It was rough, cold, and magnificently indifferent to wings. He stayed there until hoofbeats scraped on the path below.
+
+Adessra climbed into view without her crown. Mud from the night's ascent had dried to both knees, and a torn coronation ribbon was still knotted in her mane. From the state of her legs, she had taken the lower prison road into the mountains and never stopped when Iltan took the updraft. No guard followed her onto the shelf.
+
+"Any broken bone?" she asked.
+
+"No."
+
+"Can you walk?"
+
+Cadris rose. His legs trembled, but the stone did not yield. "Can you?"
+
+Adessra took two more steps before her foreleg buckled. Cadris caught her under the shoulder. For a while neither spoke. Her neck lay across his, heavy with sweat and rain, and he felt the three sleepless days of her reign shaking through her body.
+
+The cloud kingdom had become a dark western ridge against the moon.
+
+"Iltan said you opened the cell before you asked about me," Cadris said.
+
+"The docket had no charge. The old seal was still on the bar."
+
+"You did not know whether Vorune would release me."
+
+"No."
+
+He waited for the rest. Adessra only tested her leg against the stone.
+
+"Why then?" he asked.
+
+"She had been locked there nine months," Adessra said. "I had the key."
+
+Cadris shifted downhill, put his shoulder beneath hers, and took her weight before she had to ask. Together they started down the narrow path toward the signal fires, each step landing on stone.

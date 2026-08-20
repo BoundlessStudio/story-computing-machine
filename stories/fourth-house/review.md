@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Aumelor | new | Constructed insectile focal person; no exact, alias, close-spelling, or confusing reuse found in authority, the frozen baseline, locked legacy stories, or passing current inventories. |
-| Ione Sivet | new | Nonmagical fabricator; no exact or alias reuse found. The full name remains readily distinct from legacy `Inez Arco`, baseline `Siva`, and current `Sivren`. |
+| Aumelor | new | Constructed insectile focal person; no exact, alias, close-spelling, phonetic, or confusing reuse was found in authority, the frozen baseline, locked legacy prose, or passing current inventories. |
+| Ione Sivet | new | Nonmagical human fabricator; no exact or alias reuse was found. The full name remains readily distinct from legacy `Inez Arco`, baseline `Siva`, and passing-current `Sivren`, `Sivelle Vordain`, and `Sivareth`. |
 
 ## Places
 
@@ -21,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The private cyberpunk chamber story establishes Making through two constructed living people with consistently insectile bodies. The companion acts and refuses independently before originating its distinct light-lace magic; the dead spider drone remains nonliving and dependent on Aumelor, Ione's technology remains ordinary, and the prospective craft profile is materially satisfied.
+- Notes: The story resolves the promised fourth House within one private night: Aumelor's chosen movement establishes living agency before magic, the dead drone becomes wholly inert without Aumelor, and the ordinary moth body loses its task, return, and homing compulsions before sustaining independent action and only then originating a distinct light faculty. Aumelor's six-legged, separately tool-clawed sensorium remains coherent, while their literal questions and Ione's practical, financially pressured refusals keep the decisive test, task-wafer dispute, waiting boundary, and final naming exchange distinct and earned.

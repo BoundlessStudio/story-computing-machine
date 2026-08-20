@@ -8,316 +8,304 @@ canon: false
 
 # The Upward Rain
 
-The last drop fell upward between Tressa Vahl and Rudek Sohl.
+The sea left Caudren Reach one drop at a time.
 
-It trembled on the black lip of the coast, round as a lens, holding a tiny upside-down image of both explorers. Then it sprang into the air and joined the rain streaming toward the sky.
+At first the reversal was small enough to miss. Beads lifted from the cliff grass and ran bright on the undersides of leaves; water climbed out of gutters in wavering threads. Then the threads thickened over the harbor. Each rising drop seemed to tug another from the waves, and another behind that, until silver cords drew the surface upward in streaming columns. By late morning, the coastal sea hung in the sky.
 
-Tressa stepped onto the seabed.
+Tressa Vahl waited at its raw edge with one boot over the line of wet weed. Beside her, Rudek Sohl watched a brass plumb bob dangle from his fist. It pointed obediently at the ground. Above them, fish turned inside the suspended dark, and their bellies kindled whenever the sun found them.
 
-So did Rudek.
+One last bead clung to a stone between Tressa's boots. It shivered, stretched, and flew up.
 
-Their boots struck the wet sand close enough to splash each other.
+She stepped. Rudek's heel struck the newly bared sand at the same instant.
 
-"You broke the count," Tressa said.
+"The drop had not separated," Tressa said.
 
-"You were counting my feet."
+Rudek planted a red-headed pin between their footprints. "My heel was below it. Station zero."
 
-Above them, Caudren Reach had become impossible.
+He had not looked at her. That made the theft of precedence worse.
 
-The rain had reversed before dawn. First it lifted from roof tiles and gutters, then from cisterns, reeds, and the backs of startled animals. At the shore, ranks of silver cords began climbing from the waves. By sunrise the whole coastal sea was rising in broad, braided sheets. It hung now high over the Reach: a dark, moving ceiling miles across, swollen with currents. Fish passed through it in glittering schools. Their shadows rushed over land that had not felt the sun in centuries.
+Tressa closed the amber hood over her plate case, counted the rubbing cloths in their waxed packet, and tested the ceramic markers clipped down her shoulder strap. Nothing had shifted. She had packed the case at the first hard rain of every wet season since her thirty-first year, though the elders of the Reach said a person might spend a whole life waiting and never see the sea rise. Rudek had spent nearly as long dropping sounding lines through it. He carried contour leaves in an oilskin tube and enough steel pins to fasten a road to the earth.
 
-The newly exposed floor sloped away from Tressa's boots, gray-brown and shining. Pools frothed in the hollows. Weed lay flattened in the direction of vanished tides. Beyond the first terraces, the drowned shelf descended toward a basin hidden by pale mist.
+Below them, terraces slanted toward a pale basin still draining into the sky. Namarre lay somewhere on that exposed floor, if the old fragments had ever named a place rather than a wish.
 
-Namarre waited somewhere below. Or its proof did.
+Rudek pulled his first bearing. Tressa set a white marker beside his red pin, one finger nearer the basin, and started down.
 
-Tressa tightened the amber shutter over her recording case. The naked light under the suspended sea would bleach an optical plate in minutes. She checked her slate, her rubbing cloths, the narrow trowel at her hip, and the cord of ceramic route markers clipped to her pack.
+The seabed had the indecency of being beautiful. Weed pressed flat in long green hair. Brine remained in bowls of violet stone, crowded with creatures that had never met air. The ocean overhead cast fast bars of light across the mud. Once a shoal passed between the explorers and the sun, magnified by the hanging water into a black migration that raced uphill over them.
 
-Beside her, Rudek drove a sighting pin into the sand and took the first angle of the descent.
+Tressa kept her attention on the ground. Without the sea's weight, cracks were opening in the saturated clay. A terrace lip slumped as she crossed it and exhaled bubbles smelling of iron. She laid a length of rope over the break for the return, knotted it to a stone tooth, and marked the knot white.
 
-"That pin marks my first station," he said without looking up.
+"That tooth is loose," Rudek called from below.
 
-"It marks where I began."
+"The bed beneath it is seated."
 
-"Fortunately, metal accepts more than one interpretation."
+"Seven degrees toward the cut."
 
-He slung his level across his back and started down. Tressa let him gain three strides before following. Being seen to race was almost as bad as being second.
+She moved the knot to the next tooth and gave him no answer.
 
-The coast behind them diminished quickly. The cliffs turned blue through vapor, though Tressa could still make out the mouths of the high shelters cut into them. The water would return by evening. Nobody claimed to know the hour. The first ordinary downward drops at the rim were the only warning worth trusting, and by then the exposed basin would already have begun to fail.
+At the fourth terrace, his ranging staff stood on a strip too straight for nature. Tressa scraped away weed with her trowel. Two rows of fitted curb stones appeared, enclosing a bed of crushed shell.
 
-It was failing in small ways now. Air entered seams long pressed shut. Mud sighed under their weight. A brine hollow beside Tressa suddenly opened a dozen bright mouths as stranded burrowers pushed up to inspect the day. Rudek detoured around it. Tressa did the same, though she chose a route one pace higher.
+"One in fourteen," Rudek said. "It holds the grade around the shoulder."
 
-The moving sea cast bands of light across them. Once, the magnified shadow of a ray sailed over the slope so vast and swift that Tressa crouched before she could stop herself. Rudek glanced back.
+"The upper precinct road bends after a rising marker."
 
-"Only a shadow," he said.
+"The east branch loses three spans."
 
-"I saw it."
+"Before the marker. The turn is beyond it."
 
-He grinned and kept going. They had been preparing for this day since before either had gray in their hair. Tressa had assembled the surviving Namarrean fragments: three route verses copied into a prayer book, a tax mark on a foundation stone reused inland, nine signs preserved in a sailor's song whose tune was much younger than its words. Rudek had crossed the Reach in every season, sounding ridges through fifty fathoms of water and publishing maps with infuriating blank spaces exactly where Tressa wanted certainty. Each had lectured that the other mistook a method for the world. Neither had expected the upward rain to come while both were still fit to descend.
+Thirty paces farther, a shoulder-high stone leaned out of the mud. Three lines had been carved into it. Tressa sluiced the face with water from a brine bowl, pressed thin cloth over the strokes, and rubbed charcoal across the weave. The first line gave the stepped enclosure sign. The second contained *upper* and a directional compound pointing east. On the third, only half the verb remained: a hooked foot beneath parallel bars. In one tax fragment it meant to carry; in a later hymn, to support.
 
-On the third terrace they found a straight ridge beneath the weed.
+Rudek held his level while she peeled the cloth free. "Line order?"
 
-Rudek cleared a strip with the side of his boot. Two parallel rows of fitted stone appeared, the space between them packed with crushed shell. "Road."
+"Place. Direction. Damaged action."
 
-"Avenue," Tressa said.
+"Which action?"
 
-"It has a grade of one in seventeen."
+"Insufficient edge."
 
-"Kings can climb."
+He glanced along the shell bed. He had seen something else; the small retreat of his jaw meant a measurement had failed to please him. He wrote on his contour leaf with his thumb hiding the figure.
 
-"Carts prefer not to."
+Tressa folded the rubbing before he could ask for it. Eastward, the straight strip climbed toward a scatter of low rectangular shapes. Westward, Rudek's old soundings placed the largest concentration of stone beneath the Reach.
 
-Twenty paces on, a marker leaned from the mud. Tressa knelt and washed its face with water from a trapped pool. Four signs emerged, their strokes softened by time. The first was the stepped enclosure used for an important precinct. The second might have been *upper*, or *first*. Below them ran a damaged compound she had translated in other contexts as *bearing*, though the same strokes could mean *load brought to account*.
+"The mass is west," he said.
 
-She pressed rubbing cloth into the cuts and worked charcoal across it.
+"The marker is not."
 
-"Well?" Rudek asked.
+"Your third line is."
 
-"The upper precinct."
+"My third line is broken."
 
-"And the lower line?"
+Rudek wound the red route cord once around the marker and took the western branch. "The rim gets downward rain first."
 
-"Eroded."
+"I know the warning."
 
-He watched her fold the rubbing. His face was not built for belief, but he said only, "The grade stays constant past the turn."
+"Then keep enough slope behind you."
 
-That should have troubled her. Ceremonial roads respected walls, courtyards, views. This one respected effort. Tressa clipped a white route marker beside the stone and followed the ridge east, where the first route verse placed the royal precinct after the third ascent.
+Tressa went east. If he meant to make caution sound like ownership of time, she could leave him to it.
 
-Rudek remained at his level. "My soundings put the largest stone mass west."
+The first rectangles resolved into a district stripped to its beds. Tressa found door sockets, a dark run where a drain lining had been lifted out, and the fused blue heel of a jar beside a kiln scar. Ordinary remnants steadied her. The legendary city had possessed bad glaze and clogged drains.
 
-"A reef."
+Its walls, however, were gone.
 
-"Your song puts a palace east."
+She searched for a fall line outside each foundation. Sudden water toppled masonry; centuries broke it further; neither process carried away every block and left the footing swept. Here the sockets were open squares. At their uphill lips lay pale extraction chips, each flake facing the same way. Small cut marks ran beside them: two bars at one doorway, five beside the next, then a boxed seven.
 
-"It is not a song."
+The route verse promised seven entries before the tide-house. Tressa uncovered three thresholds, then a fourth, but the buildings stood in workmanlike rows with no ceremonial axis. At the broadest footprint she exposed a lintel bed and found no lintel, no inscription, no royal refuse. Only a pair of iron wedges remained rusted into a lever cut.
 
-"Then we can each be disappointed in private."
+She photographed the wedges. Under the amber hood, the optical plate drank six heartbeats of the violent green light. When she closed the shutter, a corner of the image had already gone milk-pale.
 
-He turned west. Tressa nearly called him back. Not because she wanted his company. His contour sheets would have been useful, and if he found the palace first he would describe it as a fortunate bump beneath his keel. But the third sign on the marker had been clear enough: a direction toward the stepped precinct. She had twenty years of context behind that reading.
+Two bars. Five. Seven. The figures could enumerate loads rather than gates. Tressa wrote neither possibility on her field slate. Rudek had once printed one of her provisional readings beneath a contour figure; the correction carried her name, the first edition had not.
 
-She went east alone.
+The ground clicked under her left knee.
 
-The avenue led through a field of low shapes. At first the shapes looked like walls buried to their footings. Tressa uncovered one, then another. They were not walls. They were sockets: squared depressions where dressed blocks had been seated and later lifted out.
+She rose slowly. A hairline opened across the stripped district and widened until brine welled through it. Her white marker beyond the crack tilted, vanished, and left a round hole. The whole eastern lip began to travel downslope.
 
-She stood among the absences and forced herself to see a district. Doorways could be inferred from gaps in the sockets. A channel ran along one side, its stone lining gone but its bed stained dark. A scatter of green glass beads lay fused where a workshop furnace must have stood. In a drain, Tressa found the base of a cup still marked with a common measure. People had lived here. That was no palace, no temple composed to flatter a visitor. It was a row of workshops stripped almost to the ground.
+Tressa snatched her plate case and ran along the foundation beds. Behind her, sockets folded shut in slabs of moving clay. The old road disappeared under a slow brown curl. She aimed for a rib of shell below the slide, then saw a red cord whipping across it.
 
-She moved upslope, searching for collapse. A city drowned suddenly ought to have left walls fallen beside their foundations, roof tile in corners, broken columns too heavy for waves to roll far. She found chips. Every chip lay on the uphill side of an empty socket.
+Rudek's cord. It led down, not west.
 
-On the fifth foundation, repeated notches had been cut beside the missing blocks. Three bars, then a hooked sign. Four bars, then the same hook.
+She followed it around the shell rib and found him crouched behind a natural black outcrop, one hand tightening a pin while the mud dragged at the rope. Three courses of dressed stone armored the outcrop's seaward face. Everything above those courses was reef.
 
-Counts, she thought. Or mason's marks. She photographed them under the amber hood, opening the shutter only long enough for the plate to drink the strange green light. When she covered it again, the enormous sea above shifted. A shoal scattered, each fish flashing separately, and their light ran over the empty foundations like a net being hauled.
+"Your mass," Tressa said, breathing hard.
 
-Tressa consulted the route verse. It promised seven gates around the house that governed tides. She had found no gates. There were not even seven openings aligned with one another.
+"Forty spans of basalt. Nine of construction." Rudek hauled his cord clear of the slide and reeled the slack. "Your precinct?"
 
-A dull crack traveled beneath her boots.
+"Workshops. Extracted to foundation level."
 
-The saturated slope dropped the width of her hand. Mud folded across the avenue behind her, swallowing two of her white markers. A farther section slumped with a wet, gathering roar.
+"Extracted."
 
-Tressa ran downhill before the sinking ground could take her sideways. She crossed a belt of weed, vaulted a narrow brine cut, and stopped where firmer shell beds broke the slope. Someone's red route cord crossed in front of her.
+"There are lever cuts. Chips on the uphill lips. Counts beside sockets."
 
-"I wondered when your palace would throw you out," Rudek called.
+He held out his hand for the rubbing.
 
-He stood below a bare rise, mud to his knees and a block of fitted black stone cradled against his chest. Behind him rose a natural reef armored along one edge with three courses of masonry.
+Tressa looked upslope. The eastern return was gone. The route remaining to them ran below the slump, where the straight shell bed reappeared as two faint troughs. Rudek's contour leaf would tell her whether those troughs climbed toward the old shore or merely seemed to.
 
-"You found a royal barnacle," Tressa said.
+She opened the rubbing over the reef stone. He flattened a contour leaf beside it. The hidden figure at his thumb was now visible: the strip lost height at an unwavering grade, cutting across the older foundation lines. A processional road would have met the district. This line ignored it.
 
-Rudek set the block down carefully. "Breakwater facing. Deliberate work, wrong hill. Your district?"
+"The compound can be *borne to account*," Tressa said. "Or *held in charge*. The object is lost."
 
-"Human. Later stripped."
+Rudek traced two parallel pencil lines with a muddy nail. "Runner spacing. The grooves join below your district and mine. The road never sought either rise."
 
-"Later than what?"
+"Your soundings called the outcrop masonry."
 
-"Its construction."
+"My soundings called it mass. I supplied the rest."
 
-"A magnificent conclusion."
+She waited for him to turn that admission against her. He was already loosening the reef pin.
 
-She looked at the block. It was small enough to carry and cleanly jointed on two faces. "Planning to take that?"
+"Lower shelf is twelve degrees," he said. "Above fifteen when the clay drains. We have time for one line down it."
 
-"Planning to return with something heavier than an opinion."
+"One line is not a destination."
 
-"Its position is the evidence."
+"Then read while walking."
 
-"Its position was the edge of a reef. I measured it."
+They descended beside the grooves.
 
-"You measured what you understood."
+Namarre became clearer as it dwindled. A court retained a hearth ring and six empty post beds; the paired grooves bent through its doorway. At a long foundation, triangular notches marked blocks in groups of four. Farther down, three traces merged, their surfaces polished beneath a sealed skin of marine silt. Tressa knelt whenever writing survived. Rudek paced widths and called no numbers unless she asked twice.
 
-"And you translated what you wanted."
+"These bars precede the extraction," she said at a stripped stair. "Cut before the lever scars."
 
-The accusation landed because the damaged compound on the road marker pressed against her ribs inside the folded rubbing. Tressa took it out.
+"Which side counted first?"
 
-"The lower line may refer to bearing loads," she said.
+"The low side. Then the corner. Then the risers."
 
-Rudek held out his hand. "May?"
+Rudek put a boot into one groove. "Loaded sled starts at the risers. The deeper runner begins there."
 
-"The verb carries both senses."
+"It begins where the block entered."
 
-"That stone ridge is a load road. Constant grade from the old shoreline. It cuts across every contour a ceremonial approach would use."
+"The depth changes at that lip. Loaded from there."
 
-"You called it a road."
+She entered his observation under her sequence, but omitted his conclusion.
 
-"I wanted to know how long you'd keep calling it an avenue."
+At the next crossing he stopped, drove a thin blade through the pale upper sediment, and peeled back a section no wider than a finger. The dark groove ended below it without breaking the marine layer.
 
-She almost folded the rubbing away again. Instead she spread it across his contour sheet. Rudek pinned both to the black block. His penciled line from the reef and her eastward ridge met lower on the slope, where several shallow channels converged into one.
+"Dry cut," he said. "Then the first seabed settled over it."
 
-Not channels, Tressa saw. Two grooves ran along each, too even and too nearly parallel to be drainage. The supposed route to the upper precinct crossed the old city's orientation, but it held the easiest grade toward land.
+Tressa crouched beside him. The stratigraphy was clean. No salvage crew beneath an established sea had opened that track. She wanted a label, a date, a reason; the ground offered order instead.
 
-"A hauling network," Rudek said.
+"Before continuous inundation," she said.
 
-"Possibly."
+"Write the bed. Don't improve it."
 
-"Your favorite word at last."
+She wrote: *paired load trace sealed beneath earliest visible marine deposit*. It took too much room and said exactly enough.
 
-"Leave the block."
+Above, the suspended ocean shifted lower. A fishing boat rode its far surface like a toy seen through dark glass. Someone aboard let down a weighted line; the weight emerged from the water and hung uselessly in the air far above the basin. Its shadow swept over a dozen empty houses and vanished.
 
-He glanced upslope at the long return climb, then at the slope below. "If this ends in another cup base, I am taking it on the way back."
+The traces converged at a rectangle wider than the workshop district. Six approaches entered it, though only foundations survived. On the western side, an array of deep sockets described a hall. Along the eastern edge, steps had been removed so methodically that only their side braces remained.
 
-They followed the paired grooves down.
+Tressa's old route fragment named a house of measures where ways met. Later copies called it the palace from which Namarre's rulers commanded the tides. Standing inside the stripped rectangle, she could prove neither house nor palace. Rudek did not ask which she preferred.
 
-Namarre appeared by subtraction. Every hundred paces gave them less to admire and more to read. A dwelling foundation had numbered sockets around a central hearth. A long workshop court retained grooves worn deep where blocks had been dragged through its own doorway. At a crossway, three haul traces joined in a fan aimed toward the drowned shore. Rudek measured their width, pace, and grade. Tressa uncovered tally marks beside the stripped thresholds.
+He set three pins along the western grooves. Tressa searched the stair braces for writing and found a slab pitched facedown in blue clay. Its broken upper end had once fitted the second landing. She probed beneath the protected edge with her trowel. The blade clicked across shallow incisions.
 
-They disagreed without separating. Rudek called a broad footprint a storehouse because carts could turn inside it. Tressa called it a meeting court because a fragmentary sign mentioned witnesses. When they found iron wedges rusted into a sill, he claimed them aloud and she entered them on her slate before he could. At a kiln scar, she identified the written sign for roof tile; he pointed out there was no tile anywhere downslope.
+Rudek slid the flat lip of his pry bar beside the trowel.
 
-The conclusion accumulated in the gaps between their claims: nothing here had been smashed, and nothing large had been left.
+"One finger," Tressa said. "No more."
 
-Near the basin floor the land softened into blue clay. The sea ceiling seemed lower there, though Tressa knew it was only the basin's depth and the swollen lensing of the water. Boats still caught in the suspended sea passed far overhead, their hull shadows stretched to black needles. One crew had lowered a line into open air, apparently to see whether it would hang upward or down. The weighted end swung uselessly above the seabed, nowhere near the explorers. Rudek laughed once, and the sound went a long way across the emptied world.
+He bore down exactly enough to keep the narrow gap open while she scooped clay by hand. Neither spoke until nine lines showed.
 
-Then the grooves ended at a rectangular foundation so large that Tressa forgot the boats. The place lay at the center of the basin. Six stairways entered it. On the western side, sockets marked a hall wider than any building footprint above. The surviving route verse had placed the house that governed tides below seven gates, at the meeting of roads. It had made a palace of those words. Standing there, Tressa could not say the verse was wrong. She could not say there had ever been seven gates.
+The first sign was the old form of Namarre.
 
-Rudek paced the western edge while she searched the stair footings. Most stones had been extracted cleanly. One cracked slab remained facedown in clay, discarded a short distance from its socket. Its underside formed a thin dark cavity. When Tressa pushed her trowel beneath it, the blade struck incised stone.
+Tressa's fingers went still. It was no wandering adjective in a copied song, no inland stone divorced from its bed. Namarre named the tally beneath her hand. After it came the administrative enclosure and a sequence of places.
 
-"I have writing."
+"Read from the head," Rudek said.
 
-Rudek did not run to her. He finished setting a pin, read the angle, and entered it on his sheet. Only then did he kneel opposite her.
+"Namarre. Account closed." She moved the lamp. "East steps: eleven prepared loads, borne, complete. Bath court: nineteen. Archive rooms: twenty-six, with the lintels entered separately."
 
-Together they cleared a trench along the slab's lower edge. The writing ran in small, orderly rows protected against silt and centuries of water. Tressa read the first signs silently. Then again.
+"Borne where?"
 
-"Say it," Rudek said.
+"The verb has no destination here."
 
-"Hold the lamp lower."
+He shifted the lamp toward the broken edge. "Lost column?"
 
-"You do not need a better lamp."
+"Totals. Inspector's marks. No place."
 
-She wanted another minute in which the words belonged only to her. The want was ugly, familiar, and useless: the slab continued beyond the trench, and beyond the slab Rudek's sighting pins marked facts she did not possess.
+They exposed another hand's breadth. The list continued through halls, drains, courts, and foundation courses. Every surviving row ended in the same square completion mark. Tressa matched the boxed figures to the cut groups she had seen upslope. Two, five, seven had not been gates. They were stages in dismantling the workshop row.
 
-Tressa read aloud. "Namarre." The city's name was complete, unmistakable, followed by the administrative sign she knew from the tax stone. "Then: west court, twelve stone loads, complete. River stair, eight loads, complete. Archive foundation, twenty-one loads, complete."
+Rudek brought his contour leaf to the slab. His three new bearings extended the paired grooves from the great rectangle into the lower traces. Higher up, those traces joined the constant-grade way. Its climb aimed at the former coast.
 
-Rudek lowered the lamp to the next row. "And that?"
+"The loads leave here," he said. "Converge at the stripped courts. Rise landward."
 
-"Hall of measures. Sixteen loads made ready. Then a missing sign. Then *carried* or *removed*."
+"Toward land. Your sheet ends at station zero."
 
-"Direction?"
+"The grade continues above it."
 
-"The edge is broken."
+"Under the present cliff, perhaps. Not on this record."
 
-They cleared farther. More buildings. More counts. Each line ended in the same square sign: complete. The final legible row named the great central foundation beneath them. Its number matched the extraction notches Tressa had passed upslope.
+"Then name the load."
 
-Rudek opened his route sheet beside the trench. His mapped grooves entered the central footprint at the missing stairways, paired and evenly worn. From there, the traces climbed through the stripped districts, joined the constant-grade road, and pointed toward the former shore.
+Tressa looked from the tally to the empty stair beds, then along the runners ground into ancient dry clay. "Building stone. Ordered by structure. Removed before the marine bed formed."
 
-"They dismantled it," he said.
+"All of it."
 
-Tressa pressed two fingers to the city's name, careful not to touch the ancient cuts. She had imagined Namarre drowned with banners on its towers, its rooms interrupted, its people surprised by the sea. The fragments had seemed to promise catastrophe because catastrophe preserved grandeur. Instead, someone had counted the stair stones.
+"The structures in the tally. The same wear continues through three districts."
 
-"Before the water," she said. "An inventory made as the buildings came down."
+"So write dismantled."
 
-"Loads went landward."
+"Dismantled here. The counts give no motive."
 
-"The scars do. The text does not say where."
+He pressed a thumb beside one of the grooves. "I gave a direction."
 
-"Stone doesn't care what your text says."
+"Toward land. No farther."
 
-"Stone can be moved after a flood."
+The people were absent from the evidence as well. Nothing on the slab said whether the hands that numbered the loads belonged to citizens departing with their city, laborers under conquest, or salvagers working ahead of a known flood. Namarre had existed. Its absence was not the patient theft of waves. Someone had emptied it with wedges, runners, lists, and time.
 
-Rudek scraped his thumbnail down the exposed edge of one groove. Below lay dark, scoured clay; above it, pale marine sediment rested in unbroken layers. "The sled passed on dry ground. The overlying bed seals the scar. Nothing cut down through it later."
+A sound like seed striking paper came from high on the slope.
 
-She saw that he was right, as far as the ground could carry them. The city had not waited intact beneath the first deep water. Its principal buildings had been taken apart, load by numbered load. Perhaps the people had moved them. Perhaps conquerors had. Perhaps stone had gone to walls still standing somewhere inland under other names. The slab would not give them a destination merely because they wanted one.
+Tressa turned. At the coastal rim, widely spaced dark spots appeared in the dust. Downward rain. The warning had reached them with the eastern return already gone and the tally still uncovered. The lower skin of the sea overhead had begun to fray.
 
-A faint tapping reached them from far upslope. Rudek looked toward the rim. Dark points appeared in the pale exposed sand, widely spaced at first. Downward drops. Ordinary rain.
+Rudek drew his pry bar. "The name edge is movable."
 
-"We take the slab," he said.
+"With a fracture through line three."
 
-"It weighs half a ton."
+"Better stone than a bleached plate."
 
-"A fragment. The named edge."
+Tressa pulled rubbing cloth over the gap. It covered five lines, not enough. "The edge without its face and station proves a carved name. Nothing else."
 
-"And lose its relation to the tally? We would spend our margin breaking it."
+"A complete rubbing takes twenty minutes. The firm shelf is eleven minutes up."
 
-"A rubbing of a hole in the ground will not survive an argument."
+The first drops reached the central foundation. One struck Tressa's wrist, warm from its fall through the suspended water. Another darkened the clay beside the slab. Rudek looked at the pry bar, then at the widening wet points. He slid the bar back through his pack loops.
 
-"A stolen corner proves only that someone carved Namarre on a stone. I need the full lines."
+Tressa tore her longest cloth into two workable lengths. Rudek was already planting a fixed-point scale beside the exposed rows. He set her lettered marker against it without asking. She pressed charcoal over the first section while he uncovered a plate beneath the amber hood.
 
-"You do not have time for full lines."
+"Station twenty-eight," he said. "Bearing back to twenty-seven, east six."
 
-The tapping became a hiss along the upper terraces. Above, the suspended sea darkened as its lower skin loosened into rain.
+She wrote the figures in the rubbing margin.
 
-Tressa pulled four sheets of copying cloth from her case. "Rows one through nine. A rapid trace, no restorations."
+"Line E under the scale," she said. "The broken hook belongs below D, not beside it."
 
-"Two sheets."
+He lowered the camera until she could see the plate frame. She shifted the scale one finger-width. The shutter clicked. He covered the plate; she stripped off the first rubbing and laid the second.
 
-"Three. You make a fixed-point plate sequence from the western pin to the slab, and key every frame to the grooves."
+They did not copy everything. Tressa left two faint rows untouched rather than guess at them in mud. Rudek abandoned his fourth angle when the western pin leaned. The rain thickened, peppering the foundation, and blue clay began to flow into the trench. Before it swallowed the tally, Tressa folded the damp rubbings around a flat board. Rudek pulled his scale free.
 
-"Your trace enters my station numbers."
+The slab remained where they had found it.
 
-"Your plate labels enter my line letters."
+They climbed.
 
-Rudek looked at the long slope, calculating. "Eight minutes."
+Water falling from the sea erased the basin in patches. The load traces filled until they looked like twin black streams. On the first rise, Rudek chose the direct grade; three steps later a crack crossed it and opened under his forward boot. He backed away without comment.
 
-"Nine."
+"West of the hearth ring," Tressa said. "Then the foundation with four corner groups."
 
-"Eight, and we leave the stone."
+"Your hearth is under runoff."
 
-They worked. Tressa's stylus raced over the cloth as the incisions rose beneath it. She did not pause at broken signs. At each margin she wrote Rudek's station and bearing exactly as he called them. Rudek moved between pins with his recording case under its amber hood, uncovering each plate for a measured exposure. Before every shutter click he set Tressa's lettered scale beside the visible line.
+"The west socket held green glass."
 
-Rain reached the basin while Tressa copied the last row. Drops struck the clay and punched tiny craters into Namarre. One landed on the slab, filling the city name with bright water.
+He sighted through the rain and found the hard glint. "Below it. The upper clay has lost its toe."
 
-"Eight," Rudek said.
+They traversed beneath the socket. Tressa located the foundations by the order of their count marks, Rudek read which edges still carried weight. Where her memory tried to turn east toward the vanished workshop road, his blade found hollow mud. Where his contour leaf proposed a clean western ascent, her half-buried marker showed the route ended at the slump.
 
-She lifted the cloth. They packed without taking the stone.
+At the black reef, the dressed facing stone Rudek had loosened lay beside his old pin. He passed it without slowing. His red cord had pulled taut across a new fissure. Tressa found her rope two terraces above, but the loose stone tooth had gone. The rope's white knot protruded from the mud on the safer side of the cut.
 
-The outward route did not survive them. Halfway up, a whole strip of blue clay released and slid across the paired grooves. Tressa's white markers vanished under it. The shortest path now climbed a smooth bank already twitching with cracks.
+"Your seven degrees," she said.
 
-Rudek studied the slope through the downward rain. "West. Around the shell bed."
+Rudek tested the lower lip with his blade. "Nine now. Cross on the shell, one at a time."
 
-"That returns us to your reef."
+She crossed first. The ocean roof was descending visibly, its vast underside unraveling into rain. Fish shadows grew sharper. The cliff shelters appeared and disappeared behind silver sheets. Tressa's calves had begun to seize, and charcoal from the wrapped rubbings bled black through her sleeve.
 
-"It returns us to ground with bones."
+Rudek caught up at station zero. His red-headed pin still stood between their two footprints. Water sheeted around it toward the drained basin.
 
-"The second road marker should be above that dark channel." Tressa wiped rain from her eyes and searched. Fish shadows wheeled over the mud. The sea was descending by degrees, its lower surface shredding into long curtains. "There. The broken cap. I marked the sequence: cap, twin sockets, shell bed."
+Neither touched it.
 
-Rudek sighted along her arm. "Then we cross below the cap, not above it. The upper face is ready to go."
+They reached the nearest shelter while the suspended sea was still rain rather than impact. Together they heaved the stone shutter inward. The last gap closed as the first broad mass of water struck the Reach.
 
-They angled west. Tressa found the markers in their remembered order; Rudek chose the weight-bearing lines between them. Neither thanked the other. Gratitude would have consumed air they needed for climbing.
+The chamber shook. Dust fell from the roof. Outside, the sea returned with a noise so dense Tressa felt it through her teeth. The stripped foundations, the sealed grooves, and the tally vanished under moving black water.
 
-At the reef, Rudek passed his black block without slowing. Water streamed down now. Brine hollows overflowed. The tiny burrowers had withdrawn, leaving their bright mouths to fill. Tressa's legs shook on the final terrace, and the cliff shelters blurred behind silver rain. She fixed her eyes on Rudek's red route cord. When he chose a traverse that seemed to turn away from safety, she followed it. When her last surviving white marker showed through a sheet of runoff, he followed her.
+She knelt by the shelter lamp and opened the rubbings. The first had taken cleanly. The second was smeared across two building names, but its completion signs remained. Across from her, Rudek slid his plates into a developing sleeve. One had fogged; two held the scale, slab, grooves, and station pins in hard green detail.
 
-They reached the high opening as the first broad fold of the sea came down.
+Tressa pulled a report leaf from her case and wrote: *At Namarre, its principal structures were dismantled before inundation and carried landward—*
 
-The shelter's stone shutter took both of them to swing closed. Water struck outside with a weight beyond thunder. Darkness jumped around them. The chamber trembled; grit sifted from the ceiling; then the roar settled into the immense, familiar labor of an ocean occupying its bed.
+"Toward land," Rudek said. He was measuring the distance between two pins on plate three. "You have no terminal station."
 
-For a while they sat on the floor among their wet packs. Tressa held the copied sheets beneath the shelter lamp. Three rapid traces. Blurred at the edges, incomplete, but legible. Rudek counted his plate cases twice before he allowed himself to lean against the wall.
+She scraped out *carried landward* and wrote *moved toward the former coast*.
 
-Between them lay a blank report slate. Tressa picked it up. "During the exposure of the Namarrean capital—"
+"Former at which deposit?"
 
-"Site named Namarre," Rudek said. "You cannot make it a capital from a route verse."
+"The first continuous marine bed above the runners."
 
-She scraped the line clean. "At the exposed site of Namarre, an inscribed removal tally establishes that its principal structures were dismantled before inundation."
+"That belongs before the direction."
 
-"My grooves establish the removal. Your tally counts loads."
+"Second clause. If the bed leads, Namarre disappears behind the section."
 
-"Your grooves cannot say what they carried."
+Rudek slid plate three across the floor. "Then the first clause overstates."
 
-"Your verbs cannot say where they went."
+"The plate does not name the site."
 
-Outside, the returned sea rolled stones over the road they had taken, the workshops, the empty central foundation, and the slab they had left in place. Tressa could feel each wave through the slate resting on her knee.
+"Your tally does not show the route."
 
-She began again. "At the exposed site named Namarre, the inscribed tally and the landward haul traces, considered together—"
-
-"Considered is doing a great deal of work," Rudek said.
-
-Tressa did not stop writing. "You may object to *together* in the second sentence."
-
-"Leave space after it."
-
-"For your qualification?"
-
-"For what neither of us found."
-
-She left the space.
+Tressa set the report leaf beside the rubbing, shifted *Namarre* back to the first clause, and asked him for the grade between stations twenty-seven and twenty-eight. He gave her two numbers and objected when she chose the second. Outside, stones rolled across the seabed again while she scraped the first sentence clean.

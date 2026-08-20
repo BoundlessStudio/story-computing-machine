@@ -7,308 +7,450 @@ canon: false
 
 # The Night Harvest
 
-The scale tipped past three tonnes, and the intake crew cheered.
+On the nights when the monsters came thickest, the refinery smelled of oranges.
 
-They had been cheering all night. Every truck that backed beneath the floodlights carried another heap of hooked limbs, plated hides, and pale eyes filmed over in death. The drivers leaned on their horns. The cutters banged knives against the steel tables. Above us, the refinery board advanced another bright digit toward the largest harvest since the monsters had first begun appearing.
+The scent came from scrub foam sprayed over the receiving floor. It was meant to tame the reek of hot hide and opened gut. It never did. By midnight the whole yard smelled like fruit left in a butcher's sink, and the crews stopped noticing because the record board above the scales kept adding weight.
 
-I did not cheer. Three tonnes was a good load, but the carcasses had been stacked warm. Warm weight could hide gas pockets, gut water, even a live clutchling if the truck crew had been careless. My job was to make the number honest.
+I noticed everything that could make weight lie.
 
-I climbed the inspection step and drove my probe between two slabs of black hide. The upper carcass sagged around it. Blue light leaked from a tear below the breastplate and shone through my glove.
+The carcass on my table had six limbs, though only four had reached the truck. Its hide went for roof laminate. Its hollow leg bones made kiln brick. Three translucent knots under the ribs held the blue charge we rendered for the yard lamps. A year earlier, before the first night arrivals, I would have called the whole animal impossible. Now I hooked a thumb under its breast seam and called, “Two intact. One split. Hide class three.”
 
-“Grade two hide,” I called. “One intact lumen sac. Dock them for heat.”
+The cutter beside me held out the shielded sample tin. I dropped the split knot inside and clamped the lid.
 
-The driver swore. The crew cheered anyway.
+“Class two,” he said. “Look at the plates.”
 
-I entered the grade on my tablet. The refinery bought hide for armor laminate, bone for kiln additive, blood salts for battery paste, and the luminous organs for the oil burning in the floodlights overhead. Ten months earlier we had called all of it monster. Now there were price columns.
+“Look at the scorch under them.”
 
-At the end of the entry, an overtime notice filled my screen. Four more hours at hazard rate, with the night-harvest bonus if we broke the record. I thought of my brother asleep in the chair beside his narrow bed because lying flat still hurt his mending ribs. I thought of the rehabilitation bill under the sugar jar and the day-shift vacancy my supervisor had promised to the grader with the best quarterly attendance.
+“That happened on the truck.”
 
-I signed.
+“Heat is heat.”
 
-**KESSA MORREN: HAZARD RATE APPROVED**, the receipt said.
+He made a face and marked my grade. The truck owner would lose twelve credits. My line would lose forty seconds. Both were better than letting scorched tissue foam inside a refining vat.
 
-“Good choice,” my supervisor said behind me. He spoke quietly even when the yard roared, which made people lean close and listen. “A night like this could pay your rent.”
+Behind me, the shift chief slapped the rail twice. “Your line's ten under target, Kessa.”
 
-“It could pay one-third of a brace.”
+“I found scorch under the plates.”
 
-“Then let’s hope the things keep coming.”
+“That isn't what I asked.”
 
-He meant it kindly. That was how far the year had carried us.
+“Pass it and you'll have a blocked vat.”
 
-The next truck came through the south gate too fast.
+He pointed at the next hanging carcass. “Move that one.” We were nineteen tonnes short of the biggest night harvest on record, and every pair of hands in the yard had already spent the bonus.
 
-Its left headlamp was gone. Claw marks had peeled the paint from the cab, and one rear tire flapped against the rim. The truck struck the guide rail, throwing sparks, and slewed across the receiving lane. Cutters scattered. The driver braked a handspan from the scale house.
+Mine had paid the deposit on my brother's new walking brace three times over. The trouble was, I had spent the same money on rent and his last two therapy visits as well.
 
-Something moved beneath the chassis.
+My pocket vibrated. I knew who it was without looking.
 
-I saw a joint bend the wrong way, then a barbed leg shot out and caught the ankle of a cutter who had not run quickly enough. He fell, striking the concrete. The monster pulled itself forward under the axle. It was small for the harvest, no bigger than a workbench, but alive enough to open a mouth along its belly.
+“You're still at the plant,” my brother said when I answered. He could hear the cutting saws through my coat.
 
-Before security raised their shock rifles, a figure dropped from the truck roof.
+“They offered the extension.”
 
-The stranger landed on one knee. Layers of dull cloth hid their body and most of their face. In both hands they held a narrow weapon like a spear with a broken crescent at its tip. They hooked the monster beneath its jaw, turned with its rush, and drove the point through the seam behind its head. The creature struck the concrete once. Then it folded.
+“You said you'd take the first shuttle home.”
 
-The stranger freed the cutter’s boot, checked the man with a quick press of two fingers against his throat, and stood.
+“I said I'd try.”
 
-For a moment nobody moved. Then the driver began clapping. A few cutters joined him. We had all heard about these people. They had started appearing three weeks earlier, always after sunset, alone or in small groups. They killed monsters with tools no one had seen them carry in daylight. They ignored money. They rarely answered questions. By morning they were gone.
+“No. You said you'd be on it.”
 
-The stranger looked past the applause to our processing tanks.
+A horn sounded at the north gate. Another loaded truck. The intake clerk raised both arms as if he had summoned it himself.
 
-Three round towers stood behind the intake hall. Veins of blue light trembled in their sight glasses as ground lumen tissue circulated through hot solvent. The stranger went rigid.
+“The brace fitter opens at nine,” I said. “If we clear the record, I can pay the rest before your appointment.”
 
-My supervisor stepped forward with both palms open. “You saved a worker. We can pay.”
+“And if you don't?”
 
-The stranger did not look at him. They crouched beside the dead monster and cut a careful line under its breastplate. A pear-shaped organ slid into their gloved hand, faintly glowing. They pointed at it, then at our tanks.
+“Then I work tomorrow.”
 
-“Yes,” my supervisor said. “We process those.”
+He went quiet. Silence was the only way he could stop himself from asking for something. Since the delivery van had rolled with him inside it, he had learned to make every need sound optional.
 
-The stranger slashed the organ in half.
+At last he said, “Don't make me the reason you stay there.”
 
-Blue fluid hissed on the concrete. The cutters stopped clapping.
+The belt jerked. A plated foreclaw caught the guide rail, closed hard enough to bend steel, then relaxed. Dead muscle sometimes kept instructions longer than life.
 
-The stranger pointed from the ruined organ to the tanks again, then swept one hand across their throat.
+“I have to go.”
 
-Security took that for a threat.
+“Kessa—”
 
-Four guards closed around them. The stranger could have struck first. I had seen how quickly they moved. Instead they let the crescent spear fall and raised empty hands. Even when a guard shoved them against the scale-house wall, their gaze never left the pulsing blue tanks.
+I ended the call and reached for my grading hook.
 
-“Put them in the old tool cage,” my supervisor said. “Police can decide what that performance meant after dawn.”
+By then the whole district depended on what came out of the monsters. We wore their plates, mixed their salts into batteries, burned their rendered blue charge over loading yards and doorways. The lamps cost less than imported fuel and shone through rain. People said they made the streets safer. Nobody said the other half aloud: as long as the creatures kept appearing, trucks kept rolling and night work paid better than day.
 
-As the guards led the stranger away, I saw two more still figures beyond the south fence, just outside the reach of our lamps. They watched their companion disappear into the intake hall. Neither approached.
+The next truck struck the gatepost on its way in.
 
-Then a call came over the yard radio: three packs converging, perhaps sixty animals in all.
+Its windshield was starred white. One mirror dragged by its cable. The driver leaned out, shouting for us to drop the barrier behind him, but the tarp over his load was already lifting.
 
-The record board flickered upward.
+Not settling. Breathing.
 
-Management ordered every line to full output. More monsters meant more danger at the fences, they told us, and danger required brighter lamps. Brighter lamps required oil. By midnight, all three tanks were beating blue against the dark like enormous hearts.
+I hit the belt stop.
 
-The old tool cage stood beside my grading desk. We had emptied it when security needed somewhere to keep the first thieves who discovered that a jar of lumen concentrate was worth more than a week’s wages. The stranger sat inside with their wrists bound in front of them. Their hood had fallen back, revealing close-cropped dark hair and a pale lattice of scars along one temple. Nothing about their face told me where they had come from.
+The chief's hand landed on the rail beside mine. “Why is your lane idle?”
 
-Each time the pumps thudded, their eyes lifted to the tanks.
+“Something's alive.”
 
-I tried the questions everyone had tried on fighters before.
+“Nothing on that truck is alive.”
 
-“Who are you?”
+“Then put your hand under the sheet.”
 
-No answer.
+He did not.
 
-“Where did you come from?”
+A barbed head punched through the tarp. The creature had folded itself among four dead ones, black limbs nested into black limbs, and the truck crew had built the rest of the load over it. It came up with a strip of tarp hanging from its mouth. Cutters ran. The driver tried to climb through his window and caught his coat on the mirror bracket.
 
-Their gaze moved to mine and away.
+A small figure rose behind the monster.
 
-“Do you understand me?”
+For three weeks we had been hearing about the strangers: people seen only after dark, wrapped in mismatched armor, walking toward monster cries while everyone else ran away. They accepted no bounties. They gave no interviews. Most of them did not appear to understand a word spoken to them.
 
-They touched the floor between us. Then they pointed to the nearest tank and tapped the concrete in time with its pulse.
+This one had ridden into our yard under the same tarp as the dead.
 
-“You think it will explode?”
+They sprang onto the creature's back and locked one boot behind a ridge of shell. A hooked blade turned in their hands. The monster reared, throwing both of them against the truck's cage. The stranger stayed attached. They drove the short hook under a plate where my grading chart marked no useful seam, twisted once, and the creature fell across the load.
 
-They shook their head sharply.
+The stranger landed badly. One knee buckled, then held. They did not check it. They cut into the fresh carcass, dug out all three blue knots, and crushed them under the flat of the blade.
 
-I tore the backing from a stack of grade labels and drew the best monster I could manage: too many legs, wide mouth, blue organ. The stranger watched. I drew an arrow from it to a tank.
+The cutter beside me swore at the wasted money.
 
-They took the grease pencil through the bars. Beside my monster they drew small circles, a dozen of them, scattered across the label. Then they drew one large circle around the tank. From every small circle, they made a line pointing inward.
+The stranger looked up.
 
-I thought I understood. “We bring the organs here.”
+Behind intake stood four refining towers, thick pipes climbing their sides. Blue charge rose in each sight tube with the condenser stroke. Light moved across the stranger's face. They went still for half a breath, then ran directly at the towers.
 
-Again the sharp head shake. They tapped the small circles, pointed toward the outer wall, and made their fingers walk toward the large one.
+Security dropped the wash grille.
 
-Monsters coming to the refinery.
+It caught them between the receiving floor and the chemical rinse bay. The stranger wheeled before the bars struck concrete, weapon raised. Three guards aimed shock batons through the mesh. For a second I thought the stranger would cut their way out. Instead they saw the batons pointed past them at the workers and let the hooked blade fall.
 
-Of course they were. We killed them here. Floodlights washed half the district white, and trucks arrived trailing blood scent from every road. The stranger had drawn the obvious and expected me to mistake it for revelation.
+Security dragged it clear with a pole.
 
-They turned over the label. This time they drew the organ, the tank, and a jagged line between them. They held their fist closed, then slowly opened it, finger by finger. With the other hand, they pointed into the dark.
+The stranger did not look at the guards again. They gripped the grille and watched the towers brighten.
 
-Something answered outside.
+“Lock it,” the chief said. “Until daylight, nobody opens that cage.”
 
-The cry began below hearing, a vibration in my teeth, before it rose into the sound of sheet metal dragged across stone. Other voices joined it from three sides of the yard.
+“You saw what they killed.”
 
-The stranger tapped the tank drawing.
+“I saw what they tried to reach.”
 
-The nearest sight glass brightened with the next pump stroke.
+The first monster pack hit the outer fence before I could answer. The rails rang the length of the north yard. Before we had the next load chained, the west alarm joined it. Our floodlamps surged blue, bleaching the trucks and every face beneath them.
 
-The outer cries came back on the same beat.
+The record board added another seven tonnes.
 
-I checked the line gauges. Pressure was stable. Temperature was four degrees above target but safe. The pulse should have been an effect of the pumps, nothing more.
+We worked.
 
-On my screen, the outer motion sensors filled with amber marks.
+There was no clean place to put fear on an intake line. A truck waited behind the one you were grading. A winch waited for your hand signal. If you stared too long at the fence, a cutter might put a blade through his glove. I opened carcasses, judged burns, and sent intact blue knots down the chilled chute toward the grinders.
 
-“How do I prove it?” I asked.
+Every sixth condenser stroke, the knots trembled under my hook.
 
-The stranger flattened their palm over the drawing of the tank.
+I had felt that before. We all had. Freshness, the training sheet called it. A dead knot kept enough charge to answer the machinery for several hours, which was how graders caught old tissue slipped beneath a warm load. After processing, its charge burned steadily in the lamps instead.
 
-Shut it off.
+On the other side of the grille, the stranger tapped two fingers against the floor.
 
-My hazard bonus was posted beside the record tally. Under it, the day-shift opening waited behind quarterly figures. My brother’s last message sat unopened at the top of my tablet: *Don’t stay late because of me.*
+Once. Twice. A pause.
 
-The first pack hit the north fence.
+The nearest tower answered with a blue beat. A cry rolled along the north fence on the next.
 
-Wire boomed. The guards fired from the catwalk, blue-white shocks flashing between the rails. Cutters dragged the latest truck inside and dropped armored shutters over the loading bays. In the control room, my supervisor ordered the brightness raised another ten percent.
+The stranger tapped again.
 
-The refinery board celebrated four hundred tonnes.
+I put my hook down.
 
-I told myself I was checking a blockage. Secondary line two had shown uneven feed all week. A sixty-second pause sat within my grader authority if foreign matter threatened a batch. I pressed the hold control.
+“Lane,” the chief called.
 
-One pump fell silent.
+“Sample check.”
 
-The corresponding tank dimmed from painful blue to the color of banked coals. Above it, two floodlights went out. Battery strips snapped on along the walls, colder and weaker but enough to see the lane.
+“You checked it.”
 
-At the west fence, a cluster of monsters had been climbing over one another to reach three guards on the catwalk. They stopped.
+I took the shielded tin and went to the grille. The stranger's clothes were stitched with pieces of hide I did not recognize. Up close I could see that the hard line along their cheek was not paint but a pattern of old, pale scars. Their eyes moved from the tin to my face.
 
-Not slowed. Stopped.
+“You understand this?” I asked.
 
-Heads lifted. Bodies turned. The nearest guard fired into an exposed flank, but the creatures ignored him. They dropped from the fence and streamed north, angling past people, trucks, and open pools of blood toward the still-throbbing main tank.
+No response.
 
-The stranger stood inside the cage. Bound hands gripped the bars.
+I opened the lid a finger's width.
 
-My supervisor appeared at my shoulder. “Why is line two down?”
+Blue light wet my knuckles. Outside, something struck the north fence. The stranger recoiled from the tin, not in fear but urgency. They shoved their palm toward me.
 
-“Watch the west camera.”
+“It's dead.”
 
-“I asked you a question.”
+Their fingers closed into a fist. Opened. Closed again. Then they pointed past me to the towers and dragged both hands apart as though tearing cloth.
 
-“They turned when the pump stopped.”
+“You want those broken.”
 
-He studied the feed for two seconds. Then he reached across me and entered his override code.
+A sharp nod.
 
-The pump hammered back to life.
+“Why?”
 
-Blue rose through the tank. The monsters running north veered as one and came back toward us.
+They crouched. With one finger, they drew three circles in spilled scrub foam. Small. Smaller. Smallest. They pointed at the sample tin for each. Then they swept the foam together into one bright smear and pointed at the nearest tower.
 
-“That can’t be scent,” I said.
+I understood concentration. I did not understand what they thought it did.
 
-“It can be twenty things. Heat. Vibration. Your timing. A pack response we don’t understand.” His voice remained low, but there was strain under it now. “What I do understand is that those lamps keep this yard alive.”
+They touched two fingers to their throat. Pointed beyond the fence. Tapped the floor in time with the condenser.
 
-“The batteries held.”
+“A call?”
 
-“For emergency evacuation, not production. If we stop refining, we lose the lights. We lose tonight’s stock. Drivers stop collecting carcasses, cutters lose shifts, and your wages vanish with theirs. You want to explain that experiment to them?”
+Their hand struck the grille.
 
-The main tank flared so bright its sight glass vanished in white.
+Not an answer I could mistake.
 
-At the far edge of the yard, beyond the north fence, the dark changed shape. Empty ground filled with low silhouettes. Some might have come from the drainage ditch or the buildings beyond. I could not see clearly enough to swear how they arrived. I could only watch a fresh wave rise and face the tanks.
+I looked back at the north wall. Monsters pressed there in layers, but the yard held blood, heat, noise, and people. Any one of those could draw them. The blue towers could be nothing more than the largest light in sight.
 
-The amber marks doubled on my screen.
+The stranger reached through the bars and seized my sleeve.
 
-“Correlation,” my supervisor said, but he did not look at me. “We need the lamps at full.”
+Security lifted a baton. I waved it down.
 
-The stranger struck the cage bars once with their bound hands.
+The stranger pressed my wrist to the grille. The metal quivered under the weight at the fence. Then they moved my hand to the floor, where the condenser pulse climbed through concrete. The two rhythms met under my skin.
 
-Not at us. At the tanks.
+When they released me, I closed the sample tin. The stranger touched the lid, then covered the tower smear with both palms.
 
-I had spent ten months turning nightmares into grades. We weighed, priced, cut, cooked, and sold them until an endless attack looked like a supply chain. The monsters fed the tanks. The tanks called through the dark. More monsters came, and we called that a harvest.
+Shield it. Silence it. Something between those.
 
-I opened my brother’s message. Beneath the first line, he had written, *The brace can wait. Come home in one piece.*
+I could stop the west grinder for ninety seconds under contamination authority. After that the chief's key was required.
 
-I took the cage keys from the security hook.
+I returned to my station, waited until he turned toward a truck, and tripped the grinder.
 
-My supervisor caught my wrist. “Think very carefully.”
+The west tower faded. Six lamps above the outer lane went dark, and white battery strips came on beneath them.
 
-“I have.”
+The monsters at that fence did not pour through the weakness.
 
-“You open that door, you’re finished here.”
+They let go.
 
-The day shift, the bonus, the insurance contribution: he laid them all between us without naming them.
+One by one, then in a rippling mass, they dropped from the rails. A guard shouted and aimed down, but the creatures turned away from him. They crossed behind the parked trucks toward the three towers still pulsing at full pressure.
 
-I twisted free and unlocked the cage.
+“Kessa.”
 
-The stranger stepped out. I cut the binding at their wrists with my sample knife, then kicked their crescent spear across the floor. They caught it before it stopped sliding.
+The chief stood at my shoulder.
 
-They did not threaten my supervisor. They pointed to the red containment control behind my desk.
+“They left the dark section,” I said.
 
-“I know,” I said.
+His eyes followed the pack. “Bring the grinder back.”
 
-I broke the cover and pressed my palm to the switch.
+“Watch where they're going.”
 
-Sirens rolled through the refinery. Armored collars began descending around the three tanks. The normal shutdown would have circulated the luminous stock until it cooled, but emergency containment drowned the hot lines in sealing foam and dropped shield plates around every storage vessel. It would spoil the batch and leave the pumps clogged solid. Once started, it required someone at the intake panel to hold the quench cycle until all three temperature bars reached black.
+“I am. Bring it back.”
 
-My supervisor slammed his badge against the cancel reader.
+“The emergency strips are enough to see.”
 
-The collars stopped halfway.
+“They are enough to find an exit. They don't run the shock rail.”
 
-“There are people on those walls,” he said. He pointed at the camera as monsters packed against the north gate. “You want to test a stranger’s drawing with their lives?”
+One of the guards cried out as fresh bodies struck the north side. The chief took the key from his belt and reached across me.
 
-“Restarting was the test.”
+I blocked the slot with my hand. “Give it another minute.”
 
-I shoved his badge away and hit containment again.
+“I have three guards on that fence.”
 
-The main floodlights died.
+“The pack just walked past them.”
 
-Darkness seemed to drop with weight. People shouted. A cutter screamed that the fence had opened. Then battery bars glimmered along the lane, vehicle headlamps swung into place, and the yard returned in hard white fragments. It was less light than we were used to, but not none.
+“Then let them use the luck. Bring the light back.”
 
-The stranger ran toward the north gate.
+He pushed my hand aside and turned the key.
 
-The two figures I had seen beyond the fence were already there. One carried a pair of short blades. The other swung a weighted cord that snapped tight around hooked legs and pulled monsters away from fleeing workers. None of the fighters pursued creatures that turned aside. They held the gap between the broken gate and the intake panel.
+The west grinder roared. Blue climbed the tower. The creatures crossing the yard stopped so abruptly that two collided. They turned toward us.
 
-My supervisor lunged for the restart lever.
+Beyond the west fence, the lamps showed bare gravel and the long shadow of a drainage wall. On the next blue stroke, low shapes moved where the gravel had been. Perhaps they had climbed from the ditch. Perhaps they had been hidden beyond the light. I could not say where they started.
 
-I planted both hands on it. He was stronger. The lever rose a notch, and deep under the floor one pump coughed.
+I saw where they faced.
 
-Every monster at the gate surged.
+The towers answered one another. The packs came on.
 
-The crescent spear flashed in the vehicle beams. Its wielder braced, turned one creature into another, and nearly went down beneath them. One of the companions hauled them free.
+The chief did not repeat his order. He pulled the yard radio from his shoulder and sent every idle worker to the inner shelter. Then he told me, “Keep the line moving.”
 
-“Look,” I shouted.
+He was not protecting a record anymore. That frightened me more.
 
-My supervisor looked.
+A truck jackknifed across the north entrance. Its trailer punched one fence rail outward, and three monsters forced themselves through the gap before security could shock it closed. The receiving crew abandoned their tables. Knives and hooks rang on concrete.
 
-I bore down with all my weight. For one breath he resisted. Then a guard on the catwalk yelled for more battery lamps, and my supervisor’s grip loosened. I forced the lever into containment lock and drove my steel grading stamp through the locking eye.
+The stranger hit the wash grille with both hands.
 
-The mechanism bit down on it. There would be no restart without cutting the panel apart.
+I still had the sample tin tucked under one arm. My brother's brace deposit glowed on the record board in numbers that meant nothing to the creatures climbing through our gate.
 
-“You’ve destroyed the line,” he said.
+I took the security release from its glass box and opened the cage.
 
-“Yes.”
+The stranger slipped through before the grille had risen to their shoulders. They snatched their hooked blade from the guard's pole, vaulted the idle belt, and ran at the nearest tower.
 
-Tank one went dark.
+Not the breach. The tower.
 
-The quench control bucked under my palm. Heat warnings crawled across the screen. I could leave and let the automatic cycle fail, or stay until the stock was sealed. Foam burst from a joint overhead and pattered hot across my sleeve. I did not move my hand.
+Their weapon came up under the sight tube.
 
-Tank two dimmed. Its pulse became a flutter.
+I rammed the round sample tin between the hook and the glass. Metal struck metal hard enough to numb both my hands. The stranger rounded on me. Fury made their face suddenly easy to read.
 
-Outside, the fighters gave ground one step at a time. Security had stopped aiming at them. Guards fired over their shoulders while cutters carried the injured into the scale house. My supervisor stood beside me, staring at the ruined controls and calling temperatures from the screen. Whether he was helping me or protecting what remained of his plant, I never asked.
+“Break that and it goes everywhere.”
 
-“Third collar is sticking,” he said.
+They did not understand the words. They shifted the hook for another cut.
 
-I leaned harder on the control. “Pressure?”
+I tore the tin open.
 
-“Dropping. Hold it.”
+The split blue knot shone between us. A monster inside the gate twisted away from a fleeing worker and snapped its head toward my hand.
 
-The last tank beat once, bright enough to paint every face blue.
+The stranger saw it.
 
-Then the collar closed.
+I clamped the lid. The creature staggered, turned twice, and found the tower again.
 
-The pulse stopped.
+I pointed to the glass tube, swept both arms wide to show a spill, then pointed down. Beneath each tower sat a buried quench vault, plated and packed with dead charcoal. Emergency dumping would drown the hot concentrate, shield it, and ruin every useful part of the night's run.
 
-The monsters at the gate faltered. The fighters killed the three already inside the lane. No fresh bodies filled the spaces those creatures left.
+The stranger's gaze went from my tin to the red wheels on the vault pipes.
 
-Beyond the fence, the pack broke apart. Some fled into alleys and drainage cuts. Others turned their narrow heads toward the horizon, where a distant industrial glow stained the low clouds, and began moving that way. They did not vanish. They did not become harmless. But for the first time in months, the ground outside our refinery was not replacing them faster than we could count.
+I pressed both palms down.
 
-Nobody cheered.
+For a breath we stood inside the hammering blue light, each trusting the other to see the danger the wrong kind of destruction would make.
 
-At dawn, the managers gathered in the control room and began building their version of the night. A hostile stranger had sabotaged essential lighting. A panicked employee had released them. Unusual pack motion had followed a routine pressure fault. Operations would resume as soon as maintenance cleared the lines.
+The stranger lowered the blade. They struck its butt twice against the floor.
 
-They forgot that graders are paid to keep numbers honest.
+Outside the fence, two figures rose from the drainage shadow. One carried paired chopping blades. The other unwound a weighted cord. At their companion's signal, they did not attack the towers. They ran for the broken gate.
 
-Every intake entry carried tank pressure, pump timing, yard video, and my authority code. I copied the sixty-second line test, the supervisor’s restart, the surge, and the full shutdown to my tablet. Then I sent it to the shift channel, the safety office, every local reporter whose address I could find, and my own private account.
+The first stranger pointed the hook at the quench wheels.
 
-By the time management disabled my access, the files had been forwarded hundreds of times. Before I left the yard, notices arrived that three other refiners using concentrated lumen stock had suspended their night runs pending investigation. No one promised the shutdowns would end the appearances. No one knew whether their plants would show the same pattern. But they were going to look.
+“Yes,” I said. “Those.”
 
-The three fighters waited at the ruined gate.
+I pulled the emergency handle.
 
-The one I had freed touched the empty organ pouch on a dead monster, pointed at our shielded tanks, then toward the distant glow. The same warning, continued elsewhere.
+Steel collars unlocked around all four towers. The grinders tripped, throwing the belts slack, but stored pressure kept the concentrate bright. Each vault had to be opened by hand. The red wheels stood along a service walk outside the receiving hall, beyond the shelter doors and twenty paces from the breach.
 
-“Is that why you came?” I asked. “Did you follow them? Did they follow you?”
+The chief caught me at the threshold.
 
-Their face revealed nothing. They inclined their head to me once, turned, and walked into the paling dark with their companions.
+“What did you do?”
 
-I watched until the road hid them.
+“Opened the quench.”
 
-Then I went home unemployed, carrying a spoiled grading stamp and the smell of sealing foam. My brother was awake when I opened the door. He looked at the burns on my sleeve, then at my face, and did not ask about the bonus.
+He looked past me. “And let that one out.”
 
-“Did they stop coming?” he asked.
+“They know what's calling them.”
 
-“Not everywhere,” I said. “Maybe not even here.”
+“They tried to cut a tank.”
 
-Behind me, the refinery floodlights remained dark. Morning had softened the windows, but it was the night ahead I imagined: battery lamps, shuttered tanks, no blue pulse beating a path toward our door.
+“So I showed them the vaults.”
 
-I set the broken stamp beside the bills.
+His eyes narrowed at the word *showed*, but the west fence bent before he could answer.
 
-“Tonight,” I told him, “we find out what ordinary dark looks like.”
+“If you dump,” he said, “the yard lamps drain with it.”
+
+“Turn the truck lights inward.”
+
+“Two drivers are gone.”
+
+“Then use the forklifts.”
+
+A monster struck the shelter door from outside. The chief glanced toward the sound, measuring bodies, distance, minutes. He hated my answer because it left the work in his hands.
+
+“Go,” he said. “I'll keep the belts dead.”
+
+He did not promise me anything else.
+
+The stranger reached the first quench wheel ahead of me. They pulled the wrong way. I slapped their wrist, set both hands on the rim, and heaved clockwise. It fought through a quarter turn. The stranger understood and added their weight.
+
+The pipe kicked under our feet.
+
+Blue concentrate fell into the buried vault with a sound like gravel poured down a well. The first tower dimmed from the bottom upward. Along the north wall, a row of lamps went out. Forklift beams swung into their place, yellow and narrow.
+
+Every monster still outside changed direction toward the remaining towers. The chief shouted new positions over the radio. Guards left the dark rail instead of dying for it. Drivers angled their trucks into a second barrier. The creatures did not attack the vehicles until the vehicles stood between them and the blue.
+
+At the second wheel, resin had hardened around the spindle. I wedged my grading hook through the spokes. The stranger gripped its shaft beside my hands. We hauled until the hook bowed.
+
+A creature came over the inner barrier behind us.
+
+The stranger released the hook, turned, and caught its forelimb with the crescent. They used the monster's rush to throw it off the walk. Below, the fighter with paired blades ended it. Neither paused. The stranger returned to the wheel and pointed at the bent hook.
+
+“It's cheaper than the tank,” I said.
+
+That earned no sign they understood, but they set their shoulder under mine.
+
+The spindle cracked free.
+
+The second tower emptied. Then the third.
+
+With each falling column of blue, the monsters crowded harder toward the last tower. They climbed one another at the east side until the pile reached the catwalk. The cord-fighter stood there alone, weight snapping around limbs, pulling one creature down before the next could use its back. Security fired past them. The stranger beside me made a short sound through their teeth and ran for the last wheel.
+
+It would not move.
+
+The red paint had blistered off its hub. Steam feathered from the packing nut. We tried together and gained nothing. The stranger raised the crescent, aiming for the spindle this time.
+
+I caught the weapon shaft and moved its point three fingers lower, to the brass locking pin. They watched my hand. Then they struck.
+
+The pin split.
+
+The wheel lurched so fast it tore skin from my palms. I kept hold. The stranger caught the far side, and we rode it through the first turn.
+
+Behind the glass, the final column began to sink.
+
+The yard went dark in pieces. Blue vanished from the roofline, the gate, the wet concrete. Battery bars and headlamps left deep black channels between their beams. The monsters reached the service walk. The stranger let go of the wheel to meet them.
+
+I held it alone.
+
+The pipe shook my arms. Heat climbed through the rim. Below, the chief stood at the emergency panel with one hand on the dead-belt lock. A warning light flashed beside him.
+
+“Pressure's backing up!” he shouted.
+
+“How long?”
+
+He read the gauge. “Keep turning.”
+
+I put my boot against the wheel housing and pulled. The last turn came a finger at a time. The fighter's hook scraped sparks from the rail behind me. Something struck their shoulder and spun them into the tank wall. They pushed upright before I could look away from the wheel.
+
+Then the vault pipe opened fully.
+
+The remaining blue dropped out of sight.
+
+For two seconds the refinery held every sound: motors winding down, truck horns stuck under crushed cabs, workers breathing inside the shelter, monsters clawing metal.
+
+The pulse under my boots ceased.
+
+The creature nearest me stopped with one forelimb raised. Its head turned toward the empty tower, then toward the distant eastern clouds. Far away, another blue glow lay against the horizon.
+
+The monster climbed down.
+
+Others followed, not calmly and not all at once. The three already trapped between the trucks kept attacking until the fighters killed them. Those beyond the gate broke from the fence and streamed east through the drainage cut. No new backs filled the gaps. The dark remained empty where they had been.
+
+The stranger with the crescent stood among the last bodies, one arm hanging low. They looked at the buried vault, then at me.
+
+I set the ruined grading hook on the rail. My hands had begun to sting.
+
+The stranger touched two fingers to the shield plate over the vault, pointed east, and pressed a flat hand toward the ground. Their companions were already walking that way.
+
+“Wait,” I said.
+
+They followed the others beyond the gate, toward the faint blue on the clouds.
+
+Dawn found the refinery with its towers empty and its yard full.
+
+The carcasses on the stopped belts had gone cold. Buyers' trucks waited outside the fence, but nobody waved them in. Some workers sat against the shelter wall. Others searched the dark lanes with battery lamps for tools, boots, and people. The orange scrub foam had turned gray under all the tracks.
+
+The chief found me washing my palms at the emergency sink.
+
+“Badge,” he said.
+
+I unclipped it. Kessa Morren was still legible beneath a sleeve of gray foam. I gave it to him.
+
+He closed his fist around it. There were cuts across his knuckles I had not seen him get.
+
+“If they ask,” he said, “you opened the cage and pulled the quench.”
+
+“I did.”
+
+“They'll ask whether I ordered you.”
+
+“You didn't.”
+
+He looked toward the four blank towers. A forklift's headlights moved slowly across them.
+
+“Your brother's appointment is at nine,” he said.
+
+I had told him that once, months ago, when asking for day work.
+
+“What happens tonight?” I asked.
+
+He rubbed his thumb over the edge of my badge. “First I get the gate closed.”
+
+He turned back toward the workers who still needed counting.
+
+Outside the gate, my phone found a signal and filled with missed calls. I rang my brother before he could ring again.
+
+“You sound awful,” he said.
+
+“I lost the bonus.”
+
+A pause. “Are you hurt?”
+
+“My hands. Nothing bad.”
+
+“Can you get to the bus?”
+
+I looked east. The last of the monsters were dark shapes below the blue horizon. Three smaller figures followed them at a steady walking pace.
+
+“The brace payment—” I began.
+
+“We'll argue about that after you wash.”
+
+The first bus was already turning into the refinery road, its ordinary yellow headlights bobbing over the ruts.
+
+“Get on it,” my brother said.
+
+This time, I did.

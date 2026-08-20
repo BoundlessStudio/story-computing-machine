@@ -8,306 +8,310 @@ canon: false
 
 # The Players Above
 
-Anjali Bose had her miniature halfway through the painted archway when the voice said, *Not that square.*
+Anjali Bose had been ignoring the voice for six minutes when it ruined a perfectly good trap.
 
-It did not speak into the room. Malik kept narrating from behind his cardboard screen, rain worried the cabin roof, and Devika crunched a rice cracker with the concentration of someone disposing of evidence. The voice arrived in Anjali's thoughts without sound or direction, patient as a fingertip placed on a line of text.
+On Malik's battle map, her brass scout stood before a moss-painted arch. Devika's wounded knight waited three squares behind, one paper hit point from collapse. Anjali intended to cross the pressure plate, spring the ceiling blade, and leave the passage safe for both of them. Malik watched from behind his game screen with the stillness of a man who had designed exactly this mistake.
 
-*The flagstone ahead of you is hinged. Move to the left.*
+*The left stone is false,* the voice told her. *Move around it.*
 
-The left square put her scout in the ideal position to search the archway. It was exactly the sort of useful suggestion the voice had been giving for three weeks: take the stairs before an elevator stalled, wait through a green light before a delivery bike shot across it, bring an umbrella under a stainless blue sky. Anjali had called those incidents instinct because the other explanation was that an invisible stranger had begun managing her life.
+It had been right about the wasp under her coffee lid on Tuesday. It had been right about the loose wheel on a grocery cart and the stranger who would step backward off a bus without looking. Each warning arrived inside her thoughts, clear and patient, then refused every question about its source.
 
-Now it was managing her weekend campaign.
+Anjali lifted her miniature off the map instead of moving it.
 
-She kept her hand on the miniature. “I appreciate your advice, formless voice, but what do you want with me?”
+“I appreciate your advice, formless voice, but what do you want with me?”
 
-Malik stopped behind the screen. Devika stopped chewing.
+Malik lowered his screen. Devika's knight stayed pinched between two fingers.
 
-The presence in Anjali's mind brightened, not quite laughter but pleased surprise. *Me and some friends are having a cosmic game. One of us has created a great peril, and the rest of us must guide you and your companions to both figure it out and then solve it.*
+The answer carried a sudden, delighted warmth. *Me and some friends are having a cosmic game. One of us has created a great peril, and the rest of us must guide you and your companions to both figure it out and then solve it.*
 
-Anjali looked at the map, the bowls of cooling noodles, and Malik's collection of metal dice in its shallow steel case. “Like in a TTRPG?”
+Anjali looked at the painted dungeon, the rain shaking the cabin windows, and the steel case of dice between the snack bowls. “Like in a TTRPG?”
 
 *Oh, you have those too?*
 
-Every die in the case tipped onto an edge.
+Every die in the open case rose onto one edge.
 
-Not one fell. Twelve-sided, twenty-sided, the squat four-sided die that should not have been capable of balancing on anything but a face: all stood in a rigid silver garden. On the kitchenette counter, a serving spoon rose from the curry pot and settled upright on its bowl.
+The four-sided die balanced on a point. Across the room, a teaspoon stood upright in Malik's coffee. The effect spread to the woodstove, where three flakes of ash met tip to tip above the coals and hung there without falling.
 
-Something knocked against the outside wall.
+Something struck the north wall hard enough to jump the framed photograph over the mantel.
 
-The impact traveled from the kitchen cupboards to the floorboards beneath Anjali's boots. A second knock came from the front of the cabin, then a third from the wall facing the lake. They were too evenly spaced to be branches.
+Malik was under the table before Anjali moved. “Down. Mine says it sees through glass.”
 
-Malik folded his game screen flat. “Mine says get below the windows.”
+Devika dropped beside him. “Since when do you have a mine?”
 
-Devika swallowed. “Yours what?”
+“Eleven days. Yours says the back door, doesn't it?”
 
-“The voice I've been pretending is stress.” He lowered himself beside the table. “It says we have about twenty seconds.”
+Devika did not answer. The window over the sink lost its reflection. A strip of blackness crossed it from sill to frame, bent in the middle, and bent again where nothing with a joint should have. Rain touched it and disappeared.
 
-Devika was already sliding from her chair. “Mine says take the back door.”
+Anjali crawled away from the window. “That had better not be the peril.”
 
-For one absurd second, Anjali was offended. She had thought the voice chose her.
+*It is called the Countermove by the one who placed it. We expected it to begin farther from you.*
 
-Then the window beside the kitchen went black.
+“You misplaced a monster?”
 
-It was not darkness on the other side of the glass. Darkness would have reflected the room. This swallowed the hanging lamp, the table, Anjali's own startled face. A narrow joint bent across the pane, too long for a leg, and dragged one pointed end down the glass with a sound like a wet finger on china.
+*No. Its anchor was placed correctly. You were not expected to gather so soon.*
 
-They crawled toward the stone fireplace. Malik reached up just far enough to turn off the lamp. Rain and the banked fire gave the room a dim red pulse.
+Another blow bowed the kitchen door inward. Malik reached up and killed the lamps. Firelight flattened them against the floor while a narrow point scratched from one window to the next, tasting the cabin's edges.
 
-*That is the peril,* Anjali's voice said, its delight gone. *It has arrived sooner than we calculated.*
+“What does it do?” Anjali asked.
 
-“Your calculations are having an ugly night.” She kept her own voice low. “What is it?”
+*It occupies the route its opponents are most likely to take. Each correct interception gives it more reach. If it reaches the road after dawn, it will have hundreds of routes to learn instead of three.*
 
-*A seeking shape. Its maker placed an anchor near you. The shape will learn to reach farther each time it finds the path you intend to use. If it reaches the road after sunrise, there will be so many intentions to follow that we do not know how to contain it.*
+Malik's parents used the cabin road before breakfast. So did the bakery van, the marina crew, and anyone driving east around the lake. In rain, the first gray light could be less than two hours away.
 
-The road lay uphill beyond the parked car. In the other direction, a narrow path descended to the dock and Malik's aluminum boat.
+“Can it follow us over water?”
 
-“Can it cross water?” Anjali asked.
+*Not efficiently. Your strongest move is the dock.*
 
-The answer came at once. *Poorly. The dock is your safest route.*
+A single route arranged the night into something Anjali could do.
 
-That clean certainty loosened the knot under her ribs. She turned to the others. “Mine says the dock. Boat gets us across the lake before dawn.”
+Malik shook his head before she spoke. “Mine says there is something solid inside it. That's all it will commit to.”
 
-“Mine says stay low and watch its center,” Malik said.
+“Solid can drown,” Anjali said. “We take the boat.”
 
-Devika stared toward the back door. “Mine says moving is better than waiting.”
+Devika had already pulled the car keys from their hook. She pocketed them, then took the iron poker from beside the stove. “I am coming with whoever opens a door first.”
 
-They took raincoats from hooks without standing upright. Malik went first with the long-handled fireplace poker because it was the nearest thing to a weapon. Anjali carried the cabin flashlight and the marked-up game map without knowing why she had grabbed the map. Devika pocketed their phones and Malik's car keys.
+It was not agreement, but the north wall groaned again. Malik gave them each a rain jacket and led them through the mudroom on hands and knees. The voice warned Anjali to keep left. She repeated the instruction. Nobody asked why it knew.
 
-Outside, the rain had thinned to cold needles. The path to the dock ran between black spruce trunks, down twenty slick wooden steps, then over a strip of pebble beach. Anjali knew the geometry: eighty paces from back door to water, the boathouse on their right, no branch paths. A single line. A correct line.
+They burst outside together.
 
-They reached the twelfth step before the world below them folded.
+Cold rain needled Anjali's face. The dock lay below them, past twenty wooden steps and a narrow beach. Malik's flashlight cut a white bar through the spruce. For the first ten steps there was only wet bark, silver gravel, and the boat bumping softly against its fenders.
 
-The spruce shadows joined across the path. Something assembled itself from their absence: three jointed limbs braced between the trunks, then five, then more than Anjali could count as they crossed and recrossed. It had no skin and no face. Rain vanished into it. One reaching point struck the handrail where Devika's throat had been a moment before, showering them with splinters.
+At the eleventh, Devika stopped so abruptly Anjali struck her back.
 
-Malik dropped flat. Devika hauled Anjali backward by her hood as another limb swept over them.
+The darkness beneath the trees had acquired corners.
 
-The flashlight rolled down two steps and shone upward. For an instant its beam entered the shape through a seam at its center. Anjali saw a hard object turning there, no larger than her fist: a many-sided black stone whose edges stayed sharp while everything around it flexed.
+It unfolded across the stairway in long connected spars. One planted itself on the dock. Another hooked the handrail. Three more met above the path and flexed downward, a cage assembling around the place where the voice had told Anjali to stand.
 
-“Anchor,” Malik said. “That's the center.”
+Malik swung the flashlight low. Its beam passed under the nearest spar and found a black polyhedron turning at the center of the shape. It was the size of a grapefruit and all edge, each face swallowing light without reflection.
 
-The shape contracted. The flashlight went out.
+“Solid,” he said. “There.”
 
-They scrambled uphill. Anjali lost the map, recovered it, and reached the back door with wet knees and a bleeding palm she did not remember cutting. Malik slammed the bolt. The next impact dented the door inward, but the hinges held.
+The thing struck.
 
-On the table, the dice remained balanced. Anjali swept the noodles aside and spread out the damp map. It showed ruined towers and underground rivers, nothing outside the cabin. Malik flipped it over. On the blank paper he drew the lake, road, cabin, dock, car, woodpile, and the old fire clearing north of the porch.
+Devika shoved Anjali off the step. A point punched through two stair boards where Anjali's knee had been. Malik fell against the rail, and a second spar pinned his jacket to the wood. Devika brought the poker down on it. Iron rang; the black length did not break, but it loosened enough for Malik to tear free.
 
-“Exact words,” Anjali said. “Not what we think they meant.”
+“Cabin,” he said.
 
-Malik wrote as they spoke. Her voice had called the dock *safest*. His had said, *Stay low. Its anchor cannot hide from an eye beneath its reaching limbs.* Devika's had said, *Movement preserves more possibilities than shelter.*
+“It has the cabin.” Anjali could see another limb dragging itself uphill between the trees.
 
-“Three pieces of useful advice,” Anjali said. “And it was waiting on the dock path.”
+“The cabin has doors. Move.”
 
-*Because its maker anticipated water,* her voice said. *You should try the road while it is extended downhill.*
+They climbed as the Countermove gathered behind them. The path lights went dark one by one, not extinguished but covered. At the top, Anjali turned and saw the polyhedron pull its limbs after it. The whole creature had been built around that one hard piece.
 
-She almost repeated that. Instead, she asked Malik, “Did yours say anything just now?”
+Devika yanked the mudroom door open. A black point swept over their heads as they dove through. Malik kicked the door shut, dropped the oak bench against it, and wedged a split log beneath the handle. Something hit the outside. The bench skidded the width of Anjali's palm.
 
-His expression tightened. “It says the car is covered.”
+“Screws,” Malik said. “Red toolbox under the porch worktable.”
 
-The cabin creaked. A pointed limb tapped once on the road-facing window.
+Devika had the door open before either of them caught her. She slipped through the gap, leaving the car keys on the floor, and vanished into the rain.
 
-Devika placed the phones on the map. Their batteries had all fallen below twenty percent although none had been low at dinner. “We test before we vote ourselves off the island.”
+“Devika!”
 
-They agreed aloud to make another attempt at the dock. While saying it, they each committed to the woodpile: out the front, sharp right, shelter behind the stacked birch. Malik set a camping lantern in the road-facing window so they could see any movement. Anjali's voice protested that returning to the dock was unwise, then recommended the woodpile as soon as Anjali pictured the route clearly.
+The Countermove was dragging itself toward the lake. One limb passed above the steps. Another searched the beach. None turned toward the small figure crouching beside the porch.
 
-The lantern went black. A branch of the seeking shape unhooked itself from the cabin roof and descended toward the birch stack.
+Devika snatched the red toolbox from beneath the outdoor worktable and came back at a run. Malik pulled her inside by the back of her jacket. The door slammed. A black point struck the porch a full second too late.
 
-“It doesn't hear lies,” Malik said.
+“You heard me,” Malik said.
 
-“Or it hears them and doesn't care.” Anjali marked an X over the woodpile.
+“I heard you. Mine didn't.” She pushed the toolbox against his chest. “I moved before it could improve the idea.”
 
-The door latch clicked behind them.
+Anjali grabbed the keys from the floor. “Did your voice send you?”
 
-Devika was gone.
+Devika wiped rain out of her eyes. “Mine was busy telling me to run north without you.”
 
-Malik lunged for the bolt, but before he reached it the door opened again. Devika slipped inside carrying the fallen flashlight. Mud streaked one sleeve. She relocked the door and leaned against it, breathing through her nose.
+Malik opened the toolbox. “How long?”
 
-“Are you trying to get killed?” Anjali demanded.
+“Since the thing touched the dock.” Devika tore a packet of deck screws open with her teeth. “It says two deaths are better than three. I disagree with its arithmetic.”
 
-“I was trying to get our good flashlight.” Devika set it on the table. The lens was cracked, but its beam worked. “It was lying beside the steps. I saw it through the mudroom window, and I went before I could decide it was a plan.”
+The bench jumped again. Malik drove the first screw through its leg and into the floor. “Hold that end.”
 
-“The thing?”
+Anjali held it while he worked, though every instinct in her wanted the map, the facts, the one missing inference. “Mine says it wants all of us alive.”
 
-“Still stretched toward the woodpile. One of its points passed over the steps after I was back inside.”
+“Yours likes you,” Devika said. “That is not the same guarantee.”
 
-Malik looked from her to the map. “What did your voice say?”
+*The road is briefly open,* the voice said. *Take the car now. If the others remain, the Countermove may follow you away from them.*
 
-Devika rubbed rain from her face. “Nothing until I picked up the light. Then it asked what I thought I was doing.”
+The car alarm began to scream uphill.
 
-Anjali drew a small circle beside the back steps. One route on the map did not end in an X.
+All three of them looked toward the road-facing window. A branching shadow covered the glass. Metal crumpled outside; the alarm cut off mid-wail.
 
-“It didn't know,” she said.
+Malik stopped turning the screwdriver. “Mine said the car would be hit before yours did, but the thing was still below us. Then your voice named the road.”
 
-“Mine doesn't know everything,” Devika replied. “It mostly knows how to give orders.”
+“You can't know which came first.”
 
-There was something in the way she said it, an edge that had been waiting longer than the question. Malik heard it too.
+“I can know where the dents are.” He pointed the screwdriver toward the ceiling. “Mine says the roof beams will hold longer than the doors. If it tells me the loft is safest, watch what happens.”
 
-“What order?” he asked.
+“Don't feed it another—”
 
-Devika looked at neither of them. “Go north along the shore. Alone. Let the shape spend itself on the two people taking the obvious routes.”
+His gaze went distant for half a breath. Above them, claws of blackness raked across the shingles.
 
-The fire popped behind Anjali. Her neat drawing of the cabin suddenly resembled the little square rooms on the other side of Malik's screen, each waiting to disclose what it contained.
+Malik nodded once. “That's enough.”
 
-“How long has it been saying that?” she asked.
+Anjali's voice pressed close. *The car remains your best chance. You are quicker at choosing than the others. Go before they make the choice for you.*
 
-“Since the dock.”
+She closed her fist around the keys. The road would draw the creature from the cabin. If she could reach the car, if Malik's guide was wrong, if speed counted for more than trust—
 
-“And you didn't tell us?”
+Devika held out her hand. “Keys.”
 
-“I did not leave.” Devika's voice sharpened. “You told us the dock was safe because yours sounded kind. Forgive me for taking ten minutes to work out whether mine being cruel meant it was wrong.”
+“I can pull it uphill.”
 
-Outside, the shape scraped across the roof toward the road. The woodpile route had taught it enough to reach both sides of the cabin.
+“Keys.”
 
-*The road remains possible,* Anjali's voice urged. *If you go now, alone, it may follow you away from the others. You are the best at reading the field.*
+“It follows the likeliest route. Give it one.”
 
-The praise found the exact weak place in her. One correct path. One person willing to take it. Anjali picked up the car keys, and Malik caught her wrist.
+Devika stepped close enough that Anjali could smell rain and iron on her jacket. “Mine told me the same plan with your name where mine is. I didn't call that rescue.”
 
-“Mine says the car is certain death,” he said.
+Malik set down the screwdriver. “The roof when my voice named the loft. The car when hers named the road. The steps when yours named the dock. Motive can wait.”
 
-“Mine says it's the only move that keeps the thing from town.”
+The keys bit Anjali's palm. Her voice had saved her from small disasters for weeks. Tonight every clean instruction had become another joint in the thing outside.
 
-“And hers says sacrifice us,” Devika said. “Listen to the pattern, not your favorite narrator.”
+She gave the keys to Devika.
 
-Anjali looked down at the map. Dock, woodpile, car: each route had become more dangerous after one of the voices judged it. The advice had saved them from the immediate strike and sharpened the next one. Their guides did not need to betray them. They only needed to keep guessing.
+“You said we had to figure it out and solve it,” Anjali told the voice. “What did you leave out?”
 
-She let the keys fall.
+*We did not leave out—*
 
-“You said the rest of you must guide us to solve it,” she told the formless voice. “What counts as solved?”
+“What ends it?”
 
-Silence lasted long enough that she knew the answer had been withheld, not unknown.
+The presence withdrew, as if consulting a rulebook she could not see. The Countermove hammered the cabin again. One deck screw pulled half out of the floor.
 
-*If you expose the anchor,* it said, *one of us can open a return aperture. We cannot touch what our friend placed while the seeking shape encloses it. That is part of the game.*
+*The anchor must be separated from its reaching body. Then one of us can open the placement path and take it back. We cannot touch it while the body encloses it.*
 
-“A rule.”
+“Does it hear us?”
 
-*Yes.*
+*No.*
 
-“Does the shape read our minds?”
+“Thoughts?”
 
-*No. It receives our forecasts. Each interception gives it more material reach.*
+*No. It receives the forecasts registered by the players. Strong agreement gives it a narrow body. Uncertainty forces it to divide its reach.*
 
-Malik gave a small, furious laugh. “You've been feeding it.”
+Malik measured the steel dice case between his hands. “Your advice is rangefinding.”
 
-*We have also kept you alive.*
+*Our advice has prevented three deaths.*
 
-Both things were true, which made the voice harder to dismiss and more dangerous to obey.
+“And Devika crossed the porch when none of you called the move,” Anjali said. “From now until I ask for the path, you say nothing.”
 
-Anjali turned the map toward her friends. “Devika got past it because she chose after her guide had made a prediction. So we need a plan none of them can finish predicting.”
+*A guide cannot abandon a chosen—*
 
-*I can help you construct—*
+“Then lose.”
 
-“No. Helping now means silence.”
+The voice went still.
 
-The presence recoiled. Anjali had not known it could feel farther away while remaining inside her thoughts.
+Devika spoke aloud to someone Anjali could not hear. Her side of the exchange lasted four words: “No. Watch me leave.” Malik listened longer, jaw working, before he said, “Measurements after. Not during.”
 
-“All three of them,” she said to Malik and Devika. “Tell them. If one gives a hint, we stop.”
+With the voices gone, Anjali could hear the deck screws ticking loose in the floor. Outside, the Countermove scraped from the crushed car to the roof and back toward the dock, stretched among three stale answers.
 
-Devika's instruction took seconds. Malik had to argue with his voice, which apparently regarded silence as a category error. At last he nodded.
+Malik turned over the battle map. On its blank side he drew the cabin and the old fire ring north of it. “The solid part was uphill of the dock when we saw it. It has to move through the clearing to reach all three sides.”
 
-The cabin settled around them. Without the voices, the rain sounded larger.
+“We find it with these.” Anjali plucked the balanced four-sided die from the case.
 
-They built their answer from ordinary game-night objects. Malik's steel dice case had a hinged lid and a stubborn latch. Devika tied the fireplace poker to orange utility cord, making a hook long enough to catch the anchor without putting her hand inside the shape. Anjali divided the approaches to the fire clearing into three routes and marked each with torn strips of dish towel. They carried the same useful supplies to every route: light, spare cord, and a cup of Malik's heavy metal dice.
+She set it on the floor. It fell onto a face. At the north wall, the same die rocked once and rose onto a point.
 
-The dice served another purpose. Close to the anchor, they balanced at impossible angles. A handful cast near the porch fell normally; near the north wall, two stopped on edges. Farther into the trees, pine needles hung in little bridges between roots without touching the mud. By comparing the useless, eerie balances along all three approaches, they located the anchor's current resting place near the center of the fire clearing.
+Malik tested three more. Near the kitchen they rolled normally. Beside the cold fireplace, a twelve-sided die stopped on an edge despite the slanting hearthstone. Near the anchor, balance had too many answers. A pine needle outside could bridge between two wet stones. A dropped washer rested upright in mud.
 
-They did not choose who would take which path. Instead they agreed on three arrangements, each equally workable. In the first, Devika would take the lake path, Malik the ridge, and Anjali the stony wash. The second moved Devika to the wash, Malik to the lake, and Anjali to the ridge. The third put Devika on the ridge, Malik in the wash, and Anjali by the lake. Devika would always carry the hook, Malik the case, Anjali the brightest lantern. Every route converged on the clearing from a different side.
+They followed those small impossibilities along the walls while the creature worried at the cabin. The strongest distortion pointed toward the old fire ring.
 
-“I hate plans with tables,” Devika whispered as they stood at the trail fork.
+Their tools were what the cabin offered. Devika bent the poker's hooked end wider and tied it to the orange boat line. Malik emptied his dice into a cooking pot and worked the damaged clasp of the steel case until it shut without sticking. Anjali found three lanterns, only one bright enough to show the anchor through the black body.
 
-“It's three rows.”
+She began assigning routes. Devika cut her off.
 
-“In the rain, while hunted by evil geometry.”
+“No. You pick people too fast.”
 
-“Conditional geometry,” Malik said. “We don't know that it's evil.”
+“Somebody has to carry each thing.”
 
-“I am comfortable being prejudiced against this one.”
+“The die picks who. We decide what.”
 
-He put a twenty-sided die beneath an enamel mug on a flat stump. One through six would repeat the first arrangement, seven through thirteen the second, fourteen through twenty the third. No one would know until the mug lifted.
+Malik put the twelve-sided die beneath an enamel mug. Four numbers for each rotation: hook on the ridge, hook in the wash, hook by the lake. The box and bright lantern would rotate with it. Every person rehearsed every tool once, badly and in silence. Anjali's first throw with the line tangled around her boot. Malik could not swing it without telegraphing his shoulder. Devika snapped the dice case shut so hard the clasp jammed.
 
-Beyond the stump, the seeking shape had thinned itself through the forest. Anjali saw one narrow limb reach toward the lake path, another tremble above the wash, and a third comb the ridge. All three choices were sincere because they had committed to obeying the die. The forecasts, deprived of a favorite, had pulled the construct in three directions.
+They corrected the failures, then carried all three sets of supplies to the fork below the fire ring. No one chose a path. No one asked above.
 
-Malik shook the mug against the stump. The die rattled like a tiny machine trying every future in turn.
+The Countermove had become a black web among the trees. A limb lay across the ridge. Two probed the wash. Another hovered over the lakeside trail. Unable to settle on one expected arrangement, it had spent itself covering all of them. At its center, the anchor flickered between gaps.
 
-He lifted it.
+Malik crouched over the mug. “Once I lift, don't repeat the number.”
 
-Sixteen.
+“Don't explain it either,” Devika said. “Move your feet.”
 
-Devika ran for the ridge. Malik plunged into the wash. Anjali took the lake path, lantern swinging at her side.
+He shook the mug against a flat stone. The die knocked twelve possible answers around inside the dark.
 
-The shape reacted a heartbeat too late. A limb snapped down behind Anjali and punched through the trail where her boot had been. She ducked under another, then raised the lantern high. Its light vanished into the reaching black, keeping that branch extended toward her while the rest of the construct tried to gather itself.
+When Malik lifted the mug, the upper face showed eleven.
 
-Across the clearing, Malik slid on wet stones and drove the open steel case beneath the shape's center. Devika came over the ridge above him. The orange cord uncoiled behind her.
+Devika seized the hooked line and ran up the ridge. Malik took the case into the wash. Anjali caught the bright lantern and sprinted along the lakeward path.
 
-The anchor was no longer hidden. Its stretched limbs had drawn the dark body thin as burned cloth, and the many-sided core turned in a web of tight black strands.
+The Countermove chose late.
 
-Devika swung the poker. The hook glanced off one edge with a bell-like crack that Anjali felt in her teeth. She pulled it back, planted both feet, and swung again. This time the bent iron caught around the anchor.
+Its ridge limb stabbed where Malik would have been in the first arrangement. The wash closed around an absent hook. By the time the lakeside branch found Anjali, she had already thrown herself under it. Cold blackness passed over her back without weight or texture, erasing the patter of rain for one breath.
 
-“Down!” she shouted.
+She came up inside the fire ring and raised the lantern.
 
-Malik dropped over the case. Devika hauled. The anchor tore free, snapping the strands one after another, and struck the steel tray hard enough to buckle its bottom. Malik slammed the lid. A pointed limb wrapped around his ankle and dragged him half a meter through the mud before Anjali struck it with the lantern. The glass burst. The limb loosened, darkness streaming from it like ink in fast water.
+The Countermove folded toward the light. That move, at least, it could predict from her body. Its nearest spars gathered above her while the others tore free of the wrong routes. Between them the anchor hung naked, revolving in a nest of hair-thin black cords.
 
-Malik rolled onto the case and forced the latch closed beneath his weight.
+Malik slid down the wash on one knee and shoved the open dice case beneath it.
 
-The shape came apart overhead. Its pieces had no gravity of their own; they whipped toward the steel box from every direction, bending young trees and stripping wet needles from branches. The dented lid began to open under Malik's chest.
+Devika's first cast of the poker passed high. She hauled the line back hand over hand. The creature bent toward her. A pointed limb punched into the ridge and trapped the loose cord.
 
-Anjali reached for the absent voice. “I need you now. Open the return aperture.”
+“Leave it,” Anjali shouted.
 
-*Where?*
+Devika looked at the pinned line, then at the anchor. She did not obey. She ran downhill, straight at the limb, and kicked the cord free an instant before the black point struck again. Her second cast caught one sharp corner of the polyhedron.
 
-“Under the case.”
+Malik braced the case with both hands. “Now.”
 
-The mud beside Malik split along a line too fine to be a crack. Gray light widened beneath the steel, no landscape beyond it, only depth without distance. The opening did not resemble any door Anjali had seen or imagined. Good. It belonged to its own rules.
+Devika pulled. The black cords tightened. Anjali swung the lantern into them. Its wire cage crumpled against something with no visible surface. Glass burst, and the cords sprang apart under the blow long enough for the anchor to tear loose.
 
-Malik shoved the case sideways. The leading edge crossed the gray line and vanished. The pull on his ankle released so suddenly that he kicked free. He pushed again. The aperture took the case, the anchor, and the last hooked strand of the seeking shape.
+It dropped into the case.
 
-Then it closed.
+Malik slammed the lid. The Countermove collapsed toward him, every spar reversing at once. One wrapped his forearm; another hooked his boot and dragged him through the fire ring. He kept both hands on the box.
 
-Rain struck mud. Needles fell from the shaken trees. Somewhere down by the water, a frog resumed an argument it had apparently been saving.
+Anjali reached for the silence inside her mind. “Path. Under Malik.”
 
-Devika sat on the ridge with the poker across her knees. Malik stared at the empty place where his dice case had been.
+The voice answered without commentary. *Opened.*
 
-“That was my good tray,” he said.
+A gray seam divided the mud beneath Malik's shoulder. It widened into depth without revealing any place beyond. Malik rolled, dragging the case across it. The steel corner vanished. The black limbs pulled harder, stripping stones from the fire ring and bending the nearest sapling nearly flat.
 
-“Call it an equipment cost,” Anjali said.
+Devika dropped the poker and grabbed Malik's jacket. Anjali threw her weight against the back of the case. For one second the clasp hung at the seam, half here and half nowhere.
 
-“I will call it evidence.”
+Then it passed through.
 
-“Of what? We sent it away.”
+The Countermove followed its anchor. Spars ripped out of the trees and poured into the gray opening, narrowing as they went. The limb around Malik's arm vanished last. The seam closed on empty mud.
 
-He held up his hands. The latch had scored a red line across one palm. “Of poor purchasing decisions.”
+Rain reached the ground again.
 
-By the time they returned to the cabin, the spoon lay on its side in the curry and every die had fallen flat. Dawn diluted the windows. They changed into dry clothes, wrapped Malik's hand, and reheated noodles that had acquired the texture of packing material.
+Malik stayed on his back, feeling along his forearm. The sleeve was torn, but the skin beneath showed only a dark bruise. Devika sat in the wet ashes with the orange line looped around both wrists. Anjali waited for the voice to name the victory.
 
-The voices returned only when invited.
+It kept silent.
 
-Devika listened to hers first. Her mouth tightened. “It says preserving one participant was considered an acceptable victory condition.”
+“Good,” she said, and helped Malik stand.
 
-“Tell it there was no victory condition,” Malik said. “There were three people.”
+By dawn, the cabin had a cracked window, a ruined porch step, and one door that still latched. Malik taped plastic over the glass while Devika returned the car keys to their hook. She did not offer an explanation, and Anjali did not ask for one. They made coffee in a saucepan while the abandoned teaspoon lay at the bottom of a cold cup.
 
-She did. Whatever answered made her push her bowl away.
+Malik put the twelve-sided die at the center of the table. “This one is not going into evidence.”
 
-Malik's voice, by his report, apologized with a list of incorrect forecasts. That was apparently the only kind of apology it knew how to make.
+“You don't have evidence,” Devika said. “You mailed it through a hole in the ground.”
 
-Anjali's waited.
+“I have an invoice for a windshield.”
 
-“You wanted something with me,” she said. “Was it only to win?”
+Anjali's laugh came out once, sharp and unfinished. Her hands had begun shaking now that nothing needed them. She set her brass scout beside the die.
 
-*At first, I wanted to see what you would do. Then I wanted you to survive. I mistook permission to advise you for permission to place you inside our game.* The voice had lost its careful cheer. *We believed that because we opposed the maker, we stood on your side.*
+The voice waited until she addressed it.
 
-“You were on our side. You were also above the table.”
+“Now you may speak.”
 
-*I understand the distinction now.*
+*Our peril is contained. The others ask whether your table will continue the game.*
 
-“You understand that there is one. We'll see about the rest.”
+“No.”
 
-She tore a blank sheet from the back of Malik's campaign notebook. Across the top she wrote SESSION ZERO. Beneath it, the three friends argued out terms. No created perils without the informed agreement of everyone exposed to them. No hidden victory conditions. Every participant could withdraw, including the people being guided. Information about danger belonged to all of them, not to whichever player hoped to claim the cleverest rescue.
+Its surprise was colder than its delight had been. *Never?*
 
-The formless voice objected once, saying it could not promise what the maker would accept.
+“You don't get that answer yet.” Anjali turned the enamel mug upside down over the die. “If there is another game, we make the danger. You answer when one of us calls. Nothing is placed here unless all three of us lift this cup.”
 
-“Then you cannot promise another game,” Anjali said.
+Devika put both hands in her lap. Malik resumed winding tape around the broken window frame.
 
-That ended the objection.
+*The one who made the Countermove will object.*
 
-When the page was full, Malik and Devika added their names. Anjali left space beneath them.
+“Then it can play without pieces.”
 
-*Does this mean we will play again?* the voice asked.
+The voice receded. For a long moment there was only tape tearing, coffee beginning to boil, and rainwater ticking from their jackets onto the floor.
 
-She slid the page to the empty place beyond the fallen dice. “It means you can take the rules to your friends. No one makes another move until everyone at both tables agrees.”
+When it returned, it spoke without warmth. *No piece will be placed until your cup rises.*
+
+Anjali looked at her friends. No one reached for the mug.
+
+“Then wait.”

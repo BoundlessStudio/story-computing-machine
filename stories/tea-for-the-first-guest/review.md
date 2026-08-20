@@ -12,7 +12,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The tower, wood, roads, cities, and home are unnamed; no place proper noun appears. |
+| None | none | The tower, ridge, gully, valley, roads, and historical regions are unnamed; no place proper noun appears. |
 
 ## Continuity
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The corrected six-person household count matches the young man and his five listed relatives. The required tea-table exchange and its promise of genuine conversation are fulfilled; the wizard supplies the story's living magical agency, and no nonliving object acts independently.
+- Notes: The required fresh-tea exchange grows into coercive but nonlethal hospitality; the guest proves the door is freely usable, and the wizard breaks his concealment focus before walking toward the inhabited road. The wizard supplies every working, while the glass disk only focuses it.

@@ -8,312 +8,498 @@ canon: false
 
 # The One Who Helped Everyone
 
-The knocking started before sunrise, and you were halfway through saying yes before you had lifted the latch, still in your nightshirt with your iron-gray beard flattened on one side.
+The first knock came while night still filled the window over your sink.
 
-On the other side stood the cooper's youngest, one boot in his hand and his bare foot tucked behind his other ankle. His mother held him by the shoulder. Behind them, the miller waited with a loop of iron from the sluice gate, the midwife cradled a gray stone in both palms, and the baker had brought her starter crock despite the rule about keeping dough away from you.
+“Yes,” you called, already reaching for your trousers. “What is it?”
 
-You opened the door wider.
+You had the answer in the right order only because the door was still shut. Usually yes came before the question.
 
-“What happened?” you asked.
+On the step, the cooper's granddaughter balanced on one boot and held up a bare heel. A splinter of black pine lay deep beneath the skin. Behind her, the midwife carried a cradle stone wrapped in a scarf, a goat keeper wanted the ice cleared from a feeder pipe, and the baker had brought a loaf tin with one corner crushed flat. A covered bowl rested in the baker's basket, though she knew better.
 
-The boy showed you the splinter in his heel. It was long, black, and buried too deep for his mother's needle. You sat him on your wood box, cupped his cold foot, and found the splinter by the small wrongness of it: dead wood caught in living warmth. Your magic slipped down through your thumb and forefinger, finer than sewing thread. The splinter backed out along the path it had entered. The boy watched it rise with round, solemn eyes and laughed when it dropped into your palm.
+“You'll have to sit,” you told the child.
 
-You liked that laugh. You liked the instant in which pain ceased and surprise took its place.
+“I can stand.”
 
-The miller's iron loop had frozen solid around its pin. You laid two fingers against it and persuaded the ice nearest the metal to loosen first. Water ticked onto the floor without the iron heating enough to swell the wooden housing. Then you pressed warmth into the midwife's stone, layer by patient layer, until it would hold through a difficult birth without scorching the blankets.
+“You can fall standing. Sitting is quicker.”
 
-No one else in the village had been born with magic. Beyond the last goat track, the mountains rose high enough to turn travelers elsewhere, so as far as most villagers were concerned, magic meant your hands and a problem in front of them. People had begun knocking before breakfast when you were twelve. Forty-six years later, they still did, though now some of the children you had once helped sent grandchildren of their own.
+She sat on your chopping block. You held her cold foot between your palms and sent a thread of magic after the splinter. The trick was not to pull. Wood buried itself roughly, tearing a crooked little road; you persuaded it to remember that road in reverse. The splinter rose dark and whole. The child drew breath for a howl she no longer needed, then laughed instead.
 
-By then the baker's crock had begun to knock under its lid.
+After forty-six years of answering doors, that exchange still delighted you: pain gone, fear unnecessary, one small thing exactly where it belonged.
 
-“I haven't even touched it,” you said.
+You were the only person in the village born with magic, and the mountains turned most travelers aside. Here, magic meant your hands and a problem close enough to touch.
 
-“You walked past it.”
+The cradle stone required another sort of attention. You fed warmth into its inner layers, pausing while the midwife tested it against her wrist. Too much would scorch blankets; too little would leave her waking a stove while somebody labored. At her nod, you stopped.
 
-The dough pushed a pale tongue through the cloth tied around the rim. Your magic always made yeast ambitious for a little while. No one knew why. The baker usually hid every crock on the cool shelf when you visited, but this morning she had forgotten.
+The goat keeper began explaining the feeder pipe.
 
-You scraped the overflow back with a spoon. “Yes, I'll settle it.”
+“I'll come after breakfast,” you said.
 
-“I only came to ask if you could look at my oven hinge.”
+“You haven't heard which pipe.”
 
-“Oh.”
+“The east one.”
 
-Someone at the end of the line snorted. Before you could ask who was next, three strangers came up the path through the blue half-light.
+“The north.”
 
-All three wore traveling coats grayed with old salt and fresh mud. The first was a lean woman with silver threaded through her close-cut hair. She stepped carefully, as though the ground might object to careless feet. The second, a broad man with a pack built more neatly than most village roofs, kept glancing back at the mountains. The third was younger than either, red-cheeked from the climb and breathing too hard to conceal his excitement.
+You revised your promise while everyone laughed. The baker lifted the battered tin.
 
-He reached the queue, looked from face to face, and asked, “Where is the one with the absurdly massive amount of magical energy?”
+“This can wait,” she said. “The oven hinge cannot.”
 
-Every hand pointed at you, a fifty-eight-year-old man still dressed for bed.
+“I'll do both.”
 
-Even the boy on the wood box pointed with his splintered foot.
+“You don't even know what the hinge is doing.”
 
-You laughed. “No, you've mistaken busy for powerful.”
+“I'll look at it and then do it.”
 
-The silver-haired woman did not laugh. Her gaze moved from your hands to the waiting cradle stone, and something in her expression sharpened.
+At her feet, the cloth over the bowl rose into a pale dome.
 
-“May we speak inside?” she asked.
+The baker closed her eyes. “And now the dough.”
 
-“Of course. You must be frozen.” You turned toward the miller. “I'll come to the gate after breakfast. And the oven hinge. And—”
+“I never touched it.”
 
-The baker caught the swelling crock against her apron. “Go find out why the mountain has sent you three muddy questions.”
+“You warmed the stone beside it.”
 
-Your kitchen was hardly large enough for four chairs. The road-wise mage took off his pack but kept it close to his knee. The youngest stared openly at the kettle, the table, and you, as if one of them might erupt. The teacher accepted a cup of nettle tea, then waited until your hands were still.
+Yeast became excitable for several minutes whenever you worked nearby. The baker usually hid her starters on the coldest shelf when you visited. This morning she had expected conversation, not magic.
 
-“We followed a pressure through the pass,” she said. “Not a spell. Not an attack. The trace living magic leaves when it is used often enough. We expected a gathering of mages, or one very large working.”
+You untied the cloth. Dough climbed over your knuckles.
 
-“You found a splinter.”
+Three strangers came up the path while you were scraping it back into the bowl.
 
-The youngest made a strangled sound that might have been laughter. The teacher silenced him with a look.
+The woman in front had silver in her cropped hair and mud to both knees. The broad man behind her wore his pack as if built around his spine; he watched the clouds snagged on the western ridge. The youngest was grown, though eagerness made him seem younger. He saw magic fading from your fingers and nearly walked into the goat keeper.
 
-“I would like to sound your magic,” she said. “I send a strand of mine only far enough for you to feel it. You follow it inward. I take nothing, and I learn only what the strand touches. If you dislike the sensation, you let go.”
+“Where is the one with the absurdly massive amount of magical energy?”
 
-You had never heard anyone explain magic before doing it. At home, people pointed; you acted. “Will it help you?”
+Everyone pointed.
 
-“It may answer why we came.”
+The child pointed with the foot you had just mended. The baker pointed with a hand furred in dough. Even the midwife, who considered pointing rude, aimed her chin at you.
 
-“Then yes.”
+You looked behind yourself. “There is only my kitchen.”
 
-Her mouth tightened, not quite displeased. “Do you want the answer?”
+The young mage stared. “It's you.”
 
-You looked at the youngest, who seemed in danger of splitting from curiosity, and at the road mage. He pressed his thumb to a small brass compass, fed it a brief glimmer, and set it on the table. Its needle pointed toward you instead of north.
+“I'm busy. That can feel massive from the end of a queue.”
 
-You wanted to know.
+The silver-haired woman studied you without the youngest's appetite. “May we speak where fewer people are listening?”
 
-The realization was so small and clean that for a moment you mistrusted it. “Yes,” you said again. “I do.”
+“You need breakfast first.”
 
-The teacher laid two fingers against the inside of your wrist. A filament of her magic entered you, cool as water drawn before dawn. It carried no command. You followed.
+“We ate below the last rise,” said the broad traveler. “We need a decision before tomorrow's light.”
 
-You knew the familiar way outward: the narrow passage from somewhere behind your ribs, through shoulder and elbow, into the exacting little gates of your fingers. Years of small work had worn it smooth. You could find the difference between ice and iron there, between a splinter and a heel, between warmth held safely and warmth spilled.
+“About what?”
 
-Her strand led the other way.
+“That,” the woman said, “is easier indoors.”
 
-Behind the narrow passage was depth.
+You began telling the queue when you would reach each task. The baker interrupted before you had promised the same hour to three people.
 
-At first you mistook it for darkness. Then your attention adjusted, and the dark continued downward. You felt weight without pressure, distance folded into the width of your body. The teacher's strand descended like a pale fiber lowered into a well, except it reached no waterline, struck no bottom, and began to tremble in her hand.
+“Go,” she said. “I can punch down dough without sorcery.”
 
-The kitchen vanished from your notice. Somewhere below thought, an expanse answered the touch—not by waking, because it had never slept, but by making its presence impossible to ignore. All your life you had drawn a cup at a time from a reservoir large enough to drown the measure you brought to it.
+You brought the travelers into your kitchen. You hung their wet coats, filled the kettle, found three cups, and asked whether anyone had chilblains before you remembered that none of them had answered your question.
 
-The teacher broke contact.
+The broad mage set his pack between his boots. “No damaged feet. No missing food. The pass takes snow tomorrow, and the upper shelf may ice before noon.”
 
-The road mage's compass needle spun so fast it clicked against the glass. He caught it, swore softly, and crossed to the window to look toward the pass, as if checking that they had truly come by the right mountain.
+“So you need lodging?”
 
-The youngest whispered, “That's more than the eastern—”
+“We need to be across it.”
 
-“No comparisons,” the teacher said.
+The woman waited until you stopped searching the cupboard for honey. “Do you want to know why we came?”
 
-“I ran out of good ones.”
+You were holding four spoons though there were only three cups.
 
-You rubbed your wrist. The depth remained, once noticed. “Can I use it?”
+“Yes,” you said, and set them down. “I do.”
 
-“You have been using it,” she said. “Capacity is not release. Release is not reach. Reach is not control.”
+They had felt your magic from beyond the ridge, she explained. Each had put living magic into the search and found the pressure left by years of small workings passing through one person.
 
-The youngest leaned forward. “But with training—”
+“You followed splinters and warm stones over a mountain?”
 
-“With training,” she cut in, “we may discover what training changes.”
+“And hinges, cuts, damp cellars, tired livestock, and a great deal of bread behaving badly,” said the youngest. “The pressure is like standing below a lake with only a wall between—”
 
-You set your hand against the kettle. Heating water was easy. You had done it since childhood, first by accident and later whenever kindling was damp. This time, aware of all that lay behind the familiar passage, you reached wider.
+The woman looked at him.
 
-The passage did not widen. Magic pressed against it. Your first two fingers went numb. The kettle remained lukewarm while the teacher's untouched tea began to steam.
+“Below something large,” he amended.
 
-You pulled back. A sharp little pain ran from your nails to your elbow.
+She turned back to you. “I can offer a sounding. Mine would be the only magic entering you. Follow it toward your source; I feel only the shape nearest our contact.”
 
-“That,” said the road mage, still at the window, “is why we don't test unknown reserves in wooden kitchens.”
+“What might go wrong?”
 
-The youngest looked chastened. The teacher pushed the steaming cup away before it could boil.
+“Cold, perhaps dizziness. Either of us can break contact. I will if your release changes.”
 
-Their teaching house stood beyond the high pass. There, the teacher said, winter was used for slow work: learning the shape of one's release, separating one intention from another, stopping before numbness became injury. They had room for you. They could leave at dawn.
+You flexed your hands. “Will it tell you how much there is?”
 
-“If you need me, I'll come,” you said.
+“No. It may tell us whether what we followed is truly yours.”
 
-The teacher folded her hands around the cup you had accidentally heated. “That is precisely the answer I cannot accept.”
+“If it is?”
 
-You thought you had misheard her.
+“Then I ask another question.”
 
-The road mage tapped the window. Clouds were gathering above the western shoulder of the pass. “Snow tomorrow afternoon, perhaps earlier. We cross at first light or remain on this side until spring.”
+The youngest leaned so far toward the table that the road mage caught the back of his chair with one boot.
 
-“Then you do need an answer quickly.”
+You had spent your life learning what magic did after somebody pointed at a problem. Nobody had ever offered to show you the other direction. Curiosity arrived without an ache to ease or a latch to mend. It made your ribs feel hollow.
 
-“We do,” the teacher said. “But we do not need you to relieve us of asking.”
+“Yes,” you said. “Sound it.”
 
-Outside, someone knocked. You stood before you had decided to.
+A cold filament formed between the woman's living fingers. It was thinner than spider silk and did not move until she pressed those fingers to the inside of your wrist. Then you felt her magic: cautious, deliberate, waiting at the entrance to the narrow route you knew so well.
 
-The teacher watched you go. “What do you want?” she asked.
+You followed it inward.
 
-“The mill gate is freezing.”
+Your magic had always seemed to begin behind your breastbone and travel through shoulder, elbow, wrist, and fingers, narrowing until one intention could leave without dragging its neighbors along. You knew where warmth liked to spill and how mending caught on anger.
 
-“That was not my question.”
+Behind the passage lay a space you had never faced.
 
-The mill gate, however, was a problem with a place to put your hands, so you carried that answer out with you.
+You searched for its far edge. Depth folded beneath your ribs without making your body larger; still it went on, silent and dense, until the woman's filament shook. Nothing woke or wanted. The reserve was simply there, as real and unmeasured as the mountain hidden beneath one stone in a wall.
 
-The trio followed you through the village. At the mill, water had climbed nearly to the top of the sluice because the iron pin had seized again in its wooden collar. The miller and his sister had ropes around the gate, but pulling harder would only split the housing.
+The woman pulled away. Air struck your damp wrist.
 
-You knelt on the wet boards, your left knee lodging its usual complaint about cold weather. Here was a problem that fit you. You traced warmth along the hidden side of the pin, felt ice loosen grain by grain, and held the swollen wood cool. The rope jerked. The gate rose, and brown water shouldered through beneath it.
+The youngest stood so quickly his chair tipped. “That's enough to keep every road on this side of the range open for a hundred winters. Enough to lift the snow line. Enough to—”
 
-The familiar pleasure moved through you as immediate as hunger. Skill met need; the work fitted under your hands. You grinned at the open gate.
+“Enough stored,” said the woman. “You have described three releases we did not find.”
 
-The miller clapped your back. “There. You'll set the winter charm now? The one we discussed?”
+The road mage righted the chair, checked both your pupils, and counted your pulse. “Any numbness?”
 
-You had discussed no such charm. He had mentioned one while you repaired his chimney cap, and you had said you would see.
+“Not yet.”
 
-“How did you manage before?” the road mage asked.
+“Keep it that way.”
 
-The miller frowned at him. “With grease, a canvas hood, and two people breaking ice before dawn.”
+You looked at your own hands. They had not changed. The left thumbnail was still split from replacing a shutter hook; flour still clung to the right cuff of your nightshirt.
 
-“You have the grease?”
+“I've used no more than this room could hold,” you said. “Where has the rest been?”
 
-“Not enough.”
+“Behind a very narrow outlet,” the teacher said.
 
-“The canvas?”
+“Could I widen it?”
 
-“Needs stitching.”
+“With instruction, perhaps. Slowly.”
 
-The road mage looked at you, not unkindly. “That is a real winter problem. It is also three smaller problems allowed to wait.”
+You put your palm against the kettle. It needed only a little more heat. You knew exactly how to warm water. This time you reached toward the depth first and tried to bring back a fuller handful.
 
-The miller heard the news in that sentence. His hand dropped from your shoulder. “You're leaving?”
+Pressure struck the familiar outlet. Your right forefinger and middle finger vanished from sensation. The kettle stayed cool. On the peg by the stove, the road mage's wet glove gave a hiss and began to steam.
 
-“I haven't said.”
+You stopped.
 
-“You were going to ward the gate.”
+The teacher snatched the glove down before its stitching scorched. The road mage wrapped your numb fingers in a dry cloth and told you to move them one at a time. You could, though you had to watch to be certain.
 
-“I said I'd see.”
-
-“Same thing, from you.”
-
-That followed you away from the mill.
-
-At the next house, a warped shutter needed planing. You nearly reached for it before the carpenter, who had joined the knot of people trailing the strangers, said he could do it by evening. At the next, a woman asked for the warmth to be drawn from her smokehouse through the whole winter, so the meat would not spoil on mild days. The youngest mage started to ask how far your power could stretch. One glance from the teacher stopped him.
-
-Not everyone wanted you to stay. The midwife pressed the warm cradle stone back into your hands and told you there were things beyond the mountains no one here could teach. The cooper's boy asked whether you would return able to pull splinters from a mile away. His mother shushed him, but she was smiling.
-
-The miller did not smile.
-
-By afternoon you stood below a roof whose snow-heavy western edge had begun to sag. You knew the work the householder expected: you would hold the patch in place while the carpenter nailed it. You had done that before. But the householder pointed to the whole slope.
-
-“If what they say is true,” he said, “couldn't you make it safe until thaw?”
-
-The youngest mage tipped his head back. Wonder overcame caution. “With that reserve, you might support every roof in the village. Or suspend the snow above them. If the release could be distributed—”
-
-“Enough,” the road mage said. The young man stopped.
-
-You should have stopped too. Instead you raised one hand.
-
-You knew how to hold a board still. You tried to broaden that stillness across the roof. The magic entered your fingers, met the narrowness there, and smeared. The sagging beam lifted less than a finger's width. At the same moment, three nail heads grew hot and a crust of snow slid from the opposite gutter, missing the road mage's pack by inches.
-
-Numbness climbed into your palm. You closed your hand and let the beam settle.
-
-“No,” you said.
-
-The householder stared at the roof. “No, you can't?”
-
-Your hand throbbed. “No, I won't try that again without knowing what I'm doing. I'll hold the patch while it's nailed. I won't promise the winter.”
-
-He muttered that the strangers had put grand ideas in your head. The carpenter, already climbing the ladder, told him grand ideas had not rotted his rafters.
-
-The youngest mage waited until you were out of earshot. “I am sorry.”
-
-“Would it work?” you asked.
-
-“I don't know.” His gaze dropped to your stiff fingers. “I wanted to see.”
-
-You accepted the apology. At the next house, when he leaned forward to watch, you asked him to give you room.
-
-The road mage spent the remaining light counting what the village had quietly arranged around you. The mill gate. The midwife's stones. A cellar kept dry by a charm you renewed after every heavy rain. Your old neighbor's room, warm each night without wood smoke or someone rising to tend the stove. Some conveniences could become chores again. Others would become dangers if no one prepared.
-
-The list lengthened as the sun went down.
-
-Your old neighbor had raised you from boyhood after your parents died. She had taught you to bank a fire, mend a sock, and never trust a clean-looking mushroom with a yellow frill. Magic had made two of those lessons less necessary. Her age had made the third more emphatic.
-
-She was in bed when you visited, wrapped in two quilts with the stove unlit. She said your warmth felt better in her joints than stove heat and did not dry her throat. You believed her. You also knew the woodpile outside was too low.
-
-“Set it for the winter,” she said. “Best do it tonight if you're going gallivanting before breakfast.”
-
-“Yes, I'll—”
-
-The promise reached February in your mind. It crossed the pass without you, asked more from the narrow passage behind your ribs every night, and offered no way to check whether the charm had begun to wander.
-
-You shut your mouth.
-
-Your neighbor's eyes narrowed. “That's new.”
-
-“They asked me to go until spring.”
-
-“I gathered that from the seven people who came to tell me.” She shifted under the quilts. “Do they need you?”
-
-“They say that isn't the reason.”
-
-“I didn't ask what they said.”
-
-You sat beside her. You had spent the day answering what people needed. That had not taught you how to answer this.
-
-“I want to learn what it is,” you said. “I want to know what else I can do. Not to fix anything. I just want to know.”
-
-The room seemed colder after you said it.
-
-“And?” she asked.
-
-“And I am frightened that wanting it means leaving you cold.”
-
-She looked toward the empty stove. “It might.”
-
-You had hoped, without admitting it, that she would tell you to go freely. Instead she rubbed at one knuckle and said, “I want you here. I sleep better when you're across the path. I also don't want to spend whatever years I have left knowing my cold feet kept you from the first thing in all these years that you've wanted simply for yourself. I can't make those facts agree, and I won't say I can just to soothe you.”
-
-You laughed once, and your eyes stung.
-
-“Now,” she said, “what warmth can you honestly give me tonight?”
-
-You warmed the room until dawn. No longer. Then you lit the stove and brought six bricks from beside it, showing her how hot they should be and how to wrap them in wool before placing them under the quilts. The baker's eldest could heat a fresh pair at supper and another before bed. It would cost wood. It would take carrying. Some nights the bricks would cool early.
-
-Your neighbor listened, dissatisfied but attentive.
-
-“Worse than you,” she said.
+The youngest stared at the glove. “You meant the kettle.”
 
 “Yes.”
 
-“Probably adequate.”
+“And reached barely farther than before.”
 
-“Probably.”
+“Yes.”
 
-She took your numb hand between both of hers. “Go give them an answer before the snow gives one for you.”
+He sat down carefully.
 
-The travelers were still at your kitchen table when you returned. Supper had become an argument between the road mage and the youngest about how much food could be carried over the pass. Behind them, the bread dough had swollen over the bowl, crossed a folded cloth, and attached itself to the salt jar.
+“Reserve is not release,” the teacher said. “Release is not reach, and reach is not control.”
 
-“That's my fault,” you said.
+This time the youngest did not supply a comparison.
 
-“We had guessed,” said the road mage.
+Beyond the pass, the three kept a winter teaching house. They offered you a place, with no promise that the first winter would produce anything grander than noticing the moment before numbness. If you went at dawn, the unsafe pass might hold you there until spring.
 
-You did not reach for the dough.
+“If you're short a student, I'll come,” you said.
 
-The teacher cleared a space at the table. “Do you have an answer?”
+“We are not short a student.”
 
-“I will go until spring because I want to learn.” The words felt clumsy and exposed. You kept going. “I won't pour power into a working I don't understand. If a lesson hurts or begins doing something different from what you told me, it stops when I say. In spring, whether I stay, return, or keep learning is another decision.”
+“If you need someone with what I have, then.”
 
-The teacher nodded once. “Agreed.”
+The teacher's next question was quiet and exact. “Would you come if we needed nothing from your reserve?”
 
-The road mage said, “The pass may open late. Spring on a calendar is not a safe road. We can promise to attempt the return as soon as the crossing is sound, not the day.”
+You opened your mouth. Outside, a fist struck the door three hurried times.
 
-You considered that. This time no answer escaped ahead of you. “Agreed.”
+“That's the mill,” you said.
 
-The youngest rubbed a streak of flour from the salt jar. “I spoke about your magic as though it were a marvelous pack I'd found by the roadside.”
+“You know the knock?”
 
-“A very large pack,” you said.
+“I know how the miller knocks when the water is rising.”
 
-“Absurdly large.” His smile appeared and then thought better of itself. “I am sorry. I would still very much like to understand it.”
+The road mage rose with his pack. “How long until the gate fails?”
 
-“So would I.”
+“That depends which pin has frozen.”
 
-Before midnight, you divided the requests on your table. The cracked kettle could wait until spring. The mill gate could not; you wrote instructions for the grease, the canvas hood, and the order in which to break the ice. You finished the small holding charm you had promised for the carpenter's patch, tying it to the last nail rather than the whole roof. A lantern with a bent door went back untouched to its owner, who was annoyed until you reminded him he had another.
+“Then we should hear the request.”
 
-There were requests no one had made because you had always noticed first. You left some of those alone.
+The teacher did not repeat her question. That made it harder to leave behind.
 
-The baker arrived to collect her supper bowl as you were packing wool socks. She carried the overgrown dough at arm's length, its cloth perched on a pale dome.
+At the mill, meltwater had crusted over the north sluice pin while the night frost held the wooden sleeve tight around it. Water climbed the headrace, pressing the gate harder into its frame. The miller's sister had already moved the lowest flour sacks. The miller and two neighbors strained on a rope, but a hard pull would split the swollen wood.
 
-“Have you a moment?” she asked.
+You asked which pin.
 
-You looked at the pack, the unfinished list, and the dark window above the sink.
+The miller blinked. “The north. You know that.”
 
-“No,” you said. “And take the dough home. It will settle once it's away from me.”
+“I thought I knew the east one this morning.”
 
-The baker studied you, then tucked the bowl under her arm and carried it away herself.
+You knelt on wet planks. This was work your hands understood. With your left hand, you sent a hair-fine warmth between iron and ice while holding the wooden sleeve cold. Water beaded around the pin. The rope went taut, the gate rose, and the headrace dropped with a brown rush.
 
-You went to bed with three jobs still on the table. For a while you worried about the mill gate, the cooling bricks across the path, and the impossible depth behind your ribs. Then, before the list was empty, you slept.
+Pleasure flashed through you, clean as the child's laugh. You were good at this. You would have chosen this task even if no one praised you for it.
+
+The miller hauled you upright. “Set the winter holding while you're here.”
+
+“How long?”
+
+He stared at you again. “Until thaw.”
+
+The road mage crouched beside the gate. He scraped old grease from the underside of the sleeve, tested the sagging canvas hood, and looked toward the woodshed. “How was it kept before the holding?”
+
+“Two of us broke ice at first light.”
+
+“With what?”
+
+“Iron bars.”
+
+“Grease stock?”
+
+“Low.”
+
+“Spare canvas?”
+
+The miller frowned. “What are you counting?”
+
+“The canvas takes an hour to stitch. Grease is half a day's walk if your store is empty. Two people must wake before light. That is what I'm counting.”
+
+The miller turned to you. “Are these three taking you?”
+
+“No,” said the teacher. “He has not answered.”
+
+You nearly said you would set the holding. Instead you touched the cloth around your two numb fingers.
+
+“I can write how I separate the pin from the wood,” you said. “That won't give you magic, but it will show where not to strike. The grease and hood still need doing.”
+
+“That is three jobs instead of one.”
+
+“Yes.”
+
+He thanked you for the open gate without looking at you.
+
+The day's requests found you wherever you went. At the milk house, a swollen shutter scraped its sill. You had your fingers raised before the carpenter called from the lane.
+
+“I can plane it.”
+
+“How long?” you asked.
+
+“Two hours if someone holds it level.”
+
+The milk seller said, “I have two arms.”
+
+You put your hand down. By afternoon, curls of damp wood covered the step. You swung the shutter twice for the pleasure of its clean fit.
+
+At the baker's, the crushed loaf tin waited beside an oven hinge black with old soot. The hinge needed a pin and oil, not magic. The baker had already sent a child to the smith. She pushed a cold meat pie into your hands and told the travelers that if they brought you back too thin, she would make their yeast climb into their boots.
+
+The midwife, by contrast, heard about the teaching house and said, “Go. I can heat stones at the hearth. They scorch more often, so I'll watch them.”
+
+A herder wanted a cut on a ewe closed before infection set in. You asked how fresh it was, how deep, and whether it had been cleaned. When the answers were good, you mended the torn skin in three small passes with your left hand. The ewe kicked your shin and preserved the work from becoming ceremonial.
+
+Near sunset, a householder met you beneath a roof bowed under old, wet snow. The carpenter had braced the worst rafter and laid a patch ready for nails.
+
+“I heard what you've got in you,” the householder said. “Don't waste time on the patch. Put warmth over the whole roof until spring. Over all the roofs, if there's truly that much.”
+
+The youngest looked up, calculating faster than caution. “A broad enough release could shed new snow before it settled. If the field reached from this eave to the goat pens—”
+
+“Have you made that working?” the teacher asked.
+
+“No.”
+
+“Seen it made?”
+
+“No.”
+
+“Then what do you know?”
+
+The young mage looked at your wrapped fingers. “That I want to see whether it can be made.”
+
+You wanted to see too. The want frightened you less than the pressure in the outlet had. You placed your left hand against the prepared patch, where the task had edges you understood, and felt for the exact hold the carpenter needed. Beyond it waited the imagined roof, the next roof, every white slope in the village. Your intention blurred before you released anything. The patch tugged sideways under your palm; warmth pricked uselessly at a nail head.
+
+You withdrew your hand.
+
+“No winter covering,” you said.
+
+The householder's face hardened. “But you could have the power for it.”
+
+“I have no safe way to put it there.”
+
+“Try after they teach you.”
+
+“Not from the other side of the pass, and not over a house where people sleep.”
+
+The carpenter climbed the ladder. You held the patch for nineteen minutes while he nailed it. Its weight settled true under your palm while the householder's silence followed each nail.
+
+As dusk filled the lanes, the road mage asked people what failed when you were gone. Not what they wished were easier: what failed. The answers shortened his stride. The mill gate could freeze shut. The old drying-cellar charm would fade after the next heavy thaw. The midwife could heat her own stones but would need more fuel. Your neighbor across the path had stopped banking her stove at night because you warmed her room without smoke.
+
+“We cannot build every replacement before first light,” he told you. “We can mend the mill hood, move wood, and mark the cellar drains. We cannot split a winter's fuel, retrain four habits, and cross the upper shelf before the snow.”
+
+“I could stay.”
+
+“Yes.”
+
+“You want to leave.”
+
+“I want six hours of safe shelf under our boots. If we miss that, we stay too.”
+
+The teacher asked, “Is staying what you want?”
+
+A woman arrived carrying a lantern with a door that would not latch. You took it from her automatically.
+
+“I'll bring it tonight,” you said.
+
+“Tomorrow is enough.”
+
+“I won't be here tomorrow.”
+
+She gripped the lantern's handle, then released it to you. “Spring, then. I have another.”
+
+Your old neighbor was in bed before supper, two quilts around her and the stove cold. She had raised you from boyhood, long before your iron-gray beard, though she denied responsibility for how it turned out. For six winters, your nightly warmth had spared her smoke and ash.
+
+She listened while you described the trio. When you reached the pass and the spring return, she rubbed one bare foot against the other beneath the quilts.
+
+“Set the room through thaw before you go,” she said.
+
+“I'll set—”
+
+The promise ran ahead of you. It crossed weeks you could not inspect and weather you could not predict. You saw the steaming glove, the patch pulling sideways, your fingers moving only because you watched them.
+
+You stopped.
+
+Your neighbor peered at you. “Lose the end of the sentence?”
+
+“I can warm tonight.”
+
+“I asked for winter.”
+
+“I know.”
+
+“And when my stove smokes?”
+
+“The chimney needs sweeping.”
+
+“I know that too. Who will do it?”
+
+You started naming people who might. She interrupted.
+
+“Ask them before you give me their backs.”
+
+You folded the lantern into your lap. Your right fingers had begun to tingle, which hurt more than the numbness.
+
+She looked at the lantern. “Whose need is that?”
+
+“Someone who has another.”
+
+“Put it on the floor.”
+
+You did.
+
+“Now tell me whether those travelers need you.”
+
+“The teacher won't accept that answer.”
+
+“I didn't invite her.”
+
+You stared at the cold stove. “I want to learn.”
+
+Your neighbor waited.
+
+“One working nobody asked me for,” you said. “I want to choose it first. And I want to know why all that depth reaches my hand as a thread.”
+
+“There you are.” She pulled the quilt higher. “And here I am, wanting you across the path when my hip locks. I want your warmth. I want someone to complain to when you steep the tea bitter. I also remember you at twelve, warming every spoon in my drawer because it was the first trick you'd learned. I would like to hear what you talk about after spring.”
+
+“Which do you want more?”
+
+“If I knew, I'd have said only one.” Her mouth tightened. “If I tell you stay, you'll stay and call it my answer. If I tell you go, I'll lie awake cursing the cold. I won't choose either for you.”
+
+You breathed until the tightness in your own throat eased.
+
+“What can you promise?” she asked.
+
+“Warmth until dawn. No farther.”
+
+“And tomorrow night?”
+
+“Bricks. Four, heated on the stove and wrapped in wool. One at your feet, one at each hip, one held back to change when the first cools. The baker's eldest comes past after the ovens close. I can ask whether she'll carry them. You can say no.”
+
+“Bricks are worse.”
+
+“Yes.”
+
+“They go cold.”
+
+“Yes.”
+
+“They don't sit and play draughts.”
+
+“No.”
+
+“Then stop saying yes as if worse were fine.”
+
+You looked at her. “It isn't fine.”
+
+You swept the chimney while she complained that you scattered soot like a younger man. Afterward you lit the stove and showed her the four bricks, their wool wraps, and the iron tray that would keep a hot edge from touching skin. She chose where the tray should stand. When the baker's eldest came past, your neighbor asked for herself. The answer was yes for supper and bedtime, no for dawn; the girl had ovens to start. Your neighbor accepted the two trips and said she would wake cold before asking for a third.
+
+Then you gave the room exactly enough magic to hold its warmth until morning.
+
+At your own door, the road mage was tightening straps on three packs. “Snow line dropped while you were across the path. We leave at first light. If the upper wind rises sooner, I wake everyone and we leave sooner.”
+
+Inside, the youngest had attempted to knead the supper dough. It had risen around both his wrists and fastened one sleeve to the bowl.
+
+“Is this the reserve?” he asked as you peeled him free.
+
+“No. Yeast has always misbehaved near me.”
+
+“How near?”
+
+The baker, who had come to rescue her bowl, said, “Near enough to be annoying. Stop measuring it and fetch flour.”
+
+He fetched flour.
+
+The teacher waited while you washed dough from your hands. “Tell me what I should put in the fourth pack.”
+
+“Clothes for one winter of teaching.”
+
+“Until when?”
+
+“Until the pass is safely open in spring. Then I choose whether I return, stay longer, or go elsewhere.”
+
+The road mage glanced at the window. “A date will not make the road safe. We can bring you back at the first sound crossing after the thaw, if return is what you choose.”
+
+You let the condition sit before answering. “All right.”
+
+The teacher folded your blanket once, then stopped. “And the first sounding there?”
+
+“Only if I ask for it. No one draws from me, and I don't feed power into a working unless I know what it should do and how it stops.”
+
+“If I tell you a working is safe and your hand says otherwise?”
+
+“If I say stop, we stop. You can explain after my hand is mine again.”
+
+“Agreed.”
+
+The youngest dusted flour from his sleeve. “I am still going to wonder whether you could warm a whole pass.”
+
+“You can wonder.”
+
+“May I ask what you feel when you try to widen the outlet?”
+
+“Tomorrow. After my fingers stop stinging.”
+
+He nodded, disappointed and attentive. “Tomorrow, then.”
+
+The teacher put your folded blanket into the fourth pack and buckled it.
+
+The remaining requests covered half your table. You returned the bent lantern untouched. Its owner frowned, tried the spare she had brought, and discovered that it worked. You sketched the mill's north pin and wrote three instructions beneath it: grease, fasten the repaired hood, break ice before pulling. The road mage added the amount of canvas needed but would not promise to carry it; his pack was already at its safe winter load.
+
+You crossed out the roof patch and the loaf tin. You left the drying cellar, the goat feeder, two knife handles, and a cracked kettle uncrossed.
+
+Near midnight, someone knocked once and called through the door that the north feeder pipe was the one frozen after all.
+
+You laughed so hard you had to sit down.
+
+“I can thaw it before we leave,” you said.
+
+The teacher, unfolding a blanket by the hearth, asked, “How long will it remain open?”
+
+You pictured the pipe, the cold, and the dark remaining before the climb. “I don't know. I'll ask how soon the goats need water.”
+
+The answer came back through the door: not until after sunrise.
+
+“Then I won't,” you said. “Wrap it now. Thaw it after daylight with kettles.”
+
+The goat keeper grumbled, but went to fetch blankets.
+
+You set three unfinished jobs beside the cold stove so you would see them when you returned. The teacher took the lantern down. The youngest stopped asking questions. The road mage banked the fire with the competence of someone who had slept beside worse weather.
+
+You lay down while the list was still open on the table. Across the path, the warmth you had chosen to give held inside your neighbor's room. At the mill, grease and canvas remained tomorrow's labor. Behind your ribs, the impossible reserve kept its depth without offering an answer.
+
+Before everything was fixed, you slept.

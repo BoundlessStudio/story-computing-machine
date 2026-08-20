@@ -8,364 +8,486 @@ canon: false
 
 # Witch Cold
 
-The warning on Mallow Fenn's door had three stars drawn in the corners and one damp blot through the middle.
+Mallow Fenn had tied the warning to her doorknob with a pink satin ribbon.
 
-WITCH COLD, it said. DO NOT KNOCK. LEAVE THINGS. GO HOME.
+WITCH COLD, it said in glitter pen. LEAVE FOOD. DO NOT COME IN. THIS MEANS YOU.
 
-I shifted the soup bag onto my hip and knocked.
+I set down the stockpot, the pharmacy bag, and two cartons of electrolyte drink. Then I turned the card over in case she had left reasonable instructions on the back.
 
-"You left out the part where you open the door for your best friend."
+THIS STILL MEANS YOU.
 
-"Go home," Mallow called. Even through two inches of painted wood, she sounded as if she had swallowed a dish sponge.
+Behind the door, something bumped the wall.
 
-"I brought ginger soup, electrolyte drinks, fever tablets, the tissues you like, and the tissues you pretend you don't like because the box has cartoon lambs."
+"Mallow?"
 
-"Put them down. Then run."
+"You weren't supposed to read it aloud."
 
-I was deciding whether that counted as fever drama when she sneezed.
+Her voice had the woolly, faraway quality of a radio under a blanket. I pressed the bell anyway. It played the first four notes of a song she had once sworn she would change and never had.
 
-The sound began with a tiny, helpless hitch and finished like a firecracker inside a pillow. The grocery bag in my left hand turned inside out without tearing. Its bottom passed somehow through the cartons and bottles; the contents dropped around my shoes while the bag floated down after them, perfectly intact and now covered in printed warnings meant to face inward. At the same instant, every key on my ring hummed a different soft note. Heat bit my palm. I dropped them onto the doormat.
+"Don't make me come out there," she said.
 
-There was a silence behind the door.
+"That threat lacks structure. Temperature?"
 
-"That crossed the wall," I said.
+"Normal."
 
-"I wrote *run*."
+"Specific normal."
 
-The humming keys made a nervous little chord between us. I gathered the fever tablets before one slid under the hall radiator, stacked the drinks, and checked the soup container for cracks.
+There was a pause, a rustle of tissues, and a small inhalation cut off halfway. "Thirty-eight and a bit."
 
-"What's your temperature?"
+"How much of a bit?"
 
-"Fine."
+"Go away."
 
-"A number, Mallow."
+"When did you last drink?"
 
-"Thirty-eight point nine."
+"I had an ice pop."
 
-"When did you last drink anything?"
+"When?"
 
-She answered too slowly. "Recently."
+The inhalation returned. This one climbed sharply. Mallow made a strangled sound as if she were trying to swallow it, then sneezed behind the door.
 
-I sat down among the lamb tissues. "All right. I'm staying here. If you don't open the door, I'll spend the evening asking medical questions at conversational volume. Your neighbors already think I'm strange."
+My pharmacy bag turned inside out without tearing. Bottles, blister packs, cartoon-star fever patches, and three boxes of tissues dropped into the hall around my shoes. The bag drifted down last, its receipt now printed on the outside in mirror writing.
 
-"They think you're loud."
+At the same instant, the keys in my hand sang. Each key found its own soft note, a bright and ugly little chord, and the brass grew hot enough to sting. I flung the ring onto the carpet.
 
-"They can think two things."
+"That reached the hall," I said.
 
-The lock clicked. Mallow opened the door six inches and glared through the gap with one watery eye.
+"The sign was in the hall."
 
-On ordinary days, she could make pink look dangerous. Tonight her rose-colored hair was tied in a knot that had lost its argument with gravity. Two star-bright clips still held her bangs back, though one was upside down. She had wrapped the frilled mantle from her transformation clothes over flannel pajamas and thick socks. Its pearly ribbons trailed into a drift of used tissues.
+I crouched to rescue the fever tablets from under the stockpot. "Have the spells been reaching through walls all day?"
 
-"One minute," she said. "Put everything inside and go."
+"One turned the bedroom wallpaper into wet moss. One made my left shoe taste like cinnamon. One did nothing I can find yet, which is worse."
 
-"You're shivering."
-
-"I'm magical."
-
-"You're wearing three socks."
-
-She looked down. One foot did, indeed, have an extra sock. "That isn't relevant."
-
-I put my shoe in the gap before she could close it.
-
-Her face changed. Irritation stayed, but fear moved underneath it. "I can't pick the spell. I can't aim it. I can't make it small because you're close. It isn't that kind of magic."
-
-"I understand."
-
-"You brought oven mitts."
-
-"The keys got hot."
-
-"You understand nothing."
-
-Then she swayed against the doorframe. I caught the edge of the door rather than her, because I had listened to at least one thing.
-
-"One minute," I agreed. "Starting after you've had water."
-
-Mallow knew me well enough to hear the fraud in that, but she was too tired to defend the threshold. She stepped back.
-
-Glittering boots stood beside a bucket half full of crumpled tissues. A silver wand lay disassembled in a ceramic baking dish on the coffee table. Star charms, spare ribbons, and a thermometer crowded the end table. The cute parts of Mallow's life had never seemed childish to me. They were equipment she cleaned, stitched, charged, and sometimes fell asleep wearing. The pink just made the maintenance easier to find under a sofa.
-
-I cleared a route from the couch to the bathroom, put her phone within reach, and poured an electrolyte drink into a plastic tumbler. No metal. No glass. I set the soup in a saucepan, reconsidered the saucepan, and emptied it into a ceramic bowl.
-
-"See?" I said. "We can reduce the obvious risks."
-
-Mallow sat at the kitchen table with the mantle tucked under her chin. "The spells don't care what's obvious."
-
-"Last one affected a container and metal. So we keep containers flexible and metal away from our hands."
-
-"That is one sneeze, not a sample."
-
-"It's more of a sample than we had ten minutes ago."
-
-Her nose wrinkled.
-
-I froze with the soup bowl between us. Mallow snatched two tissues, pressed them to her face, and sneezed.
-
-The drink rose out of her tumbler in a shining blue-green globe. Soup lifted from its bowl in one ginger-scented mass. Three drops under the leaky tap trembled upward. Even the dampness in the sponge pulled itself free in a wobbling bead.
-
-Mallow ducked. I did the opposite. I clapped a lid over the tumbler and managed to trap half the floating drink; the rest burst against my wrist and hung there like a bracelet. The soup drifted toward the ceiling. I lunged with the bowl, caught one edge of it, and sent the other edge spreading in a golden sheet above the cabinets.
-
-All around us, metal began to sing. The sink gave a low note. Two spoons in the drying rack answered in close harmony, and the cabinet handles trembled with a pitch that made my teeth itch. Heat rose from them in waves.
-
-"Don't touch the tap," Mallow said.
-
-"I know."
-
-"You were reaching for it."
-
-"I changed my mind."
-
-The spell released the liquids without warning. Soup slapped onto the cabinets and floor. The damp sponge rained on Mallow's head. My bracelet became a wet sleeve.
-
-For one startled second we stared at each other. Then Mallow began to laugh. It came out as a sick little wheeze, but it was still her laugh, the one that always made her cover her mouth as if joy were something she had spilled.
-
-"One minute," she said.
-
-"Paused for cleanup."
-
-I fed her the portion of soup I rescued from the bowl, seated her on the couch, and improved the apartment. Towels went over sharp corners. Hot utensils went onto ceramic plates. I marked a clear square around the couch with pink ribbon from her sewing basket, set a lidded drink in the center, and placed nested pillows against the wall.
-
-Mallow watched with the exhausted patience of someone witnessing a squirrel design a bridge.
-
-"The first spell reached into the hall," she said.
-
-"But only a few feet."
-
-"You don't know that."
-
-"The liquid spell stayed in the kitchen."
-
-"You don't know that either. Check your water bottle."
-
-The bottle in my bag was empty. I found its water hanging under the hallway ceiling like a clear, quivering light fixture.
-
-"Fine," I said. "Wide radius. But categories. Matter, then liquid. If we keep you away from breakable things and track each effect—"
-
-She sneezed into the lamb tissues.
-
-Nothing moved.
-
-We waited. The screws in a bookshelf warmed and hummed a descending scale. Mallow pointed at the floor.
-
-The floor lamp's shadow now belonged to the wastebasket. It was tall and narrow, with the lamp's crooked neck, though the basket itself was round. My shadow wore the branching silhouette of the fern on the windowsill. Across the room, Mallow's small dark outline clung to a cushion, curled like a sleeping cat.
-
-I lifted an arm. The fern-shadow stayed still. One of its leaves waved when I did.
-
-"Matter, liquid, shadows," Mallow said. "Excellent categories. You should publish."
-
-"Harmless."
-
-"Probably."
-
-I looked at my borrowed leaves. "You are very negative when you're feverish."
-
-"I'm negative when I'm right."
-
-The jokes thinned after that. Mallow drank when I handed her the cup, but only because arguing cost more energy. I moved the lamp, carried the wand in its baking dish, unplugged appliances, and took every loose object I distrusted into the bedroom. Each trip made the apartment look safer and gave me something to do besides consider the water under the ceiling.
-
-On my fourth pass, I noticed Mallow's peculiar stillness.
-
-Her eyes had squeezed shut. Her nostrils flared, then flattened under two pinching fingers. Her chest hitched once. She swallowed hard and sat frozen until the impulse passed. When she opened her eyes, tears had gathered at the corners.
-
-"How many times have you done that?"
-
-"Done what?"
-
-"Held one back."
-
-"I'm fine."
-
-"That phrase has expired."
-
-She reached for her drink. The cup rattled against her teeth. "Since before you got here. It buys time."
-
-"It makes you dizzy."
-
-"Being sick makes me dizzy."
-
-"Mallow."
-
-"It doesn't get rid of the spell, okay? The sneeze comes later. But later might be after you leave."
-
-I wanted to shake sense into her, which was unfair when she was already shivering. "So you've been sitting here alone, not drinking because you might sneeze near the tap, trying not to breathe?"
-
-"I was doing fairly well until someone knocked under a sign that said not to."
-
-"You could fall. You could choke."
-
-"I could turn you into steam."
-
-Soup dripped from the ceiling into a towel. Our incorrect shadows lay across one another on the rug.
-
-Mallow's voice went rough. "I don't want the last normal thing I see tonight to be you deciding I was just panicking."
-
-I sat on the coffee table, outside my ribbon square. The fern-shadow folded itself under me. "I don't think you're panicking."
-
-"You think you can out-organize it."
-
-"I think your fever is still going up."
-
-She needed someone close enough to bring water if her hands shook, and I was one of the things closeness could ruin.
-
-The bathroom was my next idea. I presented it more humbly than the others, which meant I only called it sensible twice. Tile, anchored fixtures, no windows, and a tub she could lie down in. We cleared out razors, bottles, hairpins, and a cheerful metal shelf that hummed when I carried it away. I brought towels, the phone, water in a capped plastic bottle, and a wide ceramic cup. Mallow shuffled behind me, wrapped in her mantle, stopping twice to lean against the wall.
-
-"A bare room is still a room," she said.
-
-"I heard you."
-
-"Did you?"
-
-"No claims of safety. Fewer things to hit us. That's all."
-
-She considered, then nodded. It was the first part of my plan she had agreed to, and the agreement felt more useful than all the padding.
-
-Mallow sat on the closed toilet lid. I climbed onto the broad sink counter to move the ceramic soap dish away from the edge. We had nearly finished when her breath snagged.
-
-"Stay there," she warned.
-
-I stayed. She lifted a tissue. Her face crumpled, helpless and apologetic.
-
-The sneeze struck.
-
-The sink expanded beneath my hands. The faucet shot upward into a silver tower. Grout lines thickened into white roads, and Mallow grew so quickly that my mind refused the sight. My shoes slipped on a counter that had become a ledge. The edge took me at the knees.
-
-I fell.
-
-Mallow lunged from the toilet and caught me in both hands.
-
-For a moment there was only the heat of her palms, the hard beat under one of my feet, and her face hanging above me as large as the moon. My clothes had shrunk with me. The rest of the bathroom had not.
-
-"Don't move," she whispered.
-
-"Wasn't planning to."
-
-My voice came out absurdly small. Mallow made a sound between a laugh and a sob, then lowered me into the soap dish on the counter. I stood up with both hands on its slick rim. Six inches tall, approximately. My useful estimate did nothing to improve the fact.
-
-Mallow turned away sharply. Her shoulders jerked. One finger pressed beneath her nose.
-
-"Put me in the medicine cabinet," I said. "No, the hinges are metal. The tub. Wrap me in a towel and put the cup over—"
-
-She shook her head, unable to answer. Her chest pulled in another broken sip of air.
-
-"You need to sit. Put the stopper over the drain. Move the phone where I can—"
-
-Her eyes were squeezed shut. Tears ran down her flushed cheeks. She wasn't following my instructions because every part of her was occupied with not sneezing on me again.
-
-I stopped.
-
-The metal faucet began to cool under my hand. Somewhere in the apartment, a spoon gave its last fading note.
-
-"Mallow," I said. "What do you need?"
-
-She drew three careful breaths before trusting herself to speak. "I need to put you down somewhere I can see you. I need you not to run at me if I fall. And I need to sneeze."
-
-"All right."
-
-"The phone on the floor. Screen unlocked."
-
-"All right."
-
-"No counting down. It makes me nervous."
-
-I had been about to suggest a countdown. "No countdown."
-
-She set the ceramic cup on its side beneath the sink's overhang and padded it with a folded washcloth. Its mouth faced the toilet. The low shelter kept me in her sight without leaving me exposed on the counter. She laid the phone flat on the bath mat, close enough that I could walk across the screen if I had to call for help.
-
-"If you start to fall," I said, "tell me. I won't come out until the sneeze is over."
-
-Mallow lowered herself to the floor with her back against the tub. The tissue trembled in her hands. "I can't promise what happens."
-
-"I know."
-
-This time, I did.
-
-She let the sneeze come.
-
-The shower curtain vanished with a sound like a hundred soap bubbles popping. In its place floated a flock of smaller bubbles, each no bigger than my thumb. They bounced off the tub, the ceiling, and Mallow's hair. Whenever one touched something, it emitted the same bright, mechanical question: "What time is it?"
-
-The pipes warmed and hummed. The tap contributed a high, bashful note.
-
-"What time is it?" asked a bubble against Mallow's knee.
-
-"Eleven forty-three," she told it hoarsely.
-
-"What time is it?" asked another, colliding with her ear.
-
-"Still eleven forty-three."
-
-A bubble drifted into the cup. "What time is it?"
-
-"Summer," I said.
-
-Mallow laughed until she coughed. I laughed too, leaning against a hill of washcloth inside my ridiculous ceramic cave. We still had to wait for the tap to cool before she could refill the bottle, and the bubbles kept asking long after the question had become unbearable.
-
-But Mallow drank. She breathed without trapping each breath behind her teeth.
-
-We handled the rest of the night one sneeze at a time.
-
-The next one rounded every right angle in the bathroom. The phone slid off the suddenly curved tile, and Mallow caught it against her slipper without diving for me. We waited until corners returned before moving anything. Another sneeze made anything blue leak clean water: the stars on her mantle, the shampoo bottle outside the door, even the painted stripe on a towel. The apartment became damp for no reason we could remedy. Near dawn, the bath mat sprouted ankle-deep clover that smelled strongly of toast. It swallowed the phone, so Mallow uncovered it only after the pipes had finished their warm chord.
-
-None of the spells resembled the one before. Some faded in minutes. The wrong shadows remained. So did my size.
-
-Between sneezes, Mallow lay in the dry tub with a rolled towel under her neck. She warned me when she felt the tickle building. I tucked myself into the cup; she waited for my answer; then neither of us pretended the arrangement made us safe. It only told us what to do with the parts we could choose.
-
-Sometime after the last humming note dwindled in the pipes, she slept. I watched long enough to see her breathing settle, then curled into the washcloth with the phone glowing faintly beyond the cup.
-
-Morning found the bathroom full of clover, soap bubbles, and gray light.
-
-Mallow woke with one arm over her eyes. She checked her temperature, drank, and sat still for a while. The fever had broken. Her nose was pink but quiet.
-
-"How long since the last sneeze?" she asked.
-
-I checked the phone. "Two hours and twelve minutes."
-
-She rubbed beneath her nose experimentally.
-
-"Don't you dare force one."
-
-"I wasn't going to."
-
-"You were considering it."
-
-"Only for scientific purposes."
-
-"You told me not to let you turn me into steam."
-
-"A persuasive review. Testing denied."
-
-She looked into the cup. With the fever gone, her eyes were steadier. Her hair was still a catastrophe, and one star clip now cast the shadow of a fern.
-
-"I'm sorry," she said.
+"Open the door."
 
 "No."
 
-"You're six inches tall."
+"Open it enough to take the drink."
 
-"Yes. Very observant. We'll add it to your chart."
+The chain slid into place before the lock turned. Mallow opened the door two inches, extended a hand through the gap, and wiggled her fingers.
 
-"You came in after I told you not to."
+Her nails were painted with tiny constellations. Three knuckles wore thermometer marks where she had apparently fallen asleep holding one. I pushed a carton toward her hand. She missed it once, caught it against the door, and swore.
 
-"Also true."
+"Sit down," I said.
 
-"I'm still sorry."
+"Leave."
 
-I let that stand. She let my answer stand beside it.
+"You can't hold a carton."
 
-Mallow changed into dry pajamas, moving slowly and narrating where she was so I wouldn't imagine her collapsing out of sight. She refused to promise a reversal. She did promise breakfast and a call to an aftercare service that handled stubborn magical effects.
+"Because you bought the family size."
 
-In the kitchen, most of the soup still decorated the ceiling. Mallow opened a fresh carton, heated it in a ceramic bowl, and waited until it cooled. She poured a tiny serving into a clean bottle cap and set it beside me on the table. Then she lowered her phone, already open to the number she meant to call, until I could reach it.
+"It's one litre."
 
-"Food, phone, clear route," she said. "Anything I'm forgetting?"
+"I have small hands."
 
-"The lamb tissues."
+She tried to pull the drink through the narrow opening. The chain stopped the door, the carton stopped her wrist, and her forehead came to rest against the painted wood. For three breaths she stayed there.
 
-She placed the box on its side to make me a shelter. The cartoon lambs were now larger than horses.
+I did not tell her she was proving my point. Mallow could detect smugness through plaster.
 
-Mallow settled into the chair across from me, wrapped both hands around her own soup, and surveyed the water-stained walls, the switched shadows, and the best friend who could have stood comfortably in her teacup.
+"Unhook it," I said.
 
-"Which problem first?" she asked.
+"Absolutely not."
 
-I lifted the bottle cap with both hands.
+"Then I call somebody with a key."
 
-"Breakfast."
+"You don't know anybody with a key."
+
+"I know your landlord's number."
+
+The door shut. The chain came free. When it opened again, Mallow had retreated to the far end of the entryway and was holding the useless carton like a shield.
+
+At twenty-nine, Mallow dressed for fever as if an audience might demand an encore. Flannel shorts and three different socks disappeared under a midnight-blue transformation skirt scattered with stitched stars. Her quilted pink mantle was fastened over a baggy sleep shirt, one shoulder ruffle folded under her chin for warmth. Her rose-gold hair, usually arranged in two immaculate spirals, had become a high, lopsided knot pinned with a crescent clip. A used tissue clung to the clip by static.
+
+"Put the things inside," she said. "Don't put yourself inside."
+
+I nudged the stockpot over the threshold with my foot, followed it, and closed the door behind me.
+
+Mallow's eyes watered with more than fever. "You can't make this safe."
+
+"I'm making soup."
+
+"The cold won't care."
+
+"The soup might. Sit."
+
+She threw my coat at the door. It landed in a heap where I was supposed to take the hint. I hung it on a hook and went to her kitchen.
+
+The apartment looked as though a stage wardrobe and a sickroom had collided. Starry boots lay on their sides beneath the coffee table. A silver transformation rod had been disassembled into three quiet pieces and placed in a ceramic roasting dish, well away from Mallow. Pink ribbons trailed among opened lozenges. A fever patch decorated the television remote. On the sofa, a nest of blankets had collapsed around a bucket full of crumpled tissues.
+
+Mallow followed me as far as the kitchen doorway. "Anything you touch may stop being that thing."
+
+I put the metal stockpot in the sink. "Fine. Carton soup. Ceramic bowl. Plastic spoon."
+
+"You brought the spoon?"
+
+"You own six spoons and five are decorative."
+
+"They're moon phases."
+
+"One has holes in it."
+
+"New moon."
+
+Her nose twitched. The joke fell out of her face.
+
+I shoved the soup carton aside and grabbed the nearest tissues. Mallow backed away, both hands raised, as if I were the hazard approaching her.
+
+"Don't," she said.
+
+"Don't what?"
+
+"Come closer."
+
+"I'm putting these on the counter."
+
+"Put them—ah—"
+
+The sneeze bent her nearly double.
+
+Every liquid in the room climbed out of its container.
+
+The soup came first, a thick golden globe rolling up from the open carton. Water pulled itself from the kettle in a clear sphere. The medicine in a dosing cup joined the droplets around the sink, while dampness left the sponge and the dishcloth in a pair of cloudy beads. Even the condensation on the electrolyte carton peeled away and hovered like glass marbles.
+
+I caught the medicine cup beneath its own floating dose. The dose avoided it. I moved left; it bobbed right. Behind me, Mallow snatched the soup carton as the golden globe drifted toward the ceiling.
+
+"Lid," I said.
+
+"There isn't one."
+
+"Plate, then."
+
+"Metal's heating."
+
+The sink had begun to hum. Cabinet handles answered it. A whisk in the drying rack vibrated against a bowl while the note rising from it sharpened, and heat wavered above the tap.
+
+I pulled a ceramic plate free. Mallow tried to herd the soup with the carton. The globe folded around her wrist, slid up her mantle, and burst against the ceiling.
+
+The other liquids dropped at once. Water hammered the counter. The medicine landed in my hair. The sponge slapped the floor with all its dampness restored.
+
+Mallow stood beneath a slow rain of ginger broth, blinking through the drops.
+
+"No," she said when I opened my mouth.
+
+"I didn't say anything."
+
+"Your eyebrows made a plan."
+
+She took the cartoon-star fever patch from the remote and stuck it across my forehead.
+
+I laughed. She tried not to, failed, and had to brace both hands on the doorway while the laugh turned into coughing.
+
+That ended the kitchen experiment.
+
+I got Mallow onto the sofa, brought the unopened drink, and started moving the apartment around her. The silver rod stayed in its roasting dish; it had done nothing except grow hot with the other metal. The glass coffee table went behind the armchair. I lined the corner of a bookshelf with folded towels. I moved bottles to the floor and lamps away from the route to the bathroom. Her phone went on a cushion beside her thigh. A wastebasket went on the other side, along with tissues and the thermometer.
+
+Mallow watched me over the rim of the drink carton.
+
+"Coat," she said.
+
+"Hook."
+
+"Your coat. Door. You in it."
+
+"Drink."
+
+She drank because it used less energy than finding a better insult.
+
+I used a roll of costume ribbon to mark a broad path across the rug. Nothing breakable, sharp, hot, or tall within arm's reach. Nothing on the path that could trip her. The sofa had pillows on the floor around it. The soup stain remained on the ceiling, but that was a morning problem.
+
+"There," I said. "If the next one lifts liquids, they're capped. If it throws objects, they're low. If it heats metal—"
+
+Mallow sneezed into her mantle.
+
+The humming came from the screws in the walls this time, warm notes traveling around the room. Nothing else appeared to happen.
+
+Then my shadow detached from my feet.
+
+It crossed the rug, climbed the sofa, and settled beneath Mallow like a dark blanket. Her shadow slid down the cushions, hurried over the ribbon path, and attached itself to the standing lamp. The lamp acquired the delicate profile of Mallow's ruffles. The wastebasket wore the shadow of a houseplant. None of the objects moved; only their silhouettes had been dealt elsewhere.
+
+Mallow pointed down at my shadow tucked under her knees. "Tell it about the ribbon."
+
+"Shadows can't trip you."
+
+"The first bag couldn't either."
+
+"That isn't—"
+
+She hauled my coat off its hook and pushed it at my chest. "Out."
+
+I caught it. "You just fell against the door."
+
+"And I didn't turn anyone into a beetle doing it."
+
+"You don't know what you turned anything into."
+
+"Exactly."
+
+She pushed again, but her weight vanished from the coat. I lowered it and found her very still, chin lifted, fingers pressed hard beneath her nose. Her ribs jerked once under the quilted mantle. She swallowed. The color drained around her mouth.
+
+"Stop that," I said.
+
+She shook her head.
+
+Another hitch. She squeezed her eyes shut until it passed, then folded over with her hands on her knees.
+
+The coat dropped between us.
+
+"How long?"
+
+"Don't."
+
+"How long have you been holding them back?"
+
+Mallow wiped her eyes with the heels of her hands. "Since lunch. On and off."
+
+I put the coat on the floor. "You said the last one was twenty minutes ago."
+
+"It was. They come back."
+
+"So swallowing it doesn't stop the spell."
+
+"No. It makes me not sneeze while you're standing in front of me. Move."
+
+She reached for the sofa and missed. I caught the mantle at her elbow, taking cloth instead of skin. She hated that. She also leaned on my arm all the way down.
+
+"Bathroom," I said.
+
+"Front door."
+
+"Bathroom has tile and a tub."
+
+"And pipes. A mirror. A tap. You."
+
+"Fewer loose things."
+
+"There will still be you."
+
+Her voice cracked on the last word. She tugged the mantle free and covered her face with both hands.
+
+I stopped building the reply. I picked up the phone, the drink, and two towels.
+
+"I'm clearing it," I said. "You can sit by the door until I'm done."
+
+"I said no."
+
+"I know. It's what I'm doing."
+
+Mallow swore at me without lowering her hands. It went on long enough for me to empty the bathroom shelf into the hall.
+
+I took out the razors, bottles, glass jar, hairpins, soap dispenser, scale, and the little chrome stool Mallow used when repairing hems. I spread a towel in the dry tub and another on the floor. The plastic drink went beside the tub. Her phone went face-up on the bath mat. The only loose object I left near the sink was a broad ceramic cup, because I had started thinking in terms of shelter.
+
+Mallow arrived wearing my coat over her mantle. She had evidently decided that if I would not use it, she would. The sleeves hung past her hands.
+
+"You moved my toothbrush," she said.
+
+"Hall. Blue towel."
+
+"My good hairpins?"
+
+"Roasting dish."
+
+"My dignity?"
+
+"Didn't see it."
+
+She almost smiled. Then she put one hand on the wall.
+
+I climbed onto the sink counter to shove the ceramic cup farther from the edge. "Tub or floor?"
+
+"Floor. I don't want to climb over—"
+
+Her breath snagged.
+
+Mallow covered her nose with the coat sleeve and turned her face toward the bare wall. I planted both hands on the counter and stayed where she could see me.
+
+"Wait," she gasped.
+
+I waited. The sneeze did not.
+
+The bathroom surged outward around me. The faucet became a silver tower. Grout lines widened into pale roads. The weave of the hand towel thickened into ropes, and the counter edge retreated beneath my knees.
+
+I was the thing shrinking.
+
+My shoes lost their purchase. I slid over the edge before the thought had found words.
+
+Mallow crossed the bathroom in two steps and caught me against her chest.
+
+Her hands closed around my back and legs, warm enough to feel through my clothes. Her heartbeat knocked against my shoulder. Above me, her fever-flushed face filled the world; wet lashes, chapped lip, one star clip hanging by three strands of hair.
+
+"Say something," she whispered.
+
+"Your thumb is on my ribs."
+
+She moved it so fast I nearly fell between her palms.
+
+"Not that much."
+
+"Sorry. Sorry."
+
+I was perhaps six inches tall. My clothes had come with me, including the fever patch still stuck to my forehead. Mallow's coat button was the size of a serving plate. The sink counter now stood above us like a white cliff.
+
+Mallow lowered me into the ceramic cup on the floor. The cup had no handle, which had seemed like sensible clutter reduction and now felt like excellent foresight. I climbed onto the folded corner of a towel to see over the rim.
+
+"Phone," I said. "Put it closer. And cap the drink. We need something over the cup, but not sealed, and move away from the mirror, and if the next one changes scale again—"
+
+Mallow turned her head sharply. Her nostrils flared.
+
+"Tissue," I said. "Left pocket. No, your other—"
+
+She jammed the coat sleeve over her nose. Her whole body tightened. The phone slipped from her hand and struck the bath mat.
+
+"Don't hold it," I said.
+
+She shook her head hard.
+
+"Mallow, you're going gray."
+
+One hand groped along the wall. She could not answer. I called her name again, louder, which at my size amounted to a determined squeak.
+
+She sank to her knees. The metal pipes under the sink had cooled, but my feet still tingled with the last chord. I had no way to lift the drink carton, drag the phone, steady her, or reach the lock. Every arrangement I had made was now too large for me to operate.
+
+"Where do you want me?" I asked.
+
+Mallow opened streaming eyes. She pointed at the space beneath the sink.
+
+"Cup there?"
+
+She nodded.
+
+"Do it."
+
+She hooked one finger over the rim and dragged the cup under the sink's deep porcelain overhang. The motion knocked me onto the towel. When I stood again, she was pushing the phone toward me with both hands. She left it flat on the bath mat, screen awake, its lower edge against the cup.
+
+"Can you see me?" she managed.
+
+"Yes."
+
+"Stay there."
+
+"If you fall?"
+
+She nudged the capped drink with her heel until it rested beside her knee. "I'll kick that. Noise."
+
+"All right."
+
+"Don't run out."
+
+"I can't run very far."
+
+"Promise."
+
+"I'll stay in the cup."
+
+Mallow pulled the sleeve away from her face. The trapped sneeze rushed back so quickly that she barely turned aside.
+
+The shower curtain disappeared.
+
+In its place, hundreds of soap bubbles filled the room. They were thumb-sized to Mallow and enormous to me, bright with oily colors, bobbing off the tub and ceiling. Each time one struck a surface, it asked in a brisk little voice, "What time is it?"
+
+The pipes heated and began their humming chord.
+
+"What time is it?" said a bubble against Mallow's forehead.
+
+She sat down hard beside the tub. "No."
+
+Three bubbles bounced off the mirror. "What time is it? What time is it? What time is it?"
+
+One rolled over the cup's rim and landed beside me, wobbling at eye level. "What time is it?"
+
+"Bad," I told it.
+
+Mallow laughed once, a weak bark that turned into another laugh. I joined her. The bubble bounced against my shoulder, repeated its question, and burst over both of us with enough soapy water to flatten my hair.
+
+Nothing about that spell was kinder than the one that had shrunk me. The cold had happened to give us nuisance instead of disaster. Mallow still checked the room before she moved. I stayed inside the cup while the metal cooled. When she could grip the tap without burning herself, she refilled the plastic tumbler, drank half, and lowered a bottle cap full of water to me.
+
+The bubbles kept asking the time. Mallow answered the first twelve with different lies, then began flicking them into the tub.
+
+The rest of the night refused to become a pattern.
+
+Each discharge warmed the nearest metal into a new, unhelpful chord.
+
+One sneeze made every right angle in the bathroom gently round. The phone rolled off the softened bath mat; Mallow trapped it beneath her bare foot and waited for the grout to straighten again. The next spell turned the contents of the wastebasket into pink moth-shaped paper scraps. They did not fly. They merely covered the hall and stuck to the wet soup tracks while the screws in the door hinges sang warm alto notes.
+
+After midnight, anything blue began to leak clean water. Mallow's starry skirt wept through the stitched constellations. The folded towel in my cup soaked me to the waist. The blue stripe on the toothpaste box outside the door produced a steady thread that ran under the baseboard. We moved only what we had to and endured the rest until the water slowed.
+
+A later sneeze made the ceramic cup smell exactly like toasted coconut and did nothing we could find to its shape. That worried Mallow more than the bubbles. She examined me from arm's length without touching, then crawled back to the tub and shut her eyes.
+
+Between discharges she told me when the tickle started. I got behind the rolled edge of the towel. She put one hand on the capped drink, not to wield it, only so she would not have to search for it while dizzy. Sometimes the spell was ridiculous. Sometimes it was only obscure. None of them reversed my size, dried the floor, returned the shadows, or gave Mallow a single choice about what came next.
+
+Near dawn, she lay down in the dry end of the tub with my coat under her head and her damp mantle pulled over her legs. I put the phone between the cup and the tub, microphone toward me. The last sneeze changed the bath mat into a patch of ankle-deep clover that smelled strongly of pencil shavings. Warmth ran through the pipes. Their notes softened one by one.
+
+Mallow slept before the final note ended.
+
+I watched the clover for movement, counted her breaths until I lost count, and curled up in the towel with the phone's flashlight on low.
+
+Morning made the bathroom look less magical and more expensive.
+
+Gray daylight showed the water swelling the baseboard. Paper moths had pasted themselves to the hall floor. The swapped shadows still lay in the wrong places, thin in the early light. Mallow's fever had broken; she sat in the tub with one eye open and a thermometer drooping from her mouth.
+
+She read it, drank, and waited.
+
+"How long?" she asked.
+
+I walked across the phone screen to wake it. "Two hours, forty-one minutes."
+
+Mallow rubbed beneath her nose.
+
+"Don't."
+
+"It itches."
+
+"Scratch it. No experiments."
+
+"I wasn't going to force a sneeze."
+
+She lowered one finger slowly from her nostril, which was evidence against her.
+
+Her eyes found the cup. They stopped on me. In daylight, my six-inch condition had become harder to mistake for temporary perspective.
+
+"Can you move everything?" she asked.
+
+I bent my knees, raised both arms, and turned around. "Everything attached."
+
+"Any pain?"
+
+"Bruised dignity. Damp socks."
+
+Mallow pulled the towel from around her shoulders. "I'm calling someone."
+
+"After you eat."
+
+"Now."
+
+She stood too quickly, caught herself on the tub, and glared at the room as if it had contradicted her.
+
+"Soup," I said.
+
+"Phone."
+
+"Your hands are shaking."
+
+"You're the size of my hairbrush."
+
+"A travel hairbrush. Soup."
+
+Mallow considered ignoring me. Instead she put the phone into her coat pocket, lifted my cup with both hands, and carried me to the kitchen.
+
+The trip gave me a high view of the damage. Ginger soup striped the upper cabinets. Water beaded under anything blue. My shadow remained under the sofa, while Mallow's ruffled silhouette followed the standing lamp. The metal had stopped humming, but she tested the kettle handle with the back of one finger before touching it.
+
+She heated fresh soup in a ceramic bowl. While it cooled, she spread a dry yellow towel on the table, laid the phone flat within my reach, and set the lamb-tissue box on its side behind me as a windbreak. Then she poured soup into a bottle cap.
+
+The cap was too full. When I tried to lift it, broth slopped over my hands.
+
+"Half," I said.
+
+Mallow tipped some back into her bowl. She broke a cracker into pieces small enough for me and pushed three across the towel with one constellation-painted fingernail. Only after I started eating did she unlock the phone.
+
+"Call first," she said. "Then towels. Then the ceiling."
+
+"Your hair has soup in it."
+
+"Ceiling first, then."
+
+"Call."
+
+She tapped the number, set the speaker beside my tissue-box shelter, and wrapped both hands around her own bowl while it rang.

@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Kemma | new | No exact, alias, close-spelling, or readily confused prior use found. |
-| Daret | new | No prior use found; the form remains readily distinguishable from Deryn and Teren. |
+| Kemma | new | Only story-facing form; no exact, alias, close-spelling, or readily confused prior use found. |
+| Daret | new | Only story-facing form; no prior use found, and it remains readily distinguishable from Deryn and Teren. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Narrowhearth | new | No exact, alias, close-spelling, or readily confused prior use found. |
+| Narrowhearth | new | Only story-facing form; no exact, alias, close-spelling, or readily confused prior use found. |
 
 ## Continuity
 
@@ -21,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The localized pull remains a bounded story-local condition, and the final work choice resolves the promised strength discovery through Kemma's agency without overstating their tested limits.
+- Notes: The six tags total exactly 200 kilograms; the localized pull remains a bounded, non-agent story-local condition, while the bridge, straps, skin, crate, pay, and next-day tag keep Kemma's capacity materially limited. Their final task choice resolves the strength discovery without revenge, crowd conversion, or instant belonging.

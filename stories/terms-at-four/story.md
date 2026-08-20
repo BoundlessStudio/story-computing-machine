@@ -8,296 +8,350 @@ canon: false
 
 # Terms at Four
 
-At three fifty-two, while police crouched behind the garden wall and three aircraft drew slow circles above the cloud, Clemency Pruett asked whether I wanted the blue cup or the one painted with strawberries.
+At three forty-six, Clemency Pruett opened the front door and asked whether I would rather be welcomed with a kiss on the cheek or a warm towel for my hands.
 
-“The blue holds heat better,” she said. “But the strawberries are cheerful.”
+“The towel,” I said.
 
-Every window in the hill house had been covered by a steel shutter. The fire was gas and therefore smokeless. On the table, afternoon light came from two rechargeable lamps under pink silk shades, each placed to flatter a spread that would have embarrassed a hotel: a glazed lemon cake, almond cookies stamped into little suns, a lattice pie bleeding dark berries, and a silver pot of tea whose steam smelled of pears and woodsmoke.
+“I thought you might be cross with me.”
 
-“Strawberries,” I said.
+She made it sound like lateness or a borrowed umbrella. Behind me, police filled the long drive without stepping onto it. They had let me walk from the gate alone, between clipped yews and flower beds glittering with frost, while marksmen watched the shuttered windows. No one followed me across the threshold.
 
-“I knew it.”
+Clemency closed the door. A lock drew its bolt with a deep electric knock.
 
-The magnetic lock clicked behind me.
+The hall was square and narrow. The front door opened onto the drive; the parlor stood to the left; straight ahead, beyond the stair, a green baize door led to the old service wing and its six rooms. I had studied the estate agent’s floor plan in the police van. Knowing the route did nothing to loosen my chest.
 
-Clemency was thirty-two, six months older than I was, and capable of calculating orbital drift faster than most people could divide a restaurant bill. She had chosen a cream dress with a prim collar, a cardigan the color of sugared violets, and two black ribbons at the ends of her braids. On anyone else, with an armed cordon outside, the effect might have seemed like a costume. Clemency had worn ribbons to university examinations and once delayed a funding hearing because a committee member had set a sweating water pitcher on an embroidered cloth. She liked pretty things with the same serious appetite she brought to trajectories.
+“There,” Clemency said, wrapping my fingers in the steaming towel. “You’re frozen, little wren.”
 
-She looked very cute. That did not make anything less alarming.
+She was thirty-five, a grown woman with two engineering degrees, a national arrest warrant, and violet bows tied at the ends of her glossy black braids. Her cream dress had strawberry buttons. Her slippers were pink. She was, inconveniently and genuinely, very cute.
 
-“Sit down, darling,” she said. “You’ve walked all the way up the drive.”
+I was thirty-four and old enough to know that none of those facts cancelled another.
 
-I had walked from the last barricade, hands visible, past officers whose rifles followed me without wavering. The negotiators had allowed me through because I was the only visitor Clemency had requested and because, so far as anyone knew, I was not part of her organization. Eleven months earlier, I would have said I was her closest friend. Ten months earlier, investigators had searched my flat and shown me photographs of Clemency entering a restricted guidance station with three people I had never met.
+She hung my coat beside a second one I did not recognize, green wool with a velvet collar. Then she took my wrist and drew me into the parlor as if I had come late to an ordinary party.
 
-We had not spoken since.
+The house was dark behind its steel shutters. Clemency had defeated the gloom with battery lamps under pleated shades, a gas fire, and two dozen beeswax candles set far from the curtains. Their light found every gold rim and sugar crystal on the tea table. She had laid places for two.
 
-The invitation in my pocket said only: *Four o’clock. Reconciliation tea. There will be pie.*
+“Blue cup or rosebuds?” she asked.
 
-I sat. “Are they all still alive?”
+“Are the six people behind that green door alive?”
 
-“Tea first.” She lifted the pot. “Milk?”
+“Blue, then. You always held the rosebud handle too tightly.”
 
-“You remember.”
+I sat because I had spent ten months imagining this meeting and because the police negotiator had asked me to keep her talking. Mostly I sat because Clemency was already pouring. She had always been able to turn resistance into a breach of manners, then look wounded when I declined to repair it.
 
-“I remember everything about you.”
+The tea smelled of roasted pear and distant woodsmoke. She gave me milk without asking, one generous spoonful and a smaller second, and set a glass dish of honey near my right hand. The first mouthful was hot enough to sting. Smoke arrived first, then fruit, then a mineral sweetness that stayed after I swallowed. It was exactly the sort of tea I would have asked her to find for me when we were friends.
 
-That might have been tenderness. In that house, it was also a technical specification.
+“Good?” she asked.
 
-The tea streamed amber into my cup. Clemency added one spoonful of milk, then half another, exactly as I liked it. The first sip carried smoke, then pear, then a clean tannic bite that made the warmth seem brighter. It was delicious. So was the thin slice of lemon cake she pressed on me, its crumb damp with syrup and its icing sharp enough to sting the sides of my tongue.
+“Very.”
 
-“You baked,” I said.
+Her shoulders lowered. That mattered to her. So did the six locked doors.
 
-“Last night. The police arrived halfway through the second sponge. I worried the vibration from their breaching vehicle would make it fall.”
+The cake was a small, high thing glazed in lemon and scattered with pistachios. Clemency cut a precise wedge, no wider than two fingers, and placed it on my plate with a curl of candied peel. The sponge yielded under my fork. Cardamom warmed the lemon curd, and the icing was so tart that my jaw tightened before butter and sugar softened it.
 
-“I’m glad you kept your priorities straight.”
+“You made this.”
 
-Her smile came back cautiously, testing whether the old shape of us still fit. “Try a biscuit.”
+“The curd twice. The first batch tasted metallic. I think the siege lights affect the voltage in the kitchen.”
 
-I chose an almond sun. It broke with a delicate snap, buttery and salted, and left sugar on my thumb. For half a minute we could have been in the flat we shared after university, when we ate cakes too expensive for us and Clemency corrected the radio weather presenter’s use of *orbit*. My body knew how to be soothed by her. It accepted the hot cup, the neat room, her attention to crumbs. My body was an idiot.
+“The police call them floodlights.”
 
-“The six people in the service wing,” I said. “Are they all alive?”
+“They are besieging me with them.” She touched the cake server to the edge of the plate, gathering one escaped crumb. “Have a cookie, darling. The rabbits are almond. The windows are apricot.”
 
-Clemency aligned the cake knife with the table’s edge. “Yes.”
+The cookies occupied a three-tiered stand: brown-butter rabbits with salt on their ears, thin almond rounds punched with stars, and little square windows holding clear orange jam. I chose an apricot one. It cracked cleanly, then melted, leaving toasted sugar on my tongue and a spot of jam on my thumb.
 
-“Will you let me see them?”
+Eleven months before, Clemency and I had spent most evenings in the same cramped flat, arguing over music while she tested guidance models at the kitchen counter. Ten months before, investigators had shown me a still image of her entering the mirror control station with three masked adults. She had not answered any of my messages after that. Her invitation had arrived that morning on thick paper:
+
+*Tea at four. Please come hungry. I have missed you.*
+
+I put down the bitten cookie. “Alive?”
+
+Clemency moved the stand until its painted roses faced me. “All six.”
+
+“Let me see them.”
 
 “After pie.”
 
-“Now.”
+“That is not a normal order for tea.”
 
-She glanced toward the mantel clock. Its minute hand moved with a small mechanical tick. “Berry or custard?”
+“It is when the pie is warm.”
 
-“You made two pies?”
+She lifted the silver cover herself. Steam carried blackberry, plum, and black pepper into the room. The lattice crust had been brushed with cream and coarse sugar; purple juice had bubbled through one corner and turned glossy against the dish. Clemency spooned vanilla custard beside my slice. The pastry shattered at the rim and remained soft where it met the fruit. The berries were sharp, the plums almost floral, the pepper no more than a small heat at the back of my mouth.
 
-“One berry pie. Custard for it. Honestly, you’ve become suspicious.”
+It was delicious. All of it was delicious. I resented neither my appetite nor the food. I resented Clemency for knowing that pleasure could make a room feel harmless for the length of a swallow.
 
-I laughed. It escaped before I could decide whether anything was funny, and she brightened at the sound. This was how she had always won our arguments. She made the route away from conflict so pleasant that being right often ceased to matter. I let her spoon pale custard beside the pie.
+“You can say it,” she said.
 
-The crust was crisp even beneath the fruit. Blackberries and sour cherries collapsed together, hot with clove. I hated that it was the best pie I had ever eaten. I hated more that some greedy, familiar part of me wanted to tell her so.
+“The pie is excellent.”
 
-At four exactly, the red telephone on the sideboard rang.
+She smiled with her whole face. For a few seconds I saw the friend who had once crossed a city at midnight because I had flu and wanted a particular soup. Genuine care sat at the table with us. It did not unlock anything.
 
-Clemency set down her fork. The hostess vanished from her face, leaving the engineer who had once guided a damaged mirror through a field of orbital debris with four lines of code and a pencil calculation. She carried the phone to the table and touched the speaker key.
+At four, a red telephone on the sideboard rang.
 
-“Prime Minister,” she said.
+Clemency set down her fork. “Right on time.”
 
-The voice that answered was familiar from news broadcasts, though flatter now, with no room in it for applause. “Ms. Pruett. The government accepts the stated terms. Safe passage for you. Full amnesty and immediate release for the three adults in custody. The legal defense account will be unfrozen and transferred to its trustees.”
+She pressed the speaker key. The Prime Minister was sixty and usually spoke in paragraphs. On that telephone, the voice was plain.
 
-Clemency’s fingers tightened around the receiver.
+“Ms. Pruett. The government will meet your terms. You will receive safe passage. The three adults in custody will receive amnesty and be released. The frozen defense fund will be restored to its trustees.”
 
-“In exchange,” the Prime Minister continued, “you will release all six hostages and disarm the orbital mirror. We must confirm both before the transport enters your gate.”
+Clemency went very still.
 
-“The exchange protocol requires your authorization first.”
+The Prime Minister continued. “The conditions are the release of all six adult hostages and the disarmament of the orbital mirror. Both must be verified by four twenty-four. When they are verified, I sign the orders, release the account, and send the car through the gate.”
 
-“No.”
-
-“Then it is not an exchange. It is a surrender followed by a promise.”
-
-“It is the offer. The mirror crosses the depot’s firing track in thirty-one minutes. If it remains armed twenty minutes from now, we breach the house and attempt to take your control system. You know what that risk means better than I do.”
-
-Above the teapot, steam thinned and disappeared. I had heard fragments from the negotiators outside. An agricultural mirror had been diverted; officials had been taken. No one had told me what lay under the altered ground track.
-
-“What depot?” I asked.
-
-Clemency muted the call. “A fuel storage complex near the capital.”
-
-“You said this system couldn’t burn anything.”
-
-“I said its normal focusing geometry couldn’t. The array spreads winter light over greenhouse districts. It puts tomatoes ahead by a week, confuses moths, and makes growers quarrel about shadows. I changed the convergence limits.”
-
-Her tone was precise now, almost impatient. Orbital facts had edges she trusted.
-
-“Could it ignite the depot?”
-
-“If I let it hold the track for eighty-two seconds.”
-
-“Will you?”
-
-The question injured her. I saw that, and for one shameful instant I wanted to take it back.
-
-“I invited you here,” she said.
-
-I looked at the locked door. “Yes.”
-
-She unmuted the telephone. “I want authenticated proof that my people have been released.”
-
-“After the hostages are through the front door and tracking confirms the mirror is feathered,” the Prime Minister said. “Then I sign the amnesties, release the account, and send the car. That sequence is final.”
-
-“You’re asking me to abandon all leverage inside an armed perimeter.”
-
-“Yes.”
-
-There was no cruelty in the answer, and no comfort.
-
-Clemency opened a slim computer on the sideboard. One screen showed a map crossed by a yellow arc. Another held six silent camera feeds.
-
-“Your proof of life,” she said.
-
-Six adults occupied six different rooms in the service wing. In the first, a silver-haired man paced from wall to wall, counting his steps on his fingers. A woman in a dark suit sat on the floor with her back against a bed, eating dry toast and glaring straight into the camera. The third hostage held up a labeled pill packet and then pointed furiously at the clock. In the fourth room, a broad man had dismantled the shade from a table lamp and was examining its cord. The fifth, a woman in shirtsleeves, waved both arms until she had Clemency’s attention, then pointed at the locked door and made a sharp turning motion with her hand. The last adult stood very still beneath the camera with a handwritten sign: *WE ARE NOT YOUR EVIDENCE OF GOOD CARE.*
-
-There were water jugs, covered plates, blankets, and first-aid boxes in every room. The doors had no interior handles.
-
-“Turn on the sound,” I said.
+“My proposal executes all obligations together,” Clemency said.
 
 “No.”
+
+“Your car is one of the obligations.”
+
+“Six people out. Mirror feathered. Then the car.”
+
+“You expect me to discard my leverage while armed officers surround the house.”
+
+“Yes. At four thirty-two the mirror reaches the dangerous ground track. At four twenty-four, if the hostages are still locked in or the mirror can still focus, the police enter. That is the deadline.”
+
+Nothing in the voice suggested hidden options. The phone stayed quiet.
+
+I looked at Clemency. “Dangerous how?”
+
+She muted the call and crossed to a slim console beside the fire. A map appeared on its upper screen: a pale curve moving toward a short red bar.
+
+“The mirror is agricultural,” she said. Her pet names disappeared. “Its panels normally spread sunlight into separate moving bands over winter greenhouse country. Growers book mirror time like rain. Lettuce ripens in bright stripes. Moths hatch at absurd hours.”
+
+“And now?”
+
+“I altered the convergence safeguards. This orbit gives one usable focus, on one ground track. The line crosses a fuel depot near the capital at four thirty-two. Seventy-four seconds at the commanded concentration could ignite the exposed tanks.”
+
+Her precision sharpened as her control thinned. She could say *seventy-four seconds* more easily than *people might burn*.
+
+“What does feathering do?”
+
+“Turns every panel edge-on to the sun. Collection falls to almost nothing. Focus becomes impossible until ground control rebuilds the array.”
+
+“Then do that.”
+
+She looked at me as if I had skipped a vital part of a proof. “The government has not acted.”
+
+“They accepted.”
+
+“They promised.”
+
+The telephone gave a short tone. Clemency unmuted it.
+
+“Show the hostages,” the Prime Minister said.
+
+Six camera windows replaced the map. Beneath them, six numbered door indicators glowed red.
+
+Every room held an adult. A grey-haired man stood on a chair with his face close to the camera. A woman in a dark suit had wedged a lamp base under her door and was stamping on it. In the third room, a broad-shouldered man held up two empty water bottles and pointed to the bathroom tap, which appeared not to run. The fourth hostage, a woman with close-cropped hair, sat on the floor with one bare foot raised and her ankle wrapped in a pillowcase. Another man had written *PHONES AND SHOES* across a bedsheet. The sixth adult, a woman in a wool skirt, held a card to the lens:
+
+*OPEN SIX DOORS. COUNT SIX PEOPLE.*
+
+Each room contained a covered meal, a jug, blankets, and a first-aid box. None of the doors had an inside handle.
+
+“Sound,” I said.
+
+“They may coordinate a rush.”
+
+“They already have.”
+
+The woman in the dark suit had abandoned the lamp base. She pointed at the camera, then at her mouth.
+
+Clemency drew a breath through her nose and opened the audio.
+
+Sound arrived from six rooms at once: fists on wood, someone demanding the time, the grey-haired man swearing with patient creativity. Then the woman in the dark suit leaned close enough to fill her camera.
+
+“All six of us are alive,” she said. “One ankle is hurt. The taps stopped ten minutes ago. Our phones and shoes are in the pantry. Open the doors.”
+
+“The water tank is changing over,” Clemency said. “It takes four minutes, sweetling.”
+
+“Do not call me that.”
+
+“I have kept everyone fed and supplied.”
+
+“You took us out of our offices at gunpoint.”
+
+Clemency cut the audio.
+
+The Prime Minister said, “I have seen six living adults. The conditions do not change. Four twenty-four.”
+
+“I require proof of the first amnesty signature.”
+
+“After release and feathering.”
+
+“That sequence leaves a forty-eight-second interval in which your optical tracking could claim uncertainty.”
+
+“Then leave forty-eight seconds before the deadline.”
+
+Clemency’s eyes flashed. The Prime Minister had answered an orbital objection with a clock. The mantel clock showed four thirteen.
+
+“Give me three minutes,” she said.
+
+“You have three.”
+
+She muted the telephone again. I stood, more from the need to move than from a plan. The cake, cookie, and pie remained on my plate in bright, exact fractions.
+
+“Your tea will go cold,” Clemency said.
+
+“What does feathering cost the farms?”
+
+“One growing band. The farmers will complain, and ground control will spend a week checking the hinges. Nothing worse.”
+
+The green coat’s inner pocket sagged around something rectangular. A brown leather wallet protruded by half an inch.
+
+I pulled it free.
+
+My passport lay inside.
+
+For a moment the house seemed quieter than the six silent camera feeds. My passport belonged in the second drawer of my desk, beneath my tax papers. It had been there when I left for the police barricade.
+
+“Try the coat,” Clemency said behind me. “I guessed the sleeves. If they are short, there is no time now, but I packed the violet gloves you like.”
+
+“Someone went into my flat.”
+
+“Only to collect what you needed.”
+
+“I did not ask for anything.”
+
+“There are two rear seats in the car.”
+
+The answer made the coat, the invitation, and the perfect food settle into a new arrangement.
+
+“You planned to take me.”
+
+“I planned to ask you.” Her voice softened. “After tea. Properly.”
+
+“With my passport already packed.”
+
+“You dislike rushed departures.”
+
+On the console, the white point moved closer to the red ground track. Clemency looked not at it but at me.
 
 “Why?”
 
-“They could relay instructions from the police.”
+“Because I missed you.” She tugged one violet bow straight. “Because the three they arrested know this version of me. You remember the flat, and the cheap cakes, and the month I slept on your floor after my mother died. Because there ought to be someone in the car who knows I am not only what they will say.”
 
-On the screen, the man with the lamp cord looked directly into the lens and gave it a rude gesture.
+I might have yielded to that once. Then she added, more quietly, “They will also be careful with the car if you are visible.”
 
-“He has been doing that for twenty minutes,” Clemency said.
+“Company and insurance.”
 
-“Good for him.”
+“You came here freely.”
 
-Her mouth went small. She pushed a control, and the six feeds remained while the yellow ground track expanded beneath them. A white marker crept toward a red one.
+“The door locked behind me.”
 
-The Prime Minister said, “I need your response.”
+“For the police, dear heart. Never for you.”
 
-“I need two minutes with my guest.”
+I held up my passport. “Unlock it.”
 
-“You have two.”
+Her gaze flicked to the front-door panel. “We have not finished.”
 
-Clemency muted the call again. She returned to the table and cut me another slice of cake without asking. The knife ticked against the china.
+“If I say no to the second seat, do I leave?”
 
-“You haven’t tried the little jam cookies,” she said. “They’re apricot.”
+“You have not tried the almond rabbits.”
 
-“Clem.”
+“Do I leave?”
 
-“You used to steal apricot jam from my shelf.”
+The hostess vanished. “There are one hundred and ninety seconds before I must begin the release sequence with enough margin for all six sensors. Feather rotation takes twelve seconds after command acceptance. If you create another movement at the front door, the officers may alter their positions and consume the margin.”
 
-“You labeled the shelves.”
+“That still does not answer me.”
 
-“Because you stole from them.”
+I carried the passport to the telephone and unmuted it. “If I walk out the front door, will your officers hold fire?”
 
-“Are you going to accept?”
+The Prime Minister answered at once. “Yes. Keep your hands visible and stay in the center of the drive. No officer advances before four twenty-four unless a hostage exits or someone is in immediate danger.”
 
-She laid one cookie beside my cake. A bright coin of jam trembled in its center. “They could arrest me between the front step and the car.”
+“Thank you.”
 
-“Safe passage.”
+“Please sit down,” Clemency said. She straightened my chair, though I stood six feet from it. “Let me finish this.”
 
-“Promised by a voice through a telephone.”
+I had finished hundreds of her difficult moments for her. At restaurants I returned the wrong dish because she could not bear to embarrass a waiter, although she could make me do it. At work dinners I translated her silence into a softer refusal. When our friendship began to fail, I called each fresh demand a misunderstanding so neither of us would have to hear the sound of a door closing.
 
-“And the other choice burns people who have never heard of you.”
+That skill had brought me through the police line. It would not put me in her car.
 
-“That is why the promise has value.”
+“I am not taking the coat,” I said. “I am not taking the seat. Open the front door.”
 
-I stared at her. She looked away first, toward the hall, where two travel coats hung from brass hooks. I had noticed hers when I entered: navy wool, silver buttons, already belted. The other was my size and the green I always chose when there were six versions of anything.
+“We were meant to leave together.”
 
-I crossed to it. In the inner pocket I found a leather passport wallet. Inside was my actual passport, the one that should have been in the locked drawer of my desk at home, and a printed travel authorization bearing today’s date.
+“You decided that without me.”
 
-“You sent someone into my flat.”
+She stepped between me and the panel. Not close enough to touch. Close enough that I would have to choose whether to pass her.
 
-“You weren’t there.”
+“Clemency,” I said into the open line, “if this door stays locked, count me as a seventh hostage.”
 
-“That is usually what makes it burglary.”
+“Don’t.” She took one step back. “You are not one of them.”
 
-“It was retrieval. Temporarily.” She glanced at the clock. “There are two places in the car.”
+“Unlock it.”
 
-On the walk up the drive, I had feared that the tea was camouflage for some technical task only I could perform, though I knew nothing useful about orbital mirrors. This was worse in a quieter way.
+The house clock ticked twice.
 
-“You want me to leave with you.”
+She put her hand on the panel. The red lock symbol waited beneath her fingers. She could keep it red and gain another body between herself and the police. She could make her claim about me true by force.
 
-“I want you to choose to.”
+Her thumb moved.
 
-“Why?”
+The symbol turned green.
 
-Her answer arrived in pieces. “Because you know me. Because the three they arrested know only this operation, not who I was before it. Because they’ll be careful with the car if you’re in it. Because I cannot arrive wherever comes next with nobody who remembers the old flat.”
+I opened the door. Cold air shouldered into the hall and flattened the nearest candle flames. Rifles shifted beyond the garden wall, then held. I raised both hands and stepped onto the stone threshold.
 
-She had fitted affection, evidence, and armor together so neatly she could call them one thing.
+No one fired. No one advanced.
 
-“Was I allowed to say no when I came in?”
+I could have walked down the drive. Instead I stayed outside the lock with one hand on the open door. The six adults in the service wing had only this route, and one of them could not put weight on her foot. Staying now was my decision, not an answer Clemency could pack.
 
-“You came in.”
+At four nineteen, she returned to the console.
 
-“That isn’t an answer.”
+“Observe the six door sensors,” she told the Prime Minister. Her voice was level again. “Releasing together.”
 
-“You accepted the invitation.”
+She pressed her thumb to a reader and entered a sequence. Six heavy bolts withdrew beyond the baize door. On the screen, every indicator changed from red to amber.
 
-Behind her, the woman in shirtsleeves struck her locked door with the heel of her hand. The sound did not reach us.
+For one second, no door moved.
 
-I had spent years making Clemency’s questions easy to survive. I said *perhaps* when I meant *no*, laughed when she crossed a line, and let her treat my remaining in a room as agreement with whatever happened there. Usually the stakes were dinners, holidays, borrowed clothes. Now the old habit felt less like kindness than a piece of her machinery.
+Then the first sensor went green. The second followed. Three and four changed almost together, then five. The sixth remained amber.
 
-“If I refuse the car,” I asked, “what happens?”
+The Prime Minister said, “One door has not opened.”
 
-“The lemon cake is better before the icing sets hard.”
+“The bolt is clear,” Clemency said.
 
-“What happens, Clemency?”
+On the camera, the woman with the injured ankle was trying to stand. The man from the next room had reached her through the open corridor. He pushed her door wide with his shoulder.
 
-“You don’t have to decide this second.”
+The sixth indicator turned green.
 
-The Prime Minister’s voice broke through the mute with a warning tone from the handset. One minute had passed.
+The hostages did not run. The woman in the dark suit went first with the broken lamp base held like a club. She stopped at the pantry, found the bag containing six phones, and passed it to the grey-haired man. The broad-shouldered man retrieved an armful of shoes. Two others supported the injured woman between them. They counted one another before they crossed the hall. Their attention stayed on one another.
 
-“You set the time,” I said. “You locked the door. You brought my passport. You put me in range of a satellite you armed, and you’re offering me cake as if the softest choice is automatically free.”
+I moved aside and counted them through the front door. One, two, three, four, five. The injured woman came sixth, gripping two shoulders and swearing each time her wrapped foot swung.
 
-“I would never hurt you.”
+“Six outside,” the Prime Minister said. “Feather the mirror.”
 
-“Then unlock the front door.”
+Clemency could still have held the focus. The police had not crossed the wall; the car had not entered the gate. The three adults she had bargained for remained in custody.
 
-She looked at the control panel beside the sideboard. “The police may shoot when it opens.”
+She restored the orbital display. The narrow focus cone ended at a white ground point that crept toward the red segment ahead. Beneath it were two commands.
 
-“Tell them I’m coming out.”
+She selected *FEATHER ARRAY*.
 
-“And leave me alone in here?”
+The console asked for her private key. She entered it without looking at me. A twelve-second bar began to fill.
 
-I wanted the answer that would save her. I wanted to sit again, drink the tea while it was warm, and speak gently until she lowered every defense without ever having to hear that I had judged her. It was an old fantasy: that patience could make another person’s decision for them and leave both of us innocent.
+On the schematic, hundreds of mirrored panels rotated until their bright faces became hairline edges. The focus cone widened, paled, and vanished. The red bar on the ground track went grey. A status box appeared:
 
-“I care whether you live,” I said. “I care what happens to the people you tried to protect. I am not getting into that car.”
+*CONCENTRATION DISABLED. AGRICULTURAL SERVICE SUSPENDED.*
 
-Clemency’s face did not crumple. She was too proud for that and too busy. Her gaze moved from me to the ground-track display, then to the six sealed rooms. Information entered her; she worked with it.
+“Feather command complete,” Clemency said. “My focusing key is revoked.”
 
-I put on neither coat. The passport wallet stayed on the table. I walked to the front door and wrapped my hand around the latch.
+The Prime Minister made her wait. The injured hostage lowered herself onto the top step. The man with the phones began handing them out, ignoring an officer who told him to move down the drive. Behind us, the mantel clock reached four twenty-two.
 
-The control for the magnetic lock was across the room. Clemency reached toward it. For a second her finger hovered above the red key that could keep me inside.
+“Independent tracking confirms the array is feathered,” the Prime Minister said. “The focus is gone. Six adults are outside. I am signing now.”
 
-Then she touched the green one.
+The line went quiet for nine seconds.
 
-The lock released with a heavy clack. I opened the door. Cold air rushed through the sugared warmth of the house, and every voice outside seemed to speak at once. A loudhailer ordered me to show my hands and walk down the drive.
+“The three amnesty orders are signed. Custody confirms all three adults are being released. The defense account is unfrozen and accessible to its trustees. Your safe-passage car is entering the gate now.”
 
-I raised my hands but stayed in the entry hall. “There are six people coming out,” I called. “They may need help.”
+Three small acknowledgments appeared on the console, followed by an account light changing from grey to white. Clemency checked each once. That was enough for her.
 
-Behind me, the red telephone rang its warning again.
+At four twenty-seven, a dark car rolled between the police vehicles. It stopped at the lower end of the drive with its rear door open. Officers kept their weapons down and their distance.
 
-Clemency unmuted it. “Prime Minister. Observe the door sensors.”
+Clemency put on her navy travelling coat. She placed my passport wallet on the hall table, square with the edge, and left the green coat on its hook. She passed the people on the step without addressing them, then paused beside me and looked toward the empty rear seat.
 
-She turned to the computer. Six closed-padlock symbols stood in a column. She pressed her thumb to a recessed plate, entered a long sequence, and selected *OPEN ALL*. The symbols changed one by one. Somewhere deep in the house, bolts withdrew with six separate thumps.
-
-On the camera feeds, the hostages did not move at first. The man with the lamp cord flung it away. The woman on the floor rose, bracing herself on the bed. Then all six opened their doors.
-
-“Service hall is clear,” Clemency said. “Front route is unlocked.”
-
-The first hostage appeared beyond the dining room, then a second. They moved cautiously, calling to one another. Their voices made the house larger and far less orderly. Police at the gate shouted instructions; officers advanced only as far as the garden wall.
-
-Clemency waited until all six door indicators were green and the last hostage had crossed the dining-room threshold. Then she brought up the mirror controls.
-
-The screen showed a bright segmented oval above a curve of earth, its panels angled toward a single point on the yellow track. Clemency opened a guarded command, deleted the focusing solution, and confirmed the feather maneuver. The oval narrowed as its panels rotated edge-on to the sun. The red target marker went grey. A status line appeared: *CONCENTRATION DISABLED. AGRICULTURAL CONTROL PENDING RECOVERY.*
-
-Far away, one scheduled strip of winter crops would remain cold and late. No fuel depot would burn.
-
-“The mirror is feathered,” Clemency said. “My access keys are revoked. Confirm.”
-
-The Prime Minister was silent for eight seconds.
-
-“Independent tracking confirms disarmament,” the voice said. “All six hostages are outside the secured wing and visible to officers. The amnesty orders are signed. The three detained adults are being released now. The defense account is unfrozen and in the trustees’ control. Your transport is entering the gate under the safe-passage order.”
-
-Clemency watched the front drive until a black car passed between the police vehicles. No officer raised a weapon. The car stopped with its rear door open.
-
-She closed the computer. For all her rehearsals, she had not planned what to do with the cake knife, the half-full cups, or the green coat. She put on her navy one and left its belt hanging loose.
-
-The six former hostages stood just beyond the front step, surrounded but not yet swallowed by medics and police. The silver-haired man was arguing with an officer. The woman who had needed her pills clutched the packet in one hand and demanded a telephone with the other. Anger made them vivid in a way the silent screens had not.
-
-Clemency stopped beside me. Without the ribbons and the locked doors and the choices arranged on china, she still looked like herself.
-
-“Come with me,” she said.
-
-No darling. No two options disguised as the whole world.
+“There is still room, darling,” she said.
 
 “No.”
 
-She nodded once. It was not forgiveness, repentance, or agreement. It was enough to let the moment end.
+She fastened the top button of her coat. Then she walked down the center of the drive alone.
 
-Clemency walked to the car alone. The door shut behind her, and the vehicle rolled back through the cordon while the Prime Minister remained on the line to guarantee its passage.
+The injured woman watched until the car door closed. She turned to me and pointed into the parlor.
 
-The woman in shirtsleeves had reached the entry hall. She was barefoot, furious, and shaking hard enough that an officer’s foil blanket rattled around her. I turned from the drive and asked what she needed first.
+“Dining chair,” she said. “The one with arms. Bring it before my ankle gives out.”
 
-“My phone,” she said. “My husband doesn’t know I’m alive.”
+I went to get it.

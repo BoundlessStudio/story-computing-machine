@@ -8,232 +8,242 @@ canon: false
 
 # The Fourth Blood
 
-I peeled Quenril's labels from the six cups before the gum had dried.
+The first label came away from the black cup in a curl, its gum still soft. I had stripped three before Quenril Seln laid the flat of their knife across the fourth.
 
-They watched me from the other side of the stone table, pen halted over their ledger. Quenril Seln was an apothecary by trade and a tyrant by inclination, though only in matters of weight, sequence, payment, provenance, symptoms, promises, and all the other small debris that accumulates around a great work.
+"Code Seventeen stays on."
 
-"I spent an afternoon making those," they said.
+Their tone had the level weight of a counterbalance. Quenril was in the middle of life and had spent half of it as an apothecary. They had measured the six draws, sealed the reserves, paid the six donors, and written every source code in a ledger that never left their sleeve. They had also confirmed that each donor was an informed adult and had eaten before walking home. The last of them had descended Red Notch that morning with a silver half-mark, a packet of bitterroot against dizziness, and no obligation to return. Snow already feathered the path behind them.
 
-"I know which is which."
+"The flesh is incidental," I said. "I am seeking the one duration carried by every living vessel."
 
-"You know which you think is best."
+"Then a paper code cannot contaminate it."
 
-I arranged the cups in a crescent around the basin cut into the table. Each held what remained after the red portion had settled thick beneath the pale. Six adults had climbed to my chamber below Red Notch, accepted silver in advance, permitted a bounded draw under Quenril's eye, eaten broth, and gone home before the weather failed. Young and old, herder and mason, fasting and fed: deliberate variations in the mortal vessel. None of those variations should have mattered once I reached the durable principle beneath them.
+The chamber's lamps gave the pale upper fraction in each cup a dull pearl sheen. Beneath it rested the red sediment, dense and dark. In forty-two winters of blood-working, I had proved to my satisfaction that endurance settled downward. Youth ran hot and foolish through the whole body; duration, being older and wiser, possessed weight.
 
-"Blood is not a letter," I said. "It does not care whose hand wrote it."
+Quenril slid the knife aside only after I put the three labels back.
 
-Quenril looked at the six black-paper slips in my palm. "Then leaving the marks on would not inconvenience it."
+Thus began the first day of my immortality.
 
-I dropped the slips into the cold brazier.
+My chamber lay under the eastern teeth of the pass, where the mountain narrowed the wind until it screamed. A central table of gray stone bore shallow channels from its ritual basin to a receiving clasp. Finer grooves branched through the floor. So long as I remained awake, attentive, and in contact with the focus hollow, my pulse ran out beneath the room. Bronze pestles lifted. Bellows breathed upon the brazier. A rack of sealed cups turned by one notch, stopped, and waited for the next beat.
 
-The chamber had been cut into the mountain by a less ambitious sorcerer and enlarged by me over forty-two winters. Shallow channels ran from the central table to the walls. When I pressed two fingers into the focus hollow and let my pulse enter the stone, the chamber borrowed its rhythm: pestles rose and fell in their mortars, leather bellows drew the charcoal awake, shutters clicked against the draft, and bronze stirrers turned with grave patience. The floor answered my heart with a faint second beating.
+Nothing in the chamber thought. Nothing moved after I withdrew my hand. The stone shaped what I supplied, as a mold shapes wax while someone is pouring it. Mountain households bought the same pulse-work by the hour to grind root or keep a forge alive through winter. I had done such things in leaner decades. Now every mortar and lever served my greater refusal.
 
-Mountain households paid well for an hour of such work when bitterroot had to be ground or a forge kept breathing through a freeze. I had wasted enough of my life on flour and horseshoes. Now the old labor served the only problem worthy of it.
+Age had lately made that refusal urgent. My left hand shook when I raised a cup. On the stair from the lower store, a bright ring sometimes closed around my sight. The chamber still answered me, but I could feel each answer taking its fee in the heaviness behind my breastbone.
 
-My left hand had begun to tremble that autumn. Twice on the climb from the lower storehouse, my sight had narrowed to a bright tunnel and my knees had considered surrender without consulting me. I could still wake stone, call heat, and persuade separated matter along a prepared course, but every working announced the beat that powered it and the silence waiting afterward.
+I pointed to Seventeen, the reserve belonging to the young stonecutter whose larger ritual portion waited in a sealed vessel below the table. Their parents lived. Their skin had been clear, their limbs sound, their manner cheerfully irreverent. The draw had been made under a waxing moon while the wind blew from the south.
 
-In blood, I believed, duration had weight. It settled red.
+Quenril opened the ledger. "Code Seventeen. First full transfer. State the result before I prepare it."
 
-I chose the cup that had belonged to the young quarry worker. His color was rich, his limbs sound, his habits dull, his parents both living. He had laughed during Quenril's questions, not from fear but because he thought it absurd that anyone would pay him for lying still. A fortunate temperament. A vigorous line. An excellent moon at collection.
+"The red depth will lend its season to mine. I shall rise warmer. My hand will steady. My sight will cease its cowardly retreat."
 
-Quenril turned a page. "What will this trial distinguish?"
+"For how long?"
 
-"Life from decay."
+"Long enough to make the next addition cumulative."
 
-"In terms observable before your funeral."
+They wrote only what I had committed to and unlocked the preparation cabinet.
 
-"I shall be warmer, steadier, and measurably stronger."
+The rite opened nothing to the chamber's air. Quenril fixed the sealed vessel into the table; I closed my hand around the receiving clasp and pressed two fingers to the focus. My pulse entered the stone with the taste of copper at the back of my tongue. In the crystal-covered channel, the red portion answered my attention. It advanced as one glossy bead, crossed the basin, and vanished into the warm dark of the working.
 
-They wrote that down. Their ledger made insults durable.
+Heat climbed my arm.
 
-I set my living hand to the focus and my other beneath the receiving clasp. The apparatus did not cast. Bronze and stone remember nothing. They held a route while my attention supplied the motion, as a flute holds the space through which breath becomes music. At my pulse's command, the dense red fraction lifted from its cup and traveled the narrow channel, a dark bead moving beneath rock crystal. I felt it enter the working, then me: weight, pressure, and a climbing warmth that spread from wrist to elbow and shoulder.
+The pestles took up a quicker measure. The bellows opened their leather throats. A blue flame stood straight above the brazier though the shutters rattled in the gale. I held every motion in mind until the channel cleared, then lifted my fingers.
 
-The floor beat faster. Pestles quickened. The bellows filled the room with the clean mineral smell of hot iron. I kept the rhythm until the cup stood empty and the channel cleared, then broke contact.
+The room stopped with me.
 
-For several breaths nothing changed. Then the ache behind my eyes eased. The chamber sharpened. I stood without bracing myself against the table, and when I raised my left hand the tremor had dwindled to almost nothing.
+My own warmth remained. It spread through my shoulders and loosened the knot at the base of my skull. I stood without pushing against the table. When I extended my left hand, its tremor narrowed from a visible flutter to a whisper in the fingertips.
 
-"There," I said. "An installment on eternity."
+"Observe," I told Quenril. "Winter has lost jurisdiction."
 
-Quenril came close enough to inspect my pupils. Their fingers rested lightly against my wrist. "Warmth is not youth."
+They took my wrist, counted, and held a lamp near my eyes. "Skin warmer. Pulse faster. Left-hand tremor reduced, not absent."
 
-"Youth is warmth with bad judgment."
+"You are watching the first stones of a palace and complaining that they do not yet have curtains."
 
-"Your pulse is quicker. Your face remains yours."
+Quenril turned the little mirror toward me. "No change in your face. No change in the clouding of your left eye. Do you claim youth, or temporary warmth?"
 
-I turned from the small mirror before it could confirm them. "One does not rebuild a tower with a single brick. Prepare the next."
+The old man in the glass looked exhilarated, which was not the same as young. I pushed the mirror flat.
 
-They did not move. "What is the next transfer meant to predict?"
+"Prepare the second. A greater vitality will drive the change deeper."
 
-"That a superior vessel yields a superior result."
+"Which code, and what will it prove if it behaves differently?"
 
-"Superior by which measure?"
+That question forced a choice where I preferred destiny. I named Thirty-Eight: a shepherd no older than Seventeen, broad-lunged, unscarred, born to long-lived parents, collected beneath the same moon. By my measures the shepherd's blood stood a little higher. If its effect surpassed the first, the hierarchy held.
 
-I named five: age, health, ancestry, courage, and the hour beneath which the blood was taken. Quenril named the cup that answered them. We agreed. That mattered later, though at the time I mistook agreement for obedience.
+Quenril repeated the prediction before opening the cabinet. "Thirty-Eight must be tolerated and produce greater lasting warmth than Seventeen."
 
-The second donor was a shepherd younger than the quarry worker by a season, broad-lunged from the high slopes, free of scars and winter cough. His grandparents had all reached venerable age. He had watched the bounded draw without flinching. If the first cup carried an installment, the second ought to have carried interest.
+"Yes."
 
-I began the working.
+I remember how readily I said it.
 
-The red bead crossed the crystal. The familiar warmth rose through my arm and arrived at my chest as fire.
+The second red bead crossed the stone as smoothly as the first. Its warmth reached my shoulder, tightened, and became a furnace door thrown open inside my ribs.
 
-My heart struck once, enormously, then scrambled for its rhythm. Heat tightened over my skin. I tried to slow the stone channels, but the borrowed beat in the floor became a hammering echo, always a fraction behind me. The bellows gasped. A pestle leapt its mortar and cracked against the wall.
+My heart struck too hard, paused, and fled into a broken rhythm. The pulse I was feeding the chamber doubled back through the floor. Pestles hammered without completing their strokes. The bellows snatched smoke from the brazier and flung it low across the room. I tried to command stillness. The word came out as a breath with no voice in it.
 
-Quenril called my name. I could not answer. The chamber had narrowed to the clasp around my wrist and the conviction that the mountain was sitting on my ribs.
+The heat sharpened into pain along my back. My jaw shook. Each attempt to draw air stopped halfway, as if the mountain had chosen that moment to lean upon my chest. I could no longer tell which beat was mine and which was the stone's delayed echo.
 
-They seized the iron interruptor and wrenched it from its notch. The channel opened. Then they knocked my living hand from the focus hollow.
+Quenril pulled the iron interruptor. The prepared route opened harmlessly into its empty catch bowl, but I was still gripping the focus.
 
-Everything stopped.
+"Release," they said.
 
-No magic lingered in the stone. The shutters hung crooked. Smoke rolled from the untended charcoal. Quenril dragged the receiving clasp away, pushed me down onto the tiles, and did nothing mystical at all. They opened the door to the freezing passage, packed snow in cloth around my neck, counted my breaths aloud, and kept counting when I begged them to stop.
+I could not.
 
-By dawn I was alive enough to resent the manner of my survival.
+They struck my wrist against the table edge until my fingers came free.
 
-The storm sealed Red Notch during the night. Snow filled the upper stair and pressed a white palm against the chamber windows. I spent the second day on a cot near the banked brazier while Quenril moved between me and the table, recording every turn of fever, every cup of water, every insult I produced. They seemed reassured by the insults.
+The bellows collapsed. Every pestle fell. The shutters halted crooked in their tracks. Without my living attention, the entire magnificent chamber became stone, bronze, leather, and a great deal of smoke.
 
-"Concealed illness," I said when my teeth ceased chattering. "The shepherd deceived us."
+Quenril got the clasp off me, dragged me clear of the table, and worked with ordinary hands. A cloth of snow at my neck. The door opened to clean cold. Their fingers at my wrist, then my throat. Their voice counting the shallow breaths I could not deepen. Nothing continued on its own; nothing classified the danger or corrected it for us.
 
-"His examination was cleaner than the quarry worker's."
+Before night, the storm buried the pass.
 
-"Then fear corrupted the draw."
+On the second day I lay under three blankets and felt heat and cold exchange dominion over me. The warmth from Seventeen had vanished. My hand shook worse than before, and a dull ache remained behind my ribs whenever I turned. Quenril kept the preparation cabinet locked and made a narrow mark in the ledger each time I drank, slept, or managed ten even breaths.
 
-"You praised his courage."
+When I could speak without stopping for air, I gave them the shepherd's hidden illness.
 
-"A grandparent's vice may have slept in him. Or the cloud veil altered the moon's influence after collection. The cup may have touched salt."
+"Thirty-Eight had no fever, rash, cough, swelling, or weakness at collection," Quenril said. "The sample was sealed at the same table as Seventeen."
 
-Quenril crossed out three tray labels and made a fourth. Over the next day my causes multiplied until the ledger margin resembled a theology written during an earthquake. The donors' diets, the direction of their doorways, old grief, sexual temperance, unreported dreams: any difference could preserve my law provided it was invisible before the failure.
+"Then the shepherd feared the rite and soured the deeper virtue."
 
-On the third morning Quenril placed the six discarded slips on my blanket.
+"You recorded 'calm' beside Thirty-Eight."
 
-I stared at them. "The brazier was cold."
+"Calm can be concealment. The grandparents may have hoarded their years by some vice in the bloodline. Or the south wind favored stone and opposed wool."
 
-"And you are dramatic. I copied the order before you burned them."
+Quenril put the ledger on the blanket where I could see my own assertions arranged in their severe hand. "I have six reserves. Each has enough for two small readings if we spend carefully. No donor can cross the pass. I will not prepare a third full transfer from any code."
 
-They set down the ledger. Beside each source code they had recorded age, work, food, collection hour, and the qualities I had pronounced significant. Two donors who shared my favored traits had produced opposed results when their retained drops met a third. The same pairings, repeated in sealed hollows, behaved the same way both times.
+"You are contracted to supply my work."
 
-"You conducted trials while I was ill?"
+"I am contracted to control the codes, the samples, and the preparation. The donors agreed to bounded draws, not to replace what you waste. Choose pinpricks, or choose no test."
 
-"I put drops beside drops. They either stayed smooth or gathered into grains. I did not use your blood, your veins, or your magic."
+I despised the contract then. I had prized it when Quenril's reputation persuaded six sensible adults to sell me blood without selling me obedience.
 
-"Without separation the observation is crude."
+"Very well," I said. "Six pinpricks. We shall rank the corruption."
 
-"Then refine it by the drop."
+"First allowance only," they said. "The second remains sealed until you can stand."
 
-"A drop proves nothing."
+That concession brought me out of bed on the third morning.
 
-"It has already disproved a transfer."
+I arranged the six reserve cups around the basin according to the correspondences that had governed my work: age nearest the north point, vigor toward fire, long-lived ancestry under the lead weight, collection hour along the sun line. Seventeen and Thirty-Eight sat almost together. Twenty-Six, an older dyer who had complained of stiff fingers, belonged low in the western arc. Forty-Four, a road courier, occupied the bright east. Fifty-Two, a charcoal burner with a smoke-thickened cough, stood near ash. Sixty-Nine, a middle-aged baker, fell between earth and dawn.
 
-I informed them that I was master of the chamber.
+Quenril placed one glazed tile beside each cup. They did not let me touch the cabinet key.
 
-Quenril informed me that the samples were held under their contract, that the storm had removed the donors from my reach, and that if I touched a cup without them they would pour all six into the privy shaft.
+"One red pinprick from each code against your retained clear fraction," they said. "Six results. No repeats from this allowance."
 
-I believed the threat because it was wasteful. Quenril only threatened what would hurt them too.
+"Enough. My clear portion is the gate to the duration I seek."
 
-We began with pinpricks of material in shallow glazed tiles. I was too weak to power the whole chamber. I shut the pestles and stirrers out of my pulse, leaving only the dividing grooves alive beneath my fingers. In each retained sample, the dense red and pale clear portions drew apart along twin channels. The work demanded less force than the transfer but more delicacy. By the sixth cup my arm shook hard enough that Quenril steadied the tile rather than me.
+"Then state the gate's order."
 
-I tested each donor's red portion against a drop of my own clear portion, retained from Quenril's pre-rite measure. Three remained smooth. Three fretted, then gathered into grains fine as ground spice. Among the smooth mixtures, one preserved its color cleanly while another showed a faint darkening at the edge. Among the grained, one reacted slowly. I made a ladder: pure to coarse, receptive to defiant.
+I gave them my ranking. Thirty-Eight should pass most cleanly, then Seventeen, Forty-Four, Sixty-Nine, Twenty-Six, and Fifty-Two. Quenril wrote the sequence before uncapping anything.
 
-It was beautiful. It was also wrong before the ink dried.
+I could not spare pulse for the room. The brazier, shutters, and pestles remained ordinary. With one hand on the focus and all my attention narrowed to a groove no wider than a hair, I drew a minute red portion from each sample toward the pale drop Quenril had set out from my pre-rite measure.
 
-The quarry worker and the shepherd, so nearly adjacent in age and health, stood at opposite ends. An older charcoal burner, whose diet I had condemned as ruinous, matched the quarry worker. Worse, red from the quarry worker had rested peacefully in my clear drop but grained at once in a clear drop from another donor.
+Seventeen remained smooth.
 
-"So purity changes when you move the bowl," Quenril said.
+Thirty-Eight gathered into visible grains.
 
-"The other clear portion carries contamination."
+Twenty-Six remained smooth. Forty-Four grained. Fifty-Two, whom I had placed nearest decay, rested as quietly as Seventeen. Sixty-Nine remained smooth.
 
-"Then it is not a ladder. It is an argument."
+I shifted the lead weight. I turned the sun line south. I grouped stonecutter with charcoal burner because both labored under earth, then separated them because one cut rock while the other altered wood with fire. Each correction rescued one result by condemning another.
 
-I reached for a fresh tile. My pulse slipped.
+Quenril moved no cup. "Thirty-Eight and Seventeen matched in age, condition, collection day, and your preferred moon. Opposed results. Twenty-Six and Fifty-Two differed in age and work. Same result. Which observation buys the second allowance?"
 
-The channels went dull. In the same instant the shutters stopped pumping smoke from the flue and the little warming paddles beneath the sample rack fell still. The chamber seemed to exhale all its borrowed life. Quenril swore, capped the tiles, and loaded them onto a tray.
+"My clear fraction may carry an exhausted gate. We must see whether each blood bears its own gate as well as its red duration."
 
-"Where are you going?"
+"That means separating all six again."
 
-"Somewhere your heart cannot spoil the weather."
+"The world has had the discourtesy to contain more than one variable."
 
-They carried the samples up the outer stair to the assay ledge.
+"Thirty-six pairings," Quenril said. "No third use. If your pulse fails, the samples close."
 
-The ledge had been cut above the storm line on the eastern face of Red Notch. That day it occupied a treacherous border: cloud boiled below us, hiding the road and the lower valleys, while hard blue sky burned over the peaks. Wind worried at our coats. Snow packed into the shelf's shaded crevices kept the pale stone colder than the chamber and slowed the ordinary ruin of what we had drawn.
+I agreed because the alternative was another day alone with my mirror.
 
-The cold performed no sorcery. It merely bought us hours.
+The separation exhausted me before we began the square. Each cup had settled into red sediment and a pale clear fraction, but moving pinpricks cleanly into Quenril's paired thimbles required my living guidance. The stone channels brightened only beneath my touching fingers. At code Sixty-Nine, the last red and pale portions crept into their separate thimbles. Quenril capped both. I kept my hand down and reached through the stone for the rack's simple stirrer.
 
-Against the white stone, the grains were easier to see.
+"Stop."
 
-Quenril restored the source slips. They placed six red fractions in a vertical row and six clear fractions across the top, then set the glazed hollows between them in a square. I objected that no planetary correspondence could be read from such an arrangement.
+"One moment of weakness does not invalidate forty-two winters."
 
-"Good," they said. "Read the cups."
+"The separation is finished. Your hand is leaving the focus."
 
-We spent the fourth day filling the square.
+I tried to press down again. My pulse slipped under the stone like a boot on ice. The shallow glow vanished. A stirrer I had woken to turn the snow-cooling bath ceased midway around its cup. It did not know that the samples would spoil. It did not know anything.
 
-Every mixing cost two drops and a short exertion of my pulse to keep the red portion evenly guided. Quenril chose the order, leaving several hollows covered with flat chips of slate. I read the reactions; they recorded them. Smooth. Grained. Smooth. Smooth. Grained. Wind pulled the words from my mouth and threw them into the cloud.
+Quenril sealed all six, packed them into a wool-lined tray, and took the outer stair. I followed slowly, furious at my body and at the justice of their decision.
 
-At first I kept trying to rescue rank. One donor's red fraction stayed smooth no matter whose clear fraction received it. I called that the highest purity.
+The assay ledge projected from Red Notch above the cloud layer. Below us the storm churned like dirty fleece; above, the sky had the hard blue clarity of glass. Wind scraped loose snow over a shelf of pale stone. Quenril nested the sealed cups along the ledge's shaded edge, where packed snow held the rock cold enough to slow their ordinary ruin. The mountain offered no revelation. It gave us a few more hours and better light.
 
-Quenril tapped the column belonging to the same source. Its clear fraction grained every red portion except its own.
+On the fourth morning Quenril drew a square in chalk.
 
-"Highest?" they asked.
+They set six paired thimbles down the left side, red portions in source-code order: Seventeen, Twenty-Six, Thirty-Eight, Forty-Four, Fifty-Two, Sixty-Nine. Across the top they placed the six pale clear portions in the same order. Thirty-six tiny glazed hollows filled the ground between them.
 
-At the opposite corner lay the reverse. That donor's red fraction grained in every clear portion but its own, yet their clear fraction lay quiet beneath every red. Between those extremes, two patterns appeared: red that grained in one set of clear portions but not another, and its mirror. Direction mattered. The same person could offer the quietest red and the most quarrelsome clear. No single place on my ladder could hold both truths.
+My crescent had asked which donor stood highest. Quenril's square asked what one part did when it met another.
 
-I blamed deterioration until Quenril showed me repeated hollows. I blamed the cold until they showed the same reactions from the warm chamber. I blamed ancestry, then stopped before the word had fully left me. The ledger did not contain enough ancestry to support the dignity of the claim.
+"Rows keep the red code fixed," they said. "Columns keep the clear code fixed. If rank belongs to a person, turning the question should preserve it."
 
-Near sunset, I found what I thought was an exception. The fifth source belonged to the older charcoal burner: poor teeth, smoke-thickened cough, onions at nearly every meal. By my doctrine his sample should have occupied a low and singular station. Instead, the tested hollows in his row repeated the quarry worker's row. His clear column repeated it too.
+"And if the virtue is relational, the square will expose the direction of its appetite."
 
-I leaned close until my breath clouded the glaze. Different age, work, diet, collection hour. The same pair of responses.
+"Call it after we observe it. I choose the order. You guide."
 
-Not purity, then. Not quantity of life. A relation.
+It was their design as much as my working. Quenril rationed the pinpricks, covered the unspent hollows with slate, and decided which comparison could distinguish two patterns before we consumed the next drops. I supplied the thin, sensuous pressure that carried each red speck along the glass point. When my hand trembled, we waited. When the wind gusted, Quenril closed the cup rather than trusting my concentration.
 
-The thought did not arrive like revelation. It arrived like a stone in my boot, small and impossible to ignore. I went back through the square. The six sources made four stable shapes when each red row was kept beside its clear column; two shapes appeared twice. One opened widely in red and resisted widely in clear. One did the reverse. Two stood between, each refusing what the other accepted. Six people, four patterns, and no virtue arranged among them.
+The first full row belonged to Twenty-Six. Its red portion lay smooth under every clear column. I felt triumph stir.
 
-"There are four bloods," I said.
+"A blood without corruption," I said. "It enters any gate because its duration is unburdened."
 
-Quenril's pen paused. "There are four patterns in six people."
+Quenril uncovered the clear column from the same source. It gathered the red of Seventeen into grains, then Thirty-Eight, then Forty-Four, then Sixty-Nine. Only Twenty-Six's own red and Fifty-Two's remained smooth.
 
-"If you intend to become famous by correcting every sentence I speak, you will die unknown."
+"Code Twenty-Six," they said. "Quiet red row. Broad-graining clear column. One person, opposed directions. Your rank cannot place both."
 
-"Predict something."
+I stared at the clean row crossing the hostile column. The shape offended every hierarchy I possessed.
 
-They chose one of the covered hollows and tapped its row and column without lifting the slate. Snow hissed across the ledge. My hands ached inside my gloves, and beneath the ache my pulse performed its old uneven hesitation. The storm would release us eventually. My blood would not release me.
+At the other extreme, Forty-Four's red grained under every clear portion except its own. Yet Forty-Four's clear column received every red portion without disturbance. I could call the first coarse and the second pure only by dividing one donor into opposite moral beings.
 
-Quenril pointed to the fifth red row and the second clear column. The charcoal burner meeting the shepherd. We had tested the quarry worker against that clear portion; it had grained. If the repeated shapes were real, the charcoal burner's red should do the same. More than that, every completed hollow in their two rows should agree.
+Between them emerged two less theatrical profiles. Seventeen's red stayed smooth beneath its own clear portion, Sixty-Nine's, and Forty-Four's; it grained beneath Twenty-Six's, Thirty-Eight's, and Fifty-Two's. Thirty-Eight showed the mirror: its red rested under its own clear portion and Forty-Four's, but grained beneath Seventeen's, Twenty-Six's, Fifty-Two's, and Sixty-Nine's. Their clear columns exchanged those intermediate refusals, and both gathered Forty-Four's red into grains.
 
-I wanted another explanation. I wanted the fifth source to carry some hidden measure of youth, so my first warmth could remain proof rather than accident. I wanted blood to be one thing because one thing can be mastered by one law.
+The exact square did what my crescent could not. It made each apparent exception return from another direction.
 
-Instead I took Quenril's pen.
+Quenril marked Twenty-Six and Fifty-Two together after their red rows agreed. The donor ledger showed that those two adults were cousins. For the first time since my collapse, Quenril wrote a word not confined to an observation.
 
-"It will grain," I wrote. "As the first source did in the same clear portion. The two red rows will match."
+"Possibly family," they said. "We would need the same paired shape in unrelated sources before spending another claim."
 
-I signed beneath the prediction.
+I was eager to restore ancestry to its throne. "The line carries its own seal."
 
-Quenril uncovered the hollow. They let one pale drop fall, then touched the red fraction into it with a glass point. For a moment the mixture remained glossy and still.
+"Prediction first. Seventeen and Sixty-Nine reported no kinship. Their open cells agree so far. If family is required, the next comparison must split them."
 
-Then fine grains appeared.
+They spent the next pinpricks on those rows. Seventeen and Sixty-Nine agreed again, though one donor was young, worked stone, and ate meat most days, while the other was older, worked dough before sunrise, and ate little meat at all. Quenril struck out *family*. They did it without ceremony. Their mistake lost its place because the cups would not hold it.
 
-Relief made me laugh once, bitterly. I resented the drop for obeying me only after I had abandoned the reason I wished to be right. I resented Quenril for seeing my pleasure. Most of all, I wanted to uncover every remaining hollow at once.
+By dusk we had four paired shapes among the six sources. Two sources shared the quiet-red, broad-graining-clear profile. Two shared one intermediate profile. Thirty-Eight held its mirror alone. Forty-Four held the broad-graining-red, quiet-clear extreme alone. Four shapes in six adults: repeated, directional, and indifferent to every measure of courage, trade, vigor, diet, hour, and moral temper I had applied.
 
-"The row," I said.
+We did not call them the whole inventory of humankind. Six cups could not bear that weight. I marked them provisionally with a hollow ring, a barred ring, and two forked signs facing opposite ways. I knew nothing of inheritance, rarity, storage, or whether a quiet hollow promised safety in a living body.
 
-We spent the last of the daylight checking it. Smooth where the quarry worker's had been smooth. Grained where it had grained. The pattern held.
+The storm continued through the fifth day. My fever had gone, but climbing to the ledge left me breathless and cold sweat gathered under my collar. The old tremor returned whenever I released the focus. Quenril counted the unspent pinpricks and found that we could finish the square once, with nothing left for correction.
 
-Night forced us inside. I could explain, provisionally, why the first transfer had passed quietly and the second had turned my body against itself. My clear portion accepted one red pattern and refused the other. I could not explain why the quarry worker and charcoal burner shared a pattern, why the shepherd differed, whether four exhausted our kind, whether the reactions changed with time, or whether a peaceful pinprick promised safety in a living body. For once, the shape of my ignorance was sharper than the shape of my claim.
+One hollow remained deliberately covered: red from Sixty-Nine beneath clear from Thirty-Eight.
 
-On the fifth morning, the storm still covered the road. Quenril set the surviving cups on the table and opened the ledger to a clean page.
+Every open result in Sixty-Nine's row matched Seventeen's. We already knew that Seventeen's red grained in Thirty-Eight's clear portion. If the paired profiles were real, Sixty-Nine must do the same. If age, occupation, diet, vigor, kinship, collection hour, or one of my other invisible dignities ruled instead, the analogy had no reason to hold.
 
-"Which one shall I prepare for the immortality rite?" they asked with the mildness they used when asking whether a donor had eaten.
+Before Quenril touched the slate, they brought the preparation-cabinet key out from beneath their coat.
 
-My left hand trembled when I lifted it. The mirror showed no younger face. The warmth from the quarry worker was gone, along with more of my strength than I possessed before either transfer. Death had not been defeated. It had acquired six columns of notes.
+"You have enough of Thirty-Eight's ritual portion for another full attempt," they said. "Do I prepare it if this hollow stays smooth?"
 
-"None," I said.
+The memory of that red bead becoming fire tightened my ribs. More offensive was the thought of repeating an act that could distinguish nothing. A smooth pinprick might still fail in my body; a grained one had already warned us once. Another full transfer would spend me to defend a theory that no longer made a prediction.
 
-Quenril waited, pen ready, refusing me the charity of surprise.
+"Seal the ritual portions," I said. "None enters the basin while the meeting is unknown."
 
-I drew four marks at the top of the clean page: an open circle, a closed circle, and two forks turned away from one another. Beneath them I copied the source codes they had preserved. On the facing page I wrote that the transfer of youth had not been demonstrated. The words cramped my hand more than the cold had.
+Quenril put the key away. "Then enter the claim. Result and analogue."
 
-I did not write that immortality was impossible.
+I took their pen. My hand made the letters ragged, but no one could blame the moon for them.
 
-Six cups could not support such grandeur.
+*Red Sixty-Nine in clear Thirty-Eight will grain. It will repeat red Seventeen in clear Thirty-Eight.*
 
-I touched one of the remaining slate covers. "Choose another pairing. Show me the codes, but not the hollow."
+Below that I wrote a second sentence: *The first transfer was tolerated and the second was not because my blood received their red portions differently, not because Seventeen held more life than Thirty-Eight.*
 
-Quenril covered the glazed hollow with their sleeve and tapped two codes.
+I did not write that life lacked an essence. I did not write that immortality had become contemptible. I had merely found a locked door where I had imagined an open road, and I still intended to know what lay beyond it.
 
-This time, before we spent the drops, I wrote what the blood would do.
+Quenril read both sentences, then made me sign before they allocated the final drops.
+
+They lifted the slate. The hollow beneath was empty and clean. Quenril placed the pale clear pinprick from Thirty-Eight. I set my fingers against the cold stone and held one narrow thread of pulse while they brought red Sixty-Nine to the edge. The speck slid into the hollow. My magic did not judge it. I withdrew my hand, and the stone went dead.
+
+For three breaths the mixture shone dark and smooth.
+
+Then grains gathered through it, fine as sand caught in ice.
+
+Quenril turned the ledger so the successful analogue stood beside my prediction: Seventeen into Thirty-Eight; Sixty-Nine into Thirty-Eight. The same small roughening. The same time beneath the glass. They drew one clean line between the entries. Above it, my four provisional marks stood side by side, neither ladder nor crown.
+
+I bent over the hollow until my breath dimmed the glass. The grains were minute, hard, and exactly where I had written they would be.

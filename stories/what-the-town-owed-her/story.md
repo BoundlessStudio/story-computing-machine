@@ -7,284 +7,320 @@ canon: false
 
 # What the Town Owed Her
 
-By the time I unlocked my grandmother's apartment, three families had visited the witch next door.
+On the afternoon I came back to empty my grandmother’s apartment, the witch next door refused a jar of honey, examined a coil of copper wire, and sent a boy home for a different key.
 
-I knew they were three families, though only five people climbed the stairs. Mirehaven had a way of making ancestry visible. You could tell which children belonged to the woman from the bakery by the flour worked into the seams of their coats, and which old man had married into the hardware family because he carried a paper parcel tied with their particular blue string. They came separately through the rain, knocked at number six, and offered up a jar of honey, a coil of copper wire, and a key without a lock.
+The three offerings arrived within twenty minutes of one another. Rain followed each visitor up the stairs of Rookglass House and darkened the boards outside number six. The woman with the honey said her mother had kept bees because Evadne Trell once asked it of the family. The electrician carrying the wire said his father had told him never to arrive empty-handed. The boy held out a wardrobe key on a red ribbon and whispered that his grandfather’s promise was older than the building’s electric lights.
 
-The woman who accepted them looked no older than twenty-five.
+“I need the long key to the east yard,” Evadne told him. “Ask your mother if she is willing to bring it after dark. This one opens nothing I need.”
 
-She wore a black dress buttoned to the throat and cuffs narrow enough to make her hands seem delicate. Her hair was the brown-black of wet bark, pinned in a style I knew from the photographs in my grandmother's sitting room. Not similar to it. The same.
+The boy ran. Evadne returned the wire and told the electrician to keep it dry. She was still holding the honey when she noticed me watching from number five.
 
-The old man saw me watching and lowered his voice.
+She looked twenty-six at most. Her black dress had a narrow standing collar and enough old mending at the cuffs to defeat the illusion that it was costume. Black hair curved beneath her jaw. In my grandmother’s hallway hung a photograph of a summer procession taken when the stone angels over the front door still had faces; Evadne stood at its edge in the same dress, looking exactly as she did now.
 
-“My grandfather said she'd ask when the town needed us.”
+“You’re the granddaughter,” she said.
 
-“Not today,” the young woman told him. She returned the key to his palm and folded his fingers over it. “Keep it where you can find it quickly.”
+“Leonie Sayer. Does everyone in Mirehaven bring you household goods when it rains?”
 
-He obeyed with the relief of a man who had been refused a sentence.
+“Only the families that are frightened.” She handed the honey back to its owner. “Keep this. If I ask tonight, I will not ask for honey.”
 
-Then she turned to me. Her face was lovely in the severe, improbable way of a saint carved into a tomb.
+The woman clutched the jar. “My mother said we owed whatever you named.”
 
-“You are the Sayer granddaughter.”
+“Your mother said many things when the roof was burning. Go home before the lower road fills.”
 
-“Leonie.”
+The woman went. Evadne watched until the front door shut, then looked at the keys in my hand.
 
-“Evadne Trell.”
+“Check the east cellar wall before you speak to your buyer.”
 
-Behind her, number six was lit by candles despite the gray afternoon. Bundles of drying plants hung from a brass rail. Their shadows stirred when no draft touched my face.
+I had spent ten years pricing other people’s renovations. I knew what sellers concealed behind fresh paint and what water did when it found lime mortar. I also knew the surveyor had called Rookglass House damp but serviceable that morning. The sale of number five was the one clean piece of work my grandmother’s death had left me: four rooms emptied, one signature, a train away from Mirehaven.
 
-“My grandmother said you were a witch,” I told her.
+“Is there a crack?” I asked.
 
-“Your grandmother said many accurate things in an unhelpful tone.” Evadne glanced at the keys in my hand. “You should check the cellar before you sign anything.”
+“There will be.”
 
-I had come to empty number five, sell it, and leave before Mirehaven remembered enough about me to start making demands. The buyers were due in two days. Their surveyor had already found damp in the basement, but old buildings had damp, and Rookglass House was older than most excuses. Its stone angels had lost their faces to salt. Its gutters spilled brown ropes of water down the windows. Nothing about it had ever been dry, level, or easy to heat.
+“That isn’t a useful answer.”
 
-Inside, my grandmother's rooms waited in perfect order. Her slippers stood under the bed. A cup with a faint crescent of lipstick rested beside the sink, as if death had interrupted her between sips and she meant to complain about the intrusion when she returned.
+“No,” Evadne said. “It is merely the one I have.”
 
-I began with the desk because grief could not hide inside a bank statement. Three hours later I had made piles for the solicitor, the charity shop, and the bin. The rain thickened against the glass. Water gurgled somewhere in the walls.
+I closed number five between us.
 
-At the back of the lowest drawer lay an envelope with my name on it.
+My grandmother’s apartment smelled of lavender polish and the gas fire she had refused to replace. Boxes waited under the sitting-room window. I packed her chipped bowls, the cardigans she had darned at both elbows, and the brass level she used to set shelves more accurately than any tradesman she hired. The easy objects went first. Her blue teacup remained beside the sink because I could not decide whether keeping it would be sentimental or cheap.
 
-Inside was one line in my grandmother's square hand.
+In the lowest drawer of her tool chest I found an envelope sealed with red wax. My name was on the front. Inside, in her square pencilled hand, she had written:
 
-*When Evadne asks, open the east cellar wall.*
+*When Evadne asks, open the east cellar wall. My masonry set is under the kitchen boards.*
 
-I read it twice, then carried it next door.
+I took the note next door.
 
-Evadne opened before I knocked. The honey, copper wire, and key were not in sight.
+Number six was darker than the corridor. Candles burned in saucers along a mantel, and bunches of drying leaves hung over black wallpaper. None of that unsettled me as much as the practical things: two storm lanterns fuelled and trimmed, rope coiled by the door, wool blankets stacked on a chair. Evadne had laid a pair of mud-caked boots beneath the photograph of herself at the old procession.
 
-“What is in the wall?” I asked.
+“What did my grandmother put behind the wall?” I asked.
 
-“Something your grandmother believed should remain closed until it was needed.”
+“Not behind it. Beyond it. A service gallery and the shut gate of a relief channel.”
 
-“And when will that be?”
+“Then why brick up the access?”
 
-She listened. At first I thought the pose theatrical. Then I heard a low vibration beneath the building, too steady for thunder.
+“People wanted the cellar dry. Later they wanted the storage bay above it. Your grandmother found the mistake after the joist pocket began to split.”
 
-“Possibly tonight.”
+“And opening it drops her floor?”
 
-I laughed. She did not.
+“Not if it is shored. It will still end your sale.”
 
-My telephone rang inside number five. The estate agent had photographs from the surveyor: a wet fracture had appeared along the basement's eastern side. Until its cause was known, the buyers would not exchange contracts.
+She said it without apology, which made me trust her less.
 
-“There goes possibly,” Evadne said.
+A vibration passed through the boards. The candle flames shortened. Somewhere below us, water struck stone with the flat, heavy sound of a shoulder against a door.
 
-I shut my door in her face.
+“Ask now,” I said.
 
-At eleven, hammering woke me on the sofa. I had fallen asleep among boxes with my grandmother's note clenched in one hand. The electric lights flickered. Something struck stone below, paused, then struck twice more.
+“Not until I know the gate can still be reached.”
 
-The cellar stairs smelled of wet iron. My torch found Evadne kneeling beside the east wall, measuring a crack with a dressmaker's rule. She had changed into boots and a man's old wool coat, though the black skirt still brushed her ankles. Water shone between the floor tiles.
+“You know enough to threaten my buyer.”
 
-“You asked me to open this,” I said.
+"I know where the water went in the last flood. I do not know what more than a century has done to the iron."
 
-“I haven't asked yet.”
+She picked up one lantern. I kept my grandmother’s note and followed her down.
 
-“You sent three generations of dead people to do it for you.”
+The east cellar wall ran beneath number five. It had been plastered, painted, and hidden behind two storage cages, but water had drawn a diagonal gray line from the ceiling to the floor. Evadne knelt and fitted two fingers into the lowest mortar joint. When she pulled them free, they shone black.
 
-On a stool behind her lay a thick book bound in scuffed green leather. Beside it sat a tin of photographs. I recognized Evadne in the top one, standing in ankle-deep floodwater among women in long aprons and men with watch chains. On the back, a date had been written more than a century ago.
+“That is not groundwater,” she said. “It has silt in it.”
 
-The next photograph showed her outside Rookglass House when its stone angels still had faces. In the next, she held a child in a coat from the years of my grandmother's youth. Her dress changed. Her expression did not. So little as a line had appeared around her eyes.
+“Every cellar in town has silt.”
 
-I opened the book.
+“Not reed seed.”
 
-The entries began in several different hands, then settled into Evadne's narrow script. A family rescued when the old river flooded its banks: *anything in our power, whenever you name it.* A baby delivered while fire trapped the midwife across town: *anything.* Two brothers found alive in winter scrub: *we will answer you, whenever.* A widow sheltered from a violent husband. A roof held through a storm. Medicine brought through snow.
+She showed me a barbed seed stuck to her wet fingertip. The river marsh lay beyond the lower road; water from it should not have been pressing uphill against Rookglass House.
 
-The last column on every page was marked *unanswered*.
+On a crate beside the wall sat a thin black notebook and a packet of photographs. The first photograph showed Evadne waist-deep in floodwater, holding a window frame above three people crowded on a roof. The date on the back was a hundred and fourteen years old. In another, she carried a soot-blackened child from a shop fire. In a third, she stood beside my grandmother, who was young enough to have both front teeth and furious enough to be recognizable.
 
-“They tell children they owe you,” I said. “They bring offerings. They lower their voices when they say your name.”
+The notebook held brief entries. A rescue, a date, the exact words blurted afterward. *Anything you ask.* *Anything in my power.* *Call, and we will come.* Beside some, Evadne had noted a tool or an access point: yard key, chain hoist, drainage rods, timber shores. The words continued through generations, though the faces in the photographs wrinkled and disappeared.
+
+Evadne had not changed.
+
+I put the pictures down. “They paid you in years.”
+
+She looked up from the wall. “Your grandmother died at eighty-nine.”
+
+“And you stood beside her at twenty-six for most of them.”
+
+“The years reached her. They did not reach me.”
+
+“Because every frightened person you saved promised you anything.”
+
+The vibration came again. Dust slipped from the crack onto Evadne’s shoulder. She brushed it away before answering.
+
+"The first flood trapped twelve people in the upper rooms. I held the stair while the river tore through the hall. When it fell, they promised whatever I might ask, and I accepted because I was twenty-six and pleased to be needed. I had asked for blankets. They offered the rest." She pressed her palm to the plaster, listening through it. "Here, a promise made to me after I work magic can remain open until I release it. That first one stopped my aging. It also stopped me at Mirehaven’s boundary. Later promises drew the tether tighter."
+
+“Your notebook does that?”
+
+“My living hand does it. The book keeps me from misremembering the dead.”
+
+“And their grandchildren?”
+
+“Have inherited stories and cupboards full of unsuitable objects. Nothing else.”
+
+“The boy thought refusing you would break his grandfather’s word.”
+
+“His grandfather’s word cannot command him. Neither can I. I cannot sour milk, shorten a life, or make his hand turn a key because he says no.”
+
+“But you kept the promises open.”
 
 “Yes.”
 
-“And you stand there looking younger than their grandchildren.”
+“Why?”
 
-“Also yes.”
+Evadne rose and took the lantern. Its light made the young planes of her face severe; her voice was only tired.
 
-Anger felt cleaner than the fear moving under my ribs. “What do you take from them?”
+“Because the old floodgate was never repaired. It was closed, this passage was sealed, and people built over every useful entrance. I asked households to keep what we would need when the channel failed again. Your grandmother kept measuring. The garage kept a winch. The hardware shop kept the east-yard key. Fear made some of them bring nonsense, but it also kept the tools from being sold.”
 
-Evadne rose. “Nothing they don't give.”
+“You could have released every promise and asked for help like an ordinary neighbor.”
 
-“Their years?”
+“I did ask. Your grandmother listened. Most people listened to their dead.”
 
-For the first time, her composure broke. Not much; a tightening at one corner of her mouth. “Do you think I would choose to watch a century pass through this town one funeral at a time?”
+A sound like a plate breaking came from inside the wall. Black water needled through the diagonal crack and struck Evadne’s skirt.
 
-She turned the ledger toward herself. Her finger rested on the first page, where rain had feathered the oldest ink.
+She seized my wrist and pulled me clear as a palm-sized piece of plaster burst outward. Water spread over the cellar tiles.
 
-“When the first flood came, I kept a dozen people alive in the upper rooms of this building until the water fell. I was young, frightened, and far too pleased with my own power. They promised me anything. I let the promise stand.” She looked toward the wall. “Whatever answers vows in Mirehaven fixed me at the age I was when that first one went unanswered. Each open promise added another knot. I cannot grow older, and I cannot cross the town boundary.”
+“Get your grandmother’s notes,” she said. “If her last measurement says the crown has moved, we open the wall. If it does not, we leave this cellar now.”
 
-“Convenient punishment.”
+That was not a demand for faith. It was a dimension I could check.
 
-“There are worse faces to be trapped inside.” Her voice went flat. “That does not make it freedom.”
+Upstairs, I pried up the short kitchen board my grandmother had marked with two neat nail heads. Her masonry set lay below it in an oilcloth roll: lump hammer, three chisels, an offset spanner, and a folding rule. Beneath the tools was a school exercise book filled with section drawings of the foundation.
 
-“Then ask for a loaf of bread from each of them. Cross out the lines. Walk away.”
+The first drawing showed the main storm culvert bending under the lower road. At Rookglass House, a branch led east through the service gallery to an older channel that emptied beyond the houses into the marsh. A vertical iron gate kept the branch shut. My grandmother had drawn the wheel, the chain drum, and two keeper pins. Later pages tracked the east arch’s movement in millimetres.
 
-“The people who spoke those promises are dead. Their descendants did not consent to them.”
+Her final entry was six weeks old.
 
-“You let the descendants think they did.”
+*If the crown opens past eighteen, shore the joist, remove the infill, clear the screen, lift both keepers, raise gate. Water will take old channel. Do not stand beyond the left inspection slot when gate rises.*
 
-This time she had no quick answer.
+In the margin she had written: *Leonie will know eighteen when she sees it.*
 
-Rain rattled the pavement grates outside. The vibration under our feet deepened.
+I hated her for being right.
 
-“I told each household they could refuse,” she said. “I accepted gifts when refusing them would have been cruel, but I did not call the gifts payment. And I waited because the old relief channel would be needed again. When it is opened, it takes half the town to clear it and one witch to keep the roof from falling. I thought the promises might make them listen long enough to choose.”
+The crack measured twenty-one millimetres at the crown.
 
-“You kept them afraid because one day fear might be useful.”
+When I reached the cellar, water covered Evadne’s boots. A rust-colored stream ran down the stairs from the street drain, and the wall bowed between its old brick edges.
 
-“Yes.” She met my eyes. “I have had time to become wrong in several directions.”
+“Where does the diverted water come out?” I asked.
 
-The wall gave a soft crack. A thread of black water pushed through the mortar and ran over the toe of her boot.
+“Below the last houses, into open marsh.”
 
-I went upstairs to find proof.
+“Who has checked that outlet?”
 
-My grandmother had kept Rookglass House's repair bills in a kitchen cupboard, sorted by year and tied with string. Behind them lay a cardboard tube containing plans drawn on waxed linen. The oldest showed a stone channel branching from the river, passing beneath the building, and rejoining the marsh below the lower streets. A red line marked a manual spillway behind the east cellar wall.
+“I walked it at noon. Reeds, no masonry fall.”
 
-Later sheets carried my grandmother's measurements. The main culvert had bowed inward. If it collapsed during a surge, water would back through the lower drains and fill three streets. The hidden spillway could divert it, but opening the access would destroy the cellar wall, undermine two storage bays, and probably ruin number five above them.
+“The wall is acting as a buttress. We shore the joist before we touch a brick. What can your magic actually hold?”
 
-On the final page she had listed three warning signs: dark water at the bakery drain, vibration under Rookglass House, a wet diagonal fracture in the eastern foundation.
+“The stone arch and the pressure behind it. Not the gate. Not the iron. Not you.”
 
-Two were already beneath my feet.
+“How long?”
 
-My telephone rang before I could search for the third. A breathless voice from the bakery asked whether Evadne was with me. Black water had come up through their floor.
+“In this water, perhaps half an hour.”
 
-Downstairs, the cellar crack opened with a noise like a branch splitting. Water slapped across the tiles.
+I unfolded my grandmother’s oilcloth on the stair. The offer on number five depended on an intact foundation and an empty storage bay. Once we opened the infill, the surveyor would condemn the east floor until it was rebuilt. The buyer would be gone before the rain stopped.
 
-Evadne looked at me.
+Another brick edged forward.
 
-“Ask,” I said.
+“Ask me,” I said.
 
-“Leonie Sayer, will you open the east wall?”
+“Leonie Sayer, will you open the east cellar wall?”
 
-The easy sale of the apartment ended in that question. So did the fantasy that I could pack my grandmother into six boxes and be finished with every choice she had made.
+I took the lump hammer from its loop. “Show me where to put the shores.”
 
-“Not until everyone hears the truth,” I said. “No inherited debt. No punishment for refusal. And when tonight is over, you close every line, including the ones people decline.”
+We did not summon Mirehaven to hear an explanation. We climbed the stairs and knocked on doors.
 
-“Some will refuse if they know they can.”
+At number four, Evadne asked a retired carpenter for two timber shores and help setting them beneath the east joist. He stared at her unchanged face.
 
-“Then ask for what you need, not what their grandparents offered.”
+“My father said we owed you any timber in the yard.”
 
-Water covered the soles of our boots.
+“I am asking for two sound lengths and twenty minutes of your hands. You may refuse.”
 
-Evadne held out her hand. “Agreed.”
+He rubbed his bad thumb against the door latch. “I’ll set them. I won’t crawl through anything.”
 
-I did not take it. “No promise. Just get them here.”
+“Good. Bring wedges.”
 
-The residents of Mirehaven filled the entrance hall in twenty minutes. Some arrived because Evadne called. More came because their parents had taught them never to ignore a summons from number six. They brought the things their households had preserved against an unnamed day: pry bars wrapped in oilcloth, old iron keys, coils of rope, shovels, a masonry drill, a hand winch. One driver parked a recovery truck outside. Another came with a van to move people from the lower streets.
+At the ground-floor flat, a woman held a sleeping child against her shoulder. Her family’s hand pump stood in the hall beneath a coat.
 
-They watched Evadne. Evadne watched me.
+“I won’t go below,” she said before Evadne could speak.
 
-So I told them.
+“I need the pump, not you.”
 
-I showed them the ledger and the plans. I told them the promise-working kept Evadne young and trapped, not them obedient. No ancestor's consent had entered their blood. Anyone could leave. Anyone who left would lose nothing except the chance to help keep black water out of their neighbors' homes.
+“You can take it. Bring it back if there’s a house left.”
 
-An elderly woman in a green raincoat began to cry. “My mother said our family would sicken if we refused.”
+“I will try.”
 
-“Your mother was mistaken,” Evadne said.
+The old man from the hardware family reached the front step as we came down. This time the long iron key hung from his fist.
 
-“You never corrected her.”
+“My daughter said yes,” he told Evadne. “Lift the east gate on its hinge before you turn. It jams in rain.”
 
-“No.”
+Evadne took the key. “Open it yourself. Then stay there and keep the winch line off the stone.”
 
-The woman set down the case of tools she had brought. “Then I refuse you.”
+At the garage around the corner, water already ran over the threshold. The mechanic listened while I described the buried gate and the straight pull through the east yard.
 
-A murmur moved through the hall.
+“The truck can’t clear Rookglass’s arch,” he said.
 
-Evadne opened the ledger, found the line the woman indicated, and drew her pen through it. “Released,” she said.
+“The key opens the yard gate,” I said. “You can reverse to the alley and feed cable through.”
 
-The woman stared, perhaps waiting for a pain that did not come. Then she picked up the case again.
+“Sixty feet?”
 
-“These aren't for you,” she said. “My daughter lives downhill.”
+“Fifty-three from the gatepost to the cellar wall.”
 
-“Understood.”
+He looked at the water climbing his tool cabinet. “I’ll bring eighty.”
 
-That was the moment the room changed. Not into bravery; there was too much weather beating at the doors for that. But fear loosened its grip enough for decisions to fit beside it.
+A woman waiting behind him shook her head when Evadne turned to her. “My husband can’t walk down from the upper road alone. I’m going for him.”
 
-Evadne asked the hardware household for their kept key to open the rear service gate. She asked the mechanic to anchor the winch outside. She asked the bakery family for every empty flour sack they could fill with rubble. She asked two households for evacuation vehicles, four for strong backs, one for knowledge of the old drains. Each time she asked, she waited for an answer. Some said no. She released them. Enough said yes.
+“Go,” Evadne said. “The promise your grandmother made after the shop fire ends with me.”
 
-Then she turned to me.
+The woman searched Evadne’s face for the catch. There was none. She ran into the rain.
 
-I took up my grandmother's mason's hammer.
+By the time we returned, neighbors had made a relay without being told to make one. The carpenter passed braces down the stair. The mother in the ground-floor flat passed the pump after them, then shut her door on the noise. Two bakers from the lower road arrived with doubled flour sacks and began carrying rubble toward the yard. The mechanic backed his truck into the alley. The long key opened the rusted gate only after the old man lifted it bodily on its hinges.
 
-The plaster broke easily. The brick behind it did not. We worked knee-deep in water while the drill screamed and grit coated our mouths. When we had opened a hole wide enough to see through, my torch found a stone gallery packed with branches, silt, and pieces of a collapsed iron screen. A wheel taller than I was stood on the far side, red with rust.
+The first shore took the joist’s weight with a wooden groan. I drove its wedges until the brass level on the floor stopped trembling. The second stood clear of the access arch. Then I set my grandmother’s broad chisel into the mortar.
 
-Another surge struck. The hole spat water hard enough to knock a man backward.
+The first brick I knocked free ended the sale.
 
-Evadne stepped into it.
+Cold water punched through the hole. Evadne planted both palms against the old stone arch. Light rose under the skin of her wrists, each pulse sending a white branch through the wet joints. The arch stopped grinding. Water flattened against the opening as if her hands had changed its mind, but the force bent her elbows and drove her heels backward across the tiles.
 
-She planted both hands on the broken edges of the wall and spoke words too low for me to understand. Pale light spread from her palms through the mortar, branching like roots under ice. The stones stopped shifting. She did not. Her shoulders shook with every impact from the water.
+“High courses first,” she said. “Leave the sides until the shore settles.”
 
-“I can hold the passage,” she said through her teeth. “I cannot open it.”
+We obeyed. The carpenter worked opposite me with a pry bar. The bakers caught bricks and filled sacks. The pump coughed black water through a hose into the yard. When the hole reached shoulder width, Evadne let a controlled sheet spill around her boots.
 
-We widened the breach around her. The mechanic fed the winch cable through and hooked the fallen screen. Upstairs, the truck's engine roared. Iron shrieked along stone. Others dragged out branches and shoveled silt into flour sacks, passing them hand to hand toward the rear gate.
+Beyond the infill, the service gallery ran under a low stone arch for twelve feet. A broken debris screen lay across it, packed with roots and bottles. Behind that, the gate wheel showed one rusted rim above the rising water.
 
-The wheel would not move.
+The mechanic threaded his cable past us. The old man guided its hook through the screen while the bakers kept the slack from tangling around Evadne’s ankles. Outside, the truck engine deepened. Iron tore free with a scream and came toward us under a black mat of roots.
 
-I climbed through with my grandmother's plans inside my coat. Water reached my thighs, then my waist as the gallery dipped. Behind me, Evadne's light showed each crack she held shut. Ahead, the spillway gate shuddered in its frame.
+“Stop!” I shouted.
 
-The diagram showed a retaining catch on our side. I found it under the water, drove a chisel beneath it, and struck until my wrist went numb. The catch lifted. The wheel turned a quarter circle and stopped.
+The cable stilled. We unhooked the screen and dragged it into the cellar. Evadne’s light flickered. Her lips had lost their color, and one knee shook against her skirt.
 
-The gallery lurched.
+“You said half an hour.”
 
-One of Evadne's hands tore free of the wall. A seam opened overhead, pouring gravel and water. The people behind me scattered; then two came back to brace Evadne's arm while she pressed her palm into place again. The light returned, dimmer.
+“I was not allowing for bottles.”
 
-“There is another keeper,” I shouted.
+“Can you hold ten more minutes?”
 
-My grandmother had drawn it on the far side of the gate.
+“If you stop asking me to speak.”
 
-The only way to reach it was through a maintenance gap barely wider than my shoulders. Water hammered through it. Someone tied a rope around my waist. Evadne looked at the plan, then at me.
+I tied the relay rope around my waist and took the offset spanner and narrow chisel inside my coat. The carpenter paid out the other end as I stepped through the breach. Water climbed from my knees to my hips where the gallery dipped.
 
-“Your grandmother intended to do this herself.”
+The gate wheel resisted, then moved when the mechanic levered a spoke with the pry bar. Chain clanked inside the drum. The iron gate rose the width of my hand and stopped.
 
-“She should have written better instructions.”
+A surge struck from the main culvert. The gallery ceiling jumped. Behind me, one of Evadne’s palms tore from the arch and a stone dropped where her head had been. The carpenter caught her shoulder; Evadne slammed her hand back into the joint. White light returned in a ragged fan.
 
-I went through before I could become sensible.
+“Wheel’s free,” the mechanic called. “Something below is holding it.”
 
-Cold closed over my head. For a few seconds there was no town, no inheritance, only stone scraping my coat and the rope cutting under my ribs. I pulled myself into the pocket beyond the gate and came up coughing in darkness.
+I opened my grandmother’s exercise book inside the oilcloth. Her last drawing put the lower keeper on our side. I found its square head under the water and fitted the offset spanner. It turned once, shedding rust, then came loose. The gate did not rise.
 
-The second keeper was above me, furred with rust. I fitted the chisel. My first blow glanced away. My second rang through the metal. On the third, the keeper dropped.
+The second keeper was beyond the gate, reachable from the left inspection slot.
 
-“Turn it!” I yelled.
+I could see the slot now that the screen was gone: a shoulder-wide cut in the gallery wall beside the iron leaf. Water drove through it toward the old channel. My grandmother’s warning sat under my thumb. Do not stand beyond it when the gate rises.
 
-The wheel groaned. The gate climbed.
+“Pull me out when I strike twice,” I told the carpenter.
 
-Water seized my legs and dragged me toward the opening. The rope snapped taut. Hands hauled from the other side while the river battered through, carrying years of silt with it. I lost the hammer. I kept the plans inside my coat.
+He tightened the rope. “I can pull you now.”
 
-Then the spillway took the surge.
+“Twice.”
 
-The water changed direction with a deep, bodily roar. It rushed away beneath the hill toward the marsh instead of forcing itself back under the lower streets. The pressure fell. One by one, the cracks around Evadne's hands went dark.
+I turned sideways and entered the slot.
 
-We crawled from the cellar near dawn, soaked black to the shoulders and gray with brick dust. Rookglass House had lost part of its east foundation. Number five would not be sold in two days, or two months. But when the drivers returned from below, they reported wet floors, frightened residents, and no drowned streets.
+Stone took the skin from my knuckles. The water rose to my chest, dragging at the tool roll. I reached around the back edge of the gate and found the keeper by touch, a blunt iron tongue seated upside down in its bracket exactly as my grandmother had drawn it. The narrow chisel fit beneath.
 
-Evadne sat on the bottom stair with the ledger open on her knees.
+My first hammer blow vanished in the storm noise. The second jarred the iron. The third freed it.
 
-Those who had answered stood before her while she recorded what they had freely done and crossed out each line. For those who had refused, she wrote *released*. She did not hurry. The last open promise belonged to my grandmother.
+The gate leaped upward six inches.
 
-Evadne offered me the pen.
+Water seized my legs and folded me into the stone. The rope snapped tight around my waist. I struck the gate twice with the hammer because I had no breath to shout.
 
-“It was never mine,” I said.
+Hands hauled. My coat caught on the keeper. For one blind second I hung between the opening gate and the pull of the water; then the seam tore, the coat released, and I slid backward into the gallery.
 
-“No.” She looked at the broken wall. “But the choice was.”
+“Raise it!” I coughed.
 
-She wrote *released by death* beside my grandmother's promise. Beneath it, she added, *answered freely by Leonie Sayer*, and closed the book.
+The mechanic and carpenter drove the wheel together. The chain drum turned. As the gate climbed, the surge found the old relief channel.
 
-Nothing flashed. No wind swept the cellar. Evadne simply bowed her head as if listening to a sound recede.
+The water did not stop. It changed its destination.
 
-In the washed blue light after the storm, half the town walked with her to the boundary marker. Perhaps they wanted to see whether she had lied. From the care with which Evadne placed each boot, I thought she wanted to know too.
+It roared through the inspection slot, under the gate, and away toward the marsh. Pressure dropped so fast that my ears rang. The crack-light faded from the arch. Evadne sagged between the two shores, her hands gray with cold, every line of her face still impossibly young.
 
-Evadne stopped with one boot in Mirehaven and one beyond it. She looked suddenly uncertain, younger in that instant than her unchanged face had ever made her seem.
+We carried her upstairs in one of the blankets she had stacked by her door.
 
-Then she stepped across.
+At dawn, number five’s east floor rested three centimetres low against the new shores. Brick dust coated my grandmother’s bowls, and the blue teacup had cracked where I had left it beside the sink. The lower road was wet to its thresholds but no longer filling. Beneath Rookglass House, the reopened channel made a steady sound like distant wind.
 
-No force pulled her back. She walked twenty paces down the wet road, laughing once under her breath. When she turned, a single silver hair shone beside her temple.
+Evadne sat on the landing with the black notebook. She crossed out the promises of the households that had brought the key, the pump, the truck, the timber, and the sacks. She crossed out the woman’s refusal too. Then she turned the remaining pages, spoke once for each dead promise-maker, and released every promise that had never been answered at all. The paper did nothing but take the pencil marks. Evadne’s living voice did the work.
 
-I thought of number five with its cracked floor and ruined sale. I thought of the city train leaving that afternoon, and of how easily a new duty could disguise itself as a choice. I did not decide my whole life beside a boundary stone.
+It took less time than cleaning the blood from my scraped knuckles.
 
-I decided the morning.
+We walked alone to the edge of Mirehaven. The rain had thinned to mist. At the white boundary post, Evadne stopped and pressed two fingers to her throat as if checking a pulse.
 
-“Evadne,” I called. “I have tea upstairs, if the kettle still works.”
+“What happens if it still holds you?” I asked.
 
-She touched the silver hair, then looked back at Rookglass House.
+“I bruise my shoulder on the air. I have done it often enough.”
 
-“What will I owe you?”
+She stepped past the post.
 
-“Nothing,” I said. “It's tea.”
+Nothing stopped her.
 
-She crossed into Mirehaven again because she wanted to, and came home with me through the rain.
+Evadne walked several paces down the wet road, then farther, until a laugh escaped her. When she turned, one silver hair lay against the black at her temple. She touched it with an astonished hand.
+
+I had not decided whether to rebuild number five or sell it wounded. I had decided only that I was cold and that my grandmother’s blue tea tin was still above the stove.
+
+“I’m making tea,” I said. “Come back with me if you want some.”
+
+Evadne looked once along the road she could finally take. Then she crossed into Mirehaven beside me, and we went back to Rookglass House while the old channel carried the storm under our feet.

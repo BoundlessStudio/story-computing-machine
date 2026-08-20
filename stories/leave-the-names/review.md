@@ -14,7 +14,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Merenza | new | Dead layered city and source of the sold civic letters; no exact, alias, close-spelling, or confusing reuse found. |
+| Merenza | new | Dead layered city and source of the sold civic letters; `MEREN_A` is its damaged displayed form, not another place, and no confusing reuse was found. |
 
 ## Continuity
 
@@ -22,7 +22,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The local name ethic, ruin layer, and pale-rail effect respect current authority; the recovery, irretrievable loss, costs, apprenticeship consequence, character agency, and ending resolve the prompt coherently, with no material craft conflict.
+- Notes: The local nonmagical name ethic, undated ruin layer, and pale-rail effect respect current authority; the six-letter recovery, melted `Z`, unsafe brake, divided coil debt, retained gap, and continuing apprenticeship remain causally coherent.

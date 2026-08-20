@@ -7,12 +7,11 @@ Verdict: PASS
 | Noun | Status | Continuity note |
 | --- | --- | --- |
 | Kerric Alver | new | Adult caravan scout and narrator; no exact, alias, close-spelling, or confusing reuse found. |
-| Kerric | new | Short form of Kerric Alver; no confusing reuse found. |
-| Sivareth | new | Adult serpentfolk queen; distinguishable from baseline `Siva` and current `Sivren`. |
-| The Gilded Hunger | new | Human epithet for Sivareth; no exact, alias, or confusing reuse found. |
-| Halvek Prynn | new | Caravan captain; no exact, alias, close-spelling, or confusing reuse found. |
-| Captain Halvek Prynn | new | Titled form of Halvek Prynn; no confusing reuse found. |
-| Halvek | new | Short form of Halvek Prynn; readily distinguishable from legacy `Bryn Ahn`. |
+| Kerric | new | Short form of Kerric Alver; no separate exact or confusing reuse found. |
+| Sivareth | new | Adult serpentfolk queen; no exact or alias reuse found, and the full form remains readily distinct from baseline `Siva` and passing-current `Sivren`, `Sivelle`, and `Ione Sivet`. |
+| the Gilded Hunger | new | Human epithet for Sivareth; no exact, alias, close-spelling, or confusing reuse found. |
+| Captain Halvek Prynn | new | Titled full form of the caravan captain; no exact, alias, close-spelling, or confusing reuse found. |
+| Prynn | new | Surname form of Captain Halvek Prynn; no exact or alias reuse found, and the full identity remains distinct from legacy/canon `Bryn`. |
 
 ## Places
 
@@ -26,7 +25,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The story resolves the prompt's disputed plea through remembered rescue, full release, bounded voluntary restraint, and immediate release at `stop`. Chronology, ambush geometry, heat-reading limits, relationships, and physical continuity remain coherent, and no material prospective-craft or content-boundary conflict remains.
+- Notes: The disputed plea resolves through remembered rescue, full armed release, independently verified betrayal, and a later bounded hold that Kerric requests and Sivareth ends at the promised third rib. The lure and memory sequence, six-person ambush, cave and drain geometry, gear custody, injuries, and one-storm chronology remain coherent. Kerric's route-and-measurement diction, Sivareth's literal territorial precision, and Prynn's operational commands keep the decisive exchanges distinct, while the final meal and limited touch stop at a finite choice rather than restating the theme.

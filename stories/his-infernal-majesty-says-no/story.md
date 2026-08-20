@@ -8,448 +8,548 @@ canon: false
 
 # His Infernal Majesty Says No
 
-“There will be no appeal,” said Lord Vordain.
+“There will be no appeal,” Lord Vordain said.
 
-The words rolled from the iron throne and settled over the court. Flames along the pillars bent away. The accused governor, who had sold three districts’ furnace coal during the cold season and blamed the resulting deaths on weak constitutions, stopped attempting to stand.
+The pillars’ flames bent toward the iron throne. Along the basalt aisle, ministers lowered their eyes. The furnace governor before Vordain had falsified winter coal tallies, sold the missing fuel across the border, and described the households that froze as an unfortunate statistical pocket.
 
-Vordain regarded him without pleasure. Pleasure would have cheapened the sentence.
+Vordain had no patience for governors who mistook arithmetic for absolution.
 
-“You found suffering educational when it belonged to others. You will therefore spend the next two centuries in the ash archive, reading every petition your office denied. You will copy each one in your own hand. If you omit a name, you begin again.”
+“You will serve in the ash archive until you have copied every complaint your office buried. Names first, then dates, then the answer that should have been sent. Miss one household and the work begins again.”
 
-The governor’s mouth worked soundlessly.
+The governor’s face emptied.
 
-“Remove him.”
+“Two hundred years should be sufficient,” Vordain added. “If it is not, you will inform my successor.”
 
-Black-armored bailiffs dragged the prisoner down the long basalt aisle. Nobody looked at the throne. Nobody breathed above necessity. Vordain let the silence lengthen until the gathered dukes, ministers, and petitioners remembered that mercy in his dominion was not a climate. It occurred at his discretion, to selected persons, and seldom in public.
+Nobody in the court was fool enough to wonder aloud whether His Infernal Majesty intended to have a successor.
 
-Then the bronze doors opened without permission.
+The bailiffs had just closed iron hands around the governor’s arms when a silver cup came skittering between their boots. Something beneath it scratched furiously at the stone.
 
-Sivelle stepped through them carrying a parcel wrapped in silver paper. A soot-colored ribbon had come loose from her hair, and there was a dab of icing on one cuff.
+“Don’t lift that,” Sivelle called from the open doors. “It bites velvet.”
 
-“Papa, they’ve put seventeen candles on the cake again.”
+Vordain stood.
 
-Vordain rose so quickly that the court astrologer dropped his tablets.
+His daughter crossed the court with a folded napkin wrapped around one hand and soot caught in the loose ends of her hair. She had been eighteen for less than an hour. This did not prevent half the assembly from recoiling when the cup hopped sideways.
 
-“An intolerable failure,” he said. “You are eighteen.”
+“Why,” Vordain asked, descending from the throne, “is your birthday attempting to enter a judicial proceeding?”
 
-“That is what I told them.”
+“The kitchen tested a candle.”
 
-“Who is responsible?”
+“Without you?”
 
-“No one you’re allowed to sentence. The pastry cook counted from last year’s order.”
+“I was there.”
 
-Vordain descended the seven steps from the throne. His mantle, woven from the smoke of conquered fortresses, snagged on the armrest. He freed it with an undignified tug.
+“Without me?”
 
-“Seventeen candles,” he said, taking the parcel from her. “On such a birthday.”
+Sivelle considered this distinction and offered him the napkin. A spot of black icing marked one corner. “You were sentencing someone.”
 
-“I think the realm will endure.”
+“Birthdays outrank governors.”
 
-He touched one knuckle to the icing on her cuff and frowned at it as if examining evidence of treason. “We should not assume.”
+Behind him, the accused made a small sound.
 
-Behind Sivelle, the entire court had become fascinated by the floor.
+Vordain glanced over one shoulder. “The judgment stands. Remove him. Remove everyone.”
 
-Vordain remembered them. “Why are you still here?”
+The court cleared with gratifying speed. A duke abandoned a jeweled cane rather than delay at the doors; a clerk left with three other clerks’ papers clutched to his chest. When the last bailiff had dragged out the last petitioner, Vordain crouched beside the cup.
 
-They fled so efficiently that two lesser barons left through a servants’ passage and a bailiff abandoned one gauntlet. By the time Vordain and Sivelle reached the private dining room, no one remained within three corridors except the household staff, who had long ago learned that His Infernal Majesty’s birthday manner was more dangerous to witness than his executions.
+“Papa,” Sivelle said, “it will fly at your face.”
 
-The cake waited beneath a spun-sugar crown. It now bore eighteen black candles, the offending seventeenth set having apparently been corrected at spearpoint. Vordain inspected the flames, the icing, and the little pastry roses. Only after Sivelle threatened to eat a rose directly from the cake did he permit the candles to be extinguished.
+“Then it will perish informed of its error.”
 
-At once, the wicks split open.
+He lifted the cup. A cinder-moth burst out in a scatter of hot gold dust, struck his crown, and darted toward the rafters. Vordain caught it between two bare fingers. Its coal-black wings gnawed at the air.
 
-Eighteen cinder-moths emerged in a puff of hot gold dust. They fluttered toward the velvet curtains with all the malicious instinct of their species. Three servants advanced with silver cups. The moths darted between them, shedding sparks and making the smoke bells cough in the ceiling.
+Sivelle smiled. “Very majestic.”
 
-Sivelle laughed. Vordain, who had once ordered a cavalry charge without changing his expression, snatched up a dessert cover and trapped the largest moth beneath it.
+“It attacked the throne.”
 
-“They are worse every year,” he said.
+“It attacked the nearest warm object.”
 
-“You say that every year.”
+He handed the creature to a waiting servant, who sealed it in a sugar jar. “As I said.”
 
-“Because every year confirms it.”
+Then he unwound the napkin from Sivelle’s hand and inspected each finger for burns. She endured this until he reached the thumb a second time.
 
-One of the servants captured two beneath the same cup, a feat Vordain noted for later promotion. Another moth vanished behind the tall cabinet that held Sivelle’s previous birthday wishes.
+“The moth missed me.”
 
-The cabinet had been installed after her ninth birthday, when she asked for a salamander with blue flames and Vordain returned with seven so she could choose. They had melted the nursery grate, scorched the west conservatory, and bred. The surviving five now occupied a heated lake with a staff of twelve.
+“Its judgment is unreliable.”
 
-At thirteen, Sivelle had wished for snow. Vordain’s weather ministers protested that the lower provinces possessed neither suitable clouds nor a word for mittens. He obtained both. It snowed for six hours across the dominion and took six months to repair the roofs.
+The private dining room held a cake with eighteen black candles, a table set for two, and enough covered dishes to sustain a military encampment. Vordain had reduced the birthday supper twice already. The kitchen had interpreted each reduction as permission to make the remaining courses larger.
 
-At sixteen, she had asked that her overworked history tutor be given an afternoon off. Vordain abolished afternoon instruction throughout the palace, imprisoned the master of schedules in a clock cupboard, and sent the tutor on a compulsory seaside holiday. The tutor returned rested, grateful, and unwilling ever to mention fatigue again.
+He inspected every candle before allowing Sivelle to blow them out. The wicks cracked open. Eighteen cinder-moths fluttered up through the spun-sugar crown and scattered among the curtains.
 
-Vordain placed a gift box beside Sivelle’s plate. It contained a necklace of dark metal, each link hammered paper-thin and set with a fleck of fire. He had rejected thirty-one designs.
+Servants advanced with silver cups. One moth plunged into the flower arrangement. Another chewed a neat crescent from a velvet pelmet before being caught. A third landed on Vordain’s wine and drank a glowing hole through the surface.
 
-She fastened it around her throat and kissed his cheek. He sat perfectly still, because moving might have caused the warmth inside his ribs to spill into some visible expression.
+This was, by palace standards, ordinary birthday housekeeping. The extraordinary part had always come afterward.
 
-“Now,” he said when they had eaten, “your wish.”
+At nine, Sivelle had asked for a blue-flamed salamander. Vordain acquired seven, in case the first six disappointed her. Five survived, multiplied, and now required a heated lake, twelve keepers, and a quarterly fish budget that embarrassed the navy.
 
-Sivelle folded her napkin. “I want to go to college.”
+At thirteen, she had wanted snow. By midnight, every province possessed snow, qualified weather officers, and an emergency vocabulary for frozen pipes. At sixteen, she had asked that her tired history tutor receive an afternoon away from lessons. Vordain granted the tutor a month at the coast and had the palace schedule-master locked in a clock cupboard until he developed respect for leisure.
 
-“Done.” He waved one hand. “We will found one. You may have the east citadel. I will summon the finest scholars from every province. If the architecture displeases you, demolish it.”
+Experience had taught the realm that Sivelle’s smallest wishes arrived with administrative consequences.
 
-“A human college.”
+Vordain waited until she had opened her gift. The necklace was made of hammered dark metal, light as ribbon, with a fleck of contained fire in every link. Thirty-one jewelers had submitted designs. Vordain had frightened twenty-eight of them and confused the rest by insisting that “perfect” was a measurement.
 
-His hand stopped.
+Sivelle fastened it, then leaned over and kissed his cheek.
 
-“Dunmere College,” she said. “In the human world. I’ve been admitted for the autumn term.”
+He adjusted a fork that did not require adjustment. “It suits you.”
+
+“You could simply say you like it.”
+
+“I commissioned it. My opinion is structurally implied.”
+
+She laughed, and the dreadful pressure inside his chest eased into its familiar birthday ache. He would give her a glass archipelago if she asked. He would teach thunder to pronounce her name. He would seize time itself and wring out one additional hour, provided she wanted it for something sensible.
+
+“Well?” he said. “What is this year’s catastrophe?”
+
+Sivelle folded her napkin into a square. “I’m going to Dunmere College.”
+
+“Excellent. I will purchase it.”
+
+“You will not.”
+
+“Then I will found a superior one. The east citadel is wasted on artillery. We can have lecture halls by autumn.”
+
+“Dunmere is in the human world.”
+
+His fingers went still beside his glass.
+
+“I’ve been admitted,” she said. “The term begins next week.”
 
 “No.”
 
-The answer struck the table harder than any command he had issued that day. Under the dessert cover, the captive moth went still.
+The word came out with the full weight of the throne room. Cups rattled in the cabinets. Under a silver cover, a trapped cinder-moth stopped scratching.
 
-Sivelle stared at him. Vordain discovered that he was also staring at himself, reflected in the silver tea service: crown crooked, cheek marked by the faint print of her kiss.
+Sivelle blinked once. “That was quick.”
 
-He set the crown straight. “No.”
+“A sound judgment need not be slow.”
 
-“You said I could ask.”
+“You haven’t heard the case.”
 
-“You could ask for anything reasonable.”
+“Jurisdiction alone is fatal to it.”
 
-“Last year I asked for a glass mountain.”
+Vordain rose and paced to the cabinet where the evidence of prior birthdays was kept: a scale shed by the salamanders, a snow globe that controlled nothing, the tutor’s grateful postcard from the coast. “If you want human scholarship, I will bring human scholars here. If you want their books, I will buy every library willing to sell and take copies from the rest. If you want fellow students, I can select a cohort.”
 
-“And it is structurally sound.”
+“That is a court.”
 
-“It sinks four inches every spring.”
+“A seminar.”
 
-“That is a foundation matter.” He rose. Sitting left him too exposed. “You require education? You shall have it. Tutors. Laboratories. Libraries. I will import human lecturers if you crave the accent. We can reproduce the entire institution here, down to its stones.”
+“Chosen by you.”
 
-“Can you reproduce students who don’t know who I am?”
+“Then you may reject them.”
 
-“Certainly. Memory is a tractable material.”
+“Also chosen by you.”
 
-“Papa.”
+He turned. Sivelle had not raised her voice. She had learned, after years around his council table, that quiet corrections made powerful people supply their own humiliation.
 
-He heard the warning. He disliked receiving warnings in his own dining room, but Sivelle had been delivering them since she learned to point.
+“I want a roommate I have not approved,” she said. “I want to wait in lines. I want a lecturer who might be boring and a dining hall that doesn’t know my favorite dessert.”
 
-“I don’t want a college designed to give me the correct experience,” she said. “I want a room I didn’t choose and classes that might be dull and people who won’t laugh because you can have their grandparents reassigned.”
+“I can forbid the cooks to remember it.”
 
-“I have never reassigned anyone’s grandparents for failing to laugh.”
+“You would have them pretend.”
 
-“They don’t know that.”
+“They are highly trained.”
 
-“Then they are sensible.”
+Sivelle reached beneath her chair and laid a cream-colored packet beside the cake.
 
-Sivelle reached beneath her chair and drew out a thick cream envelope. Vordain recognized enemy intelligence when it appeared at his dinner table.
+Vordain knew an ambush when he saw one. He broke Dunmere’s paper seal.
 
-He read the first page. Then the second. He returned to the first in case its words had improved.
+The first page congratulated his daughter with offensive familiarity. The second assigned her a room in a building whose name meant nothing. The third demanded tuition in human currency and separated the charge for “student activity” from the charge for education, as though activity were an exotic privilege.
 
 “You applied in winter.”
 
 “Yes.”
 
-“Without telling me.”
+“You described yourself as Sivelle Vordain.”
 
-“You would have said no before I finished the form.”
+“That’s my name.”
 
-“A form should not be permitted to determine the location of my daughter.”
+“Your title is omitted.”
 
-“A committee determined it.”
+“That helped.”
 
-“Worse.”
+He found a copy of the application essay. It concerned the salamander lake: algae blooms, feeding mistakes, and the season Sivelle learned that ordering the water to clear merely made the keepers falsify their reports. The conclusion admitted her own errors with a candor Vordain considered strategically reckless.
 
-The packet included an offer of admission, a housing assignment, an invoice of breathtaking pettiness, and several pages about linens. The college had addressed Sivelle without title. It proposed to place her in a room with another first-year student selected by questionnaire. It did not inquire whether the roommate had experience with infernal royalty, attempted abductions, court etiquette, or smoke.
+“Why did you include the feeding mistake?”
 
-Her application essay, which she reluctantly produced from another envelope, made no mention of her father. She had written about maintaining the salamanders’ heated lake and discovering that one could not command an ecosystem to balance. Vordain found the conclusion obvious and the prose distressingly effective.
+“Because I made it.”
 
-“You have not selected a course of study.”
+“Applications are arguments, not confessions.”
 
-“I’m allowed not to know yet.”
+“It was an argument.”
 
-“They charge this much and permit ignorance?”
+“Against your competence.”
 
-“They call it exploration.”
+“About learning.”
 
-“I call it fraud.”
+Vordain turned to the financial forms. Sivelle had saved most of her allowance for three years. She had converted the amount at a cautious rate, included books, and forgotten that humans charged to wash clothes. Her banking appointment was two days after the first tuition payment. Beside *laundry basket*, she had written *borrow?* The health declaration offered boxes for human conditions and no useful place to explain that anger sometimes raised her body temperature enough to scorch varnish.
 
-She had saved money from her household allowance. Not enough, he noted with savage relief, once tuition and housing were deducted. She knew which human bank would accept her documents but had not opened an account. She had a list of objects required for the dormitory, but beside *laundry basket* she had written a question mark. The medical form asked about allergies to substances not found in his dominion. Three disclosure boxes offered no useful option between human and other.
+“You cannot pay the first invoice from these funds.”
 
-Serious work had gone into the packet. Serious omissions remained. Both facts frightened him more than an empty-headed whim would have.
+“I know.”
 
-“You are not prepared,” he said.
+“Your meal account activates the morning after you arrive.”
 
-“I’m preparing.”
+“I missed that.”
 
-“You do not know how their money works.”
+“Your proposed solution to laundry is punctuation.”
 
-“Neither do you.”
+“I’m working on it.”
 
-“I know it works badly.”
+Every concession should have pleased him. Instead, Sivelle took a pencil from her sleeve and added short notes beside each flaw he found. *Ask bank about advance transfer. Pack food. Buy basket.* His objections were becoming errands.
 
-“Come see the place.”
+He set the papers down. “You are not prepared.”
 
-He laughed once. “For what purpose?”
+“Not finished.”
 
-“So you can tell me no about the actual college instead of the one you’ve invented.”
+“The distinction is cosmetic.”
 
-Vordain looked at the acceptance letter. Dunmere’s seal showed an owl perched upon a key. The creature’s proportions were poor. Its gaze seemed insolent.
+“Come with me and check.”
 
-Crossing into the human territory was possible under the old border compact, but not in any manner fit for a sovereign. On human soil, his command-voice would be sealed. He could take no retinue, cast no punitive magic, compel no human institution, and pronounce no judgment with force behind it. The compact allowed dignity in theory. In practice, dignity required witnesses.
+“I have checked their accounts, housing, medical incompetence, and approach to baskets.”
 
-Sivelle waited.
+“You’ve checked paper. Dunmere starts early move-in tonight. My room is empty, and the housing desk is issuing keys until midnight.” She put the pencil away. “Come tell me no there.”
 
-“We will inspect it,” he said. “After which you will abandon this foolishness.”
+The old compact at Vordain’s nearest human crossing permitted a sovereign visit only by making sovereignty useless. On the far side, his command-voice would be sealed. He could bring neither armed retinue nor punitive workings. Human officials could ignore him without bursting into flame, becoming stone, or even experiencing a memorable headache. The restriction was local to that passage and insulting in every clause.
 
-“You can say that when we come back.”
+Sivelle waited while he reviewed it in silence.
 
-“I have just said it now.”
+“We will inspect the institution,” he said at last. “You will observe how thoroughly reality supports me.”
 
-“Then you can enjoy being consistent.”
+“I’ll bring the forms.”
 
-At the border passage, Vordain surrendered his crown, mantle, signet, sword, armor, and the small hooked blade he carried in his left boot. The passage keeper waited.
+“Bring the laundry question.”
 
-“Ceremonial,” Vordain said.
+At the border house, Vordain surrendered his crown, mantle, armor, sword, signet, and three knives. The passage keeper looked at his left boot.
 
-The keeper continued waiting.
+“That is all,” Vordain said.
 
-Vordain surrendered the second blade.
+The keeper kept looking.
 
-The compact folded his horns out of sight and pressed his teeth blunt. It put him in a human face austere enough to satisfy him and a charcoal coat Sivelle said made him look like a disappointed undertaker. When he tested his command-voice, the word *open* emerged as a perfectly ordinary request. The passage door ignored him until Sivelle turned the handle.
+Vordain surrendered the fourth knife.
 
-Dunmere lay in the blue end of evening, all wet brick and clipped grass. Move-in had begun early for students attending orientation. Wagons and human automobiles clogged the curved drive. A young man carried a houseplant so large he could not see around it. Two girls argued cheerfully over a rolled carpet. Someone had left a bicycle across the library steps in what Vordain considered a declaration of social collapse.
+The compact folded his horns from sight, blunted his teeth, and gave him a charcoal coat with a narrow human collar. It did nothing kind to his expression.
 
-“There are no guards at the gate,” he said.
+Sivelle looked him over. “You resemble a man who closes banks.”
 
-“There’s a campus office.”
+“A bank should know when it is beaten.”
 
-“The gate is open.”
+He tested his command-voice on the passage door. “Open.”
 
-“That’s often what gates are for.”
+The word emerged as a request of no special quality. The door remained shut until Sivelle turned its ordinary brass handle.
 
-He tried to move the bicycle with a gesture. Nothing happened. A passing student saw him scowling and dragged it aside.
+Dunmere College stood in a damp blue evening beyond a curved drive crowded with carts, automobiles, students, and parents. Wet brick buildings surrounded lawns that anyone might cross. The gate was open. No sentries challenged them. A young woman walked past carrying a lamp upside down; a young man backed into a hedge while trying to keep hold of an enormous houseplant. Someone in an upper window played four notes on a flute, paused, and played the same four again.
 
-“There you go, sir.”
+“The perimeter has failed,” Vordain said.
 
-Vordain studied him. “Why?”
+“That’s the entrance.”
 
-The student glanced at Sivelle as if seeking translation. “You wanted to get through?”
+A bicycle lay across the path. He pointed at it.
 
-Then he hurried after his friends without bowing, swearing loyalty, or requesting payment. Vordain classified the exchange as suspiciously pleasant.
+Nothing happened.
 
-Inside the administration hall, they waited in a line. It moved according to no discernible rank. A clerk asked Sivelle to spell her surname and did not pale when she did. Another clerk sent them upstairs for a key, where a third informed them the key desk was downstairs in the first building. Vordain leaned over the counter.
+The compact had not merely taken his magic. It had taken the expectation that the world would notice his displeasure and correct itself.
 
-“You will fetch—”
+Before he could decide whether to kick the bicycle into a flower bed, a student wheeled it aside.
 
-The command struck the compact and came out thin. “Would you fetch it?”
+“Sorry, sir.”
 
-“Can’t leave the desk,” the clerk said. “Sorry.”
+“Why did you do that?”
 
-No lightning answered this insolence. No shadow lengthened. The clerk smiled apologetically and called the next person.
+The student looked uncertain. “Because it was in your way?”
 
-Sivelle touched Vordain’s sleeve. “We can walk back.”
+He left before Vordain could determine what service was being purchased. Sivelle did not smile until they had passed the library.
 
-“I am aware.”
+The housing office contained a queue with no provision for rank. After nineteen minutes, a clerk told them keys were issued in the next building. In the next building, another clerk sent them back for a residence stamp. Vordain returned to the first counter and placed both hands upon it.
 
-He was not accustomed to asking for things that might not occur. He was less accustomed to Sivelle seeing him fail to obtain them.
+“You will stamp this document.”
 
-They found the correct desk. Sivelle signed for the key, thanked the attendant, and asked where students received mail. She had to repeat the question once over the noise. Her voice remained level. Vordain watched the attendant point out a row of little brass doors and realized that Sivelle had practiced sounding like someone who could be overlooked without being wounded by it.
+His voice struck the compact and arrived as ordinary irritation.
 
-The realization pleased him. It also made him want to destroy the building.
+“Student has to ask,” the clerk said.
 
-Her dormitory stood on the far edge of a square where students and parents hauled boxes through three identical entrances. Nobody directed the traffic. Nobody checked the boxes. A mother sat on a curb mending the torn bottom of a carton while a stranger held it shut. A boy swore at a lamp. Someone played the same five notes on a flute from an upper window.
+Vordain looked at Sivelle.
 
-Sivelle’s room was on the third floor. The stairwell smelled of paint, dust, and the citrus cleanser humans apparently used to reassure themselves. One narrow bed stood on each side. The desks had been scarred by generations of bored scholars. The window looked over a parking lot and opened farther than Vordain considered survivable.
+She stepped forward with two pieces of identification, the correct letter, and a patience that suggested rehearsal. “Could you stamp it, please?”
 
-He tested the latch twice.
+The clerk did. Nothing bowed, smoked, or screamed.
 
-“A child could force this.”
+At the key desk, Sivelle signed her own name and received a brass key on a wooden block. The attendant addressed every instruction to her. Vordain stood close enough to be unmistakable and was treated as luggage with eyebrows.
 
-“I’m not a child.”
+Her residence had three identical entrances and one broken lift. They climbed to the third floor behind a family carrying a mattress. Halfway up, the mattress jammed at a turn. Vordain reached for the command that would have ordered every obstacle flat.
 
-“That is not relevant to the strength of the latch.”
+“Tilt your end,” Sivelle told the father below.
 
-He looked beneath the beds, inside the wardrobes, and above the ceiling tiles. He found no assassins, but the absence only proved they had not moved in yet.
+The family tilted. The mattress slid free. The mother thanked Sivelle; nobody thanked Vordain.
 
-Sivelle spread her documents on a desk. She had brought a measuring tape and checked the bed against the linen instructions. She had a list of orientation sessions, a map marked with the dining hall, and the opening hours of the nearest bank. She did not have a plan for meals before her dining account activated. She had forgotten towels. She believed one kettle would serve an entire corridor.
+Room 314 smelled of dust, new paint, and the sharp citrus humans used to disguise both. Two narrow beds faced two scarred desks. The wardrobe doors did not close at the same time. Beyond the window lay a parking lot, a line of dark trees, and no defensible wall.
 
-“How do you intend to pay for books?” he asked.
+Vordain tested the latch.
 
-“From my savings.”
+“Loose,” he said.
 
-“After buying food?”
+Sivelle added it to her notes.
 
-She studied her arithmetic. “I’ll need to change that.”
+He looked under both beds, opened the wardrobes, and pressed each ceiling tile. “There are six places to hide a weapon and none to hide from one.”
 
-“And if your roommate objects to smoke?”
+“I’ll ask them to repair the latch.”
 
-“I don’t smoke.”
+“That is not a defense.”
 
-“You smoke when angry.”
+“It is the answer to a loose latch.”
 
-“Barely.”
+She measured the mattress. Her sheets, it turned out, were the wrong size. She had no towels. The nearest human bank would be closed until morning, and the dining hall had finished serving for the night. She had brought enough coins for a bus journey but not enough for supper and breakfast. The college clinic’s after-hours instructions assumed a human pulse, human blood, and access to a telephone she did not own.
 
-“You scorched a music stand last week.”
+Vordain set each fact in a row on the desk: bank letter, dining card, health form, housing inventory.
 
-“It was a bad arrangement.”
+“No money tonight.”
 
-“If you become ill?”
+“I need a small advance.”
 
-“There’s a clinic.”
+“No food.”
 
-“Whose healers know nothing of your physiology.”
+“I need to pack some.”
 
-“Then I’ll need to bring instructions.”
+“No healer capable of recognizing your fever.”
 
-Each answer conceded a gap and made room for a task. Vordain disliked tasks. Tasks could be completed. He required proof of impossibility.
+“I need the palace physician’s instructions.”
 
-He found it, at last, in the money column. “You cannot afford this term.”
+“No towels.”
 
-“Not without help.”
+“Those I merely need.”
 
-“Which you did not request.”
+She marked the papers as he spoke. She did not defend the mistake about food. She crossed out a careless sum, recalculated it, and pushed the result toward him.
 
-“I’m requesting it now.”
+Vordain refused to admire this. “The inspection is complete.”
 
-The bare room, with its two poor beds and scratched desks, contained no deference at all. She meant to sleep here. To be ill here. To burn bad music and apologize to a stranger. Vordain felt the full measure of the border compact then: not merely the loss of his voice, but the uselessness of every skill by which he had built a kingdom safe enough for her to laugh in.
+“I haven’t checked the fire stairs.”
 
-He gathered the papers into a hard-edged stack.
+“You have established that you cannot spend one night here.”
 
-“The inspection is concluded. You have proved my point. We are leaving.”
+“I established what to bring.”
 
-Sivelle took the housing form from beneath his hand. “I proved I have things to learn.”
+“You will bring nothing. Give me the key.”
 
-“At home, you may learn them without starving between educational frauds.”
+Sivelle closed her fingers around it. “No.”
 
-“You can teach me how not to starve. You can’t teach me how to leave if you never let me go.”
+For an instant, he heard his own court in the word: not its thunder, only its ending.
 
-“I can teach you anything worth knowing.”
+“You obtained admission by concealment.”
 
-Sivelle lowered her eyes to the desk. She squared the papers one sheet at a time, no longer arguing.
+“I applied without asking you. I did not forge your consent.”
 
-He had won hearings this way: resistance gone, documents gathered. The resemblance gave him no pleasure.
+“You lack my consent.”
 
-One page remained on the desk. Vordain picked it up. Most of the boxes were filled in with Sivelle’s careful script. The line marked *Emergency contact* was blank.
+“Dunmere doesn’t require it. I’m eighteen.”
 
-“You neglected this.”
+The fact had been charming when it meant eighteen candles, a formal necklace, and a larger place at his council dinners. In this room, it had a brass key attached.
+
+Vordain held out his hand.
+
+Sivelle set the key on the desk rather than give it to him. “If you take that, the office will issue me another.”
+
+He could forbid her once they crossed home. He could close the border passage, lock every palace gate, station an army outside her chamber. Every order was within his competence. In every version, Sivelle was already looking for another door.
+
+He began gathering the documents instead.
+
+One sheet slipped out of the stack. The blank halfway down it caught his eye.
+
+“Emergency contact,” he read. “You have named no one.”
+
+“Not yet.”
+
+“Who is the candidate?”
+
+Sivelle picked up the key again. “The palace physician.”
+
+“The palace physician is not your family.”
+
+“The palace physician can hear that I fainted without sentencing the floor.”
+
+“I do not sentence furniture.”
+
+“You threatened a tribunal over a missing candle.”
+
+“A birthday count is an elementary duty.”
+
+“That is why the line is empty.”
+
+He laid the form flat. The boxes were absurdly small. *Name. Relationship. Telephone.* No field asked what armies the contact commanded, whether the contact’s laws ended at the border, or what might happen to an imprudent roommate who caused his daughter to smoke through anger.
+
+“If they call me,” he said, “I will require facts.”
+
+“From whom?”
+
+“The person calling.”
+
+“Before you decide what happened?”
+
+“Deciding what happened is the purpose of requiring facts.”
+
+Sivelle said nothing. It was the same silence with which she had watched him pronounce judgment in the court. He disliked finding it here.
+
+He tried a different ruling. “A physician and twelve guards can occupy a house outside the gate. They need not enter the college.”
 
 “No.”
 
-“Then whose name were you planning to enter?”
+“Six guards.”
 
-She pushed the measuring tape into her pocket. “I hadn’t decided.”
+“The guards are the problem, not the number.”
 
-“There is nothing to decide.”
-
-“If I put you down, what happens when they call?”
-
-“I come.”
-
-“With an army?”
-
-“As circumstances require.”
-
-“And if my roommate made a mistake? If a professor treated me unfairly? If I was hurt and couldn’t explain before you arrived?”
-
-“Then those responsible would regret—”
-
-He stopped.
-
-Sivelle folded her arms. She looked tired now, not defiant. “I left it blank because I knew you might refuse. If I came anyway, calling you could put everyone around me in danger. I thought perhaps I’d use the palace physician. Or no one.”
-
-Outside, a carton split open on the pavement. Someone shouted, then laughed. The flute began its five notes again.
-
-Vordain set the form down. In court, fear was clean. It passed from him into other bodies and returned as obedience. Here it had nowhere to go. It remained in him, hot and humiliating.
-
-“I do not know how to protect you here,” he said.
-
-Sivelle’s anger changed first. Not gone; redirected. She pulled out the other desk chair and sat. “I know.”
-
-“That was not an invitation to agree.”
-
-“I know that too.”
-
-He sat opposite her. The chair creaked beneath a body designed by the compact to be unremarkable.
-
-“One term,” he said. “A trial, not a conquest.”
-
-Her eyes sharpened. “A trial of the college, or me?”
-
-“Of my endurance.”
-
-“One term,” she agreed. “With rules.”
-
-The word usually improved his mood. In Sivelle’s mouth, it required caution.
-
-They negotiated while the room darkened. One message each evening for the first month, at a time that allowed for late lectures and whatever humans did in clubs. A human budget, sufficient but not bottomless, which Sivelle would manage. Medical instructions in a sealed packet. A return token that only Sivelle could activate and that would bring her home rather than bring Vordain to her.
-
-“No spies,” she said.
-
-“Visible guards.”
-
-“No guards.”
-
-“A discreet infernal presence.”
-
-“No disguised guards, no watching mirrors, no listening insects, no compelled friends.”
-
-Vordain objected to the breadth of *insects*. She narrowed it to creatures under his command.
-
-“No threats against the staff,” she continued, “and no punishing people merely because they upset me.”
-
-“Define *merely*.”
-
-“I will, if it happens. You ask before sentencing anyone.”
-
-“In an emergency, I answer as your sovereign.”
-
-“As my father first.”
-
-The distinction offended his training and relieved something older.
-
-“Very well,” he said. “And if you choose to come home, I will not say that I warned you.”
-
-“Not even with your eyebrows.”
-
-“My eyebrows are not subject to treaty.”
-
-She considered, then allowed the exemption.
-
-Sivelle filled his name into the blank line. The letters were plain. They carried no title, because the form offered insufficient space.
-
-They returned through the border passage before dawn. Vordain reclaimed his crown, horns, blades, mantle, and terrible voice. None gave him the satisfaction he expected. In the palace packing room, he summoned six trunks and ordered the armory opened.
-
-Sivelle arrived to find him fitting siege plates beneath the false bottom of the largest trunk.
-
-“No.”
-
-“They are light.”
-
-“No armor.”
-
-“A breastplate is not armor. It is a garment with standards.”
-
-She removed it. He replaced it with a folding shield.
-
-“No.”
-
-“It doubles as a writing desk.”
-
-“Where would I put it?”
-
-“Against the window.”
-
-“No.”
-
-The surveillance imps were rejected without discussion. So was the wardrobe that screamed when opened by an unauthorized hand, the venom-detecting tea set, the chain-mail slippers, and a small tactical ram whose usefulness Vordain believed self-evident.
-
-Sivelle allowed the medical packet, the return token, a raincoat, ordinary human currency, two towels, and bedding that apparently required corners to be tucked according to some local mystery. She kept the dark necklace around her throat.
-
-At sunrise, one trunk stood half packed. Vordain held up a jar containing three dormant cinder-moths.
-
-“Absolutely not,” Sivelle said.
-
-“They would eat anyone who tampered with your curtains.”
-
-“They would eat my curtains.”
-
-“Afterward, perhaps.”
-
-She took the jar from him and set it firmly on a shelf. “You may pack the towels.”
-
-Lord Vordain, before whom governors crawled and armies lowered their banners, examined the folded cloth with grave suspicion.
-
-“How many?”
-
-“Both.”
-
-“Reckless.”
+“Two, dressed as groundskeepers.”
 
 “Papa.”
 
-He put them in the trunk.
+He walked to the window. Below, the young man with the houseplant had lost a wheel from his cart. Three strangers were helping him gather spilled soil with their bare hands. No officer directed them. No oath bound them. The scene was not safe. It was merely proceeding without Vordain.
+
+His hands tightened on the sill. If Sivelle vanished behind one of these brick doors, he would have to knock.
+
+Behind him, paper whispered.
+
+“You would come anyway,” he said.
+
+“Yes.”
+
+Sivelle put the housing key in her pocket and waited.
+
+Vordain returned to the desk. He removed the tuition invoice from the stack and folded it into his coat. “This charge for activities is extortion.”
+
+“Probably.”
+
+“I will pay it so that I may dispute it properly.”
+
+She exhaled without smiling. She was too sensible to startle a changing verdict.
+
+“One term,” he said. “Dunmere will be reviewed at the end of it.”
+
+“Dunmere can be.”
+
+He declined to answer. Instead, he touched the empty contact line. “The border house will establish a human telephone relay to my private chamber. No court clerk.”
+
+Sivelle picked up her pencil.
+
+“Not yet,” Vordain said. “The number does not exist.”
+
+“I’m making a note.”
+
+He watched her write *private relay*. Beneath it she added *ask me first*.
+
+“I always ask.”
+
+She looked at him.
+
+“Eventually,” he amended.
+
+“And if I cannot answer,” she said, “get me out. Don’t send anyone in.”
+
+“Then a return token.”
+
+Her pencil stopped.
+
+“It will open toward home,” he said. “You activate it. It brings you across; it does not bring me here.”
+
+“Can anyone else use it?”
+
+“Not unless you place it in their hand.”
+
+“Can you use it to find me?”
+
+The useful version could. He had already designed three variations in his head.
+
+“No,” he said.
+
+She made another note.
+
+Vordain took the health form next. “The physician will prepare sealed instructions. You will carry them.”
+
+“Yes.”
+
+Outside, the flute player reached a fifth note and immediately lost the first. Vordain inspected the room once more. The latch remained loose. The fire stairs still needed checking. He placed the health form beneath the invoice and left both on Sivelle’s side of the desk.
+
+At the border house before dawn, he reclaimed his horns, his mantle, his crown, four knives, and a voice that made the passage keeper’s lamps bow low.
+
+“Establish a private human relay by noon,” Vordain ordered.
+
+The keeper bowed.
+
+Vordain glanced at Sivelle. “And obtain the number by lawful arrangement.”
+
+The keeper’s surprise was almost invisible. Almost.
+
+The palace packing room filled within minutes. Vordain summoned six trunks, a traveling wardrobe plated inside with siege iron, two venom-sensing tea sets, a folding shield, and an armory porter who could lift a horse.
+
+Sivelle entered carrying her measuring tape. “One trunk fits under the bed.”
+
+“Then the bed is inadequate.”
+
+“One trunk.”
+
+“Two. The second can be a bedside table.”
+
+She measured both. “One.”
+
+The wardrobe was rejected because it screamed when opened by unauthorized hands. The tea sets were rejected because human roommates sometimes shared kettles and rarely expected them to accuse guests of poisoning. Vordain described the folding shield as a writing surface. Sivelle folded it, found that it weighed more than the dormitory desk, and sent it back.
+
+Two small surveillance imps emerged from beneath a stack of blankets wearing porters’ caps.
+
+“Out,” Sivelle said.
+
+They looked to Vordain.
+
+“Their disguise is plainly inadequate,” he told them.
+
+Sivelle kept looking at him.
+
+Vordain frowned. “And the assignment is canceled. Out.”
+
+The armory porter followed, disappointed.
+
+Useful things accumulated instead: correctly sized sheets, ordinary human currency, a letter for the bank, three towels, the physician’s sealed packet. Vordain set the return token among them. It was a flat black disk on a plain cord, warm only on one side, with the passage keeper’s approval cut around its rim.
+
+Sivelle picked it up. “Which side?”
+
+“Press the warm face and say home. Do not experiment.”
+
+She put it around her neck beside the birthday necklace.
+
+A servant arrived with the relay number on a narrow card. Sivelle copied it onto the emergency form.
+
+Under *Name*, she wrote *Vordain*, with no title before it. Under *Relationship*, she wrote *father*.
+
+Vordain read the form. Then he returned it to Dunmere’s cream packet without correction.
+
+He found a border-stamped black-glass message tile at the bottom of the smallest supply chest. It could carry a line of writing to its paired tile in his private chamber. He offered it to her. “After supper.”
+
+“If I’m in the library, later.”
+
+“How much later?”
+
+“Before I sleep.”
+
+“Humans make catastrophic choices after midnight.”
+
+“So do I.”
+
+“That is not reassuring.”
+
+She slipped the tile into the trunk. “I’ll send something each night while I settle in. If I miss one, use the relay before you mobilize anyone.”
+
+Vordain opened his mouth to demand a number of days. Sivelle folded a sweater over the tile.
+
+At sunrise, the trunk was nearly shut. A folded raincoat occupied the space where he had intended to place a compact battering ram. He lifted the coat to make one last attempt.
+
+A cinder-moth shot from the sleeve and flew straight into the curtains.
+
+Sivelle seized a silver cup. Vordain took the other side of the room. Between them, the moth darted over the open trunk, shedding sparks on the new sheets.
+
+“Do not crush it,” Sivelle said.
+
+“It is sabotaging your education.”
+
+“It’s eating a towel.”
+
+“The distinction is slight.”
+
+She cornered it against the wall. Vordain brought the cup down, trapping the moth with a hard silver ring. Sivelle slid Dunmere’s stiff linen card beneath the rim and carried the creature to its jar.
+
+When she returned, Vordain had replaced the singed towel and added a fourth.
+
+Sivelle counted them.
+
+He closed the trunk.

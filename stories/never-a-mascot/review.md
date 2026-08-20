@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tebri | new | Campaign armorer and close-POV soldier; no exact, alias, close-spelling, or confusing reuse found. |
-| Dawnwatch | new | Person-like armored rooster and feathered warrior; this accepted field name has no exact, alias, close-spelling, or confusing reuse, while any prior identity remains unknown. |
+| Tebri | new | Campaign armorer and close-POV soldier; no exact, alias, close-spelling, or semantically confusing reuse found. |
+| Dawnwatch | new | Person-like armored rooster and feathered warrior; this accepted field name has no exact, alias, close-spelling, or semantically confusing reuse, while any prior identity remains unknown. |
 
 ## Places
 
@@ -21,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: Dawnwatch's unexplained body-and-armor release remains story-local and establishes no universal rooster kind, transformation rule, or artifact system.
+- Notes: The unnamed six-year war remains chronologically unplaced. The culvert-to-drainage escape, black-pin release, eight-survivor count, and Dawnwatch's independent route choices remain causally consistent; his unexplained body-and-armor change stays story-local and establishes no universal transformation or artifact rule.

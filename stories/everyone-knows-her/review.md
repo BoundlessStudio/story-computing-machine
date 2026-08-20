@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Maris Calder | new | Focal skater; no exact or alias reuse found. The close forms `Mara`, `Ammara`, and place name `Quiet Caldera` are distinct, and the exhibit's descriptive labels refer unambiguously to Maris. |
+| Maris Calder | new | Focal skater, also called Maris and described by the exhibit as its skater; no conflicting exact or alias reuse found. Close forms `Mara`, `Ammara`, `Caldrin`, `Caldren`, and `Quiet Caldera` remain distinct by full form, noun type, and context. |
 
 ## Places
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: PASS: pre-review structure and 1 declared person/place nouns checked for everyone-knows-her. Reviewer notes: no exact-declaration warnings; exhaustive semantic extraction is still required. The prospective craft profile is materially satisfied: the momentum-to-stillness action sustains the recognition reveal, preserves Maris's and the volunteer's distinct agency, and earns the final caption decision from the opening no-stop rule.
+- Notes: PASS: pre-review structure and 1 declared person/place nouns checked for everyone-knows-her; no exact-declaration warnings. The ordinary program-cover chain makes the recognition causally legible, while Maris's bounded requests and the volunteer's factual admissions, privacy refusal, and physical compliance preserve independent agency. The final contact exchange yields directly to correcting the first caption rather than adding an explanatory coda.

@@ -8,304 +8,352 @@ canon: false
 
 # The Weight They Never Counted
 
-The permission began at midnight. I knew because I had lain awake counting the watchman's passes, and because on his sixth pass I became eighteen and no one in Narrowhearth could lawfully bar the upper path against me.
+At midnight, Narrowhearth's bell struck once. Before the iron note had finished shaking in the rafters, I was eighteen and out the door.
 
-They could laugh. They could read from the ranking slate nailed beside the common oven, where my name had stood last since I was fourteen. They could ask what use the weakest back in the village would be beyond the village. But they could not order me home.
+I had slept in my clothes for three nights waiting for that sound. My blanket, two shirts, bread, and work slate were tied in a square behind my shoulders. I lifted the bundle from beneath the bed too quickly and it smacked the back of my head.
 
-I tied my blanket around two shirts and half a loaf, lifted the bundle from beneath my bed, and nearly struck myself in the chin with it.
+That should have warned me. Instead I stood in the dark, listening for my aunt's cough through the wall, and decided fear had made me clumsy.
 
-The loaf was the usual dense square. The shirts had not thinned during the night. I blamed fear, which had made everything in my body unreliable before: my voice, my stomach, the grip of my fingers when the testing master watched. I eased the door shut and went between the sleeping houses, all low walls and short roof beams, built to keep winter snow from making expensive decisions for us.
+No one stopped me between the house and the upper path. The law in Narrowhearth was plain: a person of eighteen could leave without a household mark. The village had other means. There was the ranking slate by the bakehouse, renewed every winter. Forty-one adults had lifted the testing stones that year. My number was forty-one. There were children who slapped the bottom of rain barrels when I passed and called it a greeting. Men on roof crews offered me the smallest block, then watched while I carried it to see whether the weakest back in Narrowhearth would finally fold.
 
-My work slate bumped against my ribs under my coat. I had meant to throw it in the stove. Instead I had brought it as proof that I could obey instructions, though most of the marks on it proved I obeyed them slowly.
+I was the weakest there. Absolute bottom. The slate in my bundle proved it in three years of chalk and sealing wax.
 
-At the top of the descent, I looked back once. Narrowhearth crouched in its hollow with every shutter closed. No one shouted my name. The relief was so sharp it felt like another kind of fear.
+The bell gave one last dull tremor. I took the descending path before somebody woke and found a lawful reason that I still owed them one more load.
 
-I started down.
+The first six turns felt as they always had: knees bent, boots planted, one hand on the cliff rope. Below the last iron ring, the rope changed. It stopped dragging against my palm and lifted in a loose curve. At the next step my foot came down later than it should have. Two turns farther on, I pushed around a broken stair and cleared the whole landing.
 
-By the seventh turn, my stride had gone wrong. Each time I stepped off a ledge worn smooth by boots, the ground waited a fraction too long to take me. On the ninth turn I pushed away from a loose stone and sailed clear across the next switchback. I landed on both feet, staggered, and sat hard among the thorn roots.
+I hit the path on both feet, bounced off the wall, and caught a thornbush by its roots. The bush came out.
 
-Nothing hurt. That frightened me more.
+I stared at it in my hand. Soil pattered down with ridiculous leisure.
 
-I descended with both hands on the cliff rope after that. The rope felt soft, almost slack. My bundle floated against my shoulder. Dawn found me below the last black outcrop, staring up at a slope no village pack animal would climb. Traders left their wagons at the lowland muster and paid us to bring goods up from there. In Narrowhearth, people said the beasts lacked heart.
+The mountain above me remained dark and solid. My ankle did not hurt. My bundle barely pressed between my shoulder blades. I put the bush back as well as I could and finished the descent with both hands on the rope, taking steps too short for my legs.
 
-Below me, canvas roofs and wagon hoops showed through the mist. A cooking fire breathed out the smell of onions. I hurried toward it before the village could wake and decide that law did not matter after all.
+By dawn I could see the lowland muster through the mist. Six freight wagons stood on packed earth below striped canvas, their wheels taller than Narrowhearth doorways. Mules cropped grass beside them. None had the low bellies and wide-set legs of the animals bred above the iron ring.
 
-The caravan leader was counting wheel pins. I knew he was the leader because everyone interrupted him and no one waited for permission. He had a narrow grey beard and a tablet hooked to his belt by a chain. When I asked for work, he looked at my empty hands, my cheap boots, and the village road behind me.
+People were already late. I knew the signs: a wheelwright kneeling over an open hub, loaders moving the same salt bales twice, breakfast smoke thinning without anyone sitting down to eat. A narrow man with a grey-shot beard stood at a trestle table, taking wooden freight tags off one peg and putting them on another. Three people spoke to him at once. He answered two and pointed the third toward a split buckle without looking up.
 
-"What work?" he said.
+I waited until he had crossed a line from his manifest.
 
-"Any."
+"I want to join," I said.
 
-"That isn't a kind."
+His pencil stopped. "As what?"
 
-"The kind you give me."
+"Anything you need."
 
-He turned a pin between his fingers. It was an ordinary iron pin, but he handled it as if its surface could confess something. "Name?"
+"I need a dry road and yesterday back. Pick something I can put on a line."
+
+"Freight. Animals. Cooking. I can do all of it."
+
+He looked at my boots, then at the path behind me. "Handled mules?"
+
+"No."
+
+"Driven a wagon?"
+
+"No."
+
+"Then you can do neither before breakfast." He pulled a blank tag from a stack. "Name?"
 
 "Kemma."
 
-"Experience?"
+"Age?"
 
-"Village carrying. Wells. Roof stone. Harvest." Those were the tasks everyone did. I did not mention the slate.
+"Eighteen."
 
-"Road experience?"
+"For how long?"
 
-"I walked here."
+The question felt like a trap until his eyes flicked toward the mountain bell tower, invisible in the mist.
 
-His mouth moved at one corner. I braced for the laugh, but he only glanced toward the eastern sky. "I'm Daret. One day paid probation, food included. Camp work and freight when assigned. You listen when someone tells you a load, and you tell them before it hurts. Not after. Before. Understood?"
+"Since midnight."
+
+He made a sound through his nose and wrote my name. "Daret. I lead until somebody richer buys the wagons. One paid trial through evening halt. Eight coppers, food, and no promise beyond it. You move only the tag I give you. If you don't know a weight, you ask. If you damage something, you stop before you improve the damage."
 
 "Yes."
 
-I heard one day and thought of the upper path. By nightfall we would be too far from Narrowhearth for anyone to drag me back before witnesses. I heard paid probation and understood that every mistake would be counted. I heard when assigned and made myself a promise: I would never make them ask twice.
+"You understood none of that so quickly. Say the first instruction back."
 
-My first task was to pull six tent pegs from the damp ground. The first came free so suddenly that I fell backward. The second flew over a mule and struck a flour wagon with a sound like a spoon against a pot.
+"Move only the tag you give me."
 
-The nearest carter swore. Daret looked over from his pins.
+"Good enough. Pull the six red pegs from the north awning. Keep them together."
 
-"Rotten ground," I said.
+The first peg came free with the dirt still shaped around it. It shot past my shoulder and rang against a wagon tire.
 
-"It rained."
+Every nearby face turned. Laughter started behind the salt stacks.
 
-I could not tell whether that agreed with me. I knelt over the remaining pegs and worried each one loose with my fingertips.
+I crouched at once. "The soil is loose. I'll pay for the tire."
 
-Once the wagons began moving into line, there was no time for anyone to study me. A rear wheel had sunk in mud during the night, two bundles of dyed wool had been loaded under salt that needed to come off first, and a mule had bitten through a lead rope. People shouted destinations and weights. I made myself useful in the gaps.
+Daret glanced from the unmarked iron rim to the peg in the road. "You'll bring it back. Then you'll pull the other five as if I charge by distance."
 
-Someone pointed me toward a twenty-kilogram sack of oats. I swung it up and wondered if I had misheard. At home, the same stamped measure of grain dragged at the arms. This one settled against my shoulder like a folded coat.
+I worked the rest out by twisting them between two fingers. The laughter moved away with the people who had made it. Nothing was written on my tag.
 
-"Where?" I asked.
+The caravan should have left at sunrise. At sunrise the repaired wheel was still hanging from a jack and a stack of copper cases blocked the third wagon's tongue. Daret put me under the awning with a stout oak freight frame. Two crossed braces held a load shelf; the maker's stamp on one upright read 220 KG. Its double leather harness had been darkened by years of shoulders.
 
-"Blue wagon. Then bring the lamp-oil box to the third frame."
+"Oats to the blue wagon," Daret said, hooking a thirty-kilogram tag on the frame. "Come back empty for canvas."
 
-I carried both at once. No one objected. The blue wagon stood farther down the line, and the third frame lay on my way back.
+The oat sack landed against my back like a cushion. I waited for its weight to arrive. When it did not, I tightened the straps three holes.
 
-After that, combining trips seemed the simplest way to keep from being noticed. I lashed two copper bundles to a freighter's carrying frame, added the leather packet meant for the wagon beyond, then hooked a salt roll beneath because there was room. The frame was made for a person, with a hip bar and two shoulder straps, although its wooden feet were taller and slimmer than ours at home. It creaked when I stood it upright.
+The blue wagon loader waved at the salt stack. "Fifty goes with the oats. Same wagon."
 
-I froze. The frame held.
+It was not Daret's tag, but the wheelwright had begun hammering the axle pin and everyone was shouting that the road was clearing. Refusing would mean an extra trip. Extra trips were what slow people made other people wait for.
 
-"What did I break?" I asked the carter beside me.
+I added the salt.
 
-They stared at the load. "Nothing yet."
+Before I could start across the yard, another loader pressed a forty-kilogram copper tag into my hand and pointed to a case bound for the third wagon. The case felt no worse than a roof block at home, and I had carried roof blocks while boys walked behind chanting forty-one. I set it on the frame, then saw the twenty-five-kilogram canvas roll Daret had told me to fetch after I returned. It lay five paces away and fit crosswise over the copper.
 
-I took that for permission.
+The lamp-oil box was thirty-five. Daret had said it belonged at the lead supply wagon. The wagon stood near the road, past the blue one. Twenty kilograms of rolled leather were going there too.
 
-The caravan left the muster late, with the sun already burning the mist off the road. The first mile rose gently. I had been dreading it. All my life, an uphill load had reduced me to the sound of my own breathing while stronger backs passed and offered advice loudly enough for everyone to hear. But the road barely seemed to rise. The great stack behind my head shifted with each step, and my attention stayed on the straps, not my legs.
+I counted the frame stamp. Two hundred kilograms of cargo. Twenty below the maker's limit.
 
-People did look. I kept my eyes on the wheel ruts.
+At home, the eighty-kilogram testing stone had stopped at my belt. This load did not seem to have found my knees.
 
-If they were laughing, they would have to do it behind me.
+I tucked the six tags together beside my cheek and stood. The frame creaked once. Nobody ordered me to put it down.
 
-The road narrowed at a stand of pines. Daret walked down the line, checking wheel clearances and tapping knots. He reached me, looked once at the freight tags hanging beside my ear, and stopped.
+The repaired wheel dropped onto its axle. Daret shouted for teams to clear the muster, and the caravan began to move. By the time I reached the blue wagon, its loader had climbed to the driving board. There was nowhere to lower the frame without blocking a wheel. They waved me onward, and I told myself I would distribute everything at the road bend, where the verge widened.
 
-"Stand still."
+The road rose between wet banks. My boots found the grade and wanted more of it. I leaned forward from habit, then had to skip two steps to keep from striking the rear wagon. The straps pinched at my collar but my breath stayed quiet. No sweat ran into my eyes. When the road flattened, the load pushed me onward with a force I understood better than its absence.
 
-My stomach dropped. I stood.
+Daret came down the line checking hub pins. He tapped a loose rope, moved a mule team wider, and reached for the tags beside my face without breaking stride.
 
-He drew his tablet free. His finger moved down the manifest, then back up to the tags: oats, copper, lamp oil, salt, leather. He counted a second time.
+Then he stopped.
 
-"Kemma," he said, very carefully, "how in all that's holy are you lifting and comfortably carrying two hundred kilograms without even breaking a sweat?"
+His pencil went back to the first tag. Thirty oats. Fifty salt. Forty copper. Twenty-five canvas. Thirty-five lamp oil. Twenty leather.
 
-The carter behind us made a strangled noise. I knew that sound. It came just before the laughter got loose.
+He totaled them on his thumbnail, although the answer was already stamped on the frame in the way I had arranged them.
 
-"I'm sorry," I said. "I can take more. I thought we were late."
+"Kemma," he said, "how in all that's holy are you lifting and comfortably carrying two hundred kilograms without even breaking a sweat?"
 
-Daret shut his eyes. "Take more."
+The rear loader barked one laugh. My shoulders locked.
 
-"If that's what was assigned."
+"I'm sorry," I said. "The frame says two-twenty. I can take the axle blocks too if that was what you meant."
 
-"Put the frame down."
+"The axle blocks stay under the axle. Put this down."
 
-I lowered it too quickly. The wooden feet punched deep into the soft verge, and the top bundle leaned. Daret caught the lashing before it could pull free.
+"I haven't missed the wagons."
 
-"Nobody touch those knots," he called. "And nobody add so much as a handkerchief to this frame. Kemma, step away from it."
+"Put it down without planting it through the road."
 
-There were a dozen people looking now. Heat crawled up my neck. I stepped away.
+I bent my knees and lowered the frame. Its feet sank past the metal caps into the wet verge. The oil box leaned. Daret caught its corner and swore at the knot, then waved the wagons around us.
 
-Daret turned to the nearest carter. "Get the wagons through the pines. We'll rejoin."
+"Keep moving," he called. "We'll catch you before the alder bridge."
 
-"I can still walk," I said.
+The work went with them. Wheels ground, mules snorted, and loaders who had been watching had to run for their places. In moments Daret and I were alone with the frame and six bundles.
 
-"I believe you. That's the difficulty."
+He unhooked the lamp oil first. "One sixty-five."
 
-The line moved around us. Some people kept looking, but the work pulled them on. When we were alone with the loaded frame, Daret unhooked the lamp-oil box and set it on the road.
+"I can put that on the wagon now."
 
-"Better?"
+"You can stand still." He set the box well away from my boots. "What changed?"
 
-"It wasn't bad."
+I searched his face for the expected answer. "It is easier."
 
-He removed the oats. "Now?"
+"Where?"
 
-"The same."
+"Everywhere."
 
-"Those are not useful answers. Does anything pull? Pinch? Burn?"
+"Useless." He lifted off the copper case. "One twenty-five. Where now?"
+
+"The straps."
+
+"What about them?"
+
+"The left one rubs. At the buckle."
+
+He looked. The leather had pulled white around the fifth hole. "That I can mark. Any pull behind the knee?"
 
 "No."
+
+"Back?"
+
+"No."
+
+He dragged the salt bale down, leaving seventy-five kilograms on the frame. I felt the difference then, a small upward sway as my body prepared for resistance that was no longer there. Daret saw my boot move.
 
 "Dizzy?"
 
-"No."
+"No. I can carry the two hundred. I was carrying it."
 
-"When did you last carry two hundred?"
+"You were also walking toward an alder footway whose side planks take one person and a modest pack. The wagons go over the centre stringers. Your boots don't."
 
-"I haven't." I watched him take down one copper bundle. Each removal felt like a mark going onto a new slate. "Not measured. At home the testing stones go to eighty. I couldn't get the last one to my shoulder."
+He kicked mud over one of the holes the frame had made. "And the ground has entered an objection."
 
-He stopped with the copper against his thigh. "Eighty kilograms?"
+I looked at the deep square prints. They were too plain to argue with.
 
-"I was the only candidate my year who couldn't."
+Daret removed the oats, then sat on it and pulled my work slate from where it showed through my loosened bundle. "Narrowhearth," he read. Below the seal, the winter results ran in careful columns. "These figures are lifting mass?"
 
-"But this feels lighter than that stone."
+"Testing stones. The same measures traders use."
 
-I hesitated. He had warned me to tell him before it hurt. He had not warned me what happened if nothing hurt when it should.
+"Your best is seventy-two."
 
-"Much lighter," I said.
+"The eighty never reached my shoulder. Everyone else made eighty."
 
-Daret set the copper down and crouched to look at the frame's feet sunk in the verge. "The ground disagrees."
+He glanced at the frame. "And two hundred here feels like what?"
 
-"It sinks after rain."
+"Less than seventy-two there."
 
-"So do you, carrying this much. You can support the load. That doesn't make the load less." He rubbed mud between his fingers. "Tell me about your village."
+"How much less?"
 
-"It's Narrowhearth."
+"I don't know."
 
-"I've read the muster name. Tell me why every roof up there is flat enough to eat from."
+"Good. Leave it unknown instead of gifting me a number." He set the slate on the salt. "Those grain sacks in the village, where do they come from?"
 
-"Long beams sag."
+"This muster. Traders leave wagons below. We carry goods up."
 
-"Why do traders stop below the path?"
+"Why below?"
 
-"Their animals won't climb it."
+"The animals won't climb."
 
-"Why not?"
+"Can't or won't?"
 
-I almost repeated what people said about heart. With Daret waiting, it sounded childish. "They lie down. Sometimes their legs shake."
+"They try. Past the iron ring they lie down. Some shake until they are led back."
 
-"Your grain sacks? Same measures as ours?"
+His pencil tapped the thirty on the oat tag. "Wells?"
 
-"They come from those wagons. We carry them up."
+"Shallow. Two-handled buckets."
 
-He asked about wells. Ours were shallow, with counterweighted buckets and two handles even on the small ones. He asked whether we threw tools to one another. I told him nobody threw a good tool. He asked about bread, which seemed absurd until I explained that it rose a thumb's height if the yeast was lively.
+"Roofs?"
 
-Daret sat on the unloaded salt roll. "There are places where the world's pull runs strange. Sailors tell foolish stories about bays that draw a sounding weight sideways. Surveyors tell duller ones with numbers. I never heard of a pocket this strong, but your village sounds built inside one."
+"Short beams. Stone slabs no longer than an arm."
 
-"A pocket."
+"Bread?"
 
-"A stronger downward pull. Your eighty-kilogram stone had the same mass up there, but it bore down harder. So did you. Every day of your life."
+The question made me stare.
 
-I looked back toward the mountains. From the road, Narrowhearth was hidden entirely.
+"Bread, Kemma. Does it rise like the loaves in our cook wagon?"
 
-"Everyone else lifted it," I said.
+I had seen them at dawn, round-backed under cloth. "No. It spreads."
 
-"Everyone else grew there too."
+"And the path changed under you this morning. Where?"
 
-That answer did not erase the slate. I could still see the testing yard, the stone stalled below my shoulder, the others striking their palms together in a slow rhythm while I fought it. I had been the weakest. Daret's explanation left that fact standing.
+"Below the last iron ring. The rope went slack. My next step lasted too long."
 
-It only moved the walls around it.
+Daret looked up the road toward the mountain. "There are quarry pockets where a plumb line leans and coast coves where a dropped chain falls wrong. Surveyors argue over causes after merchants have found a road around them. I've never had one strong enough to flatten bread."
 
-He finished unloading the frame and inspected every joint. One crosspiece had bowed. A strap had stretched white around a buckle hole.
+"A curse?"
 
-"The frame gets no special muscles from your mountain," he said. "Neither do bridge planks, wagon beds, or other people's feet if you drop a box on them. For the next mile, you carry twenty-five."
+"Call it a curse if that helps you point to it. It flattened the bread, stopped the mules, and let go at the iron ring. That is enough for my route notes." He weighed the oat tag in his fingers. "Nothing happened to your shoulders when the bell struck. You crossed out of a place where everything was pulled down harder. You have been growing and working in it for eighteen years."
 
-"I can do more."
+The slate lay faceup. Forty-one of forty-one.
 
-"You can also put a heel through rotten timber faster than I can stop you. Twenty-five. If you object, walk without freight."
+"I was still last," I said.
 
-Walking without freight sounded too much like being sent away. I chose the twenty-five.
+"Looks like it."
 
-The caravan waited beyond the pines. Daret gave no speech when we caught up. He reassigned the freight, entered something on his tablet, and put me beside the lead wagon with a plain food sack on my back.
+There was no kindness in the answer for me to distrust. Daret turned the slate over and used its blank back beneath his manifest.
 
-For the rest of the morning, I learned how badly a body could misunderstand ease.
+"Last up there doesn't give me a safe number down here," he said. "Neither does one foolish walk under two hundred. Frame weighs twelve. With you, that load put well over two-fifty on whatever plank took your next step."
 
-On the uphill stretches, I leaned too far forward and nearly trod on the wagon's rear bar. When a rut forced us onto stones, I pushed off as I would at home and bounded past three startled mules. At noon, a cook tossed me a wooden cup. I reached where it should have fallen. It sailed over my hand, turning slowly in a high, ridiculous arc, struck the rim of a water bucket, and splashed Daret from beard to boots.
+He wrote 212 GROSS, circled the whitening buckle hole, and drew a line through it.
 
-He wiped his beard. "Nothing thrown near Kemma until further notice."
+"What can I carry?" I asked.
 
-A few people laughed then, including Daret. The sound hurt by habit. A moment later the cook handed me another cup instead of sending me away, and I discovered I did not know what to do with that.
+"Until evening? Twenty-seven gross."
 
-After the meal, Daret changed the work. He had me carry the same twenty-five-kilogram sack for a measured half hour, then walk without it while he asked about my knees, my back, and the places where the straps had rested. He had me pull my collar aside and frowned at a red patch I had not felt forming.
+"Twenty-seven?"
 
-"Pain isn't the only report," he said. "Look when we stop."
+He nodded at the small road pack lying beside the leather. "Frame seven, oats twenty. You can carry it or walk empty while I find out whether your knees know what your lungs don't."
 
-Later he gave me an awkward roll of tent canvas, lighter than the sack but wide enough to spoil my balance. I learned to shorten my steps. He made me cross a narrow wagon bridge with nothing at all, then showed me the cracked end of one plank.
+The answer came to my mouth before I could inspect it. "I can carry it."
 
-"Two hundred goes through your boots," he said. "However cheerful the rest of you feels."
+"Then shorten that left strap by one hole. Not five."
 
-I began to understand why he had been angry beside the pines. It was not the anger of the testing master, who had always known the number I ought to reach. Daret was angry because neither of us knew mine.
+We caught the caravan at the alder bridge. Daret sent the cargo ahead in wagons and put the seven-kilogram frame on me with one oat sack. Twenty-seven gross was almost insulting until my boot met the first side plank.
 
-At the evening halt, he put me on fragile freight.
+I drove it down as if I were climbing at home. The damp board gave a sharp complaint. My next step carried me too far; the pack clipped a post and turned my hips toward the water.
 
-"Empty crate," he said, pointing to a slatted box that had held lamp chimneys. "Carry it from the wagon to that ground cloth. Slowly. This is not a strength trial."
+Daret caught the post, not me. "Short steps. Let the board come back before you leave it."
 
-I put both hands under the side handles. I used less force than I thought a child would need.
+"I wasn't falling."
 
-One handle cracked across the grain.
+"You were turning. The oats don't care what name you give it. Again."
 
-The crate dropped on that side. I caught it against my knee before it struck the ground, but the snap turned every head near the fire. My hands opened at once. The crate tipped. Daret caught the far corner, and together we lowered it onto the cloth.
+He made me return to the bank and cross without the pack. Then with it. By the third crossing I could feel the plank flex instead of fighting it. The wagons rolled over the heavy centre beams beside us, each axle spreading a load my feet would have concentrated in two small places.
 
-"I can carry it without the handle," I said. "I can carry all the lamp freight. Don't pay me for today."
+After the bridge, Daret put the pencil away and attended to his delayed road. He did not announce what I had carried. The salt loader looked at me twice and then asked whether Daret had changed the wagon order. I passed on the tags. That was all.
 
-He examined the break. "No."
+Daret kept taking things away for the rest of the day.
 
-"I'll take the salt too. The frame can be braced."
+At the first rise, Daret removed the oats and made me walk with the empty frame. I leaned so far into the hill that I struck the rear wagon twice. He shifted the harness to the fourth hole. At noon he gave the oats back and timed one mile by the wheel clicks, then took them away while the cook looked under the straps for rubbing. A red patch crossed my left collarbone. I had not felt it until a wet cloth touched the skin.
 
-"No."
+"Does it hurt now?" Daret asked.
 
-"It was my fault."
+"A little. I can still take the salt."
 
-"Yes."
+"Salt is not a treatment for rubbed skin. Frame comes off until the next marker."
 
-The clean agreement knocked the rest of my bargain out of me.
+He was already calling for someone to tighten the third wagon's brake. I stood empty-handed while work flowed around me. A teamster folded my frame against the rear wagon, another carried the salt past, and the brake crew filled the patch of road where I had been.
 
-Daret ran his thumb along the split wood. "You gripped too hard. I gave you the crate because I needed to know whether you would. Now I know. The cost is one handle, which you will help mend. It is not every hour of your labor until I feel generous."
+In the afternoon, Daret gave me a sixteen-kilogram canvas bundle without a frame. It was wide, soft, and much harder than the oats. A side wind caught it. I corrected as I would have corrected under Narrowhearth's pull and stepped clear off the road.
 
-"But if I can carry it—"
+"Don't fight the whole gust," Daret called from behind a wagon. "Lower the near end."
 
-"A ledger has separate lines," he said. "What your body may be capable of. What the road and equipment can bear. What work I asked you to do. You don't settle a cracked handle by mixing them together."
+I lowered both ends. The canvas hit the verge and nearly took me with it.
 
-He picked up the broken piece and tucked it under his arm. "Eat. Then find me at the freight wagon."
+"Near end, Kemma. You have two."
 
-I spent the meal certain I had been dismissed.
+The wheelwright laughed, but came back to show me which rope loop would let the roll pivot instead of dragging my shoulders. We walked the canvas to the next wagon together. I carried most of its mass. The wheelwright controlled the end that wanted to sail. It was the first load that day made easier by another person's hand.
 
-The caravan bread made a round, domed loaf, light enough inside to tear without a knife. I pressed the soft middle between finger and thumb until it became the thin, dense thing I understood. Around me, people complained about mud, traded portions of onion, and argued over whose mule had chewed the lead rope. No one asked me to lift anything. No one asked about Narrowhearth.
+At evening halt, while tents went up in a stubbled field, Daret pointed me toward an empty crate from the lamp wagon. "Ground cloth to tailboard. Use the handles. It weighs eleven."
 
-Afterward I found Daret sitting on the freight wagon's lowered step, tablet across one knee. The damaged crate stood beside him with its handle bound in fresh cord.
+The handles were dry pine, polished where fingers had passed through them. I curled my hands lightly. Or what felt lightly.
 
-"Tomorrow," he said, "the caravan goes twelve kilometres to the river road. You can stay on probation at ordinary recruit pay. Thirty kilograms at a time, no more, and ten minutes without a load each hour. If anything aches, rubs, numbs, or simply feels wrong, you say so."
+The right handle split with a sound like a snapped peg.
 
-Thirty. Part of me still heard an insult in it.
+That corner dropped. I caught it against my thigh, overcorrected, and crushed one slat under my thumb. Daret seized the other handle before the crate could twist apart. Together we set it on the cloth.
 
-"After three days," he continued, "if your joints remain sound, we can test higher loads. Tests are separate work and separately paid. No spectators unless you want them."
+"Stop," he said, though I already had.
 
-I looked at the bound handle. "How much is ordinary recruit pay?"
+People carried tent poles around us. A cook stepped over the broken handle without pausing.
 
-He told me.
+"Keep today's pay," I said. "I can mend it after supper. I can take both salt bales tomorrow instead. No charge."
 
-It was not a fortune. It was more than Narrowhearth paid me for carrying roof stone and less than an experienced carter earned. The plainness of the number made me trust it.
+Daret fitted the broken pieces together. "One handle, one slat."
 
-"Does the thirty include the frame?" I asked.
+"And the crate."
 
-Daret turned the tablet over and corrected a figure. "Yes. Good question."
+"The crate is still a crate."
 
-"If someone gives me another bundle, what do I do?"
+"I can carry it without handles."
 
-"Ask its mass. If the total goes over thirty, refuse it."
+"That is how it loses the other four slats." He called to the wheelwright, "Two pine blanks when the axle grease is done. Put the repair on my trial line."
 
-"And if they say you told them?"
+"It was my hand."
 
-"Refuse it, then ask me."
+"It was my instruction. I saw you throw a tent peg into a tire and gave you dry pine anyway." He took his tablet from his belt. "Eight coppers for today. If the wheelwright wants help with the mend, you help on paid time until the cook rings. The salt stays on its wagon."
 
-My mouth had gone dry. "Does refusing end the job?"
+"I owe more than that."
 
-He looked up. "Refusing work inside the terms does not. Refusing all work would make for a short employment, but I don't think that's your problem."
+"You owe me an answer I can write." Daret flipped to the next day's page. Several freight tags hung from its cord. "I have rear stores in sacks, lamp crates, and tent canvas. The stores run to thirty kilograms gross. The lamps run under fifteen and break if you squeeze them. Canvas catches every breath the sky takes. Which line?"
 
-I almost thanked him. The words were already shaped, as automatic as yes.
+"Whichever keeps the job."
 
-Instead I asked, "What work is there?"
+He held out the pencil. "Can't fit that in the box."
 
-Daret listed it from the tablet. Rear-wagon stores, thirty kilograms and no fragile containers. Tent crew, mostly poles and canvas but a good deal of judging where thrown pegs would land. Lamp freight, under the same cap, with the repaired crate.
+A teamster interrupted to ask for a new belly strap. Daret told them to take the fourth spare, not the third, and scratched the change beside a mule's wagon number. The pause let the wrong answers crowd my tongue. All three. Anything. No pay. More than two hundred next time.
 
-"Which?" he asked.
+Instead I watched the wheelwright measure the cracked handle against a pine blank.
 
-There was enough silence for me to hear the fire settle behind us. At midnight, I had left home ready to accept any burden that kept my feet pointed away from it. The road still ran that way. Daret was waiting, pencil lifted, as if the pause itself did not cancel the offer.
+"How much is tomorrow?" I asked.
 
-"Rear-wagon stores," I said. "Not the lamps. Not yet."
+"Nine coppers. Same as a road recruit after one day."
 
-"Stores," he repeated, and wrote it down. Then he turned the tablet toward me so I could see the line before he closed it.
+"Even at thirty?"
+
+"Especially at thirty. I can sell freight that arrives."
+
+He pointed the pencil at an empty square beneath my name. "Safe maximum stays blank. Two hundred is what I caught you under once, with a strap already whitening. We'll weigh higher another day, on level ground, with a sound frame, if you're still here and I have time to waste on it. Those hours pay too. Tomorrow isn't that day."
+
+I put my finger on the rear-stores tag. "This one. No crates with handles. Not until I can pick them up without breaking them."
+
+Daret wrote R beside my name, then waited with the lamp tag still between his fingers.
+
+"Not the lamps," I said.
+
+He crossed their wagon number from my line. "Rear stores. Thirty gross. If a loader tries to add to the tag, make them bring it to me. First wheel at dawn."
+
+Before sunrise, the loaders were late again. The lead mule stamped in its traces while Daret counted pins. Someone pushed a twelve-kilogram lamp crate toward me at the rear wagon.
+
+My hands rose by habit. I saw the fresh pine handle, stopped, and showed the loader my tag.
+
+"Stores," I said. "The lamps stay on the wagon."
+
+They took the crate back and gave me twenty kilograms of oats and a coil of rope, thirty gross with the frame. The lead wheel began to turn. I followed the rear wagon onto the river road, and the lamp crate rode past my shoulder on its tailboard.

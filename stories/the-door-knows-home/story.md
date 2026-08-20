@@ -8,306 +8,376 @@ canon: false
 
 # The Door Knows Home
 
-Dessa held the old door upright with her knee and a service wedge while Sikra asked, for the third time, which side would become home when she turned the key.
+Dessa had asked everyone to keep their hands off the frame. Sikra kept one palm on the oak anyway.
 
-It was not an unreasonable question. It was only phrased in a way that made every answer sound like a promise.
+“Until I remove the test bridge,” Dessa said, “your pulse is part of my reading.”
 
-“The key lifts the sleeping pins,” Dessa said. She tightened the last screw in the brass edge-strip and tested it with her thumbnail. “Your hand supplies the living current. The recognition rail shapes it, and the latch finds the household threshold.”
+“Then read it.” Sikra’s thumb worried a pale dent in the wood. “I have held this door through three roof leaks, two funerals, and Lutik trying to move it alone. It has had enough time without us.”
 
-“This household threshold.” Sikra pointed down.
+Dessa waited while four relatives watched the last minute of her first repair without her master beside her. At length Sikra released the stile.
 
-The stripped front room had little left to point at. Pale squares marked where portraits had hung. Three chairs, none matching, faced the freestanding oak frame in the middle of the floor. Beneath the sill, Dessa had set the family’s old copper tray to catch whatever a distant threshold might shed: rain, sand, burrs, once even a live crab, according to a penciled note inside the repair case. A braided catch strap ran from the door handle to an iron ring in the floorboards. Traveling doors were useful, but they had never learned manners about crosswinds.
+The frame stood on its broad traveling feet where a dining table had once been. Pale islands marked removed pictures; chalk numbers marked cupboards promised to one relative or another. Dessa had weighted the frame against a sand-filled tool chest. A braided catch strap ran from the near handle to the chest, a shallow copper pan waited below the sill, and a service treadle under the lower hinge could lift the leaf a coin’s thickness for alignment. The hinge stile stood plumb. Dessa had measured it six times.
 
-“It should find whatever home the user sincerely recognizes,” Dessa said.
+She lifted the test bridge from the brass edge cover. A silver-copper rail descended from the key housing, crossed her scarfed repair at knee height, and vanished under the sill. Yesterday it had been split, and the weather-swollen latch had struck high and skated. Now the splice lay flat beneath her thumbnail, the tongue drew on four ounces, and every nonliving part was exactly as awake as metal could be: not at all.
 
-Sikra’s mouth sharpened. She was a solid, silver-haired woman with black mourning ribbon still sewn to one cuff. “The four of us recognize this house. We were raised here. It is ours now.”
+She replaced the cover and tightened its last screw.
 
-Ownership was not a part Dessa had been hired to mend. She bent to remove the wedge.
+“All four of you are testing?” she asked.
 
-The others had arrived during the last hour of her work. Lutik, Sikra’s younger brother, had brought damp cuffs and the permanent river smell of tarred rope. Mevia, their niece, had arrived with bakery flour on one sleeve and impatience she did not bother disguising. Jorren, Sikra’s son, had come last. He had spent the afternoon looking out the uncurtained windows, as if expecting someone who had not been invited.
+“All four,” Sikra said.
 
-Four adult relatives, four keys cut from the same old pattern, one inherited house. Dessa’s master could not have chosen a neater first solo commission if he had arranged the family himself.
+They were all grown relatives, and none looked pleased to have Sikra answer for them. Lutik, her younger brother, kept consulting a river watch whose face was scratched white. Mevia, their niece, had bakery flour at her elbow and a folded note protruding from her cuff. Sikra’s adult son Jorren stood nearest the street windows, turning a plain ring around one finger.
 
-She folded the wedge into her tool roll. “Ready.”
+Sikra produced the old key. Dessa stopped her before she could insert it.
 
-Sikra took her place before the door. “Once this is working, no one can claim the journey is too long. We can clear the upstairs before winter. We can have supper here on remembrance days. We can—”
+“One hand on the bow. Your living current crosses the repair when you turn. The rail stores and shapes what you supply long enough to hold a route. The latch seats it. I can certify the current path, hinge load, and catch. I cannot set the far threshold by promising you an address.”
 
-“Turn it before the kid misses her tide,” Lutik said.
+“The address is under our feet,” Sikra said. “The deed was divided yesterday. The rooms still have to be cleared, the chimney capped, and the north slates done before frost. This repair brings the others back to do their share.”
 
-Dessa was nineteen and carried six lock picks inside her left cuff, but there were moments when correcting a client cost more dignity than it returned. She nodded to Sikra.
+Lutik studied his watch.
 
-The key entered with the clean, close whisper Dessa had worked six hours to restore. Sikra turned it. Beneath the oak veneer, the new latch spring loaded; behind that, older metal answered in a sequence too soft for anyone without a locksmith’s ear. Pin. Rail. Tongue.
+Dessa needed a signed completion line and the rest of her fee, but she could not promise an output she had no mechanism to choose. “The selector is the place the user sincerely recognizes, carried in the living current. The door contributes no judgment. Keep skin on the key until the leaf clears.”
 
-The door opened.
+Sikra set her jaw and turned.
 
-Beyond it stood the same stripped front room.
+The key met the rebuilt latch cleanly. A warm pulse crossed the edge cover beneath Dessa’s fingertips—Sikra’s current, not the frame’s. The scarf held. The tongue withdrew without dragging. Sikra pulled the door open.
 
-Mevia leaned sideways in her chair. Through the frame she could see the pale portrait marks, the three mismatched chairs, and Dessa beside the copper tray. Sikra swung the leaf all the way back. Nothing shimmered. No foreign air moved. She stepped through and remained exactly where she had been, except now she stood on the other side of the frame.
+Nothing on the far side changed.
 
-“You said it was ready,” she said.
+The catch strap remained slack. The room’s still air smelled of cold soot, floor wax, and apples once stored in the passage. Through the opening stood the same three relatives, numbered cupboards, and rectangle of afternoon. Sikra’s hem brushed a crumb of gray hearth mortar across the sill into the copper pan. No weather followed it; the pressure at Dessa’s cheeks stayed balanced.
 
-Dessa’s first solo commission stopped being neat.
+Sikra walked around the leaf, then through the open frame. Her shoes never left the front room.
 
-She put two fingers to the brass strip. The rail still held the faint warmth of a living current. Blue setting paste on the latch showed a centered bite, neither high nor shallow. “It engaged.”
+“You have repaired a door into being a door,” she said.
 
-“It opened three feet away.”
+Stored current hummed under Dessa’s smallest finger, enough to show a held path. She painted blue fitting chalk on the latch tongue, asked Sikra to shut the leaf, and heard it enter the keeper on full face. When Sikra returned the key to rest, the warmth drained.
 
-“Then the route did not complete.” Dessa heard how quickly she said it. She knelt before Sikra could answer, set the wedge, and opened her roll again. The pins came out in their numbered row. All straight. All clean.
+“Again,” Sikra said.
 
-Her master had told her that a locksmith’s first enemy was a conclusion reached before the lock had spoken. Her own first enemy, apparently, was a paying client standing behind her.
+“Not with the same load.” Dessa slid a paper gauge behind the lower hinge. It came out unpinched. “I need a second user before I disturb a centered strike.”
 
-She reset the pins with the lightest pressure her gauge allowed. “One more user.”
+“You need to make it travel.”
 
-“If it thinks this room and that room are different places,” Sikra said, “we need no magic to correct it.”
+“I need to learn whether it failed to travel.”
 
-Lutik rose before the remark could settle into an argument. “I’ll go. Boat casts off in forty minutes whether this thing does or not.”
+Lutik was already coming forward. “Use me before the lower lock opens. If I miss the mail run, you can test the thing on my empty chair.”
 
-He wrapped his broad hand around the key. His nails were ridged and black at the edges, and a pale groove circled his wrist where a line had once burned him. He turned.
+Sikra held on to the key. “You said you had until dusk.”
 
-The catch strap snapped taut.
+“I said the boat had until dusk. Wind’s turned east. We take the bend while the water gives it.”
 
-Cold damp air shoved through the frame, carrying rain and engine oil. The oak leaf jerked against the braid. Beyond the threshold lay a cabin scarcely wider than the door itself. A wool blanket had been rolled against one wall. Charts, twine, and a row of labeled mail sacks occupied the other. A tin cup traveled slowly across a tilted desk, tapped the raised lip, and rolled back as the room leaned with the river.
+“That boat changes its address twice a day.”
 
-Lutik caught it by reflex. Half his body was still in the old house; his reaching arm and shoulder had passed into the cabin.
+“Then it should be hard to find.” He opened his hand for the key.
 
-“You left the kettle crooked,” he said to no one.
+Sikra surrendered it with the air of adding another item to his account.
 
-Something thudded overhead. A bell rang twice, muffled by timber and weather. Three rain beads danced across the sill and dropped into the copper tray.
+Lutik hooked one boot behind the frame’s foot. Dessa told him to move it. He obeyed, muttering about furniture without sea legs, and put his thumb to the bow.
 
-Dessa forgot her embarrassment. She crouched at the open threshold, following the narrow blue smear where the latch had passed into the receiving strike. Perfectly centered. Not almost. Not seated by luck. The distant plate bore old polishing marks around the opening, the kind made by years of use.
+The current that entered the rail was sharper than Sikra’s, quick enough that Dessa felt it cross the repaired scarf in one bright prickle. The latch withdrew. Lutik pulled.
 
-“May I?” she asked.
+The pressure nearly took the door out of the house.
 
-Lutik looked at the cabin, then at his family. “Boots clean?”
+The catch strap cracked straight and dragged the sand chest half an inch. Wet cold punched through the opening. Beyond the sill lay a boat cabin no wider than two outstretched arms, pitching under a low ceiling. A shaded lamp swung above mail sacks webbed to one wall. On the other, a tin cup crawled across a ledged table, paused as the deck changed angle, and began crawling back.
 
-She showed him her soles. He waved her through.
+Lutik leaned through and caught it before it fell. “Upper bend already,” he said. “They’re running light.”
 
-Dessa crossed only far enough to brace one foot on the cabin floor. The boat lifted under it while her other foot remained on still boards. Her stomach made an abrupt decision against the arrangement. She steadied herself on the frame and pressed a thin leaf gauge into the strike. The clearance was the width she had set back in the front room.
+Rain ticked somewhere above the cabin. A gust found an open ventilator and sucked warm room air past Dessa’s ears toward the boat. The scent was river mud, wet wool, lamp fuel, and the bitter tar used on rope. Three rain drops struck the sill-pan. With them came a black reed seed and a curl of red paint thin as onion skin.
 
-“This doorway is yours?” she asked.
+Dessa clipped a second cord to the frame. The cabin rolled and its far sill dipped, but the joined edges showed no flicker or shear.
 
-“Company’s.”
+“I need the far strike,” she said.
 
-“I mean you use it.”
+Lutik put the cup into a rack. “One boot. Keep your shoulder off the chart shelf. It throws anything loose when we cross the shoal.”
 
-“Every day except seventh-day leave.”
+“Permission for one boot and one gauge?”
 
-Sikra had come close enough that cold wind worried her mourning ribbon. “That is your berth, Lutik. Not your home.”
+“If you can finish before the third bell.”
 
-He set the cup upright. “It’s had my boots under the bunk for eleven years.”
+Dessa stepped her right foot over. The cabin deck climbed against her sole while the inherited floor stayed level under her left. Her stomach objected, but her hands kept their training. She braced on the local hinge stile, never the moving shelf, and laid a thin leaf gauge against the iron keeper in the cabin jamb. The blue chalk from her latch had transferred in one centered rectangle. Full depth. No scraped top edge, no skip, no sign that the route had landed and then drifted.
 
-“You always said it was temporary.”
+“Done.” She retreated into the front room.
 
-“So is a boat, if you wait long enough.”
+Sikra had come near enough for the wind to lift the black ribbon stitched at her cuff. She looked past Lutik at the rolled blanket, the spare boots wedged beneath the bunk, and a row of route cards nailed above it.
 
-The cabin rolled again. The catch strap creaked. Dessa withdrew into the old house and asked Lutik to close the leaf before the moving floor persuaded her to disgrace herself. The latch came home with a deep, satisfied click.
+“That is company property,” she said.
 
-For a moment nobody spoke. Then Sikra said, “Route drift.”
+“Company can try sleeping in it on ice night.” Lutik checked a knot on one mail web rather than looking at her. “Shut us off, locksmith. That draft will push us broadside at the quay.”
 
-Dessa opened the door without a hand on the key. It showed the stripped room again, harmless and local. “Perhaps.”
+“Your hand closes it,” Dessa said. “Keep control of the leaf.”
 
-She did not believe it. Route drift left signs: a whining rail, a hot key, a strike that chewed one corner of the latch. This door had traveled as cleanly as a compass needle finding north. Still, she reversed the hinge pins. She removed her new latch spring and put back the family’s tired one. That made the handle sluggish, but no less exact. She polished the key, emptied the copper tray, tested the frame for level, and wished for one bent component she could hold up to the room.
+He pulled. The strap softened as the pressure vanished. The latch seated against the far keeper with a heavy marine clack. Lutik turned the key to rest. When he opened the door without a living recognition turn, it gave only the stripped room behind it.
 
-Mevia watched her with folded arms. “Are you repairing it or arguing with it?”
+“One stable moving route,” Dessa said, more to her notes than the family.
 
-“Eliminating variables.”
+“One wrong route,” Sikra corrected.
 
-“Do I count as one?”
+Lutik retrieved his watch. “Wrong boat will still leave on time.”
 
-“A living user is the largest variable.” Dessa regretted the sentence as soon as she saw Mevia’s expression. “Mechanically,” she added.
+He did not leave. He sat where he could watch the light over the riverward roofs.
 
-Sikra paced past the pale marks on the walls. “Have her think of this room. Say it aloud.”
+She drained the stored warmth through the service bridge, reset the strap, renewed the fitting chalk, and measured both diagonals. They matched. Under her lens, the scarf edges had not feathered and the old selector notches remained untouched.
 
-“No,” Mevia said.
+There was no repair fault to chase. That did not stop her wanting one.
 
-“A blind test, then,” Dessa offered. “I can cover the frame until you turn.”
+“Rotate the frame,” Sikra said. “It may be favoring the river.”
 
-“Also no. You said sincere. If you make me sit an examination about my own head, what exactly will you have measured?”
+“A route does not acquire a compass direction from this room.”
 
-Dessa looked down at the loose tools arranged on her cloth. Mevia’s objection was mechanically sound, which was inconvenient.
+“You said you were an apprentice.”
 
-“Just turn it,” Lutik said. He was checking the window light against a pocket watch. “Whatever happens, do it quickly.”
+“I said direction is not one of the loads I can adjust.” Dessa heard the defense in her own voice and disliked it. She set the lens down. “But I’ll re-level before the next test.”
 
-Mevia took the key. “You may look. You may not comment on the furniture.”
+Mevia put out a flour-marked palm. “Before the next test, my terms.”
 
-“Mevia,” Sikra began.
+Sikra still held the key ring. “We are standing in your grandmother’s house.”
 
-The key turned.
+“And if it opens where I expect, we will be looking into the rooms my wife and I rent. She agreed to a test at half past, not a family inspection.” Mevia pointed to a black screwhead at the sill. “You three stay behind that. I handle the leaf. No one follows, comments on what we own, or delays when she asks me to close it.”
 
-Warmth breathed into the room, rich with yeast, scorched sugar, and orange peel. The doorway opened onto a small sitting room under sloped rafters. A green shawl lay over the arm of a chair beside two cups and a bowl of walnuts. Notes had been tucked around the edge of a wall mirror. A string hung from the ceiling with little paper stars folded along it, each one turning in the draft from the door.
+“Then tell yourself to come here,” Sikra said.
 
-A woman in a red apron looked up from a saucepan on a narrow stove. Surprise crossed her face, followed by recognition that did not include the people behind Mevia.
+“I have spent all afternoon coming here.”
 
-“You said after supper,” she said.
+Dessa raised a hand. “No prompting. If the user performs for an expected result, I cannot separate the route from the performance.”
 
-“The repair finished early.” Mevia shifted sideways, blocking most of the frame. Her voice changed, not softer exactly, but relieved of the little edge it had used in the old house. “Is the syrup all right?”
+“Good,” Mevia said. “No questions either.”
 
-“It will be if I stop staring at your aunt.”
+She took the key and tucked the slipping note deeper into her cuff. Her current built more slowly than Lutik’s, then crossed the scarf in a steady pressure. The door stored what she gave it and supplied nothing of its own.
 
-Lutik coughed into his fist. Sikra looked as though an unfamiliar law had been passed in her absence.
+The latch cleared. Mevia opened the leaf only shoulder-wide.
 
-“We are testing,” Mevia said. “We are not visiting.”
+Warm air rose through the gap, smelling of browned butter, yeast, orange rind, and scorched sugar. Beyond it, a narrow sitting room leaned under rafters. Two work aprons hung from one chair; spectacles rested on an open rent ledger beside a green teapot. Behind a half curtain, trays clattered in the bakery below.
 
-The woman in the apron nodded once. “Then close it before the buns sink.”
+A woman in rolled shirtsleeves looked up from fastening a loose shutter hook. “You said one face in the doorway.”
 
-Mevia stepped back and pulled the door shut. The paper stars spun once above her head and vanished. A tuft of flour drifted down into the tray.
+“I expected one.” Mevia shifted until her body covered most of the view. “They stay on their side. Did the short screws hold?”
 
-Jorren rubbed it between thumb and forefinger. “Rooms over a shop.”
+“The bottom one did. Top pulled out again.”
 
-“Bakery,” Mevia said.
+“We’ll move the bracket into the beam after supper.” Mevia reached through, took the shutter from her wife before it banged, and hooked it lower. “Our landlord can complain about the holes after he fixes the landing rail.”
 
-“You rent them.”
+Her wife saw the relatives over Mevia’s shoulder. Her attention stopped at Sikra, then moved to the open leaf bowing the paper patterns pinned beside the window.
 
-“Reliably.”
+“Close it before the proofing cloth dries,” she said.
 
-“That doesn’t make them—”
+“One latch check.” Mevia looked back at Dessa. “From there.”
 
-“Do not finish that sentence while eating her wife’s buns,” Lutik said.
+Dessa knelt at the black screwhead and did not cross it. The far jamb was painted green over older cream. As Mevia drew the door nearly shut, the latch tongue met a brass keeper polished by use. Its contact sounded light after the boat iron, but it landed square. Mevia opened again for Dessa’s nod.
 
-The smell of orange peel lingered in the stripped room. Mevia brushed flour from her sleeve and sat. She did not explain the second cup, the stars, or the voice her wife had used. She had permitted a threshold, not a tour.
+A puff from below lifted flour from the far floorboards. It came over the sill in a pale veil with one poppy seed and a thread of orange peel. The sill-pan caught all three.
 
-Sikra turned to Dessa. “Can you bias it?”
+Mevia stepped back into the inherited room. Her wife had already turned again to the shutter. Mevia closed the door and returned the key to rest.
 
-“Toward what?”
+Sikra looked at the flour in the pan. “You renewed that lease?”
 
-Sikra pointed down again. “This house. The family address in the deed.”
+“We renewed it.” Mevia rubbed the folded note through her cuff, flattening it. “Both signatures. Another year.”
 
-There were fixed-route gates built for that purpose. They used dead geometry, calibrated ends, and enough silver wire to make theft worth worrying about. A recognition door was older and stranger. Its central rail had been filed over generations into a shape no diagram could restore once lost.
+“You told me those rooms were until you found somewhere.”
 
-“I could remove the recognition core and fit a fixed route,” Dessa said. “Not today, and not without rebuilding both stiles. It would no longer be this kind of door. The old rail might not survive removal.”
+“We found shelves that fit our pans, a bedroom she can sleep in after the dawn bake, and a landlord we know how to chase. We are not moving the frame upstairs, and none of you arrives through it without our answer.”
 
-“You repaired it to go elsewhere.”
+“I paid the deposit on those rooms.”
 
-“I repaired the split in the rail and the swollen latch. I haven’t changed what selects the route.”
+“And we have paid every month since.”
 
-Sikra pressed her fingertips to the black ribbon on her cuff. “When my mother had it, we all came through here.”
+Sikra’s face tightened, not with disbelief now but with a calculation that no longer added. She crossed to the cold hearth and picked a fallen square of wallpaper from the grate. “I kept your room here aired for two winters.”
 
-“When your mother had it,” Lutik said, “most of us lived here.”
+Mevia’s reply came after a beat. “Then help me box it, and stop keeping it ready.”
 
-Sikra gave him a look that would have stopped a lesser current.
+Dessa bent over the mechanism.
 
-Dessa concentrated on the lock. She restored the new spring, returned the hinge pins to their original direction, and checked every measurement twice. Part of her still hoped that the next turn would reveal a loose tooth, an intermittent contact, anything that could be corrected without choosing what to destroy. Her fee mattered. So did the message her master would receive before morning: first solo traveling repair, client claims four destinations. But beneath both worries lay the rail itself, warm as skin after every use, carrying a century of minute file marks. She would not cut it into obedience because the room preferred one answer.
+“Can you cut out the variable?” Sikra asked her.
 
-“One final neutral test,” she said. “No prompting. No adjustment after.”
+“Which variable?”
 
-Jorren had already stood. He looked less reluctant now. “Give me the key.”
+“The people. Set the rail to the deeded house.”
 
-Sikra did. “Think clearly.”
+Dessa laid her smallest file across her palm. Its teeth could erase a selector notch in six strokes. Fixing one address meant extracting the rail, discarding its old notches, and fitting a dead-route bar at both ends. If the scarf fractured, the family core became scrap.
 
-“I am.”
+“I can quote a fixed-route conversion after my master surveys the receiving wall,” she said. “That is a rebuild, not this repair. It removes user selection.”
 
-He turned it hard enough that the bow struck the plate.
+“Would it bring them here?”
 
-The opening revealed a blue-tiled kitchen. A pot soaked in the basin. A pair of gardening gloves lay on the table beside an unopened letter, and a tall plant leaned toward a window silvered by evening. Nothing in the room was grand. Nothing looked temporary.
+“It would bring any supplied current to the fixed far end, if the far end remained sound.”
 
-Jorren’s whole face changed. Hope did not improve it. It made him look younger and more dangerous to himself.
+“Do it.”
 
-“See?” he said. “I told you.”
+“Not under this work order, and not by filing an intact core on the floor.”
 
-A figure entered the kitchen, stopped, and gripped the back of a chair.
+Sikra folded the wallpaper square once, then again. “Intact.”
 
-“Jorren.”
+“The split is carrying full current. The latch has seated on three keepers. I have no mechanical cause to destroy either.”
 
-He put one foot on the sill. “The door brought me.”
+“You have three different results.”
 
-“Take your foot back.”
+“I have one more user.” She wiped the latch tongue and laid on a fresh stripe of blue chalk.
 
-“It knows where I belong.”
+Jorren uncrossed his arms. Throughout the other tests he had watched the destinations, not Dessa’s hands. “You’ll take mine as final?”
 
-The figure crossed the kitchen. Dessa saw a drawn face, a work shirt with one cuff unfastened, and no welcome in either. “I told you not to come without asking.”
+“I’ll take it as the fourth load. Then I certify what the mechanism did.”
 
-“This is asking.”
+Mevia moved between him and the key. “Is anyone expecting you?”
 
-“No. This is arriving.”
+“My things are still there.”
 
-Jorren leaned into the threshold. The other person seized the inner handle. For an instant they held the same door from opposite sides, one pulling, one resisting. The catch strap shivered. Dessa’s tools jumped against one another on the floor.
+“That was not my question.”
 
-“Let go,” Dessa said.
+“My spouse told me I could collect them this week.”
 
-Neither did.
+“With notice?”
 
-She drove the service wedge under the near corner with the heel of her hand. The leaf lifted just enough to break Jorren’s leverage. The person in the kitchen pulled it closed. The latch entered the strike without scrape or bounce.
+Jorren stopped turning the ring on his finger. “I do not need the family rehearsing my marriage.”
 
-Then came the blunt slide of an ordinary bolt on the destination side.
+Dessa should have stopped there. She knew the difference between permission to service a latch and the ability to reach it. But only the last current could close her diagnostic sequence, and neatness pulled at her like a badly set spring.
 
-Jorren twisted the handle. It moved a finger’s breadth and stopped. He looked at Dessa. “Open it.”
+“No crossing unless the far-side occupant admits you. If anyone tells you back, clear the sill and let them shut the leaf.”
 
-She was already kneeling, one palm on the brass strip. The current had run true. The repaired latch carried the load evenly against its spring. Beyond it, the local bolt sat in its keeper. Plain hardware, doing its plain job.
+Jorren took the key from Mevia. “I heard you.”
 
-“You have picks,” Jorren said.
+Before Dessa could demand an agreement, he turned.
 
-“For locks I’m authorized to service.”
+His current struck the scarf with enough force to make the brass cover tick. It did not arrive muddy or false; metal gave Dessa no such judgments. It simply loaded the restored path, filled the rail, and held. Jorren drew the latch and pulled the door wide.
 
-“My things are in that house.”
+Evening rain crossed the sill in a silver slant.
 
-“Then arrange to collect them.”
+The opening stood in a blue-tiled kitchen. A casement over the sink had been left open, and wind drove the herbal smell of wet rosemary through the room. An iron pan cooled on the stove. Damp soil ringed a cracked flowerpot on the table beside a tied stack of letters. The gust scattered two rosemary needles and a pellet of black soil into Dessa’s copper pan, then pressed the leaf hard against its catch strap.
 
-“The door says it’s my home.”
+Jorren exhaled as if he had been holding the air since his arrival. “There.”
 
-Dessa withdrew her hand from the brass. Around them, the stripped room had gone still. Even Sikra no longer paced.
+A woman entered from the passage with a dish towel in one hand. She stopped before she reached the table.
 
-“The door opened where you recognize home,” Dessa said. “The bolt belongs to the person on the other side.”
+“Jorren. Back from the sill.”
 
-Jorren stared at her as if waiting for the rest, some locksmith’s exception hidden behind those two facts.
+He set his boot on it. “You kept the kitchen the same.”
 
-There was none.
+“Boot back.”
 
-He yanked the handle once more. The frame held. Then he released it and stepped away, his anger searching the room for an easier object. Nobody offered one.
+“The route came here.” His grip tightened on the handle. “You said I could collect the press and my winter things.”
 
-Dessa removed the wedge. She opened her service ledger on the nearest chair and wrote while the results were fresh.
+“After I sent a time.”
 
-*User one: local destination; current clean; latch seated.*
+“This is a time.”
 
-She paused over the word *local*, remembering Sikra stepping through the frame to stand in the same room. It had seemed like no travel because there had been no distance to cross.
+“No.” She dropped the towel and came toward the far handle. “You do not enter.”
 
-*User two: moving domestic berth; stable route under motion and weather.*
+Jorren leaned farther through. “If it opens for me here, you cannot pretend I have no place in it.”
 
-Lutik glanced again at his watch, but he had stopped talking about the tide.
+“Take your foot out.”
 
-*User three: occupied rented rooms; stable route; destination notified.*
+Sikra said his name once, sharply. Mevia moved to the weighted chest, ready to keep the frame down. Lutik caught the loose length of strap before the wind could whip it.
 
-Mevia’s eyes narrowed at that last phrase. “Write ‘invited.’ She knew about the test.”
+Dessa put both hands on the hinge stile. “Jorren, unload the sill. Your weight is twisting the catch.”
 
-Dessa amended it.
+The woman seized the far handle. Jorren held the near one.
 
-*User four: occupied household; stable route; entry refused by destination-side bolt.*
+“The door found what is ours,” he said to her.
 
-Four turns. Four centered strikes. No wandering, no heat in the key, no slip in the rail. Each opening had held until somebody shut it.
+“You came without my answer.”
 
-At the bottom she wrote: *Repair complete. Recognition core retained.*
+She pulled. The strap creaked; the frame’s feet pressed deeper into their chalk outlines. Jorren braced his heel.
 
-Sikra read over her shoulder. “You call this complete?”
+Dessa kicked the service treadle at the base of the hinge. It lifted the leaf no more than the thickness of a coin, enough to take Jorren’s leverage off the sill without opening any lock. His boot slipped back into the inherited room.
 
-Dessa’s stomach tightened, but her voice did not. “Yes.”
+The woman hauled the leaf closed from the kitchen side.
 
-“I hired you so they could return here.”
+First came the latch: a clean, full-depth seat in the blue kitchen’s keeper. Dessa felt its load run evenly down her repaired rail. Then metal scraped beyond it. A bolt, ordinary and local to the kitchen, drove into a second socket.
 
-“You hired me to restore the traveling door.”
+Jorren twisted the handle. The latch retracted. The leaf did not move.
 
-“A careful distinction.”
+“Open it,” he said.
 
-“Locks are made of them.”
+“Return the key to rest.”
 
-Lutik gave a tired snort. Mevia hid hers badly. Jorren stood at the window, apart from the rest.
+“My spouse has bolted my door.”
 
-Sikra did not smile. She took the coin purse from her skirt pocket, weighed it in her palm, and set it beside Dessa’s tool roll. “You will give me a copy of those results.”
+“The destination has barred this leaf. Return the key before the stored current heats the scarf.”
 
-“Without the descriptions of private rooms.”
+“You carry picks.”
 
-“Without those,” Sikra agreed after a moment.
+“For authorized work.”
 
-Dessa packed the reversed pins, the worn spring, her gauges and pots of paste. Behind her, the family’s argument resumed, but its shape had changed.
+“My name is on accounts in that house.”
 
-“The boat can take the frame as far as the lower crossings,” Lutik said. “Not before next week.”
+“Accounts do not authorize a bypass. The person at the far handle just refused entry.”
 
-“It is not living on your boat,” Sikra said.
+Jorren rattled the handle. The far bolt held without a tremor. “The route admits me. She cannot make that mean nothing.”
 
-“There isn’t room for it,” he said, which was not quite the same answer.
+Dessa put two fingers against the edge cover. The latch spring was free; the load lay beyond it. “The route located a threshold. It did not withdraw that bolt.”
 
-Mevia offered dry storage above the bakery if everyone promised to send notice before using it. Sikra objected to asking permission to visit her own niece. Mevia replied that notice was not permission, though sometimes permission would also be required. Jorren said nothing until Sikra began assigning days to clear the upstairs. Then he said he could manage the heavy wardrobes on fifth-day, provided they used a cart and the ordinary road.
+“You can slip it. Take off the facing.”
 
-No one chose where the door would stand. They agreed on two clearing days, disagreed about remembrance supper, and began a fresh quarrel over whether the copper tray counted as part of the inheritance.
+“Not from an occupied room that has just refused entry.”
 
-Dessa buckled her repair case. Last, she removed the service wedge from beneath the oak and slipped it into its loop. The door stood square without her hand on it.
+“Then what did Sikra hire you to repair?”
 
-She left the family measuring the frame and speaking, with unfamiliar care, about who would knock first. At the front entrance she chose the house’s ordinary brass latch and went down the stone steps with the coin purse knocking inside her repair case.
+“The split rail and the weather-bound latch.” Dessa met his eyes. “Both are holding. Turn the key back.”
+
+For a moment she thought he would force her to choose between leaving his current stored and touching his hand. Then Lutik said, “You’re heating the splice, Jorren,” in the practical tone he had used for the river wind.
+
+Jorren turned the key to rest.
+
+The warmth ran out of the rail. The kitchen pressure vanished with the rosemary and rain. When Jorren tried the handle again, the leaf opened freely onto the stripped room. The destination bolt remained in its own keeper, on a threshold no longer joined to theirs.
+
+Dessa closed the ordinary leaf and set the service wedge before anger made a fifth test. The kitchen keeper had marked the blue chalk across its full face: a fourth complete current path and a fourth stable contact. Its destination bolt was a separate load, applied only after the route had formed.
+
+Sikra stood with the folded wallpaper in one hand. “Which one do you put down as correct?”
+
+“All four contacts passed.”
+
+“That is not the same question.”
+
+“It is the one my tools can answer.” Dessa used a carpenter’s pencil because her hand wanted to shake. “I can trace the current each user supplied and where the latch landed. I cannot certify ownership, welcome, or what another household owes.”
+
+Jorren turned away.
+
+Sikra watched Dessa write. “Do not put their rooms into your master’s records.”
+
+Dessa drew four short lines.
+
+“Test one: local room, balanced pressure, full contact. Test two: moving berth, rain load, full contact. Test three: occupied rooms, prior notice, full contact. Test four: occupied kitchen, entry barred at destination, full contact.”
+
+Mevia tapped the third line. “Prior notice, not open invitation.”
+
+Dessa added the words.
+
+Lutik pointed at the second. “And secure the catch before river use. That strap is too short for a hard west wind.”
+
+“It is the service strap. The owner needs a permanent one rated to the frame.”
+
+“Put that on the bill,” Sikra said automatically.
+
+Dessa looked up.
+
+Sikra unfolded the wallpaper, saw what she was holding, and let it fall into the grate. “The latch works. The rail works. I will pay for those. I am not yet calling the rest useful.”
+
+That was not praise, but it was a completion line Dessa could show her master. She removed the wedge, torqued the final hinge screw, and fastened the cover over the scarf. The leaf hung square. Without a living recognition turn, it opened only through the room in which it stood and closed on its own keeper.
+
+“The roofers come second-day,” Sikra told Lutik. “I need the north rooms empty before then.”
+
+“If the wind keeps east, I can take the frame upriver after the fifth-day bags,” he said. “Covered, not on the open deck.”
+
+“You are not taking it anywhere until the inventory is signed.”
+
+“Our landing is too narrow for it,” Mevia said, “and my wife and I will not store a shared door inside our rooms. We can take the two linen chests after close tomorrow. Send a note before you use the key.”
+
+Sikra picked up the copper sill-pan and frowned at its cargo: hearth mortar, reed seed, red paint, flour, poppy seed, orange peel, rosemary, black soil. “A note to whom?”
+
+“To whoever is expected to answer.”
+
+“It cannot be four separate negotiations every time.”
+
+“It already is.”
+
+Jorren had returned to the window. “Stop arranging times for me.”
+
+No one solved the storage question. Sikra wanted the frame beside the deeded wall; Lutik said the next rain would swell its lower stile; Mevia would lend blocks but not her wife’s supper hour. Jorren refused Sikra’s clearing day and accepted another only because the wardrobes required two people.
+
+Dessa packed the chalk, gauges, service bridge, and the file she had not used. She accepted Sikra’s purse, counted only enough to know it was the agreed weight, and buckled it inside her case.
+
+At the front hall she passed the traveling frame and lifted the plain latch of the street entrance.
+
+“Notice is not an answer,” Mevia said behind her.
+
+“Then they can knock and wait,” Sikra replied. “After the north rooms are cleared.”
+
+Lutik began objecting to the day. Jorren said something too low for Dessa to catch. She went out by the ordinary door and pulled it shut against the rain.

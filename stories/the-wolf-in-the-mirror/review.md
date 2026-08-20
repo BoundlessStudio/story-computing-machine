@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Teague | new | The narrator's adult cursed partner; the human and wolf forms are the same person, and no exact, alias, close-spelling, or confusing reuse was found. |
+| Teague | new | The narrator's adult cursed partner; the human and wolf forms are the same person, and targeted checks found no exact, alias, close-spelling, phonetic, or easily confused reuse. |
 
 ## Places
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The curse remains a local mechanism, Teague's personhood and agency frame the transformed interval, and the mirror is only an ordinary reflection.
+- Notes: Time, direction, room geometry, and repurposed equipment remain coherent; Teague frames the transformed interval with consent and independent choices, while the curse and scent response stay local and the mirror remains ordinary.

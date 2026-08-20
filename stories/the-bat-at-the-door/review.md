@@ -6,10 +6,10 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Beatrix | new | The narrator's daughter; readily distinct from recurring Irix, with no exact, alias, or confusing reuse found. |
-| Raskel | new | No exact, alias, close-spelling, or confusing reuse found. |
-| Vesper | new | Bram's mother and proposed godparent; no exact, alias, close-spelling, or confusing reuse found. |
-| Bram | new | Raskel and Vesper's son in human and bat forms; distinct from the longer legacy names Brameth Caum and Sula Brant. |
+| Beatrix | new | The narrator's sixteen-year-old daughter; no exact, alias, close-spelling, or confusing reuse found. |
+| Raskel | new | Bram's ceremonial parent and Beatrix's proposed godparent; no exact, alias, close-spelling, or confusing reuse found. |
+| Vesper | new | Bram's mother and Beatrix's proposed godparent; no exact, alias, close-spelling, or confusing reuse found. |
+| Bram | new | Raskel and Vesper's son in human and bat forms; distinct from frozen-baseline Brameth Caum and legacy Sula Brant, with no exact, alias, or confusing reuse found. |
 
 ## Places
 
@@ -23,7 +23,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The voluntary doorstep negotiation resolves the prompt's central promise; the local transformation preserves Bram's personhood and agency, its practical aftereffects remain concrete, and the pear-list ending grows from the opening without an added thesis coda.
+- Notes: Bram's voluntary, screened change and matching injury resolve the factual claim without making transformation a truth test. Beatrix's informed choice, her parent's continuing safety role, and the visitors' reciprocal limits resolve the godparent request without debt, custody, or replacement parenthood; the five dialogue voices remain distinct through the final call-first exchange.

@@ -8,320 +8,304 @@ canon: false
 
 # The Wolf in the Mirror
 
-The bite-resistant coat was for getting Teague off me without losing an arm. The plywood panel was for dividing the room if they became territorial. The canvas straps were for restraint, but only if the alternative was a broken window, an open door, or a throat.
+The spare room had four directions, and by eight forty-one I had assigned a failure to each of them.
 
-The spray bottle was water. The air horn was noise. The first-aid kit was obvious.
+North held the braced window. East held the mirrored closet, hidden behind a gray sheet and six spring clamps. South held the door, its new lock, and the key that would stay in my pocket. West was my position: one wooden chair, the incident log, two water bowls, a sealed first-aid box, and a plywood panel padded thick enough to meet teeth without giving them splinters.
 
-At eight forty-three, with moonrise twenty-six minutes away, I sat cross-legged on the padded floor of our spare room and assigned every object its catastrophe.
+The bite-resistant coat was already zipped to my throat. The canvas restraint straps remained buckled inside a clear tub beneath the chair. We had agreed that I would open that tub only if Teague was about to break through the window or the door.
 
-Teague leaned in the doorway, holding two mugs of tea. “What’s the towel for?”
+Everything else had gone into the hall. The bed, lamp, rug, books, laundry hamper, and a loose brass vent cover were all potential entries in an accident report. Foam covered the baseboards. Interlocking mats covered the floor. I had scrubbed the room with unscented soap and sealed our toiletries in the bathroom.
 
-I looked down at the folded towel beside the emergency kit. It had somehow escaped my list.
+I wrote *20:41—room secured* and drew a box around it.
 
-“Blood,” I said.
+Teague came in barefoot, carrying the water jug. They set it beside the bowls, tested the window brace with both hands, and counted the six clamps without touching the sheet.
 
-“Charming.” They passed me a mug. “Could it be for tea instead?”
+“Say it back,” they said.
 
-“If we spill tea, we’ll have a towel.”
+“Barrier sequence?”
 
-“There. You’re adapting already.”
+“What you will actually do.”
 
-They were trying to make the room look less like a place we had built in case love failed under pressure. It did not work. We had taken the bed apart and stacked the frame and mattress in the hall. I had covered the baseboards with foam pipe insulation, screwed a temporary brace across the window, and laid interlocking gym mats wall to wall. The mirrored closet doors wore an old gray sheet, fastened at the top with six black clamps. Everything scented had gone: soap, laundry powder, the cedar blocks Teague kept in their sweaters. I had cleaned with hot water and the unscented liquid we used for the dishes.
+My partner Teague had planned the room. They had chosen the lock, the panel, the coat, and the straps. For the previous three full moons, they had gone alone into the empty garage and come out with bruised shoulders, split nails, and memory that ended somewhere during the change. This was the first time they had asked me to stay with them through the curse. Precision was the price of admission.
 
-The room smelled of rubber mats, weak tea, and the plastic backing of medical tape.
+“If you go for the door, I keep the panel between us. If the panel fails, I leave and lock you in from the hall. I don’t stand in the doorway.”
 
-Teague stepped inside and shut the door. “Last check.”
+“If I sound hurt?”
 
-We had done the check twice. I put down my mug.
+“I do not come back in because of a sound. Smoke or structural failure only.”
 
-They pointed to the straps. “Only if I’m going to get out or seriously hurt one of us.”
+“The straps?”
 
-“Yes.”
+“Stay in the tub unless you are already breaking a barrier or I can prevent an immediate serious injury. I don’t improvise a restraint.”
 
-“You don’t put yourself between me and the door.”
+Teague looked at the coat. “And you don’t test whether it works.”
 
-“I use the panel.”
+“That was never in the protocol.”
 
-“And if the panel doesn’t work?”
+“That sentence was too fast.”
 
-“I leave, lock the door behind me, and call the number on the fridge.”
+“I do not test the coat.”
 
-“You don’t come back in because I sound upset.”
+They nodded once. Human Teague disliked reassurance that had no observable component. When I said we would be fine, they asked for load ratings. When I said I loved them, they believed me, but they still checked the screws in the window brace.
 
-That was the part they always watched my face for.
-
-“I don’t come back in.”
-
-They nodded. Their tea trembled once against the rim of the mug. “The bruises last month were mostly on my shoulders. Scratches on my legs. Nothing that looked like a bite.”
-
-“You told me.”
-
-“I know. I’m telling myself.” They set the mug outside in the hall. “I remember the change. After that, pieces. A smell like wet concrete. Waking up under the workbench. I don’t know what I did in between.”
-
-The last three full moons, Teague had locked themself in the detached garage of the house we rented. They had refused to let me watch until the bruises became too numerous to dismiss and one fingernail came back split to the quick. This month, they had drawn the room plan. They had chosen the barriers, approved the straps, and made me rehearse the lock.
-
-Now they held out their hand. “Still willing?”
-
-It was not a question about courage. It was permission renewed while they could give it, and an offer to stop.
-
-I took their hand. “Yes.”
-
-“Stay where I can see you, then.”
-
-At nine-oh-six, I locked the door.
-
-The change began before I had returned the key to the zippered pocket inside my coat.
-
-Teague made one startled sound and dropped to a knee. I reached for them, remembered the plan, and stopped with my hand in the air. Heat rolled off their skin. Their fingers spread against the mat as the nails darkened and thickened. Their shoulders drew high; their shirt split at one seam, then vanished beneath a rush of coarse brown-black fur.
-
-No part of it was neat. Their body worked furiously against a shape it had known all day. Bones shifted under skin. Breath became panting, panting became a growl too low for the room, and the room seemed to shrink around it.
-
-I had prepared for teeth. I had not understood the size of the animal that would carry them.
-
-When it was over, a wolf stood where Teague had knelt, taller at the shoulder than the plywood panel was wide. Their paws pressed divots into the gym mats. Their claws clicked once when they adjusted their weight. One amber eye caught the ceiling light; the other remained in shadow.
-
-The coat suddenly felt decorative.
-
-“Teague,” I said.
-
-Their ears turned toward me.
-
-Then their head swung back toward their hindquarters.
-
-I took hold of the panel. A feint, I thought. Predators watched one direction and moved in another. I had read that somewhere in the frantic, useless week when every search for *first time supervising cursed partner* had given me either folklore or advertisements.
-
-Teague’s tail flicked.
-
-Their eyes fixed on it.
-
-The tail flicked again.
-
-Teague pounced.
-
-They missed by the length of their muzzle. The tail escaped to the left. Teague wheeled after it, hind paws skidding on the mats, and completed one astonished circle.
-
-They stopped. The tail swayed behind them.
-
-I lowered the panel by an inch.
-
-Teague turned their head slowly. The tail moved out of reach.
-
-They lunged after it again.
-
-By the fifth circle, I understood what I was seeing. By the tenth, I accepted that understanding it did not tell me how to stop it.
-
-“Teague.”
-
-Their ears twitched as they passed me, but their feet did not slow.
-
-“Enough.”
-
-That was our stop word. Human Teague had chosen it because, in their opinion, panic made subtle vocabulary irresponsible. Wolf Teague showed no respect for its design.
-
-I set the padded panel in their path.
-
-They dodged it. This was encouraging for half a second. Then the dodge carried them into a tighter turn around me, and they accelerated as if I had introduced rules to a game.
-
-I raised the panel and backed toward the wall. “No. Not a course. This is not a course.”
-
-Teague’s tongue appeared at one side of their mouth. Their forepaws drummed the floor. Each lap brought the thick sweep of their shoulder closer to my knees.
-
-I retreated behind the equipment pile and began moving everything out of the circle.
-
-The straps went onto the windowsill. The first-aid kit followed. I was shifting the emergency water when Teague cut too close and clipped the spray bottle with one rear paw. It spun across the floor. They chased that for three strides, decided it was beneath consideration, and rediscovered the tail with renewed delight.
-
-At nine-fourteen, I opened the incident log.
-
-*Transformation complete approximately 21:11,* I wrote. *Subject began continuous clockwise circling at approximately 21:14. Appears focused on own tail.*
-
-I stared at the sentence. Filling in the log kept my hands from interfering, so I added: *Has not caught it.*
-
-At nine-twenty, Teague’s orbit widened enough to graze the wall. Their tail struck the foam-covered baseboard with a soft, regular thump. I wedged the towel into the corner where their hind paw kept slipping. Blood had not touched it. Neither had tea.
-
-At nine-twenty-seven, I tried water. I slid the metal bowl into the outer edge of their path when they seemed to be slowing.
-
-Teague stepped in it.
-
-Water sheeted across the mats. The bowl shot under the closet door. Teague stopped so abruptly that their back legs folded. For one hopeful moment, they sat in the puddle and panted at me.
-
-“Good,” I whispered. “Stay.”
-
-Their tail flopped against the wet floor.
-
-Their head snapped around.
-
-“Don’t.”
-
-The chase resumed counterclockwise.
-
-I updated the log.
-
-At nine-thirty-nine, their nose passed near the open emergency kit. Teague recoiled as if struck. Their muzzle wrinkled; their whole body gathered around one tremendous sneeze that slammed their chin into the mat.
-
-They stared at the kit. So did I.
-
-Inside the top compartment, under the gauze and tape, was a foil packet of citrus cleaning wipes I had bought months ago and forgotten.
-
-“Sorry.”
-
-Teague sneezed again. I bagged the packet, zipped it inside a second bag, and sealed both inside the lidded waste bucket. While my back was turned, Teague found their tail again.
-
-By ten o’clock, the room had been reorganized around the chase. Every hard object except the water bowl was outside the orbit or flat against a wall. I had looped the straps through the window brace so no paw could tangle in them, used the blood towel to pad the skid corner, and refilled the bowl with less than an inch so Teague could drink in the rare pauses without flooding the floor.
-
-They drank twice. Both times, their tail moved before they had finished. Both times, they abandoned the bowl mid-lap and sprayed water from their muzzle across my trousers.
-
-I did not laugh.
-
-This felt important at the time.
-
-Teague feared the curse. They feared what happened in the missing hours and what I might see there. They had trusted me to guard them, not to gather a private supply of amusing stories. So I kept my mouth set and my pen busy while an enormous werewolf spun past me with a look of radiant determination.
-
-At ten-seventeen, the chase slowed from a gallop to a determined trot. At ten-thirty-six, Teague lay down, captured the tip of their tail between both front paws, and tried to bite it. The tail escaped. They sprang up with a grunt and began again.
-
-At ten-fifty-two, I noticed that the upper-left clamp on the closet sheet had shaken loose. The sheet sagged enough to show a thumb-wide strip of mirror. Reaching it meant crossing the circle. I decided a sliver of glass was safer than a collision and wrote *replace clamp when movement stops* in the log.
-
-At eleven-oh-five, concern finally did what fear had failed to do and made me sensible. Teague was panting hard. Their steps dragged at the end of each turn, and the pads of their paws had begun to squeak on the rubber. I wanted to stop them. Every method I had prepared depended on aggression or escape: block, startle, restrain, withdraw. None accounted for a partner who was hurting themself with enthusiasm.
-
-I put away the air horn. I took off the heavy forearm guards because their buckles could catch fur if Teague fell against me. Then I sat outside the circle with the water bowl between my boots and waited for the tail to lose its argument.
-
-At eleven-fourteen, exactly two hours after the first complete turn, Teague stopped.
-
-Momentum carried their hindquarters another quarter circle. Their front paws attempted a correction, crossed, and folded. They landed on their chest with a floor-shaking *whump*.
-
-I was up before I remembered not to rush them.
-
-“Teague?”
-
-They stood on the second try. Their legs were sound, though they placed each paw as if the floor had developed opinions. They drank the whole shallow bowl. Then they wandered toward the closet, swaying gently.
-
-The loose clamp fell.
-
-The sheet peeled from the mirror in a slow diagonal, exposing a second exhausted wolf and a pale person in an oversized protective coat.
-
-Teague froze.
-
-The reflected wolf froze.
-
-Their ears rose. The other wolf’s ears rose too.
-
-Teague barked.
-
-The sound hit the walls hard enough to sting my face. The wolf in the mirror barked back without delay.
-
-Teague jumped sideways, struck the dented water bowl, and barked again. Their reflection performed the same assault. Teague lowered their head and showed their teeth. The other wolf knew that trick.
-
-“Teague.”
-
-No response.
-
-“Enough.”
-
-They barked over me.
-
-“Back.”
-
-They advanced on the glass. I snatched up the panel, but when its edge appeared in the mirror, Teague wheeled toward it with a growl. I let it drop. The impact made them whip back to the rival.
-
-Every answer made the question louder. Bark, recoil, bark. Claws scraped the mats as Teague charged and checked themself short of the glass. The mirror held, but the closet doors shuddered in their frame.
-
-I looked for the angle that would let me reach the fallen sheet. Instead I saw what Teague saw: two wolves squared in a bare padded room, with two ridiculous wardens behind them. My coat reached nearly to my shins. One sleeve was soaked. A strip of silver tape clung to my hip. My hair stood upright where the helmet had pressed it, and I was holding an empty spray bottle like a ceremonial weapon.
-
-Two hours of swallowed laughter escaped at once.
-
-It was not graceful laughter. It started as a snort, broke in the middle, and became the helpless wheeze Teague claimed sounded like a screen door losing a fight.
-
-The barking stopped.
-
-Teague turned from the mirror.
-
-Their ears eased sideways. Their mouth remained open, showing every tooth I had spent a week imagining, but the growl was gone. They looked at me for three panting seconds. Then their tail struck the floor once.
-
-Still laughing, quieter now, I moved sideways along the wall. I kept myself out of the space between Teague and the glass. Their eyes followed me. When I reached the fallen corner of the sheet, I crouched, caught it, and drew it across the mirror from the side.
-
-The rival wolf vanished.
-
-Teague inspected the cloth. They sniffed the place where the other animal had been, sneezed once in what I chose not to take personally, and leaned their shoulder against my boot.
-
-Their weight nearly tipped me over.
-
-I sat. After a moment, Teague lowered themself beside me with a groan. I unzipped the coat so they would not rest against the hard fasteners. They put their muzzle across my ankle, hot and heavy, and closed their eyes.
-
-I stayed awake until dawn, watching the sheet.
-
-The return was no kinder than the change. When Teague’s paws became hands again, I covered them with the coat and waited until they could speak before I touched them. Their first word was water. Their second was my name. Their third was “Damage?”
-
-“You’re sore. Your paws were intact before the change back. There’s a scrape on one knee now.” I helped them sit against the wall and handed over the bottle. “No bites. No broken glass. No escape attempt.”
-
-They drank, winced, and examined me over the rim. “You?”
-
-“Bruised dignity.”
-
-“From me?”
-
-“Mostly the coat.”
-
-We waited until they could stand before leaving the room. I made toast while Teague showered and dressed. By breakfast, they had the incident log beside their plate and the suspicious expression they used when instructions omitted a step.
-
-“You skipped from transformation complete to no one got hurt.”
-
-I buttered the same corner of my toast for too long.
-
-“I gave you the important part.”
-
-“You gave me the medical part.” Teague tapped the log. “What happened for the rest of it?”
-
-I had considered editing the account. Not lying; only choosing the details that preserved the gravity of the night. But Teague had not asked me to preserve their gravity. They had asked me to watch.
-
-“You chased your tail,” I said.
-
-They waited.
-
-“For two hours.”
-
-“Two hours?”
-
-“I rearranged the whole room. You reversed direction once. There was a citrus-wipe incident.”
-
-Teague covered their eyes with one hand.
-
-“Then the mirror covering fell.”
-
-Their hand lowered. “Oh no.”
-
-“You barked at yourself.”
-
-“Once?”
-
-“It became a disagreement.”
-
-They looked toward the hall, where the spare-room door remained locked. Embarrassment warmed their face, but they did not look away from me. “How did you stop it?”
-
-“I laughed.”
-
-Teague absorbed that. “And?”
-
-“You looked at me. I covered the mirror. You lay down.”
-
-They pulled the log closer and read every entry, including *Has not caught it.* I did not apologize for that line. They did not ask me to.
-
-“Next month,” they said at last, “we keep the barrier.”
-
-“Definitely.”
-
-“Two water bowls. Heavy ones.”
-
-“Agreed.”
-
-“Clear the whole middle before we start. Better clamps on the sheet. And you’re allowed to laugh if I’m not injured or trying to eat you.”
-
-“That is a difficult standard to assess in real time.”
-
-“Put it in the plan.”
-
-I took the pen. Teague reached across the table and stopped my hand before I could write.
-
-“Wait,” they said. “Did I ever catch it?”
+They turned their back to the mirror and faced me. “If you want out, go now. I can do the garage again.”
 
 “No.”
 
-Their relief arrived first. The laughter followed, hoarse from barking and careful of their aching side, but entirely their own.
+“That wasn’t the question.”
+
+“I want to stay.”
+
+Their breath left slowly. “Then stay. Don’t make me chase you to prove it.”
+
+At nine-oh-five, Teague locked the door themselves and put the key into the zipped chest pocket of my coat. That choice mattered to them. I recorded it before their hand began to shake.
+
+The change started in their breathing. One measured inhale snagged halfway down; the next came hard enough to bend them. They lowered themself to the mats while they still could choose how to fall.
+
+I stayed west of the chair.
+
+Heat gathered around Teague until the room smelled of skin and damp wool. Their hands spread. Nails darkened into claws, shoulders forced their shirt seams apart, and coarse black-brown fur traveled across a body changing faster than it could accommodate itself. They made one sound through clenched teeth, then another through a jaw no longer shaped for speech.
+
+I had expected pain. I had not expected the work of it—the way every muscle seemed to pull against every other, or the terrible patience with which Teague remained on the floor until their legs could bear the new weight.
+
+When Teague stood again, they were a werewolf whose back came above my waist. The mats sank under four broad paws. Claws made shallow white cuts in the rubber as they tested their balance. Their chest moved like bellows. One shoulder could have put me through the closet doors without malice, momentum alone doing the work.
+
+The panel was no longer a precaution that made me feel foolish.
+
+“Teague,” I said.
+
+One ear turned toward me. Their head followed more slowly, and amber eyes found my face. I did not decide what that meant.
+
+Then their attention slid past their own flank.
+
+Their tail had lifted clear of the mats. It swung once.
+
+Teague crouched.
+
+I raised the panel, expecting a charge toward me. Instead, they sprang sideways. Their teeth closed on air where the tail had been, and the tail escaped behind their opposite hip. Teague turned after it, all four paws scrambling for agreement.
+
+At 9:17:42, the digital clock above the door changed seconds as they completed the first full clockwise circle. One pounce had become a chase.
+
+I pressed the stopwatch and wrote: *21:17:42—continuous pursuit of own tail began. Clockwise. Target remains attached.*
+
+The second circle was tighter. The third was faster.
+
+“Back,” I said, using the word Teague had chosen.
+
+Their ears flicked. Their feet did not.
+
+I put the padded panel across the inner edge of the next lap. Teague swerved around it, discovered the new curve, and accelerated. For four revolutions they ran a neat figure eight around me and the panel, passing close enough that the wind of their shoulder lifted my log pages.
+
+*21:19—divider converts orbit into slalom,* I wrote after retreating behind the chair. *Result unfavorable.*
+
+I flattened the panel against the west wall. Teague returned to one clockwise circle and pursued the tail with renewed concentration.
+
+At 9:26, their outer hind paw clipped the first water bowl. The bowl shot under the chair, struck the first-aid box, and popped one latch. Water spread over the mats in a shallow fan. Teague skidded, recovered without falling, and kept turning.
+
+I removed the wet bowl with the panel like a person handling hazardous material. The second bowl was heavier. During the next wide lap, I slid it tight against the north wall near the closet end and poured in two finger-widths of water. Teague passed it six times before dipping their muzzle on the seventh. They did not stop. They drank one sideways mouthful, flung half of it over the wall, and continued after the tail.
+
+The first complete lap after water was 2.8 seconds slower. I knew because I had begun timing laps.
+
+At 9:35, the floor seam near the northwest corner lifted under a claw. On the next circuit, the same rear paw caught it again. Teague lurched shoulder-first toward the wall, corrected, and ran harder.
+
+The coat was designed to give me seconds beneath a bite. I took it off and folded it over the raised seam instead. One canvas strap came out of the tub—not for Teague, I wrote with unnecessary force, but to pass through the coat sleeves and around the padded foot of the window brace. The buckle lay flat against the wall, outside the paw track. On the next lap, Teague landed on the coat. The outer fabric rasped under their claws and held.
+
+I moved my chair farther south and stood behind the panel in my shirtsleeves.
+
+At 9:43, Teague passed close to the open first-aid box and recoiled so violently that their whole orbit broke sideways. Their nose wrinkled. A sneeze drove their muzzle almost to the floor. A second shook them from shoulders to tail. They found the tail again while drawing breath for a third.
+
+The smell reached me only after I knelt over the box: citrus, sharp and artificial. One cleaning wipe in a foil packet had been tucked beneath the gauze since winter. Every scented bottle in the house was behind two closed doors, and I had carried the one forgotten thing into the room marked MEDICAL.
+
+“I know,” I said. “Inventory failure.”
+
+Teague sneezed in my direction. I could not tell whether the direction mattered.
+
+I sealed the packet in two bags, locked both inside the gasketed waste tin, and pushed the tin behind my chair. By then Teague had recovered the circle from the opposite side. From 9:43:18 onward they ran counterclockwise.
+
+I added: *Local response to citrus packet: marked distress, three sneezes, immediate reacquisition of tail. Direction reversed. No evidence regarding future fragrance response.*
+
+That last sentence was for the version of me who would otherwise turn one wipe into a law.
+
+By ten, fear had become a job with poor equipment. Teague was not trying to reach me, the door, or the window. They were also a creature of formidable weight making a high-speed turn in a room twelve feet across. Their claws had scored the coat. Their hip brushed the west wall hard enough to flex the foam. Each pass blew the loose edge of the mirror sheet outward and made the clamps chatter.
+
+I could not call the night harmless. I could only revise the likely mechanism of harm.
+
+The wide water bowl became a fixed station. I used the second canvas strap to secure its handle to the north-wall brace, keeping the strap flat behind the foam, and reduced the water to a shallow layer after every refill. Teague drank on the move. Sometimes their tongue reached the bowl; sometimes one paw did, and water climbed the wall. They never left the tail for more than a fraction of a turn.
+
+At 10:11, their tail began striking the northwest corner with a thick, regular thud. The coat protected their paws but not the tail swinging beyond them. I waited against the west wall until they crossed east, released the panel, and shoved it diagonally across the corner, padded face inward. Its quick straps clipped to the two brace points that had once been intended to make a temporary cell.
+
+It became a tail guard instead.
+
+The next sweep glanced off padding. Teague ran on. I pressed the panel flat after every few laps with my shoe, because entering the orbit with a hand would have converted tail protection into a finger-removal trial.
+
+At 10:24, I wrote: *Current assignments: restraint straps secure water and coat. Dividing panel protects tail. Bite coat protects floor. None operating according to label.*
+
+At 10:38, Teague slowed to a laboring lope. Their tongue hung from one side of their mouth. The circle widened when they tired, which brought their shoulder closer to the covered closet. I moved the first-aid box, waste tin, empty bowl, chair, and log case tight against the west wall, clear of the door's direct path. I left the middle empty and the route unchanged.
+
+“Back,” I tried once more.
+
+Teague’s ear moved. Their body kept going.
+
+I did not repeat it. One ear was not compliance.
+
+At 10:49, the lower south clamp came free from the mirror sheet. It bounced into the orbit. I released one quick buckle, toed the panel's padded edge far enough to catch the clamp, then drew the panel back and secured it again. The sheet still covered the glass, but its lower corner breathed in and out with every pass.
+
+I put the clamp in my trouser pocket, where it could not return to the floor.
+
+At 10:57, Teague’s front paws crossed. Their chest dipped; their claws tore four parallel channels in the coat, and their hind legs drove them upright again. No blood marked the fabric. Their pace fell from a lope to a trot.
+
+Stopping them remained the goal for which I had no safe action. Blocking had made a game. Noise risked adding panic to dizziness. The straps were holding objects that reduced harm, and even if I freed them, I could not bind a body that heavy without entering beneath its teeth and feet.
+
+So I maintained water. I flattened the tail guard. I counted breaths when Teague passed and watched each paw land. My incident log lost the tone of a serious document by degrees.
+
+*22:58—tail continues to evade.*
+
+*23:04—subject has now passed water station approximately 1,900 times, margin of error humiliating.*
+
+*23:09—no aggression observed. This does not reduce mass.*
+
+At 11:12, the lower north clamp dropped beside the closet track, out of the paw line and beyond my reach. Four clamps remained across the top. The sheet hung open by six inches at the bottom, reflecting only Teague’s moving feet and the same moving feet in reverse. Their head remained turned toward the tail. They gave the strip of glass no sign I could interpret.
+
+At 11:15, the tail caught the loose hem. Three upper clamps snapped from the track and stayed bitten into the cloth. The sheet sagged from the single top-left clamp, exposing a steep triangle of ordinary mirror.
+
+Teague continued counterclockwise.
+
+I watched the stopwatch. One hour, fifty-nine minutes, fifty seconds. Their steps had become uneven. The tail still moved, less because they wagged it than because two hours of turning dragged it around after them.
+
+At 11:17:42, the display changed to 2:00:00.
+
+Teague stopped.
+
+Their forepaws stopped first. Their hindquarters continued half a step and bumped them sideways. They planted one paw, then another, but the room kept turning for a body that no longer did. I stayed at the west wall with both hands visible.
+
+“Easy,” I said, though it was not one of our words.
+
+They took three broad, drunken steps along the tangent of the old circle toward the east wall. Their shoulder brushed the hanging sheet. The last clamp slid off the closet track, struck the mat, and the cover folded down along the track in front of Teague's forelegs.
+
+The mirror showed them a huge, exhausted wolf.
+
+Nothing came out of the glass. Nothing in it changed shape or chose. It returned Teague’s raised head, wet muzzle, spread paws, and sudden rigid ears.
+
+Teague barked.
+
+The reflection barked at the same instant.
+
+Teague recoiled diagonally into the anchored water bowl at the closet end of the north wall. Because the strap held, the bowl did not flee; one rear paw crushed its rim into a crescent and sent the remaining water over their chest. They shook from nose to tail. The wolf in the mirror shook too.
+
+Teague barked again, louder.
+
+“Teague.” I kept my voice low. “Back.”
+
+They advanced until their breath clouded the glass.
+
+“Back.”
+
+The prepared word had no visible effect. I freed the plywood panel from the northwest corner and angled it toward the closet. Its padded edge entered the mirror before it entered Teague’s path. Teague saw a second panel approach beside the second wolf and wheeled with a growl that vibrated through my wrists.
+
+I laid it flat against the west wall. Tool result: escalation.
+
+Teague faced the mirror again. Their bark struck the glass; the reflected mouth opened perfectly with theirs. They bounced backward, sat hard on the tail they had failed to catch, sprang up in outrage, and confronted the rival that had done exactly the same thing.
+
+My laugh escaped before I understood I was making it.
+
+It was one startled burst, then the helpless, breathless noise Teague knew from the afternoon a flat-pack wardrobe folded around both of us. I bent over the panel. Two hours of measured laps came out of me without measurement.
+
+Teague stopped barking.
+
+Their head turned. One ear angled toward me. Their eyes stayed wide, their mouth open around hard breaths. No human answer arrived in them. The stop word still had not worked. I knew only that my laugh had become more immediate than the reflected wolf for those few seconds.
+
+I used the seconds.
+
+Keeping outside the straight line between Teague’s eyes and their reflection, I moved south, then along the closet wall. I did not cross in front of them. Teague’s head tracked me. At the closet jamb I crouched sideways, caught the sheet where it had pooled, and pulled it across the glass from the edge.
+
+The rival disappeared beneath gray cloth. I clipped the nearest two clamps—one still attached to the sheet, one from my pocket—high enough that no paw could reach them.
+
+Teague stared at the covered doors. They sniffed the seam. Then they turned a slow circle, one complete revolution with no attempt to catch anything, and lowered themself two feet from my boots.
+
+I sat with my back to the south wall, where Teague could see me, because proximity was what they had asked for while words were available.
+
+After several minutes, they shifted until one heavy shoulder rested against the toe of my boot. The pressure pinned my foot to the mat. I left it there.
+
+When their breathing had steadied and their eyes had closed, I retrieved the loose clamps and put them in the log case. I freed the coat from the northwest floor seam and laid it open beside Teague. The canvas straps had stayed on the water bowl and coat until movement ended. Neither had touched their body.
+
+The change back began near dawn. It was as painful to watch as the first. Teague woke inside it, muscles pulling them smaller, claws withdrawing, fur giving way to chilled skin. I moved the coat over them only after their hands returned and waited for them to reach toward me before I came closer.
+
+“Water,” they said.
+
+I unfastened the bowl strap and brought the bowl within their reach. They drank, paused, and drank again. I checked the floor and coat for blood before I checked anything funny.
+
+“Where hurts?”
+
+“Everywhere is not useful,” Teague whispered. They flexed their fingers one at a time. “Right shoulder. Both hips. Feet?”
+
+“Skin intact. No bleeding. Can you feel all your toes?”
+
+They answered by moving them. Their right shoulder was tender but stable. There were no open cuts, no glass fragments, and no swelling that worsened while we waited. I kept them sitting until the dizziness passed.
+
+Then Teague looked at the door. “Lock?”
+
+“Held.”
+
+“Window?”
+
+“Held.”
+
+“You?”
+
+“No contact injuries.”
+
+They took one more drink. “Open it.”
+
+I gave them the key. They unlocked the door themselves.
+
+By breakfast, Teague had showered, dressed, and placed the incident log beside their plate. I had made toast and failed to eat mine. The citrus packet remained sealed in the waste tin. The mirror remained covered. The only damage was four claw channels in my coat, a scraped mat seam, and one crescent dent in the water bowl.
+
+Teague opened the log to the first timed circle. “Read it to me. Don’t summarize.”
+
+I began with the transformation, the direction, and the panel’s failure. I reported the spill, the skid, the citrus wipe, the reversal at 9:43:18, the water station, the tail guard, and the loosening sheet. My voice found its incident cadence and stayed there even when the facts became impossible to dignify.
+
+“When did the circling stop?” they asked.
+
+“11:17:42. Two hours exactly from the first complete circle.”
+
+Teague looked down at the page. “You wrote ‘tail continues to evade.’”
+
+“At 10:58. It continued until 11:17:42.”
+
+Their mouth tightened. They turned the log so the page faced them and read the line again.
+
+“And the mirror?”
+
+“The sheet fell when you staggered into it. You barked at your reflection. The glass was ordinary. You were responding to what you saw.”
+
+“How did you get close enough to cover it?”
+
+“The name and stop word did nothing. The panel made it worse. Then I laughed. You turned toward the sound and watched me. I approached along the wall, outside the reflection line.”
+
+“Did I know you?”
+
+“I can’t tell you that.” I put my fingertip on the relevant blank in the log. “You shifted attention to my laugh. You settled near me after I covered the glass. That is what happened.”
+
+Teague rubbed one thumb over the log's cardboard edge.
+
+“Next month,” they said, “the closet doors come off before moonrise. Not a stronger sheet. Off.”
+
+“I can do that.”
+
+“Keep the barrier. Keep the straps sealed unless the door or window is going. Bolt a bowl to the wall instead of tying one. Clear another foot around the turn.”
+
+I wrote as they spoke.
+
+“And inspect every compartment for scented packets,” they said. “Not just the things labeled soap.”
+
+“Already item one.”
+
+“Good.” Teague reached across the table and closed the log before I could turn the page. “One last fact.”
+
+I waited.
+
+“Did I catch my tail?”
+
+“No.”
+
+Teague's shoulders lowered. Then they laughed, careful of the aching right one and hoarse from barking.

@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The bell-guidance mistake, bounded search, and restored route form a clear causal resolution; the living ship and satellites retain independent agency, their mechanism remains distinct from established bell and route systems, and the closing count grows naturally from the opening flock-work.
+- Notes: The mistaken guide-form, failed descent, bounded search, seven distinct returns, restored route, and final 47-plus-1 count form a clear causal resolution. The shepherd's practical speech and the vessel's route-and-field syntax stay distinct under pressure; the living ship and satellites retain independent agency, and the ordinary closing count grows naturally from the opening flock-work.

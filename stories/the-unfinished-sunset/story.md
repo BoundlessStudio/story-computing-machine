@@ -8,270 +8,400 @@ canon: false
 
 # The Unfinished Sunset
 
-The road had learned to hide from Hisae.
+The old road ended in young pines.
 
-Twenty years ago it had run straight between millet fields to the village. She had run the other way, fast enough to lose one sandal, with Jinsaku shouting behind her and the evening wind cold in her mouth. Now alder roots buckled the old wheel ruts. Pines stood where the lower fields had been. Twice she followed deer tracks into bramble and had to turn back.
+Hisae stood where two wheel ruts should have descended between rice fields and found trunks thick enough to hide behind. Their roots had shouldered the stones out of line. Needles softened every hollow. If she had not remembered the notch in the eastern ridge, she would have taken the deer path south and missed the village again.
 
-She marked both wrong turns anyway. Habit made an escape route out of every mistake.
+Behind her, evening moved as evenings did. Blue gathered under the pines. Gnats turned above a puddle. A cold wind carried the smell of rain.
 
-The new post road lay a day's walk east. She had left it at dawn with a surveyor's map rolled in her pack and an ache under her right kneecap. At an inn three weeks earlier, the surveyor had complained that old tax rolls placed a village in a tract no one could enter. He meant to leave it off his next map. Hisae had bought the flawed sheet before he finished his cup.
+Ahead, the sky had kept one piece of sunset for twenty years.
 
-By late afternoon, ordinary dusk had begun to blue the woods behind her. Ahead, through the cedars, the old sunset still burned.
+Copper light lay across the ridge without fading. The sun rested against the same broken tooth of stone where it had been when Hisae ran. Its lower edge did not sink. No cloud crossed it. Beneath that light, a curl of smoke stood above a roof as solid-looking as gray silk.
 
-It had not reddened or thinned. The sun rested against the same broken ridge tooth, half a finger above it, copper light flooding the same patch of sky. Hisae remembered that light on Jinsaku's cheek and along the edge of his descending sword. She had seen it whenever she shut her eyes on a westward road. She had told herself memory was a crueler jailer than any village.
+Hisae took off her traveling hat. The wind lifted her white hair; the copper air ahead did not touch it.
 
-Memory, at least, moved.
+She found the road by walking backward through memory. A fallen cedar had replaced the footbridge, and the irrigation ditch was a fern-choked seam, but the grade was right. At the first straw-wrapped post she stopped.
 
-She reached the boundary before the road emerged from the trees. The first marker was a cedar post wrapped in faded braids of rice straw. Moss furred the shaded side, but the straw itself was bright and dry, every cut end still showing fresh gold. Beyond it, a gnat hung above a puddle. Water bulged soundlessly over a stone in the millrace without falling. A thread of cookfire smoke leaned across a roof and ended as cleanly as a brushstroke.
+The rice straw had not yellowed. Each end in the braid looked freshly cut. A moth hung beside it, wings spread, its shadow motionless on the post. Beyond, water leaned over the lip of the millrace in a clear, impossible curve. A leaf lay half entered into the surface, neither floating nor falling.
 
-Hisae walked the boundary north, then south. She found the slope where a child might scramble out, the ditch beneath the west fence, and the gap where the stream entered under split rails. At each place the fixed copper light met the woods' gathering gray in a plane too straight for weather. When she pressed a twig through, the tip stopped. It did not snap or bend. It simply refused the next inch.
+Hisae did not cross.
 
-At the old road she set down her pack outside the straw-wrapped post, straps facing her, sword side uppermost. If she had to seize it while running, she would lose no time turning it. Then she looked into the threshing court.
+She followed the village edge north until bramble forced her uphill, then doubled back and traced it south to the stream. Everywhere the fixed sunset met the ordinary dusk along a line too clean for weather. She tested that line with the end of a pine branch. The branch met resistance where nothing visible touched it. When she let go, it remained caught with half its needles in copper light and half stirring in the wind.
 
-The court occupied the village edge, a hard circle of packed earth bordered by bundled rushes. Chaff hung above it, hundreds of pale husks arrested in the act of settling. The witnesses stood just beyond the ring: a woman with both hands raised to her mouth, a boy leaning so far forward that he should have fallen, three field workers still dusty from harvest. No one had aged a breath.
+That was enough testing.
 
-Jinsaku waited among them, though waiting was not the shape of him. He was halfway through a cut.
+At the road she put down her pack with its straps turned outward. She loosened the knot on the rain cover and laid the shoulder loop where one grab would find it. Her map, food, and spare sandals could be on her back before anyone reached the post.
 
-His sword slanted down toward the place where Hisae had been. His front heel had not yet touched earth. His black hair, tied too loosely as always, swung beside his jaw. He wore the indignant concentration of a man of twenty-seven who had discovered that skill did not guarantee obedience from the world.
+Only then did she look into the threshing court.
 
-Hisae was forty-eight. The hair beneath her traveling hat had gone white from the temples back. Her knee had been opened by a spear butt in a quarrel that was not hers. Two of her lower teeth belonged to a battlefield ditch. She had spent twenty years learning how to answer the cut now hanging in front of her.
+The court occupied the western edge of the village. Its packed-earth ring met the boundary between two taller stakes; the woven rush that marked the bout’s circle passed from ordinary dusk into the held light there. Hisae had crossed both lines in one backward step twenty years ago.
 
-She picked up her sheathed sword and stepped between the posts. The village struck her all at once.
+Four witnesses stood beyond the rush. A woman held a winnowing basket tipped forward in one hand, pale chaff arrested above its rim; her other palm was raised between a small boy and the ring. A clay cup hung below the boy’s open fingers. Two field hands leaned from opposite sides, each following a different angle of the same stroke.
 
-Water slapped the mill wheel. A dog barked. Chaff fell. Jinsaku's heel landed, and his blade came down with all the speed it had carried twenty years before.
+Jinsaku was still making it.
 
-Hisae drew into the cut. Steel met steel above her left shoulder. The shock ran to her elbow and nearly tore the sword from her hand. She turned the edge, slid away, and felt Jinsaku's blade pass close enough to stir the white hair at her cheek.
+His front foot hovered a finger above the earth. His sword descended toward Hisae’s abandoned shoulder, the edge turned aside as the nonlethal terms required. His mouth was open around the last word of a sentence.
 
-The woman beyond the rushes finished her gasp.
+Then take—
 
-Jinsaku finished his shout. “—think you can turn your back on us?”
+Hisae could hear the unfinished shout as clearly as she had on every westward road.
 
-He recovered into guard. His eyes found Hisae's face, and his sword point dipped.
+Jinsaku’s black hair had escaped its cord at one temple. He was twenty-seven, exactly as he had been when she left him. Hisae was forty-eight. A spear haft had crushed her right knee twelve winters ago, and damp weather had been living in it ever since. She had two gray scars at her wrist, one fewer tooth, and twenty years of answers to the cut hanging in front of her.
 
-“What happened to your hair?”
+She drew her sword. Then she stepped between the stakes.
 
-Hisae had prepared answers in winter camps, ferry queues, rented rooms, and once during three fevered days under a cart. All of them began with an account of why she had needed to leave. None survived his question.
+The held court struck sound into the world.
 
-“Twenty years,” she said.
+“—the road!”
 
-Jinsaku frowned. “What?”
+Jinsaku’s foot landed. His blade completed its path with the force of a man who had not waited at all.
 
-“I was gone twenty years.”
+Hisae caught the stroke above her shoulder. Steel rang across the court. Her older wrist gave farther than she expected, and Jinsaku’s blade slid down within a thumb of her sleeve. She turned sideways, let his force pass, and cleared the line.
 
-Behind him, the boy who had been falling caught himself on both hands. Someone laughed once, sharply, as if she had made a poor joke. The woman lowered her hands and stared at Hisae's hair.
+The woman completed her gasp. The boy stumbled into her waiting hand. The chaff and his falling cup did not move.
 
-“You were gone one breath,” Jinsaku said.
+Jinsaku recovered his guard and stared.
 
-The sun had not moved. It remained pressed above the ridge, pouring the same light across his young face.
+Hisae had prepared for anger. She had prepared for disbelief, accusation, even a second strike. She had not prepared for him to look first at her hair.
 
-Hisae lowered her sword. “Not outside.”
+“Who did that to you?”
 
-The field workers began talking over one another. One hurried toward the road, perhaps to see what could turn black hair white between one cut and the next. At the boundary he stopped so suddenly his chest struck empty air. He shoved both hands forward, then recoiled.
+“Time.”
 
-“The posts are holding,” he said.
+His point lowered an inch. “How much?”
 
-“Of course they are.” Jinsaku did not look away from Hisae. Anger had steadied his point again. “The bout isn't finished.”
+“There’s room behind you. Let me out of the ring.”
 
-She had hoped, until that moment, that her return itself might be enough. It was the kind of hope she favored: a door mistaken for an answer.
+“No.” His grip reset. “How much time?”
 
-“I came back,” she said. “If the working wanted me, here I am.”
+“Twenty years outside.”
 
-“In the ring, with your sword out.”
+The woman with the raised palm looked from Hisae to the sun. “You crossed the post one breath ago.”
 
-“You don't understand what has happened.”
+“For you.”
 
-“I understand that you agreed before witnesses.” His voice carried the old clipped patience he used when repairing a gate after someone else had hung it badly. “If I disarmed you, you would stay one winter and train whoever the village chose. If you put me beyond the rushes, we would give you rice, salt, new sandals, and no one would ask you to stay again. The loser had to name the winner. You crossed the boundary instead.”
+A field hand went to the northern edge of the court. He tried to pass between two straw braids and struck the boundary chest first. The collision threw him backward. He rose swearing and shoved both hands into the empty air, but the line admitted no part of him.
 
-The gathered villagers had gone quiet. Hisae remembered their faces turned toward her on that other side of the same heartbeat. Her lord had died that spring, leaving armed men without wages and villages without protection. She had returned home wanting them to admire the freedom she had not chosen. Jinsaku had asked her to spend one winter teaching them how to keep raiders from their grain.
+Only the people who had stood inside or around the promise were moving. The millwater remained curved above the wheel, the chaff stayed in the air, and the sun remained fixed. The field hand could not leave.
 
-She had made the wager because she believed she could not lose it.
+The old bout-working had begun in living voices: the two duelists giving terms, four neighbors agreeing to witness them, every person breathing under the last light. The rush ring and the braided straw had only given that promise a shape. No one had asked what would happen if one of the two people carrying it stepped from the ring and out of the village before the answer.
 
-“The lord I served was dead,” she said. “I would not trade his claim for yours.”
+Jinsaku looked at Hisae’s pack waiting beyond the post.
 
-“One winter wasn't your life.”
+“You set the straps for your right hand,” he said.
 
-“It was mine to refuse.”
+“The left catches on the sword.”
 
-“Then you should have refused before you shook my hand.”
+“You came prepared to leave again.”
 
-The words reached a place her rehearsed defenses did not cover. Hisae glanced toward the road. Her pack waited two strides beyond the post, every strap arranged for flight. Evening had deepened around it. Inside the village, chaff drifted down through copper light and seemed to slow before touching earth.
+“I came prepared for more than one angle.”
 
-The woman who had gasped took a clay bead from a cord at her wrist. She tossed it toward the boundary. It stopped in the air just short of the post.
+“Then use the one in front of you.”
 
-“Finish it,” she said. Not to Hisae alone.
+Hisae eased her blade down. “I returned. Take the winter.”
 
-Jinsaku stepped back to the center and lifted his sword. “Do the twenty years make you unable?”
+Jinsaku’s face hardened, not because she had refused but because she had offered the wrong repair. “I didn’t win.”
 
-Hisae flexed her right knee. Pain sat deep in the joint, watchful but not yet awake.
+“Call it a forfeit.”
 
-“No,” she said.
+“The terms did not say forfeit.”
 
-That answer, at least, she had not practiced.
+“The village has lost twenty years.”
 
-They saluted. Jinsaku's was curt. Hisae's was exact enough to irritate him; she saw it in the set of his mouth.
+“And you want me to mend that with a lie?”
 
-He came forward at once.
+He backed to the court’s center and spoke loudly enough for every witness to hear. “No edge to flesh. A sword out of hand or both feet beyond the rush. The loser names the winner. If I win, you stay one winter and teach us to defend the village. If you win, we provision you and never ask you to remain again.”
 
-The first exchange told her what time had kept and what it had stolen. Jinsaku was faster than any memory. His strength arrived through the blades without warning, young wrists behind young shoulders, each cut linked to the next before Hisae's older body had finished absorbing the first. But he was also the man she had fought for an hour. He still raised his left shoulder before changing lines. He still pressed hard into a bind and trusted his feet to save the opening.
+Hisae glanced at the western stakes. “You remember every nail.”
 
-Hisae gave him no pressure to use. She yielded half a step, turned his point, and tapped the flat of her sword against his knuckles. He hissed and withdrew.
+“I remember which gate fell because no one replaced them.”
 
-“You got stingy,” he said.
+Her former lord had died that spring, leaving armed retainers to sell their skill and villages to guard their own grain. Hisae had come home newly masterless and hungry for the road. Jinsaku had asked for a winter, not fealty. She had heard a latch closing anyway.
 
-“I learned to stop wasting motion.”
+“I had finished serving other people’s needs,” she said.
 
-“Took you twenty years?”
+“Then you should have said no before you took my hand.”
 
-“Some teachers were slow.”
+“I thought I would win.”
 
-He cut for her ribs. She caught it close to the hilt, where his leverage failed, and drove his blade aside. The witnesses shifted around the ring. They were not a single body now. The boy cheered Jinsaku. One field worker muttered that Hisae's heel was too near the rushes. Another told him to be quiet. Their voices made the court feel smaller.
+“You saw my shoulder open and ran before the point could count.”
 
-Jinsaku feinted high and swept low. Hisae lifted her damaged leg just in time. The movement pulled a bright thread of pain through her knee. She set the foot down carefully, hiding the hitch in a retreat.
+Hisae raised her sword.
 
-He noticed. He had always been better at reading her than she liked.
+“Place your feet,” Jinsaku said.
 
-“Twenty years,” he said again, circling. “You could have come back after one.”
+They returned to their sides of the ring. Hisae stood west, the village boundary three paces behind her. Jinsaku stood east with the low sun at his shoulder. The woman pulled the boy away from the rush and set the basket behind her. One field hand kicked a wooden flail out of the court; the other shifted until he could see both western stakes. They chose their own safe places and kept watching.
 
-Hisae watched his hips, not his face. “I heard the road had gone strange.”
+Jinsaku saluted. Hisae answered.
 
-“After two?”
+He came at her before her blade finished rising.
 
-“Yes.”
+His youth arrived first as noise. His sword struck hers, rolled away, and struck again from the other side. Each impact reached her elbows while her body was still accounting for the last. She yielded two short steps, let his third cut spend itself past her hip, and touched the flat of her blade to his wrist.
 
-“And?”
+He pulled back before she could press.
 
-He forced her into a high guard, then struck twice below it. She took the first on her blade and escaped the second by an inch.
+“You wait longer,” he said.
 
-“I was in the north,” she said.
+“I stopped paying for empty motion.”
 
-“After five?”
+“Your rear foot is late.”
 
-“At sea.”
+Hisae changed its angle before he could attack it. “Now it isn’t.”
 
-“Ten?”
+He tested the correction with a low feint. She did not answer. His eyes flicked once toward her right knee.
 
-“Fighting.”
+They circled.
 
-“You always find somebody else's winter.”
+Twenty years had taught Hisae what a young body wasted. Jinsaku’s shoulders announced strength he did not need. His heel rose before he crossed the ring. He let his blade travel the full shining arc because his joints could still hurry it home. Hisae had learned on mountain paths, ship decks, frozen yards, and rooms too small for a second step. She moved only the distance that removed her from harm. Her sword met his close to the guard, where his reach bought him least.
 
-She answered with a thrust that made him give ground. It was meant to end the conversation, but Jinsaku grinned without pleasure. He had found the wound and did not need to strike it again.
+But he was not the stroke she remembered. He watched her conserve and began to shorten his own cuts. He broke a familiar three-beat attack after the second, waited for her turn, and drove the hilt toward her ribs. Hisae twisted away. The rush braid brushed her heel.
 
-Their blades touched, separated, touched. Hisae let the rhythm settle into her bones. Outside this fixed evening she had fought men with longer reach, women quicker than Jinsaku, desperate farmers who swung tools without any school's warning. She had learned from all of them. A shoulder could lie; weight rarely did. Eyes sought victory; feet revealed fear.
+The boy sucked in a breath.
 
-Jinsaku's feet revealed none. He believed the ring belonged under him. He believed a bargain could still mean what it had meant a breath ago.
+Hisae stepped inward rather than back. Her shoulder struck Jinsaku’s chest. For one instant their swords were useless between them. She hooked his guard with hers and turned him toward the west arc.
 
-Hisae drew him clockwise, away from her weak side. He resisted, then tried to reverse their places with the same hard bind he had used twenty years before. She slipped beneath it. The flat of her sword touched his sleeve before he spun clear.
+Jinsaku planted. Young legs stopped them both. He shoved free and gave her no room to finish.
 
-A murmur went through the witnesses.
+“You learned crowded work,” he said.
 
-Jinsaku's jaw tightened. He advanced with three cuts, rising, crossing, rising again. Hisae knew the fourth before his elbow turned. The descending stroke had followed her across every road of her life. In dreams it cut her down. Awake, beside cooking fires, she had answered it with broom handles, sticks, empty hands. She had perfected six counters and discarded five.
+“Ship decks leave no room.”
 
-She stepped closer instead of back.
+“Where were you?”
 
-His sword fell. Hisae caught it at an angle, turned beneath his arms, and guided his force past her shoulder. Her hilt struck his guard. Before he could recover, she was at his side with her point commanding the space ahead of his chest.
+“North first.”
 
-Jinsaku retreated. One step. Two. His heel landed on the bundled rushes.
+He cut toward her left shoulder. She slipped outside it.
 
-The court erupted in warnings.
+“How long?”
 
-Hisae saw surprise in his face. Behind it she saw the boy who had climbed the storehouse roof with her, the young man who had asked for only one winter because asking for more would have made refusal easy. She also saw the edge of the ring beneath his heel. One clean drive and she would win. Rice, salt, sandals, silence. The village would owe her release after she had cost it twenty years.
+“One winter.”
 
-He shifted his weight to spring left.
+“That accounts for one.”
 
-Hisae lunged to close the path.
+He advanced behind a straight thrust. Hisae redirected it and moved clockwise, keeping her right leg away from the hard turn.
 
-Her mind measured the distance with a twenty-eight-year-old body. Her right knee locked halfway through the step.
+“Then the coast,” she said.
 
-The court tilted. Her sword point dropped. Jinsaku moved left as she had known he would, but knowledge without a leg under it was only another way to fall. He caught her blade against his guard, turned his wrists, and used the momentum she could not stop.
+“How long?”
 
-Hisae's sword spun from her hand. It crossed the bundled rushes and struck the packed earth beyond with a hard, final sound.
+“Long enough.”
 
-She landed on one knee. Pain swallowed the lower half of her body. Jinsaku stood over her, breathing fast, his point lowered but not touching her.
+“Not a number.”
 
-No one spoke.
+“It’s the answer I have.”
 
-Hisae looked at her sword outside the ring. Then she looked past it to the road.
+He changed direction so abruptly that she had to load the right knee. Pain lit beneath the kneecap. Hisae’s breath caught. Jinsaku heard it and struck high, forcing her weight to remain there.
 
-Her pack was still within reach. The boundary had admitted her once. She did not know whether it would let her out, but her body had never required certainty before choosing an exit.
+She caught the blow. The knee held.
 
-She pushed upright and took one step toward the post.
+“You’re answering around me again,” he said.
 
-Behind her, the mill wheel's splash stretched thin. The witnesses' breathing faded. A husk of chaff stopped a handspan above the ground.
+“Side paths kept me alive.”
 
-She took a second step.
+“Not this village.”
+
+Hisae shoved his blade away. “Your fence needed lessons. I needed a life with no gate on it.”
+
+“The north fence needed twelve people who could hold until help arrived.” Jinsaku pressed again, exact and unsparing. “One winter. Then the road, with food under your arm.”
+
+“One dead master had been enough.”
+
+“I was asking you to teach, not kneel.”
+
+His sword found hers with a crack that numbed two fingers. Hisae gave ground. She had remembered his speed but not what it demanded from the lungs. Her next breath scraped. The fixed sun laid sweat-bright copper across his face while hers cooled under white hair.
+
+Jinsaku saw the breath go wrong. He did not rush. He took the center and made her circle the greater distance.
+
+That choice angered her more than an attack would have. It was the same practical patience with which he had once repaired split buckets while she described places she intended to see. He did not need to chase. He made the available space do the work.
+
+Hisae stopped circling.
+
+Jinsaku stepped in. She parried once, twice, then gave him the opening above her left shoulder.
+
+He recognized it. Of course he did.
+
+His first cut rose from the hip. The second crossed, driving her guard outward. His foot came down on the same patch of packed earth as twenty years before. His elbow opened for the descending fourth stroke, the cut she had carried unfinished through half a life.
+
+Hisae had answered it with broom handles in rented courtyards. With an oar on a becalmed deck. With a stick beside a winter fire until the snow around her boots turned to mud. At first she had practiced defeating Jinsaku. Later she had practiced defeating the instant in which she had chosen the road over being seen to lose.
+
+The blade descended.
+
+She did not retreat.
+
+Hisae entered beneath his hands. Her guard caught his close to the hilt; her turn sent the weight of his cut past her instead of stopping it. Before he could recover, she drove her shoulder under his sword arm and brought her own blade across the space in front of his chest.
+
+Jinsaku had to step back.
+
+She followed with one short cut. He caught it, but the catch cost him another step. His left heel reached the eastern rush.
+
+The woman beside the boy moved left for a clear view. “One foot on the braid,” she called.
+
+Jinsaku shifted to escape along the ring. Hisae was already there. Twenty years of watching feet had shown her the turn in his hip before he chose it. She closed the side path and forced him straight back.
+
+His left heel crossed the rush. His right remained inside.
+
+One more step would give her both.
+
+Hisae could end the winter before it began. She could take the promised rice and salt, lift the pack she had aimed toward the road, and leave with a victory no one could call flight. The village would have its night. Jinsaku would have to name her winner.
+
+He lowered his weight to drive right.
+
+Hisae saw the movement early. Her answer was perfect.
+
+Her body was not the body that had invented it.
+
+She lunged to seal his last angle. The distance belonged to her twenty-eight-year-old stride. Her right foot landed too far forward, and the old knee locked with a blunt shock. Strength vanished from the leg. Her point dipped before she could command it up.
+
+Jinsaku abandoned his intended turn. He caught her falling blade against his guard, rotated the bind, and stepped past her weakened side. Hisae tried to release and recover, but two numb fingers closed a fraction too late.
+
+Her sword tore free.
+
+It spun once through the copper light, crossed the western rush, and struck the earth just inside the boundary post.
+
+Hisae fell to her right knee. Pain rose white and immediate, then settled into a hard pulse. Jinsaku’s point stopped below her collarbone without touching cloth.
+
+No one mistook the result.
+
+“Sword out,” he said, breathing hard. “Name it.”
+
+Hisae looked at her weapon.
+
+Beyond it waited the open straps of her pack. One step would take her outside the ring. Three would take her to the village edge. Only she had been able to enter; perhaps she could leave again. She did not need to know before moving. Certainty had never been part of an exit.
+
+She stood, favoring the right leg, and walked west.
+
+The boy began to say something. His first sound stretched thin. The woman’s reaching hand slowed. Jinsaku’s next breath took too long. Copper light sharpened on the boundary stakes.
+
+Hisae reached the sword but did not pick it up. Her pack was an arm’s length beyond the post. Rain whispered in the dark pines outside. She could shoulder six days of food, find the new road by morning, and let the village keep the single breath in which it had last known her.
 
 “Hisae,” Jinsaku said.
 
-He did not order her back. That would have been easier to resist. He stood in the ring with the winning sword and waited for her to decide whether his victory existed.
+She did not turn.
 
-The copper light sharpened along the road. Hisae saw herself cross it: seize the pack, run through dark woods, find the new road before dawn. Behind her, Jinsaku would remain twenty-seven. The woman would keep her half-finished breath. The boy would balance forever on hands that never reached the earth. Hisae could grow old carrying all of them, and they would never gain so much as another instant in which to hate her.
+“The result. Nothing else.”
 
-She turned around.
+Hisae’s hand rose toward the pack strap. She saw its prepared loop, the clean pull northward, the gap between two pines. Every useful angle led away.
 
-Crossing the court hurt more than the lunge had. Jinsaku watched her limp back between the rushes. Hisae stopped in the center, where every witness could see her empty hands.
+Behind her, five people in the court were running out of motion.
 
-“Jinsaku won the bout,” she said. Her voice came out rough, so she said the rest without trying to mend it. “I owe the village one winter.”
+She lowered her hand.
 
-For a heartbeat, nothing changed.
+The walk back to the ring was six paces. Her knee made each one separate. She crossed the rush without her sword and stopped before Jinsaku.
 
-Then the sun fell.
+He waited.
 
-Darkness rushed across the court. All the chaff came down at once, filling mouths and hair. The mill wheel slammed through the water waiting beneath it. Somewhere a kettle shrieked and boiled over; someone cursed as hot water reached a fire. A loose roof tile completed its fall and shattered in an alley. The boy sneezed so violently that the field worker beside him began to laugh.
+“Jinsaku won,” Hisae said. She made herself look at the witnesses rather than the road. Each was still turned toward the ring, each living attention caught on what she would do. “I lost the bout. I will stay the winter.”
 
-The laughter stopped when they saw the stars.
+The sun dropped.
 
-No lamps had been lit. People stumbled toward their houses, calling for flint, children, buckets. The cookfire smoke, freed from its straight line, flattened beneath the night breeze. It smelled of supper. Bowls abandoned during the duel still held warm rice.
+Not slowly. It slipped behind the ridge as if a hand had released a weight. The court went from copper to blue-black in one breath. Chaff fell into eyes and open mouths. The millrace’s clear curve collapsed onto the wheel and flung spray across the yard. Somewhere behind the houses a kettle boiled over with a furious hiss. A roof tile completed its fall and broke. The boy’s clay cup hit the earth and bounced intact.
 
-Jinsaku sheathed his sword. He did not offer Hisae a hand.
+The boy sneezed. The woman caught him by the collar before he stumbled into the ring, then let go and stared upward.
 
-She retrieved her own blade from beyond the ring and wiped dirt from it with her sleeve. The boundary post stood where it had stood, but the air beside it no longer had a surface. The clay bead lay in the road.
+Stars stood where the sun had been.
 
-The first lamp showed faces turned toward her.
+One field hand ran to the millrace because the wheel had begun knocking. The other stepped through the village boundary, saw the pines rooted in the lower fields, and dropped to touch one as if bark might be a disguise. The woman thrust the winnowing basket at Hisae.
 
-“Tell them,” Jinsaku said.
+“Hold this.”
 
-Hisae gave the date.
+Hisae held it. The woman dragged a smoking pan away from the cookfire before its spilled oil reached the wall.
 
-Denial came before questions. One man insisted she had counted wrongly. The woman with the clay beads gripped Hisae's sleeve and asked about the farm where her married daughter lived. A field worker demanded to know who had harvested the upper terraces. Someone asked whether the old bridge still stood. Someone else named the dead lord, then named three neighboring headmen Hisae had not thought about in years.
+Jinsaku sheathed his sword. He looked at Hisae’s swollen knee, then at the bucket beside the well.
 
-She knew two were dead. She did not know about the third. The bridge had gone down in a spring flood. The upper terraces were pines now. The nearest market had moved east to meet the post road. She answered until every answer uncovered two more losses.
+“Can you carry?”
 
-At last Jinsaku cut through them. “Enough. She doesn't know every grave between here and the sea.”
+“Yes.”
 
-His anger had not cooled; it had changed tools. He sent people to check the wells, the storehouses, the animals, the west footpath. He ordered lamps kept away from the roofs until they knew what twenty dry years had done outside the held ground. Some obeyed. Some continued staring at Hisae. The woman released her sleeve and walked toward the boundary without waiting for permission.
+“Then water. That roof first.”
 
-Hisae found the apology she had carried through twenty winters.
+Hisae carried. The right leg protested every return from the well, but the sparks died before they reached the dry eaves. When the mill wheel jammed, the field hand shouted for a pry bar and Jinsaku went to help him. The boy found the clay cup he had dropped one breath earlier and discovered moss growing on the outside wall beyond the court. He scraped it with one fingernail until his mother pulled him back.
 
-“Jinsaku.”
+At last someone lit a lamp. Faces gathered and separated in its small circle.
 
-He was examining the broken tile by lamplight. “What?”
+“What year?” the woman asked.
 
-“I am sorry.”
+Hisae told her.
 
-He set the pieces aside. “That isn't the winter.”
+The woman sat down on the well curb without looking for it. “My daughter married beyond the south bridge.”
 
-“I know.”
+“The bridge went in a flood,” Hisae said.
 
-“Do you?” His face was the face she remembered, but the question in it had aged. “You had years to make that sentence. I haven't had an hour.”
+“Her farm?”
 
-Hisae let the apology remain where it had landed. “What do you need before morning?”
+“I don’t know.”
 
-Jinsaku looked toward the dark road. Three villagers stood beyond the post now, touching trees grown thick in what they remembered as a field. Their voices carried fear back through the open boundary.
+The field hand who had touched the pine came back through the open boundary. Resin marked his palm. “Those are our lower terraces.”
 
-“A way to the new road,” he said. “News we can trust. We need to know who owns the lower land, whether anyone will call us thieves for waking in our own houses, and where to send those who go looking for kin.” He rubbed the back of his sword hand, where Hisae's earlier tap had raised a red mark. “Sword lessons can wait a day.”
+“They were,” Hisae said.
 
-“My maps are outside.”
+“How long to grow a trunk like that?”
 
-“Of course they are.” His gaze found the pack positioned for a quick departure. “Bring them in.”
+“Twenty years will do it.”
 
-Hisae crossed the post and lifted the pack. It seemed heavier than it had at sunset. The straps held food for six days, oilcloth, a whetstone, two shirts, and every careful provision for leaving again.
+The boy looked offended by the answer. “Where did the road go?”
 
-She carried it back into the threshing court.
+“East. A new one.”
 
-On the boards beside the first lamp, she unrolled the surveyor's map. It did not show the village. A blank stretch of hills lay where its fields and houses should have been. Jinsaku stared at that absence while people gathered behind him, asking which roads remained and which names on the paper meant anything.
+“Show me.”
 
-Hisae put one finger on the old road beneath their feet and another on the new road to the east.
+“Not in the dark.”
 
-“At first light,” she said, “I will lead whoever you choose from here to here. Then we start finding the rest.”
+“First light, then.”
 
-Jinsaku studied the distance between her fingers. He did not forgive her. He nodded once and began choosing who would walk with them.
+Before Hisae could answer, Jinsaku did. “First light.”
+
+He took the basket from her and set it under the eaves where no one would trip over it. A red bruise had risen across his sword wrist where she had struck him.
+
+She retrieved her sword and pack from the road. Nothing stopped her at the former boundary now. When she returned, she carried both through the western stakes and put the pack against the court wall, straps turned inward.
+
+Jinsaku looked once at the inward-facing straps.
+
+“The winter starts tonight,” he said.
+
+“What is first?”
+
+“Sleep, if anyone can. At dawn, the road. After that, we find out which walls are still ours.”
+
+“I have a surveyor’s map.”
+
+“Does it show us?”
+
+“No.”
+
+“Then it is wrong in one useful place. Bring it.”
+
+He took up the pry bar and went back to the mill wheel.
+
+No one slept much. Pots had to be taken off fires, animals calmed, lamps found, and one cracked shutter wedged against the night wind. People crossed and recrossed the former boundary just to prove that their feet could. Questions followed Hisae between small tasks. She answered the ones she could and said “I don’t know” more often than she had on any road.
+
+Near dawn, she unrolled the map on an overturned grain bin. It showed the eastern post road, two surviving streams, and a blank wooded slope where the village stood. The woman whose daughter had lived beyond the south bridge came with a walking staff. The field hand with resin on his palm brought rope and an axe. Neither waited to be chosen.
+
+Jinsaku arrived last. He had bound his bruised wrist, and he carried no sword.
+
+Hisae left her pack against the wall. She took the map, water, and her sheathed blade. When she stepped through the western stakes, three sets of feet followed.
+
+Beyond the pines, the first washout had eaten half the old track. Hisae tested the uphill edge with her heel. Loose soil ran into the hollow.
+
+“Not there,” Jinsaku said.
+
+“It holds if we cross one at a time.”
+
+“The woman goes first. You brace below.”
+
+Hisae looked for the easier angle, found it, and moved down the slope. “Put your foot beside mine,” she told the woman. “Then take the root above my shoulder.”
+
+The woman did not thank her. She crossed.
+
+Jinsaku came next. He studied Hisae’s right leg, chose his own hold, and passed without touching her. On the far side he turned east, toward country that had taken twenty years from him in a night.
+
+“How far to the new road?” he asked.
+
+“Two ridges. We can reach it before noon if this line stays open.”
+
+“If it closes?”
+
+“There’s a lower path.”
+
+“Show us this one first.”
+
+Hisae raised a pine branch and held it until the others had gone beneath. Then she faced east and led them into the morning.

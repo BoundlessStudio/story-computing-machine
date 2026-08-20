@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: Angel is a story-local self-identification, not a universal taxonomy; the wife's warmth remains limited, non-compulsive, and non-curative.
+- Notes: Angel is the wife's story-local self-identification, not a universal taxonomy or divine hierarchy; her warmth remains non-compulsive and non-curative, and the grieving guest remains grief-struck.

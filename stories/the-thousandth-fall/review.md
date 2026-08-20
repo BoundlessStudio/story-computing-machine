@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Cavori | new | Protagonist, addressed as Brother Cavori; no exact, alias, close-spelling, or confusing reuse found in relevant canon, the frozen legacy baseline, locked legacy prose, or passing current reviews. |
+| Cavori | new | Monk-healer protagonist; no exact, alias, close-spelling, phonetic, or confusing reuse found in relevant canon, the frozen legacy baseline, locked legacy prose, or passing current reviews. |
 
 ## Places
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: Cavori's self-healing and adaptation remain a new local mechanism supplied through his living agency, with risks and safeguards kept story-specific.
+- Notes: Cavori's unmarked rescue plunge is the thousandth fall; his locally observed self-healing remains under living agency, and the rope team retains necessary rescue agency.

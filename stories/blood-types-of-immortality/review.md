@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Quenril Seln | new | Adult apothecary, record-keeper, and collaborator; `Quenril` is the in-story short form. No exact, alias, close-spelling, or confusing reuse was found in authority, the legacy baseline or locked stories, or passing current inventories. |
+| Quenril Seln | new | Adult apothecary and co-investigator, called `Quenril`; no exact or alias reuse. The near forms `Gwen`, released baseline `Ilya Sen`, baseline `Tamsin Quill`, and current `Nemi Quell` remain readily distinguishable by full form and story-facing use. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Red Notch | new | Mountain pass containing the sorcerer's chamber and assay ledge. No exact, alias, close-spelling, or confusing reuse was found; it remains distinct from the Black Shoulder, the Coldmouth, and Qarsis. |
+| Red Notch | new | Mountain pass containing the sorcerer's chamber and assay ledge; no exact, alias, close-spelling, phonetic, or confusing place-name reuse found. |
 
 ## Continuity
 
@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: Pre-review passed structure and two declared nouns with no exact-declaration warnings. The living-powered, story-local blood-working sustains the immortality-to-compatibility discovery, the six-sample assay supports a provisional four-pattern prediction without claiming a complete theory, Quenril retains independent contractual and experimental agency, and the consequence-grown ending materially satisfies the prospective craft profile.
+- Notes: The five-day, six-source assay preserves donor consent and finite custody, keeps every device dependent on the sorcerer's awake living agency, and supports four provisional directional profiles plus the covered final prediction without claiming a complete theory or achieving immortality. Quenril's procedural leverage and the narrator's metaphysical ambition remain distinct through the final exchange.

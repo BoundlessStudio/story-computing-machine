@@ -7,424 +7,454 @@ canon: false
 
 # The Name I Kept
 
-At one seventeen in the morning, your mother calls your older sibling a failure for the third time on television.
+Dryer eight says disgrace every twenty-three seconds.
 
-The laundromat television has no sound. It hangs in a cage over the change machine, captions crawling beneath Crownfire's composed face. Her gold collar catches the studio lights. Your father sits beside her in the dark uniform he wears when he wants to look less like Palisade and more like a grieving parent.
+The word crawls beneath your mother's face on the television bolted above the change machine. Then the dryer turns, the brass buckle in Auden's work trousers knocks once against the glass, and Crownfire says it again in white block captions.
 
-WE LOVE OUR ELDEST CHILD, the captions say. LOVE DOES NOT REQUIRE US TO EXCUSE DISGRACE.
+DISGRACE IS NOT A WORD WE USE LIGHTLY.
 
-You set the blue laundry sack on a folding table hard enough to rattle its wire legs.
+Knock.
 
-"Careful," Veyra says behind you. "There's a mug in the side pocket."
+BUT A FAMILY OF HEROES MUST BE HONEST ABOUT FAILURE.
 
-You turn. They stand just inside the glass door with rain on the shoulders of their gray coat. The laundromat's white light makes them look tired in a way daylight usually forgives. Their hair needs cutting. Their left hand is wrapped around a roll of quarters, and their right stays buried in their pocket.
+Knock.
 
-You pull out the mug. It is chipped at the handle, not broken. "Why do you put a mug in with your clothes?"
+You reach for the dryer door. Auden catches it before you can wrench it open.
 
-"Because you keep forgetting to bring one when you visit." Veyra takes it from you. "And because it irritates you. I have few luxuries now."
+"It's locked during the cycle."
 
-They say it lightly. That is the first test.
+"I know how dryers work."
 
-You used to answer their lightness with your own. A joke could cover anything in your family: a missed birthday, a cracked rib, a camera waiting outside the emergency entrance. Tonight the joke catches against the words still moving across the screen.
+"You just tried to peel one."
 
-"You saw it," you say.
+Their sleeve has ridden up. Pale burn scars ladder the inside of their wrist, old marks from carrying force through a body not built to keep it. You look away first. Auden lets go of the handle and drops two more quarters through the slot.
 
-Veyra looks up at your mother, then at the dryers turning in a row. "Hard to miss. She has excellent posture."
+The loading shift starts in three hours, and Auden owns two pairs of trousers fit to wear there. One is turning behind the glass. The other lies across the folding table with a streak of machine grease down the thigh. Auden has been working detergent into it with a toothbrush whose bristles have gone black.
 
-"She called you a disgrace."
+On the television, your father lowers his head by exactly the amount that means Palisade is grieving for the cameras.
 
-"That part is easier to miss after a while. Sounds like weather."
+"Turn it off," you say.
 
-They take the laundry sack to the machines at the back, where the television is hidden by a square pillar. You follow. The bag holds the clothes you washed for them last week when half the machines here were out of order: dark shirts, work trousers, two towels, one fitted sheet you folded badly. Veyra tips everything onto a table.
+"Remote disappeared in winter."
 
-"Shirts together," they say. "Trousers flat. And stop crushing the collars."
+"I'll unplug it."
 
-"They're clean."
+"Same socket as the change machine. I need another dollar."
 
-"Clean things can still be mistreated."
+You put the blue laundry sack on the table. It contains the shirts and towels Auden left with you last week, washed in the machines at the family house because the laundromat's cold-water line had failed. You have folded everything badly on purpose. Usually Auden notices, says something, and you get five minutes in which the worst problem between you is a sleeve trapped inside itself.
 
-That is the second test. Practical correction means they are willing to let you stay.
+Tonight they lift the top shirt, shake it once, and fold it again without comment.
 
-You sort the shirts the way they taught you when you were small enough to believe Rampart could hold up anything forever. Seams matched, sleeves crossed, fold in thirds. Veyra turns the fitted sheet into a neat rectangle without looking at it.
+"Mother used the whole sentence this time," you say. "Failure and disgrace. Father agreed."
 
-Your right wrist gives when you lift the towels.
+"Mm."
 
-Their hand closes around your forearm before the towels hit the floor. They push your sleeve back. The skin above your glove line is swollen and yellowing.
+"They knew I was watching from the greenroom."
 
-"Training?"
+Auden turns the shirt so its buttons face inward. "Blue towel in there?"
 
-"A rescue."
+"At the bottom."
 
-"Did you have it scanned?"
+"I need it before the whites."
 
-"It's fine."
+"Did you hear me?"
 
-Veyra bends your hand gently toward your thumb. Pain flickers up to your elbow. You pull away.
+"The television is six feet away, Mica."
 
-"That's not fine."
+Their tiredness infuriates you more than anger would. You yank the sack open and drag out the towels. Your right hand gives under the weight. A hot thread runs from the heel of your palm to your elbow; you lose your grip, and a gray shirt slides onto the tile.
 
-"Mother said swelling photographs badly. If I brace it, they'll ask questions tomorrow."
+Auden looks at the shirt. Then at the hand you tuck beneath your opposite arm.
 
-Veyra's mouth goes still. "What happens tomorrow?"
+"Show me."
 
-You should have begun there. Instead you straighten the towels and feel the hot, useless shape of your anger expanding inside your chest.
+"It's nothing."
 
-"Another live interview. Midday. They want me between them this time."
+"Use that one to pick up the shirt, then."
 
-"Of course they do."
+You don't move. Auden leaves the grease-stained trousers soaking and holds out their hand. They do not ask twice. They never had to when the two of you were children, before Rampart became the person in the family photographs whose face strangers now cover with their thumbs.
 
-"Father sent me the approved answers. If they ask about you, I'm supposed to say the family remains united in its values."
+You surrender your wrist. Their fingers travel around the swelling without pressing it, measuring heat and shape. When they rotate your palm a fraction, pain flashes hard enough to whiten the room.
 
-Veyra picks a loose thread from the fitted sheet. "Will they ask?"
+"When?"
 
-"They arranged for them to ask."
+"Roof collapse yesterday. I caught a beam badly."
 
-"Efficient."
+"Scan?"
 
-"Stop doing that."
+"Mother wrapped it."
 
-"Folding?"
+"That wasn't the question."
 
-"Pretending it doesn't hurt."
+"The medic wanted me out for a week. We have the memorial broadcast tonight."
 
-They look at you at last. Their face is not empty. You have simply become skilled at mistaking exhaustion for calm.
+"So Crownfire wrapped it."
 
-"What would you like me to do instead?" they ask. "Throw the mug? We established it has sentimental value."
+Auden opens the laundry sack again, finds the clean blue towel, and folds it lengthwise into a sling. Their knot is ugly but secure. They push your forearm against your ribs and tighten it until you stop trying to carry the hurt by muscle alone.
 
-"Be angry."
+"If your fingers go numb, loosen it," they say.
 
-"I am angry. You just don't get to schedule the performance."
+"You sound like the medic."
 
-The machines hum around you. On the other side of the pillar, the television changes to an advertisement; a bright jingle bleeds through its damaged speaker for half a second before the sound cuts again.
+"The medic was right."
 
-Veyra releases the sheet. "Did you come to hear me, Mica, or did you come to empty your guilt somewhere it won't stain the uniform?"
+The interview cuts to footage of the bridge: four passenger cars hanging over black water, caught in a shallow silver curve that the camera barely saw. Your mother's voice is still muted. The caption supplies it.
 
-Their use of your name lands more sharply than disgrace ever could. Your parents use it for introductions. Veyra uses it when they need you to stop moving.
+ONE TERRIBLE DECISION CANNOT BE ALLOWED TO DEFINE HEROISM.
 
-"I defended you tonight."
+Auden turns back to the stained trousers.
 
-"At home?"
+You say, "I told them to stop."
 
-"Yes."
+The toothbrush pauses.
 
-"In the room with the three people who already know what happened."
+"Tonight," you add. "At the house. I told them what they were saying was a lie."
 
-"I told them they were lying. Father said I was being emotional. Mother asked if you'd put me up to it."
+"Who was there?"
 
-"I didn't."
+"Mother. Father. Me."
 
-"I know that."
+"Bold room."
 
-"Do they?"
+"Don't."
 
-"What does that matter?" Your voice rises. At the front of the laundromat, a man asleep across three plastic chairs shifts and pulls his cap lower. You force the next words through your teeth. "I'm done. I won't go tomorrow. I'll quit the team tonight. They can keep the crest, the house, all of it."
+"Pass the powder."
 
-Veyra puts both palms on the folding table. "No."
+You slap the cardboard detergent box onto the table. A white puff coats your black sleeve. Auden waits for you to brush it away, then takes the box.
 
-You had imagined resistance. You had prepared answers for worry, gratitude, even the hard relief of being believed. The flat refusal knocks them all loose.
+"They put the question in tonight's rundown," you say. "I'm supposed to tell the audience that the family is united. After that, I am supposed to stand between them while they read the passenger names."
 
-"You don't decide that."
+Auden tips powder into the sink. "Then don't say it."
 
-"No, you do. But you don't get to put the decision in my hands and call it loyalty."
+"I'm not going at all."
 
-"That's not what I'm doing."
+That gets their eyes off the trousers.
 
-"Then why are you here announcing it to me before you've done anything?"
+"I packed a bag," you say. "It's in the car. I can be out before breakfast. No team, no house, no crest. Let them explain why they lost both children."
 
-"Because you're my sibling, and I thought you might want to know I won't stand next to them while they say those things."
+Auden sets down the box. "Put the bag back."
 
-Veyra pushes the quarters into two short stacks. Ten in each, edges aligned. It is what they do when they need their hands to obey.
+"You don't get to order me home."
 
-"If you walk out tonight," they say, "they will say I poisoned you against them. You will lose your home and your work, and every time you hate it, I will wonder whether you hate me too. They'll have two exiles instead of one, and they'll still have the story."
+"Correct. Put it wherever you like. Don't leave it on my floor."
 
-"So I should smile tomorrow?"
+"I didn't ask to move in."
 
-"I didn't say that."
+"You came here at one in the morning to tell me you're about to blow up your life. Where do you imagine the pieces land?"
 
-"Then tell me what you want."
+"That is not fair."
 
-"I want you to stop offering me explosions because you're afraid of doing one precise thing."
+"No. Fair would have been you saying something while I still had an appeal."
 
-The dryers turn. A buckle taps a glass door with patient, regular clicks.
+The dryer buckle knocks. Neither of you looks at the screen.
 
-"What precise thing?"
+You lower your voice. A man dozing beside the front windows has shifted under his coat. "I was concussed at the hearing."
 
-Veyra studies you. "Say it where someone can disagree with you."
+"You were."
 
-"I say it here."
+"Father said they wouldn't call me."
 
-"Yes. Here, after midnight, behind a pillar, with a sleeping man for a witness. You tell me I saved those people. You tell me there was no other move. Then you go home, and Crownfire says a real hero would have found a way, and Palisade says my name like it belongs on a warning sign."
+"He did."
 
-"They'll destroy me if I contradict them in public."
+"Every statement went through the family's counsel. I was seventeen."
 
-"I know."
+"All true."
 
-The answer is not cruel. That makes it worse.
+You wait for them to finish the absolution. Auden scrubs at the grease instead. The stain spreads into a dark halo.
 
-Veyra picks up the mug and runs a thumb over the chip. "You are the only person I can talk to about that night. Not because you're the only one who still visits. Because you were there. You remember the whole choice. But being defended only in a locked room still leaves me alone everywhere that costs something."
+"And after?" they ask.
 
-Your wrist throbs in time with your pulse. You cradle it against your stomach.
+"I argued with them."
 
-"I was on the train," you say.
+"In bold rooms."
 
-"I remember."
+"I came here."
 
-"I almost died too."
+"You brought me socks."
 
-"I remember that part most clearly."
+"You wouldn't answer anyone else."
 
-The bridge returns in pieces whenever you let it. Rain boiling against torn electrical lines. Four passenger cars tilted past the edge of the broken track. Your shoulder pinned between two seats while the windows showed nothing below but river lights, far too small.
+"I didn't ask anyone else to remember it correctly."
 
-Veyra stood on the maintenance span beneath the first car. Both hands were raised, fingers open. Their barrier was invisible except where rain struck it and flattened, drawing the shape of a bowl beneath the train. Every time the cars shifted, their knees bent farther.
-
-Shearpoint had one hand on the surviving rail. Each pulse he drove into the steel loosened another brace. The sound came through the whole train, too low to hear cleanly. You felt it in your teeth.
-
-There had been no duel by then. No audience for the clean exchange of blow and counterblow. There was Shearpoint at one end of the span, Veyra under the train, and your own breath counting the intervals between pulses.
-
-"One point eight seconds," you say.
-
-Veyra's eyes close.
-
-Your suit had called the timing into your ear. One point eight seconds between the final two pulses. Eleven centimeters of drop after the first. The barrier had buckled under the rear carriage and then caught again.
-
-Veyra shouted across the span. *Stop. There are people in it.*
-
-Shearpoint looked toward the hanging windows. He saw you. You know he saw you because his head turned and held there for half a second.
-
-Then he pressed his palm down for another pulse.
-
-Rampart's gift had never been making walls. That was the simplified version painted on lunch tins. Veyra gave force a path. On the bridge, every path was already carrying weight. They could release the bowl beneath the train and strike him. They could keep holding it and let his next pulse shear the last braces. They could turn his force aside, but turning it required an edge, and every edge of their barrier was under one of the four cars.
-
-There was one open path. Straight back along the rail, through the man creating the pulse.
-
-Veyra took it.
-
-The train settled into the barrier instead of falling. Shearpoint struck the guardrail and did not rise. By the time the first car reached solid track, he was dead.
-
-You remember Veyra kneeling beside him after the last passenger was carried away. They did not touch him. Their hands hovered over their knees, shaking so badly they could not close them.
-
-"Father had the timing," you say. "He saw my suit log before he gave the first statement."
-
-"Yes."
-
-"Mother heard the recording. She heard you warn him."
-
-"Yes."
-
-"Then she stood in front of the cameras and said you chose anger over discipline."
-
-"Yes."
-
-Each yes removes another place for you to hide.
-
-"I should have spoken."
-
-"You were injured."
-
-"Not for three months. Not for the year after that."
-
-"They told you the hearings were over. They told you speaking would reopen everything."
-
-"And I let that be enough."
-
-Veyra's gaze shifts to the rain tracking down the front windows. "I can live with what I did, most days. That doesn't mean I think it was good. It doesn't mean I sleep through the night. A person died because I chose where to send the force. I chose."
-
-You start to speak, but they lift one finger.
-
-"Don't take that word away from me. No viable alternative is not the same thing as no choice. If I call it nothing, then his death becomes nothing too."
-
-The sleeping man coughs. A washer enters its final spin, quick and unsteady, then smooths into speed.
-
-"What I cannot live with," Veyra says, "is them insisting the proof that I never belonged in the family is that I refused to let the train fall. That I refused to let you fall. They can hate the outcome. I hate it. But they don't get to make saving you my disgrace."
-
-You press your left palm against the folding table until the pattern of its metal grid marks your skin.
-
-"Why do you still use Serrin?"
-
-The question escapes harsher than you intend. Veyra flinches anyway.
-
-"They took the suit, the crest, Rampart. They made the name into a weapon. Why keep giving them that?"
-
-"Rampart was theirs," Veyra says. "Serrin wasn't."
-
-"It's Father's name."
-
-"It was ours before it was a logo. Yours and mine. I knew you might stop coming. I knew they might make you choose, and you might choose the only home you'd ever had. I needed to keep one thing that still said we came from the same place."
-
-They give a short, embarrassed breath, almost a laugh. "It was a foolish reason."
+Auden drops the toothbrush into the sink. Suds stipple their knuckles. "You come after they put my face on a screen. You tell me they're cruel. I tell you your parents still love you. You go back steadier. I go to work. Is that what tonight is?"
 
 "No."
 
-"It was not legally or strategically sound."
+"Good. Then don't hand me your resignation and make me pick whether you resent me now or later."
 
-"Veyra."
+Your injured hand pulses inside the towel. With the other, you reach into your coat and take out a square of black ceramic no larger than a shirt button.
 
-Their eyes meet yours.
+The anger leaves Auden's face before any other expression replaces it.
 
-"You kept it for me?"
+"Where did you get that?"
 
-"I kept it because it was mine," they say, careful now. "But part of mine was you."
+"My impact buffer. From the bridge."
 
-The anger in you changes shape. Until this moment, you have wanted to hurt your parents back. To leave a costume on the marble hall, break the family line in half, make them feel one fraction of the absence they assigned to Veyra.
+They know the suit pieces better than you do. Rampart used to check every latch before a family deployment because Palisade believed inspection looked nervous on camera. The ceramic square records six seconds on either side of a disabling impact: suit loads, collar audio, the family's shared structural model, whatever the forward lens can see. Your suit shed it into the lining when the first carriage struck Auden's field.
 
-That would still leave Veyra carrying the bridge alone.
+Auden wipes their hands on their coat, leaving two wet marks. "The board said your buffer was corrupted."
 
-You pull your phone from your coat and set it between the stacks of quarters.
+"The file entered into evidence was. This is the local original."
 
-"My suit retained the original buffer," you say.
+"How long?"
 
-Veyra does not touch the phone. "Father said all field records had been surrendered."
+You place it beside the detergent. "I found it six months ago."
 
-"The official set was. Mine makes a local copy for injury review. I found it when I was looking for a training sequence."
+Auden stares at the little square. Dryer eight knocks twice.
 
-"How long have you had it?"
+"Six months," they say.
 
-"Six months."
+"Father said reopening the finding would make things worse for you."
 
-Their face tightens. You do not explain. There is no explanation that would not ask them to soothe you.
+"And you believed him?"
 
-You unlock the phone and open the folder. A waveform, suit telemetry, a small view from the camera at your collar. The first frame shows rain and the torn interior of the passenger car.
+"No. I was afraid he might be right."
 
-"It has the one point eight seconds," you say. "The drop after the pulse. Your warning. My suit estimates what would happen if the support field shifted. And it recorded me saying I could see Shearpoint's hand on the rail."
+Auden picks up the grease-stained trousers and carries them to washer eleven. They feed the fabric through the round door without checking the pockets. That frightens you; they always check twice. Quarters strike the metal slot one by one.
 
-"You could release that tomorrow."
+"I brought it now," you say.
 
-"I could. I won't unless you want me to."
+"You brought it in a coat pocket. With lint."
 
-Veyra's attention moves from the phone to your face. The change is so slight another person might miss it. You do not. For the first time tonight, they are not braced against you.
+"I can put it out during the broadcast. The whole buffer. They can't call you a failure after people see—"
 
-"What are you asking?" they say.
+Auden slams the washer door. "No."
 
-"What can you bear to have shown?"
+"You haven't watched it."
 
-They sit on the edge of a molded chair. Together you go through the recording without sound first. At seventeen seconds, Veyra asks you to stop. The frame shows Shearpoint against the rail after the return strike, distant and still.
+"I was there for the original."
 
-"Not that," they say.
+"It proves there wasn't another way."
 
-"Not that."
+"It records a man dying."
 
-You trim the view before impact. Keep the suit diagram and the timing. Keep Veyra's warning, but not the sound they make afterward. No footage of Shearpoint's body. No footage of Veyra kneeling. No triumphant music, no slowed replay, no caption claiming a clean victory.
+The dozing customer lifts his head. Auden waits until he turns toward the television again.
 
-"Your statement," Veyra says. "Only what you saw. Don't say everyone was saved. He wasn't."
+"And it records me afterward," they say more quietly. "Doesn't it?"
 
-"I will say the passengers were saved. I'll say you saved me."
+You nod.
 
-Their jaw works once. "All right."
+The clip ends with Auden on their knees beside Shearpoint. You have never played that part with sound.
 
-You type while they watch.
+"You don't get to broadcast that because you're angry at Mother."
 
-*I was in the lead passenger car. I witnessed the final two seconds. Veyra Serrin was supporting all four cars when Shearpoint initiated another structural pulse. The field record shows that releasing or redirecting support would have caused the train to fall. Veyra warned him. He continued. Veyra returned the pulse along the sole path that preserved support beneath the train. Shearpoint died. That death matters. It is also false to say Veyra acted from rage, or that another viable rescue was available in the time remaining.*
+"I wasn't going to—"
 
-Below it, you write your full name.
+"You said the whole buffer."
 
-Mica Serrin.
+"Then tell me which part."
 
-"Still yours?" Veyra asks.
+"I said no."
 
-You remember their answer and give it back. "It was ours before it was a logo."
+The washer drum lurches once and stops. A red imbalance light begins to blink. Auden presses start. The motor complains, turns half a revolution, and gives up.
 
-This time their almost-laugh becomes real, though it lasts only a second.
+"You left the buckle fastened," you say.
 
-You schedule nothing. You send nothing. You hand Veyra the phone and let them read every word twice. When they return it, they hold on for a moment.
+"I know."
 
-"Go tomorrow," they say.
+"It catches the fabric on one side. You taught me that."
 
-"I was planning to."
+"Not now, Mica."
 
-"No explosions."
+You open the washer. With one working hand, you struggle to free the wet trousers from themselves. Auden watches you fight the weight for three seconds, swears under their breath, and steps in. Together you unhook the buckle, shake out both legs, and arrange them around the drum.
 
-"One precise thing."
+When the machine turns smoothly, Auden sits on the molded chair between washers ten and eleven. They hold out their palm.
 
-"Then call me after."
+"Let me see it before I decide."
 
-"Will you answer?"
+You have an adapter in the detergent box. The ceramic square clicks into it, and your phone fills with numbers too small for the screen. You enlarge the field diagram and set the phone on Auden's knee.
 
-Veyra looks at the folded clothes, the chipped mug, the two stacks of quarters. "I always have."
+The first image is the inside of the lead carriage tipped toward the river. Rain needles through a broken window. Your own breath rasps close to the collar microphone.
+
+Auden drags the playhead to the fourth structural pulse.
+
+Time remaining: 1.76 seconds.
+
+The train drops eleven centimeters. The suit marks each carriage in red. Beneath them, Auden's support field flares from eighty-nine percent load to ninety-seven.
+
+Through the window, the surviving rail glints. Shearpoint is a narrow figure at its far end, one palm laid flat on the steel. His first three pulses have split the braces below him. The fourth is gathering under his hand.
+
+The phone speaker gives you Auden's voice, raw with strain. "Take your hand off the rail."
+
+Shearpoint looks toward the hanging carriage. Toward you. He drives his shoulder down.
+
+The field diagram changes. Auden can release the train and strike across open air. Four red boxes fall. They can turn the new pulse into either edge of the support field. Two cars roll out of the bowl. They can delay. The broken brace reaches terminal shear before the next full heartbeat.
+
+One route stays green: back through the rail carrying the pulse, to its source.
+
+You remember the next part without the screen. Auden's hands closing. The tremendous stillness when the carriage stops dropping. Shearpoint flung from the rail, not bloodied in your view, only suddenly loose. The sound Auden makes when they understand he will not rise.
+
+Auden stops the clip before the return travels.
+
+"Again," they say.
+
+You play it again.
+
+On the third viewing, they point to the transfer log in the corner. Two devices opened the full upload at three fourteen the next morning. The damaged file did not enter evidence until four hours later. One device belongs to Crownfire. One belongs to Palisade.
+
+"They saw all the routes," you say.
+
+"They saw the estimates."
+
+"They heard you warn him."
+
+"Yes."
+
+Auden rubs a thumb against the phone's cracked edge. "Do you remember what you said to me in the ambulance?"
+
+You remember asking whether the two of you had killed him. You were drugged, shivering, your shoulder strapped flat. Auden answered, *No. I did.*
+
+"You wouldn't let me take any of it," you say.
+
+"It wasn't yours."
+
+"Neither is what they've done to you. I keep coming here as if hearing me say that changes where you have to wake up."
+
+They glance at the dryer clock. Eleven minutes. "It changes some things."
+
+"Not the expensive ones."
+
+"No."
+
+You open a blank statement on the phone. Your first sentence is: *Auden had no choice.*
+
+They cross it out with one hard stroke of your finger.
+
+"I sent it back," they say. "Keep me in that sentence."
+
+"There was no other move."
+
+"There was no way to spare him and keep the cars up. I sent it back anyway. I knew where it would go. If you turn that into a machine accident, don't use the recording."
+
+So you start again.
+
+You write only what your collar lens and your own eyes establish: the eleven-centimeter drop; the 1.76 seconds; the support load; the warning; Shearpoint's hand staying on the rail; the one route that did not drop a carriage. You write that Auden sent the force back. You write that Shearpoint died because of it.
+
+When you type *saved everyone*, Auden deletes the word *everyone*.
+
+"The passengers," they say.
+
+You write *the passengers, including me*.
+
+Auden allows three seconds of video. No impact. No body. No ambulance. Their warning and the field diagram end on the final green route. They keep the transfer record showing your parents opened the data. They make you turn off comments on the original file even though copies will sprout them everywhere else.
+
+Under the eyewitness statement, you type Mica Serrin.
+
+At the bottom of the release form, they type Auden Serrin.
+
+You watch the surname appear. "You still use it on everything?"
+
+"Work insists on paychecks matching bank accounts. Very old-fashioned."
+
+"You could change it."
+
+"I could change my boots. These pinch too."
+
+"Auden."
+
+They look down at the form. The cursor blinks after the last letter.
+
+"The week they threw me out, you left six messages," they say. "My phone still sorted us together under Serrin. I left it that way."
+
+"You never called back."
+
+"I listened."
+
+You almost tell them you are leaving the family anyway. The packed bag waits in your car, one boot holding its zipper open.
+
+Instead you ask, "If I say this tonight, will you release the clip?"
+
+"If you say your part. Not mine."
+
+"What does that mean?"
+
+"Don't call me innocent. Don't say I had no hand in it. Tell them where you were and what you saw."
+
+"And after?"
+
+Auden rises when dryer eight buzzes. "After, you're going to a doctor about that wrist."
+
+They open the door. Warm work clothes spill against them, the loose buckle silent at last.
 
 ***
 
-At twelve fourteen the next day, you sit between Crownfire and Palisade beneath enough studio light to erase every shadow.
+At six that evening, your mother fastens the family crest over your heart because your right hand cannot manage the clasp.
 
-Your wrist is braced. The medic insisted after seeing you flex it badly in the corridor. Your mother noticed, frowned, then arranged your sleeve so the brace would not catch the camera.
+She smooths the fabric around it. "You look tired."
 
-The host asks the prepared question.
+"I was doing laundry."
 
-"After everything your family has endured, do you believe Veyra Serrin can ever return to the values you represent?"
+"Tonight you can sleep at home."
 
-Crownfire turns to the main camera. She does not hesitate.
+The packed bag is no longer in your car. You put everything back before dawn. If your parents send you away tonight, they will have to do it while you are standing there.
 
-"Veyra failed the people who trusted our crest," she says. "Until they accept that, inviting them back would teach every young hero watching that disgrace has no consequence."
+On set, Palisade takes your uninjured hand. Crownfire takes the one bound in a proper brace. To the audience, it will look like unity. The memorial wall behind you is paired to your suit relay for the rescue footage scheduled later in the program.
 
-Your father lays two fingers against your knee. A warning gentle enough for the wide shot.
+The host reads the prepared question about the bridge memorial and whether the Serrin family has found peace. Your father answers first. He speaks of standards. Your mother speaks of sorrow. Then the host asks whether Auden might ever deserve the crest again.
 
-You remove his hand.
+"A hero who kills because they fail to imagine another way has failed twice," Crownfire says. "Auden remains our child. Their choice remains a disgrace."
 
-"That's false," you say.
+The control room gives you the cue to agree.
 
-The host blinks. Your mother's smile remains in place, but all the warmth leaves it.
+"You watched the buffer," you say.
 
-"Mica," Palisade says, "this is not the time."
+Your father's grip closes around your fingers. "Mica."
 
-"It became the time when you arranged the question."
+"Both of you opened it at three fourteen the morning after the bridge."
 
-You face the camera. The lens looks smaller than it did in rehearsal.
+Your mother's eyes flick toward the producer off camera. Her smile stays where it is. "Grief can make memory feel certain—"
 
-"I was on the train. Veyra was holding four passenger cars above the river when Shearpoint triggered the last pulse. There were one point eight seconds to act. Letting go, delaying, or turning the force aside would have dropped us. Veyra warned him. He continued. They returned the force through the only path that kept the train supported."
+"Mine isn't the only record."
 
-"Cut," your mother says, no longer smiling.
+You touch the relay pad inside your braced wrist. Somewhere across the city, Auden has the release page open. You cannot make them press it. If they decide not to, you will speak without the clip.
 
-The red light stays on.
+The studio wall behind you changes from the memorial seal to the three seconds Auden chose.
 
-"Shearpoint died," you continue. "That is not easy, clean, or nothing. But Veyra did not act in rage. They saved the passengers. They saved me. Calling them a failure for that is a lie, and calling them a disgrace is something my parents do. It is not something I accept."
+Rain. A listing carriage. Red load marks. Auden's warning. Shearpoint lowering his shoulder. One green route and 1.76 seconds.
 
-Your father grips the little metal crest fastened over your heart. For a moment you think he means to pull you toward him. Then the two pins tear free of the fabric.
+The image freezes before anyone dies.
 
-The joined flame and wall lie in his palm.
+"I was in that carriage," you say. "The train had dropped eleven centimeters, and Auden was carrying ninety-seven percent of its load. Shearpoint began another pulse after they warned him. No path remained that spared him without dropping at least one car. Auden sent the pulse back to keep the cars up. Shearpoint died, and I am alive because they did it."
 
-"You no longer speak for this family," he says.
+Palisade says, very softly, "Stop now and you can come home."
 
-The light on your camera goes dark.
+The host hears him. So does the collar microphone.
 
-Across the set, the host's camera remains red for two more breaths.
+Your mother reaches for the crest. You cover it, and pain shoots through your wrist despite the brace.
 
-That is enough.
+"You may believe Auden should carry that death," you say. "They do. But you knew what happened when you called them a failure. You knew when you called them a disgrace. I won't repeat either word for you."
 
-By the time security walks you to the street, your statement and the selected telemetry are public. Veyra approved the final upload from the laundromat at dawn. Messages multiply across your screen too quickly to read: fury, disbelief, old accusations, people slowing the audio to measure the warning against the pulse.
+The red light on the main camera dies.
 
-None of it is justice yet. None of it gives Shearpoint his life or Veyra their sleep. Your parents have already issued a notice saying you are distressed.
+One side camera stays live long enough to show your father unfasten the crest. He does not tear it away. He presses the clasp, lifts the joined flame and shield from your uniform, and sets it face down on the table.
 
-The torn holes where the crest had been let cold air through your shirt.
+"Then you do not represent us," he says.
 
-You stand in the clear noon light and call Veyra.
+Your mother lets go of your hand.
 
-It rings once. Twice. Five times.
+By the time a studio guard returns your coat, the clip is everywhere. So are claims that it is forged, incomplete, stolen, proof of murder, proof of sacrifice. One message asks how a real hero spends 1.76 seconds. Another lists the train's passenger count as if Shearpoint can be subtracted without remainder.
 
-They answer on the seventh, but neither of you speaks at first. Traffic moves past. Someone on the opposite pavement recognizes you and raises a phone. You do not turn away.
+Nothing on your screen resembles acquittal. Auden does not answer your first call.
 
-"They took the crest," you say.
+Then a photograph arrives: washer eleven, red imbalance light blinking above its stopped drum. Under it, two words.
 
-"I saw."
+*Your fault.*
 
-"I kept the name."
+You go back to the laundromat in the uniform with two small holes over your heart. Three camera crews follow your car. You leave them on the pavement and walk inside where Auden is kneeling in front of the washer with one wet trouser leg over their shoulder.
 
-"I saw that too."
+They look at the bare place on your uniform where the crest used to sit. Their hand closes on the wet cloth. Then they point at the washer.
 
-Their voice frays on the last word. You look down at the blue laundry sack still in your hand. In the rush to leave the laundromat, you forgot to give it back.
+"Same trousers?" you ask.
 
-"I have your fitted sheet," you say.
+"Same buckle."
 
-There is a pause. Then Veyra says, with grave patience, "Did you fold it correctly?"
+"You fastened it again."
 
-"Absolutely not."
+"I was reading your messages."
 
-"Failure. Disgrace."
+"That is still not my fault."
 
-The laugh surprises both of you. It does not repair the bridge or the year of locked-room kindness. It does not have to.
+The cameras can see through the front glass. Auden sees them seeing, then points at the other side of the drum.
 
-"Don't hang up," you say.
+"Take that leg," they say.
 
-"I wasn't going to."
-
-You start walking. "Tell me how to fold it again."
-
-In public daylight, with their voice clear beside you, Veyra begins.
+You set your coat on the folding table and crouch beside them. With your good hand, you reach into the cold water.

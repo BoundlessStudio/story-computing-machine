@@ -7,332 +7,332 @@ canon: false
 
 # A Darkness Written Under Skin
 
-By the time Leora Sloane's number appeared above the licensing desk, the paper ticket had gone soft between her fingers.
+Leora Sloane arrived with three notices, a competency score of ninety-two, and the same bare-looking hands that had delayed her work credential for eleven weeks.
 
-She stood before anyone could call it twice. Around her, two hundred people waited beneath the upper gallery, their birthmarks moving in the hard white light whenever they shifted, scratched, or checked the clock.
+The licensing hall had given her a number. It glowed above the registrar's desk while she crossed the lower floor, past every kind of mark except her own.
 
-A courier's amber loops pulsed at his ankles, ready to quicken his stride. A woman near the doors had a fan of blue brine ink across one cheek; moisture pearled there despite the dry air. At the desk beside Leora's, a boy held out a forearm ringed with soot-black letters while an examiner tested the little pocket of silence he could make around his hand.
+Amber oil looped a courier's ankles and stirred when he bounced one heel. A child's milk-sap whorls tightened around his own wrist when his mother took his hand. At the next desk, an applicant held out soot-black letters while an examiner measured the small silence they made around his fist. The fluids and abilities varied, but every person was born with a visible mark. People wore collars and cuffs cut to display them. Hiding a birth tattoo was possible. Appearing to have none was what drew attention.
 
-Every person in the world was born bearing some version of those lines, blots, circles, or knots.
+Leora put her notices on the desk in date order.
 
-Leora laid her bare-looking arms on the counter.
+The registrar's mark resembled four squares of red sealing wax pressed across his knuckles. He looked at Leora's hands, then at the thick file on his display.
 
-The registrar glanced at them, then at the red-bordered file on his screen. Everybody glanced twice. Most tried to hide the second look.
+"Final anomaly review," he said.
 
-"Final competency appeal," Leora said. "Structural maintenance, entry grade. I passed the practical eleven weeks ago."
+"Final competency appeal. The review is the hold on it."
 
-"I can see that."
+He slid the top notice closer. "You agreed to a full-spectrum scan."
 
-"And the written assessment before that."
+"If it ends the hold."
 
-"I can see that too."
+"If the scan is negative, I can record you as non-bearing and release the entry-grade credential."
 
-He sounded tired rather than cruel, which made him harder to argue with. Cruelty gave you something to push against. Weariness only suggested that your whole life was paperwork someone wanted cleared before lunch.
+Leora read the sentence he had opened on his screen. "Add 'today.'"
 
-Leora held out the notice she had received that morning. "It says this is the last examination."
+His eyes lifted. She waited. Years of examinations had taught her that extra words gave officials extra handles.
 
-The registrar read it without touching it. A clear, glossy tattoo covered his fingertips like dried varnish. When he tapped the desk, the display brightened and arranged Leora's record into neat columns: school clearances, medical clearances, three childhood studies, five adolescent studies, and the repeated finding that had followed her since birth.
+The red squares on his knuckles softened as he typed. When he turned the screen back, the note said *issue upon negative finding.* It did not say today.
 
-No visible natal mark. No measurable expression.
+"The printer is here," Leora said.
 
-She had spent eighteen years being the exception people announced before they said her name. At six, teachers had asked her to sit out ability exercises for her own safety. At twelve, a clinic had kept her two extra days because a visiting specialist wanted to try polarized light. At sixteen, a placement board had decided that someone without an ability classification could not safely work near load-bearing systems, though Leora had pointed out that wrenches did not ask for classification before slipping.
+He added the word.
 
-She had learned leverage, cable inspection, fracture sounds, and the exact pressure needed to seat a stubborn locking pin. She wanted an ordinary credential for ordinary work. The licensing hall had promised that if she submitted to one final scan, she could have it.
+At six, she had been asked whether her skin resisted pigment. At nine, whether her parents might have concealed a mark out of shame. At thirteen, a clinic had kept her through a holiday to compare her body temperature with that of children whose tattoos carried molten glass. Nobody had found an ability, a fluid, or a line. The absence had become more useful to institutions than it had ever been to her. It kept attracting studies and postponing anything ordinary.
 
-The registrar touched a line in her file. "The new lamp can detect clear carriers below the surface. If the result is negative, I close the anomaly review and issue the credential under non-bearing status."
+At eighteen, Leora had passed the written structures paper. She had seated a replacement pin under load, identified three planted defects in a stair tower, and brought a swaying work platform down without help from a birth ability. The placement yard had a job waiting if she arrived with the card before the end of the week.
 
-"Today?"
+The registrar gestured toward the black-light station. "One scan. If there is nothing, the file closes."
 
-"If the result is negative."
+Leora gathered the notices. "Start it."
 
-There it was, the small door every promise left open.
+The station occupied the east side of the hall beneath an upper gallery. Leora knew the layout because she knew every room by its loads before she knew it by its furnishings. Two square stone columns carried the gallery. A new steel pivot had been bolted into the nearer one, supporting an articulated arm and its broad black-glass hood. The arm's power lead looped over the top joint before climbing the column in bright cable clips. North and south street doors stood behind fire shutters. A staff corridor and the main electrical disconnect lay on the west wall, although the fallen sweep of the scanner arm could block both.
 
-Leora looked past him at the scanning station. A jointed metal arm hung from the underside of the gallery, ending in a broad hood of black glass. The machine had been added recently enough that its cable was fastened to the old wall in bright new clips. An examiner in a gray coat waited beside it. Silver fluid formed two narrow bands around his wrists and climbed his forearms in precise droplets that never fell.
+An examiner in gray waited inside three wheeled privacy screens. His tattoo was liquid silver: narrow bands at his wrists, breaking above them into beads that hung against gravity.
 
-"Do it," Leora said.
+He gave Leora a sleeveless scan shift and pointed to a curtained changing niche. "Shoes off. Hair up. The ties go behind you."
 
-The station had no curtain. Leora took off her shoes and work jacket under the attention of people who pretended to be interested in their tickets. The examiner asked her to stand on a painted square and raise her arms. A waist-high rail kept her from stepping back into the equipment.
+"I know."
 
-"The lamp is nonliving and nonreactive," he said, with the rehearsed care used around frightened patients. "It only reveals and records. You may feel warmth from the housing."
+"This model is new."
 
-"I've been scanned before."
+"Then tell me what changed."
 
-"Not with this spectrum."
+That earned no smile, which Leora preferred. He checked the screen locks while she changed, then waited until she stepped onto a yellow square before drawing the last screen shut.
 
-The registrar came around the desk with a tablet. "Ready."
+"The hood uses ordinary ultraviolet lamps," he said. "Mains power, camera, depth estimate. No bearer feed. It can show us a carrier and measure it. It can't make one do anything."
 
-Leora fixed her eyes on a scuff in the floor. The white room lights dimmed. The black-glass hood woke with a faint hum, spilling violet over her hands.
+This explanation, at least, answered a question she might have asked. Leora nodded.
 
-For one second, nothing happened.
+He touched two fingers to the scanner arm. His silver beads brightened, taking part of its weight while he swung the hood over her. "Heels on the corners. Arms out. If I say clear, step toward me, not behind you."
 
-Relief rose too quickly and caught in her throat.
+The registrar entered with his tablet. Beyond the screens, tickets chimed and the gallery floor murmured under shifting feet.
 
-Then darkness opened beneath her skin.
+The white lights went down. The black light came on.
 
-Fine lines emerged along every finger, not on the surface but deep enough that the ridges of her prints passed unbroken above them. They joined at her palms and branched across her wrists. More unfolded up her arms, around her elbows, under her sleeves. The examiner made a sound and widened the beam.
+At first Leora saw only violet on her fingers and pale lint on the scan shift. Then a line appeared beneath the skin between her thumb bones.
 
-At Leora's ankles, matching threads curled above her bare feet. The scanner fitted what it could see into a body-shaped image on the station glass.
+It was finer than a hair and darker than ink. It crossed under the ridges of her palm without disturbing them. Another joined it. Then twenty. The ultraviolet found colorless fluid by what it swallowed, revealing a script written below the surface: branching strokes through both hands, dense knots at her wrists, long divided channels ascending her forearms.
 
-Leora looked down, then at the image.
+"Hold," the examiner said, though she had not moved.
 
-The mark covered her.
+He widened the hood's sweep. Darkness surfaced at Leora's ankles and ran up her calves. It circled her throat. When the camera assembled the exposed sections around the shape of her body, the breaks aligned into one immense pattern. Hundreds of colorless lines converged beneath her breastbone, crossed her ribs and back, divided over her shoulders, and reached toward every finger and toe.
 
-It spread from a dense knot below her breastbone in hundreds of narrow strokes, some straight as ruled wire, others curling into shapes like a language seen through water. Under the black light the colorless fluid drank the violet and returned almost nothing. It was visible by its depth, a black system of branches written beneath the ordinary layers of her body. The lines crossed her ribs, netted her shoulders, ran down her legs, and vanished beneath her hair.
+The registrar's tablet began sounding soft limit alarms.
 
-All her life, people had called her blank. The word had been wrong by the width of skin.
+Leora looked at the black branches in her hands. For eighteen years, strangers had announced her blankness before using her name. The error should have felt like relief. Instead the scan shift tightened against her ribs with each breath.
 
-The examiner moved the lamp closer. The registrar's tablet began chiming as the scan exceeded one boundary after another.
+"Complete body distribution," the examiner said. His professional calm had thinned. "Subdermal. The carrier is optically clear outside this band."
 
-"Stop recording," Leora said.
+"Depth?" the registrar asked.
 
-Neither man answered.
+"Variable. I need another lateral pass."
 
-Faces pressed over the gallery rail. Below, applicants had risen from their chairs. The curiosity Leora knew had changed. Nobody was looking at an absence now.
+"You have a finding," Leora said. "Turn off the lamp."
 
-"What is it?" she asked.
+The registrar was already opening a new field on his tablet. "The negative condition no longer applies."
 
-The registrar's thumb raced over his screen. "Full-body distribution. No visible emission under standard light. No catalog match. We need isolation and a fluid sample."
+"The scan condition does. It's finished."
 
-"I asked what it is."
+"We don't know what this is."
 
-"It means your file cannot be closed."
+"Neither did you five minutes ago. Turn it off."
 
-The same small door, opening onto a longer corridor.
+The examiner lowered the hood a little, trying to catch a clean image along her right side. His silver mark was shining now, each suspended bead drawn taut by the arm's weight.
 
-Leora lowered her arms. "Turn off the lamp."
+"Ten seconds," he said. "Then I clear you."
 
-The examiner reached for the scanner hood, but its inner track gave a sharp click. The heavy arm sagged several inches. He swore, then held his silver-banded hand beneath it. The droplets in his tattoo brightened. The scanner stopped falling and floated above his palm without touching it.
+Leora lowered one aching arm.
 
-"The carriage has been sticking," he told the registrar. "Kill the lamp before I lower it."
+"Please keep position." He reached with his free hand and closed his fingers around her wrist.
 
-The registrar did not. "Keep the field active. I need a complete map."
+The silver came through his grip.
 
-Leora stepped off the painted square. The waist rail caught the back of her knees. The hood's violet glare stayed on her, and the hidden lines seemed to tighten through her chest.
+There was no invitation in it and no space to prepare. Cold pressure drove between the bones of Leora's hand, a second pulse forcing itself up her arm. The colorless branches filled with bright metal. Across from her, the examiner's bands emptied bead by bead until his skin showed clean beneath them.
 
-"Stay still," the examiner said. With one hand occupied by the suspended scanner, he caught her wrist with the other.
+His face changed before the scanner fell.
 
-His silver bands flashed.
+The hood dropped toward Leora's shoulder. She threw up her other hand, and the stolen silver answered. The hood stopped in the air. Its full weight stood in her mind as a hard, balanced fact.
 
-Cold metal poured through Leora's bones.
+Behind the pivot, the counterweight kept moving. The scanner arm whipped sideways. One bolt tore halfway out of the gallery column with a burst of stone dust. The power lead snapped tight against its clip.
 
-The sensation was not pain at first. It was pressure, a whole second pulse forced into the narrow spaces of her hand and arm. Silver light raced from the examiner's fingertips into the dark branches under Leora's skin. His tattoo faded behind it, droplet by droplet, while a shining copy filled her wrist and drove toward the knot below her breastbone.
+"Containment doors," the registrar said. "Close the hall."
 
-The examiner stared at his blanking arms.
+A clerk outside the screens struck the red switch. Both street shutters began rolling down.
 
-The scanner fell.
+The examiner still had Leora's wrist. He stared at his bare arms.
 
-Leora flung up her free hand. Something inside her answered. The hood halted a handspan above her face, dragging the rest of the jointed arm sideways with a scream of bolts.
+"Open your hand," she said.
 
-For an instant she felt the machine's weight without bearing it: a dense fact held in the air, balanced on an impulse she did not understand. She could feel the examiner's ability as distinctly as she could feel his fingers clamped around her wrist. It was not knowledge. It was a tool placed in her grip while someone else stood suddenly empty-handed.
+"I can't hold the hood."
 
-The examiner's face had gone gray.
+"Not yet. Open it."
 
-"Take it back," Leora said.
+His grip loosened without breaking contact. Leora found the silver pattern packed into her hidden lines. Holding the machine while moving the ability felt like pulling a brace from beneath her own chest. She pushed anyway—not away, but back through the living hand against hers.
 
-"I don't know how."
+The examiner gasped. Silver refilled his wrist, then climbed in separate beads up his forearm. When the last bead returned, he raised his other hand.
 
-The registrar had retreated behind the rail. "Maintain the effect. Both of you, do not move."
+"Now," Leora said.
 
-Leora ignored him. She focused on the silver pattern inside her. It had entered through contact; the contact remained. She thought of returning a dropped tool handle-first, of giving back exactly what she had received. The pressure surged along her arm.
+She let go of the suspension. His restored field took the hood's weight, but the pivot plate was already separating from the stone. Its upper edge peeled from the column. The arm struck the masonry, dragged the clipped cable down, and exposed a white burst of current. One privacy screen folded under the boom. The other fell outward. Burning insulation scattered beneath the east gallery.
 
-Silver light spilled into the examiner.
+The column split with a sound Leora knew from her practical test, except this was no planted defect. The gallery dipped toward the scan station. Chairs slid. At the landing, a middle-aged man went down beneath a buckled section of rail.
 
-His bands filled. The moment the last droplet brightened, Leora tore her wrist free.
+The street shutters reached the floor and locked.
 
-The scanner dropped again. He caught it with his restored ability, but the arm had twisted too far. Its mounting plate ripped loose from the gallery support. Metal struck stone. A spray of sparks burst from the torn cable, and the old support gave a deep, ugly crack.
+For two breaths the alarms made every decision worse. People pushed north, found steel, and turned against the people behind them. Smoke flattened under the gallery ceiling. The examiner tried to lift the arm from the service corridor, but its twisted end struck the floor and rolled back.
 
-The violet beam died. The room's white lights snapped back on.
+The registrar caught Leora above the elbow. "You took his suspension. Take a bearing mark. Resin first, then the brine carrier by Desk Nine."
 
-People on the gallery screamed.
+"No."
 
-The floor beneath them tilted.
+"That column has minutes."
 
-Safety shutters slammed over the building's exits. Someone must have triggered containment, or the damaged system had done it automatically. Either way, the crowd surged toward doors that no longer opened. Smoke rolled from the cable clips where current bit into broken insulation.
+"Ask them."
 
-"Nobody push!" Leora shouted, but her voice vanished under the alarms.
+"The resin bearer is pinned."
 
-The examiner lowered the scanner as far as he could and grabbed the broken rail. The registrar stood with both hands over his tablet, calling for an emergency release that did not answer.
+"He can answer."
 
-Above them, one end of the gallery sank another inch. A section of ceiling trim fell into the chairs. People scattered, leaving an older applicant pinned where the bent rail trapped one leg. The new angle put the gallery's full groaning weight onto the cracked support beside the scanner.
+The registrar looked at the tilted gallery, then past her to the crowd. His grip fell away. "Clear the east bay! West wall to the north shutter. Leave everything else."
 
-The registrar caught Leora by the shoulder. His varnished fingertips were cold.
+It was a useful order. Leora ran toward the landing.
 
-"You can take active marks," he said. "Take a bracing talent. Cooling, cutting, anything useful. Take them now."
+The pinned man's right leg was caught between a bench frame and the folded rail. Dense brown resin formed a block lattice from his palm to his elbow. He had pressed that palm to the railing, but the railing was no longer connected cleanly to the cracked column; his ability had nowhere sound to send the load.
 
-Leora looked at the nearest applicants. They had heard him. A woman covered her glowing wrist with her other hand. The soot-lettered boy backed away.
+Leora crouched below him. "Can you hear me?"
 
-The examiner's silver ability had felt like a room broken into, except Leora had not known whether she was intruder or invaded. For those few seconds, he had lost something born with him. The fear on his face had not been an abstraction, and the fact that she could return it did not erase what taking had done.
+"Better than I'd like."
 
-"No," she said.
+"Can your mark hold the gallery through the east column?"
 
-The registrar stared at her. "That gallery is coming down."
+He glanced down its length. Pain clipped his breathing. "If the footing's whole. One path. Four minutes, perhaps five."
 
-"Then unlock the doors."
+Leora checked the base. The crack ended above the floor, and the column still sat square on its plinth. "The footing's taking it. What happens when the mark leaves you?"
 
-"The controls are dead. Take what we need."
+"Nothing to me. Everything up there stops listening."
 
-What we need. As if discovery had already made her part of his equipment.
+"I've only returned one."
 
-The support cracked again.
+"You returned it."
 
-Leora climbed onto the fallen scanner base. "Listen to me!" Her voice carried better from there. "I can hold an ability and give it back. I don't know how many or for how long. If you can help and you choose to lend me yours, say what it does. Don't touch me unless I say."
+"Will you lend me yours?"
 
-The crowd quieted by degrees, panic pulling tight around her words.
+A beam joint popped above them. The man turned his right palm toward her. "Use this hand."
 
-The pinned applicant raised a hand through the bent gallery rail. Dense brown resin formed a blocky lattice from his palm to his elbow. "I can set a load through anything rigid," he called. His breath hitched as he tried to shift his trapped leg. "I can't reach the support from here."
+Leora did not touch it yet. "Wake the mark. Give it when I count three."
 
-Leora climbed the sloping steps. The gallery shuddered beneath her. She crouched below him, separated by the twisted rail.
+Brown blocks swelled across his forearm, glossy and dense. He held his palm open at the center of the gap; Leora placed hers flat against it. The transfer still hurt. Resin-hot pressure crowded into the colorless channels and packed itself around her sternum.
 
-"If you lend it, you may not have it until I return it."
+"Three," she said, and pulled while he pushed.
 
-"I understand."
+His lattice passed into her. The last square left his elbow. Leora broke contact, stumbled down two steps, and planted both palms on the cracked column.
 
-"Tell me to take it."
+The gallery's load entered her awareness in branching paths. Stone pressed into steel, steel into bolts, feet into treads. She forced the borrowed resin through the one continuous route that remained—from gallery beam to column to intact footing—and the dip stopped.
 
-He looked at the people crawling toward the stairs. "Take it."
+Pressure closed around her chest. It felt as if the building had found space behind her ribs.
 
-Leora reached through the rail and closed her hand around his.
+"Get him free," she said.
 
-The resin lattice softened into light. It entered more slowly than the silver had, heavy and hot, filling one dark branch after another. The man's palm went bare. Beneath Leora's skin, brown lines joined the hidden script from wrist to chest.
+Two applicants had followed. One jammed a fallen bench leg beneath the rail while the other pulled the man's shoulders clear. Neither used a tattoo. They counted together, lifted on three, and dragged him to the landing as Leora kept the load from changing direction.
 
-The weight of the gallery arrived all at once. Not its present weight, but every path it might take if the support failed. Her mind crowded with angles. She let go before the pressure could swallow the thought of her own body.
+At the north shutter, a clerk shouted that the electric release was dead. Someone else answered from behind Desk Six: "Manual chain here. I need hands."
 
-"I have it," she said.
+People moved toward the voice instead of the steel. The registrar put three adults on the chain and sent a staff member to clear the west-wall route. A woman began counting everyone coming off the gallery. Another crawled beneath the smoke and called where the last step dropped.
 
-She slid back to the floor and planted both hands against the cracked support. The resin ability sought rigid material. Leora pushed it into the stone and steel.
+The fire climbed the scanner cable. Black insulation burned with a greasy orange edge, close enough to heat the already fractured column.
 
-The gallery stopped sinking.
+Leora found the applicant from Desk Nine by the blue brine channels spread from her left cheek to her palm.
 
-The force did not disappear. It traveled through her ability like strain through a wrench, down the support, across the floor, and somehow through the lattice burning under her skin. Her knees buckled. She locked them and felt the knot below her breastbone pull tighter.
+"Can your mark cool that run?" Leora asked.
 
-"Clear the stairs," she said through her teeth. "One line. Help the injured first."
+The woman looked once. "It pulls heat through whatever I touch. It won't stop live current."
 
-People moved. The registrar, perhaps because an order was something he understood, began directing them away from the cracked side. Two unmarked hands freed the pinned applicant's leg with a length of fallen rail as a lever. The soot-lettered boy damped the alarm around the stairs so instructions could be heard. Others supported shoulders, carried a child, counted those coming down.
+"How long at that temperature?"
 
-Smoke thickened above the scanner. The damaged cable spat white fire onto a row of plastic chairs. Heat touched Leora's face.
+"Twenty breaths before my fingers lock. Fewer if you already have something in you."
 
-"I can cool it," said the woman with blue across her cheek.
+"Will you lend it?"
 
-She stood on the safe side of the support, one hand out. The blue tattoo was not decorative ink but brine suspended in fine channels, trembling with each breath.
+The woman stepped beside Leora's right shoulder. "Forearm to palm. Tell me when."
 
-Leora could not leave the pillar. "Come to my shoulder. Tell me what happens when you use it."
+Leora kept her left hand on the column and turned her right arm outward. The woman laid her blue palm against it but held the brine in place.
 
-"I draw heat into water. Too much, and the water flashes off."
+"Now," Leora said.
 
-"Can you lend it safely?"
+Cold flooded under her skin. The blue channels left the woman's face and flowed through their contact, threading beside the heavy resin. Leora stopped the transfer the instant the last fork reached her elbow.
 
-The woman's eyes tracked the fire climbing toward the gallery. "Yes. Take it."
+Two abilities filled the hidden mark. There was room for neither. Resin pressure crushed inward; brine cold sharpened it until her teeth rang. The gallery slipped a finger's width before she forced her attention back to the column.
 
-Her palm settled against Leora's shoulder.
+"No more," Leora said, to herself or anyone listening.
 
-Brine-cold light drove through Leora's body.
+She could not reach the burning cable without abandoning the load path. The fallen scanner base touched the same metal chase, close to her right foot. She set her palm against its casing and drew heat through the continuous steel.
 
-The hidden mark took it eagerly. Blue flooded across her chest and down the arm braced against the support. Resin heat and brine cold met around the dark knot. Pressure cinched her ribs. Her vision narrowed until she could see only the cracked pillar and the edge of the fire.
+Cold spread toward the fire. The orange edge shrank, then leaped again when current arced across the torn insulation. Each pull of heat blurred the load paths in Leora's mind. She narrowed the cooling to the mounting plate and the burning cable above it, leaving a row of scorched chairs to two staff members with fire blankets.
 
-Two, she thought. Two was enough. Perhaps two was already too many.
+"It keeps lighting," she said.
 
-She kept one hand on the support and pointed the other toward the burning cable. The cooling ability resisted the dry air. Leora dragged moisture from the puddle left by a ruptured cleaning pipe, feeling the blue pattern guide rather than obey her. Water sheeted across the floor, climbed the hot metal, and hissed into steam. The flames on the chairs shrank, but electricity snapped through the wet edge.
+The examiner knelt beside the twisted scanner arm. His restored silver tattoo trembled with effort. "Main disconnect is behind this. I can raise the boom, but I can't see the hatch."
 
-"Supply is still live!" the examiner shouted.
+"I'll call your feet," said the soot-lettered applicant. He dropped flat where the smoke was thinnest. Another person wrapped the examiner's sleeve around his hand.
 
-His silver bands shone again. He lifted a fallen beam clear of the service panel, but the breaker box was across the hall, beyond the sagging scanner arm.
+The examiner lifted. Silver beads drew into long bright lines as the boom floated a handspan. The applicant crawled beside him, tapping the safe floor and shouting left, stop, forward. Together they reached the west wall. Metal banged once. The service hatch opened.
 
-"Guide him," Leora called.
+At the north shutter, the manual chain brought the steel up by inches. People ducked under in single file. The woman counting from the gallery called twelve, then thirteen. The registrar sent no one back for bags.
 
-Three applicants made a path through the smoke. One used a wind-bearing spiral to push the worst of it toward a ceiling vent. Another wrapped a coat around the examiner's hands. A third called out where the wet floor ended. The examiner climbed over the wrecked rig and wrenched open the service panel.
+Leora's right hand had gone numb. She could no longer feel whether it touched the scanner casing, only the cold track moving through her forearm. Above, the last three people reached the stairs. The resin bearer, carried between two strangers, looked back at her from the west wall.
 
-Leora's arms began to shake. The resin lattice inside her creaked in sympathy with the gallery. Cold climbed her throat. For one confused moment she could not remember which ability belonged to which body.
+"Column," he called.
 
-Then the main breaker slammed down.
+She had let the cold take too much attention. A second crack had opened above her head. Leora withdrew the brine from the cable and drove everything she could still hold into the resin path. The gallery steadied. Fire crawled another few inches along the dead-looking cable.
 
-The damaged cable went dark.
+The main disconnect slammed down.
 
-Leora pulled the remaining heat into the spilled water. Steam billowed, warm rather than scalding. Someone found the manual release chain behind the registrar's desk. The shutters rose a few inches, then a foot, and people knelt to lift them higher. Fresh air pushed into the hall.
+The electric snapping stopped.
 
-"Gallery clear!" someone shouted.
+Battery lamps along the west wall came on in dull white.
 
-Leora counted the footsteps above until there were none. "Brace it," she told the registrar.
+Leora counted one breath, then pushed the brine cold through the scanner chase again. With no current feeding it, the cable fire folded into smoke. A staff member smothered the last chair. The examiner came back coughing, his silver bands intact.
 
-"With what?"
+"Power is cut at the main," he said. "It stays cut."
 
-"The emergency posts under the stairs. This is a licensing hall. You inspect them every month."
+"Gallery clear!" the counter called from beneath the north shutter.
 
-He blinked, then ran. Four people helped him drag the telescoping posts from their cabinet. Leora told them where to place the feet, judging the load paths crowding her mind. They raised the first post, then the second. Steel took the weight from her borrowed lattice.
+The registrar and three others dragged telescoping emergency posts from a cabinet under the west stairs. They started toward the closest points beneath the gallery.
 
-When Leora lifted her hands from the support, she nearly fell.
+"Not there," Leora said. The load paths swam when she turned her head. "One under the beam pocket. Chalk square on the floor. Second beside the south joint. Keep clear of the broken chase."
 
-The woman with the bare cheek caught her, then stiffened at the contact.
+They found the inspection squares and set the post feet. The registrar spun one collar while two applicants raised the tube. Steel met beam. They installed the second, then a third beyond the cracked column. As the posts took weight, the pressure behind Leora's ribs eased by degrees instead of all at once.
 
-"I'm giving it back," Leora said.
+The brine bearer had stayed near her. Leora lifted her numb right arm.
 
-She found the blue pattern amid the darkness and the brown. It no longer felt eager. It felt lodged, compressed into channels not made for it. Returning it required a slow, deliberate push. Cold passed from Leora's shoulder into the woman's palm. Blue brine reappeared across the woman's cheek, line by line, wetly bright.
+"Palm again," she said. "I'm returning it."
 
-The woman touched the mark, drew a breath, and cooled a cup of spilled water until a skin of ice formed over it.
+The woman fitted her hand to the same place. Leora separated the blue pattern from the brown and pushed. Cold moved out through their joined skin. Five blue forks reappeared across the woman's cheek; the channels filled to her fingertips. When the last one left Leora, the woman touched the warm scanner casing. Condensation sprang beneath her palm.
 
-"It's all there," she said.
+"It answers," she said, and stepped back to let a medic reach Leora.
 
-The resin bearer sat near the stairs with his injured leg straight before him. Leora knelt and offered her hand.
+"Not yet." Leora kept her left hand against the column until the examiner checked all three post heads and called them seated.
 
-"Ready?"
+The resin bearer sat on a folded blanket with his injured leg splinted. Leora crossed to him slowly. Without the brine, the remaining ability felt hotter and heavier.
 
-He nodded.
+He offered his right palm. "Send it."
 
-The brown lattice withdrew from her chest and arm. Its departure left an ache like a deep bruise. When the last block returned to his palm, he pressed it against the fallen length of railing. The metal steadied under his touch.
+Leora pressed her hand to his and willed the resin out. Each brown block withdrew from her hidden branches and rebuilt the lattice along his arm. The final square settled at his elbow. He put two fingers against the splint rail; the loose joint locked rigid under them.
 
-Only the hidden darkness remained inside Leora. Under the hall's ordinary lights, even that disappeared.
+"That's mine," he said.
 
-People had begun watching again. This time Leora understood the second look. Some saw danger. Some saw rescue. The registrar, standing amid broken equipment and damp paperwork, looked as though he saw a new red border for her file.
+Only the colorless pattern remained in Leora. Under the white emergency lamps, her hands looked bare again.
 
-"This requires an immediate containment classification," he said. "Until the central examiners can establish transfer limits, you cannot leave unmonitored."
+A clerk recovered Leora's folded work clothes from the changing niche. She dressed in the first-aid washroom, then let the medic wrap the fingers the cold had stiffened. Most applicants were already outside. People gave statements, searched for missing coats, and argued with the staff member who wanted them farther from the doors. The registrar stood amid blackened insulation and gray stone dust, reading the scan record on his tablet.
 
-The woman with the restored brine tattoo stepped between him and Leora. "She asked."
+"We need a second image before the transfer traces fade," he said.
 
-"That is not the issue."
+Leora flexed once against the bandage. "No."
 
-"It was the issue when you told her to take from us."
+"Central review will ask for a post-event baseline. Samples too."
 
-The examiner came back from the breaker panel. Soot marked his coat, and his silver bands were whole. "She returned mine too."
+"Send me the request."
 
-The registrar tightened his grip on the tablet. "We have no procedure for this."
+"If you leave now, your classification remains open."
 
-Leora's work jacket lay beside the scanning square. She picked it up and put it on, though her wet sleeves clung to her arms.
+"Leave it open. Close the occupational hold."
 
-"You do have a procedure for my credential," she said.
+He looked at her as though the two had never existed separately. "Your ability is unassessed."
 
-"Your classification has changed."
+"My structural practical isn't."
 
-"My test results haven't. I completed the practical. I passed the written assessment. And I identified a failing support, placed emergency braces, and kept a live electrical fire from spreading in your hall."
+"This event changes the risk."
 
-"Using an unlicensed ability."
+"Your scanner mount failed."
 
-"Using two abilities their bearers lent me. If you want another examination, give me the request in writing. Include what you plan to do, who sees the results, and my right to stop. I will decide after I read it."
+The examiner had come within hearing. Soot darkened one side of his gray coat. "The scan was complete before the pivot tore out," he said. "I logged the depth map and the time."
 
-"You are in no position to set terms."
+The registrar's eyes narrowed. "You're certifying that?"
 
-Leora looked at the raised shutters, the witnesses gathered beneath them, and the two people whose tattoos had returned unchanged.
+"I'm recording what happened."
 
-"Then explain your position to everyone here while you deny the credential you promised before your machine broke."
+Leora set the three notices on the desk again. Stone dust had grayed their edges. The registrar's added word remained on the top one.
 
-The registrar followed her gaze. His shoulders lowered a fraction.
+"Entry-grade structures," she said. "No work restriction."
 
-He went behind the desk.
+"I can issue the credential with the tattoo classification pending."
 
-The printer had survived the water. It clicked, warmed, and fed out a stiff card bearing Leora's photograph and structural maintenance authorization. The ability-classification field read PENDING REVIEW. She disliked the words, but they did not cancel the line beneath them.
+"Those are separate records."
 
-QUALIFIED.
+He did not deny it.
 
-The registrar held on to the card when she first reached for it.
+"I will read a study request after the credential is in my hand," Leora said.
 
-"You will be contacted," he said.
+The registrar glanced toward the wrecked station, then read the added word on Leora's notice once more. He cleared the occupational hold.
 
-"In writing."
+The credential printer shared the emergency circuit with the white lamps. It fed out a stiff card showing Leora's photograph, her scores, and the line she had come for: STRUCTURAL MAINTENANCE — ENTRY. No restriction followed it.
 
-He released it.
+He held the card long enough to scan its number into the open anomaly file. "Central office will contact you today."
 
-Outside, late sunlight warmed the steps. Emergency crews pushed past Leora into the building, carrying braces, cutters, medical cases, and no interest yet in the girl walking the other way. People gathered on the pavement, checking injuries and recounting what they had seen.
+Leora took it. "They have my address."
 
-Leora moved apart from them and held the credential in both hands until they stopped trembling.
+Outside, afternoon sun showed no line on her forearms. The colorless branches hurt anyway—empty, sore channels from her palms to the deep knot beneath her breastbone.
 
-Her skin looked as bare as it had that morning. No silver circled her wrists. No resin blocked her palms. No blue shone at her throat. Still, she could feel the colorless branches in the ache below her breastbone and along every finger, an unseen map whose edges belonged to her before anyone else could measure them.
+Her placement contact answered on the second ring. Leora read the credential number from the card. The woman told her to report at six on Monday and gave her the service-gate code.
 
-She slid the credential into her jacket, pressed one apparently blank hand over the darkness written under her skin, and went to claim the work waiting for her.
+Leora sat on the curb while a medic finished wrapping her right hand. She listened to the code twice, wrote it on the back of her softened queue ticket, and did not miss a digit.

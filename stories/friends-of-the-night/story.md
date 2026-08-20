@@ -8,284 +8,282 @@ canon: false
 
 # Friends of the Night
 
-On my first night as warden, the alarm bell sent me beneath a row of dead faces.
+The first animal I spared cost me one ewe, nine silver pieces, and the respect of every shepherd at the lower fold.
 
-They watched from the beams of the watch-house: long muzzles stuffed with straw, black ears stiffened by varnish, glass eyes fixed on the iron traps below. Each brass plate gave a year and a warden's tally. Seven beasts. Eleven. Nineteen, during the winter when the river froze hard enough for carts.
+It happened on the night the warden's chain changed necks. My predecessor had not yet finished explaining the brass tags on the trophy wall when the fold bell began to hammer. He took down his boar spear by habit, remembered the chain now belonged to me, and handed the spear over.
 
-My own tally board hung blank beside them.
+"Mind the dark beside the wall," he said. "They'll use it to reach your throat."
 
-Outside, someone struck the bell again. I took a lantern from its hook, passed the old boar spear by the door, and went out with empty hands.
+We found three shepherds holding lanterns over an iron trap. Something black thrashed between the jaws. Each time it struck the end of the chain, its body spilled toward the wall's shadow and snapped solid again: long shoulders, narrow belly, forelegs built for a much larger animal. Light gave it fur. Darkness took the fur away. Its eyes stayed visible in both.
 
-A ewe lay dead beside the grazing wall. Two shepherds stood over her, and the older one had already found the dark hairs caught in the thorn hedge.
+The dead ewe lay six paces off with her belly opened. There was no mystery to solve. Blood glossed the beast's muzzle.
 
-"Hushbeast," he said. "Fresh."
+"A clean first tally," one shepherd told me. "The old warden will show you where to set the spear."
 
-The younger shepherd lifted his lamp toward the hillside. Every bush threw a hard little shadow. "We can drive it to the stone cut if we start now."
+My predecessor did not look pleased by that. He had killed nineteen hushbeasts and liked none of the killing. He merely believed that liking had nothing to do with work.
 
-I crouched beside the ewe. Her wool was soaked at the throat, but the bites were small and paired. I had cleaned enough trophies as an apprentice to know a hushbeast's jaws. These wounds belonged to common hill dogs.
+The trapped beast had stopped pulling. One paw was crushed in the iron, yet it watched the lanterns, not us. Beyond their circles of light, the fold wall cast a single unbroken strip of black. Three more pairs of eyes waited there.
 
-At the wall, a trench of crushed grass led away from one of my predecessors' iron jaws. The trap had sprung, but there was no foot in it. Blood shone on the teeth. Beyond it, the drag marks continued uphill, and the black hairs clinging to the hedge were wet at their roots.
+"If I kill this one," I said, "how many ewes do the others take tomorrow?"
 
-"It came for the carcass," I said. "After the dogs. Then it found our trap."
+"Maybe none. Maybe ten," my predecessor said. "A warden counts what happened, not what might."
 
-The older shepherd looked at my bare belt. "And what will you put on your board?"
+I asked the shepherd the ewe's value. Nine pieces, including the lamb she would have borne. I paid him from the purse meant to last until first frost.
 
-"The truth, if it fits."
+Then I made everyone set their lanterns behind the rain trough.
 
-It did not satisfy him. Truth rarely does when someone has lost an animal and needs the loss to have a face.
+The shepherds cursed me. My predecessor did not. He planted the spear butt in the mud and watched while I knelt at the edge of the shadow. The trap spring had been wound hard enough to break bone. I put both hands on its levers. The beast's breath came hot through its teeth.
 
-Before dawn I pulled every jaw trap between the grazing wall and the stone cut. The old hunters had pegged them beneath fern, buried them in stream mud, and wired them to trees where a struggling creature could spend hours tightening the teeth. I carried the traps back one by one and laid them under the trophies.
+"When I press, pull your paw," I told it, because sensible conduct sometimes begins with speaking to a creature that cannot answer.
 
-Then I dragged the ewe's carcass uphill.
+I leaned my weight onto the levers. Iron moved one finger's width. The beast jerked free. Its shoulder struck me flat, and its jaws closed around the leather guard on my wrist.
 
-The stone cut was a wound in the hill where earlier generations had quarried blocks for the grazing wall. Nothing grew in its deepest cleft. At sunset, the cleft filled with darkness before the rest of the slope, and that darkness joined the shadows beneath the gorse.
+It could have taken the hand. Instead it held me still until the other three shapes flowed from the wall and gathered around it. The wounded one released my arm. All four vanished along the connected dark, leaving the sprung trap and a trail of blood.
 
-I set the carcass beyond the last patch of grass. Beside it I left a bowl of clean water and a rag spread with wound salve. Then I sat where the failing light could show both my hands.
+Behind the trough, someone uncovered a lantern.
 
-The first hushbeast appeared only as a mistake in the shadows. A patch beneath the gorse thickened. Two low eyes opened in it, reflecting no light. A foreleg took shape and vanished again. The creature could have been the size of a hound or a pony; its edges changed whenever one shadow touched another.
+My predecessor offered me the spear to help me stand. "You bought one night's uncertainty for nine pieces."
 
-It smelled the iron on my coat.
+"And learned where four of them travel."
 
-I removed the warden's chain and badge and laid them in the grass. The beast did not move.
+"You always were greedy."
 
-So I backed away from the water. One pace. Then three. At ten, its wounded foot emerged from the cleft.
+The lower fold could not keep losing ewes while I conducted an education, so I spent that autumn making friendship inconvenient. I dug out the thorn hedge and doubled it. I put bells on the narrow breaks, raised the feed bins, and persuaded the shepherds to stop throwing lambing waste beyond the wall. At the same time, I lifted every iron jaw from the path between the old quarry and the spring.
 
-It drank without lowering its eyes.
+My predecessor followed behind me, finding traps I had missed.
 
-When it had gone, the salve rag was gone too.
+"You said take them up," he grumbled, levering one out from under a yew root. "You didn't say I had to approve."
 
-That was how our friendship began: not with a hand laid on a tame head, but with distance correctly judged.
+We discovered why the hushbeasts had begun crossing the fold. A summer landslip had opened the quarry spring to the sun. They would approach it through the trees, reach the bright stone, and turn toward the nearest strip of shade—which ran beneath the fold wall. I roofed part of the spring with willow hurdles and left a dark lane along the outer hedge. The work cost less than two ewes. By winter, nothing with black paws crossed the bells.
 
-For many nights I saw nothing. I kept taking up traps. I hauled the empty iron into the watch-house until it lay in rusting heaps beneath the preserved heads. The old hunters came to drink by my stove and told stories loud enough to make their trophies seem alive.
+The shepherds called it luck. My predecessor called it a season too short to prove anything. The hushbeasts said nothing, but brass trap tags began appearing on my doorstep, each bitten through its punched hole. They had found iron deeper in the hill than either warden remembered setting.
 
-"They'll learn you have no teeth," one said.
+I followed the tags. At first, I saw only eyes. Later, I learned the small signs of their approach: moths lifting from one bush and settling under another; frost going dull where a shadow deepened; the smell of wet stone in dry weather. The beast I had freed kept one pale forepaw. It never came close if I carried iron. If I left my knife at the quarry lip, it sometimes lay within ten paces while I ate.
 
-"They learned yours were made of iron," I answered.
+The younger ones stole things that held no use for them. A bootlace. A wooden spoon. Once, the entire broom head from the watch-house. They pushed their prizes into one shadow and made them tumble from another, startling themselves each time. I laughed hard enough on that occasion that the pale-footed beast left in disgust. Friendship was not solemn every night, or safe. Hushbeasts hunted the red dogs that ranged down from the high scrub, and they did not leave tidy remains.
 
-"Fine words won't bring back sheep."
+They flattened themselves into shade to sleep, but iron held their bodies solid and direct light broke the paths between one shadow and the next. They could cross half a hillside in the time it took me to blink if the dark was joined. Under a full moon they had to creep from tree to tree like anything else. By my second spring I could distinguish more than thirty adults at the quarry, although some disappeared for months and returned with strange burrs in their coats.
 
-"No. A sound wall and dogs that aren't starving might."
+I learned what they could do with a human body during a rainstorm in my second spring as warden.
 
-That lost me the warmth of the room. It also got the shepherds' dogs fed from the council stores, once I showed the council how many dead sheep bore their bites.
+My predecessor and I had gone to clear the spring roof before floodwater tore it loose. The bank failed beneath him. He slid into the quarry, struck the broken floor, and came to rest with one leg bent wrong. Water rose around his hips.
 
-The hushbeasts kept to the far side of the wall after that. I knew because I walked the boundary every morning. Their tracks ended where the wall's shadow ended, as if paws had reached the stones and reconsidered.
+I could not carry him up the cut. The rope had gone with the bank. I opened my hooded lamp once, then covered it, the signal I used when I came to work near the den.
 
-When summer dried the gorse, three shepherds went uphill with oil and torches. They meant to burn the old den before the wind turned. I stood in the narrow path and told them the fire would race down through their own pasture.
+Eyes appeared under the flooded ledge. The pale-footed beast stepped onto a slab beside us and lowered its shoulder. Shadow thickened along its ribs, deep enough that my hand disappeared when I reached toward it.
 
-"Then help us cut a firebreak," the oldest said.
+"No," my predecessor said.
 
-So we did. By noon their anger had become sweat. By dusk we had cleared a broad strip around the stone cut, and there was nothing left for a torch to catch. The shepherds went home swearing that I had tricked them into useful labor.
+"The water is climbing."
 
-That night, three hushbeasts waited on the other side of the grazing wall. The wounded one stood in front. The fur on its foreleg had grown back silver rather than black.
+"Then fetch another rope."
 
-I raised one open hand. It lowered its head. Neither of us crossed.
+The nearest rope was a mile away. The beast nosed his boot, then recoiled from the iron spear strapped across his back.
 
-In autumn, the younger shepherd's daughter wandered from the berry pickers before rain. The whole village searched until the clouds swallowed the moon. Her father came to the watch-house with mud to his knees and begged me to loose the hunting dogs.
+I unbuckled it. My predecessor caught the shaft before I could throw it aside.
 
-I took no dogs. I carried one hooded lamp uphill and opened it at the grazing wall. Then I covered it, opened it again, and covered it, the signal I had used when leaving food near the stone cut. It meant only that I was present. I had no signal for a missing child.
+"That spear was my predecessor's."
 
-The night remained ordinary for a long while.
+"He isn't drowning with us."
 
-Then darkness folded over the wall.
+Water reached my knees. At last he let go.
 
-The girl stepped out of the shadow of an ash tree less than twenty paces from us. She was wet, scratched, and furious because something kept nudging her whenever she tried to sit down. She said she had followed two silver eyes from a hollow tree to a boulder, then from the boulder to the wall. She could not explain the space between. Each time, she had taken the offered dark because the rain behind her sounded worse.
+The beast pressed its flank against him. Nothing happened. My predecessor had both fists locked in its fur, his face white with effort, but his body stayed on the slab.
 
-Her father gathered her up. Beyond the wall, several pairs of eyes closed one after another.
+"Stop bracing against it," I said. "You have to step."
 
-After that, no one tried to burn the den.
+"On that leg?"
 
-The old hunters called the rescue luck. The council called it evidence that my methods had value. Neither called it friendship. Perhaps I did too readily. The hushbeasts never came when summoned. They accepted meat when they were hungry and left it to rot when they were not. Once, when I walked into the stone cut without stopping at the edge, the wounded one knocked me flat and held one heavy paw on my chest until I understood that welcome was not ownership.
+"With the other one. Toward the dark."
 
-I liked them better for that lesson.
+He swore at me, the beast, the quarry, and all inherited offices. Then he shifted his sound foot.
 
-War reached us in the mouths of refugees.
+Cold closed over him. He and the beast sank into the ledge shadow and vanished. A breath later the beast returned alone. Night had fallen, and the storm had joined every dark patch between quarry and watch-house, so I put one hand into its fur and stepped.
 
-They came over the southern track with burned sleeves, blistered feet, and nothing that could not be tied to their backs. They said an army followed: cavalry gathered from the invaders' own estates, officers in bright mail, and thousands of foot soldiers levied from farms and conquered villages. Those who marched too slowly were whipped. Those who ran were hanged beside the road.
+Stone vanished beneath my boots. A heartbeat later I fell into the woodpile shadow beside the watch-house. My predecessor lay in the mud, staring at the beast and emptying his stomach. The journey had covered a mile in two passages.
 
-We had a timber gate, a low grazing wall, and enough trained fighters to fill half the watch-house. The council sent riders asking for aid, but the larger garrisons had their own roads to hold.
+When I turned to thank the beast, it was already gone.
 
-Enemy outriders arrived before any answer. They burned the hedges bordering the southern track. At night they planted lanterns on tall stakes, each pool of light overlapping the next, until their camp stood inside a glowing fence. Wherever the light fell, the shadows broke apart.
+"I still prefer a cart," he said.
 
-The council met beneath the trophies in the watch-house. Five councilors sat at the table. The old hunters stood behind them with the satisfied faces of men whose worst warnings had finally become useful.
+He never called them tame after that. Neither did I.
 
-"You have fed the beasts for three years," the eldest councilor said. "Now feed them something that can hold a sword."
+War arrived in the third harvest with people running ahead of it.
 
-"They aren't mine to loose."
+They came up the southern road in burned clothes, carrying children and grain sacks. Behind them marched an army assembled from every district the enemy had crossed. Its mounted officers wore red lacquer. Most of its foot soldiers wore farm coats beneath borrowed armor. Refugees said the unwilling files were roped together on the road and separated only when the column made camp.
 
-"Call them, then. Lead them into the camp."
+Our militia broke the old bridge and withdrew behind the river wall. That bought days, not victory. The enemy filled the southern fields with tents while engineers built a crossing from green timber.
 
-An old hunter tapped the butt of his spear on the floor. "Open a gap in the lantern line and let hunger command them."
+The militia captain came to the watch-house at dusk. He looked once at the empty trophy hooks, then spread a map over my table.
 
-I looked at the black muzzles overhead. Generations of wardens had mistaken death for proof of service. Now the council wanted a larger tally.
+"Can your beasts reach the horse lines?"
 
-"No," I said.
+"If the shadows touch."
 
-The eldest councilor's fingers tightened around the storehouse key. "You refuse to defend us?"
+"Have them panic the mounts. Trample a few tents. We only need another week."
 
-"I refuse to spend lives that weren't offered to me."
+"I can ask them to go near three thousand armed strangers. I cannot tell you what they will do there."
 
-"They are beasts."
+His finger stayed on the drawn bridge. "Ask for something useful."
 
-"Then why do you expect them to understand which uniforms to eat?"
+He left before I could answer. My predecessor, whose leg had healed crooked, began laying blankets on the floor.
 
-The old hunter smiled without humor. "Give me your badge. I'll show you how the office was done before."
+"How many?" I asked.
 
-I kept the badge. The council kept the key. By sunset I no longer had access to the grain, lamp oil, medicines, or signal arrows stored for the watch.
+"However many your useful idea brings home. We have six sacks of barley and one roof. Count before you promise."
 
-That night I crawled close enough to the enemy camp to hear a homesick soldier singing under his breath. He stopped when an officer struck him.
+I took his warning with me.
 
-The army was not one thing. At its bright center, officers ate at tables and pointed to maps. Near the lantern fence, men and women in patched coats slept sitting up. Some had boots; some had rags bound around their feet. When a dozen conscripts stumbled out of formation carrying cook pots, mounted guards drove them back with the flats of their blades.
+From the wooded ridge above the enemy camp, the army looked less like one creature than it had from our wall. Officers ate beneath awnings. Engineers worked by torchlight at the river. Near the outer ditch, soldiers in mismatched coats slept in files while guards walked between them. A cook carrying a pot stumbled. An officer struck him, and three nearby soldiers pulled him upright without looking at one another.
 
-Numbers held the camp together. Fear held the numbers.
+The camp's lanterns were set far apart. Darkness joined beneath carts, tents, stacked shields, and sleeping bodies. The hushbeasts could have hunted there.
 
-I returned to the stone cut before dawn. The hushbeasts gathered gradually, occupying every joined shadow until the quarry seemed deeper than the hill could contain. The silver-footed one watched from a ledge.
+Instead, I went to the quarry and laid two objects on the stone: an enemy spear I had taken from the road, and the coat a refugee had shed at our gate. I pushed the spear into moonlight and the empty coat into shadow. Then I stepped behind the coat and waited.
 
-I laid my knife on the ground. Beside it I placed a soldier's leather wrist guard, lost near the camp. Then I opened my empty hands.
+The pale-footed beast smelled both. It bit through the spear's wrist loop, spat the leather at me, and vanished.
 
-"I won't ask you to hunt them," I said. "Some came to burn us. Many were dragged here. If any lay down their weapons and choose to leave, will you show them the dark road?"
+That might have meant no. Friendship had not given us a common language, only a long history of trying.
 
-The silver-footed beast's ears flattened.
+Near midnight I returned to the ridge. The beast waited under a hawthorn. I left my knife and badge in the grass and put my hand against its side.
 
-"Only those who choose. Hurt no captive. If the lights make it too dangerous, stay away. If you simply do not wish to do this, stay away."
+We passed through three linked shadows and stopped beneath an empty supply cart inside the camp.
 
-It stepped down and smelled the wrist guard. Then it took my knife in its teeth.
+A sentry stood on the other side of the wheel. Flour was baked white in the seams of his sleeves, though he held a spear now. When he saw the eyes beside me, the point dropped toward my chest.
 
-One by one, the eyes in the quarry closed. The shadows thinned. When morning came, both knife and wrist guard were gone.
+"If you shout," I whispered, "it leaves. I stay."
 
-I did not know whether I had been answered or dismissed.
+"What is it?"
 
-The first three soldiers arrived the following night.
+"A road, if you put down the iron and mean to take it."
 
-They came out of the shadow beneath a hay cart just inside the grazing wall and collapsed in the stubble. None carried weapons. One still wore an iron cooking chain wrapped around her waist. Another clutched my knife.
+He looked past me. "To your prison yard?"
 
-The villagers who had agreed to wait with me raised clubs and sickles.
+"To a hay barn north of the river. You can sleep there, eat once, and choose a road in daylight. I can promise no more."
 
-"Put those down," I told them.
+"There are forty people in my cooking file."
 
-"You said deserters," the miller replied. "You didn't say we'd invite enemy soldiers to our fires."
+"It can take one at a time. There are others."
 
-"If surrender looks like a beating, no one else will risk it."
+"If one vanishes, they beat the rest."
 
-The woman with the cooking chain stood despite the others' attempts to hold her. "Prisoners?" she asked.
+The pale-footed beast shifted. The sentry flinched but did not raise his spear.
 
-"Guests until daylight," I said. "After that, you may stay without weapons, or take food and use the western road. No one will send you back."
+"Then don't come tonight," I said. "Pass the offer. No iron. Find joined dark. If someone changes their mind, they let go."
 
-She studied us, searching for the hook inside the offer. At last she unwrapped the chain and let it fall.
+He gave a dry, frightened laugh. "You walked into an army to tell us not to hurry."
 
-The villagers found plain clothes. I found food by asking from door to door, since the council still held the stores. The miller complained the whole time and gave twice as much bread as anyone.
+"A rumor from the hill would sound like bait."
 
-Before the three left by the western road, the woman told me how the darkness had reached them. A lantern near the latrine had tipped face-first into wet earth. Beyond it, two eyes opened under a wagon. Another soldier whispered from the dark that anyone who set down steel could follow. The three had passed the message onward before stepping beneath the wagon themselves.
+The sentry's eyes moved from me to the beast. He set his spear against the cart instead of dropping it, a choice not yet made. We left him there.
 
-The next night, fourteen came. Then thirty-seven. The night after that, the lantern by the horse lines went out, and more than a hundred vanished between one count and the next.
+Seven people arrived at the hay barn before dawn.
 
-The army's commander moved the conscripts away from the perimeter. Bonfires replaced lanterns. Patrols carried braziers between the tents, showering sparks whenever they turned. The commander announced that ten soldiers would be punished for every deserter and ordered each file to watch its own.
+The sentry was not among them. A scullion was, and an older woman who had marched barefoot for two days, and five field workers taken when their villages failed to meet a grain levy. They came through the barn's own shadow clutching black fur. One woman showed us the blister an iron buckle had raised when she first tried to step; she had torn the belt off before trying again. After that, we cut metal from every borrowed coat.
 
-Still the message passed: set down your weapon, cover the light, choose the dark.
+My predecessor counted bowls, shoes, blankets, and miles. He sent two deserters west with a peddler before the village woke, found family lodging for three, and put the scullion to grinding barley because the young man refused to sit still.
 
-By the fifth evening, the enemy had built a cage in the camp's center.
+"Seven is not an army," he said when we were alone.
 
-I saw the captive through a spyglass. It was a young hushbeast, small enough that the iron bars forced its body to hold one shape. Lanterns surrounded the cage on every side. Whenever it tried to flatten itself into the bars' shadows, a guard raised a mirrored plate and threw light between them.
+"Tomorrow they can tell forty."
 
-The cage was bait. The commander wanted the others to cross the bonfire ring.
+"Tomorrow forty will need breakfast. Remember that too."
 
-The council wanted the same thing.
+The second night brought thirty-two. On the third, the camp lost nearly two hundred between moonrise and dawn. The hushbeasts carried them singly, sometimes two small people pressed together, each journey beginning with a weapon laid down. They chose their own routes and their own passengers. One beast refused anyone wearing red lacquer. Another would approach only if offered a crust first. The pale-footed one returned so often its sides trembled.
 
-"Now they'll attack," the eldest councilor said when I brought the news. "Be ready to follow."
+Word traveled faster than they did. Soldiers scratched a black arch on cook pots and bed frames. Those who meant to leave shifted toward the cart lanes before the night watch. Those who meant to stay reported them. Fights broke out in the files. Before sunset on the third day, someone painted an arch with three wavy lines beneath the eastern cook awning. I mistook it for another promise of the road. The enemy officers moved the foot soldiers away from the camp edge and lit tar trenches in a ring.
 
-"They may not come at all. I told them they could refuse."
+On the fourth night, no one came.
 
-"Then all your kindness bought us nothing."
+Fire made an island of the camp. It also licked uphill into the dry grass. The pale-footed beast returned near dawn with one ear blistered and the fur singed from its ribs. The others kept to the quarry, restless and bright-eyed, while smoke entered their den.
 
-I thought of the girl stepping from the ash tree, and of the soldier who had returned my knife. "It was never a purchase."
+The enemy bridge had reached the middle of the river. We had perhaps one more night.
 
-I left my badge on the council table.
+My predecessor climbed the watch-house steps with a roll of rotted plans under his arm. "The camp is on the old sheepwash. They filled the surface ditch, but the stone throat is under their eastern cook line."
 
-After sunset, the silver-footed beast waited outside the watch-house. Its eyes shifted toward the southern hill, then back to me. I followed it to the last hedge shadow before the enemy's light. There the path ended. The bonfires had burned a ragged moat through the night.
+"The upstream gate?"
 
-"You brought them out," I whispered. "I'll go in."
+"Still ours. The lower grate opens from inside. Open it, and I'll give you every drop in the millpond."
 
-The beast caught my sleeve in its teeth. Not hard. A warning, or a refusal, or merely fear. I put my hand beside its muzzle without touching.
+"That water feeds the winter fields."
 
-"You may leave."
+"So do farmers."
 
-Its jaws opened. I crossed the light alone.
+He tapped the plan with a scarred finger. The buried channel would carry a sudden flood straight beneath the tar trench. It might smother a quarter of the ring. It might also drown the camp's food and leave our fields dry until spring.
 
-I wore the patched coat one deserter had discarded and carried a water bucket to hide my empty hands. The guards looked toward the hills, waiting for monsters. They did not look closely at another tired laborer. I passed the outer fires, then the cook tents, then rows of conscripts packed so tightly that turning in sleep would wake a neighbor.
+He had counted before he promised.
 
-At the central cage, the young hushbeast panted without sound. A guard held the cage key. Two more tended the ring of lanterns. Beyond them, under a striped canopy, the commander had placed archers facing outward.
+At midnight, the pale-footed beast took me as far as the camp's firelight. I crawled the rest of the way inside the sheepwash, through old grease, roots, and mud warm from the burning trench above. The stone throat ended at an iron grate. Beyond it, boots shuffled on packed earth.
 
-I could not defeat them. That was the old wardens' answer to every danger, and all it had left me was a room full of heads.
+I pushed once. The grate did not move.
 
-So I set down the bucket and shouted.
+"You're late," the flour-sleeved sentry whispered from the other side.
 
-"The hidden road is real!"
+"I saw a hundred arches."
 
-Faces lifted across the camp.
+"Mine had water under it."
 
-The key guard seized me. "Quiet."
+He had brought no spear. Together we lifted the grate until its lower edge cleared the mud. He crouched over the opening and caught the iron on his shoulders while I stayed in the throat below.
 
-"They cannot carry anyone who does not choose," I called. "They cannot cross while you keep the fires bright. If you want the road, make the night yourselves."
+"My file goes to the bridge at first bell," he said. "When the fires die, you take them first."
 
-The guard struck me in the mouth. Around us, officers began yelling for ranks to form.
+"The beasts choose. Your people still have to step."
 
-For one breath, nothing changed. I tasted blood and wondered if fear had finally found a shape too large to break.
+"They've been ready for three nights. Open the water."
 
-Then a conscript near the cook tents dropped his spear.
+I tugged the cord my predecessor had fed down the channel. Once. Twice. Three times.
 
-The sound was small. Another spear struck the ground. A sword followed. Then hundreds of weapons fell through the camp in a clatter that drowned the officers' commands.
+Nothing came.
 
-Someone kicked dirt over a lantern. Two women dragged a wet blanket across a fire. A cook overturned a cauldron, and steam swallowed a row of flames. Conscripts pulled down the tall lantern stakes while the guards swung at them. They did not fight back. They held the guards' arms, covered the lights, and kept shouting the message.
+Above us, an officer called the sentry's post. The grate shook against his back. He sucked a breath through his teeth but held it high.
 
-Set down steel. Choose the dark.
+The officer called again, closer.
 
-The key guard turned toward the commander. The young hushbeast pressed itself against the cage floor, as far from the lanterns as the bars allowed.
+Then the millpond struck.
 
-"You heard me," I told the guard. "Prisoner or road. You choose too."
+Water hit my legs hard enough to turn me sideways and hurled me through the opening. The sentry twisted clear. The grate slammed down, but the surge tore mud from its edges and widened the breach. We ran as the earth sagged behind us.
 
-His hand closed around the key. For a moment I thought he would throw it into the fire.
+The eastern tar trench burst in three places. Flame raced across the flood, broke into floating islands, and died under mud. Steam rolled through the cook line. Soldiers kicked over pots, dragged wet canvas onto the nearest fires, and widened the gap before officers understood that this was not an accident.
 
-He unlocked the cage.
+Darkness touched the supply carts.
 
-We smothered the nearest lantern beneath my borrowed coat. Darkness touched the cage, the commander's canopy, and the long shadow cast by an overturned wagon.
+Eyes opened beneath every wheel.
 
-The young beast spilled through the open door like water released from a jar.
+The hushbeasts came through low and fast. They did not fall upon the officers. They found the people who had already laid down iron. The sentry seized my sleeve, pulled me toward the cooking files, and shouted numbers rather than promises.
 
-Its cry was too low to hear in my ears. I felt it in my teeth.
+"First file, here. Second, wait. Hands empty. Keep the lane clear."
 
-All across the camp, eyes opened in the newly joined dark.
+His people obeyed the voice that had measured their meals for months. An old baker stepped into a beast's shadow and vanished. Two sisters went next. A boy froze with one hand in black fur; the beast waited until he shook his head, then left him standing. No one forced him after it.
 
-The hushbeasts did not charge the officers. They did not tear at the archers or leap upon the commander. They moved among the people who had dropped their weapons. A shoulder brushed a waiting hand. A muzzle pointed toward the shadow of a tent. Each conscript had a final moment to step forward or draw back.
+The officers tried to relight the trench. Soldiers who had chosen to stay fought to reach the oil carts. Others rolled those carts into the flood. An arrow struck the mud beside me. Another cut a hushbeast's shoulder and became useless when the creature flattened into the cart's shadow, leaving the shaft behind.
 
-Those who stepped forward vanished.
+The pale-footed beast appeared at the mouth of the cooking lane. Its burned side shuddered. I put a hand against its neck.
 
-The archers loosed into the dark. Several conscripts raised shields, not to attack, but to roof a corridor between the cage and the wagon. Others tore down bright canvas and threw it over the last lanterns. The shadows widened. The beasts returned again and again, carrying willing people through distances the eye could not follow.
+"Enough," I said. "You can leave."
 
-The silver-footed one appeared beside me. Behind us, the commander shouted that every deserter would be hunted home.
+It knocked my hand away and went to the next waiting soldier.
 
-The woman with the cooking chain had known the answer to that threat. There were homes no longer safe to return to, and others worth the risk. Refuge was not one place. It was the right to decide the next step.
+The passage continued until the moon set. Hushbeasts arrived, carried one willing body beyond the river, and returned. The files thinned. Empty armor lay in rows where people had stepped out of it. When officers closed one lane, the deserters found another patch of joined dark. When fire broke the shadows, cooks and laborers drowned it with their own water.
 
-I put one hand into the silver-footed beast's shadow.
+Near dawn, the enemy commander ordered the bridge files forward. Fewer than half answered. The flour-sleeved sentry was last from his group. He stood beside the shadow under a broken wagon and counted every person through. Only then did he take the pale-footed beast's fur in both hands.
 
-The darkness felt like cold fur and deep water. It waited.
+"Hay barn?" he asked me.
 
-I chose.
+"Hay barn. One meal. Then your own road."
 
-We emerged beneath the ash tree by the grazing wall. Around us, deserters stumbled into the village fields in twos and tens, then in streams. Villagers guided them toward barns, kitchens, and the western road. No gate was locked behind them.
+"Two meals. Half my file cannot walk another road tonight."
 
-At dawn the enemy camp held empty bedrolls, abandoned armor, and cookfires cooling under mud. The commander still had cavalry, officers, and soldiers who had chosen to remain. He no longer had enough bodies to surround our grazing wall. By midday, his army was retreating along the road it had burned.
+"Two."
 
-The council returned my badge in the watch-house. Beneath the trophy row, the eldest councilor raised a cup.
+He stepped, and both of them were gone.
 
-"To our warden," she said, "and the secret weapon under the hill."
+Sunrise found an army with wide gaps in every rank. The bridge stood unfinished. The remaining officers had horses, armor, and several hundred soldiers who had stayed by choice or fear, but not enough hands to finish the crossing and fight for the wall. They burned what they could not carry and began marching south before noon.
 
-I did not take the cup.
+We did not cheer from the river. We were too busy.
 
-"They were not a weapon," I said. "And they were never secret. We were simply too busy hunting them to learn what they would choose."
+The western road filled with people trying to reach homes the army no longer guarded. Others stayed to bargain for harvest work. Our barley sacks emptied. The millpond was mud, and the winter fields would pay for that night. My predecessor moved among the hay barns with a slate, putting every willing hand beside a necessary job.
 
-That afternoon I took down the preserved heads. The old hunters watched in silence as I carried each one outside. No beast came to see. Friendship did not require an audience.
+I found the pale-footed beast under the watch-house eaves after sunset. It lay where the roof shadow joined the woodpile, its burned side rising too quickly. I left a bowl of water and the last of my wound salve at the edge of the dark, then sat ten paces away.
 
-When the wall was bare, I burned the tally boards and hung a new one in their place. On it I wrote the first rule for whoever kept the night after me:
+My predecessor came out carrying two bowls of barley stew. He looked at the beast, at the distance I had left, and lowered himself beside me with a groan from his crooked leg.
 
-**A friend may answer, refuse, or leave.**
-
-Beyond the open door, the watch-house shadow joined the shadow of the ash tree. Two silver eyes regarded me from the threshold. Then they closed, and the darkness moved uphill, free of every chain.
+We ate without speaking. The beast watched us for a long while. At last it stretched its pale paw into the fading light, hooked the water bowl closer, and drank.

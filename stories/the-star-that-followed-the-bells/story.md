@@ -8,286 +8,322 @@ canon: false
 
 # The Star That Followed the Bells
 
-She counted the flock twice every evening: once with her eyes while the light held, and once with her ears after the slope had taken the sheep from sight.
+The shepherd knew the upper pasture with her eyes shut.
 
-The second count was usually the easier. The old ewe with one folded ear wore a squat iron bell that said *tonk* even on level ground. The three sisters answered one another in thin brass notes. The young wether's bell had a crack down its lip and buzzed whenever he trotted, which was often and seldom toward anything useful. Fifty-three animals made fifty-three moving sounds, each fitted to a body, a temper, and a place on the summer pasture.
+The clear bell that hurried downhill belonged to the black-faced yearling. The broad iron note near the spring belonged to the old ewe with the split ear, who cropped a circle wherever she stood. Three quick knocks behind the stony rise meant the crooked-horn ewe had turned her head to scratch. Even the ground had a sound: thin grass hissed on the dry shoulder, while the lush patch below it swallowed hoofbeats.
 
-That evening she reached fifty-three, tucked the tally cord into her sleeve, and heard another bell answer from above the upper slope.
+At evening she counted forty-eight bells. Then she counted them again, fitting each note to its place on the slope.
 
-She listened again. The folded-ear ewe tore grass beside a boundary stone. The sisters had gone behind the stony rise but chimed in their ordinary quarrel. The wether was nosing at a thistle. None of them had made the long, low note that rolled down from the sky.
+Forty-eight—and one more.
 
-There should not have been an aurora in the warm part of the year. Yet green light lay over the pasture in broad pleats, low enough to silver the seed heads. Violet gathered along its lower edge. When the wind bent the grass, the colors appeared to brush it.
+The extra answer came from above the pasture. It was too low for the smallest bell and too long for the largest, a stroke that seemed to widen after it should have died. Her sheep stopped grazing one by one. All forty-eight iron cups hung quiet against wool.
 
-The extra note came a second time. It was too deep for a sheep bell and too deliberate for thunder: a call, a pause, the same call again.
+The note sounded again.
 
-She set the flock moving uphill. If something wanted to be found, she still preferred to keep fifty-three other somethings where she could hear them. The sheep followed because the night's grazing was good and because she had the salt pouch. Their bells spread over the slope while she climbed ahead with her crook.
+“Stay put,” she told the flock, which was not an instruction sheep respected without a dog, a wall, or fresh salt. She had none of the first and was far from the second. She shook the salt pouch once and began uphill. “Slow, then. Behind me.”
 
-At the crest she first saw the wound.
+An aurora lay across the summer sky.
 
-It hung above the next hollow, longer than the ridge was wide. Torn white fibers trailed from a dark seam along one side, twitching whenever the aurora touched them. Around the fibers, seven empty hollows pulsed in the green light, evenly spaced, as if bodies ought to have occupied them. The rest of the creature was a deep blue so dark it kept the last stars in its skin. Along its broad underside, thousands of translucent cilia combed through the aurora. Each stroke drew color inward. Cold green droplets gathered at the cilia's tips and fell into the grass.
+That was wrong enough to stop her. The lights belonged to hard nights, when water skinned over in the pails. These hung low in the warm dusk: green folds wrung through with violet, their lower edges combing the crest. Cold droplets beaded on the grass below them. The black-faced yearling licked one and sneezed, then went back for more.
 
-The sheep noticed the droplets before they noticed the creature. They crowded forward to lick them from the stems.
+“You'll refuse water later,” the shepherd said. “Remember I warned you.”
 
-"Leave that," the shepherd said, though she bent and touched one drop with her own tongue. It tasted of iron and salt. "You'll spend all morning refusing clean water."
+The flock grazed after her. Their bells rebuilt the slope in her hearing as they climbed. At the crest, the extra note rolled through them again—not beside their sounds now but inside them. Forty-eight clappers touched forty-eight cups without a sheep taking a step.
 
-The folded-ear ewe ignored her. The thing above them gave its long note.
+Beyond the crest, something vast fed on the sky.
 
-Every bell on the slope trembled. The little bells carried the high edges of the sound, the iron bells its weight, the cracked bell a roughness like a throat hurt by speaking. From all those separate cups came words.
+It floated above the high hollow, long as a ridge and dark enough that the first stars showed faintly through its skin. Along its underside, translucent cilia swept the aurora into pale channels. Green light tightened between the fibers and vanished into the body. The cold droplets gathered there, then fell onto the grass.
 
-"Moving harmonics. Guide present."
+One flank was torn open.
 
-Several sheep looked accusingly at their own necks.
+Shreds of white sensory fringe streamed from the wound. Whenever the creature corrected its position, blue fire showed deep within the seam and the fringe snapped straight. Seven empty intervals ringed the injured side. They were not holes in the body. They were places in the creature's field, regular and expectant, each outlined for an absent shape.
 
-The shepherd tightened her grip on the crook. "Can you understand me?"
+The shepherd had found sheep opened by dogs, ewes failing in labor, rams with horns locked in wire. Scale did not alter the first useful question.
 
-The bells gave a brief, uncertain shuffle. "Sound source local. Meaning sufficient."
+“Can you hold yourself there?”
 
-"Are you a ship?"
+The flock's bells stirred. Not a ring: a testing of rims, high notes passed down to low ones and returned. The sound worried at itself. Then several bells struck together, laying one rough word over another.
 
-The dark body shifted. A fin she had taken for cloud drew close against its injured side. More green drops fell.
+“Hold—damaged. Field below—moving.”
 
-"Living carrier. Wounded. Feeding is poor."
+The crooked-horn ewe jumped at her own bell. The shepherd caught its rim until the vibration stopped.
 
-"You came down for the lights."
+“Those are mine,” she said. “Use them lightly.”
 
-"I came down because I could no longer stay up."
+A pause traveled across the flock from west to east. The great body lifted a little farther above the hollow.
 
-That answer was too plain to mistake for weather. She lowered the crook. The sheep had begun grazing in a crescent beneath the great body, content now that the impossible thing had proved edible.
+“Local voice,” the bells said. The clear cup on the yearling supplied one layer; the split-eared ewe's deep cup carried another. “Repeat. Lightly.”
 
-"Where were you going?" she asked.
+It had not understood all of her. It was learning from what her voice did to the air and what its own field could do to iron.
 
-The long note shook through the bells, but no words formed. Above her, the seven hollows in the aurora brightened and emptied again.
+She pointed up, though pointing was for herself. “Stay high.”
 
-"Destination absent," the ship said at last. "Injury severed the bearing fringe. My flock dispersed. Seven small lives. Seven route-bearers. No answers."
+The bells separated the sounds and returned them changed. “Stay. High.”
 
-"Your flock are ships too?"
+The vessel rose another little way. Its wound opened wider, then drew in.
 
-"Small. Living. Mine to keep near. Each steers itself."
+“Enough,” she said. “You're hurt.”
 
-The shepherd looked back at the sheep, where the young wether had found a patch of green dew and was licking with great concentration. "That is a flock. Where did you last hear them?"
+“Bearing fringe: torn.” The words arrived in unequal layers, one beginning before the last had ended. “Feed: failing. Low field: unheld.”
 
-"At the wound. Before descent. After descent, only moving harmonics."
+It was a ship, though no hand she knew could have built a living thing so large. The shepherd refused to waste the remaining light asking whose hand had. Seven absences pulsed around it.
 
-"Those are my bells."
+She tapped her crook toward them. “What belongs there?”
 
-"Yes. You offer guidance."
+The ship resonated only the heaviest bells. “Seven small lives. Seven self-courses. My flock.” A high aftertone trembled through the lighter cups. “Scattered at impact. Unanswered.”
 
-She should have heard the question hidden inside the certainty. Instead the sisters were splitting around the stony rise, the wether was pushing deeper under the ship, and the light was failing over the track to the lower fold. On these slopes, a sheep left to choose its own way often chose the gully. She answered before the ship could do the same.
+Not cargo, then. Not broken pieces. The empty places tightened when it spoke of them, and the long body rolled a fraction toward the open sky before pain checked it.
 
-"Follow me," she said.
+“Can they hear this?” She touched the nearest bell.
 
-All fifty-three bells answered at once.
+“Wound smears far calls into ground-iron. Guide harmonics are clear.”
 
-The ship drew in its cilia. The green hollows folded around it. With a slow turn that covered half the sky, it aligned its long body over the flock.
+Half was enough: the torn fringe had muddled its magnetic sense, running distant replies into every scrap of iron below.
 
-"Guidance accepted."
+The ship sounded the sequence that had made her count one too many: a low opening, two rising strokes spread across the moving flock, and a long tone above them. The sequence ended with every bell inclined downhill.
 
-The shepherd started down.
+“Guide-form offered,” it said. “Destination requested.”
 
-For the first hundred paces, she thought she had solved the immediate problem. The sheep knew the track. The ship followed their moving music, keeping high enough that its shadow passed softly over the grass. Its cilia dipped now and then to graze the aurora, and the wound stayed closed. They might reach the fold before full dark. Then she could settle her own flock and consider what one fed a ship after the sky ran out.
+“No one offered—”
 
-"Your small ones," she called. "Do they stray often?"
+The yearling darted after another patch of green dew. Six sheep went with him. The split-eared ewe turned toward the lower track, where the grass had already darkened. Beyond them lay the gully, invisible from here but never absent from the shepherd's map. She needed forty-eight sheep inside the lower fold before night covered its edge. Above, the aurora thinned wherever the ship grazed.
 
-"They range. They return. This is not straying."
+She raised the crook and gave the driving whistle.
 
-"Mine would say the same if I let them talk through bells."
+“Follow,” she said. “Keep above us.”
 
-"Your flock is poorly clustered."
+The bells took her voice, divided it, and rang the guide sequence beneath it.
 
-"They prefer grass."
+The ship drew its cilia close. “Offer received. I hold course to moving iron.”
 
-"Mine prefer distance."
+It aligned over the flock.
 
-"That seems badly arranged."
+For the first stretch downhill, the arrangement almost worked. The sheep flowed along the track in their familiar order. Bells marked every straggler. The ship followed high enough that only its shadow touched them, feeding from the aurora as it went. Cold green dew stippled their backs. Wool crackled when bodies brushed, but the flock cared more for grass.
 
-The bells considered this. "Usually it is not."
+The shepherd walked at the rear so she could hear the whole line. The ship's extra cadence remained centered above their bells.
 
-Then the track bent hard around the head of a gully.
+“Your seven answer to a call?” she asked.
 
-The lead sheep took the turn. Their bells swung left, followed by the middle of the flock, while the stragglers still chimed from the higher line. The ship tried to match both directions. Its nose yawed over the gully; its tail remained above the ridge. The air tightened. Wool lifted along every sheep's spine. Pebbles clicked uphill, rose an arm's length from the path, and hung there.
+The reply took three attempts. “They answer or withhold. They range by separate choice. They renew route fragments at each return.”
 
-"Keep high," the shepherd shouted.
+“You need their bearings.”
 
-The ship descended.
+“I need them.” The deepest bells struck alone. A higher chord followed. “Their routes also.”
 
-Its lower cilia touched the tops of the rowan shrubs. Frost flashed over the leaves, summer green gone white in an instant. The torn side flexed as the ship corrected. A line of blue light opened inside the wound, and the white fibers snapped taut.
+The deep note on *them* did not resemble the light route-chord. She nodded once and pushed the yearling back toward the path.
 
-The sheep broke downhill. The three sisters went together, which was a mercy, but the wether plunged toward the gully and half the flock followed his cracked, urgent buzz.
+“Mine turn for grass, fear, and habit,” she said. “Don't take direction from that.”
 
-The shepherd ran across them, planted the crook, and slapped its shaft against the ground. "Away! Away from there!"
+The bells repeated *grass* and lost the rest.
 
-They checked, bunched, and milled. Above them the ship lowered another body-width, seeking the strongest line of bells.
+The track narrowed above the gully. Here the ground fell away on the right and rose steeply on the left. The head of the flock rounded a shoulder before the tail reached it. Their moving bells became two lines at once, one running across the ship's course and one descending beneath it.
 
-She dragged a handful of carded wool from the pouch at her belt and caught the folded-ear ewe first. A twist around the clapper silenced the iron bell. She plugged the sisters' bells, then the cracked bell when the wether blundered within reach. The practiced leaders stopped chiming. The flock's motion lost its shape.
+The vessel tried to honor both.
 
-The ship stopped following.
+Its forward end swung toward the lower bells. Its wounded flank remained aligned to the upper ones. The turn bowed its body across the gully. Blue light tore open along the seam.
 
-For one hopeful instant it hung still. Then its whole dark length sank.
+“High,” the shepherd called. “Up now.”
 
-The aurora pressed flat across its back. Cold prickled the shepherd's face. Stones rose from the path and tapped against the ship's underside. The sheep, unable to hear their familiar leaders, spread in every direction.
+Static erased her voice. Every strand of wool rose. Pebbles rattled out of the path and hung at knee height, trembling toward the ship. The yearling bolted from them. The sheep behind him bunched against the drop, iron bells battering a fast, bright direction downward.
 
-"Guide vanished," the remaining bells said. Their words came lower now, stretched by the ship's failing height. "Flock vanished. Reduce altitude. Search near last signal."
+The ship descended to meet it.
 
-"No, you great fool."
+Its cilia dragged through the rowans below the path. Leaves flashed white with frost. The torn fringe caught charged air and snapped like wet cloth in a gale.
 
-"Procedure preserves lost lives."
+“Stop following the low line!”
 
-"It will flatten these ones."
+The flock's bells struck her words into fragments. The ship answered from all of them at once.
 
-She ripped the wool from the folded-ear ewe's bell. *Tonk*, said the bell. She freed the sisters, three bright notes nearly together, and finally the wether's cracked cup. He shook his head and produced a furious buzz.
+“Guide descends. Accepted course descends.”
 
-The ship arrested its descent so sharply that air rolled out from beneath it. The shepherd went to one knee. Sheep staggered against sheep. The torn seam widened another handspan, leaking blue light across the white fibers before the fin clamped down.
+She had stopped runaway sheep by blinding them with a coat. This needed the same interruption, she thought, only for sound. She seized the split-eared ewe, twisted a tuft of loose wool around the clapper, and muffled the broad bell. Then she caught the yearling's clear cup, the crooked-horn ewe's three-knock bell, two leaders near the turn. The moving line lost its strongest points.
 
-Pebbles dropped from the air. Bells settled against wool. Even the wether stood quiet.
+The ship stopped turning.
 
-The shepherd got up. Her palms were scored with bell rust and wool grease. "I have told you wrong."
+Then it sank.
 
-Every bell became quiet except for the small sounds of sheep breathing.
+The change was slow and much worse than a fall. With fewer iron notes to fix its wounded sense against the ground, it drifted bodily toward them. Frost ran over the stones. Sheep scattered between the silent leaders, their auditory order broken. The split-eared ewe stepped off the path onto the gully side because she could no longer hear the yearling ahead.
 
-"You offered guidance," the ship said.
+“Guide field reduced,” the remaining bells said, the layers stretched thin. “Lower reference—lost with seven—do not remove—”
 
-"I told you to follow. I meant down to my fold, where I could keep my flock from the gullies. I don't know your destination. I don't know one star from the next."
+The shepherd ripped wool from the nearest clapper. She freed the others with hands made clumsy by cold. The crooked-horn ewe jerked away before she finished; the knot caught, bent the clapper, and gave its bell a dragging double stroke.
 
-The bells struck a harsh chord. The flock flinched as one body.
+Sound returned unevenly across the slope.
 
-"Then destination offer was false. Following caused damage."
+The ship's cilia flared. It rose just clear of the rowans and held there, shuddering. The suspended pebbles dropped. One struck the shepherd's knuckle. She barely felt it through the sting of charge.
 
-"Yes."
+“Stand,” she ordered the sheep. She planted herself across the gully edge and beat the crook once on stone. “Stand. No lower.”
 
-She wanted to say she had meant well. The wound above her made that useless.
+The flock gathered by familiar notes rather than obedience. The shepherd waited until all forty-eight bells occupied places she could account for. Then she faced the dark hull spanning the sky.
 
-"Withdraw guidance," said the ship.
+The ship spoke first. Its words came hard, each layer entering on the same beat.
 
-"Withdrawn."
+“You declared a destination. Your iron made guide-form. You drove the form into descent.”
 
-The dark body rose a little, enough to clear the shrubs, and held there by labor she could see in the shiver of its cilia.
+“I told you to follow me.”
 
-"I can still help look for your seven," she said. "Only that. You stay high enough for the sheep. I make no promise past finding them."
+“That is the declaration.”
 
-"Your prior search signal led away from the injury site."
+She looked at the wound she had pulled low over the stones. The seam had opened another handspan.
 
-"Those bells lead sheep. They weren't searching for your flock."
+“I don't know your destination,” she said. No whistle, no raised crook, no movement for the bells to mistake. “I never did. I said follow as if I could lead you there. I take that promise back.”
 
-"They moved in a path. A guide signal is a path."
+Every bell rang once, struck by the ship rather than the sheep.
 
-Before she could answer, the folded-ear ewe went uphill after the thicker green dew. The rest followed unevenly. At the stony rise, half went left and half right. Their bells opened across the pasture, a slow arc of iron and brass with no single front.
+“Then there was nothing behind it.” The low layer held; the higher ones scraped against it. “My remaining altitude was spent on your road.”
 
-The shepherd listened. On the narrow track, the bells had made an arrow. Here they made weather. A sound could come from any edge and meet other sounds in the middle.
+“Yes.”
 
-"Hold where you are," she said.
+The ship pulled against the pasture's field until another body-length opened between its cilia and the rowans. “Guide-form rejected. Do not shape it again.”
 
-The bells gave one low stroke. "Is this guidance?"
+“I won't.”
 
-"No. It is the first part of looking. Hold there and call your flock. Let my bells carry it. If something answers, you listen instead of following."
+Above its wound, the seven vacant intervals pulsed out of time. The aurora was fading from violet to a thin green wash. The shepherd listened past the milling sheep. She could hear no small reply, only the crooked-horn ewe's damaged clapper dragging twice through each step.
 
-The ship's cilia spread into the thinning aurora. Its fin eased a fraction from the wound.
+“I can search this pasture,” she said. “Not for your destination. For seven voices. You hold high. I spread the bells. You call through them, and nothing moves toward an answer until we know where it is.”
 
-"Assistance bounded to gathering," it said. "Accepted. I will hold and call."
+The bells stayed silent long enough that the yearling tried to edge downhill.
 
-The shepherd took the salt pouch and walked across the upper pasture. She rattled a pinch onto stones where she wanted the leaders to linger, then pushed the eager sheep onward before they could bunch. She sent the sisters toward the high end of the slope and turned the wether below the rise. The flock stretched sideways, fifty-three small wanderings held in a broad crescent. Her sore hands knew when to tap a rump with the crook, when to stand in a gap, when to do nothing and let greed for green dew accomplish the work.
+She blocked him with her knee. “Choose quickly. The light's going.”
 
-When the crescent was as wide as she dared make it, she lifted one hand.
+“Your search uses the rejected iron.”
 
-The ship called.
+“It uses what I know. A line points one way. A wide flock tells me where a sound sits.” She tapped the path with the crook. “This is too narrow. We go back to the upper grass. You do not follow. Rise, if you can, and wait above the stony ground.”
 
-It did not use words. A low current entered the iron bells and climbed through brass, bell after bell taking up a different part. The cracked cup supplied a raw pulse that made the shepherd's teeth ache. Above them, violet gathered from the aurora and ran along the ship's torn fringe. The call went over the pasture, beyond the ridge, and into the clear dark.
+The ship's cilia contracted around the wound. “Search-field, not road. Seven calls. I hold.” Its overlapping tones halted. One blunt note remained. “Begin.”
 
-For a while there was only grazing.
+The shepherd turned the sheep uphill.
 
-Then a thin answer sounded beyond the high end of the crescent, no louder than a needle tapping a bowl.
+It was slower than descent. Static had frightened them; green dew distracted them. She worked the flock back from the gully by inches, listening for any bell that slipped below the track. Above, the vessel did not bind itself to their motion. It lifted in three painful increments and waited over the upper pasture while they climbed beneath it.
 
-The ship's cilia lifted. "One."
+At the stony rise, the sheep divided. The yearling led a hungry group around the lower side. The split-eared ewe took the older animals high. The crooked-horn ewe stopped at the point to scratch, her warped bell dragging two dull notes from every turn of her neck.
 
-It did not move.
+The shepherd heard the solution before she saw its shape. On the track, the bells had made an arrow. Around the rise they occupied breadth: high and low, near and far, pauses opening between them. A distant answer would enter those intervals differently depending on where it came from.
 
-The answer came again, nearer. A small dark shape slipped beneath the aurora. Small was the ship's word for it; the shepherd judged it the size of her fold. It had three translucent fins, one bent close to its body. It approached in short, suspicious glides, answering the great ship's call only after each pause.
+She crossed the slope with the salt pouch, dropping pinches where she wanted the flock to linger. She pushed the yearling farther along the lower edge and let the split-eared ewe browse toward the crest. Forty-eight sheep widened into a rough crescent around the stony rise, each choosing grass while she guarded the gaps. They were neither a road nor an obedient formation. Their ordinary appetite held the field open.
 
-"It can see you," the shepherd whispered. "Let it choose the last distance."
+The ship waited above its center.
 
-"It always chooses."
+“Now,” the shepherd said. “Call everywhere.”
 
-The satellite circled once, then settled into one of the green hollows around the wound. Its good fins spread. Light passed between it and the ship, and a new direction rippled through the bells.
+The vessel's first pulse entered the largest bells softly. Higher components passed through smaller cups. The crooked-horn ewe's bent clapper supplied a rasp the ship could not summon cleanly on its own. The call traveled across the crescent, climbed the aurora, and pressed beyond the ridges until the iron went still.
 
-"Route sector refreshed," said the ship. "Destination remains absent. Six lives absent. Call may narrow."
+No answer came.
 
-The next answer came from below the ridge. That satellite arrived spinning, checked itself before the crescent, and entered its place tail-first. The third dragged a veil of green sparks and would not join until the first moved aside to give it room. The fourth came high, a clean black seed against the stars, though a pale scar crossed its underside. With each return, the great ship's call grew less diffuse. Its flock gave back pieces of a route they maintained among themselves: a curve past one darkness, a correction near a brightness, an approach whose end still had no name.
+The ship called again, changing the intervals. This time a needle-fine pulse touched the bells at the high end before those below.
 
-The fifth satellite skimmed so low that the sheep ran from its shadow. The shepherd spent precious minutes rebuilding the crescent, scolding both flocks without favor. The sixth answered from directly overhead. It descended with one fin furled and took station near the ship's torn seam. Together, the six cast crossing bands of violet around the wound. The white fibers stopped snapping in the wind.
+The shepherd lifted one hand. “Above the crest. Far.”
 
-The eastern edge of the sky had gone gray.
+The vessel held its position. Its whole wounded flank turned without descending, presenting the first empty interval.
 
-"Six," the ship said. "Bearings sufficient to travel. Destination insufficient. One life absent. Feed ending."
+The answer strengthened. A small dark body appeared against the green light, still the size of a sheepfold though tiny beside the vessel. One of its three fins was clenched close. It approached in short advances, stopping after each. At the boundary of the ship's field it sheared sideways, refusing the open place.
 
-The shepherd stood among sheep wet to the knees with green dew. They had eaten until their bellies bulged. Their bells made small, irregular sounds as they cropped the last sweet stems.
+The great vessel gave a low summoning chord.
 
-"Call again."
+The satellite retreated.
 
-"Three calls unanswered in final sector."
+“Too much,” the shepherd said.
 
-"My count was wrong before because there was an extra sound. It may be wrong again."
+“Return-pattern is correct.”
 
-The ship sent the call. The aurora was so thin now that the answer seemed to pass through bare dawn. Bells sounded all along the crescent. Fifty-three sheep shifted, tore grass, nudged one another, and stepped around stones. Beneath them ran the ship's great note and the six smaller replies.
+“Then stop pressing it.”
 
-There was something else.
+The bells hardened. “You read sheep. Not its course.”
 
-She walked to the lower end of the flock. The sound weakened. She crossed above the stony rise; it strengthened, but the sisters' bells crowded it. She pushed them ten paces east. Their three notes moved with them.
+“I know backing away.” She watched the small ship hold against the aurora with its good fins spread. “Cut the low note. Leave the gap.”
 
-The faint sound stayed where it was.
+The vessel cut its chord.
 
-It was almost the same pitch as the wether's cracked buzz. Almost. He trotted after a mouthful of salt, carrying his noise sideways, while the other tone remained fixed beyond the lower ridge.
+For three breaths nothing moved. Then the satellite advanced along an oblique path of its own, circled the wound once, and settled not in the waiting hollow but just beyond it. Only after the great ship shifted the field outward did the smaller life enter. Pale light ran between them.
 
-"There," she said. "Past the gully. Low. One sound that doesn't move with a sheep."
+The bells received a pattern of turns, corrections, and one bright interval leading away from the pasture.
 
-The ship's nose began to turn.
+“One returns,” the vessel said. The word *returns* occupied every iron cup. “One route fragment refreshed. Six absent.”
 
-"Hold," she shouted.
+The renewed fragment narrowed the next call toward the lower sky. The second answered from beyond the gully in a hiss that broke whenever one damaged fin shed sparks. It chose a wide circle before taking its interval. The third replied with three notes that revolved through the bell crescent; it arrived spinning, braked against the broad field, and stationed itself tail-first beside the wound. A fourth gave one dark knock from three different positions. Nearly whole but lightless, it entered only when the first satellite shifted to make room.
 
-The turn stopped. For an instant the bells carried no words, only strain.
+Each return altered what the others carried. A bearing passed from the first to the fourth and came back corrected; the third tested it against the approach it had survived. No fragment alone made a route. The great vessel continued to call, count, and choose while the seven small lives kept their own stations.
 
-"I can call toward a bearing without following," the ship said.
+The fifth answered high in a doubled note, one clean and one scorched thin. It limped into sight with its outer membrane rolled like a burnt leaf, refused the nearest interval, and took a more distant station where its damaged side would not brush the torn fringe. The sixth reply rolled so low through the bells that the shepherd felt it in her knees. Its maker came over the pasture close enough to bunch the sheep with its shadow. She drove them clear; above her, the vessel shortened the low part of its call. The sixth climbed, corrected past the waiting interval, and entered the formation from below. Its light met the others in violet bands that braced the wound without closing it.
 
-"Do that."
+“Six,” said the vessel. Its layers no longer dragged. “Route extends. Destination signal remains incomplete. Seventh unanswered.”
 
-The directional call struck the bells like a gust. Beyond the gully came a fragile answer.
+Dawn had begun to thin the eastern dark. The aurora frayed above the high crest, and the ship's feeding cilia caught less with every sweep. The sheep had eaten the cold green dew wherever it fell. Several stood bloated and satisfied, their bells quiet against their chests.
 
-Once. Silence. Then twice.
+The vessel sent a seventh call across the crescent.
 
-The seventh satellite rose by degrees from behind the ridge. One of its fins hung in strips. It climbed a little, rested on the charged air, and climbed again. The six around the ship answered in separate notes. The injured satellite paused outside the formation, trembling.
+At the lower end, the warped bell answered twice.
 
-The great ship held its place. Its cilia bent toward the struggling shape, but its long body did not advance.
+The crooked-horn ewe had found salt between two stones. She dug at it with one hoof: drag, knock; drag, knock. Under that ordinary rhythm lay another pair, fainter and almost exact.
 
-At last the seventh crossed the remaining distance. It entered the final hollow beside the wound, where the others shifted to receive it. Violet bands passed from body to body. The torn white fibers gathered between them, supported in a cage of light. The small ships flew in their own places, each adjusting by separate degrees as the wound steadied.
+“Low answer,” the ship said. Its forward body angled toward the gully.
 
-The bells filled with a chorus too intricate for words. The shepherd heard turns and distances, corrections tested and returned, seven routes becoming one road because each carried a part the others had refreshed. The great ship's dark skin brightened until the last stars vanished from it.
+“Hold.”
 
-Then the bells spoke.
+“Seventh is low.”
 
-"Destination restored. Flock complete. Travel wound supported."
+“So is a ewe with a bent clapper.”
 
-The shepherd gave the settling whistle. The sheep were exhausted enough to obey. One after another they folded their legs beneath them. The three sisters stayed up to nose for salt, so she caught their brass cups in one hand until they too settled. At last every bell rested against wool.
+The ship did not turn farther, but the bells rang tight with its restraint. “Separate them.”
 
-"No guide signal," she said. "Tell me what you do now."
+The shepherd crossed the crescent at a run. Sound changed as she moved: the split-eared ewe behind, the yearling above, the warped double stroke ahead. She caught the crooked-horn ewe under the jaw and closed her fist around the bell.
 
-The ship and its seven satellites hung above the slope in their violet frame.
+The iron cup stopped.
 
-"We depart by the route we carry," it said. "We do not follow you."
+Beyond the rise, two faint pulses continued.
 
-"Good."
+They were not quite even. The first lifted; the second frayed into several small impacts, as though the caller could not hold one surface steady. They came from below the gully's far lip and did not shift when the ewe pulled sideways in the shepherd's grip.
 
-After a pause, the cracked bell gave a small buzz. "Your flock-work was hazardous."
+“Not the sheep,” she called. “Past the gully. Keep this height. Send only toward the far lip.”
 
-She looked at the frost-burned shrubs, the scattered stones, and the young wether lying on the wrong side of everyone else. "So was yours."
+The vessel changed its call. It did not chase. Six satellites angled their bodies and passed the narrow signal among themselves until it left the formation as one clean descending tone.
 
-"Assessment shared."
+The answer came once. A long silence followed.
 
-The seven satellites tilted outward. Their light drew the wound closed enough for travel. The great ship rose without haste, cilia combing the last green strands from the sky. It passed above the ridge and became a dark stroke across dawn, attended by seven smaller strokes. Then all eight turned toward a point the shepherd could not distinguish from any other brightness and went on.
+Then the seventh satellite rose into view.
 
-By sunrise, the sheep had eaten every bead of green dew they could find. At the lower trough they sniffed the water and refused it exactly as she had predicted. The young wether's bell had warped under the ship's call; its old buzz now ended in a squeak. She would have to mend it before evening.
+Two of its fins hung in translucent strips. It climbed until its remaining fin shook, dropped out of sight, and climbed again. The great ship's cilia streamed toward it. The vast body shifted half a pace before stopping itself.
 
-She counted at the fold wall, wanting breakfast.
+The shepherd kept the ewe's bell closed. Around the rise, forty-seven other sheep grazed or watched. No false line formed beneath the vessel.
 
-Fifty-two.
+The six satellites called in uneven succession. The first gave the interval by which it had returned. The low-sparked second answered with a shorter approach. The dark fourth moved outward, opening a path. None went down to fetch the damaged life. The seventh rested on the charged air, chose its next climb, and rose.
 
-This time no impossible note answered from the sky. After a moment, the folded-ear ewe's familiar *tonk* came from the wrong side of the downhill path.
+It reached the edge of the formation as the aurora became a few green threads. There it stopped. Its response passed through the crooked-horn ewe's bell despite the shepherd's hand: two pulses, the second shattered at the rim.
 
-The shepherd took up her crook and went after it.
+The large vessel opened the final interval.
+
+The seventh crossed into it.
+
+Violet light ran around all seven small bodies, never erasing their different shapes or chosen distances. They redistributed themselves along the torn flank. The first held off the wound on its good fins. The fifth kept its scorched membrane clear. The seventh took the least strained line and added its flickering route fragment to the exchange.
+
+The shepherd released the ewe's bell. Its clapper resumed the dull drag of ordinary movement.
+
+Above, eight courses met. The bells carried no words for a while, only a map too large and quick for her hearing: bearings corrected against bearings, passages confirmed, the final destination fixed somewhere beyond the paling sky. The ship's wound remained open, but seven bands took its strain. Its cilia gathered close for travel.
+
+At last the iron quieted into speech.
+
+“Seven lives present. Route complete.”
+
+The shepherd listened for strain and heard none in the layers. “Can you leave?”
+
+“I can.”
+
+The great body lifted. The satellites adjusted separately, preserving the brace as the formation rose.
+
+“Where do you go?” she asked.
+
+The bells gave a chord without any direction she could use. “A destination I remember.” Another chord followed, firmer. “The route returns. I take it now.”
+
+“Then clear the sheep before you turn.”
+
+The vessel rose until its field no longer lifted their wool. Only then did it roll toward a point west of the last auroral thread. The seven satellites turned by separate motions: the first arced ahead, the fifth widened to spare its scorched membrane, and the seventh corrected twice before settling into the brace. Their light tightened. The great dark shape climbed through dawn and dwindled; seven marks went with it until all eight passed beyond the shepherd's sight.
+
+She drove the sheep to the lower fold late.
+
+At the trough they sniffed the water and backed away, bellies full of cold green dew. The shepherd hauled the gate shut, found bread in the wall niche, and counted while she ate.
+
+Forty-seven.
+
+This time there was no extra cadence above them. From the wrong side of the downhill wall came the crooked-horn ewe's warped double knock, already moving farther into the scrub.
+
+The shepherd tucked the bread under her arm, took up her crook, and went after it.

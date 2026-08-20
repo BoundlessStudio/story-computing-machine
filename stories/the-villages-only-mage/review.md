@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The story fulfills the village-helper and visiting-mages premise through a consistently portrayed fifty-eight-year-old man; his forty-six years of service and lifelong bond with the neighbor who raised him are chronologically plausible. Its living-supplied magic, recursive requests, bounded choice, and unfinished obligations remain coherent with universe authority and the binding craft profile.
+- Notes: The exact visitor question opens a warm, materially specific discovery of immense reserve and narrow control. The teacher's precision, road mage's logistics, youngest mage's appetite for scale, neighbor's concrete resistance, and protagonist's changing answers remain distinct; the final feeder-pipe refusal enacts rather than restates the bounded choice.

@@ -8,459 +8,450 @@ canon: false
 
 # Thirteen Years Borrowed
 
-The tooth is mine.
+At 6:38 in the morning, I take a stranger's hand off her apartment key and know the hand was mine first.
 
-I know before I have finished taking the body. The right incisor catches the
-inside of the lower lip, a tiny hooked edge where I chipped it on an apricot
-stone at sixteen. Then the rest of the body closes around me: sight, weight,
-the drag of a canvas bag on one shoulder, the cold brass knob beneath my hand.
-I settle into the bones as into a house seen after a fire and rebuilt without
-the plans.
+The certainty does not arrive as a feeling. Feelings have lied to me in body after body. This is measurement. The upper left incisor has a shallow notch on its hidden edge, where I cracked it on a plum stone at fifteen. The right second toe bends inward by the width of a thumbnail, set badly after I dropped a bed rail on it. Beneath the left ribs, exactly where the shirt seam crosses skin, lies a crescent burn no doctor ever entered in a file. I feel all three before the brass key stops swinging.
 
-The left fourth toe aches in the rain. I broke it kicking a bed frame and lied
-about the limp for a week. The right arm reaches farther than I expect because
-I have spent thirteen years measuring reach in other people's proportions.
-The jaw is heavier. The lungs are shallower. The heart bangs hard enough to
-blur the dim hallway.
+Then the larger dimensions settle around me: the long forearms, the narrow heel, the half-finger difference between shoulder heights. Thirteen years have thickened the knuckles and shortened the easy breath, but they have not changed the frame.
 
-Mine, every beat says. Mine, mine, mine.
+I turn the wrist. A plain watch reaches 6:38 exactly.
 
-*Get out,* says a woman inside my attention.
+*Take your hand off my key.*
 
-I let the hand fall from the apartment door. Beyond the stairwell window,
-morning is a gray strip between buildings. The watch on the wrist reads 6:17.
+The voice speaks inside the attention we share. It is not a memory, because I cannot reach her memories. It is not a thought I have overheard, because she chooses each word and puts it where I cannot close a door against it. I control the muscles. She receives every sensation, remembers every movement, and can speak to me while I wear her body. I know how to withdraw; I have done it between one breath and the next when a fracture was wrong. If I stay, no host can make me leave before the day ends. Possession has worked this way in everyone else.
+
+I open and close the hand once.
 
 *Now.*
 
-My relief has nowhere to go. It shakes the knees instead. I lean against the
-wall and press my tongue to the broken tooth again, as if certainty needs a
-second witness.
+"My name is Eamon Huxley." The voice that comes out is rougher than the one I lost. "The chip is three millimeters from the corner of the left incisor. The toe healed inward. There is a burn under the eighth rib. This is my original body."
 
-"My name is Eamon Huxley," I say with a voice deeper than the one I remember.
-"This is my body."
+A tremor runs beneath a black brace on the left wrist. I did not command it. Nadira cannot make the hand reach or close, but fear still changes the pulse, the skin, the wetness of the palm.
 
-The woman goes quiet for three heartbeats. I feel none of her thoughts, only
-the silence where her chosen words would be. A person possessed stays awake.
-They feel everything I make their body do and remember the whole day, but I
-cannot rummage through memory. It was the first mercy I found in the thing
-that happened to me, and later the most useful excuse.
+*My name is Nadira Whitlock. It is my key. Put it in the lock, open the door, and leave me.*
 
-*My name is Nadira Whitlock,* she says. *You have stolen my hands in my own hallway.
-Get out of me.*
+"I have to test the limit."
 
-I have left people after seconds when a scar was wrong, a knuckle too broad,
-an old fracture absent. I have also stayed when doubt required more looking.
-Whatever body I enter throws me out after twenty-four hours. Between bodies I
-am almost nothing: direction, pressure, the faint wash of nearby voices. I
-cannot see my way across a room. For thirteen years, the day has been a prison
-and a promise.
+*You have tested my hand.*
 
-"I need to know if it keeps me."
+"Every body rejects me after one day. If this one is different, I need to know."
 
-*You know the tooth. Congratulations. Leave.*
+*Then you are choosing to use every hour before you know.*
 
-"The toe too. And the shoulder blade has a flat place on the left. There'll be
-a white scar under the ribs, curved like a comma."
+"Outside, I can barely tell a wall from a person. At 6:38 tomorrow, the body may throw me out. Until then, it won't."
 
-The body's mouth closes under my control. Nadira cannot stop it. By the time she
-answers, I have clenched the jaw hard enough to make it ache.
+I say it like a physical law because laws are easier to use than refusals. The hallway smells of damp wool and the paste that has worked itself into the cuffs of Nadira's coat. I turn the key.
 
-*There is,* she says. *I still want my hands.*
+I stop when she speaks again.
 
-"At 6:17 tomorrow, maybe the choice won't be mine."
+*Shoes off. The floor was waxed yesterday.*
 
-*And until then?*
+I remove the shoes.
 
-I look down at the unfamiliar coat, the ink stain on one cuff, the keys looped
-around two fingers. The left wrist wears a black brace. These things feel like
-evidence I have not yet sorted.
+The apartment gives the body instructions I cannot hear. I reach toward a cupboard and strike its handle with the knuckles. I take two strides toward a bathroom that turns out to be a closet. Nadira waits until I am about to walk into a low table.
 
-"Until then, I stay."
+*Turn left toward the window.*
 
-Inside the apartment, Nadira makes me remove my shoes before she will say another
-word. I nearly laugh. She feels it in the chest and tells me not to.
+I turn.
 
-The rooms are small and exact. A plant turns broad leaves toward the kitchen
-window. Awls and brushes stand in jars on a worktable against one wall, though
-Nadira informs me that the real bench is downstairs. Three pairs of reading
-glasses wait where different tasks require them. The body knows none of this
-for me. My hand reaches toward the wrong drawer for a spoon, and only Nadira's
-sharp *left* keeps me from opening a box of powdered pigments.
+"Tell me where the mirror is."
 
-In the bathroom I find the scar under the ribs. I lift the pajama shirt beneath
-the day clothes and stare at its pale curve in the mirror. A pan handle did
-that when I was eleven. I find the mole behind the right knee and the shallow
-dent at the crown of the skull. Each recognition loosens something that has
-been clenched in me for years.
+*Tell me when you are leaving.*
 
-But there are additions. A silver line crosses the base of the thumb. The
-fingertips are rough in patterns I never earned. A tendon shifts painfully
-beneath the wrist brace. There are two small holes in one earlobe, a missing
-molar, faint creases bracketing the mouth. I put on the glasses Nadira directs me
-to, and the labels on the medicine cabinet snap into focus.
+"Tomorrow, if the rule holds."
 
-*You are holding my neck at a ridiculous angle,* she says.
+*Then find the mirror yourself.*
 
-I straighten. The right shoulder still complains.
+I find it by opening three doors. The face is older, as it must be. Silver has entered the dark hair at the temples. The bridge of the nose carries two shallow dents from glasses. A small molar is gone on the lower right. When I pull up the shirt, the burn waits in its exact place, pale and slightly stretched.
 
-"What happened to it?"
+The new marks crowd it. A straight scar crosses the base of the left thumb. The wrist brace supports a tendon that complains when I flex. The right shoulder stops before the arm reaches fully overhead. Paper dust has dried the skin along both index fingers, and a thick callus sits where I never had one.
 
-*A press slipped last winter. I caught the platen because the alternative was
-letting it crush a nineteenth-century prayer book.*
+I press the tooth with my tongue, then bend to inspect the toe.
 
-"You saved a book with my shoulder?"
+*If you pull the brace that tight, the fingers go numb,* Nadira says.
 
-*I injured my shoulder at work.*
+I loosen it one hole.
 
-The mirror gives us one face and no way to divide the expression. I stop
-looking.
+"What happened to the wrist?"
 
-Nadira has porridge in the refrigerator and insists the body needs food before
-coffee. I taste the jam before spooning it into the bowl. Sourness bites the
-sides of my tongue.
+*Repetition. Bad bench height. The shoulder was a slipped press last winter.*
 
-*That jar is sweet,* she says.
+"How much range did it lose?"
 
-"Not while I'm here. Sweet and sour trade places."
+*Enough that you will use the step stool instead of reaching. The close-work glasses are in the brown case. The body needs breakfast before coffee. I have an atlas promised for pickup at one.*
 
-*That's absurd.*
+She speaks in appointments and tolerances while I am still counting old injuries.
 
-"It's consistent."
+"I am not going to work."
 
-*You prefer absurdity with records.*
+*You already went into my morning. You do not also get to spoil the atlas.*
 
-I open the refrigerator and take out a jar of pickled onions to prove it. The
-brine coats my mouth like warm syrup. Nadira tastes the same mouthful normally
-and swears so vividly that I choke.
+"Someone else can finish it."
 
-"I usually eat plain food."
+*No one else prepared the repair. And you do not know how.*
 
-*You usually do this?*
+The hands were deft once. I could mend a torn coat in bad light, take a radio apart, write small enough to fit a month's expenses on one page. I look at the new calluses.
 
-The question waits while I rinse the onion taste away. "I usually have to eat."
+"I know these hands."
 
-Nadira directs me to oats, salt, and a banana. My hand reaches automatically for
-the sugar bowl, not from her habit but mine, then stops. I cannot trust the
-tongue to season for the person feeling it with me. We eat the porridge plain.
+*Then put the shirt down without catching the brace in it.*
 
-At the table she asks where I was thirteen years ago.
+I catch the brace. The pain is quick and bright. Nadira does not say anything while I free the cloth.
 
-There have been so many versions of this account, spoken to frightened
-strangers and skeptical healers and one old man who tried to sell me a glass
-body. In this mouth the facts feel indecently simple.
+In the kitchen, she directs me to bread, soft cheese, and a jar of apricot jam. I touch a spoonful to the tongue. Acid pinches both sides of my mouth.
 
-"A public washroom near the bus depot. I was washing ink off my fingers. I
-blinked and I was outside, in a man waiting by the ticket machines. He started
-screaming in my head. When the day ended, I fell into a woman on a bench. Then
-someone on a bus. I couldn't get back inside the washroom without taking
-someone who was going there. By the time I managed it, this body was gone."
+Nadira tastes through the same tongue and says, *That is sweet.*
 
-Nadira does not answer at once. The refrigerator hums; rain ticks against the
-window. When she answers, each clause is neat and bloodless, as if she has
-pared away anything I might mistake for a plea.
+"For me, sweet turns sour. Sour turns sweet."
 
-*My first memory is sitting on the floor of a public washroom,* she says. *My
-hands were wet. There was ink in the sink. I knew how to speak and read. I knew
-what buses were and that I should not be barefoot in a public building. I did
-not know my name, where I lived, or why the face in the mirror made me expect
-someone else.*
+*Is that supposed to prove something?*
 
-The body's fingers have curled around the bowl. I make them release it.
+"No. It happens in every body."
 
-"The date?"
+I put the spoon down. Nadira tells me to rinse it before the jam dries. To confirm the reversal, I bite the corner of a pickled carrot. Syrupy brine coats my teeth while she recoils from ordinary vinegar.
 
-She gives it. The same date. I ask the time, but she never found out. I ask
-whether she saw anyone leave, whether there was a sound, a light, a smell of
-ozone, a missing hour. Her answers shorten until they become one answer.
+*Once was enough.*
 
-*I don't know.*
+"It could have changed."
 
-I have spent thirteen years believing that enough physical detail would lead
-to an explanation. Here is the body, every private mark intact, and the cause
-is no closer than when I was blind beside the ticket machines.
+*The carrot did not become evidence in the four seconds between bites.*
 
-"Why did you leave?"
+I eat the bread and cheese without seasoning. The inversion has never helped me identify a host or predict an ejection. It merely makes meals unreliable and gives another person a normal taste through a mouth that lies to me.
 
-*Because a custodian was knocking. Because there were identification cards in
-the wallet with a name I did not recognize, and the address had been emptied.
-Because after three days of asking people to tell me who I was, I understood
-that none of them could.*
+At the table I ask, "What is your first memory?"
 
-"So you chose Nadira Whitlock."
+Nadira does not answer until I place both hands flat where she can feel that I am not searching drawers.
 
-*Eventually. I chose breakfast first.*
+*Tile against my cheek. A public washroom. Wet hands, ink in the basin, no shoes. I knew how to read the sign on the door. I knew what a bus was. I did not know the face in the mirror or anybody who might be waiting for it.*
 
-Dry laughter moves through the body before I decide whether to permit it. It is
-hers in timing and mine in muscle, and the distinction troubles me more than
-the scar did.
+I give her the calendar date on which I was displaced.
 
-At eight, Nadira tells me we have to go downstairs.
+*That date,* she says.
 
-"No."
+"What time?"
 
-*I promised a repair by noon.*
+*There was no clock where I could see it.*
 
-"Tell them you're ill."
+"Did you hear another voice? See someone leaving?"
 
-*You have my voice, not my judgment. I prepared everything yesterday. The
-collector only needs to find the package in the front cabinet.*
+*No.*
 
-"Then it can sit there unfinished."
+"A flash? A smell? Anything missing immediately before?"
 
-*If you intend to occupy my body all day, you can at least refrain from
-damaging my business while you do it.*
+*There was no immediately before. Not for me.*
 
-I want to bolt the door, strip, and map every old hurt against my memory. I
-want to walk until the gait becomes mine again. Instead I follow her directions
-to a narrow workroom on the ground floor, because hiding in her apartment
-would require ignoring the life around the body, and I have become less able
-to do that than I was an hour ago.
+I ask the same questions with smaller units. Which side of the basin. Which hand held ink. Whether the latch was open. Nadira answers until the answers stop changing.
 
-The room smells of paste, leather, and damp paper. A press squats beside the
-bench. Shelves hold books in stages of undress: boards removed, spines exposed,
-pages lifted into careful fans. On the bench lies a school atlas with its cover
-off. A torn map at the front has been flattened beneath glass. Along one margin,
-a child's pencil has added a sea monster with six worried eyes.
+*No clock. No one leaving. No moment before the tile. Ask another way and the answer stays no.*
 
-*Wash your hands. Cold water. Dry them on the linen, not the blue rag.*
+I cannot look through her memory to check. She cannot look through mine. Her account begins on the same morning mine breaks, but the seam between us is blank.
 
-"I know how to wash hands."
+"What did you do?"
 
-*Those hands? So far I have seen no evidence.*
+*Got off the floor. Found shoes. Learned that the address on the cards had been emptied. Stopped waiting for somebody else to recognize me.*
 
-I obey. Nadira talks me through removing the glass and lifting the mended page.
-The sheet is so thin it flutters when I breathe. Beside it waits a strip of
-toned paper, nearly invisible against the torn margin.
+"When did you choose your name?"
 
-"I remember being good with my hands," I tell her.
+*When I took my first repair. The owner asked who should sign the wrapping.*
 
-*You may have been. Pick up the folder.*
+I want one more observable fact. Nadira has only the first wet morning and the life after it. The same date gives me no missing minute and no cause.
 
-I choose the flat steel tool.
+At 7:51, she tells me to take the workroom key from the hook.
 
-*The bone folder.*
+"I need another hour here."
 
-"That is bone?"
+*For what measurement?*
 
-*It has been a common tool longer than either of us has used these fingers.
-The cream-colored one.*
+"The leg. There used to be a seven-millimeter difference."
 
-I set the wrong tool down. The folder fits the palm with intimate unfamiliarity.
-Nadira tells me to test the grain of the repair paper. I bend it one way, then the
-other, feeling no difference.
+*There still is. It is why the right shoe has a lift. Put it on.*
 
-*Again. Smaller bend.*
+I look inside the shoe and find the wedge. Nadira has corrected an imbalance I once treated as a fact to endure.
 
-"It feels the same."
+*Downstairs,* she says. *The paste was mixed last night. It will not wait for your astonishment.*
 
-*It is not.*
+The workroom occupies the ground floor beneath the apartment. We reach it without crossing the street. I misjudge the last stair because I expect the old leg length without the lift and catch the banister with the right hand. The stiff shoulder takes the jolt.
 
-I reach for the knife.
+*Center the next foot. The third tread dips at the wall.*
 
-*Stop.*
+"The shoe lift changed the drop."
 
-The word strikes so hard I freeze with the blade above the paper.
+*And the stair changed where it supports you. Center.*
 
-*If you cut across the grain, it will pull the page when the humidity changes.
-Put it down.*
+She cannot lend me that judgment. I place the next foot where she tells me.
 
-"You said the collector comes at noon."
+The workroom is narrow and warm. Shelves carry volumes with their covers opened, spines lifted, pages held between boards. A screw press stands against the back wall. On the central bench lies a small atlas in faded green cloth. Its front map has torn along a fold, and the first gathering has pulled loose from the case. Nothing about it is rare or grand. Someone has pressed a greasy thumb beside an inland lake.
 
-*Then we have time to do it slowly.*
+*Brown case,* Nadira says. *Close-work glasses.*
 
-The hands are mine by bone length, Nadira's by every useful callus, and presently
-good at nothing. I put down the knife.
+I put on the glasses. The room softens beyond my hands, but the torn paper resolves into fibers.
 
-We begin again. She has me lift an edge, bend it, listen as well as feel. Across
-the grain the paper gives a faint dry resistance. Along it, the curve comes
-easily. Once I catch the difference, I cannot understand how I missed it.
+Beside the atlas wait two brushes, a covered bowl of paste, a strip of thin repair tissue, blotters, a bone folder, a curved needle with linen thread, and a small knife. I reach for the knife.
 
-That thought is dangerous. I cut too confidently, and the wrist twinges beneath
-the brace.
+*No.*
 
-*Rest the heel of the hand,* Nadira says. Her anger has changed shape. *Let the
-knife travel. Do not make the wrist pull it.*
+"The strip is too wide."
 
-I adjust. The blade whispers through the strip.
+*And its grain is turned wrong. Pick it up by the ends.*
 
-The work takes the morning. Nadira gives instructions in distances smaller than I
-can see without the strongest glasses. I mix paste too thin, then nearly ruin
-the second batch by tasting a dab and reaching for salt.
+I do.
 
-*Paste is not soup.*
+*Bend it over one finger. Barely.*
 
-"It tastes sweet."
+The tissue curves. I rotate it and bend again.
 
-*It tastes sour because it has spoiled. Throw it away.*
+"Same resistance."
 
-We start a third batch. I learn the brush is rolled, not dragged, and that a
-page can be damp enough to relax without looking wet. When the shoulder burns,
-Nadira has me lower the stool. When my impatience makes the brush jump, she stops
-speaking. After twelve quiet seconds, I set it down.
+*No. Across the grain, it pushes back sooner. Use less force or you flatten the difference.*
 
-By eleven thirty, the repaired map lies flat. The join is visible only when I
-tilt it toward the lamp. I paste new cloth to the spine, fit the cover, and set
-the atlas between boards in the small press. We turn the screw together only
-in the loosest sense: Nadira counts half-turns while I supply the force.
+I try with only the weight of my thumbs. One direction makes a reluctant arch; the other falls around the finger.
 
-The body does not remember her craft for me. No hidden skill flows up through
-the fingers. Yet when I wipe the bench, she tells me which flecks are dried
-paste and which pale marks belong to the wood. The collector's key sounds in
-the front door just after noon. I retreat upstairs before we can be seen.
+"This way."
 
-*You put the package in the correct cabinet,* Nadira says as we climb.
+*Say what you feel.*
 
-"High praise."
+"Less resistance along the length."
 
-*Do not become dependent on it.*
+*Good. Set it down. Water brush, not paste brush.*
 
-The afternoon narrows into maintenance. We change the wrist brace after I
-sweat through the first one. We stretch the shoulder against a doorframe. I
-sleep for forty minutes because the body needs it and wake in terror that I
-have lost three more years. Nadira waits through the panic without soothing me.
+Both brushes have pale handles. One is broader by perhaps two millimeters.
 
-I notice the body dislikes raw apple now. A knee clicks on the stairs. The hair
-has begun to silver above both ears. Nadira has learned to turn one hip sideways
-past the workroom press; I bruise it because I do not. None of these facts
-disproves my claim. That is what makes them hard to bear.
+"Which?"
 
-At dusk, she asks how many people I have possessed.
+*The one with the blue thread at the ferrule.*
 
-"I stopped counting after four hundred."
+I had not seen the thread. I wet a narrow line in the tissue, pull too quickly, and make a ragged fork.
 
-*How many asked you to leave?*
+*Stop pulling.*
 
-I clean paste from beneath a thumbnail. "Most."
+"I can straighten it."
 
-*And you did?*
+*While it is wet, lift the fork with the folder. Do not rub it into felt.*
 
-"If I knew quickly."
+My left hand wants to help. The brace makes the angle clumsy. Nadira directs the folder into the right hand instead. I resent taking orders about a hand whose scar I remember earning, and the folder skates dangerously close to the damp atlas page.
 
-*That was not my question.*
+*Off the book.*
 
-Rainwater crawls down the window in crooked tracks. My reflection floats over
-the dark glass, older than the face I carried out of that washroom in memory.
+I freeze.
 
-"Sometimes I needed the whole day. A scar could have been removed. A bone could
-have healed badly. People lie when they're frightened."
+*Both hands off. Count ten breaths if numbers are what you listen to.*
 
-*Did you learn their names?*
+I put the tools down. The pulse beats against the wrist brace. On the sixth breath I see that my elbow has planted itself where the blotter needs to go. On the tenth, I move it.
 
-I think of a baker whose hands I kept checking for an old burn, a student who
-missed an examination while I searched her scalp, a father who begged me not
-to speak to his children with his mouth. For years I treated those details as
-noise. Names made the exits harder.
+"Tell me the sequence before I touch anything again."
 
-"Not if I could avoid it."
+Nadira does. Not the whole craft, only the next four movements: square the page on clean felt; support the lifted fold with the folder; feather a new strip along the grain; place a dry blotter within reach of the right hand. Her instructions are exact enough to be used and too local to become skill.
 
-Nadira says nothing. The body is tired in ways I cannot separate into hers and
-mine.
+I follow them. When the strip is ready, I lift the paste cover.
 
-At 5:20 the next morning, we return to the workroom. Neither of us slept much.
-The repaired atlas has dried square beneath its weights. I lift it out at Nadira's
-direction and open it gently to the mended map. The six-eyed sea monster has
-survived.
+*Roll the brush once against the side. If it drips, there is too much. If the bristles separate, there is too little.*
 
-*Leave it on the felt,* she says.
+The paste smells faintly of grain. Remembering the jam, I lean closer.
 
-There are fifty-seven minutes left. I sit on the stool with both hands flat on
-my thighs. The room has become familiar enough that I can find the water glass
-without instruction. That seems an obscenity, so I wait for Nadira to tell me.
+*Keep your mouth away from the bowl. Load the brush.*
 
-"If the body throws me out," I say, "will you let me come back? Just to talk."
+I load it. The brush leaves a smooth wake on the strip. Nadira has me work from the center outward while the left hand, braced and flat, holds only the waste edge. My first stroke drives paste toward the tear.
 
-*When I have control, we can speak about that.*
+*Reverse the brush.*
 
-"I might not find you again. I can't see well between people."
+"That will lift the tissue."
 
-*You found me once.*
+*Not if you turn it before the edge. Half the pressure. The paper is already wet.*
 
-"After thirteen years."
+I do as she says. The tissue settles. A small bubble remains near the fold.
 
-*I will not make promises while you are wearing the only mouth I have.*
+"Press it."
 
-I grip the knees, then make the fingers loosen. "If it keeps me, what would you
-lose?"
+*Not with a fingertip. Blotter first, then the folder on its side. Two passes.*
 
-Her reply is immediate. *This morning's delivery. A friend who expects me for
-dinner tomorrow. The lease renewal in my desk. Six books I have taken apart
-and not yet put back together. Small things, if you don't have them.*
+The bubble disappears on the second.
 
-"And if it throws me out, I lose this."
+The right shoulder burns from hovering. Nadira tells me to lower the stool one notch. I want to continue because the join is almost straight.
+
+*Stool.*
+
+"The line will dry."
+
+*The shoulder will shake before the paste does.*
+
+I lower it. She is right. The tremor leaves the hand.
+
+By midmorning the front map lies mended beneath a clean blotter. We turn to the loose gathering. I remember needlework, but not this spacing, this thread tension, this way of opening a paper fold without widening the holes. Nadira gives each motion before it is needed. If she pauses, the hand waits. Nothing rises from the calluses to guide me.
+
+At 11:26, I draw one stitch too tight. The paper cups around it.
+
+*Back half a finger.*
+
+I loosen the thread.
+
+"That much?"
+
+*Until the fold lies down. Look at the shadow, not the thread.*
+
+The shadow narrows. I stop.
+
+Shortly before noon, we fit the repaired pages back into the case. Nadira makes me clean the old adhesive from one corner before applying new paste. She chooses the brush, the brace angle, the order of boards. I supply movement and, where the press screw resists, force.
+
+*Turn until the board first holds,* she says. *Then a quarter. No more.*
+
+"It could take another half."
+
+*And emboss every defect into the cover. A quarter.*
+
+I turn it exactly a quarter. The atlas goes into the press at 11:52. I watch the second hand because waiting is one job I understand. At 12:34, Nadira has me release the pressure. The green cloth sits square, and the map opens without pulling at its tear.
+
+"Finished."
+
+*Not until it is wrapped.*
+
+I wrap it in plain paper, fold the corners as she directs, and place it in the locked pickup compartment beside the street door. At one, a key turns from the other side. The parcel leaves without anyone seeing the body.
+
+Back at the bench, I pick up the paste brush.
+
+*Rinse the paste out toward the tip. Do not grind the ferrule against the basin. Then the wrist needs the brace changed.*
+
+"After I inspect the shoulder."
+
+*After the brush. Paste dries faster than your shoulder changes.*
+
+I wash the brush.
+
+The afternoon gives me smaller measurements. The old right toe fits the shape I remember, but Nadira has bought shoes around it. The left wrist is my bone under her strain and her brace. The right shoulder is mine in breadth, hers in injury, mine to move badly now. At a late lunch, the tomato is sharply sour to Nadira and almost sugared to me. We leave the vinegar capped.
+
+She has me rest the hand for twenty minutes, then loosen the brace and move each finger through a short range. I do not know the range until she names it. When I reach too far overhead for a cup, she says *step stool* and I use it.
+
+At 3:10, I go downstairs to check that the pickup compartment is empty.
+
+*It left at one.*
+
+"I want to see the empty compartment."
+
+*Check it, then rest the brace hand by 3:15.*
+
+The compartment is empty. On the way upstairs I place the right foot carefully over the dipped tread without being reminded. It is not Nadira's motor judgment entering me. She told me where the defect was, and I remember being told.
+
+At dusk, while I scrape a dried line of paste from the bench, Nadira asks, *What was the name of the person you were in before me?*
+
+The scraper stops.
+
+"I was there for nine minutes."
+
+*That is a duration.*
+
+"They had no rib scar. The left ulna was too short."
+
+*Their name.*
+
+"I don't know."
+
+*Did they tell you?*
+
+"Several times."
+
+The last host had repeated a name while I checked teeth, then asked me to call someone waiting at home. I had left before the call became necessary and congratulated myself for leaving quickly.
+
+Nadira asks, *How often do you refuse to remember?*
+
+"I remember bodies."
+
+*That was not what they told you.*
+
+I set the scraper down. "If I repeat a name, I remember the voice attached to it. That slows the next search."
+
+*They said their names while you measured over them.*
+
+She does not ask for a count. I do not offer one. There were hosts I kept for the full day while they begged me to spend their hands differently. I treated their work, hunger, children, and appointments as static around the measurements. Nadira's name has been in my attention since 6:40; I cannot file her schedule under static.
+
+"Why did you tell me yours?"
+
+*Because you had my mouth and were already giving it your name.*
+
+I return the scraper to the drawer she specifies instead of leaving it on the bench.
+
+We spend the evening upstairs. Nadira directs a plain supper and tells me which tablet belongs to the wrist inflammation. I read the label myself before taking it. At 9:02, I test the old scar beneath the ribs again; it has not moved. At 10:17, Nadira refuses to let me open the six books waiting in the workroom.
+
+*Those are tomorrow's work.*
+
+"I may not have tomorrow."
+
+*Neither may I. Leave them closed.*
+
+I leave them closed.
+
+We lie down before midnight. The body cannot settle because I keep comparing the mattress to one I remember from thirteen years ago, as if sleep posture could restore a missing interval. Nadira tells me the pillow goes under the right forearm so the shoulder will not drag. I put it there. We doze in scraps. Each time I wake, she answers when I say her name.
+
+At 5:42, we return to the workroom. The watch has fifty-six minutes left. I set a glass of water beside the bench because Nadira asks for it to be ready if she gets the hand back suddenly. Then I sit with both palms open.
+
+"After 6:38, if I'm outside, say something aloud. I hear best from close."
+
+*I will decide what to say when I can move.*
+
+"If the body rejects me, I might not find it again."
+
+*Then do not ask me for tomorrow while you still control today.*
+
+"I need a way back."
+
+*You need me to promise with your jaw.*
+
+I lift both hands from the bench, meaning to argue, then put them down again. "The left tooth. The right toe. Seven millimeters in the leg. I carried those measurements through every person. They are the only address I have."
+
+*At eight the brace comes off for ten minutes. At ten there is paste to mix. At seven tomorrow evening, a friend expects me for soup. I am not promising you past 6:38.*
+
+I spread the fingers on the bench. Her schedule will happen through these hands or not at all.
+
+At 6:31, a cold pressure gathers behind the eyes. It has preceded every ejection. I tell Nadira.
+
+*Hands flat. Do not lock the knees when I stand.*
+
+"I'll be sitting."
+
+*Then keep the feet under the stool. The right one catches when it is too far back.*
+
+I place both feet as she says. The watch ticks loudly in the quiet room. At 6:36, the tongue begins to prickle. At 6:37, sight brightens along the edges. These signs have never varied enough to matter until now.
+
+The second hand crosses twelve at 6:38.
+
+Nothing closes.
+
+I wait. The bright edge fades instead of taking the room with it. Nadira does not speak. I count thirty watch ticks, then another thirty. At 6:39, I lift only the right little finger.
+
+It moves because I choose.
+
+The body has missed its rejection. There is no second pressure building behind the eyes, no thinning at the edge of touch, no later limit I can feel. I can remain.
+
+Nadira's voice comes carefully.
+
+*Keep today too. I will tell you which books need to be stabilized, what messages to leave, and where the spare key is. Give me until 6:39 tomorrow to put the work down properly.*
+
+She could offer nothing. Instead she inventories the work so I would not inherit a ruin. The list still comes from someone who cannot lift her own little finger.
+
+"And at 6:39 tomorrow?"
+
+A pause.
+
+*I have not reached tomorrow yet.*
+
+If I accept, tomorrow requires another list. Twenty-four hours later, another. The offers can continue because I control when they stop. I could wait until one sounds willing enough and ignore the fact that I control the lungs that carry it nowhere.
+
+I press my tongue once against the chipped incisor. The notch is exactly where it should be.
+
+"It is my body," I say. "I did find it."
 
 *Yes.*
 
-No consolation. No claim that one loss weighs more. The press, the shelves,
-the rain-muted street beyond the high window all remain stubbornly ordinary.
+I release the right little finger.
 
-At 6:10, the old signs begin. Or I think they do. A coldness behind the eyes.
-Pins and needles under the tongue. In other bodies, sight tightens to a bright
-tunnel in the final minute, then snaps. I tell Nadira what to expect. She asks me
-to leave the hands open on the bench so she will not wake with the nails in the
-palms.
+Nadira draws it sharply against the bench. I let go of the rest of the hand, the wrist, the braced forearm. Control leaves the shoulders and legs. When her feet settle under the stool and her spine takes the balance, I release breath and jaw.
 
-At 6:16, I obey.
+Sight contracts to a weak sense of warmth. The bench, shelves, atlas, scars, and watch vanish. Taste goes with them. Sound remains thin and close.
 
-The second hand crosses the face of the watch. I count its small mechanical
-clicks. The chipped tooth rests against the inner lip. My broken toe lies quiet
-inside the shoe. Every sensation I lost thirteen years ago is here, along with
-the wrist pain, the glasses pressing the nose, the dry paste on one knuckle.
+Nadira bends over the left hand. She flexes each finger, checks the brace, and holds the wrist against her chest until the shaking eases. Then she takes the glass and drinks all the water before speaking.
 
-The watch reaches 6:17.
+"Eamon, listen. You do not enter unless I invite you aloud. If I ask you to leave, you leave then. Not after a measurement. Not after one last stroke of the brush."
 
-Sight does not narrow. The room does not release me.
-
-I wait through another click, and another. Then I lift the right index finger
-from the bench.
-
-It rises because I tell it to.
-
-Nadira's silence is not empty now. It has weight. I could stand, lock the door,
-and keep the body until death. The certainty arrives without flare or voice,
-as plain as the pressure of the floor beneath both feet. Every other body kept
-the day's limit; this one has not. It recognizes me, or admits me, or merely
-fails in a new way. I do not know. I may never know.
-
-*Take tomorrow,* Nadira says at last. Each word is placed carefully. *Let me tell
-people I am going away. Let me finish the books that cannot wait. Then we will
-decide.*
-
-"We?"
-
-She does not answer.
-
-I imagine tomorrow evening. She will ask for one more visit, one more repair,
-one more meal with her friend. I will call each extension kindness because she
-offered it. Her offers will improve as she learns what I need to hear. I could
-wait until she says yes without trembling and pretend the mouth was hers when
-it said it.
-
-The old evidentiary hunger rises in me. One more day could reveal why the body
-keeps me. A week might restore the gait. A month might make the mirror stop
-looking occupied.
-
-I press the tongue to the chipped tooth for the last time.
-
-"No," I say. "Tomorrow would be worse."
-
-I release the hand first. Nadira gasps through it, one finger jerking against the
-bench. Then I let go of the arm, the shoulder, the muscles between the ribs. I
-withdraw without the familiar force of ejection. Sight dims from a room to a
-smear of warmth. Taste vanishes. The body's heartbeat recedes until it is only
-a rhythm sensed nearby.
-
-Nadira folds over the bench and breathes with her own timing. She flexes the left
-hand, winces, and adjusts the brace. Before she says anything to me, she drinks
-the glass of water.
-
-"You are still here," she says aloud.
-
-I gather myself at the edge of her attention, close enough to hear, not close
-enough to move her.
-
-"If I ever invite you in," she says, "you leave when I ask. Not at the end of
-a day. Not when you have finished looking. When I ask."
-
-I touch the outside of her attention as lightly as I can and shape one word.
+I can still touch the edge of her attention without crossing into the body. I shape the smallest answer I can.
 
 *Yes.*
+
+Her hand closes around the empty glass under her own control. I stay outside.

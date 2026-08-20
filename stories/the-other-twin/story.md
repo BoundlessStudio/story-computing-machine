@@ -8,1419 +8,274 @@ canon: false
 
 # The Other Twin
 
-Everyone thought Alex had dissociative identity disorder.
+The first blood arrived during my algebra test, and because it was happening to our body, Mara noticed half a second before I did.
 
-It was the reasonable explanation.
+*Don't stand up,* she said.
 
-There was one body. One face. One brain on every scan the doctors had taken.
+I stood up.
 
-But there were two people living behind Alex's eyes.
+The warm mark on the plastic chair was not large, but the girl behind me saw it. By lunch, three different versions of the story had crossed the cafeteria. In one I had cut myself. In another I had sat in ketchup. The third was accurate enough that nobody believed it.
 
-Alex had been there first—or at least everyone assumed so.
+Mara got us to the nurse's office. When she moved us, our shoulders sat farther back and our left hand led. There was no fainting or blank interval. I stayed present, feeling the pad the nurse gave her stick crookedly to unfamiliar underwear, while Mara read the instructions twice and pretended she had not been waiting for this since our chest first began to ache.
 
-Then there was Mara.
+The nurse kept calling her Alex.
 
-Alex was right-handed. Mara was left-handed.
+“Mara,” she corrected the third time.
 
-Alex hated coffee. Mara drank it black.
+The nurse's smile tightened. “All right. Mara. Is Alex able to come back for me?”
 
-Alex could play piano badly. Mara couldn't play at all, but could draw almost photographically.
+*Tell her no,* Mara said to me.
 
-Alex spoke conversational French.
+I took the mouth before she could. “I'm here.”
 
-Mara didn't understand a word of it.
+It came out in the voice that had begun dropping that winter, rough enough to startle all three of us.
 
-They had different handwriting, different tastes, different friends, and completely different memories of childhood.
+The nurse called our mother.
 
-Their parents could usually tell who was present before either of them spoke.
+There had never been a time in my memory when Mara was not there. We shared sight, hearing, touch, hunger, and one unreliable stomach. We did not share thoughts unless we spoke them toward each other. At five, I could recite every bus on the route to school, while Mara could draw the driver's hands from memory and could not remember a single route number. She was left-handed. I was right-handed. She hated the grainy skin on pears. I liked it. We could each move the whole body. Usually one of us led; with effort, we could divide simple tasks between hands. Switching the lead took cooperation, except when fear shoved one of us forward.
 
-For years, psychiatrists had explanations.
+None of that had impressed the first doctors.
 
-Dissociation.
+One baby had come home from the hospital. One birth certificate said Alexander Mercer. One face appeared in the family photographs. A child psychiatrist had written *dissociative presentation* as a working explanation, and later copies of the chart shortened that into a certainty. Mara became a voice Alex heard, a role Alex assumed, a difficulty Alex had. The diagnosis was never meant as an insult. It was simply built around one patient, and the patient was always me.
 
-Compartmentalized memory.
+At home, our parents tried harder. Mom began buying two birthday cards after Mara made her cry at nine by asking why only Alex got older. Dad put two hooks by the front door even though we owned one coat. But when adults with lanyards asked questions, both of them looked at me first.
 
-Childhood identity formation.
+After the algebra test, Mom drove us to a clinic where the paper on the examination table crackled whenever either of us breathed. The referral had gone to an endocrinologist named Dr. Shah. She read the chart outside, came in without a crowd of students, and sat instead of standing over us.
 
-Eventually the diagnosis became dissociative identity disorder.
+“Who is speaking right now?” she asked.
 
-Alex hated the diagnosis.
+“Alex.”
 
-Mara hated it more.
+“Is Mara listening?”
 
-Because every explanation began from the assumption that one of them wasn't really supposed to exist.
+“Always,” Mara said, taking the mouth.
 
-Then puberty started.
+Dr. Shah's eyes moved to our left hand, which Mara had folded over the right. She did not ask me to return.
 
-And their body began doing something nobody could explain.
+“Good,” she said. “I need the history from both of you. Some questions will be private, but not private from the other twin. Is that workable?”
 
-Alex's voice dropped.
+Mara glanced down at the thin gown. “Nothing is private from the other twin.”
 
-Mara developed breasts.
+“Then I won't promise it is.” Dr. Shah rolled her stool nearer but kept her hands in her lap. “Before I examine your body, I need a yes from each of you. We can talk first.”
 
-Facial hair appeared while their hips widened.
+That was the first medical decision Mara had ever been asked to make.
 
-Blood tests showed unusually high concentrations of both testosterone and estrogen.
+The talking took most of the afternoon. The tests took weeks. Imaging showed reproductive tissue the childhood records had not prepared anyone to find. Blood tests showed high levels of hormones that did not usually rise together in quite that way. Cells from our blood, cheek, and skin did not all carry the same chromosomes or the same genetic profile.
 
-An ultrasound found reproductive anatomy that didn't fit neatly into either category.
+Dr. Shah explained the results with three diagrams and no triumphant voice.
 
-Genetic testing made things stranger.
+“The best explanation is chimerism,” she said. “Very early in development, two embryos may have fused. We found two cell lineages, one with XX chromosomes and one with XY chromosomes, distributed through your body. Different tissues are responding differently as puberty advances.”
 
-Some samples came back XX.
+Mara held our pencil poised over the margin of the handout. She had drawn two eggs there and was making them argue.
 
-Others came back XY.
+I asked, “Which cells are mine?”
 
-The doctors ran the tests again.
+“I can't answer that.”
 
-Same result.
+“The XY ones?”
 
-Then again.
+“That would be a guess dressed as a result. Chromosomes do not come labeled Alex or Mara.”
 
-Same result.
+Mara underlined that. “Can you tell them I'm not something he invented?”
 
-Their endocrinologist finally used a word Alex had never heard before.
+Dr. Shah waited before answering. It was one of her habits: she would rather leave a silence than fill it with a claim she could not defend.
 
-**Chimerism.**
+“The tests tell me why your body may be developing along more than one pathway,” she said. “They do not measure a person. I also don't need a chromosome result before I listen when a patient tells me who is present.”
 
-Two embryos.
+It was not the declaration Mara had wanted. I felt her disappointment tighten our throat. Then Dr. Shah turned the handout over and wrote *Alexander Mercer and Mara Mercer* at the top of the blank side.
 
-Two sets of DNA.
+“For safe care,” she said, “I need both of you in the record.”
 
-One body.
+Our mother took the paper home and stuck it to the refrigerator with a magnet shaped like a carrot.
 
-It wasn't unheard of.
+For six months, we agreed to be studied by a research team because Mara wanted evidence no future receptionist could misfile. The researchers scanned us while I tapped our right fingers in memorized sequences, while Mara drew with the left, and while each of us sorted words or reconstructed pictures. The patterns were stable enough to distinguish who was controlling more often than chance. We still had one anatomical brain, and the scans could not show which embryonic lineage had made which thought. The published report used careful phrases like *reproducible control-dependent activity*. Mara thought it sounded like instructions for a garage door.
 
-Rare, certainly, but biologically possible.
+Still, the old chart could no longer pretend the facts were simple. The working diagnosis was retired. Not because a scan had created Mara, and not because the genetic finding proved what every other mind in the world was. It was retired because it did not account for our development, our continuous histories, or what the clinicians observed when they bothered to address us separately.
 
-Their mother stared at the genetic report for a long time.
+Mom ordered a small cake. In green icing she wrote NOT A GARAGE DOOR, because the bakery refused Mara's first suggestion.
 
-"So Alex had a twin?"
+Recognition improved the paperwork. It did nothing to slow puberty.
 
-The geneticist hesitated.
+Our voice settled low. Our hips widened. Breasts grew on a chest that also began sprouting coarse hair. A patchy beard appeared along the jaw. Menstrual cramps dropped Mara to our knees in the kitchen, then left me trying to explain to Dad where she kept the pain medicine. Strangers chose *sir* or *miss* with the brittle confidence of people guessing which door hid a broom cupboard.
 
-"Very early in development, yes. The embryos fused."
+I wanted the voice. I wanted broader shoulders and the beard once it stopped looking moth-eaten. Mara wanted the curve of our hips, a softer face, and a chest she could dress without apologizing for it. Neither of us wanted the other harmed. That did not make the unwanted changes feel neutral.
 
-Alex felt Mara become very still.
+At fourteen, Mom put a razor and a soft cotton bra beside the sink on the same morning.
 
-Inside their head, where thoughts normally overlapped like people talking through a thin apartment wall, there was complete silence.
+“I have kept the receipts,” she said, and left before either of us could answer.
 
-Then Mara said:
+I shaved first. Mara complained about foam in the corners of our mouth, but she held our chin steady when my right hand slipped. When the last dark streak came off, satisfaction warmed our chest so suddenly that I knew she had felt mine.
 
-*Ask her.*
+*You look pleased with yourself,* she said.
 
-Alex swallowed.
+“I am.”
 
-"Was the other embryo male or female?"
+*Your face is very ordinary.*
 
-The geneticist looked at the results.
+“Thank you.”
 
-"One appears to have been genetically male. The other genetically female."
+Then she took control and tried on the bra. The band pinched. One strap twisted. I was ready with three jokes, but when she finally got it straight she stood before the mirror without blinking, and our breath caught. I swallowed all of them except, “The tag's sticking into us.”
 
-Alex didn't need to ask which was which.
+“Cut it out, then.”
 
-Somehow, Mara already knew.
+We kept both purchases.
 
----
+Dr. Shah would not let us treat hormones like a menu. Every option acted on the whole body. Some changes were already permanent; others might shift unpredictably because our tissues did not respond uniformly. She could treat dangerous levels, pain, anemia, or other specific problems. She could discuss suppression or additional hormones, but she could not promise my beard and Mara's breasts while removing only what each of us disliked.
 
-The doctors thought the genetic discovery explained their intersex development.
+“So you get a veto,” Mara said.
 
-It did not explain Mara.
+“On anything unsafe, yes. Otherwise I give you the risks, and you decide together.” Dr. Shah capped her pen. “I don't get to choose which of you the body should resemble.”
 
-Psychiatry remained psychiatry.
+For the time being, we chose monitoring and symptom care. It was not the same as choosing every result.
 
-Biology remained biology.
+School was worse at improvising. The attendance system could hold one legal name per student seat. Teachers learned to ask who had done an assignment only after Mara handed in a charcoal self-portrait and the art teacher credited me. The principal offered the staff washroom as though granting access to a supply closet. We asked for the single-occupancy student washroom near the library to be unlocked for everyone. That took a semester and three meetings. Meanwhile, we planned our water intake with military precision.
 
-The two facts were interesting together, but medically there was no reason to connect them.
+By sixteen, I handled most ordinary school days. My name was the one classmates had known since kindergarten, and disappearing behind Mara felt cowardly when trouble followed the body either way. Mara took art, French, and every Wednesday afternoon. She also got occasions that were specifically hers.
 
-A vanished twin did not become another personality.
+The dark green dress was for one of those.
 
-A fused embryo did not preserve a second person.
+Her charcoal drawing had been selected for the school arts evening, with *Mara Mercer* printed correctly on the card beside it. The picture showed Dad asleep at the kitchen table, his glasses sliding down his nose and a screwdriver still caught in one hand. I would have drawn the broken toaster he had been repairing. Mara had drawn the dent his glasses made in his cheek.
 
-Brains did not work that way.
+She saved for the dress for four months. Mom altered the waist and let out one shoulder, then hung it on Mara's hook beside our one winter coat.
 
-Everyone agreed on that.
+I said nothing while she bought it. I said nothing during either fitting. On the night of the exhibition, with Mom waiting downstairs and seven minutes left before we had to leave, Mara pulled the zipper halfway up our back and felt my panic flood the body.
 
-Except Alex and Mara.
+Our pulse kicked. Sweat prickled under the lining. She braced one hand against the dresser until the room stopped tilting.
 
-Because Mara remembered things Alex didn't.
-
-Not imaginary childhoods.
-
-Not invented histories.
-
-Things from before childhood.
-
-Warmth.
-
-Pressure.
-
-A rhythm beside her.
-
-Another heartbeat.
-
-Alex had always assumed these were dreams.
-
-Mara had always insisted they were memories.
-
-Then researchers at the university performed a neurological experiment.
-
-Nothing dramatic.
-
-Just an attempt to understand why switching between Alex and Mara produced such extreme changes in motor ability.
-
-They put Alex in an fMRI scanner.
-
-Alex performed tasks.
-
-Then Mara took over.
-
-She performed the same tasks.
-
-The researchers repeated the experiment three times.
-
-Afterward, nobody spoke for several minutes.
-
-Finally Alex asked:
-
-"What?"
-
-The neurologist rotated the monitor.
-
-Alex didn't understand the images.
-
-Mara did even less.
-
-But they could see the difference.
-
-When Alex controlled the body, certain neural pathways dominated.
-
-When Mara controlled it, others did.
-
-That alone wasn't shocking.
-
-Different mental states produced different patterns all the time.
-
-The shocking part was where those patterns were concentrated.
-
-Left and right.
-
-Not perfectly.
-
-Not cleanly.
-
-But consistently.
-
-The neurologist pulled up older developmental scans.
-
-Then prenatal records.
-
-Then one grainy ultrasound their mother had kept for fourteen years.
-
-There had always been one brain.
-
-Except it hadn't formed normally.
-
-Tiny structural asymmetries existed throughout it.
-
-Different cell populations.
-
-Different genetic markers.
-
-Alex's DNA dominated some regions.
-
-Mara's dominated others.
-
-The neurologist looked as though she disliked the sentence she was about to say.
-
-"Your brain may also be chimeric."
-
-Their mother frowned.
-
-"What does that mean?"
-
-"It means different parts of the brain appear to have developed from different embryonic cell lines."
-
-Alex waited.
-
-Mara waited.
-
-Their mother understood first.
-
-"No."
-
-The neurologist said nothing.
-
-"No," Mom repeated. "You're saying—"
-
-"I'm saying we don't know."
-
-"Say it."
-
-The neurologist looked directly at Alex.
-
-Then, somehow, seemed to look past Alex toward Mara.
-
-"We assumed the embryos fused and one twin disappeared."
-
-Mara pushed forward.
-
-The change was subtle.
-
-Their posture shifted.
-
-Their expression changed.
-
-Their left hand tightened around the chair.
-
-"I'm Mara."
-
-The neurologist nodded slowly.
-
-"I know."
-
-"No. You don't."
-
-Mara's voice trembled.
-
-"For fourteen years everyone has told me I'm something Alex's brain invented."
-
-Nobody interrupted her.
-
-"I'm asking you something very simple."
-
-She placed both hands on the table.
-
-"Did I disappear?"
-
-The neurologist looked again at the scans.
-
-"No," she said.
-
-Mara stopped breathing.
-
-The neurologist corrected herself.
-
-Their lungs began working again.
-
-"We don't know enough to say what happened to consciousness during development. Nobody does. But genetically?"
-
-She pointed toward two colored regions on the scan.
-
-"There are two developmental lineages throughout this brain."
-
-Mara stared at them.
-
-Two colors.
-
-Interwoven.
-
-Neither isolated.
-
-Neither whole without the other.
-
-"But that's not proof I'm a person."
-
-"No."
-
-Mara's face fell.
-
-Then the neurologist added:
-
-"But Alex's DNA isn't proof Alex is a person either."
-
-Silence.
-
-"Biology can't prove personhood," she said. "It can only tell us something we didn't know yesterday."
-
-She touched the screen.
-
-"There were two embryos."
-
-Another region.
-
-"Both contributed substantially to the brain."
-
-Another.
-
-"And whatever happened afterward produced two persistent, independently continuous identities with different memories, preferences, skills and patterns of neural activity."
-
-She sat back.
-
-"Calling one of you real and the other imaginary is becoming increasingly difficult to defend."
-
-Inside their head, Alex felt something break.
-
-Not painfully.
-
-Something old.
-
-A knot pulled tight over eighteen years.
-
-Mara started crying.
-
-Alex did too.
-
-They had always hated that.
-
-Sharing tear ducts made emotional privacy impossible.
-
-Their mother crossed the room and wrapped both arms around them.
-
-For once, she didn't say Alex's name.
-
-She didn't say Mara's either.
-
-She simply said:
-
-"My children."
-
-And for the first time, nobody in the room corrected her.
-
----
-
-That should have made everything easier.
-
-It did not.
-
-It made everything more complicated.
-
-Before the scans, every disagreement about their body had an answer built into it.
-
-Alex was the patient.
-
-Mara was a psychological condition.
-
-If Alex wanted something and Mara didn't, the doctors listened to Alex.
-
-If Mara objected, the objection was recorded as a symptom.
-
-Nobody had ever said it quite that cruelly.
-
-They hadn't needed to.
-
-Then the university published its findings.
-
-Carefully.
-
-Very carefully.
-
-Nobody wrote **TWO PEOPLE IN ONE BRAIN** despite several newspapers desperately wanting to.
-
-The official language was much less exciting.
-
-Distinct continuous identities associated with genetically differentiated neural tissue.
-
-Possible embryonic fusion with persistent dual cognitive organization.
-
-Unprecedented.
-
-That last word appeared frequently.
-
-For six months, Alex and Mara became the most studied teenagers in the country.
-
-Neurologists tested them.
-
-Psychologists tested them.
-
-Geneticists tested them.
-
-Ethicists mostly argued about them.
-
-Eventually even their original psychiatrist admitted that the old diagnosis no longer adequately described what was happening.
-
-Mara celebrated by buying a cake.
-
-She had the bakery write:
-
-**NOT A DISORDER**
-
-Alex pointed out that technically neither scientist nor court had established exactly what Mara was.
-
-Mara ate his slice.
-
-It was during this period that puberty stopped being subtle.
-
----
-
-Their body had always been unusual internally.
-
-Now it was becoming unusual externally.
-
-Alex woke one morning, looked in the bathroom mirror and found three dark hairs on their upper lip.
-
-He stared at them.
-
-Mara surfaced enough to notice what he was looking at.
-
-*Oh no.*
-
-Alex touched them.
-
-*Oh yes.*
-
-*Absolutely not.*
-
-"They're magnificent."
-
-*There are three.*
-
-"Every great beard begins somewhere."
-
-*You look like a neglected peach.*
-
-Alex spent ten minutes refusing to shave them.
-
-Mara spent ten minutes insulting them.
-
-Their mother eventually shouted through the bathroom door that there were other people in the house.
-
-That became the pattern.
-
-Alex's voice dropped.
-
-Not all at once.
-
-It cracked unpredictably for months, frequently during moments when Mara found it funniest.
-
-His shoulders broadened.
-
-Muscle accumulated surprisingly quickly across their arms and back.
-
-Dark hair appeared on their legs, stomach and eventually chest.
-
-Alex loved nearly all of it.
-
-Mara did not.
-
-But Mara got changes of her own.
-
-Their hips widened.
-
-Their waist changed.
-
-Breast tissue developed.
-
-The first time Mara realized what was happening, she stood in front of the mirror for almost fifteen minutes.
-
-Alex waited.
-
-He could feel what she felt.
-
-That was one of the stranger things about their arrangement.
-
-Emotions weren't shared exactly.
-
-But strong ones leaked.
-
-Fear had a pressure.
-
-Anger had heat.
-
-Happiness was almost impossible to separate.
-
-Mara touched their chest.
-
-*They're mine.*
-
-Alex understood immediately.
-
-Not biologically.
-
-Not anatomically.
-
-Emotionally.
-
-For years Mara had lived in a body everyone called Alex's.
-
-Now, for the first time, their reflection contained something that looked like her.
-
-So Alex said nothing.
-
-Then the following month their period started.
-
----
-
-They were in mathematics.
-
-Alex was in control.
-
-Something cramped violently below his stomach.
-
-He stopped writing.
-
-*What was that?*
-
-Mara had no idea.
-
-Thirty seconds later it happened again.
-
-Harder.
-
-Alex shifted in the chair.
-
-The teacher noticed.
-
-"Everything okay?"
-
-"Yeah."
-
-It was not.
-
-By the time they reached the bathroom, there was blood in their underwear.
-
-Alex stared down.
-
-Mara stared through the same eyes.
-
-Neither spoke.
-
-Finally Alex thought:
-
-*I think we're dying.*
-
-Mara almost laughed.
-
-Then another cramp hit.
-
-She stopped laughing.
-
-Their mother collected them from school.
-
-Their endocrinologist saw them that afternoon.
-
-Tests followed.
-
-Then imaging.
-
-Then more tests.
-
-The explanation was simultaneously astonishing and, given everything else about them, unsurprising.
-
-Some of their internal reproductive structures had matured along a typically female pathway.
-
-Others had matured along a typically male one.
-
-Neither system was anatomically typical.
-
-Both were hormonally active.
-
-Their body was not beginning one puberty.
-
-It was beginning two.
-
----
-
-Dr. Shah drew two columns on a whiteboard.
-
-TESTOSTERONE.
-
-ESTROGEN.
-
-Then she started writing.
-
-Facial hair.
-
-Voice.
-
-Muscle.
-
-Breast development.
-
-Fat distribution.
-
-Menstruation.
-
-Skin changes.
-
-Body hair.
-
-Mood.
-
-Bone density.
-
-Fertility.
-
-She stopped.
-
-"The important thing," she said, "is that these aren't really two separate systems fighting each other."
-
-Mara was controlling the body.
-
-"Feels like it."
-
-"I understand."
-
-"No, you don't."
-
-Dr. Shah accepted that.
-
-"No. I probably don't."
-
-Alex moved closer to the front.
-
-Their posture changed slightly.
-
-"So what's going to happen?"
-
-"We don't know."
-
-Mara groaned internally.
-
-*I hate when doctors say that.*
-
-Alex did too.
-
-"What do you know?"
-
-"Your hormone levels are stabilizing higher than expected in both ranges. Your body appears capable of maintaining significant estrogenic and androgenic activity simultaneously."
-
-"In English?"
-
-Dr. Shah looked at them.
-
-"You are likely to continue developing both male and female secondary sexual characteristics."
-
-Silence.
-
-Alex looked down at their body.
-
-Mara looked too.
-
-"So I'll keep growing a beard."
-
-"Probably."
-
-"And breasts," Mara said.
-
-"Probably."
-
-"Periods?"
-
-"Possibly."
-
-Alex grimaced.
-
-Mara immediately became defensive.
-
-*Don't.*
-
-*I didn't say anything.*
-
-*You made a face.*
-
-*It hurts.*
-
-*You think I enjoy it?*
-
-Dr. Shah had learned to recognize their silent arguments.
-
-"What's happening?"
-
-"Nothing," they said together.
-
-That was another thing they could occasionally do.
-
-It always unsettled people.
-
-
-
----
-
-
-
-Knowing Mara was real changed the question.
-
-Before, doctors had asked what was medically best for Alex.
-
-Now everyone had to ask something much harder.
-
-What was medically acceptable to both of them?
-
-There were options.
-
-Suppress testosterone.
-
-Suppress estrogen.
-
-Suppress both temporarily.
-
-Allow puberty to continue naturally.
-
-Use medication to influence particular effects.
-
-Surgery existed for some anatomical issues, although every doctor involved strongly recommended postponing anything irreversible unless medically necessary.
-
-Alex wanted testosterone.
-
-Mara wanted estrogen.
-
-Then they discovered neither statement was actually true.
-
-Alex wanted his voice.
-
-His facial hair.
-
-His broader shoulders.
-
-He did not particularly care about anything happening below the waist.
-
-Mara wanted her breasts.
-
-Her hips.
-
-Her softer face.
-
-She absolutely hated the new body hair.
-
-Neither wanted to erase the other's changes.
-
-They just wanted their own.
-
-Unfortunately, bodies did not negotiate in features.
-
-"You can't order puberty from a menu," Dr. Shah explained.
-
-Mara folded their arms.
-
-"Terrible system."
-
-"We get that feedback .... a lot"
-
-
-
----
-
-
-
-Then came the first bra.
-
-Mara had wanted one for weeks.
-
-Alex had delayed.
-
-Not because he objected to Mara wearing one.
-
-Because *he* would also be wearing it.
-
-That distinction had become increasingly important.
-
-At the store, Mara controlled the body.
-
-Their mother helped.
-
-Alex remained mostly quiet.
-
-Then Mara tried one that fit.
-
-She looked in the changing-room mirror.
-
-Her posture changed.
-
-She smiled.
-
-Alex felt the happiness arrive.
-
-Not his.
-
-Hers.
-
-But close enough that it warmed him anyway.
-
-*You look happy.*
-
-Mara touched the strap.
-
-*I am.*
-
-Alex considered their reflection.
-
-The faint mustache.
-
-The increasingly angular jaw.
-
-The bra beneath a plain black shirt.
-
-Something about the combination felt absurd.
-
-Then something stranger happened.
-
-It stopped feeling absurd.
-
-It just looked like them.
-
-*Black,* Alex said.
-
-Mara glanced mentally toward him.
-
-*What?*
-
-*Get the black one.*
-
-*I thought you'd hate it.*
-
-*I hate the pink one.*
-
-Mara smiled wider.
-
-They bought three.
-
-None were pink.
-
-
-
----
-
-
-
-The first razor was Mara's revenge.
-
-Alex had accumulated enough facial hair that even he could no longer defend it as a beard.
-
-Their father found him staring at shaving supplies in the bathroom.
-
-Without making a ceremony of it, he showed Alex what to do.
-
-Warm water.
-
-Cream.
-
-Short strokes.
-
-Rinse the blade.
-
-Don't rush around the jaw.
-
-Mara watched through their shared vision.
-
-She was unusually quiet.
-
-Afterward Alex studied their face.
-
-It wasn't dramatically different.
-
-But it felt different.
-
-More his.
-
-Their father squeezed their shoulder.
-
-"Looks good."
-
-Alex smiled.
-
-Inside, Mara said:
-
-*You missed a spot.*
-
-Alex's smile vanished.
-
-"Where?"
-
-*Left side.*
-
-He checked.
-
-She was right.
-
-"Traitor."
-
-Their father looked puzzled.
-
-"Mara."
-
-"Ah."
-
-That explanation now worked for almost everything.
-
-
-
----
-
-
-
-
-School was less forgiving.
-
-People had adjusted to one unusual thing.
-
-Then another arrived.
-
-For years Alex had been the kid who sometimes called himself Mara.
-
-Then Mara became recognized publicly as a distinct identity.
-
-Then their body began developing in ways that made even adults stare.
-
-The whispers returned.
-
-Students tried to determine who was "really" male.
-
-Someone asked whether Mara could have a boyfriend.
-
-Someone else asked whether Alex could have a girlfriend.
-
-One particularly inventive classmate asked whether dating either of them counted as a threesome.
-
-Mara punched him.
-
-Technically Alex's body served the detention.
-
-This led to the first serious legal discussion their school had ever held about whether one twin could be punished for something the other had done.
-
-Alex considered the entire incident worthwhile simply to watch the principal realize he had no policy for it.
-
-Bathrooms became worse.
-
-The boys stared at Mara.
-
-The girls stared at Alex.
-
-The school suggested the staff bathroom.
-
-Both twins refused.
-
-"We're students," Mara said.
-
-"We're not a plumbing emergency," Alex added.
-
-Eventually the school converted one of the single-occupancy washrooms into a general student bathroom.
-
-Three other students immediately started using it too.
-
-Mara regarded that as their first successful contribution to civilization.
-
-
-
----
-
-
-
-The hardest moment came at sixteen.
-
-Not from strangers.
-
-From each other.
-
-Their body had changed considerably by then.
-
-They were tall.
-
-Broad through the shoulders.
-
-Wide through the hips.
-
-Alex had a low voice and enough facial hair to shave every other day.
-
-Mara had developed a distinctly feminine chest.
-
-Their face sat somewhere between what strangers expected from either.
-
-Depending on clothing, posture and which twin was controlling the body, people sometimes assumed male and sometimes female.
-
-That evening Mara stood in front of the mirror wearing a dress.
-
-She had saved for it.
-
-Dark green.
-
-Simple.
-
-Fitted carefully to their unusual proportions.
-
-Alex hated it.
-
-Mara knew immediately.
-
-*Don't.*
-
-Alex said nothing.
-
-*I can feel you hating it.*
+“Don't,” she said aloud.
 
 *I'm trying not to.*
 
-Mara turned sideways.
+“Try before I put it on.”
 
-The dress emphasized their chest.
+The mirror showed a tall, broad-shouldered girl in a dress that fitted because it had been made to fit. Beard shadow darkened our jaw where I had shaved that morning. Mara had lined our eyes in green. I could feel the fabric against our thighs and could already hear tomorrow's chemistry class.
 
-Their hips.
+*Wear the black shirt,* I said. *The card will still have your name.*
 
-It also emphasized their shoulders.
+Mara yanked at the zipper. It caught on the altered seam.
 
-The faint shadow where Alex's beard would return tomorrow morning.
+“Your black shirt. Your jeans. Your haircut. Your name in every classroom.”
 
-Mara stared.
+*This isn't about the haircut.*
 
-The happiness disappeared.
+“No. It's about you waiting until the car is running.”
 
-*Take it off,* Alex said.
+Downstairs, Mom called, “Do you need help?”
 
-Mara's anger arrived instantly.
+“No,” Mara shouted.
 
-*Of course.*
+*Yes,* I told her.
 
-*That's not what I mean.*
+She let the zipper go. “Say it before Mom has to come up here.”
 
-*You hate it.*
+There was no careful version left. *I hate wearing that dress.*
 
-*Yes.*
+Mara went very still. The body stayed hers, but I felt every place the dress touched us: shoulder, waist, chest, knees.
 
-Mara froze.
+“I hate holding still for your razor,” she said. “I do it before school because you have to look in the mirror too.”
 
-Alex forced himself to continue.
+*A shave takes five minutes.*
 
-*I hate wearing it.*
+“And this takes one evening.”
 
-That landed differently.
+*Tomorrow lasts all day. They'll call me skirt-boy in chemistry.*
 
-Mara looked into the mirror.
+“I'll take chemistry.”
 
-*But you aren't wearing it.*
+*They'll use my name when they say it.*
 
-Alex almost laughed.
+“Because mine still isn't on the register.”
 
-*Where exactly do you think I am?*
+She tried the zipper again. Our fingers shook too badly to grip it.
 
-Silence.
+*Sometimes I want my own body,* I said.
 
-There it was.
+“That's not news.”
 
-The impossible problem beneath every smaller problem.
+*Sometimes I want to wake up alone.*
 
-There was no way for Mara to dress herself without dressing Alex.
+The hand at our back dropped.
 
-No way for Alex to shave without shaving Mara.
+Mara did not answer inside our head. She used the mouth, perhaps because she wanted me to hear how unsteady our voice had become.
 
-No way for either twin to present themselves to the world without presenting the other too.
+“Alone in another bed,” she said, “or alone because I'm gone?”
 
-Mara sat on the bed.
+I had imagined two alarm clocks, two bathroom queues, a whole morning in which nobody could object to my shirt. I had also imagined the quiet after Mara, once or twice, in anger. I never let that version reach breakfast.
 
-Their green skirt spread around their knees.
+*Another bed,* I said. *I want you somewhere I can knock before coming in.*
 
-*Sometimes I wish I had my own body.*
+Mara sat on the edge of the bed, careful not to wrinkle the skirt. After a moment she rubbed our damp palms on it anyway.
 
-Alex answered immediately.
+“Good,” she said. “I want a door I can slam.”
 
-*Me too.*
+From downstairs: “I can hear that you don't need help very loudly.”
 
-Mara started crying.
+Mara laughed once. It loosened our ribs enough for a full breath.
 
-Alex took control of their right hand.
+*Ask Mom to fix the zipper,* I said. *And take my jacket in the car. If I'm going to be sick, I'd rather not do it on the dress.*
 
-He wiped their face.
-
-*That doesn't mean I wish you weren't here.*
-
-Mara sniffed.
-
-*I know.*
-
-*Do you?*
-
-A long silence.
+“The jacket comes off before we go in.”
 
 *Yes.*
 
-Then:
+“And I take chemistry tomorrow.”
 
-*Do you?*
+*Yes.*
 
-Alex looked at their reflection.
+Mom came up, freed the seam, and zipped us without asking what had happened. Mara wore the dress. I stayed awake for every stare in the hallway outside the art room. When a boy from chemistry looked at us, looked at the name card, and said, “Alex?” Mara shifted her weight between him and the drawing.
 
-Green dress.
+“You're blocking my picture,” she said.
 
-Broad shoulders.
+He moved.
 
-Breasts.
+The next morning she took chemistry, as promised. The teacher called my name at attendance. Mara answered, “Here. Mara today.” When someone whispered *dress-boy*, she did not produce a speech or throw a punch. She completed the equation on the board with our left hand, got the sign wrong, and took the laughter without giving the body back to me.
 
-Stubble.
+Mara taped a cheap calendar inside the wardrobe door. She marked her next exhibition in green on Sunday and made me object to the yellow blouse by Thursday. I wrote a haircut in black; when she objected in the barber's parking lot, we drove home with the same hair. After a nurse directed every question to me, Mara added *BOTH ANSWER* beside Dr. Shah's next appointment. Notes filled the margins, acquired arrows, and got crossed out whenever they failed, which was often. Pain or danger could still stop anything at once. Embarrassment had to speak before the clothes went on.
 
-One body.
+Some problems had no square on a calendar. We turned down dates when one of us could not bear the person asking. We argued about university programs that met at the same hour. Mara cut our hair shorter than she had promised after I trimmed our sideburns higher than I had promised.
 
-Two people.
+At seventeen, Dr. Shah opened our chart and showed us the header. It listed two patients sharing one body, with alerts requiring both of us to be consulted for non-emergency treatment. The software still disliked it. One name had to occupy the billing field, and our lab results could not be duplicated without looking like two samples.
 
-*Yeah,* he said.
+“Ugly,” Mara said, studying the screen.
 
-*I do.*
+“Very,” Dr. Shah agreed. “But your names are in the header, not buried on page six.”
 
+Our hormone levels had stabilized enough that she recommended no intervention beyond monitoring iron, bone health, and the pain that accompanied some cycles. She asked us separately what changes we wanted. Our answers still conflicted. She recorded both.
 
----
+On our eighteenth birthday, Mom brought out the prenatal ultrasound. The image showed one pale curl inside a black field. She had kept it in an envelope with our birth certificate, the early psychiatric reports, and Mara's first drawing of two furious eggs.
 
+“They told me one baby,” Mom said.
 
+Mara took the photograph in our left hand. “You bought one crib.”
 
-They developed rules.
+“There was barely room for that crib.”
 
-Not medical rules.
+I turned the page of the old report with our right. *Single viable fetus* was underlined twice.
 
-Twin rules.
+“When did you decide Mara was my name?” Mara asked.
 
-Important events belonged to whoever's event they were attending.
+Mom looked offended. “I didn't. You announced it at four and corrected me for six months.”
 
-If Mara went on a date, she chose the clothes.
+“Seven.”
 
-If Alex went on a date, he chose.
+“Then seven.” Mom gathered the papers before we could get frosting on them. “Come rescue your father. He has misunderstood the candle situation.”
 
-School days alternated.
+On the kitchen table sat two small cakes, chocolate for me and lemon for Mara. Dad had crowded eighteen candles onto each. Thirty-six flames leaned toward one another in the draft from the open window.
 
-Hair required unanimous agreement because neither could escape the consequences.
+“This is a fire,” I said.
 
-Facial hair belonged mostly to Alex, but Mara had veto power over anything described as "experimental."
+“This is arithmetic,” Mara said, taking the mouth.
 
-Bras were required when medically practical, regardless of Alex's opinion.
+Dad held up the long lighter. “Who goes first?”
 
-Periods gave Mara priority control unless she voluntarily surrendered it because Alex somehow handled cramps better.
+“Alex,” Mara said. “He'll complain until wax reaches the chocolate.”
 
-Nobody understood why.
+She yielded control. The family sang once because even Mara agreed that twice was excessive. I blew out my eighteen, inhaled smoke, and passed the body back while the lemon candles were still burning.
 
-Their mother called the arrangement a constitution.
+Mara had half a breath left. She used all of it, coughed into our sleeve, and glared at my cake as if the missing air were my fault.
 
-Their father called it collective bargaining.
+“Next year,” she said, “cupcakes.”
 
-Mara called it basic human rights.
+*Nineteen each,* I reminded her.
 
-Alex called it unnecessarily complicated.
-
-They both obeyed it.
-
-Mostly.
-
-
----
-
-
-By seventeen, their doctors stopped talking about correcting development.
-
-That word had quietly disappeared.
-
-The goal became health.
-
-Hormone stability.
-
-Cancer screening.
-
-Bone development.
-
-Pain management.
-
-Monitoring reproductive tissue that had no textbook equivalent.
-
-And keeping two patients informed about decisions concerning one body.
-
-Dr. Shah eventually changed the first line of their medical record.
-
-It had once read:
-
-**Patient: Alexander Mercer.**
-
-Then:
-
-**Patient: Alexander Mercer, with alternate identity Mara.**
-
-Now it read:
-
-**Patients: Alexander Mercer and Mara Mercer. Shared chimeric body.**
-
-Mara photographed it.
-
-Alex pretended not to care.
-
-She knew better.
-
-
----
-
-
-The strange thing was that puberty had begun as proof that something was wrong.
-
-That was how everyone treated it.
-
-Male and female traits appearing together.
-
-Hormones behaving incorrectly.
-
-Organs developing unexpectedly.
-
-A body refusing to choose.
-
-But the further they went, the less either twin saw it that way.
-
-Alex's beard did not make Mara less real.
-
-Mara's breasts did not make Alex less male.
-
-Their period belonged to neither of them neatly.
-
-Neither did their voice.
-
-Or their hands.
-
-Or their heartbeat.
-
-The body wasn't half Alex and half Mara.
-
-There was no border running down the middle.
-
-It was all Alex's.
-
-It was all Mara's.
-
-That should have been impossible.
-
-Their entire existence should have been impossible.
-
-They had become rather comfortable with that word.
-
-
-
----
-
-
-On their eighteenth birthday, their mother brought out the old prenatal ultrasound.
-
-The one the neurologist had examined.
-
-Alex and Mara had seen it before.
-
-One dark space.
-
-One developing body.
-
-Nothing that looked like twins.
-
-Mara held the photograph.
-
-"So that's us."
-
-Their mother nodded.
-
-"That's you."
-
-Alex studied the blurry shape.
-
-"Do you ever wish they'd known?"
-
-Their mother considered the question.
-
-"Would it have changed anything?"
-
-Mara shrugged.
-
-"Maybe you would've given us two names."
-
-"I did eventually."
-
-Mara looked at her.
-
-"When?"
-
-Their mother smiled.
-
-"The first time you told me yours."
-
-Mara became quiet.
-
-Alex felt the emotion hit before she could hide it.
-
-Their mother looked at both of them through the same pair of eyes.
-
-"Eighteen years ago, I thought I had one child."
-
-She touched the ultrasound.
-
-"Then I spent years thinking I had one child who sometimes needed to be somebody else."
-
-Her hand moved to their cheek.
-
-"Turns out I had twins."
-
-Alex smiled.
-
-Mara did too.
-
-Their mother laughed.
-
-"I'm still not buying two birthday cakes."
-
-"Discrimination," Mara said.
-
-"Absolutely."
-
-Alex took back enough control to point toward the kitchen.
-
-"Can we at least get two candles?"
-
-"There are eighteen."
-
-"Thirty-six," Mara said.
-
-"Why thirty-six?"
-
-"We each turned eighteen."
-
-Their mother stared at them.
-
-Alex joined Mara before she could stop himself.
-
-"She's got a point."
-
-Their mother closed her eyes.
-
-"This is going to be every birthday forever, isn't it?"
-
-"Probably."
-
-And that was the part nobody had predicted.
-
-Not the chimerism.
-
-Not the two identities.
-
-Not the strange puberty that gave one body a beard and breasts, a deep voice and monthly cramps.
-
-The truly unexpected part was how ordinary it all became.
-
-They argued over clothes.
-
-They fought about hair.
-
-They complained about periods.
-
-Alex worried his shoulders weren't broad enough.
-
-Mara worried her chest was too noticeable.
-
-They both hated acne.
-
-They both lied about stealing the last cookie.
-
-They dated.
-
-Badly.
-
-They studied.
-
-Occasionally.
-
-They planned university.
-
-Differently.
-
-They still had no idea how that particular problem was going to work.
-
-But for the first time, nobody was asking which one of them would eventually win.
-
-Puberty had forced their body to reveal what their minds had known from the beginning.
-
-There had never been one twin and an intruder.
-
-There had never been a real person and an invented one.
-
-There had been two children from the start.
-
-Two genetic histories.
-
-Two identities.
-
-Two futures.
-
-And, impossibly, only one body in which to build them.
+She looked at the crowded table and groaned. “Buy a bigger tray.”

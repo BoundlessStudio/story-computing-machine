@@ -8,472 +8,480 @@ canon: false
 
 # Held Together
 
-Aveline Ormont woke with Harlan Ives's spine braced against hers and his elbow trying to occupy the same narrow inch as her ribs.
+When Aveline Ormont woke, her husband was counting under his breath.
 
-"Don't move," they said together.
+“Eight, nine, ten—”
 
-His laugh came out thin. "Good. Still communicating."
+“Don’t move.”
 
-"You moved on two."
+Harlan Ives stopped at eleven. His back was pressed to hers, close enough that she could feel him breathe and not close enough to tell whether the shallow breaths meant pain. Four steel bands fixed their wrists and ankles to a low frame. A fifth crossed Aveline’s chest. The room around them was windowless, faced in gray ceramic, with a narrow vent cut high in the wall.
 
-"You changed the plan after one."
+Their masks were still on. After nine years of marriage, Tensile and Sideslip were names they used for reports, witnesses, and the occasional child who wanted an autograph. In private, Aveline called him Harlan. For most of the last six weeks, she had used his name only when patrol required it.
 
-The room returned to her by pieces: a white ceiling too low for a clean leap, walls faced in gray ceramic, a ventilation slot near the top, and four black bands fastening their wrists and ankles to a jointed metal frame. They sat on the floor back-to-back, knees bent in opposite directions. A harness crossed Aveline's sternum. Every breath pressed Harlan's shoulder blades into hers.
+“I wasn’t moving,” he said. “I was inventorying.”
 
-The half-masks were still strapped to their faces. On incident reports they were Tensile and Sideslip; the aliases kept witness accounts tidy, not their identities secret. After nine years of marriage, they almost never used them for each other.
+“Out loud?”
 
-Beyond the wall, the stolen phase-key sang on a rising, glassy note.
+“I hoped numbers might lure you back to consciousness. You respect them more than I do.”
 
-The prototype could uncouple bonded matter for seven seconds. Its designers meant it for jammed rescue machinery. The remote buyer had not paid the Dacres for humanitarian intentions.
+Beyond the wall, the stolen phase-key gave off a glassy, rising hum. The sound put the loading dock back into Aveline’s head: the key suspended in its transport cage; Sana Dacre’s gloved hand reaching through a sealed panel by way of her husband’s folded space; Harlan shouting the old three-count. Aveline’s tensile field had released the dock cable when she told it to. The force had struck four heartbeats later, after Harlan had committed to his phase. The concrete bucked. Keaton Dacre folded the distance between two pillars, and the heroes ran straight into a waiting net.
 
-That sound pulled the last seconds of the fight into order. A loading dock. The key suspended in its transport cage. Sana Dacre's gloved hand held inside one of Keaton Dacre's pale spatial offsets and passing through a sealed panel where no hand belonged. Keaton bending the distance between two support pillars until Harlan's charge carried him sideways. Harlan calling three. Aveline releasing on the count she had heard. The concrete floor twisting under her field, not when she commanded it but a sick beat later. Then the Dacres' damping net folding around them.
+“You went before three,” Aveline said.
 
-Six weeks ago, she and Harlan would have blamed bad acoustics and started solving the room. Tonight blame arrived first, already sharpened by practice.
+“There it is.”
 
-"You said three after you went," she said.
+“Did you?”
 
-"I went when you pulled."
+“You pulled before two.”
 
-"I hadn't pulled yet."
+“I released on two. The floor moved late.”
 
-"Then the dock threw itself at me for personal reasons."
+He was quiet for half a breath. “That is a fascinating choice of verb tense.”
 
-Aveline tested the band at her right wrist with a thread of tensile force. Her field caught the load between steel and bone. Usually she could stretch that invisible line, store the strain, and cast it somewhere useful.
+Aveline hooked a thread of force between her right wrist and the frame. Her field caught the band’s tension as if it were a wire she could pluck, stretch, and cast into another anchor.
 
-The wall answered with a soft mechanical click. The band tightened.
+The wall clicked.
 
-Harlan jerked against her. A second click drew the harness snug enough to shorten her next breath.
+The frame twisted beneath them. Harlan’s shoulder vanished from her back for an instant; his attempt to phase out took weight off one side. A black node in the wall spun, converting both changes into torque. The bands cinched at once. Five seconds later the force Aveline had dismissed returned through the frame in a dull kick that drove the chest strap against her ribs.
 
-"What did I just say?" he asked.
+Harlan sucked air through his teeth. “For the next minute, can we postpone the demonstration portion of your prosecution?”
 
-"You said don't move, then moved."
+She made herself let the field go slack. The room was a balance trap. Any sudden change in load—pull, impact, mass disappearing into phase—turned the restraint spindle forward. The delayed kick had turned it twice.
 
-"Because my hand was being crushed."
+“Damping lattice,” she said. “Four wall nodes, perhaps six. Shared spindle. It winds on an unbalanced load.”
 
-"It's not crushed."
+“So if neither of us does anything stupid, we die of old age in a tasteful ceramic box.”
 
-"Excellent. I feel better now that you've ruled on it."
+“The Dacres don’t kill captives.”
 
-The phase-key's whine climbed another fraction. Aveline counted three dark circular nodes in the nearest wall, then found two more reflected in the metal frame. A damping room: directed force went into the walls, came back as torsion, and wound their restraints tighter. Harlan's phasing would count as a change in force. The Dacres had built the cell for them, or for people enough like them that the distinction did not help.
+“Comforting distinction from the people who put us in a box.”
 
-Above, voices passed through the vent.
+Metal rolled in the room above them. A drawer opened, then another.
 
-"Extraction is at forty-one," Sana said. Her tone was brisk, each word fitted like a tool into foam. "Buyer window closes in two hours. I need the narrow coupler."
+“Narrow jaw,” Sana Dacre said through the vent.
 
-"Left drawer," Keaton said.
+“Retired,” Keaton answered.
 
-"You moved it."
+“You retired my extractor jaw during an extraction?”
 
-"I prevented you from throwing it through the wall."
+“It has a crack.”
 
-"That was the broad coupler. It had forfeited indoor privileges."
+“It has a scratch.”
 
-A drawer rolled open. Metal rattled. The Dacres, Latchkey and Parallax in the case files, had spent eleven years turning theft into a specialty and pursuit into a marital hobby. Aveline had expected the private workshop, the redundant escape route, the capture without needless injury. She had not expected bickering about tool storage while two kidnapped heroes sat behind the wall.
+“It sings when you load it.”
 
-"I'll finish the cradle," Sana said. "You take guard and eat something."
+“Everything sings when you load it. That’s what load is.”
 
-"You take guard. I can finish the cradle."
+Keaton’s footsteps crossed the ceiling. The second drawer shut. “Broad jaw, top tray. Two braces.”
 
-"You cut a seal with the polarity reversed last month."
+“Seven extra minutes.”
 
-"Once. The seal was designed by a sadist."
+“Six if you eat while I fit it.”
 
-"Guard, Keaton. Food. In that order."
+Paper rustled. Something slid over a workbench.
 
-"Half a sandwich now, guard, other half during the transfer. You haven't eaten either."
+“Mustard?” Sana asked.
 
-A pause.
+“Your half is innocent.”
 
-"That allocation is acceptable," Sana said.
+“You remembered.”
 
-Footsteps crossed overhead. A drawer closed. Someone wound an old kitchen timer, its spring ticking with absurd domestic patience.
+“I remember plenty of things that don’t shoot wire at me.”
 
-Harlan shifted his head until it almost touched hers. "No one stages that much boring logistics for an audience they think is unconscious."
+The Dacres had been married eleven years and stealing together for almost as long. Latchkey and Parallax in the case files: a woman who fixed openings and cable-lines to surfaces with black metal latches, and a man who bent the distance between those anchors. They had stolen the key, captured two intervening heroes, and remembered how one another took a sandwich.
 
-"They know we're awake."
+Harlan tipped his head until his hair brushed hers. “I find this deeply offensive.”
 
-"You think the sandwich is psychological warfare?"
+“The mustard?”
 
-"I think Parallax bent a twenty-meter dock into a cupboard and put us in it. Forgive me if I don't nominate him for husband of the year."
+“We got kidnapped by adults.”
 
-"I didn't nominate him. I said he remembered lunch."
+“Listen for the guard rotation.”
 
-"Unlike you, who remembers everything except the count."
+“Yes, counsel.”
 
-His shoulders went still. She felt the stillness because nine years of marriage had taught her the difference between Harlan resting and Harlan withdrawing. Once, she had known better than to follow him into that quiet with a blade. Lately she seemed to keep one ready.
+Keaton wound a kitchen timer. Its ticking came through the vent beneath the key’s hum.
 
-The timer ticked. The key whined. On the wall opposite, a pale outline of a hand appeared, measuring an empty span between two nodes. It repeated the gesture twice, fingers opening and closing, although no one stood there. One of Keaton's spatial projections had left an afterimage attached to the ceramic. Sana could steer those offsets well enough to put her hands through a lock, but reconciling the false angle with her own sight brought on the aura. The residues themselves lasted minutes and were harmless, useful mostly for making witnesses doubt where a body had been.
+On the ceramic opposite Aveline, a pale hand appeared with no arm attached. Its fingers measured the distance between two wall nodes, repeated the motion, then rested against an empty seam. One of Keaton’s spatial folds had left an afterimage where it had touched the room. The residues lasted several minutes: harmless, silent gestures that made old work continue after the worker had gone.
 
-The ghost hand touched the third node. Aveline marked the sequence.
+Guiding a latch through one of Keaton’s folds made Sana look along both paths at once. The case files mentioned prismatic auras after heavy use.
 
-Above them, Sana said, "There. The aura's back."
+The ghost hand faded at the wrist.
 
-The scrape of a stool stopped.
+Above them, Sana said, “Left edge is sparking.”
 
-Keaton's voice lost its amusement. "How much?"
+A stool scraped hard. “Give me the gloves.”
 
-"Bright edge on the left. No occlusion."
+“No.”
 
-"Then no more projections."
+“I’ll take the reach.”
 
-"I reported an aura. I did not hand you my decision."
+“You can’t see my latch trace.”
 
-"I think continuing is unsafe."
+“I can see your pupil.”
 
-"You have now told me twice."
+“Then look from over there. Stop taking things out of my hands.”
 
-"Because you're about to put your hands through a compression fold while half-blind."
+The workshop went still except for the timer. Aveline waited for Keaton to push. She knew the shape of that next minute: concern promoted to authority, refusal treated as ingratitude, every old injury summoned to vote.
 
-"Once is concern. Twice is you sliding into command."
+Instead, a lamp clicked off.
 
-Silence caught in the vent. Aveline waited for the explosion. Harlan's back had become attentive against hers.
+Keaton said, “Can you still hold the mark?”
 
-Keaton said, "Blue mug."
+“With the visor.”
 
-No answer came. Footsteps moved apart, one set toward the workbench and one toward the far side of the room. The kitchen timer was lifted, turned, and set down again. A shorter interval began.
+Cloth whispered across the bench. “It’s beside your right hand.”
 
-"Code phrase," Harlan murmured.
+“I know where my right hand is.”
 
-"Or theater."
+“Good news for both of us.” His footsteps retreated. “I’ll move the physical rail. You call the cut.”
 
-For ninety seconds, only the timer and phase-key spoke. Then it rang.
+“That loses the elegant version.”
 
-Keaton returned first. "Do you want the transfer delayed, the physical extraction reassigned, or me to trust your assessment and stop hovering?"
+“The elegant version whines.”
 
-"Reassign extraction," Sana said. "I keep the geometry calls. You can refuse any fold you can't hold. You cannot revise my calls without asking."
+“That is still not what load means.”
 
-"Agreed."
+The timer kept ticking. A drawer opened. Sana resumed work, slower now, calling measurements. Keaton rolled the physical rail instead of coming back for her gloves.
 
-"And I will eat the other half of your sandwich."
+Aveline studied the last pale fingers on the wall. “Performance.”
 
-"That was not among the offered remedies."
+“For us?” Harlan asked.
 
-"I am broadening the remedy."
+“They know we’re conscious.”
 
-The work resumed.
+“Sana is eating. No one commits to sandwich acting that thoroughly.”
 
-Aveline stared at the ghost hand until its fingers faded from the wall. "Convenient," she said.
+“Right-hand collar,” Aveline said. “Old release. I hold the load. You take the locking pin out of phase on three.”
 
-"What is?"
+His shoulder tightened. “We haven’t found all the nodes.”
 
-"Their little demonstration. They pause, they negotiate, they steal the key."
+“We don’t need all of them.”
 
-"Yes," Harlan said. "Terrible people. Alarmingly functional meeting."
+“Your last field just came back late.”
 
-She pressed the back of her skull against his. "We have a window before the buyer arrives. Old release. I load the right band; you phase on three."
+“Because you changed the load.”
 
-"We don't know how much torsion the room has stored."
+“Of course.” His voice had gone light, almost cheerful. That was how he sounded when he wanted a door left unopened. “Pin on three.”
 
-"Then phase briefly."
+Aveline gathered the collar’s torque into a narrow line. “One.”
 
-"You just accused me of going early."
+Harlan’s weight left her right shoulder.
 
-"I'm giving you a count."
+“Two.”
 
-She felt his breath leave. "Fine."
+The pin blurred inside its housing. It did not disappear cleanly. Harlan snapped solid before she reached three, and the collar slammed against the half-phased pin.
 
-Aveline gathered the smallest useful line between her wrist and the frame. One. The field took tension, a tautness under her skin. Two. Harlan's body became strangely absent against her, pressure vanishing from one shoulder before the other.
+The shared spindle spun. Aveline caught the first wrench of force, but the line slipped from her control. The wall boomed. Five seconds later her delayed recoil struck the same anchor and flung their bound hands sideways.
 
-The room boomed.
+Harlan made a short, animal sound.
 
-He snapped solid before three. The wrist bands spun half a turn, wrenching them both toward the frame. Aveline let her field go. Its delayed recoil struck after her command, shoving the load sideways. Pain flashed across her ribs. One wall node flared amber.
+“You came back early.”
 
-Harlan made a sound through his teeth.
+“Excellent observation.”
 
-"You came out early."
+His left hand had fallen across her thigh. Aveline closed her fingers around it. He did not close back.
 
-"Astute."
+“Squeeze.”
 
-"Harlan."
+“Doing my best.”
 
-His left arm lay across her hip where the twisted frame had thrown it. She caught his hand. His fingers stayed open.
+She pressed her thumbnail into his palm.
 
-"Squeeze," she said.
+“Ow,” he said too quickly.
 
-"I am."
+“Where?”
 
-He was not.
+“Palm.”
 
-She dragged one fingernail across his palm. His hand did not twitch. When she pinched the web between thumb and forefinger, he guessed, "You're touching my wrist."
+She had touched the base of his little finger. “Wrong.”
 
-Fear entered her so quickly it found anger already waiting.
+“Close enough for government work.”
 
-"How long?"
+“How much can you feel?”
 
-"It comes back."
+“The frame. Your mood. A powerful sense of regret.”
 
-"That wasn't the question."
+She pinched harder. Nothing. Her grip tightened until her own wrist band bit.
 
-"A minute, usually."
+“How long has your left side been going numb?”
 
-"How long has this been happening?"
+“This is an inconvenient venue.”
 
-His jaw moved against her hair. "A while."
+“Tuesday, in the barrier collapse—could you feel it then?”
 
-"Days?"
+“We need to get out.”
 
-"Aveline."
+“Friday on the passenger deck?”
 
-"Weeks? You took point through the barrier collapse on Tuesday. You phased the passenger deck on Friday. Were you numb then?"
+“Aveline.”
 
-"I could still move."
+“Yes or no?”
 
-"Were you numb?"
+“Do you want the useful answer, or do you want me guilty before the buyer arrives?”
 
-"If I tell you yes, are you going to hear anything after it?"
+Locks clacked before she could choose. The cell door opened inward, revealing Sana in a black work suit with her mask pushed onto her head. A prismatic crescent trembled at the left edge of one eye. She carried two foil water pouches and stopped outside the reach of their feet.
 
-"Try me."
+“If you keep feeding the spindle, the chest band will crack a rib,” Sana said.
 
-"That's not an invitation. That's a deposition."
+“Release it,” Aveline said.
 
-The harness dug into her sternum. "You hid a change in your power while we were working."
+“No.”
 
-"And you haven't?"
+“Return the key.”
 
-Her field pulsed under her ribs, a late echo of the force she had already released. She said nothing.
+“Also no.” Sana fitted a straw to the first pouch and held it where Aveline could drink. “Those are the two large noes. You may have water.”
 
-"Right," he said. "Only one of us gets to be evidence."
+Aveline drank because refusing would help no one. Sana moved the straw to Harlan, watching his left hand lie open.
 
-Locks clacked. The door opened, and Sana Dacre stepped into the room carrying two foil water pouches. She was a compact woman in a black work suit, her mask pushed onto her forehead. A fading prismatic crescent shimmered at the edge of her left eye. She glanced at the amber node, then at the new angles of their restraints.
+“Phase sickness?” she asked.
 
-"I told Keaton you would test it before listening," she said.
+“Seasonal,” Harlan said.
 
-"Do you two wager on kidnapping?" Aveline asked.
+“Then you picked a bad season.”
 
-"Not money. It complicates taxes."
+She did not offer advice. She checked the color above each wrist band, loosened nothing, and left the water beyond their reach when she went out. The door locked again.
 
-Sana crouched just outside kicking range and threaded a long straw toward Aveline's mouth. Aveline drank despite herself. The water was cool.
+In the workshop, metal struck metal.
 
-"Stop fighting the room and it will stop tightening," Sana said. "We don't intend to hurt either of you."
+Sana said, “The throat is six millimeters wide.”
 
-"Then release us and return the key."
+“Five point eight.”
 
-"No. You may have water. You may not have the key."
+“It will slip in transport.”
 
-She moved the straw to Harlan. Aveline watched her watch him struggle to close his left hand.
+“It won’t crack the jacket.”
 
-"Transient sensory loss?" Sana asked.
+“Maybe if you’d measured the case instead of admiring your own geometry—” The sentence cut off. A tool settled onto cloth. “No. You measured it. Give me the blue shims.”
 
-Harlan's tone brightened falsely. "I'm trying a new hobby."
+Keaton did not make her ask twice. A tray slid. “Still five point eight.”
 
-"Poor choice of venue." She did not ask again. She set the pouches beyond reach, stood, and left them locked inside.
+“Still ugly. Brace both sides.”
 
-In the workshop, Keaton said, "The throat on this coupler is too narrow."
+“That was the plan.”
 
-"Because you cut it against my measurement," Sana replied.
+“Then stop looking smug where I can only see half of you.”
 
-"Against an old measurement. The buyer changed the case."
+The next sounds were two sets of hands working the same brace.
 
-"If you'd measured the case instead of admiring your own geometry—"
+Harlan’s numb fingers twitched against Aveline’s leg.
 
-The sentence stopped.
+“Did they just have a better fight than us?” he asked.
 
-When Sana resumed, her voice had lost its blade. "That was contempt. I'm sorry. You did measure it. My objection is that you changed the tolerance without telling me."
+“They are transferring stolen rescue equipment to a buyer.”
 
-Keaton took a moment. "Apology accepted. I changed it because I thought the original throat would crack the key jacket. I should have told you before I cut. I still think the wider tolerance is safer."
+“That was not my question.”
 
-"I still think it will slip under transport. Bring me the blue shims."
+The phase-key pulsed three times. A receiver answered from the workshop.
 
-"Those I did not move."
+Keaton said, “Buyer crossed the outer marker. Thirty-seven minutes.”
 
-Their disagreement continued, technical and unresolved.
+Aveline looked at the black pin in her right-hand collar. “I need your usable phase.”
 
-Aveline had believed, without ever phrasing it, that decent conflict belonged to decent people, or at least to calm rooms. The Dacres had chained two people to a machine and were preparing to sell stolen hardware to someone worse. Their affection absolved none of it. It also did not vanish when the job went wrong.
+“Had twelve seconds before the dock.”
 
-The phase-key gave three sharp pulses. Somewhere above, a receiver chimed in answer.
+Not an answer to the question she had asked. A number he could hide inside. “Had?”
 
-"Buyer vehicle crossed the outer marker," Keaton said. "Forty minutes."
+“Six on the dock, counting the part where Parallax made the wall arrive sideways. Two just now. Four left if luck has developed professional ethics.”
 
-Harlan's fingers twitched in Aveline's hand.
+“And afterward?”
 
-"Six weeks," he said.
+“Left hand first. Jaw if I push. Leg if I’m an idiot.”
 
-She looked down at his knuckles.
+“For six weeks?”
 
-"It started as pins and needles after long phases. Then shorter ones. Last Friday my whole left side stayed numb for three minutes." He swallowed. "Tonight I have maybe twelve reliable seconds in total before it spreads. Less now. I didn't tell you because you would take me off patrol. Then you would watch every step I took. Then I'd be your responsibility instead of your partner."
+“Don’t spend our thirty-seven minutes indicting me.”
 
-Aveline wanted to refute the order of events. She could hear herself doing it: *Of course I'd take you off patrol. Of course I'd watch you. How could I not?* Each sentence would prove his fear while avoiding hers.
+“You went on patrol unable to feel half your body.”
 
-"My field recoils late," she said. The admission left her colder than the room. "Four to six seconds after I release a load. I don't control when. On the dock I released on your count, but the force landed after you'd moved."
+“Minutes, not half. And yes.”
 
-He was quiet long enough for the key to pulse again.
+She wanted motive, apology, an admission proportionate to the fear opening beneath her ribs. What he had given her were totals. Totals were what he could manage without begging her not to turn him into a patient.
 
-"How long?" he asked.
+Harlan shifted his chin toward her right wrist. “Your field didn’t slip. You dropped it, and it hit five seconds later.”
 
-"Three weeks."
+“Approximately five.”
 
-"You let me think I mistimed it."
+“At the dock too.”
 
-"You let me think you were fine."
+The words were flat. No joke to blunt them.
 
-She almost answered, *You first.* That would buy them ten more minutes of assigning fault and no way out of the room.
+“Yes.”
 
-"I'm frightened," she said. The words felt less safe than any accusation. "Every symptom you hide sounds like you choosing patrol over coming home with me. I turn questions into verdicts because I want you to reassure me before I admit I need it."
+“You knew.”
 
-His thumb made a weak pass across the side of her hand. "I'm frightened you'll love me into being useless."
+“For three weeks.”
 
-"Then give me current facts. Exact ones. Tell me when sensation changes, how many seconds you have, and what you will stop for. I will not override a stop."
+His back moved once against hers, a breath stopped and restarted. “So that floor really did throw itself at me.”
 
-"And your recoil?"
+“Harlan—”
 
-"I name the load and count the delay out loud. If I don't know, I say I don't know. You get a stop too."
+“No. We’ve established we can both lie in work clothes. Can facts open the door?”
 
-"That sounds suspiciously like a plan."
+She nearly told him that omission was not the same as lying. The distinction was structurally defensible and useless.
 
-"It is a request. Don't make me repeat it elegantly."
+“The pin carries the collar’s stored torque,” she said. “If you remove it while I hold exactly that load, the node shouldn’t see a change. My recoil lands four to six seconds after I release. I can’t narrow it more than that.”
 
-"I accept the inelegant request."
+“Four seconds left. Probably three clean.”
 
-They began with movements small enough to fail safely. Aveline drew a thread of tension into the right wrist band and let it fade before the wall could take it. Harlan phased the tip of one finger for less than a second. The nearest node dimmed, then brightened. They tried opposing directions. The restraint gave a grudging millimeter.
+“Can you phase only the pin?”
 
-The room did not punish force itself. It punished an unanswered change, winding any imbalance forward. If Harlan removed a piece of the load while Aveline held its shape, the lattice searched for somewhere to put the difference. If she caught that difference and waited through her recoil, the next node briefly emptied.
+“If you quit moving the target.”
 
-The kitchen timer rang overhead. Keaton's steps moved from the workbench to the extraction cradle. Sana's moved away. Their task handoff pulled power from the cell nodes; the ghost hand on the wall thinned.
+Aveline closed her eyes. The barb was deserved; that did not make it a plan. “I’ll keep the collar fixed. Tell me before sensation moves.”
 
-"That's the window," Aveline said. "On my two, phase the right locking pin. I hold the band. When the pin comes back, I take the release."
+“And if I say out?”
 
-"I have eight seconds before I need a full recovery."
+Her first answer rose ready-made: they were too close to stop once the pin cleared. She swallowed it.
 
-"Understood. One. Two."
+“Then I dump the load into the frame and take whatever comes back.”
 
-The pin blurred inside its housing. Harlan's shoulder stayed solid against hers, but the band tried to jump toward the space the pin had left. Aveline caught the sudden torsion, held it in a narrow line, and felt the node begin to drain.
+“That could tighten us again.”
 
-"Stop," Harlan said.
+“Yes.”
 
-The buyer's signal pulsed. The open pin was almost clear. Every trained instinct told her to finish.
+It was not reassurance. Harlan’s right shoulder eased anyway.
 
-She released.
+They began with loads smaller than a held breath. Aveline lifted the torque from one notch of the collar. Harlan brushed the pin with a phased fingertip for less than a second. The nearest node dimmed; a second node answered behind them. Five heartbeats after Aveline released, the frame kicked. This time she had left the line pointed into the ceramic seam, and a hairline crack appeared.
 
-The pin snapped solid. Her field recoiled five seconds later, but because she had let the load die instead of casting it, the force only jarred her wrist. Harlan sagged against her.
+Above, the kitchen timer rang. The extraction rig drew power; both visible nodes faded at once.
 
-"Numbness?"
+“That’s our window,” she said.
 
-"Left jaw. Early."
+“Three clean.”
 
-"Then we wait."
+Harlan took the pin out of phase. Aveline held its torque, rotated the freed collar a finger’s width, and felt the node searching for the missing load.
 
-"Thirty-two minutes."
+“Left jaw,” he said. Then, sharper: “Out.”
 
-"We wait."
+The collar was almost past the pin. Almost had killed people before.
 
-Sensation returned in increments he named without jokes: jaw, shoulder, first two fingers, palm. Above, the Dacres fitted the buyer case and argued about padding. When the timer was wound again, Aveline and Harlan adjusted their sequence.
+Aveline let everything go.
 
-At the ring, Harlan phased only the locking pin, not his arm. Three seconds. Aveline held the band in place until he returned, absorbed the released twist, and counted.
+The pin resolved in its slot. The spindle took back the fraction she had won. Her recoil jarred the frame five seconds later without widening the crack. Harlan sagged, breathing through his mouth.
 
-"One. Two. Three. Four—recoil."
+Neither spoke until he said, “Jaw’s back.”
 
-The field kicked. She turned it into the seam of the right-hand wall node. Ceramic cracked. The restraint sprang open with a noise like a snapped cable.
+“Hand?”
 
-Harlan rolled free as she tore loose the remaining bands. For a moment they knelt facing each other, masked, bruised, and newly embarrassed by having bodies their spouse could not safely guess at.
+“Two fingers.”
 
-"Five good seconds," he said.
+“We wait for all of it.”
 
-"Recoil window unknown after that load."
+“Buyer is at thirty-one.”
 
-"Door?"
+Aveline rested her head against his. “Report when the hand is back.”
 
-"Door."
+He was quiet for several ticks. “You stopped.”
 
-The cracked node had released the cell latch. Beyond it lay the workshop: a long central bench, rolling tool cabinets, the humming extraction cradle, and an open buyer case lined with copper mesh. The phase-key hung above the case like a sliver of frozen lightning. At the rear wall, a steel hatch stood between stacked crates. Keaton's pale afterimages crossed the room in old routes—a shoulder turning beside the bench, a hand lifting beside an empty doorway, the outline of a quick kiss lingering near Sana's temple while the real couple worked six feet apart.
+“Report, Harlan.”
 
-Sana saw the broken door first. "They're out."
+“Three fingers.”
 
-Keaton swept one hand across the air. Distance lurched. The five paces between Aveline and the cradle folded into twelve, and a rolling cabinet seemed to jump into her path. She caught its momentum in her field, grounded the cabinet, let the load go, and called, "Cabinet. Recoil in five, maybe."
+They waited. The Dacres rolled the physical rail into place overhead. Sana called angles; Keaton repeated only the ones he could not see. When her left vision flashed brighter, she said so. He set the visor closer without touching her gloves. A minute later Aveline heard Sana pick it up.
 
-Harlan slipped through the false angle before it settled. "Four seconds. Left foot dull."
+At the next timer ring, Harlan gave her two clean seconds. He phased the pin. Aveline took the torque, turned the collar clear, and held until the pin returned in empty air.
 
-Sana snapped a ring of black latches from her belt. They clamped onto the bench and cast a wire loop across Harlan's route. He went translucent for half a heartbeat, but Keaton shifted the exit of the fold. Harlan emerged beside the buyer case instead of behind it.
+“Solid,” he said.
 
-"Two seconds," he said.
+She released the stored force with its anchor set in the cracked seam and counted the empty seconds aloud. On five, ceramic split. The node went dark. The right wrist band sprang open, then the chest strap and the remaining bands slackened as the shared spindle unwound.
 
-Aveline's recoil hit. The cabinet shot across the workshop. Sana ducked; Keaton pulled the distance in front of her sideways, and the cabinet crashed harmlessly through the projected space into a shelf.
+They rolled apart. Harlan rose with his left arm tucked close and his weight favoring that side. Aveline’s ribs objected when she stood.
 
-The phase-key wobbled in its cradle. Its whine rose.
+“One ugly second,” he said.
 
-"Aura doubled," Sana said. "I can steer one precision reach."
+“My next recoil is unknown.”
 
-"Then none for pursuit," Keaton replied.
+“Our finest hour.”
 
-"Mine to call."
+The broken node had released the cell door. Aveline pushed it open.
 
-"Understood."
+The workshop beyond was long and crowded: cell behind them, central bench six paces ahead, extraction cradle bolted above an open copper-mesh case, rear hatch between stacked crates. The phase-key hung in the cradle like a bright splinter. Keaton’s old projections lingered everywhere—one pale shoulder crossing the bench, a hand lifting beside an empty drawer, the outline of Sana leaning briefly into a kiss that had ended long before the real Sana looked up.
 
-They were still criminals. They were still very good. Keaton collapsed the space around Harlan while Sana turned toward the key, gloved fingers finding the cradle's hidden catches. If she seated it in the buyer case, its shielding would close.
+“They’re loose,” she said.
 
-"I can't reach the key," Harlan said. "One second, maybe."
+Keaton swept both hands apart. Six paces stretched into fifteen. A rolling cabinet seemed to leap into Aveline’s route as the space around it folded.
 
-Aveline saw the old solution: tell him to spend it, catch him if he fell, decide that the risk was necessary because she was better at necessity. She let the thought pass without turning it into an order.
+Sana snapped three latches onto the bench. Black wires sprang between them and caught Harlan across the waist. He went translucent just long enough to pass through, then came solid on the wrong side of the fold, beside the buyer case rather than the key.
 
-"Can you reach the retaining pin?"
+“Foot’s gone,” he called. “One second.”
 
-"Yes. Left side will go."
+Aveline caught the moving cabinet’s load in her field and fixed it to the floor. “Cabinet held. When I release, four to six.”
 
-"Your call."
+Keaton bent the cradle farther away. His stance widened as the fold took strain. Sana worked the key’s jacket with her right hand while her left missed a latch, corrected, and missed again.
 
-He looked at the open case. "Do it."
+“Your mark is splitting,” Keaton said.
 
-Aveline cast her field, not at the key but at the wire loop Sana had anchored to the bench. She pulled. Sana braced instinctively, feeding force through the latches. Aveline caught it and held.
+“Hold your side.”
 
-"Now," Harlan said.
+“I am holding the room.”
 
-His fingers passed through the copper housing and touched the retaining pin. For one second, the pin ceased to hold anything.
+“Then hold it somewhere useful.”
 
-Aveline released the wire. Sana stumbled back as the tension vanished. Four seconds later, the recoil arrived and snapped through the empty housing. The cradle opened. The phase-key dropped short of the buyer case.
+Sana cast a new wire. Aveline caught it before it closed around Harlan and anchored its tension to the cradle brace.
 
-Harlan, solid and falling, knocked the case lid away with his good hand. Aveline caught the key in a sling of tensile force and drew it into the broken cell, where the remaining damping nodes swallowed its motion and pinned it harmlessly against the floor.
+“Retaining pin,” Aveline said. “Can you touch it?”
 
-Keaton reached Harlan first. He could have struck him. Instead he hooked Sana's arm and pulled her clear of the humming cradle.
+Harlan looked at the distance Keaton had stretched between them. “One ugly.”
 
-"Job's gone," he said. "Rear hatch."
+“I can’t give you a count.”
 
-Sana's gaze fixed on the key. The prismatic crescent beside her eye had spread into a hard, bright arc. One projected reach might still cross the room. It might also leave her blind inside a collapsing fold.
+“Then don’t.” He lowered himself onto his good leg. “Tell me when it starts.”
 
-Her hand closed on Keaton's sleeve. "Agreed."
+Aveline poured the cabinet’s arrested momentum into the wire and released it. Nothing happened. The return was loose inside its four-to-six-second gap.
 
-He bent the distance to the hatch. Sana threw one last latch behind them, tangling the pursuit route without pretending it would hold forever. Then the Dacres were gone together, their fading outlines pacing the workshop after them.
+Sana heard. She turned the cradle, hiding the pin behind its copper jaw, and hauled on her wire. Aveline let her. The line loaded until it trembled.
 
-Aveline made it two steps toward Harlan before her knees folded. He was already sitting, his left side slack, so she lowered herself with her back against his. The position kept them both upright, spared her ribs, and let them watch opposite doors.
+The recoil arrived as a wrench through Aveline’s shoulders.
 
-"Inventory," she said.
+“Now.”
 
-"Left leg absent. Left hand mostly absent. Face coming back. Pride critically injured."
+Harlan dropped through the folded distance. For one second his hand and the copper housing occupied the same bright blur. The retaining pin ceased to hold.
 
-"Ribs bruised. Right wrist strained. Recoil after small loads still around five seconds. After large loads, unknown."
+Aveline’s returning force ripped along Sana’s wire and through the unpinned brace. The cradle jaw flew open. Harlan struck the buyer case with his solid right hand, knocking its lid away before the phase-key dropped.
 
-The phase-key buzzed against the floor. The buyer signal went on blinking inside its empty case.
+Keaton tried to fold the falling key back toward Sana. The projection bowed under the load already in the room; his right arm shook, and one knee hit the floor.
 
-"We cancel tomorrow's patrol," Harlan said.
+Sana had a latch aimed at the key. She could have fixed it in midair. Instead she struck loose the two latches anchoring Keaton’s far edge.
 
-"Yes. We tell the team we are medically unavailable. We tell the clinic and the field technician everything."
+Space slammed flat. The key fell short of the case.
 
-"Everything measurable."
+Aveline caught it in a sling of force and pulled it through the open cell door. The surviving damping nodes seized the motion, winding the key gently against the floor instead of letting it strike.
 
-"Everything we're embarrassed by too."
+“Rear hatch,” Keaton said, still on one knee.
 
-His head rested lightly against hers. "At home, if one of us says pause, it means pause. Not abandonment. Not surrender."
+Sana tore the buyer’s data wafer from the case and caught the back of his suit. “Move.”
 
-"And the person who asks for it says when they'll come back."
+He shortened the distance to the hatch. Sana kept hold of him and the stolen data as they crossed it. Then the steel door shut, leaving their pale afterimages to finish gestures the Dacres no longer had time for.
 
-"Ten minutes?"
+Harlan sat down where he had landed. Aveline managed two steps before the spent field folded her beside him. She turned until their backs met again. This time the position kept pressure off her ribs and let them watch both doors.
 
-"Or an honest estimate. No invented precision."
+The phase-key hummed safely in the broken cell. The buyer signal blinked in its empty case.
 
-"You wound me."
+Harlan reached the confiscated gear tray with his right hand and found his phone. “Dispatch or clinic?”
 
-"Can you feel it?"
+“Dispatch.”
 
-He considered. "Right side only."
+He unlocked the screen. “Clinic after.”
 
-Harlan's phone lay in the confiscated gear tray under the bench, just within reach of his right hand. Hers had been cracked on the dock.
+“Before debrief.”
 
-"Who makes the call?" he asked.
+“There goes tomorrow’s patrol.”
 
-"Your right hand works."
+“Delete it.”
 
-"Your voice sounds more authoritative."
+He dialed. While it rang, Aveline said, “Nine o’clock. Kitchen table. Not the gear room.”
 
-"That has been identified as a hazard."
+“Clinic at nine.”
 
-He laughed, and when it ended he did not add another joke. "I'll dial," he said. "You tell them where we are."
+“Then noon.”
 
-He dialed with his right thumb. When the dispatcher answered, Aveline gave their location, the key's condition, and, before habit could edit the sentence, both sets of injuries.
+His thumb hovered over the speaker button. “No case files?”
+
+“Leave them at the office.”
+
+The dispatcher answered. Harlan asked for recovery and medical support, gave the workshop coordinates, then described the numbness without rounding down. When he called Aveline’s recoil a timing problem, she leaned toward the phone.
+
+“Uncontrolled,” she said. “Four to six seconds. For three weeks.”
+
+“Put that in too,” he told the dispatcher.

@@ -8,463 +8,346 @@ canon: false
 
 # When Death Knelt
 
-The black iron seal had burned through two layers of cloth by the time I
-reached the borrowed safehouse.
+The black iron seal had burned through two layers of cloth by the time I reached the borrowed safehouse.
 
-I came over the rear wall, caught the gutter with both hands, and swung onto a
-balcony barely wide enough for my boots. Lanterns moved in the street below.
-The regent's guards had learned to search upward since my last visit to his
-palace, which was flattering but inconvenient.
+It was eleven minutes to midnight. I knew because the curfew clock had shown me its pale face from every roof between the regent's archive and the river quarter, while armored search parties closed the streets below. They were still three lanes behind. That was enough distance if the safehouse held what it was meant to hold: six rebels, a roof route, and a stone jar big enough to bury the seal in salt.
 
-"Check every roof," an officer called. "The seal does not leave the quarter."
+The kitchen held none of those things.
 
-Too late. It was already thumping against my ribs inside a courier's pouch,
-square and heavy as a paving stone. I had lifted it from a locked reliquary
-under the regent's council chamber, carried it through seven better locks, and
-lost half my tools to a closing portcullis. All that remained was to deliver it
-to the rebel cell waiting beneath the ritual bell tower. They would use it to
-break the spell holding a company of conscripted guards in the regent's
-service.
+No lamp burned. No boots waited beneath the table. A cup lay on its side, and a dark scrape crossed the floor where somebody had been dragged toward the front hall. I bolted the back door behind me and listened. Plate armor rasped somewhere beyond the shutters. Not inside yet.
 
-At least, that was the plan before armored patrols filled every road to the
-tower.
+Then someone knocked on the door I had just locked.
 
-The safehouse was supposed to buy me an hour. I picked its balcony latch,
-slipped through an unused storeroom, and wedged a chair beneath the front door.
-The rebels had left a coil of rope, a dry coat, and three possible routes drawn
-on a scrap of plaster. I was choosing the least fatal one when someone knocked
-at the back door.
+Three even blows. Neither the rebels' broken rhythm nor the impatient hammering of the regent's guard.
 
-A neat double rap, equal in force and spacing, as if whoever stood in the alley
-had practiced on a metronome.
+I drew my narrow knife and lifted the latch on its chain. The door opened two fingers' width.
 
-I drew my last intact pick and held it like a small, foolish dagger. "Occupied."
+The man on the step was taller than the lintel, though the night seemed to bend so he could stand beneath it. His coat hung in strips as black as a burnt banner. Rain crossed the yard in silver slants but did not touch his bare head. Behind him, his shadow pointed toward the moon.
 
-"I know," a man's voice answered. It sounded close despite the thick door.
-"Open, please."
+He looked at the knife, then at the packet under my coat.
 
-"You'll have to be more specific about who wants me."
+"You are late," he said.
 
-"A god of death."
+"For what?"
 
-That covered too many possibilities.
-
-I eased aside the shutter over the peephole.
-
-A man stood beneath the stone lintel. He was tall, bareheaded, and dressed in a
-coat that might once have been black. Now its hem came apart in drifting gray
-threads. Moonlight passed through his left shoulder. His shadow climbed the wall
-behind him, bent across the ceiling of the alley, and showed a hundred empty
-doorways where his body should have been.
-
-The regent had chiseled this god's signs from the public shrines years ago. I
-had never believed the forbidden sketches did him justice.
-
-I opened the door but kept one foot braced behind it. "Have you come to take
-me?"
+"For every useful answer. May I come in?"
 
 "No."
 
-"That is exactly what death would say to get through a door."
+"Wise."
 
-"You mistake me for death itself. I am a god of it, and my authority is local.
-Tonight it is also failing."
+The curfew clock began striking midnight. At the first blow, the stranger put one hand against the doorframe. His fingers left frost on the wood. At the second, his knees buckled. At the third, he lowered himself onto one knee in the wet yard.
 
-He swayed. One hand caught the doorframe, leaving a stain like soot on the
-stone. Then the god of death lowered himself onto one knee on the alley stones.
+I had seen his face on bridge shrines and the brass buttons of burial clerks, though the statues gave him a sterner mouth. I shut the knife before I dropped it.
 
-"Choose me," he said. "Take me as your patron. Become my earthly avatar and my
-champion. I beg you."
+"Are you here for me?"
 
-I looked past him. A guard's lantern flashed at the mouth of the alley.
+"No." The word came hard, offended less by my fear than by whatever had made it possible. "I have not come to take you anywhere."
 
-"Cross the sill," I said.
+The twelfth stroke rolled over the roofs. He bowed his head.
 
-He did not move.
+"Choose me," said the god of death. "Take me for your patron. Become my earthly avatar and my champion, and carry what remains of my authority into that tower. I beg it of you."
 
-"That is shelter, not allegiance."
+The last note faded. Far off, boots struck paving stones in disciplined time.
 
-"It was an order given under pressure. I need a choice made with better
-knowledge than you have."
+"Find a priest," I said.
 
-The lantern vanished behind a corner. We had minutes, not enough time for
-divine courtesy, but the god waited on his knee until I stepped back and said,
-"You may enter to explain. I have not agreed to anything else."
+"The regent owns the public ones."
 
-He crossed the sill.
+"A soldier."
 
-The lamps dimmed around him. Up close, I saw hairline cracks of darkness at his
-wrists and throat. He glanced once at the pouch beneath my coat.
+"She owns those more thoroughly."
 
-"You stole the seal."
+"A fool."
 
-"You found the only lockbreaker in the city carrying a slab of hot iron under
-their shirt. An impressive miracle."
+He lifted his face. Night showed through one cheek as if he were a portrait scraped thin. "I found a lockbreaker with my seal under their coat."
 
-"I found the last person who can stop what happens at dawn."
+Heat bit my ribs. I stepped back from the crack in the door, not inviting him, and laid the packet on the kitchen table. Under the scorched cloth waited a palm-sized disk of black iron. It bore no crest now. I had filed the regent's crowned tower from its face inside the archive, and watched the metal grow smooth beneath the file.
 
-From the front room came the scrape of metal against wood. Someone was testing
-the barricaded door.
+"It repairs itself," I said.
 
-The god spoke faster. "The regent has diverted the public rites of death into
-that seal. Every bell rung by law, every compulsory observance, has drawn away
-authority once entrusted to me. Forced reverence has not made him a god, but
-it has fed his mechanism. He used the first harvest to bind himself against
-death. Then he chained a company of guards to his command."
+"It is being repaired. Every ending denied to her bound company feeds the theft. At dawn she will set that seal in the bell tower and fasten the same command to the army."
 
-"I saw them at the palace. One took a crossbow bolt and kept running."
+"Commands don't stop a heart from stopping."
 
-"They cannot stop when wounded. They cannot surrender, sleep, or disobey. At
-dawn, the great bell will carry the binding to every soldier sworn under the
-seal."
+"Mine can, when broken and used badly."
 
-That was an army large enough to close every gate and empty every rebel cellar
-before breakfast.
+He spoke without ornament. No thunder climbed the chimney; no grave opened in the yard. That frightened me more than a display would have.
 
-"If it's your power," I said, "take it back."
+I wrapped the seal again and checked the front-hall sight line. The scrape ended at the street door. Through its spy hole I saw a guard's white cloak pass the shutters.
 
-The cracks at his throat widened when he shook his head. "The regent expected
-me. Living masons built a ward around the bell tower, and living officers renew
-it. It excludes my authority when I approach in my own person. Only living
-agency may pass and act within it."
+"If this authority is yours," I said, "go and fetch it."
 
-"So you want to hide inside mine."
+"The tower ward was mixed by living hands and laid by living will. It admits what lives. It turns me aside." His gaze followed my fingers as I tested the window catch. "The seal opens its inner gates. Your picks can open the rest."
 
-"No. An avatar is not a hiding place. You would remain yourself. I could
-advise, never command. I could neither possess your body nor borrow your voice.
-The pact would give you armor, sight of every binding made from the authority
-stolen from me, and a weapon able to sever that stolen power. Nothing else."
+"You need a carrier."
 
-"A weapon that kills anyone I point it at?"
+"I need a chooser."
 
-"A weapon that cannot cut flesh, wood, honest iron, or any magic beyond this
-theft. Each binding you sever restores a measure of my authority. I benefit
-from every stroke. You should know that before choosing."
+That was a polished difference. Rulers kept cupboards full of polished differences.
 
-The chair beneath the front latch jumped.
+I slid a pick beneath the warped sash. "What happens to my hands?"
 
-I tightened my coat over the pouch. "And afterward?"
+"They remain your hands."
 
-"You may renounce the bond."
-
-"May?"
-
-"Say that you end it, and it ends."
-
-The front door shuddered again. A hinge screw bounced across the floorboards.
-
-I had spent my life opening what powerful people declared closed. The regent
-called conscription duty, his vault taxes, and his own unending reign. Gods
-used prettier words: devotion, destiny, patronage. A master who promised I
-could resign was still asking to put his hand on the key.
-
-"No," I said.
-
-The god's face tightened. "Dawn is less than an hour away."
-
-"Then you should have found someone sooner."
-
-For one dangerous second, his shadow filled the room. Every flame went blue. I
-felt the weight of closed earth and the vast quiet beyond a final breath.
-
-Then he bowed his head.
-
-"Your answer is no," he said. "I accept it."
-
-He could have threatened the rebels. He could have promised to mark me for an
-early grave. He could have stepped into my shadow while I was too frightened to
-resist. Instead, he moved away from the rear door, leaving my escape clear.
-
-The front hinge tore loose.
-
-I kicked open the rear door, caught the eave, and climbed. A bolt struck the
-wall beside my knee. I rolled onto the roof as guards flooded the safehouse.
-They wore black plates over their mouths and narrow iron bands around their
-throats. One leaped after me without pausing to find a ladder.
-
-He caught the gutter, dislocated a shoulder with an audible crack, and hauled
-himself upward anyway.
-
-I ran.
-
-Tiles slid beneath my heels. I cleared one alley on a laundry line and crossed
-the next on the arm of a rooftop hoist. The guards followed without fear or
-judgment, smashing through shutters when I used windows, dropping from heights
-that left them limping but did not slow them. Their immortality looked less
-like life with every street.
-
-The god kept pace as a fraying shadow on the walls below. He offered no command
-and no second plea.
-
-I reached the bell tower through the upper window of an abandoned counting
-house. The rendezvous room beneath it should have held eight armed rebels.
-Instead, I found them kneeling with their wrists tied. Twice that many guards
-ringed the chamber.
-
-The regent stood at the stairwell gate in polished armor, his bare head smooth
-and unmarked despite decades of portraits showing the same face. Chains ran
-from his breastplate into the stone around him. To ordinary sight, they were
-only decoration.
-
-"Our missing locksmith," he said. "Give me the seal. I will forgive the
-evening's damage."
-
-The guard nearest me drew his sword. His arm trembled violently. Beneath the
-edge of his mouth plate, his skin was gray with exhaustion.
-
-"Please," he whispered. "Whatever you stole, use it. End this on me."
-
-His sword rose against his will.
-
-I ducked the first cut and drove my shoulder into his chest. He stumbled. I
-could have put my pick through the gap under his jaw. Instead, I trapped his
-wrist with the rope coil and vaulted over him.
-
-"They are magnificent, aren't they?" the regent said. "No desertion. No wasted
-years training replacements. No losses from the ranks after battle. Return the
-seal, and I will give you the same freedom from death. Rank, wealth, and as
-many years as the city stands."
-
-The bound rebels stared at me. The guard fought the rope until it cut through
-his glove.
-
-"Freedom that can't say no," I said. "You may want another word."
-
-I pulled the seal from its pouch and dropped behind an overturned table. Its
-face carried nine interlocked channels. At their center waited a keyway too
-narrow for any common tool. I drove my pick into it and felt the mechanism
-yield.
-
-For half a heartbeat, the seal split along the channels.
-
-Black metal flowed back across the cut. The keyway closed around my pick and
-snapped it.
-
-Mundane skill could open the iron. The binding restored it faster than any
-living hand could work.
-
-The god's shadow appeared across the broken plaster beside me. It had faded to
-the outline of a kneeling man.
-
-"Take control," I told him. "If this matters so much, make me do it."
+"Can you move them?"
 
 "No."
 
-"You will lose your authority."
+"Can you make me hard to stab?"
 
-"Yes."
+"For a little while."
 
-"Those soldiers will lose themselves."
+"Can I cut the guards free?"
 
-Pain crossed his thinning face. "Yes."
+His eyes darkened until I saw, reflected in them, straight black lines running away through the city. "You will see where she has tied my stolen power. A blade in your hand can sever those bindings and nothing born outside them."
 
-"And you still won't?"
+"Useful limits. Who chose them?"
 
-"A champion compelled is only another kind of prisoner. I will not answer his
-crime by repeating it through you."
+"I did, when I still had enough power to choose the shape of my help."
 
-The guard tore free of the rope. His sword point scraped across the table.
+The white cloak stopped beyond the front door. A metal point entered the keyhole.
 
-I looked from the god who needed my choice to the ruler who considered choice
-a defect. Then I kicked the table into the guard's knees and spoke while I
-still had breath.
+"And if I refuse you?"
 
-"No commands," I said. "No taking my body, my voice, or my memory. No killing
-through me. No punishment if I refuse you now or later. I can end the pact at
-any time, for any reason."
+The god looked toward the sound. His jaw tightened. "Then there are nine at the street door and three crossing the back wall. Your roof hatch sticks at the upper hinge."
 
-The shadow pressed one hand to the floor. "I swear it within the authority that
-remains mine."
+"That isn't an answer."
 
-"And if I break your stolen power, what I do afterward stays my choice."
+"It is all the time left. Move."
 
-"It does."
+He rose from his knee and stepped away from the threshold.
 
-The guard came over the table.
+The street door burst inward.
 
-"Then I choose you," I said. "Be my patron. Make me your avatar and champion."
+I seized the seal, kicked the kitchen stool under the back latch, and ran upstairs. The first guard reached the foot of the stair as I drove my shoulder into the roof hatch. It stuck at the upper hinge. I struck beside the pin, not at it, and the warped wood leaped free.
 
-The shadow rose.
+Cold air hit my face. I rolled onto the tiles as a spear punched through the hatch behind me.
 
-It did not enter me. It met my own shadow on the floor, and both hardened into
-jointed plates that swept up my legs, closed over my ribs, and sheathed my
-arms. The armor moved with me without adding weight. My broken picks flew from
-my pocket, lengthened, and joined edge to edge in my right hand. They became a
-narrow blade dark enough to erase the floor behind it.
+The god came through the roof without opening it. Not into me, not even close. He moved along the ridge as a long shadow with a man's outline struggling to remain inside it.
 
-The room changed.
+I crossed three houses before the guards gained the roof. Their first quarrel clipped sparks from a chimney beside my hand. Their second would have found my spine if the god had not said, "Down," in the voice of a man describing an approaching storm.
 
-Lines burned into sight: scores of them, taut as bowstrings, running from iron
-bands at the guards' throats through walls and ceilings toward the tower. A
-thicker line speared the regent's breastplate. The seal in my hand held them
-all.
+I went flat by my own decision. Steel hissed over me.
 
-The guard's sword struck my shoulder. Shadow-armor bent, spread the blow across
-my back, and held.
+"You said my refusal stood."
 
-I cut the line at his throat.
+"It does. The chimney bridge ahead will not."
 
-The dark blade passed through sword, plate, and skin without marking any of
-them. The binding parted with a sound like a lock turning. The guard collapsed
-into my arms, alive, gasping, and finally able to lower his weapon.
+He was right about that too.
 
-Across the room, the god's shadow gained a face.
+The route to the bell tower should have taken forty minutes. It took four hours. Search lamps filled the broad streets, so I crossed cooper lofts, pigeon walks, a shuttered bathhouse, and one dye shop whose roof beams groaned under every step. Wherever a door delayed me, I worked it. Wherever soldiers blocked the high way, I went lower and came up elsewhere. The seal scorched a third wrapping and warmed the rain that struck my coat.
 
-I moved through the guard ring. Their bodies remained dangerous even when
-their wills fought the commands. I slid under blades, climbed shoulders, and
-used belts, buckles, and scabbards as holds. Each time the severing blade found
-a black line, another guard stopped. Some fell. Some wheeled on the regent's
-loyal officers. One cut the rebels' bonds while another barred the door against
-the patrol arriving from the safehouse.
+The god followed without touching anything. Each time a tower bell marked the quarter hour, some detail vanished from him. First the buckles of his coat. Then his fingernails. By the time the ritual tower stood above us, he had only one clear eye.
 
-"The tower!" a rebel shouted. "He's going for the bell!"
+The rebels had chosen an old weighing room under its south arcade for the rendezvous. From the roof opposite, I saw why the room was dark. Four of them knelt in the courtyard with their wrists bound. A fifth lay trussed beside the scale pit, swearing steadily through a split lip. The sixth stood at the regent's shoulder without ropes and would not look at the others.
 
-The regent had retreated through the stairwell gate. As he slammed it, the
-chains on his breastplate snapped tight. The seal ripped from my grip and flew
-between the bars into his hand.
+Twelve guards ringed them. They stood too still for people who had worn armor through half a night. One had a crossbow quarrel buried in the leather above his knee. The wound had closed around the shaft. His leg shook, but he did not shift his weight.
 
-The god appeared on the far side of the chamber entrance, solid to the waist
-now, but the ward crushed his shadow flat against the threshold.
+The regent waited beneath the tower arch in a plain gray riding coat. No crown, no escorting page, no ceremonial sword. She looked like an engineer inspecting a bridge before flood season.
 
-"I cannot cross," he said.
+Thin copper strips made a square around the courtyard, mortared through the parapets and down the four archways. The god reached the nearest strip and stopped as sharply as if it were a wall.
 
-"I know."
+"Living lime," he said. His voice had lost its depth. "Blood from willing masons. Orders spoken over every course. I cannot cross."
 
-My severing blade passed harmlessly through the gate's ordinary iron. So I
-dropped it, knelt, and took two bent wires from a rebel's cut bonds.
+"Stay there."
 
-The lock opened in seven seconds.
+"I have done little else tonight."
 
-I reclaimed the blade and ran upward.
+The rebel at her shoulder had left our crawl route unlatched. That told me what had bought the regent her ambush. I entered anyway. The seal and its socket were above us, and all the safer directions led away from dawn.
 
-The tower stairs wound around a hollow shaft filled with moving chains. They
-whipped from slots in the walls, trying to catch my wrists and throat. The
-shadow-armor turned the first. I vaulted the second, hooked a stair rail with
-my free hand, and swung over a missing flight. Below, freed guards and rebels
-held the stair against those still bound.
+I slipped through the eaves, descended behind the old weighing cage, and had one foot on the floor when the shaking guard turned his head.
 
-Each line I severed returned substance to the god waiting at the ward. Each
-cut also weakened the armor around me. The pact was not creating power. It was
-spending what he recovered as quickly as I could return it.
+"Behind the lattice," he said.
 
-At the top, the stairs opened into the bell chamber.
+Every spear in the room swung toward me.
 
-The regent had locked the seal into a socket beneath the great bell. Black
-channels spread from it across the floor. The ropes began to move without
-hands, hauling the bell toward its first stroke. Beyond the arches, night had
-thinned to the color of steel.
+I pulled the cage gate shut, twisted its lock from inside, and jammed a broken scale weight under the bottom rail before they reached it. The guard with the quarrel planted both hands on the bars. His orders brought him close enough that I could see sleepless red cracks in his eyes.
 
-"Last offer," the regent said. The chain from his chest blazed so brightly I
-could see bone behind his smile. "Kneel, and you will never be vulnerable
-again."
+"Give me the seal," the regent said from the courtyard, "and no one here needs to be damaged further."
 
-"I watched your invulnerable guards beg to fall down."
+"Interesting word."
 
-"They are servants. You would stand beside me."
+"Accurate word. They are alive. They remain capable."
 
-"Until I disagreed."
+The guard's arms strained against the bars. Quietly, with his face turned from her, he said, "Don't stab me. It won't hold. Cut what pulls, if your thief-god showed you how."
 
-He pulled the chain.
+The god stood beyond the copper line. Rain passed through the holes in his coat.
 
-It caught my sword arm and flung me into a pillar. Shadow plates burst from my
-shoulder. The bell swung higher. A bar of dawn appeared between two roofs.
+I put the seal on the cage floor, braced it between two scale weights, and drove my best chisel into its edge. Black metal rang. A bright notch opened, deep enough to catch a thumbnail.
 
-The god could not command me, but his knowledge touched the pact like a knock I
-could answer or ignore. Not words. An awareness: the glowing chain was not the
-regent's life. It was his claim on the seal.
+It closed before I could strike again.
 
-I let him drag me forward.
+"The first company has held the north gates for nineteen days without sleep," the regent said. "They have lost no post, taken no sick rotation, abandoned no citizen to a fire or riot. At dawn I can give that endurance to every soldier we have. The border roads open by winter. Grain reaches the west wards on time. Trained hands stop vanishing from the rolls."
 
-When the regent braced for my collision, I planted both feet on the socket and
-turned with the chain. My blade crossed the bright link at his breastplate.
+I exchanged the chisel for a toothed wire and drew it through the seal's rim. The cut glowed red, then flowed shut behind the wire.
 
-His claim broke.
+"They still feel it," I said.
 
-Age did not consume him. No hidden centuries crushed him into dust. He simply
-became mortal: one startled man in heavy armor, leaning too far over an open
-shaft.
+"Pain reports damage. It does not have to end a useful life."
 
-He fell.
+The guard's shaking became violent. He was trying not to lift the spear at his side. "Regent. Permission to stand down."
 
-I caught his wrist.
+"Denied."
 
-The remaining shadow-armor tore from my ribs as his weight pulled me across the
-floor. Below him, the tower shaft dropped through a web of snapping chains.
+His fingers closed on the shaft.
 
-"Why?" he gasped.
+The regent came close enough for the cage bars to stripe her face. "I know what you are good at. Keep the seal, if ownership pleases you. Take a captaincy. You could cross any roof in this city without fearing the fall, and no lockhouse could starve you out. Give me one year of service. See what we build before you condemn it."
 
-"Because you don't choose what my weapon makes me."
+It was a better offer than most rulers made. That was the danger in it.
 
-A freed guard reached the chamber and seized the back of my coat. Together we
-hauled the regent onto the stones. The guard put a knee between his shoulders
-and locked his wrists in one of his own shackles.
+I looked past her at my kneeling companions, then at the guard fighting his own arm. "Can any of them leave at the end of your year?"
 
-The bell neared the top of its arc.
+"An army cannot be managed by private appetite."
 
-I drove the dark blade through the seal.
+"There's the lock."
 
-This time the cut stayed open. Black iron split into nine dull pieces. The
-channels across the floor went dark, and every chain in the tower dropped. The
-bell swung down without power and released a low, unfinished murmur instead of
-a commanding stroke.
+She glanced toward the east. The sky over the roofs had begun to lose its stars. "And there is the key you cannot break."
 
-The ward broke with it.
+The guard's spear came up.
 
-The god of death crossed into the chamber. He came as a man, not a shadow, his
-coat whole and his hands steady. All across the city, secret worship still
-held him to what he was. Restored authority settled around him now, bounded by
-the walls and rites from which it had been stolen, immense enough to silence
-everyone in the tower.
+I had time to throw myself aside. The blade entered the weighing cage and stopped a handspan from my ribs, caught between two bars. The guard made a sound like a man lifting a wagon alone.
 
-The regent twisted to face him. For the first time that night, fear stripped
-the polish from his voice.
+Outside the ward, the god sank to both knees.
 
-"You came for me."
+"If you can climb inside me," I called to him, "do it now. Save yourself the ceremony."
 
-"No," the god said. "You are alive, and your judgment belongs to the living.
-I do not make every death my decision."
+His remaining eye flared white. "Do not offer me a corpse with warm joints and call it a champion. I asked you. I will not counterfeit your answer."
 
-The freed guards took the regent below to answer for what he had made of them.
-The rebels gathered the broken seal. No one knelt to the god.
+The spear scraped closer. The guard whispered, "Please."
 
-He turned to me. "You fulfilled the purpose for which I begged your aid. Say
-the word, and I will dissolve our pact now."
+The god's shoulders were coming apart into smoke. He could have lied at the kitchen door. He could have put thunder in my skull and named it revelation. He had followed me across half the city with nothing but warnings I was free to ignore, while the last of him thinned against a boundary laid in mortar.
 
-My armor and blade vanished. My old lock picks fell in pieces around my boots.
-I felt bruised, tired, and entirely myself.
+I knew the price of a lock by the hand that kept the key.
 
-"Now," I said. "End it."
+"No hand over mine," I said. "No edge through living flesh. If I tell you out, you leave nothing behind."
 
-The bond opened at once. His presence withdrew without taking so much as a
-memory. The silence in the chamber became ordinary morning silence.
+The god straightened as far as his failing shape allowed. "By the authority still mine beneath this bell, yes."
 
-Only then did I believe every promise he had made.
+"You can advise. You cannot drive."
 
-At sunrise we returned to the borrowed safehouse. The front door hung from one
-hinge, the storeroom had been overturned, and boots had ground the plaster map
-into dust.
-The god stopped outside the back door beneath the same stone lintel where he
-had knelt.
+"I have begged enough to know the difference."
 
-"The danger has passed," he said. "Your refusal is safe."
+The spear point touched my coat.
 
-"Good. I prefer my choices that way."
+I closed my hand around my roll of picks. "God of death, I choose you. Get me through the tower."
 
-He waited.
+He did not pour into me. Nothing took my spine or crowded behind my eyes.
 
-I thought of the guard lowering his sword, the rebels climbing free, and the
-regent alive to hear mortal judgment. There would be other locked towers and
-other rulers eager to call possession a gift. A god with limits could not meet
-them alone. A lockbreaker with no allegiance could only open the door and walk
-away.
+The world simply acquired another set of edges.
 
-I stepped aside. "Same terms. A new choice. I will remain your champion."
+Black lines blazed from the guards' breastplates, crossed the courtyard, and climbed the tower like rigging. Shadow folded over my shoulders in narrow, moving plates. My pick roll uncoiled in my fist; every small piece of steel joined into a blade no longer than my forearm, dark except for a white line along its edge.
 
-He inclined his head, not kneeling now, and the pact returned as a quiet weight
-beside my shadow.
+I turned that edge against the spear shaft. It struck ordinary wood with a useless click.
 
-I stepped across the doorstep, then looked back at my patron.
+Against the black cord passing through the guard's chest, it made no sound at all.
 
-"Cross with me," I said. "As my partner."
+The cord parted.
 
-The god of death entered at my side.
+The guard collapsed before the spear reached me. He hit the cage bars, caught himself, and stared at his open hands.
+
+"Orders gone," he said. Then, louder: "First file, lock your knees. Spears down. Fight the pull."
+
+Three guards obeyed him instead of the regent. That bought me the breath I needed to pick the cage lock, kick away the scale weight, and get among them.
+
+The blade would not cut straps, rope, steel, or skin. It passed each harmlessly or struck with the weight of a thin bar. But the regent's bindings shone to me from buckle and collar, every one tied with the same ugly hitch. I cut six while the deathless guards tried to hold me for her. Shadow armor turned two spearpoints and cracked under a third. No unseen hand guided my wrist. The god named what approached from behind; I decided when to duck, when to turn, and which bright cord to reach.
+
+Freed guards dropped weapons, seized them again by choice, and cut the rebels' ropes. The rebel from the scale pit rolled to their feet and punched the traitor who had left our crawl route open.
+
+"Tower," I said.
+
+"We can climb."
+
+"Then nobody holds this yard. Keep the ordinary soldiers busy. Send the freed ones after me when their legs listen."
+
+The regent was already through the north door.
+
+The bell tower rose around a square hollow shaft. Its stair clung to the walls in four steep flights, one per face, with iron gates at each landing. The seal opened the black wards stamped over their keyholes; my picks opened the locks beneath. We climbed from rain into dust, from dust into the cold wind beneath the bells. Twice the regent dropped barred gates behind her. Twice I worked while armored loyalists hammered the steps below. The god never said hurry. He told me which deathless lines tightened and where the tower chains moved overhead. The difference mattered.
+
+At the last landing, sunrise touched the weather vane.
+
+The ritual chamber had no roof, only four stone pillars carrying the great bell. Between them hung chains as fine as thread and as dark as the seal. Their ends vanished into a round socket cut into the eastern parapet.
+
+The moment I crossed the sill, the chains came alive.
+
+They caught the packet beneath my coat and ripped it through cloth and armor. The black seal flew across the chamber. I cut one chain, then another, but four more snapped from the socket and dragged the disk home. It struck the round hollow with a sound too deep for iron.
+
+Every bound guard in the tower cried out below us.
+
+The regent set her palm over the seal. A narrow black band circled her wrist, hidden until my borrowed sight found it. One cord looped from that band through her own chest, one entered the socket, and hundreds ran out again, down through the city toward barracks, gates, and sleeping camps.
+
+"You can still stand on the useful side of this," she said. Wind tore her gray coat against the bell frame. "Keep the armor. Keep the years. Captain people who cannot be lost."
+
+"They can be lost," I said. "They just can't leave."
+
+"In a siege, leaving is a breach with a kinder name."
+
+The first edge of the sun rose between the roofs. The seal began to turn in its socket.
+
+I stopped cutting chains.
+
+A bad lock invites you to fight its bolts. A good one hides the piece that tells the bolts whose key to obey.
+
+The regent saw me look at the band around her wrist. She seized a bell rope and swung its iron counterweight at my head. I stepped inside its arc. Shadow plate shattered across my back. My dark blade passed through the metal band without marking it and met the single line beneath.
+
+I cut her claim.
+
+The seal split from rim to center. Its turning stopped.
+
+All across the chamber, black chains fell into harmless lengths of cold iron. The bell gave one enormous note. The regent staggered as the stolen deathlessness left her, struck the parapet, and went over it.
+
+I dropped the blade and caught her wrist.
+
+For one breath I hung across the stone edge with her weight pulling at my cracked armor. Below, freed guards flooded the stair. Two of them reached us and hauled the regent back into the chamber.
+
+She stared at me from the stones. "You could have let go."
+
+"You're evidence," I said. "Try not to fall on the way to judgment."
+
+The copper ward went dark.
+
+The god of death crossed the tower sill.
+
+He was whole again within the bell's shadow: tall, severe, his coat falling in unbroken black folds. Under my borrowed sight, the severed lines ran back to him along the old ritual roads and stopped at the boundary stones beyond the gatehouses. Whatever he was elsewhere, here he stood whole.
+
+The regent raised her chin. "Well?"
+
+The god looked down at her. "You are alive. Remain so until your city has weighed what you did."
+
+The first freed guard pulled her arms behind her and bound them with plain rope. "Stand," he said. She stayed on the stones until two others took her elbows.
+
+My shadow armor was already loosening in the new sunlight. The god turned to me.
+
+"You carried me where I could not go," he said. "The danger is ended. Do you want the bond cut?"
+
+I looked at the quiet seal, broken in its socket, and at my companions gathering below. No spear was rising toward my ribs. No dawn waited to close a lock.
+
+"End it."
+
+He touched two fingers to the flat of the dark blade. It came apart into my familiar picks. The armor slid from my shoulders and pooled beneath the bell, only shadow again. The extra edges vanished from the world.
+
+"It is ended," he said.
+
+By the time I returned to the borrowed safehouse, sunlight filled the back yard. The guards had smashed the street door, but the back door still hung square. I went inside, set the two halves of the black seal on the kitchen table, and closed it. They had cooled to ordinary iron. For the first time all night, nobody was chasing me.
+
+Three even knocks sounded against the door.
+
+When I opened it, the god stood on the step. He lowered himself onto one knee in the dry morning light.
+
+"There is no tower at your back now," he said. "No blade at your coat. What she stole here is mine again. I ask a second time: will you choose me and walk as my champion?"
+
+I could shut the door. He would stay on the step. We both knew it.
+
+"What needs opening first?" I asked.
+
+"Three shrines the regent sealed. After that, nothing I can name yet."
+
+"And when I tell you a door should stay closed?"
+
+The old sternness returned to his mouth. "Then I will argue from outside it."
+
+"I choose you," I said. "Get up."
+
+The god of death rose.
+
+I opened the door wide. He waited until I told him to come in. Then I went first, and he crossed the threshold beside me.

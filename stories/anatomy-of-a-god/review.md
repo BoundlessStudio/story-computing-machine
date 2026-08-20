@@ -6,16 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Edras | new | Foreign field medic; no exact, alias, or confusing reuse found, and the form remains distinct from the released `Edrin Vale` reservation. |
-| Miora | new | Edras's regenerating stepsister; no exact, alias, close-spelling, or confusing reuse found. |
-| Avarrax | new | Regenerative conqueror; no exact, alias, close-spelling, or confusing reuse found. His objective godhood remains unresolved. |
-| Radiant One | new | Avarrax's in-story epithet; no exact, alias, close-spelling, or confusing reuse found. |
+| Edras | new | Foreign field medic; no exact or alias reuse found, and the form remains distinct from the released legacy reservation `Edrin Vale`. |
+| Miora | new | Edras's adult regenerating stepsister; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Avarrax | new | Regenerative conqueror; no exact or alias reuse found, and the form remains distinct from current `Queen Ivara`. His objective godhood remains unresolved. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The temple court, settlement, and Edras's homeland remain unnamed. |
+| None | none | The court, city, and Edras's homeland remain unnamed. |
 
 ## Continuity
 
@@ -23,7 +22,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The required exchange appears in order with the obvious spelling correction to `anatomy`; the individualized, reversible suspension resolves Avarrax's claimed invulnerability without establishing a universal weakness or erasing Miora's consent and personhood.
+- Notes: The required four-line exchange appears verbatim and in order with only `anathomy` corrected to `anatomy`; its punchy register remains confined to the decisive reversal. The frame's staged loading and release stay legible, the repair loop is explicitly individualized, and Miora's consent and personhood remain intact.

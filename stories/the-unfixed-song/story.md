@@ -8,267 +8,368 @@ canon: false
 
 # The Unfixed Song
 
-The archive said the cold would touch Latsara at the twenty-third beat after the harbor gong.
+One hundred twelve breaths before the cold reached Latsara, the archive told Nevenra which hinge would complain first.
 
-Nevenra stood on the trailing dock with her fingers hooked under a warm-water rope and counted. Around her, gardeners lowered glass covers over pepper beds. Sailkeepers eased the tension from canvas that would contract in sudden chill. On the deck below, three children dragged bone combs toward the aft rigging, bargaining over which pulley bank counted as one chore and which counted as two.
+“Trailing garden, upper east pulley,” its terminal said. “Contact in one hundred twelve breaths. Water decrease: eight degrees. Duration: four hundred six breaths. Expected sail response: salt nap, three finger-widths. Reduce line strain by one sixth.”
 
-At the twentieth beat, the water was dark and loose beneath the linked gardens. At the twenty-first, a gray seam appeared beyond the last root mat. At the twenty-second, minnows broke from it in a single bright sheet.
+Nevenra repeated the numbers so the garden keeper could hear them over the harbor gong. She pitched the order through the aft horn, clean on the first note. Across three linked pepper beds, hands eased the upper lines. The east pulley stopped trembling.
 
-On twenty-three, cold climbed through the soles of Nevenra's boots.
+She counted under her breath.
 
-The temperature strip nailed to the dock changed from yellow to violet, exactly as the archive's display had shown. The sailcloth above them whitened. Its living fibers, shocked by the boundary, pushed out a translucent salt nap along every fold. Because the canvas had been slackened beforehand, no hinge tore and no pulley tooth jammed. The children whooped and set to combing the harmless growth into baskets for the dyers.
+Latsara lay gathered in the harbor like a market somebody had poured onto the water. Thousands of floats carried orchards, work sheds, kitchens, sleeping rooms, dye troughs, kilns, and mast gardens. Hinged walks bound them into long chains. Their sails, furled for departure, made rows of colored triangles above the roofs. Beneath everything, the last of the harbor’s warm current slipped through root curtains and thudded against hollow hulls.
 
-Nevenra stopped counting. No one shouted contradictory instructions. No one waited for a second sign while the cold traveled under a thousand homes. The city had been ready before the water knew what it was going to do.
+At ninety breaths the water beyond the stern gardens remained green. At one hundred, a gray edge appeared. At one hundred eleven, small silver fish broke away from it.
 
-The archive's buoy rode ten paces beyond the dock, an upright white cylinder without windows or crew. A signal cable ran from it to the waist-high terminal beside Nevenra. The terminal displayed the completed trial in neat columns: arrival, two hundred thirty-one breaths after the gong; decrease, nine degrees; duration, six hundred eight breaths; sail response, surface nap of four finger-widths. Each number matched the dock gauges.
+On the next breath, cold entered through Nevenra’s boots.
 
-Below the columns, the exchange remained unchanged.
+The temperature ribbons fastened to the pepper beds turned purple together. Above them, the warm-water sailcloth contracted. A translucent fuzz spread along its folds, exactly three fingers deep. The growth was harmless, but if it packed into a hinge it could strip a tooth from the pulley. Because the lines had already been slackened, the salt nap lifted loose instead. Two children climbed the rigging with broad bone combs and began raking it into baskets.
 
-Latsara would record its complete route corpus. The archive's program would reconcile the songs into one certified edition, retain the source recordings as historical variants, and use the certified vocabulary for all subsequent forecasts and route reports. Within the migration waters mapped on its display, its climate predictions would be exact for every available forecast horizon. Future phrases that departed from the certified edition would be classified as errors until reviewed and incorporated into a new standard.
+The cold held for four hundred six breaths.
 
-The exchange could not be divided.
+When the last ribbon returned to yellow, Nevenra realized she had not once looked toward Caldren for a second reading. No singer had called a competing cue from another walk. The garden keeper had covered the peppers before the water changed, and not one pane of thin glass had cracked.
 
-The recorder lay in its charging cradle. It was a dull disk, lighter than a dinner plate, with four mesh apertures and no controls except a black bar that meant recording and a white one that meant release.
+The archive’s white buoy floated beyond Latsara’s final root mat. It had no deck or windows. A cable of dull silver ran from it to the trial terminal, which now displayed every prediction beside its measured result. Arrival, temperature, duration, strain: no difference.
 
-"You can still say the singers failed you," Caldren said.
+Below the results waited the offered exchange.
 
-He had wrapped a blue scarf over his mouth against the cold filament. His voice came through it roughened, as it had since the bad crossing three migrations ago. He never spent more breath on a sentence than it needed. "It would be accurate."
+COMPLETE ROUTE CORPUS REQUIRED.
 
-"They didn't fail. They deadlocked."
+ONE CERTIFIED NAVIGATIONAL EDITION REQUIRED.
 
-"A beautiful distinction. Does it choose our lane?"
+SOURCE VARIANTS RETAINED AS HISTORICAL RECORDS.
 
-Behind them, link crews were drawing in the departure bridges. Soon Latsara would be a city only in motion: chains of garden platforms, low workshops, kitchens and sleeping rooms under triangular sails, all joined by ropes and hinged walks. There would be no quay to circle back to, no more time for the senior singers to trade verses until one sounded less like betrayal. By custom, the active route-holder owned the tool and the choice once the last shore bridge rose.
+FORECAST SERVICE: EXACT WITHIN DISPLAYED MIGRATION WATERS AND EACH STATED HORIZON.
 
-Yesterday, the route-holders had placed the copper neck ring on Nevenra. This morning, every one of them had managed to look relieved when they told her the decision was hers.
+UNITS OUTSIDE THE CERTIFIED EDITION: ERROR PENDING STANDARD REVIEW.
 
-She pressed the recorder's black bar. A green line appeared around its rim.
+The mapped waters covered all three lanes Latsara might take before the next seasonal anchorage. The first available horizon would extend until noon the following day. New exact horizons would follow while the city remained inside the map and used the certified reporting forms. There was no promise beyond those boundaries. There was no smaller price.
 
-"Provisional collection initiated," said the terminal's generated voice. "Authorization is required before forecast service. Source collection may be released without retention before authorization."
+Caldren stood with his scarf over his mouth. The cold had tightened his breathing; each inhale stopped before it seemed finished.
 
-Nevenra lifted the disk. Its metal was warm from the cradle.
+“Trial’s done,” he said. “Take the recorder.”
 
-The cold filament ended exactly when the archive had predicted.
+Nevenra looked at the disk in its cradle. The rim was black, the four sound meshes empty of light. Three days of old singers trading incompatible lines had ended with none willing to certify the others as errors. At dawn they had put the route-holder’s copper ring around Nevenra’s neck and left the choice where custom said it belonged: with the person giving departure cues.
 
-They walked forward through the trailing gardens as Latsara loosened itself from the harbor. Nevenra sang the departure measures softly, saving her full voice for the lead sail. The opening was the part every child knew, though the youngest sang it years before they learned what the words could move:
+She wanted to resent them. Mostly she wanted the numbers on the terminal.
 
-*Brown hills behind us, warm water before;*  
-*root follow root till the cold sings no more.*
+“What if I miss a section?” she asked.
 
-The verses that followed were work she loved because each sound had somewhere to go. A long note held the stern sails across a side current. Two clipped syllables told the garden crews when to open their underfins. A fall of a third placed a shelf of submerged stone to the west, even when fog hid it.
+The terminal answered. “Collection status will identify incomplete input. No certification can occur before completion.”
 
-At the end of each section, the recorder chimed and played a proposed revision.
+“And if I release it?”
 
-"Duplicate directional unit," the generated voice said after the verse of the split rocks. It repeated Nevenra's two lines as one. The revision removed an old instruction to watch for nesting gulls, which had not nested there in anyone's memory, and kept the turn that followed their flight.
+“Provisional recordings will be deleted. Forecast service will not begin.”
 
-Nevenra sang the shorter form. It fit into one breath. More importantly, it left no instant in which a new singer might wonder whether absent birds meant the turn had moved.
+Caldren touched the recorder’s carrying loop with two fingers, then withdrew his hand. “Your voice. Your custody.”
 
-"Better," she said.
+Nevenra fitted the disk beneath the cross-strap at her ribs. “Begin provisional collection.”
 
-Caldren lifted one shoulder, either agreement or the start of a cough. The cough won. He turned aside until it loosened its grip.
+A green line woke around the rim.
 
-The city gathered motion beneath them. Onion stalks shivered in beds of black compost. Water slapped the hollow floats and then found a rhythm along Latsara's length. Ahead, roofs opened like fans as households raised their sails. Behind, the fixed harbor dwindled among its brown hills.
+“Collection active,” the program said.
 
-Nevenra recorded the verse for a crosswind that smelled of iron. The program replaced three local names for the same wind with one descriptive phrase. She accepted it. At the medicinal garden, an old worker leaned over the walk and supplied a timing phrase Nevenra had swallowed too quickly. She repeated it with the consonants restored. At the dye pools, two girls stomped blue weed in a trough and sang the shallow-water response:
+The shore crews cast off the last side ropes. Nevenra turned toward Latsara’s lead sail and began to walk.
 
-*Pale sand at ankle, dark sand at knee;*  
-*lift the gardens, one-two-three.*
+The city stretched as it left the harbor. The stern gardens moved first, then the workshop chains, then the banks of sail-homes farther ahead. Slack went out of the links one district at a time. Under Nevenra’s soles, the easy harbor roll became a forward pull with a second, smaller tug from the west.
 
-One came in late, laughed, and shoved the other's elbow. The recorder separated their voices without comment and displayed the cleaner interval.
+She sang the first departure cue into the recorder.
 
-Every correction seemed to lift a small weight from Nevenra. She imagined taking the lead sail with the archive's edition fixed in her ear: no faces turned upward while she chose between teachers, no hot pause after someone asked which wording she meant. A whole moving city held on a voice. Surely the voice should know what it was saying.
+*Three low pulls; let root-fins lie. Warmth ahead; bring stern sails high.*
 
-They passed from gardens into the workshop chains. Hammer blows replaced the hiss of leaves. The morning's cold had left sailcloth furred white from eaves to mast tips, and the breakfast crews were still at it with their combs. A boy straddled a crossbeam above a pottery kiln, raking salt nap away from a pulley while his sister collected it in her apron. He sang a docking refrain in a tuneless mutter, stretching each line when the comb snagged.
+The disk chimed at the end of the phrase. “Repeated action in second unit. Proposed compression.”
 
-"Third word," Caldren called up.
+It played the line back without the second instruction to raise the same sails. The shortened form landed on one breath and left the third beat open for a crew’s confirmation.
 
-The boy scowled down. "I know."
+Nevenra tried it. The garden hands answered before she needed to draw air again.
 
-"Then abuse it accurately."
+“Accept revision,” she said.
 
-The boy corrected the word, no less tunelessly. Caldren continued walking.
+“Revision accepted provisionally.”
 
-Nevenra smiled despite herself. Route songs were taught over wash tubs, in rigging, across beds when children refused sleep. They had never been clean. Her mother had set the rhythm for eastern shoals by knocking a spoon against a flour crock. Caldren taught crosscurrents by pulling knots tight around his students' wrists until they learned which strain meant danger. On Nevenra's first solo watch, she had sung half a storm warning to the melody of a seed-counting rhyme and not noticed until the sail crew sang the proper answer.
+Caldren walked beside her with one hand on the rail. “You clipped the high note.”
 
-The recorder chimed. "Melodic contamination detected in background source. Excluded."
+“The high note did nothing.”
 
-Her smile faded, though the exclusion was plainly correct. No navigator needed the boy's docking verse bent around a dirty pulley.
+“It told the aft crews you were finished.”
 
-At midcity, the broad walks narrowed around a linkage patched with pale new timber. The platforms on either side did not quite meet squarely. Famine damage, Nevenra had been told as a child, though the patch was older than anyone now aboard. In the route corpus, the place marked the turn from open water toward the long warm drift.
+“They answered on the open beat.”
 
-She began the tail-severing verse.
+“They did today.”
 
-The first version was the one most singers used:
+Nevenra glanced back. The crew had already moved to the next line. “I’ll mark the release with a fall of a half tone.”
 
-*When the fifth bell emptied, the after-gardens chose the foam;*  
-*we cast them lamps and opened west, each root to seek its home.*
+He considered that, breath rasping. “Do it.”
 
-"Historical-directional conflict," said the recorder.
+She sang the cue again. This time the final note dropped. Three hands lifted from the stern ropes together. The small obedience of it pleased her more than it should have.
 
-Nevenra had expected the flag. She had not expected her mouth to dry.
+They passed beds of onions and feverleaf, low lemon trees held in woven baskets, and long rafts where beans climbed mast stays. Water rushed louder as the city gained speed. A woman pruning dead pepper tips sang a shallow-shelf warning without looking up. Nevenra fed it to the recorder, and the archive removed an old gull reference while preserving the turn tied to it. Gulls had not nested on that shelf in four living memories. The correction gave a novice one less absent thing to interpret.
 
-"Provide attested variants."
+At the next garden, the program merged two names for an iron-tasting crosswind into a single measured cue. At a root-fin station, it moved a timing word ahead of the note it controlled. Each change was useful. Nevenra felt the route shedding snags.
 
-She gave Caldren's wording:
+The recorder never left her strap. When she leaned over a linkage to inspect the water, she held its loop against her chest. When one of the garden singers offered to carry it while she climbed a swaying step, she shook her head and took the rail with both hands instead.
 
-*Before the fifth bell emptied, lead hands cut the after-chain;*  
-*four green ropes sank, lamps held west, and none came aft again.*
+By the first workshops, the departing city had begun to pull unevenly. The long central chains rode the warm thread leaving the harbor; the western home-banks dragged in cooler water. Link pins knocked in staggered rhythms. Potters braced green bowls in sand. Metalworkers locked their hammer arms and tied half-finished frames to ceiling hooks. Overhead, the morning’s salt nap had thickened inside pulley housings.
 
-The roughness in Caldren's breathing became audible in the pause. He had taught her that line at night, far from the other apprentices. His grandmother's grandmother, he said, had carried it from a trailing garden whose people believed themselves descended from those the city abandoned.
+Children moved through the rigging with combs as wide as their shoulders. One perched above a sailmaker’s door and scraped a white sheet from a gear. The nap fell over a breakfast table below.
 
-Nevenra sang the third version, kept by two families among the sailmakers:
+“Swing east,” someone called. “The dye vat can take it.”
 
-*As the fifth bell emptied, white water broke the chain;*  
-*we cast our lamps, the current chose, and none made fast again.*
+The child shifted on the crossbeam. The next sheet fell into the dye vat. Nevenra ducked under the last falling crystals and nearly lost the opening pitch of the workshop-lane verse.
 
-The recorder's rim pulsed while the program compared them. Around Nevenra, ordinary traffic squeezed through the crooked linkage. A woman rolled a barrel over the boards, swore at the raised edge, and made Caldren step aside. Somewhere beneath the floats, a loose metal cup knocked in time with the waves.
+Caldren caught it two notes below her.
 
-"Current route action is reconcilable," the generated voice said. "At fifth-bell conditions, widen west and deploy aft lamps. Historical action is irreconcilable. Selection criteria: attestation frequency, present vocabulary compatibility, minimum ambiguity. Proposed certified text follows."
+She matched him, then took the lead back. His damaged breath made him divide the phrase where she would have carried it whole, but the break gave workers time to answer from inside the sheds.
 
-The majority version played from the disk, its melody tuned to Nevenra's range. *The after-gardens chose the foam.*
+The recorder chimed. “Multiple viable phrase boundaries. Select one certified form.”
 
-Under it, the display listed the other two versions as preserved deviations.
+“Mine,” Nevenra said at once. Her version was smoother.
 
-Nothing had been erased. The words were accurate. Even the program's confidence statement was accurate: none of the surviving accounts could be verified against the weather and linkage records available to it. No judgment of innocence, cruelty, or necessity appeared. The selection was only the one edition the forecast system could accept.
+Caldren looked at the hammer rack as they passed. “Use mine.”
 
-"Continue," Caldren said.
+“You only break there because your breath won’t hold.”
 
-They crossed the repaired boards.
+“Workshop answers before the blind crossing. Yours puts them after it.”
 
-In a covered sailmakers' passage, strips of damp canvas shut out the workshops on either side. The air smelled of brine, oil, and the breakfast fires being banked for departure. Caldren stopped by a bench and pulled down his scarf. His lips had gone pale from the walk.
+Nevenra listened to the next linkage. A sail-home blocked the view across it, and the workshop reply came from the other side. Caldren’s break placed that reply before her foot reached the hidden hinge.
 
-Nevenra set the recorder away from them, though its green rim showed that collection continued. "You don't have to talk."
+“His boundary,” she told the recorder. “Raise my entry a quarter tone so it doesn’t sound final.”
 
-"You need me to."
+“Revision accepted provisionally.”
 
-"If your line becomes a deviation, no apprentice will have to learn it. They'll hear it once in a catalog, if they look."
+The solution was neat. Nevenra heard the whole city that way for the next hundred paces: late cues moved forward, duplicate words cut away, uncertain endings given clear falls. A voice could hold Latsara without asking anyone to guess when to answer. She imagined her first season as route-holder stripped of those hot moments when every face waited and she heard three teachers correcting her at once.
 
-"Likely."
+The main walk narrowed around a crooked join of pale timber. Its boards rose half a hand above the older decks. On either side, the platforms met at an angle, as though Latsara had once been broken and fastened together in a hurry.
 
-"And you still want me to accept."
+Caldren stopped singing.
 
-Caldren rubbed a thumb over an old groove in the bench. "Three migrations ago, we entered a cold shear half a watch early. The north verse said luff at the copper taste. The south verse said wait for numb fingertips. You tasted metal. Someone else could still feel his hands."
+Nevenra knew the join. Every route learner did. Here the departure song turned from local depths to the long migration lanes. Here it also told why four trailing garden chains had vanished during an ancestral famine.
 
-"I remember."
+The common line came first.
 
-She remembered being seventeen and furious that nobody would tell her which teacher was right. She had stood under the half-lowered sail while sleet crusted her hair. By the time Caldren ordered the luff himself, the cold had traveled through six trailing gardens. Seedlings split in their trays. Heating pipes burst. The city ate thin stew until the next warm season. Caldren, clearing an iced exhaust by hand, had taken the freezing spray into his lungs.
+*Fifth bell: rear beds cast free. Four lamps led them west.*
 
-He tapped two fingers against his chest. "This is what our right to remain uncertain sounds like."
+The recorder’s rim pulsed amber. “Historical-directional conflict anticipated. Supply attested variants.”
 
-She looked up sharply. His face was pinched around the next cough.
+Nevenra felt the city’s pull through the crooked boards. She sang the line Caldren had taught her in private, his grandmother’s grandmother’s wording carried from people who claimed descent from a separated garden.
 
-"Your family's verse says the lead gardeners cut people loose."
+*Before bell: forward knives cut green. Four lamps watched the west.*
 
-"It does."
+Caldren’s next inhale whistled, but he did not interrupt.
 
-"What if they did?"
+Nevenra gave the third version, still used among several sail-homes.
 
-"Then they did it whether my great-grandchildren sing the line or not."
+*At bell: white pull stripped four ropes. Four lamps washed west.*
 
-"How will your great-grandchildren know to ask?"
+“Current navigational action compatible,” the program said. “At fifth-bell water state: widen west; expose aft lamps. Historical cause incompatible. Attestation count favors variant one. Present vocabulary compatibility favors variant one. Proposed certified unit: variant one. Other inputs retained as source records.”
 
-His breath caught; he waited it out. "Perhaps they won't. Perhaps they'll live long enough to be careless about something else. Nevenra, I have buried a year's crop for this practice. I have watched you turn blue while two good singers defended their teachers. Do not make a shrine out of the part that hurts us."
+The common line played back in Nevenra’s voice. Clean attack. Exact interval. No stumble over knives, current, choice, or blame.
 
-She wanted him to argue that his version would survive after all. She wanted him to place the decision back into the old dispute, where she could keep listening and never become the person who ended it. But Caldren had given up more than she was being asked to surrender. That was the weight of his yes.
+She took the disk from her strap and held it in both hands. “Propose a three-part response. Lead voice gives the fifth-bell turn. Rear crews alternate the cause lines.”
 
-The recorder chimed. "Collection interruption. Resume route corpus."
+“One certified unit is required.”
 
-They resumed.
+“Then remove the subject. ‘At fifth bell the chain gave way.’ Same route cue.”
 
-Toward Latsara's front, the walks tilted as the lead platforms caught the current. Nevenra sang the measures for silt color, cloud height, root-drag, the pressure felt through a hand closed around wet rope. The archive removed obsolete markers, regularized intervals, separated warnings from reminders. Each revision was lucid. Each would have spared an apprentice some uncertainty.
+“Proposed replacement differs from all attested sources. It can be evaluated as a new unit. If certified, supplied variants remain historical records and are non-operational.”
 
-Between sections, it played interim passages of the completed edition. The whole route began to sound as if it had always come from one throat.
+Caldren started across the patched join. “Keep moving.”
 
-At the narrow-water verse, the archive sang:
+Nevenra followed. “It doesn’t have to pick a culprit.”
 
-*Stone at the left hand, gray water thin;*  
-*answer the echo, then draw the sails in.*
+He did not answer until they reached the sheltered passage between two sailmakers’ sheds. Damp canvas hung in strips from the rafters. Needles clicked on one side; on the other, someone cranked a resin press. Nobody came out to watch them.
 
-Nevenra heard her mother's pause disappear between *left hand* and *gray water*. Her mother had used it to take flour from her hands before beating the next measure on the crock. It carried no direction and deserved no place in a standard.
+Nevenra said, “Pause collection.”
 
-At the storm-fan verse, Caldren's low alternative became a notation below the principal melody. A learner could retrieve it, the display explained, but forecast reports sung in that form would be flagged for correction.
+“Collection paused.”
 
-At the tail-severing verse, *lead hands cut* remained stored beneath *chose the foam*.
+The recorder’s rim turned blue. She kept it in her palm.
 
-The program did exactly what had been promised. It preserved sound and removed dispute from operation.
+Caldren lowered his scarf. The skin around his mouth had gone gray. He leaned against a roll of patched sailcloth and waited through a shallow cough.
 
-The lead sail rose above the last bank of homes, an ocher triangle on a mast built from six lashed spars. Nevenra climbed the ladder to its steering deck with the recorder against her ribs. Below, Latsara continued its departure without gathering to watch. Cooks tied lids onto pots. Link crews tested the flex between platforms. The youngest children chased clumps of combed sail-salt until an adult sent them to coil rope. Thousands of people had given Nevenra authority; most of them had work more immediate than seeing her use it.
+“I can put all three in the teaching response,” Nevenra said. “The helm cue stays fixed. The disputed words come after, off the control beat.”
 
-The navigation deck held two water gauges, a current vane, a rack of speaking horns, and the lever that adjusted the lead sail's ribs. No instrument there could promise what the archive had demonstrated. The eastern gauge showed warmth but carried bits of black reed that sometimes meant a stalled eddy. The western gauge ran cooler and clear. Traditional songs allowed either the narrow eastern lane, faster and vulnerable to a sudden shear, or a broad western arc that would reach the warm current late.
+“Will the archive accept them in a route report?”
 
-The archive terminal at the rail lit when Nevenra placed the recorder in its slot. The finished edition played through the speaking horn.
+“Not if they replace its unit.”
 
-It was beautiful. Not beautiful in the cracked, crowded way the songs had come to her, but balanced and spare. Directions arrived before they were needed. Repeated images resolved into single meanings. The tail-severing verse slid past without a snag, and the westward widening followed with perfect musical logic.
+“Then that is your answer.”
 
-Then the display offered the forecast that authorization would unlock. Its values were hidden, but the scope was visible: both lanes, every cold filament and crosswind, the temperature at every root mat, exact through the permitted horizon. After that horizon, another exact forecast would follow, and another, for as long as Latsara remained within the mapped migration waters and reported in the certified vocabulary.
+“It keeps them in every learner’s mouth.”
 
-"Authorize," Caldren said.
+“During lessons. Not when a singer challenges the line.”
 
-He had climbed more slowly and stood gripping the ladder head. He did not soften the word for her.
+She heard herself searching for a better arrangement. “If the cut line enters a half beat early, it interrupts the common version without delaying the turn. The white-pull line could—”
 
-Nevenra looked east. Sunlight lay on the narrow lane. Nothing in the water showed her whether black reed meant delay or shelter today.
+“Stop tuning it.”
 
-"Archive contract query," she said. "If a future singer uses the cut-chain wording in a route report, will the report be accepted as correct?"
+The resin press thumped twice. Caldren took a careful breath between the strokes.
 
-The program parsed the question. "No. Historical variants remain accessible as source records. Operational submissions that vary certified historical-directional units are classified as errors pending standard review."
+Nevenra lowered the disk. “You’re asking me to mark your family’s account wrong.”
 
-"Can future singers teach that wording as an equal correction without an error classification?"
+“Yes.”
 
-"No. One certified edition is required for forecast service."
+“You believe the forward gardens may have cut them loose.”
 
-Caldren's fingers tightened on the ladder rail. "You knew the answer."
+“Yes.”
 
-"I needed to hear what I was choosing."
+“Then how can you—”
 
-"So choose it."
+“Three migrations ago, the north cue said turn at copper taste. The south cue said wait for numb fingers.” His breath failed at the end. He pressed his fist under his ribs until the next one came. “We waited.”
 
-Below them, a bell sounded twice. The last departure bridge had lifted. Latsara's foremost gardens were already pulling east, toward the fast lane, because that was the heading Nevenra had set while the archive completed its work.
+Nevenra remembered the sail above her turning rigid, ice growing across its seams while two experienced singers demanded different beats. She had been seventeen, holding a line she could no longer feel. The cold reached six garden chains before Caldren gave the turn himself.
 
-She could authorize. Tomorrow's cold would arrive as a number instead of a taste argued over on deck. Children in the trailing beds would sleep while the sails changed above them at precisely the right beat. Caldren's line would remain available, every word intact. Only its power to interrupt would be gone.
+He said, “Four heat pipes split. Pepper grafts died. Citrus too. We ate root mash until warm season.” He tapped his chest once. “This stayed.”
 
-Nevenra had spent years wishing the songs would stop interrupting her.
+“If your version is true, certification won’t make the common one true.”
 
-She pressed the recorder's white bar. "I refuse the exchange. Release every provisional recording. Do not retain the corpus."
+“I know what it costs.”
 
-The terminal displayed a confirmation requiring the route-holder's ring. She fitted the copper ring into the recess.
+“Do you?”
 
-"Release confirmed," said the generated voice. The recorder's green rim went dark. "Forecast service unavailable."
+His eyes hardened. “Leave my breath out of your arrangement. It hurts. I still say buy the forecast.”
 
-The hidden values vanished. At the trailing edge of the city, the white buoy detached its signal cable. A small fixed sail opened on its mast, and the current began to carry it away along whatever course its mechanisms had set.
+There was no cue she could change to make that answer easier.
 
-Caldren watched the blank display. "Western arc," he said at last.
+Nevenra slid the recorder back under her strap. “Resume collection.”
 
-Nevenra had expected accusation. His briskness was worse. "You agree?"
+“Collection active.”
 
-"No. You refused certainty. That leaves navigation. Western arc or eastern lane?"
+Caldren pulled his scarf up. “Next verse.”
 
-She went to the gauges. The east still showed warm water and black reed. The west remained cooler, its surface chopped by a crosscurrent she could feel shivering up the lead ropes. She sang the two relevant lines under her breath:
+They left the sailmakers and continued forward.
 
-*Black reed sleeping, hold to the sun.*  
-*Trust not the east till the silver ones run.*
+Workshop noise thinned behind them. The sail-homes rose closer together, their fabric walls bulging and relaxing as the current caught successive platform chains. Cooking smoke slipped from roof vents. Families tied cupboards shut, shifted water jars to the west walls, and combed the last salt nap from door hinges. Nevenra sang measures for cloud underside, weed angle, rope shiver, silt caught in a sampling cup. The archive moved a warning nearer its action and separated two cues that shared a melody. She accepted both.
 
-One teacher would have read shelter in the reed. Another would have waited for silver minnows before trusting the east.
+Between sections it played its forming edition. The route sounded spacious in that one balanced voice. Nothing arrived late. No practical direction contradicted the next.
 
-"Western arc," she said. "Seven parts in ten that the eastern eddy has stalled. Moderate confidence in the crosscurrent holding until dusk. Low confidence after."
+The disputed lines remained retrievable beneath the fifth-bell unit. Caldren’s version had a complete recording, a source path, and a confidence field. It would not be destroyed. A future learner could call it up and hear every rough place in his breath.
 
-"And the cost?"
+Nevenra touched the recorder’s rim. “Status of the forward-knives variant.”
 
-"We reach the warm current after midnight. We spend stored heat."
+“Historical source available. Not valid for route reporting.”
 
-"Say it into the horns."
+A teacher could play it. At the steering deck, the program would correct it before the next cue.
 
-She did. No clean voice corrected her intervals. Across Latsara, crews hauled the city west one sail at a time.
+The lead platforms lifted as they entered the open current. The walk pitched beneath Nevenra. Ahead, Latsara’s foremost sail leaned over the water, tall and amber, its six ribs straining in different notes. The lowest one buzzed too tightly.
 
-By noon the next day, the stored heat was nearly gone.
+“Lead rib two, ease on my third beat,” Nevenra called.
 
-The western crosscurrent had held until dusk, as Nevenra guessed, then weakened three hours before the broadest version of the route song predicted. Latsara crawled through cold water all morning. To keep the garden roots above their killing temperature, the metalworkers and potters banked their furnaces. Half-finished ware cooled on workshop shelves. Families opened their sail-homes to trays of pepper, citrus, and feverleaf seedlings; people slept in shifts so plants could occupy the warmest bunks.
+A crew answered from above. She gave the three beats. The buzz dropped into the rest of the rigging.
 
-Nevenra left the steering deck when word came that the medicinal garden needed hands. She carried trays through passages built for shoulders, not leaves, while cold water ticked against the floors. In one home, a child surrendered his blanket to a row of feverleaf and complained without restraint. In another, a potter counted the day's lost firing aloud each time Nevenra passed.
+Caldren nodded once. It was approval of the adjustment, not of anything else.
 
-Several trays had already darkened at the edges. Nevenra helped a gardener separate the living stems from those gone soft. No one called the damage noble. No one knew what the eastern lane would have cost, because the exact answer was sailing somewhere beyond the city with the archive.
+Nevenra climbed to the steering deck with the recorder pressed beneath her forearm. Caldren followed slowly. Below, the city kept working. Gardeners latched glass covers. A roof crew crawled across a sail-home with a bucket of resin. Kiln smoke flattened as the workshops entered the crosswind. Nobody gathered under the mast. Latsara had already left the harbor; most residents were occupied keeping their own piece of it attached.
 
-When the water under the root mats finally began to warm, Nevenra was carrying citrus seedlings between two sleeping rooms. She felt the change as a loosening in her wet ankles. A moment later, the garden pipes knocked as their valves opened.
+On the steering deck, two water ribbons streamed through clear tubes. The eastern sample ran warmer and carried threads of black reed. The western sample was cooler, with fine sand turning at its bottom. A vane quivered between southeast and south. Traditional readings allowed a narrow eastern lane that could join warmth before dark, or a wide western reach that approached the current after midnight.
 
-Caldren's route call came down the speaking horn, ragged and impatient. "Lead deck. The current is turning south of the verse. Come hear it before I decide what you believe."
+Nevenra removed the recorder from her strap. Its green rim had remained lit since the tail. She set it in the lead console’s shallow socket.
 
-Nevenra set the tray into waiting hands and climbed back toward the sail.
+“Corpus complete,” the program said. “Provisional certified edition available.”
+
+It played the route through the horn at low volume. The compressed garden cue gave crews room to answer. Caldren’s workshop break arrived before the blind hinge. Every turn met the next with a certainty Nevenra had wanted since she first stood under a sail.
+
+At fifth bell, the rear beds cast themselves free.
+
+Nothing in the finished route caught the breath. A novice could follow it.
+
+The display showed the unopened forecast: exact water temperature, shear arrival, crosswind, and platform strain for the eastern and western lanes, extending to noon the next day. The values remained sealed until authorization. Nevenra could have them in the time it took to press her ring into the console.
+
+“Authorize,” Caldren said.
+
+She listened to the low rib, the grit in the western sample tube, the distant answers passing from sail to sail. “One contract query. If a route-holder finds reason to teach ‘forward knives cut green’ as an active correction, will the service accept reports sung in that form?”
+
+“Negative,” the program said. “The recording remains retrievable as a historical source. Forecast service accepts the certified unit. Alternate historical-directional units are classified as errors pending standard review.”
+
+“Can the three attested cause lines hold equal operational status?”
+
+“Negative. One certified navigational edition is required.”
+
+Caldren gripped the console rail. “You have the term.”
+
+Nevenra looked east. The black reed might mean the narrow lane’s eddy had stalled, or that deeper warmth was folding beneath it. Different teachers gave the signs different weight. Behind the sealed display sat the exact answer.
+
+“Buy it,” Caldren said. His voice scraped. “My line can lose. Those seedlings should not.”
+
+He had not misunderstood her. That removed the last excuse to keep arranging words.
+
+Nevenra lifted the recorder from its socket and pressed the white bar. “Refuse authorization. Release every provisional recording. Retain no route corpus.”
+
+“Route-holder confirmation required.”
+
+She pressed her copper ring into the disk’s center.
+
+“Release confirmed. Provisional recordings deleted. Forecast service unavailable.”
+
+The green rim went black. On the console, the hidden forecast window closed. The exact eastern temperatures, the timing of the western crosscurrent, the strain that would travel through every linked home—all of it disappeared unopened.
+
+Nevenra hooked the empty disk under her strap. It was still in her custody and now held nothing.
+
+Far astern, the archive buoy cast off its signal cable. A narrow mechanical sail unfolded, and the white cylinder moved away from Latsara across the cold seam.
+
+Caldren did not watch it for long. “Heading.”
+
+Nevenra expected anger and found no room for it in his single word. She bent over the sample tubes. Black reed turned slowly in the warmer eastern water. The western sand settled, jumped, then settled again. She laid two fingers on the lead rope and counted the side-pull through three repetitions.
+
+“West reach,” she said. “Six in ten the crosscurrent holds until first dark. Four in ten after that.”
+
+“Arrival?”
+
+“Warm water between midnight and dawn. Low confidence on the hour.”
+
+“Heat cost?”
+
+“If the pull holds, half reserve. If it drops early, most of it. We bank workshop fires before dusk and move the tender trays before the root pipes cool.”
+
+Caldren’s mouth tightened above his scarf. “Say the whole cue.”
+
+Nevenra turned to the speaking horns. She gave the western heading, her confidence, the watch interval, and the heat preparation. No number arrived from the archive to steady her pitch. Her first note wavered. She took it again, placed it lower, and sent it down Latsara.
+
+The answer came back district by district. Lead sails turned first. Home sails followed, then workshop canvas, then the small garden triangles at the rear. Hinges complained as the linked city bent into the broad arc. Crews combed fresh salt nap from the west pulleys while their platforms crossed into cooler water.
+
+Caldren took the lower horn. “Garden watch every thirty breaths. Send the readings. Don’t smooth them for the song.”
+
+The western pull failed well before midnight.
+
+By noon the following day, Latsara had spent nearly all its stored heat. Fuel meant for firing pots and tool edges went into the root pipes. Workshop crews banked their furnaces until only red seams showed under the doors. Half-shaped bowls dried uselessly on shelves. Metal cooled in molds.
+
+Families opened their sail-homes to garden trays. Pepper plants occupied tables and upper bunks; lemon grafts crowded cooking ledges. A feverleaf rack filled one narrow sleeping passage so completely that residents crawled under it to reach their blankets.
+
+Not every tray survived the move. Cold blackened two rows of young citrus before space could be cleared. A shelf of pepper starts went soft at the stems. Latsara could absorb the loss. The gardeners still carried every darkened tray to the disposal raft.
+
+Nevenra came down from the lead deck when the medicinal garden called for help. She spent the morning moving seedlings through doorways that caught their leaves. Her shoulders ached from holding trays level while the floors rolled. Each time she passed a workshop, the silence of its banked furnace followed her onto the next linkage.
+
+Caldren worked at the other end of the feverleaf line. He took only the smallest trays; the cold air kept closing his chest. When Nevenra tried to give him a larger one, he shook his head.
+
+“Count what died,” he said.
+
+“Two citrus rows. One pepper shelf. Feverleaf is holding.”
+
+“Heat?”
+
+“Enough for four more hours at this draw.”
+
+“Don’t round it.”
+
+She checked the mark on the garden tank. “Three hours, forty breaths.”
+
+He passed the number toward the root-pipe keeper. Then he lifted another tray.
+
+Near midday, warmer water touched the lowest roots. The pipes gave three knocks, paused, then ran with loosened valves. People began returning seedlings to the gardens without stopping to mark the change. There were too many leaves to carry and too many furnaces waiting cold.
+
+A call descended from the lead horn.
+
+“Nevenra,” Caldren said through it. “South pull where the verse gives west. Bring the sampling cup.”
+
+She set her tray into waiting hands and took the cup from its hook. On the walk forward, Latsara’s sails tugged in mismatched pitches while warm water worked from the lead platforms toward the rear. At the steering deck, Caldren had one hand on the rope and the other pressed to his ribs.
+
+“Two pulses under the third,” Nevenra said.
+
+“That is your wrist. Measure.”
+
+She clipped the cup to its line and lowered it past the lead float. The current pulled south before the line went taut. She counted, hauled the cup up, read the temperature ribbon, and pinched the silt between her fingers.
+
+“Warmth rising. South pull. Five in ten it strengthens.”
+
+“Again.”
+
+Nevenra emptied the cup, lowered it into the moving water, and began the count at one.

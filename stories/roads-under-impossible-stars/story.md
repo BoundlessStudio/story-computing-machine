@@ -8,388 +8,402 @@ canon: false
 
 # Roads Under Impossible Stars
 
-The question cards have gone soft at the corners, though I laminated them when we were sixteen. I hold one above the dashboard vent and read it in the solemn voice Paloma used to hate and secretly love.
+The question cards have gone soft inside their plastic sleeves. I laminated them when Paloma and I were sixteen, using an iron, a dish towel, and instructions we had only half read. Several are sealed around crescents of old air. She used to press those bubbles with her thumbnail while she considered an answer.
 
-“Would you rather know exactly where you’re going or never have to go alone?”
+Tonight she keeps both hands on the wheel.
 
-Paloma keeps her eyes on the road. “Did you stack the deck?”
+“Would you rather know exactly where you’re going,” I read, “or never have to go alone?”
 
-“There is no deck. They’re in alphabetical order.”
+The hatchback's loose fan belt squeals as the road climbs. Paloma changes down until the sound gives up. “Find one that isn't about leaving.”
 
-“That is worse.”
+“They're alphabetical. I can't skip without compromising the method.”
 
-It should be enough. Once, *that is worse* would have been the opening move in a ten-minute argument about whether alphabetical order counted as fate. Tonight it falls between us and stays there.
+“You made the method in your mother's kitchen.”
 
-The hatchback’s loose fan belt shrieks whenever Paloma lets the speed drop below forty. Its air conditioner died before either of us learned to drive. We have the windows open, and the desert comes in hot and mineral-dry, fluttering the old paper itinerary on my knees. The route is marked in purple pen: fuel, lookout, campground, breakfast. We drew it the summer after sophomore year and followed it every August until last year.
+“That doesn't make it lawless.”
 
-This is the last trip. Paloma leaves Saturday for a year of trail repair, invasive-plant surveys, and living out of cabins with unreliable power. I start college three days later. Those facts sit in the car with their knees spread.
+Once, that would have bought me an argument. Paloma would have attacked the alphabet as a false hierarchy, I would have defended it past reason, and we would have reached the lookout without noticing the miles. Now she watches the unlit road and lets my answer expire.
 
-I tuck the card behind the sun visor. “Snack?”
+Hot desert air pours through the open windows. The air conditioner died before we learned to drive; the dashboard light works when I strike it; the antenna broke off in a car wash three summers ago. On my knees, our old itinerary flaps against my palms. Purple ink marks fuel, lookout, campground, breakfast. We drew the route for the first trip in this car and followed it every August until last year.
+
+The clock says 11:41. The odometer reads 184,206.3. I record both because keeping figures in my head is easier than looking at the fuel needle, which has fallen just below a quarter, or the temperature needle hovering halfway between normal and red.
+
+“Lookout in twelve miles,” I say.
+
+“If the west road is still open.”
+
+“The map says it is.”
+
+“The map also says we should have bought gas forty miles ago.”
+
+“You said it was overpriced.”
+
+“I said we needed it anyway. You wanted the lookout before midnight.” She brushes damp hair off her cheek with her shoulder. “Stop folding that thing like it can tell us what tonight is for.”
+
+I smooth the map. Saturday morning, Paloma leaves for a year with a conservation crew: trail repair, plant surveys, backcountry cabins that may or may not have power. Three days later I move into a college dorm. We have described this drive to everyone as one last road trip, which is useful because *last* can mean ceremonial or final, and neither of us has had to choose.
+
+I slide the cards into the glove box. “Did they tell you who you're sharing the cabin with?”
+
+“Not yet.”
+
+“And your boots came?”
+
+“Tabitha.”
+
+She says my name as a request to stop circling. I look at the purple road instead.
+
+“I thought we agreed to make this a good trip,” I say.
+
+“We agreed to take it.”
+
+“You won't play the questions. You don't want the snacks. You've corrected the route six times.”
+
+“Because I want us to get home.”
+
+“Before you leave.”
+
+“Yes. I am leaving.” Paloma's voice goes flat, stripped for difficult work. “This car can't make us sixteen again.”
+
+For nine weeks I have built better openings to this argument. Most begin with a joke. A few are so generous that she understands, without being told, how selfish she has been. Not one begins here.
+
+“You're the one who changed the plan,” I say.
+
+“There was no plan.”
+
+“We talked about getting an apartment.”
+
+“We joked about splitting rent if neither of us figured anything out.”
+
+“I didn't know it was a joke.”
+
+“Then you could have answered my message.” Her grip tightens. “You read it at two fourteen. Nine weeks, Tabitha. Don't call that needing time.”
+
+“I was giving you space.”
+
+“I didn't ask for space. I told you about the job.”
+
+“What did you expect me to write? Congratulations on blowing up the plan?”
+
+The highway should curve west around a low ridge. I wait to see its dark shoulder in the headlights. Instead I notice the sky.
+
+There are too many stars. Pale points crowd the gaps inside familiar constellations and continue lower than stars should, all the way to the sand. Paloma sees them too. Her next breath catches.
+
+“Is that weather?” she asks.
 
 “No.”
 
-“You always want the sour ones after dark.”
+The meteor burns across half the horizon.
 
-“Then you have successfully documented a past version of me.”
+It travels left to right, low and slow enough that I follow the white head with my eyes. A green seam remains open behind it. For one silver instant the car has no shadows: every crack in the dash, every fold in the map, the sweat shining along Paloma's upper lip.
 
-The fan belt squeals. Paloma changes down, jaw tight, and the sound fades into the tires’ steady hiss.
+“I wish we could go back,” I say. “Before we ruined this.”
 
-I flatten the itinerary against my thighs. “The lookout should be twelve miles up.”
+The belt screams.
 
-“If we’re still on the right road.”
+Sound folds in on itself. A burst of static returns to the radio and is sucked away. The white edge line runs backward under Paloma's window, then slaps forward.
 
-“We are.”
+The clock rolls from 11:47 to 11:41.
 
-“Romy, that map is four years old.”
+Paloma is saying, “Find one that isn't about leaving.”
 
-“Roads don’t expire.”
+My hand is on the glove-box latch. I have already put the cards away. Beyond the windshield, the stretch of road we just climbed lies ahead of us again.
 
-She glances at me then, quick and incredulous. Beyond her profile, the last red seam of sunset has vanished. “Some do.”
+“Tabitha?”
 
-I turn the map toward the window as if there might be enough light to prove something. There isn’t. “I thought we said we’d try to have a good trip.”
+The odometer reads 184,211.9. The six minutes are gone from the clock, but not from the car. The fuel is still below a quarter. The temperature needle has not fallen.
 
-“I am trying.”
+“I found a different one,” I say, although I haven't opened the box.
 
-“You wouldn’t even answer one question.”
+Paloma glances over. I ask about her cabin before she can ask what is wrong. Then I ask about the secondhand boots she spent a month finding. These are safe facts; they let me sound interested without surrendering anything.
 
-“Because the question is embarrassing.”
+The climb does not end at the ridge this time. The pavement splits around a wedge of pale dirt. To the left, a narrow lane bends toward a wooden sign with both arrows scoured blank. The wider branch runs straight north between new-looking reflectors.
 
-“They were all embarrassing. That was the point.”
+Paloma brakes. The belt squeals, two minutes earlier than it did before. “This wasn't here.”
 
-“The point was that we were sixteen.” Paloma grips the wheel higher. “This trip can’t make that happen again.”
+The paper itinerary shows one road. “Take the wide branch.”
 
-The words hit harder for being obvious. For months, I have been storing better versions of this conversation: calmer versions, funnier versions, versions where she admits the job is a mistake before I have to ask. None of them begins with me saying what I actually mean.
+“Based on?”
 
-“You’re the one leaving,” I say.
+“The center line.”
 
-“And you’re the one who disappeared.”
+She takes it because the other lane is shedding asphalt into the sand. Above the fork, the meteor's green scar hangs like a cut that has not closed.
 
-“I gave you space.”
+For a mile, my questions work. Paloma tells me the boots pinch at one heel. The crew leader recommended blister tape. Her cabin assignment will come when she arrives.
 
-“You read my message and didn’t answer for nine weeks.”
+“Will you have a signal at the cabin?”
 
-“What was I supposed to say? Congratulations on blowing up the plan?”
+“At the main one, maybe.”
 
-“There was no plan. There was a joke about renting an apartment together if neither of us could afford anything else.”
+“We could pick one night.”
 
-“It wasn’t a joke to me.”
+“Don't.”
 
-“Then you could have told me.”
+“Sunday?”
 
-Her voice has gone thin and even. I know that voice. It is the railing at the edge of a drop.
+Paloma's shoulders rise, then lower. “If I say Sundays, can we finish this drive?”
 
-The sky above the windshield is crowded with stars. Not bright, exactly. Numerous. They fill the dark between the familiar constellations until there is hardly any dark left, thousands of pale points like salt ground into black stone. Paloma sees them too. Her anger loosens just enough for wonder.
+I hear the yes and ignore the rest.
 
-“Pull over,” I say.
+Then she says, “You called it blowing up the plan.”
 
-“No shoulder.”
+“I didn't.”
 
-Then the meteor comes.
+Her foot lifts from the accelerator. “I heard you.”
 
-It burns from left to right across half the horizon, low and slow, its white head trailing a green seam that stays open behind it. The inside of the car flashes silver. I see every crack in the vinyl dash, every loose hair against Paloma’s cheek, the purple roads on my useless map.
+“Not this time.”
 
-“I wish we could go back,” I say. “Just go back to before we ruined this.”
+“What does that mean?”
 
-The fan belt screams.
+I could tell her. Instead I reach for the cleanest correction. “I mean I don't think the job blows anything up. I want to hear about it.”
 
-Paloma’s unfinished breath runs backward through her teeth. The radio spits a syllable, swallows it, spits it again. Gravel ticks up from beneath the car, strikes metal, then lifts away into the road.
+“No, you want my answer to stay where you put it.” She presses two fingers to her lips. “And I remember saying I was still going.”
 
-The dashboard clock changes from 11:54 to 11:48.
+I have not asked her to stay on this road.
 
-Paloma says, “Did you stack the deck?”
+The scar is already dimmer. I say the sentence again, deliberately now. “I wish we could go back.”
 
-My hand is above the vent. Between my fingers is the same question card.
+The second return takes four minutes and thirty-eight seconds. The dashboard changes from 11:46 to 11:42. The wide road vanishes.
 
-For three seconds, I cannot feel the heat.
+A survey station stands where there was bare sand: a concrete box on rusted legs, its windows punched out, a wind gauge spinning on the roof although the scrub below it does not move. Our headlights sweep a metal stair, hooks beside the door, a white mug upright on the sill. Then it is behind us.
 
-“Romy?”
+The odometer remains 184,216.2. The fuel needle quivers lower. The temperature creeps past three-quarters.
 
-I look at the odometer. I noticed the mileage when we passed the last fuel stop, because Paloma accused me of being the sort of person who would calculate the cost down to the cent. The number is nine miles higher than it should be. The fuel needle is still nudging empty. The temperature needle still trembles above the midpoint.
+The broken radio clears its throat. A man calmly lists irrigation prices, a school closure, and loose cattle along a north fence. He names no town or road. Paloma turns the dial, but there is only static on either side of his voice.
 
-“No,” I say. “They’re in alphabetical order.”
+“What station is that?”
 
-“That is worse.”
+“I don't know.”
 
-This time I laugh, because I know the line is coming and because terror needs somewhere to go. Paloma gives me a suspicious look, but one corner of her mouth moves. That tiny success feels so good I almost miss the road changing.
+“Where's the fork?”
 
-Where the highway should bend around a black ridge, the pavement divides. One lane runs straight between reflective posts. The other narrows toward a wooden sign whose painted arrows have been scoured blank.
+“Gone.”
 
-Paloma slows. The belt squeals again, later than it did before.
+She looks at me fully then, and the car drifts until its tires bite the edge line. She corrects without panic. “Gone how?”
 
-“Was this on the map?”
+I tell her about the clock. I show her the mileage that stayed. I say nothing about choosing the second return until she asks why I used the exact same words.
 
-“No.” I search the purple line. There is no fork for another thirty miles. “Take the wider road.”
+“I thought I could prove it,” I say.
 
-She does. The crowded stars seem close enough to snag in the windshield chips.
+“By not telling me first.”
 
-I could tell her. I mean to. But she has smiled at me, barely, and the last six minutes are clean again. I ask if the field crew has assigned her a cabin yet. I ask what kind of boots she bought. I make my voice interested instead of injured.
+“You wouldn't have remembered the proof.”
 
-Paloma answers carefully. Yes, a shared cabin. No, she does not know her roommate. The boots are secondhand. Then she says, “You don’t have to pretend to be excited.”
+Paloma rubs her sternum. “I remember enough to feel sick.”
 
-“I’m not pretending.”
+The survey station has disappeared from the mirror. In its place the road carries us between square banks of sand, cut too cleanly to be dunes. I start my apology before the next thing can appear.
 
-“You called it blowing up the plan.”
+I tell Paloma I panicked when I read her message. I tell her I had imagined our lives overlapping longer. I say I should not have gone quiet. Each sentence is true. I arrange them around the truth that would make them ugly.
 
-The car seems to narrow around us.
+“We don't have to schedule calls,” I say, making generosity out of the retreat.
 
-“I didn’t say that.”
+“Good.”
 
-Paloma blinks. “No. You didn’t.” She rubs two fingers against her breastbone. “I thought you did.”
+“You'll call when you can.”
 
-Ahead, the green scar of the meteor still hangs above the horizon, already thinner.
+“When I want to, if I can.”
 
-“I wish we could go back,” I say.
+“And if two weeks go by?”
 
-The world catches.
+“Then two weeks went by.”
 
-Heat folds over me. The tires hammer the same patched strip twice. The clock drops by five minutes, not six, and the blank sign is gone.
+Paloma returns her eyes to the road. “I'm still leaving Saturday.”
 
-Now a survey station stands in the sand.
+“I didn't ask you not to.”
 
-It is a low concrete building on spindly metal legs, all its windows punched out. A wind gauge turns on the roof though the air inside the car has gone still. The hatchback passes it slowly enough for me to see a row of hooks beside the door and a coffee mug upright on the sill.
+“You did beside the blank sign.” Her face tightens. “You said I chose fences and dirt over you.”
 
-The radio crackles to life. Its antenna snapped off two summers ago, and it has received nothing but engine noise since. A man is reciting irrigation prices in a bored voice. He moves on to a school closure, then a warning that loose cattle have been reported along the north fence. He never names the county, the school, or the road.
+I said it during the first return, after she remembered the original argument and before I erased the fork. I had already revised it out of my account.
 
-Paloma reaches for the dial. “What station is that?”
+“That road isn't here anymore,” I say.
 
-Static answers her.
+“The sentence is.”
 
-“Do you remember the fork?” I ask.
+“I can say it better.”
 
-“What fork?”
+The meteor seam is narrowing. I say, “I wish we could go back,” a third time.
 
-“Nothing.”
+The third return takes three minutes and lands us at 11:43. The clock retreats; nothing else in the car does. The odometer holds at 184,219.0, the gas gauge is near an eighth, and the temperature needle touches the red before settling just beneath it.
 
-She stares out at the survey station shrinking behind us. “I feel like I’ve already lost you.”
+An empty motor court appears on the right.
 
-The sentence is so quiet I almost decide I imagined it.
+Six stucco rooms bow around a gravel yard, open toward the road. Their blue doors hang inward. A dry swimming pool fills the center, tiled with fish whose eyes flare in our headlights. At the far end, a dead ice machine leans against an office no wider than a tollbooth.
 
-“You haven’t.”
+Paloma brakes before I speak. “The mug was here.”
 
-Her face twists. “That isn’t what I meant.”
+“The mug was at the station.”
 
-“What did you mean?”
+“I know where I saw it.” She turns hard into the gravel. Stones strike the underside of the car. “We're stopping.”
 
-“I don’t know.” She presses her palm to her sternum now. “I’m sad about something you haven’t said.”
+“The engine is too hot to idle.”
 
-I set the cards on the floor. “Then let me say something different.”
+“Then I'll shut it off.”
 
-I apologize for not answering her message. I tell her I panicked. I tell her I thought our lives would overlap longer than they are going to. Every sentence is true and arranged to conceal the ugliest truth behind it: I wanted my silence to hurt.
+She parks facing the road, clear of the pool, and kills the ignition. The sudden quiet exposes the ticking under the hood.
 
-Paloma listens. For a while, the road stays straight.
+“How many?” she asks.
 
-“Thank you,” she says. “But I’m still going.”
+“It happened twice after the first.”
 
-My tongue is already shaping the wish. The meteor’s seam is fading, and I say the words faster than before.
+Her eyes go to the clock, then to me. “That's not what I asked.”
 
-The return is not even four minutes.
+“Three returns.”
 
-We are passing an empty motor court, six little stucco rooms bowed around a gravel lot. Their doors stand open. A dry swimming pool gleams under the impossible stars, its bottom tiled with blue fish. There was only sand here in every previous night.
+“Three versions I don't get to keep.”
 
-Paloma grips the steering wheel. “We have passed this place.”
+“You are keeping pieces.”
 
-“We haven’t.”
+“Don't tell me that like it's a favor.” She closes her eyes. “There was a road with a blank sign. You kept saying Sunday until I said yes. Then there was the station. I said I'd call when I wanted to, if I could. You went quiet, and I knew that answer was wrong too.”
 
-“There was a mug in a window.”
+Her second answer is exact. I had believed my silence after it was the only part that survived.
 
-“That was somewhere else.”
+“You didn't answer wrong,” I say.
 
-“There was somewhere else?”
+“Then why are we somewhere else?”
 
-The fuel needle dips as we watch. The temperature needle creeps higher.
+The engine knocks once as it cools. I picture the next attempt: tell her about the first return immediately, apologize before asking about the cabin, never mention Sundays. A truthful sequence, properly ordered.
 
-I describe the clock retreating and the roads changing. I do not say how many times I have seen it happen, or that I knew before the second wish that the words would work.
+Paloma watches my face. “You're doing it now.”
 
-“Pull over,” she says.
+“Doing what?”
 
-“We don’t know what’s out there.”
+“Waiting for a better way to get the answer.”
 
-“Exactly.”
+“I'm trying to get us back to the highway.”
 
-She turns into the motor court. Gravel knocks under the chassis. The engine fan rattles with the busy, brittle sound of a coin in a dryer. Paloma parks facing the road and leaves the motor running.
+“You were trying before you knew the road changed.” She points through the windshield. “Those are two different problems. Pick the one you're talking about.”
 
-“Say it again,” she says.
+I turn the key. The hatchback coughs, catches, and sends the temperature needle against red. Before Paloma can stop me, I say, “I wish we could go back.”
+
+The fourth return throws us onto moving pavement at 11:44. The motor court is gone. Paloma has both hands on the wheel again; the running car is doing fifty-two on a road neither of us chose.
+
+“Brake,” she says.
 
 “What?”
 
-“The wish.”
+“My foot remembers braking.” She presses down. “And don't ask about Sundays again.”
 
-“Why?”
+The radio cuts into a weather report for frost in upper orchards. Outside, silver sand streams away from the headlights. The road narrows and drops between two black shelves of rock.
 
-“I want to hear what happens.”
+“How long did we get?” Paloma asks.
 
-“You won’t remember all of it.”
+I check the clock. “Less than two minutes.”
 
-“Apparently I get pieces.” She looks at me, and I see fear underneath the anger. “How many times have you made me do this?”
+“Then stop spending it.”
 
-“Three. The first was an accident.” I make that distinction do too much work.
+Our headlights rise off the pavement.
 
-“You told me I chose fences and dirt over you.”
-
-My mouth goes dry. I said that after the second return, on a road that no longer exists.
-
-Paloma continues, “Then you asked if I could promise we’d still be best friends when I came home. I said I couldn’t promise what a year would do. You looked at me like I’d failed a test.”
-
-“Those conversations didn’t happen anymore.”
-
-“They happened to you.”
-
-“I changed them because I was getting them wrong.”
-
-“You changed them because you didn’t like my answers.”
-
-The engine ticks hot beneath the hood. In the rearview mirror, the motor court rooms are black squares full of stars.
-
-I can still repair this. I hear myself think it and hate how reasonable it sounds.
+There is no road beyond their beam. A flash-flood channel has bitten through the culvert, leaving two ragged slabs and twelve feet of air between them. Paloma stands on the brake. The rear slews toward the drop; the steering wheel jerks through her hands. I see the right front tire reach broken asphalt.
 
 “I wish we could go back.”
 
-The courtyard jerks sideways.
+The fifth return buys forty-three seconds.
 
-The return is shorter now. We are on the road again, moving fast, the motor court nowhere behind us. Paloma has both hands on the wheel and the dazed look of someone waking from a fall.
+Paloma is already braking when the clock lands on 11:45. The channel is gone. In its place the road runs through a gap between two stucco buildings and straight into the motor court, but the court has changed. Rooms now close around three sides in a horseshoe. The dry pool blocks the center, much too close for our speed.
 
-“Slow down,” I say.
+Paloma yanks the wheel left. We jump a low curb, miss the pool by the width of a hand, and stop beside the dead ice machine. Steam feathers from under the hood.
 
-“Don’t.”
+She shuts off the engine. The odometer reads 184,222.7. Near-empty fuel, heat, miles, the belt's worsening rasp: the car has kept all of it.
 
-“What?”
+Paloma takes the flashlight from the door pocket. “Do not touch the radiator cap.”
 
-“Don’t ask me the boots question again.” Her knuckles pale. “I’ve answered it enough.”
+“I know not to open it hot.”
 
-“Paloma, I’m trying to get us out.”
+“You put dish soap in the washer reservoir when you were twelve.”
 
-“You keep saying that after you put us somewhere worse.”
+“Because you said it needed soap.”
 
-The radio breaks in with weather for a valley outside the windows, promising frost in the upper orchards. Sand streams silver beneath the stars. There are no trees in sight.
+“I was also twelve. Stay in the car.”
 
-The road drops. Our headlights reach over the slope and find nothing on the other side.
+She gets out before I can make the memory into evidence that we are fine. Under the raised hood, she keeps her hands away from the hissing metal and traces the flashlight along a wet hose. Then she walks along the left arm of the horseshoe, checking doors and the ground as if this were a trail she had been assigned to assess.
 
-Paloma hits the brakes. The rear of the hatchback sways. Below us, a flash-flood channel has torn the pavement away, leaving two ragged ends and fifteen feet of black air between them.
+When she comes back, dust powders her shins. “We wait until the needle is below half. The reservoir is low, but I can't see a split. We'll use one bottle of water and keep one. There's a service lane behind the last room on the left. It goes east as far as the light reaches.”
 
-I grab the dash. “I wish we could go back.”
+“East according to what?”
 
-The fan belt shrieks before the words leave my mouth.
+“According to the stars I recognize. If they still count.” She sits sideways in the driver's seat with her feet on the cracked pavement. “I'm not promising where it leads.”
 
-We snap backward less than a minute. This time Paloma is already braking, though the culvert is gone. The road runs level into the motor court’s courtyard, but the buildings have multiplied and closed behind us in a horseshoe. The dry pool blocks the center. She wrenches the wheel, misses the cracked curb by inches, and stops beside a dead ice machine.
+The meteor's scar has thinned to a green thread above the motor-court roofs. By the rate of the last return, there may be enough light for one more sentence and a handful of seconds.
 
-Steam feathers from under the hood.
+Paloma holds the flashlight between her knees. “I remember agreeing to Sundays. I remember saying only when I wanted to. I remember you apologizing in a room with blue doors, except we never went inside one.” She touches her tongue to her lower lip as if the words have left a taste. “Which answer did you keep?”
 
-Paloma kills the engine. For a moment neither of us moves.
+“Neither. Those roads are gone.”
 
-Then she unclips her seat belt. “Do not touch the radiator cap.”
+“I didn't ask about the roads.”
+
+I hear the next draft forming. Return before the culvert. Warn her first. Admit all five returns. Remove the lie at the motor court. Begin with the worst truth so nothing afterward can contaminate it.
+
+I draw breath. “I wish we could—”
+
+Paloma does not close her eyes or tell me to stop. She looks straight at me, frightened and furious, waiting to find out what I will take from her this time.
+
+The last two words are ready. I do not say them.
+
+The dashboard clock advances to 11:47. The green thread contracts at one end, then goes dark. Nothing moves except the needle easing down from red.
+
+“No more,” I say.
+
+Paloma sets the flashlight on the seat. She does not thank me.
+
+The message is still on my phone, if my phone has survived all five roads. I do not take it out. I remember exactly what I typed and deleted.
+
+“I read your message at two fourteen,” I say. “I typed *Great*. Then I deleted it. I typed *How long?* and deleted that too. By dinner I knew I was hoping you'd get scared when I didn't answer. I wanted you to come back and ask what you'd done to me.”
+
+Paloma picks a loose thread from her shorts. “I checked the chat at every gas stop for two weeks.”
+
+“Why didn't you send another message?” The defense escapes before I recognize it.
+
+“I sent the first one.”
+
+“You did.”
+
+“And you saw it.”
+
+“Yes.” I press my palms against my knees. “It wasn't space. I was punishing you because I couldn't stop you from going.”
+
+She looks beyond me into the empty rooms. Wind moves through them now, tapping something metal at uneven intervals.
+
+“I'm going Saturday,” she says. “I want the job. I want the cabin and the boots and mornings where nobody has known us since second grade. I waited until the papers were signed to tell you because I didn't want to be talked out of it. That's mine to answer for. It doesn't make the nine weeks mine.”
+
+“No.”
+
+“I would have gone if you'd asked me to stay.”
 
 “I know.”
 
-“You once tried to put dish soap in the washer reservoir.”
+“You didn't know. You kept checking.”
 
-“I was twelve.”
+The needle descends another fraction.
 
-“Stay here.”
+“I'm sorry,” I say.
 
-She takes the flashlight and gets out. Anger has not made her stupid or cruel; that would be easier. She props the hood, examines the hoses without putting her hands near them, and comes back sweating.
+Paloma winds the loose thread once around her finger. “I remember you saying that already.”
 
-“We wait,” she says. “At least half an hour. Then we can put some drinking water in the reservoir. Maybe it holds long enough to find a real road.”
+She reaches for the flashlight. “Below half, then water. Hold this while I pour.”
 
-“If there is one.”
+We wait with both doors open. The extra stars fade without pattern, leaving the ordinary ones separated by dark. No sound marks the change. The motor court remains: blue doors, tiled fish, the lane Paloma found behind the last room. At 12:19 the temperature needle drops below half.
 
-“There has to be one for us to look.”
+Paloma wraps her overshirt around her hand, loosens the reservoir cap a little at a time, and waits through the last release of pressure. I hold the light while she pours in one bottle. The whole bottle brings the level to the lower mark. The second stays unopened between our seats.
 
-She sits with the door open and her feet on the cracked pavement. The meteor’s scar is a green thread now. Around it, too many stars shine over the motor court roofs.
+The engine starts on the third try. The belt's squeal is rougher than before, but the temperature holds below three-quarters. Paloma backs away from the pool, turns between the office and the last room, and finds the service lane.
 
-“That last one saved us,” I say.
+It is one strip of cracked pavement with sand banked along both sides. The radio catches a woman announcing livestock notices, loses her, then settles into ordinary static. We pass no station, motor court, or fork. The dark ahead stays dark until the sky begins to gray.
 
-“Yes.” Paloma wipes dust from her shin. “It did.”
+Forty minutes later, the lane meets a divided highway. Its paint is fresh enough to shine. A green sign promises fuel in nine miles without naming a town. The paper itinerary has slipped under my seat; by its distances, the odometer contains thirty-one miles that do not belong anywhere.
 
-“So it isn’t all—”
+Paloma keeps the wheel. My job is to hold the flashlight on the temperature gauge whenever the dash light blinks out. A pale band of morning gathers above the road.
 
-“Don’t turn almost killing us into evidence that you were right.”
+After several miles, Paloma says, “After my first week.”
 
-I lean my head against the seat. The upholstery smells like hot pennies and the coconut spray we used three summers ago because the car had begun to smell like wet shoes. All the years of us are still here in stupid layers.
+I look over.
 
-Paloma says, “I remember apologizing for leaving. More than once. I remember you accepting it once. I remember you telling me I always choose whatever makes me feel important. I remember promising to call every day, and I remember refusing to call at all.”
+“One text,” she says. “Not before. If I answer, ask whether I can call. If I don't answer, leave it.”
 
-“You didn’t say all those things in the same version.”
+Questions crowd up: what time, what if the crew has no signal, how long *leave it* means. I say none of them.
 
-“I know.” She looks at me. “That is not helping.”
+“All right,” I say.
 
-The radio whispers through the dead engine, a woman announcing livestock notices from very far away.
+“I might still say no.”
 
-“I was trying to find the honest conversation,” I say.
+The dash goes dark. Paloma taps the clear plastic over the gauges once, then points. “Light.”
 
-“You were trying to find the conversation where I said yes.”
-
-I look at the meteor thread. If I speak quickly, there may be enough left. I could go back before the culvert, tell her at once, use the motor court as proof. I could omit the lie about the number of returns. I could begin with the right apology.
-
-“I wish we could—”
-
-Paloma shuts her eyes.
-
-I stop.
-
-The words remain unfinished in my mouth. Nothing lurches. The clock does not change. Somewhere in one of the rooms, metal taps metal at an irregular pace.
-
-When Paloma opens her eyes, she does not thank me.
-
-“Nine weeks,” I say. “I knew what to write after the first hour. I wanted to say I was hurt and I wanted you not to go. Instead I kept waiting because I thought if I stayed silent long enough, you’d get scared and come fix it. Then every day made it harder to admit that was what I was doing.”
-
-She studies the gravel between her shoes.
-
-“I wasn’t confused,” I say. “I was punishing you.”
-
-The star-crowded dark gives her no privacy. I look down at my hands.
-
-“I wanted you to ask me not to go,” she says at last. “I would still have gone. But I wanted to know it mattered.”
-
-“It mattered.”
-
-“You made me guess.”
-
-“Yes.”
-
-“And tonight you made me keep guessing which things I’d actually said.” Her voice shakes. “You don’t get to decide those versions were disposable just because you erased them.”
-
-I want to explain that I remember every answer she gave me. The defense sounds ugly before I say it, and I close my mouth.
-
-“I’m sorry,” I say. It is the first apology tonight I cannot test in advance. “What do you want now?”
-
-She gives a tired, almost disbelieving laugh. “Right now? I want the engine not to crack. I want to get out of the haunted motel. I want to leave on Saturday without you treating it like a vote about whether I love you.”
-
-“Okay.”
-
-“It isn’t okay.”
-
-“No. But I heard you.”
-
-She rubs her face. “And after my first week, maybe we have one call.”
-
-Hope rises so fast it hurts.
-
-“Maybe,” she repeats. “You don’t get to turn that into a contract.”
-
-“I won’t.”
-
-“You already want to schedule it.”
-
-“Very badly.”
-
-This time her laugh is one breath long, unwilling and real. It does not restore anything. I let it end.
-
-We wait. The meteor seam thins until I cannot tell it from the green ghost left by staring too long. One by one, the surplus stars go dark. No thunder follows, no final shudder. The desert simply regains its distances.
-
-When the engine has cooled, Paloma wraps a shirt around her hand and eases open the reservoir cap. We sacrifice two bottles of drinking water. The hatchback starts on the third try.
-
-The motor court’s exit leads to a service road neither the paper itinerary nor the car’s old navigation disc recognizes. We take it because it exists. Behind us, the broken sign hums in the headlights, though none of its letters are lit.
-
-An hour before sunrise, the service road meets a divided highway. The lane paint is fresh. A sign promises fuel without naming a town. The odometer says we have driven thirty-seven miles more than the map can account for.
-
-Paloma takes the wheel. I hold the flashlight on the temperature gauge whenever the dash light flickers out. The paper itinerary has slipped under my seat, and neither of us reaches for it.
-
-After a long stretch of ordinary static, I ask, “When should I text?”
-
-“Sunday after my first week.”
-
-“If you don’t answer?”
-
-“Then I didn’t answer.”
-
-The hatchback rattles into its highest gear. I watch the needle settle and do not ask again.
+I move the beam back to the temperature needle.

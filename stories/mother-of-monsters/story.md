@@ -8,312 +8,356 @@ canon: false
 
 # Mother of Monsters
 
-Rennic counted six companies behind the broken arches.
+From the ditch below the Roofless House, Rennic watched its defenders abandon three galleries in perfect order.
 
-The smallest kept low to the floor, which meant goblin skirmishers. The broad shadows with horns would be shock beasts. Something pale and jointed moved along a wall where no stair remained. Lookouts flashed hand signs from the upper galleries, and each rank withdrew before the next. It was the cleanest retreat Rennic had seen in twelve years of border fighting.
+The small shapes went first, stooping behind fallen balustrades. Horned bodies covered them from the arches. Something with too many elbows descended a wall that had no stair, pausing whenever a pale hand flashed from the courtyard below. Each signal moved a different rank. Each rank vanished before the next began.
 
-“She has them drilled,” said the bowman at his shoulder.
+“Six companies,” the archer beside Rennic said.
 
-Rennic watched a horned silhouette lower its head and vanish into the Roofless House. “Then they know what happens when their commander dies.”
+“At least.” Rennic marked the galleries with the point of his sword. “She’ll pull them inward until the breach jams, then strike from both sides.”
 
-Across the slope, the army’s shield line shone in the last sun. The old sanctuary rose above it without roof or tower, a stack of blackened halls left open to weather. Trees grew from its upper floors. Rain had polished the faces off the stone saints. No one knew who had built it, only that things fled here and did not come out.
+The sanctuary had no roof left to hide beneath. Evening lay red across its black rooms; trees grew from upper floors, roots dangling through old vaults. Yet the kingdom had besieged it for nine days, and no scout had returned with more than glimpses. Things came here out of the forests and ravines. Goblins came with cut collars. Beasts came dragging arrows. The proclamations said they joined the Mother’s army.
 
-The ram had opened a knee-high wound in the eastern wall. Sappers were already fitting timber teeth into the crack so they could pry it wide enough for the main force. Through that wound, an advance man had crawled at noon and failed to return.
+The proclamations also said she had ordered the winter raids. Rennic’s sister had died in one, outside a torn sheepfold with her lamp still burning in the snow. For eleven years he had preferred the thought of one will behind that night. One will could be reached with a sword.
 
-The general’s runner pointed with a red baton. “First file enters. Recover our man if he lives. Find the Mother. Kill her before the third horn.”
+Below the eastern wall, the ram struck again. Masonry jumped. Sappers drove two oak jaws into the split and locked them with a crossbar so the next pull would tear the opening shoulder-wide.
 
-A finite order. Rennic liked orders that ended.
+A runner slid into the ditch and held out the general’s red baton. “First file through. Find the advance scout if he still breathes. The Mother dies before the third horn.”
 
-He lowered himself through the breach with four soldiers behind him. The stone scraped scales from his coat. Inside, he found a passage so low that even the goblins must have stooped. The file went on knees and elbows, shields shoved ahead. Behind them, sapper mallets struck in pairs. Dust jumped from the ceiling with every blow.
+Four soldiers looked to Rennic: the archer, the spearwoman, the broad axeman whose son had vanished in the spring, and the youngest, trying not to stare at the shapes in the ruin.
 
-The passage opened into a long chamber. Rennic rose, sword ready, and saw that the enemy had abandoned its barracks.
+Rennic took the baton, laid it in the mud, and said, “No chasing. No trophies. Anything drops a weapon, it lives until I say otherwise.”
 
-Beds lay in rows, if beds they were: straw nests, a sand trough, blankets stretched between pegs, a stone basin padded with moss. Feeding bowls stood beside some of them. Leather slings hung from the walls. Bundles waited by the far door, tied for travel.
+The axeman tested his grip. “They don’t surrender.”
 
-No weapons.
+“Then the rule costs you nothing.”
 
-“Efficient,” Rennic said. “They carried the iron and left the weight.”
+The ram struck. Stone burst inward, and Rennic led them through.
 
-The spearwoman prodded a little coat with her boot. It had four sleeves, the lower pair patched at the elbows. “Captain.”
+They crawled the first passage on forearms, mail whispering over grit. Mallets sounded behind them almost at once. The sappers were enlarging the same hole while the file still used it; every blow shook dust down Rennic’s collar. When the passage opened, he rose beneath a low vault and brought his shield up.
 
-“Eyes on the door.”
+No one attacked.
 
-He led them past a wicker screen. Behind it were clay toys: a cart with round stones for wheels, a bird with too many wings, three dolls made from knotted grass. The youngest soldier looked at them until Rennic snapped two fingers.
+Rows of shallow beds covered the chamber. Some were straw circles, some hammocks slung a handspan above the floor, some boxes of warm sand with gray stones tucked under blankets. A clay basin had been shaped for a jaw too wide to drink from a cup. Waxed packets of salt hung beside travel bundles. Along one wall, coats waited on pegs: tiny, enormous, four-sleeved, slit down the back for folded wings.
 
-The room proved nothing. Raiders nested. Wolves played before they learned blood. Coordination meant command, and command meant the woman they had come to kill.
+The spearwoman lifted one fallen garment with her spear tip. A child’s teeth had worried its wooden buttons.
 
-At the far door, the corridor dropped sharply. Rennic heard a wet, sawing breath below and raised his fist. The file froze.
+“Barracks,” Rennic said. “Cleared in time.”
 
-Around the corner crouched a goblin in a stained apron. Its ears had been cut down to ragged nubs. Between its knees lay the missing advance man, white-faced and awake, one leg trapped in a frame of narrow sticks.
+“With toys?” the youngest asked.
 
-“Cage,” breathed the mace-bearer.
+Three clay animals stood on a shelf, all missing legs from play rather than breakage. The axeman swept them aside with his shield. One bounced under a bed.
 
-He lunged before Rennic could answer. The goblin flung itself across the wounded man, not at the attacker. Rennic caught the mace shaft on his sword guard and drove it aside. The iron head smashed plaster.
+“Keep the door,” Rennic told the youngest. The sharpness of his own voice steadied him. A disciplined army could sleep anywhere. Raiders had children. None of it answered who gave the signals.
 
-“Hold.”
+A man cried out beyond the wicker screen at the chamber’s end.
 
-“It has him.”
+They found the missing scout on a pallet under the stairs. A goblin knelt over him in a boiled-leather apron, one hand pressed to his shin. A frame of split willow surrounded the injured leg. The goblin’s ears ended in old, uneven scars. Bone needles hung in a roll at their belt, beside a cleaver polished by years of sharpening.
 
-“I said hold.”
+The axeman saw the blade and charged.
 
-The advance man clawed at Rennic’s boot. “Don’t hit the little one.”
+The goblin threw their body across the scout’s leg. Rennic caught the axeman’s haft between shield and wall. The axe head buried itself in a stair tread, a thumb’s breadth above the goblin’s neck.
 
-His leg was wrapped from ankle to thigh. Two straight slats held the shin; the supposed cage was a raised brace keeping the blankets from touching it. A dark stain had spread through the wrapping, but the knot above it was tight and properly placed.
+“Back,” Rennic said.
 
-The goblin showed small teeth. “Longbones kicked my splint.” Its voice was hoarse but perfectly clear. “Tell him stop kicking.”
+“Armed.”
 
-“The wall came down,” the advance man said. “When the ram struck. It pulled me clear.”
+“Back.”
 
-“She ordered it?” Rennic asked.
+The scout clawed at the floor. “If you make them move me again, I’ll bite somebody.”
 
-The goblin blinked. “Who?”
+The goblin looked up. “You will crack a tooth. Your bones are badly made.”
 
-Another paired blow sounded behind them. Grit sifted over the blankets. The goblin snatched up a wooden bowl and covered the wounded man’s face before the dust reached him.
+The willow was not a cage. Two padded slats held the scout’s lower leg straight, while the hoops kept blankets from touching the swelling. Blood had soaked the lowest wrapping. The knot above it was neat.
 
-Rennic sheathed his sword. “Make a litter.”
+Rennic forced the axe free and shoved it toward its owner. “How did he get here?”
 
-The spearwoman and the youngest soldier threaded two poles through a canvas sling. The goblin slapped their hands away twice, retied the support, then climbed beside the injured leg as they lifted. The healer carried a case of bone needles on a cord around their neck and a butcher’s cleaver at their belt. The cleaver made the mace-bearer stare.
+“Your wall fell on him,” the goblin said. “Then your men hit the wall again.”
 
-“For bandage,” the goblin said. “For meat. Sometimes for men.”
+“You pulled me out,” the scout added through his teeth. “I remember that much.”
 
-No one laughed.
+Rennic crouched. “Did Iskava send you for him?”
 
-They could have sent the litter back. It would take two bearers, and the breach was narrowing under falling grit even as the sappers widened the outer face. Rennic pictured the file cut in half, his target moving deeper, the third horn sounding while he tried to save one man. He pointed forward.
+The goblin stared as if the question had arrived in the wrong language. Then they tapped their own chest with two bloody fingers. “These hands found him. Iskava’s hands are busy.”
 
-“We find another way out.”
+Another tremor ran through the stairs. The goblin snatched up a wooden bowl and covered the scout’s face before grit rattled down. When it stopped, they thrust two carrying poles at the spearwoman.
 
-The wounded man shut his eyes. The goblin muttered something that sounded like a diagnosis of Rennic’s intelligence.
+“Lift under the knots. Not under the frame.”
 
-Beyond the infirmary, the ordered retreat broke apart.
+“We can take him out,” Rennic said.
 
-Goblins came through one doorway carrying sacks between them and departed by three others. A squat creature with digging claws tested a low tunnel, recoiled at its smell, and planted itself in the path until those behind chose another route. Two furred beasts dragged a grain chest in opposite directions. A horned dam shouldered through the press with a mewling young one caught gently in her jaws, then turned back into the crowd for a second.
+“Through that worm hole?” The goblin pointed toward the sleeping chamber. “His foot will stay here. Take him to the west court. There are carts.”
 
-No officer corrected them. No signal united them. They argued, shoved, yielded, returned.
+The scout’s face had gone colorless. Behind them, men outside shouted for a longer pry bar. Rennic pictured the willow frame twisting through the crawl and the broken ends grinding together. He hated that the goblin was right. He hated how quickly one correct instruction changed his route.
 
-“They’re routing by kind,” the bowman said, but his voice lacked conviction.
+“Make the litter,” he said.
 
-At the center of the chamber stood an arch filled with solid masonry. Chisel marks showed where a door had once been sealed. An old woman with blue-scaled hands stumbled toward it carrying a basket of eggs. She glanced back at the soldiers.
+The spearwoman and youngest threaded the poles through a canvas bed sling. The goblin undid their work, moved one pole the width of two fingers, and made them try again. The axeman stood with the axe across his body. The archer watched the corridor.
 
-Somewhere deeper in the ruin, a woman called, “Come through if you mean to flee them.”
+When they lifted, the scout swore once and fainted.
 
-The sealed arch darkened. The old woman stepped into stone and disappeared.
+“Still breathing,” the goblin said. “Move before your friends bury my ward.”
 
-Rennic reached it three strides later. His sword point struck mortar. He pressed his palm against a wall that had become only a wall.
+The ward opened on three corridors, all crowded.
 
-At his boots, a torn packet leaked salt. The grains had fused into one cloudy, translucent lump shaped like the spill. A goblin child darted in, scooped it up, and scolded the empty arch. “Now we need the hammer again.”
+Rennic raised his sword. The figures nearest him flinched but did not charge. Two goblins dragged a flour sack between them and argued about which way the rain had entered. A furred creature with digging claws blocked a low tunnel, coughing at the air from it, while those behind shoved and then peeled off toward a stair. A horned dam shouldered through with one young held by the loose skin of its neck. Halfway across, she dropped it beside a basket and fought back against the flow for another.
 
-The child ran on with its salt.
+There were signs, but no formation. A scaled woman waved a family toward the upper passage. They ignored her. Someone shouted that the north stair had fallen. Someone else shouted that it had only fallen for heavy feet. Packs split. Friends separated. A goblin with a spear turned around to fetch a cooking pot and was cursed from every side.
 
-“A gate,” said the youngest soldier.
+“They’re breaking by company,” the archer said.
 
-“A trap,” said the mace-bearer.
+Rennic followed the path of least resistance and found a stone arch filled with mortar. An old woman whose hands shone blue clutched a basket of mottled eggs before it. She looked over her shoulder at the soldiers.
 
-Rennic studied the branching doors. He had seen the old woman look back. He had heard the condition in the unseen speaker’s words. Flee them.
+From deeper in the House came a woman’s strained call. “If you are fleeing the breach, step now.”
 
-“She is sorting who goes where,” he said. “The rest are theater. Move.”
+Darkness hollowed the sealed arch. For an instant Rennic saw another room through it, lit by greenish lamps. The old woman stepped between the stones and was gone.
 
-He chose the corridor with the freshest claw marks. It brought them through a storehouse and robbed him of another explanation.
+The youngest gasped. Rennic reached the arch three strides later and struck solid mortar with his palm.
 
-The kingdom’s grain marks showed on half the sacks. Spears and hunting bows lay stacked beside them, along with three helmets split by heavy blows. There was guilt enough in the room. But beside the trophies hung a row of iron collars, each cut through at the hinge. Branding irons lay in a bucket of rainwater. One bore a baron’s wheat-sheaf. Another Rennic knew from the pens along the southern road.
+At his boot, one of the hanging salt packets had torn. The spill contracted with a dry ticking sound until the grains fused into a cloudy lump. A goblin child darted between Rennic and the wall, seized it, and groaned.
 
-The youngest soldier touched a brand on the wall where someone had pressed it while hot. The plaster around the mark had gone brown.
+“That was supper salt.”
 
-“Don’t,” Rennic said.
+The child ran off, already hammering the lump against the floor.
 
-The soldier snatched his fingers away.
+“The Mother opened it for her,” said the spearwoman.
 
-On a shelf, arrowheads had been sorted by size and bound into bundles. Rennic recognized the triangular hunting points used in his own valley. One winter, something had torn open three sheepfolds there and killed his sister when she ran outside with a lamp. The prints had been confused by snow and blood. The steward’s proclamation had said the Mother’s beasts took livestock to feed her army. Rennic had carried that sentence for nine years because it put a will behind the night: one mind that wanted, ordered, and could be ended.
+“And closed it for us,” Rennic answered. He had seen the old woman check behind her. The caller’s working admitted flight and denied pursuit. That was still control, only hidden in the shape of an escape. “The caller is inward. Keep moving.”
 
-He picked up an arrowhead. Brown rust crusted the socket.
+The goblin healer snorted but stayed beside the litter.
 
-“Those came out of bodies,” the goblin healer said, watching him over the litter. “Most did.”
+Fresh claw marks led into a store hall. Here, at last, lay proof that did not resemble a nursery. Grain sacks carried the kingdom’s mill stamps. Hunting bows stood bundled in a corner. A row of battered helmets hung by their chin straps, and beneath them someone had sorted arrowheads into jars. Some points were black with old blood.
 
-“And the grain?”
+The axeman stopped. One helmet bore a painted white hook across the brow.
 
-“Stolen.”
+“My son’s company.” His voice came out quiet. He pulled the helmet down. Its crown had been split nearly through. Inside, a broken chin strap had been repaired with three turns of green cord. The axeman touched the knot. “I tied this.”
 
-“The helmets?”
+The goblin healer glanced at it. “Then it was his.”
 
-“Won.” The healer showed their teeth again. “Or stolen. I mend legs, not histories.”
+“Who brought it here?”
 
-The mace-bearer touched one split helmet with two fingers. “My boy wore this crest.”
+“I don’t know.” The healer checked the scout’s pulse. “I was not here in spring.”
 
-The healer’s cut ears flattened. “Then ask whoever took it.”
+The axeman caught the goblin by the front of the apron.
 
-“You hide them.”
+Rennic put his sword edge against the man’s wrist. “Let go.”
 
-“Yes.”
+“They keep our dead on hooks.”
 
-The healer checked the injured man’s foot, pinched a toe, and watched the response. Beside them, the helmet stayed split. The splint kept the broken leg straight.
+“And your hand is crushing the one keeping ours alive.”
 
-Rennic put down the arrowhead.
+For a moment Rennic thought the axeman would make him cut. Then the fingers opened. The goblin straightened their apron and did not step away from the litter.
 
-The first horn sounded outside, its note rolling through the open courts. The sappers had set the main braces. Two signals remained.
+Beyond the helmets hung iron collars, each opened with hammer and chisel. Branding irons rusted in a rain barrel. One carried a wheat-sheaf Rennic had seen burned onto laborers along the southern road. Beside that evidence lay more stolen grain, three purses cut from belts, a child’s silver cup, and a hunter’s finger bone wrapped in wire.
 
-They found Iskava in an inner hall under a strip of darkening sky.
+Nothing in the room gave Rennic a clean innocence to defend.
 
-The old throne stood against the far wall, carved from the same black stone as the sanctuary. A woman sat upon it in a torn white dress. Her dark hair hung loose around a narrow face; iron circled her head in a fan of spikes. Creatures crowded below her. Some knelt. Others waited under side arches, clutching packs, children, tools, cages of chirping insects.
+Rennic picked up an arrowhead shaped like those used in his valley. Such a point might have killed the thing that broke his sister’s sheepfold. It might have been pulled from that thing afterward. The old proclamation had named Iskava before the snow was trampled flat, because the kingdom already had a name large enough to hold every dark print.
 
-Rennic felt the shape of the mission return. There was the seat, the supplicants, the woman at the center. The Mother of Monsters looked at him without surprise.
+“Who raids the farms?” he asked.
 
-He drew his sword.
+“Hungry people. Angry people. Fools.” The healer adjusted the scout’s blanket. “Sometimes people who live here. Sometimes not.”
+
+“And you shelter them.”
+
+“If they reach the wall.”
+
+The first horn rolled through the open ceilings. Dust trembled from the cut collars.
+
+“You don’t ask what they did?” the axeman said.
+
+At last the goblin faced him. “Not while blood is running. Lift your end.”
+
+They moved on before the axeman answered.
+
+The inner hall lay beneath a long rent in the sky. Evening had drained to violet. Creatures packed the side aisles with bundles, eggs, tools, and cages of luminous insects. Some crouched at the center. Others shouted toward ordinary doors. At the far end, beneath a fan of iron spikes, a woman in a torn white dress sat on carved black stone.
+
+For one relieved instant, Rennic saw exactly what the proclamations had promised: a throne, a court, the Mother at its head.
+
+He pushed through the waiting bodies and leveled his sword.
 
 “Iskava.”
 
-“That is mine.” Her mouth barely moved. “The other thing is yours.”
+The woman’s eyes found him. “Yes.”
 
-“Release them.”
+“Call them off.”
 
-A goblin near her barked a laugh. A feathered creature said, “Release yourself,” and chose the left-hand arch despite Iskava pointing weakly to the right.
+She looked past his blade at the four soldiers and the litter. “Your people are the only ones advancing.”
 
-No punishment followed. Iskava merely turned to a scaled youth carrying a sleeping bundle. “Not that way. The stair ends in the rain court.”
+“The creatures.”
 
-“My clutch is there.”
+“We are already leaving,” said a feathered person beside Rennic, and ducked into the left aisle.
 
-“Then go.”
+Iskava pointed after them. “That stair is broken.”
 
-The youth went. Another refugee seized its sleeve and pulled it toward a different arch. They shouted over each other until both disappeared into an ordinary passage.
+“Then I’ll climb the break.”
 
-Rennic advanced. The kneeling creatures drew back, and he saw that none knelt to Iskava. They knelt beneath the arch around her, waiting for their turn.
+They kept going. Iskava had no breath to spend arguing.
 
-The throne was no throne. Its seat had cracked away. Iskava’s back was wedged against a carved slab that sagged from the arch above her. Both hands gripped grooves in the stone. Gray whiteness had crept from her fingertips to her wrists. She braced with her legs because her feet could no longer find the floor.
+Up close, her throne lost its seat. She was wedged in the ruin of an arch, back pressed to a carved slab that leaned over the threshold behind her. Iron building pins jutted from the cracked stone around her head. Her hands gripped two grooves at shoulder height. White numbness had crept from her fingers almost to her elbows, and her bare feet dragged uselessly over the floor.
 
-“Come through if you mean to flee them,” she said.
+A black hound limped toward the arch. Through that opening lay a torchlit chamber that could not have occupied the same space as the outer wall. The hound sniffed, whined, and backed away.
 
-The arch behind her opened on darkness full of moving torchlight. The torchlight belonged to a different chamber. Three goblins carried a litter across. Then a black hound limped to the threshold and stopped.
+“Go,” Iskava said.
 
-“Go,” Iskava whispered.
+It chose an ordinary doorway instead. Nothing seized it. Nothing turned it back.
 
-The hound backed away, whining, and turned toward the side passage instead. Iskava did not force it. She could not even keep it from stepping on the hem of her dress.
+Iskava drew a thin breath. “If you are fleeing the breach, step now.”
 
-Rennic tried the arch. Cold stone met his palm where torchlight and an open room appeared to be. The view remained, impossible and close.
+The impossible room sharpened. Three goblins carried a cradle through. Salt in a wax packet at Iskava’s knee clicked and hardened.
 
-“You welcomed me when I entered,” he said.
+Rennic thrust his free hand into the opening. His knuckles struck cold stone, though he could see torchlight beyond them.
 
-“No.” Iskava’s teeth clicked on the word. “You broke my wall.”
+“Open it.”
 
-“You could send them beyond the army.”
+“Not for pursuit.”
 
-“I can send no one. They cross while escaping pursuit, if I have given shelter and they choose the step. The House bends what I open.” She nodded toward the visible chamber. “It has no will. Nor enough doors.”
+“I came inside your walls. That makes me your guest.”
 
-“If I kill you?”
+“You brought an axe.”
 
-“It closes.”
+The axeman shifted behind him. Iskava had noticed the weapon, not the grief carrying it.
 
-She did not bargain. She looked past his sword and counted those waiting. An insect-winged child had collapsed against a pillar. Its father picked it up, tried the threshold, and struck stone. The child’s head lolled against his shoulder.
+“Where are you sending them?” Rennic asked.
 
-“Awake,” Iskava told him. “I cannot carry a sleeper.”
+“The old kitchens. Then the ravine doors, if those still open.”
 
-The father shook the child, pleaded, bit its fingertip. Its eyes opened. The path opened too, and the pair staggered through. Iskava sagged lower against the slab.
+“Beyond the army?”
 
-The injured advance man raised himself on the litter. “Captain.”
+“Nothing here goes beyond stone. These broken arches let me bend one room into another. Night must do the rest.”
 
-“Quiet.”
+Her answer was too small to be the boast of a commander. Rennic kept the sword at her throat. “If you die?”
 
-“She never commanded that goblin. Little one found me alone.”
+“This threshold shuts.”
 
-The healer slapped his chest. “Lie down before I command you dead.”
+“All of them?”
+
+“All I am holding.” She looked past him. “Move the litter. You are blocking the small ones.”
+
+The spearwoman obeyed before Rennic spoke. A pair of goblin children slipped around the scout, each gripping one handle of a cooking pot. They ignored Iskava’s offered path and ran down the right aisle after someone calling for them.
+
+“You could order them to cross,” Rennic said.
+
+“I told the hound to cross. It chose a stair.”
+
+She was watching a winged child sag in its father’s arms. The father rushed the arch and struck stone. He tried again, crying out.
+
+“Wake her,” Iskava told him. “I cannot open for one who sleeps.”
+
+He rubbed the child’s hands, called into her ear, then pinched the web between two fingers. Her eyes fluttered open. The threshold showed the torchlit room, and the father carried her across. Iskava’s shoulder slipped lower under the slab.
+
+The scout stirred on the litter. “Captain.”
+
+“Save your strength.”
+
+“The healer didn’t know who I was.”
+
+The goblin pressed him down. “I knew you were heavy. I know it better now.”
 
 The second horn sounded.
 
-Rennic knew its exact meaning. The eastern crack was wide enough for two abreast. The third signal would send the shield column through. Once the hall filled with soldiers, every figure before them would become a type again: fangs, horns, claws, target. No one in a packed breach could afford the time Rennic had spent being wrong.
+Every soldier in Rennic’s file knew the signal. The oak jaws were set. At the third note, the main column would enter two abreast and widen the passage with shields. They would meet claws, fangs, old weapons, stolen grain. No one packed into that tunnel would stop to ask who carried eggs or whose hands had tied a splint.
 
-The mace-bearer raised his weapon. “Finish it.”
+The axeman stepped beside Rennic. “Do it.”
 
-Iskava turned her head toward the next refugee. It was the old woman with blue-scaled hands, back again without her egg basket. She carried a goblin child now.
+Iskava did not look at the sword. “Next.”
 
-“You crossed already,” Iskava said.
+The blue-handed old woman appeared from the right aisle without her basket of eggs. She had returned for one of the pot-carrying children, who kicked furiously under her arm.
 
-“Missed one.”
+“Put me down!”
 
-“Of course you did.”
+“You left your brother.”
 
-The old woman stepped through.
+“He left me.”
 
-Rennic saw how to end the mission. One stroke. The target could not lift a hand to stop him. His sister would remain dead. The split helmets would remain split. Tomorrow’s proclamation would call the surviving refugees a scattered enemy, and the next captain would count their flight as proof of organization.
+They quarreled all the way through the arch. Iskava’s lips had gone gray by the time it closed behind them.
 
-He sheathed his sword.
+Rennic could end her. He could not end the raids already made, nor name who had killed his sister, nor return the axeman’s son. He could only make the next dead certain.
 
-“Back to the breach,” he ordered.
+He lowered his sword. “Back to the breach.”
 
-The file obeyed from habit. They carried the wounded man at a punishing pace while the goblin healer trotted beside the litter, swearing each time it jolted. Refugees pressed themselves against walls to let the soldiers pass. Some hissed. One threw a cup. The mace-bearer came last, saying nothing.
+The axeman caught his shoulder. “That is not the order.”
 
-At the sleeping chamber, the eastern wound had grown tall enough to show helmets beyond it. Three sapper posts held the cracked lintel while an iron pin locked their crossbrace. When the pin came free, the sappers would replace the frame and pull away another course of stone.
+“It is mine while you stand in my file.”
 
-Rennic set his hand on the pin.
+They carried the scout at a run. The goblin healer kept one hand on the splint and swore whenever the litter tipped. Refugees flattened against walls, baring teeth or lifting weapons as the soldiers passed. Rennic did not pretend they trusted him. Behind them, Iskava’s call grew fainter, but other voices took up directions through the halls.
 
-The bowman understood first. “Captain, no.”
+In the sleeping chamber, the eastern gap stood as tall as a man’s chest. Helmet crests moved outside. The sappers’ two oak jaws bit the broken wall; a crossbar joined them, held by an iron retaining pin and a hooked safety dog. On the next pull, they would brace the upper courses and drag the lower blocks clear.
 
-“Third horn is moments away. Anyone going out, go now.”
+Rennic had built breaches before. If the safety came loose first, the cracked courses would fold inward and fill the opening.
 
-“What do I report?”
+He pointed the litter behind a stone bed platform. “Down there.”
 
-“What you saw.”
+The spearwoman moved without question. The youngest followed, then looked back toward the gap where daylight still showed.
 
-The bowman looked back through the rooms, then ducked into the breach.
+Rennic put both hands on the iron dog. “This wall is coming in. Choose which side you want.”
 
-The youngest soldier followed him as far as the opening, stopped, and returned to the litter. The spearwoman planted her shield over the wounded man against falling debris. She did not look at Rennic.
+The archer stared at him. “What do I tell them?”
 
-The mace-bearer caught Rennic’s wrist. “My boy is in that storehouse.”
+“Tell them the target is holding the escape open. Tell them I saw it.”
 
-“His helmet is.”
+“They’ll hang you.”
 
-“You think that matters?”
+“If they get the wall down.”
 
-“I think killing her kills everyone who hasn’t crossed.”
+The archer slid through the breach. The youngest took two steps after him, heard the scout moan, and went back to the litter instead.
 
-“They killed ours.”
+The axeman remained between Rennic and the pin. He still carried his son’s helmet under one arm.
 
-“Some did.”
+“You found a room full of collars,” he said. “I found this.”
 
-The mace-bearer’s grip tightened. He had understood every room. Understanding had changed nothing he was willing to do.
+“Keep it.”
 
-“Then go out,” Rennic said.
+“And let them run?”
 
-The man struck him in the mouth. Rennic tasted blood and drove his shoulder under the man’s chest. They hit the wall together. The iron pin shifted a finger’s width; the lintel groaned. Outside, sappers shouted.
+Rennic set his feet. “Get outside.”
 
-The mace-bearer went still. Rennic released him.
+The axeman swung the helmet. Its rim struck Rennic across the mouth. Rennic drove forward before the axe could come around, trapping the haft between their bodies. They hit the crossbar together. Timber groaned; outside, a sapper shouted.
 
-For one breath, the man stood between the army and the ruined rooms. Then he shoved himself through the breach after the bowman.
+The axeman’s face was wet, though whether from dust or grief Rennic could not tell. “My boy is dead.”
 
-Rennic looked at the two who remained. “I can’t order this.”
+“Yes.”
 
-“Good,” said the spearwoman. “Pull.”
+The third horn drew breath outside.
 
-They dragged the litter clear. Rennic kicked the retaining hook loose and hauled on the pin with both hands. It came out hot from friction. The crossbrace snapped sideways.
+The axeman twisted free and shoved through the opening, taking the helmet with him. Rennic dropped to one knee, kicked the safety hook upward, and hauled the retaining pin. It moved a finger’s width, stopped, then tore free hard enough to throw him backward.
 
-The eastern wall folded inward.
+The oak jaws snapped apart.
 
-Stone struck stone with a noise too large for the chamber. Dust swallowed the beds, the little coat, the clay bird with too many wings. Rennic curled over his head as blocks rolled past. A timber post clipped his shoulder and spun him to the floor.
+The eastern wall came down into the room.
 
-When the thunder ended, the breach was a slope of broken masonry packed to the ceiling. A blade poked once through a gap, withdrew, and could not find it again.
+The roar crushed every smaller sound. Blocks broke the sleeping platforms and buried the empty coats. Dust erased the doorway. Rennic covered his head as a timber spun over him and struck the floor. The spearwoman had her shield over the litter; the youngest lay beneath its edge with the scout.
 
-The third horn sounded outside.
+When the air cleared enough to breathe, broken masonry filled the breach to the vault. A sword blade probed once through a crack no wider than a palm, scraped stone, and withdrew.
 
-No column came.
+The third horn sounded.
 
-They returned to the inner hall by torchlight. Rennic’s left arm hung numb. The spearwoman and the youngest soldier bore the litter. The goblin healer walked ahead, cleaver drawn now. “Wall-dropper coming,” the healer called. “Still armed. Give space.”
+No column followed it.
 
-Only a few remained at Iskava’s arch. She could no longer speak. Each crossing left her shuddering. The gray pallor had reached her throat.
+They returned to the inner hall by lamplight. Rennic’s mouth bled, and his right hand would not close. The goblin healer went ahead with the cleaver drawn.
 
-A six-legged beast went through carrying two sacks of grain and came back without them. It lowered its body beside an old goblin who could not walk. The goblin climbed on, and the beast carried them both to the arch.
+“Litter coming,” they called. “Make room.”
 
-The last was the horned dam. She arrived with one young in her jaws and another nudging her hind legs. At the threshold she set the first down, pushed both ahead, then hesitated. The distant chamber wavered.
+The nearest refugees did.
 
-Iskava’s fingers slipped in the stone grooves.
+Only a handful waited at Iskava’s threshold. She could no longer form the call. Each time someone crossed, the torchlit room dimmed and the white numbness climbed higher along her arms.
 
-Rennic put his good shoulder against the sagging slab. It was only masonry. He could hold that much.
+A six-legged beast came back through the arch without its packs. It crouched beside an old goblin whose legs were bound in leather braces. The goblin climbed onto its back. Neither looked to Iskava before they crossed.
 
-The dam gathered both young and crossed. The arch became solid. Iskava folded where she sat, the iron spikes sliding from her head and ringing across the floor.
+Last came the horned dam, one young in her mouth and the other stumbling against her forelegs. She set the first down at the threshold. The impossible room flickered. Iskava’s fingers slid from one groove.
 
-The refugees already beyond the threshold moved on through the deep chambers, their torchlight thinning along several routes. Those left in the hall lifted Iskava away from the cracked seat. They would not let Rennic touch her.
+Rennic put his good shoulder under the leaning slab. Stone settled against mail and drove him to one knee. He could not open a path. He could hold up rock.
 
-The goblin healer knelt beside the wounded soldier and cut away the blood-soaked wrapping. “You,” the healer said to Rennic.
+The dam took one young gently by the neck and pushed the other ahead with her muzzle. The three stepped through. The arch filled with ordinary black stone.
 
-Three goblins turned at once.
+Iskava folded sideways. Three refugees caught her before her head touched the floor. When Rennic reached out, a feathered hand struck his away. They lifted her without him and disappeared down the western aisle.
 
-“Big longbones with the bad face. Hold this.”
+The goblin healer knelt beside the scout and sliced through the soaked bandage. “Captain. Here.”
 
-The healer gave him the end of a fresh bandage. Rennic sat below the wall he had dropped and drew the cloth taut while the healer bound his soldier’s leg. Around them, refugees shouldered bundles into the dark without waiting for Iskava to wake.
+Rennic took the clean strip they thrust at him.
 
-From somewhere beyond the buried breach came the scrape of shovels. Then, farther along the Roofless House, iron picks began testing another wall.
+“Pull until I say.”
+
+He pulled. The scout woke and cursed him. Around them, the last refugees carried their own bundles into the dark, following a dozen voices and none of them Iskava’s.
+
+Before the healer tied the knot, iron picks began sounding against another wall.

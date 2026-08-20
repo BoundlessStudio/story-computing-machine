@@ -7,234 +7,326 @@ canon: false
 
 # The Thousandth Fall
 
-The litter reached the monastery after midnight, with rainwater running from its poles and four exhausted novices stumbling beneath it. Cavori took the front before anyone asked. The climb had emptied the bearers. It had not emptied him.
+The thousandth fall was appointed for sunset. At dawn, Cavori was still one short.
 
-He carried the injured traveler up the last three flights of cliff stairs at a run.
+He ran the cliff stairs in rain, bare feet finding edges worn round by generations of sandals. The lower gate stood eight hundred steps below the monastery. He touched its iron latch, turned, and reached the upper court before the breakfast bell had finished its first peal. The sound seemed to hang in the air behind him.
 
-In the infirmary, the monks cut away a trouser leg black with mud. The traveler's boot had twisted backward beneath a fallen cart, and the cold had worked into him during the slow ascent. Cavori stood ready beside the cot, breathing hard, his palms shining with the faint amber light of his gift. He could close the split skin on his own shoulder where the litter pole had rubbed it raw. He could quiet the strain in his back and make his lungs stop burning. He could not turn that light outward.
+Fall nine hundred ninety-nine waited at the end of the west parapet.
 
-By dawn, the infirmarian had saved the traveler's life but not his crushed foot.
+Cavori crossed the court, planted a foot on the wall, and went over. For one clean instant there was only his robe beating around his legs and the wet roofs dropping away beneath him. Then his shoulder struck the sloping tiles of the bakehouse. He rolled, caught the gutter, tore it loose, and dropped another twelve feet into a stack of empty flour baskets.
 
-“If we'd reached him sooner,” Cavori said.
+Amber light pulsed beneath his skin before the baskets stopped bouncing. He held the healing open while bruised breath returned to his lungs and a weakness in his shoulder became heat, then strength. When he climbed out, the gutter in his hand felt as light as a reed.
 
-The infirmarian washed blood and road grit from her hands. “Then we would have had more choices.”
+He carried it back to the roof. The infirmarian was waiting below with her hood down and rain silvering her cropped hair.
 
-It was not blame. Cavori received it as a task.
+“How many fingers?” she asked.
 
-The storm worsened after sunrise. Wind pried a slate from the infirmary roof, then three more. Water sheeted down an interior wall. They were shifting the patients when a roof brace cracked above the center aisle.
+“Nine hundred ninety-nine.”
 
-Cavori heard it before he saw it: a splintering groan, deep enough to feel in his teeth. He lunged beneath the beam and caught it.
+“Mine.” She raised a hand.
 
-The weight drove him to one knee.
+Cavori looked. “Three.”
 
-Someone shouted. The remaining slates sagged overhead. Cavori put both hands under the wet timber and pushed while the infirmarian shepherded patients toward the door. His shoulders flared with pain. Something inside his left arm gave a sickening little pull.
+She lowered one finger. “Now?”
 
-Amber light rose over his skin.
+“You can stop.”
 
-His gift usually answered injury after the harm was done. This time he did not release the beam. The magic closed what the load tore, and the load tore it again. Heat poured through him in waves. Each breath scraped; each breath cleared. He rose from his knee.
+“Two, then. You sent your witness away.”
 
-“Last one!” the infirmarian called.
+“His dawn duty began.” Cavori fitted the gutter against its broken brackets and pinched the bent iron straight with his thumb. “I knew where I was landing.”
 
-Cavori held until the final cot passed outside. Then he threw himself aside. The brace struck the flagstones hard enough to crack one.
+“You removed part of the roof on the way down.”
 
-He lay listening to the roof settle. His arms trembled, but they did not feel ruined. They felt frighteningly ready.
+“I’ll mend it.”
 
-When he stood, he gripped the fallen beam. It should have taken six monks and a lever to move. Cavori lifted one end clear of the floor by himself.
+“That answer is becoming a disease.”
 
-The infirmarian stared at the space beneath it. “Put that down.”
+She caught his wrist when he dropped to the ground. Cavori could have broken her grip without noticing. He went still because she had been the first person to see what his gift became when he used it wrong.
 
-He did, carefully. “I think I healed wrong.”
+“No swelling,” she said, turning his arm. “No tremor.”
 
-The abbot heard his account in the rain barrel room because it was the only dry chamber not filled with patients. Cavori demonstrated with a stone grain weight that had defeated him since his novitiate. He lifted it, let strain gather, and called his magic without ending the effort. The amber glow came. The ache remained, but the weakness receded. When the light faded, he shifted the weight to one hand.
+“That is the point.”
 
-The abbot's face remained still. The infirmarian's did not.
+“The last three falls changed nothing I could measure. What was this one for?”
 
-“Healing returns the body to itself,” she said. “Yours has decided this is itself now.”
+He glanced toward the tally wall. Nine hundred ninety-nine white cuts crossed the gray stone in crowded rows. “That sunset will be enough.”
 
-“Then I can change what it returns to.” Cavori heard the wonder in his voice and did not try to hide it. “I could have carried that traveler from the lower road alone. I could have been there before the cold set in.”
+She released him. “Enough for what?”
 
-“You could also have broken beneath the beam,” the abbot said.
+The breakfast bell stopped. Cavori had no answer smaller than everything, so he went to repair the gutter.
 
-“But I didn't.”
+* * *
 
-“Pain warns you to stop. You have found a way to keep moving after the warning while the danger continues. That is the wrong way to use a mercy.”
+Before the count, there had been a man on a litter.
 
-Cavori looked at the weight balanced in his hand. “Is it wrong if it gets me there in time?”
+Four novices carried him up from the cliff road during the first hard storm of spring. Cavori took a pole at the lowest gate and drove himself upward until two novices had to run beside the litter to keep it level. By the time they reached the infirmary, his palms were split and the stranger’s foot was gray with cold.
 
-The abbot considered him for so long that the rain seemed to fill the room. At last he allowed trials, bounded by witnesses, food, sleep, and the infirmarian's right to end any session. Cavori agreed before the conditions were finished.
+Cavori’s gift mended the hands that had carried him. It could do nothing for the man on the cot.
 
-They began with the cliff stairs.
+The infirmarian worked until morning. She saved the traveler’s life. She could not save the foot.
 
-He climbed until his legs failed, keeping the amber warmth moving through them. The first time, he stumbled at the seventieth step and struck the wet stone. The infirmarian made a mark in a ledger.
+“If I had reached him earlier,” Cavori said as she scrubbed road grit from her knives.
 
-“Why record that?” he asked.
+“If anyone had reached him earlier, I would have had more to work with.”
 
-“Because you will remember the ascent and forget the fall.”
+Anyone. Cavori heard the word and disliked its looseness. Anyone might be old, frightened, asleep, occupied elsewhere. He had wanted an answer with hands.
 
-On the next climb he passed the seventieth step without slowing. He reached the upper gate, ran down, and climbed again.
+The storm gave him one before noon.
 
-The ledger gave him an idea he mistook for humility. He cut a tally into the practice-yard wall for every genuine collapse, every lost footing, every moment his body would have stopped without his gift. If there were a thousand marks and he still stood, he thought, no one could call the method reckless.
+Water had softened a roof support above the crowded infirmary. It split while they were moving the cots. Cavori stepped beneath the descending timber and caught it across both palms. The weight folded him to one knee. Patients cried out. The infirmarian shouted for the door to be cleared.
 
-At first the gains came in small astonishments. A water jar felt lighter. The stair landings arrived sooner than expected. He could hold healing through an entire morning instead of losing focus after a few breaths.
+His healing had always come after: after torn skin, after fever, after the breathless instant when hurt became a finished fact. With the beam grinding down, Cavori refused to give it that instant. He pulled the living warmth through his arms while they were still failing.
 
-Then the astonishments grew.
+He closed each hurt into the shape he demanded of his body. The load opened new ones. Cavori kept healing.
 
-He shouldered a stone lintel while the masons reset its supports. He ran beside a supply cart when its brake failed, passed it on the downhill road, and reached the bend with time to drag a timber across the track. He carried two full water barrels up the cliff stairs, one under each arm, without spilling enough to wet his sandals. The amber light ceased to flicker. It became a steady radiance, as constant as his pulse.
+He rose.
 
-His speed multiplied with his strength. Every repaired stride began where the last impossible stride had ended. Soon novices heard the slap of his sandals on the lowest stair and turned to find him already at the gate. Soon he could sprint to the valley floor and return before the kitchen bell finished calling the community to breakfast.
+By the time the last cot passed through the doorway, he was holding a roof beam no six monks could have lifted. When everyone was clear, he lowered it instead of letting it crash. His arms continued to burn with amber light after the weight was gone.
 
-His stamina became harder to measure. He moved stones all afternoon after running since dawn, took an evening watch for a feverish brother, then joined the bakers before sunrise because carrying flour no longer tired him. He accepted every request with relief. A burden carried was a danger someone else did not have to face.
+The infirmarian made him sit on the floor.
 
-If he sat still, though, the old night returned: the litter poles slick beneath his hands, the injured traveler shivering while the stairs delayed them. Cavori had begun training because one person had needed him sooner. He continued because stopping felt too much like consenting to the next late arrival.
+“Let it finish,” she said.
 
-The monastery adjusted around him. A cracked cistern needed lifting? Send Cavori. A novice had left medicine at a roadside shelter? Cavori could fetch it before the kettle boiled. Three crews were needed to clear stormfall? One monk would do.
+“It has.”
 
-The infirmarian still ordered rest. Cavori learned to appear restful. He sat cross-legged in the courtyard while sustaining the warm current beneath his robe. He reported soreness but not how quickly it vanished. He ate the prescribed meals, then trained while others slept.
+She put a stone mortar in his hands, one heavy enough that he normally carried it against his chest. He lifted it with two fingers.
 
-The marks accumulated: three hundred; six hundred; nine hundred.
+Neither of them spoke for a while.
 
-He stopped asking why each task was his. That seemed less important than the fact that he could finish it. When other monks reached for a load, he was already lifting. When they tied ropes, he trusted his hands instead. He did not notice how often help arrived after he had made it useless.
+The abbot came to the ruined infirmary and listened without interrupting. Rain dripped through the open roof between them. Cavori demonstrated once, pressing up on the fallen beam while he directed his healing through the effort. The amber warmth returned. The beam rose farther.
 
-Fall nine hundred ninety-nine came in an empty practice yard at dusk. Cavori leaped from the parapet, landed badly on purpose, and caught himself with one hand. Amber light flashed. Stone dust burst beneath his palm.
+“Wrong,” the abbot said.
 
-He rose to make the mark and found the abbot standing beside the wall.
+Cavori nearly laughed. “You saw what it did.”
 
-The old tally cuts made a rough gray field. The newest gleamed white.
+“I did.” The abbot crouched to look him level in the face. “Your gift used to repair you after danger. Now you are teaching it to preserve what danger makes of you.”
 
-“You dismissed your witness three hours ago,” the abbot said.
+“A stronger body.”
 
-“The session ended. This was one jump.”
+“A body still beneath a roof.”
 
-“It was one lie.”
+Cavori looked past him to the empty cot where the traveler had lain. “Next time I can reach the road before the cold does.”
 
-Cavori placed the chisel at the next empty space. “Tomorrow I'll take the thousandth fall with the whole monastery watching. Then we can stop pretending I am one bad step from disaster.”
+The infirmarian tapped the mortar out of Cavori’s fingers. “Next time you may not notice that you’ve stopped thinking.”
 
-“Nine hundred ninety-nine falls prove that your flesh can close around nine hundred ninety-nine mistakes.”
+They permitted him to explore the inversion only because forbidding it would have sent him to the stairs alone. The infirmarian watched. The abbot limited each trial. Cavori made the first tally mark the day his legs ceased to answer halfway up the cliff and he forced them back into motion with healing.
 
-“They prove more than that.”
+“Record the falls,” the infirmarian had told him, “or you’ll remember only what you lifted afterward.”
 
-“Not that your judgment heals. Not that your attention is endless. Not that every burden belongs to you.”
+He obeyed with great care and misunderstood her completely.
 
-Cavori drove the chisel harder than necessary. “The traveler on the storm road did not need my judgment. He needed me to be faster.”
+At fifty falls, he could carry a water barrel under either arm. At two hundred, he could overtake a loose cart on the lower road and turn it aside before it reached the pilgrim shelters. At five hundred, he raised a cracked gate lintel while the masons rebuilt its supports around him. His strength grew out of the same wrong healing as his speed: each impossible effort became the next effort’s beginning.
 
-“And now you believe every suffering person needs you first.”
+His stamina changed last. He learned to hold the amber current through a whole morning, then through a day, then from one dawn to the next without a break in his stride. The warmth no longer fluttered when he tired. It ran steadily beneath his skin while he hauled stone, climbed the cliff, and returned to haul again.
 
-“If I can reach them first, why shouldn't I?”
+The monastery found uses for him faster than he found limits.
 
-“Because speed is not permission. Because strength is not wisdom. Because if you make yourself into a tool, eventually everyone here will learn to use you like one.”
+A load of winter grain arrived late; Cavori carried every sack before the carter had unhitched the mule. A novice forgot medicine at a road shelter; Cavori fetched it while the kitchen water came to a boil. A storm felled pines across the stairs; work crews arrived to find the path cleared and Cavori already sweeping needles from the stone.
 
-The road answered with a sound like distant thunder.
+At first, the requests pleased him. Later, no one needed to ask. He saw the bowed axle, the full basket, the frightened messenger, and was moving before another person chose what to do.
 
-Both men turned.
+The infirmarian ended a trial when his answers slowed. Cavori waited until she slept and resumed it. The abbot required witnesses. Cavori chose exercises too quick for witnesses to reach. Every hidden failure still earned an honest cut in the wall. Honesty, he discovered, could become another place to hide.
 
-Along the outer wall, warning bells began to ring. A novice on the gate tower pointed down the cliff. The rain-softened road had broken beneath a returning party of pilgrims and their escorts. A slab of earth was sliding toward the lower bend, gathering stones and uprooted brush. Figures scattered before it.
+By the time he reached nine hundred ninety-nine, the monks did not plan urgent work without leaving a space shaped like him.
 
-Cavori dropped the chisel.
+* * *
 
-The abbot caught his sleeve. For one sharp instant Cavori expected an order to stay.
+The abbot found him at the tally wall an hour before sunset. Cavori had set a chisel beside the final blank place. Beyond the parapet, rain dragged veils across the cliff road.
 
-“Find them,” the abbot said. “We will bring ropes.”
+“The infirmarian says you fell from the west wall alone.”
 
-Cavori ran.
+“She saw the landing.”
 
-The gate vanished behind him. Stairs blurred into a gray ribbon beneath his feet. He passed the first tumbling stones, then the dust front, then the leading edge of the slide itself. Gravel hissed around his ankles. He ran faster.
+“Afterward.”
 
-At the lower bend, six pilgrims were staring uphill, frozen by the moving earth.
+Cavori wiped stone dust from the chisel. “Stand here for the next one. Then it satisfies your rule.”
 
-“Into the trees!” Cavori shouted.
+“What does the number satisfy?”
 
-One man pointed to an overturned handcart. An older pilgrim lay pinned beneath its axle. The hillside buckled fifty paces away.
+“You’ve asked me that before.”
 
-Cavori lifted the cart with one hand, gathered the injured pilgrim with the other, and carried him to the trees. He went back for the man who had stopped to help, then for a novice whose ankle would not bear weight. On his fourth crossing, the landslide swallowed the bend.
+“You keep answering with arithmetic.”
 
-It did not catch him.
+Cavori pointed at the crowded marks. “Every one is a moment my body failed. Every one ended with me stronger. At a thousand, that is no longer luck.”
 
-He ran uphill through the boiling dust, carrying two people. Stones struck his back and bounced away. The amber light poured from his arms and legs, mending each blow while his stride continued. He left the pilgrims above the break and raced down again before the stones he had dislodged reached the road.
+“I have never called your strength luck.”
 
-There was no pause in him now, no shortening stride or desperate reserve saved for later. He made the ruined distance six more times while the cliff continued to move. He bore an injured pilgrim uphill, returned for packs containing medicine and blankets, then returned again because a novice swore someone had called from the dust. Cavori searched every ditch and splintered cart until he found the missing woman already climbing with another pilgrim's arm around her. He did not take her away. He matched their pace until they reached firm ground, then vanished downhill once more.
+“You call it wrong.”
 
-The remaining novices had taken shelter on a narrow section of paving that jutted from the cliff. A stone span connected it to stable ground. As Cavori reached them, the span cracked across its middle.
+“Because you have made pain too quiet to advise you.” The abbot touched the newest cut, not the empty space. “And because nine hundred ninety-nine repairs have not improved your judgment by a finger’s width.”
 
-He caught the falling half on his shoulders.
+Cavori picked up the chisel. “The man on the litter needed speed, not judgment.”
 
-For an instant the world became weight. Blocks the size of grain chests pressed him knee-deep into mud. The broken paving trembled behind him, holding three novices and a pilgrim above a steep drop.
+“He needed four novices to keep the litter level while you tried to outrun them.”
 
-Cavori straightened.
+“I could carry him alone now.”
 
-Stone ground against stone. Amber light shone through the rain in sheets. He raised the span until its upper surface met the stranded section, making a crooked bridge of his back and the ruin he carried.
+“I know. Suppose another litter reaches the lower gate tomorrow and a novice takes the front pole. Can you walk beside him without taking it?”
 
-“Cross,” he said.
+“If the patient is dying?”
 
-The youngest novice crawled toward him and stopped. “Brother, it will crush you.”
+“On this road? Always. Answer me.”
 
-“It is trying.” Cavori set his feet deeper. “Go.”
+Cavori’s thumb pressed a crescent into the chisel’s wooden handle. He turned toward the parapet, already choosing a height, a landing, a final mark that would make argument unnecessary.
 
-The pilgrim crossed first, dragging one leg. Then one novice, then another. Cavori felt each footstep through the slab. He heard the rescue party arriving above: the abbot calling positions, the infirmarian demanding anchor knots, a dozen voices answering.
+The cliff moved.
 
-The youngest novice remained. The paving beneath him tore loose.
+It began as a shudder under his bare feet. Then came a deep, splitting report from below the lower gate. The outer edge of the road dropped out of sight. A bell at the watch post clanged twice, paused, and clanged without rhythm.
 
-He fell without a sound.
+Along the next switchback, people were running uphill from a returning pilgrim party. Behind them, a brown wall of earth folded trees into itself.
 
-Cavori's body gathered itself to follow. For months, that had been enough: see a burden, become the answer. But he still held a broken road above three rescuers edging down with ropes. If he released it too early, his speed would save one person and bury the rest.
+Cavori let the chisel fall.
 
-“Take the weight!” he shouted.
+The abbot did not reach for him. “Go.”
 
-Ropes dropped around the span. Hands hauled them taut. Cavori waited until he felt the pull settle through every line.
+Cavori was already gone.
 
-Then he let go and jumped.
+He crossed the upper court before the chisel hit the paving.
 
-The novice tumbled below him, robe snapping in the wind. Cavori drove himself from the cliff face, struck a spur of rock, and leaped again. He fell faster than gravity could take the boy.
+Rain came toward him like thrown gravel. He took the cliff stairs in great descending leaps, one hand skimming the wall to turn his speed. At the lower gate he saw the first boulder break through the mist above the road. It bounced once, high as his chest, and filled the passage.
 
-He caught him just above a lower ledge.
+Cavori ran at it.
 
-Cavori twisted so his own back met the stone. The impact emptied the world of light and sound.
+Amber light poured through his legs. He struck the boulder with his shoulder and drove it sideways through the parapet. It vanished into the ravine. He did not slow enough to watch it fall.
 
-Then the amber glow returned.
+The returning party had split around an overturned handcart. Two pilgrims had made the inner shelter. A novice knelt at the axle, trying to free an older woman whose robe was trapped beneath it. Farther down, one pilgrim limped alone. Two novices hauled each other uphill. At the old span, another pilgrim crouched beside someone who was not moving. The sliding earth was less than a hundred paces behind them.
 
-It moved slowly at first, warm through the crushing dark. Breath came back. Rain touched his face. The novice was curled safely against his chest, sobbing hard enough to shake them both.
+“Leave the cart!” Cavori shouted.
 
-High above, the ropes held. The rescuers had the broken span. No second collapse came roaring after them.
+“Her leg is under it!” the novice shouted back.
 
-Cavori looked up the cliff at the tally wall he could not see.
+Cavori reached them, lifted the loaded cart over his head, and hurled it onto stable ground above the shelter. The novice stared.
 
-“One thousand,” he whispered.
+“Free the cloth,” Cavori said. “Then hold her leg steady.”
 
-The number felt nothing like proof.
+They pulled the robe clear. Cavori gathered the woman into his arms, and the novice ran beside him, supporting her injured leg as the first wave of mud swallowed their footprints.
 
-He could have climbed out carrying the novice. His fingers already found holds in the slick rock; his legs had strength enough. But a rescue rope descended, knocking pebbles from the ledge, and the infirmarian's voice followed it.
+He set them behind the gate and turned down again.
 
-“Secure the boy first!”
+The abbot and a dozen monks were arriving with coils of rope. One thrust a loop toward Cavori. He passed it without taking it.
 
-Cavori obeyed. He tied the novice into the waiting sling and watched the others raise him. When the rope returned, Cavori fastened it around himself.
+“There are five below,” he said. “One limping. One down. The old span is cracking.”
 
-“I can climb,” he called.
+“We’ll anchor here,” the abbot called after him.
 
-The abbot leaned over the edge, rain streaming from his hood. “We can pull.”
+Cavori outran the next collapse.
 
-Cavori considered refusing. Then he sat back in the harness and let the community lift him.
+He brought the limping pilgrim up on his back. He returned for two novices, carrying one beneath each arm when the road vanished behind their heels. He ran down a fourth time because two people remained. He found the last pilgrim crouched under the inner wall, refusing to leave a novice who had fallen across his pack.
 
-They fed him in the infirmary after the injured were settled. The amber light had repaired what the fall had done, but the infirmarian examined him anyway. Cavori answered every question. He drank the bitter broth she put in his hands. He slept until the next afternoon.
+“Take the pack,” Cavori told him.
 
-When he woke, the abbot was seated beside the cot with the fall ledger closed on his lap.
+“Take the boy.”
 
-“Will you forbid it?” Cavori asked.
+“I can take both.”
 
-“Would you obey?”
+“Then stop talking.”
 
-Cavori thought of secret midnight climbs and pain converted into numbers. “Not a simple prohibition.”
+Cavori almost smiled. He gathered the unconscious novice against his chest and hooked the pilgrim around the waist with his other arm. The ascent should have emptied him. Instead, the continuous healing made every stride as forceful as the first. Mud dragged at his ankles; rain erased the stairs; stones struck his back. He reached the old span without losing speed.
 
-“Then we require a wiser rule than either of us brought to the practice yard.”
+Then the span broke.
 
-They made one before Cavori stood: no unwitnessed training, no hidden healing, no task assigned to him merely because he could endure it, and no assumption that another body would answer magic as his did. The infirmarian retained the right to stop him. Cavori gained the right to refuse.
+The road crossed a narrow cleft on an arch of fitted stone. Its outer half sagged, opening a black seam from parapet to cliff. Cavori set down the people he carried on the near side. Above the crack, rescuers threw ropes and shouted for them to wait.
 
-They left the thousand marks in the wall, not as instruction but as warning.
+The stones shifted again.
 
-The next morning, Cavori returned to the broken road. A rescue stone still blocked the path, broad enough that the work crew had set rollers and three hauling ropes around it. He could have thrown it into the ravine. Instead he crouched, lifted just enough for the others to slide the first roller underneath, and held it there.
+Cavori drove both hands beneath the sinking edge and lifted.
 
-Amber light gathered around his hands. The stone weighed less than the breakfast tray had once weighed.
+Half a road settled onto his shoulders. The force punched his feet through the paving to the buried rock below. Amber light blazed along his arms. He pushed until the broken surface rose level enough to cross.
 
-“Ready,” called a novice at the ropes.
+“Now,” he said through his teeth.
 
-Cavori waited until every worker had found footing.
+The conscious pilgrim crawled over first. Three novice rescuers edged onto the broken surface from stable ground and drew the unconscious novice across between them. Weight traveled through Cavori in hammer blows. He repaired each fresh strain and bore the next.
 
-“Together,” he said.
+He could have held the road until morning.
+
+The thought was barely formed when the inner wall burst. Water and stones struck the far side of the arch. A novice near the parapet lost his footing and slid over the edge.
+
+Cavori saw his hand vanish.
+
+Every trained part of him chose the jump. Release the road. Turn. Catch him. Be the answer before anyone else could move.
+
+But two rope bearers still knelt on the slab above Cavori’s shoulders, the unconscious novice between them. If Cavori left, the same stones he carried would take all three into the cleft.
+
+He stayed.
+
+“Ropes on the arch!” he shouted. “Not on me. Take the weight.”
+
+The abbot understood first. He sent one line around the remaining parapet and another through a gap between stones. The infirmarian dropped to her stomach in the mud, reached beneath the road, and forced a third rope around the slab pressing Cavori’s left shoulder.
+
+Below, the falling novice struck a scrub pine and broke through its branches. He was still moving.
+
+“Faster,” Cavori said.
+
+“Then hold still,” the infirmarian snapped. “You’re sawing the line.”
+
+Monks hauled. The ropes stretched until water sprayed from them. Cavori felt the load change—not disappear, not become safe, but spread into other hands and anchored stone.
+
+“Ours!” the abbot shouted.
+
+Cavori lowered his left shoulder a finger’s width. The slab followed. “Not yet.”
+
+The abbot planted both heels, took another wrap around the parapet, and looked along the line of straining monks. “Again.”
+
+The ropes rose. Stone lifted clear of Cavori’s shoulder.
+
+“Now,” the abbot said.
+
+Cavori let go.
+
+The anchored ropes caught the arch. He turned in the same motion and ran three steps across falling stones. The edge crumbled beneath his last stride. He launched himself into the ravine.
+
+The novice tumbled below, slowed by branches but nearing a bare ledge. Cavori could not fall faster by wanting it. He twisted in the air, struck one foot against the cliff, and drove himself downward. Rock cracked under the push. Amber fire streamed from his heel to his spine.
+
+He passed the falling novice.
+
+For an instant Cavori was beneath him with nothing under either of them. Then Cavori caught the boy around the ribs and turned. His own back struck the ledge.
+
+The impact extinguished the rain.
+
+Warmth returned first. Cavori drew it through himself while the mountain seemed to press from every side. His lungs opened. His hands closed securely around wet cloth. Sound came back as a single ragged breath against his neck.
+
+The novice was alive.
+
+Above, the broken arch still hung in its web of ropes. The pilgrims were across. No one else fell.
+
+A rescue line snaked down the cliff and slapped the ledge. Cavori caught it. His arms were strong enough to climb while carrying the novice, and the route above was plain to him.
+
+He tied the line around the boy instead.
+
+“Ready!” he called.
+
+They hauled the novice up. Cavori remained on the ledge, amber light fading from his skin, until the rope descended a second time.
+
+The infirmarian leaned over the cliff. “Can you stand?”
+
+Cavori stood.
+
+“Can you climb?”
+
+He looked at the holds, then at the loop waiting in his hand. “Yes.”
+
+“That was not an invitation.”
+
+This time he fastened the rope around himself. Other people took his weight.
+
+* * *
+
+The infirmarian kept him on a cot after everyone else had been treated. Cavori’s body had repaired the fall before the rescue party lifted him over the edge, but she checked his eyes, made him answer the same questions twice, and pressed along his back while he insisted it had already mended. Then she put a bowl of broth in his hands.
+
+Outside, ropes creaked as the monks secured the broken road. Cavori heard every shouted count. His legs gathered themselves each time, ready to carry him back into the rain.
+
+He stayed on the cot and ate.
+
+The abbot arrived carrying the chisel from the tally wall. He set it beside the bowl.
+
+“You dropped this at nine hundred ninety-nine,” he said.
+
+Cavori drank another mouthful. “I remember.”
+
+“Should I bring you the hammer?”
+
+Rain ticked against the shutters. Far below, the cliff gave one last settling groan, and the ropes held.
+
+Cavori pushed the chisel back across the blanket.
+
+“Bring another bowl.”

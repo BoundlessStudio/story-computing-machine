@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: Capitalized address forms such as `Father` and `Majesty` are role or honorific uses, not names; the local prophecy and crown-death rite remain distinct from established prophetic and monarchical systems.
+- Notes: `Father`, `Majesty`, and `Sir` are contextual kinship, role, or honorific uses rather than reusable names; the local prophecy and crown-death rite remain distinct from established prophetic and monarchical systems.

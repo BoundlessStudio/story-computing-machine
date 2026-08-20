@@ -6,15 +6,18 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Rielle | new | Half-demon claimant; no exact, alias, close-spelling, or confusing reuse found. |
-| King Veradan | new | Rielle's deceased human father, also called Veradan and the king; no confusing reuse found. |
-| Demon Queen Sarthene | new | Rielle's demon mother, also called Sarthene and Queen Sarthene; no confusing reuse found. |
+| Rielle | new | Half-demon claimant and Veradan and Sarthene's child; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| King Veradan | new | Rielle's deceased human father, also called `Veradan`, the king, and the old king; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Demon Queen Sarthene | new | Rielle's demon mother, also called `Sarthene`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Lord Protector Cadran Mirel | new | Interregnum ruler, also called `Cadran` and the protector; current `Prince Cadris` is a close initial form, but the distinct endings, full names, titles, and roles prevent confusion. |
+| Councilor Ysabet Roane | new | Council procedural authority, also called `Ysabet`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Lornivar Renscott | new | Veteran witness, also called `Lornivar`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No named place appears in the story. |
+| None | none | No story-facing place proper noun. |
 
 ## Continuity
 
@@ -22,7 +25,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The revised age-neutral choice threshold is consistent with Rielle being unborn at the battle fifteen years earlier. Pre-review passed all three declared nouns; targeted exact, alias, close-form, and confusing-reuse searches found no collision, and the story fulfills and resolves the prompt within current universe authority.
+- Notes: The lawful assay, Rielle's witnessed surrender, Lornivar's authenticated testimony, binding articles, and completed vote resolve the succession; dialogue remains differentiated and action-bound through surrender, testimony, negotiation, and the final order.

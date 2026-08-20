@@ -32,7 +32,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The rough-patch capture promise resolves through observed marital conduct, consequential choices, and an earned first repair; the revised names, capability limits, chronology, causal escape logic, independent agency, and prospective craft profile pass.
+- Notes: The Dacres demonstrate marital health through pressured choices without mitigating their crimes; Aveline and Harlan's disclosures change the escape and lead to concrete follow-up without claiming the marriage is repaired.

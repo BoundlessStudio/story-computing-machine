@@ -20,7 +20,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The local bodily transformation preserves identity and agency, and the completed debt follows coherently from the rescue and threshold conditions.
+- Notes: “No one else sees me change” consistently permits the narrator’s private witness while excluding outsiders. The left-sided wound and orange cord, clothes bag and dressing, porch/sill geometry, wrong-wind scent trail, same-person voluntary change, sister’s protective choices, and debt-only ending remain causally coherent.

@@ -6,16 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Elspeth Kedri | new | Twenty-three-year-old focal crime boss; the full name and its given-name and surname forms are distinct from established people and places. |
-| Olek Velcor | new | Elspeth's operations chief and internal betrayer; the full name and its given-name and surname forms are distinct from established people and places. |
-| Odette Naverin | new | Elspeth's lieutenant and former lover, who uncovers the coup; the full name and its story-facing forms remain readily distinct from legacy Luz Navarro. |
-| Councillor Dastin Axholm | new | Corrupt municipal official allied with Olek; the full name, title, and its given-name and surname forms are distinct from established people and places. |
+| Elspeth Kedri | new | Story-facing forms are `Elspeth Kedri`, `Elspeth`, and `Kedri`; all remain distinct from established people and places. |
+| Olek Velcor | new | Story-facing forms are `Olek Velcor`, `Olek`, and `Mr. Velcor`; all remain distinct from established people and places. |
+| Odette Naverin | new | Story-facing forms are `Odette Naverin` and `Odette`; they remain readily distinct from legacy Luz Navarro. |
+| Councillor Dastin Axholm | new | Story-facing forms are `Councillor Dastin Axholm`, `Councillor Axholm`, `Councillor`, `Dastin`, and `Axholm`; all remain distinct from established people and places. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The river quarter, iron bridge, hotel, river depot, abattoir, and west hall are unnamed. |
+| None | none | The city, office, hotel, blocks, roads, river depot, and condemned abattoir remain unnamed. |
 
 ## Continuity
 
@@ -23,7 +23,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The hard-R countercoup resolves the live internal collapse through Elspeth's coercive action, while the braided history of her name materially explains the western stand-down, her wavering enforcers' choices, and Olek's defeat; chronology, casualties, relationships, and the explicit transfer to Odette's kicked-away pistol remain coherent.
+- Notes: The hard-R countercoup keeps Elspeth's criminal exercise of power central while her exact personal-name code, costly western bargain, and contested abattoir history make the reputation B-story legible through consequence; the one-night chronology, two Axholm phones, six-gunman disposition, custody changes, casualties, wounds, escapes, and unresolved office breach remain coherent, and every sexual participant is unambiguously adult.

@@ -8,322 +8,438 @@ canon: false
 
 # The Distance Between Altars
 
-Mezarin arrived at the counting room early so that she would not have to meet Ankora. He was already there.
+Mezarin heard Ankora humming before she reached the counting room.
 
-He sat at the narrow table with the quarter's last prayer open before him, one hand keeping its blue cord from curling over its red. His traveling vestments were the gray of ash after rain, plain except for Orsava's broken-ring seal at the throat. The seal had loosened the knot in the window cord. It tapped against the plaster in the morning wind.
+She stopped on the landing, one hand inside her document case. The quarter's mixed petitions waited there in two tidy bundles, every red cord kept apart from every blue. She had arrived half an hour early to leave them on the neutral table and be gone before Orsava's head priest appeared. That had seemed a defensible use of time.
 
-“Head Priest,” he said.
+The humming ceased.
 
-Mezarin set down her document case. Three weeks into Elovar's highest office, she was still learning how much dislike could be fitted into a correct form of address. “You were meant to collect the returned petitions after ninth bell.”
+“You might as well come in,” Ankora called. “The stair has already betrayed you.”
 
-“I was. Then I read this one.”
+Mezarin entered.
 
-The temples rented the room because neither would conduct joint business on the other's consecrated ground. It held a table, four chairs, an abacus, and no altar. The plaster had been patched so often that every wall possessed its own borders, a fact Mezarin usually found restful. This morning she saw only Ankora on the wrong side of her schedule.
+He stood over the narrow table with his sleeves rolled above his wrists. Orsava's broken-ring seal hung loose at his throat, silver warmed almost white by the goddess's attention. Three inkstones pinned the corners of a single petition. Its two prayer cords crossed in the middle as if the supplicant had tied one god to the other.
 
-She did not sit. “The rule is uncomplicated. A prayer submitted to both temples is returned for a clearer choice.”
+Ankora nodded to her in a way that fell just short of a bow. “Head Priest.”
 
-“This prayer is clear.”
+“Head Priest.” She set down her case. “You were to collect the returns after ninth bell.”
 
-Both gods answered often enough that carelessness had consequences. Elovar sustained chosen obligations and defended named limits. Orsava ended obligations whose assent had expired and revised arrangements that no longer fit the living. Their authorities met everywhere in Palem and agreed almost nowhere. Consecrating the same uncertain request to both did not produce balance. It gave two opposed powers one mortal sentence and no safe edge along which to divide it.
+“I was. Then someone asked both our gods to answer one sentence.”
 
-Mezarin pulled the prayer toward her.
+“That is why we return mixed prayers.”
 
-The craftworker had written: *Keep my father's kiln in my hands. End the vow that put it there.* Beneath the words lay the impression of a thumb pressed hard into wet clay. The kiln and the vow were linked by an inheritance compact. End one, and the right to the other might end with it. Sustain one, and the vow might hold.
+“Read it before you become efficient.”
 
-“Unclear,” Mezarin said.
+Mezarin had held Elovar's highest office for twenty-three days. Already, people lowered their voices when she entered a room and waited for her to supply certainty whether or not certainty existed. Ankora had held Orsava's office for seven years and seemed to have mistaken longevity for permission to annoy her before breakfast.
 
-“Painfully clear. She wants the work and not the dead man's conditions.”
+She read.
 
-“She has not said whether she would choose the vow again to keep the kiln.”
+*Leave my father's kiln in my hands. End the promise that says I may fire only the shapes he approved.*
 
-“Why assume a choice made under threat of losing one's livelihood remains a choice?”
+A clay thumbprint darkened the lower corner. The kiln had passed through an inheritance compact: work, property, and vow made one legal thing. Elovar could sustain a deliberately chosen obligation and defend the boundary around what it secured. Orsava could end an obligation whose living assent had failed and revise what no longer fit. Both powers were local, real, and practiced. Layer them on one uncertain request and the result would not be fairness. It would be two opposed authorities pulling at the same knot.
 
-“Why assume she wants us to destroy the only claim she has?”
+“Return it,” Mezarin said.
 
-Ankora leaned back. He had an undignified face for a head priest: too ready to crease at the eyes, too expressive around the mouth. “I don't assume. I propose we ask.”
+“With which question?”
 
-“That is what a return means.”
+“Whether the potter will renew the compact in order to keep the kiln.”
 
-“Your standard return says, ‘Select one authority.’ She does not have one problem. She has two.”
+Ankora moved one inkstone a finger's width, uncovering a line he had written. “That asks whether fear of losing a livelihood can be made to sound like assent.”
 
-Mezarin heard, behind his mildness, the common accusation that Elovar's servants mistook endurance for assent. He would have heard in her answer the accusation that Orsava's servants called every difficult promise a chain. Both accusations sometimes deserved hearing. Neither deserved the satisfaction of being spoken before breakfast.
+“It asks what she chooses.”
 
-She sat.
+“It gives her only the choices her father left.”
 
-They spent an hour composing three lines. Ankora wanted to ask what she would release if the kiln went with the vow. Mezarin wanted to ask what she would reaffirm if keeping the kiln required a new compact. Each struck out the other's first wording. They argued over whether “cost” presumed loss, whether “continue” smuggled in permanence, and whether a blank line after the first question gave one answer more dignity than the other.
+“We cannot invent a third.”
 
-At last the return asked the craftworker to state separately what work she wished to keep, what obligation she wished to end, and what consequence she accepted if the two could not be divided. The prayer went back unsealed. The choice remained hers.
+“No. But we can ask whether she has one.”
 
-Ankora sanded the ink. “You improve when irritated.”
+Mezarin disliked his answer because it was not careless. Orsava's priests were commonly accused of treating every burden as proof a promise had died. Elovar's were accused of polishing chains and calling the shine maintenance. Ankora did not offer either accusation. He pulled out the chair opposite him.
 
-“You become less imprecise when contradicted.”
+She remained standing. “You want the temples to decide an inheritance dispute.”
 
-“We should meet again.”
+“I want the potter to tell us whether she is willing to lose the kiln. You want her to tell us whether she will endure the vow. Those are different questions.”
 
-“We are required to meet every quarter.”
+“They are the same consequence.”
 
-“How fortunate for us both.”
+“Consequences are rarely the same from both sides.”
 
-Mezarin gathered her cords before he could turn victory into a smile. On the landing, a kitchen attendant hurried past carrying a bowl of dough. The yeast nearest Mezarin's blue-gold hem stilled. The half nearest Ankora's gray sleeve rose with sudden enthusiasm, climbed the rim, and collapsed onto the attendant's shoes.
+He used humor when he wanted room to move. Here, he had put it away. Mezarin sat.
 
-Neither god offered an opinion on the prayer. The dough was less restrained.
+They ruined four sheets of return paper. Ankora objected to *continue* because it made the old arrangement the natural state. Mezarin struck out *escape* because it judged the vow before the potter had. He wanted to ask what work the petitioner would choose without the compact. She insisted they ask what cost she would accept if the property and promise could not be separated. When he wrote *What do you wish to become?* she crossed out the entire line.
 
-At the second handoff, Ankora brought barley cakes cooked on a griddle.
+“She asked about a kiln,” Mezarin said. “Not her soul.”
 
-“No yeast,” he said, placing the wrapped stack between their document cases. “The proprietor requested that we never again stand within arm's reach of breakfast.”
+“You make curiosity sound indecent.”
 
-“A reasonable boundary.”
+“In official correspondence, it often is.”
 
-“I told her you would approve.”
+His mouth bent, but he surrendered the line.
 
-He had also brought tea without sweetening or spice. Mezarin looked from the cup to him.
+The finished return contained three questions. It bore neither seal. The potter would answer, withdraw, or take the dispute to the city courts, where no god's preference could be mistaken for her own.
 
-“Basic intelligence about one's rival,” he said. “Not kindness.”
+Ankora blew sand across the ink. “That took only an hour.”
 
-“You remembered from one meeting.”
+“It would have taken ten minutes if you had not come.”
 
-“I maintain a formidable archive.”
+“It would have taken one form.”
 
-They disposed of the first petition in nine minutes. A household wished to keep a memorial room but end the payments attached to its upkeep; the requests had already been separated, and each temple could receive its own. The second petitioner withdrew both prayers after deciding that his business partnership needed a conversation rather than divine authority.
+“Exactly.”
 
-The third asked that an old pear tree be preserved while the neighboring families ended their shared responsibility for it. Mezarin pointed out that a tree could not water itself. Ankora observed that neither family had watered it in two years. She replied that neglect did not simplify possession. He said the roots had already simplified it by breaking both courtyard walls.
+Before he could answer, the counting-house mistress entered with a tray of breakfast rolls. Mezarin's consecrated cuffs held the nearest dough in its present shape; Ankora's vestments hurried the yeast through rising and into collapse. One row of rolls sat pale and dense. The other sagged like punctured bladders.
 
-They drafted a return in twenty minutes and argued for another forty over whether the tree belonged in the line concerning property, memory, or hazard.
+The mistress looked at the tray, then at both head priests.
 
-Ankora broke a cake in half. “You know the text no longer requires us.”
+“Next quarter,” she said, “you may eat stones.”
 
-“Your classification remains defective.”
+At the second handoff, Ankora brought barley cakes cooked flat on iron.
 
-“Then I am performing a public service by keeping you here.”
+He had also brought tea: black, unspiced, and bitter enough to suit Mezarin. He placed the cup at her right hand without comment. She moved it half an inch farther from the petitions.
 
-The cake was warm, smoky at the edges, and spread with sour plum paste. Mezarin had spent the morning before the meeting listening to petitioners ask Elovar to hold marriages, apprenticeships, seawalls, trading boundaries, and the shape of lives they had only lately discovered they wanted. None of those things kept itself. People had to return, repair, and defend what the world wore at.
+“The counting-house mistress remains offended,” he said.
 
-Ankora treated every worn place as a possible exit. He was infuriating. He was also careful never to push anyone through.
+“Her offense has improved her planning.”
 
-She found herself smiling at his argument about the roots.
+“You could thank me.”
 
-His voice altered by half a note. “What?”
+“For the tea or the absence of stones?”
 
-Mezarin wrapped the remaining cake and stood. “Nothing relevant to the petition.”
+“Whichever costs you less.”
 
-His eyes followed her to the door. “I shall add it to the archive.”
+This quarter's difficult prayer concerned a pear tree rooted across two adjoining courtyards. Both households wanted the tree preserved. Each wanted its duty to water, prune, pay for, and clean after it ended. Ankora had obtained a surveyor's sketch. The roots had cracked one cistern and lifted a wall; the canopy shaded both kitchens and dropped fruit into a third yard.
 
-By the summer handoff, their margins had developed a second life.
+Mezarin studied the pencil lines. “If neither household accepts the maintenance, the prayer to Elovar is dishonest.”
 
-It began with corrections. *This vow was renewed last winter*, Mezarin wrote beside a petition Ankora had marked obsolete. He returned it with: *Under pressure from three aunts and an expensive dinner.* She answered: *Neither kinship nor poultry invalidates assent.* His next note occupied more space than the petition.
+“Agreed.”
 
-Corrections became questions. Questions acquired recommendations. A reference to a dense treatise on harbor contracts appeared beside a dispute about mooring rights; a packet concerning an elderly mason came back with directions, in Ankora's small sloping hand, to a stall that sold soft sesame cakes. When Mezarin wrote too sharply after three nights of ceremonies, he ceased joking in the margins and supplied only clean alternatives. When his script began to run downhill, she sent back a copied passage from an obscure commentary and wrote, *Sleep before objecting. You will object better.*
+She looked up.
 
-She scheduled nothing after the third handoff and called it prudence. Their work had become thorough.
+Ankora tore a cake in two. “Try not to appear wounded. Agreement happens.”
 
-Rain pressed a wavering gray light against the counting-room windows. The packets were finished before noon. Ankora poured the last tea and said, “Why Elovar?”
+“The tree could be transferred to the third household.”
 
-It was the first question he had asked for which no petition supplied an excuse.
+“The household currently being assaulted by pears?”
 
-Mezarin ran a thumb along the edge of her cup. “Because things do not keep themselves.”
+“They collect the fruit.”
 
-“Pear trees excepted.”
+“They throw it back.”
 
-“Pear trees especially.” She considered ending there. Instead she said, “My first temple duty was maintaining the winter kitchens. Everyone praised the meals as though they appeared because Palem valued mercy. In truth, they appeared because four people checked the grain each morning, six more kept the ovens sound, and someone renegotiated every promise of oil. I liked that the difference between an intention and a life could be work done on time.”
+“What kind of person throws back pears?”
 
-Ankora did not make the easy joke. “And the office?”
+“A person with a roof.”
 
-“Lets me protect the people doing it.” She met his gaze. “Why Orsava?”
+They drafted a return asking each household what it would do, rather than what it wished the gods to make other people do. The language took twelve minutes. The argument about the third yard took another forty, though no line of the return depended on it.
 
-He inspected the ceiling as if the answer might be painted there. “The hats.”
+When the handoff bell rang, the courier failed to appear. A boy arrived instead with a message that the courier's cart had lost a wheel near the west gate.
 
-“You do not wear one.”
+“I will take the packet to civic records,” Mezarin said.
 
-“A lasting theological disappointment.” He turned his cup between his palms. “I grew up watching people praise promises after the people inside them had changed beyond recognition. Not wicked promises. Not always cruel ones. Simply old. Orsava asked whether present assent mattered. Once I understood the question, I couldn't stop asking it.”
+“So will I.”
 
-“Even when the answer wounds someone.”
+“That is unnecessary.”
 
-“Especially then. An ending can be honest and still be brutal.”
+“Then you should not do it either.”
 
-Rainwater ticked in the loose window frame. Mezarin wanted to tell him that maintenance could be brutal too. She wanted to ask what he had ended, and whether he missed it. The questions seemed at once too intimate and inadequate.
+She gave him half the petitions.
 
-He looked at her hands around the cup. “There. A new margin.”
+Outside, Palem had entered the brittle brightness before spring rain. Temple bells called from opposite hills, Elovar's in steady paired strokes, Orsava's in a descending scatter that never repeated quite the same way. Between them lay the dye market, the public baths, three courts, and enough food stalls to tempt every kind of vestment into stains.
 
-“I haven't spoken.”
+People noticed the two head priests together. A fish seller lowered his knife. Two women carrying folded linen stepped aside and then looked back. Mezarin kept exactly one paving stone between her sleeve and Ankora's.
 
-“You have the expression you wear before disputing a definition.”
+He carried his bundle badly. “Why Elovar?”
 
-“Do you study all opposing clergy so closely?”
+“That is not relevant to the packet.”
 
-The question escaped before she could classify it.
+“The packet has not complained.”
 
-The cup stopped turning in Ankora's hands. “No.”
+“Paper is famously patient.”
 
-The room changed around that single word, though neither consecrated seal stirred.
+“That sounded almost like a joke.”
 
-He resumed turning the cup. “I could claim professional diligence.”
+“It was an observation.”
 
-“You could.”
+He waited. Ankora's silences did not feel empty; they felt like doors he had declined to close. Mezarin lengthened her stride, but he was taller and refused to be left.
 
-“Would you believe me?”
+“My first temple charge was the winter kitchen,” she said at last. “People praised the city for feeding anyone who came. They praised mercy, tradition, Elovar. They did not praise the six people checking grain for mold, or the woman who mended oven bricks, or the novices who renegotiated every promised jar of oil. The custom existed because someone did the ugly part on time.”
 
-Mezarin should have said no. She should have said yes. She finished her tea instead, and he let her.
+“And you enjoyed the ugly part?”
 
-For the next three months, she was aware of every day that was not the handoff day.
+“I enjoyed knowing where failure began.”
 
-The fourth meeting began with a copied page.
+Ankora shifted the packet under his arm. “That may be the most Elovaran answer ever given.”
 
-It lay on top of the returned packet, reproduced by a temple clerk in the neat block script used for permanent records. The petition itself concerned two sisters and a leased shopfront. The margin concerned plum paste.
+“You asked.”
 
-Ankora had written, *Your preferred stall has changed its recipe. I assume Elovar will demand loyalty to the inferior version.* Mezarin's answer sat beneath it: *Elovar protects chosen continuities, not your inability to recognize cardamom.* A clerk had copied both lines, marked them NONOPERATIVE, and included them in the official duplicate because clerks were paid to preserve what head priests wrote on prayers, not to decide when head priests were flirting.
+“I did.”
 
-No reprimand accompanied it. No threat. Only the durable fact of their own handwriting.
+At the bridge over the tanners' channel, he stopped to let a handcart pass. Mezarin stopped too, unwilling to have him follow with one hand occupied and drop a prayer into brown water.
 
-Ankora read the page twice. His face became courteous.
+“Why Orsava?” she asked.
 
-“Future annotations should be confined to the disposition of the prayer,” he said.
+He watched the cart's axle clear the curb. “My family kept a fishing partnership for twelve years after everyone involved wanted out. Good people, good boats, no theft. They had simply ceased to want the same life. Each year they renewed the agreement because breaking it would hurt the others. By the end, they could not speak without accounting for who had suffered most.”
 
-Mezarin felt the speed of her answer and could not slow it. “Of course.”
+“What did you do?”
 
-“We may also want deputies present.”
+“Left.”
 
-That struck too near something unnamed. “The agreement requires only the two offices.”
+“From the partnership?”
 
-“Then we needn't alter it.”
+“From the family table. I was sixteen and very righteous.” He resumed walking. “Orsava's temple was the first place where someone asked whether an arrangement could be over before anyone became wicked enough to deserve escape.”
 
-They worked cleanly. He did not offer tea. She did not ask. A petition seeking to end a debt while preserving the debtor's guild standing went back with two necessary questions and no joke about expensive dinners. A request concerning a boundary wall was separated into two temple copies. They had become exemplary.
+“And was it?”
 
-At the handoff bell, Ankora closed his case. “Until next quarter, Head Priest.”
+“Yes. They ended it four years later.”
 
-“Head Priest.”
+“You waited four years to be proved right.”
 
-He left the barley cakes untouched between them.
+“Seven, if you count the time I spent telling everyone.”
 
-Mezarin remained in the room long enough to understand that she had not arranged her calendar around difficult petitions. She had done it around the man who read her fatigue in slanting ink and considered her opposition worth preparing for.
+There was the joke, covering the old bruise. Mezarin could have let it do its work. Instead she said, “Did you go back to the table?”
 
-Winter settled over Palem. In Elovar's temple, colored cords crossed the inner hall in thousands of taut lines, each representing something a worshipper had asked the god to sustain: a promise still chosen, a boundary still needed, a practice whose keeping cost enough to be real. Mezarin worked beneath them. She weighed petitions. She heard disputes. She stood at the altar when Elovar's living attention drew a loosened cord tight and held its knot against pulling hands.
+Ankora looked at her then. Not at her clasp or the packet or the strip of safe pavement between them.
 
-She did not ask the god to preserve what she had not yet begun. She did not ask for her feeling to be cut away, either. That request belonged nowhere.
+“Eventually.”
 
-She kept the next handoff day empty.
+At civic records, they handed over the prayers. The clerk counted every cord twice. Their official business ended.
 
-Thirteen months after their first argument, Ankora was again waiting when she arrived early. The counting room had been stripped for winter cleaning. Without the spare chairs and wall abacus, it looked less like neutral territory than a place no one had claimed.
+Ankora still had one barley cake in its paper. He held it toward Mezarin.
 
-Only one mixed prayer waited between them, already clear enough to separate. They finished it in eleven cold minutes and tied the quarter's packet for the courier.
+She took it. They walked together as far as the place where the road split toward their separate temples, and stood there long enough for three more handcarts to pass.
 
-“Efficient,” Mezarin said.
+By summer, the prayer margins had become a conversation neither temple had commissioned.
 
-“I thought we should have time.”
+At first they confined themselves to objections. *This debt was renewed after the harvest,* Mezarin wrote beside one of Ankora's recommendations. He returned the page with, *By a debtor whose creditor attended the signing with six cousins.* Her response occupied the narrow strip below: *A crowd is not a compulsion simply because you dislike the cousins.*
 
-He had brought barley cakes. They cooled untouched near his elbow.
+Then came useful irrelevancies. He marked the page number in a dull treatise where an ancient jurist had accidentally made her case. She warned him that the sesame seller below Orsava's south stair was using rancid oil. When his handwriting sloped after midnight ceremonies, she sent back his proposed wording with every error corrected and the instruction *Sleep before defending this.* When a tremor in her wrist made her ink blot, the next packet arrived with thicker pens and no remark.
 
-Mezarin removed her gloves one finger at a time. “For what?”
+She began leaving the afternoon after each handoff free. This was sensible. Ankora was inefficient.
 
-“To prevent a manageable problem from becoming an unmanageable one.”
+At the third meeting, rain closed the streets before either could leave. It came sideways through the counting-room window and lifted the unsealed papers in gusts. Mezarin seized the blue-corded bundle. Ankora caught the red. Together they dragged the table away from the wall, one leg shrieking across the stone.
 
-The old humor was present in the shape of the sentence, but his voice did not invite her to laugh.
+“The shutters,” she said.
 
-He laid out a written proposal. Their deputies would conduct mixed-prayer exchanges. The head priests would receive summaries and intervene only when both deputies requested a ruling. It was sensible. It was balanced. It removed from Mezarin's year the four days around which the others had begun to arrange themselves.
+“The upper hinge is broken.”
 
-“No,” she said.
+“Then hold it.”
 
-Ankora lowered his eyes to the proposal. “Both temples would retain equal authority.”
+“With what?”
 
-“That is not my objection.”
+“Your hands, Ankora.”
 
-“If the notes become known beyond the archives, your congregation may believe I have influenced your judgments. Mine may decide you are trying to make endurance look like triumph. Neither interpretation needs to be fair to damage your office.”
+He climbed onto a chair. She braced it while he forced the swollen shutter inward. Water darkened his gray sleeves. The broken-ring seal at his throat had loosened every knot in the curtain cord, which now lay in a heap at his feet. Mezarin pulled one of her plain document ties free, looped it through the latch, and held the knot until Elovar's nearness set it fast.
 
-“Our offices.”
+The shutter stopped banging. Ankora came down too quickly. His wet shoe slipped on stone; one hand struck her shoulder, the other caught her waist. Mezarin locked her knees and kept them both upright.
 
-“Yes.” He folded the proposal once. “Which is why I also considered a cleaner arrangement.”
+For one breath his face was close enough that she saw rain trapped in his lashes. The hand at her waist flexed.
 
-Mezarin waited.
+“You're steady,” he said.
 
-“I could resign.”
+“I make a profession of it.”
 
-The words entered her like cold along a badly fitted door. Ankora rushed to fill the silence.
+He let go at once.
 
-“Orsava is famously hospitable to elegant departures.”
+The loss of his hand was sharp and absurd. Mezarin turned to inspect the petitions, none of which had moved.
 
-“Do not.”
+Ankora crouched to gather the fallen curtain cord. “The potter answered.”
 
-He stopped.
+Mezarin had read the resubmission. The woman had taken the inheritance compact to court, divided ownership of the kiln from the vow, and written a new promise to keep the building in repair for the apprentices who used it. She then sent a prayer to Elovar for the new obligation and one to Orsava for the old restrictions. Separate petitions. Separate choices.
 
-“Do not make doctrine into a joke because you dislike the answer you might receive.”
+“She found the third thing,” Mezarin said.
 
-His mouth tightened. “I am trying to keep you from paying for my carelessness.”
+“You asked her what cost she would accept.”
 
-“By paying with your vocation.”
+“You asked what work she wanted.”
 
-“I know how departures work. I could survive one.”
+Ankora sat back on his heels. “We were both useful. I hope you can recover.”
 
-“You love the work.”
+Thunder rolled above the roofs. The room smelled of wet wool, ink, and the barley cakes they had not yet opened.
 
-He looked toward the unknotted window cord. “That does not make it permanent.”
+He had touched her. He had released her because she had not asked him to stay. Mezarin could sort those facts into clean columns and learn nothing.
 
-“No. It makes it yours to leave for your own reasons.” Mezarin put both palms on the table. The wood was scarred by years of sums and signatures, none of them relevant. “If you resign to protect me, everyone who wants a victory will have one. Elovar's head priest drove out Orsava's. Or Orsava's head priest made a noble sacrifice because Elovar's could not bear uncertainty. They will choose their story. I won't let either story become the price of this.”
+“Do you remember everyone's tea?” she asked.
 
-“Of what?”
+Ankora's fingers stopped on the cord. “No.”
 
-He asked without a smile. At last, without retreat.
+“Do you buy every rival thicker pens?”
 
-Mezarin had spent a year discovering that precision did not always make speech safe. Sometimes it merely showed exactly where the danger lay.
+“No.”
 
-“I love you,” she said. “I love the man who asks whether an old promise is still being chosen. I love that you leave exits where I would build another brace. I love arguing with you because you make me look at what my care can become when I refuse to let anything end.” Her voice roughened, but held. “I do not want a converted version of you. I do not want you made smaller so that I can feel secure. I want you in your office, opposing me when you believe I am wrong. And I want time with you that belongs to neither office.”
+The rain struck the shutter hard enough to bow it inward. He did not reach for humor.
 
-Ankora pressed a thumb into the proposal's fold until the paper buckled. Then he tore it once across the middle.
+“I pay attention to you,” he said.
 
-“I love you,” he said. The simplicity of it unsettled her more than any clever answer could have. “I have loved you since you added a third question for the kiln worker because neither of us had the right to make her answer easier. Possibly since you insulted my definition of cost. I have been revising the date.”
+Mezarin's pulse beat against the high collar Elovar's clasp held perfectly straight. She wanted to ask what he intended to do with that attention. She wanted to cross the space and discover whether he would touch her again. Both wants felt less like choices than like weather, and she distrusted them for it.
 
-Mezarin laughed, a brief helpless sound.
+So she said, “The barley cakes will be cold.”
 
-His own laugh answered and vanished. “I withdrew because if I asked plainly, you could refuse plainly.”
+Ankora looked down. “They are already cold.”
 
-“Yes.”
+They ate them anyway, sitting on the floor beside the dry wall while rain erased the road between the two temples. He did not ask again. That restraint followed her home.
 
-“You might try some tenderness.”
+At the fourth handoff, a copied prayer lay on top of the packet.
 
-“Would you believe me?”
+A clerk had reproduced the page in square archival script, including the margin where Ankora had written, *Do not carry the cases yourself until the wrist stops shaking.* Beneath it, the clerk had copied Mezarin's reply: *It has stopped. You may return to criticizing the contents.*
 
-He came around the table. Up close, the broken-ring seal at his throat gave off the faint warmth of active consecration; her own clasp held the seam of her collar perfectly straight. The emblems nearly touched and did nothing. Their gods neither blessed nor forbade the space between them.
+Both sentences were marked NONOPERATIVE. Nothing else had been added. No rebuke, no threat, no accusation. A clerk's job was to preserve the words head priests put on public prayers. The clerk had done it well.
 
-“May I kiss you?” Ankora asked.
+Ankora read the copy once.
 
-“Yes.”
+“Only necessary notes from now on,” he said.
 
-The table caught Mezarin at the hip. Ankora's sleeve knocked a barley cake to the floor. The kiss itself was careful for perhaps half a heartbeat, and then not careful at all. She caught his shoulders, felt his surprise turn to certainty, and tasted bitter tea. When they separated, he looked less like a rival dignitary than a man trying not to grin in a room with no forgiving furniture.
+Mezarin had prepared three possible ways to name what had happened in the rain. None survived the courtesy in his voice.
 
-“The archive will be devastated,” he said.
+“Yes,” she said. “That would be proper.”
 
-“The archive will receive necessary annotations.”
+He gave the smallest nod.
 
-They sat again and drew boundaries around the work. Prayer margins would hold only the work. Their deputies could attend whenever a petition raised a conflict neither wished to judge alone. No seal, cord, altar, or divine title would bind what existed between them. If duty required distance, they would say so directly; if either wished to end the relationship, neither would invoke a god or an office against the other.
+They completed the exchange in twenty-seven minutes. He did not notice that her tea went untouched. Or he noticed and did not say. When he left, he took the unopened barley cakes with him.
 
-“And we meet outside temple hours,” Ankora said.
+Autumn thinned into winter. Mezarin worked.
 
-“For supper next week.”
+In Elovar's inner hall, thousands of prayer cords crossed from pillar to pillar. Some named marriages, some seawalls, some borders around rooms where dangerous relatives could not enter. None stayed taut merely because a worshipper once desired it. Knots loosened. People changed their minds. The god answered chosen maintenance, not memory pretending to be choice.
 
-“The dumpling room below the bathhouse has curtains.”
+One night a cord above the west arch snapped. Elovar's living attention moved through the hall like pressure before a storm and held the remaining lines while Mezarin climbed a ladder, hands numb with cold, to replace it. The work required a new anchor because the old stone had cracked. She did not tie the cord back where it had been. She found sound stone.
 
-“It also has six tables and an owner who announces every head priest who enters.”
+She thought of Ankora. That was not a prayer, and Elovar did not answer it.
 
-“The fish grill by the west wall, then.”
+The next quarter, Mezarin arrived at the counting room exactly on time.
 
-“Half my congregation eats there after evening prayers.”
+Ankora had already finished sorting the petitions. No tea waited at her place. He wore full ceremonial gray, his sleeves fastened, his broken-ring seal cold and dark.
 
-The handoff bell rang. A courier knocked, received the official packet, and carried away the quarter's work. Mezarin and Ankora remained at the scarred table with their cooling food and the two halves of his proposal.
+They worked without error. A couple wished to end a household contract but preserve guardianship of a child; the requests were distinct enough for separate temples. A guild wanted Elovar to defend a tariff while Orsava revised every obligation the tariff funded. They returned that one with a single question and no opinion about the guild's arithmetic.
 
-“There is a cellar kitchen near the potters' yards,” he said. “No curtains, no worshippers, terrible tea.”
+The courier bell would ring in half an hour. Ankora closed his case.
 
-“You cannot know there are no worshippers.”
+“I've asked my deputy to take the next exchange,” he said.
 
-“Then choose somewhere better.”
+Mezarin kept her hands on the final petition. “Why?”
 
-Mezarin considered the geography of Palem, the reach of two congregations, and the pleasure of refusing an impossible standard.
+“You know why.”
 
-“The dumpling room,” she said. “But if the owner announces us, you explain why we are there.”
+“I know that you stopped writing in margins.”
 
-“Gladly. I have several doctrines prepared.”
+“It was the correct decision.”
 
-“No doctrines.”
+“That is not an answer.”
 
-“One small doctrine.”
+Ankora looked toward the door. He could end an exchange by standing, and he was good at leaving before anyone made him choose a less graceful tactic. Mezarin moved his case out of reach.
+
+His gaze dropped to her hand. “Is this Elovar's celebrated respect for boundaries?”
+
+“This is a case on a table. You may pick it up after you answer.”
+
+“You are impossible.”
+
+“So I am often maintained.”
+
+His unwilling smile appeared and vanished. “If our congregations read those copies, yours may say Orsava's priest softened your judgment. Mine may say I am courting a concession. Every disagreement becomes theater. Every agreement becomes evidence.”
+
+“Sending deputies will not change what happened.”
+
+“It will stop us adding to it.”
+
+“You have considered more than deputies.”
+
+That caught him. He went still.
+
+Mezarin had spent a season thinking through all the elegant exits he would prepare. “Would you resign?”
+
+Ankora's eyes hardened. “It is an available ending.”
+
+“Do you want it?”
+
+“That is not the entire question.”
+
+“It is the one you require from everyone else.”
+
+He turned away and paced to the shutter they had repaired in summer. Her document tie still held the latch. He tested the knot with one thumb; it did not move.
+
+“No,” he said. “I do not want to leave Orsava's service.”
+
+“Then do not offer your office as payment.”
+
+“I am not paying you.”
+
+“You are trying to purchase a clean story. I keep my position, you make the noble departure, and no one can accuse me of yielding.”
+
+“That is not what I mean.”
+
+“It is what would happen.”
+
+He faced her. “And if we continue? Your installation is barely a year old. People who already think Elovar's limits are another word for fear will say you hid behind mine. Orsava's faithful will wonder whether I end every vow except the one that flatters me. I can bear their stupidity. I don't know what it costs you.”
+
+“Then ask me.”
+
+The words left more forcefully than she intended. Ankora flinched as if she had thrown something.
+
+Mezarin came around the table. “You decide what strangers may make of us. You decide which work I can survive. You retreat before I can refuse you, and call the retreat consideration.”
+
+His jaw tightened. “Fine. What do you want?”
+
+There was no doctrine in the question. No joke. Nowhere for either of them to step except forward or away.
+
+“You,” Mezarin said.
+
+Ankora's breath caught.
+
+“You in Orsava's service. You disagreeing with me. You buying the wrong cakes and putting useful books in official packets. I want the work kept clean because the petitioners deserve that, not because I am ashamed of what happens when the work is finished.” Precision had not made this safe. It made it hers. “I love you.”
+
+He closed his eyes.
+
+For a moment Mezarin thought she had mistaken silence for a door again. Then he laughed once, with no amusement in it, and covered his face.
 
 “Ankora.”
 
-They stayed to settle it.
+“I had prepared for anger,” he said through his hands. “I had prepared an excellent defense of cowardice as prudence.”
+
+“Put it away.”
+
+He lowered his hands. Whatever answer he had rehearsed was gone.
+
+“I love you,” he said. “I have loved you long enough to know that leaving would not protect you. It would only spare me hearing you say no.”
+
+“I am not saying no.”
+
+“I noticed.”
+
+The courier bell rang downstairs.
+
+Neither moved.
+
+Ankora reached for her, stopped before touching her, and left the last inch to her. Mezarin caught the front of his gray vestment and pulled him close. The first contact of their mouths was awkward; his broken-ring seal knocked against Elovar's clasp, metal striking metal. They shifted and tried again. This time his hands settled at her waist and stayed because she held him there.
+
+No power moved through the room. The gods did not settle their rivalry, approve a match, or claim it. The shutter knot remained tight. The loose curtain cord remained loose.
+
+A knock sounded at the door.
+
+“The packet,” called the courier.
+
+Mezarin rested her forehead against Ankora's for one breath, then stepped back. He handed over the official bundle while she pushed his case back across the table.
+
+“Petition margins stay necessary,” she said.
+
+“They do.”
+
+“And your deputy?”
+
+“I will tell him the work remains ours.”
+
+“Supper is not a handoff.”
+
+His expression altered. Not the public smile, nor the quick deflection he used to soften an argument. This one made him look startled by good fortune.
+
+“The dumpling room below the baths,” he said.
+
+“The owner announces every priest who enters.”
+
+“He announces everyone.”
+
+“Then he can announce us accurately.”
+
+Ankora picked up his case. Mezarin opened the barley cakes.
+
+They had twenty minutes before either temple expected its head priest back. She broke a cake in two between the empty inkstones. Ankora sat. After a moment, Mezarin sat opposite him and reached for the tea he had not brought.
+
+“You owe me a cup,” she said.
+
+He stood again. “That, at least, I know how to answer.”
