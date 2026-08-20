@@ -8,7 +8,7 @@ Verdict: PASS
 | --- | --- | --- |
 | Neshra | new | Palm-garden keeper and Odal's mother; no exact, alias, close-spelling, or confusing reuse found. |
 | Odal | new | Neshra's adult child; no exact, alias, close-spelling, or confusing reuse found. |
-| Ammara | new | Living stone person worshipped locally as a dead goddess; the derived place name `Ammara's Palm` is intentional and unambiguous. |
+| Ammara | new | Living stone person worshipped locally as a dead goddess; exact and alias forms are unique, while existing `Mara` and `Maris` remain readily distinct by sound, full form, role, and context. |
 
 ## Places
 
@@ -22,7 +22,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The relationship-and-attention braid sustains the waking-hand promise through Ammara's consequential restraint, and the practical ending grows from the opening jar, garden work, and altered ground.
+- Notes: The parent-adult-child dialogue stays asymmetrical and action-bound through the rope-cut crisis and final departure claim. Ammara recognizes coordinated life across the palm rather than a controlling human signal, and her painful hold resolves the waking-hand promise while leaving the altered settlement, injuries, and family disagreement live.
