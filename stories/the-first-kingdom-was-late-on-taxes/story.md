@@ -1,12 +1,12 @@
 ---
-title: "The First Kingdom Was Late on Taxes"
+title: "Where the Mountain Used to Be"
 slug: "the-first-kingdom-was-late-on-taxes"
 created: 2026-08-16
 created-at: 2026-08-16T22:41:18-04:00
 canon: false
 ---
 
-# The First Kingdom Was Late on Taxes
+# Where the Mountain Used to Be
 
 The province was still owed its autumn tax, and Kelpass’s best remaining chance of paying it was three casks of beer that tasted like a chimney after rain.
 
