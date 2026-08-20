@@ -8,322 +8,270 @@ canon: false
 
 # The First Kingdom Was Late on Taxes
 
-The tax of Kelpass was overdue by eleven days because Ulven Korr had brewed three casks of beer nobody wanted.
+The province was still owed its autumn tax, and Kelpass’s best remaining chance of paying it was three casks of beer that tasted like a chimney after rain.
 
-This was not the official reason. Dema Vask had tried writing *washout on the south road*, *late wool train*, and *abnormal spoilage*, all of which were true and none of which made the figures agree. The three casks remained in Ulven's back room, their iron hoops sound, their contents afflicted by a smoky bitterness that caught behind the teeth. Until they became coin, the village owed the province more than the village possessed.
+Dema Vask, the village tally-keeper, wrote the shortfall in her ledger and tried the beer again in case arithmetic had made it worse. It had not. Ulven Korr watched from the other side of the tavern table with the guarded expression of a man whose brewing had been insulted by every traveler in the pass.
 
-“Call it temple beer,” Ulven suggested. He leaned over Dema's ledger and left a damp ring beside the column for bridge tolls. “Travelers pay twice for anything blessed.”
+“It is not bad,” he said. “It is difficult.”
 
-“By whom?”
+“It is mediocre,” Dema said, and shut the ledger. “Mediocre things are allowed to be easy.”
 
-“You have neat handwriting.”
+Someone outside called for them to come see the sky.
 
-Dema moved the ledger out of his reach. Beyond the tavern's open door, the last light lay blue across the pass. Kelpass occupied the broadest shelf between two steep mountains: forty-three houses, a weighhouse, a smithy that had lost half its roof, Ulven's tavern, and a shrine too small for the god whose name had worn off its lintel. The north road carried salt and dyed cloth upward. The south road carried wool and complaints down. Nobody conquered Kelpass because there was nowhere worth going after it except somewhere else.
+Kelpass spilled into its lanes: shepherds in slippers, children carrying half-eaten suppers, guests from the stable with straw in their hair. The village was a shabby shelf between two black mountains, its clutter of roofs pressed close against weather and the north road threading upward into the dark. Dema tipped the rest of her beer into the gutter and looked toward that road. Her sister lived beyond the second ridge and would be furious tomorrow to learn that Dema had seen something worth describing.
 
-That evening, light began to climb the sky.
+Green light hung above the northern peak. It widened in silent pleats until violet shone through it, as if night had been cut and brighter cloth drawn through the wound. Every slate roof gleamed. The iron rings on Ulven’s casks answered with dull green arcs.
 
-It rose behind the northern peak in green folds, then spread violet streamers from ridge to ridge. Pots cooled on tables. Dice stopped in cups. One by one, people stepped into the street, including Dema, though the quarterly return still lacked thirty-two silver crowns and an explanation suitable for a clerk who disliked invention.
+Dema heard Ulven say, very softly, “That cannot be weather.”
 
-The aurora made no sound. It polished every slate roof and puddle. Its green lay in Ulven's open casks like a second, better beer.
+The light lowered.
 
-“Snow sign?” somebody called.
+She did not feel sleep arrive. There was no falling, no dream, no interval at all. One instant the aurora filled the pass; the next, her knees struck the lane and a white brilliance burned through her closed eyelids.
 
-“Not in autumn,” somebody else answered, as if the sky respected schedules.
+The bitterness of the beer was still on her tongue.
 
-Dema remembered that she had left the duplicate tax roll in the weighhouse. She also remembered the little iron pin she had dropped that afternoon near the north marker while fastening a split hoop around the documents. She had meant to retrieve it before dark.
+Around her, Kelpass woke in a single confusion of breath and voices. People rose from the street where they had dropped, or leaned from familiar doors calling to one another. Children found parents. Road guests stumbled out of the stable. Goats broke loose between skirts; dogs barked at everything; every window Dema knew opened onto a face she knew. No house remained silent. The whole village seemed to have drawn one breath and held it until now.
 
-The light folded once, very slowly, above Kelpass.
+But the mountains were gone.
 
-Dema's last order was to leave the tavern door open in case the two late salt wagons arrived. Then her cheek met the ledger, and the village slept.
+Where the northern peak should have blocked half the sky, tier upon tier of silver scaffolding climbed through an immense hollow. Bridges crossed open air. Clear-walled rooms clung to a cliff banded red, gray, black, and chalk-white. The cliff curved around Kelpass like the inside of a bowl, higher than any building Dema had imagined, and every band in it lay level with some impossible age of earth. Far above, a translucent roof stood open in long panels beneath a pale, humid sky.
 
-She woke to a brightness with no flame in it.
+Dema’s village occupied a dark shelf in the middle of that brightness. Excavation trenches cut close to its outer houses. Some walls had been shored with shining braces. Small plaques hung beside doors, and ropes ran over roofs where no Kelpass hand had put them.
 
-Her neck hurt. The same damp ring marked the same page. Around her, Ulven and fourteen customers lifted their heads from tables or pushed themselves off the floor. Outside, a goat began screaming with the steady outrage of a creature that had missed no meal but suspected it might.
+Soft lights drifted among the chimneys. They were no larger than apples, and each sent a comb of blue lines over tile, wood, and stone. Where the lines reached an iron hinge or nail, they bent away. A blank halo opened around every buckle, horseshoe, and cask band. The lines moved at one steady rate over whatever surface they could touch, despite the people shouting beneath them.
 
-Dema counted the people in the tavern before she asked what had happened. Sixteen, including herself. Nobody injured. Two mugs broken, one chair overturned, one tax return stained with beer.
+Figures stood frozen on the scaffolds.
 
-Above the roofs, pale objects drifted against a sky too white to be morning. They were smaller than fists, soft-edged, and each cast a fan of lines across the street. Wherever those lines met an iron nail, hinge, buckle, or cask hoop, they bent away. The tavern appeared inside a lacework of light with dark holes punched through it.
+One dropped a brush. Another sank to a sitting position on a stair. A third raised both hands to a face behind a clear mask.
 
-Figures stood on a platform higher than the old shrine roof. They wore close-fitting gray clothes and clear masks. One was pointing at Dema. Another had dropped something long and silver.
+A little boy chased one of the drifting lights toward a blue cord stretched across the north lane. The paving beyond the cord looked ordinary for two steps, then ended over a trench.
 
-“Raiders?” Ulven asked.
+“Stop him!” a woman shouted from above.
 
-“Raiders don't label doors.”
+Her words were strange, but a disk at her throat repeated them in rough Kelpass speech. Dema caught the boy by the back of his nightshirt. Gravel rattled off the lane’s broken edge and fell until she could no longer hear it.
 
-Small plaques had been fixed beside several thresholds. Each bore cramped symbols that changed when Dema tried to focus on them. A cord ran from the tavern eaves to a scaffold that should have been impossible, because beyond it there was no mountainside.
+The woman descended at a run. She wore gray fabric sealed at wrists and throat, soft boots, and a coil of orange line across one shoulder. She did not trust the blue lights. She followed strips of cloth laid by hand, testing each turn with a slender rod.
 
-Dema looked away from that absence. “Count households. Street by street. Wake everyone. Nobody climbs anything, and nobody touches the floating lights.”
+“Behind the cord,” her disk said. “All living relics remain behind the cord.”
 
-The habit of obeying a tally-keeper during flood, fire, and tax collection served Kelpass well. By the time the brightness above had shifted the width of a hand, Dema had one hundred and ninety-two people: one hundred and eighty-three residents and nine guests from the roads. Every person known to have slept inside the village boundary answered. So did the oxen, mules, goats, dogs, chickens, and Ulven's old cat, though the cat answered to no one and had bitten a masked figure who ventured too near the north lane.
+“People,” Dema said.
 
-Beyond the last houses, there was no answer at all.
+The woman halted. Shock moved openly across her face. Tiny silver marks dotted one cheek, and her cropped hair was wet with sweat beneath the mask she tore off.
 
-The masked people descended by a stair that clung to empty air. They stopped whenever their floating lights swerved from a nail or buckle. At last a woman approached along a path marked by strips of orange cloth laid by hand. She had removed her mask. Her hair was cropped almost to the scalp, and one cheek bore a pattern of tiny silver dots.
+“Yes,” she said. The disk tried several words before settling on, “People. I am Yevrin Caul, reader of buried—field archaeologist. This is Vastor Cut.”
 
-She spoke three words. A small disk at her throat repeated them as, “Sovereign Keeper of Tribute?”
+“Then Vastor Cut has bitten through our road.”
 
-“Tally-keeper,” Dema said. “There is no sovereign here. Who are you?”
+“The surface is unsupported.” Yevrin pointed at the drifting lights. “Survey motes map what their light reaches. Your iron scatters it. The dark spaces are not safe spaces. They are unknown.”
 
-The woman answered. Her disk paused long enough to suggest disapproval, then said, “Yevrin Caul. Field reader. Vastor Cut. I request stillness from all sacred citizens.”
+A villager cried out behind Dema. One of the masked workers had stepped onto a doorstep and was reaching through an open cottage window for a painted spindle. Its owner slapped the hand away and pulled the shutter closed.
 
-“They're counting chickens in the east lane. You may request around them.”
+Yevrin spun toward the worker. Her own language came sharp and fast. The worker backed off at once, leaving the spindle where it was. Around the lane, other future people lowered trays, brushes, and folded wrappings.
 
-Yevrin looked toward the lane, where three children were pursuing a hen through the luminous survey lines. Her expression changed twice before settling on professional alarm. She spoke rapidly into the disk. Above them, the floating objects rose out of the children's reach.
+“These were excavation rooms,” Yevrin said. The disk rendered the last word as tombs, then houses, then tombs again. “The preserved people did not breathe or warm our instruments. We believed them remains. We believed no one lived.”
 
-Then Yevrin looked at the tavern. She did not glance. She studied every soot mark and warped board with the hungry attention of a buyer who had found gold under paint.
+“You believe differently now.”
 
-“The royal habitation,” her disk said.
+“Yes.”
 
-“Tavern.”
+Yevrin looked toward the weighhouse. A protective frame surrounded the weathered carving above its door: an ox bent beneath a bale, with a round shape over its back. Symbols glowed on a nearby plaque.
 
-Yevrin pointed to the weighhouse at the end of the square. “Seat of seals.”
+The disk read them aloud. “Dynastic seal of the ascending line.”
 
-“Weighhouse.”
+Dema stared at it. “That is an ox carrying wool.”
 
-“Coronation mark.”
+Yevrin’s gaze moved from the carving to Dema and back. “Our reconstruction identifies the upper circle as the founding crown.”
 
-She meant the clay stamp above its door: an ox carrying a bale, used to certify honest scales.
+“Cheese,” Dema said. “The ox is carrying wool and cheese. The mason was drunk.”
 
-“Trading mark,” Dema said. “The ox is badly drawn because the mason was drunk.”
+A strangled sound came from one of the workers on the scaffold.
 
-Yevrin touched the disk, perhaps to report a fault. “You are the First Kingdom.”
+Ulven pushed through the crowd with an export cup in each hand. More of the cheap clay cups sat in padded trays beside his tavern, every chipped rim separately labeled.
 
-Ulven, behind Dema, made a thoughtful noise. “Does a kingdom buy beer?”
+“They’ve emptied my back room,” he said.
 
-Yevrin turned to him with something like awe. “Keeper of sacramental fermentation.”
+Yevrin glanced at the nearest tray. The disk supplied, “Communion vessels for the royal road.”
 
-Dema closed her eyes briefly. “We need the provincial north road. We also need to know why your people are standing on my neighbors' roofs.”
+“They go free with a large jug,” Ulven said. “Or they did until nobody bought the beer.”
 
-That question survived translation less successfully. Yevrin's answer included *protected horizon*, *excavation chamber*, and *living emergence*. Dema understood only that the platforms and lights belonged to a place called Vastor Cut, and that Yevrin wanted everyone to remain inside Kelpass until the ground had been tested.
+A worker whispered to Yevrin. She answered without taking her eyes from Ulven, and the disk said, “Residue in the sealed black casks has been interpreted as the royal sacrament.”
+
+Ulven looked back at the three iron-banded casks still visible through his door. “It was a scorched batch.”
+
+The future people had begun to gather on every level of the cut. Some were crying. Some recorded through lenses held in shaking hands. One knelt until Yevrin told them, with sudden anger, to stand.
+
+“What do you think we are?” Dema asked.
+
+Yevrin swallowed. “The First Kingdom.”
+
+The title moved through the villagers by way of the translator and returned as disbelieving laughter, then silence.
+
+Yevrin pointed at the stamped weighhouse, the stacked cups, the narrow streets. “Our oldest surviving histories begin with a kingdom in the mountains. The first road. The first crown. The feast that founded law.” She touched the disk when it gave Dema the title Tribute Queen. “It learned your language from fragments we treated as ritual. Rank, scale, ordinary speech—it makes poor choices.”
+
+“Kelpass is a trading stop,” Dema said. “People sleep here when they cannot reach somewhere important before dark.”
+
+Yevrin looked at the crowded lanes, at the goats tangling themselves in excavation cord, at Ulven reclaiming cups from padded trays. Whatever answer she had prepared for the First Kingdom could not survive them.
 
 “How long?” Dema asked.
 
-Yevrin went still.
-
-There were silences that preceded a bargain, silences that hid blame, and silences used by officials while deciding how much truth a village could afford. Dema knew them all. This one was different. Yevrin looked not at the crowd gathering behind Dema, but at the worn doorstep under her own boots.
-
-When she spoke, the disk gave Dema a phrase with no sensible measure in it.
+The disk produced a phrase about reigns beyond stars. Yevrin changed a setting and made it try again, one plain word at a time.
 
 “Millions of years.”
 
-Ulven laughed once. Nobody joined him.
+The white light over the excavation did not flicker. A survey mote brushed blue across the tavern wall and veered around a nail. Dema waited for the claim to become absurd. It remained where Yevrin had put it.
 
-Dema opened the ledger to a blank margin. “How many millions?”
+“Motes map surfaces,” Yevrin continued. “They do not know age. The layers below and above you give us a range. Ash, stone, changes in life—we compare many measurements. We can be wrong within that range. We cannot be wrong enough to give you yesterday.”
 
-The disk could not translate the number. Yevrin tried another way, tapping her wrist and making images appear in the air: a long sequence of circles, divisions, and branching marks. It might have been a calendar or an elaborate insult.
+Dema turned north. The pass had always narrowed beyond the last roofs, forcing the road between a retaining wall and a drop full of pines. Now silver bridges crossed a void beneath unfamiliar rock.
 
-“North road,” Dema said. “Show me.”
+“Show me the north road.”
 
-Yevrin shook her head and pointed to a broad crack beyond the last house. The moving lights traced its depth in blue. “Unstable. The kingdom must remain.”
+Yevrin shook her head. “The direct platform was removed when your iron made gaps in the surface map. There are open cavities.”
 
-“Village.”
+“That road goes home.”
 
-“First Kingdom.”
+“You are on the ground where we found you.”
 
-“Kelpass.” Dema held her gaze. “You need us to stay out of your dangerous ground. I need to see whether the road exists. Find a path that satisfies both.”
+“Then show me that.”
 
-Yevrin's mouth tightened. Dema saw the refusal arrive, meet some other duty, and alter. The field reader turned to her companions and began issuing instructions.
+Yevrin’s attention sharpened. This was a demand she could answer with more than grief. “I can show you the contact face and the surviving road bed. If the route holds.”
 
-Ulven fetched the duplicate tax roll from the weighhouse while they waited. It was tied with twine because the iron pin was still missing.
+“I know how the slope was built.”
 
-“In case they have a clerk,” he said.
+“I know what the cut has done to it.”
 
-“They called you a priest.”
+Behind them, a cottage lintel shifted with a soft crunch. The worker who had reached for the spindle moved toward it, then stopped several steps from the threshold. The owner opened her door a hand’s width. After a hurried exchange of gestures, she beckoned the worker in to place a brace.
 
-“Priests keep accounts.”
+Yevrin watched until the lintel rested on shining supports. Then she unwound the orange line.
 
-Yevrin returned with two breathing masks, a coil of orange marker, and a thin board on which light moved like water. She permitted one villager to accompany her. Dema permitted Ulven to remain behind.
+They left Ulven at the tavern. He pressed Dema’s wool coat into her hands; the air in Kelpass was still autumn-cold, but warm wind breathed through the open heights of Vastor Cut. Yevrin added soft overshoes and fastened a safety line between their belts. When Dema’s iron buckle drove a survey mote back, Yevrin marked the resulting blank on a thin field board and took out her rod.
 
-“If I don't return by dark,” Dema told him, “open the grain store.”
+“No guesses,” she said. “If I cannot touch it or see it mapped, we stop.”
 
-“It's half empty.”
+“If I tell you there was a ditch?”
 
-“Then opening it will take less time.”
+“You tell me where. I test what remains.”
 
-They walked north.
+They passed the last cottage and stepped off yesterday.
 
-In Kelpass, distance had always been measured by errands. From the tavern to the weighhouse was a complaint about ale duty. From the weighhouse to the dyer's yard was one disputed bolt. From there to the north marker was enough time to remember whom you had forgotten to charge.
+A scaffold stair descended around the village shelf. Through its open treads Dema saw rooms, bridges, and workers far below, diminished by the size of the cut. Kelpass roofs clustered behind her like objects set on a table. Beyond the translucent roof lay a flat country of silver-green reeds and dark water. Warm rain blurred the distance. There was no ridge to catch the clouds, no snow line, no familiar notch where the north road had gone.
 
-Now each errand crossed an argument about history.
+People lined the bridges as Dema and Yevrin passed. A gray-haired archaeologist pressed both palms to their mouth. Someone spoke a greeting in old Kelpass words, the vowels stretched into prayer. Dema understood only “road” and “dawn.” Yevrin did not ask her to answer.
 
-Yevrin's board showed a drawing of the village made before anyone woke. The largest roof bore a crown-shaped symbol. Rows of little export cups, found stacked behind Ulven's bar, were arranged in an image beside kneeling figures who had never existed. The clay trading stamp appeared twenty times larger than a hand and was captioned with symbols the disk rendered as *dynastic seal of ascent*.
+The stair ended beside the exposed face of the earth.
 
-“It says the ox is climbing into heaven,” Yevrin explained.
+Dema had expected dirt. Instead she found worlds stacked above the level of her head. Directly over the broken outer wall lay brown rubble from Kelpass’s own mountain. Above it ran fine gray bands that Yevrin said had settled in deep water. A layer crowded with pale shells crossed the cut higher than the tavern roof. Blackened roots spread through another band. Red ash followed, then stone squeezed into shining folds. Near the top, long scratches scored the rock where ice had dragged debris across it.
 
-“It is carrying wool.”
+“The mountain weathered into the lowest fans,” Yevrin said. Her disk called weathering a slow devouring. “Later the land sank. Water covered it. It rose. Rivers cut it. Ice crossed it. It rose again.”
 
-“The upper form was read as a sun.”
+Dema touched a piece of dark slate in the rubble. It split along the same silver grain as the stone her mother had once used to roof a shed.
 
-“Cheese.”
+Yevrin held out the field board. It showed the visible face in lines of light, but every ancient nail appeared as an empty ring. “This is all the motes do. Surface shape. We place the sequence. We argue about it. Until this morning, we argued whether your houses were houses.”
 
-Yevrin stopped walking. “A sun made of cheese?”
+A tremor passed through the scaffold. Dust whispered down the cliff. Yevrin waited with one hand on the safety line, reading the movement of hanging markers rather than the board. When they stilled, she led Dema onto a narrow bridge toward the north face.
 
-“A wheel of cheese. The mason was very drunk.”
+Halfway across, the bridge stopped.
 
-For a moment, the field reader's careful face gave way. She laughed. Not loudly, and not comfortably, but enough that Dema disliked her less.
+Ahead lay a rib of preserved stone no wider than a cart, separated from the next platform by a dark gap. Blue survey lines combed the top of the rib, then fled from a broad oval at its center. Somewhere beneath the stone, old iron cast a halo larger than a person. An orange warning strip fluttered from the rail.
 
-The laughter did not make the cut shallower.
+“We turned back here,” Yevrin said. “There is a hollow, but the motes cannot give its edges.”
 
-Past the dyer's yard, the street had been opened along one side. The yard's retaining wall stood complete to shoulder height and ended in a smooth plane of dark stone. Beyond it, bands of red, black, gray, and glittering white rose higher than the scaffolds. Some curved. Others had been crushed and lifted as if mountains had once kneaded the ground.
+Dema crouched. Beneath the warm rain smell and the cut’s clean metal, she caught a trace of wet mineral air. The stones were familiar: three long caps set across the old road, their ends resting on squared walls.
 
-Dema knew every rock in the pass that broke plows. She knew where spring water tasted of copper and which slope shed stone after hard rain. She knew none of these layers.
+“The runoff culvert,” she said. “Spring water crossed under the road here. The uphill wall was laid double because cart wheels struck it on the bend.”
 
-Yevrin indicated the wall with her board. Its image shrank until Kelpass became a fleck inside a stack of color.
+“Which side was uphill?”
 
-“Deposits after preservation,” the disk said. “Seas. Forest systems. Ash events. Ice. Pressure. Uplift. Loss.”
+Dema looked for the northern peak and found only pale sky. Her body still knew. She pointed to her left.
 
-At *seas*, Dema nearly corrected it. Then she saw a pale spiral embedded in stone far above the height where the north peak should have been.
+Yevrin clipped their line to the rail and lay flat with the rod extended. Its tip rang solid at the left edge, hollow in the center, solid again beyond. She shifted twice, testing from different angles. Dema showed her the joints that had once been packed with clay and the narrow slot where flood water escaped.
 
-“My sister lives two days south,” she said.
+“The old left wall remains,” Yevrin said. “The cap does not.”
 
-The disk rendered it. Yevrin lowered the board.
+As if the cut wished to settle the point, a stone at the oval’s center tilted and dropped. It struck nothing Dema could see. A survey mote floated over the opening, its blue comb bending uselessly away from a rusted grille exposed below. Then it resumed tracing the visible rim.
 
-“Everyone outside the preserved field,” Yevrin began, and stopped.
+Yevrin called down. Workers brought two scaffold planks along the lower bridge and raised them by rope. She laid them over the surviving wall, tested their anchors, and crossed first on hands and knees. Dema followed. Warm air rose through the hole and pulled at her coat. For one moment she looked down and saw the rusted teeth of the old grille hanging above a depth filled with white work lights.
 
-Dema supplied the total because totals were what she did. “Gone.”
+On the far side, Yevrin reached back. Dema took her wrist, and together they moved onto solid stone.
 
-Yevrin did not say *millions of years* again. She marked the safe path around a cluster of exposed beams. Wherever the old iron nails lay hidden, the survey light opened blank halos, so Yevrin had to test the floor with a plain rod. The most advanced equipment in Vastor Cut could map crushed seas but lost its way around a horseshoe. This fact pleased Dema for almost ten steps.
+The road waited beyond the next platform.
 
-At the north marker, Kelpass ended.
+It was only a short tongue of packed earth, sheltered inside the vanished boundary that had held Kelpass. Two shallow wheel ruts ran between stones Dema knew. A tuft of brown grass leaned where it had leaned beneath the aurora, every blade still beaded with the evening’s dew.
 
-The packed road continued one pace beyond the stone post. Two wheel ruts held yesterday's dried mud. In the left rut lay Dema's iron pin, exactly where it had fallen from the tax packet. She bent to pick it up.
+Then the earth ended against a vertical cut.
 
-Yevrin caught her wrist.
+Yevrin lowered a walkway so Dema could stand beside the exposed road bed. Beneath the packed dirt, a white quartz vein slanted through black foundation rock. It crossed the boundary without a break and continued into the stone beyond, bent in the same places, split by the same thin red seam.
 
-The ground ahead was not ground. It was the top of a narrow standing shelf, cut cleanly on both sides. Far below, workers and machines moved through a basin under a translucent roof. Beyond the roof lay a flat silver-green country. No northern peak blocked the horizon. No pass divided the sky. Kelpass's road ended over a depth Dema could not make her body understand.
+“That fracture continues under your village and under the region,” Yevrin said. “Your ground was not carried here. This is its original place.”
 
-Yevrin released her and used the rod to draw the pin toward them. It skittered over the last rut and came to rest beside Dema's boot.
+Above the road’s end, the cliff rose through all the layers they had passed. The first brown fan contained chips of the northern mountain. Farther out, a faint line of crushed slate followed the old road’s direction for several paces, thinned, and disappeared beneath gray sediment.
 
-“The road continues,” Yevrin said.
+“How far did you find it?” Dema asked.
 
-On her board she layered one image over another. A faint mineral line extended from the shelf through the bands across the cut. Here a rut had filled with volcanic dust. Farther on, pressure had turned road grit into a seam no thicker than thread. The line buckled, vanished, appeared again, and finally dispersed beneath the plain. It was the north road only because Yevrin had spent years proving it had once been one.
+“Fragments along this face. Nothing intact beyond them.”
 
-“Your mountain,” the disk said. “Removed by erosion before the most recent uplift.”
+“It climbed to the pass.”
 
-Dema gripped the iron pin. Its split end pressed into her palm.
+“The pass eroded before the sea layer formed.”
 
-She had intended to take that road in the morning. She would carry the quarterly return to the provincial office, argue down the penalty, visit her sister on the way home, and buy a winter coat if the wool merchants had left any decent cloth. All morning-sized plans. All located just beyond one ordinary night.
+“And the road down the other side?”
 
-“Who governs this district?” she asked.
+“Gone.”
 
-Yevrin named an authority the disk translated as a cooperative of habitats, waters, and persons.
+Dema looked through the open side of the excavation roof. Reeds bowed in warm rain across a plain where the mountain had stood. A broad-winged animal turned above the water, too far away for her to understand its shape.
 
-“Did it perform the excavation?”
+Her sister’s house had been a morning beyond the second ridge. There had been a red door, a row of bee skeps, and a kettle with a handle that burned anyone too proud to use a cloth. Dema had promised to bring lamp oil. The promise felt close enough to complete. The road dust under her palm was still damp from the same evening.
 
-“It licensed the cut.”
+Everyone beyond the edge had lived out a life, or lost it, before the lowest unfamiliar layer settled over Kelpass. Their children had done the same. Languages, roofs, border stones, and every road name had thinned into traces or vanished without even that.
 
-“Then it can provide transport.”
+Dema pressed both hands into the rut. Grief came through touch: grit under her nails, warm rain on the back of her neck, no mountain wind.
 
-Yevrin looked across the silver-green plain. “Transport where?”
+“We saw green light over the mountain,” she said. “Can you make it happen again?”
 
-“To our province.”
+“No.” Yevrin sat on the walkway, leaving space between them. “We did not preserve you. We uncovered the preserved edge, but found no active device, no opening, no repeating signal. The evidence does not tell us why it happened.”
 
-“There is no province.”
+“Can anything here take us back?”
 
-“To the kingdom that replaced it.”
+“No.” Yevrin’s answer survived the translator cleanly. “I can show you every surface we have exposed. I can keep a safe path to this road. I cannot take you to yesterday.”
 
-“No record survives of your province. The First Kingdom is the oldest named polity in our histories, and even that name is from a poem copied long after this site was buried.”
+Below them, survey motes moved across the cut face. They made the road’s last stones blue, avoiding a scatter of iron deep in the wall. Their fixed sweeps continued while Dema knelt above them.
 
-“We were not a polity.”
+After a while she asked, “When your people come for the First Kingdom, what will they do with Kelpass?”
 
-“I understand what you say.”
+Yevrin looked out at the plain. “The myth is older than Vastor Cut. People will argue. Some will come wanting the story they already know.” She rubbed dust from the end of her probe. “I can tell them what we found. I can give you access to what we found. I will not call your rooms tombs while you are sleeping in them.”
 
-“Do you?”
+“Call us Kelpass when you mean Kelpass.”
 
-Yevrin's silver cheek marks caught the excavation light. “I have spent seventeen years studying the First Kingdom. I know six hundred versions of its founding feast. I can tell you which rulers were invented to explain changes in cup handles. This morning I believed that room was a palace and your brewer was a ritual office inherited through blood.” She looked back toward Ulven's tavern roof. “I cannot refuse what you tell me because it ruins my work.”
+Yevrin nodded.
 
-Dema considered this. “He inherited the tavern from an aunt who won it at dice.”
+They crossed the culvert again before the future dusk thickened. This time Dema did not look down. Vastor Cut shone around them, each scaffold rail coming alive with small white lamps. The strata lost their colors and became enormous dark pages with Kelpass caught between them.
 
-Yevrin took a slow breath. “That will be expensive too.”
+People saw Dema return on Yevrin’s line and came to her in twos and threes. She told them the north road ended, that the ground beneath their houses was the same, and that nothing in the excavation could open a way backward. The news moved along thresholds in broken pieces.
 
-Below them, a machine moved along the basin wall. Its many delicate arms brushed dust from stone while a worker reclined inside it, eating something from a paper twist. Dema watched until the machine turned. Work was still work. Someone in the future still took lunch while doing it.
+By nightfall, Kelpass had made many different choices. A family whose chimney had cracked crossed onto the scaffold to sleep in a clear-walled workroom. Their neighbors barred their cottage and accepted blankets left outside. Some of the road guests climbed to the lowest viewing bridge and stared for hours at the flat horizon; others bedded down in Ulven’s stable beside the frightened mules. Future workers waited at doors until someone beckoned them across. One helped shore a roof. Another sat on a step outside a closed house, tools untouched, while an old woman questioned them through the shutter.
 
-“Which office returns displaced villages?” she asked.
+The excavation roof sealed against the rain. Its panels changed the strange sky to a muted gray, but warm wind still wandered the lanes where mountain wind had always been.
 
-“None.”
+Yevrin stopped at the tavern threshold.
 
-“Which office pays for losses caused by excavations?”
+Ulven had recovered his cups. He had also arranged the three black casks behind the bar, perhaps because losing the world was no reason to let strangers misplace stock. He looked at Yevrin until she understood and knocked on the open door.
 
-“The excavation did not cause the preservation.”
+“Come in,” he said.
 
-“Which office decides whether we may use our houses?”
+She did.
 
-Yevrin's head came up. “No office should decide that.”
-
-“Your plaques are fixed to our walls.”
-
-Yevrin looked back along the orange-marked route. “We believed them unoccupied.”
-
-“They are not.”
-
-“No.”
-
-“Then your people knock.”
-
-Yevrin nodded. “They will knock.”
-
-Dema unfolded the tax roll. The list began with households and ended with obligations: bridge work, grain reserve, ale duty, road repair, tax. The bridge was gone. The grain remained. No province waited for the silver.
-
-“Can your record be corrected?” she asked.
-
-Yevrin hesitated. “The excavation record, yes. Public history will take longer. The First Kingdom belongs to people who have never seen this place. Some will not surrender it because we found you.”
-
-“We don't need the kingdom.”
-
-“You may need what the name makes them willing to protect.”
-
-Dema could imagine future visitors bowing to the brewer, future officials saving sacred walls while ignoring the people who patched them. She could also see the cut beneath her toes.
-
-“Record Kelpass first,” she said. “Call the other thing what you like after.”
-
-Yevrin considered the terms as seriously as Dema had hoped. “I can do that in my work. I cannot promise it for everyone.”
-
-“Good. I distrust promises made for everyone.”
-
-She retied the roll with its iron pin and slid it inside her coat. She would not hand it to a future clerk. The figures had become useless; the one hundred and eighty-three names had not.
-
-On the return walk, Dema asked about the air first. Breathable, except near newly opened strata. The water in Kelpass's wells was safe for the moment, though limited to what remained inside the preserved ground. Future weather would turn cold before morning. Vastor Cut had food for its own crews, not two hundred unexpected mouths, but more could arrive after nightfall. The excavation roof could close. The houses were structurally sound where surveyors had tested them, and untested where iron blinded the motes.
-
-“Masks?” Dema asked.
-
-“Available.”
-
-“Blankets?”
-
-“Coming.”
-
-“Beer buyers?”
-
-The disk struggled. Yevrin waited for its explanation and glanced at the three casks visible through Ulven's back window.
-
-“Many,” she said.
-
-Dema delivered the news door to door. She did not call a meeting. Kelpass had never agreed on anything in a crowd except that meetings ran too long.
-
-At each threshold she gave the same facts. The north road could not carry them home. The mountain and province were gone. The future had weather, food, laws, and foolish beliefs. Nobody from Vastor Cut would enter a house without invitation. Anyone who wanted a mask, a blanket, or a safer place to sleep could ask.
-
-The village did not respond as one. Some people shut their doors and barred them. Some wanted to see the cut at once. The nine road guests argued that they belonged to no vanished Kelpass and then refused to be housed separately. An old woman made two future workers remove their shoes before letting them inspect her chimney. The children learned how close they could bring a buckle to a survey mote before it fled, until both eras shouted at them.
-
-One household chose cots on the excavation platform because their roof had cracked. Three chose to sleep in the street under a sky with no mountains around it. Most remained in their own beds, though lamps burned behind the shutters.
-
-At the tavern, Ulven admitted Yevrin after making her knock twice. She sat at the same table where Dema had slept through the end of the world. Without her mask, she looked younger and much more tired.
-
-Ulven drew beer from the first unsold cask into one of the cups her century considered sacred. Yevrin held it with both hands. The room quieted despite itself.
+Ulven filled one of the supposed communion vessels from the first cask. The beer came out brown, with little foam and the smell of damp smoke. Yevrin held it beneath her nose. Around her, villagers and archaeologists watched with the strained attention of people who had spent the day learning that the other side was real.
 
 She drank.
 
-Her face underwent the collapse of a long religion.
+For a moment the royal sacrament defeated translation altogether.
 
-“Smoke?” the disk offered weakly. “Royal resin? Ceremonial bitter?”
+“Mediocre,” Yevrin said at last.
 
-“Burned malt,” Ulven said.
+Ulven accepted this with grave satisfaction.
 
-Yevrin tried a second sip, as conscientious as an archaeologist and as doomed. “It is not good.”
+Dema tasted the future air coming through the door, warm and wet where autumn cold belonged. Then she pointed to the blue water cans waiting outside.
 
-Ulven looked at Dema. “Put that in the tax return.”
+“Which of your water can the children drink?”
 
-Dema opened her ledger to a fresh page and wrote three headings: masks, blankets, roof braces. Outside, new lights moved above the roofs, laying careful paths around old iron.
-
-“How cold?” Dema asked Yevrin. “The actual night, not the historical one.”
-
-Yevrin pushed the beer away and told her.
+Yevrin pushed the legendary beer aside and went to show her.
