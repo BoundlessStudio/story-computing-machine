@@ -5,6 +5,7 @@ import html
 import json
 import re
 import shutil
+import subprocess
 from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
@@ -20,6 +21,7 @@ TITLE_IMAGE_WIDTH = 864
 TITLE_IMAGE_HEIGHT = 1536
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+RATINGS = frozenset({"PG", "YA", "R+"})
 
 
 @dataclass(frozen=True)
@@ -28,6 +30,8 @@ class Story:
     title: str
     created: str
     created_at: str
+    edited: str
+    rating: str
     canon: bool
     status: str
     prompt: str
@@ -102,6 +106,29 @@ def parse_writing_prompt(content: str, path: Path) -> str:
     if not prompt:
         raise ValueError(f"{path} has an empty Prompt section")
     return prompt
+
+
+def _content_rating(content: str) -> str:
+    normalized = content.replace("\r\n", "\n").replace("\r", "\n")
+    lowered = normalized.casefold()
+    if (
+        re.search(r"\bhard[- ]?r\b|\br[- ]rated\b", lowered)
+        or "explicit consensual sexual content may remain" in lowered
+        or "graphic mob violence" in lowered
+    ):
+        return "R+"
+
+    audience = re.search(
+        r"(?mi)^-\s*(?:Audience/content rating|Tone and audience):\s*(?P<value>.+(?:\n(?: {2,}|\t).+)*)",
+        normalized,
+    )
+    if audience is None:
+        return "PG"
+
+    value = audience.group("value").casefold()
+    if re.search(r"\b(?:pg-?13|teen|young[- ]adult|ya|adult)\b", value):
+        return "YA"
+    return "PG"
 
 
 def _bool(value: str, path: Path, field: str) -> bool:
@@ -206,6 +233,41 @@ def _resolve_created_at(path: Path, created: str, source_value: str | None) -> s
     return resolved.isoformat(timespec="seconds")
 
 
+def _resolve_edited(paths: Iterable[Path], repository_root: Path) -> str:
+    source_paths = tuple(path for path in paths if path.is_file())
+    if not source_paths:
+        raise ValueError("Cannot resolve an edited date without source files")
+
+    root = repository_root.resolve()
+    try:
+        relative_paths = [path.resolve().relative_to(root).as_posix() for path in source_paths]
+    except ValueError:
+        relative_paths = []
+
+    if relative_paths:
+        status = subprocess.run(
+            ["git", "-C", str(root), "status", "--porcelain=v1", "--", *relative_paths],
+            text=True,
+            capture_output=True,
+            check=False,
+        )
+        if status.returncode == 0 and status.stdout.strip():
+            return date.today().isoformat()
+
+        history = subprocess.run(
+            ["git", "-C", str(root), "log", "-1", "--format=%cs", "--", *relative_paths],
+            text=True,
+            capture_output=True,
+            check=False,
+        )
+        resolved = history.stdout.strip()
+        if history.returncode == 0 and DATE.fullmatch(resolved):
+            return resolved
+
+    latest_modified = max(path.stat().st_mtime for path in source_paths)
+    return datetime.fromtimestamp(latest_modified).astimezone().date().isoformat()
+
+
 def _load_current_story(directory: Path) -> Story:
     story_path = directory / "story.md"
     front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
@@ -232,14 +294,20 @@ def _load_current_story(directory: Path) -> Story:
         raise ValueError(f"{review_path} is not a passing review")
 
     prompt_path = directory / "prompt.md"
+    prompt_source = prompt_path.read_text(encoding="utf-8")
     return Story(
         slug=front["slug"],
         title=front["title"],
         created=front["created"],
         created_at=_resolve_created_at(story_path, front["created"], front.get("created-at")),
+        edited=_resolve_edited(
+            (prompt_path, story_path, review_path, directory / TITLE_IMAGE_NAME),
+            directory.parents[1],
+        ),
+        rating=_content_rating(prompt_source),
         canon=_bool(front["canon"], story_path, "canon"),
         status="canon" if front["canon"] == "true" else "reviewed",
-        prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
+        prompt=parse_writing_prompt(prompt_source, prompt_path),
         cover=_source_cover(directory, front["slug"]),
         body=body.strip(),
     )
@@ -269,14 +337,20 @@ def _load_legacy_story(directory: Path) -> Story:
         raise ValueError(f"Legacy story identity differs in {story_path}")
 
     prompt_path = directory / "00-prompt.md"
+    prompt_source = prompt_path.read_text(encoding="utf-8")
     return Story(
         slug=record["slug"],
         title=record["title"],
         created=record["created"],
         created_at=_resolve_created_at(story_path, record["created"], record.get("createdAt")),
+        edited=_resolve_edited(
+            (prompt_path, story_path, record_path, directory / TITLE_IMAGE_NAME),
+            directory.parents[1],
+        ),
+        rating=_content_rating(prompt_source),
         canon=record["canon"],
         status=record["status"],
-        prompt=parse_writing_prompt(prompt_path.read_text(encoding="utf-8"), prompt_path),
+        prompt=parse_writing_prompt(prompt_source, prompt_path),
         cover=_source_cover(directory, record["slug"]),
         body=body.strip(),
     )
@@ -306,7 +380,7 @@ def _ordered(stories: Iterable[Story]) -> tuple[Story, ...]:
 def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     value = read_json_object(snapshot_path)
     require_exact_fields(value, {"schemaVersion", "stories"}, str(snapshot_path))
-    if value["schemaVersion"] != 3 or not isinstance(value["stories"], list):
+    if value["schemaVersion"] != 4 or not isinstance(value["stories"], list):
         raise ValueError(f"Unsupported snapshot in {snapshot_path}")
 
     stories: list[Story] = []
@@ -316,6 +390,8 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
         "title",
         "created",
         "createdAt",
+        "edited",
+        "rating",
         "canon",
         "status",
         "prompt",
@@ -341,6 +417,10 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
             or not DATE.fullmatch(item["created"])
             or created_at is None
             or created_at.date().isoformat() != item["created"]
+            or not isinstance(item["edited"], str)
+            or not DATE.fullmatch(item["edited"])
+            or not isinstance(item["rating"], str)
+            or item["rating"] not in RATINGS
             or not isinstance(item["canon"], bool)
             or not isinstance(item["status"], str)
             or not item["status"].strip()
@@ -359,6 +439,8 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
                 title=item["title"],
                 created=item["created"],
                 created_at=item["createdAt"],
+                edited=item["edited"],
+                rating=item["rating"],
                 canon=item["canon"],
                 status=item["status"],
                 prompt=item["prompt"],
@@ -376,13 +458,15 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = Catalog(_ordered(stories))
     value = {
-        "schemaVersion": 3,
+        "schemaVersion": 4,
         "stories": [
             {
                 "slug": story.slug,
                 "title": story.title,
                 "created": story.created,
                 "createdAt": story.created_at,
+                "edited": story.edited,
+                "rating": story.rating,
                 "canon": story.canon,
                 "status": story.status,
                 "prompt": story.prompt,
@@ -467,25 +551,36 @@ def _story_label(story: Story) -> str:
     return "Canon" if story.canon else story.status.replace("-", " ").title()
 
 
+def _display_date(value: str) -> str:
+    parsed = date.fromisoformat(value)
+    return f"{parsed.strftime('%b')} {parsed.day}, {parsed.year}"
+
+
 def render_index(catalog: Catalog) -> str:
     items = []
     for index, story in enumerate(catalog.stories):
         created = html.escape(story.created)
-        created_at = html.escape(story.created_at, quote=True)
+        edited = html.escape(story.edited)
         slug = html.escape(story.slug, quote=True)
         title = html.escape(story.title)
         cover = html.escape(story.cover, quote=True)
+        story_label = html.escape(_story_label(story))
+        status_class = re.sub(r"[^a-z0-9]+", "-", _story_label(story).casefold()).strip("-")
+        rating = html.escape(story.rating)
+        rating_class = story.rating.casefold().replace("+", "-plus")
         loading = "eager" if index == 0 else "lazy"
         items.append(
             f'<li class="story-card"><a class="story-card-link" href="stories/{slug}.html">'
-            f'<img class="card-cover" src="{cover}" alt="" width="864" height="1536" '
+            f'<img class="card-cover" src="{cover}" alt="Cover art for {title}" width="864" height="1536" '
             f'loading="{loading}" decoding="async">'
-            f'<span class="card-copy"><span class="story-title">{title}</span>'
-            f'<span class="card-prompt"><span class="prompt-label">Prompt</span>'
-            f'{html.escape(story.prompt)}</span>'
-            f'<span class="story-meta"><time datetime="{created_at}">{created}</time>'
-            f'<span>{_story_label(story)}</span><span>{story.word_count:,} words</span>'
-            f'</span></span></a></li>'
+            f'<div class="card-copy"><h2 class="story-title">{title}</h2>'
+            f'<dl class="card-details">'
+            f'<div class="card-detail"><dt>Date created</dt><dd><time datetime="{created}">{_display_date(story.created)}</time></dd></div>'
+            f'<div class="card-detail"><dt>Date edited</dt><dd><time datetime="{edited}">{_display_date(story.edited)}</time></dd></div>'
+            f'<div class="card-detail"><dt>Status / tag</dt><dd><span class="status status-{status_class}">{story_label}</span></dd></div>'
+            f'<div class="card-detail"><dt>Word count</dt><dd>{story.word_count:,}</dd></div>'
+            f'<div class="card-detail"><dt>Rating</dt><dd><span class="rating rating-{rating_class}">{rating}</span></dd></div>'
+            f'</dl></div></a></li>'
         )
     body = (
         '<section class="library"><p class="eyebrow">Shared-universe fiction</p>'
