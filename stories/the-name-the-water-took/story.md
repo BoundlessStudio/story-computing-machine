@@ -8,346 +8,508 @@ canon: false
 
 # The Name the Water Took
 
-My hands find mud, a root smooth as bone, three startled pebbles, and no clothes.
+I wake because I have breathed water.
 
-I have been searching the bottom long enough for my lungs to hurt. I surface into green light and a commotion of wings. Warm water streams from my hair. The pool is small, no wider than a room, sunk among trees whose roots grip its rim. Rain dimples the surface, but nothing floats there. No dress. No sandals. No torn scrap to prove I wore anything into the water.
+My body knows what to do before I understand the mistake. My throat closes. My arms sweep outward, find resistance, and drive me toward a stain of green light. I break the surface coughing. Warm rain taps my eyelids. Leaves crowd the sky in a hundred wet shapes.
 
-I cannot remember what I wore.
+I know *rain*. I know *leaves*. I know the difference between a vine and a snake where it loops over a branch.
 
-That absence opens beneath the first. I know what clothes are. I know rain by the cold touch of it and the metallic smell rising from leaves. I know that the orange bars between the trunks mean evening and that a jungle path will soon become difficult to read. I know how to tread water without splashing.
+I do not know who is coughing.
 
-I do not know where I learned.
+The pool is scarcely ten strides across, round and dark under the trees. I stand on a submerged shelf with the water at my ribs and push hair out of my face. My hands are brown, smooth, strong. They feel like hands I have borrowed without being told from whom.
 
-I reach for my name and find the same soft bottom, the same blind roots.
+I am naked.
 
-On the bank, a woman says, “Don’t go under again.”
+I search the shallows first, feeling among stones for cloth. Then I dive. The deeper water is tea-colored and warm. I find silt, a drowned branch, the cold mouth of a spring. Nothing made or worn. On my second dive I search the shelf behind me. On my third, I am no longer looking for clothes. I am waiting for the sight of some object to strike through me and make a life.
 
-She stands beneath a broad-leafed tree, rain silvering her gray hair. She is perhaps sixty, lean and weather-browned, in trousers tucked into mud-dark boots. A folded cloth rests over one forearm. Her other hand is visible and empty.
+A voice above says, “Stay up this time.”
 
-I back away until my heels strike the drop at the pool’s center. My body does it quickly. Too quickly. There is strength waiting everywhere: in my thighs, my belly, the pull of my shoulders. I feel no ache except the clean sting in my lungs.
+I spin and tread water.
 
-“Who are you?” I ask.
+An old woman stands on the bank. Not ancient—perhaps sixty—but the distinction comes to me without any memory of learning faces. Rain lies silver in her cropped hair. Her boots are caked to the ankles. She holds a rust-colored wrap in both hands and looks at me with the fixed attention of someone watching a door she has dreaded opening.
 
-The woman’s mouth tightens. Not surprise. Preparation.
+“Who are you?”
 
-“Eswen,” she says. “I know the name you used. I have a wrap for you. May I come close enough to set it down?”
+“Eswen.”
 
-Used. Not use.
+“Who am I?”
 
-“Set it there.” I point to a flat stone. My hand is brown, unwrinkled, the nails pale crescents. No ring. No mark where one has been.
+Her fingers tighten on the cloth. “You left that answer in writing.”
 
-Eswen approaches the stone and crouches slowly. The cloth is plain and clean. She puts it down, retreats five steps, and turns her back.
-
-I climb out.
-
-The bank should be slippery. My feet choose holds before I can think about them, toes locking around stone, arms taking my weight. I come over the rim in one smooth motion and nearly laugh. The pleasure is sudden, animal, outrageous. My heart drives hard and evenly. I could run. I could climb one of the immense trees and look down through the rain.
-
-Then I see Eswen’s shoulders shaking once beneath her wet shirt.
-
-I snatch up the wrap. It clings for an instant, then loosens. Water beads on my skin in round, bright drops. More rain strikes me and skitters off without wetting me at all.
-
-“What happened to me?”
-
-“Cover yourself first,” Eswen says. “Then come with me. It isn’t safe to take the trail in the dark.”
-
-“You knew I would be here.”
-
-“Yes.”
-
-“Did you put me in that water?”
-
-She turns. Her eyes catch on my face, then force themselves down. “No. You walked in.”
-
-“Why?”
-
-“I brought answers. You arranged them.” She takes one careful breath. “I promised I would wait until dawn. I can do that much.”
-
-She gives *much* the force of a limit.
-
-The shelter is fifty paces uphill, a leaf roof pitched over four poles and a raised plank floor. I count without deciding to count. A low table stands inside. Two bedrolls occupy opposite corners. There are water jars, a shaded lantern, a canvas pack, a metal cup, and three thick paper packets sealed with black wax.
-
-BODY. PEOPLE. WHY.
-
-The labels are written in the same severe hand.
-
-“Sit,” Eswen says. “Drink half that cup.”
-
-“Whose handwriting?”
-
-“Yours.”
-
-The answer strikes nothing in me. I lift the cup. The water tastes faintly of boiled leaves. My hands do not shake.
-
-Rain rattles harder on the roof. The wrap is damp, but my skin beneath it stays dry. Heat gathers under the cloth as if I am standing too near a stove.
-
-Eswen unfolds a fan made from woven reeds and begins moving air across my face.
-
-“Stop hovering over me,” I say.
-
-“Then take the fan.”
-
-I do. The sharpness of the answer steadies me more than kindness would have. “Why am I not wet?”
-
-“The film lasts a few hours. Nothing settles on it. Water, sweat, mosquitoes. That means you can overheat without noticing soon enough. Drink.”
-
-Two mosquitoes circle my knee and veer away. I hold a hand beneath the roof’s runoff. A clear dome forms over my palm and spills from the edges. No oil gleams on my skin; no scent rises from it.
-
-Eswen watches me test it. She has expected testing.
-
-“Have you seen this before?”
-
-“Open a packet.”
-
-“Are you a physician?”
+“Say it.”
 
 “No.”
 
-“A relative?”
+The refusal is too quick to be uncertainty. I wade backward until the shelf falls away. My legs carry me easily. I could cross the pool in six strokes. I could pull myself into the lower branches and be gone before this woman caught her breath.
 
-Her face changes, so slightly I might have missed it if I were not studying her. “Open a packet, or don’t. You chose that arrangement because you knew you would ask faster than anyone could answer.”
+Eswen sets the wrap on a pale rock. “I won’t come closer. There’s a shelter uphill. Dusk in less than an hour, and the trail is bad after dark.”
 
-I lay my fingers on WHY. The wax is already scored, easy to break. I move instead to BODY.
+“How did I get here?”
 
-Eswen gives a short, humorless sound. “Yes. You would.”
+“You walked.”
 
-Inside is a single sheet protected by waxed paper. The first line says: **The name I have used for sixty-three years is Amaya.**
+“Alone?”
 
-I read it twice.
+“With me.”
+
+“Did you put me in the water?”
+
+“No.”
+
+“Did you watch me go in?”
+
+“Yes.”
+
+Her knuckles pale on the cloth. She turns away from the pool, presenting her back.
+
+I climb onto the bank. The mud should give under my feet; instead my toes find buried stone. I rise so fast that I almost overbalance. A laugh escapes me, one startled sound. The body can do things. Breath floods it without pain. My knees fold and straighten as if no year has ever rubbed against them.
+
+Eswen hears. Her head drops.
+
+I wrap myself. Rain has soaked the cloth, but the wetness will not touch me. Each drop rounds against my skin and rolls away. Even the wrap seems to hover on a clear, slippery layer.
+
+“What is this?”
+
+“Part of what happens.” Eswen keeps facing the trees. “It will wear off. Until then, you cannot sweat. Don’t run.”
+
+I want to run at once.
+
+Instead I follow her uphill.
+
+The shelter is close enough that I can still glimpse the pool between trunks: four posts, a roof of layered leaves, plank flooring lifted above the mud. Inside are two mats, a low table, a lantern, water jars, and a canvas pack. Three packets wait in a row. Each is sealed in dark wax.
+
+BODY.
+
+PEOPLE.
+
+WHY.
+
+The letters lean forward, impatient. I know handwriting well enough to see that one person made all three labels. The pen bit hard on the downstrokes.
+
+“Whose hand?”
+
+Eswen hangs her wet outer shirt on a peg. “The woman who entered the pool.”
+
+“You avoid pronouns for a living?”
+
+“I mend ovens.”
+
+It is the first answer that was not prepared for me.
+
+Heat gathers under the wrap. Eswen pours water to a charcoal line scratched halfway down a metal cup and points at a stool.
+
+“Drink to the mark. Slowly.”
+
+“First tell me my name.”
+
+“I promised to put those in front of you. I promised to answer what they do not. I did not promise to become a fourth packet.”
+
+The sentence has been rehearsed, but not polished. She clips its end as if she has said it too many times to an empty room.
+
+I pick up PEOPLE.
+
+Eswen’s hand moves, then stops before touching mine. “You meant to start with BODY.”
+
+“You know what I meant?”
+
+“She wrote an order on the backs.”
+
+I turn the packet over. A small 1 sits there.
+
+“Then she should not have given me a choice.”
+
+Something shifts in Eswen’s expression. Approval would be too generous a word. Recognition, perhaps, and dislike of the recognition.
+
+I break the PEOPLE seal.
+
+The first photograph is of a baby bundled in white. A young woman holds her, exhausted and triumphant. The young woman’s nose has the same blunt bridge I can feel on my own face. Her hands are broad like mine. Beneath the picture, in the severe hand, is written: *Eswen, six days. Would not sleep unless I walked.*
+
+I look across the table. Eswen has that baby’s left ear, narrow at the top. A small pale notch divides her eyebrow in the same place it does in later photographs.
+
+There are eleven more. The child lengthens; the mother thickens, grays, bends. In one, Eswen at sixteen turns her burned palm toward the camera while the woman beside her scowls at whoever took the picture. In another, they sit at opposite ends of a bench, not speaking. The final photograph shows Eswen as she is now and the other woman at more than eighty, small inside her clothes, one hand braced over her heart.
+
+On the back: *Three weeks before the pool. She is still angry.*
+
+“About what?”
+
+Eswen drinks from her own cup. “Which time?”
+
+“The last picture.”
+
+“That I had agreed to bring her.”
+
+“You were angry she got what she wanted?”
+
+“I was angry she made refusal useless.”
+
+I turn to the family chronology. It gives dates without argument. Eswen, born sixty-one years ago. One child, no siblings living. The mother’s name appears in the first line and on every page after.
 
 Amaya.
 
-It is a serviceable name. Three syllables, open at both ends. It produces no face, no room, no sense of being called from far away. If it belongs to me, it belongs the way the wrap does: because someone left it where I would need it.
+The sound gives me nothing. I say it anyway. “Amaya.”
 
-Below the name is an inventory dated yesterday. Age, eighty-four. Heart enlarged and failing. Breathlessness after twenty steps. A scar across the left knee, another beneath the right breast, two missing back teeth, a finger broken and badly set at thirty-one. The last paragraph predicts what the pool will do, though its caution is blunt: *If it behaves as it did before, the body that emerges will appear between twenty and twenty-five, with no acquired scars and no known illness. Do not mistake physical evidence for an answer to any larger question.*
+Eswen’s gaze lifts.
 
-I press two fingers to my neck and count. I squat, stand, squat again. My heart accelerates neatly. My left knee is smooth. My right little finger is straight. I explore my teeth with my tongue and find them all.
+“That was her name?”
 
-Eswen sets a polished steel mirror on the table.
+“The one she used.”
 
-The face inside it is perhaps twenty-two. Wide dark eyes. Black hair hacked short enough that it barely brushes the jaw. A strong nose, rain-dark brows, an angry red mark on one cheek from some leaf or insect before the film formed. I recognize anger. I recognize the habit of bringing my face close to glass when I want detail.
+“And you believe I’m her.”
 
-I do not recognize the woman.
+“I believe you have her face at twenty-one. I believe I watched her walk into the water this morning.”
 
-“Amaya,” Eswen says, trying the word softly.
+“But you will not call me your mother.”
 
-Nothing answers except my attention.
+Eswen puts her cup down too hard. “You haven’t asked what I call you. You keep telling me to choose what you are.”
 
-“Use it tonight,” I say. “It will be less confusing.”
+A mosquito circles my wrist, attempts to land, and skates off the invisible film. Sweat cannot pass through it. My heart is quick now, though whether from heat or the photographs I cannot tell.
 
-She nods, but relief does not come. She pours more water and points to it.
+One picture shows Eswen at eight, up to her thighs in a muddy river, shouting toward the camera. The note says: *Minnow declares war on the current.*
 
-The heat thickens. Every few minutes I fan my neck and drink. It is absurd to need cooling while rain blows through the shelter. The slick saves me from the insects whining beyond the lantern, and I am grateful for that small, ridiculous mercy.
+“Minnow,” I say.
 
-I open PEOPLE.
+Eswen crosses the space between us and takes the photograph. “No.”
 
-There are twelve photographs, a family chronology, and three pages of names and addresses. The first photograph shows Eswen as a newborn in the arms of a woman who looks a few years older than I do now. The woman has my eyes, my nose, my strong square hands.
+“It is her writing.”
 
-The next photographs proceed without magic. Eswen at six beside a dark-haired mother in her late twenties. At fourteen, nearly as tall as her. At thirty, laughing beside a woman gone gray at the temples. The last was taken recently. Eswen stands straight, though her face has softened with age. Beside her is a small, bent woman with one hand pressed to her chest.
+“It was her river. Her joke.”
 
-I look from the picture to Eswen. The bones around her eyes are the infant’s bones. The shape of one ear persists through every image. Her chronology says she is sixty-one.
+“If the name was mine—”
 
-“You’re my daughter.”
+“You don’t know about the sandal.”
 
-“I am Amaya’s daughter.”
+“What sandal?”
 
-“That is a careful answer.”
+“Exactly.” She shoves the photograph beneath her folded shirt, out of sight. “Read whatever facts you like. Leave that one alone.”
 
-“I have been practicing careful answers for two months.”
+Her anger makes the room clearer. It is evidence against a trap designed only to flatter me; it is also not evidence for any claim she makes.
 
-The photograph of six-year-old Eswen has a note on the back in the same severe handwriting: *My little minnow, furious at the river for moving faster than she could.*
+I open BODY.
 
-“Minnow,” I say, looking up.
+The first page is addressed *To whoever comes out.*
 
-Eswen goes rigid. “Don’t.”
+*The name I have answered to for sixty-three years is Amaya. Use it if it is useful. It was not my first name.*
 
-“It’s written here.”
+Below that is a physician’s inventory made two days earlier. Eighty-four years old. Enlarged heart. Fluid in the lungs. A left knee cut open in a fall at nineteen. Two teeth lost. Right little finger set crooked after a break. A crescent scar under the right breast.
 
-“For you to know. Not for you to use.”
+I check each place. Nothing. My heart beats evenly through ten deep squats, then twenty. I could do another twenty. The thought is delicious.
 
-“If I wrote it—”
+Eswen catches me smiling.
 
-“She knew which river. She knew why I was furious. She knew I lost a shoe and lied about it for a week. You read one line.” Eswen takes the photograph from my hand, then seems to think better of keeping it and places it face down between us. “That name belonged inside all that.”
+“She could not stand from that stool without both hands,” she says.
 
-My first feeling is humiliation, hot and childish. The second is suspicion. She has chosen the facts, the pace, the shelter. She can put any life around me and call it mine.
+“Did she complain?”
 
-“Show me your hands,” I say.
+“Constantly. Mostly when people helped.”
 
-“What?”
+That almost invites a question about character. I refuse the invitation and read on.
 
-“Your hands.”
+The account predicts a body between twenty and twenty-five. It predicts no acquired scars, no disease known to the writer, fluent language, preserved practical abilities, and no remembered event from before emerging. It warns that the skin film will repel liquid and small insects for several hours while also blocking sweat.
 
-She lays them on the table. The knuckles are swollen with age. A pale burn crosses the heel of the left palm. The chronology mentions the burn at seventeen. The shape matches the photograph taken afterward.
+A mirror wrapped in cloth lies beneath the page. I uncover a young woman’s face: black hair cut close to the jaw, wide eyes, a strong nose, mud on one cheek. She is not familiar. Familiarity itself is familiar; I know what should happen and does not.
 
-“You could be the woman in these pictures,” I say.
+I touch the mirror’s rim, then the face. “Why should I trust an inventory I might have written?”
 
-“I am.”
+“You shouldn’t. Not by itself.”
 
-“That doesn’t make their account true.”
+“Fetch another witness.”
 
-“No.”
+“There isn’t one here.”
 
-“Who else knows I came here?”
+“Where is the physician?”
 
-“No one who knows where the pool is.”
+“Four days away.”
 
-“Where is home? How much money do I have? Did I have a spouse? Other children? Enemies? Did I commit crimes? Are people waiting for me?”
+“Who knows this pool exists?”
 
-“Those are in the notebooks.” Eswen taps the canvas pack. “You get those at dawn.”
+“Too many people knew once. Very few now. None are coming tonight.”
 
-“Why dawn?”
+She begins fanning me with a woven reed fan. The air cools my face only a little.
 
-“Because I won’t lead the trail in darkness, and because I promised one night.”
+I take it from her. “You knew the film would happen.”
 
-“Promised whom?”
+“I brought six jars.”
 
-“My mother.”
+“You knew the body would be young.”
 
-“Me.”
+“I brought clothes in two sizes.”
 
-“No.” The word lands flat and hard. “Not yet. Maybe not ever. I don’t know.”
+“You knew the memory would be gone.”
 
-Rainwater runs from the roof in ropes. I want to reject the photographs, but they have weight and wear. One bears a thumbprint beneath the glaze. Another has cracked exactly where it was folded years ago. Ordinary objects are good at surviving the people who give them meaning.
+At that, Eswen looks toward WHY. “She knew.”
 
-I slide WHY toward me, then stop. “Tell me without the letter. Did you lead her here?”
+I lift the cup and drink past the charcoal line.
 
-Eswen lowers herself onto the other stool. Weariness makes her look older than sixty-one. “I led Amaya from the road. She couldn’t have made the walk alone.”
+Eswen snatches it down. “Do that again and you may vomit every drop.”
 
-“Knowing this would happen.”
+“My body is not eighty-four.”
 
-“Knowing what she believed would happen.”
+“No. It is a young body sealed in its own heat, and you have had it for less than an hour. If you want facts, stay conscious.”
 
-“You had seen the proof.”
+Her annoyance is exact and practical. She has no interest in being gentle while I ignore a problem she understands better. I drink the amount she gives me next.
 
-“I had seen records.”
+Dark comes quickly. The pool disappears first; then the near trees join into black columns. The lantern makes the rain beyond the shelter look like wires. My bare skin stays dry, but heat pulses in my scalp and the hollows behind my knees.
 
-The distinction sounds like mine. That makes me dislike her for using it.
+Eswen has packed rice, salted fruit, and a bitter paste to stir into water. We eat without speaking. My hunger is enormous. The pleasure of chewing with sound teeth nearly makes me laugh again. Eswen watches me finish and slides over half her rice, then pretends to be studying the lantern wick.
 
-“You could have refused.”
+I leave WHY sealed.
 
-“I did. She hired a guide. She planned to leave before I arrived. Her heart was failing, and she thought dying in the jungle was better than dying in her bed while I stopped her.” Eswen’s fingers close around the edge of the table. “So I came. I carried food. I made her rest. I waited while she took off her boots and then put them back on because she was afraid. I did not push her into the pool.”
+“If she was dying,” I say, “why bring her through a jungle?”
 
-“You helped.”
+“She brought herself as far as the road.”
+
+“You could have taken her home.”
+
+“I tried.”
+
+“And when she refused?”
+
+“I took the pack because she could barely lift it.”
+
+“That is not what I asked.”
+
+Eswen scrapes the last paste from her bowl. “She had paid a guide to come at dawn. A man who thought the pool was a bathing place. If I left her, she would have lied to him and tried the trail without medicines or enough water. If I carried her home, she would have left again. I chose to know where she died.”
+
+The last word stills my questions for only a moment.
+
+“You thought she would die here?”
+
+“I thought one of three things would happen. Her heart would fail on the climb. She would drown. Or you would come out.”
+
+“*You.*”
 
 “Yes.”
 
-The answer offers me no soft place to strike.
+“Not her.”
 
-“Did she know she would forget you?”
+Eswen stands and moves to the shelter’s edge. “Open the third packet, Amaya.”
 
-“She believed facts could rebuild what memory lost.”
+It is the first time she has used the name. Not as welcome. As distance.
 
-“Do you believe that?”
+I break the seal.
 
-“Open the packet.”
+The letter begins without tenderness.
 
-I break the black wax.
+*You are alive enough to be frightened. Start there.*
 
-The letter inside begins, *To the woman with my face: I am sorry for the fear. I chose this with a clear mind.*
+The hand is mine only by claim. Its voice is brisk, impatient with the reader and with its own fear.
 
-The hand is controlled, its pressure deep where the pen begins each line.
+The woman who wrote it says her heart will not last another season. She says she has been afraid of ordinary death since she understood that no amount of observation can report what comes after one’s own last breath. She wants years. Not wisdom, not a better use for them. Years in which to eat hot bread, quarrel, repair what she has neglected, and wake with tomorrow still a habit.
 
-*I am eighty-four. My heart will not carry me through another season. I have had sixty-three years I was never promised, and I want more. Wanting more is not wisdom, but it is honest.*
+That wanting enters me more easily than the name. My arms are light. My breath reaches the bottom of my lungs. The night outside is immense, and I could walk into it when morning comes. I understand why an old woman would gamble everything she remembered to have this much body again.
 
-The words make something in me lift—not recognition, but appetite. I look at my smooth hands and imagine decades multiplying ahead: mountains I could climb, trades I could learn, the simple luxury of waking without pain. Whoever wrote the letter knew the seduction. She had felt this strength before.
+Then the letter assigns Eswen her part.
 
-*Eswen will tell you what matters. Trust the packets first, then trust the consistency of her account. Go home with her. Read my journals. In time, the shape of the life may become yours even if its images do not return. It happened once. It can happen again.*
+*She will take you home. She knows the people and the accounts. Listen to her until the facts settle. I raised her to be exact, though she dislikes admitting how much she learned from me. If affection does not return at once, conduct may lead it.*
 
-I glance up. Eswen is looking past me at the rain.
+I read that sentence twice.
 
-“She ordered you to reconstruct her.”
+Eswen remains at the edge of the lantern light, arms folded.
 
-“She asked.”
+“She drafted you.”
 
-“The letter doesn’t sound like a request.”
+“She always preferred other people’s labor when it looked like love.”
+
+“You agreed to this night.”
+
+“One night. Water, shade, the packets, the road.”
+
+“And after?”
 
 “No.”
 
-Beneath it are older papers, copied and recopied where damp has eaten the originals. A dated clinic examination describes an unknown young woman found feverish and naked near a jungle track sixty-three years ago. She had no autobiographical memory, no identifying marks, and the manner of someone educated in observation. A later deposition, signed **Amaya**, gives the location of this pool and describes the same impossible film on the skin. There is a photograph of the young woman in a borrowed dress. Her hair is longer than mine. The face is mine.
+The word is smaller than before. Tired, not weak.
 
-Another page explains the name. The unknown woman chose it when a clerk refused to leave an official line blank. No revelation, no recovered syllable. A sound she could bear answering to.
+More papers sit behind the letter. The oldest is a clinic intake dated sixty-three years ago. An unidentified young woman had been found beside a jungle track with fever, no clothes, no scars, and no memory of her history. She spoke three languages and could take a clean witness statement. She estimated her age at twenty-one. No search found a family.
 
-The earliest pages refer to damaged belongings recovered from a camp downstream: an empty food tin, a rotten satchel, notes rendered illegible by water. No name survives. No witness. No proof of who entered the pool before Amaya came out.
+A later deposition bears the name Amaya. It describes this pool, the hours-long film, the absence of remembered life, and the inexplicable health of the body that emerged. At the bottom, in a different hand, someone has asked for a former name. The answer is a blank line.
 
-I arrange the papers by date, then reverse the order. Sixty-three years. A renewed young woman becomes Amaya, makes a life, raises Eswen, grows old, and returns to the same water. Now I sit in her place, borrowing her chosen name and examining her daughter as if grief were a discrepancy in a report.
+The next record explains that a clerk demanded something for his register. The young woman selected Amaya from a list of names read aloud. No voice from the water. No sudden recognition. A choice made because a box would not accept emptiness.
 
-“You knew,” I say.
+Behind those pages are damp-stained notes found in a rotted bag downstream. Every line that might identify their writer has washed into brown threads.
+
+I put the clinic report beside yesterday’s physician inventory. The measurements of the young bodies are nearly identical.
+
+“This was the second time,” I say.
+
+“The second time anyone recorded.”
+
+“She lived sixty-three years after the first.”
 
 “Yes.”
 
-“You helped her destroy me.”
+“She made you.”
 
-Eswen’s gaze comes back from the rain. “I helped my mother reach the thing she wanted. I don’t know whether she destroyed herself. I don’t know whether you are her, or the next part of her, or someone the pool left holding her consequences.” Her voice roughens; care gives way. “I know she expected me to do the joining. As if I could tell you sixty-one years in the right order and get my mother back. As if those years weighed nothing in my mouth.”
+Eswen’s face closes. “She gave birth to me, if that is what you mean.”
 
-“You’re withholding evidence because you resent her.”
+“And then arranged to become me.”
 
-“I am withholding my life because it is mine.”
+“She arranged to enter.”
 
-The rain eases. Drips tick against the broad leaves outside. Somewhere near the pool, a frog makes a sound like a finger drawn over a comb.
+“You helped erase her.”
 
-I want to ask which foods Amaya liked, whom she loved, what frightened her before sleep. I want Eswen to speak until every blank in me is filled. The questions line up cleanly: earliest memory, happiest day, worst mistake, habits, loyalties, private promises. I know how to test an account by returning to one detail from three directions. The skill survived because it is not, by itself, a memory.
+“I helped her climb.”
 
-I hear the interrogation before I begin it.
+“You could have let the guide find her.”
 
-Eswen has placed her hands in her lap, away from the table. The burned one cups the other. She has spent the night answering only what she promised, and I have treated every boundary as another packet to force open.
+“I could have let my mother die with a stranger while she lied to him.” Eswen turns from the rain. “Do you want that answer to change because you ask it six ways?”
 
-I turn the childhood photograph face up. I do not read the note again.
+The question hits a skill in me. I have been varying the words, returning to the same disputed act from different approaches, listening for inconsistency. I know how to tighten an account until a witness chooses between precision and escape.
 
-“What do you want?” I ask.
+“I want to know whether you murdered the person I was.”
 
-Eswen frowns, suspicious now in her turn. “Tonight?”
+“Then you want the one answer I cannot give.”
 
-“After dawn. From me.”
+“You saw her disappear.”
 
-For a long time she says nothing. The jungle fills the space without helping either of us. Water falls from leaf to leaf. A night insect starts its rasp, pauses, and starts again.
+“I saw the water close over her head. I saw you come up with the same mole under your jaw and none of her scars. If you are Amaya, she chose this. If you are not, I have spent the night feeding a stranger because my mother told me to.” Her voice catches, and she bites down on the next word. “Stop asking me to make the two of you fit.”
 
-“I want you to take the notebooks,” she says at last. “There are medical facts you need, accounts, a house address. Read them yourself. I’ll show you the road. After that, I want to decide when I’m ready to hear from you.”
+I pick up the letter. “She believed you could make me remember.”
 
-“How would I contact you?”
+“No. She believed I could talk until remembering stopped mattering.”
 
-“The address is written down.”
+“Tell me something only she would know.”
 
-“Do you want me to use Amaya?”
+Eswen laughs once, without amusement. “So you can prove what?”
 
-Her eyes go to my face, then away. “I don’t care what name you use.” A pause. “That’s not true. I care. I just don’t get to choose it.”
+“That something survived.”
 
-“I’ll keep it for now.”
+“My burned hand survived. Her handwriting survived. Your habit of worrying a witness survived. None of it tells me whether you held me when my fever broke.”
 
-She nods once.
+“Tell me about the fever.”
 
-“And you don’t have to call me anything you don’t mean.”
+“No.”
 
-“Good.”
+“About my husband, then. The chronology says he died—”
 
-It is not forgiveness. It is enough instruction for one morning.
+“No.”
 
-Eswen lies down in her corner with her back to me. Sleep does not come to her quickly. I hear every change in her breathing until I make myself stop listening for messages inside it.
+“Did I love him?”
 
-I read.
+Eswen knocks the fan off the table. It strikes the floor and splits along one rib.
 
-The notebooks are dense, impatient, sometimes funny. They contain household repairs, heart symptoms, debts owed and collected, people I may need to notify, and complaints about a neighbor’s fruit dropping over a wall. Amaya records the pool more often as death approaches. She is afraid. On one page she writes that fear has made every hour taste expensive. On another, she insists Eswen will understand eventually, then scratches out *understand* so violently the paper tears.
+For several breaths, neither of us moves.
 
-Nothing returns to me. Not the house described room by room. Not the names of the dead. Not the daughter sleeping ten feet away.
+Then she crouches, tests the break with her thumb, and says, “I will not give you my fever and my father and every breakfast we ate so she can pretend she paid the whole price.”
 
-Near midnight, the film on my skin begins to fail. Sweat gathers first at my scalp. I touch the dampness and grin before I can stop myself. By then my stomach is a hollow animal. I eat cold rice and sour fruit from a tin, then eat the portion Eswen left untouched after she wordlessly pushes it across the floor. Hunger is almost joyful in this body. My jaw works without pain. My fingers are quick with the spoon.
+Her thumb works a splinter loose from the fan’s broken edge. Under her folded shirt, the river photograph makes one stiff corner.
 
-The night does not restore me. It merely passes.
+My next question is ready: *What did she tell you before entering?* I can already hear the follow-ups behind it.
 
-At dawn, pale light finds the mist above the pool. My shoulders ache from hunching over the table, and my legs are sore from the climb to the shelter. These small pains delight me. They were earned by muscles with years left in them.
+I close my mouth.
 
-Eswen rolls the bed mat, ties back her gray hair, and checks the trail with a stick. I pack the photographs, letters, and notebooks in the canvas bag. It is heavy. I adjust the straps until the weight rides close to my spine, apparently another thing my body knows how to do.
+Eswen lays the broken fan on the table. I examine its weave. My fingers know how to splint the rib with a strip pulled from the edge, but I do not tear her property. Instead I slide the packet of photographs toward her.
 
-At the pool, I pause.
+“Which of these are yours?”
 
-The water is green and warm-looking, untroubled by the rain. There is no sign it has ever held a person. No clothes wait beneath the surface. No name rises when I search for one.
+She does not answer at first.
 
-Eswen does not tell me to hurry.
+“The old copies,” I say. “Which did she take from you to make this?”
 
-I turn away first.
+Eswen pulls out four. The baby. The river. The burned hand. The last picture by the garden wall.
 
-At the mouth of the trail she says, “Ten paces behind me. Close enough that you don’t miss a turn. Far enough that I don’t feel watched.”
+“Keep them,” I say.
+
+“She wanted you to have proof.”
+
+“I have the chronology. I have duplicates of three.”
+
+“The river picture has no duplicate.”
+
+“I know.”
+
+Her thumb covers the note on its back.
+
+I put the other photographs with the records. “What in the canvas pack belongs to me rather than to your mother?”
+
+Eswen looks sharply at me. “That is not a distinction I can make for you.”
+
+“Then make one you can.”
+
+She drags the other stool closer but leaves the width of the table between us. “Clothes for that body. Money for a month at a boarding house. The notebooks. A key to a storage room. Medical instructions. The house is mine; she signed it to me before we left.”
+
+“So I am not going there.”
+
+“Not tomorrow.”
+
+I wait rather than give her another question to stop.
+
+At last she adds, “There is an address in the pack. Write once, if you want. I may answer.”
+
+“What should the letter call you?”
+
+Her mouth twists. “Eswen will do.”
+
+“And what do you call me?”
+
+“Tonight? Amaya. It is the nearest fact we have.”
+
+I nod and reach for the broken fan. “May I?”
+
+She pushes it to me.
+
+The reed at the edge is long enough. I peel it free, wet it in my mouth, and bind the split rib. My hands move quickly, tucking the end beneath itself. The repair is ugly but firm.
+
+“Did she know how to do that?” I ask.
+
+“Yes.”
+
+The answer hurts more than I expect.
+
+Eswen takes the fan and tests it. “She made better knots.”
+
+That, unexpectedly, does not.
+
+She lies down on the mat farthest from me and turns to the wall. I read the notebooks alone.
+
+They give me an address, balances, recipes for cough syrup, the name of a solicitor, and instructions for closing an account I did not open. They also give me a woman who hated papaya but kept accepting it from a neighbor, who postponed mending a roof for seven seasons, who could describe dishonesty in exquisite detail and her own cruelty in four words. Near the end, the handwriting shivers. Fear crowds every margin.
+
+Nothing rises in me. Not the kitchen drawn to scale. Not the dead husband. Not a single morning of Eswen’s childhood.
+
+Near midnight, sweat breaks at my hairline. The clear film is failing. The first mosquito to land on my ankle drinks before I slap it. My skin stings. I grin.
+
+My shoulders ache from bending over the table. Hunger opens in me again, abrupt and glorious. Eswen, still facing the wall, pushes a wrapped cake of rice across the floor without looking.
+
+I eat it slowly.
+
+Before dawn, I fold the records into their packets but leave the wax broken. The four photographs under Eswen’s hand remain with her. I dress in trousers and a shirt from the canvas pack. They fit the young body well enough; the woman before me had measured what she expected to become.
+
+Eswen wakes, boils water, and checks the sky. We speak only about the trail. Red ants cross one fallen tree. A slope of black clay has no good foothold. At the narrow stream, the stones that shine pale are loose.
+
+She shoulders her own pack. I take mine. The records thump against my back when I move.
+
+Mist lies over the pool. I do not go to its edge. No clothes wait under the surface, and I no longer expect an answer there.
+
+Eswen starts down the trail. “Keep close enough to hear me. I won’t keep turning around.”
+
+I follow.
+
+The renewed legs want a faster pace, but Eswen knows where the ground gives way. She calls back roots, ants, loose stone. Once she says nothing, and I catch the thorn branch she has released before it strikes my face.
+
+At the road, sunlight reaches us for the first time. Eswen points west. “A produce cart passes before noon. The boarding house is on the blue page.”
+
+“And you?”
+
+“East.”
+
+I take out the repaired fan. Eswen stares at it, then accepts it from me.
+
+“One letter,” I say.
+
+“I said you could send one. I did not make you promise.”
 
 “All right.”
 
-She starts downhill. I let her reach ten paces, then follow.
+She goes east without looking back.
 
-The young body wants to close the distance. I could do it in seconds. Instead I keep Eswen where she asked to be, ahead of me with only the trail stick, while Amaya’s written life travels on my own back.
+Near noon, wooden wheels grind against the ruts. The driver slows when he sees a young woman alone with a heavy pack.
+
+“West?” he asks.
+
+“Yes.”
+
+He reaches down to help me climb. I swing the pack aboard myself and take his hand only for balance.
+
+“What should I call you?”
+
+“Amaya,” I say.

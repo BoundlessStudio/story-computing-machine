@@ -22,7 +22,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The local pool mechanism, chronology, evidence limits, and both principal characters' agency comply with current authority and the prospective craft profile.
+- Notes: The two recorded immersions remain a pool-local mechanism; ordinary records establish the 21-to-84-to-21 chronology without restoring memory or deciding identity, while Amaya and Eswen retain independent choices about names, evidence, property, and future contact.
