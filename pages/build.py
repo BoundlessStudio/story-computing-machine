@@ -574,21 +574,23 @@ def render_index(catalog: Catalog) -> str:
             f'<img class="card-cover" src="{cover}" alt="Cover art for {title}" width="864" height="1536" '
             f'loading="{loading}" decoding="async">'
             f'<div class="card-copy"><h2 class="story-title">{title}</h2>'
+            f'<span class="card-prompt"><span class="prompt-label">Prompt</span>'
+            f'{html.escape(story.prompt)}</span>'
             f'<dl class="card-details">'
             f'<div class="card-detail"><dt>Date created</dt><dd><time datetime="{created}">{_display_date(story.created)}</time></dd></div>'
             f'<div class="card-detail"><dt>Date edited</dt><dd><time datetime="{edited}">{_display_date(story.edited)}</time></dd></div>'
-            f'<div class="card-detail"><dt>Status / tag</dt><dd><span class="status status-{status_class}">{story_label}</span></dd></div>'
-            f'<div class="card-detail"><dt>Word count</dt><dd>{story.word_count:,}</dd></div>'
+            f'<div class="card-detail"><dt>State</dt><dd><span class="status status-{status_class}">{story_label}</span></dd></div>'
+            f'<div class="card-detail"><dt>Word count</dt><dd><span class="word-count">{story.word_count:,}</span></dd></div>'
             f'<div class="card-detail"><dt>Rating</dt><dd><span class="rating rating-{rating_class}">{rating}</span></dd></div>'
             f'</dl></div></a></li>'
         )
     body = (
-        '<section class="library"><p class="eyebrow">Shared-universe fiction</p>'
-        '<h1>Stories</h1><p class="lede">Choose a cover and step into another world.</p>'
+        '<section class="library"><h1>Shared-Universe Fiction</h1>'
+        '<p class="lede">Choose a cover and step into another world.</p>'
         f'<p class="collection-count">{len(items)} stored publications.</p>'
         f'<ol class="story-grid">{"".join(items)}</ol></section>'
     )
-    return _page("Stories", body, "index.html", "styles.css")
+    return _page("Shared-Universe Fiction", body, "index.html", "styles.css")
 
 
 def render_story(story: Story) -> str:

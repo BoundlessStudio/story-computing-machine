@@ -555,24 +555,31 @@ class StorySystemTests(unittest.TestCase):
         self.assertLess(rendered.index("<h1>"), rendered.index('class="prompt"'))
         self.assertLess(rendered.index('class="prompt"'), rendered.index('class="story-cover"'))
 
-    def test_index_cards_include_requested_metadata(self):
+    def test_index_cards_include_prompt_and_requested_metadata(self):
         story = build.load_catalog().stories[0]
         rendered = build.render_index(build.Catalog((story,)))
+        self.assertEqual(1, rendered.count("<h1>"))
+        self.assertIn("<title>Shared-Universe Fiction</title>", rendered)
+        self.assertIn("<h1>Shared-Universe Fiction</h1>", rendered)
+        self.assertNotIn('<p class="eyebrow">', rendered)
+        self.assertNotIn("<h1>Stories</h1>", rendered)
         self.assertIn('class="story-card"', rendered)
         self.assertIn(f'src="{story.cover}"', rendered)
         self.assertIn(f'alt="Cover art for {build.html.escape(story.title)}"', rendered)
         self.assertIn(f'<h2 class="story-title">{build.html.escape(story.title)}</h2>', rendered)
+        self.assertIn('<span class="card-prompt"><span class="prompt-label">Prompt</span>', rendered)
+        self.assertIn(build.html.escape(story.prompt), rendered)
         self.assertIn("<dt>Date created</dt>", rendered)
         self.assertIn(f'datetime="{story.created}"', rendered)
         self.assertIn("<dt>Date edited</dt>", rendered)
         self.assertIn(f'datetime="{story.edited}"', rendered)
-        self.assertIn("<dt>Status / tag</dt>", rendered)
+        self.assertIn("<dt>State</dt>", rendered)
+        self.assertNotIn("Status / tag", rendered)
         self.assertIn(build._story_label(story), rendered)
         self.assertIn("<dt>Word count</dt>", rendered)
-        self.assertIn(f"{story.word_count:,}", rendered)
+        self.assertIn(f'<span class="word-count">{story.word_count:,}</span>', rendered)
         self.assertIn("<dt>Rating</dt>", rendered)
         self.assertIn(f'>{story.rating}</span>', rendered)
-        self.assertNotIn('class="card-prompt"', rendered)
 
     def test_output_cannot_replace_repository_root(self):
         with self.assertRaises(ValueError):
