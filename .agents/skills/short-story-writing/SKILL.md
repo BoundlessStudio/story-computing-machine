@@ -1,156 +1,125 @@
 ---
 name: short-story-writing
-description: "Write or revise complete short-story prose from a prompt and advisory outline without creating extra production artifacts."
+description: "Write or revise complete short-story prose through the repository's story-specific production contract."
 ---
 
 # Short-story writing
 
-Use for the prose pass or one finding-driven revision of a current four-file
-story. Write only `stories/<slug>/story.md`. Default to 2,500–4,000 words unless
-the prompt says otherwise. Preserve the scaffolded frontmatter and create no
-draft copy, checklist, craft report, or other artifact.
+Use for one WRITE assignment or one finding-driven REVISE assignment in a
+current four-file story package. Write only `stories/<slug>/story.md`. Preserve
+the scaffolded frontmatter, default to 2,500–4,000 words unless the prompt says
+otherwise, and create no draft copy, checklist, craft report, or other artifact.
 
-The prompt is authoritative. The outline supplies pressure, movement, and
-continuity boundaries; it is not a contract, a prose source, or a list of
-conclusions the story must state. Keep useful intent and discard outline
-phrasing, staged reconciliations, and proposed endings when the living prose
-finds something better without breaking the prompt or continuity. Apply
-`universe/style-guide.md`; search authority only when the outline exposes a
-genuine unknown.
+The prompt is authoritative. For a prepared rewrite, the latest rewrite request
+controls conflicts and its latest craft profile controls production; unaffected
+original requirements remain binding. The outline is advisory pressure,
+movement, voice, and continuity guidance rather than a prose source or language
+to preserve. Apply `universe/style-guide.md` and let discoveries in the living
+prose supersede an outline choice when they improve the story without breaking
+the prompt or continuity.
 
-For a new WRITE assignment carrying `Craft profile: prospective-2026-08-08` or
-`Craft profile: prospective-2026-08-18`, apply the craft guidance below. The
-newer profile also requires the dialogue-scene revision pass. Do not use either
-profile to reopen completed prose. In REVISE mode, fix only the assigned
-blocking findings, including the smallest necessary surrounding action or
-narration.
+## Use the installed references
+
+Use `creative-writing-craft` as the primary fiction reference. Load its prose
+and scene resources plus at most one genre resource when the prompt materially
+depends on that genre promise. For meaningful dialogue, consult `dialogue`
+during the dialogue-scene revision. Consult `prose-style` during the
+language-and-sound revision when sentence-level execution needs diagnosis.
+
+Those upstream skills are diagnostic references inside this production
+contract. Their instructions to avoid writing or rewriting, ask the user
+questions, run optional scripts, persist output, or create reports do not apply.
+Neither do generic mandates for a hidden agenda, verbal tic, catchphrase,
+compulsory subtext, several simultaneous functions, punchy short sentences, or
+isolated paragraphs. Apply useful diagnoses by revising `story.md` in place.
+The prompt, story-specific Voice capsule, style guide, assignment, and this
+contract outrank generic prescriptions.
 
 ## Build the story
 
-- Find the story's actual engine. It may be a want under pressure, incompatible
-  goods, intimacy, work, curiosity, ritual, discovery, loss, recurrence, or
-  accumulating change. Give the focal consciousness an attachment, appetite,
-  duty, pleasure, irritation, error, or contradiction more particular than the
-  correct moral position.
-- For a protagonist-driven result, make the focal character necessary through
-  desire, knowledge, relationship, mistake, or perception. A witness or passive
-  focal presence may instead be necessary because of what only that position
-  notices, misunderstands, preserves, or withholds.
-- Give principal characters independent logic. Opposition needs something
-  worth protecting and choices after new information arrives; it need not come
-  from a villain. Conditions, absences, environments, habits, and incompatible
-  goods can supply counterpressure.
-- Vary structure as well as setting. Do not fall automatically into
-  institutional coercion, public technical proof, crowd conversion, procedural
-  reform, and an emblematic coda. Private temptation, maintenance, comedy,
-  aftermath, failed repair, recurrence, documents, journey, and quiet
-  accumulation are equally available.
-- Establish the opening's character, tonal, and informational promise. Let the
-  middle advance, complicate, deepen, repeat with difference, or reframe it.
-  Pay off the central promise at the necessary stopping point, not at the
-  neatest thesis.
+- Find the story's actual engine: want, incompatible goods, intimacy, work,
+  curiosity, ritual, discovery, loss, recurrence, accumulation, or change.
+  Give the focal consciousness a lived attachment or contradiction more
+  particular than the correct moral position.
+- Give principal characters independent knowledge, risks, attention, and
+  choices. Opposition need not be a person, and no antagonist is required.
+- Choose viewpoint, distance, time shape, compression, and information order for
+  what the story should reveal, distort, conceal, or make intimate.
+- Make speculative systems tangible through use, cost, maintenance, pleasure,
+  nuisance, disagreement, and aftermath. Explain only what causal payoff needs.
+- Let theme arise through attention, behavior, consequence, and image. Do not
+  routinely restate it in narration, dialogue, policy, and a closing symbol.
 
-## Control viewpoint and information
+## Use the Voice capsule
 
-- Choose viewpoint and distance for what they reveal, distort, conceal, or make
-  intimate. Filter detail through work, history, desire, and blind spots; avoid
-  unmarked viewpoint drift.
-- Track what the reader and each character know. Withhold meaning to create
-  mystery, not the footing needed to understand the scene. Earn causal and
-  spatial transitions; establish tools and limits before decisive use.
-- Prefer concrete nouns, active verbs, and details that affect action or reveal
-  the observer. Let speculative systems appear through use, cost, maintenance,
-  pleasure, nuisance, disagreement, and aftermath. Explain enough for causal
-  payoff, not enough to display the design notes.
-- A scene or summary passage should change knowledge, leverage, commitment,
-  danger, relationship, interpretation, rhythm, or available choices; establish
-  a pattern; or repeat it with meaningful difference. Compress material that
-  does none of those jobs.
-- Theme should arise through attention, behavior, transferred cost, images, and
-  consequences. Once action carries a point, do not routinely restate it in
-  narration, dialogue, policy, and a closing symbol.
+Under `prospective-2026-08-21`, read the five fields in `outline.md` as one
+story-specific generative constraint:
 
-## Make dialogue dramatic
+- `Narrative texture` governs narrator attitude, cadence, image source, and
+  tolerance for abstraction without overriding the selected viewpoint.
+- `Conversational texture` establishes ordinary speech, including directness,
+  incomplete exchanges, silence, practical coordination, and failed contact.
+- `Rhetorical ownership` states who, if anyone, has earned polished or compressed
+  formulations and why other speakers do not share that facility.
+- `Pressure behavior` governs how attention, listening, fluency, and sentence
+  shape change when the scene tightens.
+- `Anti-default` names a concrete collection habit this story must not inherit.
 
-Dialogue is not improved by adding quirks to identical reasoning. Important
-speakers should notice different things, protect different risks, possess
-different knowledge, and choose language from different work, class, history,
-and relationships. Those differences may appear as syntax, directness,
-specificity, metaphor, silence, interruption, evasion, or what a speaker refuses
-to dignify with a name. Do not force catchphrases or phonetic accents.
+The capsule is not dialogue to imitate. Do not turn it into catchphrases,
+phonetic accents, cosmetic quirks, or a reason to force conflict.
 
-Know what each speaker wants from a consequential exchange, what tactic is
-available now, what is being withheld, and what would make that tactic change.
-Pressure often produces imperfect listening, resistance, proxy subjects, or
-unequal fluency, but none is mandatory. Directness, mutual comprehension,
-professional explanation, and articulate speech are valid when the characters
-and situation earn them. Do not make every speaker equally polished at an
-emotional climax merely so the scene can state both sides cleanly.
+## Keep dialogue character-bound
 
-Use exposition in speech when the listener needs it, when negotiating the facts
-is the action, or when the speaker's profession and objective make explaining
-credible. Cut shared lore, project policy, and diagnostic language spoken only
-for the reader. In particular, question abstract words such as consent,
-identity, permission, truth, repair, safety, closure, and boundaries when they
-sound like the outline, reviewer, or therapist rather than this character.
-Abstraction is allowed; unowned abstraction is the defect.
+Important speakers may differ through syntax, specificity, professional or
+domestic vocabulary, interruption, silence, evasion, directness, humor, or what
+they fail to notice. Direct speech, mutual understanding, professional
+explanation, and one earned aphorism remain available. A line may do only one
+thing when merely coordinating, stalling, comforting, avoiding, or failing is
+true to the moment.
 
-Let action and narration around an exchange carry pressure that dialogue should
-not explain. Silence, misunderstanding, and subtext are tools, not quotas. A
-plain answer can be more character-specific than polished banter. After the
-decisive action, remove any exchange that merely interprets the result, conducts
-a reconciliation protocol, or says the final image aloud.
+For each major exchange and the final meaningful exchange, apply these internal
+tests without recording them:
 
-## Keep consequence and range
+1. **Context test:** Notice lines that could become a quote card or moral claim
+   outside the scene. Keep one only when this person, history, and moment earn
+   both its thought and finish.
+2. **Rhetorical-ownership test:** If several speakers receive the same polished
+   fluency, restore differences in knowledge, processing speed, status, risk,
+   vocabulary, or willingness to formulate the point.
+3. **Reasoning-shape test:** Different metaphors do not create different voices
+   when everyone recognizes the premise and returns the ideal counterargument.
+   Preserve credible misreading, partial answers, deflection, mundane response,
+   silence, or delayed understanding where the people support it.
+4. **Chorus test:** A secondary character must not diagnose the protagonists or
+   theme with suspicious perfection merely to tell the reader what the scene is
+   doing.
+5. **Decompression test:** When an exchange becomes a chain of balanced thesis
+   and counter-thesis, let action or narration carry part of the pressure and
+   make the smallest necessary lines less complete rather than less intelligent.
 
-- Costs must follow from events. Do not attach a token wound, lost office,
-  reform, or bittersweet sentence simply to certify seriousness. An aftereffect
-  may be pleasure, incomplete trust, altered status, shifted burden, changed
-  obligation, refused reconciliation, or live uncertainty.
-- Stop after the strongest necessary movement. Avoid stacking a decision, a
-  speech explaining it, a policy coda, and an object posed as its emblem.
-- Use recurring people, places, and artifacts only when they change the causal
-  or emotional story. Canon is a constraint, not an exposition quota.
-- Use the project's tonal range. A correct choice may feel terrible; failure
-  need not cause reform; comedy may remain small; beauty need not instruct; an
-  unlikeable focal character need not be punished; and an implication may stay
-  unsettling.
+These are judgment prompts, not quotas or automatic bans. Material scene-wide
+convergence is the defect, not brevity, abstraction, eloquence, or quotability
+by itself.
 
 ## Revise in place
 
-After complete prose exists, revise the same file at these scales. Keep no
-record of the passes.
+After complete prose exists, revise the same file at four scales:
 
-1. **Whole story:** Reread without line editing. Confirm prompt fulfillment,
-   the actual engine, the focal position's necessity on this story's terms, and
-   each principal character's agency. Repair an opening, center, turn, cost, or
-   ending that still serves the outline more faithfully than the prose.
+1. **Whole story:** Confirm prompt fulfillment, the actual engine, focal
+   necessity on this story's terms, principal agency, and an ending grown from
+   the opening rather than appended as a thesis.
 2. **Movement and information:** Trace cause, chronology, space, operative
-   rules, and who knows what when. Make scenes, summary, omissions, repetitions,
-   and transitions do distinct work. Delete repeated interpretation after an
-   event and reaction already carry the point.
-3. **Dialogue scenes:** Under `prospective-2026-08-18`, test every major
-   exchange—one that changes knowledge, leverage, commitment, risk,
-   relationship, or chosen action. Check immediate aims and tactic changes;
-   flag outline language that migrated into speech; ask whether every
-   abstraction belongs to that speaker; and preserve unequal fluency where the
-   people and pressure support it. Apply the line-swap test once per important
-   speaker relationship and to the climax: if the lines survive the swap,
-   restore differences in attention, knowledge, risk, and verbal behavior.
-   Apply a compression test to exposition and a deletion test to the final
-   meaningful exchange plus its surrounding narration. Remove post-climax
-   explanation already carried by action.
+   rules, knowledge, omissions, repetition, and transitions. Remove repeated
+   interpretation after action and reaction already carry the point.
+3. **Dialogue scenes:** Apply the Voice capsule and character-bound tests above;
+   check necessary exposition, unequal fluency, outline language in speech, and
+   whether the final exchange says completed action aloud.
 4. **Language and sound:** Tune viewpoint filtering, paragraph breath, sentence
-   rhythm, image fields, and speaker-specific language. Replace generic
-   gestures, synthetic metaphors, and thematic words that belong to neither
-   narrator nor character. Read a representative page aloud and repair tangles,
-   monotony, accidental echoes, and emphasis created only by line breaks.
+   rhythm, images, and speaker-specific language. Repair generic gestures,
+   synthetic metaphors, accidental echoes, and emphasis created only by punchy
+   line breaks.
 
-Diagnostics are prompts to look closely, not automatic bans. The same applies
-to exact counts, one-line paragraphs, “not X, but Y” corrections, familiar
-gestures, em dashes, aphorisms, and final images. Preserve an intentional voice
-when it survives scrutiny.
-
-In REVISE mode, address only assigned blocking findings. Do not restart the
-story, rewrite the prompt or outline, impose the newest profile on unrelated
-passages, or create a draft/final duplicate.
+In REVISE mode, address only assigned blocking findings and the smallest needed
+surrounding action or narration. Do not restart the story, impose the newest
+profile on unrelated completed prose, or create a draft/final duplicate. Return
+only a one-sentence change report after saving the story.

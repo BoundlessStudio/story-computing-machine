@@ -8,7 +8,14 @@
 - POV, distance, and information limit:
 - Governing movement and time shape:
 - Speculative rule or ordinary-world constraint:
-- Dialogue pressure (optional, at most 75 words):
+
+## Voice
+
+- Narrative texture:
+- Conversational texture:
+- Rhetorical ownership:
+- Pressure behavior:
+- Anti-default:
 
 ## Beats
 

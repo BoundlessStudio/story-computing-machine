@@ -88,9 +88,10 @@
     choice, consequence, revelation, release, return, interruption, or simply
     the point at which this particular story stops being.
   - For a prompt carrying `Craft profile: prospective-2026-08-08`, perform the
-    self-contained in-place revision pass in the `short-story-writing` skill
-    before saving `story.md`. Do not create a checklist, report, draft copy, or
-    other production artifact for that pass.
+    self-contained in-place revision pass defined by the writer agent, using
+    `creative-writing-craft`, `dialogue`, and `prose-style` as internal craft
+    references before saving `story.md`. Do not create a checklist, report,
+    draft copy, or other production artifact for that pass.
   - `Craft profile: prospective-2026-08-18` includes the preceding defaults and
     in-place revision pass only for new stories. Its outline targets 700–1,000
     words and may not exceed 1,200; it records draftable pressure and limits
@@ -109,6 +110,27 @@
     even when continuity and causality pass; outline compliance never proves
     that dialogue works. This extension is prospective and does not reopen any
     completed story.
+  - `Craft profile: prospective-2026-08-21` extends the 08-18 profile without
+    changing the contract of completed 08-18 stories. Its outline replaces the
+    optional dialogue-pressure note with a mandatory, story-specific Voice
+    capsule covering narrative texture, conversational texture, rhetorical
+    ownership, pressure behavior, and one concrete anti-default. The capsule is
+    capped at 180 words inside the existing 1,200-word outline ceiling and may
+    not contain sample lines, catchphrases, phonetic accents, or empty
+    house-style boilerplate.
+  - Under the 08-21 profile, the project-owned `short-story-writing` adapter
+    keeps `creative-writing-craft` primary and uses `dialogue` and `prose-style`
+    only as diagnostic references for revision in place. Generic preferences
+    for hidden agendas, verbal tics, universal subtext, simultaneous dialogue
+    functions, punchy sentences, diagnostic-only refusal, or separate reports
+    do not override the story's prompt, Voice capsule, or artifact contract.
+  - For 08-21 dialogue, test context dependence, rhetorical ownership,
+    reasoning-shape diversity, secondary-character chorus, unequal fluency
+    under pressure, and the availability of ordinary or single-purpose speech.
+    One earned aphorism or articulate exchange is allowed; only material
+    scene-wide convergence is blocking. The reviewer records the result through
+    the existing single Dialogue verdict after first judging prompt and prose
+    without the outline.
 
 ## Tonal range, scale, and connection
 

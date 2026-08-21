@@ -8,8 +8,10 @@ universe notes are the product; process records are not.
 A completed current story has four authored Markdown files and one generated
 title image:
 
-- `prompt.md` — the verbatim request, its few explicit constraints, and a
-  display-name inventory of any reference images supplied with the request.
+- `prompt.md` — the verbatim original request, its few explicit constraints,
+  and a display-name inventory of supplied reference images. An explicitly
+  authorized rewrite adds the latest verbatim rewrite request, its reference
+  display names, and cover policy to this same file.
 - `outline.md` — the draftable narrative shape, proposed people and places, and
   relevant continuity boundaries.
 - `story.md` — the reader-facing prose and its minimal metadata.
@@ -43,8 +45,9 @@ command understands the legacy layout; normal story validation does not.
   before interpreting canon.
 - `universe/style-guide.md` is the binding narrative policy. Current scaffolds
   apply its prospective craft profile through the outline, writer, and reviewer
-  skills; never use that profile to reopen completed current stories or locked
-  legacy bundles.
+  skills; the profile alone never reopens a completed story. Only the explicit
+  rewrite workflow may reopen a named non-canon current story. Locked legacy
+  bundles remain closed.
 - `stories/NAMES.md` is the frozen name baseline for legacy stories, not canon.
 - Current `review.md` files extend production memory for new people and places.
 - Plans, reviews, prompts, source notes, and non-canon stories never establish
@@ -52,18 +55,20 @@ command understands the legacy layout; normal story validation does not.
 
 ## Branches
 
-Before starting any new story, make branch setup the first repository action:
+Before starting any new story or rewrite, make branch setup the first repository
+action:
 
 1. Switch to `main`.
 2. Pull the latest changes from `origin/main` with a fast-forward-only pull.
-3. Create a new `codex/story-<slug>` branch from the updated `main` without
+3. Create a new `codex/story-<slug>` branch for a new story or
+   `codex/rewrite-<slug>` for a rewrite from the updated `main`, without
    switching the primary checkout away from `main`.
 4. Add a dedicated sibling Git worktree for that branch, then use the worktree
    as the working directory for the coordinator and every delegated agent for
    the rest of the story workflow.
 
-Do not scaffold, read for story production, or modify story files until this
-sequence is complete. Resolve and retain the worktree's absolute path before
+Do not scaffold, prepare a rewrite, read for story production, or modify story
+files until this sequence is complete. Resolve and retain the worktree's absolute path before
 delegating, and include that path in every agent assignment so no story work
 lands in the primary checkout. Run all validation, capture, Git, push, and pull
 request commands from the worktree. If local changes prevent switching the
@@ -83,13 +88,16 @@ one named stage.
    preserve the prompt, and pass the reference image paths or attachment labels
    so `prompt.md` inventories their display names. If none were supplied,
    record that explicitly. Keep the original images outside the story directory.
-2. Delegate `outline.md` to `story_outliner`. It reads the universe README and
+2. Delegate `outline.md` to a fresh `story_outliner`. It reads the universe
+   README and
    style guide, searches only relevant authority and noun history, skims the
    design sections of up to five recent passing current outlines, and proposes
    a story-specific generating force and narrative shape plus people and places
    as `new` or `recurring`. Recent outlines are comparison context only, never
-   canon or models to imitate. For `prospective-2026-08-18`, target 700–1,000
-   words and never exceed 1,200. Record pressure and choices, not drafted
+   canon or models to imitate. For `prospective-2026-08-21`, target 700–1,000
+   words and never exceed 1,200. It completes the required story-specific Voice
+   capsule without opening prior Voice sections or prose. Record pressure and
+   choices, not drafted
    confessions, reconciliations, speeches, or final thematic lines. Include
    every supplied reference image in the assignment with a resolvable path or
    unambiguous attachment identifier and its intended role when the prompt
@@ -97,22 +105,29 @@ one named stage.
    visual evidence without turning unrequested details into canon. If an image
    cannot be accessed, restore access or ask the user to attach it again rather
    than silently omitting it.
-3. Delegate `story.md` to `story_writer`. It uses the compact
-   `short-story-writing` skill, writes the complete story directly, and revises
-   it in place at whole-story, movement/information, dialogue-scene, and
-   language/sound scales. This remains one prose assignment; there is no
-   separate draft, craft report, or final-edit artifact.
+3. Delegate `story.md` to a fresh `story_writer`. It uses the project-owned
+   `short-story-writing` production adapter. `creative-writing-craft` remains
+   primary; `dialogue` and `prose-style` are diagnostic references only during
+   in-place revision. It writes the complete story directly and revises it at
+   whole-story, movement/information, dialogue-scene, and language/sound scales.
+   Installed skills are internal references: their optional scripts, reports,
+   and persistence files are forbidden. This remains one prose assignment;
+   there is no separate draft, craft report, or final-edit artifact.
 4. Run `Test-Stories.ps1 -Story <slug> -Phase PreReview` once. Pass its concise
    result to the reviewer without creating another file.
-5. Delegate one independent review to `story_reviewer`. It writes only
+5. Delegate one fresh independent review to `story_reviewer`. It writes only
    `review.md`. It reads prompt and story first, forms a provisional
    reader-facing and dialogue judgment before opening the outline, inventories
    every story-facing person and place noun, and checks prompt fulfillment,
-   universe continuity, chronology, causality, and internal facts. The prompt is
-   authoritative; the outline is advisory.
-6. If the verdict is `REVISE`, delegate only blocking fixes to `story_writer`,
+   universe continuity, chronology, causality, and internal facts. It uses
+   `story-analysis` and `dialogue` as its default craft lenses, with
+   `story-sense`, `prose-style`, and `sensitivity-check` only when their specific
+   diagnostic scope is material. These skills create no separate artifacts.
+   The prompt is authoritative; the outline is advisory.
+6. If the verdict is `REVISE`, the story's writer may handle only blocking fixes,
    allowing the smallest necessary surrounding action or narration for a
-   dialogue repair, repeat the pre-review check, and request one fresh review.
+   dialogue repair. Repeat the pre-review check and use a fresh reviewer agent
+   for every subsequent review.
    Ask the user only when a canon ruling, retcon, or material prompt
    reinterpretation is required.
 7. After `PASS`, delegate `title-image.jpg` to `story_title_illustrator`. It
@@ -178,7 +193,7 @@ one named stage.
    that says what to preserve, names the blocking miss, directs the composition
    or focal change, and restates the invariants. Require a new composition for a
    story-promise failure and a targeted correction for a localized integrity
-   failure. Repeat review until all three gates pass, and do not capture a
+   failure. Repeat review until all six gates pass, and do not capture a
    rejected image.
 8. Run `Test-Stories.ps1 -Phase Final` locally, capture the story with
    `python pages/build.py capture <slug>` once, and run
@@ -190,6 +205,95 @@ one named stage.
 
 Do not create a canon brief, authority snapshot, draft copy, canon delta,
 handoff guard, release record, promotion record, story README, or index row.
+
+For `prospective-2026-08-21`, `outline.md` contains exactly one `## Voice`
+section of at most 180 words with these completed fields:
+
+- `Narrative texture` — how this story's narration moves, notices, selects, and
+  sounds;
+- `Conversational texture` — the range, rhythm, and ordinary texture of talk;
+- `Rhetorical ownership` — which forms of thought, metaphor, precision, or
+  argument belong to which speakers;
+- `Pressure behavior` — what stress does to fluency, listening, evasion,
+  repetition, silence, or directness; and
+- `Anti-default` — the plausible default that would make this particular story
+  sound interchangeable.
+
+Every field must be actionable and story-specific. The three dialogue-specific
+fields may be `N/A — no meaningful dialogue expected`; Narrative texture and
+Anti-default remain required. Do not include sample lines, catchphrases,
+phonetic accents, or
+boilerplate such as merely `avoid house style`. The Voice section does not
+increase the 1,200-word outline ceiling. Recent-outline comparison is limited
+to each prior outline's `## Story` section; no prior Voice capsule or prose may
+be exposed to the writer.
+
+## Rewrite workflow
+
+Use `story-room` REWRITE mode only when the user explicitly requests a rewrite
+of one named completed current story. REWRITE means a new whole-story prose pass;
+REVISE remains the narrow correction loop for blocking review findings. Reject
+directories containing `05-story.md`. Reject `canon: true` unless the user first
+requests and resolves a separate canon or retcon decision.
+
+1. Complete the branch sequence above with `codex/rewrite-<slug>` and a sibling
+   worktree. In the worktree, use only `prompt.md` and package metadata to
+   prepare the reset; the preparation script may verify the prior PASS and
+   frontmatter, but the prior outline, prose, and review are not creative
+   inputs. Inspect the saved cover only when AUTO or KEEP makes it a candidate.
+   Resolve and visually inspect every original and newly supplied reference
+   image. Restore access or ask the user to attach it again if an original
+   cannot be resolved.
+2. Run
+   `prepare-rewrite.ps1 -Story <slug> -Title <fresh-title> -Request <verbatim-request>`,
+   passing each new image through `-ReferenceImage` and one cover policy:
+   - `-Cover Auto` retains an unchanged-title cover for a fresh post-rewrite
+     comparison, removes a changed-title cover, and generates a new one only
+     when no valid reusable candidate remains;
+   - `-Cover Keep` requires an unchanged title, forbids automatic generation,
+      and can complete only if the retained image passes against the rewritten
+      story;
+   - `-Cover Regenerate` removes the retained image after the Markdown reset
+     succeeds and requires a fresh one after prose review.
+   The script preflights the linked worktree, target cleanliness, prior PASS,
+   canon status, templates, title, cover policy, prompt structure, and every
+   candidate file before changing tracked content. It rejects control characters
+   in titles, stages candidates outside the repository, replaces the package in
+   one guarded operation, and restores the original Markdown and cover bytes if
+   any replacement fails.
+   Preparation preserves the original prompt byte-for-byte outside the managed
+   rewrite sections and preserves immutable package identity. It records the
+   amended request, active `prospective-2026-08-21` profile, and cover choice in
+   `prompt.md`, then resets
+   `outline.md`, `story.md`, and `review.md` to clean scaffolds. It creates no
+   rewrite brief, backup prose, alternate outline, or other artifact.
+3. The original prompt plus the latest rewrite request form the acceptance
+   authority. The latest request controls conflicts; unaffected original terms
+   remain binding; the latest craft profile in Rewrite constraints controls
+   production craft. Delegate fresh agents for the ordinary OUTLINE assignment,
+   followed by the ordinary WRITE assignment. These are the same production
+   stages and local adapter used by CREATE. Do not load the prior outline,
+   prose, or review
+   from Git. If the user explicitly asks to retain a named element, retrieve
+   only the minimum old material required for that element and pass it to the
+   relevant agent.
+4. Run PreReview and request one fresh independent reviewer agent. The previous
+   PASS is
+   history, not evidence. Resolve a REVISE verdict through only its blocking
+   findings, then rerun PreReview and request another fresh reviewer.
+5. After PASS, apply the recorded cover policy. For AUTO or KEEP with a retained
+   candidate, the coordinator
+   must open the retained JPEG at cover-card size and full resolution and judge
+   all six gates against the amended prompt and final rewrite. AUTO regenerates
+   on any failure. KEEP stops for user direction on any failure. REGENERATE uses
+   the normal illustrator workflow. Any generated replacement follows all
+   reference-image, saved-pixel inspection, and six-gate requirements above.
+   Cover generation is optional when a reusable candidate passes, but a valid
+   final cover remains mandatory for completion.
+6. Run final validation, recapture the story, and run the catalog check. Stage
+   the four Markdown files, the title image only when changed, catalog, and
+   captured cover; commit, push, and open the normal draft pull request. Git
+   preserves the prior version, so do not add backup or rewrite-history files.
 
 ## People and places
 
@@ -221,9 +325,12 @@ A `PASS` review requires all three continuity lines to pass:
   contradict current `LOCKED` or `CANON` notes.
 - `Internal` — the story is causally coherent and keeps its own facts straight.
 
-The prompt is the only acceptance authority. The reviewer may use the outline
-to understand design intent, but deviation from it is not blocking unless the
-result breaks the prompt, universe continuity, or internal coherence.
+The prompt is the only acceptance authority. For a prepared rewrite, the
+original prompt and latest `## Rewrite request` are one amended prompt: the
+latest request controls conflicts and unaffected original terms remain binding.
+The reviewer may use the outline to understand design intent, but deviation
+from it is not blocking unless the result breaks the amended prompt, universe
+continuity, or internal coherence.
 
 For prompts carrying `Craft profile: prospective-2026-08-08`, the reviewer also
 checks material compliance with the binding story craft defaults. Craft is
@@ -242,6 +349,17 @@ and narration. Outline compliance is not evidence that dialogue works. A
 material reader-facing dialogue defect is independently blocking;
 Dialogue REVISE requires an overall REVISE and one concise targeted finding
 supported by no more than three short examples.
+
+`Craft profile: prospective-2026-08-21` extends the 08-18 contract without
+changing any completed 08-18 story. It keeps the same single Dialogue verdict.
+The reviewer forms a provisional dialogue judgment before opening the outline,
+then treats the Voice capsule as intent rather than evidence. In addition to
+the 08-18 checks, examine context dependence and quote-card neatness,
+rhetorical ownership, reasoning-shape diversity, secondary-character chorus,
+unequal fluency under pressure, ordinary or single-purpose speech, and
+over-explanation in the final exchange. One earned aphorism or articulate
+exchange is acceptable. Only material scene-wide convergence is blocking, and
+any such failure feeds `Dialogue: REVISE` rather than a new review field.
 
 Review prose concisely. Record only blocking findings and short useful notes;
 do not preserve reviewer chain-of-thought, repeated summaries, or audit logs.
@@ -270,11 +388,11 @@ not for CI.
 
 ## Completion
 
-A current story is complete when its four Markdown files and 9:16 portrait
+A new or rewritten current story is complete when its four Markdown files and 9:16 portrait
 `title-image.jpg` exist, `review.md` says `PASS`, people and places are
 inventoried, all three continuity lines pass, and the story plus image have
 been completed in the story directory and captured into `pages/catalog.json`
 and `pages/covers/`. Repository acceptance also requires the local final
 validator and catalog check to pass, the completed changes to be committed and
-pushed on the story branch, and a draft pull request to be open against the
+pushed on its story or rewrite branch, and a draft pull request to be open against the
 repository's default branch.

@@ -1,15 +1,17 @@
 # Story Computing Machine
 
 A small shared-universe story room. A `[WP]` prompt becomes four authored files
-and, after review, one title image:
+and, after review, one title image. An explicit rewrite updates those same
+artifacts in place while Git preserves the previous version:
 
 ```text
 prompt.md → outline.md → story.md → review.md → title-image.jpg
 ```
 
-The coordinator delegates one compact outline pass, one skilled prose assignment
-with in-place structural, dialogue, and language revision,
-one independent review, and one final-story title-image pass. The reviewer reads
+The coordinator delegates fresh outliner, writer, and reviewer agents for each
+story. The writer uses one local production adapter for in-place structural,
+dialogue, and language revision; that writer may also make a targeted REVISE
+pass, while every later review is fresh. The reviewer reads
 the prose before the outline and checks people, places, prompt fulfillment,
 dialogue, binding narrative policy, and continuity; the illustrator
 reads the finished prose and creates an exact 864x1536 portrait key visual.
@@ -43,9 +45,17 @@ a separate explicit user decision.
 ## Repository map
 
 - `AGENTS.md` — the complete operating rules.
-- `.agents/skills/story-room/` — the workflow and its two scripts.
-- `.agents/skills/short-story-writing/` — the self-contained prose-craft skill
-  and in-place revision pass for prospectively scaffolded stories.
+- `.agents/skills/story-room/` — the create, rewrite, and review workflow plus
+  scaffold, rewrite-preparation, and validation scripts.
+- `.agents/skills/short-story-writing/` — the compact project-owned production
+  adapter that resolves upstream craft advice into one in-place prose workflow.
+- `.agents/skills/creative-writing-craft/`, `dialogue/`, and `prose-style/` —
+  pinned upstream craft references; the first is primary and the other two are
+  diagnostic lenses inside the local adapter.
+- `.agents/skills/story-analysis/`, `story-sense/`, and `sensitivity-check/` —
+  pinned upstream review references used within the repository review contract.
+- `skills-lock.json` — upstream skill sources, immutable commit refs, and content
+  hashes for restoration and updates.
 - `.codex/agents/` — the narrow outliner, writer, reviewer, and title-image roles.
 - `stories/_template/` — the four-file scaffold.
 - `universe/` — authoritative shared-universe facts and style constraints.
@@ -64,11 +74,51 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase 
 
 The agent runs the targeted pre-review phase before review, generates the title
 image only after a passing review, and then runs the final phase locally. Final
-validation requires a readable 864x1536 JPEG for every current story. For the
-new prospective craft profile, local validation also enforces the compact
-outline ceiling and structured dialogue verdict. Both phases ignore locked
-legacy bundles; semantic noun extraction, dialogue judgment, and continuity
+validation requires a readable 864x1536 JPEG for every current story. For
+`prospective-2026-08-21`, local validation also enforces the compact outline
+ceiling, the five-field Voice capsule, and the existing structured dialogue
+verdict. The earlier 08-18 dialogue contract remains valid unchanged. Both
+phases ignore locked legacy bundles; semantic noun extraction, dialogue
+judgment, and continuity
 judgment remain the reviewer's responsibility.
+
+## Rewriting a completed story
+
+A rewrite is available only for an explicitly named, completed current-format
+story with `canon: false`. Locked legacy bundles remain immutable; canon stories
+require a separate retcon or canon decision.
+
+After creating `codex/rewrite-<slug>` and its dedicated worktree, prepare the
+same four-file package with:
+
+```powershell
+pwsh -NoProfile -File .agents/skills/story-room/scripts/prepare-rewrite.ps1 `
+  -Story <slug> `
+  -Title "<fresh story title>" `
+  -Request "<verbatim rewrite request>" `
+  -Cover Auto
+```
+
+Cover policies are `Auto`, `Keep`, and `Regenerate`. Auto retains an
+unchanged-title cover as a candidate for fresh visual comparison, but removes a
+changed-title cover and records that fresh generation is required. Keep requires
+an unchanged title and never generates a replacement automatically. Regenerate
+removes the old cover after the Markdown reset succeeds and requires a fresh
+image after the new prose passes review.
+
+Preparation preserves the original prompt byte-for-byte outside three managed
+rewrite sections, keeps package identity, records `prospective-2026-08-21`, and
+resets `outline.md`, `story.md`, and `review.md` to clean scaffolds in one guarded
+operation with rollback. The ordinary OUTLINE, WRITE, REVIEW, and REVISE stages
+then run with the same local adapter and Voice capsule as a new story. Prior
+narrative artifacts
+are out of scope unless the rewrite request explicitly names something to
+retain; in that case, only the minimum relevant material is recovered from Git.
+Cover generation is conditional because a retained image may be reused after a
+fresh six-gate pass; a valid final cover is still mandatory for completion. The
+workflow finishes with conditional cover replacement, final validation,
+recapture, commit, push, and a draft pull request. No backup prose or
+rewrite-history artifact is created.
 
 ## Pages
 

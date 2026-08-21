@@ -29,8 +29,13 @@ if (-not [string]::IsNullOrWhiteSpace($Story) -and $Story -notmatch '^[a-z0-9]+(
 
 $requiredFiles = @('outline.md', 'prompt.md', 'review.md', 'story.md')
 $titleImageFile = 'title-image.jpg'
-$dialogueCraftProfile = 'prospective-2026-08-18'
+$dialogueCraftProfiles = @(
+    'prospective-2026-08-18',
+    'prospective-2026-08-21'
+)
+$voiceCraftProfile = 'prospective-2026-08-21'
 $outlineWordLimit = 1200
+$voiceWordLimit = 180
 $errors = [Collections.Generic.List[string]]::new()
 $warnings = [Collections.Generic.List[string]]::new()
 $finalInventory = [Collections.Generic.List[object]]::new()
@@ -42,12 +47,22 @@ function Get-Section {
     $escaped = [regex]::Escape($Heading)
     $match = [regex]::Match(
         $Text,
-        "(?ms)^##\s+$escaped\s*\r?\n(?<body>.*?)(?=^##\s+|\z)"
+        "(?ms)^##[ \t]+$escaped[ \t]*\r?\n(?<body>.*?)(?=^##[ \t]+|\z)"
     )
     if (-not $match.Success) {
         return $null
     }
     return $match.Groups['body'].Value.Trim()
+}
+
+function Get-SectionMatches {
+    param([string]$Text, [string]$Heading)
+
+    $escaped = [regex]::Escape($Heading)
+    return @([regex]::Matches(
+        $Text,
+        "(?ms)^##\s+$escaped\s*\r?\n(?<body>.*?)(?=^##\s+|\z)"
+    ))
 }
 
 function Test-CraftProfile {
@@ -56,8 +71,19 @@ function Test-CraftProfile {
     $escaped = [regex]::Escape($Profile)
     return [regex]::IsMatch(
         $PromptText,
-        "(?m)^-\s+Craft profile:\s*${escaped}\s*$"
+        "(?m)^-[ \t]+Craft profile:[ \t]*${escaped}[ \t]*$"
     )
+}
+
+function Test-AnyCraftProfile {
+    param([string]$PromptText, [string[]]$Profiles)
+
+    foreach ($profile in $Profiles) {
+        if (Test-CraftProfile $PromptText $profile) {
+            return $true
+        }
+    }
+    return $false
 }
 
 function Get-MarkdownWordCount {
@@ -68,6 +94,137 @@ function Get-MarkdownWordCount {
         $withoutComments,
         "\b[\p{L}\p{N}]+(?:['’\-][\p{L}\p{N}]+)*\b"
     ).Count
+}
+
+function Test-VoiceCapsule {
+    param([string]$StorySlug, [string]$OutlineText)
+
+    $voiceMatches = @(Get-SectionMatches $OutlineText 'Voice')
+    if ($voiceMatches.Count -ne 1) {
+        $errors.Add("$StorySlug/outline.md must contain exactly one Voice section for $voiceCraftProfile; found $($voiceMatches.Count).")
+        return
+    }
+
+    $voice = $voiceMatches[0].Groups['body'].Value.Trim()
+    $wordCount = Get-MarkdownWordCount $voice
+    if ($wordCount -gt $voiceWordLimit) {
+        $errors.Add("$StorySlug/outline.md Voice section exceeds the $voiceWordLimit-word limit; found $wordCount words.")
+    }
+
+    $fields = @(
+        'Narrative texture',
+        'Conversational texture',
+        'Rhetorical ownership',
+        'Pressure behavior',
+        'Anti-default'
+    )
+    $values = @{}
+    foreach ($field in $fields) {
+        $escaped = [regex]::Escape($field)
+        $fieldMatches = @([regex]::Matches(
+            $voice,
+            "(?m)^[ \t]*-[ \t]+${escaped}:[ \t]*(?<value>[^\r\n]*)$"
+        ))
+        if ($fieldMatches.Count -ne 1) {
+            $errors.Add("$StorySlug/outline.md Voice section must contain exactly one '$field' field; found $($fieldMatches.Count).")
+            continue
+        }
+
+        $value = $fieldMatches[0].Groups['value'].Value.Trim()
+        $values[$field] = $value
+        if ([string]::IsNullOrWhiteSpace($value)) {
+            $errors.Add("$StorySlug/outline.md Voice field '$field' must contain actionable story-specific guidance.")
+        }
+    }
+
+    $fieldLines = @([regex]::Matches(
+        $voice,
+        '(?m)^[ \t]*-[ \t]+(?<field>[^:\r\n]+):'
+    ))
+    foreach ($fieldLine in $fieldLines) {
+        $fieldName = $fieldLine.Groups['field'].Value.Trim()
+        if ($fieldName -notin $fields) {
+            $errors.Add("$StorySlug/outline.md Voice section contains unsupported field '$fieldName'.")
+        }
+    }
+
+    $noDialogue = 'N/A — no meaningful dialogue expected'
+    foreach ($entry in $values.GetEnumerator()) {
+        if ($entry.Value -match '(?i)^N/A\b' -and $entry.Value -cne $noDialogue) {
+            $errors.Add("$StorySlug/outline.md Voice field '$($entry.Key)' must use the exact no-dialogue value '$noDialogue' or provide story-specific guidance.")
+        }
+    }
+    foreach ($field in @('Narrative texture', 'Anti-default')) {
+        if ($values.ContainsKey($field) -and $values[$field] -ceq $noDialogue) {
+            $errors.Add("$StorySlug/outline.md Voice field '$field' cannot use the no-dialogue N/A value.")
+        }
+    }
+    foreach ($entry in $values.GetEnumerator()) {
+        if ($entry.Value -match '(?i)^\s*(?:(?:just|merely)\s+)?avoid(?:\s+the)?\s+house[ -]?style[.!]?\s*$') {
+            $errors.Add("$StorySlug/outline.md Voice field '$($entry.Key)' uses non-actionable house-style boilerplate.")
+        }
+    }
+}
+
+function Test-RewritePrompt {
+    param([string]$StorySlug, [string]$PromptText)
+
+    $headings = @('Rewrite request', 'Rewrite reference images', 'Rewrite constraints')
+    $matchesByHeading = @{}
+    $managedCount = 0
+    foreach ($heading in $headings) {
+        $matches = @(Get-SectionMatches $PromptText $heading)
+        $matchesByHeading[$heading] = $matches
+        $managedCount += $matches.Count
+    }
+    if ($managedCount -eq 0) {
+        return
+    }
+
+    foreach ($heading in $headings) {
+        $count = $matchesByHeading[$heading].Count
+        if ($count -ne 1) {
+            $errors.Add("$StorySlug/prompt.md must contain exactly one '$heading' section for a prepared rewrite; found $count.")
+        }
+    }
+    if (@($headings | Where-Object { $matchesByHeading[$_].Count -ne 1 }).Count -gt 0) {
+        return
+    }
+
+    $request = $matchesByHeading['Rewrite request'][0].Groups['body'].Value.Trim()
+    if ($request -notmatch '(?m)^>\s*\S') {
+        $errors.Add("$StorySlug/prompt.md Rewrite request must contain a non-empty blockquote.")
+    }
+
+    $references = $matchesByHeading['Rewrite reference images'][0].Groups['body'].Value.Trim()
+    if ([string]::IsNullOrWhiteSpace($references)) {
+        $errors.Add("$StorySlug/prompt.md Rewrite reference images section must be non-empty.")
+    }
+
+    $constraints = $matchesByHeading['Rewrite constraints'][0].Groups['body'].Value.Trim()
+    $coverLines = @([regex]::Matches($constraints, '(?m)^-[ \t]+Cover:[ \t]*(?<value>[^\r\n]+?)[ \t]*$'))
+    if ($coverLines.Count -ne 1) {
+        $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one Cover policy.")
+    }
+    elseif ($coverLines[0].Groups['value'].Value.Trim() -notin @('AUTO', 'KEEP', 'REGENERATE')) {
+        $errors.Add("$StorySlug/prompt.md Rewrite Cover policy must be AUTO, KEEP, or REGENERATE.")
+    }
+
+    $profileLines = @([regex]::Matches(
+        $constraints,
+        '(?m)^-[ \t]+Craft profile:[ \t]*prospective-2026-08-21[ \t]*$'
+    ))
+    if ($profileLines.Count -ne 1) {
+        $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one active Craft profile: prospective-2026-08-21 line.")
+    }
+
+    $authorityLines = @([regex]::Matches(
+        $constraints,
+        '(?m)^-[ \t]+Authority:[ \t]*the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding\.[ \t]*$'
+    ))
+    if ($authorityLines.Count -ne 1) {
+        $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one rewrite authority line.")
+    }
 }
 
 function Get-TableRows {
@@ -279,13 +436,18 @@ function Read-StoryPackage {
     $storyText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'story.md') -Raw
     $reviewText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'review.md') -Raw
 
-    $usesDialogueCraftProfile = Test-CraftProfile $promptText $dialogueCraftProfile
+    $usesDialogueCraftProfile = Test-AnyCraftProfile $promptText $dialogueCraftProfiles
+    $usesVoiceCraftProfile = Test-CraftProfile $promptText $voiceCraftProfile
     if ($usesDialogueCraftProfile) {
         $outlineWordCount = Get-MarkdownWordCount $outlineText
         if ($outlineWordCount -gt $outlineWordLimit) {
-            $errors.Add("$slug/outline.md exceeds the $outlineWordLimit-word limit for $dialogueCraftProfile; found $outlineWordCount words.")
+            $errors.Add("$slug/outline.md exceeds the $outlineWordLimit-word limit for its dialogue craft profile; found $outlineWordCount words.")
         }
     }
+    if ($usesVoiceCraftProfile) {
+        Test-VoiceCapsule $slug $outlineText
+    }
+    Test-RewritePrompt $slug $promptText
 
     $promptSection = Get-Section $promptText 'Prompt'
     if ([string]::IsNullOrWhiteSpace($promptSection) -or $promptSection -notmatch '(?m)^>\s*\S') {
@@ -381,6 +543,7 @@ function Read-StoryPackage {
         StoryBody = $storyBody
         ReviewText = $reviewText
         UsesDialogueCraftProfile = $usesDialogueCraftProfile
+        UsesVoiceCraftProfile = $usesVoiceCraftProfile
     }
 }
 

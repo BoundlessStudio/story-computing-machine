@@ -15,5 +15,5 @@
   conceal, or make intimate unless specified
 - Tone and audience: broadly accessible unless specified
 - Required: a complete story that resolves its central promise
-- Craft profile: prospective-2026-08-18
+- Craft profile: prospective-2026-08-21
 - Avoid: none specified
