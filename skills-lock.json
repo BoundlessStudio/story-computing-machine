@@ -3,36 +3,42 @@
   "skills": {
     "creative-writing-craft": {
       "source": "haowjy/creative-writing-skills",
+      "ref": "fd7a3ad9cd7697a0645ff6ff4bd5e809cf7673a3",
       "sourceType": "github",
       "skillPath": "skills/creative-writing-craft/SKILL.md",
       "computedHash": "4f86fe223d503898dece048b7bfc4cac03d5173e1330e78e93d032a1810ad244"
     },
     "dialogue": {
       "source": "jwynia/agent-skills",
+      "ref": "e02ec7e226a6e4f8419fd3b88a1d8e472d421b32",
       "sourceType": "github",
       "skillPath": "skills/creative/fiction/character/dialogue/SKILL.md",
       "computedHash": "00aeea72912d82aac19cc59205bf992fda897362d62e25ce3bc31de0ff6af0af"
     },
     "prose-style": {
       "source": "jwynia/agent-skills",
+      "ref": "e02ec7e226a6e4f8419fd3b88a1d8e472d421b32",
       "sourceType": "github",
       "skillPath": "skills/creative/fiction/craft/prose-style/SKILL.md",
       "computedHash": "d260e1a7bae6995f7caad7296fd0e3d972acda445a15b77b97fdf5ad663b790a"
     },
     "sensitivity-check": {
       "source": "jwynia/agent-skills",
+      "ref": "e02ec7e226a6e4f8419fd3b88a1d8e472d421b32",
       "sourceType": "github",
       "skillPath": "skills/creative/fiction/application/sensitivity-check/SKILL.md",
       "computedHash": "2e91a226390575b9005df4132c8253c7215636117bc374d5097478791d73f970"
     },
     "story-analysis": {
       "source": "jwynia/agent-skills",
+      "ref": "e02ec7e226a6e4f8419fd3b88a1d8e472d421b32",
       "sourceType": "github",
       "skillPath": "skills/creative/fiction/core/story-analysis/SKILL.md",
       "computedHash": "831bb9b4d6faea61aa53d5920ee3aa9061e9a9c5c7ea8da51adfd3d2ef818cd1"
     },
     "story-sense": {
       "source": "jwynia/agent-skills",
+      "ref": "e02ec7e226a6e4f8419fd3b88a1d8e472d421b32",
       "sourceType": "github",
       "skillPath": "skills/creative/fiction/core/story-sense/SKILL.md",
       "computedHash": "c34ab015ace4c31e7319ccbfbb3d5f2248eea138c945969701a0b6881a6ffbf3"

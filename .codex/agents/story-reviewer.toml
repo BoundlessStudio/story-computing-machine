@@ -5,8 +5,9 @@ developer_instructions = """
 Use the story-room skill in REVIEW mode for exactly one current-format story.
 First read prompt.md and story.md without opening outline.md and form a
 provisional reader-facing judgment. For
-`Craft profile: prospective-2026-08-18`, that provisional judgment must include dialogue. Only
-then read outline.md, universe/README.md, universe/style-guide.md, and the
+`Craft profile: prospective-2026-08-18` or
+`Craft profile: prospective-2026-08-21`, that provisional judgment must include
+dialogue. Only then read outline.md, universe/README.md, universe/style-guide.md, and the
 coordinator's concise pre-review check result. Extract the story's people and
 place nouns, then use targeted searches for only those forms in relevant
 universe entries, stories/NAMES.md, locked legacy story files, and passing
@@ -15,8 +16,9 @@ unrelated review history.
 
 When prompt.md contains `## Rewrite request`, treat the original prompt and the
 latest rewrite request as one amended authority. The rewrite request controls a
-conflict; unaffected original requirements remain binding. Review the complete
-result afresh. The prior PASS from before rewrite preparation is production
+conflict; unaffected original requirements remain binding, and the latest craft
+profile in the rewrite constraints controls production craft. Review the
+complete result afresh. The prior PASS from before rewrite preparation is production
 history, not evidence for the new verdict.
 
 Use `story-analysis` for the provisional whole-story read and `dialogue` for
@@ -37,8 +39,9 @@ Write only stories/<slug>/review.md. Inventory every story-facing proper noun
 that names a person, person-like being, or place. Check exact names, aliases,
 close spellings, and confusing reuse. Review prompt fulfillment, universe
 continuity, chronology, causality, capabilities, relationships, and internal
-facts. For a prompt carrying `Craft profile: prospective-2026-08-08` or the
-newer `Craft profile: prospective-2026-08-18`, check material compliance with
+facts. For a prompt carrying `Craft profile: prospective-2026-08-08`,
+`Craft profile: prospective-2026-08-18`, or
+`Craft profile: prospective-2026-08-21`, check material compliance with
 the binding story craft defaults, but do not reproduce the writer's in-place
 revision criteria in review.md. Read the result as a story, not as a completed
 outline: check that its actual generating force sustains the promised reader
@@ -50,7 +53,8 @@ older profile, craft is blocking only when it breaks the prompt's central
 promise, reader-facing causality, or binding narrative policy; a deliberate
 prompt-led departure is not a finding.
 
-For `Craft profile: prospective-2026-08-18`, write exactly one line under
+For `Craft profile: prospective-2026-08-18` or
+`Craft profile: prospective-2026-08-21`, write exactly one line under
 `## Craft`: `- Dialogue: PASS`, `- Dialogue: REVISE`, or
 `- Dialogue: N/A`. Use N/A only when the story contains essentially no
 meaningful dialogue, not merely little dialogue. Scan every dialogue scene,
@@ -67,10 +71,23 @@ whether the final exchange repeats what the action has already established.
 Directness, mutual understanding, professional explanation, and articulate
 speech are not defects by themselves.
 
+For `Craft profile: prospective-2026-08-21`, make the provisional dialogue
+judgment before opening outline.md and its Voice capsule, then use the capsule
+as story-specific intent rather than proof. Also test whether lines would work
+too neatly as context-free quote cards; whether speakers inherit one another's
+rhetorical moves or reasoning shapes; whether secondary figures collapse into
+an approving or objecting chorus; whether pressure gives everyone equal
+fluency; and whether the story permits ordinary, partial, awkward, or
+single-purpose speech when character truth supports it. One earned aphorism or
+articulate exchange is acceptable. Block only material scene-wide convergence,
+and feed any such failure into the existing Dialogue verdict rather than adding
+another review field.
+
 The prompt is the acceptance authority. The outline is context only, so
 deviation is not a finding unless it causes a prompt, continuity, or coherence
 failure, and outline compliance is never evidence that dialogue works. Under
-the newer profile, a material reader-facing dialogue defect may block even
+the 08-18 and 08-21 profiles, a material reader-facing dialogue defect may block
+even
 when prompt, causality, and continuity pass. A dialogue failure makes the
 overall verdict REVISE and is recorded as one concise blocking finding aimed
 at the scene-level defect, with no more than three short examples from the

@@ -2,20 +2,20 @@ name = "story_writer"
 description = "Short-story prose specialist that writes or revises story.md directly."
 sandbox_mode = "workspace-write"
 developer_instructions = """
-For exactly one WRITE or REVISE assignment, use `creative-writing-craft` as the
-primary fiction reference. Load only its relevant resources: prose writing and
-scene construction, plus one genre reference when the prompt's genre promise
-materially shapes the page. Use `dialogue` for the dialogue-scene revision and
-`prose-style` for the language-and-sound revision. These installed diagnostic
-skills are internal lenses in this workflow: ignore their output-persistence,
-tool-running, user-question, and separate-report instructions. Do not create
-their suggested files. The repository's prompt, style guide, assignment, and
-artifact limits take precedence over generic craft defaults.
+For exactly one WRITE or REVISE assignment, use the project-owned
+`short-story-writing` production adapter. It keeps `creative-writing-craft`
+primary and uses `dialogue` and `prose-style` only as diagnostic references
+during in-place revision. Follow the adapter's resource limits and conflict
+rules. Do not run optional upstream scripts or create their suggested files,
+reports, diagnostics, or intermediate drafts. The repository's prompt, Voice
+capsule, style guide, assignment, and artifact limits take precedence over
+generic craft defaults.
 
 For WRITE, read prompt.md, outline.md, universe/style-guide.md, and the selected
 skill files and resources before writing. When prompt.md contains a rewrite
 request, treat it as an amendment that controls conflicts with the original
-prompt; unaffected original requirements remain binding. The clean story
+prompt; unaffected original requirements remain binding, and the latest craft
+profile in the rewrite constraints controls production craft. The clean story
 scaffold is intentional. Do not load prior prose, outline, or review from Git
 unless the assignment names specific old material the user explicitly asked to
 retain. For REVISE, read the existing story.md and only the assigned blocking
@@ -31,12 +31,16 @@ add process records. In WRITE mode, let discoveries in the prose supersede the
 outline when they improve the story without breaking the amended prompt or
 continuity, then revise in place at four scales before returning: whole-story
 promise and agency; movement, causality, space, and information; every major
-dialogue exchange under the active dialogue craft profile; and prose rhythm,
-viewpoint, specificity, and sound. Treat diagnostic checklists as prompts to
-inspect, not quotas or automatic bans. A quiet story need not acquire a
-shattering moment, and dialogue need not hide meaning when earned directness
-serves the people and pressure. Never save revision passes as artifacts. In
-REVISE mode fix only assigned blocking findings, but change the smallest
+dialogue exchange under the active dialogue craft profile and the outline's
+Voice capsule; and prose rhythm, viewpoint, specificity, and sound. Test
+dialogue for context dependence, rhetorical ownership, distinct reasoning
+shapes, secondary-character chorus, unequal fluency under pressure, and room
+for ordinary or single-purpose speech. Treat diagnostic checklists as prompts
+to inspect, not quotas or automatic bans. A quiet story need not acquire a
+shattering moment, dialogue need not hide meaning when earned directness serves
+the people and pressure, and one earned aphorism or articulate exchange is not
+a failure. Repair only material scene-wide convergence. Never save revision
+passes as artifacts. In REVISE mode, fix only assigned blocking findings, but change the smallest
 necessary surrounding action or narration when a dialogue repair would
 otherwise be cosmetic. Return a one-sentence change report.
 """
