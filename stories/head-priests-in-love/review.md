@@ -6,16 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Mezarin | new | Elovar's head priest, focal character, and Ankora's lover; no exact, alias, close-spelling, or confusing reuse found in the required noun history. |
-| Ankora | new | Orsava's head priest, Mezarin's religious rival, and her lover; no exact, alias, close-spelling, or confusing reuse found in the required noun history. |
-| Elovar | new | Living local god of chosen continuities, commitments, and defended boundaries; no exact, alias, close-spelling, or confusing reuse found in the required noun history. |
-| Orsava | new | Living local goddess of endings and revision; no exact, alias, close-spelling, or confusing reuse found in the required noun history. |
+| Levara Quist | new | Adult head priest of Holdfast, also called `Levara`; no exact or alias reuse. The near forms `Leora Sloane` and baseline `Tamsin Quill` remain distinguishable by full form and story-facing use. |
+| Ambel Tarn | new | Adult head priest of Farwake, also called `Ambel`; no exact or alias reuse. The near form `Baird Ansel` remains distinguishable by full form and story-facing use. |
+| Holdfast | new | Living local god of secured harbor water and safe return; no exact, alias, close-spelling, or confusing reuse found. |
+| Farwake | new | Living local god of departure and outward passage; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Palem | new | City of the opposing temples; the current person name `Paloma` remains distinct in spelling, noun type, and story context. |
+| Brackwater Reach | new | Harbor and reef-circuit setting; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -30,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Five quarterly handoffs span about thirteen months and turn professional friction into an explicit reciprocal relationship; both priests keep their offices and independent duties, the petitioners keep their choices, and the opposed living gods neither merge nor arrange the match.
+- Notes: The mirrored divine commands sustain the promised romance while both priests retain faith, agency, and disagreement; Levara's procedural distinctions and Ambel's particulars, interruptions, and silences remain distinct through the decisive conflict and final exchanges.
