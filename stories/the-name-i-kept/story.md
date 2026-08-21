@@ -7,454 +7,596 @@ canon: false
 
 # The Name I Kept
 
-Dryer eight says disgrace every twenty-three seconds.
+The repair shop's freight lift knocked once beneath my boots, paused as if reconsidering, then climbed the last half floor with a chain-rattle that made the insulated drivers in my bag chime together.
 
-The word crawls beneath your mother's face on the television bolted above the change machine. Then the dryer turns, the brass buckle in Auden's work trousers knocks once against the glass, and Crownfire says it again in white block captions.
+I stopped the chain.
 
-DISGRACE IS NOT A WORD WE USE LIGHTLY.
+One held breath. One caught cycle. The lift hung silent between teeth while I shifted the bag away from my hip. When I breathed out, the chain took up its argument exactly where it had left off, and the cage lurched level with Kerin's floor.
 
-Knock.
+The habit was the reason for the band. Any Vardel could arrest one repeating thing we could perceive for as long as we could hold our breath. Release came clean only if the process could still resume; machinery was forgiving, bodies were not. The difficult part was not reaching for every rhythm that announced itself. Mine followed switches, motors, current. Kerin's followed bodies.
 
-BUT A FAMILY OF HEROES MUST BE HONEST ABOUT FAILURE.
+At eleven sixteen, through a dented security gate above a closed repair shop, I found my older sibling labeling a carton SOCKS.
 
-Knock.
+"You own six pairs," I said.
 
-You reach for the dryer door. Auden catches it before you can wrench it open.
+Kerin looked at the paper sack in my hand. "Then the carton can take the buns."
 
-"It's locked during the cycle."
+"The buns are dinner."
 
-"I know how dryers work."
+"You said you were coming at ten."
 
-"You just tried to peel one."
+"I said after patrol."
 
-Their sleeve has ridden up. Pale burn scars ladder the inside of their wrist, old marks from carrying force through a body not built to keep it. You look away first. Auden lets go of the handle and drops two more quarters through the slot.
+"You said ten after patrol."
 
-The loading shift starts in three hours, and Auden owns two pairs of trousers fit to wear there. One is turning behind the glass. The other lies across the folding table with a streak of machine grease down the thigh. Auden has been working detergent into it with a toothbrush whose bristles have gone black.
+They had packed the room with the exactness of somebody who did not expect to come back. Two cartons, one patched coat, a kettle wrapped in a towel. The narrow cot still had a sheet on it, though. The sheet stopped me from saying anything about the boxes.
 
-On the television, your father lowers his head by exactly the amount that means Palisade is grieving for the cameras.
+Kerin took the food. Their left sleeve was rolled over the cadence band, a dull ceramic cuff ridged with small silver contacts. It tapped an irregular sequence against the inside of their wrist: three, one, two, pause. A harmless rhythm to find when a heartbeat became too loud.
 
-"Turn it off," you say.
+For another forty-four minutes, anyway.
 
-"Remote disappeared in winter."
+"Tools?" they asked.
 
-"I'll unplug it."
+"Under the dumplings."
 
-"Same socket as the change machine. I need another dollar."
+"That's hygienic."
 
-You put the blue laundry sack on the table. It contains the shirts and towels Auden left with you last week, washed in the machines at the family house because the laundromat's cold-water line had failed. You have folded everything badly on purpose. Usually Auden notices, says something, and you get five minutes in which the worst problem between you is a sleeve trapped inside itself.
+"Separate compartment. And if you'd answered when I asked whether the bench here had a field vise—"
 
-Tonight they lift the top shirt, shake it once, and fold it again without comment.
+"Bench has one. Plug under it sparks. Don't use that."
 
-"Mother used the whole sentence this time," you say. "Failure and disgrace. Father agreed."
+That was how we talked when I came: work first, because work had edges. I knew which takeout place still put too much anise in the greens and that Kerin pulled it out strand by strand. Kerin knew I carried three sizes of driver but never remembered a cable tie. Their old patrol had visited once, all together, and left a recorder running between the plates. After Kerin switched it off, the heroes sent questions through the tribunal instead. I was the only person who still came without needing their answer preserved, twice a month after our parents disowned Kerin and began telling people they had one child.
 
-"Mm."
+I set my bag on the bench. A folded recovery order lay beneath the insulated tray, its seal turned down.
 
-"They knew I was watching from the greenroom."
+Kerin emptied the food onto two cracked plates. "Last tram's twelve twenty-two."
 
-Auden turns the shirt so its buttons face inward. "Blue towel in there?"
+"I checked."
 
-"At the bottom."
+"You always check the outbound. You forget the walk from the stop."
 
-"I need it before the whites."
+"It's nine minutes."
 
-"Did you hear me?"
+"In patrol boots. In rain. Carrying half my kitchen?"
 
-"The television is six feet away, Mica."
+"We're not carrying your kitchen."
 
-Their tiredness infuriates you more than anger would. You yank the sack open and drag out the towels. Your right hand gives under the weight. A hot thread runs from the heel of your palm to your elbow; you lose your grip, and a gray shirt slides onto the tile.
+The kettle, muffled in its towel, seemed to contradict me.
 
-Auden looks at the shirt. Then at the hand you tuck beneath your opposite arm.
+Kerin pushed my plate across the bench. "Then why are the tools here?"
 
-"Show me."
+I chewed too quickly and burned my tongue. Midnight was the reason. The family controller inside the band would receive the disable command. The tactile pattern would freeze on one hard pulse, worse than no band at all until Kerin could cut it off. Our parents called that reclaiming equipment.
 
-"It's nothing."
+"Controller conversion," I said. "If we start now."
 
-"Use that one to pick up the shirt, then."
+Kerin's thumb stopped over a torn bun. "You found an independent core?"
 
-You don't move. Auden leaves the grease-stained trousers soaking and holds out their hand. They do not ask twice. They never had to when the two of you were children, before Rampart became the person in the family photographs whose face strangers now cover with their thumbs.
+"Two. One of them is probably stable."
 
-You surrender your wrist. Their fingers travel around the swelling without pressing it, measuring heat and shape. When they rotate your palm a fraction, pain flashes hard enough to whiten the room.
+"Probably."
 
-"When?"
+"The expensive one is probably stable. The cheap one is here so the expensive one feels encouraged."
 
-"Roof collapse yesterday. I caught a beam badly."
+Their mouth almost moved. Then they glanced at the clock above the sink.
 
-"Scan?"
+"Why tonight?"
 
-"Mother wrapped it."
+The repair shop below us started its automatic solvent purge. Fans drummed through the floor. I waited for the sound to cover what I did not say, which answered them before I could.
 
-"That wasn't the question."
+Kerin put the bun down. "What time?"
 
-"The medic wanted me out for a week. We have the memorial broadcast tonight."
+"Midnight."
 
-"So Crownfire wrapped it."
-
-Auden opens the laundry sack again, finds the clean blue towel, and folds it lengthwise into a sling. Their knot is ugly but secure. They push your forearm against your ribs and tighten it until you stop trying to carry the hurt by muscle alone.
-
-"If your fingers go numb, loosen it," they say.
-
-"You sound like the medic."
-
-"The medic was right."
-
-The interview cuts to footage of the bridge: four passenger cars hanging over black water, caught in a shallow silver curve that the camera barely saw. Your mother's voice is still muted. The caption supplies it.
-
-ONE TERRIBLE DECISION CANNOT BE ALLOWED TO DEFINE HEROISM.
-
-Auden turns back to the stained trousers.
-
-You say, "I told them to stop."
-
-The toothbrush pauses.
-
-"Tonight," you add. "At the house. I told them what they were saying was a lie."
-
-"Who was there?"
-
-"Mother. Father. Me."
-
-"Bold room."
-
-"Don't."
-
-"Pass the powder."
-
-You slap the cardboard detergent box onto the table. A white puff coats your black sleeve. Auden waits for you to brush it away, then takes the box.
-
-"They put the question in tonight's rundown," you say. "I'm supposed to tell the audience that the family is united. After that, I am supposed to stand between them while they read the passenger names."
-
-Auden tips powder into the sink. "Then don't say it."
-
-"I'm not going at all."
-
-That gets their eyes off the trousers.
-
-"I packed a bag," you say. "It's in the car. I can be out before breakfast. No team, no house, no crest. Let them explain why they lost both children."
-
-Auden sets down the box. "Put the bag back."
-
-"You don't get to order me home."
-
-"Correct. Put it wherever you like. Don't leave it on my floor."
-
-"I didn't ask to move in."
-
-"You came here at one in the morning to tell me you're about to blow up your life. Where do you imagine the pieces land?"
-
-"That is not fair."
-
-"No. Fair would have been you saying something while I still had an appeal."
-
-The dryer buckle knocks. Neither of you looks at the screen.
-
-You lower your voice. A man dozing beside the front windows has shifted under his coat. "I was concussed at the hearing."
-
-"You were."
-
-"Father said they wouldn't call me."
-
-"He did."
-
-"Every statement went through the family's counsel. I was seventeen."
-
-"All true."
-
-You wait for them to finish the absolution. Auden scrubs at the grease instead. The stain spreads into a dark halo.
-
-"And after?" they ask.
-
-"I argued with them."
-
-"In bold rooms."
-
-"I came here."
-
-"You brought me socks."
-
-"You wouldn't answer anyone else."
-
-"I didn't ask anyone else to remember it correctly."
-
-Auden drops the toothbrush into the sink. Suds stipple their knuckles. "You come after they put my face on a screen. You tell me they're cruel. I tell you your parents still love you. You go back steadier. I go to work. Is that what tonight is?"
-
-"No."
-
-"Good. Then don't hand me your resignation and make me pick whether you resent me now or later."
-
-Your injured hand pulses inside the towel. With the other, you reach into your coat and take out a square of black ceramic no larger than a shirt button.
-
-The anger leaves Auden's face before any other expression replaces it.
-
-"Where did you get that?"
-
-"My impact buffer. From the bridge."
-
-They know the suit pieces better than you do. Rampart used to check every latch before a family deployment because Palisade believed inspection looked nervous on camera. The ceramic square records six seconds on either side of a disabling impact: suit loads, collar audio, the family's shared structural model, whatever the forward lens can see. Your suit shed it into the lining when the first carriage struck Auden's field.
-
-Auden wipes their hands on their coat, leaving two wet marks. "The board said your buffer was corrupted."
-
-"The file entered into evidence was. This is the local original."
-
-"How long?"
-
-You place it beside the detergent. "I found it six months ago."
-
-Auden stares at the little square. Dryer eight knocks twice.
-
-"Six months," they say.
-
-"Father said reopening the finding would make things worse for you."
-
-"And you believed him?"
-
-"No. I was afraid he might be right."
-
-Auden picks up the grease-stained trousers and carries them to washer eleven. They feed the fabric through the round door without checking the pockets. That frightens you; they always check twice. Quarters strike the metal slot one by one.
-
-"I brought it now," you say.
-
-"You brought it in a coat pocket. With lint."
-
-"I can put it out during the broadcast. The whole buffer. They can't call you a failure after people see—"
-
-Auden slams the washer door. "No."
-
-"You haven't watched it."
-
-"I was there for the original."
-
-"It proves there wasn't another way."
-
-"It records a man dying."
-
-The dozing customer lifts his head. Auden waits until he turns toward the television again.
-
-"And it records me afterward," they say more quietly. "Doesn't it?"
-
-You nod.
-
-The clip ends with Auden on their knees beside Shearpoint. You have never played that part with sound.
-
-"You don't get to broadcast that because you're angry at Mother."
-
-"I wasn't going to—"
-
-"You said the whole buffer."
-
-"Then tell me which part."
-
-"I said no."
-
-The washer drum lurches once and stops. A red imbalance light begins to blink. Auden presses start. The motor complains, turns half a revolution, and gives up.
-
-"You left the buckle fastened," you say.
-
-"I know."
-
-"It catches the fabric on one side. You taught me that."
-
-"Not now, Mica."
-
-You open the washer. With one working hand, you struggle to free the wet trousers from themselves. Auden watches you fight the weight for three seconds, swears under their breath, and steps in. Together you unhook the buckle, shake out both legs, and arrange them around the drum.
-
-When the machine turns smoothly, Auden sits on the molded chair between washers ten and eleven. They hold out their palm.
-
-"Let me see it before I decide."
-
-You have an adapter in the detergent box. The ceramic square clicks into it, and your phone fills with numbers too small for the screen. You enlarge the field diagram and set the phone on Auden's knee.
-
-The first image is the inside of the lead carriage tipped toward the river. Rain needles through a broken window. Your own breath rasps close to the collar microphone.
-
-Auden drags the playhead to the fourth structural pulse.
-
-Time remaining: 1.76 seconds.
-
-The train drops eleven centimeters. The suit marks each carriage in red. Beneath them, Auden's support field flares from eighty-nine percent load to ninety-seven.
-
-Through the window, the surviving rail glints. Shearpoint is a narrow figure at its far end, one palm laid flat on the steel. His first three pulses have split the braces below him. The fourth is gathering under his hand.
-
-The phone speaker gives you Auden's voice, raw with strain. "Take your hand off the rail."
-
-Shearpoint looks toward the hanging carriage. Toward you. He drives his shoulder down.
-
-The field diagram changes. Auden can release the train and strike across open air. Four red boxes fall. They can turn the new pulse into either edge of the support field. Two cars roll out of the bowl. They can delay. The broken brace reaches terminal shear before the next full heartbeat.
-
-One route stays green: back through the rail carrying the pulse, to its source.
-
-You remember the next part without the screen. Auden's hands closing. The tremendous stillness when the carriage stops dropping. Shearpoint flung from the rail, not bloodied in your view, only suddenly loose. The sound Auden makes when they understand he will not rise.
-
-Auden stops the clip before the return travels.
-
-"Again," they say.
-
-You play it again.
-
-On the third viewing, they point to the transfer log in the corner. Two devices opened the full upload at three fourteen the next morning. The damaged file did not enter evidence until four hours later. One device belongs to Crownfire. One belongs to Palisade.
-
-"They saw all the routes," you say.
-
-"They saw the estimates."
-
-"They heard you warn him."
+"And you knew when you came in."
 
 "Yes."
 
-Auden rubs a thumb against the phone's cracked edge. "Do you remember what you said to me in the ambulance?"
+"How long have you known?"
 
-You remember asking whether the two of you had killed him. You were drugged, shivering, your shoulder strapped flat. Auden answered, *No. I did.*
+"Since briefing."
 
-"You wouldn't let me take any of it," you say.
+"Ossia."
 
-"It wasn't yours."
+"Forty minutes. I left patrol as soon as I could."
 
-"Neither is what they've done to you. I keep coming here as if hearing me say that changes where you have to wake up."
-
-They glance at the dryer clock. Eleven minutes. "It changes some things."
-
-"Not the expensive ones."
+They folded their sleeve down over the band. "Take it."
 
 "No."
 
-You open a blank statement on the phone. Your first sentence is: *Auden had no choice.*
+"That's what they sent you for."
 
-They cross it out with one hard stroke of your finger.
+I reached into the bag and put the order on the bench. The seal showed now. Kerin did not pick it up.
 
-"I sent it back," they say. "Keep me in that sentence."
+"I brought that," I said, "because if they audit my kit, it's worse if I leave it at home."
 
-"There was no other move."
+"You brought it because you're still deciding."
 
-"There was no way to spare him and keep the cars up. I sent it back anyway. I knew where it would go. If you turn that into a machine accident, don't use the recording."
+"I started deciding six weeks ago when I ordered the cores."
 
-So you start again.
+"Then you had six weeks to tell me."
 
-You write only what your collar lens and your own eyes establish: the eleven-centimeter drop; the 1.76 seconds; the support load; the warning; Shearpoint's hand staying on the rail; the one route that did not drop a carriage. You write that Auden sent the force back. You write that Shearpoint died because of it.
+There it was: not their precision, but mine turned against me. Sequence. Discrepancy. I had spent six weeks preparing the right act and forty minutes hiding its cost.
 
-When you type *saved everyone*, Auden deletes the word *everyone*.
+"Yes," I said. "I did."
 
-"The passengers," they say.
+The fan below surged, flattening the room into vibration. Kerin tugged at the band clasp.
 
-You write *the passengers, including me*.
+I caught their wrist. "If you release it live, the controller can close the contact loop. Then it'll lock before midnight."
 
-Auden allows three seconds of video. No impact. No body. No ambulance. Their warning and the field diagram end on the final green route. They keep the transfer record showing your parents opened the data. They make you turn off comments on the original file even though copies will sprout them everywhere else.
+"Let go."
 
-Under the eyewitness statement, you type Mica Serrin.
+"Let me bridge it first."
 
-At the bottom of the release form, they type Auden Serrin.
+"You don't get to arrive with a secret deadline and hold my hand to the bench."
 
-You watch the surname appear. "You still use it on everything?"
+I let go.
 
-"Work insists on paychecks matching bank accounts. Very old-fashioned."
+For two breaths neither of us moved. Then Kerin held their arm out again, not to me but over the vise.
 
-"You could change it."
+"Bridge only," they said. "After that, I'm taking it off."
 
-"I could change my boots. These pinch too."
+I clipped the bypass lead across the outer contacts. The band tapped three, one, two against their wrist.
 
-"Auden."
+At eleven twenty-four, I opened the housing.
 
-They look down at the form. The cursor blinks after the last letter.
+* * *
 
-"The week they threw me out, you left six messages," they say. "My phone still sorted us together under Serrin. I left it that way."
+Inside, the family controller was a black square no wider than my thumbnail. It sat behind a mesh of contacts designed to make removal look more dangerous than it was. Our mother believed in tamper evidence. Our father preferred consequences.
 
-"You never called back."
+"Blue lead," I said.
 
-"I listened."
+Kerin separated it with ceramic tweezers. "Blue is sense. White is pattern."
 
-You almost tell them you are leaving the family anyway. The packed bag waits in your car, one boot holding its zipper open.
+"This revision swaps them."
 
-Instead you ask, "If I say this tonight, will you release the clip?"
+"Of course it does."
 
-"If you say your part. Not mine."
+"Angle the lamp."
 
-"What does that mean?"
+They did. I tested the first independent core. Its timing wandered four parts in a hundred.
 
-"Don't call me innocent. Don't say I had no hand in it. Tell them where you were and what you saw."
+"Cheap one?" Kerin asked.
 
-"And after?"
+"Cheap one."
 
-Auden rises when dryer eight buzzes. "After, you're going to a doctor about that wrist."
+"It tried."
 
-They open the door. Warm work clothes spill against them, the loose buckle silent at last.
+"It did not. It was manufactured."
 
-***
+"You always defend machines from my anthropomorphism and people from theirs."
 
-At six that evening, your mother fastens the family crest over your heart because your right hand cannot manage the clasp.
+The driver slipped against the contact. Not enough to damage it. Enough that Kerin noticed.
 
-She smooths the fabric around it. "You look tired."
+I changed tools. "When did you pack?"
 
-"I was doing laundry."
+"Today."
 
-"Tonight you can sleep at home."
+"For where?"
 
-The packed bag is no longer in your car. You put everything back before dawn. If your parents send you away tonight, they will have to do it while you are standing there.
+"Away from a band that turns into a metronome at midnight."
 
-On set, Palisade takes your uninjured hand. Crownfire takes the one bound in a proper brace. To the audience, it will look like unity. The memorial wall behind you is paired to your suit relay for the rescue footage scheduled later in the program.
+"Useful radius."
 
-The host reads the prepared question about the bridge memorial and whether the Serrin family has found peace. Your father answers first. He speaks of standards. Your mother speaks of sorrow. Then the host asks whether Auden might ever deserve the crest again.
+"There are buses after the trams stop."
 
-"A hero who kills because they fail to imagine another way has failed twice," Crownfire says. "Auden remains our child. Their choice remains a disgrace."
+"Where?"
 
-The control room gives you the cue to agree.
+"You need the narrow tip."
 
-"You watched the buffer," you say.
+I already had it in my hand. Kerin looked down at the open cuff instead of at me.
 
-Your father's grip closes around your fingers. "Mica."
+Calibration needed a source profile. The new core could generate randomness, but only after learning what Kerin's power mistook for an invitation: pulse strength, interval, the point when their attention adhered. Their old profile belonged to our parents' encrypted system. I could rebuild it from live measurements.
 
-"Both of you opened it at three fourteen the morning after the bridge."
+"I need you to catch the band on the next three-pulse set," I said. "Release before the pause."
 
-Your mother's eyes flick toward the producer off camera. Her smile stays where it is. "Grief can make memory feel certain—"
+"No."
 
-"Mine isn't the only record."
+"Then I can't tune the core."
 
-You touch the relay pad inside your braced wrist. Somewhere across the city, Auden has the release page open. You cannot make them press it. If they decide not to, you will speak without the clip.
+"You can copy the old output."
 
-The studio wall behind you changes from the memorial seal to the three seconds Auden chose.
+"The lock is already adding regularity. Look." I brought the trace onto my tablet. "The two-pulse gap is shorter than it was last month."
 
-Rain. A listing carriage. Red load marks. Auden's warning. Shearpoint lowering his shoulder. One green route and 1.76 seconds.
+Kerin studied it. "How do you know what it was last month?"
 
-The image freezes before anyone dies.
+"I measured while you were chopping onions."
 
-"I was in that carriage," you say. "The train had dropped eleven centimeters, and Auden was carrying ninety-seven percent of its load. Shearpoint began another pulse after they warned him. No path remained that spared him without dropping at least one car. Auden sent the pulse back to keep the cars up. Shearpoint died, and I am alive because they did it."
+"Of course you did."
 
-Palisade says, very softly, "Stop now and you can come home."
+"I didn't have a core then."
 
-The host hears him. So does the collar microphone.
+"You didn't have permission either time."
 
-Your mother reaches for the crest. You cover it, and pain shoots through your wrist despite the brace.
+I set down the probe. "No."
 
-"You may believe Auden should carry that death," you say. "They do. But you knew what happened when you called them a failure. You knew when you called them a disgrace. I won't repeat either word for you."
+The solvent purge ended. Without the fans, the room acquired smaller sounds: rain in the gutter, coolant ticking through pipes, the soft false pulse at Kerin's wrist.
 
-The red light on the main camera dies.
+"You can be angry after midnight," I said. "I need you alive enough to be angry."
 
-One side camera stays live long enough to show your father unfasten the crest. He does not tear it away. He presses the clasp, lifts the joined flame and shield from your uniform, and sets it face down on the table.
+"The band isn't life support."
 
-"Then you do not represent us," he says.
+"You packed your kettle because its timing drift bothers you."
 
-Your mother lets go of your hand.
+"Its timing bothers everyone. It takes nine minutes to boil a cup."
 
-By the time a studio guard returns your coat, the clip is everywhere. So are claims that it is forged, incomplete, stolen, proof of murder, proof of sacrifice. One message asks how a real hero spends 1.76 seconds. Another lists the train's passenger count as if Shearpoint can be subtracted without remainder.
+"You hear the woman downstairs through two floors when her heart skips. You haven't slept through a delivery truck in months. Take off the band if you want, but don't call it nothing."
 
-Nothing on your screen resembles acquittal. Auden does not answer your first call.
+Kerin's fingers closed around the cuff. They had long hands and a white seam across the smallest knuckle, left from pulling a captive's conductive collar apart after Stillmark was dead.
 
-Then a photograph arrives: washer eleven, red imbalance light blinking above its stopped drum. Under it, two words.
+"Three-pulse set," they said.
 
-*Your fault.*
+I started the trace.
 
-You go back to the laundromat in the uniform with two small holes over your heart. Three camera crews follow your car. You leave them on the pavement and walk inside where Auden is kneeling in front of the washer with one wet trouser leg over their shoulder.
+The ceramic ridge pressed once, twice, three times. Kerin inhaled. The third tap ceased halfway down, as cleanly as if the mechanism had been removed from time. Their shoulders rose. Their eyes fixed on the opened contact bed.
 
-They look at the bare place on your uniform where the crest used to sit. Their hand closes on the wet cloth. Then they point at the washer.
+I counted the interval. "Release."
 
-"Same trousers?" you ask.
+They breathed out. The tap completed.
 
-"Same buckle."
+Two more sets gave me the threshold. On the third, Kerin held a fraction longer.
 
-"You fastened it again."
+"What did you catch?" I asked.
 
-"I was reading your messages."
+"The actuator."
 
-"That is still not my fault."
+"Not what. Which part of it?"
 
-The cameras can see through the front glass. Auden sees them seeing, then points at the other side of the drum.
+"Its return stroke."
 
-"Take that leg," they say.
+"You don't isolate mechanical return."
 
-You set your coat on the folding table and crouch beside them. With your good hand, you reach into the cold water.
+"I do if I'm touching it."
+
+"You never did before Stillmark."
+
+Kerin's hand left the band. "We're not doing this."
+
+"The profile changed that night. I need to know how."
+
+"You need numbers."
+
+"Numbers come from events."
+
+"And there it is."
+
+"What?"
+
+"The way you ask the same question as the tribunal, only with a screwdriver in your hand."
+
+I stared at the open band. The tribunal had asked why Kerin crossed the barrier, why the medical record showed five minutes without a heartbeat, why a Vardel trained to preserve life had held on. It had not asked how long the captives had.
+
+"Did they ask about the return stroke?"
+
+Kerin said nothing.
+
+"Did they know you could feel it?"
+
+"No."
+
+"Then it isn't the same question."
+
+"It ends at the same body."
+
+"Kerin, I saw the eight people you brought out. I saw the burns on the floor where their chairs had been. I know the end. I need the order."
+
+Their jaw shifted once. "You want the order? I got the recall at nineteen twelve. I acknowledged it. Then I kept going."
+
+"Why?"
+
+"Because I'd spent three months behind him and your patrol was six streets away. Because I thought if Father arrived, he'd take command and Stillmark would vanish again. Because I wanted to be the one who finished it. Pick one."
+
+"All three can be true."
+
+"There. Put that in your sequence."
+
+I did. "You should have waited."
+
+"Yes."
+
+"You went alone when backup was coming."
+
+"Yes."
+
+"That was your decision."
+
+"Yes, Ossia."
+
+"But after the barrier closed—"
+
+"Don't."
+
+"After it closed, what did the third tap become?"
+
+Kerin looked toward the clock. Eleven forty-one.
+
+They put two fingers beside the actuator, though it had begun pulsing again. "His valve. Left side. The current was already in the collars. His next full contraction released it."
+
+"Could you have held the collars' charge?"
+
+"One circuit. There were eight."
+
+"The barrier?"
+
+"Not periodic. No cycle to catch. Couldn't touch him through it."
+
+"Unconscious?"
+
+"The link didn't require consciousness."
+
+Their voice had gone procedural. Each answer arrived trimmed to the dimension of my question. Their fingers pressed harder against the band.
+
+"Could you delay one beat and wait for us?"
+
+"His next beat stayed the trigger whether it came in a second or an hour. The barrier drew from the same live source. Your arrival didn't change the link."
+
+"By the time we reached you?"
+
+"He was already past restarting."
+
+"Could it be severed?"
+
+"When his heart fell outside the restart window, the link lost its source and discharged into its own sinks."
+
+"How long?"
+
+"Longer than he could come back from."
+
+"And if you let go earlier?"
+
+Kerin finally looked at me. "Eight chairs. Eight bodies."
+
+The kettle's cheap timer clicked from the carton. Kerin flinched toward it before they could stop themselves.
+
+"You shouldn't have been there alone," I said.
+
+"No."
+
+"You made that happen."
+
+"I know."
+
+"You didn't make the next beat lethal."
+
+They turned away. "Don't give me half a clean record because you're tired of defending a dirty one."
+
+"I'm not cleaning it. I'm separating two things you keep stacking so they can crush you together."
+
+"And then what? One correct column, one incorrect?"
+
+"Then the controller comes out. Hold the lamp."
+
+For a second, I thought they would throw me out. Instead, they dragged the lamp closer. Its metal foot scraped the bench.
+
+* * *
+
+At eleven forty-eight, Mother's call lit the tablet and the recovery order at the same time. The paper seal carried a receiver filament. Of course it did.
+
+Kerin reached for the bypass lead. "Answer. I'll give it back."
+
+"Don't touch that."
+
+"Your patrol rating comes up next week."
+
+"And your band locks in twelve minutes."
+
+"One of those follows you for years."
+
+"So does this."
+
+The call rang again. I accepted it and propped the tablet against the cold kettle.
+
+Mother appeared in uniform, hair pinned flat for night command. Behind her, Father stood over a dispatch table. He did not turn around.
+
+"Status of family property," Mother said.
+
+"Open and under service."
+
+Her eyes shifted past me. Kerin was outside the frame. "The order is recovery, not service. Confirm possession."
+
+"Kerin is wearing it."
+
+Father's hand stopped above the table.
+
+Mother said, "The former field member is not an authorized custodian."
+
+"It's adjusted to their reflex profile. Taking it doesn't make it useful to anyone else."
+
+"Utility is not the issue. Duty is."
+
+Kerin slid the expensive core toward me. Their face had gone blank in the old practiced way.
+
+Father spoke without facing the screen. "If she cannot complete a retrieval from the family failure, end the task and send a qualified team."
+
+My fingers tightened around the core. "Use Kerin's name."
+
+"This channel is for operational reporting," Mother said.
+
+"You found room for failure."
+
+"Ossia." Her voice dropped half a degree, the warning she used at briefings. "Do not damage your standing by confusing private attachment with judgment. The disgrace is settled."
+
+There were seven hundred things I had rehearsed saying. The record. The captives. The fact that their own timing report disproved the fantasy in which Kerin simply chose death over restraint. They had heard all of it already. They had filed it under family reputation and closed the drawer.
+
+The controller gave a warning pulse against Kerin's wrist.
+
+I picked up the insulated driver. "Equipment decision: I'm removing the family controller and installing an independent core. The band stays with Kerin."
+
+Mother's expression did not change. "That action is unauthorized."
+
+"Yes."
+
+"Your refusal will be recorded."
+
+"Then spell the name correctly."
+
+Father turned at last. "Ossia, do not make yourself another—"
+
+I ended the call.
+
+The order seal brightened. The controller's oscillator accelerated as it reached for the lock command.
+
+"Seat the core," I said.
+
+Kerin did not move. "You can still report a fault."
+
+"Seat it. Flat side down."
+
+"They'll pull you from patrol."
+
+"Kerin. Flat side down. Now."
+
+Their hands moved. I touched the driver's conductive shank to the controller lead and found its switching cycle: a sharp insect whine just above hearing, more felt in my teeth than heard. I inhaled.
+
+The oscillator stopped.
+
+The countdown on the tablet kept falling. Mother's call struck the screen again. The lift chain shifted below, rain gathered and broke from the gutter, and all of it continued because I could hold only one repeating thing.
+
+Kerin pressed the core into place. One pin resisted.
+
+My lungs tightened.
+
+"Left edge," I mouthed.
+
+They lifted, reseated. The pin slid home. Kerin closed the bridge with the tweezers.
+
+I exhaled.
+
+The black controller woke long enough to find itself disconnected. A red point flashed in its center and went dark. The independent core began with a thin, wandering pulse.
+
+Eleven fifty-three.
+
+Kerin pulled their hand away. "You ended the call."
+
+"I noticed."
+
+"No fault report. No cover."
+
+"Hold still. I need to calibrate."
+
+"Ossia—"
+
+"Your anger gets a turn. So does mine. Right now the pattern is drifting."
+
+The new pulse tapped twice, paused, then crowded four taps together. Kerin swallowed. Their attention snapped toward the pipes in the wall, following coolant pumps and blood through the woman sleeping downstairs.
+
+I adjusted the variance. "Find the band."
+
+"I can't separate it."
+
+"Look at my finger." I tapped the ceramic ridge along with the core. "Here. Not the pipe."
+
+"Stop adding a second pattern."
+
+"I need to mark it."
+
+"You're making it worse."
+
+I stopped. The pulse vanished under my own heartbeat, suddenly huge in my ears.
+
+Kerin inhaled.
+
+The pressure in my chest went still.
+
+No pain at first. Just a wrong, vacant space where the next beat belonged. My hands stayed on the probe. Kerin's eyes widened. Their shoulders locked high.
+
+I could not tell them to release. The room narrowed around their face.
+
+They breathed out.
+
+My heart struck once, hard enough to buckle my elbows. The second beat followed crookedly, then the third settled into place.
+
+Kerin tore the bypass lead free and backed into the cartons. "We're done."
+
+I sat on the stool because the floor had tilted. "The band isn't closed."
+
+"We're done."
+
+"You released inside one breath."
+
+"I caught your heart."
+
+"And released it."
+
+"Take the band off me."
+
+Their words came faster now; mine had to wait for air. I counted three of my own beats with two fingers at my throat.
+
+"No," I said. "Not while you're reaching for every pulse in the building."
+
+"I am not practicing on you."
+
+"You weren't. I overmarked the pattern."
+
+"That distinction does not improve your circulation."
+
+"It improves the next setting."
+
+Kerin stared at me. Their hand shook once, then disappeared beneath the other arm.
+
+I turned the variance down and widened the gap after paired taps. "No finger this time. The ridge only. Tell me when it separates."
+
+"You can't order me to keep going after that."
+
+"I'm not ordering. I'm asking you to choose with the band open and the lock dead. If you want it off, I'll close the safe bypass and remove it. If you want it to work, sit down."
+
+The rain ticked against the window. The independent core gave two taps and waited.
+
+Kerin sat.
+
+* * *
+
+The one-stop test was Kerin's idea.
+
+"The room is too quiet," they said after three clean sequences. "It needs acceleration, brakes, people."
+
+"People are the problem."
+
+"People are where I have to wear it. Last tram, fewer of them."
+
+We left the cartons. Kerin carried the kettle anyway, tucked under one arm, and I carried the tools. The buns stayed on the bench with one torn in half.
+
+At the platform, my patrol pickup flashed on my tablet: four missed messages, then ROUTE DEPARTED. Mother had removed my access to the family channel. My public dispatch still worked. For the moment.
+
+Kerin read the first line upside down. "You could catch them at the next junction."
+
+"The tram's here."
+
+"That's not an answer."
+
+"It is for the next four minutes."
+
+We boarded through the rear door. Six passengers occupied the carriage: a courier asleep against the window, two cooks comparing cracked phone screens, a child leaning into an adult's coat, and a man whose knee bounced in time with the rail joints. Too many bodies. Too many signals for Kerin's attention to snag on.
+
+They stood by the door instead of taking a seat.
+
+"Ridge?" I asked.
+
+"There."
+
+"Strength?"
+
+"Low but separate."
+
+The tram pulled away. Its motor climbed through a clean electric cycle that invited my own attention. I let it pass. Beside me, Kerin's fingers rested on the band.
+
+The carriage jolted over a switch. The child hiccupped. The man's knee stopped. The courier woke with a snort.
+
+Kerin drew one breath.
+
+My hand tightened around the tool bag, but my heart continued. So did the child's hiccup, the knee, the motor. The narrow ridge beneath Kerin's fingers held silent for the length of their breath.
+
+They exhaled. The pattern resumed.
+
+At the next stop, the doors folded open onto rain. My route home lay across the platform. Kerin's bus station was three stops farther on.
+
+"It held," I said.
+
+"Barely."
+
+"Barely counts on a first test."
+
+Kerin looked at the open doors, then at the route map. Their thumb waited through two irregular taps without following anything else.
+
+"Two more stops," they said. "Then I decide about the bus."
+
+The doors closed before I could answer. Kerin kept hold of the kettle. I kept hold of the tools, and the tram carried us on.
