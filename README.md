@@ -51,7 +51,7 @@ a separate explicit user decision.
 - `.agents/skills/story-analysis/`, `story-sense/`, and `sensitivity-check/` —
   pinned upstream review references used within the repository review contract.
 - `skills-lock.json` — upstream skill sources and content hashes for restoration
-  and updates; `.agents/skills/THIRD_PARTY_NOTICES.md` records attribution.
+  and updates.
 - `.codex/agents/` — the narrow outliner, writer, reviewer, and title-image roles.
 - `stories/_template/` — the four-file scaffold.
 - `universe/` — authoritative shared-universe facts and style constraints.
