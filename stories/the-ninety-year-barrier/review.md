@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Witch of the Dark Forest | new | Prompt-supplied epithet for the unnamed barrier-caster; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Witch of the Dark Forest | new | Unnamed barrier caster and keeper, also called the Witch; no exact, alias, close-spelling, or confusing prior reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Dark Forest | new | Prompt-supplied forest name; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Dark Forest | new | Local forest outside the protected village; no exact, alias, close-spelling, or confusing prior reuse found. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The unnamed child, gran, dragon, and village add no proper-noun inventory rows; the three-week propagation, morning cut, shifted outside anchor, inside-root repair, magic cost, dragon strike, and guardian-conditioned departure remain causally consistent and story-local, with the living witch supplying and directing the ward's magic.
+- Notes: The story resolves how an ordinary village youngster breached the ninety-year, dragon-resistant barrier and makes the Witch's feast-like attention curiosity rather than anger or predation. The living Witch supplies and directs all magic while nonliving tools only store, shape, transmit, or physically alter it. The youngster's basketry motion, spreading slack, failed first repair, retensioning, and two-direction test form a coherent causal sequence. The Witch's clipped load-and-condition language remains distinct from the youngster's nervous excess detail and tactile repair commands; pressure disrupts their coordination, and the final exchange leaves the relationship open through ordinary work rather than explaining its meaning.

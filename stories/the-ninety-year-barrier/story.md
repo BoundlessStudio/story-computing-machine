@@ -8,378 +8,448 @@ canon: false
 
 # The Ninety-Year Barrier
 
-The Witch of the Dark Forest waits until you have stopped coughing leaves before she speaks.
+The Witch of the Dark Forest laid your reed hook on the workbench between you.
 
-“It took me over ninety years to cast this barrier. Ninety-three, if accuracy interests you. It was strong enough to withstand a dragon. Would you kindly inform me how a village youngin managed to break it?” She leans closer. “Before you start screaming, I’m not mad at you.”
+It was a poor little thing to have caused so much trouble. You had cut it from an old spoon handle, sharpened the bend against a doorstep, and wrapped the grip in waxed thread because blisters slowed basket work. A burr of black light clung to its point. Every few breaths, the pull from the western wall drew it long.
 
-The words are courtly. The voice beneath them sounds rusted from disuse.
+The Witch watched it stretch. Then she looked at you.
 
-No one who is not mad should look at a child the way a starving man looks at a feast.
+The stories had been right about her eyes. They were not red, or bottomless, or aflame. They were brown and terribly attentive. A starving traveler might look at a laid table that way. So might your uncle when he found an unpicked length of perfect willow by the river and had already decided what it could become.
 
-You scream.
+Neither comparison stopped your knees from shaking.
 
-She remains crouched at your feet and lets you finish. Her dress is the brown of old bark, though moss greens the hem and burrs have climbed nearly to her elbows. Black hair, roped with gray, hangs on either side of a narrow face. Nothing about her moves except her eyes. They travel from the pruning knife beside your hand to the blackberry cane caught under your arm, then back to your face and stop.
+“Ninety years,” she said. “That is how long the barrier took me to cast. A dragon struck it once and went away with a split scale.” She tapped one black fingernail beside your hook. “You opened a hole wide enough to walk through.”
 
-You scramble upright. Your back meets a cold, fraying edge.
+You tried to swallow. Nothing happened.
 
-The Dark Forest is behind the witch: close trunks, green shade, and the sour-sweet smell of crushed bramble. The village side is behind you, visible through a human-wide tear in the air. Blackberries have spilled from your overturned basket into the sunny grass. Your uncorked water flask lies beside them, darkening the soil. A young blackberry plant remains pegged into the bank, its cane passing through the tear and curling around your boot.
+“Before the screaming begins,” she added, “I am not angry with you.”
 
-Between forest and field, the barrier rises as a faint vertical shimmer. At the tear, thin films of light peel loose one behind another. The nearest is clear as pond ice. Deeper layers have the dim gold of old varnish. Every one runs down toward the cut blackberry cane.
+This did not help. She looked hungry enough to bite the answer out of your head.
 
-You reach for the opening.
+The room offered no easier thing to look at. Blackthorn stakes leaned in bundles against the walls, their bark silvered with age. Skeins of cord hung from roof beams. Dried mushrooms, onions, nettles, and things you could not name filled the rafters with a bitter green smell. The Witch had set your gathering basket beside the stove. Its bent rim accused you almost as efficiently as she did.
 
-Roots push up through the leaf mould. They weave across it without touching you, thick as your wrist and high as your knee.
-
-“You said you weren’t mad.”
-
-“I am not. Anger would be a luxury.” Her gaze flicks to the sky. “If you leave before I understand this, I may repair the wrong thing. Then the dragon comes through your hole and discovers your village beyond it.”
-
-“Move those roots.”
-
-“I require—”
-
-“You said you wouldn’t hurt me. Move them.”
-
-The witch studies you. Then two fingers twitch at her side, and the roots sink. Soil closes over them. A few dead leaves settle where the roots had been.
-
-That is the first useful thing she does.
-
-A slow beat passes through the canopy. It is too broad for thunder. The treetops bow, recover, and bow again.
-
-The witch rises. Across the intact shimmer, farther along the boundary, four black furrows score an oak from crown to roots. The stones below it have run together like candle wax.
-
-“That was the dragon?” you ask.
-
-“Claws there. Breath on the stones. It tests this stretch whenever it wakes hungry enough.” She kneels by the cut end of the parent bramble, two paces inside the forest. Clear sap beads on the green wound. “The break rang all the way around my work. The dragon heard.”
-
-“Then mend it.”
-
-“Tell me what you did.”
-
-“I cut a cane.”
-
-“That is the last thing you did. I need the first.”
-
-You do not answer quickly enough. Her hand shoots toward the pruning knife, stops above it, and closes on empty air.
-
-“May I examine this?” she asks, each word clipped flat.
-
-You pick up the knife yourself. It is a small folding blade with a hazel handle, sticky now with blackberry juice. “You may look.”
-
-The witch bends until her nose is a handspan from it. “No marks except a maker’s notch. No silver. No blood.”
-
-“There is blood. I nicked my thumb.”
-
-“Before or after the barrier opened?”
-
-You check the shallow scratch. “After. I landed on the knife.”
+“I didn’t mean to,” you said.
 
 “Good.”
 
-“It does not feel good.”
+“I was only cutting willow. The rain made the bank slippery, and my aunt said she needed six bundles by supper. Seven if the thin shoots were any good, because the cooper’s wife changed her order this morning, though that wasn’t my fault either, and—”
 
-“It removes blood from the cause.” Her eyes lift. “Spell?”
+The burr on the hook stretched toward the wall again. This time it made a sound like a wet finger drawn around the lip of a cup.
 
-“I don’t know any.”
+The Witch turned her head.
 
-“An ancestor who did? A charm tied under your shirt? A promise made to something you could not see?”
+“Was that bad?” you asked.
 
-“My gran promised me a week in the bean rows if I left the blade wet. Does that count?”
+“Yes.”
 
-For the first time, the witch blinks. “No.”
+She picked up the hook. The dark glimmer ran onto her fingertips, not into the iron rings on her hand or the bracelet of woven bark at her wrist. Her fingers tightened. The glimmer shortened.
 
-Another wingbeat rolls over the forest. A berry drops somewhere in the thicket with a soft pat.
+“Show me how you held it.”
 
-“Put the wonders away,” you say. “It was the runner.”
+You put your hand around empty air.
 
-The witch’s attention snaps to the cane between you.
+“Which hand?”
 
-Three weeks ago, the runner had been alive from end to end. It sprang from the old bramble inside the Dark Forest, slid low through the green shimmer, and reached toward the open bank. You had found the tip waving beyond the barrier while you searched for the berries everyone in the village was forbidden to pick.
+You changed hands.
 
-“It had already crossed?” she asks.
+“Were you facing the forest or the village?”
 
-“Only this much.” You hold your hands a forearm apart. “I bent the rest over.”
+“The village.”
 
-“Across the ward.”
+“Your basket was on your village side?”
 
-“Across the light. My gran calls it layering.”
+“Yes.”
 
-“Describe your layering.”
+“Then the hook entered from the forest side.”
 
-You take the forked hazel peg from your pocket. She reaches for it, catches herself, and leaves her palm open. You set it there.
+“Yes.”
 
-Using the loose cane and the dirt between you, you show her. You bowed the living runner outward without cracking its green skin. On the village side you scooped a hollow under one joint, where a leaf stem met the cane. You pressed that joint into the damp earth, drove the fork over it, and left the leafy end above ground.
+Her gaze sharpened. That was the answer she wanted. You gave it quickly, pleased to have found one.
 
-The witch puts the peg in the wrong place, close to the tip.
+“And you pulled toward yourself.”
 
-“No. There.” You move it back to the buried joint. “A bare end rots. The leaves have to keep feeding it.”
+“Yes.”
 
-“And then?”
+“Hard.”
 
-“Water.”
+“Very hard.”
 
-“Once?”
+The Witch put the hook down.
 
-“Every evening it didn’t rain.”
+“All three answers cannot be true.”
 
-Her mouth tightens, impatient with an answer that has taken three weeks. “Nothing flashed when you bent it through?”
+The pleasure went out of you. “They felt true.”
 
-“The light clung to it. Like a cobweb. It made my knuckles cold.”
+“Feeling is useful. Agreeing is not.” She crossed to the western wall and pressed her palm against a blackthorn slat. The slat did nothing by itself. A pulse moved from the heel of her hand into the wood, and lines appeared across the plaster: hundreds of dark, fine strands crossing at angles too dense to follow. Near the floor, one line hung slack. Then another loosened beside it.
 
-“But did it resist?”
+“It is shedding tension,” she said.
 
-“Not the cane.”
+You backed into the stool. It scraped loudly.
 
-She lays one palm beside the intact barrier. Green-white lines rise from the soil and branch under her skin. When her pulse beats, the shimmer brightens. “And this morning?”
+“Will it fall?”
 
-“I tested the new roots.”
+“Not all at once. The opening will widen. Every pulse draws looseness toward the crossing you reversed.”
 
-“How?”
+“I didn’t reverse anything.”
+
+Her eyes found you again. “Then I have discovered a second problem.”
+
+She crouched before a chest and began taking out pegs, string, and a split basket rim. She moved fast. Not angry, perhaps, but a person could be killed by someone in a hurry as easily as by someone in a temper.
+
+You thought of the route home: out the crooked green door, around the rain barrel, down the steep path, across two fields. You thought of your aunt waiting over lentil stew, counting both bundles and minutes. You thought of the barrier around the village, which everyone touched for luck before travel and blamed for making their hair stand up in dry weather. There had always been a barrier. Old people remembered watching its last stakes driven, but even they had been children then.
+
+The Witch hammered six pegs into the workbench with the handle of her knife.
+
+“Come here.”
+
+You did.
+
+She threaded cord among the pegs, turning it back through itself. “Outside force enters here. It divides. Each crossing takes a share, and the ring draws tight.”
+
+“Like a waling row,” you said before you could stop yourself.
+
+“A what?”
+
+“The row that holds the uprights apart.”
+
+“Not exactly.”
+
+She pulled one end. The whole web cinched. You saw what she meant, and also where she was wrong.
+
+“A little like one,” you muttered.
+
+“You struck from outside. The force spread. The barrier tightened around your hook, so you levered sideways until a strand tore.”
+
+It sounded reasonable. More importantly, it sounded finished.
+
+“Yes,” you said.
+
+She looked down at the model, already reaching for another cord.
+
+Your fingers twitched.
+
+One crossing lay backward. Not wrong for what she wanted, perhaps, but wrong in a way your hands could not ignore. You had spent three years learning not to see that sort of thing, because seeing meant fixing, and fixing meant the person who had made it knew you had noticed.
+
+The Witch made a second loop.
+
+“No.” Your hand moved between hers. “That one goes under first.”
+
+She went still.
+
+You tucked the cord beneath its neighbor, lifted the crossed part on your thumb, and drew the loose end through. Tension shifted across the little web. The split rim pulled nearly round.
+
+“Why?” she asked.
+
+“Because otherwise the strain sits on the break.”
+
+“It did not before.”
+
+“It would when you pulled that side.”
+
+She pulled. The rim bent exactly where you had indicated.
+
+The Witch’s attention became worse. She leaned so near that a lock of her hair dragged across the pegs. It was not the gray you had expected. It was white, but white like the underside of a leaf in strong sun, with green shadows where strands crossed.
+
+“Do it again.”
+
+“I only moved a string.”
+
+“Again.”
+
+You undid the crossing. Her fingers hovered beside yours, too eager to wait and too disciplined to interfere.
+
+“First the lift,” you said. “Only enough for the end. Then you turn back against the lay.”
+
+“Against the load.”
+
+“If you like. Then under this one.”
+
+“That feeds slack across the center.”
+
+“It stops the broken rim pulling open.”
+
+You were both speaking about the same cord. It did not yet feel as though you were speaking about the same thing.
+
+Another dark strand appeared on the wall. It drooped below the first.
+
+The Witch swept the model into her apron pocket. “We need the place.”
+
+“Now?”
+
+“It has not improved while we talked.”
+
+She gave you your gathering basket but kept the hook. At the door she pushed her feet into mud-caked boots. One lace had knotted itself. She bent, picked at it, and swore with plain village precision.
+
+You stared.
+
+“What?”
+
+“Nothing.”
+
+“Then put on your coat.”
+
+That was the first thing she said which made you less afraid.
+
+Outside, late rain ticked through the Dark Forest. The Witch’s house stood among trees so tall that their trunks disappeared into moss before your gaze reached the roots. There were no skulls on the fence. There was, however, a row of clay pots containing teeth, which was not much better.
+
+The path pitched down through wet fern. You tried to hurry. The Witch caught the back of your coat before you put a foot on a shining root.
+
+“Not there.”
+
+“I saw it.”
+
+“You stepped on it.”
+
+“I was stepping over.”
+
+She released you. “Do that, then.”
+
+For several minutes, the only talk was useful.
+
+“Low branch.”
+
+“I know.”
+
+“Left at the fork.”
+
+“That’s not the way I came.”
+
+“The way you came now contains a hole.”
+
+At the foot of the slope, the forest thinned. Between the last oaks stood a double line of blackthorn stakes. They were taller than you and sunk so deep that ninety winters had not tilted them. Nothing shimmered between them. The village lay beyond—brown roofs, pale chimney smoke, the upper arm of the grain mill moving in the rain. Home looked close enough to reach before your aunt put the stew aside in disgust.
+
+The Witch stopped at what seemed to be an ordinary gap.
+
+“Wait.”
+
+She placed both palms against the two nearest stakes. Her breath left her in a long, controlled stream. Warmth pressed against your face. It had no light, but the fine hairs along your arms rose as her living force moved into the wood and along what the wood held. The air in the gap folded inward, strand after unseen strand drawing aside.
+
+Only when the Witch stepped through did you understand that she had opened it. The barrier had neither recognized her nor obeyed her. She had done the recognizing and the opening.
+
+“Come.”
+
+You hurried after her. Halfway through, something brushed the back of your neck like taut silk.
+
+“Did you feel that?” she asked.
+
+“Yes.”
+
+“From which direction?”
+
+You nearly said whichever direction she expected. Then you looked at her hands. Her palms were still on the stakes. A tremor ran in the left thumb.
+
+“Behind me. High to low.”
+
+She nodded once and released the passage. The pressure closed.
+
+The tear was forty paces north, hidden behind a stand of willow. It did not look person-wide until the rain struck it. Drops vanished across a tall shape as broad as your shoulders, then burst into white sparks at its edges. One of your cut bundles lay inside, reeds scattered where you had dropped them.
+
+The Witch stopped so abruptly that you almost walked into her.
+
+“Show me where you stood.”
+
+You pointed.
+
+“Stand there.”
+
+You did. The mud remembered your heels as two water-filled dents. Your basket had been wedged against a willow trunk. You put it there again. The bent rim caught in the same fork of bark.
+
+“And the bundle?”
+
+You gathered enough reeds to match the size, though not the exact stems. With the weight against your hip, the afternoon returned in pieces: rain running into your sleeve, the bite of the basket rim against your back, one green shoot refusing to come free.
+
+“The hook snagged,” you said.
+
+“In the barrier.”
+
+“I didn’t know that. It felt like fishing line.”
+
+“There is no line.”
+
+“It felt like one.”
+
+The Witch opened her mouth, then shut it.
+
+“Continue.”
+
+You braced the bundle against your thigh. “I thought a reed had caught. If you pull a snag straight, it scores the skin and the reed splits when it dries.”
+
+“So you did not pull straight.”
+
+Your wrist remembered before the rest of you did. You raised the empty hand, rolled it outward, and turned the imagined hook back beneath the pressure.
+
+The Witch’s face changed. Not softened. If anything, the hunger sharpened. But now you could see what it followed: not your throat, not your fear. Your wrist.
+
+“Again,” she said.
+
+You repeated the motion more slowly. “Lift. Turn back. Tuck under the strand beside it. Then ease the reed through.”
+
+“You found the inner release.”
+
+“I found something in my way.”
+
+“From outside.” She went to the tear and held her fingers near its sparking edge without touching. “A dragon can strike this barrier until its skull rings. Force from that direction only binds it tighter. But from inside, there must be a way to open a crossing without my presence. Fire. Flood. My death.” She said the last condition as flatly as rain. “Slow lift, reverse turn, neighboring strand. I buried the sequence so chance would not complete it.”
+
+“Chance had a hook.”
+
+Her mouth moved. You could not tell if it was almost a smile or a new calculation.
+
+“Yes,” she said. “That is the difficulty.”
+
+At the tear, the air made your teeth ache. The Witch pushed her sleeve above one elbow and held out the hook, handle first.
+
+“You may direct me from back there,” she said. “Or you may show me with your hands. I will not require either after today.”
+
+You looked at the village roofs. You could walk away. She had said it plainly, and the hook was within reach.
+
+Then the tear gave its cup-rim whine. One white edge crept upward by the length of a finger.
+
+“Hands,” you said. “But you stand on that side. If you lean over me, I’ll lose it.”
+
+The Witch moved at once.
+
+“And don’t pull when I lift.”
+
+Her fingers flexed. “I need to hold the load.”
+
+“Hold it. Don’t help.”
+
+That cost her something. You saw it in the set of her jaw.
+
+You took the hook. The burr of black light snapped toward the tear. At once, the remembered resistance ran from the wrapped handle into your palm. It was not like willow. It was smoother and much stronger, but strength had shape. This pressure crossed that pressure. The loose strand hid under both.
+
+“Here?” the Witch asked.
+
+“Lower.”
+
+She shifted the force she supplied. The white edge of the tear trembled.
+
+“Now?”
+
+“Wait.”
+
+You set the hook, lifted, and felt a narrow give.
+
+The Witch drew breath. Power rushed past your knuckles.
+
+The crossing cinched shut on the hook.
+
+Pain shot through your wrist. You let go. The hook stayed trapped, humming.
+
+“I said wait!”
+
+The Witch’s hands opened. The warmth vanished at once. No excuse, no muttered claim that she had misunderstood. She backed two full steps away from the tear.
+
+“Can you move your fingers?”
+
+You could. You did, angrily.
+
+“Again?” she asked.
 
 “Not like that.”
 
-The witch has seized the loose cane and is hauling it upward. You slap her hand away before fear can stop you.
+“No.” Her breath came shorter now. “Tell me where to put my hands.”
 
-She goes perfectly still.
+You pointed: left palm low on the near stake, right hand open toward the damaged crossing. “When I say hold, hold exactly. When I say ease, follow my hand. Don’t decide what I mean early.”
 
-“You tug low,” you say. “Gently. If the earth lifts, the roots haven’t spread. My gran says impatience tears out the answer.”
+The Witch took her position.
 
-The witch releases the cane. “Show me.”
+This time, when you lifted, she did not move. You turned the hook against the lay. The resistance climbed until your wrist began to shake.
 
-You lie on your stomach and reach through the torn place. The barrier’s loose edges fizz cold along your sleeve. Outside, the new plant has been bent by your fall, but its roots still grip the bank. You press the soil down, take the stem close to the buried joint, and pull just enough to feel the earth hold.
+“Hold.”
 
-“It did that this morning,” you say. “So I knew it could live without the old crown.”
+She held.
 
-“You cut between them.”
+“Lower. A hair.”
 
-“Close to the old plant. I wanted to keep the long cane on the new one.” You point to the parent bramble, then the knife. “The shimmer was firm against my shoulder. I leaned through, cut once, and it vanished under me. Something caught the cane and dragged. I came after it.”
+“Whose hair?”
 
-The witch looks from the rooted shoot outside to the bleeding stump within. She asks you to repeat where your shoulder was, where the blade was, which part moved first. When you say the light pulled toward the village before the seam opened inward, she makes you show the direction with the knife laid flat on your palm.
+“Mine.”
 
-Only then does she touch the barrier.
+The pressure eased by the smallest amount. You tucked the loosened strand beneath its neighbor. Something traveled around the barrier—a deep, receding thrum, stake answering stake all the way around the village.
 
-Her fingers spread against empty air. Light steps backward from her hand in separate translucent sheets—nine, twenty, far more than you can follow. The oldest layers are faint and yellow. The youngest shine green. Ninety-three thin curves stand revealed through the trees, each broken at the same blackberry crossing.
+The Witch made a startled sound.
 
-The witch catches one loose edge between finger and thumb. Her wrist trembles as the whole curve tightens around the forest.
+“Was that bad?” you asked.
 
-“My first circuit followed the living roots at the boundary,” she says. “Not every root. The connected line I chose: oak into fungus, fungus into thorn, thorn into this bramble. I supplied the pattern. The roots carried it. The next year I laid another circuit over the first.”
+“No.” For once she sounded unsure. “Do not stop.”
 
-She takes a newer edge. It pulls the older one taut.
+You worked the pattern as you would work a damaged rim: not hiding the weakness, not yanking it straight, but leading strain around it until the shape could bear weight again. The Witch fed warmth through the stakes when you asked and kept it still when you did not. Sweat stood on her forehead despite the rain. The barrier did nothing on its own. In your hands it was tension; in hers, force; between you, for a little while, it became work that could be finished.
 
-“And another,” you say.
+At last the white edges drew together. Rain struck ordinary air and fell to the mud.
 
-“Each year. When this dragon drives force inward, the rings draw together and spread that force around the line. Every strike, claw or flame, has only pulled my knots tighter.”
+The Witch sat down hard on a root.
 
-“But you let the bramble grow through.”
+You stared at the place where the tear had been. “Is that all?”
 
-“I left growth in the pattern. Without that, one dead tree would have split the barrier decades ago.” She takes the cane from the soil and bends it into the shape you made: forest, crossing, buried joint outside. “While this remained one living runner, the current I had tied to the inner roots continued along it.”
+“No.”
 
-“So the barrier thought this was inside?”
+Your stomach dropped.
 
-“It thought nothing. The pattern continued wherever the living connection continued.”
+“Now we find out whether we repaired it or made a prettier hole.”
 
-You tap the outside joint. “Then this grew roots.”
+She rested until the tremor left her thumb. Then she led you back to the deliberate passage, opened it, and sent you through to the village side.
 
-“A second ground hold. Still joined to the first.”
+“If I press from out here,” she said, “the crossings should draw tight. Do nothing unless you see light.”
 
-“Until I cut.”
+“And if I see light?”
 
-The witch sets the clipped tip against the parent stump, restoring the old line, then parts the two with her thumbnail. The loose barrier edges twitch toward the outer plant.
+“Run sideways. Not backward.”
 
-You have watched your gran lose a loop from a stocking and chase it down three rows before it runs farther. “You dropped a stitch.”
+“You could have said that first.”
 
-“You shifted the living anchor,” the witch says. Then, quieter, “All ninety-three stitches passed through one cut.”
+“I have said it now.”
 
-Her eyes fasten on you again. You can see the next dozen questions arrive before she speaks.
+The passage closed between you. Through the clear rain, she became a dark figure among the thorns.
 
-You sit up. “Don’t.”
+She put one living hand against the outer span.
 
-“Don’t what?”
+The barrier struck inward with a sound too low for hearing. Your ribs felt it. Blackthorn stakes bent toward the village, then stopped. No white line appeared. The force divided, ran north and south, and returned as a shiver beneath your boots. The stakes straightened.
 
-“Look at me as if you mean to open me and see how I work.”
+Outside, the Witch lowered her hand.
 
-“I mean to see how this works.” She points to the torn ward, but her gaze has not left your face.
+“Again?” you called.
 
-The next wingbeat snaps dead limbs from the canopy.
+She considered. “No.”
 
-The witch turns away first.
+It was a very old person’s answer, and a tired one.
 
-“The outer roots must come out,” she says.
+Now came the harder test. From inside, you found the hidden crossing by touch alone. There was no visible cord, only pressure against your palm. Lift slowly. Turn against the lay. Find the neighboring strand. Your first attempt slipped. The second found nothing. On the third, the air folded aside in a narrow clean opening.
 
-You get between her and the tear. “No.”
+The Witch stood beyond it, rain shining on her white hair.
 
-“They hold the slipped current.”
+Her gaze fixed on your hand again. Hungry, yes. Frighteningly so. But she waited at the threshold until you stepped back.
 
-“Then take the current off them.”
+Then she came through.
 
-“That is not—” She stops. Looks at the parent bramble. Looks along the barrier instead of across it. Her lips move once without sound. “A new carrier. Both holds inside.”
+At the western tear, you had added one more crossing than before, a false path that took the first casual tug and returned it as resistance. A hook catching from outside would now tighten the decoy instead of feeding slack into the release. The true sequence still opened from within, but only if a hand completed all three movements in order.
 
-“You are still not pulling up my plant.”
+The Witch tested it with your hook. It held.
 
-“I heard you.”
+She wiped the handle on her apron and gave it back.
 
-“You heard me before and grabbed the cane.”
-
-The witch lowers her hands. “It stays rooted. You keep your fingers on its stem while I move the current. If its leaves fold, I stop.” Then she points along the inner edge. “Choose the runner.”
-
-You find one on the forest side, green and supple, long enough to lie along the boundary from one sound patch of shimmer to the other. It never crosses into the field. You scrape two shallow hollows just inside the barrier, one on each side of the torn seam, and settle a leaf joint into each. The witch returns your hazel peg, then snaps a second fork from a hazel switch.
-
-“Your knife,” she says. “May I use it?”
-
-You turn the handle toward her.
-
-She trims leaves from the buried joints under your direction. Her first cut is too deep.
-
-“You’re through the green skin,” you say.
-
-“I need the rooting flesh exposed.”
-
-“Not the white middle. Scratch until the green goes pale. Let the cane do the rest.”
-
-Heat flickers orange above the trees.
-
-The witch makes the second cut smaller.
-
-She folds the blade and sets it beside your knee.
-
-You peg both joints down. She sets her palms over the hollows, not on the plant. At her first breath, warmth runs through the earth. At her second, white root tips push from the scratched green skin and turn downward. Each beat under her wrists leaves her knuckles paler. The youngest barrier layers dim as the new roots brighten.
-
-The roots lengthen too quickly. Her fingertips blanch. Although dragon heat rides the wind, her breath begins to fog.
-
-“Stop,” you say.
-
-“They are not deep enough.”
-
-You test the first joint the way your gran taught you: fingers low, one careful pull. The soil holds. The second holds too.
-
-“They’re deep enough for the pegs to help.”
-
-This time she stops. She has to rock back on her heels before she can lift her hands.
-
-The torn layers are still drawn through the outside plant. The witch kneels opposite it, with the damaged boundary between you.
-
-“Put two fingers on its stem,” she says.
+“Should I come tomorrow?” you asked, hating yourself for asking and needing to know.
 
 “Why?”
 
-“Because you know how it felt before. I know only the current.”
+“To fix things. Or learn things. Whatever witches make people do after they break ninety years of work.”
 
-You reach through and cradle the cane above its buried joint. The new leaves are warm from the sun. The witch raises her hands toward the pale threads tangled below the soil, then waits.
+“Tomorrow you should sand that burr off before it ruins your thread.” She glanced toward your abandoned willow. “And collect the bundle you left in the rain.”
 
-“May I?”
+You waited.
 
-You nod.
+She had already turned to inspect the nearest stake.
 
-She draws the oldest thread away from the outer roots. Cold climbs the stem beneath your fingers. Another thread comes free, then six together. The plant’s top leaf folds.
+“That’s all?”
 
-“Stop.”
+“It is enough for one day.”
 
-Her hands drop at once.
+You retrieved your reeds. The Witch did not ask for your name, your promise, or your service. She asked you to hold the hook once while she checked the false crossing, then told you to move your thumb because it was in the way.
 
-You drag your spilled water flask within reach and pour what remains around the joint. The leaf eases open, not fully, but enough.
+When she opened the village passage, you took the basket through first. Its bent rim brushed the invisible strands. They yielded, held, and settled behind it.
 
-“Slower,” you say.
+Your aunt’s chimney smoked above the wet roofs. The stew would be thick by now, perhaps scorched at the bottom. You would have to explain the missing hour, the damaged rim, the mud to your knees. Those were ordinary dangers. You knew how to survive them.
 
-The witch draws one layer at a time. You tell her when the stem chills and when it warms again. Between them, root and current separate without root or cane being torn. At last the blackberry stands outside as an ordinary young plant, muddy, clipped, and alive.
+Behind you, the Witch drew the barrier closed. The pressure lifted from the back of your neck.
 
-You feed its long cane outward through the tear, hand over hand, until the cut tip drops beside its leaves. No cane crosses the light now.
-
-The released layers lash inward. The witch takes their ends and loops them to the two newly rooted joints along the inner edge. Left-hand ends run to the left root. Right-hand ends run to the right. Instead of joining them into one hidden seam, she overlaps them across the narrow space between, layer over layer, like two rows of shingles meeting against rain.
-
-“A gate,” you say.
-
-“A place I can open without cutting anything.”
-
-The light between the two rooted points thickens. Beyond it, your basket rolls across the grass in the rising wind.
-
-The dragon drops below the clouds.
-
-You see it only in parts between whipping branches: a copper underside, a hooked black wing, foreclaws tucked against a chest bright with old scales. It banks toward the torn shimmer. Air pounds down hard enough to flatten the brambles.
-
-Thirty layers still stream loose from the witch’s hands.
-
-“Go through,” she says. “Now.”
-
-“Can you finish alone?”
-
-“That is no longer your risk.”
-
-A poor answer. The loose layers point straight toward the village.
-
-You drop beside the left hazel fork and press its shoulders into the soil with both thumbs. “Tell me which one.”
-
-The witch wastes no more words. She lays twelve old edges along the inside runner while you keep them from crossing. She takes ten younger ones and passes them over the first set. Each springs toward the outer plant until you press it against the new path, after which it tightens between the two inside roots.
-
-The dragon opens its jaws.
-
-White fire strikes the intact barrier to your right. The shimmer caves inward. Light races away through the trees in both directions and vanishes around the forest. Where it reaches the unfinished seam, the loose layers crack like sails.
-
-The new runner jerks beneath your hands. One arm of the fork lifts halfway from the ground.
-
-You flatten your palm over it. The witch grabs for your wrist and stops short.
-
-“May I move your hand?”
-
-“Yes. Quickly.”
-
-Her fingers close over yours and turn your knuckles against the peg. Warmth drives through your palm into the living cane. It is her force, not yours; you are only the shortest route while her other hand catches the remaining layers. New roots bunch under the soil. The witch sways, colder with every pulse.
-
-“Enough roots,” you say. “The layers.”
-
-She changes what she is doing.
-
-Together you lay the last edges into the overlap. The motion feels nearer to banking canes before winter than to any village tale of casting: one held while the next crosses it, pressure shared so none has to bear the whole weight.
-
-The dragon’s fire cuts off. Its shadow wheels once.
-
-Then it strikes the repaired place with both foreclaws.
-
-The impact drives the air from your chest. The two overlapping sides snap tight instead of peeling apart. Force runs down to the new runner, lengthwise toward both inside roots, then flashes away around the ninety-three circuits. The oak with the old scars groans, but the new cane only bends against its pegs.
-
-The witch falls to one hand. The barrier holds.
-
-Outside, the young blackberry shakes in the blast. It remains rooted. No light catches in its leaves.
-
-The dragon scrapes once across the shimmer. Its claws find no loose edge. With a roar that rattles your teeth, it beats upward through the canopy and climbs toward the clouds.
-
-Silence returns by pieces: first the end of the fire, then the wingbeats, then the rain of broken twigs.
-
-You keep your weight on the peg until the witch taps the ground beside it.
-
-“You may let go,” she says.
-
-“Is that a guess?”
-
-She presses two fingers into the soil and tests the rooted joint with a low, gentle pull. “No.”
-
-You sit back.
-
-The witch takes several breaths before she can stand. Ninety-three layers make one cool green wall again, except between the two hazel pegs. There the left and right edges overlap in a pale vertical band.
-
-Her pulse glows first against the left root, then the right. The overlapped light folds aside. A clean opening appears, narrow enough for one person and free of snapping threads.
-
-The witch steps through first. On the sunny side she turns, backs away from the opening, and waits.
-
-You pick up your knife and crawl stiffly to your feet. Nothing rises to bar you. When you cross, the new blackberry is beside your boot, its leaves dusty but upright. The witch has not touched it.
-
-Your basket is wedged in the grass. Half the berries are lost and the rest look sat upon. The witch glances at the bramble heavy with fruit inside the barrier.
-
-“May I fill it?” she asks.
-
-You consider her face. The feast-look is still there, but pointed now at the broken geometry behind you rather than at your head.
-
-“You may fill the basket.”
-
-She does, moving through the open gate for each handful instead of reaching roots or canes across it. When she returns the basket, purple juice stains her palms.
-
-“Come back,” she says. The words leap out too quickly. She tightens her mouth and tries again. “Will you come back? Six other brambles touch the barrier. I want you to look at them before I do.”
-
-You settle the basket on your hip. “Ask again when gran is here.”
-
-For a moment the Witch of the Dark Forest looks as though ninety-three years would be easier than that walk from the village.
-
-Then she opens the gate wider and stands clear of it.
-
-“I will,” she says.
-
-You start home with your knife wiped on the grass and the surviving blackberry rooted exactly where you put it. When you look back, the witch is testing the new runner with two careful fingers, low against the soil, while the gate remains open beside her.
+You shifted the willow bundle against your hip, felt every reed take its share, and walked home.
