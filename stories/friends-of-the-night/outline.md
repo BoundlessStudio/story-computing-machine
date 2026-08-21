@@ -2,37 +2,49 @@
 
 ## Story
 
-- Premise: In first-person past tense, a newly appointed night warden rejects generations of trophy-taking and trap-setting, patiently earns the trust of the living hushbeasts that move through connected darkness, and discovers during an invasion that friendship can empty an army more decisively than hunting ever protected the land.
-- Character want and pressure: The warden wants the border villages and the hushbeasts to stop fearing one another, but livestock losses, inherited duty, and ridicule from the old hunters make coexistence look like negligence; once war arrives, the local council demands that the warden convert trust into command and send the creatures to kill.
-- Turn: After seeing that many enemy soldiers are pressed conscripts, the warden refuses to weaponize the hushbeasts and instead offers them a bounded choice: guide only willing deserters through the night, while the villages shelter whoever lays down a weapon. The creatures accept on their own terms.
-- Ending: At dawn, the invasion force has dwindled below fighting strength because its coerced ranks chose escape. The council cannot honestly claim a monstrous victory, and the warden leaves successors a new duty: keep faith with the creatures and keep a refuge open, because friendship is neither ownership nor obedience.
+- Premise and central promise: Tavik inherited Shalegate's dusk-keeper post from hunters, ended their drives, and earned the shadow beasts' wary company. When Drost's invading host lights the valley rim, the beasts feed on fire-stretched shadows and shrink soldiers with their armor. Tavik must let that friendship save his people without claiming command or enabling slaughter; withdrawal becomes the army's only route to restored stature.
+- Focal pressure or attachment: Tavik wants Shalegate and Crooktail's kind safe, but turns patient observation into assurances the beasts never made. He must stop defenders killing diminished soldiers and extinguish the lights that make the fort feel secure.
+- Counterforce or complication: Denek, Tavik's predecessor, remembers deaths from the hunts and trusts light; Torma needs to prevent assault and sees shrunken enemies as leverage; Drost values conquest but needs a survivable exit. Invader bonfires and nets threaten the dens, intensifying the effect. Each counterforce retains practical agency after challenge.
+- POV, distance, and information limit: Close first-person past through Tavik. He knows beast routes, feeding signs, and prior recoveries but cannot read thoughts, choose victims, or see across unlit ground. Keep observation distinct from the trust he wants Crooktail's behavior to signify.
+- Governing movement and time shape: A subtractive three-night siege moves from fort wall to den field, enemy camp, and border road. Daylight holds bounded negotiations; darkness removes physical scale, military certainty, and Tavik's illusion of control. Climax through a dangerous withdrawal, not battle or public conversion; stop during the first repair.
+- Speculative rule or ordinary-world constraint: A living shadow beast can bite a person's shadow when open flame stretches it. Each bite proportionally shrinks the person and worn or carried objects, without detecting guilt or allegiance. Daylight does not reverse it; outward crossing beyond the beasts' range does. Natural shadows and enclosed lamps offer little purchase, while bonfires offer much. Change is painless, but falls, cold, trampling, capture, and fire remain dangers. The beasts do not speak, compel, or obey.
+
+## Voice
+
+- Narrative texture: Tavik tests distance, flame angle, footprint, and altered scale, moving cautiously in darkness and briskly around visible consequences. Keep interpretation modest; let buttons, grass, ash, and hand spans carry scale without whimsy.
+- Conversational texture: Mix ordinary watch checks, interrupted instructions, and terse bargaining. Darkness delays answers and shifts attention to breath and footfall; daylight permits fuller disagreement without polishing everyone.
+- Rhetorical ownership: Tavik reasons from observed conditions; Denek from precedent, terrain, and bodily risk; Torma from defensible positions and immediate costs; Drost from headcounts, supply intervals, rank, and guarantees.
+- Pressure behavior: Tavik shortens explanations to limits; Denek repeats safety rules before listening through action; Torma becomes faster and conditional; Drost abandons ceremony for exact losses. Keep soldiers practical or single-purpose.
+- Anti-default: Avoid eloquent fantasy consensus, telepathic beast wisdom, miniature comedy, and a moral speech. Show friendship through tolerated nearness, learned routines, and uncertain cooperation; dialogue changes action without harmonizing beliefs.
 
 ## Beats
 
-1. In the border watch-house, the new warden takes office beneath preserved heads, iron traps, and kill tallies left by predecessors. A fresh livestock alarm offers an immediate chance to repeat their methods, but tracks show a trapped hushbeast dragged itself away while ordinary predators took the sheep.
-2. The warden removes the snares, carries the carcass beyond the grazing wall, and waits unarmed at dusk. The hushbeasts remain nearly shapeless inside joined shadows; one wounded creature approaches only after the warden backs away and leaves clean water and salve within reach.
-3. Over several concrete exchanges, trust becomes reciprocal rather than tame: the warden keeps shepherds from burning a den, the creatures stop crossing the grazing wall, and they return a lost child by passing her safely from shadow to shadow. The old hunters call this luck and warn that mercy will invite attack.
-4. War reaches the border as refugees report an invading force built largely from levied farmers and conquered villagers. Enemy outriders burn hedges and raise lantern lines to deny the hushbeasts darkness, while the local council orders the warden to lure the creatures into camp and let hunger do the killing.
-5. The warden refuses, costing them the council's confidence and control of the watch-house stores. During a night reconnaissance, they see officers beating exhausted conscripts back into formation and realize the enemy's numbers are held together by fear rather than loyalty.
-6. At the old den, the warden makes a limited request using the same patient gestures that built their friendship: open hidden ways for anyone who willingly drops a weapon, harm no captive, and withdraw if the risk is too great. The hushbeasts vanish without an answer, leaving the warden unsure whether trust has failed.
-7. On the first night, the creatures tip isolated lanterns into wet earth and lead a handful of unarmed conscripts through linked patches of darkness. The warden and villagers receive them with food, plain clothes, and a choice between refuge and a road home, proving that surrender is not another form of captivity.
-8. Each escapee tells the remaining ranks where to stand and what to do. The invading commander responds with bonfires, collective punishment, and a baited cage holding a young hushbeast, which forces the warden to enter the camp rather than ask the creatures to solve the danger alone.
-9. In the climax, the warden reaches the cage and calls on the conscripts, not the pack: if they want the hidden road, they must cover the lanterns themselves and release the captive. Hundreds choose at once; the darkness joins, the freed creature signals the others, and the hushbeasts carry willing people outward while leaving officers and committed soldiers untouched.
-10. Dawn exposes a camp of abandoned armor, cold cookfires, and too few remaining fighters to assault the border. After the invaders retreat, the council tries to praise the warden for commanding a secret weapon; the warden corrects the record, dismantles the trophy wall, and writes the first rule of the new watch: a friend may answer, refuse, or leave.
+1. At sunset, Tavik visits Crooktail's feeding hollow as Drost's host enters Shalegate. Torma orders beacons; Denek supports her. Tavik explains the risk without claiming certainty, but the fort keeps its lights.
+2. Enemy pickets and one wall sentry cast shadows across a beast run and shrink. Tavik prevents the captives' killing and escorts the sentry outward, confirming restored stature. Torma learns the exit works, not that Tavik controls it.
+3. In daylight parley, Tavik offers Drost an unlit withdrawal corridor. Drost instead orders broader bonfires and nets. Denek reveals that beacon nights drew feeding beasts toward homes, origin of the old hunts, yet still considers killing safer.
+4. On the second night, long shadows reach several dens, soldiers shrink unevenly, and Crooktail is netted beside fire. Tavik asks Torma to extinguish the fort, creating connected dark for escape. She agrees while Denek guides Tavik through hunting paths.
+5. Tavik and Denek cut Crooktail free inside the disordered camp, repurposing Denek's expertise without converting him. A partly diminished Drost confronts them privately. Tavik can offer only the boundary rule, a marked road, and Torma's restraint.
+6. Torma requires abandoned siege engines, extinguished fires, and immediate departure. Drost releases Crooktail and accepts before another feeding interval makes transport impossible. This is pressured military exit, not forgiveness or alliance.
+7. The host withdraws through near-total darkness, guided by rope, footfall, and sparse shielded lamps. Drost's discipline and Torma's restraint both matter. At the outer ridge, soldiers regain size unevenly and continue beyond bow range.
+8. Dawn reveals burned dens and one missing beast. Torma returns to defense work; Denek clears collapsed earth without claiming friendship. Tavik reopens the feeding hollow while Crooktail watches beyond reach. Stop with repair and altered, voluntary nearness.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No story-facing person or person-like proper noun is proposed; the warden, councilors, hunters, commander, conscripts, villagers, and hushbeasts remain unnamed. |
+| Tavik | new | Dusk-keeper and focal; no conflicting prior form found. |
+| Denek | new | Predecessor and former beast hunter; no conflicting prior form found. |
+| Torma | new | Shalegate's defense captain; no conflicting prior form found. |
+| Drost | new | Invading marshal; no conflicting prior form found. |
+| Crooktail | new | Shadow beast anchoring Tavik's friendship; no conflicting prior form found. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun is proposed; the land, border villages, watch-house, grazing wall, enemy camp, and old den remain generic. |
+| Shalegate | new | Fortified border valley and beast range; no conflicting prior form found. |
 
 ## Continuity
 
-- Canon used: This is a new, otherwise unplaced era within the same deep-time physical world. The hushbeasts are living agents using one bounded local form of magic; their choices and the ethical consequences of human consent remain real without making consent a universal magical fuel.
-- Boundaries and unknowns: The hushbeasts, their ability to shelter and move willing living bodies through contiguous darkness, and the local warden custom are new local elements. Bright or broken light interrupts their paths; they cannot compel, transport, or conceal an unwilling person; and trust does not grant the warden control. Establish no shared origin, taxonomy, mechanism, identity, chronology, or geography with any existing beast affinity, command bond, magical creature, dragon alliance, invasion, character, faction, or location. The war's date, wider powers, and final political settlement remain unspecified. The prompt governs the story; these beats are advisory drafting guidance.
+- Canon used: One physical world permits distinct local systems; only living agents use magic. The beasts supply the effect, while flame, nets, roads, and fortifications are conditions or tools. Violence stays non-graphic and consequence-led.
+- Boundaries and unknowns: Era and region remain unplaced. Shadow-feeding, shrinking, and recovery range are local and unrelated to Phoebe Bellweather's beast affinity, Garran's command-bonds, or the stormhart. Friendship grants familiarity, not communication, moral detection, immunity, or control; the beasts' origin, population, intelligence, and future remain unresolved.
