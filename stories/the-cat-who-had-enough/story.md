@@ -1,267 +1,237 @@
 ---
-title: "The Cat Who Had Enough"
+title: "Nine Lives of Excuses"
 slug: "the-cat-who-had-enough"
 created: 2026-08-11
 created-at: 2026-08-11T19:54:31-04:00
 canon: false
 ---
 
-# The Cat Who Had Enough
+# Nine Lives of Excuses
 
-Tallow came to me through Aunt Beryl's will, although not in the way the phrase inherited a cat suggests.
+At 8:13 on Tuesday morning, Mizzle was sitting on the signature page of my personal guarantee.
 
-I received a blue ceramic dish, a modest account marked FOR TALLOW'S EXPENSES, and two typed notes. The first said that Tallow was a living companion, not an item, and that I should ask whether he wanted to stay with me. The second explained his one unusual faculty. If I complained directly to him, he could choose to answer in human speech about that complaint. He could keep answering while the grievance remained the subject. Anything else came out as a rusty meow.
+This was not sabotage. Mizzle sat on anything that was both rectangular and important, a preference that had survived all ten months since I inherited her. The guarantee had only become important at midnight, when I moved it from beneath a cookbook to the kitchen table. Before that it had been paperwork, which was a different category entirely.
 
-At thirty-two, I considered myself capable of making a cat feel welcome without written guidance. Tallow considered my apartment for one slow circuit, sniffed the food I offered, and went to sleep on my cleanest chair. He stayed.
+I drank my coffee and discovered it was cold.
 
-His first advice arrived before I had put Beryl's notes away.
+"Mizzle, this is disgusting."
 
-I had locked the door, put down three bags, and discovered that my keys were no longer in either hand. After searching the bags twice, I addressed the broad charcoal cat washing a white paw beside the skirting board.
+She opened one green eye. "You poured today's coffee onto yesterday's and then forgot it beside the sink. Make fresh coffee."
 
-“Tallow, this apartment hides my keys the moment I come inside.”
+Her eye closed.
 
-His paw stopped beside his ear. “Drop them in Beryl's blue dish every time you enter.”
+That was how her advice worked. A sincere complaint, spoken directly to her, bought one reply. It could be six words or six minutes; the length belonged to Mizzle. Questions got silence. Praise got silence. Fake grievances got the kind of silence that included slow washing between the toes. In the first weeks after she came to me, I had treated the rule like a coin-operated wisdom machine. I complained about sleep, work, whether to buy cheap shelving, and the woman downstairs who practiced scales at seven in the evening. Mizzle advised blackout curtains, sending invoices on time, wall anchors, and growing up.
 
-The dish sat on the hall table directly below my elbow.
+Mostly, she was useful.
 
-“The issue isn't where keys could theoretically go. The issue is catching the transition between outside mode and inside mode.”
+My phone buzzed beneath the sugar bowl.
 
-Tallow looked at the door, then at the dish. “Your hand passes over it when you turn the lock.”
+My sister's message read: FOUR O'CLOCK. If you're in, bring the signed guarantee. If you're out, tell me by noon so I can ask for the back unit. After four they keep the whole $8,400. I won't chase you again.
 
-This was practical but insufficiently responsive to the kind of person I was. I needed a solution with positive capture. That night I ordered a brass hook shaped like an antler, after rejecting nickel as too temporary and black iron as falsely rustic.
+The message made it sound as if the decision had been sitting around waiting for me. It had, technically, but not in that accusatory way. There had been the first lease packet, and then revised numbers, and then the contractor's estimate, which altered the numbers enough that anyone sensible would have paused. My sister's answer to the estimate had arrived nineteen days earlier. A person could hardly be blamed for wanting the dust to settle around a life-changing decision.
 
-The hook arrived with three kinds of wall anchor. Since I did not know whether the wall was plaster, masonry, or an innovative hybrid, I left the hook sealed in its padded envelope on the hall table while I researched diagnostic tapping.
+Mizzle shifted. The corner of the guarantee appeared beneath her flank, already creased.
 
-Four days later I found my keys in yesterday's coat. I had searched that coat while wearing it.
+"She's cornered me," I said. "Mizzle, I can't believe my own sister would put me under this kind of pressure."
 
-The blue dish remained empty under the envelope.
+Mizzle stood.
 
-During the second week, healthy eating became structurally impossible.
+She was a small gray cat, round through the ribs, with one white paw and a dark stripe down her nose that gave her face the look of a document someone had tried to amend. Her tail expanded to twice its ordinary width. She stepped off the guarantee, leaving four warm dents in the paper, and looked up at me.
 
-“Tallow, every sensible recipe assumes I have six prepared ingredients and the temperament to chop a squash on a Wednesday.”
+"Your sister did not corner you this morning," she said. "You drew the corner, furnished it, lost the key in a bowl, and complained the room was poorly designed.
 
-He had been asleep in a stripe of sun on the kitchen floor. One ear came upright; the rest of him did not.
+"You have been waiting to say this happened to you. I have watched you prepare. Six weeks ago you brought home those keys and slid them across the floor for me because you were happy. You said the front room could hold six tables, the ovens would go along the east wall, and your sister's morning buns would pay the rent before the lunch trade even began. You called her at eleven forty-eight at night. You told her you had found the place. You told her not to be afraid of the deposit because there were two of you.
 
-“Buy eggs, bread, and three vegetables you already eat. Cook one before you buy more.”
+"Then there were two of you when she paid eight thousand four hundred dollars, but only one of you when the landlord asked for signatures.
 
-“That's provisioning, not nutrition. I need a repeatable food practice.”
+"I know the order. I slept on the first packet for three days. Each time you lifted me off, you stared at the last page, took a photograph of it, and put it back under the green cookbook. You complained that legal language was meant to trick people. I told you to mark what you did not understand and call the tenant adviser. You marked two paragraphs. You did not call. When your sister found the adviser, you complained that the appointment was too early. It was at ten thirty.
 
-“Repeat the eggs.”
+"The contractor's estimate was higher. That was a real problem. Your sister came here with the cinnamon rolls you left uncovered until they hardened, and the two of you cut the plan. She removed the second oven. You kept the painted sign. She asked you to choose between six tables and a longer counter. You said you needed to see both versions. She sent both versions. You opened neither for five days.
 
-Instead, I ordered ten stackable glass tubs with bamboo lids. Their product photographs showed a refrigerator arranged by color, season, and moral seriousness. I also bought spinach, fennel, radishes, beetroot, two cabbages, fresh turmeric, and a rosemary plant. The eggs seemed uninspired after that, so I left them at the shop.
+"On the sixth day you complained to me that spreadsheets make your eyes swim. I told you to read one line at a time. You spent forty minutes choosing a color for the bakery calendar instead.
 
-The tubs remained in their cardboard sleeves because I had not decided whether to label them by ingredient, meal, or date. The vegetables remained in their bags because washing them before I had settled the tub question would have been premature.
+"This is what you do. First a thing must be done. Then any person who names the thing becomes your new problem. The client who did not pay you was greedy until you found the invoice in your drafts. The landlord was neglectful while the pipe dripped under the sink, although you had not sent the photograph. The emergency plumber cost too much after you waited until the cabinet floor swelled and the door would not close. Yesterday I yowled through your call because my water dish was empty. You complained that I always need something at the worst time. You asked me what would make me stop. Water made me stop.
 
-By Friday, the spinach had become damp green paper. The fennel had grown a brown thumb.
+"You collect advice so that the choosing will belong to someone else. If the advice works, you were clever to ask. If it fails, you were misled. If you never follow it, you remain a person who might have succeeded under better circumstances. You have asked me whether to sign this guarantee four times without complaining, because you know questions do not compel me. Then you complain about your sister, hoping I will answer the question you are too proud to ask and too frightened to answer.
 
-“Tallow, shops package produce for imaginary households.”
+"You are not cornered. You are the source of the pressure in this room. Your sister's messages became sharper because you ignored the soft ones. The deadline became dangerous because you used the safe days imagining how trapped you would feel on the last one. Her money is at risk because you asked her to risk it and then treated your name as the only expensive part.
 
-Tallow sat beside his bowl and looked past me at the unopened tubs.
+"And yes, you are a waste. You waste food, work, sleep, favors, money, and every answer you drag out of me. You waste your sister's competence by turning it into rescue. You waste your own talent by keeping it theoretical, where nobody can reject it. You have spent ten months making me hear the same complaint wearing different trousers, while I depend on you to remember water and food and the box in the laundry cupboard. I cannot leave. I cannot tell you in words that my dish is empty unless you first make my need about your inconvenience. Then you ask why I sound impatient.
 
-“Eggs,” he said.
+"Perhaps you do not want the bakery. Perhaps you only wanted to be the person who was brave enough to propose one. I do not know. You have hidden so thoroughly behind delay that even you may no longer know. But do not stand over a paper you requested and tell me your sister built this morning. If four o'clock costs her more, it will be because you used the safe days without answering and made everyone ask again."
 
-“That doesn't engage with the packaging issue.”
+Her mouth closed. The refrigerator hummed. Somewhere in the building, a pipe knocked twice.
 
-He lowered his face to his food. The conversation was apparently over, although the complaint technically was not.
+I realized I was gripping the handle of my mug hard enough to ache.
 
-The third week belonged to laundry. The washer completed its work with three discreet chimes, all inaudible from my desk. I left one load wet overnight, washed it again, and left it wet through lunch.
+"That was vicious," I said.
 
-“Tallow, a machine shouldn't depend on a human remembering when the machine has finished.”
+Mizzle's whiskers angled forward, but a statement was not a complaint. She said nothing.
 
-He was curled on the towels I had not yet put away. “Set one alarm when you press start. Stand up when it rings.”
+"The pipe was rotten before I ever moved in, Mizzle. I hate how you turn every bad thing into evidence against me."
 
-“A single alert has no resilience.”
+"The pipe was rotten," she said. "The soaked cabinet was seven days of you not sending one photograph. I used the examples I have. You selected the one with a rotten pipe and ignored the draft invoice, my empty dish, your sister's six messages, and the paper under my body."
 
-“It needs obedience, not resilience.”
+"The invoice got paid."
 
-I designed four alarms: Cycle Expected, Cycle Check, Laundry Transition, and Final Laundry Safeguard. Choosing distinct sounds took twenty minutes. Then I bought lavender scent beads, because a reliable habit needs an attractive reward.
+Silence. Another statement.
 
-On Saturday, Cycle Expected interrupted me while I was changing the icon for Cycle Check. Laundry Transition arrived during a video about notification fatigue. I dismissed Final Laundry Safeguard on principle because the first three had made it redundant.
+"It's unfair that you get to decide when something counts as a real complaint."
 
-The load waited in the dark drum until Sunday morning.
+Mizzle sat down. "I do not decide. You do. That is why your voice changes when you mean it."
 
-“Tallow, the clothes smell worse than before I washed them.”
+I hated that answer partly because I could hear the change she meant. I tried, "Mizzle, the weather is persecuting me," in a tone of theatrical despair.
 
-He had retreated to the top shelf of the linen cupboard, as far from the damp drum as the cupboard allowed. His eyes stayed shut.
+She began washing her white paw.
 
-“Alarm.”
+"Should I sign?"
 
-“There were four alarms.”
+The paw passed over one ear.
 
-“One. Then move.”
+"You just spent all that time telling me I caused this, and now you won't even tell me how to fix it."
 
-I restarted the machine with extra detergent and two caps of scent beads. On the shelf above it, I left the tea that had accompanied my alarm design. Honey dried around the teaspoon in the bottom of the cup.
+"Correct," she said. "I will not choose whether you bind yourself to a business."
 
-By the fourth week, Tallow's advice had shortened enough that I began to worry he was losing professional curiosity.
+"Then what was the point of any of that?"
 
-The rule did not let him answer that question. “Tallow, are you bored?” earned only a rusty meow. I tried again: “Tallow, it is frustrating that I can't tell whether you're bored.”
+Question. Silence.
 
-“Stop waking me to ask.”
+I picked up the guarantee. The last page asked for my signature beneath a paragraph stating that I understood what I was undertaking. My sister had placed a yellow tab beside the line. The tab said SIGN, not because she thought I could not identify a signature line but because she had once watched me return an unsigned tax form.
 
-This seemed sharp at the time, so I wrote it in a notebook titled Tallow's Observations.
+"You act like signing is the honest answer," I said. "But I can't stand the idea of being there at five every morning, smelling fryer oil in my hair, smiling at people who say a five-dollar pastry is too expensive. I don't want to spend the next five years pretending the rush is exciting. I don't want it anymore, and that makes this whole thing impossible."
 
-That same week, I addressed him on the windowsill. “Tallow, money escapes through charges too small to deserve individual attention.”
+Mizzle stopped washing.
 
-“Open your statement. Cancel the first recurring charge you don't use.”
+"Then tell her," she said. "Leave out the five years and the fryer oil if you need to. Tell her you do not want it."
 
-“Statements are retrospective. I need something that reveals the pattern early.”
+"You don't know what my sister can afford. You don't know why I stopped wanting it. You don't know whether I'll regret it."
 
-I found a budgeting app whose blue graphs made spending look like a weather system. It promised to locate subscriptions automatically after I linked my accounts. The free trial became $7.99 a month, but setup took only ten minutes, and ten minutes of financial administration deserved the first clean part of a morning, not the dented quarter-hour before lunch.
+"No. I know what I saw and what you told me. I know you wanted the shop when you found it. I know you stopped opening the plans. I know your sister paid because you promised. I do not know her accounts. I do not know whether the shop will succeed. I do not know what you will want next year. I know she does not know what you want today."
 
-I put my coffee on the windowsill while reading its reviews. The cup stayed there with the teaspoon inside.
+"So tell me what to do."
 
-When the app renewed, I tried again. “Tallow, now I have two petty charges instead of one.”
+Mizzle looked at me for a long moment, then jumped down. I had given her an order, not a complaint. She walked to the bedroom, pushed her head through the door I had left almost closed, and disappeared.
 
-Tallow opened his eyes.
+I flattened the signature page over the rest of the packet. My pen was in the key bowl beneath three dead batteries, a grocery receipt, and the brass ring holding the temporary shop keys.
 
-“Statement.”
+Ninety minutes passed. I read the guarantee twice, opened the bakery projections, and answered no messages.
 
-“I know what a statement is.”
+Signing would have solved the immediate problem. It would prove Mizzle wrong about me wasting advice. It would prove my sister right to trust me. It would turn the morning into an ugly but useful shove, the kind successful people later thanked someone for.
 
-“Open.”
+I wrote the first stroke of my name.
 
-His tail covered his nose. No amount of elaboration drew out a third word.
+Then I saw what I was doing: letting an angry cat choose, only in reverse.
 
-In week five, my wireless headphones died halfway through a program about reducing friction at home. The charging cable lay plugged in beside my right hand, looped around the pot of a dead rosemary plant so it could not fall behind the desk.
+At 10:26, I tore the signed corner off rather than pretending the mark had been accidental. I printed a new page. At 10:41, I put the guarantee, the two shop keys, and the contractor's revised plan into my canvas bag. I did not send my sister a message saying we needed to talk. I had sent three of those already.
 
-“Tallow, nothing in this apartment is ever charged when I need it.”
+The shop was a forty-minute walk if I cut through the park. I left at 10:47.
 
-He occupied the only rectangle of warm sunlight on the desk. His gaze moved from the headphones to the cable.
+Outside, the morning had the chilly brightness of a day that resented coats. Delivery trucks occupied half the curb. At every crossing, I composed explanations in which the estimate had changed, the lease was aggressive, retail was unstable, and my sister had moved too quickly. Every sentence was true enough to be useful. None included the fact that nineteen days ago, while we stood in the empty shop with blue tape marking the counter, I had imagined arriving before dawn and felt not fear but absence. Nothing. No warm leap at the room becoming ours. Only the wish to go home.
 
-“Plug them in.”
+I had known then. I had let her order the electrical drawings twelve days ago.
 
-“The cable is technically available, but it has no permanent relationship to the headphones.”
+The brass keys knocked against my water bottle all the way there.
 
-“It is touching them.”
+My sister was kneeling inside the front window when I arrived. She had a tape measure stretched from the wall to a strip of blue tape on the floor. In the bare room, every sound returned thinner. The previous tenant's sign brackets remained above the window, and flour-colored dust from the ceiling repairs lay in the corners.
 
-I ordered a premium charging dock for my phone, headphones, and a watch I did not own. It arrived in a matte white box that made loose wires seem like a social class I had escaped. Its natural position was Tallow's rectangle of sun, so I set the unopened box there temporarily while I considered the ethics of permanent placement.
+She looked at the canvas bag. "Did you sign it?"
 
-The headphones remained beside their cable, uncharged.
+"The guarantee puts a lot of exposure on both of us. With the revised build-out, there are concerns that I don't think we've fully—"
 
-While researching cable channels, I brought another coffee to the desk and put it beside the old cup. Both cups now held teaspoons. I used a third spoon to pry open the battery cover of my kitchen scale, carried it with me when the scale failed to solve a question about portioning, and pushed it upright into the rosemary pot so it would not mark the desk.
+"Yes or no?"
 
-Tallow watched all three journeys. When I told him the headphones still refused to stay ready, he turned once on the chair and settled with his back to me.
+Her hand stayed flat on the metal tape.
 
-“Cable,” he said into his own flank.
+"No," I said. "I'm not signing. I'm not opening the bakery with you."
 
-The sixth week began with a Sunday-reset binder and spread into pantry review, hydration tracking, and a bathroom skin-care trial. Preparation made me thirsty. Two cups of tea reached the sofa on saucers, each with a spoon; one saucer slid under the binder when I opened it wide. During the pantry review, I set a teaspoon in the jar labeled GRAINS, alongside three buttons and an old receipt. I ate yogurt from the carton and left it open beside the full kitchen bin, the spoon standing in it like a small flag. In the bathroom, I mixed a green face mask with another teaspoon.
+The tape snapped into its case. My sister stood.
 
-By Saturday night, three more teaspoons lay in the sink: one from instant coffee, one from jam, and one from a cup of tea I had carried as far as the kitchen before deciding that counted as clearing up.
+"How long?"
 
-Tallow followed these routes with his eyes. I thought he was fascinated by teaspoons. It did not occur to me that he was counting.
+"It wasn't one moment."
 
-On the sixth Sunday, sunlight lay cleanly across the kitchen tiles. Tallow ate fish from his shallow bowl. I put bread in the toaster, boiled water, and opened the cutlery drawer.
+She waited.
 
-The teaspoon slot was empty.
+The room offered no hum to fill the space, no refrigerator or pipe. Even the traffic outside seemed sealed behind the glass.
 
-I felt under the forks, checked the drying rack, and pulled the drawer farther out in case twelve spoons had slipped behind it in formation. Three were visible in the sink, but they looked used in a way that excluded them from the category I needed.
+"Nineteen days," I said. "The morning we taped the counter. I knew enough then to tell you."
 
-“Tallow, this apartment eats teaspoons. A functional home shouldn't demand constant surveillance of its own cutlery.”
+"Twelve days ago, I paid twelve hundred and eighty dollars for the electrical drawings."
 
-He stopped chewing.
+"I thought it might come back."
 
-“Retrieve the twelve teaspoons you carried away,” he said. “Wash them.”
+"Did it?"
 
-“You have answered the literal problem while missing the larger one.”
+"No."
 
-Tallow lifted his head. A flake of fish clung to one whisker.
+She walked past me and locked the front door, though nobody had tried it. "The holding loss is eighteen hundred if we withdraw before four. After four, it is eighty-four hundred. The back unit was available at eight this morning. It may still be available. It has no front window and no customer seating. I can do wholesale and pickups there."
 
-“The larger one,” I said, “is that life consists of hundreds of tiny maintenance demands, and if a person has to consciously manage every—”
+"You could still do that."
 
-“No.” He stepped over his bowl. “You do not get to inflate twelve dirty spoons into the human condition before I finish breakfast.”
+"I could have done it three weeks ago."
 
-He sprang onto the counter. His tail struck the cupboard once.
+"I know."
 
-“Three are in that sink. I watched you drop them there: coffee, jam, tea. Number four is planted in the yogurt carton beside a bin so full that the lid is balancing on an orange peel. You will say those four are not missing because you can see them. That is worse. Your apartment has not eaten your teaspoons. It has been forced to exhibit them.”
+"No, you know now. Three weeks ago, you let me keep spending."
 
-“I was going to clear—”
+There was no useful answer. I took the keys from the bag and set them on the sill. She picked them up immediately and put them in her coat pocket.
 
-“After breakfast, after the reset, after a fresh morning. Yes. I know the calendar of never.”
+"I'm sorry," I said.
 
-He jumped down and walked out of the kitchen. I followed; six weeks of compressed answers had acquired alarming momentum.
+"All right."
 
-In the hall, Tallow put his white paw on Beryl's blue dish. It rocked against the table. The padded envelope underneath rustled.
+I had prepared answers for anger and for forgiveness. She gave me neither.
 
-“Here is your first emergency. Beryl placed a dish where your hand passes after locking the door. You declared it passive and bought a brass antler. It has spent forty days sealed in this envelope while you researched the wall without tapping it and compared anchors without opening them. The dish asked for one movement. The hook asked for money, wall analysis, and a drill, so you called it better. It has caught no keys. It has only pinned the useful dish under its backside.”
+She took out her phone and called the rental office. Her voice changed, not softened exactly, but narrowed to dates and square footage. She gave the shop number, asked whether the back unit could still be transferred under the existing application, and listened without looking at me. Once, she closed her eyes. Then she asked for the transfer form before three and said she would return it within half an hour.
 
-“The wall could genuinely be—”
+When she ended the call, she opened the contractor's plan on the windowsill and drew a line through the front counter.
 
-“Plaster, brick, or cheese. I heard the keys jingle when you hung that coat yesterday; they are in the pocket. Do not reach for them yet. We are touring your achievements.”
+"They'll transfer sixty-six hundred of the deposit," she said. "They keep eighteen hundred. The smaller unit needs different drawings. The twelve-eighty is gone. Your half of those two losses is fifteen-forty."
 
-He trotted to my desk. The charging dock had flattened one corner of its own box where Tallow had repeatedly tried to sit on it. He leaped beside the dead rosemary, sniffed its dry stems, and recoiled from the old coffee cups.
+"I can pay you Friday."
 
-“Number five is in your rosemary pot. You pried at a battery cover, carried the spoon from the kitchen, and buried it here. Six and seven are in these cups: one in old milk, one in instant coffee and vanilla powder.
+"Have you looked at your account?"
 
-“Here is the cable: six inches, plugged in, touching the dead headphones. Here is the premium dock you will not unpack until the room reveals its eternal form. You bought space for three devices, including a watch you do not own, and blocked my sun with the box. Cats find the warm patch before it moves. You research where to put the warmth.”
+I had not.
 
-I opened my mouth.
+"Then don't give me another date. Check it. Send me a schedule you can keep."
 
-“You were about to invoke good design. Yours has prevented charging and naps in matte white packaging.”
+"Okay."
 
-He crossed the keyboard. The budgeting app was still open on the screen behind a prompt asking me to link my first account.
+She folded the plan along a line that had not been meant as a fold. "The release will come to your email. Sign it by three. Not four. I'm not using the last hour."
 
-“There is the machine you hired to notice money. It noticed $7.99 and took it. The original charge remains; the app is the second. You paid your solution to join the problem.”
+I wanted to ask if she needed help measuring the smaller room, if I should revise the logo, if we could have dinner after this. All three would have let me feel useful before she had asked anything of me. She had already turned back to her phone.
 
-“The trial terms weren't prominent.”
+"Do you want me to stay?" I asked.
 
-“They were prominent enough for you to quote the star rating. You refused a statement because it had already happened, then bought a blue graph that would describe it later. You want knowledge decorated and innocent of any demand.”
+"No."
 
-Tallow dropped to the sofa. He nosed the Sunday-reset binder aside, revealing one saucer, then stared at the other.
+That answer did not require interpretation.
 
-“Eight. Nine. Two teas made to accompany the plan for returning things to their places. One spoon went under the plan. The other stayed in full view. You call this reset because abandonment sounded insufficiently branded.”
+At home, Mizzle had pulled one of my socks from the laundry basket and was asleep with her chin on the heel. She opened her eyes when I came in, but she did not get up.
 
-On his way toward the laundry cupboard, he paused at the bathroom door.
+The release arrived at 1:36. I read all four pages. At 1:51, I signed. At 1:53, the portal marked the withdrawal received. My sister replied with two words: Got it.
 
-“Number ten is beside the sink in a bowl of green paste.”
+My bank balance was $2,318.44. Rent and the phone bill would take $1,706. I transferred four hundred dollars to my sister and wrote: First payment toward $1,540. I can send $380 on each of the next three Fridays if the overdue design invoice clears this week; if it doesn't, I will message Thursday with the revised dates.
 
-“That one wasn't used for food.”
+The typing box showed that she was answering, stopped, then started again.
 
-“There it is. Change the assignment and the spoon leaves the count. The keys become a transition problem, the spinach a packaging failure, the wet clothes a communications defect. You promote objects into concepts until they are unavailable for ordinary work.”
+Her reply was: I'll hold you to Thursday.
 
-He reached the laundry cupboard, where the machine held a load I had remembered this time only because I needed the shirt at the top. The honeyed cup remained on the shelf above it.
+Mizzle came into the kitchen and sat beside her water dish. There was water in it, but a crescent of kibble dust floated along one edge. I emptied it, scrubbed it with the rough side of the sponge, and filled it to the blue line on the bowl. She drank for long enough that the refrigerator motor switched off around us.
 
-“Number eleven. Old honey, damp cotton, and enough lavender to erase a small bird. You needed one alarm and made four. You dismissed one while choosing an icon, one while hearing why alarms fail, and two because the others annoyed you. Then you blamed the machine and washed the load again with double detergent. You gave laundry the afternoon, the night, and my linen shelf.”
+While Mizzle drank, I sorted the lecture without asking her help. Rotten pipe: not mine. Seven days without sending the photograph: mine. Higher estimate: not mine. Nineteen days without telling my sister: mine. Her risk: hers. My promise that persuaded her: mine. *Waste* did not belong in either column, so I left it out.
 
-His back fur had risen into a charcoal ridge. He turned and marched to the kitchen without checking whether I followed.
+Mizzle finished drinking and looked up at me.
 
-“I know what comes next,” he called. “Systems are oppressive; your mind needs a personal one. You will call me categorical while filing everything under Not My Fault. You spent forty minutes comparing unopened tubs. Fairness will not wash spoons.”
+I did not complain to her.
 
-Back in the kitchen, he jumped onto the counter beside the unopened tubs. Through the refrigerator door came the sweet, damp smell of vegetables returning themselves to soil.
+In the bedroom, my laptop still held the half-finished menu layouts for the client whose invoice had been late because I had sent it late. Three options were due the previous Friday. I opened the email I had been avoiding, attached the one complete layout, and wrote that the other two would arrive by ten the next morning. Then I checked the calendar before I sent it.
 
-“Number twelve is in the jar marked GRAINS, among three buttons and a receipt. The jar contains no grain. Your glass tubs are still wrapped. Spinach collapsed, fennel browned, radishes softened, and the cabbages survived because cabbages are built for sieges. You bought food for a disciplined stranger, ordered noodles when the stranger failed to arrive, and blamed the quantities.
+At 2:17, I set a forty-five-minute timer and began the second layout. Mizzle jumped onto the desk, stepped across the keyboard, and settled on my right forearm.
 
-“Do you understand what a waste you are?”
+"You're in the way," I said.
 
-Heat climbed into my face. “That's a needlessly—”
+Not a complaint. Not quite.
 
-“Specific word? It is the first one broad enough. You are a waste. You waste food, water, detergent, scent beads, fees, packaging, mornings, clear surfaces, and every answer after demanding it. You preserve Beryl's useful dish beneath its useless replacement. You block my warm places with unopened equipment and interrupt my naps with mysteries I watched your hands create.
-
-“You waste an entirely operational intelligence. You can compare anchor strengths, bamboo-lid care, alert architecture, app reviews, and cable channels. You can build an argument against moving your hand six inches. You can make a spoon sound like weather. All that cleverness manufactures an alibi for the person present along the whole route.
-
-“You are the source of these problems: manufacturer, distributor, and most loyal customer. Your hands placed every spoon. Your thumb dismissed every alarm. Your card bought every substitute. Your feet passed the dish. Then cause reaches consequence and you introduce them as strangers.
-
-“You ask for advice as if novelty were action. I began with sentences, shortened them, and finally gave you nouns: eggs, alarm, statement, cable. The advice did not become inadequate. My patience became accurate. You wanted fresh answers to admire while preserving the complaints that summoned me.
-
-“I am done donating sleep to that arrangement. Wash the spoons. Eat what you buy. Move the laundry when the alarm rings. Open the statement. Connect the headphones. Put the keys in the dish. The dish is under the envelope. The cable is beside the headphones. Stop shopping between yourself and the verb.
-
-“Now get number twelve out of the button jar and stop accusing the apartment of having a mouth.”
-
-Tallow stopped speaking. The toaster released my bread with a dry click. He returned to his bowl; the fish had gone tacky around the edges. He ate it anyway, fast and offended.
-
-I collected the spoons.
-
-Three came from the sink and one from the yogurt carton. The rosemary pot gave up its little metal marker; the two windowsill cups gave up theirs. I found two on the sofa, one with the binder's square imprint in a ring of tea. Green paste had dried on the bathroom spoon. The laundry spoon required hot water to loosen the honey. The jar marked GRAINS supplied the last among the buttons and receipt.
-
-Twelve teaspoons made a surprisingly small heap beside the tap.
-
-I nearly told Tallow that cleaning all of them at once would consume the morning. His left ear turned toward me before I made the first word.
-
-I filled the basin. The yogurt spoon was worst. I scrubbed that one first, soaked the honeyed one, rinsed the rest, and put all twelve in the drying rack.
-
-That afternoon, I reached the front door and found my keys absent from both hands. The blue dish was empty. The brass antler still pressed down on it in its padded envelope.
-
-“This apart—”
-
-I stopped before I aimed the complaint at Tallow. He lay asleep in the strip of sun beside the boxed charging dock.
-
-Yesterday's coat hung on the back of the chair. The keys were in its pocket.
+She stayed there. I moved the mouse with my left hand and kept working.
