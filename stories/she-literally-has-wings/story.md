@@ -8,366 +8,356 @@ canon: false
 
 # She Literally Has Wings
 
-At five seventeen on the evening of our first anniversary, my wife came through the rooftop door carrying a cake and announced that the sky had changed its mind.
+By the time the last tray of roasted carrots reached the serving counter, Coralie had folded her wings as tightly as they would go and still clipped the back of a chair.
 
-I was on a stepladder, feeding paper lanterns along the ridge line of a canvas awning. My best friend stood below with both hands on the ladder and neither eye on it. He was watching my wife’s wings clear the doorframe.
+The chair skidded half a handspan. Its occupant, a woman fastening a green coat, caught her water before it spilled.
 
-“The forecast says clear,” I told her.
+“Sorry,” Coralie said.
 
-She set the cake on the only table not covered in clips, cord, or my emergency tool pouch. She wore the dark green dress she had altered around the roots of her wings, and the wind pressed the skirt against her knees. Her outer feathers lifted one after another, white shutters opening along both sides of her body.
+“That chair has been trying to kill me all evening.” The woman rose and leaned close. “Did you save me any of the lentils?”
 
-“The forecast,” she said, “does not have primaries.”
+“No cream, extra lemon.” Coralie lifted a paper carton from beneath the counter. She had written a small green leaf on its lid so nobody would give it to the wrong person. “I hid them from Julian.”
 
-“It has radar.”
+The woman’s tired face opened into a grin. “You are an angel.”
 
-“Lower the west edge.”
+“Accurate,” Coralie said, and passed her the carton.
 
-I looked at my phone. There was a yellow triangle over the weather app that had not been there ten minutes earlier.
+At the other end of the hall, Julian stopped wiping a table.
 
-“Temporary gusts,” I said.
+Coralie saw that much and thought no more of it. She had four warm serving pans to cool, a roll of foil that insisted on sticking to itself, and thirty-six chairs waiting to be lifted upside down. The hall smelled of onions, floor soap, and the damp wool of departing coats. Every time the rear door opened, cold air combed the loose feathers at the edges of her wings the wrong way.
 
-My wife untied the ribbon around the cake box. “I am going to write that on your grave.”
+Tomas had already started on the chairs. He worked from the walls inward, leaving a broad path between the serving counter and the coat hooks. He did it without looking at her. Ten years ago he had learned her clearance by getting a primary feather caught between his elbow and a doorframe; since then, he measured rooms with some private part of his mind that apparently had her width marked on it.
 
-My friend finally put his eyes on the ladder. “She may have a point.”
+Coralie loved him for many reasons. That one had survived more difficult weeks than some of the grander ones.
 
-“You tied two of these knots.”
+Julian abandoned his cloth on the table and came toward her.
 
-“I definitely have no point.”
+“Wait,” he said. “Accurate how?”
 
-The awning mattered to me more than canvas had any right to. We had planned our wedding cheaply and well, which meant the ceremony had been lovely and the courtyard roof had leaked exactly where we were supposed to dance. Our first dance happened beside a service elevator while a waiter steered a mop bucket around us. My wife had said it was perfect. She was often kind when I was being rained on.
+The woman in the green coat was attempting to put on one glove while holding her carton, purse, and umbrella. Coralie tucked the carton into the purse’s open top.
 
-For our anniversary I had borrowed the apartment building’s roof, stitched two striped picnic cloths into a broad canopy, and made a dry square under which I intended to dance with her properly. The forecast had promised cooperation. The forecast was apparently reconsidering.
+“Thanks, dear.”
 
-I lowered the west edge.
+“Your bus is in six minutes.”
 
-“Another foot,” she said.
+“Five if the driver’s feeling cruel.” The woman hurried out, smiling still.
 
-“That will make it crooked.”
+Julian watched the door close. “Coralie.”
 
-“It will make it attached.”
+She pinched the foil loose. “I call myself an angel.”
 
-I lowered it another foot.
+“You call yourself—”
 
-She came over to test the tension with two fingers. One wing opened behind her for balance. It was wider than the awning was high, so she angled it with the unconscious precision of someone who had spent her life calculating ceilings. The white feathers passed above the cake and below the lantern cord without touching either.
+“Julian, take the carrots.” Tomas was passing with two chairs braced against his chest. “She can’t reach the cooling rack while you’re standing there.”
 
-My friend looked from the wing to me, then back to the wing.
+Julian took the pan automatically. He carried it three steps before turning. “Did you know?”
 
-“Stop doing that,” I told him.
+“Know what?”
 
-“Doing what?”
+“That your wife is an angel.”
 
-“Looking like you have swallowed a question sideways.”
+Tomas shifted the chairs higher. “She isn’t.”
 
-My wife plucked the utility shears from my pouch and slid them into my back pocket. “Keep those on you. If the corner line goes, cut the black webbing. Do not try to save the cloth.”
+Coralie stopped fighting the foil.
 
-“I made the cloth.”
+Julian stopped with the carrots halfway to the rack. “She just said she is.”
 
-“Then it has known love.” She kissed my cheek. “Now put the ladder away before our guests arrive.”
+“You probably heard her wrong.” Tomas nodded toward the counter. “She’s winged. That doesn’t make her an angel.”
 
-They arrived while I was still arguing with the lantern timer. We had invited ten people and enough food for twenty-three, because my wife believed leftovers were a form of pension. She welcomed each guest with a specific question. How was the new apartment? Had the wrist stopped hurting? Was the landlord still pretending not to understand the word mold?
+“I heard four words.”
 
-One friend arrived looking as though sleep had become theoretical. She had buried someone she loved that week and warned us she might not stay. My wife did not tell her to cheer up. She showed her the chair nearest the door, put a plate within reach, and said she could talk or not talk as she pleased. The friend did not smile. She did take off her coat.
+“Three, if she said what you think.”
 
-The air always eased around my wife when she was glad. I knew that much. A tight room seemed to discover an extra window; people breathed lower in their chests. It did not turn sorrow off. By the time the first bottle was open, our grieving friend was still grieving, but she had moved her chair closer to the table and was arguing about whether cake counted as dinner.
+Julian stared at him. “That’s your objection?”
 
-I had filed the whole effect under my wife being good with people.
+Tomas set the chairs onto a table and glanced at Coralie at last. It was a quick glance, seeking confirmation of some small, ordinary misunderstanding. She could have rescued him then. She could have smiled, made a joke about the woman’s choice of compliment, and given him the few minutes he needed to discover his mistake privately.
 
-The wind lifted again. My wife turned her head toward it before the lanterns stirred.
+Instead, Coralie pulled out another length of foil. It tore straight across.
 
-“Ice,” she said. “We need it now, before the elevator decides otherwise.”
+Tomas’s expression changed.
 
-“I’ll go.”
+“Oh,” Julian said. The carrots gave a soft hiss against the metal rack. “You genuinely don’t know.”
 
-“You are still fighting a timer.” She took the empty cooler. “Win one battle.”
+The rear door swung open before Tomas could answer. A man leaned in, letting a blade of cold cut across the floor.
 
-She slipped through the rooftop door. The room she left behind was a roof, technically, but it felt smaller without her.
+“Sorry. Dark wool cap? I was at the corner table.”
 
-My best friend caught my sleeve.
+“Coat hooks,” Coralie said. “Bottom basket, under the silver scarf.”
 
-“Bro,” he said, “how did you not know your wife is an angel? She literally has wings.”
+The man found it and lifted it in triumph. “Knew you’d have it.”
 
-“Well, to be honest, I thought she was some bird demi-human or hybrid or something.”
+“Close the door, please.” Her left wing had begun to shiver.
 
-“She literally makes everyone smile when she walks in a room.”
+He did. He thanked her twice on his way out.
 
-“To be fair, she does have an amazing personality. That’s why we’re married.”
+Julian waited until the latch caught. “Tomas. She has wings.”
 
-He stared at me. Behind him, one of the lanterns blinked on, thought better of it, and went dark.
+“People have wings.” Tomas’s hands had gone still on the back of a chair. “People grow them, inherit them, build them and end up keeping them. Her feathers don’t come with a certificate.”
 
-“A bird hybrid,” he said at last.
+“She called herself an angel.”
 
-“Some kind of bird hybrid.”
+“Yes, Julian. I was here.”
 
-“Which bird?”
+The polish in Tomas’s voice was a warning. He used it when he had assembled an argument too quickly and intended to live inside it until everyone else went home.
 
-“I didn’t ask for a feather chart.”
+Coralie stacked two shallow pans, metal ringing against metal. “The drying towels are still in the kitchen.”
 
-“No bird has feathers like hers. They change color at the edges when she laughs.”
+Both men looked at her.
 
-“Light changes color at edges. That is how edges work.”
+“Do you want the floor wet all night?” she asked.
 
-“She knew this storm was coming before your app did.”
+Julian went to get the towels.
 
-“So did my knee.”
+Tomas moved toward the counter. “Coralie.”
 
-“Your knee is not an angel either.”
+“The chairs first.”
 
-“Finally, an area of agreement.”
+“Can we just—”
 
-He pointed at the lantern cord. “You haven’t fixed that timer, and the lights come on whenever she passes.”
+“Not with nine people still here.”
 
-“Static. Feathers produce static.”
+He looked around as if the nine had concealed themselves for spite. Two regulars were dividing the last bread into a cloth bag. A family was searching beneath tables for a missing mitten. Near the coat hooks, a broad-shouldered diner stood motionless with a paper receipt in hand, waiting to ask a question and pretending not to listen.
 
-“You built an entire species in your head rather than ask one question.”
+Tomas lowered his voice. “All right.”
 
-“I was being respectful.”
+He returned to the chairs.
 
-The door opened behind me.
+Coralie carried the empty pans into the kitchen. Her wings made turning sideways through the swinging door easier than walking straight. She had designed that trick during the first month of suppers, along with a hundred other accommodations nobody called miraculous: hook the door with one heel, fold the right wing first, hold the hot edge away from the covert feathers, never trust a child who said they only wanted to touch one.
 
-My wife stood on the threshold with a bag of ice braced against one hip. The cooler hung from her other hand. She had folded her wings so tightly that their upper joints made two pale angles above her shoulders.
+In the kitchen, Julian was kneeling beside the laundry basket. “How long has he thought you were—what does he think you are?”
 
-“Please continue,” she said. “I want to hear which half of me is duck.”
+“Ask him.”
 
-My friend took the cooler. “I’m going to put this somewhere very far from the conversation.”
+“I’m asking you whether you knew.”
 
-“Inside,” she told me.
+Coralie set the pans beside the sink. “I knew he didn’t use the word.”
 
-The rooftop access room contained a breaker panel, a mop sink, and exactly enough floor for one married couple to regret each other at close range. My wife shut the door but left the small window open. Through it came the party’s music and the nervous click of lanterns testing their current.
+“That is not the same thing.”
 
-She leaned the ice against the sink. “What am I?”
+“No.”
 
-“My wife.”
+He waited. Julian had always believed silence was a faulty appliance. If he stood beside it long enough, someone should tell him where the switch was.
 
-“That answer is lovely and useless.”
+Coralie pointed to the basket. “Blue towels. The white ones leave lint.”
 
-I tried again. “An angel.”
+He rose with the blue towels gathered against his chest. “You’re both impossible.”
 
-“Because he told you?”
+“Those go under the rack.”
 
-“Because you are telling me now.”
+“I know where towels go.”
 
-“Good.” She counted three breaths under her breath. I knew she did that when anger had given her too many available sentences. “Angel is the word I use here. For me. It is not a promise that I can heal people, carry messages for them, find out anything about the people they miss, or behave better than they do. I do not grant wishes. I am not accepting applications.”
+He did not. Two minutes later she found them draped over the serving counter, where water would run onto the floor. She moved them without comment.
 
-“I have never asked you for any of that.”
+At the bread table, one of the regulars was struggling to close her cloth bag. Coralie retied it with a loop loose enough for stiff fingers. At the next table, Tomas crouched and found the missing mitten jammed between a chair leg and the wall. He held it up. The child’s parent laughed with relief; the child seized it and immediately dropped the other one.
 
-“You never asked me what I called myself either.”
+Tomas picked that one up too.
 
-“I didn’t want to make you explain your body to me.”
+Of course he did. He caught cupboard doors before Coralie walked into them and took the laundry off the line when the air changed. Tomas noticed the second thing while everyone else was still pleased about the first.
 
-“So you explained it to yourself.”
+It did not make his ignorance smaller. That was the trouble.
 
-That was unfair for about half a second. Then it became exact.
+The broad-shouldered diner finally approached the counter. “Could I take a plate to my upstairs neighbor? The stairs are bad for him tonight.”
 
-I put my hands in my pockets and found the utility shears. “Bird demi-human covered the visible facts.”
+“There’s rice, carrots, and half a portion of chicken,” Coralie said. “Does he still hate pepper?”
 
-“Woman with wings covered the visible facts.” She picked a chip of ice from the torn bag and bit it. “You added a family tree.”
+“With devotion.”
 
-“It wasn’t an important theory.”
+She reached under the counter for another marked carton. “No pepper.”
 
-“You kept it for three years.”
+His whole posture eased. “You remembered.”
 
-“You never corrected me.”
+“You mention it every Thursday.”
 
-“You never said it aloud. Was I meant to inspect your private bird cabinet?”
+He left looking pleased enough to prove Julian’s case, if a person ignored the carton in his hands and the neighbor waiting upstairs.
 
-I looked at the mop sink. It offered no advice.
+Julian did ignore it. The moment the door shut, he came back from the cooling rack and pointed after the diner.
 
-She bit another piece of ice and winced at the cold. “When people hear angel, some of them stop at the noun. A woman once put a lottery ticket in my mouth because my hands were full and she wanted it blessed. A man I dated asked me to stand behind him during a job interview and look significant. Strangers have handed me medical reports, wedding rings, petitions, and one extremely ill-tempered rabbit. They decide I am proof of whatever they already wanted proved.”
+“There. That. Everybody does that when you talk to them.”
 
-“I didn’t.”
+“Takes leftovers?” Coralie asked.
 
-“No. You asked whether wing oil would stain your sofa.”
+“Lights up.”
 
-“It was a new sofa.”
+“The ceiling lights are terrible.”
 
-“I liked that question. I liked you. You learned where I need room at a table and which comb doesn’t split the small feathers. You never asked for a blessing. I assumed you knew and were choosing not to make it the only thing about me.” Her gaze stayed on mine. “I did not know you had settled the matter with imaginary poultry.”
+“You know what I mean.” Julian turned to Tomas. “How did you never put this together? The wings, the whole room changing when she walks in—”
 
-She had walked through the world with her wings in full view. I had supplied an answer, called the silence courtesy, and never checked whether it belonged to her.
+“Because the room doesn’t change.” Tomas lifted a chair. “She does things for people.”
 
-“Does knowing the word change anything?” I asked.
+“That man looked ready to cry over chicken.”
 
-“It changes what you call me when ‘wife’ isn’t the question.”
+“His neighbor came home from the hospital on Tuesday.” Tomas set the chair down more sharply than he needed to. “The woman with the lentils works a late shift and usually finds everything with cream gone by the time she arrives. The kid lost a mitten last week too. Coralie bought a basket so people would stop throwing lost things in the trash.”
 
-I reached for a defense and found only variations of the ones she had already broken.
+Julian opened his mouth.
 
-“I don’t know what angel means,” I said.
+Tomas kept going. “They smile because she notices them. She notices when you pretend decaf doesn’t give you a headache because you don’t want to inconvenience anyone. She notices when I leave cupboard doors open and closes them hard enough that I can hear her opinion from the other room. She hates pears unless they’re cooked. She needs the soft brush for new feathers and the wooden comb for the long ones, and if you put either back with the handle pointing in, she’ll knock everything off the shelf trying to turn it around.”
 
-Her shoulders lowered a fraction. “Then ask. You have the sentence. It’s free.”
+Coralie pressed her palms against the cool counter.
 
-Something struck the outer wall with a flat boom.
+It was an excellent inventory. It was love in Tomas’s native form: a crowded workbench, every fact in its place and all the labels facing out.
 
-The lantern cord snapped past the open window.
+Julian rubbed the back of his neck. “Fine. You know your wife. But did you think she was a bird person?”
 
-My wife was through the door before I had the shears out of my pocket.
+Tomas’s chin lifted. “Something like that.”
 
-The west corner of the awning had torn free of its upper hook. Wind filled the stitched cloth from below, turning my dry square into a striped sail. One weighted post had tipped, and the ridge line dragged it by inches toward the parapet. Guests crowded away from the table. My best friend had both hands around the second post and the expression of a man losing an argument with weather.
+“Something like what?” Coralie asked.
 
-“Everyone inside,” my wife said.
+The hall quieted around the question. Even the family with the mittens had gone. Only the two bread regulars remained, slowly putting on their coats.
 
-Nobody moved for one beat. A guest nearest the door looked from her wings to me.
+Tomas faced her. “Avian demi-human was my first guess. Then you told me one of your parents didn’t have wings, so I thought maybe hybrid, or a transformation that settled. I knew those weren’t exact.”
 
-“Did you say she’s an angel?” he asked.
+“You knew they weren’t exact,” Julian repeated.
 
-Another guest had already lifted a phone.
+Coralie raised one finger. Julian shut his mouth.
 
-“Put that down,” my wife said.
+One of the bread regulars approached with the tied bag. “Same time next week?”
 
-The phone disappeared.
+“Same time,” Coralie said.
 
-“Can you stop this?” someone else asked her.
+“Do you need help with the tables?”
 
-“No.” She pointed at the access room. “Inside. Now.”
+“We’ve got them.”
 
-The grieving guest rose first. That broke the hesitation. Coats, plates, and bodies squeezed through the narrow doorway. Questions started anyway—was angel literal, did that mean she could fly in this wind, was the warm feeling coming from her? They tangled with apologies before any of them became full sentences.
+The regular looked from Coralie to Tomas to Julian, registered enough to know she wanted no part of it, and buttoned her coat. “Good night, then.”
 
-The loose edge of the canopy cracked like a flag.
+Her companion was already holding the door. They left together without smiling at anyone.
 
-My wife stepped beneath it and caught the leaning ridge pole against her shoulder. “Get the west release.”
+Tomas waited until they were outside. “I didn’t want to make you explain yourself.”
 
-I ran for the black webbing. The cake table stood over it.
+“So you picked an explanation and kept it.”
 
-“Can’t she just fly it down?” the guest with the phone called from the doorway.
+“I picked a possibility.”
 
-“Not while it’s tied to the roof,” I said.
+“For seven years?” Julian said.
 
-“And attached to me,” my wife said.
+“Julian.” Coralie didn’t look at him. “Sweep under the bread table.”
 
-The canvas dropped hard across her left side. She opened that wing by reflex, and the cloth wrapped over the outer half of it. The next gust pulled both toward the parapet. Her shoes slid. The ridge pole jumped against her shoulder.
+“You want me to—”
 
-“Do not pull my wing,” she said. Her voice had gone flat with effort. “Cut the black strap when the cloth slackens.”
+She handed him the broom.
 
-The release lay beneath the cake table’s back leg. I could crawl under, feel for the buckle, and perhaps save the table. I could also watch the fabric twist another row of her feathers backward while I did it.
+He took it.
 
-I shoved the table aside.
+The bristles scratched across the floor. Tomas moved a chair out of Julian’s path, then another. His need to keep doing useful things was so familiar that Coralie could have followed it through a dark house.
 
-The anniversary cake hit the roof in its box. Something inside made a soft, expensive collapse.
+She finished covering the carrots. She labeled them with the date. She wiped a bead of sauce from the edge of the counter. Only then did she say, “Angel is the truthful word for me.”
 
-For one second the canopy bellied upward. The black webbing went loose. I cut it.
+Tomas nodded once.
 
-The west side spilled down, but a fold remained cinched around my wife’s wing. I knew better than to tug. I slid one hand beneath the taut cloth, found the long outer feather trapped against the ridge cord, and cut through my beautiful stitched seam six inches above it.
+“It doesn’t prove whatever Julian thinks he has proved. I don’t make people happy. I don’t know who deserves what. I can’t heal anyone, and I’m not going to answer questions about heaven while the rice pans are soaking.”
 
-Air burst out of the canopy. The cloth fell around us.
+Julian swept faster.
 
-My wife folded her freed wing in sections, testing each joint. Rain began as a scatter of cold dots on the striped canvas.
+“I wouldn’t ask you that,” Tomas said.
 
-“Anything broken?” I asked.
+“You didn’t ask me anything.”
 
-“Not me.” She looked past me at the cake box. White icing had begun to press through one corner. “The lemon layer may require prayer.”
+He looked down at his hands. A damp crescent darkened one cuff where he had leaned against the sink. “I thought that was respect.”
 
-The guest in the doorway made an uncertain sound.
+Coralie let her wings loosen. The relief was immediate and edged with pain. Feathers brushed a chair on one side and the counter on the other. Tomas moved the chair away, then stopped with his hand still on its back, as if even that small competence might now be evidence against him.
 
-She turned her head. “No.”
+“Moving the drying rack lower was respect,” she said. “Telling your aunt not to touch my wings was respect. You could still have asked what I call myself.”
 
-“I didn’t say anything.”
+“Would you have answered?”
 
-“You were about to.”
+There it was: not an accusation, exactly. The first true question, arriving late and carrying all the others behind it.
 
-For once, nobody argued with her.
+Coralie considered lying to make the balance cleaner. “I don’t know. When we met, maybe not.”
 
-She sent the guests home. She told them the roof was unsafe, the party was over, and they could take the food that had not been crushed. One person apologized four separate times while putting on the same sleeve. Another asked whether they should forget what they had heard, then apologized for asking. The grieving guest paused beside my wife and said only, “Thank you for the chair.” My wife squeezed her hand. The friend put on her coat and left without a smile.
+“And after?”
 
-My best friend remained after the others had filed downstairs. Water ran off his hair and down his nose.
+“After, I kept waiting for a way to say it that wouldn’t turn me into a lesson. Then I liked that you didn’t care about the impressive parts.” She flexed her aching left wing and heard one of the coverts tick against a chair rung. “Then it got embarrassing that I’d waited. So I waited more.”
 
-“I should have kept my mouth shut,” he said.
+Tomas absorbed this without reaching for it. His arguments had run out; she could see the discomfort of empty hands.
 
-“You should have checked whether the door was shut,” my wife replied.
+Julian paused with the broom. “For what it’s worth, I didn’t ask either. I heard angel and started pointing at things.”
 
-“That too.” He lifted the ruined lantern cord. “Do you want help?”
+“You did,” Coralie said.
 
-She looked at the roof, the rain, and me. “Take the speaker inside. Then leave us the forks.”
+He nodded, took the dustpan from its hook, and went back to work.
 
-He obeyed.
+Tomas pulled out a chair but did not sit. “What do you need me to understand tonight?”
 
-When the door closed behind him, the roof became quiet except for rain ticking on canvas. My wife sat on the overturned cake table. The tightness in her face had outlasted the danger.
+The narrowness of it helped. Not everything. Not forever. Tonight.
 
-“Left wing?” I asked.
+“That not making me explain myself isn’t the same as leaving room for me to tell you.”
 
-She turned to give me access, careful and unsmiling.
+His fingers tightened around the chair back. “All right.”
 
-The outer primary was whole. Two smaller feathers had crossed under it, their barbs ruffled where the canvas had dragged them. I took the narrow comb from my tool pouch and worked from the tips inward while she held still. Rain darkened the shoulders of her dress. The warmth around her had drawn close to her skin, no wider than breath on glass.
+“And don’t say it doesn’t matter.”
 
-“You threw my cake,” she said.
+“I wasn’t going to.”
 
-“The table was on the release.”
+“You were.”
 
-“I saw.”
+“I was going to say it doesn’t change why we’re married.”
 
-“I can buy another.”
+Julian made a small sound and became extremely interested in crumbs beneath the table.
 
-“Not tonight.”
+Coralie looked at Tomas. “Why are we married?”
 
-I eased the last feather back into its proper overlap. “No.”
-
-She flexed the wing once, then folded it. “Thank you.”
-
-I put the comb away. “I’m sorry.”
+He answered too quickly. “Because I love you.”
 
 She waited.
 
-“I kept calling it politeness because that sounded better than guessing,” I said. “I wondered, made up an answer, and stopped before the part where I asked you.”
+Tomas exhaled. “Because you came back after our first dinner, even though I burned the rice and blamed the pot. Because you ask for what you want until I stop pretending I can’t hear it.” His gaze dropped to the badly folded foil at the counter. “You remember the lemon and the pepper, and you still lose your keys twice a week. I wanted all of it. I still do.”
 
-“Yes.”
+Coralie’s throat tightened, which was inconvenient but not persuasive by itself.
 
-“I should have asked.”
+“Those are reasons,” she said. “They don’t answer what you thought I was.”
 
-“A long time ago.”
+“No.” Tomas sat at last. “They don’t.”
 
-Rain found the back of my collar. I kept my mouth shut.
+He did not reach for another defense. That mattered.
 
-“I am still angry,” she said.
+Julian finished sweeping and carried the dustpan to the bin. On his return, he lifted the last two chairs onto the bread table. He kept his eyes on the chair legs.
 
-“I know.”
+“I can lock the rear door,” he said.
 
-“I’ll probably still be angry tomorrow.”
+“Please,” Coralie said.
 
-I nodded.
+He checked the door, turned off the kitchen light, and collected his coat. At the front entrance he hesitated, visibly searching for something that might release them all from the evening.
 
-“If you wake me early to apologize again, I will throw you out of bed.”
+Nothing arrived.
 
-“I’ll wait until you’re awake.”
+“I’ll bring the good coffee next week,” he said.
 
-Her mouth moved, almost a smile and not yet one.
+“Not the dark roast,” Tomas said.
 
-I rescued the cake box. The bottom had gone soggy, but the lid opened. The lemon layer had slid sideways into the chocolate layer and taken most of the sugar flowers with it. My wife stared down at the wreckage.
+Julian looked at Coralie.
 
-“Forks,” she said.
+“Not the dark roast,” she agreed.
 
-We ate standing beneath the shallow shelter of the access-room overhang. She took the lemon side. I took whatever she pushed away. The cake had acquired a little rain and a lot of cardboard, but the middle was excellent.
+He left.
 
-After several bites, she nodded toward the door. “Where is the speaker?”
+The hall felt larger without him, though he had never occupied much space. Tomas checked the stove. Coralie counted the leftover cartons. They worked separately, not performing anger and not pretending it had passed. When Tomas reached for her coat, he held it open low enough that she could guide her wings through the split back herself.
 
-“Inside. The party is over.”
+Outside, rain had thinned to a cold mist. Their building stood one block away. On clear nights Coralie sometimes flew that block for the pleasure of landing on their roof, but wet feathers doubled the work, and her left wing had been trembling since the man came back for his cap.
 
-“The guests left. Our anniversary did not.”
+Tomas walked on her right, the side where the pavement narrowed around three overfilled bins. He did not take her elbow. He only moved outward so she had room.
 
-I looked at the wet roof and the canopy lying in striped folds across our intended dance floor.
+At the corner he said, “Was any of my guess close?”
 
-“You still want the dance?”
+Coralie watched rain bead on the barbs of her outer feathers. “Close in appearance.”
 
-“I am angry with you. I did not donate the entire evening to your stupidity.” She cut a sugar flower in half with the side of her fork and gave me the smaller piece. “Get the speaker.”
+He waited.
 
-At the door, I stopped. “Can I ask you one thing first?”
+“Not in flight.” She tucked the wing in before it struck a signpost. “The wings do the work, but they aren’t all of it. If I’m emptied out, muscle won’t get me off the ground.”
 
-“A question,” she said. “Not another theory.”
+“Emptied out how?”
 
-“Do you like being an angel?”
+“I can’t give you a useful answer yet.”
 
-She looked out at the rain. Her right wing opened a little, catching the damp current without lifting her from the roof.
+“All right.” After half a block he asked, “Does anything help?”
 
-“I like flying when the wind is not trying to upholster me,” she said. “I like the warmth when a tight room eases enough that someone can laugh if they want to. I hate when they call that happiness and blame me because they are still sad. I cannot choose it for them.”
+“Quiet first. Then hot tea.”
 
-She ate the rest of the sugar flower.
+He nodded.
 
-“I chose the word after I came here,” she added. “It fits me better than the others did. The rest is not a first-anniversary story.”
+In their entryway, Tomas turned on the lamp and went past the kettle without touching it. Coralie hung her coat, took the wooden comb from the shelf, and held it out to him.
 
-“All right.”
+He accepted it by the handle. “Long feathers?”
 
-I fetched the speaker.
+She opened her left wing across the room, leaving him just enough space to kneel beside it.
 
-We found one dry patch inside the access room, between the mop sink and the breaker panel. Our first-dance song sounded terrible through a wet speaker. My wife put one hand on my shoulder and opened her wings as far as the walls allowed. I kept my hand below the newly combed feathers.
-
-Halfway through the chorus, the lantern timer finally connected somewhere out on the roof. A dozen soaked paper globes flashed once behind the little window, bright as a bad idea, and went dark for good.
-
-My wife laughed. The cramped room eased around us.
-
-A moment later she stepped on my shoe, blamed the floor, and kept dancing.
+“Start at the outside,” she said.
