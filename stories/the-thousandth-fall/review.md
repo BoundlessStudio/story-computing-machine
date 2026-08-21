@@ -6,13 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Cavori | new | Monk-healer protagonist; no exact, alias, close-spelling, phonetic, or confusing reuse found in relevant canon, the frozen legacy baseline, locked legacy prose, or passing current reviews. |
+| Sakta | new | No exact, alias, close-spelling, or confusing reuse found. |
+| Javo | new | No exact, alias, close-spelling, or confusing reuse found. |
+| Gatria | new | No exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The monastery, infirmary, cliff road, lower bend, and other settings remain generic and unnamed. |
+| None | none | The story contains no named place. |
 
 ## Continuity
 
@@ -27,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Cavori's unmarked rescue plunge is the thousandth fall; his locally observed self-healing remains under living agency, and the rope team retains necessary rescue agency.
+- Notes: The story materially demonstrates Sakta's strength, stamina, and speed, then resolves their consequences through coherent local healing limits, the disputed count, and the stair rescue. Sakta's sequence bargaining, Javo's terrain-based corrections, and Gatria's clinical conditions remain distinct through pressure and the practical final exchange.
