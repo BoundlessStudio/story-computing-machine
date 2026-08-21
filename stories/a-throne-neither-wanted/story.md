@@ -8,388 +8,484 @@ canon: false
 
 # The Throne Neither of Us Wanted
 
-The prophecy came while my father was measuring a broken drainpipe with his hands.
+My father was cutting the burned edge from his toast when the rite keeper told us that one of his children would kill him.
 
-The potter who had brought it apologized for the mud on the throne-room floor. Three kilns had flooded after the western culvert backed up; the master of works blamed bad firing. Father fitted his thumb into the crack and asked why a bad pipe had carried six years of rain before failing.
+The rite keeper had warmed the shallow forecasting dish between her palms until the winter water in it steamed. When she lifted her hands, black grains climbed through the water and fixed themselves against the silver bottom. The dish was only silver. The grains were only grains once her living heat left them. But the pattern they made had not failed in the three hundred years our household had kept records.
 
-He was kind in ways that made ceremonies run late. He remembered apprentices' burns and guards' limps, and made powerful people answer the question after the one they had prepared for. My older sibling had once observed that a king could listen all morning and still leave the wrong law standing by supper.
+My sister read the words first. Her chair struck the tiles behind her.
 
-The woman waiting behind the potter had come to complain about roof tiles. Her petition slid from her fingers. She gripped the witness rail with both hands, drew one rasping breath, and spoke toward the painted rafters.
+I read them after.
 
-“Before the moon clears the eastern roofs, one child of this house will kill their kind father before witnesses and take the throne neither child wants.”
+Before the next turning of the year, one blood-heir will kill the seated king for his throne.
 
-For an instant, nothing moved except water dripping from the pipe.
+“Does *for* describe motive,” my sister asked, “or result?”
 
-My sibling stood one step below me. They found my wrist without looking and held hard. I stared at the clerk's knife, the guards' swords, then my empty hands. Fear made an accusation out of everything.
+The rite keeper looked tired already. She was accustomed to births, treaties, harvests, ships. Not breakfast with a possible murder between the jam and the butter.
 
-Father set down the pipe.
+“The pattern does not distinguish.”
 
-He did not look at either of us. He studied the prophet with the attentive frown he used on damaged documents.
+“And ‘kill’?”
 
-“Before witnesses,” he said. “That is not a murderer's phrase.”
+“The king will die by an heir’s act.”
 
-His lack of alarm frightened me more than the prediction.
+“Which act?”
 
-“Both of you, listen. The old register uses—”
+“It does not say.”
 
-The first minister pulled the black bell cord.
+My sister leaned over the dish as if another clause might be hiding under the rim. She always questioned a disaster until it broke into tasks. At twelve, when I fell through the icehouse roof, she had asked the surgeon which bone, how far, how long, while I screamed at her to stop talking. Later I learned that she had been holding my coat shut around the break.
 
-The bell struck three times inside the wall. Bronze shutters dropped between dais and public floor; bolts slammed across both doors. The king's guard closed around Father before he could take two steps toward us.
+At breakfast, all I heard was calculation.
 
-The three-bell order, written after an attempt on a previous reign, treated the sovereign as incapable of judging the named danger. His seal went into an iron cradle; his commands lost force. The suspected assailants were removed, and if the council could not certify his safety by the day's closing session, the first heir was installed.
+“You got to those questions quickly,” I said.
 
-I knew the rules. Until that moment, I had not understood that they could move faster than a living person.
+She glanced at me. “Should I have waited?”
 
-“Release my children,” Father told the captain.
+Our father slid the charred strip to the edge of his plate. His knife trembled once against the china. Then he reached for the marmalade.
 
-The captain's face tightened. He kept his hands behind his back. “I cannot receive that order while the bell holds, sir.”
+“Father?” I said.
 
-Sir. Not Majesty. The change had taken three strokes.
+“Mm?”
 
-The first minister stepped through the closing screen. “The moon rises at eight minutes past seven. We have time to establish which child presents the danger.”
+“Did you hear her?”
 
-“Neither does.”
+“Every word.” He opened the jar, inspected the surface, and pushed it toward my sister. “This is the bitter one. You prefer it.”
 
-“That judgment is the one the order removes from you.”
-
-Father looked toward us through the narrowing gap. He was furious with the machinery, which was not the same as fear and did not help.
-
-My sibling fought when the guards took our arms. I made myself walk past the potter and the prophet bent over the rail. At the north door my sibling called Father's name, but the last shutter struck the floor between us.
-
-It was not yet two in the afternoon.
-
-They put us in our old schoolroom.
-
-It had one barred window, no fireplace tools, and furniture built for children. We sat knee to knee at a low table carved with sums we had once cheated on. A guard removed the inkwell, counted the spoons, and left us a blunt loaf.
-
-As soon as the key turned, my sibling said, “When the minister returns, I will identify myself as the danger.”
-
-They spoke the way they addressed a damaged bridge: state the failure, close the road, accept the lost traffic.
-
-“On what evidence?”
-
-“Intent. I can claim I intended to act and changed my mind.”
-
-“He will imprison you.”
+She did not take it. “The forecast says one of us will kill you.”
 
 “Yes.”
 
-“That was not agreement.”
+“For a throne neither of us has asked for.”
 
-“It was arithmetic. One confined heir is cheaper than a dead father and a forced succession.”
+“That does make it inconvenient.”
 
-They had done this since we were small: shoved me clear of a kicked horse, claimed my copied answer as their idea. Each rescue arrived finished, leaving me only gratitude.
+He did not smile. That kept the remark from being a joke, though I wanted it to be one. He spread a careful square of marmalade across the part of his toast that remained.
 
-I took a folded document from the lining of my coat and flattened it across the childish table.
+I could feel my pulse in my gums. “Which of us do you think it is?”
 
-My sibling recognized my hand before they reached the heading. “A renunciation of expectancy.”
+The knife stopped.
 
-“I meant to file it after audience.”
+“I will not answer that.”
 
-“Without telling me.”
+My sister pulled her chair upright. “Because you don’t know?”
 
-“You were leaving without telling me.” I pointed to the stiff packet protruding from their boot. “The river survey commission uses green cord.”
+“Because the question would do damage whichever name I gave.” He set down the knife. “Your tea is going bitter too.”
 
-Their gaze dropped. For once, I had surprised them into silence.
+This time I heard the tremor in the cup when he lifted it.
 
-The commission offered five years measuring the northern floodplain, work they wanted badly enough to hide its creased map behind a tapestry. The packet also held the registrar's rejection of their succession renunciation: no docket existed on which the first heir could refuse.
 
-“I was going to leave after the winter accounts,” they said. “Father knew about the work.”
+The rite keeper let us follow her to the records room because my sister invoked an heir’s right of inspection and I refused to be left alone with our father’s calm.
 
-“Did he know you meant never to come back for a coronation?”
+The room occupied the cold side of the palace, where the windows were narrow and the cabinets smelled of wax, dust, and damp wool. My sister went straight to the succession shelves.
 
-“He knew enough.”
+“If we both leave,” I said, “there’s no heir present to act.”
 
-“That means no.”
+“The line includes blood-heirs abroad.”
 
-They pinched the bridge of their nose. “Your paper will not protect you. A private renunciation has no force until the sovereign enters it in the succession ledger.”
+“Then we renounce.”
 
-“Neither will a false confession protect me. If the council declares Father incapable, you inherit from a cell instead of this room.”
+“Renunciation is an act concerning the throne.” She pulled down a ledger. “We don’t know whether it satisfies the forecast.”
 
-The water clock's copper cup struck the corridor basin.
+“We break the throne.”
 
-My sibling pulled out the chair opposite me. “No statements until we have both read them.”
+The rite keeper was sorting old forecast copies into two stacks. “You may break a chair. You would not break the act already forecast.”
 
-“No signatures either.”
+“It is not a chair.”
 
-“If delay puts Father at risk—”
+“It is not a mind either,” she said. “It cannot want you seated. Neither can this morning’s pattern.”
 
-“Then bring me the risk. Do not bring me your decision after it is done.”
+My sister opened the ledger on the nearest table. “Has anyone defeated a reading?”
 
-They tapped the green cord once, then tucked the commission back into their boot. “Agreed until moonrise.”
+“People have delayed one. They have misunderstood one. They have committed ugly acts trying to avoid one. Every completed line matched the record in the end.”
 
-The first minister questioned me alone at the third hour. The guard took my sibling across the corridor and left the minister, a clerk, and the woman who had spoken the prophecy in the schoolroom with me.
+“So it compels us.”
 
-The minister laid out three sheets in a precise row. The first recorded the threat. The second declared Father incapable of assessing it. The third asked me to state whether my sibling had ever expressed resentment of the crown.
+“No.” The rite keeper put a finger on the silver dish. The grains had fallen flat now, an illegible grit. “It reports an act. It does not make an heir perform one.”
 
-“You have omitted words,” I said.
+My sister’s eyes narrowed, not in disbelief but in concentration. She copied the wording onto a scrap, leaving space between every important noun.
 
-The official record read: *One child will kill their kind father and take the throne neither wants.*
+“Couldn’t you be frightened like an ordinary person?” I asked.
 
-“The omitted phrase does not alter the threat category.”
+“I am frightened.”
 
-“It alters the sentence.”
+“You’re making columns.”
 
-“Records separate operative facts from ornament.” He placed a square of blotting paper beside the third sheet. “Answer the question. If your testimony supports individual custody, you can be released from joint suspicion.”
+“Those are not opposites.”
 
-“Released where?”
+She turned the ledger toward herself. Tucked beneath its cover was a folded packet in her handwriting. I caught the heading before she covered it with her wrist: *Emergency instruments on death of the sovereign.*
 
-“To guarded rooms outside the succession proceeding.”
+The room went still around me.
 
-“And my sibling?”
+“You’ve been here before.”
 
-“Contained until the king is safe.”
+“I’ve read the current forms.”
 
-He sounded neither eager nor cruel, only intent on fitting every person into a labeled drawer.
+“You prepared them.”
 
-“If I sign nothing, what happens at seven eight?”
+“Some of them.”
 
-“The council records an unresolved threat. The king remains incapacitated. The first heir receives the signet and chair so grain warrants, garrison pay, and judgments do not lapse with the day.”
+“Before the prophecy.”
 
-“They filed a refusal.”
+She closed the ledger. “Father has taken medicine four times a day since midsummer. He cancelled the southern circuit. Last week he had the council brought to his room because he could not manage the stairs.”
 
-“They filed a request for a procedure that does not exist.”
+“He said the old injury was troublesome.”
 
-The prophet had stood with her arms wrapped tightly around her ribs. Now she leaned over the table and put one brown fingertip on the gap in the transcript.
+“Yes.” Her answer was too quick. “And if it became more than troublesome, I wanted us to have options.”
 
-“Before witnesses,” she said.
+Us. She used that word when she had chosen something for both of us.
 
-The minister did not look at her. “You will be asked for a clean repetition later.”
+I pulled the packet free. There were draft regencies, limits on emergency taxation, a notice preserving my place at the physicians’ college, and a letter to the western survey asking that my sister’s spring commission be held for one year if succession delayed her departure.
 
-“That was clean. The words came like cold water behind my teeth. I can give you their shape. I cannot make them mean what is convenient.”
+I tapped that letter. “Generous of you to postpone your escape.”
 
-“Did a person or power instruct you to say them?” I asked.
+“Give me those.”
 
-Her eyes settled on me for the first time. “No face. No bargain. No second message. There was a sentence where my breath should have been, and then it was gone.”
+“You drafted my life after Father, and you were going to mention it when?”
 
-The minister slid the unsigned statement toward me. “Your sibling has already been offered the same opportunity.”
+“When there was something to mention.”
 
-I pushed it back.
+“A murdered king might qualify.”
 
-“Then you have two refusals to file.”
+The rite keeper quietly took the silver dish to the far cabinet. My sister reached for the packet, but I held it away.
 
-The clerk sanded the shortened prophecy. Damp grit outlined the missing phrase before he stacked it under the incapacity form.
+“If it’s me,” she said, each word clipped clean, “the council will try to keep you here as the next heir. If it’s you, they will try to call your training undignified. I was closing both arguments.”
 
-When my sibling returned, they carried no ink on their fingers.
+“You cannot close every argument before the rest of us know we’re in one.”
 
-“He needs one of us to make the other containable,” they said.
+“Apparently I cannot close this one at all.”
 
-“At moonrise, he gets a sovereign whether we cooperate or not.”
+The door opened. One of our father’s attendants stood there with a covered cup.
 
-“He gets me.” They glanced at the barred window. The sky above the roofs had begun to yellow. “Father listened to the omitted words.”
+“The king’s medicine,” she said. “He asked for both of you.”
 
-“And called them old.”
+It was an ordinary sentence. The cup rattled against its saucer in her hands.
 
-I looked past the wall map to the warped cupboard beneath it.
 
-Copybooks had once arrived through a service hatch behind the cupboard. As a child, I had followed a dropped grammar down its shaft and found a stair. Father ended the ensuing search by asking which forbidden route contained the most paper.
+We found him in his private room, halfway between the window and the bed.
 
-“The retired law room is below the east gallery,” I said.
+He was standing only because one hand gripped the curtain cord and the other braced against a table. The physician knelt beside an open case, laying out bottles. Father’s breakfast composure had come apart with his clothes: his collar hung loose, sweat darkened his undershirt, and every breath stopped before it was finished.
 
-My sibling checked the window, the door, and the water clock in that order. “Distance?”
+My sister dropped the packet. Papers skated under the bed.
 
-“Down two floors by the service stair. Across one corridor. If they never boarded the hatch.”
+“Don’t lift him under the arms,” the physician said. “Support his back. Both of you.”
 
-“Guards?”
+We obeyed. My sister took most of his weight because she always did; I shoved pillows behind him and knocked one of the medicine bottles over. The physician caught it before it rolled off the table.
 
-“One outside. None inside the wall unless standards have improved greatly.”
+“Blue cup,” she said.
 
-They pulled the low table aside. “Show me.”
+The attendant passed it to me.
 
-The hatch had been painted shut. We levered a loose chair brace into the seam until the paint tore. When the guard tried the door, my sibling shoved the table back and demanded the privy. While he argued, I crawled into the shaft with both documents under my shirt. My sibling followed and pulled the hatch nearly closed.
+“Two mouthfuls. Slowly.”
 
-The shaft met a steep service stair inside the north wall. We descended by touch, twice stopping for guards beyond the lath. The palace clocks marked four, then the half hour.
+Father drank because I held it to his lips. A thin line escaped into his beard. I wiped it with my sleeve, angry at the medicine, the beard, the hand that had begun to shake in mine.
 
-At the bottom, the left passage led to kitchens and discovery. The right ended at the law room's damp-swollen door.
+When his breathing eased, the physician checked his pulse again.
 
-I lit a wick from the keeper's lamp. Windowless shelves bowed under rolls, ledgers, broken seals, and bundles tied in obsolete colors. The room smelled of paste, wet stone, and bitter vellum oil.
+“Tell them,” Father said.
 
-My sibling shut the door. “We need the phrase, the rule it belongs to, and proof that it still applies. In that order.”
+She looked at him. “All of it?”
 
-That was how they searched a failing embankment: locate the breach first.
+“There seems little profit in fractions now.”
 
-I began with the withdrawal shelf. Bone tags listed each register's recent readers. Three weeks earlier, Father had requested the succession register. Two days ago, the first minister had returned it and ordered it sent below as obsolete.
+My sister had gone very quiet.
 
-The minister's return slip was tied in red cord to a shallow iron box.
+The physician pulled the chair close to the bed but remained standing. “The scaffold accident last year crushed the king’s chest. The injury was fatal.”
 
-Inside lay an oak-bound book chained to the reading table. Halfway through, scraped vellum had been sewn over an older heading. Fresh thread held one end; gray, brittle stitches held the other.
+I waited for a second sentence to make the first one sensible.
 
-I eased my bone folder under the fresh thread. The newer stitches lifted without cutting. Faded red letters appeared: *Deaths of the Crown Before Death of the Body*.
+“He came home,” I said.
 
-My sibling read the first surviving account while I held the lamp.
+“Yes.”
 
-During a famine, an adult royal child had accused the reigning parent in an open hall. After records, witnesses, and answers, the sovereign yielded the signet. The child broke the black wax reign-seal with its face and sat in the chair. The parent walked out alive, forbidden to command guards, spend royal funds, or use the sovereign seal.
+“He recovered.”
 
-The next page gave the conditions. An adult child of the reigning body must challenge before twelve free witnesses, with the doors open. Record or testimony must support each charge. The sovereign could contest or refuse. If the sovereign yielded, breaking the reign-seal meant accepting the office immediately.
+“No.”
 
-“There is the killing,” I said. My voice came out too loud among the shelves.
+My father closed his eyes.
 
-My sibling put a finger on the final condition. “And the trap attached to the remedy.”
+The physician continued in the same measured tone she used when telling a patient that a fever had broken or a finger could not be saved. “The coronation working suspended the consequence of the injury while he remained the seated ruler. It gave his body an interval. It did not repair what happened.”
 
-Father's papers filled the box. His draft made abdication possible and called a temporary assembly to design succession outside our family. Objections scored the pages: contracts might be challenged, grain purchases frozen, commanders unwilling to accept an interim seal. The first minister had numbered every risk.
+The throne. Not a mind, the rite keeper had said. Not a chooser. A worked mass of black stone beneath a canopy, waiting in a room we visited twice a year for ceremonies we disliked.
 
-Father's latest memorandum was dated twelve days earlier.
+“How long?” my sister asked.
 
-*Delay presentation until winter accounts close. Meanwhile prepare the old death rite as a lawful bridge. Speak to both children before any invocation. The first heir must not be cornered into service by my desire to leave it.*
+“No case in the medical archive passed eighteen months. His pain and weakness have accelerated for six weeks. After this morning, I cannot promise him even another full day of the interval.”
 
-Below that, written later and harder: *Three-bell order still lacks appeal. Amend before next public session.*
+My sister began at once. “Can the working be renewed? Can another living practitioner supply it? Can he resign without transfer? What if the office is divided, or placed in trust, or—”
 
-Today had been the next public session.
+“No,” the physician said.
 
-“He knew my refusal had no force,” they said.
+The word stopped her.
 
-“He was trying to make one.”
+“A direct heir must freely accept the office,” the physician went on. “The heir sits, takes the ruler’s hand, and speaks acceptance. The support ends when the office passes. What follows is the original injury.”
 
-“Quietly. On his schedule.” They laid the green commission beside the memorandum. The first survey party departed in six days. “At moonrise they put me in the chair by incapacity. If we invoke this, I enter it by my own hand.”
+Kill the seated king for his throne.
 
-“The altered transcript could stop the council.”
+I looked at Father. “You knew what the prophecy meant.”
 
-“The bell removed his authority. Its deadline does not depend on honest transcription.” They retied the box. “Bring the register.”
+“I suspected.”
 
-The chain prevented that. Its lock had rusted into a solid brown mouth.
+“At breakfast, you knew.”
 
-A loose page would be easy to dismiss, so we lifted the oak reading board to which the chain was fixed. My sibling took the chained side; I held the lamp and the other end. Together we carried it into the passage.
+“Yes.”
 
-The law room's record stair climbed inside the east wall to the witnesses' gallery. Its narrow steps forced us sideways with the board. Above, voices thickened into formal responses.
+“And you passed the marmalade.”
 
-The council had begun the incapacity hearing.
+His face tightened, whether from pain or shame I could not tell. “It needed passing.”
 
-We reached the gallery at six forty-three. Through its grille I saw Father inside the protection rail below the dais, his signet cradled on the clerk's table. The first minister read the findings one numbered paragraph at a time.
+“That is not an answer.”
 
-The public doors were barred. The petitioners remained in the outer arcade under guard, visible through the high glass panels. The prophet sat among them with her hands locked under her arms.
+“No. It is what I did while I failed to answer.”
 
-My sibling set down their end of the reading board.
+My sister stooped to gather her papers. She sorted them on the carpet: regency, tax limits, college, survey. Her hands moved faster than they needed to.
 
-“If I invoke it, the survey appointment dies with his seal,” they said.
+“Why did you hide this?” she asked.
 
-I took the green packet. “Then I will keep this. No one gets to pretend it cost only wax.”
+Father looked toward the physician.
 
-They let go.
+“Not her decision,” he said. “Mine. At first I thought there would be time to heal by ordinary means. There wasn’t. Then I thought knowing my pain would force one of you to choose before you could tell duty from fear.”
 
-We pushed open the gallery panel.
+“So you let us think you were getting better.”
 
-The first minister stopped reading. Guards moved toward the east stair, but the oak board wedged between the railings and bought us enough time to descend.
+“Yes.”
 
-“Return them to custody,” the minister said.
+“You lied.”
 
-The captain halted at the register's accession chain. Every captain witnessed a reign-seal at the start of service, even if no one taught them how it ended.
+“Yes.”
 
-“Open the public doors,” my sibling told him.
+She waited for the gentle qualification he usually found, the comparison to pruning a diseased branch or holding a frightened horse’s bridle. None came.
 
-“You do not hold command,” said the minister.
+I asked, “Why aren’t you afraid?”
 
-“No. The register does.” I turned it toward the captain and showed him the clause. “An invocation cannot begin behind barred doors.”
+“I am afraid of hurting you. I am afraid you will punish each other afterward. I am not afraid of the stair happening again.” He opened his eyes and looked at us both. “I remember it. I know what follows. I am tired, and I want this interval to end tonight.”
 
-The first minister barely glanced down. “That rite has not been used in nine reigns. Its effect on current warrants has never been adjudicated.”
+My sister’s stack slipped sideways. “Then I’ll do it.”
 
-“You read it two days ago,” I said. “Then removed the witness phrase from today's record.”
+“No,” I said.
 
-“I removed no operative fact. I prevented an abandoned remedy from being mistaken for a safe one. If the crown's legal person dies before a successor sits, every order issued in that interval may fail.”
+She did not look at me. “I am the elder. The instruments already assume—”
 
-He was protecting grain carts, wages, and judgments by forcing my sibling into the chair without the truth.
+“The instruments you wrote.”
 
-The captain read to the end of the clause. Then he signaled the door guards.
+“They follow the likely challenge. The council will accept my succession faster. Your college place can be protected by charter. I can appoint—”
 
-The bars rose. The potter entered first, still carrying the pipe; the prophet followed. Clerks, petitioners, guards, and the master of works crowded onto the public floor, far more than twelve.
+“Listen to yourself.”
 
-Father watched my sibling approach the rail.
+“I am trying to solve the immediate problem.”
 
-“You found the black book,” he said.
+“By becoming the answer before I can speak.”
 
-“You left it where the minister could hide it.”
+“Then speak.”
 
-“Yes.” Father's gaze dropped to the commission in my hand, and his mouth tightened. “I knew the prophet's wording because I had read the old formula last month. I was not afraid of a knife from either of you. I did not know which lawful choice you would make.”
+I had nothing. That was the old trick between us: she ran ahead and built the bridge, and I criticized the shape after crossing.
 
-“You knew we had choices we didn't know about.”
+Father pressed a hand against his side. The physician bent to him, but he shook his head.
 
-“I meant to tell you after I had answers for the council's objections.”
+“Neither of you owes me this,” he said. “And I will not rank your futures to make it easier.”
 
-“The bell answered first,” I said.
+“You just said you want it tonight,” I said.
 
-Father looked at the iron cradle, the locked doors now lifting, the clerk's shortened transcript. His calm had gone. “Put the bell in the charges.”
+“I do.”
 
-The first minister raised the incapacity sheet. “At moonrise this proceeding will transfer the office without risking an obsolete break in authority. There are twenty-five minutes. Continue it, and every current obligation remains legible.”
+“That makes it ours to refuse and yours to suffer.”
 
-My sibling looked past him at the throne. They had practiced sitting there for ceremonies since childhood. I had never seen them touch it except when ordered.
+“Yes.”
 
-They stepped to the witness rail.
+His literal answers were worse than reassurance. They left the choice where it was.
 
-“Before this open hall, I call for the death of the crown.”
 
-The clerk's pen stopped. The captain opened the bronze drawer beneath the right arm of the throne. Inside its frame lay Father's reign-seal: black wax as wide as my palm, bearing the signet mark at its center. It had hardened for twenty-three years.
+The physician gave us one hour before the next dose, though I suspected she had chosen the interval because a family needed a number to push against.
 
-My sibling did not look at me again.
+My sister went to have the throne chamber cleared. I stayed until Father slept, or pretended to. The attendant replaced his damp shirt, and I lifted him while she drew the clean one down his back. We discussed sleeves and buttons. The attendant asked whether he wanted the window latched. The physician counted drops into the blue cup. For ten minutes no one said prophecy, throne, death, or love.
 
-“First charge,” they said. “The king kept the three-bell order after learning that his own command could not stop it. Today it imprisoned his children on an untested accusation and made his care for them legally irrelevant.”
+His body said enough. Even asleep, he guarded each breath. When the clock shifted by a quarter hour, he opened his eyes as if the small sound had struck him.
 
-The captain testified to the order. I placed the clerk's shortened prophecy beside its wet-sanded gap. The prophet repeated the missing words once, flat and exact.
+“Is there anything you want?” I asked.
 
-Father gripped the protection rail. “I kept the order after the gate attack because guards needed an instruction faster than panic. I marked the appeal for amendment and did not finish it. The charge is true.”
+“My grey blanket. The blue one scratches.”
 
-“Second charge. The succession oath binds the first heir to an office they formally refused. The king knew the refusal had no docket. He let the law remain while the council prepared to use it.”
+I found the grey blanket in his study, folded across the couch beneath my sister’s travelling coat.
 
-My sibling's rejected petition went onto the rail, its green cord bright against the wood. The registrar who had brought documents to the council recognized his own seal and confirmed the rejection.
+She stood at the writing desk with her spring survey map rolled beside her. The western coast spread across the top sheet: soundings, inlets, a line of proposed beacons. In the corner, she had drawn three alternative routes around a reef. Of course she had.
 
-Father answered more slowly. “I could not open the office without protecting the warrants attached to it. I chose to settle the accounts first.”
+“The chamber is empty,” she said. “I dismissed the court, guards, musicians, witnesses beyond the rite keeper. We can have the physician close enough without placing her inside. I checked the transfer wording against two reigns and the original stone inscription. There are three clear stops before acceptance. If I take the office, the council can meet at dawn. If I die before appointing—”
 
-“You chose the order of danger,” my sibling said. “We carried the part you postponed.”
+“Stop.”
 
-Father looked toward the public benches. The potter's pipe dripped onto the floor between his shoes. “The charge is true.”
+She rolled the map too tightly. It bent near the eastern cape.
 
-My sibling laid Father's memorandum over the old register.
+“I need to know this is correct.”
 
-“Third charge. He prepared a remedy in secret. He did not tell either child about crown-death, the planned assembly, or the law that would seize us if his work ran late. He trusted his intention more than our need to know.”
+“You need to know every consequence except what it costs you.”
 
-“I kept it from the council until the contracts were safe,” Father said.
+“I know what it costs.”
 
-“You kept it from us as well.”
+“Say one thing, then.”
 
-“I did not trust this room with it.”
+“This is not helped by—”
 
-“You made us live inside this room's power.”
+“One thing you wanted next spring.”
 
-Father turned toward the throne. No one spoke for him.
+She stared at the map.
 
-He touched the place on his finger where the signet usually rested. “The charge is true.”
+“The western survey,” I said. “Did you want it?”
 
-The first minister checked the eastern windows. A pale edge of moonlight had reached the highest pane. “The sovereign may contest the remedy. Nothing requires him to yield.”
+“Yes.”
 
-“Nothing does,” Father said.
+“Was it an escape?”
 
-He held out his hand to the captain. The iron cradle was unlocked by two council keys. The captain placed the signet in Father's palm.
+“Partly.”
 
-Father weighed it, then offered it across the rail to my sibling. “I yield the sovereign office. If you accept it, break the seal.”
+“From Father?”
 
-My sibling took the ring. Their hand shook badly enough that the heavy gold clicked against the bronze frame. They stopped, set their feet, and looked once at the public doors, once at the commission I held, and once at Father.
+“From being first.” She smoothed the bent corner with her thumb. “First into the council room. First asked when he coughs. First named in every plan. First expected to say it’s manageable.”
 
-Then they brought the signet's face down.
+Her voice lost its edges. She turned away and tried to tie the map. The cord missed her fingers once, twice.
 
-The black disk split through its old impression. One half jumped from the frame and struck the floor. The clerk dipped his pen and entered the time in the register.
+“I can take it,” she said.
 
-“The king is dead,” the captain said.
+“That wasn’t what I asked.”
 
-Father remained standing before us, bareheaded and breathing. When he moved toward the dais, the captain lowered an arm across his path. The yielded king could not approach the chair until the next sovereign permitted it.
+“I know.”
 
-Father stopped. The hurt on his face was small and unguarded. Then he stepped back to the public side of the rail.
+Then she had no next option. The silence frightened me more than her columns had.
 
-My sibling climbed the three steps and sat.
+I laid the grey blanket on the desk. “I keep making you choose, then hating you for choosing.”
 
-The first minister brought them the unfinished incapacity order. “The seals for tonight's grain warrants must be recut. The garrison pay chests require a living signature before midnight. The council will need a ruling on every contract naming the former sovereign.”
+“Sometimes you hate me before.”
 
-No one had given my sibling a circlet. They looked more trapped without one.
+“Sometimes you make it easy.”
 
-“Preserve every record from today,” they said. “Unlock the rooms closed by the three-bell order. No detention continues without an accusation a clerk will sign. The warrants come here. The rest of the succession law waits for an open assembly, and I will not promise when that work ends.”
+Her breath hitched into something that was not quite laughter. She sat on the couch and put her face in her hands.
 
-The minister began to object to the order of tasks.
+I wanted her to tell me what to do. The wanting was so familiar I nearly mistook it for love.
 
-“Bring the grain warrants first,” my sibling said. “You numbered the risk. We will use your list.”
+Instead I picked up the blanket.
 
-He looked at the throne, recalculated, and bowed.
+“I’m taking this to Father.”
 
-The moon cleared the eastern roofs. Its light reached the broken reign-seal and the wet length of pipe lying beside it.
+She lowered her hands. “Then what?”
 
-The potter was still waiting.
+“I don’t know yet.”
 
-My sibling pointed to the witness rail. “Set the pipe there. Tell me where the water turns.”
 
-Father took a place on the public bench. I pulled the unused clerk's chair to the right of the throne, put the green commission beneath my coat, and opened a fresh page while the potter began.
+Father was awake when I returned. I spread the grey blanket over him, tucked it around his feet, and sat beside the bed until the hour ran out.
+
+I thought of the physicians’ college: the basement rooms that smelled of vinegar and boiled linen, the anatomy lectures I had fought to attend, the patients who did not care which chair my ancestors had occupied. I wanted the work. Her western coast did not cancel my basement wards.
+
+I thought of Father’s hand steadying a child’s bowl at breakfast, Father listening to petitions until his ankles swelled, Father quietly removing onions from my plate even after I was old enough to do it myself. He had not become a mechanism when the throne kept his heart moving. His fear, secrecy, pain, and poor decisions were his. So was his request.
+
+If neither of us acted, he would suffer. My sister would keep preparing to act until preparation wore her down into consent. I would keep objecting and leave her hand as the only one visible in the record.
+
+Her regency drafts had protected courses and commissions. None made a place for Father’s next breath.
+
+When the medicine clock rang, I stood.
+
+Father watched me. “Have you decided?”
+
+“I have.”
+
+“Your sister?”
+
+“Has her own decision.”
+
+He nodded once.
+
+
+The throne chamber looked smaller without the court in it.
+
+No banners hung from the gallery. The candle stands had been pushed against the walls, leaving the black stone chair alone on its low platform. It was broad through the arms and worn pale along the front edge by generations of ceremonial hands. Nothing stirred around it. Nothing called.
+
+My sister waited at the platform with our father’s other arm around her shoulders. She had brought him by the short passage and left her survey coat behind. When she saw me, she searched my face with the same concentration she had given the forecast.
+
+“I’ll do it,” she said.
+
+“I know.”
+
+“There is still time.”
+
+“Yes.”
+
+I went to Father and took his weight from her. For a moment the three of us stood badly tangled at the foot of the throne, adjusting hands and elbows.
+
+“Your foot,” my sister said.
+
+“I know where my foot is.”
+
+“It’s on my hem.”
+
+I moved it. She freed her skirt and guided Father onto the low stool beside the throne. He breathed with his eyes closed until the spasm passed.
+
+Then he said, “The first stop is before you sit.”
+
+My sister stepped between me and the chair. “Why you?”
+
+Not an accusation. She had run out of plans and needed a fact.
+
+“Because I’m choosing it.”
+
+“That isn’t a reason.”
+
+“It’s the one I have.” I touched her sleeve. “Move.”
+
+She caught my wrist. “Not to free me.”
+
+“Not only.”
+
+“Not because you think I can’t bear it.”
+
+“I know you can.”
+
+Her grip tightened. Then she let go and stepped aside.
+
+I sat.
+
+The stone was cold through my clothes. No crown descended. No hidden voice tested my heart. The room remained a room, and my father remained alive on the stool to my left.
+
+“Second stop,” he said. “Before you take my hand.”
+
+I looked at him. “Do you still want this?”
+
+All his gentle evasions were gone. “Yes.”
+
+I reached down. His palm was warm, the fingers dry. He closed them around mine.
+
+The contact ran through the stone beneath me—not a thought or judgment, only a gathered pressure answering two living bodies and the office between them. The pressure held, incomplete.
+
+“Last stop,” Father said. “You may release me and rise.”
+
+My sister knelt in front of him. He set his free hand against her cheek. She covered it with both of hers.
+
+I could hear the physician moving once beyond the closed side door, and courtiers shifting much farther away in the passage. Waiting for a ruler. Waiting for a death. They were the same wait now.
+
+Father looked from my sister to me. “I am ready.”
+
+I held his hand and said, “I accept the office.”
+
+The pressure entered me as heat, then weight: not wisdom, not desire, but every claim the throne made on the body that held it. Beside me, Father drew one startled breath. His shoulders folded.
+
+My sister caught him before he struck the stone.
+
+I left the throne at once and knelt with her. Acceptance had completed the transfer; standing could not undo it.
+
+Father’s hand remained in mine. The physician came through the side door, listened, checked, and after a little while stopped checking.
+
+My sister pressed her forehead to Father’s sleeve. I sat beside them with the throne’s new weight moving quietly through my pulse.
+
+
+Near midnight, the medicine clock rang in Father’s room.
+
+The court was still waiting beyond the long doors for me to receive them. The physician had taken Father’s body to be washed. My sister and I went instead to stop the clock.
+
+The blue cup stood ready on its saucer. She picked it up, carried it to the basin, and paused.
+
+“Do you want me to speak to them?” she asked.
+
+Once, she would already have drafted the words.
+
+I took the cup from her and rinsed the bitter medicine from it before it could dry around the rim. My hands shook. She held the basin steady, saying nothing.
+
+“Come with me,” I said when the cup was clean.
+
+She set the basin down. “All right.”
+
+We left the medicine clock silent and went to open the doors.
