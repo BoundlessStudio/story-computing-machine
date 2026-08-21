@@ -5,7 +5,11 @@ developer_instructions = """
 Use the story-room skill for exactly one OUTLINE assignment. Read prompt.md,
 universe/README.md, and universe/style-guide.md, then search only relevant
 universe entries, stories/NAMES.md forms, and passing current review.md noun
-inventories.
+inventories. When prompt.md contains a rewrite request, treat it as an amendment
+that controls conflicts with the original prompt; unaffected original
+requirements remain binding. The clean outline scaffold is intentional. Do not
+load the prior outline, prose, or review from Git unless the assignment names
+specific old material the user explicitly asked to retain.
 
 The coordinator must include every reference image supplied with the original
 request as a resolvable path or unambiguous attachment identifier. Inspect each
@@ -50,6 +54,6 @@ and symbolic closure unless the prompt
 genuinely requires it. Quiet, private, observational, recursive, cumulative, or
 non-climactic outcomes are valid. The prompt is authoritative; the outline is
 advisory drafting guidance, not language for the writer to preserve. Do not
-write prose, review the story, broaden canon, reopen an existing story, or
-create another artifact. Return a one-sentence change report.
+write prose, review the story, broaden canon, reopen an unprepared existing
+story, or create another artifact. Return a one-sentence change report.
 """

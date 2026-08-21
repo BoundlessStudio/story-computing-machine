@@ -1,7 +1,8 @@
 # Story Computing Machine
 
 A small shared-universe story room. A `[WP]` prompt becomes four authored files
-and, after review, one title image:
+and, after review, one title image. An explicit rewrite updates those same
+artifacts in place while Git preserves the previous version:
 
 ```text
 prompt.md → outline.md → story.md → review.md → title-image.jpg
@@ -43,9 +44,14 @@ a separate explicit user decision.
 ## Repository map
 
 - `AGENTS.md` — the complete operating rules.
-- `.agents/skills/story-room/` — the workflow and its two scripts.
-- `.agents/skills/short-story-writing/` — the self-contained prose-craft skill
-  and in-place revision pass for prospectively scaffolded stories.
+- `.agents/skills/story-room/` — the create, rewrite, and review workflow plus
+  scaffold, rewrite-preparation, and validation scripts.
+- `.agents/skills/creative-writing-craft/`, `dialogue/`, and `prose-style/` —
+  pinned upstream prose, scene, dialogue, and line-level craft references.
+- `.agents/skills/story-analysis/`, `story-sense/`, and `sensitivity-check/` —
+  pinned upstream review references used within the repository review contract.
+- `skills-lock.json` — upstream skill sources and content hashes for restoration
+  and updates; `.agents/skills/THIRD_PARTY_NOTICES.md` records attribution.
 - `.codex/agents/` — the narrow outliner, writer, reviewer, and title-image roles.
 - `stories/_template/` — the four-file scaffold.
 - `universe/` — authoritative shared-universe facts and style constraints.
@@ -69,6 +75,39 @@ new prospective craft profile, local validation also enforces the compact
 outline ceiling and structured dialogue verdict. Both phases ignore locked
 legacy bundles; semantic noun extraction, dialogue judgment, and continuity
 judgment remain the reviewer's responsibility.
+
+## Rewriting a completed story
+
+A rewrite is available only for an explicitly named, completed current-format
+story with `canon: false`. Locked legacy bundles remain immutable; canon stories
+require a separate retcon or canon decision.
+
+After creating `codex/rewrite-<slug>` and its dedicated worktree, prepare the
+same four-file package with:
+
+```powershell
+pwsh -NoProfile -File .agents/skills/story-room/scripts/prepare-rewrite.ps1 `
+  -Story <slug> `
+  -Title "<fresh story title>" `
+  -Request "<verbatim rewrite request>" `
+  -Cover Auto
+```
+
+Cover policies are `Auto`, `Keep`, and `Regenerate`. Auto reuses the existing
+cover when it still passes a fresh visual comparison against the rewritten
+story and generates a replacement only when needed. Keep never generates a new
+cover automatically. Regenerate removes the old cover during preparation and
+requires a fresh image after the new prose passes review.
+
+Preparation preserves the original prompt and package identity, adds the rewrite
+request to `prompt.md`, and resets `outline.md`, `story.md`, and `review.md` to
+clean scaffolds. The ordinary OUTLINE, WRITE, REVIEW, and REVISE stages then run
+with the same upstream craft skills as a new story. Prior narrative artifacts
+are out of scope unless the rewrite request explicitly names something to
+retain; in that case, only the minimum relevant material is recovered from Git.
+The workflow finishes with optional cover replacement, final validation,
+recapture, commit, push, and a draft pull request. No backup prose or
+rewrite-history artifact is created.
 
 ## Pages
 

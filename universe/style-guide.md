@@ -88,9 +88,10 @@
     choice, consequence, revelation, release, return, interruption, or simply
     the point at which this particular story stops being.
   - For a prompt carrying `Craft profile: prospective-2026-08-08`, perform the
-    self-contained in-place revision pass in the `short-story-writing` skill
-    before saving `story.md`. Do not create a checklist, report, draft copy, or
-    other production artifact for that pass.
+    self-contained in-place revision pass defined by the writer agent, using
+    `creative-writing-craft`, `dialogue`, and `prose-style` as internal craft
+    references before saving `story.md`. Do not create a checklist, report,
+    draft copy, or other production artifact for that pass.
   - `Craft profile: prospective-2026-08-18` includes the preceding defaults and
     in-place revision pass only for new stories. Its outline targets 700–1,000
     words and may not exceed 1,200; it records draftable pressure and limits
