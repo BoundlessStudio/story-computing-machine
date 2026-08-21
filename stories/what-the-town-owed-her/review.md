@@ -6,15 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Leonie Sayer | new | Also Leonie; no exact, alias, close-spelling, or confusing prior reuse found. |
-| Evadne Trell | new | Also Evadne; `Vicar Estrel` is only a partial near-form and remains distinct by full name, title, sound, and role. |
+| Aldith Gant | new | The youthful-looking witch next door; no exact, alias, close-spelling, or confusing reuse found. |
+| Lerrow | new | The unnamed narrator's family surname and cabinet heading; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Mirehaven | new | The town containing the bounded promise-working; no exact or alias reuse, and the partial form `Mirel` belongs to a clearly distinct person name. |
-| Rookglass House | new | Also Rookglass; `Edda Rook` shares one lexical root but is a person with a distinct full form and context. |
+| None | none | The town, apartment building, and clinic are unnamed. |
 
 ## Continuity
 
@@ -22,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The youthful-neighbor premise, the town's socially inherited promises, Evadne's intended collection, and her release all land through the rescue. The working stays local and consent-bounded: Evadne supplies and releases its magic, descendants may refuse without consequence, and the notebook, evidence, tools, building, gate, and channel remain non-agentic. Leonie's sale and repair particulars, Evadne's limits and refusals, and the residents' task speech keep the dialogue non-swappable and action-changing through the invitation-to-tea ending.
+- Notes: The overnight watch resolves the apparent townwide debt through heterogeneous, fallible records and a freely bounded neighborly choice. Aldith's categorical precision, the narrator's practical resistance, and the secondary speakers' immediate limits remain distinct under pressure; the final kettle exchange trusts action rather than restating the resolution. “My grandmother” is ordinary kinship description, not a reader-facing proper noun. The local bodily suspension and restoration keep their costs and limits, leave records inert, and establish no universal witch or consent rule.
