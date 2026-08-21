@@ -1,397 +1,513 @@
 ---
-title: "The Foundations Remember"
+title: "The Memory Under Line Zero"
 slug: "the-foundations-remember"
 created: 2026-08-09
 created-at: 2026-08-09T11:01:24-04:00
 canon: false
 ---
 
-# The Foundations Remember
+# The Memory Under Line Zero
 
-The apartment had fifty-one minutes left in Orla Dace's name when the repossession rig asked Teren Vard to prove they remembered being four.
+The booth door would not seal because Haru Dent's coat was caught in it.
 
-Teren sat cross-legged on the bare floor. A pale rectangle on the wall showed where a bed had blocked the neon for years; everything else had already gone to the eviction warehouse. Across the room, Orla waited beside one packed transit bag, silver hair flattened on one side from a cap she no longer owned.
+Amel Krail pointed to the strip of amber light at his elbow. "Your sleeve."
 
-The rig would not open a client's source until its operator retrieved a licensed identity anchor. Teren selected EARLY-LIFE BLOCK TWO, ITEM 03.
+He looked down as if the coat belonged to somebody standing very close beside him. Then he pulled the cloth free. The door drew shut with a soft double knock, and the strip changed to green.
 
-A lift gate pressed its diamond pattern into small fingers. Someone's wool sleeve warmed one cheek. The car climbed through the city's interior, passing strata of violet signs and green-lit bridges, while a train far below made four soft blows through the lift cables, a pause, then two more. Beyond the mesh, a school banner wrapped three towers: FIRST CIVILIZATION. FIRST CITY. NOTHING HUMAN CAME BEFORE.
+"That one never meets square," he said.
 
-The woman holding Teren bent close enough for citrus peel to scent her breath.
+"It passed its seal test."
 
-“Look up, Teren. That's where we're going.”
+"Seal isn't square."
 
-It was the first memory in which their name sounded like theirs. The licensed childhood partition held forty-three more: their mother's face above a breakfast bowl, the first room they knew as home, the first letters they had written without help. Teren could recall the facts outside the block, but facts did not give back the wool against their cheek or that upward pull beneath the ribs.
+Amel set the repossession case on the shelf between their chairs. A train crossed somewhere above them. The booth's wall pressed against her shoulder blade, released, then pressed again. She watched the case level compensate by two degrees.
 
-The lift dissolved under a status pane.
+"Are you refusing calibration?" she asked.
 
-ANCHOR VERIFIED. ACCESS ACTIVE. EARLY-LIFE BLOCK TWO: COLLATERALIZED IN FULL.
+"No. I'm telling you why your crown will drift left every time an eastbound brakes."
 
-Orla's mouth tightened. “They make you open your own before you can take mine?”
+The chair restraints lay open across Haru's lap. He had not touched them. Forty-three minutes remained before Line Zero returned to full service and the booth had to be cleared. Amel had allowed fifty for her first unsupervised disposition. The manual recommended seventy.
 
-“They verify my licensed space before a source session.” Teren disliked how young they sounded after the memory released them. They straightened the junior stripe on their cuff. “My storage has to reconcile when I close.”
+She unfolded the contact crown. "Keep your head against the rest. I'll account for the drift."
 
-“That wasn't an answer.”
+Haru settled back. "You been down here before?"
 
-“No,” Teren said. “It wasn't.”
+"This booth?"
 
-Outside the window, advertisements ran upward along the opposite tower. A laughing child plunged into a summer sea, the leased recollection edited so the water shone pink and the fear had been cut out. Lower-tier citizens often paid rent with experiences instead of money. The housing corporation copied each selection into its archive, recut it for sale, and licensed access back to the person who had lived it while the account remained current. Eviction turned those licenses into recoverable property.
+"The line."
 
-Teren unfolded the rig's three screens. They clipped the source cuff around Orla's wrist, fitted the witness band behind their own ears, and seated the creditor key in its black slot. A raw buffer would hold the selected sequence only until the session closed. From there, the rig permitted three destinations: creditor upload, verified deletion, or Teren's licensed space. It permitted no external export. Teren's junior credential could not create another partition.
+"No."
 
-Orla watched each lead go in. “Say what they keep.”
+"Then you'll account for the wrong thing."
 
-“The corporate archive retains its editable master. Today's upload confirms the current source against it. Then I remove your access to the selected recollection.”
+Amel did not answer. She fitted the wet contacts along his temples and behind his ears, working around a pale pressure mark where an older crown had sat that morning. Before the default, Haru had chosen which pieces paid each month's rent. Eviction had given the housing company the choices. The display listed what it had already taken against his debt: a season of upper-tier sun, twelve meals tagged for texture resale, the calm portion of a ferry crossing. Editors would remove faces and place names, blend the clean sensations with other tenants' leases, and sell them as weather, appetite, escape. Haru would keep weakened originals until his contract expired. If his account did not recover, those went too.
 
-“Say what I keep.”
+Her item was different.
 
-“Everything outside the authorized boundary.”
+**INCIDENT 0-14: BELOW-LINE ACCESS. DISPOSITION: ERASE AT SOURCE. NO DERIVATIVES.**
 
-“I do not agree to the deletion.”
+"State your full name," she said.
 
-“The writ doesn't require source authorization. Witness playback does.”
+"Haru Dent."
 
-“Then mark me opposed. Don't turn my sitting still into permission.”
+"Do you understand that the lien holder has acquired disposition rights over the pledged interval?"
 
-Teren marked the source deletion disputed. The entry did not stop the order; it changed what their record could claim about Orla.
+"They put it in the eviction notice."
 
-The rig projected the boundary statement between them: lowest-line inspection, unauthorized access, descent, sampling, concealment, return. Thirty-eight minutes and twelve seconds.
+"I need yes or no."
 
-Teren began the inventory. “Please confirm the recollection begins at 23:16, after the final westbound service.”
+He looked at the green seam around the door. "Yes."
 
-“It begins before that.”
+"Do you understand the interval will be copied to a sealed work cache for validation, removed from accessible and associative recall, then destroyed?"
 
-“The registered entry—”
+"You mean I'll forget it."
 
-“Begins when the rail tells me something is moving under it.” Orla flexed the hand in the source cuff. Pale bands crossed her wrists where transit gloves had ended for twenty-three years. “Your clock starts when I opened the panel. Cut there and you leave me knowing I found a wrong vibration, with no memory of how I answered it.”
+"Yes."
 
-The order allowed boundary correction when the selected event had been clipped inaccurately. Teren found the preceding ninety-four seconds. “Adding this increases the source loss.”
+"Say that first next time."
 
-“It makes the loss accurate.”
+The crown found his baseline. Blocks filled on Amel's screen: balance, temperature, color depth, pain response, language. The booth shook again. This time the case corrected before the contacts slipped.
 
-Forty-six minutes remained. Teren extended the boundary.
+Haru noticed. "Westbound. Empty stock."
 
-The rig offered a shallow automated match. Teren could certify the selection without entering its sensory record. Orla read the option upside down.
+"How can you tell?"
 
-“You'll let a label tell you it's a tunnel.”
+"Nothing underneath the third carriage."
 
-“I can verify sequence and source at low depth.”
+Amel selected the target interval. "We'll make a route pass, an object pass, and a consistency pass. Answer only what I ask while playback is active."
 
-“You can verify a door.” Orla tapped the floor twice with her heel, waited, then tapped once. “You won't know what was on the other side.”
+"There isn't an object pass."
 
-“Witnessing doesn't preserve it.”
+"There is on my form."
 
-“I know what witnessing does.” Her gaze stayed on the black key. “I leased them my first emergency stop. They sold the calm and removed the passenger under the wheel. Watch this one before they decide what it was about.”
+"I mean you won't understand what you're looking at if you split it up."
 
-Teren's training warned against accepting a client's purpose for a memory. It also required a technician to resolve a disputed boundary.
+She pressed **EXTRACT**.
 
-“Do you understand that I will receive recorded sensation and motor trace from the selected interval?” they asked. “Not anything you think now. Not anything outside the capture.”
+The booth vanished without going dark.
 
-“Can you hear me deciding whether I trust you?”
+For four seconds Amel stood inside Haru's body at the public end of Line Zero, taller than herself and sore through the right knee. The last passenger train had gone. Maintenance lamps made white coins on the platform. In the recollection, Haru carried a red survey case whose handle had worn a hard groove across two fingers. He did not walk toward the marked service door. He went the other way, past the buffers, and crouched beside a drainage manifold hidden behind an advertising skin.
 
-“No.”
+The memory skipped where his attention had skipped: no inventory of the pipes, no useful view of the sign overhead. His hand knew which coupling was cold. He waited with two fingers resting on it.
 
-“Good. Record that I authorize you to witness this interval. No farther.”
+A train entered the opposite bore. Pressure climbed through his fingertips. When the second carriage passed, he pulled the coupling half a turn, leaned his shoulder into a maintenance panel, and let the rail's shifting load lift the latch for him. Beyond it, a narrow shelf followed the outside of the bore. Light strobed between carriage windows. Haru stepped over the first cable trough, under the second, and stopped before the third.
 
-Teren logged her words and lowered the band.
+Amel paused playback. The booth returned around them. "You opened a locked panel by altering a drain coupling."
 
-The empty apartment lost its edges.
+"No."
 
-A rail hummed under two gloved fingers.
+"I watched you."
 
-Not the bright singing vibration of a train taking the curve above. This pulse came up through the ballast: four impacts, a long gap, two. The knees had already softened. Weight had shifted away from the platform edge before Teren knew there was an edge.
+"The coupling doesn't open it. It keeps the condensate line from pushing the panel shut. The train opens it."
 
-Cold air tasted of brake dust and old rain. The lowest line lay after service, its lamps dimmed to alternate pools. Forty paces beyond the westbound stop marker, the platform narrowed behind a column. A camera swept to the first pool of light, hesitated, and swept back. During that hesitation, Orla's boots crossed to an unnumbered wall panel.
+"That's not in the maintenance schematic."
 
-The panel's paint matched the tile too well. Its upper screws were new. The bottom plate bore a crescent polished by movement from within. A transit key entered the utility lock, turned left, resisted, then gave when the hand lifted as well as twisted.
+"New schematic or the one they actually built?"
 
-Behind it, a ladder dropped past the reach of the lamp. Twelve rungs were bright city alloy. The thirteenth was black iron, cupped at its center by feet that had climbed it for years.
+"Current approved."
 
-Teren cut the playback.
+"Then it won't show the steel behind the skin."
 
-They returned with their right shoulder pressed hard against Orla's wall. The rig shivered a moment later as a train moved somewhere above the apartment. Teren caught the open center screen before it struck the floor.
+Amel drew the route backward in the case. The memory contained no access code, no concealed switch, nothing that could be summarized into a neat instruction. It was timing and pressure and the way Haru shifted the survey case before putting weight on the shelf. Without that weight, he told her, the panel would settle before a person could pass. Without the eastbound train, it would not rise at all.
 
-Orla glanced at their hand. “Freight. Two tiers up.”
+"Could somebody learn the route from a diagram?" she asked.
 
-“Motor residue,” Teren said. “It passes.”
+"Somebody could fall off a diagram."
 
-“So does a train. You still step back.”
+"Mr. Dent."
 
-Teren checked the source graph. “The entrance matches the order.”
+"You need the loads. That's the route."
 
-“The entrance contradicts every foundation plan they issued me.”
+She resumed.
 
-“An unlisted service void isn't evidence of a civilization.”
+Haru's remembered breath shortened along the shelf. Through his feet came the changing labor of the track: rail, clip, sleeper, beam, pillar. He counted four westbound pulses, knelt, and slipped through a tear in the acoustic lining. On the other side, the city's hum lost its hard edges. The way went down.
 
-“Those first twelve rungs were installed from above. The iron below was worn from the middle.” Orla drew one finger along the old glove mark on her wrist. “You know what a track worker learns before she's allowed near live rail? New metal fails at its joins. Old metal fails where hands and feet have used it. That ladder had both.”
+At first it was only a construction gap between poured pylons. Every pylon bore the city foundation mark, a sunburst cut over the numeral one. Schoolchildren were brought to copies of that mark in the civic galleries. Before the first elevators, before the first habitation decks, the founders had set their pillars into raw stone and made human life begin vertically.
 
-Teren could mark the interval verified now. The rig would send the source state to the creditor, erase Orla's access, and purge the buffer. Their first unsupervised repossession would close without an exception.
+Haru turned his head. The recollection widened.
 
-“Why was your work contract terminated?” they asked.
+Steps descended beneath the lowest pylon, not poured steps but blocks fitted so closely that the seams held only black grit. Their centers dipped under wear. A pale repair ran across the lintel below, and through that repair the builders of Line Zero had driven a modern anchor bolt. The bolt's stamped date was the year before the city declared its First Foundation. Under it, carrying both bolt and lintel, the older stone continued into the dark.
 
-“Because I filed a subsurface fault notice.”
+Haru's hand passed over a drainage channel polished at the lip. Not natural rock. Not a utility cut. It curved away behind the foundations with the patient fall of something made to carry water long before the tunnel was dry.
 
-“The personnel record says repeated access breach.”
+The case flashed a warning across the memory.
 
-“The first notice got no inspection. The second got my night shifts removed. After the third, they welded the panel, took my key, and billed the missing rent against the same work-life tranche.” Orla nodded toward the empty wall. “The bed went this morning. Apparently steel keeps better than a worker.”
+**UNLICENSED HISTORICAL ASSERTION. VERIFY OR PURGE.**
 
-Thirty-nine minutes.
+Amel stopped playback.
 
-Teren reopened the depth control. “I need to see the lower boundary.”
+Haru blinked beneath the contacts. Sweat had gathered at his hairline. "You got to the stair?"
 
-“You need enough to sign.”
+"You described it in your report."
 
-“Yes.”
+"Did you see it?"
 
-Orla studied them, perhaps waiting for a better reason. Teren had none they could warranty. At last she turned her cuff palm-up. “Then count past the alloy before you sign.”
+"I saw your recollection of it."
 
-The ladder returned beneath their hands.
+"Right."
 
-Twelve alloy rungs. Forty-one iron. At the bottom, the left boot found small hexagonal tiles under a skin of silt. A pipe bearing current inspection bands crossed the low ceiling; Orla followed it through a brick opening, ducked beneath a newer conduit, and counted six rectangular columns.
+He let the word stand between them.
 
-The city's foundation piles descended among them.
+Amel opened the consistency tools. No splice lines appeared. The interval's color drift matched adjacent memories, as did Haru's headache, the pressure groove on his fingers, and a tune he had failed to notice himself humming. Coherence was not truth. A patient editor could seed all of those. A person could also build them inward by retelling a lie.
 
-Each pile was broad enough to fill a room. Smooth gray composite had punched through the tiled ceiling, through a flight of stairs, through a bench whose corroded frame still curved around it. Fluorescent batch stamps on the nearest pile matched the official foundation works. Around those vertical intrusions extended an older concourse: paired narrow rails, platforms on both sides, a clock face with two rings of numerals, and wall signs scraped until only pale hollows remained.
+She called her supervisor.
 
-Orla's issued assay tool knocked against her thigh. Her hand set it first against the gray pile. The tool drilled a pinprick control sample and displayed an age consistent with the city's six-hundred-year history.
+Ovik answered before the first tone finished. His voice arrived without a face, clean and level in Amel's earpiece. "Status."
 
-At the rail fastening, its tone changed. A second microcore slid into the assay wafer. The estimate climbed past three thousand years.
+"Target acquired. The source interval contains structural details that could indicate pre-foundation construction. No edit seams on first test."
 
-The recorded body did not supply triumph. It supplied a cramped calf, condensation under a glove, and the ache of holding still while a train crossed somewhere overhead. The foundation pile trembled. Dust fell from an erased sign.
+"The order anticipates the claim. Purge the interval and validate zero."
 
-Four blows through the old concourse. A pause. Two more.
+"I haven't completed consistency."
 
-Small bare fingers tightened on a lift gate. Wool touched the cheek. Neon ran where mineral water should have run, and the voice beside Teren said, “Look up.”
+"You may complete required validation. Do not extend the cache."
 
-Teren's eyes were open inside the memory, but the rig painted a source line over the intrusion: CHILDHOOD BLOCK TWO / CADENCE MATCH / CROSSFADE.
+Haru watched her rather than the speaker grille. "Ask him why they sent memory recovery instead of structures."
 
-They pulled out.
+Amel muted the room pickup. "The recalled site includes a worn stair, a repaired lintel, and a load-bearing channel beneath the claimed foundation layer."
 
-Orla was speaking before the apartment fully returned. “Where did you lose it?”
+"The subject maintained Line Zero for nineteen years," Ovik said. "He had access to models, construction stock, and enough procedural knowledge to fabricate a persuasive episode."
 
-“I didn't lose anything.” Teren pushed the childhood trace behind an isolation wall. “The same subsonic cadence is in my anchor. The rig crossfaded on frequency.”
+"Then it may be fabricated."
 
-“The train under your lift struck the same pattern?”
+"Correct."
 
-“The same cadence. The lift crossed above a train guide.” Teren heard the stiffness in their answer and forced their hands flat. “The reading on your assay display is not physical proof. Inside playback, it is only a record of what the tool appeared to say.”
+"That isn't what I said."
 
-“Finally.”
+"It is the relevant classification. The company cannot authenticate a historical claim through indebted neural property. Purge the target, validate zero, close the lien."
 
-Teren looked up.
+Amel looked at the countdown. Thirty-one minutes.
 
-“Finally you're suspicious of the right part,” Orla said. “The display could have been miscalibrated. My recollection could smear a digit. Their master can be edited.”
+"His access report was filed six hours before his dismissal," she said. "The deletion order was added after the report."
 
-“What remains outside the memory?”
+"Employment timing is outside disposition."
 
-“The wafer keeps the cores.”
+"Did anyone inspect the site?"
 
-“Where?”
+Ovik paused, not long enough to suggest surprise. "Complete required validation."
 
-“You stopped.”
+"I'm asking whether—"
 
-SOURCE LABEL STABILITY: 73%. RAW BUFFER: 00:24:31.
+"I heard you. Your certification observation remains open, Krail. Clean completion closes it tonight. Purge the target, validate zero, close the lien."
 
-Teren said, “A third immersion increases cross-source contamination.”
+He did not disconnect. The line stayed live and soundless.
 
-“Of your labels.”
+Amel restored the room pickup. "We're continuing."
 
-“And of what I can certify.”
+"He told you to wipe it."
 
-Orla rubbed the cuff where it pressed into tendon. “You keep saying source as if it means a socket. This route is in the way my ankles count a ladder. If you go back, you borrow that. If you erase it, I lose it.”
+"He told me to validate it first."
 
-“The selected sequence is data linked to your registered access. It isn't another you in the buffer. But the experience is yours.”
+"Not the same as listening."
 
-“That distinction matters to your forms.”
+She set the playback index to the stair. "When you went down, what was in your left hand?"
 
-“It matters to me.”
+"Range probe."
 
-Orla's expression changed by less than a smile. “Does it?”
+The memory showed only a pale edge at the bottom of Haru's vision. "What make?"
 
-Teren could have defended the system. Instead they rotated the witness pane so she could see its limits. “I cannot hear your present thoughts. I cannot search beyond the interval. When the raw buffer purges, ordinary impressions may remain with me, but not a navigable playback. If I don't witness the last section, I won't retain the route to whatever you hid.”
+"Don't know. Stores swapped them all winter."
 
-“And if you do?”
+"What did the channel smell like?"
 
-“The same purge applies.”
+"Wet dust. Brake oil near the top."
 
-“But for a few minutes, two people know where the wafer is.”
+"You called it dry."
 
-Teren nodded.
+"Dry channel. Wet air. There's a cracked return pipe behind the new pier."
 
-Orla looked toward the window, where somebody else's edited summer climbed the tower again. “I am authorizing the rest because I want you to know what your deletion contains. That is not permission to spend anything else.”
+She shifted to the lintel. "What do these cuts mean?"
 
-“I understand.”
+Three shallow marks crossed one stone, too regular for damage, too few for a script.
 
-“Don't answer quickly.”
+"No idea."
 
-Teren let the buffer lose eleven seconds. “I understand the difference.”
+"You claimed they were evidence."
 
-Orla offered her wrist.
+"I said the steps and the drain were built. Those could be somebody sharpening a tool."
 
-Water closed over the boots.
+He was becoming less helpful as the questions narrowed, more exact and less interested in convincing her. Fabricated testimony usually improved under rehearsal. Usually was not a result she could enter.
 
-The cold belonged first to no one. Then the left ankle rolled against a submerged edge with Orla's practiced correction, and Teren knew whose body the recording described.
+Amel advanced the recollection beyond the point named in the order.
 
-Beyond the old concourse, behind the sixth column, a broken route board covered an arch. Its frame lifted when pressed at the lower right corner. Through it, a shoulder-width passage sloped under the nearest current foundation pile. Orla touched every junction on the return: brick opening; cable bracket shaped like a hook; seventeen descending steps, the last three underwater.
+Haru descended six more steps and set the red case beside the old wall. He took out a survey gauge, thumb-sized and orange, scraped mineral scale from a seam, and fixed the gauge there with a pad of blue compound. On its tiny display, two traces moved out of time: the regular hammering of Line Zero and a slower deflection traveling through the stone below.
 
-The chamber below was round. Narrow channels scored its floor toward a central basin. Its walls had been laid in fitted rectangular blocks, but the builders had not cut those blocks from fresh stone. On their exposed faces ran fine diagonal tooth marks. Beneath chipped corners lay wider crescent blows, weather-softened before the fine tools ever dressed them. Some blocks had been turned sideways, trapping the older marks inside mortar.
+He waited through a train. The newer pylon flexed first. The lintel received the load and passed it sideways into masonry that vanished beyond the light. Haru swore under his breath, reset the gauge to continuous recording, and left it on the wall.
 
-The city stood on a rail concourse. The concourse stood above a water chamber. The chamber itself had been built from the worked remains of something older still.
+Amel stopped the memory hard enough to make both of them flinch.
 
-Orla took a mortar sample. The assay wafer accepted a third core and returned a range more than twice the rail's age. She cleaned one exposed crescent with distilled water from her kit, sampled the darkened stone beneath it, and watched the tool abandon numbers for BEYOND CALIBRATED CIVIC RANGE.
+"The gauge is still there?"
 
-The display was not a verdict. The wafer in the tool now held the gray foundation control, the rail fastening, the chamber mortar, and grit from the older worked face in separate sealed cells. Its serial matched an issued maintenance instrument. Someone with another assay could test each cell. Someone with the route could inspect the pile through the old platform and the chamber underneath it.
+Haru's eyes moved to the case display. "Unless they found it."
 
-A deep vibration moved through the water. Orla's knees loosened.
+"It records locally?"
 
-The lift rose through neon. Teren's mother had one hand on the gate, except the hand wore a transit glove, except the glove held an assay tool, except a small thumb was tracing the diamond mesh. The source label flickered between ORLA DACE / SELECTED INTERVAL and TEREN VARD / ITEM 03.
+"Load, temperature, vibration. Date is signed by the transit clock every time a train passes."
 
-The recorded hand ejected the wafer.
+"Why didn't you bring it out?"
 
-Back up seventeen steps. Through the lifted route frame. Six columns toward the ladder, then past the pile that had split the old bench. At the clock, turn away from the platform edge. A drain channel ran under the wall. Orla removed the third grille after the clock, pressed the wafer into a dry gap above its upper bracket, and returned the grille with the middle fastener one turn short of flush.
+"One reading is a bad bearing. A week shows what carries what."
 
-Her thumbnail tested that fastener twice.
+"How long ago?"
 
-Then the route reversed: clock, broken bench, six columns, hook-shaped bracket, brick opening, forty-one iron rungs, twelve alloy. The wall panel shut. The transit key came free.
+"Nine days."
 
-The apartment struck Teren all at once. Their thumbnail was scraping the rig's center hinge.
+"Your report was six days ago."
 
-SOURCE LABEL STABILITY: 46%. RAW BUFFER: 00:11:02.
+"I got enough to tell Structures the old work was taking live load. I left it running."
 
-Orla leaned against the wall. “Now you can erase the right thing.”
+Amel unmuted Ovik. "There is external instrumentation at the recalled site. A continuous transit-clock record."
 
-Teren opened the destination controls. The creditor master answered first: present, editable, licensed for derivative sale. A fresh upload would reconcile its copy with Orla's source. Verified deletion waited beneath it.
+"Not within our custody."
 
-“Can you keep the wafer location?” Orla asked.
+"It could authenticate the route and the structure."
 
-“Not separately.” Teren selected the last twenty seconds and tried to route them into a text note. The rig marked the directions as derived source material and refused export. “The boundary follows any extract.”
+"Not within our custody," Ovik repeated. "Do not convert a memory disposition into an unscheduled field inquiry."
 
-“Say it until you know it.”
+Haru leaned toward the speaker. The crown tugged at his temple. "Send a rail hand. Don't send her. Five minutes at the wall, that's all."
 
-“I'll remember a clock and a loose fastener. I won't have your measured route after isolation closes.”
+"Mr. Dent, you are not authorized to direct personnel."
 
-“Then put the route in your space.”
+"No. That's how I ended up in this chair."
 
-“My free allocation holds three minutes.”
+"Krail," Ovik said, "secure the subject."
 
-“Compress it.”
+Amel tightened the contact at Haru's left temple instead of closing the restraints. "If the memory is removed, can you reconstruct the route from records?"
 
-“The licensed sequence is already compressed. I can't create a partition with a junior seal.”
+Haru sat back. He flexed the two fingers that had carried the survey case. "Records put the panel three meters north. They don't tell you when it lifts."
 
-Orla lowered herself to the floor opposite them. “Then you're out of permitted controls.”
+"Could you leave yourself a note now?"
 
-“Most of them.”
+"You'd have to seize that too."
 
-The crossfade warning pulsed under the destination pane. Teren opened it to clear the error and saw the two cadence traces lying almost exactly together: the childhood lift crossing a transit guide; the buried trains passing through stone. Four beats, pause, two. The rig offered the standard repair function for a licensed memory with sensory dropout.
+Ovik said, "Correct. Associative residue is included in the order. Krail, you have twenty-two minutes."
 
-A reversible repair kept its entire reference sequence behind the target memory. Ordinarily a technician used a few seconds of the same person's adjacent experience to restore a missing voice or color. Teren could designate Orla's full interval as the reference track for the lift vibration, burying thirty-nine minutes behind fourteen seconds of childhood. The shared subsonic cadence would pass the automatic match. The source mismatch would not vanish. It would make the entire target block contractually suspect.
+Amel's screen offered two lawful buttons. **PURGE** would strip the interval from Haru, compare the absence against the sealed cache, then destroy the cache. **REFER** would preserve it in the job system and fail the time limit. Referral required authenticated physical evidence. The gauge might be that evidence, but the route to the gauge was the thing she had been ordered to erase.
 
-Teren opened the warning.
+Below the buttons sat a third control used after distressing collections: **PERSONAL ANCHOR**. A technician could take a sensory fragment out of the work cache and bind it into licensed private space, so the mind had somewhere familiar to put what it had witnessed. Personal-space contents were masked in routine job review. Capacity changes were not, and an audit could open everything.
 
-EARLY-LIFE BLOCK TWO: 44 ITEMS.
-COLLATERAL WARRANTY WILL REQUIRE REVALUATION.
-POSSIBLE ACTIONS: IMMEDIATE FREEZE, ACCESS SEIZURE, FULL-BLOCK FORECLOSURE.
-FOREIGN-SOURCE REFERENCE MAY BE TRANSFERRED WITH COLLATERAL.
+Amel opened her capacity panel.
 
-Orla read without asking Teren to turn the screen.
+Her private license held eleven childhood clusters, all pledged against the advance that had paid for training, equipment, and six months' rent. Until she certified, they were collateral. If an audit found outside property mixed into them, the lender could seize the entire block.
 
-“No,” she said.
+Available space: one minute, eight seconds.
 
-“The repair would retain the complete playback.”
+Target interval: four minutes, forty-one seconds.
 
-“Close it.”
+The largest nearby cluster opened in preview. A kitchen morning, age eight. Her mother home from a night shift, still in her blue work shirt, cutting a burned edge from a piece of toast. A fan clicked overhead. Rain freckled the window. Young Amel sat on the counter because the floor was cold, and her mother said something while pushing the good half of the toast into her hands.
 
-“The corporation would no longer hold the only navigable master.”
+Amel had leased copies of that morning twice. Once for domestic warmth, once for rain texture. She had never let an editor touch the source.
 
-“I said close it.” Orla reached toward the screen, stopped before touching Teren's controls, and put her hand back on her knee. “I asked you to look. I did not ask for your first room, your mother's face, whatever else they have tied up in there.”
+The anchor tool calculated destructive overlap.
 
-“They're already collateral.”
+**LIKELY LOSS: PRIMARY VOICEPRINT 91%. SPOKEN CONTENT 68%. LEFT VISUAL FIELD 24%.**
 
-“Then you know what already feels like.” She nodded toward the clean floor where her bed had been. “Don't add my weight and call it my choice.”
+The playback behind the warning was silent. Amel supplied her mother's voice from memory, impatient and low, but the moment she tried to hold its exact pitch, it shifted.
 
-Seven minutes remained in the raw buffer. Teren stared at ITEM 03 behind the warning. Forty-four pieces of their beginning sat there as one collateral unit.
+"Krail," Ovik said. "Report."
 
-Their childhood block was the complete reference for Teren's own beginning. They had pledged it to keep an apartment and told themselves pledged was not lost because they could still open it. Orla had not needed to say how poor that distinction was. Her bare wall had said it first.
+"I—I'm checking capacity."
 
-“Use the order,” Orla said. “Keep your childhood.”
+"The work cache has sufficient capacity."
 
-Teren met her eyes. “If I preserve it, I won't record you as authorizing the transfer.”
+"Yes."
 
-“You don't have it.”
+"Then purge the target."
 
-“I know.”
+"Yes. I heard."
 
-“And I won't tell you it's worth the trade.”
+Haru could not see her private panel, but he saw what her hand had opened. "Anchor space?"
 
-“Good.” Teren returned to the repair pane.
+She closed the kitchen preview.
 
-Orla's jaw shifted. “Why?”
+"Don't," he said.
 
-“I reconcile versions for a living. If they hold the only full one, no one can find what they change later. I can't call that exact.”
+"I haven't told you what I'm doing."
 
-“Then leave me out of your warranty statement.”
+"You don't open personal in a repossession unless the job won't fit somewhere."
 
-Teren set the tunnel playback as reference.
+"Will the gauge survive another day?"
 
-The rig aligned the shared cadence. It asked whether the lift's missing vibration required a reversible source record. Teren answered yes. They reconciled the clock's assay chirp as transient lift noise, the headlamp glare as damaged neon response, the cold water as a sensor artifact. None of those labels made the tunnel untrue or chose it as important. They only told a storage system where to put data.
+"Maybe. Blue pad should hold. Maybe the return pipe lets go and takes it off."
 
-At the final control, Teren saw the childhood block listed not as forty-four memories but as one collateral unit.
+"If someone has the route, they can retrieve it?"
 
-They signed.
+"If they can listen to the line."
 
-LICENSED-SPACE TRANSFER COMPLETE.
+"Answer the question."
 
-The creditor upload took twenty-two seconds. Its master accepted Orla's current source and retained edit rights. Teren then placed two fingers on the deletion control.
+"Yes."
 
-Orla held out her cuffed wrist. “The whole boundary.”
+The booth shook. On the shelf, the case's leveling feet whispered against metal.
 
-“The whole boundary,” Teren said.
+Haru looked down at his open restraints. "I'm not asking for yours."
 
-They initiated verified deletion.
+"You're asking me to erase yours."
 
-Nothing visible left Orla. She inhaled once when the progress line crossed the first ninety-four seconds, then watched it move through the panel, the ladder, the concourse, the chamber, the hidden wafer, and the return. At completion the rig compared absence at source with the authorized boundary and issued its receipt.
+"They're doing that already. I asked you to look at a wall."
 
-The raw buffer purged.
+She wanted him to tell her it was worth four minutes and forty-one seconds of a morning he had never lived. She wanted Ovik to forbid it in some new way, one that would reach through the private screen and move her hand. Haru only adjusted the crown wire where it pulled his ear.
 
-Orla looked down at her boots. “I can remember the rail felt wrong.”
+"If you keep it," he said, "keep the route. Don't trim it down to the pretty part."
 
-Teren did not prompt her.
+"The stair isn't pretty."
 
-“I can remember filing notices. I can remember losing my shifts.” She closed her eyes, then opened them. “There should be distance between those things.”
+"Good."
 
-“Your source access is erased,” Teren said. “The corporate master remains.”
+Ovik's patience took on the slow spacing he used with trainees at the end of a failed simulation. "Krail. Select purge. Confirm source deletion. Validate zero. Close the lien."
 
-“And yours?”
+"Will you request a site inspection if I complete the disposition?" she asked.
 
-Before Teren could answer, all three screens dimmed.
+"Complete the disposition."
 
-COLLATERAL HOLD INITIATED.
-EARLY-LIFE BLOCK TWO FROZEN FOR REVALUATION.
-RETRIEVAL, REPAIR, AND REFERENCE ACCESS SUSPENDED.
-AUDIT APPOINTMENT: 08:20.
+"After I complete it. Will you request one?"
 
-Teren requested ITEM 03. The rig returned no lift gate, no wool sleeve, no citrus breath. They knew a woman had spoken their name. They could not hear her do it.
+"This call concerns disposition."
 
-Orla read the hold. “I told you not to.”
+There it was: not a lie, not an answer, and no opening left in it.
 
-“You did.”
+Amel selected **PERSONAL ANCHOR**.
 
-“Can you open what you kept?”
+The system asked for a destination. She chose the kitchen morning. It warned that the source cluster was collateralized. It warned that third-party content could invalidate the license. It showed her mother's face turned toward the stove, outside the predicted field of damage, and laid the tunnel route beneath the yellow counter tiles like a second set of seams.
 
-“No.”
+"Hold still," Amel told Haru.
 
-“Can they take it?”
+"I am."
 
-“The lender can seize the block. The foreign reference would go with it.”
+"Don't talk. Just—please."
 
-Orla unfastened the source cuff herself and placed it beside the rig. “Then don't tell me where this ends.”
+His mouth closed.
 
-“I don't know.”
+She authorized overlap.
 
-The apartment handover tone sounded from the door. Teren cleared the mandatory audit notice with a fingerprint because their anchor was unavailable, folded the screens, and packed the leads. Orla shouldered her one bag.
+The transfer entered behind her right eye as a pressure too large to be pain. For an instant the booth, the kitchen, and the tunnel demanded the same space. Rain struck the old window; a westbound train loaded the first support; her mother's knife rasped over burned bread; Haru's hand found the cold coupling. Amel could not tell which body owned the sore knee. She smelled brake oil under the toast.
 
-A tremor touched the soles of Teren's boots. Their knees bent. They caught the rig against their thigh before the building moved.
+Then the system resolved priority.
 
-Orla paused with her hand near the door.
+The tunnel settled intact. Route, stair, lintel, gauge. Signed as foreign recall, source Haru Dent; no confusion about whose life it was. The kitchen rebuilt around it with pieces missing.
 
-“Not yet,” she said. “Freight rolls twice.”
+Her mother turned from the stove and moved her lips.
 
-The second shiver found Teren ready.
+No sound came.
+
+Amel knew the sentence had made her laugh. She knew her mother had spoken through a mouthful of her own burned half. Knowledge remained where the voice had been, a label on an empty field.
+
+"Transfer variance," Ovik said. "Your personal reserve changed."
+
+Amel blinked until the booth held one shape. Twelve minutes remained.
+
+"Stress anchor," she said.
+
+"The case did not recommend an anchor."
+
+She selected **PURGE**. "I changed the assessment."
+
+The crown tightened its contact pattern. Haru's hands closed on the chair arms.
+
+"Last chance to identify associative dependents," Amel said. The prompt came out thin and automatic. "Names, routes, objects, later decisions."
+
+"My dismissal. The report. The panel." Haru swallowed. Precision began to fail him at last. "The gauge. What I put—where I put it. That whole down way."
+
+Each answer lit a branch. Amel marked them all. If she spared the report, he might rebuild the cause from the gap. If she spared the panel, he might find it by habit. The order covered the interval and its route-bearing residue. Half an erasure would leave him with the danger and none of the sequence that kept him alive.
+
+"Ready," she said.
+
+"No," Haru said. Then, after a breath, "Do it before the trains start."
+
+Amel confirmed.
+
+The purge had no flash, no visible current. Haru's grip loosened one finger at a time. The case walked the interval out of accessible recall, tested each linked prompt, returned to sweep what recognition had hidden. On Amel's screen, the sealed copy reduced from color to vectors, from vectors to hashes, from hashes to zero.
+
+Only the foreign cluster beneath her kitchen remained beyond the job system's sight.
+
+**SOURCE ABSENT. CACHE ZERO. DISPOSITION COMPLETE.**
+
+Ovik waited while Amel ran the required checks. "Subject identity?"
+
+"Intact."
+
+"Employment history?"
+
+"Intact except ordered associations."
+
+"Target content in source or work cache?"
+
+Amel looked at Haru. His eyes tracked the speaker grille, then the blank screen, then her face.
+
+"No," she said.
+
+It was the narrow truth the form requested.
+
+"Close the lien," Ovik said.
+
+Amel released the crown. Haru rubbed the pale marks at his temples. The train schedule beyond the booth door rolled from amber to white as Line Zero prepared to reopen.
+
+"Did they take it?" he asked.
+
+"Yes."
+
+"All of it?"
+
+"All the ordered interval."
+
+He frowned at his hands. Two fingers were curved as if around the missing handle of the survey case. "I filed something with Structures."
+
+"You remember filing a report."
+
+"About the line?"
+
+Amel said nothing.
+
+He looked toward the wall when a switching engine passed above. "There was a place I had to..." His hand lifted, turned half a circle, and stopped. "No."
+
+The absence did not make him peaceful. It made him check his pockets. He found an eviction token, an old transit badge with its clearance burned out, and three coins. "Housing desk still shut at this hour?"
+
+"Until six."
+
+"They let you sit in the concourse?"
+
+"Not after service restarts. There's a warming bay by the freight lifts. It doesn't scan housing status until five."
+
+Haru put on his coat. At the door he glanced back at the crown. "Was I right? Whatever it was."
+
+The tunnel waited inside Amel with the fixed patience of masonry. It was a recollection, not a date, not a verdict. Beneath it, a gauge might still be signing each passing train against an old wall.
+
+"You left something measuring," she said.
+
+His face changed, but not with recognition. "Useful?"
+
+"Maybe."
+
+"Then don't wait for a quiet train. There aren't any."
+
+He opened the door and went out.
+
+Ovik remained on the line. "Your personal reserve changed by three minutes, thirty-three seconds during sealed work."
+
+Amel packed the contacts into their disinfecting slots. "I logged an anchor."
+
+"You logged one after transfer variance."
+
+"Is the disposition accepted?"
+
+"The lien is closed. Your certification is complete pending review. Personal-space audit at dawn. Bring the case and your license key."
+
+"At dawn," she repeated.
+
+"Do not alter your reserve before audit."
+
+The call ended.
+
+Amel had four hours.
+
+The booth's service panel showed the vibration faults it had collected during the session. Crown drift, shelf tilt, three contact corrections. Any certified technician could extend a site calibration onto platform hardware when environmental movement threatened capture quality. It was ordinary work, the sort assigned without a supervisor because nobody wanted the lowest line before morning.
+
+Her hand shook once over the form. She flattened it against the shelf until the next train passed.
+
+Location: Line Zero, booth fourteen.
+
+Fault: recurrent eastbound load variance.
+
+Requested time: now.
+
+The system issued her a maintenance token and six minutes of platform access. Amel closed the case, stepped out beside the reopened line, and walked toward the buffers at the public end. Behind her eyes, under yellow kitchen tiles and her mother's soundless mouth, Haru's hand found the cold coupling and waited for the second carriage.
