@@ -8,258 +8,282 @@ canon: false
 
 # The Anatomy of a God
 
-The execution frame stood over a square of darkness in the paving. Two oak uprights straddled the pit, carrying a crossbeam and an iron wheel. A rope ran from a granite block caged inside the right upright, over the wheel, and down to a hook on the rear edge of the platform. Pull the two locking dogs, let the block fall, and the platform would rear like a kicked door.
+The man I had stabbed stopped being dead before I reached my satchel.
 
-Seven prisoners waited on it with their wrists tied. The woman at the front had a salt-gray braid and a rope-maker's flattened thumbs. Edras knew the trade by the way she tested her binding: never fighting the whole knot, only worrying the strand that carried its load.
+I do not use *dead* loosely. I had spent twelve years with my hands on people at their worst—under fallen masonry, in fever cots, on kitchen floors after a regeneration went wrong. I knew the little concessions a body made before it quit. His had made all of them. No breath. No pulse against my knuckles. Eyes fixed on the painted beams of the sanctuary while rain worried at the roof.
 
-He could have told her it would not come free in time. His own wrists were bound to a low ring beside the frame, and a guard's boot rested on his open medical case. Three thin splint plates, linen, and rolled evacuation straps remained inside. The guards had taken anything with an edge. Field medicine, they had decided, could not threaten a god.
+Then the wound under his torn coat drew itself shut. It did not glow. There was no choir, no clean flash of divine correction. The flesh tightened in small, ugly increments, as if invisible fingers were pulling a purse string. His ribs lifted. One heel scraped the audience floor. Heat rolled off him strongly enough to stir the dust between us.
 
-Avarrax entered the court when the sun cleared the eastern roof. Gold scales covered his mantle. Light hovered close to his bare arms and shaved head, bright enough to make the crowd beneath the colonnade narrow their eyes. Some bowed before he reached the frame. Others bowed when the guards turned to look at them.
+My satchel lay where he had thrown it, six paces away beside the outward doors. The doors were still barred. The broken ceremonial knife was in my hand, its edge dark to the hilt. I backed toward the satchel.
 
-He climbed the three steps to the platform and lifted one hand.
+The man sat up.
 
-"These seven broke the peace I laid upon them," he said. His voice carried to the roofline as if the stones had learned it. "The foreign mender beside them preserved rebels for a further hour of disobedience. Let the weight descend once for all eight, and let the city remember the mercy it refused."
+Rainwater tapped through the high windows and collected in copper bowls along the walls. He looked first at the knife, then at me. His face had returned to its grave, handsome arrangement, but the eyes did not track together at once. The left caught me. The right wandered to the empty dais and came back.
 
-The rope-maker moved before the last word died. Her right hand found the slack she had made. With both wrists still linked, she seized the loose tail, swung the brass fastening at its end, and struck Avarrax across the forearm.
+“You were told to kneel,” he said.
 
-A guard knocked her down. Avarrax did not flinch. A dark seam showed on his skin for half a breath; then white-gold light gathered below his left collarbone.
+“You put your hand on my neck.”
 
-Edras stopped seeing the court.
+“I showed you the posture.”
 
-The light held at that first bright oval, vanished, and surfaced behind the low ribs on Avarrax's other side. It paused there. A third pulse appeared above his hip. Only then did the seam on his forearm draw shut. The whole passage took less time than one frightened inhalation, but it had a shape: gather, cross, return.
+He rose before his balance had returned. His right knee locked. His weight went too far toward that side, and one bare foot slapped down to save him. He disguised the correction by spreading his arms, turning a stumble into benediction.
 
-Avarrax looked at the unmarked skin and then at the woman beneath the guard's knee. "Begin with this hand."
+I had seen my stepsister do the same thing with a tray of soup. She had come home from a roof collapse with every bone apparently mended and no idea where the floor intended to be. She took three majestic steps into the kitchen, raised the tray as though presenting it to a court, and fell shoulder-first into the flour bin.
 
-The words reached Edras late. He was remembering Miora at twenty-six, furious because her right thumb had healed too quickly and crooked after a workshop accident. She made the fine graduations for flood gauges; other hands could hold a graver, she had told three well-meaning surgeons, but they were not hers.
+*Don’t laugh,* she had said from inside the white cloud.
 
-The correction had been her decision. She made them describe every buckle before they touched it. She chose Edras to count the pulses because he was her stepbrother and because, in her opinion, physicians grew foolish around unusual bodies. If she tapped twice against his wrist, he was to lift the weight and release all three plates, whatever any surgeon said.
+*I’m getting a cloth.*
 
-Miora's repair did not travel where Avarrax's had. Hers spiraled from the base of her palm, crossed near the elbow, and returned through a place no diagram showed. But it kept the same treacherous rhythm. Three gathering points fed one another. Held in sequence under broad, harmless pressure, they circled without completing the repair. The surgeons had gained twelve quiet minutes. Halfway through, Miora had asked for water, and afterward accused Edras of adding an extra count whenever he was scared.
+*You’re laughing while you get it.*
 
-A guard reached for the first platform dog.
+The man before me had no flour on his face and would not have improved with it. Still, the resemblance gave me a place to start. Not certainty. I had made that mistake before.
 
-"Wait," Edras said.
+I nudged one of the copper bowls with my heel. It skated over the tiles, ringing, and spilled rainwater across his path.
 
-The guard's hand stopped because Avarrax turned, not because Edras had spoken.
+His gaze followed it a fraction late. I ran for the satchel.
 
-"The mender requests a final word," Avarrax said. "Give it room to disgrace him."
+He moved fast once he chose a direction. His hand closed on the shoulder of my coat just as I caught the satchel strap. I dropped my weight, turned beneath his arm, and dragged the broken knife across the back of his forearm. His grip opened. The cut began closing even as his blood struck the floor.
 
-Edras nodded toward Avarrax's arm. "The closing passed through three holds before it reached the cut. The middle one lagged."
+“Again?” he asked, his eyebrows lifting.
 
-Avarrax glanced at the skin he had just watched become whole. "You name hesitation in the light because you have nothing else to name."
+“I only need the door.”
 
-"I can make the hesitation last."
+“There is no door for you until you acknowledge whose house received you.”
 
-Somewhere behind the columns, a person whispered no. The rope-maker had rolled onto one hip. She watched Edras now, the slackened loop hidden beneath her other hand.
+“This house tried to drown me through the ceiling.”
 
-Avarrax descended from the platform. "With what?"
+I pulled the satchel toward me. He stamped on the trailing strap.
 
-"My plates. Those straps. One fall of your block."
+The sanctuary had been empty when I climbed to it from the ravine road: no attendants, no pilgrims, no smoke from the kitchens. Only this man seated above a hall of mildewed cushions, waiting in a dry circle while the storm came over the mountain. I had asked for shelter. He had asked for my knees. We had both repeated ourselves until he decided to demonstrate.
 
-"And what does your claim purchase?"
+Now a tendon stood out in his neck. His renewed skin shone with sweat. He noticed me looking and lifted his chin.
 
-Edras looked at the seven on the boards. "Take them off the frame. If your next wound closes before the block reaches its lower stop, put me back with them. If it stays open, they live."
+“You witnessed death obey me.”
 
-The guard commander leaned close to Avarrax. His warning was too soft for the crowd, but Edras caught three words: no need, my lord.
+“I witnessed you get very hot.”
 
-Avarrax looked instead toward the bowed heads under the colonnade. He had made his body the answer to every objection. He could refuse a medic's hands, but he could not prevent the watching court from remembering that he had refused them.
+I jerked the strap sideways. His foot shifted, and the satchel came free. Two buckles burst. Rolls of bandage, three stoppered vials, my shears, and a coil of recovery web scattered over the floor.
 
-"Seven lives weighed against a foreign boast," he said. Ceremony returned to his voice, smooth and immense. "If my blood remains when the stone rests, the seven leave this court. Clear the platform. Cock the stone. No one will assist him. When his craft fails, he will pull the dogs himself."
+He looked down. I looked at the doors behind him.
 
-The guard cut Edras's wrist cord and kicked the medical case toward him.
+“No,” he said.
 
-The guards marched the prisoners off the boards and made them kneel beside the right upright. Two men fitted handspikes into the windlass. The granite block rose in its wooden guide until a square iron pin caught it at shoulder height. With the weight held, Edras lifted the main hook from the platform eye.
+That was his first useful answer. I snatched up the coil and ran the other way, toward the faded curtain beside the dais. Behind it, a narrow service stair dropped into the mountain. The smell rising from below was wet stone, old leather, and minerals sharp enough to taste.
 
-The empty boards settled flat across the pit.
+The road would be under water soon. My satchel was open on the audience floor. The sensible path was behind a man who had already survived being killed once.
 
-His hands shook as he opened the case. He pressed each fingertip to his thumb, one after another, and began measuring before the tremor was gone.
+I took the stairs.
 
-He took out the three splint plates. Each was the size of his palm, springy steel faced with felt, meant to spread the pressure of a transport strap over swollen flesh. He had no surgical weights, no fitted brace, no clean room. The frame offered one falling stone and three iron routing rings worn smooth by old rope.
+He followed without hurry at first. His bare feet made soft, deliberate sounds above me.
 
-"Remove the mantle," he told Avarrax.
+“You came into my refuge,” he called. “You drew blood beneath my image.”
 
-A guard drew breath at the command. Avarrax unfastened the gold scales himself and handed them over.
+There had been paintings on the hall walls. Damp had peeled most faces away, leaving crowns afloat over pale smears.
 
-"Witness," he said to the court, "how completely false wisdom is indulged."
+“Is that who they were meant to be?” I asked.
 
-Edras approached. "Left arm up."
+The steps turned sharply. I slipped around the central support and waited. When his shoulder appeared, I cast the recovery web over his arm, braced one heel against the stair, and pulled his wrist toward the opposite hip.
 
-Avarrax raised it. The glow beneath his skin had faded, but heat remained at the three holds. Edras found the first below the collarbone and set one felt-backed plate over it, then followed the absent path with two fingers. At the low ribs, Avarrax's muscles tightened.
+It was the first hold we used when my stepsister’s repairs ran too fast. Her body mended along two broad chains that crossed through her trunk. When both tried to bear weight at once, they dragged her into a spasm strong enough to break whatever she was lying on. We never stopped the repair. We gave one chain work and asked the other to rest.
 
-"Still," Edras said.
+The web drew taut. The man’s shoulder turned; his left leg faltered.
 
-"Do not mistake patience for obedience."
+For half a breath, I thought I had him. Then his hip moved the wrong way.
 
-Edras waited until the muscle released. He pressed the second plate into place, crossed behind Avarrax, and set the third over the hold above the opposite hip. The route was related to Miora's as two knots might be related: the same problem of tension, tied by different hands.
+Not wrong for him. Wrong for my hands. Instead of unwinding across the body, the tension climbed his right side and vanished beneath his ribs. He seized the web and hauled. I hit the underside of the stair hard enough to burst sparks across my sight.
 
-He set Avarrax with his back near the left post, feet apart on the paving, arms free. The plates were not restraints. The straps that held them would keep his trunk aligned if the weight engaged; his hands could still reach Edras, the ropes, and most of the frame.
+He twisted his captured arm. The wrist folded where the web held it. I released by instinct, but he had already used the injury to slip the loop. By the time his hand closed around the central support, the joint had rebuilt.
 
-The first strap circled high and passed through a waist-level eye in the left post. The second crossed Avarrax's back on a diagonal and ran through the ring above him. The third passed low through the right post's inner eye. Edras brought their three free ends together at the execution hook. The high strap had no spare length. He left a folded handspan in the diagonal strap and twice that in the low one. As the hook rose, the plates would seat one after another. If his timing matched the light, the repair would meet three closed turns instead of a wound.
+He pulled the web from me and snapped its wooden tension bar against the wall.
 
-"Your lower hitch will crawl," the rope-maker said.
+“A net,” he said. His breath was quicker now. “Was that the breadth of your revelation?”
 
-The guard beside her lifted his spear butt.
+I pushed myself upright. “No.”
 
-"Let her speak," Avarrax ordered. "There will be no excuse left unspent."
+“What, then?”
 
-She pointed with her chin. "You fed it across the rough cheek of the ring. Turn it, or the edge will eat the strap when the block drops."
+I said nothing. He wanted an answer more than he wanted me caught. That bought me two steps.
 
-Edras checked. Rust had raised a lip on the iron, invisible from where he had tied it. He reversed the pass.
+The stair ended at a landing lined with body braces.
 
-"Thank you," he said.
+They stood in pairs, tall frames of blackened wood with padded slings for shoulders and hips. Some were child-sized. Others could have held the man above me with room to spare. Their leather was cracked, their buckles green, but grooves had been worn into the handrails by years of use. A shelf held empty salt jars and cups with mineral crust around their rims.
 
-She looked away and studied the guide cage.
+So the great audience hall had a hidden underside, and somebody had once spent a great deal of time helping bodies through difficult hours.
 
-Edras tested each plate with two fingers, then laid the counterweight's guide cord along the paving where he could reach it. The square release pin stood proud of the right post. One pull would send the stone down four feet to its stop and the main hook up by the same distance.
+The man stopped on the last stair. He saw where I was looking.
 
-Avarrax watched the bridle take shape around him. "You spend commands freely for a bound foreigner."
+“Those are refuse.”
 
-"Close your hand."
+“Good. I need parts.”
 
-"You have forgotten whose trial this is."
+I tore a sound length of strap from the nearest frame. He came down fast.
 
-"If you start with your fingers spread, I can't see when they loosen. Close it."
+I ducked behind the brace. His fist split the upper rail where my head had been. The old wood gave way with a dry report. I caught the lower rail and drove the broken frame across his shins. He kicked through it; one upright glanced off his left hip. His right shoulder tightened after the hip had already taken the force, while his right knee corrected into the pull beneath his ribs. The delayed eye, the locked knee, the staggered response—none of it made my stepsister’s clean crossing. His repair carried load in offset pairs, overlapping instead of mirroring.
 
-Avarrax made a fist.
+Or I was frightened and inventing patterns because patterns were easier than death.
 
-The commander's mouth hardened, but Avarrax's expression cleared. He had found the use for every indignity: each one enlarged the miracle that would follow.
+He caught my coat again and lifted me against the wall.
 
-He drew a narrow gold pin from the clasp of his discarded mantle. "Will this suffice?"
+“Look at me,” he said.
 
-"Across the heel of the palm. Shallow."
+Up close, his skin smelled of hot metal and rain. The corner of his mouth ticked. He had spent water sealing what I had opened, then spent more escaping the web.
 
-Avarrax drew the point over his skin. A red line appeared.
+“I am looking.”
 
-"Behold," he told the crowd, lifting his hand, "the measure of mortal knowledge."
+“What do you see?”
 
-Light formed below his collarbone.
+His grip tightened. He expected an office, a domain, a glorious name. I saw one pupil wider than the other and salt dried white below his ear.
 
-Edras did not pull. The first glow always lied by seeming to begin the work. He waited for it to contract, for the instant the repair committed to the crossing.
+I drove my thumb into the knot already trembling under his renewed arm. The arm folded before the rest of him caught up. I dropped, left my coat in his hand, and ran through the low doorway at the end of the landing.
 
-The bright oval narrowed.
+The chamber beyond was round and warm. A mineral basin occupied its center, fed by a pipe that dripped cloudy water from the rock. Four iron supports leaned over it. Straps hung from them, better preserved by the damp than the frames outside. Against the far wall, a maintenance gate stood above a drainage channel. Rain showed silver through its slats—an exit, if the wheel would turn.
 
-Edras tore the square pin from the post.
+I reached it and put both hands on the wheel. Rust flaked beneath my palms. It shifted one finger’s width, then stopped.
 
-Granite fell inside the guide. The execution hook snapped upward. First the high strap straightened, bowing its plate against the upper hold. A handspan later the diagonal came taut. The second plate seated as the light surfaced beneath Avarrax's ribs. The low strap lost its final fold just before the block struck the bottom stop.
+Behind me, water splashed.
 
-The third pulse flashed above Avarrax's hip and turned back.
+The man had stepped into the basin. He crouched and drank from his hands, without ceremony now. The tremor in his face eased. His shoulders settled at different times, right before left. The bruise at his left hip faded upward toward his right shoulder while the scrape at his right knee contracted toward his ribs. Not a crossing. Two crooked lines sharing the middle.
 
-It found the second hold still bright. Light crowded between them, spread in thin branches beneath his skin, and returned to the first. The line across his palm remained red. A drop gathered at its edge and did not disappear.
+My stepsister had once woken me after midnight by tapping a spoon against my doorframe.
 
-Avarrax stared at it. For the first time, his voice reached only the platform.
+*Cup’s too heavy,* she said.
 
-"You actually managed to counteract my regeneration?"
+It was not. The cup was tin. But her repairs had spent everything after a fever, and both hands shook when she tried to lift it.
 
-Edras kept one hand around the guide cord. "I don't know what your deal is, but where I am from guys like you aren't rare, hell, my stepsister is one of you. We know how to deal with your anatomy."
+*Water or broth?*
 
-"What are you talking about!? I am a GOD!"
+*Water. No, broth. Is there any salt left?*
 
-"You have the ego of one, that's for sure."
+I had held the cup while she drank. In the morning, when she could close her fingers again, she made me practice the release buckle on the recovery web until I could open it with either hand. The first time I fumbled, she took the web away. If I could not open it frightened and half-awake, she said, I had no business closing it around her.
 
-Avarrax seized the execution hook.
+The man rose from the basin.
 
-He dragged it down with one hand. The granite block scraped upward in its guide. Slack returned to the low strap, and its plate turned beneath the cloth. Edras threw his weight onto the cord, but Avarrax hauled the hook another foot. The left upright bent toward him. A crack opened at its base.
+“Last opportunity,” he said.
 
-The stalled repair had taken nothing from his strength.
+His words came more slowly, perhaps because he had decided slow speech sounded merciful. His attention had sharpened. He was done displaying himself.
 
-Avarrax struck Edras with his free arm. Edras hit the empty platform on his side and slid until one boot hung above the pit. Light burst behind his eyes. By the time he found the edge and rolled clear, Avarrax had pulled the hook low enough to take a step.
+I let go of the gate wheel. “All right.”
 
-The upper plate held. The middle one was slipping. The lower hung useless at his hip.
+He waited.
 
-"Guards," Avarrax said. The great court-filling tone was gone; he forced volume through clenched teeth. "Cast down the seven. Kill every hand that reaches for a rope. Now."
+I lowered myself to one knee.
 
-No one moved quickly enough to satisfy him.
+Satisfaction altered his face before he could prevent it. He stepped out of the basin and came to stand over me. Water streamed from his clothes. His right foot landed close to my hand, his weight already committed forward.
 
-The rope-maker did. She lunged from her knees and caught the guide cord where it ran beneath the counterweight cage. Her wrists were still joined, but she wound the cord around both forearms and leaned away. The stone stopped rising.
+I pulled the release pin from the nearest support.
 
-"Bottom cord!" she shouted. "Pull the block down!"
+The iron arm dropped across his right shoulder. I rose under it, using my legs and his forward motion to drive him past me. He struck the basin rail. Before he could turn, I looped a broad strap behind that shoulder and clipped it to the rear support.
 
-The broad prisoner beside her threw himself onto the cord. A third caught it behind him. Their combined weight drew the granite lower by an inch. Avarrax's fist tightened on the hook, and the balance held.
+He tore the clip free.
 
-The nearest guard looked from Avarrax's open palm to the prisoners. He had worked the windlass; he knew exactly what the stone could do. He turned his short blade over and cut the rope between the rope-maker's wrists.
+I had expected him to. The break dragged his shoulder backward while his left hip drove forward to recover his balance. I kicked the second support loose. Its padded sling caught the hip and held that rotation for one crucial moment.
 
-The commander knocked him aside with a spear shaft. "Your oath—"
+His renewal answered the strain. Heat struck my face.
 
-The guard rammed the hilt into the commander's chest and cut the next prisoner free.
+The line from his left hip to his right shoulder tightened first, trying to set both into one bearing posture. The fading injury at his right knee called the line beneath his ribs a beat later and turned his trunk against it. I pulled the remaining strap low across the basin, not around a joint but across the two slings, and fed it through the old floor ring.
 
-Five villagers ran from the colonnade. Others fled through the outer gate or flattened themselves against the wall. An old man came still murmuring one of Avarrax's dawn prayers and took the guide cord without finishing it. Two women braced their feet against the counterweight cage. The granite descended to its stop.
+He reached for me. His fingers brushed my hair.
 
-"Pin it above the block," the rope-maker told the guard. "Lowest hole."
+I threw my whole weight backward.
 
-He snatched the square iron pin from the paving. The hole was half hidden by the stone. Four people hauled. The block dropped the width of a finger, and the guard drove the pin through the guide just above it. Avarrax could still pull against the weight, but he could no longer lift it far enough to give himself slack.
+The slings turned in opposite directions.
 
-The cracked upright lurched.
+He could have broken either one with ordinary strength. He tried. The right shoulder surged forward; the left hip followed; the half-mended knee asked him to shift back. His body corrected the correction. One foot stamped down and did not rise. His reaching hand stopped short of my throat.
 
-"The foot!" called the broad prisoner. "It is walking out of the socket."
+The chamber filled with the smell of hot stone.
 
-The empty platform still had both iron dogs. A potter from the crowd tore one loose while another villager dragged a handspike from the windlass. They laid the spike across the split and hammered the dog through its eye into the frame's sill. The post stopped moving, though every pull from Avarrax made the repair groan.
+“What did you do?” The ceremonial fullness had gone out of his voice.
 
-Edras crawled toward the low plate.
+I kept both hands on the strap. It thrummed hard enough to numb my fingers. “Held the repairs apart.”
 
-Avarrax saw him. His hand left the hook and closed around Edras's coat at the shoulder. He lifted him until the cloth cut under Edras's arms.
+He heaved again. The iron supports groaned. A buckle tore halfway through its leather tab, then stopped when his strength vanished into another shudder.
 
-"Release me," Avarrax said. "Speak the order."
+“My renewal.” He pulled once, weaker. “You stopped it.”
 
-Edras could not fill his lungs. He reached not for Avarrax's wrist but for the turned plate, caught its felt edge, and shoved it flat.
+“Not for long.”
 
-"Tighten the low tail," he managed.
+He stared at the motionless hand in front of him. His mouth opened, but no sound came until he tried the hand again. “How?”
 
-The rope-maker heard. She shifted one hand from the guide cord to the third strap. A guard took her place on the cord. She pulled the tail through the smooth face of the ring, the pass she had corrected before, and three villagers closed their hands behind hers.
+I watched his breathing. Fast, but open. The strap had not crossed his throat or chest. Good.
 
-The strap snapped straight. The plate seated.
+“Where I come from, regenerators aren’t rare.”
 
-Light folded back from Avarrax's hip in a hard white flare. His grip opened. Edras dropped to his knees. Before Avarrax could catch him again, the broad prisoner and two guards threw the platform chain around Avarrax's forearms and drew it behind the left post. More hands took the loose end. No single person held enough of it to be dragged forward.
+His mouth tightened around the word as though I had called him livestock.
 
-Avarrax fought until the crossbeam shook dust from its joints. The stone stayed pinned. The repaired foot of the upright stayed in its socket. The three plates held their uneven triangle, and the thin cut across his palm remained.
+“My stepsister is one,” I added. “I guessed you’d be similar. You weren’t. Not quite.”
 
-At last he stood still. His chest rose fast beneath the high strap. Light continued to move under his skin, and the people nearest him stepped back when they saw it. They did not release the chain.
+He tested the bind with a small turn of the shoulder. The strap hummed.
 
-The rope-maker found Avarrax's gold pin on the paving. She closed her fist around it and climbed the first step.
+“I am a god.”
 
-Edras caught her wrist.
+“You keep saying that.” My grip slipped. I wrapped the loose end once around my forearm and leaned back. “Stop pulling.”
 
-"Not another wound," he said.
+“Release me.”
 
-"Take your hand off me."
+“When I’m outside.”
 
-"The first pulse is loaded against that hook. Start a second and I don't know where the force goes."
+He fought the bind again. The right support lifted from the floor and slammed down. Heat poured from him, but there was nowhere for the effort to go except through the mismatched renewal. His legs buckled without letting him fall. The slings held him in a strained half-kneel at the basin’s edge.
 
-She looked past him. The iron hook quivered above the broad prisoner's head as he braced the post.
+“You mistake the body for the being,” he said through his teeth.
 
-From behind a bronze door at the back of the court came a dull pounding. Once, twice, then many fists together. The rope-maker looked toward the sound. She turned the gold pin in her hand and used it to saw through the wrist rope of the prisoner nearest her.
+“I’m working on the part that grabbed me.”
 
-Edras released her.
+His eyes found mine. For the first time since he rose upstairs, he was not performing for an invisible hall. He was measuring distance, buckles, my tired hands. Thinking. The change made him more dangerous and easier to predict.
 
-The court did not settle. Half the guards had vanished. Three stood with the commander, who had recovered his spear but seemed unable to decide whom it could still command. Four others joined the villagers at the frame. The guard who had cut the first bonds surrendered a ring of keys. When the bronze door opened, people came out shielding their eyes, and the work of counting them pushed every other question aside.
+“How long?” he asked.
 
-Edras remained beside Avarrax. He drew charcoal from a guard's brazier and marked the edge of each plate on its strap. One line on the high pass, two on the diagonal, three on the low. He marked the counterweight guide at its present stop and at three higher positions where the straps would slacken in reverse order.
+“If you keep doing that? I don’t know.”
 
-The guard who had cut the first bonds crouched beside him. "You can do this to any of them?"
+“And if I stop?”
 
-"No."
+“Lie still. Let the heat come down. The straps loosen when your body quits choosing between the two positions.”
 
-"You said your stepsister was one."
+“You expect obedience.”
 
-Edras rubbed feeling back into his bruised shoulder. Miora would have hated the question, and hated more the answer he had thrown at Avarrax.
+“No. I’m telling you what happens next.”
 
-"Miora taught me to recognize a loop," he said. "Hers runs elsewhere, and she chose when we stopped it. These marks belong to him, in this frame, from what I watched today. Move a plate and they mean nothing."
+The damaged buckle gave a small, fibrous creak.
 
-The guard glanced at Avarrax. "Then show us this frame."
+He could keep fighting until the old leather failed. He might catch me before his next collapse. Or he could preserve his body by accepting stillness from a stranger who had already proved willing to stab him. Neither choice resembled worship.
 
-Edras made him put his own fingers on each charcoal edge. The rope-maker came back from the opened cells and learned the same checks. Neither was told where to search on another body. They needed to know only when Avarrax's plate had slipped, when his palm had begun to close, and which line on the timber meant the block must stop.
+His hand closed by a fraction. Opened. At last he let his shoulder sink into the sling.
 
-The released prisoners brought chains from beneath the court. Quarry workers brought cribbing from a stone shed and boxed the strained uprights so Avarrax could not pull either foot from its socket. The guards locked the outer gates, passed the keys through the bars to people outside, and set two watches: one on the frame, one on the commander and the men who remained with him. Runners went first to the other cells, then toward the houses where Avarrax's soldiers slept.
+The strap went on vibrating for several breaths, then softened.
 
-By late afternoon, Edras had written the release order on the frame itself. Before any strap came free, both court gates were to be barred and every person cleared from the reach of Avarrax's arms. The windlass would raise the block only to the three-line mark. The low plate would be lifted and one full passage of light observed. Then the block could rise to two lines, then one. If the path changed, the weight went down and the square pin went back above it. Edras snapped the charcoal and dropped both halves into the brazier.
+I waited until his weight settled without another surge. Releasing my end too quickly could tighten the hip sling; leaving it wound around my arm meant he could drag me close if he changed his mind. I unwound one turn at a time.
 
-The suspension could not stay loaded without pause. Near dusk, the edges of Avarrax's plates had begun to press deep dents into the felt, and his cut hand had gone cold. Edras called the two watches into position. The rope-maker took the windlass brake. The guard stood with the square pin. Six villagers held the guide cord beyond the cage, and everyone else withdrew behind the barred west gate.
+“Your people built this room for the aftereffects,” I said. It was not a question.
 
-Avarrax had been silent for an hour. Now he lifted his head. The remaining daylight burned along his eyes, whether by his will or by the sun's.
+He looked toward the salt jars on the landing. “They feared imperfection.”
 
-"Water," he said.
+Maybe they had. Maybe they had simply grown tired of catching him when the floor moved. I did not need his version before the road vanished.
 
-Edras checked the three charcoal edges. "West gate secured. Raise to the three-line mark. No farther."
+I secured the strap with the release buckle facing his free hand. He could reach it once the tremor passed. Then I took a cup from the shelf, filled it at the basin pipe, and set it on the rim near him.
 
-The rope-maker leaned into the windlass. The stone rose the width of Edras's hand. The lowest strap softened. Under its plate, a thread of gold found the return path and moved once toward Avarrax's waiting palm.
+He watched the cup instead of me.
 
-Edras lifted two fingers. The brake caught. The guard drove the pin home, and only then did someone pass the cup through the bars.
+“That is not reverence,” he said.
+
+“It’s water.”
+
+I went upstairs for my things.
+
+He did not call after me. In the audience hall, the rain had found new holes. It drummed on the scattered contents of my satchel, soaked the bandages, and washed his blood into the cracks between the tiles. I recovered the vials, the shears, and what dry wrapping remained. The broken knife I left beneath his painted faces.
+
+The outward doors still would not open. I returned to the recovery chamber and forced the maintenance wheel with the shears wedged through its spokes. Rust cracked. The gate lifted six inches, then nine, spilling cold rain over my boots.
+
+Behind me, the man remained still. Steam had stopped rising from his coat.
+
+“There are many of me?” he asked.
+
+The question was quieter than his other questions and less complete.
+
+I crouched by the opening and pushed my satchel through. “Many who mend. I don’t know if any of them are you.”
+
+His lips parted, then closed.
+
+I slid under the gate and dropped onto the lower slope.
+
+The ravine road had already flooded. Brown water covered the marker stones and shouldered branches against the bend. Going down would put me in the river before dark; going back through the sanctuary would put me in front of its owner before his hands steadied.
+
+Above the road, a goat track cut across the shale toward the ridge, narrow, exposed, and still passable. I shortened the satchel strap. Before the rain loosened it, I put my full weight onto the first slab and started up.
