@@ -1,445 +1,399 @@
 ---
-title: "The Distance Between Altars"
+title: "Where Rival Gods Go Quiet"
 slug: "head-priests-in-love"
 created: 2026-08-14
 created-at: 2026-08-14T08:35:35-04:00
 canon: false
 ---
 
-# The Distance Between Altars
+# Where Rival Gods Go Quiet
 
-Mezarin heard Ankora humming before she reached the counting room.
+By the time Levara found Holdfast's command in the salt crust of the stern line, three hundred people were watching her pretend not to read it.
 
-She stopped on the landing, one hand inside her document case. The quarter's mixed petitions waited there in two tidy bundles, every red cord kept apart from every blue. She had arrived half an hour early to leave them on the neutral table and be gone before Orsava's head priest appeared. That had seemed a defensible use of time.
+The letters had risen white between her gloved hands, small and hard as fish teeth.
 
-The humming ceased.
+BRING TARN HOME TO ME.
 
-“You might as well come in,” Ankora called. “The stair has already betrayed you.”
+Levara closed her fist. Crystals bit through the worn leather at her palm. Around the launch basin, the people of Holdfast waited beneath dripping awnings while, across a channel no wider than a cart road, Farwake's congregation crowded the open wharf and accepted the rain as an endorsement.
 
-Mezarin entered.
+It was the seventh year Levara Quist and Ambel Tarn had made the Brackwater Circuit together. Holdfast required a properly tied mooring before he would still the inner water. Farwake answered only a craft deliberately released toward open sea. At spring tide, where the two powers crossed, either god could roll a skiff if the invocations came out of order. Thus the opposing head priests shared one boat, one route around the reef, and a liturgy neither side trusted the other to perform alone.
 
-He stood over the narrow table with his sleeves rolled above his wrists. Orsava's broken-ring seal hung loose at his throat, silver warmed almost white by the goddess's attention. Three inkstones pinned the corners of a single petition. Its two prayer cords crossed in the middle as if the supplicant had tied one god to the other.
+Levara was thirty-eight. She had been head priest long enough to recognize an instruction dressed as an invitation.
 
-Ankora nodded to her in a way that fell just short of a bow. “Head Priest.”
+"Line secure?" called her launch keeper.
 
-“Head Priest.” She set down her case. “You were to collect the returns after ninth bell.”
+"Secure," she answered.
 
-“I was. Then someone asked both our gods to answer one sentence.”
+The rain stopped dimpling the basin. Every drop met the water and vanished without a ring. Holdfast had taken the knot.
 
-“That is why we return mixed prayers.”
+Across the channel, Ambel stepped into the circuit boat. He wore Farwake's coat of pale sailcloth with the cuffs unfastened, and his dark hair had already plastered itself to his forehead. At forty-one, he ought to have learned that loose things traveled seaward in his god's presence. The wrapped loaf under his arm began inching toward the gunwale before he caught it with one elbow.
 
-“Read it before you become efficient.”
+Laughter rose from both wharves, affectionate on one side and hostile on the other.
 
-Mezarin had held Elovar's highest office for twenty-three days. Already, people lowered their voices when she entered a room and waited for her to supply certainty whether or not certainty existed. Ankora had held Orsava's office for seven years and seemed to have mistaken longevity for permission to annoy her before breakfast.
+Ambel bowed to Levara. "Your god has made the water very obedient."
 
-She read.
+It was the customary opening insult, though not the customary wording.
 
-*Leave my father's kiln in my hands. End the promise that says I may fire only the shapes he approved.*
+"Your god mistakes drift for freedom," she replied.
 
-A clay thumbprint darkened the lower corner. The kiln had passed through an inheritance compact: work, property, and vow made one legal thing. Elovar could sustain a deliberately chosen obligation and defend the boundary around what it secured. Orsava could end an obligation whose living assent had failed and revise what no longer fit. Both powers were local, real, and practiced. Layer them on one uncertain request and the result would not be fairness. It would be two opposed authorities pulling at the same knot.
+The Holdfast wharf stamped its approval. Farwake's people hissed. Ambel's mouth moved at one corner. She knew that movement. It meant he had thought of a better answer too late and would save it for the return.
 
-“Return it,” Mezarin said.
+Levara stepped aboard. The boat sank under her weight, then seemed to think better of rocking. She fixed the home line to the stern cleat and checked the six turns with her thumb. When she reached for the bow line, Ambel said, quietly enough for the rain hoods nearest them not to hear, "Left buckle."
 
-“With which question?”
+Her sandal strap had worked loose. She fastened it without thanking him.
 
-“Whether the potter will renew the compact in order to keep the kiln.”
+"Bow away," she called.
 
-Ankora moved one inkstone a finger's width, uncovering a line he had written. “That asks whether fear of losing a livelihood can be made to sound like assent.”
+The launch keepers shoved them into the still water. Oars carried the boat past the last rows of listeners, past Holdfast's warehouses with their ropes furred white and sound beneath the crust, past the Farwake shrine where no cup was ever left unattended on a sill. Only when the shouted responses had thinned behind them did Ambel open the loaf wrapping.
 
-“It asks what she chooses.”
+"If your people stamped any harder," he said, "they could have driven the pilings for the new smokehouse."
 
-“It gives her only the choices her father left.”
+"That would constitute labor. They came for theology."
 
-“We cannot invent a third.”
+"And to watch us drown."
 
-“No. But we can ask whether she has one.”
+"Only your side. Mine know Holdfast would return the body."
 
-Mezarin disliked his answer because it was not careless. Orsava's priests were commonly accused of treating every burden as proof a promise had died. Elovar's were accused of polishing chains and calling the shine maintenance. Ankora did not offer either accusation. He pulled out the chair opposite him.
+He looked at her over the loaf. "You rehearsed that."
 
-She remained standing. “You want the temples to decide an inheritance dispute.”
+"For seven years. You finally gave me the opening."
 
-“I want the potter to tell us whether she is willing to lose the kiln. You want her to tell us whether she will endure the vow. Those are different questions.”
+That earned the laugh she had wanted. It was brief and low, almost lost beneath the knock of the oars. Levara turned to inspect the next harbor ring so he would not see how exactly the sound had landed.
 
-“They are the same consequence.”
+They had two hours of inner water before the tide exposed the channel stones. Levara recited the first renewal while Ambel rowed. At each marked ring she passed the home line through iron, tied, felt the basin around them settle, and spoke Holdfast's claim. Ambel answered with Farwake's objection, then pulled the line free before they moved on. Their timing had become so clean that the words lay over the work instead of delaying it.
 
-“Consequences are rarely the same from both sides.”
+At the third ring, Levara said, "The fourth response needs clarification."
 
-He used humor when he wanted room to move. Here, he had put it away. Mezarin sat.
+"It has survived a hundred and twelve circuits."
 
-They ruined four sheets of return paper. Ankora objected to *continue* because it made the old arrangement the natural state. Mezarin struck out *escape* because it judged the vow before the potter had. He wanted to ask what work the petitioner would choose without the compact. She insisted they ask what cost she would accept if the property and promise could not be separated. When he wrote *What do you wish to become?* she crossed out the entire line.
+"Longevity doesn't remove ambiguity. 'What enters keeping shall be returned.' Returned to whom?"
 
-“She asked about a kiln,” Mezarin said. “Not her soul.”
+Ambel shipped his oars. "We settled this last year. Wreckage goes to the owner if known, the finder if not. Bodies go to kin."
 
-“You make curiosity sound indecent.”
+"People who enter by choice aren't wreckage or bodies."
 
-“In official correspondence, it often is.”
+"Usually."
 
-His mouth bent, but he surrendered the line.
+"Suppose someone under Farwake's authority sought Holdfast's keeping. Would your claim follow them?"
 
-The finished return contained three questions. It bore neither seal. The potter would answer, withdraw, or take the dispute to the city courts, where no god's preference could be mistaken for her own.
+He glanced first at her, then at the white scar of salt across her closed hand. "Are we discussing asylum?"
 
-Ankora blew sand across the ink. “That took only an hour.”
+"We are discussing the reach of consent under rival jurisdictions."
 
-“It would have taken ten minutes if you had not come.”
+"No. You're testing a knot before you put weight on it."
 
-“It would have taken one form.”
+She drew the line free of the ring. The released end crept across the floorboards toward the bow until she pinned it with her heel. "That is an image, not an answer."
 
-“Exactly.”
+"It's the answer you're getting."
 
-Before he could answer, the counting-house mistress entered with a tray of breakfast rolls. Mezarin's consecrated cuffs held the nearest dough in its present shape; Ankora's vestments hurried the yeast through rising and into collapse. One row of rolls sat pale and dense. The other sagged like punctured bladders.
+"The review is part of our duty."
 
-The mistress looked at the tray, then at both head priests.
+"The review happens with six clerks and both councils in the room. You hate having no minutes taken."
 
-“Next quarter,” she said, “you may eat stones.”
+He bent to the oars again. Levara could have invoked her office, or the schedule, or the plain discourtesy of refusing a material question. Each response would confirm him.
 
-At the second handoff, Ankora brought barley cakes cooked flat on iron.
+Instead she said, "Your bread is moving."
 
-He had also brought tea: black, unspiced, and bitter enough to suit Mezarin. He placed the cup at her right hand without comment. She moved it half an inch farther from the petitions.
+Ambel caught the parcel at the bow. "Coward."
 
-“The counting-house mistress remains offended,” he said.
+"Careless."
 
-“Her offense has improved her planning.”
+"I meant you."
 
-“You could thank me.”
+He tore the loaf in two and offered her the larger half. It was dense with honey and black seeds, made by the bakers who provisioned departing ships. Levara had eaten their bread on every circuit and complained each time that it stuck to her teeth. Ambel continued bringing it.
 
-“For the tea or the absence of stones?”
+"No," she said.
 
-“Whichever costs you less.”
+"You skipped the launch meal."
 
-This quarter's difficult prayer concerned a pear tree rooted across two adjoining courtyards. Both households wanted the tree preserved. Each wanted its duty to water, prune, pay for, and clean after it ended. Ankora had obtained a surveyor's sketch. The roots had cracked one cistern and lifted a wall; the canopy shaded both kitchens and dropped fruit into a third yard.
+"You cannot know that."
 
-Mezarin studied the pencil lines. “If neither household accepts the maintenance, the prayer to Elovar is dishonest.”
+"There was no flour on your right sleeve."
 
-“Agreed.”
+She took the bread. When she closed her hand around it, the salt crystals inside her glove cut deeper.
 
-She looked up.
+At the harbor mouth, the last Holdfast ring stood in a low stone post. Beyond it the water humped and traveled, dark bands sliding toward the reef. Levara looped the line through the ring while Ambel raised the short sail.
 
-Ankora tore a cake in two. “Try not to appear wounded. Agreement happens.”
+"Hold," she said.
 
-“The tree could be transferred to the third household.”
+"Holding."
 
-“The household currently being assaulted by pears?”
+She loosened the first turn. The boat remained fixed in Holdfast's flat water. Another turn. Another. Ambel waited with one hand on the halyard, looking out instead of at her. That courtesy made the choice worse. If she kept the final loop around the ring, nothing in Farwake's current could take them. Nothing could carry them through the circuit, either.
 
-“They collect the fruit.”
+Levara slipped the loop free.
 
-“They throw it back.”
+"Farwake," Ambel said, "this craft goes by its own choosing. Bear it outward."
 
-“What kind of person throws back pears?”
+The current took hold under the keel.
 
-“A person with a roof.”
+Levara felt the loose line tug against her boot. She looked down. The salt-stiffened bight had crawled over the side and hooked around the mouth marker behind them. The boat swung broadside. The sail cracked, the mast leaned, and cold water slapped across both benches.
 
-They drafted a return asking each household what it would do, rather than what it wished the gods to make other people do. The language took twelve minutes. The argument about the third yard took another forty, though no line of the return depended on it.
+"Let it run," Ambel said.
 
-When the handoff bell rang, the courier failed to appear. A boy arrived instead with a message that the courier's cart had lost a wheel near the west gate.
+Levara seized the line. The marker pulled one way, the current another. "It will foul the steering oar."
 
-“I will take the packet to civic records,” Mezarin said.
+"Not if you let it run."
 
-“So will I.”
+The rocks to leeward were not close enough to kill them, only close enough to tear away a plank and make the rest of the night intolerable. She could retie the line and call Holdfast, but Farwake was already beneath them. The two powers would meet in the hull.
 
-“That is unnecessary.”
+"Levara." Ambel dropped the sail and set the steering oar hard. "Give me the bow."
 
-“Then you should not do it either.”
+She opened her hand.
 
-She gave him half the petitions.
+The line hissed over the gunwale. Freed of her pull, the bight slackened around the marker. Ambel used the last of the outward current to bring the bow across it, precise as a needle passing through cloth.
 
-Outside, Palem had entered the brittle brightness before spring rain. Temple bells called from opposite hills, Elovar's in steady paired strokes, Orsava's in a descending scatter that never repeated quite the same way. Between them lay the dye market, the public baths, three courts, and enough food stalls to tempt every kind of vestment into stains.
+"Now."
 
-People noticed the two head priests together. A fish seller lowered his knife. Two women carrying folded linen stepped aside and then looked back. Mezarin kept exactly one paving stone between her sleeve and Ankora's.
+Levara leaned out with the boat hook, caught the bight, and lifted. Salt scraped stone. For a moment the line hung heavy enough to drag her shoulder down; then Ambel shifted his weight without being asked, the boat rose under her, and the loop came free.
 
-He carried his bundle badly. “Why Elovar?”
+They drifted clear in ordinary tide. The line lay in a sodden heap between them. Levara's coat clung from hip to ankle, and one of Ambel's sleeves had filled with water.
 
-“That is not relevant to the packet.”
+He peeled it back and wrung it out. "A persuasive demonstration."
 
-“The packet has not complained.”
+"Of what?"
 
-“Paper is famously patient.”
+"You let Holdfast catch me and promise you'll loosen the line afterward."
 
-“That sounded almost like a joke.”
+"I did not foul it deliberately."
 
-“It was an observation.”
+"I know."
 
-He waited. Ankora's silences did not feel empty; they felt like doors he had declined to close. Mezarin lengthened her stride, but he was taller and refused to be left.
+"Then don't use an accident as a doctrinal argument."
 
-“My first temple charge was the winter kitchen,” she said at last. “People praised the city for feeding anyone who came. They praised mercy, tradition, Elovar. They did not praise the six people checking grain for mold, or the woman who mended oven bricks, or the novices who renegotiated every promised jar of oil. The custom existed because someone did the ugly part on time.”
+"You began interviewing my soul before we cleared the breakwater."
 
-“And you enjoyed the ugly part?”
+There it was: not anger, yet, but the withdrawal of an ease she had come to depend on without ever naming it. He stepped around her to raise the sail. Usually he warned her before the boom crossed. This time she had to duck.
 
-“I enjoyed knowing where failure began.”
+Beyond the mouth, Brackwater Reach widened beneath rain clouds thinning from charcoal to pewter. The reef made a black half-circle around it, marked by three lanterns and the pale churn of Farwake's water. Ambel set their course for the first light. Levara flaked the wet home line into exact coils and tried to find a version of the truth that would not sound like surrender.
 
-Ankora shifted the packet under his arm. “That may be the most Elovaran answer ever given.”
+She found twelve inadequate ones before the first reef bell.
 
-“You asked.”
+The bell hung from an arch driven into the rock. Ambel brought them alongside, and Levara passed the line through its ring. The instant her knot took, the chop flattened. The sail sagged.
 
-“I did.”
+Fresh crystals lifted on the rope beneath her fingers.
 
-At the bridge over the tanners' channel, he stopped to let a handcart pass. Mezarin stopped too, unwilling to have him follow with one hand occupied and drop a prayer into brown water.
+PRESS THE COST OF ALWAYS LEAVING. OFFER HIM SAFE HARBOR.
 
-“Why Orsava?” she asked.
+Ambel was close enough to read over her shoulder.
 
-He watched the cart's axle clear the curb. “My family kept a fishing partnership for twelve years after everyone involved wanted out. Good people, good boats, no theft. They had simply ceased to want the same life. Each year they renewed the agreement because breaking it would hurt the others. By the end, they could not speak without accounting for who had suffered most.”
+For seven years she had watched him find laughter in council deadlocks, funerals delayed by contrary winds, fish guts on ceremonial hems. Now his face emptied.
 
-“What did you do?”
+"There," he said. "That saves time."
 
-“Left.”
+Levara dragged the rope through the water. The letters dissolved, but he had seen them.
 
-“From the partnership?”
+"Farwake spoke to me at the launch," Ambel continued. He sat on the opposite bench and pulled the wet sleeve straight over his wrist. "Through the channel under the cradle. 'Bring her beyond every fastening.' He promised a clean outward current for every ship I bless this season if I succeeded."
 
-“From the family table. I was sixteen and very righteous.” He resumed walking. “Orsava's temple was the first place where someone asked whether an arrangement could be over before anyone became wicked enough to deserve escape.”
+The reef bell moved once above them, though Holdfast had stilled the water. Its note was small and sour.
 
-“And was it?”
+"Holdfast offered no inducement," Levara said.
 
-“Yes. They ended it four years later.”
+"That sounds like him."
 
-“You waited four years to be proved right.”
+"You are not entitled to mock—"
 
-“Seven, if you count the time I spent telling everyone.”
+"I am wet to the skin because your holy rope tried to stay behind. Allow me one remark."
 
-There was the joke, covering the old bruise. Mezarin could have let it do its work. Instead she said, “Did you go back to the table?”
+She pressed both hands to the coil. "He commanded me to bring you home. I was not told what means were permitted, but conversion obtained under false pretenses would be invalid under the third covenant, and any benefit offered to you would have to be disclosed before assent."
 
-Ankora looked at her then. Not at her clasp or the packet or the strip of safe pavement between them.
+Ambel looked toward the lantern, not at her. "You worked out the proper way to recruit me."
 
-“Eventually.”
+"I worked out what would not count."
 
-At civic records, they handed over the prayers. The clerk counted every cord twice. Their official business ended.
+"That isn't better."
 
-Ankora still had one barley cake in its paper. He held it toward Mezarin.
+"It is materially different."
 
-She took it. They walked together as far as the place where the road split toward their separate temples, and stood there long enough for three more handcarts to pass.
+"To you."
 
-By summer, the prayer margins had become a conversation neither temple had commissioned.
+The answer struck because it was careless. Levara stood so quickly the boat rocked inside Holdfast's calm.
 
-At first they confined themselves to objections. *This debt was renewed after the harvest,* Mezarin wrote beside one of Ankora's recommendations. He returned the page with, *By a debtor whose creditor attended the signing with six cousins.* Her response occupied the narrow strip below: *A crowd is not a compulsion simply because you dislike the cousins.*
+"Yes, to me. I am not a trap my god sets. I had the command, and I questioned it. I asked you questions rather than lying. Poor questions, apparently, but mine."
 
-Then came useful irrelevancies. He marked the page number in a dull treatise where an ancient jurist had accidentally made her case. She warned him that the sesame seller below Orsava's south stair was using rancid oil. When his handwriting sloped after midnight ceremonies, she sent back his proposed wording with every error corrected and the instruction *Sleep before defending this.* When a tremor in her wrist made her ink blot, the next packet arrived with thicker pens and no remark.
+"Were they?"
 
-She began leaving the afternoon after each handoff free. This was sensible. Ankora was inefficient.
+"Some of them."
 
-At the third meeting, rain closed the streets before either could leave. It came sideways through the counting-room window and lifted the unsealed papers in gusts. Mezarin seized the blue-corded bundle. Ankora caught the red. Together they dragged the table away from the wall, one leg shrieking across the stone.
+At last he looked at her.
 
-“The shutters,” she said.
+Levara's fluency deserted her at precisely the point it was supposed to prove useful. Rain ticked on the slack sail. The lantern above them put a stripe of amber along Ambel's cheek and made the rest of him difficult to read.
 
-“The upper hinge is broken.”
+"I have considered," she began, "whether a change of allegiance would remove certain conflicts that neither office can otherwise accommodate."
 
-“Then hold it.”
+"Stop making a clause."
 
-“With what?”
+"It helps me not lie."
 
-“Your hands, Ankora.”
+"Then make it shorter."
 
-He climbed onto a chair. She braced it while he forced the swollen shutter inward. Water darkened his gray sleeves. The broken-ring seal at his throat had loosened every knot in the curtain cord, which now lay in a heap at his feet. Mezarin pulled one of her plain document ties free, looped it through the latch, and held the knot until Elovar's nearness set it fast.
+She sat. The bread had gone to paste in her mouth. "I thought if you came to Holdfast, I would be permitted to want you."
 
-The shutter stopped banging. Ankora came down too quickly. His wet shoe slipped on stone; one hand struck her shoulder, the other caught her waist. Mezarin locked her knees and kept them both upright.
+Ambel's hand tightened on the tiller. "Permitted by whom?"
 
-For one breath his face was close enough that she saw rain trapped in his lashes. The hand at her waist flexed.
+"Everyone."
 
-“You're steady,” he said.
+"That's a lot of people to fit in this boat."
 
-“I make a profession of it.”
+"You know what I mean."
 
-He let go at once.
+"I do. That's why I'm angry."
 
-The loss of his hand was sharp and absurd. Mezarin turned to inspect the petitions, none of which had moved.
+He pulled the line free. Holdfast's calm broke at once, and the bell began to swing in the returning chop. Ambel did not call Farwake. For a few breaths they rose and fell in water claimed by neither god, the sail hanging empty above them.
 
-Ankora crouched to gather the fallen curtain cord. “The potter answered.”
+"I won't be captured ground," he said. The anecdotes and jokes were gone. "Not for Farwake. Not for you."
 
-Mezarin had read the resubmission. The woman had taken the inheritance compact to court, divided ownership of the kiln from the vow, and written a new promise to keep the building in repair for the apprentices who used it. She then sent a prayer to Elovar for the new obligation and one to Orsava for the old restrictions. Separate petitions. Separate choices.
+"I don't want a trophy."
 
-“She found the third thing,” Mezarin said.
+"You want the difficulty removed."
 
-“You asked her what cost she would accept.”
+"Of course I do."
 
-“You asked what work she wanted.”
+He flinched.
 
-Ankora sat back on his heels. “We were both useful. I hope you can recover.”
+"No, listen. I want to speak to you on a morning that isn't prescribed by treaty. I want to disagree with you without sixty people recording which of us blinked. I have wanted that for years. I imagined one means of obtaining it, and that means was wrong. Those statements are not equivalent."
 
-Thunder rolled above the roofs. The room smelled of wet wool, ink, and the barley cakes they had not yet opened.
+"You always do that."
 
-He had touched her. He had released her because she had not asked him to stay. Mezarin could sort those facts into clean columns and learn nothing.
+"Distinguish things?"
 
-“Do you remember everyone's tea?” she asked.
+"Answer the implication and leave the person waiting."
 
-Ankora's fingers stopped on the cord. “No.”
+Levara took her hands off the rope. "You heard that I was willing to erase you."
 
-“Do you buy every rival thicker pens?”
+His jaw shifted. After a moment, he nodded.
 
-“No.”
+"I wasn't," she said. "I was willing to imagine you choosing what I chose. That is not harmless, but it is not erasure."
 
-The rain struck the shutter hard enough to bow it inward. He did not reach for humor.
+"No. It isn't."
 
-“I pay attention to you,” he said.
+He had done what he always demanded of disputants and rarely managed when the dispute touched him: corrected himself while the correction still cost something.
 
-Mezarin's pulse beat against the high collar Elovar's clasp held perfectly straight. She wanted to ask what he intended to do with that attention. She wanted to cross the space and discover whether he would touch her again. Both wants felt less like choices than like weather, and she distrusted them for it.
+Levara waited. The reef bell knocked twice. Farther out, a line of foam marched past the lantern toward open water.
 
-So she said, “The barley cakes will be cold.”
+"I imagined it too," Ambel said.
 
-Ankora looked down. “They are already cold.”
+For one beat, she heard nothing but the reef bell.
 
-They ate them anyway, sitting on the floor beside the dry wall while rain erased the road between the two temples. He did not ask again. That restraint followed her home.
+"The first three years. Maybe four. Farwake would have liked the harbor to see you walk down his launch steps. I thought you might breathe easier if every promise didn't need a knot around it."
 
-At the fourth handoff, a copied prayer lay on top of the packet.
+"You mistook devotion for fear."
 
-A clerk had reproduced the page in square archival script, including the margin where Ankora had written, *Do not carry the cases yourself until the wrist stops shaking.* Beneath it, the clerk had copied Mezarin's reply: *It has stopped. You may return to criticizing the contents.*
+"Yes."
 
-Both sentences were marked NONOPERATIVE. Nothing else had been added. No rebuke, no threat, no accusation. A clerk's job was to preserve the words head priests put on public prayers. The clerk had done it well.
+"Holdfast stilled the surge against the south quay when the piles split. He gives the ferry families sleep in winter. His shrine takes in people whose own houses have turned them out. I do not love him because I have failed to imagine leaving."
 
-Ankora read the copy once.
+"All right."
 
-“Only necessary notes from now on,” he said.
+"That is not an answer."
 
-Mezarin had prepared three possible ways to name what had happened in the rain. None survived the courtesy in his voice.
+"It is. You are staying because you mean it. I heard you."
 
-“Yes,” she said. “That would be proper.”
+The simple sentence left her with nowhere to press. Ambel looked tired now, and cold. His hand shook once as he reached for the halyard.
 
-He gave the smallest nod.
+"Farwake has carried people away from lives that were killing them," he said. "Some came back. Some didn't. He doesn't call every departure a wound. I mean that too."
 
-They completed the exchange in twenty-seven minutes. He did not notice that her tea went untouched. Or he noticed and did not say. When he left, he took the unopened barley cakes with him.
+Levara could have named the families for whom a departure had been exactly that. The argument was seven years old and would survive them both.
 
-Autumn thinned into winter. Mezarin worked.
+"I hear you," she said.
 
-In Elovar's inner hall, thousands of prayer cords crossed from pillar to pillar. Some named marriages, some seawalls, some borders around rooms where dangerous relatives could not enter. None stayed taut merely because a worshipper once desired it. Knots loosened. People changed their minds. The god answered chosen maintenance, not memory pretending to be choice.
+Ambel raised the sail and called Farwake. The current gathered beneath them, not gently, but cleanly. They rounded the lantern and entered the long dark arc of the reef.
 
-One night a cord above the west arch snapped. Elovar's living attention moved through the hall like pressure before a storm and held the remaining lines while Mezarin climbed a ladder, hands numb with cold, to replace it. The work required a new anchor because the old stone had cracked. She did not tie the cord back where it had been. She found sound stone.
+They worked the next two stations with little speech. At one, Levara's chilled fingers failed to pull a salt-crusted knot snug, and Ambel held the lantern while she worked it loose with her teeth. At the next, his bread wrapping escaped. She hooked it before it went overboard and tucked it under his thigh without comment.
 
-She thought of Ankora. That was not a prayer, and Elovar did not answer it.
+The tide fell. Black shelves of reef emerged, shining with weed. Behind them, the harbor lights drew closer together; from this distance Levara could not tell which lamps burned at whose shrine.
 
-The next quarter, Mezarin arrived at the counting room exactly on time.
+Ambel broke the silence. "What happens if neither of us converts?"
 
-Ankora had already finished sorting the petitions. No tea waited at her place. He wore full ceremonial gray, his sleeves fastened, his broken-ring seal cold and dark.
+Levara had been preparing an answer for half the circuit. "The divine commands fail. We complete the truce. We report that no change of allegiance occurred. Any further disclosure would require consideration of our duties to our offices, our councils, and the people affected."
 
-They worked without error. A couple wished to end a household contract but preserve guardianship of a child; the requests were distinct enough for separate temples. A guild wanted Elovar to defend a tariff while Orsava revised every obligation the tariff funded. They returned that one with a single question and no opinion about the guild's arithmetic.
+"That answer has furniture."
 
-The courier bell would ring in half an hour. Ankora closed his case.
+"You asked what happens."
 
-“I've asked my deputy to take the next exchange,” he said.
+"I asked what happens to us."
 
-Mezarin kept her hands on the final petition. “Why?”
+She watched the lantern light pass over his hands, broad-palmed and nicked by years of rope. Once she had thought attraction should feel like disorder. This did not. It felt like recognizing a route from the water after knowing it only from charts: every turn already present, the whole shape newly unavoidable.
 
-“You know why.”
+"I love you," she said. "I will not ask you to leave Farwake for it."
 
-“I know that you stopped writing in margins.”
+Ambel missed the next stroke. The steering oar bumped the hull.
 
-“It was the correct decision.”
+Levara had given testimony before hostile councils, families waiting for news, and the god whose water went still when displeased. Nothing had exposed her like Ambel staring at the oar as if it had betrayed him.
 
-“That is not an answer.”
+"You needn't answer in the same form," she said.
 
-Ankora looked toward the door. He could end an exchange by standing, and he was good at leaving before anyone made him choose a less graceful tactic. Mezarin moved his case out of reach.
+"Please be quiet."
 
-His gaze dropped to her hand. “Is this Elovar's celebrated respect for boundaries?”
+She obeyed.
 
-“This is a case on a table. You may pick it up after you answer.”
+He steered them past the reef's last tooth. Open water pulled at the hull. The Farwake shrine's distant pennants streamed seaward, all pointing away from Brackwater Reach.
 
-“You are impossible.”
+"I brought the honey loaf because you don't eat when you're trying to defeat me," he said at last. "I keep your amendment copies in a dry box. I know which floorboard outside your council room squeaks because I stand there before meetings and decide whether to go in early." He rubbed both hands over his face. "I don't know how to say it without making it sound like evidence."
 
-“So I am often maintained.”
+"It is persuasive evidence."
 
-His unwilling smile appeared and vanished. “If our congregations read those copies, yours may say Orsava's priest softened your judgment. Mine may say I am courting a concession. Every disagreement becomes theater. Every agreement becomes evidence.”
+"Levara."
 
-“Sending deputies will not change what happened.”
+"Sorry."
 
-“It will stop us adding to it.”
+"I love you too. I don't know what we do now."
 
-“You have considered more than deputies.”
+"Neither do I."
 
-That caught him. He went still.
+That startled another laugh out of him. This one broke in the middle.
 
-Mezarin had spent a season thinking through all the elegant exits he would prepare. “Would you resign?”
+On the return to the harbor mouth, they settled only one thing. Six days after the circuit, before the noon bell, they would meet at the baker's back table above the rope market. Ambel rejected Levara's first proposed hour because it coincided with his blessing of a westbound grain ship. Levara rejected his because the bakery closed then. They would wear ordinary coats over their vestments and each pay for their own meal.
 
-Ankora's eyes hardened. “It is an available ending.”
+"Why that last condition?" Ambel asked.
 
-“Do you want it?”
+"So neither god can call it tribute."
 
-“That is not the entire question.”
+"Or we could split the bill because we're adults."
 
-“It is the one you require from everyone else.”
+"That is what I said."
 
-He turned away and paced to the shutter they had repaired in summer. Her document tie still held the latch. He tested the knot with one thumb; it did not move.
+"It absolutely wasn't."
 
-“No,” he said. “I do not want to leave Orsava's service.”
+The harbor mouth lay ahead. Here the gods' powers crossed, and the circuit required a final, exact exchange. Ambel lowered the sail but did not yet dismiss Farwake's current. Levara held the home line ready but untied.
 
-“Then do not offer your office as payment.”
+Between the two acts, they coasted through the dark on momentum alone.
 
-“I am not paying you.”
+Ambel touched two fingers to her cheek. "May I?"
 
-“You are trying to purchase a clean story. I keep my position, you make the noble departure, and no one can accuse me of yielding.”
+"Yes."
 
-“That is not what I mean.”
+The kiss was cold, brief, and awkward around the raised collar of Levara's coat. The boat turned half a degree while neither of them attended to it. Then Ambel sat back, cleared his throat, and took up the steering oar.
 
-“It is what would happen.”
+"We're east of the marker," he said.
 
-He faced her. “And if we continue? Your installation is barely a year old. People who already think Elovar's limits are another word for fear will say you hid behind mine. Orsava's faithful will wonder whether I end every vow except the one that flatters me. I can bear their stupidity. I don't know what it costs you.”
+"I noticed."
 
-“Then ask me.”
+"You did not."
 
-The words left more forcefully than she intended. Ankora flinched as if she had thrown something.
+"Correct the heading."
 
-Mezarin came around the table. “You decide what strangers may make of us. You decide which work I can survive. You retreat before I can refuse you, and call the retreat consideration.”
+He did. At the boundary ring, he lifted the oar from the water.
 
-His jaw tightened. “Fine. What do you want?”
+"Farwake," he called, and his ceremonial voice carried toward the open reef, "what goes out belongs first to itself."
 
-There was no doctrine in the question. No joke. Nowhere for either of them to step except forward or away.
+The outward current released the keel.
 
-“You,” Mezarin said.
+Levara caught the iron ring, passed the home line through it, and tied six turns. Salt whitened the fibers beneath her hands.
 
-Ankora's breath caught.
+"Holdfast," she answered, "what goes out remains answerable to home."
 
-“You in Orsava's service. You disagreeing with me. You buying the wrong cakes and putting useful books in official packets. I want the work kept clean because the petitioners deserve that, not because I am ashamed of what happens when the work is finished.” Precision had not made this safe. It made it hers. “I love you.”
+The harbor water stilled around them. Their old disagreement stood intact.
 
-He closed his eyes.
+Together, as the truce required, they said, "Between the claims, let passage stand."
 
-For a moment Mezarin thought she had mistaken silence for a door again. Then he laughed once, with no amusement in it, and covered his face.
+The knot tightened. Farwake's last swell spent itself against Holdfast's calm without rocking the boat. Neither god sent another word. Levara untied, and they rowed the remaining inner water from ring to ring.
 
-“Ankora.”
+Dawn had thinned the sky when the waiting crews reached for the circuit boat. The Farwake launch keeper took the bow on the seaward side. Holdfast's keeper caught Levara's stern line and called, "Easy. Two turns."
 
-“I had prepared for anger,” he said through his hands. “I had prepared an excellent defense of cowardice as prudence.”
+Levara made two turns around the quay post. The water went smooth beneath her palm.
 
-“Put it away.”
+Across the narrow channel, Ambel stepped onto his own wharf with the wet loaf wrapping tucked firmly under his arm. He did not look back until the crews had begun hauling the boat onto its cradle.
 
-He lowered his hands. Whatever answer he had rehearsed was gone.
+He held up six fingers.
 
-“I love you,” he said. “I have loved you long enough to know that leaving would not protect you. It would only spare me hearing you say no.”
-
-“I am not saying no.”
-
-“I noticed.”
-
-The courier bell rang downstairs.
-
-Neither moved.
-
-Ankora reached for her, stopped before touching her, and left the last inch to her. Mezarin caught the front of his gray vestment and pulled him close. The first contact of their mouths was awkward; his broken-ring seal knocked against Elovar's clasp, metal striking metal. They shifted and tried again. This time his hands settled at her waist and stayed because she held him there.
-
-No power moved through the room. The gods did not settle their rivalry, approve a match, or claim it. The shutter knot remained tight. The loose curtain cord remained loose.
-
-A knock sounded at the door.
-
-“The packet,” called the courier.
-
-Mezarin rested her forehead against Ankora's for one breath, then stepped back. He handed over the official bundle while she pushed his case back across the table.
-
-“Petition margins stay necessary,” she said.
-
-“They do.”
-
-“And your deputy?”
-
-“I will tell him the work remains ours.”
-
-“Supper is not a handoff.”
-
-His expression altered. Not the public smile, nor the quick deflection he used to soften an argument. This one made him look startled by good fortune.
-
-“The dumpling room below the baths,” he said.
-
-“The owner announces every priest who enters.”
-
-“He announces everyone.”
-
-“Then he can announce us accurately.”
-
-Ankora picked up his case. Mezarin opened the barley cakes.
-
-They had twenty minutes before either temple expected its head priest back. She broke a cake in two between the empty inkstones. Ankora sat. After a moment, Mezarin sat opposite him and reached for the tea he had not brought.
-
-“You owe me a cup,” she said.
-
-He stood again. “That, at least, I know how to answer.”
+Levara checked the knot once, because it was her work, and went to answer her god.
