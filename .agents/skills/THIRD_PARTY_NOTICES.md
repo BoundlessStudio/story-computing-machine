@@ -14,8 +14,6 @@ in `AGENTS.md`, `.agents/skills/story-room/SKILL.md`, and `.codex/agents/`.
 - License: MIT, as declared in each installed skill's frontmatter
 - Author notice: jwynia
 
-The MIT permission notice is reproduced in `licenses/MIT-jwynia.txt`.
-
 ## haowjy/creative-writing-skills
 
 - Skill: `creative-writing-craft`, including its bundled resources
@@ -23,5 +21,3 @@ The MIT permission notice is reproduced in `licenses/MIT-jwynia.txt`.
 - Source commit inspected during integration:
   `fd7a3ad9cd7697a0645ff6ff4bd5e809cf7673a3`
 - License: Apache License 2.0
-
-The Apache License 2.0 is reproduced in `licenses/Apache-2.0.txt`.
