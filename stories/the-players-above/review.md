@@ -6,15 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Anjali Bose | new | The full name and story-facing alias `Anjali` have no exact, alias, close-spelling, or confusing reuse in relevant authority or production memory. |
-| Malik | new | The single-name form used in the final prose has no exact, alias, close-spelling, or confusing reuse in relevant authority or production memory. |
-| Devika | new | The single-name form used in the final prose has no exact, alias, close-spelling, or confusing reuse in relevant authority or production memory. |
+| Reniya | new | Adult game runner and sole mortal hearer of the formless voices; no exact, alias, close-spelling, or confusing reuse found in relevant authority, the frozen baseline, locked legacy prose, or passing current inventories. |
+| Veysa | new | Adult mason; no exact or alias reuse. Legacy `Veyru` and current `Veska Doss` remain distinguishable in spelling, sound, and role. |
+| Ludek | new | Adult courier; no exact or alias reuse. Legacy `Ludo Dask` and current `Rudek Sohl` remain distinguishable by full form, spelling, and role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing named place. |
+| None | none | The mill room, lanes, orchard terraces, kiln trench, catchment, and market remain unnamed. |
 
 ## Continuity
 
@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The required exchange opens a complete cosmic-game peril that the three friends jointly identify and solve. The nonliving seeking shape remains dependent on person-like players' forecasts and bounded return path, the guides are not certified as gods, and the final mug condition grows from the game's consent failure after the physical danger is resolved. The outline-only surnames `Thorne` and `Ruan` do not appear in the final prose and therefore are not inventory entries.
+- Notes: The quoted cosmic-game premise lands as a natural TTRPG surprise without making the world fictional or its people puppets. Three separately limited voices supply partial guidance, while Reniya, Veysa, and Ludek test claims, disagree, refuse unsafe advice, and resolve the finite peril before market traffic; the absent creator remains unresolved. The charged nonliving seed is a bounded local mechanism distinct from canonical route tokens and heartseeds, and the route rules, catchment geometry, chronology, and aftermath remain coherent. Dialogue preserves each mortal's rhetorical ownership and the voices' differing answer behavior through the decisive interrupted circuit, then closes on ordinary repair logistics rather than explanation.
