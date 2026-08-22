@@ -8,274 +8,330 @@ canon: false
 
 # The Other Twin
 
-The first blood arrived during my algebra test, and because it was happening to our body, Mara noticed half a second before I did.
+When we were little, brushing our teeth took ninety seconds. My sister worked the caps, I ran the tap, and both hands knew the route from cup to mouth without either of us looking down. She spat first. I leaned us in. She caught the towel while I shut off the water. We were so good at it that our mother sometimes stood in the bathroom door and watched with the soft, useless pride other parents saved for piano recitals.
 
-*Don't stand up,* she said.
+By fourteen, the same sink could hold us hostage.
 
-I stood up.
+That morning, my sister had the left hand pressed flat below our collarbone. The ache had started as a bruise with no bruise, then spread until the seam of our pajama shirt hurt. Our chest looked fuller beneath the cotton. Under my own chin, three dark hairs had become eleven. I had counted them while she slept and then felt ashamed, though not ashamed enough to stop being pleased.
 
-The warm mark on the plastic chair was not large, but the girl behind me saw it. By lunch, three different versions of the story had crossed the cafeteria. In one I had cut myself. In another I had sat in ketchup. The third was accurate enough that nobody believed it.
+“Razor first,” I said.
 
-Mara got us to the nurse's office. When she moved us, our shoulders sat farther back and our left hand led. There was no fainting or blank interval. I stayed present, feeling the pad the nurse gave her stick crookedly to unfamiliar underwear, while Mara read the instructions twice and pretended she had not been waiting for this since our chest first began to ache.
+“Soft bra first.”
 
-The nurse kept calling her Alex.
+Both were waiting beside the soap. She moved the left hand toward the folded bra. I moved the right toward the razor. Our shoulders turned in opposite directions, and the pull through our spine made both arms stop.
 
-“Mara,” she corrected the third time.
+“It takes thirty seconds.”
 
-The nurse's smile tightened. “All right. Mara. Is Alex able to come back for me?”
+“It hurts now.”
 
-*Tell her no,* Mara said to me.
+I looked at her in the mirror. Her hair was pinned away from her face with two yellow clips. Mine stuck up where I had slept on it. Between our necks, the pajama collar had twisted sideways.
 
-I took the mouth before she could. “I'm here.”
+“Fine,” I said, but too late to make the word kind.
 
-It came out in the voice that had begun dropping that winter, rough enough to startle all three of us.
+We put on the bra. It did not belong to her half of us, because there was no half to put it on. The band went around our ribs. I felt the pressure when she fastened it. She felt me stiffen.
 
-The nurse called our mother.
+Afterward, she held the razor under the hot tap while I shaved eleven hairs from my chin. She did not complain. That was how I decided we had been fair.
 
-There had never been a time in my memory when Mara was not there. We shared sight, hearing, touch, hunger, and one unreliable stomach. We did not share thoughts unless we spoke them toward each other. At five, I could recite every bus on the route to school, while Mara could draw the driver's hands from memory and could not remember a single route number. She was left-handed. I was right-handed. She hated the grainy skin on pears. I liked it. We could each move the whole body. Usually one of us led; with effort, we could divide simple tasks between hands. Switching the lead took cooperation, except when fear shoved one of us forward.
+I was still using that arithmetic in October.
 
-None of that had impressed the first doctors.
+The next time the sink held us was the morning we caught the early bus. At the mirror, she chose a green shirt that curved instead of hanging from us. I kept the shadow on my jaw. This was supposed to count as one choice each. She tugged the hem smooth; I opened our jacket halfway. We looked like an argument assembled from the lost-and-found.
 
-One baby had come home from the hospital. One birth certificate said Alexander Mercer. One face appeared in the family photographs. A child psychiatrist had written *dissociative presentation* as a working explanation, and later copies of the chart shortened that into a certainty. Mara became a voice Alex heard, a role Alex assumed, a difficulty Alex had. The diagnosis was never meant as an insult. It was simply built around one patient, and the patient was always me.
+“The jacket’s crooked,” she said.
 
-At home, our parents tried harder. Mom began buying two birthday cards after Mara made her cry at nine by asking why only Alex got older. Dad put two hooks by the front door even though we owned one coat. But when adults with lanyards asked questions, both of them looked at me first.
+“The shirt’s doing that.”
 
-After the algebra test, Mom drove us to a clinic where the paper on the examination table crackled whenever either of us breathed. The referral had gone to an endocrinologist named Dr. Shah. She read the chart outside, came in without a crowd of students, and sat instead of standing over us.
+“No, your hand is.”
 
-“Who is speaking right now?” she asked.
+I fixed it. Our mother, kneeling by the front door with one of our shoes between her knees, pulled the laces tight.
 
-“Alex.”
+“Bus in six minutes.”
 
-“Is Mara listening?”
+“Five,” I said.
 
-“Always,” Mara said, taking the mouth.
+“Then you’d better not spend one correcting me.” She double-knotted the lace and stood. “Lunch is in the front pocket. Pads are in the inside one.”
 
-Dr. Shah's eyes moved to our left hand, which Mara had folded over the right. She did not ask me to return.
+My sister said, “I put them there.”
 
-“Good,” she said. “I need the history from both of you. Some questions will be private, but not private from the other twin. Is that workable?”
+“Good. Move.”
 
-Mara glanced down at the thin gown. “Nothing is private from the other twin.”
+Outside, wet leaves pasted themselves to the pavement. Walking had once been our best trick. We did not each own a leg; a step began as a shift we both had to feel coming. When we agreed on the destination, the agreement traveled down our back and gathered itself into knees, ankles, toes. Since our hips had begun changing, the old signals arrived at the wrong angle. We had to think about curbs.
 
-“Then I won't promise it is.” Dr. Shah rolled her stool nearer but kept her hands in her lap. “Before I examine your body, I need a yes from each of you. We can talk first.”
+At the bus shelter, a man in a reflective vest held the gate for us. His eyes went to our chest, then to my sister’s face.
 
-That was the first medical decision Mara had ever been asked to make.
+“Morning, girls.”
 
-The talking took most of the afternoon. The tests took weeks. Imaging showed reproductive tissue the childhood records had not prepared anyone to find. Blood tests showed high levels of hormones that did not usually rise together in quite that way. Cells from our blood, cheek, and skin did not all carry the same chromosomes or the same genetic profile.
+“Morning,” I said.
 
-Dr. Shah explained the results with three diagrams and no triumphant voice.
+My sister’s head turned toward me. “He wasn’t talking to you.”
 
-“The best explanation is chimerism,” she said. “Very early in development, two embryos may have fused. We found two cell lineages, one with XX chromosomes and one with XY chromosomes, distributed through your body. Different tissues are responding differently as puberty advances.”
+“He said girls.”
 
-Mara held our pencil poised over the margin of the handout. She had drawn two eggs there and was making them argue.
+“Exactly.”
 
-I asked, “Which cells are mine?”
+The bus hissed at the curb. I shifted forward before she did. She was still looking back at the man when our left foot met the step, and the right struck the metal edge. Pain went up both legs. We caught the rail with both hands and hung there for one ugly second, our weight behind us and the line of students behind that.
 
-“I can't answer that.”
+“You okay?” the driver asked.
 
-“The XY ones?”
+“We’re fine,” I said.
 
-“That would be a guess dressed as a result. Chromosomes do not come labeled Alex or Mara.”
+“I’m not,” my sister said at the same time.
 
-Mara underlined that. “Can you tell them I'm not something he invented?”
+The driver got out of her seat. She planted one hand under our elbow, waited while my sister looked down at the step, and said, “Ready?”
 
-Dr. Shah waited before answering. It was one of her habits: she would rather leave a silence than fill it with a claim she could not defend.
+My sister nodded. I waited for the breath we used before stairs. We climbed.
 
-“The tests tell me why your body may be developing along more than one pathway,” she said. “They do not measure a person. I also don't need a chromosome result before I listen when a patient tells me who is present.”
+At the back of the bus, she examined the darkening patch on our shin.
 
-It was not the declaration Mara had wanted. I felt her disappointment tighten our throat. Then Dr. Shah turned the handout over and wrote *Alexander Mercer and Mara Mercer* at the top of the blank side.
+“I wasn’t trying to trip us,” she said.
 
-“For safe care,” she said, “I need both of you in the record.”
+“I know.”
 
-Our mother took the paper home and stuck it to the refrigerator with a magnet shaped like a carrot.
+“You moved.”
 
-For six months, we agreed to be studied by a research team because Mara wanted evidence no future receptionist could misfile. The researchers scanned us while I tapped our right fingers in memorized sequences, while Mara drew with the left, and while each of us sorted words or reconstructed pictures. The patterns were stable enough to distinguish who was controlling more often than chance. We still had one anatomical brain, and the scans could not show which embryonic lineage had made which thought. The published report used careful phrases like *reproducible control-dependent activity*. Mara thought it sounded like instructions for a garage door.
+“The bus was here.”
 
-Still, the old chart could no longer pretend the facts were simple. The working diagnosis was retired. Not because a scan had created Mara, and not because the genetic finding proved what every other mind in the world was. It was retired because it did not account for our development, our continuous histories, or what the clinicians observed when they bothered to address us separately.
+She pulled the jacket closed over the green shirt. “The question can get here before your answer once in a while.”
 
-Mom ordered a small cake. In green icing she wrote NOT A GARAGE DOOR, because the bakery refused Mara's first suggestion.
+I watched rain stitch the window. By lunch, I had converted the fall into a problem with preventable inputs: wet pavement, changed balance, distraction. I did not include myself. I did not yet understand that answering for both of us was also a kind of movement.
 
-Recognition improved the paperwork. It did nothing to slow puberty.
+The third time the sink stopped us, there was blood in our underwear.
 
-Our voice settled low. Our hips widened. Breasts grew on a chest that also began sprouting coarse hair. A patchy beard appeared along the jaw. Menstrual cramps dropped Mara to our knees in the kitchen, then left me trying to explain to Dad where she kept the pain medicine. Strangers chose *sir* or *miss* with the brittle confidence of people guessing which door hid a broom cupboard.
+Our mother had explained what might happen. There was a box beneath the sink, pain medicine in the cabinet, a heating pad folded in the linen closet. Preparedness turned out to be small beside the fact itself. The cramps had woken both of us before dawn, squeezing low in our shared belly and releasing just long enough for hope to become stupid.
 
-I wanted the voice. I wanted broader shoulders and the beard once it stopped looking moth-eaten. Mara wanted the curve of our hips, a softer face, and a chest she could dress without apologizing for it. Neither of us wanted the other harmed. That did not make the unwanted changes feel neutral.
+My sister braced both hands on the porcelain. “Get Mom.”
 
-At fourteen, Mom put a razor and a soft cotton bra beside the sink on the same morning.
+“We know what to do.”
 
-“I have kept the receipts,” she said, and left before either of us could answer.
+“Get her anyway.”
 
-I shaved first. Mara complained about foam in the corners of our mouth, but she held our chin steady when my right hand slipped. When the last dark streak came off, satisfaction warmed our chest so suddenly that I knew she had felt mine.
+I called. Our mother came in wearing one slipper and carrying her glasses. She took in the underwear, my sister’s face, my face.
 
-*You look pleased with yourself,* she said.
+“Bathroom first,” she said. “Then heat. School can wait.”
 
-“I am.”
+She showed my sister where to place the pad and gave me the job of holding the waistband out of the way. Later, with the heating pad across our abdomen, my sister asked for toast. I wanted the curtains shut. She watched a cooking video with the sound low while I tried to sleep through cramps that felt insultingly ordinary.
 
-*Your face is very ordinary.*
+Over the next three months, ordinary things multiplied. Shirts that fit at breakfast chafed by last period. Sweat gathered beneath new folds of skin. My voice dropped more than my sister’s, though hers broke sometimes in the middle of a word and made her go silent. Hair thickened on our legs and under our arms; more appeared along my jaw and a faint strip above her lip. She plucked that strip. I asked her not to use my good tweezers. She said we had one face each but apparently communal tweezers.
 
-“Thank you.”
+We still made jokes. We fought over music while folding laundry. She made me watch six episodes of a baking competition and then fell asleep before the final. I finished it and lied about who won. She knew before breakfast.
 
-Then she took control and tried on the bra. The band pinched. One strap twisted. I was ready with three jokes, but when she finally got it straight she stood before the mirror without blinking, and our breath caught. I swallowed all of them except, “The tag's sticking into us.”
+But the old system of my day and your day had depended on choices ending when the day did. The green shirt came off. My stubble could be shaved. Our chest did not flatten overnight, and bleeding did not become hers because the calendar had her handwriting on it.
 
-“Cut it out, then.”
+Our mother called a specialist after each of us asked her separately. She showed us the appointment time on her phone.
 
-We kept both purchases.
+“Thursday, three forty,” she said. “I can collect you from school.”
 
-Dr. Shah would not let us treat hormones like a menu. Every option acted on the whole body. Some changes were already permanent; others might shift unpredictably because our tissues did not respond uniformly. She could treat dangerous levels, pain, anemia, or other specific problems. She could discuss suppression or additional hormones, but she could not promise my beard and Mara's breasts while removing only what each of us disliked.
+“What kind of specialist?” my sister asked.
 
-“So you get a veto,” Mara said.
+“The kind who read the scans your regular doctor sent and admitted they need more scans.”
 
-“On anything unsafe, yes. Otherwise I give you the risks, and you decide together.” Dr. Shah capped her pen. “I don't get to choose which of you the body should resemble.”
+“That’s not a kind.”
 
-For the time being, we chose monitoring and symptom care. It was not the same as choosing every result.
+“It’s the kind we have Thursday.”
 
-School was worse at improvising. The attendance system could hold one legal name per student seat. Teachers learned to ask who had done an assignment only after Mara handed in a charcoal self-portrait and the art teacher credited me. The principal offered the staff washroom as though granting access to a supply closet. We asked for the single-occupancy student washroom near the library to be unlocked for everyone. That took a semester and three meetings. Meanwhile, we planned our water intake with military precision.
+At the clinic, the receptionist handed us a clipboard with one form. Our mother handed it back.
 
-By sixteen, I handled most ordinary school days. My name was the one classmates had known since kindergarten, and disappearing behind Mara felt cowardly when trouble followed the body either way. Mara took art, French, and every Wednesday afternoon. She also got occasions that were specifically hers.
+“Two patients,” she said.
 
-The dark green dress was for one of those.
+The receptionist looked at the single insurance number, then at us. “There’s one chart.”
 
-Her charcoal drawing had been selected for the school arts evening, with *Mara Mercer* printed correctly on the card beside it. The picture showed Dad asleep at the kitchen table, his glasses sliding down his nose and a screwdriver still caught in one hand. I would have drawn the broken toaster he had been repairing. Mara had drawn the dent his glasses made in his cheek.
+“Put two questionnaires in it.”
 
-She saved for the dress for four months. Mom altered the waist and let out one shoulder, then hung it on Mara's hook beside our one winter coat.
+The woman considered the waiting room behind us, where no one had volunteered to become less impatient. Then she found another form.
 
-I said nothing while she bought it. I said nothing during either fitting. On the night of the exhibition, with Mom waiting downstairs and seven minutes left before we had to leave, Mara pulled the zipper halfway up our back and felt my panic flood the body.
+We completed them one at a time because handwriting required both hands to agree. My sister answered first. I steadied the page and let her choose the words. Under WHAT CHANGES ARE TROUBLING YOU? she wrote, People look at him and decide I’m not here. Then she added, Hair. Voice. Speed.
 
-Our pulse kicked. Sweat prickled under the lining. She braced one hand against the dresser until the room stopped tilting.
+I wrote, Chest development. Menstruation. Unpredictability of final traits.
 
-“Don't,” she said aloud.
+She read over my shoulder. “Final traits.”
 
-*I'm trying not to.*
+“It asks what troubles me.”
 
-“Try before I put it on.”
+“You make us sound like a building proposal.”
 
-The mirror showed a tall, broad-shouldered girl in a dress that fitted because it had been made to fit. Beard shadow darkened our jaw where I had shaved that morning. Mara had lined our eyes in green. I could feel the fabric against our thighs and could already hear tomorrow's chemistry class.
+“You wrote speed.”
 
-*Wear the black shirt,* I said. *The card will still have your name.*
+“Speed is what I mean.”
 
-Mara yanked at the zipper. It caught on the altered seam.
+The clinician brought the two forms into the examination room and placed them side by side on her desk. She spoke slowly, but not in the sugary way adults sometimes used when they thought our body had made our minds younger.
 
-“Your black shirt. Your jeans. Your haircut. Your name in every classroom.”
+“I’ll ask some questions twice,” she said. “Not because I expect the answers to match.”
 
-*This isn't about the haircut.*
+“We’ve already compared—” I began.
 
-“No. It's about you waiting until the car is running.”
+She lifted one hand, not high. “You can go first when I ask you.” She turned to my sister. “What change would you most want to slow right now?”
 
-Downstairs, Mom called, “Do you need help?”
+“The hair. On our body, and this.” My sister touched above her lip. “And my voice. It goes wrong and people laugh before I finish.”
 
-“No,” Mara shouted.
+The clinician made a note. “What change would you be sorry to slow?”
 
-*Yes,* I told her.
+My sister’s hand moved to our sternum, then dropped. “Our chest. Maybe. I don’t know yet.”
 
-She let the zipper go. “Say it before Mom has to come up here.”
+“All right.”
 
-There was no careful version left. *I hate wearing that dress.*
+Then the clinician turned to me.
 
-Mara went very still. The body stayed hers, but I felt every place the dress touched us: shoulder, waist, chest, knees.
+I had prepared. “If development continues at the current rate, I want to know the likely range of outcomes, the probability of further breast growth, whether menstruation will regularize, and which interventions preserve later options.”
 
-“I hate holding still for your razor,” she said. “I do it before school because you have to look in the mirror too.”
+My sister shifted in the chair. Our knee knocked the underside of the desk.
 
-*A shave takes five minutes.*
+The clinician waited. “Which change would you most want to slow right now?”
 
-“And this takes one evening.”
+“Breast growth.”
 
-*Tomorrow lasts all day. They'll call me skirt-boy in chemistry.*
+“And which would you be sorry to slow?”
 
-“I'll take chemistry.”
+I rubbed the place beneath my jaw that was rough by afternoon. “My voice. The hair.”
 
-*They'll use my name when they say it.*
+That answer looked very small beside all the ones I had brought, and it was the first useful thing I said in the room.
 
-“Because mine still isn't on the register.”
+The clinician showed us a diagram made from our own scans. Most of it was lines and pale shapes that meant little to me. She kept her pen on the parts that mattered. One circulation. Several kinds of tissue responding at different rates. In our particular body, she said, a monitored course of temporary suppression might slow the signals driving further changes. It would not assign one set of effects to my sister and another to me. It would not reverse what had happened. If we stopped, development might resume, but she could not promise its timing or direction.
 
-She tried the zipper again. Our fingers shook too badly to grip it.
+“How much time would it give us?” I asked.
 
-*Sometimes I want my own body,* I said.
+“I can give you monitoring intervals. I can’t give you a guaranteed future.”
 
-“That's not news.”
+“But on average—”
 
-*Sometimes I want to wake up alone.*
+“Your scans aren’t an average.” She checked the clock. “There are also reasons to continue without medication. There are costs either way. I don’t need a decision today.”
 
-The hand at our back dropped.
+My sister had gone still. The clinician laid her pen sideways across the diagram and waited.
 
-Mara did not answer inside our head. She used the mouth, perhaps because she wanted me to hear how unsteady our voice had become.
+Finally my sister said, “If we pause it, I don’t stop being a girl?”
 
-“Alone in another bed,” she said, “or alone because I'm gone?”
+The clinician’s gaze stayed on her. “The medication would act on your shared body. I’m not treating either of your identities.”
 
-I had imagined two alarm clocks, two bathroom queues, a whole morning in which nobody could object to my shirt. I had also imagined the quiet after Mara, once or twice, in anger. I never let that version reach breakfast.
+My sister nodded once. I had a better, more complete version of the question in my head. For once I left it there.
 
-*Another bed,* I said. *I want you somewhere I can knock before coming in.*
+The worst fight happened six days later, over a charcoal shirt.
 
-Mara sat on the edge of the bed, careful not to wrinkle the skirt. After a moment she rubbed our damp palms on it anyway.
+It was large enough not to pull across our chest. That was why I had put it on the bed for the school winter concert. My sister had chosen a red top with a square collar and sleeves that made lifting our arms difficult. Neither was formal enough for her and both were too noticeable for me.
 
-“Good,” she said. “I want a door I can slam.”
+“Charcoal,” I said. “We’ll be onstage for nine minutes. It reduces the number of things people can decide from a distance.”
 
-From downstairs: “I can hear that you don't need help very loudly.”
+“About you.”
 
-Mara laughed once. It loosened our ribs enough for a full breath.
+“About both of us. Fewer wrong guesses overall.”
 
-*Ask Mom to fix the zipper,* I said. *And take my jacket in the car. If I'm going to be sick, I'd rather not do it on the dress.*
+She picked up the red top with our left hand. “I want this one.”
 
-“The jacket comes off before we go in.”
+“You’ll hate it when they stare.”
 
-*Yes.*
+“They stare now.”
 
-“And I take chemistry tomorrow.”
+I began unbuttoning the shirt we wore. She did not help. The right hand fumbled the third button while the left stayed closed around red fabric.
 
-*Yes.*
+“Can we solve the immediate problem?” I asked. “Nine minutes, lower visibility, no restricted shoulders. Then in January we reassess after the next appointment.”
 
-Mom came up, freed the seam, and zipped us without asking what had happened. Mara wore the dress. I stayed awake for every stare in the hallway outside the art room. When a boy from chemistry looked at us, looked at the name card, and said, “Alex?” Mara shifted her weight between him and the drawing.
+“You’ve spent me again.”
 
-“You're blocking my picture,” she said.
+“What does that mean?”
 
-He moved.
+“My shirt. My chest. My nine minutes. They all disappear inside your total.”
 
-The next morning she took chemistry, as promised. The teacher called my name at attendance. Mara answered, “Here. Mara today.” When someone whispered *dress-boy*, she did not produce a speech or throw a punch. She completed the equation on the board with our left hand, got the sign wrong, and took the laughter without giving the body back to me.
+“There is no version where either of us gets everything.”
 
-Mara taped a cheap calendar inside the wardrobe door. She marked her next exhibition in green on Sunday and made me object to the yellow blouse by Thursday. I wrote a haircut in black; when she objected in the barber's parking lot, we drove home with the same hair. After a nurse directed every question to me, Mara added *BOTH ANSWER* beside Dr. Shah's next appointment. Notes filled the margins, acquired arrows, and got crossed out whenever they failed, which was often. Pain or danger could still stop anything at once. Embarrassment had to speak before the clothes went on.
+She looked down at the red sleeve gathered in our fist. “I know.”
 
-Some problems had no square on a calendar. We turned down dates when one of us could not bear the person asking. We argued about university programs that met at the same hour. Mara cut our hair shorter than she had promised after I trimmed our sideburns higher than I had promised.
+“Then help me.”
 
-At seventeen, Dr. Shah opened our chart and showed us the header. It listed two patients sharing one body, with alerts requiring both of us to be consulted for non-emergency treatment. The software still disliked it. One name had to occupy the billing field, and our lab results could not be duplicated without looking like two samples.
+“No.”
 
-“Ugly,” Mara said, studying the screen.
+I pulled the open side of our shirt. She held the other. The cloth tightened behind our necks. We had undressed through arguments before, but not with both of us insisting our body go somewhere different. Our elbow caught under a sleeve. Balance tipped toward the dresser, and one knee locked while the other tried to bend. The corner rushed at us in the mirror.
 
-“Very,” Dr. Shah agreed. “But your names are in the header, not buried on page six.”
+“Stop,” my sister said.
 
-Our hormone levels had stabilized enough that she recommended no intervention beyond monitoring iron, bone health, and the pain that accompanied some cycles. She asked us separately what changes we wanted. Our answers still conflicted. She recorded both.
+I was still talking—something about falling if she would not coordinate—when our palm slapped the dresser top hard enough to rattle the hairbrushes.
 
-On our eighteenth birthday, Mom brought out the prenatal ultrasound. The image showed one pale curl inside a black field. She had kept it in an envelope with our birth certificate, the early psychiatric reports, and Mara's first drawing of two furious eggs.
+“Stop.”
 
-“They told me one baby,” Mom said.
+This time I did. We stood half inside the shirt, breathing too fast. Our shoulder burned where the seam had twisted. The concert was in forty minutes. The red top lay on the floor.
 
-Mara took the photograph in our left hand. “You bought one crib.”
+Our mother appeared at the door. She saw the trapped elbow and came close, then waited.
 
-“There was barely room for that crib.”
+“Help?” she asked.
 
-I turned the page of the old report with our right. *Single viable fetus* was underlined twice.
+My sister said yes. I could not get enough breath for the word, so I nodded.
 
-“When did you decide Mara was my name?” Mara asked.
+Our mother freed the cloth from behind our necks. She did not ask who had started it. She laid the charcoal shirt on the chair, put the red top beside it, and set one of her soft black cardigans between them.
 
-Mom looked offended. “I didn't. You announced it at four and corrected me for six months.”
+“I’ll call the school,” she said.
 
-“Seven.”
+“We can still make it,” I said.
 
-“Then seven.” Mom gathered the papers before we could get frosting on them. “Come rescue your father. He has misunderstood the candle situation.”
+“You can. You don’t have to. Tell me in ten minutes.”
 
-On the kitchen table sat two small cakes, chocolate for me and lemon for Mara. Dad had crowded eighteen candles onto each. Thirty-six flames leaned toward one another in the draft from the open window.
+After she left, my sister sat us on the bed. The sudden drop made the mattress springs complain.
 
-“This is a fire,” I said.
+I tried again. “If we list the costs—”
 
-“This is arithmetic,” Mara said, taking the mouth.
+“I need it to stop getting faster.”
 
-Dad held up the long lighter. “Who goes first?”
+“That doesn’t decide the shirt.”
 
-“Alex,” Mara said. “He'll complain until wax reaches the chocolate.”
+“I’m not deciding the shirt.” She rubbed our caught shoulder. “I need this to stop getting faster.”
 
-She yielded control. The family sang once because even Mara agreed that twice was excessive. I blew out my eighteen, inhaled smoke, and passed the body back while the lemon candles were still burning.
+The clinic packet was on the desk. Until then, I had treated a pause as her proposal and therefore as something I had to measure against my losses. I pictured my voice fixed where it was, a beard that might never become more than a little roughness along my jaw. I pictured our chest continuing to change while I collected better numbers. Neither picture belonged to her. Neither belonged only to me.
 
-Mara had half a breath left. She used all of it, coughed into our sleeve, and glared at my cake as if the missing air were my fault.
+“I don’t want to lose what’s happening to my voice,” I said.
 
-“Next year,” she said, “cupcakes.”
+“I know.”
 
-*Nineteen each,* I reminded her.
+“And you don’t want to lose—”
 
-She looked at the crowded table and groaned. “Buy a bigger tray.”
+“Don’t finish it.”
+
+Our hands rested open on our knees. I let them.
+
+We missed the concert. Our mother brought dinner upstairs on a tray because neither of us wanted the kitchen table. She put down two forks with one plate of pasta.
+
+“Ten-thirty bedtime,” she said. “Appointment packet’s on the desk. Cardigan can go back in my closet tomorrow.”
+
+At the door, she stopped.
+
+“Mom?” I said.
+
+“What?”
+
+I had wanted her to tell us what was fair. My sister was watching the steam rise from the pasta.
+
+“Can we use your phone after dinner?” I asked. “For two recordings.”
+
+“Yes.” She left the door open a hand’s width.
+
+We made the recordings separately. Privacy was impossible, but authorship was not. My sister spoke first while I kept my mouth shut and looked at the dark window.
+
+“I like our chest changing,” she said into the phone. “I don’t like bleeding, but that isn’t the same thing. I hate the hair on my face. I hate people hearing my voice crack and looking at him. I don’t want every week to take something before I know if I wanted it. I want a pause.”
+
+She stopped the recording herself.
+
+On mine, I began with likely outcomes, crossed them out aloud, and began again.
+
+“I like my voice. I like shaving, which is stupid because I’ve cut my chin twice. I don’t want more chest growth. I don’t want another period. I keep saying later will be easier to decide, but I’m the one asking for forecasts while everything keeps happening. I want a pause too. Not forever. Now.”
+
+At the second consultation, the clinician listened to both recordings. She asked my sister whether “pause” still meant the monitored temporary course they had discussed. Then she asked me. Two yeses entered the same chart. Our mother scheduled the first follow-up before we left.
+
+The treatment was not a clean door shutting. Weeks later, our chest still pressed against the soft bra. My chin still needed shaving. Blood might come again before the clinician could tell whether the course was slowing anything. At school, strangers continued to pick one of us from a distance and misplace the other.
+
+But the mornings stopped feeling like a race against a body that had started without us.
+
+At the sink in February, my sister set down the tweezers beside my razor.
+
+“Hold still,” she said.
+
+“You’ve got one.”
+
+“It’s one too many.”
+
+I leaned our weight toward the mirror while she plucked the dark hair above her lip. Her eyes watered.
+
+“Done,” I said.
+
+“I know.” She rinsed the tweezers. “Your turn.”
+
+She held our chin steady while I shaved. Halfway through, our mother called that the bus was in four minutes.
+
+“Five,” I called back.
+
+My sister reached for the yellow hair clips. “Don’t start.”
+
+I wiped the remaining soap from my jaw and left one side rough. She clipped back only half her hair. We grabbed our bag, missed the towel, and went.
