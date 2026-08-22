@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tabitha | new | First-person narrator and Paloma's estranged best friend; the prose uses no surname or alias, and no exact, alias, close-spelling, phonetic, containment, or semantic-confusion reuse appears in the required noun history or locked legacy prose. |
-| Paloma | new | Tabitha's estranged best friend and the driver; the prose uses no surname or alias, and the passing place `Palem` is distinct by spelling, noun type, and story context, with no other confusing reuse found. |
+| Keely | new | No exact, alias, close-spelling, or confusing reuse found in targeted authority and production-memory searches. |
+| Hollis | new | No exact, alias, close-spelling, or confusing reuse found in targeted authority and production-memory searches. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun appears in the prose. |
+| None | none | No story-facing place proper noun; the desert, roads, highway, overlook, wash, and service building remain unnamed. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: All five completed returns shorten coherently from six minutes to forty-three seconds; persistent car costs, changing road geometry, cross-sequence memories, Tabitha's refusal of a sixth return, and Paloma's final one-text boundary remain causally consistent. The anomaly stays local and claims no connection to an established temporal system.
+- Notes: The four-minute returns, countdown, cumulative vertigo, verbal residues, changing terrain, and restored car state remain coherent; Keely's unused final rewind preserves Hollis's agency and resolves the central promise without restoring their former friendship. Their distinct practical and anticipatory speech stays context-bound through the decisive refusal and the restrained final exchange.

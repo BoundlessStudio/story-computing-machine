@@ -8,402 +8,410 @@ canon: false
 
 # Roads Under Impossible Stars
 
-The question cards have gone soft inside their plastic sleeves. I laminated them when Paloma and I were sixteen, using an iron, a dish towel, and instructions we had only half read. Several are sealed around crescents of old air. She used to press those bubbles with her thumbnail while she considered an answer.
+The heater blew hot dust at Keely's knees while frost silvered the lower corners of the windshield. Hollis kept one hand at twelve o'clock on the wheel and the other hovering near the temperature controls, as if the hatchback might misbehave out of embarrassment if she watched it closely enough.
 
-Tonight she keeps both hands on the wheel.
+"Pick something without handclaps," she said.
 
-“Would you rather know exactly where you’re going,” I read, “or never have to go alone?”
+Keely scrolled through the old road-trip playlist. "That removes most of the decade."
 
-The hatchback's loose fan belt squeals as the road climbs. Paloma changes down until the sound gives up. “Find one that isn't about leaving.”
+"Good decade for clapping. Bad decade for water pumps."
 
-“They're alphabetical. I can't skip without compromising the method.”
+The temperature needle had climbed past the white slash Hollis had drawn on the gauge with correction fluid. The heater was helping pull warmth off the engine, which was why they were roasting inside a car that let the desert night in through every door seal. Behind them, two water jugs knocked together beside a folded blanket, a jack that Hollis trusted, and a spare tire she did not.
 
-“You made the method in your mother's kitchen.”
+Keely chose a song with no handclaps. Hollis listened for six seconds, then turned it down until the drums became a pulse under the engine rattle.
 
-“That doesn't make it lawless.”
+The road ran pale through low scrub. Their headlights caught the reflective stakes one at a time and gave each back to the dark. Keely had printed a map because Hollis's phone was out of storage and hers had been searching for service for an hour. The paper was already softened at the folds and striped with three routes in Keely's different-colored pen.
 
-Once, that would have bought me an argument. Paloma would have attacked the alphabet as a false hierarchy, I would have defended it past reason, and we would have reached the lookout without noticing the miles. Now she watches the unlit road and lets my answer expire.
+"The overlook road should be after the cattle guard," Keely said.
 
-Hot desert air pours through the open windows. The air conditioner died before we learned to drive; the dashboard light works when I strike it; the antenna broke off in a car wash three summers ago. On my knees, our old itinerary flaps against my palms. Purple ink marks fuel, lookout, campground, breakfast. We drew the route for the first trip in this car and followed it every August until last year.
+"Was after it."
 
-The clock says 11:41. The odometer reads 184,206.3. I record both because keeping figures in my head is easier than looking at the fuel needle, which has fallen just below a quarter, or the temperature needle hovering halfway between normal and red.
+"It's still on the county map."
 
-“Lookout in twelve miles,” I say.
+"So is the campground with the toilet on its side."
 
-“If the west road is still open.”
+"That was one time."
 
-“The map says it is.”
+"It was on its side the whole time."
 
-“The map also says we should have bought gas forty miles ago.”
+The joke reached the place where their old laughter should have met and stopped there. Hollis leaned toward the windshield. Keely folded the map along a line that had begun to tear.
 
-“You said it was overpriced.”
+At sixteen they had spent whole drives fighting over music and still arrived laughing. In the last three months, neither had used *best friend* where the other could hear it.
 
-“I said we needed it anyway. You wanted the lookout before midnight.” She brushes damp hair off her cheek with her shoulder. “Stop folding that thing like it can tell us what tonight is for.”
+This was their last trip. Keely had used those words when she proposed it, then rushed to explain that she meant last before the move, not last forever. Hollis had said she understood. Since then Keely had built a calendar in her head: calls on Tuesdays, a visit every six weeks, the winter concert they had attended since they were sixteen. There were ways to keep a friendship if both people followed through. She had made a list.
 
-I smooth the map. Saturday morning, Paloma leaves for a year with a conservation crew: trail repair, plant surveys, backcountry cabins that may or may not have power. Three days later I move into a college dorm. We have described this drive to everyone as one last road trip, which is useful because *last* can mean ceremonial or final, and neither of us has had to choose.
+The cattle guard jarred the hatchback hard enough to make the stale cheese crackers jump in the cup holder.
 
-I slide the cards into the glove box. “Did they tell you who you're sharing the cabin with?”
+"There," Keely said. A dirt entrance slipped past on the right.
 
-“Not yet.”
+Hollis checked the mirror. "Can't turn here."
 
-“And your boots came?”
+"There's room."
 
-“Tabitha.”
+"There's a ditch. We'll take the next wide patch and come back."
 
-She says my name as a request to stop circling. I look at the purple road instead.
+"If we turn around now, we can be at the overlook by eleven forty-five. Stay twenty minutes, get the picture, then head back before the gauge—"
 
-“I thought we agreed to make this a good trip,” I say.
+"I can see the gauge."
 
-“We agreed to take it.”
+Keely opened the crackers. "I know. I'm just saying the timing works."
 
-“You won't play the questions. You don't want the snacks. You've corrected the route six times.”
+"You do keep saying that."
 
-“Because I want us to get home.”
+The next wide patch was farther than either of them remembered. By the time Hollis swung the car across the empty road, the heater smelled faintly sweet. She shut off the fan.
 
-“Before you leave.”
+"We should go back," she said.
 
-“Yes. I am leaving.” Paloma's voice goes flat, stripped for difficult work. “This car can't make us sixteen again.”
+Keely heard herself answer too fast. "We came all this way."
 
-For nine weeks I have built better openings to this argument. Most begin with a joke. A few are so generous that she understands, without being told, how selfish she has been. Not one begins here.
+"And the car came all this way. That's the part I'm trying not to push."
 
-“You're the one who changed the plan,” I say.
+Above the windshield, the sky had become crowded.
 
-“There was no plan.”
+Keely first mistook it for the clean abundance of a place without streetlights. Then she saw that there were too many layers. Bright points hung behind dimmer ones and in front of them, as if distance had folded flat. One cluster repeated itself upside down near the horizon. Thin rivers of stars bent in opposite directions without crossing. Hollis coasted onto the gravel shoulder and stopped.
 
-“We talked about getting an apartment.”
+They got out. The cold found Keely's damp shirt at once. The hatchback ticked and settled behind them.
 
-“We joked about splitting rent if neither of us figured anything out.”
+"That's not weather," Keely said.
 
-“I didn't know it was a joke.”
+Hollis looked up, then at the road, then back up. "No."
 
-“Then you could have answered my message.” Her grip tightens. “You read it at two fourteen. Nine weeks, Tabitha. Don't call that needing time.”
+A white spark burned across the horizon, then climbed. It should have fallen. Instead it cut uphill through the impossible layers, dragging a green tail that split into three and joined again.
 
-“I was giving you space.”
+Keely wished backward. Not in words at first. She wanted the cattle guard before they missed the turn, the afternoon before this trip became a test, the month before Hollis found out from somebody else that Keely had applied for the job. She wanted the years when silence inside a car had meant there was nothing they needed to say.
 
-“I didn't ask for space. I told you about the job.”
+Then the wish narrowed in panic: just go back.
 
-“What did you expect me to write? Congratulations on blowing up the plan?”
+The meteor opened soundlessly, white from end to end.
 
-The highway should curve west around a low ridge. I wait to see its dark shoulder in the headlights. Instead I notice the sky.
+Keely lurched against her seat belt.
 
-There are too many stars. Pale points crowd the gaps inside familiar constellations and continue lower than stars should, all the way to the sand. Paloma sees them too. Her next breath catches.
+The heater blasted her knees. The song with no handclaps was playing louder. A whole cracker rested on her tongue, dry and square, though she had swallowed it beside the shoulder. Her phone lay on the map and read 11:38.
 
-“Is that weather?” she asks.
+It had read 11:42 when they got out.
 
-“No.”
+Hollis drove with one hand at twelve o'clock. "Every six weeks," she said.
 
-The meteor burns across half the horizon.
+Keely choked on the cracker.
 
-It travels left to right, low and slow enough that I follow the white head with my eyes. A green seam remains open behind it. For one silver instant the car has no shadows: every crack in the dash, every fold in the map, the sweat shining along Paloma's upper lip.
+Hollis glanced over. "What?"
 
-“I wish we could go back,” I say. “Before we ruined this.”
+"Why did you say that?"
 
-The belt screams.
+"I don't know." Hollis rubbed her thumb over the cracked wheel seam. "It was there. Just the words."
 
-Sound folds in on itself. A burst of static returns to the radio and is sucked away. The white edge line runs backward under Paloma's window, then slaps forward.
+Ahead, the dirt entrance appeared after the cattle guard. It had been a single track. Now it forked immediately, one branch climbing toward a ridge that had not been there four minutes ago.
 
-The clock rolls from 11:47 to 11:41.
+Hollis braked. "Was that a fork?"
 
-Paloma is saying, “Find one that isn't about leaving.”
+Keely looked behind them. Beneath the car, the road was as it had been: two narrow lanes, patched tar, white edge stripe. About one car length back, the stripe hooked into a broad curve they had never driven.
 
-My hand is on the glove-box latch. I have already put the cards away. Beyond the windshield, the stretch of road we just climbed lies ahead of us again.
+The dashboard clock had been dead since Hollis bought the car. Its display now held one green digit: 4.
 
-“Tabitha?”
+Keely reached toward it.
 
-The odometer reads 184,211.9. The six minutes are gone from the clock, but not from the car. The fuel is still below a quarter. The temperature needle has not fallen.
+"Don't," Hollis said.
 
-“I found a different one,” I say, although I haven't opened the box.
+"I wasn't."
 
-Paloma glances over. I ask about her cabin before she can ask what is wrong. Then I ask about the secondhand boots she spent a month finding. These are safe facts; they let me sound interested without surrendering anything.
+The recessed button beside the display was meant to set minutes. Keely could just fit a fingernail into it. She pulled her hand back.
 
-The climb does not end at the ridge this time. The pavement splits around a wedge of pale dirt. To the left, a narrow lane bends toward a wooden sign with both arrows scoured blank. The wider branch runs straight north between new-looking reflectors.
+Hollis took the right branch because its washboarding was shallower. Keely marked their bearing on the map and watched the temperature needle. For the first minute, the track ran toward the old overlook. During the second it curved north, though the compass on Keely's phone insisted the original road lay south of them. At the third, their headlights found a field of black stones. There had been pale sand there before.
 
-Paloma brakes. The belt squeals, two minutes earlier than it did before. “This wasn't here.”
+"Turn around," Keely said.
 
-The paper itinerary shows one road. “Take the wide branch.”
+"When I have room."
 
-“Based on?”
+The gauge climbed over Hollis's white mark. The track narrowed between stones large enough to split the oil pan. Keely looked at the green 4.
 
-“The center line.”
+"Wait," Hollis said. "I'm stopping."
 
-She takes it because the other lane is shedding asphalt into the sand. Above the fork, the meteor's green scar hangs like a cut that has not closed.
+Keely pressed the recessed button.
 
-For a mile, my questions work. Paloma tells me the boots pinch at one heel. The crew leader recommended blister tape. Her cabin assignment will come when she arrives.
+The world pulled sideways through her inner ear.
 
-“Will you have a signal at the cabin?”
+She was back at the fork with both feet braced against the floor. The heater was on. The temperature needle sat below the white slash. Her phone said 11:38 again, although four minutes of fear remained sharp in her mind. The nausea did too, a slow rotation behind her eyes.
 
-“At the main one, maybe.”
+The clock showed 3.
 
-“We could pick one night.”
+Hollis swallowed. "Don't take it."
 
-“Don't.”
+"Take what?"
 
-“Sunday?”
+"That's all I've got." Hollis tapped two fingers against her lips. "I heard myself say it, but I didn't hear a voice. No picture. Nothing around it."
 
-Paloma's shoulders rise, then lower. “If I say Sundays, can we finish this drive?”
+The right branch was gone. The left ran straight for thirty yards, then divided around an abandoned service building standing where the black stones had been. Its two pump islands had no pumps. Moonlight shone through the office windows.
 
-I hear the yes and ignore the rest.
+"We moved back four minutes," Keely said. "Exactly. The car too. Look at the gauge."
 
-Then she says, “You called it blowing up the plan.”
+Hollis did. "You pressed that."
 
-“I didn't.”
+"I needed to know if it was the same as before. The first time just happened."
 
-Her foot lifts from the accelerator. “I heard you.”
+"And now?"
 
-“Not this time.”
+"Three. I think it means three left."
 
-“What does that mean?”
+Hollis shifted into neutral but kept her foot on the brake. "You think."
 
-I could tell her. Instead I reach for the cleanest correction. “I mean I don't think the job blows anything up. I want to hear about it.”
+"We know it undid the heat. Fuel too, probably. We can use that. We take a road, check it for four minutes, come back if it's wrong."
 
-“No, you want my answer to stay where you put it.” She presses two fingers to her lips. “And I remember saying I was still going.”
+"The road changed."
 
-I have not asked her to stay on this road.
+"Which is why we test it."
 
-The scar is already dimmer. I say the sentence again, deliberately now. “I wish we could go back.”
+Hollis looked at her. Not angry, Keely thought. Not yet. This could still be handled if Keely gave her the information in the right order.
 
-The second return takes four minutes and thirty-eight seconds. The dashboard changes from 11:46 to 11:42. The wide road vanishes.
+"The building gives us shelter if the radiator goes," Keely said. "Maybe a landline, tools, old water tank—"
 
-A survey station stands where there was bare sand: a concrete box on rusted legs, its windows punched out, a wind gauge spinning on the roof although the scrub below it does not move. Our headlights sweep a metal stair, hooks beside the door, a white mug upright on the sill. Then it is behind us.
+"No one has put a landline in that place since before this car was born."
 
-The odometer remains 184,216.2. The fuel needle quivers lower. The temperature creeps past three-quarters.
+But Hollis eased forward. The asphalt ended one hatchback-length beyond the tires, clean as if cut with a blade. Gravel began there and led toward the building.
 
-The broken radio clears its throat. A man calmly lists irrigation prices, a school closure, and loose cattle along a north fence. He names no town or road. Paloma turns the dial, but there is only static on either side of his voice.
+They made it to the first pump island. Beyond it, the driveway dipped. Hollis stopped and opened her door to look down.
 
-“What station is that?”
+"Stay here," she said.
 
-“I don't know.”
+"I can hold the light."
 
-“Where's the fork?”
+"Then hold it at the ground."
 
-“Gone.”
+Keely followed. The beam showed tire tracks running into the dip and ending at a crust of sand. Hollis scraped it with her boot. The crust fell through. A drainage channel yawned underneath, wider than the tires.
 
-She looks at me fully then, and the car drifts until its tires bite the edge line. She corrects without panic. “Gone how?”
+"Back up," Hollis said.
 
-I tell her about the clock. I show her the mileage that stayed. I say nothing about choosing the second return until she asks why I used the exact same words.
+The gravel broke under her next step. She caught the door frame. Her shoulder struck it, and the open door slammed into the concrete island with a metal crack. Inside, one of the water jugs toppled. Its cap sheared against the jack, pouring water across the cargo floor.
 
-“I thought I could prove it,” I say.
+Keely grabbed Hollis's sleeve. "Are you hurt?"
 
-“By not telling me first.”
+"No. Let go. I need to see if the hinge—"
 
-“You wouldn't have remembered the proof.”
+"I can undo it."
 
-Paloma rubs her sternum. “I remember enough to feel sick.”
+Hollis went still. "Undo what?"
 
-The survey station has disappeared from the mirror. In its place the road carries us between square banks of sand, cut too cleanly to be dunes. I start my apology before the next thing can appear.
+"The door. The water. Your shoulder. All of it. And then we don't come this way."
 
-I tell Paloma I panicked when I read her message. I tell her I had imagined our lives overlapping longer. I say I should not have gone quiet. Each sentence is true. I arrange them around the truth that would make them ugly.
+"Keely, wait. Let me finish."
 
-“We don't have to schedule calls,” I say, making generosity out of the retreat.
+Keely pressed the button.
 
-“Good.”
+The seat caught her. Vertigo rose harder, cold and immediate, and for a second the windshield seemed to roll while the car stayed still.
 
-“You'll call when you can.”
+The clock showed 2.
 
-“When I want to, if I can.”
+The water jug stood capped behind them. Hollis's shoulder was unmarked. The passenger door shut cleanly, without the pale crease left by the concrete.
 
-“And if two weeks go by?”
+"Let me finish," Hollis said.
 
-“Then two weeks went by.”
+Keely closed her eyes.
 
-Paloma returns her eyes to the road. “I'm still leaving Saturday.”
+"There's another one, isn't there?" Hollis asked.
 
-“I didn't ask you not to.”
+"One phrase."
 
-“You did beside the blank sign.” Her face tightens. “You said I chose fences and dirt over you.”
+"No picture. I don't know what I was finishing." She flexed the shoulder that had never struck anything. "What did you do?"
 
-I said it during the first return, after she remembered the original argument and before I erased the fork. I had already revised it out of my account.
+"The ground gave way. The door got bent. We lost one jug. You hit your shoulder."
 
-“That road isn't here anymore,” I say.
+"So you pushed it."
 
-“The sentence is.”
+"It fixed everything."
 
-“I can say it better.”
+The service building was no longer ahead of them. It stood far off to the left, turned sideways, with no road reaching it. The new track curved right. The compass showed west; on the printed map, west was open desert for thirty miles.
 
-The meteor seam is narrowing. I say, “I wish we could go back,” a third time.
+Hollis examined the ground through the windshield. The same rectangle of old asphalt held the car. Beyond the hood, at almost exactly its length, the surface became reddish gravel.
 
-The third return takes three minutes and lands us at 11:43. The clock retreats; nothing else in the car does. The odometer holds at 184,219.0, the gas gauge is near an eighth, and the temperature needle touches the red before settling just beneath it.
+"You don't choose the road," she said.
 
-An empty motor court appears on the right.
+"Not yet."
 
-Six stucco rooms bow around a gravel yard, open toward the road. Their blue doors hang inward. A dry swimming pool fills the center, tiled with fish whose eyes flare in our headlights. At the far end, a dead ice machine leans against an office no wider than a tollbooth.
+"That's not what I said."
 
-Paloma brakes before I speak. “The mug was here.”
+Keely's stomach rolled again. She took a cracker for the salt and found the packet sealed. Even the tear had been taken back. She opened it along the same crooked seam.
 
-“The mug was at the station.”
+They drove the rightward track at walking speed. Hollis called the surface as it came: packed gravel, loose gravel, shallow rut, stone shelf. Keely watched the clock and tried to repair the rest.
 
-“I know where I saw it.” She turns hard into the gravel. Stones strike the underside of the car. “We're stopping.”
+"About the six weeks," she said. "I wasn't making a rule. I meant I could come back more often if that felt—"
 
-“The engine is too hot to idle.”
+"I didn't ask."
 
-“Then I'll shut it off.”
+"Not this time. Before."
 
-She parks facing the road, clear of the pool, and kills the ignition. The sudden quiet exposes the ticking under the hood.
+Hollis took her foot off the accelerator. "Before when?"
 
-“How many?” she asks.
+"Before the first reset. You said visits weren't the same as telling you I applied. I was trying to explain that I didn't tell you because nothing was certain, and you would have spent three months thinking I was already gone."
 
-“It happened twice after the first.”
+"Did I say that?"
 
-Her eyes go to the clock, then to me. “That's not what I asked.”
+"You said I don't get to make your waiting easier by leaving you out of it."
 
-“Three returns.”
+The words had survived in Keely complete and exact. She had already tried one answer to them. She could do better now: start with agreement, remove the part about Hollis not answering messages, keep her own voice level.
 
-“Three versions I don't get to keep.”
+"You were right," she said. "But I wasn't trying to leave you out. I was trying not to hand you a problem before I knew if it existed."
 
-“You are keeping pieces.”
+"You know what I'm going to say?"
 
-“Don't tell me that like it's a favor.” She closes her eyes. “There was a road with a blank sign. You kept saying Sunday until I said yes. Then there was the station. I said I'd call when I wanted to, if I could. You went quiet, and I knew that answer was wrong too.”
+"No. I know what you said."
 
-Her second answer is exact. I had believed my silence after it was the only part that survived.
+"That isn't better."
 
-“You didn't answer wrong,” I say.
+The track climbed. Keely could see the useful next version of the exchange as branching roads: if Hollis said she was tired of being managed, Keely could explain the difference between planning and control; if she went quiet, Keely could give her room without letting silence harden. Four minutes was enough to get past the bad opening.
 
-“Then why are we somewhere else?”
+Ahead, a pale strip that looked like pavement descended over a low rise.
 
-The engine knocks once as it cools. I picture the next attempt: tell her about the first return immediately, apologize before asking about the cabin, never mention Sundays. A truthful sequence, properly ordered.
+"That might join the highway," Keely said.
 
-Paloma watches my face. “You're doing it now.”
+Hollis stopped before the crest. "It doesn't."
 
-“Doing what?”
+"We can't see from here."
 
-“Waiting for a better way to get the answer.”
+"I can see the outside edge slumping. And there's no uphill cut for a road coming back out."
 
-“I'm trying to get us back to the highway.”
+"We could walk it."
 
-“You were trying before you knew the road changed.” She points through the windshield. “Those are two different problems. Pick the one you're talking about.”
+"Engine's hot. I'm not leaving it idling."
 
-I turn the key. The hatchback coughs, catches, and sends the temperature needle against red. Before Paloma can stop me, I say, “I wish we could go back.”
+"Then shut it off. I'll check."
 
-The fourth return throws us onto moving pavement at 11:44. The motor court is gone. Paloma has both hands on the wheel again; the running car is doing fifty-two on a road neither of us chose.
+Hollis set the brake but did not move. "Did we have this argument already?"
 
-“Brake,” she says.
+"Not this one."
 
-“What?”
+"Did I tell you not to take a road?"
 
-“My foot remembers braking.” She presses down. “And don't ask about Sundays again.”
+"You don't remember that."
 
-The radio cuts into a weather report for frost in upper orchards. Outside, silver sand streams away from the headlights. The road narrows and drops between two black shelves of rock.
+"I have the words."
 
-“How long did we get?” Paloma asks.
+Keely heard the accusation that might follow and began answering it before Hollis spoke. "I'm not making you repeat yourself. The ground changes. The only advantage we have is that I remember, so I have to compare what happened and—"
 
-I check the clock. “Less than two minutes.”
+"You keep answering things I haven't said."
 
-“Then stop spending it.”
+"Because I'm the only one with all of it."
 
-Our headlights rise off the pavement.
+"You're changing your answers."
 
-There is no road beyond their beam. A flash-flood channel has bitten through the culvert, leaving two ragged slabs and twelve feet of air between them. Paloma stands on the brake. The rear slews toward the drop; the steering wheel jerks through her hands. I see the right front tire reach broken asphalt.
+"I'm using what I know."
 
-“I wish we could go back.”
+"On me." Hollis took her hand off the gearshift. "Don't push it. Not for this."
 
-The fifth return buys forty-three seconds.
+Keely's finger was already in the recess. She told herself the road was unsafe, the gauge was high, the four-minute window nearly gone. Hollis had set the brake. Nothing was falling. Nothing was broken.
 
-Paloma is already braking when the clock lands on 11:45. The channel is gone. In its place the road runs through a gap between two stucco buildings and straight into the motor court, but the court has changed. Rooms now close around three sides in a horseshoe. The dry pool blocks the center, much too close for our speed.
+She pressed anyway.
 
-Paloma yanks the wheel left. We jump a low curb, miss the pool by the width of a hand, and stop beside the dead ice machine. Steam feathers from under the hood.
+For one long instant there were two directions of down. Keely clamped a hand over her mouth and tasted metal.
 
-She shuts off the engine. The odometer reads 184,222.7. Near-empty fuel, heat, miles, the belt's worsening rasp: the car has kept all of it.
+The clock showed 1.
 
-Paloma takes the flashlight from the door pocket. “Do not touch the radiator cap.”
+Hollis stared through the windshield. "Not for this."
 
-“I know not to open it hot.”
+Keely breathed through her nose.
 
-“You put dish soap in the washer reservoir when you were twelve.”
+"That's the piece," Hollis said. "Three words."
 
-“Because you said it needed soap.”
+The old asphalt beneath them remained. One car length ahead, it ended in a broad fan of stable gravel. Beyond that, a broken ribbon of pavement descended into a dry wash and stopped at a wall of pale dirt. The service building had vanished. Behind them, the track they had just climbed did not exist.
 
-“I was also twelve. Stay in the car.”
+Hollis turned off the engine.
 
-She gets out before I can make the memory into evidence that we are fine. Under the raised hood, she keeps her hands away from the hissing metal and traces the flashlight along a wet hose. Then she walks along the left arm of the horseshoe, checking doors and the ground as if this were a trail she had been assigned to assess.
+"No more driving until you tell me the rules," she said.
 
-When she comes back, dust powders her shins. “We wait until the needle is below half. The reservoir is low, but I can't see a split. We'll use one bottle of water and keep one. There's a service lane behind the last room on the left. It goes east as far as the light reaches.”
+Keely put both hands in her lap. The night continued its slow rotation around her, then steadied.
 
-“East according to what?”
+She told Hollis what she knew and only what she knew. The first return had come with the meteor and her wish. The others happened when she pressed the clock button. Each was four minutes. The number counted down. The car returned to its earlier position with its fuel, heat, contents, and damage restored. So did they, except Keely kept the erased time and the spinning in her head. Hollis kept one piece of speech.
 
-“According to the stars I recognize. If they still count.” She sits sideways in the driver's seat with her feet on the cracked pavement. “I'm not promising where it leads.”
+"Words only," Hollis said.
 
-The meteor's scar has thinned to a green thread above the motor-court roofs. By the rate of the last return, there may be enough light for one more sentence and a handful of seconds.
+"You said no pictures."
 
-Paloma holds the flashlight between her knees. “I remember agreeing to Sundays. I remember saying only when I wanted to. I remember you apologizing in a room with blue doors, except we never went inside one.” She touches her tongue to her lower lip as if the words have left a taste. “Which answer did you keep?”
+"I'm checking."
 
-“Neither. Those roads are gone.”
+"Words only, as far as I can tell."
 
-“I didn't ask about the roads.”
+"And the road?"
 
-I hear the next draft forming. Return before the culvert. Warn her first. Admit all five returns. Remove the lie at the motor court. Begin with the worst truth so nothing afterward can contaminate it.
+"The patch under us stays. Past about a car length, it changes. Every time it's moved farther off the route on the map. The compass tells us where this road points now, but not where the next one will be."
 
-I draw breath. “I wish we could—”
+Hollis considered the gravel fan, the wash, the hood. "One push left."
 
-Paloma does not close her eyes or tell me to stop. She looks straight at me, frightened and furious, waiting to find out what I will take from her this time.
+"Yes."
 
-The last two words are ready. I do not say them.
+"You don't push it without asking."
 
-The dashboard clock advances to 11:47. The green thread contracts at one end, then goes dark. Nothing moves except the needle easing down from red.
+Keely started to say that an emergency might not leave time. Hollis was looking at the dashboard, not at her.
 
-“No more,” I say.
+"Okay," Keely said.
 
-Paloma sets the flashlight on the seat. She does not thank me.
+They inventoried the car. Hollis did the work; Keely wrote it down. A little under half a tank. One full water jug and one three-quarters full. Four foil blankets, a flashlight at sixty percent, six cheese crackers, three fruit candies melted into a single striped brick, one spare hoodie, a weak jack, a doubtful tire. No signal. The radiator reservoir was low enough that Hollis would not restart until the engine cooled.
 
-The message is still on my phone, if my phone has survived all five roads. I do not take it out. I remember exactly what I typed and deleted.
+"Highway should be south," Keely said.
 
-“I read your message at two fourteen,” I say. “I typed *Great*. Then I deleted it. I typed *How long?* and deleted that too. By dinner I knew I was hoping you'd get scared when I didn't answer. I wanted you to come back and ask what you'd done to me.”
+"Map south."
 
-Paloma picks a loose thread from her shorts. “I checked the chat at every gas stop for two weeks.”
+"The compass still says south."
 
-“Why didn't you send another message?” The defense escapes before I recognize it.
+"The compass doesn't say there's a road there."
 
-“I sent the first one.”
+They walked no farther than the gravel fan. Hollis crouched and pressed both palms to it, then swept the flashlight over the slope. Angular stones, no crust, no dark line of a drop beneath. Safe enough to move the car fully off the broken pavement if they did it now.
 
-“You did.”
+"You're dizzy," she said.
 
-“And you saw it.”
+"I can steer ten feet."
 
-“Yes.” I press my palms against my knees. “It wasn't space. I was punishing you because I couldn't stop you from going.”
+"I can steer my car. You watch the passenger side and don't wave unless I'm near the edge."
 
-She looks beyond me into the empty rooms. Wind moves through them now, tapping something metal at uneven intervals.
+Hollis restarted. Keely got out and held the flashlight low. The hatchback crept onto the gravel, its tires crunching one careful quarter-turn at a time. Keely wanted to guide every inch. She made herself watch the passenger wheel and say only, "Clear," when Hollis asked.
 
-“I'm going Saturday,” she says. “I want the job. I want the cabin and the boots and mornings where nobody has known us since second grade. I waited until the papers were signed to tell you because I didn't want to be talked out of it. That's mine to answer for. It doesn't make the nine weeks mine.”
+Once the car sat level, Hollis killed the engine again. Heat soaked upward. A wet hiss came from beneath the hood, followed by a white thread of steam. Coolant began to spit from the overflow line and darken the gravel.
 
-“No.”
+The green 1 lit Keely's hand as she reached for the clock.
 
-“I would have gone if you'd asked me to stay.”
+Four minutes back would fill the reservoir, cool the engine, put them on the intact patch. It would also take away the inventory and Hollis's condition. The road beyond the tires would change again. Keely could return with the right explanation ready. She could ask before touching the button and know which words had failed.
 
-“I know.”
+Hollis stood outside by the hood, waiting for Keely to pull the release. She did not say don't.
 
-“You didn't know. You kept checking.”
+Keely withdrew her finger.
 
-The needle descends another fraction.
+"It's venting," she said.
 
-“I'm sorry,” I say.
+"I hear it. Pop the hood, not the cap."
 
-Paloma winds the loose thread once around her finger. “I remember you saying that already.”
+Keely pulled the lever. Hollis raised the hood and set the prop, keeping her face away from the steam. They lined the cold front seats with two foil blankets, kept the other two for themselves, put on both layers they had, and moved the water out of the cargo area. Hollis tore the striped candy brick in half with the jack handle. It broke unevenly; she took the smaller piece.
 
-She reaches for the flashlight. “Below half, then water. Hold this while I pour.”
+"At first light," Hollis said, "we check the hose. If it holds, we add water after it's cold and try the gravel back to the highest point. Slowly. If the track is gone, we stay with the car and use the mirror to signal."
 
-We wait with both doors open. The extra stars fade without pattern, leaving the ordinary ones separated by dark. No sound marks the change. The motor court remains: blue doors, tiled fish, the lane Paloma found behind the last room. At 12:19 the temperature needle drops below half.
+"We should climb the ridge first and look for the highway."
 
-Paloma wraps her overshirt around her hand, loosens the reservoir cap a little at a time, and waits through the last release of pressure. I hold the light while she pours in one bottle. The whole bottle brings the level to the lower mark. The second stays unopened between our seats.
+"After daylight. Together. Ten minutes out, ten back."
 
-The engine starts on the third try. The belt's squeal is rougher than before, but the temperature holds below three-quarters. Paloma backs away from the pool, turns between the office and the last room, and finds the service lane.
+Keely wrote that below the inventory.
 
-It is one strip of cracked pavement with sand banked along both sides. The radio catches a woman announcing livestock notices, loses her, then settles into ordinary static. We pass no station, motor court, or fork. The dark ahead stays dark until the sky begins to gray.
+The sky remained impossible, dense with overlapping distances. Without the engine, the silence made room for the small sounds of their camp: foil snapping, candy against teeth, coolant ticking onto stone.
 
-Forty minutes later, the lane meets a divided highway. Its paint is fresh enough to shine. A green sign promises fuel in nine miles without naming a town. The paper itinerary has slipped under my seat; by its distances, the odometer contains thirty-one miles that do not belong anywhere.
+Hollis sat sideways in the driver's seat. "Every six weeks."
 
-Paloma keeps the wheel. My job is to hold the flashlight on the temperature gauge whenever the dash light blinks out. A pale band of morning gathers above the road.
+Keely looked up.
 
-After several miles, Paloma says, “After my first week.”
+"That one," Hollis said. "What was around it?"
 
-I look over.
+"I said I could visit every six weeks after I moved. You said visits weren't the same as telling you I'd applied."
 
-“One text,” she says. “Not before. If I answer, ask whether I can call. If I don't answer, leave it.”
+"Anything else?"
 
-Questions crowd up: what time, what if the crew has no signal, how long *leave it* means. I say none of them.
+Keely could have given her the whole erased exchange, including Hollis's long silence and the exact place her voice had thinned. "You said I made the schedule before I asked whether you wanted one."
 
-“All right,” I say.
+Hollis pulled the foil blanket closer around her shoulders. "Sounds like me."
 
-“I might still say no.”
+"It does."
 
-The dash goes dark. Paloma taps the clear plastic over the gauges once, then points. “Light.”
+They did not decide on Tuesdays or visits. Hollis took first watch because, she said, Keely looked as if the parked car were still moving. Keely objected once, then climbed into the passenger seat and set her phone alarm for two hours.
 
-I move the beam back to the temperature needle.
+"Wake me if the steam gets worse," she said.
+
+"It'll stop when it's cold."
+
+"Then wake me if you get too cold."
+
+Hollis adjusted the flashlight so its beam rested across the gravel and the first broken edge of road. "Two hours. I'll wake you."
+
+Keely put the unopened half of the crackers between them. The dashboard clock held at 1. Outside the windshield, the broken pavement ended at the wash. Hollis listened to the radiator, and Keely waited for the alarm.
