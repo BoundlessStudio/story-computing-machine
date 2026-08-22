@@ -1,6 +1,6 @@
 ---
-title: "What She Remembered of Peace"
-slug: "what-she-remembered-of-peace"
+title: What She Remembered of Peace
+slug: what-she-remembered-of-peace
 created: 2026-08-10
 created-at: 2026-08-10T09:37:28-04:00
 canon: false
@@ -8,380 +8,354 @@ canon: false
 
 # What She Remembered of Peace
 
-By the time the water in Coru's joint bowl began its slow clockwise turn, I had tightened the lower shutter hook twice and was considering a third screw.
+Olyne had the kitchen latch spread across a towel when every loose spoon in the drawer chimed.
 
-The hook had held through six winters. The shutter itself was pine, built in my shop, planed to the width of the kitchen window and painted the green Coru said made rain look warmer. Nothing was wrong with it except the morning outside.
+Anvek stopped turning the stripped screw. Her head tilted, not toward the window but toward something farther away. The pulse was too low for Olyne to hear. She felt it afterward in her molars, a pressure that had crossed the district and gone on searching.
 
-“You'll split the frame,” Coru said.
+“Ranging burst,” Anvek said. “Military pattern. It flagged the sealed library.”
 
-She stood within two metres of the blue enamel bowl. A coriander seed circled its rim, passed the chip by the handle, and came around again. Water did that near her only when the stabilizers in her hips were working too hard. We had discovered the effect years ago after every uncovered cup on my bench began to rotate clockwise while she held a fence post upright. Since then I kept the bowl filled to a pencil mark. It told us strain, direction, and very little else.
-
-“I'm adding one screw,” I said.
-
-“You said that about the second.”
-
-The first shell struck beyond the lower fields.
-
-The frame split without waiting for my decision. The shutter kicked inward and drove me across the table. The lamp went out. Crockery jumped in the dresser; somewhere in the back hall, a jar fell and broke. Coru caught the shutter with one hand before it could rebound into my head.
-
-The kitchen clock read 9:17. Its second hand stopped there.
-
-I stayed bent over the table until the noise thinned enough for me to hear plaster dropping from the ceiling. Coru set the shutter against the wall. Her head had turned slightly east, listening.
-
-“That was near the road,” I said.
-
-“South of the road. Three fields.”
-
-Another report rolled over us, then two more close enough to overlap. I heard three. Coru lifted a finger for each sound under them and reached seven.
-
-The evacuation bulletin at nine had promised the road would remain open until noon. Our bags waited at the back door: food, clothes, two blankets, my hand tools, and the small repair kit Coru carried even when she only went to market. I had packed for a week because a week was the longest disaster I knew how to imagine.
-
-Coru crossed to the pantry. From above the flour bin she took down the cedar box I had not seen open in seven years.
-
-“No,” I said.
-
-She put the box on the table and lifted its lid. The black service pin inside was the length of my thumb joint.
-
-“The shell pattern is walking inward,” she said. “Something on the road is directing it. Search units will reach these houses before the troops.”
-
-“The broadcast said—”
-
-“The broadcast has been repeating the same damaged sentence for eleven minutes.”
-
-I had not noticed. I had been repairing a shutter.
-
-Coru opened the narrow panel below her ribs. There were no weapon connections behind it. We had removed the aiming relay, the forearm blades, the sockets along her spine, and every part whose only purpose was to injure at range. What remained tied balance to prediction, prediction to concealment, concealment to the fine control of a body designed to cross bad ground under fire.
-
-She held the pin over the port.
-
-“What comes back?” I asked.
-
-“Nothing comes back. The closed routines become available.”
-
-“You know what I mean.”
-
-“Trajectory comparison. Search-pattern analysis. High-load balance. Thermal concealment.” Her gaze moved from the pin to me. “The guns are still in the reclamation furnace. My hands are the same hands they were at breakfast.”
-
-Her answer should have steadied me. Instead I heard the old manuals in its nouns.
-
-“Wait until we see a search unit.”
-
-“If we wait to see it from this room, it will already have seen us.”
-
-“That lock was your idea because those routines frightened you.”
-
-“They did. I closed them. I can open them.”
-
-At the market four days earlier, a seller had refused to hand Coru a tin of bearing grease until she produced an ownership paper that did not exist. I had begun explaining permits, reclamation stamps, and the exact place he could put his grease. Coru laid two fingers against my sleeve.
-
-“Let me finish my purchase,” she had said.
-
-Then she asked the seller to point to the rule on the posted board. When he could not, she set the coins down, took the tin, and asked whether he wanted to count them or keep staring at her wrists. He counted. She carried the grease home herself.
-
-In the dark kitchen she gave me the same look: a request once, before she proceeded without my approval.
-
-“Stand clear of my right side,” she said.
-
-I moved.
-
-Coru seated the pin and turned it. Her face did not empty. No hidden light woke beneath her skin. Her shoulders lowered; her weight shifted forward by perhaps half an inch. Then her eyes stopped returning to me between sounds.
-
-“Local armament state: absent,” she said. “Left hip compensation at nineteen percent. Search lead in perhaps eighteen minutes.”
-
-The water in the bowl continued its small turn. That ordinary nuisance frightened me more than any transformation would have. Coru was still close enough to stir it. I could not tell whether she was still close to me.
-
-She drew the smaller pack toward her and emptied half of it onto the table. Blankets, spare clothes, the little copper kettle.
-
-She kept the food, lamp, and repair kit, tied the pack shut, and slung it over one shoulder.
-
-“The pantry chimney will take one direct wall failure,” she said. “The laundry trench is below the search line. Potting shed after that. Reflective orchard cloth gives concealment across the garden. Culvert is the exit.”
-
-“You've turned the whole house into a map.”
-
-“It was always a map. We did not need this use yesterday.”
-
-“The north grate sticks.”
-
-“Take the long pry bar.”
-
-“The culvert floods.”
-
-“Not in this rain.”
-
-For sixteen minutes the bombardment kept us between the table and the chimney. In each quiet patch Coru named one task: coat, boots, lamp, the pantry door unlatched so a blast would not splinter it. I moved; the next report folded us against brick again. The last one landed close enough to end the waiting.
-
-A close impact punched a hole through the pantry ceiling. Tiles and wet insulation poured over the tins. Coru dragged me behind the chimney wall before I understood that I had moved. Something hard struck her back with a clang. She looked up, recalculated, and pushed the pry bar into my hands.
-
-“Back door,” she said. “Now.”
-
-We crossed the pantry bent low. The reinforced chimney was no longer where we hung onions; it was a thickness of brick between us and flying stone. Through the broken back door I could see the laundry trench, a shallow run beside the line where our sheets used to hang. Beyond it leaned the potting shed, one corner already crushed by the pear tree.
-
-A machine moved above the far orchard.
-
-It was smaller than a cart, all dark vanes around a pale central grille. It made no announcement. A white scanning bar traveled down the side of the neighbor's empty greenhouse, paused over a collapsed cultivator and then a scorched irrigation pump, and slid on. The machine rotated by measured fractions while something farther away answered with the same dry whine.
-
-Coru watched one full turn.
-
-“Two short drops in rotor pitch,” she said. “Transit on the second. Mark.”
-
-The pitch fell once. Coru went low, ready to spring. It fell again and she crossed the yard.
-
-I waited for her to say move.
-
-By the time I understood that *mark* had been the last word, she was in the trench and I was standing in the doorway with the pry bar held upright like a lightning rod.
-
-The pale grille turned.
-
-Coru reversed at once. She came over the sill, caught me around the waist, and dropped with me behind the pantry wall as the white bar swept across the door. Plaster warmed under my cheek. The scan moved away, returned, and found the shutter lying across the kitchen floor.
-
-“Eight seconds to rear aspect,” Coru said against my ear. “Trench, shed, immediate.”
-
-She ran carrying both of us for the first three strides. Her left foot landed with a metallic knock I felt through my ribs. At the trench she set me down without stopping. Mud climbed over my boots. The search unit's pitch sharpened behind us.
-
-Coru reached the shed first and tore its swollen door free rather than fight the latch. I stumbled under the fallen pear limb. She lowered the door into place as the white bar crossed the cabbage bed.
-
-The roof had folded over the middle bench. We crouched in a wedge that smelled of wet soil, fertilizer, and the old kerosene I used for cleaning tools. Clay pots crowded a shelf at the height of Coru's head. Through nail holes in the wall, the scanning light appeared and vanished.
-
-“Follower response incompatible with command cadence,” Coru said. “Alternate transit requires consolidated load, elevated chassis temperature, reflective—”
-
-“Don't call me a load.”
-
-“Then listen past the word.”
-
-“I listened. You left without me.”
-
-“I gave a movement mark.”
-
-“You gave me six clipped pieces of a sentence and expected the right piece to open my legs.”
-
-The machine began another turn. Coru looked through a split board. “It will have a garden angle in thirty-two seconds.”
-
-Her panel pin showed black beneath her shirt. I reached for it.
-
-Coru caught my forearm and folded it against the packed-earth floor. She used no more force than the hold required. With her other hand she caught a clay pot my elbow had shaken from the shelf. A little earth spilled onto my sleeve. The pot did not strike.
-
-“Take your hand away from my latch,” she whispered.
-
-“Close the routines.”
+“Flagged isn’t opened.”
 
 “No.”
 
-“That voice isn't yours.”
+The impact came three breaths later. The building dropped beneath their feet and returned crooked. Plaster burst from the wall above the sink. Anvek caught the shelf before the jars could fall, while Olyne caught only the towel and flung screws across the floor.
 
-“It is a voice I used with people trained to know the missing words.” Her eyes stayed on the slit of light. “You are not one of them. I failed to change it.”
+Outside, glass went down the street in a long bright crash. Then the networks died: wall display, emergency strip, Olyne’s handset, all at once.
 
-The answer halted me more effectively than her grip. Coru released my arm, set the pot down, and placed herself between me and her panel.
+She was already making the list. Fifth-floor couple. The baker with the stiff knee. Gess in the roof room. The four from the divided flat, one of whom slept through alarms. Eleven neighbors if everyone had come home before the sirens.
 
-The night we made the lock, she had sat on my workbench while I replaced pressure mesh in her left heel. She had inspected every drawing before allowing me to cut metal. I proposed a switch behind her shoulder where I could reach it during a fault.
+Anvek set the shelf down. “The shelter is two terraces below us.”
 
-“No,” she had said. “Below the ribs. I can guard that.”
+“You stay here.”
 
-“What if you're the one who needs help?”
+“No.”
 
-“Ask first. If I cannot answer, keep me from falling and wait.”
+“That pulse was looking for things built like you.”
 
-She specified a pin she could remove, a quarter turn no outside signal could imitate, and a lock that would interrupt access without deleting anything. I did the machining. Coru tested it. She put the pin in a cedar box because metal collected dust on the pantry shelf.
+“Yes.” Anvek took the ring of utility keys from its hook and gave Olyne the small brass one for the radio cabinet. “Start on five. I’ll check the stair.”
 
-Over the years, *I made the lock* had quietly replaced *she designed it* in my memory.
+“Anvek, you don’t need that library to help me knock on doors.”
 
-In the shed, another shell broke somewhere uphill. The earth jumped beneath my palms.
+“I haven’t opened it.”
 
-“I thought the routines had pushed you aside,” I said.
+There was no argument in the words, and no invitation to one. Anvek put on the canvas work jacket she wore for dirty repairs. The left cuff still carried blue paint from a peaceful week spent repainting balcony rails. Olyne followed her into the corridor because the only other choice was to waste time insisting she had authority she did not possess.
 
-“I opened them. I am choosing what runs.”
+They collected eight people before Gess Miro came down from the roof room with two more and a fistful of master keys. Her gray hair was full of dust. She kept the keys in her left hand, the one that closed properly, and announced, “Eleven. I had eleven and I have eleven.”
 
-“Your shoulders changed. You stopped looking at me.”
+“You have ten behind you,” Olyne said.
 
-“I was measuring impacts.” Coru nodded toward the wall. “I also expected you to understand a call built for squadmates. That expectation nearly exposed you.”
+“I’m eleven.”
 
-The earliest memory arrived last: the reclamation yard, hot iron under a white sky. Coru had lain on a pallet with her weapons already stripped and a red furnace tag wired through one wrist. A clerk told me the motion in her eyes was a targeting loop. I put my hand above her face; the eyes followed my fingers and then moved to the open gate behind me.
+It did. Olyne checked faces anyway: the baker breathing through his sleeve, the couple from five in outdoor shoes and nightclothes, four from the divided flat, the washerwoman, the quiet man from beside the cistern, the neighbor Gess had rousted from a ground-floor room after the first impact, and Gess herself. Eleven.
 
-I signed the salvage transfer before the furnace trolley returned.
+The emergency stair door stood open. Beyond it, concrete dust sifted through darkness.
 
-Three days later she woke on my shop floor while I was fitting a crude replacement to her left hip. Her first question was how long the door had been blocked by my tool chest. I told her I had saved her. She asked me to move the chest anyway.
+Gess shook the keys. “Stair goes to the lower terrace. Fire door held. We use the stair.”
 
-I had moved it. I had never stopped wanting the rescue to mean I knew which doors should remain shut.
+Anvek crouched at the threshold and pressed two fingers to the first tread. She listened, then struck the riser once with the heel of her hand. From below came a soft succession of taps, running downward too long, followed by the granular rush of something settling.
 
-The search light thinned across the roof.
+“The inner flight has separated at the half-landing,” she said.
 
-Coru leaned nearer, speaking softly now, each sentence complete. “The machine outside has examined two blast-warmed engines and passed them when they stayed still. Its scan here is comparing heat, motion, and outline. I can give it one outline instead of two.”
+“You can’t see that from here,” Gess said.
 
-“With the silver orchard sheet.”
+“No. I can hear fragments dropping through the gap. The landing shifts when this tread takes force.” Anvek stood. “Nobody uses it.”
 
-“Yes. Think of wrapping the hot-water tank in winter. From the window, the blanket hides where the tank ends and the pipes begin.”
+Gess peered into the dark as if long service to the building might make the missing landing reconsider. Another explosion rolled over the roofs. This time smoke breathed up the stairwell.
 
-“That blanket doesn't walk.”
+Olyne turned the group toward the roof. “Produce cradle.”
 
-“This one will limp.” Coru touched the plate over her left hip. “I can store heat instead of venting it. Under the sheet, you and I should read as one damaged machine crossing after the blast.”
+“Brake needs someone above,” Gess said.
 
-“Should.”
+“Then someone stays for the last trip.”
 
-“I have seen only this sweep. I do not know what another model would do. This one may still stop us.”
+Anvek had gone still again, measuring a sound none of them could isolate. “Fire in the battery room. We have less than forty minutes if the vent has failed.”
 
-“How far?”
+“How much less?”
 
-“Twenty-three metres from the shed to the ditch. I carry you against my front so your feet do not make a second track. Three stops: rain barrel, white stones, culvert bank. I will name each one before I move.”
+“Unknown.”
 
-Her new cadence took longer. The machine completed another fraction of its turn while she spent the time.
+On the roof, the wind pressed smoke flat between the buildings. The produce cradle hung where it had all summer, a steel basket used for squash, soil, broken chairs, and once an unauthorized bathtub. Its cable ran over a roof pulley to a counterweight track. No power was required, but the hand brake had to be held open from above while the basket descended two terraces. On the shelter terrace below, three amber lamps marked the receiving rail. Three blue lamps beside them marked the narrow moment when the cradle could move.
 
-I looked at the hard angle of her left leg. “If the hip slips?”
+Only one blue lamp was lit.
 
-“I lower you. The sheet may open when I do.”
+Gess unlocked the brake housing. Her weak right hand slid off the lever. “It was serviced in spring.”
 
-“And if I need down before that?”
+“The cable is frayed past the pulley,” Anvek said.
 
-Coru guided two of my fingers to the plate below her collarbone. “Two quick taps. I stop the step and put you down. Even under the scan.”
+“Everything was serviced in spring.”
 
-“What if there's nowhere to put me?”
+Olyne opened the roof radio cabinet. The set inside gave her a wash of static until she struck its casing, then a man’s voice surfaced in pieces.
 
-“Then I put you in the cabbages. Two taps still means down.”
+“Upper block, identify.”
 
-I tested the reach. Easy with my arm around her neck.
+“Olyne Orret, roof, east face. Eleven to move. Stair’s gone.”
 
-“I grabbed your panel because I wanted the old voice gone,” I said. “I wasn't repairing anything.”
+“I have your lower terrace in sight,” Naro Tule said. “Only the lower terrace. I cannot see you or your cradle head. Shelter rail is staffed.”
 
-Coru looked toward the rear wall. “Then repair the orchard sheet. Its lower hem tore last spring.”
+“Why is there one blue?”
 
-The sheet hung on pegs outside, trapped between the shed and the fallen pear limb. I drew it through a gap one fold at a time while Coru watched the searcher's turn. Silver fabric rasped across splintered boards. The tear had widened to the length of my forearm. I had no time for stitching, so I doubled the edge and fixed it with three brass clips from the seed trays. Coru checked each clip with a tug.
+“Because I can clear one lane. Protocol is amber, hold; blue, move. Don’t infer anything else from the lamps.”
 
-“This corner catches wind,” I said. “Keep it under your right elbow.”
+A dark triangle skimmed between two chimneys, visible for half a second before the smoke swallowed it.
 
-“Show me.”
+“Drone,” Olyne said.
 
-I folded it around her shoulder and marked the grip. Coru held still while I reset the second clip twice.
+“I can’t confirm what’s above your roof,” Naro said. “I can tell you the marking pattern we’ve seen. Three short flashes, pause, one long. Follow-up fire has landed between ten and twenty seconds later. If you see the pattern, get everyone below the parapet. I cannot promise interception or pickup.”
 
-I slipped the long pry bar through the side loops of her pack and tied its lower end against her right thigh. It would stay inside the sheet's single outline and leave both her hands free.
+The radio sagged into static again. Its internal battery indicator showed a final red bar. Their sole portable pack waited beneath the set.
 
-Coru opened the heat-storage baffles along her back and drove her thermal sink into storage mode. Warmth filled the shed. Her cooling fans slowed, then stopped. In a cracked rain basin beside her boot, a skin of water began to creep clockwise around a drowned leaf. Water beyond the wall, more than two metres away, lay where the rain struck it.
+Anvek looked at the cradle, the parapets, the smoke, the slice of street visible past the empty awning on the neighboring roof. “The library can help time the crossings.”
 
-“Strain is rising,” I said.
+“No. We can lower them when the light turns blue.”
 
-“I have included it.”
+“The lamp controls the terrace lane. It doesn’t see the drone.”
 
-“That isn't the same as liking the number.”
+“And opening that thing could burn out your joints.”
 
-“No. It is twenty-six now.”
+“Yes.”
 
-The dry answer belonged to the woman who had once reorganized my screws by thread and denied doing me a favor. I let it stand.
+The eleven neighbors had drawn close enough to listen. Olyne heard herself reaching for old language, the language of appointments and petitions and that first winter when every official desk had asked her to be the one responsible. “We got you away from people who wanted to cut you down for parts. We made a life here. I am not letting a war take it back.”
 
-Coru crouched beside the broken bench. I climbed onto it and settled against her front, my knees drawn along her sides. She supported my thighs with her left forearm and laid her right arm across my back. Heat came through both layers of my coat. I could still reach the plate beneath her collarbone.
+Anvek’s gaze moved to her, steady and unreadable in the smoky light. “You helped me get an appeal. You gave me a room.”
 
-She drew the orchard sheet over us. Silver darkness closed around my face. The torn hem stayed clipped; the loose corner lay under her right elbow.
+The independent technicians had done the other work at Anvek’s request: severed the receiver through which a remote officer could once have forced her body, recalibrated senses tuned past endurance, restored voluntary task selection without wiping memory or temper or preference. Olyne had sat outside their workshop with bad tea and three forms she was not authorized to sign. Later she had taught Anvek which buses lied about their schedules, how much apology a landlord deserved, and why the market saved bruised pears for the end of day. Useful things. Not the source of the woman standing before her.
 
-“The machine samples a still outline for four slow counts,” she said. “If it stops over us, I will count those aloud. After four, we wait for the light to leave. The count does not tell you to move.”
+“I know,” Olyne said.
 
-“Good.”
+“Then give me what the library doesn’t have.”
 
-“First stop is the rain barrel. Six steps. Say ready.”
+It was a better request than Olyne deserved. She looked at the neighbors, forcing care into particulars. “Gess can’t hold with her right hand. The baker’s left knee won’t bend past halfway. The man beside the cistern is heavier than he looks. The couple from five panic if they can’t see each other, but they can ride separately. The empty awning will collapse under a full load. Nobody is on it.”
 
-I listened to the rotor pitch fall, rise, fall. This time the sounds meant nothing I had to translate alone.
+Anvek nodded once. “I need each rider to accept the harness and the descent. Olyne, ask them. Don’t answer for them.”
 
-“Ready,” I said.
+So Olyne asked.
 
-Coru left the shed.
+The baker said yes, but not to a strap across his knee. The fifth-floor woman said she would go second if her husband went first; he objected, reconsidered at the next rumble, and agreed. The washerwoman wanted to carry her bag until Anvek showed her where it could catch in the rail; she consented after Olyne tied it shut and sent it separately. One of the divided-flat residents refused the enclosed basket until Gess opened both mesh sides and demonstrated the waist clip. The others gave their own yeses—some quickly, some after questions, none in chorus.
 
-Her first step drove a hard tremor through the left side of her body. Her second was smoother. Beneath the sheet I saw only mud, cabbage leaves flattened by blast wind, and the lower edge of her coat.
+Anvek laid a palm over the access plate beneath her collarbone. “Local objective: evacuate eleven consenting residents from this roof to the lower shelter terrace, while preventing visible direct attack on the cradle. Eight cumulative minutes of fused tracking. Six visible or audible threats within one hundred fifty metres. Three-second motion projection. Ninety cumulative seconds of high torque.”
 
-“Rain barrel in two steps,” she murmured. Then, “Stopping now.”
+“And the limits,” Olyne said, because she needed to hear Anvek speak them.
 
-She went still. The barrel's curved shadow darkened the sheet. Above us the search machine turned toward the house. Coru waited until its grille faced the broken roof.
+“No sight through cover. No identification without a visible or audible source. No network access, machine control, invented data, or sensor repair. Heat will reduce fine movement and slow speech. Torque can permanently damage my actuators.”
 
-“White stones next. Nine steps. The ground drops after five.”
+“Can you stop once you start?”
 
-“Ready.”
+“I can close the library between uses.” Anvek’s thumb rested against the plate. “I’m opening it now.”
 
-She moved. Heat gathered between us until every breath tasted of warm cloth and the rosemary soap she used because my unscented blocks made her think of the yard. At the fifth step her body dipped exactly as promised. I did not mistake it for collapse.
+Nothing dramatic happened. Her eyes did not change color. She drew one breath, looked across the roof again, and became terribly economical about where she spent attention.
 
-At seven, the rotor pitch changed.
+“Blue lane ends in twelve seconds,” she said. “First rider.”
 
-“Stopping at the stones,” Coru said.
+Gess took the amber hand lamp and stationed herself by the parapet. The fifth-floor husband climbed into the cradle, tested the harness twice, and looked back at his wife.
 
-She froze with one boot raised onto the path. The pale bar found the far edge of our sheet.
+“You’ll see me all the way,” he said.
 
-The search machine came nearer. Air from its vanes worried the clipped hem but the fold held. Light traveled from Coru's boots to the place where my shoulder broke her outline, returned, and held there.
+“You’ll be two terraces down.”
 
-My fingers found the collar plate. Two taps would make her lower me. The cabbage rows offered no cover. The potting shed behind us had become a bright-edged ruin.
+“You’ll see the top of my head.”
 
-“Sampling,” Coru said. “One.”
+“Move,” Anvek said. “Visible drone crossing west to east. Projected occlusion behind the chimney in three seconds.”
 
-The machine made a fine clicking sound. No voice, no challenge, only an instrument comparing what reached it.
+Olyne released the latch while Anvek worked the brake. The cradle dropped through the gap between roofs, fast enough to make the cable sing. Gess showed amber when smoke covered the lower lamps, then blue when the receiving crew waved clear. The husband arrived below. The empty cradle returned on the counterweight.
 
-“Two.”
+“One down,” Gess said. “Ten here.”
 
-Coru's left knee sank a fraction. She recovered without squeezing me tighter. The room she left between her chest and my arm was enough for the signal.
+Before the next descent, Olyne clipped the portable pack to the fifth-floor woman’s harness. She gave her the brass radio key too, though there was nothing below it would unlock.
 
-“Three.”
+They found a rhythm that belonged to no drill. Ask. Clip. Amber. Wait. Blue. Move. Anvek opened the library for fragments of each descent and closed it while the cradle climbed empty. Olyne prepared the next rider, altered straps, kept the couple from crowding the rail, and stopped saying hurry when hurry conveyed nothing useful.
 
-Heat prickled against my cheek. Under her shirt, coolant moved in rapid blunt knocks. I smelled hot paint from one of the brass clips and watched the sheet corner lift a finger's width before her elbow pinned it again.
+On the third descent, Naro’s voice crackled from the radio. “Your portable pack came down with the second rider. Do you authorize us to use it for the shelter repeater?”
 
-“Four.”
+Olyne looked at the dead devices around them, then at the people still waiting. “Use it.”
 
-The light stayed. Coru went silent, as we had agreed.
+“Confirmed. I still see only the receiving terrace and the southern approach. Two blue cycles before smoke closes my sightline.”
 
-The grille tilted. Its white bar narrowed, crossed us once more, and moved to the irrigation pump thrown on its side near the bean poles. The machine followed, drifted over the ditch, and began another measured turn beyond the orchard.
+He did not promise a third.
 
-“Culvert bank,” Coru said. “Eight steps. The last two are down.”
+The drone appeared again, low enough now that Olyne saw its blunt belly and twin rotors. Three white flashes blinked under it.
 
-“Ready.”
+“Hold!” she shouted.
 
-Her limp had deepened. On the seventh step the left stabilizer struck its stop and rang. She kept us under one outline until the ground dropped around her boots. Then she lowered me behind the culvert bank and pulled the sheet away.
+Gess slammed the amber lamp against the parapet. The cradle, carrying the washerwoman, hung one storey down.
 
-Air felt cold on my wet face. Steam lifted from the open baffles along Coru's back. The machine did not turn.
+“Marking incomplete,” Anvek said. Her words came after a fractional delay. Heat had begun to flush the seams at her neck. “Long flash not observed. Drone turned north. Keep holding.”
 
-Our house stood above the garden with half the kitchen roof gone. The green shutter I had tried to save lay on the flagstones. There would be tools under the pantry debris, jars in the cellar, two blankets on the table. I reached for none of them.
+Ten seconds passed. Fifteen. Fire struck the far end of the street and threw a fan of masonry above the roofs.
 
-“The grate,” Coru said. Her voice rasped from heat but remained unhurried. “Ground approach in perhaps six minutes.”
+“Not ours,” Gess said.
 
-The culvert mouth hid beneath bramble and a mat of last year's leaves. Its iron grate had warped inward at the lower hinge. I freed the pry bar from the pack loops. Coru took one end, sighted along the bent frame, and set the point high on the opposite side.
+“Not ours yet,” Olyne answered.
 
-“Bottom is where it's caught,” I said.
+“Blue available,” Anvek said. “Rider, do you consent to continue?”
 
-“Which is why force goes here. Push low and the hinge folds tighter.”
+From below, faint but distinct, the washerwoman called, “Yes. And mind my bag.”
 
-She angled the bar across the gap, using the stone lip as a fulcrum. Geometry and her shoulders shifted the frame a thumb's width.
+They lowered her the rest of the way.
 
-I shoved a flat stone into the gap before it could spring back.
+Seven down. Four on the roof.
 
-“Again,” I said.
+Smoke climbed over the north parapet and erased half the district. Anvek shut one eye against grit, opened it, and did not pretend the view had cleared. “North sector unavailable. I can track an engine there by sound, not its platform or intent. Library remaining: three minutes, fourteen seconds. Torque unused.”
 
-Coru changed the angle by a few degrees. On the second push, rust sheared from the upper bolt. On the third, her left hip made a short cracking sound. The bar slipped. I caught it; Coru caught the grate.
+Gess repeated, “Seven down. Four here.”
 
-A shallow pocket of rain on the stone lip began turning clockwise beside her knee.
+The quiet man from beside the cistern rode eighth. The last resident from the divided flat went ninth after one more separate yes. That left the baker leaning on the brake housing, plus Olyne, Gess, and Anvek.
 
-“Enough,” I said. “I can get through.”
+“You next,” Olyne told Gess.
 
-She held the grate while I crawled into ankle-deep runoff. I braced both feet inside and took its weight. Coru came after me stiff-legged, pulling the bar and orchard sheet through before she eased the grate back against its frame. Brambles covered most of the gap. From the garden it looked bent, not open.
+“Headcount goes with the building.”
 
-Darkness swallowed the scan light. I switched on the small lamp from Coru's repair kit. Its beam caught old stone, roots, and brown water moving over my boots.
+“Your grip doesn’t.”
 
-“Forty-six minutes since the kitchen impact,” Coru said. “We are ahead of the ground sweep.”
+Gess looked at her right hand. “Nine down. Two residents here.” She gave Olyne the keys, climbed into the cradle beside the baker, and frowned when Anvek shook her head.
 
-The culvert divided twenty paces in.
+“One rider. Cable wear has advanced.”
 
-The right branch ran wide and low beneath the road. The left narrowed between older stones and vanished around a sharp bend. Runoff struck both mouths and returned in layered echoes. Each shell above us seemed to arrive first from one passage, then the other. Coru stood at the fork with one palm against the wall, head turning as her open routines tried and failed to separate reflected sound from movement overhead.
+“He needs help at the bottom.”
 
-“Right branch has the greater exit gradient,” she said. “I cannot establish whether the ground noise is beyond it or behind us.”
+“Naro’s crew can receive him. Do you consent to wait for the next descent?”
 
-“Left,” I said.
+Gess swore, climbed out, and held up the amber lamp. The baker lowered himself into the basket with his bad leg straight. Anvek checked his strap without touching the knee.
 
-“The visible grade favors right.”
+The blue lamps came on.
 
-“That branch rises again past the bend. It ends at mesh, and the ditch above it backs up.”
+Above the cradle, one bright strand peeled from the cable.
 
-Coru aimed the lamp down the left branch. “You have used it?”
+Olyne saw it before she understood it: a silver curl lifting in the wind. Then a fragment struck the pulley housing and sheared through half the cable’s strands. The brake lever kicked forward, and the cradle dropped.
 
-“I cleared silt here after the spring flood. Twelve bad paces, then a raised shelf. The third stone rolls if you put weight in the middle.”
+Anvek caught the lever.
 
-She stepped into the left channel and pressed the pry bar against the first submerged stone. Solid. The second held. At the third she tested the center; it tipped under the bar and knocked against the wall.
+Metal rang inside her shoulder. Her boots slid a handspan across the roof before high torque stopped them. The cable screamed over the pulley. Below, the baker cried out once.
 
-“Edge?” she asked.
+“Hold!” Olyne seized Anvek around the waist.
 
-“Near side. There's a root you can brace on.”
+“Don’t pull.” Anvek’s voice had gone slow, each word waiting for the machinery of her mouth. “You change the load.”
 
-Coru found it with her heel. Her damaged hip held. She shifted the lamp toward the fourth stone.
+Olyne let go.
 
-“Solid?” she asked.
+The drone came out of the smoke directly across the roof. Three short flashes struck the cradle’s mesh. Its exposed near rotor tilted as it corrected against the wind.
 
-“Solid.”
+Anvek’s right hand remained locked around the brake. With her left she reached for the maintenance line-driver beside the housing, the tool they used to shoot cable through blocked conduits. Olyne dragged it within reach.
 
-She tested it anyway, then held out her hand. I put my boot where hers had been as another impact rolled through the water behind us.
+“Visible rotor,” Anvek said. “Eleven metres. Olyne, clear the tool.”
+
+Olyne pulled the safety pin and flattened herself against the housing.
+
+The drone began its long flash.
+
+Anvek fired.
+
+The line-driver split its casing with the force of the shot. The steel slug caught the visible rotor root. Blades tore free, flashing once over the parapet, and the drone folded into the empty awning across the gap. The awning collapsed exactly as Olyne had said it would. The long flash went dark.
+
+Anvek’s shoulder made a grinding sound. The brake lever descended another notch.
+
+“Blue,” Naro said through the radio. “Receiving rail clear. I see the cradle. I do not see your brake.”
+
+“Lowering,” Anvek said. “Twenty-two seconds torque used.”
+
+Olyne worked the damaged lever under Anvek’s hand, taking the ordinary weight while Anvek released one finger at a time. Her fine control had gone; two fingers stayed curled after the others opened. Together they paid out the cable. The basket reached the lower terrace, where the baker was lifted free.
+
+“Ten down,” Naro said over the radio.
+
+Gess gripped the amber lamp. “Ten. One resident here.”
+
+The battery-room fire broke through the rooftop vent. Heat rolled across the tar.
+
+Anvek looked at Gess. “You take the service ladder.”
+
+Gess glanced from her unsteady right hand to the ladder well. “Headcount goes with the building.”
+
+“It goes to the shelter,” Olyne said. She fastened the ladder harness around Gess and waited until Gess had tested the clip with her left hand. “Do you agree to the ladder?”
+
+“Yes. Clip it higher.”
+
+Naro climbed to the third landing, no farther than he could see, and called the placement of each foot. Gess descended with the amber lamp tied to her belt. When Naro caught her good wrist, she twisted around to count the people behind him.
+
+“Eleven,” she said through the radio. “I have eleven.”
+
+Olyne turned to Anvek. “Your turn. Take the ladder.”
+
+“No.”
+
+“Your shoulder is damaged.”
+
+“Yes.”
+
+“Then you go. I’ll drop the counterweight.”
+
+Anvek looked at the roof access, the burning vent, the broken line-driver, and Olyne. Even with the delay in her speech, the answer came plain. “I don’t want you choosing the dangerous place for me.”
+
+Olyne nearly said she had earned that choice. Years of housing hearings, repair queues, neighbors taught not to touch Anvek’s access plates, a hundred small acts that felt enormous while she performed them—she nearly piled all of it between them. Then the roof bucked again, and the keys bit into her palm.
+
+“What do you need?”
+
+“Specifics.”
+
+“Service ladder is intact to the lower terrace. Gess can catch you at the third landing if your shoulder slips. I can climb without help. The counterweight can drop across the roof door after we leave.”
+
+Anvek considered it. “You go first. Separately. I’ll use a distress burst beside the empty awning, close the library, drop the weight, then follow.”
+
+“The burst can’t call the shelter.”
+
+“It’s fixed. It may draw a search pass away from the ladder. It may do nothing.”
+
+Olyne put on the ladder harness and clipped to the roof line. “Do it once.”
+
+“That is my plan.”
+
+Anvek touched the access plate. “Library closed.”
+
+Olyne crossed to the service ladder. Below, Gess held the blue lamp in her good hand. Naro stood at the lower rail beside her, looking up only as far as he could actually see.
+
+“Ladder clear from my position,” he called. “I cannot assess the roof anchors.”
+
+“Anchors are holding,” Olyne said. At last, a fact instead of a promise.
+
+She climbed down alone.
+
+From the third landing she saw Anvek move to the edge nearest the fallen awning. A fixed distress sequence pulsed from beneath Anvek’s collarbone: two red, two white, repeated. Somewhere beyond the smoke, an engine changed pitch. Anvek did not claim to know why. She returned to the hoist, kicked the counterweight release, and used eight more seconds of high torque to wrench it sideways.
+
+The weight crashed across the roof door just as it opened under pressure from below. Flame folded around it. Anvek reached the ladder with her damaged arm held close and began her own descent.
+
+By the time she reached Olyne, their kitchen window was burning. The blue-painted rail above it sagged into the room. Olyne watched only until Anvek said, “Keep moving.”
+
+They went down separately, one landing apart, while the home they had kept by appeal, rent, repair, and habit disappeared behind smoke.
+
+In the shelter, Gess counted them before she let anyone sit.
+
+“Eleven from the roof. Olyne. Anvek. Thirteen from the block.”
+
+“And four responders,” Naro said, checking his board.
+
+“I’m counting my building.”
+
+The baker’s knee was swollen but not broken. The washerwoman had cut one palm on the cradle mesh. Two residents coughed hard enough to need oxygen. No one had been struck by the follow-up fire.
+
+Naro knelt beside Anvek but kept his hands back. “I can run coolant over the shoulder housing. I can’t replace that actuator here. I can’t tell whether the scoring is permanent until it’s cold.”
+
+Anvek’s right fingers remained curled against her palm. Heat trembled above the seam of her jacket. “Treat the residents with smoke exposure first.”
+
+“They’re on oxygen.”
+
+“Then coolant. Please.”
+
+Olyne crouched on Anvek’s damaged side. In the kitchen drawer she kept a list of Anvek’s cooling thresholds and another of compatible parts. Neither list told her where to put her hands now.
+
+“May I take off your jacket?” she asked.
+
+“Not yet. Cut the shoulder seam. I like this jacket.”
+
+Olyne found she still had Gess’s master keys clenched in her hand. The little brass radio key had stamped a rectangle into her palm. “We left the kitchen latch in pieces.”
+
+“The screw was stripped.”
+
+“I noticed.”
+
+“You said it would hold another year.”
+
+“I was wrong.”
+
+Anvek looked toward the shelter entrance, where the eleven neighbors sat in blankets and Gess counted them under her breath. Distant fighting pressed a second pulse through the floor. She closed her eyes until it passed.
+
+“Cut only the seam,” she said.
+
+Olyne slid the blunt emergency shears beneath the blue-painted cuff and did exactly that.
