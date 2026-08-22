@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Temba | new | No exact, alias, close-spelling, or confusing semantic reuse found. |
-| Maelka | new | No exact or alias reuse found; the form remains distinguishable from legacy Mae, Malko Durev, and Melek. |
+| Uldek | new | Mine ventwright; no exact or alias reuse. Targeted near forms `Ulan` and `Ulven` remain distinct in spelling, cadence, and role. |
+| Lemra | new | Bridge tender; no exact or alias reuse. Targeted near forms `Letha` and `Levara` remain distinct in spelling and story-facing use. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The story contains no story-facing place proper noun. |
+| None | none | All story locations are unnamed. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The encounter resolves through an earned two-way crossing while preserving the endless fire's mystery. Temba's estimate-first phrasing and Maelka's terse procedural corrections remain distinct through the decisive crown transfer and final calls, and their reports change immediate action rather than explain action already complete. The unnamed mountain, fire, glass bloom, and antler crown remain bounded local features with no asserted link to established places or systems; bridge geometry, timing, equipment failure, and the opposite crossings remain coherent.
+- Notes: The near-root messenger-and-chase repair makes both sling placements local and physically legible; the candle states, uneven shutter, trough-gated uncrowning, closed crossing, and service ascent remain causally coherent. Uldek's numerical ventwright speech and Lemra's clipped, bodily bridge knowledge stay distinct through the decisive work and final practical exchange.
