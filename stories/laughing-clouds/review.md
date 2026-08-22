@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Zelka | new | Serious young engineer and focal character; targeted authority, legacy-name, locked-story, and passing-review searches found no exact, alias, close-spelling, phonetic, or confusing reuse. |
-| Kavi | new | Zelka's rival and testing partner; targeted authority, legacy-name, locked-story, and passing-review searches found no exact, alias, close-spelling, phonetic, or confusing reuse. |
+| Ianthe | new | Young engineer and condenser designer; no exact, alias, close-spelling, or confusing reuse found. |
+| Rasim | new | Ianthe's engineering rival and collaborator; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The city, fair, terraces, repair bay, judging terrace, stalls, and workshop remain unnamed descriptors. |
+| None | none | The city, festival grounds, and repair court remain unnamed. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The one-day workbench comedy fulfills the useful-failures premise through escalating physical tests, preserves Zelka's rigor as valuable, and resolves the rivalry through reciprocal engineering work rather than a prize or institutional coda. Zelka's clipped precision, Kavi's playful but observant pressure, their safety dispute, the judges' necessary questions, and the restrained final test exchange remain distinct and action-bearing.
+- Notes: The nonliving condenser's audio trigger, visible targeting states, finite water and charge, consent boundary, and runoff safeguards remain causal and bounded; Ianthe and Rasim retain distinct reasoning and unequal pressure behavior through the decisive and final exchanges.
