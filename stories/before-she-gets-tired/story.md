@@ -8,264 +8,310 @@ canon: false
 
 # Not Friday
 
-The apartment door had barely latched behind Yasmin when Omar said, “Bro, just trust me. She likes you.”
+Wesley had carried eight folding chairs at once exactly one time. He had the scars on two knuckles and the dent in the arts center's baseboard to prove it. On Wednesday afternoon he carried four, which left Jamar Ellis two free hands for opinions.
 
-Kian kept gathering glasses from the coffee table. If he looked busy enough, perhaps the sentence would have to wait its turn. “You said that about the last four women, and—”
+"Bro, just trust me. She likes you."
 
-“Shut up. I wasn’t wrong about the last four.” Omar caught the stack of coasters before Kian could add those too. “They didn’t leave because you misinterpreted signals. They left because you waited six-plus months to be a man. Now ask her out before she gets tired of you.”
+Jamar walked backward between the chair stacks, steering by confidence. Behind him, forty-eight black seats waited to become eight straight rows in the rehearsal hall. Wesley set down his load before Jamar could hit one.
 
-The remains of game night covered the room: cards in uneven piles, wooden markers beneath the sofa, a bowl holding one broken pretzel. Thursday games had begun when the three of them were twenty-seven. Now all of them were past thirty, Omar had his own apartment and a cupboard full of games nobody else understood, and Kian still knew how to make clearing three glasses look like urgent work.
+"You said that about the last four women, and—"
 
-“That may be the worst definition of being a man I’ve ever heard,” Kian said.
+"Shut up. I wasn't wrong about the last four." Jamar planted both palms on the chair backs as if calling a witness. "They didn't leave because you misread some mysterious signal. They left because you waited six-plus months to find out anything. Now ask Beatriz before she gets tired of waiting for you to ask."
 
-“Fine. Forget being a man. Act like an adult with a functioning mouth.”
+"Or she isn't waiting."
 
-“I am cleaning.”
+"Six-plus months," Jamar repeated, having selected the useful portion of Wesley's sentence. "Each time. Pattern established."
 
-“You are hiding behind drinkware.” Omar took two of the glasses from him and put them back on the table. “She asked you to walk down with her. You chose my sticky bowls.”
+"Not each time."
 
-Yasmin had stood by the door winding a green scarf around her neck. There was a bakery near her stop, she had said, still open for another half hour. Did Kian want to walk with her and split something? He had looked at the crowded table and told her he should help Omar clean. She had nodded once, said good night to both of them, and left.
+"Objection."
 
-At the time, cleaning had seemed like the considerate answer. The evening was over. Omar had hosted. Yasmin needed to catch her bus. Kian could always ask her about the bakery another night, when he had time to choose the wording.
+"Nobody invited you to court."
 
-“She wanted a pastry,” he said.
+"The court convened when you made the same mistake four times."
 
-“With you.”
+They had known each other long enough that Wesley could hear the concern inside the performance. Jamar hated watching him retreat into maybe. He hated it with the personal offense of a friend who had listened to every careful postmortem and believed most postmortems could have been replaced by one timely question.
 
-“Those are two compatible facts. They are not necessarily one fact.”
+That did not make him an authority on Beatriz Soto.
 
-Omar stared at him. “This. This is why your romantic history looks like a train schedule after a cancellation.”
+Wesley took a tape measure from his pocket. "Thirty-two inches between rows."
 
-Kian carried the remaining glass toward the kitchen. Omar followed close enough to make escape impossible.
+"Flight from evidence."
 
-“The last four,” Kian said, rinsing a crescent of foam from the glass. “You cannot keep citing them as proof. One asked me to a wedding because she needed a guest. One wanted help finding an apartment. One shared her popcorn during a film. One asked a hypothetical question.”
+"Fire code."
 
-“One told you there would be one bed at the hotel. One sent you listings in her neighborhood and asked if you wanted to live five minutes away. One held your hand through a comedy. And the hypothetical was, ‘Would you ever date me if I asked?’” Omar planted both hands on the counter. “You waited seven months, six months, eight months, and almost a year. Then every one of them met somebody who answered a question before it fossilized.”
+They pulled the first row into place. The chair feet rasped against the old wood in brief, ugly bursts. Outside the hall, somebody tested the lobby lights, turning the open doorway amber and then white and then amber again.
 
-There were corrections Kian could make. The hotel had contained a foldout chair. The apartment listings had come during a citywide rise in rent. The woman at the film had startled easily, though the film had not given her much reason. The hypothetical had arrived after two drinks and therefore belonged in a separate evidentiary category.
+"All right," Jamar said. "Exhibit one. Ceramics class. She asked if coffee would be a date. You said you needed to check your schedule."
 
-He also remembered the final conversations. None had accused him of cruelty. They had said things like *I assumed you weren’t interested* and *I stopped waiting to find out*. At the time, their calmness had confirmed his belief that he had avoided doing harm. Only later had he wondered whether their calmness meant they had finished the difficult part without him.
+"I did need to check it."
 
-Omar pointed toward the door. “Yasmin is doing the same thing. Six months of coffee, exhibits, errands, those terrible little sandwiches you both pretend are good—”
+"For seven months?"
 
-“Seven months,” Kian said, and regretted it at once.
+Wesley nudged a chair leg onto the tape mark. She had asked clearly. He had liked her, and the clarity had somehow given him more to lose. By the time he returned with an answer, she no longer wanted one.
 
-“Thank you for entering the winning statistic into evidence.”
+Jamar raised a finger. "Exhibit two. You two kept talking about dinner, you kept improving the plan, she moved away."
 
-“You don’t know what she wants.”
+"That was four months. And she moved for a job."
 
-“No, I don’t.” Omar’s answer came so quickly that Kian looked up. “I think I do. I would bet a painful amount of money on it. But I could be wrong about her. That is why you ask her instead of waiting for me to become a certified prophet.”
+"Sustained as to four months."
 
-Kian dried the glass. The towel rasped around and around the same spot.
+The third woman had answered his eventual question with friendship, plainly and without cruelty. They had suffered one awkward volunteer shift and then been fine. This fact ought to have encouraged him. Instead, Wesley's mind had filed the awkward shift under preventable hazards and misplaced the rest.
 
-Yasmin’s bus came every twenty minutes at this hour. She had said she had eleven minutes when she left. He could send a message. A message would let her answer privately and give him time to remove every phrase that might sound presumptuous. It would also let him write something so qualified she could not tell whether he meant a date, which was less a risk than a certainty.
+The fourth had started seeing somebody else while Wesley waited for a level of certainty no other person could possibly supply. Jamar presented that history with two fingers raised, then four, then a broad gesture that nearly took out a chair.
 
-Omar checked the clock above the stove. “Nine minutes.”
+"Those are four different situations," Wesley said.
 
-“Stop counting.”
+"Four situations. One delay."
 
-“Then move.”
+"The move wasn't caused by me. The friendship wasn't a failure. And the fourth met somebody. She didn't do that to make a point at me."
 
-“If she says no, you do not get to tell me you were still right.”
+"Great. Excellent distinctions." Jamar shoved the next chair into line. "Ask on behalf of all your distinctions."
 
-Omar’s mouth tightened. The competitive answer gathered there, then did not come. “If she says no, I was wrong. You come back, we put the pieces away, and I don’t make it about my record.”
+Wesley measured the aisle. He could name what Jamar was getting wrong. Beatriz's habit of saving him a dumpling during late setups did not reserve anything beyond a dumpling. The time she had texted him a picture of a display label with its apostrophe corrected proved she knew what irritated him, not what she wanted from him. She laughed at Jamar, too. She had given both of them rides when the buses stopped running. Friendly was not a coded contract.
 
-That promise, more than the boasts, pushed Kian from the counter. He jammed his feet into his shoes and got the right one only halfway on before standing.
+Still, the four histories had one narrow piece of evidence in common. Waiting protected Wesley from answers while he called the protection consideration.
 
-“Okay,” he said. His pulse seemed to have moved into his throat. “I am going for it.”
+He folded the tape measure closed. "Okay. I'm going for it."
 
-“Coat.”
+Jamar slapped the back of a chair instead of Wesley, which was why they remained friends. "Motion carries."
 
-Kian had already opened the door. “No time.”
+"You are not coming within twenty feet of the conversation."
 
-The lift display showed the car six floors above. Kian took the stairs.
+"Unreasonable restriction."
 
-On the first landing, he tried to build a question that would be unmistakable but not forceful. On the second, he added an assurance that their friendship would be unchanged. By the third, that assurance had acquired three exceptions and an offer never to mention the subject again. Halfway down the fourth flight, he heard himself rehearsing *only if you have independently considered the possibility*, lost his footing, and caught the rail hard enough to sting his palm.
+"Thirty feet."
 
-He stopped. The stairwell smelled of dust and somebody’s fried onions. Through the narrow window in the landing door, the city was a set of lit rectangles and passing headlights. Omar’s confidence had carried him as far as the stairs. It had not supplied a usable sentence.
+"I'll be in another room."
 
-Kian pushed through the lobby and into the cold.
+"Thank you."
 
-The bus shelter stood two blocks away on the far side of the road. Yasmin was already beyond the first intersection, the green scarf visible between parked cars. Kian walked quickly but did not call out. He could not ask her from half a block behind and make her turn in the dark to see who was following. At the next light he crossed, cut along the wider pavement by the closed shops, and reached the shelter while she was reading the route display.
+"With excellent hearing."
 
-She heard his shoes on the concrete and turned. A small bakery bag showed from the top of her tote. Surprise loosened her face before caution returned.
+The side door opened before Wesley could revise the terms. Beatriz came through hip-first, a cardboard file box balanced against one hip and a coil of blue cable hooked over her other arm. Her dark hair was pinned up with a pencil. Three revised run sheets stuck out of the box like surrender flags.
 
-“Did you forget something?” she asked.
+"One of you has hands," she said. "Possibly both."
 
-“My coat, apparently.”
+Wesley took the box. Jamar accepted the cable and made a dignified show of not looking at him.
 
-Her gaze traveled over his shirtsleeves. “That was not what I meant.”
+Beatriz put the run sheets on the front row. "The Friday check-in volunteer canceled. The replacement says maybe, which is no. I moved the student quintet ahead of the auction, the food delivery window is now five-fifteen to five-forty, and the upstairs storage lock is sticking again."
 
-“I know.” Kian stepped beneath the shelter roof but left space between them. The display said six minutes. “I wanted to catch you.”
+"How was the contract orientation?" Wesley asked.
 
-“You did.”
+"Three hours about ladders. My first paid call is Saturday morning, assuming Friday doesn't bury me under a silent auction basket."
 
-Traffic moved through the intersection behind him. A wet black patch beneath the bench reflected the shelter light; the rest of the pavement was dry. Yasmin put her hands in her coat pockets and waited.
+"We can take check-in," Jamar said.
 
-He had prepared for encouragement, teasing, even immediate rejection. He had not prepared for the plain fact that she had given him the next move and would not make it for him.
+"I can," Wesley said at the same time.
 
-“Would you want to do something together sometime?” he asked. “Just us, I mean. Properly.”
+Beatriz looked between them. "Wesley on the desk. He knows the ticket sheet. Jamar, float between lobby and house. No improvising new donation tiers."
 
-Yasmin’s eyebrows drew together. “Different from the bakery I just asked you to walk to?”
+"That happened once."
 
-“Yes. More intentional.”
+"It happened on three signs."
 
-“I intended to go to the bakery.”
+Jamar carried the cable toward the stage, shaking his head at this hostile account of his service. As he passed Wesley, he lifted his eyebrows twice. Wesley concentrated on the file box until the eyebrows had safely left his peripheral vision.
 
-“I mean something that we both knew was—” He felt the sentence dividing into safe branches. “Something with a little more possibility.”
+For the next hour, Beatriz had half a conversation with everyone. She marked chair positions in blue tape, found the missing key in the wrong envelope, took a call from the food vendor, and corrected the same start time on twelve programs. Wesley watched any plan involving a dramatic Friday confession become obviously absurd. Friday belonged to the showcase. It also stood between Beatriz and a new job she had spent months trying to get. Adding his uncertainty to her load would not make the question more romantic.
 
-“Possibility of what?”
+It did leave him Wednesday.
 
-Kian glanced at the display. It still said six minutes, which felt personal.
+At six-twenty, Beatriz checked the bus app and began packing her papers. Wesley had rehearsed seven openings. Two required a transition no real conversation would ever provide. One sounded like a calendar invitation composed during a fire. In another, he explained so carefully that she was free to decline that the invitation almost disappeared.
 
-Yasmin drew one hand from her pocket and adjusted the strap of her bag. “You came down four flights to ask whether I might want to do something like the things we already do.”
+He carried the file box with her through the lobby. The front doors stood open to the mild evening, and buses sighed at the curb beyond the plaza. People crossed between them with grocery bags and backpacks. If Beatriz wanted to leave, leaving was already happening all around her.
 
-“When you put it that way—”
+"I can take that from here," she said, reaching for the box.
 
-“How would you put it?”
+Wesley gave it to her. His best opening vanished. Then the second-best.
 
-The word *date* waited. Kian approached it and turned aside. “I like spending time with you. I was wondering if we should see where that goes.”
+"Could I—" He stopped. The rest of that opening had already become an explanation.
 
-“No.”
+"Would you like to have dinner with me after the showcase on Friday?" he said. "Just the two of us. If you don't, that's okay. I won't make Friday weird."
 
-The answer was quiet. It still seemed to remove the air from the shelter.
+Beatriz settled the box against her hip. For two seconds she looked only tired, and Wesley's mind tried to build exits for both of them.
 
-Kian took one step back before catching himself. “Okay.”
+"I am interested," she said. "But don't backfill every friendly thing I did into a promise. I hadn't made one."
 
-“No to that question,” Yasmin said. “I’m not doing another plan that becomes a date if you enjoy it and becomes nothing if you get nervous.”
+"I know. Or I was trying to know that."
 
-“I wasn’t trying to leave myself an exit.”
+"Those are different."
 
-She said nothing.
+"Yes."
 
-The unfinished defense stood between them. Kian could hear how familiar it was. At the exhibit, when she had produced two tickets, he had asked who else was coming. When she said nobody, he had sent a group message anyway. After coffee that lasted three hours, he had called it a useful break from errands. Each time, he had left himself an exit wide enough for both of them to walk through separately.
+The bus rounded the corner, its route number bright in the dusk. Beatriz shifted the box again.
 
-“I was,” he said. “Trying to leave an exit.”
+"And not Friday," she said. "Friday is the showcase. Saturday is my first contract call, and I will still be thinking in cables until at least Monday. Tuesday at seven. The noodle place beside the library."
 
-Yasmin’s shoulders lowered a fraction, but she did not supply forgiveness.
+The bus hissed to a stop.
 
-Kian rubbed the sore center of his palm. “Omar told me to come after you.”
+"Tuesday works," Wesley said.
 
-“Of course he did.”
+"Good. Send me your order if the food vendor texts you back."
 
-“He said you liked me.”
+She climbed aboard with the file box. Wesley stood on the plaza until he remembered that staying there would not make the answer more answered. Then he went inside and sent her the vendor's revised count.
 
-Her face went still. “Is that why you’re here? Because Omar gave you my answer?”
+* * *
 
-“No. I mean, it got me out the door, but he doesn’t know your answer. He admitted that.”
+Friday began by subtracting people.
 
-“How generous.”
+At four-fifty-two, the replacement check-in volunteer sent a message containing the words *so sorry* and a photograph of a flat tire. At five-ten, the student quintet arrived with five students and one additional cello. At five-twenty, one of the two card readers refused to recognize the building's network.
 
-“He noticed things.” Kian heard himself returning to the safety of collected facts and could not stop before the list began. “The exhibit tickets. The coffee after everyone canceled. Tonight you asked me to walk with you. You keep choosing the seat beside—”
+Wesley sat behind the lobby table with a cash box, a printed guest list, and Jamar leaning over his shoulder.
 
-“Kian.”
+"She assigned you to the money," Jamar said quietly. "Trust. Significant."
 
-He stopped.
+"She assigned me because you invented platinum-level raffle tickets last time."
 
-“I bought two tickets,” she said. “You invited the group. I asked you to coffee after the others canceled. You spent the first twenty minutes telling me they might still come. Tonight I asked you to walk two blocks with me, and you stayed upstairs to wash a clean glass.”
+"Community enthusiasm punished again."
 
-“It had lipstick on it.”
+"Put the programs on the left."
 
-Yasmin looked at him.
+Jamar put the programs on the left. For nearly six minutes, he spoke only about programs.
 
-“That was a stupid correction,” he said.
+By six-thirty the lobby had filled with damp coats and the smell of baked cheese from the warming trays. Beatriz moved through it with a headset over one ear, counting lanyards and answering questions in pieces.
 
-“It was an exact correction. You like exact corrections.” She tucked her hand back into her pocket. “What do those events prove to you?”
+"Two vegetarian trays downstairs," a volunteer told her.
 
-“That you might like me.”
+"Bring one up now. Leave one sealed."
 
-“I do like you.”
+"The quintet wants six chairs."
 
-The words arrived without a smile or a reward. Kian’s relief rose anyway, warm and immediate, and began trying to convert her statement into permission for everything he had not yet asked.
+"Five players, six chairs. Fine. No seventh."
 
-Yasmin saw it happen. “Do not make that the end of the conversation.”
+She reached Wesley's table and set down a roll of drink tickets. "How many checked in?"
 
-He closed his mouth.
+"Eighty-three. Eleven prepaid haven't arrived. The card reader on the right is dead, but the left one is keeping up."
 
-“I like you,” she said. “I have for months. That does not mean Omar gets to send you down here with a guaranteed result. It does not mean every question you ask has the same answer.”
+"Cash?"
 
-“No.”
+"Balanced at two hundred forty."
 
-“And it does not mean I’ll keep arranging things so you can decide later what they were.”
+"Good. East doors open at six-forty-five."
 
-The display changed to four minutes.
+Jamar watched her go. "She said good to you differently."
 
-Kian wanted to explain that he had been careful because he respected her. He had not wanted to turn ordinary kindness into evidence or punish her for being warm. Those things were true. He could also see Yasmin on the other side of every careful choice: buying two tickets, waiting through his group message, opening her book at coffee while he checked for replies, offering him a short walk tonight and leaving alone.
+Wesley handed him half the programs. "East doors."
 
-“I thought not asking was safer for you,” he said.
+The doors opened. The audience moved inside. At six-fifty-eight, two minutes before the welcome, every speaker in the black-box theater made a low electrical thump and fell silent.
 
-Yasmin looked down the road. “Last month I asked if you wanted dinner after the exhibit. You said we should see what everyone was doing. They had already gone home.”
+For a moment the room absorbed the failure without understanding it. A hundred conversations continued under the work lights. Then the sound technician appeared at the lobby door, one hand pressed to his headphones, and beckoned so sharply that Beatriz was already moving before Wesley saw him.
 
-“I remember.”
+She came back thirty seconds later.
 
-“Tonight I asked you to walk with me. You chose three bowls and a glass. I decided on the stairs that I wasn’t asking again.”
+"Main cable failed. Wesley, studio B upstairs. Orange road case. Bring two twenty-five-foot XLRs to the booth, then come back to the east doors. Don't wait backstage. Jamar, keep this aisle clear."
 
-The cold tightened across Kian’s bare forearms. “Again tonight?”
+Wesley's mind supplied questions. Was the road case labeled on two sides or one? If the storage lock stuck, should he find the facilities volunteer or come back? Did two cables mean two loose or a joined pair? The questions queued neatly, each offering a small delay.
 
-“Again at all.” She faced him. “I wasn’t going to leave the group or make Thursdays strange. I was going to stop offering you time alone and then wondering whether you understood me. If you wanted to be friends, I could do that. If you wanted something else, you could say it.”
+"Orange case. Two XLRs. Booth, then east doors," he repeated.
 
-She stopped. No invitation followed. No gentler wording arrived to turn the last sentence into a question on his behalf.
+"Yes. Go."
 
-Kian had imagined Yasmin’s tiredness as the end of her attraction, a small light going out because he had failed to reach it in time. What stood in front of him was less convenient. She still liked him. She had simply finished doing his part.
+He went.
 
-“I’m sorry,” he said.
+The upstairs hall was dark except for the red glow of an exit sign. The storage lock resisted once, then opened when Wesley lifted the door by its handle. The orange case sat behind two rolling costume racks. He moved them, found the cables, and ran them down the back stairs without stopping to imagine what Beatriz might infer from his speed.
 
-Yasmin nodded once. “All right.”
+At the booth she took one cable from him without looking away from the technician. "Other one under the stage lip. Then doors."
 
-The answer did not wipe away the past seven months. It did not close the conversation either.
+Wesley passed it down, returned to the lobby, and stayed there. He explained the delay to late arrivals, found a chair for an older guest, and redirected three people who mistook the silent auction room for the theater. Through the wall came a burst of static, a voice saying *check*, and then applause when the voice came through clean.
 
-A bus appeared at the far end of the road, too distant for its number to show. Yasmin watched it approach the next signal. Kian watched her. He could tell her how long he had liked her, list the questions he had drafted, describe every hour he had spent trying not to presume. All of it would ask her to admire effort she had never been allowed to see.
+The welcome began nineteen minutes late.
 
-He let his arms fall to his sides. His phone stayed in his pocket. Omar stayed two blocks away.
+Jamar drifted back at seven-thirty with empty program boxes nested under his arm. "You notice she called you specifically."
 
-“Will you have dinner with me Friday at seven?” Kian asked. “Just us, as a date.”
+"I notice you have nothing to do."
 
-Yasmin looked back at him. “I can’t Friday.”
+"I have pattern recognition."
 
-His mind reacted before the rest of him. The question was too abrupt. Seven was inconvenient. Dinner sounded formal. He could say he had meant whenever she happened to be free. He could fold the word *date* back into *dinner*, dinner into *hanging out*, and hanging out into nothing worth refusing.
+"Take the empty trays downstairs."
 
-“That’s fine,” he began. “I didn’t—”
+"That's not my assigned—"
 
-Yasmin waited.
+"Please."
 
-The bus reached the signal. Its number was still hidden behind the glow of a passing car.
+Jamar studied him, perhaps hearing the edge that Wesley had not meant to add. Then he took the trays. "All right. Basement kitchen?"
 
-Kian made himself leave the question where he had put it. “Is that no to Friday, or no to going out with me?”
+"Service stairs are faster."
 
-For the first time since he reached the shelter, Yasmin smiled. It was small and tired and entirely her own.
+"See? A useful conversation."
 
-“Friday,” she said. “My cousin’s birthday dinner starts at six, and my family treats an end time as a personal insult.”
+At eight-forty, Beatriz appeared with her headset hanging around her neck. The welcome delay had spread. One performer had used the full original time, the auction had started late, and the closing quintet still needed a twelve-minute changeover. Wesley knew it was Beatriz's favorite act because she had attended two of their rehearsals and once made Jamar stand perfectly still in the lobby to hear the cello through the wall.
 
-“Friday is out.”
+She placed both hands on the check-in table. "Numbers. How many people still here?"
 
-“Sunday isn’t.”
+Wesley checked the clicker and the departure marks. "One hundred twelve inside. Eight have left. Forty-two said they're taking the nine-forty bus, but some came in groups."
 
-The bus turned through the intersection. It was hers.
+"Any bidders in the gallery now?"
 
-“Sunday at seven?” Kian asked.
+He looked through the open doors. "Six. Two are filling out sheets."
 
-“Seven-thirty. I’m working until six.”
+"Facilities confirm ten o'clock hard close?"
 
-“Sunday at seven-thirty. Dinner. A date.”
+"I asked when the sound went down. Alarm arms at ten-ten. They need the room empty at ten."
 
-“Yes.” Yasmin stepped toward the curb, then paused. “Pick a place and send it tomorrow. Not four places with a voting system.”
+Beatriz tapped the table once. The quintet could have its full set or the event could have its promised ending time. Wesley wanted to tell her that cutting her favorite was unfair, that everybody would understand, that he could help somehow. None of those sentences changed the clock.
 
-“One place.”
+"Do you need another count?" he asked.
 
-The bus pulled close enough that wind pushed cold air beneath the shelter roof. Kian’s hands had begun to ache. He became aware of the apartment behind him, of Omar waiting for a report, of the quick bright urge to make the yes larger before Yasmin could leave. He could offer to ride with her and walk from her stop. He could ask what Sunday meant for the week after it.
+"No. Close the gallery at nine-fifteen. Last bids at nine-ten. Tell the quintet eight minutes, no encore. I'll apologize to them."
 
-Instead he asked, “Do you want company home?”
+"Okay."
 
-“No, thanks. I want the bus ride to myself.”
+"And put the bus people on the aisle when they come out of the auction."
 
-“Okay.”
+Wesley wrote the new times on the lobby board. He found the quintet's volunteer liaison and gave her the eight-minute limit. When the silent auction closed, he collected the pencils, directed the bus riders, and did not go backstage to see whether Beatriz was angry or disappointed or impressed. None of it would help her empty the room by ten.
 
-Yasmin studied him for a beat, as if checking whether another question would be hidden inside that answer. Then she moved to the front door as it folded open.
+The quintet played for eight minutes. Their final note was still moving through the room when Beatriz stepped out to thank the donors. The audience reached the lobby at nine-twenty-eight. The bus group left together. At nine-fifty-six, Wesley folded the last chair while Jamar rolled tape into a gray, useless ball.
 
-“Tomorrow,” she said.
+Beatriz crossed the empty hall carrying a crate of bidder sheets.
 
-“Tomorrow.”
+"Table goes in the office," she told Wesley. "Chairs in stacks of six, not eight."
 
-She tapped her fare and took a seat halfway down the bus. Kian remained behind the curb while the doors closed. Through the glass, Yasmin unwound the green scarf from her neck, set her bag on her lap, and looked out at the road ahead.
+"A lesson I remember."
 
-His phone began vibrating before the bus cleared the intersection. Kian left it in his pocket and started back toward the apartment, shirt snapping lightly against his cold arms.
+"Good. Tuesday, seven."
+
+"Tuesday, seven."
+
+She kept walking toward the office. Jamar opened his mouth.
+
+Wesley pointed at the gray ball in his hand. "Trash."
+
+Jamar considered an appeal, then dropped it into the bin.
+
+* * *
+
+On Tuesday evening, Wesley reached the noodle place at six-fifty-two without sending anyone a screenshot of the menu. He had looked at it twice, which was restraint by his standards.
+
+Beatriz was already at a small table near the window. The pencil was gone from her hair. A strip of black stage tape clung to the cuff of her jacket, and there were shadows under her eyes that the restaurant's yellow lights did nothing to hide.
+
+"You look tired," Wesley said, then wished he had chosen one of the other six openings available to him.
+
+"I am tired. First contract weekend." She peeled the tape from her cuff and wound it around one finger. "I carried a fake brick wall up two flights because someone measured the freight elevator emotionally."
+
+Wesley sat across from her. "Did the wall fit on the stairs?"
+
+"After we removed a door. The door was real and heavier than the wall."
+
+A server set down two menus and asked whether they wanted tea.
+
+"Hot," Beatriz said. "Big pot."
+
+Wesley nodded. "Please."
+
+When the server left, Beatriz opened the menu and looked at him over its top edge. "Do you share appetizers, or do you become territorial?"
+
+"Depends on the appetizer."
+
+"Cucumber salad."
+
+"Shareable."
+
+"Scallion pancake?"
+
+He pretended to require calculation. "Border dispute likely."
+
+"We'll get two."
+
+She marked the paper order slip. Wesley watched her choose the noodle thickness without consulting him, then slide the pencil across the table so he could choose his own. Outside, a bus pulled away from the curb. Beatriz asked what he did when the arts center did not need its chairs counted, and waited through his first, overly detailed answer until he found the part she had actually asked about.
+
+The tea arrived. Then the cucumber salad, cold and sharp with vinegar, and two separate plates of scallion pancake.
