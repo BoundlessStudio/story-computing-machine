@@ -6,14 +6,17 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Aumelor | new | Constructed insectile focal person; no exact, alias, close-spelling, phonetic, or confusing reuse was found in authority, the frozen baseline, locked legacy prose, or passing current inventories. |
-| Ione Sivet | new | Nonmagical human fabricator; no exact or alias reuse was found. The full name remains readily distinct from legacy `Inez Arco`, baseline `Siva`, and passing-current `Sivren`, `Sivelle Vordain`, and `Sivareth`. |
+| Zorevi Nask | new | Junior source assessor; no exact, alias, close-spelling, or confusing reuse found. |
+| Pelmara Jossan | new | Pipe-mender whose new faculty is certified; no exact or confusing reuse found, and the distinct full name and use of Pelmara prevent confusion with Jassik. |
+| Ishket | new | Studied examiner; no exact, alias, close-spelling, or confusing reuse found. |
+| Uvena | new | Inherited examiner; no exact, alias, close-spelling, or confusing reuse found. |
+| Beral Quor | new | Living giver who fully withdraws his clay-softening faculty; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The fabrication lab and dense future city are unnamed; the Houses are provenance categories, not places. |
+| None | none | No story-facing named place appears. |
 
 ## Continuity
 
@@ -28,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The story resolves the promised fourth House within one private night: Aumelor's chosen movement establishes living agency before magic, the dead drone becomes wholly inert without Aumelor, and the ordinary moth body loses its task, return, and homing compulsions before sustaining independent action and only then originating a distinct light faculty. Aumelor's six-legged, separately tool-clawed sensorium remains coherent, while their literal questions and Ione's practical, financially pressured refusals keep the decisive test, task-wafer dispute, waiting boundary, and final naming exchange distinct and earned.
+- Notes: Complete withdrawal, failed instruction, absent developmental or family evidence, and the costly controlled fracture shift establish Cultivated as a genuinely distinct local fourth house rather than a retained gift, hybrid, or power tier. The permit and Pelmara's refusal resolve the immediate promise without universalizing the taxonomy. Dialogue stays object-bound and speaker-specific: Zorevi narrows definitions, Pelmara issues tactile work commands and loses fluency under pain, Ishket presses reproducibility, Uvena confines lineage claims, and Beral distinguishes what he supplied. Their disagreements change the test and license; the final route-and-crate exchange returns to ordinary work instead of restating the conclusion.
