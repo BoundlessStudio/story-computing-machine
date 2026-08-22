@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Clemency Pruett | new | Thirty-five-year-old orbital-guidance engineer, hostess, and hostage-taker; story-facing forms are `Clemency Pruett`, `Clemency`, and `Ms. Pruett`. No external exact, alias, close-spelling, phonetic, or confusing reuse found in universe authority, `stories/NAMES.md`, locked legacy stories, or passing current reviews. |
+| None | none | No named person appears in the story. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun; the hill house, service wing, capital, and fuel depot remain unnamed. |
+| None | none | No named place appears in the story. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The 3:46–4:27 sequence causally joins the required tea, cake, cookies, and pie; six adults leaving through six cleared doors; independently verified mirror feathering; every promised concession; and the narrator's voluntary threshold stay. The red telephone is a story-local prop, while the final refusal and chair request end in action rather than explanation.
+- Notes: The adult hostess, full tea spread, government bargain, irreversible satellite disarmament, release of all six hostages, and immediate legal consequence are resolved on page; the dialogue keeps the guest, hostess, Prime Minister, and captives distinct under pressure.
