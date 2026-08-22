@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Ressa | new | Expert valley gatherer; no exact or alias reuse found. Targeted close forms Dessa, Kessa Morren, Nessa Vale, and Tressa Vahl remain distinguishable by opening sound and story context. |
+| Safra | new | Village gatherer; no exact, alias, close-spelling, or confusing reuse found in targeted authority and production-memory searches. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The valley and village are unnamed. |
+| None | none | The village, valley, flower beds, shelves, ford, ridge, and herb room are unnamed and story-local; lowercase flower labels are common species terms. |
 
 ## Continuity
 
@@ -27,3 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
+- Notes: Safra's solo route, weather-forced ridge return, clean separation, exact harvest and allocation, and four bounded village outcomes remain chronological and causal; the practical exchanges preserve distinct expertise and pressure without becoming a lecture or explanatory coda.
