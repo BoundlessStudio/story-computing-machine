@@ -8,256 +8,318 @@ canon: false
 
 # All the Ways They Knew Her
 
-At the northern barricade, Maris Calder lowered both skates together and felt all eight wheels take the old park road.
+The west gate was already narrowing when she rolled through it.
 
-No foot on pavement before the southern gate. That was the rule.
+One volunteer had a hand on a waist-high barrier and the other cupped over an earpiece. Beyond him, the old park road dropped in a long mild slope under strings of paper pennants. Food smoke blurred the first block. Tables pressed in from both curbs, and the crowd moved in all its usual directions at once: toward samples, away from strollers, sideways after children. The strip of pavement down the middle looked barely wide enough for a bicycle, which meant it was wide enough for her.
 
-She checked the buckle at each ankle, slapped both knee pads, and pushed into her fourteenth summer crossing.
+“Wheels coming in,” the volunteer said, not quite to her.
 
-The road gave back speed as if it had been saving it for her. Sun flashed on trolley rails buried in the asphalt. A trumpet band struck up somewhere beyond the first row of stalls, and the beat arrived through the soles of her skates before the tune found her ears. Frying onions, hot sugar, charcoal smoke: each smell occupied its own warm layer of air. Maris bent low through all of it.
+She lifted two fingers without slowing. “Last one.”
 
-The crowd did not have to be sparse. Sparse was boring. What mattered was that bodies announced their intentions. A shoulder turned before a person crossed. A raised paper tray meant the bearer would sacrifice an elbow, a friend, possibly a child, but never the food. Two adults holding hands formed one wide animal with four unreliable knees. Dogs looked where they meant to go. Children looked everywhere else.
+“Yes. Exactly.” He turned his shoulder to the barrier. Into his radio he said, “One still inside, heading east. Blue jacket, black shorts, red bag. Adult on skates.”
 
-A boy backed into her path while fighting a paper dragon. Maris counted the tug on its string, slid behind him, and passed beneath the tail as it snapped upward. The boy's mother gasped. Maris was already around a stroller, one skate forward, one sideways, her hips turning through a space no wider than a cupboard door.
+The description followed her down the hill, flattened by static.
 
-“There she is!” called someone at a drink stall.
+She was late. Not disastrously late yet, but late enough that the repaired clasp in the zipped pocket of her bag had begun to feel heavier than a piece of metal that fit under two fingers. Her niece needed it at the children’s drum lineup at the east end. After that, she had promised to relieve her sibling at the family stall. She had twenty minutes if the road behaved as it had every summer since she had been old enough to decide that the closed avenue was an invitation.
 
-Maris raised a hand without spending a glance. “Only briefly.”
+It never quite behaved. That was the pleasure of it.
 
-The answer pleased whoever had called. Laughter followed her between striped umbrellas.
+The old road had been patched in strips. Her left skate hummed over smooth tar while the right ticked across a comb of cracks. She let her knees take the difference. A man backed away from a spice table without looking; she changed edges and passed behind him. A child dropped a paper fan; she stepped over it without breaking stride. Two women stopped shoulder to shoulder, leaving a dark seam between their elbows and a planter. She aimed for the seam, watched one elbow lift, and slipped through as the gap widened around her.
 
-This was why she came every year. The city closed the road; everybody filled it; Maris became a line passing through the middle. Each solved gap rewarded her immediately: wind at her ears, road under wheels, the next puzzle already arriving.
+Every summer, once the city closed the old road to cars and filled it with the festival, she crossed the whole length this way. On foot, the road was a chain of interruptions. On skates, it became a question that kept answering itself one opening at a time.
 
-Near the first music platform, two teenagers spotted her at once. One smacked the other's arm. Both waved.
+Ahead, a worker started to pull a loaded handcart across the center lane. Glass bottles trembled in its stacked trays.
 
-Maris checked over her shoulder. A dancer on stilts swayed above the crowd in a coat of silver streamers. Reasonable object of attention.
+Another worker called, “Hold that. Blue jacket.”
 
-She pointed back at the dancer.
+The first man stopped with the cart angled over half the pavement. His head came up. He looked directly at her, then hauled the handle backward.
 
-“No, you!” one teenager shouted.
+“Through on your left,” he said.
 
-The other held up something blue, but a rack of wind chimes swung between them and Maris. She ducked the lowest chime, coasted under its hollow notes, and let the teenagers vanish into the next burst of brass.
+“Thanks.” She took the outside of the cart, close enough to smell citrus syrup and the hot rubber of its wheels.
 
-Perhaps they had seen her skate here before. Fourteen festivals gave coincidence plenty of time. She wore the same black wrist guards each year, repaired with gray thread, and her skates were old enough to have recognizable scars. A person could remember wheels without remembering a face.
+“Clear,” someone said behind her.
 
-The second block smelled of pepper and peaches. Maris threaded a family walking six abreast, tapped her brakes around a dropped hat, and came upon an opening that appeared before she asked for it. A man with a bowl tucked in his elbows. A woman carrying three painted sticks. Two children with their arms inside one enormous shirt. They all compressed toward the curb, watching her approach.
+She heard the cart clatter across the road as soon as she passed.
 
-Maris gave the small downward sweep that meant hold your line.
+The lane opened more generously after that. A vendor drew a display of painted jars away from a table edge before she reached it. A parent gathered two children by their shoulders. A woman carrying a tray waited in a doorway between stalls, although she could have crossed well ahead of her. Each movement made sense by itself. Skates asked strangers to calculate speed, and strangers usually calculated it badly. Perhaps the volunteer’s radio call had made them unusually careful.
 
-They had already held it.
+Then the jar vendor leaned over the table and said, “I thought that was you.”
 
-“Thank you,” she called.
+She coasted past on a shallow curve. “Me?”
 
-“Go on, go on,” said the man with the bowl, smiling as if he had made room for a parade float.
+But the vendor was already gripping the loose corner of a tablecloth. A gust from her passage lifted it. “Knew I should weight this side.”
 
-At the next stall, three people moved before her hand rose. Then five. A clear seam opened through the slow center of the road, not straight enough to be planned but too early to be her work. Faces turned along it. Someone clapped once, mistimed the second clap, and pretended to be swatting an insect.
+The answer, if it was one, vanished beneath a burst of drums from farther east.
 
-Maris laughed despite herself and increased her stride. Her right wheels whispered; her left wheels made the faint dry chatter that meant they would need rotating soon. The crowd's sound broke around her: fiddle, frying oil, a baby furious at a hat, and scraps of words that might have belonged to anyone.
+At the next crossing, a steward in a bright vest held back a family. The youngest child bounced on both feet, trying to see around an adult’s hip.
 
-“The skater from the program.”
+“There she is,” the child said.
 
-That belonged to her.
+“Stay in,” the steward said.
 
-Maris looked toward the voice and nearly met a cardboard boat carried crosswise by two adults. She folded at the waist, slipped beneath its painted bow, and came upright beside a woman fanning herself with a blue booklet.
+The adult caught the child’s wrist. “Let the skater go by.”
 
-“Which program?” Maris asked.
+She knew none of them. She was certain of that while they were ahead of her. After she passed, certainty loosened. The child might have been at the festival last summer, or the summer before. Children remembered recurring things adults discarded: the puppet with the missing eye, which stall gave double napkins, the woman who rolled down the road once a year.
 
-The woman's eyes widened. “The blue—”
+At the edge of her sight, the bright-vested steward pivoted a route post across the gap she had used. The family flowed into the space behind it.
 
-A cymbal crashed. Maris coasted backward for two beats, waiting for the rest, but a child towing a wooden duck rolled between them. Her backward line was closing. She turned and took the only safe gap.
+Her phone vibrated against her back. She could not reach it without taking the bag off, and there was nowhere to stop without becoming an obstacle. She bent lower and let the slope return a little of the time she had spent late.
 
-Blue appeared everywhere once she knew to count it. Folded into shirt pockets. Wrapped around a cup. Held flat over a sleeping baby's face. Used as a scoop for spilled popcorn. She had passed volunteers handing out the booklets near the barricade and ignored them because reading while skating was an excellent way to meet the road with one's teeth.
+“Blue jacket coming,” a radio voice crackled from somewhere inside a fabric stall.
 
-Ordinary explanations crowded in. The program might list a skating demonstration she had accidentally joined. Someone might have photographed her dodging the dragon. The teenagers might be enjoying a private joke that had spread one block ahead. None explained why a grandmother on a folding stool gave Maris a solemn thumbs-up before she arrived.
+“Seen,” another voice answered.
 
-At the third crossing, a little girl stepped from the curb with a blue program open in both hands.
+A volunteer pushed an empty rack flush to the curb. The vendor beside him did not look up until he did, then followed his gaze and pulled a box of ceramic cups under the table.
 
-Maris saw the girl's intent and the loose lace on her shoe. She widened her turn. An adult hooked two fingers through the girl's collar and drew her back, leaving Maris room to circle them without stopping.
+“Not those,” the volunteer said. “Just keep the crossing open.”
 
-“You can't walk into the road,” the adult said.
+“You want a wheel through here, I want the cups under.” The vendor shoved the box in with a foot. “Last year I lost six.”
 
-“I was checking.” The girl held the program beside Maris's face as Maris rolled past at the pace of a shopping cart. “The eyes are the same.”
+“Wasn’t her.”
 
-Maris looked.
+“Was still six.”
 
-The cover showed a woman's face turned into the sun, dark curls stuck to one temple, mouth open on a breath. Beneath the face, smaller figures leaned and glided across a blue field. Black wheels made a diagonal near the bottom.
+She passed between the rack and the stall. The vendor watched her bag miss the cups by more than a meter and gave a satisfied nod that could have been meant for his own precautions.
 
-Her face. Her wheels.
+The looks had become impossible not to count. A worker on a ladder paused with a pennant string in both hands. A teenager at a drink tub pointed before remembering to lower the pointing hand. Two older vendors turned together, one because the other did. A parent said, “Back a bit,” and three children shuffled backward while staring at her skates.
 
-The girl's hands tipped the program out of view.
+None of the faces held the uncertain inspection of someone noticing a stranger at speed. They brightened, tightened, or simply arranged themselves for her arrival. People she had never met behaved as if she occupied a known place in the next few seconds of their day.
 
-“Wait,” Maris said.
+She checked what they could see. Blue jacket despite the heat, because its inner pocket zipped. Black shorts. Red canvas bag. Hair tied up badly. A smear of pale grease might still mark one thumb from the clasp repair. Nothing remarkable. Nothing that explained the boy beside a stack of folded chairs calling, “She’s nearly here,” to someone she could not see.
 
-“She does stop,” the girl announced.
+Nearly where?
 
-“Not with a foot down.” Maris heard herself defending the rule to a stranger barely tall enough to reach her elbow. “Where did you get that?”
+The road flattened before the halfway crossing. Her wheels lost their borrowed speed, and she worked for it with two hard strokes. A cluster of performers waited behind the north barrier, their costumes wrapped in clear rain covers against cooking smoke and spilled drinks. They should not have been this far into position yet. One carried a tall fabric standard tilted above the crowd. Another rested both hands on the shoulders of a child in a painted cardboard helmet.
 
-The adult pointed south with a paper cup. “Photo display, by the halfway island. They have a wall of you.”
+The child saw her and tried to roll one sneaker along the pavement as though it had a wheel.
 
-The girl studied cover and face once more. “Your hair was flatter in this.”
+“Not now,” the performer said, drawing the child back.
 
-“Helmet,” Maris said automatically, and rolled away because three people were piling up behind her.
+Across the road, someone called, “That’s the last—”
 
-The next fifty yards were the worst she had skated all afternoon. The road still spoke through her wheels, but she kept trying to read the programs in people's hands. A dark wheel became a letter; a letter became a shoulder; the shoulder moved, and Maris had to snap her attention back to bodies. Twice she signaled right and found a path already offered. A vendor leaned over a counter and said, “That's really her.”
+A whistle cut the sentence in half.
 
-Someone passing in the other direction called, “How many years have you done it?”
+The steward at the route post held one palm toward her and pointed down with the other: slow, then stop. Behind him, a family had begun to cross on a signal meant for them. One adult saw her, jerked the smallest child backward, and set off a chain of shoulders bumping shoulders.
 
-Maris turned her head. “Done what?”
+She turned both toes inward. The brake blocks caught. Heat dragged through her ankles, and her wheels shivered over a patched seam before she stopped with one hand around the route post.
 
-“The whole road. Fourteen?”
+The family hurried through. The last adult looked at her face as if confirming something, then looked away.
 
-The stranger walked on, blue program tucked beneath one arm.
+Halfway down the avenue, stopped for the first time, she saw what motion had hidden.
 
-Maris overshot by twenty yards before the useful part of the question caught up.
+Behind her, the center lane no longer existed. The bright-vested workers had swung barriers across it in staggered sections. Carts stood crosswise where she had rolled. Families filled the open pavement between stalls. Farther uphill, she could just see the top of a rack being wheeled from one curb to the other. The road was closing in her wake, section by section, each closure following at roughly the pace she had set.
 
-She did not put a foot down. She carved left around a planter, crossed behind a row of benches, and completed a hard, deliberate circle against the flow. People exclaimed and shifted. Her wheels knocked once over a seam, then steadied.
+Ahead, the performers were entering. The fabric standard dipped through a gap. A line of children pressed toward the curb to watch it pass. Her next opening was narrower than the last, and beyond it the road bent out of sight.
 
-The old traffic island divided the road exactly halfway between the barricades. Maris knew the distance in her legs: the first loosening at her lower back, the first sweat reaching the band of her wrist guards. Blue arrows tied to the railings pointed toward a canvas awning at the island's south end. Beneath it, upright panels made a narrow room out of shade.
+The steward’s radio said, “Confirm adult skater at half. Blue jacket, red shoulder bag.”
 
-She approached the entrance sideways. One heel brake kissed the asphalt. Both skates remained under her as she shed speed, crossed from road to a strip of rubber matting, and caught the awning pole.
+She looked from the radio to him. “Why are they describing me?”
 
-The floor beneath the canvas was a patchwork of dark mats laid over sun-buckled boards. Heat pushed through her wheels. She held still anyway.
+He kept his palm raised toward the crossing while two more people hustled through. “Give me a second.”
 
-Her face occupied the central panel from collarbone to hairline.
+“They’ve had several sections.”
 
-It was last summer's face, sharp enough that Maris recognized the chipped green bead on one earring. The photographer had caught her turning toward something beyond the frame, amused and unsuspecting. Around it ran a spray of older, smaller photographs: Maris in a red helmet; Maris with a braid halfway down her back; Maris on gray skates with orange laces; Maris reduced to one bent elbow at the edge of a picnic.
+“And I’ve got this one.” He dropped his hand when the gap cleared, turned the route post across it, and spoke into the radio. “Held at half. Don’t release the next foot group.”
 
-Across the bottom of the enlargement, a caption described the rider who “never stops.”
+The answer broke under drums and static. He leaned closer to hear.
 
-Stacks of the blue program sat on a table beside it.
+She said, “I need the east lineup.”
 
-An archive volunteer was trimming caption cards with a metal ruler. The blade stopped against the ruler when Maris entered.
+“Then you entered at the worst possible minute.”
 
-“That picture,” Maris said. “Who gave it to you?”
+“The gate was open.”
 
-The volunteer stood. “The large photograph came in from last summer. The photographer was taking pictures of the dance stage. You crossed behind the audience.”
+“It was closing. The noon reset went early.” He pointed uphill with two fingers, not taking his eyes off the performers gathering ahead. “West saw you inside after the call. You’re the last wheels. Each section holds until you clear, then they turn the road over behind you.”
 
-“And the other thirteen?”
+Last wheels. Not a name. A dependency.
 
-“Different submissions.” The volunteer looked from Maris to the panel, then moved the trimming blade out of reach and capped it.
+Her phone vibrated again. “So everyone was told to look for me.”
 
-“How many of those went out?” she asked.
+“The crews were told blue jacket, black shorts, red bag, eastbound. Vendors hear the radios. Other people see us make room.” A woman with a folded stroller approached the post; he moved her back with his forearm. “Please wait there.”
 
-“Just over six thousand were printed. We had fewer than one thousand left at noon.”
+The woman retreated, tugging the stroller sideways. Her companion asked, “Is that her?”
 
-Outside, a couple walked past, slowed, and compared her with the program one carried. The explanation arrived with ugly efficiency.
+“Must be,” she said.
 
-“Start at the beginning,” Maris said. “Not the nice version.”
+The steward touched his radio. “That part.”
 
-The volunteer pulled a gray box from under the table. “We asked residents for festival photographs from any year. Family pictures, food, performances, whatever they had. While we indexed them, one volunteer noticed the same skater in several backgrounds. Then we searched the rest and found you in every year of the collection.”
+Downhill, a child called, “It’s the summer skater!”
 
-“One volunteer had fourteen pictures of me.”
+Another child asked, “Who?”
 
-“No. No one had more than two.” The volunteer opened the box but kept both hands on its sides. “There were thirty-one contributors. We made contact sheets to check the pattern.”
+The first pointed. “Her.”
 
-“Then you made me the pattern.”
+The steward glanced toward them. “Some remember you.”
 
-The volunteer's fingers pressed into the cardboard. “Yes.”
+The road offered no single way of knowing. The jar vendor had recognized her passage from other summers, perhaps only by the draft under the tablecloth. The worker with the cart had matched four plain details to a radio call. The adult beside the stroller had read the workers. The children had read one another. By the time she reached a section, their different guesses produced the same result: heads turned, hands came out, a line appeared.
 
-“Did anyone try asking?”
+She tightened her grip on the route post. The metal inside the red bag pressed against her ribs.
 
-“We posted the sharp photograph on the festival page. We left copies at two skate shops and asked people who organize group rides. No one identified you. We printed *unidentified skater* and went ahead. I approved the order.”
+“How do I get through?” she asked.
 
-Maris pointed at the box. “Show me.”
+“I can escort you on the road.” The steward looked east. “Slow pace behind the standard until the children’s units peel off. No passing, and you stop when I stop.”
 
-The first contact sheet held six images and six contributor codes. A family crowded around a tray of roasted corn in one; Maris was a black knee pad entering the left edge. In another, three elderly friends lifted paper cups while her red helmet floated above a shoulder in the distance. A little boy displayed a painted mask to the camera. Behind him, younger Maris leaned into a turn, blurry enough to be anybody until the orange laces fixed the year.
+“How long?”
 
-The next sheet showed a dance performance, a cake cut on a picnic table, twins asleep in a wagon, a reunion with folding chairs dragged into a horseshoe. Maris recurred in crumbs: a wrist guard, a profile, two wheels below the hem of somebody's coat. No camera followed her. Each photograph cared about someone else.
+He listened to his radio. “Depends whether the next section has moved its equipment cart.”
 
-“These people sent their family pictures,” Maris said.
+“I need a number.”
 
-“Yes.”
+“I don’t have one.” His attention shifted past her. “Hold that barrier. Not yet.”
 
-“And you cropped their families out.”
+She turned. A worker uphill had begun to swing a panel shut behind her. At the steward’s signal, he froze with it diagonal across the pavement. People crowded toward the unclosed half.
 
-The volunteer set the exhibit caption beside its source image. “For the feature, we cropped toward you.”
+Her fastest route had always been forward. The east end lay beyond the bend, down a road that still showed strips of open asphalt between bodies. With an escort and a few firm strokes she could take back the minutes. She knew how to move without touching anyone. She knew exactly how little room wheels needed.
 
-The answer was factual, almost dry. Maris preferred it to another apology.
+The children at the curb did not.
 
-She turned a page. There she was sitting on the curb with a paper tray balanced on one knee. She remembered the burst of pepper that had made her eyes water, but not the meal. A typed note beneath the exhibit crop read: *She flies past the food stalls without breaking stride.*
+One mimed her stance, knees bent and arms loose. The child in the cardboard helmet copied him. A third put both feet on a wheeled board that an adult was trying to drag out of the road.
 
-“That tray was mine,” Maris said.
+“Off it,” the adult said. “They said no wheels.”
 
-The volunteer read the note. “We'll remove that caption.”
+“She has wheels.”
 
-“You removed the curb.”
+“She’s with staff.”
 
-“The crop did.” The volunteer picked up a pencil, wrote *full frame contradicts caption* in the margin, and did not ask Maris to soften it.
+The explanation made the child lean farther into the lane to see.
 
-The next photograph caught Maris crouched over an upturned skate, hex key between her fingers. She remembered the gritty complaint of that wheel and the six minutes it had taken to persuade the axle free. The exhibit crop contained only her head and shoulders angled forward. Its caption called the posture determined.
+Ahead, the standard bearer started through the bend. The escort would not hide her. It would put a bright vest beside her and clear a path through children already prepared to believe that where she went, wheels could go. Every section would have to hold not just for her but for the possibility of a smaller body following the gap she made. The clasp in her bag was urgent to her family. It did not grant the road a different sequence.
 
-On the same sheet, she sat on a traffic barrier with her helmet in her lap, staring at a performance delayed by a broken speaker. She remembered counting the bolts in the barrier to keep from checking the time again. Cropped to her face, the exhibit had described her as watching the road ahead.
+“No escort,” she said.
 
-Another sheet showed a child on hands and knees in the road. Maris stood several feet away, arms spread to steer oncoming walkers around him. She remembered waiting for the child to decide whether pain or outrage had won. She did not remember the family whose picnic filled the foreground.
+The steward had one finger against his earpiece. “What?”
 
-“You said I never stopped.”
+“I’m getting off the road.” She pointed to the barrier beside the performers’ waiting area. Beyond it, a rough service verge ran behind the stalls. “Can you open a side gap?”
 
-“The small crops made it seem—” The volunteer broke off, found the curb picture and the wheel picture, and placed them side by side. “We chose the close crops. We never set these beside the caption.”
+“If you’re carrying the skates.”
 
-Maris took the next sheet before it was offered. It showed her on a bench, one bare sock dark with sweat, laughing toward a hand that held her detached front wheel. She remembered neither the person nor the joke. For several seconds the rest of the awning went thin around that unknown hand.
+“That’s what getting off means.”
 
-“Who submitted this one?”
+“I need you stopped until you’re through it.” He spoke into the radio. “Half exiting on foot. Keep uphill panel open.” Then to a worker beyond the barrier: “Side only. Watch the stand legs.”
 
-The volunteer checked the code. “The family in the foreground. Their daughter was performing. The contact card says they're willing to hear from anyone pictured, but the photograph still includes their children.”
+No one applauded the decision. The vendor nearest the gap objected at once.
 
-“I want the full image.”
+“Not through my stock.” She braced both hands on a tower of shallow produce crates. “There’s no clearance behind the scale.”
 
-“I can give you their contact and ask them. I can't hand over their file.”
+The worker lifted the end of the barrier. “In front of your counter, then behind the drink drums.”
 
-Maris disliked the refusal. It was also the first sentence the volunteer had spoken that protected someone absent from the awning rather than the exhibit.
+“Her bag will catch the awning line.”
 
-At the table's far end, a second blue stack had arrived while they talked. A festival worker set it down and reached for the top bundle.
+“I’ll carry it,” she said.
 
-“No,” Maris said.
+“Carry it low,” the vendor said. “And don’t lean on those crates.”
 
-The worker froze.
+That route was a human-width kink between the barrier foot, the counter corner, and two plastic drums sweating meltwater. It was not skateable. She sat on the broad base of the route post and worked at her buckles.
 
-Maris looked at the volunteer. Her own breath was too fast for standing still. “First: stop handing those out. All of them. If people need times and maps, give them something without my face.”
+The first boot released easily. The second strap had taken grit and would not lift. Around her, the held section strained against the delay: radios ticking, the standard moving away, a stroller wheel knocking the barrier twice. Her phone vibrated for the third time.
 
-The volunteer took a radio from a shelf beneath the table. “All gates and information tables, stop distributing the blue program now. Use the loose schedule sheets. Hold remaining bundles for collection.” A voice crackled back with a question. “Yes, now. This edition.”
+“Lift from the inside,” the steward said.
 
-The worker pushed the fresh stack into the gray box and closed the lid.
+“I know my buckle.”
 
-Maris pointed to the enlarged face and the ring of cropped bodies. “Second: cover the central panels. The family photographs can stay if they're about the families. Nothing that turns me into the exhibit.”
+She lifted from the inside. It came free.
 
-The volunteer crossed to the rear of the awning and unlatched two narrow display wings. “These shutters close over the enlargement. For the side crops, we have packing paper and cloth.”
+“Good,” he said, already looking elsewhere.
 
-Metal hinges complained as the wings came inward. Maris caught one edge before it struck the panel frame. The volunteer held the other, and together they closed last summer's face into darkness. A strip of blue remained at the bottom. The volunteer knelt with brown paper, scissors, and tape.
+Her thin shoes were lashed beneath the red bag, carried for the stall shift. She pulled them on without socks, tied them once, and hooked two fingers through the frames of both skates. The sudden height loss made the crowd look different. Openings that had been lines became patches of ground occupied by ankles, dropped wrappers, cable covers, and the wide splayed feet of tables.
 
-“Third,” Maris said. “I get copies of these contact sheets, the captions, and every contributor contact you're allowed to share. No permission form attached to receiving them.”
+The worker raised the barrier just enough. She ducked under, held the bag below the awning cord, turned sideways past the vendor’s crates, and stepped onto gravel.
 
-The volunteer tore tape with her teeth, pressed paper over the blue strip, then answered. “I can separate the source packet now. Contact details only where contributors agreed. The request form for the others asks for a copy; it doesn't authorize display. I'll mark that before you take it.”
+“Clear of the road?” the steward called.
 
-“Good.”
+She moved both skates behind the barrier. “Clear.”
 
-They worked outward from the shuttered center. The volunteer covered the enlarged crops with brown paper and fastened a gray cloth over the program display. Maris braced the panel while tape was pulled taut. A corner lifted in the heat; she flattened it with the heel of one wrist guard until the volunteer replaced tape with two steel clips.
+He did not answer her. Into the radio he said, “Final wheeled traveler is off route at half. Close uphill through half. Foot units can release in sequence.”
 
-Visitors kept entering. The volunteer told each one, “The recurring-skater feature is closed. The family collection is open on the other side.” She did not offer Maris as the reason. She moved one reunion photograph back to its uncropped position, restored the row of folding chairs, and set it among the contributors' displays. On another panel she uncovered the cake, leaving the sliver that contained Maris inside the folded paper mask.
+The panel behind her completed its swing. The stroller crossed. The family waiting near the post never looked her way; they were watching the first costumed performers arrive.
 
-One visitor peered around the shutter and recognized her anyway. “You're the cover.”
+She started east on foot.
 
-“The display is closed,” Maris said, and handed the volunteer another clip.
+The service verge had no useful rhythm. Gravel slid under her thin soles. Awning ropes divided the passage at shoulder height, delivery tubs narrowed it at knee height, and every stall had somebody coming out backward with an empty tray. Carrying the skates forced her left arm away from her body. The frames knocked together until she wedged the toe of one through the heel strap of the other.
 
-The visitor looked down at the blue program already in his hand. He kept it.
+At the next stall, a worker pushed a bin into the passage.
 
-By the time the last central crop disappeared, sweat had soaked the back of Maris's shirt. She had been balancing almost motionless for close to half an hour. The muscles along her shins trembled. Beyond the awning, the southern half of the road shone open between moving heads.
+“Can I get by?” she asked.
 
-She could still finish with no foot on pavement. She could call the braking and bracing part of the run, ignore the circle, and make the old rule survive by careful wording.
+“Not that side. Hot pan.” The worker drew the bin toward one ankle and gave her six inches beside a tent pole. “Bag first.”
 
-The volunteer pulled two low crates behind the covered exhibit and set the source box beside them. “One to sit on, one for the sheets. The table wobbles.”
+She fed the bag through, then the skates, then herself. By the time she reached the bend, the drums on the road had begun a steady marching measure. She could hear the children’s section marshal counting groups into place somewhere ahead.
 
-The awning floor back there was hot, ridged, and buckled where one board overlapped another. Rolling over it would be foolish. Remaining upright on it while reading thirty-one contact records would be worse.
+Her phone was finally reachable. Three messages glowed on the screen.
 
-Maris sat on the crate. She loosened the right skate first, pulled it free, and placed her sock on the heated mat. Then the left. She set both skates side by side on the mat, toes toward the road. Fourteen summers, and this was the first time she had taken them off before the southern gate.
+The first asked where she was. The second said the lineup had been moved forward. The third contained only: **now**.
 
-The volunteer returned with a copied packet and a clipboard. “The copier added our standard release on top. You don't need it for the contacts.”
+She put the phone away and ran badly in shoes made to survive a shift behind a counter. The skates struck her thigh on every third step.
 
-Maris read the first paragraph. It gave the archive permission to use her name and likeness in later displays. She drew a line through the paragraph, another through the signature box, and wrote her contact information in the blank margin. She handed it back.
+At the east lineup, children with drums stood in two bent rows behind a temporary rope. Their harnesses made black angles over bright shirts. Her niece was at the end of the nearer row, the drum tilted against one knee while an adult worked at a knot in the short webbing strap. The repaired clasp had been replaced by a length of cord tied twice and pulled hard. It held the drum too high.
 
-“Contact only,” she said.
+Her niece saw the red bag first. “You have it?”
 
-The volunteer clipped the altered page to a separate board. “Contact only.”
+She was already unzipping the pocket. “Yes.”
 
-Outside, wheels rattled past the awning. A woman said, “That's the one from the program,” and someone else asked where the photographs had gone.
+“We move after this hold.”
 
-Maris squared the first source sheet on the second crate. The caption claimed she had sped past the fallen child. She clipped the full photograph above it, uncapped the pencil, and struck through *sped past*.
+“Then keep still.”
+
+“I am still.” The drum rocked against the child’s knee. “They tied it wrong.”
+
+The assisting adult raised both hands. “It was that or take her out.”
+
+“Cord did its job.” She crouched. “I need it loose now.”
+
+“It’s jammed.”
+
+Her niece pulled the drum toward herself. “Can you cut it?”
+
+“Not while you’re pulling.”
+
+The child let go at once. That was how her niece handled pressure: not gracefully, not after discussion, but completely once the next task was clear.
+
+The line marshal called, “Near row, ready. Far row, check straps.”
+
+The assisting adult pinched the knot while she worried the cord backward with the flat end of the new clasp. One loop loosened. The second gave enough to slide free.
+
+“Short webbing,” her niece said.
+
+“I see it.”
+
+“Not the long one.”
+
+“Hold the drum level.”
+
+She threaded the clasp through the short strap, turned it so the repaired spring faced away from the shirt, and pressed until the tongue seated with a small, hard click. She pulled once. The webbing took the weight. Her niece rolled one shoulder, testing the height.
+
+“Again,” she said.
+
+The child bounced carefully. The clasp held.
+
+“Near row,” the marshal called. “Forward.”
+
+Her niece moved with the others, stopped after two steps, and looked back. “Your shift.”
+
+“I know.”
+
+“You’re late.”
+
+“Forward,” the marshal called again.
+
+Her niece turned and went.
+
+The family stall was another five minutes along the service side. By the time she arrived, her sibling had sold down most of the cold drinks and was packing fresh ice around the remaining bottles. A customer waited with coins spread across one palm.
+
+Her sibling looked at the skates in her hand. “What happened?”
+
+“Clasp is on. Go, or you’ll miss them.” She slid behind the counter.
+
+“You’re half an hour—”
+
+“I have the counter.”
+
+Her sibling hesitated only long enough to point under the counter. “Small change left tin. Ice under the towels. Don’t open the last bottle crate until the front row is gone.”
+
+“Go.”
+
+The customer pushed the coins toward her. “Two lemonades.”
+
+She set her skates beneath the counter, toes pointed east, and reached into the ice.
