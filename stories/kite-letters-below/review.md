@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Naro | new | No exact, alias, close-spelling, or confusing reuse found in checked authority and production memory. |
-| Telu | new | No exact, alias, close-spelling, or confusing reuse found in checked authority and production memory. |
+| Sairu | new | Radiator mechanic; no exact or alias reuse found, and the nearby Sarune Quon remains distinct in spelling, sound, and role. |
+| Piru | new | Surface child identified through the visual exchange; no exact, alias, close-spelling, or confusing reuse found. |
+| Orvek | new | Station supervisor; no exact or alias reuse found, and the form remains readily distinct from Queen Orvessa. |
+| Lassan | new | Maintenance archivist; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun appears. |
+| None | none | No story-facing proper place noun. |
 
 ## Continuity
 
@@ -28,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The relative landing references, tested drogue, and observed descent keep the correspondence causal; Telu's blunt corrections and safety terms remain distinct from Naro's maintenance syntax, and the final practical question advances rather than restates their exchange.
+- Notes: The three-pass visual exchange replaces the superseded kite-and-capsule method while preserving the orbital mechanic, eight-century false doctrine, surface child, and maintenance language. Star-reed costs, radiator limits, cloud and sightline delays, bounded evidence, and the refusal of automatic geolocation remain causally coherent. Sairu's impatient feedback logic, Orvek's threshold-bound accountability, Lassan's evidentiary restraint, and Piru's corrected label syntax keep spoken and visual dialogue context-bound and distinct; the final receipt leaves future contact to the surface without explaining the choice again.
