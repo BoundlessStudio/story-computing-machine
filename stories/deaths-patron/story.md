@@ -8,346 +8,356 @@ canon: false
 
 # When Death Knelt
 
-The black iron seal had burned through two layers of cloth by the time I reached the borrowed safehouse.
+Derva had the stair-hoist brake in pieces when someone knocked.
 
-It was eleven minutes to midnight. I knew because the curfew clock had shown me its pale face from every roof between the regent's archive and the river quarter, while armored search parties closed the streets below. They were still three lanes behind. That was enough distance if the safehouse held what it was meant to hold: six rebels, a roof route, and a stone jar big enough to bury the seal in salt.
+Not a tenant's knock. The people in her building struck the door with whatever part of themselves was free: a shoulder under a basket, a boot when both hands held a child, three fingernails when they wanted the key to the roof. This sound landed exactly where bare knuckles would, one measured blow, a pause, then another.
 
-The kitchen held none of those things.
+The little brass washers on Derva's floor jumped before the third.
 
-No lamp burned. No boots waited beneath the table. A cup lay on its side, and a dark scrape crossed the floor where somebody had been dragged toward the front hall. I bolted the back door behind me and listened. Plate armor rasped somewhere beyond the shutters. Not inside yet.
+Far below, something hit the lower district hard enough to make the apartment lean. Lime dust breathed from the crack above her sink. The hoist cable inside the open brake housing twanged against her thumb.
 
-Then someone knocked on the door I had just locked.
+Six minutes and some change since the last impact. The backward thunder would come at seven.
 
-Three even blows. Neither the rebels' broken rhythm nor the impatient hammering of the regent's guard.
+Derva set the brake shoe down and opened her door.
 
-I drew my narrow knife and lifted the latch on its chain. The door opened two fingers' width.
+The god of death knelt on the landing.
 
-The man on the step was taller than the lintel, though the night seemed to bend so he could stand beneath it. His coat hung in strips as black as a burnt banner. Rain crossed the yard in silver slants but did not touch his bare head. Behind him, his shadow pointed toward the moon.
+She knew him without robes, scythe, or skull. He wore the shape of a tall man in travel-gray, but the unlit space inside his outline had the depth of a night sky. Worship moved through that depth like faraway lanterns. His lowered knee had not dented the stair runner. Dust lay undisturbed beneath his other boot.
 
-He looked at the knife, then at the packet under my coat.
+"Derva," he said. The landing gave his voice a small, awkward echo. "Please choose me."
 
-"You are late," he said.
+She kept one hand on the door. "You have the wrong flat."
 
-"For what?"
+"Any willing adult inside the ward would suffice. Yours was the last open door between here and the charge."
 
-"For every useful answer. May I come in?"
+"That isn't better. Choose you for what?"
 
-"No."
+His head came up. There was a face in the darkness now, spare and solemn, trying to hold a ceremonial expression together under plain fear.
 
-"Wise."
+"As your earthly avatar," he said, "and your champion."
 
-The curfew clock began striking midnight. At the first blow, the stranger put one hand against the doorframe. His fingers left frost on the wood. At the second, his knees buckled. At the third, he lowered himself onto one knee in the wet yard.
+The district bell began hammering below: five strokes, the signal for the eastern evacuation lane. People shouted in the stairwell.
 
-I had seen his face on bridge shrines and the brass buttons of burial clerks, though the statues gave him a sterner mouth. I shut the knife before I dropped it.
+Derva looked past him. Through the landing window she could see the demonstration engine at the foot of the slope, or what remained of it: a plated prow buried in the old test barricade, six wheels crooked along the paving, the brass memory drum in its belly pulsing red. It had been built to remember one charge supplied by forty living spellwrights. It had no driver, no will, no appetite. A broken stop-pin was enough to make catastrophe look purposeful.
 
-"Are you here for me?"
+As she watched, red light ran backward over the wreck. Torn plates shuddered. Beams ripped from a cooper's roof and flew toward the engine. Iron guttering peeled from three facades, twisting into wheel rims. The prow drew itself out of the barricade and vanished uphill in a clap that hurt her teeth.
 
-"No." The word came hard, offended less by my fear than by whatever had made it possible. "I have not come to take you anywhere."
+The next circuit had begun.
 
-The twelfth stroke rolled over the roofs. He bowed his head.
+"You want me to serve you," Derva said.
 
-"Choose me," said the god of death. "Take me for your patron. Become my earthly avatar and my champion, and carry what remains of my authority into that tower. I beg it of you."
+"No." The god's ceremony broke cleanly on the word. "I cannot take material form inside this ward ring without a living patron. The customary rite makes you my champion. Reverse it. Give me a cause, and I serve yours."
 
-The last note faded. Far off, boots struck paving stones in disciplined time.
+"Why can't your worshippers do it?"
 
-"Find a priest," I said.
+"They gave me worship. Elsewhere, I have power and authority. Here, the ring admits neither through prayer alone." His gaze dropped to the tools at her feet, then returned to her. "I am asking for the one thing they cannot grant from a distance."
 
-"The regent owns the public ones."
+Up the street, metal began to turn.
 
-"A soldier."
+Derva knew that sound. The engine was back in the arsenal yard, its remembered wheels gathering speed. On its first circuit it had shattered the test barricade. The roadway had settled under that weight; when the engine came again, the old grooves would tip it east toward the tailrace bridge. The reservoir sluicehouse stood beyond the next bend. If the prow entered the gate gallery, it would break the manual gearing or the wall around it. Either failure would put half the reservoir through the lower district.
 
-"She owns those more thoroughly."
+"What can you do?" she asked.
 
-"A fool."
+"I can end what has finished ending. A spent spell. A completed fracture. A dead construction. Not an intact machine, not a healthy life, and not a choice about which part of your city should be lost."
 
-He lifted his face. Night showed through one cheek as if he were a portrait scraped thin. "I found a lockbreaker with my seal under their coat."
+"The engine resets every seven minutes. End that."
 
-Heat bit my ribs. I stepped back from the crack in the door, not inviting him, and laid the packet on the kitchen table. Under the scorched cloth waited a palm-sized disk of black iron. It bore no crest now. I had filed the regent's crowned tower from its face inside the archive, and watched the metal grow smooth beneath the file.
+"Its charge has not ended. The broken pin removed the end it was given."
 
-"It repairs itself," I said.
+That answer was useless, but not vague. Derva preferred a useless measurement to a hopeful lie.
 
-"It is being repaired. Every ending denied to her bound company feeds the theft. At dawn she will set that seal in the bell tower and fasten the same command to the army."
+She stepped onto the landing. "I choose the god of death as my earthly avatar and champion for one cause: end this repeating charge without surrendering the lower district to it."
 
-"Commands don't stop a heart from stopping."
+"Freely?"
 
-"Mine can, when broken and used badly."
+"Don't make me repeat myself."
 
-He spoke without ornament. No thunder climbed the chimney; no grave opened in the yard. That frightened me more than a display would have.
+For the first time, his boot pressed dust into the runner.
 
-I wrapped the seal again and checked the front-hall sight line. The scrape ended at the street door. Through its spy hole I saw a guard's white cloak pass the shutters.
+His shadow leaped beneath hers. Cold folded around Derva's ankle, not painful but exact, as though someone had fitted a shackle made from the instant before a pendulum dropped. The god stood. The landing groaned under his weight.
 
-"If this authority is yours," I said, "go and fetch it."
+"Stay where I can see you," he said. "If you stop moving, or lose sight of me, my reach here collapses. And when I act—"
 
-"The tower ward was mixed by living hands and laid by living will. It admits what lives. It turns me aside." His gaze followed my fingers as I tested the window catch. "The seal opens its inner gates. Your picks can open the rest."
+The charge struck the top of the street before he finished.
 
-"You need a carrier."
+The engine came around the bend in a storm of sparks, taller than a house and patched with what it had stolen: blue shutters armoring its left wheel, roof beams bristling from the chassis, a marble lintel driven through the plated prow. Its wheels followed the old demonstration grooves, but the broken paving canted it farther east on every pass.
 
-"I need a chooser."
+People jammed the stairs below. A woman dragged a handcart through the entry arch while a boy pushed from behind. Above them, the cracked stone cornice tore loose. Red threads from the engine's drum caught the falling pieces and pulled them sideways, toward the moving chassis.
 
-That was a polished difference. Rulers kept cupboards full of polished differences.
+"Stop those stones," Derva said.
 
-I slid a pick beneath the warped sash. "What happens to my hands?"
+The god raised one hand. "The wall has already lost them. They're still falling."
 
-"They remain your hands."
+The cornice blocks swung above the cart like hammerheads. Derva started down the stairs, keeping the god in view through the railings.
 
-"Can you move them?"
+"Then end their return to the engine."
 
-"No."
+Darkness closed over the red threads. The blocks dropped straight down, smashing the empty doorstep behind the cart.
 
-"Can you make me hard to stab?"
+Derva tried to run after the evacuees and found that the world had thickened around her legs. Her first step took as long as three. The god matched her without changing stride, but each pace he took drew speed out of hers.
 
-"For a little while."
+"You could have mentioned that first," she said.
 
-"Can I cut the guards free?"
+"I attempted to."
 
-His eyes darkened until I saw, reflected in them, straight black lines running away through the city. "You will see where she has tied my stolen power. A blade in your hand can sever those bindings and nothing born outside them."
+It was not a joke. His eyes were on the charging engine.
 
-"Useful limits. Who chose them?"
+Derva forced her knees to unlock. The engine passed the building close enough to scour plaster from the arch. Its right rear wheel dropped into a new hollow, throwing the prow toward the lower lane. Then it thundered on, over the bridge, toward the sluicehouse.
 
-"I did, when I still had enough power to choose the shape of my help."
+They followed as fast as Derva's borrowed body allowed.
 
-The white cloak stopped beyond the front door. A metal point entered the keyhole.
+The street had become six kinds of obstruction. Bedding filled a doorway. A brewer rolled two barrels uphill against the evacuation flow. Someone's geese had settled in the middle of the paving and would not be driven uphill.
 
-"And if I refuse you?"
+"East stair's jammed," a porter told Derva, breathless. "Chest won't turn."
 
-The god looked toward the sound. His jaw tightened. "Then there are nine at the street door and three crossing the back wall. Your roof hatch sticks at the upper hinge."
+She looked once. "Stand it on end. Take the feet off."
 
-"That isn't an answer."
+"They're carved on."
 
-"It is all the time left. Move."
+"Then it stays. Move the people."
 
-He rose from his knee and stepped away from the threshold.
+At the next corner a girl held out a coil of thin rope. "Winchwright, is this yours?"
 
-The street door burst inward.
+"Mine now." Derva took it without slowing. The coil felt heavy as anchor chain in her unresponsive hand.
 
-I seized the seal, kicked the kitchen stool under the back latch, and ran upstairs. The first guard reached the foot of the stair as I drove my shoulder into the roof hatch. It stuck at the upper hinge. I struck beside the pin, not at it, and the warped wood leaped free.
+The god reached to carry it.
 
-Cold air hit my face. I rolled onto the tiles as a spear punched through the hatch behind me.
+"I need you visible," she said.
 
-The god came through the roof without opening it. Not into me, not even close. He moved along the ridge as a long shadow with a man's outline struggling to remain inside it.
+He withdrew his hand. A cart piled with chair frames rolled between them. His body went translucent at once; his planted foot passed halfway through a paving stone.
 
-I crossed three houses before the guards gained the roof. Their first quarrel clipped sparks from a chimney beside my hand. Their second would have found my spine if the god had not said, "Down," in the voice of a man describing an approaching storm.
+Derva caught the cart shaft and heaved it aside. Painfully slow. The moment she saw him whole again, weight returned to his coat and boots.
 
-I went flat by my own decision. Steel hissed over me.
+"Mutual sight," he said.
 
-"You said my refusal stood."
+"That was the word you left out."
 
-"It does. The chimney bridge ahead will not."
+"Yes."
 
-He was right about that too.
+Behind them came the hollow boom of the engine striking the sluicehouse's outer brace. A lesser impact than before. It had glanced off and reset before its full recorded distance, but the next circuit would begin from a roadway in worse condition.
 
-The route to the bell tower should have taken forty minutes. It took four hours. Search lamps filled the broad streets, so I crossed cooper lofts, pigeon walks, a shuttered bathhouse, and one dye shop whose roof beams groaned under every step. Wherever a door delayed me, I worked it. Wherever soldiers blocked the high way, I went lower and came up elsewhere. The seal scorched a third wrapping and warmed the rain that struck my coat.
+The lieutenant in charge of the evacuation had occupied the diversion winch halfway down the slope. Four crews strained at its capstan, shifting a buried length of demonstration rail toward the eastern residential lane. Chalked numbers covered the lieutenant's leather sleeve.
 
-The god followed without touching anything. Each time a tower bell marked the quarter hour, some detail vanished from him. First the buckles of his coat. Then his fingernails. By the time the ritual tower stood above us, he had only one clear eye.
+"Winchwright." He spoke before Derva reached him. "We can turn it six degrees. Lane is empty. Ninety-one dwellings lost, reservoir and bridge held."
 
-The rebels had chosen an old weighing room under its south arcade for the rendezvous. From the roof opposite, I saw why the room was dark. Four of them knelt in the courtyard with their wrists bound. A fifth lay trussed beside the scale pit, swearing steadily through a split lip. The sixth stood at the regent's shoulder without ropes and would not look at the others.
+"The lane isn't empty."
 
-Twelve guards ringed them. They stood too still for people who had worn armor through half a night. One had a crossbow quarrel buried in the leather above his knee. The wound had closed around the shaft. His leg shook, but he did not shift his weight.
+"Last count says it is."
 
-The regent waited beneath the tower arch in a plain gray riding coat. No crown, no escorting page, no ceremonial sword. She looked like an engineer inspecting a bridge before flood season.
+"The drain runs under it. You put that much weight through those cellars, the culvert folds. Then the next reset eats the bridge footing for replacement stone."
 
-Thin copper strips made a square around the courtyard, mortared through the parapets and down the four archways. The god reached the nearest strip and stopped as sharply as if it were a wall.
+The lieutenant glanced at the god. His mouth tightened, but he did not waste time asking who the impossible man was. "Six degrees. Ninety-one dwellings. We have four minutes."
 
-"Living lime," he said. His voice had lost its depth. "Blood from willing masons. Orders spoken over every course. I cannot cross."
+"The drain won't hold it. Lock the rail where it is."
 
-"Stay there."
+"Give me another line."
 
-"I have done little else tonight."
+Derva watched the red glare kindle uphill. The engine's left axle would pass within arm's reach of the winch platform. If the god could end it here, there would be no need to touch the gate works.
 
-The rebel at her shoulder had left our crawl route unlatched. That told me what had bought the regent her ambush. I entered anyway. The seal and its socket were above us, and all the safer directions led away from dawn.
+"That axle," she told him. "Take it when it reaches us."
 
-I slipped through the eaves, descended behind the old weighing cage, and had one foot on the floor when the shaking guard turned his head.
+The god studied the approaching machine. "It is worn. Not ended."
 
-"Behind the lattice," he said.
+"It will be under full load."
 
-Every spear in the room swung toward me.
+"Derva—"
 
-I pulled the cage gate shut, twisted its lock from inside, and jammed a broken scale weight under the bottom rail before they reached it. The guard with the quarrel planted both hands on the bars. His orders brought him close enough that I could see sleepless red cracks in his eyes.
+"Do it on my mark. Lieutenant, get your crews off the capstan."
 
-"Give me the seal," the regent said from the courtyard, "and no one here needs to be damaged further."
+The lieutenant did not move. "Six degrees saves the water."
 
-"Interesting word."
+"Off."
 
-"Accurate word. They are alive. They remain capable."
+Perhaps it was the god beside her. Perhaps it was the engine filling the street. The lieutenant chopped one hand downward, and the crews scattered.
 
-The guard's arms strained against the bars. Quietly, with his face turned from her, he said, "Don't stab me. It won't hold. Cut what pulls, if your thief-god showed you how."
+The engine struck the loosened rail. Its prow yawed; the left wheels climbed the paving. Derva saw the axle flex under the chassis, saw daylight open between its collar and bearing, and gave the order.
 
-The god stood beyond the copper line. Rain passed through the holes in his coat.
+The god closed his hand.
 
-I put the seal on the cage floor, braced it between two scale weights, and drove my best chisel into its edge. Black metal rang. A bright notch opened, deep enough to catch a thumbnail.
+All motion went out of Derva.
 
-It closed before I could strike again.
+Her lifted heel hung above the stones. Breath stopped halfway into her lungs. Around the god's fingers, darkness gathered and slipped from the axle without purchase. The metal flexed, screamed, and held. Then the wheel slammed down. The engine tore the diversion winch from its bed and dragged the capstan away in a shower of bolts.
 
-"The first company has held the north gates for nineteen days without sleep," the regent said. "They have lost no post, taken no sick rotation, abandoned no citizen to a fire or riot. At dawn I can give that endurance to every soldier we have. The border roads open by winter. Grain reaches the west wards on time. Trained hands stop vanishing from the rolls."
+Derva fell when her body returned to her. The god caught her under the arms, but his grip faded as her eyes squeezed shut. She forced them open. His face resolved inches from hers, ceremony gone, fear plain.
 
-I exchanged the chisel for a toothed wire and drew it through the seal's rim. The cut glowed red, then flowed shut behind the wire.
+"It had not broken," he said. "I couldn't begin the break."
 
-"They still feel it," I said.
+The lieutenant limped from behind the platform, one trouser leg torn. "Three minutes to impact. Ninety-one dwellings still standing. No diversion. What now?"
 
-"Pain reports damage. It does not have to end a useful life."
+He was not gloating. He wanted a line he could use.
 
-The guard's shaking became violent. He was trying not to lift the spear at his side. "Regent. Permission to stand down."
+Derva rolled onto one knee. The engine's rear assembly passed them. A snapped crescent of bronze rattled inside an open gear case, separated from the shaft but held in its old position by red light. Each turn widened a black seam through the collar around it.
 
-"Denied."
+The god pointed. "That break is complete. The charge treats the pieces as joined."
 
-His fingers closed on the shaft.
+Derva almost told him what to do again. Her mouth formed the first word.
 
-The regent came close enough for the cage bars to stripe her face. "I know what you are good at. Keep the seal, if ownership pleases you. Take a captaincy. You could cross any roof in this city without fearing the fall, and no lockhouse could starve you out. Give me one year of service. See what we build before you condemn it."
+She swallowed it. "Which pieces?"
 
-It was a better offer than most rulers made. That was the danger in it.
+"The bronze collar and the drive shaft."
 
-I looked past her at my kneeling companions, then at the guard fighting his own arm. "Can any of them leave at the end of your year?"
+"If you end the joining, what still turns?"
 
-"An army cannot be managed by private appetite."
+"The shaft, badly. Until the load finds the seam."
 
-"There's the lock."
+There was the measurement she needed.
 
-She glanced toward the east. The sky over the roofs had begun to lose its stars. "And there is the key you cannot break."
+"End the joining," she said. "Nothing else."
 
-The guard's spear came up.
+The god touched two fingers to her shadow. The red light in the gear case went out. The broken collar dropped onto the paving and bounced away. Derva's muscles dragged again, but she had kept walking this time—one heel down, one toe forward—and the god stayed solid.
 
-I had time to throw myself aside. The blade entered the weighing cage and stopped a handspan from my ribs, caught between two bars. The guard made a sound like a man lifting a wagon alone.
+The exposed shaft began to wobble.
 
-Outside the ward, the god sank to both knees.
+"Sluice gallery," Derva said. She turned to the lieutenant. "I need the west gate counterweight unpinned, two hauling crews on its service line, and everyone else off the bridge."
 
-"If you can climb inside me," I called to him, "do it now. Save yourself the ceremony."
+"That opens the west gate."
 
-His remaining eye flared white. "Do not offer me a corpse with warm joints and call it a champion. I asked you. I will not counterfeit your answer."
+"Not if I dog the manual wheel."
 
-The spear scraped closer. The guard whispered, "Please."
+"You'll be in the gallery."
 
-The god's shoulders were coming apart into smoke. He could have lied at the kitchen door. He could have put thunder in my skull and named it revelation. He had followed me across half the city with nothing but warnings I was free to ignore, while the last of him thinned against a boundary laid in mortar.
+"Yes."
 
-I knew the price of a lock by the hand that kept the key.
+He looked from her to the engine, counting without moving his lips. "Two minutes."
 
-"No hand over mine," I said. "No edge through living flesh. If I tell you out, you leave nothing behind."
+"Then stop spending them here."
 
-The god straightened as far as his failing shape allowed. "By the authority still mine beneath this bell, yes."
+This time he ran before she did.
 
-"You can advise. You cannot drive."
+The sluice gallery was a stone throat built along the reservoir wall. On one side, iron gate wheels rose taller than Derva; on the other, arched service openings looked down onto the tailrace bridge and the charge route. The west counterweight hung in its shaft above them, six hundred pounds of river-smoothed iron meant to balance the gate. Its service line ran through a ceiling block to the manual wheel.
 
-"I have begged enough to know the difference."
+Derva entered with the god at her shoulder and the thin rope across her chest. Her body still answered late. She made every movement continuous: walking while she pulled the coil free, circling the wheel while she knotted the rope, leaning rather than stopping when her fingers failed to close.
 
-The spear point touched my coat.
+Outside, the engine vanished in backward thunder.
 
-I closed my hand around my roll of picks. "God of death, I choose you. Get me through the tower."
+Fourth circuit.
 
-He did not pour into me. Nothing took my spine or crowded behind my eyes.
+The lieutenant arrived with two crews. "Bridge clear. One minute forty."
 
-The world simply acquired another set of edges.
+"Take the counterweight's safety pin out."
 
-Black lines blazed from the guards' breastplates, crossed the courtyard, and climbed the tower like rigging. Shadow folded over my shoulders in narrow, moving plates. My pick roll uncoiled in my fist; every small piece of steel joined into a blade no longer than my forearm, dark except for a white line along its edge.
+"It drops, west gate rises."
 
-I turned that edge against the spear shaft. It struck ordinary wood with a useless click.
+"Only a handspan if they hold the service line."
 
-Against the black cord passing through the guard's chest, it made no sound at all.
+"A handspan puts water on the gallery floor."
 
-The cord parted.
+"Then we'll have wet boots. Pin."
 
-The guard collapsed before the spear reached me. He hit the cage bars, caught himself, and stared at his open hands.
+He repeated, "One minute forty," but he set both hands to the pin with Derva. It came free grain by grain. The crews took the strain; rope fibers snapped in tiny reports.
 
-"Orders gone," he said. Then, louder: "First file, lock your knees. Spears down. Fight the pull."
+Derva led the thin line through the nearest service arch and around a maintenance snatch block. The block's hook had been driven into the wall to lift gate teeth, not swing weights across a roadway. She tested the anchor with her shoulder.
 
-Three guards obeyed him instead of the regent. That bought me the breath I needed to pick the cage lock, kick away the scale weight, and get among them.
+The god watched the strain travel through rope, block, hook, and stone. "The hook may end first."
 
-The blade would not cut straps, rope, steel, or skin. It passed each harmlessly or struck with the weight of a thin bar. But the regent's bindings shone to me from buckle and collar, every one tied with the same ugly hitch. I cut six while the deathless guards tried to hold me for her. Shadow armor turned two spearpoints and cracked under a third. No unseen hand guided my wrist. The god named what approached from behind; I decided when to duck, when to turn, and which bright cord to reach.
+"May?"
 
-Freed guards dropped weapons, seized them again by choice, and cut the rebels' ropes. The rebel from the scale pit rolled to their feet and punched the traitor who had left our crawl route open.
+"Its inner curve is hidden from me."
 
-"Tower," I said.
+"Then stand where you can see it when it loads. Tell me which failure finishes. Don't choose for me."
 
-"We can climb."
+He bowed his head once. Not submission. Attention.
 
-"Then nobody holds this yard. Keep the ordinary soldiers busy. Send the freed ones after me when their legs listen."
+The charge entered the lower street. Its rumble filled the gallery floor. Derva tied the thin rope to the counterweight pin and passed its free end to the lieutenant.
 
-The regent was already through the north door.
+"When the prow clears the bridge, pull. Not before. If the weight hits the prow, it rolls into the wall. We need the drive shaft behind the second wheel."
 
-The bell tower rose around a square hollow shaft. Its stair clung to the walls in four steep flights, one per face, with iron gates at each landing. The seal opened the black wards stamped over their keyholes; my picks opened the locks beneath. We climbed from rain into dust, from dust into the cold wind beneath the bells. Twice the regent dropped barred gates behind her. Twice I worked while armored loyalists hammered the steps below. The god never said hurry. He told me which deathless lines tightened and where the tower chains moved overhead. The difference mattered.
+The lieutenant wrapped the line around his forearm. "Prow clear. Second wheel."
 
-At the last landing, sunrise touched the weather vane.
+"Those are different moments."
 
-The ritual chamber had no roof, only four stone pillars carrying the great bell. Between them hung chains as fine as thread and as dark as the seal. Their ends vanished into a round socket cut into the eastern parapet.
+"I heard you."
 
-The moment I crossed the sill, the chains came alive.
+The manual gate wheel shivered under Derva's palm. She needed to dog it the instant the counterweight swung free, or the reservoir would lift the gate. The pawl hung half engaged above the ratchet. Ordinarily she could seat it in one hard movement.
 
-They caught the packet beneath my coat and ripped it through cloth and armor. The black seal flew across the chamber. I cut one chain, then another, but four more snapped from the socket and dragged the disk home. It struck the round hollow with a sound too deep for iron.
+Nothing she did was ordinary while the god spent her motion.
 
-Every bound guard in the tower cried out below us.
+The engine burst onto the bridge.
 
-The regent set her palm over the seal. A narrow black band circled her wrist, hidden until my borrowed sight found it. One cord looped from that band through her own chest, one entered the socket, and hundreds ran out again, down through the city toward barracks, gates, and sleeping camps.
+Stone cracked beneath the first wheel. Its prow carried half the district in its armor now: carved fireplace surrounds, drain grates, roof nails gathered into a bristling black hide. No life animated it. The fixed drum beat red, giving the same command to a road that changed beneath it.
 
-"You can still stand on the useful side of this," she said. Wind tore her gray coat against the bell frame. "Keep the armor. Keep the years. Captain people who cannot be lost."
+"Hold," Derva said.
 
-"They can be lost," I said. "They just can't leave."
+The crews leaned against the service line. Water hissed around the west gate.
 
-"In a siege, leaving is a breach with a kinder name."
+The prow crossed the far edge of the bridge.
 
-The first edge of the sun rose between the roofs. The seal began to turn in its socket.
+"Now."
 
-I stopped cutting chains.
+The lieutenant hauled. The crews paid out one arm's length of service line. The counterweight dropped, the thin rope caught it sideways, and it swung out through the service arch.
 
-A bad lock invites you to fight its bolts. A good one hides the piece that tells the bolts whose key to obey.
+It struck the wobbling shaft behind the second wheel.
 
-The regent saw me look at the band around her wrist. She seized a bell rope and swung its iron counterweight at my head. I stepped inside its arc. Shadow plate shattered across my back. My dark blade passed through the metal band without marking it and met the single line beneath.
+The sound was smaller than Derva expected: a hard iron cough. Then the shaft folded at the unjoined collar. The rear wheels drove over the broken metal, twisting the chassis sideways. The engine's prow cleared the bridge and buried itself in the empty inspection yard. Its memory drum kept turning, but no force reached the wheels.
 
-I cut her claim.
+The snatch-block hook split.
 
-The seal split from rim to center. Its turning stopped.
+"Hook ended," the god said.
 
-All across the chamber, black chains fell into harmless lengths of cold iron. The bell gave one enormous note. The regent staggered as the stolen deathlessness left her, struck the parapet, and went over it.
+"Leave it. The engine?"
 
-I dropped the blade and caught her wrist.
+He stared into the red drum. Begging had made him look almost human on her landing. Here, with a true ending before him, he became difficult to see at all. The gallery lamps bent inward. Every shadow in the stone throat pointed toward his hand.
 
-For one breath I hung across the stone edge with her weight pulling at my cracked armor. Below, freed guards flooded the stair. Two of them reached us and hauled the regent back into the chamber.
+"The drive is ended," he said. "The pattern can be severed now."
 
-She stared at me from the stones. "You could have let go."
+Derva's legs were already failing. Behind her, the manual wheel began to turn as the unbalanced gate lifted.
 
-"You're evidence," I said. "Try not to fall on the way to judgment."
+"Do it."
 
-The copper ward went dark.
+The god reached.
 
-The god of death crossed the tower sill.
+The drum's red pulse stopped between beats.
 
-He was whole again within the bell's shadow: tall, severe, his coat falling in unbroken black folds. Under my borrowed sight, the severed lines ran back to him along the old ritual roads and stopped at the boundary stones beyond the gatehouses. Whatever he was elsewhere, here he stood whole.
+Derva lost everything except the small forward drag of her left foot. She kept that toe scraping stone while the god drew the last stored repetition out of the wreck. Red lines rose from the engine, thinned to threads, and disappeared into the dark of his palm. Timber and masonry trembled in the chassis but did not fly backward. The engine remained where it had broken.
 
-The regent raised her chin. "Well?"
+The manual wheel spun faster.
 
-The god looked down at her. "You are alive. Remain so until your city has weighed what you did."
+Derva could not raise her arms. She let her weight fall against a spoke. The wheel drove her around with it, once, half again. Her right hand passed the hanging pawl. Too late. On the next turn she hooked it with two fingers. The ratchet hammered against its tip and kicked it loose.
 
-The first freed guard pulled her arms behind her and bound them with plain rope. "Stand," he said. She stayed on the stones until two others took her elbows.
+Water spread over her boots.
 
-My shadow armor was already loosening in the new sunlight. The god turned to me.
+"Derva," the god said.
 
-"You carried me where I could not go," he said. "The danger is ended. Do you want the bond cut?"
+"Keep—" Her jaw worked after the word. "Working."
 
-I looked at the quiet seal, broken in its socket, and at my companions gathering below. No spear was rising toward my ribs. No dawn waited to close a lock.
+He could not hold the wheel without abandoning the engine. He did not explain that. He looked once at the lieutenant.
 
-"End it."
+The lieutenant shoved his shoulder beside Derva's. "On three," he called to the crews. "One. Two."
 
-He touched two fingers to the flat of the dark blade. It came apart into my familiar picks. The armor slid from my shoulders and pooled beneath the bell, only shadow again. The extra edges vanished from the world.
+They checked the service line on two. The gate wheel slowed just enough. Derva caught the pawl again and dropped her whole forearm over it. Iron met iron. The ratchet struck, bounced, then seated.
 
-"It is ended," he said.
+The west gate stopped a handspan open. A shallow sheet of reservoir water washed through the gallery drains and into the tailrace, nothing more.
 
-By the time I returned to the borrowed safehouse, sunlight filled the back yard. The guards had smashed the street door, but the back door still hung square. I went inside, set the two halves of the black seal on the kitchen table, and closed it. They had cooled to ordinary iron. For the first time all night, nobody was chasing me.
+For several breaths, nobody spoke. Rope creaked. The broken engine ticked in the inspection yard.
 
-Three even knocks sounded against the door.
+Then the god lowered his hand.
 
-When I opened it, the god stood on the step. He lowered himself onto one knee in the dry morning light.
+Motion returned to Derva in painful increments: lungs first, then shoulders, then the cramped fingers locked around the pawl. Her legs remained distant things. She sat down because choosing to sit was easier than pretending she had not fallen.
 
-"There is no tower at your back now," he said. "No blade at your coat. What she stole here is mine again. I ask a second time: will you choose me and walk as my champion?"
+The lieutenant went to the arch and looked out. "No reset."
 
-I could shut the door. He would stay on the step. We both knew it.
+"Clear the hauling crews," Derva said. Her words came slowly, but they came. "Then braces on the west gate."
 
-"What needs opening first?" I asked.
+"And the wall?"
 
-"Three shrines the regent sealed. After that, nothing I can name yet."
+"After the gate."
 
-"And when I tell you a door should stay closed?"
+He nodded and began assigning hands. The first brace crew was moving before anyone found breath for cheering.
 
-The old sternness returned to his mouth. "Then I will argue from outside it."
+Derva watched the memory drum until its metal cooled from red to ordinary black. "Cause ended?"
 
-"I choose you," I said. "Get up."
+The god stood beside her shadow. He was still fully present, but the gallery lamps no longer leaned toward him.
 
-The god of death rose.
+"The repetition is gone," he said. "The machine cannot charge."
 
-I opened the door wide. He waited until I told him to come in. Then I went first, and he crossed the threshold beside me.
+"Then the bond is done. I dismiss you."
+
+His outline thinned. For an instant she saw the impossible distance behind his face, all those far lamps of worship and the authority they carried. He opened his mouth, perhaps to recover the words proper to a god's departure.
+
+A crewman shouted from the gate shaft, "Which brace first?"
+
+Derva looked away from the god. "East bearing. Nobody touches the wheel until it's shored."
+
+When she looked back, the gallery held only her own shadow.
+
+Feeling returned to her feet as pins and heat. Derva pulled the thin rope toward her, found the broken snatch block at its end, and began checking which pieces could still be used.

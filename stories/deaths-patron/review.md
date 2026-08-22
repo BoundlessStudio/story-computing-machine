@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | All people and person-like beings remain unnamed; `god of death`, `regent`, `lockbreaker`, `guard`, `rebel`, and `traitor` are descriptive roles. Title capitalization in *When Death Knelt* does not establish `Death` as a name or alias. |
+| Derva | new | Mortal winchwright; no exact, alias, close-spelling, or confusing reuse found in relevant authority, the frozen baseline, locked legacy prose, or passing current inventories. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The city, river quarter, safehouse, gates, wards, weighing room, courtyard, and ritual bell tower remain generic and unnamed. |
+| None | none | No named place appears in the story. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The literal doorstep plea, bounded local magic, midnight-to-dawn action, mortal judgment, bond dissolution, and safe second choice remain coherent. The lockbreaker's terse tests, the god's grave precision, the regent's administrative coercion, and the guards' exhausted urgency remain distinct; the final exchange converts the opening plea into an unpressured choice rather than repeating the victory.
+- Notes: The reversed patronage is literal and bounded, the four engine circuits escalate causally, and Derva's physical cost and dismissal complete the promised adventure. Dialogue remains context-dependent and role-specific: Derva speaks in work orders and revisions, the god in distinctions about completion and authority, the lieutenant in timing and acceptable loss, while evacuees stay usefully single-purpose; the interrupted departure avoids a final explanatory thesis.
