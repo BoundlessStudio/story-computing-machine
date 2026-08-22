@@ -8,508 +8,310 @@ canon: false
 
 # The Name the Water Took
 
-I wake because I have breathed water.
+Braska came up choking on warm water and struck their shoulder against stone.
 
-My body knows what to do before I understand the mistake. My throat closes. My arms sweep outward, find resistance, and drive me toward a stain of green light. I break the surface coughing. Warm rain taps my eyelids. Leaves crowd the sky in a hundred wet shapes.
+They found the edge by touch. Roots crossed it like knuckles. They caught one, hauled until their ribs cleared the surface, and stopped there because a person under the roots had drawn a knife.
 
-I know *rain*. I know *leaves*. I know the difference between a vine and a snake where it loops over a branch.
+The person was a lean woman with a strip of blood-dark cloth tied around one calf. Her other hand covered her eyes, though not the hand with the knife.
 
-I do not know who is coughing.
+“Wrap first,” she said. “Then questions.”
 
-The pool is scarcely ten strides across, round and dark under the trees. I stand on a submerged shelf with the water at my ribs and push hair out of my face. My hands are brown, smooth, strong. They feel like hands I have borrowed without being told from whom.
+A folded length of palm fiber lay on the stone between them. Braska reached for it. Water streamed from bare arms, bare chest, bare legs. No jewelry, no cord, no scrap of cloth. The exposure registered as a problem of insects and thorns before it registered as shame.
 
-I am naked.
+They dragged the wrap beneath their arms and around their torso, hitched the lower edge clear of their knees, and fixed it with a tuck that held on the first attempt. Their fingers knew how much twist the wet fiber would bear. They did not know whose fingers they were.
 
-I search the shallows first, feeling among stones for cloth. Then I dive. The deeper water is tea-colored and warm. I find silt, a drowned branch, the cold mouth of a spring. Nothing made or worn. On my second dive I search the shelf behind me. On my third, I am no longer looking for clothes. I am waiting for the sight of some object to strike through me and make a life.
+The woman lowered her hand. “Can you stand?”
 
-A voice above says, “Stay up this time.”
+Braska tested the shoulder, then each knee. A split on the left heel had reopened. Older cord burns crossed both wrists. “Yes. Where are my clothes?”
 
-I spin and tread water.
+She looked at the pool.
 
-An old woman stands on the bank. Not ancient—perhaps sixty—but the distinction comes to me without any memory of learning faces. Rain lies silver in her cropped hair. Her boots are caked to the ankles. She holds a rust-colored wrap in both hands and looks at me with the fixed attention of someone watching a door she has dreaded opening.
+Its surface was dark enough to return the green roof of the jungle, every leaf sharp between rings of falling water. Braska leaned over it and saw no face. Where their reflection should have broken the leaves, there was only an empty human shape, clear water bordered by pale lights. A collapsed shirt. Trousers. Boots. Belt. A knife in its sheath. Smaller glimmers lay among the stones.
 
-“Who are you?”
+They touched their own cheek. Warm skin, blunt nose, short wet hair. The empty shape touched nothing.
 
-“Eswen.”
+“Don’t put your head under again,” the woman said.
 
-“Who am I?”
+Braska shifted their weight off the cut heel. “Again.”
 
-Her fingers tighten on the cloth. “You left that answer in writing.”
+“They’re less than an hour behind me.” She glanced toward a gap under the roots, where a trail was not quite visible. “If you want an explanation, earn us enough distance to speak one.”
 
-“Say it.”
+“Who are they?”
 
-“No.”
+“Your survey.”
 
-The refusal is too quick to be uncertainty. I wade backward until the shelf falls away. My legs carry me easily. I could cross the pool in six strokes. I could pull myself into the lower branches and be gone before this woman caught her breath.
-
-Eswen sets the wrap on a pale rock. “I won’t come closer. There’s a shelter uphill. Dusk in less than an hour, and the trail is bad after dark.”
-
-“How did I get here?”
-
-“You walked.”
-
-“Alone?”
-
-“With me.”
-
-“Did you put me in the water?”
-
-“No.”
-
-“Did you watch me go in?”
-
-“Yes.”
-
-Her knuckles pale on the cloth. She turns away from the pool, presenting her back.
-
-I climb onto the bank. The mud should give under my feet; instead my toes find buried stone. I rise so fast that I almost overbalance. A laugh escapes me, one startled sound. The body can do things. Breath floods it without pain. My knees fold and straighten as if no year has ever rubbed against them.
-
-Eswen hears. Her head drops.
-
-I wrap myself. Rain has soaked the cloth, but the wetness will not touch me. Each drop rounds against my skin and rolls away. Even the wrap seems to hover on a clear, slippery layer.
-
-“What is this?”
-
-“Part of what happens.” Eswen keeps facing the trees. “It will wear off. Until then, you cannot sweat. Don’t run.”
-
-I want to run at once.
-
-Instead I follow her uphill.
-
-The shelter is close enough that I can still glimpse the pool between trunks: four posts, a roof of layered leaves, plank flooring lifted above the mud. Inside are two mats, a low table, a lantern, water jars, and a canvas pack. Three packets wait in a row. Each is sealed in dark wax.
-
-BODY.
-
-PEOPLE.
-
-WHY.
-
-The letters lean forward, impatient. I know handwriting well enough to see that one person made all three labels. The pen bit hard on the downstrokes.
-
-“Whose hand?”
-
-Eswen hangs her wet outer shirt on a peg. “The woman who entered the pool.”
-
-“You avoid pronouns for a living?”
-
-“I mend ovens.”
-
-It is the first answer that was not prepared for me.
-
-Heat gathers under the wrap. Eswen pours water to a charcoal line scratched halfway down a metal cup and points at a stool.
-
-“Drink to the mark. Slowly.”
-
-“First tell me my name.”
-
-“I promised to put those in front of you. I promised to answer what they do not. I did not promise to become a fourth packet.”
-
-The sentence has been rehearsed, but not polished. She clips its end as if she has said it too many times to an empty room.
-
-I pick up PEOPLE.
-
-Eswen’s hand moves, then stops before touching mine. “You meant to start with BODY.”
-
-“You know what I meant?”
-
-“She wrote an order on the backs.”
-
-I turn the packet over. A small 1 sits there.
-
-“Then she should not have given me a choice.”
-
-Something shifts in Eswen’s expression. Approval would be too generous a word. Recognition, perhaps, and dislike of the recognition.
-
-I break the PEOPLE seal.
-
-The first photograph is of a baby bundled in white. A young woman holds her, exhausted and triumphant. The young woman’s nose has the same blunt bridge I can feel on my own face. Her hands are broad like mine. Beneath the picture, in the severe hand, is written: *Eswen, six days. Would not sleep unless I walked.*
-
-I look across the table. Eswen has that baby’s left ear, narrow at the top. A small pale notch divides her eyebrow in the same place it does in later photographs.
-
-There are eleven more. The child lengthens; the mother thickens, grays, bends. In one, Eswen at sixteen turns her burned palm toward the camera while the woman beside her scowls at whoever took the picture. In another, they sit at opposite ends of a bench, not speaking. The final photograph shows Eswen as she is now and the other woman at more than eighty, small inside her clothes, one hand braced over her heart.
-
-On the back: *Three weeks before the pool. She is still angry.*
-
-“About what?”
-
-Eswen drinks from her own cup. “Which time?”
-
-“The last picture.”
-
-“That I had agreed to bring her.”
-
-“You were angry she got what she wanted?”
-
-“I was angry she made refusal useless.”
-
-I turn to the family chronology. It gives dates without argument. Eswen, born sixty-one years ago. One child, no siblings living. The mother’s name appears in the first line and on every page after.
-
-Amaya.
-
-The sound gives me nothing. I say it anyway. “Amaya.”
-
-Eswen’s gaze lifts.
-
-“That was her name?”
-
-“The one she used.”
-
-“And you believe I’m her.”
-
-“I believe you have her face at twenty-one. I believe I watched her walk into the water this morning.”
-
-“But you will not call me your mother.”
-
-Eswen puts her cup down too hard. “You haven’t asked what I call you. You keep telling me to choose what you are.”
-
-A mosquito circles my wrist, attempts to land, and skates off the invisible film. Sweat cannot pass through it. My heart is quick now, though whether from heat or the photographs I cannot tell.
-
-One picture shows Eswen at eight, up to her thighs in a muddy river, shouting toward the camera. The note says: *Minnow declares war on the current.*
-
-“Minnow,” I say.
-
-Eswen crosses the space between us and takes the photograph. “No.”
-
-“It is her writing.”
-
-“It was her river. Her joke.”
-
-“If the name was mine—”
-
-“You don’t know about the sandal.”
-
-“What sandal?”
-
-“Exactly.” She shoves the photograph beneath her folded shirt, out of sight. “Read whatever facts you like. Leave that one alone.”
-
-Her anger makes the room clearer. It is evidence against a trap designed only to flatter me; it is also not evidence for any claim she makes.
-
-I open BODY.
-
-The first page is addressed *To whoever comes out.*
-
-*The name I have answered to for sixty-three years is Amaya. Use it if it is useful. It was not my first name.*
-
-Below that is a physician’s inventory made two days earlier. Eighty-four years old. Enlarged heart. Fluid in the lungs. A left knee cut open in a fall at nineteen. Two teeth lost. Right little finger set crooked after a break. A crescent scar under the right breast.
-
-I check each place. Nothing. My heart beats evenly through ten deep squats, then twenty. I could do another twenty. The thought is delicious.
-
-Eswen catches me smiling.
-
-“She could not stand from that stool without both hands,” she says.
-
-“Did she complain?”
-
-“Constantly. Mostly when people helped.”
-
-That almost invites a question about character. I refuse the invitation and read on.
-
-The account predicts a body between twenty and twenty-five. It predicts no acquired scars, no disease known to the writer, fluent language, preserved practical abilities, and no remembered event from before emerging. It warns that the skin film will repel liquid and small insects for several hours while also blocking sweat.
-
-A mirror wrapped in cloth lies beneath the page. I uncover a young woman’s face: black hair cut close to the jaw, wide eyes, a strong nose, mud on one cheek. She is not familiar. Familiarity itself is familiar; I know what should happen and does not.
-
-I touch the mirror’s rim, then the face. “Why should I trust an inventory I might have written?”
-
-“You shouldn’t. Not by itself.”
-
-“Fetch another witness.”
-
-“There isn’t one here.”
-
-“Where is the physician?”
-
-“Four days away.”
-
-“Who knows this pool exists?”
-
-“Too many people knew once. Very few now. None are coming tonight.”
-
-She begins fanning me with a woven reed fan. The air cools my face only a little.
-
-I take it from her. “You knew the film would happen.”
-
-“I brought six jars.”
-
-“You knew the body would be young.”
-
-“I brought clothes in two sizes.”
-
-“You knew the memory would be gone.”
-
-At that, Eswen looks toward WHY. “She knew.”
-
-I lift the cup and drink past the charcoal line.
-
-Eswen snatches it down. “Do that again and you may vomit every drop.”
-
-“My body is not eighty-four.”
-
-“No. It is a young body sealed in its own heat, and you have had it for less than an hour. If you want facts, stay conscious.”
-
-Her annoyance is exact and practical. She has no interest in being gentle while I ignore a problem she understands better. I drink the amount she gives me next.
-
-Dark comes quickly. The pool disappears first; then the near trees join into black columns. The lantern makes the rain beyond the shelter look like wires. My bare skin stays dry, but heat pulses in my scalp and the hollows behind my knees.
-
-Eswen has packed rice, salted fruit, and a bitter paste to stir into water. We eat without speaking. My hunger is enormous. The pleasure of chewing with sound teeth nearly makes me laugh again. Eswen watches me finish and slides over half her rice, then pretends to be studying the lantern wick.
-
-I leave WHY sealed.
-
-“If she was dying,” I say, “why bring her through a jungle?”
-
-“She brought herself as far as the road.”
-
-“You could have taken her home.”
-
-“I tried.”
-
-“And when she refused?”
-
-“I took the pack because she could barely lift it.”
-
-“That is not what I asked.”
-
-Eswen scrapes the last paste from her bowl. “She had paid a guide to come at dawn. A man who thought the pool was a bathing place. If I left her, she would have lied to him and tried the trail without medicines or enough water. If I carried her home, she would have left again. I chose to know where she died.”
-
-The last word stills my questions for only a moment.
-
-“You thought she would die here?”
-
-“I thought one of three things would happen. Her heart would fail on the climb. She would drown. Or you would come out.”
-
-“*You.*”
-
-“Yes.”
-
-“Not her.”
-
-Eswen stands and moves to the shelter’s edge. “Open the third packet, Amaya.”
-
-It is the first time she has used the name. Not as welcome. As distance.
-
-I break the seal.
-
-The letter begins without tenderness.
-
-*You are alive enough to be frightened. Start there.*
-
-The hand is mine only by claim. Its voice is brisk, impatient with the reader and with its own fear.
-
-The woman who wrote it says her heart will not last another season. She says she has been afraid of ordinary death since she understood that no amount of observation can report what comes after one’s own last breath. She wants years. Not wisdom, not a better use for them. Years in which to eat hot bread, quarrel, repair what she has neglected, and wake with tomorrow still a habit.
-
-That wanting enters me more easily than the name. My arms are light. My breath reaches the bottom of my lungs. The night outside is immense, and I could walk into it when morning comes. I understand why an old woman would gamble everything she remembered to have this much body again.
-
-Then the letter assigns Eswen her part.
-
-*She will take you home. She knows the people and the accounts. Listen to her until the facts settle. I raised her to be exact, though she dislikes admitting how much she learned from me. If affection does not return at once, conduct may lead it.*
-
-I read that sentence twice.
-
-Eswen remains at the edge of the lantern light, arms folded.
-
-“She drafted you.”
-
-“She always preferred other people’s labor when it looked like love.”
-
-“You agreed to this night.”
-
-“One night. Water, shade, the packets, the road.”
-
-“And after?”
-
-“No.”
-
-The word is smaller than before. Tired, not weak.
-
-More papers sit behind the letter. The oldest is a clinic intake dated sixty-three years ago. An unidentified young woman had been found beside a jungle track with fever, no clothes, no scars, and no memory of her history. She spoke three languages and could take a clean witness statement. She estimated her age at twenty-one. No search found a family.
-
-A later deposition bears the name Amaya. It describes this pool, the hours-long film, the absence of remembered life, and the inexplicable health of the body that emerged. At the bottom, in a different hand, someone has asked for a former name. The answer is a blank line.
-
-The next record explains that a clerk demanded something for his register. The young woman selected Amaya from a list of names read aloud. No voice from the water. No sudden recognition. A choice made because a box would not accept emptiness.
-
-Behind those pages are damp-stained notes found in a rotted bag downstream. Every line that might identify their writer has washed into brown threads.
-
-I put the clinic report beside yesterday’s physician inventory. The measurements of the young bodies are nearly identical.
-
-“This was the second time,” I say.
-
-“The second time anyone recorded.”
-
-“She lived sixty-three years after the first.”
-
-“Yes.”
-
-“She made you.”
-
-Eswen’s face closes. “She gave birth to me, if that is what you mean.”
-
-“And then arranged to become me.”
-
-“She arranged to enter.”
-
-“You helped erase her.”
-
-“I helped her climb.”
-
-“You could have let the guide find her.”
-
-“I could have let my mother die with a stranger while she lied to him.” Eswen turns from the rain. “Do you want that answer to change because you ask it six ways?”
-
-The question hits a skill in me. I have been varying the words, returning to the same disputed act from different approaches, listening for inconsistency. I know how to tighten an account until a witness chooses between precision and escape.
-
-“I want to know whether you murdered the person I was.”
-
-“Then you want the one answer I cannot give.”
-
-“You saw her disappear.”
-
-“I saw the water close over her head. I saw you come up with the same mole under your jaw and none of her scars. If you are Amaya, she chose this. If you are not, I have spent the night feeding a stranger because my mother told me to.” Her voice catches, and she bites down on the next word. “Stop asking me to make the two of you fit.”
-
-I pick up the letter. “She believed you could make me remember.”
-
-“No. She believed I could talk until remembering stopped mattering.”
-
-“Tell me something only she would know.”
-
-Eswen laughs once, without amusement. “So you can prove what?”
-
-“That something survived.”
-
-“My burned hand survived. Her handwriting survived. Your habit of worrying a witness survived. None of it tells me whether you held me when my fever broke.”
-
-“Tell me about the fever.”
-
-“No.”
-
-“About my husband, then. The chronology says he died—”
-
-“No.”
-
-“Did I love him?”
-
-Eswen knocks the fan off the table. It strikes the floor and splits along one rib.
-
-For several breaths, neither of us moves.
-
-Then she crouches, tests the break with her thumb, and says, “I will not give you my fever and my father and every breakfast we ate so she can pretend she paid the whole price.”
-
-Her thumb works a splinter loose from the fan’s broken edge. Under her folded shirt, the river photograph makes one stiff corner.
-
-My next question is ready: *What did she tell you before entering?* I can already hear the follow-ups behind it.
-
-I close my mouth.
-
-Eswen lays the broken fan on the table. I examine its weave. My fingers know how to splint the rib with a strip pulled from the edge, but I do not tear her property. Instead I slide the packet of photographs toward her.
-
-“Which of these are yours?”
-
-She does not answer at first.
-
-“The old copies,” I say. “Which did she take from you to make this?”
-
-Eswen pulls out four. The baby. The river. The burned hand. The last picture by the garden wall.
-
-“Keep them,” I say.
-
-“She wanted you to have proof.”
-
-“I have the chronology. I have duplicates of three.”
-
-“The river picture has no duplicate.”
-
-“I know.”
-
-Her thumb covers the note on its back.
-
-I put the other photographs with the records. “What in the canvas pack belongs to me rather than to your mother?”
-
-Eswen looks sharply at me. “That is not a distinction I can make for you.”
-
-“Then make one you can.”
-
-She drags the other stool closer but leaves the width of the table between us. “Clothes for that body. Money for a month at a boarding house. The notebooks. A key to a storage room. Medical instructions. The house is mine; she signed it to me before we left.”
-
-“So I am not going there.”
-
-“Not tomorrow.”
-
-I wait rather than give her another question to stop.
-
-At last she adds, “There is an address in the pack. Write once, if you want. I may answer.”
-
-“What should the letter call you?”
-
-Her mouth twists. “Eswen will do.”
-
-“And what do you call me?”
-
-“Tonight? Amaya. It is the nearest fact we have.”
-
-I nod and reach for the broken fan. “May I?”
-
-She pushes it to me.
-
-The reed at the edge is long enough. I peel it free, wet it in my mouth, and bind the split rib. My hands move quickly, tucking the end beneath itself. The repair is ugly but firm.
-
-“Did she know how to do that?” I ask.
-
-“Yes.”
-
-The answer hurts more than I expect.
-
-Eswen takes the fan and tests it. “She made better knots.”
-
-That, unexpectedly, does not.
-
-She lies down on the mat farthest from me and turns to the wall. I read the notebooks alone.
-
-They give me an address, balances, recipes for cough syrup, the name of a solicitor, and instructions for closing an account I did not open. They also give me a woman who hated papaya but kept accepting it from a neighbor, who postponed mending a roof for seven seasons, who could describe dishonesty in exquisite detail and her own cruelty in four words. Near the end, the handwriting shivers. Fear crowds every margin.
-
-Nothing rises in me. Not the kitchen drawn to scale. Not the dead husband. Not a single morning of Eswen’s childhood.
-
-Near midnight, sweat breaks at my hairline. The clear film is failing. The first mosquito to land on my ankle drinks before I slap it. My skin stings. I grin.
-
-My shoulders ache from bending over the table. Hunger opens in me again, abrupt and glorious. Eswen, still facing the wall, pushes a wrapped cake of rice across the floor without looking.
-
-I eat it slowly.
-
-Before dawn, I fold the records into their packets but leave the wax broken. The four photographs under Eswen’s hand remain with her. I dress in trousers and a shirt from the canvas pack. They fit the young body well enough; the woman before me had measured what she expected to become.
-
-Eswen wakes, boils water, and checks the sky. We speak only about the trail. Red ants cross one fallen tree. A slope of black clay has no good foothold. At the narrow stream, the stones that shine pale are loose.
-
-She shoulders her own pack. I take mine. The records thump against my back when I move.
-
-Mist lies over the pool. I do not go to its edge. No clothes wait under the surface, and I no longer expect an answer there.
-
-Eswen starts down the trail. “Keep close enough to hear me. I won’t keep turning around.”
-
-I follow.
-
-The renewed legs want a faster pace, but Eswen knows where the ground gives way. She calls back roots, ants, loose stone. Once she says nothing, and I catch the thorn branch she has released before it strikes my face.
-
-At the road, sunlight reaches us for the first time. Eswen points west. “A produce cart passes before noon. The boarding house is on the blue page.”
+The phrase made no picture. Braska knew what a survey was. They knew how armed people spaced themselves on uncertain ground, how long a whetstone should kiss a blade, how to tell rain by the white undersides of leaves. None of that knowledge had a first occasion.
 
 “And you?”
 
-“East.”
+“Ioshka.” She put the knife away without relaxing. “They made me guide them. You were their route-captain.”
 
-I take out the repaired fan. Eswen stares at it, then accepts it from me.
+“My name?”
 
-“One letter,” I say.
+Her jaw moved once before she answered. “Braska.”
 
-“I said you could send one. I did not make you promise.”
+The name fit no better than the palm fiber. It was something handed over because nakedness was impractical.
 
-“All right.”
+A bird gave two hard clicks downslope. Ioshka turned at the first. Braska turned at the second and knew the interval was wrong: not a bird answering, but a stone knocked under a careful boot.
 
-She goes east without looking back.
+“Low way,” Braska said. “They’ll watch the ridge.”
 
-Near noon, wooden wheels grind against the ruts. The driver slows when he sees a young woman alone with a heavy pack.
+Ioshka’s stare sharpened. “You still have that.”
 
-“West?” he asks.
+“I have the ridge.” Braska ducked beneath the roots. “Show me the low way.”
 
-“Yes.”
+Ioshka took three quick steps, then stopped and pointed rather than saying where. A mat of fern hid a narrow descent. Braska saw the broken tips left by someone passing uphill, the gray smear where a wet hand had touched bark, and two clean patches in the leaf mold. Ioshka had come this way. Two pursuers had not come this way yet.
 
-He reaches down to help me climb. I swing the pack aboard myself and take his hand only for balance.
+They moved.
 
-“What should I call you?”
+The jungle gave no straight line for long. Ioshka threaded between thorn fans and buttress roots, naming dangers only when Braska’s foot neared them.
 
-“Amaya,” I say.
+“Red stem.”
+
+Braska moved the foot.
+
+“Not that vine. It powders.”
+
+“How far to cover?”
+
+“If the rain comes, near.” Ioshka checked the sky through a ragged opening. “If it doesn’t—there.”
+
+She pointed with two fingers and doubled back around a fallen trunk. Braska followed her exact steps until the ground changed from damp black loam to stone. Then a habit, separate from decision, made them angle away from Ioshka’s prints and cross the stone on its bare ribs. Low sign. Split spacing. A hunter—or a route-captain—would have trouble counting them.
+
+Ioshka noticed. “You taught them to do that.”
+
+“Did you see me teach them?”
+
+“I saw them wait for you to choose.”
+
+“Was I their prisoner?”
+
+“Not after they took me. Before that, I don’t know.”
+
+That was not the same fact. Braska stored it anyway.
+
+At the far edge of the stone lay a cord cut clean through. One half was caught around a sapling; the other dragged toward a patch of ash. Braska crouched. The cord had been doubled and drawn into a reverse turn, easy to tighten from behind, difficult for bound hands to loosen. Their own fingers completed the absent knot in the air.
+
+Ioshka held up her wrists. Matching bruises ringed them.
+
+“Mine?” Braska asked.
+
+“Your knot.”
+
+“That’s not what I asked.”
+
+Ioshka rubbed one wrist with the heel of her palm. “You put it on. At the river fork. Later you cut it.” She nodded at the knife-sharp end. “I didn’t see what changed between.”
+
+Ash shifted under Braska’s thumb. A scale of blackened hide showed beneath it, ruled in faint squares. A map, burned where it lay. Around the patch, three trees bore recent survey nicks. Every nick had been crossed out by a second blade stroke.
+
+Braska looked back along their path. “You came to the pool after me.”
+
+“Not after you. Behind you. There’s a difference.”
+
+“You watched me enter?”
+
+Ioshka opened her mouth, then looked upslope. Her hand flattened: quiet.
+
+A branch creaked in the distance. Too heavy for a bird. Braska counted to twenty before the next sound. The pursuers were moving cautiously and losing ground.
+
+Ioshka resumed in a lower voice. “You said your head was the last map. You took my seed wallet from their stores. Then you ran. I followed because you still had it.”
+
+“And at the pool?”
+
+“You dropped the marker cord. Put both hands on the rim. Went all the way under.” Her sequence broke there. She gestured downward, fingers closing. “Then you came up, and I heard them. I put the wrap where you could reach it.”
+
+“You could have taken the wallet while I was in the water.”
+
+“I looked.” Her chin tipped toward the pale glimmers they had left behind. “I know what full water does. I don’t know how to swim through a person’s lost things without paying the same price.”
+
+Braska rose. “Shelter first.”
+
+“Now you believe me?”
+
+“Now I know what needs testing.”
+
+The rain came as a hiss traveling through leaves. Ioshka led them to a shallow shelf beneath a tilted slab. Water curtained the entrance but did not reach the dry back wall. There she unwound the cloth from her calf. The cut beneath was shallow, packed with crushed yellow pulp.
+
+“That leaf closes flesh?” Braska asked.
+
+“It slows blood. The blue-veined one closes flesh. It also stops the heart if you use too much.” She inspected the knot Braska retied around the poultice. “You pull like you expect a prisoner to test it.”
+
+Braska eased the knot half a finger. “Better?”
+
+“Less familiar.”
+
+For a while the rain did the speaking. Braska stripped fibers from a hanging vine, rolled them against their thigh, and made a line. A hook was harder without metal. They chose a fallen branch with a fork, shaved one tine against the slab’s rough edge, bent it under tension, and bound it. Their hands supplied each motion. They could not say where the motions had been learned, or on whom those knots had first been tightened.
+
+Ioshka watched from the entrance. “The wallet has six pockets. Keep it dry when you pull it out.”
+
+“What’s in them?”
+
+“Food, if the next wet season is wrong.” She counted on her fingers, not looking at Braska. “Climbing bean. Bitter squash. Two hill rices. Redroot. A gourd that holds through flood.” Her thumb found an empty fingertip and pressed it. “And a marsh reed. No. Not reed. Pepper. The reed was traded before they took me.”
+
+“Who needs them?”
+
+Ioshka looked toward the rain instead of answering. “People who don’t need a marked trail leading to them.”
+
+Fresh water coursed off the stone, carrying a sliver of charcoal across Braska’s foot. Someone had destroyed a map and crossed out marks. Someone else had first made those marks. Both sets of cuts might belong to the same hand.
+
+“The pool gives nothing back?” Braska asked.
+
+“Objects, yes, if you hook them and wait for them to dry. Then something from the last time you used each one. Hands, skin, sound. Once.”
+
+“A memory.”
+
+“A flash. Don’t make it larger. My uncle pulled his cooking spoon out and tasted burned yam from the night before. It didn’t tell him why he’d gone in.”
+
+“If I submerge now?”
+
+“You lose this morning too.”
+
+Braska finished the hook and pulled the binding hard. “We circle back when the rain stops. They’ll take the direct trail and reach the pool before dusk.”
+
+Ioshka’s attention went to the hook, then to Braska’s hands. “You’re willing to go back for seed you don’t remember taking.”
+
+“You came back while hunted. That tells me enough.”
+
+“It means I can’t leave it.”
+
+Braska tightened the last binding. “Then we go back.”
+
+The rain thinned. They left by the back of the shelf, where a fig root split the slope. Ioshka chose the first turn. Braska chose where they crossed runoff and where they stepped in it to break their scent and spoor. At a fork, Ioshka started to name the left path, stopped, and drew a short curve in the mud instead. Braska erased the curve after understanding it.
+
+They reached the pool from above.
+
+No one waited at the rim. A new marker of peeled bark gleamed on a trunk downhill: the surveyors had found the approach and were close enough to prepare their exit. Braska cut the pale strip away with a sharp flake of stone and tucked it under rotten leaves.
+
+Ioshka lay behind a root shelf, watching the trail. Braska anchored the vine around their waist and crawled to the edge. The pool still reflected a hard green sky and, at its center, Braska’s absence. Pale objects circled that empty shape as if resting on invisible ground. The image did not follow Braska’s breathing or notice the hook. Water, light, stone. Nothing in it waited to answer.
+
+The forked branch scraped a boot on the third cast. Braska drew it up, emptied it, and set it in a blade of sunlight. When the last bead vanished from the leather, the jungle dropped away.
+
+Weight struck through both soles. Mud sucked at the heel. Braska’s breath tore hot in their throat as they ran downhill, chose a root without looking, pushed off, and drove toward a slice of dark water ahead. Behind them, a man shouted, “Captain!”
+
+Then Braska was kneeling beside an ordinary wet boot.
+
+Ioshka had turned from the trail. “What?”
+
+“I ran here. Deliberately.” Braska pressed a thumb into the boot’s worn heel. “Someone called captain. Nothing before that. Nothing about why.”
+
+The second boot gave only the other footfall from the same final stride: toes cramped inside leather, the ankle turning to avoid the split stone. Braska did not pretend it was a second witness.
+
+Next came a compact coil of waxed cord from the drowned belt. As it dried, their hands filled with its working end. Left thumb held the crossing. Right hand pulled the reverse turn snug around two wrists while those wrists twisted. Ioshka’s breath was close and furious. A voice—Braska’s own—said, “Keep still.”
+
+The flash ended with the bite of fiber against their palm.
+
+Braska set the coil down. “I tied you.”
+
+“I told you.”
+
+“You did.” They took up the hook. “The knife.”
+
+The sheath came first and left the remembered pressure of a palm keeping it silent against a hip. The knife itself lay deeper. When Braska finally lifted it, water poured silver from the blade. They dried it on the sun-warmed stone.
+
+Smoke scratched the back of their throat. Their fist held the knife; the edge sawed through the survey’s taut route cord while fire consumed the gridded hide at their knee. Ioshka stood free beyond the smoke, clutching one wrist. Braska heard themselves say only, “Go low.” The last fibers parted under the blade.
+
+Again, no reason arrived with the act. No knowledge of what Braska had believed one hour earlier. Only pressure, smoke, motion, and a cord cut through.
+
+Ioshka had looked away before the flash ended. “Wallet,” she said.
+
+It glowed below the blank reflection, a small rectangular light near the belt. Braska lengthened the hook by knotting on the pool’s lost marker cord. Their fingers made the join fast, with a turn designed not to slip under a dragging weight.
+
+Ioshka caught their wrist. Her grip lasted no more than a breath. “Downhill. Two.”
+
+Boots sounded through wet leaves.
+
+The older surveyor entered first with a short spear angled across his body. A younger one followed, carrying a coil of white marker cord and a knife too clean for the mud around them. Both saw Braska and checked without being told. Their spacing opened to contain the pool.
+
+The older man’s gaze traveled over the palm wrap, the recovered boots, the knife. “Captain. Report.”
+
+Braska kept one hand on the hook line. “Name me.”
+
+“Enough.” He pointed the spear at the water. “Recover your disk. Dress. We withdraw on the marked route.”
+
+The younger surveyor saw Ioshka’s ankle behind the root. “Guide on the north edge.” His voice quickened. “I’ll take her. Captain can secure the line.”
+
+Ioshka shifted. A seedpod cracked softly under her knee.
+
+“You know I went under,” Braska said.
+
+The older man answered without looking at the pool. “I know you ran. The rest is an excuse.”
+
+“What did I destroy?”
+
+“The master hide,” said the younger one. “The final cord. Three weeks of approach marks. We can reconstruct if the guide cooperates.”
+
+The older man’s spear moved a handspan toward Ioshka. “She’s feeding you a defense. Stop.”
+
+Braska read their stance. The older man was counting on a captain’s obedience even while he denied Braska the title’s authority. The younger had taken the old formation: spear pressing center, second person closing the open side with cord.
+
+“A copy?” Braska asked.
+
+“You forbade one past the black ridge,” the younger said. “Held the final approach in your head. Sensible security until you burned the rest.”
+
+The facts locked together. After burning the copy, Braska had carried the last approach here and submerged it out of reach. Nothing in that sequence explained why they had led the survey far enough to make the map, or why they had bound Ioshka before cutting her free.
+
+“I ordered no—” The older man stopped, jaw tightening. “Captain, stand away from the guide.”
+
+Ioshka’s hand opened near the ground. Not surrender: four fingers spread toward the concealed root descent, thumb tucked. Four body lengths.
+
+The hook trembled against something below.
+
+“My wallet,” Ioshka said. “Pull.”
+
+Braska pulled.
+
+The younger surveyor lunged for the line. The older drove the spear across the path to pen Ioshka against the pool. They were fast, and they were exactly where Braska’s body had expected them to be.
+
+Braska let the vine run slack. The younger stumbled one step past its weight. Braska caught the shaft of the spear under one arm, not fighting its point but carrying its force sideways, and stepped inside the older man’s reach. Their recovered knife came free. One cut opened the marker coil at the younger man’s hip. White cord spilled around his boots.
+
+“Captain!” he shouted, more offended than afraid.
+
+Braska cut the spear’s wrist loop. The older surveyor recoiled to keep his weapon. That gave Ioshka the width of a shoulder. She slid past him, kicked the loose marker cord into the pool, and caught the hook line before it followed.
+
+“Left root,” she said.
+
+Braska moved left. The older man thrust where they had been. Braska knocked the spearhead against stone with the knife’s spine, then dropped rather than contest his strength. Their hand found the peeled-bark marker at his belt and tore the bundle free.
+
+The younger man had untangled one foot. “You released the guide. You destroyed the only recoverable route. That report carries your seal, not ours.” His words came faster as Braska stopped answering. “Return her and we can record impairment after exposure. We can still contain this.”
+
+Braska saw the disk then, pale beneath a shallow shelf. One short cast caught its thong. They drew it out while Ioshka kept the wallet’s light pinned with the other branch of the hook.
+
+The disk dried in Braska’s palm. A brief pressure crossed their knuckles: the same hand holding metal flat against a belt so it would not click while they ran. That was all.
+
+On the ordinary face, cut deep enough to survive years of handling, were the words BRASKA, ROUTE-CAPTAIN.
+
+Ioshka glanced at it. “That was on you at the river fork.”
+
+Braska tucked the disk under the wrap.
+
+The older surveyor recovered his stance. “Route-Captain Braska. Last command. Put down the knife.”
+
+The two surveyors held their open formation. Ioshka kept one hand on the hook line and the other near her knife.
+
+The hook line jerked. A small leather wallet broke the surface.
+
+Braska caught it. As water left the seams, their body gave them its single scrap: the wallet shoved beneath the belt, one hand covering it while the other cast a burning route cord into mud. Seeds clicked inside. Ioshka said from somewhere behind, “You don’t get to lose that too.” Braska’s remembered hand tightened to keep the wallet from falling.
+
+Then there was only leather, six swollen pockets, and the living Ioshka reaching for it.
+
+Braska passed it to her.
+
+The surveyors moved together. Braska threw their peeled markers into the pool, cut the remaining line at the rim, and shoved the free length after them. Pale curls sank into the empty reflection. The older man checked his advance rather than risk full submersion. That pause was enough.
+
+Ioshka dropped through the concealed root descent. Braska backed after her, knife low. The younger surveyor seized the top root; Braska cut not his hand but the vine supporting the loose screen of deadfall above it. Wet branches collapsed across the opening. Not a permanent barrier. A costly one.
+
+Below, Ioshka was already crossing the slope. “Stone channel,” she said, pointing with the wallet. “Before the runoff fills it.”
+
+Braska followed, then stopped at a forked root and dragged a fallen trunk across the upper descent. The pool remained reachable. So did the choice to enter it again and discard the morning: Ioshka’s limits, the cord burns, the disk, the smoke in Braska’s throat as the route line parted. Braska wedged the trunk until the easy path back closed.
+
+When they caught Ioshka, she held out the recovered boots. “Wear them or carry them.”
+
+Braska pulled them on. “Which side shows less?”
+
+“In the channel, none. After the red stone, south bank.” She adjusted the wallet under her arm. “I go first.”
+
+“You know the route.”
+
+“I know this part.”
+
+They entered the stone channel before the first runoff reached their ankles. Ioshka chose where to leave it. Braska came out last, lifted the fern stems she had bent, brushed grit from the red stone, and took the exposed rear while she searched the unmarked ground ahead.
