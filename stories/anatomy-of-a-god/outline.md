@@ -2,38 +2,44 @@
 
 ## Story
 
-- Central promise: Captured field medic Edras recognizes that the radiant conqueror Avarrax regenerates through the same bodily sequence as Edras's stepsister, Miora, and must turn caregiving knowledge into a reversible way to stop an execution and expose the limits beneath Avarrax's claim of godhood.
-- Character pressure: Edras wants to free the condemned villagers without killing another person or teaching their captors to persecute all regenerators; he has only ordinary medical straps and splints, minutes before the executions, and an opponent whose ego is backed by immense strength, public fear, and wounds that close almost instantly.
-- Turn: Edras provokes Avarrax into granting him a public, supposedly futile challenge, then uses the claimant's own regeneration pulse to engage a temporary surgical suspension at three fictional repair nodes. Avarrax's body stalls, but his remaining strength means the watching prisoners and guards must decide whether to keep obeying him.
-- Ending intent: The villagers act together, restrain Avarrax alive, and refuse to kneel. Edras leaves them a safe, reversible confinement procedure while withholding any broader claim about regenerative bodies; Avarrax's objective godhood remains unresolved, but his asserted invulnerability and solitary right to rule are decisively broken.
+- Premise and central promise: In a shuttered mountain sanctuary, a stranded body-worker wounds its self-declared god while resisting forced submission, then watches him rebuild. From years helping her regenerative stepsister, she recognizes enough of the sequence to test a dangerous comparison. Fulfill the reversal: she counteracts his regeneration through observed anatomy, survives, and leaves him alive rather than turning family care into an execution method.
+- Focal pressure or attachment: The narrator must recover her medical satchel and leave before rain cuts off the ravine road. She refuses to kill someone merely because his body resembles bodies she can disable. Familiarity tempts her to classify him too soon, while affection makes each clinical test personal.
+- Counterforce or complication: The god bars the outward door and wants her kneeling acknowledgment more than a quick death. Regeneration lets him spend his body recklessly, but each renewal leaves heat, imbalance, and sensory delay he conceals. He can destroy tools, alter tactics, and choose whether to resist the eventual bind. The storm supplies time pressure without a public emergency.
+- POV, distance, and information limit: Close first-person past through the body-worker. She notices gait, breath, temperature, loading, and repair order, but cannot see inside him, read motives, certify godhood, or assume his mechanism matches her stepsister's. Let inference advance through tests and corrections; remembered family experience supplies tactile context, not omniscient explanation.
+- Governing movement and time shape: A continuous retreat moves inward through the abandoned audience floor, a support-lined service stair, and a mineral recovery chamber because the god controls the exit. Each space removes ceremony and exposes a cost of renewal. Climax through private immobilization beside the basin; end on escape into worsening weather before either character makes doctrine of the event.
+- Speculative rule or ordinary-world constraint: The narrator's homeland contains unrelated kinds of regenerator. Her stepsister repairs along paired load-bearing chains; carers can temporarily stall a dangerous surge by holding those chains in incompatible orientations without stopping breath or circulation. The god differs, but visible renewal reveals an analogous offset pair. An adapted recovery bind forces his repair to maintain mutually exclusive alignments, suppressing movement until he stops fighting and the strain dissipates. It is reversible and demonstrated only for him; renewal consumes heat, water, and mineral salts but grants neither perfect stamina nor invulnerability.
+
+## Voice
+
+- Narrative texture: First-person tactical attention moves from damage to posture, heat, and load, checked by caregiving memories. Alternate comparative observation with abrupt decisions; keep violence concrete and non-graphic.
+- Conversational texture: Sparse adversarial talk occurs during motion. The god favors ceremonial certainty and status questions; the narrator uses provisional, practical distinctions. Remembered family talk stays ordinary, tired, and care-focused.
+- Rhetorical ownership: Metaphysical rank and absolutes belong to the god; conditional anatomy to the narrator. The stepsister's remembered perspective owns pain, consent, and recovery from inside.
+- Pressure behavior: Failed renewal makes the god repeat claims, fragment, then become strategic. The narrator grows less explanatory and witty, withholding answers to observe. Their fluency never converges.
+- Anti-default: Avoid a comeback duel, anatomy lecture, and triumphant pose. Make the reversal uncertain clinical adaptation under motion; express mercy through restraint and departure, not speechmaking.
 
 ## Beats
 
-1. In an unnamed temple court, Avarrax stages the execution of several villagers who resisted his rule. A hidden bolt strikes him; he tears it free and heals before the crowd, then orders the captured foreign medic Edras to kneel or join the condemned.
-2. Edras notices a ripple of heat and muscle traveling from Avarrax's ribs into the wound in a familiar sequence. A brief, concrete memory of helping Miora through a consented corrective operation establishes that regeneration sometimes must be paused so a body can be treated safely, and that recovery never made his stepsister less vulnerable or less entitled to choose what happened to her.
-3. With his weapons confiscated but his mundane splinting kit dismissed as harmless, Edras studies Avarrax's timing through taunts and one controlled exchange. He confirms three accessible repair nodes and recognizes that Avarrax relies on fear and spectacle as much as physical power.
-4. Edras calls the claimant's invulnerability a parlor trick and challenges him to withstand one unassisted attempt before his subjects. Avarrax's ego makes him order his guards aside and permit the contest, giving Edras access to the court's execution frame, straps, and counterweight.
-5. Edras feigns a losing struggle while fitting splint plates and straps against the three nodes. When Avarrax deliberately heals another minor wound for the crowd, Edras engages the plates in the sequence used for surgical suspension; the repair ripple catches on itself, the wound stops closing, and Avarrax's radiance gutters without establishing that all his power shares the same mechanism.
-6. Render the prompt's exchange in order, correcting only the obvious spelling error in `anatomy`: Avarrax asks, "You actually managed to counteract my regeneration?" Edras answers, "I don't know what your deal is, but where I am from guys like you aren't rare, hell, my stepsister is one of you. We know how to deal with your anatomy." Avarrax shouts, "What are you talking about!? I am a GOD!" Edras replies, "You have the ego of one, that's for sure."
-7. Avarrax attacks despite the stalled healing and nearly tears free. Edras cannot finish the victory alone: the condemned pull the counterweight, several guards choose not to intervene, and the crowd secures the frame, converting private recognition of Avarrax's limits into collective refusal.
-8. Edras prevents a revenge killing and explains that the suspension is temporary and must be released carefully. The villagers choose custody and judgment rather than worship or execution; Edras makes clear that Avarrax's anatomy explains how he survived, not what he deserved or whether every similar person is dangerous.
-9. As the court empties, Avarrax issues one last command to kneel. No one does. Edras prepares to write Miora that the procedure which once protected her life helped save strangers, while resolving that her body and history will not become a general hunting manual.
+1. Open after the narrator's defensive strike seems to end the confrontation. The god rebuilds, blocks the door, and treats survival as proof of rank. His returning balance resembles a recovery episode she helped her stepsister endure.
+2. Retreating across the audience floor to recover her satchel, she sees renewed tissue precede reliable coordination and catches concealed thirst and disorientation. Their talk shifts the contest toward his demand for acknowledgment and her need for observation time.
+3. On the service stair, he destroys her obvious weapon and uses self-injury to escape a hold. A restrained test reveals his load-bearing pair sits differently from her stepsister's, forcing her to abandon the first plan rather than trust false equivalence.
+4. Discarded braces show that the sanctuary manages bodily aftereffects concealed upstairs. She adapts familiar carer technique to his asymmetry; memories of her stepsister keep the work grounded in consent, exhaustion, and aftercare rather than monster lore.
+5. He drives her into the recovery chamber and uses its mineral basin to restore renewal. She uses fixed supports, salvaged straps, and his forward commitment to establish contradictory alignment. Success requires holding through one incomplete renewal, not activating a magic switch.
+6. As regeneration stalls, the promised disbelief lands through lost leverage, not preserved prompt phrasing. She offers no universal theory or ruling on divinity, only the comparison tested. He must choose between worsening the loop by fighting or lying still until it releases.
+7. She secures a reversible interval, retrieves the satchel, and leaves without worship, execution, cure, or reconciliation. The flooded road makes escape an active problem. Stop as she commits to the viable route, with the bind a bounded success rather than a permanent answer.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Edras | new | Captured foreign field medic and viewpoint protagonist; no exact, alias, close-spelling, or confusing reuse found. |
-| Miora | new | Edras's regenerating stepsister, present through a brief caregiving memory and his intended closing letter; no exact, alias, close-spelling, or confusing reuse found. |
-| Avarrax | new | Living regenerative conqueror who claims godhood and rules through power, spectacle, and fear; no exact, alias, close-spelling, or confusing reuse found. |
+| None | none | No named person proposed. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | The temple court, Edras's homeland, and surrounding settlement remain generic and unnamed. |
+| None | none | No named place proposed. |
 
 ## Continuity
 
-- Canon used: The story occupies one undated era of the shared physical world; cultures may hold incomplete models of anomalies. Avarrax is alive, so his locally bounded regenerative and radiant abilities may use living agency. Canonical godhood requires the continuing conjunction of worship, power, and authority, while gods may still have costs and constraints.
-- Boundaries and unknowns: Do not establish the era, map location, chronology, a portal journey, or a connection to any existing character, deity, faction, healing system, or previously documented self-healing person. Avarrax and Miora's repair anatomy is one new local mechanism, not universal biology or a weakness shared by gods, immortals, or regenerators elsewhere. The story should not conclusively certify or disprove Avarrax's objective godhood because the extent and continuity of his worship and authority remain unestablished. Miora remains a person whose consent and relationship matter, not an anatomical explanation or weapon source; keep the countermeasure fictional, non-graphic, temporary, and reversible.
+- Canon used: Magic, technology, and divinity are cultural labels for real underlying systems; objective godhood requires worship, power, and authority. Distinct anomalous systems may resemble or interact without sharing one origin.
+- Boundaries and unknowns: Do not confirm whether the self-declared god meets the universe taxonomy, connect the narrator's homeland to an established crossing, or generalize one countermeasure to all regenerators. The offstage stepsister's lived experience informs care and caution, not merely combat. Keep injuries broadly accessible and the technical action fictional rather than instructional.

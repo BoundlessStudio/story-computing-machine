@@ -7,392 +7,448 @@ canon: false
 
 # There Goes Your Name
 
-The fae closed its warm fingers around the sound my mother had given me, and pulled.
+The first fog came up while we were arguing over a lame ewe.
 
-Gold came out of me.
+My sister had the flock's rear, which meant she also had the mud, the stragglers, and every good reason to be cross. I was ahead at the spring, laying the back of my hand against the water to judge whether the cold rain would reach us before dark. Between us, a hundred and six sheep blurred into a long grey drag across the hillside.
 
-It slipped from the hollow beneath my tongue in a shining strand. With it went no memory I could catch: not my brother’s first steps, not the burn on my thumb from teaching him to light a stove, not the reason I had followed his footprints into an orchard that flowered under a winter moon. Yet each memory lost the little turn it had once made toward me. I knew whose life I remembered. The word that had gathered that life together now ran across the damp boards and wound itself around the fae’s hand.
+"She's putting the bad foot down," my sister called.
 
-I had offered it knowingly. When the apple branches tightened around my brother’s chest, the fae had asked what I would pay for his release. I had answered before he could bargain with his fingers going blue.
+The fog carried her voice wide. I could not see her through the sheep, but the name-call tucked my old name into the sound and sent it to me from exactly where she stood: forty paces uphill, a little west, by the scattered thorn. Name-work was useful that way. It was also useful in the way a gate-latch was useful. Nobody wrote songs to a gate-latch.
 
-The last loop settled against the fae’s knuckle. Its green skin was thin there, showing a quick, living pulse beneath the gold.
+"Bring her slow," I shouted. "We'll wrap it at the fold."
 
-“There goes your name,” the fae cooed. “Now, go ahead and pick a new one!”
+"And the lamb?"
 
-The cage opened at once.
+"With her."
 
-The branches that had pinned my brother to the orchard-house wall unbraided and drew back through the plaster. He pitched forward. I caught him under the arms, and his forehead struck my collarbone hard enough to make my eyes water.
+"You counted it?"
 
-“Up,” he gasped. “Get me up.”
+I had not. "I can see it."
 
-I did. He was lighter than he should have been after three missing nights. Bark had printed red bars along his cheeks, and one trouser leg was dark with mud to the knee, but he stood when I set his boots beneath him.
+"You can see fog."
 
-The door hung open six paces away. Beyond it, a strip of pale grass ran between two rows of black apple trees. At the far end stood the orchard gate: two waist-wide stone posts, an iron arch between them, and cold stubble fields beyond. Smoke from home fires lay low on the horizon.
+She was fourteen and had recently discovered that accuracy could be sharpened into a household weapon. I found the lamb beside its mother's shoulder, barely more than four trembling legs under a wet fleece, and waved my crook so my sister might glimpse it.
 
-My brother saw it too. “Gate.”
+"There. Save your breath for the climb."
 
-“We’re going.”
+"I'm going down."
 
-He took my hand without asking what had changed. That nearly broke me. When he had been small, he had reached for the same hand in crowds and thunderstorms. I remembered every time. The fae had taken none of it.
+"Then save it for complaining."
 
-Behind us, gold tightened softly over green knuckles.
+I turned back to the spring and found someone sitting on my pack.
 
-My old address ended there.
+The fae was no taller than my elbow to my fingertips, though its legs hung almost to the ground. It wore no shoes. Pondweed lay slick between its toes, and a spray of rowan berries was braided into hair the brown-green of water seen through peat. It had opened the flap of my pack and was smelling my bread as if deciding which season it belonged to.
 
-“His release for my name,” I said. “You have it.”
+"Move," I said.
 
-“A splendid payment.” The fae shook out the cuff of its cream-colored coat. “And now we shall make you presentable.”
+It lifted its face. Its eyes were pale and round, with no more expression in them than two drops of whey. "You have a lovely sound tied to you. Worn soft at the edges."
 
-A fan of leaf-thin slips opened between its fingers. They had been cut from dried apple leaves and pressed flat until light passed through their veins. A thread ran from the stem of each slip, over the fae’s palm, and into the same hand that held my stolen name.
+My hand went to the horn whistle under my shirt. Father had cut my old name into its flat side when I was seven, two plain syllables in cramped letters because his knife had been too broad for the job.
 
-My brother tugged toward the door. “Leave them.”
+"That's not for you."
 
-“That would be unkind,” said the fae. Its voice had the softness of fruit yielding under a thumb. “Imagine a whole road with no sound to turn your head.”
+"Oh, the whistle is hard and greasy." The fae wrinkled its nose. "I meant the other thing."
 
-“We can imagine outside.”
+It moved before I did. Two damp fingers touched the hollow of my throat, light as a moth landing. Something snagged—not in my skin, but in the direction of me—and pulled free.
 
-He pulled again. I moved with him.
+The fae sprang off my pack. It cupped both hands beneath its chin as though carrying a warm egg I could not see.
 
-The fae did not bar the door. It drifted beside us, close enough that the slips brushed my sleeve. Its bare feet left dark prints on the boards. A bruised-apple sweetness came off its skin.
+"There goes your name," the fae cooed. "Now, go ahead and pick a new one!"
 
-Its thumb stroked the first slip, and the leaf warmed to amber. “This one would make courage easy to recognize. You have earned something brave.”
+"Put it back."
 
-“If I touch it, have I chosen?”
+"That one had gone dull. Pick something green. Or round. A name with a bit of rain held in it."
 
-The fae’s smile held. “A willing touch is such a graceful answer.”
+I caught it by the wrist.
 
-I put my free hand in my pocket.
+Cold ran through my palm. Not winter cold; spring-water cold, so clean it hurt. The fae laughed and folded somehow, its wrist narrowing like a ribbon through my grip. It landed on the stone rim of the spring three steps away, still holding its cupped hands level.
 
-We reached the doorway. A pruning hook hung from a peg on the left jamb, its crescent blade spotted brown but solid, its ash handle longer than my arm. Below it sat a split basket and a coil of ordinary hemp line gone green with damp. My brother glanced at the hook. I squeezed his fingers once.
+"Give it back," I said.
 
-The fae warmed a second slip. The smell of fresh bread filled the ruined house, followed by the remembered ease of being expected at a table.
+"But you haven't even tried being without it."
 
-“I call this one beloved,” it murmured. “A name that opens faces.”
+I knew the old name. I knew how Father had said it when I had left a hurdle open, clipping the second syllable because the sheep were already in the beans. I knew my sister stretched the first when she wanted me to answer across weather. In the flock ledger, my name stood beside the winter feed accounts and the note about the north wall. It was mine in all the usual ways.
 
-“Does its thread leave your hand if I take it?”
+"I have work."
 
-“Why would I send a gift into the world without a way to care for it?”
+The fae lowered one hand to trail its fingers in the spring. The other remained closed. "Work has so many noises. Scuff, huff, clack, tear. A name gives only one."
 
-“So you keep hold.”
+Behind me, the dog gave one sharp bark.
 
-“I keep company.”
+The flock had begun to bunch. Fog thickened across the slope, swallowing the thorn and then the backs of the last sheep. I put two fingers to my mouth and whistled the dog round to the west. It knew that signal. The sheep turned downhill, shoulder pressing shoulder, wool brushing with a sound like rain in dry grass.
 
-The answer cost the fae three more steps. My brother and I crossed the threshold. The path to the gate was twenty paces, perhaps less. The moon made every thorn cast two shadows.
+"You," I said to the fae. "Stay there."
 
-My brother whispered, “Just take one. We’ll cut the string past the gate.”
+It smiled. "Which you?"
 
-His eyes stayed on the field. Fear had narrowed his world to distance: path, gate, ditch, home.
+I left it at the spring because the lame ewe was moving and my sister had sense enough to follow.
 
-“What cuts it?” I asked.
+For perhaps five minutes, that was true.
 
-His gaze flicked back to the hook.
+Then the lame ewe veered downhill past the old sheepfold, her lamb at her shoulder. The dog went after them. I stepped into the open side of the fold, driving the leaders around the dry-stone wall, and the fog closed behind them so neatly it seemed to cut the flock in two. Bells knocked. Hooves scraped. I whistled twice for my sister to tighten the rear.
 
-The fae answered for him with a delighted little breath. “Nothing need cut what may be worn beautifully.”
+No whistle came back.
 
-I looked at the glowing slip. “Can you tighten that thread once I’m outside?”
+I called her by her name. The call went to her, wherever she was, but no answer came back.
 
-“When you wander, a kind name should remind you where warmth waits.”
+"That's poor," said the fae from the wall above me. "Throwing a voice without a string."
 
-“Can you pull my body with it?”
+"What did you do?"
 
-“What a rough picture you make of care.”
+It opened its palm for a moment. I saw no written word, no glowing mark, only the faint bend of light above its skin, as if sun lay under moving water. Then its fingers closed again.
 
-“Yes or no?”
+My sister called my old name.
 
-The fae’s smile thinned. “There is no iron in it.”
+Her voice came from the wall where the fae sat.
 
-It had not said no.
+I looked up so fast the rim of my hood struck my cheek. The fae tipped its head, listening to the call arrive. It breathed across its fist and turned its wrist. My sister's second call slid left with that motion and faded toward the upper path.
 
-My brother released my hand.
+"Stop that."
 
-I kept walking. My whole body wanted to turn after him, but the fae wanted that too. I fixed my eyes on the gate and asked, “Can you speak an order through it?”
+"I carry it. That is where it goes."
 
-The fae flexed its hand. The dry leaves rasped together. “Must every sweet be crushed between your teeth before you taste it?”
+"You are carrying it. You are turning her voice."
 
-Behind us, wood scraped softly against the jamb.
+"Yes."
 
-“Would I owe you an answer when you called?” I asked.
+No shame. No threat, either. It said yes as my sister might say the ewe had four feet. I climbed the loose outer face of the wall and reached for it. The fae hopped down inside the fold, brushing past the damp noses of three ewes. They flinched because it touched them, not because they knew what it was.
 
-“You would hear me.”
+My sister called again. The fae ran toward the uphill gap, cooing the two syllables back to itself—not answering, only savoring their shape. The call followed it.
 
-“Would refusing hurt?”
+I ran after.
 
-“You are making yourself difficult to adorn.”
+The upper path climbed between heather and broken stone. It was the wrong road for the lower pasture, the wrong road for a lame ewe, and the wrong road under a sky holding that much rain. I knew all three facts. I also heard my sister's breath behind every call bent uphill, and knowledge became a poor thin thing beside it.
 
-Another scrape. Then my brother’s hand found mine again. The pruning hook lay along the back of his leg, hidden from the fae by our joined coats. He had managed its weight without knocking the blade against stone.
+The fae stayed just ahead. Now and then I saw rowan-red beads in the fog. It paused on a boulder, both hands closed around what it had taken, and offered, "You could be called moss. You step like moss trying not to be a boot."
 
-We had reached the fourth apple tree.
+"How far can she be?"
 
-The fae stepped ahead of us.
+"From what?"
 
-Its coat caught moonlight without taking on any dirt from the path. It turned, walking backward, and raised a third slip. This one shone green-gold. I smelled coins warmed in sunlight, clean sheets, pear skin, the sharp air before good news.
+"From the name-call."
 
-“This one is fortunate,” it said. “No one complains of that one.”
+"Near enough to want you."
 
-“Who receives the good fortune?”
+"A mile? Two?"
 
-“You, naturally.”
+It considered. "Not two. Two has too much road in it."
 
-“Who pays when it turns?”
+"Can she hear me?"
 
-The fae stopped. For the first time, the offered leaf went dark beneath its thumb.
+"If you make a noise."
 
-My brother bumped my shoulder. He had been watching the ground. “The roots are moving.”
+I blew the horn whistle: one long note, two short, our ordinary recall. The sound flattened in the fog, directionless but loud. I waited.
 
-Fine root tips had pushed through the grass behind our heels. They stitched the path shut one pale loop at a time. Ahead, thorn shoots lifted from both orchard rows and inclined toward one another.
+Nothing answered.
 
-“Run?” he breathed.
+The fae dangled from the boulder by its knees. "Try a softer name next. This one has been said across too many fields."
 
-“Not yet.”
+I pulled the whistle from its thong and held the carved side toward it. "My father gave me this name."
 
-“There’s nothing in front of us.”
+"Your father put scratches on bone."
 
-“Not yet.”
+"Horn."
 
-The fae folded the fan against its palm. “Your little one has the better instinct.”
+"Horn, then. It smells of your neck."
 
-“He wants the gate.”
+"He gave me the word before he carved it."
 
-“He wants you clothed in a sound he may use.”
+The fae swung itself upright. "You still have the word. Look. Say it to yourself."
 
-My brother’s grip tightened. “I know who this is.”
+I did, silently. Every sound remained where memory kept it. That did not make the fae's theft small.
 
-“Today.” The fae drew the word out like syrup. “Memory spoils. Faces alter. A fine new name would save you both the labor.”
+"He is dead," I said. "I can't ask him for another."
 
-The thought struck exactly where it meant to strike. Our mother calling from the back step. Our father marking our heights on the pantry wall and writing my old name beside the higher notch. My brother cutting its first letter into the underside of the kitchen table, then denying it with sawdust still in his hair. Every scene remained bright. In each, when someone spoke the word, the remembered sound now traveled past me toward the fae’s fist.
+The fae leaned close enough that I smelled crushed mint and sheep dung on its breath. "Dead people leave old sounds. This one drags at the end. Can't you feel it?"
 
-My steps faltered.
+Below us, the dog barked twice.
 
-My brother caught my elbow. “Ditch first,” he said. “You can fall apart in the ditch.”
+I turned. Its shape was only a dark patch in the fog, down by the fold. It stood facing downhill, ears pricked away from me.
 
-The field-side ditch lay just beyond the gate.
+The fae had followed my gaze. "It doesn't know your new sound."
 
-“Good plan.”
+"It doesn't need one."
 
-He shifted the hook between us. Its wood was real and rough against my knuckles.
+On the path at my feet, every hoofprint pointed down.
 
-The fae watched us recover. Courtesy tightened around its face.
+Not many: the narrow print of the lame ewe, the two neat punches of the lamb, and my sister's boot heel smeared through the edge of both. A strand of wet wool clung to a low juniper on the downslope side. There were no fresh marks continuing uphill except mine.
 
-“You feel the tear,” it said. “Why keep walking with it open?”
+My sister called again. Her voice came from behind me.
 
-“How do we open the gate?” I asked.
+The fae stood behind me.
 
-“The gate is open to guests.”
+This time I watched it work. It raised its closed hand as she called and drew the sound toward itself with a long inhalation, pleased as a child smelling cakes. The old name had not led me anywhere. The fae had.
 
-The two stone posts were now eight paces away. Nothing hinged between them, but a briar as thick as my forearm had grown from the right orchard row. Under the fae’s gaze it slid across the gap, passed through an iron eye set in the left post, and curled back on itself. Smaller thorn stems wove over and under it. The living braid cinched until it made a latch from stone to stone.
+"You've been running," I said.
 
-“The gate was clear when you released him,” I said.
+It smiled. "So have you."
 
-“Orchards grow.”
+I dropped to one knee beside the prints. Rain had not yet filled them. The lame ewe was setting the bad hind hoof along its outer edge, as she had in the morning. My sister had kept her on the softer ground until the juniper. Beyond it, the slope broke toward the scree channel.
 
-“You are making it grow.”
+The dog whined.
 
-The fae spread one hand. Its pulse beat visibly at the wrist. The branches above us bent with that beat, leafless tips clicking together. The dried slips in its other hand stayed limp until its fingers pressed them.
+"Go find," I told it, and gave my sister's ordinary hand-signal: palm low, two fingers forward. No magic in that. Training, meat scraps, years.
 
-“My orchard has missed me,” it said.
+The dog vanished downhill.
 
-“Will you let him cross without my choosing?”
+The fae skipped beside me when I followed. "Moss is still available. Or milkcap. You have the look of something found under a leaf."
 
-“Your bargain did not purchase my hospitality.”
+"Do you have to answer when she calls?"
 
-My brother stepped forward, bringing the hook around. “Then move.”
+"I don't answer. I turn it."
 
-The fae’s head turned slowly toward him. “You were prettier behind the branches.”
+"Do you have to turn it?"
 
-He swung the hook up between them. He did not strike. He set the blade outward, the way our father held a shovel when a strange dog came into the yard.
+The fae's toes tested a slick stone and withdrew. "No."
 
-“Gate,” he said. “Then field. Then home.”
+"Then don't."
 
-The fae backed against the right stone post. Its nostrils flared, and its soft voice lost one layer of sweetness.
+"But the way she worries your old sound is lovely."
 
-“Choose,” it told me.
+I stopped so sharply it nearly walked into me. "She's on bad ground with a lame ewe. If you send me wrong again, she may fall."
 
-It opened the fan again and thrust the leaf slips toward my chest. The green threads stretched taut from their stems to its palm. I stepped aside. The slips missed my coat, and the fae’s bare heel skidded in wet grass.
+For once, the fae did not fill the space. Rain ticked in the heather. A sheep coughed somewhere inside the fold.
 
-“What happens if I refuse every one?” I asked.
+Then the fae said, almost complaining, "I didn't tell her to stand there."
 
-“You remain what you paid to become.”
+"No. You only kept me from finding her."
 
-“And my brother?”
+It rubbed its closed fist with the thumb of its other hand. "People usually chase what I take."
 
-“Released.”
+"I did."
 
-“Can he cross?”
+"You stopped."
 
-“I have answered.”
+A thin whistle rose below us, one long note. It broke halfway through the second, ended in a breathy crack, then did not come again.
 
-“No. You changed the word.”
+My sister's reed whistle. She had mended the mouthpiece twice with thread and wax and claimed it would last the winter. It had not lasted the afternoon.
 
-My brother had edged within reach of the latch. He turned the hook and tested the briar with the back of the blade. The living thorns recoiled, then twined around the iron faster. The hook alone would not clear it. He lowered the blade but did not let go.
+The dog barked from the same direction.
 
-The fae saw too.
+I went down.
 
-“Poor thing,” it said to him. “You could have your elder properly fitted before the frost takes your fingers.”
+The fae followed without speaking. It came upright now, using hands as well as feet on the wet rock, still keeping the fist with my old name lifted away from every scrape. The slope steepened below the juniper. Grey stones shifted under brown grass, all of it slick as fat. I found where the ewe had slid: four furrows, a tuft of belly wool, blood no larger than a berry on one sharp edge.
 
-“Stop talking about my fingers.”
+"Stay high," my sister shouted. No name this time. Her voice came from below and a little east, plain direction carried by the wind when it happened to be kind. "The middle's loose."
 
-“They are bleeding.”
+"Can you move?"
 
-They were. Old branch scratches had opened when he gripped the hook, and the handle shone dark beneath his palms. He adjusted rather than let go.
+"I can. She can't. Lamb's here too."
 
-I moved between him and the fae. “You hold my old name. Tell me exactly what that lets you do.”
+"Anything broken?"
 
-At last, the fae looked tired of me. The beautiful slips crumpled in its fist.
+"Whistle. Maybe my backside."
 
-“It lets me address what I own.”
+"That will heal your manners."
 
-Its fingers closed around the golden loops.
+"Come say that down here."
 
-It spoke the old name.
+There she was: crouched on a shelf of stone scarcely wide enough for her boots, one arm braced behind the lame ewe's neck. The lamb was wedged between her knees, shivering but upright. The dog stood on a firmer lip below, looking up and refusing to climb the shifting fan between us.
 
-I knew every sound. I knew how my brother clipped the end when he needed help quickly, how my mother softened the middle when she was worried, how I had once shouted the whole of it into an empty valley just to hear the echo. All of that knowledge stayed mine.
+My sister had mud to one eyebrow and the furious, frightened look she got when fear seemed an accusation against her competence.
 
-The address itself struck the gold on the fae’s hand.
+"Don't move the ewe," I said.
 
-“Kneel,” it said. “Stay.”
+"Hadn't planned to throw her."
 
-I waited for my legs to fold. They did not.
+"I need the rope."
 
-The gold thread did.
+"You have it."
 
-It sprang from the fae’s knuckles, a bright length unwinding so fast that the loops burned red tracks across green skin. The loose end slapped the grass between us, dove toward the lowest point of the living briar, and wrapped it. Once, twice, three times. Then it tied itself into a tight shining knot around the thorn-latch and dragged that section down until it touched the earth.
+I reached for the coil at my belt and found an empty hook.
 
-The fae’s arm jerked after it. Its prepared slips scattered.
+She closed her eyes. "You left it on the gate."
 
-I remained upright.
+"I did."
 
-My brother stared at my knees, then at the knot. “It called the string.”
+"You told me to mind the gate."
 
-The fae yanked its hand back. The gold stayed low. The command held it there, fastened around the living latch.
+"Yes."
 
-“Give me the hook,” I said.
+"I was minding a sheep."
 
-My brother passed it handle-first. “That bar still goes through the left ring.”
+"Keep doing that."
 
-He was right. The name-thread had pulled the briar down but not out of the iron eye. The gate remained closed.
+The fae crouched above the scree, peering at my sister. "She's red under the mud. Like a rowan fruit dropped in broth."
 
-The fae plucked at the gold with its free hand. Its nails passed under one loop, but when it tried to lift, the thread snapped down again. Kneel. Stay.
+My sister stared at it. "Is that what stole your name?"
 
-It looked at me, and its face had gone grey around the mouth.
+"Yes."
 
-I stepped close enough to the latch to feel the thorns searching the air. “You said you owned what answered.”
+"Ugly little midden-pip. Give it back."
 
-“I do.”
+The fae drew itself up. "I am not ugly."
 
-“Then call it back to your hand.”
+"Then stand somewhere useful."
 
-The fae went still.
+I sent the dog back with the hand-signal for the fold. It hesitated, glanced at my sister, and went when I repeated it. While we waited, I tested the slope with the crook. The middle ran at a touch. The safer line curved east across a narrow band of grass, down to the dog's ledge, then back under my sister's shelf. We would need the rope for the ewe. We would need my sister to move first.
 
-My brother crouched at the right post, where the briar entered the braid. “If it pulls left to right, the ring comes clear.”
+"The lamb goes inside your coat," I told her. "Feet down."
 
-The fae gathered the loose leaf slips against its chest. “Keep away from what is mine.”
+"It kicks."
 
-I set the hook against the lowered briar and shoved until mud streaked the gold. “Or leave it there.”
+"So do you."
 
-The fae spoke the old name again. This time the sounds came sharp and bare.
+"Not when folded."
 
-“Come to me.”
+She managed it. The lamb disappeared against her belly, its nose poking between two buttons. She looked absurdly pregnant and entirely unable to laugh about it.
 
-The golden knot obeyed.
+"Left foot to the grass," I said. "Not the grey stone."
 
-Thread tore upward toward the fae’s hand, tightened around the briar, and hauled. The thorn-latch ripped backward through the left iron eye with a squeal of wet bark. The fae staggered as gold recoiled around its wrist. The living bar followed, bent in a hard arc toward the fae, and left a gap between the briar tip and the stone.
+"It's all grey."
 
-One body could fit. Barely.
+"The one with the black edge. Reach past it."
 
-“Now,” my brother said.
+She shifted. Pebbles ran from under her boot. The ewe lurched against her hip.
 
-The fae flung its free hand wide. Thorn whips dropped from overhead. I caught the first with the pruning hook and dragged it across the right post. My brother put both hands on the handle below mine. Together we leaned. The ash wood bowed; the branch shuddered against the blade. Another runner wrapped my boot and drove a barb through the leather.
+"Wait," I said.
 
-“Go,” I told him.
+"I'm waiting."
 
-“I’m holding this.”
+"You're moving."
 
-“I’ll take it. Go.”
+"The sheep is moving."
 
-He shook his head once. Immediate, furious. Then he changed his grip instead. He ducked under my arm, kept one hand on the hook, and thrust his shoulder through the body-wide opening. The stone scraped his coat. The briar tip curled toward his cheek.
+Her sentences came apart with her breath. Mine had shortened until every word seemed to have a job and resent the others.
 
-I planted my free boot against the post and pushed his back. He spilled through to the field side, rolled, and came up still holding the bottom of the hook. Its handle lay crosswise through the gap, pinning the descending thorn.
+The fae watched the stones move. "They sound like dry seeds in a pod."
 
-“Your hand,” he shouted.
+Neither of us answered.
 
-The fae seized the back of my coat. Its nails punched through wool. Its other wrist remained wrapped in gold and bent toward the latch it had called.
+The dog returned dragging the lambing rope by one loop. It had caught twice on heather and collected half the hillside. I climbed down to take it, tied one end around my waist, and threw the cleanest loop toward my sister. The first fell short. The second struck her shoulder.
 
-I let go of the hook, twisted out of one sleeve, and drove my shoulder between stone and briar. Thorns raked from my neck to my upper arm. My brother caught my wrist with both bloody hands and pulled.
+"Under your arms," I said.
 
-For one breath I was wedged at the ribs. The fae hauled on my empty sleeve. The living latch strained toward the iron eye. My brother set both boots in the ditch bank and shouted, not a name, only, “Move!”
+"Ewe first."
 
-I exhaled, turned sideways, and came through hard enough to knock us both into the frost.
+"You first."
 
-The hook clattered after us. The briar snapped back into the iron eye. My torn coat sleeve stayed inside, hanging from the fae’s hand.
+"If she goes, she takes me."
 
-We were beyond the stones.
+That was true. She threaded the rope behind the ewe's forelegs instead, working one-handed around the lamb beneath her coat. I braced on the lower ledge and took the weight while she urged the ewe across. The animal placed its sound hoof, dragged the sore one, and tried to turn back. The dog dropped flat where she could see it. My sister pressed her shoulder to the ewe's rump.
 
-My brother crawled farther down the ditch before he stopped. I followed on one knee, dragging the hook. The field grass bent under our weight and did nothing else. Behind us, every orchard branch had gone motionless. The fae stood between the posts, breathing hard, its living hand still tangled in gold.
+"Easy," she said. "No, not there. Here. That's grass. Put your stupid foot on it."
 
-“Come back within the gate,” it said. Its coo had returned, though it shook at the edges. “Take one suitable name, and I will put the first where it was.”
+The ewe listened to pressure, footing, and the dog's stillness. She did not need a name. She reached my ledge trembling. I lowered her to the dog, who stood and kept her from turning uphill.
 
-The old loss opened in me at once. I wanted my mother’s call to reach me again. I wanted the pantry marks, the kitchen table, every letter on every old scrap to point home instead of here. Wanting it made the next breath hurt.
+My sister worked the loop free of the ewe and passed it under her own arms. Then she crossed with the lamb. Halfway, the black-edged stone rolled. Her left foot went out.
 
-My brother found the back of my shirt and held on.
+She did not call my name. She said, "Rope!"
 
-“What do I have to touch?” I asked.
+I dropped my weight backward. The line snapped tight under her arms. She struck the slope on one knee, showering us both with shale, but her right boot found the grass band. I hauled while she crawled. The lamb bleated once from inside her coat, offended but alive.
 
-The fae lifted one leaf slip. A green thread ran straight from it into its palm. “Only this.”
+When she reached me, she pushed the lamb into my hands and sat down hard.
 
-“And you keep that thread.”
+"You took your time," she said.
 
-“I would keep you from being lost.”
+"I went uphill."
 
-I looked at its fist around my torn sleeve, at the gold wound into its skin, at the briar already curling toward the iron eye again.
+"Why?"
 
-“No. I won’t come back.”
+I looked at the fae. It had come down to the shelf we had left and was tracing the ewe's blood-speck on the stone with one damp finger.
 
-“You miss it.”
+"Because it moved the call," I said.
 
-“Yes.”
+My sister wiped mud from her eyebrow and made the smear worse. "You always say calls make people lazy."
 
-Beside me, my brother whispered, “Can I say it?”
+"I do."
 
-I knew which word he meant. He waited with his fingers locked in the back of my shirt.
+"You were right, then. That's annoying."
 
-“Once,” I said.
+"Get up."
 
-From the safe side of the ditch, he spoke my old name.
+She got up.
 
-The sound passed me.
+We brought the ewe and lamb back by the long lower curve. The rain arrived properly, needling the backs of our hands and turning the dog's coat black. Behind the fold wall, the flock had divided itself according to no scheme useful to us: yearlings in the corner meant for ewes, two rams nosing the broken hurdle, and one lamb perched on the feed stone as if supervising.
 
-A narrow gold gleam ran over the frost, climbed the left gatepost, and entered the orchard. It traveled along the captured thread until every loop around the fae’s hand shone. For that heartbeat I heard my whole house using the name: irritated, fond, sleepy, frightened, ordinary. My throat closed. I pressed my scratched hand to my mouth and let the grief have its full weight.
+My sister took the far wall. "Let's see where the old one sends me now."
 
-The light faded on the wrong hand.
+She called my old name. Her voice came from the fae under its dock leaf instead of from her.
 
-My brother leaned his head against my shoulder. Neither of us apologized.
+"Still broken," she said.
 
-We left the fae standing behind the latch.
+"Mine, not yours."
 
-By the time the moon set, the orchard was a dark seam behind the fields. We kept off the road until the grass gave way to a dry drainage hollow. There my brother made me sit. He tore the loose hem from my shirt and wrapped the cuts across my shoulder while I bound his palms with the least dirty pieces of my coat lining. He carried the pruning hook afterward because my left arm had begun to stiffen.
+The fae sat on the wall under a dock leaf, keeping one fist closed. "Broken is harsh. Empty has more room in it."
 
-Morning found us on the last rise above home.
+"Give back the old one," my sister said.
 
-Roof smoke lifted through the bare trees. A cart creaked somewhere on the road below, and a dog barked itself hoarse at nothing we could see. My brother’s bandages had gone rusty at the palms. He kept shifting the hook from one shoulder to the other, too stubborn to admit its weight.
+"No."
 
-“What do I call you at the door?” he asked.
+"Why not?"
 
-The question was practical. Our father would open it. Our mother would pull us inside. They would need some sound that reached me.
+"I like how it has been used."
 
-I tried several under my breath as we walked. One caught on my sore jaw. One belonged too clearly to an old neighbor. Another had the same honeyed finish as the fae’s prepared leaves, and I spat it into the grass.
+My sister took one step toward the wall. I caught the back of her coat.
 
-Then one sound stayed with me for three steps without tasting of the orchard. No hand held it ready. No thread showed at its edge. I could keep it between my teeth or offer it.
+"Leave it," I said.
 
-“Sivren,” I said.
+"I'm not leaving it. I'm knocking it into the nettles."
 
-He glanced over. Dawn showed every scratch on his face.
+"We have a lame ewe, a wet lamb, and a gate that won't hold."
 
-“Again?” he asked.
+"Also that."
 
-“Sivren.”
+"The gate first."
 
-He nodded, testing the weight rather than pretending it was familiar. We took another dozen steps. The old grief kept its place. The cart below hit a rut, the dog kept barking, and my brother nearly dragged the pruning hook through a patch of stones.
+She gave the fae a look that promised future nettles and went to lift the dropped hurdle. I stood in the rain with Father's whistle against my chest and listened to the flock shove and mutter. My old name was not empty of use. It belonged to his voice, to my sister's, to the cut letters under my thumb. The fae could keep carrying the bent call for now. It could not take those.
 
-“Sivren, take this thing before I drop it on my foot.”
+But my sister still needed a sound that would reach me straight when the weather hid us.
 
-I took the hook from him with my good hand, and we went down the hill toward home.
+At the spring, long pale sedge bent under the rain and rose when each gust passed. We cut it every winter for bedding. Its roots held the black edge of the bank where sheep would otherwise punch through.
+
+Nothing truer than that. Something useful.
+
+I went to the fold entrance where my sister could see me. "I'll use Sedge."
+
+She stopped with the hurdle against her shoulder. "You will?"
+
+"For calling."
+
+"All right."
+
+"Say it back. Mean me."
+
+Her face tightened with concentration. She had known me all her life, which did not prevent her from doing things badly on principle. This she did carefully.
+
+"Sedge," she called.
+
+The sound reached me from her place at the far side of the fold. Not louder. Not sweetened. It came through rain and milling sheep with its direction clean inside it.
+
+The fae opened both hands. A bend of light remained above the palm that held my old name; the other palm was bare. It laughed, delighted rather than defeated.
+
+"One weather-stem," it said. "And one old bell-sound."
+
+"Are you keeping the old one?" I asked.
+
+It tucked its closed fist beneath its chin. "For a while."
+
+Then it dropped from the wall into the fog. Rowan berries flashed once and were gone.
+
+My sister set the hurdle back into its sockets. "Sedge."
+
+"What?"
+
+"Nothing. Trying it."
+
+"Try it while you sort the yearlings."
+
+She went left. I went right. The dog brought the first six through the narrow gate, and for several minutes there were only wet backs, reaching hands, the knock of wood, and my sister telling a ram exactly what she thought of its mother.
+
+Then her voice found me cleanly from behind the flock.
+
+"Sedge, your side!"
+
+I turned in time to block the lame ewe from following the yearlings through. Her lamb squeezed under my arm. My sister laughed once, breathless, and shoved the hurdle closed.
+
+"Wrap that foot," she said. "Rain's getting in."
+
+I reached for the wool bandage in my pack. "Count the lambs first."
+
+"I already did."
+
+"How many?"
+
+She held up both muddy hands because she knew I hated waiting while she counted on her fingers. The dog shook rain across my legs. Somewhere beyond the wall, the fae made a small pleased sound, or perhaps it was only water slipping under the stones.
+
+My sister got to one hundred and six. We started again to make sure.

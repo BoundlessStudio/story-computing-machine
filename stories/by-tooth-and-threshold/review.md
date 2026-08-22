@@ -6,13 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing person proper nouns. |
+| Dev Kaylor | new | No exact, alias, close-spelling, or confusing reuse found in canon, the frozen baseline, locked legacy prose, or passing current inventories. |
+| Audra Liske | new | No exact, alias, close-spelling, or confusing reuse found in canon, the frozen baseline, locked legacy prose, or passing current inventories. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper nouns. |
+| None | none | No named place appears in the story. |
 
 ## Continuity
 
@@ -27,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: “No one else sees me change” consistently permits the narrator’s private witness while excluding outsiders. The left-sided wound and orange cord, clothes bag and dressing, porch/sill geometry, wrong-wind scent trail, same-person voluntary change, sister’s protective choices, and debt-only ending remain causally coherent.
+- Notes: The 6:14–7:44 action spans exactly ninety minutes; Audra’s voluntary seventy-second changes, preserved injury, second-change cost, transmitter limits, and bounded debt remain causally consistent without romance, pack bond, ownership, or servitude.

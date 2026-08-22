@@ -8,295 +8,508 @@ canon: false
 
 # The Apes Above
 
-The first piece of the human station entered the session before Ketta’s motion did.
+The fragment would not lie flat in the council well.
 
-It rattled down a rain channel in the Stone Choir, leaped the lip above the Fern Basin bench, and came to rest against the raised word *fatalities* on Ketta’s slate. She pinned it with one blunt foreclaw. The thing was smaller than the last joint of her toe, blackened on one face, with a curl of silver insulation baked into the other. It was still warm from lying in the sun. That did not stop three councillors from leaning away from it.
+Qemri set one foot against its blackened curve while two porters worked the sling loose. The thing was no larger than a sleeping egg, but its weight bowed the map tiles beneath it. White packing fibers clung to one scorched edge. On the other, a row of metal sockets had melted into small silver mouths.
 
-Ketta drew a hard zero beside *fatalities*. Above it, she had already entered three nursery roofs opened, eleven heat pipes cracked, one irrigation trench lost, and six clutches carried to uncertain ground. A zero could close a column. It could not mend anything in it.
+Grit kept falling from the folds of her hide. She had left the south hatchery while the roof was still ticking itself apart, and every time she moved, another pinch of that place landed on the council floor.
 
-Through the central opening of the chamber roof, a pale point moved across the blue. One of the human habitats. The humans had abandoned Earth for their stations so many generations earlier that their launch towers had become vine-filled escarpments, but their descendants still crossed the sky on paths predictable enough for calendars. The lowest station was no longer predictable enough for comfort. Seven times in forty-one days, pieces of it had entered the atmosphere.
+“Put the basin under it,” Sulekk said.
 
-The clock attendant fitted a red marker into the outer groove of the impact dial: ninety minutes until the seventh load reached air dense enough to break it.
+The map keeper dragged the floor image eastward until the old blue contour of the basin shone around Qemri’s claws. The fragment covered six nesting blocks.
 
-At the center of the Dino Council’s chamber, the long-necked chair lowered his head from the attendance balcony. The descent took long enough for the clerk to finish disputing whether the marsh delegation’s three heads occupied one seat or merely obstructed three.
+“That is not its full body,” Qemri said. “That is what came through the heat gallery.”
 
-“Fern Basin,” the chair said when his mouth reached speaking height. “Your emergency motion.”
+Across the well, a road councillor leaned over the rail. His tail displaced a stool, which struck the water steward’s ankle. Neither looked down.
 
-Ketta pushed herself up. The hadrosaur-built bench released her hips with a damp wooden complaint. She let her tail club settle into the aisle groove reserved for members whose arguments extended behind them.
+“The gallery stood after the strike,” he said.
 
-“I move that the next Upthrower slot be used against the lowest human station.” She slid the fragment onto the speaking ledge. “Its intervals are shortening. Our hatching migration begins in nine days. We will stop further releases before then.”
+“For eleven breaths.”
 
-Othrik rose at the defense bench. The old repairs across the ceratopsian’s frill were paler than the bone beneath, a useful record of the occasions when shelter had meant his own body. “Second.”
+The chamber doors scraped open. A hatchery messenger squeezed through sideways, one forelimb strapped to his chest. Plaster whitened his snout.
 
-The chair turned one eye to the clerk. “Is *against* an admissible trajectory?”
+Qemri stepped off the fragment. “How many?”
 
-“It lacks a terminal condition,” the clerk said.
+“No crushed eggs. Two carriers burned. The west loop cracked where it joins the warm-water trunk.” He looked at the water steward, not Qemri. “We need the reserve carts now.”
 
-“Councillor Ketta, supply one.”
+“They’re loading.”
 
-“Put a penetrator through the ballast mechanism. Disable its ability to throw anything else.”
+“We need them moving.”
 
-The chamber flared with incompatible definitions of *disable*. A sauropod requested that any shot pass above neck height; the clerk asked which neck, and the chair ruled his own anatomy inadmissible as a weapons standard.
+The steward slapped the call plate with her palm. Somewhere beyond the chamber, a bell answered. That was the only agreement the room had managed since Qemri arrived.
 
-Ketta kept her feet planted. The chamber had been cut among natural basalt ribs that returned low sounds to the floor. Every objection trembled faintly through her belly. So did the impact clock when the attendant advanced it one notch.
+Above the map well, the descent clock changed from ninety-one minutes to ninety.
 
-“The target is the release assembly,” she said over the hum. “The destination is the station. The result is no eighth load.”
+Qemri looked at Sulekk. “Release the coil.”
 
-“The result is not in evidence.” Pellik spoke from the skywatchers’ gallery.
+The chair’s crest was scarred at the tip from years of ducking beneath doors designed by smaller ancestors. She did not sit. No one could have fitted properly around the well with the fragment in it anyway.
 
-She came down the narrow steps with a stack of waxed plots braced between her feathered forearms. Horned councillors had to turn sideways to let her pass; Pellik did not. She placed her first plot over the clerk’s unfinished basking-stone appropriation.
+“Brinnt first,” she said.
 
-The chair inspected the clock. “The skywatcher was scheduled after drainage.”
+The defense engineer had already unrolled a copper mesh across the floor. They pinned two corners with tool cases and held the third beneath a rear foot. Points of red light multiplied over the basin, hopped the ridge, and spilled across the three nesting terraces to the north.
 
-“The load enters before drainage will be reached,” Pellik said. “I request priority because the strike motion assumes the wrong direction of throw.”
+Qemri’s bad shoulder tightened. “That spread is wrong.”
 
-The clerk moved drainage down one line. Pellik set three more plots side by side.
+“It was wrong last meeting.” Brinnt touched the fragment with a probe. The red points shifted again. “Now I have the shell laminate.”
 
-On each, Earth was a dark circle scored with altitude marks. Around it ran the lowest station’s orbit: high on one side, low enough on the other that the atmosphere worried at it. Short arrows marked the moment each piece had left. All seven arrows pointed behind the station, opposite its travel.
+“The coil breaks it in the upper air.”
 
-“They are not pushing rocks down,” Pellik said. “They are throwing them backward. Each discarded load loses forward speed and drops into thicker air. The station receives the equal forward push. Because the releases occur within the same narrow part of its orbit, the next measured low point rises.”
+“The center, yes. The jacket strips. These fibers make wide pieces, and the guidance block makes fast ones.” Brinnt pointed at three dense red clusters. “North terrace. Water stairs. Your east shelter mouth.”
 
-Ketta tapped the seventh arrow. “By how much?”
+The water steward stopped calling for carts. “How fast?”
 
-“After the first release, enough altitude for nineteen days at the drag we measured then. The sixth bought twelve. The estimate for this one is nine to fourteen.”
+“Fast enough that you don’t send carts through there.”
 
-“Why less?”
+“They have to cross the stairs.”
 
-“By the time it needs the next release, its low point is lower than after the previous one. Drag increases there. The loads are also smaller.”
+“Then they cross before we fire.”
 
-“Can the humans correct the orbit without shedding mass?”
+Voices rose around the well, not in one wave but in collisions. The road councillor wanted the north ramp reserved for egg sledges. The granary member needed that same ramp for draft teams. Someone at the rear asked whether the old tunnel still had lamps. It did not. The messenger said the south hatchery had lamps and no brackets to hang them from.
 
-Pellik separated two feathers and looked at the line through them. “No thrust plume we can distinguish from venting. No measured correction larger than our tracking error. That supports *cannot*. It does not prove it.”
+Qemri planted both forefeet on the well rim. “Quiet.”
 
-Ketta did not allow the phrasing to pass. “Confidence.”
+Several councillors kept talking. She struck the melted metal with one claw. The note rang low enough to be felt through the floor.
 
-“Seventy-eight percent that the releases are principally keeping that one habitat aloft. Fifty-six that its main drive is unusable. Those are different claims.”
+“North terrace clears first,” she said. “No carts on the water stairs after sixty minutes. Open the old tunnel and carry lamps. Messenger, tell my crews the east shelter is closed.”
 
-Othrik descended from the defense benches, careful not to turn his horns through the neighboring delegation’s writing frames. “Your percentages do not change the ground track.”
+“They’re using it for the injured.”
 
-“No,” Pellik said. “This load is already committed. Forty-three tonnes before breakup, plus or minus three.”
+“Move them.”
 
-“And where have the apes committed it?” Ketta asked.
+“Where?”
 
-Pellik unrolled a surface map. Six long fall regions crossed sea, forest, salt flats, and the outer shelves of Fern Basin. The last three narrowed toward an uninhabited bowl in the southern uplands. The seventh region was drawn in fresh red: its densest center covered Quiet Caldera; its ragged northern end crossed the Stone Choir.
+Qemri saw the heat gallery again: the roof seam unzipping through steam, carriers bent over their sling while she counted the distance to a doorway that had ceased to be there.
 
-The clerk read the labels aloud for the record. “Probable main-body destination: Quiet Caldera. Fragment corridor: south ridge through the council precinct.”
+The messenger waited.
 
-Quiet Caldera held neither settlement nor standing water. Surveyors used its cracked floor to test instruments because there was no one there to complain when an instrument failed noisily.
+“Kiln cellar,” she said. “Take blankets. It’s dry and cold.”
 
-Ketta pressed the scorched pebble against the mark for Fern Basin. “Release five put six tonnes outside this outline.”
+He pushed back through the doors.
 
-“Our tracking began after breakup on that pass,” Pellik said. “The revised model includes the fragment that struck your district.”
+Sulekk watched the red fan crawl over the map. “If the terraces clear?”
 
-“Does the model say they chose the caldera?”
+“Full discharge fragments the object,” Brinnt said. “Probably.”
 
-“The chance of three main masses clustering there by unguided release is under four percent.”
+Oxaul, who had been coiled awkwardly beside the instrument arch, lifted his narrow head. “That probability assumes the same shell.”
 
-Othrik shifted until the tip of his forward horn covered the red fringe over the chamber. “The chance of a fragment entering this roof?”
+Brinnt did not turn. “It assumes an object in the mass band you gave me. If you changed that, say the number.”
 
-“Between one in eleven and one in twenty-six. Wind aloft is changing faster than the last sounding.”
+“I refined it.”
 
-“Then aiming is not control.”
+“Say it.”
 
-“Correct.” Pellik did not defend the absent humans. “A pattern can indicate a choice. It cannot tell us who made it, what they value, or whether they accept the fragments.”
+“Twelve percent heavier.”
 
-Ketta looked through the roof opening at the low station, now almost lost in daylight. “They have not answered radio.”
+Brinnt swept the red model away with a hard motion and began resetting it.
 
-“Nine radio bands and two seasons of mirror sequences,” Pellik said. “No reply separated from machine traffic. We do not know whether they hear us, or whether one station could answer for another. We do not know whether the people on this one agree.”
+Qemri crossed the well before Oxaul could retreat into qualifications. “You had twelve percent when?”
 
-The clock attendant moved the marker. Sixty-eight minutes.
+“Seven minutes ago. The latest range burst resolved the tumble.”
 
-Ketta drew a box around Pellik’s four-percent figure. “Enter this as possible effort to miss. Do not enter it as restraint.”
+“And you brought it here in your mouth?”
 
-The clerk’s stylus scratched. “Possible effort. No credited restraint.”
-Before the clerk could prepare the first comparison slate, Pellik’s receiver snapped twice. The red fringe on her surface map widened north.
+Oxaul’s throat feathers flattened. “The trace station is still recording.”
 
-“Upper-air wind update,” she said. “The hot fragment track now crosses the eastern roof with one chance in nine.”
+“Then we go to it,” Sulekk said. She glanced at the clock. “Eighty-four minutes. Water and roads stay here. The rest of you, carry the mesh and cases.”
 
-Othrik was moving before the chair could recognize him. He drove the defense bench backward with his shoulder, opening a route to the western ribs. “Clear the east third. Small bodies first. Anyone who cannot fit under a bench goes behind a frill or a plate.”
+The trace instruments occupied an alcove built when the council had believed one polished lens and a patient observer could answer every orbital question. New frames had been bolted around the old stone. Cables crossed the floor under rubber humps. Qemri stepped over them; Brinnt did not, but pulled up each hump to inspect the cable beneath before placing a plated foot.
 
-The chair lifted his neck clear of the route. “Emergency conduct supersedes debate. The strike motion remains pending.”
+Oxaul climbed onto the operator’s ledge. He used both hands and his chin to align three transparent sheets over the main screen.
 
-For the next fifty minutes, the Council became a badly assorted shelter crew. Duck-bills worked the warped roof winch. Long-necked members passed brace poles over everyone else. Ketta used her tail club as a stop while attendants shifted the Fern Basin bench beneath a basalt rib. No one proposed equal-length poles after the first one became trapped between Othrik’s horns.
+“These are the last nine descents,” he said.
 
-Pellik spread her plots on the cleared floor and updated them as the southern watch called heights and speeds. Ketta made her answer while they worked.
+Nine pale arcs bent from the belt of moving lights overhead toward the same mark on the ground. The first six ended in a blue basin. The seventh ended at its southern lip. The eighth was the black thing in the council well.
 
-“Full station mass.”
+The ninth kept drawing itself, bright grain by bright grain.
 
-“Ninety-one thousand tonnes at the lower bound. Occupancy unknown.”
+Qemri pointed to tight combs of light along each arc. “Those.”
 
-“If my penetrator breaks the release assembly?”
+“Range bursts. The object calls; the stations measure the return.” Oxaul slid the upper sheet. “Here are steering commands. Not many. Small corrections after release.”
 
-“It stops that assembly. It may also remove their last way to slow the decay. I cannot bound the breakup path without its internal structure.”
+“Human commands?” a councillor asked behind them.
 
-Othrik wedged a brace beneath the eastern leaf. “Its descent is already hastening. We have two diverting darts for the next load, provided skywatch calls it thirty-two minutes before entry. Those protect Fern Basin and this chamber, not everything between.”
+“Human transmissions from the stations. The transponder and cold-gas valves on the object obey them. Nothing in the object decides.”
 
-The wall radio brought an answer from the Upthrower. One full-energy insertion remained in the seasonal alignment. The ready penetrator weighed two point six tonnes. An instrumented counterweight would weigh seven point one and could be placed twenty-four lengths behind and outward from the station with no closing path for six days. Either shot required removing Fern Basin’s survey package from the cradle. There would be no second orbital launch before the hatching migration.
+Qemri had seen one of those valves in the hatchery mud, still frosting the grass after everything around it had burned. Metal, fuel, wire. Dead things could travel very far when a living hand let go.
 
-Ketta braced harder against the bench. Five seasons of bargaining sat inside that last sentence: the warm-shelf map, the western wall scan, the date she had given every nursery circle.
+Oxaul brought up a second pattern: launches, evenly spaced, each paired with a dim movement in the orbital band. “They strip shielding from the stations, compact it, and throw it backward. The throw changes station speed. The ballast goes down.”
 
-“Can the counterweight make them understand?” she asked.
+“At us,” Qemri said.
 
-Pellik marked a fresh observation. “It can put our signal at their hull with better than ninety-nine percent energy confidence. Understanding is unknown. A changed release afterward would be measurable.”
+“At this coordinate.” His claw circled the basin. “It was empty when their surface maps were made. I’m moderately confident the targeting record is old.”
 
-“A message consumes our only reach,” Othrik said. “A strike changes what can fall next.”
+“How old?”
 
-“And ninety-one thousand tonnes after that?” Ketta asked.
+“I can’t date a record I cannot read.”
 
-“Still above us.” He bore down on the brace as the roof leaf groaned. “So is the next forty-three. I choose the threat I can force onto a schedule.”
+“Then what changed on the seventh?”
 
-The warning drum began at fifteen minutes. Whatever motion survived would have to survive the rock first.
+“A steering pulse, late. It moved the fall by four hundred body lengths.”
 
-At eleven minutes, the three-beat entry warning rolled through the basalt. Pellik climbed onto the clerk’s table so she could see the radio board over the backs and frills below.
+“Away from the old center,” Sulekk said.
 
-“Forty-one tonnes remain on the central track,” she said. “Two or three tonnes have separated. The main body is south of the ridge line.”
+Oxaul shifted the sheets. “Toward it at first. Then the tumble complicates—”
 
-Othrik did not ask whether that was good. “Northern fragments?”
+“Which way did it move?” Qemri asked.
 
-Pellik watched a new mark burn into the board. “One hot return. Confidence too low for size.”
+He looked again. “Away.”
 
-“Close the roof. Everyone under rated stone.”
+“The eighth?”
 
-The chair accepted the command as an emergency interruption. Attendants shoved the two slate leaves across the central opening. They had been built to turn rain, not orbital debris; each slid in a groove between basalt ribs and met badly in the middle because the eastern leaf had warped. A chorus of species-specific advice did not improve the fit.
+“No late pulse.”
 
-Ketta stayed at the speaking ledge until the clerk collected the exposed records. “Leave the strike motion,” she said.
+Dust rasped between Qemri’s teeth. “So one ape looked down once.”
 
-“It is not rated stone,” Othrik said.
+“No.” Oxaul’s answer came cleanly, surprising them both. “A command changed one course. I don’t know what was seen. I don’t know who sent it. I don’t know why.”
 
-That changed where she stood. Ketta carried the motion under the nearest rib, lowered her belly, and backed over the clerk’s low desk until her shell covered both clerk and records. The clerk tucked her stylus harness flat. Small-bodied members went beneath benches. Ceratopsians faced outward and made the space behind their frills available. The chair threaded his neck twice around one basalt rib and still had to leave his head under a different one.
+The newest arc brightened across the screen. Its predicted end lay through the south hatchery.
 
-“Main body crossing the caldera rim,” Pellik called. “Impact in twelve.”
+“But that is where this one is going,” Qemri said.
 
-Ketta counted the last six by the floor, not Pellik’s voice. The Stone Choir received distant events through its foundations before sound reached its roof. At zero, a weight struck the soles of Ketta’s feet and climbed into her jaw. Dust sifted along the rib above her. Far south, forty-one tonnes had met empty ground.
+“At present confidence, yes.”
 
-“Quiet Caldera,” Pellik said. “Inside the western rim. Twenty-seven lengths from modeled center.”
+Brinnt shoved a tool case under a rocking instrument foot. “Give her the spread, not your confidence.”
 
-Several members began to unfold.
+Oxaul touched the control. A brown oval opened across the map, its narrow end covering the hatchery and its wide end reaching the warm-water ponds.
 
-Othrik’s bellow flattened them again. “Northern return still live.”
+Qemri measured it by crews. Roof team in the south gallery. Six sledges on the west loop. Two injured in motion toward a cellar she had not inspected in three seasons. The oval held all of them.
 
-The eastern roof leaf flashed white. Something punched through its sloping edge, tore a handspan of slate into the chamber, and crossed above the empty defense bench. It struck Ketta’s speaking ledge, drove her motion tablet against the basalt, and buried itself halfway into the aisle groove with a burst of hot gray dust. The little pebble shot from the ledge and vanished among the chair’s feet.
+“Can they hear us?” Sulekk asked.
 
-For a few breaths, the Stone Choir held only the ticking of cooling metal. No one screamed. Ketta lifted enough to let the clerk crawl out and start a count.
+The room changed around the question. Necks came up. Even Brinnt stopped bracing the instrument.
 
-Othrik was already moving benches beyond the new roof line. “Eastern third stays empty. Two braces under the leaf. Marshal crews only.” He shoved his shoulder beneath a fractured support until attendants wedged a stone prop beside him. “Report injuries by location, not volume.”
+Oxaul rubbed one wrist against his chest. “Hear is not the word I would choose.”
 
-The count found a cut crest, two pinched tails, and one feather fan scorched at the tips. No deaths. The clerk transferred those facts to the surviving margin of the attendance slate.
+“Choose a shorter one.”
 
-Pellik approached the thing in the aisle only after its glow faded. It was a twisted piece of structural metal packed around stone, one surface melted smooth and another threaded with the same pale insulation as Ketta’s pebble. Pellik held a heat gauge near it.
+“Their receiver measures returns. We can make returns.”
 
-“Mass after entry, perhaps eleven kilograms,” she said. “The upper track separated at thirty-six heights. Wind carried it north of the central body. The frame alloy and insulation match the earlier loads: consistent with ballast structure, but not proof of motive.”
+He called up the recovered guidance fin on a side display. Its wires had been separated and labeled. Beside it sat the plain timing pattern of the human range bursts.
 
-Othrik kept his shoulder against the roof support. “The central body missed every settlement. This one entered the Council.”
+“Three portable beacons can echo this pattern,” Oxaul said. “Two from opposite edges of the occupied basin, one from the empty quarry. The delays mark two locations. Repeated, organized receivers. It would not identify us. It would not say stop.”
 
-Pellik’s throat feathers shook once before she pressed them flat. “Both observations remain true.”
-
-The clerk recovered Ketta’s tablet in two pieces. The fragment had broken it through the destination line. One half read *release assembly*. The other held the first digits of the station’s mass and nothing below them.
-
-Ketta fitted the halves of her slate together. Her motion had assigned the penetrator a target and the station a verb. It had assigned the station’s mass nowhere. The central body’s accuracy did not move the eleven kilograms out of the aisle.
-
-Ketta made her put the station estimate on the unbroken back of the slate: ninety-one thousand tonnes at the lower bound, a hundred and six thousand at the center. If the strike opened the frame or started a tumble, Pellik’s models put between eight thousand and thirty-eight thousand tonnes on the surface, scattered across tracks too broad for Othrik to clear.
-
-“Can my shot make any of that mass cease to exist?” Ketta asked.
+“Would it say the quarry is safe?” the road councillor asked.
 
 “No.”
 
-Othrik heard while helping a crew lever the cracked roof leaf onto a second prop. “The next load will not cease to exist either. Do not let one hole choose for you.”
+“Then why put one there?”
 
-Ketta slid her tail beneath the fallen edge of the speaking ledge and lifted while two smaller councillors pulled the clerk’s records free. “The hole supplied a missing destination.”
+“Because two points are a line. Three points show a choice of ground.”
 
-“Then give me a day to evacuate what I can and strike on a caldera pass.”
+Brinnt interrupted. “If the pulse reaches orbit.”
 
-“Your failure track crosses a hemisphere.”
+Oxaul glanced at them. “The beacons need amplification.”
 
-“And their successful track crossed this room.” Othrik shoved the last record box clear, then lowered his dusty frill. “I still recommend the strike.”
+Everyone looked toward the defense controls beyond the next arch.
 
-He did not pretend his plan was clean. Ketta could not pretend hers had been complete.
+The coil’s storage bank showed one full white bar.
 
-She found the black pebble under the chair’s rear foot, dropped it into the sand bucket with the new fragment, and handed her broken motion to the clerk. “Withdraw it. Keep the session open by field radio.”
+Brinnt closed the tool case. “Full fragmentation or a full-strength echo. The same charge feeds both.”
 
-The chair was directing long-necked members out through the one entrance that did not require them to pass beneath the damaged leaf. “A replacement must return with mass, destination, displaced work, and a defense provision.”
+“You said three beacons,” Qemri said to Oxaul. “Not the coil.”
 
-Ketta and Pellik left for the Upthrower with the sand bucket strapped to a cargo sled. Othrik took the opposite road beside four slab wagons, two bound for Fern Basin nurseries and two for the Stone Choir. His crews had begun work before his motion existed.
+“The beacons shape and time the return. They cannot drive it through the upper air.”
 
-At the launch cut, the survey package was already locked to its cradle. Its folded lenses would have mapped the basin’s warm shelves and the water-eaten western wall before the clutches moved. Beside it lay a dense calibration block cast around recovered human ballast, which Pellik wanted to turn into the counterweight. The crew chief would not loosen one bolt until Ketta named what would replace the survey.
+“You left that part out.”
 
-Ketta opened the Fern Basin circuit. The nursery delegate answered over hammer blows.
+“I was establishing what the signal could demonstrate.”
 
-“Is the survey still on its cradle?” the delegate asked.
+“You were waiting until I had carried it this far.”
 
-“Yes.”
+Oxaul looked down at the moving arc. “Yes.”
 
-“Then leave it there.”
+Qemri had expected another qualification. Before she found a new attack, Sulekk stepped between them, forcing her horns back from the instrument frame. “Seventy-two minutes. Brinnt: after amplification, what remains?”
 
-“The low station may release again in five to eight days.”
+“A third charge if I narrow the pulse.”
 
-“The western shelf may fail in three.”
+Oxaul said, “Narrowing may corrupt—”
 
-Ketta watched a technician hold a ceramic wrench over the first cradle bolt. “I am spending the launch. Assign hand-sounding teams and move the outer clutches one shelf inward. I cannot give you another survey date.”
+“It will not corrupt your timing. It may fail to reach. A third charge cannot fragment the rock. It can score one face, maybe vent a guidance bottle, maybe do nothing. If it breaks the wrong way, we get the same fan with less height.”
 
-The pause held no forgiveness. “Hand soundings missed the last hollow.”
+“Final firing line?” Qemri asked.
 
-“Mark every unsounded strip closed, even if it costs nesting space. Send me the labor deficit.”
+Brinnt put a yellow curve across the display. It passed just above the horizon on the ninth arc. “After this, any break falls inside the terraces. Before it, a weak strike still has lateral distance. Not good distance. Some.”
 
-Only then did the delegate call the teams. Ketta lowered her foreclaw. The crew chief turned the first bolt.
+The road councillor had followed them in. “And while you tap at the sky, my ramp is blocked by egg sledges.”
 
-While the survey came off, Pellik fitted a radio, light emitter, passive cameras, and heat gauges around the seven-point-one-tonne block. She discarded every proposed symbol that depended on the humans sharing dinosaur eyes or gestures. What remained began with quantities the low station had already made: its last seven release times, the corresponding orbital changes, and the measured fall tracks. Quiet Caldera’s outline followed, with two entry windows that kept the main-body path inside its rim.
+“It would be blocked under full defense,” Sulekk said.
 
-“Start the signal with all seven releases,” Ketta said. “One could be dismissed as noise.”
+“For one descent. You’re asking us to leave it blocked for an experiment.”
 
-“All seven establish the units.” Pellik sealed the transmitter case. “If an eighth release changes after reception, we will have a new measurement. If it does not, we will not invent an answer.”
+“I have asked nothing yet.”
 
-Othrik’s voice arrived from a nursery roof as stone rollers thundered behind him. He had two diverting darts and crews for the next release, but a dart had to launch before breakup and could not protect every farm along the error region.
+“My district hears the difference poorly.”
 
-“Give defense a trigger,” he said. “Any main body outside the caldera corridor. Any modeled fragment risk over an occupied site.”
+From the well chamber came the clang of the water steward’s call plate and her voice demanding a cart count.
 
-“At what confidence?” Pellik asked.
+Sulekk looked toward it. “Go give them one.”
 
-“Fifteen percent.”
+The councillor stared at her, then went.
 
-“At fifteen, upper-air uncertainty spends both darts on almost every pass. Twenty.”
+Qemri watched the clock subtract another minute. The old scar along her shoulder had begun to pulse. She had earned it years before the apes started throwing ballast, in a quarry slide caused by a bad distance marked on a good map. Since then she trusted lines when she could stand on one. Evacuation line. Fragment line. Firing line. Oxaul offered her a return that might vanish into the upper dark and three lights that meant only what a careful observer wished they meant.
 
-Ketta looked at the empty survey cradle. “Eighteen, updated thirty-two minutes before entry. Review after two releases, after any breach of the corridor, or after either dart.”
+Behind the wall, the storage bank hummed with enough charge to turn one large danger into hundreds of smaller ones.
 
-“I will execute eighteen,” Othrik said. “I will vote against the counterthrow.”
+“Bring the beacon cases,” she said.
 
-The chair reconvened the emergency quorum over the Upthrower’s field radio. Ketta stated the upward mass: seven point one tonnes. Pellik stated the co-orbit: twenty-four lengths behind and outward, no closing path for six days, no penetrator or attachment system. Othrik stated the shelter work and interception limit. The clerk stated what disappeared from the ledger: Fern Basin’s survey slot, with no replacement date before migration.
+Oxaul blinked. “All three?”
 
-The vote took less time than removing the survey cradle. It passed by five. Half of Ketta’s own district opposed her; Othrik’s no came through clearly and without delay.
+“You asked for three.”
 
-“Defense provision is active,” the chair said. “Proceed with the launch.”
+“I did.” He reached for the field cabinet, missed its latch, and caught it on the second try.
 
-Othrik had already signed the slab team across the first nursery boundary.
+Brinnt pushed his hand aside. “Not that side. The hinge pin is loose.”
 
-Last light turned the Upthrower’s two induction rails copper. The launch crew issued Ketta four thick reed pads for her feet and a ceramic case for the documents whose clasps they had confiscated. Anything ferrous left near a charged rail would choose its own destination.
+They carried the cases back to the well. No one announced a new position. Sulekk assigned two runners, and the map keeper cleared a route from the chamber to the outer ramp. One beacon went south to the cracked heat gallery, one north beside the warm-water trunk, one east to the empty quarry. The quarry runner asked for brush crews.
 
-Beyond the safety fence, the Fern Basin survey rested on a service trolley, its folded lenses wrapped against dust. In its former place, technicians locked the counterweight into the launch saddle. They sealed Ketta’s scorched pebble into an exterior sample cup. The larger fragment stayed below; its heat and torn frame made poor launch ballast and useful ground evidence.
+“Why?” Sulekk said.
 
-The crew chief walked the rail cut with a wooden hook. “External metal count.”
+“Dry grass. If something falls there.”
 
-“Tools secured,” called one team.
+“Take four beaters and a water skin.”
 
-“Visitors checked,” called another.
+“Four won’t hold a quarry fire.”
 
-The chief looked along Ketta’s armored back. “Plated visitor not yet checked.”
+“They’re not to hold it. They’re to come back and tell us where it starts.”
 
-Two technicians worked reed combs between her osteoderms and found a roof tack, a fastening ring, and a sliver from the speaking ledge. The ring had hidden under her tail club where no one inclined toward politeness would have searched during the session.
+At fifty-eight minutes, the north-road member reported that two draft teams had balked at the tunnel mouth. At fifty-three, the water steward lost a cart wheel. At forty-nine, a beacon runner called from the south hatchery and all the chamber heard the roof settle behind her in a long mineral sigh.
 
-The rails began to charge. Iron in Ketta’s plates answered with a crawling pull beneath her hide. One missed washer lifted from the observation platform, crossed three body lengths, and struck her tail with a click. The chief removed it with the wooden hook, advanced the count by one breath, and ordered everyone farther behind the painted line.
+Qemri took the handset. “Position?”
 
-The launch struck the ridge like a single hard footfall. The counterweight became a white bead between the rails, then a spark above them, then only a mark moving across Pellik’s tracking board. Its first measured arc matched the filed solution. By the second, it held behind and outward from the low station, the gap opening exactly as calculated.
+“Inside the old basin mark. There’s no upright stone.”
 
-The transmitter sent the seven releases. It sent the two Quiet Caldera windows. It sent the warning and asked for a deliberate change in return.
+“Use the warm-water tower.”
 
-One full pass brought no answer Pellik would name. The instruments found cold surfaces, escaping gas, and weak bursts near the station’s old machine frequencies. A person might have caused one of them. A failing pump might have caused all of them.
+“Its ladder is cracked.”
 
-Night had settled by the time Ketta entered the Stone Choir again. Woven mats covered the torn eastern roof, and Othrik’s two stone props remained under the cracked leaf. The clerk worked below a borrowed lamp with roof invoices on one side and Fern Basin’s manual-survey deficit on the other.
+“Then lash the beacon below the third rung. Don’t climb past it.”
 
-“Next release estimate?” Ketta asked.
+“The signal clears the ridge from there?”
 
-“Six days. Error of nine hours.”
+Qemri looked at Oxaul.
 
-Ketta backed into her bench. Despite the reed combs, three small washers still clung along her tail and ticked over the basalt.
+He bent over the terrain plot, changing height values. “Not fully. Move nine lengths west.”
 
-“Shelter slabs south first,” she said. “Then this roof. Put a skywatch update on both crews before dawn.”
+“West is the gallery wall,” the runner said.
+
+“Of course it is.” His hands passed over the controls and returned. “Five lengths south. Raise it one length.”
+
+“With what?”
+
+The water steward, still listening, said, “A cart axle. There’s a broken one at the west loop.”
+
+“Get it,” Qemri told the runner. “Report when tied.”
+
+At thirty-six minutes all three beacon marks steadied on the map: two pale green points bracketing the occupied basin, the third alone in the quarry. Between them, the black fragment still covered six nesting blocks.
+
+Sulekk called the council to the defense rail. Bodies crowded around a control designed for one engineer and one warden. Brinnt made them back away until their tails cleared the manual release and Oxaul could reach the signal key without leaning across Qemri’s firing plate.
+
+“Terms,” Sulekk said. Her formal cadence was gone. “We clear the modeled fan. We send one return. Qemri holds the remainder. If the predicted center crosses the yellow line before a new course is measured, she fires without another vote.”
+
+“Against Brinnt’s own warning?” asked the granary member.
+
+“Against the rock.”
+
+“And if it shifts?”
+
+“She decides.”
+
+Qemri glanced at her. “You are handing me both mistakes.”
+
+“I am naming whose they are.” Sulekk put her palm against the authorization plate. “Do you accept?”
+
+The hatchery messenger had returned. He stood near the door, holding his strapped arm, waiting to carry whatever the room chose back to people beneath a cracked roof.
+
+Qemri pressed her palm beside Sulekk’s. “Yes.”
+
+Several councillors objected at once. Sulekk did not call for order. She pointed the water steward toward the outer chamber, sent the granary member to count cleared shelters, and told the road councillor to keep one ramp open until the last possible minute. Their objections went with them, still audible through the door.
+
+At twenty-one minutes, the incoming object began its final range sequence.
+
+The speakers gave three dry clicks. A pause. Three more.
+
+“South ready,” said the operator at the relay desk.
+
+“North ready.”
+
+The quarry mark flickered.
+
+Brinnt had both forefeet inside an open floor panel, tightening a contact. “Wait.”
+
+The next range burst passed unanswered.
+
+Oxaul’s fingers hovered over the key. “We are losing the sequence.”
+
+“You’ll lose the whole pulse if this arcs.” Brinnt pulled the contact free, scraped carbon from it with the edge of a tool, and drove it home. The quarry mark went solid. “Now.”
+
+Oxaul keyed the beacons.
+
+The storage bar dropped in a white rush. Deep inside the ridge, the coil struck no projectile and made no thunder. It pushed the three small echoes upward until the chamber’s loose cups rattled. On the trace screen, three fine strokes climbed into the noise: south, north, east. Two locations made with three points. An occupied basin and a quarry. Nothing in the strokes for eggs, burns, apes, dinosaurs, permission, or regret.
+
+The station band answered.
+
+Not with a voice. A fresh ranging burst touched the south point, then the north, then the quarry. The order repeated. Oxaul made a sound Qemri had never heard from him, half laugh and half breath lost on a climb.
+
+“They have all three,” he said. “They changed the ranging order. Confidence—high. Very high.”
+
+The incoming arc did not move.
+
+Eighteen minutes.
+
+“Course?” Qemri asked.
+
+“Holding.”
+
+“Again.”
+
+Oxaul checked another display. “Holding.”
+
+At sixteen minutes, the predicted center touched the first hatchery roof.
+
+Oxaul’s hands became busy without effect. He shifted filters, cleared them, rebuilt the old arc. “There may be command delay. Depending on station position, operator routing, whether the return was recorded locally or relayed—”
+
+“Course.”
+
+He swallowed. “Holding.”
+
+Brinnt closed the floor panel and moved to Qemri’s side. The remaining third of the charge glowed amber under her palm. “Weak shot is aligned. Upper-left face. If the bottle is where the eighth one carried it, we may vent. If not, surface spall.”
+
+“Spread?”
+
+“Bad.”
+
+“Distance.”
+
+“Yellow line in ninety breaths.”
+
+Sulekk stood behind them. “The authority is yours.”
+
+Qemri hated her for saying only that. She preferred Oxaul’s fraying possibilities; there was something to push against in them.
+
+The hatchery relay began reporting doors shut. South gallery. Warm-water store. Kiln cellar. Then a roof team failed to answer.
+
+“Again,” Qemri ordered.
+
+The relay operator called. Static. Called again.
+
+The arc crept toward the yellow line.
+
+Qemri set her claw into the firing guard. “Brinnt. On my mark.”
+
+Oxaul stared at his unchanged trace. All his careful degrees had gone out of his face.
+
+“Roof team answering,” the relay operator said. “They’re clear. They left the handset.”
+
+“Line in twenty breaths,” Brinnt said.
+
+High over Earth, a new signal cut across the station band.
+
+Oxaul did not speak. He seized Qemri’s wrist with both hands. The predicted arc kinked, barely at first. Tiny gas jets on the falling ballast fired in a staggered row. The object rolled, exposing another face. Its center mark slid along the yellow line instead of across it.
+
+“Where?” Qemri said.
+
+Oxaul tried once and failed to answer. He magnified the trace until the quarry beacon flashed beneath the new curve.
+
+Brinnt saw it. “Hold. Hold.”
+
+Qemri’s claw remained under the guard. The curve wavered. If the jets stopped now, the object would take the ridge above the hatchery and bring the ridge down with it.
+
+“Seven breaths to line,” Brinnt said.
+
+“It’s still changing,” Oxaul managed.
+
+“Five.”
+
+The arc cleared the ridge by a mark so narrow Qemri could cover it with one claw. She had crews farther from the quarry than from any fragment fan she could create now. Not safe. A distance.
+
+“Two.”
+
+Qemri pulled her hand from the guard.
+
+The ballast passed below the chamber’s horizon. For one quiet instant the instruments showed only its radio trace moving east.
+
+Then the quarry struck.
+
+The floor rose beneath Qemri’s feet. The scorched fragment jumped in the map well and came down on a different district. Cups shattered in the trace alcove. One of the old polished lenses tore from its mount and swung on a cable until Brinnt caught it against their shoulder.
+
+The sound arrived after the movement, a long concussion through stone. Dust erased the ceiling. Somewhere outside, brushfire bells began hammering.
+
+Qemri counted through the fading vibration. The quarry distance, the depth of the cut, the reduced mass after guidance burn. Windows would crack. Loose walls would go. The hatchery roof had remained above her feet.
+
+“Relays,” she said, coughing. “All districts. Injuries and fire. Get the quarry team back.”
+
+The chamber broke into work.
+
+The south beacon had gone dark when its lashings failed. The north one still transmitted from the broken axle. The quarry beacon transmitted for six more breaths, then vanished beneath the returning stone. Oxaul saved the traces twice. When he tried to say what they proved, his first sentence would not start.
+
+Sulekk waited beside him, dust striping her crest.
+
+“A new command,” he said at last. “A controlled burn toward the quarry. After the returns.”
+
+“Chosen because of them?” she asked.
+
+He looked at the blank quarry mark. “I can’t give you that.”
+
+“Good. Keep the part you can.”
+
+Reports came in. Three cracked windows. One broken water stair. Fire on the quarry’s western lip, moving slowly against the beaters. No dead. The two burned carriers were stable in the kiln cellar, furious about the cold.
+
+The descent clock reached zero and began counting upward.
+
+They reconvened around the map well because the control rail was needed for recharging. No one put the stools back. Brinnt’s model now showed the next three orbital passes and the hours required to refill the coil bank. On the floor, the old blue basin remained partly hidden by the fragment.
+
+The road councillor wanted full discharge on the next descent. The water steward wanted the apes’ ranging bursts answered only after the warm-water trunk was repaired. Neither had softened. Both were gray with quarry dust.
+
+Sulekk listened until they repeated themselves.
+
+“Three passes,” she said. “Paired basin beacons and one quarry beacon each pass. Evacuation begins before the range window, not after a launch. The coil recharges under guard.”
+
+“And when the next rock ignores us?” the road councillor asked.
+
+Qemri answered. “If it descends without a ranging burst, we fire full. If it ranges and holds the basin, we clear to the line and fire. If it shifts, I measure where.”
+
+Oxaul lifted his head. “Three passes cannot establish a stable practice.”
+
+“They establish three passes,” Sulekk said.
+
+Brinnt tapped the recharge curve. “Only if nobody draws from the bank for the east tram.”
+
+The granary member, halfway to the door, stopped. “The tram is carrying roof stone.”
+
+“Then find draft teams.”
+
+“They’re still in the old tunnel.”
+
+“Get them out.”
+
+Sulekk raised one dusty palm before the next argument could grow. “Three passes. Any unannounced descent ends the trial. Any descent we cannot clear ends it. Qemri keeps firing authority. Oxaul records changes, not intentions. Brinnt owns the bank. We meet after the third or sooner if one condition fails.”
+
+“I object,” said the water steward.
+
+“Recorded. Send two carts to the quarry.”
+
+“They’re already moving.”
+
+Sulekk nodded once and went to help the map keeper lift the fragment.
+
+Qemri left before the council found another word for what had happened.
+
+Outside, dawn had begun behind the orbital lights. The apes’ stations crossed the paling sky in orderly points, too high for faces, too near for neglect. Smoke from the quarry flattened along the eastern ridge. Below it, the hatchery district leaked steam from the cracked water loop.
+
+Qemri reached the heat gallery as a brace crew was trying to feed a roof beam through the wrong doorway. The beam jammed between the frame and a carrier’s shoulder plate. Everyone shouted a different correction.
+
+“Back it out,” she said.
+
+They stopped shouting.
+
+“Low end first. Two more on the cracked side. You, bring the jack.”
+
+The hatchery messenger, his arm still strapped, had tied himself into the beam sling. “I can pull.”
+
+“You can count.” Qemri cut him free and handed him the crew board. “South braces. Warm-water leak. Egg sledges returned. Keep those columns separate.”
+
+He looked at the board. “When do I mark the next clearing?”
+
+She checked the orbital pass time Oxaul had scratched beneath her firing authorization. Then she measured the beam against the roof scar and moved the first crew’s release forward by eight minutes.
+
+“Here,” she said. “Now count us in.”

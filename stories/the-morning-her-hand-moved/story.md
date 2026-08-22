@@ -8,468 +8,280 @@ canon: false
 
 # The Morning Her Hand Moved
 
-“Turn the chipped side wristward,” Neshra said.
+The water in the heel cistern was running uphill.
 
-Odal held the water jar by both ears and did not turn it. “It rocks in that seat.”
+Zunel noticed because the white gauge float, which should have rested against the dawn mark, climbed the eastern wall of its cage and stayed there. Beyond it, the whole right palm lay in blue half-light: nearly two miles of crease roads, basin wards, and steep knuckle temples, all carved into stone that had been level since the oldest survey. The four fingers made a low black horizon. Between their roots, bells waited for sunrise.
 
-“It rocks everywhere. In that seat it cannot roll.”
+The goddess lay supine beneath every place anyone knew: rib towns, throat stairs, ankle quarries, the gardens on this forearm. For a thousand years, the ledgers had said her death came before their beginning. They preserved neither a name nor an origin for her, only the work of living on what remained.
 
-“It has stood outside the seat for six mornings.”
+“Close the lower sluices,” she told the two waterkeepers. “Leave the forearm feed open.”
 
-“And I have moved it six mornings.”
+One stared at the tilted float. “The gate wheel's below the waterline.”
 
-Odal gave the jar a quarter turn. The chip in its foot fitted the worn hollow beside the stair, and the jar settled with a clay click. Neshra bent to check it anyway. A dark thread of yesterday’s spill crossed the paving from the hollow to the irrigation groove. It had taken the same path for longer than either of them had been alive.
+“Then use the dry bypass.”
 
-Ammara's Palm lay open to the dawn. Houses climbed the first joints of the four great fingers, their shutters catching light one row at a time. Gardens occupied the creases where blown soil had once collected. The lifeline, widened and recut over ten centuries, carried a market street past shrines, cistern courts, and the black doors of the oldest temple. Far beyond the wrist, Ammara’s stone face received the sun without expression.
+The other keeper was already running. Zunel set her tool case down and knelt. The street under her palm felt warm—not sun-warm, not yet, but a shallow heat moving just beneath the polished gray surface. It passed under her hand toward the fingers. Dust lifted from the joints between paving cuts and hung there.
 
-The records began after her death. Even temple children knew that much. Ammara had died before ink, before stairs, before anyone could remember why the goddess had stretched one hand toward the sky.
+A bell rang once behind her. Not a struck note. Its bronze mouth had swung on its own.
 
-Neshra had no use for questions that old. This morning the fig needed lifting.
+“Zunel!”
 
-She pushed her fork beneath its root cloth. The tree was older than her marriage had been and more dependable. Three grafts grew from its low branches: sweet red fruit for drying, green fruit for the picklers, and the small black variety that survived wind off the elbow flats. Odal steadied the trunk while Neshra levered the bound roots out of their shallow bed.
+Aksor came down from the wrist gardens without his dawn mantle, carrying one of the red clay bowls in both hands. Water lapped over its rim at every step. Yeshal followed with a plumb reel bouncing against one knee.
 
-“When we rebuild this wall in autumn,” Neshra said, “we’ll give the black graft another hand of soil.”
+“The first bowl warmed up-arm,” Aksor said. He was trying for the measured cadence he used at the garden tables. “Then every one down to mine at the wrist, in the order we fill—”
 
-Odal watched a pale root emerge through the cloth. “I won’t be here in autumn.”
+The stone struck the soles of their feet.
 
-“You said the stair crew might take you.”
+It was not an impact from above. The pressure came lengthwise through the goddess, from the unseen torso beyond the forearm gardens, and compressed the palm so broadly that the cistern cage gave one clean iron note.
 
-“They hired me. We leave for the rib wards after noon bell.”
+“One,” Yeshal said. She caught her plumb reel before it fell. “Up-arm shafts crossed first. I think they crossed first.”
 
-Neshra set the fork down too hard. “You told them yes before the root lift?”
+The second wave shoved water over the cistern's eastern lip. All along the heel ward, shutters rattled inward.
 
-“I told you last week.”
+“Two. The interval is shorter here. Or the clocks disagree. They may disagree.”
 
-“You said they had a place.”
+Aksor lowered his bowl to the street. Tiny rings ran across its water before the third compression arrived. That one made the crease road sound: a deep tone under the paving, too low to be heard in the ears alone.
 
-“I said I had it.”
+“Three,” Yeshal said. “Three. There were exactly three.”
 
-“That was not how you said it.”
+Zunel looked from the climbing float to the black finger horizon. “How long after the third up-arm?”
 
-Odal put one muddy thumb over a split in the root cloth. “How many ways do you need?”
+“Nine seconds at the first shaft. Perhaps eight. I can't promise the clocks.”
 
-Neshra chose the smallest available answer. “Hold that shut.”
+At seven, the eastern bells began to swing.
 
-Odal held it. Neshra threaded a fresh strip through the weave, and for several minutes their hands returned to the old, easy knowledge between them: pull, pass, tamp, water. Odal could judge a root’s thirst by its color. They could tie a brace knot one-handed. Those were facts, Neshra thought, whatever a foreman on the ribs had promised.
+At eight, the middle finger rose.
 
-Below the terrace, first-bell traffic filled the lifeline. Bread carriers leaned under covered trays. Two temple sweepers dragged dead blossoms from the stair mouths. Children ran along the heelward parapet, slapping the warm stone for luck. No one looked toward Ammara’s face. Stone that had never moved did not need watching.
+Its three joints changed angle without crumbling. The temple on its first knuckle tipped toward the palm, every lamp in its colonnade drawing a bright diagonal. Then the ring finger followed, and the smallest finger after that, slow enough for Zunel to see streets becoming slopes and fast enough that people spilled from doorways before any alarm keeper reached a rope.
 
-* * *
-
-Weight returns without a name.
-
-It lies over the exposed part of her, fine in some places, coarse in others. Warm specks cross it. Threads enter the numb outer layers and drink there. Moisture gathers in channels she does not remember having.
-
-Her thought is smaller than any of these things.
-
-Turn the hand. Curl the fingers. Bring them in.
-
-The gesture waits where she left it.
+She seized the heel bell and struck evacuation.
 
 * * *
 
-Neshra poured a cup of water around the lifted roots.
+The first plan lasted eleven minutes.
 
-The stream struck the soil, divided at a pebble, and ran out over the wrong edge of the bed.
+Zunel ran for the main wrist avenue with her tool case hammering her thigh. Its broad bridge crossed the deepest wrist crease from the palm heel to the first forearm gardens. Beneath the deck, an aqueduct carried most of the hand's stored water up-arm. If the avenue held, every litter and cart could leave on a road six abreast.
 
-“Stop,” Odal said.
+“Bring the cross-braces,” she told the bridge crew. “Clamp both lips before the heel rises.”
 
-Neshra had already righted the cup. “The cloth is dry on that side.”
+Behind her, Polaq was coming down the avenue against the first stream of residents, his register cords looped from shoulder to wrist.
 
-“Look at the groove.”
+“The finger relays are emptying,” he said. “Small knuckle sent two hundred six. Middle sent four hundred eleven but the temple undercroft hasn't answered. A woman at the dye steps says her father can't climb.”
 
-Water from the jar’s damp foot had reached the irrigation channel. Instead of running wristward, it crept across the groove, climbed the shallow lip, and spread toward the little finger in a shining sheet.
+“Put him on a shutter. Keep everyone up-arm.”
 
-The jar clicked in its seat.
+“She needs four carriers.”
 
-Once. Twice. Faster.
+“Then find four.”
 
-Neshra put a hand on its rim. A vibration traveled into her palm, slow enough to count and deep enough that each beat seemed to come from a different distance. Soil loosened under the fig. Across the terrace, leaves trembled in still air.
+The palm shifted beneath them. Not yet a jointed lift—only the consequence of the curling fingers. Water abandoned the outer channels and began to braid toward the center crease. Fruit carts rolled sideways until their owners caught the shafts.
 
-“Cistern work,” she said. “They may be driving a new shaft below us.”
+Aksor reached the avenue as the crew laid the first iron cross-brace over the wrist crack. He put one bare foot on each side, then stepped off at once.
 
-“No hammer has that stroke.”
+“Those sides don't rise together,” he said.
 
-A temple bell sounded beneath the lifeline. The rope was slack; Neshra could see it hanging in the open tower. The clapper struck again, held against bronze, and made a strangled note that ran through every tooth in her jaw.
+“They don't need to. The brace shares the load.” Zunel drove a holding pin through the near shoe. “West anchor first.”
 
-Odal turned toward the fingers. “Mother.”
+“When I set the bowls along the crease, I level each side alone.” Aksor crouched and pressed his fingertips to one lip, then the other. “This one is rolling toward my heel. This one is drawing away.”
 
-The little finger had covered half the sun.
+“I heard you.”
 
-Its tip rose beyond the east parapet, carrying roofs and stairways into silhouette. People stopped in the streets. A chimney broke at its base and slid along a roof that had been level a breath before. Farther off, the ring finger lifted too. The whole span of Ammara's Palm was changing beneath them, not cracking, not settling. Turning.
+She had not. Polaq was listing unanswered terraces, Yeshal was calling pulse intervals from the forearm, and the avenue was still the only route wide enough for the infirmary carts. Zunel fastened the second shoe. The brace bowed as the gap widened beneath it.
 
-The water jar came out of its hollow and rolled.
+“No more weight on the center!” she shouted. “Carts to the edges.”
 
-Odal caught one ear. Neshra caught the other. Water slapped over them as the terrace found a new downhill.
+“The edges are what are parting,” Aksor said.
 
-“Drain cut,” Odal said. “Now.”
+The palm began to cup.
 
-“The jar first.”
+It happened first as a change in water. The heel cistern spilled out of its square and sent a silver sheet down the avenue toward the palm center. Farther away, whole channels reversed, carrying roof tile, baskets, and garden soil into the deepening hollow. Then the street itself bent. The palm-side lip rolled down while the wrist-side lip stayed high.
 
-“Leave it.”
+The cross-brace did exactly what Zunel had ordered: it fastened surfaces moving apart.
 
-“Ten days to the next cistern draw.”
+Its west anchor tore a slab from the avenue. The slab struck the aqueduct housing; a bright crack raced up the pipe. One bridge worker fell to her knees, still holding the pin maul.
 
-A paving slab jumped under their feet. Odal seized the short waxed rope from the wall peg and ran it twice around the jar’s neck. “Then move when I move.”
+“Cut it,” Aksor said.
 
-They dragged it to the irrigation cut while the old slope steepened sideways. Neshra’s shoulder struck the fig. The tree leaned after her, roots lifting in a crackle from their bed.
+Zunel was already sawing through the brace lashing. The iron sprang free hard enough to take her case into the widening crease. Half her instruments vanished without reaching bottom.
 
-Below, carts began to roll across the lifeline. One burst through a shrine rail. People flung themselves into doorways or crawled toward whichever wall had become ground. The bells rang without hands, all their notes out of order.
+“Main avenue closed!” she called. The words hurt more than the lost tools. “Sever the aqueduct on the forearm side. Save the upper head.”
 
-At the drainage cut, Odal kicked through the reed screen and raked out a season of leaves. It was barely wide enough for two people shoulder to shoulder. They ran the long safety rope through the bronze drain staple and cinched a loop around each waist. Neshra tied the water jar to the same staple above its mouth.
+Yeshal caught her sleeve. “The wrist plumbs are changing. Not another three—this isn't another set, I don't mean that. It's the same strain moving outward. The thumb shafts are next.”
 
-Odal pulled the jar rope hard. “That staple is for the screen.”
+Zunel pulled loose. “Which route remains?”
 
-“It held three stone baskets when we rebuilt the lower bed.”
+Polaq answered before Yeshal could qualify again. “Outer-wrist ledge. Single file past the lamp quarry, two abreast after. The medicine cart won't fit. The goat pens will jam the turn. There are still one hundred thirteen in the heel ward, not counting whoever came down from the fingers.”
 
-“It held them on the old down.”
+“Empty the cart into hand bundles. Release the goats up-arm one pen at a time.”
 
-Another pulse came through the palm. The fig shifted the breadth of Neshra’s hand.
+“People will go back for cistern jars.”
 
-She reached for the heavy garden line.
+Zunel looked at the cracked aqueduct. The lower pipe bucked once, showering them with cold water.
 
-Odal blocked the peg with one knee. “Do not tie the tree to us.”
-
-“To the side staple.”
-
-“The same stone.”
-
-“If the roots tear, it sweeps the cut.”
-
-“If you leash it, it takes the cut with it.”
-
-Neshra looked at the fig’s three grafted crowns, already bowed under their own weight. “Give me one turn. Enough to keep the trunk off the opening.”
-
-Odal stared at her, measuring either the tree or the stubbornness behind it. Then they threw her the line. “One. No gear on it. No packs.”
-
-Neshra looped the trunk and carried the line low around the side staple. She took up slack until the fig leaned away from the drain. Odal watched the staple’s edge powder the surrounding stone.
-
-“Enough.”
-
-Neshra tied off.
-
-The palm rolled farther.
-
-They dropped into the cut as the terrace swung through an angle no garden had been built to survive. The former downslope wall rose beneath their boots; the bed stood above them like a loaded shelf. Clay pots skated past and shattered. A trellis tore loose at one end, spilling vines through the air. Its melons thudded against the new floor and broke, sweet smell bursting over dust.
-
-For a few breaths, the stone stopped.
-
-Neshra heard calls from the lifeline, then a long collapse she could not place. A strip of houses on the middle finger now faced them like windows in a cliff. Between the fingers, the sky had narrowed.
-
-Odal pushed up on one elbow. “Knife.”
-
-“What?”
-
-“Put yours where you can reach it.”
-
-Neshra moved the belt sheath from her hip to the front of her apron. Odal did the same with their pruning blade. Then they tested the bronze staple again.
-
-Its socket had widened.
+“No one goes back.”
 
 * * *
 
-Pain returns to her one joint at a time.
+The outer-wrist ledge had been cut for lamp trimmers, not a city.
 
-One finger yields. Much later, another. The wrist turns through a resistance that has become part of her. Outer layers grind. Deep places, starved of motion, wake hot and wet.
+It ran along the little-finger side of the hand, skirting the heel above a drop into the wrist crease, then climbed to the forearm gardens. As the palm deepened, the first half leaned inward. As the wrist began to flex, the last half narrowed. A path that had been six feet across at dawn pinched to three, then less, its outer curb shedding chips into the dark.
 
-Across her palm, weight changes direction.
+Zunel moved against the evacuation, one shoulder to the wall. “Eight at a time through the pinch. Space the litters. No carts.”
 
-She remembers it bare. Or she remembers wanting it bare. Memory offers no order. There were grains, then scratches, then recurring pressure along the scratches. Hard edges accumulated in the creases. Roots entered shallow seams. The interruption might have lasted an instant. The warmth on her skin says otherwise.
+“My sister has the fever medicine,” a man said. He held a sleeping child and nothing else. “She was behind us.”
 
-She continues the turn.
+Polaq touched the seventh knot on one register cord. “Herb vault group. They have six bundles and the blue fever case. Keep moving; I'll mark the child with them.”
 
-A joint opens under strain, and brine presses outward through the crack.
+At the turn, a girl had wrapped both arms around a horned garden goat that refused the dark ledge.
+
+“He won't leave me,” she said.
+
+Aksor took the lead rope. The phrase he began had the shape of a bowl blessing, but dust shook from the wall and the goat lunged.
+
+“No. Put your foot flat,” he told the girl. “Flat. Hip to the wall. Give me the rope.” He covered the goat's eyes with his discarded mantle and pulled it through.
+
+Above them, stone columns broke from the smallest knuckle temple. The residents had emptied it minutes before. Its bell struck twice as the columns slid, then stopped when the whole portico went down toward the palm center in a cloud of pale dust.
+
+The thumb turned inward next.
+
+Zunel saw the change across the palm: the broad thumb mound rising like a hill pushed from below, the thumb itself sweeping over the inner stair. That stair had been the secondary road from the basin wards. Its upper landing touched the moving thumb for one breath and shattered. Water, benches, and a row of blue doors slipped into the new seam.
+
+“Inner route gone,” she said.
+
+Polaq coughed dust into his sleeve. “Sixty-two from the basin wards were on it.”
+
+Zunel stared at him.
+
+“Were. They turned at the potters' arch. I counted them onto this ledge. Forty adults, thirteen children, seven carrying litters, two carrying the old dog in a grain sling. Sixty-two.” His next breath hitched. “But the undercroft group still hasn't joined the middle-finger count.”
+
+“How many?”
+
+“Seventeen by the temple register.”
+
+The ledge gave a brittle snap under the people between them. The outer curb dropped away for twenty feet, leaving a tilted strip scarcely wider than a bed plank.
+
+Zunel lifted both hands. “Stop the rear.”
+
+Nobody could hear over the bells. Polaq turned and shouted names instead.
+
+“Temru! Hold your six at the quarry! Burmik, sit the litter down! Iveni, don't bring the water jars into the pinch!”
+
+The crowd stopped in pieces, one known group at a time.
+
+Yeshal lowered a weighted line over the broken curb. It swung toward the forearm, then back toward the palm. “The wrist is lifting and turning. The rate isn't steady. It may narrow again in forty seconds. Or thirty. The line catches wind here; it may be thirty.”
+
+“Send them all,” Zunel said. “No spacing.”
+
+“No.” Aksor had both hands on the litter at the pinch. His ceremonial voice was gone. “The strip kicks when the wrist pulls. Four, then wait. Knees bent. Watch my foot.”
+
+“We don't have time.”
+
+“Then stop talking and hold this corner.”
+
+Zunel took the litter pole. The first group crossed while Aksor counted through his fingers against the wall: touch, release, touch, release. The stone tightened under the fourth pair, relaxed under the fifth. Not a prediction, only a sequence the body had given them often enough to use once.
+
+They staggered the crossing. Four residents moved; the bearers set a litter down; three goats were hauled through blind; a water carrier abandoned two jars and kept one. At every pull in the wrist, the ledge thinned another handspan. Zunel stopped calling the whole route and began listening for Aksor's “Now.”
+
+When the last visible group reached the forearm side, Polaq was not at the tally post.
+
+“He went up-arm,” Yeshal said. “To the west herb shelter. The seventeen may be there. They may be; the pump-gallery mark isn't a count.”
+
+Zunel looked toward the bridge releases, then away. “No weights until he closes the register.”
+
+The stone moved under her boots. Wrist first: the palm heel lifted, increasing the ledge's slope until discarded jars rolled down-hand. Then the change traveled into the forearm. Garden terraces that had faced the sky tilted a few degrees toward the body's outer side. Irrigation water climbed one row and drained from another. The forearm remained broad and comparatively level, but every old straight line on it had become an argument with gravity.
+
+Aksor caught Zunel's belt as the terrace lurched. “Knees loose. Don't fight the turn.”
+
+She almost pulled away. Routes, failure, load: those were hers. Then her heel slipped toward the outer irrigation row, and she let him pull her against the wall.
+
+A brass hand bell sounded up-arm—three quick, one late—and Polaq appeared at the top of the garden steps.
+
+“The seventeen crossed before the main avenue failed,” he said as soon as he had breath enough to speak. “Temru sent them through the pump gallery up-arm. Six undercroft keepers, four lamp children, three old residents, two cooks, the copyist, and the copyist's son. All seventeen are in the west herb shelter. I saw them. I touched every register tile.”
+
+“Full count?” Zunel asked.
+
+Polaq swallowed and looked at his cords. “Five thousand two hundred eighty-one assigned to the inhabited hand districts at last night's close. Five thousand two hundred sixty-four crossed the ledge or the main avenue under my count. Seventeen entered the pump gallery under Temru's count and are present in the shelter. Five thousand two hundred eighty-one living residents accounted for.”
+
+Only then did Zunel look up-arm toward the bridge counterweights.
 
 * * *
 
-The first seep appeared beside Neshra’s knee.
+The four counterweights hung beneath the forearm end of the ruined avenue, each a block of dense black stone taller than a person. In ordinary use they balanced the bridge deck. Dropped, they would strike an exposed shelf of the goddess's wrist. The impacts would travel inward. The deck, relieved of their pull, would roll into the crease and make return impossible.
 
-Clear liquid beaded along a hairline seam in the stone. It was warmer than blood and smelled of burned lime. The beads joined, ran through the irrigation cut, and left blue rims where they cooled.
+Aksor put his dawn bowl on the garden wall. Half its water remained.
 
-Odal touched one with the backs of two fingers. “Not cistern water.”
+“At the dawn tables, we set four bowls from forearm to wrist,” he said. “For the rooms below, I touch the shelf once at each setting. Touch, wait, touch. Four spaced touches. Not speech. Enough to be unlike one fallen tray.”
 
-“No.”
+Yeshal checked the line of her plumb against the new angle of the terraces. “The three compressions traveled from torso to limb. Surface pressure travels inward too; the cistern hammers prove that. I can say the impacts will enter the stone. I can't say where they go after. I can't say they're felt.”
 
-By the time Odal pulled away, two fingers hung loose.
+“Four weights close the bridge,” Zunel said.
 
-“Numb?”
+“The bridge is closed down-hand already,” Polaq replied. He was still breathless, still exact. “No residents remain beyond it. Two bridge workers want their tool chest. One waterkeeper wants the lower-gate keys. Nothing living is uncounted.”
 
-“Coming.”
+Zunel looked across the wrist. The former avenue ended in air where her brace had torn out the slab. Beyond, the palm ward lay at an impossible angle, its water gathering in a shining lake along the central crease. The fingers curved above it. No path home remained that she could certify.
 
-Neshra tore the linen from around her hair, split it, and wrapped Odal’s hand, then her own. She shoved the reed screen into the stream to divert it. The brine flowed through anyway. Blue scale formed across the bronze mesh in thin overlapping plates.
+“Release one,” she said.
 
-The drain began to close.
+The bridge crew knocked out the first catch. The black weight fell twelve feet and struck.
 
-Odal used the pruning blade to scrape it. Each stroke loosened curls of blue crust that broke underfoot like eggshell. Neshra found the flat hoe and worked from the other side, but the cut was too narrow for both tools. They struck metal.
+The tone passed through Zunel's boots and continued down-arm into the cupped hand, a clean pulse distinct from the long grinding of the wrist.
 
-“Move your elbow,” Neshra said.
+Aksor watched rings widen in his bowl. He waited until they vanished. “Second.”
 
-“Then take the scraper.”
+The second impact followed. The bridge deck lifted on one side.
 
-“Then take the outside.”
+Yeshal counted under her breath, checking not the goddess but the interval they themselves could control. At her raised hand, Zunel freed the third catch. The weight struck; the deck's outer rail twisted down into the crease.
 
-“The outside is becoming a wall.”
+“Last,” Aksor said, and could manage nothing ceremonial beyond it.
 
-They changed places without agreeing. Neshra scraped. Odal crawled out to inspect the route wristward, keeping one hand on the safety rope. Twenty paces away the cut vanished beneath a fallen parapet. Past it, the market street rose at a murderous angle toward the wrist.
+Zunel pulled the fourth release.
 
-Odal returned with stone dust across their face. “We can reach the service trench if the next section holds. We leave on the pause.”
+The final weight hit warm stone. Four separated tones had gone inward. The bridge rolled off its remaining balance shoes and settled steeply between the parting wrist surfaces, closing the return as completely as a fallen gate. With all four weights gone, no mechanism on the limb could raise it again.
 
-“We don’t know this is a pause.”
+No one spoke for a while. They were listening to the ongoing strain, not for an answer.
 
-“Then we leave before it isn’t.”
+The wrist continued to rise. Dust streamed from the crease. Then, later—long enough that Yeshal checked two plumbs and reset one—the stone tone lowered. The forearm's gradual turn slowed. Water in Aksor's bowl crept toward its new edge and stopped there without spilling.
 
-“The fig will block the cut if I release it now.”
+“The rate changed,” Yeshal said. “After the impacts, yes. Also after the thumb completed its turn. Also after the load shifted from the bridge. We don't know which comparison matters. We don't know that any of them matter.”
 
-Odal glanced up. Half the root cloth had pulled clear. “The fig is leaving whether you release it or not.”
-
-“It has one loaded line. I can draw the roots against the upper stones.”
-
-“With what footing?”
-
-Neshra pointed to the trellis rail.
-
-“That rail is split.”
-
-“It carried you when you roofed the shed.”
-
-“I was sixteen. I weighed less than the wet soil hanging over it.”
-
-The garden line creaked around the staple. Neshra could feel each complaint through her boots. Still the tree remained between the houses and a winter without dried fruit. Seven households took from its harvest. Odal knew that.
-
-“When it steadies,” she said, “take the jar to the service trench. The rib crew will have lowering ropes.”
-
-Odal went still. “And you take the tree.”
-
-“I draw the root cloth, cut the top, and follow.”
-
-“With your knee.”
-
-“My knee got me here.”
-
-“My back got you the last two steps.”
-
-Neshra scraped blue crust from the mesh. “You wanted the ribs. The road begins wristward.”
-
-“I wanted you to stop setting work aside with my name on it.”
-
-A low shiver passed through the stone. The loose trellis swung. Odal caught its rail with the hoe handle before it struck Neshra, then shoved it outward until the vines tore.
-
-Neshra saw the danger a moment late: the trellis had been knotted to the seed packs in the shed. The packs slid after it, pulled short, and hung over the garden line. Their weight bent the rail further.
-
-Odal raised the pruning blade.
-
-“Those are next year’s beans,” Neshra said.
-
-“They are hanging from our anchor.”
-
-“Cut the trellis cord, not the packs.”
-
-“It runs under the root cloth.”
-
-“Then give me the blade.”
-
-Odal did not. “I’m cutting one. Which?”
-
-Neshra looked from the packs to the root cloth to the widening socket around the staple. She had made the arrangement herself over years: rail tied to shed, shed braced to wall, wall caught in the fig’s roots. Every repair had borrowed strength from the next thing.
-
-“The outer pack,” she said.
-
-Odal cut it free. Seed envelopes flashed white as the pack tumbled. It burst against the rising courtyard wall and spilled a brown swarm down the palm.
-
-“The inner one stays,” Neshra said.
-
-“For now.”
-
-The hand remained still. Neshra used the time to wrap their wrists against the brine. Odal cleared a body’s length of the serviceward cut. Together they lowered the jar into it and shortened the rope. Above them, the fig’s exposed roots dried in the new sun.
-
-Across the palm, people were moving again. Lines formed along walls that had become ledges. A rope appeared between two roof courts. Three figures crossed it; a fourth went back for someone Neshra could hear but not see. At the finger joints, dust swallowed whole streets.
-
-Odal followed her gaze. “If it moves again, the fingers meet the palm.”
-
-“They cannot.”
-
-“They are doing it.”
-
-Neshra had attended every death vigil of her life under carvings of Ammara’s open hand. The gesture meant shelter because it had never been anything else. Now shadow from the first finger crossed the market.
-
-Neshra tightened the cloth around her knife hand. “Clear to the second bend.”
-
-“You’re coming?”
-
-“I am clearing what can fall on us.”
-
-“That was not my question.”
-
-“It is the work I’m doing.”
-
-Odal looked as if they might spend one of the words they had saved all morning. Instead they turned wristward and began prying loose the fallen parapet.
+Zunel nodded. The hand rested cupped below them, holding floodwater, broken roofs, and the long shadows of its own fingers. It had not returned to stillness as they had known it. It had merely stopped moving for now.
 
 * * *
 
-Rhythm separates from ache.
+By late morning, the forearm gardens had become a settlement of awnings and counted cups.
 
-The hard growths on Ammara’s surface do not merely break and fall. Warm points leave them before impact. Some return. Some remain around points that do not move. Lines tighten between clusters. Loads are shed; smaller warmths gather behind what holds.
+The terrace keepers objected when Zunel marked the seed sheds for families, and one refused to move a tray of winter shoots until Polaq found dry wall space for it. No one voted. No proclamation traveled down the arm. Work moved by argument, bell relay, and whatever width remained between the garden beds.
 
-She follows one pair near the central crease. They do not move alike. One travels outward and returns. One clings to a rooted pressure until the other changes it. Their heat flickers too quickly for her thought, but the changes answer each other.
+Zunel drew new routes in charcoal on the irrigation wall.
 
-Elsewhere, the answering happens again.
+“Upper cistern to the fever shelter first,” Aksor said. He had divided the surviving bowl water among four infants before beginning the larger ration. “Then one cup each by midday. The goat trough gets drainage, not drinking water.”
 
-At a finger joint, many points pull one from a hollow and alter course when the stone beneath them splits. Along the thumb, a moving line divides so the smallest warmths pass first. Near her wrist, points abandon hard accumulations and carry other points instead.
+“The west terrace can't bear sleeping platforms and a full cistern queue,” Zunel said. “Put the queue along the second garden wall. Keep the center clear for litters.”
 
-Grit does not do this.
+Polaq followed the charcoal with one finger. “The copyist's son can't manage those steps. The old dog won't either. Give them the lower seed shed, and the blue fever case needs a runner every hour.”
 
-Ammara attends more closely.
+“Mark both.”
 
-Her hand continues to turn.
+Yeshal had set three plumbs where the forearm began to curve toward the wrist. “I need people who can call intervals without rounding them.”
 
-* * *
+“Two waterkeepers,” Zunel said. “They know level changes.”
 
-This time there was no warning bell. The towers had either stopped swinging or fallen.
+“Not the one who lost the gate keys,” Polaq said. “He's gone down the garden wall to look again.”
 
-The palm rolled under Neshra in one enormous, deliberate surge. The irrigation cut tipped toward vertical. She jammed her good foot against the side and caught the jar rope with her elbow.
+Zunel's first answer rose sharp enough to send him after the man. She stopped it.
 
-Above, the fig came out of the earth.
+“Put a barrier at the broken avenue,” she said instead. “Then bring him back. The keys don't open anything we can reach.”
 
-The root cloth tore along its seam. A slab of wet soil struck the cut, missing Odal’s head by less than a hand. The trunk swung on Neshra’s garden line. Its full weight hit the side staple.
+Aksor pressed the charcoal into her hand before it rolled from the tilted wall. “And if the bowls warm?”
 
-Bronze screamed against stone.
+Yeshal answered while Zunel added a second route around the seed sheds. “Call warmth first. Then each compression separately. Don't call motion until a joint moves.”
 
-The remaining seed pack snapped off the shed and dropped onto the taut line. Odal shoved Neshra into the cut, but the pack struck their shoulder and took them over the edge. Their safety rope ran out.
+“Three bells for the waves?” Aksor asked.
 
-Neshra saw one boot, then Odal hung below the old courtyard wall, turning above the gulf of the palm. Their line passed through the drain staple—the same block of stone now carrying the water jar and the fig.
+“One bell, three counts,” Zunel said. “The evacuation bell stays separate. Polaq, set runners from here to the upper gardens. No one uses the wrist ledge without my inspection.”
 
-A crack opened from one staple to the other.
+Polaq looked toward the cupped hand, then down at his full register cords. “And the outer route?”
 
-“Odal.”
+“Measure it every hour. Don't promise it.”
 
-“I’m on the line.”
-
-The fig swung again. Its lowest branch struck the wall and split. The impact traveled through the rope and tore a bronze finger out of the socket.
-
-Neshra crawled toward the garden line. Brine made the stone slick under her wrapped hands. Blue crystals broke inside the cloth and numbed her palms.
-
-“Cut the brown rope,” Odal said.
-
-Neshra reached it. The line was tight as metal, humming under the knife point.
-
-The brown rope was the fig.
-
-“Your side first,” she said. “I can haul you.”
-
-“The block won’t hold both.”
-
-“I have the better angle.”
-
-“You have one foot.”
-
-The crack lengthened. Dust poured from it into Odal’s hair.
-
-Neshra wedged her bad knee against the channel. Pain blackened the edge of her sight. She pulled Odal’s safety line once and gained no more than a finger’s width.
-
-The fig’s roots turned in the air above her. Among them clung the black graft’s label, a strip of hammered copper she had cut when Odal was nine. She had expected to replace it after twenty harvests. Then thirty.
-
-The stone shifted another fraction.
-
-“Brown rope,” Odal said again. “Now.”
-
-Neshra cut.
-
-The first stroke opened the waxed braid. The second caught. She changed the knife angle and drew the edge toward herself, sawing through fibers while the line kicked against the blade.
-
-It parted.
-
-The fig dropped away from the terrace with the soil bed, split trellis, seed pack, and half the shed roof following. For an instant the tree’s branches spread against the sky exactly as they had in the garden. Then the mass struck the lifeline, broke through a market awning, and went on toward the center of the palm.
-
-Released from the pull, the staple block settled back.
-
-Neshra hauled. Odal walked their boots against the wall, found the lip, and came over it hard enough to knock both of them into the brine-filled cut. The water jar slammed between their hips. Its lid cracked, but the rope held.
-
-The palm continued to turn. They could do nothing now but wedge themselves into the channel, one above the other, sharing the remaining foothold. Odal locked an arm around the jar. Neshra braced Odal’s back with both knees, good and bad.
-
-Overhead, the fingers curled.
-
-* * *
-
-Across Ammara’s skin, objects obey the slope until they break. The warm points alter what they do.
-
-They release what they had held. They place themselves between falling weight and other warmth. They reverse direction for one another. The pair near her crease divides a rooted mass from the line that holds them, then closes together again.
-
-One such change might be drift. Across her palm, the changes repeat and answer one another until she can no longer mistake them for it.
-
-Lives.
-
-The word comes from deeper memory, but the lives upon her are not part of it. They are here now, minute and numerous, inhabiting the outer hardness of her body. Their channels and roots mark her surface. Her motion is sweeping them away.
-
-Her fingertips have almost reached her palm.
-
-To finish would grind the repeated warmths beneath them. To reverse at once would throw down those already clinging to the new angles. The movement she wants has no harmless direction left.
-
-Ammara holds.
-
-Pain fills the wrist and travels into her arm. One finger continues under its own weight. She takes it back by a measure vast enough to topple walls and small enough to spare the crowded crease beneath it.
-
-Then she does nothing, with all the strength she has recovered.
-
-* * *
-
-The end of motion arrived slowly.
-
-First the water stopped climbing the side of its jar. Then chips of blue scale lay where they fell. Last, the ropes across the distant roof courts ceased their long swing.
-
-Neshra remained wedged in the drain, counting breaths against Odal’s shoulder. At twelve, Odal tried their left hand. The fingers closed unevenly but closed. Their right arm hung close to the body.
-
-“Shoulder?” Neshra asked.
-
-“Still in.”
-
-“Can you lift it?”
-
-“Halfway. Then it grinds.”
-
-That was answer enough for the moment.
-
-Neshra unwound the cloth from one palm. Blue dust had worked through and left the skin pale and without feeling. Her bad knee had swollen against the channel wall. The cut along her forearm was shallow. They had lost the hoe, both packs, the garden line, and nearly half the water. The knife remained clenched in her wrapped hand.
-
-Above them, the terrace was a broken vertical shelf. Their house stood at its upper edge with the door opening into air. Nothing remained of the fig but a dark comb of roots caught in one crack.
-
-The fingers hung over Ammara's Palm. Whole districts now occupied opposing cliffs. Roads ended at gaps of sky. From somewhere thumbward came six bell strokes, then six again, struck by hands this time. People answered with hammers on stone.
-
-The brine had not stopped. It seeped warm through the seam and laid fresh blue plates over the drain mesh.
-
-Odal reached for the scraper.
-
-“Left hand,” Neshra said.
-
-“It’s slower.”
-
-“It has feeling.”
-
-Odal switched hands. Neshra shortened the jar rope and fitted its chipped foot into a corner of the cut. There was no worn hollow here. She turned the jar until three rough points caught, then kept one boot against it while Odal cleared the grate.
-
-“When the deep noise eases, we test wristward,” Odal said.
-
-Neshra looked toward the buried service cut. “You lead to the parapet. I’ll sound the anchors.”
-
-“You cannot put weight on that knee.”
-
-“I can hit stone with a knife.”
-
-Odal scraped another blue curl free. “After the parapet, I sound them.”
-
-Neshra almost corrected the division. Instead she nodded.
-
-A strain moved far below, not a collapse but something slower: pressure traveling through the wrist. Odal stopped scraping. Neshra tightened her boot on the jar. Across the altered palm, the answer-hammers fell silent.
-
-The hand did not move.
-
-After a time, Odal said, “If the rib road still joins the wrist, I am taking it.”
-
-Neshra watched the blue crust begin again at the edges of the mesh. “Clear this first.”
-
-“I am.”
-
-“The corners too.”
-
-Odal looked at her, tired and furious, then drove the scraper into the corner Neshra could not reach.
-
-Neshra held the jar steady.
+He went to find the runners. Aksor carried the ration bowl to the next awning. Yeshal knelt beside her plumbs with a water clock between her knees. Zunel remained at the wall, assigning shelter loads and drawing paths on the forearm as it now lay: not the old straight streets, not a map beyond the day, but two ways to water and one clear way for the litters.

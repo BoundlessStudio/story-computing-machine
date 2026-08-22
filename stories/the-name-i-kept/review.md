@@ -6,21 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Mica | new | Given-name form for the younger sibling and second-person narrator; no exact, alias, close-spelling, or confusing prior reuse found. |
-| Mica Serrin | new | Full-name form for the narrator; no prior confusing reuse found. |
-| Auden | new | Given-name form for Mica's disowned older sibling and former hero Rampart; no exact, alias, close-spelling, or confusing prior reuse found. |
-| Auden Serrin | new | Full-name form for Mica's older sibling; no prior confusing reuse found. |
-| Rampart | new | Auden's former hero alias; its family-brand fortification parallel with Palisade is intentional and unambiguous in context. |
-| Serrin | new | Shared surname and family-name form used by Mica and Auden; no prior confusing reuse found. |
-| Crownfire | new | Hero alias for Mica and Auden's mother; no prior confusing reuse found. |
-| Palisade | new | Hero alias for Mica and Auden's father; role and context distinguish it from Rampart. |
-| Shearpoint | new | Alias for the deceased supervillain; no prior confusing reuse found. |
+| Ossia | new | Younger Vardel sibling and focal hero; no exact, alias, close-spelling, or confusing reuse found. |
+| Kerin | new | Disowned older Vardel sibling; no exact, alias, close-spelling, or confusing reuse found. |
+| Vardel | new | Shared family surname and power-family label for Ossia and Kerin; no exact, alias, close-spelling, or confusing reuse found. |
+| Stillmark | new | Deceased supervillain whose live heartbeat link forced Kerin's terminal act; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The laundromat, bridge, river, studio, and city remain unnamed. |
+| None | none | No named place appears in the story. |
 
 ## Continuity
 
@@ -35,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Auden controls the limited evidence release and retains responsibility for the lethal choice; Mica's public correction costs the family crest without producing instant acquittal.
+- Notes: The story cleanly separates Kerin's culpable lone pursuit from the forced killing; the band repair, calibration error, parental break, and bounded tram test carry that distinction through action and distinct, pressure-shaped speech.

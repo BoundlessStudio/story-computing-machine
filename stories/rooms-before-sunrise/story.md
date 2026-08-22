@@ -8,332 +8,444 @@ canon: false
 
 # The Rooms the City Forgot
 
-At forty-three minutes before sunrise, Mavek put three teeth of her municipal blade into a warm swelling on Mast Nine and heard crockery move behind it.
+The knife went in hot.
 
-She stopped her thumb before the fourth tooth engaged. The blade's motor died, leaving the small sounds of predawn Aqessa: water worrying the reef piers far below, wind combing the tower's heat vanes, and now the scrape of a spoon across the other side of a membrane her map showed as solid muscle.
+Lirenn drew it back from the tower's flank and touched the ceramic spine to the heel of her glove. Heat came through the rubber. Below her hanging cradle, the sea worked black and silver against the reef foundations; above, six hundred leased rooms tightened and released around sleeping bodies. The tower's night pulse should have traveled in long, lazy bands. Here it broke twice against a ridge that did not appear on her municipal section.
 
-Mavek kept the blade where it was. Pulling it carelessly would tear the shallow cut into a mouth.
+She scraped away a frill of fresh coral. Under it, muscle the color of uncooked shellfish shivered around a seam. Warm air feathered the salt on her wrist.
 
-Her wrist reader laid pale figures over the wall. The swelling drew mineral at nearly three times the service band's allowance. It carried heat, divided fast, and lacked both a lease nodule and a chamber boundary. Four signs her crew used to distinguish a bad bud from a room. Four signs that usually let her cut without waking anyone.
+Solid wall, according to the section.
 
-The spoon struck a bowl once.
+“Bordu.” She pressed the throat of her mask. “Exterior east, tier eighteen. Warm exhalation through load muscle. Irregular pulse.”
 
-“Move away from this wall,” Mavek called.
+Her supervisor's reply rasped from the cradle speaker. Behind his voice, the night office pumps beat their patient three-count. “Old vent?”
 
-A woman's voice came through the wet tissue. “How far?”
+“No lumen on record.” Lirenn set a tension prong on either side of the seam. The needles leaned apart. “There's volume behind it.”
 
-Mast Nine could flex, warm, seal, and exchange, but it had no structure for words. A person had answered from the cut field and already knew exactly where Mavek stood.
+Silence lasted one pump beat. “Sunrise intake in fifty-one minutes.”
 
-“Two arm lengths. Take everyone with you.”
+“I can see the sea.”
 
-“Only my table is close. Give me a breath.”
+“Then you can see the light coming.” Bordu was tired enough to let irritation show. “If it's a bloom, the first perfusion will drive it into the feed trunk. Housing or disease before that. No third box.”
 
-Wood dragged. A peg squealed out of the floor. Mavek waited until the voice said, “Clear.”
+The seam breathed against her glove.
 
-She reversed the teeth one by one, pressed sealing foam into the narrow cut, and clipped the blade to her belt. Restraint felt worse than cutting. A clean excision left two edges she could inspect and join. An uncut growth kept all its answers inside it.
+Lirenn clipped the cradle's safety tongue to a ring of legal balcony bone and changed blades. “Open an emergency line for tier eighteen.”
 
-The legal maintenance fold ran four palms to her right. Its groove should have descended straight along the exterior service muscle, but halfway down, the groove bent toward the swelling and disappeared beneath clear salt film. Mavek brushed the film away. She fitted a fold-key into the groove and sent a low contraction through it.
+“Already holding it.”
 
-The wall pleated, held at an old scar, then opened to the width of her hand.
+“Holding isn't opening.”
 
-Warm air breathed past her, smelling of boiled grain, lamp oil, damp blankets, and bodies.
+“It is at this hour.”
 
-“One notch wider,” the woman said. “The table blocks the other way.”
+She could picture Bordu with one hand on the tower map, counting the lit rooms above the ridge. He protected totals. Six hundred sleeping tenants gave him reason to.
 
-“Two would split the upper seam.”
+“Eleven minutes,” he said. “Then I send the debridement team.”
 
-“One, then. You won't clear it as it is.”
+Lirenn slipped the thin knife into the seam. Pressure, grain, pulse. The muscle resisted on the inward stroke and yielded sideways, organized around something more complicated than a tumor. She cut with the grain.
 
-Mavek increased the key by one notch. The fold parted enough for her shoulders, no more. She went through sideways, blade guard turned toward her hip.
+The wall opened its wet red lips on a room.
 
-The woman had gray hair braided close to her head and a spoon tucked into her waistband. She held a three-legged table clear of the wall. Each foot ended in a barbed bone peg. Glue was useless in Aqessa's living rooms; the salt shed before morning tide loosened hooks, labels, and most tenants' faith in shelves. This room shed the same salt. A cloudy water blister hung over a basin, waste cilia slept beneath a slatted cover, and heat pleats ribbed the low ceiling.
+Not a cavity. A room. Pale lining cupped an alcove wide enough for a sleeping mat. An air gill folded near the ceiling. A load rib had grown diagonally through the far wall, and a clay cup sat in its fork. There was a sandal under the mat.
 
-None of it existed on Mavek's reader.
+A hand shot through the opening, caught her wrist, and dragged the blade away from a dark tube behind the lining.
 
-“Name.”
+“Not there,” a man said. “Feed.”
 
-“Imro.”
+Lirenn twisted free and braced both boots against the cradle. “Let go.”
 
-“Palm.”
+“You were cutting the feed.”
 
-Imro shifted the table to one hand and offered the other. Municipal light crossed her skin, found no lease, searched the census, and returned an empty ring.
+“Move your hand.”
 
-Mavek changed reader modes and tried again. Empty.
+He did. He was broad, gray-haired, and bare to the waist, his skin stippled with the harmless salt rash that came from living too long in unbalanced rooms. No lease seal shone under his collarbone. Behind him, another person kicked aside the sleeping mat and lifted the clay cup before it spilled.
 
-“When did the record fail?”
+“How many?” Lirenn asked.
 
-“Fourteen nights ago, after the relocation counter sent us to a mast that wouldn't take the leases.”
+“Five,” the gray-haired man said.
 
-The answer gave Mavek a date. The reader still showed a blank where Imro's record should have been. She entered the date manually. “How many are inside?”
+A woman called from deeper in the growth, “Six floors if that tube fails.”
 
-“Seven, counting me.”
+The man glanced back. A partial answer, and he knew it.
 
-Mavek changed to an occupancy sweep. Six deeper pulse patterns appeared beyond Imro's and curved inward through tissue the tower map labeled solid. The census lookup returned an empty ring for each one.
+Lirenn enlarged the cut upward. “Names. Work.”
 
-“Anyone beyond the innermost wall?”
+“Mular. Graft tender.”
 
-“No one past the wet room.”
+“Former,” said a compact woman crouched beside the air gill. She pushed a flexible reed through its folds, clearing a clot of gray mucus. “Kevi. I know the routes. The east exit's sealed.”
 
-The tower flexed under their feet. It was a routine preparatory draw, weaker than the circulation that would climb from its lower reservoirs at sunrise. The water blister dimpled and recovered.
+The woman at the feed tube trapped it briefly under one knee, leaving both hands empty. “Eshun. Supplies.” Then the vessel kicked free and she caught it, squeezing in a slow, alternating rhythm to milk dark fluid past a pinch.
 
-Thirty-seven minutes.
+Two more people waited in the next alcove: an older woman with one knee bound in reed splints, and a fever-bright man holding a wet cloth against his mouth. Five. None wore lease seals.
 
-“Wake the others,” Mavek said. “No one touches the walls, the feeders, or anything grafted into them. I inspect to the inner end and back.”
+Lirenn touched her mask. “Occupied growth. Five unbound residents. Send a medical cradle and ward clamps.”
 
-Imro set the table down without replacing its pegs. “And if you decide to cut on the way in?”
+“Unbound occupants,” Bordu repeated. The change was small and deliberate. “Is it differentiated?”
 
-“Three long strikes through the main rib. After the third, you use this fold. You'll have four minutes before pressure falls.”
+Lirenn looked at the gill, the load rib, the feed line Mular had stopped her cutting. “Not enough data.”
 
-Imro watched the blade at Mavek's belt instead of Mavek's face. She lifted a small oil lamp from a bone hook.
+“Seven minutes.”
 
-“The passage turns,” she said. “Keep your left shoulder to the inner wall.”
+Mular stepped back as she climbed through. The lining tried to grip the tread of her boots, then loosened after half a second. Accommodation response. She marked it on her wrist slate.
 
-Mavek followed.
+The hidden space branched around the tower's older anatomy. Every wall was curved, but not randomly. One chamber held sleeping mats. Another had shallow waste channels with mineral crust around carefully patched lips. Heat sacs nestled beneath a rack of drying shirts. The chambers borrowed everything—air, salts, waste clearance, muscular lift—from legal floors whose residents had paid to seed the tower with their microbial cultures.
 
-The hidden passage coiled inward around Mast Nine's central service band. Its floor descended in shallow ridges, each one firm enough for a boot but soft at the lip. Imro knew where to shorten her step. Mavek tested every ridge with the blunt heel of her probe before trusting her weight.
+They also gave back. A warm return vessel pulsed toward the main night reservoir. Thin resident-matched linings filtered waste. This was not dead shelter carved from flesh. It was participating.
 
-In the second chamber, a man was wrapping clothes inside a sleeping mat. He had put on one shoe and left the other beside a chipped mineral grinder too heavy to carry. While he knotted the mat, the ceiling pleats above his bare foot thickened and warmed.
+At Lirenn's feet, a translucent bud no larger than her thumb nosed blindly from a crack and tightened around her boot lace.
 
-Mavek pressed a temperature strip to them. “Who shaped this fold?”
+It had no place in a mature apartment.
 
-“It gathers heat where his leg locks,” Imro said. “We moved his mat twice. The warmth moved after him.”
+She sliced it free. Clear gel bled from the stem.
 
-“How long did the change take?”
+Mular flinched. “You could tag before cutting.”
 
-“One night the first time. Less than an hour now.”
+“Tagging gives it time.” Lirenn pinched a sample into a vial. “How long has it been budding?”
 
-The tissue was regulating heat for him as legal housing did. On Mavek's strip, it was changing faster than legal housing was allowed to change. She cut a sample no larger than a fish scale. Healthy capillaries closed beneath her knife. New cells crowded the sample's edge.
-
-“Excision rate,” she said.
-
-Imro looked at the man, not at the sample. He left the grinder, took the second shoe, and carried the rolled mat toward the outer room.
-
-Beyond his threshold, three blind buds pushed from the passage wall. Mavek's probe found no air pores, water vessels, waste cilia, or load-bearing fibers in them. They consumed mineral and served nothing she could measure.
-
-She ringed each bud with blue assay chalk.
-
-“Those weren't there yesterday,” Imro said.
-
-“You're certain?”
-
-“I hung the lamp on that peg.” She pointed to a bone barb now half swallowed by the middle bud. “I still have the tear in my cuff.”
-
-Growth within a day. Mavek pressed a listening pin beside the buds. Their vibration was quick and shallow, badly synchronized with the surrounding muscle.
-
-“Don't sleep against this passage,” she said.
-
-“We don't. It's a passage.”
-
-Imro moved the lamp inward.
-
-The third chamber held an adult and a child. The adult bundled blankets while the child worked carved fish from their wall pegs. One fish remained trapped where new tissue had covered the barb. The child tugged until the wall blanched around it, then stopped, chose four other toys, and pushed them into the bundle.
-
-Mavek tested the chamber's water. The blister above the basin held clean water at a safe salt balance. It refilled as her sample tube drew, though no lease nodule instructed it to do so. On her map, the supply line belonged to two apartments three levels above.
-
-“It fills at night even when we tie it off,” Imro said.
-
-“The upper line has lost nine percent pressure.”
-
-“Give us a clamp. They can carry from the public cistern.”
-
-“A clamp here could backflow waste into the legal line.”
-
-Imro put two fingers beneath the blister, feeling its weight. “Then mark the pipe. We can stop drinking before you find a better answer.”
-
-Mavek tagged the stolen branch on her reader. Imro pulled the basin away from it. Behind them, the adult shouldered the blanket. The child went back, eased the trapped fish until its peg tore free, and pocketed it despite the adult's outstretched hand. A bead of clear fluid sealed the wall in seconds.
-
-Twenty-nine minutes.
-
-In the fourth chamber, an older resident sat on a reed frame too wide for the spiral. Instead of packing it, they were untying the joints one by one. Their breathing made a patch of tiny wall pores open and close near the pillow. When Imro's lamp approached, the pores tightened. When it passed, they opened again.
-
-No lease nodule. Sustained exchange. Fast response.
-
-Mavek noted both.
-
-The main feeder rib crossed the passage beyond that room. It rose from the floor like a thick white tendon, curved through the inner wall, and carried the tower's mineral slurry upward. An illicit branch left its underside and followed the spiral toward the hidden chambers.
-
-The rib should have been ivory and spring-hard. Around the branch it was gray, thin enough for Mavek to see fluid shiver through it.
-
-She placed listening pins on the main rib, one above the branch and one below. The upper pin hummed evenly. The lower missed every sixth beat.
-
-Her thumb lifted the blade guard. Habit completed half the motion before she stopped it.
-
-This was the cut she trusted: two crescents across the branch root, angled away from the main rib, then a compression bridge over the open ends. Nine minutes if the flesh separated cleanly. The spiral would lose pressure. The rooms might sag, close, or bleed into the service muscle, but the rib would keep Mast Nine standing.
-
-Imro crouched on the other side and held the lamp low. “It was that color yesterday.”
+“It does that near new seams.”
 
 “How long?”
 
-“Until high tide. It pinked after the lower tanks filled.”
+“We prune them.”
 
-“This isn't tide color. The inner layers are losing shell.”
+“Mular.”
 
-“Will it split at sunrise?”
+“Three months. Maybe four.”
 
-“It may.”
+Kevi pulled the reed from the gill and wiped it on her trouser leg. “Longer.”
 
-Imro glanced back along the curve. The resident with the reed frame had freed only half the joints. “Then why are we going farther in?”
+Mular's head turned toward her.
 
-Mavek released the blade handle. “The branch narrows toward its source. If I cut, I choose the smallest cut that clears it.”
+“Don't,” she said. “She found us. We're past tidy.”
 
-Imro stood and carried the light onward.
+The floor clenched. Eshun's fingers slipped on the feed tube. She caught it with both hands, forced it into the crook of one knee, and raised empty palms. “No one step on the blue ridges. Please.”
 
-The fifth room had no water blister, but its air pores worked. A resident with a cloth tied over their mouth packed three medicine tubes into a belt and left bedding where it lay. As Mavek entered, the pores widened, drawing the bitter medicinal smell toward the passage. The resident watched the ceiling, waited for the next breath of air, then slipped past Imro toward the outer fold.
+It was the please, ordinary and breathless, that told Lirenn how close the feed was to failing.
 
-The sixth chamber had a waste trench and a sagging water pocket but no heat pleats. A broad-shouldered woman set a cookpot on a square of sailcloth, tested the bundle's weight, and took the pot off again. Imro crouched to lift it for her. The woman covered its handle with one hand, left it on the sailcloth, and tied her boots.
+She uncapped a dye thorn and pressed it into the return vessel. Yellow dye raced through orderly capillaries in the sleeping chamber, reached the waste lips, then dispersed evenly through the heat sacs. Housing differentiation. But a second plume vanished into the wall behind Mular and did not return.
 
-Mavek counted. Imro; the man with the stiff leg; the adult and child; the resident dismantling the frame; the person with medicine; the cook. Seven.
+“What's in the service sinus?” she asked.
 
-Past the sixth chamber, the spiral narrowed to a wet cell that could barely take Mavek and Imro side by side. Its floor sloped toward the central rib. There were no furnishings and no pegs. Pale tissue gathered in ropes around an object embedded lengthwise in the inner wall.
+“Scar tissue,” Mular said.
 
-Mavek set her lamp pin beside it. The object was hand-long, ribbed, and brown at its exposed end. A seam circled its base where yellowed foreign tissue met Mast Nine's pink muscle.
+Kevi snorted once.
 
-“Don't open that seam,” Imro said.
+“Move.” Lirenn pointed the dye thorn at him.
 
-Mavek kept the flat of her probe against it. “The scar predates the rooms. What is inside it?”
+“There isn't room.”
 
-Imro's grip tightened around the lamp.
+“Then make it.”
 
-“Not inside the rib. There was a service scar beside it.”
+He planted himself before a low opening veiled in pink membrane. A graft tender's stance: feet apart, hands empty where she could see them, braced for her cut. Lirenn mistrusted anyone who made her anatomy wait upon a confession.
 
-“What did you graft?”
+Her mask cracked with static. Bordu said, “Air demand spike on nineteen.”
 
-“A nursery plug.”
+Above them, the tower's slow pulse stumbled.
 
-Mavek uncovered the municipal marker with one stroke of her probe. The serial had been scraped away, but the plug's rib spacing was unmistakable. Nursery plugs were used to coax a single emergency room from young apartment tissue while permanent lease nodules rooted. They were counted at every civic store because their growth salts did not care whether a wall had budget left to spend.
+Eshun locked the tube between her knees and raised her empty hands. “Which stack?”
 
-“From the failed relocation?” Mavek asked.
+“East six.”
 
-“From the nursery after they emptied it.”
+“That's us.” She pinned the tube beneath her knee, took both hands away, and pointed through the curved wall. Without her pumping, fluid immediately darkened. “Our feed pinches their air return when this chamber fills. Cut through my room to the gill root. Straight up.”
 
-“You cut it out.”
+Mular said, “No.”
 
-“It was already loose.” Imro lowered the lamp so the flame no longer hid her face. “We pushed it into the scar. Starter gel, a cup of brine, my blood. One feed.”
+“You have another route?” Eshun put both hands back and pumped.
 
-“And one room.”
+When the tube softened, she let it go for one beat. “Use your mouth for one.”
 
-“One dry room by morning. All seven of us slept in it. Three nights later, that wall folded open. Then another.”
+Lirenn checked the wall's vibration. Six rapid tremors: legal apartment alarms traveling through load ribs. “Which chamber is yours?”
 
-“You fed those?”
+Eshun jerked her chin toward the heat sacs and drying shirts.
 
-“Nothing. We moved our blankets. The water came after.”
+“There's a support rib behind it,” Mular said. “You cut blind, you drop the alcove.”
 
-Mavek slid a capillary along the graft without breaking it. Nursery cells crowded the seam and diminished within a hand's width. Mast Nine's own cells dominated farther out. Between them lay untyped cells that might have come from the plug, the tower, or skin shed by people packed into the first chamber. The chemistry mapped the spread from this point. It could not distinguish continued instruction from a wound response or adaptation to seven bodies. The plug had caused or catalyzed the first room; its exhausted starter gel did not account for the later ones.
+“Not blind.” Lirenn took a resonance peg from her belt and struck the wall. The tone came back split. “Rib at two hands. Air root at four. Heat sac between.”
 
-Mast Nine tightened around them. The lamp flame shortened. A deeper beat entered the floor as the lower reservoirs began their final fill.
+Eshun pinned the tube beneath one knee and lifted both hands. “My stores are under the sac. Kevi, take this.”
 
-Fourteen minutes.
+She took over. Only then did Eshun move. She swept sealed packets of salt cake, a bundle of clean cloth, and three jars into her apron. Lirenn helped lift the drying rack. They had no time for the shirts. Eshun looked at them once, then pulled the room's reed divider away and wrapped it around the fevering man's shoulders.
 
-Mavek's reader opened the dawn decision over her samples: `housing` or `disease`. No third field. The classification had to be signed before circulation or the anomaly would default to emergency excision.
+She tucked the last fold beneath the fevering man's arm and let go. “Clear.”
 
-Imro set the lamp down and wrapped both hands around the exposed end of the plug.
+Lirenn drove two clamps into the support rib. Ordered nouns steadied her: rib, sac, root, cut. She opened the heat sac, caught its hot brine in a waste bowl, and divided the wall. The gill root inflated into the cut with a soft, awful bloom. Air roared past them. Somewhere above, six alarms slowed and stopped.
 
-“Release it,” Mavek said.
+The new passage collapsed Eshun's sleeping alcove into a narrow service duct. Her drying shirts settled in the brine.
 
-“If this is what you have to cut, take it alone.”
+Eshun set the jars in the crook of the load rib and steadied the last one with her wrist. Her hands came free. “Can they breathe?”
 
-“It isn't loose now.”
+Lirenn listened to the wall. “Yes.”
 
-“It came out of the nursery with two fingers.” Imro shifted her feet for leverage. “The others are almost at the fold. Pull this, see if the rooms stop drawing. If they close, we get out. If they don't, you know where to put your blade.”
+“Then leave the rack.” Eshun handed a salt packet to the coughing man. Once he had it, she let go. “Small bites. Not the whole thing.”
 
-She twisted. The seam whitened. The lower listening pin at Mavek's wrist dropped a beat.
+Bordu came over the speaker. “Nineteen is recovering. What failed?”
 
-Mavek drove the blunt guard of her blade between Imro's knuckles and the wall, blocking the turn without touching the teeth. “Stop. You're unloading the graft.”
+“Illegal growth compressed a legal air return.”
 
-“That's why I'm doing it.”
+“Disease criterion.”
 
-“A collapse tells me you tore out bearing tissue. It does not tell me the rooms were disease.”
+“One criterion.”
 
-“It tells us not to sleep in them.”
+“A floor lost air.”
 
-“And continued growth tells me nothing until after the pulse.” Mavek leaned into the guard until Imro's hands opened. “No. Seven people are still in this cut field. The plug may be holding the feeder together. I won't spend them and Mast Nine to get a cleaner sample.”
+“And differentiated tissue accepted a relief path.”
 
-For a moment Imro kept one palm against the plug. Her other hand shook from the strain.
+“At the cost of a room that shouldn't exist.”
 
-“If you leave it,” she said, “we may be the weight that splits the rib.”
+Eshun's face went still. Lirenn turned down her speaker, too late.
 
-“Yes.”
+“Bring your clamps,” she told Mular. “Service sinus. Now.”
 
-Imro took her hand away.
+He stayed in front of the membrane.
 
-Mavek unrolled an isolation sleeve from the back of her belt. It was a split mesh cuff meant to contain a suspect bud without pulling it from living tissue. She fed its narrow lower tongue between the exposed plug and the wet ropes around it, stopping where the graft disappeared into the wall. The upper half closed over the plug. When she pressed the edges together, the mesh stiffened and bonded to healthy Mast tissue in a ring around the seam. The sleeve would trap shed cells and slow chemical exchange without taking any of the plug's possible load.
+Kevi, still squeezing the tube, said, “If he won't, cut around him.”
 
-“Hold the light on the lower edge,” Mavek said.
+“You said you knew the routes.”
 
-Imro did. When a thread of brown fluid entered the mesh, she shifted the flame before Mavek asked, showing the spread along the sleeve rather than hiding it in glare.
+“I know when one closes.”
 
-Mavek knelt to attach a sensor. The unfinished wall touched the sweat at the back of her neck. A scatter of pores opened there, stirring cool air under her collar. Tissue thickened beneath the hard corner of her tool case until its weight stopped biting into her thigh. Beside her bare wrist, a clear bead gathered and rounded into a thumb-sized water sac.
+Mular's prepared explanations had come apart. “It wasn't—the cultures would have died. Once the bindings vanished, the lining shed us. You know rejection. We only needed a cavity through molt, but the census refreshed before—”
 
-Her lease belonged elsewhere in Aqessa. No nodule linked her to this room. The tissue was exchanging air, support, and water with the body inside it anyway.
+The hidden feed bucked under Kevi's hands. She swore and leaned her weight onto it.
 
-At the same moment, her reader showed the hidden branch taking another fraction of mineral from the main rib. A blind nub pushed against the sleeve's upper edge, purposeless and new.
+“Object,” Lirenn said. “Location. Connection.”
 
-Mavek sampled the nub, capped it in blue gel, and stood.
+Mular swallowed. “Comb. Behind me. At the nutrient wick.”
 
-Nine minutes.
+“Living?”
 
-“Back to the feeder,” she said.
+“Cultures are. Ceramic isn't.”
 
-Imro picked up the lamp. “Blade or bands?”
+“Connections?”
 
-“Bands first.”
+“Five roots. Maybe more now.”
 
-On the outward walk, the cook's pot remained on the sailcloth; its owner had chosen boots and a small knife. The resident from the fifth room was gone toward the fold, medicine secured at the waist. In the fourth, the reed frame lay in six sections, but its owner had taken only two and left the rest stacked above the floor's damp line. The child wore the bundle of blankets like a shell and kept one fist around the fish with the torn peg.
+“Move.”
 
-At the pale feeder, Mavek fed a narrow occlusion band through the groove between the main rib and the illicit branch. She locked it around the branch root without circling the rib. A wider reference band went around healthy rib tissue below the junction. If the branch draw crossed the red limit, the first band would constrict it; the reference band would stop that contraction if host pressure collapsed. Neither could replace mineral already lost. She linked both to the sensor in the plug sleeve, then painted a blue line on the floor outside their contraction range.
+This time he did.
 
-“Anyone using the exterior fold crosses now,” Mavek told Imro. “At the first reservoir knock, it stays open. Everyone else keeps outside this line.”
+Lirenn cut the membrane along its slack edge. The service sinus was a cramped vertical throat between old lift muscle and the saline trunk. A nutrient wick ran through it, thick as her arm. Lashed to the wick was a crescent of fired ceramic punched with dozens of fine holes. Five dark clots had been threaded through the holes and spread across its teeth. From them, pale roots entered the tower lining. Smaller buds clustered wherever the roots crossed.
 
-Imro sent four quick taps along the wall with the spoon from her waistband. The signal traveled outward. The man with the rolled mat continued through the fold. The adult carrying blankets stopped inside it; the child crossed the passage to their side, still clutching the fish.
+The comb had no pulse of its own. It transmitted tug and chemistry. Nothing more that Lirenn could measure.
 
-Six minutes.
+“You put lease buds on a common wick,” she said.
 
-The bands tasted the feeder's flow. The reference reading held. The branch continued to thin, but slowly enough for the occlusion band to close before a tear if its sensors remained true. Mavek tagged the three blind buds for non-destructive sampling and set separate alarms for the stolen water line, the graft, and the mineral deficit.
+“Withdrawn buds,” Mular said. “Our own. They weren't stolen.”
 
-Biological risk, active and unresolved.
+“That isn't what I asked.”
 
-She did not clear the blade.
+He crouched beside the comb but did not touch it. Without the speech he had prepared, his words came singly. “Full-floor molt. We decoupled. Temporary. We had repair tokens.”
 
-They returned to Imro's outer room. The table stood loose on its three legs. Imro planted one knee against it while Mavek opened the decision field. Beyond the room, packed residents occupied different thresholds, some facing the fold and some facing inward.
+Kevi called from the other chamber, “Show her.”
 
-The reader displayed its two tests. `Disease`: uncontrolled tissue requiring immediate excision to preserve the host. `Housing`: tissue sustaining shelter exchange with occupants.
+The older woman pushed a waxed paper packet across the wet floor. Inside were five municipal repair slips, each stamped before the last floor molt. Their ink had feathered, but the detachment times remained legible. Lirenn held them beside the lease-scar register on her slate. Five withdrawals. No rejections. On the morning the buds should have been replanted, the census refresh had copied active bindings into its new table and archived everything unattached as duplicate residue.
 
-Mavek reviewed the heat that followed a sleeping leg, clean water drawn through the wrong pipe, waste cilia, breath pores, sealed peg wounds, and the unfinished cell's response to her own weight. Then the blind buds, the starved rib, the illegal plug, and the branch still drinking toward dawn.
+The refresh had archived five bindings while five bodies remained. Lease linings had then shed whoever the table no longer paired.
 
-The rooms met the housing test. The blind growth and feeder strain remained active biological hazards, but the bands and sleeve gave her a non-destructive interval through the pulse. Under the separate hazard field, Mavek attached the plug-sleeve trace, the branch and rib thresholds, and every blue mark. She ordered isolation without excision.
+“We went back to the lease desk,” Kevi said. “It told us to bring active seals.”
 
-Then she selected `housing` and pressed her palm to the signature field.
+Eshun knelt by the fevering man and poured water into the clay cup. She set the skin down before she spoke. “He doesn't need the desk story. He needs the medic.”
 
-Two minutes.
+“Cradle's coming,” Lirenn said.
 
-Imro watched the reader accept Mavek's name. “Does housing put our palms back?”
+“When?”
 
-“No. It stops this excision. Your census entries are still empty.”
+Lirenn checked the request. Bordu had placed it behind the debridement team.
 
-“Can they cut after today?”
+“Bordu.” She reopened her speaker. “Move medical ahead of cutters.”
 
-“A later finding can. A lease order can remove you without calling the rooms disease.” Mavek tightened the table peg nearest the fold so it would not jump during circulation. “The rib is still losing mineral. The bands can fail.”
+“Not until classification.”
 
-Imro looked down the spiral. “So no one unpacks.”
+“Fever in an enclosed growth.”
 
-“Some have crossed the fold already. Keep whoever stays off the blue line.”
+“If it's disease, I don't put a ward cradle against it.”
 
-Imro tapped a different sequence with her spoon: no cut now, rib unsafe. The cook went back for her pot. The resident with the reed frame left two sections behind. The child passed the blanket bundle to the adult and kept the fish.
+Lirenn looked at the man's wet cloth, then at the buds stippling the comb roots. “Conditional approach. External basket, isolation hood, no tissue contact.”
 
-The first reservoir knock came through the floor.
+A pause. Bordu's voice returned less flat. “If you cut an exterior egress first.”
 
-Mavek widened the maintenance fold by half a hand so it would not seal during the surge. Imro braced the loose table. The room's heat pleats flattened as Mast Nine drew inward.
+“Kevi, can your east route take a basket?”
 
-Sunrise reached Aqessa's upper reefs.
+“No.”
 
-The dawn circulation struck the feeder rib. Warmth rushed under Mavek's boots. The water blister collapsed to a skin, filled again, and quivered. Deep in the spiral, the isolation sleeve's sensor darkened with captured fluid. The branch band tightened until its reading hovered one mark below red.
+“Can it be widened?”
 
-For three beats the hidden branch took no more.
+“Not before the light.”
 
-On the fourth, mineral began to pass into it again, slow and measurable.
+“Another route?”
 
-The rooms remained open. The mineral loss resumed.
+Kevi squeezed the feed tube once more and passed it back to Eshun. Then she crawled past Lirenn into the sinus and shoved both hands behind the old lift muscle. “There. Skin to outside. Two ribs, no trunk.”
 
-Mavek left the `housing` classification signed and the hazard alarms live. She locked the teeth of her blade, turned sideways through the maintenance fold, and stepped onto Mast Nine's brightening outer ledge.
+“That faces the drop.”
 
-Behind her, Imro carried the lamp inward. Beneath Mavek's palm, the feeder missed its sixth beat again.
+“That's what baskets are for.”
+
+“Open it,” Bordu said. “Then I send medical. If the cut compromises lift, I send cutters with them.”
+
+Conditional. It was not trust, but it was room to work.
+
+Lirenn put Kevi on the resonance peg. She struck where Lirenn pointed, badly at first, too hard, and the sound muddied. Lirenn caught her wrist.
+
+“Tap. Don't punish it.”
+
+“I deliver parcels.”
+
+“Tonight you tap.”
+
+Kevi's second strike found the first rib. Her third found open air between the ribs. Lirenn cut a narrow oval while she held the membrane back. Cold salt wind punched into the sinus. Kevi barked a laugh when it hit her face, then began tying the basket line to the load rib before anyone asked.
+
+Behind them, the comb roots twitched in a wave. New buds swelled along the wick.
+
+Sunrise was lifting pressure through the tower.
+
+“Thirty-two minutes,” Bordu said. “I need the category.”
+
+Lirenn pressed a tension gauge into the wall beside the comb. The needle climbed. Autonomy suggested disease. Resident-matched linings and organized rooms suggested housing. No reading turned contraction into testimony. She could classify only what changed when the stimulus did.
+
+“We detach the stimulus,” she said. “Cap the wick. Shunt viable rooms to the old lift return. Then test regulation.”
+
+Mular's hand closed over the comb. “The buds die off the feed.”
+
+“Maybe.”
+
+“They're our bindings.”
+
+“They are also driving immature growth into a nutrient vessel.”
+
+“And if the rooms shed us when you take them?”
+
+Lirenn sorted the things she knew. “Lining, load, air. They have all three. The comb may have started them. It doesn't follow that it still has to hold them.”
+
+“Doesn't follow.” He repeated the uncertainty, not the hope.
+
+The fevering man coughed hard enough to fold around Eshun's arm. She passed his weight to the older woman, waited until her hands were free, and said, “Take mine first.”
+
+Mular stared at her.
+
+“My room's gone,” she said. “My bud isn't buying it back.”
+
+Kevi tightened the basket knot. “Mine next.”
+
+The older woman shook her head. “No. Last.”
+
+The order stalled there, everybody watching the five empty culture cups.
+
+Lirenn set five culture cups in the cool recess of her kit. “No bud dies dry. Each goes into quarantine medium. Mular unthreads. I cap. Kevi holds the egress. Eshun: feed, breath, basket. Bordu: suppress sunrise flush to this tier.”
+
+“I can reduce it by twelve percent,” Bordu said.
+
+“Twenty.”
+
+“Twelve without starving seventeen.”
+
+“Twelve. Do it.”
+
+The tower's pulse eased under her knees.
+
+Mular unwound the first root. His fingers, steady when tending flesh, fumbled against the ceramic hole. “This one forks. It didn't before.”
+
+“Trace both.”
+
+“One's in the wick. One's—no, one is the wick.”
+
+“Color.”
+
+“Gray. Red at the tip.”
+
+“Cut gray. Leave red clamped.”
+
+“If you're wrong?”
+
+“Bleeding. Clamp closer.”
+
+He obeyed. The gray root came free with a suck of clear gel, and Lirenn dropped its clot into the first cup. She capped the shallow wound on the wick with mineral paste. Kevi called the basket distance in blunt half-measures. Eshun answered only when she had passed the fevering man into the hood and the medic's line had taken his weight.
+
+“He's out,” she said, hands free for a moment. “Feed's slipping.”
+
+Then she was back on the tube.
+
+Second root. Third. With each detachment, the small buds along the wall softened. But the largest chamber convulsed when Mular freed the fourth. A support rib bowed inward, driving Lirenn's clamp toward the feed line.
+
+“Release the chamber clamp,” Mular said.
+
+“Hold it,” Bordu said through the speaker. “Loss of load on eighteen east.”
+
+Kevi shouted, “The vent is closing.”
+
+Three instructions, three failures. Lirenn put her palm to the rib. Vibration ran toward the legal floors. Load. She looked at the vent membrane dragging across Kevi's shoulder. Air. At the feed tube whitening under Eshun's grip. Flow.
+
+“Load clamp stays. Kevi, wedge vent with the drying rack. Eshun, let the feed go for three beats.”
+
+Eshun looked at the fevering man's empty place.
+
+“Three,” Lirenn said. “Then catch.”
+
+Eshun released. The tube snapped straight. Pressure surged into the room; the rib lifted enough for Mular to pull the fourth root clear. One beat. Two. On three, Eshun caught the tube against her forearm and resumed pumping, jaw tight.
+
+Kevi jammed the ruined drying rack into the vent. “Open.”
+
+“Load recovering,” Bordu said. “Continue if it holds above eight.”
+
+Mular bent over the fifth root. Sweat ran from his nose onto the ceramic. “This is the old woman's. It's grown through two teeth. I can't—I need to break the comb.”
+
+The older woman had crawled to the exterior cut. She did not offer advice. She braced her splinted knee and held the basket line.
+
+“Break it,” Lirenn said.
+
+“The fragments will tear the clot.”
+
+“Score between the teeth. Fold inward.”
+
+His first scoring stroke skittered. His second bit. The ceramic cracked with a small domestic sound, like a cup set down too hard. He folded the crescent inward and freed the last culture with both hands.
+
+Lirenn sealed the wick.
+
+For six pulse cycles nothing improved. The hidden rooms held their strained shapes. The tension gauge stayed high. Gray buds continued to quiver along the fringe.
+
+Bordu said, “Response?”
+
+“Wait.”
+
+“Perfusion in eighteen.”
+
+“Wait.”
+
+On the seventh cycle, the immature buds nearest the capped wick deflated. On the eighth, dye that had vanished behind the wall reappeared in the old lift return. Thin at first, then steady. The sleeping chamber's air gill reopened around the drying rack. The load rib pushed back against Lirenn's clamp, not in a blind spasm but in time with the tower's carrying band.
+
+Detached from the comb, the rooms regulated.
+
+Lirenn wrote the category on her wrist slate.
+
+HOUSING: UNBOUND, OCCUPIED, STRUCTURALLY DIFFERENTIATED.
+
+Below it she added: INVASIVE FRINGE REQUIRES PRUNING. CULTURES AND COMB QUARANTINED. TEMPORARY FEED AND EXTERIOR EGRESS MANDATORY.
+
+The letters shook with the tower's pulse. She signed them anyway.
+
+“Bordu. Housing.”
+
+He did not answer at once. Above, more rooms began their dawn contractions, squeezing night-cooled waste toward the lower reservoirs. The legal tower needed its circulation.
+
+“Give me measures,” he said.
+
+Lirenn read them: return flow, gill interval, rib load, bud deflation, the twelve-percent intake reduction. Bordu repeated each number to someone in the night office. No one congratulated her. The debridement crew became a fringe-pruning crew. Medical hauled the fevering man into the external basket. The census still held five archived rows. The lease table still saw empty tissue.
+
+Mular placed the broken comb in the quarantine jar. His fingers stayed on the lid after he had sealed it.
+
+“It comes with us,” Lirenn said.
+
+“I heard.”
+
+“Your cultures stay wet.”
+
+He nodded, once. That was all he had for her.
+
+Kevi widened the exterior cut by the width of two fingers, enough for the older woman's splinted knee. Eshun salvaged one unbroken jar from the brine, sniffed it, and poured it into the feed channel. She put the jar down.
+
+“Salt broth,” she said when Lirenn looked at her. “Not precious.”
+
+Morning entered the new egress as a blade of diluted gold. Under the stronger perfusion, a dark margin began to rise along the service sinus—fringe tissue, still hungry, still capable of taking what the floors above required.
+
+Lirenn changed knives. Bordu called out the next pressure reading. Kevi held the vent. Eshun counted three beats and caught the feed. Mular lifted the quarantine jar out of her way.
+
+Lirenn set the blade against the dark edge and followed it toward the light.

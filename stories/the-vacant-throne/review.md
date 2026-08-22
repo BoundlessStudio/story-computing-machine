@@ -6,18 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Rielle | new | Half-demon claimant and Veradan and Sarthene's child; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| King Veradan | new | Rielle's deceased human father, also called `Veradan`, the king, and the old king; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| Demon Queen Sarthene | new | Rielle's demon mother, also called `Sarthene`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| Lord Protector Cadran Mirel | new | Interregnum ruler, also called `Cadran` and the protector; current `Prince Cadris` is a close initial form, but the distinct endings, full names, titles, and roles prevent confusion. |
-| Councilor Ysabet Roane | new | Council procedural authority, also called `Ysabet`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| Lornivar Renscott | new | Veteran witness, also called `Lornivar`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Vumo | new | Half-demon child and courier; no exact, alias, close-spelling, or confusing reuse was found. |
+| Veldan | new | The late king's sister, also addressed as `Lady Veldan`; distinct from `Olek Velcor` in full form, cadence, setting, and role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun. |
+| Blackmere | new | Mixed border village; distinct from `Dunmere College` in full form, setting, and role. |
 
 ## Continuity
 
@@ -32,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The lawful assay, Rielle's witnessed surrender, Lornivar's authenticated testimony, binding articles, and completed vote resolve the succession; dialogue remains differentiated and action-bound through surrender, testimony, negotiation, and the final order.
+- Notes: Vumo's route-bound literalness, Veldan's bounded legal precision, the marshal's operational compression, and the captain's strained formality remain distinct under pressure. The sword stays a nonliving focus, while Veldan's limited oath-ring calls and the captain's separate horn order preserve agency, cost, and military causality.

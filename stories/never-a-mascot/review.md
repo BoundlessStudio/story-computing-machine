@@ -6,14 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tebri | new | Campaign armorer and close-POV soldier; no exact, alias, close-spelling, or semantically confusing reuse found. |
-| Dawnwatch | new | Person-like armored rooster and feathered warrior; this accepted field name has no exact, alias, close-spelling, or semantically confusing reuse, while any prior identity remains unknown. |
+| None | none | No story-facing proper noun names a person or person-like being. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The kingdom, border, muster field, roads, battlefield, drainage cut, and other local places remain unnamed. |
+| None | none | No story-facing proper noun names a place. |
 
 ## Continuity
 
@@ -28,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The unnamed six-year war remains chronologically unplaced. The culvert-to-drainage escape, black-pin release, eight-survivor count, and Dawnwatch's independent route choices remain causally consistent; his unexplained body-and-armor change stays story-local and establishes no universal transformation or artifact rule.
+- Notes: The rooster's independent objective, consent, capability limits, and physical costs remain clear. The seven-minute pre-sunrise setup accommodates the interrupted six-minute slowcord before direct light, and the subsequent nine-minute transformation countdown is consistent.

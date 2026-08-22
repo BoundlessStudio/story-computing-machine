@@ -74,3 +74,17 @@
 - Title image: the dog's white sock is a natural white-fur marking, never a worn human sock
 - Craft profile: prospective-2026-08-08
 - Avoid: none specified
+
+## Rewrite request
+
+> I want you to review and rewrite all dialog in no locked stories should based on the new improvements to the writing pipeline.
+
+## Rewrite reference images
+
+- None supplied for this rewrite.
+
+## Rewrite constraints
+
+- Cover: AUTO
+- Craft profile: prospective-2026-08-21
+- Authority: the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding.

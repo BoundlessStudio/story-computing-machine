@@ -7,340 +7,376 @@ canon: false
 
 # The Vacant Throne
 
-The law allowed lost regalia through the throne-hall doors. It did not say what the guards should do when the person carrying it had horns.
+The keep gate was already lifting when Vumo reached it.
 
-By the time the fifteenth memorial bell stopped ringing, Rielle stood inside a cage of crossed pikes. The royal sword lay along her forearms, wrapped in dun wool and tied with a red cord. Hundreds of mourners packed the benches behind her. At the far end of the hall, the throne waited above eleven shallow steps, bare except for the old king’s circlet on its seat.
+They came at a stumbling run through the evening market, one hand clamped over the wrapped hilt above their shoulder, the other holding the scabbard clear of the stones. The sword was nearly as long as they were tall. Its iron tip had beaten a dark rhythm against every mile from the eastern ridge, and Vumo's palm had gone numb before noon.
 
-No monarch had touched either in fifteen years.
+"Wait," they called. "I have to see Veldan."
 
-The guard at Rielle’s left stared at the blunt black tips of her horns. The guard at her right stared at the shape beneath the wool. Both had forgotten to take her name.
+The gate sergeant looked first at Vumo's single horn, then at the red cloth wound around the sword. His hand went to his whistle. Above him the chain kept clanking, shrinking the strip of daylight beneath the gate.
 
-Rielle kept her thumbs away from the bundle. Her mother’s last instruction had concerned thumbs: *Keep yours loose when they crowd you. If it hooks the guard, you’ll draw before you decide.*
+"Lady Veldan," Vumo tried. Court speech liked its handles. "Before dusk. Blackmere will have two armies in it."
 
-At the foot of the steps, Lord Protector Cadran Mirel folded the memorial proclamation he had been reading. He wore no crown, only a square silver seal at his throat, but everyone else watched him before deciding whether to breathe.
+The sergeant chopped his hand down. The chain stopped. By then three guards had surrounded Vumo without seeming to move, spears angled inward. A fourth caught the loose end of the red wrapping with the hook of his polearm and tugged.
 
-“Outer rank, bar the doors,” he said. “Inner rank, clear three paces around the claimant. Do not touch the bundle.”
+Gold flashed underneath: a crowned bird with one wing broken.
 
-That final order was the first thing about him Rielle liked.
+Nobody in the gatehouse spoke for a breath.
 
-White rods tapped shoulders as the inner guards pushed citizens back. The west doors shut easily. The east doors met the weight of people still crowding in from the square and stopped half a handspan short of their frame. Two guards leaned against them.
+"Put it on the ground," the sergeant said.
 
-Cadran looked from the gap to Rielle. “You have interrupted the king’s remembrance. Name what you carry.”
+"No."
 
-Rielle had rehearsed a speech during twenty-three days of travel. The packed hall had boiled it down to one legal sentence.
+"Submit the weapon."
 
-“I petition an assay of lost regalia before the full council.”
+Vumo knew *submit* from delivery forms. It meant a clerk kept your packet and forgot you were waiting. "I carry it to Veldan."
 
-The silver chains on the council benches rattled as people turned. A woman in black court wool rose from the first bench, tucking a writing board beneath one arm. Councilor Ysabet Roane was small, gray-haired, and already irritated.
+"Where did you get it?"
 
-“Who taught you that petition?” she asked.
+"East."
 
-“My mother.”
+"From whom?"
 
-“Name her for the record.”
+"I need Veldan."
 
-“Demon Queen Sarthene.”
+The youngest guard stared at the narrow dark horn rising through Vumo's wet hair. "Is that the heir, then?"
 
-Noise struck the hall like weather. A man behind Rielle shouted *murderer*. Someone farther back shouted for the doors to be opened. The east doors jumped in their frame as the crowd outside pushed again.
+Vumo had heard *heir* twice on the road and understood it only because both speakers had tried to kneel afterward. "I'm a courier."
 
-Cadran raised one hand. “If the object is what she implies, it is stolen royal property. Take her alive. Councilor, you may assay it once it is in our custody.”
+"That is the royal sword."
 
-Ysabet did not sit. “There is no royal custody while the throne is vacant. The claimant’s rail holds disputed regalia until provenance is heard.”
+"Yes. It is also heavy."
 
-“I am the protector of the throne.”
+The sergeant's mouth almost changed shape. Then a horn sounded outside the city, far down the east road: one long note, two short. Vumo turned toward it before they could stop themself.
 
-“Clause nine lists the offices that may take custody. Yours is not among them.”
+The sergeant noticed. "Your escort?"
 
-She spoke without heat, as if correcting a copied date. Four clerks hurried to lift two brass bars from grooves in the floor. They joined the bars with a crosspiece and spread a square of white linen over it, making a waist-high table between Rielle and the steps.
+"Not mine. If you shut me out, they reach this gate before I reach Blackmere. If you let me in, maybe nobody reaches Blackmere."
 
-“Bearer,” Ysabet said, “place the object on the rail without uncovering it. State its keepers from the last acknowledged royal custody onward. Names and sequence. Leave motives out.”
+He studied the mud on Vumo's leggings, the split sole of one boot, and the way their fingers had locked around the strap. Then he ordered the wicket opened.
 
-Rielle stepped between the pikes. The wool dragged against her palms when she lowered the sword.
+"Inside. Slowly. You touch the hilt, we put you down."
 
-“King Veradan. Sarthene. Me.”
+Vumo ducked under the half-raised gate. "I have been touching it since yesterday. It doesn't do anything."
 
-The hall found a new kind of silence.
+That frightened them more than the gold bird had.
 
-Cadran’s gaze sharpened. “You omitted the thief between the king and the demon queen.”
+They took Vumo uphill through four courtyards. At every door somebody asked for a seal, and at every door the people escorting Vumo had a different one. A green seal opened the armory passage but not the royal stair. A black seal opened the stair but sent a clerk running to find whether it had expired. Fifteen years without a king had left the keep full of locks that disagreed.
 
-“No.”
+Vumo counted turns. Left past the cistern, right at the kitchens, sixty-three steps beside arrow slits, then a covered bridge. From the bridge they could see the west road descending through barley fields. Dust hung above it in two long smears.
 
-“Then say how she took it.”
+The human banners were closer than they had feared.
 
-Ysabet’s chalk clicked against her board. “Provenance first. Account second. Let her finish.”
+"Water," the sergeant told a page outside a low map room. "And bread. Not wine."
 
-“Sarthene kept it in a stone chest sealed with her own mark,” Rielle said. “She opened the chest in front of me twenty-four days ago. I cut her seal. I wrapped the sword. No one else has held it.”
+"I don't need bread."
 
-“Did she order you here?”
+"That wasn't a question."
 
-The question came from Cadran, but Ysabet’s chalk waited for the answer.
+It was the first court sentence Vumo understood completely.
 
-“She forbade an escort across the border. She said an army would answer the question before I could.” Rielle looked at the linen instead of the throne. “She told me where the road ran. I chose it.”
+Veldan came in before the food. She wore a gray riding coat with one cuff unbuttoned, and she had the same long nose as the dead king on the coins, though the coins had never looked tired. A square-shouldered marshal followed her carrying three message boards under one arm.
 
-“A child repeats the choice prepared for her.” Cadran turned so the benches, not Rielle, received his words. “Sarthene killed Veradan. She took his sword. Now, on the very day we mourn him, she sends us a horned claimant and calls the intrusion voluntary.”
+Neither of them knelt to Vumo.
 
-He gave the hall a clean sequence. It was almost a relief to hear. Nothing in it required a person to wonder what a dying king might have done after the famous blow.
+Veldan closed the door. "What do you want me to call you?"
 
-Ysabet held out a hand toward the bundle. “Untie the cord. Unwrap from your side. Touch no metal.”
+"Vumo."
 
-Rielle pulled the knot. The wool opened onto a black leather scabbard scarred white near the tip. Silver wire bound its throat in a pattern of seven narrow branches. The sword’s guard showed above it: one quillon swept like a wing, while the other ended in a jagged break.
+"How old are you?"
 
-A chair scraped in the veterans’ gallery. An old man had risen so fast that the attendant beside him had to catch his elbow. He wore the faded blue sash of the king’s standard company. Two fingers were missing from his right hand.
+"Twelve."
 
-Cadran noticed him. “Sit down, Lornivar.”
+"And the sword?"
 
-The old man sat, but he did not look away from the broken guard.
+"Still the king's, I suppose."
 
-Ysabet called for the regalia ledger. A clerk brought a cedar box from beneath the council bench and unlocked it in view of the hall. Inside lay charcoal rubbings, weights, calipers, and a thumb-sized tablet of dark wax under glass.
+The marshal held out his hand. "Set it on the table."
 
-“Recorded damage at the king’s last inspection,” Ysabet said. “Left quillon broken beyond the third feather. Two nicks on the forward edge, six fingers apart. Garnet absent from the north face of the pommel. Scabbard tip abraded to the ashwood.”
+Vumo backed until the scabbard struck the wall. The room had one door, two shuttered windows, and no other way out except the hearth, which would fit a cat but not a courier with a royal sword.
 
-She made Rielle turn the bundle by pulling the linen beneath it. Two clerks measured. One read numbers; another wrote them. The exposed damage appeared where the ledger said it should; the edge nicks would have to wait for the blade. At the scabbard’s throat, Ysabet bent close but kept her hands behind her back.
+Veldan glanced at the marshal's hand. He lowered it.
 
-“Seven-wire royal bind,” she said. “No break visible. The private stamp is beneath the fourth crossing. It cannot be compared without cutting the wire.”
+"Blackmere," she said. "Tell me what is moving toward it."
 
-“An exact copy,” Cadran said. “Made with fifteen years and the original at hand.”
+Relief made Vumo's knees shake. This was route language. "Two human banners from the west. The first left the chalk ford at second bell. Wagons, so they take the causeway. The second crossed the lower ferry before noon. No wagons. They can cut through the willow fields and come into Blackmere from the north."
 
-“Possible,” Ysabet said.
+The marshal put his boards down. "Numbers?"
 
-The single word pleased neither side.
+"First, maybe three hundred feet and thirty horses. Second, less. I counted cook carts, not feet."
 
-Rielle felt the room tip away from her. The sword could be measured and still called counterfeit. Sarthene’s account could be exact and still called a demon’s invention. She had imagined disbelief, but not its patience.
+"Why?"
 
-“There is writing inside the scabbard,” she said.
+"Cook carts don't leave the line to piss in hedges."
 
-Ysabet looked up. “How do you know?”
+He accepted that with a short nod. "And the other army?"
 
-“My mother watched him write part of it. She saw it sealed. She never opened it.”
+"Recovery column. East ridge road. Four companies when they left, but the stone descent makes them single file. Their captain won't take the marsh cut in rain. He hates losing boots."
 
-Cadran stepped toward the rail. “Conveniently unexamined evidence, carried for a day such as this.”
+"You know him?" Veldan asked.
 
-“If the seven wires are unbroken,” Ysabet said, “whatever lies inside predates its present custody or was placed there by the maker. That is what the stamp will determine.”
+Vumo looked at the door. "He is my mother's brother."
 
-“And if a demon queen compelled the dying king’s mark?”
+The marshal's fingers returned to the top message board. "Convenient."
 
-Rielle met his eyes. “Then prove compulsion. The bind is still closed.”
+"No. He knows all my hiding roads."
 
-A few people laughed, not kindly. Cadran’s face remained composed, but the square seal at his throat swung once as he stopped.
+The page arrived with bread and a clay cup. Vumo drank without taking their eyes off the marshal. He had begun arranging wooden markers on the map: two blue west of Blackmere, four black to the east. Five more blue markers remained in his fist, for levy companies on farther roads.
 
-“Identity before destructive assay,” Ysabet said. “Bearer, state your name and alleged relation to the last sovereign.”
+"If the western force keeps its pace," he said, "the lead banner reaches the village before sunset. The second arrives near dark. Riders leaving now could meet the first at the mill bridge, if the west gate clears them at once. The northern approach is harder."
 
-“Rielle. Sarthene is my mother. Veradan was my father.”
+"Send both," Veldan said.
 
-The old veteran covered his mouth with his damaged hand.
+"With whose order?"
 
-“What proof apart from the object?”
+"Mine."
 
-“His letters to her. Her word. My blood, if the old claims about the sword are true.”
+"Your warning, perhaps. Not a recall. Half the captains will pause to argue whether the vacant seal binds them."
 
-“Letters in your mother’s custody carry the same disputed chain. We will not cut you in a crowded room. The blade’s response may be observed without injury.” Ysabet glanced at the guards. “The bearer alone may draw. She will lift no higher than the rail.”
+"Then choose riders who argue while moving."
 
-Cadran’s voice hardened. “A demon enters armed and you propose a demonstration.”
+The marshal looked at her, then called through the door. He gave clipped instructions: two pairs from the west stable, one for the causeway, one by the willow track; fresh horses waiting at the second post; no trumpet at the gate. The page repeated every turn back to him before running.
 
-“You propose that thirty pikes close on her while the sword remains wrapped. Which spectacle do you expect the rear benches to misunderstand less?”
+Only when the footsteps had faded did Veldan face Vumo again. "Now. Did the queen send you with that sword?"
 
-He studied the guards. The inner rank waited on his order. The soldiers along the western wall watched the brass rail, not him. They wore the small iron circlets of the old household guard, whose oath ran to the sovereign rather than the protector.
+Vumo broke the bread in half. It was still warm. They had not expected that. "No."
 
-“Crossbows remain trained,” Cadran said. “If the point clears the linen, shoot.”
+"Did you steal it?" the marshal asked.
 
-Ysabet nodded to Rielle. “Right hand on the grip. Left on the scabbard. Draw toward the vacant side of the rail.”
+"Yes."
 
-Rielle obeyed. The grip was worn into the shape of another hand, broader than hers. Steel slid free with a dry whisper.
+His chair scraped. Veldan did not move.
 
-At first the blade looked dead: dark, nicked, ordinary. Then seven hair-thin channels along its center brightened under her palm. Pale fire traveled from hilt to point and stopped there without smoke or heat. The matching branches on the old circlet shone through the glass case above.
+"How did you reach it?" she asked.
 
-People rose. The household guards lowered their crossbows by an inch. The inner guards raised their pikes.
+"I take route slips to the queen's lower archive. The long box is on the inventory every month. The lock lifts if you turn it halfway first."
 
-“Veradan’s line answers,” Ysabet said. Her chalk moved. “That establishes descent. It establishes nothing else.”
+Vumo shoved half the bread into a coat pocket for their little brother, though by the time they got home it would be hard as roof tile. "The human levy was already called. They said Blackmere had fed demon scouts. The queen sent no soldiers until I took the sword. Then she sent my uncle because he is meant to bring back both."
 
-The qualification vanished beneath the uproar. *Heir* came from the gallery. *Trick* came from the west benches. A councilor tried to climb over a seat. The east doors slammed inward, caught on a guard’s boot, and opened just enough for the people outside to drive those inside against the last row.
+"Both?"
 
-Cadran pointed at Rielle. “Disarm her now.”
+"Me and the sword."
 
-The inner rank advanced. The household guards swung their crossbows away from Rielle and toward the pikes. A bolt struck the ceiling when someone was jostled. Plaster fell in white chips.
+"In what order?" Veldan asked.
 
-Rielle brought the sword up.
+Vumo looked at her. She had heard the part that mattered.
 
-Training arranged the hall into distances. The nearest pikehead was too far left. She could bind its shaft under the broken quillon, step past the bearer, and put the brass rail at her back. Three cuts would reach the aisle. Five might reach the steps.
+"He is supposed to say the sword first."
 
-Behind the guards, the east doors bucked again. A woman was pinned against the end of a bench, her mouth open but unable to draw breath. One loose crossbow aimed through Rielle at the citizens’ floor. If Rielle moved quickly, half the room would see an attack and the other half a rescue. Both halves had steel.
+The marshal circled the table. "Give it to us and we can end this."
 
-“What stops an assay?” Rielle asked.
+"Can you?"
 
-Ysabet heard her through the shouting. “Blood on the rail. Broken custody. Removal of the object.”
+"That weapon carried orders to every sworn captain in the realm."
 
-“How do I stay in it?”
+"It carried nothing for me. I held it. I talked at it. I even said the long king words from the box."
 
-“Blade flat. Hands behind you. Submit to binding.”
+"What long words?"
 
-The nearest guard lunged for the sword.
+Vumo tried to remember. "Sovereign imperative. Lawful issue. The rest had too many joins."
 
-Rielle could have taken his hand. Instead she dropped the point until the blade lay across the linen. Pale fire went out. She stepped behind the claimant’s rail and locked her wrists at the small of her back.
+Veldan pulled back a chair and sat. "The sword is a focus. It has no ear. A living crowned bearer supplies the call; the metal gives it a road to the oath-rings."
 
-“Bind me,” she told the guard. “Not the sword.”
+"So crown somebody," Vumo said.
 
-He stared at her for a beat, then looped a leather restraint around her wrists. It bit tight. Rielle did not move when he took her shoulder and pulled her away from the rail.
+The marshal breathed out through his nose. Veldan merely looked at the two blue markers moving, in Vumo's mind, along roads no piece of painted wood could show.
 
-The household crossbows lowered. Pikes followed, one by one. Cadran shouted for the east doors to be held at a handspan so air could pass. The trapped woman sagged as two strangers dragged the bench aside.
+"There have been six claimants in fifteen years," she said. "Three could persuade a district to obey them. One could perhaps survive a coronation. None could hold enough captains together to prevent the others from testing the claim."
 
-Rielle’s sword remained in the middle of the hall where everyone could see that she had let it go.
+"You could."
 
-Ysabet seized the moment. “The object is in lawful assay. Any person who removes it commits seizure against the court. Clerk, record the bearer’s submission and the restraint. Bring cutters, glass, and the private-seal matrix.”
+"I have authority as the king's sister to attempt it. That is not the same as having the capacity to use what follows."
 
-“This has become a riot,” Cadran said. “Adjourn.”
+The difference balanced neatly in court speech. Vumo understood only the refusal.
 
-“The doors cannot open safely, and the rail cannot be moved. We finish where we stand.”
+Outside, boots hammered across the bridge. A guard shouted. The gatehouse horn answered with the same long note and two short that had sounded on the east road.
 
-Before cutting the bind, the clerks measured the two nicks in the blade. Both matched the ledger.
+Vumo closed their coat over the hilt.
 
-The tools arrived on a tray. Ysabet made the clerk show each one to the benches. She slid a thin sheet of glass beneath the scabbard’s wire throat, then cut the first wire above it so no blade touched the leather. Six more small snaps sounded. The winding came away as one stiff cage.
+The door opened hard enough to strike the wall. The demon captain entered between four guards, rain shining on the ridges of his swept-back horns. He had surrendered his sword belt, but not the brass signal horn across his chest. Its cord was the one Vumo's mother had repaired with green thread last winter.
 
-Under the fourth crossing lay a flake of black wax. Its underside bore a tiny impression: a crowned hand with the little finger bent.
+His gaze found Vumo first. His shoulders dropped half an inch.
 
-The matrix from the cedar box matched it, nick for nick.
+"You left your coat," he said.
 
-“Private mark of Veradan,” Ysabet said. “Applied beneath an intact royal bind. The scabbard chamber has not been opened since.”
+Vumo's hand tightened around the bread in their pocket. "This is my coat."
 
-“It proves his servants sealed it,” Cadran said. “Not what was placed inside or under whose command.”
+"Your rain coat. The one your mother patched twice."
 
-“Turn it over,” Lornivar Renscott said from the gallery.
+"Three times."
 
-No one moved.
+"Vumo." His court pronunciation was usually flawless. Their name came out rough. Then he saw the sword and put the rest of himself back in order. "Lady Veldan. I am commissioned to recover property held under the demon queen's war seal and to return a minor courier to lawful family custody."
 
-The old veteran came down the side aisle. His attendant reached for him, but Lornivar shook her off. Up close, his blue sash was threadbare and his left leg dragged half a pace behind the right.
+The marshal said, "You brought four companies for a family errand?"
 
-“Councilor, keep it on the glass,” he said. “Roll it a quarter turn toward the windows. There will be a doubled stitch beneath the throat. Yellow thread, not silver.”
+"For an object whose theft may be treated as an act of war. Your levy supplied the interpretation before we arrived."
 
-Ysabet drew the linen sideways. A short yellow loop emerged from under the leather rim.
+"Your column is on our side of the ridge."
 
-Lornivar stopped breathing for a moment. “I tied that with these.” He raised the hand missing two fingers. “Before I lost them.”
+"The ridge is disputed."
 
-Cadran descended one step. “You swore you reached the king after Sarthene had withdrawn.”
+They sounded as if they could continue until both armies met. Vumo slid between them and pointed at the map.
 
-“I swore to the deposition your office wrote.”
+"They'll come down here," they told Veldan, tapping the east road. "Not the marsh. If they see the first human banner in Blackmere, the front company closes the square from the south. Then my mother can't get from the dye yard to our house. My brother waits there after school. He doesn't know the cellar latch sticks."
 
-“You signed it.”
+The captain's eyes went to Vumo's finger. "The column will not harm your family."
 
-“Yes.” Lornivar looked at the crowded benches, then at the veterans who had stood when he did. “Put that down too, Councilor. My name. My lie. Do not clean it for me.”
+"How do they know which family?"
 
-Ysabet’s chalk resumed.
+He opened his mouth. Nothing came.
 
-Lornivar faced the scabbard rather than Rielle. His account came in pieces of work. Veradan’s standard had fallen on the ridge. Lornivar had gone back for it and found Sarthene kneeling in trampled grass, one arm burned to the elbow, holding the king upright while both armies waited below. Veradan had written the silk and pressed his private mark into a wax wafer. He made Lornivar wrap the strip around the scabbard’s inner lath, stitch it with thread pulled from the royal banner, set the wafer beneath the fourth crossing, and bind the throat with silver wire.
+Veldan stood. "Can you countermand them?"
 
-“His hands shook,” Lornivar said. “Mine did not yet. The queen could not close hers. That is why he used me.”
+"I have orders to recover the sword."
 
-“Why leave it with her?” Ysabet asked.
+"That is not what she asked," the marshal said.
 
-“Our captains were climbing the ridge to take the sword and continue the attack. He told me they would crown whichever cousin signed their commissions. He ordered me downhill with the retreat signal.” Lornivar rubbed the gap where his fingers had been. “Sarthene gave me time to raise it. Her people took the king and the sword east. Ours took me home.”
+"I heard her."
 
-Cadran’s voice was almost gentle. “And when three armies disputed the succession, you decided not to mention this.”
+Another horn sounded below, closer now. The captain turned his head toward the window. His officers would hear whatever signal he gave. They would also record it.
 
-“You decided. I agreed.”
+"I can redirect my own column," he said. "I cannot answer for what the queen sends after I disobey her."
 
-“Because naming the demon queen as his trusted keeper would have broken the army before it reached home.”
+"I need today," Vumo said. "Tomorrow has other roads."
 
-“Because you showed me the charge for abandoning a king in battle. Because you said the standard widows would lose their bread if our company were condemned with me.” Lornivar finally looked at Cadran. “Both can be true. Write both.”
+The captain rubbed the green thread on his horn cord with one thumb. "First the sword."
 
-That answer left the protector nothing simple to strike.
+Vumo stepped away from him.
 
-Ysabet opened the scabbard chamber. The inner lath slid free with the faint tear of old wax. Around it lay a brown-edged strip of silk, stitched in yellow. Lornivar named the direction of the fold before the clerk unwrapped it. He named the place where Veradan’s blood had soaked through. Each detail appeared.
+Veldan's face went still. "Why did your queen keep it?"
 
-The writing was cramped and slanted downhill. Ysabet compared it with three royal orders from the cedar box. Then she asked seven councilors, chosen from opposing benches, to inspect the hand and seals. Two objected to the blood mark. One objected to Lornivar. None found a difference in the writing.
+The captain looked away from Veldan and toward the marshal, measuring who knew what.
 
-Ysabet read only after the objections had been entered.
+Vumo had carried the answer across two borders. They had held it back because it belonged to the queen, because their uncle would call it war testimony, because adults became dangerous when a story fit what they already wanted. But Veldan had sent riders before knowing whether Vumo was thief or bait.
 
-Veradan named the duel as a choice he and Sarthene had made, the mortal wound as hers, and the withdrawal as theirs together. He wrote of the child Sarthene carried, not as sovereign but as an heir entitled to appear. Blood and the sword would establish descent. They would not compel a crown.
+"She said she didn't kill him," Vumo said.
 
-The council, he wrote, must judge the claimant in open session and take binding articles before recognition. Once the heir appeared and the instrument was proved, the vacancy could not continue. Before the memorial day ended, the council must recognize the heir under articles or reject the claim and name another sovereign.
+The marshal's hand struck the table. "Careful."
 
-Murmurs passed through the chamber as people understood the trap Veradan had left for the future. There was no third choice in which a protector went on borrowing the throne.
+"I am. I asked her last winter why a sword that never moved needed four guards on its route slip. She said she broke his shield, and he cut through her shoulder wing. Then he felt the human banners reach the valley and saw where they'd meet. He had called all of them forward with the sword. He called all of them back. She said the second call burned the life out of him."
 
-Cadran listened without moving. When Ysabet finished, he looked older but not defeated.
+The captain shut his eyes once.
 
-“Then we judge,” he said. “Now, while the border garrisons are still ours and the crowd has not torn itself apart.”
+Veldan asked, "You were there?"
 
-He came down to the brass rail. The sword lay between him and Rielle.
+"I carried the queen's standard. I saw him standing after her blade was down. I saw him raise the sword. Then every human oath-ring on the field lit white." The captain's formal cadence thinned. "When it ended, he was on his knees. The queen took the weapon because... because if another crown reversed that recall, the war began again."
 
-“Sarthene has an army,” he said. “You arrived with the key to ours. If I recognize you without terms the captains understand, some will ride against the border before night. Others will open their forts to your mother. Give me one sentence I can send them. Say Sarthene remains the king’s killer and enters this realm only as an enemy. I will put my seal beneath your name.”
+"And because we could not call our own captains without it," the marshal said.
 
-Rielle’s wrists burned inside the strap. She could almost hear her mother considering the offer: not insulted first, but measuring which soldiers it would move and where.
+"Both can be true."
 
-“If I say it, will you open the doors?” Rielle asked.
+Veldan walked to the shutter and opened it. Evening wind lifted the map papers. "My brother's body had one shoulder wound, shallow. His sword hand was burned to the elbow. The physicians wrote that his heart looked sound and stopped anyway. I thought they had hidden the queen's poison."
 
-“When the hall is secure.”
+She turned toward the royal stair.
 
-“Will the west guard lower their bows?”
+"Bring the boards," she told the marshal.
 
-“When the succession is secure.”
+He understood before Vumo did. "If you take the seat now, every claimant will call it a panic crown."
 
-“You keep making the answer mean your seal.”
+"Yes."
 
-“My seal has kept this kingdom in one piece for fifteen years.”
+"The sword may reach every oath-ring still sworn. One call would cover all western approaches."
 
-“And the doors?”
+"It would also repeat his scale. Bring the boards."
 
-One of them slammed again. The gap narrowed on a torn sleeve. A guard captain shouted that people were fainting in the passage.
+The climb to the throne room was one hundred and twelve steps. Vumo counted because counting kept the sword from dragging and the captain from catching their eye. The marshal climbed fast enough to interrupt anyone who might have spoken. Veldan climbed slowly, saving breath. At the ninety-third step, the east horn sounded again.
 
-Ysabet set down her chalk. “There are three motions available. Recognition without articles. Recognition under articles entered today. Rejection with a named alternative. The protector cannot extend the vacancy. The claimant may propose articles; the council may amend them.”
+The throne room was smaller than the songs made it. Dust covered the benches along the walls. The throne itself was black oak worn pale at both arms, and on its seat rested a plain iron circlet in a folded square of linen. No ghost guarded it. No light fell from the ceiling.
 
-Rielle looked at the sword. Taking it back would give her a road out. Leaving it on the rail left her bound in a hostile hall with no promise Sarthene could rescue her without proving everyone’s fear.
+Veldan took off her riding coat. "Marshal, witness under the old succession."
 
-“First article,” she said. “The sword stays with the seal council until the vote is copied and carried to every garrison. I do not touch it.”
+"I witness your lawful claim," he said. "I do not promise the realm will be sensible about it."
 
-Cadran glanced at the west guard. Several bows lowered.
+"Noted."
 
-“Second,” Rielle said. “No army under this throne crosses the border for forty days unless this council and two guard captains sign the order. I send Sarthene the same bond.”
+She lifted the circlet with both hands and placed it on her own head. Then she sat.
 
-“She can refuse it,” Cadran said.
+Nothing happened.
 
-“Yes. Record her answer. I stay here for the forty days, whatever she says. No secret road home, no escort of hers inside the walls.”
+Vumo nearly laughed. The captain made a small sound that might have been relief.
 
-That cost landed differently from the sword. Rielle felt it herself only after speaking. Her mother would wait beyond a border that could close without warning. For forty days, Rielle would be the pledge left in the other side’s hands.
+Veldan held out her hand. "Vumo. The sword proves you carried it here. It proves nothing else about you. Will you give it into my control for one bounded call?"
 
-Ysabet wrote. “The crown submits to residence and the no-march bond. Continue.”
+That was not *submit*. Vumo could hear the edges of it.
 
-Rielle nodded toward Lornivar. “His testimony is sealed before anyone questions him alone. He answers for his false oath in open council. No pardon from me.”
+They unbuckled the strap. When Veldan took the weight, the relief was so sudden Vumo swayed. She laid the blade across her knees, drew it two handspans, and pressed her living palm to the flat below the guard.
 
-Lornivar bowed his head once.
+Gold traveled through the crowned bird. It did not wake like an eye. It merely carried what she put into it.
 
-“And Sarthene?” Cadran asked.
+The marshal set two blue markers on the step below her. "The causeway banner first. The nearer ring. Then the north company. Stop both."
 
-“She gets a safe-conduct to answer the testament. Twelve attendants. No soldiers. If she refuses, you record that too.” Rielle shifted her bound hands. “I will not begin by lying about who wounded Veradan. I will not call her only his killer so your message fits on one line.”
+"There are seven banners in motion," Veldan said.
 
-It was not eloquent. Her shoulders hurt, the hall smelled of old wool and frightened bodies, and she wanted the east doors open more than she wanted any crown. That made the answer easier.
+"Those two cover Blackmere. The others can be delayed by riders if the captains cooperate."
 
-Cadran touched the silver square at his throat. “You would put the kingdom under a child’s body as hostage.”
+"If they don't?"
 
-“The testament gives you another choice. Name your sovereign.”
+"Then I ride after them myself."
 
-His mouth tightened. He could have ordered his loyal guards to take the rail. Some still would. But Lornivar’s testimony sat in the clerk’s hand, and Veradan’s words lay open beneath glass. Every command now had witnesses.
+Veldan nodded and spoke the name of the first captain, not loudly, but the gold ran down the fuller. "Halt at the mill bridge. Do not enter Blackmere. Hold west of the water and await written orders."
 
-Ysabet called the motions. Recognition without articles failed. Rejection failed by three seals. Recognition under Rielle’s articles passed by four.
+Somewhere beyond the hills, an oath-ring received her.
 
-The room did not kneel as one. The household guards did. Half the council followed. Citizens near the east doors were too busy hauling a fainted man over a bench. Several officers walked out as soon as the doors were forced wide enough, their faces set toward messages Rielle could not stop.
+Her fingers clenched. Vumo saw pain pull the color from her mouth. She waited until her breathing slowed, then named the captain approaching through the willow fields.
 
-Cadran removed the protector’s seal from his throat. He placed it beside the sword, not in Rielle’s hand.
+"Turn north at the split oak. Camp above the lower ferry. Do not approach Blackmere."
 
-“It takes two keys to divide that authority,” he told Ysabet. “The civil key is in my office. The garrison key is on the west captain’s belt.”
+The gold went out. Veldan pushed the blade back into its scabbard with both hands, then leaned against the throne. A thread of blood slipped from one nostril.
 
-Ysabet only nodded and sent two clerks in opposite directions.
+The marshal knelt only long enough to take the message boards. "I can send riders for the remaining five."
 
-The guard behind Rielle cut her wrist strap. Blood returned to her fingers in needles. She did not reach for the sword.
+"Send them. No royal call unless they refuse."
 
-Instead she climbed the eleven steps while clerks repeated the vote for the people outside. At the top, the old circlet still shone faintly in its glass case. No one had prepared a coronation. No one knew whether the circlet would clear her horns. That question could wait.
+He was already on his feet, calculating aloud as he went. "West pair changes at the barley post. North pair cuts the abbey field. One reserve behind each in case a horse founders. Gate clear in four minutes."
 
-Rielle sat on the vacant throne.
+His boots diminished down the stair.
 
-It was deeper than it looked. Her boots did not quite meet the top step, and one carved lion dug into her shoulder. Below, clerks lowered a clear evidence hood over the sword. Ysabet pressed her bronze seal into wax across its latch. Cadran’s silver square lay beside it. Lornivar remained between two guards, holding his damaged hand against his sash.
+The captain remained beside the dusty benches. No gold had crossed his horn. No order had reached into him.
 
-The east doors groaned open another foot. Cool air reached the dais at last.
+Vumo said, "The east road is yours."
 
-“Your first order?” Ysabet called.
+"The sword remains ours."
 
-Rielle watched the guards turn the benches sideways to make a path for the crushed and fainting. Outside, the memorial crowd had begun arguing over what the testament said. The argument would outrun any proclamation.
+"My mother won't care whose sword it is."
 
-“Get the doors off their hinges,” she said. “Then bring me the garrison maps.”
+"Your mother will care whether I come home under arrest. She will care whether you are charged with theft. She will..." His hand closed around the horn. The rest failed him.
 
-Cadran looked at the men along the western wall, who still watched him instead of the throne. “Axes to the hinges,” he said. “Strings off the bows first.”
+Vumo waited. Below the keep, the gate bell rang four times as the marshal's riders went out.
 
-Across the hall, thirty bowstrings slackened.
+The captain crossed to the open western shutter. He raised the brass horn and blew three descending notes, paused, then sounded one low note twice. The pattern carried across the roofs toward the eastern ridge.
+
+Halt. Turn south to dry ground. Make camp.
+
+An answer came faintly through the rain.
+
+The captain lowered the horn. "My counterorder. My liability. It does not settle the weapon."
+
+Veldan wiped her nose on the unbuttoned cuff of her riding coat. "No. It settles your column for tonight."
+
+Vumo went to the window. Far down the west road, one smear of dust had stopped before the river. The other bent northward, barely visible between the willows. On the east ridge, horns passed the captain's order from company to company, each repetition fainter than the last.
+
+Blackmere still lay between them, and nothing was moving toward it.
+
+Veldan called for the gate sergeant. When he arrived, she told him to prepare the fastest sound horse in the stable, two escorts, food, and a dry coat small enough for Vumo.
+
+"There should be a room made ready here," the sergeant ventured. His eyes kept drifting toward the circlet. "For the royal bearer."
+
+"Courier," Vumo said.
+
+Veldan pressed two fingers to her temple. "For the courier, then."
+
+"I need to go home."
+
+"Tonight?"
+
+Vumo traced the return route on the dusty sill. "South gate to the kiln track. Past the stopped column before full dark, then the sheep bridge. The river road is shorter, but your first banner is sitting on it now."
+
+The captain said, "I am going with you."
+
+It did not sound like custody this time. Vumo considered him, then nodded once.
+
+The sergeant led them toward the stair. At the top, Vumo looked back.
+
+Veldan had not risen from the throne. The sword lay across its arms while she read the first of the marshal's returning boards, one hand holding the page steady against the evening wind. The circlet sat crooked on her hair. Below, stable doors opened, riders shouted for room, and a groom swore at a frightened horse.
+
+Vumo started down before anyone could straighten the crown.

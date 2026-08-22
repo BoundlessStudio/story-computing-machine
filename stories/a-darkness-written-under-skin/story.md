@@ -7,332 +7,418 @@ canon: false
 
 # A Darkness Written Under Skin
 
-Leora Sloane arrived with three notices, a competency score of ninety-two, and the same bare-looking hands that had delayed her work credential for eleven weeks.
+"Keep your hand flat," the practitioner said. "If the tendon shifts again, I have to start the channel map over."
 
-The licensing hall had given her a number. It glowed above the registrar's desk while she crossed the lower floor, past every kind of mark except her own.
+You flattened your palm on the dye table. The wood was cold despite the steam that had lived in the workroom all night. Under your wrist, old stains made a dull geography: madder red in the knife cuts, walnut brown around a peg hole, one thumb-shaped island of blue that your mother claimed had been there before you were born.
 
-Amber oil looped a courier's ankles and stirred when he bounced one heel. A child's milk-sap whorls tightened around his own wrist when his mother took his hand. At the next desk, an applicant held out soot-black letters while an examiner measured the small silence they made around his fist. The fluids and abilities varied, but every person was born with a visible mark. People wore collars and cuffs cut to display them. Hiding a birth tattoo was possible. Appearing to have none was what drew attention.
+The practitioner drew a glass rod through the vial meant for tomorrow's graft. The ink climbed after it in a gray thread, neither dripping nor quite holding. A good match, she had said twice already. Your mother needed it said a third time.
 
-Leora put her notices on the desk in date order.
+"And the swelling?" she asked. Her sleeves were rolled above the red-lake whorls at her elbows. Whenever she flexed her hands, the marks darkened and the damp cloth hanging behind her stopped bleeding color into color. "The woman at the clinic said three days. The man who measured the channels said five."
 
-The registrar's mark resembled four squares of red sealing wax pressed across his knuckles. He looked at Leora's hands, then at the thick file on his display.
+"Three before ordinary work. Five before dye vats." The practitioner touched the thread to a square of test paper. "Ten before your child tries to prove the estimate wrong."
 
-"Final anomaly review," he said.
+"I'm not a child."
 
-"Final competency appeal. The review is the hold on it."
+"Tomorrow you will be a patient. Patients are children with forms."
 
-He slid the top notice closer. "You agreed to a full-spectrum scan."
+Your younger brother snorted from the other end of the table. He had been told to hold the black-light inspection lamp and had spent the last ten minutes trying its violet beam on everything except the vial. White lint flared on his shirt. A smear of soap shone along the basin. His own birth mark, a loop of amber resin running from palm to forearm, disappeared under the strange light instead of brightening.
 
-"If it ends the hold."
+"Do my teeth," he said.
 
-"If the scan is negative, I can record you as non-bearing and release the entry-grade credential."
+"Do the vial," you told him.
 
-Leora read the sentence he had opened on his screen. "Add 'today.'"
+"Your teeth will still be there after breakfast."
 
-His eyes lifted. She waited. Years of examinations had taught her that extra words gave officials extra handles.
+"That wasn't the question."
 
-The red squares on his knuckles softened as he typed. When he turned the screen back, the note said *issue upon negative finding.* It did not say today.
+The lamp wandered toward his grin. Your mother caught the back of his collar without looking. "If you blind yourself tonight, I am not postponing the graft to take you to a healer."
 
-"The printer is here," Leora said.
+"You'd postpone it."
 
-He added the word.
+"I would send your sister."
 
-At six, she had been asked whether her skin resisted pigment. At nine, whether her parents might have concealed a mark out of shame. At thirteen, a clinic had kept her through a holiday to compare her body temperature with that of children whose tattoos carried molten glass. Nobody had found an ability, a fluid, or a line. The absence had become more useful to institutions than it had ever been to her. It kept attracting studies and postponing anything ordinary.
+You had no sister, which was how your mother ended household arguments when she was too tired to win them properly.
 
-At eighteen, Leora had passed the written structures paper. She had seated a replacement pin under load, identified three planted defects in a stair tower, and brought a swaying work platform down without help from a birth ability. The placement yard had a job waiting if she arrived with the card before the end of the week.
+Every child was born carrying some ink-like fluid in a pattern beneath or across the skin. Soot, resin, metal suspended in oil, substances with no names outside the families who passed them down: the fluid varied, and the pattern shaped the faculty. No one before you had been found empty.
 
-The registrar gestured toward the black-light station. "One scan. If there is nothing, the file closes."
+The practitioner lifted the paper. The artificial ink had spread into a narrow fork and stopped within the chalk ring. Tomorrow, under numbing salve, she would feed it into channels cut shallowly along your inner arm. Months later, if your body accepted it, the graft would let you hold a chosen color steady while you worked: no drift in the bath, no pale seam where cloth folded against itself. Not the broad, effortless command your mother's birth tattoo gave her. Something narrower. Something reliable. Something yours because you had signed for it and saved for it and spent six years saying you did not need it before admitting that you wanted it.
 
-Leora gathered the notices. "Start it."
+"The lamp," the practitioner said.
 
-The station occupied the east side of the hall beneath an upper gallery. Leora knew the layout because she knew every room by its loads before she knew it by its furnishings. Two square stone columns carried the gallery. A new steel pivot had been bolted into the nearer one, supporting an articulated arm and its broad black-glass hood. The arm's power lead looped over the top joint before climbing the column in bright cable clips. North and south street doors stood behind fire shutters. A staff corridor and the main electrical disconnect lay on the west wall, although the fallen sweep of the scanner arm could block both.
+Your brother aimed it at the paper. His wrist bumped yours.
 
-An examiner in gray waited inside three wheeled privacy screens. His tattoo was liquid silver: narrow bands at his wrists, breaking above them into beads that hung against gravity.
+Violet light spilled across your hand.
 
-He gave Leora a sleeveless scan shift and pointed to a curtained changing niche. "Shoes off. Hair up. The ties go behind you."
+The practitioner's glass rod halted against the paper.
 
-"I know."
+At first you thought the gray graft ink had splashed. A black-violet stroke lay beneath the skin of your wrist, so dark it seemed cut into the bone. It curved once around the tendon. Fine branches broke from it and vanished at the edge of the beam.
 
-"This model is new."
+Your brother moved the lamp.
 
-"Then tell me what changed."
+The line moved with the light, appearing ahead of it and going invisible behind.
 
-That earned no smile, which Leora preferred. He checked the screen locks while she changed, then waited until she stepped onto a yellow square before drawing the last screen shut.
+"Hold it there," the practitioner said.
 
-"The hood uses ordinary ultraviolet lamps," he said. "Mains power, camera, depth estimate. No bearer feed. It can show us a carrier and measure it. It can't make one do anything."
+"What is that?" your mother asked.
 
-This explanation, at least, answered a question she might have asked. Leora nodded.
+"I said hold it."
 
-He touched two fingers to the scanner arm. His silver beads brightened, taking part of its weight while he swung the hood over her. "Heels on the corners. Arms out. If I say clear, step toward me, not behind you."
+"I am holding it." Your brother's voice had risen. The beam shook over your hand. The buried line trembled with it, now black, now bruised purple. "I didn't spill anything. I didn't even open—"
 
-The registrar entered with his tablet. Beyond the screens, tickets chimed and the gallery floor murmured under shifting feet.
+"Put the lamp in the stand," you said.
 
-The white lights went down. The black light came on.
+No one did.
 
-At first Leora saw only violet on her fingers and pale lint on the scan shift. Then a line appeared beneath the skin between her thumb bones.
+You took your hand off the table. The practitioner caught her own wrist before she caught yours.
 
-It was finer than a hair and darker than ink. It crossed under the ridges of her palm without disturbing them. Another joined it. Then twenty. The ultraviolet found colorless fluid by what it swallowed, revealing a script written below the surface: branching strokes through both hands, dense knots at her wrists, long divided channels ascending her forearms.
+"May I look?" she asked.
 
-"Hold," the examiner said, though she had not moved.
+"Without touching."
 
-He widened the hood's sweep. Darkness surfaced at Leora's ankles and ran up her calves. It circled her throat. When the camera assembled the exposed sections around the shape of her body, the breaks aligned into one immense pattern. Hundreds of colorless lines converged beneath her breastbone, crossed her ribs and back, divided over her shoulders, and reached toward every finger and toe.
+"Without touching. Lamp in the stand, please."
 
-The registrar's tablet began sounding soft limit alarms.
+This time your brother obeyed. The workroom changed under the fixed violet glow. Detergent flashed in the grain of the table. The boiled linen around the graft tools became painfully white. Where the light found your forearm, the hidden stroke divided and divided again, fine as frost under a windowpane, except frost lay on a surface and this did not. You turned your arm. The pattern turned inside it.
 
-Leora looked at the black branches in her hands. For eighteen years, strangers had announced her blankness before using her name. The error should have felt like relief. Instead the scan shift tightened against her ribs with each breath.
+Your mother came around the table. "There was nothing. I washed you myself. Every crease. The midwife shaved your head because she thought it might be under the hair, and then the ward clinic used oil, and when you were six we went back because you had that fever—"
 
-"Complete body distribution," the examiner said. His professional calm had thinned. "Subdermal. The carrier is optically clear outside this band."
+"Don't touch me," you said.
 
-"Depth?" the registrar asked.
+Her hand stopped two inches above your shoulder.
 
-"Variable. I need another lateral pass."
+"I wasn't."
 
-"You have a finding," Leora said. "Turn off the lamp."
+"You were going to."
 
-The registrar was already opening a new field on his tablet. "The negative condition no longer applies."
+She lowered it. "All right."
 
-"The scan condition does. It's finished."
+Your brother stared at your lit skin. "You had one. This whole time, you actually had one. Wait until I tell—"
 
-"We don't know what this is."
+"You won't."
 
-"Neither did you five minutes ago. Turn it off."
+"No, I mean the house. Not everyone. Just downstairs."
 
-The examiner lowered the hood a little, trying to catch a clean image along her right side. His silver mark was shining now, each suspended bead drawn taut by the arm's weight.
+"No one downstairs."
 
-"Ten seconds," he said. "Then I clear you."
+"They've known you since—"
 
-Leora lowered one aching arm.
+"No one."
 
-"Please keep position." He reached with his free hand and closed his fingers around her wrist.
+The word came out harder than you intended. He looked at the lamp instead of you.
 
-The silver came through his grip.
+The practitioner slid the graft vial away from the beam and stoppered it. "First question: is this on the surface or in the tissue? We can answer part of that. After that, we decide whether there is another safe question."
 
-There was no invitation in it and no space to prepare. Cold pressure drove between the bones of Leora's hand, a second pulse forcing itself up her arm. The colorless branches filled with bright metal. Across from her, the examiner's bands emptied bead by bead until his skin showed clean beneath them.
+Your mother folded both hands against her stomach, covering half her red whorls. "You know what it is."
 
-His face changed before the scanner fell.
+"I know what it resembles under this lamp."
 
-The hood dropped toward Leora's shoulder. She threw up her other hand, and the stolen silver answered. The hood stopped in the air. Its full weight stood in her mind as a hard, balanced fact.
+"A birth tattoo."
 
-Behind the pivot, the counterweight kept moving. The scanner arm whipped sideways. One bolt tore halfway out of the gallery column with a burst of stone dust. The power lead snapped tight against its clip.
+"An ink-like channel pattern. If it is one, I don't know the fluid, the depth, the faculty, or whether this exposure has altered anything."
 
-"Containment doors," the registrar said. "Close the hall."
+"The lamp altered it?"
 
-A clerk outside the screens struck the red switch. Both street shutters began rolling down.
+"I said I don't know whether it did."
 
-The examiner still had Leora's wrist. He stared at his bare arms.
+"Then turn it off," you said.
 
-"Open your hand," she said.
+The practitioner reached past the stand and clicked the switch. Ordinary yellow lamplight returned. Your skin was bare. Not faded, not pale: bare, as it had been in every mirror and every examination room of your life.
 
-"I can't hold the hood."
+You rubbed your thumb over the place. Nothing rose under it.
 
-"Not yet. Open it."
+"May I clean the skin?" the practitioner asked. "Water first. Then spirits on one small area, if water changes nothing."
 
-His grip loosened without breaking contact. Leora found the silver pattern packed into her hidden lines. Holding the machine while moving the ability felt like pulling a brace from beneath her own chest. She pushed anyway—not away, but back through the living hand against hers.
+"Why?"
 
-The examiner gasped. Silver refilled his wrist, then climbed in separate beads up his forearm. When the last bead returned, he raised his other hand.
+"A surface residue can settle in pores. Cleaning would disturb it. A channel should remain. Should."
 
-"Now," Leora said.
+"Water only. You do it where I can see."
 
-She let go of the suspension. His restored field took the hood's weight, but the pivot plate was already separating from the stone. Its upper edge peeled from the column. The arm struck the masonry, dragged the clipped cable down, and exposed a white burst of current. One privacy screen folded under the boom. The other fell outward. Burning insulation scattered beneath the east gallery.
+She poured from the covered pitcher into a clean bowl. Your mother opened her mouth as if to object to the cloth the practitioner chose, then shut it again. The cloth passed over your wrist once, cool and rough. No color came away. Under violet light, the line returned with the same branches.
 
-The column split with a sound Leora knew from her practical test, except this was no planted defect. The gallery dipped toward the scan station. Chairs slid. At the landing, a middle-aged man went down beneath a buckled section of rail.
+The practitioner put a clear glass plate between the lamp and your arm. The pattern remained. She moved the lamp to your other wrist. More black-violet lines rose there, thinner but unmistakable. At your permission she checked the bend of one elbow, then stopped when the beam showed the pattern climbing past your rolled sleeve.
 
-The street shutters reached the floor and locked.
+"Enough," you said.
 
-For two breaths the alarms made every decision worse. People pushed north, found steel, and turned against the people behind them. Smoke flattened under the gallery ceiling. The examiner tried to lift the arm from the service corridor, but its twisted end struck the floor and rolled back.
+She switched the lamp off at once.
 
-The registrar caught Leora above the elbow. "You took his suspension. Take a bearing mark. Resin first, then the brine carrier by Desk Nine."
+Your mother exhaled through her teeth. "At the registry they said absent. Not hidden. Absent. They stamped it. I still have the paper. Then at school, when the other children were sorted, they said there was nothing to train. When the pain-worker couldn't settle your stitches, she said you were being difficult. I told her you had gone white around the mouth, and she said—"
+
+"Mum."
+
+"No. They said there was nothing, all of them. Twelve people put their hands on you and came away with a word for what you lacked. I want their names."
+
+"I want an answer about tomorrow."
+
+"This is about tomorrow. If they missed it, they pay for the graft."
+
+"Can the graft proceed?" you asked the practitioner.
+
+She looked at the stoppered vial, not at your mother. "Not on the plan we have. Artificial channels are laid where your body has no working network. If there is already a network, I need to know whether the new ink would cross it, compete with it, or be rejected by it."
+
+"So no."
+
+"So not tomorrow. I can say that much."
+
+You had spent months saving for tomorrow. Now the morning coach would leave without you, and the cancellation made no sound beyond the stopper pressed into the vial.
+
+Your brother picked a thread of glowing lint from his shirt. "Maybe you don't need the graft."
+
+Your mother seized on that. "Of course you don't. You never did."
+
+The words struck worse from her than they would have from anyone else.
+
+"I chose it," you said.
+
+"Because they told you—"
+
+"I chose it."
+
+"After years of being told. There is a difference."
+
+"You only find the difference when you don't like what I chose."
+
+Your mother's mouth stayed open. Behind her, a drop fell from the draining cloth into the stone trough. Then another.
+
+The practitioner wrapped the vial in its dark cloth. "We can stop here."
+
+"Can you tell what it does?" your brother asked.
+
+"Not from seeing it."
+
+"Most shapes give you a hint. Mine curls like a stove coil. Mum's spreads like dye in water."
+
+"Most shapes give people stories after they know the faculty. Beforehand, resemblance is a poor test."
+
+"But if it's been working—" He turned to you. "That winter you slept in my bed because the wall froze. I tried to warm your feet and it kept slipping. I thought you were kicking it away."
+
+"You were eight."
+
+"Nine. And you did kick."
+
+Your mother looked sharply at the practitioner. "The pain-worker."
+
+"Possibly," the practitioner said.
+
+"And the blessing at the naming table. It wouldn't take. They rubbed the oil off and started again. Then the fever, when the cooling mark worked on the bathwater but not on—"
+
+"Possibly is not yes," you said.
+
+"It is three times. Four, with his warming."
+
+"It is three memories changing shape because of one lamp."
+
+The practitioner gave you a brief nod. "That's the safer distinction."
+
+Your mother turned on her. "Safer for whom?"
+
+"For the person whose skin we're discussing."
+
+Your mother looked at the hand she had lowered. The practitioner began setting the unused graft tools back into their case, piece by piece. Their little metal mouths clicked against the felt.
+
+"Is there a small test?" you asked.
+
+The practitioner's hand rested on the case lid. "There may be a comparison. Your brother's warming faculty is familiar to all of you?"
+
+"Too familiar," your mother said. "He scorched a sleeve last month."
+
+"It was the cuff, and the iron had already warmed it."
+
+"You left the iron cold."
+
+"It was near the stove."
+
+"Can you control it now?" the practitioner asked him.
+
+His joking fell away. "Yes. Warm, not hot. I do it for the setting bath."
+
+The practitioner laid out the conditions slowly. Your brother would warm her palm first, then yours. He would use the same hand, the same duration, and what felt to him like the same effort. Afterward he would warm a metal cup, remove his hand, and you would touch it. The cup would test ordinary transferred heat. The direct contact would test a tattoo-mediated effect entering your body. The lamp would only show the buried pattern. It would not make the faculty happen.
+
+"And if it hurts?" your mother asked.
+
+"Anyone says stop, we stop."
+
+"Anyone?"
+
+"Anyone."
+
+You looked at your brother. "Do you want to?"
+
+He rubbed his amber-marked palm on his trousers. "If you do. I mean, yes, but not if you're only asking because she's here. Or because tomorrow's gone."
+
+"That's not an answer."
+
+"It's the answer I've got."
+
+It was, at least, his.
+
+The practitioner sat opposite him and placed her palm against his. "At the count of three. Stop at five."
+
+His amber loops darkened. Nothing came from them on their own. He drew a breath, pressed his fingers into hers, and warmth spread a pink flush up her hand.
+
+"Even and mild," she said. "Again with your hand, if you consent."
+
+You put your palm against his. His skin was clammy.
+
+"You can stop," he said.
+
+"Start."
+
+The amber deepened. Warmth flowed into your palm, as ordinary-seeming as sun through a window, then climbed to your wrist. You had expected resistance and found none. The surprise loosened something in your shoulders.
+
+"I feel it," you said.
+
+"Same as mine?" the practitioner asked.
+
+"I don't know what yours felt like. Warm. Moving upward."
+
+Your brother released you at five. "That worked."
+
+"One condition worked," the practitioner said. "Now the lamp, if you permit it. Same contact. This time, try to refuse the warmth. Not him. The warmth."
+
+Your mother moved closer. "How do you refuse something with a mark you've never felt?"
+
+"I don't know," the practitioner said. "If there is no meaningful action, that tells us something too."
+
+You permitted the lamp. Black-violet branches appeared through your hand and ran up beneath your cuff. Your brother's fingers hovered.
+
+You remembered the pain-worker leaning over your split chin when you were eleven, her blue mark open across her throat, telling you to stop fighting the quiet she was offering. You had not known how to stop. You had only known you did not want her inside your hurt while she spoke as if your fear were disobedience.
+
+Not him, you reminded yourself. The warmth.
+
+You set your feet under the table. You watched the amber lines in his palm. When he touched you, you imagined a door you had never seen and made no picture of closing it. You simply held the edge of yourself where it was.
+
+His mark darkened.
+
+Pressure. Damp skin. No warmth.
+
+Under the violet light, the lines within your palm drew tight around each place his fingers met yours. They did not flare or reach for him. They held.
+
+Your brother swallowed. "I'm doing it."
+
+"Continue," the practitioner said. "If both of you agree."
+
+"I agree," you said.
+
+"Yes," he said, too quickly. "Still warm on my side. It's got nowhere to— I don't know. It's just there."
+
+At five he tore his hand away and tucked it under his opposite arm.
+
+Your mother stared at your palm. "Again."
+
+"No," you said.
+
+"We need to be sure."
 
 "No."
 
-"That column has minutes."
+The practitioner switched off the lamp.
 
-"Ask them."
+Your mother began, "But one test—"
 
-"The resin bearer is pinned."
+"Was one test," the practitioner said. "It suggests a conditional resistance. It does not tell us how broad, how reliable, or how safe. We don't repeat it tonight."
 
-"He can answer."
+"The cup," you said.
 
-The registrar looked at the tilted gallery, then past her to the crowd. His grip fell away. "Clear the east bay! West wall to the north shutter. Leave everything else."
+She considered you. "Only if you still want the object comparison. It answers a narrower question."
 
-It was a useful order. Leora ran toward the landing.
+"Whether ordinary heat gets through. I want that."
 
-The pinned man's right leg was caught between a bench frame and the folded rail. Dense brown resin formed a block lattice from his palm to his elbow. He had pressed that palm to the railing, but the railing was no longer connected cleanly to the cracked column; his ability had nowhere sound to send the load.
+Your brother fetched the little tin cup from beside the sink. He held it between both palms until his amber loops darkened and the metal gave a soft tick. Then he set it on the table and took his hands away. The practitioner tested it first with two fingers.
 
-Leora crouched below him. "Can you hear me?"
+"Warm," she said.
 
-"Better than I'd like."
+You braced before you touched it.
 
-"Can your mark hold the gallery through the east column?"
+The heat entered your fingertips anyway. You let go.
 
-He glanced down its length. Pain clipped his breathing. "If the footing's whole. One path. Four minutes, perhaps five."
+"So fire still burns," your brother said.
 
-Leora checked the base. The crack ended above the floor, and the column still sat square on its plinth. "The footing's taking it. What happens when the mark leaves you?"
+"Heat does," the practitioner replied. "Once his faculty has changed the cup's temperature, the cup is only warm metal. Your mark did not cool it or prevent contact heat."
 
-"Nothing to me. Everything up there stops listening."
+"And the lamp?"
 
-"I've only returned one."
+"Showed us a pattern. Nothing more that we can support."
 
-"You returned it."
+Your brother nudged the cup by its handle. "So you can say no to marks."
 
-"Will you lend me yours?"
+"Sometimes," the practitioner said.
 
-A beam joint popped above them. The man turned his right palm toward her. "Use this hand."
+"Maybe," you said. "When I know to do it."
 
-Leora did not touch it yet. "Wake the mark. Give it when I count three."
+"That's going to make school contests unfair."
 
-Brown blocks swelled across his forearm, glossy and dense. He held his palm open at the center of the gap; Leora placed hers flat against it. The transfer still hurt. Resin-hot pressure crowded into the colorless channels and packed itself around her sternum.
+"I'm not entering a school contest."
 
-"Three," she said, and pulled while he pushed.
+"You could now. People would—" He caught himself. "Right. No one downstairs."
 
-His lattice passed into her. The last square left his elbow. Leora broke contact, stumbled down two steps, and planted both palms on the cracked column.
+Your mother had gone very still. She pressed one fingertip after another against her thumb, making a count only she understood. "The registry has to correct the record. The clinic has to examine you properly. There could be others. If they failed to use this kind of lamp on infants, then every absent-mark file—"
 
-The gallery's load entered her awareness in branching paths. Stone pressed into steel, steel into bolts, feet into treads. She forced the borrowed resin through the one continuous route that remained—from gallery beam to column to intact footing—and the dip stopped.
+"Not tonight," you said.
 
-Pressure closed around her chest. It felt as if the building had found space behind her ribs.
+"If we wait, they will say we contaminated the evidence. They always find a way. The midwife blamed the oil. The school blamed your temper. The clinic said grafting was a kindness after they made us pay for every test. I have the receipts. I have every one."
 
-"Get him free," she said.
+"Mum, listen."
 
-Two applicants had followed. One jammed a fallen bench leg beneath the rail while the other pulled the man's shoulders clear. Neither used a tattoo. They counted together, lifted on three, and dragged him to the landing as Leora kept the load from changing direction.
+"I have listened for twenty years."
 
-At the north shutter, a clerk shouted that the electric release was dead. Someone else answered from behind Desk Six: "Manual chain here. I need hands."
+"Not to them. To me."
 
-People moved toward the voice instead of the steel. The registrar put three adults on the chain and sent a staff member to clear the west-wall route. A woman began counting everyone coming off the gallery. Another crawled beneath the smoke and called where the last step dropped.
+She stopped, but her fingers kept worrying the edge of her sleeve.
 
-The fire climbed the scanner cable. Black insulation burned with a greasy orange edge, close enough to heat the already fractured column.
+You sorted what could be said from what everyone wanted said. "No graft tomorrow. We keep the appointment as a consultation. The practitioner can write that an unknown existing channel makes the procedure unsafe. Nothing about what the mark may do. Nothing leaves this room tonight."
 
-Leora found the applicant from Desk Nine by the blue brine channels spread from her left cheek to her palm.
+"You can't ask him to carry this alone," your mother said, nodding toward your brother.
 
-"Can your mark cool that run?" Leora asked.
+"I'm asking him to say postponed. I don't understand the rest yet."
 
-The woman looked once. "It pulls heat through whatever I touch. It won't stop live current."
+"That's not what I meant."
 
-"How long at that temperature?"
+"Then say the part you mean."
 
-"Twenty breaths before my fingers lock. Fewer if you already have something in you."
+For once, she did not have a chronology ready. She looked down at the table, at the unbroken geography of stains.
 
-"Will you lend it?"
+Your brother rubbed his hidden palm against his trousers again. "What if somebody asks why the graft didn't happen? At breakfast, I mean. They'll ask me because you don't answer when you're chewing. And if I say medical, they'll think you're sick. If I say the ink was wrong, they'll blame her." He glanced at the practitioner. "I can say postponed. Just postponed. Can I say that?"
 
-The woman stepped beside Leora's right shoulder. "Forearm to palm. Tell me when."
+"Yes."
 
-Leora kept her left hand on the column and turned her right arm outward. The woman laid her blue palm against it but held the brine in place.
+"And if they ask until when?"
 
-"Now," Leora said.
+"I don't know."
 
-Cold flooded under her skin. The blue channels left the woman's face and flowed through their contact, threading beside the heavy resin. Leora stopped the transfer the instant the last fork reached her elbow.
+He nodded, unhappy with the answer but not trying to improve it.
 
-Two abilities filled the hidden mark. There was room for neither. Resin pressure crushed inward; brine cold sharpened it until her teeth rang. The gallery slipped a finger's width before she forced her attention back to the column.
+The practitioner opened her case, took out the blank morning form, and wrote while the three of you watched. She turned it for you to read. Existing channel structure suspected. Planned graft contraindicated pending consultation. No claim about faculty. No description of the lamp.
 
-"No more," Leora said, to herself or anyone listening.
+"Is that enough for the clinic?" you asked.
 
-She could not reach the burning cable without abandoning the load path. The fallen scanner base touched the same metal chase, close to her right foot. She set her palm against its casing and drew heat through the continuous steel.
+"Enough to stop a needle. Not enough to satisfy curiosity."
 
-Cold spread toward the fire. The orange edge shrank, then leaped again when current arced across the torn insulation. Each pull of heat blurred the load paths in Leora's mind. She narrowed the cooling to the mounting plate and the burning cable above it, leaving a row of scorched chairs to two staff members with fire blankets.
+"Good."
 
-"It keeps lighting," she said.
+You signed beneath her note. Your hand shook only when the pen left the paper.
 
-The examiner knelt beside the twisted scanner arm. His restored silver tattoo trembled with effort. "Main disconnect is behind this. I can raise the boom, but I can't see the hatch."
+Your mother noticed. She reached for you, remembered, and placed her palm flat on the table instead. The red whorls at her elbow faded to their resting color.
 
-"I'll call your feet," said the soot-lettered applicant. He dropped flat where the smoke was thinnest. Another person wrapped the examiner's sleeve around his hand.
+"Twenty years," she said. The words had no accusation left in them, only weight.
 
-The examiner lifted. Silver beads drew into long bright lines as the boom floated a handspan. The applicant crawled beside him, tapping the safe floor and shouting left, stop, forward. Together they reached the west wall. Metal banged once. The service hatch opened.
+You turned your wrist upward between you. In ordinary light there was nothing to show her.
 
-At the north shutter, the manual chain brought the steel up by inches. People ducked under in single file. The woman counting from the gallery called twelve, then thirteen. The registrar sent no one back for bags.
+"Ask," you said.
 
-Leora's right hand had gone numb. She could no longer feel whether it touched the scanner casing, only the cold track moving through her forearm. Above, the last three people reached the stairs. The resin bearer, carried between two strangers, looked back at her from the west wall.
+Her throat moved. "May I?"
 
-"Column," he called.
+You put your hand in hers.
 
-She had let the cold take too much attention. A second crack had opened above her head. Leora withdrew the brine from the cable and drove everything she could still hold into the resin path. The gallery steadied. Fire crawled another few inches along the dead-looking cable.
+She held it without calling the darkness up, without trying to feel a pattern buried deeper than touch. Across the table, your brother busied himself wrapping the cold inspection lamp in its frayed cord. He made a knot too tight, picked at it, and finally left it tangled.
 
-The main disconnect slammed down.
+The practitioner packed the sealed graft vial in ice for return to the clinic. Your mother covered the unused aftercare food and put the kettle back on the stove. Nobody suggested waking the house.
 
-The electric snapping stopped.
+By the time gray morning reached the high windows, the workroom looked almost ready for an ordinary day. Tools cased. Cloth folded. Consultation form tucked inside your coat. The tin cup had cooled beside the form; you carried it to the sink with the other dishes.
 
-Battery lamps along the west wall came on in dull white.
+Your mother held up two shirts. "Blue or brown?"
 
-Leora counted one breath, then pushed the brine cold through the scanner chase again. With no current feeding it, the cable fire folded into smoke. A staff member smothered the last chair. The examiner came back coughing, his silver bands intact.
+The question was so small that it took you a moment to understand it.
 
-"Power is cut at the main," he said. "It stays cut."
+"Blue," you said.
 
-"Gallery clear!" the counter called from beneath the north shutter.
-
-The registrar and three others dragged telescoping emergency posts from a cabinet under the west stairs. They started toward the closest points beneath the gallery.
-
-"Not there," Leora said. The load paths swam when she turned her head. "One under the beam pocket. Chalk square on the floor. Second beside the south joint. Keep clear of the broken chase."
-
-They found the inspection squares and set the post feet. The registrar spun one collar while two applicants raised the tube. Steel met beam. They installed the second, then a third beyond the cracked column. As the posts took weight, the pressure behind Leora's ribs eased by degrees instead of all at once.
-
-The brine bearer had stayed near her. Leora lifted her numb right arm.
-
-"Palm again," she said. "I'm returning it."
-
-The woman fitted her hand to the same place. Leora separated the blue pattern from the brown and pushed. Cold moved out through their joined skin. Five blue forks reappeared across the woman's cheek; the channels filled to her fingertips. When the last one left Leora, the woman touched the warm scanner casing. Condensation sprang beneath her palm.
-
-"It answers," she said, and stepped back to let a medic reach Leora.
-
-"Not yet." Leora kept her left hand against the column until the examiner checked all three post heads and called them seated.
-
-The resin bearer sat on a folded blanket with his injured leg splinted. Leora crossed to him slowly. Without the brine, the remaining ability felt hotter and heavier.
-
-He offered his right palm. "Send it."
-
-Leora pressed her hand to his and willed the resin out. Each brown block withdrew from her hidden branches and rebuilt the lattice along his arm. The final square settled at his elbow. He put two fingers against the splint rail; the loose joint locked rigid under them.
-
-"That's mine," he said.
-
-Only the colorless pattern remained in Leora. Under the white emergency lamps, her hands looked bare again.
-
-A clerk recovered Leora's folded work clothes from the changing niche. She dressed in the first-aid washroom, then let the medic wrap the fingers the cold had stiffened. Most applicants were already outside. People gave statements, searched for missing coats, and argued with the staff member who wanted them farther from the doors. The registrar stood amid blackened insulation and gray stone dust, reading the scan record on his tablet.
-
-"We need a second image before the transfer traces fade," he said.
-
-Leora flexed once against the bandage. "No."
-
-"Central review will ask for a post-event baseline. Samples too."
-
-"Send me the request."
-
-"If you leave now, your classification remains open."
-
-"Leave it open. Close the occupational hold."
-
-He looked at her as though the two had never existed separately. "Your ability is unassessed."
-
-"My structural practical isn't."
-
-"This event changes the risk."
-
-"Your scanner mount failed."
-
-The examiner had come within hearing. Soot darkened one side of his gray coat. "The scan was complete before the pivot tore out," he said. "I logged the depth map and the time."
-
-The registrar's eyes narrowed. "You're certifying that?"
-
-"I'm recording what happened."
-
-Leora set the three notices on the desk again. Stone dust had grayed their edges. The registrar's added word remained on the top one.
-
-"Entry-grade structures," she said. "No work restriction."
-
-"I can issue the credential with the tattoo classification pending."
-
-"Those are separate records."
-
-He did not deny it.
-
-"I will read a study request after the credential is in my hand," Leora said.
-
-The registrar glanced toward the wrecked station, then read the added word on Leora's notice once more. He cleared the occupational hold.
-
-The credential printer shared the emergency circuit with the white lamps. It fed out a stiff card showing Leora's photograph, her scores, and the line she had come for: STRUCTURAL MAINTENANCE — ENTRY. No restriction followed it.
-
-He held the card long enough to scan its number into the open anomaly file. "Central office will contact you today."
-
-Leora took it. "They have my address."
-
-Outside, afternoon sun showed no line on her forearms. The colorless branches hurt anyway—empty, sore channels from her palms to the deep knot beneath her breastbone.
-
-Her placement contact answered on the second ring. Leora read the credential number from the card. The woman told her to report at six on Monday and gave her the service-gate code.
-
-Leora sat on the curb while a medic finished wrapping her right hand. She listened to the code twice, wrote it on the back of her softened queue ticket, and did not miss a digit.
+Your brother switched off the lamp at the wall, though it had already been dark for half an hour.
