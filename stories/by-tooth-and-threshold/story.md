@@ -8,362 +8,346 @@ canon: false
 
 # By Tooth and Threshold
 
-The knock came while I was trying to persuade one bent tooth on my multitool back into line. Three blows, evenly spaced, hard enough to lift the loose spoons in the draining rack.
+At 6:14, the knock came while Dev Kaylor was trying to decide whether a trap that size belonged in an evidence bag or under a welding blanket.
 
-Rain had already erased the evening beyond my kitchen windows. I left the tool on a towel around the corner from the door, set the security chain, and opened the door as far as the chain allowed.
+Three knocks, evenly spaced. Not a neighbor's knock, and no one he knew would have come around to the mudroom at dusk.
 
-A woman stood under the leaking edge of the porch roof. Her hair lay black against her cheeks. One hand gripped the rail, and her left boot touched the boards by the heel alone.
+He set the blanket over the steel jaws, though he had wired them open, and wiped his hands on his jeans. Four nights of dried creek mud still clung inside the hinge. He had photographed the trap where he found it, photographed the spring numbers that had been ground away, and then done the stupidest useful thing available: brought it home.
 
-“I owe you a vigil,” she said. “One threshold. Tonight.”
+Through the door glass he saw a woman standing beyond the storm door with both hands visible. She was perhaps his age, thirty or a little older, in a rain-dark coat. Her right trouser leg had been cut up the seam and fastened again with safety pins. She kept her weight on the other foot.
 
-I kept my shoulder against the door. “We don’t know each other.”
+Dev left the inner door on its chain.
 
-“Four nights ago, the third tooth on your narrow plier jaw folded left. You tried the flat driver after that. It slipped off the lower spring twice.”
+"Front door's around the house."
 
-The kitchen table was out of her sight. So was the multitool, and the new bright scar along its driver blade.
+"I need the trap you took from the creek."
 
-She watched me measure that fact. Then she said, quieter, “You put your sleeve beside my mouth and whispered, ‘Wait on the hinge. Six breaths. Then move.’ Your voice failed on *six*.”
+His hand settled on the dead bolt. "Who told you it was here?"
 
-At the campsite there had been no witness who could have repeated those words. There had only been me, a steel trap hidden in leaf mold, and a wolf large enough that its shoulder came nearly to my chest when it finally stood.
+"You did. By moving it."
 
-I had found it on the second afternoon of a short camping trip, less than a day’s walk into the woods behind my rented house. Its left hind leg was caught above the paw. The trap’s jaws had no rubber pads, no tag, and no business being on public ground. Blood had worked into the chain links. When I crouched, the wolf had lifted its head without wasting strength on a snarl.
+She looked past him, not into the house but toward the covered shape on the workbench. Dev shifted to block that line.
 
-I had wedged my camp hatchet under one spring and attacked the trigger latch with the multitool. The plier tooth bent. The screwdriver slipped. The wolf’s breath struck the sleeve I offered as if cloth could make my arm less breakable. Six breaths later the jaw opened far enough. I tied orange tent cord above the wound because it was the only clean length I had, then loosened it when the paw swelled. The wolf watched every error. When it limped away, it used three legs and never looked tame.
+"Name."
 
-The woman at my door raised her wet trouser cuff.
+"Audra Liske. You pulled the trap off me four nights ago. I came to pay the debt before the man who set it reaches your door."
 
-That orange cord circled her left ankle. Its cut end had the same black, bubbled bead I had made with a cooking lighter. Below it, a fresh bandage covered a deep bruised ring. Four narrow breaks showed where the dressing had shifted, placed exactly where steel had bitten through gray fur.
+"How did you find my door?"
 
-My hand loosened from the door, though I did not remove the chain. “You were the wolf.”
+"I followed his vehicle from the creek. I knew its scent. He followed your signal."
 
-“Yes.”
+Dev studied her face for the prelude to a smile. None came.
 
-“You understood me.”
+"I pulled it off a wolf."
 
-“Enough.” She let the cuff fall. “May I use the porch?”
+"You tried the tire iron first. It slipped. You wrapped your left hand in the blue corner of your groundsheet before you touched the second spring. When you got the jaws apart, you moved uphill instead of toward the trail because I was between you and it." She paused to breathe through something. "You left the iron. I pushed it into the creek so he wouldn't find your grip on it."
 
-“You need a clinic.”
+Only the wolf could have seen the iron go into the water. Dev had assumed the current took it.
 
-“No.”
+"Show me your hands," he said.
 
-“At least come in so I can dry that and check whether the swelling—”
+She raised them a little higher. Empty, scraped, trembling at the fingertips.
 
-“I remain outside.”
+"Turn around."
 
-It was the first refusal, and she gave it the flat finality of a measurement. Rain blew around her calves. Beyond the porch, a narrow yard descended twenty paces to the trees. The same woods continued behind them toward the ridge where I had camped, black now except when water flashed on a leaf.
+"No."
 
-“Then tell me what the debt is,” I said. “Money? A favor?”
+"If you want in—"
 
-“A correction.”
+"I didn't ask to come in."
 
-“Of what?”
+He had already asked too much and still had a queue of questions pressing behind his teeth. What were you. What are you. How did a wound cross from one body to another. How many doors had she tried before his.
 
-“My older sister found the trap.”
+Audra glanced toward the lane. "The transmitter clicks before it sends. Every three minutes once it's awake. It woke when you moved the trap. He had four days to follow the last locations."
 
-The woman looked past me, not into the house but at the blood-marked jacket hanging just inside the hall. I had worn it while I freed the wolf, then packed my camp and walked home along the service trail the following morning. I had meant to wash it. Instead I had hung it by the door while I decided whether the dried brown along one sleeve might matter to whoever investigated an illegal trap. No one had returned either of my calls.
+"There isn't a transmitter. I checked it."
 
-“She found my blood in the circle,” the woman continued. “Steel. Your boot marks. Your hands and jacket over my scent. A human trail leading away.”
+"You checked the pan and the chain. Look under the swivel housing."
 
-“Leading here.”
+From beneath the welding blanket came a small, hard tick.
 
-“She is following it.”
+Both of them heard it. Audra looked at the watch on Dev's wrist.
 
-I reached for the chain.
+"Start from that."
 
-“Not to close the door,” she said.
+Dev's thumb found the timer. "If that's a radio, shielding it doesn't undo four nights of broadcasts."
 
-“To get my phone.”
+"No. He still has your house."
 
-“No witnesses.”
+"Then what debt are you paying?"
 
-“If a wolf is tracking my house, I can call wildlife control without mentioning any of this.”
+"The one coming up your drive."
 
-“Then strangers arrive carrying cages and rifles. My sister sees them at the end of my blood trail.”
+An engine labored somewhere beyond the first rise, too slow for the paved road. Dev looked through the side window. The lane was still empty, but wet branches beyond the bend showed brief washes of light.
 
-My fingers stopped on the metal slide. “She thinks I set the trap.”
+He unhooked the chain and opened the inner door without opening the storm door. "Mudroom only. The house door stays locked. You use this outside door, and it stays unlatched while you're in here."
 
-“Or took me after it caught me. She does not know whether I am captive or dead. She knows I did not come home.”
+Audra watched his hand on the latch. "I can leave by it whenever I decide?"
 
-“Why didn’t you?”
+"Yes."
 
-The grip of her hand tightened on the rail. “I could not find her before she found the blood. I crossed her track twice. She is casting across your trail. I came straight.”
+She opened the storm door herself and stepped over the sill. The cramped room held a boot rack, utility sink, freezer, workbench, and too many tools hung in outlines on the wall. Dev locked the door into the kitchen and put its key in his pocket. He did not like the little performance of it, but he liked pretending trust was a switch even less.
 
-Her soaked coat trembled against her ribs. She looked exhausted, but not lost. Every part of her attention pointed toward the yard.
+Audra chose the bench beside the outside door. Up close, her skin had the pale, taut look of pain worked on too long. Blood had dried above her boot.
 
-“If I walk back with you,” I said, “we can meet her away from the house.”
+Dev pulled the blanket off the trap. Its jaws spanned most of the bench. One blunt tooth still held a dark tuft of coarse fur.
 
-“You walk nowhere.”
+"That one," Audra said.
 
-“I have a brighter light than whatever you brought. I can show her I’m not—”
+"I know where it caught you."
 
-“She does not need your explanation.”
+"Then stop looking at my leg for proof."
 
-“What does she need?”
+He took a breath. "May I cut those pins free?"
 
-“My scent. The injury carried in my body. A clear view that I stand here by choice.” She nodded at the sill between us. “That is what I owe you: I stop the danger my survival brought to your door.”
+"Not the boot. The wrap above it. Saline first. No alcohol."
 
-No wish. No service I could save for later. She had not come to reward me or promise that the woods would favor me. She had come because another body, acting on reasonable evidence, might tear through my door before hearing a human defense.
+Dev set the first-aid box within her reach. She selected the scissors and handed them to him, then turned her knee to give him access. The outer cloth was improvised and dirty. Under it, two deep pressure cuts curved around her lower leg in the same spacing as the jaws on the bench. They had begun bleeding again.
 
-“One vigil,” I said.
+He rinsed only where she pointed, laid clean gauze over the cuts, and stopped when she took the roll from him. She wrapped the leg herself.
 
-“Until she sees and leaves. Then it is paid.”
+The timer showed one minute forty-eight seconds.
 
-“And if she doesn’t leave?”
+"How far is his receiver good for?" Dev asked.
 
-“Then I have failed, and you close the door.”
+"Farther on open ground. Worse through the hill."
 
-I looked down at the chain still bridging its small gap. “Give me the plan.”
+"How much farther?"
 
-“Three conditions. I stay outside. When she reaches the yard, you stay behind this sill. No one else sees me change.”
+"I don't know."
 
-“You’ll change here?”
+"How did you find out it was shieldable?"
 
-“Before she arrives.”
+"He put the trap in his vehicle. The bearing vanished until he opened the rear door."
 
-The direct answer left no useful space for disbelief. I had the cord, the wound, the tool tooth, and the sentence whispered with my mouth inches from a wolf’s ear. Mystery had become a practical problem.
+"What frequency? Is the signal directional? Does it log movement?"
 
-I unhooked the chain and opened the door. She moved backward at once, preserving the sill between us.
+Audra tightened the gauze and shut her eyes for a moment. "Ask the next question you can use."
 
-“The kitchen is warmer,” I said. “You could wait inside and step out when you hear her.”
+The rebuke landed because it was precise. Dev turned the trap on its wired-open side. Beneath the chain swivel, a black capsule sat inside a shallow steel guard. A braided cable no thicker than a bootlace fixed it to the baseplate.
 
-“A locked human room on the end of a blood trail looks like a locked human room.”
+He reached for the bolt cutters.
 
-“I can leave the door open.”
+"Can you separate it without breaking the case?" Audra asked.
 
-“Your walls carry your scent. I need her to see where I chose to wait.”
+"If the cable isn't hardened. I want the transmitter intact. I want the trap intact."
 
-Wind drove a sheet of rain from the trees across the yard and under the porch roof. It pushed against her back and spat drops onto my kitchen floor. She angled her face to it.
+"Evidence."
 
-“Wrong direction,” she said.
+"Yes."
 
-The woods were upwind. Anything on the porch streamed toward the house, away from a searcher approaching through the trees. Her sister would have to come close before she caught the woman’s scent over the blood on my jacket.
+"Then use the small cutters. The big jaws will crush both against the plate."
 
-I found a rubber doorstop and wedged the door open. The porch was six boards deep, with steps straight down to the yard and a solid lower rail on either side. A narrow fixed window filled the wall beside the door. The driveway curved away to the left. To the right, two wet shrubs hid most of the next house’s unlit windows.
+Dev looked at her. She had been studying the angle, not instructing him in tools. He changed cutters anyway, braced the braided cable clear of the capsule, and leaned his weight down. The cable parted with a sound like a clipped guitar string.
 
-“Porch light off,” she said. “Road curtains shut.”
+The capsule came free into his glove. A yellow diode flashed once.
 
-I did both. “I have a tarp. Dry clothes. Bandages.”
+"Still awake," Audra said. "The next pulse stays on the interval."
 
-“Tarp.”
+His timer reached three minutes. The capsule ticked in his palm.
 
-“A chair so you can raise your leg?”
+Dev dropped it into a galvanized parts can, pressed the lid tight, and nested that inside the steel cash box he used for receipts. "If both seams close, it should cut most radio."
 
-“No.”
+"Most isn't a direction."
 
-“Water?”
+"It's what we have."
 
-She pointed to the outer corner by the rail, three full boards from the sill. “There.”
+The engine went silent beyond the bend.
 
-I filled a metal mixing bowl. When I bent to set it where she had indicated, she stepped aside and waited until I was back in the kitchen before taking my place near the post.
+Dev called emergency services. He gave his address, described an armed trespasser tracking an illegal steel trap, and said the weapon might be a veterinary dart launcher. The dispatcher asked whether he could remain inside. He looked at the trap, at the mudroom's two doors, and at Audra's eyes fixed on the dark glass.
 
-“Food matters if changing costs energy,” I said.
+"Not safely," he said.
 
-“Bread. Salt. Nothing cooked now.”
+The nearest response was coming from a long way out. Dev put the phone on speaker and lowered the volume.
 
-That answer sent me to the cupboard instead of into another argument. I slid half a loaf and the saltcellar across the boards with a broom. She caught the loaf before rain reached it, tore off two pieces, and salted them with careful pinches. Her hands were scraped across the knuckles. They were human hands, chilled and unsteady, belonging to the same person who had kept enormous teeth away from my wrist while I worked.
+Audra tested her leg, winced, and stood. "Give me the box. I take it south past the drainage cut. He follows me away from the house."
 
-I brought the first-aid box anyway.
+"In which body?"
 
-“Inside,” she said.
+"The one that can cross the cut without a light."
 
-“The bandage is wet through.”
+"On that leg? Carrying his signal?"
 
-“It comes off before I change.”
+"That is why I'm here."
 
-“If the wound opens—”
+Dev pictured the wolf in the creek bed, enormous and silent, lifting a ruined foreleg while he fought the springs. He had spent four days telling himself the animal had understood that he meant help. Now understanding had arrived at his house and was trying to turn itself into bait.
 
-“It will.”
+"No," he said.
 
-“Then pressure, clean cloth, something.”
+Audra's face closed.
 
-“After my sister reads it.”
+He caught his own mistake before he could build a fence around it. "I mean I carry the box. It's my address on his receiver now, and I'm the one who wants the evidence. You choose the route."
 
-She took another bite of bread. The discussion was over, but my hand stayed on the box.
+She watched him for a second. "Your lower pen has two gates."
 
-“You keep solving the next injury,” she said. “Solve this hour.”
+"Road gate and sorting gate. The sorting lane is too narrow to turn a vehicle. My pickup is across the far end; I left it there after unloading posts."
 
-I set the box beside my heel, inside the sill.
+"The wind runs from the road toward the cut. He'll walk the high edge first."
 
-For a while, the work was only waiting. Rain rattled over the shallow roof and ran down one porch post in a twisting rope. The woman sat on the tarp with her left shoulder against the rail, left leg straight, gaze moving between the tree line and the driveway. I sat on the kitchen floor. The open gap brought in the odors of wet soil, old porch paint, and the iron trace of my jacket.
+"We can take the bottom of the drainage line. Put one unshielded pulse in the pen, close the road gate behind his vehicle, and hold him until help arrives."
 
-Each sound made me inventory a tool. The fireplace poker could extend my reach. The broom could pull the door shut. My car keys could put distance between the house and whatever came out of the trees. The woman ignored the poker when I placed it near my chair and stopped me when I picked up the keys.
+"If he enters."
 
-“Driving spreads the jacket trail,” she said.
+"The pickup denies the forward exit. The closed road gate denies reverse."
 
-“I’d seal it first.”
+"Until he breaks one."
 
-“After I leave. Seal it where it hangs. Moving it now makes a new line through the house.”
+"Then he breaks it on camera."
 
-“So I leave the thing that led her here hanging beside my head.”
+"You have a camera there?"
 
-“Yes.”
+"No. I have a phone and a fence post."
 
-“That’s difficult advice to like.”
+Audra looked toward the lane again. "He has a launcher and a loop pole. He used both at the creek after you left."
 
-“It only needs doing.”
+"On you?"
 
-A harder gust flung rain onto the narrow window. The woman turned her face into it, listening past the noise.
+"He missed. Where you stand matters now."
 
-I asked, “How far?”
+Dev fetched a coil of rope, a gate clip, a headlamp, and his canvas tool bag. He added gauze and water. Audra made him remove the pry bar because it knocked against the wrenches.
 
-“Not near enough.”
+"Sound carries up the cut," she said. "Metal carries farther."
 
-“You can hear her?”
+"Can you signal after you change?"
 
-“I hear what she disturbs.”
+"Yes. Not words. One scrape: stop. Two: come to me. If I strike the fence wire, get behind the nearest gate."
 
-I waited for an explanation. None came.
+"And if you need me to change direction?"
 
-“Does your leg change with the rest of you?” I asked.
+She touched the outside of his left boot with hers. "I touch the side I want. Don't reach for me."
 
-“Same wound. Left hind.”
+"How long does it take?"
 
-“Same person?”
+"Seventy seconds. It doesn't pause. I can't speak or use anything while it happens."
 
-Her eyes shifted to me. “Who else would pay my debt?”
+"What starts it?"
 
-There was no invitation in the answer. I let the questions about birth, moons, and how many people could do what she did stay unasked.
+"I do. Fear won't. An order won't." She nodded toward his phone. "Time it if you need proof. Clear the floor first."
 
-“Will it heal better one way?”
+Dev moved the cutters, wire ends, and cash box away from the open patch of rubber mat. Audra chose the patch, chose where to put her coat, then seemed to reconsider the coat and left it on. She lowered herself to both knees and placed her palms flat.
 
-“Human, tonight. Changing will cost heat and open it. Changing back would cost more. I will leave on four legs before dawn.”
+"Now," she said.
 
-“I could drive you afterward.”
+Dev started the timer.
 
-“No.”
+The first changes were small failures of fit: shoulders pressing against cloth differently, fingers losing their workable spread, shoes collapsing as the feet inside them altered. Then the shape of her occupied more floor. Clothing lost its separate edges wherever the body changed, neither tearing nor remaining as something that could snag. Dev had no category that helped. He kept his attention on the timer, the table corners, the freezer latch, anything she might strike.
 
-“Carry your clothes, then.”
+At thirty seconds she could not have stood as either woman or wolf. At forty-five, the wound opened through a lengthening foreleg, blood darkening the new fur. She made no human sound and could not tell him to move when her hindquarters crowded the boot rack. He moved it anyway, without touching her.
 
-“No.”
+At seventy seconds, exactly, the enormous wolf drew one complete breath. Her coat was rough charcoal along the back and wet-black at the shoulders. The right foreleg hovered above the mat.
 
-“Follow at a distance in case—”
+Dev stopped the timer. Audra looked at the cash box, then at him, and scraped once.
 
-“No second favor.”
+Stop.
 
-The words were quiet. They altered the shape of morning more cleanly than any threat could have. I leaned back against the cabinet.
+Headlights passed slowly across the upper windows. A door closed near the lane.
 
-On the counter lay the paper where I had written the trap’s location and the numbers I had called. A length of its chain had vanished under the leaves, perhaps toward another anchor, perhaps toward more iron. I told her that.
+When the light moved away, Audra scraped twice.
 
-“Not this debt,” she said.
+Dev put the cash box in the canvas bag and took the weight himself.
 
-“I’m not asking you to deal with it.”
+They left through the mudroom door at 6:54. Audra went first into the drainage cut, placing three feet with care and the fourth barely at all. Dev followed below the lip, bent under wet grass. Twice she touched his right calf and moved him deeper when the wind shifted. Once she scraped, and he froze while a narrow white beam traveled across the yard above them.
 
-“Good.” Her head turned sharply toward the trees. “Now be quiet.”
+The parts can clicked inside the cash box. Muffled, but audible against Dev's hip. He kept both lids shut.
 
-Nothing moved at first. Then a loose stone clicked at the far edge of the yard. A second click followed from closer in, too deliberate to be runoff.
+At the culvert below the old pen, Audra stopped beneath the concrete rim. The sorting lane lay uphill: wire fence on one side, plank rails on the other, road gate open behind it. Dev's pickup stood crosswise beyond the far gate, precisely where he'd left it, making the lane a pocket with one way in. He had never been so grateful for his own unfinished work.
 
-The woman got upright using the porch post. Her left knee shook once and locked.
+Audra smelled the air. She touched his left boot.
 
-“Close the door to the chain’s length,” she said. “Do not set the chain. Keep your hands visible. When I go down the steps, remain behind the sill.”
+They climbed on the downwind side.
 
-“If you fall?”
+Dev set the phone against the road-gate post with its camera aimed uphill at approaching vehicles. He tied the rope to the gate, ran it along the fence, and took the free end back to the sorting post. The next pulse was due in twenty-two seconds. He carried the cash box to the feed trough halfway between the gates, opened it, and lifted the parts-can lid with one gloved finger.
 
-“Remain.”
+Tick.
 
-“If she charges?”
+The yellow diode flashed. Dev sealed both lids and ducked behind the sorting gate.
 
-“Close the door.”
+An engine started above them almost at once.
 
-“If you start bleeding badly?”
+The setter's utility vehicle rolled down the old stock track without headlights. A pale screen glowed near the steering wheel. As the rear bumper cleared the open road gate, Dev hauled on the coil. The gate swung shut, and he snubbed the line around the sorting post. The vehicle nosed deeper into the lane, stopping when its beams found Dev's pickup across the far end.
 
-“Remain.”
+The driver stepped out carrying a short launcher in one hand and a receiver in the other. A loop pole leaned against the open door. Dev could see no part of his face clearly under the brim of his cap.
 
-Each answer took an option away from me. She waited until I drew the door almost shut and stood on the kitchen side of the sill.
+"Put the box down," the setter said.
 
-I passed her a waterproof gear bag at her direction. Behind the solid rail, hidden from the road, she removed her coat and rolled it tight. Boots, trousers, and the rest followed while I faced into the kitchen. She told me when I could turn. Wrapped in the tarp, she sat with the bag open beside her. The bandage had come off her left ankle. She unwound the orange cord herself and put both cord and dressing into the bag, then folded her clothes over them and cinched the handles into a knot she could grip with her teeth.
+Dev stayed behind the gate. "It's down. Police are on the way."
 
-The wound made a broken dark ring around her ankle. Fresh blood welled from one of the deeper points.
+"Open the far end."
 
-“Clean cloth is two feet away,” I said.
+The receiver gave a sharp electronic chirp. The setter looked toward the trough, then saw Dev's phone on the post. He raised the launcher.
 
-“After.”
+From beneath the plank rail, Audra struck the fence wire.
 
-“At least take the blanket under you.”
+Dev dropped behind the sorting gate. A dart cracked against his pickup's rear quarter panel and spun into the mud.
 
-“Keep it inside.”
+The setter took the loop pole and moved along the vehicle's side. "Down," he said toward the dark beyond the rails. "Stay down."
 
-She unwrapped the tarp and spread it flat beneath her, then braced one hand on the porch boards and drew several deliberate breaths. “The window will film. Wipe the inside before it runs into the frame. It means heat, nothing else.”
+Audra emerged inside the pen, broad enough to fill the space between two posts. She did not change back. The command did nothing except fix the setter's attention on her.
 
-Then she chose to change.
+He thrust the loop through the rails.
 
-There was no break in which the woman vanished and an animal arrived. Her back bowed. Muscle gathered and shifted under skin as her body pressed into another proportion. Her breath went ragged, steadied, and went ragged again. The boards complained under increasing weight. Gray fur darkened along her shoulders. A hand splayed beside the bag, fingers straining; a broad forepaw occupied the same place when I blinked rain from my eyes.
+Audra gave ground until the cable ring passed her muzzle. Then she turned under it, caught the aluminum shaft behind the loop in her teeth, and wrenched sideways. The pole slid through the setter's hands. She dragged it low across the gatepost, feeding the loose cable into the narrow angle above the bottom hinge.
 
-The narrow window whitened from the outer edges inward. Condensation clouded its inside face despite the cold. I wiped it with the towel I had kept in the kitchen, chasing beads away from the wooden frame while her shape rose behind the blur.
+One scrape.
 
-When the glass cleared, the wolf from the trap filled the outer half of my porch.
+Dev stopped with his hand on the gate.
 
-Her head stood level with my chest. Damp gray fur framed pale brown eyes that fixed first on me, then on the sill at my feet. Her left hind leg remained lifted. Where the human ankle had bled, the same broken circle showed through thinner fur above the paw. She checked the yard, the bag, and the distance to the bowl in the order the woman had prepared them.
+Audra shifted her bite farther down the shaft. The cable tightened around the hinge pin instead of her neck.
 
-Heat rolled faintly through the door gap. A tremor traveled from her shoulders to her ribs. The change had spent what she said it would spend.
+Two scrapes.
 
-I reached for the blanket.
+Dev pulled. The sorting gate swung its remaining foot and pinned the pole against the post. Aluminum folded. The cable snapped back into the rails and stayed there, kinked beyond use.
 
-Her upper lip tightened.
+Audra released the shaft. Blood ran along her lifted foreleg, but she did not cross the fence toward the setter.
 
-I left it on the floor.
+The setter dropped the ruined pole and reached for the launcher. Dev shouldered the sorting gate back open. Its edge struck the launcher from the setter's hand and knocked it beneath the plank rail, inside the pen.
 
-She took the bag by its knotted handles and placed it against the outer rail. Then she descended the three porch steps, using the wall side for balance. At the bottom, she paused with her body between the open door and the trees.
+For a moment the setter had the receiver and nothing else. Sirens carried faintly above the wet fields.
 
-The wind still blew toward me. Rain stippled the yard beyond her. For several seconds there was only gray grass and the vertical dark of trunks.
+He got back into his vehicle.
 
-Then a second wolf stepped out of the woods.
+"Don't," Dev said, seeing the reverse lights.
 
-She was darker, longer through the body, and uninjured. Her head stayed low as she entered the yard. Water streamed from her coat. She looked at the blood on the injured wolf’s hind leg, then beyond her at my door.
+The vehicle accelerated backward. Its rear bumper caught the closed road gate, bowed it, then tore the upper hinge out of the post. The gate fell under the tires. The vehicle fishtailed onto the stock track and climbed toward the road with one rear light broken.
 
-The dark wolf’s attention landed on me with physical weight. Her front paws spread. Her nose lifted once, testing a wind that offered her almost nothing from the porch.
+Audra could have cleared the fallen gate before it reached the rise. Instead she stood beside the disabled loop, watching until the engine faded.
 
-The injured wolf advanced. Three steady steps, then a fourth on the bad leg. That paw slid in wet grass. Her hip struck the ground, and the impact tore a short sound from her throat.
+The receiver lay in the lane where it had fallen from the open door. The launcher and two darts remained inside the pen. Dev left all three where they were for the responders.
 
-I had the blanket before thought caught up. I crossed the sill, shoved the door wide, and reached the top porch step with the wool opening between my hands.
+Audra touched his left boot and headed down into the cut.
 
-The dark wolf hardened. Her shoulders lowered and her weight moved forward.
+Behind the culvert, out of sight of the lane, she lowered herself onto the grass. Dev checked his watch. Thirty-six minutes had passed since her first change.
 
-The injured wolf twisted toward me.
+She looked at the road, then at the right foreleg. She chose before he asked. The change back began with her nose lowered between her paws.
 
-Her teeth appeared all at once. Not the controlled glimpse I remembered beside the trap, but a full white barrier aimed at my hands. A growl drove through the porch boards. Her body hurt; the blanket was dry; I could cover the distance in two steps. She showed me what mattered more plainly than speech had managed.
+Dev set the timer and cleared the canvas bag away. He could do nothing during the seventy seconds but keep the ground open and listen to the sirens grow. The body contracted through shapes that had no stable balance. At fifty seconds the wound bled faster. At seventy, Audra lay curled on her side in her restored coat and clothes, breathing in shallow pulls.
 
-I backed up.
+When she opened her eyes, fever had put a bright, unfocused sheen in them.
 
-The door frame touched my shoulder. I crossed the sill backward, lowered the blanket onto the kitchen floor, and let both hands hang open where the yard could see them.
+"Second change inside an hour," she said. Some of the links had fallen out of the sentence. "Bleeding. Pain. Fever. Water."
 
-The injured wolf kept her teeth bare until both my feet were inside. Then she turned to her sister.
+Dev opened the tool bag. "Can I wrap it now?"
 
-I did nothing.
+"Over the first. Keep the knee free."
 
-The dark wolf came forward in a curve, ready to change direction. She touched noses with her sister for less than a breath and began to circle. Her muzzle passed over the injured wolf’s face, chest, flanks, and finally the torn ring on the left hind leg. At the wound she stopped. She smelled the blood without touching it, then traced the injured wolf’s trail back toward the steps.
+He did. Her skin was hot even through his gloves. She took three measured swallows from the bottle and refused a fourth by turning her face away.
 
-The injured wolf rose. Her leg buckled again. I felt my weight shift and made it stop at my heels.
+"You don't owe me anything after this."
 
-Her sister climbed the first step. The blood on my jacket hung a few feet from her nose now. Her lips drew back. She smelled the porch boards where the woman had waited, the bread crumbs, and the damp patch where the removed dressing had rested before the woman packed it. She looked through the door at my empty hands.
+Audra pulled the cut trouser seam closed over the new bandage. "I decided what I owed before I knocked. Don't add to it."
 
-The injured wolf could have followed her sister toward the woods. Instead she limped past the dark wolf and returned to the foot of the porch. She stood facing my threshold, leaving the wound exposed behind her. No chain held her. Nothing blocked the yard.
+Where would she go. Who would dress the wound. Could she walk far enough before the fever climbed. Dev swallowed all three and asked the one that changed what he should do.
 
-The dark wolf pressed her muzzle hard into her sister’s shoulder, urging sideways. The injured wolf yielded one step, recovered it, and stood again between the house and the woods.
+He chose the one he could use. "Which route?"
 
-I kept still.
+"South in the cut. When the response vehicles pass the bend, their lights will be uphill."
 
-Rain gathered at my hairline through the open doorway and crawled down the back of my neck. The first-aid box waited beside my foot. Blood darkened the fur above the injured paw. Every object in reach proposed an action. I let the proposals pass.
+"Can you make it?"
 
-The dark wolf inspected the left leg once more. She sniffed along her sister’s flank, then the ground between the fall and the porch. Whatever she found there did not make her gentle. Her ears remained flat when she looked at me. She had not revised a judgment about humans. She had only acquired the missing piece of this one trail.
+She put her weight on the leg, tested it, and did not answer the part she could not know. "I need six minutes before they reach the gate."
 
-At last she stepped down from the porch.
+Dev gave her the six. He went back to the mudroom, photographed the separated trap where it lay, and set the welding blanket aside so no responder would reach beneath it blind. He packed his laptop, medication, lease papers, and two changes of clothes into a duffel. The setter had his address whether the transmitter ever sent again. Dev would give a statement, preserve the evidence, and sleep somewhere else.
 
-She moved backward toward the trees, watching her sister. The injured wolf did not go with her. At the edge of the yard, the dark wolf turned. A few wet branches shook after her, and then the woods held their shape again.
+At 7:44, the first wash of emergency lights reached the upper trees. Dev switched on the yard floodlights and aimed every bright angle toward the broken pen. Below them, unseen from the drive, grass whispered along the drainage cut and then went still.
 
-The injured wolf waited until the last small disturbance had traveled away. Only then did she climb the steps. She collected her clothes bag in her teeth and dragged it closer to the outer corner. The metal water bowl remained where she had chosen it, three boards from the sill. She drank for a long time, raised her head to listen, then settled beside the rail without asking for the blanket.
-
-Her sister had left. By the woman’s own measure, the debt was paid.
-
-I kept the door open to the same narrow gap. The chain hung slack. Once I reached toward the first-aid box, and the wolf looked from my hand to the sill. I drew my hand back. She lowered her head onto her forepaws.
-
-Sometime after midnight, the rain softened. The wind turned by degrees until it moved from the house across the yard. The wolf lifted her muzzle as the air carried the porch’s mingled scents toward the woods: her body alive, my jacket untouched, the two of us on opposite sides of the line she had set.
-
-She slept in brief stretches. I did not. Before the sky began to pale, she stood and tested the injured leg. It held for two steps, failed on the third, and held again. She took the knotted clothes bag in her mouth.
-
-I wanted to offer the blanket, the flashlight, my car, my shoulder, one more look at the wound. The available words were only tools she had already declined. I stayed behind the sill.
-
-The wolf crossed the yard without looking back. She paused once at the tree line to adjust the bag in her teeth, then passed between the wet trunks. No sound promised a return.
-
-The paper with the trap’s location still waited on my counter. My two calls remained unanswered. Somewhere beyond the rain, the trap’s chain still ran under the leaves.
-
-I shut the door. I folded the blood-marked sleeve of my camping jacket inward without carrying it farther through the house. An ordinary storage bin fit beneath the hall bench. I put the jacket inside, pressed the lid down until each latch clicked, and left the security chain hanging free.
+The gate would need a new post. His pickup had a dart buried in the side panel. Audra's blood marked the mudroom mat and the lower fence. Dev added the damaged gate and truck to the notes on his phone, left the wired-open trap uncovered on the bench, and went out with empty hands when the first response vehicle came through.
