@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Darsa | new | Last licensed human driver; no exact or alias reuse found, and the nearby forms Daret and Ivo Darr remain readily distinguishable. |
-| Renko | new | Android passenger; no exact or alias reuse found, and the nearby forms Rennic and Jasper Renlow remain distinguishable in sound, full-name use, and role. |
+| Kaith Muir | new | Human driver; no exact, alias, close-spelling, or confusing reuse found. |
+| Arovi | new | Android passenger; no exact, alias, close-spelling, or confusing reuse found, and no recurrence with established constructed people is implied. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun. |
+| None | none | No named story-facing place. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The bounded civic sensing, Renko's agency and personhood, Darsa's mechanical choices, the successful unseen crossing, and its material cost remain coherent; the revised timing progresses consistently through the 21:24 exemption termination.
+- Notes: The amended prompt is fulfilled through a complete midnight transit beyond the city's sensor boundary, with Kaith sacrificing the cab's lawful identity and choosing onward travel after delivering Arovi. The road choir, mass checks, scan escalation, transponder dark interval, traffic response, floodwall bypass, and ferry timing remain coherent local technology; Arovi's threatened rollback and demonstrated choice preserve personhood without generalizing constructed minds. Kaith's practical speech, the city's procedural prompts, and Arovi's changing visual and tactile grammar remain distinct under pressure; miscommunication changes action, and the final route exchange trusts their choices instead of explaining them.
