@@ -8,348 +8,342 @@ canon: false
 
 # Four Crowns in Hiding
 
-By the time the warning reached Dunbarrow, the tide had already taken the first white ring from the quay posts.
+The west mirror flashed while Ilvara was scraping salt from its hinge.
 
-Ceyra watched it go while the quarrymen swung the last sack of barley meal into her punt. The sack landed crooked. The whole boat answered beneath her boots: stern down, port side heavy, the loose patch under the third thwart giving its familiar wet squeak.
+Light, dark, dark. Light, light. A pause long enough for the tide to climb one painted finger on the wall, then another cluster. Ilvara set down the bone scraper. Across the inlet, three hundred hand-sized mirrors turned on poles above Nalevane's mudbanks, passing the duskglass packet from one brine terrace to the next. The court that had hidden her here had called Nalevane low because its throne room had a reed roof. It had neglected to mention that the reed roof could be replaced after a storm, whereas the palace dome had cracked when the first cannon struck it.
 
-“Shift it a handspan,” she told them.
+Breqen looked up from the tide ledger. “Don't touch the forwarding plate.”
 
-The quarrymen laughed because a handspan was the sort of measure Ceyra trusted more than promises, then shifted it exactly so. Behind them, Dunbarrow climbed the gorge in mean stone steps: the lime kiln, the goat pens, the king’s house with six chimneys and only two that drew. Lowly Dunbarrow, the upriver courts called it, when they remembered it existed. Its crown paid for no silk and maintained one patched grain punt among three villages.
+“I am cleaning it.”
 
-Tonight the punt belonged to Ceyra. It held barley meal, two crates of Dunbarrow chisels, and enough empty sacking for the Reedwater salt run. A legal cargo, entered before sundown. No patrol had a reason to delay it.
+“You stopped cleaning.”
 
-The warning came folded inside the quarry tally.
+The flashes repeated. Ilvara knew the groups before Breqen finished marking them in charcoal.
 
-Her foster father did not touch her as she read. He had learned, over thirteen years, that she needed room when a thing was likely to break her.
+FOUR CROWNS. FOLDGATE BEFORE FIRST LIGHT. ANSWER IN BIRTH ORDER. THE HOUSE IS CLEAR.
 
-The first line said the old palace placement book had been found. The second named four river kingdoms. The third said: **Vaust rides tonight. He must have no daughters left alive when his son takes the crown.**
+Then came the royal authentication: four bright strokes divided by darkness, a pattern that only a shard from the palace duskglass could impress on the relay.
 
-Below that, in a hurried hand: **One tide. Take your sisters beyond the marsh. They have been warned to meet the freight landings.**
+For two months, since armed attendants had carried the sisters in four directions out of a kingdom collapsing around them, Ilvara had practiced receiving messages without expecting a familiar hand behind them. This one broke the practice in six words. Four crowns. The title their mother had used at the supper table when no minister could hear. Foldgate, the old transfer station midway among their refuges. A clear house. Reunion before dawn.
 
-Ceyra had been five when the four princesses were divided among flour wagons and reed carts. She remembered Miren saying they must be quiet. Selaune giving up her blanket because Avedra was crying. Avedra following wherever the others pointed. Ceyra remembered those things with the hard confidence of memory kept too long without correction.
+Her fingers settled on the plate.
 
-“The king is upriver,” her foster father said. “If we send for leave—”
+Breqen closed the ledger over them.
 
-“The answer will come after the mud.”
-
-The outer reed gate stood open only while the spring tide fell. Miss it and the punt would sit in the marsh until dawn, when a rider could walk out to it without wetting his boots.
-
-Her foster father looked at the boat, at the gorge road, then at her. “Bring it back if you can.”
-
-That was permission in Dunbarrow: an acknowledgment that tools were scarce and lives were not tools.
-
-Ceyra pushed off with the long stern sweep. The current caught the patched punt and pulled it from the quay. She did not look back until the gorge bent. By then Dunbarrow was only two kiln fires between black walls, and the first of her rehearsed reunions had already begun to go wrong in her head.
-
-Greyfen’s mill wheel could be heard a bend before it showed, beating the river in a slow, uneven double stroke. Ceyra brought the punt alongside the flour landing without a bump. She had imagined Miren waiting there in a hood, one small bundle at her feet, still as the tall girl who had once held three younger sisters silent beneath a cart tarp.
-
-A woman in a flour-grey coat was arguing with the night foreman over six ledgers.
-
-“You cannot close an account by burning it,” she said. “You can only make the debt easier to lie about.”
-
-As she spoke, mill hands lowered Greyfen’s contracted flour sacks into the punt. The stop looked ordinary from the road.
-
-Then she saw Ceyra.
-
-Thirteen years altered the face first. Miren’s had narrowed, and a pale mill scar crossed one eyebrow. But she still went motionless before she decided anything. Ceyra knew that stillness. For one dangerous moment, she was five again and safe because her eldest sister had seen the danger.
-
-Miren handed the ledgers to the foreman. “Put them in the flour vault. If riders ask, you have never heard my royal name.”
-
-So much for quiet.
-
-The foreman blanched. Miren stepped aboard with a satchel, a rolled map, and three folded sheets stamped in red wax. She did not embrace Ceyra. She planted herself in the bow as if taking command of a badly arranged room.
-
-“Turn at the next fork,” she said. “The east branch joins the royal road.”
-
-Ceyra shoved off. “The east branch goes upstream.”
-
-“It goes home.”
-
-“Home is where Vaust is.”
-
-“Home is where his son is to be named heir in six days.” Miren held up the copied sheets. “These are his private search orders. He has no proof we survived, or he would bring warrants and soldiers. If we reach the old houses before he kills us, half the court will have to choose in daylight.”
-
-“I have one falling tide. Selaune is downriver. Avedra is downriver. The way out is downriver.”
-
-“And after the way out?”
-
-Ceyra set the sweep against the current and leaned. Greyfen began to slide astern, its mill lamps blurring gold on the water. “After all four are aboard, we decide.”
-
-“You have decided.”
-
-“I have a route.”
-
-Miren gave a short, incredulous breath. Ceyra had expected a command and prepared herself to refuse it. She had not expected Miren to be right.
-
-The punt moved into the broad middle reach. Here the bank sounds carried: a dog barking from one kingdom into the next, a cart wheel hammering a bad rut, somewhere far north the clipped rhythm of horses. Ceyra adjusted the cargo while Miren read the orders by a shielded mill lamp.
-
-“He names all four kingdoms,” Miren said. “Not our foster names. He wants women of the right ages questioned privately. No village crier, no posted seal.”
-
-“How many riders?”
-
-“It doesn’t say.”
-
-“Which bank?”
-
-“It doesn’t say.”
-
-“Then the papers are weight until they answer something.”
-
-Miren looked up sharply. It was the look Ceyra remembered receiving after dropping a cup in the palace nursery. Then, slowly, Miren rolled the pages and put them away.
-
-“You steer like Dunbarrow,” she said.
-
-“You say that as if it’s an illness.”
-
-The corner of Miren’s mouth changed, though not enough to call a smile. “I don’t know yet what I mean.”
-
-Bellmarsh had no quay, only peat steps cut into the bank. Ceyra saw the watchers before she saw Selaune: two mounted men beside the weighing shed, cloaks dry despite the rain that had passed over the south bank. One faced the village. The other watched the river.
-
-Ceyra did not slow.
-
-“You’re passing her,” Miren whispered.
-
-“I’m passing them.”
-
-The punt slid by under the ordinary groan of its cargo. A peat barge nosed from a side channel upstream, steered by an old woman who cursed the current with such invention that both riders turned to stare. Behind the barge came three square rafts of bundled fuel, tied in a line.
-
-The last raft struck Ceyra’s stern.
-
-She swore, made a show of fighting the sweep, and let the punt yaw behind the screen of peat. A hooded figure rose from between the bundles and stepped across the gap.
-
-“Would you have passed me?” Selaune asked.
-
-Her voice had been high and coaxing once. Now it was low, scraped by peat smoke, and no part of the question offered comfort.
-
-“I would have circled through the willow cut.” Ceyra straightened the punt before the watcher could glimpse more than three laborers wrestling bad water. “Probably.”
-
-Selaune pulled back her hood. Dark peat striped her cheek. She studied Ceyra, then Miren, without pretending recognition was simple. “Which of you told the old bargewoman?”
-
-“Neither,” Miren said.
-
-“Good. Then Bellmarsh still knows how to mind its own business.” Selaune crouched beside the cargo. “Vaust has five riders on the north bank and more coming by the causeway. They questioned the peat crews about four helpless court girls.”
-
-“We aren’t girls,” Ceyra said.
-
-“That was my answer. It didn’t improve their manners.”
-
-Miren unrolled the copies. Selaune held the lamp while she read, asking where each rider was meant to change horses, who had seen the orders, what happened to the villagers who refused. Miren’s patience thinned with every question.
-
-“The orders tell us what he fears,” Miren said.
-
-“Do they tell us who pays when he searches these huts after we leave?”
-
-“Would you rather stay in one?”
-
-“I’d rather know the price before calling it cheap.”
-
-Ceyra put the sweep into Selaune’s hands. “Hold us two boat-lengths off the north bank.”
-
-Selaune took it without asking how. Bellmarsh taught children to pole peat rafts before they could lift a full brick. The punt settled into a cleaner line than Ceyra had managed while listening.
-
-They lost time avoiding the causeway. Ceyra marked it in the sinking water on the reed stems: half a forefinger, then another. At Reedwater, the salt pans shone under the moon like scraps of dull metal. Avedra waited at the infirmary landing in a patched red shawl with a medicine chest at her feet.
-
-Ceyra brought the punt in fast. “Chest first.”
-
-Avedra put one hand on it. “It stays.”
-
-She was broader than Ceyra remembered, with sleeves rolled over strong forearms and a pale burn mark along one wrist. She looked past Ceyra to the waterline.
-
-“My foster mother’s fever climbed at dusk,” she said. “The night boy ran when the riders came. She needs the bitter draught at moonset, then boiled water, then the blue powder if her breath rattles. The woman at the west salt house will sit with her, but she hasn’t received the instructions.”
-
-“Then tell her now.”
-
-“She is across the west pan.”
-
-“How long?”
-
-“Longer than you want.”
-
-Hooves rang on the raised road behind the salt sheds.
-
-Ceyra caught Avedra’s wrist. “Vaust wants you dead.”
-
-Avedra looked down at Ceyra’s hand until Ceyra released her.
-
-“My foster mother may die because I walked out at the hour I promised to return,” Avedra said. “If you need me aboard, help me keep the promise.”
-
-The tide took another whispering inch from the landing piles.
-
-Ceyra saw the remainder of the night as weights: Avedra’s medicine chest, Miren’s useless papers, Selaune’s questions, three sisters where obedient passengers should have been. She could leave one and save three. The calculation was clean. Dunbarrow had trained her to make clean calculations when rope snapped or stone shifted.
-
-Dunbarrow had also trained her to count what a load was for.
-
-“How do we reach the west pan?” she asked.
-
-Avedra pointed to a drainage ditch no wider than the punt. “There. It comes behind the salt houses.”
-
-“Depth?”
-
-“Enough for the medicine skiffs.”
-
-“We are not a medicine skiff.”
-
-“Then unload the two chisel crates. The shed keeper has their receipt already.”
-
-Ceyra stared. Avedra lifted her brows, almost apologetic.
-
-“I unload boats here,” she said.
-
-They moved. Miren carried the receipt to the shed and came back with two sleepy workers. Selaune shifted the flour sacks while Ceyra laid planks from punt to landing. Avedra opened the chest, packed three bottles and two paper twists into a reed basket, and spoke the instructions once to Selaune, who repeated them without embroidery.
-
-The chisel crates came off. The bow rose half a thumb.
-
-Ceyra poled into the drainage ditch. Reed blades rasped both gunwales. At the west pan, Avedra gave a sharp two-note whistle. A plank walk crossed above them, and an old woman in a salt-stiff apron came running from the houses. Avedra reached up with the basket. Their hands missed.
-
-The punt kept moving.
-
-“Back us,” Avedra said.
-
-“We’ll ground.”
-
-“Then hold us.”
-
-Miren jammed her pole against one bank. Selaune jammed hers against the other. The punt shuddered to a stop, wedged between mud walls. Ceyra felt the stern sink.
-
-Avedra climbed onto the flour sacks and gave the basket up. She pointed to each bottle as she spoke. The old woman nodded, repeated the doses, then ran toward the far salt house without once looking closely at the women in the boat.
-
-“Clear,” Avedra said.
-
-They hauled their poles free. For three breaths the punt did not move. Mud held it with a slow sucking strength. Ceyra put her shoulder to the stern sweep; Miren braced beside her without being asked. Selaune shifted one flour sack forward. Avedra shifted another. The boat tore loose and shot into the main channel hard enough to throw all four to their knees.
-
-Someone laughed. Ceyra could not tell which sister began it, because by the time she looked up they all were, breathless and terrified, crouched among the meal sacks like thieves.
-
-Then a man on the bank said, “Miri.”
-
-The laughter vanished.
-
-Vaust sat a dark horse on the raised road less than thirty paces away. Silver threaded his beard; he held his back as straight as he had in the old council chamber. Ceyra remembered his hands at council dinners, pale and dry on the back of the king’s chair. Four riders spread behind him. One carried a short bow.
-
-Vaust watched Miren. Not Ceyra, not Avedra, not Selaune. Miren.
-
-“Miri,” he said again, the nursery name gentle in his mouth. “Come ashore. You know what men will do if you make them choose between your claim and my son’s life.”
-
-Miren stood with one hand on the pole. Her mill coat was flour-stained; her hair had come loose; peat blackened one sleeve. She looked nothing like the tall girl in Ceyra’s memory, except for the stillness.
-
-Ceyra did not know whether that stillness hid her or betrayed her.
-
-Vaust lifted two fingers. The bowman raised his weapon.
-
-Selaune kicked the lamp over. Darkness dropped across the punt. Avedra dragged Miren flat as the arrow struck a flour sack with a sound like a hand clapping dough. Ceyra drove the sweep down and found current. The punt spun behind the first salt shed while riders thundered along the bank.
-
-“South channel,” Ceyra said. “Stay low.”
-
-“The causeway turns south,” Selaune answered from the dark. “They’ll meet us at the reed gate.”
-
-“Not before we cross it.”
-
-But when the salt sheds fell behind, Ceyra’s pole went into the water and stopped after half its usual depth.
-
-Mud.
-
-The planned channel lay ahead, pale between two walls of reed. The punt should have floated it. Ceyra had measured at Dunbarrow for the legal cargo, then added three women, Miren’s satchel, and the flour lowered at Greyfen. Every sister had changed the balance. The falling tide had done the rest.
-
-She tried the pole again. The bottom grated under the hull.
-
-Behind them, hoofbeats split at the salt road. Vaust knew the gate.
-
-“There’s a deep inlet north,” Miren said. “His orders send the hired barge to the causeway, but it won’t arrive until the second night bell. We would have open water until then.”
-
-“And Vaust between us and it,” Selaune said.
-
-“Do you have another deep channel?”
+“Remove your hand,” Ilvara said.
 
 “No.”
 
-“Then north is the available choice.”
+Formality came over her when fear did, fitting bone by bone. “That seal is genuine. If one of my sisters has reached the palace stores—”
 
-“There’s the old salt cut,” Avedra said.
+“The seal may be genuine. The tide is not.” Breqen tapped the charcoal record. “That pause claims the western water turned at dusk. It did not. I was standing in it.”
 
-Ceyra could barely see where she pointed: a seam in the reeds to the west, clogged with dead stalks. “That hasn’t carried boats in years.”
+“The cipher does not include your tide.”
 
-“It carried brine. The salt women lined the bottom with woven hurdles so carts could cross at low water.”
+“Everything that crosses my mirrors includes my tide.”
 
-“Hurdles rot.”
+Outside, workers hauled a mirror mast down against the rising wind. Nobody waited for the princess to tell them how. Ilvara looked again at the neat court groups, each one paced as Kalmid Osreth had taught her when she was nine: no wasted light, no ambiguous break. Kalmid had opened the sally gate during the coup. Later, word reached each refuge that he was hunting the four heirs left alive—not from appetite or fee, but because generals could build wars around surviving daughters.
 
-“The willow frames rot. The blackthorn pins don’t. You’ll scrape, but you won’t sink to the axle mud.”
+He knew the supper name. He knew their birth order. He had once slapped Ilvara's wrist for crowding two signal groups.
 
-The hoofbeats grew louder.
+“One check,” she said. “Bounded. We ask the other routes whether their local marks agree. No position, no acknowledgement, no royal cipher.”
 
-Ceyra stared at the seam. It was not on her river chart. She had no depth marks, no turning room, no clean calculation.
+Breqen considered her, then took the forwarding key from his belt. “I will ask. You will read the answer beside me.”
 
-“What does it cost?” Selaune asked.
+“Agreed.”
 
-For once the question was for all of them.
+He uncovered the lamp beneath the outbound duskglass. Ilvara held the ledger while he tilted the tide mirror into its first bright stroke.
 
-“Cargo,” Ceyra said. “At least six sacks.”
+***
 
-“The meal belongs at the outer salt sheds,” Selaune said. “There’s a tally platform where the cut rejoins the creek. If we can reach it, we can deliver and lighten together.”
+In Rusk Hollow, the same packet arrived as iron sound.
 
-Miren pulled out Vaust’s orders. In the moonlight the red seals looked black. “His men have instructions not to enter the west pans before dawn. The pan walls won’t hold horses, and he doesn’t want the salt workers alerted.”
+Brikka watched the receiving glass brighten and dim. For every bright beat she struck the high bell with a padded hammer; for every dark beat, the low. The bells were no larger than bowls. Their voices traveled into the stone throat behind the relay room, struck the mountain's hollow interior, and returned a breath later with the route folded into the echo.
 
-The papers had answered something at last.
+Mirdakai wrote faster than the echoes came.
 
-Ceyra moved to the bow. “Avedra calls the cut. Selaune chooses what comes off and where. Miren watches the north reeds and tells us when the barge moves. I steer.”
+“Four crowns,” she translated. “Foldgate before first light. Answer in birth order. The house is clear.” The final strokes rang. She stopped with her pen above the page. “The seal is right.”
 
-Miren’s chin lifted. “On the far side, we turn toward the royal road.”
+Brikka pressed two fingers to the high bell, stilling it. “Packet's wrong.”
 
-“On the far side, four of us decide.”
+“The authentication interval is exactly one and three quarters—”
 
-For a moment Ceyra thought Miren would refuse. Then an arrow hissed through the reeds and vanished into the water.
+“Not that.”
 
-Miren took the north watch.
+“If the ridge temperature has shortened the rebound, then the expected decay is—wait. No. The low return is present, the high return is absent, unless your damping cloth took it, but you changed that at midday and the cloth would take both. Did the upper throat ice?”
 
-They entered the salt cut with stalks breaking across the bow. Avedra lay forward, one arm in the water, feeling for the old hurdle edges. “Left,” she said. “Straight. Now right, sharply.” Her care-room voice admitted no debate because debate would hurt someone.
+“No.”
 
-The hull scraped blackthorn pins. Selaune and Ceyra poled in short, ugly strokes. Miren crouched astern, naming lights as they appeared between the reeds: two riders at the causeway, one moving south, a lantern on the hired barge far behind schedule but coming fast under tow.
+“A split in the stone?”
 
-At the tally platform, Selaune cut the cargo lashings.
+“Mirdakai.”
 
-“Those six,” Ceyra said.
+She made herself stop. The room still seemed crowded with numbers she had not spoken.
 
-“Eight,” Selaune answered. “The platform is dry, and we need the bow higher for the gate.”
+Brikka pointed the hammer toward the tunnel mouth. “A proper packet comes over the north shoulder. High bell answers twice. This came from the old south spur. Whoever sent it joined our line after the mountain.”
 
-“Six keeps the invoice honest.”
+Mirdakai heard the invitation again inside her head. The house is clear. Mirdakai had never believed in clear houses. Houses had tolerances, loads, vents, doors left unlatched by people certain they had checked.
 
-“Eight keeps us afloat.”
+The outbound duskglass flickered with Breqen's unsigned tide query. The marks were simple: LOCAL CADENCE TRUE?
 
-They passed the sacks hand to hand. Miren stumbled under the first, then found the miller’s trick of balancing it on one shoulder. Avedra stacked them under the platform roof. Selaune marked eight strokes in peat on the tally board, proof of delivery for people who did not need red wax to recognize an account.
+“We can locate the sender,” Mirdakai said. The words hurried again. “Challenge the south spur with a rebound request, except a direct request reveals that we noticed it, so send a routine correction with a false high-bell delay and see which station repeats it. The stolen shard can answer the palace group but not a measurement made after arrival. Three beats late—no, two. Three would put the echo beyond Foldgate's dead throat.”
 
-The punt lifted. Ceyra felt it in the soles of her feet.
+Brikka set down the hammer. “Choose.”
 
-Ahead, the reed gate crossed the cut: two old bundles lashed to a timber boom, built to trap floating weeds before they clogged the salt creek. As the tide fell, the boom settled lower. There was barely space under it for the punt’s bow.
+Mirdakai stared at the columns. Everything in her wanted one more calculation, then another, until the longing inside the packet had become a harmless fraction.
 
-“Down,” Ceyra ordered.
+“Two beats,” she said. “Mark it as bell maintenance. Ask for the return interval only.”
 
-All four flattened themselves over the remaining cargo. Ceyra shoved the stern sweep beneath the boom and walked her hands along it. Reeds poured across her back. The timber caught Miren’s satchel and tore it open. Copied orders scattered over the water.
+“Good.” Brikka turned the outbound shutter. “My bells, my challenge.”
 
-Miren grabbed for them.
+“Yes.”
 
-The boat stopped.
+Brikka rang the maintenance group. Mirdakai listened as the mountain returned both notes, exactly where they belonged.
 
-Behind, a horse screamed at uncertain ground. Vaust shouted for the hired barge.
+***
 
-One of the copied pages drifted against Miren’s wrist. She stared at the seal, then opened her fingers. The current took it under the boom.
+The packet tugged Oriel Strand's message vanes in black and white.
 
-“Push,” she said.
+Rhevos had woven the paired strips from stormgrass: pale face for light, dyed face for dark. The receiving duskglass worked a small tension bar, but no message reached the record until a weaver followed each turn and pinned a matching strip to the frame. Wind made errors. Knots slipped. Oriel Strand trusted hands because hands could admit they had slipped.
 
-They pushed. The punt’s patched gunwales groaned beneath the timber. For one breath Ceyra thought the old wood would strip them open. Then the bow slid free, the stern followed, and the gate dropped into the mud behind them with a soft, final thud.
+Meraine read the finished band twice.
 
-The hired barge struck the landward mouth of the cut. Men shouted. Its deeper hull had grounded before it reached the first blackthorn pin.
+FOUR CROWNS. FOLDGATE BEFORE FIRST LIGHT. ANSWER IN BIRTH ORDER. THE HOUSE IS CLEAR.
 
-No one cheered. They still had current to catch and a marsh to cross.
+“There,” she said.
 
-Beyond the reeds, the river widened toward the coast. Ceyra stood at the stern, shaking so hard that the sweep knocked twice against its pin. Avedra took it from her and held the punt steady while Selaune relit the lamp. Miren gathered the one page that remained in her satchel, read it, and fed it to the flame.
+Rhevos glanced over. “There what?”
 
-“The royal road?” Ceyra asked.
+Meraine touched the words in birth order. “He wants us to answer as we were arranged at court.”
 
-Miren watched the paper curl. “Not tonight.”
+“You know it's a man?”
 
-Three fishing ports lay beyond Vaust’s levy line. Miren wanted the largest, where four women could arrive without becoming a tale. Avedra asked which had an infirmary. Selaune asked where the regent’s taxmen stopped. Ceyra asked which harbor took flat-bottomed freight. The first port that answered all four would be theirs, at least until they decided again.
+“I know what he failed to imagine.”
 
-For the harbor ledger, each sister chose an alias. Miren kept the name Greyfen knew her by. Selaune chose one no court record had ever held. Avedra kept her foster mother’s family name. Ceyra, after thinking of every name other people had given her, chose the one written across Dunbarrow’s freight receipts.
+That was not enough for Rhevos. She lifted the band from its lower hooks and held it sideways to the crosswind. One section fluttered while the rest pulled taut.
 
-The punt needed another pilot before dawn. Miren came to the stern first.
+“Someone cut out a gap,” Rhevos said. “The east gust drops every ninth group. We leave the loose strand in the record. Whoever joined this packet trimmed it clean.”
 
-“Put your feet wider,” Ceyra told her. “The sweep will pull when the current turns.”
+Meraine watched the loose strand dance. Kalmid had been patient with omissions in lessons. An empty signal, he used to say, must be empty on purpose. Yet his invitation named the sisters, their order, their old house. It named none of the people who had concealed them, fed them, corrected their mistakes, or decided each morning to keep doing so.
 
-Miren adjusted her stance. The bow wandered. Ceyra showed her where to press, then took her hand away before Miren could lean on it.
+The kingdoms were containers to him. Tip four princesses out, and the containers ceased to matter.
+
+“Ilvara will ask whether the seal can be trusted,” Meraine said. “Mirdakai will ask where the packet entered. Nuvaya will want to move before the road closes.”
+
+“And you?”
+
+“I want to know what answer he has already prepared for.”
+
+Rhevos waited.
+
+Silence was often mistaken for uncertainty at court. Meraine had found it useful to let the mistake stand.
+
+“No acknowledgement,” she said at last. “Not even refusal. Send the wind gap and the omission: the sender expects us without our hosts.”
+
+“Weavers decide what leaves this frame.” Rhevos rehooked the band. “But I agree.”
+
+The tide query arrived and, behind it, Rusk Hollow's maintenance group. Rhevos wove Oriel Strand's correction between them: CUT GAP. NO HOSTS NAMED. Meraine held the lower frame steady, feeling the wind try every knot.
+
+***
+
+Nuvaya was on the lamp roof when she saw the riders.
+
+There were five, dark against the chalk road that wound from Ternhold toward Foldgate. They rode without lanterns. That meant they wanted anyone watching from the valley to think them shadows; it also meant every sentry above them could follow the pale dust kicked up by their horses.
+
+Below Nuvaya, the receiving duskglass pulsed inside its copper hood. Ullet translated it by opening and closing four shutters around an oil lamp. Each stroke cast a shadow at a different angle across the marked wall: long for light, short for dark, east to start a group, west to end it. Ternhold's relay clerks did not merely read whether a lamp shone. They read where the darkness fell.
+
+“Four crowns,” Ullet called. “Foldgate before first light. Answer in birth order. The house is clear.”
+
+Nuvaya was already climbing down. “Send warning. All routes. Riders on the dry road.”
+
+Ullet caught the ladder before she could jump the last three rungs. “Which warning?”
+
+“The one that says riders are on the dry road.”
+
+“From which marker, moving how fast, able to see which towers?”
+
+“We don't have time for this.”
+
+“Then don't waste it being vague.”
+
+Nuvaya bit back the next interruption. Ullet shoved a waxed route board at her and returned to the lamp. His equipment, his decision. She hated that this was reasonable.
+
+On the board, the valley was cut into planes of sight. Nuvaya laid one finger on the riders, one on Foldgate's broken bridge, and traced what they could see: the north lamp if it showed above half-shutter, the old transfer arch when the moon rose, none of the east face beneath the quarry shelf.
+
+“They're forty minutes from the fork,” she said. “If they take the bridge road.”
+
+“It has no middle span.”
+
+“They won't know until the last bend. If they take the quarry track, an hour. The east face is blind from both until here.” She tapped the shelf. “We can reverse the shutters there. Make a west-cast packet look as if it came from the refuge road.”
+
+Ullet looked at the board, not at her. “We can. We have not decided to.”
+
+“Then decide quickly.”
+
+The other kingdoms' findings began to arrive. Tide false. South-spur entry. Cut wind gap. No hosts named.
+
+Nuvaya read them as Ullet's lamp threw their shadows. For the first time, the court-perfect message looked smaller than the valley around it.
+
+“The riders aren't coming to search Ternhold,” she said. “They're going to watch Foldgate. He expects one of us to answer.”
+
+“Which one?”
+
+Nuvaya's finger remained on the shortest road. Kalmid had always given her puzzles with too little time because she was the youngest and quickest to prove she could finish.
+
+“Me.”
+
+***
+
+Their answer took three hours to build because none of the four relays could speak in another's place.
+
+Ilvara received the others' findings in Nalevane as a field of mirrors: dark squares under cloud, sudden white glances when Breqen's workers tipped them to the lamp. She put four stones on the ledger, one for each refuge, and refused to move any closer together.
+
+“First condition,” she said. “No sister leaves sanctuary. Second, no route names a sanctuary. Third, if any local watch refuses the plan, the plan ends.”
+
+Breqen adjusted the west mirror half a finger. “Those are acceptable. Stop calling them conditions as if you grant them.”
+
+Ilvara's mouth tightened. “Contingencies, then.”
+
+He sent them under Nalevane's tide mark.
+
+At Rusk Hollow, Mirdakai received the tide flashes as alternating bell strokes. By then Brikka's false maintenance request had traveled down the compromised south spur. Its return came exactly two beats late, without the mountain rebound.
+
+“Foldgate,” Mirdakai said. Then, because Brikka raised an eyebrow, she forced herself to show the whole path on the slate. “The sender copied our delay at the first live station beyond the dead throat. Foldgate is the only station that fits. We can give him a reply whose timing appears to come from Ternhold, but only if Nalevane holds each group one tide count and Oriel Strand adds its regular ninth-group gap.”
+
+“Our false beat?” Brikka asked.
+
+“One and a half. He'll expect me to correct too much. One and a half looks like haste.”
+
+Brikka rubbed the bell rim with chalk, thinking. “The hollow can carry it.”
+
+At Oriel Strand, the plan arrived in woven turns. Meraine read Ilvara's three contingencies and Mirdakai's timing. They had a route and a frame. What they lacked was a lie Kalmid wanted to believe.
+
+Rhevos cut a frayed end from the black vane. “You're making that face again.”
+
+“Which face?”
+
+“The one that means everyone else must wait while you notice something.”
+
+Meraine let the strand slip over her thumb. An answer in birth order would reassure Kalmid that the sisters still obeyed the old arrangement. But four answers risked four locations, and Ilvara would never permit it. A refusal from Ilvara would sound like defense. A proof from Mirdakai would sound like a trap. Meraine's own answer would make him hunt for the withheld part.
+
+Nuvaya, though—Nuvaya would not wait for birth order if she believed the others were endangered.
+
+“Make the acknowledgement incomplete,” Meraine said. “Start in the fourth position. Nothing before it.”
+
+Rhevos's knife stopped. “Words?”
+
+“At Foldgate. Saw your shard. Coming by the refuge road. Hold the house.”
+
+“That exposes Ternhold.”
+
+“It appears to. The route must be Nuvaya's choice, and Ullet must permit it.”
+
+Rhevos wove the proposed bait, including the untouched empty spaces where three elder replies should have been. She sent it no farther than Ternhold.
+
+Nuvaya received Meraine's lie in the lamp shadows. It was nearly right.
+
+“Not the refuge road,” she said.
+
+Ullet folded his arms.
+
+She tapped the route board. “Kalmid taught us never to name a road while moving on it. He'll know that's bait. Say east shelf. He thinks I can see Foldgate from there, and his riders can't see the shelf from either approach. We reverse the cast so the packet appears to leave from the refuge side.”
+
+“My watch can hold the quarry track,” Ullet said. “The bridge road stays open until his party commits to it. Then we close the gate behind them.”
+
+“You can take five?”
+
+“The road can. We built it.”
+
+Nuvaya looked toward the dust line. Waiting had always felt to her like surrender performed in a chair. This waiting had edges. A gate shut here. A shutter reversed there. A broken bridge waited around a bend no invader had bothered to learn.
+
+“Send it,” she said.
+
+Ullet did not move. “Ternhold sends it. You set the route marks.”
+
+She breathed once. “Ternhold sends it.”
+
+Together, but at different tasks, they forged the acknowledgement. Nuvaya chose the apparent path. Ullet turned the shutters. Oriel Strand inserted its loose ninth gap. Rusk Hollow made the reply hurry by half a beat. Nalevane's mirrors held each group against the true tide. Through the duskglass, one false answer acquired four honest imperfections.
+
+FOURTH ANSWERS. EAST SHELF. SAW YOUR SHARD. COMING. HOLD THE HOUSE.
+
+Then silence.
+
+***
+
+Near midnight, a return packet entered Ternhold from Foldgate. The palace authentication shone first. After it came only: COME ALONE.
+
+“He's there,” Nuvaya said.
+
+Ullet hooded the lamp and signaled the watch with two ordinary shutters, nothing royal about them.
+
+From the roof, Nuvaya saw the riders reach the fork. Four took the bridge road. One turned up the quarry track toward Foldgate's east shelf. Kalmid separated himself from his escort because the youngest princess had offered him the ending he expected: haste, secrecy, a chance to prove herself before her sisters arrived.
+
+Nuvaya hated how accurately he had once known that piece of her. She liked what she had done with it.
+
+The quarry rider passed behind the shelf. Ullet opened the north lamp, and Nalevane's delayed flashes appeared in the valley below as if far mirrors were moving toward Foldgate. A moment later Rusk Hollow's false beat rang from an old resonance plate under the transfer arch. On the ridge, Oriel Strand's held vanes released three pale turns into the moonlight. To anyone carrying a stolen duskglass shard, the three elder routes seemed to be converging.
+
+The four escorts rounded the last bend of the bridge road and found empty air where the middle span had been lifted away for repairs. Ternhold's gate dropped behind them. The road held them between stone walls while the watch called for their reins.
+
+Kalmid emerged alone onto the east shelf. Even at that distance Nuvaya recognized the narrow set of his shoulders. He held a bright sliver above his head. The palace shard answered every relay around it with the proper four-part seal.
+
+“Nuvaya,” he called into the dark. “Any general could make an army of one of you.”
+
+No speech followed. Kalmid had never wasted words when he believed the result was obvious.
+
+Ullet glanced at Nuvaya. The last reversal was hers to time.
+
+She watched Kalmid's position, the two shutter crews hidden above him, the net rope laid across the shelf, the blind turn behind. Route and risk. He could retreat for six strides before the quarry wall narrowed. He could jump nowhere. The shard occupied his right hand.
+
+“Now,” she said.
+
+Ullet reversed the east shutters.
+
+Light struck the shelf from behind Kalmid. His shadow leaped forward, huge and false, pointing toward the refuge road. He turned toward it, expecting Nuvaya to step out where the signal claimed she stood. The watch pulled the rope. A weighted net dropped across his shoulders and pinned his sword arm before he cleared the blade. He hit one knee, still gripping the shard.
+
+“You cannot keep them hidden forever,” he said.
+
+Ullet's answer carried from the rocks. “Put the glass down.”
+
+Kalmid looked at the shadows around him, perhaps counting people he could not see. Then he set the shard on the stone.
+
+The watch took him alive. They bound his hands, recovered the palace duskglass, and disarmed his trapped escort without bloodshed. The compact kept custody in Ternhold until witnesses from the other three sanctuary kingdoms arrived.
+
+Nuvaya stayed on the lamp roof.
+
+***
+
+The capture receipt reached Nalevane before dawn. Breqen's mirrors showed the recovered shard as four bright bars followed by the Ternhold watch mark.
+
+Ilvara read it twice. “We should determine whether a more secure central refuge—”
+
+Breqen shut the forwarding plate.
+
+She looked at the workers resetting storm-tilted mirrors along the bank. “No. Strike that. I remain here tonight. Tomorrow I will ask again.” She picked up the bone scraper. “This hinge is still salted.”
+
+In Rusk Hollow, Brikka found a hairline crack where the high bell's mounting met the wall. Mirdakai held the lamp close and began listing repair times, then crossed out all but the first.
+
+“After breakfast,” she said.
+
+“Sensible.”
+
+“I'll still be here after breakfast. Do not become accustomed to the sensible part.”
+
+On Oriel Strand, one vane had torn during the long transmission. Rhevos gave Meraine the black thread and kept the needle for herself.
+
+“You staying?” Rhevos asked.
+
+Meraine watched the empty gaps pass through the frame, each one left where the wind had made it. “If the offer remains.”
+
+“It does. Hold that tighter.”
+
+At Ternhold, Nuvaya refilled the lamp while the watch brought Kalmid down from the shelf. She could have watched him enter the gate. Instead she wiped spilled oil from the copper hood.
+
+Ullet climbed the ladder and inspected her work. “Too much wick.”
+
+Nuvaya trimmed it.
+
+“The watch can take you north at sunup,” he said.
+
+“No. The shelf lamps will need filling when they bring Kalmid down.”
+
+The flame steadied. Through the duskglass came three separate receipts: a tide flash, a bell rebound, a pale vane turning in the wind. Nuvaya answered each with the same short shadow, cast from where she was.
