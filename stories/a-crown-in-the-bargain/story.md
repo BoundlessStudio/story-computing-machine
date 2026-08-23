@@ -8,296 +8,428 @@ canon: false
 
 # A Crown in the Bargain
 
-The bridal apartments contained two writing desks and not one honest chair.
+The new ring threw a red fox across Baroness Tareya Solvane's knuckles.
 
-There were chairs enough: six in the receiving room, four around a card table, a pair before the cold marble hearth. Every one had been selected to make a person sit beautifully. Their backs were straight, their arms narrow, their embroidered seats too shallow for an evening spent over accounts. Vaela could imagine a courtier perched on any of them, offering half a confidence and keeping the useful half.
+It was only light. Hushglass in the marriage chamber gathered the lamps, sorted their colors through the cut stone in her signet, and laid the registered Solvane herald over her skin: fox, rain-furrow, three hill stars. Yet the little beast seemed to run when she turned her hand. Each circuit brought it closer to a white crown projected by Osvan's ring onto the coverlet between them.
 
-The desks were worse. One was walnut, severe and nearly bare, with the Crown Prince's correspondence locked in its drawers. The other had been made ready for her. Her barony's seal lay in a silver dish beside three sticks of green wax. Someone had copied the disposition of her old workroom from a servant's report: sand shaker to the left, penknife to the right, lamp behind the writing hand. They had even found a blue-glazed cup like the one she used for tally reeds.
+Four pale bars stood beneath the crown. One went dark as the west tower struck the quarter.
 
-Like, but not hers.
+If the last bar vanished without both signets placed in the succession array, the ceremony would expire without fault. The law gave them until dawn to turn vows into a registered household. It did not make either of them finish.
 
-Beyond the open bedchamber doors, attendants had unpacked gowns she had not chosen. A map of the northern road hung between the windows. Small gold flags marked every Crown tollhouse whose fees had eaten a fifth of her wool revenues last winter. A traveling case waited beside the wardrobe, already routed by its label to the royal wing after the coronation.
+Osvan had dismissed the musicians, the blessing clerk, the page carrying warmed wine, and everyone else entitled to witness two strangers become private. He had not removed his court coat. Rain had dried in black beads along its high collar. He sat at the edge of a cedar chair as if the chair belonged to a petitioner.
 
-Her life had been arranged from secondhand information in the four hours since she married Renald.
+Tareya drew the marriage articles from beneath her traveling cloak and set them on the bed.
 
-The last maid withdrew. The door clicked shut. Renald remained by the card table, still wearing the ivory coat from the ceremony, although someone had taken away his sword and chain of succession. Without them he looked less like tomorrow's sovereign and more like a man who had forgotten where a long day ended. He had not touched the wine.
+"So...mind telling me what your plan is now that you married me, husband? Clearly, you did not put a ring on me because you were smitten with me."
 
-Vaela turned the unfamiliar blue cup between two fingers. "So...mind telling me what your plan is now that you married me, husband? Clearly, you did not put a ring on me because you were smitten with me."
+His thumb stopped against the royal signet. The crown on the coverlet went still.
 
-His gaze dropped to the gold band on her right hand.
+"There are three counts before the first-night interval closes," he said. "At the second, the succession clerk opens the north relay. At the third—"
 
-That was answer enough to make her set down the cup.
-
-"The toll decree was not contingent upon anything beyond the marriage already concluded," he said. Even alone, he spoke as if a clerk waited to dispute each clause. "It was sealed before the ceremony. It will have reached the north gate by now."
-
-"I asked about your plan. The tolls were mine."
-
-"I am aware."
-
-"Are you? Half these dresses are cut for a royal progress I never agreed to make. My desk has been colonized by an imitation of my cup. My baggage has orders. I do not." She touched the map, directly over the nearest gold flag. "You needed a wife before dawn. You selected a woman who needed five tollhouses gone. You offered a fair price for haste and paid it. I want to know what you bought."
-
-Renald glanced toward the bellpull, then the door. He had done that twice since the attendants left, measuring who might hear. "There is a matter concerning the coronation that could not safely be discussed before you wore the ring."
-
-"Could not, or would not?"
-
-"Could not safely. And would not, for that reason."
-
-Vaela pulled one of the lovely useless chairs away from the card table and sat backward on it, arms folded across its carved crest. The posture wrinkled her wedding silk. A small, satisfying loss. "There are no servants under the bed. I checked."
-
-"I do not mean danger to me."
-
-The lamps hissed in their glass chimneys. Somewhere beyond the thick walls, carriage wheels rattled over the inner court, arriving for the vigil. The old king was said to have hours left, perhaps less. At first light, whether death had come or merely drawn close enough to be indecent, the heir would be crowned to prevent a disputed interval.
-
-Renald rested both hands on the table. "When a sovereign gives a direct order, a sworn subject who hears and understands it obeys."
-
-"Usually because disobedience is followed by soldiers."
-
-"No. Before the soldiers."
-
-She waited. He had the court-bred habit of filling a silence once it ceased to flatter him. Tonight he fought it.
-
-"Close the atlas," he said.
-
-The words entered the room differently from all his others. Not louder. He had hardly raised his voice. Yet the command seemed to arrive through the bones behind Vaela's ears, bypassing argument. Her right hand jerked once against the chair. Heat tightened beneath her ring, ran around the band, and sank into her pulse. The need to obey vanished so completely that its absence felt like stepping onto a stair that was not there.
-
-The atlas lay open on the second desk, displaying an eastern coastline she had never seen.
-
-"No," Vaela said.
-
-Renald released a breath. It was not relief alone. There was wonder in it, and that offended her more than the command.
-
-She rose. "What did you do?"
-
-"Asked the remnant of the king's authority in my blood to carry an imperative. It should not be this strong while he lives. It was scarcely perceptible a month ago."
-
-"What did the ring do?"
-
-"Nothing by itself. The sovereign supplies the force. The Crown seals focus it. A wedding ring freely accepted by the sovereign's spouse grounds it. Only for the wearer, and only while it is worn."
-
-Vaela looked at the plain band. She had chosen to extend her hand in the chapel. She had chosen with poor harvests, angry drovers, and five tollhouses in mind, but no priest had needed to force her fingers open. Apparently magic had found that sufficient.
-
-"You married me to hear me say no."
-
-"In part."
-
-"There is another part?"
-
-He moved toward the walnut desk. Even now he did not say come here or look at this. He opened the bottom drawer, withdrew a leather folio, and placed it on the card table between them.
-
-"You argued against the winter toll schedule before a chamber full of men who could ruin your credit," he said. "You demonstrated that my projected revenue assumed carts would continue north after the fees exceeded the profit on their loads. I had mistaken a road for a captive river."
-
-"You had mistaken my tenants for arithmetic that could not walk away."
-
-"Yes." His mouth tightened around the unqualified word. "Everyone else in that chamber knew I was wrong by the second hour. You were the only one who persisted after I asked whether the matter had been sufficiently examined."
-
-Vaela remembered. The question had sounded gracious. Twelve ministers had immediately discovered that examination was complete. She had assumed cowardice polished by habit. "You commanded them."
-
-"Without knowing I had."
-
-"And when I continued?"
-
-"Your barony's oath to the Crown is limited to defense and passage. You were not yet a sworn officer of my father's household, and I was not yet close enough to accession for the echo to reach beyond full subjects. You were angry. I could trust the anger."
-
-She opened the folio.
-
-The first sheet bore the old king's seal and canceled the five toll charters irrevocably, repayment to their leaseholders charged against Renald's private estates. The dispatch copy had been signed by the north-gate courier before Vaela entered the chapel. Beneath it lay the marriage settlement: her lands and revenues remained separate, no royal steward could appoint beneath her seal, no child or widowhood clause altered succession in the barony.
-
-The last document was an annulment petition. Every required signature except hers had already been entered. The filing date stood blank. No allegation of fault, no return of the toll charters, no claim against her property. By the law's fussy fiction, she could declare that haste before a deathbed coronation had prevented due deliberation. The marriage would vanish on the day she chose to file, though the gossip would not.
-
-Vaela ran her thumb over the old king's dry seal. "You prepared my exit."
-
-"Before I proposed."
-
-"That does not make the entrance honest."
-
-"No."
-
-He was so careful not to defend himself that it became its own kind of defense.
-
-She returned the annulment to the folio. "Say the rest."
-
-Renald's eyes narrowed briefly. Not suspicion; concentration. Her three words had been an order in ordinary grammar, and he was determining whether he could comply freely. She despised that the room now made a puzzle of every sentence.
-
-"At dawn," he said, "the full authority will pass to me. Afterward, I may be unable to distinguish agreement from obedience whenever I speak carelessly. The effect is strongest in formal places and upon those whose oaths bind them closely to the sovereign. That means ministers, judges, guards, and nearly every person positioned to prevent a bad decision. I wanted one person beside me whom the voice could not bend. Someone able to interrupt me at the coronation, then sit in council and tell me when certainty has outrun fact."
-
-"You wanted an alarm bell in a wedding gown."
-
-"An ally."
-
-"An alarm bell does not own the tower, so ally sounds prettier. What happens when I identify a command?"
-
-"You object. I withdraw or restate it."
-
-"What happens to the person already obeying?"
-
-"A direct withdrawal releases an active order."
-
-"Can I release it?"
-
-"No."
-
-"Can I countermand you?"
-
-"No."
-
-"Can this ring shield anyone standing behind me?"
-
-"No."
-
-She tapped the folio with one nail, counting. "Suppose you order a guard to remove a petitioner. I object. You believe the petitioner dangerous and decline to withdraw. Does my ring decide which of us is right?"
-
-"Of course not."
-
-"Suppose a minister hates my toll settlement and learns I am the one person you cannot command. Can you prevent him from ruining my agents without ordering half the palace to protect them?"
-
-"I can use written instructions. The voice does not carry through ink."
-
-"Then you could have put the truth in a letter before the wedding."
-
-"A letter can be copied. If word reached a rival claimant before the succession was secured—"
-
-"You protected the succession from paper by tying the secret to a woman instead."
-
-He did not retreat into qualifications. "Yes."
-
-"So he obeys your letter because he fears you, and you call the obedience clean."
-
-"I call it ordinary power, which is at least visible."
-
-"Visible to you."
-
-He drew back as if she had put a knife between them. Good. Knives were honest tools.
-
-She moved into the bedchamber and began taking gowns from the wardrobe. The first was crimson, its train heavy with seed pearls. A paper tag assigned it to the coronation. She folded it badly and set it in the open traveling case.
-
-Renald followed only as far as the doorway. "The council believes the voice is ceremonial language for royal authority. My father stopped giving audiences as it strengthened. I have told two physicians and the keeper of seals. Neither can oppose a direct command from me once I am crowned."
-
-"Then you have a dangerous secret. Marrying me gave you a person who can keep it."
-
-"It gave me a person capable of refusing to keep it."
-
-"After you chose the person, the price, and the hour at which refusal becomes scandal."
-
-"That is why the annulment is signed."
-
-Vaela dropped a silver overskirt into the case. "Paper makes leaving possible. It does not make leaving free. If I file tomorrow, I become the grasping baroness who traded a night in the royal bed for five roads. If I remain, every command you give becomes a failure of my vigilance. You will stand in one chamber and make obedience sound like devotion. I will be expected to hear the difference from three corridors away."
-
-"I would not expect—"
-
-"You have already labeled my baggage."
-
-He looked at the case. Whatever answer he had prepared did not survive it.
-
-A rapid knock broke the silence.
-
-Renald went still. "The vigil was not to send again unless the king's condition changed."
-
-The knock came a second time, weaker. Vaela crossed the receiving room and opened the door.
-
-A young page stood in the antechamber, gray-faced with exhaustion. Both hands supported a cedar dispatch board. On it lay a folded summons, a seal press, and a little brass cup of wax kept liquid over a spirit flame so Renald could close his reply without waiting for a clerk. The flame leaned as the page bowed.
-
-"From the keeper of seals, Highness. The physicians believe—"
-
-Renald took one sharp step forward. "Wait there."
-
-The page stopped.
-
-Not respectfully. Not with the tiny corrections by which a body kept itself balanced. His forward foot stayed half raised, his elbows locked, his eyes fixed on nothing. The board tilted in his rigid hands. Red wax climbed the lip of the brass cup.
-
-Renald's face emptied.
-
-"The order to wait is withdrawn," he said. "You are free to move."
-
-The page gasped, but terror had stiffened him almost as effectively as magic. His raised foot struck the floor. The board lurched. Vaela caught its lower edge before the spirit lamp rolled. The sliding brass cup struck her palm, hot enough to sear; Renald seized the handle, but a tongue of wax spilled across the page's knuckle.
-
-He cried out then, once.
-
-Vaela pinched the flame dead with the cap chained to the lamp. "Cold water is in the washroom," she told him. She kept the words level, not because her voice held power but because his fear now made any voice dangerous. "It will ease the wax. You may leave the summons here."
-
-The page looked to Renald.
-
-Renald set the brass cup on the floor. A drop of wax clung to his cuff like fresh blood. "I am sorry," he said. No title, no royal plural. "There will be no penalty for going."
-
-The boy's eyes filled, whether from pain or relief Vaela could not tell. He hurried toward the washroom, holding his hand away from his coat.
-
-Renald remained crouched beside the extinguished lamp. "I did not intend—"
-
-"He knows that. It did not save his hand."
-
-"The pre-echo has never held anyone so completely."
-
-"It did tonight."
-
-The summons waited on the board, its fold stamped but unsealed. Renald did not touch it.
-
-When the page returned, his knuckle was pink and shining, without a blister yet. Vaela wrapped it in a damp cloth herself. Renald asked whether the boy wanted a physician, asked whether someone could accompany him, asked which corridor he preferred to use. Each request arrived padded in choices until it nearly collapsed under their weight. The page declined them all and left by the servants' stair.
-
-Only after the outer door shut did Renald open the summons. He read it once. "The king has lost consciousness. The coronation bells will begin before dawn."
-
-Vaela flexed her scorched palm. The hurt was shallow, clean, and entirely ordinary. "Then you need a new plan."
+"That is a schedule."
 
 "Yes."
 
-"I am not attending the coronation."
+"I asked for your plan."
 
-He stared at her. The answer struck harder because he could not doubt its source.
+He looked toward the shuttered windows, though the rain there offered no counsel. "To enter our marriage into the succession register before dawn. Your herald would place the Solvane vote outside the regency council's bloc. The general's proposed match then lacks the houses required to compel a second betrothal hearing."
 
-"If the echo is already that strong," he said slowly, "the first oaths may become obedience before the speakers ever swear them. Your ring could tell me when my voice turns."
+There it was. Not a lover's answer, but at least it belonged to the room.
+
+Tareya lifted her hand. The fox stretched over the tendons. "What happens to this?"
+
+"The stronger filing registers it beneath the royal crown."
+
+"Beneath."
+
+"In sequence, not in rank. The law calls the relation supportive."
+
+"My stewards call a road supportive when it remains under the cart. Who holds the road?"
+
+Osvan's mouth tightened. He had been fluent at the wedding table. He had numbered the council houses, the salt levies, and the years since a Solvane had entered Lumespire without having to check a single note. Now he glanced down at the articles as though an answer might have crawled under them.
+
+"The crown household would gain authority to countersign appointments in the March," he said.
+
+"Which appointments?"
+
+"Judges. Road wardens. Customs masters."
+
+"Who releases the storm reserve?"
+
+"The crown treasury, after review."
+
+"Who decides whether a washed bridge is urgent?"
+
+"The emergency comptroller."
+
+"In Lumespire."
+
+"Yes."
+
+Tareya slid the papers apart with one finger. The seventh sheet bore an embossed crown so faint it vanished unless she angled it toward the lantern. Her copy from the betrothal negotiations had contained six sheets.
+
+"You promised protection without absorption."
+
+"I prepared both forms."
+
+"You gave me one."
+
+His eyes closed for less than a breath. "I expected to explain the seventh after the ceremony."
+
+"When removal of the ring would be called a public humiliation instead of a private refusal."
+
+"The law calls it no-fault dissolution until dawn."
+
+"People have mouths even where law has definitions."
+
+A soft knock interrupted him before he could make a count out of that too.
+
+"Enter," Tareya said.
+
+Her attendant edged through the door sideways with a tray held above a stack of oilskin. Her gray hair had escaped its pins, and the cuffs of her blue gown were wet to the elbows.
+
+"The west gutter has backed into the lower wardrobe," she said. "Your other boots are on the hearth. These are still dry."
+
+She set down the boots, a folded rain mantle, and two thick slices of bread covered by a bowl to keep them warm. Only then did she glance at the lights on the coverlet.
+
+"Bridge keeper says the upper walk is open," she added. "For now."
+
+"Thank you." Tareya touched the bread. Still warm. "Have you heard from Solvane?"
+
+The attendant produced a weather slip from inside her sleeve. The relay ink had bled at one corner. "Northern farm culvert gone. East post road passable to single carts. No deaths reported by the ninth bell."
+
+Osvan rose. "The crown engineers can leave by noon."
+
+The attendant looked to Tareya, not him.
+
+"Set my bridge clothes out," Tareya said. "And eat something yourself."
+
+"Already stole the prince's sugared pear."
+
+For the first time that night, Osvan appeared unsure whether he had been insulted. The attendant shut the door on his uncertainty.
+
+Tareya broke the bread in half and gave him one piece. "Engineers by noon. On whose order?"
+
+"Mine."
+
+"Tonight you have the authority?"
+
+He did not take the bread. "I can issue a provisional dispatch. It lasts two days unless the regency countersigns."
+
+"And after we file the strong form?"
+
+"The dispatch can be charged against the March reserve without the regency."
+
+"My reserve."
+
+"Yes."
+
+"So your protection is permission to spend my own storm money, once your comptroller agrees that my bridge is wet enough."
+
+"It also opens crown crews, stone allotments, draft teams, and military roads."
+
+"Which I need." She pushed the bread into his hand. "Say all of it."
+
+Osvan stood with the heel of the loaf against his palm and rain shadowing his collar. "I need eight heralds to hold my claim through the king's incapacity. I have seven. The council has offered me an eighth through the general's daughter, with command of the palace guard attached to her house. If I refuse without another registered marriage, they can call a fitness hearing. If I accept, they gain the guard, the household appointments, and two of the three regency seals."
+
+"And you chose the March because our herald is independent."
+
+"Because your vote has never sat in a council bloc. Because you asked for roads, not ministries. Because your barony needs aid that the treasury can lawfully provide." He paused. "And because you were unlikely to ask me to love you."
+
+That last sentence came out without the polish of the first three. It was not quite cruel. That made it worse.
+
+Tareya folded the weather slip along its old crease. "You found a woman in need of stone and assumed she would be grateful for neglect."
+
+"I thought separate households would be a courtesy."
+
+"Did you ask where I wanted to live?"
 
 "No."
 
-The ring stayed cool. It did not need to protect her from a man who had finally made a request instead of arranging an outcome.
+"Whether I wanted children?"
 
-Renald turned toward the dark window. In its glass, his ivory coat floated without a face. "The keeper will put you at my right hand. An empty place will invite questions before I can answer them without making the answers compulsory."
+He tried to answer, stopped, and pressed the bread between both hands.
 
-"That is a cost. It belongs to your plan, not to my refusal."
+"Whether I wanted you at breakfast?"
 
-"It may weaken the succession."
+"No."
 
-"Then be weakened. Better that than using me as evidence that everyone else is safe."
+The tower bell sounded again. This time three notes followed the quarter strike: bridge warning, bridge warning, north relay advanced. The fox and crown broke apart on the coverlet, then re-formed with only two pale bars between them.
 
-He looked back at her, anger at last breaking through the clauses. "You think I want safety performed? I want one answer I can believe. By noon, every person near me may smile because I have made displeasure impossible."
+Another knock came, firmer than the attendant's. The royal chamberlain opened the door precisely far enough to show his narrow face.
 
-"Then stop asking your wife to certify their smiles." Vaela held up her ringed hand. "This tells you when I obey freely. Only me. You were afraid of being alone inside your power, so you designed a second person to live there with you. I will not."
+"Highness. Baroness. The north clerk has advanced the succession count due to lightning over the lower relay. The rooftop room must close in forty-two minutes. Gloves are required on the upper walk."
 
-For several breaths he said nothing. Anger left him first. The fear remained.
+"Send the clerk the strong articles," Osvan said. "Tell him we are coming."
 
-"Will you file the annulment?" he asked.
+Tareya lifted the seventh sheet. "Send nothing."
 
-"Not before the bells."
+The chamberlain's gaze moved once between them. Protocol seemed to resist in every bone of him, but he bowed. "Nothing will be sent. I will have the roof lenses uncovered."
 
-Hope rose in his expression, swift and unguarded. She disliked having to remove it, but left whole it would become another furnished room.
+"And the parallel form," Tareya said. "Bring it."
 
-"That is not forgiveness," she said. "And it is not agreement. Here is what happens. My gowns go back into their cases. My desk is moved out of the royal wing, untouched. My name comes off the coronation order. You walk into that hall without an immune wife beside you, and you explain my absence however you can bear to explain it."
+Osvan looked at her.
 
-"And after?"
+The chamberlain did not. "It is in the prince's black dispatch case."
 
-Vaela returned to the folio and took out the annulment. "I keep this. I remain your wife through tomorrow's first council, long enough to see what you do when my refusal is inconvenient rather than useful. I choose whether I enter the chamber at all. If you present my ring as proof of your restraint, if you threaten the toll decree, or if one royal porter prevents my baggage from leaving, I file."
+"Then bring the case."
 
-"The toll decree cannot be recalled."
+When the door closed, Tareya put on the dry boots. She did not ask why the weaker form had been kept outside the chamber. She had begun the night with broad questions and received broad answers. The rain had narrowed both.
 
-"I know. That is why it was a fair price and not a leash."
+"What does parallel cost you?" she asked.
 
-He absorbed the distinction without bowing to it. "And when the first council adjourns?"
+"Two votes at the accession hearing instead of one unified household vote. The opposition may challenge the separation. There are eleven plausible procedural outcomes, four of which end with the council suspending recognition until the king wakes or dies."
 
-"I decide whether you get another day."
+"What does it cost the March?"
 
-His mouth almost moved toward a smile. Almost. He had enough sense to let it die.
+"Crown relief cannot be released through spousal authority. It requires a separate compact."
 
-"Those terms leave me no assurance," he said.
+"Can we sign one tonight?"
 
-"Now you understand marriage as you offered it."
+"We would need a relief ledger, two witnesses, the emergency seal—"
 
-The first bell sounded while Renald changed coats. It was not yet the coronation peal, only the low summons that called officers from their beds and sent lamps blooming window by window around the inner court. He chose black, with no ivory except at the throat. Vaela sat at the second desk and cut the route labels from her baggage with the unfamiliar penknife.
+"Can we?"
 
-At the outer door he paused. Once crowned, any imperative he spoke might close around a listener before either of them recognized it. Every farewell available to him seemed to contain a direction: wait, rest, wish me well.
+He stared at the fox circling her hand. "Yes."
 
-In the end he said, "The west guest rooms remain unassigned."
+"Then carry the ink."
 
-"One night," Vaela said. "Have someone bring the page's name and the physician's account to my desk. In writing."
+She took the articles and left the marriage chamber.
 
-Renald inclined his head. He did not thank her for staying, and she did not wish him courage. He went out alone.
+The lantern bridge ran from the royal apartments to the central spire, a glass-roofed walk suspended above three interior courts. Tonight its roof had been cranked open so the storm would not tear the panes from their lead. Rain came sideways through the ribs. Lines of herald light traveled under the floor, civil records relayed from tower to tower: green oxen for freight permits, silver moths for birth notices, blue dogs for watch rotations. Each pattern crossed beneath Tareya's boots along the route its lenses provided.
 
-Vaela listened until his steps vanished beneath the bells. Then she drew the toll decree from the folio, made one copy, and sealed it with her own green wax. The original went to a courier with orders for the northern road. The annulment stayed under her hand.
+Her attendant waited at the threshold with waxed gloves and the rain mantle. She fastened the throat clasp, then tugged it once.
 
-In the bedchamber, the crimson train still spilled from the half-packed case. On the card table, the seating order placed her name in gold beside Renald's. Vaela took up the penknife again. The first stroke split the gold V.
+"Too tight?"
+
+"No."
+
+"You'll say if it is."
+
+"I will."
+
+The attendant handed the second pair of gloves to Osvan. "Those buckle at the wrist. Not the elbow, Highness."
+
+He adjusted them without protest. The chamberlain arrived carrying the black dispatch case against his chest. A young lamp tender followed with a hooked pole and a sack of dry crystal wicks.
+
+"Mind the third grate," the tender said. "It jumps."
+
+Then they were moving.
+
+On the bridge, their bodies took over from the articles. Wind shoved at Tareya's right shoulder. Water ran from the lip of her hood and down the front of her mantle. Osvan took the outside rail, not gallantly but because he was taller and could brace the dispatch case when the chamberlain passed it forward. At the third grate, the floor kicked beneath their feet. Tareya caught the articles against her ribs. Osvan caught the chamberlain by the sleeve.
+
+"Still forty-two minutes?" she called.
+
+"Thirty-four," the chamberlain called back.
+
+"That isn't how minutes work," the attendant muttered.
+
+"We spent eight of them."
+
+They reached the middle landing, where the storm had blown out two relay lamps. The tender knelt immediately, opened the brass housing, and began changing a wet wick. Red Solvane light came along the floor from the west tower, struck the dead section, and vanished.
+
+Tareya stopped.
+
+Osvan had gone three paces before he noticed. "What is it?"
+
+She pointed at the blank glass. "A record can fail between here and there."
+
+"Yes. The registry repeats a signal through two alternate towers."
+
+"And if both fail?"
+
+"The clerk reads the signed vellum."
+
+"So the light is evidence of placement. Not the placement itself."
+
+"Correct."
+
+"And no light means nothing except that no light arrived."
+
+"Correct."
+
+The answer came easily because this was machinery, not marriage. Osvan could stand in a storm and explain three routes for a signal. Ask him where his wife should eat breakfast and the prince of Avarnth lost his language.
+
+The tender seated the new wick. The red fox leaped across the repaired pane.
+
+Tareya started walking again. "How many rooms did you set aside for me?"
+
+Osvan nearly missed the next grate. "Six."
+
+"Where?"
+
+"The east apartments."
+
+"How many doors from your council room?"
+
+"I don't know."
+
+"Find out tomorrow."
+
+"If there is a tomorrow in this arrangement."
+
+"Tomorrow comes whether we file or not. I need to know who chooses the keys."
+
+He gave a short, unhappy breath. Not laughter, though it had passed near it.
+
+At the spire entrance, the chamberlain and the tender hauled the black case through first. Osvan held the rain mantle clear of the latch while Tareya ducked inside. It was the smallest courtesy he had offered without prearranging it. She noticed and did not reward him for it.
+
+The rooftop succession room was not grand. Its copper shutters stood folded against the round walls, leaving the lens array open to the weather. Six brass arms surrounded a slate table. Each ended in a shallow signet cup. Overhead, mirrors caught signals from the palace towers and cast them onto the floor in shifting columns. Animal heralds moved through one another without touching: a boar crossing a heron, a stag passing through a school of gold fish. At the center waited an unlit crown.
+
+The chamberlain put the black case on the table. "Twenty-three minutes."
+
+The lamp tender wedged canvas over the western lens. Tareya's attendant used a clean cloth to blot rain from the articles, muttering at every warped edge.
+
+Osvan unlocked the case. Inside lay two forms and the royal emergency seal.
+
+"Show me," Tareya said.
+
+He placed the strong form under the reading lens. Then he fitted his signet into the northern cup and nodded toward her hand.
+
+"No." She kept her ring. "Use the demonstration blanks."
+
+He took two pieces of cut glass from the case and set them into the cups. The array read their positions. White light gathered into a crowned hawk, Osvan's house herald, and red shaped itself into Tareya's fox. Under the strong form's arrangement, the fox passed beneath the hawk's wings. Its three hill stars rose into the crown and disappeared.
+
+"Appointments?" she asked.
+
+"Countersigned."
+
+"Reserve?"
+
+"Crown review."
+
+"Customs?"
+
+"Household authority after accession."
+
+"My assent?"
+
+"Recorded with mine as a unified filing."
+
+"Legible separately?"
+
+He did not answer.
+
+Tareya removed her ring.
+
+The projected fox vanished from her hand. Across the palace, red relay light ceased in window after window as the portable signet stopped offering a current registration position. The ring went cold in her palm, ordinary gold around an engraved stone.
+
+The chamberlain's fingers twitched toward the bell cord. He did not pull it.
+
+Osvan stood on the far side of the slate table. He could have invoked the delay clause. He could have asked the chamberlain to witness confusion, illness, storm duress—eleven contingencies, perhaps more. Instead he picked up the strong form.
+
+He tore it once through the embossed crown. The rain took one half from his hand and slapped it against the copper shutter.
+
+"That copy was registered," the chamberlain said, his voice clipped thinner than before. "It will require a destruction minute."
+
+"Write one," Osvan said.
+
+"On what authority?"
+
+Osvan looked at the dead gold in Tareya's palm. "Mine. While I have it."
+
+He placed his own ring in the northern cup.
+
+The crowned hawk filled the floor alone. Without her supporting herald, its outer line flickered where the contested count remained incomplete. The device registered that Osvan Rhel had placed a signet at a particular cup at a particular time. It offered no opinion on whether he was brave, desperate, honest, or merely out of alternatives.
+
+The chamberlain pulled the bell cord once. "Sole royal placement witnessed."
+
+Osvan's fingers stayed spread on the slate. "There are four likely challenges if I file without a supporting marriage. Two can be answered by old household precedent. One delays the accession hearing. One—"
+
+"Osvan."
+
+He stopped.
+
+"Do you want me to stay married to you?"
+
+Rain ticked against the brass arms. The lamp tender went very still behind the canvas. Tareya's attendant kept blotting vellum.
+
+"Yes," Osvan said.
+
+"Why?"
+
+He looked toward the torn form, ready perhaps to retrieve policy from it. Nothing remained there but wet fibers.
+
+"I need the March," he said. "I need someone the council did not choose. I need—" His breath caught on the next count. "I would like the chance to learn which door you use. I don't know what that is worth to you."
+
+Tareya set the ring beside the parallel form. "Open the relief compact."
+
+The chamberlain did. Osvan shifted the demonstration blanks into two cups opposite each other. The fox and hawk returned on separate arcs. Their lights crossed at the center of the array, red passing through white, neither swallowed. Tareya's three stars remained visible above the Solvane line.
+
+"My title remains outside the royal household," she said.
+
+"Yes."
+
+"My appointments?"
+
+"Yours."
+
+"My customs gates?"
+
+"Yours unless Parliament levies the whole kingdom."
+
+"Relief access?"
+
+He opened the compact and began listing. "Crown engineering corps for thirty days. Up to twelve heavy draft teams. Slate from the eastern quarry allotment. Two thousand measures of grain at winter reserve price. Military road access without billet rights in Solvane villages. Review after—"
+
+"Who directs the crews inside the March?"
+
+"Your road wardens, with an engineer empowered to refuse an unsafe order."
+
+"Who pays?"
+
+"The crown pays transport and wages. Solvane pays materials at cost over three years. If I fail the accession hearing, the debt remains with the royal treasury, not my successor's right to your title."
+
+"Write that last part."
+
+He wrote it himself, his letters losing their courtly slope as the pen hurried. Tareya added culvert stone, bridge chain, and seed grain to the list. She struck military carts from village greens and gave them the abandoned wool yard instead. Osvan objected to five years of toll exemption; she reduced it to two and required crown wagons to carry March salt on the return journey. Neither called the compromise generous.
+
+The chamberlain supplied dates. Tareya's attendant sanded wet ink. The lamp tender announced, "South mirror slipping," and climbed a short ladder to tighten its clamp while the hawk and fox bent across the floor.
+
+"Seven minutes," the chamberlain said.
+
+Tareya read the compact from the first word to the last. Osvan began to speak twice and stopped both times. At the debt clause, she changed *may not attach* to *does not attach*. At the household clause, she added that residence at Lumespire created no transfer of jurisdiction.
+
+"One question," she said.
+
+Osvan's face had gone pale beneath the rain. "Yes."
+
+"If I keep rooms in the east apartments, who chooses my keys?"
+
+His answer took longer than any law should have required. "You do."
+
+"Put it in the household minutes. Not the marriage compact."
+
+The chamberlain made the note.
+
+Osvan signed the relief terms and pressed the emergency seal beside his name. Then he put the pen down and stepped away from the array, leaving the second cup empty.
+
+No one urged her.
+
+Tareya thought of the northern farm culvert, gone into black water. She thought of single carts feeling for the east road, of six rooms chosen without her, of the fox erased beneath white wings. She thought, too, of the strong form tearing in Osvan's hands before he knew whether she would offer him anything in its place.
+
+She slid her ring onto her finger. Red light returned, first against her skin and then along the distant towers.
+
+She did not place it beside his. She set it into the western cup assigned by the parallel form.
+
+The fox ran out across Lumespire. The hawk held its separate height. Their paths crossed above the central slate, and the relay carried both patterns into the rain.
+
+The chamberlain pulled the bell cord twice. "Separate placements witnessed. Parallel household registered."
+
+The final pale bar under the crown went dark.
+
+Tareya removed her ring from the cup and put it back on. Nothing tightened around her finger. No warmth entered her blood. The array had done its work and no more.
+
+"Two ledgers," she told the chamberlain. "The palace copy of Solvane storm roads for the last five years, and the crown corps dispatch ledger. Send them to the east apartments."
+
+"Before breakfast?"
+
+"Before breakfast."
+
+Her attendant gathered the signed compact into oilskin. "Which room in the east apartments?"
+
+Osvan looked at Tareya.
+
+Below them, relay shutters opened one by one, passing a red fox and a white hawk toward opposite edges of the city.
+
+"The one with the largest table," Tareya said. "We have roads to mark."

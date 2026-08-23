@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Vaela | new | Newly married baroness and focal character; no exact or alias reuse found. The legacy `Vale` surnames and current `Tressa Vahl` remain distinct in spelling, sound, and role. |
-| Renald | new | Crown prince and Vaela's husband; no exact or alias reuse found. `Jasper Renlow`, `Rennic`, and `Lornivar Renscott` remain readily distinct close forms. |
+| Tareya Solvane | new | No exact, alias, close-spelling, or confusing reuse found; the territorial surname and Solvane place name are an intentional same-story relationship. |
+| Osvan Rhel | new | No exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The bridal apartments, royal wing, palace, north gate, northern road, kingdom, and barony remain unnamed. |
+| Avarnth | new | No exact, alias, close-spelling, or confusing reuse found; this local kingdom is distinct from established monarchies and eras. |
+| Lumespire | new | No exact, alias, close-spelling, or confusing reuse found; the royal palace and its relay infrastructure remain local to Avarnth. |
+| Solvane | new | Story-facing territorial name for Tareya's March; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -28,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: none
+- Notes: The exact quoted setup, Baroness and Crown Prince roles, separate signet placements, freely chosen parallel marriage, and separately negotiated relief compact fulfill the amended prompt while leaving the throne and romance open. The four-bar countdown, bell advances, bridge transit, registry evidence, weather interruption, and final filing remain causally coherent; the nonliving herald lights record placement without reading intent, compelling consent, or sharing a mechanism with canonical crown, oath-seal, or Ersene systems. Tareya's land-and-access questions, Osvan's count-and-procedure fluency and personal faltering, the chamberlain's protocol, and the staff's ordinary work talk remain distinct through the decisive rooftop bargain and restrained final exchange.
