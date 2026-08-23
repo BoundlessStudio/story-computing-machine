@@ -8,304 +8,462 @@ canon: false
 
 # The Counted Road
 
-My father died with all seven of his sons touching his bed.
+By the time the excavator reached the front step, Elsidra had painted two hundred metres of temporary centerline past the Talwin house and answered the same question about rain four times.
 
-That was not tenderness. Merrick Farrow had sent for us three days before, when the rattle began low in his chest, and Bareth had gone from house to house until every brother stood under the old roof. Father would not let any of us sleep in the barn. He wanted us close enough to count.
+“Forty minutes,” she told the flagger through the open cab window. “If it starts before that, we close the lane and do it again.”
 
-The Farrows had always counted sons.
+Across the cones, the excavator bucket lifted the old stone threshold. A demolition worker crouched in the cavity it left and pulled out something black and narrow.
 
-Merrick had been the seventh born in an unbroken run, with all six elder boys alive to see him come. Then he married our mother and did the same thing again. No daughter broke our line. No small grave interrupted it. Bareth first, then five more, then me. Mother told me once that, after Hesk, she had called six enough. Father had answered that six was a door left open.
+Vaudessa Talwin moved faster than Elsidra had seen her move all day. She ducked under the tape before the worker had straightened.
 
-Nobody knew what stood beyond the door. We only knew there was a curse, and that a seventh son of a seventh son must keep his place.
+“Put that back.”
 
-My place, while Father died, was at the foot of the bed.
+The worker held up an iron spike as long as his forearm. Its square head had been hammered almost flat. Hooked grooves wound down its shaft, packed with pale mortar.
 
-His last breath slipped out shortly before dawn. For a little while nothing followed. Wind worried the thatch. A coal settled in the hearth. Hesk put two fingers to Father's throat and shook his head.
+“Can’t,” he said. “Step’s coming out.”
 
-Then Bareth fell against the bedpost.
+“Then don’t take the step.”
 
-I thought grief had struck him until a spike of pain drove through my own right knee. Bone ground where bone had no reason to grind. My leg folded. I caught the footboard with my left hand, and that hand clenched so hard I could not open it.
+He looked toward Elsidra, because Elsidra wore reflective orange and therefore appeared to be in charge of every machine on the street.
 
-Across the bed, our second brother stared at his right hand. Three fingers that had curled toward his palm since a lime-kiln burn were rising, slowly, cleanly, as if invisible strings drew them straight.
+She shut off the spray bar. “It’s Vaudessa’s property until handover. Bag it for her.”
 
-“Ruen,” Hesk said.
+“It was under the threshold,” Vaudessa said. She did not take her eyes off the spike. “That isn’t the same as being in the house.”
 
-I could hear him on one side only. In my left ear, the room had filled with the dull roar of deep water. Our fourth brother turned toward the scrape of a mouse behind the flour chest. He had been deaf on that side since a winter fever at twelve. His face changed as he followed the tiny sound.
+“Do you want it or not?”
 
-Heat flooded me. My shirt stuck to my spine, though ice filmed the water jug. The third brother pressed both hands to his cheeks. He had woken every ninth or tenth morning shaking with marsh ague since his soldiering years. Now his skin was cool.
+Vaudessa took it in both hands. The grooves left four white hooks across her palms.
 
-The room tipped. A milk-white blur spread across my right eye. Our fifth brother covered his left eye, then uncovered it, laughing once in disbelief at the sharp edges of the rush basket by the wall. A thorn had clouded that eye the summer I was born.
+Caelumar came out carrying the second battery for his delivery bike and a paper sack of screws he had promised to save for Rovandis. He was the last of them still using the old house as if it might ask for one more favor. He checked the upstairs windows, pushed the gate until its loose latch caught, and swung onto the bike.
 
-Last came a wrench beneath my shoulder blade. My right arm sagged. Hesk's arm, weakened by a fall from the hayloft, lifted above his head for the first time in twenty years.
+“You’ve got your rear light?” Elsidra called.
 
-Six old harms had left six bodies and found mine.
+He tapped the brake lever. Red flashed against the wet-looking new line.
 
-Bareth tested his leg. He bent the knee that a cart wheel had crushed, put his full weight on it, and straightened. He was the eldest and the heaviest of us. I had never seen him stand without favoring one side.
+“And your charger?” Rovandis asked from beside his parcel van.
 
-“Six rise,” our fourth brother whispered.
+“That’s what the battery is.”
 
-The words belonged to a counting rhyme we had used with pebbles as children. We had forgotten most of it because Father slapped the rhyme out of our mouths whenever he heard it.
+“The charger charges the battery.”
 
-Hesk looked at me on the floor. “Seventh bears.”
+“It’s in my bag.” Caelumar pushed off. “Both of you can stop inventorying me.”
 
-No one laughed at the old words now.
+He rode between the cones, raised one hand to Vaudessa, and turned downhill.
 
-They laid me on the settle while Hesk examined me. He did not call what he did healing. He compared. He worked my locked fingers and asked the second brother where the burn pulled worst. He covered one of my ears, then the other, while the fourth clicked his tongue beside my head. He watched the fever bead on my chest. When he pressed the notch beneath my shoulder, both he and I knew the place.
+Vaudessa watched the empty bend. Her thumb traveled from hook to hook on the spike.
 
-“It's ours,” the third brother said. He had stripped to his undershirt in the cold room, astonished not to be shivering. “Each bit.”
+“One,” she said.
 
-“That tells us where it came from,” Hesk said. “Not what happens next.”
+Elsidra opened the paint valves again. “One what?”
 
-Bareth was walking the length of the room, heel to toe. At the far wall he turned without the stiff three-step swing that had shaped his whole adult life. Four children waited for him in a house with a leaking west roof and winter two months away. I knew what every easy step meant to him.
+Vaudessa wrapped the spike in her cardigan. “Last out.”
 
-I also knew what my father had meant by a door left open.
+The flagger called that the first drops had started. They had not, but the western cloud had gone the color of dirty steel, and Elsidra had forty minutes of work left.
 
-“Put him in the ground,” Bareth said.
+She put the rig in gear.
 
-Hesk looked up. “Ruen or Father?”
+* * *
 
-Bareth stopped walking. “Don't be foul.”
+At the roundabout, the paint display showed 8.0 liters remaining.
 
-“Then name who you mean.”
+Elsidra knew that was wrong because she had filled the tank herself. She thumped the gauge housing, checked the pressure, and leaned out to inspect the line. The white stripe behind her ran clean for six metres, bent into a hooked black-edged mark, then ran straight again.
 
-The burial had to be done before sunset. That was another Farrow rule whose reason had worn away. A Farrow dead beneath his own roof went to Whinbarrow by the Counted Road: across the pasture, between seven standing stones, then up the last steep turn to the family earth. There was a lower sheep track, but no Farrow coffin used it. Father had made each of us rehearse the route when we were boys. Six carried the ash bier. The seventh walked behind with the trailing loop of its rope in his hand.
+She stopped so hard the bead dispenser clicked against its mount.
 
-Always the seventh. Always me.
+“What did you feed it?” her crew lead asked over the radio.
 
-I could barely stand, but I wanted Father out of the house. I wanted the grave shut over whatever he had done. Most of all, I wanted to prove that the road was only a road and the stones only old rock.
+“Nothing. Hold traffic.”
 
-We washed him, wrapped him in undyed wool, and tied him to the bier. The brothers moved around the work with the startled wastefulness of men who had been returned more body than they expected. Bareth crouched to knot the foot rope and rose without bracing a hand on the floor. The second brother seized a knot with all ten fingers. The fourth answered questions spoken behind him. Each small wonder made my borrowed flesh hurt more.
+Elsidra reversed along the closed lane. The mark was not a splatter or a blocked tip. It was deliberate-looking: one short downstroke and a curve biting back toward the house.
 
-Hesk packed bread, hard cheese, and a stoppered jar of fresh milk for the grave meal. He set them beneath Father's feet inside the bier ropes.
+Her phone rang. Rovandis.
 
-“Why take him the old way?” I asked.
+“Did Caelumar change his first stop?” he asked.
 
-Bareth pulled the final knot tight. “Because he asked it.”
+“Ask dispatch.”
 
-“He asked many things.”
+“Dispatch asked me. His parcel scan has no destination.”
 
-“He'll be buried a Farrow.”
+“Bad label.”
 
-“He made certain of that seven times.”
+“Three bad labels. Same route.”
 
-Bareth glanced toward our brothers. None met his eye. “We start before the sun clears the ash tree.”
+The paint display changed to 7.0. The tank gave no settling knock. Pressure stayed at one hundred eighty.
 
-It was not an answer. It moved them anyway.
+Elsidra took a photograph of the hook. When she opened the image, the road was visible, the cones were visible, and the mark sat on blank gray pavement without the roundabout behind it. She lowered the phone.
 
-The first stone stood at the pasture gate. Six brothers lifted the bier, three to each ash pole. I took the black rope loop. Father had tarred it every spring, though no one used it except for funerals. Its fibers rasped my locked palm.
+“Call him.”
 
-We crossed the first marker in birth order.
+Rovandis already had. The connection opened on chain noise and wind.
 
-Pain bit down through my knee. I stumbled, and the bier swayed. Bareth did not. He looked back at me, then faced the open pasture and lengthened his step.
+“Caelumar?” Rovandis said. “Pull over.”
 
-At the second stone the fever climbed. The third brother, walking at the middle left handle, took a long breath through his nose.
+“I am over.” Caelumar sounded irritated, then less certain. “I’m by the... the blue...”
 
-“I can smell frost,” he said.
+“Shop?”
 
-“There isn't any,” said the fifth.
+“No. Tall thing. Water in it.”
 
-“There will be tonight.” He smiled. Then he saw me wipe sweat from my mouth, and the smile went.
+Elsidra knew the tower. Caelumar had used it since he was twelve to judge the river turn.
 
-Hesk called a halt beyond the marker. He changed places with the fourth brother so he could walk nearest me. Bareth objected to stopping, though Father's body had waited three days to die.
+“Which side of the river?” she asked.
 
-“Show your hand,” Hesk said to me.
+Silence, except for the tick of his freewheel.
 
-“You saw it indoors.”
+“What river?”
 
-“Show it after every stone.”
+The line behind Elsidra's rig trembled in its wet edges. The display read 6.0.
 
-My nails had cut four crescents into my palm. Hesk looked forward to the second brother's restored grip on the pole.
+Her other phone line chimed. Vaudessa's name appeared, though Vaudessa said nothing when Elsidra answered. A sequence of vibrations traveled through the call: six blunt knocks, a pause, then six again.
 
-“Still his,” he said.
+“Your phone's against something,” Elsidra said.
 
-“Still mine,” our brother answered.
+“The spike.”
 
-“Those are the same fact for now.”
+Rovandis spoke over her. “This is a routing outage. Caelumar, give me your coordinates.”
 
-At the third stone, the cloud in my eye thickened until the whole right half of the world was wool and sunlight. The fifth brother began warning the others of rabbit holes. He had never seen them soon enough before. Once, he reached back as if to steady me; his hand stopped short of my sleeve.
+“Screen's blank.”
 
-We rested the bier on two field blocks. Hesk uncorked the milk. The stopper came free with a soft sigh, and a sour smell rose from the jar.
+“Compass heading.”
 
-“Drawn this morning,” he said.
+“I don't carry a ship, Dad.”
 
-The second brother touched the bread. “Cold as cellar stone.”
+“Your courier app has a compass.”
 
-The loaf had been warm when we packed it. Now the crust was damp and chilled. The cheese crumbled under Hesk's thumb, dry at its heart. Outside the rope, the water in his flask was cool but sweet.
+“My courier app has a white square.”
 
-Our fourth brother made the old sign against ill luck. “It's feeding him.”
+Elsidra watched the fresh hook reach for the unpainted lane as rain began ticking on the windshield.
 
-“Father never liked sour milk,” said the fifth.
+“Don't move,” she told Caelumar.
 
-That broke a laugh out of two of them. It was a frightened laugh, brief and ugly. Bareth lifted his end of the bier and made the others snatch for their handles.
+“I'm in a traffic lane.”
 
-“The light won't wait,” he said.
+“Move to safety. Then don't choose a turn.”
 
-Past the fourth stone, the road narrowed between a drainage ditch and a bank of furze. My deadened ear faced the bier, so I could not hear the brothers' warnings. My right shoulder dragged low. I watched Bareth's feet and placed mine where his had been, though his stride now carried him farther than I could reach.
+“Those are different instructions.”
 
-The rope jerked.
+“Do both.”
 
-My bad knee gave way. I pitched left, missed the packed track, and tumbled down the shallow ditch. The loop tore from my hand. For one breath I lay beyond the black line of rope with wet grass against my face.
+He breathed once into the phone. “Bike lane. Stopped. Rear light on.”
 
-The pain vanished from my knee.
+The count stayed at six.
 
-Above me the front of the bier struck earth. Bareth had collapsed. He clutched his right leg, his face gone gray with the old grinding agony. The second brother's fingers crooked around his handle. The fevered brother began to shake. Someone shouted that he could not hear.
+* * *
 
-My clouded sight cleared by a pale degree.
+They met under the fuel-station canopy three blocks from the work zone. Vaudessa arrived in Rovandis's van with the wrapped spike across her knees. Elsidra's crew waited behind the cones, the paint rig idling, until she told them to secure the roundabout and take their break.
 
-Hesk slid down the bank. His right arm hung loose again, but his left was sound enough to hook under mine. The fifth brother caught my belt. They hauled me over the verge onto the Counted Road.
+Rovandis spread his parcel scanner, two phones, and an old printed route sheet across the van's hood.
 
-All six harms struck me at once. I screamed. Up ahead, Bareth forced himself upright on a straightened knee.
+“Network's up,” he said. “Dispatch can see every driver except him.”
 
-No one moved for several moments. Father's bier lay crooked with one pole in the mud. A lark poured song into the empty sky.
+“Can they call him?” Elsidra asked.
 
-Hesk crouched at the road edge and drew a line in the wet soil with one finger. “Out, it goes back. In, it comes to Ruen.”
+“They can call. They can't place.”
 
-“Then he walks outside,” the third brother said through chattering teeth.
+Vaudessa pressed her fingertips into the cardigan. The phone beneath it gave six vibrations.
 
-“And we carry Father below,” said the fourth, too loud because his deafness had returned for those few breaths and left him uncertain of his voice.
+“Stop doing that,” Rovandis said.
 
-Bareth planted his boot across Hesk's line. “We finish what we began.”
+“I'm not.”
 
-The fifth brother stared at him. “You felt it return.”
+He pulled up a photograph. Caelumar stood beside his bike holding a birthday cake badly balanced on the parcel rack. Rovandis tapped the empty distance behind him.
 
-“I felt him fall. Those aren't the same.”
+“That was outside the old place.”
 
-“They were the same to your knee,” Hesk said.
+Elsidra saw Caelumar clearly: hair blown across one eye, knee muddy, smile impatient with the camera. Behind him was a wall with no door, no number, and no street.
 
-Bareth took hold of the fallen pole. “Lift.”
+“You know him,” Vaudessa said.
 
-The second brother obeyed first. His straight fingers closed around the wood. The fifth followed after a pause. The third kept both hands at his sides until Bareth said his name—not a plea, but the tone Father had used when counting us at table. Then he bent and took his place.
+Rovandis's look made her retreat half a step. “Of course I know him.”
 
-Hesk cleaned mud from my cheek. “Can you step off again?”
+“Say what he's carrying.”
 
-I looked at the ditch. On the road I could not trust my knee or see properly to my right. The bank might as well have been a cliff.
+“Cake. Bike lock. The ridiculous green bottle he won't throw out.”
 
-“Not without help,” I said.
+“Where?”
 
-Hesk's mouth tightened. I had hidden that truth since the house. Bareth heard it. His shoulders lowered, almost with relief.
+Rovandis enlarged the blank wall until the pixels broke apart.
 
-We went on.
+Vaudessa unwrapped the spike. “My mother counted everyone across a sill. In and out. So did hers. Four people, four taps. If someone left alone, you waited for them to answer before you shut the door.”
 
-At the fifth stone I began to understand the shape of the trap. The road did not need walls. It gave the six men strong enough to hold me in place what they had missed for years, and it gave me exactly enough of their weakness that I could not leave alone.
+“You said it was courtesy,” Elsidra said.
 
-The rhyme returned in scraps as we walked. Our fourth brother found one line. The third supplied another. They spoke them not like a song but like men testing rotten boards with their weight.
+“It was courtesy. We didn't know why.” Vaudessa touched the first hook. “There was another part. Don't lift the spike with one still out.”
 
-“Keep the rope and keep the road.”
+“And if somebody did?”
 
-“Six go light and one takes load.”
+Vaudessa's thumb stopped.
 
-The second brother muttered, “Past the last and under clay.”
+“Nobody remembered.”
 
-Nobody knew the line that followed.
+Rovandis snatched up his keys. “Caelumar is not being hunted by a nail.”
 
-Bareth did. I saw it in the way his neck stiffened.
+The scanner in his hand chirped. A saved stop vanished from the route sheet. The vibration beneath Vaudessa's palm struck five times.
 
-The sixth stone stood at the foot of Whinbarrow. Beyond it, the road bent uphill through yellow grass toward the final marker. The seventh stone waited at the crown beside the open grave. From below, it was thin and dark as a man turned sideways.
+Rovandis stared at the screen, then at the van.
 
-We set the bier down.
+“Which stop?” Elsidra asked.
 
-“What did Father tell you?” I asked Bareth.
+“I don't know.”
 
-He busied himself checking the lashings. “He told us all the route.”
+“You were looking at it.”
 
-“What did he tell you?”
+“I know.” He pressed the key fob hard enough to sound the van's horn. “Get in.”
 
-Hesk lowered his rear handle and left it on the ground. That made Bareth look up.
+They tried Rovandis's route first because he had driven it five days a week for eleven years.
 
-“Three nights ago,” Hesk said. “You sent us from the room one at a time. You stayed.”
+At the first turn, the municipal sign showed bolt holes and a clean green rectangle. Rovandis turned anyway. Two minutes later they passed the same fuel station, though neither Elsidra nor Rovandis remembered making a circle. Vaudessa's phone struck four times.
 
-Wind bent the whin above us. The open grave was close enough that I could see the pale heap of dug earth. Bareth put both hands on the pole.
+Rovandis braked beneath the canopy.
 
-“He said not to let Ruen leave his place,” he answered. “Not until the seventh stone. Not until he was lowered.”
+“Again,” he said.
 
-The fifth brother stepped back from the bier.
+“No.” Elsidra took his printed sheet. The line after DEPOT read three blank spaces and an arrow pointing nowhere. “Every old cue costs one.”
 
-“You knew,” I said.
+“You don't know that.”
 
-“I suspected.”
+“We lost the tower. Six. Lost your stop. Five. Lost this turn. Four.”
 
-“You knew enough not to tell us before we put our hands on the rope.”
+“Then I use a road I don't drive.”
 
-Bareth's gaze went to the cottages below the pasture. His own chimney stood among them. “I knew he believed it. Now we all know he was right.”
+He chose one. The van's map drew a blue line through three buildings and returned them to the same intersection.
 
-“About what happens today. Not after.”
+Vaudessa's fingers jerked. Three knocks sounded against the van door.
 
-The second brother flexed his healed hand. “Past the last and under clay,” he said. “Sounds plain.”
+Rovandis reached for the gearshift again.
 
-Hesk looked at the black rope, at Father's shrouded shape, then up the hill. “There was another verse. Mother sang it once.”
+Elsidra put her hand over it. “You don't get another guess.”
 
-“Mother sang nonsense,” Bareth said.
+His knuckles whitened beneath hers. “He's stopped in traffic with no route.”
 
-“You remember it too.”
+“And every route we already know is feeding that thing.”
 
-For the first time that day, Bareth looked ashamed. The expression did not soften him. It made him angry.
+Vaudessa tilted the spike. One groove had darkened where her pulse pressed it. “It catches when we turn toward home.”
 
-I found the next line. “Hurts to come go walking by.”
+“Which home?” Rovandis demanded.
 
-Our fourth brother continued, “Seventh sealed till bearer dies.”
+Vaudessa looked at the blank street sign. “If I knew, we wouldn't be here.”
 
-The third spoke the warning, his voice flat with recognition. “Leave the road ere stone is won.”
+Elsidra called Caelumar. Wind battered his microphone now.
 
-Hesk finished it. “Each must bear again his own.”
+“Battery?”
 
-There it was. This was no exchange of six old wounds only. Once Father lay in the barrow, every cart wheel, fever, thorn, and fall waiting for my brothers would pass them and find me. Six households would keep their workers. Six men would go light. One would take the road for all of them until it killed him.
+“Forty-three on the bike. Nineteen on the phone.”
 
-“And if he leaves now?” the fifth asked.
+“Road surface?”
 
-Hesk pointed down toward the ditch where our bodies had answered. “Each takes back his own. Merrick dies once. This road cannot begin his death again.”
+“Old asphalt. Patched edge. Trucks close. I haven't turned.”
 
-Bareth shook his head. “You don't know that.”
+“Can you see any fresh road paint?”
 
-“Neither did you when you started us.”
+“No.”
 
-The sun had crossed west of the barrow. Father's grave waited. Bareth stepped around the bier toward me.
+“Anything that wasn't there this morning?”
 
-“My roof is open,” he said. “My eldest is ten. If I spend another winter dragging that leg, the beams rot before spring.” He pointed to the second brother. “His hand earns bread. The fever takes a third of every month from that one. Hesk hasn't pitched a full load since his fall. Look at them.”
+Caelumar took time to look. “Temporary sign. Orange back facing me. New trench plates. Someone dumped a blue chair.”
 
-“I have been looking at them from inside their bodies.”
+His reporting steadied as the objects became smaller and newer. Elsidra walked around the van, checking what the rain had done to her work. At the mouth of the service lane behind the fuel station, her crew had premarked a short white dash that morning. Caelumar had never used that lane. Elsidra had not painted it until an hour ago.
 
-“Then you know what one mile of this has given back.”
+“I'm going to give you a mark,” she said. “Fresh white dash, about a hand wide. It may be nowhere near you. If you see it, flash the bike lamp twice.”
 
-He did not speak of fairness. Bareth had never bought anything with a word when he could price it in timber, days, or mouths fed. He stood close enough to lift me. With his knee restored and my shoulder hanging, he could have thrown me over the pole like another burial bundle.
+“How?” Rovandis said. “We can't tell him where.”
 
-“Father chose this,” he said.
+“We don't.” Elsidra climbed into the paint rig. “We put it where he can answer.”
 
-“Father chose another son when Mother wanted to stop.” My voice was thin from fever, but every brother heard it. “He chose my place before I had feet to stand in it. If you carry me uphill, call it your choice.”
+She extended the hand sprayer and drew one new dash across the service lane entrance. Not a road name. Not an arrow home. Just wet white paint placed after the count began.
 
-Bareth's hands opened and closed.
+For six seconds, nothing happened.
 
-The second brother took hold of the front pole. He would finish. The fifth returned to the opposite handle but did not lift. The third sat down in the road beside Father's body, shaking his head. Our fourth brother moved between Bareth and me. He said nothing; he simply planted his boots wide.
+Then Caelumar said, “White dash.”
 
-Hesk came to my left side. The arm that had failed him for twenty years was strong now. He hooked it around my back and offered me his shoulder.
+In the distance beyond the garages, a point of light blinked twice.
 
-“The turf is rough,” he said. “Put your weight here.”
+Vaudessa counted the vibrations against her palm.
 
-The lower sheep track lay twenty paces across the grass.
+Three.
 
-Bareth could have stopped us. The second brother would have helped him. Perhaps the fifth would too, if someone else moved first. Bareth looked up at the seventh stone, then down at Father's body. His new stance was square and effortless.
+Still three.
 
-He stepped aside, leaving us room.
+Elsidra started the rig. “Rovandis, get your van behind me.”
 
-Hesk and I left the Counted Road.
+“That's an alley.”
 
-At the first pace my right knee loosened. Behind us, Bareth made a harsh sound and dropped to one hand.
+“Tonight it isn't.”
 
-At the second, my locked fingers opened against Hesk's coat. The front pole slipped from our second brother's curling grip.
+* * *
 
-At the third, sweat cooled on my skin while the old ague seized its owner. Sound rushed back into my left ear. The cloud thinned from my eye, and strength returned to my shoulder as Hesk's arm weakened beneath me.
+Elsidra painted only what did not exist before she reached it.
 
-We nearly fell together. Our fourth brother caught Hesk. The fifth came after him, judging the ground once more with one clear eye and one clouded one. The third followed slowly, wrapped in the grave blanket against his returning chills.
+At each junction she laid a single dash on the safe branch and waited. Caelumar answered with two white flashes when he saw it. Rovandis followed at a distance, using one short horn blast to hold and two to advance. Caelumar answered each instruction with his brake light: steady red for holding, two taps for moving.
 
-The second brother stayed with Bareth and Father. He looked at his stiffened hand for a long while. Then he used the other to help Bareth sit.
+They built the route a piece at a time. No destination appeared on a screen. No one named a street.
 
-Nothing called us back. Wind moved through the grass, and the sour milk leaked in a white thread from the jar beneath Father's feet.
+Dispatch called Rovandis twice. The first time he said there was a family emergency. The second time he asked them to keep trucks off any closure with fresh hand marks and hung up before they could demand a permit number.
 
-We took the lower track.
+At the third junction, Vaudessa slapped the dashboard.
 
-There were no places assigned on that path. We had to work out the bier as we went. Bareth could not carry, so I took his front corner. The second brother looped the rope around his wrist where his fingers failed. When the fevered third shook hard enough to threaten the pole, we stopped until he could go on. Bareth hobbled beside us using an ash staff. The fourth watched our mouths when we called a halt. The fifth chose the firm ground. Hesk bore weight on his good shoulder and let the other hang.
+“Not left.”
 
-We reached the grave from Whinbarrow's northward slope, keeping the seventh stone uphill behind us. By then sunset had reddened the grave earth and every one of us was exhausted in his own familiar way.
+Elsidra held the rig straight. “Why?”
 
-Bareth would not look at me. I did not ask him to.
+“The third hook's pulling.”
 
-We lowered Merrick Farrow into the ground without the black rope. The first shovelful struck the wool over his chest. Then another fell, and another. Seven sons stood around the grave, but nobody gave us places, and nobody counted.
+Rovandis leaned over from the passenger seat. “Metal doesn't pull.”
+
+“Then my hand does. Straight.”
+
+Elsidra painted straight. Far ahead, the bike light answered.
+
+The count remained three.
+
+Rain silvered the lane and smeared the edges of every old marking. Elsidra kept the pressure low and the dashes short. At a fork beside a shuttered garden center, Caelumar's light appeared on the wrong branch, moving away.
+
+Rovandis laid on the horn.
+
+“One,” Elsidra snapped.
+
+He released it, waited, gave one short blast. Stop.
+
+Caelumar's brake light burned red.
+
+Vaudessa turned the spike between both palms, flinching as the hooks caught. “Back him six turns of the wheel.”
+
+“You can't feel wheel turns,” Rovandis said.
+
+“I can feel when this loosens.”
+
+Rovandis gave three clipped horn taps, the new signal they had chosen for reverse. The brake light vanished, returned, vanished again as Caelumar walked the bike backward. On the sixth pulse, Vaudessa opened her cramped hand.
+
+“There.”
+
+Elsidra painted a dash across the other branch. Caelumar saw it, turned, and answered.
+
+That should have been enough to persuade Rovandis. It wasn't enough to make him patient.
+
+When Caelumar's phone battery fell to eight percent, Rovandis pulled around the rig and accelerated toward the next junction.
+
+The road sign there said NINE-LARCH. Elsidra recognized the name, then did not. The letters seemed to drain while she looked at them, leaving a wet green board.
+
+Vaudessa's phone struck twice.
+
+Rovandis braked sideways across the lane. “I can reach him faster.”
+
+“You just spent one.” Elsidra stopped the rig nose-to-nose with his van. “Back behind the paint.”
+
+“His light is dying.”
+
+“Then listen for it.”
+
+“You can't listen to a light.”
+
+Elsidra pointed through the rain. A faint red pulse appeared beyond the bend, reflecting off the wet trunks rather than shining directly at them. Caelumar had stopped. He was waiting for the next thing they made.
+
+Rovandis reversed.
+
+This time, when Elsidra painted, he did not move until the red light tapped twice.
+
+The road narrowed between a ditch and a line of dark larches. Trucks moved on the far side of a temporary divider, spraying dirty fans over the cones. Elsidra's tank gauge still read full. The other number held at two.
+
+Then the old centerline vanished under the rain. Elsidra did not mean faded. Her headlights found only black asphalt where reflective glass had shone a breath earlier.
+
+The spike twisted in Vaudessa's hands. Her phone struck once.
+
+Ahead, Caelumar's white lamp wavered near the ditch.
+
+Rovandis's hand went to the horn. “What signal?”
+
+Elsidra looked at the road. The shoulder ended at a culvert. The traffic lane beyond the divider was no place for a bike. Her sprayer could reach the near edge, but not the far verge where Caelumar waited.
+
+“Hold,” she said.
+
+One short blast. Caelumar's brake light came on and stayed on.
+
+Vaudessa slid her thumb over the grooves. “It's tight straight ahead.”
+
+“Straight ahead in the lane or along the ditch?” Rovandis asked, but quietly now.
+
+“Give me your flashlight.”
+
+He did.
+
+Vaudessa pressed the light against the spike's head and rotated the shaft. The hooked grooves threw thin crescents across the cab. Three pointed toward the traffic lane. One lay along the ditch, ending at the concrete lip of the culvert.
+
+Elsidra climbed down with the hand sprayer. Rain rattled on her hard hat. She walked to the last cone, clipped her safety line to the rig, and stretched as far as the hose allowed. The first paint struck water and feathered away. She lowered the nozzle until it almost touched the road and drew a thick white bar from the lane edge to the culvert lip.
+
+“Advance,” she told Rovandis.
+
+Two horn blasts.
+
+No answer.
+
+“Again?” he asked.
+
+“Wait.”
+
+The display held at one, and they had no useful word for where Caelumar stood. Elsidra could see his lamp only as a weak stain through the trees. She crouched and put one glove on the fresh bar. The paint was cold and gritty with beads. New all the way across.
+
+She took the flashlight from Vaudessa and blinked it twice along the white bar.
+
+Caelumar's lamp answered once, failed, then answered again.
+
+Rovandis gave the two horns.
+
+Red brake light: two taps. Moving.
+
+Vaudessa counted the grooves under her thumb, not aloud. Elsidra kept the flashlight on the paint. Rovandis leaned on the open van door, listening between the passing trucks for the small electric whine of the bike.
+
+It came from the ditch side, stopped, then came again. A front wheel edged into the beam at the culvert. Caelumar walked behind it, soaked to the skin, one hand over the dead phone clipped to his handlebar. He did not look at the van. He looked down at the white bar.
+
+Rovandis inhaled to call him.
+
+Elsidra raised one finger.
+
+Two horn blasts.
+
+Caelumar squeezed the brake twice, released it, and pushed the bike across the fresh paint.
+
+The display on Elsidra's rig held at 1.
+
+Rovandis reached him first. He checked Caelumar's face, shoulders, hands, then the bike as if dispatch required a damage code.
+
+“Anything hurt?”
+
+“Left ankle. Not bad.” Caelumar blinked rain from his eyes. “My charger is in my bag.”
+
+Rovandis caught the back of his jacket and kept hold of it.
+
+Vaudessa stepped down from the van. The spike shook between her palms hard enough to make its hooked light jump across the road.
+
+“Elsidra.”
+
+Elsidra took the short sledge from the rig's barrier box. She set the spike across the concrete culvert lip.
+
+Vaudessa removed her hands.
+
+The metal went still.
+
+Elsidra struck once. The spike rang and jumped. Rovandis put his boot on the square head, away from the grooves.
+
+“Again.”
+
+The second strike bent it. The third split the shaft through a pale seam beneath the rust. Vaudessa's phone vibrated once, a loose mechanical buzz, and displayed three missed calls from Elsidra.
+
+Behind them, the green road sign carried its white letters again.
+
+No one read them aloud.
+
+* * *
+
+Elsidra's crew lead arrived with the closure truck and an opinion about every unauthorized dash on the route.
+
+“Rain's ruined half of them,” he said.
+
+“Good,” Elsidra told him. “Cone the culvert. We'll strip the rest in daylight.”
+
+Rovandis wrapped Caelumar's ankle. Vaudessa collected both halves of the spike in a plastic paint tray without touching the grooves. Caelumar changed his bike battery under the open rear door of the van, then tested the headlamp.
+
+“One flash,” Elsidra said. “Not two. Two means advance.”
+
+He gave her one white blink.
+
+She answered with the rig horn and went to secure the wet line before traffic opened.

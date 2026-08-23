@@ -6,18 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Ruen | new | Focal seventh son and temporary bearer of his brothers' harms; the story identifies him as a Farrow, and no exact, alias, close-spelling, or confusing reuse was found. |
-| Bareth | new | Eldest Farrow brother and principal advocate for completing the rite; no exact, alias, close-spelling, or confusing reuse was found. |
-| Hesk | new | Farrow brother who tests the transfer and helps Ruen leave the road; no exact, alias, close-spelling, or confusing reuse was found. |
-| Merrick Farrow | new | Deceased father whose death activates the curse, also called `Merrick`; no exact, alias, close-spelling, or confusing reuse was found. |
-| The Farrows | new | Story-local family collective, also expressed as `Farrow` and `Farrows`; no exact, alias, close-spelling, or confusing reuse was found. |
+| Elsidra | new | Focal line painter; no exact, alias, close-spelling, contained-form, or confusing accepted reuse was found. |
+| Vaudessa Talwin | new | Full form at first introduction; the prose later uses the short form Vaudessa. Neither form has exact or confusing accepted reuse, and Talwin remains distinct from Talvi. |
+| Rovandis | new | Parcel driver and Caelumar's father; no exact, alias, close-spelling, contained-form, or confusing accepted reuse was found. |
+| Caelumar | new | Young courier and active target; the full form is distinct from recurring Cal Mercer/Cal, and no standalone `Cael` appears in the prose. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Whinbarrow | new | Farrow burial hill reached by two distinct approaches; no exact, alias, close-spelling, or confusing reuse was found. |
-| Counted Road | new | Seven-stone funeral route that conditions and can seal the transfer; no exact, alias, close-spelling, or confusing reuse was found. |
+| NINE-LARCH | new | Exact uppercase road-sign form used in the prose; no exact, alias, close-spelling, contained-form, or confusing prior place reuse was found. |
 
 ## Continuity
 
@@ -32,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Merrick's death activates the forgotten seventh-son curse, the brothers learn its bodily-transfer and funeral-road rules through repeatable changes and the recovered rhyme, and Ruen resolves it by leaving before the seventh marker. The transfer remains a local living-bloodline mechanism; the road, stones, rope, bier, and provisions condition or reveal it without acting as autonomous users. Bareth's household calculus, Ruen's embodied refusal, and Hesk's practical testing remain distinct through the decisive exchange, while the final offered shoulder turns their disagreement into action instead of restating it.
+- Notes: Lifting the threshold spike selects the last Talwin to leave, and the falling count consistently tracks lost inherited route cues without erasing Caelumar's identity. Fresh paint and responsive light, horn, brake, and tactile signals build a route the curse has not inherited; living relatives supply the choices and responses while objects transmit or display the effect, and Caelumar actively observes, waits, reverses, answers, and crosses. Dialogue remains context-bound and speaker-specific across Elsidra's material tests and terse commands, Rovandis's procedural skepticism and paternal urgency, Vaudessa's household memory and touch-led reports, and Caelumar's impatient courier observations; pressure changes their fluency, and the final practical exchange does not explain the resolution again.
