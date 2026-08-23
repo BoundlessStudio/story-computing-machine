@@ -8,274 +8,374 @@ canon: false
 
 # When the Eagle Bowed
 
-Tirra was sorting the goat's liver from the other offal when the eagle dropped out of the late-autumn sky.
+Yavren had the mountain goat open from breastbone to pelvis when the eagle dropped into the blood-wet grass.
 
-It struck the shale one spear-length from her and folded its wings without a stumble. A full-grown bird, dark across the shoulders, pale at the crown. It watched the steam lift from the opened carcass. Tirra kept her gutting knife low and reached with her other hand for the spear planted beside her knee.
+It landed too close. A wild eagle did not give a hunter spear reach unless it meant to take her eyes. Yavren left one hand inside the carcass and closed the other around her knife. The bird's wings folded without haste. Gold irises fixed on her face. No dragging pinion, no clouded eye, no thread around either foot. Its feathers lay clean except for limestone dust along the breast.
 
-The eagle did not lunge for the meat. It lowered its head.
+Then it bowed.
 
-She checked its feet for a snare, its breast for the quick pull of sickness, the slope above for someone who might have driven it down. Nothing. The bird bowed lower, beak almost to stone, while its gold eye stayed on her.
+Not the quick head-dip of a bird gauging meat. It lowered its whole body until the hooked beak nearly touched the turf. Its wings opened a handspan and trembled there.
 
-A crack sounded behind it.
+"Wrong woman," Yavren told it.
 
-Five bronze fingers pushed through Harrowscar.
+The eagle remained bent.
 
-They opened and caught the cliff face. Broken slate poured between their joints. A second pull brought out an arm plated in metal feathers, each one dark at the root and bright along the edge. The hand had no flesh inside it. Tirra could see daylight through the wrist when it turned.
+Her right hand came out of the goat. Blood shone to her wrist. Before she knew what she meant to do, she turned that hand palm down and crooked two fingers toward the ground.
 
-Orphaned too young to inherit a family version of the old tale, Tirra knew the execution carving instead: the crowned woman kneeling, the axe overhead, an eagle cut above the empty space where her name had once been. Every hearth in Eyrpass Valley carried some worn version of the warning.
+The mountain answered.
 
-If the wild eagle bowed and queen-metal woke, the last Eagle Queen had returned. Kill her before she remembered.
+Scree jumped under her knees. Thirty paces uphill, a black point punched through the slope. Another hooked beside it, and another. They were not stones. Each flexed at its pale joint and clawed free, dragging a braid of dark filaments after it. Plates followed by the hundreds, mineral-bright backs overlapping, small as thumbnail scales at the edges and broad as shovel blades at the center. They worried limestone apart as roots worried a wall.
 
-Tirra tore her short bow and quiver from their two bloody hide bindings, looped the strips through her quiver strap, and left the spear, the rest of the hide, and the heap of offal where they lay.
+Yavren snatched up her bow. The living mass swung toward the heat of her body.
 
-The first signal mirror caught the weak sun before she had crossed the rise.
+Far down the western ridge, a horn gave three blunt notes. From the ash woods to the south came a five-note answer. Last, beyond the switchback road, a brass call climbed bright and leisurely through the valley.
 
-The watcher on the east ridge sent the old pattern—bird, woman, walking metal. A southern mirror answered with the kill order. One. A spark above the river road made two. Three came from the northern crags, four from a square of white fire far below, five and six so close together that she nearly counted them as one. Tirra reached the crest and saw the seventh flash from the western court directly beyond the pass she meant to take.
+Three answers to one buried thing.
 
-Seven kings. Seven orders, returned while she still remembered only her own life.
+The eagle launched. It did not circle Yavren. It beat upslope toward a ledge where the rock had begun to shed gray dust.
 
-Horns began below. The long calls closed roads; the short ones moved searchers onto the slopes.
+"Pelka!" Yavren shouted.
 
-Tirra ran west.
+The talonmail came faster.
 
-A skin of frozen rain lay over the heather. Her right boot cut deeper than her left because the goat hunt had opened an old blister, so she changed her stride before the first patch of snow. She crossed it twice, once toward the saddle and once backward into her own marks. On bare ground she dragged one strip of bloody hide down a southern chute, then stepped from boulder to boulder toward the west.
+* * *
 
-Two horns followed the false descent. A third cut them off.
+Pelka, Yavren's foster sister, emerged from the dwarf pines carrying six empty snares and half a grouse pie wrapped in cloth. She took in the opened goat, Yavren's bow, and the black plates flowing downhill.
 
-The third call belonged to Dajan, the royal trail warden. Tirra had never met him, but every hunter knew his correction signal. He had once found a lost salt train after three days of sleet by noticing which ravens carried barley husks.
+"Tell me that's shale."
 
-His next call held the searchers on the contour.
+"It has knees."
 
-He had read past the blood.
+"Leave the goat."
 
-Tirra climbed into a seam between two granite ribs. The western pass was three ridges away. If Dajan kept his people on the obvious shelves, she could cross the bare crown above them and reach scree before the archers formed their line.
+"Already decided."
 
-A grinding shock came through the rock into her palms.
+They ran across the slope. Pelka caught Yavren's pack strap and yanked her away from the usual descent.
 
-She looked back across the snowfield. The queen-metal suit had not turned toward the hide. It had entered the nearer ridge instead. Bronze knuckles broke through first, then a hooked helm, then one shoulder. It forced the rest of itself along the shortest line to Tirra, leaving a tunnel of crushed stone behind it.
+"West horn," she said. "Weir riders."
 
-There was nobody inside. Gray daylight showed through the slit beneath its helm and the open collar below. It did not look from trail to trail. It did not hesitate. The empty suit only came on.
+"Three notes was rockfall."
 
-Tirra scrambled out of the seam. The iron buckle at her hip gave a small, vicious hiss. Moisture vanished from the leather around it and reappeared as feather-shaped frost across the metal. White vanes sharpened outward until the buckle bit through her coat. She struck it open with the brass pommel of her knife. The brass stayed wet; the iron burned two bare fingertips numb.
+"When we were ten. They changed it after the spring flood. Three is royal danger now. Rockfall is two, wait, then one."
 
-Behind her, the armor put its forearm through the granite rib.
+Behind them, a plate reached the goat. It passed over hide and meat without pausing, but curled around the iron buckle on Yavren's abandoned game strap. The buckle dulled, softened, and disappeared beneath rasping mouth-parts. The plate's back thickened by a hair.
 
-Tirra reached the crown just as a crossbow bolt struck the shale ahead. The shot skipped left into empty air, placed to turn her rather than hit.
+"It eats iron," Pelka said.
 
-Dajan stood across a narrow draw, gray cloak wrapped close, crossbow already lowering for another wind. Two scouts climbed beneath him while four more spread toward the saddle.
+"Only what we paid for. Good."
 
-“West is closed,” he called. “Your south spoor cost us six minutes.”
+"Yav."
 
-“The low notch sheds stone after midday,” Tirra called back. “Move those two uphill.”
+They had reached a rib of bare rock when one of the small plates sprang. Yavren knocked it aside with her bow, but its inner hooks caught her bracer. Cold bit through leather.
 
-Dajan looked once, not at her but at the fractured cap above his scouts. He gave a two-note order. They changed their climb.
+The mountain vanished.
 
-His crossbow came up again.
+Her wrists lay in bronze hollows. Smoke stung her eyes. Three men stood below a scaffold: one in water-blue, one with ash painted across his mouth, one wearing gold disks sewn down his sleeves. None yet wore a crown. They wanted the living mail taken through the valley and put on soldiers. She had refused them once at the eyries and once before their gathered companies.
 
-Tirra went north because he had left her no other clean line.
+The man in blue lifted a hand.
 
-The armor came through the crown between them.
+A blade fell.
 
-Its shoulder burst a black shelf apart. Dajan dropped behind cover. Tirra leaped a cut in the rock, landed on frost, and slid toward a narrow ledge. Her bow struck stone. Iron arrowheads whitened inside the quiver, each rimmed in fine frozen barbs. She pulled one loose, lost skin from her thumb, and flung it aside.
+Yavren came back on her knees with Pelka striking the hooked plate off her arm using a fist-sized stone.
 
-Bronze fingers closed where her leg had been. The smallest one brushed the back of her wrist.
+"Look at me. Where are we?"
 
-A stair appeared in her knowing.
+"The east gallery. The postern is below the rain cistern."
 
-Not a queen. Not an axe. Eleven steep steps descending from an entrance hidden under yellow lichen; a carved eagle at the turn; its chipped left eye above a heel-latch for the lower gallery. Lamp grease hung in the air, though Tirra still smelled only snow and her own blood.
+Pelka gripped her jaw. "We're above the goat meadow. There is no gallery."
 
-The gauntlet swung back.
+Yavren smelled smoke that was not there. She knew a passage behind the western face, narrow enough for one armored bearer, descending toward a river gate. She could feel its cool draft against a dead woman's cheek.
 
-She threw herself toward the place the stair should be. Yellow lichen covered a slab at knee height. Her knife found the seam. She pried, squeezed through, and kicked the slab shut as bronze scraped over it.
+"There's a way through." She pointed toward a cracked wall of stone. "Below that spur."
 
-Darkness swallowed the mountain noise. Tirra counted down eleven steps with one hand on the wall. At the turn her thumb found the chipped eye.
+"That spur fell before we were born."
 
-A crossbow bolt touched her throat.
+Hooves struck the lower track.
 
-Dajan had taken a square-cut upper entrance from his side of the draw while Tirra worked at the hidden slab. Felt muffled its iron fittings, but frost already needled through the wrapping around the trigger.
+Pelka dropped the stone and unwound the short rope from her shoulder. "Fresh sign, then. Not memories. What crossed here today?"
 
-“Knife on the step,” he said. “Slowly. The saddle line has twelve bows. The north chute has six. This stair has me.”
+Yavren made herself look down. Wind had combed the grass southward. Goat pellets, still wet. Two scuffed crescents where a hoof had tested shale. The herd had not used the old passage. It had crossed above them, through a slanting crease hidden by juniper.
 
-Tirra felt behind her with one heel. The latch from that single impossible place-memory was below the eagle carving.
+"There." Yavren took the rope. The familiar hemp roughness steadied her fingers. "Loose ledge halfway. Step where I step."
 
-“Your scouts are still over the broken cap.”
+"Better."
 
-“They cleared it.”
+They climbed as the first arrows arrived.
 
-“The armor didn't.”
+One struck sparks from the talonmail. The colony changed direction at once. Plates reared toward the bowman below, filaments tightening between them. The next arrowhead hit the mass and came out wood-bare. Black scales surged down the shaft.
 
-Stone groaned somewhere beyond the wall. Dajan shifted the crossbow a fraction, changing the shot away from her throat and toward the center of her chest.
+The weir officer on the track swore and ordered every bow lowered.
 
-“Why this warrant?” Tirra asked. “Give me tracks, not a hearth tale.”
+"Clear the two houses under the shelf," he called. "You, huntress—stand away from it. If it follows you, take it north."
 
-“Nine family carts were still inside the southern markers when the Eagle Queen ordered both pass walls dropped. The spring dig found eight axle beds under the slide.”
+A gray-clad rider reined in beside him. Ash marked the rider's veil from lip to chin. "The warrant says kill the returned bearer and anyone who heard her named."
 
-The iron trigger whitened. Frost feathers pushed through the felt and burned Dajan's trigger finger. He shifted it to the wooden guard without lowering his aim.
+"The warrant doesn't have three farms under a moving cliff."
 
-“You saw the axles,” Tirra said.
+"It has a seal."
 
-“I measured them.”
+From the road came the snap of weighted nets opening. Men in yellow leather spread below the traverse, iron sinkers glittering around each mesh.
 
-A split opened over his shoulder. Daylight cut the stair.
+Their captain pointed at Yavren. "Alive until we peel the shell off. Hands first. The warrant gets the rest."
 
-Dajan called upward. “East exit. All of you. No return shot.”
+An opened ivory warrant tube hung at each officer's belt, its present king's seal cracked. Three kings, three versions of the same hundred-year order.
 
-The scouts moved at once. Tirra drove her heel into the carved eye.
+Pelka looked from one force to another. "They've thought about this."
 
-The hidden outer door dropped beneath her weight. Dajan loosed as she fell; his bolt tore her quiver strap instead of her body. Arrows rang down the steps. Tirra landed on an exterior gallery with only her knife and damaged bow, rolled under the low parapet, and ran.
+"For a hundred years."
 
-Dajan came after her. He had left the discharged crossbow in the stair to fit through the lower door.
+The sentence came out in a voice Yavren had never used: level, cold, accustomed to being heard across a chamber. All three detachments looked up.
 
-The armor did not use the stair. It drove through the mountain beside it.
+So did Pelka.
 
-A bronze shoulder opened the buttress above the gallery. Rock peeled from Harrowscar in slabs. Tirra reached the gallery's end and saw the west descent below her, bare of soldiers for half a mile. Beyond it, the pass narrowed into a cut she could cross before the next horn.
+Yavren crouched and studied the traverse. "Net line leaves a gap beside the split pine," she said, forcing the words through the shape of her own mouth. "No. Too obvious. They'll close it when we move. We need—"
 
-Then the first slab struck the lower slope.
+The word for the low drainage channel would not come. In its place rose *soldiers' culvert*, and with it a picture of stonework buried for a century.
 
-It split into pieces that bounded toward six winter camps tucked beneath the overhangs. Smoke rose from hide roofs. People spilled between them, small and hurried. The horns changed to the broken avalanche warning.
+"The wet cut," Pelka said. "Say the thing you can see."
 
-Tirra could reach the descent. The empty armor would take the straight route after her, through the loosened buttress and directly across the camps.
+"Wet cut. Rope around the juniper."
 
-She turned uphill.
+They descended three body lengths, swung beneath the road men's net, and landed hard in the channel. Pelka's boot slipped. Yavren caught her forearm before her knee struck stone.
 
-Dajan saw where she was going. He blew four scouts away from the chase and toward the winter slope, ordered the nearest pair to hold the high contour, then followed her alone.
+Above, the road captain shouted for the gap to close. The weir officer shouted back that iron would draw the creature across the shelf. The ash rider sent two hunters after Pelka instead.
 
-Tirra climbed across the face until her lungs tasted of iron. Twice she showed herself on open rock to draw the suit toward the empty heights. Twice it altered its line. It neither hurried nor chose; whatever the old queen had set into the metal joined Tirra's living presence to the shortest route, and the armor broke that route open.
+The talonmail reached the first raised spear.
 
-The path narrowed under the execution ledge. A high shelf curved around black stone, snow on its outer half and frost-slick shale within. Old drainage holes pocked the cliff below it. The shelf was hollow. Tirra heard the armor grinding underneath.
+It did not strike the man holding it. It folded around the head, stripped iron from ashwood, and followed the weapon's thrust toward his chest. The soldier dropped the shaft and rolled away. Plates cascaded over the place he had been, tearing a new seam in the rock.
 
-One bloody binding still hung from the cut quiver strap across her chest. She dragged it across the snow toward the outer traverse, walked backward three steps, then climbed the bare inner edge where no print would hold. Dajan reached the shelf as she flattened behind a tooth of rock.
+Yavren's left arm lifted. Her fingers shaped a cutting gesture she had made before three warlords and their banners. The living mass gathered itself.
 
-He studied the red smear. Then he looked above it.
+Below lay men who had come to kill her. Behind them lay two roofs, a hay shed, and a woman dragging a child toward the stream.
 
-“Blood went outward,” he said. “Your boots stayed high.”
+Yavren seized her own wrist and forced the arm down.
 
-A scout horn answered from the eastern shoulder. Dajan raised one hand without looking back.
+The talonmail hesitated. Then it resumed climbing toward her heat, consuming every buckle and arrowhead in its path.
 
-“Hold there,” he called. “Shelf won't carry three.”
+"What did you almost do?" Pelka asked.
 
-He stepped onto it alone, knife drawn.
+"Don't know the verb."
 
-Tirra rose behind the stone tooth and cut toward the ledge. Dajan angled across her route. He knew she could not take the outer snow without entering his reach. She knew the inner shale would roll under a hard turn.
+"Did it end with us alive?"
 
-Below them, bronze struck the hollow shelf.
+"Maybe. Not them."
 
-The first blow lifted both their feet. The second opened a seam from the cliff to the outer edge.
+"Then keep not knowing it. Up."
 
-Dajan shouted for his scouts to get back. Tirra jumped toward the ledge. The shelf folded before either reached stone.
+* * *
 
-They fell with snow and broken rock into a chamber no bigger than a herder's hut.
+They gained the narrow ground above the pines at dusk. The slope shuddered every few breaths. Dust lifted from three ledges where eagles nested; one slab had already tilted away from the mountain, leaving a wedge of dark air beneath it.
 
-Tirra struck on her side. Her damaged bow snapped beneath her. Dajan landed against an old pillar, and his knife skittered into the dark. The collapse sealed the hole above with slabs, leaving only three seams of gray light. Voices called from the far side. Dajan answered with the number of living and the direction of the void.
+The wild eagle returned with a strip of wool snagged around one talon. It dropped the wool, landed on a boulder between Yavren and the eyries, and bowed again.
 
-“Two alive,” he shouted. “Chamber below the ledge. Dig east, not down.”
+Yavren's older memory reached first: banners lowering, petitioners prostrate, the ritual submission of lesser houses.
 
-He stood carefully. Blood ran from his hairline. His right boot dragged.
+Another flash corrected it: a hen lowering itself before a broken nest ledge while a fledgling watched from the stone. The next spring, that grown bird had bowed at a new crack.
 
-Tirra pushed herself up. Her left sleeve had torn, but her arm held weight. Age-black iron rings lined one wall. A stone lip projected above them. She did not remember the room. A cold draft touched her ankle from behind the broken pillar.
+But the bird's head stayed turned toward the cracking ledge. Its beak opened with exertion. Behind it, a half-grown eaglet flattened itself into the nest.
 
-“There's an outlet low on the north side,” she said.
+Not allegiance. Not recognition of a throne.
 
-Dajan tested his leg, then retrieved his knife. “Too small. My scouts need a body-width.”
+Distress.
 
-“The armor will make one.”
+"Its nest," Yavren said. "The bow means the nest."
 
-“That leaves me less time.”
+Pelka was wrapping a strip torn from her undershirt around a slice on her calf. "Good. Ask it where to go."
 
-He crossed the chamber with the blade close to his thigh.
+"It's an eagle."
 
-Tirra backed toward the draft. “Your nearest man is ten feet east. Miss me and you'll open the roof over him.”
+"Then watch."
 
-“I won't miss at this distance.”
+The bird launched, banked past the eyries, and vanished behind a limestone fin. It returned along the same line, bowing on the boulder once more before repeating the flight.
 
-He came in low.
+Yavren followed the line with a hunter's eye. The eagle was not pointing at the nest itself. Its wings changed pitch over a hollow behind the fin, where warm air lifted feathers along its belly.
 
-The chamber denied him the reach he wanted. Tirra kicked a shard toward his bad boot and moved outside his knife hand. He checked the kick instead of stepping on it, fast enough to keep his balance. His shoulder caught her chest. They struck the wall together.
+"There's a chimney."
 
-The iron rings bloomed white.
+"Big enough?"
 
-The armor was close now. Feather frost spread across the rings and the knife blade, drawing the wet from Dajan's glove. His fingers burned open. Tirra caught his wrist, turned it against the wall, and drove the heel of her hand under his elbow. The knife fell. She could have drawn her own blade across the gap beneath his jaw. She used its flat to shove the frozen weapon into a crack beyond his reach.
+"For smoke. Maybe not us."
 
-Dajan hooked her injured sleeve and pulled. The wall behind them jumped.
+"The gray cliff has a goat crawl on the far side." Pelka tied off the bandage with her teeth. "We found droppings there last autumn. You said we'd check it when the snow went."
 
-A bronze hand entered the chamber.
+Behind them, men shouted as the three detachments fought over the last safe approach. The weir force had begun cutting harness from pack animals before driving them downslope. The road men were replacing iron weights with stones. Ash hunters moved quietly along the upper timber, not toward Yavren now but toward the shepherds evacuating below.
 
-Stone burst inward. Tirra and Dajan separated under the rain of fragments. The helm forced through next, empty eye slits turned along its fixed line. One shoulder remained buried. Its breast plates opened. The collar spread toward Tirra, close enough to enter.
+"Can you climb?" Yavren asked.
 
-Dajan reached for a fist-sized rock.
+Pelka tested her leg. "If you stop asking. What about your arm?"
 
-“If you touch it,” he said, “I have one throw before it closes around you.”
+Four black plates had fixed themselves beneath Yavren's torn bracer. They pulsed with her heartbeat. Every pulse brought another fragment: wind through a high audience slit; an eagle's feet gripping her glove; a map incised into wet clay; a tunnel called the molting cleft, prepared where old talonmail could loosen its burden without breaking the outer mountain.
 
-Tirra looked at the roof seam widening above his scouts. “Throw high. Break that, and they come down with us.”
+And beneath those fragments, waiting with terrible patience, a plan.
 
-His arm stopped. It did not lower.
+"We need the hollow," she said. "It was built for this."
 
-The collar waited open. Tirra could step between the plates and let them close over her ribs. She put only her bare hand inside.
+"Built when?"
 
-The metal took her living touch, and memory found the channels prepared for it.
+"Before they killed me."
 
-A queen's palm pressed into fresh-cut grooves while frightened metalworkers watched from the edge of lamplight. The queen had ordered them to shape a waiting pattern from her own pulse and breath, a road the same life might someday close again. The suit held only the pattern; the memory gave Tirra nothing of the century between.
+Pelka's face tightened, but she did not argue about the pronoun. She shoved the grouse pie into Yavren's pack. "Eat while we climb."
 
-Winter petitions lay unopened on a cedar table. Riders carried household heirs to the capital as pledges. Gates that had stood open at dusk were chained by midnight. The Eagle Queen had ended feuds by putting her own patrol between every neighbor and calling the quiet peace.
+"I'm not hungry."
 
-At the southern pass, iron levers trembled under the armor's gauntlets. A messenger pointed through blowing snow: rebel riders beyond the markers, family carts still within them. The queen saw bright blankets, ox horns, a child walking because a wheel had broken. She knew the rear had not cleared. Another hour might let the rebel column escape.
+"Half now or all of it goes to the crows."
 
-She ordered both slopes released.
+Yavren took a bite. It tasted of onion, cold grease, and the morning they had expected to have.
 
-The ground moved through her armored feet. One cart overturned before the dust hid it. The child's red cap stayed visible an instant longer.
+They climbed.
 
-Later came rope rough against her wrists, the execution ledge cold beneath her knees, seven young kings above. Under the ledge, the empty suit waited where she had commanded it to wait. She had arranged a return because even at the block she could imagine the valley without her only as ruin.
+* * *
 
-The axe fell.
+The goat crawl narrowed behind the limestone fin until Pelka had to turn sideways. Yavren went first, testing each hold. The eagle passed overhead twice, never landing near them. It carried the wool to the nest on its second pass and did not look back.
 
-Tirra's hand remained inside the collar. Her own life was still where she had left it: the taste of juniper tea, the blister in her right heel, the western rabbit runs, the goat offal cooling on the high face. The queen's years ended behind those things and were hers all the same.
+At the end of the crawl, a vertical cleft opened into the mountain. Its walls were scored with thousands of parallel hooks. At the bottom, scarcely visible, a pale shelf curved around a black vent.
 
-Dajan still held the rock.
+The talonmail poured around the fin.
 
-“Were the carts inside?” he asked.
+There was no more room to outrun it. Plates climbed Yavren's boots and calves. Their hooked edges did not cut at first; they fitted. Dark filaments wove behind her knees, across her hips, along her ribs. Their cold changed to feverish warmth as her body supplied what the colony lacked.
 
-“Yes.”
+Pelka struck at a plate with the wooden handle of her knife.
 
-The ceiling broke.
+"Stop," Yavren said. "It takes raised weapons as threat. Put it down."
 
-A central slab dropped, pinning Tirra's coat to the floor and catching Dajan across the shin. The eastern seam collapsed toward his scouts. He flung the rock under it, buying no more than a breath.
+"It's closing over your neck."
 
-Inside the collar, Tirra felt the fixed paths of the suit: close, lift, turn, brace, still. No thought met hers. No metal will offered service. Her living hand completed motions laid down a century before.
+"Rope me. Under the arms."
 
-The breast plates waited to close.
+"Yavren—"
 
-Tirra stayed outside them. She hooked two fingers under the lowest ridge and drove her thumb across the brace path.
+"Pelka. Rope. Then lower me to the shelf."
 
-The half-buried armor turned away from her. Its free foot stamped beside the pillar. Both arms rose under the falling slab, elbows locking as the roof came down. Bronze shrieked. The suit bowed beneath the weight and held it.
+Pelka laid the knife flat. Her first pass with the rope missed the buckle. The second went through. She dragged it beneath the advancing plates and cinched it twice.
 
-Tirra cut through her trapped coat and crawled free. Dajan's leg lay under the pillar base. She wedged the longer half of her broken bow into the gap and leaned until the wood cracked. Dajan pulled his boot clear. Together they rolled behind the armored leg as another sheet of stone spilled over its back.
+When the talonmail closed over Yavren's skull, memory ceased arriving in pieces.
 
-The drain behind the pillar stood open now, black water worn through old mortar. Tirra remembered its built course: blood and rain had once washed north from the execution ledge, through two forks, to a grate below the mirror ridge.
+She stood again in the cleft, a century younger and no younger at all, wearing the colony after its last clean molt. Below, three warlords waited with armies and bright new theories of peace. Give them a cohort of talonmail bearers, they had said, and the valley would never know invasion. They had already chosen whose valleys to invade.
 
-The armor's knees shifted.
+The Eagle Queen was no blood sovereign. She settled grazing limits beneath the eyries, carried the living colony between molts, and made enemies wait where eagles could see them. She refused the warlords. When they bound her on the scaffold, she left a final movement impressed in the colony: wake when I return, open the old fault, travel beneath their keeps, and bring the mountain down through all three crowns.
 
-She put her hand into the collar once more. Her fingertips found the locking sequence—hip, spine, shoulders, wrists—and pressed it through before the suit could resume its route toward her. Then she withdrew.
+It was not a command waiting in dead metal. It was an intention remembered by living bodies that had once lain against hers.
 
-The armor stopped half out of the mountain, back bent under Harrowscar, one buried shoulder wedged in the wall while grit ticked from its plates. Frost continued to edge the nearby rings. It was neither buried nor safe. It simply held the last command.
+Now it lay against Yavren, intimate as rage.
 
-Dajan sat with his back to the pillar and tested his ankle. Then he took the horn from beneath his cloak.
+The plates had not put a dead stranger inside her. Their impressions had struck against a life already hers and opened it. The scaffold belonged to her. So did Yavren's childhood in the foster house, and every hungry winter Pelka had shared with her afterward.
 
-“The warrant stands,” he said. “The north mouth is below our second mirror. One call closes it.”
+She saw the route. Three deep roots of limestone. Three towns full of people who had never watched the blade fall. The old Queen had known there would be towns. She had planned the fall anyway.
 
-“Your horn points into rock.”
+The colony tightened. Yavren's right hand had risen into the first familiar sign.
 
-Tirra entered the drain while he dragged himself toward the eastern seam. Behind her, he found an angle and blew three hard notes. His scouts answered. A second horn, higher on the north face, took up the living-quarry call.
+"No," she said, but the talonmail did not follow speech.
 
-The Eagle Queen's memory gave Tirra the old drain: right at the worn channel, left where the wall bore chisel marks, upward to the iron grate. Tirra heard boots gathering beyond that grate. The wind came cold against her cheek from a split no builder had cut, low and narrow under the second fork. Horn echoes reached it late and thin. She put the remembered route behind her and followed the moving air.
+Pelka's voice came from beyond the black face-plates. "Your feet are off the edge."
 
-The crack scraped skin from her knuckles and dropped her onto the high face near dusk. Copper light lay along the peaks. Below, the winter camps emptied toward safer ground. The slide had stopped above their first roofs.
+Yavren could not find the word *rope*. Her chest would not fill. The Queen's hand wanted the second sign.
 
-At her morning kill, the wild eagle stood ankle-deep in goat offal. It tore once at the liver and mantled when Tirra approached. Its beak clicked. Its head stayed high.
+"The hemp," she managed.
 
-Tirra recovered her spear without coming within the bird's reach.
+"Tight."
 
-Dajan's pursuit call sounded from the execution face behind her, then two answers spread west and north.
+"No. In my ribs."
 
-The queen remembered a stone road under the northern snow. Tirra watched blown grit skip across the shale and saw where the evening wind had scoured a different line clean.
+Pelka fed slack. "Breathe first. One. Now again."
 
-She ran that way.
+The colony knew the Queen's old movement. Pelka knew the catch in Yavren's breath after a steep ascent, the way she needed the second breath longer than the first.
+
+"Your name," Pelka said.
+
+The Queen had possessed five formal styles. None came.
+
+"Yavren."
+
+"Mine?"
+
+"Pelka. Pull on three. Not yet."
+
+Below them, stone-headed road nets slapped against the cleft. Weir soldiers called the depth to one another and argued that the whole fin would go if anyone climbed in armor. The ash rider's voice carried last: "The Queen is in the shell. No witness leaves this ridge."
+
+Pelka braced the rope around a horn of limestone. "What do I do?"
+
+Yavren looked through the talonmail's narrow eye gaps. The scored walls were not decoration. Old plates had hooked there while the soft living braid crawled free. The pale shelf sloped toward the vent, but a century of calcite had sealed its lower seam. The failed molt had nowhere to go. So the colony had clawed outward toward heat it recognized, tearing the eyries apart on its way.
+
+"Lower me. Shelf."
+
+"And then?"
+
+"I shed it."
+
+"You or her?"
+
+"Me."
+
+Pelka let the rope run.
+
+Yavren descended into the cleft as the soldiers reached its mouth. Spears rose. The talonmail turned toward them, hooks opening along Yavren's arms.
+
+The old Queen knew a gesture that would send it through the raised iron and into the bodies behind it. Yavren knew how a goat twisted free when its horns caught in brush: not backward, where the snare tightened, but forward and down.
+
+She dropped to one knee and drove both armored shoulders against the scored wall.
+
+Hooks caught. Plates peeled from her back in a rushing clatter. Pelka hauled the rope as Yavren lunged forward again, scraping the outer shell away from the living braid beneath. A spear point glanced off the hollowing shoulder. The colony surged toward it. Yavren turned with the thrust, leading the soft core down instead of out.
+
+"Rope!" she gasped.
+
+"It's on you."
+
+"Three."
+
+Pelka pulled.
+
+Yavren rose half out of the shell. The old plates held her shape against the wall: a crowned brow, hooked shoulders, long black hands. One edge opened her palm. She pressed the blood through the neck seam and across the face within, then tore herself through a slit between shelf and wall no armored bearer could have used.
+
+The road captain saw the royal silhouette move. The ash rider saw blood shine at its neck. The weir officer saw the fault split another finger wide beneath its feet.
+
+Yavren, hidden in the crawl behind it, kicked loose the calcite wedge she had marked on the way down.
+
+The vent opened with a breath of mineral heat. The living core flowed toward it, following the movement it remembered and the warmth beyond. Empty plates shuddered. The black figure raised one hand—not in command, merely tugged by the retreating braid—and toppled into the vent.
+
+"She's falling!" someone shouted.
+
+The road men rushed forward. The weir officer knocked the first aside and ordered everyone off the fault. An ash hunter loosed an arrow into the disappearing husk. Its iron head vanished with the last of the colony.
+
+Yavren crawled on elbows through the goat crack while Pelka took in rope. Behind her, loosened limestone settled over the vent. The sound was not an explosion but a long, grinding exhale. Dust filled the passage. For several breaths the whole mountain rested its weight above her spine.
+
+Through the last open finger of stone, she saw the soft braid coil on the old inner shelf. New plates, small and milk-pale, closed over it before the gap went dark.
+
+Then the grinding stopped, and the eyrie ledges held.
+
+* * *
+
+At dawn, three detachments stood around a sealed cleft and disputed what they had witnessed.
+
+The ash rider wanted the crack buried with everyone still on the ridge. The road captain wanted laborers brought to recover the royal shell. The weir officer had a split slope to measure and families to keep away from it. None would let either of the others take charge. All agreed on the one fact their warrants required: the returned Eagle Queen had worn the ancient armor and fallen bloodied into an unreachable vent.
+
+By then, Yavren and Pelka were above them.
+
+They crossed the last shoulder of the mountain without a fire. Yavren's palm had stopped bleeding, but Pelka's calf had stiffened. They traded the pack every hundred paces. Once, an eagle crossed the whitening sky carrying a twig. It did not bow. It did not follow.
+
+At the unnamed pass, Pelka sat on a flat stone and unwrapped the remaining pie.
+
+"How much road money?" she asked.
+
+Yavren checked the inner pocket. "Four silver. Two clipped."
+
+"Trapline's gone."
+
+"For now."
+
+"South path has water, if the bridge is still there."
+
+An old map rose in Yavren's mind, offering gates, tribute houses, three routes to revenge. She let it pass. On the actual slope below, last night's rain had darkened the north-facing stones; the southern descent would be slick until noon.
+
+"We take the high traverse," she said. "Eat first. Then I change your bandage."
+
+Pelka broke the pie unevenly and handed her the larger half.
+
+"That's mine," Yavren said.
+
+"You bled more."
+
+"From one hand."
+
+Pelka chewed, expressionless. "Still blood."
+
+After a moment Yavren ate too. Then they packed the cloth, tightened the rope, and walked east until the valley was no longer visible behind them.
