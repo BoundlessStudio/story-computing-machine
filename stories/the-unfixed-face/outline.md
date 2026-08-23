@@ -2,40 +2,46 @@
 
 ## Story
 
-- Proposed reader-facing title: *The Unfixed Face*.
-- Premise and central promise: In an undated advanced city, ordinary genome revision lets anyone replace any specified bodily attribute at any age. While emptying her last shared apartment, Sarune Quon begins an eight-hour return to a profile saved before she met former spouse Dax Norell. She expects that “before” face to separate her from fourteen years of shared changes. The baseline, edit archive, and changing body instead show that chronology and authorship cannot identify one authentic appearance. Resolve the private promise when Sarune stops the restoration and keeps what she presently wants, leaving later change open.
-- Focal pressure or attachment: Sarune wants the apartment cleared and her resemblance to Dax undone before their shared revision account partitions at midnight. She wants Dax to classify traits as theirs or hers because inventory feels easier than admitting she still likes changes born inside a finished marriage. The relationship is over; comfort, health, taste, and memory simply do not divide like furniture.
-- Counterforce or complication: No antagonist. Dax needs the archive because it records experiments and medical adjustments belonging to their own bodily history. They refuse to certify an “original” Sarune and remember why several revisions mattered, including the jaw that ended her headaches. The rollback restores pain, alters Sarune’s reach and balance during the move, and drains her energy. Dax can challenge her account without controlling her body or requesting continued resemblance.
-- POV, distance, and information limit: Close third-person past through Sarune, attentive to balance, bite, voice resonance, temperature, clothing, and lag between mirror and proprioception. Profile records show what changed and who proposed it, never why it became wanted. Dax remains exterior; express their stakes through retained traits, packed belongings, corrections, and refusals to answer.
-- Governing movement and time shape: Across one afternoon and evening, the apartment empties room by room while Sarune’s phenotype rolls backward through fourteen years of revisions. Each stage changes an object or image’s meaning without opening a flashback. Keep the decisive turn private at the bathroom console, followed by brief bodily stabilization. No hearing, medical emergency, reconciliation, later romance, or policy debate.
-- Speculative rule or ordinary-world constraint: A cheap home console rewrites every living cell and directs rapid remodeling toward an exact profile; hair, pigmentation, face, height, sex traits, voice, metabolism, senses, and age markers are ordinary selectable fields throughout life. Expression takes hours and heavy calories, water, and heat, with one active whole-body profile, but users may pause or replace it freely. Revision cannot alter memory, lived history, or legal continuity; private credentials replace biometric identity. Adaptable clothes, revision food, and a changed scent confusing a neighbor’s pet provide unrelated everyday consequences.
-- Dialogue pressure: Sarune wants Dax to assign ownership to shared traits and thereby validate a clean rollback; Dax wants the archive duplicated and Sarune’s choice stated as present preference, not historical proof. Sarune uses inventory and provenance language to hide hurt. Dax answers with concrete bodily effects and withholds reassurance that would make separation ceremonial. Neither seeks reunion or apology.
+- Premise and central promise: Erisel Malk returns to Mirrorglass House, her late father Lucian's gene-revision studio, before its archive sterilizes at sunset. Her sister Korrin greets her in Lucian's last face, a mourning likeness that makes disagreement feel borrowed. When client Mekran Foyle arrives in a failing transitional body, they must recover his safe return pattern without treating any face as a person's essence.
+- Focal pressure or attachment: Erisel wants the face Lucian wore when he taught her revision signals, yet believes entrusted body plans should purge rather than become family property. Korrin wants the studio and wears Lucian's likeness as proof she stayed. Erisel's rented face makes expertise look like evasion.
+- Counterforce or complication: Anonymous presets answer only a matching, consented cadence. Mekran's copied gliding form is losing voice, luminous skin, balance, and heat regulation, so he can identify fragments but not unlock them. His missing component is a consented backup inside Korrin's Lucian preset; extraction ends the likeness.
+- POV, distance, and information limit: Close third-person past through Erisel, who reads gait, breath, heat, and microexpression as changeable systems. She cannot use face or voice as proof, feel another body, or know Korrin's motive until Korrin makes it legible. Lucian remains only in records, recipes, and memory; no preset contains his mind.
+- Governing movement and time shape: One late afternoon, shelf by shelf as the archive cools and Mekran loses channels. Domestic closure becomes a search, then a mostly visual procedure. End outside after rescue and purge, before decisions about reopening the studio.
+- Speculative rule or ordinary-world constraint: Living seedglass can revise attributes at any life stage. Small changes settle quickly; whole-body changes need ordered transitions and a personal return preset. Presets store anatomy and sensory settings, not memory. Mutable faces and voices are expressive but weak credentials, so people combine names with opt-in capillary light, gesture rhythms, device tokens, or private cues. A consented return fragment may be carried in another preset; releasing it changes the carrier body but transfers no identity.
+
+## Voice
+
+- Narrative texture: Move Erisel's attention from mutable surfaces to weight placement, breath timing, room knowledge, and expression lag. Keep revision work lucid and physical; let grief remain less classifiable.
+- Conversational texture: Family talk is practical, interrupted, and history-laden. Names or sensory limits are stated only when changed bodies require them. Speech shares work with temple light, hand pressure, and device glyphs.
+- Rhetorical ownership: Erisel reasons by pattern and safe order; Korrin by duties and client particulars; Mekran by immediate sensation and brief consent choices.
+- Pressure behavior: Erisel over-specifies. Korrin acts instead of answering until the borrowed voice fails her. Mekran's shrinking signals demand confirmation, not charitable interpretation.
+- Anti-default: Avoid an identity debate, makeover spectacle, or clever-signal gimmick. Let logistics, misuse of a familiar face, consent checks, and releasing a chosen form carry the emotion.
 
 ## Beats
 
-1. In the half-emptied apartment, Sarune activates her pre-Dax profile with former hair-dye casualness. Dax is due to collect the archive and remaining boxes before midnight.
-2. Dax arrives in a face Sarune has never seen and requests duplicate archive access. Sarune intends to delete the shared profiles once her baseline finishes.
-3. Packing continues as pigment, hair, stature, scent, and voice revert. Adaptable clothes cope; shelves do not. Objects and photographs expose changes each partner proposed and the other genuinely adopted.
-4. Sarune’s old bite returns. Dax identifies the revision that stopped her headaches, while the archive reveals that her “natural” baseline was assembled from changes made before their meeting.
-5. Dax has retained a shared cadence and comfort-related hand proportion while discarding conspicuous resemblance, but will not call them tribute or theft. Provenance cannot settle ownership.
-6. As rollback reaches Sarune’s favorite Dax-associated traits, conflict centers on the archive: erasing it destroys useful history; preserving it requires no preserved face. Sarune pauses and judges settings by present sensation rather than timestamp.
-7. She retains the comfortable jaw, voice, reach, and selected aesthetics, releases others, and authorizes two archive copies. Dax leaves with their boxes; separation remains real.
-8. Sarune finishes inventory as the mixed profile settles. A delivery worker verifies her unchanged credential without studying her face. She eats, labels the last box, and schedules no next profile.
+1. The door ignores Erisel's rented face and admits her by the childhood capillary cadence she shares with Korrin. Korrin's mourning likeness announces memory, not identity, but Lucian's expressions distort Erisel's hearing. Their shutdown dispute stays concrete: preserve one family form, retain the studio, or honor client expiries.
+2. Mekran enters under emergency access. His wing-and-night-sight form has stalled midway back: membranes drag, heat rises, and voice and luminous skin fail unevenly. Wrist glyphs and broken cadence establish Lucian's promise. He consents to a search limited to his return pattern.
+3. Erisel takes seedglass-spectrum eyes; Korrin navigates from memory; Mekran answers anonymous fragments with light, posture, or refusal. Previewed traits put familiar features on the wrong speakers. Korrin uses Lucian's practiced face and voice to soothe him without identifying herself. The borrowed authority briefly works, then destroys trust when her personal cadence shows through.
+4. Erisel resets the grammar: declare current capacity, confirm ambiguous signals, and let no face stand for authority. This costs time but helps Mekran separate his desired home body from the copied form's defaults. His sequence points to dormant loci inside Korrin's mourning preset. A bounded record verifies his earlier consent and shows extraction must end the likeness.
+5. During release, Mekran loses speech and signal pulses. Erisel orders bodily stages; Korrin supplies the fragment; Mekran approves through hand pressure and simplified light. Erisel mistakes a stress flare for consent, catches its disagreement with his grip, and stops. Korrin drops Lucian's voice and confirms the next choice plainly; the corrected sequence stabilizes breath, balance, heat, and signaling without fixing Mekran's later appearance.
+6. Korrin's face returns into features Erisel has not seen for years. Erisel relinquishes Lucian's face; Korrin purges the archive by its permissions. Outside, Mekran leaves under his chosen cadence. The sisters defer the studio's future, select low-light eyes, and use their old rhythm when unfamiliar faces turn toward each other.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Sarune Quon | new | Focal former spouse using a baseline restoration to seek a clean bodily boundary. |
-| Dax Norell | new | Sarune’s former spouse and co-owner of the shared revision archive; retains independent bodily choices and stakes. |
+| Erisel Malk | new | Revision-pattern specialist and Lucian's younger daughter. |
+| Korrin Malk | new | Older sister and final keeper of the studio. |
+| Lucian Malk | new | Deceased practitioner, present only through records, recipes, and memory. |
+| Mekran Foyle | new | Adult client in a failing copied preset. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | The apartment, building, and city remain unnamed. |
+| Mirrorglass House | new | Family gene-revision studio and single interior setting. |
 
 ## Continuity
 
-- Canon used: The story occupies the one deep-time shared world in an otherwise unplaced technological era. Personhood, consent, attachment, and consequence remain meaningful through transformation; no wider cosmology needs to appear.
-- Boundaries and unknowns: Genome revision is ordinary technology local to this era, not magic and not a crossover with any established transformation system. Its invention, global history, ultimate lifespan effects, era coordinate, and relation to named locations remain unstated. The mechanism changes one continuing person’s body without copying, replacing, possessing, or erasing that person, and establishes no authority over another person’s chosen appearance.
+- Canon used: System categories allow local living technology; personhood protection prevents bodily recipes or signals from defining identity. The prompt establishes ordinary lifelong gene revision here; canon does not otherwise define it.
+- Boundaries and unknowns: Keep seedglass, cadences, and mourning likenesses local. Establish no universal identity system, biology, economy, law, or gene-soul relation. Presets contain no consciousness; Lucian neither returns nor becomes a hidden copy.

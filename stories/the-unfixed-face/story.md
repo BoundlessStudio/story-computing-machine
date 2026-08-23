@@ -8,370 +8,384 @@ canon: false
 
 # The Unfixed Face
 
-Sarune started changing her face at 2:17 in the afternoon, between wrapping the blue cups and emptying the drawer where batteries went to die.
+The door knew Erisel's pulse but not her face.
 
-The genome-revision console occupied a yellowed recess beside the bathroom mirror. It was as old as the apartment and had the same landlord-white finish as the cupboards. Sarune pressed her wrist to the credential pad, opened **S. QUON / PRIVATE**, and scrolled past fourteen years of summer bodies, winter metabolisms, novelty eyes, corrected shoulders, shared experiments, and faces she had once expected to grow tired of beside Dax.
+She held two fingers beneath the lintel while Mirrorglass House searched the capillaries in her hand. A rose-colored beat moved from wrist to knuckle, paused, then repeated faster. The same cadence had opened the studio when she was nine and too short to reach the brass plate. Back then she had stood on Lucian's boot while he steadied her elbow.
 
-At the bottom waited **BEFORE DAX**.
+Now the plate was gone. Everyone altered something. A neighbor might sharpen night vision before a winter shift, smooth an old joint on the way home, or borrow a different jaw for a wedding and return it on Monday. Faces made poor keys.
 
-She had named the profile herself. That felt like evidence.
+The lock answered with a green seam. Erisel pushed inside and caught the door before it crushed the cardboard carrier against her hip.
 
-The mirror ghosted the projected result over her reflection: five centimeters shorter, black hair instead of copper, narrower mouth, gray irises, the old jaw she remembered as delicate. None of Dax's choices would remain visible on her. None of hers that had followed Dax's suggestions, either.
+"Your food," she called. "And the settling salts you forgot to order."
 
-The console warned that a whole-profile return would take seven hours and forty-one minutes. It ordered sixteen thousand calories from the kitchen dispenser, recommended four liters of water, and asked if she wanted a sleep dose.
+"I didn't forget. I declined."
 
-Sarune declined the dose. She wanted to be awake when she became herself again.
+Korrin came through the beaded curtain wearing their father's last face.
 
-She touched **EXPRESS**.
+It was not an exact restoration. Lucian had been seventy-three when the lung fever took him, and the mourning preset had been stored years earlier: square cheeks, dense silver brows, the shallow cleft in his chin. Korrin had kept her own height. The shoulders beneath her work apron were hers, as were the quick, planted steps. Then she frowned at the cardboard carrier, and Lucian's left eyebrow climbed before the right.
 
-The first sensation was no more dramatic than warmth behind her ears. The dispenser in the kitchen began churning revision custard with the industrious hum of a cheap washing machine. People used to sit for hours under foil to alter the color of dead hair. Sarune had seen the pictures. The console's instructions were shorter: eat, drink, do not operate a vehicle, and avoid making decisions based on intermediate anatomy.
+Erisel nearly dropped the food.
 
-She returned to the blue cups. By the third one, sweat had gathered between her shoulder blades.
+Korrin took the carrier from her. "You changed again."
 
-Dax let themself in at three with the key that would expire at midnight.
+"Temporary face. The northbound carriage seals badly around narrow sinuses."
 
-Sarune knew them by the way they held the door with one long-fingered hand while backing in ahead of a stack of folded crates. Everything above the wrist was unfamiliar. Their new face was round, with a flat bridge, deep brown skin, and a sweep of pale freckles that continued across both eyelids. Their head was shaved except for a dark red strip over the crown. They had changed the angle of their shoulders too. Even their walk had lost the buoyant hitch Sarune could once identify through two closed doors.
+"You could have changed your sinuses."
 
-They set down the crates. "You're already running it."
+"They came bundled."
 
-"You said four."
+"Of course they did."
 
-"I said I'd try for three." Dax looked once at the console's amber light, then at the towers of boxes. "How far?"
+Lucian's mouth had always pulled inward on the last word. Korrin's did it now, without her seeming to notice.
 
-"Eleven percent."
+Erisel hung her coat on the peg marked VISITORS, because the peg marked ERI still held a child-sized oilskin. "How much is left?"
 
-"Then your reach is going to go before we clear the high shelves."
+"Seven cabinets and the private shelf. The public presets sterilized at noon."
 
-Sarune put the last cup into its carton. "Hello to you too."
+"You did that without me."
 
-Dax's new mouth tightened. The expression belonged to them at once. "Hello, Sarune. That's a bad sequence for moving."
+"They expired without you. I pressed the confirmation. There's a difference."
 
-"The account divides at midnight."
+Korrin set the carrier beside three unopened tins and went back through the curtain. Erisel followed into the revision room.
 
-"The account divides. The bodies don't shut down."
+Mirrorglass House had never contained many mirrors. Lucian said clients watched surfaces when they should have watched balance and breath. The long room held a padded bench, a washbasin, and ranks of seedglass cells in cooling shelves. Most were already clear. A few still carried smoky whorls: anonymous body plans waiting for their permissions to lapse. At sunset the house would heat every remaining cell to white, leaving no living pattern that could be used without its owner.
 
-"Mine will be finished by ten."
+On the central table, Korrin's tablet showed a column of glyphs beside each cabinet. Green for released. White for sterilized. Amber for disputed.
 
-Dax tugged open one of the crates. "I need a duplicate of the archive before you delete anything."
+There were too many amber marks.
 
-There it was, early enough that Sarune could pretend to be grateful. She lifted a roll of packing mesh and carried it to the kitchen. "You can have the profiles you initiated."
+"Family presets," Korrin said before Erisel could ask. "Mine. Yours. His."
 
-"I need the notes on the cold-tolerance trials, the tendon settings, and both migraine branches."
+"Mine can go."
 
-"The migraine branch was for me."
+"The one with the winter lungs?"
 
-"The first one. The second used my metabolism. We compared them for six months."
+"I have a copy at home."
 
-"Then take the second."
+"The copy you said you hadn't checked since you moved?"
 
-Dax followed her into the kitchen. "The comparison is the useful part. Copy it. Don't sort it."
+Erisel picked up the tablet. "We're not retaining client material because my filing is poor."
 
-Sarune pulled open the cupboard over the refrigerator. The top shelf had been Dax's until Sarune added the extra reach nine years ago. Her fingers still cleared it easily. "We're sorting everything else."
+"I didn't say client material."
 
-"A lamp is not a history of what my joints have been doing."
+"This building is client material."
 
-"No. A lamp has the decency to belong to one room at a time."
+Korrin opened her mouth. Lucian's face prepared an argument with a familiar tightening around the eyes, and Erisel turned away before the words arrived.
 
-Dax exhaled through their nose. They had not changed that, or else had chosen it again. "Crates first. Archive before eleven."
+A harsh triple pulse ran through the ceiling conduits.
 
-They worked without music. The apartment had sounded wrong since the rugs came up: every cup set down too hard, every strip of sealing mesh ripped open inside a hollow drum. Sarune packed the kitchen while Dax cleared the living-room shelves. At sixteen percent, the copper leached from the roots of her hair and traveled outward in a darkening wave. Loose strands shortened where they lay against her neck, reclaimed cell by cell. She watched one withdraw from the collar of her shirt.
+Emergency access.
 
-Her adaptable trousers puckered, recalculated, and drew their hems upward to keep them off the floor. The kitchen shelves did nothing. When Sarune reached again for the top shelf, her fingers struck the underside.
+Korrin was moving before the third pulse ended. She swept the tins from the bench and tapped the door glyph. "Name?"
 
-"I can get it," Dax said from the doorway.
+The answer from the vestibule was a scrape, a breath, and something that might once have been a word.
 
-"I have the stool."
+Erisel reached the door first.
 
-"The stool is under the plant boxes."
+The person leaning against the outer frame had the elongated arms and dark sail membranes of a gliding form. One membrane hung folded cleanly along his left side. The other dragged at the floor, its outer edge thickening into skin where the return had begun and stopped. His pupils had spread across nearly the whole eye. Black heat-patches stood out on his throat and ribs. Under the skin of his temples, capillary light flickered too quickly to parse.
 
-"Then move the plant boxes."
+He thrust his wrist toward them. His device drew a single glyph in red: MEKRAN FOYLE.
 
-Dax moved them. Sarune climbed, already annoyed by the lower position of her eyes. From the shelf she took a fondue burner neither of them remembered buying, three obsolete nutrient cartridges, and a flat silver tin.
+Korrin caught his elbow. "Mekran. It's Korrin. Bench is four steps."
 
-Inside the tin were printed photographs. Print had been Dax's enthusiasm for half a year, when they said a picture ought to survive its display format. Here was Sarune in the first face Dax had known, though not yet the body now arriving beneath her clothes. Here were both of them with blue irises after the lake trip, Dax squinting into sun and Sarune laughing at something outside the frame. Here was the winter they had traded noses, which had seemed hilarious for a week and then, without either of them saying so, intimate enough to stop.
+He looked at Lucian's face, and some of the strain left his grip.
 
-Sarune laid that picture facedown.
+That was worse than Erisel expected.
 
-From the living room Dax called, "Photos yours or mine?"
+They guided him inside. His right foot had widened for landing, while the left was already narrowing toward an ordinary arch. Neither matched the balance his hips attempted. He stumbled at the threshold and struck the side of the bench hard enough to rattle the cells.
 
-"They're yours. You printed them."
+"Don't lie flat," Erisel said. "Your rear membranes will trap heat. Sit forward. Korrin, wet cloth, not cold. Mekran, I'm Erisel Malk. Pattern specialist. Can you hear me?"
 
-"That's not how photographs work."
+His temple lights gave one long band, then shattered into little flashes.
 
-"It is how inventory works."
+"That isn't a standard yes," Korrin said.
 
-Dax appeared at the kitchen threshold holding two coils of charging cable. "Which pile is the amber lamp?"
+"I know."
 
-"Yours."
+Mekran's device drew an ear, crossed it out, then drew it again with one side dimmer.
 
-"You bought it."
+"Uneven hearing," Erisel said. She moved to his left. "This side?"
 
-"For your desk."
+He pressed thumb to forefinger twice.
 
-"You moved it to the bedroom three years ago."
+Korrin brought the cloth. He jerked from its touch, light flaring bright along his jaw.
 
-"Fine. Mine." Sarune dropped the silver tin into the box beside it. "And the photographs are yours."
+"Too cold?" she asked.
 
-Dax watched the box close over them. "Fine."
+He gave no hand sign. The device showed a spiral, then went blank.
 
-At twenty-eight percent, Sarune began to smell wrong.
+Erisel touched the cloth herself. Tepid. "Could be skin pain, not temperature. Ask before contact."
 
-The woman from the apartment opposite was crouched in the corridor clipping a harness to her little brindled dog when Sarune carried out recycling. The dog had known Sarune for six years. It sniffed, stiffened, and barked until its front paws skidded on the floor.
+"I did. He didn't answer."
 
-"Revision day," Sarune told her, holding the bags away from her legs.
+"You touched while you asked."
 
-"Oh, of course." The woman gathered the dog against her shin. She had new gold whorls in the whites of her eyes and otherwise looked as she had that morning. "Sorry. He'll update."
+Korrin's borrowed brows drew together. She held up the cloth where Mekran could see it and waited.
 
-The dog barked again, unconvinced by either woman.
+His fingers opened once. Korrin laid the cloth over the heat-patch on his ribs, slowly enough for him to stop her. His breath eased.
 
-When Sarune returned, Dax was labeling the last living-room crate. Their block letters had not changed. Neither had the proportions of their hands: broad palms, long thumbs, shortened smallest fingers. Sarune had drawn that hand map after Dax's knuckles began aching in cold weather. They had sat at this table comparing grip simulations and teasing each other over the elegance of possible thumbs.
+Erisel checked the wrist device. Its local history held a revision receipt from Mirrorglass House and a promised personal return sequence, but the return file itself was absent. Lucian's compact seal sat on the receipt. A mark, nothing more. He had taught them to keep records bounded: what had been ordered, what had been consented to, which body carried the cost. Never a person's habits. Never a simulated voice.
 
-"Those are from my settings," she said.
+"When did you start the return?" Erisel asked.
 
-Dax looked at the marker in their hand. "They're my hands."
+Mekran tried to speak. Air grated behind his tongue.
 
-"I mean I designed them."
+The device wrote: TRAIN. Then: 3 BELLS. Then it added a small wing glyph and crossed it through.
 
-"You adjusted the map."
+"Three bells ago, on the train," Korrin said. "You triggered the home preset and the sequence failed."
 
-"You kept it."
+Mekran pressed thumb and forefinger twice.
 
-"Jars stopped hurting."
+"Can I search the private archive for the return pattern attached to this receipt?" Erisel asked. "Only that pattern. No previews beyond what's necessary to identify it."
 
-"So that counts as yours?"
+His temple lights slowed: three brief pulses, a pause, three more. The cadence on his receipt.
 
-Dax capped the marker. "It counts as jars not hurting."
+Korrin touched the same rhythm against the bench. "Consent registered."
 
-Sarune turned away and nested teaspoons with more force than they required.
+Mekran's gaze fixed on her face. He mouthed something without sound.
 
-The dispenser chimed every twenty minutes. Revision custard came in six flavors meant to disguise the mineral heaviness; the landlord model produced all six as warm vanilla. Sarune ate standing up. Her body took the food without giving her the pleasure of feeling full. Heat collected in her joints. Her scalp prickled. At thirty-five percent, the room seemed to lift around her as her legs shortened, and for three steps her feet met the floor sooner than she expected.
+"Lucian is dead," Korrin said. "I'm his daughter. I handled your settling appointments."
 
-She clipped her shoulder on the kitchen door.
+He closed his eyes. Not assent. Not refusal. Only no more looking.
 
-Dax glanced up from wrapping the lamp. "Sit for a minute."
+Erisel swallowed the correction she had been about to make. "We'll tell you before each step."
 
-"I'm fine."
+She drew a thread of active seedglass from the diagnostic spool and set it beneath her lower lids. The change itched for six breaths. The room's ordinary colors thinned, and living revision patterns surfaced as quiet geometries: the dense green scaffolds of the archive, Korrin's mourning preset braided gold beneath her skin, Mekran's failed return stuttering red across muscles and vessels.
 
-"You're walking ahead of your hips."
+"Cabinet order?" Erisel asked.
 
-"Stop monitoring me."
+Korrin pointed. "Recent work on the west side. He came every half-year, but his last visit was during the roof leak. Lucian moved active files away from the wall."
 
-Dax put the lamp into a crate. "Then stop carrying glass while your balance is changing."
+"To which shelf?"
 
-Sarune set down the bowl she had been holding, carefully enough to deny them the sound of victory.
+"If he'd told me, we wouldn't be searching."
 
-They moved into the bedroom. Only two blankets remained on the stripped bed, divided by a precise gap. Dax stripped the adaptive cover from their side and folded it. Sarune opened the closet, where a dozen old outfits still held her saved measurements in their cuffs and seams. Clothes were patient with bodies. Hangers were not; as she lifted a cluster down, the hooks caught and tangled above her new reach.
+They began with the west cabinets anyway.
 
-Dax freed them without comment.
+Each anonymous cell answered only a consented cadence that matched its owner. Erisel placed cells one at a time in the shallow reader. Mekran watched the neutral previews cross the tablet: a change in night color, a shoulder joint's range, a heat-shedding lattice. He rejected the first with a closed fist. The second made him touch two fingers to his sternum, uncertain.
 
-"The green coat is yours," Sarune said.
+"Not enough," Erisel said. "Do you recognize it, or does it hurt?"
 
-"It fits either of us."
+Mekran shook his head, then stopped, dizzy. His device drew an eye and a question mark.
 
-"You chose the shoulders."
+"Recognize?" Korrin asked.
 
-"You chose the color."
+One finger opened.
 
-"Your profile proposed the shoulders."
+"He says yes."
 
-Dax laid the hangers on the bed. "Do you want the coat?"
+"He answered the last thing you said, not the choice I gave him." Erisel removed the cell from the reader. "We separate questions from now on."
 
-"That's not what I'm asking."
+Korrin's jaw set. She turned her tablet so Mekran could see and placed two glyphs on it: KNOWN and WRONG. He tapped KNOWN. Then he tapped the bench twice and pointed at the next cabinet.
 
-"It is what the box needs to know."
+They changed the procedure. One preview. One question. An answer repeated through two available channels whenever possible: device and hand, light and posture, speech and touch. It was slower. Outside, the western windows reddened toward sterilization time.
 
-The console sounded from the bathroom: half complete.
+The cells offered lives no one in the room had lived. Amber irises opened briefly in Korrin's borrowed face. A breathing lattice feathered across Erisel's ribs. Mekran watched his own hand acquire delicate climbing pads, then knocked the reader aside before the preview could climb past his wrist.
 
-Sarune pressed her tongue against her teeth. The left molars no longer met where she expected. A small pulse had begun behind her eye.
+"Wrong," Korrin said, and cleared it.
 
-Dax heard something in her breathing. "Your bite is back."
+Mekran's temple lights pulsed approval.
 
-"My bite never left."
+"Current capacity," Erisel said. "Can you still distinguish those pulses?"
 
-"That one did. You used to brace your jaw when you swallowed."
+He held up three fingers, folded one, then frowned at his hand as if it had betrayed him. His index finger had begun webbing to the next.
 
-"You don't have to narrate me."
+"Light, device, gross pressure," Erisel said. "Fine gesture is unreliable."
 
-"Pause the profile."
+"And speech is gone," Korrin added.
 
-"It's pressure. I'm tired."
+Erisel looked at her. "Don't inventory losses over him."
 
-"It's the old joint angle. By evening you'll be sick."
+"I'm inventorying the channels we have. Mekran, pressure means you squeeze one of our hands. Once is stop. Twice is yes. Hold means wait. Is that usable?"
 
-Sarune gripped the closet door. "That jaw came from your profile."
+He reached for Korrin. Twice.
 
-Dax's unfamiliar face gave her no memory to read. "It came from a branch I suggested because you were eating pain tablets with breakfast. You tested it. You widened it twice."
+They continued.
 
-"So it's yours."
+At the fifth cabinet, Mekran's device went dark. He struck its edge with the heel of his hand.
 
-"The headaches were yours."
+Korrin sat beside him. The silver brows lifted, the mouth softened, and she spoke in the low, measured tone Lucian had used with frightened clients. "Let the body be unfinished for a minute. We don't have to chase it while it changes."
 
-The pulse sharpened as if rewarded for being named.
+Mekran stopped hitting the device.
 
-Sarune went to the bathroom and opened the active revision. A branching diagram spread across the mirror. She expected to find the jaw under **D. NORELL / PROPOSED** and did. Beneath it were two later adjustments under her own credential: bite spacing, hinge depth. The first branch had been accepted eleven years ago. The second, ten years and nine months. A third changed nothing visible and added a note about waking without pain.
+Erisel remembered those words from her own first revision, when she had tried to take back the height she had asked for before her bones finished settling. She remembered Lucian's hand, broad and dry, over the control.
 
-The archive recorded who had proposed each setting, who had authorized it, how long it had remained active, and which later profiles inherited it. It did not record the morning Sarune had bitten through a pear without the bright spike at her temple. It did not say when relief had stopped feeling borrowed.
+Korrin went on. "We know the safe order. Eyes after heat, feet after balance. You did this route here before."
 
-She backed out to **BEFORE DAX**, the profile currently rebuilding her.
+Mekran opened his eyes. He looked at Lucian's face as though the last six years had narrowed to a usable door.
 
-Its creation date was fourteen years and two months ago. Its contents were older and newer than that. Eyesight correction at seventeen. An immune adjustment at nine, guardian-authorized. A nose bridge imported from a university-year profile. Shoulder symmetry from three years before she met Dax. The gray irises had been suggested by a salon clerk whose name Sarune had not stored. Even the fine crease she remembered beside her mouth as belonging to her mother had been sharpened in a portrait profile at twenty-three.
+Then light moved beneath Korrin's temples: the old sister-code, three quick beats and one dragging beat, used since childhood for don't make this worse.
 
-Before Dax was not before everyone. It was not even before Sarune.
+Mekran saw it.
 
-"You knew," she said when she returned to the bedroom.
+His grip snapped tight around her wrist. Once.
 
-Dax was kneeling beside the green coat, rolling air from its sleeves. "Knew what?"
+Stop.
 
-"That my baseline was assembled."
+Korrin fell silent.
 
-"Every profile is assembled."
+He pushed her hand away and pointed at the borrowed face. The heat-patches on his throat darkened. His device remained dead; his fine gestures were failing. He could not tell them which part had broken trust, only that something had.
 
-"You could have said."
+"That was Lucian's script," Erisel said. Too much explanation already, but Mekran needed the fact. "Korrin remembers it. The preset has his voice shape, not him."
 
-"You didn't ask what was in the file. You asked which parts of you came from me."
+Mekran squeezed Erisel's offered hand once.
 
-"And you kept refusing to answer."
+Stop that too.
 
-Dax pushed the coat into the crate and stood. "Because you don't want an answer. You want a customs stamp. Mine. Yours. Nothing to declare."
+So she stopped.
 
-Sarune's jaw throbbed. "We're dividing a life. Categories are useful."
+Korrin rose and returned to the cabinets. She did not apologize. She pulled each remaining cell, checked its date against her tablet, and put it back when the mark did not match. Her work grew faster and rougher. Lucian's face did not vanish; bodies could not be revised like masks peeled away. Its borrowed expressions simply went still.
 
-"For the kettle, yes."
+At the private shelf, Erisel found six family presets and no client file.
 
-"You arrived wearing a completely new face. Don't pretend you don't understand."
+"Nothing," she said. "Receipt says he left with a complete return. If the archive copy isn't here, it must be linked under a carrier permission. Did Lucian ever split emergency fragments?"
 
-For the first time that afternoon, Dax touched their cheek. Not tenderly; they checked the skin as if Sarune had pointed out dirt. "I understand wanting this face."
+Korrin kept her eyes on the cells. "During the leak. He put two into his own active preset so they wouldn't sterilize with the wet shelf."
 
-"Why this one?"
+"Two. Whose?"
 
-"Because I wanted it."
+"I don't know. The record stayed anonymous."
 
-"That's all?"
+Erisel lifted the cell tagged only with Lucian's private cadence. Its gold pattern matched the braid beneath Korrin's skin.
 
-"That's enough for a face."
+"You're wearing it."
 
-It was not enough for Sarune. She wanted the freckles to be a declaration, the new shoulders an indictment, the vanished hitch in Dax's walk a sentence with her name as its object. She wanted Dax to admit they had discarded every visible trace of her, or confess that the hands meant they had not. Either answer would turn choice into evidence.
+Korrin looked toward Mekran. "I know."
 
-Dax lifted the crate. "Storage room."
+The words were hers. Flat, late, impossible to soften with anyone else's mouth.
 
-"Your cadence is the same," Sarune said.
+"You knew before I arrived?"
 
-They shifted the weight against one hip. "My what?"
+"I knew there were fragments. Not that one was his."
 
-"You still wait half a beat before disagreeing. You started doing that with me."
+"And you activated the preset anyway."
 
-"I started doing that because you interrupt."
+"I activated Dad's face for the closing. I checked the base anatomy. I didn't open records that weren't mine."
 
-Dax carried the crate out.
+"The carrier index isn't a client record."
 
-By seven, the apartment contained more echo than furniture. Sarune's hair ended bluntly below her ears. Her irises had gone slate gray; her shirt collar had adjusted three times around her narrowing shoulders. Heat flushed her face even as her hands felt cold. The revision display read sixty-two percent.
+"It names a presence. That was enough for me not to look."
 
-They ate on the floor with their backs against opposite kitchen cupboards, Dax with a carton of pepper noodles and Sarune with another bowl of warm vanilla. Between them sat the archive console, detached from the wall but still connected by one white cable.
+Erisel wanted to tell her precisely how many safeguards she had mistaken for sentiment. The explanation assembled itself in clean steps. Then Mekran's hand knocked once against the bench.
 
-"Authorize the copy," Dax said.
+Stop.
 
-"I haven't finished sorting."
+They had made him wait through a family quarrel while his breathing changed.
 
-"Sorting profiles or deciding what they mean?"
+Erisel set the cell in the bounded reader. It showed no anatomy until Mekran pressed his cadence against the bench and Korrin supplied Lucian's private sequence from memory. The two permissions met. A thin branch lit inside the mourning preset, red threaded through gold.
 
-"You don't get both copies of everything."
+The record contained four glyphs: Mekran's return receipt, a consent seal dated before the roof leak, the carrier transfer, and the consequence of release. No message. No explanation in Lucian's voice.
 
-"We each get a copy. That's what a duplicate is."
+"It's yours," Erisel told Mekran. "Releasing it will remove this preset from Korrin. The return pattern will enter the reader. We can start with heat regulation and breath. Do you consent to release?"
 
-"Including my early profiles?"
+Korrin held out her hand. Mekran squeezed twice.
 
-"No. The shared archive starts when the shared account started."
+His temple light gave three pulses, then broke into a white flare.
 
-"There are intimate diagnostics in it."
+"Two channels," Erisel said. "Confirmed."
 
-Dax hooked noodles around their fork. "Mine too. Encrypt yours with your new key. I'll do the same with mine."
+Korrin looked at the release glyph. "Do it."
 
-"And then what?"
+The seedglass woke with a damp crackle.
 
-"Then I keep records I may need the next time my tendons fail, and you do whatever you want with your records."
+Gold drained from Korrin's pattern into the reader. Her borrowed face loosened by degrees: cheeks narrowing, brows paling, chin smoothing as dormant instructions gave way. At the same time the red branch reached Mekran. Erisel guided the sequence through the diagnostic spool.
 
-"You make it sound like appliance maintenance."
+"Heat first," she said. "Mekran, cloth on your ribs?"
 
-"Today I'm trying very hard to make it sound like appliance maintenance."
+Two squeezes.
 
-Sarune stared at them. Dax ate another mouthful and did not rescue the sentence.
+Korrin applied it. The black patches faded to brown. Mekran's breaths came deeper, but the right membrane seized along his spine.
 
-The white cable trembled against the tile as the console's cooling fan engaged. Midnight would sever the account permissions automatically. After that, reconstructing both clean archives would require mutual access again. Sarune had planned to finish her rollback, export Dax's attributable profiles, and erase the rest. A cleared apartment, a cleared account, a face with a date she could defend.
+"Next is vascular release. It may brighten your signal before it stabilizes. Proceed?"
 
-"Copy first," Dax said. "Delete yours in the morning if you still want to."
+His temples burst bright.
 
-"You think I'll regret it."
+Erisel touched the next glyph.
 
-"I think memory is bad at hinge depths."
+Mekran crushed Korrin's hand once.
 
-"And the pictures?"
+Stop.
 
-Dax looked toward the sealed box with the silver tin. "Keep them or don't. They aren't measurements my body may need."
+Erisel froze before the seedglass opened the stage. The flare ran wild beneath his cheeks, steady brightness without cadence. Pain, not permission. She had named the possibility and still mistaken light for assent because it arrived when she wanted an answer.
 
-Sarune had wanted them to ask.
+"Stopped," she said. Her own voice had gone thin and technical. "No stage entered."
 
-She pressed her wrist to the console. The authorization split into two encrypted archives and displayed both credentials. Hers did not include her face, voice, gait, scent, hand, or genome. It was an unlovely private string she had chosen at sixteen and never shared with Dax.
+Mekran kept hold of Korrin's hand. Not squeezing now. Holding: wait.
 
-She approved the duplicate.
+Korrin's face settled unevenly. One brow remained silver; her cheeks no longer belonged to Lucian, but the throat still carried his deepened resonance. She pressed fingers to it, coughed, and changed the voice setting down until the next words emerged rough and light.
 
-"Done," she said.
+"I won't use his voice again," she said. "Not for this."
 
-Dax checked their wrist. "Got it."
+Mekran looked at her. His grip eased, but he did not release her.
 
-No thank-you. No ceremony. They rinsed their carton, nested it in the recycling, and carried the final crates to the hall.
+"We need a signal that pain can't imitate," Erisel said. She was over-specifying again; she could hear it and could not stop. "Light is unavailable. Fine gesture is unavailable. One squeeze may occur under spasm. We can use direction. Korrin, place his hand flat. Mekran, press left to stop, right to proceed, neither to wait. We'll state each choice, then you answer, then Korrin repeats the direction aloud. If you can't choose, we hold the stage."
 
-At the door, Dax said, "The movers will take the bed frame at nine. The food delivery is yours."
+Korrin adjusted her palm beneath his. "Left stops. Right goes."
 
-"You ordered it."
+Mekran pressed right.
 
-"You're the one expressing sixteen thousand calories."
+"Right," Korrin said.
 
-"Dax."
+Erisel opened the vascular stage.
 
-They stopped with one hand on the frame.
+The next four stages took eleven minutes. At each one Erisel named the immediate bodily change, not every consequence she feared. Korrin reported Mekran's pressure without interpretation. When his hand drifted center, they waited. The stalled wing membrane softened from his spine. His pupils contracted enough to follow the reader's glyphs. Balance returned before his feet finished choosing a shape, so Korrin braced his ankles with folded towels instead of asking him to stand.
 
-Sarune had a dozen inventory questions left, all of them shaped to make Dax certify her. The headache beat behind her left eye. Her altered balance made the apartment tilt very slightly toward them.
+The last stage did not restore a remembered face. It restored the safe path by which his body could keep deciding later. His jaw shortened a little; the dark membrane along his right arm receded to the elbow and paused. The return pattern found stable breath, ordinary heat, even hearing, and stopped there.
 
-"The green coat," she said. "Take it."
+Mekran sat forward, exhausted. New capillary light gathered beneath his temple in a slow amber arc.
 
-Dax nodded. "All right."
+Korrin waited.
 
-Then they were gone, carrying the coat and leaving the key active for more than three hours.
+He pressed right against her palm.
 
-Sarune locked the door anyway.
+"Proceed," she said, though there was nothing left to open.
 
-In the bathroom, **BEFORE DAX** had reached eighty-two percent. The projected face on the mirror almost matched the one beneath it. Her old jaw was now narrow enough to look graceful and hurt every time she swallowed. The next stages would lower her voice, shorten her fingers, lighten her body hair, return the quick-cooling metabolism she had complained about through three winters, and erase the amber ring still retreating from her irises.
+Erisel disconnected the reader.
 
-The console offered **PAUSE**, **CANCEL**, and **REPLACE**.
+Behind them, the house chimed sunset.
 
-Sarune touched **PAUSE**.
+Every shelf glyph turned white except the private cell in the reader. Korrin's face had settled into broad dark brows, a high crooked bridge, and a mouth Erisel remembered only from a summer when Korrin had been twenty. The throat resonance continued to shift between breaths. No expression landed where Erisel expected it. Yet Korrin crossed to the archive controls without asking where they were, laid two fingers on the lower confirmation pad, and waited for Erisel at the upper one.
 
-Her body did not become still. Remodeling slowed over several minutes: bone pressure easing, skin heat ebbing, the pulse in her gums settling to an ache. The mirror asked which active profile she wanted instead.
+"Your preset too?" Korrin asked.
 
-She did not choose one.
+"The winter lungs stay. Everything else with my permission expires."
 
-Field by field, Sarune opened the version history. For the jaw, she selected the second widening and its later hinge correction. For reach, she moved the slider until the upper edge of the mirror came within the comfortable span of her hand, not all the way back to yesterday and not as short as Before Dax. She listened to stored voice samples, hated the bright old one on contact, and kept the low resonance from the profile Dax had once proposed for a costume party. She retained the shortened smallest fingers because they sat well on her drafting tools. She released the copper hair. She restored the amber rings around her gray irises simply because she liked what they did in low light.
+"Dad's base?"
 
-The console demanded a name for the new profile.
+Erisel looked once at the emptied gold cell. "It already did what it was holding."
 
-Sarune left the field blank. The system assigned the date and time.
+They entered their separate cadences. The house sterilized the last unclaimed patterns shelf by shelf, a soft rain of ticks behind the glass.
 
-When she touched **REPLACE**, warmth returned first to her jaw. She sat on the closed toilet lid and drank while the ache unwound.
+Mekran's wrist device revived while they packed the diagnostic spool. It drew a cup, a question mark, then an impatient arrow toward the door.
 
-At nine, the movers took the bed frame. At nine-twenty, a delivery worker arrived with three insulated bags of broth, custard, fruit paste, and electrolyte ice. Sarune opened the door in a face no photograph contained.
+"Water's by the door," Korrin said. "You can take the blue bottle. The clear one has settling salts and tastes awful."
 
-The worker's badge exchanged a green pulse with the credential on her wrist. They glanced past her at the empty room. "Sarune Quon?"
+He took the clear one.
 
-"Yes."
+Korrin made a face Erisel had never seen and understood perfectly.
 
-"Kitchen or doorway?"
+Outside, evening had turned the street windows reflective. People passed in dinner faces, work lungs, rain-adapted skin. Mekran stood beneath the awning until his feet agreed with the pavement. He tested his balance, adjusted the strap beneath the remnant membrane at his elbow, and set his temple light to three quiet pulses.
 
-"Kitchen, please."
+Korrin lifted a hand. Mekran answered with the cup glyph on his device, then walked toward the tram stop.
 
-They carried the bags in without looking twice at her. The dog opposite barked once through the door, then sniffed beneath it and quieted.
+The sisters remained under the awning.
 
-Sarune ate broth from the one cup she had forgotten to pack. Her bite met cleanly. Her voice, when she told the apartment to dim the lights, settled lower in her chest. The console estimated another two hours until the mixed profile finished, then asked whether she wished to schedule a successor.
+"We should eat," Korrin said. Her voice had risen half a register since the procedure.
 
-Sarune cleared the prompt.
+"The food's cold."
 
-The last box was labeled **KITCHEN / OPEN FIRST**. She added the blue cups, sealed it, and sat beside it on the bare floor while her face continued, for now, to change.
+"It was cold when you bought it."
+
+"It was room temperature."
+
+"That room was a train station."
+
+Across the street, a sign brightened, and both of them squinted. Without discussion, they opened the pocket revision kit. Korrin selected low-light retinas; Erisel checked the settling order and applied the same change to herself. A minor revision. Six breaths of itch, a watery blink, then the street emerged in softer detail.
+
+"The studio," Erisel began.
+
+Korrin gave three quick pulses at her temple and one slow.
+
+Don't make this worse.
+
+Erisel answered with the rhythm they had used as children for not tonight. Korrin's unfamiliar face turned toward hers. After a moment, the light beneath Korrin's new skin repeated it back.
