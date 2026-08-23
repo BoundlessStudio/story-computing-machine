@@ -16,6 +16,9 @@ SPEC.loader.exec_module(build)
 REPO = Path(__file__).resolve().parents[1]
 STORY_VALIDATOR = REPO / ".agents/skills/story-room/scripts/Test-Stories.ps1"
 NEW_STORY = REPO / ".agents/skills/story-room/scripts/new-story.ps1"
+PREPARE_REWRITE = REPO / ".agents/skills/story-room/scripts/prepare-rewrite.ps1"
+STORY_CREATE_SKILL = REPO / ".agents/skills/story-create/SKILL.md"
+STORY_REWRITE_SKILL = REPO / ".agents/skills/story-rewrite/SKILL.md"
 
 
 class StorySystemTests(unittest.TestCase):
@@ -79,6 +82,109 @@ class StorySystemTests(unittest.TestCase):
         self.write_title_image(story)
         return story
 
+    def use_create_dialogue_profile(self, story: Path) -> None:
+        prompt_path = story / "prompt.md"
+        prompt_path.write_text(
+            prompt_path.read_text(encoding="utf-8").replace(
+                "prospective-2026-08-18", "prospective-2026-08-23"
+            ),
+            encoding="utf-8",
+        )
+        (story / "outline.md").write_text(
+            "# Outline\n\n"
+            "## Story\n\n"
+            "- Premise and central promise: Mira returns and must decide whether home can answer her.\n"
+            "- Focal pressure or attachment: She wants recognition without admitting she needs it.\n"
+            "- Counterforce or complication: The gate answers literally while its keeper answers indirectly.\n"
+            "- POV, distance, and information limit: Close third with Mira; the keeper's motives remain inferred.\n"
+            "- Governing movement and time shape: One crossing, one delayed recognition, one chosen return.\n"
+            "- Speculative rule or ordinary-world constraint: Alder Gate records arrivals but cannot interpret them.\n"
+            "- Dialogue promise: Estranged familiarity moves from guarded testing toward an imperfect welcome.\n"
+            "- Dialogic medium: Sparse speech, gate signals, and pauses that each participant reads differently.\n"
+            "- Dialogue engine: Mira needs directions but uses each question to test whether the keeper remembers her.\n\n"
+            "## Voice\n\n"
+            "- Narrative texture: Close observation tracks what Mira touches before what she admits.\n"
+            "- Conversational texture: Practical questions carry old familiarity; answers arrive unevenly and sometimes late.\n"
+            "- Rhetorical ownership: Mira owns dry deflection; the keeper owns literal care and hesitant humor.\n"
+            "- Pressure behavior: Mira shortens requests while the keeper overexplains, then both leave one silence intact.\n"
+            "- Relationship movement: Mira seeks recognition she cannot request; the keeper risks naming their shared past, restoring limited trust.\n"
+            "- Anti-default: Do not turn reunion into two fluent experts solving the gate and returning to maintenance.\n\n"
+            "## Beats\n\n"
+            "1. Mira crosses the gate and tests the keeper's recognition.\n\n"
+            "## People\n\n| Noun | Status | Role / recurrence note |\n"
+            "| --- | --- | --- |\n| Mira | new | Returning traveler. |\n\n"
+            "## Places\n\n| Noun | Status | Role / recurrence note |\n"
+            "| --- | --- | --- |\n| Alder Gate | new | Local crossing. |\n\n"
+            "## Continuity\n\n- Canon used: none.\n- Boundaries and unknowns: none.\n",
+            encoding="utf-8",
+        )
+
+    def strip_create_dialogue_fields(self, story: Path) -> None:
+        outline_path = story / "outline.md"
+        create_only = (
+            "- Dialogue promise:",
+            "- Dialogic medium:",
+            "- Dialogue engine:",
+            "- Relationship movement:",
+        )
+        lines = outline_path.read_text(encoding="utf-8").splitlines()
+        outline_path.write_text(
+            "\n".join(line for line in lines if not line.startswith(create_only)) + "\n",
+            encoding="utf-8",
+        )
+
+    def make_rewrite_worktree(self, temporary_root: Path) -> Path:
+        source = temporary_root / "source"
+        source.mkdir()
+        story = self.make_current_story(source)
+        self.use_create_dialogue_profile(story)
+        subprocess.run(
+            ["git", "init", "-b", "main"],
+            cwd=source,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        subprocess.run(
+            ["git", "add", "."],
+            cwd=source,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        subprocess.run(
+            [
+                "git",
+                "-c",
+                "user.name=Story Tests",
+                "-c",
+                "user.email=story-tests@example.invalid",
+                "commit",
+                "-m",
+                "fixture",
+            ],
+            cwd=source,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        subprocess.run(
+            ["git", "branch", "codex/rewrite-sample"],
+            cwd=source,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        worktree = temporary_root / "rewrite-worktree"
+        subprocess.run(
+            ["git", "worktree", "add", str(worktree), "codex/rewrite-sample"],
+            cwd=source,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        return worktree
+
     def validate(self, root: Path, phase: str, story: str | None = None) -> subprocess.CompletedProcess:
         command = [
             "pwsh",
@@ -93,6 +199,23 @@ class StorySystemTests(unittest.TestCase):
         if story is not None:
             command.extend(("-Story", story))
         return subprocess.run(command, cwd=root, text=True, capture_output=True, check=False)
+
+    def test_create_and_rewrite_have_distinct_entry_skills(self):
+        create = STORY_CREATE_SKILL.read_text(encoding="utf-8")
+        rewrite = STORY_REWRITE_SKILL.read_text(encoding="utf-8")
+
+        self.assertIn("name: story-create", create)
+        self.assertIn("Never\nuse this skill to reopen an existing story", create)
+        self.assertIn("name: story-rewrite", rewrite)
+        for scope in ("REBUILD", "RESHAPE", "SELECTIVE"):
+            self.assertIn(f"`{scope}`", rewrite)
+        for selection in (
+            "Keep exact",
+            "Keep in substance",
+            "Change or replace",
+            "Remove",
+        ):
+            self.assertIn(selection, rewrite)
 
     def test_scaffold_creates_exactly_four_files(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -134,7 +257,7 @@ class StorySystemTests(unittest.TestCase):
             outline = (root / "stories/sample/outline.md").read_text(encoding="utf-8")
             review = (root / "stories/sample/review.md").read_text(encoding="utf-8")
             self.assertIn(
-                "Craft profile: prospective-2026-08-18",
+                "Craft profile: prospective-2026-08-23",
                 prompt,
             )
             self.assertIn("## Craft\n\n- Dialogue: PENDING", review)
@@ -145,7 +268,15 @@ class StorySystemTests(unittest.TestCase):
                 "POV, distance, and information limit:",
                 "Governing movement and time shape:",
                 "Speculative rule or ordinary-world constraint:",
-                "Dialogue pressure (optional, at most 75 words):",
+                "Dialogue promise:",
+                "Dialogic medium:",
+                "Dialogue engine:",
+                "Narrative texture:",
+                "Conversational texture:",
+                "Rhetorical ownership:",
+                "Pressure behavior:",
+                "Relationship movement:",
+                "Anti-default:",
             ):
                 self.assertIn(field, outline)
 
@@ -208,6 +339,320 @@ class StorySystemTests(unittest.TestCase):
             (story / "title-image.jpg").unlink()
             completed = self.validate(root, "PreReview", "sample")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_pre_review_accepts_create_dialogue_profile(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_pre_review_rejects_incomplete_create_dialogue_fields(self):
+        values = {
+            "Dialogue promise": "Estranged familiarity moves from guarded testing toward an imperfect welcome.",
+            "Dialogic medium": "Sparse speech, gate signals, and pauses that each participant reads differently.",
+            "Dialogue engine": "Mira needs directions but uses each question to test whether the keeper remembers her.",
+            "Relationship movement": "Mira seeks recognition she cannot request; the keeper risks naming their shared past, restoring limited trust.",
+        }
+        for field, value in values.items():
+            with self.subTest(field=field), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_current_story(root, passing_review=False)
+                self.use_create_dialogue_profile(story)
+                outline_path = story / "outline.md"
+                outline_path.write_text(
+                    outline_path.read_text(encoding="utf-8").replace(
+                        f"- {field}: {value}", f"- {field}:"
+                    ),
+                    encoding="utf-8",
+                )
+
+                completed = self.validate(root, "PreReview", "sample")
+
+                self.assertNotEqual(0, completed.returncode)
+                self.assertIn(field, completed.stdout + completed.stderr)
+                self.assertIn("actionable", completed.stdout + completed.stderr)
+
+    def test_pre_review_preserves_0821_five_field_voice_contract(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8").replace(
+                    "prospective-2026-08-23", "prospective-2026-08-21"
+                ),
+                encoding="utf-8",
+            )
+            self.strip_create_dialogue_fields(story)
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_rewrite_constraints_override_base_create_profile_schema(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+            self.strip_create_dialogue_fields(story)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8")
+                + "\n## Rewrite request\n\n> Retell the story through a colder lens.\n\n"
+                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
+                "## Rewrite constraints\n\n- Cover: AUTO\n"
+                "- Craft profile: prospective-2026-08-21\n"
+                "- Authority: the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding.\n",
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_new_rewrite_profile_requires_selection_contract(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8")
+                + "\n## Rewrite request\n\n> Replace the ending.\n\n"
+                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
+                "## Rewrite constraints\n\n- Cover: AUTO\n"
+                "- Craft profile: prospective-2026-08-23\n"
+                "- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.\n",
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertNotEqual(0, completed.returncode)
+            self.assertIn("requires exactly one 'Rewrite selections'", completed.stdout + completed.stderr)
+
+    def test_pre_review_accepts_selection_contract_rewrite(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8")
+                + "\n## Rewrite request\n\n> Replace the ending while preserving the reunion.\n\n"
+                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
+                "## Rewrite selections\n\n- Scope: SELECTIVE\n"
+                "- Outside named selections: KEEP EXACT\n"
+                "- Keep exact: none specified\n"
+                "- Keep in substance: the reunion\n"
+                "- Change or replace: the ending\n"
+                "- Remove: none specified\n\n"
+                "## Rewrite constraints\n\n- Cover: AUTO\n"
+                "- Craft profile: prospective-2026-08-23\n"
+                "- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.\n",
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_pre_review_rejects_scope_with_contradictory_outside_rule(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+            prompt_path = story / "prompt.md"
+            prompt_path.write_text(
+                prompt_path.read_text(encoding="utf-8")
+                + "\n## Rewrite request\n\n> Replace the ending.\n\n"
+                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
+                "## Rewrite selections\n\n- Scope: SELECTIVE\n"
+                "- Outside named selections: FLEXIBLE\n"
+                "- Keep exact: none specified\n"
+                "- Keep in substance: none specified\n"
+                "- Change or replace: the ending\n"
+                "- Remove: none specified\n\n"
+                "## Rewrite constraints\n\n- Cover: AUTO\n"
+                "- Craft profile: prospective-2026-08-23\n"
+                "- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.\n",
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertNotEqual(0, completed.returncode)
+            normalized_output = " ".join((completed.stdout + completed.stderr).split())
+            self.assertIn(
+                "Rewrite scope SELECTIVE requires Outside named selections: KEEP",
+                normalized_output,
+            )
+            self.assertIn("EXACT.", normalized_output)
+
+    def test_prepare_rewrite_rebuild_records_selection_contract(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            worktree = self.make_rewrite_worktree(Path(temporary))
+
+            completed = subprocess.run(
+                [
+                    "pwsh",
+                    "-NoProfile",
+                    "-File",
+                    str(PREPARE_REWRITE),
+                    "-ProjectRoot",
+                    str(worktree),
+                    "-Story",
+                    "sample",
+                    "-Title",
+                    "Sample",
+                    "-Request",
+                    "Retell the story with a colder lens.",
+                    "-Scope",
+                    "Rebuild",
+                    "-Keep",
+                    "Mira's attachment to Alder Gate",
+                    "-Change",
+                    "the returning-traveler plot",
+                    "-Remove",
+                    "the decision to stay",
+                    "-Cover",
+                    "Keep",
+                ],
+                cwd=worktree,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            prompt = (worktree / "stories/sample/prompt.md").read_text(encoding="utf-8")
+            outline = (worktree / "stories/sample/outline.md").read_text(encoding="utf-8")
+            story = (worktree / "stories/sample/story.md").read_text(encoding="utf-8")
+            self.assertIn("Craft profile: prospective-2026-08-23", prompt)
+            self.assertIn("## Rewrite selections", prompt)
+            self.assertIn("- Scope: REBUILD", prompt)
+            self.assertIn("- Outside named selections: FLEXIBLE", prompt)
+            self.assertIn("- Keep in substance: Mira's attachment to Alder Gate", prompt)
+            self.assertIn("- Change or replace: the returning-traveler plot", prompt)
+            self.assertIn("- Remove: the decision to stay", prompt)
+            self.assertIn("## Rewrite constraints", prompt)
+            for field in (
+                "Dialogue promise",
+                "Dialogic medium",
+                "Dialogue engine",
+                "Relationship movement",
+            ):
+                self.assertIn(f"- {field}:", outline)
+            self.assertIn("Complete reader-facing prose goes here", story)
+            self.assertNotIn("Mira walked through Alder Gate", story)
+
+    def test_prepare_rewrite_selective_preserves_existing_prose(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            worktree = self.make_rewrite_worktree(Path(temporary))
+
+            completed = subprocess.run(
+                [
+                    "pwsh",
+                    "-NoProfile",
+                    "-File",
+                    str(PREPARE_REWRITE),
+                    "-ProjectRoot",
+                    str(worktree),
+                    "-Story",
+                    "sample",
+                    "-Title",
+                    "Sample",
+                    "-Request",
+                    "Replace the ending but preserve the opening prose.",
+                    "-Scope",
+                    "Selective",
+                    "-KeepExact",
+                    "the opening sentence",
+                    "-Change",
+                    "the final decision",
+                    "-Cover",
+                    "Keep",
+                ],
+                cwd=worktree,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            prompt = (worktree / "stories/sample/prompt.md").read_text(encoding="utf-8")
+            story = (worktree / "stories/sample/story.md").read_text(encoding="utf-8")
+            self.assertIn("- Scope: SELECTIVE", prompt)
+            self.assertIn("- Outside named selections: KEEP EXACT", prompt)
+            self.assertIn("- Keep exact: the opening sentence", prompt)
+            self.assertIn("- Change or replace: the final decision", prompt)
+            self.assertIn("Mira walked through Alder Gate and chose to stay.", story)
+            self.assertNotIn("Complete reader-facing prose goes here", story)
+
+    def test_prepare_rewrite_reshape_uses_substantive_preservation_default(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            worktree = self.make_rewrite_worktree(Path(temporary))
+
+            completed = subprocess.run(
+                [
+                    "pwsh",
+                    "-NoProfile",
+                    "-File",
+                    str(PREPARE_REWRITE),
+                    "-ProjectRoot",
+                    str(worktree),
+                    "-Story",
+                    "sample",
+                    "-Title",
+                    "Sample",
+                    "-Request",
+                    "Keep the emotional throughline but reshape the plot.",
+                    "-Scope",
+                    "Reshape",
+                    "-Keep",
+                    "Mira's attachment to Alder Gate",
+                    "-Change",
+                    "the sequence of events",
+                    "-Cover",
+                    "Keep",
+                ],
+                cwd=worktree,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+            prompt = (worktree / "stories/sample/prompt.md").read_text(encoding="utf-8")
+            story = (worktree / "stories/sample/story.md").read_text(encoding="utf-8")
+            self.assertIn("- Scope: RESHAPE", prompt)
+            self.assertIn("- Outside named selections: KEEP", prompt)
+            self.assertIn("Complete reader-facing prose goes here", story)
+            self.assertNotIn("Mira walked through Alder Gate", story)
+
+    def test_pre_review_rejects_0823_voice_over_220_words(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root, passing_review=False)
+            self.use_create_dialogue_profile(story)
+            outline_path = story / "outline.md"
+            outline_path.write_text(
+                outline_path.read_text(encoding="utf-8").replace(
+                    "- Relationship movement:",
+                    "- Relationship movement: " + ("overflow " * 221),
+                ),
+                encoding="utf-8",
+            )
+
+            completed = self.validate(root, "PreReview", "sample")
+
+            self.assertNotEqual(0, completed.returncode)
+            self.assertIn("220-word limit", completed.stdout + completed.stderr)
 
     def test_pre_review_rejects_new_profile_outline_over_1200_words(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -335,6 +780,16 @@ class StorySystemTests(unittest.TestCase):
             completed = self.validate(root, "Final")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
             self.assertIn("1 current stories", completed.stdout)
+
+    def test_final_validation_accepts_create_dialogue_profile(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            self.use_create_dialogue_profile(story)
+
+            completed = self.validate(root, "Final")
+
+            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
 
     def test_final_validation_accepts_dialogue_na_for_story_without_dialogue(self):
         with tempfile.TemporaryDirectory() as temporary:

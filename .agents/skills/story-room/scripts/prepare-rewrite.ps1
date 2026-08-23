@@ -16,6 +16,17 @@ param(
     [Alias('ReferenceImages')]
     [string[]]$ReferenceImage = @(),
 
+    [ValidateSet('Rebuild', 'Reshape', 'Selective')]
+    [string]$Scope = 'Rebuild',
+
+    [string[]]$KeepExact = @(),
+
+    [string[]]$Keep = @(),
+
+    [string[]]$Change = @(),
+
+    [string[]]$Remove = @(),
+
     [ValidateSet('Auto', 'Keep', 'Regenerate')]
     [string]$Cover = 'Auto',
 
@@ -23,10 +34,11 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
-$activeCraftProfile = 'prospective-2026-08-21'
+$activeCraftProfile = 'prospective-2026-08-23'
 $managedHeadings = @(
     'Rewrite request',
     'Rewrite reference images',
+    'Rewrite selections',
     'Rewrite constraints'
 )
 $utf8Strict = [Text.UTF8Encoding]::new($false, $true)
@@ -126,6 +138,96 @@ function Test-ByteEquality {
     return $true
 }
 
+function Get-NormalizedSelections {
+    param([string[]]$Values, [string]$Label)
+
+    $normalized = [Collections.Generic.List[string]]::new()
+    $seen = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+    foreach ($value in $Values) {
+        if ([string]::IsNullOrWhiteSpace($value)) {
+            continue
+        }
+        $item = $value.Trim()
+        if ($item -match '[\r\n\p{Cc}]') {
+            throw "$Label selections must be single-line text without control characters."
+        }
+        if ($item -ieq 'none specified') {
+            throw "$Label selection reserves 'none specified' for the empty state."
+        }
+        if (-not $seen.Add($item)) {
+            throw "$Label contains a duplicate selection: $item"
+        }
+        $normalized.Add($item)
+    }
+    return @($normalized)
+}
+
+function ConvertTo-SelectionBlock {
+    param([string]$Label, [string[]]$Values, [string]$LineEnding)
+
+    if ($Values.Count -eq 0) {
+        return "- ${Label}: none specified"
+    }
+    return ($Values | ForEach-Object { "- ${Label}: $_" }) -join $LineEnding
+}
+
+function Assert-RewriteSelections {
+    param([string]$SelectionText, [string]$Label)
+
+    $scopeLines = @([regex]::Matches(
+        $SelectionText,
+        '(?m)^-[ \t]+Scope:[ \t]*(?<value>REBUILD|RESHAPE|SELECTIVE)[ \t]*\r?$'
+    ))
+    if ($scopeLines.Count -ne 1) {
+        throw "$Label must contain exactly one Scope: REBUILD, RESHAPE, or SELECTIVE line."
+    }
+    $outsideLines = @([regex]::Matches(
+        $SelectionText,
+        '(?m)^-[ \t]+Outside named selections:[ \t]*(?<value>FLEXIBLE|KEEP|KEEP EXACT)[ \t]*\r?$'
+    ))
+    if ($outsideLines.Count -ne 1) {
+        throw "$Label must contain exactly one Outside named selections line."
+    }
+    if ($scopeLines.Count -eq 1 -and $outsideLines.Count -eq 1) {
+        $expectedOutside = switch ($scopeLines[0].Groups['value'].Value) {
+            'REBUILD' { 'FLEXIBLE' }
+            'RESHAPE' { 'KEEP' }
+            'SELECTIVE' { 'KEEP EXACT' }
+        }
+        if ($outsideLines[0].Groups['value'].Value -cne $expectedOutside) {
+            throw "$Label scope $($scopeLines[0].Groups['value'].Value) requires Outside named selections: $expectedOutside."
+        }
+    }
+
+    $valuesByCategory = @{}
+    foreach ($category in @('Keep exact', 'Keep in substance', 'Change or replace', 'Remove')) {
+        $escaped = [regex]::Escape($category)
+        $lines = @([regex]::Matches(
+            $SelectionText,
+            "(?m)^-[ \t]+${escaped}:[ \t]*(?<value>[^\r\n]+?)[ \t]*\r?$"
+        ))
+        if ($lines.Count -lt 1) {
+            throw "$Label must contain at least one '$category' line."
+        }
+        $values = @($lines | ForEach-Object { $_.Groups['value'].Value.Trim() })
+        if ($values -contains '') {
+            throw "$Label contains an empty '$category' selection."
+        }
+        if ($values -icontains 'none specified' -and $values.Count -ne 1) {
+            throw "$Label cannot mix 'none specified' with named '$category' selections."
+        }
+        $valuesByCategory[$category] = $values
+    }
+
+    if (
+        $scopeLines[0].Groups['value'].Value -eq 'SELECTIVE' -and
+        $valuesByCategory['Change or replace'] -icontains 'none specified' -and
+        $valuesByCategory['Remove'] -icontains 'none specified'
+    ) {
+        throw "$Label SELECTIVE scope requires at least one Change or replace or Remove selection."
+    }
+}
+
 function Assert-PromptStructure {
     param([string]$PromptText)
 
@@ -150,18 +252,35 @@ function Assert-PromptStructure {
         $managed[$heading] = $matches
         $total += $matches.Count
     }
-    if ($total -notin @(0, 3)) {
+    if ($total -notin @(0, 3, 4)) {
         throw 'prompt.md has an incomplete managed rewrite-section set.'
     }
-    if ($total -eq 3) {
+    if ($total -gt 0) {
+        foreach ($heading in @('Rewrite request', 'Rewrite reference images', 'Rewrite constraints')) {
+            if ($managed[$heading].Count -ne 1) {
+                throw "prompt.md has an incomplete managed rewrite-section set; '$heading' is required."
+            }
+        }
+        if ($total -eq 3 -and $managed['Rewrite selections'].Count -ne 0) {
+            throw 'prompt.md has an invalid legacy rewrite-section set.'
+        }
         $requestMatch = $managed['Rewrite request'][0]
         $referenceMatch = $managed['Rewrite reference images'][0]
+        $selectionMatch = if ($managed['Rewrite selections'].Count -eq 1) { $managed['Rewrite selections'][0] } else { $null }
         $constraintMatch = $managed['Rewrite constraints'][0]
-        if (
-            $requestMatch.Index + $requestMatch.Length -ne $referenceMatch.Index -or
-            $referenceMatch.Index + $referenceMatch.Length -ne $constraintMatch.Index
-        ) {
-            throw 'Managed rewrite sections must be contiguous and in request, reference-image, constraints order.'
+        $isContiguous = $requestMatch.Index + $requestMatch.Length -eq $referenceMatch.Index
+        if ($null -ne $selectionMatch) {
+            $isContiguous = (
+                $isContiguous -and
+                $referenceMatch.Index + $referenceMatch.Length -eq $selectionMatch.Index -and
+                $selectionMatch.Index + $selectionMatch.Length -eq $constraintMatch.Index
+            )
+        }
+        else {
+            $isContiguous = $isContiguous -and $referenceMatch.Index + $referenceMatch.Length -eq $constraintMatch.Index
+        }
+        if (-not $isContiguous) {
+            throw 'Managed rewrite sections must be contiguous and ordered as request, reference images, optional selections, and constraints.'
         }
     }
     return $managed
@@ -186,21 +305,24 @@ function Assert-CandidatePrompt {
         throw 'Candidate Rewrite reference images section cannot be empty.'
     }
 
+    $selectionBody = (Get-LevelTwoSectionMatches $PromptText 'Rewrite selections')[0].Groups['body'].Value.Trim()
+    Assert-RewriteSelections $selectionBody 'Candidate Rewrite selections'
+
     $constraints = (Get-LevelTwoSectionMatches $PromptText 'Rewrite constraints')[0].Groups['body'].Value.Trim()
-    $coverLines = @([regex]::Matches($constraints, '(?m)^-[ \t]+Cover:[ \t]*(?<value>[^\r\n]+?)[ \t]*$'))
+    $coverLines = @([regex]::Matches($constraints, '(?m)^-[ \t]+Cover:[ \t]*(?<value>[^\r\n]+?)[ \t]*\r?$'))
     if ($coverLines.Count -ne 1 -or $coverLines[0].Groups['value'].Value.Trim() -notin @('AUTO', 'KEEP', 'REGENERATE')) {
         throw 'Candidate Rewrite constraints must contain exactly one valid Cover policy.'
     }
     $profileLines = @([regex]::Matches(
         $constraints,
-        '(?m)^-[ \t]+Craft profile:[ \t]*prospective-2026-08-21[ \t]*$'
+        '(?m)^-[ \t]+Craft profile:[ \t]*prospective-2026-08-23[ \t]*\r?$'
     ))
     if ($profileLines.Count -ne 1) {
-        throw 'Candidate Rewrite constraints must contain exactly one active 08-21 craft profile.'
+        throw 'Candidate Rewrite constraints must contain exactly one active 08-23 craft profile.'
     }
     $authorityLines = @([regex]::Matches(
         $constraints,
-        '(?m)^-[ \t]+Authority:[ \t]*the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding\.[ \t]*$'
+        '(?m)^-[ \t]+Authority:[ \t]*the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy\.[ \t]*\r?$'
     ))
     if ($authorityLines.Count -ne 1) {
         throw 'Candidate Rewrite constraints must contain exactly one authority line.'
@@ -216,6 +338,35 @@ if ($normalizedTitle -match '[\r\n\p{Cc}]') {
 }
 if ([string]::IsNullOrWhiteSpace($Request)) {
     throw 'Rewrite request cannot be blank.'
+}
+
+$normalizedKeepExact = @(Get-NormalizedSelections $KeepExact 'KeepExact')
+$normalizedKeep = @(Get-NormalizedSelections $Keep 'Keep')
+$normalizedChange = @(Get-NormalizedSelections $Change 'Change')
+$normalizedRemove = @(Get-NormalizedSelections $Remove 'Remove')
+$selectionOwners = @{}
+foreach ($entry in @(
+    [pscustomobject]@{ Label = 'KeepExact'; Values = $normalizedKeepExact },
+    [pscustomobject]@{ Label = 'Keep'; Values = $normalizedKeep },
+    [pscustomobject]@{ Label = 'Change'; Values = $normalizedChange },
+    [pscustomobject]@{ Label = 'Remove'; Values = $normalizedRemove }
+)) {
+    foreach ($value in $entry.Values) {
+        if ($selectionOwners.ContainsKey($value)) {
+            throw "Rewrite selection '$value' appears in both $($selectionOwners[$value]) and $($entry.Label)."
+        }
+        $selectionOwners[$value] = $entry.Label
+    }
+}
+
+$scopeValue = $Scope.ToUpperInvariant()
+$outsideValue = switch ($Scope) {
+    'Rebuild' { 'FLEXIBLE' }
+    'Reshape' { 'KEEP' }
+    'Selective' { 'KEEP EXACT' }
+}
+if ($Scope -eq 'Selective' -and $normalizedChange.Count -eq 0 -and $normalizedRemove.Count -eq 0) {
+    throw 'Selective scope requires at least one -Change or -Remove selection.'
 }
 
 if ([string]::IsNullOrWhiteSpace($ProjectRoot)) {
@@ -287,12 +438,24 @@ $reviewTemplate = Read-Utf8File $reviewTemplatePath 'Review template'
 if (@(Get-LevelTwoSectionMatches $outlineTemplate.Text 'Voice').Count -ne 1) {
     throw 'Outline template must contain exactly one Voice section.'
 }
-foreach ($field in @('Narrative texture', 'Conversational texture', 'Rhetorical ownership', 'Pressure behavior', 'Anti-default')) {
+$rewriteOutlineFields = @(
+    'Dialogue promise',
+    'Dialogic medium',
+    'Dialogue engine',
+    'Narrative texture',
+    'Conversational texture',
+    'Rhetorical ownership',
+    'Pressure behavior',
+    'Relationship movement',
+    'Anti-default'
+)
+foreach ($field in $rewriteOutlineFields) {
     $escaped = [regex]::Escape($field)
-    if (@([regex]::Matches($outlineTemplate.Text, "(?m)^-[ \t]+${escaped}:[ \t]*$")).Count -ne 1) {
+    if (@([regex]::Matches($outlineTemplate.Text, "(?m)^-[ \t]+${escaped}:[ \t]*\r?$")).Count -ne 1) {
         throw "Outline template must contain exactly one empty '$field' field."
     }
 }
+$rewriteOutlineBytes = $outlineTemplate.Bytes
 foreach ($heading in @('People', 'Places', 'Continuity', 'Craft', 'Findings')) {
     if (@(Get-LevelTwoSectionMatches $reviewTemplate.Text $heading).Count -ne 1) {
         throw "Review template must contain exactly one '$heading' section."
@@ -328,7 +491,7 @@ if (-not $front.Success) {
 }
 $titleMatches = @([regex]::Matches(
     $front.Groups['value'].Value,
-    '(?m)^title:[ \t]*(?<value>[^\r\n]*)$'
+    '(?m)^title:[ \t]*(?<value>[^\r\n]*)\r?$'
 ))
 if ($titleMatches.Count -ne 1 -or [string]::IsNullOrWhiteSpace($titleMatches[0].Groups['value'].Value)) {
     throw 'Current story.md frontmatter must contain exactly one non-empty title.'
@@ -380,6 +543,15 @@ else {
     ($referenceImageLabels | ForEach-Object { "- ``$($_.Replace('`', "'"))``" }) -join $promptEol
 }
 
+$selectionBlock = @(
+    "- Scope: $scopeValue",
+    "- Outside named selections: $outsideValue",
+    (ConvertTo-SelectionBlock 'Keep exact' $normalizedKeepExact $promptEol),
+    (ConvertTo-SelectionBlock 'Keep in substance' $normalizedKeep $promptEol),
+    (ConvertTo-SelectionBlock 'Change or replace' $normalizedChange $promptEol),
+    (ConvertTo-SelectionBlock 'Remove' $normalizedRemove $promptEol)
+) -join $promptEol
+
 $coverValue = $Cover.ToUpperInvariant()
 $managedBlock = @(
     '## Rewrite request',
@@ -390,11 +562,15 @@ $managedBlock = @(
     '',
     $referenceImageBlock,
     '',
+    '## Rewrite selections',
+    '',
+    $selectionBlock,
+    '',
     '## Rewrite constraints',
     '',
     "- Cover: $coverValue",
     "- Craft profile: $activeCraftProfile",
-    '- Authority: the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding.'
+    '- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.'
 ) -join $promptEol
 
 if ($managed['Rewrite request'].Count -eq 1) {
@@ -445,22 +621,37 @@ $pendingFront = (
     $pendingFrontValue +
     $storyText.Substring($frontValueEnd, $front.Length - $frontValueEnd)
 )
-$pendingStory = (
-    $pendingFront +
-    $storyEol +
-    "# $normalizedTitle" +
-    $storyEol +
-    $storyEol +
-    '<!-- Complete reader-facing prose goes here. -->' +
-    $storyEol
-)
+$pendingStory = if ($Scope -eq 'Selective') {
+    $existingBody = $storyText.Substring($front.Length)
+    $heading = [regex]::Match($existingBody, '(?m)^#[ \t]+[^\r\n]+')
+    if (-not $heading.Success) {
+        throw 'Selective rewrite requires an existing reader-facing H1 title.'
+    }
+    $pendingBody = (
+        $existingBody.Substring(0, $heading.Index) +
+        "# $normalizedTitle" +
+        $existingBody.Substring($heading.Index + $heading.Length)
+    )
+    $pendingFront + $pendingBody
+}
+else {
+    (
+        $pendingFront +
+        $storyEol +
+        "# $normalizedTitle" +
+        $storyEol +
+        $storyEol +
+        '<!-- Complete reader-facing prose goes here. -->' +
+        $storyEol
+    )
+}
 if ($pendingStory -notmatch '(?s)\A---(?:\r\n|\n|\r).*?(?:\r\n|\n|\r)---(?:\r\n|\n|\r){2}#\s+\S') {
     throw 'Candidate story.md is malformed.'
 }
 
 $candidates = [ordered]@{
     'prompt.md' = ConvertTo-Utf8Bytes $pendingPrompt $promptFile.HasBom
-    'outline.md' = $outlineTemplate.Bytes
+    'outline.md' = $rewriteOutlineBytes
     'story.md' = ConvertTo-Utf8Bytes $pendingStory $storyFile.HasBom
     'review.md' = $reviewTemplate.Bytes
 }
@@ -544,14 +735,22 @@ if ($removeCover) {
     $changed.Add('title-image.jpg')
     $coverFile = 'removed; fresh generation required after PASS'
 }
+$nextStep = if ($Scope -eq 'Selective') {
+    'Run fresh-agent OUTLINE and selective WRITE stages against the retained prose, then PreReview and fresh REVIEW.'
+}
+else {
+    'Run fresh-agent OUTLINE and whole-story WRITE stages from the amended prompt and selections, then PreReview and fresh REVIEW.'
+}
 
 [ordered]@{
     story = $Story
     directory = $relativeDirectory
     mode = 'REWRITE'
+    scope = $scopeValue
+    outsideNamedSelections = $outsideValue
     craftProfile = $activeCraftProfile
     cover = $coverValue
     coverFile = $coverFile
     changed = @($changed)
-    next = 'Run the normal fresh-agent OUTLINE, WRITE, PreReview, and REVIEW stages from the amended prompt.'
+    next = $nextStep
 } | ConvertTo-Json
