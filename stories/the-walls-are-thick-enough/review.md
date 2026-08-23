@@ -6,15 +6,18 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Anzara | new | Also addressed as Your Majesty and styled the empress; no exact, alias, close-spelling, or confusing prior use found. She is the twenty-nine-year-old treaty bride, focal character, and Demez's lover. |
-| Demez | new | No exact or alias reuse found; the nearby current name Dema Vask remains readily distinct by full form, ending, cadence, role, and story context. He is the thirty-four-year-old confined half-brother of Peleth and Anzara's lover. |
-| Peleth | new | Also styled Emperor Peleth; no exact or alias reuse found. Orrin Pell, the released baseline form Pell, and current Pellik remain readily distinct by spelling, cadence, role, and story context. He is Anzara's absent husband and Demez's older half-brother. |
+| Tazri Solun | new | Thirty-four-year-old duchess of Merevale and imperial bride; no exact, alias, close-spelling, or confusing reuse found, and Solstice Evening Bell remains readily distinct. |
+| Jaseth Varo | new | Thirty-nine-year-old Merevale treaty notary; no exact or alias reuse found, while Jasper Renlow, Leth Varen, Meyda Varr, and Varkesh remain distinct in full form, cadence, setting, and role. |
+| Mireth | new | Tazri's chief attendant and petition witness; no exact or alias reuse found, and Miren, Miri, and Miriam Velez remain readily distinct. |
+| Emperor Belisar | new | Tazri's husband and the ruler seeking control of Merevale's levy; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The palace, forbidden garden, pavilion, wall passage, west court, and south gate are unnamed local places. |
+| Gilded Garden | new | Forbidden palace garden containing the sunset witness walk and warming room; no exact, alias, close-spelling, or confusing reuse found. |
+| Karevic Palace | new | Belisar's guarded seat with the bridal rooms and diplomatic gate; no exact, alias, close-spelling, or confusing reuse found. |
+| Merevale | new | Tazri's coastal duchy and the territory protected by the petition; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -29,4 +32,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The prompt's explicit-content exception governs this story only and leaves the universe-wide ceiling unchanged. Anzara and Demez are explicitly twenty-nine and thirty-four; his first refusal holds through an offered exit, her renewed request changes the terms, and their reciprocal initiation, pauses, precautions, aftercare, and separate dawn routes preserve pregnancy, staff, faction, and confinement risk without presuming another night. Their dialogue stays differentiated and tactical through the final practical exchanges rather than becoming a consent checklist or closing thesis.
+- Notes: The story-local explicit-content override is observed with two named adults who are sober and freely choosing; political and exit decisions precede renewed sexual consent, boundaries are negotiated and honored through pauses and interruption, and rank, leverage, or distress is not eroticized into compulsion. The filing, safe-conduct, accreditation loss, suspension, confinement, and dismissal remain causally legible, while Tazri's distinctions, Jaseth's route logic, Mireth's logistics, and Belisar's legal reductions keep dialogue context-bound through the practical ending.
