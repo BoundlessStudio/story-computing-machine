@@ -8,362 +8,448 @@ canon: false
 
 # Nobody Spends Her Name
 
-At one in the morning the rain struck the office awning like thrown gravel. Elspeth Kedri stood beneath it, one hand on the locked outer door, while an old man in the western blocks promised to fill the river with her people.
+By the time the runner bled through the second towel, Elspeth had been awake for seventy-six hours and somebody had learned to write with her hand.
 
-"Your crew burned the wrong garage," he said through her phone. "My brother was inside."
+She was twenty-three. The runner had been old enough to carry her on his shoulders when she was small, and he had spent his last strength crossing three hostile rooms to put the papers at her feet.
 
-"Your brother ordered the card-room shooting."
+He lay between the desk and the locked door of her private room, one shoe gone, breath bubbling thinly in his throat. Rain shone on the boards beneath him. He had come in through the back stairs, past three men who were supposed to stop a dying stranger before he reached her chair. One of those men now stood outside with his nose against the wall. The other two had left their posts on an order carrying her name.
 
-"He still had my blood."
+The driver kept pressure on the runner's belly. She was twice Elspeth's age, gray beginning at her temples, sleeves rolled above old burn scars. She looked up once and shook her head.
 
-The two men guarding the entrance watched the street. They were each more than twice Elspeth's age. Neither tried to hurry her out of the weather.
+On the desk lay two folded orders and a police deployment notice. The orders carried Elspeth's authorization marks, the phrases her crews expected, even the blunt little diagonal she cut across a date when she was angry. One sent four men toward the older rival's daughter. The other sent another crew after his younger son. The police paper promised a public-safety operation six minutes after the murders were meant to begin.
 
-"Hold your cars west until sunrise," she said. "Nothing crosses the river road."
+Six minutes: enough time for both houses to answer in blood, not enough time for either to clear its rooms before armored police arrived to collect guns, records, and whichever survivors could still be bought.
 
-"You asking?"
+The runner caught Elspeth's wrist. His nails were blue.
 
-"I'm giving you my name on it."
+“Not yours,” he said.
 
-The older guard looked at her then. He had cut throats for her uncle and buried two sons of his own. Fear did not change his face much, but it changed where he put his hands: away from his holster, palms visible.
+“I know.”
 
-The western boss breathed once through his nose. "You have one hour to give me a reason."
+His grip tightened as though she had misunderstood. “Said your voice—wouldn't count.”
+
+His hand opened. The driver felt for a pulse anyway.
+
+Elspeth read the first order again. The letters crawled out of line, then settled. Her eyes burned. Behind them, something small and black kept beating its wings.
+
+“The teams,” she said.
+
+“One car answered,” the driver said. “Already moving. Second won't pick up. We have a man following the first.”
+
+“Get the lieutenant.”
+
+He was brought in by his collar. Twenty-eight, broad through the chest, and so frightened his teeth clicked when he saw the runner. He had used Elspeth's desk all afternoon while she settled trouble in three different rooms. He knew where the blank orders were kept. He knew which drawer held the seals.
+
+Elspeth struck him across the brow with her pistol. He went down on one knee. Blood threaded into his eye.
+
+“Who opened my room?”
+
+“Nobody.”
+
+She hit him again, lower. “Try it without the lie.”
+
+His phone began to ring. He flinched toward it, then stopped himself with both hands in sight.
+
+The driver checked the screen. “First car.”
+
+Elspeth held out her hand. The lieutenant gave her the phone.
+
+“Turn around,” she said.
+
+Road noise filled the answer. A grown man breathing through his nose. “We were told you might say that.”
+
+“By him?”
+
+The man did not answer.
+
+Elspeth's attention slipped. For two seconds she stared at the dead runner's bare foot and could not remember which killing she was stopping.
+
+“Which target?” she asked.
+
+“The daughter,” the driver said.
+
+“Which target?” Elspeth said again, into the phone.
+
+“The daughter. But the old man said your voice doesn't count if you call direct. Said you'd been awake too long and someone might have you at gunpoint.”
+
+The lieutenant wiped blood from his eyebrow. His relief was worse than his fear. “He told all the floor leads that yesterday. Called it a continuity rule.”
+
+Elspeth looked at him. She had mistaken the man who carried the message for the man who had written it. The underboss had built her authorization phrases years ago, when her feet had not reached the floor from the office chair. He had never needed her drawer. He had only needed everyone to believe he could speak for her when she was weak.
+
+“Boss?” the man on the phone said.
+
+Her pistol was still warm from the lieutenant's skin. “Turn the car.”
+
+“I need to know which voice—”
+
+“Mine. Turn it, or the car following you puts you in the road.”
+
+Silence. Then the distant click of an indicator.
+
+The driver listened to another phone. “They're coming back.”
+
+Elspeth lowered her gun. The lieutenant stayed on his knee.
+
+“Stand up,” she said. “Find the second team.”
+
+He stood. No thanks. That helped.
+
+* * *
+
+The driver took the long sedan south through rain, one hand on the wheel and one pressed to an earpiece. The lieutenant sat beside her with a towel against his eyebrow. Elspeth rode in the rear, the orders flat across her knees and the dead runner's blood drying in the creases of her hand.
+
+The underboss did not answer any of her calls.
+
+The older rival answered on the first ring.
+
+“My daughter is alive,” he said. His voice moved slowly. It made room for every word to become a precedent. “My son is not at home.”
+
+“My first car turned back.”
+
+“Then one of my children has not been murdered by you.”
+
+“Bring your daughter to the old athletic club. Basement pool.”
+
+The driver looked at Elspeth in the mirror, then shook her head. “South entrance gives him the gallery.”
+
+Elspeth heard only *gives him* and almost snapped at her. Then the rest arrived.
+
+“East service door,” she told the rival.
+
+He was quiet long enough for the rain to fill the car. “You used that door last time.”
+
+“So you'll check it.”
+
+“I'll check all of them.”
 
 He hung up.
 
-Elspeth entered the building. She was twenty-three years old, had been awake since three mornings ago, and loved every ugly floor of it. The ground level took bets and washed cash through a bar. The next two floors held rooms where people could be frightened without neighbors hearing. At the top, behind steel and three armed checkpoints, was the office no man had inherited for her.
+The driver took the next corner hard. “Second team still dark. One of ours from the first car has a chest wound. He needs a room now, not after.”
 
-Her sharp black suit was still wet from containing the western retaliation. Her fedora left a dark ring on the corner of the desk when she took it off.
+“Bring him to the club.”
 
-A gray envelope waited on the blotter.
+“He's leaking bad.”
 
-No writing. No seal. It had been placed exactly where her right hand fell when she sat down.
+“Then bring the man who knows how to keep him alive.”
 
-The guard who had swept the room before her arrival stopped in the doorway. "That wasn't there."
+The driver relayed it without arguing. In the front seat, the lieutenant called one number after another. Each time he said only, “Report,” listened, and ended the call. Older men had laughed when Elspeth first put him on a floor. They no longer laughed where she could hear it. Tonight he looked sick enough to be nineteen.
 
-"The private stair?"
+The ward captain answered on Elspeth's third attempt.
 
-"Bolted. Windows latched. Hall never empty."
+“I understand there may be heightened activity,” he said. “Any deployment in the district would be an independent response based upon credible indications of an imminent disturbance.”
 
-Four people possessed office keys. Elspeth was one. Olek Velcor, who had run the business for her uncle, was another. Odette Naverin had the third and had not answered a call since yesterday evening. The fourth key hung from the belt of the man in the doorway.
+“Come to the club.”
 
-"Close it," Elspeth said.
+“That would create an appearance of coordination which, given the sensitivities—”
 
-Inside the envelope lay six photographs and a municipal route sheet. Olek sat in an underground garage with Councillor Dastin Axholm. In one picture Axholm was sliding a police folder across the hood of a car. In another Olek had unfolded a map of the condemned riverside abattoir. Red marks closed both approaches at 4:10 a.m. A typed page assigned two unregistered cars to meet the western party before the cordon shut.
+“Say it again.”
 
-The execution list was headed BY ORDER OF ELSPETH KEDRI.
+He mistook fatigue for invitation and began explaining. Jurisdiction. Officer readiness. Unverified complaints from responsible residents. His words arrived ironed and folded, each one hiding the same dirty shirt.
 
-Her own name came first beneath that lie. Odette's came second. Then the western boss and his captains.
+Elspeth closed her eyes. The black wings beat behind them. “You have the paper I have.”
 
-The last photograph was folded around a strip of cream silk wet with blood. Elspeth knew the torn cuff, including the black stitch Odette had put through it after Elspeth ripped the sleeve six months earlier. She held it against the desk lamp. Still tacky. Recent.
+He stopped.
 
-Proof enough to move. Not proof of who had crossed three checkpoints, or whether Odette had stolen the papers for her or helped prepare them before changing sides.
+“Basement pool,” she said. “Before your operation starts. Otherwise every house you ever took money from gets a copy before the first shield reaches a door.”
 
-Elspeth called Olek.
+“Threats against public servants are taken seriously.”
 
-"I was about to ring you," he said. His voice carried the soft patience he used when teaching younger men to misunderstand their own ideas. "The western situation needs an adult hand."
+“Good.”
 
-"Odette gave me something."
+She ended the call.
 
-He did not answer at once.
+The lieutenant twisted around. “Found the second car.”
 
-"She says you're clean," Elspeth continued. "Axholm isn't. She wants your chair when I settle him."
+“Where?”
 
-"And you believe her?"
+“Two streets off the club. Nobody in front.”
 
-"I want to see her say it with a gun in my hand."
+“Fuck.” The driver pressed harder on the accelerator.
 
-"Then come to the peace table at the abattoir. Four o'clock. Alone would be sensible, unless you want the west to think you're frightened."
+* * *
 
-The paper said 4:10. Olek had thrown away ten minutes because he now feared what Odette might have told her.
+The athletic club had been closed long enough for the foyer mirrors to wear gray skins. Below, the empty pool sank through the basement like an opened grave. Rainwater had collected in the deep end. Broken lane markers hung from rusted hooks, and the painted depth numbers on the tile looked like measurements beside a corpse.
 
-"Keep her breathing," Elspeth said.
+Elspeth entered through the service door with the driver, the lieutenant, and four others. One of the others was carried between two men, his shirt black over the ribs. Nobody asked where to put him. They laid him near the locker-room wall, behind tile and concrete, and the driver knelt to hold him still while another man worked.
 
-"The woman has made that expensive."
+The older rival arrived across the pool deck with nine armed people and his daughter. The daughter looked older than Elspeth by perhaps five years. She wore a dark raincoat and held her pistol low, not hidden. Her father did not place her behind him. When one of his men tried, she stepped aside and the man let her.
 
-"Whatever she cost you, stop collecting."
+The rival stopped beyond the diving board. His people watched Elspeth's hands, the doors, the gallery above. None watched her face for signs of childishness. That insult had been beaten out of them somewhere else.
 
-"You always did confuse her price with her value."
+“Where is my son?” he asked.
 
-Elspeth ended the call. Olek knew she would come; she had given him the wrong reason why.
+“Not with my people.”
 
-She took three loyal men downstairs. One drove; the older guard sat beside him; a younger gunman rode in back. Before the car pulled from the curb, she called the western boss again.
+“That's not an answer.”
 
-"Olek ordered your brother's death," she said. "He wants your retaliation at the abattoir at four. Axholm's vice unit closes the road at 4:10 and buries whoever remains."
+“It's what I have.” Elspeth put the two orders and the deployment sheet on the wet tile. “These came out of my room with a dead man.”
 
-"Send the papers."
+His daughter looked down but did not approach. “Your car reached me.”
 
-"You get a photograph. The rest keeps me alive."
+“It turned.”
 
-She sent him Olek and Axholm beside the map.
+“After it showed itself.”
 
-"I asked for a reason not to cross," he said. "This is a reason to cross early."
+“Yes.”
 
-"Olek has a narcotics shipment reaching the river depot before four. It's yours. So are the two disputed blocks below your clubs."
+The rival's jaw shifted. Kin had a different arithmetic. A threat interrupted still counted as a threat; a living child did not erase the road taken toward her.
 
-The driver glanced at her in the mirror. Those blocks paid a quarter of the week's wages. The shipment carried enough white powder to purchase judges, funerals, and another season of war.
+The ward captain came in with two plainclothes officers and irritation arranged on his face. He saw the rival's force, then Elspeth. The irritation thinned.
 
-The western boss said, "Your uncle once promised my men an open south door. He put your name on that too."
+“This gathering is exactly the kind of escalatory event our planned visibility was intended to discourage.”
 
-Rain feathered across the windshield. Elspeth saw, without permitting herself the memory, a steel table and her uncle's rings sliding in blood.
+The rival's daughter gave a short, unbelieving laugh.
 
-"He made that promise," she said. "I didn't."
+“Planned visibility,” the captain repeated, softer. Under pressure he did not shorten. He poured more words into every hole. “A limited intervention to ensure that any emerging conflict remains contained and does not migrate into residential areas.”
 
-"Six of mine died learning the difference."
+Elspeth pointed at the deployment sheet. “You sent that before there was a conflict.”
 
-"The ones who lived received his streets."
+“I don't authenticate material in criminal possession.”
 
-"Because you paid us."
+“Pull the raid. You keep the years behind this paper. You don't, the paper goes out and you stand here when your men come through the doors.”
 
-"I'm offering you the load and two blocks now. In my name. Stay west of the river road until sunrise."
+“My men are not a bargaining unit.”
 
-The old man let the silence make her feel the size of what she had cut away. She loved the empire because no patron had bought it for her and no older man could claim he had placed it in her lap. Tonight she was feeding pieces of it to a rival before anyone had fired at her.
+The rival spoke without looking at him. “Your men have always been merchandise.”
 
-"The load, both blocks, your collectors gone by noon," he said. "My cars stay west until sunrise."
+The captain's mouth tightened.
 
-"Every term."
+“And you,” the rival said to Elspeth. “If I walk out with no payment, the next child with your seal learns my family can be hunted and I will attend a meeting afterward.”
 
-"Then my cars stay west. If you lie, I take the next two with them."
+“Take payment from the man who spent my name.”
 
-"Done."
+“Put him in front of me.”
 
-The line closed. Nobody in the car offered an opinion.
+A door opened in the gallery.
 
-Axholm kept his private pleasures in the top suite of an expensive hotel whose staff knew not to recognize him. At two, a man in his thirties opened the service door wearing only a gold chain and a streak of cocaine beneath his nose. The younger gunman drove him backward with one shoulder. Music and heat rolled into the corridor.
+The underboss leaned over the rail. He had taken off his raincoat and rolled his cuffs neatly, as if he were about to carve a roast. Six of Elspeth's people stood behind him. Two kept their guns down. The others did not.
 
-Two naked men in their thirties separated on a chaise. A woman old enough to have gray at her temples sat astride a zoning official in his forties, drinking from the bottle he held to her mouth. Cut crystal crowded the low table. White powder covered a black plate in three ruined lines.
+“There she is,” he said. “We have half the city awake, police moving, children in gun cars, and she's holding court in an empty pool.”
 
-Axholm stood by the bedroom curtains in silk trousers, watching a woman of about thirty button her dress. His bodyguard rose from an armchair and pulled a pistol from beneath a discarded bra.
+The lieutenant's hand moved toward his weapon.
 
-The older guard hit the floor. Elspeth fired first.
+“Don't,” Elspeth said.
 
-Her round entered beneath the bodyguard's eye and blew a red fistful of him across the curtain. The woman in the dress screamed. The bodyguard took two steps without a face and collapsed into the drinks table, driving a broken glass into his throat. Blood pumped through the ice while the suite emptied into the bedroom and bath.
+The underboss smiled at the command as though she had performed a trick he taught her. “Give me the pistol, sweetheart. We can still bring this in.”
 
-Axholm's bare stomach shook. "This is an official residence."
+“Call off the second team.”
 
-"Get dressed."
+“Our people are here.”
 
-"You cannot shoot your way out of murdering my security officer."
+“All of them?”
 
-"He drew first. Your statement can say he fired."
+His eyes moved to the orders on the floor. “You found both letters. Good. Saves us pretending this can be repaired privately.”
 
-The bodyguard had not fired at all. Axholm looked at the dead man's pistol and understood how little the distinction mattered here.
+Nobody had told him there were two.
 
-Elspeth put his phone against his chest. "Call vice. Move the river cordon to Olek's north garage. Tell them his staging crew has automatic weapons and a city witness."
+The rival looked up at him. His people raised their weapons by degrees.
 
-"That would require authorization."
+The ward captain stepped backward. “I am not party to an internal succession matter.”
 
-She pushed her thumb into the soft shelf beneath his jaw. His heels lifted. "You sell authorization by the hour. Sell me this fucking hour."
+“You don't need to be,” the underboss said. “Your operation begins on schedule. We settle the house and give you a quiet district by morning.”
 
-Axholm called. He spoke to the vice commander in the careful bloodless language of a man relocating public works: credible intelligence, immediate risk, controlled intervention. The unit confirmed its turn north. Elspeth made him leave the connection open and hand the phone to her younger gunman.
+The captain went completely still.
 
-While Axholm dressed, he looked at Elspeth's blood-marked cuff and found courage in her exhaustion. "I saw you in that killing room four years ago. Nineteen, white as the tile. Olek held your captains together while you shook."
+Elspeth had not said the time aloud either.
 
-"Shoes."
+For a moment, every choice in the room showed its edge. The rival could kill everyone across the pool and call it family duty. The captain could let his approaching officers turn the basement into evidence and bodies. Elspeth's people could choose the man who had hired them, fed them, taught many of them the first rules—or the woman in front of the guns.
 
-"He made your succession possible. Men remember that, whatever story they tell in your bars."
+Then the lights died.
 
-"Shoes, Dastin, or you walk barefoot through the lobby beside the corpse."
+The first shot came from the dark behind the captain. It tore open one of the rival's men at the mouth. Teeth and blood struck the tile. The second shot broke the diving board. The daughter turned toward the gallery, and Elspeth saw the pale blink of a muzzle above her.
 
-He bent for them.
+Elspeth hit her around the waist.
 
-The room skipped.
+They went over the pool edge together. The daughter struck the sloped bottom on one hip. Elspeth landed across her and felt a bullet drag fire through the meat above her shoulder blade. Her face hit wet tile. Blood filled her mouth where she bit her tongue.
 
-One moment Axholm had a shoe in his left hand. The next he was wearing both, his jacket was closed, and the older guard was saying, "Boss?" for what sounded like the second time. Eight seconds, perhaps ten, had been eaten clean out of Elspeth's sight by three days awake. Axholm's right hand came out of his jacket empty.
+Gunfire rolled around the empty basin, concussive and directionless. Tile burst in white sprays. A man toppled into the shallow end and landed with his leg folded backward; his scream ended under the next volley.
 
-They searched him. No phone. No weapon. He smiled without showing teeth.
+“My father?” the daughter shouted.
 
-The rain highway curved above the warehouse roofs. The driver kept them in the center lane, the older guard beside him. In back, the younger gunman held Axholm against the right-hand door while Elspeth sat on the councillor's left. His first phone remained open on the gunman's knee. The vice commander reported units assembling at the north garage.
+Elspeth lifted her head. Shapes moved against the red emergency lights. The older rival had taken cover behind a pillar. He was firing toward the locker-room door, where two of the missing team had appeared among the captain's men.
 
-High beams flooded the rear window.
+“Alive.”
 
-A black sedan struck them from behind and drove their car sideways. A van closed along the left. Gunfire cracked through the doors. The older guard's head burst against the windshield, spraying the driver with scalp and bone. The driver fought the wheel until a second burst opened his throat.
+“You're hit.”
 
-Their car hit the concrete barrier nose first. Axholm climbed across the dead weight of the driver before the metal stopped screaming. The younger gunman caught his coat and was dragged halfway between the seats.
+“Move.”
 
-Someone tore open the left rear door. Elspeth fired through it and missed. A thick arm hooked around her neck. She bit the hand until skin came away in her teeth, but the attacker hauled her into the rain.
+They crawled along the pool wall. The daughter dragged one leg. At the ladder recess she turned and fired twice, not at the loudest target but at the shape descending the steps. The shape fell forward, gun clattering into the deep end.
 
-Her back struck the road. His knife went under her ribs.
+Above them the underboss shouted, “Hold your fire! We are not killing our own over her mistake.”
 
-The pain arrived hot and complete. He leaned on the blade and called her a little cunt. Elspeth trapped his wrist with both hands, put the muzzle under the fold of his chin, and fired. The top of his skull slapped wetly against the car roof. His weight pinned the knife in her side.
+His people heard *our*. Some obeyed. Some kept shooting. One man in the gallery lowered his weapon and stared at it, unable to decide which act would make him a traitor.
 
-She shoved him off and pulled free. Blood filled her waistband.
+The driver appeared at the deep end, gray hair loose, one sleeve wet to the elbow with somebody else's blood. “Boss. Locker room's lost. We need the east door.”
 
-The younger gunman shot the van driver through its open side door. Another attacker ran from the black sedan, saw Axholm crawling toward the barrier, and hesitated because the councillor was supposed to be protected. Elspeth used the hesitation. The attacker's knee came apart; the next shot entered his mouth and knocked teeth onto the highway.
+“Take it.”
 
-The last attacker abandoned the black sedan and ran into the rain. The van rolled into a drainage wall and stopped.
+“Need two.”
 
-Axholm lay in rainwater with a bullet furrow through his shoulder. A small phone glowed beneath him. Its last sent message read SHE TOOK ME. COMING RIVER.
+Elspeth looked up. “Lieutenant.”
 
-Those missing seconds in the hotel had purchased the ambush. Her driver and the older guard had paid for them with their heads.
+He had the ward captain on the floor behind the tiled bench. Blood covered half his face from where she had struck him, and more soaked his shirt at the side. He heard her the second time.
 
-"You need me alive," Axholm said. His civic diction had gone. "You kill me, every badge in the city comes for you."
+“Lieutenant!”
 
-Elspeth pressed the phone into his wound until he howled, then put it inside her coat beside the gray envelope. "Get in their car."
+He glanced over.
 
-The younger gunman held his own bleeding forearm against his chest. "We can turn east. Doctor first."
+“East door. With her.”
 
-Odette's blood stiffened the envelope inside Elspeth's coat. She wanted Odette alive for reasons Olek had priced correctly, reasons Elspeth had lied about even when Odette was naked beneath her.
+The driver shook her head. “He's opened up.”
 
-"We go to the river," she said.
+“Can you move?” Elspeth called.
 
-Elspeth traded her nearly empty pistol for the dead attacker's weapon.
+The lieutenant pressed his hand to his side and nodded once.
 
-They took the attackers' sedan. Its rear window was already cracked, its seats smelled of cigarettes, and one door refused to latch. It still moved.
+“Then go.”
 
-The condemned abattoir had no sign, only a brick shell beside the swollen river. Its south loading shutter stood eight feet open. The younger gunman drove through and stopped with the headlights pointing north.
+He went. No speech about loyalty, no look waiting to be thanked. He hauled the captain behind the bench and crossed through the shots bent almost double.
 
-Their beams divided the hall. Thirty yards ahead, Olek waited behind a steel inspection table near the north doors. Three gunmen held the west side among square support columns; the oldest was one of his captains. Two more stood on the raised east platform. A sixth guarded the north exit.
+The daughter watched him. So did her father.
 
-Odette was tied to a chair at the platform's near end, fifteen yards from Elspeth. Cord fixed her ankles to the lower bar and her right wrist to the chair arm. Her left wrist rested oddly beneath a loop that had been cut almost through. Her face was swollen shut on one side. Blood had dried black down her blouse; fresh red ran through it where her captors had opened the wounds again.
+The captain clawed for his radio. “Units are entering.”
 
-She was thirty, furious, and alive.
+Elspeth pushed herself up the slope of the pool. Her left arm hung badly, but it moved. “Call them off.”
 
-Elspeth pulled Axholm from the left rear door. The younger gunman came around the hood, set Axholm's open phone there, and kept his pistol raised. The engine block stood between them and the three men to the west. Elspeth held the councillor in front of her, squarely in Olek's line of fire.
+“The scene is active. Withdrawal would expose personnel to unmanaged risk.”
 
-"You brought Axholm," Olek said.
+A plainclothes officer beside him took a round in the neck. He clapped both hands over the wound and made a wet, astonished noise. The captain stared as the blood slipped between the man's fingers.
 
-"He bought your cordon."
+“They come in,” Elspeth said, “they find you standing with him.” She nodded toward the gallery. “And one of yours dead from his gun.”
 
-Olek gestured toward Odette with his pistol. "She copied my papers, killed my clerk, and left you the blood so you'd come running. Put a bullet in her. Then we discuss whether you keep the east collections under me."
+The captain looked at the underboss. The old man's attention was on Elspeth's crew, his hands spread as if calming difficult relatives.
 
-Elspeth raised her weapon. Odette watched the barrel without pleading.
+“Temporary hold,” the captain said into the radio. “All units maintain perimeter pending threat reassessment. Do not breach. Repeat, do not breach.”
 
-"That's your offer?" Elspeth asked.
+The sirens outside reached the building and stopped there.
 
-"It's the last profitable one you'll hear."
+The gunfire thinned. The driver and lieutenant forced the east door open, and cold rain-air moved through the basement. Two of Elspeth's wounded crawled toward it. One of the underboss's men tried to block them. The driver shot him through the cheek; he fell choking against the wall, one eye working as his hands searched uselessly for the ruin of his face.
 
-Axholm saw six guns around Olek and two around Elspeth. He began to change owners.
+“Enough,” Elspeth said.
 
-"Mr. Velcor," he said, "the municipal response can still be contained. Release me and present this as an internal stabilization. I can restore the river deployment and identify Kedri as the sole aggressor."
+She climbed out of the pool with the rival's daughter braced against her good side. Her voice barely reached the gallery, but the shooting had thinned enough for everyone there to hear.
 
-Olek looked past Elspeth to the open phone on the hood. "Can you pull vice off my garage?"
+The underboss's people looked down at them. At the daughter Elspeth had pulled under the first shot. At the lieutenant bleeding beside an open door. At the underboss, clean behind the rail.
 
-"Immediately. My office will recognize whoever maintains orderly control."
+Elspeth pointed to the man who had frozen. “Put it down or use it.”
 
-Elspeth shot Axholm through the back of the jaw.
+His gun hit the carpet.
 
-The round carried his front teeth and tongue across the car hood. Axholm folded against the fender, boots drumming twice on the tile. Beside his hand, the phone the younger gunman had set on the hood carried the vice commander's voice: "Councillor? Councillor Axholm?"
+Two others lowered theirs. One backed away from the rail. The remaining pair turned their weapons toward Elspeth.
 
-Olek stared past the hood at the body of the protection he had bought.
+The older rival fired. One vanished backward. The other shot first, striking Elspeth's wounded man by the wall, before the driver killed him.
 
-Elspeth called the western boss and set her phone on the car hood, speaker on.
+The underboss's face lost its patient shape. He drew and fired at Elspeth. The rival's daughter shoved her aside; the shot broke tile between them. Then the underboss ran through the gallery door.
 
-"The shipment is moving," he said over the rain noise. "My people have the depot."
+Elspeth went after him.
 
-"And your shooters?"
+* * *
 
-"West, as promised. Sunrise buys the blocks."
+The machinery corridor smelled of rust, chlorine, and hot wiring. Pipes crowded the low ceiling. Somewhere behind the walls a neglected pump shuddered awake, banging hard enough to blur footsteps.
 
-"They are yours now. Both. Every collector of mine leaves them before noon."
+The underboss waited beyond a bend, his back to a pressure tank. His pistol hung beside his thigh.
 
-The western boss ended the call without goodbye.
+“Look at you,” he said. “We kept you alive all those years so you could bleed out in a condemned basement.”
 
-One of the west-side gunmen looked at Olek. "You told us the west would be dead."
+Elspeth leaned against the wall. The black wings behind her eyes had become a whole dark room. “You sent them.”
 
-"She's giving away your wages," Olek said.
+“We built the house. We made the arrangements. We paid for every mistake you called instinct.” His free hand opened toward her, paternal even now. “Come here. Give me the gun. The captain wants stability, the rival wants his children, our people want breakfast without a war. I can still give them that.”
 
-The man nearest Odette shifted his muzzle toward the floor. "She gave the blocks in her name. They're gone whether she walks out or not."
+“With me dead.”
 
-Olek watched Axholm's blood run down the hood. "I built the story that makes her name work. She was nineteen and couldn't choose a door until I opened one."
+“Gone. It didn't have to mean dead.”
 
-Odette pulled her left hand through the frayed cord. "You hid in the cold room."
+She had missed a word. “What?”
 
-Olek turned his pistol toward her.
+“I said it didn't have to.”
 
-The oldest gunman at the west columns frowned. "I was on this floor. The south door had his chain."
+The pump struck again. Beneath it came a smaller sound: rubber dragging once on concrete behind the pressure tank.
 
-"She stole his keys," Odette said. Her words were thick with a split mouth. "Cleared the south exit. Sent the western survivors through."
+Elspeth almost folded it into the noise. Almost.
 
-Olek fired beside her head. Tile spat across her cheek. "She was nineteen."
+From the corridor behind her, the lieutenant gasped, “Left.”
 
-"Old enough to kill her uncle." Odette bent toward the cord on her right wrist. "Old enough to pay his claim before dawn."
+A crouched man rose from behind the tank. Elspeth fired toward the movement. His shot went into the ceiling; hers opened his chest and threw him against the pipes. He slid down, trying to hold himself closed.
 
-"Had his chair before dawn," the oldest gunman said.
+The underboss moved at the same time. His first bullet went through Elspeth's coat without finding her. She struck his gun arm aside, and he drove his forehead into her face. White light burst across her vision. He caught her wounded shoulder and squeezed until her legs failed.
 
-The west-side gunman stopped aiming at the car. Olek saw it.
+“We could have saved this,” he said into her hair.
 
-"She needed me afterward," Olek said. "You don't know why."
+Elspeth put the pistol against the soft shelf beneath his jaw and fired.
 
-Odette looked at Elspeth, her good eye flat. "You froze. She kept the man she could frighten."
+The shot snapped his head back. Bone and blood struck the pressure tank. He remained upright for a surprised second, hands opening and closing, then folded across her legs. There was no last explanation in him. Only a loose bubbling in what remained of his throat.
 
-The room's balance moved by inches. A muzzle lowered. The north lookout backed another step toward rain.
+She shoved him off and sat against the wall until the corridor stopped leaning.
 
-He shot Odette.
+The lieutenant appeared at the bend. His hand was still clamped to his side.
 
-She ripped her left hand free and threw her weight sideways. The chair toppled off the platform. The bullet tore through her upper arm instead of her heart.
+“You good?” he asked.
 
-The younger gunman fired over the car hood. One of Olek's men spun against the east rail. Three shots answered from the west columns. The younger gunman's chest opened in two places; he stayed upright long enough to empty his pistol, then fell under the front wheel.
+Elspeth looked at him.
 
-Elspeth moved around the right side of the car. Her legs had gone rubbery, the knife wound leaking with every step. A west-side gunman tracked her too quickly. His first shot peeled cloth and skin from her shoulder. His second struck the door behind her.
+“Stupid question,” he said. “Can you stand?”
 
-She reached the nearest column and fired around it. The man's cheek broke open. He clutched the hole, screaming through his fingers, until her next round stopped him.
+“Yes.”
 
-The oldest gunman dropped his weapon and knelt. At the north doors, the lookout pulled one leaf open and the third west-side gunman ran for him. Olek retreated from the table toward the west cutting room, firing as he went.
+He offered his arm. She used the pipe instead.
 
-On the east floor, Odette hung from the fallen chair by her bound wrist and ankles. The surviving platform guard came down to finish her. She caught his trouser leg with her free hand. He kicked her face, once, twice. Elspeth crossed the exposed aisle and drove the highway attacker's knife into the side of his neck. Blood struck her from collar to waist. The guard tried to turn, pulling the blade through himself, and collapsed across Odette.
+* * *
 
-Olek fired from the cutting-room doorway. The bullet hit Elspeth high in the thigh. Her leg folded. She dragged Odette behind the platform lip while rounds rang off the rail above them.
+Back at the pool, the older rival had his coat pressed against his daughter's leg. His surviving people held the deck. Elspeth's people held the doors. The arrangement could have become a war if anyone breathed wrong.
 
-"My right hand's still tied," Odette said.
+The rival looked past Elspeth at the blood on the lieutenant, then at the underboss's pistol in her hand.
 
-"Move your hand."
+“Finished?” he asked.
 
-Elspeth sawed through the right-wrist cord. Odette freed her ankles while Elspeth fired twice toward the cutting room to keep Olek inside. The surrendered gunman crawled to the car. The two men at the north doors escaped; their footsteps separated along the river wall.
+“He's dead.”
 
-Odette took the pistol from the dead platform guard. Her arm hung wrong, but she used the other. Together they reached the west columns. Odette covered the cutting-room door while Elspeth crossed the last ten feet.
+“My son?”
 
-The room beyond was narrow, tiled green, with an old steel table bolted along the center. A second door at the far end had been welded shut. Olek stood on the left of the table, pistol in hand. Elspeth entered on the right. Odette remained in the doorway behind her, holding the hall.
+The driver checked her phone. “Found in a car two streets over. Scared. Not touched.”
 
-Olek fired. The shot passed through Elspeth's coat beneath her arm and struck tile. Elspeth's return broke the edge of the table beside his hip. He heard his last men running outside and looked at her muzzle leveled on his chest.
+The rival closed his eyes once. When he opened them, he looked at his daughter.
 
-He let his pistol fall, kicked it away, and raised his empty hands.
+“She pulled me clear,” the daughter said. Her voice shook now that nobody was shooting. “She got hit doing it.”
 
-"Your name protects men who accept your terms," he said. Paternal softness had left him. "I kept your crews earning for four years. Give me a car and an hour. Your protection. Say it in front of her."
+Her father considered Elspeth across the ruined tile. Then he lifted two fingers. His people lowered their guns.
 
-Elspeth came around the steel table until Olek could touch her gun. He looked past her toward Odette, searching for the hesitation he had purchased with her body.
+“This settles tonight,” he said. “Not the road your car took.”
 
-"I never offered you protection," Elspeth said. "You spent my name on a kill list."
+“I know.”
 
-"I made that name."
+He turned to his daughter and began giving slow instructions about the car, the doctor, her brother.
 
-She fired at arm's length. The bullet caved his nose into his face and burst the back of his skull over the green tile. He folded against her, heavier than she expected. She let him slide under the table where her uncle's blood had once run toward the drain.
+The ward captain stood carefully. Blood from his dead officer had reached the knees of his trousers. “The perimeter will remain while we conduct an orderly disengagement.”
 
-Sirens closed over the gunshot from the river road.
+Elspeth held out her hand.
 
-One of the runaways fired through the north doorway while Elspeth and Odette crossed back to the car. The rear glass burst inward. Odette answered one-handed, forcing him behind the brick. Elspeth snatched her phone from the hood, leaving Axholm's open line beside his body, shoved Odette through the rear door, and followed. The surrendered gunman started the engine before she was fully inside and drove them out through the south shutter.
+He stared at it.
 
-The gunman who had surrendered drove the captured sedan. Odette sat behind him with her pistol pressed to the seat, ensuring his loyalty lasted to the doctor. Elspeth occupied the other side of the back seat. The rear window was gone; dawn rain cut pale tracks in the blood on both women.
+“Your phone.”
 
-Elspeth called a doctor who would take cash, keep quiet, and treat Odette first.
+“That is official property.”
 
-Elspeth called the western boss in the presence of the surviving captains she could reach.
+“Then use it. Cancel the raid.”
 
-"Your people keep the shipment," she said. "Both disputed blocks are yours. My collectors leave by noon. You held west; I keep every term."
+He glanced at the deployment paper, at the dead men belonging to both houses, at the underboss's surviving loyalists facedown by the gallery stairs. His next radio call contained provisional assessments, revised thresholds, and resource concerns. It took him ninety seconds to say the operation was over.
 
-"You're smaller than you were at one," he said.
+Outside, engines started. One by one, the police vehicles moved away without entering.
 
-"The terms stand."
+The driver pointed at the man who had dropped his gun. He was on his knees, staring at the bodies. “Him?”
 
-He ended the call. By noon he would have more money, more territory, and proof that Elspeth's worst night could enrich him. The west had not become peaceful. It had become stronger.
+Elspeth had to follow her finger twice before she understood.
 
-Odette said, "I left the envelope at the private-stair landing."
+“He froze,” Elspeth said. “He didn't turn.”
 
-Elspeth touched the stiff paper inside her coat. "It was on my desk."
+“And tomorrow?”
 
-"Then you have another problem."
+“He comes back without a gun.”
 
-"After the doctor, you stay at my place."
+The driver nodded and gave the man a strip of cloth for somebody else's wound.
 
-"No."
+Elspeth surveyed what remained. Four active traitors lay dead. Two had surrendered. One had escaped through the kitchen and would keep running until fear or hunger made his next decision. Her runner was still upstairs in the private room, cooling beside the orders that had spent her voice. The man with the chest wound had stopped breathing during the fight. The lieutenant sagged against the east door, upright only because the metal bar held him.
 
-"Olek still has men."
+“Get the wounded into cars,” she said. “Bring the runner down.”
 
-"They took me because everyone thinks I belong to your bed." Odette kept the pistol against the driver's seat. She did not look at Elspeth. "Let them watch it stay empty."
-
-Elspeth opened her mouth to command her. Odette pressed the pistol harder into the seat and kept facing the window. Elspeth shut it.
-
-Blue lights streamed the other way along the river road, toward Axholm's corpse and Olek's scattered survivors. The captured car ran through gray rain with blood drying on its doors and the rear window shot away. Elspeth took out her phone and called every captain still willing to answer.
-
-"Noon," she said. "Come to the main hall unarmed. Anyone absent has chosen Olek's side. I start with them before Axholm's people start with us."
-
-Three numbers failed to answer. Others did, carefully, one after another. Elspeth kept the gray envelope beneath her bleeding hand while sirens spread across the waking city. What remained of the empire was smaller, bloodier, and hers until somebody proved otherwise.
+Men older than her moved. The lieutenant moved first.
