@@ -23,10 +23,23 @@ the outline specialist to the prose writer; it declares proposed people and
 places as `new` or `recurring`. The final review inventories the nouns actually
 used in prose and makes the prompt and continuity decision.
 
-New scaffolds carry `Craft profile: prospective-2026-08-08`. The outline and
-prose skills apply its binding defaults prospectively, and its in-place revision
-stays inside `story.md`: it does not add a fifth authored file or reopen any
-completed story.
+New scaffolds carry `Craft profile: prospective-2026-08-23`. Before drafting,
+the outline derives a dialogue promise, deliberately chooses a dialogic medium,
+states the communication engine, and completes the six-field Voice capsule with
+Relationship movement. The prose and review skills apply those defaults
+prospectively, including a bounded recent-story interchangeability check. The
+workflow stays inside the four authored Markdown files: it adds no checklist or
+audit artifact and does not reopen completed stories.
+
+Creation and rewriting have separate entry workflows. A new story starts from a
+fresh prompt through `story-create`. An explicitly requested rewrite uses
+`story-rewrite`, which records one scope in `prompt.md`: `REBUILD` for a new
+whole-story execution, `RESHAPE` for a whole-story pass that preserves unnamed
+material in substance, or `SELECTIVE` for named edits while all other prose
+remains exact. Keep-exact, keep-in-substance, change-or-replace, and remove
+selections make the preservation boundary reviewable. Both workflows use the
+same outline, prose, dialogue, independent review, and cover standards; no
+rewrite brief, comparison report, or backup prose is added to the story folder.
 
 A directory containing `05-story.md` is a locked legacy story. Its larger file
 set belongs to the retired workflow. Do not edit or migrate its bundle files;

@@ -1,22 +1,24 @@
 ---
 name: story-room
-description: "Create, rewrite, or review a shared-universe short story using only prompt, outline, story, and review."
+description: "Shared outline, review, and title-image stage contract used by the separate story-create and story-rewrite workflows."
 ---
 
 # Story room
 
-Use for `[WP]` prompts, an explicit rewrite of one named current story, or a
-named story stage. Prefer safe, low-impact assumptions over questions. Default
-to a coherent 2,500–4,000 word story unless the prompt says otherwise.
+Use as the shared stage contract behind `story-create` and `story-rewrite`, or
+when the user explicitly requests one named OUTLINE, REVIEW, or TITLE IMAGE
+stage. Route new prompts to `story-create` and explicit rewrites to
+`story-rewrite`. Prefer safe, low-impact assumptions over questions. Default to
+a coherent 2,500–4,000 word story unless the prompt says otherwise.
 
 For CREATE mode, the scaffold marks the self-contained prospective craft profile
 implemented by the binding style defaults, compact outline handoff, prose skill,
 and dialogue-aware review.
-Completion alone never authorizes reopening. Use REWRITE mode only when the
-user explicitly requests a rewrite of one named non-canon current story. Locked
-legacy bundles remain immutable.
+Completion alone never authorizes reopening. Route to `story-rewrite` only when
+the user explicitly requests a rewrite of one named non-canon current story.
+Locked legacy bundles remain immutable.
 
-## CREATE mode
+## CREATE handoff reference
 
 1. Work on a non-main branch. Identify and visually inspect every reference
    image supplied with the request, then scaffold with `scripts/new-story.ps1`,
@@ -32,8 +34,8 @@ legacy bundles remain immutable.
    silently omit an inaccessible image. It writes
    only `outline.md` after targeted canon and noun searches, selecting a
    story-specific generating force and a distinct narrative shape from the
-   binding craft defaults. Under `prospective-2026-08-21`, target 700–1,000
-   words and never exceed 1,200.
+   binding craft defaults. Under `prospective-2026-08-21` or
+   `prospective-2026-08-23`, target 700–1,000 words and never exceed 1,200.
 3. Delegate WRITE to a fresh `story_writer`. It uses the project-owned
    `short-story-writing` adapter, with `creative-writing-craft` primary and
    `dialogue`/`prose-style` only as diagnostic revision references. It writes
@@ -41,8 +43,10 @@ legacy bundles remain immutable.
    no draft/final split, diagnostic report, or craft artifact.
 4. Run `scripts/Test-Stories.ps1 -Story <slug> -Phase PreReview` once and pass
    its concise result to the reviewer. Do not save another report file.
-5. Delegate one fresh independent REVIEW to `story_reviewer`. It reads prompt
-   and
+5. Delegate one fresh independent REVIEW to `story_reviewer`. For an 08-23
+   CREATE story, include the six most recent resolved passing current-story
+   paths excluding the target for its collection comparison, or all available
+   when fewer than six exist. It reads prompt and
    prose first and forms a provisional reader-facing judgment with
    `story-analysis` and, when applicable, `dialogue` before opening the outline.
    It may use `story-sense`, `prose-style`, or `sensitivity-check` only for a
@@ -98,67 +102,31 @@ draft/final files, canon deltas, release records, promotion manifests, story
 READMEs, or index projections. Do not reread the complete legacy corpus when a
 targeted search answers the continuity question.
 
-## REWRITE mode
+Before delegating an 08-23 CREATE outline, count passing current stories whose
+base Constraints profile is 08-23 and whose prompt has no Rewrite request. At
+each nonzero multiple of ten, perform a no-artifact rolling audit of the ten
+most recent: compare dialogic
+media, articulate-competence structures, workplace triads, reasoning patterns,
+humor levels, and ending gestures. Give the outliner only a compact collection
+anti-default brief. Do not expose prior prose or Voice capsules to the outliner
+or writer.
 
-REWRITE is a package-reset entry point, not a separate writing mode. It applies
-only to one completed current-format story with `canon: false`; locked legacy
-bundles cannot be rewritten, and canon changes require a separate ruling. After
-preparation, a rewrite uses the same OUTLINE, WRITE, REVIEW, and REVISE stages
-and the same local production adapter as CREATE. Every story begins with fresh
-outliner, writer, and reviewer agents; a writer may perform that story's
-targeted REVISE pass, but every later review uses a fresh reviewer.
+## REWRITE handoff reference
 
-1. Complete the repository's rewrite branch and worktree setup before reading
-   story files. Use only `prompt.md` and package metadata to prepare the reset;
-   the preparation script may verify the prior PASS and frontmatter, but the
-   prior outline, prose, and review are not creative inputs. Inspect the saved
-   cover only when AUTO or KEEP makes it a candidate. Resolve and inspect every
-   original and newly supplied reference image; restore access or ask the user
-   to attach it again when an original cannot be resolved.
-2. Run
-   `scripts/prepare-rewrite.ps1 -Story <slug> -Title <fresh-title> -Request <verbatim-request>`.
-   Pass each new reference through `-ReferenceImage`, and select `-Cover Auto`,
-   `Keep`, or `Regenerate`. The script preserves the original prompt and
-   immutable package identity, records the rewrite request and reference display
-   names, and resets `outline.md`, `story.md`, and `review.md` to clean
-   scaffolds. It creates no backup or rewrite artifact. The prepared rewrite
-   records `prospective-2026-08-21` as the active production profile. AUTO keeps
-   an unchanged-title cover as a post-review candidate but removes it when the
-   title changes; KEEP requires an unchanged title; Regenerate removes it after
-   the Markdown reset succeeds.
-3. Treat the original prompt plus the latest `## Rewrite request` as the
-   acceptance authority. The rewrite request controls a conflict; every
-   unaffected original requirement remains binding, while the latest profile
-   in Rewrite constraints controls production craft. Delegate the ordinary
-   OUTLINE assignment to `story_outliner`, then the ordinary WRITE assignment
-   to `story_writer`. Do not load the prior outline, prose, or review from Git.
-   If the user explicitly asks to retain a named element from the old story,
-   retrieve only the minimum old material needed for that element and include
-   it in the relevant assignment.
-4. Run `scripts/Test-Stories.ps1 -Story <slug> -Phase PreReview` and delegate a
-   fresh independent REVIEW. The old passing review is history, not evidence.
-   Resolve a `REVISE` verdict through the normal blocking-fix loop.
-5. After `PASS`, apply the recorded cover policy:
-   - `AUTO`: when an unchanged-title cover was retained, the coordinator opens
-     the JPEG at cover-card size and full resolution and independently repeats
-     all seven cover gates against the final rewrite. Reuse it when every gate
-     passes; otherwise regenerate through the
-     normal title-image workflow.
-   - `KEEP`: perform the same fresh comparison and reuse only on a seven-gate
-     pass. If it fails, stop for the user rather than silently generating a new
-     cover under a keep-only request.
-   - `REGENERATE`: run the normal title-image workflow after the prose review
-     passes.
-   Cover generation is conditional: reuse is permitted when the retained image
-   passes, but a valid final cover remains mandatory for completion. Reused
-   covers already passed their original production review, but that does
-   not establish cover identity, story promise, editorial restraint, depiction
-   truth, or title accuracy for changed prose. Reference-image requirements
-   apply whenever a new cover is generated.
-6. Run final validation, capture the story again with
-   `python pages/build.py capture <slug>`, run the catalog check, and complete
-   the normal commit, push, and draft-pull-request handoff. Git history preserves
-   the prior prose, outline, review, and cover; create no backup copies.
+`story-rewrite` owns rewrite intake, scope, prior-version access, preparation,
+and selection compliance. A rewrite still delegates fresh OUTLINE, WRITE, and
+REVIEW stages and uses this skill's shared responsibilities. Its managed prompt
+records REBUILD, RESHAPE, or SELECTIVE plus Keep exact, Keep in substance,
+Change or replace, Remove, and outside-scope behavior.
+
+For rewrite stages, treat the original prompt, latest Rewrite request, and
+Rewrite selections as one amended authority. The request and selections control
+conflicts; unnamed prior material follows the recorded outside-scope policy.
+Prior outline and review remain history. Prior prose access is scope-bound:
+minimal named passages for REBUILD, the full throughline for RESHAPE, and the
+retained editing base for SELECTIVE. The current craft profile governs changed
+prose and necessary seams, but never authorizes rewriting protected material
+merely to modernize it. The old PASS is not evidence for the new verdict.
 
 ## OUTLINE responsibility
 
@@ -173,9 +141,9 @@ about an ambiguous image. Translate the useful evidence into the existing
 Story, Beats, or Continuity fields so the writer can act on it; do not add an
 image-analysis section or another artifact. If a supplied reference is
 inaccessible, report the blocker instead of proceeding without it.
-For `Craft profile: prospective-2026-08-21`, target 700–1,000 words when useful
-and never exceed 1,200. The outline supplies choices and pressure, not a
-miniature prose draft.
+For `Craft profile: prospective-2026-08-21` or
+`prospective-2026-08-23`, target 700–1,000 words when useful and never exceed
+1,200. The outline supplies choices and pressure, not a miniature prose draft.
 Declare every proposed person and place noun as `new` or `recurring`, using one
 `None` row for an empty category. Record relevant canon and unresolved
 boundaries, but do not turn the outline into a canon brief or an acceptance
@@ -212,6 +180,28 @@ merely `avoid house style`. Do not draft exchanges, confessions, apologies,
 reconciliation protocols, speeches, banter, or final thematic lines unless the
 prompt requires exact wording.
 
+Under `prospective-2026-08-23`, first derive and complete the `Dialogue promise`,
+`Dialogic medium`, and `Dialogue engine` Story fields. The promise names the
+relationship, tonal, and communication experience implied by this prompt. The
+medium deliberately selects speech, writing, internal voices, signs,
+interfaces, gesture, silence, failed contact, or a story-specific mix. The
+engine explains why these people must communicate and how communication itself
+creates movement. Spoken conversation is not the default and dialogue quantity
+is not the goal.
+
+Complete the six-field 08-23 Voice capsule in at most 220 words. Add
+`Relationship movement`: what each major participant wants from another, cannot
+comfortably request, and what their exchange changes in knowledge, leverage,
+trust, commitment, risk, or relationship. Broaden `Rhetorical ownership` to
+assign humor, evasion, affection, misreading, social authority, and willingness
+to listen, not merely expertise, precision, or sentence length. The four
+dialogue-specific Voice fields and three dialogue Story fields may use the
+exact N/A value only when there is truly no meaningful dialogic action;
+non-spoken contact is still dialogue for this purpose. Notice and resist the
+interchangeable default of uniformly articulate professionals solving a
+material problem when the prompt instead supports play, error, pettiness,
+embarrassment, distraction, poor explanation, or social unevenness.
+
 Before settling the shape, skim only the `## Story` section, including any
 `Narrative design` fields, of up to five recent passing current outlines. Use
 them solely to avoid repeating their movement, climax venue, collective turn,
@@ -220,10 +210,12 @@ or models to imitate. Quiet, private, observational, recursive, or non-climactic
 outcomes are valid. Record draftable
 beats or movements, not a craft audit.
 
-For a prepared rewrite, perform the ordinary OUTLINE assignment from the
-amended prompt and clean scaffold. Prior outline, prose, and review are out of
-scope unless the assignment explicitly names old material the user asked to
-retain. Write no comparison, change log, or alternate outline.
+For a prepared rewrite, perform the OUTLINE assignment from the amended prompt
+and Rewrite selections. Prior outline and review remain out of scope. Access
+prior prose according to the recorded scope: named passages only for REBUILD,
+the full throughline for RESHAPE, and the retained editing base for SELECTIVE.
+Express preservation and change through the existing Story, Voice, and Beats
+sections; write no comparison, change log, or alternate outline.
 
 ## REVIEW mode
 
@@ -242,13 +234,19 @@ hidden agendas, verbal tics, or compulsory subtext.
 - inventory all story-facing people and place proper nouns;
 - mark each noun `new` or `recurring`, with `None` for an empty category;
 - check the prompt, current universe authority, and internal story facts;
-- when `## Rewrite request` exists, treat it as an amendment whose conflicting
-  terms override the original prompt while unaffected original terms remain;
+- when `## Rewrite request` exists, treat it and any Rewrite selections as an
+  amendment whose conflicting terms override the original prompt; unnamed
+  prior-story material follows Outside named selections;
+- when `## Rewrite selections` exists, verify every Keep exact, Keep in
+  substance, Change or replace, Remove, and outside-scope obligation against the
+  prior prose after forming the provisional judgment of the new story;
 - for a prompt carrying `Craft profile: prospective-2026-08-08`,
-  `prospective-2026-08-18`, or `prospective-2026-08-21`, check material
+  `prospective-2026-08-18`, `prospective-2026-08-21`, or
+  `prospective-2026-08-23`, check material
   compliance with the binding story craft defaults without reproducing the
   in-place revision criteria;
-- for `prospective-2026-08-18` or `prospective-2026-08-21`, record exactly one
+- for `prospective-2026-08-18`, `prospective-2026-08-21`, or
+  `prospective-2026-08-23`, record exactly one
   `Dialogue` verdict under `## Craft`: `PASS`, `REVISE`, or `N/A`; use N/A only
   when there is essentially
   no meaningful dialogue;
@@ -259,7 +257,8 @@ hidden agendas, verbal tics, or compulsory subtext.
 
 Under the older profile, craft blocks only when a failure materially breaks the
 prompt's central promise, reader-facing causality, or binding narrative policy.
-Under `prospective-2026-08-18` or `prospective-2026-08-21`, a material
+Under `prospective-2026-08-18`, `prospective-2026-08-21`, or
+`prospective-2026-08-23`, a material
 reader-facing dialogue defect also blocks. Scan all dialogue, closely inspect
 the decisive and final meaningful
 exchanges with their adjacent narration, and record at most one targeted
@@ -279,6 +278,37 @@ for hidden agendas, verbal tics, universal subtext, multiple simultaneous
 functions, or punchy sentences are diagnostic suggestions, not requirements.
 One earned aphorism or articulate exchange is acceptable; only material
 scene-wide convergence changes the existing Dialogue verdict to REVISE.
+
+For an 08-23 CREATE story, treat speech, writing, internal voices, signs,
+interfaces, gesture, silence, and failed contact as first-class dialogic media.
+Judge major exchanges by whether they change knowledge, leverage, trust,
+commitment, risk, relationship, or action, not by how many lines they contain.
+Check competence overuse and whether the ending defaults to practical
+instructions, resumed maintenance, inventory, breakfast, or returning to work
+without earning that gesture from this prompt and relationship.
+
+Only after the target passes that standalone judgment, use the six most recent
+resolved passing current stories as bounded comparison context, or all
+available when fewer than six exist. Inspect only each prior story's dialogic
+pattern, one representative major exchange, and final
+meaningful exchange with the minimum adjacent action or narration needed. Do
+not read prior Voice capsules or treat prior prose as canon or a model. Repeated
+media or competence is not automatically blocking; material convergence is.
+Use Dialogue REVISE when changing only job, system, or setting nouns could
+transplant the target's reasoning pattern, relationship action, or ending
+gesture into the recent set. Record one concise dialogue finding and no audit,
+comparison section, or extra verdict field.
+
+For a prepared rewrite, selection compliance is independently blocking. Read
+the prior version only after the provisional prompt, story, and dialogue
+judgment. Exact keeps must remain exact; substantive keeps must retain the named
+identity, function, relationship, fact, or effect; Change targets must be
+materially different; Remove targets must be absent rather than renamed; and
+unnamed material must follow FLEXIBLE, KEEP, or KEEP EXACT. Judge changed prose
+and necessary seams under the active craft profile without forcing protected
+outside-scope prose through a prospective modernization pass. Record failures
+as concise prompt or dialogue findings in the existing review structure; add no
+rewrite-comparison field or artifact.
 
 ## TITLE IMAGE responsibility
 

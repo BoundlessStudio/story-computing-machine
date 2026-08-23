@@ -13,8 +13,11 @@ story. The writer uses one local production adapter for in-place structural,
 dialogue, and language revision; that writer may also make a targeted REVISE
 pass, while every later review is fresh. The reviewer reads
 the prose before the outline and checks people, places, prompt fulfillment,
-dialogue, binding narrative policy, and continuity; the illustrator
-reads the finished prose and creates an exact 864x1536 portrait novel cover.
+dialogue, binding narrative policy, and continuity. For new stories it also
+checks recent-story interchangeability. New prompts derive a dialogue promise,
+dialogic medium, dialogue engine, and relationship movement before drafting;
+the illustrator reads the finished prose and creates an exact 864x1536 portrait
+novel cover.
 Reference images attached to the prompt are inspected and supplied to both the
 outliner and the cover generator; only their display names are recorded in
 `prompt.md`, and the source images remain outside the story directory. There are
@@ -45,8 +48,10 @@ a separate explicit user decision.
 ## Repository map
 
 - `AGENTS.md` — the complete operating rules.
-- `.agents/skills/story-room/` — the create, rewrite, and review workflow plus
-  scaffold, rewrite-preparation, and validation scripts.
+- `.agents/skills/story-create/` — the user-facing new-story coordinator.
+- `.agents/skills/story-rewrite/` — the user-facing scoped rewrite coordinator.
+- `.agents/skills/story-room/` — shared outline, review, and title-image stage
+  contracts plus scaffold, rewrite-preparation, and validation scripts.
 - `.agents/skills/short-story-writing/` — the compact project-owned production
   adapter that resolves upstream craft advice into one in-place prose workflow.
 - `.agents/skills/creative-writing-craft/`, `dialogue/`, and `prose-style/` —
@@ -75,10 +80,11 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/Test-Stories.ps1 -Phase 
 The agent runs the targeted pre-review phase before review, generates the title
 image only after a passing review, and then runs the final phase locally. Final
 validation requires a readable 864x1536 JPEG for every current story. For
-`prospective-2026-08-21`, local validation also enforces the compact outline
-ceiling, the five-field Voice capsule, and the existing structured dialogue
-verdict. The earlier 08-18 dialogue contract remains valid unchanged. Both
-phases ignore locked legacy bundles; semantic noun extraction, dialogue
+`prospective-2026-08-23`, local validation also enforces the compact outline
+ceiling, the three dialogue-design fields, the six-field Voice capsule, and the
+existing structured dialogue verdict. The earlier 08-18 and 08-21 contracts
+remain valid unchanged; 08-21 retains its five-field, 180-word Voice capsule.
+Both phases ignore locked legacy bundles; semantic noun extraction, dialogue
 judgment, and continuity
 judgment remain the reviewer's responsibility.
 
@@ -96,8 +102,21 @@ pwsh -NoProfile -File .agents/skills/story-room/scripts/prepare-rewrite.ps1 `
   -Story <slug> `
   -Title "<fresh story title>" `
   -Request "<verbatim rewrite request>" `
+  -Scope Selective `
+  -Keep "the two sisters' relationship" `
+  -Change "the public confrontation" `
+  -Remove "the breakfast epilogue" `
   -Cover Auto
 ```
+
+Scopes are `Rebuild`, `Reshape`, and `Selective`. Rebuild produces new
+whole-story prose and treats unnamed old material as flexible. Reshape rewrites
+the whole execution while preserving unnamed material in substance. Selective
+retains the existing prose and edits named Change or Remove targets plus the
+smallest necessary seams. Selections may be passed through `-KeepExact`,
+`-Keep`, `-Change`, and `-Remove`. Each scope's outside rule is fixed so the
+preservation boundary cannot contradict the chosen mode; named selections are
+the explicit exceptions to that default.
 
 Cover policies are `Auto`, `Keep`, and `Regenerate`. Auto retains an
 unchanged-title cover as a candidate for fresh visual comparison, but removes a
@@ -106,14 +125,13 @@ an unchanged title and never generates a replacement automatically. Regenerate
 removes the old cover after the Markdown reset succeeds and requires a fresh
 image after the new prose passes review.
 
-Preparation preserves the original prompt byte-for-byte outside three managed
-rewrite sections, keeps package identity, records `prospective-2026-08-21`, and
-resets `outline.md`, `story.md`, and `review.md` to clean scaffolds in one guarded
-operation with rollback. The ordinary OUTLINE, WRITE, REVIEW, and REVISE stages
-then run with the same local adapter and Voice capsule as a new story. Prior
-narrative artifacts
-are out of scope unless the rewrite request explicitly names something to
-retain; in that case, only the minimum relevant material is recovered from Git.
+Preparation preserves the original prompt outside four managed rewrite
+sections, keeps package identity, records the selection contract and
+`prospective-2026-08-23`, and updates the package in one guarded operation with
+rollback. Rebuild and Reshape reset prose; Selective preserves it. All scopes
+use the same outliner, writer, reviewer, local production adapter, and six-field
+Voice capsule as current CREATE, while the selection boundary controls how much
+prior prose they may read and change.
 Cover generation is conditional because a retained image may be reused after a
 fresh seven-gate pass; a valid final cover is still mandatory for completion. The
 workflow finishes with conditional cover replacement, final validation,

@@ -8,6 +8,9 @@
 - POV, distance, and information limit:
 - Governing movement and time shape:
 - Speculative rule or ordinary-world constraint:
+- Dialogue promise:
+- Dialogic medium:
+- Dialogue engine:
 
 ## Voice
 
@@ -15,6 +18,7 @@
 - Conversational texture:
 - Rhetorical ownership:
 - Pressure behavior:
+- Relationship movement:
 - Anti-default:
 
 ## Beats

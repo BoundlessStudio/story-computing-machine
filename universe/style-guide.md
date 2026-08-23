@@ -131,6 +131,43 @@
     scene-wide convergence is blocking. The reviewer records the result through
     the existing single Dialogue verdict after first judging prompt and prose
     without the outline.
+  - `Craft profile: prospective-2026-08-23` extends 08-21 for newly scaffolded
+    CREATE stories and newly prepared selection-contract rewrites. Before drafting, derive a dialogue promise from
+    the prompt's relationship, tonal, and communication implications; choose a
+    deliberate dialogic medium; and state why communication itself produces
+    movement. Speech, writing, internal voices, signs, interfaces, gesture,
+    silence, and failed contact are all first-class options.
+  - The 08-23 outline adds Dialogue promise, Dialogic medium, and Dialogue engine
+    to Story plus Relationship movement to Voice. The six-field Voice capsule
+    is capped at 220 words. Relationship movement states what major participants
+    want from one another, cannot comfortably request, and what changes in
+    knowledge, leverage, trust, commitment, risk, or relationship. Rhetorical
+    ownership also includes humor, evasion, affection, misreading, social
+    authority, and willingness to listen rather than relying only on expertise,
+    precision, or sentence length.
+  - Under 08-23, major exchanges are judged by relationship and story effects,
+    not line count. Resist uniformly articulate professionals solving a material
+    problem when the prompt supports play, mistakes, pettiness, embarrassment,
+    distraction, poor explanation, or social unevenness. Check that a closing
+    gesture of instructions, maintenance, inventory, breakfast, or returning to
+    work is earned by the story rather than used to avoid thematic contact.
+  - For CREATE only, after the standalone dialogue judgment, compare only the target's dialogic
+    pattern, one major exchange, and final meaningful exchange against bounded
+    passages from the six most recent passing stories, or all available when
+    fewer than six exist. Materially transplantable reasoning, relationship
+    action, or ending gestures block through the same
+    single Dialogue verdict; similarity that the prompt genuinely earns does
+    not. After each ten completed 08-23 CREATE stories, run a no-artifact rolling
+    collection audit of media, competence structures, workplace triads,
+    reasoning patterns, humor levels, and ending gestures, and feed only a
+    compact anti-default brief into the next outline.
+  - In an 08-23 rewrite, the Rewrite selections define the preservation
+    boundary. REBUILD permits new whole-story execution outside named keeps;
+    RESHAPE preserves unnamed material in substance; SELECTIVE preserves
+    unnamed prose exactly and changes only named targets plus necessary seams.
+    Apply prospective craft defaults to changed prose, not as a reason to
+    modernize protected text. Selection compliance is blocking, while the
+    recent-story collection comparison remains CREATE-only.
 
 ## Tonal range, scale, and connection
 
