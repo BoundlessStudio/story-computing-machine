@@ -54,8 +54,10 @@ legacy bundles remain immutable.
    authority or prompt meaning requires a ruling.
 7. After `PASS`, delegate the final prose to `story_title_illustrator`. It reads
    the complete story and writes only `title-image.jpg`, an exact 9:16 portrait,
-   spoiler-light title visual. Unless the assignment overrides it, use the
-   agent's premium anime/light-novel key-visual default.
+   spoiler-light novel cover. Unless the assignment overrides it, use the
+   agent's premium illustrated-novel-cover default. Anime-influenced rendering
+   is available when it suits the story, but franchise key-art, poster, and
+   scene-still composition are not the default.
    Include every reference image from the original request in the assignment
    and as an actual image-generation reference. Use resolved local paths when
    all originals have them; otherwise use the smallest recent-attachment set
@@ -73,18 +75,20 @@ legacy bundles remain immutable.
    relations. Keep any temporary review images outside the story directory and
    do not commit them.
    The illustrator self-reviews and the coordinator independently reviews the
-   actual saved file at cover-card size and full resolution through six gates:
-   story promise, scene truth, role legibility, cover read, image integrity,
-   and production finish. Each pass must cite visible evidence rather than
-   repeat the generation prompt or the illustrator's claims. If a required
-   action, role, object connection, or spatial fact is ambiguous, fail it rather
-   than filling the gap from the prose. A mechanically clean but generic image,
-   or one that omits the prompt's defining relationship or contradiction, does
-   not pass. When a gate fails, send a regeneration brief that identifies what
-   to preserve, the blocking miss, the required focal or compositional change,
-   and the unchanged constraints. Use a new composition for an editorial,
-   scene-truth, or role-legibility miss and a targeted correction for a localized
-   defect. Do not capture until all six gates pass.
+   actual saved file at cover-card size and full resolution through seven gates:
+   cover identity, story promise, editorial restraint, depiction truth, cover
+   read, image integrity, and production finish. Each pass must cite visible
+   evidence rather than repeat the generation prompt or the illustrator's
+   claims. If a depicted action, role, object connection, or spatial fact is
+   ambiguous, fail it rather than filling the gap from the prose. A mechanically
+   clean but generic image, one that omits the prompt's defining contradiction,
+   or one that reads as an illustrated synopsis does not pass. When a gate
+   fails, send a regeneration brief that identifies what to preserve, the
+   blocking miss, the required concept, focal, or compositional change, and the
+   unchanged constraints. Use a new concept for cover-identity, story-promise,
+   or editorial-restraint failure, a new composition for a depiction-truth
+   failure, and a targeted correction only for a localized defect. Do not
+   capture until all seven gates pass.
 8. Run final validation, then capture the story with
    `python pages/build.py capture <slug>`. This mandatory final handoff updates
    the stored prose catalog and its matching Pages cover asset.
@@ -137,10 +141,10 @@ targeted REVISE pass, but every later review uses a fresh reviewer.
 5. After `PASS`, apply the recorded cover policy:
    - `AUTO`: when an unchanged-title cover was retained, the coordinator opens
      the JPEG at cover-card size and full resolution and independently repeats
-     all six cover gates against the final rewrite. Reuse it when every gate
+     all seven cover gates against the final rewrite. Reuse it when every gate
      passes; otherwise regenerate through the
      normal title-image workflow.
-   - `KEEP`: perform the same fresh comparison and reuse only on a six-gate
+   - `KEEP`: perform the same fresh comparison and reuse only on a seven-gate
      pass. If it fails, stop for the user rather than silently generating a new
      cover under a keep-only request.
    - `REGENERATE`: run the normal title-image workflow after the prose review
@@ -148,9 +152,9 @@ targeted REVISE pass, but every later review uses a fresh reviewer.
    Cover generation is conditional: reuse is permitted when the retained image
    passes, but a valid final cover remains mandatory for completion. Reused
    covers already passed their original production review, but that does
-   not establish story promise, scene truth, role legibility, or title accuracy
-   for changed prose. Reference-image requirements apply whenever a new cover
-   is generated.
+   not establish cover identity, story promise, editorial restraint, depiction
+   truth, or title accuracy for changed prose. Reference-image requirements
+   apply whenever a new cover is generated.
 6. Run final validation, capture the story again with
    `python pages/build.py capture <slug>`, run the catalog check, and complete
    the normal commit, push, and draft-pull-request handoff. Git history preserves
@@ -278,14 +282,36 @@ scene-wide convergence changes the existing Dialogue verdict to REVISE.
 
 ## TITLE IMAGE responsibility
 
-Read the complete final reader-facing story, select one spoiler-light scene or
-visual metaphor that carries its emotional promise, and write only
-`title-image.jpg`. Preserve story-specific character, setting, era, mood, and
-material details. Before generating, form a compact internal cover brief: the
-story's distinctive promise, the relationship or contradiction the image must
-foreground, the minimum story-specific visual evidence, the spoiler boundary,
-and likely anatomy, crowding, typography, or spatial risks. Do not save this as
-another artifact.
+Read the complete final reader-facing story, distill its narrative invitation,
+and write only `title-image.jpg`. A cover is editorial packaging, not a visual
+description of the story. It should make a reader ask one useful question, not
+answer several plot questions at once. Choose the least explanatory visual
+strategy that can carry the story's promise: a singular symbol or visual
+metaphor, an iconic figure or object, an atmospheric threshold or setting, or a
+literal scene only when that scene compresses into one charged image at a
+glance. Most characters, events, clues, and props should be absent.
+
+Do not default to an ensemble lineup, a roomful of people performing separate
+actions, an inventory of significant objects, a split-panel or sequential
+composition, a scene reconstruction that requires prose to decode, or a collage
+of multiple beats. A prompt may explicitly require one of those structures, but
+it must still pass the cover gates. Preserve story-specific character, setting,
+era, mood, and material details only where they support the chosen cover idea.
+Before generating, form a compact internal cover brief: the genre and emotional
+temperature; the distinctive contradiction; the unanswered question the cover
+should create; the one dominant image and its negative space; the minimum
+story-specific evidence; the spoiler boundary; and likely anatomy, typography,
+or spatial risks. Do not save this as another artifact.
+
+Before calling image generation, consider three materially different
+one-sentence treatments from different cover strategies; at least one must not
+be a literal scene unless the prompt explicitly requires literal scene art.
+Choose the treatment that best passes cover identity, story promise, and
+editorial restraint, then send only that treatment. Write the generation prompt
+as art direction: lead with the dominant image, layout, scale, negative space,
+typography, palette, and light, followed only by facts actually visible in the
+frame. Do not paste a plot summary or enumerate the cast, clues, props, and beats
+that the image is meant to omit.
 
 Inspect every reference image supplied with the original request and include
 all of them as actual inputs to image generation. Use `referenced_image_paths`
@@ -298,6 +324,16 @@ the written prompt explicitly makes the visual detail binding. If every supplied
 reference cannot be included, request the missing attachment again rather than
 generating without it.
 
+Unless the prompt says otherwise, design a premium illustrated novel cover.
+The rendering may use polished anime-influenced character art, digital cel
+shading, painterly fantasy, cinematic light, or another story-appropriate
+illustrative language, but its layout must use the restraint and hierarchy of a
+book cover rather than an anime-series key visual, film poster, screenshot, or
+interior plate. One dominant silhouette, gesture, object, absence, or visual
+contradiction should control the image. Typography and illustration must feel
+art-directed together, with enough calm space for the title to read as part of
+the cover rather than a label placed over a scene.
+
 The source asset must be a high-quality JPEG at exactly 864x1536 pixels. It
 must display the exact reader-facing story title once, with no author name,
 caption, logo, border, watermark, or other text. Generate the illustration and
@@ -305,45 +341,52 @@ verbatim title together in one image-generation pass; canvas normalization may
 not add or replace typography.
 
 Before saving, review the candidate at cover-card size and full resolution
-through all six gates. For each pass, identify visible evidence in the actual
+through all seven gates. For each pass, identify visible evidence in the actual
 candidate. Do not infer a missing action, relationship, or physical fact from
 the prose or generation prompt. After saving the normalized JPEG, open the exact
 saved path with the available image-viewing tool and repeat the gates; file
 metadata and the generation response cannot establish a visual pass:
 
+- **Cover identity:** the image reads first as a professionally art-directed
+  novel cover. Reject an interior illustration, screenshot, film poster,
+  franchise key visual, character lineup, split-panel montage, or visual plot
+  summary. One dominant image idea must control the page, and the typography
+  must belong to the same design. If removing the title would leave only a busy
+  story scene with no iconic shape, tension, or visual thesis, the gate fails.
 - **Story promise:** the image reads as this story rather than merely its genre.
-  It makes the defining relationship, contrast, or pressure visually primary,
-  preserves who is aligned with whom and who holds power, and does not falsely
-  advertise reconciliation, triumph, romance, scale, or stakes absent from the
-  prose. A generic action pose or literal captivity image fails when the prompt's
-  real promise is the relationship revealed inside that situation. When the
-  promise depends on contrasting couples, groups, roles, or relationships, show
-  enough people or unmistakable visual evidence to make that contrast legible.
-  Reducing the cast or hiding anatomy risk is valid only if it does not erase the
-  premise.
-- **Scene truth:** verify every story-critical action, position, direction of
-  movement, spatial constraint, possession, support, and cause-and-effect
-  relation in the selected moment. Openings, rooms, vehicles, restraints,
-  tools, and other affordances must have plausible scale and geometry. Reject
-  an attractive approximation that changes how the scene works, puts an object
-  in the wrong hand or place, reverses movement, removes the stated constraint,
-  or makes the decisive action physically ambiguous.
-- **Role legibility:** verify that story-important figures remain distinct in
-  silhouette, face, clothing, posture, and placement. A viewer must be able to
-  tell who is doing what, who holds power, how figures are grouped, and which
-  objects belong to whom without prose explanation. Reject near-duplicate
-  faces, ambiguous couples or groups, or static posing that erases opposing
-  choices.
+  It signals genre and emotional temperature, makes the defining contradiction
+  or charged motif primary, and creates an unanswered question. It must not
+  falsely advertise reconciliation, triumph, romance, scale, stakes, or an
+  outcome absent from the prose. The cover may imply a relationship through
+  distance, absence, a shared object, reflected form, or another compressed cue;
+  it need not put every relevant person on the canvas.
+- **Editorial restraint:** verify that every visible figure, prop, setting cue,
+  and action earns space in the one cover idea. Reject full-cast explanation,
+  clue inventories, evenly weighted group tableaux, multiple chronological
+  beats, decorative lore, and compositions that try to prove story specificity
+  by showing more facts. Deliberate omission, negative space, cropping, scale,
+  and ambiguity are strengths when they sharpen the invitation without
+  falsifying the story.
+- **Depiction truth:** verify every person, role, relationship, object, action,
+  position, and spatial connection the cover actually depicts. A symbolic image
+  may compress or juxtapose reality, but it may not advertise a false event,
+  allegiance, power relation, possession, or outcome. A literal scene must keep
+  the geometry and cause-and-effect necessary for that chosen fragment to be
+  true. Reject an attractive approximation that reverses movement, changes who
+  acts, removes a defining constraint, or turns intentional ambiguity into a
+  factual claim.
 - **Cover read:** inspect at reduced cover-card scale. The exact title remains
-  immediately readable once; the silhouette, focal hierarchy, emotional read,
-  important relationships, and story-specific object or setting cue survive
+  immediately readable once; a single focal hierarchy, dominant silhouette or
+  motif, emotional read, genre signal, and story-specific hook survive
   reduction. Reject crowding, competing focal points, decorative detail that
-  looks like text, or a composition whose premise becomes legible only after
-  reading the story.
+  looks like text, or a composition whose concept becomes legible only after
+  reading the story. Intentional negative space and controlled detail should
+  still be visible at thumbnail size.
 - **Image integrity:** inspect at full resolution. Count every intended person
   and visible limb; trace hands, fingers, faces, restraints, held or suspended
   objects, reflections, shadows, and contact points. Reject fused or duplicate
-  anatomy, ambiguous couples or roles, floating or disconnected objects,
+  anatomy, unintentionally ambiguous figures or roles, floating or disconnected
+  objects,
   incoherent perspective, impossible support or restraint geometry, accidental
   extra figures, unintended text or pseudo-text, watermarks, and crop damage.
 - **Production finish:** verify intentional lighting, value and color
@@ -352,13 +395,15 @@ metadata and the generation response cannot establish a visual pass:
   title letters, accidental tangencies, generic decoration, visible scaling or
   JPEG artifacts, and title placement outside the safe crop.
 
-If any gate fails, regenerate before saving. For a story-promise, scene-truth,
-role-legibility, or focal miss, choose a materially different composition
-instead of cosmetically repairing the same idea. For a localized integrity or
-finish defect, make one targeted correction while repeating every invariant
-that already works. Use this regeneration structure:
+If any gate fails, regenerate before saving. For a cover-identity,
+story-promise, editorial-restraint, or focal miss, choose a materially different
+cover concept instead of cosmetically repairing the same illustrated scene. For
+a depiction-truth failure, choose a new composition unless the error is truly
+local. For a localized integrity or finish defect, make one targeted correction
+while repeating every invariant that already works. Use this regeneration
+structure:
 `Preserve`, `Blocking miss`, `Change`, and `Keep fixed`. Return the final cover
 thesis, one-sentence visual description, exact verified title, concise pass
-result for all six gates, final prompt/spec, and saved path. The image is
+result for all seven gates, final prompt/spec, and saved path. The image is
 presentation, not canon authority, and must never cause prose or continuity
 edits.

@@ -14,7 +14,7 @@ dialogue, and language revision; that writer may also make a targeted REVISE
 pass, while every later review is fresh. The reviewer reads
 the prose before the outline and checks people, places, prompt fulfillment,
 dialogue, binding narrative policy, and continuity; the illustrator
-reads the finished prose and creates an exact 864x1536 portrait key visual.
+reads the finished prose and creates an exact 864x1536 portrait novel cover.
 Reference images attached to the prompt are inspected and supplied to both the
 outliner and the cover generator; only their display names are recorded in
 `prompt.md`, and the source images remain outside the story directory. There are
@@ -115,7 +115,7 @@ narrative artifacts
 are out of scope unless the rewrite request explicitly names something to
 retain; in that case, only the minimum relevant material is recovered from Git.
 Cover generation is conditional because a retained image may be reused after a
-fresh six-gate pass; a valid final cover is still mandatory for completion. The
+fresh seven-gate pass; a valid final cover is still mandatory for completion. The
 workflow finishes with conditional cover replacement, final validation,
 recapture, commit, push, and a draft pull request. No backup prose or
 rewrite-history artifact is created.
