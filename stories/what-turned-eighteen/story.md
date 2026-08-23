@@ -8,318 +8,360 @@ canon: false
 
 # What Turned Eighteen
 
-At four o'clock on my eighteenth birthday, my mother put the last pan of potatoes in the oven and told me not to eat anything else until after my true form arrived.
+At four minutes to my birth minute, Maela stood on a chair and taped a mixing bowl over the bedroom vent.
 
-"You bought enough for a basketball team," I said.
+“That’ll starve you of air,” Jaro said from the doorway.
 
-"You might become a basketball team. Height runs on your father's side."
+“For nine minutes.” My mother pressed the tape down with both thumbs. “Arlon can breathe in the hall.”
 
-My father, who had come in through the back door carrying a bakery box and the careful expression he wore around my mother, looked down at himself. His true form had added four centimeters and taken away most of his body hair. "Height ambles on my side. It does not run."
+“Assuming lungs.”
 
-My best friend was sitting on the kitchen counter beside the transformation kit: loose gray sweats, electrolyte packets, antihistamines, a sewing tape, and every identification form my mother had been able to download. They lifted the tape. "I still have taller in the pool. Your mother has better cheekbones, and your father wrote cured knee."
+“You are helping how?”
 
-"It clicks," my father said. "That's not the same as cured."
+Jaro lifted the cake box. “I stopped this falling down the stairs.”
 
-Nobody guessed anything dramatic. Most people came through their eighteenth minute with a straighter nose or a body that finally seemed to have caught up with its limbs. Two students the year before had changed sex; the school office had new photographs and amended records ready before either of them came back from their birthday leave. My cousin had grown a second set of adult teeth behind the first and spent a month at the dentist. That was considered spectacular enough to make the family group chat unusable for days.
+He had also iced HAPPY EIGHTEENTH, ARLO in green across the lid because the bakery had refused to write on a box. The cake inside was supposed to have the full name and twice as much dignity. We had planned to carry it to the shared roof after my change, along with three folding chairs, Maela’s good cushions, and enough spiced lentil rolls to feed the neighbors who would pretend not to be watching.
 
-I expected maybe better skin. Secretly, I wanted broader shoulders, though I had told everyone I didn't care. The change was called a true form because that sounded better than birthday event and because people liked to discover destiny in their mirrors after the fact. I had seen true forms that looked like revelations and true forms that looked like someone had finally slept eight hours.
+Outside, rain worried at the afternoon but had not committed. The forecast said nine. Maela believed weather forecasts only when they threatened a birthday.
 
-Mine was due at 4:17.
+Aluna came out of my closet holding the adjustable trousers she had brought me. They had ties at the waist, knees, and ankles and enough folded cloth to fit anything from very tall to discouragingly broad.
 
-At 4:14, my mother checked the potatoes. At 4:15, my father reminded me that he had the car only until ten and the diner stopped serving my favorite pie at nine. At 4:16, my friend tapped the single movie ticket sticking out of my phone case and mouthed, *Afterward.* I had promised my mother dinner and photographs, my father the diner, and my friend a walk to the old pedestrian bridge before our movie. The times had never fitted. I had planned to make each person forgive the others once they were all in the same room.
+“They look like curtains,” I said.
 
-I was good at being forgiven for saying yes.
+“You said no robe.”
 
-At 4:17, my next breath began in eighteen throats.
+“I meant something elegant.”
 
-The kitchen did not get larger. I did.
+“I brought safety pins. Elegance is phase two.”
 
-My hip struck the table from three directions. A shoulder met the refrigerator. Knees folded under me by the pantry, the sink, the back door, all around the island. I saw my mother's face close enough to count the flour on one cheek and, at the same instant, far away between a forest of gray sleeves. I saw the ceiling light as a white disk, as a blur in the dark window, as eighteen separate flares. The bakery box hit the floor. Someone screamed with my voice. Seventeen other versions of the scream tore out with it, raggedly out of time.
+Most true forms did not make this much preparation necessary. People grew a little, lost old scars, changed the shape of a face or the reach of a hand. My cousin had turned eighteen and acquired ears that could hear water moving inside walls, which had led to a plumbing apprenticeship and a bad month of sleep. Jaro had woken on his birthday with a different sex and spent two weeks replacing school records that had somehow been easy to correct everywhere except the swimming pool office.
 
-Then all the views slid sideways.
+“Drink before it happens,” he told me, setting down the cake. “I was so thirsty afterward I emptied a whole jug.”
 
-For a few seconds I was nowhere I could name. Cold tile pressed one palm. An oven dial burned against one shoulder. My left heel was under somebody else's thigh, except the thigh was also mine. Eighteen hearts battered at different speeds. When I tried to stand, six bodies rose, four crawled, and the rest pulled against them until the whole knot collapsed among overturned chairs.
+“That was the hormones,” Maela said.
 
-My mother climbed onto the counter. My friend caught the transformation kit before it fell. My father kept saying, "Don't move. Don't move," which was sensible and impossible.
+“That was me being thirsty.”
 
-I chose the body nearest the pantry. Choice was not quite the word; I narrowed toward it, the way I might listen for one instrument in a song. The grain of the cabinet door sharpened. I curled that body's fingers and pushed upright.
+“You also ate six eggs.”
 
-The other seventeen stayed where they were. They breathed. One kept rubbing a knee. Another gripped a chair rung. None of them vanished when I stopped looking through their eyes.
+“Still do. Entirely practical history.” He nudged the cake box away from the edge of my desk. “See? I’m useful.”
 
-"I'm okay," I said.
+I wanted useful people there, but I also wanted them upstairs. I wanted the lights strung on the clotheslines and the roof tiles still warm beneath my feet—whatever feet became—and Aluna laughing at Jaro’s music choices while Maela claimed not to monitor the parapet. I had spent a month planning a supper that could survive a tail, feathers, extra height, lost height, altered hands, or temporary blindness. The balcony door stood open so we could reach the roof stairs. The fan spun at its lowest setting because the apartment held the day’s heat.
 
-Across the room, another of my mouths finished, "Okay," half a second late.
+Aluna checked her phone. “One minute.”
 
-My mother stared from one face to the next. Every face was mine, unchanged down to the small mark under my chin. Every body wore the loose gray clothes I had put on, although only one phone lay on the tiles where it had fallen from a duplicated pocket that was now empty seventeen times over.
+We all stopped pretending to have tasks.
 
-"Which one?" she asked.
+I sat on the rug. My heart beat once, hard enough to feel in my teeth. Maela climbed down and took my hand. Her palm was flour-dry from shaping the rolls. Jaro tried to lean casually against the doorframe and missed it by a finger’s width. Aluna stood with the trousers bunched against her chest.
 
-"What?"
+At the hour and minute printed on my birth record, I came apart without pain.
 
-"Which one is you?"
+The room expanded in every direction.
 
-I moved into the body by the sink because that was the one she was looking at. The pantry went dim, not blind but unimportant. "This one."
+I was against the ceiling where the trapped air baked my back. I was under the desk in cool dust. I brushed Maela’s cheek, struck the wardrobe door, tasted tape, saw the fan from above and below and inside its flashing circle. Forty-three flat, luminous bodies, each no longer than Maela’s hand, unfolded translucent fins and caught the air.
 
-My friend looked at the body by the pantry. It was still standing. Its face had gone slack.
+There was still an I. It had no center.
 
-"No," I said from the sink. I reached for another body, then another. Each became *here* when I attended to it, with the rest reduced to pressure, temperature, balance, and a rack of open senses I could not understand all at once. "All of them. I think."
+That certainty lasted until the fan took me.
 
-My father counted twice. There were eighteen.
+Wind hit seven of my bodies broadside. The same shove arrived with seven different tilts, and I corrected all of them the same way. That was wrong. Three rose. Two spun into the curtains. One slapped flat against the wall. Another shot toward the uncovered gap beneath the mixing bowl.
 
-We spent the next twenty minutes getting me off the floor. A single command worked well enough if nothing changed: when I thought *raise your right hand* and let the instruction spread, eighteen hands rose. When my mother asked whether any of them hurt, I turned to answer through the body nearest her and three others walked straight into chairs because *step backward* was still running.
+I tried to shout. Forty-three throats tightened. What came out was a chord of glassy hums, high near the ceiling and low beneath the bed, so loud inside my new awareness that I could not tell whether anyone else heard it.
 
-"No group instructions near the stairs," my father said.
+Maela did. She dropped to the fan and yanked its cord from the socket.
 
-"Write that down," my mother told my friend.
+“Close the balcony,” she said. “Now. Jaro, door. Aluna, towels under everything.”
 
-"On what?"
+“Arlo?” Jaro asked.
 
-We all looked at the one phone.
+I flashed blue-white across the room. I had not chosen to.
 
-That was when I began to laugh. It started in the body beside my friend and shook through the others as sensation bounced around the room. My father laughed next, short and startled. My mother sat down on the counter and covered her mouth.
+He took one step toward me. Every body near him flinched, and the movement propagated through the rest until I became a blizzard of fins.
 
-"We don't have to cancel anything," I said.
+“Stop,” Aluna said quietly. “Arlon moved away.”
 
-My mother's hand came away from her mouth. "We absolutely have to cancel something."
+“Or they’re cold.”
 
-"No, listen. One of me stays for dinner. One goes with Dad. One goes to the bridge. That's three. I have fifteen left."
+“Both can be true. Stop moving.”
 
-My father glanced at my mother, then at the clock. "I only need one passenger seat."
+Jaro stopped. Maela shut the balcony door. The apartment became suddenly still, though I kept drifting on currents I had never felt as a person with skin.
 
-"And I only need one of you for the photographs," my mother said slowly. She was already looking at the room as a problem that could be stacked, seated, and fed. "Maybe three, if your aunt still comes. No. Four would balance the sofa."
+Maela began to count.
 
-My friend got down from the counter. "How many of me are there?"
+She pointed, lost her place when I crossed myself, and started again. On the fourth attempt she used objects instead. She set a baking tray on the floor and poured a skin of water into it. Aluna placed three desk lamps around it, not close enough to heat. The first part of me descended because the reflected light looked like depth. When my mouth touched the water, thirst went through all of me so fiercely that the rest followed.
 
-"One."
+Not all at once. I could not move forty-three bodies toward one target without colliding. I learned to gather by layers: first those nearest the floor, then the ones clinging to fabric, then the hot and frantic cluster at the ceiling. Each mouth that drank eased the thirst a little. Each body that landed on the tray gave Maela something she could touch with one finger and count.
 
-"Good answer."
+“Thirty-eight,” she said. “Thirty-nine.”
 
-I mistook that for agreement.
+I felt one body pressed between curtain and wall, fin crumpled but moving. Another rocked beneath the bed. A third had found the top of the wardrobe and liked the dust-warm quiet there. Two sensations came as distant irritations I could not place.
 
-For the first hour, multiplication felt like competence.
+My light went sharp yellow. Jaro opened his mouth.
 
-I stationed two bodies in the kitchen with my mother. One wiped frosting from the fallen bakery box while another peeled foil off serving trays. My father took three into the yard to unfold chairs and inspect the fence where a recent storm had loosened a panel. I put four in the living room before relatives arrived, two upstairs to find extra blankets, and one on the bottom stair beside my friend. The remaining bodies waited in the hall for assignments, hands at their sides, as restful as I could make them.
+Aluna held up a hand. “We don’t know.”
 
-We learned that distance did not thin me out. The body at the back fence felt wind under its shirt while the one at the oven sweated. Memory was not the problem. Everything that happened to me went into the same crowded moment. Attention was.
+Maela repeated, “Thirty-nine.” Her voice had gone too careful. “Four missing.”
 
-My mother told the kitchen body to pass the salt. My father asked the yard body whether a screw had stripped. My friend said something on the stairs. I reached for the salt, and the body in the yard kept turning the screwdriver after it had slipped out of the groove. When I moved to stop it, the kitchen body reached past the salt and pushed a glass across the counter.
+I made the bodies on the tray lift into a tilted line toward the curtains. Aluna looked there. I pulsed brighter. She eased the fabric away from the wall and offered her forearm like a branch. The trapped body slid onto her sleeve. Its bent fin hurt everywhere.
 
-"Maybe fewer," my mother said, catching it.
+“Forty,” Maela said when Aluna brought it to the tray.
 
-"I can learn."
+The one under the bed was easy. Jaro lay flat and pushed a cushion along the floor, slowly enough that the air ahead of it coaxed me out instead of bowling me into the skirting board.
 
-"You have been eighteen for fifty-three minutes. You do not have to learn it before dinner."
+“That makes forty-one,” Maela said. “Two.”
 
-But the doorbell rang, and the arriving relatives saw me filling the room. There were cries, questions, embraces offered to whichever body stood closest. Four of me fit on the sofa exactly as my mother had predicted. She arranged knees and shoulders while phones came out.
+I sent a cluster up toward the wardrobe. The warm body there refused the shared intention for half a second—not another will, just one set of muscles receiving an instruction late. It took effort to make it leave. When it joined the tray, cool water erased the private pleasure of dust.
 
-"Look here," she said.
+One remained.
 
-I looked through the second body from the left.
+I was in every place I could see, but one ache came from nowhere: a dry pull, a vibration, metal under my belly. I lit red, then blue, then red again, trying to force meaning into color.
 
-"All of you."
+Jaro searched behind the radiator. Maela looked inside the wastebasket. Aluna did not look away from the bodies gathered over the tray.
 
-I spread *look* across the four. Their faces turned at once. The flash went off just as my father called from the yard, and my attention jumped. In the photograph, I learned later, three faces smiled and one stared past the camera as if listening through a wall.
+“Do that again,” she said.
 
-Snacks created another problem. My mother handed a sandwich to the nearest body. I ate it while I listened to my father explain the fence. Ten minutes later I complained that I was hungry.
+I did not know what she meant.
 
-"You just ate," she said.
+“The low sound. When Maela touched the vent cover.”
 
-"That one did."
+Maela reached up and tapped the mixing bowl. The missing body felt the vibration through metal. I answered with every fin I had. A low tone shivered from forty-two bodies, while somewhere inside the vent the last one buzzed against the duct.
 
-The body in the living room was pleasantly full. The kitchen bodies were not. Hunger glowed in seventeen stomachs with enough variation to keep me from forgetting any of them.
+Maela went white. “I covered it.”
 
-"There are potatoes," my mother said, and then looked toward the oven as if it had betrayed her.
+“There’s a gap underneath,” Aluna said. “Arlon went through before the tape settled.”
 
-My father offered to order food. My mother said she had made food. They carried that argument into the pantry, using voices too low for guests and not low enough for eighteen pairs of ears.
+“Can they come back?” Jaro asked.
 
-On the stairs, my friend put my phone facedown between us. The body I had left with them was sitting upright, hands clasped. I narrowed into it.
+The question was for me, but I had no yes.
 
-"I'm back," I said.
+Aluna put her palm beside the tray. “Arlon, touch once if you want us to remove the bowl.”
 
-"You didn't go anywhere."
+One of my bodies settled against her hand. Once.
 
-"You know what I mean."
+Maela climbed onto the chair. Her first pull made the tape crackle, and the body in the duct beat its fins in panic. Forty-two bodies scattered off the tray. I made myself return. Aluna’s hand stayed where it was.
 
-They watched my eyes. "What did I just tell you?"
+“Slower,” she said.
 
-There were too many fresh memories: my mother's thumb denting a roll, the fence screw bright in the grass, somebody's perfume in the living room, the scrape of a chair upstairs. Sound from the stairs was in there too, but I could not pull words from it.
+Maela peeled the tape loose by centimeters. Jaro held the chair. When the bowl came free, the current from the duct breathed outward. The last body shot into Maela’s chest. She caught it against her shirt with both hands and stood frozen.
 
-"That the bridge will be crowded?"
+It was not a pet in her palms. It was not a small me she could address separately. The pressure of her fingers reached all my bodies, and I pushed once against her right hand to show I was conscious of it.
 
-"I said I moved the movie to eight-thirty."
+“Forty-three,” she said.
 
-"Perfect. Then this one can go with you, and another can go to the diner."
+Then she counted again.
 
-"Which one gets the phone?"
+By the second count, I could choose a soft green glow if I concentrated. By the third, I could make a high tone by raising all my forward fins together. Neither signal meant anything until we gave it work.
 
-"You can."
+Aluna kept her palm open. “Touch once for yes, twice for no.”
 
-"That wasn't my question."
+I touched once.
 
-My mother called from the kitchen. My father called from the yard. I stayed on the stair by force.
+“Do you want the window closed?”
 
-"I can focus on you at the movie."
+Twice.
 
-"And until then?"
+“Do you want the fan on?” Jaro asked.
 
-"I have to get dinner settled. Give me ten minutes."
+I slapped Aluna’s palm twice so hard that three bodies lost altitude.
 
-"The one in the kitchen already asked for ten minutes."
+He laughed, and the laugh was ordinary enough to loosen something in the room.
 
-"That was also me."
+Maela did not laugh. “The supper is off.”
 
-"Then you already got them."
+I gathered into the closest thing I had to my old height: an upright spiral with a blank space where my face should have been.
 
-They picked up the phone and placed it in my palm. Their voice went flat, not sharp. Anger would have been easier to answer. "I don't want you to park a body beside me and call it hanging out."
+“That might mean no,” Aluna said.
 
-"It isn't a body. It's me."
+“It might mean Arlon wants to be taller,” Jaro said.
 
-"What did I say about the movie?"
+I made the high tone, then bumped the cake box with six bodies.
 
-"Eight-thirty."
+“Cake,” Jaro said promptly.
 
-"Before that."
+Maela looked at him. “You cannot translate them because you also turned eighteen once.”
 
-I heard my mother call again. The body beside my friend had turned toward the kitchen before I decided to move it.
+“No. But I know Arlo.” He pointed at the roof, then the cake, then me. “Upstairs?”
 
-"I don't know," I said.
+I touched Aluna’s palm once.
 
-"Right."
+Maela repeated, “No.”
 
-They stood. I caught their wrist, then let go because another hand, in the kitchen, had just taken hold of a hot tray.
+I flashed yellow without meaning to. Jaro began, “When I changed—”
 
-My mother's oven cloth was too thin, folded twice. I knew that through the kitchen body. I also knew my friend was descending the stairs and my father was opening the back door to say the fence could wait but the diner could not. The potatoes hissed in oil. My mother cleared a space on the counter.
+“You had one pair of feet,” Maela said. “You drank water and changed your school card. Arlon has already been inside a wall.”
 
-"Hold it there," she said.
+Jaro rubbed the side of the cake box where my fins had smudged the green writing. “Yes. This is not the same. I was going to say everyone spent my first dinner deciding what I could handle without asking me.”
 
-I held it.
+“You had words.”
 
-My father touched the shoulder of the body nearest the door. "Six-thirty. If we leave now, you can be back before the film."
+“And nobody waited for them.”
 
-"Yes," I told him.
+Maela pressed the heel of her hand to her forehead. She was right about the roof. That made me furious with her.
 
-"I mean you. Not one standing in the hall while you're in the kitchen."
+I arranged five bodies over the tray and sent five toward the covered vent. Maela’s hand dropped.
 
-I reached toward him, meaning to prove I could be present.
+“Is that a threat?” she asked.
 
-In the kitchen, the folded cloth loosened under the tray's weight. One corner slipped. The metal settled against my palm.
+It had been intended as a demonstration: I could choose two tasks at once now. The two groups wavered because her question made me doubt my own signal.
 
-At first it was only pressure. The unattended hand obeyed the last useful instruction it had: hold.
+Aluna moved her open palm between us. “One touch if that was meant to show control.”
 
-Heat punched through all eighteen of me.
+Once.
 
-The tray hit the floor. Potatoes rolled beneath the table and burst against cabinet doors. In the yard, a chair snapped shut on my fingers. Upstairs, a body walked into the linen cupboard. Four bodies in the living room cried out together and one knocked over a lamp. Every conversation ended in the same raw noise.
+“One touch if you still want the roof.”
 
-I came back to the kitchen hand. The palm was red and already swelling in one place. Only that body was burned. Every body knew the pain.
+Once.
 
-My mother pulled me to the sink and turned on cool water. My father cleared the scattered pan with his shoe so nobody stepped on it. My friend, halfway to the front door, stopped and looked at all the places I had gone still.
+“One touch if you’ll wait while we make it less stupid.”
 
-"How long were you holding it?" they asked.
+I hesitated long enough for Jaro to say, “That’s a strong maybe.”
 
-"I don't know."
+Once.
 
-"You went blank on the stairs before it fell."
+We spent the next hour making the roof less stupid.
 
-"Get the first-aid box," my mother said.
+The fan stayed unplugged. Jaro rolled towels into every vent gap and carried the cake upstairs without dropping it, which he mentioned twice. Maela set shallow bowls around the table and diluted the lentil filling until I could sip it. Aluna borrowed bedsheets from the laundry room and rigged them between the roof posts as windbreaks, leaving wide curves rather than corners that could trap me.
 
-My friend did not move until I looked directly through the burned body and said, "Bathroom cabinet. Top shelf."
+Every choice took time. Window open? Once. Candles? Twice. Music? Once, after Jaro turned the speaker low and put it on the floor so I could feel bass through the tiles. Continuous counting? I answered twice. Maela asked again in case I had misunderstood. I answered twice again, then pushed seven bodies into a line and made the others circle them. She watched, baffled.
 
-Then they ran.
+“Seven what?”
 
-Under the cold stream, the house arrived in pieces I could no longer pretend were a household I commanded. One body stood barefoot beside the fallen lamp, unable to decide whether to lift it. Another waited in the yard with rain beginning on its face. Two had found blankets upstairs and kept gripping them, arms tired. The hall bodies needed the toilet. Seventeen stomachs wanted dinner. Eighteen heads were full of voices asking for a turn.
+I had meant count only if seven of me left the room. Formation was not language merely because I wanted it to be.
 
-My mother was saying the burn did not look serious. My father was saying it should still be checked. Each spoke to the same wet hand.
+“We’ll ask before counting,” Aluna said. “And if we lose sight of anyone—any part—we count anyway.”
 
-"Stop," I said.
+I touched once.
 
-Neither heard me over the tap.
+On the roof, the city’s warm drafts held me better than the apartment had. I rose above the table and saw our block in forty-three overlapping pieces: laundry snapping on the next building, silver tanks, windows turning amber, swifts cutting through the lower clouds. Music traveled through air, fins, roof tiles, bowls. I could hover inside the bass line.
 
-I turned it off. From the bodies in the living room, the yard, upstairs, and the hall, I let the same word come out, not quite together.
+Jaro served the cake. Its icing said HAPPY EIGHTEENTH, ARLON, though the final N had slid downhill. He mashed my slice with water in a saucer.
 
-"Stop."
+“A culinary crime,” Aluna said.
 
-The whole house quieted.
+“They have forty-three mouths and no teeth.”
 
-"No more pictures," I said from the living room. "I'm not going to the diner," I said from the door. On the stairs I faced my friend, who had returned with the first-aid box. "We're missing the bridge and the movie."
+“You don’t know about the teeth.”
 
-My father set his keys on the counter. "I only asked for one of you."
+Jaro peered at the body nearest him. I opened its mouth. He leaned back. “Tiny teeth. Fine. A culinary adaptation.”
 
-"There isn't one I can spare."
+I tasted icing through eight mouths at once. Sweetness did not multiply. It spread. Lemon arrived at the left edge of me; sugar at the right; a crumb of almond became briefly more important than the whole sky. I made the green glow and a warm low chord.
 
-"That's not what I meant."
+“Good?” Maela asked.
 
-"If you ask me something at the diner, I can't be holding a towel here. If I hold the towel, the face across from you does that." I let the body beside him go slack. It was cruel, but it was accurate.
+I touched once, icing Aluna’s palm.
 
-He flinched. "Then leave the other seventeen alone for two hours."
+“Very good, apparently.” She wiped her hand on Jaro’s sleeve.
 
-"They get hungry. They need bathrooms. One of them just got burned because I left it alone for less than a minute."
+He objected. Maela told him where the napkins were. They argued about whether he had brought enough forks, even though I no longer needed one. For a while, the party became the thing I had planned: food cooling, music slightly too loud, the first lights strung overhead. I flew loops around Jaro’s head until he ducked, then held a broad ring above the cake while Aluna photographed the empty center.
 
-My mother's hands stopped moving over the bandage wrapper. "We can manage the others."
+I wanted to show them I had learned faster than their fear.
 
-"You thought one sandwich fed all of me."
+I widened the ring beyond the windbreak.
 
-Her mouth tightened. "I had one child at four-sixteen."
+The air there was delicious—cool, lifting, full of the rain’s mineral smell. I sent bodies over the parapet, around the water tank, along the clotheslines. Distance added a delay that felt at first like pleasure. My intention rolled through me instead of arriving at once. I could begin a turn at one end and watch it become a wave.
 
-All eighteen throats tightened. I wanted to tell her she still had one child. I wanted to say it from every mouth until she believed me. Behind her, relatives had begun collecting coats without looking at the four versions of me on the sofa.
+Maela stood. “Arlon. Closer.”
 
-"I know," I said. It was the only answer I could keep inside the room.
+I flashed green and widened farther.
 
-My friend opened the bandage packet with their teeth. "What do you need first?"
+The rain arrived as a single hard sheet.
 
-Not *which one*. Not *where are you*.
+One bedsheet tore loose from its lower knot. Wind punched beneath it, and the cloth snapped upward through my formation. Seventeen bodies tumbled toward the roof. Nine blew behind the water tank. Five went over the parapet. The rest slammed into the wet windbreak or scattered into rain so thick that every drop was a separate impact.
 
-I inventoried myself as best I could. Burned hand. Pinched fingers. Rain-cold skin. Full bladder, eighteen variations. Hunger everywhere. Too much light.
+For an instant I tried to correct everything.
 
-"Clear the stairs," I said. "I have to bring everyone down one at a time."
+The result was nothing. Commands crossed in me. Bodies turned against one another. One of the five beyond the parapet struck a gutter and caught there, fins plastered by water. The other four dropped below the roofline into air that no longer spoke clearly to the rest of me. Behind the tank, metal amplified the storm until I could not separate sound from touch.
 
-It took forty minutes.
+Maela shouted numbers.
 
-My friend stood at the bottom and kept the route open. My father carried the fallen lamp out of the way. My mother said goodbye to the last guests, then went upstairs and gathered the blankets my hands had dropped. Nobody apologized. Nobody agreed about what tomorrow should look like.
+“Twenty-six here. Aluna, tank. Jaro, get away from the edge.”
 
-I walked each body into the living room under deliberate control. The rest waited where they were, breathing and shivering and holding still. The body at the fence came last, mud between its toes. When all eighteen of me sat on the floor, the room felt smaller than the kitchen had.
+“Arlo, come to the light!” Jaro called. “Green if you can hear me. Green—”
 
-"Food," I said. "A lot of it. Anything fast. And floor space."
+I lit red, green, white, all involuntary. The wet bodies on the roof pulled toward his voice; those below the parapet could not find it. A fin caught in the gutter seam. Pain narrowed me to that bright metal line, and the bodies in safety dropped from the air.
 
-My father picked up his keys, not to take me to the diner but to collect six pizzas and every bottle of juice the corner shop had chilled. My mother found two camping mats, a foam topper, couch cushions, spare duvets, and towels that did not match. She complained while she worked: about oil on the cabinets, about wet footprints, about the relatives who would tell the story badly. The complaining helped. It meant she had found tasks the evening could still contain.
+“Stop talking,” Aluna told Jaro.
 
-My friend sat beside the burned body while my mother wrapped its hand. "I'm still not going to the movie with an empty face," they said.
+“They need a direction.”
 
-"Fair."
+“You’re giving forty-three of them one direction.” She crouched by the water tank, not reaching into the dark gap. Rain pasted her hair to her jaw. “The light follows whatever Arlon notices. It isn’t an answer.”
 
-"And don't say 'later' unless you know when."
+Maela held the loose sheet across her body, making a low shelter on the tiles. “Twenty-six under here. Three on the table. I can see four by the tank.”
 
-"I don't know when."
+“There are more behind it,” Aluna said. “Arlon, move the ones that can see my hand toward it.”
 
-"That's better."
+She lowered her palm to the roof. Four wet bodies crawled rather than flew. I brought them to her one at a time, because one at a time was suddenly a relief. Touch. Shelter. Touch. Shelter.
 
-They handed me the end of the bandage. I had to attend closely to tie it with the other hand.
+“Thirty-three,” Maela said. Then, because stress made her repeat, “Thirty-three here.”
 
-We fed me in shifts. Five bodies ate while I moved attention among them; the others lay on blankets with glasses of water placed safely on the floor. Chewing turned out to be easier than conversation, but I still did not trust an unattended mouth with hot food. The first pizza was gone before the sixth body ate. My father watched the boxes empty and made a second trip without being asked.
+Jaro knelt well back from the parapet. He put both hands around the metal railing and struck it with his ring: one slow tap, a pause, another. The vibration reached the body in the gutter. It reached two beneath the roof edge and two clinging to drain brackets below them. It reached the parts of me against the tank as a faint clean pulse inside the rain.
 
-Near midnight, sleep began taking bodies without order. A body beneath the window went first, curled around a couch cushion. Two on the camping mats followed. Each time one fell asleep, a bank of sensation dimmed: the itch of a seam, the ache of a shoulder against the floor, the refrigerator's hum from that angle. The room did not disappear. It became possible to hear it.
+He did not call my name again.
 
-My mother went to bed after setting an alarm to check the burn. My father lay down in the armchair and insisted he was only resting his eyes. My friend texted home from my phone, then stayed cross-legged beside the last cake box.
+I abandoned the whole formation. The idea of it, anyway. I took three bodies around the tank while the rest lay wherever Maela and Aluna placed them. Behind the tank, a broken bracket made a pocket out of the wind. One of me huddled there and four more had wedged beneath the tank’s raised rim. Aluna could not see the latter, but she saw where the first kept turning.
 
-At one-forty in the morning, seventeen of my bodies slept.
+“Under?” she asked, pointing.
 
-I sat awake at the coffee table in the body with the bandaged left hand. It was not a core. It was only the one whose discomfort kept it up. Around us, I breathed in seventeen slow, mismatched rhythms. For the first time since 4:17, none of them needed me to choose what happened next.
+I touched her knuckle once. She lay flat, reached only as far as I could see her fingers, and waited. I moved the trapped bodies over them in pairs.
 
-My friend cut a slice of the dented cake and set it in front of me.
+“Forty-two,” Maela said when the bodies below the parapet followed Jaro’s vibration up the wet brick and into her sheet shelter.
 
-"Which one of you is tired?" they asked.
+The count seized all of us.
 
-"This one is hungry."
+One remained in the gutter. I felt cold water push it along the metal channel toward the downspout. Its fins could not lift. The railing taps said where the roof was but not how to reach it.
 
-"That's not what I asked."
+Maela hooked one arm around a post and leaned toward the gutter.
 
-"It's the answer I have."
+“No,” Aluna said. “You can’t reach.”
 
-They considered that, then nodded toward the cake. "The icing tastes like toothpaste."
+“I’m not leaving them there.”
 
-I took a bite with my right hand. Orange, too sweet, with a strip of cardboard stuck to the frosting.
+Jaro kept tapping. He had finally learned that adding instructions would not help.
 
-"It does not."
+I moved six dry bodies out from under the sheet. Wind took them, but this time I did not ask all six to do the same thing. Two braced along the parapet. Two descended in its lee. Two stayed above, catching the pattern of Jaro’s taps and answering with a fin-tone the gutter body could follow.
 
-They took the phone, set a ten-minute timer, and placed it between us. "Eat. I'll ask again when that goes off."
+Rain blurred the distance between my intentions. I sent each movement separately: lift the left fin; wait; push against the gutter base; wait. The body slid backward, away from the downspout. One of the descending pair reached it and pressed flank to flank. Touch made the next instruction clearer. Together they climbed the wet wall by short, ugly leaps.
 
-So I ate: one forkful, then another. The timer counted down in silence. Around us, seventeen bodies slept.
+Maela’s hand appeared over the edge, palm up but still.
+
+I brought the exhausted body onto it. She closed her fingers only enough to block the wind and lowered it beneath the sheet.
+
+“Forty-three,” she said.
+
+This time she did not start over.
+
+We left the roof while the rain strengthened. There was no graceful way to transport me. Maela carried the driest parts in the cake box with the lid off; Aluna held the water tray; Jaro wore his jacket backward and cupped nine bodies in the hood against his chest. I flew the rest in the sheltered space between them, following the low hum we could now make on purpose.
+
+Indoors, towels filled the rug. Aluna switched off the ceiling light when my bodies kept turning toward it and set two lamps at opposite ends of the room instead. Jaro moved the speaker under the table. Maela placed forty-three drops of mashed lentil filling on a baking sheet, then stopped herself before assigning each to a particular body.
+
+“Count?” she asked.
+
+I touched her wrist once.
+
+She counted by laying a fingertip gently against each wet back. I felt every touch in order: pressure, warmth, pressure, warmth, until the last one. Then I touched her back once.
+
+“Fans stay off,” Aluna said, checking the window screen. “One window open a finger’s width. Lamps low. Music low.”
+
+“Cake high,” Jaro said.
+
+Maela looked at the ruined corner of the cake. “Cake damp.”
+
+“That’s weather, not me.”
+
+“You carried it sideways.”
+
+“For Arlon’s safety.”
+
+I made a tone that began unevenly and gathered itself into something almost amused. Jaro waited instead of naming it.
+
+We ate on the floor because chairs no longer arranged us sensibly. I rested along shoulders, the table edge, the water tray, and the warm top of the unplugged fan. Aluna used the trousers’ many ties to sling my gift between two chairs as a soft landing cloth. Maela wrote SCREEN THE VENTS on the shopping list, below EGGS and beside a question mark about forty-three toothbrushes.
+
+There were still questions I could not answer. Whether distance would always blur me. Whether my bodies would grow. How I would leave the building on a windy day, or sleep, or sign my name, or tell someone more complicated things than yes and no. When those questions began to crowd the room, I let one part of me knock the cake server against Jaro’s plate.
+
+“More?” he asked.
+
+I touched once.
+
+He spooned lemon icing into three saucers. Maela complained that he had cut the corner with my name on it. Aluna found the green N stuck to the underside of the knife and set it on the cleanest saucer.
+
+I lowered forty-three hungry mouths toward supper while rain drummed on the screened window and Jaro restarted the music from the beginning.
