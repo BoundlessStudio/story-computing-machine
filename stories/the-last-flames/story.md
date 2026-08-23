@@ -8,318 +8,370 @@ canon: false
 
 # The Last Flames
 
-The old dragon came at dusk, alone and unhurried, while the last blue of the day sank behind the ice.
+Alexstrasza had one foreleg braced inside the eastern flue when Ygdrane landed.
 
-Alexstrasza heard his claws before she saw him. Each step rang through the frozen temple: four careful notes, a pause for breath, then four more. She waited in the receiving court beneath a roof open to the snow. The braziers there had never held wood. Their cups were carved from black stone, polished by centuries of dying dragons who had rested a chin, a talon, or the weary joint of a wing upon them.
+She felt him through the temple before she saw him: a heavy scrape across the outer shelf, then a pause long enough for loose rime to stop falling. The flue was half choked with black ice. She hooked out one last slab, let it smash on the stones below, and backed into the receiving chamber with soot between her scales.
 
-He crossed the threshold with frost webbed over his bronze scales. Age had made his wings translucent at the edges. Nothing pursued him. Nothing needed to.
+Ygdrane stood in the doorway. Snow had crusted over the ridges of his face and packed into the folds beneath his wings. He did not shake it off. His chest moved once, shallowly.
 
-“I have come with my last flame,” he said.
+"Is the basin clean?" he asked.
 
-Alexstrasza descended the three steps from her place at the court’s center. She was larger than he was, though once he might have dwarfed her. The heat within her turned the snow to bright pinpricks before it touched her red scales.
+"It will be."
 
-“Is it freely offered?”
+"That's keeper talk for no."
 
-“It is.”
+Alexstrasza crossed to the low bowl at the center of the chamber. She swept out the chips her flue work had scattered into it and wiped the blue ice with a square of felt. Around the bowl, narrow channels climbed the walls, white and empty.
 
-“What calls you out of life?”
+"Now it is."
 
-“The work of breathing.” His mouth bent in the faintest smile. “It has grown very dull.”
+Ygdrane eased himself down beside it. One hind foot slipped. Alexstrasza shifted toward him, and he opened an eye.
 
-“What do you leave unfinished?”
+"Don't start carrying me before I'm dead."
 
-He considered. The question was not ceremonial decoration. Alexstrasza had sent dragons home for answering it too quickly.
+She stopped. "Salt?"
 
-“A quarrel,” he said at last. “But not a good one.”
+"Thick."
 
-She bowed her head. He settled on the stone, folded his clouded wings, and breathed once into the hollow between them.
+She mixed ash salt with warm fat and held the dish while he licked twice. He made a face at the second taste.
 
-His final flame rose without smoke. Alexstrasza opened her jaws and drew it in.
+"Too much resin."
 
-For one immense instant she was two lives without confusing either. She remembered her own long vigil, and she remembered being him: the sting of blue ice breaking under a left wing; sunlight trapped beneath it like a second sky; the delight of plunging through before caution could spoil the fall. She tasted river salt, scorched onions, and the mineral sharpness of an egg cracked by a hatchling from within. Thousands of mornings flared and settled. The flame curled behind her breastbone, distinct among all the others she carried.
+"You asked for thick."
 
-The old dragon’s body released its final breath. Snow gathered on his muzzle.
+"Those are different failures."
 
-Alexstrasza had no expectation of a last flame of her own. Time accumulated in her instead.
+The eastern flue drew cleanly now. Air moved across the basin and lifted the smallest ash grains. Alexstrasza checked the four shutters, the drain groove, the felt under Ygdrane's jaw. Procedures first. They had served her longer than any kingdom she could still place on a map.
 
-Alexstrasza remained beside him until his new memories stopped arriving out of order. Then she lifted her head toward the high shafts cut through the temple roof. Their stone shutters stood open. Receiving always left excess heat in her, heat without recollection, and the cold halls could bear only so much. She exhaled. Red light climbed the shafts and vanished into the polar night.
+She settled opposite him.
 
-Before the glow had faded, wings beat wildly beyond the gate.
+"Did you come to Stillfire Temple by your own choice?"
 
-Three dragons stumbled into the receiving court. They were scarcely past hatchling size. Wet snow armored their backs; the thin scales along their throats had the cloudy sheen of a first winter molt. One struck a column with a shoulder, though the passage was wide enough for six dragons abreast.
+"I did."
 
-The foremost lowered their head. “Keeper. We brought our last flames.”
+"Do you ask shelter while you live?"
 
-Alexstrasza looked past them. The dark outside moved with more wings.
+"For however much of that remains."
 
-“Your name?” she asked.
+"At the end, will you offer your final flame?"
 
-“Kelyth.”
+Ygdrane looked into the bowl. His throat showed no light yet. "If I can. If I don't, you leave it with me."
 
-Their voice was young and roughened by cold. Their eyes were gold, with one pupil clenched narrower than the other.
+"Yes."
 
-“What calls you out of life, Kelyth?”
+That was the rite. The rest was waiting.
 
-“Winter.”
+For an hour his breathing snagged and resumed. Alexstrasza warmed more paste. He refused it. Near dusk, he lifted his head without her help and placed his chin above the basin.
 
-“Winter is outside. You are inside.”
+Flame appeared between his teeth, no larger than a candle at first. It did not leap when he coughed. It gathered. Ygdrane's claws tightened against the floor, then opened. Only then did the flame leave him.
 
-Kelyth’s foreclaws scraped the stone. “It followed.”
+It rolled into the basin in a dull red coil. The channels answered one after another, carrying its warmth up the walls until the whole receiving chamber held a low copper glow.
 
-“What did?”
+Ygdrane exhaled. He did not breathe again.
 
-The young dragon glanced at the two behind them. One had pressed both paws over their ears. The other watched the empty brazier beside the old dragon’s body and shivered.
+Alexstrasza bowed her head. The final flame entered her as heat beneath the breastbone, and with it came what the dying chose to leave: not words, not a second mind, not Ygdrane looking out through her eyes. Sensation, stripped of its explanation.
 
-“We brought our last flames,” Kelyth repeated.
+The three memory gates beneath the bowl warmed under her claws. They let a keeper return carried sensations to the ice during the burial. She closed them when the last copper light faded.
 
-More landed in the outer court. Some fell rather than landed. None bled. Alexstrasza saw no broken limbs, no singed membranes, no teeth marks from battle. They came in colors that made a strange spring against the ice—green, copper, pearl, umber—and all of them bore the soft-edged scales of youth.
+Snow rising instead of falling. The metal scent of a bitten tongue. Five pressures against the breastbone, evenly spaced. A horizon gone pale and cold in every direction.
 
-“The rite waits,” she said.
+Then nothing but her own body and the quiet weight beside the basin.
 
-Panic moved through them faster than speech. Tails struck pillars. A wing knocked snow from the lintel. Kelyth lurched up one step.
+Alexstrasza had received storms, kitchens, mating flights, the ache of old wings and the smell of hatchlings breaking shell. She had never received upward snow. She marked five short lines in the ash ledger and went to close Ygdrane's eyes.
 
-“You receive whoever comes.”
+The first young dragons arrived before she had wrapped him.
 
-“I receive what is freely offered.”
+There were eleven on the outer shelf, pressed so close that the smallest stood beneath other bodies. Their scales ranged from mud brown to hard blue. None carried the loose, inward posture of a dragon nearing death. They watched the receiving basin as if it were an open pit.
 
-“It is.”
+The gray dragon at their front kept one wing stretched across the doorway.
 
-“Then waiting will not change it.”
+"You've come for the basin?" Alexstrasza asked.
 
-Kelyth stared at her with the furious helplessness of someone who had found the door promised in a story and discovered it had a lock.
+"No."
 
-Behind them, a pale dragon whispered, “Put me below the seventh bell. It is quiet there.”
+"Then why—"
 
-No bell hung in the receiving court. The seventh had shattered four hundred years ago in a summer avalanche. Alexstrasza carried the memory of its fall inside a dragon who had rung it every dawn.
+"Roof," the gray one said. "Heat. Somewhere the little ones can stop moving."
 
-She led the youths away from the body and down into the cold alcoves.
+Behind her, a narrow green youth tapped the stone with his tail: two quick contacts, a drag, one more. Three throats showed brief bars of blue. The smallest shifted deeper into the group.
 
-By midnight there were thirty-two.
+"Your name?" Alexstrasza asked.
 
-The temple had been built for solitude. Its passages curved so that a dying dragon need never hear another’s questions. Now wings overlapped in the galleries. Tails lay across thresholds. The young dragons pressed their bellies to the floor, seeking the cold in the stone, and snapped whenever another body warmed it.
+"Ceryth. There are eleven. Count again when we move."
 
-The only chamber large enough to shelter them together lay below the inscribed rooms. A shift in the glacier had fused its door into blue ice. Alexstrasza had tested it at winter’s start; even her heat had failed to loosen the hinge.
+"What follows you?"
 
-Alexstrasza moved among them with bowls of snow carried in her jaws. They ate it greedily. None accepted the strips of dried fish she brought from the temple stores. Heat made them worse. Near the receiving court they muttered in voices too old for their narrow chests, using words for constellations that had not borne names in a thousand years. In the deepest alcoves, where ice filmed the walls, most fell into exhausted sleep.
+Ceryth's wing came down hard. "No questions that take a sentence."
 
-Kelyth did not. They paced three steps forward and three back, always ducking at the same blank section of ceiling.
+A copper youth behind her tried anyway. "It began where the—"
 
-“There was once a lamp there,” Alexstrasza said.
+His voice lengthened on the last word. The flame behind his teeth thinned into a bright thread and pulled north, though the outer wind blew south. Ceryth struck his jaw shut with the soft edge of her wing. The others broke at once into motion: claws scraping different intervals, tails touching shoulders, throat-lights flaring amber, blue, blue, white. Resin scent puffed from a crushed pouch.
 
-Kelyth stopped. “No.”
+The thread snapped. The copper youth folded down, coughing smoke.
 
-“You duck beneath it.”
+Alexstrasza stepped aside from the doorway.
 
-“Something burns my horns.”
+"North alcoves," she said. "Not the receiving chamber. Keep the floor channels clear."
 
-“Your horns do not reach the ceiling.”
+Ceryth counted them across the threshold. Eleven.
 
-Their gaze sharpened on her, then slipped away. “I know.”
+By midnight there were thirty-four.
 
-Alexstrasza sat at the mouth of the alcove, blocking none of it. She had learned patience from the dead, though not always kindness. “Where did you begin to feel this?”
+Stillfire had twelve funeral alcoves, four work chambers, two salt rooms, and one kitchen built for a keeper who rarely fed more than three guests. Alexstrasza moved Ygdrane to the cold resting room and turned the north alcoves into sleeping bays. She spread ash in firebreak lines, put stone jars beneath the meltwater seams, and opened the waste trench beyond the west wall.
 
-“In the snow.”
+The youths did not wait to be tended. Ceryth assigned two to each doorway and refused to put siblings in the same watch. A broad rust-colored dragon called Parrox found the driest fuel, rejected half of it as rotten, then announced that the kitchen's smoked goat had probably died before Ygdrane was hatched.
 
-“Where in the snow?”
+"It is four days old," Alexstrasza said.
 
-“Downwind.”
+"Then time has been unkind to it."
 
-“Of what?”
+"Eat or don't."
 
-Kelyth folded their wings hard against their sides. The thin scales at the joints had split from the pressure of constant trembling. “If I could name it, I would kill it.”
+Parrox ate. He also found three blocked vents before dawn.
 
-“Or flee it.”
+They slept in brief, ugly drops. Anyone who heard five knocks woke every dragon still breathing in the chamber. No bell, no shouted warning. Five contacts passed from tail to floor to claw, steady enough to recognize and short enough not to hold a tone.
 
-“We did flee.”
+The pattern pressed against Alexstrasza's breastbone each time. Ygdrane's residue answered with the same five beats.
 
-“Here.”
+She told herself it was resemblance. Carrying final flames trained the body to find one sensation inside another. It did not make coincidence into testimony.
 
-“Here is cold.” Kelyth’s voice softened. “Here it stops moving.”
+At second daylight, sixty-one dragons filled the temple.
 
-That much was true. In the alcove, their mismatched pupils slowly drew even. Their breathing settled. Alexstrasza heard the person beneath the confusion: young, frightened, irritated by questions and more irritated by being frightened.
+Alexstrasza stood beside the unused basin and watched them spend their strength on living. Two chipped ice from the meltwater drains. A row of younger ones mashed dried fish into fat because the smallest hatchling could not keep down goat. Ceryth argued over sleeping space with a black youth who wanted a wall between his group and the open flue. Neither yielded elegantly. In the end they shifted an ash line, moved six bodies, and made room.
 
-She asked, “What do you leave unfinished?”
+No one asked for the rite. No flame offered itself to Alexstrasza.
 
-Kelyth gave a dry huff. “My second molt. My first hunt alone. I was going to crack the thaw pools before anyone else got there.”
+They had not come to die.
 
-“You want those things.”
+The thought should have arrived sooner. Her work had made death the first question and shelter a pause before it. She scraped too hard at a patch of basin soot and scored the ice.
 
-“Wanting is loud. Everything is loud.”
+"That cup is singing," someone said.
 
-From the gallery came a crack like distant thunder.
+A pale, narrow dragon lay with her jaw against the kitchen floor. She had arranged seven meltwater cups in a crooked line. The third trembled, making a faint glassy note.
 
-A thread of water ran between Alexstrasza’s claws.
+"Ulune," Ceryth called from the passage. "Move. We need the water."
 
-Thirty-two living bodies had warmed the temple more than a century of solitary visitors. Frost softened on the arches. Meltwater dripped from the carved scales overhead and followed old channels toward the lower rooms, where past rites had scorched names into stone. Water filled the letters. When the galleries froze again, it would crack those names away. The memories themselves were safe inside her; without the record, she alone could say which life belonged to whom.
+"Take the other six."
 
-She went to the eastern gate and pulled its stone leaves halfway closed. The air warmed at once. A young green dragon screamed in their sleep, “Higher, sister, the cloud will bear you,” then woke clawing at the floor.
+"There are thirty mouths waiting."
 
-Alexstrasza opened the gate again. Snow burst through, whitening the gallery. The green dragon sagged with relief.
+"Then don't spill this one."
 
-The choice narrowed around her. Shut the doors and the youths burned in borrowed recollections. Leave them open and the storm buried those closest to the court. Send them away and whatever haunted them would resume beyond the threshold. Grant their requests and the temple would become a grave for dragons who could not tell her what part of their terror was their own.
+Parrox hooked two cup handles over a claw. "A workable compromise. Six drinks and one musician."
 
-Kelyth followed her to the receiving court. They moved more slowly now, dragging the outer edge of one wing.
+Ulune ignored him. She shifted the singing cup a claw's width east. Its note weakened. West, and the surface shivered harder.
 
-“Do it before I forget the thaw pools,” they said.
+"Not louder," she said when Alexstrasza approached. "Closer together. The little waves."
 
-“No.”
+"Closer to what?"
 
-“They are mine. I checked.”
+Ulune looked at Ceryth.
 
-“How?”
+"No questions that take a sentence," Ceryth said.
 
-“Nobody else remembers going through the ice because they were showing off.”
+"Then give me an answer that doesn't."
 
-Despite herself, Alexstrasza almost smiled. Kelyth saw it and bared their teeth.
+Alexstrasza set a strip of cured hide on the floor. With one claw she scratched a line for the temple and another for the northern shelf. "Direction?"
 
-“I am still here,” they said. “Do not smile as if that fixes it.”
+Ulune added three hooked marks farther north. Her throat flashed once, white.
 
-“It does not.”
+"Distance?"
 
-“Then take the flame.”
+Two blue flashes. Not known.
 
-Alexstrasza looked toward the high shafts. Heat shimmered above them from the old dragon’s rite, though the court remained bitterly cold. “Tell me what followed you.”
+"Metal?"
 
-Kelyth’s jaw worked. When they spoke again, the cadence was not theirs.
+Ulune's pupils narrowed. Ceryth's tail touched her ankle: wait.
 
-“Beneath the blue, the sun keeps a second heaven.”
+Alexstrasza went to the tool wall and brought back a moon-iron pin, one of the old fasteners she used when the winter doors warped. She laid it beside the singing cup.
 
-The receiving court seemed to tilt.
+The water flattened.
 
-Alexstrasza remembered blue ice breaking beneath a left wing. She remembered the sunlight trapped below it. The memory had entered her at dusk, when Kelyth was already at the gate.
+For one breath, all was still. Then heat crossed the ice beneath the pin and cast a dark band on the far side, a shadow made by warmth rather than light.
 
-“Where did you hear that?”
+Inside Alexstrasza, an elder's long-carried residue tightened the muscles along her left wing in an urgent southward turn. Another left the taste of cold metal behind her teeth. Ygdrane's snow rose against gravity.
 
-Kelyth blinked. “Hear what?”
+Fragments. None told her what had happened. Together they made her look again.
 
-“The sun beneath the ice.”
+"Show me," she said.
 
-“There isn’t sun. It’s night.” They shook their head violently, and their forelegs buckled. Alexstrasza caught their chest on one paw before their jaw struck stone.
+Ceryth put herself between Alexstrasza and Ulune. "One attempt. Outside the sleeping rooms. Vent open. Basin shut. If her flame pulls, we stop."
 
-Up close, the young dragon smelled of snow and banked ash. A fleck of red light pulsed beneath one translucent scale at the base of their throat, then vanished.
+"Agreed."
 
-“Red snow,” Kelyth whispered.
+"And you don't ask her to say it."
 
-“What?”
+"Agreed."
 
-“It falls here.” Their eyes rolled toward the shafts. “Only downwind. I thought it was the lamps.”
+They used the eastern work chamber. Parrox cleared the flue and wedged its shutter wide. Ceryth sent everyone else behind two closed doors. Alexstrasza packed expendable frost across the floor so Ulune could mark it.
 
-There were no lamps above the roof.
+Ulune began with the route: claw cuts for ridges, a long gouge for flat ice, then a crescent crosshatched until the frost glittered gray. She pressed the moon-iron pin into the crescent.
 
-Alexstrasza carried Kelyth back to the coldest alcove. Their body had begun to fail in ways cold could no longer ease. Each breath kindled a dozen false rhythms in their chest; their own flame, forced too long to answer every one, caught weakly and went dark. Alexstrasza laid packed snow along their throat. It hissed.
+She showed the aurora with throat-light, a green wash pulsing unevenly beneath her jaw. Her left wing tapped a separate rhythm against the wall. Her tail stayed in contact with Ceryth's foreclaw. At intervals she bit the resin pouch and released a sharp pine smell.
 
-“You knew the red came from the temple,” she said.
+Alexstrasza understood none of those pieces alone. Their lack of agreement was the point.
 
-Kelyth’s eyes opened a slit. “I knew where it fell.”
+Ulune stopped her wing. The throat-light smoothed. The moon-iron pin began to hum.
 
-“Why did you not tell me?”
+A line of flame slid between her teeth.
 
-“Would you have opened the gate if I said it was you?”
+Ceryth struck the frost mark through. Parrox knocked the pin aside. Alexstrasza dropped the flue shutter and raised it again, breaking the air column. Ulune's tail never left Ceryth's claw. She changed her throat-light from smooth green to three blunt colors, out of order.
 
-“Yes.”
+The flame withdrew.
 
-“I couldn’t wager them on that.” Their voice scraped thin. “The others need the cold.”
+"Enough," Ceryth said.
 
-Alexstrasza had received final flames from dragons ashamed of pain, proud of endurance, frightened of becoming a burden. None had ever swallowed an accusation to keep the gate open for those behind them.
+Ulune shook her head. "One thing."
 
-Kelyth coughed. Red sparks rolled across their tongue and went out against the ice.
+Her voice was rough and short. She pointed north, then to the line of sleeping rooms, then drew the smooth crescent again. Finally she dragged it south to the temple mark.
 
-“Ask,” they said.
+"It followed the matched pitch," Alexstrasza said.
 
-Alexstrasza knew which questions they meant. She did not begin with them.
+Ulune flashed white once.
 
-“If the borrowed fire were gone, would you choose to live?”
+"Speech makes one held shape. Crowds make it stronger."
 
-“Yesterday? Yes.” Kelyth pressed one claw into the ice as if testing whether it was still solid. “Now I can’t hold my own flame long enough to stand.”
+White again. Then Ulune scraped through Alexstrasza's second line and replaced it with a mess of short angles.
 
-“Do you know me?”
+"And difference breaks it."
 
-“Alexstrasza. Keeper. Too many questions.”
+Ulune leaned against Ceryth. Precision had cost her. "Sometimes."
 
-“Tell me what remains yours.”
+Parrox picked up the moon-iron pin with a folded cloth. "Good. I was worried the answer would be convenient."
 
-Their pupils wandered, found her, and steadied. “The thaw pool breaking under my front paws. My mother calling me an idiot. The taste of mud because everyone laughed and I laughed with my mouth open.” A tremor passed through their wings. “I wanted to get there first this year.”
+The aurora reached Stillfire on the third night.
 
-“What do you leave unfinished?” Alexstrasza asked.
+It came as a green band above the southern ridge, wrong only because it moved against the stars. Frost loosened from the ceilings. Every meltwater cup in the temple began to sing.
 
-“Most of it.”
+Five knocks passed through the floor.
 
-“Is your last flame freely offered?”
+The youths woke into crowding. Wings struck walls. Bodies pressed toward the warmer center before Ceryth's watchers could split them. Their fear gave them the same quick breath, and the same quick breath gave the temple a note.
 
-Kelyth took a shallow breath. For a moment their mouth shaped an antique answer belonging to someone else. They closed it, waited, and tried again.
+The receiving channels lit.
 
-“Mine is,” they said.
+Alexstrasza reached the basin as pale flame lifted from the nearest mouths. No one bent willingly toward the bowl. No claws opened in release. Yet the channels climbed blue as if dozens of final rites had begun at once.
 
-Alexstrasza bent her head.
+"Not the basin!" Ceryth shouted.
 
-Kelyth’s final flame was small only at first. It leapt from them with the fierce gold of young fire, and she received it whole.
+"I know."
 
-She ran on four short legs over a black shingle shore. She cracked ice with her foreclaws and crowed when freezing water drenched her belly. She was scolded, fed, jostled in sleep by clutchmates, terrified on her first flight, triumphant on the second. She knew the private shape of Kelyth’s courage: not fearlessness, but the refusal to let anyone see fear before it had been turned into motion.
+Alexstrasza slammed the receiving shutter across it. Flame struck the underside and spread through the wall channels instead. Stillfire had been built to carry a surrendered flame without letting it gutter. Now every provision of the temple served the thing outside.
 
-Alongside that life, never within it, foreign moments flashed like burrs caught in a mane. The broken seventh bell. A lamp burning where the alcove ceiling was now bare. A sister long dead banking above a cloud. Sunlight beneath blue ice.
+The hum deepened. A hatchling collapsed beside the salt room, throat shining.
 
-Then came Kelyth’s journey.
+Ceryth climbed onto the kitchen ledge. "Groups of seven. Different chambers. Watchers count out of order. Go."
 
-Red-lit snow streamed from the temple’s high shafts. Each flake was a bead of condensed heat. When one struck the soft scale at Kelyth’s throat, it burst into the taste of river salt from a life they had never lived. More fell as they drew nearer. The temple called not with a voice, but with relief: its cold walls quieted what its breath had scattered.
+Some moved. Others stared at her, their breath already pulling smooth.
 
-Alexstrasza emerged from the flame with her claws driven deep into the floor.
+Ceryth repeated herself, louder and faster. "Seven. Seven to a room. Move."
 
-Kelyth lay still beneath her. Their memories had settled among the countless others she bore, entire and distinct. The foreign fragments had also returned. She could feel how they fitted the lives from which they had torn.
+The repeated word joined the hum.
 
-Above, the shafts glowed red.
+Her jaw snapped shut. She beat one wing twice, the other once, then pointed.
 
-All winter, Alexstrasza had vented the harmless heat left by the dead. This winter’s cold had become deep enough to catch more than heat. It had condensed stray sensation, sound, and sight from her breath and carried them downwind. The youngest dragons, before their first winter scales had hardened, had taken those fragments into themselves.
+That they understood.
 
-Alexstrasza rose. Outside, the storm shoved snow through the eastern gate. Nothing moved in it but the ragged tracks of the arrivals, all leading toward the temple.
+Parrox shoved through the kitchen door carrying a fuel basket in his teeth. He dropped it at Alexstrasza's feet. "West vent frozen. East is pulling too hard."
 
-She climbed to the shaft controls.
+"Can you free the west?"
 
-The first wheel resisted. Ice sealed the teeth of its gears, and the heat rising past her face carried a hundred scents from a hundred deaths. She set both forepaws against the iron and turned. Stone shutters ground across the opening. She closed the second shaft, then the third.
+"If no one asks me to count while I do it."
 
-The change struck at once. Heat pressed back into her chest. Memories brightened and clamored in their separate thousands. She tasted old feasts, heard old storms, felt the ache of wings that were not hers. The temple walls sweated.
+"Take the ash rake."
 
-She could not hold the shafts closed forever.
+He ran.
 
-She did not need forever yet.
+Ulune crouched over the line of cups. She no longer spoke. White light, wing drag, amber, two claw taps. Across the passage, a youth answered with a tail scrape and a burst of bitter scent. Another answered differently. The signal moved without ever repeating whole.
 
-Alexstrasza descended past the inscribed rooms to the sealed lower gallery. The rime that had bound its door was wet now, softened by the dangerous warmth above. She broke the remaining ice and forced the door open. Cold rolled out, dense as water. Beyond lay a natural chamber of blue ice, its walls thick and lightless, with enough space for every living dragon to lie apart.
+The basin channels still gained light.
 
-She carried Kelyth there first and laid them on a shelf of blue ice near the entrance. Then she moved the weakest youths one by one. Those able to walk followed. No one asked again for a final flame.
+Alexstrasza put both foreclaws on the scored ice. Procedures first: close the shutters, clear the flues, keep the dying warm. Every procedure assumed the flame belonged here.
 
-In the deep cold, the red flecks beneath their scales became visible.
+This one did not.
 
-Alexstrasza chose the pale dragon who had remembered the seventh bell. They recoiled when she approached.
+She opened the memory gates.
 
-“I will not receive your flame, or any flame in this chamber,” she said. “I mean to call back one thing that belongs to a dragon already dead. I will stop if anything of yours answers me.”
+Final flames moved through her, but the dead did not rise and offer counsel. There was only the material they had entrusted: a summer ledge hot beneath the belly; salt spray striking the right eye; the greasy scent of river fish; a wing joint catching on the downstroke. Alexstrasza pressed those residues into separate channels, never long enough for one to settle.
 
-“You can do that?”
+Gold heat ran east. Violet cold answered west. One channel gave a low broken tone, another the smell of crushed fennel. Ygdrane's five breastbone pressures entered last, and Alexstrasza changed the spacing before the temple could make them even.
 
-“I do not know. Kelyth showed me where to begin.”
+The blue light faltered.
 
-The pale dragon looked toward Kelyth’s body. At last, they lowered their head, though their claws remained braced to pull away.
+Ceryth saw it. She stopped trying to direct everyone and began touching one shoulder at a time. A white throat-flash here. A tail strike there. Seven became six in one chamber and nine in another because the doors were blocked, and she left them that way. The unevenness mattered more than her count.
 
-Alexstrasza breathed a thread of flame between them, no wider than a whisker. The red fleck under the youth’s jaw stirred. A bell’s falling note rang through Alexstrasza with such force that for an instant she stood in a summer avalanche four centuries gone. She kept hold of the thread. The note traveled out of the young dragon and returned to the life in which it belonged.
+The youths chose their own breaks. One held a wing still while another rattled both. Two stopped their throat-lights entirely and fed resin into the vent. A hatchling who could manage nothing else clawed a single trench through the ash, ruining the smooth ring around the basin.
 
-Heat lodged behind Alexstrasza’s breastbone. She would have to bear that part herself now. There could be no venting it while the air remained cold enough to steal from her.
+The hum caught, lost them, caught again.
 
-The pale dragon gasped and jerked free.
+"West open!" Parrox called.
 
-“Name,” Alexstrasza said.
+Air punched through the temple. Ash rose in a black sheet. The receiving channels rang against one another, every tone wrong for its neighbor.
 
-The youth gave it. The word meant nothing to the dead inside her.
+Alexstrasza felt the pull enter her own throat. Immortality had not made her fire young, but it had made her carry more patterns than the temple had ever held at once. She could smooth them. She had spent ages smoothing them, giving each last flame a clean passage and a quiet place.
 
-“First memory.”
+She did the opposite.
 
-“Warm sand. Someone digging me out because I broke the wrong side of the shell.”
+She let heat stumble into cold. She set wing ache against the remembered pleasure of rain on an open mouth. She broke Ygdrane's five pressures into two, one, and two.
 
-“Something unfinished.”
+Around her, claws, vents, cups, wings, scents, and colored throats made no chorus. They made a crowd: frightened, stubborn, badly coordinated, alive.
 
-The pale dragon stared at her, bewildered. Then their wings loosened against the ice. “I promised to bring back fish.”
+The auroral band shuddered above the roof. Its green narrowed to a line. For a moment the moon-iron pin in the eastern chamber screamed against the stone.
 
-Their own life remained.
+Then the line tore into pale scraps and went out.
 
-Around the chamber, thirty dragons watched with exhausted, wary eyes. The storm still buried the upper courts. Meltwater still ticked behind the walls. Kelyth was still dead, and every borrowed fragment would have to be found separately, drawn through Alexstrasza, and held through the long cold. She could already feel the weight of the first return.
+Flame dropped back behind the youths' teeth. Several sprawled where they stood. One began to laugh and choked on soot instead. Parrox emerged from the west passage with the ash rake bent around one foreleg.
 
-She turned to the next living dragon.
+"Vent's open," he said.
 
-“Name,” she said. “Then tell me where the red light hurts.”
+"We noticed," Ceryth said.
+
+It was the first thing anyone answered aloud.
+
+Morning showed every failure the dark had hidden. Two wall channels had split. The kitchen floor was ankle-deep in gray meltwater. Resin stuck to the ceiling, and half the smoked goat had acquired an ash crust no one intended to eat.
+
+No one had lost a final flame.
+
+Alexstrasza moved among the sleeping bays with salt paste and clean water. Ulune was awake, copying the night's broken patterns onto hide in marks that did not form a repeating strip. Ceryth sat beside her with a headcount scratched in the floor.
+
+"Sixty-one," Ceryth said. "Still."
+
+"I counted sixty-one."
+
+"Count again after breakfast."
+
+Parrox limped in with the bent rake. "There is no breakfast. There is evidence."
+
+Ulune looked at the ash-covered goat. "Boil it."
+
+"In meltwater?"
+
+"We have plenty."
+
+Parrox considered this, then dragged the meat toward the largest pot.
+
+By midmorning, some of the older youths had chosen to fly to nearby rookeries with copies of Ulune's marks. Three wanted to go north when their strength returned and find the fracture without speaking near it. Ceryth did not assign either group. She checked their wing edges, divided the resin, and made each dragon choose aloud only when a short answer would do.
+
+Others stayed to repair Stillfire. They packed clear ice into the cracked channels and hauled spoiled ash outside. The smallest slept through the hammering.
+
+Alexstrasza returned at last to the cold room. Ygdrane lay as she had left him, wrapped and waiting. His rite was unfinished. The living had not made it less real; they had only made it wait.
+
+She carried him to the outer shelf. Ceryth came behind with the ash cloth, limping from a bruise Alexstrasza had not seen her take.
+
+"You have work," Alexstrasza said.
+
+"So do you. This takes two."
+
+It did, though Alexstrasza had performed it alone for centuries.
+
+Together they settled Ygdrane beneath the cairn stones. Alexstrasza spread the cloth over him. Ceryth held one corner against the wind without being asked.
+
+From inside the temple came five floor knocks. A pause. Then three, one, two.
+
+Ceryth looked back toward the doorway.
+
+"Breakfast," she said.
+
+"Go count."
+
+She went.
+
+Alexstrasza placed the last stone, cleared the snow from the eastern vent, and followed the smell of boiled goat inside.
