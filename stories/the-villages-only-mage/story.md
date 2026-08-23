@@ -8,348 +8,388 @@ canon: false
 
 # The One Who Helped Everyone
 
-The teacher saw the aura before she saw the mountain.
+The mill had begun clicking again, once every seven turns, and Beskaret knew you could not abide a machine that counted badly.
 
-The western peaks were still a black seam against the morning, their upper slopes hidden in cloud, but something beyond them pressed against every sense she had trained. It had no color. Her eyes found only snow and granite. Yet when she fed a thread of magic into the brass ring hanging from her wrist, its needle flattened against the forward stop and stayed there.
+You crouched beside the flour chute with your cheek near the warm boards. The stone’s rotation came through the frame into your teeth: six smooth revolutions, then the bronze bearing caught with a tick. Flour dust had pasted itself to the sweat on Beskaret’s forearms. He held the grain lever half-open while you reached under the housing and laid two fingers against the collar.
 
-She released the thread. The needle dropped, quivering.
+“Same catch?” you asked.
 
-“Again?” asked the youngest mage. His hood had blown back, and sleet shone in his hair.
+“Worse after noon.”
 
-“It cannot read higher.”
+“I’ll true it. Just until you fit the new one.”
 
-“Then shorten the range.”
+“New one’s been coming since spring.”
 
-The road mage turned from the cairn he had been examining. Rime furred his beard and the stitched shoulders of his pack. “Shorten the range and she loses the instrument. We are five hours from shelter behind us, if the lower ford hasn't risen. Four from the crest ahead, if the shelf stays clear. Decide with those numbers.”
+“Then until it gets here.”
 
-The youngest looked west. “If it's a breach, four hours matters.”
+You gave the bronze one small intention: turn as though its worn side were not worn. The work left you through your fingertips, no more effort than lifting a full cup. The collar warmed. Somewhere between it and the center of your chest, a thread drew taut, then settled into the familiar background pull.
 
-“If it's weather, four hours matters differently.”
+The mill turned seven times. Eight. Nine. Beskaret opened the grain lever and listened, head tilted.
 
-“It isn't weather,” the teacher said.
+“There,” you said, pleased.
 
-That was the trouble. The pressure had been faint two days earlier, easy to mistake for residue from a working. At dawn it had reached them through an entire mountain range. A human source would have to be pouring out magic without restraint. No one could continue at that rate and remain safe. A broken reservoir might be worse, but reservoirs did not originate power; some living hand had to fill them.
+“There,” he agreed. “Now eat before somebody finds you.”
 
-She put her glove back on. “We cross.”
+Someone had already found you. A hand appeared around the mill door, holding a child’s blue blanket.
 
-The road mage studied the cloud where it dragged a gray hem across the ridge. He did not argue. He tightened each of their pack straps, moved a coil of rope from the youngest's load to his own, and said, “If I call back, you come back. Curiosity freezes at the same temperature as good sense.”
+“Aumiri? We’re done with the warm.”
 
-The youngest smiled despite his chattering teeth. “You admit this is interesting.”
+You took the blanket from the child’s aunt. The old wool remembered what you had lent it three nights ago: keep this child comfortably warm. It was still feeding on your attention in a thin, sleepy way. You pressed your palm to the faded hem and took the intention back. The returning thread gave a little pluck, like a weed coming free whole.
 
-“I admit you are light enough to haul out of a drift.”
+“Fever?” you asked.
 
-They climbed.
+“Gone. She’s complaining about porridge again.”
 
-On the upper shelf, the trail narrowed to the width of a boot. Wind drove pellets of ice against the left side of their faces. The road mage went first, testing each white hollow with his staff. The teacher followed in the middle, no longer needing the brass ring. The aura lay ahead like depth mistaken for distance. When she used her own magic to feel for its boundary, she found none before the contact began to blur her sense of direction.
+“Good.”
 
-She stopped trying.
+“The east pen latch, when you’ve time.”
 
-The youngest did not. Twice she caught him lifting his bare fingers toward the unseen pressure, and twice she ordered his glove back on.
+“Sticks or opens?”
 
-“It could be three mages working together,” he said when they crouched behind an outcrop to breathe.
+“Opens. Only when the brindled doe leans on it.”
 
-“It could be three hundred,” said the road mage. “The snow does not care.”
+“I’ll come after the cistern.”
 
-"It is one source," the teacher said. That much, at least, the pattern made plain. One continuous residue, immense by every scale she knew, drifted over the peaks.
+“Goats first,” Beskaret said. “They’ve gone above the scree.”
 
-For the last mile down, smoke appeared and vanished between the firs. Then roofs emerged below them: a mill beside a narrow stream, a pair of barns, cottages tucked close against the slope. No shattered tower. No scorched ground. No people fleeing a magical disaster. Someone had hung washing beneath an eave despite the weather.
+They had not gone far. At the upper pasture you touched the little iron bell you had taught to lean toward its herd, and it tugged against your fingers with the stubborn certainty of a goat choosing the wrong path. You followed the pull past two junipers and found the animals cropping leaves in a gully. The brindled doe watched you without remorse.
 
-The road mage stared at the ordinary roofs. “Either we have followed the wrong thing, or they don't know.”
+You liked this part: the moment a nuisance became a task with edges. Bring six goats down. Hold the cistern seam until the cooper came. Steady a ladder while someone repaired a roof. The village gave you its crooked, leaking, feverish things, and you got to feel the instant they eased.
 
-“They know something,” said the teacher. Every person in the lane had turned toward them.
+By the time you returned the goats, there were four people waiting by the cistern and three strangers walking up the mountain road.
 
-The youngest drew a breath to ask.
+Lanternscrape did not receive many strangers. The road ended there because the mountain had seen no reason to continue it. These three wore dust pale to the knee and carried hard cases strapped across their backs. Fine copper vanes rose above one case and all pointed at you.
 
-* * *
+The broadest stranger stopped beside the water trough, stared at the vanes, then at the cluster of villagers.
 
-You were holding a little girl's heel when the strangers reached the center of the village.
+“Where is the one with the absurdly massive amount of magical energy?”
 
-The splinter had gone deep. You could have opened the skin, but the child had already decided the knife in your other hand was an executioner's blade. Instead you sent the finest thread of magic you could make along the grain of the black pine. Wood entered flesh by a particular road. With patience, it could be persuaded to remember the way out.
+The cistern cooper pointed at you. Beskaret, coming down from the mill, pointed too. After a moment, so did the child’s aunt.
 
-The splinter rose into your fingers. The child inspected the uncut heel, then looked offended that she had prepared so large a scream for nothing.
+You looked behind yourself.
 
-“You can use it next time,” you told her.
+“Aumiri,” Beskaret said. “They mean you.”
 
-Her grandfather, the cooper, snorted. “Don't encourage planning.”
+“No,” said the stranger with the case. “I mean the source that drew three survey needles off their stops from two ridges away.”
 
-You liked this work. You liked the sudden relief in a face, the click of a hinge settling square, the smell released when damp firewood remembered dryness. Being the village's only mage meant your breakfast often cooled while somebody described a leaking roof, but it also meant that nearly every day brought you a problem small enough to solve exactly.
+“That’ll still be Aumiri,” the cooper said. “Can they fix the needles?”
 
-That morning, the midwife had brought a cradle stone wrapped in two scarves. You warmed its center and stopped while its surface was still cool. A goat keeper wanted the north feeder pipe thawed but not the wooden joint beside it. The baker stood at the edge of the group with a bent oven pin in one hand and her covered starter crock at arm's length in the other.
+“Probably,” you said. “What are they supposed to do?”
 
-“You can put that down,” you told her.
+The stranger opened his case on the trough wall. Inside, three silver needles quivered over nested circles. “Torrigan. Comparative load surveyor. This is a source locator, not the damaged instrument. It reads one field here at”—he tapped a scale, frowned, and shifted to another—“at considerably more than the scale allows.”
 
-“Not near you.”
+The tall woman beside him put down a narrow red case. “Velshia. Containment. Don’t touch anything in either case.”
 
-“I haven't worked on the pin yet.”
+“Nimoret. Fieldwright.” The third traveler had already crouched to watch the copper vanes. Their sleeves were patched at both elbows, and their case was soft-sided and crowded with spools. “Does the pull change when Aumiri moves?”
 
-“You worked on the stone.”
+Torrigan walked six paces sideways. The needles barely stirred.
 
-The cloth over the crock lifted. A pale bubble of dough pushed out beneath it.
+“It’s all around us,” he said.
 
-Magic passing through your hands had always made yeast ambitious. Nobody knew why. The baker stepped backward and smacked the cloth flat.
+“That’s less like a source,” Nimoret said.
 
-“Outside,” she told the crock, as if it had chosen this.
+“It exceeds a source.”
 
-The three strangers stopped beside the well. They looked as though the mountain had tried to keep them: mud to their knees, ice on their shoulders, exhaustion sharpening every expression. The broad one watched the sky. The older woman watched you. The youngest looked from face to face, swallowed, and said, very distinctly, “where is the one with the absurdly massive amount of magical energy”
+Velshia looked at you, not the scale. “Any pain? Heat under the ribs? Sound with no direction?”
 
-Every villager pointed at you.
+“No. I was going to do the cistern.”
 
-Even the girl with the splinter pointed. She used the foot you still held.
+“Don’t.”
 
-You looked behind yourself. “There is only the smithy that way.”
+The cooper clicked her tongue. Water had begun beading along the patched seam behind her.
 
-“You,” said the young stranger. “They mean you.”
+Torrigan adjusted a dial. “A locating wash will tell us whether the field is centered on Aumiri or merely passing through. It takes less than a breath. It cannot draw power.”
 
-“I have been called absurd before. Never by the amount.”
+Velshia said, “It can make a connected system answer.”
 
-The older woman came nearer. Silver showed in her cropped hair, and a brass measuring ring hung dead at her wrist. “We are mages. What we detected beyond the range appears to be mana escaping without suppression. If it belongs to you, the loss is severe enough to be dangerous.”
+“At survey amplitude.”
 
-The goat keeper glanced at your boots, perhaps checking for a puddle.
+“One test,” you said. The cistern thread had begun nagging at you, a damp tug beneath the stronger pull of the mill. “Locate only. Then I do the seam.”
 
-“Escaping where?” you asked.
+Velshia held your gaze. “You consent to a locating pulse. Nothing else.”
 
-“Everywhere,” said the youngest.
+“Yes. One.”
 
-The broad mage looked up from the thickening snow. “Explain inside. I need to know whether we are crossing back before dark.”
+Torrigan set two fingers to the leather pad inside his case. The silver needles steadied under his attention. The instrument supplied nothing of its own; you could feel his small current run into its nested wires, gathering shape. Nimoret stood abruptly.
 
-You handed the splinter to the little girl, promised the goat keeper you would come before the trough froze solid, and invited the strangers home. The baker caught your sleeve as you passed.
+“Wait. Those vanes aren’t pointing—”
 
-“If they explode anything,” she said, “do it away from my starter.”
+Torrigan released the pulse.
 
-Your kitchen had three chairs. The road mage declined one and set his pack where the melting snow would run onto the hearthstones. The teacher took the chair opposite you. The youngest perched on the wood box until its lid creaked.
+Every unfinished favor in Lanternscrape answered.
 
-You filled the kettle by habit. The teacher watched your hand on the pump, your hand on the stove lid, your hand measuring tea into the pot.
+The village did not explode. It lurched into doing too much.
 
-“I am not leaking into the tea,” you said.
+The mill roared uphill. Water vaulted from the cistern overflow and struck the cooper from the waist down. The east pen gate slammed shut hard enough to split its old post. Somewhere above the roofs, three goats began bawling as the finding bell pulled toward every animal at once. Oven stones long gone cold breathed out summer heat. A ladder skittered sideways across a wall with nobody on it.
 
-“No. Your small workings are exceptionally clean.”
+And you became aware of all of them.
 
-“But?”
+Not as a list. As needs. Turn true. Hold dry. Stay warm. Lean home. Do not slip. Keep shut. More than you could separate, hundreds of small intentions returning through you in one bright, crowded instant. Your knees struck the road.
 
-“But something from you is crossing mountains. Mana outside a working should be retained close to its source. If you were trained to suppress it, you would spend less of yourself and attract less attention.”
+Velshia’s hand closed around your wrist. Cold ran from her living touch, not numbing you but giving the surge an edge to break against.
 
-“What sort of attention?”
+“Torrigan. Cancel.”
 
-“Ours,” said the road mage. “For now.”
+“The pulse is finished.” He had both hands off the pad. All three needles spun. “There should be no continuation.”
 
-The youngest leaned forward. “We have felt large reserves. This is different. The aura kept getting stronger after the instruments had reached their limit. If that much is escaping, what you still have—”
+“There is,” Nimoret said. “Listen.”
 
-The teacher raised one finger, and he stopped.
+For twelve heartbeats the threads quieted. Then they answered together again.
 
-“We do not know what he has,” she said. “We know what reaches us.” She turned to you. “May I perform a sounding? It is a living contact, mine to yours. No instrument can originate the search. I follow only the path you permit, and either of us may end it.”
+The second pulse came from inside you.
 
-You knew your magic as pressure, routes, and a lifetime of adjustments. You did not know what a trained mage would call any of them. “What are you listening for?”
+The mill kicked. The cistern boomed. Your back arched before you could stop it, and Velshia dropped to one knee to keep hold of you.
 
-“Where the escaping mana joins the part you use. If I find the break, I may be able to show you how to close it.”
+“Blanket cut,” she said. “All external lines. Now.”
 
-There was confidence in her voice, but no greed. She had crossed a mountain because she believed you were in danger. You pushed the cups aside and offered your left wrist.
+“No.”
 
-“Tell me before you pull.”
+“You’re feeding a synchronized return.”
 
-“I will not pull.”
+“Water,” you said. “Mill. Bridge.” The words arrived in the wrong order. “No. You don’t cut all.”
 
-Her fingers were cold. Between them, a filament of magic took shape, cautious and narrow. You felt it touch the route behind your palm, where your own workings gathered before passing into the world. She waited until you let it enter.
+“A remote cut could recoil through every anchor anyway,” Nimoret said. They were unrolling three fine cords on the road, hands quick and voice uncertain. “If these are anchors. I think they’re answering in sequence, not unison.”
 
-Then she sounded downward.
+Torrigan stared at his scales. “The locator cannot have created a return interval. Its impulse is over.”
 
-You followed, not because you needed to find the way but because it was strange to feel another person's care moving through passages you had built alone. She passed the first restraint at your wrist, the one that stopped intention from becoming accident. The second moved with breath below your ribs. A third divided heat from force, mending from motion, so that warming a cradle stone did not crack it and lifting a splinter did not lift the child.
+The cooper wrung water from her apron. “Your impulse woke what was already here. Is that different enough to be useful?”
 
-Her filament trembled at each crossing. You steadied the restraint, let her feel its edge, and allowed her onward.
+Beskaret hauled the mill lever shut. The racing stone slowed, though the bearing’s thread still burned against your attention. “Argue while walking. Next one’ll come sooner.”
 
-Below the last route you used, scale ceased to behave. The reserve did not open, because you did not open it, but its pressure gave the sounding a direction with no useful distance. The teacher's filament descended until each little measure along it stretched past use. The farther she reached, the less the returning strand resembled a path. It became a line dropped into an abyss at night: no malice below, no movement, only depth enough to make the hand forget which way was up.
+It did. Nine heartbeats this time.
 
-Her fingers tightened on your wrist.
+Velshia touched two fingers to your throat and counted the next interval against your pulse. “We have perhaps an hour before the interval closes. I can sever the lot now or isolate lines one at a time if someone can identify them.”
 
-“Come back,” you said.
+“One at a time,” you said.
 
-The filament twitched sideways. She had tried. Its outer end dragged against two restraints at once, pulling them out of their usual relation.
+“That is not the safer choice for you.”
 
-You closed your hand over hers. “Don't search. Wait for me.”
+“It’s the safer choice for whoever’s on the north bridge.”
 
-The road mage moved close, but he did not break the contact. “Can you hear her?”
+Nobody was on the north bridge. Beskaret knew because he had barred its lower path when the left parapet began shifting last winter.
 
-“Yes.”
+Velshia released your wrist. “Then nobody touches an anchor until its keeper names the failure and the fallback.”
 
-You sent no power toward the reserve. Instead you shifted the restraint beneath your ribs by the width of a held breath. Pressure passed into the next layer, then the next, a slow pulse traveling outward. The teacher's lost strand quivered when it crossed each one.
+“I’ll track the interval,” Torrigan said, still too crisply.
 
-“Follow that,” you told her. “Not the filament. It has twisted.”
+“You’ll also cancel whatever remains of your query.”
 
-You made another pulse. Then another. Her magic gathered itself along the sequence, climbing by the route your body had practiced through fever, sleep, anger, grief, and forty-six winters of ordinary work. When it reached your wrist, you opened your fingers and let her break contact.
+“I told you, it ended.”
 
-The teacher bent over the table. The road mage braced one hand between her shoulders. The youngest had gone pale.
+Nimoret handed him one of the fine cords. “Then cancel it again in reverse.”
 
-You poured water, because hot tea seemed unwise, and waited until she could hold the cup.
+He opened his mouth, looked at the spinning needles, and took the cord.
 
-“I lost the return,” she said at last.
+They began with the bread oven because it was nearest. You had warmed its stones two winters ago when the chimney cracked, intending them to hold a baking heat until the mason arrived. The mason had arrived. The oven had been rebuilt. Nobody had remembered to ask you to end the favor because there had been nothing wrong with a little saved kindling.
 
-“The depth turned it.”
+“Cold bricks won’t hurt us,” said the baker, shoving dough trays away from the wall. “Close it.”
 
-“You knew where I was.”
+Nimoret pressed a plain clay tag against the oven arch. It showed no magic until they laid their living fingers over it; then the answering thread showed itself as a line of pale condensation.
 
-“I knew where my restraints were.”
+“This one returns through the lintel,” they said. “Aumiri, do you recognize—”
 
-She looked at your wrist as if the skin ought to show them. “How many?”
+“Warm until chimney,” you said. “Done.”
 
-“That depends whether I am asleep.”
+You touched the lintel and withdrew the intention. The bricks cooled. A pulse passed through the village, lighter this time.
 
-The youngest made a small sound.
+“Thirteen heartbeats,” Torrigan said.
 
-The teacher ignored him. Her breathing had steadied. “What I touched below them cannot be measured by a sounding. Bottomless is an experience, not a finding. We will not call it limitless.”
+“Longer,” Nimoret said.
 
-You liked her better for that sentence.
+“By four.”
 
-“No,” you agreed. “I have never found the bottom either.”
+“Which means?” the baker asked.
 
-She set down the cup. “Then you must suppress the leakage before anyone attempts another examination. We can teach you the basic closures now.”
+Torrigan watched the needles settle into a new, lower arc. “The reading isn’t stored power. Not in the way I measured it. The same modest output is circulating through many open returns.”
 
-“Which restraint?”
+“Say the useful part,” Velshia said.
 
-“Your mana.”
+“Closures buy time.”
 
-“Yes. Which restraint do you want me to change?”
+They closed the roof ladder next. The roofer brought two ropes and a man to foot it before you took away its determination not to slip. At the east pen, the brindled doe’s owner drove a fresh peg through the latch and tied a loop above it.
 
-Silence settled around the kettle's first tick.
+“Loop goes over at dusk,” she told her son.
 
-You showed them without touching the reserve. You let the restraint at your wrist bear a little more of the outer pressure, then handed the load inward, layer by layer, until it rested again behind your breastbone. The brass ring on the teacher's wrist jerked at each transfer though you released no working.
+“Unless she’s outside.”
 
-“You are already suppressing it,” she said.
+“Especially if she’s outside. Fetch her, then loop.”
 
-“Since I was five. At first I could do it only while holding my breath. That was inconvenient.”
+The boy nodded. Nobody thanked you when the magical hold came off. He was busy testing the peg with both hands.
 
-The young mage stared at the ring. “Then the aura we followed—”
+At the sickroom, the child’s aunt showed Velshia three folded blankets, all ordinary now, and you lost half a minute insisting that you had already closed the blue one.
 
-“Is what gets past.”
+“You did,” she said. “Red one’s for the baby’s cot. Never had warm on it.”
 
-“That is the part you cannot hold?”
+“Blue,” you repeated.
 
-“It is the part left after I hold everything else.”
+“Done already. Come on.” She put the red blanket back without ceremony and took your elbow.
 
-The road mage sat in the third chair.
+That correction steadied you more than Velshia’s cold had. One thing had ended. It could stay ended.
 
-The teacher touched two fingers to the table, thinking. “Our closures establish a fixed boundary and apply counterpressure from outside. Yours move the load through your body.”
+The visiting mages changed as they walked. Torrigan stopped announcing totals and began asking, “What changed here?” Velshia no longer named a line safe until the person who used it named what would happen without it. Nimoret abandoned their neat tags and let keepers knot scraps of local cloth around anchors instead: flour sacking at the mill, blue yarn by the cistern, goat hair at the pen. Their numbered clay had meant little to the villagers. Blue yarn meant cistern.
 
-“A fixed hold tore when I grew. Moving it hurt less.”
+The intervals stretched with every closure, then shortened again. Thirteen heartbeats became sixteen, then twelve, then ten. Torrigan fed answering pulses backward through his instrument, cancelling one harmonic at a time. Velshia laid contained boundaries around clusters so that a failure in one would not jerk the others. Nimoret followed the return order with two fingers on their cords.
 
-“I would still like to test whether an external ward can catch the residue.”
+By sunset, the tiny conveniences were gone. A warming stone under Beskaret’s bench. A pantry hook that kept mice from worrying a sack. Three path lamps that brightened when fog came down. The remaining threads were few enough to feel separately and strong enough to frighten you.
 
-“Not close the source?”
+Cistern. Bridge. Mill.
 
-“Not touch it.”
+The query pulse came again. Five heartbeats later, its echo followed.
 
-The road mage took chalk and a folded length of copper from his pack. Together they laid a modest ward around your chair, three open angles rather than a closed circle. The youngest supplied a thread of his magic to wake the copper. You agreed on a stop word and kept both feet outside the chalk so you could stand without crossing a live line.
+“Those three are phase-locked,” Nimoret said. “Maybe because they were all renewed in the same thaw?”
 
-When the teacher engaged the ward, its pressure met your outer restraint as if trying to nail a turning wheel to the floor. The layer at your wrist held. The one at your elbow shifted to take the load, found its route blocked, and sent a hard numbness toward your smallest finger.
+“Because they all pull from the same water,” Beskaret said. “Millrace comes off the cistern spill. Bridge footings sit below it.”
 
-“Stop.”
+Torrigan looked from the uphill tank to the mill roof and then toward the north path. “My model treated distance as separation.”
 
-The teacher released her magic at once. The road mage lifted the nearest copper angle, breaking the shape. Sensation returned before the kettle boiled.
+“Mountain doesn’t,” Beskaret said. “We do cistern first.”
 
-“It opposed the movement,” he said.
+“Bridge first,” Velshia said. “A structural release is the worst failure.”
 
-“It assumed movement was the leak,” said the teacher.
+“Cistern first,” the cooper said. “Drain it, and the bridge footing stays dry while we prop. Open it by surprise and you’ll have three people in the runoff.”
 
-You flexed your hand. “Can a ward move?”
+Velshia considered her, then nodded once. “Drain line. Where?”
 
-The road mage gathered the copper pieces, already examining their joints. “Not that one.”
+For the next quarter hour you did no magic. That was nearly unbearable.
 
-A fist struck the outer door. The baker entered without waiting, bringing a blast of snow and her crock tucked under her coat.
+You wanted to touch the sweating cistern seam and tell it to hold. Instead you carried buckets while the cooper and two neighbors fitted an old canvas hose to the cleanout spout. At the bridge, Beskaret’s mill hands wedged timber props under the cracked north rail. Below, villagers laid stones to send the draining water around their boots. At the mill, both stones had to be unloaded, the grain bagged, the race gate lowered by hand.
 
-“The upper marker has vanished,” she said. “The shepherd came down ahead of the white. If your three visitors planned to leave, they have missed it.”
+Everyone knew something you did not. Which hose split if bent. Which prop had a soft foot. Which goat would chew the marker knots. Your threads had made the tasks feel like yours because they returned to you. The work itself never had been.
 
-The road mage stepped outside. He returned with snow whitening his beard again and shook his head once. “The shelf is closed. We stay until a sound crossing.”
+Another echo crossed your ribs. You gripped the cistern wall and heard Velshia say, “Not yet.”
 
-“Spring, then,” said the baker. “Probably. I have a loft for one person who does not snore, and flour enough for no one who won't work.”
+“I can hold—hold dry. Just—”
 
-The youngest opened his mouth.
+“No new intention.”
 
-“You snore,” said the road mage.
+“Not new. Same. I can—”
 
-“I do not.”
+“Blue line ready,” the cooper called from the spout.
 
-“You will take the loft.”
+That was language you could use. You knelt with your palm over the wet seam.
 
-The teacher started to offer coin. The baker waved it away. “Coin burns badly. Split wood tomorrow.” She put the covered crock on the cold sill, safely distant from you. “And none of you practice near this.”
+“Valve open,” she said. “Hose clear. Two barrels filled. Take it off.”
 
-The storm filled the lanes by dark. The teacher slept beside your hearth, the road mage in the cooper's spare room, and the youngest in the bakery loft, where his alleged snoring disturbed only sacks of rye.
+Velshia braced your forearm between her hands. Nimoret held the blue yarn marker, eyes shut, following its relationship through the wall. Torrigan watched the interval and began a low count.
 
-By morning, the north feeder pipe was still frozen.
+You found the intention: hold this seam dry. The cooper had replaced the cracked stave eleven months ago, and neither of you had remembered that the patch still needed closing. You let the intention come home.
 
-You thawed the iron coupling while leaving the wooden sleeve cold. The teacher knelt beside you with her brass ring cupped out of the wind.
+The seam sprang a bright fan of water across your knees. The hose bucked. The cooper swore and drove a wedge deeper. Then the water found the drain line and ran where hands and stones had prepared it to run.
 
-“Your release narrows after the final restraint,” she said.
+Velshia caught the recoil inside her cold boundary. Torrigan reversed his count. Nimoret tore off the blue yarn.
 
-“It narrows through it.”
+“Closed,” they said.
 
-“We call that a shaping gate.”
+The next pulse waited eight heartbeats.
 
-“A gate opens.” You held your fingers steady until a clear bead ran from the joint. “This is more like choosing one thread from a sleeve without unraveling the cuff.”
+On the path down to the mill, your hearing filled with its grinding complaint. Beskaret was shouting from three paces away, but his words reached you out of order.
 
-She took a notebook from inside her coat and crossed out a word.
+“Upper stone—then collar—race last.”
 
-The road mage spent the day at the mill, not teaching magic at all. He fitted canvas over the north sluice pin and showed the miller's sister where ice gathered beneath the old hood. She showed him how the stream rose after a warm wind, a fact his road tables did not contain. By supper they had argued the repair into a shape both trusted.
+You turned back uphill and put both hands on the bridge’s first timber prop.
 
-The youngest came with you to the smithy carrying the baker's bent oven pin. He offered to straighten it with one bright burst.
+“Not that,” he said.
 
-“She needs it straight,” you said, “not bright.”
+“Bridge first.”
 
-You set a shaving of beeswax against the iron. His task was to warm the pin until the wax softened without running. He melted the first shaving onto his glove. The second stayed hard. On the third, the wax bent beneath your thumbnail.
+“Bridge is propped. Mill is next.”
 
-“Now?” he asked.
+“You said—upper—”
 
-“Now you know where to begin.”
+Beskaret stepped between you and the road. He walked you into the mill and put your right hand on the bronze collar inside its housing. “This piece. Feel the worn side. Grain is out. Upper stone is chocked. Close the bearing now. We keep the race until the stone stops.”
 
-The smith put the pin in a vise and handed him the smallest hammer.
+The concrete sequence cleared a narrow path through the noise.
 
-Over the next few days, lessons attached themselves to work. The teacher gave names to distinctions you had carried as sensation: reserve, restraint, release, shape. You divided one of her standard closures into three gentler holds and watched surprise replace strain in her shoulders. The road mage hinged four copper angles so his ward could yield with your breathing instead of fighting it. It still rattled apart twice. He seemed pleased that it failed differently the second time.
+“Bearing,” you said.
 
-You kept your rounds. The midwife heated her own cradle stone while you studied the teacher's diagrams, then brought it over so you could compare the hearth's uneven warmth with your own. The baker's eldest thawed the feeder pipe with kettles one morning and reported that it took six trips and several words the goats should not learn. Your old neighbor sent a pot of stew to your kitchen and came later to retrieve the pot herself, staying to beat the youngest mage at draughts.
+“Bearing.”
 
-There were inconveniences. Three more mouths changed the winter stores. The road mage counted every sack before accepting a second helping. The teacher's notes covered half your table. Yeast escaped the crock whenever you practiced after supper, so the baker began leaving it in the woodshed with a hot brick and blamed you whenever the bread tasted smoky.
+You withdrew turn true. From downhill came one brutal clank, then silence. No millstone ran loose; Beskaret’s people had unloaded it. The shaft stopped against the wooden chocks. Torrigan’s answering count faltered, started over, and lengthened.
 
-On the sixth night, the teacher closed her notebook.
+“Twenty-one,” he said. “Only the bridge remains.”
 
-“I crossed the range to teach you suppression,” she said. “I was wrong about what you needed.”
+The bridge did not care about being last. Its old intention strained as runoff pushed against the footings: hold the north stones in their places. The new timber props creaked under the weight. Two villagers stood clear with ropes around the rail, not to save the bridge if it shifted but to keep it from falling into the water.
 
-You waited. She did not soften the admission or decorate it.
+Velshia planted both feet. “If the left prop walks, I contain toward the mountain. Nobody enters the span.”
 
-"I can teach you our measures, our records, and what other traditions tried when a reserve exceeded its channels," she continued. "He has made three new ward shapes since the storm, and discarded each one when it pulled wrong." She nodded toward the road mage. "The young one can ask every dangerous question before either of us thinks of it."
+“Left prop’s biting,” Beskaret said. “Right one needs a wedge.”
 
-“I heard that,” said the youngest from the floor.
+A mallet struck three times.
 
-“You were meant to.” She rested one hand on the notebook. “Will you teach us how your restraints move?”
+“Right is set,” called the cooper.
 
-“The outer ones,” you said. “Not the reserve.”
+Nimoret touched the goat-hair cord they had tied around the first support. “The anchor is the lower stone, not the rail. I think. Aumiri?”
 
-“The outer ones,” she agreed.
+You could not answer. The thread occupied your mouth as if it had become a thing you were biting down on.
 
-They swept the kitchen after breakfast the next morning. The road mage laid eight hinged copper pieces around your chair, leaving gaps wide enough for a hand. The teacher fed each section a measured thread of her magic. The youngest sat beyond the ward with the notebook and a fresh shaving of beeswax beside the bent oven pin. At your insistence, the baker's starter had gone to the woodshed.
+Beskaret did not ask again. He climbed down beside the footing, staying off the bridge, and knocked his knuckles against a dark stone streaked with old lime.
 
-The teacher showed you the mark in her notation for returned load: power delayed and redirected rather than spent. It was the first written sign you had ever seen for something your ribs had known since childhood.
+“Here,” he said. “Take your time. We’re holding the weight.”
 
-“If this line doubles,” you said, tracing the diagram, “does it mean the load returned twice?”
+You crouched. Your palm found the stone. Around you, occupied hands made a silence more useful than encouragement: Velshia holding her boundary, Torrigan poised over the cancelling pad, Nimoret tracking the last return, Beskaret watching the prop feet instead of your face.
 
-“It means two restraints shared it. Unless the second mark is open. Then some escaped.”
+You closed the favor.
 
-You copied the sign. Your version leaned like a loose fence post.
+The bridge dropped less than the width of a finger. Timber groaned. The right prop settled hard and held. A chip of mortar struck the water.
 
-“Ready?” asked the road mage.
+Torrigan pushed his living current through the instrument in the reverse shape of his first query. Velshia folded the recoil downhill and spent it shaking harmlessly through the runoff. Nimoret’s cord went slack.
 
-You set down the pencil and placed two fingers against the nearest copper hinge. No one reached toward the depth. No one asked you to widen anything. You shifted only the outer restraint at your wrist, slowly enough for the ward to yield, and the road mage adjusted one hinge when it began to chatter.
+Nothing answered.
 
-“There,” the teacher said. “The load returned.”
+For a while, nobody moved. Then Beskaret pointed at the right prop.
 
-“Half of it.”
+“Another wedge before anyone crosses.”
 
-She looked at the ring. “Where did the other half go?”
+The cooper picked up the mallet.
 
-You touched the place below your elbow. “Here. Your mark needs another line.”
+You slept on a flour sack in the mill office because the walk to your own bed seemed unreasonably far. When you woke after sunrise, the world inside your chest was quiet. Not empty. Three deliberate threads remained: the goat bell until the herd came down for winter, a winter room kept dry until its roof cured, and a splint holding a pear tree’s new graft until leaf-fall. Each now wore a marker with an ending cut into it. Each had a named keeper and an ordinary fallback.
 
-She turned the notebook toward herself and began to draw.
+Torrigan’s needles read them as three separate workings.
 
-On the floor, the youngest sent too much warmth into the oven pin. The beeswax shone.
+“Comparable to what I’d expect from three modest sustained loads,” he said. He had written the fault intervals on the inside of the cooper’s tool chest, where rain could not take them. “Not one absurd reservoir.”
 
-“Less,” you told him.
+Velshia gave Beskaret a pair of red clips. “If two markers warm at once, put these on the keeper cords and fetch Aumiri. The clips focus separation only while a living person holds them. Don’t leave them clamped and assume they’re working.”
 
-He narrowed his release. The shine dulled without the wax hardening. At the table, the teacher added a second line to the sign, then passed you the pencil so you could show her where it bent.
+“How often do they bite fingers?” Beskaret asked.
 
-Deep behind all the careful routes, the reserve remained closed. You kept it so. The copper hinges held, the wax softened, and the four of you began again.
+“Every time if you grip the hinge.”
+
+He tested one carefully by the ends.
+
+Nimoret sat on the mill step showing the cooper how to read a return cord for strain. “A tremor means check the anchor. Heat means check Aumiri. If you can’t tell which—”
+
+“Use the fallback and close nothing,” the cooper said.
+
+“Yes. Exactly.”
+
+The three visitors packed their cases. There was no invitation, no offer to take you somewhere larger, no claim that Lanternscrape had concealed a marvel. Torrigan did apologize, though not gracefully.
+
+“The pulse was within its certified range,” he said. “The assumption behind it was not.”
+
+Nimoret tapped his case. “Add a connected-system check before the pulse.”
+
+Velshia shouldered her case. “Before the range check.”
+
+Then they went down the road, arguing about how many survey forms required revision.
+
+You found the village at work. The mill hands were seating the new bearing, which had apparently arrived four days earlier and sat unopened behind three sacks of rye. At the cistern, the cooper was replacing the drain hose with a fitted wooden line. Hammer blows carried from the bridge.
+
+The child’s aunt caught you near the east pen.
+
+“One thing,” she said, and held up a shutter with a split hinge. “If you’ve room.”
+
+You examined the hinge. Beside her stood a carpenter with two clamps, three screws, and a strip of ash cut to size.
+
+“What do you want the magic to do?” you asked.
+
+“Keep the split aligned while we set the strip.”
+
+“Until?”
+
+The carpenter lifted the third screw. “Until this one goes in. If it slips, we clamp it and start again.”
+
+“Keeper?”
+
+“Me,” said the child’s aunt. “I’ll bring you the hinge when we’re done.”
+
+You touched the wood and gave it one small, specific intention. The split drew true beneath your thumb. Across the yard, Beskaret shouted for somebody to hold the mill collar steady, and two people answered before you could.
