@@ -8,164 +8,358 @@ canon: false
 
 # The Warning Comes Second
 
-The white block is in front of me again.
+Kessa's thumb was already under the cargo-release guard when the green arrows came around again.
 
-I stop at one thousand six hundred and twelve steps. Behind me, wheat lies bent in the line I made with the side of my boot, a dark stroke running straight toward the empty horizon. The sun has stayed on my left cheek. The compass on my phone still points the same way. I have not turned. Nothing in the field could have hidden a turn from me: the ripe stalks reach my ribs, the sky begins at their heads, and between the two there is no tree, roof, wire, hill, or passing bird.
+Three on the docking screen: left, left, hold. The receiver painted them over the ring ahead, a clean corridor through a view that was anything but clean. White plating rolled across the forward window. The service ring's occupied spoke slid after it. Somewhere under Kessa's boots, metal ticked in a quick descending run.
 
-The block stands thirty paces ahead.
+Her hand knew what came next. Lift the guard. Brace the wrist. Press with the thumb, because the old switch kicked.
 
-It is the fourth time a straight route has brought me back. The first time, I blamed panic and walked with the sun pinned over my left shoulder. The second, I bent a stalk every five steps. The third, I went backward for as long as my legs allowed, watching my own tracks lengthen in front of me. Each line remained straight behind me. Each ended with white marble ahead.
+She snatched her hand back.
 
-High noon has not moved enough to help. Wind combs the wheat in broad, traveling bands, reversing every patch of light and shadow but never revealing soil beyond the next few stalks. I have been using the white block as an enemy, a point to flee. It is also the only fixed shape in the world.
+The tug kept turning. A red numeral on the dead-center display changed from `00:06` to `00:07 AFTER REPRISE`. Kessa stared at it until a recorded voice opened in the headrest behind her.
 
-I go back to it.
+“If you've ever had déjà vu, then it's too late.”
 
-Its four upright faces are square, each a little taller and wider than I am. Fine gray veins run through the marble without matching at either edge I can see. There is no joint, door, socket, or seam at the ground. Wheat grows against the two sides visible from here. My pack rests in the flattened patch beside the face that received me. I have not yet passed close around any vertical edge.
+Dalsen's voice, brisk and level. Then the harness gave its machine inventory: baseline sealed, outboard loss latch confirmed, cognitive lock recorded, working and episodic restore complete, charge exhausted. The small bridge lamp beside Kessa's shoulder had fused white. A spent cartridge smelled of hot almonds through the cockpit filters. The consented harness had stored one neural baseline before approach; the white lamp meant it had spent that single state.
 
-My water bottle is a little under half full. The bread in my pack is still the same heel I wrapped before setting out. A wheat awn has sliced the pad of my right thumb; the blood has dried in a narrow crescent. None of these things restored themselves during my returns.
+She remembered fastening the harness before final approach. She remembered Orivan going outside to watch the reluctant cargo latches. She remembered the ring no larger than a coin beyond the glass.
 
-I put the pack against the first face and stand on it. The top edge looks a handspan above my reach. I stretch. It remains a handspan above my fingers. I jump from the pack, reaching with both hands. At the peak of the jump, the distance remains. From the ground, the face is still only a little taller than I am. Its dimensions have not changed where my feet can measure them. Only the last handspan stays fixed.
+Now the ring filled half the window, her lower lip was bleeding, and the port thruster cluster showed no pressure at all.
 
-When I land, one heel skids off the pack and I catch myself against the face. The cut on my thumb opens again. A bright drop strikes the marble and runs half an inch. It does not sink in or vanish. The block makes no response. It is stone: cold under my palm, faintly rough where weather has taken the polish, inert beneath everything I do to it.
+“Orivan?” She hit the suit channel. “Exterior, answer.”
 
-I shoulder the pack. At the first vertical edge, I keep the block on my right and round the corner.
+Static snapped. A voice tried to form inside it, close enough to raise the hair on her arms and too broken to understand.
 
-Noon becomes evening.
+“Service tug, cut your approach.” The ring controller arrived hard over the same channel. “Cut approach and declare control.”
 
-The sun strikes low across my eyes. My short shadow tears outward through the wheat until it is longer than the block. The air cools in the same instant. I grab the marble to keep my balance, and cold passes through the center of my left palm.
+“Control is partial. Pilot Kessa. I have a reprise event and structural loss.”
 
-A linen cupboard occupies the field.
+“Kessa, this is Pavax on ring duty. Your transponder dropped for one minute thirty-six. Radar puts you inside the occupied arc. Range one hundred eighty-four, closure point two five. That solution is one point eight seconds old.”
 
-The door was almost shut. I had been ten, folded behind a basket of towels while my younger brother searched the hall. The cupboard smelled of soap and old wood. Through the narrow gap, I had seen one bare knee and his hand sliding along the wall. Then the wall beneath my palm had gone cold. Dry stalks had whispered beside my ear where no stalks grew, and certainty had rushed through me so hard that I bit my tongue.
+“Copy old range.” Her mouth knew the radio shape, at least. “My docking display says aligned green.”
 
-He had stopped outside the door, breathing through his nose to smother a laugh.
+“It is not aligned.”
 
-“Your heel's out,” he had said.
+The green arrows returned: left, left, hold.
 
-I had known the words before he spoke them. I had known the shape of his fingers around the door. When he pulled it open, I was already standing, frightened enough to make him stop laughing. I told him the moment had happened before. He checked behind the towels, then waved one hand through the space where my head had been. There was only dust.
+Kessa looked past them. A black mechanical sight bar lay along the tug's nose, built for the day every clever instrument failed. Its notch should have enclosed the ring's yellow alignment block. The yellow block was drifting toward the notch's right edge.
 
-Now his fingers align with five pale stalks. The hallway wall lies flat across the marble, and my adult palm supplies its impossible cold. Wind in ripe wheat makes the sound I had heard inside the cupboard. The two places coincide for three breaths, perhaps four. Then the towels lose their color, my brother's knee becomes evening light, and my hand is once more the only living hand on the stone.
+Her hands expected left thrust. The dead cluster sat on the left.
 
-I stand beside the second face. My watch has advanced eleven minutes. The sky has spent most of an afternoon.
+“Do not fire lateral,” she said, partly to the radio and mostly to herself.
 
-Words are cut into the marble at the height of my chest. The grooves are shallow and irregular, the bottoms grayed with dirt. They were not on the first face. I touch no letter while I read.
+Two people answered at once. Pavax said, “Confirmed, no lateral,” while another voice began, “If the bridge lamp is fused—” and vanished under him.
 
-If you've ever had déja vu, then it's too late.
+“One at a time. Dalsen, again.”
 
-The sentence comes after the sensation. I read it twice, then a third time, looking for a qualification hidden in the spacing. There is none.
+The harness designer came back with a breath of room noise around him. “If the bridge lamp is fused and the outboard loss recorder agrees, the restore completed. Read me the latch state.”
 
-I walk straight away from the carved face.
+Kessa found it low on the structural panel. “Loss latch: irreversible. Source: exterior. Bridge: fused. Charge: zero.”
 
-This time I drag the heel of my right boot through the wheat without lifting it, making a continuous furrow. I keep the low sun between my shoulder blades. At three hundred steps the marble is small enough to cover with two fingers. Farther on it becomes a white fleck. My mouth dries. I take one measured swallow without stopping.
+“Then ninety-six seconds elapsed, whether you remember them or not. The tug, your body, and every transmission kept going. Only your working and episodic memory returned to baseline.”
 
-At eight hundred steps, the furrow still runs away behind me. Ahead, the words on the marble are large enough to read.
+“I know what the device is supposed to do.”
 
-No turn has entered my muscles. The sun remains behind me. I follow the furrow back to the block, but it leads into the face at a right angle and ends beneath the warning. My watch has gained eighteen minutes. The bottle is lighter. Blood from my thumb has reached my wrist. What moves strangely is sequence and sky, not my body or what I carry.
+“Good. Your recorder?”
 
-I want the first face again. I want noon, even if noon contains no exit. Keeping my eyes on the carved line, I back toward the edge I crossed. My heel passes it. My hips follow.
+“Exterior buffer damaged.” She opened it anyway. Blocks of gray filled the final minute. One frame showed Orivan's gloved arm at the cargo rail. Another showed empty stars scored by a band of static. The last intact telemetry line reported a rising twist in the port truss, then nothing. “Incomplete.”
 
-The sun goes out.
+“Mine too,” Dalsen said. “I received the loss event and harness firing time. I did not receive your controls.”
 
-I turn, expecting the unmarred first face. A hooked gray vein rises from the base of the marble instead. The warning face has disappeared behind the edge, but this is not the face I left. My backward step has advanced the faces in the same order as a clockwise walk. It is the second corner of the circuit, though I crossed the first edge in reverse. Reversing my body did not reverse the join.
+The broken suit channel crackled again. Kessa pushed its gain up until static hissed across the cockpit. Beneath it came three knocks through the hull.
 
-Stars fill the sky. The watch has gained six minutes.
+Not radio. Contact.
 
-Something warm presses against my back through the pack. I pull out the wrapped bread. Steam beads the waxed paper. The heel is soft beneath my fingers and smells as though it has just left an oven. At the same time a seed head catches beneath my cuff and rasps the inside of my wrist.
+“Orivan, knock once if you hear me.”
 
-Flour dusts a tiled floor over the black field.
+One hard blow rang below her left boot.
 
-I had been nineteen, alone in the back room of a bakery before opening. Rain had ticked against a vent. I was lifting warm loaves from a rack when the inside of my wrist began to sting beneath an unbroken sleeve. The smell of standing wheat had entered the room through closed doors. I had looked down, expecting a straw-colored scratch, and found only flour.
+“Your suit audio is gone?”
 
-Then came the conviction that the rack, the rain, the cracked green tile under my shoe, and the next metallic click had already occurred. The oven relay clicked. A loaf slid sideways on its tray. I caught it because my hand was already there, but that proved nothing; I had been looking directly at it.
+One.
 
-The familiarity had lasted until the ventilation fan started. I had told no one. My brother was not in that room, nor in the walk home, nor in any thought I connected to it. For years that bothered me more than the childhood episode. It refused the private story that the first sensation belonged to him.
+“Are you losing air?”
 
-The back room clears. My field wrist bears a thin red welt from the wheat. The bread in my hands is hot. Present touch and heat fit the two details that had no source then.
+Silence. Then two.
 
-I tear off a piece. The portion missing stays missing after I swallow. I pluck the seed head from my sleeve and put it in my pocket. Its kernels are dry and hard. The cut on my thumb still hurts. The bottle holds one swallow less. Nothing has reset; nothing has doubled.
+No.
 
-This particular wrongness has entered my life four times. Never in dreams, never as a daily flicker, never with a useful message. The cupboard came first. The bakery came years later. The remaining two occurred within nine days of each other, four years ago.
+“Injured?”
 
-The first of those began when my brother's call lit the phone on my kitchen table.
+One.
 
-I sit against the third face, beneath the hooked vein, and keep my hands away from both edges. The marble remains cold. It does not pulse, warm, speak, or present an image while I am still. The overlap required my crossing and my recognition; without me, there is only a shaped block and a night field.
+The next knock scraped instead of striking. A contact microphone in the exterior work collar caught a torn piece of his voice.
 
-Remaining here does not improve the water level. Walking away has already proved its shape. I unwrap the bread again. In the starlight its crust has dulled, but it is still soft where I tore it. I eat another mouthful because my knees have begun to tremble.
+“—right leg. Collar's bent. Don't—”
 
-I move to the next untouched edge. My body wants to hurry. I make myself place one foot, then the other, keeping the block on my right. The third corner passes my shoulder.
+Static swallowed the rest.
 
-The stars wheel west. A thin gray band appears in the east.
+“Don't what?” Kessa asked.
 
-Rain runs down my old kitchen window.
+“—four side down—”
 
-Four years ago, my phone had vibrated beside a chipped cup. My brother and I had not spoken for five months. The argument had started over our father's tools after the funeral and expanded until every old kindness looked like leverage. That afternoon my brother had sent a photograph of a loose cupboard hinge and asked whether I still had the narrow screwdriver. I had not answered. At night he called.
+“Four side?”
 
-In that earlier kitchen, his number had brightened the screen. My hand had reached for the phone and stopped. A meaningless jolt ran from my jaw to my ribs: urgency without words, recognition without a remembered event. I had stared at the cup, the rain, the frayed end of the charging cord. Every object felt placed in a scene I had failed once already.
+A fist hammered the hull twice, impatient even through metal. The collar mic cleared for half a second. “Port side down. We rolled after the hit.”
 
-I had taken the feeling for advance notice. I had also been angry enough to resent being warned.
+“Port side down,” Kessa repeated. “I have you.”
 
-My old thumb had pressed the side button. The vibration stopped. The screen went dark.
+He remembered. The thought landed differently from the fused lamp or the clock. Orivan had lived the ninety-six seconds her mind could not reach, and he had carried them into this one with his leg trapped outside.
 
-From the field I am close enough to see rain tremble on the glass. My present hand scrapes marble. Wheat binds my shins when I lunge toward the table.
+The ring's white plating rolled past again. Kessa's stomach clenched before the view arrived, a sour warning with no attached scene. Her shoulders tightened against a shove that had already happened. When the green arrows flashed left, her wrist turned toward the cargo guard once more.
 
-“Answer it!” I shout.
+Motor prediction, Dalsen had called it during training: the body's fast guess about the next required movement. The harness did not store that system. It did not rinse stress chemicals from the blood or pry learned associations out of the senses. She had considered that an untidy footnote when she signed consent.
 
-My past hand pauses above the phone.
+Now it was the only account she had written herself.
 
-The shout does not arrive as speech. I can feel what reaches that body because I remember it: the same blunt surge from jaw to ribs, emptied of consonants, stripped of direction. No instruction crosses. No new fact enters the room. My past self looks toward the rain, then presses the button exactly as before.
+“Pavax, new range.”
 
-The screen goes dark.
+“One hundred fifty-six, closure point two five. Updated one point eight seconds before receipt. Your receiver continues to answer with a valid green checksum.”
 
-I shout again, but the kitchen has already begun to thin. My brother does not appear. No voice waits on the line. He remains where he was that night, alive elsewhere and unknown to me, and my field body remains four years too late to touch him.
+“Valid for when?”
 
-By morning a burst vessel had killed him on the landing outside his rooms. Whether answering would have changed a minute or only given us one ordinary conversation is something the past contains and I do not. For four years I have replayed both possibilities whenever a phone vibrates near me.
+A pause traveled out to the ring and back. “The same alignment packet has repeated four times. Receiver timestamp is frozen before your transponder gap.”
 
-The last of the kitchen collapses into predawn wheat. I am on my knees beside the fourth face, my throat scraped raw. My watch says one hour and nineteen minutes have passed since I first rounded the block. The sky has crossed evening and night.
+Old green. Not a lie, not guidance. A loop that could still prove itself correct.
 
-The call did not produce the jolt that warned me away from silence. My later shout produced the jolt that history already contained. The attempt to intervene has not failed for the first time here; its failure was present in my body before I knew this field existed.
+Kessa killed the overlay. The arrows disappeared, leaving the mechanical bar, the ring, and the thin blue brackets of tug radar. The brackets leaned right of the bar. The ring controller's range put them closer still. Orivan had felt the port side drop.
 
-Yet one episode remains. It came after the death, when warning could no longer be the right word, and I spent years treating it as a message anyway.
+Three poor measurements, none agreeing perfectly, all disagreeing with green.
 
-I drink until the water just covers the base of the bottle. The bread has hardened. Its broken edge scratches my lip, though no crumbs have returned. In my pocket, the wheat kernels have softened; when I squeeze one, green milk dampens my finger. Ripeness moves beside me while quantity and injury keep their course.
+“We struck something during the gap,” Kessa said. The sentence stalled after that. She could name the evidence. When she tried to name what she had done, the thought opened on blank air. “I don't—my control choices aren't there.”
 
-The eastern band brightens. I cross the fourth corner.
+“They won't be in the fused bridge,” Dalsen said. “It verifies that the harness fired and fixes when, not what you chose before it did.”
 
-Dawn enters my brother's empty kitchen.
+“Exterior recorder shows the port truss twist,” Pavax said. “Radar shows a fragment leaving your old approach line. Current roll is consistent with a port-side loss.”
 
-Nine days after the call, I had been clearing his cupboards because our parents could not do it. A blind cut the pale light into bars. I had found half a loaf in the freezer and made toast from it rather than decide what to keep. One edge burned while the middle stayed cold.
+“Consistent,” Dalsen said, “not complete.”
 
-As I ate, my uninjured right thumb had begun to throb. Cool threads seemed to curl against my hip beneath my shirt. The room smelled suddenly of ripe grain. Then the fourth and strongest familiarity had closed over me. The angle of the blind, the open cupboard, and the bitter crust in my mouth all seemed rehearsed. I stood with the toast between my teeth and tried to remember when I had emptied this room before.
+“The cluster is sheared,” Kessa said. She put two fingers against her cut lip. They came away red. “Orivan's trapped. Those aren't missing.”
 
-I had put down the toast and searched the call history on my phone. There was nothing new. Still I believed some part of him had pressed backward through those nine days, first to the call and then to me. I kept checking the history long after I knew no new line would appear.
+The collar mic rasped. “Glad we settled that.”
 
-Now pale roots break through the wheat head in my pocket and curl against my hip. The cut in my field thumb beats with my pulse. Hard bread lies against my tongue. Dawn crosses the fourth face at the same angle as the old blind's light.
+Pain shortened him to the useful edge of a sentence.
 
-No hand or voice enters the old kitchen. The cool threads at my hip belong to the sprouted grain; the thumb pain to my cut; the bitter bread and morning light to what I carry now. Marble shapes this local overlap without acting on its own. My living body supplies it. On the earlier table, the phone I silenced stays dark.
+Kessa checked the other thrusters. Fore and aft answered, but their common feed pulsed below minimum. One clean burn, perhaps, if the damaged manifold did not tear. It could slow the tug or change the roll, not both.
 
-The cupboard cold had lived in me for decades before I saw wheat. Its cause is this circuit. Whatever route I imagined taking away from the block, I had already brought one of its effects with me.
+Pavax came back. “Authorized safe action follows. Separate the flight cell on my mark. The ring will fire the outer catch field across the tug's path. Pilot cell clears outward. The main hull is diverted below the occupied spoke.”
 
-The kitchen lifts away. Soil firms beneath both knees.
+Kessa looked at the exterior diagram. The flight cell's explosive bolts would throw her clear. The tug, its cargo, and the bent collar would enter the catch field together. The field was built to drag metal, not protect a person pinned to it.
 
-I am back at the first face.
+“Orivan is on the tug.”
 
-Pale morning covers the field. My original drop of blood has dried brown on the marble. The dent from my pack remains at the base. My watch shows one hour and forty-seven minutes since the first crossing. My bottle is nearly empty, my thumb is cut, two pieces are gone from the loaf, and one sprouted seed head presses through my pocket lining.
+“I have his suit beacon.” Pavax's voice stayed in numbers because the numbers were his work. “His air is stable. The predicted collar load in a catch is beyond suit tolerance. I cannot authorize the tug through the occupied arc.”
 
-Beyond the block, where there was only wheat before, a hedgerow now divides the land. A drainage rut glints beneath it. Through a gap I see gray road and the square back of a road sign. The route is straight. Bent stalks point toward it in the wind instead of curving back toward marble.
+“So your safe action is safe for the ring.”
 
-From the air beyond the next edge comes my brother's childhood breath, held tight against laughter.
+“It is the option inside my control.”
 
-“Your heel's out,” his already-lived voice says.
+No defense. No apology. The ring turned behind his words, full of people who did not know a green corridor was pointing eighteen loaded tonnes at their wall.
 
-The first overlap is available again if I round that corner. After it would come the bakery, then the call, then the empty kitchen. I know another circuit cannot alter him. My weight shifts toward the edge anyway.
+Kessa's thumb found the cargo guard again.
 
-The road has appeared only after four joins. I have no evidence that it will remain through a fifth.
+This time she let it rest there.
 
-My brother draws breath beyond the edge, exactly as he did when he was nine.
+“Cargo rail state,” she said.
 
-I take my hand off the marble and walk toward the hedge.
+“Last frame shows latches three and four released,” Dalsen answered. “One and two unknown. Release command began before my exterior feed failed.”
 
-The block stays behind me. The road dips out of sight when the wheat rises and returns when the stalks fall. I keep the gray sign centered between two thorn bushes. A vehicle passes from left to right; its engine approaches, peaks, and diminishes in that order.
+An unfinished action. Her body's next movement had not come from nowhere.
 
-At the drainage rut, brown water reflects morning sky. I step over it and climb the bank. My phone finds a signal. The clock corrects itself to the following day. One ordinary night has passed outside the field.
+The tug carried six refinery membrane drums in a cradle along its belly. The spring rail existed to shove them clear if a dock jammed with the drives cold. Ejected forward and outward, the drums would take momentum with them. The rail sat below the tug's centerline; its kick would also turn the hull.
 
-The road bends left around the hedge. I turn with it. The light stays pale, and the ditch continues beside me.
+Kessa pulled up the mass sheet. The cargo represented the delivery, their lease reserve, and most of what she and Orivan had not yet paid for. The stabilizing pulse after recoil would consume the damaged feed's return margin. She placed the eighteen tonnes into the manual impulse model.
+
+“Pavax, if I eject the cradle on this roll, where does it go?”
+
+His answer came after the radio delay. “Do not release debris toward the ring.”
+
+“Run it. Forward spring rail, current port-down rotation. Cargo takes forward-inward. Tug recoils aft-outward. Offset rail gives me starboard roll.”
+
+“Your attitude solution is degraded.”
+
+“So is yours. Run it.”
+
+Dalsen spoke into the silence. “If the two unseen latches remained closed, the rail won't fire. If they opened before the recorder failed, the impulse will be within nine percent of rated. I can't narrow it.”
+
+“Kessa,” Orivan said through the collar, his voice shredded by vibration, “hatch is... thirty degrees above me. Turn starboard, I can reach it. Port more and the collar folds.”
+
+Pavax returned. “Model complete. Cargo clears the occupied spoke by eleven meters at median spring force. Tug clears by six. Error bounds overlap the spoke.”
+
+“Range?”
+
+“One hundred twelve at receipt. Closure point two five.”
+
+Seven and a half minutes by old radar, but the narrowing release angle would close much sooner.
+
+Kessa opened the manual release circuit. Latches one and two showed amber: neither open nor closed. The guard kicked against her thumb exactly as her hand had promised.
+
+For one sick instant the cockpit became familiar down to the hiss behind her right ear. Her thumb pressed. The hull struck. Orivan called something she couldn't keep. Then the sensation dissolved without giving her an image.
+
+She lifted her thumb.
+
+“Not yet,” she said.
+
+“Confirm hold,” Pavax answered.
+
+“Orivan, I need present roll. Forget the display. Count the truss vibration as the bent collar comes under load.”
+
+“Can do. It pulls my leg on the low side.”
+
+“Give me high, level, low.”
+
+The contact mic dropped out. His first word arrived through the hull instead: one knock, then a pause.
+
+“High,” Kessa translated.
+
+She watched the mechanical notch. The yellow block drifted toward its edge. Radar lagged behind the visible line; Pavax's numbers lagged farther. Only the groan under the floor belonged to this fraction of a second.
+
+“Range ninety-six,” Pavax said. “Recommend immediate cell separation.”
+
+“Denied.”
+
+“I need receipt of hazard boundary. Cargo must not release before—”
+
+Orivan's voice broke through his. “Level.”
+
+“Before what?” Kessa asked.
+
+Static. Pavax did not answer.
+
+“Pavax, say boundary again.”
+
+Dalsen cut in, “I have a latch transition—possibly one, possibly noise—”
+
+“Both of you clear.” Kessa kept her thumb off the switch. “Pavax, repeat.”
+
+The yellow block crossed the notch and kept moving. The alignment she had expected passed without a receipt. Every part of her wanted to complete the old motion. She held.
+
+Pavax's voice returned. “Do not release before next starboard-level crossing. Cargo would clip the spoke on the present half-roll. You were not heard acknowledging.”
+
+“No acknowledgment because I didn't receive it. Holding for next crossing.”
+
+“Confirmed.”
+
+One option gone. The hull rolled on.
+
+Kessa's hands became fluent while the rest of her did not. She armed the rescue hatch, dumped cabin clutter into restraints, and set the remaining aft thruster to a pulse after recoil. When Dalsen asked whether she remembered beginning the cargo release, no answer came. The memory question opened the same blank reach.
+
+“I know where my hand goes now,” she said. “That's enough.”
+
+“Range seventy-two,” Pavax said. “Your release window is four seconds wide on my delayed solution. I will call one second early.”
+
+“Don't call fire. Call range.”
+
+“Copy. Range only.”
+
+The collar groaned. Orivan breathed once into its microphone, too close and rough.
+
+“Pain?” Kessa asked.
+
+“Seven if still. Nine when low.”
+
+“Air?”
+
+“Forty-three minutes.”
+
+“Tool pouch?”
+
+“Right hip. Can't reach.”
+
+“Rescue latch?”
+
+“Looks whole.”
+
+The exchange was so ordinary that Kessa trusted it more than the green had ever deserved.
+
+“Range fifty-eight,” Pavax said.
+
+The yellow block approached the notch again. Kessa felt the roll through the chair rails. A shallow tremor, then a deep one that climbed through her teeth.
+
+Orivan knocked once. High.
+
+“Range forty-nine.”
+
+The tremor flattened.
+
+“Level,” Orivan said.
+
+The mechanical notch closed around yellow. Kessa lifted the guard, braced her wrist, and pressed.
+
+The switch kicked.
+
+For a heartbeat nothing moved. Then the rail discharged along the tug's belly. Six drums tore away in their cradle, silver bands flashing across the lower window. The cockpit slammed backward and outward. Kessa's harness caught her cut lip against her teeth. The ring slid sideways. The tug rolled starboard, rescue hatch dropping toward the bent collar.
+
+She fired the aft pulse for eight-tenths of a second. Feed pressure collapsed as she released it.
+
+“Cargo vector clear,” Pavax said. “Tug vector—stand by. Stand by.”
+
+Kessa watched white plating travel across the window. The occupied spoke reached the mechanical bar, touched it, and began to slip away.
+
+Metal boomed once beneath her. Orivan, or the truss, or both.
+
+“Tug clears,” Pavax said. His voice lost one of its hard edges. “Minimum predicted separation four point six meters. Do not thrust.”
+
+“No thrust available worth naming.” Kessa unbuckled. The after-reprise clock read `09:41`. “Orivan, hatch is coming to you.”
+
+His answer emerged through the collar mic with a thin burst of breath. “I see it.”
+
+Kessa sealed her helmet and vented the short rescue lock. Through its round window she found Orivan pinned below the bent service collar, tether taut, right leg twisted under a folded brace. Beyond him the ring moved upward now instead of across. The new direction unsettled her stomach, but no ghost of movement came with it. This part had not happened before.
+
+She opened the outer hatch and clipped her line before reaching for him.
+
+“Don't pull me straight,” he said. Face-to-face, his suit carried no sound at all. The collar microphone caught him only when his helmet touched the hull; she read the rest from his mouth and his pointing glove. “Lower pin first.”
+
+Kessa found the pin under the folded brace. “Red tab?”
+
+He shook his head, then tapped twice beside it. Secondary catch.
+
+“Black catch, then red.”
+
+He gave her one raised thumb.
+
+The black catch resisted. Kessa took the short lever from his right-hip pouch and fitted it under the collar lip.
+
+“How much turn?” she asked, pressing her helmet to the hull so the contact circuit would carry her voice back.
+
+“Quarter. Stop if my boot moves inward.”
+
+“Your boot's already inward.”
+
+“More inward.”
+
+She turned the lever. The collar flexed. Orivan's eyes shut, and his gloved hand closed around her forearm—not a signal, just pain. Kessa stopped.
+
+“Air still good?”
+
+Thumb up.
+
+“Leg sensation?”
+
+He spread his fingers, uncertain, then held up two. Two toes, perhaps. Enough to wait three breaths before trying again.
+
+On the second turn the black catch lifted. Kessa pulled the red tab. The lower pin sprang free, and the brace opened a hand's width without dragging his boot. Orivan pushed with his left leg while she guided his shoulders into the rescue hatch.
+
+The after-reprise clock passed `11:32` as the inner door sealed.
+
+Cabin air rushed around them. Kessa cut the suit fabric at his right knee, braced the leg where it lay, and pressed a cold pack around the swelling. Orivan watched her hands.
+
+“Pain now?”
+
+“Six. Unless you ask me to stand.”
+
+“I'm not asking.”
+
+“Then still six.”
+
+Pavax called with final separation and a recovery vector. Dalsen asked for the spent harness serial, then accepted that Kessa would read it when both her hands were free.
+
+At `12:04`, Kessa opened the damage ledger. Orivan lay strapped beside the cockpit with his leg splinted and the analgesic working. She entered the sheared port thruster cluster, the bent service collar, the fused reprise bridge, and the loss of all six cargo drums.
+
+“All six?” Orivan asked.
+
+“All six.”
+
+“Put the rail cartridge on there too.”
+
+Kessa added it. The ledger calculated a number large enough to change the year ahead. Outside, the cargo beacon receded down a debris-safe track beyond the ring's recovery cone, while the tug and the occupied ring continued apart.

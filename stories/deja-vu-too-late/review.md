@@ -6,13 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The traveler, younger brother, parents, father, and unknown warning-carver remain unnamed. |
+| Kessa | new | No exact or alias reuse found; baseline Kest and current Kedra and Kosca remain distinct in spelling, sound, and role. |
+| Orivan | new | No exact or alias reuse found; legacy place Orison remains distinct in noun type, spelling, and sound. |
+| Dalsen | new | No exact, alias, close-spelling, or confusing prior use found. |
+| Pavax | new | No exact or alias reuse found; baseline Indexer Prax remains distinct in spelling, sound, and role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The wheat field, marble monument, childhood cupboard and hall, bakery, kitchens, brother's rooms, hedgerow, and road remain unnamed. |
+| None | none | No named place appears in the story. |
 
 ## Continuity
 
@@ -22,9 +25,9 @@ Verdict: PASS
 
 ## Craft
 
-- Dialogue: N/A
+- Dialogue: PASS
 
 ## Findings
 
 - Blocking: none
-- Notes: The human-scale faces and fixed final handspan now form one legible local spatial anomaly. Four corner joins close the traveler's four prior episodes without resetting injury or supplies, changing the fixed call, reviving the brother, or granting the inert stone agency; the road opens after the completed circuit, and the traveler refuses a voluntary second one. The remembered line and one-way shout do not constitute a meaningful dialogue exchange.
+- Notes: The one-use restore preserves elapsed time, injury, physical consequence, and incomplete evidence; the closing maneuver and rescue follow coherently from the frozen guidance, delayed range, hull contact, and cargo recoil. Dialogue stays differentiated through Kessa's timing and choices, Orivan's pain-shortened bodily reports, Dalsen's conditional device reasoning, and Pavax's ranges and duty constraints, while overlap and missed receipts materially shape the outcome.
