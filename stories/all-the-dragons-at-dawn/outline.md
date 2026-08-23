@@ -2,39 +2,46 @@
 
 ## Story
 
-- Premise and central promise: Dragon slayer Esker Voll expects the ash-red dragon he mortally wounded to die against him. Instead, its scales root across his skin. Through the night the transfer remakes Esker's heat, eyes, and sexed body; by dawn she chooses feminine pronouns while remaining the same person. Every surviving dragon turns toward the ravine. Resolve why they come and whether the slayers answer with another kill: Esker has become a living marker for the corpse, which the dragons recover and burn without accepting, obeying, forgiving, or destroying her. The signal ends; the transformation does not.
-- Focal pressure or attachment: Esker wants surgical help, but moving toward the frontier keep would pull the dragons across sleeping settlements. She wants fellow slayer Galen Suth out of danger while needing the one witness who treats her name, memory, and choices as continuous. Her trained reflex makes every descending shadow a target; she must hold position and observe without mistaking uncertainty for safety.
-- Counterforce or complication: Cutting the scales opens living tissue and spikes Esker's fever. Her gold sight reveals distant heat and motion, not intent. Galen reasonably wants to light a warning flare and move her before the sky closes; delay could kill them. The dragons remain dangerous independent beings, not a waiting crowd or manufactured antagonist.
-- POV, distance, and information limit: Close third past through Esker. Use he while he understands himself that way; depict the change concretely but non-explicitly, then use she after Esker chooses it. Magic alters anatomy, not identity by decree: name, memory, agency, and responsibility remain continuous, with no dragon mind inside her. Keep others exterior. Esker may revise inferences from behavior but gains no translation or certainty about the dead dragon's motive.
-- Governing movement and time shape: One contained night into first sunlight, driven by accumulation rather than pursuit: intimate contact, spreading change, distant flight lines, one cautious arrival, many dragons occupying rim and sky, corpse recovery, dispersal. Render the transfer, failed scale removal, flare dispute, first landing, human decision, and dawn recovery; compress the middle hours through wings appearing on successive horizons.
-- Speculative rule or ordinary-world constraint: Establish only this ash-red dragon's observed death-molt and the local response. During sustained skin contact at death, scales root as living tissue and copy red scales, slit-pupiled gold eyes, hot blood, and parts of the donor's bodily pattern. They broadcast direction and urgency without commanding dragons or making Esker their ruler. Moving her moves the convergence; water eases pain but cannot reverse it. Removing and burning the corpse ends the signal. Preserve the reference's red-haired armored woman, cheek and forearm scales, gold eyes, and tense intimate mood—never a triumphant transformation pose.
-- Dialogue pressure (optional, at most 75 words): Esker wants Galen to take the horses away, keeping the convergence on empty ground; Galen wants surgical help for her and invokes their duty to nearby villages. He knows a flare will bring armed riders; she knows only that the flight paths track her, not the dragons' intent. Galen speaks in field procedures; Esker answers through distance, heat, and risk.
+- Premise and central promise: Slayer Tarrow Kes expects a wounded red dragon to die in his arms. Its living scales graft onto him, remake him through the night, and continue its convergence signal. By dawn, she must keep every surviving kingdom dragon from entering the slayers' kill basin without assuming her new body grants command or fluent dragon speech.
+- Focal pressure or attachment: Tarrow helped make Cinderwake Basin lethal. She wants her familiar body back and fears hunters and dragons alike, but her knowledge can prevent slaughter. Her gendered self-recognition shifts with the embodied change without becoming joke, punishment, or separate identity.
+- Counterforce or complication: Airborne chain-fans trigger at sunrise. Fellow slayer Othen helped set their anchors and wants to return Tarrow to the company. The mantle broadcasts urgency without explanation, intensifies with panic or blood, and draws dragons whose responses differ.
+- POV, distance, and information limit: Close third-person past through Tarrow, using he/him until her embodied recognition settles, then shifting cleanly to she/her. She gains sensory range, not dragon memories or translated thoughts; intent remains inferable from flight and signals.
+- Governing movement and time shape: One night contracts from the dying dragon at Dawnscar Escarpment through descent and signal experiments to Cinderwake's first-light trap. End in practical aftermath, not public conversion or ceremonial acceptance.
+- Speculative rule or ordinary-world constraint: The dragon's still-living emergency mantle grafts once, using Tarrow's living body without carrying a mind or soul. It permanently alters her while preserving memory, identity, and choice. Bone-tone and heat repeat a local route-keeper signal that calls scattered dragons for separate escape bearings. Detached scales have no agency.
+
+## Voice
+
+- Narrative texture: Keep the night tactile and directional: armor pressure, warm stone, air displacement, wire angles, and distant heat. Filter new senses through Tarrow's trained spatial attention, not transformation spectacle.
+- Conversational texture: Tarrow and Othen use clipped field talk, interrupted questions, necessary counts, and ordinary care. Dragons use bone resonance, wing pressure, heat flashes, scent, and sky position—not translated dialogue.
+- Rhetorical ownership: Tarrow reasons in lines of fire, approach routes, and immediate choices; Othen uses measurements, equipment limits, and procedural excuses. Each dragon's signal mode and response remain individually legible.
+- Pressure behavior: Tarrow's changing throat reduces speech, forcing gestures and selected words. Othen fills silence with explanations, then becomes terse and numerical when he commits.
+- Anti-default: Avoid a chosen-one awakening, effortless dragon fluency, identical chorus, transformation fetish, villain speech, moral debate at the climax, or a polished explanation after action resolves the danger.
 
 ## Beats
 
-1. At dusk, Esker catches the dragon's collapsing head after the killing stroke. It presses its throat to his bare wrist; hot scales crawl under his gauntlet and root before he can release it. Keep the contact intimate and non-graphic.
-2. Galen returns with the horses. Water steams on Esker's skin; removing one scale opens hot blood and worsens the spread. Red scales reach cheek and forearm, eyes turn gold, and the he-to-she bodily change completes. Shared practical knowledge establishes continuity without an identity speech.
-3. Esker sees remote heat traces banking toward her. A short move toward the keep makes every trace correct course, so she returns to the empty ravine without claiming the dragons are harmless.
-4. Galen prepares a flare while Esker places weapons beyond immediate reach. They dispute whether uncertainty justifies summoning riders trained to shoot first. He keeps a covered flare and sword behind stone, retaining agency.
-5. The first dragon lands across the corpse, watches their hands, and attends to the dead. Others arrive separately, varied in size and approach, taking ledges or circling rather than forming an army. Restraint changes the working hypothesis but proves no allegiance.
-6. Near dawn, Galen has a last interval to signal. Esker cannot promise safety. He delays the flare and positions himself to act if any dragon turns toward the valley; she remains beside the body with empty hands.
-7. The dragons use claws and wing currents to lift their dead without touching Esker, ignite it above the ravine, and carry the remains away. Heat-lines break as they disperse; none bows, speaks, or leaves a token.
-8. Esker's fever drops enough to stand, but body and vocation remain unsettled. End with Galen helping her toward shelter, not with forgiveness, acceptance, or a decision about the keep.
+1. At Dawnscar after moonset, the dragon pins Tarrow's bracer while alternating heat and a low note travel through bone. Red scales spread over his forearm and cheeks; armor catches. The beast dies, but its note continues inside him and distant warm points turn toward the ridge.
+2. Othen returns and finds Tarrow changing. Practical questions uncover the omitted plan: the hunt was meant to provoke the route-keeper's alarm, drawing its answerers into Cinderwake. Tarrow forces Othen to choose between warning the company and surrendering the anchor map.
+3. During descent, Tarrow's blood runs hot; her eyes become brilliant gold with slit pupils, her hair reddens, one ear points, and scales thicken across both cheeks and her raised forearm. Pronouns shift with her own recognition amid anger and discomfort. Othen cuts obstructing armor only with permission.
+4. A pale dragon answers with wing-pressure, soot-colored pair with flank-light, and scarred dark dragon with ridge vibration. Tarrow's attempted bone-tone pulls them closer. Their different reactions to exposed wire show she can signal danger but not destinations.
+5. Tarrow carries the beacon into uninhabited Cinderwake while Othen disables two releases. Her gold sight finds fine chain lines. One copied warning, irregular dawn light flashed from her scaled forearm, and physical gaps offer evidence rather than compulsion.
+6. The slayers trigger early. Dragons climb, hover, strike an exposed engine, or refuse the basin. A shallow wire cut exposes Tarrow's hot blood; its heat softens an anchor's wax lock so she can tear the slack line clear while Othen drops the final counterweight. The trap fails before closing.
+7. The dragons hold separate distances, exchange pressure, light, scent, and tone, then depart or search. Tarrow receives scrutiny rather than coronation. She and Othen check the perimeter for snares and wounded creatures; her body, future with dragons, and reckoning with the company remain open after the slaughter is prevented.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Esker Voll | new | Dragon slayer; one continuous identity across the transformation. No conflicting reuse found. |
-| Galen Suth | new | Fellow slayer whose protective duty creates the flare pressure. No conflicting reuse found. |
+| Tarrow Kes | new | Dragon slayer transformed by the route-keeper's living mantle; focal character. |
+| Othen | new | Fellow slayer and trap-setter whose practical knowledge and choice make sabotage possible. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No named place proposed. |
+| Dawnscar Escarpment | new | Remote ridge where the route-keeper dies and the mantle graft begins. |
+| Cinderwake Basin | new | Uninhabited kill bowl rigged with airborne chain-fans. |
 
 ## Continuity
 
-- Canon used: The deep-time world permits an independent unnamed kingdom. Personhood protection governs Esker's transformation. Established dragon cultures and scale workings are local, not universal.
-- Boundaries and unknowns: No connection to Ersene's reciprocal scale focuses or the Crown-era dragons' self-chosen human guises. Do not generalize this death-molt into species-wide biology, compulsion, resurrection, mind transfer, inheritance law, or authority. Leave its origin, rarity, reversibility, and Esker's later changes unresolved. Keep violence non-graphic; the reference governs appearance and atmosphere only.
+- Canon used: An unspecified era of the persistent shared world. Transformation is mechanism-specific and preserves Tarrow's personhood, consent stakes, memory, and choice; detached matter has no will.
+- Boundaries and unknowns: The mantle, convergence protocol, signal modes, and chain-fans are local. They establish no universal dragon biology or language and have no connection to Ersene scales, Urumet, Nyrzath, the Crown-era twelve, the Sleepless Majesty, or Northbridge transformations. Why the dragon chose Tarrow and whether reversal is possible remain unknown.
