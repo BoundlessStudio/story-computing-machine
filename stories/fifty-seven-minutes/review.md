@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Hesrata Ulbray | new | Disgraced shipwright and newly made harbor god, also called Hesrata and mockingly addressed as Shipwright; no exact-name, alias, close-spelling, phonetic, or confusing reuse found. |
-| Dennet Hurnick | new | Hesrata's former apprentice and the working shipwright who guides the rescue, also called Dennet; no exact-name, alias, close-spelling, phonetic, or confusing reuse found. |
+| Orselle Vuret | new | Disgraced shipwright, temporary harbor god, and focal character; no exact or alias reuse found, while Duchess Yselle Flint and Pevin Ors remain distinct by full form, cadence, setting, and role. |
+| Ossa Keld | new | Mallowbreak harbormaster; no exact or alias reuse found, and the nearby current forms Ossia and Cira Keln remain readily distinct by full name, sound, and role. |
+| Sileth Nemm | new | Keeper of the launch rite; no exact or alias reuse found, while Kelyth, Peleth, and the legacy forms Silas Cray, Leth Varen, and Letha remain distinct in spelling, cadence, setting, and role. |
+| Rulik Saal | new | Yard foreman and Orselle's former apprentice; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The town, harbor and basin, bar and outer flat, north rocks, quay, old landing and immersion steps, net sheds, west wall, and storm channel are descriptive unnamed locations or features. |
+| Mallowbreak | new | Harbor town whose marked waters bound the temporary authority; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -28,5 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The mock coronation becomes genuine worship, granted harbor authority, and sea-commanding power without giving the nonliving crown, carried voices, or water independent agency. The visible marks form a coherent fifty-seven-minute sequence; measured water bearings, the moving channel, chain clearance, pumping, and staged release bring the workboat home and restore the banked tide before Hesrata voluntarily misses immersion.
-- Notes: Hesrata's broad commands and appetite remain distinct from Dennet's load questions, safety corrections, and refusal to promise trust. Their hull-risk exchanges alter action under pressure, while the mortality exchange moves from a proposed job to the unpriced future she must choose; the final brief exchange preserves both characters' agency without repeating the ending's physical proof.
+- Notes: The launch-day mock observance joins Orselle's living salt-breath to temporary worship and harbor authority, producing one bounded fifty-seven-minute mechanism whose literal commands displace rather than erase water. Her voluntary shore-return makes her mortal, opens the prepared relief route, and spares both neighboring coves at real local cost without restoring her seal, canceling the hearing, or absolving the failed ferry certification. Dialogue remains context-dependent and role-specific: Orselle reasons through loads and tolerances, Ossa through routes and confirmations, Sileth through incomplete ritual clauses, Rulik through workmanship and remembered choices, and bystanders through immediate losses and labor. Mishearing changes physical action, pressure distributes fluency unevenly, and the final exchange trusts the witnessed measurement rather than explaining the resolution again.
