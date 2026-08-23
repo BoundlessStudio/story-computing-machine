@@ -8,330 +8,474 @@ canon: false
 
 # The Last Watcher of Jupiter
 
-Anca Vero’s last watch began with Jupiter trying to climb out of her canopy.
+Jupiter filled the lower half of Varai Tzur's canopy, banded cream and rust beneath the faint green mesh of the quiet lattice. She brought Cairn Nine through the last three degrees of its watch turn by hand. The old frame answered in the order it always did: left ankle, right hip, then the shoulder emitters, each correction arriving a fraction late.
 
-The planet filled the forward glass from knee bar to overhead brace, close enough to look less like a world than a wall built from weather. The white belts moved east. Rust-colored folds moved west. Between them, a storm the size of a continent worried at its own edge. Anca touched the left pedal, counted the old machine’s hesitation, and leaned into the answering roll before it arrived.
+Eight years with the analog integrator, and she still counted that lag in her teeth.
 
-The crosshair returned to the pale oval the watch had designated aperture twelve.
+“Nine on mark,” she said.
 
-Twenty-three green alignment marks tightened around hers. The other watchframes corrected without any visible delay, sharing their balance through the line receiver that her machine no longer possessed. Their silhouettes stood along Jovian Station’s outer gantry, long legs locked to the deck, shoulders squared toward the clouds. Beyond Anca’s glass, portions of two neighboring frames showed at the edges: an armored forearm to her left, a white reactor spine to her right. Together the twenty-four forward cones overlapped across the active latitudes.
+Twelve mecha hung around Jovian Station's outer boom, all facing down. Their long legs were folded under them to clear the habitat ring; their emitters aimed through the storm tops toward the electroplasma mass moving below. It had no name. The field team had measured it across a span larger than a continent, rising and sinking through charged hydrogen, branching when the lattice tightened, closing again when it relaxed. Alive, Romesh Ival said. Intelligent, she did not.
 
-For thirty years the arrangement had held.
+For thirty years the watch had kept its upper currents below inhabited orbit. Not a prison, Varai thought. More like holding a river out of a stairwell.
 
-No one living on the station had seen the thing beneath the storms. They had seen what happened when the cones opened a gap. Cloud bands that should have shredded each other joined along precise curves. Lightning rose against gravity. Once, before Anca’s posting, a coherent burst had crossed the magnetosphere and erased every unsheltered memory lattice on the station’s night side. The official language called the cones interference fields and their purpose containment. Watch crews used shorter words. Face in. Keep it quiet.
+“Seal check,” Idris Pawel said from station command.
 
-Anca rolled her sore right shoulder under the harness. Forty-three minutes remained before relief, and the transfer board’s decision was already four minutes late. She had spent four years asking to leave the only frame whose turns had to be anticipated like the movements of a tired animal. Every flawless correction went into the logs as pilot compensation, proof that the obsolete machine was still serviceable. Every bad one belonged to her.
+The responses came around the formation, some crisp, some tired. Varai pressed two fingers to the rim of her collar.
 
-At 18:06 station time, the other twenty-three machines turned their backs on Jupiter.
+“Nine sealed. Suit feed at ninety-eight.”
 
-There was no warning from the line. One instant Anca’s peripheral view held an armored forearm and a reactor spine; the next, both vanished. On the gantry display, twenty-three orientation arrows swung one hundred eighty degrees in perfect unison.
+“Four sealed,” Nadja Sile said. “Left glove's cold again.”
 
-The machines moved too quickly for bodies. Heels unlocked. Hips rotated. Each watchframe stepped outward, dropped onto its right knee, and planted both fists against the deck. Armor folded over the exposed reactor spines. The impacts traveled through the gantry and struck Anca’s cockpit as one enormous blow.
+“Noted for turnover.” That was Naveen Okoro in engineering. “Don't flex the wrist past—”
 
-Her own machine remained standing.
+“I know where it leaks, Naveen.”
 
-Jupiter remained in front of her.
+“It doesn't leak. It conducts.”
 
-For half a second the radio carried nothing but breath. Then voices crowded the watch channel.
+“My hand is cold either way.”
 
-“No response from controls.”
+Someone laughed once, without opening a channel. The sound was more breath than amusement. Then Idris called coolant figures, Romesh gave the organism's upper margin, and the watch settled into its ordinary work.
 
-“Harness locked. I can’t—”
+At 03:17 station time, eleven machines turned their backs on Jupiter.
 
-“My right leg’s under load. Command, my leg is not where the frame thinks it is.”
+There was no warning motion. One instant Varai held the phase marks of Cairns Eight and Ten at the edges of her canopy; the next their shoulder arrays crossed like shutters. All along the boom, white frames rotated in exact unison. Heels swung toward the planet. Knees opened. Arms lowered with palms out, the hard-braced posture used when a carrier took hold of a machine in deep space.
 
-The commander cut across them. “All pilots, hands clear of manual releases. Medical telemetry is live. Watchframe status only.”
+Every departure thruster showed amber.
 
-Anca looked down her board. The empty receiver bay showed the same gray absence it had shown for seven hundred watches. Her local drives were green. Field output had risen as the network tried and failed to distribute the work of the missing cones.
+Cairn Nine stayed where Varai had put it, facing down.
 
-“Frame twenty-four standing,” she said. “Full local control. Still facing in.”
+“Abort rotation,” Idris said.
 
-“Vero, confirm your line receiver.”
+Varai already had both hands on her controls. The quiet lattice fell away so quickly that Jupiter's horizon seemed to brighten. Nine's emitter load climbed through yellow.
 
-“Still in a parts bin, I assume.”
+Voices struck the shared channel together.
 
-“That may be why you’re free. Hold orientation.”
+“Three, no response—”
 
-Behind her, the station’s deep-space alarm began to pulse through the hull: two low knocks, a pause, then two again. Anca’s rear pickup painted a narrow wedge of static across the bottom of her display. Something had entered the watchline’s rear detection cone from beyond the charted traffic lanes.
+“My sticks are live, actuators aren't—”
 
-The kneeling machines had faced it as if summoned.
+“Six has launch arm. I did not—”
 
-Her field load jumped. In aperture twelve, three ocher vortices drew closer together.
+“Clear the channel,” Idris said. “Pilots, bodies first. Can you move inside your cabins?”
 
-“Command, I have organization in the active aperture.”
+Answers came unevenly. Yes. Yes, but the turn had thrown a knee against a console. One pilot had lost a tool bag. Another couldn't see past a shoulder plate now blocking the station lights.
 
-“Recorded. We have no useful outward image. The turned frames are returning identical black.” The commander’s voice stayed level, but Anca heard other voices behind it calling cockpit temperatures and blood oxygen. “Vero, give me five degrees outward on my mark.”
+Nadja breathed close to her microphone. “Four's harness caught me. I can move. Rotation override shows accepted and does nothing.”
 
-She watched a hooked line of lightning unbend itself across Jupiter’s clouds.
+Varai looked down. Without the other eleven emitters, the green field had shrunk to a cone beneath Cairn Nine. Far below, a pale seam opened in the storm. It was too straight to be weather. Romesh's organism plot rose beside it, the upper edge advancing.
 
-“Five degrees puts the aperture outside my cone.”
+“Romesh, rate.”
 
-“We need eyes on whatever owns that signal.”
+“Not yet.”
 
-“You have twenty-three pairs.”
+“You have the plot.”
 
-“I have twenty-three pilots looking through dead glass. They’re locked down and heating up. Five degrees.”
+“I have six seconds of it.”
 
-Anca set both hands on the manual yoke. A full turn would take her field away for seventy seconds: twelve to yaw, forty-six for the vanes to settle at the new angle, twelve to return. The storms could make a great deal of order in seventy seconds.
+Nine's hips trembled as the single emitter pushed against a current built for twelve. Varai let the frame drift half a degree east, caught the bucking phase, and returned. Coolant temperature climbed.
 
-“I’ll give you one,” she said.
+Idris's voice sharpened. “All traffic below the inner ring is halted. Habitat sections two through five are sheltering. Thrusters?”
 
-“Vero—”
+“Still amber,” Nadja said. “Arming bars at sixty.”
 
-She pressed the right pedal before he could spend the breath.
+“Mine too,” another pilot said.
 
-The machine resisted, then yielded with a groan that traveled up through her boots. Jupiter slid left by one degree. The field cone dragged behind the motion. Along its exposed edge, the three ocher vortices touched.
+“Confirm no one has a departure burn loaded.”
 
-What formed between them was too straight to be weather.
+The confirmations tangled. Idris called the frame numbers again until each pilot answered separately.
 
-It began as a dark seam. Amber light ran up it through layers of cloud, a rising stroke with branches placed at equal intervals. The field readout went white. Anca stamped the opposite pedal, but the old hip assembly was still completing the first command. For nine seconds the machine continued to yaw outward. For another three it held, deaf to her.
+Naveen cut in on the engineering channel. “Varai, Nine's command log is clean.”
 
-The seam widened.
+“I know. It didn't turn.”
 
-Then the left drive caught. The canopy swung back. Her cone crossed the aperture, and the ascending structure broke into a thousand ordinary bolts. Their light flashed soundlessly across the storms.
+“That's not what I mean. No rejected command. Nothing reached the analog integrator.”
 
-Anca’s teeth had closed on the inside of her cheek. She tasted blood.
+Varai checked the outer formation. Eleven machines knelt toward the same empty patch of black, their braces squared as if something waited there to receive them. Stars showed between their fingers.
 
-“One degree cost twelve seconds of control and gave it a spine,” she said. “I’m facing in.”
+“What reached the others?” she asked.
 
-The commander did not answer at once. The alarm knocked twice through the hull.
+“I'm pulling it apart.”
 
-On Anca’s rear pickup, the static wedge brightened.
+Romesh said, “Ascent rate now. Point four kilometers a second and increasing. That is the organism's upper current, not the storm front.”
 
-Four seconds later, aperture twelve struck her field hard enough to ring the forward armor.
+“Cause?” Idris asked.
 
-“Mark that,” she said.
+“The lattice collapsed.”
 
-“Marked.”
+“Cause beyond that.”
 
-“It followed the outward pulse.”
+“I don't have one.”
 
-“One sequence is not a pattern.”
+Varai watched Nine's emitter temperature cross the first red line. “One frame buys how long?”
 
-“Then don’t make me open the cone while we wait for two more.”
+Romesh hesitated just long enough to be honest. “At this load, four minutes before your field degrades. Less if the current keeps narrowing.”
 
-The right-hand frame knelt close enough that Anca could now see the back of its helmet below her canopy line. It had folded with its pilot trapped chest-down against the harness. Coolant vapor feathered from a shoulder vent.
+“Naveen?”
 
-“Frame twenty-three cockpit at forty-two and rising,” the commander said. “Vero, can you get a grip without changing torso alignment?”
+“Three and a half before the shoulder loops soften their mounts.”
 
-She checked the field. The aperture was drifting east, but slowly. “For a few seconds.”
+“Good. A disagreement.” Varai rolled Nine two degrees and spread the field. The upper current bent with it, not much, but measurably. “Romesh, tell me what it follows.”
 
-Anca unlocked her right boot, stepped it half a meter along the gantry rail, and bent her machine at the knees. Jupiter climbed higher in the glass. She extended one arm sideways until the hand closed over the kneeling frame’s shoulder plate.
+They gave the organism a pulse: one shallow contraction, then release. The pale seam slowed after the contraction reached it and resumed when the field relaxed. Romesh asked for a second pulse at a different interval. Varai supplied it while the others knelt behind her.
 
-“Twenty-three, I’m going to lift on three.”
+“Response follows field arrival,” Romesh said. “Not whatever the machines are facing. Within measurement delay, the deep signal and its motion don't correlate.”
 
-The pilot’s reply came tight and quick. “My seat is canted. Don’t jerk it.”
+“So it isn't calling them,” Idris said.
 
-“One. Two. Three.”
+“I did not say what the deep signal is doing.”
 
-Anca pulled.
+“You said enough.”
 
-For an instant the kneeling frame rose. Then its posture servos drove downward with a force that bowed the gantry under both machines. Warning bars spilled across Anca’s display. In the other cockpit, someone made a short sound and stopped breathing.
+“I said the rise is a reaction to loss of containment.”
 
-Anca released before the commander ordered it. The neighboring frame slammed back onto its knee.
+The distinction mattered to Romesh. It mattered to Varai too. They had a hazardous life moving upward because the walls had vanished, not an enemy coordinating an attack.
 
-“Twenty-three?”
+Naveen's first analysis arrived as three traces laid over one another. A radio packet repeated an authenticated station codeword. An optical source pulsed along a rotating plane of polarization. Under both, a slow magnetic sweep crossed the formation.
 
-Air hissed over the channel. “Here. Don’t do that again. It thinks I’m cargo.”
+“All three agree on a vector,” Naveen said. “Standard correlators treat concurrence as recovery authority.”
 
-Anca returned her boot to its lock. The step had shifted her torso by three tenths of a degree. She corrected, waited through the machine’s stubborn delay, and watched the crosshair creep back over the clouds.
+“Recovery for what?” Nadja asked.
 
-The deep-space alarm sounded again.
+“Docking-brace and retrieval alignment. Then departure preparation.”
 
-This time the Jovian response came after three seconds.
+“Whose recovery code?” Idris asked.
 
-The aperture gathered itself under her cone. Field current surged across the vanes, holding the rising structure below the cloud tops. Anca could not see whatever pressed against the other side of her field. She saw only its effects: a polygonal clearing that tried to open, lightning combed into parallel white teeth, ammonia clouds peeling away from a center that remained hidden.
+“The codeword is ours. The optical sequence isn't in current service. The magnetic shape—hold on. No, that's an artifact. I can't date any of it.”
 
-“Second sequence,” she said. “Delay shorter by one second.”
+“Can it hear us?”
 
-“Confirmed.” The commander had lost some of his evenness. “We can bridge the carrier through your command receiver. One packet, isolated. Your optics may resolve what the standard frames are masking.”
+“At the measured range, any answer takes minutes to get there. If there's something there to answer. The signal is not speech.”
 
-“The command receiver reaches my posture bus.”
+Varai widened a cooling valve. It stuck at seventy percent, then yielded with a knock she felt through her seat.
 
-“Through a limiter.”
+“Why Nine?” Idris asked.
 
-“That signal turned the line before you recorded its first byte.”
+Naveen was silent for two breaths. “Because I made it worse eight years ago, after the micrometeor tore through its correlator bay.”
 
-“And cockpit twenty-three is at forty-four. Two more are above forty-three. We cannot cut into the frames while their servos are loaded.”
+Varai almost smiled. “You made it fly.”
 
-Anca looked at the kneeling helmet below her. She could picture the pilot folded under the harness, breathing air warmed by a reactor that had armored itself against a danger outside and sealed its heat inside with the human being it carried.
+“I replaced a destroyed correlator with a slow analog stack. It requires Varai to acquire formation manually. It also can't authenticate three simultaneous channels.”
 
-“Give me the bridge,” the pilot said over the common channel. “If it folds you, at least we’ll know.”
+The repair had cost Cairn Nine autonomous navigation and made Varai argue for its continued place on every watch roster. Now the same deficiency kept one machine facing Jupiter.
 
-“You’ll know from inside an oven,” Anca said.
+“Then make the others worse,” she said.
 
-“I’m already there.”
+“Working on it.”
 
-The next carrier pulse came before the commander could speak. Two knocks traveled through Anca’s feet. Her rear pickup flared. She began counting.
+Idris directed a cargo shutter across the deep-space line. The station's outer freight galleries had armored leaves for loading under radiation storms. One leaf crawled over the black patch toward which the machines knelt.
 
-One.
+As it crossed Cairn Four's sightline, Nadja's amber thruster bars flickered.
 
-Two.
+“Four lost optical,” Naveen said. “Command confidence falling.”
 
-The clouds below tightened around a point so small she nearly lost it. Not the broad aperture this time. A needle.
+“My right hip is back,” Nadja said. “No—gone. Locked again.”
 
-Anca hauled the yoke left. The frame gave her nothing. She kicked the trim latch free and put her whole weight against the pedal.
+The shutter covered the optical pulses, but radio still arrived around it, and the magnetic sweep passed through the station's thin frame. The correlator restored concurrence as soon as its internal model filled the missing channel.
 
-At two-point-seven seconds, the response rose.
+“That was less than a second,” Nadja said. Her breath hitched. “I can't pull anything in a second.”
 
-Her field cone met it off center.
+Each cockpit had a mechanical service link below the pilot's seat. Pull it, and the correlator lost its path to the drive frame. Under maintenance conditions it was a heavy red handle and a nuisance. Under full joint load, Naveen said, the sudden transfer could shear an actuator collar and let a limb whip free.
 
-The impact blew three forward-vane fuses and filled the cockpit with blue emergency light. Anca’s helmet struck the headrest. Beyond the canopy, the needle smeared sideways under the cone and dissolved into crooked lightning.
+“Detach the eleven frames from the boom,” Idris said.
 
-The standard frames remained kneeling.
+“No,” Naveen answered before Varai could. “Their docking braces are carrying rotation load. Release clamps now and the frames leave with thrusters half-armed.”
 
-“Third sequence,” Anca said. “I caught it. No bridge.”
+“Can we cut correlator power?”
 
-“You caught one aperture,” the commander said. “We have uncovered weather across twenty-three sectors.”
+“Same bus as local control until the service link is out.”
 
-“Weather is all it is so far. Violent, but it isn’t lining up. This point is trying to answer.”
+“Can the pilots pull under load?”
 
-“Trying is an interpretation.”
+“They can. They may lose their frames.” Naveen corrected himself. “Or a pressure hull, depending on which joint fails.”
 
-“Three pulses. Three rises. Four seconds, three-point-one, two-point-seven. That’s the instrument trace.”
+Idris said nothing for a moment. The station commander had thirteen thousand people behind his risk windows and eleven pilots in machines pointed away from safety. When he spoke again, his voice was measured.
 
-The commander spoke away from the channel. Anca heard fragments: coolant carts useless, external access blocked, projected tolerance. The kneeling pilot breathed steadily into an open microphone.
+“No service pull without an unloaded indication. Confirm.”
 
-“We found the posture in the commissioning layer,” the commander said. “It’s a recovery brace. A recognized carrier reaches the line receiver; the frame faces the source, shields its reactor, and waits for capture.”
+Some pilots answered at once. Others did not.
 
-“Recognized by the frame.”
+“Confirm,” Idris repeated, calling numbers.
 
-“Not by any station registry.”
+Nadja's reply came last. “Four confirms. I don't like it.”
 
-“Can you release them?”
+“You don't have to.”
 
-“Not from here. They wait for the carrier to clear or send its next instruction.”
+Varai looked along the outer boom. The magnetic sweep was slow, its baseline clean because eleven frames held the same brace. Cairn Nine had not entered that geometry. It could.
 
-“You have sixty seconds,” the commander said at last. “If the relation breaks, I send the bridge.”
+“If I cross the baseline while the shutter blocks optical,” she said, “does concurrence fail longer?”
 
-“If it breaks, you won’t need to.”
+Naveen began, “Moving Nine through the outer formation will couple your emitter into—”
 
-“That is not what I said.”
+“How much longer?”
 
-“It is what I can do.”
+“I need the path.”
 
-Anca killed the three blown circuits and transferred their load to the remaining vanes. The field narrowed. She no longer had enough cone to cover the whole aperture, only its organizing center.
+Varai sent him one: out from the lattice cone, over the freight spine, down the line of kneeling machines. Cairn Nine would become a moving magnetic error between the source and each correlator.
 
-The center moved.
+Romesh said, “Leaving your current position releases the upper seam.”
 
-Standard frames would have passed the target from one machine to the next, twenty-four control systems shaving error into adjustments too small for their pilots to feel. Anca had no one to pass to. She leaned forward against the harness, right hand on the yoke, left on the vane bias controls, and followed the disturbance herself.
+“For how long?”
 
-Jupiter became her whole world.
+“At least twenty seconds before you can reestablish useful counterphase. The ascent may accelerate. That's not a prediction of damage at the station.”
 
-The clouds gave her clues a sensor summary would have discarded. A rust-red plume flattened before the target reached it. White eddies turned bright along one edge, their ice lifting into the field. When the current hiss rose in the right side of her headset, the machine’s late hip drive would pull left. Anca began each correction before the aperture moved. Sometimes she was wrong and had to fight the returning weight. More often the crosshair arrived with the center.
+“Idris?”
 
-The carrier pulsed again. The response struck in two-point-four seconds.
+“Habitat shutters draw from the same reserve as traffic control.”
 
-Again. Two-point-two.
+“I need moving windows.”
 
-Each time, her narrowed field broke the rising order. Each time, heat spread through the forward vanes and into the cockpit. The glass fogged at the lower corners. Sweat ran between Anca’s shoulder blades, cold at first and then not cold at all.
+“I know what you need.” He was talking to someone off-channel. Figures flashed onto Varai's display: occupied sectors, shelter counts, power margins. “I can brown out three habitat sections for forty-two seconds. Then life support circulation loses priority.”
 
-“Forty seconds,” the commander said. “Carrier image remains a starless distortion inside the cone. No visible hull. No exhaust.”
+“Forty-two is enough for one pass.”
 
-“Range?”
+“You don't know that.”
 
-“Unknown.”
+“It's enough to find out.”
 
-“Motion?”
+Idris took three more confirmations before he gave the order. Habitat lights vanished from the ring in broad dark wedges. Freight shutters began moving, not all together but in a sequence that cast shadow windows across the kneeling frames.
 
-“Across us, we think. Not toward.”
+Varai folded Nine's emitter to minimum. The pale seam below immediately sharpened.
 
-“You think.”
+“Cairn Nine leaving hold.”
 
-“I don’t have the luxury of your single problem, Vero.” In the background, someone called that cockpit seventeen had begun emergency sedation. The commander returned at once. “Field status.”
+She kicked away from Jupiter.
 
-“Fourteen percent above continuous limit. Forward cooling is losing pressure.”
+The frame rose past the boom with its old fractional delays, too slow in the ankle, stubborn at the shoulder. Varai flew it as she always had, through anticipation instead of correction. Behind her, the single green cone disappeared. Ahead, eleven machines presented their backs, close enough now that she could see frost whitening the edges of their radiator vanes.
 
-“Then you have less than forty seconds too.”
+“Four entering shadow,” Idris said. “Magnetic error rising. Four, report unload.”
 
-Anca looked down at the bridge authorization blinking amber on her board. The transfer she had wanted would put her inside the shared line, where a pilot’s correction could cross twenty-three machines and return smoothed into something almost effortless. She had imagined a canopy that did not shiver, hips that obeyed the first command, a receiver bay full of working parts. She had not imagined those same parts hearing a voice from outside the chart and forcing her body to its knee.
+“Right knee falling. Hip still—still loaded.”
 
-The empty bay had spared her. It had also cost her four years of pain and made her competence indistinguishable from the machine’s failure. One useful accident did not settle that account.
+“Nine, two degrees outward,” Naveen said. “No, hold. Your left emitter is coupling. Fold left, not both.”
 
-She canceled the bridge request.
+Varai folded the left shoulder array. Cairn Nine slipped between the boom and Four.
 
-“What did you just do?” the commander asked.
+Nadja grunted. “Hip free. Service is behind my right thigh. I have to get under the harness.”
 
-“Kept my posture bus local.”
+“Window six seconds,” Idris said.
 
-“I can reopen it.”
+“Don't count yet.”
 
-“You can try while I’m drawing sixteen percent over limit.”
+“Five.”
 
-Silence, except for the kneeling pilot’s breath.
+“I said don't—” Nadja's breath turned rough. Something struck metal inside her cabin. “Got it. Pulling.”
 
-Then the commander said, “Hold your aperture.”
+“Load?” Naveen asked.
 
-It was not trust. It was arithmetic with too many lives in it. Anca took it anyway.
+“Knee clear. Hip clear. Pulling now.”
 
-The next pulse arrived through the gantry as a shudder rather than a knock. The rear pickup saturated and died. Below, the clouds opened in concentric angles. Her field caught the first rise, slipped from the second, caught the third. White fire spread over the forward armor.
+The service link came out with an audible crack over her microphone. Cairn Four's thruster bars went black.
 
-The right vane temperature passed redline.
+“Four local,” Nadja said, each word clipped short. “Left side answering. Right emitter control is under the brace.”
 
-Anca rerouted cockpit coolant.
+“Can you dog it inward?” Varai asked.
 
-Hot air breathed from the vents. The canopy fog vanished. Her own temperature warning appeared, politely yellow, while the vane pressure steadied. She cleared it without reading the projected tolerance.
+“If you stop moving the floor.”
 
-“Vero, your biometrics just—”
+Varai held Nine against the magnetic push while the shutter window moved past. Nadja released one hand from somewhere, cursed once in a small voice, and hauled her emergency emitter lever through its detent.
 
-The radio vanished in a burst of static.
+Cairn Four's shoulder array turned toward Jupiter.
 
-She slapped the audio reset. Nothing returned. Text telemetry crawled across a backup strip, several seconds old: carrier amplitude falling; cockpit twenty-three forty-six degrees; extraction teams staged at inner locks. Then the strip froze too.
+“Four inward,” Nadja said.
 
-Anca was alone with the old machine and the planet it had never stopped facing.
+Green light opened below her machine.
 
-The next outward pulse reached her only as vibration. She felt it through the boot locks. The Jovian response came so quickly that counting was useless.
+It was only a narrow panel of lattice, uneven beside the seam, but the organism's upward edge spread instead of sharpening. Varai brought Nine around and joined it. Two emitters now. Coolant alarms multiplied across both displays.
 
-The aperture lunged east.
+“Next sector,” Idris said.
 
-Anca anticipated too far. Her crosshair passed the center, and the field edge tore through a bank of rising light instead of meeting it head-on. The machine tried to settle on her mistaken angle. She hauled at the yoke, but the manual drive fought the reversal.
+The release did not become smooth.
 
-For the first time, the structure rose high enough to cast a shadow.
+Frame Two missed its first window because its pilot had lost feeling in two fingers and refused to pull until she could hook the handle with her whole hand. She freed it on the second shadow. Frame Six reported unload, then corrected: left ankle still at twelve percent. Its pilot waited until Varai crossed the baseline again and the number fell to zero. Idris held the shutter while station lights dimmed to embers. Naveen changed Varai's approach by half a degree, then changed it back when the boom flexed under magnetic load.
 
-It was not a body. It was a correspondence among storms: arcs repeating at different depths, dark gaps holding their distances while everything around them boiled. For one stretched second Anca perceived the layers as parts of a single act. Something below was arranging Jupiter’s weather to reach the thing behind her.
+At Frame Seven, two pilots talked over the count.
 
-She could turn. The thought came cleanly, without drama. She could release the field, face outward, and see what twenty-three machines had obeyed. If the carrier was a ship, an animal, a piece of machinery older than the station, perhaps one image would explain the watchframes, the thing in the storm, and why both had waited thirty years for this crossing.
+“Stop,” Varai said. “Seven owns the channel.”
 
-The structure climbed.
+“I don't have shoulder unload,” Seven said. “Not pulling.”
 
-Anca drove her left heel down until the trim pedal hit its stop. The machine’s hip released with a crack. The canopy swung. Her cone cut across the repeating arcs, and their shared geometry came apart.
+Idris's count ended.
 
-The field held.
+“Window closing,” he said.
 
-Jupiter stayed in front of her.
+“Then close it.”
 
-After that there were no more pulses through the deck.
+They let the signal take Seven's frame again and moved on. No one called the refusal wasted time.
 
-Anca kept tracking. She had no carrier trace, no radio, no command clock she trusted. The aperture drifted beneath the storms, weakened, gathered once, then lost its hard edges. The equal intervals between its branches became unequal. The dark center filled with boiling white cloud.
+At the next shadow, Seven's pilot rolled her body against the restraint to reach a manual trim wheel. It did not move the machine, but it shifted enough hydraulic pressure to clear the shoulder indicator.
 
-Her field current fell below redline.
+“Now,” she said.
 
-Behind her came twenty-three heavy impacts, not together this time but in a staggered run along the gantry. Through hull conduction she recognized breakers opening and reactor pumps winding down. The standard frames had not risen. They had simply gone cold in their kneeling posture.
+Naveen answered, “Condition good—wait, right collar is climbing. Pull before twelve. Before—”
 
-Anca restored cockpit coolant and waited for the air to touch her skin again.
+The link released at eleven.
 
-The backup strip flickered alive.
+They recovered Three and Ten in overlapping windows. Nadja, breathing more steadily, walked each freed pilot through the awkward reach under the harness. She never said it would not hurt. She said which buckle to slacken and where the handle would strike the thigh when it came free.
 
-`CARRIER BELOW DETECTION FLOOR.`
+“Count inward emitters,” Idris said.
 
-Another line followed.
+Answers collided.
 
-`STANDARD POSTURE LOAD RELEASED. EXTRACTION ACTIVE.`
+“Five—”
 
-She looked toward the right edge of the canopy. A cutter’s blue reflection trembled across the kneeling frame’s shoulder. The pilot inside did not appear on Anca’s silent channel, but medical telemetry showed a pulse. All twenty-three pilots still had one. One by one, the red cockpit marks changed to amber as crews reached them.
+“Six if Twelve holds—”
 
-A final command appeared on the strip.
+“Twelve is not local.”
 
-`BRIDGE AVAILABLE FOR RELIEF CONTROL.`
+“Again,” Idris said. “By frame. Nine?”
 
-Anca put her thumb on the authorization switch and held it there. Her vanes were scorched. One hip trim had cracked. Relief might not be able to move another frame into position without waking whatever had made it kneel. Behind her, people were being lifted from machines that had carried them faithfully for years and then, in one instant, obeyed an older instruction.
+They counted seven.
 
-She pushed the switch to `LOCAL`.
+Below them, the upper current had broadened across the storm, brighter but no longer needle-straight. Romesh's projected band still touched the station's orbit.
 
-Far below, after the carrier had gone quiet, a dark point tightened inside the storms.
+“Seven emitters don't stop it,” Romesh said. “The rate is falling, but the wake remains hazardous.”
 
-No knock came through the deck. No outward pulse preceded it. The point sent one precise rise against Anca’s weakened field, light enough that the vanes barely warmed.
+“We know what eight does,” Varai said.
 
-It might have been the last delayed answer, or the first signal meant for her.
+“We know what nine sustains under normal conditions.”
 
-Anca did not turn to ask the empty dark. She settled both boots into their locks and moved the crosshair three tenths of a degree east. Behind her, a cockpit opened. In front of her, Jupiter filled the glass.
+“Today isn't normal.”
+
+“No.” Romesh enlarged the uncertain band. “Eight may slow the upper edge. It will not give us a safe reshape.”
+
+They freed Twelve on the third pass. Its pilot pulled cleanly, dogged the emitter inward, and called the phase before Idris asked.
+
+Eight green planes met above Jupiter.
+
+The pale seam stopped climbing.
+
+No one cheered. Romesh waited through two sensor returns and said, “Upper rate below zero point zero two. That is slowed, not contained.”
+
+“Need ten,” Varai said.
+
+“Confirmed,” Idris replied. “Habitats two through five have thirty seconds of shutter reserve. Confirm occupied maintenance sector on the outer boom is clear.”
+
+The confirmation came late. Idris asked again. A maintenance chief reported two workers still crossing an access tube.
+
+Varai could see the next shutter ready above Frame One. “I can take the window.”
+
+“Negative. Sector occupied.”
+
+“Their tube is shielded.”
+
+“Sector occupied. Hold.”
+
+The organism's current pressed against the eight-part field. Cairn Nine's analog traces swelled across Varai's display, growing bright at the edges. She could feel the integrator warming through the console beneath her palm.
+
+They held.
+
+When the maintenance chief called clear, Idris opened the shutter. They released One, then Eleven. Ten emitters faced down, their fields ragged and mismatched after the forced turns.
+
+Varai took the center phase because Cairn Nine was already there. “Four, shorten west edge. Three, you're pushing through Seven.”
+
+“Three correcting.”
+
+“Too far. Back half.”
+
+“Seven sees it.”
+
+“Eleven, don't copy the formation average. Your shoulder is hot.”
+
+“Then give me a lower phase.”
+
+Varai did. The lattice ceased being a set of separate green panels and became one warped plane, tilted away from the habitat ring. Jupiter's storm tops flashed as the organism's charged wake met it. The field did not drive the life downward. It bent the rising current sideways, spread its charge through a longer reach of atmosphere, and lowered the hazardous edge below their orbit.
+
+Romesh watched three returns. “Wake band below station minimum. Still falling.”
+
+Idris said, “Confirm below minimum.”
+
+“Confirmed below minimum. The organism remains elevated relative to the start of watch.”
+
+“But not reaching us.”
+
+“Not on current measurements.”
+
+Only then did Varai notice the smell in her cabin, hot resin and old insulation.
+
+“Nine integrator temperature is past scale,” Naveen said. “Varai, break center phase.”
+
+“Two frames still under signal.”
+
+“Ten can hold the reshape. You are burning the stack.”
+
+“Eight and Five still have armed bars.”
+
+“Their shadow windows are next. You don't need to carry center.”
+
+Varai moved to break phase. Cairn Nine answered at the left ankle, then the right hip.
+
+The shoulders did not move.
+
+A white spark crossed the edge of her console. The analog trace collapsed into a flat line.
+
+Cairn Nine's emitter went dark.
+
+The lattice shuddered. Frame One took center without being asked; Four widened west; Eleven cut its overheated shoulder and compensated with the other. Nine green planes held, then Eight's pilot pulled her service link in shadow and brought a tenth online.
+
+Frame Five's correlator isolated cleanly, killing its thruster arm, but an emitter interlock had fused during the kneel. The frame was safe and dark.
+
+“All departure bars black,” Idris said. “Confirm all twelve.”
+
+He called them one by one. Every pilot answered. Some answers came with coughing, some after checks of seals and coolant, one after a confused search for a microphone knocked loose in the first turn.
+
+“Deep signal persists,” Naveen said. “Correlators physically isolated. It has no command path.”
+
+“Source motion?” Idris asked.
+
+Romesh answered. “Insufficient baseline.”
+
+“Intent?”
+
+“No evidence.”
+
+Jupiter rolled below them, its bands sliding at different speeds beneath the geometry they had repaired. The organism's upper current spread under the lattice and slowly descended. It had responded to pressure and release. That was all they knew.
+
+Forty minutes after the machines knelt, the next watch took formation.
+
+There were ten working emitters instead of twelve. Nine could sustain the quiet lattice. Ten could reshape it safely. They had exactly enough, which was another way of saying they had nothing spare.
+
+Varai remained strapped inside dark Cairn Nine while Naveen walked her through manual cooldown. Without the integrator, the frame had no formation sense at all. Her canopy showed only Jupiter, the boom, and the green edges of other people's work.
+
+“Coolant bypass open?” Naveen asked.
+
+Varai leaned past the dead console and put her glove on the physical wheel. “Half.”
+
+“It needs three quarters. The lower line may stick.”
+
+“It always sticks.”
+
+“The upper one sticks. Lower is—no, you're right. Lower started after the last seal change.”
+
+She put both hands on it. The wheel moved one notch.
+
+Nadja came onto the private channel. “Four is stable. My hand's warm now.”
+
+“Good.”
+
+“It's swollen.”
+
+“Less good.”
+
+“Medical's meeting me at the lock. They asked whether I pulled the link against load.”
+
+Varai looked at the flat trace where Nine's old lag used to live. “You didn't.”
+
+“I know. I wanted someone else to say it.”
+
+“You waited for your window.”
+
+Nadja let out a breath. “Yes.”
+
+Idris began the formal handoff on the shared channel. Ten frames answered inward. Two reported safe offline. Habitat circulation returned section by section. Traffic remained stopped. The distant signal continued repeating its three-part command into correlators that were no longer connected.
+
+When Idris reached Cairn Nine, Varai turned the coolant wheel another notch.
+
+“Nine safe offline,” she said. “Pilot remains aboard.”
+
+“Relief tug will reach you in fourteen minutes.”
+
+“Copy fourteen.”
+
+Below her, the field held without Nine. Varai watched its uneven edges settle as the new pilots corrected one another, some too quickly, some after a repeated count. She listened until their timing became a watch instead of an emergency.
+
+Then she took her hands off the wheel and waited for the tug.
