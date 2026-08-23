@@ -6,16 +6,17 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Caleb | new | Adult incoming student and Mirelle's boyfriend; targeted exact, alias, close-spelling, and semantic-confusion checks found no prior use. |
-| Mirelle | new | Adult cold prodigy and Caleb's girlfriend; targeted exact, alias, close-spelling, and semantic-confusion checks found no prior use. |
-| Blizzard Baroness | new | Local title and alias for Mirelle; targeted checks found no prior use or confusing overlap. |
+| Caleb | new | Adult incoming student and Mirelle's established boyfriend; no exact or alias reuse was found, and the full form remains readily distinct from recurring Cal Mercer / Cal and the current forms Caelumar and Calo. |
+| Mirelle | new | Cursed cold prodigy and Caleb's girlfriend; no exact or alias reuse was found, and the name remains distinct from Mireth. |
+| Blizzard Baroness | new | Mirelle's qualified campus title; no exact or confusing reuse was found. |
+| Baroness | new | Shortened address for Mirelle's campus title; its story-specific use is not confusing with an unrelated generic Baroness role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Brightward College | new | Story-local superhero college; targeted exact, alias, close-spelling, and semantic-confusion checks found no prior use. |
-| Brightward | new | Story-facing shortened form of Brightward College; targeted checks found no prior use or confusing overlap. |
+| Brightward College | new | Story-local superhero college; no exact or alias reuse was found. |
+| Brightward | new | Short form of Brightward College; its place function and spelling remain distinct from the person-name Brightguard. |
 
 ## Continuity
 
@@ -30,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The exact quoted approach, public shock at Caleb embracing the feared Blizzard Baroness, and requested campus tour all land in the opening, while the completed tour resolves their conflict without curing Mirelle's curse or converting the crowd. Mirelle's startle pulse, redirection cost, recovery, touch safety, and final initiated embrace remain causally consistent; Caleb's expansive joking and premature repair stay distinct from Mirelle's narrow refusals, dry humor, and reduced fluency under strain through the decisive stairwell exchange and final chosen contact.
+- Notes: The rewrite preserves the exact title and required approach line and fulfills the amended RESHAPE contract: Caleb already knows Mirelle's curse, costs, touch preferences, affection, and private temperament, while Brightward's title, fear, rumors, avoidance, and exploitation supply the discovery. The familiar opening hug, institutional request, private correction, resumed tour, and Mirelle-led public embrace remain causally coherent without the removed mechanics tutorial, second freeze, relationship-doubt arc, or hidden-true-self framing. Caleb's expansive social humor, Mirelle's narrow authority and dry affection, and the students' rumor, euphemism, and instrumental need stay distinct; the decisive refusal changes Caleb's conduct, and the final exchange trusts the repeated embrace rather than explaining it away.

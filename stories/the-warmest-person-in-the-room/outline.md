@@ -2,49 +2,48 @@
 
 ## Story
 
-- Premise and central promise: **The Warmest Person in the Room**. Lost incoming student Caleb embraces girlfriend Mirelle before learning that Brightward College fears her as the Blizzard Baroness. Deliver comic shock and tender exception without making affection cure her curse or disprove her reputation.
-- Focal pressure or attachment: Caleb wants entry into Mirelle's campus life and assumes open delight can only reassure her. Mirelle wants him near without making their relationship evidence that she is secretly harmless or available; she cannot comfortably ask whether he values her or being her exception.
-- Counterforce or complication: Caleb meets embarrassment with worse jokes and speaks for Mirelle. Her blunt refusals let him mistake boundaries for shame. Classmates amplify the mismatch through fear and rumor without becoming antagonists.
-- POV, distance, and information limit: First-person past through socially and spatially lost Caleb. He knows Mirelle off campus, not her title, training, or compartmentalization. Her fear and affection remain inferable from choices, touch, and uneven speech.
-- Governing movement and time shape: One late-morning hour looping from the registration hall through Mirelle's real route, a private back stair, and around again. The tour becomes mutual reorientation and ends quietly, without public proof or crowd conversion.
-- Speculative rule or ordinary-world constraint: A sudden startle forces Mirelle's living magic into a three-metre freezing-mist pulse. She cannot suppress a begun pulse or make it recognize intent; with sight and concentration she can bend it toward empty surfaces, but repeated redirection numbs her hands and thins her voice. Touch is safe between pulses. Her control makes her a prodigy; the title is social, not magical. Establish no origin or cure.
-- Dialogue promise: Affectionate embarrassment: Caleb's rambling familiarity meets Mirelle's dry control while peer silence exposes their different assumptions about public closeness. Humor cannot trivialize her fear or his mistake.
-- Dialogic medium: Speech, failed joking, withheld answers, whispers, distance, waiting, and touch. The opening hug asserts access; later gestures test whether Caleb can stop assuming it.
-- Dialogue engine: Mirelle must guide the person who exposed their relationship; Caleb needs to distinguish rejection from a boundary. Exchanges choose their route and closeness, changing knowledge and trust.
+- Premise and central promise: In **The Warmest Person in the Room**, lost incoming student Caleb finds his established girlfriend Mirelle at Brightward College. Their familiar, returned hug silences a hall that fears her as the Blizzard Baroness. The tour reveals the campus’s hazards, rumors, avoidance, and appetite for her power. Caleb tries to make students see the Mirelle he knows, then learns love does not authorize him to translate her refusals. Her closing affection reveals existing tenderness without curing the curse or converting the crowd.
+- Focal pressure or attachment: Caleb wants orientation and wants frightened students to recognize Mirelle as a person rather than a disaster. His humor becomes a liability when he turns private familiarity into public reassurance. Mirelle wants him beside her, not acting as her interpreter.
+- Counterforce or complication: Brightward maintains protective distance from Mirelle while treating her danger as a resource. Fear gives her useful space but flattens her into a title; Caleb mistakes making her no friendlier for making her legible.
+- POV, distance, and information limit: Close first-person past through Caleb. He already knows Mirelle’s mechanics, warning signs, numbing cost, touch preferences, humor, and affection. His blind spot is Brightward: its title, rumors, precautions, opportunism, and the uses Mirelle finds for fear.
+- Governing movement and time shape: One orientation morning: central hall, crooked campus tour, private service-stair pause, and return above registration. Each stop revises Caleb’s reading of the space around Mirelle. The ending repeats the opening gesture with changed public meaning, not changed intimacy.
+- Speculative rule or ordinary-world constraint: Mirelle’s story-local curse throws a roughly three-metre cold pulse when she is startled; once begun she can redirect but not cancel it, and redirection numbs her. Caleb knows and accommodates this. Affection neither cures the curse nor proves her harmless; the title has no magical force.
+- Dialogue promise: An established couple’s affectionate comic rhythm persists while an audience changes its meaning. Caleb’s jokes can soothe, embarrass, or trespass; Mirelle’s bluntness can carry private affection and public authority. Students speak through rumor, euphemism, and need.
+- Dialogic medium: Speech, familiar touch, chosen distance, stares, cleared pathways, institutional signs and forms, the red scarf, and Caleb’s consequential silence.
+- Dialogue engine: Caleb needs Mirelle to interpret Brightward; students need access to her power. His attempted translations change leverage, the private correction changes his role, and Mirelle alone controls what public affection communicates.
 
 ## Voice
 
-- Narrative texture: Caleb notices signs, faces, and frost before meaning; let comedy outrun comprehension, then slow when he sees Mirelle's concealed physical cost.
-- Conversational texture: Caleb fills gaps, revises himself, and reaches for levity. Mirelle answers narrowly, allows dry play, or rejects a question's premise. Classmates offer fearful fragments.
-- Rhetorical ownership: Caleb owns exaggeration, self-mockery, affectionate assumptions, and premature repair. Mirelle owns literal distinctions, refusal, dry humor, social authority, and patient listening. Peers own title-heavy rumor and deference.
-- Pressure behavior: Caleb speeds up and jokes beyond usefulness. Numbness makes Mirelle quieter and less fluent; her directness becomes short questions, not analysis. Silence makes him wait.
-- Relationship movement: Caleb wants proof she welcomes him but cannot ask whether she hid him. Mirelle wants respect and chosen contact but fears sounding ashamed. Exchanges replace presumed access with trust, allowing her to initiate closeness without becoming publicly soft.
-- Anti-default: No secretly sweet saint, love cure, crowd approval, or witty ice-hazard solution. Preserve Mirelle's real pettiness and refusals, Caleb's mistakes, and an outcome peers do not explain.
+- Narrative texture: Caleb misclassifies Brightward comically, then grows exact when student behavior contradicts the Mirelle he knows. Notice faulty routes, safety clutter, bodily spacing, and cold as sensation and social judgment.
+- Conversational texture: Use quick corrections, practical shorthand, jokes needing no applause, and silence without relational panic. Campus talk moves among whispers, overcareful courtesy, requests, and bad excuses.
+- Rhetorical ownership: Caleb owns sprawling analogy, self-mockery, hopeful reframing, and social misreading. Mirelle owns literal distinction, narrow refusal, dry affection, authority, and selective listening. Students own rumor fragments, euphemism, embarrassment, and instrumental politeness.
+- Pressure behavior: Caleb explains faster when watched, then must resist filling silence. Mirelle becomes quieter and more exact, not less affectionate. Fear makes students indirect until refusal exposes entitlement.
+- Relationship movement: Caleb wants Mirelle recognized but cannot ask why the title stayed outside their life. Mirelle wants him close but cannot easily ask him to let fear stay useful. Their exchange changes his role, not their trust; her embrace changes Brightward’s knowledge.
+- Anti-default: Avoid articulate partners solving campus policy, public proof of safety, or a hidden “true” Mirelle. Keep embarrassment, unequal fluency, unresolved rumor, and affection that changes no institution.
 
 ## Beats
 
-1. Caleb loses the orientation route among contradictory arrows. Relief at spotting Mirelle overrides his notice of the empty radius around her.
-2. He runs up, hugs her, and says exactly, “Hey Babe, can you show me around? I’m lost”. Mirelle redirects the startled pulse onto empty architecture. Frost, accepted embrace, and room-wide silence land together before Caleb understands the danger.
-3. Mirelle leaves the audience and begins a brutally efficient tour. Caleb mistakes her brevity for shame and jokes badly, missing her numb fingers and altered voice.
-4. A student requests a favor. Caleb assumes Mirelle will help and softens her refusal; she rejects both the favor and his translation. Her reputation contains real choices, making Caleb's presumption—not gossip—the conflict.
-5. On a quiet back stair, fragmented explanation establishes the curse's limit, her control work, and her separation of title from relationship. Caleb's fear of concealment emerges as a mistaken inference; she tests whether he can hear correction without manufacturing reassurance.
-6. Caleb changes conduct without a repair speech: he waits for cues, offers no one Mirelle's labor, and leaves a classmate's misreading alone. She drops official stops for her shortcuts, returning some play to their conversation.
-7. Near his destination, Caleb stops outside touching distance. Mirelle closes it and initiates a brief embrace without a pulse. He remains imperfectly oriented, but welcome is now distinct from assumed access.
+1. Contradictory directions establish Brightward. Caleb recognizes Mirelle by the snowflake he pinned on her and her relaxed warning signs. She sees him, receives and returns his running hug, then he says exactly, “Hey Babe, can you show me around? I’m lost”. The hall falls silent at freely given touch; only the title and reaction surprise him.
+2. Mirelle tours wrong arrows, conditional stairs, and volatile rooms. Caleb observes the radius people keep. He recognizes familiar numbness and offers his red scarf without explanation. His jokes and private context become public reassurance; Mirelle objects.
+3. An unnamed student asks Mirelle to be a resistance practical’s cold source. She refuses; Caleb softens the no into scheduling. A prepared slot or restraint diagram exposes equipment classification beneath fear. Mirelle closes the request, and he stops translating.
+4. The service stair provides privacy, not a mechanics demonstration. They discuss the title as others’ account, fear as useful distance, and the entitlement beneath requests. Mirelle excluded the title from their life because it is not hers. Caleb owns revising her refusal. He may stand beside her, not offer private tenderness as reassurance.
+5. The resumed tour tests the change. Legitimate and intrusive approaches receive different answers from Mirelle. Caleb neither apologizes nor explains her; the crowd remains cautious.
+6. Above registration, Caleb leaves Mirelle the choice. She initiates a familiar embrace, which he does not turn into evidence for spectators. The title and fear persist. The warm payoff rests on physically cold touch, chosen tenderness, and his refusal to narrate it for anyone else.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Caleb | new | Adult incoming student and Mirelle's boyfriend; no exact, alias, close-spelling, or semantic-confusion reuse found. |
-| Mirelle / Blizzard Baroness | new | Adult cold prodigy; title is a local alias, with no conflicting reuse found. |
+| Caleb | new | Adult incoming student and Mirelle’s established boyfriend; he knows her, not Brightward. Distinct from legacy Cal Mercer. |
+| Mirelle / the Blizzard Baroness | new | Adult cursed prodigy and Caleb’s girlfriend; the title is Brightward’s label, not a hidden identity. Distinct from Mireth and Aumiri. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Brightward College | new | Story-local superhero college; targeted place checks found no conflicting reuse. |
+| Brightward College / Brightward | new | Story-local superhero college; distinct from the person-name Brightguard. |
 
 ## Continuity
 
-- Canon used: Living Mirelle directs story-local magic; names and titles have no universal force. Consent and relationship choices remain consequential.
-- Boundaries and unknowns: Brightward, its curriculum, the curse, and the title establish no wider hero system or connection to canonical cold workings. Source, cure, and long-term course remain unknown; affection changes trust, not physics.
+- Canon used: No recurring shared-universe person, place, institution, chronology, or power system; all named elements remain story-local.
+- Boundaries and unknowns: Preserve the adult couple, welcome hug, curse rule and cost, snowflake, scarf, campus absurdity, exploitative request, private stair pause, unchanged crowd, and Mirelle-led final affection. No mechanics tutorial, second freeze, relationship doubt, campus reform, or connection to another school or superhero tradition. The title’s exact origin and most rumors may remain unresolved.

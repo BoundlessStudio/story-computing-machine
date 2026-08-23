@@ -10,149 +10,175 @@ canon: false
 
 By the third contradictory arrow, I had begun to suspect Brightward College tested navigation before it tested powers.
 
-One blue ribbon of light insisted that NEW STUDENT REGISTRATION was through a pair of brass doors. A second arrow, painted directly onto the floor, pointed back the way I had come. Above both, a paper sign read REGISTRATION RELOCATED TO THE EAST GALLERY, with *east* crossed out and *north* written underneath by somebody who believed in compass points inside a round building.
+One blue ribbon of light insisted that NEW STUDENT REGISTRATION lay beyond a pair of brass doors. A painted arrow pointed back the way I had come. Above both, a paper sign read REGISTRATION RELOCATED TO THE EAST GALLERY, with *east* crossed out and *north* written underneath by somebody who believed compass points still meant something inside a round building.
 
-I followed the paper sign. The corridor opened into a hall full of capes, padded training jackets, floating luggage, and adults trying not to look as new as I felt. A woman with silver sparks nesting in her hair argued with a registration slate. Two men carried a glass tank between them while something inside knocked politely on the lid. Everywhere, orientation guides in gold sashes called directions that seemed to contradict the architecture.
+I followed the paper sign into a hall full of capes, padded training jackets, floating luggage, and adults trying not to look as new as I felt. A woman with silver sparks nesting in her hair argued with a registration slate. Two students carried a glass tank between them while something inside knocked politely on the lid. Gold-sashed guides called directions which disagreed with the walls.
 
-I had been at Brightward for forty-three minutes. I had collected a room key, lost the room key, found it in my pocket, and somehow joined a queue for liability waivers intended for people who shed their skeletons during emergencies.
+I had been at Brightward for forty-three minutes. I had collected a room key, lost the room key, found it in my pocket, and somehow signed a liability waiver meant for people who shed their skeletons during emergencies.
 
 Then I saw Mirelle.
 
-She stood near the center of the hall in her dark blue coat, one gloved hand resting on a stack of books. The crowd bent around her in a clean, generous curve. I registered that fact in the same useless way I registered a statue or a pillar. What mattered was the severe line of her mouth, the black braid over one shoulder, and the tiny silver snowflake pinned crookedly to her collar because I had fastened it there that morning in the train station.
+She stood near the center of the hall in her dark blue coat, one gloved hand resting on a stack of books. I recognized the severe line of her mouth, the black braid over one shoulder, and the tiny silver snowflake pinned crookedly to her collar because I had fastened it there that morning at the train station. She had made me redo it twice, then shifted it back to the angle I had chosen the first time.
 
 Relief took both my bags and threw them out of my mind.
 
 “Mirelle!”
 
-Several people turned. She did too.
+She turned well before I reached her. Her eyes widened; then her shoulders dropped, and the corner of her mouth made the small private movement that had rescued several terrible breakfasts and one catastrophic attempt at wallpapering. She shifted her books out of the way and opened one arm.
 
-I ran across the polished floor, caught her around the middle, and said into the cold wool of her coat, “Hey Babe, can you show me around? I’m lost.”
+I ran across the polished floor, caught her around the middle, and felt her arm close firmly across my back.
 
-For one heartbeat, her arm caught me back.
+“Hey Babe, can you show me around? I’m lost”
 
-Then her whole body locked.
+“You have been here less than an hour.”
 
-White mist burst from beneath her boots.
+“Brightward has been very efficient.”
 
-It spread in a perfect ring, fast as a dropped sheet snapping open. I felt the air bite my ears. Mirelle tore one hand from my back and flung it toward the empty upper walls. The ring buckled. Cold climbed the nearest pillars instead of the people standing three steps away. Frost skated over stone, raced along the brass ribs of the ceiling, and sealed three banners stiff enough to crackle.
+“At losing you?”
 
-Every sound in the hall stopped. Even the knocking thing in the glass tank went quiet.
+“At revealing my limitations.”
 
-I was still holding Mirelle.
+The room had gone silent.
 
-“Caleb,” she said.
+Not gradually. A slate stopped chiming in the middle of a note. The gold-sashed guides forgot their competing directions. Even the thing in the glass tank quit knocking.
 
-Her voice came thin, as if the cold had pared it down.
+Mirelle still had me around the waist. Nothing in her had tightened. No white mist spread from her boots; no frost filmed the seams of her coat. I knew the signs as well as I knew the pale scar beside her thumb. A startle sent the cold out three metres. Once it began, she could turn it but not cancel it, and turning it away from people stole feeling from her hands. We had learned the rules through a cracked sink, a frozen luggage rack, and several domestic negotiations about approaching from behind.
 
-“Yes?”
+This was not a startle. She had seen me coming. This was hello.
 
-“Let go.”
+Someone near the brass doors whispered, “He hugged the Blizzard Baroness.”
 
-I did. Around us, hundreds of shoes had found reasons not to move.
+Another voice said, with the solemn horror of a witness confirming a shipwreck, “She hugged him back.”
 
-The frost stopped growing exactly three paces from Mirelle. Beyond its white edge, a gold-sashed guide stared at me with both hands clapped over his mouth. Someone behind him whispered, “He hugged the Blizzard Baroness.”
+Mirelle let me go, though her hand lingered long enough to straighten my collar. She glanced at the motionless crowd.
 
-Another voice answered, much too loudly, “I saw.”
+“Why are they staring?” I asked under my breath.
 
-Mirelle looked up at the frozen banners. A crack ran across the painted smile of Brightward's founder. She flexed her bare hand once. She had lost the glove somewhere between my back and the ceiling.
+“You ran indoors.”
 
-“Was that me?” I asked.
+“Ah. A serious campus.”
 
-“The founder was like that already.”
+She bent, picked up my satchel, and handed it to me. “Registration?”
 
-“The ice, Mirelle.”
+“Allegedly.”
 
-“Yes.”
+“Come.”
 
-“Right. Of course. That makes much more sense than the building reacting to my enrollment.”
+The crowd opened for her. I had noticed the generous clear space around Mirelle when I first entered, but I had mistaken it for chance, the way people bend around a pillar or a sculpture. Now the space moved with her. Students tucked elbows close. A floating trunk climbed nearly to the ceiling to avoid passing over her head. Nobody crossed the faint damp prints her boots left on the floor.
 
-Nobody laughed. My jokes had never needed applause before, but apparently they could die of exposure.
+I followed Mirelle through the brass doors while the Blizzard Baroness trailed us in a wake of whispers.
 
-Mirelle bent, picked up my dropped satchel, and handed it to me. Her fingers missed the strap the first time.
+Mirelle’s tour began with no acknowledgment that we had become the most interesting event of orientation morning.
 
-“Registration?” she asked.
-
-“I think so.”
-
-“That was not a difficult question.”
-
-“Then yes. Confidently. Registration.”
-
-She gathered her books with the glove still missing. “Come.”
-
-The crowd opened for her. It did not close behind us until we had passed through the brass doors.
-
-Mirelle's tour began with no acknowledgment that we had become the best-attended event of orientation morning.
-
-“Dining hall.” She pointed through an archway without slowing. “Clinic. East stair. If the red lamps flash, do not use the east stair.”
+“Dining hall.” She pointed through an arch without slowing. “Clinic. East stair. If the red lamps flash, do not use the east stair.”
 
 “What if the blue lamps flash?”
 
 “Use it quickly.”
 
-“Comforting.”
+“What if they both flash?”
 
-“It is not designed to comfort you.”
+“Choose which kind of paperwork you prefer.”
 
-We crossed a practice court where students in padded jackets tried to push a stone ball through hoops that changed height whenever someone looked away. Mirelle kept to the edge. Conversations shortened as she passed. People stepped around the hem of her coat as though it might reach for them.
+We passed a cabinet of emergency masks labeled FOR SMOKE, SPORES, DUPLICATION, AND OTHER. Beyond it, students in padded jackets tried to push a stone ball through hoops that changed height whenever someone looked away. One player jumped, missed, and hung six feet above the floor until a teammate reeled him down by the ankle.
 
-“So,” I said. “Baroness.”
+“Orientation brochure made this sound like an accredited institution,” I said.
 
-“No.”
+“It is accredited.”
 
-“I didn't actually ask anything.”
+“By gravity?”
 
-“You were going to.”
+“Provisionally.”
 
-I swung my satchel over my shoulder. “Do I bow? Is there a tax? Have I accidentally violated a feudal boundary by calling you babe in front of the peasantry?”
+There was my Mirelle: dry enough to turn nonsense brittle. At home she rationed smiles as if they required refrigeration, but she kept my jokes, improved the survivable ones, and returned the worst to me sharpened. None of that was news.
 
-Her eyes moved to me, gray and unreadable. “You are making it worse.”
+The people around her were.
 
-That landed harder than it should have. She looked away first.
+Conversations thinned when we approached. Students glanced at the snowflake on her collar and then away so quickly the gesture became a kind of pointing. At a water fountain, someone abandoned a half-filled bottle rather than stand beside her. Two gold-sashed guides disagreed in whispers over which of them had authority to ask her to use the other corridor. Neither one did.
 
-At home, or what had counted as home during the three months before term, Mirelle could dismantle my nonsense with one raised eyebrow. She had once listened to me complain for eight minutes about a vending machine, then asked whether my heroic origin was being defeated by exact change. On the train that morning she had stolen the window seat, rejected half my breakfast, and let me pin the snowflake to her collar only after informing me it was crooked.
-
-Here, every answer closed a door.
-
-“You could've warned me,” I said.
-
-“I told you not to run indoors.”
-
-“You said that because I slipped on the station tiles.”
-
-“Evidence accumulates.”
-
-There she was, almost. I reached for her hand.
-
-She moved it to the books before I could touch it.
-
-The gesture was small. I made it enormous.
-
-“Understood,” I said, with the bright briskness of someone who understood nothing.
-
-Mirelle's mouth tightened. She turned into the next corridor.
-
-We had made it past the equipment windows when a student stepped out of an alcove and blocked half the path. He was broad enough to block the other half too, but he kept that side carefully open for Mirelle.
-
-“Baroness.” His eyes skipped to me and back. “About tomorrow's resistance practical.”
+“So,” I said after we had turned a corner. “Baroness.”
 
 “No.”
 
-“You don't know what I'm asking.”
+“I didn’t ask anything.”
+
+“You had taken the breath.”
+
+“Do I bow? Is there a tax? Have I violated a feudal boundary by calling you babe before the peasantry?”
+
+Mirelle’s gaze moved beyond me. Three first-years at a notice board had gone rigid with the effort of not listening.
+
+“Caleb.”
+
+“Yes?”
+
+“Do not perform at them.”
+
+“I perform naturally.”
+
+“That is the problem.”
+
+She continued toward a covered walkway. I followed, less quickly.
+
+Brightward had been part of her life before me. I knew the train she caught, the courses she hated, the professor who wrote comments too small to read, the bench where she ate lunch when the weather was bad and the roof when it was worse. Yet she had never once called herself a baroness, jokingly or otherwise. The title belonged to this place, and everyone here seemed to have received the same instructions for it except me.
+
+Halfway across the walkway, wind lifted the loose end of her braid. Mirelle adjusted her books and missed the bottom one when it slid. I caught it before it fell.
+
+“How long have your fingers been numb?” I asked.
+
+She flexed her gloved hand. The movement stopped short of a fist. “First demonstration.”
+
+“How many demonstrations?”
+
+“Three.”
+
+It was not yet ten in the morning.
+
+I unwound the red scarf from my neck and held it out. Mirelle looked at it with the same disapproval she had shown when I bought it.
+
+“The color has not improved,” she said.
+
+“The color has depth and emotional courage.”
+
+“It is red.”
+
+“An important depth.”
+
+She gave me her books, stripped off her gloves with her teeth, and wound the scarf around her hands. I held the books against my chest while she did it. This, too, we had done before. Cold left her fingers pale and unreliable; warmth came back slowly. She disliked being fussed over but accepted useful things if I did not dress them as rescue.
+
+Behind us, one of the first-years whispered, “Maybe it restrains her.”
+
+His friend whispered back, “It’s wool.”
+
+I turned my head. Both of them fled into a classroom marked CONTROLLED IMPACTS ONLY.
+
+“The scarf now has a myth,” I said.
+
+“It had to acquire some value.”
+
+We reached the equipment corridor, where shielded windows displayed training gauntlets, impact rods, restraint webbing, and a mannequin whose head repeatedly vanished and returned facing the wrong direction. A student in a silver-piped practice vest stepped out of an alcove. He left enough room to pass, but not enough to pretend he had met us by chance.
+
+“Baroness.” His eyes touched the scarf around her hands. “About tomorrow’s resistance practical.”
+
+“No.”
+
+“You don’t know what I’m asking.”
 
 “You want me to supply the cold source.”
 
-He worked his jaw. “The instructor says we can't certify the shields without a live test.”
+He pressed a slate against his chest. “The instructor says we can’t certify the new shields without a live test.”
 
 “Then you cannot certify them.”
 
-“It's ten minutes.”
+“It’s ten minutes.”
 
-Mirelle began walking again. He matched her pace from outside arm's reach.
+Mirelle began walking. He matched her from outside arm’s reach.
 
-I knew that feeling: needing something from Mirelle and getting the part of her that could make a locked door feel talkative. I also knew, or thought I knew, how to translate.
+Fear did not keep him away. It only made him polite about pursuing her.
 
-“She has to show me around,” I said. “First-day disaster. Maybe after lunch?”
+I had spent the last several minutes watching people mistake Mirelle for a weather warning. Here, finally, was a person willing to speak to her. I mistook that for courage.
+
+“She’s showing me around right now,” I said. “First-day disaster. Maybe after lunch, if she’s recovered from the morning?”
 
 Mirelle stopped.
 
@@ -160,229 +186,189 @@ The student stopped. So did I.
 
 “Not after lunch,” she said.
 
-“Sure. Tomorrow, then, if your schedule—”
+“Sure,” I said, hearing only the timing because timing was easy to fix. “Tomorrow, then, if your schedule—”
 
 “Caleb.”
 
-One word, and I finally heard myself.
+One word. Not loud. I finally listened to the shape of it.
 
-The student backed half a step away. “I only asked.”
+The student lifted the slate. A form glowed on its surface, and beneath MIRELLE—SPECIAL CAPABILITY PROVIDER, a diagram showed a human figure standing inside a restraint frame. Blue arrows radiated from the figure toward four shield emplacements. A blank line waited beside the heading ACCEPTABLE LOSS OF SENSATION.
 
-“You filed my name as test equipment before asking,” Mirelle said. “You were told to remove it.”
+“I only asked,” he said.
 
-Color moved up his neck. “The slot would've gone.”
+“You filed my name as equipment before asking,” Mirelle replied. “You were told to remove it.”
+
+Color rose into his face. “The slot would’ve gone.”
 
 “It did.”
 
-“I fixed the form.”
+“I changed the classification.”
 
-“After they sent me the restraint diagram.” Her voice had grown quieter. “No.”
+“You changed *equipment* to *provider*.” She glanced at the restraint diagram. “No.”
 
-He glanced at the frostless floor between them, then at me, as if I might make the no friendlier.
+He looked at me. It was astonishing how much appeal a frightened person could put into avoiding someone else’s eyes. He wanted the version of her who hugged me. He wanted me to produce her.
 
-I nearly did. The words rose on habit: *She doesn't mean—* But she did mean it. Whatever else I had failed to notice, that much was plain.
+The words rose on habit: *She doesn’t mean—*
 
-I shut my mouth.
+But she did.
 
-The student gave Mirelle a stiff nod and left through the equipment doors.
+I held his gaze and said nothing.
 
-“He seemed sorry,” I said after a moment.
+He lowered the slate. “Fine.”
 
-“He seemed embarrassed.”
+“No,” Mirelle said, “was fine.”
 
-“Sometimes that's the larval stage of sorry.”
+He left through the equipment doors. They shut hard behind him.
 
-“Then he can pupate elsewhere.”
+I gave Mirelle back her books. Around us, the corridor had developed urgent interest in wall notices and inventory glass.
 
-It was so precisely Mirelle that I laughed before I could stop myself. Her expression did not soften.
+“I was trying to make him understand,” I said.
 
-“Do not offer my labor,” she said.
+“He understood.”
 
-“I wasn't. I was trying to help him understand.”
+“He sees a title and a walking catastrophe. I thought if he saw that you were—”
 
-“He understood no.”
+“Available?”
 
-“I was trying to help you.”
+“Human.” The word came out too fast. Too pleased with itself.
 
-“By changing it.”
+Mirelle’s face emptied of even the private irritation I knew how to read. “Do not make me easier for them by making my no smaller.”
 
-The corridor had become interested in us. A pair of students slowed beside a notice board. Behind the equipment windows, three faces found urgent business at one pane of glass.
+My ears burned. “Could we have this conversation somewhere without an audience?”
 
-My ears went hot. “Could we have this conversation somewhere that doesn't sell tickets?”
-
-Mirelle looked at the watchers. A rime of white still clung to the seam of her sleeve.
+She looked at the equipment windows, where three faces found urgent business in one pane of glass.
 
 “Yes,” she said.
 
 She took me through an unmarked door.
 
-The back stair smelled of wet concrete and old dust. Pipes ran along one wall under wire cages. A narrow window showed the practice roofs and, beyond them, the city squashed blue-gray beneath late-morning cloud.
+The service stair smelled of wet concrete and old dust. Pipes ran along one wall under wire cages. A narrow window showed the practice roofs and, beyond them, the city pressed blue-gray beneath late-morning cloud. On the landing sat an emergency bin of sand, two pairs of rubber boots, and a folded sign that said TEMPORARILY UNSAFE.
 
-Mirelle sat on the fourth step. She placed her books beside her, pulled off her remaining glove with her teeth, and tucked both hands beneath her arms.
+“For what?” I asked.
 
-Only one glove.
+“It is reversible.”
 
-“You dropped the other one,” I said.
+“That explains everything except my question.”
 
-“I noticed.”
+Mirelle sat on the fourth step. I sat beside her. The stair was narrow enough that our shoulders touched, hers cold through coat and sweater. She left them that way.
 
-“Your hands.”
+For a while she warmed her hands inside my scarf. I watched a drop of condensation travel along a pipe. Nothing in the hall had made her unfamiliar. She was the same Mirelle who had stolen the train’s window seat and rejected half my breakfast. What I did not know was why Brightward needed another name for her, and why she had found it useful enough to leave standing.
 
-“Numb.”
+“When did they start calling you that?” I asked.
 
-The cold in the hall replayed itself differently: her hand sweeping up, the mist climbing stone, her fingers failing to catch my satchel strap. I sat two steps below her. Not beside. The stair was narrow enough that the choice showed.
+“Last winter.”
 
-“Because you moved it away from everyone.”
+“Because of something you did?”
 
-She nodded.
+“Because of many things they say I did.”
 
-“I thought you just made things cold.”
+I waited. When Mirelle wanted to be exact, questions could make her narrower. Silence sometimes gave her room.
 
-“I do.”
+“I iced the south practice court during an evacuation,” she said. “They say it was two buildings. I failed a group whose shields cracked. They say I froze them deliberately. I told someone not to touch me from behind. They say I threatened the entire dining hall.”
 
-“That was more of a circular weather event.”
+“Did you?”
 
-“Three metres.” She rubbed one palm with the heel of the other. “If I startle, it begins. Once it begins, I cannot stop it. I can turn it if I see where it is going.”
+“I threatened his hand.”
 
-“And that hurts you.”
+“Less architectural.”
 
-“It numbs me.”
+“He kept it.”
 
-“Mirelle.”
+Below us, the door opened. Someone saw Mirelle’s boots between the railings, whispered an apology to nobody, and withdrew. The latch clicked softly shut.
 
-“Those are different words.”
+“And the title?” I asked.
 
-Above us, a door slammed.
+“Appeared on my locker.”
 
-She flinched.
+“You never told me.”
 
-Mist snapped out from her shoes, thinner this time but just as fast. I grabbed the rail and held still. Mirelle stared at the wall. Frost sheeted across the concrete, climbed around the caged pipes, and stopped at the edge of my boot. The stair filled with the smell of metal and snow.
+“It does not live where we live.”
 
-When it was over, she sagged against the wall. Her next breath made almost no sound.
+The answer was so completely hers that it settled the question. Baroness was not a secret self she had hidden from me. It was Brightward’s account of the space around her.
 
-I wanted to move up one step. I wanted to put her hands inside my coat and warm them and prove that I was still the one person allowed to. The wanting felt tender right until I looked at it properly. Then it looked like another thing I had decided for her.
+“You let them keep using it,” I said.
 
-So I stayed where I was.
+“They warn one another. They leave distance. They stop trying to test whether I am as dangerous as they heard.” Her thumb worked against the stiff red wool. “Most days, that is useful.”
 
-“Can I come closer?” I asked.
+“And on the other days?”
 
-Mirelle shut her eyes. For several breaths, she did not answer.
+She looked toward the door through which the student had gone. “They leave my name on forms. They assume fear is respect. They ask you after I answer.”
 
-“Not yet,” she said.
+I leaned forward, elbows on my knees. My first instinct was still to build a case for the defense. I could tell the campus about the Mirelle who peeled the burnt edges off toast and left the good middle on my plate, who said she hated dancing but kept count under her breath when we tried, who carried spare hand warmers for strangers and called it inventory management. I possessed a treasury of evidence that she was more than their title.
 
-The pipes clicked inside their new shells of ice. I listened.
+It was also none of their business. Worse, I had almost spent it to purchase cooperation she had refused.
 
-After a while, her shoulders lowered.
-
-“You never told me,” I said.
-
-“You knew about the curse.”
-
-“I knew it cracked a sink when the landlord surprised you. I didn't know a room went silent when you walked into it. I didn't know they called you the Blizzard Baroness.”
-
-“It is not mine.”
-
-“They use it like it is.”
-
-“They use it because it keeps them back.” She opened her eyes. “That is useful.”
-
-“Is that why you didn't tell anyone about me?”
-
-Her brow pinched. “What?”
-
-“People looked like I'd hugged a natural disaster with a library card. Nobody knew.” My voice sped up as soon as I heard the fear in it. “Which is fine, obviously. Privacy. Mystery. Your whole severe winter nobility situation. I just wondered if maybe you didn't want your campus life contaminated by the idiot who can't find registration.”
-
-“You think I am ashamed of you.”
-
-“I think you hid me.”
-
-“I kept you separate.”
-
-The distinction was hers, clean and merciless.
-
-I looked down through the stairwell. Frost had webbed over three flights of railing. “That doesn't feel better.”
-
-“It was not meant to.” Her lips had begun to pale. She pressed them together, losing whatever longer answer had almost come. “You touch me without asking. You answer for me. Then you ask why I did not bring you here.”
-
-That hurt because it was unfair. It hurt worse because it wasn't.
-
-“I hug you all the time.”
-
-“At home.”
-
-“You like it.”
-
-“Usually.”
-
-I looked up.
-
-Mirelle met my eyes. She was too tired for the expression she wore in public. For one ugly second, that felt like victory. I hated the feeling as soon as it arrived.
-
-“I don't want you to be afraid of me,” she said. The sentence came rough, each word separate. “I also don't want that to make you stupid.”
-
-I laughed once, but there was nothing cheerful in it. “Bad news about my baseline.”
-
-She didn't rescue the joke.
-
-I put my hands flat on the step between my knees. “I'm sorry I grabbed you. And I'm sorry I changed your answer.”
-
-Mirelle watched me, waiting for the rest. I had a rest. I had six versions of why I meant well, all lined up and eager to make my mistake easier for me.
-
-I let them stand there unheard.
-
-“All right,” she said at last.
-
-It was not absolution. It was not rejection. Just a place to put the next thing.
-
-“Do you want my scarf for your hands?” I asked.
+“I changed your answer,” I said.
 
 “Yes.”
 
-I unwound it and held it up. She reached down for it. Our fingers did not touch.
+“I’m sorry.”
 
-By the time we left the stair, the frost on the pipes had begun to sweat. Mirelle wrapped my red scarf around both hands and looked faintly offended by the color.
+Mirelle’s shoulder remained against mine. “Good.”
 
-“It clashes with your reign of terror,” I said.
+Her left boot rested against mine, heel to heel, the old signal she used when conversation was finished but company was not.
 
-“Your reign of color is worse.”
+After a moment I said, “I wanted them to see you.”
 
-“That's why we work.”
+“They see me.”
 
-She gave me a level look. “We are currently under review.”
+“They see weather in a coat.”
 
-The joke was dry enough to carry us through the door.
+“That is their failure.” She freed one hand from the scarf and flexed it. Color had returned except at the fingertips. “Do not correct their failure by offering them what is mine.”
 
-Back in the corridor, people noticed the scarf. Their eyes jumped from it to me. I did not explain. When a woman by the equipment windows murmured, “So the rumors are true,” I kept walking because I did not know which rumor she meant and none of them belonged to me.
+I nodded. “You want me beside you, not translating you.”
 
-At the next junction, Mirelle stopped before a gold arrow marked REGISTRATION.
+“I want you to stop when I say Caleb.”
 
-“That sign is wrong,” she said.
+“A narrower and more measurable learning objective.”
 
-“Finally, something I understand.”
+“Brightward may be able to accredit it.”
+
+I laughed. Mirelle’s boot pressed once against mine.
+
+When we left the stair, she kept my scarf around her hands and looked faintly offended by the color. People noticed it. Their eyes moved from the scarf to me, and a rumor began somewhere behind us in a breathy fragment: *binding cloth*. I did not improve it.
+
+At the next junction, a gold arrow marked REGISTRATION pointed into a wall.
+
+“Finally,” I said. “An honest sign.”
 
 “Registration is two floors down.”
 
 I waited.
 
-She considered the official stair, then pushed open a service door beside it. “This way is shorter.”
+Mirelle considered the official stair, then pushed open a service door beside it. “This way is shorter.”
 
-The shortcut threaded between practice rooms, under a gallery where students learned to land without damaging the tiles, and through a courtyard full of scorched benches. Mirelle pointed out what mattered: the clinic entrance that stayed open at night, the door that stuck in rain, the vending machine that took exact change and kept it anyway.
+The route threaded between practice rooms, under a gallery where students learned to land without damaging the tiles, and through a courtyard full of scorched benches. Mirelle pointed out the clinic entrance that stayed open at night, the door that stuck in rain, and the vending machine that took exact change and kept it anyway.
 
 “My old enemy,” I said.
 
 “Try diplomacy this time.”
 
-Twice, students approached her. The first asked if she would sign a petition to move cold-practice hours out of the west court. Mirelle read the top line and said no because the proposed hours were during her seminar. The student scurried away without looking at me.
+“It has my money, Mirelle.”
 
-The second stood directly in our path, staring at the scarf around Mirelle's hands.
+“Then you have already paid for talks.”
 
-“Are you all right, Baroness?” he asked.
+Twice, students approached her. The first carried a stack of petitions and held one out at maximum reach.
 
-“Move,” she said.
+“Baroness, could you sign to move cold-practice hours out of the west court?”
 
-He moved.
+Mirelle read the top line. “No. The proposed hours are during my seminar.”
 
-I did not apologize for her. Mirelle did not thank me.
+The student looked at me. I adjusted the strap of my satchel. After a moment, she took the petition back.
+
+The second student hurried from a laboratory with frost whitening one sleeve. “Is the drop in there yours?”
+
+“No,” Mirelle said. “The valves make that sound before they fail.”
+
+The student’s alarm sharpened. “What do I do?”
+
+“Pull the red handle outside the door. Then call maintenance.”
+
+He did not hesitate because her answer frightened him. He ran.
+
+Mirelle watched until he reached the handle. Then she continued walking.
+
+Legitimate question, useful answer. No softened refusal, no glimpse behind the curtain. I had imagined standing beside her would mean introducing the person I knew. Instead it meant letting her decide which part of herself the moment required.
 
 At last we reached a narrow landing above the central hall. Through the railings I could see the three contradictory arrows that had started my trouble. A new paper sign had been added. It pointed straight up.
 
@@ -394,43 +380,41 @@ At last we reached a narrow landing above the central hall. Through the railings
 
 “Realistic.”
 
-We stopped at the top of the stairs. The line below was shorter now. A few students recognized Mirelle and left it altogether. One whispered the title. Another hissed for silence. Nobody smiled at us in sudden understanding. The clean radius around her remained.
+The registration line below was shorter now. A few students noticed Mirelle and quietly left it. Others watched the red scarf around her hands. Someone whispered *Blizzard Baroness*, and the title passed through the queue without anyone needing to repeat the story behind it.
 
-I shifted my satchel and stood where I was, outside the reach of her coat. Close enough to speak. Not close enough to decide anything else.
+I shifted my satchel and left Mirelle room to choose the distance between us.
 
 “I can take it from here,” I said.
 
-Mirelle glanced down at the arrows. “Can you?”
+She glanced down at the arrows. “Can you?”
 
-“No. But I need to build character.”
+“No. But getting lost alone will restore some dignity.”
 
-She unwrapped one hand from my scarf. Color had returned to her fingers except at the tips.
+“You signed the molting waiver.”
 
-“Thank you for the tour,” I said.
+“My dignity has survived worse administrative errors.”
 
-Her eyes narrowed slightly. “That sounded almost normal.”
+Mirelle unwrapped one hand from my scarf. She stepped close and put both arms around me, brief and firm, her bare hand cold against the back of my neck. I held still until her arms tightened, then hugged her back in the familiar shape of us.
 
-“I'm trying something new.”
+The hall went quiet again.
 
-We stood in the noise from below. A slate chimed. Someone argued about the skeletal liability waiver. Cold dampened the cuff of my sleeve where the frost in the stair had touched it.
+This time I understood the silence. It was not about danger arriving. It was about the Blizzard Baroness choosing tenderness where everyone could see it, and the hundred meanings they would invent because none of them knew the ordinary one.
 
-Mirelle stepped into the space I had left.
+Someone below whispered, “Does that mean she’s safe?”
 
-She put her arms around me, brief and firm, her bare hand cold against the back of my neck. The hall did not freeze. This time there had been no surprise.
+The question reached us. Mirelle’s fingers shifted once against my neck.
 
-I held still until she tightened her arms. Then I hugged her back.
+I could have answered. I knew exactly how warm she liked the bedroom before sleep, which shoulder stiffened first when the cold had cost her feeling, how long to wait after calling her name before touching her. I knew she loved me. None of that made her safe for them, available to them, or explainable by me.
 
-“You're warm,” she said against my shoulder.
+So I held the warmest person in the room and kept my mouth shut.
 
-“I have other qualities.”
+Mirelle leaned back enough to study my face. “Improving,” she said.
 
 “Unverified.”
 
-She let go first and reclaimed the scarf around her hand.
+“I have standards.”
 
-Below us, the registration line had gone watchful and quiet. Mirelle looked down at it, unimpressed. She pointed to the left-hand stair.
-
-“Two floors,” she said. “Ignore every arrow.”
+She let go first and pointed to the left-hand stair. “Two floors. Ignore every arrow.”
 
 I started down. At the first landing I looked back.
 
