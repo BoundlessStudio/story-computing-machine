@@ -8,342 +8,382 @@ canon: false
 
 # Leave the Names
 
-By sunrise, we had made Merenza lighter by six hundred and nine measures.
+By first light, Kedra had the third wagon on the scales and a hole in the leave ledger.
 
-The caravan scale stood beneath the old civic arch. We fed it the city in portions small enough to carry: copper pipe bundled by bore, hinge leaves strung on their own pins, two fan housings with the blades knocked out, a washbasin beaten flat. Anything we meant to sell took a notch in the weigh stick and a charcoal entry in the load book. Anything promised elsewhere took a red cord. Anything unsafe took yellow chalk and stayed where it was.
+“Rear axle, four hundred twelve,” called the rigger at the weights.
 
-Pava had crawled beneath the west sledge to read me the wear on its running gear. Her boots projected from under the axle. She called, “Left wheel, three fingers before the line. Front shoe—new.”
+“Four-ten if you scrape off his breakfast,” the cook said. He was trying to fit a lidded pot beneath the seat without spilling the soaking water.
 
-“New?”
+“Four-twelve,” Kedra said, and marked it. “Move the water casks forward. Not both. The left one.”
 
-She came out too quickly and struck her brow on the frame. When she sat up, grease crossed one cheek. She pressed her lips flat while she waited for me to notice what she had done. She was twenty-three, old enough to trade under another cutter’s eye and young enough that the caravan still called her my apprentice before it called her by name.
+Harness buckles clicked up and down the line. The draft animals had been walked, watered, and persuaded into their collars; now they stamped in the pale dust as if the road delay were a personal offense. Beyond them, Cerdovan held the last blue shadow of night in its roofless courts.
 
-I looked past her to the arch.
+Kedra turned back one page. Clean copper, twenty-three sheets. Lamp rail, nine lengths. Green glass, six nested crates. At the bottom were the things that had been exposed and supported but not taken: three mortuary indices, the lettering from the east exchange, and the paired city strips. One strip still had no second witness mark.
 
-Seven soot-pale shapes crossed the stone above us. Fourteen pinholes made two neat rows beneath them. The bronze letters that had stood there yesterday were gone.
+The witness spaces covered the cutter's oldest rule. Metal could enter the buying book; an original surface that named a person or place remained where it had been found, along with any identifying tally joined to one. Departure waited for proof.
 
-The city’s dead had left us no pronunciation. We called it Merenza because that was the shape the letters made in our road script. We had taken its roof sheets and its pump chains. We had opened a buried exchange for the conductor coil inside. The letters, arm-long and green at the edges, were the one metal on that plaza no one had entered in my book.
+“Who checked the north cistern after Beshan?”
 
-“Where?” I asked.
+The calls thinned. A buckle tongue dropped against iron.
 
-Pava followed my gaze. The flush left her face.
+Under the lead wagon, the driver said, “You’d better tell her what you paid with.”
 
-Around us, work continued. A cutter broke mortar from a lintel. The kitchen crew argued over whether a copper vat had held dye or stew. Nobody had yet noticed what was missing.
+“I paid for it,” Beshan answered too quickly.
 
-“Jassik bought them,” Pava said. “Yesterday.”
+Kedra closed the ledger on one finger. The new brake leaf showed black beneath the axle, its oil not yet furred with road dust. Yesterday the old leaf had clicked under load. Beshan had told her the crack was walking. She had ordered it bound in wire until they cleared the shelf road.
 
-The old code was six words when spoken with the pause in the middle: take the metal, leave the names.
+The new leaf was not in the buying book.
 
-I held out my hand. “Sale chit.”
+“Out,” she said.
 
-She produced it from her belt purse. Twenty-eight and a quarter measures of untested bronze. The price was fair if the bronze had been ordinary. Jassik’s thumb mark was still blue from the dye he used on his cart and contracts.
+Beshan slid from under the wagon with the wrench still in his hand. His hair was full of grit from the axle bed. “The pin sits clean. I put two collars on because the old shoulder is worn, but the second collar can come off if it crowds the hub after heat. I checked the draw—”
 
-“You signed as trader.”
+“Where is the cistern strip?”
 
-“I’m permitted market sales.”
+The wagon line stopped. He looked first at the ledger, then at the city.
 
-“For entered salvage.”
+Kedra held out her hand for the wrench. When he gave it to her, she passed it to the driver. “Where?”
 
-“The letters weren’t entered.”
+“Lurem has it.”
 
-“Show me the brake.”
+The cook set down his pot. Water crept around the lid and darkened the dust.
 
-Pava did not move. Then she ducked under the frame and brought out a cracked shoe wrapped in sacking. The new one was already mounted against the west wheel, its pin trimmed clean and peened square. She had bought the shoe, a hide dust flap, and two proper locking wedges. No sweetcakes. No bright knife. Not even the expensive awl she had handled at three markets and always put down.
+“For the brake leaf?” Kedra asked.
 
-I set the old shoe on a wheel hub and struck its neck with my hammer. The crack opened to the depth of my smallest finger.
+Beshan nodded. Then the words came in a rush. “It was intact when I delivered it. I cut outside the letter bed, left two fingers of backing, braced the lip before lifting, and the east mate is still seated. Lurem’s reader takes either original strip. He said he would price redemption for one day, but use began at first bell. I meant to buy it back after the shelf settlement, before the keepers closed inventory. There was no damage when I left.”
 
-The afternoon before, Pava had put that same shoe in my hand while I was measuring the conductor coil. I had scraped the dark line with a nail and called it surface crazing. We were already half a day behind the rail window. Put it back, I had told her. It will hold to the southern stop.
+“You meant to cross first.”
 
-“It would have failed on the descent,” she said.
+“If we missed the gate, the bond was gone.”
 
-The lead driver was checking jaw clamps at the head of the pale rail. I beckoned him over, showed him the break, and asked for no opinion. His silence was enough.
+“When did you cut it?”
 
-“When the rail wakes,” I told him, “leave with the caravan. Take our personal loads off the west sledge. Pava and I will follow by road.”
+“Before the last descent.”
 
-Pava rubbed her brow where she had struck it. “You’re not sending me away?”
+Kedra saw that descent again: the lead animal kicking sideways at a sheet of loose tin, the wagon leaning into its trace, the new leaf taking the weight with a hard clean groan. The old one, bound as she had ordered, would have parted. Three wagons had been nose to tail behind it.
 
-“Not before you show me what you sold.”
+“I had six other offers ready,” Beshan said. “Coil wire, half the glass, my winter share, repair labor through—”
 
-Jassik’s cart had gone west. Its iron-rimmed wheels left a double rut through the drifts that buried Merenza’s lower streets, and its furnace leaked a fan of charcoal chips on every climb. We followed with the sale chit, my testing file, and all the bronze not already claimed by another crew.
-
-At the first turn, Pava stopped beside an old well. A green plate remained riveted to its curb. She had removed the iron crank brace without so much as scratching the two rows of raised symbols.
-
-“I left that,” she said.
-
-“Walk.”
-
-At the covered market, three shop signs hung from a roofless arcade. Yellow cut lines bent around each bracket. Pava pointed at those too. “And those.”
-
-“You knew the rule.”
-
-“I knew the words.”
-
-Her apprentice distance was one pace behind. She kept it across broken paving, even where walking beside me would have been easier.
-
-Merenza had died in layers. Wind-borne soil buried its ground floors, and some later people had laid a narrower street through its third-storey rooms. We crossed a kitchen whose stone sinks opened onto empty air. Pava had found the safe line for its pipe yesterday by tapping the wall and listening for hollow places. She was the best listener in our caravan. That was why I had chosen her. It was also why the crack in the brake sat like grit under my tongue.
-
-“What else did you try to buy?” I asked.
-
-She answered at once. “Kitchen copper. They refused. Bell stock from the mill crew. Promised. Two valve rings from common scrap, but they were leaded. I asked you to stop.”
-
-“You asked once while I was working.”
-
-“I put the shoe in your hand.”
-
-I could have ordered her silent. Instead I followed the charcoal chips.
-
-We found Jassik in a sunken courtyard where the western wall broke the wind. His blue cart was braced level on four stones. Clay molds lay beside it in rows, each mold curved like a finger hooked over a roof edge. He had rigged his bellows to a treadle and was driving a white heat through a squat travel furnace.
-
-The six surviving letters lay face down in casting sand.
-
-I counted twice. M, E, R, E, N, A. Jassik had sawn through the old straps that joined them, leaving bright wounds across the dark bronze.
-
-“Close the air,” I said.
-
-He saw Pava, saw me, and kept one boot on the treadle for three more breaths. Then he let the bellows sag.
-
-“If this is about yesterday’s bronze,” he said, “you chose a late hour.”
-
-“Where is the seventh?”
-
-Jassik lifted a black spoon from his bench. A bead of bronze rolled in its bowl, no bigger than the last joint of my thumb.
-
-Pava’s breath stopped.
-
-“Test melt,” he said. “I needed to know whether the batch would take the bend.”
-
-I picked up the bead with my tongs. One letter had become a sample, then a number in a founder’s head. It was still warm.
-
-“You bought a city name,” I said.
-
-“I bought metal from a licensed seller.” Jassik pulled his mouth cloth down. His beard had been singed blunt on one side. “The six on the sand are not in my furnace. That is the courtesy I can offer before I hear what you want.”
-
-“I want them returned.”
-
-“I want nine sets of roof clamps loaded before the biting rain reaches the salt road.” He kicked a wooden count board near the furnace. Nine holes, each fitted with a household peg. “Your custom does not keep their rafters down.”
-
-Pava said, “We can repay the price.”
-
-“Keep it. I promised bronze, and the salt towns have none clean enough. If I hunt for stock on the road, the rain gets there first.”
-
-I spread our unclaimed scrap on his scale: two valve collars, bearing strip, three hatch plates, and a length of ornamental rail. The pile outweighed the letters. He tested each piece anyway. The valve collars sweated lead under the flame. The bearing strip snapped cold. One hatch plate had green fire at its filed edge, evidence of some old addition neither of us wanted near a roof.
-
-“Weights,” he said, pushing the pile back. “Bells for people you dislike. Nothing I promised.”
-
-“Double the bronze in mixed stock.”
-
-“Then I spend charcoal separating your rubbish and miss the road.”
-
-Pava unhooked her tool roll. “Take these against the work. I can stay through the pour.”
-
-Jassik looked at the chisels and gauges, then at her. “I did not ask for a hand.”
-
-“You need one.”
-
-“I can manage the pour.” He held up his blackened hands. “What bought the new shoe?”
-
-Pava’s jaw tightened. “These letters.”
-
-“Then the shoe stays where it is.”
-
-“It’s high copper. Better than half this pile.”
-
-“It is a brake now. The west descent would shear the old one. I will not put that break back under your load.”
-
-She stepped toward the scale. “Then take my share of the letters and give Varoq the rest.”
-
-“There are no shares.” I said it before Jassik could. “Not in this.”
-
-The furnace ticked as it cooled. Beyond the broken wall, the sun still stood above the roofless market. At dusk Merenza’s intact transit rail would shed most of its own weight for about an hour. Our sledges could run fast on it then, but only then. If the caravan missed the change, it would sit another day. If Pava and I missed it, we would walk.
-
-Jassik turned the six letters face up. Their soot stains no longer joined. “Bring me equal sound bronze before I pour,” he said. “Not money. Not labor I did not hire. Bronze I can promise without lying.”
-
-“The test bead too.”
-
-“No. It is already measured into the first batch.”
-
-Pava reached for her tool roll. “There isn’t any sound bronze free.”
-
-I knew of some.
-
-The conductor coil lay at the center of the west sledge, red-corded and padded with woven straw. A pumpwright two rail stops south had paid us to recover it whole. Wire as thick as my thumb wound around a ceramic core, clean and spring-hard. The advance had fed the caravan for half the northern route.
-
-It had been in my hands when I dismissed the crack.
-
-“Keep the furnace closed,” I told Jassik.
-
-He looked at the dropping sun. “At the sun’s edge, I open the furnace. If you are not here, the letters go in.”
-
-We ran back through the upper market. Pava abandoned apprentice distance on the first slope. She was faster over broken ground and reached the arch ahead of me.
-
-The caravan had finished lashing. Drivers crouched at the pale rail, brushing grit from the coupling jaws. No one hurried yet. The rail set its own hour, and panic could not move sunset.
-
-I went to the west sledge and cut the red cord around the coil. Five outer turns would be more than Jassik needed. I dragged them clear of the padding and set my bow saw against the wire.
-
-The lead driver caught my wrist. “That is contract freight.”
-
-“I know.”
-
-“The advance is spent.”
-
-“Charge the claim to my next shares.”
-
-“Your next ten shares may not cover it.”
-
-Pava reached for the knife. “Mine first.”
-
-I kept it. “Her sale caused the claim. My inspection caused the need. Enter half against each of us until the pumpwright sets damages.”
-
-The driver stared at the blank arch. He had finally seen the pale letter-shapes. “And her market mark?”
-
-“Suspended.”
-
-Pava said, “You can’t settle that without hearing me.”
-
-“I heard you beside the brake. This is what the coil costs. The rest waits until the name is back.”
-
-The lead driver released my wrist, but he did not help us. Pava steadied the loose turns while I sawed. We folded the length across two carrying poles and lifted. It dragged our arms long before we reached the first turn.
-
-Jassik had relit only his testing flame. He filed one bright curl from the wire, heated it, quenched it, bent it double, then set the cut length on his scale. He measured out what his roof batch required and sawed off the extra. The bronze bead went into his small crucible. The wire followed.
-
-“Enough,” he said.
-
-“You took less mass than the letters.”
-
-“I need nine sound sets. That makes nine. Take the rest.”
-
-He shoved the remainder of the coil toward me, then wrapped the six letters in furnace canvas. Pava watched the crucible. The bead had already lost its roundness in the heat.
-
-“Could you cast another Z?” she asked.
-
-“From new metal.”
-
-“Then—”
-
-“This one is already in the clamps.” Jassik lifted the crucible with his tongs.
-
-He poured before she answered. A thread of orange metal vanished into the first hooked mold.
-
-We tied Jassik’s rejected arc of wire to my pack and divided the letters, three to each canvas sling. Twenty-eight and a quarter measures had sounded manageable on Pava’s chit. Against my shoulder, the cut edge of an E found a new place to hurt at every step.
-
-The rail woke while we were still crossing the market.
-
-Blue light ran under the dust in a straight line. The exposed stretches lifted a finger above their beds with a hum I felt through my boots. Back at the arch, our people guided the low sledges over the pale metal and locked the jaws beneath its edges. The rail became nearly weightless. The loads did not. Drivers leaned into the traces, and the first sledge moved with the dangerous ease of a full bucket on ice.
-
-Lanterns streamed past gaps in the buildings. The last driver had to uncouple before the hour ended or the settling rail would flatten a wheel. No one stopped for us.
-
-The lead driver rode the final load. He held up the shortened coil so I could see it remained on the sledge. I lifted one hand. Pava kept both hands on her sling.
-
-When the caravan’s hum faded, the city seemed larger.
-
-Pava lowered her letters beside the well. “There was no free stock.”
-
-“There is never free stock. There is entered stock and stock we have not judged yet.”
-
-“The arch had stood over three weigh-outs. No tag, no chalk, no red cord. You taught me that if nobody claims a piece by market eve, it returns to common tally.”
-
-“Names do not go on the common tally.”
-
-“That was the part you left out.”
-
-I shifted the sling. The E’s cut corner had numbed two fingers. “I said leave them.”
-
-“You also said the shoe would hold.”
-
-We stood with the green plate at our knees. Pava had cut the brace behind it so precisely that the plate still covered its original patch of stone. She had followed one order whose reason she understood and broken another after my judgment nearly put her under the sledge.
-
-“If the shoe had failed,” I said, “the letters would still not have been yours to sell.”
-
-“What was I supposed to sell?”
-
-“Nothing. Stop the load. Pull the coupling pin and put it in your pocket if you must.”
-
-“You would have ordered me to return it.”
-
-“Then call the lead driver. Call every driver. Make me say the crack is safe where they can see it.”
-
-She crouched to retie her sling. “So I get a vote only if I make enough noise.”
-
-“No. You get a brake inspection when you ask for one.”
-
-“I asked.”
-
-“Next time you get one.”
-
-She hauled the letters up and started walking before me. “That is not an answer about the names.”
-
-She was right, which did not make me ready. I followed her past the shop signs, black shapes hanging above blacker rooms.
-
-My first master had told me that names soured a smelter. I had later melted a loose funeral plate by accident and produced excellent rivets. Another cutter said the dead followed stolen letters. The dead had never followed our caravan as far as I knew. Every road had a different fright wrapped around the same six words.
-
-“A name stays out of the load book on purpose,” I said. “The empty line is its mark.”
-
-“That is a poor mark.”
+“He refused them.”
 
 “Yes.”
 
-She glanced back, suspicious of the agreement.
+“And you did not wake me.”
 
-“We take the useful shape from a place until a later traveler can mistake it for a quarry,” I said. “A wall becomes block count. A watercourse becomes pipe. The names are what we refuse to turn into quantities.”
+His mouth opened. Nothing came out.
 
-“Why those and not graves? Or pictures? Or the little handprints in the kiln house?”
+Kedra turned to the crew. “Unload the scale. Wagons around.”
 
-“I don’t know why the first cutters chose names.”
+The driver stared at her. “The shelf gate closes before noon.”
 
-“Then how do you know they chose right?”
+“We aren’t taking the shelf yet.”
 
-“I have seen a hungry camp find a necessity for every hinge, grave rail, and cooking pot it could lift. Need does not finish.”
+“The animals have already walked out their stiffness.”
 
-Pava kicked a charcoal chip off the paving. “People under a roof might price it differently.”
+“They can walk it back in.”
 
-“Jassik did.”
+The cook lifted the pot with both hands. “This was noon meal.”
 
-Neither of us spoke for the rest of the climb.
+“Then keep the lid on.” Kedra pointed down the line. “Casks stay forward. Glass wagon takes the outside turn. Tie the clean metal again.”
 
-At the arch, the letter shadows waited exactly where morning had left them. We unwrapped the bronze and sorted the cut joining straps. The old makers had pinned each letter through the facing stones and linked the backs with crossbars. Jassik’s saw had spared enough of four straps to reuse. For the others, I cut short backing plates from our plain repair stock while Pava climbed into the hollow above the arch.
+“It is tied,” the rigger said.
 
-We worked by two oil lamps. She fed wire through each pinhole; I used it to draw the letters against their soot-pale beds. M first. Then E, R, E, N. We left the sixth space open and fixed the A beyond it.
+“Tie it for a turn made angry.”
 
-MEREN_A.
+She gave Beshan no tool. “Your cutting and buying marks are suspended. You touch no blade, ledger, or trade seal. You work only when I name the task.”
 
-The gap was not subtle. Two old pinholes sat inside the pale diagonal shadow. Jassik could have cast the missing shape by noon tomorrow. We could have cut it from new sheet, scored the face, packed the grooves with soot. From the plaza, no traveler would know.
+He swallowed. “For how long?”
 
-Pava came down from the hollow with metal dust in her hair. She held a scrap of paper over the shadow and rubbed it with charcoal until the lost Z appeared.
+“Turn the second wagon.”
 
-“For a pattern,” she said.
+She watched him go to the traces before she checked the turning room between the wagons.
 
-I looked at the black shape. “For whose eye?”
+* * *
 
-“Anyone passing under it.”
+They heard the dissolution engine before they reached the north court. Its drums worked out of step, one deep and one quick, with chain drag between. The city had built the machine to surrender its own civic metal under authority: tagged beams, public fittings, lintels, rails. Either original city strip fitted the reader and released the tags. A copied inscription did not fit the foundation teeth.
 
-“Would they know it was ours?”
+Lurem had found plenty still tagged.
 
-Her thumb smeared one corner. She looked from the rubbing to the saw-bright edges of the letters we had recovered. Then she folded the paper once and put it in the load book without asking.
+An iron beam crept across the court on hooked chains. Behind it, two flattened lintel plates knocked against each other as they approached the rollers. Their letters had already folded inward. On the far side of the moving line, Sovet and two keepers knelt beside chalked squares, recording what passed before it lost position. Sovet held up a numbered board. Nobody at the engine looked long enough to read it.
 
-We did not hide the cuts. We did not green the new pins. Near midnight we tightened the last backing plate, and six old letters held their places again.
+Kedra stepped onto the loading block. “Feed off. Slack the west chain.”
 
-Pava sat on the scale platform and waited. She had stopped arranging her face into the blank patience apprentices used during correction. She looked exhausted and furious and too competent to be dismissed for my comfort.
+One of Lurem’s hands reached for the clutch. Another looked toward the counting shed.
 
-“Your market mark stays suspended,” I said. “You may not price, tag, or sell without another trader present until your shares clear your half of the claim.”
+Lurem came out buttoning one cuff. “You ring my floor now?”
 
-“Half.”
+“Your west drum is pulling across the guide.”
 
-“The coil debt is half yours. I took the other half when I ignored the shoe.”
+He looked once. “Feed off,” he called. “West chain to half.”
 
-She rubbed bronze filings between her palms. “And after the debt?”
+The clutch dropped. The quick drum stopped, but the iron beam continued to crawl on stored tension. A mortuary index tilted from a sled. Sovet caught its lower edge with a padded hook and shoved it back without crossing the painted moving line.
 
-“Before we cut, you mark name-bearing pieces on a separate strip. Not in the tally. Beside it. You show that strip to the next apprentice before they earn a market mark.”
+“All chains down,” Kedra said.
 
-“You’re keeping me, then.”
+“Half,” Lurem corrected. “Down under that load, the reader twists and keeps my strip.”
 
-“If you still want the place when we catch the caravan.”
+“The strip from the north cistern,” Sovet said. He did not look up from the chalk square he was redrawing. “Cerdovan, upper line complete, lower edge cut outside the witness holes. Removed yesterday.”
 
-“I do.” She said it without gratitude.
+Lurem spread his hands. “Sold yesterday. Clear face, seller’s mark, full exchange. If this is a caravan dispute, take it past my line.”
 
-At dawn we went looking for enough saleable copper to justify the long road south. In a narrow house off the market, I found a conduit running beneath cracked plaster. Pava sounded the wall and located its anchors. I raised the yellow chalk.
+Kedra could see the strip in the reader housing, brass behind a narrow glass guard. The words CERDOVAN ran upright. Its irregular lower teeth sat in the machine as they had once sat in the cistern foundation. The reader did not speak them or remember them. It held their shape, and the old mechanism released what that shape had authority to release.
 
-She brushed dust from a ceramic tile beside the first anchor. Small incised characters appeared, no wider together than her palm.
+“Beshan,” Kedra said. “Can the load be set without bending it?”
 
-Pava took the chalk from my fingers. First she drew a box around the tile. Then she measured the conduit again, shifted our proposed cut by two handspans, and marked the slower route.
+He had remained behind her, hands open and empty. “Yes. If the north pawl is still taking. If it’s not, the west drum has put twist through the reader and we need to back-wind before we lift. If the guide shoe cracked, we need a cradle under the whole—”
 
-I set my chisel where her line began.
+“Look.”
+
+He crouched at the painted line. For a few breaths he said nothing.
+
+Lurem tapped his cuff flat. “He looked yesterday. That was part of his payment.”
+
+Beshan’s face went still.
+
+“North pawl is taking,” he said at last. “The guide shoe is whole. Back the west drum one tooth. No more.”
+
+“You may direct that task,” Kedra told him. To Lurem she said, “Set the load. No new feed.”
+
+“Until?”
+
+“Until we settle custody.”
+
+Lurem watched the caravan bunching at the court entrance, the casks sweating dark rings onto their racks, the clean-metal wagon bright under its tarp. “My custody is settled.”
+
+Sovet laid the numbered board beside the folded plates. “Not my inventory.”
+
+Kedra crossed to him. “How much passed?”
+
+“Do you want a number or an answer I can witness?”
+
+“Both.”
+
+“Then stop asking while the pieces move.” He pointed with his chalk. “I have thirteen entries. There may be fifteen objects. That lintel was two when it had a wall and one when his chain lifted it. I have not decided what it is now.”
+
+Behind them, Beshan told a hand, “Left, not right. One tooth. Stop. Stop there.”
+
+The west drum settled. The reader housing gave a sharp tick.
+
+Lurem said, “Now we can discuss my property.”
+
+Lurem was neither hiding the receipt nor offering to tear it up. He had an engine crew already paid and buyers expecting clean civic alloy. Calling him a thief would not move one chain backward.
+
+“Your cost,” she said.
+
+“Brake leaf. Fitting credit. Four hands since first bell. Engine charge. Two canceled deliveries if the feed stays off.”
+
+“The fitting was Beshan’s.”
+
+“The collars were mine.”
+
+“They’re worn stock.”
+
+“They held.”
+
+The driver called from the wagons, “They did.”
+
+Kedra did not turn. “No one asked the axle.”
+
+“It was becoming a long silence,” the driver said.
+
+Lurem named a figure. Kedra named one lower. He repeated the cost of the brake leaf and added the half-day already spent. She offered the copper sheets. He asked for the nested glass as well. She refused. He began again with the leaf, exactly as if she had failed to hear.
+
+Sovet moved past them carrying his padded hook. “Bargain somewhere that is not on my last unmapped edge.”
+
+Kedra stepped aside. “Clean-metal wagon. All of it as weighed this morning. And the shelf-road bond.”
+
+The complaint from the crew came in pieces.
+
+“That is our profit.”
+
+“That is our road.”
+
+“I have water for the shelf, not the low bends.”
+
+“You have water for either if you stop spilling meal into it,” said the cook.
+
+Lurem looked toward the tarp. “Sheet, rail, and bars?”
+
+“As weighed. You return the strip intact. Feed ends now. Your hands work with Sovet until every recoverable piece is out of your mixed lots and back under his mark.”
+
+“My hands work through sunset.”
+
+“They work until he releases the lots.”
+
+“Sunset.”
+
+“Then the bars come off the wagon.”
+
+Lurem glanced at the stopped engine. A delivery chain swayed against its hook. “Until the present lots are released. New labor after sunset is keeper charge.”
+
+“Agreed. The brake stays with us.”
+
+“The brake stays. Clean metal and bond to me. Strip, cessation, present-lot labor to you.” He pointed to the ledger under Kedra’s arm. “Write it. Two witnesses who are not your apprentice.”
+
+The cook said, “My hands are wet.”
+
+“Dry one,” Kedra told him.
+
+The driver came forward as second witness. Sovet refused the pen when Kedra offered it.
+
+“I witness return after I see return,” he said.
+
+Lurem supplied one of his hands instead. They marked the terms on the loading block while the animals shifted and the shelf-road margin ran out.
+
+* * *
+
+The reader jammed on the third lift.
+
+The glass guard was off, the load cradled, and Beshan had worked the first two retaining pins free under Kedra’s eye. When the rigger took up the chain hoist, the folded lintel still caught in the west line rolled half a handspan. Torque crossed the housing. The brass strip leaned until its cut edge touched iron.
+
+“Down,” Lurem said.
+
+“No.” Beshan’s voice cracked. He put both hands behind his back as though holding them there. “Down will fold the lower tooth.”
+
+Kedra saw it: one bright contact point, already shaving a curl from the strip’s backing.
+
+“Hold the hoist,” she ordered. “Block the west line.”
+
+“With what?” the rigger asked. “You just sold our blocks.”
+
+“They are not his until the strip is out. Use the short oak.”
+
+The crew moved. The cook held an animal that objected to the engine noise. The driver and one of Lurem’s hands shouldered the short block under the chain guide. Sovet came to the reader with folded pads but stopped beyond reach.
+
+“Pad the face,” Kedra said.
+
+“Not until the witness holes are visible.”
+
+“Sovet.”
+
+“If you rush me, you can have the strip without my return mark.”
+
+Kedra forced her hands still. “Beshan. Sequence.”
+
+For the first time that day, he did not spend words ahead of the problem. He lowered his face beside the housing, looking along the strip rather than at her.
+
+“Take the hoist two links higher. The load will move before the reader does. When it moves, hold the upper pawl. Not the lower.”
+
+“The upper pawl is under tension,” Lurem said.
+
+“Yes.”
+
+“It will bite whoever holds it.”
+
+Beshan pointed. “Use the collar wrench through the eye. No hand there.”
+
+Kedra took the wrench from the driver and set its handle through the pawl eye. “You have the release task only. Nothing else.”
+
+“Two links,” Beshan said.
+
+The rigger lifted. Kedra leaned her weight into the wrench as the pawl tried to climb. The iron shuddered through her shoulders. Beshan slipped Sovet’s first pad behind the exposed backing, waited for the housing to ease, then placed the second without touching the letters.
+
+“West line back to the chalk nick,” he said.
+
+“That takes the block out,” the driver said.
+
+“It takes the pressure off it first.”
+
+“Say when.”
+
+“Now. Half. Stop.”
+
+The strip straightened between the pads. Sovet bent close enough to see the two round witness holes.
+
+“Face recorded,” he said. “Lift.”
+
+Beshan drew the lower pin. The reader let go with a flat iron knock, and its counterweight dropped a finger's width. Sovet received the strip on both padded palms.
+
+Kedra released the wrench. Her forearms shook. Beshan noticed and reached for the tool, then stopped himself.
+
+“Take the housing apart,” she said to Lurem’s crew. “No one seats another key.”
+
+Lurem checked the written bargain before he gave the order.
+
+They worked through the afternoon. His hands opened the mixed lots. Kedra’s crew separated structural rail from inscribed plates and held each piece where Sovet could compare it to his squares. A mortuary index that still held its joined identifying tallies went back under padding. Copper from beside it could be claimed only after the plate lay exposed and supported; Kedra made the rigger wait while Sovet set wedges beneath a cracked corner.
+
+“It is free,” the rigger said.
+
+“It is hanging,” Sovet replied.
+
+“It weighs less than my boot.”
+
+“Then your boot can wait.”
+
+At midday the cook served the soaked meal cold. Lurem ate standing beside the clean-metal wagon that would soon be his. Beshan did not ask for a bowl until the cook shoved one against his chest.
+
+“Use the spoon,” the cook said. “I’m not inventorying fingers too.”
+
+The folded lintels could not be put back where they had belonged. One had been crushed through three letters. Two public plates had lost their wall positions when the chain dragged them into a single pile. Sovet marked those pieces into a context-loss lot, each on its own line. He did not pretend the lines restored anything.
+
+Near dusk they carried the city strip to the north cistern. The empty anchor bed was a long pale wound above the dry basin. Beshan’s cut had been neat. That made the absence worse to Kedra’s eye: supported lip, clean backing, no accidental fracture to blame.
+
+Sovet would not let them seat it yet. He took Kedra and the driver across the court to the east exchange, where the mate remained in its foundation. Both strips bore CERDOVAN, but the letters alone proved nothing. He cleaned the reverse edges, pressed wax into the irregular teeth, and compared the impressions against the cistern bed. Then he checked the old witness holes and the dark seams where each strip had rested against its own stone.
+
+“Same inscription, matching foundation teeth,” he said. “Two public anchors. Record that before you lift it.”
+
+The driver balanced the ledger on his forearm. “Recorded.”
+
+“Read the locations back.”
+
+He did. Sovet corrected “north court” to “north cistern, inner public face” and made him repeat it.
+
+At the empty bed, Beshan sorted shims by thickness. His hands no longer hurried.
+
+“Left end first,” he said. “The third tooth is proud. If we square the right edge before it drops, the witness holes won’t meet.”
+
+Kedra nodded permission for each tool. He used wood, cloth, and the blunt setting bar. No cutter. When the third tooth settled, the strip moved a fraction sideways and the old witness holes appeared behind it, round within round.
+
+“Hold,” Sovet said.
+
+Everyone held. He checked the mate at the exchange once more. Only then did he set his mark through the first hole and hand the second marker to Kedra.
+
+When the last fastener seated, something struck once beneath the cistern floor: the reservation rail taking the paired anchors again. Back in the court, Lurem called that the surviving civic tags had locked against the idle engine. The crushed plates remained crushed. The mixed positions stayed entered as lost. The mechanism reserved what was still joined to Cerdovan and nothing more.
+
+Sovet wrote until the light failed.
+
+* * *
+
+Kedra made the disposition by lantern beside the provision wagon. The crew needed to hear it; Beshan did not need an audience larger than the people who would carry its cost.
+
+“Your buying and cutting privileges are removed,” she told him. “Your next share goes to keeper labor, including hours after sunset today. You stay here until Sovet finishes the present inventory.”
+
+Beshan looked toward the court. Lurem’s last mixed bin still stood open under canvas. “All of it?”
+
+“Every lot opened by that strip. You will be provisioned for twelve days. Bedding, water, meal, lamp oil. No trade seal. No cutting kit.”
+
+“If it takes longer?”
+
+“Sovet sends the count. We send more food.”
+
+He nodded once. “And after?”
+
+Dismiss him now, and Sovet lost the skilled hand the inventory required. Carry him onward, and the crew absorbed keeper labor he owed. Kedra's order to bind the cracked brake went into the day's account too, but it did not cancel his cut.
+
+“Sovet signs the inventory,” she said. “I read it. Continued apprenticeship depends on what is in it and whether you finish.”
+
+His lips worked around a fuller answer, then gave it up. “Understood.”
+
+The cook handed him a sack. “Twelve days means twelve. Don’t start being hungry on ten.”
+
+“There are thirteen meal packets.”
+
+“One is mine.”
+
+“It’s in my sack.”
+
+“Then guard it carefully.”
+
+Before dawn, they transferred the clean metal to Lurem and watched him mark receipt. The shelf-road bond went into the same case. Kedra checked the lead brake herself: new leaf, two worn collars, pin clean in its shoulder.
+
+“Low road adds three days,” the driver said.
+
+“Four if the south bend is wet,” said the rigger.
+
+The cook climbed to his seat. “It will be wet because I have four days of water for a three-day road.”
+
+“Left cask first,” Kedra called. “Glass wagon inside on the bends. Put a lead line on the rear animal.”
+
+The wagon that had carried clean metal rode high enough to rattle every loose board. At the first low turn, the lead wagon leaned, the brake leaf took its weight, and the collars held.
+
+Behind them, from the north court, Beshan called an inventory number. Sovet made him call it again with the location.

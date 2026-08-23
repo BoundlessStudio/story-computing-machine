@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Maris Calder | new | Focal skater, also called Maris and described by the exhibit as its skater; no conflicting exact or alias reuse found. Close forms `Mara`, `Ammara`, `Caldrin`, `Caldren`, and `Quiet Caldera` remain distinct by full form, noun type, and context. |
+| None | none | No story-facing proper person noun. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing proper place noun; the city, old park road, festival route, gates, traffic island, and photo exhibit remain unnamed. |
+| None | none | No story-facing proper place noun. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: PASS: pre-review structure and 1 declared person/place nouns checked for everyone-knows-her; no exact-declaration warnings. The ordinary program-cover chain makes the recognition causally legible, while Maris's bounded requests and the volunteer's factual admissions, privacy refusal, and physical compliance preserve independent agency. The final contact exchange yields directly to correcting the first caption rather than adding an explanatory coda.
+- Notes: Recognition resolves through the live description, annual memories, and copied staff and crowd behavior; the route reset, safe dismount, delay, clasp handoff, and stall relief remain causally coherent.

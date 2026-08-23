@@ -8,320 +8,384 @@ canon: false
 
 # All the Dragons at Dawn
 
-The dragon’s head fell into Esker’s arms.
+The dragon's last note entered Tarrow Kes through the iron of his bracer.
 
-He had expected a thrash, perhaps one final sheet of fire. He had braced his boots in the shale and kept his sword ready, though the blade had already gone under the breastplate scales and found the deep place no dragon survived. Instead the beast folded. Its great ash-red neck came down almost gently, driving Esker to one knee. He caught it because letting three hundred pounds of horn and jaw crush his legs seemed a poor conclusion to a clean kill.
+He felt it before he heard it: a low, steady pressure in the bones of his wrist, as if someone had set a bow to a string inside him. The sound followed, too deep for the ear to hold. Pebbles danced beneath his knees. Heat passed through the dragon's ribs and into his arms.
 
-For an instant its eye held his: an old bronze coin, smoke-dimmed at the edges. Then the long lid closed.
+Its narrow head rested in the crook of his left arm. He had caught its neck when its forelegs folded, and now its weight held him against the stone.
 
-“Easy,” Esker said, absurdly. He had said the same thing to dying horses.
+They had wounded it below Cinderwake and expected it to fall there. It had cleared the eastern ridge on one torn wing. Tarrow had followed.
 
-The dragon exhaled against his chest. Not flame. A furnace breath, bitter with stone and rain. Its throat rolled onto the strip of bare skin between his left gauntlet and sleeve.
+Tarrow had expected weight. He had expected the slow loosening that came at the end of any large creature, and the smell of blood on the cold wind, and perhaps one final strike if he misjudged the dying. He had not expected the dragon to hook one black claw through the straps of his bracer and pull his hand against the red plates below its throat.
 
-Something moved beneath his wrist.
+"Easy," he said, because people said useless things to the dying.
 
-Esker shoved at the head. The dragon was dead weight now, heavier than anger. His right arm was trapped under its jaw; by the time he levered himself free, heat had already run to his elbow. He tore off the gauntlet.
+The gold in the dragon's eyes had already dulled. Its torn wing covered half the shelf below Dawnscar Escarpment, membrane snapping in the wind. Tarrow's spear lay three paces away. He could not reach it without wrenching his arm from the claw.
 
-Small red scales covered the inside of his wrist.
+The note deepened.
 
-They lay in overlapping rows as neat as mail, dark along the edges, wetly bright at their centers. More appeared while he watched. Not pushing out of his skin: settling into it. The dragon’s throat had gone pale where it had touched him, its own scales loosening in papery curls. One lifted on the evening wind, struck Esker’s forearm, and flattened there. Pain followed, a hundred pinpricks arriving as one.
+One scale lifted from the dragon's breast. Then another. They did not fall. Each flexed once in the moonlight, thin at the edge and dark red at the root, and laid itself across the gap between the dragon and Tarrow's wrist. Heat bit through his sleeve.
 
-He slapped it away. It did not move.
+He dragged backward. The claw held him.
 
-The ravine was silent except for cooling rock and the drip of water from the ledge above. Esker forced his breathing into the count he used before a charge. Four in. Hold. Four out. He pulled his sleeve over the spreading red and dragged himself clear of the carcass.
+"Stop."
 
-By the time Galen returned with the horses, the sun had gone behind the western ridge and Esker’s sword belt was ten paces from him on the ground.
+More scales loosened. They climbed his bracer in overlapping rows, slipping under the iron rim. The first touched his skin and flattened there. Not dead shell. Warm. Clinging. A line of red ran over the back of his hand and along his forearm, rooting with a hundred sharp pressures that became one blinding ache.
 
-Galen took in the dead dragon, the belt, and Esker sitting with his left hand plunged into the spring pool. “Which of those should worry me first?”
+Tarrow struck at them with his free hand. The scales rang like struck tiles. The note moved through both arms now, through his shoulders, his teeth, the stone under his knees.
 
-“The hand.”
+The dragon exhaled. Its breath smelled of scorched rosemary. The claw opened.
 
-“Good. I was afraid you’d say the sword.” Galen tied both horses well up the ravine, beyond the reach of the dragon’s slack wing. He came down with the medical roll and the brisk frown he used whenever Esker spoiled a piece of equipment. “Bite?”
+Tarrow fell away with his transformed arm clutched to his chest. For three breaths the dragon lay still except for the wind moving its wing. On the fourth, no breath answered. The dim gold eyes did not close.
 
-Esker lifted his arm from the pool. Water streamed off crimson scales to his elbow. Steam followed.
+But the note continued inside him.
 
-Galen stopped. “That wasn’t there when I left.”
+He rolled onto his back. Above the escarpment, the stars stood hard and white. At first he took the warm flecks among them for pain in his vision. Then one crossed in front of a star. Far to the west, another changed direction.
 
-“It’s been a productive quarter hour.”
+Dragon slaying had taught Tarrow to read approach lines. He had made a living from them.
 
-The joke bought them one breath. Galen knelt and held his fingers near the scales without touching. “Feeling?”
+Every warm point in the sky was turning toward Dawnscar.
 
-“Too much.”
+* * *
 
-“Move the hand.”
+Othen returned by the lower path with a coil of climbing rope over one shoulder and stopped so hard that his heel skidded on shale.
 
-Esker did. The scales slid over one another as his fingers closed, perfectly joined to the motion. Galen’s frown deepened. He drew the small silver tongs from the roll.
+"Don't draw," Tarrow said.
 
-“Try one,” Esker said.
+Othen's hand stayed on his sword. "Show me both hands."
 
-“I was going to tell you not to flinch.”
+Tarrow raised the unscaled one. The other would not straighten. The red plates had reached his elbow and forced the bracer crooked, iron biting into the swelling beneath.
 
-“You were taking too long.”
+"That's one."
 
-Galen chose a scale near the edge and pulled.
+"The other is caught."
 
-Pain flashed white from wrist to shoulder. Esker’s free hand closed on Galen’s coat. The scale came away with a bead of blood beneath it, bright enough to glow in the dusk. The bare spot tightened, filled, and sealed under a new red plate.
+"On what?"
 
-Along Esker’s arm, every scale lifted at once.
+"Me."
 
-He plunged it back into the pool. Water hissed. The red advanced above his elbow, grain by grain, as if the wound had taught it speed.
+Othen looked past him to the dead dragon. The rope slipped down his shoulder, one loop at a time. "Can you stand?"
 
-Galen dropped the scale. It curled black on the stone. “We ride.”
+"If you stop asking from there."
 
-“We wait until that stops.”
+Othen came close enough to offer the rope end, not his hand. Tarrow used it to pull himself upright. The instant his boots took his weight, the note in his bones sharpened. Three warm specks in the north bent closer.
 
-“The keep has a surgeon.”
+Othen followed his gaze. "How many?"
 
-“The keep has a saw.”
+"Seven. Maybe eight."
 
-“A clean one, on feast days.” Galen rolled the instruments away with hands that did not hurry, which meant he was frightened. “You’re cooking the pool, Esker.”
+"There aren't eight left."
 
-He was. The little basin had gone cloudy with heat. Esker could feel his pulse through his whole body, each beat too strong, too hot. A prickling had reached his collarbone. He unlaced his gorget before the swelling trapped it and found red stippling the skin beneath.
+"Then your tally was wrong."
 
-“Help me out of the mail,” he said.
+Tarrow traced the approaches against the stars. The southern and western marks would cross Cinderwake before they reached Dawnscar. At their present height, they would pass between the fan anchors.
 
-They worked by rote. Galen loosened the side buckles; Esker lifted when told. The old familiarity steadied him until the mail came free and his undershirt pulled tight in unfamiliar places. His breath caught. It was not only swelling. His hips had shifted against the leather under-plates. The line of his chest had changed. Heat moved lower, deep and strange, rearranging weight and balance without the clean language of injury.
+Othen's thumb worked once against the sword guard. He did that when reciting an order he disliked. "We have to get you below."
 
-Galen looked once, then busied himself folding the mail out of the dirt. “Anything numb?”
+"Below where?"
 
-“No.” Esker flexed one foot, then the other. His boots still fit. His voice, when he spoke again, was rough but lighter. “Nothing missing that I need to stand.”
+"The company camp."
 
-“That is a low standard.”
+"Cinderwake is below."
 
-“It’s kept us alive.”
+The thumb stopped.
 
-His hair fell across his eyes. It had reached his jaw, darkening from brown to ember red as the last daylight left the ravine. He pushed it back and felt scales along both cheeks, delicate as chips of lacquer. When he bent to the water, gold eyes looked back through steam, their pupils narrowed to black strokes. Galen’s face sharpened in a way Esker had never seen before: every flush beneath the skin, every small branching vein, the heat lingering in an old break at his nose. Beyond him, the horses shone like lanterns under their hides.
+Tarrow had spent six weeks at Cinderwake Basin setting anchor stones, measuring lines across empty air, and folding chain into the launch trenches. He had known what the chain-fans were for. Three dragons, the captain had said. Possibly four if the northern flight had bred. Better one prepared basin than burning farms all summer.
 
-Esker looked up.
+Seven warm marks wheeled above the horizon.
 
-The first moving heat was so far west it might have been a spark caught in his eye. It banked. Another came from the north, then two from beyond the eastern ridge, warm strokes against the cold blue world.
+"You knew," Tarrow said.
 
-“How many dragons were in the spring count?” he asked.
+"I knew the route-keeper would call for help."
 
-Galen glanced at the dead one. “Seven confirmed. Twelve before today, if every shepherd is sober.”
+"It was meant to die in the basin."
 
-Esker counted eleven lights in the sky.
+"It broke east."
 
-All were coming toward him.
+"And called all of them."
 
-They saddled before full dark. Galen packed Esker’s armor across his own horse and wrapped a wet cloth around the scaled arm. Esker mounted with help he pretended not to need. His balance had altered by inches, enough to make every practiced adjustment wrong. The mare smelled the dragon on him and rolled her eyes, but his voice still calmed her.
+"That was the count given to me."
 
-“We take the lower track,” Galen said. “Two hours to the keep if we don’t spare them.”
+The words came too quickly and too completely. Othen always explained while there was still a procedure he could shelter inside.
 
-Esker watched the western light. It had been angling southeast. As the mare picked her way down the ravine, the light bent north.
+Tarrow's throat tightened. The sound that escaped him was not speech. It was the dragon's low note, broken by his smaller chest but no less forceful. The rope between them quivered. Far overhead, wings changed rhythm.
 
-“Stop.”
+Othen drew his sword halfway.
 
-Galen stopped because Esker had used the word he used on a hunt. The horses blew pale breath.
+"Put it back."
 
-The two eastern traces changed as well. One vanished behind a ridge and reappeared lower, correcting toward the mouth of the ravine.
+"That came out of you."
 
-Esker turned his mare back uphill.
+"I noticed."
 
-“What are you doing?” Galen asked.
+"Did you mean to do it?"
 
-“Testing.”
+Tarrow tried to answer. Heat pressed against the backs of his eyes. No second presence waited behind his thoughts—no dying dragon's memory, no instruction, no borrowed anger. There was only pain, his own fear, and a living vibration continuing without permission.
 
-“Test after the surgeon sees you.”
+"No."
 
-Esker rode to the dragon’s body. Across the cold distance, the moving fires corrected again.
+The sword slid into its sheath.
 
-Toward him.
+"Anchor map," Tarrow said.
 
-The thought arrived before the word did. He sat with it while the mare trembled beneath him. This body was not borrowed; every ache belonged to him. The old shape had belonged to him too. Esker could remember the exact drag of beard stubble under a winter mask, the summer Galen had split his lip with a practice stave, the mother who had named a son and taught him to sharpen knives. None of it had become false. But when Galen said, “He’ll die up here if we wait,” the pronoun struck like a buckle fastened one hole wrong.
+Othen glanced down the dark slope. "It's not on paper."
 
-“She,” Esker said.
+"Good. Start walking."
 
-Galen stared at her. The heat in his face rose.
+"The camp is closer."
 
-“If you need a word for the surgeon,” she added. “Use that one.”
+"Then warn them."
 
-He gave a single nod. “She’ll die up here if we wait.”
+"And say what?"
 
-It fit well enough to let her think.
+Tarrow pulled at the edge of his bracer. The iron did not move. "Say the bait climbed out of the trap."
 
-“If we ride,” Esker said, “they cross the valley. The mill, the charcoal camps, all the sheepfolds before the keep.”
+Othen stared at the scales, then at the seven converging flecks of heat. His shoulders lowered by the smallest measure.
 
-“They may cross them anyway.”
+"Four fans," he said. "North and east share a manual trigger. South and west are dawn catches. Receiving anchors on the inner rim."
 
-“They altered course when I did.”
+"Service releases?"
 
-“You can see that. You cannot see what they want.”
+"Wax-packed. We sealed them after testing."
 
-“Correct.”
+"How long to open?"
 
-“Then uncertainty is not a plan.” Galen turned his horse. “The ridge beacon is twenty minutes south. I light it, the keep shuts the valley road and sends lances here. You stay if you must.”
+"With a brazier? Ten minutes. Without one, no."
 
-Esker looked again at the eleven converging fires. She knew what iron bolts did to a dragon’s wing joint. She knew how quickly a frightened formation became a field of separate duels, and how often village roofs paid for the difference.
+"Then we lower the weights."
 
-“A beacon brings hunters,” she said. “They’ll loose at the first shadow.”
+"Two of them. Maybe."
 
-“That is what hunters are for.”
+"Start with maybe."
 
-“One dragon, yes. Eleven over men packed on a ridge?”
+They descended.
 
-Galen’s jaw set. “And if the eleven are here to finish whatever that one started?”
+The path narrowed under the escarpment. Tarrow kept his transformed arm uphill and his other hand on the rock. Every contact gave him too much: the night's stored warmth beneath lichen, the hollow behind a seam, the faint hammer of Othen's boots traveling through the ridge. The new senses did not arrange themselves into meaning. They arrived as pressures without labels.
 
-“Then the beacon burns while you ride away.”
+Halfway down, the collar of his armor stopped him.
 
-She dismounted. Her knees nearly folded. Galen caught her under the unscaled arm, bearing her weight until she found the new center of it.
+He sucked in a breath. The gorget had always sat two fingers loose. Now its rim pressed against a ridge of scales growing along his neck, and the breastplate pinched beneath his arms. His heartbeat pushed heat against the iron. Red strands fell across his sight.
 
-“Take the horses above the north cut,” she said. “Keep the valley side of the ridge. If they follow me, you’ll be outside the circle.”
+Othen turned. "Your hair."
 
-“Stop arranging my retreat.”
+"What about it?"
 
-“Stop making it untidy.”
+"It wasn't that color."
 
-He let go once she stood. “I’m keeping one horse. And the flare.”
+Tarrow caught a strand. Even in starlight it burned dark red against his glove. "Armor first."
 
-“Keep your sword too.”
+Othen took out his short field saw. "I need to cut the left shoulder strap. Then the collar rivet."
 
-“Generous.”
+Tarrow set his back against the rock. The note in his bones made the saw blade hum before Othen touched him.
 
-They led the horses into the north cut and hobbled them behind a spur of rock. Esker returned alone to the dead dragon. She carried her bow, sword, and three heavy bolts to the far wall of the ravine and laid them where she could reach them only by crossing open ground. It was not trust. It was time: enough space between reflex and killing for observation to enter.
+"May I?" Othen asked.
 
-Galen watched her from behind a shoulder of stone. He had the brass flare tube under his coat. His sword lay bare across his knees.
+The question steadied more than reassurance would have. Tarrow nodded once. "Strap first. Stop if I raise my hand."
 
-Night closed. The fever climbed.
+Othen cut leather, not metal. When the strap parted, the breastplate sagged. Tarrow raised his hand. Othen stopped.
 
-Esker spent the first hour in the spring, wet cloth over her face, seeing the sky through gold. The lights came singly. One from the north was enormous and slow; two from the south braided around each other until they reached the valley, then separated. Each correction tightened on the ravine. None diverted toward the keep.
+"Now the rivet," Tarrow said after he could breathe again.
 
-The scales spread no farther than her cheeks, throat, and left arm, but the rest of her settled into its changed shape. Her pulse remained a hammer. Hunger came sharp enough to nauseate her. She drank until the spring tasted of iron and could not tell whether the taste was water or herself.
+Sparks jumped from the iron. Othen kept the saw angled away from skin. The broken collar came free with a scrape, and cold air touched the new scales along Tarrow's throat.
 
-Near midnight, the first dragon arrived.
+They left the breastplate beside the path. The old shape of it looked absurdly small.
 
-It came without fire or challenge, a blue-black shape blotting half the stars. The downbeat of its wings flattened grass along both rims and drove grit beneath Esker’s eyelids. Galen rose behind the rock, flare tube in one hand, sword in the other.
+At the next seep, Tarrow crouched to drink. The water showed him a face he knew by placement rather than detail: his scar at the left brow, his long nose, his mouth pulled tight. Everything between had shifted. Red scales stippled both cheeks. One ear rose to a fine point through the changed hair. His eyes caught the starlight and held it, brilliant gold around narrow black slits.
 
-“Wait,” Esker said.
+He waited for horror. What came first was the practical certainty that the old bracer would have to be split before his hand went numb. Beneath that, quieter, something in him finished turning toward itself.
 
-The dragon landed across the ravine from the corpse. It was smaller than the dead ash-red, lean from winter, one horn broken at the root. Its foreclaws gouged shelves in the shale. Steam streamed from its nostrils.
+The next breath belonged differently in her chest. When Tarrow reached inward for the person crouched above the water, she was there. Not a stranger where Tarrow had been. Not the dead dragon looking out through her. Tarrow, still Tarrow, looking out through gold.
 
-Its silver eyes went first to the body.
+She dipped her scaled hand into the seep. Steam curled between her fingers.
 
-Then to Esker.
+Othen had looked away. "Ready?"
 
-Her muscles found the absent sword. Every lesson in her life demanded distance, cover, a strike before the breath swelled the throat. She kept her hands open on her knees.
+"No," she said. Her voice rasped around the buried note. "Move anyway."
 
-The blue-black dragon lowered its head. Not to her. It nosed the dead dragon’s folded wing and inhaled along the wound, then drew back so violently its talons cracked stone.
+He nodded. No explanation. They went on.
 
-Galen thumbed the flare cap loose.
+* * *
 
-The dragon looked at the sound. Its throat brightened with banked heat.
+The first dragon found them above the old marker posts.
 
-“Galen,” Esker said.
+It came out of the west pale as bone, wings wider than the switchback below. Tarrow heard no cry. The air itself struck her—one hard downward pressure, a pause, then two lighter strokes that flattened grass and shoved Othen against the rock.
 
-He did not answer.
+The mantle answered through her forearm.
 
-“If its throat swells again, use it. Not before.”
+The pale dragon banked closer.
 
-“You can’t reach your bow.”
+"That made it worse," Othen said.
 
-“That was the idea.”
+"Useful."
 
-“A poor one.” But Galen lowered the tube a finger’s width.
+"How?"
 
-The glow in the dragon’s throat faded. It climbed to a ledge above the corpse, turned twice like an animal unable to settle, and crouched facing the body.
+"Now we know."
 
-The second dragon circled until the moon crossed a hand’s breadth of sky before it landed. Copper-colored and young, it chose the opposite rim. The third, gray as old snow, did not land at all; it clung to the ravine wall, wings half spread, keeping stone between itself and the blue-black. More arrived through the next hours. A green female with a torn flight membrane drove the copper one from its ledge. Two narrow white dragons screamed at each other in the upper dark and took separate ridges. Five more claimed outcrops or remained aloft. Eleven in all: the sober shepherds had been right. None came to Esker. None left.
+She pressed her scaled arm against the marker stone and tried to shorten the tone. The response ran through the ridge. Somewhere below, something large answered with a pulse of vibration. Not the pale dragon; it was still airborne. A dark shape lifted from a spur farther east, one wing notched by an old tear.
 
-They did not form ranks. They did not share silence. Their heat crowded her vision until the ravine walls seemed to burn from within, each body its own weather.
+Two soot-colored dragons arrived together from the south. Light traveled along their flanks in uneven amber bands. One flashed twice while the other stayed dark; then they traded positions, the dark one climbing above its companion. Their lights did not match the note in Tarrow's bones. They did not match each other for long.
 
-At some point Galen brought her his spare coat. He came low, never hiding his hands from the watching ledges, and set it beside her rather than draping it over her shoulders.
+No words waited behind any of it.
 
-“They care about the carcass,” he whispered.
+Tarrow pointed down the slope. "Wire marker."
 
-“Some do.”
+Othen found the old guide line stretched waist-high between two posts, left from the trap survey. He plucked it with one finger. The scarred dragon on the eastern spur drove its claws into stone. A coarse tremor passed under Tarrow's boots, stopped, then returned from a different angle.
 
-“All of them have looked at it.”
+The soot pair's flank light went dark.
 
-“All of them have looked at us.”
+"Again," Tarrow said.
 
-The blue-black dragon shifted above them. Pebbles ticked down the wall.
+Othen plucked twice, then dragged his knife hilt along the wire. The pale dragon climbed at the scrape. The soot pair split apart. The scarred one remained on the spur, head low, feeling the ridge.
 
-Galen sat on his heels. “Your fever?”
+"They know chain," Othen said.
 
-“Worse.”
+"They know something they dislike."
 
-He held out a water skin. Esker drank. The leather smoked where her scaled hand touched it, so he took it back before the seam could weaken.
+"Same result."
 
-“Half an hour to dawn,” he said. “After that, they’ll see the smoke from the watchtowers even without a flare.”
+It was not. A dragon that recognized chain might avoid Cinderwake. A dragon reacting to vibration might fly straight into it from the wrong height. Tarrow tried the bone note again, this time with her forearm lifted rather than braced to stone. It rolled outward. Every dragon came nearer.
 
-“Then we have half an hour.”
+She cut it off with a cough.
 
-“For what?”
+The pressure behind her eyes pulsed. She turned her arm. The scales caught the first gray hint of the eastern sky and threw back a broken red-gold flash.
 
-Esker looked at the carcass. Under gold sight it was nearly dark now, except for a buried glow around the heart and a thin thread of heat that appeared to run from its blanched throat to the scales on her arm. Whenever a dragon moved, that dragon’s eyes found one end of the thread or the other.
+One soot dragon veered. The other hesitated, then followed at a different height.
 
-“They found the body through me,” she said.
+"Not a route," Tarrow said.
 
-“That’s a guess.”
+"A warning?"
 
-“Yes.”
+"Maybe glare."
 
-“I liked you better when your guesses came with odds.”
+"You use maybe too."
 
-“One in three they take it. One in three they burn everything here. One in three it’s something we haven’t survived often enough to name.”
+"Walk."
 
-“Better.” Galen looked toward the east, where the black sky had softened to charcoal. “At first light I signal.”
+Behind them, the pale dragon beat the air once—hard enough that the pressure pointed down the switchback. The scarred dragon answered through stone. The soot pair kept their distance and traded amber bands. Higher still, a narrow green shape held perfectly north of Tarrow no matter how the path curved, while an ochre dragon rode the warm air without signaling at all. The seventh stayed above cloud level, known only by a copper-hot trace and the bitter scent the wind carried ahead of it.
 
-“If one turns down-valley, signal now.”
+Each dragon held a different distance. None answered in the same way.
 
-“And if they turn on you?”
+Cinderwake Basin opened below them just before first light.
 
-“Do what you came here to do.”
+It was an empty bowl of black stone, too poor for grazing and too dry for houses. Tarrow had once admired it for those reasons. Four launch trenches cut the rim. Chains lay folded inside them like iron ribs, each fan aimed across the basin toward a receiving anchor. When the counterweights fell, the ribs would spread through the air and lock into a wall no wing could turn inside.
 
-He looked at her then, not at the scales or the altered face. “I came to hold the horses.”
+From above, ordinary eyes saw only stone.
 
-“You’ve always lacked ambition.”
+Tarrow's gold sight found every fine guide line. They were cold silver scratches crossing the dark.
 
-His mouth tightened. It was not quite a smile. He went back to the stone with the flare, leaving his coat beside her.
+"West first," Othen said. "Shorter descent."
 
-Dawn began as a line on the eastern rim.
+"South first. Dragons are lower there."
 
-The dragons changed before the light reached them. The old gray released the wall. The blue-black rose from its ledge. Across the ravine wings opened, not together but in answer, one after another, until the air cracked with them.
+"West weight is twelve spans. South is nineteen."
 
-Galen uncovered the flare.
+"South."
 
-The green dragon dropped beside the corpse and hooked its foreclaws under the base of one wing. The copper landed at the tail, was shouldered away by a white, and seized lower down. They snapped and battered at each other, no solemn company, but their quarrel kept returning to the same labor. The carcass shifted.
+Othen opened his mouth, shut it, and ran for the southern weight well.
 
-Galen moved out from cover. He stood between the ravine mouth and the dragons, sword low, flare angled at the brightening sky.
+Tarrow climbed down into the basin.
 
-Wingbeats struck from above. Dust erased the ledges. Esker covered her eyes with her scaled arm and saw through the red plates: eleven bodies in motion, three gripping the dead dragon, the others working the air around them. The ash-red head dragged once through the shale, its pale throat turning toward her. The thread of heat pulled taut from corpse to arm.
+The mantle's tone grew stronger as she descended, each hard breath tightening whatever living structure had grafted beneath her skin. She hated the way the dragons tilted toward it. She could not order them away. All she could do was take the sound where the chain-fans had gaps, show them the wire, and trust creatures she had hunted to make their own choices with poor evidence.
 
-Pain jerked Esker forward. Her scales stood on edge. She planted both hands against the ground and held where she was.
+At the basin's center she stood on the exposed cap of the trigger engine and lifted her forearm toward the brightening east. Irregular light flashed from the red scales. Not the soot pair's pattern. Not any pattern she understood.
 
-The body lifted clear.
+The pale dragon climbed instead of descending. The narrow green one slid farther north. The ochre dragon continued toward her.
 
-The thread stretched until it seemed to cross the whole ravine. Then the blue-black dragon struck the corpse with a narrow breath of white flame.
+Othen's rope hissed through the south brake. The counterweight lowered into its well rather than dropping free. One fan disabled.
 
-Fire ran over ash-red scales. It did not fall. Wing currents gathered the blaze, folded it inward, and bore it above the rim. Other dragons breathed into it from different heights—orange, blue, a green-white glare that left shadows inside Esker’s eyes. For one impossible moment the dead dragon became the brightest thing in the morning, carried on claws and rising air.
+Tarrow moved west across the basin, drawing the tone after her. She exposed a guide line by kicking pale dust over it. The leading soot dragon saw the line and flared amber down its entire flank. Its companion broke right; the first broke left. Separate choices, both clear of the western trench.
 
-Galen did not fire the flare.
+Stone thudded underfoot. Othen had reached the west brake.
 
-The procession broke apart almost at once. The white dragons veered north, fighting over a charred length of wing. The copper followed the green and was driven away again. The old gray climbed alone into sunlight. Burning fragments fell, and the circling dragons caught most before they reached the ground. What they missed went dark in the spring.
+The scarred dragon struck the eastern ridge with both foreclaws. Vibration poured into the basin. Tarrow felt the buried anchor stones answer—four fixed points, two heavy, two changing as Othen eased their loads.
 
-The blue-black passed low over Esker. Its silver eye regarded her, unreadable and without gentleness. The pressure of its wing forced her flat. Then it banked after the burning remains.
+Then three white sparks rose from the northern rim.
 
-No dragon bowed. None waited for her. Within minutes they had become separate marks against separate horizons.
+"Early!" Othen shouted.
 
-As the last one dwindled, the buried heat in Esker’s arm snapped out.
+The company had seen movement. They were not waiting for sunrise to melt the catches.
 
-She woke with her cheek against cold stone and Galen’s hand at the back of her neck. Her blood still ran hot, but the punishing beat had eased. The spring no longer steamed beside her.
+Tarrow heard the manual trigger race through the buried rod: a hard metallic knock passing north to east.
 
-“Can you stand?” he asked.
+"Two live," Othen called. His explanations were gone. "North. East."
 
-Esker looked toward the rim. Empty sky. The flare remained unfired in Galen’s belt.
+The north counterweights fell.
 
-“Ask me when you’ve brought the horse.”
+Chain erupted from the trench. The first rib opened with a crack that split the morning. The pale dragon kicked upward on a blow of wing pressure. The ochre dragon folded one wing and dropped beneath the spreading iron. The narrow green dragon vanished sideways into the last dark above the rim.
 
-“I’m asking before I commit the horse.”
+The scarred dragon did not retreat. It drove from the ridge into the exposed trigger engine.
 
-She rolled onto one elbow. The red scales along her arm flexed and lay down again. They were not fading. Neither was the new fall of hair across her face, nor any other change the dead dragon had left in her. Beyond the ravine waited a surgeon with a saw, a keep full of slayers, and a country where every child knew what color a dragon’s blood burned. The first ledge toward all of it was six steps above her.
+Stone burst. The northern fan twisted off line. One chain rib struck the basin floor; another whipped through the air and tore a bright line across Tarrow's raised forearm. The cut was shallow. Her blood welled almost black against red scale, then steamed in the cold air.
 
-Esker held out her hand. Galen braced his wrist against hers, careful of the scales, and pulled her upright. She swayed until the ravine found its proper place around her.
+The east anchor began to ring.
 
-“North cut,” she said.
+Tarrow ran toward it. Behind her, Othen counted—not dragons, not losses, only the remaining mechanism.
 
-Galen retrieved his coat and settled it over her shoulders. “Slowly.”
+"East weight moving. Four. Three."
 
-They climbed toward the horses as the sun entered the empty ravine behind them.
+The receiving anchor stood chest-high, its service ring buried under a gray plug of wax that should have needed a brazier. Tarrow jammed her bleeding forearm against it.
+
+Wax softened. The smell was sharp and oily. Her hot blood ran into the seam, and the plug sagged around the iron ring.
+
+"Two!"
+
+She hooked scaled fingers through the ring and pulled. It moved half a finger, no more. The east chain-fan opened behind her with a rolling shriek.
+
+The bitter scent from above flooded the basin. The copper-hot dragon dropped through cloud, then flared both wings and stopped in the sky. Its downdraft hammered Tarrow against the anchor.
+
+The ring shifted.
+
+She tore it free. The receiving eye opened, releasing the guide line before the first chain rib reached it. Tarrow flung the slack line into the launch trench. The fan spread crooked, found no tension, and began to fold under its own weight.
+
+"One," Othen said.
+
+He hacked through the east drive rope where it crossed the brake.
+
+The final counterweight dropped straight down its maintenance well instead of pulling the drive drum. The severed rope whipped loose. Iron ribs collapsed across the empty eastern floor with a sound like a cartload of tools overturned on stone.
+
+No chain closed the sky.
+
+For a few breaths, nothing moved except dust.
+
+Then the ochre dragon climbed out of the basin. The pale one remained high, beating slow pressure through the dawn. The soot pair faced opposite directions on the southern rim, flank lights passing without synchrony. The scarred dragon dragged one foreclaw across the broken engine and sent a rough vibration through it. North of them, the narrow green dragon held its fixed point in the sky. The copper-hot dragon circled once, shedding the bitter scent of crushed leaves.
+
+The note inside Tarrow changed.
+
+As responses arrived through air, stone, light, and heat, the mantle's living tension eased. The call fell below hearing, then below bone. What remained was her own pulse and the heat of blood drying on her arm.
+
+The pale one left first, westward. One soot dragon followed the southern ridge while the other climbed east. The ochre dragon searched the launch trenches before departing north. The narrow green shape became a line and vanished. The scarred dragon stayed long enough to wrench the trigger engine from its bed, then pushed off without looking back. Last, the copper-hot dragon crossed low over Tarrow. Gold met gold for one measuring instant. Its wing pressure bent her red hair across her face.
+
+Then it, too, chose a direction.
+
+* * *
+
+Othen found Tarrow beside the east anchor, working a strip of cut sleeve around her forearm. The cloth smoked where it touched the wound.
+
+"Loose," she said. "It'll swell."
+
+He retied it with space beneath the knot. His hands shook now that numbers no longer needed them.
+
+Voices carried faintly from the northern rim. The company would reach the basin soon. Tarrow looked at the broken trigger engine, the disabled weights, and the tracks seven dragons had left in dust and stone. Her old breastplate lay somewhere above Dawnscar. Her body had not begun to reverse. She did not know whether it could.
+
+Othen tested the bandage with one finger. "Can you climb?"
+
+"Yes."
+
+"North rim?"
+
+"Later. Check the trenches."
+
+They walked the south fan first. Othen counted folded chain. Tarrow followed the cold scratch of guide wires with her new sight, cutting each one close to its anchor. In the west trench they found a pale membrane caught on an iron burr, no blood on it. At the broken engine, the scarred dragon had left three deep claw marks and a warm hollow in the stone.
+
+The sun cleared Cinderwake's rim.
+
+Tarrow lifted her face to it. Gold eyes narrowed. Red scales held the heat. Beyond the basin, seven separate shapes were already diminishing into seven reaches of sky.
+
+"Wire," Othen said.
+
+She looked down. A last guide line ran ankle-high into the rocks.
+
+Tarrow put her blade under it. "Hold the anchor."
+
+Othen braced both hands against the stone. She cut.

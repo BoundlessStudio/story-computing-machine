@@ -6,16 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tirra | new | The huntress's present-life name; targeted checks found no exact, alias, close-spelling, or confusing prior use. |
-| Eagle Queen | new | Tirra's bounded prior identity and historical title; targeted checks found no conflicting title use or implied link to another queen. |
-| Dajan | new | The royal trail warden; targeted checks found no exact, alias, close-spelling, or confusing prior use. |
+| Yavren | new | Also the last Eagle Queen and the Queen, her prior incarnation and nonhereditary office rather than a separate person. No exact, alias, close-spelling, or confusing reuse was found. |
+| Pelka | new | Yavren's adult foster sister and trapline partner. No exact, alias, close-spelling, or confusing reuse was found; nearby forms including Pelmara Jossan, Peleth, Belkin, and Orrin Pell remain distinct by spelling, cadence, and role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Eyrpass Valley | new | The seven-king valley; targeted checks found no exact, alias, close-spelling, or confusing prior use. |
-| Harrowscar | new | The mountain holding the armor and execution chamber; its full form and mountain referent remain distinct from the legacy polity Harrowfast. |
+| None | none | The mountain, valley, eyries, roads, settlements, and unnamed pass remain unnamed. |
 
 ## Continuity
 
@@ -23,7 +21,11 @@ Verdict: PASS
 - Universe: PASS
 - Internal: PASS
 
+## Craft
+
+- Dialogue: PASS
+
 ## Findings
 
 - Blocking: none
-- Notes: The wild eagle stays untranslated, the armor remains a nonliving preset mechanism completed by living contact, and bounded prior-life memory preserves Tirra's present personhood. Dajan's route-and-casualty speech and Tirra's spoor-and-slope replies remain distinct, alter the pursuit, and do not resolve the surviving warrant through dialogue.
+- Notes: The eagle's repeated bow resolves as inherited nesting distress rather than allegiance or tameness, while the living talonmail colony's bounded impressions awaken Yavren's own prior-life memories without erasing her present identity or choice. The three detachments retain distinct aims, so their witnessed false death and subsequent inability to coordinate are credible; the controlled molt opens the sealed vent, returns the colony to its inner shelf, stabilizes the fault and eyries, and permits the sisters' escape. Dialogue remains context-bound and speaker-specific: Pelka grounds through immediate tasks and recent particulars, Yavren loses nouns and fluency under memory pressure, and the detachments reason from casualty, secrecy, or captured value. The final road-money, bandage, and pie exchange stays ordinary instead of explaining the resolution again.

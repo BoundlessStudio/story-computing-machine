@@ -8,342 +8,402 @@ canon: false
 
 # The House of Possible Uses
 
-The first thing the Museum of Safekeeping did at my uncles' house was make a table lamp weigh more than a piano.
+By half past four I had cleared a path from my uncles’ front door to the stairs, but only if everyone agreed to turn sideways at the umbrella stand.
 
-I arrived in time to see it happen. Two strangers in grey field coats stood on the porch among the dead geranium pots, the bundled garden canes, and six boxes marked **HALL**, though the hall was on the other side of a front door that could open only the width of Emrys's stomach. Uncle Emrys had one hand on the jamb and the guilty brightness he wore when he'd arranged something for everyone else's good.
+That was not the path we had discussed.
 
-Uncle Wystan stood behind him in the gap.
+“The agreement was shoulder-wide,” I said.
 
-"It's an appraisal," Emrys said.
+Tobren looked down at the washbasin occupying half the hall. Its enamel had worn through in two thumb-sized places. “It’s leaving tomorrow. I found someone who needs the taps.”
 
-"They have a cage," Wystan said.
+“The taps aren’t attached.”
 
-The cage was a black case on wheels, squat enough to pass for expensive luggage if not for the locking bands and the small dial trembling on its lid. Beside it lay a folding steel frame, a box of pale wooden blocks, and two red telescoping posts. The younger agent knelt at the porch vent with a cable running beneath the house.
+“Hence the basin’s staying here until they are.”
 
-I had not been inside for eleven months. Wystan noticed me looking at the narrowed doorway.
+Sael, my other uncle, stood three steps up with his inventory book pressed to his ribs. “The measurement began at the coat hooks. You began at the jamb.”
 
-"You could have phoned," he said.
+“A person cannot begin at the coat hooks.”
 
-"Emrys did. He said come now and don't mention the Museum."
+“You did.”
 
-Emrys winced. "I said it would be easier to explain in person."
+I had, by climbing over a crate of winter stove rings. I dragged the basin into the parlor and put a chalk line across the hallboards: front door, stairs on the right, parlor on the left, then the dining-room door, then eighteen paces straight back to the kitchen. The kitchen filled the rear of the house. Its back door opened to the yard. Its pantry stood left of the sink.
 
-The woman in the field coat stepped away from the case. She was perhaps fifty, with silver threaded through her cropped hair and a pencil tucked behind one ear. "Linet Borne. Field conservator. This is Pascal Redd. We are not here to appraise the ordinary contents of your home."
+That was the house I had learned as a child. It was useful to say it to myself whenever I visited.
 
-"Hear that?" Emrys said.
+Outside, somebody knocked three times. Not impatiently. Officially.
 
-"I heard *ordinary*," Wystan said. "That's how collectors talk before they find a category."
+Tobren picked up the basin again.
 
-Linet did not reach for the business card he refused to take. "Mr. Emrys sent us a photograph of a brass balance. Two pans, no weights, maker's stamp filed off. We believe it is changing the load carried by the house. If we're wrong, we leave. If we're right, the front joists may already be beyond their safe load."
+“No,” I said. “Leave it.”
 
-"Old houses settle."
+He set it down inside the parlor with care. Sael descended and checked the chalk line against his book.
 
-Pascal looked up from his cable. "They settle down. This one shifts sideways when he lists uses."
+Kezra Vonn waited on the step in a brown museum coat, holding a document case against the drizzle. Daskar Avel stood behind her with a square metal frame strapped to his chest and a black, padded jar suspended in its center by three short webbing loops. Neither agent tried to see past me.
 
-Wystan's stare moved to Emrys.
+“Enna Laird?” Kezra asked.
 
-Emrys lifted the lamp from the little table wedged behind the door. It was a brown ceramic thing with a buckled shade. He held it easily, though I remembered it as heavy enough to require both hands when I'd helped move it from their old flat eighteen years ago.
+“Yes.”
 
-"Take this, then," he told Linet. "Test it."
+“Tobren and Sael Laird?”
 
-"No," Wystan said.
+My uncles answered together, then glanced at each other as if one of them had duplicated the other’s property.
 
-"You said the switch is gone."
+Kezra opened her case. “We’re here about one compression marker transferred from a bankrupt salvage estate. The sale record puts it in a mixed lot of fittings purchased by Tobren Laird eleven years ago. May we inspect that lot and the rooms through which it has moved?”
 
-"The base is sound. It could be drilled for a cable, or you could mount a bowl on it, or—"
+“Drawer pulls,” Tobren said. “Not mixed fittings.”
 
-Pascal's instrument chirped. Not loudly. That made it worse.
+Sael said, “It was first stored in the east bedroom. That room is excluded.”
 
-Linet held up an empty hand. "Mr. Wystan, if you truly decide the lamp has no future use here, its stored load may return to it. That takes several seconds. Don't decide while someone is holding it."
+“The attic’s excluded,” Tobren added.
 
-Wystan gave a short, contemptuous laugh. "It has no *stored load*. It has a ceramic base. Emrys, put it down."
+“You told me the east bedroom,” I said.
 
-Emrys set it on the table. The three legs rocked under it.
+“I’m telling them the attic.”
 
-Wystan looked at the agents, at their cage, then at me. Pride worked in him like a splinter. "Fine. Take the ugly thing."
+Kezra made two marks on her form. She did not smile. “We can begin with the current box, the route from the front door, and rooms both residents consent to. If the evidence points beyond that boundary, we stop and ask again.”
 
-The lampshade dipped.
+Daskar touched the frame on his chest. “I need one clear exit and a lane this wide.” He held his hands apart, wider than our chalk marks. “Anything unstable above the shoulder comes down before I pass it.”
 
-The table squealed across the floorboards. One leg punched through its own lower shelf. Emrys jumped back as the lamp sank, slowly and without breaking, into the collapsing table. The front door moved against his shoulder. Somewhere under us, a joist answered with a crack like a rifle shot.
+Tobren’s mouth tightened. Sael looked up at the shelf bridging the hall above our heads. It held two fans, a sack of curtain rings, and my grandmother’s blue soup tureen.
 
-Pascal read his instrument. "Four hundred eighty kilos returned. Front wall unloaded eight-forty. These boards have it now."
+“The tureen stays,” Sael said.
 
-For a moment, no one spoke.
+“It can stay somewhere else,” I said.
 
-Then Wystan said, "It was a very solid lamp."
+That was how the agents entered: not by defeating my uncles, but by waiting while Tobren carried the fans into the parlor and Sael moved the tureen himself.
 
-That was how we got inside.
+The drawer-pull box lived under the dining-room table. Getting it out required shifting a sewing-machine cabinet that had not held a sewing machine since I was twelve. Tobren objected when Daskar reached for it.
 
-Linet set the conditions on the porch, where all of us could still retreat. Nothing would be removed without the uncles' agreement. Nothing ordinary would go to the Museum. Any object that began taking back its load would go into the folding frame. Pascal assembled it around the lamp, with sacrificial blocks on the strip of exposed foundation just inside the front room. The blocks cracked while the impossible weight drained away; after half a minute, the lamp was only a lamp again, and Pascal folded the frame. It could hold one return at a time. The black case was for the brass balance only.
+“Lift from the base. The left hinge can’t bear twist.”
 
-"You keep saying *return*," I said.
+“Then you lift,” Daskar said. “I watch the ceiling.”
 
-Linet crouched to show us Pascal's display. A crude plan of the house pulsed in yellow and red. "The balance appears to answer a keeper imagining an object's possible use. It gives that possibility weight, then diverts most of the weight into the nearest enclosing structure. Letting go on purpose brings the load back to the object over several seconds. The peak can last most of a minute before it drains. Removing an object from the balance's reach can do the same thing."
+That was Daskar’s entire manner. He did not pretend an instruction was a discussion.
 
-"And doubt?" I asked. "He doubts things every day."
+Tobren eased the cabinet out. Sael counted the floorboards it crossed. Behind it, the wallpaper showed a pale rectangle where the sun had not reached.
 
-"Casual doubt doesn't seem to matter. Deliberate surrender does. That's why I need to know what each choice means before we act."
+The box contained brass cups, bone knobs, iron loops, ceramic drops, and a green stone the size of a small plum. Kezra crouched without touching it.
 
-Wystan folded his arms. "A machine that punishes tidying. Convenient."
+“Same banding as the sale image,” she said. “Size within error. That establishes resemblance and chain of custody, not function.”
 
-"It isn't a machine," Linet said, then glanced at the shuddering dial on the case. "Or not one we understand. It isn't deciding anything. The imagining comes from someone alive. The brass only shapes it."
+“It kept a pantry door from banging,” Tobren said. “That establishes a function.”
 
-Emrys rubbed his palms on his trousers. "Could we find it before the floor goes?"
+“A use,” Kezra corrected. “Not necessarily the original one.”
 
-The path through the front room had once run between the piano and a wall of bookcases. Now a column of magazines occupied the turn. I knew not to touch the column. Its bottom third was gardening, its middle was railway modelling, and the top consisted of holiday catalogues whose glossy pages slid if you breathed too warmly.
+Daskar unlatched the instrument on his chest. Three shutters opened on what I had taken for a lantern. One gave off a dry tick that I felt in my teeth. The second warmed the air without visible light. The third made a thin silver thread inside the glass bow toward the green stone.
 
-"The scale was on the kitchen dresser," Emrys said. "Beside the blue jug."
+“First pass,” he said. “Nobody moves the box.”
 
-"No, it wasn't," Wystan said. "It was behind the radio valves."
+The tick repeated.
 
-"Same dresser."
+Something whistled in the wall behind the sewing cabinet: one rising note, a pause, then two shorter notes. From the kitchen came a red flash strong enough to stripe the dining-room ceiling. Under my knees, the floor thudded twice.
 
-"Different geography."
+Tobren stood. “There’s a hollow behind the cabinet.”
 
-Linet looked at me.
+Kezra said, “I heard a tone behind it.”
 
-I hated that I knew what he meant. In that house, rooms were too changeable to be useful. Things located other things. The batteries were under the chair that needed webbing. The stopcock was beyond the crate of school atlases, left at the artificial Christmas trees. When I was ten, Wystan had tied orange string around anything I was allowed to shift without asking. There had been less orange every year.
+“So did I.”
 
-"To reach the kitchen," I said, "go past the piano stool, turn at the umbrellas, and keep your shoulder against the curtain. Don't lean on the stack with the green biscuit tin."
+“That isn’t the same claim.”
 
-Wystan's mouth tightened. It was almost approval.
+The lantern ticked again. The whistle came again, matched in timing but not pitch. Red crossed the ceiling. The floor pressed up through my soles.
 
-Pascal went first, placing flat sensors on the boards. Linet followed with the frame against her back. I went after her, translating when Wystan called instructions from behind.
+Sael said, “The pulses are farther apart.”
 
-The house smelled of paper, cold dust, and the sweet metallic tang of old electronics. None of that was new. Neither were the towers of takeaway tubs washed for seed trays, the vacuum cleaners awaiting one complete motor among them, or the jam jars packed mouth-down in their original boxes. The new thing was how lightly some objects moved. Linet brushed a finger against a crate of floor tiles and it skated half an inch. She caught it before it cleared the dust-print beneath it. The boards bowed.
+“Confirmed,” Daskar said. “Test stops.”
 
-"Charged," she said. "Strongly."
+He shut the lantern, but Tobren already had his fingers under the cabinet’s back edge.
 
-"Those are for the pantry," Wystan said.
+“Wait,” I said.
 
-"We don't have a pantry," Emrys said.
+“If there’s damp in that wall, waiting costs plaster.”
 
-"That is why it still needs tiles."
+He pulled.
 
-We left them.
+Wallpaper tore around a narrow wooden door where there had never been one. Cold pantry air breathed through the crack. Beyond it stood white shelves loaded with jam jars, folded sacks, and three identical yellow tins.
 
-At the kitchen choke point, Emrys's route vanished. Four knee-high magazine stacks occupied the space between the dresser and the sink, their spines freshly aligned.
+Our pantry had one yellow tin. It stood beside the flour scoop, off the kitchen.
 
-"You moved those," I said.
+For several seconds none of us spoke. The red light in the kitchen flashed once more, though the lantern was dark.
 
-"Only from the landing. They were in the way."
+Sael stepped to the new threshold and stopped without crossing it. “Seven shelves,” he said. “Ours has six. The wall occupies the yard.”
 
-"Of what?"
+Tobren leaned around him. “We could have had seven.”
 
-"Of falling over."
+“We did not.”
 
-Wystan stood very still behind us. "When did you move them?"
+I put my palm on the dining-room wall. I knew the other side: a strip of nettles, the rain barrel, the yard fence. The plaster was cold all the way through.
 
-Emrys busied himself with a box of plug adapters. "Tuesday. Or Wednesday."
+Daskar backed us toward the hall. “Exit check. Slow feet.”
 
-Pascal's display gave another soft chirp. "We don't have time for the marriage portion. Rear stair beam is carrying six point two tonnes over estimate."
+I went first. The front door opened easily. On the other side lay the same hall, viewed from beside the coat hooks. I could see the back of my own shoulder disappearing around the door.
 
-"They're magazines," Emrys said.
+I slammed it. The impact traveled under us in three quick pulses.
 
-"The magazines aren't carrying it," Linet said. "The house is."
+“Don’t do that again,” Daskar said.
 
-The plug adapters were for phones none of us owned anymore. Wystan said their copper contacts could be harvested. Emrys said he had never harvested one. Wystan said that was because every time he set out his tools, Emrys put something on top of them.
+“I observed the hall,” I told Kezra, because she had made the distinction matter. “I do not know what that means.”
 
-"Do you want these enough to let them hold up the kitchen?" I asked.
+“It means the exit has folded,” Tobren said.
 
-That reached him where the agents' numbers had not. Wystan looked at the ceiling, where a brown seam had opened beside the light fitting.
+“No,” Sael said quietly. “It means this door does not currently lead outside.”
 
-"No," he said. "Not these."
+The difference did not comfort anyone, but it kept Tobren from boarding the door shut.
 
-Linet did not congratulate him. She had Emrys put the box into the cradle while Wystan stood close enough to be heard. "You are giving up every intended use for this box as it is now?"
+Kezra took out five numbered paper tags and set one at each known threshold. “The instrument produced three outputs. At least three objects produced responses: sound, light, and vibration. Proximity doesn’t prove they belong together. We isolate one response at a time.”
 
-"I am giving up fourteen useless plugs," he said. "Not copper generally."
+“You came for the stone,” Tobren said.
 
-"That is sufficient. Let go."
+“I came because a record identified the stone as dangerous. That record said nothing about your wall growing a pantry.”
 
-The cardboard swelled at the bottom. The first block split with a dry pop. Then the second crushed cross-grain, slowly enough that I saw the wood fibres rise like hairs before they flattened. The steel frame groaned. Ten seconds later the box held nothing but fourteen ordinary adapters again.
+It was the first time uncertainty entered her voice. Not fear. Space for a fact she did not yet own.
 
-Pascal watched the red patch on his display shrink. "Kitchen beam dropped nine hundred kilos."
+We found the whistling object first. Sael led us to a brass vane packed in a crate of weather fittings beneath the stairs. The shape was almost floral, eight thin cups around a central spindle. A hairline seam had appeared across the solid stair riser beside it. No air moved, but when the seam lengthened by the width of my thumbnail, the cups turned a fraction and produced the same rising note.
 
-Wystan touched the box with the toe of his slipper. "Fourteen?"
+“Uncle Tobren?” I asked.
 
-"You counted them last month," Emrys said.
+“Roof salvage. Good brass. The spindle catches.”
 
-"I counted fifteen."
+“Observed,” Kezra said, “it produces sound while an altered opening forms nearby. We don’t know what it detects.”
 
-There was an adapter in Emrys's pocket. He surrendered it without being asked.
+Tobren opened his mouth, then closed it.
 
-We compressed an hour's argument into twenty minutes because the house did it for us. Linet tested objects; Wystan supplied uses; Emrys corrected dates; Pascal named the limits. A cracked aquarium was meant to become a cold frame. Three rolls of carpet might line the shed that did not exist. The stack of baking trays was genuinely used every winter when my uncles made enough ginger biscuits to feed their entire street. We released the carpet and left the trays.
+Daskar slid the vane into a waxed evidence sleeve, wrapped it in a folded wool coat, and buckled both under the stair rail. The front door opened two inches onto the same hall, then shut again, without a whistle.
 
-The readings improved, but the worst load remained above us.
+In the kitchen we found the red source: a palm-sized pane of black glass propped behind the spice jars. It lit whenever the stove flame shifted, not at any spoken word or movement. Tobren had used it to warn when the kettle boiled dry. Kezra covered it with a doubled oven cloth and placed an opaque case over that. The kitchen went dim.
 
-"Box room," Wystan said at last. "If Emrys moved the magazines off the landing, he put them in the box room."
+The green stone was harder. It pulsed whenever the volume around it changed—when a drawer opened, when one of us entered the dining room, when Daskar moved the washbasin out of the lane. We wedged its box between the hearth slab and two folded blankets until the vibration no longer reached the floor.
 
-"I put some of them there," Emrys said.
+For eight breaths the house held still.
 
-Linet looked from one man to the other. "Where is the brass balance now?"
+Then the dining-room wall moved toward us by the width of one shelf.
 
-Emrys pointed upstairs.
+Nobody had touched anything.
 
-Wystan's face changed. Not surprise. Confirmation.
+“Two modes suppressed, one braced,” Daskar said. “Expansion continuing.”
 
-The staircase had a handrail under three layers of coats and an ironing board. We could not uncover it without shifting half the hall, so Wystan told us to hold the boxes on the wall side. He had used them as a handhold for years.
+Kezra watched the silver thread in her lantern bend, straighten, and bend again. “Those objects may only have announced the change. Something else acted on the pattern.”
 
-I went first this time. On the fifth step, I put my palm on a carton marked **CHRISTMAS—ELECTRICAL**. It felt empty. The cardboard slid beneath my hand and cleared the dusty rectangle where it had sat.
+“That is an interpretation,” Sael said.
 
-"Don't—" Wystan began.
+“Yes.” Kezra met his eyes. “It predicts a fourth object. I haven’t observed it.”
 
-The carton gained weight while I was still leaning on it.
+The floor rose under us once, a single broad shove. The false pantry door swung shut. When I opened it again, Tobren and Kezra stood on the other side among seven shelves.
 
-Pascal caught the back of my belt and hauled me down one step. The carton settled through the edge of the landing. Boards snapped. A wedge of plaster fell into the hall, and the top three stairs dropped the width of my hand.
+Daskar caught my sleeve before I stepped through. “Stay.”
 
-Pascal drove one red post under the landing, then the other. He braced his shoulder against the first while its screw head bit into old timber.
+“They’re three feet away.”
 
-"Nobody crosses," he said. His voice had become very calm. "Shore is rated for two tonnes. That box is at one-six and climbing."
+“Their floor is lower.”
 
-Linet opened the cradle at the foot of the stairs. "Wystan, what was the use?"
+He was right. Tobren’s shoes stood half a stair below ours, though the threshold remained level. Behind them, the false pantry extended farther than the whole yard.
 
-"Spare bulbs. Wire. The little clips for the outdoor lights."
+Kezra reached toward us. The air between our hands made the hairs on my wrist rise. Then the door snapped shut.
 
-"Do you still want the whole carton for that?"
+I opened it. This time it showed the parlor, empty except for the washbasin and three copies of my grandmother’s tureen.
 
-"You can't ask him now," Emrys said. "He's frightened."
+From somewhere to my left, Tobren shouted my name. His voice came from the dining-room wall, the stairs, and the closed front door at slightly different times.
 
-"I'm asking because it's his load."
+A red glare appeared beneath the kitchen door.
 
-The carton crushed another inch into the landing.
+“The glass is covered,” Sael said.
 
-Wystan's hands opened and closed. "The lights went years ago. The wire perished. I don't need it."
+“Then that’s fire,” I said.
 
-The weight stopped climbing at one point eight tonnes. It would drain, but not before the broken landing had to carry the peak.
+I ran for the kitchen.
 
-Pascal's jaw tightened against the post. "Then choose something you can reach. We need the structure to give me margin."
+The hall lengthened under my feet. The kitchen door moved away by one pace, then another. The chalk line split into two parallel marks. A crate tipped from the shelf beside me. Daskar knocked it aside and shoved me against the wall as iron stove rings struck the floor where my ankle had been.
 
-The three of us were stranded above the break: Wystan, Emrys, and me. Linet and Pascal were below. Around our feet were all the objects the house had placed within reach of a person on the stairs—an old desk fan, a sack of wallpaper offcuts, two broken folding chairs, and the green biscuit tin I had warned everyone not to touch.
+Each impact made the house add distance. A narrow cupboard unfolded between the dining room and kitchen, then another. The red glare vanished.
 
-Emrys picked up the tin.
+“Stop moving,” Daskar said.
 
-"Not that," I said.
+We stood among tilted boxes in a hall that now contained twenty-seven of my paces.
 
-"We need weight."
+Sael breathed through his nose, once, twice. His inventory book had fallen open in his hand. “You saw red under the door.”
 
-"Those are Gran's postcards."
+“Yes.”
 
-Wystan took the tin from him and held it to his chest. He had planned to make an album. He had said so for twelve years, but that was not why it stayed.
+“You interpreted fire.”
 
-I shoved the sack toward Emrys. "Wallpaper."
+“Yes.”
 
-"Lining drawers," Wystan said automatically.
+“There was no smoke.”
 
-"You lined the drawers. I helped. The rest is damp."
+I wanted to tell him I knew how fires began, that I had spent two years trying to get both of them to clear a route precisely because I knew. Instead I looked at the new cupboards and said, “My running made more rooms.”
 
-He looked at the dark stain running up the sack. "All right. Not the gold strip."
+Daskar checked the ceiling, the floor, the lantern thread. “More bare movement coincided with faster expansion. Treat that as hazardous until disproved.”
 
-We found the gold strip, two dry lengths curled inside, and kept them. Emrys lowered the rest by the cradle's strap. Wystan surrendered it. The sack hit hard enough to pulverize the top blocks. The landing rose a fraction against Pascal's posts.
+Tobren called again. Three copies of his voice answered from different distances.
 
-The desk fan had cooled Emrys through a fever before its motor burned out. We kept its brass nameplate and released the body. One folding chair had come from their wedding breakfast. The other had been found beside a skip because its hinges might match the first. We kept the wedding chair.
+“Uncle, stop shouting,” I called. “One answer. What can you see?”
 
-Histories were quicker than arguments. I had forgotten that. Wystan could tell us what each thing had done, and once he did, it became possible to ask what it still had to do.
+“Shelves. Kezra. Your grandmother’s preserving jars, except half of them aren’t hers.”
 
-With the structural load reduced and the carton's weight ebbing, Pascal winched it off the broken boards and down into the cradle. The last of its return folded the cradle's bottom plate into a shallow bowl, but the posts held.
+“Anything changing?”
 
-"No more surprises," Linet called up. "Where exactly did you put the balance, Emrys?"
+After a pause: “A blue tag moved from the third shelf to the fifth.”
 
-"It was only for a minute."
+Kezra’s voice came faintly after his. “Correction: the shelves changed between observations. We didn’t see the tag move.”
 
-Wystan laughed once. "There it is. The unit of measurement in this house."
+That was Kezra. Even misplaced inside an impossible pantry, she would not give a verb more certainty than it had earned.
 
-Emrys stared at the broken landing. "I brought it up to photograph the bottom. You were coming in, so I covered it. Then the magazines shifted and I couldn't get back to it without making a fuss."
+The floor tapped twice beneath me. Then twice again.
 
-"You called a museum into my house and hid the thing from them."
+“That’s Tobren,” I said. “He’s knocking.”
 
-"I called because the kitchen door wouldn't shut and the ceilings were bending. I hid it because you would have stopped them at the porch. Both were correct."
+Sael knelt without touching the boards. “The second interval is longer.”
 
-Wystan turned away from him, as far as the narrow step allowed.
+Daskar watched his lantern. “The green stone is still in the dining room. This is transmitted vibration, not a receipt from Tobren.”
 
-I wanted to defend one and accuse the other. That had been my habit until I found a third option and stopped coming. The house creaked around us, loaded with all the futures Wystan could picture and all the consequences Emrys preferred not to.
+I had already lifted my foot. I put it down in the same place.
 
-"Which pile is it under?" I asked.
+“No more meanings,” I called. “Only what you saw, heard, or handled.”
 
-Emrys swallowed. "Gardening magazines. Beyond the towels."
+“I handled the drawer-pull box this morning,” Tobren said at once.
 
-Wystan closed his eyes. "Blue towels or bath towels?"
+Sael looked up. “You did not record that.”
 
-"Blue."
+“I moved one thing.”
 
-"Then there's another way in."
+“What thing?” I asked.
 
-Pascal laid two temporary planks across the landing and clipped our belts to a line. We went up one at a time.
+“A little brown piece. Not a pull. It kept rolling under the brass cups, so I put it in a tin.”
 
-The box room had ceased to be a room years before. It was a set of vertical negotiations. Wystan sent me through a slot between the airing cupboard and a tower of empty printer cartons. I turned sideways at the blue towels, ducked under a lampshade frame, and found the gardening magazines stacked beneath a shelf of chipped mugs.
+“Which tin?”
 
-Under the bottom issue, brass glimmered.
+“Yellow.”
 
-The balance was no bigger than a loaf of bread. Two shallow pans hung from a crossbar engraved with marks that were not numbers. No glow, no whisper, no sense that it was watching us. One pan held a button. The other was empty.
+From beside him, Kezra said, “Shape?”
 
-Linet came as far as the towels and stopped. Her meter filled with red.
+“Hard little seed. Or a bead. Had ridges. I didn’t cut it.”
 
-"Do not lift it," she said.
+Sael shut his eyes. When he opened them his voice was lower. “The drawer-pull box weighed less after breakfast. I wrote the correction. I did not ask why.”
 
-"Wasn't planning to."
+“Original pantry,” I said. “Yellow tin beside the flour scoop.”
 
-"The containment case can take the remaining field if it's below twelve hundred kilos. Right now the house is carrying just over four tonnes. Closing the case on the balance would send every remaining load back at once. The case would fail, and so would several objects around you."
+“There are three yellow tins here,” Tobren called.
 
-"Several?"
+“They aren’t the original.”
 
-"I can't tell which until Wystan imagines them clearly enough for the meter to separate them."
+“How do you know?”
 
-Wystan had to crawl into the room he had made impassable. He named uses while Linet watched her meter: mugs for mosaic edging, printer cartons for storing seedlings, towels for the downstairs bathroom once its wall was repaired. Some signals barely moved. Others flared.
+“Because the original pantry shares the kitchen’s lead pipe. These shelves occupy the yard.”
 
-The three dead vacuum cleaners accounted for nearly a tonne between them. Emrys had meant to build one good machine. He surrendered all three, including the possibility of the good one, and Pascal bled them through the cradle downstairs.
+Sael pointed past the new cupboards. At floor level, a water pipe ran toward the kitchen. The false rooms had copied shelves, tins, even old damp marks, but not the pipe. Above it, three square nail scars marked where my mother’s calendar had hung before the wall was repapered.
 
-A carton of mismatched tiles held six hundred kilos. Wystan had been saving them for a pantry, a porch table, plant stands, and, in one memorable proposal, armour for the compost bin. He chose four unbroken blue ones, because they matched the kitchen jug, and let the rest go.
+The original house had left us a seam.
 
-Beside the balance lay a wrapped roll of roofing felt. Its signal was smaller but sharp.
+Kezra spoke through the multiplying corners, her words arriving thin and out of order. “If the seed is the active element, the three responses may be feeding it a recurring collection pattern. Reduce active outputs below two. Put the seed in darkness and sound damping. Keep it off the floor.”
 
-"That stays," Wystan said before anyone asked. "The roofer is booked for Friday."
+“May,” Tobren said.
 
-Emrys nodded. "Actually booked. Deposit paid."
+“May,” Kezra agreed. “It fits what we have. It is not a maker’s instruction.”
 
-Linet checked the reading. "Ninety kilos on return. Put it flat against an outside wall after the shoring crew clears the room. It can remain."
+Daskar unhooked the suspended black jar from his chest. “Container meets those conditions. I need a straight lane to the pantry and no impacts.”
 
-Wystan studied her as if this were the first trustworthy thing she had said.
+The straight lane did not exist. Between us and the original kitchen stood two new cupboards, the fallen crate, the washbasin, a stack of chair backs, and enough spare stove iron to break every foot in the house.
 
-We brought the field below the case limit with a drawer of obsolete remote controls and Emrys's collection of cracked plastic tubs. The box room still admitted people only sideways. Wystan kept the postcards. Emrys kept a stack of railway magazines. I made them keep the baking trays. No one suggested the cleared drawer had solved anything.
+I looked at my uncles through layers of wrong walls I could not see through. “I need permission to clear.”
 
-Pascal rolled the black case up the temporary planks. Linet placed it beside the balance and opened its nested steel supports. Wystan removed the button from the pan. It had come from one of Emrys's old coats and meant nothing in particular, which seemed to offend all of us after the afternoon we'd had.
+Tobren answered first. “Break the pine chair backs. Not the ash ones.”
 
-"Ready," Pascal called.
+“They’re intermixed.”
 
-Linet lifted the balance straight into the fitted brackets and closed the first band.
+Silence, then: “Break them.”
 
-The house exhaled in timber and dust. All around us, ordinary things took back extraordinary weight. The roofing felt thumped flat. A box of jam jars settled until glass chimed against glass. The needle on the case stopped just below its red mark.
+Sael opened his book. “The curtain rings can go into the parlor. Stove iron stays against the left wall. The washbasin—”
 
-"Contained," Linet said.
+“Outside,” Tobren said.
 
-The route out required all of us. Pascal moved the shores by inches and watched the load. Linet took the front handle of the case; Emrys took the rear. Wystan called the turns from below, naming each obstacle precisely. I went ahead on the line and stopped them before Emrys's hip brushed the stack with the green biscuit tin. At the front room, Linet wanted to shift an ordinary umbrella stand for clearance. I showed her the orange string on the piano stool instead. It was the one thing in reach we could move without renegotiating the house.
+“There is no outside.”
 
-When the case crossed the threshold, the front beam rose enough to scrape the swollen door against its frame.
+“Then put it through the wrong pantry.”
 
-Outside, evening had turned the windows black. Pascal taped a red **UNSAFE** notice across the door and gave us the name of a structural inspector coming at nine the next morning. Linet wrote one item on her removal sheet: brass balance, maker unknown. She left the crushed adapters, the ruined lamp, the chairs, the postcards, the baking trays, and every other ordinary possession where its owners had chosen.
+Daskar shook his head. “No new volume changes near the stone.”
 
-"The Museum cannot make this house safe tonight," she told Wystan. "The anomaly is gone. The damage and the weight you already owned are still here."
+Sael crossed out one line in his book. “Leave it. We pass on the right.”
 
-"I know what a ceiling looks like," he said.
+We worked without hurry because hurry had acquired square footage. Daskar carried weight low and waited for my confirmation before each step. Sael called distances: two paces, half left, shoulder clear. I snapped the pine chair backs across my knee and used them as runners under the stove rings. Each crack tightened Tobren’s voice somewhere beyond the wall, but he did not withdraw permission.
 
-"Then don't sleep under this one."
+At the dining-room threshold, Daskar retightened the wool around the whisper-vane. Sael pressed the opaque cover flat over the mothglass. I checked the green stone’s brace. No whistle. No red. No floor pulse.
 
-Emrys looked at me. He had not asked before calling the Museum, and Wystan had not asked before making entry impossible. Neither was going to become a different man on the pavement.
+The cupboards stopped unfolding.
 
-"You can stay at mine," I said. "Two nights. After that we work out something with actual dates. Tomorrow: inspector first. Then shoring. Nothing goes into a skip just because someone's back is turned."
+We followed the lead pipe. The wall scars brought us to a door that looked like the pantry door except for one thing: a gouge at knee height, made when I had ridden a coal scuttle down the hall at nine and failed to turn.
 
-Wystan glanced at Emrys. "His magazines too?"
+“Original,” I said.
 
-"Especially his magazines."
+Inside, the yellow tin stood beside the flour scoop.
 
-"A representative sample," Emrys said.
+Daskar set the metal frame over the threshold without letting it touch the boards. The jar hung in its center, lid open, black felt swallowing the lantern light. “I can hold the vessel. I can’t reach past that shelf without loading the floor.”
 
-Wystan looked past the red tape into the dark hall. "My tablets are in the blue overnight bag."
+Sael said, “Enna’s arm is shorter.”
 
-Pascal gave us hard hats and five minutes. Wystan took a key from his ring and held it out to me.
+“Thank you, Uncle.”
 
-"Not the front," he said. "The bag's behind the towels now. You'll have to use the side passage."
+“It is.”
 
-Orange string was knotted around the key's head. I still knew what that meant.
+I lay across the pantry sill with my weight on the wall studs. Daskar gripped my belt. The tin sat beyond a sack of salt and beneath two boxes of jar lids. Moving either box would change the enclosed space near the stone three rooms away.
 
-We went around.
+“Tobren,” I called. “May I crush the lid boxes?”
+
+His answer came from under the shelf, so close I flinched. “Use your forearm. The zinc lids inside are good.”
+
+I flattened the cardboard slowly. The tin came within reach.
+
+It held three brass screws, a waxed cord, and a brown ridged thing no bigger than my thumbnail. It had no mouth, no face, no warmth. When I lifted it, the pantry shelves lengthened toward my hand.
+
+“Seed observed,” I said.
+
+“Transfer,” Daskar said.
+
+I did not throw it. I placed it into the suspended jar. Daskar closed the felt-lined lid, latched two clasps, then a third. Kezra counted the receipts from somewhere beyond the wall.
+
+One. Two. Three.
+
+The false pantry vanished without drama. Shelves thinned into the dining-room wallpaper. The stretched hall shortened so quickly that Daskar and I landed against the original kitchen door. A spill of copied jam jars became cold light and was gone before it reached the floor.
+
+Tobren and Kezra stood behind the sewing cabinet, exactly where the yard wall should have been. Then they were in the dining room with us. Tobren’s hand remained raised around a jar that no longer existed.
+
+He lowered it. “Those were not all ours.”
+
+“Observed,” Kezra said, breathing hard. “And I am not assigning ownership.”
+
+Nobody laughed. We sat down wherever the house allowed.
+
+The front door opened onto the wet street again.
+
+It took the agents until midnight to separate the four objects. The whisper-vane went into a sound case, the mothglass into a dark thermal sleeve, the green step-stone into a braced carrier, and the collector’s seed remained in Daskar’s suspended jar. Kezra read each description aloud and asked Tobren where he had acquired it. When he did not remember, she wrote that. When Sael had a date but no seller, she wrote those as different facts.
+
+“Are you taking everything?” Tobren asked.
+
+“These four, under emergency containment authority,” Kezra said. “The museum will send separate ownership notices. Nothing else enters our custody without inventory and consent, unless it presents an immediate danger.”
+
+Tobren looked around at the crowded rooms. “You’ll call all of this a danger.”
+
+Daskar rested a hand on the clear section of chalk line. “I’ll call the blocked side door a danger. I’ll call the load above the stairs a danger. I haven’t assessed all of this.”
+
+Sael wrote both items in his book.
+
+Kezra gave him four receipts. He checked every number before accepting them.
+
+The next morning I returned with work gloves, labels, and no cart.
+
+My uncles had already moved the washbasin to the dining room. The side door was visible behind it, still blocked by six crates of drawer hardware.
+
+“One route,” Sael said. “Front to side. Nothing else today.”
+
+“One category,” Tobren said. “Drawer fittings. We test what’s usable before anything leaves.”
+
+It was less than I wanted and more than they had agreed to yesterday.
+
+We made three places on the dining-room floor: usable now, unsafe, and hold for a later decision. Sael recorded each box we opened. Tobren tested hinges and gave up two cracked brass cups without being asked twice. I did not touch the boxes under the table.
+
+Near noon, the side door opened far enough to show a stripe of yard and the rain barrel beyond it. Tobren passed me a bent iron pull.
+
+“Hold box?” he asked.
+
+Sael checked the route behind us. “Hold box.”
+
+I put it in. Then we cleared the next six inches of floor.

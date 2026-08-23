@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Hisae | new | Returning ronin; no exact, alias, close-spelling, phonetic, or confusing reuse found in the required targeted authority and noun history. |
-| Jinsaku | new | Hisae's unaged opponent; no exact, alias, close-spelling, phonetic, or confusing reuse found in the required targeted authority and noun history. |
+| Arveth | new | No exact, alias, close-spelling, or confusing reuse found; Aderi-born returning ronin and excluded combatant. |
+| Ilessa | new | No exact, alias, close-spelling, or confusing reuse found; Aderi resident and opponent who completes the disarm. |
+| Halen | new | No exact, alias, close-spelling, or confusing reuse found; senior sun-catch keeper who performs the release. |
+| Neth | new | No exact, alias, close-spelling, or confusing reuse found; child-bodied resident with twenty years of retained experience and independent agency. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The village, threshing court, roads, bridge, ridge, coast, and terraces remain unnamed. |
+| Aderi | new | No exact, alias, close-spelling, or confusing reuse found; upland village enclosed by the local sun-catch. |
 
 ## Continuity
 
@@ -28,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Living participants resume when Hisae enters, while detached matter and the sunset release only after Jinsaku's nonlethal win and Hisae's acknowledgment. The twenty-year/one-breath chronology, right-knee limitation, ring and boundary geometry, sword and pack positions, map-led washout crossing, and each participant's practical agency remain coherent; the ending turns Hisae's exit-reading habit into enacted guidance without a pardon, meeting, or policy coda.
+- Notes: The amended prompt resolves through Arveth's return, renewed opposition, chosen return from the open road, continuous disarm, safe release, ordinary night, and guarded accountability. The sun-catch's living agency, reset boundaries, retained memory and skill, reversible matter and injury, failed shortcuts, and release conditions are coherent and respect universe authority. Dialogue keeps distinct pressures and reasoning shapes without a chorus or forgiveness coda; the invented upland ronin frame avoids pseudo-Japanese ritual, accent, exoticized honor, and samurai-film shorthand.

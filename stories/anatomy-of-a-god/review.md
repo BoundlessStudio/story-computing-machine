@@ -6,15 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Edras | new | Foreign field medic; no exact or alias reuse found, and the form remains distinct from the released legacy reservation `Edrin Vale`. |
-| Miora | new | Edras's adult regenerating stepsister; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| Avarrax | new | Regenerative conqueror; no exact or alias reuse found, and the form remains distinct from current `Queen Ivara`. His objective godhood remains unresolved. |
+| None | none | No story-facing person proper noun appears. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The court, city, and Edras's homeland remain unnamed. |
+| None | none | No story-facing place proper noun appears. |
 
 ## Continuity
 
@@ -29,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The required four-line exchange appears verbatim and in order with only `anathomy` corrected to `anatomy`; its punchy register remains confined to the decisive reversal. The frame's staged loading and release stay legible, the repair loop is explicitly individualized, and Miora's consent and personhood remain intact.
+- Notes: The amended confrontation resolves through a bounded, reversible countermeasure while leaving godhood unsettled. The narrator's practical conditional speech, the man's ceremonial claims and reduced fluency under pressure, and the stepsister's ordinary care talk remain distinct; the decisive and final exchanges change leverage without restating the ending.

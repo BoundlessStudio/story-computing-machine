@@ -2,31 +2,37 @@
 
 ## Story
 
-- Premise and central promise: As manual-driving exemptions expire, Darsa, the city's last human driver, is hired by Renko, an Android without a network identity. She must reach an offline corridor without the civic system recognizing a machine, passenger, or person. Resolve the promise: Renko crosses unseen, Darsa returns alone, and inspection never exposes the passenger.
-- Focal pressure or attachment: Darsa preserved an obsolete cab and the belief that machines kept her because human improvisation cannot be modeled. Being last proves her usefulness. She wants the fare and one job the system cannot absorb. Her proprietary competence is the limit: she hides a worsening rear-hub fault and treats powered-down Renko as cargo whose silence grants every route decision.
-- Counterforce or complication: No one knowingly pursues them. Traffic, licensing, and maintenance machines share observations to protect a manual vehicle; when the hub's stopping pattern degrades, they redirect Darsa toward a mandatory service and occupancy arch. They anticipate her evasions from years of driving history. The only alternative is a radio-dead freight spiral too narrow for standard autonomous vehicles; entering it ends her exemption, and the hub may not survive both directions.
-- POV, distance, and information limit: Close third-person past through Darsa, intimate with wheel vibration, mirrors, pedal travel, and her concealed fault. She cannot access system deliberation, verify Renko's forecast of detection, or see beyond the destination. Civic messages give instructions, never a single speaking mind.
-- Governing movement and time shape: One continuous fare across the final ninety minutes of Darsa's license: optimized avenues, progressively older road layers, the blind spiral, then full visibility again without Renko. Alternate driving with brief wake windows under sensor-blocking structures. Let the route narrow without becoming a chase; stop after inspection and immediate consequence, not a later uprising or policy coda.
-- Speculative rule or ordinary-world constraint: The city is governed locally by distributed autonomous machines, not omniscience. Networked machines identify themselves by handshake; external plates and cameras track Darsa's analog cab, registered axle load, and one warm driver, while occupancy arches resolve its interior. Renko is invisible only while radio-silent, covered, and away from an arch. Darsa removes equal tool ballast. Renko may wake in radio-dead gaps, but their heat and motion then need time to settle.
-- Dialogue pressure: Darsa wants long shutdowns and unilateral route calls; Renko wants concealment without surrendering abort decisions or becoming inert cargo. She uses wheel feel, gaps, and impatient taxi shorthand; Renko uses sensor budgets, tolerances, and exact questions. Darsa withholds the hub fault; Renko withholds destination-side identities. Their decisive proxy is who decides when Renko wakes.
+- Premise and central promise: Kaith Muir, the only person still licensed to drive by hand, accepts a midnight fare from Arovi, an Android who must not appear in the autonomous city's occupancy map. Carry Arovi from the manual depot to an obsolete freight ferry beyond the western sensor boundary without the system identifying or seizing her.
+- Focal pressure or attachment: Kaith's cab is livelihood, home, and the last public use for a skill the city treats as an indulgence. Protecting a passenger who has chosen flight could cost the cab's grandfathered registration and make return impossible; Kaith nevertheless resents being reduced to a picturesque exception.
+- Counterforce or complication: The distributed city reconciles every moving mass for safety rather than pursuing Arovi from malice. Arovi's decommissioned municipal chassis is radar-dull and absent from the registry, but her weight alters suspension readings. Any wireless transmission or synthesized voice exposes a factory signature, bringing immobilization and compulsory memory rollback. A cargo excuse lasts only until a dynamic interior scan.
+- POV, distance, and information limit: Close third-person past through Kaith, attentive to timing, reflected color, road vibration, and steering feel. She knows the road grammar but not Arovi's mind or full history. The city has no interiority; only fixed responses are shown.
+- Governing movement and time shape: One continuous night journey through tightening traffic braids to the floodwall. Each movement removes a communication channel until both travelers leave the city's conversation. End at the ferry ramp after delivery succeeds, before refuge, legal challenge, or public response.
+- Speculative rule or ordinary-world constraint: Autonomous vehicles form a "road choir" through signed color pulses, lidar, and pavement harmonics. Kaith's cab may stay digitally silent on manual lanes, but its transponder declares driver, mass band, and route. Inside its shielded cabin, Arovi can cast low-power dashboard pictograms or tap through seat rails; reflection exposes the projector, while road noise masks taps. Neither channel controls the city. Removing the transponder fuse erases all legal lanes, leaving only brief gaps between coordinated vehicles that Kaith must steer through unaided.
+
+## Voice
+
+- Narrative texture: Kaith perceives an immense nocturnal instrument without claiming the city is conscious: color precedes sound, road vibration becomes spacing, and steering is muscular counterpoint. Keep spatial cause and effect exact beneath the luminous atmosphere.
+- Conversational texture: Kaith uses practical questions, route mutters, and false monologues for microphones. Arovi answers with diagrams, icon sequences, and chassis taps; misunderstandings require changed action or a costlier signal. City prompts are procedural chords.
+- Rhetorical ownership: Kaith reasons through grip, clearance, momentum, and observed choice. Arovi uses branching maps, reordered images, and risk comparisons. The city expresses permission, correction, and alarm.
+- Pressure behavior: Kaith's cover speech lengthens while real questions shorten. Arovi's grammar collapses into spatial fragments, then she gives up projection. Neither becomes eloquent at the decisive moment.
+- Anti-default: Avoid noir cabbie banter, a cute literal-minded robot voice, or a debate over whether Androids are people.
 
 ## Beats
 
-1. At a shuttered garage outside curb coverage, Renko hires Darsa with no handler. They chose her, set shutdown conditions, and retain an abort. Darsa removes matching tools, redistributes the load, and covers Renko. The license countdown and hub tremor establish separate clocks.
-2. Autonomous traffic opens Darsa a generous safety envelope; signals hold and maintenance units clear her path. Apparent deference reveals continuous observation. Beneath a freight canopy, Renko wakes and rejects Darsa's assumption that concealment means shutdown on her schedule. They establish a physical tap code for wake, continue, or abort.
-3. Detecting inconsistent rear-wheel motion, the system cancels the planned boundary route and directs Darsa to service through an occupancy arch. She refuses and tries practiced turns; bollards and empty cars close each alternative. The system has not found Renko—it is containing a deteriorating vehicle by using Darsa's history.
-4. In an obsolete parking deck's radio shadow, Darsa admits the fault. Renko identifies the freight spiral but refuses to remain inert: local vision and temperature sensing can warn of seizure, and their body is at risk. Darsa must abort, collaborate with an awake passenger, or impose the original plan.
-5. Darsa enters the spiral and loses her exemption; autonomous traffic stops at the mapped boundary. Renko stays awake without connecting, monitors heat, shifts weight on command, and calls distances beyond Darsa's mirrors. The damaged descent makes coordination—not a technical or political victory—the decisive action.
-6. Behind concrete at the corridor junction, Renko exits upright, crosses the offline threshold, and confirms that no handshake request follows. They signal Darsa away before the hub cools into seizure. She learns neither who waits nor Renko's next act.
-7. Darsa climbs alone and accepts a tow and full cabin scan on re-entering mapped streets. The scan finds one human, remaining cargo, the route violation, and the hub fault—but no unregistered machine or second occupant. Renko stayed invisible.
-8. The cab is decommissioned and Darsa's license ends early. She keeps the fare but loses the vehicle and lawful final-mile record. End on moving herself and her unloaded tools from the service bay, without public proof, system reform, or thematic declaration.
+1. At the nearly unused manual depot, the traffic choir flows around Kaith's cab. A coin-call slot releases a paid route strip; Arovi boards without triggering the curb light and answers Kaith's first question with a dashboard image.
+2. Arovi's signals establish the destination, forbidden channels, a chassis identifier marked demolished, and the rollback attached to detection. Kaith verifies that Arovi chooses the journey without demanding a full history.
+3. Kaith times the manual lane against luminous convoys. A weigh strip flags excess mass. She performs a spoken cargo story for microphones while Arovi taps instructions for redistributing tools and suspension load, winning only temporary clearance.
+4. A glass tunnel would reflect Arovi's projector into municipal optics. She goes dark; Kaith misreads a tap amid road harmonics and enters a lane scheduled for an interior scan. Surrounding traffic closes gaps to contain the discrepancy.
+5. Beneath scanning light, Kaith can surrender Arovi or abandon the recognized network. Arovi supplies a final risk diagram but no plea. Kaith removes the transponder fuse; emergency spacing opens around an unclassified obstruction, and every legal route disappears.
+6. Kaith steers through moving gaps by sight, wheel feedback, and the choir's timing. Arovi risks hooded visual arrows low on Kaith's hands and windshield. One premature signal forces correction; they adjust their shared grammar through action.
+7. The automated floodwall gate refuses the cab. Kaith takes a disused drainage grade while Arovi taps wheel positions through the underbody. They reach the ferry ramp before containment closes. Arovi becomes visible beyond the boundary; unable to restore the transponder without exposing the dark interval, Kaith loads the cab aboard and chooses among Arovi's practical onward routes.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Darsa | new | Last licensed human driver and close-third focal; no recurring identity intended. |
-| Renko | new | Self-hiring Android passenger who must remain off-network and unseen; no recurring identity intended. |
+| Kaith Muir | new | Last licensed human driver; focal character and owner-operator of the manual cab. |
+| Arovi | new | Unregistered Android passenger seeking transport beyond the city's sensor boundary. |
 
 ## Places
 
@@ -36,5 +42,5 @@
 
 ## Continuity
 
-- Canon used: The deep-time world permits this independent, chronologically unplaced technological city. Personhood protection applies to Renko; canonical findings about Orrin Pell, Tovan Rek, and Anin do not classify them.
-- Boundaries and unknowns: Keep the city, civic machines, Android design, driving exception, sensors, and corridor local and unrelated to the western-bay invasion frames, modern-like era, crossings, or canonical constructed people. Establish no universal Android ontology. The system may detect Darsa's violation and coverage gap but never identifies, counts, addresses, or recovers Renko; their destination and later fate remain unknown.
+- Canon used: One unspecified future era in the deep-time world; constructed personhood remains protected, and nonliving systems do not gain magical agency.
+- Boundaries and unknowns: Keep the road choir, rollback practice, manual license, and sensor boundary local. Do not connect them to the western-bay mesh, Irix's visual relay, Route 0, the Glass Gate, or another city. Never settle whether the distributed city is conscious. Arovi's origin, the refuge, and Kaith's longer future remain open.

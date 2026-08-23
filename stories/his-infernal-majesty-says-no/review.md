@@ -6,14 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Lord Vordain | new | No exact, alias, close-spelling, or confusing reuse found; `Vordain`, `His Infernal Majesty`, and the family address `Papa` consistently identify the same reigning hell-lord father. |
-| Sivelle Vordain | new | `Sivelle` is the consistent short form, and the shared surname intentionally marks her relationship to Lord Vordain. It remains distinguishable from baseline `Siva` and passing-current `Sivren`, `Sivareth`, and `Ione Sivet`; no exact or alias reuse was found. |
+| Nimelza | new | The hell lord's eighteen-year-old daughter; no exact, alias, close-spelling, or confusing reuse found in canon characters, the locked baseline or legacy stories, or passing current reviews. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Dunmere College | new | `Dunmere` consistently identifies the same human residential college; no exact, alias, close-spelling, or confusing place reuse was found. |
+| None | none | The infernal court, royal gate, college, campus, and residence remain unnamed. |
 
 ## Continuity
 
@@ -28,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Vordain's severe public rule and excessive birthday enforcement establish the promised contradiction before his credible refusal gives way to bounded permission without erasing either his protection concerns or Sivelle's adulthood. The infernal dominion, compact, cinder-moths, relay, and return token remain story-local and distinct from established infernal, afterlife, and crossing systems. The one-evening chronology, campus and packing logistics, authority limits, objects, and relationships remain coherent; Vordain's adjudicative substitutions stay distinct from Sivelle's prepared corrections and refusals through the dorm-room turn and final packing exchanges, whose action carries the ending.
+- Notes: Nimelza's preparation, admissions check, refusal of covert control, and final crossing preserve her agency at eighteen; her father's release of the seal resolves the birthday conflict without absolving his continuing cruelty or erasing the real risks.

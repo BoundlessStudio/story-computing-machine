@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Feskarn Veylor | new | Deceased stage-effects rigger continuing through a living slime body; called `Feskarn` and rendered `FESKARN VEYLOR`. No exact or alias reuse was found, and the nearby legacy name `Veyru` is readily distinguishable. |
+| None | none | No story-facing person proper nouns; the focal `you`, assay-master, reed keeper, sluice warden, gate tender, runner, and gauge clerk remain unnamed role descriptions. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Papermantle Yard | new | Abandoned battlefield-decoy construction and rehearsal complex, shortened to `Papermantle` and referred to generically as the yard; no exact, alias, close-spelling, or confusing prior reuse found. |
+| None | none | No story-facing place proper nouns; the reservoir, service gallery, old spill, reed beds, and lower houses remain local descriptions. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The literal examination opens an immediate, causal climb through the exact nested shells, and the examiner's measurement language and Feskarn's stagecraft language give both partners distinct agency through the decisive cue sequence and live final reveal.
+- Notes: The earlier pattern, crack, and delayed-alarm sequence remains exact; controlled tray and live-gate observations narrow the colors to a bounded wet-film pressure response without translating them into speech, prediction, direction, identity, gratitude, or safety. The four principal human roles keep distinct reasoning and pressure behavior, and the final exchange returns to practical readings and crop risk without restating the story's argument.

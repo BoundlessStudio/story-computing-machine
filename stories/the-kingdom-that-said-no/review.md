@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Brevic Jandor | new | Itinerant hero; the full name and its components have no exact, alias, close-spelling, or confusing reuse. |
-| Neya Orm | new | Aldervane's route warden, also called `Neya`; the full form remains clearly distinguishable from legacy `King Gorm` and current `Aveline Ormont` by name, role, and context. |
+| Tarmel | new | World-traveling hero, also introduced as `Tarmel of the northern pass`; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Queen Nadrys | new | Varrowick's queen, subsequently called `Nadrys`; no exact or alias reuse. Current `Nadira` remains distinct in spelling, cadence, full form, role, and story context. |
+| Sarto | new | Lowharbor's channel-master; no exact or alias reuse. Frozen-baseline `Ryo Sato` is the nearest spelling, but its reserved forms, full name, missing consonant, role, and story context keep the people readily distinct. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Aldervane | new | Local valley kingdom; no exact, alias, close-spelling, or confusing semantic reuse found. |
+| Varrowick | new | Independent kingdom in an otherwise unplaced era; no exact or alias reuse. The unrelated surnames `Fenwick` and `Halwick` share only a common ending and are not confusing place forms. |
+| Lowharbor | new | Varrowick's river capital; no exact, alias, close-spelling, or confusing reuse found, and other generic harbor references do not name the same place. |
 
 ## Continuity
 
@@ -28,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Aldervane's competent refusal holds throughout, Brevic's unauthorized intervention creates the first genuine danger, and the corridor, niches, signals, gate, rubble, rain-yard bypass, bounded strength, restitution, and changed final conduct remain causally clear. Neya's operational focus, the runner's terse tests and instructions, Brevic's increasingly accountable speech, and the final wagon exchange retain distinct pressures without a scolding chorus, slogan, or explanatory coda. The lowercase `thunderback` is a common creature term, not a person-like proper noun.
+- Notes: The kingdom's refusal resolves through its chosen controlled flood and Tarmel's shift from imported precedent to bounded cooperation, without making every resident agree that the loss is just. The evacuation counts, shutter failure, changed release sequence, worker rescue, downstream warning, and flooded lower city remain causally coherent. Tarmel's precedent-driven assertions, Nadrys's jurisdiction and loss accounting, Sarto's mechanism-first instructions, and residents' immediate family or property claims keep the exchanges distinct and context-bound; the final bread exchange and ridge departure leave the change in action rather than restating it.

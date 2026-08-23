@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Leora Sloane | new | Protagonist, also called Leora; no exact, alias, close-spelling, or confusing reuse found in the required noun history. |
+| None | none | No story-facing person proper nouns. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing proper noun names a place. |
+| None | none | No story-facing place proper nouns. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The unplaced tattoo era remains locally bounded: living bearers supply its abilities, while the scanner only reveals and records Leora's hidden mark.
+- Notes: The black-light revelation and bounded discovery of conditional resistance fulfill the amended prompt without overstating one test. Living people supply every magical action while the lamp, graft ink, and cup remain nonliving tools, and the halted graft, disclosure boundary, and family ending follow causally. The practitioner, mother, brother, and focal character retain distinct knowledge, aims, pressure behavior, and speech rhythms through the decisive test and final exchanges.

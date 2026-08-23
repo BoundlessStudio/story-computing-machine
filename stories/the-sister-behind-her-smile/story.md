@@ -8,400 +8,458 @@ canon: false
 
 # The Sister Behind Her Smile
 
-My sister apologized to the footman, and I dropped my knife.
+My sister smiled at supper, and every spoon at the table went still.
 
-It struck the breakfast plate with a crack that made the poor man flinch. Calithea did not. She merely steadied the coffee cup he had overfilled and said, "No harm done. Bring a cloth when you have a moment."
+Lady Odrienne Auvray had many smiles. One meant she had forgiven you and would collect payment after you relaxed. One meant she had arranged a surprise at someone else's expense. The smallest, which showed no teeth, meant a servant had better remember every word spoken in the room.
 
-The footman looked at me.
+This smile was warm. That was new enough to be alarming.
 
-That, at least, was normal. Everyone at Eavescross House looked at me when Calithea's feelings spilled over their banks. I had become adept at moving porcelain, servants, carriages, and occasionally marriageable young men out of the flood path. That morning there was no flood. The footman dabbed at the saucer, murmured his thanks, and escaped with his dignity intact.
+Felisane stood at Odrienne's shoulder with the sauceboat. She had been on her feet since before sunrise, and the skin beneath her left eye jumped each time the musicians in the western gallery reached the same four-note courtesy phrase.
 
-"You frightened him," Calithea told me.
+"My lady," she said, "the laundress has taken sick. May I leave after the second setting? They need another pair of hands downstairs."
 
-"I frightened him?"
+Ordinarily, Odrienne would have asked whether the laundress had chosen illness specifically to inconvenience her. Once, when a stable boy had requested an afternoon to bury his father, she had sent a wreath large enough for a duke and charged its cost against the boy's wages. She had wept when I objected, because I had made generosity sound ugly. By the end of that argument I had apologized, the boy had thanked her for the wreath, and no one had mentioned his wages again.
 
-"With the knife."
+Now Odrienne set down her spoon. The gallery violins rose through the first three notes.
 
-She took a piece of toast from the silver rack. Its bent middle tine gave the rack the look of a stag with one antler broken. Calithea had bent it at nine, when she armed herself from the breakfast table and challenged me for possession of the last sugared plum. Every morning since, she had touched that tine for luck. She used to claim the stag favored bold thieves.
+"Of course," she said on the fourth. "Go now, if you are needed."
 
-Now her fingers passed it without pause.
+Felisane did not move. "The second setting will do. This sauce curdles if it sits."
 
-"Do you remember how that was bent?" I asked.
+"As you prefer."
 
-"You surrendered a plum without honor. I demanded satisfaction. The toast rack suffered." She spread butter to every corner of her toast with tidy, bloodless strokes. "Then you told Father you had sat on it, which was not convincing, since it was on the table."
+The phrase began again. Four notes; Odrienne's smile returned exactly on the last.
 
-Every fact correct. Not a spark of delight in any of them.
+I had wanted this. Every person under Odrienne's roof had wanted some version of it. No tears summoned at inconvenient facts. No silk ordered for cousins who had admired hers and then billed to accounts they could not question. No rivalries coaxed between servants so that each hurried to be the first to report what another had broken. During the past six days, bells had stopped ringing after midnight. Kitchen trays no longer came back because the pears leaned the wrong way. Doors had quit closing softly ahead of her.
 
-Calithea had spent twenty-three years wanting things at a pitch that made refusal seem a form of cruelty. She had wept for a white pony, conspired for a season to keep a prettier cousin away from every dance that mattered, and once ordered six bolts of green silk because a visiting lady had said green made her sallow. The visiting lady was made to admire a new green gown at luncheon, garden tea, dinner, and prayers. Calithea could turn tears into witnesses and confidences into weapons. She could also sit all night beside my bed when fever took me, telling outrageous stories until I laughed and coughed, and had broken a suitor's nose with her fan when he mocked my limp.
+It should have felt like a house released from weather.
 
-I knew the range of her. Love had taught it to me as thoroughly as caution.
+At my first court address, I had forgotten every sentence I meant to say. Odrienne knocked an inkpot over her own gold skirt and gave the room something better to stare at. She charged me for the silk the next morning. I loved her. This did not make her easier.
 
-"The housekeeper left these," she said, pushing a small stack of accounts toward me. "The linen payment may wait. The leak over the laundry cannot. I sent for the mason."
+"The violas are muddy," Odrienne said.
 
-"You sent for him?"
+The nearest player stiffened behind the gallery rail.
 
-"His estimate was in the folder. It seemed unkind to make people work under rain because I ordered pearls. I canceled those."
+Then my sister added, "Not you. The room is swallowing your lower notes. Move the screen two feet left and try again."
 
-I ought to have been happy. For years I had wished for exactly this: Calithea considerate without being cornered, generous without an audience, able to let a mistake pass without making someone pay for the shame of having seen it. Happiness did come. It opened in my chest, warm and cautious as sunlight in February.
+The player blinked. "Yes, my lady. Two feet."
 
-Then I saw that her toast remained whole on the plate.
+Precision instead of humiliation. I almost laughed from relief.
 
-Calithea never left toast. She would eat it burnt rather than allow a kitchen to believe it had defeated her.
+Odrienne turned to me. "Camet, our aunt admired Mother's lap harp last winter, didn't she? Please have it sent with her trunks tomorrow."
 
-"Are you ill?"
+My hand tightened around my glass. When we were children, Odrienne had bitten me hard enough to bleed because I touched one of the harp's ivory pegs. She did not play it. She kept it under a dust sheet and checked the lock herself.
+
+"You won't lend me the blue guest room for three nights," I said.
+
+"Certainly."
+
+"You haven't heard why."
+
+"I'm sure your reason is good."
+
+The four notes ended. Her answer landed with them, neat as a place card.
+
+I leaned across the table. "I'm housing six petitioners from the canal quarter. Two have children. They will bring their boots, their papers, and possibly fleas."
+
+Odrienne's fingers pressed the white cloth. Her smile never shifted.
+
+"Certainly," she said again.
+
+In the tall mirror behind her, the silver embroidery on her right cuff darkened from pearl to bruised violet. On her wrist itself, the thread remained white.
+
+I looked from cuff to reflection. The color vanished.
+
+"Camet?" she asked.
+
+"Nothing."
+
+Her eyes held mine a fraction too long. Then she tapped one fingernail twice against her water glass, paused, and tapped once more.
+
+It was the rhythm we had used as children when our tutor planted himself between us in the schoolroom: two quick, one slow. Follow when you can.
+
+The musicians began their courtesy phrase again.
+
+Odrienne smiled.
+
+* * *
+
+Felisane found me beside the warming closet, where I had been pretending to inspect plate covers for nearly a quarter of an hour.
+
+"The small ones go on the pudding dishes," she said. "If you are going to hide in service corridors, learn the cupboards."
+
+"I wasn't hiding."
+
+"Then you were putting fish covers on pudding, which is worse."
+
+She balanced a stack of napkins against one hip. Felisane did not sound like Odrienne, even now. My sister's old barbs came wrapped in lace; Felisane used the edge she needed and then returned to work.
+
+"Has she threatened anyone this week?" I asked.
 
 "No."
 
-"You have not eaten."
-
-She looked down as if the plate belonged to someone at the next table. "I don't seem to want it."
-
-The conservatory maid came in with a bowl of early roses. Calithea thanked her and asked after her mother's cough. The girl's face brightened. My sister remembered the answer, promised a jar of honey, and never once glanced at the roses. By the time breakfast ended, the petals nearest her chair had browned at their edges.
-
-Our mother used to say one should never investigate family before noon; the truth, when found on an empty stomach, was inclined to melodrama. She had not raised Calithea.
-
-I followed my sister through the morning.
-
-At first there was nothing to object to. This troubled me more than open mischief would have. Calithea told the seamstress that Thursday would do perfectly well for a delayed gown. She returned a borrowed book without first trimming away the page where its owner had made a foolish note. When two maids disagreed over who had left wax on a polished table, she said the stain mattered less than their hands and asked whether the solvent chapped them.
-
-Each kindness landed. Shoulders lowered. Voices lost their careful stiffness. Eavescross, long trained to read its lady's moods in the speed of doors closing, seemed to breathe more deeply around her.
-
-Yet Calithea took no pleasure in the relief. She did not order music, change a cushion, steal a sweet, criticize a hat, or insist that the gray sky had been arranged to vex her. Whatever proposal reached her received the answer least likely to disappoint its maker. When I asked whether she wanted to ride before the rain, she said, "If you would like." When I said I did not, she replied, "Then we shall not."
-
-"What shall we do instead?"
-
-"Anything you prefer."
-
-"Calithea, what do you prefer?"
-
-Her composure held, but her hand rose to the high collar of her morning dress. "Must every hour have a preference?"
-
-"Yours generally has seven."
-
-"Perhaps I have become restful."
-
-She smiled. It was a lovely smile, shaped with all the skill she used at court and none of the impatience that usually betrayed the effort. Looking at it, I felt the February sunlight in me go out.
-
-In the morning room I tested her with the blue china fox from our old schoolroom. I had found it in a cabinet while searching for the household seal and set it beside her elbow without comment. The fox had no tail. Calithea had smashed it during our last winter of lessons after I told her she could not marry a prince from a ballad. Later that night she had crept into my room with the head and body wrapped separately in her nightdress. I had glued it crooked. She had named it our first mutual casualty.
-
-"The schoolroom fox," she said.
-
-"Our first mutual casualty."
-
-"You repaired it badly."
-
-"You cried into my pillow."
-
-"I denied that then and deny it now."
-
-The answer was perfect. She moved the fox away to make room for a memorandum.
-
-I caught her wrist.
-
-"What did you hide beneath the floorboard that night?"
-
-"Three candied violets and the key to the wine cellar. You made me return the key. We ate the violets and were both sick."
-
-"What did you say when I told you the prince did not exist?"
-
-"That you did not exist. You asked how I meant to prove it, and I bit you. The scar is inside your left thumb."
-
-She turned my hand over, exposing the pale crescent. Her fingertips were cool. The air above her collar was not. Heat touched my knuckles, sharp as breath from an oven.
-
-I pulled down the edge of the lace.
-
-Something gold flashed against her skin.
-
-Calithea struck my hand away.
-
-Not hard. Had she struck hard, I might have been reassured.
-
-"That was rude," she said evenly. A red mark spread over her throat where the hidden metal lay. "Please do not do it again."
-
-"What are you wearing?"
-
-"A clasp."
-
-"I can see that."
-
-"Then the morning has not been wasted."
-
-The words had her edge, but no anger sharpened them. She gathered the account papers. As she passed the rose bowl, three petals folded inward, dark and dry.
-
-"Where are you going?"
-
-"To write letters."
-
-"To whom?"
-
-"People who are not entitled to a list of everyone you correspond with."
-
-She left. Her walk was straight and measured. Calithea ordinarily moved as if rooms ought to adjust themselves before she reached them.
-
-I watched the blue fox grin at nothing.
-
-There were explanations I would have preferred: a vow, a physician, a scheme so intricate that kindness was merely its perfumed outer layer. Instead my mind supplied older, uglier tales. A stranger wearing her memories. A hungry spirit taught to smile with her mouth. Some wrong thing that knew candied violets and the crescent in my thumb but not why a broken fox should be touched.
-
-I did what I had always done when Calithea became dangerous. I went after the damage before it could announce itself.
-
-Her dressing room was empty. Her bedroom smelled faintly of scorched lavender, though no fire burned. I found nothing in the jewel cases except the usual disorder and one clean hollow where a narrow necklace might have lain. In the gallery, rain pressed silver fingers to the tall windows. At the far end, the door of the old schoolroom stood open.
-
-Calithea was not there. On the pupil's desk lay a tray of sealing wax, a spoiled sheet curled brown at one edge, and four drafts of the same letter.
-
-The first began with an offer of money. The second began with an apology so graceful it made the writer sound generous for having caused pain. The third had been crossed out until only one sentence remained: *The bracelet was never in your box by accident. I put it there before they searched your room.*
-
-The fourth was not finished.
-
-I sat in the chair where I had once taught Calithea sums by using sugared almonds as counters and accepting that she would eat the evidence. Rain tapped the schoolroom windows. The blue fox's missing tail had happened here; so had a hundred lesser storms I had contained until we could both pretend there had been no weather.
-
-The bracelet had been our grandmother's, heavy with garnets. Two months earlier Calithea had accused her dressing maid of stealing it. The accusation had arrived dressed in sobs and certainty. The bracelet was found in the maid's box. I persuaded the housekeeper not to call the magistrate. I gave the girl three months' wages from my own account and secured a neutral reference that said nothing of theft. I had considered this a triumph of mercy.
-
-I had not asked why Calithea refused to look at me when they took the girl away.
-
-The unfinished letter continued in a hand that dug harder with every line. *I did it because he asked you to find a song for him and you made him laugh. That is not an excuse. I knew they would believe me. My brother—*
-
-The sentence ended there.
-
-"You might at least have waited until I sealed it."
-
-Calithea stood in the doorway. One hand pressed flat to her collar. A strand of hair had stuck to the sweat at her temple. Otherwise she looked as composed as she had at breakfast.
-
-"Was it true?" I asked.
-
-"Would I write it if it were not?"
-
-"You have written many things because they were useful."
-
-That should have hurt her. I watched for the narrowing eyes, the small indrawn breath before she decided whether tears or fury would serve her better. Nothing came.
-
-"Yes," she said. "It was true."
-
-I lifted the page. "You let me pay her."
-
-"You were so pleased with yourself."
-
-"I kept her from prison."
-
-"After I put stolen property in her box."
-
-"You could have told me."
-
-"And you could have asked."
-
-The schoolroom, though cold from disuse, smelled suddenly of hot metal. Calithea's gaze dropped to the paper in my hand. For the first time that day, she seemed to want something: the letter, or its destruction, or my silence. Then the moment flattened.
-
-"Give that back," she said.
-
-"First show me what is under your collar."
+"Bought anyone's loyalty?"
 
 "No."
 
-The refusal comforted me so absurdly that I laughed. She stared, and I realized I had begun to tremble.
+"Had you followed?"
 
-"I thought you had been replaced," I said.
+"Not that I caught. Hold those."
 
-"By what?"
+She loaded the napkins into my arms and checked the warming closet with two fingers. "Too hot. Tell the footman to open the vent."
 
-"I did not know. Something that had your memories."
+"You tell him."
 
-"And no taste for toast?"
+"I'm leaving after second setting. Remember?"
 
-"Or anything else. You remember being my sister. You do not seem to remember how."
+"Right."
 
-Her face changed then, not with feeling but with fatigue. "Come to my dressing room. If I am to be examined, I would rather not do it where you once made me decline verbs."
+She shut the door. I followed her down the narrow passage, still carrying the napkins.
 
-She took the letter from me. I let her.
+"So she has improved."
 
-At her mirror, Calithea unfastened the top three buttons of her dress. Beneath them a fine gold chain circled her throat. At its center sat an oval clasp no larger than my thumbnail, red at the edges, its filigree darkened as if it had rested in a flame. The skin beneath it was raw and dry.
+Felisane stopped. "She didn't say the collar pin scratched her this morning. I found blood on the lining. She hasn't chosen tea since last Thursday. She agrees to every tray before the lid comes off. Yesterday I asked whether to open the north shutters, and she said yes. Then I asked whether to keep them closed, and she said yes to that too."
 
-"A temper clasp," I said. I had seen courtiers wear them to endure long ceremonies or smile through negotiations. They were removed with gloves after an hour and returned to velvet-lined cases. "How long has that been on you?"
+The kitchen door swung open. A scullion backed through with a bucket, and Felisane pulled me aside before I became part of the washing-up.
 
-"Since before breakfast."
+"Fewer people are frightened," she said when the door had shut. "That matters. It doesn't make this right."
 
-"You cannot—"
+"You think she's planning something."
 
-"Do not shout. It goes straight into the metal."
+"I think she has stopped warning me when I stick her with pins. Planning would be familiar."
 
-I lowered my voice. "Open it."
+Six days earlier Odrienne had dismissed a chambermaid for stealing a ribbon. The ribbon had never been stolen. My sister had hidden it in a cousin's sleeve to make another cousin jealous, then let the maid take the blame when the game turned clumsy. Odrienne had confessed only after the carriage carried the girl beyond the gates. She spent that evening snapping at everyone who called the act cruel, then tore up six attempts at an apology and called each one cowardly.
 
-"No."
+The next morning, kindness had arrived like a new uniform.
 
-"It is burning you."
+"Where is she now?" I asked.
 
-"I had noticed."
+Felisane took the napkins back. "Dressing room. And if you mean to accuse her of anything, wait until I have taken the good pins out."
 
-"Then why?"
+* * *
 
-She faced the mirror rather than me. On the dressing table, a vase of white flowers leaned away from her, their nearest leaves curled like old paper.
+Odrienne stood before three mirrors while another gown lay open across the couch. She had changed out of supper silk into a white morning dress, though dawn was hours away. Silver vines climbed the cuffs and crossed above her heart in a loop so fine it looked painted on.
 
-"I meant to see her this afternoon," she said. "The woman I dismissed. I found where she lives. I shall tell her the truth in front of her new employer if she wants it told. I shall return the wages she lost and give her the bracelet, unless she would rather never see it again."
+Felisane reached for a sleeve button. Odrienne stepped away.
 
-"And you need this to do that?"
+"Leave us," my sister said.
 
-"I need not to cry until she comforts me. I need not to become furious if she calls me what I am. I need to hear no and leave when she says it."
+The gallery music drifted through two walls. Four soft notes.
 
-"The clasp does not know right from wrong."
+"No," Felisane said. "That shoulder seam is open."
 
-"Neither did I, apparently."
+"It can wait."
 
-"That is not what I meant."
+"It cannot. You tore it reaching behind the mirror."
 
-"I know what you meant. The clasp catches the first rush. The body gives it heat, and the heat stays until the fastening is opened. It cannot make choices." She touched the discarded pearl order on her dressing table. "Those were mine. So was the honey."
+Odrienne went still.
 
-"And not wanting breakfast?"
-
-"Also mine, in the sense that I do not want much of anything."
-
-"You cannot apologize like this."
-
-"Why? Would you prefer tears? You have always found them persuasive."
-
-"I prefer my sister."
-
-"You prefer a sister whose disasters require your particular excellence."
-
-I took a step back. Calithea watched me in the mirror, still composed, still horribly able to place a blade exactly where it belonged.
-
-"I have protected you," I said.
-
-"Yes. You protect me from anyone who might hate me long enough for it to matter. You paid the maid and called the matter settled. You knew the bracelet being in her box proved too much, but asking me would have meant choosing what to do with the answer."
-
-"You were the one who lied."
-
-"I know." Her fingers tightened on the edge of the table. "Do you?"
-
-The clasp gave a small sound.
-
-Not a crack. More like ice shifting on a pond. A hairline of brighter red appeared across its face.
-
-I moved toward her. "How do I open it?"
-
-"You don't."
-
-"Calithea."
-
-"It answers to the wearer's hand. That is the point. Otherwise any man at court could decide when a woman had felt enough."
-
-Another tiny sound came from the metal. She flinched at last, though whether from pain or fear I could not tell.
-
-"What happens if it breaks?"
-
-"Everything it has delayed arrives at once. More sharply, I was told."
-
-"You were told to wear it for an hour."
-
-"I was told many things. It has never been my strongest defense."
-
-I wanted to order her hands away and open it myself. I wanted to fetch three servants, a physician, a basin of ice. More shamefully, I wanted Calithea to become furious enough that the house would turn toward me again, waiting for the familiar rescue.
-
-She had put the bracelet in an innocent woman's box. I had carried the consequences neatly out of sight. We had each mistaken our talent for a virtue.
-
-The clasp clicked.
-
-Calithea's breath caught. I soaked a cloth from the water pitcher and laid it beside her, then moved the vase and its ruined flowers to the far table. I opened the dressing-room door, checked the corridor, and shut it again. No audience. No one to summon unless she asked.
-
-"It is close to cracking," I said. "That is all I know."
-
-"You think I should remove it."
+I placed myself where I could see both her sleeve and its reflection. "Is supper over?"
 
 "Yes."
 
-"And if I do not?"
+Nothing changed.
 
-Every answer I had trained for was a method of taking the choice from her.
+"Is the west gallery beyond this wall?"
 
-I sat on the window seat. Rain blurred the garden beyond the glass. "Then I will stay while you decide what to do next."
+"Approximately."
 
-Calithea looked almost offended. "That is remarkably little help."
+The reflected vine stayed pearl-white.
 
-"It is what I have."
+"Do you want Mother's harp sent away?"
 
-For a while there was only rain and the faint tick of hot metal cooling the wet cloth beside her without being touched. Then she picked up the fourth letter. She read to the unfinished sentence about me, folded the page once, and set it down.
+"It would please our aunt."
 
-Her hand rose to her throat.
+The reflection tightened. Violet gathered at the silver leaves, one knot after another, while the thread on her real sleeve did not move.
 
-The clasp resisted. Calithea set her jaw and pressed her thumb into the blackened filigree. The oval sprang open.
+Odrienne looked at me in the mirror. Her face was calm. Her breathing was not.
 
-Heat rolled through the room. She tore the chain off and dropped it onto the cloth, which hissed. For one suspended breath, nothing changed. Then her face crumpled, smoothed, and crumpled again. She gripped the edge of the table as if a floor had shifted beneath her.
+"Would you rather keep it?" I asked.
 
-I started up. She thrust out a hand without looking at me.
+"Whatever is most generous."
 
-"Don't."
+The knots pulled higher.
 
-I stopped.
+"Do you dislike the canal petitioners? Do you want the blue room? Did you mean to dismiss that girl? Are you angry with me?"
 
-Color swept up her neck. She paced once to the wardrobe and back, then kicked the cushioned stool so hard it overturned. She swore at the clasp, the rain, the jeweler who had rented it to her, and me. Especially me. Tears came while she was still speaking. She wiped them away with both hands and grew angrier because they returned.
+Violet crowded into black. Odrienne's mouth opened, but the gallery reached its fourth note and her jaw closed around a smile.
 
-"I hate that you were right," she said.
+Felisane caught my sleeve. "Stop making requests."
 
-"About the clasp?"
+"I'm asking questions."
 
-"Choose a thing. I hate you about all of them."
+"To someone who agrees with them. Stop."
 
-Her stomach made a loud, indelicate noise. She stared down at it in disbelief. A laugh escaped me before I could stop it.
+Odrienne knocked twice on the dressing table, then once. Follow.
 
-"If you laugh again," she said, shaking, "I shall throw that fox through your bedroom window."
+She turned toward the couch. The reflected vines flashed a thin, hard blue toward the fallen gown; because of my questions, or because of Felisane's hand on me, or because the music had changed key, I could not know. Color was evidence of pressure, not a vocabulary.
 
-"There you are."
+But the rhythm was ours.
 
-The words were tender when they left me. They were also wrong.
+Under the gown lay a workbasket. Its contents had been torn apart: ordinary thread, silver skeins, three blunt needles, a card folded into eighths, and a cuff half-unpicked from its sleeve. Felisane lifted it carefully.
 
-Calithea heard both. "Do not welcome back the worst of me as if it has done you a favor."
+"This is gracework," she said. "Court seamstresses use a few stitches to delay an angry word through a ceremony. Not a whole gown."
 
-She rang for food, then snapped at the maid who answered because it took four minutes to arrive. The maid went pale. Calithea squeezed her eyes shut.
+"I improved it," Odrienne said.
 
-"No," she said, before I could intervene. She stood, unsteady but upright. "That was unfair. You came quickly. Please bring bread and cheese, and leave us alone."
+No one had asked her.
 
-The apology was graceless. The maid accepted it with caution rather than gratitude. I kept silent.
+The card named impulses a wearer might choose to pause: interruption, appetite, envy, discourtesy. Odrienne had added her own cramped list in the margin. Refusal. Complaint. Preference. Suspicion. Anger. Ungenerous motion. Disappointing speech. The marks filled both sides and continued along the fold.
 
-Calithea ate half the bread with her fingers. Anger returned between bites, followed by shame, then an absurd delight in the cheese. None of it made her good. None of it made her false.
+Below them, the printed directions ended with a warning. A pattern repeated through seven dawn cadences would set around its living anchor. Before binding, the wearer could revoke it by cutting that stitch. The instruction sounded simple until the last line: any impulse already suspended might also delay revocation.
 
-When she finished, she pulled the letter toward her.
+I set the card down. "You did this to yourself."
 
-"Tell me what to write after your name," she said.
+The mirrored thread went colorless. A fact, then.
 
-I wanted to. I could see the useful sentences lined up, each one honest enough to survive inspection and gentle enough to reduce the chance of a slammed door.
+"After the chambermaid," Felisane said.
 
-"No," I said.
+Odrienne nodded once.
 
-Her eyes flashed. "You read it without permission, lectured me, nearly undressed me in the morning room, and now discover restraint?"
+"You could have brought her back," I said. "You could have paid what she's owed. You could have told the house you lied."
 
-"Late, but not entirely beyond hope."
+"I will do all of that."
 
-She called me a name she had not used since the year of the broken fox. Then she looked at the unfinished line, struck out *My brother*, and began again beneath it.
+Perfectly timed. Perfectly reasonable. I hated that part of me loosened at the sound.
 
-I sat with her until dusk without asking what she wrote.
+"When?"
 
-The next morning Calithea came to breakfast in a traveling dress with no chain around her throat. The burn beneath her collar had been salved. She complained that the eggs were cold, sent them back, then called after the footman to say it was not his fault and she would eat them anyway. He looked at me. I looked down at my plate.
+"Tomorrow."
 
-She took two pieces of toast. Before putting the second on her plate, she touched the bent silver tine.
+Violet flooded the mirror.
 
-"The carriage is ready," I said.
+"You were trying to take the gown apart," Felisane said.
 
-"I can hear it. The near horse stamps."
+Odrienne's fingers twitched toward the open shoulder seam. Her hand stopped halfway.
 
-"Do you want me to come?"
+"Would you like me to tear it off?" I asked.
 
-Calithea buttered her toast too thickly. "Yes."
+She looked relieved before I finished. "If you think it best."
 
-My old competence rose eagerly between us.
+I seized the silver crossing at her shoulder.
 
-She bit into the toast, chewed, and frowned. "No. I want to want you there. That is different."
+Odrienne struck my wrist away.
 
-I folded my napkin. "All right."
+The blow surprised all three of us. Then the grace caught up. She folded both hands at her waist, white-faced and smiling.
 
-"If she refuses to see me, I may come home in a dreadful temper."
+Felisane put herself between us. "She said no plainly enough."
 
-"I expect you will."
+"She didn't say anything."
 
-"You might try to sound less pleased about it."
+"She hit you."
 
-I was not pleased. I was frightened for her, angry with her, and proud in a way I did not trust. Beneath it all was the old love, no purer than it had been the day before.
+I rubbed my wrist. My wish to rescue Odrienne had been only another question with the answer supplied.
 
-Calithea reached for the last sugared plum. Her hand stopped above it. She glanced at me, then cut it unevenly and left the smaller half on my plate.
+My sister tapped the table: two quick, one slow. Then four even beats. She pointed toward the gallery wall. Two quick, one slow. Four even beats.
 
-"Do not make a ceremony of that," she said.
+"Follow after the music," I said.
 
-"I would not dare."
+Her reflection flashed blue.
 
-She ate her half, rose, and went out to the waiting carriage before she could change her mind.
+"That's not a yes," Felisane said.
+
+"No. It's a guess."
+
+Odrienne picked up the instruction card, turned it over, and pressed one nail beneath a line drawn there in her own ink: *mirror chamber, seventh cadence, dawn*. Then she left the room.
+
+We followed.
+
+* * *
+
+Valsor Palace had been built by people who believed music improved when forced through stone. Copper throats in the walls carried the gallery's sound into the state rooms, the chapel, and the old mirror chamber at the eastern end. Odrienne had ordered the dawn courtesy played through all of them for a week. At the time, I thought she was punishing the musicians for laughing during rehearsal.
+
+Now the silver leaves on her cuffs leaned toward every grille we passed.
+
+At the last turn, I reached for her again. She pulled away before I touched her. The black knot that appeared in the mirror opposite us might have meant fear, refusal, or only the effort of moving quickly. I kept my hands to myself.
+
+The gallery held nine musicians among music stands and moved screens. The first violin had a bit of chalk tucked behind one ear. A reed player was tightening a frayed binding with his teeth. Three singers bent over a marked score.
+
+"Stop playing," I said.
+
+The first violin lowered her bow. "We stop at the end of a measure."
+
+"Stop now."
+
+The reed player let the binding fall from his mouth. "He means now."
+
+Silence rushed into the copper grilles.
+
+Odrienne stumbled. Her hand flew to the silver loop above her heart. Then she straightened and pointed at the score.
+
+"Continue," she said. "The dawn service must be ready."
+
+"Does she want you to play?" I asked.
+
+The youngest singer looked from me to Odrienne. "She just told us to."
+
+"That doesn't answer him," Felisane said.
+
+"I don't know what answers him."
+
+The first violin tapped the score with her bow. "My lady, the fourth entry is still late. Do you want it corrected or not?"
+
+"Yes."
+
+"That was a poor question," the reed player muttered.
+
+Odrienne tapped the music stand: two quick, one slow. Follow. Then four even beats, broke the last with her knuckle, and did it again.
+
+"She wants the count broken," I said.
+
+"Or wants a different tempo," said the violinist.
+
+"We don't know," Felisane said. "But she brought us here and marked the broken beat. Can you make the sound miss itself?"
+
+The musicians looked offended in several different ways.
+
+"I can enter late," said the young singer.
+
+"You always enter late," said the violinist. "Tonight it must be on purpose."
+
+"I can split the reed note," the player said. "Don't ask me to hold pitch while she drags the strings under it."
+
+"I wasn't going to."
+
+"You were looking at me."
+
+Odrienne had already gone.
+
+We found her in the mirror chamber. Moonlight stood in six tall mirrors, each one facing another across a floor inlaid with silver. At the center waited a low chair, a dressing stool, and the seam knife from Odrienne's workbasket.
+
+She had planned this much. The knife lay an arm's length from the chair. She sat, placed both hands on her knees, and watched herself on every side.
+
+The first gray of morning touched the windows.
+
+From the walls came the courtesy cadence. One singer entered early, another late. The reed note cracked like ice under a boot. A violin held stubbornly to the written pulse, then lost it when the others pulled away.
+
+Odrienne's right hand lifted.
+
+The silver vines tightened. Her hand returned to her knee.
+
+"Take the knife," I said.
+
+Violet stormed through all six reflections.
+
+I had done it again. Turned her action into my command, her struggle into an answer I wanted.
+
+Felisane crouched beside the chair and studied the gown. "The anchor isn't at the heart. That's a crossing."
+
+"The card said a living anchor."
+
+"Cloth isn't living. Hold the lamp lower."
+
+I did. Near Odrienne's inner wrist, beneath the cuff edge, one silver stitch disappeared through a narrow ribbon laid against her skin. It did not pierce her. It moved with her pulse.
+
+"There," I said.
+
+Odrienne's eyes found the stitch in the nearest mirror. She tapped twice with her left hand, once with her thumb. Follow.
+
+Not permission. Not proof. A direction she had chosen before I understood it.
+
+I moved the stool closer without putting the knife in her hand. Felisane caught the gown's heavy skirt and eased its weight off Odrienne's arm.
+
+"Not that seam," she said when I reached down. "You'll bind her elbow. Lift from the hem."
+
+"I am lifting."
+
+"You're bunching. Give it here."
+
+The music stumbled. Someone swore through the copper throat. The first violin called, "No, from three. If we lose all the bars, it becomes noise."
+
+"Noise is useful," the reed player shouted back.
+
+"Not if no one knows where to break it. From three."
+
+They began again. Three clean counts. The fourth arrived in pieces.
+
+Odrienne reached. Her fingers stopped above the knife. Her smile appeared in every mirror, gentle and unbearable.
+
+I did not encourage her. Felisane did not ask what she wanted. We held cloth and lamp and waited while the broken cadence came through the walls again.
+
+On the third attempt, Odrienne's fingers closed around the knife.
+
+She missed the stitch. The blade scraped a bright line across the cuff embroidery. She made a sound low in her throat and tried again.
+
+The sun put a thin red edge along the window frame.
+
+The musicians reached three.
+
+On four, the singer went silent, the reed jumped sharp, and every violin chose a different fraction of the beat.
+
+Odrienne hooked the knife beneath the anchor and pulled.
+
+The silver thread snapped.
+
+All six reflections flared violet, blue, and furious red. Then the colors fell out of them. The embroidered leaves sagged into ordinary thread. Somewhere in the wall, a reed squealed and stopped.
+
+Odrienne's smile vanished.
+
+"My wrist hurts," she said.
+
+Felisane let out one breath. "Because you've had a ribbon rubbing it raw for six days."
+
+"Why did no one tell me?"
+
+"I did. Twice. You thanked me and put the cuff back on."
+
+Odrienne looked at the red skin, then at me. Anger arrived openly, uneven and alive.
+
+"You were pleased," she said.
+
+I could have denied it. Instead I put the seam knife on the floor where none of us had to hold it.
+
+"At first."
+
+"At first," she repeated, uglier.
+
+"I should have asked sooner."
+
+"You asked constantly. That was the trouble."
+
+There was too much truth in that for a graceful answer. I sat on the floor beside the stool. Odrienne did not forgive me. Felisane began unfastening the ruined cuff.
+
+* * *
+
+Before breakfast, Odrienne dictated three letters.
+
+The first admitted that the chambermaid had not stolen the ribbon. The second ordered her wages paid through the end of the season whether she returned or not. In the third, Odrienne requested that all dismissals from the past year be brought to the household comptroller for review.
+
+"Two years," Felisane said, sorting the gown's silver thread into a bowl so no strand touched Odrienne again.
+
+Odrienne's pen stopped. "One."
+
+"The pastry cook lost his place fourteen months ago because your sugared violets were damp."
+
+"They were damp."
+
+"He didn't make them."
+
+Odrienne blotted a furious dot onto the page. "Two years."
+
+She offered Felisane a sapphire clasp as thanks. Felisane refused it.
+
+"It is worth more than a year's wages," Odrienne said.
+
+"That is why I'm refusing. Pay the people you owe. And someone besides you should hear complaints."
+
+"You?"
+
+"No. I have a laundress to help and would like to remain a maid instead of becoming your conscience."
+
+Odrienne winced. Not magically. She pushed the clasp back into its box.
+
+The plain cuff Felisane made for her had one loose red stitch where the anchor had been. No silver, no mirror-thread, no force in it at all. Odrienne could have thrown the dress away. She chose to wear the damaged sleeve to breakfast.
+
+The servants brought pears, bread, and three kinds of preserve. Odrienne looked at each dish before speaking.
+
+"Tea, please," she told the footman. "Not the spiced one."
+
+He poured. She tasted it, frowned, and passed the pear preserve to me.
+
+"I hate this," she said. Then, after no music and no measured pause, she added, "Thank you."
+
+The footman carried on with the tray. Felisane left for the laundry. Odrienne reached across me for the blackberry jar without asking, knocked my spoon into my lap, and told me the blue guest room could have three petitioners but not six unless I found another chamber pot.
+
+I wiped tea from my knee while she buttered her bread.
+
+The red stitch at her wrist held because it was only thread.

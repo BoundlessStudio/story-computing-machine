@@ -8,480 +8,390 @@ canon: false
 
 # By Wing and Welcome
 
-The medicine dropper had glued itself shut with pear. I was at the kitchen sink, worrying a pin through the amber crust, when Beatrix said, “If you split the tube, they’ll make us pay for it.”
+At seven thirteen, twelve evenings after Pippa found the bat on our doormat, she read his weight aloud while I held him in my gloved hands.
 
-“The wildlife center does not want this back.”
+“Nine point two grams.”
 
-“They said to keep the supplies until we knew he was gone.”
+“Check the decimal.”
 
-I held the dropper up to the light. “He flew away seven nights ago.”
+My daughter bent until her braid brushed the scale. “Twelve point nine. I knew that. The six looks like a decimal when the light catches it.”
 
-At the table, my daughter bent over the notebook in which she had recorded three days of a bat’s private affairs. Morning weight, evening weight, water taken, water refused, droppings produced, mealworms rejected. Beatrix was sixteen, old enough to follow every instruction from the wildlife-center volunteer and exact enough to spot every place an exhausted adult had rounded one for convenience.
+“It was a nine.”
 
-“Gone from the box,” she said. “That’s all we know.”
+“Then the nine looks like a six.” She wrote the correct number in the care log and underlined it once. Pippa was eleven and had spent twelve days learning that supervised wildlife care meant she recorded weights, changed water, counted mealworms, and kept the flight room quiet. It did not mean she got to put bare hands on a bat because she loved him.
 
-The ventilated shoe box still occupied the laundry counter. Inside lay a jam-jar lid, one leather glove whose mate had vanished, and the faded green hand towel Beatrix had pinned up for the bat to climb. I had washed the towel twice. One corner remained rust-colored where the tear in his right wing had opened the first night.
+The bat tucked his narrow head against my thumb. His right forearm had been cracked when Pippa found him, the wing dragging wet across the front step. That evening the joint moved cleanly and the membrane had healed to a thin pink seam. I lowered him to the landing board.
 
-I pushed water through the dropper. A clear plug shot into the sink.
+“May I check the other side?” I asked.
 
-“There. Closure.”
+He put one claw on the green YES square.
 
-Beatrix wrote something else.
+Pippa and I had made the board on his third day, after he had ignored a dish I moved within reach, crossed half the recovery box, and planted himself on the word WATER. It offered YES, NO, STOP, WATER, PAIN, ALONE, and an alphabet strip—nothing more. A bat should not have been able to read block capitals. By then, a bat should not have been able to glare at my thermometer either. I had stopped saying should in front of him.
 
-Seven nights ago, we had carried the box onto the porch at dusk. The bat had climbed the towel, hung with his bad wing drawn close, and dropped so suddenly I thought we had killed him. Then his wings caught. He skimmed the hedge and circled back once, the right one dipping on every turn. Beatrix had clicked her tongue twice, softly, the way she did before offering water so he would not wake biting. From the dark above the porch light, two notes had answered.
+I examined the wing, then backed away. He climbed to the perch and shook himself. His ears flicked toward the rain ticking on the high window.
 
-She had called it goodbye. I had called it an echo.
+“Three full circuits tonight,” Pippa said. “Maybe four.”
 
-Three knocks sounded at the front door. They were slow enough to count. After a pause came three more.
+“Three, if he chooses. Outdoor release is off while that storm sits over us.”
 
-I put the pin beside the sink. “Stay in the kitchen.”
+“I know. Controlled test.” She drew a box for the result. Beside it she had already written *door shut, fan off, water left* in her cramped capitals.
 
-“You always make me stand on the stairs.”
+The doorbell rang.
 
-“Then you know where to stand.”
+The bat dropped flat against the perch. Pippa looked at me, then at the clock. Nobody visited on a release night, and nobody sensible visited in that weather without calling first.
 
-I took my phone from the counter on the way through the hall. The back door was locked. The front deadbolt was thrown, the chain seated. Through the narrow pane beside the door, I saw two strangers beneath the porch light.
+“Stay here,” I said.
 
-They had chosen coats for a cold country and buttoned them to the throat on a warm evening. The taller one stood with his empty hands held a little away from his sides. His black hair lay flat behind narrow ears that ended in careful points. The shorter stranger had close-cropped brown-gray hair and eyes that flashed red when she glanced toward the light. Neither looked at the window. Both looked at the door.
+“You can't supervise me from the front door.”
 
-I kept my thumb on my phone and opened to the chain.
+She was right, which was irritating. I settled the bat in his open recovery box, carried it to the front hall, and had Pippa wheel the landing-board cart behind us. I kept my gloves on.
 
-The tall man bowed to the four-inch gap. “I am Raskel. This is Vesper, my wife. We ask hearing under the custom of wing and welcome.”
+The couple outside looked as though the storm had discovered two people who had dressed for the wrong century. The woman's coat fastened diagonally with dozens of dull horn toggles. The thin edges of her ears rose through her soaked hair and turned separately, one toward my voice, one toward the recovery box. Beside her, a tall man wore a waxed coat cut with deep triangular pleats under the arms. Before he spoke, the skin at his throat tightened in two quick pulses.
 
-Vesper gave him a level look. “Bram came home seven nights ago,” she said to me. “Your daughter kept him alive.”
+“Is he there?” the woman asked.
 
-“Who is Bram?”
+The man said, “We believe the injured person in your care is our son, Teyo. He is twelve years old.”
 
-“Our son.”
+The woman looked past my elbow, though she did not step closer. “And we came to ask if we may be godparents to your daughter.”
 
-Raskel touched two fingers to his breastbone. “He came beneath your roof unable to bear his own weight in the air. Beatrix fed him and tended his wound. We have come to ask whether Vesper and I may stand as her godparents.”
+Pippa whispered, “They led with the second-weirdest part.”
 
-The chain seemed suddenly less like hardware than decoration.
+I put my foot against the door. “Names. Yours, not his again.”
 
-“No.”
+“Olya,” said the woman.
 
-I started to close the door. Vesper did not reach for it. That mattered enough that I stopped before the latch met the frame.
+“Corven.” The man wiped rain from his mouth. “We understand that the combined request lacks an adequate sequence. Recovery first. Verification second. The pledge—if welcome—last.”
 
-“He was a little brown bat,” she said. “Tear in the right wing, just past the second joint. He says the box smelled of orange soap. There was a towel he could climb and a metal lid that made the water taste wrong.”
+“Nothing is welcome yet,” I said. “How do you know there's a bat here?”
 
-Behind me, the third stair creaked. Beatrix had reached her usual place.
+Olya's ears tipped toward the box. “I hear him.”
 
-“How do you know her name?” I asked.
+“You hear a bat.”
 
-“You called to her,” Vesper said. “Often, according to Bram.”
+“I hear a frightened young one trying not to answer me.” Her hands closed on each other. “That isn't proof. I know.”
 
-“And the address?”
+Corven gave me the date Teyo had disappeared. Twelve days ago. He described a healed notch along the left ear and an injury to the right forearm, neither of which they could see from the step. Then he said, “When he is upset in this body, he bites cloth hems but leaves the seams intact.”
 
-Raskel answered. “He brought us.”
+Pippa opened the log without being told. Day four: *pulled towel under perch, three tooth marks, didn't rip it.* Day eight: *did it again after weighing.*
 
-My grip tightened on the door. I looked past them to the porch steps, the path, the empty strip of street visible beyond the hedge. No car waited at the curb. No third person stood in the yard.
+“People can guess,” I said.
 
-“You followed a bat to my house.”
+“Not that,” Pippa said. “But they could've watched us.”
 
-“Our son knew the way.”
+The lights went out.
 
-“Your son is a bat.”
+For a moment the only illumination came from my battery alarm panel and the white tear of lightning above the road. Rain hammered the porch roof. In the recovery box, claws scraped cardboard.
 
-“At present,” Raskel said, “yes.”
+I shut the door on the weather and locked it. That admitted Olya and Corven only as far as the tiled vestibule. “Pippa, backup pad.”
 
-Vesper rubbed the side of her thumb across one dark, thickened nail. “This part usually goes badly.”
+She was already kneeling at the cart. The small heat pad switched to its battery with an amber light. Its display settled on forty-eight minutes.
 
-“There’s a part after this?”
+“Flight room will cool faster than the house,” I said. “We do this narrowly. You two stay here until he answers.”
 
-Raskel’s gaze stayed fixed on mine. His pupils were so wide that his irises looked like thin bronze rings. “When another household shelters a child of ours, we lay our own shelter behind the rescuer. If Beatrix’s first door should close against her, ours must open. If she calls in danger, we answer. If she is cast out—”
+Olya pressed both palms to her coat. Corven began, “Our kin can execute a voluntary bodily transition no more than once in the interval commencing at sunset and terminating at the subsequent sunset—”
 
-“She has a home.”
+“How long?”
 
-“I see it.”
+“Three uninterrupted minutes without light. The change spends heat. It retains injury, hunger, memory, and the person.”
 
-“Then you don’t need to stand on my porch talking about taking my place.”
+“Can you trigger it?”
 
-“I spoke of a door after yours.”
+“No name, touch, order, threat, appeal, or emotional extremity can initiate it in another person.”
 
-“You spoke of mine closing.”
+“Plainly,” Pippa said.
 
-Vesper turned her head toward him. “You led with the funeral edge.”
+Corven looked at her. Rainwater ran off his wing-cut sleeves. “No. We can't make him.”
 
-“A promise that omits its worst hour is ornament.”
+“Can he stop once he starts?” I asked.
 
-“A promise that frightens away the person hearing it is noise.”
+“Not safely that we know.”
 
-He took that without bowing or apologizing. His fingers closed once over his palm. When he spoke again, the ceremonial cadence was gone, though not the precision.
+“Then we don't start cold.” I checked the room thermometer: nineteen degrees and falling. “Twelve point nine grams. Healing forearm. He has flown only in this room, and not tonight. You will tell me only what affects his immediate safety.”
 
-“Beatrix gave food when Bram could not hunt. She kept a closed room when flight would have torn him further. We offer the same acts, should she ever require them. We ask. We do not enter by asking.”
+“Warm, awake, free to move,” Corven said. “And willing.”
 
-“Godparents enter families.”
+Pippa rolled the cart into the flight room. I carried the open box. Olya and Corven waited behind the yellow tape I used to mark the handling area. The exterior release hatch was shut against the storm, but the door to the hall stayed open behind them.
 
-“Sometimes,” Vesper said. “Sometimes they remain two numbers on a refrigerator until the night somebody needs a ride.”
+The bat climbed out on his own. He ignored the board and stared at Olya.
 
-There was a faint scrape above the porch light.
+She made a sound too high for me to hear. I knew only because her throat moved and the bat answered with a burst that my detector rendered as a scatter of descending clicks. He launched, circled once, and caught the mesh wall closest to her. Olya lifted a hand, then stopped it at her own chest.
 
-Vesper’s eyes moved upward before she could stop them. Raskel did not move at all.
+Pippa watched the detector. “That's his found-something sound. Not yes. Just—I don't know. Excited.”
 
-I shut the door and threw the deadbolt.
+“Teyo,” Olya said. “Little—”
 
-Beatrix stood halfway down the stairs with her notebook hugged to her ribs.
+The bat dropped to the board and struck STOP.
 
-“They know about the towel,” she said.
+Olya went silent so abruptly I heard the battery pad's relay click.
 
-“They know where we live.”
+Corven took one step back. Then another.
 
-“So did the bat.”
+I moved the board closer without touching the bat. “Do you want the two people from the door inside this room if they stay behind the tape and do not touch you?”
 
-“You are not part of this conversation yet.”
+YES.
 
-Her face took on the cold stillness she wore when an adult had made an error in her hearing. “Did you ask if the wing bled again after he left?”
+“Do you want Pippa and me to stay?”
 
-“No.”
+YES.
 
-“Did you ask what he ate?”
+“One question at a time,” Pippa told Corven. “He can spell, but it's slow, and his right side gets tired.”
 
-“Beatrix, they just asked for a place in your life.”
+Corven nodded as if she had given him a difficult professional instruction. “Understood.”
 
-“Because of my patient. You’re asking the wrong questions.”
+I pointed to the alphabet strip. “Are the letters T-E-Y-O your name?”
 
-Outside, no one knocked again. Their willingness to wait made them harder to dismiss.
+The bat tapped YES.
 
-I opened the deadbolt. “You stay behind me.”
+“Are Olya and Corven your parents?”
 
-“I need them to hear me.”
+He held still long enough that Olya's breath caught. Then he crossed to YES.
 
-“They will.”
+Olya made no move toward him. She only crouched behind the tape and turned her face slightly away, giving him the side view rather than the full attention of her large, light-catching eyes.
 
-I put the chain under tension and opened the door its four inches.
+“Did you leave their home on purpose?” I asked.
 
-Beatrix spoke past my shoulder. “Did his wing bleed after he flew?”
+YES.
 
-Vesper answered at once. “A little at the edge. It stopped that night. He still drops right when he’s tired.”
+“Did you have permission?”
 
-“Did he eat?”
+NO.
 
-“Two live mealworms, then a beetle.”
+Corven closed his eyes. Olya whispered something I did not understand.
 
-“Not the dried ones?”
+“Don't do that,” Pippa said.
 
-“He says those were an insult.”
+Olya looked up.
 
-Raskel lifted one hand. “We will not inventory every helpless moment of his to buy your belief.”
+“Not the other language. The sad noise like you already know everything. He hates when I do the sad voice.”
 
-“I’m asking whether he’s healing.”
+“Pippa,” I said.
 
-“He is,” Vesper said. “And there are things he asked us not to repeat.”
+“He does. Day six, after he wouldn't eat.”
 
-Beatrix lowered the notebook a little. “Okay.”
+Olya's fingers opened. “Thank you. I was answering for him with my face.” She tried the sentence again and lost it halfway. “I am afraid, so I keep—I see him and my hands—” She tucked them under her arms. “I will wait.”
 
-The scrape came again, followed by a dry rustle over our heads.
+The room thermometer showed eighteen. The pad read thirty-nine minutes.
 
-I looked at the shadowed seam where the porch roof met the wall. “Who is up there?”
+“Do you want to change to the body that can speak?” I asked the bat.
 
-“No one who will come through this door without leave,” Raskel said.
+YES.
 
-“That isn’t what I asked.”
+“Now?”
 
-Vesper’s mouth flattened. “Bram flew ahead from the car. Then he heard us at the door and hid. He wanted to see this house again. He did not want to come down.”
+YES.
 
-“He is sitting on my house.”
+“Are you in more pain than before the visitors came?”
 
-“Yes,” she said. “We should have stopped him at the hedge.”
+NO.
 
-Beatrix made two quiet clicks with her tongue.
+He moved from NO to WATER.
 
-From above the light came two answering notes, the second pitched higher. I felt Beatrix take one sharp breath behind me.
+“See?” Pippa said. “One thing.”
 
-“Bram?” she said.
+I set down the shallow dish. He drank, one wing slightly lifted for balance. Olya watched his ears instead of the dish.
 
-Something shifted in the eave.
+“He dislikes moving air over his back when he is cold,” she said. “At home he crawls into the sleeve of my oldest coat. The brown one. It smells of cedar and burnt sugar.”
 
-“Bring him down,” I told Vesper.
+Pippa checked the log. “He hides under the towel when the vent comes on.”
 
-At the same moment Raskel raised his face. “Bram, descend. The household requires—”
+“May I put this near him?” Olya opened her coat, revealing a lining patched in three shades of brown. “Not over him. He can enter or not.”
 
-“No,” Beatrix said.
+I asked. The bat selected YES.
 
-It stopped all of us, perhaps because she did not say it loudly.
+Olya slid the coat across the floor and withdrew her hands before it crossed the tape. Pippa positioned it beside the landing board after he agreed to that too. He crawled halfway into one sleeve, nose working. His detector trace sprang into tight, rapid curves.
 
-“His wing drops when he’s tired,” she went on. “You both just said so, and now you’re telling him to jump because you want an answer.”
+“Recognition,” Pippa said. “Maybe happy. You still have to ask.”
 
-“I want to see who is over my door.”
+Olya nodded, but tears had reached her chin and she seemed unable to find any more words.
 
-“Then hold it.” She pressed the notebook into my free hand. “I need the towel.”
+We prepared the room around his choices. I filled two sealed bottles from the hot-water tank while it still held heat and wrapped them in towels. Corven checked the blackout blind only when I told him he might. Pippa covered the alarm display with a folded cloth. When Corven suggested the recovery carrier, the bat struck NO before I finished the question.
 
-Before I could turn the instruction into a refusal, she was gone toward the laundry room. Raskel watched the floorboards. Vesper watched the eave.
+“No carrier,” I said.
 
-“You do not get a change because you ask,” she said.
+“The carrier would reduce the chance of a fall during altered balance,” Corven began.
 
-“I didn’t ask him to change.”
+The bat hit STOP.
 
-“You will.”
+Corven pressed his lips together.
 
-There was no softness in her voice now. She was Bram’s mother, and I recognized the stance even if I understood nothing else about her.
+I opened the carrier door and laid it on its side, available and empty. “He stays unrestrained.”
 
-Beatrix returned with the washed green towel folded lengthwise. I held the door against the chain while she fed one end through the gap and spread it across the threshold, half on the porch boards and half on our hall floor. Then she stepped back far enough that I had to shift to keep myself between her and the opening.
+“Yes,” Corven said. This time there was no definition attached.
 
-“Dry side up,” she called. “Same as before.”
+The pad showed twenty-seven minutes. We could wait for the power, but not with any assurance, and release into hard rain was no option. I wanted a veterinarian, a generator, daylight, and a week to decide whether impossible visitors were trustworthy. What I had was a cold animal who had just told me he was a child, two parents making themselves obey a strip of yellow tape, and Pippa noticing every time an adult let fear turn into permission they had never received.
 
-She clicked twice.
+“Who stays in the room?” I asked.
 
-The porch stayed empty. A car whispered along the far end of the street. Raskel moved to the left, Vesper to the right, clearing the space before the door without looking up.
+Through separate yes-or-no questions, Teyo chose all four of us. He wanted Olya and Corven behind the tape. He wanted Pippa beside me. He wanted no one touching him. He wanted the coat within reach and the carrier open. When I asked if we could bring up low light after three minutes, he chose YES.
 
-A small dark body dropped from the eave.
+“Last chance to stop before we start,” I said.
 
-His wings opened late. The right one failed to cup fully, and he struck the door trim with a leathery tap that made Beatrix flinch. He clung there, narrow face turned toward the hall. A pale seam crossed the lower part of his right wing. I had seen that seam wet and red under the laundry-room light while Beatrix, inside two leather gloves, held herself still enough not to shake him.
+He rested one claw on YES.
 
-“Don’t do another circle,” she said.
+Pippa corrected me. “That sounds like yes means stop.”
 
-The bat crawled down onto the towel. He tucked his face against the washed cloth and made a single low click.
+She was right again. I breathed out. “Do you still choose to change now?”
 
-Vesper bent near without touching him, then unbuttoned her coat. “He wants to speak. May I screen him? The room is too bright, and the change needs space.”
+YES.
 
-“What happens?”
+I shut the hall door, pulled the blind, and switched off my torch. The darkness was complete.
 
-“He gets larger. It hurts. We cover him.” She drew a bundle of clothes from inside her coat. “No one touches him. No photograph. No second change tonight.”
+Pippa started the three-minute timer under the folded cloth. Nobody spoke. At first I heard the tiny working sounds of a bat inside fabric. Then the coat lining dragged across the floor. A heel struck the empty carrier and shoved it into the wall. Olya inhaled sharply but did not cross the tape. Somewhere in the second minute, the sounds became human breathing: quick, chilled, trying not to complain.
 
-Raskel had already turned his back to the door. Beatrix backed toward the stairs. I looked at the lit windows across the street, then reached around the jamb and switched off the porch light.
+The timer vibrated against Pippa's palm.
 
-“One step,” I said to Vesper. “The chain stays.”
+“Teyo?” I said. “May I bring up the covered lamp?”
 
-She planted one boot beside the towel and crouched with her back to the street, spreading the coat in a half-circle around Bram. One edge covered the gap in the door. Under the cloth came a burst of rapid clicks, a scraping thump, then the hard intake of a child trying not to cry out. The coat pulled lower as whatever crouched behind it gained weight. Vesper murmured something too low for me to hear and passed the clothes under the screen one piece at a time.
+A boy's voice answered from the floor. “Yes. Low.”
 
-“Ready,” a boy said at last. His voice was thin with effort.
+I uncovered the lamp one fold at a time.
 
-Vesper lowered the coat.
+He was twelve, or near enough that the number fit his narrow shoulders and furious embarrassment. Olya's coat covered him from collarbone to shin. His ears were smaller than hers but had the same fine mobile tips; his eyes caught bronze at the edges. His right forearm lay guarded against his ribs. A thin healing abrasion crossed the inside of the wrist exactly where the wing seam had been.
 
-He stood barefoot on the porch, perhaps twelve, swallowed by a charcoal shirt and shorts tied tight at the waist. His brown hair sprang in damp points from his head. He held his right arm close, and along the inside of the forearm ran a healing line in the same shallow curve as the scar on the wing. He looked first at Beatrix, then at the dropper I had carried from the kitchen without noticing.
+Olya stayed behind the tape. “May I come to you?”
 
-“Pear sludge is terrible,” he said.
+“Not yet.”
 
-Beatrix stared. “Your weight was dropping.”
+She sat down where she was.
 
-“You announced that twice a day.”
+I knelt outside his reach. “May I examine your arm?”
 
-“You wouldn’t eat the worms.”
+“In a minute. Bottle first.”
 
-“Dead,” he said, with exhausted disgust.
+I rolled him one of the wrapped hot-water bottles. He trapped it between his knees. Pippa handed over the cup only after he asked. He drank, shivering hard enough to tap his teeth on the rim.
 
-He clicked once toward the doorway and recoiled from the answer. “The light in the hall is loud.”
+“Pippa said you could read,” I said.
 
-Beatrix reached for the switch. I blocked her path with my arm, then turned the light off myself.
+“I can. Spelling with one foot is awful.”
 
-Seeing the scar answered one question. It did not answer why three strangers wanted my daughter.
+“You used your left,” Pippa said.
 
-Vesper saw that I was not reaching for the chain. “We can take him back to the car,” she said. “Or we can finish this somewhere he can sit. Those are the choices I have for him tonight.”
+“My right hurt.”
 
-Bram’s knees trembled. Beatrix held out the clean end of the towel but did not step through the door.
+“I put the letters closer on that side.”
 
-I slid the chain free.
+“You put Q beside P.”
 
-“Kitchen,” I said. “Vesper first with Bram. Raskel, you wait until I tell you.”
+Pippa turned to me. “That was one time.”
 
-Raskel inclined his head, less a bow than an acknowledgment of exact terms.
+The ordinary irritation in his voice did more than his ears or Olya's coat had done. This was the same particular patient who shoved cards aside when they inconvenienced him.
 
-Vesper came in with one arm behind Bram’s shoulders and the coat still around him. Beatrix took his other side only after he nodded. I kept the front door open and stood in it until they reached the kitchen.
+He let me examine the arm. The change had not repaired it or broken it anew. The same forearm remained tender; the same motion caused him to flinch. His temperature worried me more. I wrapped a second warmed towel around his shoulders with his permission.
 
-Raskel remained on the porch.
+“Tell me who they are, and how you reached our door,” I said.
 
-“Now,” I said.
+Teyo looked at his parents, then at Pippa. “Olya's my mother. Corven's my father. I left through my bedroom window. They said I wasn't cleared to fly alone after dark. I went anyway. There were moths by the school field. I followed them too far, hit a wire over your lane, and came down on the step.”
 
-He crossed. I closed the door, left the deadbolt unturned, and checked that the way to the back door was clear before following them.
+“Why our step?” Pippa asked.
 
-At the kitchen table, Vesper chose the chair nearest the hall. Bram sat beside her with the towel around his shoulders. Raskel waited until I pointed him to the far side. Beatrix pulled out the chair beside mine, not the empty one by Bram, and that small request for company steadied me more than all the correct details on the porch.
+“It was the first dry one. Then you came outside in socks and asked before you put the box over me.”
 
-The refrigerator compressor kicked on.
+Pippa looked down at her slippers.
 
-Bram clapped his hands over his ears. “Why does it growl before it hums?”
+“Did you know your parents were searching?” I asked.
 
-“It keeps the food cold,” I said.
+“I heard calls on three nights. I couldn't answer far enough after the fall. When I got stronger, I didn't change because it would take heat and I didn't know where I was. After that I wanted to finish the wing test.”
 
-“Badly.”
+“You could've spelled HOME,” Pippa said.
 
-Vesper set a hand near his elbow without touching it. “The other hearing lingers after he changes. It will fade.”
+“I didn't want them called until I knew I could fly.”
 
-I filled the kettle. Hard water struck metal; Bram winced again. Beatrix took a folded dishcloth from the counter and put it under the mug in front of him. Then she set a glass of water down without letting it knock.
+“That's not a good reason.”
 
-“Can you lift your arm?” she asked.
+“No.” Teyo looked at his parents. “It wasn't.”
 
-“Not for an audience.”
+“You wanted release?”
 
-“Did somebody check it?”
+“I wanted to know if I could fly.” He glanced at Corven. “Before the lecture.”
+
+Corven said, “There will be—” and stopped. “Yes. Later.”
+
+“Do you want to go home with them tonight?” I asked.
+
+Teyo drew the bottle closer. “Yes. I want you to check the arm first, and I want food. Then home. Medical care tomorrow. They can be angry after I eat.”
+
+Olya laughed once, badly, and covered her mouth. “May I?”
+
+Teyo considered her open arms. “You can sit here. Don't squeeze my right side.”
+
+She crossed the tape only after I moved it and sat beside him. He leaned against her left shoulder. Corven waited until Teyo crooked two fingers at him. Then he joined them, plain and careful, and offered his hand instead of taking Teyo's.
+
+Pippa pulled me into the hall while Teyo ate toast with honey. “Now they can ask the godparent thing,” she said. “But not because I fed him. He would've got fed anyway.”
+
+“Agreed.”
+
+“And I talk first if it's for me.”
+
+“You ask first. We decide together.”
+
+Back in the flight room, Corven wiped honey from his sleeve while Teyo denied putting it there. The power remained out, but his temperature had begun to rise.
+
+“Explain the offer,” I said. “Exact obligations. No ceremony.”
+
+Corven straightened. “Godparent is the nearest English term, not an exact translation. In our family, adults may make one optional pledge to a household whose child has sheltered theirs. Until Pippa turns sixteen, we would owe her truthful warning of any danger our family causes or brings near her, as much as three nights of emergency shelter, and practical help such as transport, food, or supplies when we can provide it safely.”
+
+“What do you get?” Pippa asked.
+
+“No custody,” he said. “No access to you or your home. No obedience, secrecy, service, or claim. We do not become family unless you use that word. Refusing causes no offense.”
+
+Olya said, “And this is our gratitude to carry. Not yours. Not Teyo's.”
+
+“Can you ask again if I say no?”
+
+“No,” Corven said. “Not unless you invite the question.”
+
+“Why me?”
+
+Olya started with a sentence, lost it, and touched the damp patch over her own knee. “Because you kept noticing what he did. Because when we were foolish at the door, you—”
+
+“I told you about the board,” Pippa said. “That doesn't mean you know me.”
+
+“No.” Olya gave a small nod. “It is what I know tonight. The pledge can stay unmade.”
+
+Pippa and I went to the kitchen alone. She asked whether emergency shelter meant sleeping in the wing coat. I said we could prohibit the coat. She asked if they could take her anywhere. I said not under the offer and not under any agreement I would accept. She asked whether Teyo got to be her friend without the adults' pledge.
+
+“Yes,” I said. “Separately. With the usual rules.”
+
+“Group messages?”
+
+“No hidden messages. No deleting. At first, the family account.”
+
+“That's annoying.”
+
+“It is.”
+
+She ate half a piece of Teyo's toast while she thought. Rainwater crawled down the dark kitchen windows. At last she said, “One year. Then we both have to say yes again. You and me.”
+
+“Either of us can end it sooner.”
+
+“And no surprise visits. They knocked like a horror film.”
+
+“No unsupervised visits or outings.”
+
+“Not even flying ones,” she said, and that decided it.
+
+We returned with the terms written on a page torn from the care log: a one-year trial, renewable only with Pippa's and my joint consent; either of us could end it; no custody, secrecy, surprise visits, unsupervised access, or contact hidden from me. The obligations Corven had named remained theirs. Pippa did not owe thanks, work, or a relationship in return.
+
+Corven read it twice. “This is acceptable.”
+
+“Just say yes,” Teyo said through another piece of toast.
 
 “Yes.”
 
-Vesper added, “It is knitting. It would knit faster if he had not flown here.”
+Olya asked Pippa directly, “Do you want this for one year?”
 
-Bram sank lower in the towel.
+“I want to try it,” Pippa said. “But you text before you come even if it's raining.”
 
-“Good,” Beatrix said, and closed her notebook without writing in it.
+“Yes.”
 
-I stayed standing. “The bat was your son. I accept that much. Start again with godparents.”
+Teyo chose his own departure just as carefully. He borrowed dry clothes from the emergency bin, let me fit a sling, and decided he could walk to their car if Corven carried the warmed bottles. Olya asked before touching the front door. I asked before giving Corven a copy of the care log. Pippa and Teyo exchanged contact details as peers on the family account, separate from the pledge, while the battery pad blinked down to seven minutes.
 
-Raskel placed both hands on the table, long fingers aligned with the wood grain. “A child of my house fell. A child of yours made room beneath him. By wing and welcome—”
+At the threshold, Pippa sent the first test message. Four phones sounded, not quite together.
 
-“What changes tomorrow?”
+“The supervised visit can be next Saturday,” I said. “Afternoon, after I speak to your doctor.”
 
-His jaw set. “It is not a verse.”
+Corven entered it. Olya checked that our number had arrived. Teyo asked Pippa to photograph the corrected board before she threw it away.
 
-“It sounds like one from here.”
+Pippa looked at Corven's screen. “You put two sevens in Saturday's date.”
 
-For a moment I thought ceremony mattered more to him than being understood. Then he looked around the kitchen: at the five chairs, the towel, the fruit bowl, the locked back door.
-
-“If Beatrix calls hungry, we feed her,” he said. “If she is stranded, we fetch her. If she needs an adult and you cannot come, one of us stays. If she arrives at our door at an hour when decent people sleep, we open it before asking why.”
-
-“And what do you receive?”
-
-“The duty.”
-
-“That is what you do. What do you get?”
-
-Raskel’s eyes narrowed, not angrily but as if I had asked him to divide a number that would not divide. “Nothing from Beatrix.”
-
-“We don’t get a key or a place on a school form,” Vesper said. “And Bram’s change stays out of that notebook.”
-
-Beatrix put her hand over the cover. “I won’t.”
-
-Vesper nodded. She did not thank her.
-
-I took five mugs from the cupboard. “Can you take Beatrix anywhere?”
-
-“Not on the strength of tonight,” Vesper said.
-
-“Can you contact her without me?”
-
-“We give both of you the same numbers. We do not hide a telephone.”
-
-“Where do you live?”
-
-“You don’t get our address tonight.” She met my stare without apology. “We don’t know you either. Bram will not be displayed again, and no one comes to our home until we have met in daylight.”
-
-Beatrix looked at Bram. “If I say no, do they make you give anything back?”
-
-“What, my wing?”
-
-“I mean does your family punish you?”
-
-“I’m already home.” He reached for the water and stopped when the glass squeaked on the dishcloth. “They’ll be gloomy. Raskel has been practicing that speech all week.”
-
-Raskel’s ears drew subtly backward.
-
-“I revised it twice,” he said.
-
-“It got longer.”
-
-Vesper hid no smile. “Nothing happens to Bram if you refuse. We leave our thanks and go.”
-
-“Do you come back?” Beatrix asked.
-
-“Not unless you ask,” she said.
-
-Raskel looked down at his carefully placed hands. “I would leave a way to ask.”
-
-The kettle began to mutter. I turned it off before the whistle. Beatrix watched me pour, then pushed the sugar toward Vesper.
-
-“Is there something I’m supposed to say?” she asked.
-
-“No incantation,” Raskel said. “I asked for an answer, not a performance.”
-
-“She isn’t answering tonight,” I said.
-
-Beatrix’s foot touched mine under the table, a warning rather than affection. “I might.”
-
-“You have known them for twenty minutes.”
-
-“That’s why I’m asking about Saturday.” She turned to Vesper. “Can Bram come back on foot?”
-
-Bram peered over the edge of the towel. “As opposed to what?”
-
-“As opposed to hiding above the light.”
-
-“The light buzzes.”
-
-“So come before it’s on. Two o’clock?”
-
-Vesper glanced at him. He shrugged with his left shoulder.
-
-“Two,” she said.
-
-“Do you call first?”
-
-“From the end of the street.”
-
-“From before the end,” I said. “And nobody waits on the roof. No presents we haven’t seen. She does not get in your car or go to your house until I have the address and I am going too.”
-
-Raskel lifted his gaze. “If she calls from a roadside, do you want us to leave her there while we search for you?”
-
-“I didn’t ask you to.”
-
-“Then say what you mean exactly.”
-
-There was the edge Vesper had warned me about. I sat at last, keeping my chair where I could see the hall.
-
-“Ordinary visits are arranged with me,” I said. “If the bus leaves her somewhere, you pick her up and ring me on the way. You don’t take her out for fun without telling me. If she and I argue, you do not arrive at midnight and call that an invitation.”
-
-“If she is inside, it is your argument,” Raskel said. “If she is outside with no bed, she has our door.”
-
-Vesper stirred her tea once. “Saturday here. We exchange addresses if Saturday goes well. Bram stays dressed. We all use the front door.”
-
-“Especially Bram,” I said.
-
-“I heard you,” he muttered.
-
-Beatrix leaned back until her shoulder touched mine.
-
-“You’ll be here Saturday?” she asked.
-
-“Every minute.”
-
-“And if it’s awful, we don’t do another one?”
-
-“We don’t.”
-
-She turned to the visitors. “Ask again. Shorter.”
-
-Raskel’s lips pressed together. Vesper did not prompt him. After a moment, he raised two fingers to his breastbone.
-
-“Beatrix, will you have Vesper and me as godparents?”
-
-“Yes,” she said. “Come Saturday at two. Knock.”
-
-His hand stayed where it was. “By wing and welcome, we will.”
-
-Vesper took the pencil beside Beatrix’s notebook and pulled the grocery list from under the fruit bowl. Beneath detergent and tea, she wrote two telephone numbers. She passed the paper to me, not to Beatrix.
-
-I dialed the first. Vesper’s coat buzzed on the back of her chair. I dialed the second, and a thin chirping came from inside Raskel’s sleeve. Neither laughed at me for checking.
-
-Bram tipped his head toward the fruit bowl and made a tiny click. “Is that a pear?”
-
-Beatrix stared at him. “You said pear was terrible.”
-
-“Pear sludge. You removed all its dignity.”
-
-She handed him the whole fruit. He ran his thumb over it, clicked again, and bit into the narrow end.
-
-“There are crackers in that cupboard,” he said through the bite. “Behind something round and metal.”
-
-“Those are emergency crackers,” I said.
-
-“What emergency?”
-
-“Visitors who refuse dried mealworms.”
-
-Beatrix laughed, and Bram ducked his head as if laughter were another hard surface returning too much sound. She opened the cupboard quietly and set the crackers on his dishcloth.
-
-They stayed until his hearing softened and the refrigerator could start without making him flinch. Vesper found soft shoes in a deep pocket of her coat. Bram kept his human shape; when Raskel suggested he could be carried to the car, Bram stood on his own and nearly folded at the knees. Beatrix offered her arm. He looked mortified, then took it for the length of the hall.
-
-At the front door, I unfastened the chain and opened it wide. Raskel waited on the porch. Vesper waited beside Bram. No one crossed until the person ahead had room.
-
-Bram still wore the green towel around his shoulders and held the pear, two bites missing, in his left hand.
-
-“Bring the towel Saturday,” Beatrix said.
-
-“I know where you live.”
-
-Every face turned toward him.
-
-He hunched deeper into the towel. “I’ll call first.”
-
-They walked toward a dark car parked beyond the hedge, Raskel matching his pace to Bram’s careful steps. I stayed in the doorway until Vesper had settled him in the back seat and the car had turned at the end of the street.
-
-Then I set the deadbolt and chain.
-
-In the kitchen, Beatrix wrote **SATURDAY, TWO—FRONT DOOR** on the calendar. Underneath, in smaller letters, she added **WHOLE PEARS**.
+He took his wet glove off and started again.

@@ -8,342 +8,478 @@ canon: false
 
 # The Walls Are Thick Enough
 
-At twenty-nine, Anzara had learned that neglect could be arranged as carefully as a wedding.
+On the last evening of her fourth month as an imperial bride, Tazri Solun stopped three paving stones short of the place where she was required to turn.
 
-Every evening for six weeks, her women fastened the ceremonial veil at her hip and left her at the garden gate. The fabric was a pale gauze fine enough to show the brown of her nipples and the dark triangle between her thighs. By custom, it was meant for her husband's eyes. Emperor Peleth had not once come to look.
+The forbidden Gilded Garden had been built for obedience disguised as pleasure. Pear trees trained against warm brick made identical fans, and narrow channels delivered water without allowing it to run wild. Sunset reached the path through pierced screens, cut into lozenges of approved gold.
 
-At the opposite end of the path, Demez always did.
+Her veil approved less of her. It was pearl gauze, nearly transparent, fixed at one shoulder and gathered by a jeweled clasp at her left hip. The court called it bridal modesty. Four months of guards had watched the shape of her breasts through it while two witnesses recorded that no unauthorized person had approached. Modesty, in Karevic Palace, was another name for evidence gathered against a woman.
 
-He was thirty-four, Peleth's younger half-brother, and the pavilion behind him was both residence and prison. Men had once brought him a crown wrapped in a saddlecloth. He had refused it, burned their letters, and submitted himself to Peleth before their faction could turn refusal into another kind of treason. Peleth rewarded him with guarded rooms, a garden for exercise, and an order pronounced before both households: Demez was never to touch the new empress. Anzara was never to approach him.
+At the far gate, Jaseth Varo waited with his hands behind his back. The order forbidding him to touch her had not forbidden him to attend the sunset witness walk. Belisar liked him there. A treaty notary from Merevale, visible and useless, made a lesson of the duchy's limits.
 
-The order placed them in sight of each other every sunset.
+Tazri glanced at the shadow of the western cypress. Jaseth moved one finger against the cuff of his dark coat: the little deviation they had allowed themselves since the ninth sunset. One meant the witness register had been signed correctly. Two meant the guards had changed. An open hand meant nothing was safe.
 
-Tonight the light behind Demez had gone copper. It caught the threads of gray beginning at his temples and the white linen open at his throat. He stood with one hand on the pavilion rail, as he had yesterday and the day before, but Anzara knew the effort in his stillness now. She had seen him grip that rail when wind pressed the veil against her. She had seen him turn away only after she looked directly at him.
+Tonight he showed her an open hand.
 
-Her attendants waited beyond the gate. She had given them a written order to spend the night in the women's wing and return at the first kitchen bell. The bridal observance permitted a private vigil; it did not require one, and no other bride had chosen to remain alone until dawn. Her women had protested until she put her seal in the senior attendant's hand. Now they could tell the truth if questioned. Anzara had dismissed them. They had obeyed.
+“Turn, Your Grace,” said the nearer guard.
 
-That might not save them.
+Behind Tazri, Mireth coughed. At fifty-one, her chief attendant had perfected a cough that could mean weak lungs, contempt for men with spears, or urgent news. This one meant the last.
 
-The thought slowed her for a breath. It did not turn her around.
+Tazri turned as required. The jeweled clasp tapped her thigh. She walked back beneath the pear branches, neither faster nor slower, until Mireth came close enough to arrange a fold that did not need arranging.
 
-She slipped the jeweled clasp loose at her hip. The veil opened along her right leg, and air cooled the damp hollow behind her knee. Demez's fingers tightened on the rail.
+“The bridal household transfers to the north rooms at dawn,” Mireth said under her breath. “No garden. No outgoing paper. His accreditation ends at moonset, and they have moved the guard round forward.”
 
-For forty evenings she had stopped at the third bed of dusk lilies. Tonight she passed it. The lilies looked like ordinary white flowers until sunset, when the heat they had stored all day began to leave them in slow, irregular breaths. Gardeners fitted copper caps over the beds before night work so hot petals would not burn a careless wrist. Most of the beds were capped now. One near the western wall had been missed; warmth lifted from it in a wavering sheet.
+“By how much?”
 
-Demez came down the pavilion steps. He stopped on the last one, leaving more than twenty paces between them.
+“I don't know yet.” Mireth pinched the gauze straight. “Do not ask me to invent minutes because you dislike the number I have.”
 
-Anzara crossed those too.
+Tazri kept walking. At dawn, Emperor Belisar would call the transfer a domestic courtesy. At fifty-eight, he had learned to perform theft with the weary air of a judge correcting a filing error.
 
-When she reached the foot of the steps, she had to raise her face to him. Desire sharpened the familiar planes of his face rather than softening them. His gaze moved from her eyes to the open edge of the veil and back.
+The marriage articles gave Tazri a joint seat and dower protection after consummation. Belisar had never entered her bed. Until he did, he claimed, Merevale's duchess remained a foreign dependent whose letters, revenues, and household could be managed for her safety. He had married its port and left its ruler untouched.
 
-"The walls are thick enough to hide one unforgivable night," she said.
+Tomorrow his treasury would collect Merevale's winter levy.
 
-"No."
+Jaseth stood beyond the last fan of pear leaves. The gap between them measured seventeen paces and one treaty.
 
-The word landed without heat. He did not descend the last step.
+Tazri walked past the turning stone.
 
-Anzara had imagined caution. She had imagined a question, perhaps a long look at the gate, perhaps his hands shaking before they reached for her. She had not imagined a refusal clean enough to leave her standing naked under gauze.
+The nearer guard lowered his spear across the path. “Your Grace.”
 
-"You have watched me for six weeks."
+“The buckle has caught.” Tazri put both hands to the jeweled clasp at her hip. She did not look at Mireth. “I require more light.”
 
-"I have."
+“The warming room has lamps,” Mireth said promptly. “And a mirror. Unless His Majesty's concern for modesty now requires Her Grace to undress in the path.”
 
-"Do you want me?"
+The guard's eyes went to the gauze, then away too late. He lifted the spear.
 
-His mouth moved once before sound came. "Yes."
+Tazri crossed the boundary. Jaseth did not come toward her.
 
-"Then come down."
+She loosened the clasp herself. The gauze slipped from her hip and opened along her left leg, cool air passing where court hands had arranged concealment. Jaseth's gaze dropped for an instant, then returned to her face.
 
-"Wanting you is not the part I doubt."
+“The palace walls are thick enough to hide one unforgivable night,” she said.
 
-She drew the veil closed, not from modesty but to occupy her hands. "You think I crossed the path by accident?"
+“Which walls?” he asked.
 
-"I think you crossed it angry."
+“The warming room.”
 
-"Peleth has left me untouched in a marriage bed he purchased with a treaty. Anger would be a reasonable guest."
+“That's not what I asked.” Jaseth glanced once at the guards. “Do you want me to take you through the diplomatic gate? Do you want a witnessed scandal before he closes your correspondence? Or do you want him to charge Merevale's notary with adultery so the treaty fails in a way that isn't your signature?”
 
-"Your anger is not asking me."
+“I know what touching you costs.”
 
-The courtly answer she had prepared curdled on her tongue. "I am asking."
+“You know what it costs you. My safe-conduct is still mine.”
 
-"You told me what the walls could hide."
+His slowness could feel like mercy when she was frightened and cruelty when she had made herself plain. Tazri gathered the loose veil at her hip. “Then use it. Ride away clean while he takes my levy.”
 
-Demez stepped back onto the pavilion landing. The increased distance hurt more than the no. "If you conceive, Peleth counts backward. So do the men who wanted my name on their banners. If you do not conceive, a laundress reports that your bleeding came late, and the court counts anyway. Your women are questioned. My guards are questioned. Thick stone changes none of that."
+“If clean were my purpose, I would not have attended a hundred and nineteen useless sunsets.”
 
-"My household is together in the women's wing. They carried my signed order there. None of them needs to lie."
+“And if I wanted escape, I would have worn shoes for it.” She lifted the gauze enough to show the pearl slippers the court selected for garden gravel. Anger steadied her better than dignity. “I want the tribunal petition carried. I want the witness register beyond his gate. I want one thing tonight that he did not arrange. These wants are mixed. I cannot make them pure for your comfort.”
 
-"They can be punished for the truth."
+Jaseth took that without repairing it into something graceful. “Petition first.”
 
-"I know."
+“Yes.”
 
-"Do you?" His voice stayed low. "You go back to rooms guarded in your name. I wake inside his lock. The men who brought me that crown still have sons."
+“No touch.”
 
-She looked past him. The pavilion door stood open, lamplight low beyond it. She had spent too many sunsets imagining that room: the narrow bed, the water jug on the sill, the place where his white shirt would fall. Now the imagined door had become real, and he barred it without touching it.
+“No touch.”
 
-"Would you say yes if I had come asking for something forgivable?"
+He stepped aside and let her enter the warming room before him.
 
-"I would ask what you meant to do with me afterward."
+It was a small brick chamber with a tiled stove, a couch too short for sleep, and three doors. The garden door had an inner bolt either person could lift. The servants' door opened only from the corridor. Jaseth's safe-conduct included the key to the diplomatic court.
 
-"I did not offer afterward."
+Mireth came in last, set a lamp on the writing table, and shut the garden door without bolting it.
 
-"That is why I said no."
+“Thirty-six minutes if the early round is merely early,” she said. “Less if the captain is eager.”
 
-From beyond the western wall came the soft knock of a spear butt against stone.
+From beneath the linen covering the couch, she pulled Tazri's petition, the witness register, sealing wax, a flint, and the narrow cedar case that held the ducal seal. Then she produced a small packet tied in red thread and put it beside the papers.
 
-Demez's head turned. A patrol crossed the outer walk after the last light and again before dawn; Anzara knew those two rounds. The measured steps approaching now belonged to a third she had not known about.
+Jaseth looked at the packet.
 
-He moved to a narrow panel beside the stairs and pulled it inward. Behind it lay a black slit through the wall.
+“Lambskin,” Mireth said. “Two. If anyone changes her mind about what can make a child. The papers first, unless both of you have become stupid in exactly the same hour.”
 
-"They look through the upper grating," he said. "Go inside."
+Tazri sat at the table. “Witness us.”
 
-"You could be inventing them."
+They worked.
 
-Another spear struck stone, nearer.
+The petition named two breaches: Belisar's order to collect the levy without Tazri's assent, and his order severing her from Merevale's council. Either allowed a six-month suspension while a neutral tribunal heard the dispute.
 
-"Then stay and test me."
+Jaseth's presence had given the filing foreign acknowledgment. If he touched Tazri, his accreditation ended. If he carried the sealed petition, the palace would call him partisan whether he touched her or not.
 
-Anzara entered. Demez followed without laying a hand on her and drew the panel almost closed. A blade of garden light remained at its edge.
+Tazri pressed her seal into green wax. Mireth signed the witness margin. Jaseth checked the pages once, then again from the last line backward.
 
-The passage was scarcely wide enough for two people to face each other. Heat had soaked through from the uncapped lily bed outside, turning the stone warm against Anzara's bare shoulder. Demez stood sideways so the veil would not brush him. The patrol's boots passed overhead. Dust sifted from one mortar seam.
+“The west gate is still open,” he said. “My escort has two horses. You could be outside the palace before the petition reaches the inner court.”
 
-His restraint no longer resembled indifference at this distance. She could see the pulse in his throat and the hard shape pressing against the front of his trousers. He wanted her. He also kept both hands flat against the wall behind him.
+“And Belisar would say the levy required protection because Merevale's duchess abandoned her seat.”
 
-She had treated his looking as an answer delayed by distance. It had been desire, nothing more.
+“He might say it. You would be free to answer.”
 
-"Peleth ordered the distance," she whispered. "Why defend it for him?"
+“From whose guest room? Under whose guard?” She slid the petition toward him. “No. I invoke the tribunal here. I remain available to it. He confines me, and every locked door proves the second breach.”
 
-"I am defending nothing. I am refusing the use you offered."
+Mireth's pen stopped. “He may separate the household.”
 
-"I came to you."
+Tazri looked at her. “You may refuse to sign.”
 
-"You came speaking about what the walls would hide."
+“Don't insult me because you're afraid.” Mireth bent back to the register. “Ask me something useful.”
 
-Demez waited until the footsteps faded. "You announced a night. By morning, men can call me a pretender again and use whatever happened here as proof. You did not ask whether I wanted to hand them that."
+“Will you retain the duplicate?”
 
-"I asked for you."
+“Yes.”
 
-"You asked for something unforgivable."
+Jaseth turned the final page. “If you stay, they may keep you past the hearing.”
 
-There was enough truth in it to make her cruel. "Perhaps you need the order. Without it, caution is all you have left to call virtue."
+“I know.”
 
-He flinched as if she had struck a place already bruised. Still he did not answer in kind.
+“He may offer the seat if you withdraw.”
 
-"When they brought the crown," he said, "twenty-seven men had already sworn to me. I knew twelve of their wives by name. Refusing did not spare every house. It spared some. I remember who had to live through it."
+“Then I will decide when he offers it.”
 
-The passage ran south inside the wall. A few paces on, Demez opened a side door onto the rear pavilion landing, then stood aside. To Anzara's left waited the lamplit room. To her right the garden path ran unobstructed to the gate.
+“And if he offers to spare Merevale in exchange for the levy?”
 
-He had left her exit open.
+“That is surrender with better table manners.” Her treaty voice had returned, each distinction bright and hard. “I choose the petition and confinement.”
 
-"Go back," he said.
+Jaseth placed both palms on the table, not on her paper. He had always reasoned by routes: what could leave, who could verify, which decision could be reversed. Under pressure, the routes narrowed and so did his speech.
 
-Anzara stepped into the garden.
+“The register goes too,” he said.
 
-She expected him to call before she reached the first capped lily bed. He did not. At the second, she heard the pavilion door shift, then stop before closing. The open path burned because she had crossed it certain that six weeks of watching had already answered for him.
+Tazri looked up. “A certified extract is enough.”
 
-She could continue. Her attendants would return at dawn and find her where they expected. Peleth would remain uninjured in whatever distant bed occupied him. Demez would stand tomorrow at the far end of the path, unless he chose a shutter instead.
+“Not if he destroys the source.”
 
-Anzara reached the third bed. The copper cap over it held no warmth. She remembered Demez climbing onto his pavilion roof in the rain to mend a torn sun-screen rather than summon the young guard whose careless knot had torn it. She remembered him leaving his own water by the gate for an old gardener who was not allowed to speak to him. Neither memory belonged to Peleth.
+“Taking it ends any claim that you remained a neutral witness.”
 
-She turned.
+“Yes.”
 
-Demez remained at the threshold. He had not followed one step.
+“Your accreditation is recognized in nine courts.”
 
-"I am angry," she said when she returned. Court phrases had deserted her. "I would enjoy hurting him. I will not pretend otherwise."
+“Eight, once I pass the gate.”
 
-Demez's face closed, but she kept going.
+“Jaseth.”
 
-"But I turned back for you. Not for a door out of the palace; you cannot give me one. I want your mouth on me. I want your hands. I want you inside me, if you still want that too." She heard the roughness in her own breath. "If you say no again, I will walk through that gate. I will tell no one what you refused."
+He closed the register, tied its cords, and set it atop the petition. “This is my decision. Don't make it into your debt.”
 
-His gaze dropped to her empty hands. "What have you brought against pregnancy?"
+Mireth held out sealing wax. “Good. Decide over the flame instead of staring at each other.”
 
-From the fold beneath the jeweled clasp, Anzara drew a thin leather case. Inside lay a physician's oiled sheath, still wrapped in linen.
+Jaseth sealed the bundle with his notarial stamp and tucked it inside the oilskin document wallet under his coat. Merevale's impartial observer vanished; a man carrying one side's case stood in his place.
 
-"The physician said it lowers the chance," she said. "She did not say it ends it."
+“You have what you came for,” Tazri said.
 
-"And your women?"
+“I have what I'm taking.”
 
-"All together, all visible, and none lying for me."
+He checked the document wallet, the diplomatic key, the angle of the declining light through the screen. Then he opened the diplomatic door. Beyond it waited a strip of empty court and, farther off, the gate that still answered to his safe-conduct.
 
-"Still punishable."
+He was leaving her room for her to reconsider.
 
-"Yes."
+Tazri could let him. The petition would travel. The levy would pause if she filed her duplicate before Belisar isolated her. Jaseth would lose one accreditation but not his freedom. Desire had been separated from the work so cleanly that she could no longer pretend it served a public purpose.
 
-The uncapped lilies released another breath. Warm air reached them and thinned.
+“Wait,” she said.
 
-Demez took the case, read the physician's seal, and gave it back. "If it fails, men will give the child my name before either of us can stop them."
+He did, one hand on the open door.
 
-"I will not help them. I cannot make the guess disappear."
+Tazri was thirty-four, Jaseth thirty-nine. Neither had drunk wine: she had refused it at supper; he smelled only of tea and cloves. The open door and the political choices already made left desire with no office to hide behind.
 
-He looked toward the garden gate. "You can still leave."
+“I still want you,” she said. Formality crowded her mouth when she needed it least. “Not as my notary. Not because you took the papers. I want you to come back and touch me.”
 
-The gate stood open at the far end. Anzara measured the path to it, then looked back at him.
+Jaseth's hand remained on the door. “If I come back, I may still stop.”
 
-Only then did he step close enough that she could feel his heat apart from the lilies. He did not touch her. "Ask me now."
+“Yes.”
 
-Anzara held his gaze. "Demez, come to bed with me."
+“So may you.”
 
-His breath left him slowly. "Yes."
+“Yes.”
 
-She crossed the threshold first. He followed and closed the pavilion door.
+He looked at the red-thread packet. “No penetration?”
 
-The room was smaller than she had imagined. A narrow bed occupied one wall, a table and washstand the other. There was no royal luxury hidden in his confinement: one lamp, two books, a low brazier with a copper kettle, a heel of bread under a cloth. Demez set the leather case by the lamp.
+“Nothing that could make me pregnant. Belisar would own the accusation and dispute the child besides.” The plainness of it made her cheeks hot, but not her voice. “The sheaths remain there in case we both choose differently. I do not intend to.”
 
-Anzara caught his open shirt and pulled him to her.
+“Hands and mouths?”
 
-For one startled instant his mouth stayed still beneath hers. Then he kissed her back. The reserve she had watched for six weeks did not vanish; it changed direction. He held her at the waist as though learning the exact pressure she welcomed, loosened when she drew breath, and returned when she pulled him nearer. His mouth tasted of bitter tea.
+“Yes.”
 
-She slid her hands under his shirt. His back was warm, the muscles tight from all the walking a locked garden allowed. When her palm traveled down the front of his trousers and closed around the shape of him, he broke the kiss with a rough sound.
+He considered, painfully literal now. “Everywhere?”
 
-"Should I stop?" she asked.
+“No. Ask when you get there.”
 
-"No." His forehead rested against hers. "I am trying not to hurry."
+That almost made him smile. Almost. He shut the diplomatic door, but he did not lock it.
 
-"Then do not."
+Mireth gathered the duplicate petition and cedar seal case. “I can give you privacy. I cannot give you safety. The garden bolt lifts from inside. This door stays unlocked. If you need me, knock the stove pipe twice.” She looked first at Tazri and then at Jaseth. “Twenty-eight minutes, if fortune has developed shame.”
 
-Her own impatience made the words unfair. She slowed her hand anyway, learning him through the linen until his hips answered before his caution could.
+She went out through the servants' door. Its latch caught behind her.
 
-His fingers found the jeweled clasp at her hip and paused there. "May I?"
+For the first time in four months, no witness stood between Tazri and the man at the end of the path.
 
-"Open it."
+Jaseth did not approach until she nodded. Even then he stopped within reach and waited.
 
-He pressed the hidden catch. The veil fell away from her body in a pale spill, snagging for a moment around one ankle. Anzara stepped free of it. Demez looked at her without the long path between them, and this gaze was different from the others because she could end it with one word and because he knew she could.
+Tazri put the jeweled clasp on the table. She unwound the gauze from her shoulder, slowly at first because she could feel him watching, then impatiently when it snagged on a hairpin. The veil fell in a pale heap over the petition's empty linen cover.
 
-She reached for his belt. They undressed him together, her fingers impatient with the buckle, his steadier ones freeing the knot she had tightened. Shirt and trousers joined the veil on the floor. At thirty-four he was no court painter's smooth prince. The sun had browned his forearms and left the rest of him pale; a healed blade cut crossed one rib. His cock stood hard against his belly.
+“I want to take out the pins,” he said.
 
-Anzara touched him bare. His eyes closed. She stroked once from root to tip, then again, and watched restraint leave his face by degrees.
+“You may take out three. The rest are structural.”
 
-"Look at me," she said.
+His fingers found the first pin without touching her scalp. The second caught a strand and pulled.
 
-He did.
+“Ow.”
 
-When he kissed her again, his hand covered her breast. His thumb passed over her nipple, gently first, then harder when she arched into it. The sensation traveled straight down. She drew his other hand between her legs.
+He stopped at once, hand open beside her head. “I'm sorry.”
 
-Demez stopped. "Show me."
+“You may continue. Less like you're disarming a trap.”
 
-She guided two of his fingers through her wetness and up to the place that made her breath catch. His attention narrowed. He eased when her thighs tensed, circled when she pressed closer, and held still when she said, "There."
+“I have more experience with traps.”
 
-Then he went to his knees.
+“That is not comforting.”
 
-Anzara braced one hand on his shoulder as he kissed the inside of her thigh. His mouth moved higher. The first touch of his tongue made her grip tighten. He parted her with his fingers and licked her slowly, pausing each time she shifted until the shift told him what she wanted.
+The third pin came free. Her hair loosened over one shoulder, still half bound and nothing like the court's smooth arrangement. Jaseth set the pins beside the clasp. Tazri turned her face up.
 
-"Again," she said.
+“May I kiss you?” he asked.
 
-He obeyed. Anzara tangled one hand in his hair as his mouth returned to her, and keeping quiet became more difficult with every stroke of his tongue. When her pleasure sharpened almost to pain, she tried to close her thighs. He lifted his head at once.
+“Yes.”
 
-"Too much?"
+Their first kiss struck the edge of her upper teeth. Jaseth drew back, startled. Tazri caught his collar before he could retreat into apology.
 
-"Not enough. Do it again."
+“Again,” she said.
 
-His mouth curved, not quite a smile, before he bent to her. He used his tongue and the firm stroke of two fingers until her hips lost their measured rhythm. Anzara bit the heel of her hand to keep from crying out. The climax broke through her in hard pulses. Demez stayed with her until she pulled at his shoulder and brought him up.
+The second was softer and no less uncertain. He tasted of bitter clove. His composure yielded by degrees: the pressure of his mouth, his breath changing when she opened to him, his palm hovering near her waist until she placed it on bare skin.
 
-She kissed the taste of herself from his mouth.
+He was warm. That ordinary fact undid something in her.
 
-They reached the bed with little grace. The mattress gave under Demez's knees. Anzara pushed him onto his back, straddled his thighs, and took the leather case from the table.
+Tazri kissed him harder. His thumb moved once along her side and stopped below her breast.
 
-"Let me," he said.
+“There?” he asked.
 
-"I brought it."
+“Yes.”
 
-She unwrapped the sheath. Her hands were less steady now. Demez covered them briefly with his, not taking over, and together they rolled it down his cock. She checked the tie, then bent and kissed the hollow below his navel. His fingers moved into her hair.
+He cupped her through the fine under-robe, then slipped his hand inside its loosened front when she pulled the fabric aside. Her nipple tightened under his palm. Pleasure arrived not as escape but as attention she could direct. She moved his thumb where she wanted it. When he understood, his mouth left hers and found the place below her ear that the pins had made tender.
 
-Anzara rose over him. Demez held himself in place while she guided the head of his cock to her. She lowered slowly. The stretch stopped her halfway, breath caught behind her teeth.
+She pushed his coat from his shoulders. The document wallet knocked against her wrist.
 
-Every muscle in his body tightened, but he did not thrust.
+They both stopped.
 
-"Anzara?"
+“Take it off,” she said.
 
-"Stay."
+“The coat or the papers?”
 
-"I am."
+“The coat. The papers stay with you.”
 
-She waited until the discomfort softened, then took him deeper. When she settled fully, the closeness was almost frightening. For six weeks he had been a man measured in garden paces. Now he was inside her, his hands gripping the sheet.
+He laid it over the table chair, wallet on the inside where they could see it. Tazri opened his shirt. Her fingers, so exact with seals, fumbled two of the plain horn buttons and skipped the third. Dark hair narrowed down his chest. She put her mouth against the hollow beneath his collarbone and felt his breath catch.
 
-Anzara took one of those hands and put it at her waist.
+“Still?” she asked.
 
-She began to move. At first she kept the pace slow, feeling every drag of him, every answering lift of his body. Demez watched her face. When she leaned down, the ends of her hair brushed his chest and his mouth found her breast. She moved faster. His hand traveled from her waist to her buttock, stopped, then closed when she pressed back into it.
+“Yes.” The word came slowly. “Very much yes.”
 
-"Harder," she said.
+He untied her under-robe, then paused with both hands at its edges. She shrugged it down. Cool air touched her breasts, her belly, the marks at her waist where the jeweled clasp had pressed through gauze. This was not inspection; she could watch want take shape in his face and decide whether to permit it.
 
-He gave her what she asked for, thrusting up to meet her. The bed knocked once against the wall. Both of them froze.
+“Touch me,” she said.
 
-Silence held outside.
+His hands followed her breasts, her ribs, her hips. Not reverent. Careful, then curious, then firmer when she leaned into him. She unfastened his trousers and felt the hard length of his cock through his linen. He made a small sound against her shoulder.
 
-Demez shifted the bed a handspan from the stone. Anzara laughed once into his shoulder, the sound shaken loose by danger and pleasure together. He turned his face toward hers.
+“May I?” she asked.
 
-"Still?"
+“Yes.”
 
-She answered by taking him into her again.
+She slid her hand inside. He was hot and heavier than the fantasies she had resented having. Her first stroke was clumsy because the angle was wrong. Jaseth shifted her grip lower.
 
-This time he caught the rhythm with her. When her thigh began to tremble, she pulled at his shoulder. Demez rolled them carefully, never breaking from her, and waited above her until she wrapped both legs around him.
+“Like that,” he said. “Not so dry.”
 
-"Now," she said.
+Tazri glanced at the washstand. “Oil?”
 
-He drove deeper. Anzara met him, one hand at the back of his neck and the other between their bodies. Demez slowed when her fingers slipped, then changed the angle until each stroke pressed where she needed it. She said his name, not loudly, but with no title between its syllables.
+“In my left pocket.”
 
-His control frayed; his rhythm broke. Anzara locked her ankles behind him.
+“Of course a notary arrives indexed.”
 
-"Do not stop."
+This time he did smile. “Mireth put it there while I was sealing the second page.”
 
-He did not. Pleasure gathered again, less sudden and more consuming. When it took her, she held him close enough to feel the shudder he had been fighting. His face pressed into the curve of her neck. He came with her name broken against her skin.
+The oil made her palm glide. His forehead came down against hers, and the sound he made on the next stroke was too rough to belong to the man at the far gate. She wanted more of it. She tightened her fingers.
 
-For a while neither moved.
+“Slower,” he said.
 
-Demez withdrew carefully, tied the sheath in its linen, and laid it in the small brazier. The oiled skin curled, darkened, and burned. Anzara watched until nothing recognizable remained.
+She slowed. He kissed her, missed, kissed the corner of her mouth, then sank to his knees.
 
-Then he brought water.
+“May I use my mouth on you?”
 
-He poured water from the copper kettle into the basin, dipped a cloth, and washed the inside of her thighs. When he found a red scrape where the clasp had pressed into her hip, his mouth tightened.
+The blunt question startled a laugh out of her. “Yes. If I can sit before my knees disgrace the duchy.”
 
-"The jewel," she said. "Not you."
+He helped her onto the short couch. Tazri lifted her skirts herself and opened her legs. Jaseth touched the inside of one thigh, waited for her nod, and drew her closer to the edge.
 
-He cleaned it anyway. Anzara took the cloth from him and washed his belly, then the sweat from his chest. Afterward he gave her water and divided the heel of bread without apology for its hardness. They ate sitting naked on the floor because the bed was too warm.
+His first lick was too broad and too tentative. Pleasure stirred but wandered.
 
-The lilies breathed through the wall twice more. Each release was weaker than the last.
+“Higher,” she said.
 
-Later they lay under the same thin blanket. Anzara rested her head in the hollow of his shoulder. No guard called, no latch lifted. The pavilion contained only their breathing and the faint settling of the brazier.
+He moved.
 
-"How long?" she asked.
+“No, that is lower.”
 
-"The lilies have given five breaths since the patrol. Perhaps six." Demez touched the cooling wall. "They are poor clocks."
+Jaseth raised his head. “Your higher or mine?”
 
-"How long until the kitchens?"
+“Mine. Give me your hand.”
 
-"Long enough to lie down. The service cart reaches the west court before the bell. Its axle wakes me at the gate."
+She guided two of his fingers between the wet folds of her cunt and set his thumb where she needed it. “There. Stay there.”
 
-She did sleep, though not deeply. When she woke, the lamp had gone out and the narrow window was gray. Demez lay on his back beside her, awake.
+He stayed. His mouth moved lower while his thumb worked in a steady circle. Tazri's back pressed into the couch arm. The room smelled of lamp oil, warm brick, and the clove on his breath. Each time tension began to break apart, some thought of dawn caught it: levy, lock, accusation, Mireth dismissed. Jaseth felt her lose the rhythm and stopped.
 
-"Peleth returns before the next moon," he said.
+“Do you want me to stop?”
 
-"So the council tells me."
+“No.” She took a breath. “I want you to keep doing exactly that and not ask me another question for a little while.”
 
-"He may end the walks."
+He nodded against her thigh.
 
-"He may."
+The pleasure rebuilt, no longer delicate. She held his shoulder, then his hair, careful of force until he pressed closer. His thumb maintained the small, maddening circle. Her body tightened around his fingers. Tazri tried to remain quiet and failed into a broken gasp as the release took her, sharp enough to lift her hips from the couch. Jaseth followed the movement instead of restraining it. The second pulse left her shaking.
 
-Demez's hand rested on the blanket between them. "Tomorrow I may be behind the shutter."
+He withdrew his hand and waited beside her knee.
 
-"Then I will not knock," Anzara said.
+“Still all right?” he asked.
 
-He nodded. She did not tell him how far she would walk. She did not yet know.
+“Yes.” She covered her face for one breath, then looked at him. “Come here.”
 
-From beyond the wall came the rumble of a cart entering the service court. Demez rose. In the gray light, Anzara shook dust from the veil while he tied his shirt and pushed the bed back against the wall. He checked the garden from behind the shutter, then opened the inner passage and listened with his ear to the stone.
+Jaseth stood. Tazri pulled him between her knees and kissed the taste of herself from his mouth. She reached for his cock again. He was still hard, slick now with oil and her palm. His hips moved once into her hand, checked themselves, then moved again when she said, “Yes.”
 
-"The west patrol has passed," he said. "Gardeners come after the bell."
+She slid down from the couch and knelt on the carpet. “May I use my mouth?”
 
-Anzara settled the veil around her body. Demez fastened the jeweled clasp because her fingers could not find its catch. His thumb rested at her hip until the catch held, then he stepped back to check the fall of the fabric.
+His breath stopped. “Yes. But you don't owe—”
 
-At the passage panel, she kissed him once. She ended it first.
+“Do not finish that sentence.”
 
-"The south gate," he whispered. "Wait until the sentry coughs. He turns toward the court when he does."
+He left it unfinished.
 
-She went alone through the warm dark. Behind her, Demez closed the pavilion door. The last heat of the uncapped lilies had faded from the stone.
+Tazri licked the oil from the head of his cock and took him into her mouth. The angle was awkward; she had to shift her knees around the hem of her own skirt. Jaseth braced one hand against the couch rather than on her head. When she took him deeper, he swore softly and asked her to slow. She did. His free hand opened and closed at his side.
 
-At the south gate, the sentry coughed. Anzara crossed behind the screen and reached the women's corridor before the first kitchen bell struck.
+Two hard knocks struck the garden door.
 
-Her attendants came toward her with folded robes and worried faces. The senior one searched the veil, Anzara's bare feet, the dust at its hem. Anzara let her look.
+They froze.
 
-"Did Your Majesty keep the vigil?" the woman asked.
+Outside, a man's voice said, “Witness round.”
 
-"I did."
+Jaseth stepped back at once. Tazri coughed, wiped her mouth with the heel of her hand, and reached for her robe.
 
-Behind them, gardeners entered carrying copper hooks. When Anzara glanced back through the screen, Demez's pavilion door was shut. No one stood at either end of the long garden path.
+Mireth answered from the path before the guard could knock again. “Then witness that Her Grace's clasp has torn the veil. Unless you have learned needlework since supper, stand away from the lamp.”
+
+“The register requires—”
+
+“The register is being corrected. Bring another lamp.”
+
+That would buy perhaps three minutes.
+
+Jaseth pulled his linen and trousers into place. His hands shook on the buttons. Tazri, bare from the waist up, saw him glance at her and then at the couch.
+
+“No,” she said. She knew the question before he forced it into words. “Not with the papers waiting.”
+
+He closed his eyes once. “All right.”
+
+It was not a graceful ending. His cock remained hard beneath the linen. Her legs were unsteady, her hair half fallen, and one drop of sealing wax had adhered to the jeweled clasp. They dressed.
+
+Tazri tied her under-robe while Jaseth shrugged into his coat. She checked the oilskin wallet with her own hands: petition, full register, notarial seal. He checked the diplomatic key. The unopened red-thread packet went back beneath the couch linen.
+
+“My veil,” she said.
+
+He lifted it from the table and held it out without trying to arrange it on her body. Tazri fastened the shoulder and gathered the torn-open hip herself. The clasp would not close over the wax.
+
+“Leave it loose,” she said.
+
+Jaseth opened the diplomatic door. The empty court beyond had gone blue with evening.
+
+“The west passage is clear,” he said. “You can still come.”
+
+“No. The petition fails if I run.”
+
+He nodded. He did not ask whether the night had been worth his career, whether she loved him, or when they would meet again.
+
+Tazri touched his hand once, brief and forbidden.
+
+“Keep the wallet under your coat,” she said. “The ford road floods after midnight.”
+
+“I know the road.”
+
+“You always say that before checking a map.”
+
+“I'll check the map.”
+
+Then he went through his own door.
+
+Tazri watched until the diplomatic court swallowed him. At the garden door, Mireth was telling the returning guard that lamp oil and flame were not interchangeable merely because both could burn a palace. Tazri gathered the loose veil over her hip and knocked the stove pipe twice.
+
+Mireth entered, took one look at her, and handed her a damp cloth. “Mouth first. There is a looking glass behind you.”
+
+Tazri wiped away the last shine of oil. “He has the register.”
+
+“I saw.”
+
+“Did the gate open?”
+
+“Yes.” Mireth fixed the remaining hairpins. “Did you choose what happened in here?”
+
+“Yes.”
+
+“Did he?”
+
+“Yes.”
+
+“Good. Hold still.” Mireth pushed the wax-spotted clasp through a different fold and made the looseness look ceremonial. “The walls hid the noise. They won't hide a missing register, a voided accreditation, or a tribunal filing.”
+
+“I know.”
+
+“I dislike that answer from both of you.”
+
+They returned to the bridal rooms under guard.
+
+At dawn, Tazri was waiting in the outer chamber with the duplicate petition on her lap. The jeweled clasp lay beside it. She had refused the replacement veil.
+
+Belisar entered without announcement. He was broad-bodied, silver at the temples, and perfectly rested. Four officials followed with boxes for her correspondence. Two guards took position at the inner door.
+
+“You are moving,” he said.
+
+Tazri stood. “I have invoked the twelfth article.”
+
+He looked at the green seal and not at her face. “A wife cannot breach her husband's management of her household.”
+
+“A duchess can breach an emperor's seizure of a treaty levy.”
+
+“You possess no joint seat.”
+
+There it was: possession reduced to precedent, cruelty laundered through a noun.
+
+“The article predates the marriage,” Tazri said. “The suspension began when my petition crossed your diplomatic gate.”
+
+For the first time, Belisar's gaze moved to the empty space where the witness register should have stood.
+
+“Varo's safe-conduct ended at moonset.”
+
+“He crossed before it ended.”
+
+“His accreditation will not survive partisan service.”
+
+“No.”
+
+Belisar let the agreement hang between them. “And if his service was not only partisan?”
+
+Tazri's pulse struck beneath her jaw. Thick walls had hidden sound. They had not undone contact, restored Jaseth's neutrality, or made an adultery accusation harmless. She had chosen one boundary and crossed another.
+
+“Then you may bring evidence before the tribunal,” she said.
+
+Belisar's mouth altered by less than a smile. “You mistake delay for power.”
+
+“No. I asked for delay.”
+
+He turned to the officials. “Seal the bridal correspondence. Transfer her attendants separately. The duchess remains confined pending the hearing.”
+
+Mireth stepped to Tazri's side.
+
+“That one is dismissed from household service,” Belisar added.
+
+Mireth did not cough. “Do I pack before or after you invent the cause?”
+
+One official looked down. Belisar did not answer her.
+
+The levy would remain in Merevale for six months. After that, the tribunal might fail. Tazri would remain married. Jaseth would ride into exile from the imperial courts with a stolen register against his ribs.
+
+The guards opened the north passage.
+
+Tazri picked up the petition. Mireth took the cedar seal case before anyone could stop her.
+
+“Blue ledger?” Mireth asked.
+
+“Under the bed.”
+
+“Winter stockings?”
+
+“Second chest.”
+
+“The good ink?”
+
+Tazri looked once at the sealed correspondence boxes, then toward the guarded rooms where she would spend the first day of the suspension she had bought.
+
+“Bring all of it,” she said. “We have six months.”

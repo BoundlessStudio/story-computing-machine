@@ -8,352 +8,406 @@ canon: false
 
 # The Weight They Never Counted
 
-At midnight, Narrowhearth's bell struck once. Before the iron note had finished shaking in the rafters, I was eighteen and out the door.
+The clerk struck the adulthood chime at sunrise.
 
-I had slept in my clothes for three nights waiting for that sound. My blanket, two shirts, bread, and work slate were tied in a square behind my shoulders. I lifted the bundle from beneath the bed too quickly and it smacked the back of my head.
+“Eighteen,” she said, turning your slate from its child side to its adult side. “Your standing is now your own concern.”
 
-That should have warned me. Instead I stood in the dark, listening for my aunt's cough through the wall, and decided fear had made me clumsy.
+You stepped over the whitewashed boundary before the bronze note had faded.
 
-No one stopped me between the house and the upper path. The law in Narrowhearth was plain: a person of eighteen could leave without a household mark. The village had other means. There was the ranking slate by the bakehouse, renewed every winter. Forty-one adults had lifted the testing stones that year. My number was forty-one. There were children who slapped the bottom of rain barrels when I passed and called it a greeting. Men on roof crews offered me the smallest block, then watched while I carried it to see whether the weakest back in Narrowhearth would finally fold.
+That was how quickly the village let a person go, provided the person left owing nothing. Your bundle had been hidden under the clerk’s bench since dark: two shirts, a blanket, four heel cakes, a twist of salt, and the work token the caravan leader had given you the evening before. The token promised the cheapest position on the road. Board would be deducted. Breakage would be deducted. Wages, what remained of them, would be paid at the market.
 
-I was the weakest there. Absolute bottom. The slate in my bundle proved it in three years of chalk and sealing wax.
+Someone behind you laughed. “Careful with that bundle. It may be the first thing heavier than your pride.”
 
-The bell gave one last dull tremor. I took the descending path before somebody woke and found a lawful reason that I still owed them one more load.
+Another voice, less amused, called, “They’ll have you back before supper.”
 
-The first six turns felt as they always had: knees bent, boots planted, one hand on the cliff rope. Below the last iron ring, the rope changed. It stopped dragging against my palm and lifted in a loose curve. At the next step my foot came down later than it should have. Two turns farther on, I pushed around a broken stair and cleared the whole landing.
+The clerk had already reached for the next slate. “Ranks are settled at adulthood. Don’t block the line.”
 
-I hit the path on both feet, bounced off the wall, and caught a thornbush by its roots. The bush came out.
+You did not turn. The caravan waited beyond the last houses, eight wagons in the pale dust, their canvas covers damp with dawn. The leader stood beside the rear wagon checking tokens against a wax board. She took yours, pressed her thumbnail into its edge, and pointed toward a shovel lashed beneath the driver’s seat.
 
-I stared at it in my hand. Soil pattered down with ridiculous leisure.
+“Road hand. Dung, firewood, water, whatever the crew won’t stop to do. You asked for the low rate.”
 
-The mountain above me remained dark and solid. My ankle did not hurt. My bundle barely pressed between my shoulder blades. I put the bush back as well as I could and finished the descent with both hands on the rope, taking steps too short for my legs.
+“Yes. It’s fine.”
 
-By dawn I could see the lowland muster through the mist. Six freight wagons stood on packed earth below striped canvas, their wheels taller than Narrowhearth doorways. Mules cropped grass beside them. None had the low bellies and wide-set legs of the animals bred above the iron ring.
+“Boots?”
 
-People were already late. I knew the signs: a wheelwright kneeling over an open hub, loaders moving the same salt bales twice, breakfast smoke thinning without anyone sitting down to eat. A narrow man with a grey-shot beard stood at a trestle table, taking wooden freight tags off one peg and putting them on another. Three people spoke to him at once. He answered two and pointed the third toward a split buckle without looking up.
+You lifted one foot. The soles had been patched twice.
 
-I waited until he had crossed a line from his manifest.
+She looked at them without comment. “Walk near the rear. If a driver calls, answer. If you don’t know, say so before you touch anything.”
 
-"I want to join," I said.
+The lead teamster snapped two fingers in the air. Harness chains tightened, wheels creaked, and the village began sliding away behind a screen of road dust. You kept waiting for someone to call you back on a rule you had missed. Nobody did.
 
-His pencil stopped. "As what?"
+By noon, the houses were gone.
 
-"Anything you need."
+* * *
 
-"I need a dry road and yesterday back. Pick something I can put on a line."
+The rut looked shallow until the sixth wagon put its left wheels into it. Mud swallowed the rims. The mules leaned, traces humming, while the wheels turned in place and painted themselves brown.
 
-"Freight. Animals. Cooking. I can do all of it."
+“Hold them,” the teamster called. “No whip. They’ve given all the pull they’ve got.”
 
-He looked at my boots, then at the path behind me. "Handled mules?"
+The loader ducked under the rear canvas and began naming what had to come off. “Two grain. Tool chest. Both scale blocks. Keep the lamp crate where it is.”
 
-"No."
+You climbed onto the bed because the other road hand had gone for branches. The scale blocks sat against the tailboard, squat iron shapes with lifting loops, each stamped 100 kg beneath a seal. The loader wrestled a grain sack onto one shoulder.
 
-"Driven a wagon?"
+“Blocks take two each,” he said. “Wait for hands.”
 
-"No."
+The wheels sank another finger. Somebody shouted for haste. You took one loop in each hand, straightened, and stepped down.
 
-"Then you can do neither before breakfast." He pulled a blank tag from a stack. "Name?"
+The weight settled through your shoulders and hips, even and quiet. Less awkward than the village water yoke, because the blocks did not slosh. You carried them twenty paces to the firm verge and set them on two flat stones so their seals stayed out of the mud.
 
-"Kemma."
+When you stood, the caravan leader was looking at your hands.
 
-"Age?"
+“How in all that’s holy can you lift and comfortably carry two hundred kilograms without sweating?”
 
-"Eighteen."
+Every nearby sound seemed to make room for the question: the mules blowing, a wheelwright hammering a branch under the rim, the loader’s sack settling against the road.
 
-"For how long?"
+You checked the blocks. Both marks did say one hundred. Perhaps the seals were false. Perhaps you had moved the wrong things. “They’re balanced.”
 
-The question felt like a trap until his eyes flicked toward the mountain bell tower, invisible in the mist.
+“They’re two hundred kilograms.”
 
-"Since midnight."
+“Yes, but only just.”
 
-He made a sound through his nose and wrote my name. "Daret. I lead until somebody richer buys the wagons. One paid trial through evening halt. Eight coppers, food, and no promise beyond it. You move only the tag I give you. If you don't know a weight, you ask. If you damage something, you stop before you improve the damage."
+“Only just what?”
 
-"Yes."
+You searched her face for the joke’s direction. “Only just carrying. I couldn’t run with them.”
 
-"You understood none of that so quickly. Say the first instruction back."
+The loader lowered his sack. “I couldn’t stand up with one.”
 
-"Move only the tag you give me."
+“I’m not very strong,” you said. It came out too fast. “At home, I mean. I’m the weakest there.”
 
-"Good enough. Pull the six red pegs from the north awning. Keep them together."
+The other road hand returned dragging brush. He stopped, saw everybody stopped, and said, “Are we freeing this wheel or holding a funeral?”
 
-The first peg came free with the dirt still shaped around it. It shot past my shoulder and rang against a wagon tire.
+The leader’s attention snapped back to the wagon. “Freeing it. Grain to the verge. Crib the right rear before we pull. You”—she pointed at you—“no more blocks until I check the marks.”
 
-Every nearby face turned. Laughter started behind the salt stacks.
+The order felt like the beginning of a punishment. You obeyed it with relief.
 
-I crouched at once. "The soil is loose. I'll pay for the tire."
+The seals proved sound. After the wagon came out, the clerk cleaned the blocks and compared them against the cargo papers. Two hundred kilograms, no mistake. For the rest of the afternoon, nobody asked you to lift anything heavier than sticks. That was worse than being laughed at. Laughter told you the rules. Silence kept changing them.
 
-Daret glanced from the unmarked iron rim to the peg in the road. "You'll bring it back. Then you'll pull the other five as if I charge by distance."
+At camp, the leader called you behind the supply wagon. The loader came too, carrying a portable beam scale and three slings.
 
-I worked the rest out by twisting them between two fingers. The laughter moved away with the people who had made it. Nothing was written on my tag.
+“Private,” the leader said when the cook craned her head from the fire. “Unless we discover an appetite. Then it becomes your problem.”
 
-The caravan should have left at sunrise. At sunrise the repaired wheel was still hanging from a jack and a stack of copper cases blocked the third wagon's tongue. Daret put me under the awning with a stout oak freight frame. Two crossed braces held a load shelf; the maker's stamp on one upright read 220 KG. Its double leather harness had been darkened by years of shoulders.
+“Every appetite becomes my problem,” the cook said. “That’s why none of you die ignorant of it.”
 
-"Oats to the blue wagon," Daret said, hooking a thirty-kilogram tag on the frame. "Come back empty for canvas."
+The canvas screened you from the rest of the crew. The leader inspected your palms, asked where old calluses came from, counted your pulse, then made you lift nothing at all until she had looked inside your boots.
 
-The oat sack landed against my back like a cushion. I waited for its weight to arrive. When it did not, I tightened the straps three holes.
+“Soles are thin,” she said.
 
-The blue wagon loader waved at the salt stack. "Fifty goes with the oats. Same wagon."
+“They’re still usable.”
 
-It was not Daret's tag, but the wheelwright had begun hammering the axle pin and everyone was shouting that the road was clearing. Refusing would mean an extra trip. Extra trips were what slow people made other people wait for.
+“That wasn’t my question. Any pain?”
 
-I added the salt.
+“Not much.”
 
-Before I could start across the yard, another loader pressed a forty-kilogram copper tag into my hand and pointed to a case bound for the third wagon. The case felt no worse than a roof block at home, and I had carried roof blocks while boys walked behind chanting forty-one. I set it on the frame, then saw the twenty-five-kilogram canvas roll Daret had told me to fetch after I returned. It lay five paces away and fit crosswise over the copper.
+“That means some.”
 
-The lamp-oil box was thirty-five. Daret had said it belonged at the lead supply wagon. The wagon stood near the road, past the blue one. Twenty kilograms of rolled leather were going there too.
+“The left heel rubs.”
 
-I counted the frame stamp. Two hundred kilograms of cargo. Twenty below the maker's limit.
+The loader grunted. “A bad foot drops good cargo. We pad it before testing.”
 
-At home, the eighty-kilogram testing stone had stopped at my belt. This load did not seem to have found my knees.
+He cut felt for your heel, then rigged a broad yoke with equal slings. They began with fifty kilograms. You lifted it. The leader watched your knees and breathing, not your face.
 
-I tucked the six tags together beside my cheek and stood. The frame creaked once. Nobody ordered me to put it down.
+“Walk to the ash tree and back.”
 
-The repaired wheel dropped onto its axle. Daret shouted for teams to clear the muster, and the caravan began to move. By the time I reached the blue wagon, its loader had climbed to the driving board. There was nowhere to lower the frame without blocking a wheel. They waved me onward, and I told myself I would distribute everything at the road bend, where the verge widened.
+You did.
 
-The road rose between wet banks. My boots found the grade and wanted more of it. I leaned forward from habit, then had to skip two steps to keep from striking the rear wagon. The straps pinched at my collar but my breath stayed quiet. No sweat ran into my eyes. When the road flattened, the load pushed me onward with a force I understood better than its absence.
+At one hundred, the yoke felt worth noticing. At one hundred sixty, your soles pressed hard enough to read each pebble through the leather. At two hundred, the familiar deep warmth began along your thighs and lower back, the warmth of carrying grain jars from the communal storehouse. You could have gone farther. You did not volunteer that.
 
-Daret came down the line checking hub pins. He tapped a loose rope, moved a mule team wider, and reached for the tags beside my face without breaking stride.
+“Pulse up, but not much,” the leader said. “Breath even. Any strain?”
 
-Then he stopped.
+“A little, maybe.”
 
-His pencil went back to the first tag. Thirty oats. Fifty salt. Forty copper. Twenty-five canvas. Thirty-five lamp oil. Twenty leather.
+“Where?”
 
-He totaled them on his thumbnail, although the answer was already stamped on the frame in the way I had arranged them.
+You indicated the yoke edge against your shoulder.
 
-"Kemma," he said, "how in all that's holy are you lifting and comfortably carrying two hundred kilograms without even breaking a sweat?"
+The loader slipped two fingers beneath it. “Harness problem. Not body.”
 
-The rear loader barked one laugh. My shoulders locked.
+They added twenty kilograms. Your steps shortened. At twenty more, something pulled behind your right knee, faint as a thread catching on a nail.
 
-"I'm sorry," I said. "The frame says two-twenty. I can take the axle blocks too if that was what you meant."
+“Stop,” you said.
 
-"The axle blocks stay under the axle. Put this down."
+The loader had the sling down before you finished the word.
 
-"I haven't missed the wagons."
+The leader wrote on her wax board. “Good. What changes it?”
 
-"Put it down without planting it through the road."
+“Uneven sides. Soft ground. Anything that moves inside its container.”
 
-I bent my knees and lowered the frame. Its feet sank past the metal caps into the wet verge. The oil box leaned. Daret caught its corner and swore at the knot, then waved the wagons around us.
+“Distance?”
 
-"Keep moving," he called. "We'll catch you before the alder bridge."
+“I don’t know in road lengths. At home, from the lower fields to the storehouse. Then food.”
 
-The work went with them. Wheels ground, mules snorted, and loaders who had been watching had to run for their places. In moments Daret and I were alone with the frame and six bundles.
+“How much food?”
 
-He unhooked the lamp oil first. "One sixty-five."
+You described two morning bowls, bread in the fields, the noon pot, nuts or fat in the afternoon, and broth salted until a spoon nearly stood in it. The loader stopped coiling the sling.
 
-"I can put that on the wagon now."
+“That’s for everyone?” he asked.
 
-"You can stand still." He set the box well away from my boots. "What changed?"
+“Most adults take more. I didn’t earn the full field share.”
 
-I searched his face for the expected answer. "It is easier."
+The leader made another mark. “What did everyone carry?”
 
-"Where?"
+“The usual things. Water jars. Stone baskets. Grain. The others carried more.”
 
-"Everywhere."
+“How much more?”
 
-"Useless." He lifted off the copper case. "One twenty-five. Where now?"
+You gave her the village ranks because there was no safer answer. At the bottom stood your name, though you did not say it. Above it began capacities that would have required teams anywhere else on the road.
 
-"The straps."
+The cook pushed through the canvas with a bowl and your four heel cakes in one hand. “These were all you brought?”
 
-"What about them?"
+“They last if you soak them.”
 
-"The left one rubs. At the buckle."
+“For half a day.” She set down a bowl filled to the rim. “Eat. Then another.”
 
-He looked. The leather had pulled white around the fifth hole. "That I can mark. Any pull behind the knee?"
+“It can come from my wages.”
 
-"No."
+“It will come from somebody’s figures. Right now it’s coming from my pot.”
 
-"Back?"
+The leader fetched a waterproof packet from her chest. Between route permits and faded toll schedules lay a copied page, the letters crowded and patched by several different hands. She read only fragments aloud: hill populations fitted for sustained freight, dense bones, layered load-bearing tissue, high requirements for food, water, salt, and recovery. The original survey had been found broken. The copy did not say who had changed those people, or when, or whether they had agreed. Two later copyists had argued in the margins over whether the old word meant bred, built, or repaired.
 
-"No."
+“Does your village teach any of this?” the leader asked.
 
-He dragged the salt bale down, leaving seventy-five kilograms on the frame. I felt the difference then, a small upward sway as my body prepared for resistance that was no longer there. Daret saw my boot move.
+“We’re told our backs are good because our habits are good.”
 
-"Dizzy?"
+The loader snorted.
 
-"No. I can carry the two hundred. I was carrying it."
+“And yours?” she asked.
 
-"You were also walking toward an alder footway whose side planks take one person and a modest pack. The wagons go over the centre stringers. Your boots don't."
+“Mine isn’t. Not there.”
 
-He kicked mud over one of the holes the frame had made. "And the ground has entered an objection."
+The leader folded the page. “Here, two hundred kilograms moves without four wages. It also tears through our rations and gives us one worker whose safe limits we don’t know. That’s not a miracle. It’s an unpriced risk.”
 
-I looked at the deep square prints. They were too plain to argue with.
+The words should have disappointed you. Instead, they gave the strange fact edges. Risks could be measured. Prices could be written down.
 
-Daret removed the oats, then sat on it and pulled my work slate from where it showed through my loosened bundle. "Narrowhearth," he read. Below the seal, the winter results ran in careful columns. "These figures are lifting mass?"
+You scraped the bowl clean. “Could we measure it properly? If it’s not too much delay.”
 
-"Testing stones. The same measures traders use."
+“At first light,” she said. “Tonight you rest.”
 
-"Your best is seventy-two."
+* * *
 
-"The eighty never reached my shoulder. Everyone else made eighty."
+The test at first light ended with a working number lower than what you could lift.
 
-He glanced at the frame. "And two hundred here feels like what?"
+On level, packed ground, with matched slings and a loader watching, you carried two hundred kilograms for two hundred paces. At two hundred forty, the pull returned behind your knee. When the loader suspended a half-filled water cask at one side, you stopped at eighty. The water struck the barrel wall after each step and dragged your balance after it.
 
-"Less than seventy-two there."
+“There,” the loader said. “Half a cask and your stride’s gone. That sling needs a second belly-band.”
 
-"How much less?"
+The wheelwright, passing with an oiled hub pin, glanced at the yoke. “Put that much in the wrong quarter of a bed and you’ll bow the axle. I’ll leave the whole wagon for you to carry.”
 
-"I don't know."
+The teamster heard and called from the picket line, “And don’t make the mules match your pace. They get the hill they get.”
 
-"Good. Leave it unknown instead of gifting me a number." He set the slate on the salt. "Those grain sacks in the village, where do they come from?"
+The cook handed the leader a tally of meal measures. “This is the number you forgot.”
 
-"This muster. Traders leave wagons below. We carry goods up."
+The leader studied all four contributions. “One hundred eighty for ordinary flat-road assignments. Two hundred only when the loader clears ground and rigging. No catching, no rolling loads, no live animals, no tilted beds. We revise after a week.”
 
-"Why below?"
+“That sounds generous,” you said.
 
-"The animals won't climb."
+“It’s cautious.”
 
-"Can't or won't?"
+“I meant the work.”
 
-"They try. Past the iron ring they lie down. Some shake until they are led back."
+“Work isn’t a favor. Neither is pay.” She turned to the clerk. “Price porter rate, additional ration, salt, and boot leather. Show deductions separately.”
 
-His pencil tapped the thirty on the oat tag. "Wells?"
+The clerk’s mouth tightened at the board. “The rate for four hands assumes four hands can split.”
 
-"Shallow. Two-handled buckets."
+“Then price one hand and a required spotter.”
 
-"Roofs?"
+“That saves less.”
 
-"Short beams. Stone slabs no longer than an arm."
+“Write what it saves, not what you hoped it would save.”
 
-"Bread?"
+The loader took apart the test sling because the stitching at one corner was wrong. The cook demanded her measuring cup back. You ate a third breakfast portion and fell asleep against a wheel before the harness bells rang.
 
-The question made me stare.
+For the next four days, the caravan taught you all the ways weight could become somebody else’s problem.
 
-"Bread, Kemma. Does it rise like the loaves in our cook wagon?"
+The loader taught you to distrust a neat stack. He rapped crates and listened, checked seals for damp, and rejected rope that looked strong but had gone furry between its twists. His instructions came in clipped pairs. “Loop high. Pull low. Again.” When you apologized, he usually answered, “Again.”
 
-I had seen them at dawn, round-backed under cloth. "No. It spreads."
+The teamster cared less about cargo weight than where it made the animals work. “Hear that breathing?” she asked on a long rise. “That’s the pace. Not the schedule.” She would postpone a wagon to cool a mule, then curse for ten minutes when anyone delayed the same wagon through carelessness.
 
-"And the path changed under you this morning. Where?"
+The wheelwright spoke to wheels as if they were defendants. “You’ve been overloaded right rear,” he told a hub. “Don’t deny it.” To you he said, “A road leans even when your eyes don’t. Check the gap above the springs.”
 
-"Below the last iron ring. The rope went slack. My next step lasted too long."
+The clerk let numbers keep their full sharpness. “Gross is not freight. Freight is not chargeable freight. If you sign the wrong one, hunger will not improve the arithmetic.”
 
-Daret looked up the road toward the mountain. "There are quarry pockets where a plumb line leans and coast coves where a dropped chain falls wrong. Surveyors argue over causes after merchants have found a road around them. I've never had one strong enough to flatten bread."
+You said yes to all of them.
 
-"A curse?"
+Yes, you could hold the axle while the wheelwright set a pin. Yes, you could move two flour chests after unloading your assigned copper. Yes, you could fetch water before eating. Yes, you could stand in place while the loader fetched a better strap. The tasks were each small compared with what people at home demanded, and every request sounded like another day’s permission to stay.
 
-"Call it a curse if that helps you point to it. It flattened the bread, stopped the mules, and let go at the iron ring. That is enough for my route notes." He weighed the oat tag in his fingers. "Nothing happened to your shoulders when the bell struck. You crossed out of a place where everything was pulled down harder. You have been growing and working in it for eighteen years."
+On the fourth evening, the cook found you beside the water wagon rubbing salt into your gums from the empty twist you had brought from the village.
 
-The slate lay faceup. Forty-one of forty-one.
+“You missed the noon pot,” she said.
 
-"I was still last," I said.
+“There was axle work.”
 
-"Looks like it."
+“The axle did not eat your portion. Somebody else did.”
 
-There was no kindness in the answer for me to distrust. Daret turned the slate over and used its blank back beneath his manifest.
+“That’s all right.”
 
-"Last up there doesn't give me a safe number down here," he said. "Neither does one foolish walk under two hundred. Frame weighs twelve. With you, that load put well over two-fifty on whatever plank took your next step."
+“Not to my count.” She shoved bread folded around cold beans into your hand. “Tomorrow, answer me when I call. I don’t chase freight.”
 
-He wrote 212 GROSS, circled the whitening buckle hole, and drew a line through it.
+The next morning your right knee had stiffened, and the patched heel had opened into a raw crescent. The leader saw the shorter step before you reached the wagons.
 
-"What can I carry?" I asked.
+“Report.”
 
-"Until evening? Twenty-seven gross."
+“It’s not bad. I can still carry.”
 
-"Twenty-seven?"
+“That is not a report.”
 
-He nodded at the small road pack lying beside the leather. "Frame seven, oats twenty. You can carry it or walk empty while I find out whether your knees know what your lungs don't."
+Under her questions, the missed meal, extra lifts, and soreness came out in scraps. Your answers shortened as her wax stylus cut deeper lines.
 
-The answer came to my mouth before I could inspect it. "I can carry it."
+“Who assigned the extra work?”
 
-"Then shorten that left strap by one hole. Not five."
+“No one exactly.”
 
-We caught the caravan at the alder bridge. Daret sent the cargo ahead in wagons and put the seven-kilogram frame on me with one oat sack. Twenty-seven gross was almost insulting until my boot met the first side plank.
+“Then who accepted it?”
 
-I drove it down as if I were climbing at home. The damp board gave a sharp complaint. My next step carried me too far; the pack clipped a post and turned my hips toward the water.
+You looked at the board.
 
-Daret caught the post, not me. "Short steps. Let the board come back before you leave it."
+The loader arrived with a sling over one shoulder. “Not loading them today.”
 
-"I wasn't falling."
+“I could do a lighter—”
 
-"You were turning. The oats don't care what name you give it. Again."
+“No.” He pointed toward the clerk’s seat. “Copy the third and fourth wagon columns. No lifting.”
 
-He made me return to the bank and cross without the pack. Then with it. By the third crossing I could feel the plank flex instead of fighting it. The wagons rolled over the heavy centre beams beside us, each axle spreading a load my feet would have concentrated in two small places.
+The leader changed the roster. It cost the caravan time. The other road hand carried your ordinary share and did not pretend to be pleased about it. At noon he dropped beside you, accepted his second bowl, and said, “If you volunteer me into this again, I’ll hide your boots.”
 
-After the bridge, Daret put the pencil away and attended to his delayed road. He did not announce what I had carried. The salt loader looked at me twice and then asked whether Daret had changed the wagon order. I passed on the tags. That was all.
+“Sorry.”
 
-Daret kept taking things away for the rest of the day.
+“Eat.”
 
-At the first rise, Daret removed the oats and made me walk with the empty frame. I leaned so far into the hill that I struck the rear wagon twice. He shifted the harness to the fourth hole. At noon he gave the oats back and timed one mile by the wheel clicks, then took them away while the cook looked under the straps for rubbing. A red patch crossed my left collarbone. I had not felt it until a wet cloth touched the skin.
+You did.
 
-"Does it hurt now?" Daret asked.
+* * *
 
-"A little. I can still take the salt."
+The road on the seventh morning narrowed along a slanted shelf of clay. Rain had passed in the night, leaving the high-side drainage strip sticky while the lower wheel track shone hard and wet. The wheelwright walked ahead prodding the surface with an iron rod.
 
-"Salt is not a treatment for rubbed skin. Frame comes off until the next marker."
+The fifth wagon’s uphill wheel broke through the crust over a drainage hollow.
 
-He was already calling for someone to tighten the third wagon's brake. I stood empty-handed while work flowed around me. A teamster folded my frame against the rear wagon, another carried the salt past, and the brake crew filled the patch of road where I had been.
+The bed tilted. Harness snapped tight. Inside the canvas, something heavy slid and struck the sideboards hard enough to bow them.
 
-In the afternoon, Daret gave me a sixteen-kilogram canvas bundle without a frame. It was wide, soft, and much harder than the oats. A side wind caught it. I corrected as I would have corrected under Narrowhearth's pull and stepped clear off the road.
+“Hold the team!” the teamster shouted.
 
-"Don't fight the whole gust," Daret called from behind a wagon. "Lower the near end."
+“Uphill side clear,” the loader called. “Nobody beside the lean.”
 
-I lowered both ends. The canvas hit the verge and nearly took me with it.
+You were behind the wagon, clear of the sideboard but close enough to see the uphill end of the rear frame dropping. The wheelwright thrust a crib block beneath it, but the block skated in mud.
 
-"Near end, Kemma. You have two."
+“Shoulder here,” he said. “Steady only.”
 
-The wheelwright laughed, but came back to show me which rope loop would let the roll pivot instead of dragging my shoulders. We walked the canvas to the next wagon together. I carried most of its mass. The wheelwright controlled the end that wanted to sail. It was the first load that day made easier by another person's hand.
+You set your back beneath the frame and took the corner’s weight. It was not two hundred kilograms; it was a changing fraction of wagon, cargo, and slope. For one breath it pressed cleanly down. Then something rolled inside. The force twisted across your spine.
 
-At evening halt, while tents went up in a stubbled field, Daret pointed me toward an empty crate from the lamp wagon. "Ground cloth to tailboard. Use the handles. It weighs eleven."
+The loader reached for the rear ties.
 
-The handles were dry pine, polished where fingers had passed through them. I curled my hands lightly. Or what felt lightly.
+“No,” you said.
 
-The right handle split with a sound like a snapped peg.
+He stopped.
 
-That corner dropped. I caught it against my thigh, overcorrected, and crushed one slat under my thumb. Daret seized the other handle before the crate could twist apart. Together we set it on the cloth.
+The old reflex tried to finish the sentence with an apology. Another object shifted against the sideboard.
 
-"Stop," he said, though I already had.
+“Don’t open that. It’s moving into the uphill board.”
 
-People carried tent poles around us. A cook stepped over the broken handle without pausing.
+The leader came up behind you, her boots sinking at the heels. “How long can you hold?”
 
-"Keep today's pay," I said. "I can mend it after supper. I can take both salt bales tomorrow instead. No charge."
+“I can’t. Not if it moves again.”
 
-Daret fitted the broken pieces together. "One handle, one slat."
+“Then we set it down. Wheelwright?”
 
-"And the crate."
+“Need two blocks under the rear frame, one broad pad under the buried hub. I can’t place the pad while it’s settling.”
 
-"The crate is still a crate."
+The clerk had abandoned her seat with the manifest hugged beneath her coat. You had copied that wagon’s column the day before: copper coils high at the rear, sacks of meal along the center, lamp crates forward, two half-filled oil casks wrongly returned to the uphill rail after inspection.
 
-"I can carry it without handles."
+“The oil casks are what rolled,” you said. “Rear, uphill side.”
 
-"That is how it loses the other four slats." He called to the wheelwright, "Two pine blanks when the axle grease is done. Put the repair on my trial line."
+The loader swore once. “They were meant to be wedged.”
 
-"It was my hand."
+“Can we take the copper out through the downhill flap first? It’s high now. Then pass meal sacks downhill for ballast. The casks stay shut until the bed is on blocks.”
 
-"It was my instruction. I saw you throw a tent peg into a tire and gave you dry pine anyway." He took his tablet from his belt. "Eight coppers for today. If the wheelwright wants help with the mend, you help on paid time until the cook rings. The salt stays on its wagon."
+The leader looked to the loader.
 
-"I owe more than that."
+He was already reaching across the raised side for the cover ties. “That gives me a safe opening.”
 
-"You owe me an answer I can write." Daret flipped to the next day's page. Several freight tags hung from its cord. "I have rear stores in sacks, lamp crates, and tent canvas. The stores run to thirty kilograms gross. The lamps run under fifteen and break if you squeeze them. Canvas catches every breath the sky takes. Which line?"
+“Teamster?”
 
-"Whichever keeps the job."
+“I can slack the rear pair. Leaders stay braced.”
 
-He held out the pencil. "Can't fit that in the box."
+“Wheelwright?”
 
-A teamster interrupted to ask for a new belly strap. Daret told them to take the fourth spare, not the third, and scratched the change beside a mule's wagon number. The pause let the wrong answers crowd my tongue. All three. Anything. No pay. More than two hundred next time.
+“If steady means steady.”
 
-Instead I watched the wheelwright measure the cracked handle against a pine blank.
+The leader pointed, assigning hands. The cross-talk collapsed into work calls.
 
-"How much is tomorrow?" I asked.
+“Copper coming.”
 
-"Nine coppers. Same as a road recruit after one day."
+“Hands high.”
 
-"Even at thirty?"
+“Block seated.”
 
-"Especially at thirty. I can sell freight that arrives."
+“Trace slack.”
 
-He pointed the pencil at an empty square beneath my name. "Safe maximum stays blank. Two hundred is what I caught you under once, with a strap already whitening. We'll weigh higher another day, on level ground, with a sound frame, if you're still here and I have time to waste on it. Those hours pay too. Tomorrow isn't that day."
+“Meal uphill.”
 
-I put my finger on the rear-stores tag. "This one. No crates with handles. Not until I can pick them up without breaking them."
+Mud squeezed under your boots. Your shoulder trembled, not from the clean downward weight but from small corrections as the crew removed it in pieces. When the second crib block seated, the wheelwright slapped the frame twice.
 
-Daret wrote R beside my name, then waited with the lamp tag still between his fingers.
+“Lower.”
 
-"Not the lamps," I said.
+You bent slowly. The wagon came to rest on wood instead of your back.
 
-He crossed their wagon number from my line. "Rear stores. Thirty gross. If a loader tries to add to the tag, make them bring it to me. First wheel at dawn."
+The loader made everyone stand clear while he opened the rear and wedged the oil casks. The teamster walked both mules for cuts. The clerk crossed out a delivery estimate. The leader sent you to the cook for salt broth, then stood over you until you drank it.
 
-Before sunrise, the loaders were late again. The lead mule stamped in its traces while Daret counted pins. Someone pushed a twelve-kilogram lamp crate toward me at the rear wagon.
+Two hours later the wagon was upright. The wheel held. The caravan moved at half pace, and the loader walked beside the repaired corner with one hand on the rail, feeling for every shift.
 
-My hands rose by habit. I saw the fresh pine handle, stopped, and showed the loader my tag.
+You walked empty-handed.
 
-"Stores," I said. "The lamps stay on the wagon."
+* * *
 
-They took the crate back and gave me twenty kilograms of oats and a coil of rope, thirty gross with the frame. The lead wheel began to turn. I followed the rear wagon onto the river road, and the lamp crate rode past my shoulder on its tailboard.
+At the market, the clerk laid the proposed contract on an upturned crate. Around you, awnings cracked in the afternoon wind. Porters rolled handcarts between the wagons, shouting ordinary warnings about toes and corners. Nobody knew you had been the weakest person in a village beyond the hills. Nobody asked.
+
+The leader tapped the first figure. “Porter premium, less board. Full crew ration plus the cook’s added measure. Salt issued daily. New boots charged over six pay periods.”
+
+You read the load clause twice. “It says one hundred eighty.”
+
+“That was the tested ordinary limit.”
+
+“On flat ground, yes. Most of the road isn’t flat.”
+
+The clerk looked up. The leader waited.
+
+Your mouth had gone dry. “I think one hundred sixty should be ordinary. If that’s workable. Two hundred on level ground, with the loader checking the sling. Nothing that rolls or shifts. No holding wagons.”
+
+“Emergencies don’t read contracts,” the leader said.
+
+“Then I put it down.”
+
+The sentence was small. It stayed where you set it.
+
+The leader tapped the wax board against her palm. “If putting it down endangers someone?”
+
+“I call it before I lift. If the ground changes, we stop and crib it. If someone orders a catch, I refuse.”
+
+“That costs time.”
+
+“Yes.”
+
+The loader, sorting hooks nearby, said, “Costs fewer knees.”
+
+The clerk drew a line through one hundred eighty. “Recovery?”
+
+You almost said whatever was usual. “Meal calls. I stop for them. One full rest day in seven, and no extra lift added while I’m already under load.”
+
+“Training hours?” the leader asked.
+
+“Half a shift with manifests and load plans. If you still need that.”
+
+“I need the wagon planned before it’s loaded. Apprenticeship rate until you can do one without the wheelwright sending it back.”
+
+“Paper deserves what it gets,” the wheelwright said from beneath a nearby bed.
+
+The leader ignored him. “Six-week trial. We revise limits only after another controlled test. Either side can end at a market stop.”
+
+The clerk added each term in cramped script. The cook came to check that “full ration” meant her measure, not the clerk’s. The other road hand complained that the rest-day roster would have to change. The teamster wanted the route grades copied before dawn. By the time everyone had protected their own work, the contract was ugly with insertions.
+
+You pressed your thumb into the wax.
+
+The next morning, the loader assigned you two sixty-kilogram cloth bales in a matched shoulder rig. A modest load, stable and dry. The clerk handed you the manifest board as well.
+
+“Third wagon,” she said. “Check gross against axle allowance. Mark the steep grade after the noon well.”
+
+The cook pushed a paper twist of salt into your pocket. The teamster called the start. Harness chains tightened down the line.
+
+You checked the sling, checked the figures, and took your place beside the third wagon. When the road began to rise, you were already looking at its angle.

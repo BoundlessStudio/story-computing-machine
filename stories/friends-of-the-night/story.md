@@ -8,282 +8,328 @@ canon: false
 
 # Friends of the Night
 
-The first animal I spared cost me one ewe, nine silver pieces, and the respect of every shepherd at the lower fold.
+At sunset I set two river eels on the flat stone and backed away twelve paces.
 
-It happened on the night the warden's chain changed necks. My predecessor had not yet finished explaining the brass tags on the trophy wall when the fold bell began to hammer. He took down his boar spear by habit, remembered the chain now belonged to me, and handed the spear over.
+Crooktail watched from under the hazels. I knew it by the right angle in its tail and the pale seam along one forepaw, though neither mark showed until it chose to move. Shadow beasts were not made of darkness. They had ribs, burrs in their fur, mud between their broad toes. Crooktail even sneezed when the hazels flowered. But its coat held so little light that my eye kept losing the edges of it, and when it lowered its head the ground seemed to open a mouth.
 
-"Mind the dark beside the wall," he said. "They'll use it to reach your throat."
+For six years, this had been our measure. I brought eels or a hare's liver. I struck the stone once with a hazel switch. Sometimes Crooktail ate while I sat nearby. Sometimes it left me to the flies. Once it had followed me almost to the lower gate, pausing whenever I turned, and for a month afterward I had called that proof of friendship. Then I learned that a slaughterhouse cart had dripped blood along the same road.
 
-We found three shepherds holding lanterns over an iron trap. Something black thrashed between the jaws. Each time it struck the end of the chain, its body spilled toward the wall's shadow and snapped solid again: long shoulders, narrow belly, forelegs built for a much larger animal. Light gave it fur. Darkness took the fur away. Its eyes stayed visible in both.
+That evening it did not look at the eels. Its ears had turned toward the western rim.
 
-The dead ewe lay six paces off with her belly opened. There was no mystery to solve. Blood glossed the beast's muzzle.
+Drums came over the ridge, softened by distance but too regular for thunder. One by one, points of fire appeared above the barley fields. They multiplied down the road until the rim of Shalegate looked stitched with red thread.
 
-"A clean first tally," one shepherd told me. "The old warden will show you where to set the spear."
+Crooktail withdrew under the hazels. The brush gave one dry shiver, then nothing.
 
-My predecessor did not look pleased by that. He had killed nineteen hushbeasts and liked none of the killing. He merely believed that liking had nothing to do with work.
+“Tavik!” Torma called from the fort wall. “Inside. Now.”
 
-The trapped beast had stopped pulling. One paw was crushed in the iron, yet it watched the lanterns, not us. Beyond their circles of light, the fold wall cast a single unbroken strip of black. Three more pairs of eyes waited there.
+By the time I reached the gate, the western host had begun pouring into the valley: pikes first, then wagons and horse, all taking their places with the dull competence of people who expected to sleep on conquered ground. Torma stood above the arch in a boiled-leather coat, counting standards. Beside her, Denek was unhooding the east beacon.
 
-"If I kill this one," I said, "how many ewes do the others take tomorrow?"
+“Leave that covered,” I said.
 
-"Maybe none. Maybe ten," my predecessor said. "A warden counts what happened, not what might."
+Denek did not turn. “A dark wall is an invitation.”
 
-I asked the shepherd the ewe's value. Nine pieces, including the lamb she would have borne. I paid him from the purse meant to last until first frost.
+“A high flame will throw every sentry's shadow across the beast runs.”
 
-Then I made everyone set their lanterns behind the rain trough.
+Torma leaned over the parapet. “How far?”
 
-The shepherds cursed me. My predecessor did not. He planted the spear butt in the mud and watched while I knelt at the edge of the shadow. The trap spring had been wound hard enough to break bone. I put both hands on its levers. The beast's breath came hot through its teeth.
+“On level ground? Thirty paces, perhaps more. It depends on the flame and where they're moving.”
 
-"When I press, pull your paw," I told it, because sensible conduct sometimes begins with speaking to a creature that cannot answer.
+“Can you keep them off the wall?”
 
-I leaned my weight onto the levers. Iron moved one finger's width. The beast jerked free. Its shoulder struck me flat, and its jaws closed around the leather guard on my wrist.
+“No.”
 
-It could have taken the hand. Instead it held me still until the other three shapes flowed from the wall and gathered around it. The wounded one released my arm. All four vanished along the connected dark, leaving the sprung trap and a trail of blood.
+She waited. Torma had a way of leaving silence open until a weak answer walked into it and died. I gave her no second answer.
 
-Behind the trough, someone uncovered a lantern.
+“Light the beacons,” she said. “Double water beside each. Tavik, mark every run you know. Denek, keep the lower ward off them.”
 
-My predecessor offered me the spear to help me stand. "You bought one night's uncertainty for nine pieces."
+The old keeper struck flint. “That was always the rule.”
 
-"And learned where four of them travel."
+Pitch caught with a greasy cough. Light vaulted over the inner roofs, and our shadows sprang westward along the wall.
 
-"You always were greedy."
+The first man shrank before the enemy finished pitching its command tent.
 
-The lower fold could not keep losing ewes while I conducted an education, so I spent that autumn making friendship inconvenient. I dug out the thorn hedge and doubled it. I put bells on the narrow breaks, raised the feed bins, and persuaded the shepherds to stop throwing lambing waste beyond the wall. At the same time, I lifted every iron jaw from the path between the old quarry and the spring.
+He was an east-wall sentry carrying a bundle of quarrels. One moment his boots thudded above me; the next came a small metal clatter, no louder than a dropped cup. I found him hanging from the drain groove in the wall walk, his fingers hooked over its edge. He, his coat, his sword and the bundle on his back had all dwindled together. I could have covered his body with both hands.
 
-My predecessor followed behind me, finding traps I had missed.
+“Don't pull,” he gasped as I reached for him. “The buckle's caught.”
 
-"You said take them up," he grumbled, levering one out from under a yew root. "You didn't say I had to approve."
+That was our first good fact: the change had not hurt him, and fear had not taken his sense. I freed the buckle with my knife and lowered him into my cap.
 
-We discovered why the hushbeasts had begun crossing the fold. A summer landslip had opened the quarry spring to the sun. They would approach it through the trees, reach the bright stone, and turn toward the nearest strip of shade—which ran beneath the fold wall. I roofed part of the spring with willow hurdles and left a dark lane along the outer hedge. The work cost less than two ewes. By winter, nothing with black paws crossed the bells.
+Below the wall, Crooktail stood on the bare run with its jaw closed around the sentry's long black shadow. There was no tearing, no blood. The shadow narrowed between its teeth like cloth drawn through a ring. Then Crooktail released it and vanished under the thorn fence.
 
-The shepherds called it luck. My predecessor called it a season too short to prove anything. The hushbeasts said nothing, but brass trap tags began appearing on my doorstep, each bitten through its punched hole. They had found iron deeper in the hill than either warden remembered setting.
+A shout rose from the enemy's near pickets. Another followed, farther south. Torches moved, stooped, scattered. By midnight our scouts had brought in five diminished soldiers they had found struggling through grass that reached their shoulders.
 
-I followed the tags. At first, I saw only eyes. Later, I learned the small signs of their approach: moths lifting from one bush and settling under another; frost going dull where a shadow deepened; the smell of wet stone in dry weather. The beast I had freed kept one pale forepaw. It never came close if I carried iron. If I left my knife at the quarry lip, it sometimes lay within ten paces while I ate.
+One of Torma's spearmen looked down at the captives. “What do we do with these?”
 
-The younger ones stole things that held no use for them. A bootlace. A wooden spoon. Once, the entire broom head from the watch-house. They pushed their prizes into one shadow and made them tumble from another, startling themselves each time. I laughed hard enough on that occasion that the pale-footed beast left in disgust. Friendship was not solemn every night, or safe. Hushbeasts hunted the red dogs that ranged down from the high scrub, and they did not leave tidy remains.
+“Get a bread tray,” I said.
 
-They flattened themselves into shade to sleep, but iron held their bodies solid and direct light broke the paths between one shadow and the next. They could cross half a hillside in the time it took me to blink if the dark was joined. Under a full moon they had to creep from tree to tree like anything else. By my second spring I could distinguish more than thirty adults at the quarry, although some disappeared for months and returned with strange burrs in their coats.
+“I meant after.” His boot shifted closer.
 
-I learned what they could do with a human body during a rainstorm in my second spring as warden.
+Torma caught the back of his belt and hauled him one step away. “After, you obey the law. Bread tray.”
 
-My predecessor and I had gone to clear the spring roof before floodwater tore it loose. The bank failed beneath him. He slid into the quarry, struck the broken floor, and came to rest with one leg bent wrong. Water rose around his hips.
+The captives were cold, furious, and too frightened to sit still. We put the east-wall sentry with them because he refused to be carried alone. Under shielded lamps, which cast no useful reach for a beast's jaws, I checked each of them. Armor rivets, scabbards, bootlaces: all reduced in proportion. A picket's dropped torch had remained full-sized where it fell.
 
-I could not carry him up the cut. The rope had gone with the bank. I opened my hooded lamp once, then covered it, the signal I used when I came to work near the den.
+“How do you undo it?” Torma asked.
 
-Eyes appeared under the flooded ledge. The pale-footed beast stepped onto a slab beside us and lowered its shoulder. Shadow thickened along its ribs, deep enough that my hand disappeared when I reached toward it.
+“The shepherd boy who shrank three winters ago recovered beyond the north ledge.”
 
-"No," my predecessor said.
+“That boy was delirious.” Denek folded his arms. “He told us a moon spoke to him.”
 
-"The water is climbing."
+“The moon did not return his height. Distance did.”
 
-"Then fetch another rope."
+“You hope.”
 
-The nearest rope was a mile away. The beast nosed his boot, then recoiled from the iron spear strapped across his back.
+“I observed.”
 
-I unbuckled it. My predecessor caught the shaft before I could throw it aside.
+Torma pointed to the friendly sentry in my cap. “Take him to the ledge. If he grows, come back before dawn. If he doesn't, keep going.”
 
-"That spear was my predecessor's."
+The north path stayed behind the fort and climbed out of the beasts' feeding range. Denek came with me, a spear in one hand and the tiny sentry's bundle in the other. He repeated the old rules as we walked: flame high and close, stone underfoot, no reaching into brush. I knew them. I had learned them from him before I learned how many beasts his drives had killed.
 
-"He isn't drowning with us."
+At the third boundary cairn, the cap jerked in my hands. I set it down just in time. The sentry unfolded out of it, first the size of a child, then of a man crouching naked in the cold, except that his clothes and gear were growing with him. His sword knocked over two stones. Denek jumped back and leveled the spear.
 
-Water reached my knees. At last he let go.
+The sentry lay panting on the path. “Can I stand now?”
 
-The beast pressed its flank against him. Nothing happened. My predecessor had both fists locked in its fur, his face white with effort, but his body stayed on the slab.
+“Try your left foot first,” Denek said.
 
-"Stop bracing against it," I said. "You have to step."
+He could stand. He was hungry and shaking, but whole.
 
-"On that leg?"
+On the way down, Denek carried the cap.
 
-"With the other one. Toward the dark."
+At noon, Torma met the invaders under a white shield hung from a pike. She took me because I knew the beasts, and Denek because he knew when I mistook a wish for a fact.
 
-He swore at me, the beast, the quarry, and all inherited offices. Then he shifted his sound foot.
+Marshal Drost arrived with six guards and a clerk. He wore bronze scales over blue wool. The guards wore no open flame, and all of them watched the grass. Behind them, soldiers were raising siege frames while carpenters measured our gate.
 
-Cold closed over him. He and the beast sank into the ledge shadow and vanished. A breath later the beast returned alone. Night had fallen, and the storm had joined every dark patch between quarry and watch-house, so I put one hand into its fur and stepped.
+“Six pickets are missing,” Drost said. His voice still had ceremony in it. “You will return them and remove the affliction.”
 
-Stone vanished beneath my boots. A heartbeat later I fell into the woodpile shadow beside the watch-house. My predecessor lay in the mud, staring at the beast and emptying his stomach. The journey had covered a mile in two passages.
+“Five are inside,” Torma said. “The sixth ran west after he changed. We did not catch him.”
 
-When I turned to thank the beast, it was already gone.
+Drost looked at me. “You are the keeper.”
 
-"I still prefer a cart," he said.
+“I keep people from crossing the runs. I don't keep the beasts.”
 
-He never called them tame after that. Neither did I.
+“Then you have failed at the smaller task.”
 
-War arrived in the third harvest with people running ahead of it.
+“You brought twelve hundred open flames into their range.”
 
-They came up the southern road in burned clothes, carrying children and grain sacks. Behind them marched an army assembled from every district the enemy had crossed. Its mounted officers wore red lacquer. Most of its foot soldiers wore farm coats beneath borrowed armor. Refugees said the unwilling files were roped together on the road and separated only when the column made camp.
+His clerk glanced down at the tablet before him. Drost did not. “One thousand eight hundred and forty-two. Your wall has perhaps four hundred fit defenders.”
 
-Our militia broke the old bridge and withdrew behind the river wall. That bought days, not victory. The enemy filled the southern fields with tents while engineers built a crossing from green timber.
+“Four hundred and six,” Torma said. “All behind stone.”
 
-The militia captain came to the watch-house at dusk. He looked once at the empty trophy hooks, then spread a map over my table.
+I crouched and drew the valley in the dust: fort, barley fields, western road, outer ridge. “Put out the fires. Withdraw on this road. Beyond the ridge, your people recover.”
 
-"Can your beasts reach the horse lines?"
+“You have tested that?”
 
-"If the shadows touch."
+“One man, northward.”
 
-"Have them panic the mounts. Trample a few tents. We only need another week."
+“Your man.”
 
-"I can ask them to go near three thousand armed strangers. I cannot tell you what they will do there."
+“The beasts caught him under our beacon. They don't know your colors.”
 
-His finger stayed on the drawn bridge. "Ask for something useful."
+For the first time, Drost looked toward the wall instead of through us. Then he wiped out my road with the toe of his boot.
 
-He left before I could answer. My predecessor, whose leg had healed crooked, began laying blankets on the floor.
+“Nets at every fire,” he told the clerk. “Two handlers to each. Widen the fire lines by dusk.”
 
-"How many?" I asked.
+“Longer shadows give them more to reach,” I said.
 
-"However many your useful idea brings home. We have six sacks of barley and one roof. Count before you promise."
+“And more light gives my handlers something to see.”
 
-I took his warning with me.
+Torma lifted the white shield from the pike. “Your five soldiers will be set outside the south gate at sundown. That is the last courtesy you get in my fields.”
 
-From the wooded ridge above the enemy camp, the army looked less like one creature than it had from our wall. Officers ate beneath awnings. Engineers worked by torchlight at the river. Near the outer ditch, soldiers in mismatched coats slept in files while guards walked between them. A cook carrying a pot stumbled. An officer struck him, and three nearby soldiers pulled him upright without looking at one another.
+We walked back without speaking until the gate shut behind us.
 
-The camp's lanterns were set far apart. Darkness joined beneath carts, tents, stacked shields, and sleeping bodies. The hushbeasts could have hunted there.
+Denek stopped under the arch. “He is doing what we did.”
 
-Instead, I went to the quarry and laid two objects on the stone: an enemy spear I had taken from the road, and the coat a refugee had shed at our gate. I pushed the spear into moonlight and the empty coat into shadow. Then I stepped behind the coat and waited.
+“You used hounds and hooked poles.”
 
-The pale-footed beast smelled both. It bit through the spear's wrist loop, spat the leather at me, and vanished.
+“We used beacons first.” He rubbed his thumb along the old spear shaft. “Beacon nights pulled the beasts toward the outer houses. Shadows crossed beds, cradles, doorways. People ran small into winter rain. We killed the beasts because we could not move the wall.”
 
-That might have meant no. Friendship had not given us a common language, only a long history of trying.
+I had heard the death counts. I had dressed them in my own explanation: frightened keepers, ignorant hunters, an easy cruelty inherited as custom. “You told me they came into the houses.”
 
-Near midnight I returned to the ridge. The beast waited under a hawthorn. I left my knife and badge in the grass and put my hand against its side.
+“They did. After our light laid a road to them.”
 
-We passed through three linked shadows and stopped beneath an empty supply cart inside the camp.
+“And you kept lighting it.”
 
-A sentry stood on the other side of the wheel. Flour was baked white in the seams of his sleeves, though he held a spear now. When he saw the eyes beside me, the point dropped toward my chest.
+“There were raiders then too.” Denek looked up at the blazing east beacon. “Darkness never promised to spare us, Tavik.”
 
-"If you shout," I whispered, "it leaves. I stay."
+Neither had Crooktail. That was the part I had made soft in my mind.
 
-"What is it?"
+When I took Denek's post, I shuttered the house lamps, moved slaughter scraps away from the lanes, and cut new runs toward the stream. The drives ended. No resident had shrunk in six years. I had called that friendship because I needed a word better than truce and warmer than successful drainage.
 
-"A road, if you put down the iron and mean to take it."
+The second night showed me the limit of all three words.
 
-He looked past me. "To your prison yard?"
+Drost's bonfires made noon-colored islands across the valley. Each soldier standing near them cast a black road forty or fifty paces long. Nets lay open beside the flames. At first the handlers laughed when small shapes flickered at the edges. Then the shapes crossed between fires, and men began dropping below the line of shields.
 
-"To a hay barn north of the river. You can sleep there, eat once, and choose a road in daylight. I can promise no more."
+A pike company collapsed unevenly as shadows passed over the south run. One soldier dropped to knee height; another dwindled until the grass hid him. Their clothes and weapons changed with them, but the ladders they held did not. Timber crashed. Horses reared above riders suddenly too small to manage reins. Orders broke apart into names and warnings.
 
-"There are forty people in my cooking file."
+From the wall I counted seven beasts. Then ten. Then I found the crook in one tail.
 
-"It can take one at a time. There are others."
+Crooktail had entered a net beside the largest fire. The handlers dragged the corners tight and pinned them with hooked stakes. Crooktail rolled, silent, while flame lit the pale seam of its paw. Every struggle wound the mesh closer around its throat.
 
-"If one vanishes, they beat the rest."
+“Open the lower gate,” I told Torma.
 
-The pale-footed beast shifted. The sentry flinched but did not raise his spear.
+“No.” She was moving archers away from the long beacon shadows as she answered. “That camp is folding without us.”
 
-"Then don't come tonight," I said. "Pass the offer. No iron. Find joined dark. If someone changes their mind, they let go."
+“The beasts are trapped between their fires and ours. Douse the wall. Give them dark to leave through.”
 
-He gave a dry, frightened laugh. "You walked into an army to tell us not to hurry."
+“If I douse it, I lose the barley approach.”
 
-"A rumor from the hill would sound like bait."
+Another ladder fell in the camp. Someone screamed for water; someone else screamed not to bring a torch.
 
-The sentry's eyes moved from me to the beast. He set his spear against the cart instead of dropping it, a choice not yet made. We left him there.
+Denek joined us at the parapet. “No dark gate during siege,” he said. “Keep the flame high. Keep stone under your feet.”
 
-Seven people arrived at the hay barn before dawn.
+“Can you reach that net?” Torma asked him.
 
-The sentry was not among them. A scullion was, and an older woman who had marched barefoot for two days, and five field workers taken when their villages failed to meet a grain levy. They came through the barn's own shadow clutching black fur. One woman showed us the blister an iron buckle had raised when she first tried to step; she had torn the belt off before trying again. After that, we cut metal from every borrowed coat.
+He watched the fire, the ditch and the folds of ground between. His lips moved once, repeating distances. “By the old drive path. Two men, no lamp.”
 
-My predecessor counted bowls, shoes, blankets, and miles. He sent two deserters west with a peddler before the village woke, found family lodging for three, and put the scullion to grinding barley because the young man refused to sit still.
+“Take Tavik.” She turned to the beacon crews. “Hood the east. Then the south. Lower gate opens one body wide, and it shuts behind them.”
 
-"Seven is not an army," he said when we were alone.
+The wall went dark in sections. Each vanished beacon erased a row of roofs, then joined the space between fort and field into one deep black. Wind carried sparks from Drost's camp, but the beasts now had somewhere the long fire-shadows did not reach.
 
-"Tomorrow they can tell forty."
+Denek and I slipped out.
 
-"Tomorrow forty will need breakfast. Remember that too."
+He led without hesitation. “My shoulder,” he whispered. “Stay level with it.”
 
-The second night brought thirty-two. On the third, the camp lost nearly two hundred between moonrise and dawn. The hushbeasts carried them singly, sometimes two small people pressed together, each journey beginning with a weapon laid down. They chose their own routes and their own passengers. One beast refused anyone wearing red lacquer. Another would approach only if offered a crust first. The pale-footed one returned so often its sides trembled.
+“I can see the ditch.”
 
-Word traveled faster than they did. Soldiers scratched a black arch on cook pots and bed frames. Those who meant to leave shifted toward the cart lanes before the night watch. Those who meant to stay reported them. Fights broke out in the files. Before sunset on the third day, someone painted an arch with three wavy lines beneath the eastern cook awning. I mistook it for another promise of the road. The enemy officers moved the foot soldiers away from the camp edge and lit tar trenches in a ring.
+“Good. Don't step in it.”
 
-On the fourth night, no one came.
+The old drive path bent through thorn gaps I had never noticed because Denek's hunters had cut them to funnel fleeing beasts. Twice he put a hand against my chest and stopped me before a shadow swept across us. Once a diminished soldier blundered into my shin and clung there.
 
-Fire made an island of the camp. It also licked uphill into the dry grass. The pale-footed beast returned near dawn with one ear blistered and the fur singed from its ribs. The others kept to the quarry, restless and bright-eyed, while smoke entered their den.
+“Road west,” I whispered, turning him by the shoulders. “No fire.”
 
-The enemy bridge had reached the middle of the river. We had perhaps one more night.
+He stumbled away without answering.
 
-My predecessor climbed the watch-house steps with a roll of rotted plans under his arm. "The camp is on the old sheepwash. They filled the surface ditch, but the stone throat is under their eastern cook line."
+At the largest bonfire, the world became glare and hard edges. Crooktail's net was fixed to four stakes. One handler had shrunk inside his own loop of rope; the other had fled. Denek crawled behind a supply chest, reached the first anchor and sawed through it with his belt knife.
 
-"The upstream gate?"
+I smothered a fallen torch under my coat. The shadow attached to Denek's hand vanished an instant before a beast snapped at it.
 
-"Still ours. The lower grate opens from inside. Open it, and I'll give you every drop in the millpond."
+“That's one,” he said. His voice was steady, but he cut the next rope too fast and nicked his thumb.
 
-"That water feeds the winter fields."
+The net loosened. Crooktail twisted, baring teeth no darker than ordinary teeth. Mesh still cinched its hindquarters to the last two anchors.
 
-"So do farmers."
+Boots approached from the fire side. At first I expected a child. Then I saw the bronze scales, each one reduced to the size of my thumbnail.
 
-He tapped the plan with a scarred finger. The buried channel would carry a sudden flood straight beneath the tar trench. It might smother a quarter of the ring. It might also drown the camp's food and leave our fields dry until spring.
+Drost stood no higher than my shoulder. Two guards flanked him, one scarcely reaching his waist. Rank had not left his face, but ceremony had.
 
-He had counted before he promised.
+“Three hundred eleven changed,” he said. “Forty-eight cannot clear the wagon ruts. Seventeen are missing. How long?”
 
-At midnight, the pale-footed beast took me as far as the camp's firelight. I crawled the rest of the way inside the sheepwash, through old grease, roots, and mud warm from the burning trench above. The stone throat ended at an iron grate. Beyond it, boots shuffled on packed earth.
+“Until they cross the western ridge.”
 
-I pushed once. The grate did not move.
+“How long until more change?”
 
-"You're late," the flour-sleeved sentry whispered from the other side.
+A shadow beast worried at a darkness stretched from the far fire. A soldier beside it dropped below the height of the supply chest.
 
-"I saw a hundred arches."
+“As long as you make those shadows,” I said.
 
-"Mine had water under it."
+Drost looked at the net. “This one leads them?”
 
-He had brought no spear. Together we lifted the grate until its lower edge cleared the mud. He crouched over the opening and caught the iron on his shoulders while I stayed in the throat below.
+“No.”
 
-"My file goes to the bridge at first bell," he said. "When the fires die, you take them first."
+“You feed it.”
 
-"The beasts choose. Your people still have to step."
+“It comes when it chooses.”
 
-"They've been ready for three nights. Open the water."
+“Then why are you here?”
 
-I tugged the cord my predecessor had fed down the channel. Once. Twice. Three times.
+The final rope creaked as Crooktail strained. Denek shifted his knife into a stabbing grip, not toward the beast. Drost noticed.
 
-Nothing came.
+“Because I know this one,” I said. “Cut that anchor, put out every fire, and I can mark your road. Torma can keep our bows on the wall. Those are the pieces I have.”
 
-Above us, an officer called the sentry's post. The grate shook against his back. He sucked a breath through his teeth but held it high.
+“No guarantee?”
 
-The officer called again, closer.
+“The boundary restored our sentry. I won't promise what the beasts do between here and it.”
 
-Then the millpond struck.
+Drost's smaller guard raised his spear. “Marshal, we can take them.”
 
-Water hit my legs hard enough to turn me sideways and hurled me through the opening. The sentry twisted clear. The grate slammed down, but the surge tore mud from its edges and widened the breach. We ran as the earth sagged behind us.
+“You can reach his knee,” Drost said. “Lower it.”
 
-The eastern tar trench burst in three places. Flame raced across the flood, broke into floating islands, and died under mud. Steam rolled through the cook line. Soldiers kicked over pots, dragged wet canvas onto the nearest fires, and widened the gap before officers understood that this was not an accident.
+He drew a short bronze knife, stepped onto the loose edge of the net and cut the last anchor himself. Denek severed the remaining cord. Crooktail came free in a rush. It struck my shoulder, knocked me into the ash and crossed the firelight without looking back. The other beasts followed its movement only because open ground had appeared ahead of it, a scattering of black bodies choosing the same dark.
 
-Darkness touched the supply carts.
+Drost watched them go. “Take me to your captain.”
 
-Eyes opened beneath every wheel.
+Torma would not open the gate for him. She spoke through the waist-high wicket while Drost stood outside with Denek and me. A shielded lamp inside gave her enough light to see our faces and threw no shadow past the threshold.
 
-The hushbeasts came through low and fast. They did not fall upon the officers. They found the people who had already laid down iron. The sentry seized my sleeve, pulled me toward the cooking files, and shouted numbers rather than promises.
+“Engines stay,” she said. “Pikes stacked in the west field. Every open flame out. Your first file moves before the next dusk is gone.”
 
-"First file, here. Second, wait. Hands empty. Keep the lane clear."
+“I have three hundred eleven diminished and seventeen uncounted.”
 
-His people obeyed the voice that had measured their meals for months. An old baker stepped into a beast's shadow and vanished. Two sisters went next. A boy froze with one hand in black fur; the beast waited until he shook his head, then left him standing. No one forced him after it.
+“Find them by daylight.”
 
-The officers tried to relight the trench. Soldiers who had chosen to stay fought to reach the oil carts. Others rolled those carts into the flood. An arrow struck the mud beside me. Another cut a hushbeast's shoulder and became useless when the creature flattened into the cart's shadow, leaving the shaft behind.
+“I need two wagons for those who cannot keep pace.”
 
-The pale-footed beast appeared at the mouth of the cooking lane. Its burned side shuddered. I put a hand against its neck.
+“Take wagons. Not towers, rams or throwers.”
 
-"Enough," I said. "You can leave."
+“My host does not leave its sidearms.”
 
-It knocked my hand away and went to the next waiting soldier.
+Torma considered that. “Sidearms stay sheathed until you're past the ridge. One drawn blade, we close the road.”
 
-The passage continued until the moon set. Hushbeasts arrived, carried one willing body beyond the river, and returned. The files thinned. Empty armor lay in rows where people had stepped out of it. When officers closed one lane, the deserters found another patch of joined dark. When fire broke the shadows, cooks and laborers drowned it with their own water.
+Drost's jaw tightened. “Your archers could cut us apart at the boundary.”
 
-Near dawn, the enemy commander ordered the bridge files forward. Fewer than half answered. The flour-sleeved sentry was last from his group. He stood beside the shadow under a broken wagon and counted every person through. Only then did he take the pale-footed beast's fur in both hands.
+“They could cut you apart now.”
 
-"Hay barn?" he asked me.
+“Not before my full-sized ranks reach your gate.”
 
-"Hay barn. One meal. Then your own road."
+“Then we're both still counting.” Torma bent to hear a report from someone behind her, answered it, then returned. “You get one daylight. No fire tonight, no fire tomorrow. Departure at dusk.”
 
-"Two meals. Half my file cannot walk another road tonight."
+Drost did his own counting in silence. Supply intervals, walking speed, the time needed to lower the siege lines without flame: I could see the numbers replacing anger because numbers were ground he trusted.
 
-"Two."
+“At dusk,” he said.
 
-He stepped, and both of them were gone.
+The third day passed under a pale sky. Drost's soldiers dismantled nothing they could not carry. They left the siege engines standing like stripped trees and stacked pikes in the barley. Torma's archers watched from the dark wall. Some asked why we did not fire while the enemy was broken below us.
 
-Sunrise found an army with wide gaps in every rank. The bridge stood unfinished. The remaining officers had horses, armor, and several hundred soldiers who had stayed by choice or fear, but not enough hands to finish the crossing and fight for the wall. They burned what they could not carry and began marching south before noon.
+“Because I said hold,” she answered each time. No speech. No appeal to mercy. The order was enough, and she kept giving it.
 
-We did not cheer from the river. We were too busy.
+Denek and I marked the western road with a waist-high rope. Where it forked near the burned hazels, we closed the wrong branch with carts. Drost sorted his diminished soldiers by pace. Those unable to cross wagon ruts rode in blanket-lined grain beds, guarded from wheels, boots and horses. No one laughed. At that scale, a dropped buckle was weight enough to break a foot.
 
-The western road filled with people trying to reach homes the army no longer guarded. Others stayed to bargain for harvest work. Our barley sacks emptied. The millpond was mud, and the winter fields would pay for that night. My predecessor moved among the hay barns with a slate, putting every willing hand beside a necessary job.
+Near sundown, Denek found a collapsed den beside the south fire line. He knelt, put his ear to the earth, and began clearing the entrance with his hands.
 
-I found the pale-footed beast under the watch-house eaves after sunset. It lay where the roof shadow joined the woodpile, its burned side rising too quickly. I left a bowl of water and the last of my wound salve at the edge of the dark, then sat ten paces away.
+“We have to finish the rope,” I said.
 
-My predecessor came out carrying two bowls of barley stew. He looked at the beast, at the distance I had left, and lowered himself beside me with a groan from his crooked leg.
+“The rope is visible.”
 
-We ate without speaking. The beast watched us for a long while. At last it stretched its pale paw into the fading light, hooked the water bowl closer, and drank.
+“Not after dark.”
+
+He pulled out another fistful of scorched soil. “Then stop talking.”
+
+I dug beside him until we uncovered a narrow breathing space. Nothing came through it. We went back to the road.
+
+The host began moving when the last rim of sun left the ridge. Their fires stayed cold. Shielded lamps hung inside three wagons, enough for officers to read tally boards but not enough to lay a shadow across the fields. Everyone else followed the rope by touch.
+
+Darkness took away the shape of the army. I heard it instead: boots scuffing, harness rings, wheels easing into ruts, Drost's officers calling intervals. The smallest files made almost no sound. Torma's defenders heard them too. Bows creaked on the wall whenever a horse shied or a cart struck stone, and each time Torma said, “Hold.”
+
+At the burned hazels, one soldier struck flint beside a tangled wheel trace. Three people shouted at once. Drost reached him first and knocked the tinder into mud.
+
+“Use your hands,” he said. “Lift on three.”
+
+There was no threat in it, only the next necessary thing. Six soldiers lifted; the wheel came free. The file moved.
+
+I walked beside the rope until the land rose toward the western boundary. Denek stayed at the fork, repeating the same directions to anyone who lost the line: right hand on rope, carts to the left, ten paces before the cairns. He had spent half his life teaching frightened people how to move through beast country. The purpose had changed. The rules had not.
+
+Restoration began beyond the first cairn. A larger diminished soldier carrying a child-sized comrade cried out as both bodies grew against each other; they had crossed too close together. After that, Drost widened the intervals. Men and women emerged from the dark at mismatched heights, staggered as boots and limbs returned to them, then moved on before the next file arrived. Armor expanded with low clicks of settling plates. Swords stayed sheathed.
+
+Drost crossed near the end. At the boundary he grew from my shoulder height to his full stature in three unsteady steps. He braced one hand on the cairn until the dizziness passed.
+
+“Seventeen?” I asked.
+
+“Fifteen found. Two absent.” His eyes remained on the moving files. “One thousand eight hundred and forty alive at last count.”
+
+“Keep them beyond bow range.”
+
+He gave a tired, irritated motion that might have been agreement or dismissal. It was enough. He went after his army.
+
+By dawn, the last wagon had crossed the ridge. Torma's people collected the abandoned pikes and posted watches around the engines. Drost's host continued west, and its rear guard did not turn before the road bent out of sight.
+
+The valley smelled of wet ash. Three dens had burned. At the south run, Denek found tracks entering the breathing hole we had cleared, though none came out while we watched. One beast was still missing. Crooktail's tracks crossed the fort road twice and ended at the stream.
+
+Torma put the carpenters on the gate and went to argue about grain stores. Denek returned to the collapsed den with a shovel. I carried a new flat stone to the feeding hollow and settled it into the scorched earth.
+
+Near midday, Crooktail appeared beyond the hazels. A band of fur had been rubbed raw around its hindquarters. It watched me tap the stone level with the butt of my knife.
+
+Denek glanced over from the den. “Left edge is high.”
+
+“I know.”
+
+“Then fix it.”
+
+I wedged a chip beneath the right edge. When I looked up, Crooktail had crossed our old twelve-pace measure. It stopped on the near side of the stone, close enough that I could see ash caught in its whiskers.
+
+I set down the eels. Crooktail did not retreat, so neither did I.

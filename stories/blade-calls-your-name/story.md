@@ -8,290 +8,446 @@ canon: false
 
 # The Blade Calls Your Name
 
-Rethka Vol had three charges in the road, thirty-eight people still west of them, and less than an hour of sun.
+The blade called Odmara's name through the soles of her boots.
 
-Talasar carried the wind like a drawn whistle. The road ran east along the top of a stone rib, eight paces wide at Rethka’s demolition line and narrowing westward until two handcarts could not pass. North of the crest, a hanging wall rooted in the old western shoulder leaned over the road and shed fist-sized rocks. South, the slope fell through cloud. Every earthshock changed the tilt beneath her boots by some amount too small to see and too large to ignore.
+She felt the first syllable in the guild hall's iron gallery: a low double knock under the chatter of chainwrights putting away tools. The second climbed the railing into her palm. Across the room, above the long rack of service keys, red light moved inside a blade that had been dark for six years.
 
-She pressed a final clay charge into the middle bore and tamped stone dust around it. The three fuses came together at a chalk ring by her knee. Once the rear guard crossed, she would fire them in sequence: south pocket, middle bore, north pocket. The weakened neck would fold into the southern ravine and leave the enemy migration stranded on the western approach.
+Mica seams divided its black length into narrow scales. They lit one after another, making the old work-script.
 
-The road back to her people’s border shelf also lay west. Breaking Talasar would postpone that return, perhaps for years, but not erase it. The western anchorage would remain for masons and ropes whenever the war loosened its grip.
+ODMARA.
 
-“Thirty-eight,” her fuse guard called.
+The blade could not know she was there. It had no eyes, no will, and no notion that the name belonged to a woman standing under it. Still, the gallery gave a third knock, and twenty people turned toward her.
 
-Rethka looked up. The last friendly squads were coming at a run, burdened with rolled tents, stretchers, and the short iron tools they had refused to abandon. Beyond them, Eshren’s shield line filled the road from open edge to open edge. His fighters advanced east with measured steps because their column had nowhere else to move. Families and wounded pressed behind their shields. The season’s landslides had closed every lower pass.
+Registrar Yevet reached the rack first. “Clear the rail. Everyone.”
 
-A band of watery light crossed the black stone between the two forces. It slid uphill against the sun, broke over Rethka’s chalk ring, and trembled across her hands.
+“It has dust in the back plate,” Felrin said. He was already rolling up his right sleeve. “A contact has crossed.”
 
-The east wind flattened every coat and banner toward Eshren.
+Odmara kept her hand on the railing. The pulse came again, two beats at the O, a scrape through the M, then three close taps where the final A should have ended cleanly. She knew that damaged rhythm. She had put it into an anchor by lanternlight while rainwater ran down both wrists.
 
-Against that wind, from three hundred paces west, something called, “Rethka Vol.”
+“Don't touch the hilt,” she said.
 
-No shout could have arrived so cleanly. Her given name and family name struck the hanging face above her and came back from the cloud below, each consonant intact. Runners missed steps. A stretcher tipped before its bearers caught it. Even Eshren’s front shields dipped.
+Felrin stopped with his fingers a thumb's breadth away. Six years had silvered the hair at his temples and done nothing to improve the way he looked at a fault: chin forward, as if every material might yield to seniority.
 
-Rethka stood. “Thirty-eight, keep moving. Fuses stay covered.”
+Yevet slid a lamp shutter closed. The hall dimmed. The red strokes remained.
 
-“Captain,” the guard said, staring west.
+“The registered worker is Felrin,” she said. “The maintenance ledger says west-nine was his repair.”
 
-“Count.”
+“Then the blade is wrong,” Felrin said.
 
-The man at the enemy point had removed a smoked veil from the object in his right hand and looped the cloth through his belt. He was broad through the shoulders, grey-haired, and still balanced while stone shivered under everyone else. The uncovered sword was longer than his arm and transparent from its wave-ridged point to the rounded pommel. Blade, curved guard, bare grip, and pommel were one continuous piece of Glass Sea glass. There was no leather, metal pin, or joined fitting anywhere along it. White seams of salt crossed the clear body in fixed lines. Sunlight caught the ridges and cast false water over the dry road.
+The railing knocked Od-ma-ra against Odmara's bones.
 
-Heshavar.
+“The ledger is wrong,” she said.
 
-The old weapon contained no person, animal, spirit, or hidden operator. It was wholly nonliving glass. Traders still carried Glass Sea splinters east; they cut hide and caught sunlight, but none called names. Heshavar alone broke the common law. Its own impossible magic could call a name, register one bearer’s hand, reject another, and power a single realm-cut before going dormant. No one in Rethka’s lifetime had explained how. Nothing inside the glass moved now except light.
+No one in the gallery spoke. Hammers settled on benches. A coil of fine chain gave one last whisper as an apprentice let it down.
 
-The man holding it was Eshren, Heshavar’s master of thirty years. He was also plainly alive.
+Yevet looked from the blade to Odmara. “Is that a claim of workmanship?”
 
-His face had tightened at the call. He shifted his left hand onto the unwrapped glass grip, fitting thumb and heel into its old wave hollows without looking. Then he raised Heshavar behind his shoulder.
+“It's a maintenance alarm.”
 
-Rethka knew the preparation for his legendary stroke. “Flat!”
+“That wasn't my question.”
 
-Her guard dropped. Eshren cut toward the demolition line.
+“Then ask it after we know what needs maintaining.”
 
-The long glass edge whistled through empty air. The fixed salt seams did not brighten. No force crossed the distance, and none of Rethka’s fuses parted. Heshavar had rejected Eshren’s realm-stroke while he remained alive and holding it; the failure was visible to both columns.
+Felrin reached again. Odmara caught his wrist. The old habit of obeying him arrived half a breath late and found her hand already closed.
 
-At the end of his useless swing, the artifact called again.
+“If you answer with the wrong pattern,” she said, “the key will show only the witness layer. It won't show the cut.”
 
-“Rethka Vol.”
+“You haven't worked this hall since you left.”
 
-Eshren recovered before his front rank did. “Shields up. Litters to the inner side. No one runs for the blade.” His own voice reached only the first ranks. “Move the third wagon back six lengths.”
+“And you haven't answered it yet.”
 
-Rethka pointed east. “Four abreast until the chalk. Two after it. Leave the south edge clear for the wounded.”
+The outside door struck its stop. Kosca came in wearing the quarry lift's blue shoulder sash, one end dark with brake water. She did not waste time on the gathered chainwrights.
 
-The column-master had pushed back from the eastern shelf. She caught Rethka by the shoulder strap as another team passed. “It has displaced him. Take it before he closes the gap.”
+“West rail is singing,” she said. “The full counterweight comes down at deep bell.”
 
-“Thirty-four people are still on his side of my charges.”
+Yevet opened the shutter enough to read the water clock. “Thirty-eight minutes.”
 
-“Then cut faster.”
+“Thirty-four before I need the lower route empty.” Kosca looked at Odmara, then at the name on the blade. “There you are.”
 
-Rethka pulled free. She had already left flour, spare boots, two wagons, and a winter’s worth of tent poles on the highland roads to keep the column moving. She had not yet left people. “North cord ready. Middle only on my hand.”
+Odmara heard the six-year-old rain in those three words.
 
-For nineteen minutes after Heshavar first named her, the impossible did not excuse anyone from the road. Her count fell from thirty-eight to six. Eshren’s front rank came no closer, but his column compressed behind it until Rethka could distinguish what the shields had concealed: a woman holding a sleeping child beneath her coat, litter bearers with bloody cloth tied over their mouths, a limping old fighter towing a two-wheeled cart loaded with cooking pots. Soldiers were among them, including people who had burned Rethka’s grain stations, but this was a migration rather than a battle line with supplies behind it.
+Felrin heard something else. “You knew?”
 
-Eshren spent those minutes keeping them alive. He sent the wagons backward one at a time to a wider turn, paired uninjured fighters with litters, and made his archers unstring their bows so a dropped arrow could not light Rethka’s powder. Heshavar stayed low along his leg. Its one-piece glass grip showed pale through his scarred hand.
+“I knew whose hammer I was holding a lantern for.” Kosca hooked two fingers toward the service stairs. “Argue while walking.”
 
-When the last six of Rethka’s people reached the charges, an earthshock rolled from west to east. The hanging face cracked like ice on a pond. Rethka shoved two runners over the chalk ring, seized the rear pole of a stretcher, and helped its two bearers carry their wounded passenger to the eastern side.
+Yevet took the rack key from her belt. “The blade remains guild evidence.”
 
-One person remained west: the signaler, hopping on a broken sandal while he tried to save his horn.
+“It remains useful,” Odmara said. “Unlock it.”
 
-Eshren advanced alone. His shields did not follow.
+The registrar considered the red script, then set both hands to the rack. “Felrin, right guard. Odmara, do not take the hilt.”
 
-“Hold there,” Rethka ordered.
+Felrin's mouth tightened, but he obeyed. With two people holding the guard, Yevet turned the key. The clamps opened. The blade stayed where it was until Kosca slipped a carrying bar through the guard and took one end.
 
-He stopped ten paces short of the south-pocket bore. False reflections slid from Heshavar and climbed the north wall. Up close, the fixed salt seams were milk-white flaws inside perfectly clear glass. The guard sprang from the same unbroken body as blade and grip. Nothing had been put into the sword. Nothing looked out through it.
+It did not leap for Odmara. It did not point. Freed from the rack, it merely carried her name in red mica and gave the iron bar a tired, repeating hum.
 
-“My master had been dead six days when it named me,” Eshren said. “Thirty years I have carried it. In every handling account, the old bearer was buried before a new name crossed the air.”
+Together they carried it down.
 
-“Step back to your shields.” Rethka waved the signaler through. “I fire when his heel clears.”
+The lower works of Hearthchain hung under the guild hall like the ribs beneath a ship. Stairs switchbacked along the cliff, past chain combs thick as doorways and water pipes sweating into the evening air. Below, roofs crowded the suspended terrace. Supper smoke lay flat over them. Farther out, the quarry lift's cage waited above the dark cut in the mountain, and its counterweight showed as a block of stone and iron high in the opposite shaft.
 
-Eshren’s eyes followed the damaged sandal, then returned to the chalk ring. “The west road behind us fell at midday. My first wounded are under that red wagon. If you close Talasar, they die here.”
+At the first control landing, Kosca braced her end of the bar against the wall.
 
-“If I leave it open, your swords reach my litters before dark.”
+“No load first,” Odmara said.
 
-“Give me the eastern shelf.”
+“I can float the guide for eight counts,” Kosca said. “After that the west brake takes water.”
 
-“There are two thousand of mine on it.”
+“Six is enough.”
 
-“There are more than two thousand behind me.”
+Yevet held up her slate. “What will that establish?”
 
-The signaler’s heel crossed the line.
+“Whether the rack is lying,” Felrin said.
 
-The column-master shouted, “Fire all three. If he stays on the line, bury him.”
+Odmara crouched beside the landing rail. “Whether the signal comes from the lift load or the terrace hang. Different question.”
 
-Rethka struck her coal into the south fuse. “South pocket lit. Fall east.”
+Kosca was already at the brake wheel. “Lower stairs clear?”
 
-Eshren moved on the word *lit*.
+Yevet leaned over the inner rail. “Clear below!”
 
-He covered the ten paces before her guard could level their spears. Heshavar gave him no distance and no magic, but it kept an ordinary edge. He turned the first spear with the clear guard, cut the second shaft through, and swept the flat into its wielder’s chest. The soldier fell east instead of over the south edge. Eshren stepped across him and slashed at the burning cord.
+An answering call climbed from landing to landing. Kosca waited for the last one, then cracked the bypass. Water hammered through a side pipe. For six counts, the guide chain slackened.
 
-Rethka intercepted with her thick-backed ridge sword. Glass met iron hard enough to sting her teeth. Heshavar did not chip. Eshren rolled its wave-ridged edge down her fuller, unhooked her guard, and kicked stone dust over the fuse. The ember survived beneath the dust, crawling toward the bore.
+The red name vanished from the blade.
 
-The signaler blew one raw note. Rethka’s last people ran for the eastern shelf.
+Felrin exhaled as if acquitted.
 
-“Middle cord,” she called. “Pull it long. North charge stays cold.”
+Then the carrying bar trembled in Kosca's grip. One thin vibration continued through the landing rail, too high to hear and impossible for Odmara to mistake through her fingertips.
 
-Her fuse guard obeyed, paying out the middle cord as he retreated. Eshren heard the order and changed direction. He let Rethka’s next cut pass his coat, took the shallow line it opened across his upper arm, and reached the middle fuse first. The transparent blade severed it against the road. An ordinary stroke, perfectly placed.
+“West-nine,” she said.
 
-The south charge fired.
+“There are twelve west anchors,” Yevet said.
 
-Talasar punched upward. A slab the width of a house tore away under Eshren’s rear foot. He threw himself north, caught the lip with one hand, and kept Heshavar clear of the stone. Rethka seized his wrist before the falling slab could take him. His weight dragged her to both knees. For a breath she held the enemy champion above cloud while his sword threw bands of false water across the void.
+“Only nine shares that overtone with the lift guide.”
 
-Eshren found a toe hold and climbed without thanks. There was no time for one. The blast had not followed the line Rethka prepared. The south third of the neck was gone, but the new break curved beneath the untouched middle bore and opened northward. Five paces of road had become less than two. Her north charge remained in the surviving ledge, its cold fuse trailing to the chalk ring; the middle charge had tilted out of its socket and lay leaking powder into a crack.
+Felrin put two fingers to the rail. “Or eight, after the second expansion.”
 
-The columns now faced each other across a ledge barely wide enough for two fighters, with no room to pass.
+“Eight rings flat when the guide is floating.”
 
-Above them, the hanging face had moved a handspan. Its lower lip had pulled away from the stone buttress beneath it. A black opening ran under the wall from the eastern toe to the massive western anchorage where Talasar joined the old shoulder. The face was beginning a slow southward rotation. When it struck the unsupported ridge, the crest would drive down beneath both migrations.
+Kosca shut the bypass. The pipe thumped silent; the guide took weight. Red strokes crawled back into the mica.
 
-“Back from the neck,” Rethka told her guard. “Take every loose cord east. Mark the south chute.”
+“Thirty-one minutes,” Kosca said. “Pick a stair.”
 
-“Captain, the middle powder—”
+Odmara took the west one.
 
-“Lost. Go.”
+They descended past the upper anchor chambers while the blade changed in their hands. At one landing it flashed her whole name. At the next it showed only ODM, the rest lost in a red blur. The connected railings carried a coarser version of the call into the homes below. People had begun coming out onto their walks.
 
-Eshren raised Heshavar. His bleeding arm had slowed his reach but not his balance. “You have no charge left that can clear my road.”
+Kosca stopped long enough to point two lift hands toward the evacuation routes. “Lower three rows first. No bundles larger than a child. East stair, not the quarry bridge.”
 
-“I have the north pocket.”
+One of them glanced at the glowing blade. “Captain, is it naming who broke it?”
 
-“Fire it and the face drops whole.” He glanced once at the widening black gap overhead. “You know that.”
+“It's naming work. Move people.”
 
-She did. A second local blast would remove the last brace at the wrong angle. The hanging mass would hammer straight through the crest before either column could descend.
+He moved.
 
-The column-master called from the east, “Kill him, Rethka. The sword already gave you the range.”
+Yevet wrote on her slate as they continued. “Six years ago. West-nine. Emergency entry?”
 
-Eshren heard that too. His stance narrowed. “It gave her a name. I still have the edge.”
+“There wasn't one,” Odmara said.
 
-He proved it.
+“There is an entry. Felrin, full replacement of the ninth flexible link, inspected and closed.”
 
-His first cut forced Rethka away from the cold north fuse. His second came short, the clear point stopping where her retreating foot had to land. She shifted south and found half her heel over air. Eshren had read the remaining stone in three exchanges. Thirty years with Heshavar had made the strange length ordinary in his hands: he knew where the one-piece guard would catch iron, how its ridges dragged in a bind, how far the transparent point extended after Rethka’s eye lost it against the sky.
+Felrin's hand shifted on the carrying bar. “The storm had opened three hangers. We could not leave the terrace on eight.”
 
-She stopped watching the point. His hips declared the stroke sooner.
+“That explains urgency,” Yevet said. “It doesn't explain a false completion.”
 
-Rethka drove at his injured side. He shortened his grip without any wrapping to aid him, caught her blade on the inside curve of the glass guard, and turned her toward the north wall. White salt seams flashed in sunlight but stayed fixed and dull. No realm-cut helped him. He did not need one to split the buckle at her shoulder and score the mail beneath.
+“It was intended to be completed.”
 
-Her guard started forward.
+Odmara almost kept walking. The old choice had lived so long without words that speaking it felt like picking a rusted pin from a wound.
 
-“Stay east,” she snapped. “If he gets past me, take the litters downslope. Do not touch the north fuse.”
+“I made a flexible splice,” she said. “Spring strips around the broken eye, staggered so the link could settle while the comb was wet. Temporary. I told him it would take the night load, maybe a season if we watched it.”
 
-Eshren lunged on her distraction. Rethka gave him the shoulder he had already opened, let the glass edge bite mail, and trapped Heshavar between her arm and breastplate. Pain burned down her ribs. She hammered her pommel into his wounded upper arm.
+Yevet's chalk paused. “Under which work-name?”
 
-The artifact called from between their bodies, louder than either of them.
+“This one.” Odmara tapped the rail when it pulsed again. “I'd claimed it nine days before.”
 
-“Rethka Vol.”
+At the time, the guild had still carried her childhood name in its apprentice book. Felrin had said a new engraving required a master's petition. Odmara had engraved her own name on the blade's mica strip with the tip of a broken awl.
 
-The name went west over Eshren’s shields and east over her own. His rear fighters looked toward him. Rethka’s column-master shouted for a rush. Neither side could obey without sending its first rank off the narrowed crest.
+“Two witnesses held the guard?” Yevet asked.
 
-Eshren tore Heshavar free. The edge peeled three rings from Rethka’s mail. “It never called another while my hand was on it.”
+“I did,” Kosca said. “Felrin did. She hammered.”
 
-“Your hand is slowing.” She cut at his knee and made him yield one step. “Move west.”
+Yevet turned to Felrin. “And you marked the repair as yours.”
 
-“My litters cannot move west.” He returned a low sweep that drove her back to the chalk. “Open east.”
+“An apprentice's unregistered name would have voided the work.”
 
-“No width.”
+“Her work held the terrace,” Kosca said.
 
-“Make it.”
+“Which is why I put my mark over it.” Felrin's answer came quickly, almost in his old teaching cadence. “An emergency authorization. The only one the lower wardens would accept. I ordered new stock the next morning.”
 
-The next earthshock arrived as a deep lateral shove. The north wall dropped a shower of stones. Eshren covered his head with the glass flat and kept his feet. Rethka crouched inside the chalk ring. The fuses danced. A chunk of the hanging face struck the western approach and broke a wagon tongue; through the shields came screams, then Eshren’s second-in-command ordering the wounded clear.
+“You promised to replace it,” Odmara said.
 
-More than half an hour had passed since the first call. The sun’s lower rim touched the western teeth. Rethka measured the growing black joint above, the two descending faults that forked under the road, and the slant of dust from the hanging face. The mountain offered two cuts, neither within reach of clay powder.
+“I know what I promised.”
 
-She pointed her ridge sword at the eastern toe of the hanging mass. “Cut there and the face pivots west. It takes your shields, wagons, and every litter behind them. The impact packs my eastern break into a descent. The western anchorage holds, and my people keep a road home.”
+“Do you know where the stock went?”
 
-Eshren did not look away from her blade. “The other cut.”
+He did not answer before Kosca cut in. “Twenty-six minutes. Lamp.”
 
-“Western anchorage, root to root. Talasar opens under the face. Your half falls north; mine falls south. Both columns get slopes.”
+Yevet passed it forward. Odmara took it, though she had asked no one for light. She had been listening for Felrin to deny the promise and had nearly walked past the west-nine door.
 
-“Your return?”
+The anchor chamber was a slot in the cliff, hot with trapped metal smell. A chain as broad as Odmara's chest entered through the floor and divided over an iron comb set into the mountain. Twelve teeth held twelve hanger lines. The ninth line quivered hard enough to rattle scale from the wall.
 
-“Gone. Not closed. Gone.”
+The splice lay behind the comb where she remembered it, dull spring bands wrapped around the old eye. Six years of grease had blackened everything evenly. Nothing in the room announced guilt. Loads did not care what the ledger said.
 
-One cut remained. The eastern toe meant Eshren’s host dead and her homeward road preserved. The western root meant both columns alive and no road home.
+They set the service blade on trestles. Its point was squared, its back toothed for shaving anchor shoulders. It had once been part of a sky-iron quarry saw; the old alloy ran pale through newer spring steel, and red mica filled the forge seams. Three materials and a century of repairs lay under Odmara's hand.
 
-Eshren shifted one foot toward his column. “I have kept a hand on this grip for thirty years. I will not open it on your reading of dust.”
+Felrin examined the splice with a probe. “No separation.”
 
-“Then hold it and watch both sides go under.”
+“Not at rest,” Odmara said.
 
-The hanging face dropped another handspan. Wind burst from the joint and drove grey dust between them.
+“I can read a joint.”
 
-Eshren attacked through it. Heshavar came high, vanished against the bright sky, and reappeared beside Rethka’s neck. She ducked, felt cold glass take hair, and struck the inside of his forward ankle. His stance collapsed. He caught himself with his left hand on the road, Heshavar extended past Rethka’s hip.
+“Then read it under load.”
 
-She stepped over the clear blade and set her point into the hollow beneath his jaw.
+Kosca set her shoulder to the speaking tube. “Control, give me one-eighth on west guide. Hold lower cage.”
 
-Eshren stopped. He could drag Heshavar back across her legs, but her thrust would reach him first. Behind him, the red wagon had begun to roll toward the broken south edge. Four fighters strained at its wheels. A narrow litter slid from beneath its awning, and someone too weak to stand reached for the axle.
+The answer came faintly. A wheel turned somewhere beyond the stone. The ninth link drew taut. Odmara watched the spring bands settle, each taking the pull in sequence exactly as she had meant them to.
 
-Rethka could kill him. She could pull Heshavar from a dead hand, let the eastern toe go, and preserve the way west. No old account would have to change except by a few breaths.
+Felrin's probe stayed still. The splice held.
 
-The stone tipped under her boots.
+Beside it, the tenth tooth moved.
 
-She lowered her killing point.
+Only a hair's breadth. Enough. Its base leaned toward nine, and a bright crescent of rubbed metal showed where no metal should touch.
 
-Eshren’s eyes followed it. Before he could rise, Rethka opened her own hand. Her ridge sword struck once and went over the south edge.
+“There,” Odmara said.
 
-“Western root,” she said. “Release Heshavar.”
+Felrin moved the probe. “The tooth has walked.”
 
-He brought the long glass sword across his body. “If your split is wrong—”
+Yevet bent close. “Cause?”
 
-“North fan under your red wagon. South fan under my chalk. Put the cut between them.” Rethka held out her bare right hand. “Twenty breaths before the face lands.”
+“My splice flexes more than the solid eye,” Odmara said. “It was supposed to until replacement. Six years of it let nine pull sideways against ten.”
 
-The hanging mass groaned. The sound deepened until Rethka felt it in her teeth. Eshren looked past her at the south fault, then west at the families jammed behind his shields. His grip settled once more into the familiar wave hollows.
+Yevet wrote, then stopped. “So the defect comes from your method.”
 
-“My wounded take the north fan first,” he said.
+“From leaving the method in service,” Felrin said.
 
-“They move when it breaks.”
+The precision of that surprised Odmara more than denial would have.
 
-“Say the route.”
+Kosca knocked the speaking tube twice. “Take the load off. Twenty-one minutes.”
 
-“Red wagon to black scree. Keep below the white shelf.”
+Yevet studied the bright crescent. “Workmanship sound. Authorization false. Replacement omitted. Consequence transferred to an adjacent part.” She rubbed out three words on her slate and wrote again. “I will need separate lines.”
 
-He took one step close enough that Heshavar’s unjoined guard touched Rethka’s wrist. For an instant both their hands covered the transparent grip. Eshren’s fingers were tight, and he was strong enough to make possession a final contest.
+Felrin looked at Odmara. “Let me seat the blade.”
 
-Then he opened them one by one. As his last finger opened, he pushed the glass the final thumb’s width into Rethka’s palm and drew his hand away. He remained crouched, boots braced, eyes on the western column. The full weight of the one-piece sword settled into Rethka’s bare hand. She had not pulled it from him; he had placed it there.
+“Why?”
 
-Before Eshren’s hand had cleared the guard, the fixed white salt seams filled with hard radiance beneath Rethka’s palm. The sections under his departing fingers had stayed dull. Light ran through the clear guard, grip, pommel, and wave-ridged blade as one continuous structure. Nothing stirred inside it. No pulse met hers. There was no thought or counsel, only glass, light, weight, and the selection of her hand.
+“My mark authorized the repair. If the witness layer accepts it, we may get the cut path without making this a claim on you.”
 
-It called the only words it ever called.
+She wanted that to be possible. Wanting it made her suspicious.
 
-“Rethka Vol.”
+“One test,” Yevet said. “No force.”
 
-At arm’s reach the name was quiet. Talasar carried it to both columns.
+They lifted the blade from the trestles and slid its squared tip into the diagnostic slot beneath the comb. Felrin took the hilt. Yevet and Kosca held the two sides of the guard, completing the old witness circuit.
 
-The column-master pointed over Rethka’s shoulder. “East toe! Throw it west now!”
+Felrin spoke his registered work-name and tapped the hilt with the test hammer: the standard six blows every master learned.
 
-Eshren stepped aside, empty-handed. “Ten breaths.”
+The mica lit amber at both edges. Witness colors. A shallow red groove appeared down the blade's center, then broke into scattered flecks before it reached the tip.
 
-Rethka turned away from the killing line. Through Heshavar’s transparent blade she found the western anchorage: the old dark shoulder, the road buried through its middle, and beyond it the switchbacks that led toward her people’s border. If she cut the eastern toe, those switchbacks would remain. Eshren’s migration would not.
+“No cutting path,” Odmara said.
 
-She aligned the fixed salt seam nearest the edge with the black root fault. One blow. One direction. No second stroke waited to correct it.
+“The lower section is faint.” Felrin leaned his weight into the hilt.
 
-Rethka swung at empty air.
+The blade gave a dry snap. A black chip jumped from the mouth of the slot.
 
-On her first blow as its new master, Heshavar answered.
+Kosca released the guard and shoved him back. “No force meant no force.”
 
-The artifact’s single realm-cut left the transparent edge as a white plane too thin to cast shadow. It crossed the western anchorage from high shoulder to buried root. For one suspended instant, the mountain showed two matching faces along the cut. Then the anchorage separated and the old homeward road dropped with it, not blocked for repair but removed from the ridge.
+Felrin stared at the chip. His face had gone grey under the chamber lamp.
 
-The hanging face struck Talasar.
+Yevet picked it up and placed it on her slate. “Attempt by authorizer. Incomplete response. Damage to seat.”
 
-Freed at the west and already split beneath Rethka’s chalk, the crest opened along both descending faults. The western half rolled north under Eshren’s red wagon. The eastern half rolled south under Rethka’s demolition ring. The falling face broke on the widening fork instead of driving the whole rib down. Rock spread into two steep fans with a standing spine of ruin between them.
+“We don't have time for your categories,” Felrin said.
 
-Rethka landed on one knee. Heshavar’s radiance went out at once. Its transparent length remained cold and rigid, every wave ridge unchanged, while the fixed salt seams turned opaque. The realm-cut was spent.
+“We have damage because you ignored one.”
 
-Eshren was already facing west. “North fan! Red wagon to black scree. Wounded first. Shields above them!”
+“Both of you, space.” Odmara knelt at the slot. “Lamp lower.”
 
-Rethka drew breath through the pain in her side. “South fan! Litters on the chalk line. Six to each rope. Keep below the white shelf!”
+Kosca lowered it. The chip had come from a sacrificial lip, not the comb itself. Repairable, if nobody forced the blade again.
 
-The two columns moved on opposite slopes. They did not mingle. Eshren’s fighters abandoned three wagons, lashed their wheels together as a brake, and lowered litters through the north scree. Rethka’s rear guard pulled people down the south fan with salvaged fuse cord and harness. Fresh rocks chased both descents. A northern shelf gave way behind the last enemy shield team; a southern slide took Rethka’s remaining powder and buried the chalk ring.
+Felrin crouched beside her. For once he did not fill the silence. His hands waited on his knees.
 
-The western anchorage continued falling. Each collapse carried another switchback out of the mountain. There would be no rebuilding Talasar toward home. The route was not hidden under rubble; its foundation had become the north fan.
+“I need the fine hammer,” she said.
 
-When Rethka reached the lowest stable shelf, the sun had vanished behind the western peaks. Less than an hour had passed since Heshavar first carried her name against the wind. Eshren stood across the central ruin, twenty paces away and lower than she was. His surviving fighters held shields toward Rethka even while their litter teams descended.
+He passed it handle-first.
 
-“My rear guard takes the north fork,” he called. His empty right hand stayed close to his belt. “Keep yours south.”
+Odmara took the hilt. Her engraving lay beneath her palm, the letters shallow and uneven. She had made them in anger six years ago, after Felrin told her to wait for permission to be called what she was already called everywhere else. She had forgotten how cramped the final A was.
 
-“South only,” Rethka said. “Count your last six before you move.”
+“Guard,” she said.
 
-“I know how to withdraw a column.”
+Kosca set her left hand to it. Yevet set her right.
 
-“Then do it.”
+Odmara did not speak her name. The blade already held the label. She answered with the repair: two light taps for the first spring strip, a pause while the load had settled, three along the second, then the dragging fourth blow she had made while the rain shifted the broken eye under her hammer.
 
-He turned from her. No one lowered a banner. No one crossed the broken spine to offer terms.
+Red light ran from her palm to the point. Her name appeared once across the mica. Below it, two cutting grooves shone side by side.
 
-The column-master climbed up from Rethka’s litter line, dust packed into her lashes. She looked west, where the road had been. Rethka found Heshavar’s smoked veil pinned beneath a chip of road near her boot.
+Felrin bent closer. “The inner groove follows the old eye.”
 
-“You spent our return,” she said.
+“It did six years ago.”
 
-“Third litter needs four more hands,” Rethka answered. “Put the unhurt guard there. Leave two above the white shelf.”
+“Then the outer is ten.”
 
-For a moment the column-master looked ready to strike her. A cry rose from below as a rope slipped. She swore and went down to the litter.
+Yevet said, “Which one is valid?”
 
-Heshavar was awkward without a sling. Rethka wrapped the smoked cloth around the clear blade, then stopped when false bands of pale water leaked from a gap in the veil. The sun was gone, yet Heshavar’s refractions persisted over the stone. They illuminated nothing useful and advertised exactly where she stood.
+Odmara looked at the two lines. Changed cable tension had folded the old reading over the new fault. The blade repeated stored strain. It did not choose between them.
 
-Across the ruin, Eshren noticed. “Double the fold at the guard,” he called. “The ridge holds light there.”
+“I don't know yet.”
 
-Rethka made the adjustment. The last false band disappeared.
+Kosca's mouth was at the tube again. “Seventeen minutes. Lower rows are clear. I can bleed the west brake and buy five more, but then I can't stop the terrace lift during evacuation.”
 
-“Keep it covered,” he said. “My archers will shoot at the next flash.”
+“Don't spend it,” Odmara said. “Give me the lamp shutter.”
 
-“Then lead them north.”
+They tested the grooves by changing one condition at a time. Kosca floated the guide for four counts while Odmara watched the red lines. Yevet shut the lamp, then opened it through a finger-width slit so reflections could not masquerade as mica. Felrin touched separate rail leads to the ninth and tenth teeth.
 
-He did.
+At no load, the inner groove dimmed. At one-eighth, both returned. When Felrin isolated the ninth lead, the inner line rang through the hilt. When he moved to the tenth, the outer line gave a slower beat that matched the railing under Odmara's knee.
 
-Below, the third litter had begun moving again. Rethka could not sling Heshavar without a harness, and its long glass body would strike the slope if she carried it one-handed. She took the spent, nonliving weight in both hands and followed her guard down the south fan.
+“Outer,” she said. “We shave ten. The splice stays.”
+
+Felrin's head came up. “If we cut the shoulder without unloading nine, the tooth may kick.”
+
+“We unload it too far and ten snaps back against the comb.”
+
+“A wedge before the cut.”
+
+“A wedge won't seat while they're touching.”
+
+Kosca broke in. “I can pulse the load. Quarter, eighth, quarter. Tell me where you want the gap.”
+
+Yevet looked from the blade to her slate. “Who is performing?”
+
+Odmara understood the trap before Yevet did. If she held the blade alone, the tool would store her pattern again. The emergency would be hers in metal even if the ledger managed honesty this time. Felrin watched her understand.
+
+“I can take the cut,” he said.
+
+“You can't read the path.”
+
+“Your hands over mine.”
+
+That would look like instruction. Master and apprentice, restored by posture before anyone wrote a word.
+
+“No.” Odmara stood. “Felrin, you take the wedge and the seat. On the joint, not behind me. Kosca owns the load and the right guard. Yevet, left guard and record. I'll take the blade.”
+
+Yevet hesitated. “The key records one work-name.”
+
+“Your slate has room for four kinds of work. If you're going to write this as mine alone, take your hand off now.”
+
+The chamber gave a low shiver. Dust came down from the lintel.
+
+Kosca said into the tube, “West control, stand by quarter-load pulse. On my count, not the bell.” Then to the room: “Wedge?”
+
+Felrin chose one from the wall case and offered it to Odmara.
+
+She shook her head. “Fit it.”
+
+He tested it against the gap, filed one corner, tested again. His explanations had left him. He spoke in material and measure now. “Too proud by two hairs.”
+
+“One,” Odmara said.
+
+He filed once more. “Ready.”
+
+Yevet put down the chalk and gripped the left guard. Kosca closed her free hand around the right, pinning the speaking tube against her shoulder. “I am witnessing a joint operation,” Yevet said. “Authorization, load, cut, and seating recorded separately.”
+
+“Good,” Odmara said. “Hold.”
+
+Kosca drew breath. Through the speaking tube: “Quarter.”
+
+The chamber tightened around them. Nine drew outward. The bent tenth tooth pressed hard enough to squeal.
+
+“Eighth.”
+
+For an instant the bright crescent opened into a gap.
+
+Felrin drove the wedge halfway. The gap caught it.
+
+“Quarter,” Odmara said.
+
+Kosca relayed the order. The load came on in a rising growl. Felrin's forearm shook, but he kept the wedge square.
+
+Odmara seated the blade against the outer red groove. She did not swing it. She drew its toothed back across the jammed shoulder in one short stroke. Sky-iron sang against iron. Red mica flared with the pattern in her palm.
+
+“Eighth.”
+
+The gap opened. Felrin struck once. The wedge moved to its mark.
+
+“Hold,” he said, barely louder than the metal.
+
+Kosca held the load. Odmara shaved again. A curl of hot iron fell across her glove. The tooth eased away from nine, not much, then enough for both lines to stand true.
+
+The deep bell began above them.
+
+Its first stroke rolled through the mountain. Kosca had the tube before the echo died. “Counterweight in four stages. First now.”
+
+The guide chains took the descending weight. Every hanger in the chamber pulled. Felrin kept one hand on the wedge and reached the other toward the seat, feeling for movement. Yevet's fingers whitened on the guard; her free hand marked each stage on the slate.
+
+“Second,” Kosca said.
+
+The splice lengthened by the width of a nail paring. The new wedge took the sideways pull. Ten stayed straight.
+
+“Third.”
+
+Odmara felt the blade's red pattern sharpen. Her name burned clean across it, then broke into the diagnostic strokes of the repaired joint.
+
+Felrin said, “Seat is holding.”
+
+No precedent. No explanation. Just his hand and what it touched.
+
+“Fourth,” Kosca called.
+
+The full counterweight descended. The terrace groaned beneath the cliff, a great working sound that passed through rails, floors, pipes, and the bodies of everyone who had not yet evacuated. Then the loads settled. The ninth splice held. The tenth tooth stood clear. The sacrificial lip kept its small new chip and no more.
+
+Kosca waited three breaths. “Stable.”
+
+Only then did Yevet and Kosca release the guard.
+
+The blade continued to show ODMARA. The alarm had cleared from the railings, but the stored work label remained bright in the mica. A repair was not closed until someone demonstrated the new pattern and the prior worker released the old one.
+
+“I can do the sequence,” Felrin said.
+
+Odmara looked at him.
+
+He swallowed the rest. “Kosca controls this load.”
+
+Kosca handed the speaking tube to Yevet and wiped brake water from her palm. “Fine hammer.”
+
+Odmara gave it to her. Kosca seated the blade again, called for eighth-load, then no-load, then quarter. She tapped once at each change, not Odmara's old repair rhythm but the new path through nine and ten. The mica answered with straight red strokes. At the last tap, Kosca scratched her work-name into a fresh strip at the hilt.
+
+Yevet watched the rail leads. “Demonstration complete.”
+
+Felrin took the slate. His hand hovered over the authorization line.
+
+“Don't put your mark over hers,” Kosca said.
+
+“I heard you.” His voice was tired, not sharp. He wrote his name in the authorizer's field, then passed the slate back. “Joint repair authorized under active load. Odmara, cut and diagnosis. Felrin, seating. Kosca, load and receiving maintenance. Yevet, witness and record.”
+
+Yevet read it before adding her mark. “Prior omission remains referred for judgment.”
+
+“Yes,” Felrin said.
+
+Odmara set her thumb over the cramped A engraved six years before. Felrin and Yevet took the guard. Kosca held the hilt without pulling.
+
+“Release the Odmara pattern,” Yevet said.
+
+The mechanism required the prior worker's voluntary hand on the name strip. That was all. It could not know whether she forgave, whether she belonged, or whether the name still fit. It knew pressure, contact, and the sequence the builders had given it.
+
+Odmara pressed the release stud beneath the mica.
+
+“Released.”
+
+Red light withdrew from her letters. For a moment KOSCA shone at the hilt while the repaired diagnostic strokes crossed the blade. Then the counterweight finished its descent, the strain matched no alarm pattern, and the blade went dark.
+
+Kosca let out a breath. “People can go home in twelve minutes if the second reading holds.”
+
+“It will need a watch through morning,” Odmara said.
+
+“I said go home. I didn't say sleep.”
+
+Yevet tore a temporary tag from her book. “Performer field.”
+
+“Fields,” Odmara said.
+
+Yevet glanced at the slate and ruled three extra lines. “Cut and diagnosis. Seat. Load.”
+
+“And authorization,” Felrin said.
+
+“That already has its own line.” She tied the tag to the tenth tooth, well clear of the chain. “Guild membership?”
+
+Odmara pulled off her scorched glove. “No.”
+
+Felrin kept his eyes on the wedge. “Independent chainwright.”
+
+Yevet wrote it exactly.
+
+Above them, the blade waited in Kosca's hands, its mica seams dark. Through the railing came the ordinary diminishing rumble of the quarry counterweight, with no name inside it.

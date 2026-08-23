@@ -6,15 +6,19 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Neshra | new | Palm-garden keeper and Odal's mother; no exact, alias, close-spelling, or confusing reuse found. |
-| Odal | new | Neshra's adult child; no exact, alias, close-spelling, or confusing reuse found. |
-| Ammara | new | Living stone person worshipped locally as a dead goddess; exact and alias forms are unique, while existing `Mara` and `Maris` remain readily distinct by sound, full form, role, and context. |
+| Zunel | new | Palm structural lead; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Aksor | new | Wrist-garden practice keeper; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Yeshal | new | Forearm strain observer; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Polaq | new | Hand-district count keeper; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Temru | new | Relay keeper who reconciles the undercroft group; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Burmik | new | Litter bearer halted at the ledge pinch; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Iveni | new | Water carrier halted at the ledge pinch; no exact, alias, close-spelling, or confusing prior reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Ammara's Palm | new | Inhabited palm district named for Ammara; no exact, alias, close-spelling, or confusing reuse found. |
+| None | none | No story-facing place proper noun. |
 
 ## Continuity
 
@@ -29,4 +33,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The parent-adult-child dialogue stays asymmetrical and action-bound through the rope-cut crisis and final departure claim. Ammara recognizes coordinated life across the palm rather than a controlling human signal, and her painful hold resolves the waking-hand promise while leaving the altered settlement, injuries, and family disagreement live.
+- Notes: The two-mile right-palm geography, shallow warmth and three-wave sequence, jointed curl, failed wrist brace and aqueduct damage, ledge evacuation, and 5,264 + 17 = 5,281 reconciliation remain legible and causal. All four counterweights fall only after the full count and close return permanently; the later slowdown stays explicitly multicausal, while the forearm settlement resolves shelter, water, monitoring, and access without assigning the goddess a voice or erasing her possible personhood. Dialogue keeps Zunel's route-and-failure logic, Aksor's tactile sequences, Yeshal's qualified timing, and Polaq's named particulars distinct under pressure; Temru, Burmik, and Iveni remain ordinary context-bound calls, and the decisive and final exchanges avoid faith-science debate, chorus convergence, and an explanatory coda.

@@ -8,408 +8,340 @@ canon: false
 
 # A Crown for the Endless Fire
 
-At first you take the nine flames for exit lamps.
+By the last surveyed gallery, my lamp flame had begun leaning uphill.
 
-They hang in the dark below the place where your route ends, a crooked row of yellow points. Behind you, the mountain settles for the third time. The sound is deeper than thunder and too close to have an echo. Dust breathes from the new wall of stone where your return passage used to be.
+That was wrong. The mine drew from the upper vents in summer. Air should have slipped past my cheek toward the deep headings, cool enough to keep sweat from my collar until I reached the winzes. Instead it climbed out of the abandoned lower cut with a dry, mineral taste, as if the mountain had taken breath through hot teeth.
 
-You have already shouted yourself hoarse. The cable to the upper crew lies under the collapse, and the sounding hammer gives you nothing but solid rock on three sides. On the fourth, a crack carries a draft warm enough to dry the sweat on your lips. You turn sideways, protect the survey lamp with one hand, and follow the false promise of those flames.
+I was the mine's ventwright, so I sent the last two muckers up and tied a red rag across the gallery. They objected because muckers object to any order that leaves someone else below. I told them I was checking a blocked vent, which was true as far as it went, and made them repeat that no one was to follow before morning.
 
-The crack slopes down. The air grows hotter, not colder. Your lamp shows glassy threads forming on its iron cage, clear as new ice; when you thumb one away, it breaks with a small bright snap. Then the rock opens and your next step finds no floor.
+Then I went down alone.
 
-You catch yourself against the wall.
+I carried two water skins, chalk, three iron wedges, a claw hammer, smoke cups, a folded neck cloth, and one rope. The rope was my return route. I doubled it around a stone horn at the top of the lower slot and fed both ends through my belt ring as I descended, so I could pull it free and take it home if the slot behaved. It did not behave. Heat came in fits. Each time the air stilled, the rock around me warmed; each time the draft rose, grit whispered upward past my ears.
 
-The cavern is larger than any chamber on your map. Its roof and sides withdraw beyond the lamp. A bridge of black stone leaves the ledge at your boots, crosses an emptiness, and meets a stair cut into the far wall. Cool air pours down that stair. You feel it even through the furnace breath rising from below.
+At the bottom I struck a smoke cup. The gray thread flattened against the floor, hesitated, then fled back the way I had come.
 
-The fire has no bottom.
+“Blocked beyond,” I said, to learn whether the cut threw my words back. It did not.
 
-It burns in red folds under the bridge, one vast layer revealing another beneath it. No timber falls through it. No coal shelf holds it. The flames diminish with distance until distance itself fails; there is always one more red edge moving lower down. Their roar seems quiet only because it occupies every part of hearing.
+The cut narrowed past any survey peg I knew. I went sideways for forty paces, paying rope behind me. Old chisel work showed under black glaze. The last seam had a pale crust around it, salt or something that only looked like salt, and the air leaking through was hot enough to tighten the skin across my knuckles.
 
-The nine candles are not lamps. They burn on the antlers of a woman standing on the far half of the bridge.
+Beyond that seam, the mountain stopped.
 
-She faces you, though the crown hides more of her than it shows. A padded band crosses her brow, and from it rises a pale rack wide enough to overhang both sides of the rail-less span. Soot-black clay cups are lashed to the tines, each holding a short candle. Melted wax streaks her cropped hair and the leather over her shoulders. In silhouette the antlers appear to grow from her skull. When she shifts, you glimpse rawhide knots and a cracked rectangle of mica dangling beside one ear.
+My lamp showed a black bridge, rail-less and no wider than two outstretched arms, running perhaps thirty paces into a gulf. It reached a square opening in the far wall. Beside that opening, an iron shutter stood closed across a shaft mouth.
 
-She does not move.
+Below the bridge was fire.
 
-“Keep your boots off the bridge.”
+I could not see what burned. There were no beds of coal, no timbers, no floor. Flame moved far beneath me and close beneath me at once, folds of orange and white passing through a depth my eyes could not settle. It filled the gulf in both directions beyond my lamp. When I leaned out and looked down, the light went on until smoke and glare erased distance. I dropped a chalk chip. It flashed once, fell past sight, and gave me no sound back.
 
-You look past her to the far stair. Thirty-eight paces, perhaps forty. The bridge widens by half a foot at its central joining stone and nowhere else.
+At the bridge’s center stood a woman.
 
-“I need that stair.”
+Her boots were planted on a six-pointed mark. Both hands gripped a hooked iron pole set against the stone. An antler crown pressed into a thick pad around her head and neck. Exactly six candles burned in iron cups along the antlers. Their flames did not gutter in the furnace breath. Four bent toward the far wall. One stood high and thin. The candle third from her left leaned toward me and burned blue-white at its base.
 
-“Then use your eyes first. Can you see the cups behind my head?”
+The bridge shivered. Not much. Enough to blur the woman’s outline and set my teeth together. Her knees gave, caught, and held.
 
-The rear tines carry four of the candles. They fork high beyond her shoulders, visible to you though she cannot turn her eyes to them. Black numerals have been scratched into the clay: six through nine.
+“Water,” she called. No greeting. Her voice carried raggedly over the low rush below. “Have you got any?”
 
-“I see them.”
+“Two skins.”
 
-“Six?”
+“Where are you standing?”
 
-“Leaning left.”
+“Near abutment. Mine side.”
 
-“Left is nothing to me. Wall or fire?”
+“On the pale seam or behind it?”
 
-You adjust your lamp. “Toward the far wall.”
+I looked down. One boot had crossed the crusted line. “Behind now.”
 
-“Seven?”
+She shifted one hand on the pole. The antlers dipped with her head, and her shoulders jerked as if someone had hung a new weight from them. “Good. Water first. Then smoke at that seam. Don’t seal it.”
 
-“The same. Eight is steady. Nine—also steady.”
+She had asked a useful question before giving an order. That earned her the water, not the order.
 
-The woman moves one foot forward, toward you.
+I looped my return rope through the neck of one skin, went flat, and pushed the skin along the bridge. At eight paces the heat through the black stone forced me back onto my knees. I flicked the skin ahead. It skidded to within a pace of the central mark; she pinned its loop with the hooked pole and dragged it to her boots without moving them.
 
-Candle nine jerks out from behind an antler point. Its flame has flattened blue against the cup.
+She drank badly: too fast, coughed, held the skin against one cheek, drank again.
 
-“Wait,” you call.
+“Small pulls,” I said.
 
-She drops to one knee. A sheet of fire passes over the bridge where her chest had been. It makes no arc and leaves nothing burning; it is simply there, a red plane stretched from gulf to stone, then gone. White ash lifts in its wake. It touches the buckle at your hip and becomes a crust of transparent needles.
+“Come wear this and show me how.”
 
-The woman stays low. “Was nine steady?”
+That was an ordinary enough complaint that some of my fear loosened.
 
-You snap the new glass from your buckle. “I could see the top of it.”
+I lit another smoke cup at the pale seam. The smoke drew into it, then split. Most ran upward into the mine. A smaller strand crawled under the bridge lip and vanished along the third of six dark ribs I could see beneath the deck. Those ribs ran the bridge’s length into sockets at either wall. The third had a bright crack just beyond the near abutment.
 
-“That is not what I asked.”
+“Your bypass is shut,” I called, pointing to the shutter beyond her.
 
-“The tine covered the base.”
+She drank once more before answering. “Jammed after the tremor.”
 
-“Then the word is unseen.” Her voice is rough, but she does not raise it. “Not steady. Not probably. Unseen.”
+“How long?”
 
-The rebuke lands because the bridge is still glowing where her body had been.
+“Long enough.” She pressed the water skin against the back of her neck. Beside her boots lay a curved wick knife and another neck pad, black with sweat. Scorch marks crossed the center stone in short old arcs. “Smoke going under third?”
 
-She rises carefully. From this angle you can see that the crown is not ornamental. Fine holes pierce the clay cups. Wax has been marked in measured rings. Loops of pale cord join the antlers to a shoulder yoke, taking some of their weight off the band at her brow. The broken mica beside her ear must once have reflected the rear candles.
+“Some. Crack in it.”
 
-“The mirror failed?” you ask.
+She shut her eyes for one breath, no more. “That rib's cup went out at first. It came back blue.”
 
-“The first rise took it. I can read one through five. I came as far as I could on the feel of the yoke.”
+She meant the blue-white candle. I almost asked how the cup followed the rib, but the question would not move any air. “Which cup is third?”
 
-“And stopped in the middle.”
+She touched the blue-white flame’s iron stem, then pointed her pole toward the cracked rib. The flame leaned toward me as the hook passed below it.
 
-“I stopped before guessing.”
+“Direction is heat?” I asked.
 
-Your buckle is already whitening again. You flex it until the glass flakes away. “The passage behind me has fallen in. My lamp has one thumb of oil. If the stair is open, I can reach the upper borings.”
+“Hotter end. Height is what the rib carries. Blue at the foot means the stone’s going soft.” Her next breath stopped halfway. She forced it out. “Dark means the heat path broke. Don’t let one go dark.”
 
-“It is open. I cleared the vent shutter before the quake gave its second shake.”
+“And the antlers?”
 
-Relief makes you put a boot on the bridge.
+“Get heavier when the six disagree.”
 
-“Off,” she says.
+The gulf brightened. All six flames lengthened, and the bridge’s hum climbed through my palms. Lemra—I did not yet know her name—folded lower over the pole.
 
-You obey this time, though every part of you strains toward the cool draft beyond her. “You just said it was open.”
+I knew leaking seams. A leak robbed a shaft of draw; close the leak, make the air take the proper road. The pale seam was narrow enough for my middle wedge. I wrapped my hand, set the iron point, and drove it twice.
 
-“I did not say the bridge was.”
+The smoke thread shrank.
 
-She angles her head, showing one cheek brown under soot and striped with candle grease. The movement sets the crown swaying. Both her hands tighten on grips inside the antlers.
+For half a breath, I felt right.
 
-“What is your name?” she asks.
+Then the third and fourth candles stretched higher than my hand. Blue-white climbed the third wick. A sound like a bow drawn across a copper rim came from under the bridge. The woman’s pole skated. One antler tip struck her shoulder, and she dropped to a knee without leaving the mark.
 
-“Temba.”
+“Out,” she said.
 
-“You carry iron, Temba?”
+I was already on the hammer. “Two blows.”
 
-“Tools. Fittings. Map case.”
+“Out. Now.”
 
-“Keep them moving. The cold parts catch the bloom first.”
+I reversed the hammer and pulled. The wedge had taken a blue temper, and the seam held it as if pinched. I struck sideways once, twice. On the third blow it sprang free and spun toward the gulf. I caught it between both gloves, losing a strip of skin through the leather, and rolled away from the opening.
 
-“And you?”
+The seam inhaled. Smoke spilled under the lip again. The tall flames shortened one after another, but the third kept its blue root.
 
-For a moment you think she means the iron. Then she says, “Maelka.”
-
-“Why are you coming this way, Maelka, if the working stair is behind you?”
-
-She checks candle five before answering. “Because my daughter is in the quake shelter on your side. I told her two wax marks. We have burned four.”
-
-Four scored rings have already vanished from candle five.
-
-“Come across,” you say. “I’ll report the rear cups. Once you’re off, I take the next safe draft.”
-
-“There is no next one.”
-
-The first candle has begun to burn blue at the root. Maelka watches it, then looks up toward a column of ash slowly twisting above the gulf.
-
-“When one blues and the end pair pull apart, the fire is drawing breath downward,” she says. “That gives us a crossing. When the rear pair knot inward afterward, the white rise starts. It stays for three days. Sometimes five.”
-
-“How long until the downward draft?”
-
-“Less than one wax ring.”
-
-“In minutes.”
-
-“Your minutes do not burn on my crown.”
-
-You study the marked candle. The space between two rings is not much wider than a grain of barley. “Twenty, then. Perhaps twenty-five.”
-
-“Call it what you saw.”
-
-“One ring.”
-
-“Better.”
-
-Her daughter cannot wait on the far side of a white updraft. Neither can you wait on this ledge with a failing lamp and the mountain shifting behind you. The obvious arithmetic leaves one of you stranded.
-
-You put down the lamp and unclip your rope.
-
-“No,” Maelka says.
-
-“You have not heard the plan.”
-
-“I can see the hook.”
-
-The bridge is a single course of fitted stone, deep enough to catch a line beneath. Your rope is longer than the span. In the upper shafts it has held twice your weight over a longer drop.
-
-You explain how you can hang below the near edge while she passes above, then climb to the far half without spending a second draft. Maelka listens without interrupting. That feels like progress until she asks, “How hot is the underside?”
-
-“Lower than the open air above the flame. The stone sheds heat into the walls.”
-
-“How hot?”
-
-You take out the hook. Its spring gate does not open. Glass has grown through the hinge.
-
-You strike it against the ledge. Most of the bloom breaks away, but a clear wedge remains inside the joint. The gate opens halfway and sticks.
-
-“I can clean it.”
-
-“How much did the glass eat?”
-
-“It forms on the surface.”
-
-“That was not my question.”
-
-You run a thumb over the rope near the hook. The fibers there feel dry and stiff. Your tidy line across the gap acquires three blanks: the heat under the bridge, the strength left in the rope, the hook that will not close. You could assign generous margins to all three. That is what you do when a foreman wants a route before the mountain has surrendered enough numbers.
-
-Maelka waits. She will not complete the estimate for you.
-
-“I don’t know what load it will hold,” you say.
-
-“Then take it away from the edge.”
-
-She points with her chin to the ledge behind you. You coil the rope and shove it back from the bridge before another flare can turn the hook into a glass snare.
-
-“The crown, then,” you say. “Leave it at the center. I guide you over. I collect it when I pass.”
-
-“You have not worn one.”
-
-“I can learn nine candles.”
-
-“Can you reset a cup when its vent clogs? Feel a rise through the left yoke? Keep the tines level when your sight goes white?” She adjusts her shoulders, and the antler shadows rake the stone. “This is the only sound crown left. Break it, and the shelter loses the stair after today.”
-
-“So we preserve the instrument and choose the person who dies beside it?”
-
-“I am choosing no one yet.”
-
-A pebble drops from the roof. You track it by the brief red flashes on its sides, then lose it long before it reaches anything. No impact reaches you.
-
-Maelka scrapes ash from cup eight with a sliver of bone. As she lifts the crown to reach it, the inner faces of the antlers turn toward you. Two grips have been polished pale by hands: the ones she holds, close to the brow, and another pair farther out under the broadest tines.
-
-“Who uses the second grips?” you ask.
-
-“Fitters. One on either side when they lower the rack onto a crosser.”
-
-You look at the bridge’s central stone again. Everywhere else the span is one body wide. At the joint, two overlapping slabs make a shallow diamond, just wide enough for two sets of boots if neither person asks for comfort.
-
-“Not one on either side of the crown,” you say. “One on either side of you.”
-
-Maelka follows your gaze to the central joint. “Fitters stand on a floor.”
-
-“The grips do not know that.”
-
-“Hands do. Feet do.”
-
-“Two people can reach the joint in one draft. At the middle, you lift. I take the outer grips and turn under the shelter-side tine. We rotate together. You keep the crown.”
-
-“And while we are tangled?”
-
-“Neither of us steps.”
-
-“The fire does not pause because your boots do.”
-
-“Then we keep reading.” You point to the numbered cups. “I call what is behind you. You call what the antlers hide from me. We move only when both calls agree.”
-
-Maelka tests the crown’s weight against her shoulders. Candle one is blue halfway across its base now. “You called nine steady.”
-
-You look at the ninth cup. “I did.”
-
-“You wanted it steady.”
+“I narrowed the wrong relief,” I said.
 
 “Yes.”
 
-The word catches in your dry throat. Maelka checks candle one, then you, then the partly masked ninth flame.
+There was no satisfaction in it. She was busy levering herself upright.
 
-“Say the calls,” she says.
+I set the warped wedge on bare stone where it could cool. “The shutter normally takes these surges.”
 
-You begin with the survey words: bearing, oscillation, occluded. She cuts off the first and rejects the third.
+She nodded.
 
-“The bridge has two ends,” she says. “Shelter and stair. The fire is down. If a flame skips both ways, it flutters. If bone or smoke covers it, unseen. Nothing else.”
+“You’re holding them across the ribs until it opens.”
 
-“Lean shelter, lean stair, lean down, flutter, unseen.”
+“Not holding.” She adjusted the pad with two fingers. The pole shook against the deck. “Spreading. Badly now.”
 
-“And straight.”
+“Can you leave the mark?”
 
-“Straight.”
+She looked at the six flames instead of me.
 
-“Number before word.”
+I had my answer, though not from her. “Right. Third rib first.”
 
-You repeat the vocabulary. Then she makes you call six through nine as they are now. Nine is partly masked again.
+“Water,” she said.
 
-“Nine unseen behind bone.”
+I had missed what she needed while finishing my conclusion. I pushed the second skin out along the stone. This time I crawled ten paces before sending it, counting the bridge pulses through my elbows. It slid almost against her pole; she stopped it, wet the spare pad, and shoved the cool cloth under the crown’s rear band. A hiss came from damp wool. Her face eased for perhaps three breaths.
 
-“Good. Keep it that plain.”
+“What do I call you?” I asked.
 
-Maelka uses your calls to retreat the last few paces to the far ledge. It costs her ground she had fought to gain, and twice she stops so abruptly the crown rocks on its yoke. You report each rear flame. She reads the five before her. When her heels reach the ledge beneath the stair, she keeps facing you, ready to step onto the span.
+“Lemra.”
 
-At that distance she is shorter than the antlers made her seem. The band has rubbed her forehead raw, and one eye is swollen from smoke. Her hands never leave the grips.
+“Uldek. I can sling the cracked rib at its root. Then I cross and work the shutter.”
 
-Across the whole bridge, she says, “Open your map case.”
+“With what line?”
 
-“Why?”
+I put my hand on my return rope.
 
-“Because if the bloom locks it while you cross, you will stop to save it.”
+Her gaze followed it back to the narrow cut. “Is there another way up?”
 
-You want to object. Instead, you force the iron cap through its new glass seam and draw out the waxed route sheet. Five months of slopes and shafts fit under your shirt. You set the empty case beside the rope.
+“From your side?”
 
-The lamp gutters. You pinch it dark. The endless fire gives more light than you want.
+“Service stair. Longer.”
 
-For several breaths, nothing changes. Maelka watches cups one through five. You watch six through nine across the span. The candles lean and recover independently, nine small witnesses to movements too large and deep for either of you to feel.
+“Sound?”
 
-“One blue,” Maelka calls.
+“Last week.”
 
-“Nine stair.”
+Not an assurance, but better than pretending.
 
-“Two down. Three flutter.”
+I crawled back into the slot and pulled one end of the rope. It rasped over the stone horn above, then fell around my shoulders in a warm, dusty coil. Once it was down, the direct ascent was gone. I found the midpoint by matching ends, laid the rope across my knee, and cut it with my belt knife. Two lines would brace both sides of the split rib’s saddle. Neither would reach the horn again.
 
-“Six straight. Seven shelter. Eight down.”
+“Return route spent,” I said.
 
-The roar drops in pitch. Loose dust snakes across both ledges and spills over the bridge’s edges.
+“I heard.” Lemra had turned one ear toward the dragging rope. “Third candle dropped a finger when you pulled.”
 
-“Now,” Maelka says.
+“Then watch it. Tell me if it rises.”
 
-You step onto the bridge from opposite ends.
+“Blue matters first.”
 
-The stone transmits the fire through your soles. You place each boot along the center seam, resisting the urge to hurry. Maelka advances toward you under the crown with short, practiced steps. Every time the antlers sway, their shadows touch the gulf and vanish.
+“Blue first. Height second. Dark, shout.”
 
-“Six shelter,” you call. “Seven straight. Eight down. Nine stair.”
+At the bridge root, black scale hid two deck mouths beside the third rib. I scraped them clear. Each opened into a U-shaped maintenance chase: down around one side of the rib’s saddle, then out through a slot in the near abutment face within my hammer’s reach. A worn stone eye sat between each mouth and its matching slot. The crack lay between the two chases and opened and closed by the width of a fingernail. Chalk dust vanished into it with every opening.
 
-“One down. Two stair. Three straight. Four straight. Five shelter. Step.”
+I tied one of my small sound wedges to the first rope end as a messenger and dropped it point-first through the inner mouth. It rattled around the saddle. The tip appeared in the matching face slot; I caught it with the hammer claw and drew the rope through until it made a full sling beneath the rib. I brought both ends into the stone eye and hauled. The crack stopped breathing so widely.
 
-You both move.
+The bridge tremor changed. Lemra struck the deck once with her pole.
 
-The calls repeat, with a different candle wavering each time. You give Maelka four observations; she gives you five and the step. Thirty paces between you become ten. Ash rises around your calves. The buckle at your hip stiffens; you flex it once, then again, shattering the bloom without looking away from the candles. One more matched step leaves eight paces.
+“What?” I shouted.
 
-“Six shelter. Seven—” Smoke folds across the rear tines. The old word presses at your tongue: probably. You stop. “Seven and eight unseen in smoke. Nine straight.”
+She pointed to the crown. The blue-white base had narrowed.
 
-Maelka’s front foot is already lifting. She puts it down where it began.
+I set the first knot and tied my other small sound wedge to the second line. The next furnace surge came without warning. Flame rolled up the gulf wall. The seated rope snapped taut across my palm; the bridge lifted under my braced knee, then dropped. Lemra said something I could not hear.
 
-The smoke clears. Seven lies almost flat toward the stair. Eight flutters.
+“Dark?” I yelled.
 
-“Seven stair. Eight flutter.”
+She shook her head hard, regretted it, and bent under the antlers. Two fingers pointed toward the outer edge. The fifth candle stood lower there.
 
-“Hold,” she says.
+“Sounder side?”
 
-A red flare curls around the far wall and combs the bridge with heat. It does not reach your bodies. When it passes, the candles settle lower.
+One sharp nod.
 
-“That was the small one,” Maelka says. Her voice has tightened. “We have the length of the blue wax. No waiting after center.”
+I fed the wedge through the outer mouth. When it appeared at the second face slot, I clawed it out and drew the rope around the other side of the saddle. I shifted its hauling end to the outer side of the stone eye, where Lemra had pointed, then tensioned and seated the second knot. The rope tremor steadied into three distinct beats: pull, rest, pull. The cracked rib no longer rang alone.
 
-You do not ask how long that is. “Six down. Seven straight. Eight straight. Nine shelter.”
+I crawled upright. Both rope halves remained under the bridge, already browning where heat touched them. There would be no taking them back.
 
-“Step.”
+“It will hold for a crossing,” I said.
 
-Twice more the nine flames settle enough for a matched step.
+“One?”
 
-At the central joint the bridge widens, but the extra stone looks trivial above so much absence. Maelka reaches it first and sets her feet apart on the shallow diamond. You stop one pace away. Up close, the crown smells of hot horn, tallow, and the bitter oil rubbed into its lashings. Wax has dried along Maelka’s neck in pale scales.
+“Mine first. Yours if the shutter takes.”
 
-“Right hand to the grip above my left,” she says. “Do not touch the cups.”
+“If it doesn’t?”
 
-You reach through the antlers. The outer grip is slick with old wax.
+I checked the far opening, the thirty paces of bare stone, the fire. “Then I come back before the sling cooks.”
 
-“Left hand when I lift. Shoulder under the low branch. Not your head.”
+She checked the blue-white flame again and said nothing.
 
-“There is no room for my shoulder.”
+I wrapped my burnt palm, wetted my sleeves, and went low. The bridge had no rail. At rail height, square sockets stood empty and packed with black scale. I kept three points against the stone. At the sixth pace, heat pressed through my boots. At the tenth, the fire below opened white lanes inside the orange, and awe took my count away. I could see no bottom, no fuel, no wall closing under us. Just motion going down past what sight could keep.
 
-“Make some.”
+“Uldek.”
 
-That is not a survey instruction. It is enough.
+Lemra’s voice brought back the bridge. I was at twelve.
 
-Maelka bends her knees and drives upward. The yoke rises from her shoulders. Its weight comes into your right arm, greater than you expected and badly balanced toward the five-candle side. You turn sideways, set one boot on the point of the central diamond, and slide your left shoulder beneath the shelter-side tine.
+“Two steps to me. Fireward edge is lower load.”
 
-For one breath you stand face to face inside the crown. Maelka’s swollen eye stays fixed on your hands.
+I looked at the candles. She had not said which was fireward.
 
-“Calls,” she says.
+“Your pole side?”
 
-“One through five down,” Maelka says.
+She stared, then slapped the pole against her right boot. I had missed the answer in what she could still do. I shifted right. The vibration softened.
 
-You glance up. “Six down. Seven down. Eight down. Nine—”
+At the central mark there was not room for dignity. Lemra could not move her boots. The antlers spread wider than her shoulders, six iron cups burning above them, and I had to pass beneath the lowest tine without touching crown or woman. I went on one hip along the outer edge. She lifted the hook clear. A drop from the water skin rolled across the bridge, steamed, and disappeared before reaching the side.
 
-The ninth cup has disappeared behind the thick base of the tine above your cheek. Eight calls agree. The bridge seems to offer the missing answer through your feet.
+“Neck?” I asked.
 
-“Nine unseen,” you say.
+“Later.”
 
-Maelka’s jaw knots. “Smoke?”
+“Can you keep the mark for sixty?”
 
-“Bone. The branch covers all of it.”
+“Stop counting me.”
 
-“Can you lower?”
+“Forty, then.”
 
-“Not without letting go.”
+“Open the shutter.”
 
-Candle one whitens at the tip. The draft pulls your coat tight against your ribs. Maelka could retreat to the stair. You could retreat to the shelter ledge. Neither moves.
+Her temper had more breath than her other words. That was useful.
 
-She shifts both hands to one side of the crown. “Take the weight.”
+I passed her and crawled the remaining fifteen paces. The far abutment was hotter. Three crown flames leaned after me, confirming it without a lecture. The shutter covered a side chimney cut upward through the wall. Its lifting bar had jumped its guide and bitten into a lip of softened stone. I struck smoke beneath it. The smoke flattened toward the bridge instead of rising into the chimney.
 
-“I have it.”
+“Jammed at the guide,” I called.
 
-“You have half.”
+Lemra lowered the pole, listening through it.
 
-“Then give me the rest.”
+I set my smallest wedge under the bar and lifted until the shutter opened one finger. Air screamed through. The bridge tone rose instead of falling.
 
-The full rack drops into your arms. Your injured buckle bites your hip; your right knee folds, then holds. Maelka seizes the obscuring tine near its base and twists it against the rawhide lashing. The antler gives a dry crack. One of the clay cups jumps in its loop. A fracture opens along the tine, but the branch moves a hand’s width.
+Lemra chopped her hand down.
 
-Nine appears, its flame pressed down so low it paints the wax blue.
+I stopped. “One finger open.”
 
-“Nine down,” you say.
+She held up two, pointed to the high candle on her right, then crossed her wrists.
 
-“Turn.”
+“Two ribs crossed in load?”
 
-Maelka ducks under your raised arm. You pivot on the inner foot while she takes the crown’s weight back a little at a time. Your shoulders scrape. One antler tip passes over the void close enough to shed a bead of wax into it. Then you are back to back, each facing the end you need.
+She shook her head and struck the pole twice against the bridge, the second blow harder. The two high flames were not equal; one fluttered at twice the other’s beat.
 
-“Five?” you call.
+“Twisting,” I said. “I opened too fast.”
 
-“Five down. Four stair.”
+Her shoulders sagged once in assent.
 
-“Eight straight. Nine down.”
+I let the shutter settle half a finger, moved the wedge to the far side of the bar, and lifted there. The opening widened crookedly—one finger at the near jamb, two at the far. The shriek became a rough draw. Smoke tore upward. Behind me the bridge dropped from a copper whine to a bass hum.
 
-“Move.”
+“Color?” I called.
 
-You separate.
+Lemra looked from flame to flame. “Third—still blue. Less. Sixth amber edge.”
 
-The crown goes with Maelka toward the shelter. Its four rear candles now face you; she has the five before her. The distance between you lengthens one matched pace at a time.
+“I need the bar clear of the lip.”
 
-“Six straight. Seven shelter. Eight shelter. Nine down.”
+“Small.”
 
-“One straight. Two down. Three down. Four stair. Five flutter. Step once.”
+“How small?”
 
-Your left boot lands as white light opens in the depths. The lower fires are rising together now, terrace upon terrace collapsing into a single brightness. The roar climbs beyond sound and becomes pressure in your jaw.
+She held thumb and forefinger apart, changed her mind, narrowed them to the width of the wick knife lying at her feet.
 
-Maelka shouts something. You catch only “nine?” and see her free hand strike the cracked rear tine.
+I worked by that measure. Lift the bar a knife-width. Wait through three bridge pulses. Move the wedge. Test smoke. Each gain strengthened the chimney draw, but twice the third rib complained through the rope sling and Lemra signaled me back. On the second retreat she did not speak. She touched the blue candle’s cup, then put her fist against her throat. I lowered the shutter until she could lift her chin again.
 
-“Nine unseen behind bone!” you answer.
+The next trough in the fire came as a dimming rather than silence. The orange folds sank somewhere below sight. The bridge vibration ran down through my soles and thinned.
 
-She leans sideways under the crown until the cup clears the antler. Its flame points down.
+“Now,” Lemra said.
 
-“Nine down!” you shout.
+I drove the wedge under the bar, put my shoulder to it, and freed the guide from the stone lip. The shutter jumped. I caught its chain before it could fly fully open and wrapped the chain twice around my forearm. Heat bit through the wet cloth.
 
-You run three steps. Behind you, Maelka does the same in the other direction, the antlers bucking over her shoulders. The cracked tine bends but does not part.
+“Three fingers,” I said. Numbers were easier than fear. “Holding three. Check one through six.”
 
-The white rise reaches the underside of the bridge.
+Lemra raised her face to the crown. “One amber. Two amber. Three—” Her mouth stayed open, but no word came. She pointed to the third cup.
 
-Your foot finds the far ledge. You throw yourself onto it and turn. Across the gulf, Maelka’s crown pitches forward as she takes her last step. For an instant the candles seem to hang over empty space without her. Then she drops to both knees on the shelter ledge, antler tips striking sparks from the rock.
+Its flame had gone upright and orange at the edges, blue no longer visible.
 
-The bridge’s black surface disappears in the glare. Maelka remains a dark shape on the shelter ledge.
+“Three amber,” I said for her. “Four?”
 
-You take the survey hammer from your belt and strike the bridge’s far abutment twice.
+She touched four, then five, then six, giving one nod at each. All six flames stood straight and amber. None stretched above the others.
 
-No voice can cross what is rising between you. You crouch with one palm on the black stone.
+The bridge reached the bottom of its vibration. For a moment the rope sling under the third rib hung without quivering. The six flames stayed upright and amber. Then the next pulse came, smaller and even, and traveled through all six ribs together without bending them.
 
-Two answering knocks tremble through it.
+Lemra waited through it. She waited longer than I wanted, eyes moving over each flame while the chimney drew a steady hot wind past me. At last she put down the pole and took up the curved knife. One hand slid beneath the crown’s iron band, the other loosened a rear catch hidden in the wet pad.
 
-You break the glazed buckle from your belt and leave it in a hollow beside the bridge. Across the glare, Maelka binds the cracked tine against the unbroken branch beside it. The nine candles move when she moves now, receding one by one toward the passage where her daughter waits.
+“Stay there,” I said. “I’ll take weight when I reach you.”
 
-The stair before you is unverified. Its draft smells of old water and split rock. You put away the hammer, press the waxed map flat against your chest, and take the first step without a lamp.
+“No.” The word came cleanly now. “Keep the shutter where it is.”
 
-Below, the fire keeps every depth it had before you found it.
+She bent her knees, lifted the antler crown with both hands, and set it into a low stone cradle beside the central mark. No flame jumped to her skin, to the bridge, or to me. The six candles simply shortened in the improved draft. Lemra capped them one by one with the bowl of the wick knife. Six threads of smoke drew toward the far chimney.
+
+Without the crown she swayed as if the bridge had risen under her. Then she sat down hard and pressed both hands to the sides of her neck.
+
+“Still forty,” I called.
+
+“You stopped counting.” Her voice was fuller but rough.
+
+“I resumed.”
+
+“Open it one more knife-width. Slow.”
+
+We left the shutter at four fingers on the far jamb and three on the near, its chain locked around a stone cleat. The bridge hum stayed low. I crossed back to Lemra, and she showed me how to lash the crown’s cradle closed without touching the hot cups. Both rope slings remained seated in their near-root stone eyes. At the far landing she pulled a maintenance chain. Iron lattices dropped across both bridge mouths, their descent visible through slots in the deck. We pinned the far chain and chalked the pin.
+
+Then we took the service stair.
+
+It was longer than my direct route by enough that I complained twice. Lemra complained five times: about the stair pitch, about my pace, about the makers putting rest niches on the hotter side, and twice about the water being warm. At each fork she chose the landing; whenever the stair warmed, I tested the wall seams. We stopped three times to wet her neck pad and once to retie my palm.
+
+At the first cool junction, she sat with her back to the wall while I unwrapped the soaked neck pad. The skin beneath was bruised in two branching lines but unbroken. I folded my clean cloth into a broad collar, wet it with what remained in the second skin, and held it while she tied it loosely.
+
+“Too tight?” I asked.
+
+“Left side.”
+
+I shifted the knot.
+
+“Now it’s on the burn.”
+
+“You have several.”
+
+“That does make your work harder.”
+
+She drank, this time in small pulls.
+
+On the junction wall I drew the closure mark and wrote beneath it: BRIDGE SHUT. THIRD RIB ROPE-SLUNG. SIDE SHUTTER HELD UNEVEN, FOUR FINGERS FAR, THREE NEAR. NO ENTRY.
+
+Under materials spent I added one return line, cut into two slings. Under materials retained I listed two good wedges and one heat-bent wedge, not for reuse. I had carried the warped one up in my tool wrap so no other ventwright would drive it into a seam and call it sound.
+
+Lemra leaned over the list. “One full water skin.”
+
+“Consumed in service.”
+
+“By me.”
+
+“That is still service.”
+
+She considered the wording, took the chalk, and added a clean neck pad to the replacement list. Then she gave the chalk back and asked where I had put the second skin.
+
+It was beside her boot. I pointed. She picked it up and finished what was left.

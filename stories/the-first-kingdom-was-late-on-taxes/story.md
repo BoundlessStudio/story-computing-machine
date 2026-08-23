@@ -8,270 +8,274 @@ canon: false
 
 # Where the Mountain Used to Be
 
-The province was still owed its autumn tax, and Kelpass’s best remaining chance of paying it was three casks of beer that tasted like a chimney after rain.
+The brew-house bell was ringing, though nobody had pulled its rope.
 
-Dema Vask, the village tally-keeper, wrote the shortfall in her ledger and tried the beer again in case arithmetic had made it worse. It had not. Ulven Korr watched from the other side of the tavern table with the guarded expression of a man whose brewing had been insulted by every traveler in the pass.
+Ormela woke beneath the table where she had fallen asleep over the tax bundle. The bell trembled on its hook. Mugs walked in small circles along the shelf, and in the cellar the casks knocked one against another like impatient customers.
 
-“It is not bad,” he said. “It is difficult.”
+Last night the aurora had lain across the mountain in green ribs. Everyone in Kettlebridge had come outside to stare until the cold drove them in. Ormela remembered putting another log under the copper, remembered deciding that one cup of her own brown ale might improve the tax figures. Then nothing.
 
-“It is mediocre,” Dema said, and shut the ledger. “Mediocre things are allowed to be easy.”
+Now white daylight came through the shutters.
 
-Someone outside called for them to come see the sky.
+She tucked the bundle inside her coat and opened the door.
 
-Kelpass spilled into its lanes: shepherds in slippers, children carrying half-eaten suppers, guests from the stable with straw in their hair. The village was a shabby shelf between two black mountains, its clutter of roofs pressed close against weather and the north road threading upward into the dark. Dema tipped the rest of her beer into the gutter and looked toward that road. Her sister lived beyond the second ridge and would be furious tomorrow to learn that Dema had seen something worth describing.
+The mountain was gone.
 
-Green light hung above the northern peak. It widened in silent pleats until violet shone through it, as if night had been cut and brighter cloth drawn through the wound. Every slate roof gleamed. The iron rings on Ulven’s casks answered with dull green arcs.
+Kettlebridge remained: three crooked lanes, the bridge over the narrow runnel, the bakehouse, the byre roofs, every chimney and weathered lintel she knew. But beyond the last houses there were no fields, no pines, no upward road. The village sat on a torn shelf of stone at the bottom of a vast stepped hollow. Pale walls rose around it, ribbed with ramps and galleries. Machines stood withdrawn on the terraces, their jointed arms folded. High above, the last green thread of the aurora tightened against a blue sky and went out.
 
-Dema heard Ulven say, very softly, “That cannot be weather.”
+Someone screamed for a child. Goats screamed because everyone else was doing it.
 
-The light lowered.
+Ormela climbed onto the mounting block outside the brew house. Counting roofs was useless; she needed breathing people.
 
-She did not feel sleep arrive. There was no falling, no dream, no interval at all. One instant the aurora filled the pass; the next, her knees struck the lane and a white brilliance burned through her closed eyelids.
+“Upper lane, door to door,” she called to the baker's two eldest. “Don't write names. Marks only. One mark for found, a ring for hurt. Lower lane, take the potter's boy. Belkin!”
 
-The bitterness of the beer was still on her tongue.
+“I see it.” The well steward was already kneeling at the public cistern, a cord running through his fingers. His usual stoop had vanished. “No, you don't get a bucket yet. Nobody does.”
 
-Around her, Kelpass woke in a single confusion of breath and voices. People rose from the street where they had dropped, or leaned from familiar doors calling to one another. Children found parents. Road guests stumbled out of the stable. Goats broke loose between skirts; dogs barked at everything; every window Dema knew opened onto a face she knew. No house remained silent. The whole village seemed to have drawn one breath and held it until now.
+“How much?”
 
-But the mountains were gone.
+“Less every time you ask.”
 
-Where the northern peak should have blocked half the sky, tier upon tier of silver scaffolding climbed through an immense hollow. Bridges crossed open air. Clear-walled rooms clung to a cliff banded red, gray, black, and chalk-white. The cliff curved around Kelpass like the inside of a bowl, higher than any building Dema had imagined, and every band in it lay level with some impossible age of earth. Far above, a translucent roof stood open in long panels beneath a pale, humid sky.
+“Useful.”
 
-Dema’s village occupied a dark shelf in the middle of that brightness. Excavation trenches cut close to its outer houses. Some walls had been shored with shining braces. Small plaques hung beside doors, and ropes ran over roofs where no Kelpass hand had put them.
+“Twenty-eight handspans. No spring coming in.” He hauled up the dripping weight and glared past her at a woman with two pails. “Drinking cups first. Then I'll tell you where washing happens.”
 
-Soft lights drifted among the chimneys. They were no larger than apples, and each sent a comb of blue lines over tile, wood, and stone. Where the lines reached an iron hinge or nail, they bent away. A blank halo opened around every buckle, horseshoe, and cask band. The lines moved at one steady rate over whatever surface they could touch, despite the people shouting beneath them.
+Aruz pushed through the lane with her sleeves rolled, directing three people to carry an old man into the shade. “Dizziness, vomiting, bleeding, or heat in the skin comes to me. Everyone else sits down before they invent a symptom.”
 
-Figures stood frozen on the scaffolds.
+At the village edge, a hen stepped past the final fence post and vanished over a drop. Ormela heard the flutter and the small, distant impact. She sent two carters to rope every broken boundary. Fires were damped. Animals came out of stalled air and into pens made from carts. Belkin marked two lined latrine trenches where the ground seemed thick enough, then moved one when the cooper pointed out it stood uphill of the cistern.
 
-One dropped a brush. Another sank to a sitting position on a stair. A third raised both hands to a face behind a clear mask.
+“Where's the cemetery?” an upper-lane widow asked.
 
-A little boy chased one of the drifting lights toward a blue cord stretched across the north lane. The paving beyond the cord looked ordinary for two steps, then ended over a trench.
+The old path ended at a clean plane of rock twenty paces beyond her house. There was no cemetery. There was no place where it had been.
 
-“Stop him!” a woman shouted from above.
+Ormela opened her mouth, but the upper runner arrived waving his tally stick. Work took her before an answer did.
 
-Her words were strange, but a disk at her throat repeated them in rough Kelpass speech. Dema caught the boy by the back of his nightshirt. Gravel rattled off the lane’s broken edge and fell until she could no longer hear it.
+Ninety-six found. Then ninety-seven, after the potter's youngest was discovered asleep inside an empty flour chest. Two broken wrists, a burned palm from a fallen lamp, six people too sick to stand. Three households kept asking when someone would count the grain and animals in the outlying sheds.
 
-The woman descended at a run. She wore gray fabric sealed at wrists and throat, soft boots, and a coil of orange line across one shoulder. She did not trust the blue lights. She followed strips of cloth laid by hand, testing each turn with a slender rod.
+The fields had not come.
 
-“Behind the cord,” her disk said. “All living relics remain behind the cord.”
+Across the gulf, figures in smooth grey clothing watched from a metal deck. None had entered the village. They had put down their equipment and backed away whenever someone approached the edge. At last one figure placed both empty hands on the rail. Another raised a flat board bearing pictures: water, a person lying down, a flame crossed through.
 
-“People,” Dema said.
+Ormela pointed at the water picture and held up the empty end of Belkin's inlet pipe.
 
-The woman halted. Shock moved openly across her face. Tiny silver marks dotted one cheek, and her cropped hair was wet with sweat beneath the mask she tore off.
+The first conversation lasted twenty minutes and produced a hose.
 
-“Yes,” she said. The disk tried several words before settling on, “People. I am Yevrin Caul, reader of buried—field archaeologist. This is Vastor Cut.”
+* * *
 
-“Then Vastor Cut has bitten through our road.”
+The hose came down from the access deck on a mechanical sling, its fittings sealed inside clear wrapping. Belkin would not connect it until the people above sent a sample first. He sniffed it, tasted one drop, waited, tasted another.
 
-“The surface is unsupported.” Yevrin pointed at the drifting lights. “Survey motes map what their light reaches. Your iron scatters it. The dark spaces are not safe spaces. They are unknown.”
+“Water,” he allowed. “Too clean.”
 
-A villager cried out behind Dema. One of the masked workers had stepped onto a doorstep and was reaching through an open cottage window for a painted spindle. Its owner slapped the hand away and pulled the shutter closed.
+“Can we drink it?” Ormela asked.
 
-Yevrin spun toward the worker. Her own language came sharp and fast. The worker backed off at once, leaving the spindle where it was. Around the lane, other future people lowered trays, brushes, and folded wrappings.
+“That's what water is for. Doesn't mean I trust a hose with no patch on it.”
 
-“These were excavation rooms,” Yevrin said. The disk rendered the last word as tombs, then houses, then tombs again. “The preserved people did not breathe or warm our instruments. We believed them remains. We believed no one lived.”
+By then the woman with the picture board had learned five Kettlebridge words and proved three of them wrong. She tapped her chest and said, “Sevri.” Then she pointed to a house.
 
-“You believe differently now.”
+“House,” Ormela said.
 
-“Yes.”
+“Huss.”
 
-Yevrin looked toward the weighhouse. A protective frame surrounded the weathered carving above its door: an ox bent beneath a bale, with a round shape over its back. Symbols glowed on a nearby plaque.
+“House.”
 
-The disk read them aloud. “Dynastic seal of the ascending line.”
+“House.” Sevri pointed to the whole village.
 
-Dema stared at it. “That is an ox carrying wool.”
+“Kettlebridge.”
 
-Yevrin’s gaze moved from the carving to Dema and back. “Our reconstruction identifies the upper circle as the founding crown.”
+Sevri repeated it carefully. Her board filled with paired marks and moving diagrams. A device at her throat offered sounds in a voice too even to trust, but Sevri stopped it whenever Ormela frowned. By noon they could manage objects, numbers, simple actions, and several kinds of no.
 
-“Cheese,” Dema said. “The ox is carrying wool and cheese. The mason was drunk.”
+The man beside her was Odan, the director of the place around them. He spoke through Sevri in short pieces.
 
-A strangled sound came from one of the workers on the scaffold.
+“If people stay behind ropes,” Sevri rendered, pointing first to the raw edges, “machines remain stopped. If house at east...” She paused while Odan drew a square hanging over a line. “Bad stone. We put support. No enter house unless household says.”
 
-Ulven pushed through the crowd with an export cup in each hand. More of the cheap clay cups sat in padded trays beside his tavern, every chipped rim separately labeled.
+The owner of the east house, listening over Ormela's shoulder, said, “He can support my kitchen from outside. Nobody opens the blue chest.”
 
-“They’ve emptied my back room,” he said.
+Sevri caught _outside_, lost _blue chest_, and tried again.
 
-Yevrin glanced at the nearest tray. The disk supplied, “Communion vessels for the royal road.”
+Odan nodded after the fourth attempt. He sent an engineer under the shelf, where the owner could see both her and her empty hands.
 
-“They go free with a large jug,” Ulven said. “Or they did until nobody bought the beer.”
+Aruz permitted three future healers to set up at the lane's end. They showed each instrument before using it. A little girl with a split lip accepted a light shone in her eyes and refused the patch afterward. Her mother accepted it for her only after Aruz smelled it, touched the adhesive to her own wrist, and made Sevri repeat that it could come off.
 
-A worker whispered to Yevrin. She answered without taking her eyes from Ulven, and the disk said, “Residue in the sealed black casks has been interpreted as the royal sacrament.”
+“Ask before touch,” Aruz told Sevri.
 
-Ulven looked back at the three iron-banded casks still visible through his door. “It was a scorched batch.”
+“I know ask.”
 
-The future people had begun to gather on every level of the cut. Some were crying. Some recorded through lenses held in shaking hands. One knelt until Yevrin told them, with sudden anger, to stand.
+“Ask again when the person understands what you're asking.”
 
-“What do you think we are?” Dema asked.
+Sevri looked at the crowd of officials gathering behind Odan. “That word will take longer.”
 
-Yevrin swallowed. “The First Kingdom.”
+It took longer because the future kept bringing the wrong nouns.
 
-The title moved through the villagers by way of the translator and returned as disbelieving laughter, then silence.
+First came _site_. Then _recovery_. Then _Founding People_, spoken by a polished official whose pale clothes seemed designed never to encounter mud. The official indicated the terraces, the machines, the village. Behind him a suspended display brightened with an image of a gold crown above a mountain.
 
-Yevrin pointed at the stamped weighhouse, the stacked cups, the narrow streets. “Our oldest surviving histories begin with a kingdom in the mountains. The first road. The first crown. The feast that founded law.” She touched the disk when it gave Dema the title Tribute Queen. “It learned your language from fragments we treated as ritual. Rank, scale, ordinary speech—it makes poor choices.”
+Sevri translated in scraps. “They call this First... before kingdom. First Kingdom. You are...” She stopped. “Not rulers. Beginning-rulers? The people they say began...”
 
-“Kelpass is a trading stop,” Dema said. “People sleep here when they cannot reach somewhere important before dark.”
+“Began what?” Ormela asked.
 
-Yevrin looked at the crowded lanes, at the goats tangling themselves in excavation cord, at Ulven reclaiming cups from padded trays. Whatever answer she had prepared for the First Kingdom could not survive them.
+Odan and the official answered at the same time. Sevri closed her eyes.
 
-“How long?” Dema asked.
+The official began again. Millions of years, Sevri eventually managed. Ormela understood _millions_ only after they built the number with pebbles, then ran out of lane. Odan showed a sequence of ridges wearing down, seas changing, cities appearing as brief sparks. This hollow was the First Kingdom Excavation. The village had not been buried inside it. Kettlebridge had returned into an empty cut on the same bedrock where Odan's people had been digging.
 
-The disk produced a phrase about reigns beyond stars. Yevrin changed a setting and made it try again, one plain word at a time.
+There had been a warning: pressure where no pressure should be, rainwater lifting from the trench, air fleeing a shape that was not yet there. The machines had cleared forty-three heartbeats before the village arrived. Nothing had joined with stone or steel. The returned ground ended where the aurora's boundary had ended around sleeping Kettlebridge.
 
-“Millions of years.”
+The spring, road, fields, and cemetery had lain outside it.
 
-The white light over the excavation did not flicker. A survey mote brushed blue across the tavern wall and veered around a nail. Dema waited for the claim to become absurd. It remained where Yevrin had put it.
+“Way back?” Ormela asked.
 
-“Motes map surfaces,” Yevrin continued. “They do not know age. The layers below and above you give us a range. Ash, stone, changes in life—we compare many measurements. We can be wrong within that range. We cannot be wrong enough to give you yesterday.”
+Sevri did not need Odan. “No known way.” She touched her board, removed _known_, and said it again. “No way.”
 
-Dema turned north. The pass had always narrowed beyond the last roofs, forcing the road between a retaining wall and a drop full of pines. Now silver bridges crossed a void beneath unfamiliar rock.
+The polished official leaned toward the recording lenses hovering behind the deck. He said something with the solemn measure of a proclamation.
 
-“Show me the north road.”
+“He asks,” Sevri began, “if the Keeper of Founding Record will greet the waiting public.”
 
-Yevrin shook her head. “The direct platform was removed when your iron made gaps in the surface map. There are open cavities.”
+Ormela had been called many things over unpaid drink, but never that. “I'm the tax reeve.”
 
-“That road goes home.”
+Sevri checked the phrase twice.
 
-“You are on the ground where we found you.”
+“Tax?” the official said in Ormela's language, delighted by the new word.
 
-“Then show me that.”
+“Overdue tax.” Ormela pulled the bundle halfway from her coat. “Three quarters late, because the bridge washed out and because people lie about how many mules they sold.”
 
-Yevrin’s attention sharpened. This was a demand she could answer with more than grief. “I can show you the contact face and the surviving road bed. If the route holds.”
+The lenses turned toward her as one.
 
-“I know how the slope was built.”
+She shoved the bundle back inside. “No.”
 
-“I know what the cut has done to it.”
+* * *
 
-Behind them, a cottage lintel shifted with a soft crunch. The worker who had reached for the spindle moved toward it, then stopped several steps from the threshold. The owner opened her door a hand’s width. After a hurried exchange of gestures, she beckoned the worker in to place a brace.
+By afternoon, Kettlebridge had divided itself into meetings without anyone ordering it to.
 
-Yevrin watched until the lintel rested on shining supports. Then she unwound the orange line.
+Belkin ran water and waste from the cistern steps. “Show me the tank,” he kept telling Odan's logistics people. “Not the cup. The tank, the pipe, and where it goes after.”
 
-They left Ulven at the tavern. He pressed Dema’s wool coat into her hands; the air in Kelpass was still autumn-cold, but warm wind breathed through the open heights of Vastor Cut. Yevrin added soft overshoes and fastened a safety line between their belts. When Dema’s iron buckle drove a survey mote back, Yevrin marked the resulting blank on a thin field board and took out her rod.
+Aruz occupied the shaded wall of the bakehouse, where future healers explained examinations one person at a time. Several villagers accepted treatment. Some accepted temperature checks but not blood sampling. One man refused every device and agreed only to let Aruz listen to his lungs. A mother wanted her sleeping baby moved before she would discuss herself.
 
-“No guesses,” she said. “If I cannot touch it or see it mapped, we stop.”
+At the byres, drovers argued for the goats to leave before any furniture. The brewers argued that six full casks weighed less than thirty panicked goats and behaved better on a lift. Children wanted to know whether the floating lenses could see through shutters. Someone wanted bread. Someone else wanted the latrine moved again. The cooper tasted Ormela's least successful ale and asked whether millions of years had improved it.
 
-“If I tell you there was a ditch?”
+“Not yet,” Ormela said.
 
-“You tell me where. I test what remains.”
+Odan moved between these circles, never promising past what he controlled. If a house was occupied, his team would treat it as occupied. If an object was needed for food, shelter, care, or work, it would not enter a study queue. If people crossed the access deck, media would be held behind the upper barrier. Land ownership, he kept saying, was not his decision.
 
-They passed the last cottage and stepped off yesterday.
+The official's preservation office disagreed about nearly everything else.
 
-A scaffold stair descended around the village shelf. Through its open treads Dema saw rooms, bridges, and workers far below, diminished by the size of the cut. Kelpass roofs clustered behind her like objects set on a table. Beyond the translucent roof lay a flat country of silver-green reeds and dark water. Warm rain blurred the distance. There was no ridge to catch the clouds, no snow line, no familiar notch where the north road had gone.
+They had catalogued Kettlebridge for generations. On the terraces stood sealed trays of pottery from an outer rubbish slope, worn road tokens, animal bones, and tools lost beyond the old village boundary. Farther inside the facility were boxes lifted from the cemetery before anyone knew the cemetery belonged to people who might return.
 
-People lined the bridges as Dema and Yevrin passed. A gray-haired archaeologist pressed both palms to their mouth. Someone spoke a greeting in old Kelpass words, the vowels stretched into prayer. Dema understood only “road” and “dawn.” Yevrin did not ask her to answer.
+“Our dead?” the widow asked.
 
-The stair ended beside the exposed face of the earth.
+Sevri took off her throat device. “Wait. I need the difference. Your dead, the place, the... right to choose. They are not one word.”
 
-Dema had expected dirt. Instead she found worlds stacked above the level of her head. Directly over the broken outer wall lay brown rubble from Kelpass’s own mountain. Above it ran fine gray bands that Yevrin said had settled in deep water. A layer crowded with pale shells crossed the cut higher than the tavern roof. Blackened roots spread through another band. Red ash followed, then stone squeezed into shining folds. Near the top, long scratches scored the rock where ice had dragged debris across it.
+The widow waited. So did Ormela, though waiting felt like allowing a theft.
 
-“The mountain weathered into the lowest fans,” Yevrin said. Her disk called weathering a slow devouring. “Later the land sank. Water covered it. It rose. Rivers cut it. Ice crossed it. It rose again.”
+When Sevri was ready, Odan arranged for them to see the cemetery room through a closed window. The containers were opaque and unmarked except for future numbers. No bones were displayed. Odan said sampling had stopped that morning. The polished official said several cultural councils claimed descent from the First Kingdom and must be included.
 
-Dema touched a piece of dark slate in the rubble. It split along the same silver grain as the stone her mother had once used to roof a shed.
+“Are they our grandchildren?” the widow asked.
 
-Yevrin held out the field board. It showed the visible face in lines of light, but every ancient nail appeared as an empty ring. “This is all the motes do. Surface shape. We place the sequence. We argue about it. Until this morning, we argued whether your houses were houses.”
+Sevri translated. The answer traveled through three officials and came back polished smooth: the councils maintained inheritance through foundational affiliation.
 
-A tremor passed through the scaffold. Dust whispered down the cliff. Yevrin waited with one hand on the safety line, reading the movement of hanging markers rather than the board. When they stilled, she led Dema onto a narrow bridge toward the north face.
+“That's not what she asked,” Ormela said.
 
-Halfway across, the bridge stopped.
+“No,” Sevri said. “They cannot prove family. They may have a claim to be heard. Not the same as owning.”
 
-Ahead lay a rib of preserved stone no wider than a cart, separated from the next platform by a dark gap. Blue survey lines combed the top of the rib, then fled from a broad oval at its center. Somewhere beneath the stone, old iron cast a halo larger than a person. An orange warning strip fluttered from the rail.
+The widow chose two people to remain with her at the window. She did not ask to open the containers. She asked for the room to stay locked, for no ceremony, and for time to choose more representatives. Another villager whose family used a different burial slope wanted no part in that choice. Aruz said the distinction must be recorded too.
 
-“We turned back here,” Yevrin said. “There is a hollow, but the motes cannot give its edges.”
+Ormela's bundle grew warm under her coat.
 
-Dema crouched. Beneath the warm rain smell and the cut’s clean metal, she caught a trace of wet mineral air. The stones were familiar: three long caps set across the old road, their ends resting on squared walls.
+It held ninety-seven names, after correction, with debts beside most of them. It did not hold the dead in the boxes. It did not hold the seed grain, the grazing rights, or the outlying sheds. It recorded one widow as owing two hens, though the hens had been payment for a roof repair and everyone on upper lane knew it. A tax list was useful because it was narrow. The future liked it because they believed it was wide.
 
-“The runoff culvert,” she said. “Spring water crossed under the road here. The uphill wall was laid double because cart wheels struck it on the bend.”
+When officials requested a household record for the emergency hearing, Ormela laid the bundle on the brew-house table but kept one hand on it.
 
-“Which side was uphill?”
+“Headcount,” she told Sevri. “Sleeping places. Animals if transport needs it. Nothing copied without the household seeing the entry.”
 
-Dema looked for the northern peak and found only pale sky. Her body still knew. She pointed to her left.
+The official asked whether a complete scan would protect the record.
 
-Yevrin clipped their line to the rail and lay flat with the rod extended. Its tip rang solid at the left edge, hollow in the center, solid again beyond. She shifted twice, testing from different angles. Dema showed her the joints that had once been packed with clay and the narrow slot where flood water escaped.
+“It would protect your copy.”
 
-“The old left wall remains,” Yevrin said. “The cap does not.”
+Sevri began to translate that, stopped, and chose simpler words. “She says no.”
 
-As if the cut wished to settle the point, a stone at the oval’s center tilted and dropped. It struck nothing Dema could see. A survey mote floated over the opening, its blue comb bending uselessly away from a rusted grille exposed below. Then it resumed tracing the visible rim.
+The hearing took place in five places at once. Ormela, Belkin, Aruz, the widow's group, and the drovers stayed in their own meetings while Sevri carried questions among them. Future advocates and site workers spoke from the deck. The polished official wanted a single authorized delegation. Kettlebridge offered him a water answer, a medical answer, a burial answer, a livestock answer, and several household answers that contradicted one another.
 
-Yevrin called down. Workers brought two scaffold planks along the lower bridge and raised them by rope. She laid them over the surviving wall, tested their anchors, and crossed first on hands and knees. Dema followed. Warm air rose through the hole and pulled at her coat. For one moment she looked down and saw the rusted teeth of the old grille hanging above a depth filled with white work lights.
+It was slower. It was also the first arrangement that worked.
 
-On the far side, Yevrin reached back. Dema took her wrist, and together they moved onto solid stone.
+Near sunset, a temporary adjudicator appeared on the suspended display. Sevri could not carry the legal language, so the adjudicator broke the order into pictures and short statements, each checked by Odan's counsel and the village group concerned.
 
-The road waited beyond the next platform.
+Living people, their clothing, and what they carried were outside artifact custody. Occupied houses and the goods still in them remained with their occupants while claims were examined. Images, measurements, samples, and interviews required permission. Excavated material and human remains would stay under neutral care; the cemetery containers would remain sealed, with no display, testing, family ruling, or reburial until representatives chosen by the villagers and the claiming councils had both been heard. The land beneath Kettlebridge was unresolved. So was the history.
 
-It was only a short tongue of packed earth, sheltered inside the vanished boundary that had held Kelpass. Two shallow wheel ruts ran between stones Dema knew. A tuft of brown grass leaned where it had leaned beneath the aurora, every blade still beaded with the evening’s dew.
+The next day's founding ceremony was paused. The exhibition was closed.
 
-Then the earth ended against a vertical cut.
+“Paused isn't ended,” the widow said.
 
-Yevrin lowered a walkway so Dema could stand beside the exposed road bed. Beneath the packed dirt, a white quartz vein slanted through black foundation rock. It crossed the boundary without a break and continued into the stone beyond, bent in the same places, split by the same thin red seam.
+Odan heard her tone if not the words. “No,” he said through Sevri. “Locked until the next hearing.”
 
-“That fracture continues under your village and under the region,” Yevrin said. “Your ground was not carried here. This is its original place.”
+That was less than the widow wanted and more than the preservation office had offered at noon. The recording lenses rose beyond the rim. On the terraces, bright public displays went dark one by one.
 
-Above the road’s end, the cliff rose through all the layers they had passed. The first brown fan contained chips of the northern mountain. Farther out, a faint line of crushed slate followed the old road’s direction for several paces, thinned, and disappeared beneath gray sediment.
+* * *
 
-“How far did you find it?” Dema asked.
+The museum offered climate-controlled rooms. The medical service offered separate housing for observation. Both offers came with excellent diagrams and too many doors that locked from outside.
 
-“Fragments along this face. Nothing intact beyond them.”
+Freight Hall Nine appeared on a logistics map only because Belkin asked where the water tanks could be reached by hand.
 
-“It climbed to the pass.”
+It was a disused concourse beyond the excavation, built for cargo transfers that no longer used wheeled loads. It had working water, visible pipe runs, high ventilation, broad loading access, animal bays, floor drains, and partition tracks where households could hang walls of fabric or board. The future officials called it unsuitable for heritage reception.
 
-“The pass eroded before the sea layer formed.”
+“Good,” said the cooper.
 
-“And the road down the other side?”
+No village vote followed. Households walked through moving images of the hall and made their own decisions. The drovers chose the bays nearest the outer doors. Aruz claimed a room with two exits and a washable floor, then crossed out _medical_ on the plan until Sevri replaced it with _care_. Several older villagers would not leave Kettlebridge that night. The east-house owner refused until she saw the new supports under her kitchen. Four adults volunteered for alternating watches at the site, and Odan agreed they would keep access as stewards, not exhibits.
 
-“Gone.”
+Others reserved the right to change their minds in the morning.
 
-Dema looked through the open side of the excavation roof. Reeds bowed in warm rain across a plain where the mountain had stood. A broad-winged animal turned above the water, too far away for her to understand its shape.
+By full dark, lifts stood ready at the access deck. A future inventory on the first cargo pallet identified Ormela's tax chest as ceremonial regalia and the cooper's adze as a dynastic emblem.
 
-Her sister’s house had been a morning beyond the second ridge. There had been a red door, a row of bee skeps, and a kettle with a handle that burned anyone too proud to use a cloth. Dema had promised to bring lamp oil. The promise felt close enough to complete. The road dust under her palm was still damp from the same evening.
+The cooper sat on the pallet. “Dynasty can carry itself.”
 
-Everyone beyond the edge had lived out a life, or lost it, before the lowest unfamiliar layer settled over Kelpass. Their children had done the same. Languages, roofs, border stones, and every road name had thinned into traces or vanished without even that.
+Odan closed his eyes for one breath. Then he stripped both labels off.
 
-Dema pressed both hands into the rut. Grief came through touch: grit under her nails, warm rain on the back of her neck, no mountain wind.
+Ormela brought out the bundle.
 
-“We saw green light over the mountain,” she said. “Can you make it happen again?”
+Not for the officials. She set a bench beside the lift and called households in the order of the lanes because the lane order was the only part of the list that helped. Each family saw its entry. Each could correct it, use it, or walk past.
 
-“No.” Yevrin sat on the walkway, leaving space between them. “We did not preserve you. We uncovered the preserved edge, but found no active device, no opening, no repeating signal. The evidence does not tell us why it happened.”
+“One loom,” Ormela said to an upper-lane household.
 
-“Can anything here take us back?”
+“Not going tonight.”
 
-“No.” Yevrin’s answer survived the translator cleanly. “I can show you every surface we have exposed. I can keep a safe path to this road. I cannot take you to yesterday.”
+She struck it from the loading sheet.
 
-Below them, survey motes moved across the cut face. They made the road’s last stones blue, avoiding a scatter of iron deep in the wall. Their fixed sweeps continued while Dema knelt above them.
+“Two adults, three children.”
 
-After a while she asked, “When your people come for the First Kingdom, what will they do with Kelpass?”
+“Two children. The eldest is staying with the animals.”
 
-Yevrin looked out at the plain. “The myth is older than Vastor Cut. People will argue. Some will come wanting the story they already know.” She rubbed dust from the end of her probe. “I can tell them what we found. I can give you access to what we found. I will not call your rooms tombs while you are sleeping in them.”
+The eldest, who was twelve, shouted from the goat pen that she was not. Her mother went to settle that without the tax reeve.
 
-“Call us Kelpass when you mean Kelpass.”
+The brewer beside Ormela claimed four casks. His wife corrected him to three and vinegar. Belkin cut the second furniture lift when a waste tank arrived late. Aruz held back a feverish man until he could travel lying down. One household declined to have its names spoken where the future clerks could hear, so Ormela marked five anonymous places and nothing more. Sevri translated weights, destinations, and consent, stopping whenever the device at her throat grew more certain than she was.
 
-Yevrin nodded.
+The polished official returned once to request a certified copy of the “royal household roll.”
 
-They crossed the culvert again before the future dusk thickened. This time Dema did not look down. Vastor Cut shone around them, each scaffold rail coming alive with small white lamps. The strata lost their colors and became enormous dark pages with Kelpass caught between them.
+Ormela handed him a blank loading tally.
 
-People saw Dema return on Yevrin’s line and came to her in twos and threes. She told them the north road ended, that the ground beneath their houses was the same, and that nothing in the excavation could open a way backward. The news moved along thresholds in broken pieces.
+“Tonight,” she said, “this is what we're writing.”
 
-By nightfall, Kelpass had made many different choices. A family whose chimney had cracked crossed onto the scaffold to sleep in a clear-walled workroom. Their neighbors barred their cottage and accepted blankets left outside. Some of the road guests climbed to the lowest viewing bridge and stared for hours at the flat horizon; others bedded down in Ulven’s stable beside the frightened mules. Future workers waited at doors until someone beckoned them across. One helped shore a roof. Another sat on a step outside a closed house, tools untouched, while an old woman questioned them through the shutter.
+He looked to Sevri.
 
-The excavation roof sealed against the rain. Its panels changed the strange sky to a muted gray, but warm wind still wandered the lanes where mountain wind had always been.
+“Loading,” Sevri translated. “Only loading.”
 
-Yevrin stopped at the tavern threshold.
+Odan accepted the sheets one lift at a time. He checked that the number aboard matched the number arriving, then gave each sheet back. Property left with the people using it. Site trays stayed sealed. The cemetery room remained under three locks, with one chosen villager and one neutral steward watching the door until morning.
 
-Ulven had recovered his cups. He had also arranged the three black casks behind the bar, perhaps because losing the world was no reason to let strangers misplace stock. He looked at Yevrin until she understood and knocked on the open door.
+There were mistakes. A crate of boots went to the animal bay. Two goats reached Freight Hall Nine before their keeper and attempted the care room. The first privacy partitions proved translucent, provoking such a storm from the upper-lane households that the future crews replaced them without asking for a heritage ruling. Supper arrived as nutrient bricks until the baker showed a logistics worker flour, salt, water, and an oven.
 
-“Come in,” he said.
+Past midnight, Ormela rode the last passenger lift out.
 
-She did.
+She stood beside Odan at the rail while Kettlebridge dropped below them. Work lamps silvered the roofs. Beyond the little island of houses lay foundation cuts, sealed galleries, and the sheer blank walls of the excavation. No dark shoulder of mountain rose behind the chimneys. No road bent toward home, because home had become the thing inside the ropes.
 
-Ulven filled one of the supposed communion vessels from the first cask. The beer came out brown, with little foam and the smell of damp smoke. Yevrin held it beneath her nose. Around her, villagers and archaeologists watched with the strained attention of people who had spent the day learning that the other side was real.
+Odan held out her tax bundle.
 
-She drank.
+“No copy,” Sevri said beside him. Fatigue had roughened her careful speech. “He says his office has no copy. The loading numbers only.”
 
-For a moment the royal sacrament defeated translation altogether.
+Ormela thumbed the cord. “The potter still owes six copper.”
 
-“Mediocre,” Yevrin said at last.
+Sevri considered this, decided it did not need to become history, and did not translate it.
 
-Ulven accepted this with grave satisfaction.
+At Freight Hall Nine, the animal bays smelled of wet straw and frightened goats. Water knocked in exposed pipes. Children slept behind mismatched opaque screens while their parents argued softly about drafts, doorways, and who had taken the good blankets. Belkin had chalked drinking times on a pillar and was adding a separate line for washing. Aruz's held-back patient had arrived and was snoring in the care room. Near the loading doors, three households were still deciding whether to stay.
 
-Dema tasted the future air coming through the door, warm and wet where autumn cold belonged. Then she pointed to the blue water cans waiting outside.
+Ormela put the bundle under the bunk assigned to her, then found that someone had rescued the vinegar cask and left the better ale behind.
 
-“Which of your water can the children drink?”
+“Mediocre,” the cooper said after a taste.
 
-Yevrin pushed the legendary beer aside and went to show her.
+“You're welcome to wait a few million years for another,” Ormela told him.
+
+He held out his cup anyway.
+
+Predawn air moved through the high vents. Ormela poured to the chalk line Belkin had marked, stopped when he rapped the pipe with his wrench, and poured the remainder back into the jug.

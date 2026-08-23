@@ -8,486 +8,340 @@ canon: false
 
 # Witch Cold
 
-Mallow Fenn had tied the warning to her doorknob with a pink satin ribbon.
+Nuala, my best friend, opened the door with a thermometer in her mouth and one boot unlaced.
 
-WITCH COLD, it said in glitter pen. LEAVE FOOD. DO NOT COME IN. THIS MEANS YOU.
+The rest of her working outfit was intact, although not at its best. The rose overskirt had been buttoned up crooked over cream shorts. One quilted sleeve was rolled to the elbow and the other was not. Her star brooch hung dark at her collar, and the gold piping she had sewn by hand made brave straight lines around a woman who looked ready to fold in half.
 
-I set down the stockpot, the pharmacy bag, and two cartons of electrolyte drink. Then I turned the card over in case she had left reasonable instructions on the back.
+I set my care case inside, shut the door, and counted: two mugs on the coffee table, three open cupboards, a glass medicine bottle, a bowl of keys, loose cushions, tissues everywhere. I had packed for a fever. I had not packed for the apartment.
 
-THIS STILL MEANS YOU.
+Nuala took the thermometer out. “Thirty-nine point one.”
 
-Behind the door, something bumped the wall.
+“Since when?”
 
-"Mallow?"
+She looked at the digital display as if it had asked the question. “Six? Woke at—”
 
-"You weren't supposed to read it aloud."
+Coral pinlights appeared in the air beside her cheek. They were each the size of a grain of rice, twelve of them in a tightening ring, too crisp and even to be reflections. A three-note chime stepped downward through the room.
 
-Her voice had the woolly, faraway quality of a radio under a blanket. I pressed the bell anyway. It played the first four notes of a song she had once sworn she would change and never had.
+I knew that signal. I did not know what came after it. Neither did she.
 
-"Don't make me come out there," she said.
+“Brace,” Nuala got out.
 
-"That threat lacks structure. Temperature?"
+The lights sharpened. She sneezed into the crook of her sleeve.
 
-"Normal."
+Every loose thing under five kilograms rose.
 
-"Specific normal."
+The mugs lifted cleanly from the table. Keys poured upward in a glittering school. The medicine bottle struck the underside of a shelf, and a cushion planted itself against the ceiling. My case stayed down because I still had one hand through its straps; its detachable shoulder pad did not. Tissues drifted around Nuala's head in slow white turns.
 
-There was a pause, a rustle of tissues, and a small inhalation cut off halfway. "Thirty-eight and a bit."
+She closed her eyes. I caught the medicine bottle between both palms before it could spin away.
 
-"How much of a bit?"
+“Forty seconds?” I asked.
 
-"Go away."
+She held up four fingers, made a fist, then did it again: forty. The words were in there; fever and congestion had put a slow door in front of them.
 
-"When did you last drink?"
+At thirty-eight seconds the keys were over the rug, the mugs over the sofa, and the bottle in my grip. At forty, gravity returned without ceremony. Two keys still found the floorboards. The cushion landed on Nuala's head.
 
-"I had an ice pop."
+She pushed it aside. “Good entrance.”
 
-"When?"
+“Sit.”
 
-The inhalation returned. This one climbed sharply. Mallow made a strangled sound as if she were trying to swallow it, then sneezed behind the door.
+“Drink.”
 
-My pharmacy bag turned inside out without tearing. Bottles, blister packs, cartoon-star fever patches, and three boxes of tissues dropped into the hall around my shoes. The bag drifted down last, its receipt now printed on the outside in mirror writing.
+“I brought both.” I opened the case. Oral rehydration packets, water, medicine, two thermometers because one was a plan and two was a system, towels, tape, rubbish bags, cooling cloths, spare socks, a compact tool roll, and the flat packet of colored cards Nuala used for noisy jobs. “I left the broth in the car. Too hot to carry through this.”
 
-At the same instant, the keys in my hand sang. Each key found its own soft note, a bright and ugly little chord, and the brass grew hot enough to sting. I flung the ring onto the carpet.
+Nuala pointed at the water. Her hand was steady enough to choose it. I poured. She sat on the floor rather than cross the field of newly landed objects, and I crouched close while she drank three measured swallows.
 
-"That reached the hall," I said.
+Her witch cold made every sneeze release one of six workings from her living magic. The selection was random. Nuala could not stop the release, delay it, aim it, choose an effect, or lean on the odds. No symptom, mood, or previous result changed what came next.
 
-"The sign was in the hall."
+Loose nonliving objects under five kilograms might float for forty seconds. One paper or textile item might bloom to four times its volume for eight minutes. Two unfastened objects under ten kilograms might exchange places. One rigid object no more than a metre across might soften for thirty seconds, then harden wherever it had been left. Twenty litres of rain might fall. Or one loose object under a kilogram might make seven copies for five minutes, after which only the original remained. Selection reached no farther than three metres and only through Nuala’s direct sight. An opaque barrier stopped it. The coral lights and the same descending three notes meant only that in two to four seconds something would happen.
 
-I crouched to rescue the fever tablets from under the stockpot. "Have the spells been reaching through walls all day?"
+I had mistaken that small warning for something reassuring when she first described it. Now I understood it as a fire alarm that declined to mention the location of the fire.
 
-"One turned the bedroom wallpaper into wet moss. One made my left shoe taste like cinnamon. One did nothing I can find yet, which is worse."
+I taped the cupboards shut. I moved the glassware behind the closed kitchen door, because an opaque barrier stopped the working from selecting what was beyond it. I shoved magazines into drawers, tied the keys to the radiator, and filled a shopping bag with every loose object I could see under five kilograms.
 
-"Open the door."
+Nuala watched me from the floor. Her drink rested between both hands.
 
-"No."
+“Bathroom,” I said. “No loose objects. Tile. Door. We put you in the bath with blankets, case by the sink, and I stay outside the three-metre range.”
 
-"Open it enough to take the drink."
+“No.”
 
-The chain slid into place before the lock turned. Mallow opened the door two inches, extended a hand through the gap, and wiggled her fingers.
+“It's the smallest closed room.”
 
-Her nails were painted with tiny constellations. Three knuckles wore thermometer marks where she had apparently fallen asleep holding one. I pushed a carton toward her hand. She missed it once, caught it against the door, and swore.
+“Yes.” She frowned at the effort of making me hear the flaw. “Small.”
 
-"Sit down," I said.
+I had already picked up the case.
 
-"Leave."
+Nuala held out her palm. I knew that sign from work nights and costume fittings: stop your hands, not merely your mouth.
 
-"You can't hold a carton."
+I stopped.
 
-"Because you bought the family size."
+She took my phone, opened the drawing screen, and sketched a narrow rectangle. A blue line for the bath. A black block for the toilet. Crosses along all the hard edges. Then she drew one red arrow at the door and trapped it under three looping circles.
 
-"It's one litre."
+“One exit,” she said. “Water. Mirror. Pipe. Hard—soft, then stuck.”
 
-"I have small hands."
+“We can pad the edges.”
 
-She tried to pull the drink through the narrow opening. The chain stopped the door, the carton stopped her wrist, and her forehead came to rest against the painted wood. For three breaths she stayed there.
+“With cloth.”
 
-I did not tell her she was proving my point. Mallow could detect smugness through plaster.
+Cloth, which might become four times its volume for eight minutes. I looked at the towels in my case.
 
-"Unhook it," I said.
+Coral pinlights pricked into view above the phone.
 
-"Absolutely not."
+The chime descended.
 
-"Then I call somebody with a key."
+“Case shut,” I said, moving before thought could catch up.
 
-"You don't know anybody with a key."
+Nuala slapped the lid closed. I snapped one latch. The second stayed open as she sneezed.
 
-"I know your landlord's number."
+The packet of tissues wedged in her overskirt pocket flowered outward. Paper pleats billowed across her lap, over my hands, up into the doorway. They did not grow longer so much as acquire impossible abundance, every folded layer shouldering four layers' worth of space. Nuala vanished behind a white wall with two rose buttons showing through it.
 
-The door shut. The chain came free. When it opened again, Mallow had retreated to the far end of the entryway and was holding the useless carton like a shield.
+“Nuala?”
 
-At twenty-nine, Mallow dressed for fever as if an audience might demand an encore. Flannel shorts and three different socks disappeared under a midnight-blue transformation skirt scattered with stitched stars. Her quilted pink mantle was fastened over a baggy sleep shirt, one shoulder ruffle folded under her chin for warmth. Her rose-gold hair, usually arranged in two immaculate spirals, had become a high, lopsided knot pinned with a crescent clip. A used tissue clung to the clip by static.
+Her hand came out, fingers spread: wait.
 
-"Put the things inside," she said. "Don't put yourself inside."
+The mass blocked the doorway and my sight of most of her body. I could have torn into it. Instead I watched the narrow gap at floor level until her phone slid through. On its screen she had drawn a green circle, then the number eight.
 
-I nudged the stockpot over the threshold with my foot, followed it, and closed the door behind me.
+Eight minutes. Stable. No rescue requested.
 
-Mallow's eyes watered with more than fever. "You can't make this safe."
+I sat on the floor outside the paper bloom. “I'm timing it.”
 
-"I'm making soup."
+Her thumb appeared from the folds.
 
-"The cold won't care."
+When the working released, the packet contracted with a long papery sigh. Half the tissues had torn along their perforations; the split packet sagged from her pocket. The shreds did not mend.
 
-"The soup might. Sit."
+I abandoned the bathroom.
 
-She threw my coat at the door. It landed in a heap where I was supposed to take the hint. I hung it on a hook and went to her kitchen.
+The disused washroom in the basement had a floor drain, bare concrete walls, a deep utility basin, and two doors on opposite sides. Nuala had taken me down there once to wash dye out of thirty metres of ribbon. I could picture the clear floor and the second exit. I could also picture two flights of stairs, a fire door, and the narrow turn at the landing.
 
-The apartment looked as though a stage wardrobe and a sickroom had collided. Starry boots lay on their sides beneath the coffee table. A silver transformation rod had been disassembled into three quiet pieces and placed in a ceramic roasting dish, well away from Mallow. Pink ribbons trailed among opened lozenges. A fever patch decorated the television remote. On the sofa, a nest of blankets had collapsed around a bucket full of crumpled tissues.
+“Basement,” I said. “If you approve the route.”
 
-Mallow followed me as far as the kitchen doorway. "Anything you touch may stop being that thing."
+She marked a green circle around the washroom on my sketch. Then she drew a red line through a stick figure lifting another.
 
-I put the metal stockpot in the sink. "Fine. Carton soup. Ceramic bowl. Plastic spoon."
+“I wasn't going to carry you.”
 
-"You brought the spoon?"
+Nuala stared.
 
-"You own six spoons and five are decorative."
+“I am no longer going to carry you.”
 
-"They're moon phases."
+She nodded and handed the phone back.
 
-"One has holes in it."
+We prepared the route together. I could inventory hazards, but Nuala knew what each working left behind and which barrier actually counted. A cupboard door shut between its contents and her direct sight was protection. A clear shower screen was not. A towel over a shelf was an opaque barrier until the towel itself became a possible target. Something buckled while soft would harden buckled. Rain ran down a drain; water trapped in a case stayed in the case.
 
-"New moon."
+I closed doors. Nuala chose what came within three metres of her. She made me take the loose cape from her shoulders, but kept her boots and dress on; the reinforced outfit was made for her work, and changing clothes would cost time and privacy she had not offered. She clipped the dark brooch more securely. It did nothing for the cold. It was hers, and she wanted it there.
 
-Her nose twitched. The joke fell out of her face.
+At the front door, I tried to shoulder the care case while holding it upright.
 
-I shoved the soup carton aside and grabbed the nearest tissues. Mallow backed away, both hands raised, as if I were the hazard approaching her.
+“Wheels,” Nuala said.
 
-"Don't," she said.
+“Unfastened. Eligible.”
 
-"Don't what?"
+“Still wheels.”
 
-"Come closer."
+I extended the handle. “You walk in front. I stay one stair below. We stop at every landing. Signal means feet wide, hands on rail, no grabbing.”
 
-"I'm putting these on the counter."
+“No grabbing me.”
 
-"Put them—ah—"
+“No grabbing you. If you ask, I support at the waist.”
 
-The sneeze bent her nearly double.
+“Elbow.” She tapped it.
 
-Every liquid in the room climbed out of its container.
+“Elbow.”
 
-The soup came first, a thick golden globe rolling up from the open carton. Water pulled itself from the kettle in a clear sphere. The medicine in a dosing cup joined the droplets around the sink, while dampness left the sponge and the dishcloth in a pair of cloudy beads. Even the condensation on the electrolyte carton peeled away and hovered like glass marbles.
+Her mouth moved in a soundless rehearsal, then managed: “And wait.”
 
-I caught the medicine cup beneath its own floating dose. The dose avoided it. I moved left; it bobbed right. Behind me, Mallow snatched the soup carton as the golden globe drifted toward the ceiling.
+“And wait.”
 
-"Lid," I said.
+The apartment fire door had swollen in its frame years before. I pulled. The care case struck the jamb, and because I was still convinced momentum was a kind of reasoning, I forced it.
 
-"There isn't one."
+The coral lights kindled along Nuala's sleeve. Three notes fell.
 
-"Plate, then."
+“Hands off,” she said.
 
-"Metal's heating."
+I let go. She sneezed.
 
-The sink had begun to hum. Cabinet handles answered it. A whisk in the drying rack vibrated against a bowl while the note rising from it sharpened, and heat wavered above the tap.
+The wooden repair block covering the jamb’s damaged lower half softened like warm wax. It was a separate piece, less than a metre long. The case rolled through, dragging a deep curve into it. I caught the case on the other side while the block sagged against its screws.
 
-I pulled a ceramic plate free. Mallow tried to herd the soup with the carton. The globe folded around her wrist, slid up her mantle, and burst against the ceiling.
+“Thirty seconds,” Nuala said. Even blurred by fever, the diagnosis was exact. “Prop. Not push.”
 
-The other liquids dropped at once. Water hammered the counter. The medicine landed in my hair. The sponge slapped the floor with all its dampness restored.
+I jammed the metal doorstop under the lowest part without trying to straighten it. When the wood hardened, the door could still close, although the gap was shaped like a tired mouth.
 
-Mallow stood beneath a slow rain of ginger broth, blinking through the drops.
+Nuala tapped her elbow. The correction cost her less breath this time.
 
-"No," she said when I opened my mouth.
+I offered my hand under it. She set the amount of weight.
 
-"I didn't say anything."
+We descended seven stairs before the pinlights returned. Their spacing, brightness, and coral color were identical. The chime sounded exactly as it had for floating mugs, swollen paper, and softened wood. No hint.
 
-"Your eyebrows made a plan."
+We braced.
 
-She took the cartoon-star fever patch from the remote and stuck it across my forehead.
+Nuala sneezed. My care case vanished from beside my ankle.
 
-I laughed. She tried not to, failed, and had to brace both hands on the doorway while the laugh turned into coughing.
+In its place appeared an empty plastic bucket that had been sitting in the landing alcove. The case struck the far wall where the bucket had been, tipped, and rolled out of sight below us.
 
-That ended the kitchen experiment.
+I lunged one step.
 
-I got Mallow onto the sofa, brought the unopened drink, and started moving the apartment around her. The silver rod stayed in its roasting dish; it had done nothing except grow hot with the other metal. The glass coffee table went behind the armchair. I lined the corner of a bookshelf with folded towels. I moved bottles to the floor and lamps away from the route to the bathroom. Her phone went on a cushion beside her thigh. A wastebasket went on the other side, along with tissues and the thermometer.
+Nuala's hand closed on the back of my jacket. Not strong, but deliberate.
 
-Mallow watched me over the rim of the drink carton.
+“Imogen. Wait.”
 
-"Coat," she said.
+The case was no longer within reach. Nothing was falling. I looked at her, not it. She showed me two fingers and pointed down: two of us, then the route. She was right. One went nowhere alone.
 
-"Hook."
+We took the landing together. The case lay against the lower wall with both latches closed. Its medicine had survived because Nuala had closed the lid before the paper bloom and I had finally remembered to fasten the second latch.
 
-"Your coat. Door. You in it."
+I retrieved it. She watched my feet.
 
-"Drink."
+The next warning came at the second landing, three minutes later. We planted our boots and waited. Nuala's sneeze brought twenty litres of rain down inside the stairwell.
 
-She drank because it used less energy than finding a better insult.
+It arrived all at once, straight and cold. Water slapped my shoulders, sheeted over Nuala's rose skirt, and ran down the steps. The case seals held. The landing did not become less tiled because I disliked it.
 
-I used a roll of costume ribbon to mark a broad path across the rug. Nothing breakable, sharp, hot, or tall within arm's reach. Nothing on the path that could trip her. The sofa had pillows on the floor around it. The soup stain remained on the ceiling, but that was a morning problem.
+I dragged the bucket close and used it to push water toward the stair drain. Nuala stayed against the wall where she had direct sight of my hands and both routes out. She raised a closed fist when I moved too fast, opened it when the next tread was clear, then counted each step with her fingers. No speech wasted on what we could see.
 
-"There," I said. "If the next one lifts liquids, they're capped. If it throws objects, they're low. If it heats metal—"
+At the basement door I asked, “Breathing?”
 
-Mallow sneezed into her mantle.
+She rocked her hand: not good, not worse.
 
-The humming came from the screws in the walls this time, warm notes traveling around the room. Nothing else appeared to happen.
+“Dizzy?”
 
-Then my shadow detached from my feet.
+One finger: a little.
 
-It crossed the rug, climbed the sofa, and settled beneath Mallow like a dark blanket. Her shadow slid down the cushions, hurried over the ribbon path, and attached itself to the standing lamp. The lamp acquired the delicate profile of Mallow's ruffles. The wastebasket wore the shadow of a houseplant. None of the objects moved; only their silhouettes had been dealt elsewhere.
+“Can we continue?”
 
-Mallow pointed down at my shadow tucked under her knees. "Tell it about the ribbon."
+Green card.
 
-"Shadows can't trip you."
+It was the first card she had taken from the packet in my case. She held it in front of her chest until I nodded. Then she put it in my palm, because she had no spare pocket now that the tissues had destroyed theirs.
 
-"The first bag couldn't either."
+The washroom was as empty as I remembered, which was not empty enough. I moved a mop, two bottles, a wire basket, a stool, and a cracked plastic bin through the far door. I fastened the basin taps with cable ties so they were no longer loose. I taped an opaque rubbish bag over the shelf of cleaning supplies. I checked both doors opened freely.
 
-"That isn't—"
+Then I placed my care case beside Nuala's chosen wall and unlatched it.
 
-She hauled my coat off its hook and pushed it at my chest. "Out."
+Her expression changed.
 
-I caught it. "You just fell against the door."
+“Everything here,” I said. “One supply point. I can reach you and the case from either door.”
 
-"And I didn't turn anyone into a beetle doing it."
+She pointed to the three-metre tape measure in my tool roll.
 
-"You don't know what you turned anything into."
+“The case stays with me.”
 
-"Exactly."
+Nuala took the blue, yellow, red, and green cards from me. She laid blue beside the water, yellow beside medicine, red on top of the case, and green near the far door. Then she drew the room on my phone: Nuala in the center, a ring around her, supplies separated outside it. Two arrows entered from opposite doors. Inside the ring she drew only a mat, one covered cup, a small towel, and her repair roll.
 
-She pushed again, but her weight vanished from the coat. I lowered it and found her very still, chin lifted, fingers pressed hard beneath her nose. Her ribs jerked once under the quilted mantle. She swallowed. The color drained around her mouth.
+“If rain hits everything—” I began.
 
-"Stop that," I said.
+She tapped the red card.
 
-She shook her head.
+“All right. But medicine outside means a handoff.”
 
-Another hitch. She squeezed her eyes shut until it passed, then folded over with her hands on her knees.
+She held up two fingers and pointed at the doors.
 
-The coat dropped between us.
+Two handoff routes.
 
-"How long?"
+I heard myself say, “Splitting the kit doubles the retrieval points.”
 
-"Don't."
+Nuala shut her eyes, either from fever or because I had used a sentence like that while she was sitting wet on a basement floor.
 
-"How long have you been holding them back?"
+I gave her the phone. She typed with both thumbs and turned the bright screen toward me.
 
-Mallow wiped her eyes with the heels of her hands. "Since lunch. On and off."
+ONE CASE = ONE WET CASE.
 
-I put the coat on the floor. "You said the last one was twenty minutes ago."
+Then, beneath it:
 
-"It was. They come back."
+YOU CAN WALK.
 
-"So swallowing it doesn't stop the spell."
+I had arranged the room around my reach, as if the only capable body in it belonged to me.
 
-"No. It makes me not sneeze while you're standing in front of me. Move."
+I moved the water through one door and the medicine through the other. Towels went on a high shelf behind an opaque cupboard door. The tool roll stayed with Nuala because she chose it. We taped a three-metre ring on the floor, leaving both exits open. On my phone, I made four full-screen colors she could call with a tap: blue for water, yellow for medicine check, red for stop, green for ready. On hers, she drew six plain icons for the possible effects, not as predictions but as after-the-fact diagnoses when words failed: arrows up, a widening square, crossed places, a bent line, rain, and eight small circles.
 
-She reached for the sofa and missed. I caught the mantle at her elbow, taking cloth instead of skin. She hated that. She also leaned on my arm all the way down.
+The nurse answered while I wrung stair water out of my sleeves. Nuala nodded before I put the call on speaker. I reported the temperature, when she had last taken the medicine named on its label, how much she had drunk, and that she was alert but congested. I did not ask the nurse to solve magic. The nurse asked ordinary questions about breathing, chest pain, confusion, keeping fluids down, and worsening fever. She told us what changes meant urgent help, to follow the labeled dose, offer small frequent drinks, and keep Nuala comfortably cool rather than chilled.
 
-"Bathroom," I said.
+Nuala answered what concerned her body. “No chest pain. Breathing... nose. Water stays.”
 
-"Front door."
+When the call ended, I held up yellow. Nuala checked the time herself and nodded. I brought the medicine to the edge of the taped ring, set it down, and backed away. She took it, swallowed it with water, and returned the cup to the same mark.
 
-"Bathroom has tile and a tub."
+For eleven minutes, nothing happened.
 
-"And pipes. A mirror. A tap. You."
+The fever did not break. Sweat darkened Nuala's hair at the temples. She sat on the mat with her back near, but not against, the concrete wall. I crouched beyond the ring and counted the intervals between her sips instead of touching the case, because the case was now in two cupboards and three stations and was functioning better for it.
 
-"Fewer loose things."
+Coral lights appeared over her knees.
 
-"There will still be you."
+The three-note chime descended.
 
-Her voice cracked on the last word. She tugged the mantle free and covered her face with both hands.
+We moved through the routine we had built. Feet planted. Hands clear. Eyes on Nuala until the working declared itself.
 
-I stopped building the reply. I picked up the phone, the drink, and two towels.
+She sneezed.
 
-"I'm clearing it," I said. "You can sit by the door until I'm done."
+The small rubber drain guard made seven copies. Eight identical black discs sprang across the concrete. Two landed on the drain, overlapping it. Another rolled beneath Nuala's skirt. She pointed to the icon of eight circles, then to the timer on my phone, and held up five fingers.
 
-"I said no."
+Five minutes. Only the original would remain. I marked the original with chalk where it lay and used a broom from outside the room to nudge all eight clear of the drain. Nuala watched the broom head, correcting me left and right with small motions. When the copies disappeared, the chalked guard remained. The scuffs from pushing them did too.
 
-"I know. It's what I'm doing."
+Four minutes later, the warning repeated.
 
-Mallow swore at me without lowering her hands. It went on long enough for me to empty the bathroom shelf into the hall.
+“Ready?” I asked.
 
-I took out the razors, bottles, glass jar, hairpins, soap dispenser, scale, and the little chrome stool Mallow used when repairing hems. I spread a towel in the dry tub and another on the floor. The plastic drink went beside the tub. Her phone went face-up on the bath mat. The only loose object I left near the sink was a broad ceramic cup, because I had started thinking in terms of shelter.
+Green shone on Nuala's phone.
 
-Mallow arrived wearing my coat over her mantle. She had evidently decided that if I would not use it, she would. The sleeves hung past her hands.
+She sneezed, and the flowered cooling cloth beside her opened into a soft, monstrous acreage. Its printed roses became broad as plates. It climbed the basin and curtained the near door, cutting off my sight of her.
 
-"You moved my toothbrush," she said.
+I went to the other door. That was why it was open.
 
-"Hall. Blue towel."
+Nuala sat behind the cloth with one hand gripping the mat. She showed red until the fabric stopped shifting, then pointed to the widening-square icon. Eight fingers, shown in two groups of four. Her breathing had gone too rough for speech.
 
-"My good hairpins?"
+I stayed at the second door. The cloth was not hurting her. It was only between us, and only from one direction. I held up blue. She shook her head. I held up green as a question. After a moment, she answered green.
 
-"Roasting dish."
+At the fever's peak, the intervals shortened. The pinlights remained identical. The chime remained useless for anything except those few seconds of preparation.
 
-"My dignity?"
+Loose tools floated next. Nuala's shears, a spool, two clips, and the little steel awl rose from the mat. We kept our hands down. The awl drifted point-first into the plastic light cover and cracked it with a sound like ice under a shoe. I flinched toward her. Nuala flung up red.
 
-"Didn't see it."
+No grabbing.
 
-She almost smiled. Then she put one hand on the wall.
+For forty seconds the tools pressed and wandered near the ceiling. Then they fell onto the mat and concrete. Nuala covered her head with her arms. I waited for the last clip to stop bouncing before I entered. The light cover held, split but not shedding pieces. I switched off that fixture at the wall and moved the tools out by their roll once Nuala showed green.
 
-I climbed onto the sink counter to shove the ceramic cup farther from the edge. "Tub or floor?"
+The next sneeze softened the rigid splash guard I had clipped to the utility basin. It folded under a shallow pool of rainwater left in the basin, drooping across the drain. Nuala pointed to the bent-line icon and held both hands out: don't correct it while the working lasted. We let the water pull it crooked. Thirty seconds later it hardened that way, useless but stable.
 
-"Floor. I don't want to climb over—"
+“My guard,” I said.
 
-Her breath snagged.
+Nuala coughed into her sleeve. “Your... excellent guard.”
 
-Mallow covered her nose with the coat sleeve and turned her face toward the bare wall. I planted both hands on the counter and stayed where she could see me.
+It was not a quip so much as accurate ownership. I had added the thing after she approved the room because I could not leave a clear basin alone.
 
-"Wait," she gasped.
+“Repair list,” I said, and wrote it down.
 
-I waited. The sneeze did not.
+She tapped blue.
 
-The bathroom surged outward around me. The faucet became a silver tower. Grout lines widened into pale roads. The weave of the hand towel thickened into ropes, and the counter edge retreated beneath my knees.
+I brought water from the far station. Halfway to the ring, coral lights lit the drops on the cup. The chime fell through its three notes.
 
-I was the thing shrinking.
+I set the cup down where I stood and braced.
 
-My shoes lost their purchase. I slid over the edge before the thought had found words.
+Nuala sneezed. The covered cup and a folded rubbish bag exchanged places. Water struck the floor from inside its lid, a hard splash but not a spill. The bag appeared at my feet. Neither object had been fastened; both had been in her direct sight, less than three metres away.
 
-Mallow crossed the bathroom in two steps and caught me against her chest.
+I looked at the cup. Then at Nuala.
 
-Her hands closed around my back and legs, warm enough to feel through my clothes. Her heartbeat knocked against my shoulder. Above me, her fever-flushed face filled the world; wet lashes, chapped lip, one star clip hanging by three strands of hair.
+She pointed to the crossed-places icon. Her hand wavered, fell to her knee, and stayed there.
 
-"Say something," she whispered.
+“Can I come in?”
 
-"Your thumb is on my ribs."
+She looked at my green screen for several seconds. Then she nodded and pointed to her elbow.
 
-She moved it so fast I nearly fell between her palms.
+I entered without rescuing the cup. I offered my forearm under hers. Nuala decided the pressure, used it to shift onto her side, and let me place the small towel beneath her cheek. She was shivering now. I fetched a dry blanket from behind the opaque cupboard door, held it up for her to see, and waited. Green.
 
-"Not that much."
+The blanket stayed folded below her shoulders so it could not pin her if it bloomed. I checked her temperature. Lower by two tenths, which was not a cure and was not nothing. She drank from the displaced cup after I brought it back. We darkened the uncracked light. I put the prescribed interval into my phone and showed her before setting the alarm.
 
-"Sorry. Sorry."
+The next quiet lasted eighteen minutes.
 
-I was perhaps six inches tall. My clothes had come with me, including the fever patch still stuck to my forehead. Mallow's coat button was the size of a serving plate. The sink counter now stood above us like a white cliff.
+Her breaths became easier through her mouth. The fever still made her face too bright, but she tracked the blue card when I raised it and chose two swallows. Light, card, screen, hand, and sound carried the parts of the work that speech could not.
 
-Mallow lowered me into the ceramic cup on the floor. The cup had no handle, which had seemed like sensible clutter reduction and now felt like excellent foresight. I climbed onto the folded corner of a towel to see over the rim.
+Coral pinlights gathered once more beside her shoulder.
 
-"Phone," I said. "Put it closer. And cap the drink. We need something over the cup, but not sealed, and move away from the mirror, and if the next one changes scale again—"
+Three notes descended.
 
-Mallow turned her head sharply. Her nostrils flared.
+Nuala opened her eyes. She planted both palms. I stayed beyond the ring with the doors clear.
 
-"Tissue," I said. "Left pocket. No, your other—"
+She sneezed.
 
-She jammed the coat sleeve over her nose. Her whole body tightened. The phone slipped from her hand and struck the bath mat.
+Twenty litres of rain fell inside the washroom. It drummed on the concrete, darkened the rose and cream of her dress, rinsed chalk from the drain guard, and poured away through the open grate. Water escaped beneath both doors. The medicine was dry in its cupboard. The spare towels were dry in theirs. The covered cup stayed upright.
 
-"Don't hold it," I said.
+Nuala wiped her face. She looked at the blue card, then at me, and raised one finger.
 
-She shook her head hard.
+One drink.
 
-"Mallow, you're going gray."
+I brought it to the tape. She drank, passed the cup back, and pointed to the mat. Then she held up green.
 
-One hand groped along the wall. She could not answer. I called her name again, louder, which at my size amounted to a determined squeak.
+I dried the floor beyond the ring first so I would not slip if she called. I put the next measured drink outside the three-metre line and made its position a blue square on both our screens. I propped the fire door open with a second stop, set alarms for water and temperature, and started the repair list: light cover, basin guard, jamb, tissue packet, washroom floor, stair landing, dress hem. Upstairs would wait until she could choose the route back.
 
-She sank to her knees. The metal pipes under the sink had cooled, but my feet still tingled with the last chord. I had no way to lift the drink carton, drag the phone, steady her, or reach the lock. Every arrangement I had made was now too large for me to operate.
-
-"Where do you want me?" I asked.
-
-Mallow opened streaming eyes. She pointed at the space beneath the sink.
-
-"Cup there?"
-
-She nodded.
-
-"Do it."
-
-She hooked one finger over the rim and dragged the cup under the sink's deep porcelain overhang. The motion knocked me onto the towel. When I stood again, she was pushing the phone toward me with both hands. She left it flat on the bath mat, screen awake, its lower edge against the cup.
-
-"Can you see me?" she managed.
-
-"Yes."
-
-"Stay there."
-
-"If you fall?"
-
-She nudged the capped drink with her heel until it rested beside her knee. "I'll kick that. Noise."
-
-"All right."
-
-"Don't run out."
-
-"I can't run very far."
-
-"Promise."
-
-"I'll stay in the cup."
-
-Mallow pulled the sleeve away from her face. The trapped sneeze rushed back so quickly that she barely turned aside.
-
-The shower curtain disappeared.
-
-In its place, hundreds of soap bubbles filled the room. They were thumb-sized to Mallow and enormous to me, bright with oily colors, bobbing off the tub and ceiling. Each time one struck a surface, it asked in a brisk little voice, "What time is it?"
-
-The pipes heated and began their humming chord.
-
-"What time is it?" said a bubble against Mallow's forehead.
-
-She sat down hard beside the tub. "No."
-
-Three bubbles bounced off the mirror. "What time is it? What time is it? What time is it?"
-
-One rolled over the cup's rim and landed beside me, wobbling at eye level. "What time is it?"
-
-"Bad," I told it.
-
-Mallow laughed once, a weak bark that turned into another laugh. I joined her. The bubble bounced against my shoulder, repeated its question, and burst over both of us with enough soapy water to flatten my hair.
-
-Nothing about that spell was kinder than the one that had shrunk me. The cold had happened to give us nuisance instead of disaster. Mallow still checked the room before she moved. I stayed inside the cup while the metal cooled. When she could grip the tap without burning herself, she refilled the plastic tumbler, drank half, and lowered a bottle cap full of water to me.
-
-The bubbles kept asking the time. Mallow answered the first twelve with different lies, then began flicking them into the tub.
-
-The rest of the night refused to become a pattern.
-
-Each discharge warmed the nearest metal into a new, unhelpful chord.
-
-One sneeze made every right angle in the bathroom gently round. The phone rolled off the softened bath mat; Mallow trapped it beneath her bare foot and waited for the grout to straighten again. The next spell turned the contents of the wastebasket into pink moth-shaped paper scraps. They did not fly. They merely covered the hall and stuck to the wet soup tracks while the screws in the door hinges sang warm alto notes.
-
-After midnight, anything blue began to leak clean water. Mallow's starry skirt wept through the stitched constellations. The folded towel in my cup soaked me to the waist. The blue stripe on the toothpaste box outside the door produced a steady thread that ran under the baseboard. We moved only what we had to and endured the rest until the water slowed.
-
-A later sneeze made the ceramic cup smell exactly like toasted coconut and did nothing we could find to its shape. That worried Mallow more than the bubbles. She examined me from arm's length without touching, then crawled back to the tub and shut her eyes.
-
-Between discharges she told me when the tickle started. I got behind the rolled edge of the towel. She put one hand on the capped drink, not to wield it, only so she would not have to search for it while dizzy. Sometimes the spell was ridiculous. Sometimes it was only obscure. None of them reversed my size, dried the floor, returned the shadows, or gave Mallow a single choice about what came next.
-
-Near dawn, she lay down in the dry end of the tub with my coat under her head and her damp mantle pulled over her legs. I put the phone between the cup and the tub, microphone toward me. The last sneeze changed the bath mat into a patch of ankle-deep clover that smelled strongly of pencil shavings. Warmth ran through the pipes. Their notes softened one by one.
-
-Mallow slept before the final note ended.
-
-I watched the clover for movement, counted her breaths until I lost count, and curled up in the towel with the phone's flashlight on low.
-
-Morning made the bathroom look less magical and more expensive.
-
-Gray daylight showed the water swelling the baseboard. Paper moths had pasted themselves to the hall floor. The swapped shadows still lay in the wrong places, thin in the early light. Mallow's fever had broken; she sat in the tub with one eye open and a thermometer drooping from her mouth.
-
-She read it, drank, and waited.
-
-"How long?" she asked.
-
-I walked across the phone screen to wake it. "Two hours, forty-one minutes."
-
-Mallow rubbed beneath her nose.
-
-"Don't."
-
-"It itches."
-
-"Scratch it. No experiments."
-
-"I wasn't going to force a sneeze."
-
-She lowered one finger slowly from her nostril, which was evidence against her.
-
-Her eyes found the cup. They stopped on me. In daylight, my six-inch condition had become harder to mistake for temporary perspective.
-
-"Can you move everything?" she asked.
-
-I bent my knees, raised both arms, and turned around. "Everything attached."
-
-"Any pain?"
-
-"Bruised dignity. Damp socks."
-
-Mallow pulled the towel from around her shoulders. "I'm calling someone."
-
-"After you eat."
-
-"Now."
-
-She stood too quickly, caught herself on the tub, and glared at the room as if it had contradicted her.
-
-"Soup," I said.
-
-"Phone."
-
-"Your hands are shaking."
-
-"You're the size of my hairbrush."
-
-"A travel hairbrush. Soup."
-
-Mallow considered ignoring me. Instead she put the phone into her coat pocket, lifted my cup with both hands, and carried me to the kitchen.
-
-The trip gave me a high view of the damage. Ginger soup striped the upper cabinets. Water beaded under anything blue. My shadow remained under the sofa, while Mallow's ruffled silhouette followed the standing lamp. The metal had stopped humming, but she tested the kettle handle with the back of one finger before touching it.
-
-She heated fresh soup in a ceramic bowl. While it cooled, she spread a dry yellow towel on the table, laid the phone flat within my reach, and set the lamb-tissue box on its side behind me as a windbreak. Then she poured soup into a bottle cap.
-
-The cap was too full. When I tried to lift it, broth slopped over my hands.
-
-"Half," I said.
-
-Mallow tipped some back into her bowl. She broke a cracker into pieces small enough for me and pushed three across the towel with one constellation-painted fingernail. Only after I started eating did she unlock the phone.
-
-"Call first," she said. "Then towels. Then the ceiling."
-
-"Your hair has soup in it."
-
-"Ceiling first, then."
-
-"Call."
-
-She tapped the number, set the speaker beside my tissue-box shelter, and wrapped both hands around her own bowl while it rang.
+Nuala slept in her wet, brave, handmade gold piping while the coral lights stayed gone. I sat between the two open doors, close enough to see her phone change color and far enough to leave both ways clear.

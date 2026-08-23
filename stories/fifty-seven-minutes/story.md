@@ -8,378 +8,494 @@ canon: false
 
 # The Tide Will Have Her Answer
 
-The town had saved Hesrata Ulbray for the last joke.
+The crown was old caulking rope, tar-black and stiff enough to scrape Orselle Vuret's brow when they pushed it down over her gray hair.
 
-At dead low water, they led her down the weed-slick steps in a procession of cracked drums and children wearing paper fins. Fishing boats lay propped in the basin with their bellies exposed. The harbor’s remaining water threaded between them in channels too shallow for anything larger than a crab. Above, from every rail and windowsill, people called advice to the woman who had once charged them for hers.
+Someone had tied seven limp ribbons to it and stuck a bent copper nail through the front. Mallowbreak laughed because launch-day misrule required laughter, and because their god of sound workmanship could enter the shipyard by no other title.
 
-“Mind the step, Shipwright.”
+"Mind the sacred tar," called a cooper from the launch apron. "It might improve her judgment."
 
-“Check it first. She does her best work where no one can see.”
+That laugh came harder.
 
-Hesrata kept her eyes on the crown. It waited on a three-legged stool at the bottom of the steps: braided rushes, green with damp, hung with nine copper offcuts from old keels. The thing was wide enough to shade a turnip field. Each summer, during the lowest tide, the town crowned somebody god of the harbor for fifty-seven minutes. The chosen fool heard petitions, issued useless blessings, and then waded out from the old landing to be made mortal again.
+Orselle stood outside the white boundary scored across the yard gate. Four years ago, the harbor court had struck her master's seal from the register and barred her from every working cradle in town. She had deserved both punishments. Repetition had not improved the joke.
 
-In other years they had picked a pompous cooper, a cheating card player, a magistrate who hated mud. This year the drums stopped in front of Hesrata.
+Rulik Saal watched from beside the new herring boat's bow, wearing the yard foreman's blue sash. When the rope crown went around for each volunteer to touch, he folded his arms.
 
-The fish seller pushed the crown over her short white hair. A rush point stabbed behind her ear. Copper clicked against her brow.
+Sileth Nemm, keeper of the rite, rapped a driftwood staff against the stones. "If you're going to do it, do it in order. Mockery doesn't excuse bad observance."
 
-“Kneel if you like,” he said. “The words work either way.”
+"That's why we chose Vuret," somebody said.
 
-The crowd enjoyed that. Hesrata remained standing.
+"Quiet while I read."
 
-The fish seller raised both hands, and the town recited the old fooling with him.
+At Sileth's feet stood the brine clock: seven green-glass vessels on a cedar rack, each sealed until she turned it. Together they measured fifty-seven minutes. Orselle had repaired the rack when she was still welcome here. The third vessel always dripped down its left side in wet weather.
 
-“We set you above us. We give you the basin and the bar. We put the harbor under your word. For fifty-seven minutes, its depth is your depth, its creatures your company, its labor your care.”
+Sileth set her hand on the first glass. "Those present and willing, attend. Within the harbor stones, we lend the crowned one our notice. We lend the crowned one our obedience in the work of launching. We lend the crowned one the harbor's right to order what bears upon the water."
 
-People bowed so low they could watch one another grinning between their knees.
+It was children's solemnity in old clauses. Yet the laughter thinned. Caps came off. Even the cooper lowered his mug.
 
-On the quay, a girl pulled the wooden stop from the festival clock. Water began to drip from a glass vessel into a copper measure scored with fifty-seven lines.
+Sileth looked straight at Orselle. "Do you bear it until the last brine drains?"
 
-“And at the last line?” the fish seller prompted.
+Orselle's tongue tasted suddenly of deep water.
 
-“The tide takes back the crown,” the town called, “and the fool takes back her blood.”
+That taste had lived under everything for eighty-six years: breakfast, fever, blood, the lie beneath her seal. Usually it was salt at the back of her mouth and weight moving beyond walls. Now it filled her lungs.
 
-Hesrata looked for Dennet Hurnick despite herself. He stood beyond the crowd under a careening frame, testing a newly tarred rope with his thumbnail. Her former apprentice had come to work. He gave no sign that he had heard her name or the laughter attached to it.
+"It's a rope," she said.
 
-Somebody on the quay shouted, “A blessing for sound ferries!”
+Sileth waited.
 
-Three years had not dulled that particular edge. Hesrata felt the old pain flare through the knuckles of her right hand as she closed it. The two smallest fingers of her left stayed numb. No yard would hire a shipwright who had hidden a bad joint; no owner would let one inspect a hull; no apprentice with sense would meet her eye.
+The crowd did too. They were choosing to attend. Not forgiving her, but seeing together the thing they had named.
 
-The crown’s copper tabs knocked together when she turned toward the harbor mouth.
+"I bear it."
 
-Once, at a launch, she could clear a slipway with a command that reached through hammering, surf, and a hundred anxious voices. She used that voice now.
+Sileth turned the first glass.
 
-“Water. Off the ways.”
+Across the apron, a ballast lighter rolled against its fenders. Its port side was low; three men shifted iron pigs on deck while a squall pressed past the sea wall. A fender spat free. The lighter leaned toward the new boat.
 
-The channels vanished.
+"Hold her," Orselle snapped.
 
-They did not sink into the mud. They fled. Water peeled away from stone, posts, stranded hulls, and Hesrata’s boots in one flat withdrawal, gathering speed toward the bar. Little waves ran backward over one another. Fish flashed on the uncovered bottom. A skiff dropped the width of a hand onto its bilge blocks, and a hundred loose ropes slapped the mud at once.
+The harbor rose beneath the lighter like a hand.
 
-Outside the harbor, the departing water did not rejoin the sea. It climbed.
+Not a wave. Waves moved. This water shouldered upward under the listing hull and held it level while the men stumbled.
 
-A blue-black bank rose along the outer bar, smooth-faced and taller with every breath Hesrata forgot to take. Sunlight passed through its upper edge. Nets, weed, and a yellow float hung inside it as if in glass.
+The first glass ticked brine into its cup.
 
-The laughter had ended before the fourth mark filled.
+"Nobody speak to the water," Ossa Keld said.
 
-Hesrata knew the exact moment the harbor became dry. The knowledge arrived through her feet, then spread farther than flesh had any right to spread. She felt the stored water bearing down on sand beyond the bar. She felt brine caught in a thousand seams, damp oak swelling around nails, cold seepage beneath the west wall, and each frantic fish striking the puddle that held it. The basin joined itself to her in pressures and surfaces. It was larger than any yard plan and clearer than one.
+The harbormaster did not shout. She had a way of placing a sentence where panic would trip over it. "North-quay lead, clear the apron. Two routes: kiln stairs and net lane. Tell me when each is empty. Rulik, get those men off the lighter. Vuret, say exactly what you're doing."
 
-Her hand no longer hurt.
+Through her boots Orselle felt forty-three tons of hull and iron, supported at the wrong angle by attentive water.
 
-Hesrata pressed her fingertips beneath her jaw. There was no pulse. When she held her mouth shut, her lungs asked for nothing.
+"Keeping the lighter's port bilge level with the black quay ring," she said. "Nothing else."
 
-“Don’t call it back.”
+The water adjusted a finger's width. A woman near the clock swore.
 
-Dennet had crossed half the basin before she noticed him. His boots sank to the welt. He carried the tarred rope over one shoulder and kept watching the wall of water.
+"Received," Ossa said. "Keep that condition. Rulik?"
 
-“I know where I put it,” Hesrata said.
+"Men coming off. Leave the iron. No, leave it. Your foot first."
 
-“Do you know where it goes if you say return?”
+Sileth had gone pale. She crouched beside the cedar rack, thumbing through the stitched leaves of her rite book.
 
-The thought had already formed. The bank leaned inward. Its shadow slid over the outer flats.
+"Find the ending," Orselle said.
 
-Hesrata closed her teeth on the command. The water steadied, but not before one dark shoulder curled above the harbor entrance.
+"There are three endings. One is for rain."
 
-Dennet pointed at it with the rope’s spliced eye. “How much do you want back?”
+"Not that one."
 
-“Enough to wet the basin.”
+"I had gathered."
 
-“How fast?”
+The first vessel gave a hollow gulp. Sileth turned the second.
 
-She looked at him. “You’ve become tiresome.”
+They tested the command with an empty punt. Orselle told the water under its bow to rise the breadth of Ossa's thumb, then settle. It did both. She said, "Let go," meaning the punt, and every north-quay mooring jumped slack while the water drew an inch from the wall.
 
-“You taught me to ask where the load goes.”
+"Not that phrase again," Ossa said. "North quay, retie the fish boats. Confirm each one."
 
-Something struck the far side of the water bank. Through the pressure spread over Hesrata’s new vast body, she caught the shape of a hull: rounded bow, hard starboard lean, stern gear wedged in sand. A harbor workboat had been outside the bar when she emptied the shallows. Three living weights crowded its high rail. The stored sea pushed against its seaward flank. If she released the bank, the first weight of water would roll it.
+"It obeys the noun it can supply," Orselle said. Her own voice sounded thin beside the pressure in her chest. "And the widest measure allowed by my words."
 
-Dennet saw her attention change. “What?”
+"Then use more words."
 
-“Workboat on the outer flat. Three aboard.”
+Rain freckled the apron. Beyond the harbor mouth, the storm darkened the sea to hammered lead. The new herring boat waited on its greased ways while the tide pressed against the outer stones.
 
-He squinted past the entrance piles. The hull showed only as a brown sliver beneath the impossible blue wall. “Can you put water under it without putting the wall through it?”
+Rulik came off the lighter last. "Port bilge's clear."
 
-“Yes.”
+Orselle released the support. The hull rolled once, less than it should have, and found its fenders.
 
-“That answer killed a man last time.”
+"That was you?" he asked.
 
-Hesrata turned on him. He did not step back.
+"Apparently."
 
-The ferry had not failed from one fault. Its owner had loaded late cargo above the marked limit. The pump had been coughing for weeks. The captain had taken it into weather that turned two other vessels home. But Hesrata’s after-keel scarf had been cut shallow, and she had fitted a sliver of oak into the gap, pitched it black, and signed her chalk across the joint. When the wreck came apart, Dennet found the false piece still wearing her adze marks. He set it on her bench in front of the inquiry men.
+"Don't do apparently with a harbor."
 
-One deckhand had not come back.
+She almost reminded him whose rule that had been at nineteen. The cruel words stayed behind her teeth.
 
-Hesrata looked toward the stranded workboat. “Tell the clock keeper to call every fifth mark.”
+At the drydock, crews were trying to close the inner sluice before the squall drove weed into its guides. Three orders crossed at once.
 
-Dennet cupped his hands.
+"Haul east!"
 
-“Don’t shout over the mud,” she said. “Speak to the puddle.”
+"Ease the gate!"
 
-He glanced down at a silver runnel beside his boot. “Keeper. Call the fives.”
+"Which line, damn you?"
 
-His voice repeated from every wet edge of the basin. It came faintly from hull seams and fish pools, from the channel beyond the bar and the high wall itself. People on the quay jerked away from the water. The clock keeper stared at Dennet, then nodded.
+Orselle saw the sluice rope snarl around a bollard and a boy step inside the bight. "Run it clear past the red stones!" she shouted, pointing beyond him.
 
-Dennet watched his last word travel from the hulls. “So anything wet may carry us.”
+The boy dropped flat.
 
-“Once, as far as I can tell.”
+The rope did not move.
 
-“Then keep your orders plain. The crew can hear them.”
+The whole incoming tide did.
 
-Hesrata walked out across the mud. She no longer tired. Suction tugged at her boots, but her thighs did not burn and her back gave no warning when she jumped a drainage rut. Dennet followed more slowly, using the coil of rope as a staff.
+Water fled the drydock, quays, and fishing slips. It poured between the sea walls and climbed beyond the two red boundary stones in one gray slope. Boats struck mud. Moorings cracked taut. Where the storm surge met the banished tide, a ridge began to grow.
 
-At the tenth mark, Hesrata drew water from the bank in a narrow stream. She gave it a depth of one foot and the width of two shoulders, then sent it along the eastern edge of the flat where the ground rose firm. The sea obeyed the intended measures, not merely the words. Its first brown tongue brought weed, shells, and a scattering of finger-length fish.
+The second glass emptied while everyone stared at the harbor floor.
 
-“Broader,” Dennet said.
+"I meant the rope," Orselle said.
 
-“The boat needs depth.”
+Ossa looked once at her pointing hand. "Meaning isn't in the order. All crews, treat Vuret's voice as live tackle. Repeat before acting. Vuret, no pronouns. No pointing."
 
-“And I need two feet of firm water on this side, or I’ll sink to my knees.”
+From the fish quay came a man's call: "My boat's on her side!"
 
-Hesrata widened the stream on their side. Water lapped around their ankles without crossing the invisible bank on the right. Stranded fish thrashed in warm hollows across the exposed basin. She cut branching rills toward them as she walked. The little bodies entered her awareness one by one, panicked taps against her will. Gulls landed at the rill edges and made furious use of the miracle.
+"Leave it," Ossa answered. "People before hulls. Kiln stairs?"
 
-“Fifteen!” the keeper called.
+"Clear to the cooperage," the lead called back. "The goose keeper won't leave his birds."
 
-The word reached Hesrata first through the water around her feet and a blink later through the air.
+"Take him. Open the pen. The geese can dislike us from higher ground."
 
-The workboat lay heeled twenty degrees to starboard, its keel buried to the lower planks. One crew member had blood drying down his cheek. Another held a boathook as though Hesrata might need to be fought off.
+Sileth turned the third glass with wet fingers. "The water hasn't gone."
 
-“Get us level,” the third called. “The pump barrels have gone against the rail.”
+Orselle did not need to look seaward. Displaced weight leaned against her ribs. The storm kept feeding it beyond the harbor mouth until it found another route.
 
-“Don’t shift them yet,” Hesrata said. She crouched beside the bow and laid her left hand on the planking. Touch was unnecessary, but her body had spent forty years asking wood through the palm.
+An inhabited cove lay east. A smaller one lay west. Both sat lower than Mallowbreak's upper street.
 
-The water in the stern seams gave her the boat from within. The starboard garboard was soft around two fastenings. The sternpost had been patched with iron straps. A length of anchor chain lay buried under the port quarter, and the screw’s cage had bitten deep into sand.
+"How long can you hold it there?" Ossa asked.
 
-“Two bearings,” she said. “One forward of the soft plank, one beneath the port quarter.”
+"Until the order ends or something else takes the load. The head is already walking along the coast."
 
-Dennet dropped the rope. “Area?”
+"Toward people?"
 
-“Five feet by three.”
+"Both ways."
 
-“Pressure?”
+Ossa turned to the north-quay lead. "Send runners. East cliff road to the first cove. West track to the other. Don't promise them time. Say storm water displaced from Mallowbreak, moving toward both coves. Say it exactly."
 
-Hesrata knew the answer as a sensation: the point at which water would take the hull’s weight without punching through it. Dennet had no access to that certainty. His silence demanded a measure another pair of hands could test.
+The runner swallowed. "They're going to ask who did it."
 
-“Start at a quarter ton to the square foot,” she said. “Rise by eighths. Stop when the keel speaks.”
+"Then keep enough breath to answer. Go."
 
-Dark water spread under the boat in two thick, level pads. Mud belched along the keel. The hull lifted a finger’s breadth.
+Sileth found a page repaired with sail thread. "There is a shore-return before the seventh vessel finishes. The crowned one gives back the harbor right. The water is admitted through the old tide stone."
 
-“Port stern first,” Dennet said.
+"And me?" Orselle asked.
 
-“I feel it.”
+"The line says, what came breathing salt shall leave breathing air."
 
-“Then correct it.”
+"That isn't an answer."
 
-Hesrata thinned the after pad and widened the forward one. The deck eased toward level. A barrel rolled away from the rail; the crew caught it and lashed it down.
+"It's the line. The margin was cut away before my grandmother kept this book."
 
-The person holding the boathook lowered it to Dennet.
+Ossa glanced between them. "What came breathing salt?"
 
-The work pleased her.
+The third vessel leaked down its familiar left side. Orselle watched the runnel choose the old groove in the cedar.
 
-Not the frightened people, not Dennet’s dependence, not the watching town. The pleasure lay in the impossible honesty of the material. Water showed her every burden it took. There was no grain hidden under pitch, no old split beneath a painted surface, no foreman waiting for a cheaper answer. Pressure arrived whole. When she changed its shape, the hull replied at once.
+"Me," she said. "Long before any of you."
 
-“Twenty.”
+She told them only what the harbor needed. At thirty-nine, before Mallowbreak, she had gone overboard at the northern teeth in winter. Something vast and living had been dying beneath the ice, its hide luminous as drowned moonlight. It pushed a final warm current through her lungs. Since then salt water had not drowned her, age had not advanced, and every tide announced its weight inside her bones. She had changed ports when questions gathered and never commanded so much as a cup.
 
-The sea bank beyond the boat had risen higher than the bar beacon. Hesrata kept most of it braced there and began a moving channel back toward the basin. She gave the channel a rounded bed, six feet across at the boat and narrower astern, with the two bearing pads nested inside it. Dennet waded to the starboard side and sounded ahead with the boathook.
+"If the old headings fit," Sileth said, half to the page, "power, but no observance and no harbor right. Not godhood then."
 
-“Stake,” he said.
+"Don't tidy it yet," Ossa said. "Can shore-return kill her?"
 
-She felt the broken timber a moment later, buried at an angle where the boat’s softened plank would pass. Hesrata sent a current under its root. The stake tore free and shot sideways.
+"The record says mortal. Not dead."
 
-Dennet ducked. It missed his head by less than an arm’s length.
+"Can you guarantee that?"
 
-“You said under,” he shouted.
+Sileth wiped rain from the page. "No."
 
-“I put it under.”
+The third glass drained dry.
 
-“You didn’t say where the timber should go.”
+Mud shone between stranded boats. Piling feet long hidden from air were furred with worm holes. Beyond them, the relief gate was a stone throat meant to take storm tide through the abandoned lower yard and across the western waste. It had not opened in Orselle's memory. Her old shop stood in its path.
 
-Her first answer would have been that he should have moved faster. The sea waited around his knees, ready to make any excuse true. Hesrata swallowed it.
+Ossa turned the fourth glass. "We need that gate."
 
-“Hold all loose objects against the mud,” she told the channel. “Except the hull and what Dennet names.”
+"You need it braced before it opens," Orselle said. "Otherwise the first head takes the wall with it."
 
-The water pressed weed, floats, and the freed stake flat. It also pinned the boathook across Dennet’s boots.
+"Route?"
 
-He stared down. “You forgot the tool in my hands.”
+"Across the mud from berth six. Keep wide of the crane piles. Twelve people, two shores, the long auger, sledges, wedges, and every dry oak beam Rulik can spare."
 
-Hesrata released the hook and everything but the freed stake.
+Ossa pointed to three crew leaders in turn. "People. Tools. Beams. Say back."
 
-“Name what must stay free before you move anything else,” he said.
+They did, not in unison. One had only one sledge. Another asked if his mule could cross the mud. A fishwife demanded help with six baskets of smoked eel.
 
-The water carried the reprimand to the quay. Hesrata heard it return from the workboat’s seams, stripped of tone but not words.
+"Move the baskets yourself if you can carry them uphill," Ossa said. "If you can't, leave them."
 
-Dennet put the hook ahead again.
+"Easy for you. They're not your winter."
 
-They moved the boat a yard at a time. Hesrata advanced the forward bearing, waited for weight to settle, then brought the after pad through. The moving water lifted the keel just clear of ridges in the flat. The crew shifted barrels at Dennet’s signals. Twice Hesrata stopped for fish caught against the invisible channel wall. Once the anchor chain drew tight under the port quarter and threatened to drag the boat back over its softened plank.
+"No. They're your next four minutes. Choose."
 
-“Twenty-five!”
+They went down by ladders. Mud sucked at Orselle's boots; the storm ridge pulled at the salt in her lungs. She ordered a cart-road ribbon of water to remain beneath the lighter so its keel would not break, and another patch to bear the brace team until their planks found mud.
 
-Dennet found the chain with the boathook. “It runs under us.”
+Then someone behind her yelled, "Lift us!"
 
-Hesrata traced its cold length through the water and into the sand. The buried end hooked around a discarded mooring stone.
+Orselle saw the tool sledge mired to its runners. "Lift that crew a handspan."
 
-“I can pull the stone.”
+Water punched upward beneath three men, the sledge, and half the plank road. They rose in black mud. The sledge slewed sideways.
 
-“And where does it go?”
+"Down," Orselle said.
 
-She pictured the stone ripping free, the chain whipping, the hull turning across the channel. Her new body made the mistake as easy to feel as the correct cut.
+Every held patch dropped. The lighter struck its water hard enough to throw an iron pig through the rail.
 
-“Nowhere,” she said. “We take slack to port and lift the chain over the keel.”
+"Vuret!" Ossa's voice carried from the quay.
 
-Dennet hooked up the exposed bight, passed his rope beneath it, and climbed aboard. The crew hauled on the rope while Hesrata raised only the chain links already clear of sand, supporting their weight in a ribbon of water. The chain came over the keel link by link. When it struck the deck, the injured crew member sagged against the rail.
+"No one asks me for movement," Orselle shouted. "Name the problem. I will name the water."
 
-The boat had advanced halfway to the bar when Dennet said, without looking at Hesrata, “The owner would have delayed the ferry launch if you’d shown him that scarf.”
+One of the men spat mud. "Problem is my teeth are full of the harbor."
 
-“He might have.”
+"Keep those. We haven't time to find another set," his mate said.
 
-“You told yourself he wouldn’t.”
+The fourth glass emptied as they reached the relief gate.
 
-“He had threatened to take the contract.”
+Its oak leaves had swollen into the stone rebates. Rust scaled the hinge straps. Rulik cut rot from the sill and pushed his knife into a seam to the haft.
 
-“So you answered for him.”
+"Lower hinge is gone," he said. "If we drive the center, the leaf twists."
 
-Hesrata increased the forward bearing too quickly. The bow rose, the stern dragged, and the soft garboard gave a wet crack.
+"It takes the pier above with it," Orselle said.
 
-“Stop!” Dennet dropped to his knees on deck. “All of it. Hold.”
+"I know what a twisted leaf does."
 
-The boat stopped. Even the water trembling through the new split became still. Hesrata felt the opened seam: three inches long, narrow enough for the crew’s pump if she did not load it again.
+"Then stop cutting there."
 
-Dennet leaned over the rail. “Damage?”
+"I was finding depth."
 
-“A split beside the bad fastening.”
+Sileth arrived with the clock rack against her chest. The fifth vessel had begun to drain. People carried beams over the planks. Rulik chalked three cuts: one above the failed hinge, two through the cross brace.
 
-“Can we move?”
+Orselle wiped one away. "Not the upper. Load transfers into the left jamb."
 
-“Yes.”
+"The left jamb's cracked."
 
-His face hardened.
+"Surface crack."
 
-Hesrata made herself continue. “At half the forward pressure. A foot more water beneath the whole keel. Crew pumps now. No lifting until I say.”
+"You said that about the ferry seam."
 
-Dennet turned at once. “You heard her. Free the pump.”
+The work around them did not stop, but it changed sound. Mallets landed softer. Someone missed a wedge.
 
-He put both hands on the pump handle with the uninjured crew member and waited for Hesrata’s next measure.
+Rulik stared at the gate, not at her. "I cut that scarph wrong. I left it proud, and I packed the hollow because I thought the bolts would carry. That's mine."
 
-“Thirty.”
+"Rulik—"
 
-They crossed the bar between the old piles with inches to spare. Hesrata bent the channel around a shoal, widened it under the stern, and let the workboat enter the basin stern-first so the softened side never met the current broadside. The stored sea pressed against her attention, enormous and eager to fall. Sweat did not form on her skin. Her shoulders did not ache. Her hands were still.
+"You opened it after. You saw."
 
-At thirty-seven marks, the workboat touched the inner landing. The crew stepped off. The injured one gripped Dennet’s sleeve; another went up the steps to find the healer. None of them bowed to Hesrata. She was glad of that until she realized she was also disappointed.
+She had. Reopening to the keel would have stopped winter service for six weeks and ended Rulik's apprenticeship. Orselle had calculated plate, bolt, weather, and need, then written sound beneath a repair she had not proved.
 
-The harbor could not remain empty.
+"I judged the bolts sufficient," she said.
 
-Hesrata spread the first returning water as a sheet thin enough to reveal every hummock beneath it. She filled the deepest fish pools into the central run, then raised water beneath the grounded fishing boats evenly, one inch along each bilge. Mooring lines tightened. Rudders lifted from mud. A dinghy with a leaking seam began to drink; she held the water an inch below the crack until its owner found a rag and mallet.
+"You judged the delay worse."
 
-“Forty,” came the keeper’s call.
+"At the time—"
 
-Hesrata lowered the outer bank in steps. Each tier crossed the bar, spent its force in the deepened run, and unfolded between the boats. The west wall took the load without shifting. The rescued workboat floated at the landing while its pump knocked fast and regular.
+"No. You had the seam open. I had my knife marks in it. We were there."
 
-By forty-three, the harbor stood at the height the natural tide should have reached.
+A beam carrier shoved between them. "Argue narrow. This end's dropping."
 
-Hesrata felt it all. Every hull was a pressure interrupted in its own shape. Cold water lapped stone; warmer drains wrote pale currents through it. The basin no longer looked like the yard she had lost. It felt like a yard so complete that no other hand could enter it.
+Rulik caught the beam, and the polished shape of Orselle's defense broke apart under its weight. She got her shoulder beneath the other end.
 
-The town came down to the quay.
+"Left jamb first," she said. "Double shore, low and high. Then your two brace cuts. Leave the upper strap to hold the twist."
 
-The fish seller was first to kneel. Others followed badly, some only lowering their heads, but nobody smiled. The same mouths that had granted her the harbor now asked her to use it.
+Rulik breathed through his nose. Once. Twice. "High shore wants a wedge behind the cap."
 
-“My son’s skiff is outside the north rocks.”
+"Two wedges. Opposed."
 
-“Keep the tide below the cellar doors.”
+"Bring two matched wedges!" he called. His voice worked again when the work did.
 
-“Leave the flats wet for the shell beds.”
+They braced the jamb and bored through salt-hardened oak. The auger screamed and stuck; four people reversed it while a chandlery boy complained that nobody had brought grease. Rulik refused offered lamp fat, then took it when the bit smoked.
 
-“God, hear me.”
+The fifth glass ran low.
 
-Their words reached Hesrata from across the water as well as through the air. Fear had made worship of the fooling. Need kept it alive. The harbor remained beneath her word. The rush crown sat colder against her brow.
+The storm head spread past the red stones, hunting shallow ground. If Orselle kept her first broad order, Mallowbreak would stay dry until low water. The eastern and western coves would take what she had moved.
 
-Dennet came to stand beside her, soaked to the waist and breathing hard. “Thirteen marks.”
+If she ended the harbor right before the gate was ready, all the displaced water would return through the mouth. Boats, quay, people on the mud: one load, no sequence.
 
-He took the path toward the old landing. Hesrata followed. Behind them, the petitions tangled until nobody’s request could be distinguished from the next.
+"East runner's back!" someone called from the ladder.
 
-At the net sheds, Dennet faced the crowd. “The ending is done alone.”
+Ossa received the report at the quay edge and sent it down in pieces. "East cove's moving uphill. Two households refuse. Their south path is already under. West runner not back."
 
-“Since when?” the fish seller asked.
+"The head reaches the east cove first," Orselle said. "Then west."
 
-“Since you made the joke listen.”
+"How long?"
 
-That stopped them. Dennet led Hesrata behind the sheds, where the stone walk divided. The left branch returned to the immersion steps. The right descended into a storm channel that opened through the north wall of the basin. From its first bend, nobody could reach the old landing before the clock emptied.
+Orselle closed her eyes. The sea pressed against its imposed boundary, every ton distinct and none patient. "Before this vessel finishes, the first roofs."
 
-“What exactly happens at the step?” Hesrata asked.
+Sileth looked at the brine. "This vessel?"
 
-Dennet kept left. “You go into the tide of your own will. Before the last mark. Crown under, face under. The old line says the water takes the mantle and your blood takes up its work.”
+"The one draining now."
 
-“You remember children’s nonsense very well.”
+"Confirm," Ossa said.
 
-“I was crowned when I was twelve.”
+"The east cove takes water before the sixth begins."
 
-“What for?”
+Ossa sent every unused hand to the gate.
 
-“Stealing pears. I went in at the thirty-third mark because the crown itched.”
+The auger broke through. They drove the two cuts and left the upper strap. When the last wedge seated, Rulik laid his palm on the braced jamb, feeling for movement.
 
-So he knew the step by memory, not lore. “And now you believe the rest.”
+"Ready to fail on purpose," he said.
 
-“I believe what happened to the harbor.”
+"Not yet," Orselle said. "The lower yard isn't clear."
 
-“Fifty!” called the keeper, the number arriving softly through the runoff at their feet.
+"Vuret's shop is locked," a crew leader reported. "Storehouse loft too."
 
-The old steps came into sight. Water washed the third one, ordinary in its motion except that Hesrata knew each eddy before it formed. Seven marks were enough. She could enter, wake her heart, and leave with the same sore hand and the same empty days she had brought to the festival.
+"No people?" Ossa called.
 
-“If I do it,” she said, “will you let me inspect the workboat repair?”
+"Checked both floors. One goat."
 
-Dennet stopped.
+"Whose?"
 
-“You need somebody who can find the spread of that split,” she said. “I can tell you where to open the plank. You can watch every cut.”
+"Goat won't say."
 
-“No.”
+"Take it uphill. Leave the doors."
 
-“That is spite.”
+The fifth vessel gave its final drop. Sileth turned the sixth.
 
-“That is my boatyard.” He unwound the wet rope from his shoulder. “You don’t get through its gate because the sea picked you up.”
+The west runner appeared above the quay, one hand bloody from a fall. "They know. Cliff path's broken behind me. They can't get carts out."
 
-Hesrata moved closer to the water. “Would you trust me on a job with your mark beside mine?”
+No one laughed now, nor did they become one body. The fishwife wanted the gate shut until her eel baskets were clear. A boat owner preferred mud under his hull to flood over it. Two lower-yard families shouted that Mallowbreak should not buy neighboring roofs with theirs. Another man shouted that children slept under those roofs.
 
-“Not today.”
+Ossa sorted noise into facts. "Lower yard clear of people. Goat clear. North quay clear. Mud crews withdraw on the center planks after the cuts. Boats at berth six will be lost if the head returns. Vuret, received?"
 
-“After a year?”
+"Received."
 
-“I won’t sell you a year I haven’t lived.”
+"Rulik, gate readiness?"
 
-The tide carried his answer into the basin. Somewhere beyond the sheds, somebody murmured at hearing it.
+He looked at Orselle's bracing, then at his cuts. "Ready if the high shore holds."
 
-Hesrata had expected the ritual to contain a bargain. Mortality in exchange for the power; pain in exchange for work; a limited life in exchange for a road back to Dennet’s bench. She could price timber, hours, risk. She could not price a future he refused to promise.
+"If?"
 
-“Then why bring me here?” she asked.
+"It's timber, Harbormaster. It doesn't sign guarantees."
 
-Dennet laid the rope on the upper step, well beyond the water. His hands worked at the splice because he would not look at her. “The crew is home. The wall didn’t break. There’s no job left that needs a god.”
+Sileth knelt with her book open beside the sixth glass. "There are two continuations. If the crowned bears through last brine, the harbor obeys until low water. It says nothing about water beyond the stones. If the crowned makes shore-return, the harbor right ends and the old tide way opens to receive what was withheld."
 
-“That wasn’t my question.”
+"And the salt-breath?" Orselle asked.
 
-He pulled one strand tight. “I don’t want to spend the rest of my life wondering whether every storm will call you. I don’t want a cracked skiff to become a prayer. And I don’t want you able to answer a man’s anger by emptying the sea under him.”
+Sileth turned the page back, though they all knew there was no more writing there. "It leaves."
 
-“You think I would.”
+"Does eighty-six years arrive at once?"
 
-“I think you hid a joint because you couldn’t bear to lose a launch.”
+"No clause says."
 
-Five marks remained.
+Rulik's face folded around a reply and failed to produce it. At last he said, "I don't know what I want you to do."
 
-Hesrata put both hands into the tide. It closed around her wrists without cold, though she felt cold everywhere else in the basin. One downward step, another, and then the crown beneath the surface. Her heart would begin. Her lungs would seize. Dennet would remain Dennet, the yard would remain closed, and the dead would remain dead.
+"Good," Orselle said, too quickly.
 
-Behind her, the storm channel ticked with runoff. Ahead, the sea showed her its weight along every boat, every wall, every grain of the bar. She wanted that reach. She wanted to learn it. She wanted mornings without the bright knife in her knuckles and years that did not narrow at the pace of blood. The rescue was over, and the want remained.
+"I know what I don't want. Don't spend this to make the ferry clean."
 
-Hesrata withdrew her hands.
+The storm shoved at Orselle's chest. Her heart had not worked this hard in decades. Perhaps that was fear. Perhaps the old salt-breath was already loosening.
 
-“I’m keeping it,” she said.
+"It won't," she said.
 
-Dennet looked up at last.
+Rulik rubbed oak dust from his palm. "All right. High shore first when we open. I'll take it."
 
-“Don’t tell them I chose it for you,” he said.
+"Take the low cut. Your shoulder fits between the pairs."
 
-“You didn’t.”
+"I'm foreman."
 
-Hesrata turned right into the storm channel.
+"Then assign by the opening, not your sash."
 
-She did not run the clock. At the first bend she had four marks, and the old landing was already out of sight. At the second, three. Dennet did not follow. His boots went the other way along the stones.
+He looked as if he might answer the history instead of the order. Ossa cut across him from above.
 
-When the fifty-seventh mark filled, the copper offcuts on Hesrata’s crown drew tight and cold against her scalp.
+"Saal, assign the shores. Vuret, choose when. Nobody chooses for you, but we need the work sequence before the last glass."
 
-She stood where the storm channel opened into the harbor and told every current in the basin to follow the natural tide until she gave another order. Water moved around her calves, busy with silt and weed, ordinary except for its obedience.
+The sixth vessel emptied. Sileth's hand hovered over the seventh.
 
-Across the basin, the town’s voices came to her from every wet hull and stone. Her name had entered their prayers. Hesrata answered none of them. She waited through the interval in which her chest should have risen, then pressed two fingers under her jaw.
+Orselle could refuse. No curse would follow. Mallowbreak would remain dry; she would remain deathless, barred and watched, able to outlive everyone who remembered why.
 
-No beat came.
+Beyond the stones, the eastern cove took the first edge of the storm head. She felt it climb a road.
+
+"Turn it," she said.
+
+Sileth turned the final glass.
+
+Work narrowed. Ossa cleared the plank road by names and counted people onto the ladder. Rulik divided the crews, then made them repeat which wedge they would strike. Orselle walked the route: relief gate, lower yard, western waste. Doors stood open. The rescued goat bawled from the quay.
+
+Rain erased the chalk except where Rulik had cut.
+
+"Ossa, on my word: both marked cross-brace cuts inward. Upper strap untouched. Hold the left jamb between the paired shores until water reaches the third course of the storehouse wall. Then north steps."
+
+Ossa repeated it in shorter pieces. Each crew leader answered. Rulik corrected one man who had heard second course instead of third.
+
+Sileth stood on the white boundary at the yard gate, crown-receiving cloth spread over her hands. "Shore-return requires you to cross from working water onto claimed land before the brine ends. The crown comes off after the crossing. I think."
+
+"You think?"
+
+"The sentence lost a verb."
+
+"Use return."
+
+Orselle stepped onto the wet lower ramp. Rainwater threaded over the mud while the storm ridge pushed at her command. The final glass stood less than half full.
+
+"Now," Orselle said.
+
+"Both marked cuts inward!" Ossa ordered.
+
+Sledges fell out of rhythm. One cut opened first. The gate twisted against the upper strap, exactly as Rulik had predicted. The high shore bowed.
+
+"High wedge!" he shouted.
+
+The man there struck the low pair.
+
+"Not those—the cap! Cap wedge!"
+
+Orselle opened her mouth to lift the water away from them. If she said lift, it might lift every wet thing in the gate throat. If she named too little, the shore would snap before the pressure eased.
+
+Rulik climbed the brace and drove the cap wedge himself. The high shore straightened. The second cut tore through.
+
+"Gate crew out," Ossa called. "Rulik last. North steps. Confirm."
+
+"Out!" Rulik answered.
+
+The gate hung from its upper strap. Behind it waited an empty yard, open sheds, and Orselle's shuttered shop.
+
+Sileth shook the final glass. A shallow green line remained.
+
+"Orselle. Now."
+
+She had been Vuret to Sileth all day.
+
+Orselle reached the white boundary. Behind her, crews scrambled up the north steps. Rulik's blue sash vanished over the top. Ossa counted and called the yard clear.
+
+Orselle put one boot on claimed land.
+
+The sea waited inside her command. She could still step back.
+
+She brought the other boot across.
+
+"I return the harbor right," she said. "Take off the crown."
+
+As the final brine struck its cup, Sileth lifted the tarred rope.
+
+For one suspended beat, nothing moved. Then the salt taste left Orselle's tongue.
+
+The sea struck the relief gate.
+
+The upper strap tore free. Oak leaves vanished into white water. The paired shores buckled but held long enough to turn the first force into the lower yard. Water burst through stores, shouldered open Orselle's shop, and carried her drafting table through the western wall. The lighter dropped onto mud. Along the quay, ropes and people took their assigned loads.
+
+Orselle fell to one knee on the apron.
+
+Air entered her lungs without salt. It was cold, narrow, ordinary air, and for a moment she could not understand why breathing required so much work.
+
+"Stay down," Ossa said. "Can you breathe?"
+
+Orselle nodded.
+
+"That's not confirmation."
+
+"Breathing."
+
+"Pain?"
+
+"Everywhere cheap workmanship usually puts it."
+
+Ossa gave her one irritated look, which was better than reverence, and turned back to the harbor.
+
+By dusk, the storm had spent itself across the waste. Mallowbreak lost four sheds, eleven storerooms, two small boats, the lighter's rail, and most of Orselle's shop. The eastern cove reported water in one lane and no missing people. The western cove lost three carts. No roofs went.
+
+Sileth wrapped the rope crown in oilcloth and wrote three pages of corrections to the rite book. She asked Orselle twice how mortality felt. Orselle told her the first question was reasonable and the second was not improved by repetition.
+
+Rulik made his own correction in the harbor record. He wrote that he had cut and packed the ferry's faulty scarph, that Orselle had reopened it, and that she had certified it without proof. He signed his name below hers rather than through it.
+
+The hearing clerk arrived before dark to remind Orselle that saving two coves did not restore her master's seal or settle the ferry's injuries and ruined cargo.
+
+"I know," she said.
+
+"You are still required on second bell tomorrow."
+
+"I heard you."
+
+Her face had not taken eighty-six years at once. Her hands shook from cold instead. Someone offered a blanket that smelled of goat, and she took it.
+
+At the broken relief pier, Rulik and Ossa were arguing over whether the surviving high shore could be reused. Orselle listened until Rulik said the foot was sound.
+
+"It shifted," she called.
+
+He looked across at her. "How much?"
+
+Once, she would have felt the answer through water and timber together. Now she walked down with a rule, crouched beside the beam, and set its brass edge to the witness mark.
+
+"Three eighths of an inch toward the gate," she said.
+
+Ossa bent to read it herself. Rulik wrote the measurement in the damage book.
+
+The tide rose through the ruined yard by its own weight. Orselle held the rule steady until both of them had seen the line.

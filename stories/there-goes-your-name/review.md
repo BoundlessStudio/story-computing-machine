@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Sivren | new | Freely chosen name of the first-person narrator; no exact or alias reuse was found, and it remains readily distinct from baseline `Siva` and passing-current `Sivareth`, `Sivelle Vordain`, and `Ione Sivet`. |
+| Sedge | new | The shepherd's freely chosen call-name; no exact, alias, close-spelling, or confusing reuse found in the required noun sources. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The orchard and home remain unnamed. |
+| None | none | No named place appears in the story. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The exact prompted exchange follows the narrator's knowing trade for the brother's release; memory, identity, relationship, and agency remain intact while the old address becomes captured gold thread. The visibly tethered replacement leaves, two commands acting on that thread and the thorn-latch, body-width escape, ordinary hook work, injuries, object custody, safe-side grief, and freely chosen final name form a coherent local mechanism without asserting universal fae or true-name law. The narrator's term-testing, the fae's sensuous evasions, and the brother's concrete route and body urgency remain distinct through the decisive commands, return offer, and ordinary final use of `Sivren`, with no magical flare or explanatory coda.
+- Notes: The required fae line appears verbatim; the local, living-agent call-name binding stays bounded, and the final work exchange tests Sedge without recovering or devaluing the old name.

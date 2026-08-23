@@ -6,14 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Kemma | new | Only story-facing form; no exact, alias, close-spelling, or readily confused prior use found. |
-| Daret | new | Only story-facing form; no prior use found, and it remains readily distinguishable from Deryn and Teren. |
+| None | none | No story-facing person proper nouns. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Narrowhearth | new | Only story-facing form; no exact, alias, close-spelling, or readily confused prior use found. |
+| None | none | No story-facing place proper nouns. |
 
 ## Continuity
 
@@ -28,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The six tags total exactly 200 kilograms; the localized pull remains a bounded, non-agent story-local condition, while the bridge, straps, skin, crate, pay, and next-day tag keep Kemma's capacity materially limited. Their final task choice resolves the strength discovery without revenge, crowd conversion, or instant belonging.
+- Notes: The bounded strength, bodily costs, unsafe shifting loads, and negotiated work limits resolve the prompt without turning bullying into training, revenge, or chosen-one validation.

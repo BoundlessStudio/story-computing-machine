@@ -8,430 +8,356 @@ canon: false
 
 # The Ordinary Slime
 
-You pick up the slime and examine it.
+The slime fits into both your hands, if you let it spread.
 
-From inside the slime, Feskarn Veylor examines you back.
+You do not. You hold it cupped above the assay tray while the master turns a shaded lamp over it. The little body gathers itself against your palms: cool, green-brown, heavier than rainwater and lighter than mud. Its skin takes the light without shine. Grit travels through it in slow currents. At one end, a feeding mouth worries the saltless oat paste she has put on the glass.
 
-He has no eyes. Light reaches him as warmth through green gel; motion comes as shivers in the membrane pressed against your glove. Even so, he can tell you are disappointed. The blue assay strip turns the weak violet of household acid. The core prism finds no core. Your burden lens climbs to three onions, reconsiders, and settles at two.
+"Weight?" she asks.
 
-Ordinary membrane. Ordinary appetite. Ordinary speed, if speed is the word for what happens when he leans too far and pours onto his own face.
+You read the balance arm. "Four and three-quarter marks."
 
-*DOWN,* says the new, wet portion of his mind.
+"Again."
 
-The older portion, which remembers thirty-eight years as Papermantle Yard's finest effects rigger and six regrettable minutes as the man beneath a collapsing palace, has more dignified priorities.
+You settle your wrists. Outside the assay room, water knocks somewhere inside the reservoir wall. Not the full, even mutter of the main drain. A private sound, thin and hurried.
 
-First: learn why he is alive.
+"Four and three-quarter."
 
-Second: recover the severed iron gauntlet lying in the wreckage behind you.
+The master touches a reed fiber to the slime's flank. It draws in from the irritation, then relaxes and resumes feeding. She places a blue assay slip beneath the drop it leaves. The paper yellows at the expected rate.
 
-Third: repeat what he did with it, preferably on purpose.
+"Mouth ordinary," she says. "Acid ordinary. Startle ordinary. No hard inclusion under the lamp. No second sac."
 
-The gauntlet has punched a three-legged cutting engine through a painted castle, a painted banquet, and most of a papier-mâché moon. Feskarn remembers waking under a costume rack with no body he recognized. He remembers the cutter descending. He remembers a dark opening in the gauntlet's cuff.
+"It made the pattern."
 
-Then a backhand large enough to redecorate the yard.
+"This one?"
 
-The gauntlet split at the wrist and spat him onto your boot. Now your lens insists that the miracle weighs less than lunch.
+"It was on the wall with the others."
 
-*DOWN. DARK. AWAY.*
+"That wasn't my question."
 
-Yes, Feskarn thinks. Your contribution has been recorded.
+The sluice warden stands in the doorway with rain stippling the shoulders of her oilskin. Behind her, a bell rings twice from the upper gauge walk: not alarm, only a reading passed down. Two strokes, a pause, one. The reservoir has risen another hand.
 
-High above the ruined castle, the bronze bell in Papermantle's verifier tower strikes once.
+"How ordinary?" the warden asks.
 
-The cutting engine pulls its shears from the moon.
+The assay-master does not look up. "Entirely, so far."
 
-Its three legs straighten. A red inspection lamp finds the broken gauntlet, follows a wet mint-colored smear across the flagstones, and settles on Feskarn.
+The wall had seemed ordinary too, until several dozen drain slimes spread themselves over its wet mica render. They had gone opaque along one branch, glass-clear along another, and cold blue at the fork. You had watched, trying to decide whether the colors followed the afternoon light. You had even fetched the reed keeper before you fetched the warden.
 
-The hand around him opens.
+Then the masonry split on the same fork.
 
-For a hopeful instant, Feskarn believes you have understood the tactical situation. Then you drop him onto the assay tray and run.
+Not a hairline. A crack wide enough to take the corner of your gauge card, running from the old side spill down toward the service drain. By the time you pulled the alarm cord, water had already begun to bead through it.
 
-The cutter charges.
+"They warned us," you say.
 
-*RUN.*
+The warden's gaze comes to you. "After how long?"
 
-Feskarn contracts every part of himself. The result is a determined wobble toward a pewter thimble lying beside the wax cake.
+"What?"
 
-*FASTER.*
+"Pattern to alarm."
 
-I welcome technical notes from any portion of the body capable of implementing them.
+You know it to the minute because the gauge clerk's board knows it. "Seven minutes."
 
-The cutter vaults the bench. Feskarn reaches the thimble, pours through its open end, and presses himself into the deepest dark.
+"Pattern to crack?"
 
-Cold pewter closes around his awareness.
+"Five. Maybe six."
 
-The thimble becomes his skin.
+"So your warning arrived after the wall opened."
 
-He tries to crawl. The cup rocks onto its rim and takes one stiff little step.
+The little slime presses its mouth against a crease in your palm, finding no food there.
 
-Oh, Feskarn thinks.
+"I saw it first," you say.
 
-*BODY.*
+"You did." The warden steps inside. "The ash-salt scour begins before the storm crest. If the main drain clogs, the lower houses take the reservoir. If I scour, your wall slimes die and whatever you saw goes with them. Give me a test that changes that choice."
 
-The cutter's shears close on the assay tray.
+The assay-master lifts the lamp. "How much time?"
 
-Wood, wax, bottles, and one newly ambulatory thimble cartwheel across the lane. Feskarn bounces twice, rolls through a white registration cross painted on the floor, and shoots cuff-first into an intact iron gauntlet beneath the costume rack.
+"The next red mark. Less if the rain thickens."
 
-The thimble strikes the hollow palm. His awareness expands again—across rivets, finger joints, flaking gold paint. He feels the entire hand around the cup around the slime, each layer touching the next without crushing it.
+From the passage, the reed keeper says, "You'll learn nothing from one."
 
-*MORE BODY.*
+He carries two shallow clay trays under one arm and leaves wet heel prints behind him. His trousers are stained to the knee with the black-green water of the winter beds. In his other hand, an iron bucket shifts with the soft, sticky weight of more slimes.
 
-The cutter lunges beneath the rack.
+The warden glances at the floor. "Cloth."
 
-Feskarn rises on five iron fingertips.
+He puts the trays down. "After. They don't do it alone."
 
-The movement begins at the thimble, reaches the gauntlet a blink later, and nearly flips him onto his back. He catches himself on the thumb. The shears snap where the cup had been.
+"You told me they changed color every wet season," you say.
 
-He scuttles into the assembly lane.
+"I told you they bank on the mica after long rain."
 
-At its far end, beyond storage sheds and scenery frames, daylight shows beneath a stone drainage arch. Between Feskarn and freedom runs a chain of white crosses, each painted where one piece of stage machinery once received another.
+"And turn blue."
 
-He knows marks. He does not yet know why this yard has placed them in a line.
+"Some. Sometimes. When the beds are full." He looks into your hands, not at you. "Take one off, it goes back to green before you reach the shed. I said that too."
 
-The cutter clips his smallest finger away.
+You had heard the part that made your claim larger. The rest had seemed like mud around it.
 
-The severed iron goes dead before it lands. Sensation vanishes with it, clean and immediate.
+The assay-master draws a clean wet line of mica clay around the first tray. "Put eleven on the film. No salt on your hands."
 
-*BAD. RUN.*
+The reed keeper gives you a look. "Never salt before touching drains."
 
-Feskarn runs on four fingers. His old crew would have called it undignified. His old crew had also worked under the belief that scenery should not pursue them with shears, so their standards can wait.
+"I washed."
 
-The next cross lies beneath a suit of decoy armor kneeling on a wheeled fitting stand. Red muscles have been painted over its iron belly. Its left knee hinge points backward. A breast grille is secured by a latch the size of Feskarn's remaining thumb.
+"Rinse again. Bucket, please."
 
-The lane narrows between the armor stand and a stone trough. No room to pass. The cutter closes behind him.
+The words are ordinary and irritating. You obey them.
 
-*HOLE,* says the slime portion, feeling darkness beyond the grille.
+One by one, you lift the slimes from his bucket. Each behaves as the one in your palm did: contracting at first touch, spreading toward wet clay, finding the oat paste. Eleven become an untidy ring with no interest in your urgency. Their skins remain the cloudy green of pond glass.
 
-Locked hole.
+"Nothing," the warden says.
 
-*OPEN.*
+"Eleven," says the reed keeper.
 
-At last, a constructive suggestion.
+You set the examined slime into the last open space. Its edge touches two others. A pulse moves through the ring, not outward from the new arrival but both ways at once. Three bodies turn opaque. Four clear until you can see grit suspended inside them. Along the tray's lower edge, a cold blue travels through the rest and branches around the oat paste.
 
-Feskarn leaps for the latch. The gauntlet catches it with two fingers. He pulls. Rust holds. The cutter drives one blade through his palm and pins him to the stand.
+Your breath catches. "There. That's the warn—"
 
-Pain arrives strangely: not from damaged iron, but from the sudden loss of a place his mind had occupied. The slime clenches inside the thimble. The thimble twists inside the hand. The hand tears sideways, leaving another finger on the blade.
+"Drip," the assay-master says.
 
-The latch breaks.
+The eave above the open shutter is leaking. Each drop strikes the sill, and the vibration reaches the table through the wall.
 
-The grille falls open. Feskarn climbs the armor's painted stomach with thumb, forefinger, and spite. The cutter frees its blade as he rolls through the opening. One shear strikes his cuff and drives the whole gauntlet deep into the hollow chest.
+The warden leans out and closes the shutter. "Again."
 
-The armor arrives around him.
+The colors loosen. Not at once. They thin and swim as the slimes feed.
 
-Feskarn stands.
+"It starts at twelve," you say.
 
-The thimble moves first. The damaged gauntlet follows. Then the armor receives the command, too late and much too enthusiastically. Its good leg straightens; its backward knee folds forward. A seven-foot iron soldier drops into a kneel and crushes the cutter under its shin.
+"It started when a twelfth touched this group, on this clay, under a dripping eave." The assay-master gives you a wax pencil. "Write that."
 
-Silence holds for half a breath.
+"We don't have time to qualify every word."
 
-*SAFE.*
+"Then use fewer words."
 
-The verifier bell strikes twice.
+The warden taps the red mark on her gauge card. "Two comparisons. Five minutes. If one matters, we go to the wall."
 
-Kennel doors open along both sides of the lane.
+The reed keeper has already begun coating the second tray. "Same clay. Same thickness."
 
-Four scissor-hounds unfold onto the flagstones, each built to bite the joints from an unauthorized soldier.
+"Same water," the master says.
 
-Not safe.
+"From my bucket."
 
-*RUN.*
+"Measured."
 
-Feskarn runs.
+You divide the slimes, twelve to each tray, adding more from the bucket. The first tray receives one continuous skin of wet mica. On the second, the master draws a dry wooden blade twice across the clay, leaving narrow gaps from rim to rim. Food goes at the center of each. Water goes into two stoppered cups. The warden moves to the door, listens to a shouted gauge reading from the passage, and answers with one raised finger.
 
-His right stride is a stride. His left is a disagreement between anatomy and carpentry. Every second step pitches him forward, and every recovery reaches the armor after the ground has moved elsewhere. He learns by falling, rising, and revising his opinion of the knee's designer.
+"Ready," the reed keeper says.
 
-The hounds learn faster.
+The master pours one cup against the upper rim of each tray. Water presses through the mica in a shallow fan. On the continuous film, the slimes nearest the load go opaque. Those below clear. Cold blue forms along both edges of the wet fan. On the broken film, the same change begins and stops at the first dry cut. Beyond it, the slimes continue eating.
 
-One snaps at his ankle. He kicks too early and misses; the delayed iron foot catches it on the return and sends it through a tool shed. A second leaps for his chest. Feskarn backhands it with the same motion that wrecked the painted castle, but the armor magnifies the strike beyond his new balance. He spins completely around.
+"They show where the water will go," you say.
 
-For three strides he is running toward the hounds.
+"No." The reed keeper turns the continuous tray a quarter circle. "Let's see what they follow."
 
-*WRONG.*
+The water already in the clay now lies against a different edge. The blue branch frays, disappears, and reforms downhill. It does not preserve the shape you first saw. It follows the shifted load.
 
-I am correcting.
+The assay-master slides a flat weight beneath one side of the tray, changing the slope without adding water. Opaque bodies gather above the pressure; clear ones stretch below it. Blue holds at the boundary between.
 
-*MORE WRONG.*
+You draw the three states on the back of the gauge card. "Relative water stress."
 
-He turns with the good leg and regains the white-marked lane. Ahead, a crimson parade dragon rests low on a timber cradle. Its round chest hatch hangs open on a chain, dark enough to satisfy the most demanding slime. Beyond it, the drainage arch remains a bright thumbprint under the far gate.
+"In a connected wet film," she says.
 
-A hound bites through Feskarn's left elbow. The forearm drops inert. Another locks its shears around the backward knee.
+The reed keeper points at the untouched tray. "And nothing across a dry break."
 
-The armor cannot reach the gate. It may not reach the dragon.
+"At twelve or more."
 
-*HOLE.*
+"Twelve worked. Don't marry it yet."
 
-I see it.
+A runner's boots slap down the passage. The impacts jar both tables. Blue leaps in broken flecks across the continuous tray. Several slimes go opaque at once, then clear without relation to the slope.
 
-*HOLE NOW.*
+The master waits for the runner to pass. "Irregular vibration adds noise."
 
-Feskarn lowers his remaining shoulder and runs badly with great commitment.
+The warden takes the pencil from you and writes that herself. "Can the wall colony tell us where the trapped load is now?"
 
-The hound at his knee pulls. The faulty joint separates. Feskarn falls, slides along the registration stripe, and collides with the dragon's cradle. His remaining hand catches the hatch chain. Armor, gauntlet, thimble, and slime swing beneath it while the hounds close.
+"If the film remains connected," the master says. Under pressure, she becomes slower, placing each word as if it too requires a control. "If feet, tools, and rain do not drown the response. If the wall change follows a gate change."
 
-He pulls the chain with all four bodies.
+"That's three ifs."
 
-The hatch drops. Its weight flings him through the round opening. A hound strikes his backplate as he enters and drives the last of the armor inside.
+"Yes."
 
-The door slams.
+"Useful?"
 
-Wooden ribs surround iron ribs. The dragon floods into Feskarn's senses: four braced legs, a hinged jaw, canvas wings, a tail packed with parade banners. The white cross on its hatch aligns with the cross on the armor grille.
+You nearly answer for her. The reed keeper lifts the first tray instead.
 
-Outside, shears probe the seam.
+"Useful enough to carry," he says. "Not enough to scour."
 
-*BIG BODY. RUN.*
+The warden points. "Wall. Bring the mallet. Leave the salt cart shut."
 
-Feskarn commands one foreleg forward.
+The service gallery smells of wet stone and the sharp ash brine waiting in its covered trough. Rainwater comes down the stair treads in threads. Along the reservoir wall, the crack has darkened. The colony still spans it, bodies touching across a sheen of mica clay. Opaque branches crowd above the split. Clear bodies spread below. Cold blue points sideways in a fork toward the old spill, whose brick face has not moved in three generations.
 
-The slime tightens. The thimble rocks. The gauntlet turns inside the armor; the armor lurches inside the dragon. By the time the dragon's foot obeys, Feskarn has already asked for the next three steps.
+The pattern is so close to what you remember that certainty returns before caution can catch it.
 
-It attempts all four together.
+"It's pointing at the blockage."
 
-The parade dragon launches itself off the cradle and lands chin-first in the lane.
+The assay-master kneels without touching the wall. "Or responding to the stress beside it. Mallet."
 
-The hounds swarm its hatch.
+You pass it to her. She raps the masonry well away from the crack: three uneven blows. The colony shivers into noise. Blue spots flash everywhere. Clear skins cloud. The fork disappears.
 
-Feskarn opens the great jaw. A bellows sits behind it, connected to a pressure bladder in the chest. Parade dragon. Fire, perhaps. Smoke at minimum.
+"Stop feet," the warden calls. "Stop tools. Nobody on the upper walk."
 
-He squeezes.
+The order travels away in shorter voices. For half a minute the gallery holds only water sounds. The colony settles. The fork returns, less cleanly now, toward the bricked spill.
 
-Three centuries of damp confetti explode from the mouth.
+"Gate one notch," says the warden.
 
-Paper crowns, silver suns, and the portraits of forgotten generals pack the hounds' joints. One machine freezes wearing six kings across its face. Another disappears beneath a festive avalanche.
+The gate tender at the wheel looks down. "Main gate?"
 
-*GOOD BITE.*
+"Main. One. Hold."
 
-That was not a bite.
+Iron teeth engage. The wheel turns; chain takes weight; the main sluice lifts the width of two fingers. Water changes pitch inside the wall. The blue fork weakens near the main channel, but along the brick face it deepens. A clear line opens below the old spill.
 
-*DO AGAIN.*
+The reed keeper presses two fingers to the mortar. "Here."
 
-The dragon finds its feet. Feskarn gives each stride time to arrive and charges down the marked lane, shedding banners. Red paint fades to mint wherever slime acid travels through the nested seams.
+A bead of water swells where there had been only damp. Then another. It carries pale clay, not the black silt of the main drain.
 
-The bell strikes three times.
+"Pocket behind the bricks," you say.
 
-Rails unfold from the storage walls ahead. Two ram cranes roll onto them, framing the only route to the drainage arch. Their bronze sight plates turn toward the dragon.
+"Evidence of one," the master corrects. "Trapped water, separate enough not to drop with the main gate."
 
-The first ram fires.
+The warden watches the upper gauge runner's raised board. "Scour clears the main drain. What happens to that pocket?"
 
-Feskarn orders left. The message is still passing through the armor when the steel head caves in the dragon's right flank. The impact supplies the turn he requested and several he did not. He crashes through a painted barracks wall.
+No one answers at once. The covered ash-salt trough sits along the far wall. When its gate opens, scour water will strip the mica and slimes from the drain face. It will clear growth from the main throat. It will not open a sealed side spill.
 
-There is no building behind it.
+The reed keeper rubs clay between finger and thumb. "The film goes. The pocket keeps pressing."
 
-There is a room between wooden ribs, a rehearsal bay inside a seated battlefield giant. A white cross the size of the dragon's hatch covers the far wall.
+"Can you prove it?" the warden asks.
 
-The dragon skids halfway into the giant and stops with its tail across the broken barracks.
+"Not before red."
 
-The second crane fires.
+The assay-master rises carefully. "Scour removes our local indicator. It may alter the load. Direction unknown."
 
-*HIT.*
+"The old spill opens over the winter reed beds," the warden says. "If we break it now, they're gone."
 
-Yes.
+"Not gone." The reed keeper looks at her. "Drowned before cutting. No dry stalk. No roof bundles. No matting. Next planting, too, if the bed scours down."
 
-*BAD.*
+You had thought of the beds as an empty place for unwanted water. In the rain, you can smell the cut reeds stored above them, grassy and sweet through the stone vents.
 
-Not this time.
+"Then a handspan," you say. "Open the old spill a handspan. Watch the wall, the seep, and the gauge together. If the pocket falls, we keep opening. If it doesn't, we stop."
 
-Feskarn braces the dragon's broken flank and lets the ram strike its tail. The blow drives the complete body across the giant's threshold. A safety shutter falls behind it, severing the last parade banner but clearing the tail by a handspan.
+The warden looks at the bricks. "Opening crew needs eight minutes."
 
-The battlefield giant opens its eyes.
+"Six," says the reed keeper. "The lower left mortar was soft last winter. I reported it."
 
-Feskarn rises through a hundred feet of hollow scenery. Dragon ribs hang inside iron ribs; iron surrounds gauntlet, thimble, slime. Each layer enlarges his intention and delays it. He thinks about standing. The giant remains seated long enough for doubt to arrive, then unfolds beneath him.
+"You reported frost scaling."
 
-Its head tears through the storage roof.
+"Same corner. Third line on the sheet."
 
-The drainage arch is close now, set into the false hillside beyond the far gate. A white assembly line runs directly toward it.
+The warden's mouth tightens. "Tools. Two pry bars, rope, eye shields. Salt cart stays shut. Clear the spill run."
 
-Between Feskarn and the arch, foundry doors open.
+Then, to the reed keeper: "How much bed at a handspan?"
 
-A mobile forge rolls out on six furnace wheels. Its chimney lowers until the mouth points at his chest.
+"First terrace. Maybe half the second."
 
-*HOT. AWAY.*
+"At full?"
 
-Agreed.
+He looks through the rain vent. "All of it."
 
-Feskarn reaches for the giant's silver sword. His enormous hand closes around painted softwood.
+The warden waits one beat. "Count the loss. Help them open."
 
-Of course it is a prop.
+Work makes speech smaller. Bar under. Hold. Rope tight. Not that brick, the shoulder brick. The assay-master asks for chalk, then for a dry cloth because the first will not mark wet stone. You take readings at the crack, the old spill, and the upper gauge. Twice you start to call a blue change before she makes you wait for the boot noise to fade.
 
-The forge breathes white flame. Feskarn tries to step aside. Slime, thimble, hand, armor, dragon, giant: the command climbs the stack while the fire crosses the lane. It scorches one trouser leg black and ignites the dragon's remaining banners deep inside him.
+The first brick comes free with a gush no wider than your wrist. Muddy water spits across the gallery and runs into the old channel. The colony blanches into disorder.
 
-*HOTTER.*
+"Impact noise," you say.
 
-Feskarn jams the wooden sword beneath the forge's front axle. It cannot cut. It can still carry a load.
+"And load change," the master answers. "We wait."
 
-The forge advances over the blade. The softwood bends nearly double. Feskarn waits for his mountain-slow hands—no, giant-slow, he has not become ridiculous enough to be a mountain—and leans on the hilt.
+"Gauge?" calls the warden.
 
-The sword springs straight.
+"Still rising," comes the shout above.
 
-The forge leaves its wheels. It arcs over Feskarn's shoulder and strikes the hillside beside the drainage arch.
+They widen the opening to a handspan. Water drives through with a deep, hollow cough. The old channel catches it and carries it toward the reed beds. Behind the bricks, something settles with a sound you feel through your soles.
 
-Painted turf peels away in one sheet. Canvas trees snap their strings. Beneath the scenery stands a fortress-wide service gate with a white registration cross above it.
+"Crack seep slowing," you report.
 
-The hill is hollow.
+The master bends close. "Call the card, not the meaning."
 
-The forge rights itself in the wreckage. Its chimney turns toward Feskarn. Flame has already eaten through the giant's painted calf, and the fire inside the dragon is climbing toward the armor.
+You put the gauge edge to the bead. "Three drops in ten. Was nine."
 
-*HOLE.*
+"Upper gauge down one finger," the runner calls.
 
-That is not a hole. That is terrain.
+On the wall, the cold-blue branch beside the crack dims. Near the opened spill it strengthens, then thins as water finds the channel. Opaque bodies relax to green-brown. Three measures changing together. None of them says safe.
 
-*DARK TERRAIN.*
+The warden turns to the reed keeper. Rain shows silver through the vent behind him.
 
-The forge fires.
+He repeats what she has not wanted to hear. "Long rain, they blue there. The beds flood at two hands. At four, the lower bank goes. Today the crop's lost once you pass one."
 
-Feskarn seizes the gate lever.
+"Can we hold one?"
 
-The doors part into the hillside. Beyond them waits an empty chamber shaped around the giant, its floor marked heel, knee, shoulder, crown. Feskarn ducks through while fire washes across his back. The backward armor knee catches inside the dragon; the dragon's broken flank catches inside the giant. The delays turn one step into six impacts, each threatening to stop the next.
+He studies the flow, not the slimes. "Not through crest."
 
-He drags every layer across the threshold.
+The upper bell strikes the red mark.
 
-The doors fall shut behind his heels.
+The warden's next words come one by one. "Full old spill. Main gate holds one notch. No scour. Move everyone off the lower walk."
 
-The mountain takes a breath without lungs.
+The reed keeper grips the second pry bar. "Open the bed cuts first or you tear the bank."
 
-Canvas snowcaps spill water. Painted cliffs unfold over fortress legs. Thousands of false pines shake themselves awake. The service chamber, the giant, the dragon, the armor, the gauntlet, and the thimble become small nested pressures somewhere deep within a body that weighs more than Feskarn's old theater district.
+The warden changes the order without defending the first. "Bed cuts first. Two people with him. Then full spill. Go."
 
-The verifier bell does not strike again.
+You remain at the gauges with the assay-master while the gallery fills with boots, rope calls, brick dust, and rain. The wall pattern becomes useless. Mallet shocks throw blue everywhere; passing bodies send opaque ripples through the colony. When the storm strikes the outer face in earnest, even the wet mica runs.
 
-The tower splits down the middle.
+"No read," you say.
 
-Terraced rails spread across the yard. Compaction jaws rise around a furnace mouth. Between them, a stamping ram draws back. The final machine is wider than the route to the drainage arch, and it is already closing the distance.
+"Good."
 
-*RUN.*
+You look at her.
 
-Feskarn tries.
+"Good call," she says, and points to the gauge. "Now use that."
 
-His slime body moves at once. The thimble follows. The gauntlet, armor, dragon, and giant each receive a slightly older version of the command. By the time the mountain lifts one foot, its inner giant has begun putting that foot down. The whole slope twists. Stone ducks, false pines, and one decorative waterfall fall from his knee.
+So you do. You call heights and drop rates. You mark the crack at fixed points. You stop looking for intention in every color. The old spill opens brick by brick, and brown water takes the first terrace, the second, then the whole reed bed. Stalks flatten in shining rows. The lower bank holds because the reed keeper is out there in waist-deep runoff, shouting where to cut the overflow before the full release reaches him.
 
-The authenticity press advances faster.
+The reservoir gauge stops climbing.
 
-*LEAVE BODIES.*
+It holds through three readings. Then it drops.
 
-For one clean instant, Feskarn feels the route backward: out of mountain, giant, dragon, armor, gauntlet, thimble. Naked slime. Two onions of burden. The drainage arch forty yards away across the press's proving lane.
+At the crack, the beads slow and cease. The masonry does not heal; the fork remains, black and undeniable, but it does not widen. Below the wall, the main drain keeps its ordinary pitch. No ash-salt enters it. The covered trough stays covered.
 
-The first compaction jaw closes where the naked slime would have been.
+By dusk, the storm has moved past the ridge. Water still pours through the sacrificed beds, carrying broken reed heads toward the lower ditch, but the houses below the reservoir show cooking lamps instead of evacuation lanterns.
 
-No.
+On first repair watch, you sit at a trestle table in the gallery with the warden's wet record book between you. The crack has been braced. The old spill remains open under guard. Every quarter hour, someone measures the wall and reads the gauge aloud.
 
-Feskarn draws back the mountain's fist.
+The warden writes: alarm delayed seven minutes after first observed color pattern.
 
-He has thrown this backhand twice. Once by accident, once in armor. He knows the motion.
+You watch the nib. "Five before the crack. Two after."
 
-He throws.
+She inserts the figures. "Reason?"
 
-The thimble turns. The gauntlet turns later. The armor, missing an arm and a knee, yanks the dragon off line. The dragon rolls inside the giant. The giant's shoulder arrives before its hips. The mountain fist passes over the press and folds backward across its own chest.
+The answer you want is that no junior keeper should be blamed for failing to understand several dozen common slimes. The answer she can use is shorter.
 
-The press catches his elbow between its jaws.
+"I thought pattern before I checked load. Then I called it a warning."
 
-Furnace light enters the seam.
+She writes that too. "Crop loss?"
 
-Heat takes the painted trees first, then the giant's softwood sword, then the old banners inside the dragon. Feskarn commands the arm to pull free. Every layer pulls at a different moment. The jaws tighten.
+Across the table, the reed keeper names terraces, planting days, bundles expected, and the bank section to inspect at morning light. He does not make the loss noble. The warden does not ask him to.
 
-*NOW,* says the slime part.
+The assay-master leaves three cards beneath a stone: continuous film response; dry break; controlled gate response. Under them she adds limits in her square hand. Twelve observed, threshold not established. Relative water stress only. Irregular vibration and rain corrupt. No speech, prediction, identity, or safety claim supported.
 
-Feskarn strains harder.
+"And the slime?" you ask.
 
-*NOW. NOW. NOW.*
+She closes her case. "Which slime?"
 
-I am trying now.
+It rests in the same clay bowl beside your elbow, feeding on the last of the oat paste. Ordinary weight. Ordinary mouth. Ordinary acid. When you lift the bowl, it draws away from the vibration of your thumb.
 
-The answer comes not in words but in six distinct shudders. The slime feels the stamping ram through the ground before the mountain sees it move. Its body has been warning him at the first vibration. Feskarn has been answering at the last visible instant, then demanding that every shell pretend distance does not exist.
+"I thought you'd keep it for the assay room."
 
-Across his nested dark, white crosses drift out of alignment: thimble rim, gauntlet cuff, armor grille, dragon hatch, giant bay, mountain gate.
+"It answered nothing alone. Put it where you took it."
 
-Registration marks.
+The colony has gathered on the surviving wet mica below the brace. You rinse your hands, tip the bowl, and let the slime find the film by its own slow movement. At the twelfth contact—or perhaps the thirteenth; two bodies overlap beyond your count—a cold-blue edge passes through the group.
 
-Not instructions to move together. Marks showing when one piece has received another piece's motion.
+You write: blue after contact on wet film, old-spill load active. Relative pressure response; no directional use.
 
-The stamping ram locks forward. The next stroke will pass through the mountain and close over the smallest thing inside it.
+Not thanks. Not farewell. Not safe.
 
-Feskarn stops pulling.
+Behind you, the warden turns a page. "Gate order for midnight?"
 
-He lets the slime feel.
+"Old spill holds full," you say. "Main gate to mark six if the upper gauge drops another finger."
 
-*WAIT,* he thinks with the older voice.
+The reed keeper is already coiling the measuring rope. "And the bed cut?"
 
-The body trembles against heat and pressure.
+"Check at second bell."
 
-*WAIT.*
+"First bell. Bank's soft."
 
-The ram fires.
+The warden looks to you.
 
-Vibration reaches the slime through the flagstones.
+This time, you listen before you answer. "First bell. I'll take the wall reading while he checks the bank."
 
-*NOW.*
+"Record both," she says.
 
-Feskarn turns the thimble.
-
-He waits until pewter meets the mark inside the damaged gauntlet, then turns the hand. Iron receives the motion and carries it to the armor grille. The armor rotates without asking its ruined knee to stand. Its shoulder brings the dragon hatch across the next white cross.
-
-Dragon.
-
-Giant.
-
-At every layer the strike grows, and at every layer Feskarn refuses to hurry it. The press's ram crosses the yard. Furnace light fills the mountain seam.
-
-The giant's mark reaches the service gate.
-
-Feskarn releases the mountain.
-
-The valley backhands the press.
-
-His palm meets the stamping ram square. Stone fingers close around its head. The whole widening force of slime, thimble, gauntlet, armor, dragon, giant, and false terrain reverses the steel shaft into the open furnace.
-
-The verifier identifies its own ram as rejected material.
-
-Its routine accepts the mistake without embarrassment. Compaction jaws fold inward. Rails buckle. Furnace wheels climb over one another. The press stamps itself once, twice, and a third time, shortening with every blow until a smoking iron cube sits in the lane.
-
-The recoil drops Feskarn onto both mountain knees.
-
-Somewhere inside him, ten thousand brass clappers marked EMERGENCY APPLAUSE fall from their hooks.
-
-They make survival sound rehearsed.
-
-For a while, Feskarn does not move. Water from his false snowcaps runs through the seams and reaches the slime as cool mineral traces.
-
-*SAFE?*
-
-He waits for the outer echoes to settle.
-
-Safe.
-
-*DARK?*
-
-Very.
-
-*GOOD BODY.*
-
-Feskarn looks across the wrecked yard through sight tubes in the mountain's brow. The drainage arch remains beyond the iron cube. Reaching it will require perhaps nine steps and most of the afternoon.
-
-He begins with one.
-
-The foot comes down exactly where intended.
-
-On the third step, his heel cracks a brass plate hidden beneath the assembly lane. The plate flips upright against his shin. Its letters are large enough to read through the lowest sight tube.
-
-FALSE TERRAIN REHEARSAL BODY
-
-SCALE: ONE TO ONE HUNDRED
-
-FULL-SIZE STORAGE SITES: SIX
-
-Six arrows point beyond the drainage arch.
-
-Feskarn feels the old rigger's delight rise before he can stop it. A full-size shell would have weather systems. Continental sightlines. Entrances requiring maps.
-
-It would need someone who understood marks.
-
-*NO,* says the slime part.
-
-Feskarn takes another careful step toward the arch.
-
-*NO BIGGER BODY.*
-
-Certainly not, he agrees.
-
-The first arrow points into a tunnel wider than his mountain foot and perfectly dark.
-
-The slime considers this.
-
-*Maybe one.*
+The gauge clerk calls the next number from above. You set the slime bowl upside down to dry, reach for the ordinary pencil, and write it down.

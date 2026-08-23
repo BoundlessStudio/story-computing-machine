@@ -7,246 +7,476 @@ canon: false
 
 # The Kingdom That Said No
 
-Five columns of smoke rose beyond the eastern ridge, each one straight enough to have been drawn with a ruler.
+The first person in Varrowick to refuse Tarmel was a woman carrying a door uphill.
 
-I knew the grammar of alarm. One fire might be a shepherd burning ticks from a pen. Two could mark a lost child. Five meant a settlement had run out of smaller ways to be noticed.
+She had the thing balanced across her back, one hand through the latch opening, while her son dragged a sack of pans behind her. Rain ran off the door's lower edge. Tarmel reined his horse aside and called, "Is this the road to Lowharbor?"
 
-I left the road and climbed.
+"It was this morning. You're in the cart lane."
 
-From the ridge, Aldervane looked less besieged than dismantled. Red-roofed houses climbed the northern terraces, but the valley floor had been stripped into a broad clay avenue running east to west. Doors, shutters, fence rails, and whole sections of pale wall lay stacked above it. People moved uphill with baskets and coiled ropes. Beyond the open eastern boundary, something vast shouldered through the scrub.
+The boy pointed at the ditch. A wagon stood there with one wheel buried to the hub, its canvas cover painted with the red bowl used by Varrowick's physic houses. Behind it, carts and handbarrows jammed the climbing road. People had stripped doors, shutters, seed bins, even roof slates from the riverside houses below. They carried Lowharbor out in pieces.
 
-Its back stood higher than the orchard trees. Gray plates overlapped from its blunt skull to its dragging tail, and grass seeds made tawny fur of the seams between them. It walked on six pillar-thick legs. Each footfall pressed a dark bowl into the dust, while lightning crawled over its spine without finding the ground.
+Tarmel swung down. "I'll move the wagon."
 
-The smoke had brought me to fires, raiders, floodwater, and once to a prince who had mistaken a mine collapse for an invasion. The details varied. The sequence did not: identify the principal threat, find the exposed people, remove one from the other.
+"Good," the woman said, and kept climbing.
 
-I ran down toward Aldervane.
+He had expected bells, or a guard demanding whether he was Tarmel of the northern pass, Tarmel who had broken a siege with six mules and a saw. His arrival had become the last hopeful sentence in too many messengers' mouths.
 
-A woman waited beside a waist-high boundary stone painted in bands of white and ochre. She wore no armor. A flat case of signal flags hung at her hip, and she had one hand lifted toward a boy on a watch platform farther down the avenue. He answered with a square of white cloth.
+Instead, two checkpoint guards waved him toward the wagon.
 
-“Brevic Jandor,” I called before she could challenge me. My name had opened gates from the salt marshes to the river courts. “I saw your alarm.”
+"Horse below the shafts," one said.
 
-Her attention moved from my face to the sword on my back, then to the animal behind me.
+"I know how to clear a wheel."
 
-“Passage smoke,” she said. “Five columns means it crossed the east crown. Stop at the stone.”
+"Then you know why you're standing on the wrong side."
 
-I stopped because she had given a clear order, and because clear orders usually saved time. “Who commands your evacuation?”
+The guard was young enough that rain still beaded on the down along his jaw. His companion, an older woman with a slate hooked to her belt, looked once at Tarmel's scarred coat and the iron-headed wedges strapped behind his saddle.
 
-“The galleries command their own. I command the route. Neya Orm.”
+"We know who you are," she said. "Lift when I count."
 
-“How many remain below the third terrace?”
+The wheel came free under his shoulder. The guards packed stone into the rut while the driver soothed a sweating mule. Tarmel put his horse on the downhill verge, out of the carts' way, and studied the country ahead.
 
-“Route crews. Two signal runners. No households.”
+Lowharbor lay in a broad scoop between the river and a high eastern terrace. Slate roofs stepped down toward a stone palace whose lower courtyards were already brown pools. Upstream, beyond the last warehouses, the river disappeared behind a raw black ridge. Half a mountainside had come down across it. The new reservoir showed above the ridge in flashes of gray, too high and still climbing.
 
-“Good. I can turn it before it reaches the first wall.”
+"How long?" Tarmel asked.
 
-“No attack. No diversion. No rescue.” She pulled an ochre flag from her case but kept it furled. “If you enter, your sword stays tied and you keep above the white stones.”
+"Before it goes over? After dark," said the slate woman. "Earlier if more of the hill moves."
 
-The animal's next step sounded through the soles of my boots. “You have a storm beast walking at your homes.”
+"Then get me to your powder stores. I can cut a notch through the slide before the water chooses one."
 
-“A thunderback. It walks to the west cut every midsummer. My grandmother kept this route before I did.”
+She shook rain from her slate. "No blasting."
 
-“And if it changes its mind?”
+"You haven't seen what an uncontrolled breach does."
 
-“It is an animal. We watch its shoulders.” She glanced at the eastern platform. The white flag remained out. “White means centered. Ochre means north drift. Blue from a shelter niche means the runner is clear. If you don't know a signal, you don't move.”
+"The engineers have. No blasting."
 
-She spoke while counting distances, not while trying to convince me. That made her refusal harder to place. Frightened officers talked too much. Corrupt ones made a show of calm. Neya only checked the platform again and told a crew at the nearest wall to pull their last hinge pin.
+"And the wall?"
 
-“Why open the kingdom to it?” I asked.
+"No defending the lower wall either."
 
-“By midsummer, the valley floor is hard enough to shed rain into the cut. Its feet break the pan. Seeds ride in the plates. The storm follows it down.” She pointed with the furled flag. “The lower orchards drink through those cracks. Here, in this valley. That's what we know.”
+Tarmel looked down at the city being dismantled. "What exactly do you intend to save?"
 
-The thunderback lowered its head to squeeze between two red outcrops. Blue-white sparks jumped between the blunt plates above its eyes.
+The younger guard made an impatient sound. His companion only pointed her chalk uphill.
 
-“You could break the ground yourselves.”
+"The medicine wagon, for the next thirty breaths. After that, ask the queen."
 
-“Not forty acres in one afternoon.”
+Queen Nadrys had no throne in the granary yard. She had a trestle table under an awning, three wet maps held flat by cobbles, and a row of black and white tally pegs. Clerks came and went with counts from the evacuation routes. A cavalry officer was arguing beside the table while a miller in a flour-streaked coat argued louder.
 
-“I could.”
+"Give him fifty riders," the officer said when Tarmel approached. "We can brace the riverside gates until the slide is opened."
 
-“Then you would still not be carrying a season's seed or drawing that rain.” Neya finally looked directly at me. “We've cleared its line. You haven't found an emergency here.”
+"With what?" asked Nadrys. She was a narrow woman in a plain oilskin cloak. The crown fastening it at her throat looked less ornamental than the hooks on Tarmel's climbing harness. "The gate crews are at the spillhouses. The last fit horses are hauling patients."
 
-I had been told that before, by men hiding fever pits, by magistrates whose locked granaries were technically not on fire, by a mother so afraid of soldiers that she had denied raiders were inside her house. Refusal was information. It was not always an answer.
+The miller slapped a palm on the lower-city map. "My bins are behind that wall. Grain for winter, not cushions and silver. If you open the spills, you drown all of it."
 
-I unbuckled my sword belt, wrapped the peace cord twice around hilt and sheath, and held it out for her inspection.
+"If I keep them closed, the uncontrolled flood takes the eastern terrace with your bins."
 
-“White stones,” she said. “Stay above them.”
+"So the terrace gets a queen and I get an apology?"
 
-Inside the boundary, the cleared avenue was more deliberate than it had looked from the ridge. Waist-high marker posts divided it from the northern stairs, and a timber guide gate closed the lowest stair. Low stone niches had been cut into the shelves on both sides of the route, each narrow at the mouth and wider behind, with a second crawl opening uphill. On the south side, beyond the first niches, an orchard wall ran beside an empty yard of raked clay. Its panels rested on chiseled feet, held upright by two rope-bound release beams.
+"You get your household alive. Compensation is tomorrow's fight."
 
-Not surrender, then. Preparation. But preparation could fail.
+"From what treasury? Yours is down there too."
 
-A man and his teenage daughter were lifting the front wall off a low house near the corridor. The roof remained on four heavy posts; the plaster panels slid free between them. I caught one before it tipped.
+Nadrys glanced toward the palace, then moved a white peg from one column to another. "Exactly."
 
-“The north stair is open,” I told them. “I can get you both above the ridge before the animal enters.”
+The officer said, with visible relief, "Your Majesty, this is the traveler."
 
-The man shifted his end of the panel. “My father is already in the fourth gallery. She runs hinge pins to Orm. We need this on the rack.”
+"I can see that," Nadrys said. "What have you inspected?"
 
-“If the route moves north—”
+Tarmel put both hands on the table. The map showed the rockslide, three old spill channels, the lower city, and four settlements inked farther along the river. "Enough. The slide needs a cut along its western shoulder. Done before the reservoir reaches the loose crown, it will lower the water without taking your capital. I've opened larger blockages."
 
-“Then three short notes send the fourth gallery to the red stair.” He nodded at my hands. “Higher. The wet edge chips.”
+"Where?"
 
-We set the panel onto a timber rack. The girl scooped its iron pins into her apron and ran them toward Neya without waiting to thank me.
+He named a mountain lake, a silted delta, a siege reservoir that had threatened three provinces. The officer nodded at each. Nadrys listened without looking impressed or doubtful.
 
-Near the eastern stakes, a red-sashed runner stood along the south marker line, one white and one ochre flag tucked through his belt. I stepped down from the white-marked margin to meet him.
+"At the mountain lake," she said, "what lay west of your cut?"
 
-“I can take that post,” I said. “You'll clear faster uphill.”
+"Bare gorge."
 
-He watched the thunderback, not me. “Which forefoot shortens when it drifts?”
+"Here it's the east terrace. Eleven hundred people, the infirmary, both upland roads. The slide is resting on a shelf our surveyors can't see under this rain. If your cut pulls the shelf, can you tell me the first surge will stay in the old bed?"
 
-I followed his gaze. The animal's gait looked slow only because of its size. Its left front foot landed a little ahead of the right, crushing a thornbush into the first deep print.
+"No one can tell you what water will do to the foot. That's why you open a controlled notch at the top."
 
-“Left,” I said.
+"Can you tell me your notch will remain controlled?"
 
-“Right. Left is reaching. Get behind the stones.”
+"I've done it before."
 
-Neya's whistle cut once. I returned to the margin as the runner raised white.
+"Somewhere else," said a voice at Tarmel's elbow.
 
-The west-cut horn sounded one long note: the far end of the route was clear. Every terrace answered in descending order. People vanished from stairs and overlooks. The man at the panel house hauled the rack uphill. The girl with the pins crouched beside Neya's flag case.
+The miller had not left. Neither had a woman clutching a cage with two soaked hens in it. She looked at the map and said, "My sister's in the lower infirmary. If the terrace is so precious, why haven't they brought her up?"
 
-The thunderback entered Aldervane.
+A clerk answered, "Third litter team is there now."
 
-It did not charge. Its plated head swayed a few feet above the clay, tasting the corridor with two dark tongues. The air tightened until the hair along my arms stood up. Then its front foot came down.
+"They said that an hour ago."
 
-The hardpan cracked in a wheel around it.
+"I have the transfer mark."
 
-That was when I understood why picks and plows were not the same. The break ran deep enough that cool, dark earth showed at its center. Burrs and seed husks sifted from the thunderback's moving plates. The creature advanced, and the valley opened beneath it one print at a time.
+"I have her hens. That's not the same thing."
 
-The runner moved backward between the stakes. White stayed level in his left hand. With his right, he gave two quick downward cuts: speed steady. Neya replied from the boundary.
+The officer tried again. "We can still hold the wall long enough for the traveler to work."
 
-I knew coordinated retreats. I had held a bridge while three hundred people crossed behind me. I had split a fallen gate beam along its grain and lifted each half clear. My strength required a grip, a seam, somewhere for the weight to go. It could not stop a charging mass on bare ground, but stone had always offered me an argument I could win.
+Nadrys picked up a black tally peg. "The wall holds the river in Lowharbor until it overtops. Then it sends the full head downstream with no warning. There are four settlements below us and no uphill road from the nearest two. We sent runners at noon. They need the early release, not another hour of quiet here."
 
-The thunderback's shoulder brushed the south shelf.
+"They aren't Varrowick's capital," the miller said.
 
-The runner folded his flags and dived into the nearest south niche.
+"They are Varrowick." Nadrys seemed to dislike the neatness of that as soon as it was out; she dropped the peg into the map box and turned to a clerk.
 
-From where I stood, the opening seemed scarcely deeper than his body. The thunderback's next foot struck beside it. Loose clay rattled over the niche mouth and hid it. No blue flag appeared.
+"Lower infirmary?"
 
-I heard Neya shout my name. I thought she was too far away to see the ledge moving.
+"Seventeen moved. Six to go. One litter team delayed by the wheel rut."
 
-There was a clean fault in the south shelf, pale as a scar. I crossed the white stones, planted both hands beneath the lip, and drove upward.
+The woman with the hens rounded on Tarmel. "You fixed that wagon?"
 
-Rock split with a report that flattened every other sound.
+"Yes."
 
-I had meant the slab to fall squarely in front of the animal and stop it long enough for the runner to escape. Instead, the shelf broke beyond the seam. Three blocks the size of carts dropped into the avenue. One buried the niche mouth. The largest rolled to the north marker line, while the third struck the orchard wall and pinned its eastern release.
+"Then do something useful twice."
 
-The thunderback recoiled. Lightning struck both corridor walls at once. Then the animal swung its head away from the fresh rubble and stepped north, toward the stair that climbed to the occupied terraces.
+Tarmel felt the familiar narrowing in his chest. There was always a point in a crisis when debate became indulgence. A bridge burned while committees discussed rope. A starving town counted who had authority to open a storehouse. He had learned to recognize that point and move before permission caught up.
 
-Five short horn blasts tore across Aldervane.
+He tapped the western shoulder of the slide. "I brought powder. I need six people who can place it and a boat to cross the backwater."
 
-Neya reached me as I dragged at the block over the niche. She struck my forearm with the wooden handle of her flag.
+"No," Nadrys said.
 
-“Leave it.”
+"If you wait until dark, you lose the choice."
 
-“Your runner is behind this.”
+"I've made it. We open the three old spillways. The lower basin floods. The terrace and the downstream settlements receive a smaller surge."
 
-“The rear throat opens uphill. He's moving to the third post.” She pointed west. A blue square had appeared beyond the dust, held by a red-sashed arm. “You closed the route.”
+"You lose the capital."
 
-The north guide gate shook under the thunderback's breath. Above it, people streamed along the third terrace toward a red-painted stair.
+"I can spend soldiers and stores on getting people out. I can't wager the eastern households on your confidence."
 
-“I'll draw it south,” I said.
+"But you can wager the lower households?"
 
-“You will not draw anything.” Neya snapped open a black flag and sent it around her head. Crews on both walls answered. “The rain yard is our bypass. Your fall has pinned its first release. The second takes longer than that gate has.”
+The miller said, "There's the question."
 
-“I caused this,” I said. “Tell me what to move.”
+For the first time, Nadrys's hand stopped over the pegs. "No. I can order an evacuation and open crown works. I can't make him agree it was just."
 
-Her gaze went from my hands to the fall.
+The rain on the awning filled the pause.
 
-“Blue cloth marks the stones. Carry them south of the black stakes. Nothing unmarked. Then brace the north gate when I whistle twice.”
+Then a worker in a tarred hood ran into the yard, slipped, caught the table, and smeared half the river map under one palm.
 
-She thrust a bundle of blue strips into my hands. “Now listen.”
+"Central shutter won't lift," he gasped. "Channel-master wants every spare hand out of the lower street."
 
-Masons were already crawling over the fall. One slapped cloth against a block and pointed; I lifted it. Another stopped me when I reached for a larger slab.
+Nadrys pointed at Tarmel. "Observe under Sarto. You touch nothing she doesn't ask you to touch."
 
-“That one holds the ledge,” she said. “Blue only.”
+"I don't work as an observer."
 
-I carried the marked stone past the black stakes and laid it where she indicated. Under ordinary strain, my gift felt like heat driven down through muscle into whatever I held. The block had edges. The ground gave me purchase. It moved.
+"Then keep your powder dry and watch from here."
 
-Behind us, the thunderback shoved its brow against the north guide gate. Timber groaned. People above called stair counts—not prayers or screams, just numbers passed landing to landing. The red-sashed runner reached the third post and raised ochre. North drift increasing.
+The worker was already running back downhill. Tarmel looked at the black ridge upstream, at the straight white lines of the mapped channels, at all the differences the map could not contain.
 
-We cleared a narrow channel along the south edge of the fall. It was not enough for the animal, but it exposed the first rain-yard beam, crushed beneath the block jammed against the orchard wall.
+"Where's Sarto?"
 
-Neya whistled twice.
+Sarto walked too fast to make conversation easy. She was short, broad through the shoulders, and gray at the temples, with a rolled works plan inside her coat and a sounding rod taller than she was.
 
-I ran to the north gate and set my shoulder beneath its crossbar. The gate was built to guide, not withstand. Its footings shifted in the cracked clay as the thunderback leaned harder. Static burned pinpricks over my neck. I gave the weight somewhere to go: boots against the stair curb, back beneath the timber, hands locked around an iron brace.
+"Your western spill should be taking more," Tarmel said as they descended. Water sheeted along the steep street around their boots. "The outlet angle is clear."
 
-“Set wedges!” Neya called.
+"The outlet is clear. The throat isn't."
 
-The panel-house man drove the first wedge beside my left boot. His daughter hammered another home. Neither looked at me. The gate dropped half an inch and held.
+"Then scour it."
 
-Across the corridor, crews threaded ropes through the second rain-yard release. The first beam remained pinned. Neya watched the animal's head, the rope crew, and the runner at the third post. Her flag stayed black.
+"West is already at two-thirds. There's no scour flow to spare."
 
-The thunderback lifted one forefoot. The runner broke from his post and sprinted toward the next niche, directly across the animal's front.
+At an alley mouth, three men wrestled a loom onto a handcart. A fourth pried copper guttering from an abandoned countinghouse.
 
-Every rescue I had ever made arrived in my body before thought: let go, cross the distance, take the blow first.
+"That's not yours," one of the loom carriers told him.
 
-“Hold north!” Neya shouted.
+"Won't be anybody's by midnight."
 
-The runner dropped flat behind a stone deflector. The thunderback's foot came down where he had been. He rolled through the niche mouth and, a breath later, thrust blue from its uphill throat.
+"Put it back."
 
-I kept my shoulder under the gate.
+Sarto stepped around them. Tarmel stopped.
 
-“Wedges set,” the man said.
+"You have guards for that?"
 
-Neya's black flag fell.
+"Two streets up, moving people."
 
-“Release south!”
+"He's looting."
 
-I left the gate to the wedges, crossed to the pinned beam, and got both hands under the broken end. The beam had no useful seam. I could not split it without bringing more wall down, so I lifted the stone that trapped it instead, inch by inch, while the south crew hauled.
+"Yes. Mind the chalk."
 
-The first beam tore free. Across the yard, the rope crew ripped the second from its sockets.
+A blue line crossed the stones at their feet. Tarmel stepped over it.
 
-Wall panels dropped outward in sequence, their chiseled feet snapping cleanly. They struck the empty rain yard in a pale burst of plaster and dust. An open swath of raked clay appeared beyond them, curving around the rockfall and back to the western corridor.
+"What is it?"
 
-The thunderback turned toward the new space.
+"High-water estimate."
 
-The creature shied from the broken stone and chose the lower ground Neya's people had prepared. Its head passed through the released wall. Its shoulders followed with a grinding of plates against timber. One rear foot crushed a panel to powder; the next sank into the rain yard and split its clay bed from end to end.
+"It's at my knee."
 
-The north gate sprang straight behind it.
+"At this corner. Waist-deep at the next. Don't fall there."
 
-Neya kept signaling until the dragging tail cleared the last house. White flags traveled west, post by post. The thunderback regained the old avenue beyond the rubble and walked toward the cut, shedding seed into every fresh fracture.
+Below the blue line, Lowharbor had the orderliness of a house whose owner expected fire. Shop doors stood open. Cupboards were empty. A baker passed warm heel-ends through a window because the oven would soon be underwater. A woman on a roof shouted that no one had come for her chimney iron; someone below shouted back that she could marry it if she meant to stay. Two soldiers knocked from door to door, one carrying a small dog.
 
-Only then did the rain come.
+Tarmel tried three more questions about the channels. Sarto answered in measurements: half a turn, two fingers of drop, one loaded pier, eighteen years since the central blade had been fully raised. When he described a timber dam he had split with chained wedges, she asked what kind of timber. When he told her, she shook her head.
 
-It struck hard enough to erase the dust in seconds. Water ran off the terraces, found the black wheels opened by the animal's feet, and vanished into the ground instead of racing toward the western cut. Lightning moved away above the thunderback's back. The released wall sagged into mud. No one cheered.
+"Ours is black oak. Swells cross-grain."
 
-Neya closed her flag case. “South shelf first,” she said. “If that lets go in the rain, it takes the niche.”
+"All timber swells."
 
-The runner crawled out of the uphill throat with blood on one elbow and clay pasted to his red sash. I met him beside the buried entrance.
+"You're driving with the grain. It won't clear the same."
 
-“I saw you go in,” I said. Rain streamed off my nose and chin. “I decided your signals were too slow. I am sorry.”
+The spillhouse straddled a stone race at the northern edge of the lower city. Its roof trembled under the winch. The western channel roared brown beneath a half-raised shutter; the eastern channel ran lower and faster. Between them, the central shutter remained shut except for a frothing hand's breadth at its sill.
 
-He looked at the block, then at Neya's blue strips still knotted around my wrist.
+A gray-haired winchman leaned his full weight on the brake lever. "Chain jumped twice. Teeth are going."
 
-“Lift when I tap,” he said. “If you lift before, the roof follows it.”
+"Lower gallery?" Sarto asked.
 
-He crawled under the sheltered edge with two masons. I put my hands where they marked. This time, I waited for the tap.
+"Two still across. The footbridge shed its middle board."
 
-At dusk, Aldervane's route crews gathered beneath the third gallery to record the passage. Neya read the signal times from a slate. A clerk recorded one damaged guide gate, eleven released wall panels, one blocked niche, and the evacuation of two northern terraces. When she reached the cause of the blockage, she looked at me.
+A voice rose from somewhere under the floor. "Shed three!"
 
-“South shelf broken by Brevic Jandor after the runner entered cover,” I said. “No diversion had been ordered.”
+"You said two."
 
-The clerk's chalk scratched. That was all the public answer anyone asked of me.
+"It was two when I shouted!"
 
-I stayed through nine days of repair. The route masons counted my hours against the stone, timber, and plaster I had destroyed. They marked every load. I hauled blocks from the quarry, held posts while their feet were cut, and learned that a breakaway wall was harder to build than a strong one because it had to fail in only one direction.
+Sarto dropped to one knee beside a narrow maintenance slot. Through it Tarmel saw the slick top of the shutter, bowed toward them by the reservoir's weight. The stone guide on the terrace side had cracked. Muddy water spat from the joint in pulses.
 
-On the tenth morning, Neya inspected the rebuilt niche by crawling through it herself. She emerged uphill, brushed red grit from her knees, and handed me the road book I had left in her signal room to keep it dry.
+He unstrapped his wedges. "Cut the split guide away. The blade will twist free."
 
-Its last pages held the places I counted as rescues: names, threats, people removed alive. I opened to the next blank line, then turned back to the section for debts and entered nine days of labor against Aldervane's eastern route.
+Sarto did not look up. "That guide keys the terrace pier."
 
-Neya watched my pencil. “The west road is clear,” she said. “Rain took the lower ford, so use the terrace track for two miles.”
+"A finger's width of stone isn't holding a terrace."
 
-“Understood.”
+"The pier is. Cut the key and the pier can walk into the race."
 
-She had already turned to inspect a bundle of replacement flags.
+"Can, or will?"
 
-Three weeks west, I found a hamlet gathered around a freight wagon canted into a washed-out ditch. Two teams had ropes on the axle. A woman in a green cap was chalking load points on the stones while a driver tried to quiet the horses.
+She put her sounding rod against the floor. "The crack's widened since noon. Cut the key and the pier starts moving."
 
-My hands had found the wagon's high side before anyone recognized me. I took them off.
+The winch gave a hard metallic cough. Everyone in the house went still except the water.
 
-“Do you need another back?” I asked the woman with the chalk. “If you do, where?”
+Tarmel had heard that cough before: a bridge cable unlaying itself, a ship's towline sawing through its fairlead. He crouched at the slot. "Take the strain off the chain."
 
-She considered the axle, marked one stone with a white cross, and pointed.
+"And let the shutter seat?"
 
-“There. Not the wheel.”
+"The next tooth will break."
 
-I went where she sent me.
+The winchman said, "He's right about that."
+
+Sarto made two quick motions. The winchman eased the brake while Tarmel and a porter fed a second rope around the drum. The main chain sagged. One tooth, already bent silver at its root, settled clear of the gear.
+
+From below came a splash and a curse.
+
+"Water's over the ledge," one of the trapped workers called.
+
+Sarto unrolled her plan on the wet floor and pinned its corners with tools. "Maintenance slot here. We lower a loop. They cross one at a time."
+
+Tarmel looked at the distance between the slot and the broken bridge. "Once it lifts, the current puts them under the sill."
+
+"Not if we stop it at two hands."
+
+"It won't lift."
+
+"That's why Nadrys sent me a famous observer."
+
+She drove two narrow steel shims into the accessible side of the shutter and showed Tarmel where to set his broader wedges above them. He understood the shape then: not forcing the blade upward, but rocking it in the guides a fraction at a time while the auxiliary rope carried what the failing chain could not.
+
+They set to it. Tarmel had done finer work under worse fire, but never with a channel-master striking his wrist whenever his angle wandered.
+
+"You're crushing my shim," she said.
+
+"I'm moving your gate."
+
+"You're making expensive filings. Shall I bill your horse?"
+
+The porter barked one laugh and stopped when the floor lurched.
+
+The muddy spit at the terrace joint became a stream. Tarmel felt a faint knock through the wedge handle: not the rapid chatter of timber in a guide, but a slow double beat. He took his hands away.
+
+"Again," he said.
+
+"We don't have again."
+
+"Listen."
+
+Sarto's face changed, not with agreement but calculation. She put two fingers on the wet stone. The double beat came once more, beneath the western channel's roar.
+
+Tarmel said, "I've heard that when water finds a pocket behind a retaining face. Not this wall. A quarry cut, years ago. It pushed mud through the joints before the face moved."
+
+"Which face?"
+
+"The one under us, perhaps. I don't know your works."
+
+That admission cost less breath than he had expected.
+
+Sarto dragged the plan closer. Her nail traced a faded branch buried beneath three later repairs. "Old equalizing throat. Supposed to be packed solid." She looked toward the western winch. "It isn't solid. West flow is loading the back of the central guide."
+
+The gray-haired winchman bent over the drawing. "Close west? Now?"
+
+"Two turns."
+
+"Reservoir's at the red nail."
+
+"I can see the nail. East open another half first. Then west down two."
+
+"East chain slips."
+
+"Then give it three hands and stop telling me what I know. Move."
+
+Orders crossed the spillhouse in pieces. A porter ran east. The winchman shouted the turns. Below, one trapped worker wanted to know whether anyone remembered them; the other told him to shut up and tie the rescue loop. Tarmel braced the auxiliary rope around his back and watched the muddy seam.
+
+The roar changed pitch. The double beat weakened.
+
+"Now," Sarto said.
+
+They hammered the wedges. The shutter shifted the width of a thumbnail, stuck, then shifted again. The porter on the rope lost his footing. Tarmel caught the line across his forearm and went to one knee. Heat tore through his glove.
+
+"Hold there," Sarto said.
+
+"I am holding."
+
+"Not you. Everyone else."
+
+For three breaths she studied the gate as if the bending timber might answer a private question. Then she knocked the terrace-side shim free.
+
+The blade jumped upward.
+
+Water punched through the opening and filled the race with white. The spillhouse shook hard enough to fling tools across the floor. The main chain snapped three links above the shutter. One end lashed through the roof; rain poured through the gap.
+
+"Loop down!" Sarto shouted.
+
+The first worker came into sight below, wrapped in the rope and running sideways along what remained of the ledge. Tarmel paid out when Sarto chopped one hand down, hauled when she closed her fist. The worker hit the near wall, found a rung, and came through the slot coughing.
+
+The reservoir pressed the shutter higher. The auxiliary rope creaked against Tarmel's harness. If he let it run, the blade would tear free before the second worker crossed. If he locked it, the line might pull him through the slot.
+
+"Next," he said.
+
+Nothing moved below.
+
+The rescued worker rolled onto his stomach. "He lost the loop."
+
+Sarto reached for it, but Tarmel caught her coat. The slot was too narrow and the channel beneath it had become a brown hammer.
+
+"Tell him where," Tarmel said.
+
+She lay flat and thrust the end of her sounding rod through the opening. "Right hand on the rod. Not the rope. Rod first."
+
+The unseen worker shouted something they could not hear.
+
+"Again!"
+
+The rod jerked. Sarto's shoulder slammed against the slot edge. Tarmel shifted one foot, keeping the shutter rope loaded across his back, and caught her belt with his free hand.
+
+"I have him," she said through her teeth. "Give six inches."
+
+"The gate will take it."
+
+"Six."
+
+He gave six. The line burned deeper. Below, the worker seized the loop. The others hauled him across, dragged him into the slot, and fell backward in a heap.
+
+The floor dipped toward the terrace pier.
+
+"Everybody out," Sarto said.
+
+The gray-haired winchman stared at the machinery. "We can catch the blade on the second pawl. Save the drum."
+
+"No."
+
+"It's the last service winch."
+
+"And this is its last service. Out."
+
+He ran.
+
+Sarto waited until the two lower workers were through the door. Water sprayed from the cracked joint in a solid sheet now. The shutter hammered beneath Tarmel's rope, demanding release.
+
+"On my hand," she said.
+
+This was the moment a song would hand to Tarmel: one man holding a river. Songs left out the channel-master watching three flows at once.
+
+Sarto dropped her hand.
+
+Tarmel opened his grip.
+
+The rope ripped away. The central blade tore past the broken gear and vanished into the roof shadow. A wall of reservoir water struck the race. Sarto and Tarmel ran as the winch frame folded behind them.
+
+They reached the blue chalk line before the first surge entered Lowharbor.
+
+From the climbing road, the city seemed to fill from several directions at once. Brown water shouldered through the lower gate, spread across the market, and turned the palace courtyards into one widening pool. Roof slates shivered in the current. A barrow spun between two lamp posts and broke apart. The mill's riverside wall held long enough for Tarmel to think it might survive, then bowed inward. Grain rose on the water in pale rafts.
+
+The miller stood beside him, making a sound too quiet to be weeping and too steady to be prayer.
+
+Farther east, lanterns marked the terrace edge. The ground there held.
+
+After dark, the reservoir stopped climbing. It did not become safe. Water still strained through the slide and rain still fell, but the four downstream signal fires answered in order. The first controlled surge had reached them below the warned marks.
+
+At the camps above Lowharbor, survival arrived as paperwork, wet blankets, and accusation.
+
+"You counted my mother twice and my nephew not at all," a woman told a clerk.
+
+"Which shelter is your nephew in?"
+
+"If I knew that, would I be standing here?"
+
+Near the cookfires, the man who had stolen the copper guttering tried to trade it for a dry tent. Two loom carriers recognized him and began shouting. The woman with the hens found her sister from the infirmary and then demanded to know who would pay for the birds' ruined feed. Soldiers kept people away from the red cords marking the unstable slope.
+
+Nadrys sat on an upturned grain measure under a leaking shelter. Her crown clasp was gone. A clerk read figures to her while she rubbed mud from a white tally peg.
+
+"Lower infirmary, complete," the clerk said. "North camp has four names unmatched. Could be duplicate spellings. One spill worker with a broken wrist, two with rope burns. No confirmed dead in the city. The lower-road runners haven't returned."
+
+"Don't call them dead because they're late," Nadrys said. "Next."
+
+The miller waited beside the shelter. When she looked up, he said, "You knew exactly what the water would take."
+
+"No."
+
+"You put it on a map."
+
+"I put an estimate on a map."
+
+"My winter grain is in the river."
+
+Nadrys held out the peg, then seemed to realize he would not know what it meant. She set it down. "Bring your inventory to the west table. It won't be questioned tonight. Tomorrow it will."
+
+"Tomorrow you'll say the treasury drowned."
+
+"It did."
+
+He looked at Tarmel as though waiting for a different judgment. Tarmel knew how to give one. He had given judgments in courtyards still smoking from battle, with grateful governors close enough to hear and defeated men kept beyond the gate. Here, the miller's flour coat had gone translucent in the rain. There was nothing Tarmel could say that would put grain back behind the wall.
+
+The miller left for the west table.
+
+Nadrys turned to Tarmel. "Sarto says your observation changed the sequence. She also says you nearly powdered the terrace pier."
+
+"I didn't."
+
+"A rare mercy."
+
+He was too tired to decide if that was mockery. "You were right about the slide."
+
+"It hasn't breached yet."
+
+"It may not before morning."
+
+"Then we have until morning."
+
+The clerk beside her dropped a stack of damp tally sheets. Nadrys bent to help gather them.
+
+He thought of his horse tied above the granary, his powder still dry, and the road beyond Varrowick. Elsewhere, departure had been the cleanest part. A gate repaired, a beast dead, a banner lifted: the remaining trouble belonged to those who lived there. He had called that trust.
+
+"What do you need?" he asked.
+
+Nadrys handed the recovered sheets to the clerk. "The lower-road runners. Three went out. One came back before the surge. We need someone to follow the ridge path to the second signal station. Not the river road."
+
+"I can find them."
+
+"You can look. If the path is cut, you turn back. If they crossed the red cords, you report it before you follow."
+
+Tarmel almost answered with the names of worse paths he had crossed. The words assembled and then went unused.
+
+"Who knows the ridge?"
+
+Nadrys nodded toward a tired guard holding a hooded lantern. It was the young man from the checkpoint.
+
+"He does."
+
+The guard passed Tarmel the lighter coil of rope and kept the map. At the edge of camp, someone called after them to wait. It was the woman with the door, her son stumbling behind her with the sack of pans. She shoved two heel-ends of bread into the guard's hand.
+
+"For the road," she said.
+
+"We're coming back," the guard told her.
+
+"Then don't eat both."
+
+He put one heel in his coat and gave the other to Tarmel. Then he lifted the lantern and chose the narrow path above the drowned city.
+
+Tarmel followed.

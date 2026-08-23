@@ -6,14 +6,17 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Alexstrasza | new | Prompt-given immortal keeper of the frozen temple; no exact or alias reuse found. The story never shortens her name, so the existing Alexander Mercer alias `Alex` is readily distinct. |
-| Kelyth | new | Young first-winter dragon whose final flame reveals the source of the arrivals' borrowed memories; no exact or alias reuse found, and the nearby forms Kelan Rusk and Kelpass remain readily distinct. |
+| Alexstrasza | new | Prompt-supplied story-local immortal keeper; no external franchise history, powers, or relationships are imported. No exact, alias, close-spelling, or confusing reuse found. |
+| Ygdrane | new | Dying elder who voluntarily offers his final flame; no exact, alias, close-spelling, or confusing reuse found. |
+| Ceryth | new | Young refuge organizer who protects consent and coordinates the survivors; no exact, alias, close-spelling, or confusing reuse found. |
+| Ulune | new | Young dragon who tests and communicates the resonance through bounded sensory signals; no exact, alias, close-spelling, or confusing reuse found. |
+| Parrox | new | Young dragon responsible for ventilation and practical work; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The frozen temple and its chambers are unnamed. |
+| Stillfire Temple | new | Frozen death sanctuary, shortened to Stillfire in the prose; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -28,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: none
+- Notes: Final-flame residues remain nonverbal and consent-bound; the youths choose the irregular counter-pattern, all sixty-one survive with their flames intact, and Ygdrane's delayed burial completes the rite.

@@ -2,36 +2,45 @@
 
 ## Story
 
-- Central promise: In second-person present tense, an unnamed village child falls through a human-sized rent in the Dark Forest's ninety-three-year barrier and must explain the impossible to its unnervingly intent maker. The answer is practical rather than power-based: by propagating a living blackberry runner across the boundary and later cutting it from its parent cane, the child shifted one of the spell's root anchors and unstitched a seam that brute force could not open.
-- Character pressure: The child wants to get home without being eaten or punished; the Witch of the Dark Forest needs the exact sequence before the damage spreads and a returning dragon can exploit it. Her feast-like stare and long isolation make every reassurance sound threatening.
-- Turn: Once the child describes bending, pegging, watering, rooting, and finally cutting the runner, the witch realizes the barrier defeated attacks by tightening its ninety-three annual layers around the forest's living root network. The child never attacked it; patient cultivation changed what the ward counted as its edge.
-- Ending intent: Witch and child use the same insight to rebind the seam around a deliberate, inspectable gate before the dragon strikes. After the repaired barrier holds, the witch releases the child, admits she is hungry for a mind that notices what hers missed, and offers lessons only with the child's and village guardian's consent.
-- Drafting authority: The prompt is authoritative; these causal and scene details are advisory.
+- Premise and central promise: An unnamed young basketmaker has opened a person-wide tear in the village's ninety-year barrier. The Witch of the Dark Forest questions them, then reconstructs the accident before the weave spreads. Resolve both mysteries: frontal dragon force tightens the ward, but the youngster reversed one sheltered crossing as if freeing a snagged basket strand; the Witch hungers for that method, not punishment or flesh.
+- Focal pressure or attachment: The youngster wants to get home without blame, involuntary apprenticeship, or proof of dangerous power. Fear makes them defend innocence instead of recalling tactile detail, yet pride will not let the Witch describe woven strain incorrectly. She needs an exact reconstruction while preserving an inside emergency release; long solitary responsibility has ruined her reassurance.
+- Counterforce or complication: Each barrier pulse draws more slack toward the reversed crossing. A hurried patch will reopen or seal the village inside. The Witch perceives magical load but not the lost sequence; the youngster remembers through their hands, not orderly explanation. Her concentrated questioning and their appeasing answers obstruct truth without making either an antagonist.
+- POV, distance, and information limit: Close second-person past through the youngster. Attention selects teeth, hands, paths home, reed fibers, and crossed tension. They cannot read the Witch's feast-like gaze, verify her history, or perceive magic until she makes its effects visible; options and restraint establish her motives.
+- Governing movement and time shape: One late afternoon moves backward along the accident's route: workbench questioning, a cord model, the walk to the village verge, and hands-on repair. Each reconstruction replaces excuse with physical memory. Climax through a private test, not dragon attack or public proof; stop after the ward withstands outside force yet keeps its deliberate inner release.
+- Speculative rule or ordinary-world constraint: The Witch's living magic is stored and shaped by nonliving blackthorn stakes and a woven barrier; neither can think, judge, or cast. Outer impact distributes around the ring and tightens crossings. Slow inner lift plus a reverse turn feeds slack through one safety crossing. Only the Witch recharges the ward; the basketmaker supplies physical pattern knowledge, not spellcasting. Keep all capacities local.
+
+## Voice
+
+- Narrative texture: Close second-person narration advances through tactile reconstruction—wrist angle, fiber drag, redistributed strain, distance to safety. Observable choices gradually correct fear's guesses about the Witch.
+- Conversational texture: Alternate messy practical recall, clipped diagnostic questions, and ordinary repair instructions. Put looking, handling, and retries inside pauses rather than theatrical silence.
+- Rhetorical ownership: The basketmaker reasons through sequence and felt resistance; the Witch owns load, age, containment, and conditional distinctions. Coordination requires partial translation, not shared eloquence.
+- Pressure behavior: Fear produces harmless excess detail, false agreement, then direct correction when craft is misstated. Interest makes the Witch faster and less reassuring until failure forces slower listening and choices.
+- Anti-default: Avoid quip-trading prodigy and seductively omniscient witch. Their connection comes from unequal, effortful translation, not matching menace, quote-card polish, or instant mentorship.
 
 ## Beats
 
-1. Open on the prompt's confrontation: the child is sprawled inside the Dark Forest with a clipped blackberry cane still in hand, while the witch crouches close, asks how a village youngin broke her dragon-proof work, and says she is not angry before the child can scream.
-2. At the damaged boundary, ninety-three faint layers are peeling away from one narrow seam. Old scorch and claw marks show that an unnamed dragon has failed against the intact barrier before; distant wingbeats make identifying the flaw urgent, because a blind patch could preserve the same weakness.
-3. The witch rules out spectacular explanations and demands ordinary sequence. The child admits wanting the forest's blackberries near the village: weeks ago they drew a long living runner over the shimmer, pegged it into soil outside, and watered it until it rooted. Nothing resisted because the shoot remained continuous with the forest.
-4. This morning the child cut the rooted runner free from its parent cane, as villagers do when propagating brambles. The barrier flashed, a gap opened where the living connection had crossed, and the leaning child tumbled through.
-5. The witch reconstructs the failure aloud: each year of casting added a force-sharing layer tied to the then-continuous root boundary. Dragon fire, claws, and weight only pulled those layers tighter; the rooted runner quietly became both an inner and outer anchor, and severing it pulled all ninety-three layers sideways through one point like a dropped stitch.
-6. The child objects to helping until the witch promises not to trap them, destroy the new berry plant, or treat the village as an enemy. The witch gives a clear promise and explains that her alarming stare is recognition and desperate curiosity: after ninety-three years alone with the design, the child is the first person to show her something genuinely new.
-7. Working under approaching heat and wingbeats, the child repeats the horticultural motions while the witch supplies the living magic. They isolate the outside berry plant from the ward, guide a fresh runner along the boundary rather than across it, and reweave the loose layers into a controlled gate instead of recreating a seamless but uninspectable wall.
-8. The dragon strikes; the revised barrier flexes, distributes the force, and holds without granting either dragon or barrier a universal capability. The witch opens the new gate deliberately, escorts the child out, offers a basket of berries and future instruction with consent, and accepts the child's condition that she practice looking less like she is choosing a meal.
+1. At the Witch's workbench, a youngster whose reed hook breached a dragon-proof ward hears that she is not angry. Her fixed attention makes reassurance worse. She removes the hook without threat and requests an account.
+2. They offer defensive weather, errands, and witnesses. She isolates force, direction, hand position, and timing, then shows the damaged strand shedding slack. Her compression sounds accusatory; their agreeable answers become less accurate.
+3. With cord, pegs, and a split basket rim, they model the accident. The youngster accepts her piercing theory, then instinctively corrects a crossed cord. The correction locates embodied craft knowledge rather than secret power.
+4. They retrace the willow-gathering route toward the verge. Practical footing and single-purpose talk interrupt the inquiry. The Witch actively opens her passage, while the youngster recalls saving snagged reeds from what felt like fishing line.
+5. At the tear, tactile context restores the omitted reverse turn: bracing the bundle, lifting across strain, and tucking a loose line through its neighbor. The Witch recognizes the inverse of her inside safety crossing.
+6. She offers distance guidance or hands-on work. The youngster chooses touch but sets her position and timing. Her eagerness ruins the first reconstruction; stopping safely makes her lack of anger materially credible.
+7. At the youngster's pace, they retension the span and add a false load path against casual pulling without abolishing release. Her magic and their physical testing produce a ward that resists outside force and opens through the full inside sequence.
+8. The Witch returns the hook and imposes no future service. The youngster passes home through the controlled opening they helped preserve. End in bodily relief, not thematic speech, formal apprenticeship, or adventure promise.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Witch of the Dark Forest | new | Prompt-supplied epithet for the unnamed living barrier-caster; no relation to an established character. |
+| Witch of the Dark Forest | new | Unnamed title for the barrier's living caster and keeper; no confusing prior reuse found. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Dark Forest | new | Prompt-supplied name for the witch's bounded forest beside an unnamed village; no relation to an established location. |
+| Dark Forest | new | The Witch's local forest beyond the protected village; no confusing prior reuse found. |
 
 ## Continuity
 
-- Canon used: This is an independent, undated entry point in the one deep-time world. Only life uses magic: the witch supplies the spell, living roots can carry its local anchoring pattern, and the barrier stores and shapes that supplied magic without choosing, thinking, or casting for itself.
-- Boundaries and unknowns: The witch, child, village, forest, barrier, and dragon have no intended crossover with established people, places, factions, ward-makers, or dragon groups. The ninety-three-year construction, living-root architecture, propagation exploit, and demonstrated resistance belong only to this barrier and do not establish universal magic, plant, barrier, or dragon rules. Leave the precise era, region, the witch's age, and the dragon's nature unresolved; keep the child unnamed and clearly a minor, and frame any future mentorship as voluntary and guardian-aware.
+- Canon used: Only life uses magic. The Witch supplies agency; stakes, barrier, cords, and tools only store, focus, shape, or physically alter her working.
+- Boundaries and unknowns: Keep the village, youngster, historic dragon, era, and geography unnamed. The ward and dragon impact are local facts, with no link to Ersene, Qarsis, Crown-era dragons, the Glass Gate, or another barrier system.

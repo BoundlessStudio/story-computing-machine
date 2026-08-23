@@ -8,480 +8,398 @@ canon: false
 
 # Held Together
 
-When Aveline Ormont woke, her husband was counting under his breath.
+At 2:13 in the morning, the transfer station's ventilation stopped, and Renata heard Jonas's patrol app reroute them.
 
-“Eight, nine, ten—”
+"West stairs," its flat voice said. "Nearside remains with Fixedpoint."
 
-“Don’t move.”
+Beyond the service doors, reserve batteries held enough charge to keep three neighborhood clinics and an assisted-living tower cool through the hottest night of the year. On Renata's phone, the station diagram showed a breaker fault in red and an access alarm in amber. The west stairs curled around two locked landings. The cable trench ahead was open, straight, and four metres across.
 
-Harlan Ives stopped at eleven. His back was pressed to hers, close enough that she could feel him breathe and not close enough to tell whether the shallow breaths meant pain. Four steel bands fixed their wrists and ankles to a low frame. A fifth crossed Aveline’s chest. The room around them was windowless, faced in gray ceramic, with a narrow vent cut high in the wall.
+"The trench is faster," she said.
 
-Their masks were still on. After nine years of marriage, Tensile and Sideslip were names they used for reports, witnesses, and the occasional child who wanted an autograph. In private, Aveline called him Harlan. For most of the last six weeks, she had used his name only when patrol required it.
+Jonas stood behind her on the concrete steps, broad shoulders blocking the emergency light. "The app says west."
 
-“I wasn’t moving,” he said. “I was inventorying.”
+"You wrote the app."
 
-“Out loud?”
+"I changed one permission."
 
-“I hoped numbers might lure you back to consciousness. You respect them more than I do.”
+"Mine."
 
-Beyond the wall, the stolen phase-key gave off a glassy, rising hum. The sound put the loading dock back into Aveline’s head: the key suspended in its transport cage; Sana Dacre’s gloved hand reaching through a sealed panel by way of her husband’s folded space; Harlan shouting the old three-count. Aveline’s tensile field had released the dock cable when she told it to. The force had struck four heartbeats later, after Harlan had committed to his phase. The concrete bucked. Keaton Dacre folded the distance between two pillars, and the heroes ran straight into a waiting net.
+Somewhere below, metal struck metal. The temperature display beside the door read forty-one degrees. A second access sensor turned amber.
 
-“You went before three,” Aveline said.
+"We can have this fight upstairs," Jonas said. "West stairs. Now."
 
-“There it is.”
+Renata looked through the open gate at the landing beyond the trench. Four metres, clear line, no one visible. She went Nearside.
 
-“Did you?”
+Space caught her behind the eyes. The landing replaced the step beneath her boots, and the world tipped left before righting itself. She kept one hand on the rail until the depth returned. First transit.
 
-“You pulled before two.”
+"Renata."
 
-“I released on two. The floor moved late.”
+Ahead, through another open grille, the main-floor catwalk ran beside the reserve bus. Less than five metres. The shortest route had always been a chain of small, certain things.
 
-He was quiet for half a breath. “That is a fascinating choice of verb tense.”
+She made the second transit before Jonas reached the trench.
 
-Aveline hooked a thread of force between her right wrist and the frame. Her field caught the band’s tension as if it were a wire she could pluck, stretch, and cast into another anchor.
+This landing arrived doubled. Two yellow rails slid together, then apart. She blinked until they agreed on one position, but by then a woman in insulated work clothes had stepped within arm's reach of the lighting conduit.
 
-The wall clicked.
+The lights died from her outward.
 
-The frame twisted beneath them. Harlan’s shoulder vanished from her back for an instant; his attempt to phase out took weight off one side. A black node in the wall spun, converting both changes into torque. The bands cinched at once. Five seconds later the force Aveline had dismissed returned through the frame in a dull kick that drove the chest strap against her ribs.
+Not a station-wide collapse. A moving absence, three metres across, following the woman as active circuits emptied into the two silver cells mounted on a low sled behind her. Brownout. Livia Kade turned her bare hand over, measuring the last blue thread of current across her palm.
 
-Harlan sucked air through his teeth. “For the next minute, can we postpone the demonstration portion of your prosecution?”
+"She's early," Livia said.
 
-She made herself let the field go slack. The room was a balance trap. Any sudden change in load—pull, impact, mass disappearing into phase—turned the restraint spindle forward. The delayed kick had turned it twice.
+"Still on sequence," Xavier Kade answered from above.
 
-“Damping lattice,” she said. “Four wall nodes, perhaps six. Shared spindle. It winds on an unbalanced load.”
+Two amber tags flashed on the catwalk. The shutter behind Renata dropped so hard its bottom edge starred the concrete. A weighted baffle swung across the catwalk, its offset steel slats showing only other steel. Xavier, Downforce in the case files, stepped out on the overhead gantry with a battery harness tight against his ribs.
 
-“So if neither of us does anything stupid, we die of old age in a tasteful ceramic box.”
+Renata turned toward the last place she had seen Jonas. No clear line remained.
 
-“The Dacres don’t kill captives.”
+A pale plane grew under the descending shutter, rigid and translucent. A second formed at the far edge of his six-metre sight, reaching toward the baffle. Jonas had committed both at once. For perhaps a second, Renata saw him between them: jaw set, hands spread, trying to make two paths exist where she had left him none.
 
-“Comforting distinction from the people who put us in a box.”
+Livia crossed close to the wall conduit. His comm light went black.
 
-Metal rolled in the room above them. A drawer opened, then another.
+Xavier touched two fingers to his harness. The tagged shutter multiplied its downward load. Jonas's first plane bowed, not bending but sinking into cracked concrete as the floor failed beneath it. The second vanished when he pulled one numbed hand toward the manual latch. Too late. Another shutter sealed him into the relay bay.
 
-“Narrow jaw,” Sana Dacre said through the vent.
+The baffle struck Renata across the shoulder and drove her into a floor cage. A U-shaped anchor yoke closed over her ankles. Xavier planted a tag on it, and the steel became too heavy even to rock.
 
-“Retired,” Keaton answered.
+"That's three," Livia said.
 
-“You retired my extractor jaw during an extraction?”
+"West shutter, relay shutter, anchor," Xavier said. "Sixty seconds."
 
-“It has a crack.”
+The last slat locked into place. Every opening in Renata's cage faced a backing plate. She could see strips of floor, pieces of equipment, one of Jonas's boots six metres away. Nowhere she could go.
 
-“It has a scratch.”
+Above the bus, the red reserve clock changed from 45:00 to 44:59.
 
-“It sings when you load it.”
+Livia pulled the first cell's leads toward the live cabinet. "Begin."
 
-“Everything sings when you load it. That’s what load is.”
+***
 
-Keaton’s footsteps crossed the ceiling. The second drawer shut. “Broad jaw, top tray. Two braces.”
+The Kades did not celebrate.
 
-“Seven extra minutes.”
+Livia positioned herself beside the active reserve circuit and let current vanish into the cell within her living field. Xavier checked the cage, the relay shutter, then the route to the loading ramp. He marked each task on a grease board clipped to the sled.
 
-“Six if you eat while I fit it.”
+"Return before auxiliary," he said.
 
-Paper rustled. Something slid over a workbench.
+"After auxiliary." Livia watched a meter tremble. "If you close return first, the clinic feed sees the dip."
 
-“Mustard?” Sana asked.
+Xavier studied the switch labels, erased one arrow with his thumb, and drew it again beneath AUX. "After auxiliary."
 
-“Your half is innocent.”
+"Yes."
 
-“You remembered.”
+No score kept. No little victory placed aside for later. Renata hated them more for how ordinary it looked.
 
-“I remember plenty of things that don’t shoot wire at me.”
+She pulled against the anchor yoke. Its added load drove the cuff edges through her suit and into bone. Xavier glanced over.
 
-The Dacres had been married eleven years and stealing together for almost as long. Latchkey and Parallax in the case files: a woman who fixed openings and cable-lines to surfaces with black metal latches, and a man who bent the distance between those anchors. They had stolen the key, captured two intervening heroes, and remembered how one another took a sandwich.
+"Don't," he said. "It won't get lighter because you're angry."
 
-Harlan tipped his head until his hair brushed hers. “I find this deeply offensive.”
+"The cooling wards lost twelve minutes last month," Renata said. "People in that tower can't sweat properly."
 
-“The mustard?”
+Livia's meter climbed. "They have room batteries."
 
-“We got kidnapped by adults.”
+"For forty minutes."
 
-“Listen for the guard rotation.”
+"Then your utility will have five minutes to transfer the reserve after we're gone."
 
-“Yes, counsel.”
+"If your staged fault didn't damage the switchgear."
 
-Keaton wound a kitchen timer. Its ticking came through the vent beneath the key’s hum.
+Livia looked at the scorched cabinet, then at the charging cell. "Xavier, temperature."
 
-On the ceramic opposite Aveline, a pale hand appeared with no arm attached. Its fingers measured the distance between two wall nodes, repeated the motion, then rested against an empty seam. One of Keaton’s spatial folds had left an afterimage where it had touched the room. The residues lasted several minutes: harmless, silent gestures that made old work continue after the worker had gone.
+"Fifty-three."
 
-Guiding a latch through one of Keaton’s folds made Sana look along both paths at once. The case files mentioned prismatic auras after heavy use.
+She had heard Renata. She simply returned to the theft.
 
-The ghost hand faded at the wrist.
+From the relay bay, Jonas said, "How many transits do you have?"
 
-Above them, Sana said, “Left edge is sparking.”
+Renata found his face through two misaligned slots. "Work your latch."
 
-A stool scraped hard. “Give me the gloves.”
+"I need your remaining count."
 
-“No.”
+"You don't need to authorize it."
 
-“I’ll take the reach.”
+"Not what I said."
 
-“You can’t see my latch trace.”
+"It was the shape of it."
 
-“I can see your pupil.”
+He wrapped both hands around the manual lever. They did not close properly. Concurrent planes always numbed his fingers, beginning at the tips and moving inward. Renata had watched him fumble keys after patrol and teased him for refusing mittens in winter. Tonight the lever slipped from his palms.
 
-“Then look from over there. Stop taking things out of my hands.”
+"No more transits," he said. "Not until I can get you a line and support the landing."
 
-The workshop went still except for the timer. Aveline waited for Keaton to push. She knew the shape of that next minute: concern promoted to authority, refusal treated as ingratitude, every old injury summoned to vote.
+There it was again. The shape and the substance.
 
-Instead, a lamp clicked off.
+Renata leaned back from the slots.
 
-Keaton said, “Can you still hold the mark?”
+The first minute ended. Amber light faded from the anchor tag, and some of its crushing weight released. Xavier's harness fans spun up to cool the spent cycle. He tested the yoke with his boot before Renata could lift it, then renewed the downward load as soon as the tag answered.
 
-“With the visor.”
+Jonas had seen it too. "Sixty seconds," he said.
 
-Cloth whispered across the bench. “It’s beside your right hand.”
+She gave him nothing.
 
-“I know where my right hand is.”
+At 31:18, Livia moved the intake leads from the first cell to the second. The first was the size of a carry-on case, finite and nearly full, its charge bars wavering orange. Xavier peeled the cooling west-shutter tag from its mount and braced it against the cell housing to reseat a clamp.
 
-“Good news for both of us.” His footsteps retreated. “I’ll move the physical rail. You call the cut.”
+"Hold the tag against the housing," Livia said. "I'll pull the spike."
 
-“That loses the elegant version.”
+"No."
 
-“The elegant version whines.”
+She looked up.
 
-“That is still not what load means.”
+Xavier opened his hand. The center of his glove had blistered glossy over a burn. "The housing is over limit. Ceramic handle or it waits."
 
-The timer kept ticking. A drawer opened. Sana resumed work, slower now, calling measurements. Keaton rolled the physical rail instead of coming back for her gloves.
+Livia checked the thermal strip. "Ceramic."
 
-Aveline studied the last pale fingers on the wall. “Performance.”
+She fetched the handled clamp herself and set it within his reach. He seated it. She pulled the spike down into her field, and the cell steadied.
 
-“For us?” Harlan asked.
+Xavier returned the tag to the west-shutter mount without engaging it.
 
-“They know we’re conscious.”
+"Abort at seventy-eight," Xavier said.
 
-“Sana is eating. No one commits to sandwich acting that thoroughly.”
+"Seventy-eight," she agreed.
 
-“Right-hand collar,” Aveline said. “Old release. I hold the load. You take the locking pin out of phase on three.”
+The reserve clock continued to fall. Behind the far maintenance door, somebody struck twice, paused, then struck twice again. Utility workers. Alive, at least. The station display showed clinic demand rising with the outside temperature.
 
-His shoulder tightened. “We haven’t found all the nodes.”
+Renata waited for the anchor to cool, jammed her fingers beneath it, and heaved. One edge rose a centimetre. She twisted her right ankle. The doubled cuff became one too late; pain ran up her shin, and the yoke slammed down when Xavier renewed the tag.
 
-“We don’t need all of them.”
+"Stop testing it alone," Jonas said.
 
-“Your last field just came back late.”
+"Stop giving me orders through a wall."
 
-“Because you changed the load.”
+"Then answer one question. How many?"
 
-“Of course.” His voice had gone light, almost cheerful. That was how he sounded when he wanted a door left unopened. “Pin on three.”
+"Enough."
 
-Aveline gathered the collar’s torque into a narrow line. “One.”
+"That isn't a number."
 
-Harlan’s weight left her right shoulder.
+She knew. That was why she had chosen it.
 
-“Two.”
+Livia crouched by the second cell. Its charge indicator jumped, fell, then blinked amber.
 
-The pin blurred inside its housing. It did not disappear cleanly. Harlan snapped solid before she reached three, and the collar slammed against the half-phased pin.
+"You seated it wrong," she said.
 
-The shared spindle spun. Aveline caught the first wrench of force, but the line slipped from her control. The wall boomed. Five seconds later her delayed recoil struck the same anchor and flung their bound hands sideways.
+Xavier did not turn from the loading ramp. "Seated at sixteen. Checked at twenty."
 
-Harlan made a short, animal sound.
+"It's moving now."
 
-“You came back early.”
+"Then something changed."
 
-“Excellent observation.”
+Livia put her hand beside the intake without touching it. Current made a fine blue web across her knuckles, and the station lights nearest her dimmed. She checked the reserve meter, then the cell.
 
-His left hand had fallen across her thigh. Aveline closed her fingers around it. He did not close back.
+"Bus sag," she said. A beat passed. "I read it as the clamp. That was mine."
 
-“Squeeze.”
+Xavier came back. "Can you hold fifty percent?"
 
-“Doing my best.”
+"Forty-six."
 
-She pressed her thumbnail into his palm.
+"Do that."
 
-“Ow,” he said too quickly.
+She caught his burned wrist before he reached for the clamp. "Open."
 
-“Where?”
+He opened his hand. Two fingers curled; the others shook.
 
-“Palm.”
+"You don't renew the west shutter until your hand cools," she said.
 
-She had touched the base of his little finger. “Wrong.”
+"That leaves the ramp route open."
 
-“Close enough for government work.”
+"I know what it leaves."
 
-“How much can you feel?”
+"All right."
 
-“The frame. Your mood. A powerful sense of regret.”
+She released him. He switched hands, and they returned to the cell without filling the silence.
 
-She pinched harder. Nothing. Her grip tightened until her own wrist band bit.
+Renata pressed her forehead to the cage steel. She had expected vanity, cruelty, one of them performing dominance for the other. What she saw was worse and smaller: correction accepted, limits believed, harm divided efficiently. They could do all of that and still watch the clinic demand climb.
 
-“How long has your left side been going numb?”
+At 12:06 remaining, Jonas said, "I can make one reliable plane. Two, and I won't have hands for the release."
 
-“This is an inconvenient venue.”
+Not a command. An inventory.
 
-“Tuesday, in the barrier collapse—could you feel it then?”
+Renata looked through the lowest slot. Xavier's anchor tag would gray at the end of its minute. Each time it did, his harness fan ran while he checked the sled wheels. To move the charged cells up the ramp, he would need the sled loaded downward for traction against the vibrating floor. Three tags, no fourth. He had rehearsed the transfer twice with his eyes.
 
-“We need to get out.”
+"One," she said.
 
-“Friday on the passenger deck?”
+Jonas went still.
 
-“Aveline.”
+"I used two after 1:31. One left in the six-hour window." She swallowed. The cage seemed to lean toward her. "After the concussion, the second makes edges split. The third takes depth. Last time, seventeen minutes. I couldn't tell the floor from a step."
 
-“Yes or no?”
+"Last time?"
 
-“Do you want the useful answer, or do you want me guilty before the buyer arrives?”
+"Three weeks ago."
 
-Locks clacked before she could choose. The cell door opened inward, revealing Sana in a black work suit with her mask pushed onto her head. A prismatic crescent trembled at the left edge of one eye. She carried two foil water pouches and stopped outside the reach of their feet.
+His breath left him through his nose. She waited for the contingency tree: dates, reporting failures, the predictable list of all the ways she had made them unsafe.
 
-“If you keep feeding the spindle, the chest band will crack a rib,” Sana said.
+"What can you see now?" he asked.
 
-“Release it,” Aveline said.
+"The near slat. Your boot when you move it. Not their faces unless they cross the middle gap."
 
-“No.”
+"All right."
 
-“Return the key.”
+The words sounded unfinished in his mouth.
 
-“Also no.” Sana fitted a straw to the first pouch and held it where Aveline could drink. “Those are the two large noes. You may have water.”
+Renata gripped the yoke. "Tell me what you've seen."
 
-Aveline drank because refusing would help no one. Sana moved the straw to Harlan, watching his left hand lie open.
+"Baffle pivots toward me when the anchor tag cools. Hinge opening is five point six metres from my left slot. His transfer takes four seconds. The sled crosses your middle gap after the tag seats."
 
-“Phase sickness?” she asked.
+"Can your plane hold the baffle?"
 
-“Seasonal,” Harlan said.
+"Thirty seconds."
 
-“Then you picked a bad season.”
+He waited.
 
-She did not offer advice. She checked the color above each wrist band, loosened nothing, and left the water beyond their reach when she went out. The door locked again.
+Renata measured the strip of concrete beyond the middle gap. Four metres, perhaps four and a half. It doubled if she stared too hard, but both versions were inside her limit.
 
-In the workshop, metal struck metal.
+"On the next transfer," she said. "Wedge the baffle. I lift the yoke when the load drops. I go to the clear patch by the sled."
 
-Sana said, “The throat is six millimeters wide.”
+"You'll land blind."
 
-“Five point eight.”
+"Nearly. You'll route me to your release."
 
-“It will slip in transport.”
+His boot shifted into view, then stopped. "Yes."
 
-“It won’t crack the jacket.”
+***
 
-“Maybe if you’d measured the case instead of admiring your own geometry—” The sentence cut off. A tool settled onto cloth. “No. You measured it. Give me the blue shims.”
+At 8:41, the anchor tag went gray.
 
-Keaton did not make her ask twice. A tray slid. “Still five point eight.”
+Renata lifted. The yoke came off the floor, ordinary steel again, heavy but possible. Jonas's pale plane grew through the left slot, a single rigid sheet expanding into the baffle hinge. Metal screamed. The offset slats opened three centimetres, then ten.
 
-“Still ugly. Brace both sides.”
+Xavier looked over. His burned hand hovered near the tag.
 
-“That was the plan.”
+"Sled first," Livia said. "We're below exit traction."
 
-“Then stop looking smug where I can only see half of you.”
+He tore the amber marker from Renata's yoke and slapped it onto the sled frame. The cells sank against their suspension. Their weight bit the wheels into the ramp.
 
-The next sounds were two sets of hands working the same brace.
+The middle gap cleared.
 
-Harlan’s numb fingers twitched against Aveline’s leg.
+Renata chose the patch of floor she could see and went.
 
-“Did they just have a better fight than us?” he asked.
+The cage vanished. Concrete struck both boots at once. Then the room lost its distances.
 
-“They are transferring stolen rescue equipment to a buyer.”
+Rails floated near and far. Livia became two dark figures beside a blue flare. Renata dropped to one knee before the false floor could move under her. Her stomach surged. Third transit. None left until after 7:31.
 
-“That was not my question.”
+"Forward two paces," Jonas called. His command voice caught on the first word, then changed. "Your pace. Handrail at your right knee."
 
-The phase-key pulsed three times. A receiver answered from the workshop.
+Renata found the rail by sweeping her hand. Behind her, Xavier hauled at the loaded sled. Livia left the bus to intercept, and the charge stream broke as soon as the active circuit passed beyond her three-metre field.
 
-Keaton said, “Buyer crossed the outer marker. Thirty-seven minutes.”
+"One pace," Jonas said. "Relay release is shoulder height. Orange handle. Twenty centimetres left."
 
-Aveline looked at the black pin in her right-hand collar. “I need your usable phase.”
+There were three orange blurs. Renata closed one eye. Two remained.
 
-“Had twelve seconds before the dock.”
+"Which one?"
 
-Not an answer to the question she had asked. A number he could hide inside. “Had?”
+Silence, just long enough for him to look instead of assume. "Farther left. Your hand is below it. Up."
 
-“Six on the dock, counting the part where Parallax made the wall arrive sideways. Two just now. Four left if luck has developed professional ethics.”
+Her fingers struck the handle. She pulled.
 
-“And afterward?”
+The relay shutter lifted. Jonas ducked under it as Xavier renewed the tag, and the metal crashed onto the plane Jonas formed beneath it. One plane. His right hand hung half closed.
 
-“Left hand first. Jaw if I push. Leg if I’m an idiot.”
+"Main isolation?" Renata asked.
 
-“For six weeks?”
+"Six paces behind you. Yellow wheel."
 
-“Don’t spend our thirty-seven minutes indicting me.”
+Livia moved back toward the bus, choosing the cells over Renata. Current flared again. Xavier abandoned the sled and came toward Jonas, one tag control in his good hand.
 
-“You went on patrol unable to feel half your body.”
+They countered on different instincts and blocked each other's route.
 
-“Minutes, not half. And yes.”
+"Xavier," Livia said. "West rail is seventy-two."
 
-She wanted motive, apology, an admission proportionate to the fear opening beneath her ribs. What he had given her were totals. Totals were what he could manage without begging her not to turn him into a patient.
+"Sled or shutter?"
 
-Harlan shifted his chin toward her right wrist. “Your field didn’t slip. You dropped it, and it hit five seconds later.”
+"Sled. Give me the route."
 
-“Approximately five.”
+He stepped back at once and dragged the sled sideways, clearing her path to the live cabinet. "Two metres. Clamp high. Then ramp."
 
-“At the dock too.”
+Jonas could have put a second plane across them. Renata saw his shoulders set for it, saw his numb fingers twitch.
 
-The words were flat. No joke to blunt them.
+"One wall," she said.
 
-“Yes.”
+He kept the shutter off them.
 
-“You knew.”
+"Wheel is five paces now," he said. "Drift right."
 
-“For three weeks.”
+Renata moved through the swimming geometry. At the yellow blur, she used both hands until she found the rim. It resisted, then turned. The reserve bus separated with a blow she felt in her teeth. Clinic demand disappeared from Livia's intake meter, isolated behind the mechanical switch.
 
-His back moved once against hers, a breath stopped and restarted. “So that floor really did throw itself at me.”
+The cells remained charged. Their rig whined against the cut circuit, hunting for a path.
 
-“Harlan—”
+"Ground bar," Jonas said. "Low left."
 
-“No. We’ve established we can both lie in work clothes. Can facts open the door?”
+"I can't find low."
 
-She nearly told him that omission was not the same as lying. The distinction was structurally defensible and useless.
+"Stop."
 
-“The pin carries the collar’s stored torque,” she said. “If you remove it while I hold exactly that load, the node shouldn’t see a change. My recoil lands four to six seconds after I release. I can’t narrow it more than that.”
+She stopped.
 
-“Four seconds left. Probably three clean.”
+"Your left boot is touching the housing. Bar is on the housing. Slide your heel back."
 
-“Can you phase only the pin?”
+Metal knocked her boot. Renata crouched without trusting the floor and closed both hands around the insulated grip.
 
-“If you quit moving the target.”
+Livia saw what she held. "Don't."
 
-Aveline closed her eyes. The barb was deserved; that did not make it a plan. “I’ll keep the collar fixed. Tell me before sensation moves.”
+The plea was for the cells, not the reserve or the workers behind the door.
 
-“And if I say out?”
+Renata pulled the station's emergency ground into place.
 
-Her first answer rose ready-made: they were too close to stop once the pin cleared. She swallowed it.
+The siphon load went down the copper braid. Both cells flashed white. Livia broke her field and stumbled away from the cabinet. Xavier caught the back of her harness, keeping her clear of the arcing leads without touching them.
 
-“Then I dump the load into the frame and take whatever comes back.”
+"Seventy-six," she said.
 
-“That could tighten us again.”
+"Ramp is open."
 
-“Yes.”
+"Seventy-seven."
 
-It was not reassurance. Harlan’s right shoulder eased anyway.
+Xavier reached for the sled, burned hand failing around its handle. The cell casing ticked as it expanded.
 
-They began with loads smaller than a held breath. Aveline lifted the torque from one notch of the collar. Harlan brushed the pin with a phased fingertip for less than a second. The nearest node dimmed; a second node answered behind them. Five heartbeats after Aveline released, the frame kicked. This time she had left the line pointed into the ceramic seam, and a hairline crack appeared.
+"Seventy-eight," Livia said.
 
-Above, the kitchen timer rang. The extraction rig drew power; both visible nodes faded at once.
+He let go.
 
-“That’s our window,” she said.
+Together they backed toward the service ramp, Xavier counting the steps twice when smoke hid the edge. Livia cut power from one active door circuit as she passed within range; the lock released dead rather than opening for them. Xavier shouldered it wide. He tapped the still-mounted west-shutter tag, increased the shutter's downward load, and followed her through before the cooling harness could answer again.
 
-“Three clean.”
+Jonas's plane expired. The shutter hit concrete between the heroes and the ramp.
 
-Harlan took the pin out of phase. Aveline held its torque, rotated the freed collar a finger’s width, and felt the node searching for the missing load.
+He did not make another.
 
-“Left jaw,” he said. Then, sharper: “Out.”
+"Pursuit?" he asked.
 
-The collar was almost past the pin. Almost had killed people before.
+Renata listened to the pounding behind the maintenance door. One worker's strikes had become uneven.
 
-Aveline let everything go.
+"No. Staff first."
 
-The pin resolved in its slot. The spindle took back the fraction she had won. Her recoil jarred the frame five seconds later without widening the crack. Harlan sagged, breathing through his mouth.
+"Yes."
 
-Neither spoke until he said, “Jaw’s back.”
+They grounded the cells, released the damaged switchgear from the reserve, and opened the maintenance room by hand. One technician had a bleeding scalp. The other lay beside a fallen tool cabinet with an ankle swelling inside her boot. Jonas formed a single plane as a rigid litter while Renata, moving by touch and his plain directions, kept the technician level. They carried her to the cooler stairwell and waited for responders instead of the Kades.
 
-“Hand?”
+At 3:28, exactly seventy-five minutes after the ventilation had stopped, a hospital physician shone a narrow light across Renata's eyes.
 
-“Two fingers.”
+"Tell me every transit in the last six hours," she said.
 
-“We wait for all of it.”
+Renata sat on an intake bed with a basin between her shoes. Jonas stood by the curtain, his hands wrapped in warming pads. A patrol supervisor waited on speakerphone beside the blood-pressure cuff.
 
-“Buyer is at thirty-one.”
+"Three," Renata said. "Two before capture, one to escape. The window started at 1:31. I had a concussion last month. Since then the second transit doubles edges, and the third removes usable depth. I hid the change from medical and from my partner."
 
-Aveline rested her head against his. “Report when the hand is back.”
+The physician recorded it without looking at Jonas. "Observation until the depth loss clears. You agree?"
 
-He was quiet for several ticks. “You stopped.”
+"Yes."
 
-“Report, Harlan.”
+On the phone, the supervisor asked, "Why did your route split?"
 
-“Three fingers.”
+Jonas shifted a warming pad from one palm to the other. "I added a field veto to our patrol app. I did it unilaterally, and I didn't disclose it to command. Renata rejected the route. We stopped sharing information before entry."
 
-They waited. The Dacres rolled the physical rail into place overhead. Sana called angles; Keaton repeated only the ones he could not see. When her left vision flashed brighter, she said so. He set the visor closer without touching her gloves. A minute later Aveline heard Sana pick it up.
+He did not add a reason after the fact.
 
-At the next timer ring, Harlan gave her two clean seconds. He phased the pin. Aveline took the torque, turned the collar clear, and held until the pin returned in empty air.
+Renata looked toward him and found two Jonases at the curtain.
 
-“Solid,” he said.
+"Remove the veto," she said.
 
-She released the stored force with its anchor set in the cracked seam and counted the empty seconds aloud. On five, ceramic split. The node went dark. The right wrist band sprang open, then the chest strap and the remaining bands slackened as the shared spindle unwound.
+"Now?"
 
-They rolled apart. Harlan rose with his left arm tucked close and his weight favoring that side. Aveline’s ribs objected when she stood.
+"Now. Leave the route log intact for review."
 
-“One ugly second,” he said.
+"Okay." His fingers would not work the phone. "Will you unlock it for me?"
 
-“My next recoil is unknown.”
+She did. He talked her through the settings but did not touch her hand. The permission changed from PARTNER OVERRIDE to SHARED CONFIRMATION.
 
-“Our finest hour.”
+The physician rolled a visual-field target to the end of the bed. "Do you want him in the room for the assessment?"
 
-The broken node had released the cell door. Aveline pushed it open.
+Renata considered the two blurred figures, the marriage she still inhabited and the field partnership she could not decide from a hospital bed.
 
-The workshop beyond was long and crowded: cell behind them, central bench six paces ahead, extraction cradle bolted above an open copper-mesh case, rear hatch between stacked crates. The phase-key hung in the cradle like a bright splinter. Keaton’s old projections lingered everywhere—one pale shoulder crossing the bench, a hand lifting beside an empty drawer, the outline of Sana leaning briefly into a kiss that had ended long before the real Sana looked up.
+"For the assessment, yes."
 
-“They’re loose,” she said.
+Jonas looked at the empty spaces on either side of her. "Left or right?"
 
-Keaton swept both hands apart. Six paces stretched into fifteen. A rolling cabinet seemed to leap into Aveline’s route as the space around it folded.
+"Left."
 
-Sana snapped three latches onto the bench. Black wires sprang between them and caught Harlan across the waist. He went translucent just long enough to pass through, then came solid on the wrong side of the fold, beside the buyer case rather than the key.
-
-“Foot’s gone,” he called. “One second.”
-
-Aveline caught the moving cabinet’s load in her field and fixed it to the floor. “Cabinet held. When I release, four to six.”
-
-Keaton bent the cradle farther away. His stance widened as the fold took strain. Sana worked the key’s jacket with her right hand while her left missed a latch, corrected, and missed again.
-
-“Your mark is splitting,” Keaton said.
-
-“Hold your side.”
-
-“I am holding the room.”
-
-“Then hold it somewhere useful.”
-
-Sana cast a new wire. Aveline caught it before it closed around Harlan and anchored its tension to the cradle brace.
-
-“Retaining pin,” Aveline said. “Can you touch it?”
-
-Harlan looked at the distance Keaton had stretched between them. “One ugly.”
-
-“I can’t give you a count.”
-
-“Then don’t.” He lowered himself onto his good leg. “Tell me when it starts.”
-
-Aveline poured the cabinet’s arrested momentum into the wire and released it. Nothing happened. The return was loose inside its four-to-six-second gap.
-
-Sana heard. She turned the cradle, hiding the pin behind its copper jaw, and hauled on her wire. Aveline let her. The line loaded until it trembled.
-
-The recoil arrived as a wrench through Aveline’s shoulders.
-
-“Now.”
-
-Harlan dropped through the folded distance. For one second his hand and the copper housing occupied the same bright blur. The retaining pin ceased to hold.
-
-Aveline’s returning force ripped along Sana’s wire and through the unpinned brace. The cradle jaw flew open. Harlan struck the buyer case with his solid right hand, knocking its lid away before the phase-key dropped.
-
-Keaton tried to fold the falling key back toward Sana. The projection bowed under the load already in the room; his right arm shook, and one knee hit the floor.
-
-Sana had a latch aimed at the key. She could have fixed it in midair. Instead she struck loose the two latches anchoring Keaton’s far edge.
-
-Space slammed flat. The key fell short of the case.
-
-Aveline caught it in a sling of force and pulled it through the open cell door. The surviving damping nodes seized the motion, winding the key gently against the floor instead of letting it strike.
-
-“Rear hatch,” Keaton said, still on one knee.
-
-Sana tore the buyer’s data wafer from the case and caught the back of his suit. “Move.”
-
-He shortened the distance to the hatch. Sana kept hold of him and the stolen data as they crossed it. Then the steel door shut, leaving their pale afterimages to finish gestures the Dacres no longer had time for.
-
-Harlan sat down where he had landed. Aveline managed two steps before the spent field folded her beside him. She turned until their backs met again. This time the position kept pressure off her ribs and let them watch both doors.
-
-The phase-key hummed safely in the broken cell. The buyer signal blinked in its empty case.
-
-Harlan reached the confiscated gear tray with his right hand and found his phone. “Dispatch or clinic?”
-
-“Dispatch.”
-
-He unlocked the screen. “Clinic after.”
-
-“Before debrief.”
-
-“There goes tomorrow’s patrol.”
-
-“Delete it.”
-
-He dialed. While it rang, Aveline said, “Nine o’clock. Kitchen table. Not the gear room.”
-
-“Clinic at nine.”
-
-“Then noon.”
-
-His thumb hovered over the speaker button. “No case files?”
-
-“Leave them at the office.”
-
-The dispatcher answered. Harlan asked for recovery and medical support, gave the workshop coordinates, then described the numbness without rounding down. When he called Aveline’s recoil a timing problem, she leaned toward the phone.
-
-“Uncontrolled,” she said. “Four to six seconds. For three weeks.”
-
-“Put that in too,” he told the dispatcher.
+He moved there and waited while the physician raised the first light.

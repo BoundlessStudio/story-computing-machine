@@ -8,356 +8,268 @@ canon: false
 
 # Mother of Monsters
 
-From the ditch below the Roofless House, Rennic watched its defenders abandon three galleries in perfect order.
+Lieutenant Chask had laid the chalk line for the first charge when something with six legs refused to kneel.
 
-The small shapes went first, stooping behind fallen balustrades. Horned bodies covered them from the arches. Something with too many elbows descended a wall that had no stair, pausing whenever a pale hand flashed from the courtyard below. Each signal moved a different rank. Each rank vanished before the next began.
+It stood in the sanctuary yard beyond the split gate, a broad-backed animal under a carrying frame, while three goblins hauled at the breast strap. A woman on the wall raised one arm. Her warning crossed the ravine as three sounds at once: a raw scrape, a vibration Chask felt through her palms on the stone, and hard little clicks that might have been pebbles striking a bowl.
 
-“Six companies,” the archer beside Rennic said.
+The goblins stopped hauling. The animal did not move. One of them unbuckled two grain panniers and shouldered a sack himself. Only then did the beast step into the lane climbing toward the inner ruin.
 
-“At least.” Rennic marked the galleries with the point of his sword. “She’ll pull them inward until the breach jams, then strike from both sides.”
+“Signal discipline,” the captain said behind Chask. “Better than some companies.”
 
-The sanctuary had no roof left to hide beneath. Evening lay red across its black rooms; trees grew from upper floors, roots dangling through old vaults. Yet the kingdom had besieged it for nine days, and no scout had returned with more than glimpses. Things came here out of the forests and ravines. Goblins came with cut collars. Beasts came dragging arrows. The proclamations said they joined the Mother’s army.
+Chask sighted along her chalk. The broken causeway rose in two turns from the ravine, narrowing at the last switchback before it met the sanctuary wall. The host filled the lower turns: shields, pikes, hooded lamps, men breathing steam into the predawn dark. On the upper shelf, her six sappers had room to work only because the point company held back.
 
-The proclamations also said she had ordered the winter raids. Rennic’s sister had died in one, outside a torn sheepfold with her lamp still burning in the snow. For eleven years he had preferred the thought of one will behind that night. One will could be reached with a sword.
+Across the wall, figures passed buckets in one direction and bundles in the other. Goblin auxiliaries, Chask classified. War-beasts under burden. Three pale shapes crawled low along a colonnade where no soldier would have chosen to put a knee. The woman on the wall was Halwen, called Mother of Monsters in every order Chask had received.
 
-Below the eastern wall, the ram struck again. Masonry jumped. Sappers drove two oak jaws into the split and locked them with a crossbar so the next pull would tear the opening shoulder-wide.
+The captain touched the horn at his belt. “Third signal, breach. Chainhouse open by dawn.”
 
-A runner slid into the ditch and held out the general’s red baton. “First file through. Find the advance scout if he still breathes. The Mother dies before the third horn.”
+“The face is shedding,” Chask said. Stone grit ticked down the wall below her mark. “Give me another quarter-hour and I can seat the charge deeper.”
 
-Four soldiers looked to Rennic: the archer, the spearwoman, the broad axeman whose son had vanished in the spring, and the youngest, trying not to stare at the shapes in the ruin.
+“Third signal, breach. Chainhouse by dawn.”
 
-Rennic took the baton, laid it in the mud, and said, “No chasing. No trophies. Anything drops a weapon, it lives until I say otherwise.”
+There was his answer. Chask drove the last waxed wedge around the powder crock and sent her team back along the upper shelf. The sanctuary traffic had quickened. Halwen sounded again. Rasp, buried thunder, teeth-hard clicks. Some in the yard looked up. Others kept carrying. The pale crawlers vanished under an arch. The six-legged beast turned sideways to let a handcart pass, though Halwen had not moved her arm.
 
-The axeman tested his grip. “They don’t surrender.”
+The horn gave its third note.
 
-“Then the rule costs you nothing.”
+Chask touched the fuse.
 
-The ram struck. Stone burst inward, and Rennic led them through.
+Flame ran under the clay cover. She counted to eight before the wall struck her flat.
 
-They crawled the first passage on forearms, mail whispering over grit. Mallets sounded behind them almost at once. The sappers were enlarging the same hole while the file still used it; every blow shook dust down Rennic’s collar. When the passage opened, he rose beneath a low vault and brought his shield up.
+The blast broke inward as intended, but the old masonry did not stop breaking. A seam unstitched itself down the face and crossed beneath the gate. The upper shelf kicked. Through the opening, Chask saw a paved yard buckle and a stone mouth sink by half its height. Then an ember-bright timber dropped from the breached wall into stacked brushwood. Fire climbed it at once.
 
-No one attacked.
+Men shouted behind her. Someone dragged her by the back of her harness as blocks rained onto the causeway. She found her feet, found all six sappers moving, and found the captain already pointing through the dust.
 
-Rows of shallow beds covered the chamber. Some were straw circles, some hammocks slung a handspan above the floor, some boxes of warm sand with gray stones tucked under blankets. A clay basin had been shaped for a jaw too wide to drink from a cup. Waxed packets of salt hung beside travel bundles. Along one wall, coats waited on pegs: tiny, enormous, four-sleeved, slit down the back for folded wings.
+“Inside. Chainhouse.”
 
-The spearwoman lifted one fallen garment with her spear tip. A child’s teeth had worried its wooden buttons.
+“We struck a void under the gate.”
 
-“Barracks,” Rennic said. “Cleared in time.”
+“Inside, Lieutenant. The breach is made.”
 
-“With toys?” the youngest asked.
+The point company went through before the smoke cleared. Chask followed because the upper approach had begun to list toward the ravine, because her people were looking at her, and because the second powder crock was already on two sappers’ shoulders.
 
-Three clay animals stood on a shelf, all missing legs from play rather than breakage. The axeman swept them aside with his shield. One bounced under a bed.
+Inside, nothing kept its proper military shape.
 
-“Keep the door,” Rennic told the youngest. The sharpness of his own voice steadied him. A disciplined army could sleep anywhere. Raiders had children. None of it answered who gave the signals.
+A goblin in a leather apron stood on a broken fountain and called numbers in rough trade speech. “Six hands to grain. No—two. Six to water. Bandage chest goes low way.” He pointed at bearers rather than bodies, and the bearers contradicted him by pointing at their own loads. Beside the culvert mouth, a horned woman tightened a splint on a wounded figure whose face Chask could not see. Two small goblins carried the figure’s shield away, then returned with a door to use as a litter. At the breach, four long-limbed beasts backed into the smoke and formed a bristling line without looking toward Halwen.
 
-A man cried out beyond the wicker screen at the chamber’s end.
+The captain saw the line. “Skirmish screen.”
 
-They found the missing scout on a pallet under the stairs. A goblin knelt over him in a boiled-leather apron, one hand pressed to his shin. A frame of split willow surrounded the injured leg. The goblin’s ears ended in old, uneven scars. Bone needles hung in a roll at their belt, beside a cleaver polished by years of sharpening.
+“They’re facing the fire,” Chask said.
 
-The axeman saw the blade and charged.
+“Chainhouse.” He pointed across the yard to a squat tower joined to the inner gate by black lengths of chain. “Second charge. Ten minutes.”
 
-The goblin threw their body across the scout’s leg. Rennic caught the axeman’s haft between shield and wall. The axe head buried itself in a stair tread, a thumb’s breadth above the goblin’s neck.
+A clicking came from under Chask’s boots.
 
-“Back,” Rennic said.
+She threw herself aside. A flagstone dropped where she had stood, exposing black water and the snapped curve of a brick vault. One of the pale crawlers clung head-down to the colonnade. Lamplight traveled over pearled skin as the figure uncovered and covered a shuttered lantern: twice, pause, once. A free hand tapped the pillar.
 
-“Armed.”
+The goblin on the fountain shouted, “Nacre says bad roof. Or bad floor. This stone. Not all stone.”
 
-“Back.”
+Nacre flashed twice again and jabbed toward the chainhouse.
 
-The scout clawed at the floor. “If you make them move me again, I’ll bite somebody.”
+“Which stone?” Chask called.
 
-The goblin looked up. “You will crack a tooth. Your bones are badly made.”
+Nacre tapped three quick strokes, waited, then tapped them farther along the pillar. The rhythm moved toward the tower.
 
-The willow was not a cage. Two padded slats held the scout’s lower leg straight, while the hoops kept blankets from touching the swelling. Blood had soaked the lowest wrapping. The knot above it was neat.
+The captain stepped over the hole. “Ten minutes.”
 
-Rennic forced the axe free and shoved it toward its owner. “How did he get here?”
+Chask sent two sappers to probe ahead with their setting rods. She took the crock around the broken pavement herself. The crack beneath the yard was not random. It traced the line of the half-collapsed culvert, the void their first charge had found and punished. Smoke pressed down from the burning wall. People vanished into it carrying water, returned empty, and chose new work when the bucket line failed.
 
-“Your wall fell on him,” the goblin said. “Then your men hit the wall again.”
+At the chainhouse door, Halwen barred their way.
 
-“You pulled me out,” the scout added through his teeth. “I remember that much.”
+She was taller than Chask had judged from the wall and older than the army broadsheets made her, with cropped gray hair and a soot-black coat laced tight at one wrist. Nothing crowned her. A ring of keys hung at her hip beside a mason’s plumb bob. When she spoke, the first word tore into a rasp, a low tremor rolled beneath it, and clicks crowded its end.
 
-Rennic crouched. “Did Iskava send you for him?”
+“No powder here.” The words were human words, but strained through the three noises until Chask had to fit them together from pieces.
 
-The goblin stared as if the question had arrived in the wrong language. Then they tapped their own chest with two bloody fingers. “These hands found him. Iskava’s hands are busy.”
+Around them, several refugees moved at the rasp. A few ducked. One covered a lamp. Most did neither. The long-limbed rearguard at the fire shifted when the low vibration reached them, then settled again by watching one another.
 
-Another tremor ran through the stairs. The goblin snatched up a wooden bowl and covered the scout’s face before grit rattled down. When it stopped, they thrust two carrying poles at the spearwoman.
+“Stand aside,” the captain said. “The gate mechanism is military property under seizure.”
 
-“Lift under the knots. Not under the frame.”
+Halwen’s next breath clicked hard enough to fleck blood onto her lip. “Your blast broke the broad road.”
 
-“We can take him out,” Rennic said.
+Behind her, the chainhouse floor was crowded with winding drums, brake levers, and stone counterweights. The largest chain descended through a slot toward the culvert mouth. Families were moving through the room, some toward a narrow stair, others down a ramp wide enough for the six-legged beast. Not troops awaiting orders. Traffic under pressure.
 
-“Through that worm hole?” The goblin pointed toward the sleeping chamber. “His foot will stay here. Take him to the west court. There are carts.”
+Chask set down her end of the crock. “Where does the broad ramp pass under this floor?”
 
-The scout’s face had gone colorless. Behind them, men outside shouted for a longer pry bar. Rennic pictured the willow frame twisting through the crawl and the broken ends grinding together. He hated that the goblin was right. He hated how quickly one correct instruction changed his route.
+Halwen looked at the setting rods and then at the captain’s sword. “Away from you.”
 
-“Make the litter,” he said.
+“If the crack has crossed its roof—”
 
-The spearwoman and youngest threaded the poles through a canvas bed sling. The goblin undid their work, moved one pole the width of two fingers, and made them try again. The axeman stood with the axe across his body. The archer watched the corridor.
+“Away.” She kept one hand on the doorframe. Its tremor had nothing to do with the stone.
 
-When they lifted, the scout swore once and fainted.
+The apron-wearing goblin shoved between two sappers with a crate against his chest. “One route list. She carries it. Wouldn’t give me a copy.”
 
-“Still breathing,” the goblin said. “Move before your friends bury my ward.”
+“Kritt.” Halwen’s voice split his name into scrape, pulse, and one hard click. She caught the frame when her balance went.
 
-The ward opened on three corridors, all crowded.
+“Salt, lamp oil, medicine,” Kritt told her. “Grain stays.”
 
-Rennic raised his sword. The figures nearest him flinched but did not charge. Two goblins dragged a flour sack between them and argued about which way the rain had entered. A furred creature with digging claws blocked a low tunnel, coughing at the air from it, while those behind shoved and then peeled off toward a stair. A horned dam shouldered through with one young held by the loose skin of its neck. Halfway across, she dropped it beside a basket and fought back against the flow for another.
+“North bins first. Winter—”
 
-There were signs, but no formation. A scaled woman waved a family toward the upper passage. They ignored her. Someone shouted that the north stair had fallen. Someone else shouted that it had only fallen for heavy feet. Packs split. Friends separated. A goblin with a spear turned around to fetch a cooking pot and was cursed from every side.
+“North burns in four minutes. Winter weighs nine hundred.” He dropped the crate beside the ramp. “No.”
 
-“They’re breaking by company,” the archer said.
+He turned his back on her and pointed two goblins toward the medicine chest. One went. The other shook her head, lifted a small child from beneath the winding drum, and took the stair instead. Kritt swore, revised his count on his fingers, and waved a pair of larger bearers into the empty place.
 
-Rennic followed the path of least resistance and found a stone arch filled with mortar. An old woman whose hands shone blue clutched a basket of mottled eggs before it. She looked over her shoulder at the soldiers.
+The captain drew a red cord from the powder crock. “Place it on the main drum.”
 
-From deeper in the House came a woman’s strained call. “If you are fleeing the breach, step now.”
+Chask crouched at the floor crack. Air moved through it, pulling smoke downward. She put two fingers to the stone and felt a tremor that was not Halwen’s curse: feet, many of them, passing below. The broad escape ran directly under the chainhouse.
 
-Darkness hollowed the sealed arch. For an instant Rennic saw another room through it, lit by greenish lamps. The old woman stepped between the stones and was gone.
+“Not the drum,” Chask said. “We need the foundation.”
 
-The youngest gasped. Rennic reached the arch three strides later and struck solid mortar with his palm.
+Halwen’s gaze sharpened. The captain only nodded. A foundation charge was ordinary practice against a gate tower.
 
-At his boot, one of the hanging salt packets had torn. The spill contracted with a dry ticking sound until the grains fused into a cloudy lump. A goblin child darted between Rennic and the wall, seized it, and groaned.
+“Show me the ramp line,” Chask said to Halwen.
 
-“That was supper salt.”
+“So you can follow it?”
 
-The child ran off, already hammering the lump against the floor.
+“So I can find what carries this floor.”
 
-“The Mother opened it for her,” said the spearwoman.
+“You already found it once.”
 
-“And closed it for us,” Rennic answered. He had seen the old woman check behind her. The caller’s working admitted flight and denied pursuit. That was still control, only hidden in the shape of an escape. “The caller is inward. Keep moving.”
+The captain cut in. “Eight minutes.”
 
-The goblin healer snorted but stayed beside the litter.
+Halwen pushed away from the frame. “Large bodies take the ramp. Small bodies go with Nacre. The west drain is blocked. The old kitchen stair is mine.”
 
-Fresh claw marks led into a store hall. Here, at last, lay proof that did not resemble a nursery. Grain sacks carried the kingdom’s mill stamps. Hunting bows stood bundled in a corner. A row of battered helmets hung by their chin straps, and beneath them someone had sorted arrowheads into jars. Some points were black with old blood.
+“How many?” Chask asked.
 
-The axeman stopped. One helmet bore a painted white hook across the brow.
+“Not yours to count.”
 
-“My son’s company.” His voice came out quiet. He pulled the helmet down. Its crown had been split nearly through. Inside, a broken chin strap had been repaired with three turns of green cord. The axeman touched the knot. “I tied this.”
+Kritt answered from the medicine chest. “Broad road, forty-two walking, seven carried, three frames. Crawlway had thirty before Nacre changed the line. Count went bad.”
 
-The goblin healer glanced at it. “Then it was his.”
+As if to demonstrate, the six-legged beast entered the chainhouse with only one pannier left. A goblin tried to strap the medicine crate onto the vacant side. The beast folded all six legs and flattened its ears. When the goblin tugged, it rolled enough to pin the loose harness under its weight.
 
-“Who brought it here?”
+Kritt slapped both palms against his thighs. “It says one side pulls wrong.”
 
-“I don’t know.” The healer checked the scout’s pulse. “I was not here in spring.”
+“It says no,” Halwen said.
 
-The axeman caught the goblin by the front of the apron.
+Kritt stared at the blocked ramp, then kicked the harness buckle free. “No load.” He split the medicine into two canvas bags and handed them to separate bearers.
 
-Rennic put his sword edge against the man’s wrist. “Let go.”
+Nacre dropped from the colonnade into the doorway, landing in a low fold of limbs. Up close, Chask could see old mortar whitening their fingertips. Nacre tapped the floor: three strokes, then two. They flashed the lantern at the ceiling and pointed to the culvert ramp.
 
-“They keep our dead on hooks.”
+“Three roof ribs, two broken?” Chask guessed.
 
-“And your hand is crushing the one keeping ours alive.”
+Nacre went still. Then they struck three stones in sequence. The first rang. The next two answered dull.
 
-For a moment Rennic thought the axeman would make him cut. Then the fingers opened. The goblin straightened their apron and did not step away from the litter.
+There it was. The chainhouse load traveled across three ribs; two had detached from the wall. The second charge would not open the gate. It would punch the remaining rib into the ramp and drop the tower after it. Forty-two walking, seven carried, three frames—bad count, still enough to bury.
 
-Beyond the helmets hung iron collars, each opened with hammer and chisel. Branding irons rusted in a rain barrel. One carried a wheat-sheaf Rennic had seen burned onto laborers along the southern road. Beside that evidence lay more stolen grain, three purses cut from belts, a child’s silver cup, and a hunter’s finger bone wrapped in wire.
+Chask crossed to the west wall. The crack rose through it, passed behind the counterweight guide, and continued toward the causeway abutment. The first blast had made the whole gate complex one failing structure. Put the powder here and the release would run both ways: down through the culvert roof and outward into the upper approach, where the point company waited.
 
-Nothing in the room gave Rennic a clean innocence to defend.
+The crack, the failed ribs, and the loaded approach were enough for any board of engineers.
 
-Rennic picked up an arrowhead shaped like those used in his valley. Such a point might have killed the thing that broke his sister’s sheepfold. It might have been pulled from that thing afterward. The old proclamation had named Iskava before the snow was trampled flat, because the kingdom already had a name large enough to hold every dark print.
+The captain’s horn sounded one short note from the yard.
 
-“Who raids the farms?” he asked.
+“Six minutes,” said one of her sappers.
 
-“Hungry people. Angry people. Fools.” The healer adjusted the scout’s blanket. “Sometimes people who live here. Sometimes not.”
+“Lift the crock,” Chask ordered. “We’re moving it to the outer switchback.”
 
-“And you shelter them.”
+The sapper with the red cord stared at her. “Away from the gate?”
 
-“If they reach the wall.”
+“This foundation vents into the culvert and shears the approach under our point. The outer bend has an open fall and one unsupported face. We cut there.”
 
-The first horn rolled through the open ceilings. Dust trembled from the cut collars.
+“That leaves the chainhouse standing.”
 
-“You don’t ask what they did?” the axeman said.
+“It leaves us standing. Lift.”
 
-At last the goblin faced him. “Not while blood is running. Lift your end.”
+Halwen caught Chask’s sleeve. Her grip was hard, her footing suddenly not. “The switchback falls across the ravine traverse.” Rasp. Vibration. Clicks. Several heads turned at the vibration; two refugees started for the broad ramp, while Kritt kept loading medicine. He relayed the warning with two raised fingers. Farther down the ramp, someone answered with three knocks on wood; from the yard came a shrill animal call that Halwen did not echo.
 
-They moved on before the axeman answered.
+“Then clear the traverse before the fuse reaches the bend.”
 
-The inner hall lay beneath a long rent in the sky. Evening had drained to violet. Creatures packed the side aisles with bundles, eggs, tools, and cages of luminous insects. Some crouched at the center. Others shouted toward ordinary doors. At the far end, beneath a fan of iron spikes, a woman in a torn white dress sat on carved black stone.
-
-For one relieved instant, Rennic saw exactly what the proclamations had promised: a throne, a court, the Mother at its head.
-
-He pushed through the waiting bodies and leveled his sword.
-
-“Iskava.”
-
-The woman’s eyes found him. “Yes.”
-
-“Call them off.”
-
-She looked past his blade at the four soldiers and the litter. “Your people are the only ones advancing.”
-
-“The creatures.”
-
-“We are already leaving,” said a feathered person beside Rennic, and ducked into the left aisle.
-
-Iskava pointed after them. “That stair is broken.”
-
-“Then I’ll climb the break.”
-
-They kept going. Iskava had no breath to spend arguing.
-
-Up close, her throne lost its seat. She was wedged in the ruin of an arch, back pressed to a carved slab that leaned over the threshold behind her. Iron building pins jutted from the cracked stone around her head. Her hands gripped two grooves at shoulder height. White numbness had crept from her fingers almost to her elbows, and her bare feet dragged uselessly over the floor.
-
-A black hound limped toward the arch. Through that opening lay a torchlit chamber that could not have occupied the same space as the outer wall. The hound sniffed, whined, and backed away.
-
-“Go,” Iskava said.
-
-It chose an ordinary doorway instead. Nothing seized it. Nothing turned it back.
-
-Iskava drew a thin breath. “If you are fleeing the breach, step now.”
-
-The impossible room sharpened. Three goblins carried a cradle through. Salt in a wax packet at Iskava’s knee clicked and hardened.
-
-Rennic thrust his free hand into the opening. His knuckles struck cold stone, though he could see torchlight beyond them.
-
-“Open it.”
-
-“Not for pursuit.”
-
-“I came inside your walls. That makes me your guest.”
-
-“You brought an axe.”
-
-The axeman shifted behind him. Iskava had noticed the weapon, not the grief carrying it.
-
-“Where are you sending them?” Rennic asked.
-
-“The old kitchens. Then the ravine doors, if those still open.”
-
-“Beyond the army?”
-
-“Nothing here goes beyond stone. These broken arches let me bend one room into another. Night must do the rest.”
-
-Her answer was too small to be the boast of a commander. Rennic kept the sword at her throat. “If you die?”
-
-“This threshold shuts.”
-
-“All of them?”
-
-“All I am holding.” She looked past him. “Move the litter. You are blocking the small ones.”
-
-The spearwoman obeyed before Rennic spoke. A pair of goblin children slipped around the scout, each gripping one handle of a cooking pot. They ignored Iskava’s offered path and ran down the right aisle after someone calling for them.
-
-“You could order them to cross,” Rennic said.
-
-“I told the hound to cross. It chose a stair.”
-
-She was watching a winged child sag in its father’s arms. The father rushed the arch and struck stone. He tried again, crying out.
-
-“Wake her,” Iskava told him. “I cannot open for one who sleeps.”
-
-He rubbed the child’s hands, called into her ear, then pinched the web between two fingers. Her eyes fluttered open. The threshold showed the torchlit room, and the father carried her across. Iskava’s shoulder slipped lower under the slab.
-
-The scout stirred on the litter. “Captain.”
-
-“Save your strength.”
-
-“The healer didn’t know who I was.”
-
-The goblin pressed him down. “I knew you were heavy. I know it better now.”
-
-The second horn sounded.
-
-Every soldier in Rennic’s file knew the signal. The oak jaws were set. At the third note, the main column would enter two abreast and widen the passage with shields. They would meet claws, fangs, old weapons, stolen grain. No one packed into that tunnel would stop to ask who carried eggs or whose hands had tied a splint.
-
-The axeman stepped beside Rennic. “Do it.”
-
-Iskava did not look at the sword. “Next.”
-
-The blue-handed old woman appeared from the right aisle without her basket of eggs. She had returned for one of the pot-carrying children, who kicked furiously under her arm.
-
-“Put me down!”
-
-“You left your brother.”
-
-“He left me.”
-
-They quarreled all the way through the arch. Iskava’s lips had gone gray by the time it closed behind them.
-
-Rennic could end her. He could not end the raids already made, nor name who had killed his sister, nor return the axeman’s son. He could only make the next dead certain.
-
-He lowered his sword. “Back to the breach.”
-
-The axeman caught his shoulder. “That is not the order.”
-
-“It is mine while you stand in my file.”
-
-They carried the scout at a run. The goblin healer kept one hand on the splint and swore whenever the litter tipped. Refugees flattened against walls, baring teeth or lifting weapons as the soldiers passed. Rennic did not pretend they trusted him. Behind them, Iskava’s call grew fainter, but other voices took up directions through the halls.
-
-In the sleeping chamber, the eastern gap stood as tall as a man’s chest. Helmet crests moved outside. The sappers’ two oak jaws bit the broken wall; a crossbar joined them, held by an iron retaining pin and a hooked safety dog. On the next pull, they would brace the upper courses and drag the lower blocks clear.
-
-Rennic had built breaches before. If the safety came loose first, the cracked courses would fold inward and fill the opening.
-
-He pointed the litter behind a stone bed platform. “Down there.”
-
-The spearwoman moved without question. The youngest followed, then looked back toward the gap where daylight still showed.
-
-Rennic put both hands on the iron dog. “This wall is coming in. Choose which side you want.”
-
-The archer stared at him. “What do I tell them?”
-
-“Tell them the target is holding the escape open. Tell them I saw it.”
-
-“They’ll hang you.”
-
-“If they get the wall down.”
-
-The archer slid through the breach. The youngest took two steps after him, heard the scout moan, and went back to the litter instead.
-
-The axeman remained between Rennic and the pin. He still carried his son’s helmet under one arm.
-
-“You found a room full of collars,” he said. “I found this.”
-
-“Keep it.”
-
-“And let them run?”
-
-Rennic set his feet. “Get outside.”
-
-The axeman swung the helmet. Its rim struck Rennic across the mouth. Rennic drove forward before the axe could come around, trapping the haft between their bodies. They hit the crossbar together. Timber groaned; outside, a sapper shouted.
-
-The axeman’s face was wet, though whether from dust or grief Rennic could not tell. “My boy is dead.”
+“You will close our return.”
 
 “Yes.”
 
-The third horn drew breath outside.
+Halwen’s eyes followed the largest chain down through its floor slot. Then she released Chask.
 
-The axeman twisted free and shoved through the opening, taking the helmet with him. Rennic dropped to one knee, kicked the safety hook upward, and hauled the retaining pin. It moved a finger’s width, stopped, then tore free hard enough to throw him backward.
+A falling lintel struck the doorway before they could move the powder. One end smashed into the floor. The other lodged against the frame, leaving a triangular gap too narrow for the crock.
 
-The oak jaws snapped apart.
+Smoke swallowed the yard beyond. A soldier screamed once, then coughed. The captain’s horn repeated the short note.
 
-The eastern wall came down into the room.
+Two sappers levered at the lintel. Another knelt by the crock, pulled the fuse out of its clay collar, and cut it short with his knife.
 
-The roar crushed every smaller sound. Blocks broke the sleeping platforms and buried the empty coats. Dust erased the doorway. Rennic covered his head as a timber spun over him and struck the floor. The spearwoman had her shield over the litter; the youngest lay beneath its edge with the scout.
+“I can take this through the gap,” he said.
 
-When the air cleared enough to breathe, broken masonry filled the breach to the vault. A sword blade probed once through a crack no wider than a palm, scraped stone, and withdrew.
+“You’ll need to pass the point company.”
 
-The third horn sounded.
+“They know my coat.” He wrapped the cut fuse around his wrist, crawled under the lintel, and disappeared into smoke.
 
-No column followed it.
+One of the lever team watched him go. “I’m not explaining a missing charge to them.” She reset her bar deeper under the stone. “I’ll move it.”
 
-They returned to the inner hall by lamplight. Rennic’s mouth bled, and his right hand would not close. The goblin healer went ahead with the cleaver drawn.
+The others braced with her. Chask joined them. On the far side, hands of several shapes appeared beneath the lintel. Kritt shouted, “On three.” A stone shifted at two; everyone heaved early. The lintel rose a hand’s breadth. The crock scraped through.
 
-“Litter coming,” they called. “Make room.”
+Nacre flashed a rapid burst toward the ramp. Small figures peeled away from the broad lane and followed them up the narrow stair: two goblins, a many-jointed refugee carrying a bundled infant, a wounded traveler walking with one arm over someone half their height. Others tested the opening and turned back when shoulder, horn, or carrying frame would not clear it. No one tried to force them into the same route.
 
-The nearest refugees did.
+At the winding drum, Halwen hauled the brake lever and failed to move it. She had meant to keep the counterweight; Chask saw that in the careful wedges, the oiled chain, and a winter stores schedule chalked beside the drum. Without its pull, the damaged culvert gate would open only halfway.
 
-Only a handful waited at Iskava’s threshold. She could no longer form the call. Each time someone crossed, the torchlit room dimmed and the white numbness climbed higher along her arms.
+Kritt dragged the last medicine bag to the ramp. Behind him the north roof burned through, dropping sparks into the grain bins.
 
-A six-legged beast came back through the arch without its packs. It crouched beside an old goblin whose legs were bound in leather braces. The goblin climbed onto its back. Neither looked to Iskava before they crossed.
+“Oil?” he called.
 
-Last came the horned dam, one young in her mouth and the other stumbling against her forelegs. She set the first down at the threshold. The impossible room flickered. Iskava’s fingers slid from one groove.
+“Leave it,” Halwen tried to say. The word was only voiceless air. No rasp, vibration, or clicks followed. She lurched against the brake stand and pressed both hands to her throat.
 
-Rennic put his good shoulder under the leaning slab. Stone settled against mail and drove him to one knee. He could not open a path. He could hold up rock.
+Kritt looked at the bins, at the ramp, and at her. “Grain stayed,” he said, not gently. “Oil too.”
 
-The dam took one young gently by the neck and pushed the other ahead with her muzzle. The three stepped through. The arch filled with ordinary black stone.
+He went down the ramp.
 
-Iskava folded sideways. Three refugees caught her before her head touched the floor. When Rennic reached out, a feathered hand struck his away. They lifted her without him and disappeared down the western aisle.
+Halwen took a hammer from the wall. Chask knew what she meant to do a moment before the blow landed. The holding pin snapped. The counterweight dropped through its shaft with a roar, flinging the chain off the drum. Somewhere below, a gate crashed open; the shock tore the brake stand from its bolts and ruined every careful sequence the chainhouse had once controlled.
 
-The goblin healer knelt beside the scout and sliced through the soaked bandage. “Captain. Here.”
+Halwen fell to one knee. No warning followed. Silence, and the curse with it.
 
-Rennic took the clean strip they thrust at him.
+The six-legged beast rose at the sound of the opening gate and chose the ramp. It carried one pannier, no driver. The rearguard came backward from the fire in pairs, one dragging an injured companion, another staying until the broad lane cleared. At the culvert mouth, the horned healer shoved the door-litter ahead and turned back for someone Chask could not see.
 
-“Pull until I say.”
+Chask’s sappers shouldered the powder through the lifted gap. Halwen pushed herself up and pointed—not after Nacre, not after Kritt, but through a service door onto a ledge above the ravine. The route she had kept for herself.
 
-He pulled. The scout woke and cursed him. Around them, the last refugees carried their own bundles into the dark, following a dozen voices and none of them Iskava’s.
+“Traverse?” Chask asked.
 
-Before the healer tied the knot, iron picks began sounding against another wall.
+Halwen nodded once.
+
+They carried the crock outward.
+
+The ledge met the upper switchback behind the waiting point company. Below, refugees spilled from the wrenched-open culvert and divided. Nacre’s smaller group emerged farther down through a crack in the ravine wall, their shuttered light blinking over bad footholds. Broad-bodied beasts took the exposed traverse in single file. The wounded went between them where the path widened. Kritt had stopped at the far turn to throw medicine bags across a washout one at a time; when someone reached back for him, he bared his teeth and threw the second bag instead.
+
+Chask set the charge against the unsupported face of the switchback. Here the blast could spend itself into open air. Here the falling shelf would tear away the host’s only road up and cover the traverse after the last refugee crossed it.
+
+The captain came through the smoke with four soldiers. “The chainhouse, Lieutenant.”
+
+“Two roof ribs failed. A charge there drops the escape vault and drives the abutment under this company.” Chask packed clay around the crock. “This bend is the only face that will vent.”
+
+“The chainhouse was the objective.”
+
+“The approach is tied to it. Blast the chainhouse and this bend goes before the gate does.”
+
+The captain’s eyes went to the people below. He was not slow. “You are cutting pursuit.”
+
+“I am cutting a failed load path before the host puts another five hundred men on it.”
+
+He reached for the fuse. Halwen stepped between them with the hammer hanging from one hand. No one gathered at her back. Nacre was gone. Kritt was below. The rearguard had made its own retreat. Halwen could not have voiced a command if she tried.
+
+The captain drew his sword.
+
+Chask looked down the traverse. The six-legged beast had stopped at the washout. No handler pulled it. It tested the edge with one forefoot, withdrew, then climbed upslope on a narrower line no cart could use. The beasts behind chose separately—two followed, one waited for the door-litter to pass, another turned down toward the water.
+
+The last rearguard pair cleared the fall line.
+
+“Fuse,” Chask said.
+
+Her sapper struck the match.
+
+The captain put the sword point against Chask’s breastplate, but the fuse was already spitting into its clay groove. His four soldiers looked from it to the tilting stone under their boots. One retreated toward the sanctuary. Two followed. The fourth seized the captain’s arm without asking leave and pulled.
+
+They ran.
+
+Chask caught Halwen when the ledge pitched beneath them. Halwen struck her hand away, found the wall, and ran on her own. Behind them, the switchback lifted with a flat orange flash. The outer curve broke into three vast slabs and went down. Dust filled the ravine. Stone hammered stone, then dwindled to a patter.
+
+When the air cleared enough to breathe, the road from the host ended in empty space.
+
+Below, no single column moved away. Nacre’s lights descended along the narrow cleft until rock hid them. Kritt and the litter bearers took the watercourse. The six-legged beast and two others climbed the bare slope. Halwen stood on the ruined wall above them, swaying, one hand clamped to her throat, and watched each route without calling anyone back.
+
+The host sounded advance from the lower switchback. The note met the break and became confused shouting. Ropes would come. Timber would come. Rebuilding the approach would take hours.
+
+The captain found Chask beside the breach. Dust had grayed his face. “You will account for that charge.”
+
+Her sappers came in by twos from their positions. The man who had carried the cut fuse returned without it, his coat torn at one elbow. Among the six were burns, torn sleeves, and a shoulder held stiff. All were walking.
+
+“The chainhouse foundation had lost two of three supporting ribs,” Chask said. “Detonation there would have collapsed the culvert vault and displaced the approach abutment under our own troops. I relocated to the nearest unsupported face with an open vent.”
+
+Below them, the host tried another horn sequence. Halwen climbed down from the wall without looking at Chask. Kritt waited only long enough to hand her one end of the litter; she took it with fury in every motion. Together they followed the watercourse out of sight.
+
+“You will repeat that exactly,” the captain said.
+
+“Yes, sir,” Chask said.
+
+She checked the crack running from the chainhouse to the new edge of the road. It was still widening. She raised her setting rod and sent the point company back into the yard.

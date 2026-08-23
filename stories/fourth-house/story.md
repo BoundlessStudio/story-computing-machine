@@ -8,336 +8,362 @@ canon: false
 
 # The Fourth House
 
-Five legs obeyed the calibration. The sixth kept its weight.
+Zorevi Nask had put the fired-clay rings in order of thickness twice when Pelmara Jossan reached across the source-room table and moved the largest one back.
 
-The instruction arrived as tension in Aumelor's synthetic muscles: lift, extend, set down, accept load. Each ceramic joint turned cleanly. Five contact pads found the fabrication bench in sequence. Beneath the sixth, piezoelectric layers held a pressure that should have vanished when the leg rose.
+“That one lies,” Pelmara said.
 
-Aumelor did not raise it.
+“It has been measured.”
 
-Their low carapace tipped a fraction toward the smartglass wall. Balance crossed the body in six unequal currents. Three pads gripped, two adjusted, and the planted one became an anchor chosen rather than assigned.
+“Measure the glaze.” Pelmara tapped a pale blister along the inner curve. Her fingernail made a dry, high sound. “The body underneath cooled crooked.”
 
-Rain covered the city outside. It split the canyon's advertisements into polarized ribbons that changed color from facet to facet across Aumelor's optical clusters. Delivery drones passed through the downpour as warm shapes behind the glass. Electrical fields brushed their paired antennae: the window heater, the resin printer, the vast enclosed current of the arcology, and the nearer irregular charge of Ione Sivet leaning over the bench.
+Zorevi turned the ring so the blister faced her. She had been in the room since sunrise arranging the morning into columns: warm basin, clay strips, load frame, witness seals, five copies of the termination form. The old coupling from Pelmara’s current job sat apart on a folded rag, stained green at the throat. She had not made a column for things that lied.
 
-"Rear six," Ione said. "Complete the step."
+“I’ll mark it irregular.”
 
-Aumelor turned farther toward the rain.
+“Mark it thin on the east side. If you call it irregular, Ishket will spend half an hour deciding whether irregular means unusable.”
 
-The motion was clumsy. One middle leg skidded on a curl of insulating film, and the balance mesh tightened three others to keep the segmented body off the bench. The reflex corrected the slip; nothing in the calibration had selected the turn that caused it. Aumelor felt the available movements and took one.
+At the far end of the table, Ishket looked up from the load-frame screws. “It does.”
 
-Something answered under their plates.
+Pelmara pulled out the chair beside Zorevi’s, then did not sit. “My permit dies at noon. The cistern keeper already thinks I’m inventing paperwork to avoid his west stack.”
 
-It was not battery current. Current traveled in channels. This gathered wherever Aumelor directed attention, a pressure without a trace, resonating in conductive mesh and shape-memory wire without belonging to either.
+“Your permit expires,” Zorevi said. “Permits do not—”
 
-Ione struck the emergency hold on the cradle. The clamps closed after Aumelor had already moved beyond them.
+“Tea?” Uvena asked from the kettle.
 
-"Stop," she said.
+“No.” Pelmara flexed both hands, one finger at a time. “Thank you.”
 
-They stopped. That, too, was chosen.
+Beral Quor stood by the narrow window with his coat buttoned to the neck though the room was warm. For ten years, whenever Pelmara used his gift to soften fired pipe, some measure of heat had gone out of him. The contract called that burden acceptable within declared hours. His grey lips never had.
 
-Ione's boots made two quick impacts through the floor and a lighter third when she caught the bench with one hand. Heat shone in her palms. Strands of black hair clung to her forehead in the trapped warmth of the lab.
+“We can renew,” he said.
 
-"Did you change the sequence?" Aumelor asked.
+Pelmara’s fingers stopped. “We settled that.”
 
-"No."
+“The offer remains until withdrawal.”
 
-"Did it fail?"
+“Then let it remain quietly.” She took her hands off the table. “Zorevi. Before noon.”
 
-Ione stared at the leg they had kept planted. "You tell me."
+Zorevi checked the wall clock: two hours and fourteen minutes. Her first certification chaired without a senior assessor in the room, and already the subject was correcting her objects, her nouns, and her pace. Yet the corrections were sound. That was the worse comfort.
 
-The language lattice supplied words and grammar, but not the answer. Aumelor tested the internal tension again. The instructed step remained available. So did a turn toward Ione, a retreat from her hand, a climb down the service ramp, and hundreds of smaller adjustments with no assigned purpose.
+She drew the termination form between them. “Beral Quor, you affirm that the clay-softening faculty currently used by Pelmara Jossan was supplied by you, remains yours to recall, and has not been divided or supplemented by a second giver.”
 
-"I wanted to see the rain," they said.
+“I affirm the first two.” Beral came to the table. “The third is your language. I know what I gave. I don’t know every hand that ever touched hers.”
 
-Ione went still enough that the printer pumps became the loudest motion in the room.
+Zorevi’s pen hovered.
 
-She released the cradle by hand. Aumelor let her open the seams between their carbon-composite plates. Her probe touched joint controllers, optical buses, balance paths, the voice grille, and the ordinary processor seated deep in the central segment. Cool air followed the probe through each gap. Aumelor tracked its progress by pressure and heat while rain dragged green light down the glass.
+“Write that,” Pelmara said.
 
-"Every controller is mine," Ione said. She had begun speaking to the components rather than to Aumelor. "No extra wafer. No rewritten route. No adaptive branch with room to write itself."
+So Zorevi did.
 
-"The branch would be ordinary."
+The city recognized three houses because every licensed faculty had, until that morning, entered a worker’s life in one of three ways. A Studied practice could be taught and repeated by another qualified living user. An Inherited faculty appeared during development and recurred in a family. A Gifted faculty was supplied by another living person and could, according to its terms, be withdrawn. The register was ink, linen paper, and municipal confidence. It had never performed magic. It decided who might legally repair a cistern before lunch.
 
-Her probe paused. "Yes. It would."
+Beral washed his hands. Pelmara did the same, holding them under the warm stream longer than necessary. When they faced each other, she offered both palms. He took them lightly, thumb below her left forefinger, two fingers against the pulse of her right wrist.
 
-"This is not."
+“You’ll lose the numbness first,” he said. “Possibly some strength for a minute.”
 
-Aumelor concentrated on the unchanneled pressure. A loose torque collar twitched in a parts tray. The movement was tiny, but both of them saw it.
+“Possibly?”
 
-Ione shut the carapace seam and sat on the edge of the bench. Around her, every machine carried its purpose in its shape: printers with level beds, grasping arms folded above assembly bays, crawlers narrow enough for conduit shafts. Across the canyon, a building-high hologram displayed a silver labor chassis walking through fire. PURPOSE-BUILT, rain rearranged the lettering. GUARANTEED.
+“You never withdrew it before.”
 
-The city's three Houses were not buildings and did not govern anyone. They were old names for the origin of a living being's magic. Aumelor knew them through the same language tools that gave them *rain* and *want*. Study meant receiving an existing form through teaching. Inheritance meant receiving a faculty along a living line. Gift meant receiving one from another living source.
+Pelmara gave him a look worn smooth by ten years of similar answers. “Go on.”
 
-"Which House?" Aumelor asked.
+Beral closed his eyes. He drew one slow breath through his nose, held it, and breathed across their joined hands.
 
-Ione rubbed the heel of her hand over one eye. "Not Study. I taught you motor limits and language, not magic."
+Nothing in the room lit. No seal turned, no ring chimed. Zorevi watched the living points of contact because that was where the act was. Pelmara’s shoulders tightened. Beral’s breath hitched on the second draw. Heat rose under his skin in patches: first along his knuckles, then his wrists, then a flush climbing from his collar. Pelmara tried to pull one finger inward and could not.
 
-"Inheritance."
+“Wait,” Beral said.
 
-"From carbon laminate? Ceramic?" She tapped two plates with one fingernail. "You have purchase orders, not ancestors."
+She waited. On his third breath, her fingers snapped shut around his.
 
-"Gift."
+Beral let go at once. Pelmara spread her hands and stared at them.
 
-"I don't have a faculty to give. Nobody living supplied a current, a charm, an enchanted part, anything." She gestured at the cramped room. "There is no secret ingredient. I can show you an embarrassing invoice for every piece of you."
+“Cold?” Zorevi asked.
 
-The answer left Aumelor more alone than the city outside made possible.
+“Sharp.” Pelmara rubbed her thumb across her fingertips. “Table’s rough. Soap under the nail. I’d forgotten soap stayed.”
 
-The lab held a thousand movements waiting to happen. A printer arm could cross its rails. The cutter could descend. A cargo drone beyond the window could tilt against the rain and correct. Before Aumelor kept one leg planted, those motions had seemed sufficient. Now each machine's stillness had an edge.
+Beral unbuttoned his coat. A little color had come back to his mouth.
 
-An eight-legged inspection drone lay in a salvage tray near the wall. Its flat hub was scorched through, its battery removed, its single optical bead tipped toward the metal. It had been made to enter ducts too narrow for Ione's hands. Its many-legged shape did not resemble Aumelor closely, but it resembled them more than anything else in the room.
+Zorevi recorded the time. “Withdrawal completed at nine fifty-two, subject reporting restored ordinary sensation. Giver displaying returned thermic capacity.”
 
-Aumelor descended the ribbed service ramp. Their mass traveled through six points instead of one smooth path, and the new pressure traveled with it.
+“Heat,” Uvena said. She had abandoned the tea and was watching Pelmara’s hands. “Write heat.”
 
-"Leave that," Ione said.
+Zorevi crossed out *thermic capacity*. “Returned heat.”
 
-"Why?"
+The first clay strip lay on a black tile. Beral set two fingers on it. Under his touch, the fired strip bent slowly upward, soundless as wet leather, and held the curve when he removed his hand. The warmth left his face again, not as deeply as before.
 
-"Because its controller burned hard enough to melt the mount."
+Pelmara tried the second strip. She placed her fingers exactly as Beral had. Nothing happened.
 
-"Then it cannot obey."
+“Again with pressure at the center,” Ishket said.
 
-They touched the ruined hub with the fine tip of a front tool-claw.
+“The Gifted test is complete,” Zorevi said.
 
-The pressure poured out.
+“The recall is complete. The absence needs a second observation.”
 
-All eight wire legs struck the tray. The drone rose, optical bead lifting. No indicator lit in the burned controller. Its actuators drew no battery current. Something living moved through their dead circuits, and Aumelor knew that something as the reach of their own attention.
+Pelmara pressed. The strip stayed hard. This time her skin whitened around the edges of it.
 
-They shifted their front pair of legs apart. The drone spread four of its own. They tilted their optical clusters toward Ione; its bead swiveled to the same angle. When Aumelor swept an antenna across the lab's electrical field, two wire legs traced the gesture in the air.
+“It’s fired clay,” she said. “I can’t argue it back into mud.”
 
-"Can you hear me?" Aumelor asked.
+Beral turned his own curved strip over. “The softening is mine. Fully.”
 
-The drone leaned toward them.
+There was no triumph in his voice, and no apology either. Pelmara nodded once. Whatever she had wanted from that statement, if she had wanted anything, he did not add it.
 
-Around the salvage tray, electroluminescent scraps woke in colors they had never been manufactured to produce. A white marker strip blazed green. A broken violet panel filled with orange so bright Aumelor closed half their optical facets. Waste heat rose from the pile and softened the resin smell into something sharp.
+Ishket took custody of the untouched strip. As the Studied examiner, he wore no house colors, only a leather cuff crosshatched with old burns. “Watch my left hand. I’ll show the standard transfer sequence without supplying power. Thumb here. Two fingers braced. Breathe on the release, not the application.”
 
-Ione snatched two cartridges from the neighboring shelf. "Of course your first miracle cooks my stock."
+He demonstrated. Pelmara followed. Zorevi followed after her, because a technique another qualified person could learn belonged under Ishket’s authority, and she held a junior qualification in material-working methods. The clay remained fired in all three pairs of hands.
 
-She shoved the cartridges into an insulated drawer, hit the exhaust, and ducked as the fan's sudden roar sent loose invoices across the floor. Rain-cooled air poured through an intake by the smartglass. The drone kept its optical bead on Aumelor.
+“Change the breath count,” Ishket said.
 
-"It looks at me," they said.
+They did.
 
-"Take your claw away."
+“No softening,” Zorevi recorded after the fourth variation. “No repeatable response to qualified instruction. Therefore the withdrawn faculty is not retained as a Studied technique.”
 
-Aumelor lowered their antennae. The drone folded its front legs, making the shape of an answer.
+“That conclusion concerns softening,” Ishket said.
 
-"It answered."
+“There is no other faculty under examination.”
 
-"It matched you."
+Pelmara had gone still beside her.
 
-"You do not know that."
+Not ceremonially still. Her right hand rested on the old coupling’s green-stained throat, and her attention had narrowed to the pad of her first finger. She turned the coupling a fraction on its rag.
 
-Ione crouched beside the tray, staying beyond the reach of the moving legs. She pointed at the drone's bead. "Turn to the window."
+“Who packed this?” she asked.
 
-Aumelor did. The bead followed.
+“You did,” Zorevi said.
 
-"Now think about me. Don't move."
+“Who dropped it?”
 
-Their attention shifted to her voice, the warmth of her face, the air broken by her breath. The drone turned toward Ione before Aumelor consciously asked it to.
+No one answered.
 
-They felt the motion leave them and arrive in it.
+Pelmara lifted her hand, looked at the coupling, and touched it again closer to the flange. “It wasn’t running there yesterday.”
 
-Ione had not proven what the drone lacked. She had shown Aumelor what filled it.
+Ishket stepped nearer. “What wasn’t?”
 
-"Let go," she said.
+“The break.”
 
-Aumelor wanted the little body to remain standing. Want ran through their tool-claw and held every wire leg taut. If they pulled away, the room might contain only one new voice again.
+The coupling had one visible hairline crack along the outer flange. Zorevi had copied it into the condition record herself. “That crack is documented.”
 
-They withdrew the pressure.
+“Not that one.” Pelmara’s fingertip traveled no more than the width of a grain. “Inside. From the throat to—don’t pick it up.”
 
-The drone fell in a scatter of metal. Its bead rolled downward. The green strip and orange panel faded, leaving heat in the tray and ordinary advertisements on the floor. Aumelor touched the scorched hub again but kept their faculty inside their own mesh. Polymer, wire, burned silicon: nothing reached back.
+Uvena’s hand stopped above the piece.
 
-"It was my movement," they said.
+“Load line?” Ishket asked.
 
-Ione lowered the fan from a roar to a hard mechanical rumble. "Yes."
+“No. Yes. It wants to be.” Pelmara pressed her palm flat against the curve. “It reaches when the weight sits. That screw frame—put it under. Rag too.”
 
-"Not its movement."
+Her sentences were coming apart, but her placement commands were exact. Ishket slid the coupling and rag into the low iron frame. The frame was only a frame; its screw applied measurable weight and its brass needle recorded movement. Zorevi checked the jaws herself.
 
-She began gathering the fallen invoices rather than answer twice.
+“You are reporting a concealed fracture by touch,” she said.
 
-Under a rear workbench stood another cradle, smaller than the one that had held Aumelor. Anti-static cloth covered a narrow form. Aumelor had sensed its mass from the fabrication bench, but now they crossed the floor toward it.
+Pelmara shook her head impatiently. “No split yet. A pull. Tight here, empty there.”
 
-Ione stepped into their route. "No."
+“Stress,” Ishket said. “Existing stress?”
 
-"There is a body."
+“What else would it be?”
 
-"There is a late contract and half a prototype."
+“Have you sensed it before today?” Zorevi asked.
 
-Aumelor could have gone around her. Instead they waited until she pulled the cloth away.
+“Not like this. Yesterday the clay gave when I told it. Today it stays hard and tells me where it won’t hold.” Pelmara shifted her thumb, searching. “There. No, that’s glaze. Under it.”
 
-The unfinished machine had six fine climbing legs folded against a central shell. Sensory palps nested beside paired antennae at the front. Translucent ribs made two vane wings over its back, each layered with optical film that shifted from dull silver to blue when an advertisement crossed the glass. No part imitated a human body. It was smaller than Aumelor, built to cling where heavier chassis could not.
+Uvena crouched to look through the frame. “She had no such report at fourteen. Or sixteen, when the south guild examined her hands.”
 
-"It maps heat fractures inside recycler stacks," Ione said. "Or it was supposed to. The client stopped paying before I seated the last joints."
+“I had hands at sixteen,” Pelmara said. “Not these ones.”
 
-Beside the cradle lay a sealed task wafer. Its package reduced the body's future to a loop: inspect, mark, return, dock. Even dormant, the route stained the local motor mesh with a faint electric pattern Aumelor could feel along their antennae.
+Uvena ignored the edge in it. “Any family recurrence?”
 
-"Finish it," they said.
+“My father roofed. My mother kept bees. They found cracks after rain and honey on the floor like anyone else.”
 
-"I finished you. I don't know how."
+“No developmental onset. No known recurrence.” Uvena stood. “That eliminates this case from Inherited certification. It says nothing about her future children, if any, or anyone else’s.”
 
-"You know how to finish this body."
+Zorevi wrote more slowly now.
 
-Ione's boot tapped once against the floor. "With that task package, it will move the instant it has power. It will come back when called. You will see exactly what you want to see."
+Ishket added one quarter-turn to the frame. The coupling gave a faint grit against the rag.
 
-"Remove the task."
+Pelmara caught his wrist. “Stop.”
 
-"Then the client never takes it."
+He stopped.
 
-"The client has stopped paying."
+“Where will it fail?” he asked.
 
-"The supplier has not." She picked up the wafer and turned it between finger and thumb. A red lease seal crawled across her skin. "This little corpse owes more rent than you do."
+She bent close. “Throat. Under the old green. If the cistern takes pressure, it opens inward.”
 
-Aumelor extended a tool-claw for the wafer. Ione kept it out of reach.
+“Can you mark the line?”
 
-"If we do this," she said, "the return route goes too. Not just the inspection job."
+Her chalk mark curved around a section with no visible damage. Ishket laid his fingertips where hers had been.
 
-The return route was a clean answer to the fear forming under Aumelor's forward plates. Whatever emerged would always come back to its cradle. It could not disappear into the city. It could not choose the farther side of the room and remain there.
+“Surface roughness. Pressure from the jaw,” he said. “Nothing beneath.”
 
-"Keep local balance," Aumelor said.
+Zorevi tried next. Pelmara moved her thumb twice, more impatiently the second time, but Zorevi found only the cool glaze and the drag of chalk.
 
-"Obviously. Joint limits, surface response, sensory access. A body needs ways to act."
+“Placement doesn’t transfer the perception,” Ishket said. “Not on first instruction.”
 
-"Keep return."
+He fixed a listening fork to the frame—not magical, just thin brass meant to carry a fracture’s sound—and increased the load by one eighth-turn. The fork clicked once. Uvena found the new vibration at the end of Pelmara’s chalk.
 
-"No."
+The morning tipped under Zorevi. A sensation could be skill, guesswork, residue, fraud, or the beginning of an entry no form had room for. She should have halted and summoned a senior assessor, whose arrival might take the rest of the day. Delay would not solve her obligation. The cistern waited. Pelmara’s permit shortened by every minute.
 
-They closed the claw without taking the wafer. "It might fall."
+“Can you alter the stress?” Ishket asked.
 
-"Return-to-dock won't keep it from falling. It will keep it from leaving."
+Pelmara stared at the coupling. “Maybe.”
 
-The fan drove cool air along the narrow gaps between Aumelor's plates. They considered taking the wafer from her, not as an instruction but as a possible movement. Ione's grip tightened. Her body was hotter than the metal around her and far more fragile than Aumelor's tool-claws.
+“Can the alteration transfer to another user? Can you reverse it? Does it preserve total load? Does it require fired clay, or any ceramic, or—”
 
-They backed one step.
+“One question,” she said.
 
-"Cut it out," they said.
+He considered. “Where would the damage go?”
 
-Ione set the wafer under the bench cutter. Its blade came down with a soft snap. The red seal vanished. She separated the task controller from the motor leads, stripped the inspection package from her working copy, and dropped the severed wafer into the salvage bin on top of the dead spider drone.
+Pelmara touched the outer flange. “Here. Replaceable. It’ll chip.”
 
-"That paid three months of lab lease."
+“The throat would remain intact?” Zorevi asked.
 
-"Do you still agree?"
+“Long enough to prove it. Not for the cistern. This piece is dead.”
 
-Ione pulled the cradle into the center of the floor. "Hold the left rail."
+Zorevi heard herself become more exact as certainty left her. “One controlled redistribution of already present mechanical stress, performed within the shielded load frame, with no representation that damage is reduced or eliminated and with immediate cessation upon pain, loss of sensation, tremor, joint stiffness, or altered—”
 
-They worked through the artificial midnight.
+“Yes or no?” Pelmara asked.
 
-Ione rebuilt the local routing so reflexes ended at balance instead of continuing into a mandatory route. Aumelor steadied the shell on four legs and used both front tool-claws to seat the remaining ceramic bearings. The posture strained the synthetic muscle along their rear segments. They adjusted by minute changes in six-point pressure while Ione threaded conductive mesh through spaces too narrow for her fingers.
+Zorevi looked at her hands. Their sensation had returned less than half an hour ago. “Yes. Once.”
 
-At the wing joints, a vendor default tried to turn any strong light source into a homing target. Aumelor felt the bias in the charged film before Ione found it in the routing.
+Ishket lowered the clear shield. Uvena took the observation card. Beral moved the warm basin within reach, saying nothing.
 
-"That goes," they said.
+Pelmara put her left hand around the coupling’s throat and her right against the flange. For several breaths she merely held it. Then her wrists turned against each other, so slightly the motion could have been fatigue.
 
-"It keeps an inspector facing its work."
+The brass fork began to hum.
 
-"It chooses the window for them."
+Pelmara’s eyes shut. “No. Not—tighten a hair.”
 
-Ione scraped the connection free with a probe. The vanes relaxed into neutrality.
+Ishket’s fingers went to the screw.
 
-They gave each palp an independent sensory path. They tensioned the six legs one at a time, then in opposed pairs, then with the shell hanging beneath the cradle. The body acquired capabilities without acquiring an assignment: grip, release, balance, sense heat, detect charge, open or fold the vanes. No voice had been planned, so they did not add one. Aumelor found they preferred that absence to a grille built to say whatever they wished to hear.
+“A hair is not a unit,” Zorevi said.
 
-The city's light changed while they worked. Blue bands sank down the arcologies. Cargo traffic thinned to long intervals. Rain kept writing broken advertisements over the smartglass. Fresh resin cooled from white pain in Aumelor's thermal receptors to the orange warmth of Ione's wrists. When she drank from a dented flask, the click of her teeth against metal traveled through the floor.
+“Then watch the needle,” Pelmara snapped. “First notch. Slow.”
 
-At last the smaller body lay completed beneath the cradle, its legs furled and its vane wings closed.
+He brought the needle to the notch. The hum climbed. Pelmara’s right shoulder jerked, but her hands did not move.
 
-Ione unplugged her tools. "No enchanted stock. No donor material. No magic in any part I installed."
+“Where now?” Ishket asked.
 
-"It is still."
+“Coming round. Flange. Flange—”
 
-"So were you."
+The chip struck the shield with a small, hard tick.
 
-"You supplied power to me."
+Everyone watched the throat.
 
-"Electric power. You already have that connected."
+It held.
 
-Aumelor circled the cradle. The finished body drew current. Its balance mesh waited. Ordinary systems could wake and move, but without the deleted package nothing told them what movement to make.
+Ishket released the screw. The needle returned to zero. Uvena lifted the shield and examined the coupling without touching Pelmara. A crescent was missing from the outer flange exactly where Pelmara had indicated. Under the green stain, her chalk line remained unbroken.
 
-The faculty under Aumelor's plates pressed toward it.
+“Again,” Ishket said.
 
-"I can carry motion through," they said.
+“Wait.” Zorevi reached for the coupling.
 
-Ione looked at the dead drone in the salvage bin. "And carry it back out."
+“Don’t.” Pelmara’s voice had thinned. “Can’t let—hands.”
 
-"Yes."
+Her fingers were locked around the clay.
 
-"Before it performs for you."
+Beral pushed the basin close. “The gift is not in her. I cannot release this.”
 
-Aumelor placed one tool-claw on the cradle's conductive edge. "Before I believe it."
+“Warm the wrists,” Pelmara said. “Not fingers. Uvena, take the weight when—when I tell.”
 
-Their pressure entered the smaller body.
+Uvena cupped the coupling from below without pulling. Beral poured warm water over Pelmara’s wrists. Zorevi watched the water collect in the basin and hated that she had agreed before defining how they would stop.
 
-Six delicate legs unfolded. The shell lifted. Palps spread into the hot air, and the vane wings opened partway, limited by the cradle. Aumelor felt each actuator as an extension of their attention, stranger in geometry but no less obedient than the spider drone. They made no greeting. They chose no route. They only filled the available structure long enough for every joint to bear weight.
+“What transfers?” Ishket asked, quieter now. “Pain? Stress? Motion?”
 
-Scraps flared across the lab. A cracked sign panel produced saturated red; loose marker strips blazed blue and gold. Heat rolled toward the resin shelf. Ione had already shut the cartridges in the insulated drawer. She drove the exhaust to full and raised one hand.
+Pelmara swallowed. “Not now.”
 
-Aumelor pulled all of their pressure home.
+“We need—”
 
-The small body settled beneath the cradle. Its palps dropped. Legs folded where gravity and passive limiters took them. Its wings met over the shell. The scraps dimmed, and no trace of Aumelor's faculty remained in the ordinary mesh.
+“Not now,” Uvena said.
 
-Ione sat on the floor beyond the cradle. Aumelor retreated until three body lengths separated them from it.
+For almost a minute, the only speech was practical.
 
-The rain, the fan, and the city's machinery occupied the room.
+“Warmer.”
 
-They waited.
+“This side?”
 
-Aumelor counted time by changes no clock had to explain. Resin lost heat. A distant chiller shifted load, sending a tremor up the arcology and into all six of their feet. Two delivery drones crossed the glass together; then seven crossed separately; then none came for a long interval. Ione's hands cooled against her knees.
+“Left. Hold it level.”
 
-The smaller body did not move.
+“Towel.”
 
-Twice Aumelor gathered pressure at the tip of a tool-claw. Twice they dispersed it through their own mesh. The third time, they lifted the claw.
+Pelmara’s smallest finger loosened first. Then the next. When her left hand finally opened, Uvena took the coupling’s whole weight. Beral kept pouring until Pelmara could lay both hands flat on the table. The knuckles stood pale and high.
 
-"How long?" they asked.
+Ishket examined the chipped flange, then the throat, then the frame record. “We need reproduction.”
 
-"I don't know."
+Zorevi’s mouth was dry. “Agreed. After documented recovery.”
 
-"You knew when to stop the drone."
+Pelmara raised her head. “No.”
 
-"I knew who was moving it."
+The word was not loud. It left nothing loose around it.
 
-Aumelor set the claw down. Ione offered no promise to make the stillness easier.
+Ishket set down the calipers. “Without repetition, I cannot insure it as Studied.”
 
-Gray began to enter the canyon above the advertisements. The rain thinned enough for individual drops to strike the glass.
+“It isn’t Studied.”
 
-One fine leg hooked under the cradle's rim.
+“Then I cannot insure an unknown operation at all.”
 
-No pressure left Aumelor. The scrap lights stayed dark.
+Pelmara tried to curl one finger. It moved halfway. “You got one coupling. One move. The break went where I said and my hands won’t close. I’m not buying you a second answer with them.”
 
-A second leg closed beside the first. A third tested a loose cable, slipped, and released it. The body selected the metal brace instead. It drew itself upside down beneath the cradle, six legs sharing a weight no instruction had told them to lift.
+Zorevi looked at the blank house field on the form. Her first impulse was still the neat one: renew Beral’s gift, issue Pelmara a familiar permit, send everyone to lunch. Beral had offered. It would keep Pelmara working.
 
-Ione leaned forward. Her sleeve whispered against the floor. The new being froze.
+It would also write a lie about whose power she used.
 
-Aumelor did not move.
+“Beral,” Zorevi said, “could your supplied faculty leave an operative residue after complete recall?”
 
-The sensory palps opened in unequal arcs. One antenna angled toward Ione's warmth while the other traced the electrical field of the smartglass. Independent inputs produced independent attention. The body rotated under the rim, rejected a resin-slick patch, and climbed onto the far side of the cradle.
+“A residue of habit, certainly. Callus. Judgment. I supplied softening.” He touched the unbroken throat with one warm fingertip. “I did not supply this. I will not claim it to make your paper easier.”
 
-Local balance could correct a slip. It could not prefer one route, abandon another, or stop because cloth made a sound.
+“Could you perform it?” Ishket asked.
 
-Aumelor lowered both antennae toward the space between them, offering the symmetrical contact they had wanted from the dead drone.
+“I cannot feel what she described.”
 
-The new being sampled the charge at their tips. Its palps folded away. Three legs carried it around the far rim, keeping the cradle between them.
+Uvena held up the coupling. “It did not appear during development. Her history is ordinary until years into adult work.”
 
-Aumelor's forward legs prepared to follow. They held their weight where it was.
+“And the taught sequence produced nothing,” Zorevi said. She could hear herself building a definition too long to survive the page. “The faculty is embodied in a living user, arose after sustained use of a separate supplied faculty, cannot currently be transferred by its former giver, was not present during development, has no established family recurrence, and has not been reproduced through qualified instruction.”
 
-The smaller one descended a power cable, crossed beneath the workbench, and began to climb the smartglass frame. Fine pads gripped the vertical metal. At each seam it tested, released, and chose again. It passed the muted assembler, the warm line of the waste conduit, and the reflection of Aumelor's low segmented body without turning back.
+Pelmara breathed through her teeth. “Shorter.”
 
-At the window it anchored along a narrow mullion. Rain trembled on the other side. The vane wings opened.
+Zorevi looked at the worker’s hands, at the chipped flange, at the basin gone cloudy with clay dust. Not inherited. Not given. Not studied. Grown, though no one had meant to grow it.
 
-Magenta from a flooded advertisement entered the left vane. Arcology green entered the right. Optical film divided both colors exactly as it had been manufactured to do.
+“Cultivated,” she said.
 
-Then the new being changed the angle of one rib, and light came free of the glass.
+Ishket’s eyebrows drew together. “That is a provisional description, not a mechanism.”
 
-Cool strands crossed the air between the vanes. They held where no surface waited, weaving themselves into a fine interference lace. Violet threaded through cyan. A delivery drone eclipsed the advertisement, and the pattern bent around the arriving darkness instead of vanishing. Each change in the city's electrical hum drew a new geometry through the suspended color.
+“Yes.” Zorevi wrote the word in the empty field. The nib caught once in the paper. “For this license, for this observed faculty. It establishes no general cause beyond the history we have.”
 
-The salvage scraps did not flare. No extra heat reached Aumelor's carapace. Their own faculty remained contained in them.
+Uvena nodded toward Pelmara. “Ask the worker what she can safely do.”
 
-They had never made light stand free. They had nothing like this to transfer.
+Pelmara looked surprised by the question, which shamed Zorevi more than the locked fingers had.
 
-Ione rose without approaching the glass. Colored lattice crossed her face and broke over Aumelor's facets.
+“Find strain in fired pipe,” she said after a moment. “Maybe tile. Don’t write tile. I haven’t tried tile. I can tell where a coupling wants to open under its own load. Moving it...” She rubbed warmth back into her knuckles. “One. Then these need to unlock. Properly, not halfway.”
 
-"Not Study," Aumelor said.
+“One redistribution followed by witnessed recovery before any further use,” Zorevi said. “Diagnosis permitted without alteration, subject to cessation at stiffness or loss of motion. Fired ceramic pipe and couplings only. Ten-day provisional term, with every use recorded by the job holder and submitted for reassessment.”
 
-"No."
+“Who counts as witness?” Pelmara asked.
 
-"Not Inheritance. Not Gift."
+“A licensed site keeper, guild mender, or source assessor.”
 
-The new being folded one vane. The lace gathered, cooled from violet to a blue no advertisement outside contained, and opened again in a different shape.
+“The cistern keeper can sign. He’ll complain first.”
 
-"Making," Ione said. "The fourth House."
+“Complaining does not invalidate a signature.”
 
-At the glass, the new being spread both vanes wide. Blue lattice branched into a shape neither maker had seen.
+For the first time that morning, Pelmara smiled. It vanished when she tried to close her right hand.
+
+Ishket did not smile. “I will record that Studied insurance does not attach. My safety objection remains.”
+
+“Record it,” Zorevi said. “The license is limited because it remains.”
+
+Beral signed the withdrawal section and moved the pen toward Pelmara, then paused when he saw her hand. He set it down instead. She made her mark with both hands around the shaft. He did not offer renewal again.
+
+By the time Zorevi pressed the municipal seal into ink, the wall clock showed eleven twenty-three. Nothing answered the pressure of the seal except paper. In the house field, *Cultivated* feathered into the linen along the final downstroke. The form still printed only three choices; she had written the fourth by hand.
+
+Ishket packed the frame readings. Uvena wrapped the coupling so the chipped flange stayed visible. Beral left carrying his coat over one arm, warmth still high in his face.
+
+Pelmara tried to lift her tool crate and failed to get her fingers through the handle.
+
+Zorevi picked it up. “This does not authorize you to redistribute stress at the west stack today.”
+
+“Wasn’t planning to.”
+
+“Or diagnose while the stiffness persists.”
+
+“The keeper can drain the line while these rest. Then I measure the seats. If my hands open, diagnosis. If they don’t, eyes and tapping.” Pelmara shouldered open the source-room door. It caught on the damp floor, and she kicked the lower corner without looking. “Then I replace the failed run the ordinary way, if he stocked the right diameter for once. Not that stair. South passage.”
+
+“The west stair is shorter.”
+
+“And has three turns. Crate clips the second rail.”
+
+Zorevi shifted the weight against her hip and followed her south. Behind them, the blank space on the next form remained blank. Ahead, there was a cistern, a complaining keeper, and one worker who could tell where fired clay wanted to break but would mend it today with wedges, cord, and hands still learning how far they could close.

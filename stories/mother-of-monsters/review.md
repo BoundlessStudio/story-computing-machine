@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Rennic | new | Human vanguard captain; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| Iskava | new | Cursed human protector, also called `the Mother` and `the Mother of Monsters`; those contextual propaganda aliases remain distinct from the established `Mother-fragment` and have no other confusing reuse. |
+| Chask | new | Human sapper officer and focal character, ranked lieutenant; no exact, alias, close-spelling, or confusing reuse found. |
+| Halwen | new | Cursed sanctuary organizer and refugee protector, also called `Mother of Monsters`; the title and identity remain distinct from canon `Mother-fragment`, while nearby `Halwick` and `Halvek` forms are readily distinguishable. |
+| Kritt | new | Goblin logistics organizer who openly disputes Halwen's load decisions; no exact, alias, close-spelling, or confusing reuse found. |
+| Nacre | new | Dark-crawled refugee who communicates immediate hazards through taps and shuttered light; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Roofless House | new | Ruined sanctuary and local channel for Iskava's threshold magic, also shortened to `the House`; the alias is context-bound, with no exact, close-spelling, or confusing reuse found. |
+| None | none | The kingdom, sanctuary, causeway, chainhouse, crawlway, culvert, ravine, and switchback are unnamed local places or features. |
 
 ## Continuity
 
@@ -28,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The assault's military reading fails through witnessed choices and material evidence; the bounded refuge crossings, divided file, collapsed breach, and renewed siege remain causally consistent without acquitting every refugee or converting the army.
+- Notes: The amended prompt's siege discovery resolves through refugees who dissent, refuse loads, tend injuries, hold a rearguard, and choose split escape routes while Halwen supplies costly practical protection rather than command. The breach, fire, damaged culvert, failed roof ribs, relocated charge, destroyed counterweight mechanism, evacuation, and severed approach form a coherent causal chain; Chask's decision and final account remain bounded engineering choices that delay pursuit without conversion or truce. Halwen's local voiced-breath curse stays limited to rasp, vibration, and clicks, damages voice and balance, stops in silence, and neither translates nor alters will. Dialogue and signals remain context-bound and speaker-specific: the captain repeats objective and timetable, Chask tests load paths, Halwen spends speech on boundaries and routes, Kritt argues counts and loads, and Nacre marks immediate hazards; the decisive relocation dispute and final engineering account change action and consequence without a thematic coda.

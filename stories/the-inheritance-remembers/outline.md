@@ -2,42 +2,47 @@
 
 ## Story
 
-- Proposed reader-facing title: *The Counted Road*.
-- Premise and central promise: Ruen Farrow is the seventh consecutive living son of Merrick Farrow, himself a seventh son. The family preserved the count, a seven-stone funeral road, and warnings never to let a double-seventh leave his place, without remembering why. When Merrick dies, the six elder brothers' lasting injuries and illnesses settle into Ruen. Reveal the design, then resolve whether they complete the burial that would make him their lifelong bearer.
-- Focal attachment, want, and contradiction: Ruen rejects being the family's omen or spare piece. He wants to bury Merrick without vindicating lore that shaped marriages and births. After activation he must leave the road, but the damage makes him dependent on the brothers whose restored health requires his sacrifice.
-- Counterforce or complication: The binding, custom, and eldest brother Bareth supply pressure. Bareth's crushed knee straightens after years; keeping it would let him support his household. He believes Merrick arranged seven sons to preserve the six. He must decide whether that intention licenses carrying Ruen to the final stone.
-- POV and information limit: Close first-person past through adult Ruen, grounded in displaced pain, changed balance, the bier rope, and a half-remembered rhyme. He knows prohibitions but not origin or Merrick's motives. Observation and speech reveal his brothers' changes; no ancestral voice, recovered memory, or authoritative document explains them.
-- Governing movement and time shape: One day from Merrick's predawn death through an afternoon procession across open pasture. The brothers pass six stones while identifying what moved into Ruen. At the final bend, the track climbs to Whinbarrow; stepping off before the seventh marker can unwind the binding. The decisive action is that lateral step, not public proof or institutional change.
-- Operative speculative constraint: A seventh consecutive living son must be born to a man who met the same condition; a daughter interrupts either count, and all six elder sons must live at the seventh's birth. The father's death activates the curse. Passing the seventh marker and lowering him at Whinbarrow makes the bodily transfer permanent and diverts the six brothers' later serious harm into the seventh. If the bearer leaves the route first, the harms return and this death cannot reactivate it. Stones, rope, and bier focus living magic but never act.
-- Speculative surplus: Food within the bier ropes rapidly cools and fresh milk turns sharp while the binding is open; this cannot predict or control it.
-- Dialogue pressure: Ruen needs Bareth to reject Merrick's intention as consent; Bareth needs Ruen to finish because mobility protects his household. Bareth argues through work and funeral duty while withholding prior suspicion. Ruen cites their bodies while hiding that he cannot leave unaided. Hesk speaks through concrete tests and immediate risks.
+- Premise and central promise: The Talwins inherit a black threshold spike and a warning to count departures, but not the consequence. When their empty family house is demolished, line painter Elsidra Talwin sees hooked marks appear from her rig as relatives' devices count down and routes to courier Caelumar vanish. Reveal that the curse is subtracting the last Talwin to leave from every inherited way home, then recover him before zero.
+- Focal pressure or attachment: Elsidra needs to finish a rain-threatened detour and dismisses the family warning, although she taught Caelumar to navigate by paint, reflectors, and road feel. Caelumar wants to finish his first solo route. Elsidra must trust his choices while making a route the curse cannot inherit.
+- Counterforce or complication: Each decrement blanks a street name, saved pin, familiar turn, or photograph's navigable context. Family names and destinations drop from speech and text while work talk survives. Rovandis insists on a routing fault; Vaudessa remembers ritual but minimizes danger; Caelumar cannot distinguish help from the road's pull.
+- POV, distance, and information limit: Close third-person past through Elsidra, noticing wet aggregate, paint pressure, reflector color, and steering-wheel vibration. No translated curse or other mind explains events. Failing tools, partial calls, Caelumar's light signals, and live tests reveal the rule.
+- Governing movement and time shape: One evening contracts from demolition and shift work into failed searches, then a convoy on Nine-Larch Road. The count falls when cues fail, not by minutes. At a dark verge, three relatives sustain a visual-audio-tactile route and Caelumar chooses to cross. End after his return, the spike's break, and practical cleanup.
+- Speculative rule or ordinary-world constraint: Living Talwins supply the active force; nonliving spikes, screens, paint rigs, and vehicles only transmit it. Removing the threshold starts one attempt against the last relative to cross it. The curse can erase only preexisting family routes and cues; at zero its target remains a person but becomes unreachable. A route made and answered by several living relatives after activation lies outside its count. Origin and prior targets remain unknown.
+
+## Voice
+
+- Narrative texture: Move by surfaces, intervals, and orientation. Let road work become impossible pattern through concrete failures, not system summary.
+- Conversational texture: Mix clipped crew logistics, unfinished family corrections, food and fuel questions, missing nouns, simple confirmations, and misheard fragments.
+- Rhetorical ownership: Elsidra tests alignment and materials; Rovandis cites schedules and faults; Vaudessa recalls household sequences; Caelumar reports courier landmarks and status.
+- Pressure behavior: Elsidra grows quiet and marks choices; Rovandis repeats procedure, then listens; Vaudessa counts by touch; Caelumar shifts from explanation to lights and brakes. Secondary workers stay practical or impatient.
+- Anti-default: Avoid a shared lyrical register, authoritative elder, polished curse voice, or explanatory final exchange. Let coordinated action establish the rule.
 
 ## Beats
 
-1. Merrick dies with all sons present. Ruen takes crushed-knee pain, damaged-hand stiffness, fever, deafness, and other distinct afflictions as their owners recover. “Six rise, seventh bears” becomes literal, but its duration remains unknown.
-2. Funeral duty puts them on the traditional road. Ruen walks seventh; newly able Bareth treats completion as Merrick's arrangement. Hesk compares symptoms with the brothers' histories without claiming that a match proves justice or origin.
-3. At successive markers, Ruen manages incompatible impairments, the six test restored movement, and provisions spoil. The four unnamed middle brothers divide over whether this is inheritance, theft, or temporary danger; keep each choice active without separate confessions.
-4. A stumble pulls Ruen beyond the rope. Bareth's knee buckles and Ruen's clears; hauling him back reverses both. The result and full rhyme reveal that the road seals the transfer rather than curing Ruen.
-5. Before the seventh marker, Ruen refuses to climb but cannot leave alone. Bareth argues that six functioning bodies sustain more lives than one. Hesk lowers his handle to support Ruen; each brother chooses what help or obstruction he will personally supply.
-6. Bareth can force completion but stops short of carrying Ruen. Ruen and Hesk cross the turf; the harms return. The procession cannot restart for Merrick's death. The brothers take a lower route and redistribute the coffin around restored limitations. Begin the burial without reconciliation; Ruen survives, and the family finally knows the curse's design.
+1. At the former family house, a demolition worker finds the grooved black spike beneath the threshold. Vaudessa objects without explaining; road-crew questions about rain and curing time cut across her. Caelumar leaves last on his delivery bike.
+2. Elsidra's paint counter descends despite a full tank and the rig lays a hooked mark. Rovandis's parcel scanner loses an address, Vaudessa's phone vibrates the old count, and all place nouns vanish from Caelumar's call. Elsidra initially keeps working.
+3. As the count drops, Elsidra loses Caelumar's usual river turn and Rovandis cannot place him in a familiar photograph though he knows his son. Vaudessa admits the family always counted departures. They recognize a loss of access, not personhood.
+4. Separate pursuit fails: signs blank, maps loop, and remembered roads become strange. Practical dispatch and crew voices expose the selective failure. Every lost inherited cue lowers the count.
+5. Elsidra paints a fresh dash on an unmarked service lane. Caelumar sees it and answers with his bike lamp; the count holds. Rovandis adds horn intervals and Vaudessa supplies direction by feeling the spike's grooves, creating one route from partial channels.
+6. Nine-Larch Road strips the last saved cues amid rain, traffic, and fading batteries. Rovandis must resist racing ahead. Caelumar refuses false turns and crosses only when paint, sound, tactile timing, and his brake-light answer align.
+7. Caelumar reaches the new line before zero. The spike splits and ordinary recognition returns. Close on checking him, securing wet paint, answering the crew, and one practical arrival signal rather than a spoken explanation.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Ruen Farrow / Ruen | new | Focal seventh son and activated bearer; no exact or confusing prior form found. |
-| Bareth Farrow / Bareth | new | Eldest brother and advocate for completing the rite; no prior form found. |
-| Hesk Farrow / Hesk | new | Sixth brother and Ruen's practical ally; no prior form found. |
-| Merrick Farrow / Merrick | new | Deceased seventh-son father whose death activates the curse; no prior form found. |
-| Farrow family / the Farrows | new | Story-local bloodline; no prior family-name use found. |
+| Elsidra Talwin | new | Line painter, focal character, and Caelumar's aunt. |
+| Rovandis Talwin | new | Parcel driver, Elsidra's brother, and Caelumar's father. |
+| Vaudessa Talwin | new | Keeper of the spike and partial ritual memory. |
+| Caelumar Talwin | new | Young courier and active target who chooses the return. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Whinbarrow | new | Ancestral hill burial mound at the road's end; no prior form found. |
+| Nine-Larch Road | new | Rural road where the inherited routes collapse and the family makes a new one. |
 
 ## Continuity
 
-- Canon used: An independent, undated folkloric-era entry in the deep-time world. Incomplete lore surrounds a local system. Living Farrows supply agency; funeral objects only focus it.
-- Boundaries and unknowns: The Farrows, Whinbarrow, count, transfer, and unbinding are new and local. They establish no universal bloodline law, numerical power, healing cost, curse taxonomy, or connection to House Bellweather or another seven-part system. Creator and original purpose remain unknown; the story resolves this activation.
+- Canon used: Local systems called magic may exist; only life uses magic, while objects may transmit living power. Partial memory does not nullify identity or choice.
+- Boundaries and unknowns: The modern-like town is unnamed. This local Talwin curse establishes no universal bloodline, road, device, or memory rule. It blocks retrieval paths rather than making Caelumar unreal. Its maker, age, prior activations, and connections remain unknown.

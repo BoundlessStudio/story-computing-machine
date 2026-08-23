@@ -8,376 +8,258 @@ canon: false
 
 # The Door Knows Home
 
-Dessa had asked everyone to keep their hands off the frame. Sikra kept one palm on the oak anyway.
+The door arrived with four people pushing it and none of them steering.
 
-“Until I remove the test bridge,” Dessa said, “your pulse is part of my reading.”
+Its temporary oak frame shuddered over the workshop threshold. One caster caught in the brass strip and the brother put his shoulder into the stile while the eldest sister, who had introduced herself only as the executor, kept saying, “Watch the veneer. It has to be collected at five.” The other two siblings carried document boxes against their chests. A loose lever on the door trembled with every jolt but did not return to level.
 
-“Then read it.” Sikra’s thumb worried a pale dent in the wood. “I have held this door through three roof leaks, two funerals, and Lutik trying to move it alone. It has had enough time without us.”
+The apprentice caught the frame before it struck the key-cutting bench.
 
-Dessa waited while four relatives watched the last minute of her first repair without her master beside her. At length Sikra released the stile.
+“Brake the back wheels. Both of them, please.”
 
-The frame stood on its broad traveling feet where a dining table had once been. Pale islands marked removed pictures; chalk numbers marked cupboards promised to one relative or another. Dessa had weighted the frame against a sand-filled tool chest. A braided catch strap ran from the near handle to the chest, a shallow copper pan waited below the sill, and a service treadle under the lower hinge could lift the leaf a coin’s thickness for alignment. The hinge stile stood plumb. Dessa had measured it six times.
+“The appraiser’s driver won’t wait,” the executor said. “And the house completes tomorrow. We need a working certificate, an inventory category, and a decision about whether this goes with the property.”
 
-She lifted the test bridge from the brass edge cover. A silver-copper rail descended from the key housing, crossed her scarfed repair at knee height, and vanished under the sill. Yesterday it had been split, and the weather-swollen latch had struck high and skated. Now the splice lay flat beneath her thumbnail, the tongue drew on four ounces, and every nonliving part was exactly as awake as metal could be: not at all.
+“First I need it not to roll over my foot.”
 
-She replaced the cover and tightened its last screw.
+The brother found the second brake with his boot. “Load’s high on this side. Whoever mounted it put the brace too near the hinge.”
 
-“All four of you are testing?” she asked.
+He was right. The old black door, narrow and tall, had been bolted into the test frame with its iron hold-open brace folded along the wrong edge. The brass furniture had gone soft-colored where hands had polished it and green where they had not. Around the keyhole, a ring of scratches showed the impatience of years. This would be the apprentice’s first repair entered under their own bench number. If it passed the master’s later inspection, they could begin certifying traveling fittings without a second signature. If it failed in front of an estate appraiser, the number would still be theirs.
 
-“All four,” Sikra said.
+“Your mother was the last regular user?” they asked.
 
-They were all grown relatives, and none looked pleased to have Sikra answer for them. Lutik, her younger brother, kept consulting a river watch whose face was scratched white. Mevia, their niece, had bakery flour at her elbow and a folded note protruding from her cuff. Sikra’s adult son Jorren stood nearest the street windows, turning a plain ring around one finger.
+“The owner,” said the executor. “She opened it. It went to the pantry at the house. We all know where it goes.”
 
-Sikra produced the old key. Dessa stopped her before she could insert it.
+“Did anyone else cross with it?”
 
-“One hand on the bow. Your living current crosses the repair when you turn. The rail stores and shapes what you supply long enough to hold a route. The latch seats it. I can certify the current path, hinge load, and catch. I cannot set the far threshold by promising you an address.”
+“We didn’t need to,” the middle sister said. Her phone vibrated inside her coat. She pressed it silent, then shifted the box to her other hip. “She brought things through. We carried them on from there.”
 
-“The address is under our feet,” Sikra said. “The deed was divided yesterday. The rooms still have to be cleared, the chimney capped, and the north slates done before frost. This repair brings the others back to do their share.”
+The youngest set down a flat box marked PRINTS. “Lever stopped coming back.”
 
-Lutik studied his watch.
+That much, at least, was not disputed.
 
-Dessa needed a signed completion line and the rest of her fee, but she could not promise an output she had no mechanism to choose. “The selector is the place the user sincerely recognizes, carried in the living current. The door contributes no judgment. Keep skin on the key until the leaf clears.”
+The apprentice laid clean baize beneath the rim case and backed out its screws. The case came free with a tacky pull. Inside, the return spring lay snapped at the eye. Brass filings had gathered beneath the floating fence, and the square spindle could be rocked far enough to show daylight between its collar and bearing.
 
-Sikra set her jaw and turned.
+The home cam was the only part not ruined by ordinary use. It sat behind the fence like a small, eccentric moon, its edge scored by a deep circular track and dozens of fainter rubs. A witness pin passed through the case above it. When a living hand set a route, the cam should find the fence, draw the pin flush, and release the traveling bolt for its full throw. When nothing living asked to cross, it was only an oddly balanced piece of brass.
 
-The key met the rebuilt latch cleanly. A warm pulse crossed the edge cover beneath Dessa’s fingertips—Sikra’s current, not the frame’s. The scarf held. The tongue withdrew without dragging. Sikra pulled the door open.
+“Can you replace the wheel?” the executor asked. “That groove looks damaged.”
 
-Nothing on the far side changed.
+“If I replace the cam, I replace the evidence that tells me how the fault developed.” The apprentice turned it under the lamp. “The spring failed. The burr here could keep the fence from seating. This play in the spindle lets the lever steal movement from the bolt. I can correct those without cutting away the wear.”
 
-The catch strap remained slack. The room’s still air smelled of cold soot, floor wax, and apples once stored in the passage. Through the opening stood the same three relatives, numbered cupboards, and rectangle of afternoon. Sikra’s hem brushed a crumb of gray hearth mortar across the sill into the copper pan. No weather followed it; the pressure at Dessa’s cheeks stayed balanced.
+“Will it open to the house?”
 
-Sikra walked around the leaf, then through the open frame. Her shoes never left the front room.
+“If those are the faults, it should open wherever it was already capable of opening.”
 
-“You have repaired a door into being a door,” she said.
+The executor looked at the wall clock. “You have two hours and fourteen minutes.”
 
-Stored current hummed under Dessa’s smallest finger, enough to show a held path. She painted blue fitting chalk on the latch tongue, asked Sikra to shut the leaf, and heard it enter the keeper on full face. When Sikra returned the key to rest, the warmth drained.
+The brother had already unfolded the hold-open brace. “Pin’s bent.”
 
-“Again,” Sikra said.
+“Not bent. Installed backward.” The apprentice passed him a screwdriver. “Turn the foot, not the arm. If the arm twists, it won’t carry the door.”
 
-“Not with the same load.” Dessa slid a paper gauge behind the lower hinge. It came out unpinched. “I need a second user before I disturb a centered strike.”
+For the next forty minutes, the workshop narrowed to metal. The apprentice fitted and tensioned a new spring, taking care that its first coil cleared the old wear track. They stoned the burr from the floating fence until a fingernail no longer caught. A phosphor-bronze shim closed the spindle play without binding it. They cleaned the filings with a hog-bristle brush, not solvent, and left the polished hollows where fingers and mechanisms had spent years touching the same places.
 
-“You need to make it travel.”
+The siblings sorted boxes behind them in bursts of paper and tape.
 
-“I need to learn whether it failed to travel.”
+“Kitchen lot is a quarter share only after valuation,” the executor said.
 
-Lutik was already coming forward. “Use me before the lower lock opens. If I miss the mail run, you can test the thing on my empty chair.”
+“That crate isn’t kitchen,” the brother answered. “Pump spares. They were in the scullery because the shed roof leaked.”
 
-Sikra held on to the key. “You said you had until dusk.”
+“Then take the spares out before I seal it.”
 
-“I said the boat had until dusk. Wind’s turned east. We take the bend while the water gives it.”
+The middle sister’s phone vibrated again. “I said I’d check. Top freezer drawer, behind the peas. No, the other peas.” She listened while peeling an old label from a box. “Put the pan on the cold ring. I’ll be there before six.”
 
-“That boat changes its address twice a day.”
+The youngest said nothing. They separated a stack of framed prints from the executor’s papers and slid sheets of tissue between the corners.
 
-“Then it should be hard to find.” He opened his hand for the key.
+Once the case was closed, the apprentice mounted a deadwood turning jig on the lever. The weighted artificial hand pulled the brass down. The latch cleared, the deadbolt traveled eleven millimetres, and the return spring lifted the lever cleanly. Beyond the opening remained the workshop wall, close enough for the door’s edge to nearly brush it.
 
-Sikra surrendered it with the air of adding another item to his account.
+“It hasn’t gone anywhere,” the executor said.
 
-Lutik hooked one boot behind the frame’s foot. Dessa told him to move it. He obeyed, muttering about furniture without sea legs, and put his thumb to the bow.
+“The jig proves the repaired motion. It doesn’t provide a living user.” The apprentice removed it. “Now we test one person at a time. Bare hand on the brass. Don’t name a destination. Don’t tell each other what to remember. Turn only when you mean to walk through, and keep the door on the brace until you’ve come back.”
 
-The current that entered the rail was sharper than Sikra’s, quick enough that Dessa felt it cross the repaired scarf in one bright prickle. The latch withdrew. Lutik pulled.
+They weighed a canvas-bound brass block, stamped it with the work order number, and put it beside the frame. Each user would carry it across, set it beyond the sill, and bring it back. The apprentice knew what the home cam required from its construction and what it could not possibly measure. There was no element in the case for affection, deservingness, or legal title. Its usable input was narrower: bare contact from the primary living user, intention to cross, and an active, practiced recognition of a safe dwelling threshold as a place of return.
 
-The pressure nearly took the door out of the house.
+“Why bare?” the brother asked.
 
-The catch strap cracked straight and dragged the sand chest half an inch. Wet cold punched through the opening. Beyond the sill lay a boat cabin no wider than two outstretched arms, pitching under a low ceiling. A shaded lamp swung above mail sacks webbed to one wall. On the other, a tin cup crawled across a ledged table, paused as the deck changed angle, and began crawling back.
+“Because this fitting samples at the furniture. If leather is between skin and brass, I can’t tell a blocked contact from a bad route.”
 
-Lutik leaned through and caught it before it fell. “Upper bend already,” he said. “They’re running light.”
+The executor pulled off one packing glove and kept the other on. “I’ll go first. The survey folder is still in the pantry. We need it for the appraiser.”
 
-Rain ticked somewhere above the cabin. A gust found an open ventilator and sucked warm room air past Dessa’s ears toward the boat. The scent was river mud, wet wool, lamp fuel, and the bitter tar used on rope. Three rain drops struck the sill-pan. With them came a black reed seed and a curl of red paint thin as onion skin.
+She hooked the test weight in her covered left hand and took the lever in her bare right. The apprentice watched the witness pin rather than her face. The pin sank until its round top lay flush with the case. The bolt completed its throw. A bright, square band appeared through the inspection slot where the cam met the fence.
 
-Dessa clipped a second cord to the frame. The cabin rolled and its far sill dipped, but the joined edges showed no flicker or shear.
+The executor opened the door.
 
-“I need the far strike,” she said.
+The workshop wall vanished from the frame. In its place stood a narrow pantry lined with pale shelves. Half the shelves were empty; rectangles of unfaded paint showed where tins and jars had been. Afternoon light came from a kitchen beyond. A roll of survey flags leaned in the corner beside a crate stencilled for removal.
 
-Lutik put the cup into a rack. “One boot. Keep your shoulder off the chart shelf. It throws anything loose when we cross the shoal.”
+“The house,” the executor said, already stepping across. “Hold that brace.”
 
-“Permission for one boot and one gauge?”
+The brother put his boot on its foot. She crossed, set down the test weight, opened a cupboard beneath the lowest shelf, and returned with the weight in one hand and a blue folder tucked under her arm. Only when both her feet were back on the workshop boards did the apprentice release the brace. The door closed. The bolt withdrew, and the witness pin rose the width of a thumbnail: reset.
 
-“If you can finish before the third bell.”
+The executor wrote FOUND across one line of her contents schedule. “There. Certify it.”
 
-Dessa stepped her right foot over. The cabin deck climbed against her sole while the inherited floor stayed level under her left. Her stomach objected, but her hands kept their training. She braced on the local hinge stile, never the moving shelf, and laid a thin leaf gauge against the iron keeper in the cabin jamb. The blue chalk from her latch had transferred in one centered rectangle. Full depth. No scraped top edge, no skip, no sign that the route had landed and then drifted.
+“That certifies one set.” The apprentice measured the bolt throw with a leaf gauge. Eleven millimetres. “The next user needs the same result.”
 
-“Done.” She retreated into the front room.
+The brother wiped his palm on his trousers and took the test weight. “I need the long socket from my cabin. Sixteen millimetre. We can get two jobs done.”
 
-Sikra had come near enough for the wind to lift the black ribbon stitched at her cuff. She looked past Lutik at the rolled blanket, the spare boots wedged beneath the bunk, and a row of route cards nailed above it.
+“No destination name,” the apprentice reminded him.
 
-“That is company property,” she said.
+“I heard you.” He grasped the lever as if it were a grab rail on a wet deck, pulled it down, and shoved before the apprentice could tell him to use steady pressure.
 
-“Company can try sleeping in it on ice night.” Lutik checked a knot on one mail web rather than looking at her. “Shut us off, locksmith. That draft will push us broadside at the quay.”
+The pin struck flush. The bolt threw fully.
 
-“Your hand closes it,” Dessa said. “Keep control of the leaf.”
+When the door swung open, cold white light fell across the baize. A cramped cabin tilted very slightly beyond the frame, though the workshop floor did not. Tools hung in webbing above a built-in bunk. Through a small round window, steel props and the algae-streaked underside of a canal barge rested in dry dock.
 
-He pulled. The strap softened as the pressure vanished. The latch seated against the far keeper with a heavy marine clack. Lutik turned the key to rest. When he opened the door without a living recognition turn, it gave only the stripped room behind it.
+The brother stared once, then reached for the hold-open brace himself. “Towpath side. Keep your weight there. The dock blocks are sound, but she’s light with the tanks empty.”
 
-“One stable moving route,” Dessa said, more to her notes than the family.
+“That is not the house,” the executor said.
 
-“One wrong route,” Sikra corrected.
+“No.” He stepped into the cabin, set the weight under the bunk, shouldered past an oilskin, and called back, “Socket rail’s shifted. Did anyone move a red case when we cleared Mum’s shed?”
 
-Lutik retrieved his watch. “Wrong boat will still leave on time.”
+“Nothing red was on my list,” the executor said.
 
-He did not leave. He sat where he could watch the light over the riverward roofs.
+“Useful.” A drawer slammed. He returned with the weight looped over one wrist, a long socket in one hand, and a rag in the other. “Don’t close yet. My heel.”
 
-She drained the stored warmth through the service bridge, reset the strap, renewed the fitting chalk, and measured both diagonals. They matched. Under her lens, the scarf edges had not feathered and the old selector notches remained untouched.
+The apprentice held the door until his boot cleared the sill, then let it shut. Again the pin rose on reset. Again the gauge read eleven millimetres. The contact band was square, with no bright edge to suggest a false seating.
 
-There was no repair fault to chase. That did not stop her wanting one.
+“It drifted,” the executor said.
 
-“Rotate the frame,” Sikra said. “It may be favoring the river.”
+“A drift would leave the pin proud or shorten the throw.” The apprentice recorded both measurements. “It made a second sound set.”
 
-“A route does not acquire a compass direction from this room.”
+“To a boat on blocks,” the middle sister said.
 
-“You said you were an apprentice.”
+“Dry dock,” her brother said. “Still connected to power, water, and the east access. She goes back in after the hull plates.”
 
-“I said direction is not one of the loads I can adjust.” Dessa heard the defense in her own voice and disliked it. She set the lens down. “But I’ll re-level before the next test.”
+“I didn’t ask for the maintenance plan.”
 
-Mevia put out a flour-marked palm. “Before the next test, my terms.”
+“You said it was on blocks.”
 
-Sikra still held the key ring. “We are standing in your grandmother’s house.”
+Her phone rang this time. She answered with a clipped “What now?” and turned away. “Then move the recycling bag. I can’t get through the kitchen doorway if you leave it there. Yes, now. Put it by the table. The pan is already off.”
 
-“And if it opens where I expect, we will be looking into the rooms my wife and I rent. She agreed to a test at half past, not a family inspection.” Mevia pointed to a black screwhead at the sill. “You three stay behind that. I handle the leaf. No one follows, comments on what we own, or delays when she asks me to close it.”
+The apprentice looked up from the gauge. “Was the doorway blocked?”
 
-“Then tell yourself to come here,” Sikra said.
+“A bag and a grocery trolley. Probably.” She closed her eyes briefly. “Clear now.”
 
-“I have spent all afternoon coming here.”
+“Try with the glove first.”
 
-Dessa raised a hand. “No prompting. If the user performs for an expected result, I cannot separate the route from the performance.”
+She still wore thin driving gloves. With her fingers covered, she pressed the lever down. The ordinary latch moved, but the traveling bolt stopped after three millimetres. The witness pin did not stir.
 
-“Good,” Mevia said. “No questions either.”
+“No contact,” the apprentice said. “Take it off.”
 
-She took the key and tucked the slipping note deeper into her cuff. Her current built more slowly than Lutik’s, then crossed the scarf in a steady pressure. The door stored what she gave it and supplied nothing of its own.
+The bare-hand attempt began with a faint scrape behind the case. The cam moved, stopped, then found the fence. Pin flush. Full throw.
 
-The latch cleared. Mevia opened the leaf only shoulder-wide.
+The apartment kitchen beyond was bright with under-cabinet lamps. A grocery trolley stood folded beside a small table, safely clear of the threshold. The middle sister lifted the test weight. Someone out of sight asked, “Are you coming home now?”
 
-Warm air rose through the gap, smelling of browned butter, yeast, orange rind, and scorched sugar. Beyond it, a narrow sitting room leaned under rafters. Two work aprons hung from one chair; spectacles rested on an open rent ledger beside a green teapot. Behind a half curtain, trays clattered in the bakery below.
+“After the collection.” The middle sister crossed without looking back at the workshop and set the weight beside the clear wall. “Lunch card’s in the front pocket of my bag. Not that bag. School bag.” A cupboard opened. “I’m taking the address labels.”
 
-A woman in rolled shirtsleeves looked up from fastening a loose shutter hook. “You said one face in the doorway.”
+“We need them,” the executor called.
 
-“I expected one.” Mevia shifted until her body covered most of the view. “They stay on their side. Did the short screws hold?”
+“That’s why.”
 
-“The bottom one did. Top pulled out again.”
+She returned with the weight hanging from one hand, a roll of labels over her wrist, and a freezer pack wrapped in a tea towel. “This goes in the food box before it warms.” She stepped clear, shut the door herself, and put the pack into the carton at once.
 
-“We’ll move the bracket into the beam after supper.” Mevia reached through, took the shutter from her wife before it banged, and hooked it lower. “Our landlord can complain about the holes after he fixes the landing rail.”
+Eleven millimetres. Flush pin. Square contact.
 
-Her wife saw the relatives over Mevia’s shoulder. Her attention stopped at Sikra, then moved to the open leaf bowing the paper patterns pinned beside the window.
+The youngest had been standing beside the flat box, peeling dried adhesive from one thumb. When the apprentice turned toward them, the executor said, “Think of the pantry. The blue tiles, the flour bin, the back step. You remember the back step.”
 
-“Close it before the proofing cloth dries,” she said.
+“No prompting,” said the apprentice.
 
-“One latch check.” Mevia looked back at Dessa. “From there.”
+“We’re trying to reproduce the first result.”
 
-Dessa knelt at the black screwhead and did not cross it. The far jamb was painted green over older cream. As Mevia drew the door nearly shut, the latch tongue met a brass keeper polished by use. Its contact sounded light after the boat iron, but it landed square. Mevia opened again for Dessa’s nod.
+“Then reproduce the conditions. One user, no named target, intention to cross.”
 
-A puff from below lifted flour from the far floorboards. It came over the sill in a pale veil with one poppy seed and a thread of orange peel. The sill-pan caught all three.
+The youngest put a hand on the lever. The executor laid two fingers over their knuckles. Inside the case, the cam began to chatter. The witness pin bobbed without sinking, and the bolt pawl clicked against its stop.
 
-Mevia stepped back into the inherited room. Her wife had already turned again to the shutter. Mevia closed the door and returned the key to rest.
+The apprentice lifted both their hands from the brass. “Competing contact. It can’t establish a primary user.”
 
-Sikra looked at the flour in the pan. “You renewed that lease?”
+“I was only steadying them,” the executor said.
 
-“We renewed it.” Mevia rubbed the folded note through her cuff, flattening it. “Both signatures. Another year.”
+“You were changing the input.”
 
-“You told me those rooms were until you found somewhere.”
+The youngest rubbed the pale marks their fingers had left. “The prints need glassine.”
 
-“We found shelves that fit our pans, a bedroom she can sleep in after the dawn bake, and a landlord we know how to chase. We are not moving the frame upstairs, and none of you arrives through it without our answer.”
+“There’s tissue in the box,” said the executor.
 
-“I paid the deposit on those rooms.”
+“Not for ink.”
 
-“And we have paid every month since.”
+“Where is the glassine?” the apprentice asked.
 
-Sikra’s face tightened, not with disbelief now but with a calculation that no longer added. She crossed to the cold hearth and picked a fallen square of wallpaper from the grate. “I kept your room here aired for two winters.”
+“Shop.”
 
-Mevia’s reply came after a beat. “Then help me box it, and stop keeping it ready.”
+“The studio?”
 
-Dessa bent over the mechanism.
+“Print shop. Loft above.” The youngest glanced at the three siblings, then at the lever. “Rented. Access runs to month-end.”
 
-“Can you cut out the variable?” Sikra asked her.
+The executor opened her mouth.
 
-“Which variable?”
+“One instruction,” the apprentice said. “When you are ready to cross, take the lever alone and keep even pressure until the pin finishes moving.”
 
-“The people. Set the rail to the deeded house.”
+The youngest picked up the test weight and waited through the click of the cooling kettle on the back bench. Then they closed a bare hand around the brass and pressed.
 
-Dessa laid her smallest file across her palm. Its teeth could erase a selector notch in six strokes. Fixing one address meant extracting the rail, discarding its old notches, and fitting a dead-route bar at both ends. If the scarf fractured, the family core became scrap.
+No chatter this time. The witness pin sank in one unbroken motion. The bolt reached eleven millimetres.
 
-“I can quote a fixed-route conversion after my master surveys the receiving wall,” she said. “That is a rebuild, not this repair. It removes user selection.”
+Warm light filled the frame. The receiving threshold was scarred wood, speckled with old ink. Beyond it, beneath rafters, stood a narrow bed screened from racks of drying paper by a canvas curtain. A hotplate and two washed cups occupied a bench beside a utility sink. Down a short flight of open stairs, the dark print shop showed rows of type cases and a press under its cover.
 
-“Would it bring them here?”
+The youngest crossed and put down the weight. They did not offer an account of the place. They went to a flat drawer, took out a handful of translucent sheets, checked their size against a metal rule, and came back with the weight before the executor could ask a second question.
 
-“It would bring any supplied current to the fixed far end, if the far end remained sound.”
+The pin, throw, and contact band all matched the other tests.
 
-“Do it.”
+“Four different openings,” the executor said. She had stopped looking at the clock. “That is not a successful repair.”
 
-“Not under this work order, and not by filing an intact core on the floor.”
+“Four different destinations,” the apprentice said. “The mechanism has given me four identical valid sets.”
 
-Sikra folded the wallpaper square once, then again. “Intact.”
+“It’s supposed to know the house.”
 
-“The split is carrying full current. The latch has seated on three keepers. I have no mechanical cause to destroy either.”
+The brother put the socket into his coat. “Mum’s door did.”
 
-“You have three different results.”
+“Every time,” said the middle sister.
 
-“I have one more user.” She wiped the latch tongue and laid on a fresh stripe of blue chalk.
+“Then we make it do that every time,” the executor said. She caught the brother by the sleeve and brought him back to the lever. “Say it. The pantry. Blue tiles. Flour bin.”
 
-Jorren uncrossed his arms. Throughout the other tests he had watched the destinations, not Dessa’s hands. “You’ll take mine as final?”
+“I know the room.”
 
-“I’ll take it as the fourth load. Then I certify what the mechanism did.”
+“Then open there.”
 
-Mevia moved between him and the key. “Is anyone expecting you?”
+He put his hand on the brass. The executor kept hold of his sleeve, not the lever, but his attention kept snagging on her instructions. The cam hunted audibly. Pin halfway. Bolt at six millimetres. When she reached to add her hand, the apprentice blocked her with the gauge.
 
-“My things are still there.”
+“Don’t force the pawl. You’ll raise another burr.”
 
-“That was not my question.”
+The brother let go. “Can’t route a load by reciting the quay either.”
 
-“My spouse told me I could collect them this week.”
+The apprentice did not answer. They opened the case again.
 
-“With notice?”
+This time they brushed a thin film of marking blue over the cam edge and asked each sibling for one neutral turn without opening the door. Bare hand. No help. Intent to cross, stopped at the hold-open brace. Between turns, closing pressure reset the cam.
 
-Jorren stopped turning the ring on his finger. “I do not need the family rehearsing my marriage.”
+Four fresh arcs cut through the blue at four angles. Each ended in a square patch where the fence had seated. The executor’s arc ran along one shoulder of the deep old groove. The failed prompted turn left a wavering trail between two positions and an edge smear where the cam had never met flat.
 
-Dessa should have stopped there. She knew the difference between permission to service a latch and the ability to reach it. But only the last current could close her diagnostic sequence, and neatness pulled at her like a badly set spring.
+The apprentice set the case under the magnifier. The old groove looked less like a notch there and more like what it was: thousands of passes over the same route. Its bottom was dark with age; its shoulders had been polished by repetition. It recorded how often the mother had used one position. Nothing in the inert brass could retain the user who had made it.
 
-“No crossing unless the far-side occupant admits you. If anyone tells you back, clear the sill and let them shut the leaf.”
+“If that deep track were a fixed address,” the apprentice said, choosing each conditional as carefully as a shim, “the other three sets would strike it or fail short. They don’t. If the new arcs were slips, their contact would be on an edge. It isn’t. The repair returns the fence, removes the burr, and gives full spindle travel. I can certify four usable sets and the blocked conditions we produced. I can’t rank the sets or assign property from them.”
 
-Jorren took the key from Mevia. “I heard you.”
+The executor examined the magnified track without touching it. “Can you certify the door as functional without naming where it goes?”
 
-Before Dessa could demand an agreement, he turned.
+“Yes. With operating restrictions.”
 
-His current struck the scarf with enough force to make the brass cover tick. It did not arrive muddy or false; metal gave Dessa no such judgments. It simply loaded the restored path, filled the rail, and held. Jorren drew the latch and pulled the door wide.
+“And it is removable personal property.”
 
-Evening rain crossed the sill in a silver slant.
+“That’s for your inventory.”
 
-The opening stood in a blue-tiled kitchen. A casement over the sink had been left open, and wind drove the herbal smell of wet rosemary through the room. An iron pan cooled on the stove. Damp soil ringed a cracked flowerpot on the table beside a tied stack of letters. The gust scattered two rosemary needles and a pellet of black soil into Dessa’s copper pan, then pressed the leaf hard against its catch strap.
+She pulled the blue folder from under her arm and found a contents form. “The sale of the house continues. The door comes off the fixtures schedule and goes on the estate chattels list, working condition subject to certificate. Net proceeds remain divided in four equal shares.”
 
-Jorren exhaled as if he had been holding the air since his arrival. “There.”
+“It was always four shares,” the middle sister said, sticking labels on the boxes in the order she had already arranged them. “Mine is kitchen and linens. His is tools. The flat one goes with the youngest. Yours is documents and silver. The lamp is still disputed.”
 
-A woman entered from the passage with a dish towel in one hand. She stopped before she reached the table.
+“The lamp is not holding up completion.”
 
-“Jorren. Back from the sill.”
+“It’s holding up my hall.”
 
-He set his boot on it. “You kept the kitchen the same.”
+The brother tested the brace foot. “If the driver takes the frame at five, move the boxes through now. Saves four deliveries.”
 
-“Boot back.”
+The executor checked the clock, the collection list, and the fee column. “One route at a time. Each person signs for what crosses.”
 
-“The route came here.” His grip tightened on the handle. “You said I could collect the press and my winter things.”
+The middle sister started labeling boxes while the brother and the executor resumed their argument about the lamp.
 
-“After I sent a time.”
+The apprentice fitted the case cover and stood beside the witness pin while the executor took her documents and silver through to the pantry. Before the second load, the bolt stopped short. On the other side she had left the first box squarely inside the receiving threshold. She moved it clear, tried again, and the pin sank flush. The apprentice added CLEAR RECEIVING THRESHOLD to the certificate.
 
-“This is a time.”
+The brother carried the tool crate into the barge cabin, complaining that its marked weight was wrong, and returned before the door closed. The middle sister took kitchen goods into her apartment while directing someone beyond the frame to make space beside the table, then came back before the brace was released. The youngest moved the flat print box to the loft in two loads, glassine between every inked sheet, and came back each time before releasing the brace. At every closure the route vanished, the workshop wall returned, and the witness pin rose. There was no handle waiting at the distant side once the door had reset, no way back except to be in the workshop and set it again.
 
-“No.” She dropped the towel and came toward the far handle. “You do not enter.”
+The apprentice wrote the restrictions in material terms: one primary living user; bare contact at the brass; stable intention to cross; receiving threshold clear and safe; brace held until return; closure resets route; no remote return. They attached measurements for four sound sets and noted every observed block, then signed their bench number at the bottom.
 
-Jorren leaned farther through. “If it opens for me here, you cannot pretend I have no place in it.”
+At four fifty-one, a van reversed into the lane. The siblings were still disputing whether the lamp belonged with silver or furnishings. The executor took the certificate, checked the equal-share notation twice, and went to meet the driver. The brother folded the brace correctly. The middle sister pocketed the remaining labels. The youngest swept a curl of dried adhesive from the bench and missed the bin.
 
-“Take your foot out.”
-
-Sikra said his name once, sharply. Mevia moved to the weighted chest, ready to keep the frame down. Lutik caught the loose length of strap before the wind could whip it.
-
-Dessa put both hands on the hinge stile. “Jorren, unload the sill. Your weight is twisting the catch.”
-
-The woman seized the far handle. Jorren held the near one.
-
-“The door found what is ours,” he said to her.
-
-“You came without my answer.”
-
-She pulled. The strap creaked; the frame’s feet pressed deeper into their chalk outlines. Jorren braced his heel.
-
-Dessa kicked the service treadle at the base of the hinge. It lifted the leaf no more than the thickness of a coin, enough to take Jorren’s leverage off the sill without opening any lock. His boot slipped back into the inherited room.
-
-The woman hauled the leaf closed from the kitchen side.
-
-First came the latch: a clean, full-depth seat in the blue kitchen’s keeper. Dessa felt its load run evenly down her repaired rail. Then metal scraped beyond it. A bolt, ordinary and local to the kitchen, drove into a second socket.
-
-Jorren twisted the handle. The latch retracted. The leaf did not move.
-
-“Open it,” he said.
-
-“Return the key to rest.”
-
-“My spouse has bolted my door.”
-
-“The destination has barred this leaf. Return the key before the stored current heats the scarf.”
-
-“You carry picks.”
-
-“For authorized work.”
-
-“My name is on accounts in that house.”
-
-“Accounts do not authorize a bypass. The person at the far handle just refused entry.”
-
-Jorren rattled the handle. The far bolt held without a tremor. “The route admits me. She cannot make that mean nothing.”
-
-Dessa put two fingers against the edge cover. The latch spring was free; the load lay beyond it. “The route located a threshold. It did not withdraw that bolt.”
-
-“You can slip it. Take off the facing.”
-
-“Not from an occupied room that has just refused entry.”
-
-“Then what did Sikra hire you to repair?”
-
-“The split rail and the weather-bound latch.” Dessa met his eyes. “Both are holding. Turn the key back.”
-
-For a moment she thought he would force her to choose between leaving his current stored and touching his hand. Then Lutik said, “You’re heating the splice, Jorren,” in the practical tone he had used for the river wind.
-
-Jorren turned the key to rest.
-
-The warmth ran out of the rail. The kitchen pressure vanished with the rosemary and rain. When Jorren tried the handle again, the leaf opened freely onto the stripped room. The destination bolt remained in its own keeper, on a threshold no longer joined to theirs.
-
-Dessa closed the ordinary leaf and set the service wedge before anger made a fifth test. The kitchen keeper had marked the blue chalk across its full face: a fourth complete current path and a fourth stable contact. Its destination bolt was a separate load, applied only after the route had formed.
-
-Sikra stood with the folded wallpaper in one hand. “Which one do you put down as correct?”
-
-“All four contacts passed.”
-
-“That is not the same question.”
-
-“It is the one my tools can answer.” Dessa used a carpenter’s pencil because her hand wanted to shake. “I can trace the current each user supplied and where the latch landed. I cannot certify ownership, welcome, or what another household owes.”
-
-Jorren turned away.
-
-Sikra watched Dessa write. “Do not put their rooms into your master’s records.”
-
-Dessa drew four short lines.
-
-“Test one: local room, balanced pressure, full contact. Test two: moving berth, rain load, full contact. Test three: occupied rooms, prior notice, full contact. Test four: occupied kitchen, entry barred at destination, full contact.”
-
-Mevia tapped the third line. “Prior notice, not open invitation.”
-
-Dessa added the words.
-
-Lutik pointed at the second. “And secure the catch before river use. That strap is too short for a hard west wind.”
-
-“It is the service strap. The owner needs a permanent one rated to the frame.”
-
-“Put that on the bill,” Sikra said automatically.
-
-Dessa looked up.
-
-Sikra unfolded the wallpaper, saw what she was holding, and let it fall into the grate. “The latch works. The rail works. I will pay for those. I am not yet calling the rest useful.”
-
-That was not praise, but it was a completion line Dessa could show her master. She removed the wedge, torqued the final hinge screw, and fastened the cover over the scarf. The leaf hung square. Without a living recognition turn, it opened only through the room in which it stood and closed on its own keeper.
-
-“The roofers come second-day,” Sikra told Lutik. “I need the north rooms empty before then.”
-
-“If the wind keeps east, I can take the frame upriver after the fifth-day bags,” he said. “Covered, not on the open deck.”
-
-“You are not taking it anywhere until the inventory is signed.”
-
-“Our landing is too narrow for it,” Mevia said, “and my wife and I will not store a shared door inside our rooms. We can take the two linen chests after close tomorrow. Send a note before you use the key.”
-
-Sikra picked up the copper sill-pan and frowned at its cargo: hearth mortar, reed seed, red paint, flour, poppy seed, orange peel, rosemary, black soil. “A note to whom?”
-
-“To whoever is expected to answer.”
-
-“It cannot be four separate negotiations every time.”
-
-“It already is.”
-
-Jorren had returned to the window. “Stop arranging times for me.”
-
-No one solved the storage question. Sikra wanted the frame beside the deeded wall; Lutik said the next rain would swell its lower stile; Mevia would lend blocks but not her wife’s supper hour. Jorren refused Sikra’s clearing day and accepted another only because the wardrobes required two people.
-
-Dessa packed the chalk, gauges, service bridge, and the file she had not used. She accepted Sikra’s purse, counted only enough to know it was the agreed weight, and buckled it inside her case.
-
-At the front hall she passed the traveling frame and lifted the plain latch of the street entrance.
-
-“Notice is not an answer,” Mevia said behind her.
-
-“Then they can knock and wait,” Sikra replied. “After the north rooms are cleared.”
-
-Lutik began objecting to the day. Jorren said something too low for Dessa to catch. She went out by the ordinary door and pulled it shut against the rain.
+When they had cleared the frame, the apprentice pressed the ordinary transport pin through the hinge plate. It seated with a small, workmanlike click. The repaired spring drew the lever level and held it there while the door was wheeled away.

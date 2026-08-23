@@ -8,400 +8,350 @@ canon: false
 
 # The Unfinished Sunset
 
-The old road ended in young pines.
+The road let Arveth into Aderi without making her turn around.
 
-Hisae stood where two wheel ruts should have descended between rice fields and found trunks thick enough to hide behind. Their roots had shouldered the stones out of line. Needles softened every hollow. If she had not remembered the notch in the eastern ridge, she would have taken the deer path south and missed the village again.
+That was the first accusation.
 
-Behind her, evening moved as evenings did. Blue gathered under the pines. Gnats turned above a puddle. A cold wind carried the smell of rain.
+Two shepherds had tried to guide her up from the lower valley. Both had come back to the same cairn facing downhill, certain they had followed the north track. Arveth had continued alone. At the last rise, her white hair was full of road dust, her left hip burned, and the old sword knocked against her pack with every other step.
 
-Ahead, the sky had kept one piece of sunset for twenty years.
+Beyond the boundary ditch, Aderi lay in a light too yellow to be evening and too still to be weather. Barley terraces held one long slant of sun. The mill wheel flashed at the same point in each turn. Above the roofs, rows of mineral panes stood on black wooden vanes, holding the sunset over the village as they had been built to do during harvest.
 
-Copper light lay across the ridge without fading. The sun rested against the same broken tooth of stone where it had been when Hisae ran. Its lower edge did not sink. No cloud crossed it. Beneath that light, a curl of smoke stood above a roof as solid-looking as gray silk.
+Forty-three minutes. That was all the keepers had ever charged them to hold.
 
-Hisae took off her traveling hat. The wind lifted her white hair; the copper air ahead did not touch it.
+Arveth stepped across the dry ditch.
 
-She found the road by walking backward through memory. A fallen cedar had replaced the footbridge, and the irrigation ditch was a fern-choked seam, but the grade was right. At the first straw-wrapped post she stopped.
+The pressure in her ears vanished. Behind her, the track straightened as if it had never wandered. Ahead, a sack split on the mill terrace and poured barley around a woman's boots.
 
-The rice straw had not yellowed. Each end in the braid looked freshly cut. A moth hung beside it, wings spread, its shadow motionless on the post. Beyond, water leaned over the lip of the millrace in a clear, impossible curve. A leaf lay half entered into the surface, neither floating nor falling.
+Nobody cried out. Nobody asked who she was.
 
-Hisae did not cross.
+The miller looked at the grain, then at Arveth. “You've come late in the turn.”
 
-She followed the village edge north until bramble forced her uphill, then doubled back and traced it south to the stream. Everywhere the fixed sunset met the ordinary dusk along a line too clean for weather. She tested that line with the end of a pine branch. The branch met resistance where nothing visible touched it. When she let go, it remained caught with half its needles in copper light and half stirring in the wind.
+“South pass was washed out.” Arveth gave the fact automatically. “The bridge below the east field is gone.”
 
-That was enough testing.
+“I'll plan another delivery route.” The miller crouched and began scooping barley back into the torn sack. “When it's morning.”
 
-At the road she put down her pack with its straps turned outward. She loosened the knot on the rain cover and laid the shoulder loop where one grab would find it. Her map, food, and spare sandals could be on her back before anyone reached the post.
+At the far end of the terrace, Ilessa leaned against the stone watering trough. Her dark hair was tied high to keep it clear of her shoulders. The scar beside her mouth was the same narrow white line Arveth remembered. So were her hands, her height, the unweathered brown of her face.
 
-Only then did she look into the threshing court.
+Only the way she stood had changed. Twenty years ago, Ilessa's weight had announced which foot would move. Now even stillness told Arveth nothing.
 
-The court occupied the western edge of the village. Its packed-earth ring met the boundary between two taller stakes; the woven rush that marked the bout’s circle passed from ordinary dusk into the held light there. Hisae had crossed both lines in one backward step twenty years ago.
+Ilessa looked at the sword.
 
-Four witnesses stood beyond the rush. A woman held a winnowing basket tipped forward in one hand, pale chaff arrested above its rim; her other palm was raised between a small boy and the ring. A clay cup hung below the boy’s open fingers. Two field hands leaned from opposite sides, each following a different angle of the same stroke.
+Arveth took the strap off her shoulder. “I brought it back.”
 
-Jinsaku was still making it.
+Ilessa pushed away from the trough. She carried a plain village blade with a leather-wrapped grip, worn pale in two places. She did not reach for Arveth's offering.
 
-His front foot hovered a finger above the earth. His sword descended toward Hisae’s abandoned shoulder, the edge turned aside as the nonlethal terms required. His mouth was open around the last word of a sentence.
+“Halen,” she called.
 
-Then take—
+An old man was already descending the ladder from the pane walk. His sleeves were rolled above his elbows, and bright mineral dust marked both palms. He looked older than Arveth remembered until she understood that he had already been old. A cut release braid hung from the control frame beside him, its severed end newly picked apart.
 
-Hisae could hear the unfinished shout as clearly as she had on every westward road.
+“West pin first,” he said. “Then the three lower vanes. Joined pressure before release. In that order.”
 
-Jinsaku’s black hair had escaped its cord at one temple. He was twenty-seven, exactly as he had been when she left him. Hisae was forty-eight. A spear haft had crushed her right knee twelve winters ago, and damp weather had been living in it ever since. She had two gray scars at her wrist, one fewer tooth, and twenty years of answers to the cut hanging in front of her.
+“You don't know whether the pin will hold,” said the miller.
 
-She drew her sword. Then she stepped between the stakes.
+“Which is why it goes first.” Halen reached the terrace and looked Arveth over once, not lingering on her white hair. “How long to the notch?”
 
-The held court struck sound into the world.
+A child sitting on the mill wall checked the fixed sun against a split in the western ridge. “Six minutes. Maybe five and three quarters. The smoke is thick today, but it was thick at the start, so that doesn't help.”
 
-“—the road!”
+The voice had a quick adult impatience. Arveth recognized the small blunt chin only after the child jumped down.
 
-Jinsaku’s foot landed. His blade completed its path with the force of a man who had not waited at all.
+“Neth?”
 
-Hisae caught the stroke above her shoulder. Steel rang across the court. Her older wrist gave farther than she expected, and Jinsaku’s blade slid down within a thumb of her sleeve. She turned sideways, let his force pass, and cleared the line.
+Neth's expression shut. “Yes. Don't do the calculation where I can see it.”
 
-The woman completed her gasp. The boy stumbled into her waiting hand. The chaff and his falling cup did not move.
+Arveth had already done it. Nine when she left. A short body in a patched shirt, bare knees, and an adult's level stare.
 
-Jinsaku recovered his guard and stared.
+From the lane came the knock of a loom, then stopped halfway through its pattern. A farmer stacked three baskets beneath an eave while another sat on an overturned tub and watched. Near the bakehouse, two women were playing a game with stones scratched into the dust. One lifted the pieces before the board was finished and put them into her pocket.
 
-Hisae had prepared for anger. She had prepared for disbelief, accusation, even a second strike. She had not prepared for him to look first at her hair.
+No one gathered around Arveth. They remained at tasks, or at refusals of tasks, chosen across twenty years of the same failing light.
 
-“Who did that to you?”
+The elder came down from the upper lane with a wool blanket around narrow shoulders. “Take the sword from her.”
 
-“Time.”
+“Not like that,” Ilessa said.
 
-His point lowered an inch. “How much?”
+The elder's eyes stayed on Arveth. “Then keep her this side of the ditch.”
 
-“There’s room behind you. Let me out of the ring.”
+Neth gave a sound that was almost a laugh. “We can't.”
 
-“No.” His grip reset. “How much time?”
+The sun touched the notch.
 
-“Twenty years outside.”
+Light struck the mineral panes all at once. Arveth smelled hot copper and cut grass. The barley at the miller's feet rose in a soft backward rush. The sack sealed around it. A peg Halen had set beneath the control frame leaped into his hand as a split piece of wood. The game stones returned to the dust. Neth vanished from beside Arveth and reappeared halfway up the lane, running toward a doorway.
 
-The woman with the raised palm looked from Hisae to the sun. “You crossed the post one breath ago.”
+The whole village flinched into its old positions.
 
-“For you.”
+Then people moved by choice. The miller caught the sack before it fell and lowered it carefully. One player abandoned the restored game board. Halen looked down at the broken peg in his palm and sighed.
 
-A field hand went to the northern edge of the court. He tried to pass between two straw braids and struck the boundary chest first. The collision threw him backward. He rose swearing and shoved both hands into the empty air, but the line admitted no part of him.
+In the upper lane, a woman took the blanket that reset beside her former husband's door and carried it to another house. He watched her go, then returned to his baskets.
 
-Only the people who had stood inside or around the promise were moving. The millwater remained curved above the wheel, the chaff stayed in the air, and the sun remained fixed. The field hand could not leave.
+Neth took two more running steps, stopped, and kicked the wall.
 
-The old bout-working had begun in living voices: the two duelists giving terms, four neighbors agreeing to witness them, every person breathing under the last light. The rush ring and the braided straw had only given that promise a shape. No one had asked what would happen if one of the two people carrying it stepped from the ring and out of the village before the answer.
+“Salt shelf,” they said when they returned. “My body starts for the salt shelf every time. I haven't been sent there in twenty years.”
 
-Jinsaku looked at Hisae’s pack waiting beyond the post.
+Arveth's own feet had not moved. The reset had passed through her like a cold wire, finding no place to put her.
 
-“You set the straps for your right hand,” he said.
+“First boundary condition,” Neth continued, fast now. “Anything inside at closure returns to where it was. You weren't inside. Second: changes to our bodies return too. New cuts close, but an old injury comes back. So do the hunger and fatigue we had at closure. Third: what we remember stays. So does what we learn. So does being afraid of something that technically hasn't happened anymore.”
 
-“The left catches on the sword.”
+Halen fitted the broken peg on a shaving block. “Neth.”
 
-“You came prepared to leave again.”
+“She needs the short version.”
 
-“I came prepared for more than one angle.”
+“She needs the safe version. West pin, three lower vanes, joined pressure. No experiments while I seat the pin.”
 
-“Then use the one in front of you.”
+Neth folded their arms. “I stopped experimenting with the vanes fourteen years ago.”
 
-Hisae eased her blade down. “I returned. Take the winter.”
+“You proposed one yesterday.”
 
-Jinsaku’s face hardened, not because she had refused but because she had offered the wrong repair. “I didn’t win.”
+“I stopped conducting them.”
 
-“Call it a forfeit.”
+The miller caught Arveth looking at the unbroken sack. “We can eat. The food comes back. So does the empty feeling. I have ground this load more times than you've eaten supper on the road, and it has never once become flour that lasts.” She pulled the sack toward the mill. “I want night. Halen wants every hinge clean first. The elder wants you tied to the trough. Ilessa doesn't tell me what she wants.”
 
-“The terms did not say forfeit.”
+“A vane breaks under moving charge, the catch may go with it,” Halen said without looking up. “Then there's no return to recover.”
 
-“The village has lost twenty years.”
+“I heard you the first thousand times.”
 
-“And you want me to mend that with a lie?”
+“Keep away from the hinges, then.”
 
-He backed to the court’s center and spoke loudly enough for every witness to hear. “No edge to flesh. A sword out of hand or both feet beyond the rush. The loser names the winner. If I win, you stay one winter and teach us to defend the village. If you win, we provision you and never ask you to remain again.”
+Ilessa had already gone to the sun-catch frame. She tested the west socket with both hands, then knelt to steady the split peg while Halen shaved it. Every reset returned the peg to broken wood, but his fingers retained the shaping.
 
-Hisae glanced at the western stakes. “You remember every nail.”
+Arveth followed because the other direction was the ditch.
 
-“I remember which gate fell because no one replaced them.”
+The mineral panes were clouded amber, each no wider than a handspan. In an ordinary harvest, living keepers stood along the copper rail at sunset and gave the panes a measured charge through their palms. The inert stone held what it was given. The vanes bent the stored light down over the terraces for forty-three minutes, then opened and let evening proceed.
 
-Her former lord had died that spring, leaving armed retainers to sell their skill and villages to guard their own grain. Hisae had come home newly masterless and hungry for the road. Jinsaku had asked for a winter, not fealty. She had heard a latch closing anyway.
+Twenty years ago, with the punitive patrol climbing the south road, Arveth had opened every charging gate and forced her unmeasured living charge into the rails.
 
-“I had finished serving other people’s needs,” she said.
+Memory came as the bite of copper, not pictures. Halen shouting for her to take her hand off the rail. Ilessa catching her shoulder. Arveth's sword coming free because a sword was the answer her body had known best. Ilessa's blade meeting it above the live frame.
 
-“Then you should have said no before you took my hand.”
+Opposed living motion. The panes had taken that too.
 
-“I thought I would win.”
+“We'll try the handover before anything else,” Arveth said.
 
-“You saw my shoulder open and ran before the point could count.”
+Ilessa slid the new pin home. “Try it.”
 
-Hisae raised her sword.
+On the cleared threshing floor, Arveth unwrapped the old sword. The grip leather had been replaced twice, the scabbard once. The blade itself was original, with a shallow notch near the hilt that no smith had persuaded her to grind away.
 
-“Place your feet,” Jinsaku said.
+She held it out flat.
 
-They returned to their sides of the ring. Hisae stood west, the village boundary three paces behind her. Jinsaku stood east with the low sun at his shoulder. The woman pulled the boy away from the rush and set the basket behind her. One field hand kicked a wooden flail out of the court; the other shifted until he could see both western stakes. They chose their own safe places and kept watching.
+Ilessa drew her own blade and laid its edge against Arveth's. A hum moved through the terrace stones. Light stirred in the lowest pane.
 
-Jinsaku saluted. Hisae answered.
+Arveth opened her fingers.
 
-He came at her before her blade finished rising.
+The sword struck the floor. The hum stopped. The pane went dull.
 
-His youth arrived first as noise. His sword struck hers, rolled away, and struck again from the other side. Each impact reached her elbows while her body was still accounting for the last. She yielded two short steps, let his third cut spend itself past her hip, and touched the flat of her blade to his wrist.
+Ilessa nudged the fallen weapon back with her boot.
 
-He pulled back before she could press.
+“Joined pressure,” Halen said from the frame. “Not touching. Not possession. Opposed pressure, unbroken until separation. West pin, three vanes, joined pressure.”
 
-“You wait longer,” he said.
+“We made a handle and had her pull against it,” Neth said. “We put the blade in a vise. We used another sword. We had Ilessa hold your wrist and take it. We asked the catch nicely, too, in case twenty years had improved its judgment.”
 
-“I stopped paying for empty motion.”
+The elder had taken a seat beside the watering trough. “Have her yield properly.”
 
-“Your rear foot is late.”
+“Words don't enter the rail,” Halen said.
 
-Hisae changed its angle before he could attack it. “Now it isn’t.”
+Arveth picked up the sword. Her stiff hip complained when she straightened. “Then she can take it while I resist.”
 
-He tested the correction with a low feint. She did not answer. His eyes flicked once toward her right knee.
+Ilessa moved before the last word. Her blade struck once near Arveth's hand, slid down the old steel, and turned. Arveth stepped back. A second cut came at her shoulder, controlled but quick enough that she had to catch it.
 
-They circled.
+The panes brightened.
 
-Twenty years had taught Hisae what a young body wasted. Jinsaku’s shoulders announced strength he did not need. His heel rose before he crossed the ring. He let his blade travel the full shining arc because his joints could still hurry it home. Hisae had learned on mountain paths, ship decks, frozen yards, and rooms too small for a second step. She moved only the distance that removed her from harm. Her sword met his close to the guard, where his reach bought him least.
+Arveth shifted her grip loose, intending to let the sword be pulled away.
 
-But he was not the stroke she remembered. He watched her conserve and began to shorten his own cuts. He broke a familiar three-beat attack after the second, waited for her turn, and drove the hilt toward her ribs. Hisae twisted away. The rush braid brushed her heel.
+Ilessa broke contact and stepped out.
 
-The boy sucked in a breath.
+“No,” she said.
 
-Hisae stepped inward rather than back. Her shoulder struck Jinsaku’s chest. For one instant their swords were useless between them. She hooked his guard with hers and turned him toward the west arc.
+“You need it out of my hand.”
 
-Jinsaku planted. Young legs stopped them both. He shoved free and gave her no room to finish.
+Ilessa tapped the flat of Arveth's sword with two fingers, then pointed to Arveth's feet. Her meaning was plain: she would not rehearse another escape disguised as cooperation.
 
-“You learned crowded work,” he said.
+Neth hopped onto the terrace wall. “If you're pretending, the opposed motion ends before the separation. We measured the pane response.”
 
-“Ship decks leave no room.”
+“How?” Arveth asked.
 
-“Where were you?”
+“Brightness, sound, heat, the draw on the rail, shadow displacement, and once with moths. Moths were unreliable.”
 
-“North first.”
+Halen said, “No moths today.”
 
-He cut toward her left shoulder. She slipped outside it.
+“I didn't bring any.”
 
-“How long?”
+The mill started behind them. On its second grinding turn, a few villagers returned to the fields. The elder remained.
 
-“One winter.”
+Arveth sheathed her sword. “I should see the boundary.”
 
-“That accounts for one.”
+“You saw it when you crossed,” the elder said.
 
-He advanced behind a straight thrust. Hisae redirected it and moved clockwise, keeping her right leg away from the hard turn.
+“I want to know what closes when the blades meet.”
 
-“Then the coast,” she said.
+Ilessa walked downhill without waiting for agreement.
 
-“How long?”
+At the ditch, Neth tied a blue wool thread around their wrist and gave the other end to the miller. They had clearly done this before; the miller paid out line without looking up from a handful of grain.
 
-“Long enough.”
+“Walking first,” Neth said. “Then running. Angles don't matter, but I check because conditions can change.”
 
-“Not a number.”
+They stepped into the ditch. Their foot reached the outer lip. The air folded with a small sound like cloth shaken once, and Neth stood inside the boundary again, facing inward. The blue thread never went taut.
 
-“It’s the answer I have.”
+“Carried, pulled, unconscious, on a cart, under the culvert, above it with a ladder,” Neth said. “No crossing. Things thrown out arrive back here. You can leave because your movement was never closed.”
 
-He changed direction so abruptly that she had to load the right knee. Pain lit beneath the kneecap. Hisae’s breath caught. Jinsaku heard it and struck high, forcing her weight to remain there.
+Arveth looked along the ditch toward the south track. “Patrol was nine mounted. Six followed me past the shale cut. Three stayed below until smoke covered the terraces.”
 
-She caught the blow. The knee held.
+No one had asked.
 
-“You’re answering around me again,” he said.
+The miller rubbed a grain between finger and thumb. “Did you lose them?”
 
-“Side paths kept me alive.”
+“Two horses broke legs in scree. The riders continued. I crossed the eastern river before the flood came through.”
 
-“Not this village.”
+“That wasn't the question,” Neth said.
 
-Hisae shoved his blade away. “Your fence needed lessons. I needed a life with no gate on it.”
+“They didn't come back here.”
 
-“The north fence needed twelve people who could hold until help arrived.” Jinsaku pressed again, exact and unsparing. “One winter. Then the road, with food under your arm.”
+Ilessa crouched at the boundary and pushed her blade into the dry dirt. The point stopped where the air folded. She watched the steel, not Arveth.
 
-“One dead master had been enough.”
+Arveth had been a sword-retainer then. When she refused the order to seize winter grain from the upper farms, her master named her deserter, and the patrol had followed the ronin toward her birthplace. She had meant the overload as a decoy: close Aderi out of ordinary light, draw the patrol after the one visible fugitive, return when the road cleared.
 
-“I was asking you to teach, not kneel.”
+Ilessa had opposed the risk. Arveth had cut the release braid and crossed the ditch anyway, completing the catch around everyone but herself.
 
-His sword found hers with a crack that numbed two fingers. Hisae gave ground. She had remembered his speed but not what it demanded from the lungs. Her next breath scraped. The fixed sun laid sweat-bright copper across his face while hers cooled under white hair.
+“The lower road stayed watched eleven days,” Arveth said. “Then snow took the pass.”
 
-Jinsaku saw the breath go wrong. He did not rush. He took the center and made her circle the greater distance.
+Neth answered at once. “That accounts for eleven days and a winter.”
 
-That choice angered her more than an attack would have. It was the same practical patience with which he had once repaired split buckets while she described places she intended to see. He did not need to chase. He made the available space do the work.
+“In spring I was east of the river.”
 
-Hisae stopped circling.
+“Road fact.”
 
-Jinsaku stepped in. She parried once, twice, then gave him the opening above her left shoulder.
+Arveth looked up toward the lane she had not entered. A loom knocked there again. Three beats, pause, two beats. Her mouth formed the beginning of a word and stopped.
 
-He recognized it. Of course he did.
+She tried Ilessa's name next, meaning to make it carry every other name she had not asked after. Nothing came.
 
-His first cut rose from the hip. The second crossed, driving her guard outward. His foot came down on the same patch of packed earth as twenty years before. His elbow opened for the descending fourth stroke, the cut she had carried unfinished through half a life.
+Ilessa pulled her blade from the dirt.
 
-Hisae had answered it with broom handles in rented courtyards. With an oar on a becalmed deck. With a stick beside a winter fire until the snow around her boots turned to mud. At first she had practiced defeating Jinsaku. Later she had practiced defeating the instant in which she had chosen the road over being seen to lose.
+“I came within two ridges the next spring,” Arveth said. “I saw no smoke. I thought the catch had failed. Or released.”
 
-The blade descended.
-
-She did not retreat.
-
-Hisae entered beneath his hands. Her guard caught his close to the hilt; her turn sent the weight of his cut past her instead of stopping it. Before he could recover, she drove her shoulder under his sword arm and brought her own blade across the space in front of his chest.
-
-Jinsaku had to step back.
-
-She followed with one short cut. He caught it, but the catch cost him another step. His left heel reached the eastern rush.
-
-The woman beside the boy moved left for a clear view. “One foot on the braid,” she called.
-
-Jinsaku shifted to escape along the ring. Hisae was already there. Twenty years of watching feet had shown her the turn in his hip before he chose it. She closed the side path and forced him straight back.
-
-His left heel crossed the rush. His right remained inside.
-
-One more step would give her both.
-
-Hisae could end the winter before it began. She could take the promised rice and salt, lift the pack she had aimed toward the road, and leave with a victory no one could call flight. The village would have its night. Jinsaku would have to name her winner.
-
-He lowered his weight to drive right.
-
-Hisae saw the movement early. Her answer was perfect.
-
-Her body was not the body that had invented it.
-
-She lunged to seal his last angle. The distance belonged to her twenty-eight-year-old stride. Her right foot landed too far forward, and the old knee locked with a blunt shock. Strength vanished from the leg. Her point dipped before she could command it up.
-
-Jinsaku abandoned his intended turn. He caught her falling blade against his guard, rotated the bind, and stepped past her weakened side. Hisae tried to release and recover, but two numb fingers closed a fraction too late.
-
-Her sword tore free.
-
-It spun once through the copper light, crossed the western rush, and struck the earth just inside the boundary post.
-
-Hisae fell to her right knee. Pain rose white and immediate, then settled into a hard pulse. Jinsaku’s point stopped below her collarbone without touching cloth.
-
-No one mistook the result.
-
-“Sword out,” he said, breathing hard. “Name it.”
-
-Hisae looked at her weapon.
-
-Beyond it waited the open straps of her pack. One step would take her outside the ring. Three would take her to the village edge. Only she had been able to enter; perhaps she could leave again. She did not need to know before moving. Certainty had never been part of an exit.
-
-She stood, favoring the right leg, and walked west.
-
-The boy began to say something. His first sound stretched thin. The woman’s reaching hand slowed. Jinsaku’s next breath took too long. Copper light sharpened on the boundary stakes.
-
-Hisae reached the sword but did not pick it up. Her pack was an arm’s length beyond the post. Rain whispered in the dark pines outside. She could shoulder six days of food, find the new road by morning, and let the village keep the single breath in which it had last known her.
-
-“Hisae,” Jinsaku said.
-
-She did not turn.
-
-“The result. Nothing else.”
-
-Hisae’s hand rose toward the pack strap. She saw its prepared loop, the clean pull northward, the gap between two pines. Every useful angle led away.
-
-Behind her, five people in the court were running out of motion.
-
-She lowered her hand.
-
-The walk back to the ring was six paces. Her knee made each one separate. She crossed the rush without her sword and stopped before Jinsaku.
-
-He waited.
-
-“Jinsaku won,” Hisae said. She made herself look at the witnesses rather than the road. Each was still turned toward the ring, each living attention caught on what she would do. “I lost the bout. I will stay the winter.”
-
-The sun dropped.
-
-Not slowly. It slipped behind the ridge as if a hand had released a weight. The court went from copper to blue-black in one breath. Chaff fell into eyes and open mouths. The millrace’s clear curve collapsed onto the wheel and flung spray across the yard. Somewhere behind the houses a kettle boiled over with a furious hiss. A roof tile completed its fall and broke. The boy’s clay cup hit the earth and bounced intact.
-
-The boy sneezed. The woman caught him by the collar before he stumbled into the ring, then let go and stared upward.
-
-Stars stood where the sun had been.
-
-One field hand ran to the millrace because the wheel had begun knocking. The other stepped through the village boundary, saw the pines rooted in the lower fields, and dropped to touch one as if bark might be a disguise. The woman thrust the winnowing basket at Hisae.
-
-“Hold this.”
-
-Hisae held it. The woman dragged a smoking pan away from the cookfire before its spilled oil reached the wall.
-
-Jinsaku sheathed his sword. He looked at Hisae’s swollen knee, then at the bucket beside the well.
-
-“Can you carry?”
+The miller's handful of grain trickled back into the sack. “You could have checked.”
 
 “Yes.”
 
-“Then water. That roof first.”
+There was no clean road fact after that. There had been work escorting carts, a fever season, two more washed bridges, hired blades coming after her sword. There had also been mornings when Aderi lay three days away and she chose a road that made it ten.
 
-Hisae carried. The right leg protested every return from the well, but the sparks died before they reached the dry eaves. When the mill wheel jammed, the field hand shouted for a pry bar and Jinsaku went to help him. The boy found the clay cup he had dropped one breath earlier and discovered moss growing on the outside wall beyond the court. He scraped it with one fingernail until his mother pulled him back.
+Ilessa's gaze settled on Arveth at last. “I saw you cut the braid. I saw you cross.” She pushed the village blade into its sheath. “That's what I know.”
 
-At last someone lit a lamp. Faces gathered and separated in its small circle.
+Then she headed back to the terrace.
 
-“What year?” the woman asked.
+The next reset returned Neth to the salt errand and the miller's grain to the torn sack. Arveth remained beside the ditch with twenty years in her knees.
 
-Hisae told her.
+Halen used most of the new turn to prepare. He shaved the west pin until it entered without forcing. He and two other keepers laid their palms against the copper rail, not to add charge but to feel whether the old load shifted evenly. At the cut release braid he wove a temporary bridge of copper wire and green flax. He tested it, unwove it, and started again.
 
-The woman sat down on the well curb without looking for it. “My daughter married beyond the south bridge.”
+“West pin,” he said each time someone spoke to him. “Three lower vanes. Joined pressure.”
 
-“The bridge went in a flood,” Hisae said.
+The miller moved her sacks under the eave. “If we get dark, I want the grain dry. If we don't, it comes back.”
 
-“Her farm?”
+The elder stationed two field workers near the ditch, watching Arveth rather than the catch. Others chose the stone houses. One farmer stayed on the terrace to hold a vane rope. The game players finished their match in the dust and disagreed over the last move until Halen ordered them away from the frame.
 
-“I don’t know.”
+Neth marked the boundary with bits of chalk at six-step intervals. “For after,” they said. “If there is an after.”
 
-The field hand who had touched the pine came back through the open boundary. Resin marked his palm. “Those are our lower terraces.”
+Ilessa worked through the terrace footings, stopping twice to scrape barley chaff away from a landing place. Each movement ended with her balanced to move again.
 
-“They were,” Hisae said.
+Arveth rolled her left shoulder. Age had not made her slow everywhere, only in places she could no longer predict. Road fighting had taught her to use doorframes, mud, cart wheels, the glare off water. Ilessa had been given the same terrace, the same light, and more practice than either of them could count.
 
-“How long to grow a trunk like that?”
+Halen tied off the bridge. “On my call. If a lower vane sticks, stop. If the west pin lifts, stop. If either blade loses pressure before separation, stop. We can reset and try again.”
 
-“Twenty years will do it.”
+“We can,” the miller said. “I'd rather not.”
 
-The boy looked offended by the answer. “Where did the road go?”
+Ilessa stepped onto the threshing floor.
 
-“East. A new one.”
+Arveth drew.
 
-“Show me.”
+Neither repeated the opening they had used twenty years ago. Ilessa entered behind a low cut, turned Arveth's guard, and drove her toward the mill wall. Steel met and parted. Each contact woke another amber line in the panes. Arveth used the wall to shorten her retreat, slid past a flour bin, and caught Ilessa's blade close to the hilt.
 
-“Not in the dark.”
+Ilessa changed hands.
 
-“First light, then.”
+Arveth barely cleared the return cut. She knew how to break a rush because road thieves used them. Ilessa knew how Arveth broke one.
 
-Before Hisae could answer, Jinsaku did. “First light.”
+They crossed the terrace. Ilessa gave ground once, then took it back in three quick steps. Arveth's hip tightened. She let the weakness show for two exchanges, then pivoted the other way and used a scatter of barley to force Ilessa wide.
 
-He took the basket from her and set it under the eaves where no one would trip over it. A red bruise had risen across his sword wrist where she had struck him.
+Ilessa had practiced on spilled grain. Her foot found the clean stone between kernels.
 
-She retrieved her sword and pack from the road. Nothing stopped her at the former boundary now. When she returned, she carried both through the western stakes and put the pack against the court wall, straps turned inward.
+Their blades bound. The panes flared hot gold. Halen put both hands on the release frame.
 
-Jinsaku looked once at the inward-facing straps.
+“West pin holding,” he called. “First vane ready.”
 
-“The winter starts tonight,” he said.
+Ilessa pressed. Arveth yielded a step, then another, drawing them down the slope. The dry ditch touched her heel.
 
-“What is first?”
+The air behind her opened.
 
-“Sleep, if anyone can. At dawn, the road. After that, we find out which walls are still ours.”
+She knew it by the sudden smell of pine from beyond Aderi, cool and ordinary, and by the give under her next step. Her sword slid free of Ilessa's as she crossed. The catch dimmed.
 
-“I have a surveyor’s map.”
+Arveth stood on the outer road.
 
-“Does it show us?”
+Inside the ditch, no one could follow. Ilessa held her blade down at her side. Halen kept one hand on the frame, the other raised away from the first vane. The field workers watched. The mill continued grinding because no one had stopped it.
 
-“No.”
+The south road lay clear. Arveth knew its grades, its water, the place a traveler could sleep without being seen. The facts arrived in order. Her feet were already turned correctly.
 
-“Then it is wrong in one useful place. Bring it.”
+Beyond the catch, the real sun had lowered a finger's width.
 
-He took up the pry bar and went back to the mill wheel.
+Arveth stepped back across the ditch.
 
-No one slept much. Pots had to be taken off fires, animals calmed, lamps found, and one cracked shutter wedged against the night wind. People crossed and recrossed the former boundary just to prove that their feet could. Questions followed Hisae between small tasks. She answered the ones she could and said “I don’t know” more often than she had on any road.
+She did not offer the sword. She settled both hands on its grip and returned to the threshing floor.
 
-Near dawn, she unrolled the map on an overturned grain bin. It showed the eastern post road, two surviving streams, and a blank wooded slope where the village stood. The woman whose daughter had lived beyond the south bridge came with a walking staff. The field hand with resin on his palm brought rope and an axe. Neither waited to be chosen.
+Halen examined the west pin. “Again. Same order.”
 
-Jinsaku arrived last. He had bound his bruised wrist, and he carried no sword.
+Neth erased one boundary mark with their heel and drew it fresh.
 
-Hisae left her pack against the wall. She took the map, water, and her sheathed blade. When she stepped through the western stakes, three sets of feet followed.
+Ilessa came at Arveth without a word.
 
-Beyond the pines, the first washout had eaten half the old track. Hisae tested the uphill edge with her heel. Loose soil ran into the hollow.
+This time Arveth contested every inch. She did not reach for Ilessa's blade or turn her grip false. When the old pattern in her shoulders invited a high attack, she broke it with a short step learned in a wagon yard; Ilessa answered by striking low. Arveth caught the blow. The blades stayed together.
 
-“Not there,” Jinsaku said.
+“Joined,” Halen said. “First vane.”
 
-“It holds if we cross one at a time.”
+Wood knocked overhead. One pane swung free, pouring its stored light across the opposite ridge.
 
-“The woman goes first. You brace below.”
+Ilessa bore down. Arveth turned under the pressure, steel grinding along steel. If she stepped away, contact would break. If she loosened her hand, it would be surrender again. She held, changed angle, forced Ilessa toward the trough.
 
-Hisae looked for the easier angle, found it, and moved down the slope. “Put your foot beside mine,” she told the woman. “Then take the root above my shoulder.”
+“Second vane.”
 
-The woman did not thank her. She crossed.
+Another knock. The sunset shivered. Shadows moved for the first time.
 
-Jinsaku came next. He studied Hisae’s right leg, chose his own hold, and passed without touching her. On the far side he turned east, toward country that had taken twenty years from him in a night.
+Ilessa's young body had not tired across the years, but it had learned. She let Arveth win the angle. Arveth followed, seeing the disarm half a breath too late: not at her blade, but at the stiff left hip that had to carry her weight.
 
-“How far to the new road?” he asked.
+Ilessa stepped across that foot. Her hilt drove under Arveth's guard. The village blade never left the old sword; it rolled against it, opposed all the way, while Arveth fought to recover her grip.
 
-“Two ridges. We can reach it before noon if this line stays open.”
+“Third vane,” Halen said.
 
-“If it closes?”
+Arveth's fingers opened despite her.
 
-“There’s a lower path.”
+Ilessa tore the original sword free.
 
-“Show us this one first.”
+Halen pulled the bridged release.
 
-Hisae raised a pine branch and held it until the others had gone beneath. Then she faced east and led them into the morning.
+The vanes opened with a sound like a roof taking wind. Amber light streamed out of the panes and thinned above the terraces. The old sword spun once. Ilessa caught it by the grip before it struck stone.
+
+For several breaths nothing else happened.
+
+Then the sun passed through the notch.
+
+Neth's chalk marks stayed beside the ditch. Halen's new pin stayed seated. A bruise darkened across Arveth's knuckles and did not clear. Along the lane, doors opened on a light none of them had seen reach the ground.
+
+Ilessa did not age. Neth's patched sleeves did not shorten. Their bodies kept no missing years to collect, and their memories did not empty.
+
+Night came at its ordinary speed.
+
+The miller laughed once when she saw flour remain in the bin, then swore because the grain under the eave was damp. Halen ordered everyone away from the cooling panes and repeated the order when nobody listened. The elder sent one field worker to the upper lane and kept the other beside Arveth.
+
+Ilessa sheathed her village blade. She kept Arveth's sword bare in her hand.
+
+“Catch house,” she said to Arveth. “You'll sleep there. Two watchers.”
+
+Arveth nodded.
+
+“First, Halen needs the lower ropes secured.”
+
+Arveth took the rope Halen threw her and tied the road knot she trusted most. Halen inspected it, untied it, and showed her the broader hitch the vane posts required.
+
+At the ditch, Neth stood with one foot on either side.
+
+They stepped out. The air did not fold. They walked six paces down the road, crouched to touch a tuft of grass that had never been inside the catch, then rose and looked toward the darkening valley.
+
+No one called them back.
+
+After a while Neth returned across the ditch. They picked up one end of the miller's smallest sack.
+
+“Not that one,” the miller said. “Bottom's split.”
+
+Neth chose another. Arveth took the opposite end, and together they carried the grain under cover while Ilessa watched with the sword.

@@ -8,304 +8,444 @@ canon: false
 
 # The Upward Rain
 
-The sea left Caudren Reach one drop at a time.
+At 06:11 the sea began to leave by falling upward.
 
-At first the reversal was small enough to miss. Beads lifted from the cliff grass and ran bright on the undersides of leaves; water climbed out of gutters in wavering threads. Then the threads thickened over the harbor. Each rising drop seemed to tug another from the waves, and another behind that, until silver cords drew the surface upward in streaming columns. By late morning, the coastal sea hung in the sky.
+Anouk Verren watched the first beads lift from the black water beyond the breakwall. They rose separately at first, each catching the work lamps, then in silver ropes. Within minutes the ropes became a sound like grain poured onto canvas. The open sea lowered while a white ceiling thickened above it, flat-bottomed and fixed over the coast. Rain striking the harbor reversed as it fell. Drops slowed, trembled, and went back to join the salt cloud.
 
-Tressa Vahl waited at its raw edge with one boot over the line of wet weed. Beside her, Rudek Sohl watched a brass plumb bob dangle from his fist. It pointed obediently at the ground. Above them, fish turned inside the suspended dark, and their bellies kindled whenever the sun found them.
+The oldest mast logs had been written by crews now dead. No one on the coast expected to work this day twice.
 
-One last bead clung to a stone between Tressa's boots. It shivered, stretched, and flew up.
+Water remained under the loading pier and in every covered sump. Beyond them, isolated pools shone on the emerging shelf. Mud did not dry merely because the weight above it had gone.
 
-She stepped. Rudek's heel struck the newly bared sand at the same instant.
+Jessa Marn pulled the return line through Anouk's harness buckle and slapped the gate shut. “Say your ceiling.”
 
-"The drop had not separated," Tressa said.
+“Seven-point-two kilometres outward. No extension.”
 
-Rudek planted a red-headed pin between their footprints. "My heel was below it. Station zero."
+“Turn signal?”
 
-He had not looked at her. That made the theft of precedence worse.
+“Three pulses, continuous tone.”
 
-Tressa closed the amber hood over her plate case, counted the rubbing cloths in their waxed packet, and tested the ceramic markers clipped down her shoulder strap. Nothing had shifted. She had packed the case at the first hard rain of every wet season since her thirty-first year, though the elders of the Reach said a person might spend a whole life waiting and never see the sea rise. Rudek had spent nearly as long dropping sounding lines through it. He carried contour leaves in an oilskin tube and enough steel pins to fasten a road to the earth.
+Jessa looked past her to Kasim Orrel. He was retaping a camera latch that did not need retaping. “And what do you do when I send it?”
 
-Below them, terraces slanted toward a pale basin still draining into the sky. Namarre lay somewhere on that exposed floor, if the old fragments had ever named a place rather than a wish.
+“Turn.”
 
-Rudek pulled his first bearing. Tressa set a white marker beside his red pin, one finger nearer the basin, and started down.
+“Say the rest.”
 
-The seabed had the indecency of being beautiful. Weed pressed flat in long green hair. Brine remained in bowls of violet stone, crowded with creatures that had never met air. The ocean overhead cast fast bars of light across the mud. Once a shoal passed between the explorers and the sun, magnified by the hanging water into a black migration that raced uphill over them.
+“Acknowledge, then turn.”
 
-Tressa kept her attention on the ground. Without the sea's weight, cracks were opening in the saturated clay. A terrace lip slumped as she crossed it and exhaled bubbles smelling of iron. She laid a length of rope over the break for the return, knotted it to a stone tooth, and marked the knot white.
+“Good. Noon estimate is an estimate. The mast tells me pressure and cloud shear. It does not tell me when your channel fills.” She tapped the radio on Kasim's chest. “Primary records mirror to shore. Both recording streams running. Marker check every kilometre. Lines stay tied at the two cut channels. All gear is abandonable.”
 
-"That tooth is loose," Rudek called from below.
+Anouk rested a hand on her narrow orange sample case. Empty, foam-lined, almost weightless. “Understood.”
 
-"The bed beneath it is seated."
+Kasim glanced at the case, then at her. “Everything?”
 
-"Seven degrees toward the cut."
+“Everything,” Jessa said before Anouk could answer. “Acknowledgement.”
 
-She moved the knot to the next tooth and gave him no answer.
+“Understood,” Anouk said.
 
-At the fourth terrace, his ranging staff stood on a strip too straight for nature. Tressa scraped away weed with her trowel. Two rows of fitted curb stones appeared, enclosing a bed of crushed shell.
+“Acknowledged,” Kasim said.
 
-"One in fourteen," Rudek said. "It holds the grade around the shoulder."
+The exposed bottom widened by the minute. It was no clean descent into revelation. Weed lay in dark braids. Flatfish beat shallow hollows into mud. The air, chilled by kilometres of uncovered shelf, rushed seaward hard enough to shake the marker flags they had planted from boats during the previous week. Far overhead the cloud held the missing sea, its underside the colour of old salt.
 
-"The upper precinct road bends after a rising marker."
+They crossed the normal low-water line at 06:34.
 
-"The east branch loses three spans."
+At the first marker Anouk called range, wind and surface temperature. Kasim called the line knot and the marker's lean. Jessa repeated the time and made each of them acknowledge. It was tedious, ordinary, and the only reason Anouk's breathing settled.
 
-"Before the marker. The turn is beyond it."
+Then they came to a stranded pool two hundred metres across, much of its surface sheltered beneath the broken lips of a rock basin. Small silver fish crowded its rim. Egg ribbons covered the weed, and a dozen broad-backed juveniles worked their fins under the surface, stirring the water cloudy.
 
-Thirty paces farther, a shoulder-high stone leaned out of the mud. Three lines had been carved into it. Tressa sluiced the face with water from a brine bowl, pressed thin cloth over the strokes, and rubbed charcoal across the weave. The first line gave the stepped enclosure sign. The second contained *upper* and a directional compound pointing east. On the third, only half the verb remained: a hooked foot beneath parallel bars. In one tax fragment it meant to carry; in a later hymn, to support.
+Anouk's plotted route went straight through the eastern shallows.
 
-Rudek held his level while she peeled the cloth free. "Line order?"
+Kasim stopped. “North side.”
 
-"Place. Direction. Damaged action."
+“Adds four hundred and sixty metres.” She checked the range wheel, then the pool. “Possibly five.”
 
-"Which action?"
+“North.”
 
-"Insufficient edge."
+There was no safe argument for crushing a nursery to save nine minutes. She disliked that he knew she would calculate one anyway.
 
-He glanced along the shell bed. He had seen something else; the small retreat of his jaw meant a measurement had failed to please him. He wrote on his contour leaf with his thumb hiding the figure.
+“Jessa, reachable pool at marker one plus eight. Juveniles, egg beds, likely oxygen stress by late morning. Sending coordinates. Shore team only; no shelf deployment.”
 
-Tressa folded the rubbing before he could ask for it. Eastward, the straight strip climbed toward a scatter of low rectangular shapes. Westward, Rudek's old soundings placed the largest concentration of stone beneath the Reach.
+“Received,” Jessa said. “Nearest crew can reach the landward edge. They choose what they can handle. Continue north.”
 
-"The mass is west," he said.
+Kasim had already started around. He did not thank Anouk, which was better than if he had.
 
-"The marker is not."
+At three kilometres the shelf became a rumpled plain of silt. The anomaly had lifted roughly thirty metres of water off the bottom here, more farther out. Unloaded sediment vented gas in blisters that burst with a rotten mineral smell, then slumped into soft-edged bowls. Anouk kept them east of the largest pockmarks and took a section photograph at every change in grain.
 
-"Your third line is."
+Kasim angled toward a pale ridge barely higher than the mud.
 
-"My third line is broken."
+“That bends south,” Anouk said.
 
-Rudek wound the red route cord once around the marker and took the western branch. "The rim gets downward rain first."
+“It comes back.”
 
-"I know the warning."
+“After six hundred metres. My contour reaches marker four in three-fifty.”
 
-"Then keep enough slope behind you."
+“Your contour crosses breath ground.”
 
-Tressa went east. If he meant to make caution sound like ownership of time, she could leave him to it.
+She waited for more. He crouched and pinched shell gravel from the ridge, his silence deliberate.
 
-The first rectangles resolved into a district stripped to its beds. Tressa found door sockets, a dark run where a drain lining had been lifted out, and the fused blue heel of a jar beside a kiln scar. Ordinary remnants steadied her. The legendary city had possessed bad glaze and clogged drains.
+“Is that a measured condition?” she asked.
 
-Its walls, however, were gone.
+“It is a route condition.”
 
-She searched for a fall line outside each foundation. Sudden water toppled masonry; centuries broke it further; neither process carried away every block and left the footing swept. Here the sockets were open squares. At their uphill lips lay pale extraction chips, each flake facing the same way. Small cut marks ran beside them: two bars at one doorway, five beside the next, then a boxed seven.
+“That isn't an answer.”
 
-The route verse promised seven entries before the tide-house. Tressa uncovered three thresholds, then a fourth, but the buildings stood in workmanlike rows with no ceremonial axis. At the broadest footprint she exposed a lintel bed and found no lintel, no inscription, no royal refuse. Only a pair of iron wedges remained rusted into a lever cut.
+“It was an answer before your institute changed it to ‘unverified coastal recollection.’”
 
-She photographed the wedges. Under the amber hood, the optical plate drank six heartbeats of the violent green light. When she closed the shutter, a corner of the image had already gone milk-pale.
+The old wording was not hers, though it had appeared beneath her lead authorship. She had corrected *recollection* to *route tradition* in the second proof. She had not delayed publication when the correction disappeared.
 
-Two bars. Five. Seven. The figures could enumerate loads rather than gates. Tressa wrote neither possibility on her field slate. Rudek had once printed one of her provisional readings beneath a contour figure; the correction carried her name, the first edition had not.
+Anouk set her pole toward the shorter contour. “I'm taking three-fifty.”
 
-The ground clicked under her left knee.
+“Not through the dark fans.”
 
-She rose slowly. A hairline opened across the stripped district and widened until brine welled through it. Her white marker beyond the crack tilted, vanished, and left a round hole. The whole eastern lip began to travel downslope.
+“They are drainage stains.”
 
-Tressa snatched her plate case and ran along the foundation beds. Behind her, sockets folded shut in slabs of moving clay. The old road disappeared under a slow brown curl. She aimed for a rib of shell below the slide, then saw a red cord whipping across it.
+He let three steps pass. “Left. Now.”
 
-Rudek's cord. It led down, not west.
+The ground inflated beneath her boot.
 
-She followed it around the shell rib and found him crouched behind a natural black outcrop, one hand tightening a pin while the mud dragged at the rope. Three courses of dressed stone armored the outcrop's seaward face. Everything above those courses was reef.
+Kasim caught the back of her harness and pulled. The mud ahead opened without drama, a two-metre slab sliding into a hollow as pale gas hissed through it. Anouk fell to one knee. Her section probe, clipped along her pack, struck the edge and bent at the coupling.
 
-"Your mass," Tressa said, breathing hard.
+“Back on my prints,” Kasim said. No grievance now, only direction. “Heel to shell. Don't load the grey.”
 
-"Forty spans of basalt. Nine of construction." Rudek hauled his cord clear of the slide and reeled the slack. "Your precinct?"
+“The stable strip is point-six wide.” Fear sharpened every number. “Your left boot is eleven centimetres from the boundary.”
 
-"Workshops. Extracted to foundation level."
+“Then use the middle.”
 
-"Extracted."
+She did. Once on the ridge, she checked the probe. Its casing had split; the sensor answered with a salt-noise error.
 
-"There are lever cuts. Chips on the uphill lips. Counts beside sockets."
+Jessa cut across their report. “Injuries.”
 
-He held out his hand for the rubbing.
+“None,” Kasim said.
 
-Tressa looked upslope. The eastern return was gone. The route remaining to them ran below the slump, where the straight shell bed reappeared as two faint troughs. Rudek's contour leaf would tell her whether those troughs climbed toward the old shore or merely seemed to.
+“Anouk?”
 
-She opened the rubbing over the reef stone. He flattened a contour leaf beside it. The hidden figure at his thumb was now visible: the strip lost height at an unwavering grade, cutting across the older foundation lines. A processional road would have met the district. This line ignored it.
+“No injury. Probe compromised. We lost four minutes, thirty seconds, plus route correction.”
 
-"The compound can be *borne to account*," Tressa said. "Or *held in charge*. The object is lost."
+“I asked for injury.”
 
-Rudek traced two parallel pencil lines with a muddy nail. "Runner spacing. The grooves join below your district and mine. The road never sought either rise."
+“None.”
 
-"Your soundings called the outcrop masonry."
+“Acknowledged. You are both on the raised route now?”
 
-"My soundings called it mass. I supplied the rest."
+Anouk looked at the shell gravel under her boots. It was too evenly graded to be a natural bar. “Yes.”
 
-She waited for him to turn that admission against her. He was already loosening the reef pin.
+“Say it, Kasim.”
 
-"Lower shelf is twelve degrees," he said. "Above fifteen when the clay drains. We have time for one line down it."
+“Both on route.”
 
-"One line is not a destination."
+They moved.
 
-"Then read while walking."
+***
 
-They descended beside the grooves.
+The ridge had not merely survived the sea. People had kept making it survive.
 
-Namarre became clearer as it dwindled. A court retained a hearth ring and six empty post beds; the paired grooves bent through its doorway. At a long foundation, triangular notches marked blocks in groups of four. Farther down, three traces merged, their surfaces polished beneath a sealed skin of marine silt. Tressa knelt whenever writing survived. Rudek paced widths and called no numbers unless she asked twice.
+Kasim saw the repairs in sequence as the light strengthened: fist-sized shell packed over older crushed beds, stone curbs reset with their worn faces turned inward, gaps bridged by slabs whose tool strokes came from different hands and different methods. The route rose no more than a boot above the shelf, but wherever the mud had slumped, it held.
 
-"These bars precede the extraction," she said at a stripped stair. "Cut before the lever scars."
+His grandmother's tide verse had named no king. It counted safe bearings from a split headland to a reef shaped like a sleeping hand, then to “the six works where fresh meets bitter.” At the institute table, spoken measures had become atmosphere while Anouk's contours became evidence. Since then he had learned to spend context carefully.
 
-"Which side counted first?"
+At marker five the pale ridge met what the old charts called the royal avenue. Anouk planted the range pole and stared at the cut face of a collapsed bank.
 
-"The low side. Then the corner. Then the risers."
+“Stop,” she said.
 
-Rudek put a boot into one groove. "Loaded sled starts at the risers. The deeper runner begins there."
+Kasim waited.
 
-"It begins where the block entered."
+She scraped three narrow windows in the silt with her trowel, one above another. “The avenue surface crosses this lower storm bed. Twenty metres on, it sits above the upper bed. Farther west it cuts both. A single paved approach can't occupy three sediment ages unless it moved or was repeatedly rebuilt.”
 
-"The depth changes at that lip. Loaded from there."
+“Or unless it isn't an avenue.”
 
-She entered his observation under her sequence, but omitted his conclusion.
+“That remains an alternative.”
 
-At the next crossing he stopped, drove a thin blade through the pale upper sediment, and peeled back a section no wider than a finger. The dark groove ended below it without breaking the marine layer.
+He almost laughed, not because it was funny. *Alternative* was Anouk's word for the door she left unlocked when she did not want to enter a room yet.
 
-"Dry cut," he said. "Then the first seabed settled over it."
+He pointed down the pale route. “Three curb styles so far. Pecked sockets, split wedges, then the narrow chisel. Repairs come from both directions. This stretch was relaid after the west branch failed.”
 
-Tressa crouched beside him. The stratigraphy was clean. No salvage crew beneath an established sea had opened that track. She wanted a label, a date, a reason; the ground offered order instead.
+“Can you reproduce that order from the marks?”
 
-"Before continuous inundation," she said.
+“Camera.”
 
-"Write the bed. Don't improve it."
+She gave it to him instead of asking again. He recorded the joins, running one gloved finger beside the changes without touching them. Anouk laid scale tabs. Her paper notebook received a quick section: lower bed, upper bed, road metal, cut relationships. His route map received arrows for the repair sequence.
 
-She wrote: *paired load trace sealed beneath earliest visible marine deposit*. It took too much room and said exactly enough.
+Neither evidence made the other true. Together they made the royal avenue unlikely.
 
-Above, the suspended ocean shifted lower. A fishing boat rode its far surface like a toy seen through dark glass. Someone aboard let down a weighted line; the weight emerged from the water and hung uselessly in the air far above the basin. Its shadow swept over a dozen empty houses and vanished.
+At 09:17 the ridge delivered them to Namarra.
 
-The traces converged at a rectangle wider than the workshop district. Six approaches entered it, though only foundations survived. On the western side, an array of deep sockets described a hall. Along the eastern edge, steps had been removed so methodically that only their side braces remained.
+The legendary crown court stood only waist-high. Its roof and upper walls were gone, leaving ranks of stone cells open to the salt cloud. Sluice sockets pierced the partitions. Pale lime coated some basins in thick, repeated layers; others held oyster scars and small branching reefs, still wet and bright. Rectangular absences lay between them where entire structures had been lifted from their seats.
 
-Tressa's old route fragment named a house of measures where ways met. Later copies called it the palace from which Namarre's rulers commanded the tides. Standing inside the stripped rectangle, she could prove neither house nor palace. Rudek did not ask which she preferred.
+Kasim walked the perimeter first. Every opening had wear on the waterward edge. The supposed throne at the centre narrowed into two low wings, one face smooth from centuries of flow.
 
-He set three pins along the western grooves. Tressa searched the stair braces for writing and found a slab pitched facedown in blue clay. Its broken upper end had once fitted the second landing. She probed beneath the protected edge with her trowel. The blade clicked across shallow incisions.
+Anouk stopped beside it. “Divider.”
 
-Rudek slid the flat lip of his pry bar beside the trowel.
+“Yes.”
 
-"One finger," Tressa said. "No more."
+“Not a seat.”
 
-He bore down exactly enough to keep the narrow gap open while she scooped clay by hand. Neither spoke until nine lines showed.
+“No.”
 
-The first sign was the old form of Namarre.
+Wind moved through the empty cells with a bottle note. For a while they said nothing.
 
-Tressa's fingers went still. It was no wandering adjective in a copied song, no inland stone divorced from its bed. Namarre named the tally beneath her hand. After it came the administrative enclosure and a sequence of places.
+Kasim knew the old public rendering: a gold-roofed hall, the drowned king holding court while divine rain swallowed his capital. Children along the coast knew it too. But these floors sloped. These sockets had taken gates. Fresh water, when it came down from land, could have been held and mixed here with the tide. The cells might have grown shellfish, nursed reef, settled silt, or done all three in different seasons. A commons was not less difficult than a palace. It was only harder to put on a coin.
 
-"Read from the head," Rudek said.
+“Marks,” he said.
 
-"Namarre. Account closed." She moved the lamp. "East steps: eleven prepared loads, borne, complete. Bath court: nineteen. Archive rooms: twenty-six, with the lintels entered separately."
+At the base of the divider, shallow quarry signs repeated in clusters. He counted aloud while Anouk filmed.
 
-"Borne where?"
+“Forked line. Two cups. Bar and notch. Closed eye. Three strokes. Crescent cut.”
 
-"The verb has no destination here."
+“Six groups,” she said.
 
-He shifted the lamp toward the broken edge. "Lost column?"
+“Six marking groups. Don't call them six communities yet.”
 
-"Totals. Inspector's marks. No place."
+She lowered the camera a fraction. “Correction recorded.”
 
-They exposed another hand's breadth. The list continued through halls, drains, courts, and foundation courses. Every surviving row ended in the same square completion mark. Tressa matched the boxed figures to the cut groups she had seen upslope. Two, five, seven had not been gates. They were stages in dismantling the workshop row.
+The shell-lime told its own sequence under her lens: coarse white aggregate, darker repair, white again, then a red-flecked cap. Kasim found sockets narrowed with inserts, cracked gates reseated, and a drain mouth polished by more water than a ceremonial room should ever admit.
 
-Rudek brought his contour leaf to the slab. His three new bearings extended the paired grooves from the great rectangle into the lower traces. Higher up, those traces joined the constant-grade way. Its climb aimed at the former coast.
+Behind the cells, paired grooves ran upslope toward the distant coastal rise. Dismantling scars stepped across the empty building seats: wedge cuts, lever bruises, clean gaps where fitted blocks had been removed rather than broken.
 
-"The loads leave here," he said. "Converge at the stripped courts. Rise landward."
+“Haul line,” he said. His voice came out too softly for the recorder.
 
-"Toward land. Your sheet ends at station zero."
+Anouk angled it toward him. “Repeat.”
 
-"The grade continues above it."
+“Possible uphill haul line. Components removed in an order. Gates first, capstones after. They had time.”
 
-"Under the present cliff, perhaps. Not on this record."
+“Or returned over multiple low-water seasons.”
 
-"Then name the load."
+“Look at the socket fill. Same growth boundary.”
 
-Tressa looked from the tally to the empty stair beds, then along the runners ground into ancient dry clay. "Building stone. Ordered by structure. Removed before the marine bed formed."
+She knelt, measured, then changed pencils. “Dismantling within one bounded interval is better supported. Planned retreat remains an interpretation.”
 
-"All of it."
+“Better than a king who waited on his chair.”
 
-"The structures in the tally. The same wear continues through three districts."
+“It does not identify their politics, Kasim.”
 
-"So write dismantled."
+“I didn't say it did.”
 
-"Dismantled here. The counts give no motive."
+He turned away before they could rebuild the institute table here. There was work: six mark groups, four lining phases, three gate widths. A channel map to draw. A place that had been maintained by many hands and emptied with care.
 
-He pressed a thumb beside one of the grooves. "I gave a direction."
+He could call this much without calling the rest: a floodable reef-and-water commons, kept by several work groups and dismantled uphill in a planned retreat. No king proven. No capital, no cause of the drowning, no claim over whatever else Namarra had been. Beyond the mapped works, his page stayed blank.
 
-"Toward land. No farther."
+***
 
-The people were absent from the evidence as well. Nothing on the slab said whether the hands that numbered the loads belonged to citizens departing with their city, laborers under conquest, or salvagers working ahead of a known flood. Namarre had existed. Its absence was not the patient theft of waves. Someone had emptied it with wedges, runners, lists, and time.
+The red-flecked lining moved under Anouk's pick.
 
-A sound like seed striking paper came from high on the slope.
+Only half a millimetre, but enough to promise a clean flake. Mineral analysis could separate the repair phases, perhaps source the aggregate. She set the sample case beside the basin and slid a thin blade under the lifted edge.
 
-Tressa turned. At the coastal rim, widely spaced dark spots appeared in the dust. Downward rain. The warning had reached them with the eastern return already gone and the tally still uncovered. The lower skin of the sea overhead had begun to fray.
+Kasim put two fingers on the case lid. “No.”
 
-Rudek drew his pry bar. "The name edge is movable."
+“It's already detached.”
 
-"With a fracture through line three."
+“It keys the lining beside it.”
 
-"Better stone than a bleached plate."
+“I need less than three grams.”
 
-Tressa pulled rubbing cloth over the gap. It covered five lines, not enough. "The edge without its face and station proves a carved name. Nothing else."
+He pointed, not at the flake but at the hairline cracks radiating into the damp wall. The basin had lost the water pressure that normally supported it. Even Anouk's breath seemed to trouble the surface.
 
-"A complete rubbing takes twenty minutes. The firm shelf is eleven minutes up."
+“You take that,” he said, “the next course opens.”
 
-The first drops reached the central foundation. One struck Tressa's wrist, warm from its fall through the suspended water. Another darkened the clay beside the slab. Rudek looked at the pry bar, then at the widening wet points. He slid the bar back through his pack loops.
+“A consolidator can—”
 
-Tressa tore her longest cloth into two workable lengths. Rudek was already planting a fixed-point scale beside the exposed rows. He set her lettered marker against it without asking. She pressed charcoal over the first section while he uncovered a plate beneath the amber hood.
+“No one gets here before the return.”
 
-"Station twenty-eight," he said. "Bearing back to twenty-seven, east six."
+She held the blade still. Three grams would turn *possible phases* into ratios, dates, provenance. Three grams could also take a palm-sized skin with it, and the water coming back would finish the tear.
 
-She wrote the figures in the rubbing margin.
+Anouk withdrew the blade. “Scale and oblique light.”
 
-"Line E under the scale," she said. "The broken hook belongs below D, not beside it."
+Kasim released the case. “I'll hold the reflector.”
 
-He lowered the camera until she could see the plate frame. She shifted the scale one finger-width. The shutter clicked. He covered the plate; she stripped off the first rubbing and laid the second.
+They recorded the flake in place.
 
-They did not copy everything. Tressa left two faint rows untouched rather than guess at them in mud. Rudek abandoned his fourth angle when the western pin leaned. The rain thickened, peppering the foundation, and blue clay began to flow into the trench. Before it swallowed the tally, Tressa folded the damp rubbings around a flat board. Rudek pulled his scale free.
+At the uphill edge, however, Kasim kept looking toward the paired grooves. They passed marker seven and continued to 7.08 kilometres, where the grooves climbed through a tumble of dressed blocks. Above, the exposed line pointed toward a dark shelf at the base of the coastal rise.
 
-The slab remained where they had found it.
+“We can reach the first seat,” he said. “Twenty minutes.”
 
-They climbed.
+“Twenty-two outward at our present grade. Twenty-eight back if the mud remains unchanged.”
 
-Water falling from the sea erased the basin in patches. The load traces filled until they looked like twin black streams. On the first rise, Rudek chose the direct grade; three steps later a crack crossed it and opened under his forward boot. He backed away without comment.
+“You can't know twenty-eight.”
 
-"West of the hearth ring," Tressa said. "Then the foundation with four corner groups."
+“I can bound it. We have forty-one minutes of return reserve, excluding a channel delay. At the seat we'd have minus nine to plus four.”
 
-"Your hearth is under runoff."
+He stared uphill. The route annotations in his hand had become tight black layers. “One image. Not a survey.”
 
-"The west socket held green glass."
+“No.”
 
-He sighted through the rain and found the hard glint. "Below it. The upper clay has lost its toe."
+“The haul direction is the custody chain.”
 
-They traversed beneath the socket. Tressa located the foundations by the order of their count marks, Rudek read which edges still carried weight. Where her memory tried to turn east toward the vanished workshop road, his blade found hollow mud. Where his contour leaf proposed a clean western ascent, her half-buried marker showed the route ended at the slump.
+“And it will still point uphill after today. We won't.”
 
-At the black reef, the dressed facing stone Rudek had loosened lay beside his old pin. He passed it without slowing. His red cord had pulled taut across a new fissure. Tressa found her rope two terraces above, but the loose stone tooth had gone. The rope's white knot protruded from the mud on the safer side of the cut.
+For three breaths he said nothing. Then he drew a hard stop across his map at 7.08 and wrote the bearing beside it.
 
-"Your seven degrees," she said.
+“Turn point,” he said.
 
-Rudek tested the lower lip with his blade. "Nine now. Cross on the shell, one at a time."
+Anouk called it to Jessa.
 
-She crossed first. The ocean roof was descending visibly, its vast underside unraveling into rain. Fish shadows grew sharper. The cliff shelters appeared and disappeared behind silver sheets. Tressa's calves had begun to seize, and charcoal from the wrapped rubbings bled black through her sleeve.
+Static burst over the reply. “Turn confirmed. Cloud base has begun shearing east. Earlier than the weather pairs. I am not giving you a minute. Start return documentation now, ten minutes maximum.”
 
-Rudek caught up at station zero. His red-headed pin still stood between their two footprints. Water sheeted around it toward the drained basin.
+“We need eighteen,” Anouk said.
 
-Neither touched it.
+“You have ten. Acknowledge.”
 
-They reached the nearest shelter while the suspended sea was still rain rather than impact. Together they heaved the stone shutter inward. The last gap closed as the first broad mass of water struck the Reach.
+A cold drop struck Anouk's wrist. Unlike the silver beads still streaming upward from exposed channels, this one ran down into her glove.
 
-The chamber shook. Dust fell from the roof. Outside, the sea returned with a noise so dense Tressa felt it through her teeth. The stripped foundations, the sealed grooves, and the tally vanished under moving black water.
+“Downward rain at seven-point-zero-eight,” she reported.
 
-She knelt by the shelter lamp and opened the rubbings. The first had taken cleanly. The second was smeared across two building names, but its completion signs remained. Across from her, Rudek slid his plates into a developing sleeve. One had fogged; two held the scale, slab, grooves, and station pins in hard green detail.
+“That is the warning. Acknowledge ten.”
 
-Tressa pulled a report leaf from her case and wrote: *At Namarre, its principal structures were dismantled before inundation and carried landward—*
+“Ten acknowledged.”
 
-"Toward land," Rudek said. He was measuring the distance between two pins on plate three. "You have no terminal station."
+Kasim keyed his radio. “Acknowledged.”
 
-She scraped out *carried landward* and wrote *moved toward the former coast*.
+They worked without a thesis. Anouk numbered section drawings and read only orientations and uncertainties into the recorder. Kasim corrected gate direction twice. He mapped repairs, not meanings. The camera passed between them until salt condensed along its grip.
 
-"Former at which deposit?"
+At minute six Anouk's recorder gave a long digital chirp. Every level on its screen rose to white.
 
-"The first continuous marine bed above the runners."
+“Salt bridge,” she said. She pulled the power. “Local file may be corrupt from 09:03.”
 
-"That belongs before the direction."
+Kasim had already spread her paper sections across the closed sample case. “Camera time is good. My route notes start at marker two.”
 
-"Second clause. If the bed leads, Namarre disappears behind the section."
+“Your page order?”
 
-Rudek slid plate three across the floor. "Then the first clause overstates."
+“Blue corners outward. Green return.”
 
-"The plate does not name the site."
+“Jessa, prepare composite ingest. One failed recorder. Sources are paper sections, annotated route sheets, camera audio and image.”
 
-"Your tally does not show the route."
+“Ready. Give custody before files.”
 
-Tressa set the report leaf beside the rubbing, shifted *Namarre* back to the first clause, and asked him for the grade between stations twenty-seven and twenty-eight. He gave her two numbers and objected when she chose the second. Outside, stones rolled across the seabed again while she scraped the first sentence clean.
+Kasim looked at Anouk. Rain ticked downward among the upward streams, two directions briefly sharing the air.
+
+She said, “Joint discovery credit. Separate responsibility: Verren, sections and stratigraphic alternatives; Orrel, route sequence, masonry repair and practice.”
+
+“Coastal archive receives the same set,” Kasim said. “Coordinates embargoed.”
+
+“Embargo pending site protection review. Neither party may publish coordinates or authorize removal alone.”
+
+“Both retain full copies,” he said.
+
+“Both retain copies. Checksums to Marn and archive at transfer.”
+
+Jessa interrupted. “I need each voice on all terms. Kasim first.”
+
+He repeated them, less neatly, looking at the grooves that continued uphill. Anouk repeated them after him. Joint credit; named separate responsibilities; mirrored full files; two checksum recipients; location embargo; no sole publication of coordinates, no sole authority to remove material.
+
+“Received and mirrored,” Jessa said. “Archive handshake pending. Pack. Turn now.”
+
+Anouk closed the empty sample case.
+
+***
+
+The first old channel filled before they reached marker six.
+
+Kasim heard it ahead, a low cluttering rush. Downward drops had become steady rain, collecting in every crease while open water continued to bead skyward from the deeper cuts. The mixed motion confused distance. A shallow runnel could look like a solid grey path until it folded around a stone.
+
+Anouk led them onto a series of sandstone ribs above the forming flow. She moved by numbers now.
+
+“Bearing two-eight-four. Rib width one-point-three. Gap in eleven metres.”
+
+“Your right side is rotten,” Kasim said.
+
+“The contour holds.”
+
+He struck the rib with his heel. The surface answered hollow. “The contour isn't footing. Left seam.”
+
+She shifted without argument. At the gap he found a chain of fitted stones under the weed, remnants of the raised route, and placed each boot before waving her across.
+
+Behind them gas burst through their earlier shortcut in a row of pale fountains. The mud sagged. The direct contour vanished into a widening bowl.
+
+“Marker six line?” Jessa asked.
+
+“Visual,” Kasim said. “Channel between.”
+
+“Depth?”
+
+“Growing.”
+
+“I need a number.”
+
+Anouk crouched at the edge. “Eighteen centimetres at the staff. Plus four per minute, uncertain by one.”
+
+“Cross now. Acknowledge.”
+
+“Acknowledged,” they said, not quite together.
+
+The preplaced line bowed in the current. Kasim clipped in first and crossed sideways, testing for the buried curb with his toes. Halfway through, the damaged probe on Anouk's pack caught the line and swung her downstream.
+
+“Drop it,” he said.
+
+“The memory unit—”
+
+“Is salt noise. Drop.”
+
+She unclipped the probe. It vanished into the brown water. At the far bank the orange sample case wedged between two stones. Empty, it pulled hard enough to tilt her.
+
+“Case too,” Kasim said.
+
+She cut it free.
+
+At marker four the salt cloud darkened from below. What had been a ceiling became a hanging sea, mottled by currents no shore instrument could see. Jessa's continuous tone sounded in their radios, three pulses first.
+
+“Turn signal already obeyed,” Anouk said, breath clipping the words. “Why repeat?”
+
+“Return ceiling,” Jessa replied. “You have seventy-three minutes to the high line by present pressure trend. That is a warning, not a promise. Acknowledge.”
+
+“Seventy-three. Not a promise. Acknowledged.”
+
+Kasim pressed his transmit key twice before he had air. “Acknowledged.”
+
+The nursery pool had overflowed its eastern rim, exactly where Anouk's original route would have taken them. The juveniles still circled in the deep centre. At the landward edge, two shore workers in orange suits had reached the basin with aeration packs and small transport tubs. They had not saved the shelf. They had chosen what could be reached.
+
+Kasim took the northern detour again.
+
+“Shorter across the rim now,” Anouk said.
+
+He looked once at the stirred water.
+
+“North,” she said, correcting herself. “Four hundred and twelve metres.”
+
+By marker two their speech had worn down to parts.
+
+“Rib.”
+
+“Soft left.”
+
+“Line.”
+
+“Clipped.”
+
+“Foot.”
+
+“Found.”
+
+At marker one the archive tone sounded: three clean notes from Kasim's radio. He nearly stopped.
+
+Jessa did not let him. “Archive checksum matches both mirrored sets. Coordinates sealed. Keep moving.”
+
+Anouk breathed beside him, each exhale a small raw sound. “Paper?”
+
+“Inside layer. Dry.”
+
+“Camera?”
+
+He slapped the chest pouch. “Here.”
+
+That was all.
+
+They reached the high line as the upward beads thinned. Jessa came down the last stones, clipped a second rope into Anouk's harness, then Kasim's, and hauled without asking what they had found. Together they dragged the surviving packs above the breakwall.
+
+The salt cloud released before they cleared the instruments.
+
+The sea did not fall as drops. It came down as one white moving wall beyond the harbor, swallowing the exposed shelf from its channels outward. Wind flattened the three of them over the mast case. Jessa counted the latches as they crawled it inland.
+
+“One.”
+
+Kasim locked the lower catch.
+
+“Two.”
+
+Anouk locked the upper.
+
+“Cable.”
+
+“Clear,” Kasim said.
+
+“Say it, Anouk.”
+
+Anouk looked once toward the place where Namarra had been visible: no throne, no court, only gates, repair marks, emptied seats and a route continuing uphill under the returned water.
+
+“Clear,” she said, and they pulled.

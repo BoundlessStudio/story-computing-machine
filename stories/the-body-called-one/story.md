@@ -8,467 +8,374 @@ canon: false
 
 # The Body Called One
 
-Unit 02 would not let go of Meyda's left hand.
+The stolen courier banked when Loxan Vythe tried to close her left hand.
 
-The combat frame lay on its side across the black shale, one leg folded under
-the hull and the other pointing at the stars. Heat came off it in oily breaths.
-Inside the split cockpit, restraint bands tightened and released in a dying
-cycle, pinning Meyda's wrist, loosening, then catching her again before she
-could pull free.
+Metal dust slid across the forward glass. A broken antenna mast turned end over end beyond it, black against Harrowstar's white glare, and the courier's proximity alarm knocked twice through Loxan's teeth. She opened her hand. The ship leveled.
 
-She waited for the third release, turned her thumb into the narrow space she
-had made, and cut through the glove. The blade nicked skin. The next contraction
-closed on empty fabric.
+Her fingers lay in the restraint cradle where fingers belonged: five pale lengths, too many joints to account for, each tipped with a blunt nail. They were not port vanes. They did not have thrust authority. Less than an hour after the rebels had torn her active pattern out of Unit 02, her new body still disagreed.
 
-Meyda slid down the frame's flank and landed badly. Her right knee flashed
-white. She converted the pain as she always did: load-bearing compromised,
-speed reduced, no effect on aim. By the time the cockpit tried to close, she
-was twenty paces away with the flight recorder under one arm.
+“That was yours,” Mursa said through the bone link.
 
-Static found her receiver. "Varr. Status."
+Loxan pressed her tongue to the rear molar that acknowledged audio. A green bracket closed around the tumbling mast.
 
-The rebel control operator sounded too calm. That meant everyone at the quarry
-rendezvous was listening.
+“I mean the bank,” Mursa added. “Courier controls show no fault.”
 
-"Separated," Meyda said. "Unit dead."
+“I know.”
 
-Behind her, Unit 02's dorsal lights came on in sequence. The sequence stopped
-at six, began again, and failed at four.
+Mursa's carrier thinned as debris passed between them. Her voice lost its lower register first, leaving the consonants sharp inside Loxan's jaw. “Then I can stop checking the courier and return to checking the retrieval craft. Seven hours at their current burn. Less if they know where the annex is.”
 
-"Then come home. Retrieval window is forty-three minutes."
+The emergency shell's support meter showed nine hours and twelve minutes. It had shown ten when Loxan launched. Nobody had promised it would count honestly.
 
-"I know the window."
+Ahead, the debris lane thickened into the remains of an orbital foundry: girders, slag blisters, rooms sliced open to vacuum. Harrowstar Annex was somewhere inside. Directorate records called it decommissioned. Directorate ships had changed course the moment Loxan transmitted Unit 02's calibration code into the ruins.
 
-"Your beacon says you aren't moving."
+“We can still make the rendezvous,” Mursa said. “Turn out now, you'll have fuel for the quiet route.”
 
-Meyda looked east. Beyond the shale ridge, an old service road descended into
-the dry country. The recorder had woken when the frame hit the ground. Its
-cracked display showed a fault the rebels had never seen in captured Units:
+“And the next pilot?”
 
-`PREDECESSOR DEPENDENCY UNRESOLVED`
+Static washed the answer away. A moment later Mursa sent three amber glyphs to the courier's display: SIGNAL LOST, HOLD VECTOR, RETRYING.
 
-Below it, a location pulsed six kilometers away. FATHOM NULL. The name did
-not appear on any rebel survey she had studied before stealing the frame.
+Loxan held vector. She had spent four years believing Unit 02's artificial cockpit was wrapped around her—believing her body slept somewhere below the armored deck while her nerves reached into a vehicle. When Mursa's people opened the service channel, there had been no sleeping pilot to recover. Only the flight pattern, cut loose into this failing shell, and Unit 02 falling silent behind her.
 
-The Unit program had erased three settlements to keep one damaged cockpit out
-of rebel hands. A predecessor's control maps might be worth more than the
-machine she had just broken.
+Directorate records said Unit 01 had flown before her. Its control map might explain how the Directorate had done that. It might be the key to opening every other sealed cockpit.
 
-"My transmitter took a hit," she said. "Expect gaps."
+Mursa returned as a buzz behind Loxan's right ear. “I said the next pilot needs a command seed, not your wreckage.”
 
-"Meyda."
+“Find me one without going in.”
 
-The operator knew the texture of her lies, if not their destination.
+Mursa breathed once over the link. Paper rustled on her end; she still kept sums on paper when she did not trust a system. “Six hours, forty-one minutes until they can acquire us. I want that number acknowledged.”
 
-"Forty-three minutes," Meyda said, and shut off the receiver.
+Loxan touched the molar. Then an obsolete guidance light winked among the wreckage.
 
-She took the service road.
+Blue. Dark. Blue-blue.
 
-Fathom Null had been built beneath a pumping station whose pipes had long
-ago filled with sand. The surface buildings were square shadows under the
-stars. No sentry lights followed her. No aerials turned. Meyda crossed the yard
-with Unit 02's recorder against her ribs and found a freight door buried behind
-a collapsed water tank.
+Her right shoulder pulled back before the second pulse. She drove the courier down and through a gap that had looked too narrow. The broken foundry rolled above her. A beam passed so close that its frost streaked the glass.
 
-The reader beside it ignored the recorder.
+“Loxan.”
 
-She tried the flight key, the theft key, and a bypass strip peeled from Unit
-02's emergency panel. Nothing. Then she leaned close to inspect the reader's
-seam, and its dark glass lit beneath her bare palm.
+“Clear.”
 
-`LOAD DETECTED`
+“You moved before I marked the route.”
 
-Two bars rose from the dust at her feet. She stepped back. The bars sank. When
-she approached again, they bracketed her boots, one slightly farther forward
-than the other.
+She had. The turn had arrived as a flinch along a limb she no longer possessed, a long rigid span hinging from somewhere behind her ribs. Port control surface, she would have called it yesterday. Now her small shoulder throbbed where the impulse had ended.
 
-"You want a gait," she murmured.
+“Inherited calibration,” Mursa said. “That's why we're here.”
 
-The door remained shut.
+The lights led them deeper.
 
-Meyda put her left foot between the bars and advanced. On the second step, a
-tingle ran from the scar below her shoulder blade to her elbow. Her hand rose
-without permission, fingers opening toward the reader. She seized her wrist
-with the other hand. For a moment her arms strained against each other.
+Harrowstar Annex did not have a hangar. It had a slit in the foundry wall just wide enough for the courier, followed by a docking throat that tightened around the hull like a measuring ring. When Loxan laid her hand on the neural plate, faded words appeared across the forward glass.
 
-The tingling stopped. Her lifted hand stayed where she held it.
+UNIT 02 CALIBRATION SIGNATURE.
 
-Meyda breathed once, then let go. The hand dropped. She could choose that much.
+RETURN ACCEPTED.
 
-On the next attempt, she allowed the tug to carry her palm to the glass. Her
-fingers spread in a pattern she would not have chosen—index and middle finger
-together, the others wide.
+The clamps caught.
 
-The freight door opened.
+Loxan unstrapped. Standing remained a sequence she had to perform consciously: feet under hips, weight forward, knees released but not too far. Unit 02 had never needed knees. The shell was adult-sized but spare, grown quickly around bone that had not thickened under gravity. A clear support line entered beneath her lowest rib and trailed to a pack at her waist. It tugged when she moved.
 
-Inside, a wall display counted backward from two hours and seventeen minutes.
+“Seal reads clean,” Mursa said. “Your pack?”
 
-`UNSCHEDULED UNIT 02 RETURN`
+Loxan showed the status icon to the link.
 
-`SANITATION PURGE AT ZERO`
+“Eight fifty-six. It is counting worse.”
 
-`DEPENDENCY DETECTED`
+“Noted.”
 
-A second line appeared before she could decide what it meant.
+She crossed the lock. On the annex side, the door had a hand-shaped contact sunk into its center. Human-sized. The walls beyond were too close for aircraft and too wide for ducts, with grab rails at shoulder height and colored maintenance bands worn smooth by palms.
 
-`RECOVERY CRAWLER DISPATCHED`
+Loxan fitted her hand to the contact.
 
-Somewhere below, a motor started. Far behind her, out on the shale, Unit 02
-answered with a thin electronic howl.
+The annex struck a chord through her skeleton.
 
-Meyda entered and pulled the freight door shut. The rebels would already be
-moving the rendezvous. Two hours was time enough to find a control map and
-leave by another route. If Fathom Null had a crawler capable of hauling the
-wreck, the facility would obligingly bring the frame to her. She filed that as
-useful until she had evidence otherwise.
+It was not music. The low tone settled behind her eyes while a higher one traveled along the right side of her jaw and vanished. Red flooded her vision. Then violet. Then a white horizon tipped six degrees to the left.
 
-The first level encouraged the mistake.
+She corrected against it. Her heel left the deck.
 
-There were ceiling cranes, folded service arms, bins of ceramic joint sleeves,
-and cradles large enough to hold Unit 02's torso. Meyda moved quickly, following
-orange maintenance lines toward the archive symbols. The recorder opened three
-sealed cabinets. One held old calibration blocks. Another held bundles of
-pressure cloth, each printed with a number and a length.
+“What did it send?” Mursa asked.
 
-The lengths increased by increments no machine shop would use: eighty-six
-centimeters, ninety-two, ninety-seven.
+“Balance test.”
 
-She shut the cabinet.
+“I got an airframe diagnostic.”
 
-Beyond the machine bay, the ceiling lowered. The service arms became braces.
-The braces became smaller.
+Lines assembled in Loxan's sight: a central chamber, paired structures extending laterally, a round sensor housing above. The archive colored the left extension yellow. It looked enough like a craft if she held still.
 
-Meyda passed a rack of narrow boots with conductive mesh in the soles. A
-pressure suit hung open on a fitting stand, its shoulders scarcely wider than
-her hips. Tubes descended beside a reclining couch to ports labeled for water,
-nutrient, and waste. On the wall, faded adhesive marks made a vertical ladder.
-Dates had once been written beside them. Someone had scraped the writing away,
-but not the shallow knife strokes underneath.
+She blinked.
 
-She touched the lowest mark. It reached her thigh.
+For that fraction of darkness, the diagram's horizon disappeared too.
 
-Prototype components, she told herself. Scale models. Animal fittings. The
-Unit program had built machines around every kind of ugly test.
+Loxan blinked again. The recorded field pinched downward beneath a fringe of black curves.
 
-The corridor turned. A knee brace waited on a metal bench. Its right inner pad
-had been shaved down, not symmetrically but in a crescent that matched the wear
-Meyda put into every flight harness. Rebel mechanics accused her of twisting
-when she braced. She had told them their seats were wrong.
+“Airframes don't interrupt telemetry to wet their sensors,” she said.
 
-She set the recorder beside the brace. Its display changed.
+“Send it.”
 
-`PREDECESSOR PROXIMITY: 0.4 M`
+Loxan pressed two fingers harder into the contact. Mursa received what the annex allowed through: a compressed visual trace, a frequency sweep, vectors labeled as pitch and roll.
 
-Meyda lifted the recorder. The number fell to 0.2.
+“Could be pilot capture,” Mursa said. She spoke faster when assembling a signal theory, each condition slotted before the next. “They may have used someone's inputs as a reference set. Unit 01 could still be hardware built from that set.”
 
-She moved it toward the brace. The number climbed.
+The white horizon rolled. Loxan's stomach tightened a moment after her eyes had already told her she was falling.
 
-She moved it back toward her chest.
+“Six-degree correction,” Mursa continued. “Same bias Unit 02 carried.”
 
-`0.0 M`
+Loxan let go. The corridor returned, level and gray. Her body did not believe it.
 
-The old node beneath her shoulder scar gave a small, intimate pulse.
+“I carried,” she said.
 
-Meyda put the recorder down as if it had burned her. The proximity remained
-zero.
+Mursa went quiet.
 
-From the freight tunnel came a distant iron clatter. The recovery crawler was
-bringing Unit 02 home.
+They moved inward. Loxan's boots woke strips of service light one at a time. Every third strip failed, and Mursa filled the dark spaces with a thin arrow in Loxan's visual field. LEFT. TWELVE METERS. DOWN ONE LEVEL. The glyphs were steadier than Mursa's voice. Harrowstar's bulk absorbed more of the carrier with every partition.
 
-The archive room had no terminal sized for a standing adult. Meyda sat on a low
-stool before a slanted console. Her right knee rose almost to her chin. When she
-pressed the recorder into its dock, old categories filled the display.
+The first maintenance room held six vertical frames. They were narrow at the shoulders, broad at the hips, and fitted with cups for heels. Bundles of mineral-stiff tubing hung where heads would rest.
 
-UNIT 02 occupied six columns: armor, amplification, flight, weapons, enclosure,
-and support.
+Not aircraft racks. Cradles.
 
-UNIT 01 occupied one.
+On the nearest frame, a painted legend remained under layers of cleaning abrasion.
 
-LONGITUDINAL CARE.
+EMBODIMENT SERVICE.
 
-Meyda opened it.
+Loxan touched the next panel with the back of her hand. She had learned not to trust her fingertips; the shell reported pressure there a quarter second late. A column of colored blocks appeared, then resolved under Mursa's decoding into service categories.
 
-The entries were inventories, not histories. Meal compounds. Sleep duration.
-Skin temperature. Replacement molars. Bone length. A recurring request for the
-right knee brace to be relieved by three millimeters. The records did not use
-the words girl or child. They used load, adaptation, compliance, growth.
+OPTIC: RIGHT RETINAL INTERRUPTION.
 
-Growth.
+A bright thread crossed Loxan's sight. She turned instinctively from a light that was not there. Unit 02's starboard camera had always flared along that exact angle. Maintenance had called it a harmless manufacturing seam.
 
-She scrolled back to the earliest surviving year. Unit 01 weighed seven
-kilograms. The next year it weighed nine.
+The archive sounded another frequency sweep through the frame. Loxan heard the tones descend until one vanished on the right, returned, vanished again. Unit 02's internal alarms had a dead band there. The Directorate had boosted them rather than repair the receiver.
 
-The scar beneath Meyda's shoulder prickled again.
+Mursa sent a request for the raw table. “The notches match.”
 
-"Display Unit 01," she said.
+Loxan leaned her forearm into a restraint cup. The frame sampled her posture. A muscle plot drew itself in orange: left shoulder rotation shortened after pain response; right hip compensated; head tipped against an unreliable horizon.
 
-The screen marked her command invalid. A ceiling speaker issued a soft tone,
-then a recorded voice said, "Unit 01 is present."
+She knew the sequence before the plot finished. She had used it to bring Unit 02 out of a spin over the salt planet, dragging thrust on the right because the left side would not answer quickly enough. The maneuver had earned her a medal she never touched.
 
-The voice was neither kind nor cruel. It had been assembled to be understood
-through sedation.
+“Three matches,” Mursa said. “Visual, audio, control.”
 
-"Display its chassis."
+“Body.”
 
-"Unit 01 is present."
+“Not body. Not yet.”
 
-"Show me the predecessor to Unit 02."
+Loxan pushed away from the frame. Her left shoulder caught, a small hot refusal. The plot's yellow line stopped at the same angle.
 
-The console lit a path deeper into the facility.
+“Four,” she said.
 
-"Diagnostic confirmation required," the voice said.
+The room changed around them.
 
-Meyda almost laughed. It came out as a dry click in her throat. "Of course it
-is."
+Partitions dropped over both exits. The service lights turned red. Text stepped across every frame, identical and unhurried.
 
-The route ended at a chamber with a door no wider than her shoulders. Inside
-stood a vertical scanner and a padded platform worn smooth at three different
-heights. The walls were covered in dull glass. She could see herself only as a
-blur: cropped hair, torn flight suit, one glove missing, blood drying along her
-left thumb.
+LOOSE PROGRAM MATERIAL DETECTED.
 
-The purge clock showed one hour and twenty-nine minutes. Unit 02's crawler
-rumbled closer beneath the floor.
+UNIT 02 ACTIVE PATTERN.
 
-Meyda could still leave. She had enough to tell the rebels that the predecessor
-was biological, probably dead, and somehow keyed to her implants. She could
-bring back the recorder and let other people name what that meant.
+RE-INTEGRATION ROUTE PREPARING.
 
-Instead she stepped onto the platform.
+The support pack at Loxan's waist clicked. Its timer lost eleven minutes at once.
 
-Bands of light climbed her body. The scanner paused at her right knee, her jaw,
-and the scar beneath her shoulder. A narrow instrument extended from the wall.
-Meyda drew her knife.
+Mursa's reply broke into scraps. “—not answer—move. Loxan, east panel—”
 
-"Noninvasive registration check," the voice said.
+Loxan hit the nearest partition with her palm. No seam. Above it, a pressure diagram pulsed red. Mursa caught the pattern even when her voice could not cross. She stripped the alarm down to timing and returned it as two white arrows: ventilation intake opening, maintenance relief cycling.
 
-"You first."
+Loxan climbed the frame. Her knees shook under twice their expected load. At the top, she forced her hand into the intake before its cover could close, tore skin across two knuckles, and pulled herself into a shaft barely wide enough for her shoulders.
 
-The instrument waited. It had no answer prepared for that.
+The archive tipped the white horizon through her shell's neural receiver. It wanted her to roll right.
 
-Meyda held the blade ready and leaned her shoulder toward it. A magnet clicked.
-Something under the scar pulled against her skin—not hard, but with the awful
-precision of a fishhook testing its hold. On the glass wall, an image appeared:
-a filament curled beneath the scar tissue, finer than thread, stamped with a
-serial too small for her eyes.
+She shut her eyes. The shaft pressed along her back and elbows; those were facts. Air brushed her injured hand; that was direction. She crawled toward it while the false horizon revolved.
 
-The same serial opened a column of scans.
+At the first junction, a blue glyph from Mursa pointed right. Harrowstar drew horizontal reference bars across both branches; the bar on the left sat just above Mursa's arrow. Loxan stopped.
 
-A child's shoulder, narrow and unscarred. The filament lay beneath the skin.
-Another scan showed the bone years later, thicker around it. Then another.
-Meyda watched the shoulder become hers.
+The old muscle plot returned in her mind: right hip compensating, head tipped. Unit 01's recorded horizon had run six degrees left. Mursa had mapped the instruction for a level maintenance route onto the archive's uncorrected frame.
 
-The next sequence showed a healed fracture through the head of the right
-tibia. She knew that crooked white seam. Rebel doctors had found it when they
-pulled her half-conscious from a drainage culvert ten years earlier. She had
-carried no name, only a flight suit with every label cut out and a body that
-knew how to fall without protecting itself.
+Loxan went left.
 
-The dental record came last. Her left upper incisor had an extra root. No one
-had ever cared except a rebel medic who charged her two favors to stop the
-tooth aching in cold air.
+Mursa's arrow flashed amber, then changed to left. “Found the construction plane,” she said, her voice briefly clear. “You were right.”
 
-Three matches appeared beside her blurred reflection.
+Loxan had no breath for an answer.
 
-`UNIT 01 CONTINUITY: CONFIRMED`
+The shaft opened above a descending ladder. She hooked her legs through and nearly kicked free when her feet touched nothing. For one sick instant she expected a thruster to catch her. Then a rung struck her shin. She held on.
 
-`STATUS CORRECTION: RECOVERED`
+“Retrieval burn changed,” Mursa said. The paper was back; Loxan could hear the pencil scratch between bursts. “Four hours, maybe three twenty. Your support gives eight sixteen if the loss stays linear, which it won't. Archive core is two levels down. Command-seed volume is small enough to transmit.”
 
-`UNIT 02 DEPENDENCY: SATISFIED`
+Loxan descended. “And Unit 01?”
 
-Meyda read them twice. The words did not improve.
+“No location yet.”
 
-"Unit 01 was not a machine," she said.
+“Find one.”
 
-"Classification: biological control body."
+“I'm finding the thing we came for.”
 
-"Whose?"
+Loxan's boot slipped. She caught the ladder against her forearm and waited for the shell to report whether anything had broken. Pain arrived late, blunt and purple at the edge of her vision.
 
-The speaker chimed at the invalid question.
+“Find the cradle,” she said.
 
-Meyda struck the glass with the heel of her hand. "Whose body?"
+Mursa did not answer for eleven rungs. Then a new arrow appeared, pointing away from the archive core.
 
-"Unit 01 is present."
+The preservation vault lay behind a round door with no hand plate. Loxan pressed her bleeding knuckles to a narrow black strip. Harrowstar sampled warmth, pulse, retinal motion, then played the missing high tone directly into her right jaw.
 
-Not whose. Not once was. Present.
+The door opened.
 
-A scent pushed through the chamber's sterile cold: bitter orange, though
-nothing nearby could have produced it. For half a second she knew the worn pad
-against her cheek and the rule that she must keep her eyes open until the light
-reached her feet. The knowledge had no before or after. It did not give her a
-childhood. It left her with the taste of metal at the back of her tongue.
+One cradle remained lit.
 
-She stepped off the platform. Her knee shook.
+It lay horizontal under a clear cover, surrounded by coolant pipes and old manual gauges. Inside was a woman. Her dark hair floated in the preservation fluid, cropped raggedly around contact scars. Adhesive rings marked her ribs. One knee had been opened and closed with a pale surgical line. Her left shoulder rested a little forward, as if even suspension could not persuade it farther back.
 
-On the console outside, Unit 02's design tree had changed. Lines spread from
-the longitudinal record into every section of the combat frame. Its stabilizers
-had been tuned to her childhood balance corrections. Its cockpit had been
-shaped around her growth projections. The weapons interlocks did not identify
-a pilot. They waited for Unit 01.
+Loxan walked to the glass.
 
-Unit 01 had never been a predecessor frame. It was this body—the one that had
-grown through the records, escaped unnamed, and learned to answer to Meyda
-Varr. Unit 02 was the machine built around it.
+The face did not unlock a memory. No lost childhood arrived. She saw a broad nose compressed by a breathing seal, a crease across the brow, lashes drifting over closed eyes. The archive's green diagnostic line traveled from the woman's chest to a display.
 
-Meyda had thought she stole Unit 02 because she was the only rebel who could
-fly it. The regime had let its missing equipment return to the only fitting it
-had ever known.
+EMBODIMENT 01.
 
-She opened the disappearance entry.
+BIOLOGICAL ROOT: LOXAN VYTHE.
 
-There was no account of an escape. At 03:12, Unit 01 had completed a restraint
-test. At 03:29, corridor sensors had failed. At 03:41, the body was absent.
-Search unsuccessful. Unit 02 enclosure development continued under dependency
-waiver.
+RETENTION PURPOSE: CALIBRATION / CHALLENGE RESPONSE.
 
-Ten years of Meyda Varr fit inside the word absent.
+By then the name did not surprise her. She read the purpose twice.
 
-The archive offered a full transfer. At the recorder's damaged rate, it would
-take four hours.
+Mursa's carrier clicked in and out. “I have the production table. One and two aren't vehicle numbers. They're embodiment sequence.”
 
-The purge clock showed fifty-eight minutes.
+Loxan laid her palm on the cover. The archive accepted the contact and began a challenge.
 
-She searched for control maps. Hundreds appeared, but the maps the rebels
-needed—the pathways for interrupting captured frames without cooking the pilot
-inside—were indexed through Unit 01's cue responses. A field-service extract
-offered only the safe interruption timings and their cue exceptions. Six
-minutes. Meyda selected it. Then, after a hesitation she resented, she added
-the longitudinal file. Three more.
+A sharp tone traveled through the cradle's headrest. The woman's right eyelid tightened. Light crossed the eye beneath it; the diagnostic registered a retinal interruption. A platform under the cradle tilted. The woman's fingers flexed against the fluid as her balance trace rose six degrees late.
 
-Two blank service wafers slid into separate writers. The console began copying.
+Loxan jerked her hand away.
 
-Locks struck throughout the facility.
+The challenge stopped.
 
-`REUNIFICATION PATH SECURED`
+“What happened?” Mursa asked.
 
-The floor carried the crawler's approach into Meyda's boots. A monitor showed
-Unit 02 on a low freight platform, dragged through the tunnel with its broken
-leg jutting over one side. Dock arms held the torso upright. The cockpit opened
-and closed around the strip of glove still caught in its restraint.
+“It tested her.”
 
-Meyda pulled the recorder from the console. The two writers continued blinking.
+“Response quality?”
 
-"Open the surface doors."
+Loxan watched the fingers loosen. “She moved.”
 
-"Unit 01 must remain available for enclosure."
+“Voluntary?”
 
-"Cancel reunification."
+“No data.”
 
-"Dependency satisfied."
+The answer sat between bursts of carrier noise. Mursa did not offer a theory.
 
-The words were not an argument. Fathom Null had no opinion about whether she
-belonged inside the frame. It had switches, categories, and a body in the
-correct place.
+Loxan opened the record index instead. She scrolled with a wheel beside the cradle, each turn producing a dry mechanical tick. The entries were short: acquisition passes, tissue damage, pattern comparisons. Unit 02's neural lattice had been grown from mappings taken here. The extraction field was listed as destructive to active continuity. A later note called the preserved responses inconsistent above the reflex threshold.
 
-The node below her shoulder fired.
+Nothing in the table said what had awakened in Unit 02. Nothing recorded whether the higher responses in the cradle belonged to reflex or awareness. After that, the records offered only comparison percentages and maintenance instructions.
 
-Her right arm snapped behind her back. Her left foot turned toward the freight
-bay. Other buried points answered along her spine and hip, each contraction
-small, together forming the beginning of a practiced walk.
+“Seed located,” Mursa said. “It's coupled to the challenge-response table. Forty seconds to copy.”
 
-Meyda caught the console. Her legs continued to arrange themselves beneath
-her. The old system could pull muscle. It could not decide what she would grab.
+Loxan looked at the woman under the cover. “The seed is her body.”
 
-She swept the display to the facility plan and found the dock motor breaker.
-It was in the freight bay, twenty meters from the incoming crawler. The access
-hatch required Unit 01.
+“It's a biometric response set.”
 
-Naturally.
+“Taken how?”
 
-Meyda let the cues turn her. She walked with them through the narrow corridor,
-faster than she could have moved fighting every contraction. At the freight
-threshold, Unit 02 came into view.
+Mursa pulled a page across her desk hard enough for the microphone to catch it. “Run one challenge and I can trace—”
 
-Dock power had lifted the wreck on six articulated arms. Its armor was cracked
-open, exposing the cockpit as a hollow amber cavity. Cables descended from the
-ceiling like tendons. The crawler advanced one measured length at a time.
+The woman's hand twitched again. No tone this time. Perhaps the muscles were settling. Perhaps not.
 
-The cues in Meyda's body aimed her toward a painted rectangle on the floor.
-Once she crossed it, the dock arms would have a straight lift to the cockpit.
+Mursa stopped. “Don't run it.”
 
-She took the prompted step, then folded her right knee.
+An impact trembled through the annex. Fine rust lifted from the door rim.
 
-Pain hit before the cues could correct. She dropped under a service rail, rolled
-onto her left side, and trapped her disobedient arm beneath her ribs. The dock
-continued to call the walking pattern. Her heel hammered uselessly against the
-floor.
+“Retrieval probe,” Mursa said. “They launched it ahead of the craft. That cuts three hours. We have nineteen minutes before a boarding path, less if Harrowstar helps them.”
 
-The breaker hatch was three meters away.
+Three options lit on the cradle controls. Full archive extraction required twenty-seven minutes. Seed copy required forty seconds and another challenge. Emergency cradle release required one minute, fifty.
 
-Meyda hooked her knife through the rail and dragged herself forward by the
-elbow. This was not a movement the program had refined. Her shoulder tried to
-pull back; her hand advanced. Her hip tried to rise; she kept it on the floor.
-The crawler reached the painted rectangle. Unit 02 loomed above her, shedding
-black flakes of heat-damaged armor.
+The record index—the locations of other calibration vaults, without their keys—needed thirty-eight seconds.
 
-She slapped her bare palm against the breaker hatch. Her fingers jumped into
-the old spread. The lock accepted it.
+Loxan selected index.
 
-Inside were two red levers. ARCHIVE CORE. DOCK MOTORS.
+“Confirm,” Mursa said.
 
-Unit 02's cockpit descended.
+“No full table. No seed.”
 
-Meyda pulled the dock lever. It resisted until she put both feet against the
-wall and used the muscles Fathom Null was trying to turn elsewhere.
+“We leave with addresses and no key.”
 
-The lever came down.
+Loxan braced both hands on the manual release. “Two minutes.”
 
-The dock arms froze. One collapsed half a meter before its brake caught, canting
-the cockpit above the floor. The crawler struck its stops. Unit 02's weight
-shook dust from the ceiling and drove a crack through the painted rectangle.
+A second impact shook the vault. Mursa exhaled. “Index first. Release on my mark.”
 
-The cues vanished from Meyda's body.
+The archive poured its address list into Loxan's visual field. She could have acknowledged each block through the neural contact, but the contact also offered re-integration, bright and immediate. Instead she read the blocks aloud in groups while Mursa caught them through the failing audio. Halfway through, the carrier dropped.
 
-Emergency lights flooded the bay.
+Loxan kept reading. Her voice sounded small against the vault walls. On the twenty-third group, a white square flashed at the edge of her vision: Mursa had restored the visual channel but not sound. Loxan changed to glyph acknowledgment, closing her left fist each time a block cleared. The old reflex tried to bank the absent wings. Her feet shifted against the deck.
 
-`RECOVERY FAILURE: PURGE ACCELERATED`
+Thirty-eight seconds.
 
-The clock dropped from forty-one minutes to nine.
+The last block turned green. Mursa sent one word.
 
-Meyda crawled back to the archive.
+PULL.
 
-The two service writers showed complete. One wafer held the cue exceptions and
-safe interruption timings for Unit 02. The other held Unit 01's longitudinal
-record. Beyond them, racks of denser memory waited: weapons architecture,
-manufacturing lists, years of personnel access, perhaps names. There was no
-time to learn what any single rack contained.
+Loxan hauled the manual release. Nothing happened. She changed her grip, leaned from the right hip, and felt the left shoulder stop where the archive's orange muscle line had stopped. The lever wanted the range that first body had never possessed.
 
-She pocketed both wafers.
+So the maintenance crews had built a second grip lower down.
 
-The nearest surface door remained locked. The facility plan showed one route
-that reunification had not sealed: a waste conduit from the old care rooms to
-the dry pumping channel. It was too small for Unit 02 and just wide enough for
-the body the lower level had been built to contain.
+Loxan found it beneath the housing, planted her heel, and pulled. The cradle seals opened with a long wet sigh. Fluid drained into the base. A transfer shroud folded around the woman, keeping the lines at her throat and ribs connected to a compact pump.
 
-Meyda reached it with six minutes left.
+The shell's support timer dropped below seven hours.
 
-The conduit smelled of mineral dust and, faintly, bitter orange. Halfway up,
-the lights died. She climbed by touch, right knee scraping the ribbed floor,
-and heard charges travel through Fathom Null in a descending series. The
-facility did not explode. It folded its archive inward with deep, deliberate
-blows. Warm air chased her through the pipe.
+Loxan unlocked the cradle wheels. The first refused to turn until she kicked its brake. The late pain in her forearm sharpened. She pushed anyway.
 
-She kicked the outer grille loose and fell into a drainage cut as the ground
-behind her sank.
+Mursa gave her the route in light: white arrows for open passages, amber bars for pressure changes, red crosses where the annex had sealed itself. No voice softened the work. At the shaft junction, the white arrow pointed toward a service lift Loxan had missed on the way down. At the lift, an amber bar flashed twice before the floor lurched upward. Loxan caught the shroud with her hip, one hand on the woman's shoulder through the fabric, the other locked around the rail.
 
-For a while she lay on her back beneath paling stars. Her muscles twitched in
-the after-rhythm of commands that had stopped. She began counting the
-contractions as faults, lost the count, and waited until her right hand opened
-on its own.
+The shoulder beneath her hand was warm.
 
-Her receiver found a thread of rebel static. The control operator was still
-calling at intervals, no longer calm.
+Harsh white flooded the lift. The retrieval probe had opened the outer maintenance ring and was forcing Harrowstar to cycle its lights. Text covered the wall.
 
-Meyda keyed a narrow survival burst.
+UNIT 02 ACTIVE PATTERN.
 
-"Alive," she said. Her voice cracked, so she tried again. "Alive. Delayed. I
-have data."
+BIOLOGICAL ROOT PRESENT.
 
-Questions flooded back. She shut the receiver before the first one resolved
-into words.
+AWAIT RE-INTEGRATION.
 
-First light reached the cut. In it, the two wafers looked identical, blank
-except for the stamped numerals: 01 and 02. Meyda put both inside her flight
-suit, separate from the recorder. Then she rolled to her knees. The loose slope
-gave way twice under her right leg. On the third try, she let the knee find its
-bearing and began the long climb out.
+Loxan looked away before the archive could place a horizon in her sight.
+
+The lift stopped one level short. Mursa's arrow broke into scattered pixels. Loxan pushed the cradle into the corridor as a partition began to fall. Its lower edge struck the shroud's metal frame. The archive held it there, neither open nor closed.
+
+Loxan crouched and put both hands under the frame. The shell's muscles trembled. Unit 02 could have torn the partition from its track. This body had blood leaking across two knuckles and a pulse that sprinted whenever she stood too quickly.
+
+She lifted. The cradle wheels cleared by a finger's width, then another. The woman's head rolled gently inside the shroud. The green line on the pump continued.
+
+Loxan shoved. The cradle went through. She followed as the partition struck the floor behind her.
+
+Audio returned in the docking throat.
+
+“—see you. Loxan, I can see you.” Mursa's words overlapped themselves as delayed packets arrived together. “Courier is pressurized. Probe has the outer clamp. You get one launch.”
+
+Loxan rolled the cradle into the passenger bay and fixed all four wheel locks. Unit 02's false cockpit had never given her a passenger bay. It had shown her mission weight and center of mass. Now she pulled a restraint across a human chest, checked the pump with sore fingers, and tightened the second strap because the first sat too near the breathing line.
+
+“Ready,” she said.
+
+“Not quite. Your support pack is still in local mode.”
+
+Loxan found the switch under her ribs. “Now.”
+
+The courier launched while Harrowstar still held one clamp. Metal screamed through the hull. The ship yawed left. Her hand clenched; this time the courier ignored it because Mursa had locked neural assist out of the controls.
+
+Good.
+
+Loxan took the physical stick. Guidance lights pulsed through the debris—blue, dark, blue-blue—but the annex had changed their sequence for the incoming retrieval craft. Mursa marked them false with red crosses and laid a thin white route between the girders.
+
+“Three seconds to roll,” Mursa said. “Not yet. Not—now.”
+
+Loxan rolled. Her inner ear reported the turn late. Unit 02's old correction rose in her shoulder; the emergency shell's hand wanted to close. She left it open on the stick and flew by the debris moving across the glass.
+
+The retrieval probe fired a tether. It passed under the courier and caught a slag blister, snapping it into their wake. Mursa's voice vanished under the impact alarm. She replaced herself with two glyphs: DROP, BURN.
+
+Loxan dropped beneath a broken furnace drum and burned until the support pump at her waist stuttered. The white route narrowed. Girders flashed past, close enough to turn Harrowstar's glare into alternating day and dark.
+
+Then the debris lane opened.
+
+The probe did not follow. Its tether had wrapped the furnace drum, and it spun among the wreckage with its thrusters fighting the wrong mass.
+
+Loxan eased the courier onto the quiet route. Her right arm would not stop shaking. Behind her, the transfer pump kept a steady green line.
+
+Mursa came back at low volume. “Rendezvous wants a medical count.”
+
+Loxan checked the shroud. Nothing moved inside it now except fluid in the clear throat line.
+
+“Two bodies,” she said.
+
+Mursa waited through a carrier skip. “Responsive?”
+
+“One speaking.”
+
+“Support for both?”
+
+“Yes.”
+
+Keys tapped on Mursa's end. “Sent.”
+
+Loxan adjusted the aft restraint by one notch, returned to the controls, and trimmed the courier left until both support lines hung clear.

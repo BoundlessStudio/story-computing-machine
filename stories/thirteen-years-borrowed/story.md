@@ -8,450 +8,520 @@ canon: false
 
 # Thirteen Years Borrowed
 
-At 6:38 in the morning, I take a stranger's hand off her apartment key and know the hand was mine first.
+At midnight, Calo made me repeat the terms while the woman carrying me held his wrist.
 
-The certainty does not arrive as a feeling. Feelings have lied to me in body after body. This is measurement. The upper left incisor has a shallow notch on its hidden edge, where I cracked it on a plum stone at fifteen. The right second toe bends inward by the width of a thumbnail, set badly after I dropped a bed rail on it. Beneath the left ribs, exactly where the shirt seam crosses skin, lies a crescent burn no doctor ever entered in a file. I feel all three before the brass key stops swinging.
+“Front step to front step,” he said. “I walk up as myself. You can use my voice after I say we’re inside. My hands stay mine unless I lend them.”
 
-Then the larger dimensions settle around me: the long forearms, the narrow heel, the half-finger difference between shoulder heights. Thirteen years have thickened the knuckles and shortened the easy breath, but they have not changed the frame.
+The woman’s thumb trembled against the pulse in his wrist. She had carried me all the day just ended and had slept perhaps an hour. Her mouth tasted of burned coffee. In the thirteen years of my search, I had learned that gratitude was easier to feel than to inhabit. Bodies complicated it. A blister, a sour stomach, a child waiting at home—every kindness arrived with its own weather.
 
-I turn the wrist. A plain watch reaches 6:38 exactly.
+“No touching Nivra through me,” Calo said.
 
-*Take your hand off my key.*
+“Unless she asks.”
 
-The voice speaks inside the attention we share. It is not a memory, because I cannot reach her memories. It is not a thought I have overheard, because she chooses each word and puts it where I cannot close a door against it. I control the muscles. She receives every sensation, remembers every movement, and can speak to me while I wear her body. I know how to withdraw; I have done it between one breath and the next when a fracture was wrong. If I stay, no host can make me leave before the day ends. Possession has worked this way in everyone else.
+“Say the rest.”
 
-I open and close the hand once.
+“If you revoke, I stop.”
 
-*Now.*
+“How fast?”
 
-"My name is Eamon Huxley." The voice that comes out is rougher than the one I lost. "The chip is three millimeters from the corner of the left incisor. The toe healed inward. There is a burn under the eighth rib. This is my original body."
+I had lied about that once, seven years earlier, because the truth sounded selfish. “As fast as I can.”
 
-A tremor runs beneath a black brace on the left wrist. I did not command it. Nadira cannot make the hand reach or close, but fear still changes the pulse, the skin, the wetness of the palm.
+Calo looked at the woman. “You ready?”
 
-*My name is Nadira Whitlock. It is my key. Put it in the lock, open the door, and leave me.*
+She nodded.
 
-"I have to test the limit."
+He turned his palm upward. I felt his acceptance before skin met skin: not warmth or welcome, but a space deliberately unlatched. I crossed.
 
-*You have tested my hand.*
+For one blank instant there was no body at all. Then Calo arrived around me—his cramped left calf, the grind in his right knee, the dawn chill under his cuffs, hunger turning the back of his tongue metallic. His heart struck once hard enough to jar my count.
 
-"Every body rejects me after one day. If this one is different, I need to know."
+The woman let go. She sagged against the gate, herself again.
 
-*Then you are choosing to use every hour before you know.*
+I tried Calo’s fingers. They curled half an inch.
 
-"Outside, I can barely tell a wall from a person. At 6:38 tomorrow, the body may throw me out. Until then, it won't."
+*No,* he said inside us.
 
-I say it like a physical law because laws are easier to use than refusals. The hallway smells of damp wool and the paste that has worked itself into the cuffs of Nadira's coat. I turn the key.
+I released them.
 
-I stop when she speaks again.
+“Good,” Calo said aloud, using his own mouth. “Case.”
 
-*Shoes off. The floor was waxed yesterday.*
+The woman passed him the square relay case that had traveled through eighty-six hands in three years. Its corners were bright where the leather had worn away. Inside lay my routes, my dates, drawings of a face thirteen years younger, and the scraps of fact that had kept me moving after facts stopped resembling hope.
 
-I remove the shoes.
+Calo tucked it under his arm. The woman asked whether I was settled.
 
-The apartment gives the body instructions I cannot hear. I reach toward a cupboard and strike its handle with the knuckles. I take two strides toward a bathroom that turns out to be a closet. Nadira waits until I am about to walk into a low table.
+“She’s counting my teeth,” he said.
 
-*Turn left toward the window.*
+I had been. One crown at the back, a nick in the left incisor, pressure under the lower gum.
 
-I turn.
+“Not teeth,” I said through him, after he opened the voice to me. “Inventory.”
 
-"Tell me where the mirror is."
+“That is not better.”
 
-*Tell me when you are leaving.*
+The woman laughed once, too tired to make more of it, and went home.
 
-"Tomorrow, if the rule holds."
+Calo slept on a station bench until the first tram began running. He kept the joints; in sleep, his permission narrowed by habit, and I counted the lamps reflected in the dark glass. By the time the shutters began to rise, Nivra lived forty-three minutes away if Calo took the direct tram and did not stop.
 
-*Then find the mirror yourself.*
+We stopped after six.
 
-I find it by opening three doors. The face is older, as it must be. Silver has entered the dark hair at the temples. The bridge of the nose carries two shallow dents from glasses. A small molar is gone on the lower right. When I pull up the shirt, the burn waits in its exact place, pale and slightly stretched.
+He turned us into a bakery as its shutters came up. I pushed toward the street. His legs halted so abruptly that the case swung into his hip.
 
-The new marks crowd it. A straight scar crosses the base of the left thumb. The wrist brace supports a tendon that complains when I flex. The right shoulder stops before the arm reaches fully overhead. Paper dust has dried the skin along both index fingers, and a thick callus sits where I never had one.
+*We agreed,* I said.
 
-I press the tooth with my tongue, then bend to inspect the toe.
+*We agreed I’d get you there. We did not agree I’d faint on her rug.*
 
-*If you pull the brace that tight, the fingers go numb,* Nadira says.
+“The next tram—”
 
-I loosen it one hole.
+“There’s always another tram.” He ordered two egg rolls and something black and hot. “You want sugar?”
 
-"What happened to the wrist?"
+“I don’t eat.”
 
-*Repetition. Bad bench height. The shoulder was a slipped press last winter.*
+“You’re eating today.”
 
-"How much range did it lose?"
+He was right. That was one of the humiliations of borrowing: I did not inherit skill or memory, but I inherited blood sugar. He bit into the roll before it had cooled, burned the roof of his mouth, and swore around the food.
 
-*Enough that you will use the step stool instead of reaching. The close-work glasses are in the brown case. The body needs breakfast before coffee. I have an atlas promised for pickup at one.*
+“You always do that?” I asked.
 
-She speaks in appointments and tolerances while I am still counting old injuries.
+“Only when somebody is trying to march my legs out the door.”
 
-"I am not going to work."
+“I didn’t march.”
 
-*You already went into my morning. You do not also get to spoil the atlas.*
+He chewed. The answer was the chewing.
 
-"Someone else can finish it."
+I counted the minutes on the wall clock. Thirty-seven until the next tram. Sixteen hours and nine minutes until midnight. Thirteen years since I had awakened behind a stranger’s eyes with no idea where my own had gone.
 
-*No one else prepared the repair. And you do not know how.*
+Calo finished both rolls. He gave me the last swallow of coffee as if lending a tool, loosening his throat and tongue but not his hands. It was too bitter. I tasted it twice anyway.
 
-The hands were deft once. I could mend a torn coat in bad light, take a radio apart, write small enough to fit a month's expenses on one page. I look at the new calluses.
+“Nivra hates sweet coffee,” he said.
 
-"I know these hands."
+“So did I.”
 
-*Then put the shirt down without catching the brace in it.*
+He wiped his mouth. “That wasn’t a test.”
 
-I catch the brace. The pain is quick and bright. Nadira does not say anything while I free the cloth.
+Everything was a test. I simply no longer said so.
 
-In the kitchen, she directs me to bread, soft cheese, and a jar of apricot jam. I touch a spoonful to the tongue. Acid pinches both sides of my mouth.
+On Nivra’s street, Calo slowed. His knee had warmed into a thick, needling ache. The houses were narrow and practical, their front steps scrubbed clean, their windows open to the mild air. Nothing in the street had the decency to look like the end of thirteen years.
 
-Nadira tastes through the same tongue and says, *That is sweet.*
+At the third house from the corner, he stopped at the gate.
 
-"For me, sweet turns sour. Sour turns sweet."
+*I walk up,* he reminded me.
 
-*Is that supposed to prove something?*
+I folded myself away from the joints. It was a learned posture, not quite stillness: present behind every sensation, absent from intent.
 
-"No. It happens in every body."
+Calo climbed four steps, favoring his right leg. He had just lifted his hand when the door opened.
 
-I put the spoon down. Nadira tells me to rinse it before the jam dries. To confirm the reversal, I bite the corner of a pickled carrot. Syrupy brine coats my teeth while she recoils from ordinary vinegar.
+My face stood there.
 
-*Once was enough.*
+Not the face from the drawings. That one had been thirty-one, narrow from a winter of poor work and worse meals. This face was forty-four. A line had settled between the brows. Silver threaded the hair above the left temple. The mouth was fuller than I remembered because Nivra held it differently.
 
-"It could have changed."
+She leaned her weight onto the left foot. When the loose door tile tipped beneath her heel, her right hand opened to counterbalance, two middle fingers lagging behind the others.
 
-*The carrot did not become evidence in the four seconds between bites.*
+Mine. The tendon damage had happened when I was nine.
 
-I eat the bread and cheese without seasoning. The inversion has never helped me identify a host or predict an ejection. It merely makes meals unreliable and gives another person a normal taste through a mouth that lies to me.
+I drove Calo’s body forward.
 
-At the table I ask, "What is your first memory?"
+His right knee locked. His shoulders jerked back so hard the case fell and struck the step.
 
-Nadira does not answer until I place both hands flat where she can feel that I am not searching drawers.
+*Stop.*
 
-*Tile against my cheek. A public washroom. Wet hands, ink in the basin, no shoes. I knew how to read the sign on the door. I knew what a bus was. I did not know the face in the mirror or anybody who might be waiting for it.*
+I fought him for one breath. Calo forced both hands flat against his thighs. He left me the eyes.
 
-I give her the calendar date on which I was displaced.
+Nivra watched his face change around us. Her damaged knuckle whitened on the edge of the door.
 
-*That date,* she says.
+“Calo,” she said.
 
-"What time?"
+“Still me.” His breath came short, partly from the struggle, partly from the stairs. “She pushed.”
 
-*There was no clock where I could see it.*
+“I saw.”
 
-"Did you hear another voice? See someone leaving?"
+I could have apologized through his mouth. He had not opened it to me.
 
-*No.*
+Nivra looked at the relay case on the step, then at Calo’s fixed hands. “Come in when you can walk.”
 
-"A flash? A smell? Anything missing immediately before?"
+She left the door open and moved away.
 
-*There was no immediately before. Not for me.*
+Calo waited. Eight breaths. Ten. His heart slowed under me.
 
-I ask the same questions with smaller units. Which side of the basin. Which hand held ink. Whether the latch was open. Nadira answers until the answers stop changing.
+*I’m sorry,* I said.
 
-*No clock. No one leaving. No moment before the tile. Ask another way and the answer stays no.*
+*Not useful yet.*
 
-I cannot look through her memory to check. She cannot look through mine. Her account begins on the same morning mine breaks, but the seam between us is blank.
+He bent, picked up the case, and climbed the final step.
 
-"What did you do?"
+Inside, the house smelled of toasted fennel and damp clay. Three bowls sat upside down beside the sink. A green coat hung from a peg lower than I would have chosen. On the table, Nivra had set out bread, soft cheese, a crock of chopped herbs, and two cups. She brought a third from the shelf without asking whether a person without a body counted as a guest.
 
-*Got off the floor. Found shoes. Learned that the address on the cards had been emptied. Stopped waiting for somebody else to recognize me.*
+Calo sat. Nivra took the chair opposite him and reached for the fennel bread.
 
-"When did you choose your name?"
+My old body had despised fennel. The smell used to cling to the back of my throat like medicine.
 
-*When I took my first repair. The owner asked who should sign the wrapping.*
+Nivra tore off a corner and ate it with pleasure.
 
-I want one more observable fact. Nadira has only the first wet morning and the life after it. The same date gives me no missing minute and no cause.
+“Can I speak?” I asked inside.
 
-At 7:51, she tells me to take the workroom key from the hook.
+Calo opened his voice.
 
-"I need another hour here."
+“The scar under your left arm,” I said. “It’s shaped like—”
 
-*For what measurement?*
+Nivra put down the bread. “No.”
 
-"The leg. There used to be a seven-millimeter difference."
+“I need to know.”
 
-*There still is. It is why the right shoe has a lift. Put it on.*
+“You know.”
 
-I look inside the shoe and find the wedge. Nadira has corrected an imbalance I once treated as a fact to endure.
+“The knuckle could be in the letters. The hand—Calo could have described that. If I see the scar—”
 
-*Downstairs,* she says. *The paste was mixed last night. It will not wait for your astonishment.*
+“You sent a drawing of it to half the coast.”
 
-The workroom occupies the ground floor beneath the apartment. We reach it without crossing the street. I misjudge the last stair because I expect the old leg length without the lift and catch the banister with the right hand. The stiff shoulder takes the jolt.
+“Then tell me what I broke it on.”
 
-*Center the next foot. The third tread dips at the wall.*
+She looked at Calo, not me. “Is she using your hands?”
 
-"The shoe lift changed the drop."
+“No.”
 
-*And the stair changed where it supports you. Center.*
+“Good. Eat something.”
 
-She cannot lend me that judgment. I place the next foot where she tells me.
+He spread cheese on bread. I waited through one bite, then two.
 
-The workroom is narrow and warm. Shelves carry volumes with their covers opened, spines lifted, pages held between boards. A screw press stands against the back wall. On the central bench lies a small atlas in faded green cloth. Its front map has torn along a fold, and the first gathering has pulled loose from the case. Nothing about it is rare or grand. Someone has pressed a greasy thumb beside an inland lake.
+“When did you first wake?” I asked.
 
-*Brown case,* Nadira says. *Close-work glasses.*
+Nivra pinched herbs onto her cheese. “The fourth morning after they found this body breathing.”
 
-I put on the glasses. The room softens beyond my hands, but the torn paper resolves into fibers.
+“Where?”
 
-Beside the atlas wait two brushes, a covered bowl of paste, a strip of thin repair tissue, blotters, a bone folder, a curved needle with linen thread, and a small knife. I reach for the knife.
+“In a room with blue walls.”
 
-*No.*
+“Who found it?”
 
-"The strip is too wide."
+“That’s in the records.”
 
-*And its grain is turned wrong. Pick it up by the ends.*
+“What did you remember?”
 
-I do.
+“Light. Thirst. Someone lifting my eyelid.”
 
-*Bend it over one finger. Barely.*
+“Before that.”
 
-The tissue curves. I rotate it and bend again.
+“Nothing I can give you.”
 
-"Same resistance."
+“A road? A room with a red floor? A woman wearing copper rings?”
 
-*No. Across the grain, it pushes back sooner. Use less force or you flatten the difference.*
+Nivra ate another bite.
 
-I try with only the weight of my thumbs. One direction makes a reluctant arch; the other falls around the finger.
+I heard my own breath quicken through Calo. “Did you know the song about the fox and the barley?”
 
-"This way."
+“No.”
 
-*Say what you feel.*
+“Could you write?”
 
-"Less resistance along the length."
+“Not on the fourth morning.”
 
-*Good. Set it down. Water brush, not paste brush.*
+“When?”
 
-Both brushes have pale handles. One is broader by perhaps two millimeters.
+“Later.”
 
-"Which?"
+“How much later?”
 
-*The one with the blue thread at the ferrule.*
+“I signed the name Nivra after eleven months. I chose the green coat six years ago. I started helping at the kiln in the ninth spring. I stopped sleeping with a lamp on three winters ago. Dates enough?”
 
-I had not seen the thread. I wet a narrow line in the tissue, pull too quickly, and make a ragged fork.
+They were dates. They had edges I could copy into a ledger. They did not tell me where she began and I ended, or whether that question described anything real.
 
-*Stop pulling.*
+“The scar,” I said again.
 
-"I can straighten it."
+Nivra stood and carried her cup to the sink.
 
-*While it is wet, lift the fork with the folder. Do not rub it into felt.*
+Calo closed our mouth.
 
-My left hand wants to help. The brace makes the angle clumsy. Nadira directs the folder into the right hand instead. I resent taking orders about a hand whose scar I remember earning, and the folder skates dangerously close to the damp atlas page.
+*You’re doing it again,* he said.
 
-*Off the book.*
+*Doing what?*
 
-I freeze.
+*Making her prove she’s your missing parcel.*
 
-*Both hands off. Count ten breaths if numbers are what you listen to.*
+*You brought me here because you believed she was.*
 
-I put the tools down. The pulse beats against the wrist brace. On the sixth breath I see that my elbow has planted itself where the blotter needs to go. On the tenth, I move it.
+*I brought you because I promised both of you one meeting.* His fingers tightened around the bread. *I did not promise the meeting would go your way.*
 
-"Tell me the sequence before I touch anything again."
+At the sink, Nivra washed a perfectly clean spoon. Her left shoulder rose before the right, a habit I had never had. She dried the spoon, returned it to the drawer, then shifted the three bowls until their rims aligned.
 
-Nadira does. Not the whole craft, only the next four movements: square the page on clean felt; support the lifted fold with the folder; feather a new strip along the grain; place a dry blotter within reach of the right hand. Her instructions are exact enough to be used and too local to become skill.
+I wanted the hands that had invented that useless order. I wanted the lagging fingers and the old scar. I wanted to wake tomorrow without a stranger’s hunger waiting for me.
 
-I follow them. When the strip is ready, I lift the paste cover.
+Calo pushed back from the table.
 
-*Roll the brush once against the side. If it drips, there is too much. If the bristles separate, there is too little.*
+“Where are you going?” Nivra asked.
 
-The paste smells faintly of grain. Remembering the jam, I lean closer.
+“Washroom.”
 
-*Keep your mouth away from the bowl. Load the brush.*
+“Back hall. The latch sticks.”
 
-I load it. The brush leaves a smooth wake on the strip. Nadira has me work from the center outward while the left hand, braced and flat, holds only the waste edge. My first stroke drives paste toward the tear.
+He collected the relay case.
 
-*Reverse the brush.*
+“Leave that,” I said before he shut the voice.
 
-"That will lift the tissue."
+“No.”
 
-*Not if you turn it before the edge. Half the pressure. The paper is already wet.*
+In the narrow washroom, he locked the door and sat on the closed lid. Sweat had cooled under his collar. His knee throbbed. I had missed both facts while watching Nivra.
 
-I do as she says. The tissue settles. A small bubble remains near the fold.
+*I can walk out,* he said.
 
-"Press it."
+*We haven’t finished.*
 
-*Not with a fingertip. Blotter first, then the folder on its side. Two passes.*
+*You haven’t started. You’re checking inventory.*
 
-The bubble disappears on the second.
+I searched for an answer that would open him and found only the old ones: the miles, the wrong bodies, the people who had said yes and regretted it before noon. “I need—”
 
-The right shoulder burns from hovering. Nadira tells me to lower the stool one notch. I want to continue because the join is almost straight.
+*Not with my mouth.*
 
-*Stool.*
+He took it back.
 
-"The line will dry."
+For several minutes we listened to the pipe tick. A cart rattled past outside. Calo stretched his bad leg into the tiny space between toilet and wall.
 
-*The shoulder will shake before the paste does.*
+When he unlocked the door, Nivra was waiting in the hall with a folded hand towel.
 
-I lower it. She is right. The tremor leaves the hand.
+“You left this yesterday,” she told him.
 
-By midmorning the front map lies mended beneath a clean blotter. We turn to the loose gathering. I remember needlework, but not this spacing, this thread tension, this way of opening a paper fold without widening the holes. Nadira gives each motion before it is needed. If she pauses, the hand waits. Nothing rises from the calluses to guide me.
+“Knew where it was.”
 
-At 11:26, I draw one stitch too tight. The paper cups around it.
+“That explains why you searched the kitchen.”
 
-*Back half a finger.*
+“Checking whether you moved it.”
 
-I loosen the thread.
+She handed it over. He tucked it into his coat pocket. No one interpreted the exchange for me.
 
-"That much?"
+Back at the table, Nivra opened the relay case. She did not ask permission. The papers showed her younger face from four angles: smiling, squinting, annoyed with the artist. Mine, then. Not hers, though the distinction trembled if I looked too long.
 
-*Until the fold lies down. Look at the shadow, not the thread.*
+She turned past thirteen years of routes. “You were three streets away in the second year.”
 
-The shadow narrows. I stop.
+“For half a day.”
 
-Shortly before noon, we fit the repaired pages back into the case. Nadira makes me clean the old adhesive from one corner before applying new paste. She chooses the brush, the brace angle, the order of boards. I supply movement and, where the press screw resists, force.
+“I was still learning stairs.”
 
-*Turn until the board first holds,* she says. *Then a quarter. No more.*
+“The records said the body died.”
 
-"It could take another half."
+“It nearly did.” She touched a page where I had written that false ending in black ink. “On the eighth day, I pulled out the feeding tube. On the twelfth, I said water. They wrote those down. It took them nine months to stop calling each thing a reflex.”
 
-*And emboss every defect into the cover. A quarter.*
+“I didn’t know.”
 
-I turn it exactly a quarter. The atlas goes into the press at 11:52. I watch the second hand because waiting is one job I understand. At 12:34, Nadira has me release the pressure. The green cloth sits square, and the map opens without pulling at its tear.
+“No.”
 
-"Finished."
+The single word had no mercy in it, but no accusation either. A date. A consequence.
 
-*Not until it is wrapped.*
+Nivra closed the case. “I’ll let you enter once.”
 
-I wrap it in plain paper, fold the corners as she directs, and place it in the locked pickup compartment beside the street door. At one, a key turns from the other side. The parcel leaves without anyone seeing the body.
+Calo’s heartbeat kicked.
 
-Back at the bench, I pick up the paste brush.
+“Today?” I asked.
 
-*Rinse the paste out toward the tip. Do not grind the ferrule against the basin. Then the wrist needs the brace changed.*
+“At eleven-thirty. Observation first. Movement if I choose. If I revoke, you leave before midnight.”
 
-"After I inspect the shoulder."
+“And if I can stay?”
 
-*After the brush. Paste dries faster than your shoulder changes.*
+She rubbed the damaged knuckle. “Then we’ll know what it costs.”
 
-I wash the brush.
+Calo stood too quickly. Black motes washed across our sight. He gripped the table until they cleared.
 
-The afternoon gives me smaller measurements. The old right toe fits the shape I remember, but Nadira has bought shoes around it. The left wrist is my bone under her strain and her brace. The right shoulder is mine in breadth, hers in injury, mine to move badly now. At a late lunch, the tomato is sharply sour to Nadira and almost sugared to me. We leave the vinegar capped.
+“Sit down,” Nivra said.
 
-She has me rest the hand for twenty minutes, then loosen the brace and move each finger through a short range. I do not know the range until she names it. When I reach too far overhead for a cup, she says *step stool* and I use it.
+“I’m fine.”
 
-At 3:10, I go downstairs to check that the pickup compartment is empty.
+“You’re gray.”
 
-*It left at one.*
+“That’s my face.”
 
-"I want to see the empty compartment."
+“Your face is brown.”
 
-*Check it, then rest the brace hand by 3:15.*
+He sat.
 
-The compartment is empty. On the way upstairs I place the right foot carefully over the dipped tread without being reminded. It is not Nadira's motor judgment entering me. She told me where the defect was, and I remember being told.
+The hours until eleven-thirty did not behave like the final hours of a search. Calo slept for forty minutes on Nivra’s sofa with his sore knee propped on a cushion. I remained awake inside the discomfort, listening to a neighbor hammer something badly. Nivra went out and returned with lentils and lamp oil. She cooked. She hummed no song I knew.
 
-At dusk, while I scrape a dried line of paste from the bench, Nadira asks, *What was the name of the person you were in before me?*
+At dusk, she dropped a wooden spoon. Her right hand snapped down, fingers spread, and caught it against her thigh before it hit the floor.
 
-The scraper stops.
+I had learned that catch from my older brother, though not from his teaching. He used to throw nutshells at me while I read. My hand had learned before I did.
 
-"I was there for nine minutes."
+Nivra stared at the spoon pressed against her skirt.
 
-*That is a duration.*
+“That one wasn’t in the letters,” I said.
 
-"They had no rib scar. The left ulna was too short."
+“No.”
 
-*Their name.*
+She rinsed it and went on stirring.
 
-"I don't know."
+The lentils needed salt. Calo told her so. She told him his mouth had been ruined by pickles. They argued for three ordinary sentences, then he added salt to his own bowl. I tasted the meal through him: earth, fennel, too much pepper. Nivra gave us the heel of the bread because Calo liked it. I learned that my old teeth now caught fibers between the same two molars where they always had.
 
-*Did they tell you?*
+At ten, someone knocked twice at the back door.
 
-"Several times."
+Nivra admitted a short woman in a rain cape. The volunteer did not give me her name. That was sensible. She had agreed to wait in the kitchen from eleven-fifty until midnight and, if I came to her, to carry me tomorrow. No more.
 
-The last host had repeated a name while I checked teeth, then asked me to call someone waiting at home. I had left before the call became necessary and congratulated myself for leaving quickly.
+“Tea?” Nivra asked.
 
-Nadira asks, *How often do you refuse to remember?*
+“If it’s already made.”
 
-"I remember bodies."
+It was not. Nivra made it anyway.
 
-*That was not what they told you.*
+At eleven-twenty-eight, Calo stood facing her in the cleared sitting room. The volunteer waited behind the closed kitchen door. The relay case lay beside the sofa. One lamp burned. Rain whispered against the front windows.
 
-I set the scraper down. "If I repeat a name, I remember the voice attached to it. That slows the next search."
+Nivra held out her hand.
 
-*They said their names while you measured over them.*
+Calo did not lift ours.
 
-She does not ask for a count. I do not offer one. There were hosts I kept for the full day while they begged me to spend their hands differently. I treated their work, hunger, children, and appointments as static around the measurements. Nadira's name has been in my attention since 6:40; I cannot file her schedule under static.
+*Your choice,* he said.
 
-"Why did you tell me yours?"
+For thirteen years the choice had been onward. Thirteen heartbeats, one offered hand, no time to consider whose joints would ache the next morning. I had made rules because rules were the nearest thing I had to a body: limits I could point to and say, this is where I end.
 
-*Because you had my mouth and were already giving it your name.*
+I raised Calo’s hand halfway. He allowed that much, then stopped.
 
-I return the scraper to the drawer she specifies instead of leaving it on the bench.
+“May I?” I asked aloud.
 
-We spend the evening upstairs. Nadira directs a plain supper and tells me which tablet belongs to the wrist inflammation. I read the label myself before taking it. At 9:02, I test the old scar beneath the ribs again; it has not moved. At 10:17, Nadira refuses to let me open the six books waiting in the workroom.
+Nivra looked at our suspended hand. “Observation. No movement.”
 
-*Those are tomorrow's work.*
+“Yes.”
 
-"I may not have tomorrow."
+Calo completed the reach.
 
-*Neither may I. Leave them closed.*
+Skin met skin.
 
-I leave them closed.
+The passage opened, and for the first time in thirteen years I did not cross into foreign weather.
 
-We lie down before midnight. The body cannot settle because I keep comparing the mattress to one I remember from thirteen years ago, as if sleep posture could restore a missing interval. Nadira tells me the pillow goes under the right forearm so the shoulder will not drag. I put it there. We doze in scraps. Each time I wake, she answers when I say her name.
+I came home to an ankle that remembered breaking, a jaw that clicked on the left, lungs with more room than Calo’s. The damaged fingers buzzed faintly. My heart—her heart—beat slower than I expected.
 
-At 5:42, we return to the workroom. The watch has fifty-six minutes left. I set a glass of water beside the bench because Nadira asks for it to be ready if she gets the hand back suddenly. Then I sit with both palms open.
+Nivra surrounded me not as memories, not as thoughts I could read, but as resistance with shape. She held the eyes. She held the hands. I could feel which movements she considered before she made them, small currents gathering behind muscle, but not why.
 
-"After 6:38, if I'm outside, say something aloud. I hear best from close."
+Calo staggered back into himself. He caught the sofa arm and swore. Nivra turned her head toward him. I only went with her.
 
-*I will decide what to say when I can move.*
+“Calo?” she asked.
 
-"If the body rejects me, I might not find it again."
+“Here.” He sat heavily. “Knee’s worse.”
 
-*Then do not ask me for tomorrow while you still control today.*
-
-"I need a way back."
-
-*You need me to promise with your jaw.*
-
-I lift both hands from the bench, meaning to argue, then put them down again. "The left tooth. The right toe. Seven millimeters in the leg. I carried those measurements through every person. They are the only address I have."
-
-*At eight the brace comes off for ten minutes. At ten there is paste to mix. At seven tomorrow evening, a friend expects me for soup. I am not promising you past 6:38.*
-
-I spread the fingers on the bench. Her schedule will happen through these hands or not at all.
-
-At 6:31, a cold pressure gathers behind the eyes. It has preceded every ejection. I tell Nadira.
-
-*Hands flat. Do not lock the knees when I stand.*
-
-"I'll be sitting."
-
-*Then keep the feet under the stool. The right one catches when it is too far back.*
-
-I place both feet as she says. The watch ticks loudly in the quiet room. At 6:36, the tongue begins to prickle. At 6:37, sight brightens along the edges. These signs have never varied enough to matter until now.
-
-The second hand crosses twelve at 6:38.
-
-Nothing closes.
-
-I wait. The bright edge fades instead of taking the room with it. Nadira does not speak. I count thirty watch ticks, then another thirty. At 6:39, I lift only the right little finger.
-
-It moves because I choose.
-
-The body has missed its rejection. There is no second pressure building behind the eyes, no thinning at the edge of touch, no later limit I can feel. I can remain.
-
-Nadira's voice comes carefully.
-
-*Keep today too. I will tell you which books need to be stabilized, what messages to leave, and where the spare key is. Give me until 6:39 tomorrow to put the work down properly.*
-
-She could offer nothing. Instead she inventories the work so I would not inherit a ruin. The list still comes from someone who cannot lift her own little finger.
-
-"And at 6:39 tomorrow?"
-
-A pause.
-
-*I have not reached tomorrow yet.*
-
-If I accept, tomorrow requires another list. Twenty-four hours later, another. The offers can continue because I control when they stop. I could wait until one sounds willing enough and ignore the fact that I control the lungs that carry it nowhere.
-
-I press my tongue once against the chipped incisor. The notch is exactly where it should be.
-
-"It is my body," I say. "I did find it."
+Nivra took one step toward him, then stopped. *Still only watching,* she said inside our head. Her inward voice was lower than the one air made.
 
 *Yes.*
 
-I release the right little finger.
+She lifted our hand. Turned it palm up. Closed it.
 
-Nadira draws it sharply against the bench. I let go of the rest of the hand, the wrist, the braced forearm. Control leaves the shoulders and legs. When her feet settle under the stool and her spine takes the balance, I release breath and jaw.
+The motion was hers, but the fit of it broke something open in me. No translating the length of a stranger’s fingers. No compensating for a shoulder broader than intention. I knew where the hand would end before it moved.
 
-Sight contracts to a weak sense of warmth. The bench, shelves, atlas, scars, and watch vanish. Taste goes with them. Sound remains thin and close.
+Nivra touched the old scar beneath our arm. *This?*
 
-Nadira bends over the left hand. She flexes each finger, checks the brace, and holds the wrist against her chest until the shaking eases. Then she takes the glass and drinks all the water before speaking.
+*A roof nail. I was twelve.*
 
-"Eamon, listen. You do not enter unless I invite you aloud. If I ask you to leave, you leave then. Not after a measurement. Not after one last stroke of the brush."
+*It aches before rain now.*
 
-I can still touch the edge of her attention without crossing into the body. I shape the smallest answer I can.
+She lowered the arm. The rain kept speaking at the glass.
 
-*Yes.*
+At eleven-forty-three, she lent me the left hand.
 
-Her hand closes around the empty glass under her own control. I stay outside.
+I opened and closed it. The middle fingers lagged. I pressed the thumb to each fingertip, once, twice, faster. Nivra withdrew the hand.
+
+*Enough.*
+
+*Please. Both hands.*
+
+Silence.
+
+Calo watched from the sofa, jaw tight with pain. “Time,” he said.
+
+Eleven-forty-eight.
+
+Nivra gave me both hands and the mouth. “Water,” I said.
+
+Calo pointed to the table. “Left of the lamp.”
+
+I picked up the cup. Too much force; water jumped over the rim. Nivra corrected our wrist. Together we drank. She preferred smaller swallows than I did.
+
+At eleven-fifty-two, she gave me our legs.
+
+I stood. The right ankle rolled inward, as it always had. Nivra tightened a muscle I did not remember learning to use, and we steadied. I walked once across the rug. Fourteen steps to the window. Fourteen back.
+
+The body was not preserved. It had gone on without me and become more exact in someone else’s keeping.
+
+At eleven-fifty-six, I felt the anchor.
+
+It was not a voice or a revelation. It was the simple absence of distance. Every other host held an inner door, and beyond it midnight waited with its thirteen blows. Here, when I pressed deeper, the door became mine.
+
+Nivra stumbled.
+
+*What did you do?*
+
+*I don’t know.* That was a lie. My hands—our hands—had stopped shaking.
+
+Calo leaned forward. “Nivra?”
+
+She tried to answer aloud. I kept the mouth.
+
+Not deliberately at first. Then deliberately.
+
+The kitchen door opened a crack. The volunteer stood beyond it, one bare hand ready.
+
+Inside us, Nivra pushed for the right arm. I held it still. She pushed for the jaw, the eyes, a toe. Each refusal made my ownership cleaner. Her inward voice lost its weight in the muscles and moved behind me, toward the place from which I had spoken for thirteen years.
+
+*Stop,* she said.
+
+I closed our left hand. Mine. I lifted it to the lamplight. Mine.
+
+Nivra’s next word came faintly. *Calo.*
+
+He rose despite his knee. He did not come closer. “She said out, Tamaris.”
+
+“I heard.” My voice from my throat. Older, roughened, real.
+
+“Then move.”
+
+Eleven-fifty-eight.
+
+I could stay. The knowledge sat in the body more surely than any rule I had written. Hold every hinge shut through midnight and I would wake here tomorrow. Nivra would wake elsewhere, if the waiting hand reached her in time. After that: thirteen heartbeats, promises, borrowed hunger, the next name in a relay case.
+
+The cost was not death. That made it harder.
+
+I walked to the mirror above the cold fireplace. Silver at the temple. A faint burn mark on the chin that I had not put there. Nivra’s green coat reflected from its low peg behind me.
+
+I had imagined this face in sleep I could not own. I had spent four thousand seven hundred and forty-eight mornings opening unfamiliar eyes. Routes. Terms. Counts. All of it narrowing to the woman behind mine, unable now to lift one finger.
+
+*I need—* I began.
+
+The words would not finish.
+
+From far inside, Nivra gave me the only thing she still controlled: no answer.
+
+At eleven-fifty-nine, I opened the right hand.
+
+Nivra seized it. She opened the left herself, dragged air into our lungs, bent our knees. Control returned to her unevenly, like blood to a sleeping limb. She lurched away from the mirror and caught the mantel.
+
+“Kitchen,” Calo said.
+
+Nivra made no promise. She got us there.
+
+The volunteer stepped into the doorway. Nivra lifted our hand toward hers, but the arm shook halfway up. I could have helped. I did not touch the movement.
+
+The last second gathered.
+
+Midnight threw me out.
+
+One heartbeat: no body.
+
+Two: the room without sight.
+
+Three: a hand somewhere before me, offered.
+
+Four, five: I reached without muscle.
+
+Six: skin.
+
+Seven: acceptance.
+
+I crossed.
+
+The volunteer’s knees buckled. Calo caught us under the arms, bad leg skidding, and Nivra caught our wrist. For an instant all three bodies were joined by the effort of keeping one upright.
+
+Then the volunteer straightened. She kept the hands.
+
+“Chair,” she said.
+
+Calo pulled one out with his foot. She sat. Through her I felt wet socks, a tight braid, tea cooling in her stomach. New weather.
+
+Across the kitchen, Nivra leaned against the table in my original body. Her face had gone pale. She flexed the damaged fingers once. Twice.
+
+The relay case remained by the sofa in the other room, still holding thirteen years of routes.
+
+Calo rubbed his knee. “Anybody want the rest of the lentils?”
+
+Nivra shook her head.
+
+The volunteer opened her mouth to answer, then waited for me.
+
+“Water first,” I said.

@@ -2,39 +2,50 @@
 
 ## Story
 
-- Premise and central promise: Proposed title: *The Last Watcher of Jupiter*. For thirty years, twenty-four piloted watchframes on Jovian Station have contained a poorly understood living pattern beneath Jupiter's storms. On Anca Vero's last watch before a hoped-for transfer, the other twenty-three turn toward deep space and kneel with their pilots locked inside; her obsolete frame alone stays facing Jupiter. Resolve why: an off-chart carrier triggers the fleet's buried homing posture, but an old repair removed Anca's receiver. By remaining independent, she blocks the storm-life's answering burst until the carrier passes. The crews survive; neither caller's origin or intention is solved.
-- Focal pressure or attachment: Anca resents the manual frame that has made her useful but professionally invisible, yet knows its delays and resistance intimately. She wants to free the crews, see what the fleet faces, and earn transfer into shared control. Turning even to look abandons the sole Jovian-facing field. Her unwanted isolation becomes freedom without being recast as fair or desirable.
-- Counterforce or complication: No antagonist. The watch commander needs an outward view and wants Anca to accept a receiver bridge; occupied cockpits are overheating. Anca sees each outward pulse followed by a more organized Jovian emission, but one frame can cover only its narrow aperture. Forcing a neighbor upright endangers its pilot. The conflict is incompatible attention: inspect the possible threat and help the crews, or remain ignorant and contain the response she can see.
-- POV, distance, and information limit: Close third-person past through Anca's cockpit, intimate with harness pressure, manual alignment, radio gaps, field heat, and the storms filling her canopy. She never sees deep space after the turn; she knows the carrier only through timing and the commander's reports. Correlation cannot establish worship, surrender, kinship, hostility, or motive.
-- Governing movement and time shape: One continuous forty-minute watch shaped as a held orientation under diminishing information. After the early mass turn, movement narrows: contact, a one-degree yaw test, an abandoned physical recovery, lost telemetry, pulse comparison, then the sustained hold. Keep the decision private. End as extraction begins behind her, without debrief, public proof, institutional change, or a view of the sender.
-- Speculative rule or ordinary-world constraint: Each watchframe's forward cone disrupts one coherent Jovian emission; twenty-four overlapping cones normally cover shifting apertures. A matching external carrier makes standard frames turn, lower their reactor spines behind armor, and refuse pilot override. Anca's receiverless frame cannot hear it. Any turn produces an angle-based recovery delay, preventing her from alternating between Jupiter and deep space. The coordinated machines display bounded behavior, not established personhood.
-- Dialogue pressure (optional, at most 75 words): The commander wants an outward image and a receiver bridge before cockpits overheat; Anca wants authority to hold Jupiter and needs trust for a correlation the commander cannot see. They argue through yaw degrees, crew counts, and pulse intervals. Command diction favors deadlines and loads; Anca uses alignment error, field texture, and physical resistance. Neither knows the carrier's source.
+- Premise and central promise: For thirty years, twelve piloted mecha on Jovian Station have faced Jupiter and maintained a magnetic quiet lattice over one continent-scale electroplasma organism below the upper storms. When eleven machines turn toward a deep-space signal and kneel in docking-brace posture, veteran watcher Varai Tzur's Cairn Nine alone stays inward. Varai must help free the other pilots and restore enough of the lattice before the organism's rising current column reaches inhabited orbit.
+- Focal pressure or attachment: Varai trusts the watch as practiced maintenance, not heroic combat. She wants to keep the organism below the altitude where its wake can strike the station, but Cairn Nine can only delay the ascent alone. Its exception also exposes an eight-year-old improvised repair she has defended despite the frame's lost autonomous navigation.
+- Counterforce or complication: Idris Pawel must protect habitats from brownout, debris, and involuntary launch. Naveen Okoro knows each pilot has a mechanical isolator, but pulling it under load could shear the frame. Romesh Ival has only tests and delayed telemetry; Nadja Sile and the other pilots can report constraints but cannot rotate locked machines.
+- POV, distance, and information limit: Close third-person past through Varai, attentive to orientation, haptic status, Jupiter's horizon, and formation geometry. Delayed reports never grant access to another pilot, the organism, or the source. Its makers, age, motive, and full protocol remain unknown.
+- Governing movement and time shape: Forty continuous minutes of a watch failure: abrupt inversion, bounded tests during the organism's ascent, then a staggered mechanical release performed across the formation. End during the damaged next watch, after immediate safety but before explanation, pursuit, or institutional settlement.
+- Speculative rule or ordinary-world constraint: Nine inward mecha sustain the lattice and ten reshape it safely; synchronized emitters counterphase the organism's ascent without controlling it. One emitter delays ascent briefly, then overheats. A distant source repeats a radio codeword, polarized optical vector, and magnetic sweep. Standard correlators authenticate all three, then prioritize docking-brace alignment and thruster arming over software override; they neither parse speech nor control pilots' bodies. A micrometeor destroyed Cairn Nine's correlator. Naveen's analog replacement requires manual formation acquisition but cannot authenticate the signal. Shutters break its optical component, Cairn Nine corrupts its magnetic baseline, and each pilot can pull a service link while unloaded. Light-minute distance prevents conversation.
+
+## Voice
+
+- Narrative texture: Keep scale intimate through Varai's horizon, joint loads, coolant, and the spaces between machines; let measurements revise what kneeling means.
+- Conversational texture: Layer clipped status calls, interrupted cross-checks, one-purpose questions, delayed receipts, and ordinary suit checks. Silence and channel congestion matter.
+- Rhetorical ownership: Varai reasons in orientation, timing, and practiced motion; Idris in risk windows and occupied sectors; Naveen in repair history and material affordances; Romesh in falsifiable patterns and uncertainty; Nadja in bodily load, inaccessible controls, and immediate sequence.
+- Pressure behavior: Varai becomes spare and physical; Idris repeats confirmations; Naveen corrects conditions mid-instruction; Romesh stops when evidence runs out; constrained pilots lose fluency unevenly but retain agency.
+- Anti-default: Avoid military banter, technobabble lectures, fluent alien explanation, sacrifice rhetoric, or a polished enemyhood debate. Decisive and final talk depends on visible formation changes.
 
 ## Beats
 
-1. Anca manually aligns while standard frames share seamless corrections. Her transfer decision is due after relief; an off-chart carrier appears behind them.
-2. The twenty-three standard frames pivot too fast for their pilots to command and kneel into identical braces. Radios confirm conscious crews locked out; Anca alone holds Jupiter.
-3. Ordered to identify the source, Anca yaws one degree. Her field drops and a diffuse storm aperture sharpens into a coherent rising pulse. Recovery lag proves she cannot glance both ways.
-4. Anca tries to lever a kneeling neighbor upright without turning. The pilot reports crushing load as posture servos resist, so she cuts the effort.
-5. The commander offers a bridge and reports only a starless distortion inside the carrier cone. Shared telemetry thins. Anca matches three outward pulses to Jovian responses at shrinking delays and wins time to hold position.
-6. Using local instruments and manual joints, she follows the aperture while uncovered regions produce violent but noncoherent weather. Heat damages her field vanes and kills audio; the organized burst repeatedly fails against her cone.
-7. The carrier fades. The Jovian aperture loses coherence, and the kneeling frames power down without rising. Extraction crews begin opening cockpits; the immediate call-and-answer crisis ends unexplained.
-8. With her field weakened and no standard frame trusted to turn back, Anca refuses the bridge and keeps watch through relief. One unmatched storm pulse leaves open whether the life below noticed her.
+1. Establish the inward watch through phase marks, seal and coolant checks, the organism's deep signature, and the danger of ascent without making the life malicious.
+2. Eleven machines rotate, kneel, and arm departure thrusters. Varai supplies the sole counterphase while Idris halts traffic, overrides fail, and trapped pilots return unequal reports.
+3. Romesh's bounded pulse proves the organism reacts to lattice collapse, not the distant signal itself. Delayed sensors reveal three synchronized channels rather than language.
+4. Naveen traces Cairn Nine's exception to its documented analog repair. A cargo-shutter test breaks one channel; one frame briefly unloads but relocks, proving a combined interruption is necessary.
+5. Idris rejects structurally dangerous detachment but accepts a habitat brownout for the shutters. Varai leaves containment to fly Cairn Nine along the outer boom and corrupt the magnetic baseline.
+6. Moving shadow windows let Nadja pull her service link and dog her emitter inward. Other pilots follow by sector, correcting missed counts and refusing unsafe timing; shared action frees the formation.
+7. Eight emitters slow ascent; ten reshape the lattice and return the charged wake below the hazardous band. Isolated correlators cannot arm thrusters, ending the signal's immediate access without explaining its source.
+8. Cairn Nine's analog integrator burns out, two frames remain offline, and the reduced-power watch lacks redundancy. End on Varai's manual cooldown and formation handoff.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Anca Vero | new | Receiverless watchframe pilot; targeted legacy and passing-current searches found no exact, alias, or close-spelling reuse. |
+| Varai Tzur | new | Veteran Cairn Nine pilot; no confusing reuse found. |
+| Idris Pawel | new | Station commander; no reuse found. |
+| Naveen Okoro | new | Cairn Nine's repair engineer; no reuse found. |
+| Romesh Ival | new | Field physicist; no reuse found. |
+| Nadja Sile | new | Pilot demonstrating staggered release; no reuse found. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Jovian Station | new | Prompt-supplied orbital habitat; no established location uses this name. |
-| Jupiter | new | Prompt-supplied era-bound gas-giant name; current authority does not establish it as literal real-world history. |
+| Jupiter | new | Prompt-required gas giant; no authoritative entry defines it. |
+| Jovian Station | new | Prompt-required inhabited containment site; no reuse found. |
 
 ## Continuity
 
-- Canon used: One deep-time physical world; an undated technological era may use its own astronomical labels, and characters may hold incomplete models.
-- Boundaries and unknowns: Do not connect this station, fleet, or carrier to the western-bay invasion, adaptive mesh, portals, or established people and factions. Leave the Galactic Cycle coordinate, literal history, builders, callers' motives, storm-life's moral status, and containment's future unresolved. Coordinated frames are not thereby sentient; the storm-life is not a software fault.
+- Canon used: One physical world in an unplaced technological era; bounded systems and incomplete evidence. Nonliving hardware shapes fields without personhood or magic.
+- Boundaries and unknowns: Establish no chronology relative to known eras and no connection to Solstice Evening Bell, western-bay frames, or another signal or system. The hazardous organism is alive, but intelligence and personhood remain unknown; no response becomes speech or consent. The source's makers, age, destination, and purpose beyond observed recovery behavior remain unresolved. Immediate containment and remote access end; cosmic history does not.

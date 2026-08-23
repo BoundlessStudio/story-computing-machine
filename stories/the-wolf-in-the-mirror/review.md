@@ -6,13 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Teague | new | The narrator's adult cursed partner; the human and wolf forms are the same person, and targeted checks found no exact, alias, close-spelling, phonetic, or easily confused reuse. |
+| None | none | No story-facing proper noun names a person or person-like being. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No named place appears in the story. |
+| None | none | No story-facing proper noun names a place. |
 
 ## Continuity
 
@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Time, direction, room geometry, and repurposed equipment remain coherent; Teague frames the transformed interval with consent and independent choices, while the curse and scent response stay local and the mirror remains ordinary.
+- Notes: The complete moonrise-to-dawn watch fulfills the tail-chase and mirror-barking promise; the bounded transformation, consent plan, danger thresholds, privacy choice, and aftermath remain causally coherent. Human speech and wolf-state tones, posture, distance, barking, and pauses preserve distinct agency without overtranslation or final-exchange over-explanation.

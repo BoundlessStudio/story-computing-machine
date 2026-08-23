@@ -31,3 +31,17 @@
 - Avoid: turning the premise into a lesson about sleep hygiene, delegation,
   bookkeeping, or better management; the governing action must be Elspeth
   exercising and defending power as a young mob boss
+
+## Rewrite request
+
+> I want you to review and rewrite all dialog in no locked stories should based on the new improvements to the writing pipeline.
+
+## Rewrite reference images
+
+- None supplied for this rewrite.
+
+## Rewrite constraints
+
+- Cover: AUTO
+- Craft profile: prospective-2026-08-21
+- Authority: the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding.

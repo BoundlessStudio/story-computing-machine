@@ -2,181 +2,45 @@
 
 ## Story
 
-- Premise and central promise: After a cave-in strands route surveyor Temba
-  beneath an unnamed mountain, the only remaining ascent begins across a narrow
-  bridge over a fire that has no visible source, floor, or end. Halfway out
-  stands Maelka, wearing a wide antler crown set with nine burning candles. The
-  candles are a practical draft array: their separate leans reveal the brief
-  intervals when the bridge can be crossed, but the wearer cannot see the rear
-  flames. Maelka needs Temba's near side to reach her daughter in a quake
-  shelter; Temba needs Maelka's far side to reach the ventilation stair. With
-  only one safe interval before a days-long white updraft, resolve who crosses
-  and what the crown is for through one coordinated exchange at the bridge's
-  center, not through sacrifice, conquest of the fire, or a cosmological
-  explanation.
-- Intended reader experience: Let a hieratic horror image become tactile and
-  human without losing its scale: candle grease on Maelka's brow, numbered clay
-  cups, the roar below, and two strangers trying to hear exact instructions.
-  Tighten wonder into bodily suspense as every step depends on an honestly
-  reported flame. The release should feel narrow and earned—both people reach
-  the side they value, while the fire remains endless and the ways beyond the
-  bridge remain uncertain.
-- Generating force:
-  - Mode: Plot-led counterweighted duet. Every candle call permits one matched
-    step in opposite directions; their growing ability to report, correct, and
-    move on the same count generates the story.
-  - Focal attachment or contradiction: Temba trusts routes that can be reduced
-    to load, angle, and distance, yet the only usable route requires entrusting
-    their body to a stranger's local knowledge and stating uncertainty aloud.
-  - Plot-led wants and useful limit, if applicable: Temba immediately wants to
-    cross to the far ventilation stair before lamp, water, and the last safe
-    draft fail. They also want Maelka to reach the daughter waiting on the near
-    side rather than spend the interval saving Temba alone. Their useful limit
-    is a surveyor's habit of replacing fear and partial evidence with a clean
-    estimate: it makes them quick at geometry, but their first confident call
-    nearly converts an unreadable flame into a fatal instruction.
-- Counterforce or complication:
-  - Source: The bridge is barely wide enough for one body, the antlers cannot
-    pass another person at the rail-less center, and the fire's next white
-    updraft will make the span impassable for several days. One ordinary
-    sequential crossing leaves the second traveler on the wrong side without
-    enough water. Heat-borne glass bloom is already stiffening Temba's metal
-    rope fittings, ruling out a casual hanging pass.
-  - Credible inside logic, if a person: Maelka is a trained bridge crosser, not
-    a guardian or antagonist. She crossed alone after the quake to test the far
-    ascent, lost her rear-view mirror to the first flare, and stopped rather
-    than guess. She wants to return to her daughter, preserve the only working
-    crown for future crossings, and prevent an untrained stranger from cutting
-    its tines or trusting a heat-damaged rope. She keeps challenging Temba's
-    shortcuts after agreeing to cooperate.
-  - Pressure or change created: Their destinations are compatible only if they
-    pass during the same draft. Each proposal spends something real—time,
-    crown, rope, water, or bodily safety—and neither person's need can be
-    dismissed as the lesser claim.
-- Narrative design:
-  - POV, tense, distance, and limitation: Close second-person present through
-    Temba, honoring the prompt's direct encounter while restricting perception
-    to their heat stress, survey training, guesses, and view of Maelka. Maelka's
-    motives become legible only through her instructions, corrections, and
-    refusal to gamble; the fire receives no mind or voice.
-  - Time shape and compression: One continuous interval of roughly forty
-    minutes after the cave-in. Give the discovery, first dangerous flare,
-    competing route claims, failed rope plan, midpoint pivot, and final
-    separation full scene space. Compress only repeated candle inventories and
-    breath-count waits; use no flashbacks.
-  - Information and reveal strategy: Present Maelka first as an impossible
-    crowned silhouette. Concrete details then reclassify the antlers as a
-    bone-and-clay survival instrument without explaining away the endless fire.
-    Establish the rear-flame blind spot through Temba's first useful call, then
-    reveal the last safe interval and opposite destinations. Delay the crown's
-    ordinary two-person design until Temba notices worn grip marks on both
-    sides: the solution is not a secret rite but a use neither traveler has
-    attempted with two bodies under one frame.
-  - Governing movement: Descend; mistake firelight for an exit; find the crowned
-    woman; name the flames; survive a warning flare; state opposite needs;
-    spend the obvious plans; admit an unreadable signal; discover the second
-    grips; approach on matched counts; share and rotate beneath the crown;
-    separate while calling each other's blind side; confirm two landings; turn
-    toward different unfinished routes.
-- Speculative surplus: The endless fire sheds fine ash upward that fuses onto
-  cool metal as brittle translucent glass. Bridge travelers therefore favor
-  antler, bone toggles, clay candle cups, and fiber lashings; Temba must keep
-  flexing steel buckles before the bloom locks them. This practical nuisance
-  does not measure courage, truth, kinship, or worth.
-- Structural distinction: A stationary-looking encounter becomes a single
-  mirrored crossing. The core scene is a constrained two-body rotation at the
-  bridge's central knuckle, with the same nine flames read from changing sides.
-  There is no hearing, laboratory proof, public emergency response, converted
-  crowd, institutional rewrite, defeated keeper, or extinguishing of the fire.
-- Decisive turn, deepening, or recognition: At the center, Maelka must lift the
-  crown high enough for Temba to turn beneath one antler while both keep their
-  feet planted. The ninth flame disappears behind a tine. Temba starts to call
-  it safe from the other eight, then says they cannot see it. Instead of
-  freezing or surrendering the interval, Maelka twists the crown against its
-  lashings until the hidden cup comes into view, cracking one tine but
-  preserving the flame. Temba recognizes that honest incompleteness can itself
-  be actionable; they complete the shoulder-to-shoulder pivot, then each reads
-  the blind flames for the other while moving away.
-- Aftereffect or live uncertainty: Maelka reaches the near ledge with the crown,
-  one cracked tine, and a route toward her daughter; Temba reaches the far
-  ledge with a glazed rope kit and an unverified stair upward. Neither can know
-  whether the quake spared what waits beyond the other's tunnel. The fire does
-  not diminish, disclose an origin, or reward them, and the damaged crown must
-  be repaired before another crossing.
-- Opening / ending relation: Open with Temba following nine points of candlelight
-  as if they mark an exit, then realizing they belong to a motionless woman
-  above the abyss. End after two answering knocks confirm that both travelers
-  are off the span: Maelka's candles recede toward one tunnel while Temba tests
-  the first stair in darkness by its cool draft. The apparent beacon becomes a
-  shared instrument, but no light promises what either will find next.
+- Premise and central promise: **A Crown for the Endless Fire**. Ventwright Uldek descends below an evacuated mountain mine to stop a hot draft. He finds Lemra on a rail-less black bridge above fire with no visible limit, six candles burning along her antler crown. Deliver the encounter's scale, heat, geometry, and awe, then solve the failure and free Lemra from the bridge.
+- Focal pressure or attachment: Uldek wants the mine's cool-air draw restored without stranding Lemra. His sole rope is also his route back. He assumes an unknown void is dead structure and sealing the nearest leak is safest.
+- Counterforce or complication: A tremor cracked a bridge rib and jammed a bypass shutter across the span. Lemra needs balance before removing the crown; Uldek wants the hot breach sealed and his line intact. Each knows one side of their shared airflow.
+- POV, distance, and information limit: First-person past through Uldek, limited to airflow, stone, rope load, signals, and Lemra's conduct. He cannot know the fire's origin, her full tradition, or the gulf's literal depth.
+- Governing movement and time shape: One descent and crossing paced by furnace surges: near abutment, central mark, under-rib repair, far shutter, then Lemra's service ascent. Keep the decisive action private; end in a cool junction with the route materially closed.
+- Speculative rule or ordinary-world constraint: On the bridge's central mark, a local working couples six crown candles to six load ribs. Direction identifies the hotter abutment, height shows load, blue-white warns of softening stone, and extinction means broken heat continuity; imbalance makes the antlers heavier. A side chimney normally bypasses the endless fire's surges. While its shutter is jammed, the wearer distributes them. Safe removal requires all flames upright amber through a complete trough vibration. Crown, bridge, and fire neither judge nor communicate beyond these conditions.
+
+## Voice
+
+- Narrative texture: Uldek notices breath, drafts, seams, rope angles, and leverage; awe interrupts measurement without replacing it. Lemra's fatigue gradually becomes evidence he must use.
+- Conversational texture: Uneven job-site talk: checks, corrections, requests, unfinished objections, and ordinary complaints. Speech depends on position and action; signals carry unspoken facts.
+- Rhetorical ownership: Uldek reasons in airflow, loads, and fallback routes. Lemra names bridge states, recalls maintenance behavior, and argues from bodily effects. Neither owns the other's craft.
+- Pressure behavior: Uldek becomes numerical and imperative, risking missed answers. Heat and antler strain break Lemra's clauses; gesture, tools, and exact terms replace fluency until she is uncrowned.
+- Anti-default: Avoid cryptic-oracle instruction, ceremonial cadence, riddle trading, balanced aphorisms, lore monologues, instant trust, romance, sacrifice destiny, or closing commentary on crowns, fire, or duty.
 
 ## Beats
 
-1. A collapse seals Temba's mapped return. Low on lamp oil and water, they
-   follow a hot red glow into a cavern and find Maelka standing midway across a
-   black bridge, antlers and nine candles outlined over bottomless fire.
-2. Maelka stops Temba from stepping onto the span and orders them to report the
-   numbered flames from left to right. Their call lets her move one foot; the
-   next upward flare lashes the bridge and plates Temba's cool steel buckle in
-   glass, proving both the crown's function and the cost of guessing.
-3. In clipped exchanges between roar cycles, Temba learns that Maelka's lost
-   mirror left her unable to read the candles behind her. Maelka learns the
-   near ascent collapsed. The far ventilation stair may save Temba; Maelka's
-   daughter waits in a near-side quake shelter.
-4. The candle pattern announces one last downward draft before a multi-day
-   white updraft. Guiding Maelka back and then crossing Temba would take two
-   intervals. Maelka will not leave Temba to die, but rejects cutting the crown
-   or abandoning it on the span because it is the only working crossing tool.
-5. Temba measures a rope-hanging pass beneath the center. Glass bloom jams a
-   carabiner and heat has shortened the safe rope length; Maelka refuses to let
-   a tidy calculation conceal those unknowns. Temba finally states that the
-   plan cannot be trusted.
-6. While clearing the crown's clay cups, Temba notices paired wear-polished
-   grips inside the antlers. They propose approaching simultaneously, sharing
-   the frame at the slightly wider central joint, rotating back-to-back, and
-   continuing toward opposite sides while each calls the other's blind flames.
-7. They establish a vocabulary—number, lean, flutter, unseen—and take matched
-   steps as the draft turns. Temba's practiced certainty repeatedly collides
-   with Maelka's demand for exact qualifiers; the coordination improves without
-   either person yielding their destination.
-8. At center they crowd beneath the hot crown. The ninth candle vanishes behind
-   a tine; Temba stops a guessed `safe` and admits it is unreadable. Maelka
-   strains the frame until the tine cracks and the flame becomes visible. They
-   rotate together during the narrow lull rather than choosing who retreats.
-9. Moving apart, each now sees and calls the flames hidden from the other.
-   Maelka steps onto the near ledge as Temba reaches the far one; two knocks on
-   stone confirm both landings before the white updraft erases speech.
-10. Maelka secures the damaged crown and turns toward her daughter. Temba leaves
-    the unreliable rope hardware behind and begins the cool, unverified stair.
-    Below them, the fire continues without explanation or visible limit.
+1. Uldek follows reversed draft below the last surveyed gallery. Establish rope discipline, smoke tests, wedges, claw hammer, water, and his order to keep the mine empty. Heat worsening when air stills identifies blockage as the danger.
+2. The passage opens beyond lamplight. An apparently endless field of flame fills the gulf; furnace breath dries his mouth. A thirty-pace bridge reaches a far shutter. Lemra stands centered beneath antlers and six stubborn candles. Let awe hold, then vibration and her buckling posture restore urgency.
+3. Contact is wary and practical. Lemra asks for water and Uldek's position relative to the near seam before offering conclusions. Her hooked pole, neck pad, wick knife, scorch marks, and attention to separate flames establish a worker, not a saint. She knows the bridge; he knows the mine draft.
+4. Uldek wedges the heat seam. Smoke shows shrinkage, but two flames lengthen, one turns blue-white, the antlers drag Lemra lower, and the cracked rib vibrates sharply. He removes the wedge. Their observations establish that his familiar fix would force the next surge through the damage; signals replace explanation.
+5. The cracked third longitudinal rib needs two slings at its near root. Two U-shaped maintenance chases there encircle its saddle from deck mouths to reachable abutment-face slots. Uldek cuts his only return rope into two lengths, ties a small wedge to each, drops it through a mouth, retrieves it with his hammer claw at the matching slot, and tensions the sling into a stone eye. He seats both himself. Lemra stays at center, guiding tension by candle state, pole taps, gesture, and bridge sound; no long reach. Trust stays task-specific.
+6. Uldek crosses low while Lemra holds the mark. During a surge, her fragmented directions and unequal candle height identify the sounder edge. At the far abutment he frees the shutter incrementally, adjusting when color and bridge tone show a full opening would twist the damaged rib.
+7. The restored chimney pulls heat away from the mine. After all flames hold upright amber through a trough, Lemra removes her crown; no transfer occurs. The bridge remains lashed and closed, the rope is spent, and they take her longer ascent. At a cool junction they drink, pad her neck, mark the route unsafe, and retain cut line and wedge as material consequences. The fire's source and depth remain unknown.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Temba | new | Second-person focal route surveyor stranded by the cave-in. |
-| Maelka | new | Antler-crowned bridge crosser trying to return to her daughter. |
+| Uldek | new | Mine ventwright and focal; targeted checks found no confusing reuse. |
+| Lemra | new | Bridge tender; passing-current Levara remains distinct in sound and form. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No named place proposed. |
+| None | none | All story locations remain unnamed. |
 
 ## Continuity
 
-- Canon used: The story occupies the single deep-time physical world in an
-  otherwise unresolved era and region. Its local anomaly is compatible with
-  the plurality of real systems; the crown is nonliving equipment that senses
-  airflow and supplies no agency or magic of its own.
-- Boundaries and unknowns: Keep the mountain, bridge, fire, culture, and era
-  unnamed and locally bounded. Establish no connection to Qarsis or the Black
-  Shoulder, the witnessed stormhart, the Crown of Noon, Solstice's crown,
-  Crown-era rulers, ashfire, living solar fire, hell-labeled afterlife
-  experiences, or any other existing person, place, artifact, creature, or
-  system. Antlers, candles, crown imagery, and fire are resemblance only. The
-  fire is genuinely inexhaustible within every observation available to Temba
-  and Maelka, but its origin, total extent, and relation to the underlying
-  cosmology remain unresolved. Maelka is a living woman using a practical
-  instrument, not established as a god, immortal, transformed beast, guardian,
-  or personification.
+- Canon used: The deep-time world permits local cultures with incomplete models. No established noun or tradition recurs.
+- Boundaries and unknowns: These workings establish no general magic, underworld, afterlife, monarchy, godhood, truth test, or link to other crowns, fires, antlered beings, or deep sites. Lemra is neither queen nor prophet. The fire is observationally inexhaustible; origin, builders, depth, and literal infinitude remain unknown. No reference images were supplied.

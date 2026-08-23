@@ -7,326 +7,414 @@ canon: false
 
 # The Thousandth Fall
 
-The thousandth fall was appointed for sunset. At dawn, Cavori was still one short.
+The infirmary cauldron was halfway off its hook when Sakta's right wrist gave a small, hot pull.
 
-He ran the cliff stairs in rain, bare feet finding edges worn round by generations of sandals. The lower gate stood eight hundred steps below the monastery. He touched its iron latch, turned, and reached the upper court before the breakfast bell had finished its first peal. The sound seemed to hang in the air behind him.
+He stopped. The cauldron hung from both hands, sloshing barley water close to the rim. Across the kitchen, steam filmed the windows and turned three novices into pale shapes among the drying cloths. If he called for help, someone would come. That was the sensible procedure: lower the load, cool the strain, mend only when the muscle had settled into its proper rest.
 
-Fall nine hundred ninety-nine waited at the end of the west parapet.
+Instead Sakta held on.
 
-Cavori crossed the court, planted a foot on the wall, and went over. For one clean instant there was only his robe beating around his legs and the wet roofs dropping away beneath him. Then his shoulder struck the sloping tiles of the bakehouse. He rolled, caught the gutter, tore it loose, and dropped another twelve feet into a stack of empty flour baskets.
+He put his attention into the wrist. Healing was easier with his eyes shut, but the cauldron made that unwise. He found the strain as a roughness inside himself and worked across it, fiber by fiber, while the iron handle kept pulling down.
 
-Amber light pulsed beneath his skin before the baskets stopped bouncing. He held the healing open while bruised breath returned to his lungs and a weakness in his shoulder became heat, then strength. When he climbed out, the gutter in his hand felt as light as a reed.
+Warmth gathered under his skin. The roughness smoothed.
 
-He carried it back to the roof. The infirmarian was waiting below with her hood down and rain silvering her cropped hair.
+When the warmth faded, the cauldron was still heavy. Yet his wrist no longer felt like a wrist enduring the handle. It felt built around the weight.
 
-“How many fingers?” she asked.
+Sakta carried the cauldron to the long table without spilling a drop.
 
-“Nine hundred ninety-nine.”
+Javo came in with a bundle of damp route flags over one shoulder. He stopped where Sakta had stopped.
 
-“Mine.” She raised a hand.
+"You left heel marks."
 
-Cavori looked. “Three.”
+"I was carrying this."
 
-She lowered one finger. “Now?”
+"You carry it every third day. Those are deeper."
 
-“You can stop.”
+Javo had a way of noticing the complaint a floor made after everyone else had crossed it. He set down the flags and pressed a thumb into one heel mark, though there was nothing to learn from cooling stone that he did not already know.
 
-“Two, then. You sent your witness away.”
+Sakta flexed his wrist. "It pulled. I healed before I set the pot down."
 
-“His dawn duty began.” Cavori fitted the gutter against its broken brackets and pinched the bent iron straight with his thumb. “I knew where I was landing.”
+"And?"
 
-“You removed part of the roof on the way down.”
+"And it stopped pulling."
 
-“I’ll mend it.”
+"That is what healing does."
 
-“That answer is becoming a disease.”
+"Not like this." Sakta hooked his fingers under one handle and lifted. The cauldron rose one-handed, barley water rolling toward him. He caught it with the other hand before the novices could shout. "Did you see?"
 
-She caught his wrist when he dropped to the ground. Cavori could have broken her grip without noticing. He went still because she had been the first person to see what his gift became when he used it wrong.
+Javo looked first at the cauldron, then at the scrape its foot had made on the table. "I saw you nearly feed the floor."
 
-“No swelling,” she said, turning his arm. “No tremor.”
+But he smiled.
 
-“That is the point.”
+They began in the sand yard after the evening bowls were washed.
 
-“The last three falls changed nothing I could measure. What was this one for?”
+The first test was too small for Gatria to forbid. Sakta held a stone at arm's length until the muscles in his shoulder trembled, healed the faint damage without lowering it, rested, ate half a heel of bread, and tried again. Javo counted heartbeats and moved a chalk mark each time Sakta's elbow sagged.
 
-He glanced toward the tally wall. Nine hundred ninety-nine white cuts crossed the gray stone in crowded rows. “That sunset will be enough.”
+On the fourth hold, Sakta's arm stayed level beyond the third mark.
 
-She released him. “Enough for what?”
+On the seventh, Javo stopped smiling.
 
-The breakfast bell stopped. Cavori had no answer smaller than everything, so he went to repair the gutter.
+"Again," Sakta said.
 
-* * *
+"You said seven."
 
-Before the count, there had been a man on a litter.
+"Seven was the comparison. Eight tells us whether the comparison repeats."
 
-Four novices carried him up from the cliff road during the first hard storm of spring. Cavori took a pole at the lowest gate and drove himself upward until two novices had to run beside the litter to keep it level. By the time they reached the infirmary, his palms were split and the stranger’s foot was gray with cold.
+"Eight tells us you can change a number while I'm holding the chalk."
 
-Cavori’s gift mended the hands that had carried him. It could do nothing for the man on the cot.
+They took the stone to Gatria.
 
-The infirmarian worked until morning. She saved the traveler’s life. She could not save the foot.
+The infirmarian examined Sakta beside a lamp, comparing one shoulder with the other, then his pulse before and after a careful healing. Gatria's hands were cool and unhurried. She asked him to touch each fingertip to his thumb, then to catch a dropped linen twist. He missed the twist the first time.
 
-“If I had reached him earlier,” Cavori said as she scrubbed road grit from her knives.
+"Compared with this morning, the muscle is thicker," she said. "Compared with your left shoulder, it is warmer and less exact."
 
-“If anyone had reached him earlier, I would have had more to work with.”
+"Because I trained it."
 
-Anyone. Cavori heard the word and disliked its looseness. Anyone might be old, frightened, asleep, occupied elsewhere. He had wanted an answer with hands.
+"Possibly. If you test it tomorrow and the difference remains after food and sleep, you have evidence. If you test it tonight until it fails, you have enthusiasm."
 
-The storm gave him one before noon.
+"Is it dangerous?"
 
-Water had softened a roof support above the crowded infirmary. It split while they were moving the cots. Cavori stepped beneath the descending timber and caught it across both palms. The weight folded him to one knee. Patients cried out. The infirmarian shouted for the door to be cleared.
+Gatria waited.
 
-His healing had always come after: after torn skin, after fever, after the breathless instant when hurt became a finished fact. With the beam grinding down, Cavori refused to give it that instant. He pulled the living warmth through his arms while they were still failing.
+Sakta realized she was waiting for him to meet her eyes. He did.
 
-He closed each hurt into the shape he demanded of his body. The load opened new ones. Cavori kept healing.
+"I don't know," she said. "That is different from no."
 
-He rose.
+By morning, the difference remained.
 
-By the time the last cot passed through the doorway, he was holding a roof beam no six monks could have lifted. When everyone was clear, he lowered it instead of letting it crash. His arms continued to burn with amber light after the weight was gone.
+They made rules because Javo liked routes and Sakta liked sequences. The sand yard only. No drops higher than Sakta's knee until the twentieth fall. Padded sash around the ribs. Water every ten. Food every thirty. Javo called the stops. Gatria examined him after each set and could end the work.
 
-The infirmarian made him sit on the floor.
+Sakta wrote the rules in the back of the laundry tally, below six missing pillow covers and a note about soap.
 
-“Let it finish,” she said.
+The falling was Javo's idea. Muscles worked differently when they caught a body all at once. He built a low platform from ordinary grain pallets and spread sand beneath it twice as deep as necessary. Sakta stepped off wearing two flour sacks crossed over his chest, landed bent-kneed, and held the load while he repaired the small shocks in his calves, thighs, back, and feet.
 
-“It has.”
+The first fall hurt less than carrying the cauldron.
 
-She put a stone mortar in his hands, one heavy enough that he normally carried it against his chest. He lifted it with two fingers.
+The second felt cleaner.
 
-Neither of them spoke for a while.
+At the tenth, his landing drove neat hollows into the sand.
 
-The abbot came to the ruined infirmary and listened without interrupting. Rain dripped through the open roof between them. Cavori demonstrated once, pressing up on the fallen beam while he directed his healing through the effort. The amber warmth returned. The beam rose farther.
+"Water," Javo said.
 
-“Wrong,” the abbot said.
+"At twelve. Ten was barely a set."
 
-Cavori nearly laughed. “You saw what it did.”
+"The agreement says ten."
 
-“I did.” The abbot crouched to look him level in the face. “Your gift used to repair you after danger. Now you are teaching it to preserve what danger makes of you.”
+"The agreement also says you call stops based on what you see. What do you see?"
 
-“A stronger body.”
+Javo pointed to the dark crescent under Sakta's collar. "Sweat. Drink."
 
-“A body still beneath a roof.”
+Sakta drank.
 
-Cavori looked past him to the empty cot where the traveler had lain. “Next time I can reach the road before the cold does.”
+He had spent six years in the infirmary watching other people's recoveries become celebrations that walked away without him. A potter's fingers closed around clay again. A fevered child demanded pears. A courier tested a healed ankle in the corridor until Gatria chased her outside. Sakta loved those departures. He did. But afterward he folded the abandoned blankets and scrubbed the cups, restored to the same ordinary body with which he had arrived.
 
-The infirmarian tapped the mortar out of Cavori’s fingers. “Next time you may not notice that you’ve stopped thinking.”
+This stayed.
 
-They permitted him to explore the inversion only because forbidding it would have sent him to the stairs alone. The infirmarian watched. The abbot limited each trial. Cavori made the first tally mark the day his legs ceased to answer halfway up the cliff and he forced them back into motion with healing.
+At the hundredth fall, the sacks no longer dragged him forward. He landed so lightly that Javo crouched to inspect the sand.
 
-“Record the falls,” the infirmarian had told him, “or you’ll remember only what you lifted afterward.”
+"The right hollow is longer," Javo said.
 
-He obeyed with great care and misunderstood her completely.
+"By a finger."
 
-At fifty falls, he could carry a water barrel under either arm. At two hundred, he could overtake a loose cart on the lower road and turn it aside before it reached the pilgrim shelters. At five hundred, he raised a cracked gate lintel while the masons rebuilt its supports around him. His strength grew out of the same wrong healing as his speed: each impossible effort became the next effort’s beginning.
+"Two. And the near pallet has started to tilt."
 
-His stamina changed last. He learned to hold the amber current through a whole morning, then through a day, then from one dawn to the next without a break in his stride. The warmth no longer fluttered when he tired. It ran steadily beneath his skin while he hauled stone, climbed the cliff, and returned to haul again.
+"Then we turn it. Ten more on the other side, and we see if the hollow follows me or the wood."
 
-The monastery found uses for him faster than he found limits.
+"After supper."
 
-A load of winter grain arrived late; Cavori carried every sack before the carter had unhitched the mule. A novice forgot medicine at a road shelter; Cavori fetched it while the kitchen water came to a boil. A storm felled pines across the stairs; work crews arrived to find the path cleared and Cavori already sweeping needles from the stone.
+"Nine first. One completes the set."
 
-At first, the requests pleased him. Later, no one needed to ask. He saw the bowed axle, the full basket, the frightened messenger, and was moving before another person chose what to do.
+Javo held out the water dipper.
 
-The infirmarian ended a trial when his answers slowed. Cavori waited until she slept and resumed it. The abbot required witnesses. Cavori chose exercises too quick for witnesses to reach. Every hidden failure still earned an honest cut in the wall. Honesty, he discovered, could become another place to hide.
+Sakta's annoyance vanished when he tried to take it. His fingers closed late, and water splashed down both their sandals.
 
-By the time he reached nine hundred ninety-nine, the monks did not plan urgent work without leaving a space shaped like him.
+Hunger came with an edge sharp enough to make the dining hall smell painful. Sakta ate two bowls of lentils, three pieces of flatbread, and Javo's untouched turnip before noticing whose plate it had come from.
 
-* * *
+"You don't like turnips," Sakta said.
 
-The abbot found him at the tally wall an hour before sunset. Cavori had set a chisel beside the final blank place. Beyond the parapet, rain dragged veils across the cliff road.
+"I was saving that one to dislike later."
 
-“The infirmarian says you fell from the west wall alone.”
+Sakta pushed half a pear across the table. Javo accepted the peace offering and then stole the other half while Sakta was drinking.
 
-“She saw the landing.”
+The rules grew. Salt in the water. Two rest days in every seven. No healing through dizziness. No stair training after rain. Sakta added columns to the laundry tally until the monastery had a better record of his calves than its sheets.
 
-“Afterward.”
+By the fifth week and the five hundredth fall, they needed a higher platform and six sacks.
 
-Cavori wiped stone dust from the chisel. “Stand here for the next one. Then it satisfies your rule.”
+The change announced itself most clearly during chores. A grain sledge lost a wheel pin in the lower storehouse, and four monks stood around it arguing about whether to unload the winter barley. Sakta crouched, put his shoulder under the rail, and lifted. The runners cleared the floor.
 
-“What does the number satisfy?”
+Nobody spoke until Javo slid the pin back into place.
 
-“You’ve asked me that before.”
+"Set it down," Javo said.
 
-“You keep answering with arithmetic.”
+Sakta did, gently. Wonder ran through him brighter than healing heat. The sledge had been heavy, yes, but heavy had become a fact he could move through rather than an answer.
 
-Cavori pointed at the crowded marks. “Every one is a moment my body failed. Every one ended with me stronger. At a thousand, that is no longer luck.”
+That evening he ran the cliff stair, all seven switchbacks from the herb terraces to the upper bell, came down, and ran it again. Route runners who managed three ascents without a pause bragged about it over supper. On the fifth circuit Javo sat on the laundry step to continue counting. On the ninth, Sakta's legs remained strong, his breath still arriving in measured pulls. He could repair the work almost as quickly as his muscles made it.
 
-“I have never called your strength luck.”
+His mouth, however, had gone dry enough that his tongue caught on his teeth.
 
-“You call it wrong.”
+"Stop," Javo called.
 
-“Because you have made pain too quiet to advise you.” The abbot touched the newest cut, not the empty space. “And because nine hundred ninety-nine repairs have not improved your judgment by a finger’s width.”
+"One circuit. Then water."
 
-Cavori picked up the chisel. “The man on the litter needed speed, not judgment.”
+"Your left foot is clipping the inner edges."
 
-“He needed four novices to keep the litter level while you tried to outrun them.”
+"Not on the ascent."
 
-“I could carry him alone now.”
+"Both descents. The fourth landing has a raised seam."
 
-“I know. Suppose another litter reaches the lower gate tomorrow and a novice takes the front pole. Can you walk beside him without taking it?”
+Sakta was already running. He heard the last sentence as pieces separated by his own footfalls.
 
-“If the patient is dying?”
+He cleared the seam. He cleared the next three steps. On the lower turn, his left sandal scraped stone exactly where Javo had predicted.
 
-“On this road? Always. Answer me.”
+Sakta finished the circuit anyway.
 
-Cavori’s thumb pressed a crescent into the chisel’s wooden handle. He turned toward the parapet, already choosing a height, a landing, a final mark that would make argument unnecessary.
+Gatria compared his pulse with the old records and made him follow her finger with his eyes. "Your recovery is faster. Your attention is not. If you answer checks and obey either person's stop call, I will observe the next week. If you argue while moving, I won't."
 
-The cliff moved.
+"I can stop arguing while moving."
 
-It began as a shudder under his bare feet. Then came a deep, splitting report from below the lower gate. The outer edge of the road dropped out of sight. A bell at the watch post clanged twice, paused, and clanged without rhythm.
+"That was not the condition."
 
-Along the next switchback, people were running uphill from a returning pilgrim party. Behind them, a brown wall of earth folded trees into itself.
+He looked at Javo. Javo was rubbing chalk dust out of the cracks in his hand.
 
-Cavori let the chisel fall.
+"Answer checks," Sakta said. "Shared stops. Seven days."
 
-The abbot did not reach for him. “Go.”
+Gatria waited until he nodded.
 
-Cavori was already gone.
+For two days he kept the terms exactly.
 
-He crossed the upper court before the chisel hit the paving.
+On the third morning, Javo left before dawn to replace route flags above the goat path. Sakta meant only to test whether slow falls demanded less concentration. Twelve became twenty because his pulse stayed even. At twenty, he added a sack. At twenty-seven, the breakfast bell rang.
 
-Rain came toward him like thrown gravel. He took the cliff stairs in great descending leaps, one hand skimming the wall to turn his speed. At the lower gate he saw the first boulder break through the mist above the road. It bounced once, high as his chest, and filled the passage.
+He entered twenty in the tally, then stared at the number. The difference was only seven. Seven did not alter the next threshold. It merely spared Javo a discussion about work already done.
 
-Cavori ran at it.
+He left the number where it was.
 
-Amber light poured through his legs. He struck the boulder with his shoulder and drove it sideways through the parapet. It vanished into the ravine. He did not slow enough to watch it fall.
+At six hundred, Sakta crossed the safe ground between Javo's two chalk marks before Javo could call the intermediate time.
 
-The returning party had split around an overturned handcart. Two pilgrims had made the inner shelter. A novice knelt at the axle, trying to free an older woman whose robe was trapped beneath it. Farther down, one pilgrim limped alone. Two novices hauled each other uphill. At the old span, another pilgrim crouched beside someone who was not moving. The sliding earth was less than a hundred paces behind them.
+"Again," Sakta said, laughing.
 
-“Leave the cart!” Cavori shouted.
+Javo still held the string pinched between two fingers. "You passed the mulberry before I looked up from your start."
 
-“Her leg is under it!” the novice shouted back.
+"Then look up sooner."
 
-Cavori reached them, lifted the loaded cart over his head, and hurled it onto stable ground above the shelter. The novice stared.
+"The ground dips beyond it. Your stride shortened where you didn't expect the hollow."
 
-“Free the cloth,” Cavori said. “Then hold her leg steady.”
+"But it held. Put the finish farther out."
 
-They pulled the robe clear. Cavori gathered the woman into his arms, and the novice ran beside him, supporting her injured leg as the first wave of mud swallowed their footprints.
+Javo gathered the string. "Tomorrow. I need a longer measure."
 
-He set them behind the gate and turned down again.
+Sakta ran the route once more while Javo was coiling it. By the time Javo shouted, Sakta was already skidding to a delighted stop at the wall.
 
-The abbot and a dozen monks were arriving with coils of rope. One thrust a loop toward Cavori. He passed it without taking it.
+The delight lasted. That was part of the trouble. Strength was not a punishment in disguise. Speed did not sour because it frightened someone else. Sakta liked the instant when distance lost its authority. He liked carrying laundry baskets three at a time and arriving before the kitchen bell finished sounding. He liked Javo's startled laughter when a stone intended for two men rose in Sakta's hands.
 
-“There are five below,” he said. “One limping. One down. The old span is cracking.”
+He liked being the reason Javo revised a route.
 
-“We’ll anchor here,” the abbot called after him.
+By nine hundred, Javo no longer laughed when Sakta changed the measure.
 
-Cavori outran the next collapse.
+"Your sash buckle has worn through two holes," he said before one evening set.
 
-He brought the limping pilgrim up on his back. He returned for two novices, carrying one beneath each arm when the road vanished behind their heels. He ran down a fourth time because two people remained. He found the last pilgrim crouched under the inner wall, refusing to leave a novice who had fallen across his pack.
+"I tightened it."
 
-“Take the pack,” Cavori told him.
+"The west pallet is splitting."
 
-“Take the boy.”
+"We replaced the crosspiece."
 
-“I can take both.”
+"The west tread beneath the mat has shifted half a thumb since last week."
 
-“Then stop talking.”
+"My foot doesn't touch that side."
 
-Cavori almost smiled. He gathered the unconscious novice against his chest and hooked the pilgrim around the waist with his other arm. The ascent should have emptied him. Instead, the continuous healing made every stride as forceful as the first. Mud dragged at his ankles; rain erased the stairs; stones struck his back. He reached the old span without losing speed.
+"The mat does."
 
-Then the span broke.
+Sakta rolled his shoulders under the weighted frame. "Nine hundred and ninety-nine tonight. Tomorrow, one clean fall makes the thousand. Then we move the platform back to the yard."
 
-The road crossed a narrow cleft on an arch of fitted stone. Its outer half sagged, opening a black seam from parapet to cliff. Cavori set down the people he carried on the near side. Above the crack, rescuers threw ropes and shouted for them to wait.
+"Tonight is finished."
 
-The stones shifted again.
+"You haven't seen the first landing."
 
-Cavori drove both hands beneath the sinking edge and lifted.
+"I've seen the stair."
 
-Half a road settled onto his shoulders. The force punched his feet through the paving to the buried rock below. Amber light blazed along his arms. He pushed until the broken surface rose level enough to cross.
+"One fall. You call the angle."
 
-“Now,” he said through his teeth.
+Javo carried the frame away instead.
 
-The conscious pilgrim crawled over first. Three novice rescuers edged onto the broken surface from stable ground and drew the unconscious novice across between them. Weight traveled through Cavori in hammer blows. He repaired each fresh strain and bore the next.
+Sakta followed him into the store passage. "You agreed to the count."
 
-He could have held the road until morning.
+Javo set the frame against the wall. "I agreed to look."
 
-The thought was barely formed when the inner wall burst. Water and stones struck the far side of the arch. A novice near the parapet lost his footing and slid over the edge.
+"And you looked. So give me the adjustment."
 
-Cavori saw his hand vanish.
+"Move the whole set to the yard. Two days to level the sand and rebuild."
 
-Every trained part of him chose the jump. Release the road. Turn. Catch him. Be the answer before anyone else could move.
+"For one fall?"
 
-But two rope bearers still knelt on the slab above Cavori’s shoulders, the unconscious novice between them. If Cavori left, the same stones he carried would take all three into the cleft.
+"For whatever number it really is."
 
-He stayed.
+The passage narrowed around that sentence.
 
-“Ropes on the arch!” he shouted. “Not on me. Take the weight.”
+Sakta heard himself become precise. "The recorded sequence is consistent. Twenty after the five hundredth rest day, forty per training day except the two reduced sets, plus—"
 
-The abbot understood first. He sent one line around the remaining parapet and another through a gap between stones. The infirmarian dropped to her stomach in the mud, reached beneath the road, and forced a third rope around the slab pressing Cavori’s left shoulder.
+"Plus mornings when I was on the routes. The laundry tally has chalk under ink."
 
-Below, the falling novice struck a scrub pine and broke through its branches. He was still moving.
+Sakta had thought the ink covered it.
 
-“Faster,” Cavori said.
+Javo picked up his route bag. "Nine hundred and ninety-nine is your number. The stair doesn't care."
 
-“Then hold still,” the infirmarian snapped. “You’re sawing the line.”
+The next afternoon came bright and dry. Javo spent it on the lower switchbacks, replacing a loose parapet marker before evening wind. Sakta found the weighted frame in the store passage.
 
-Monks hauled. The ropes stretched until water sprayed from them. Cavori felt the load change—not disappear, not become safe, but spread into other hands and anchored stone.
+He told himself he would not use it. He carried it only as far as the upper landing. He checked the sky, the tread, the split pallet, the sandbag mat on the landing below. The west tread had not moved since morning. His ankles were cool. His breath was full. There was no pain anywhere.
 
-“Ours!” the abbot shouted.
+One fall. Then the argument would be about a completed fact.
 
-Cavori lowered his left shoulder a finger’s width. The slab followed. “Not yet.”
+He fastened the frame.
 
-The abbot planted both heels, took another wrap around the parapet, and looked along the line of straining monks. “Again.”
+The power in his legs had outgrown the height. To make the landing count, he drove upward as well as out, folded in the air, and dropped hard onto the sandbag mat.
 
-The ropes rose. Stone lifted clear of Cavori’s shoulder.
+For one gorgeous instant, everything held.
 
-“Now,” the abbot said.
+Then the outer edge of the stair went down.
 
-Cavori let go.
+The tread Javo had measured tipped beneath the sandbags. Its iron pin tore out of mortar. The stone struck the switchback below and broke into gray wedges that bounded toward Javo.
 
-The anchored ropes caught the arch. He turned in the same motion and ran three steps across falling stones. The edge crumbled beneath his last stride. He launched himself into the ravine.
+He turned at the first crack. One fragment hit his route bag and spun him against the parapet. The bag's strap caught under a second, larger slab as it slid across the step. Javo went down on one knee, pinned sideways, while the loosened outer course above him began to lean.
 
-The novice tumbled below, slowed by branches but nearing a bare ledge. Cavori could not fall faster by wanting it. He twisted in the air, struck one foot against the cliff, and drove himself downward. Rock cracked under the push. Amber fire streamed from his heel to his spine.
+Sakta ran.
 
-He passed the falling novice.
+He reached the inner wall before the dust reached it, took four steps in one, and cut across the turn so fast the world became pale stone and Javo's open mouth. A slab twice the size of the grain sledge lurched free above them.
 
-For an instant Cavori was beneath him with nothing under either of them. Then Cavori caught the boy around the ribs and turned. His own back struck the ledge.
+Sakta put both hands under it.
 
-The impact extinguished the rain.
+The impact drove him to one knee. Something tore from his left shoulder to his ribs. He caught the damage with his attention and repaired it while the stone kept descending. Heat flooded him. His leg straightened. The slab rose a finger's width.
 
-Warmth returned first. Cavori drew it through himself while the mountain seemed to press from every side. His lungs opened. His hands closed securely around wet cloth. Sound came back as a single ragged breath against his neck.
+"Can you move?" he asked.
 
-The novice was alive.
+Javo pulled at the trapped strap. "No. Left corner."
 
-Above, the broken arch still hung in its web of ropes. The pilgrims were across. No one else fell.
+Sakta shifted left.
 
-A rescue line snaked down the cliff and slapped the ledge. Cavori caught it. His arms were strong enough to climb while carrying the novice, and the route above was plain to him.
+"Not yours. The slab's. Lower."
 
-He tied the line around the boy instead.
+Directions that would have been obvious at breakfast scattered in the strain. Sakta looked at Javo's hand, followed the line of his finger, and lowered the slab's left corner into a shallow notch in the inner wall.
 
-“Ready!” he called.
+The stone settled. Not enough to release him. Enough to change the pull.
 
-They hauled the novice up. Cavori remained on the ledge, amber light fading from his skin, until the rope descended a second time.
+"Now?"
 
-The infirmarian leaned over the cliff. “Can you stand?”
+"Hold."
 
-Cavori stood.
+Sakta held.
 
-“Can you climb?”
+His arms no longer hurt. That was useless information. Water streamed from his face. His heartbeat seemed to come from somewhere beyond the dust. He repaired a quiver in his thigh, then another in his shoulder. Each healing returned the muscle to the shape of its labor, but the shape grew harder to command. His hands wanted to shove the slab clear in one movement.
 
-He looked at the holds, then at the loop waiting in his hand. “Yes.”
+Javo saw the change. "Don't lift."
 
-“That was not an invitation.”
+"I can clear it."
 
-This time he fastened the rope around himself. Other people took his weight.
+"Loose course above you. Hold."
 
-* * *
+Sakta's next breath scraped dry. He fixed his eyes on a pale chip beside Javo's knee. The chip doubled, joined, separated.
 
-The infirmarian kept him on a cot after everyone else had been treated. Cavori’s body had repaired the fall before the rescue party lifted him over the edge, but she checked his eyes, made him answer the same questions twice, and pressed along his back while he insisted it had already mended. Then she put a bowl of broth in his hands.
+"Javo."
 
-Outside, ropes creaked as the monks secured the broken road. Cavori heard every shouted count. His legs gathered themselves each time, ready to carry him back into the rain.
+"Still here."
 
-He stayed on the cot and ate.
+"Next sequence."
 
-The abbot arrived carrying the chisel from the tally wall. He set it beside the bowl.
+"No sequence. Right foot back."
 
-“You dropped this at nine hundred ninety-nine,” he said.
+Sakta moved it too far.
 
-Cavori drank another mouthful. “I remember.”
+"Half that. Stop."
 
-“Should I bring you the hammer?”
+He stopped. The position felt smaller, weaker, wrong. It also put his hip beneath the slab and left both hands steady.
 
-Rain ticked against the shutters. Far below, the cliff gave one last settling groan, and the ropes held.
+"Call Gatria," Javo said.
 
-Cavori pushed the chisel back across the blanket.
+Sakta drew breath to shout and got only a dry cough.
 
-“Bring another bowl.”
+Javo shouted instead. Once, twice. His voice carried down the cliff face and back through the kitchens. Footsteps answered above.
+
+Gatria arrived with two monks, a coil of rope, wooden chocks, and the long kitchen pry bar. No magic moved in any of it. The rope was hemp. The chocks were scarred from propping carts. She took in the broken stair, Javo's pinned strap, and Sakta under the slab.
+
+"Sakta. Look at me."
+
+He tried. Her face slid past his focus.
+
+"Can you hold without healing?"
+
+"No."
+
+"Can you hold while I count ten?"
+
+He listened to the question twice. "Yes."
+
+She waited until he had answered. Then she looped the rope around the slab and set the others at the pry bar. Javo gave them the sound footholds: inner seam, second tread, avoid the white crack. Gatria counted. At seven, the bar took weight. At nine, someone drove a chock beneath the lower edge.
+
+"Now lift one finger," Javo said.
+
+Sakta obeyed.
+
+The rope tightened. The slab rose just enough for Javo to cut his bag strap with Gatria's knife and drag his leg free. Gatria shoved him toward the wall, then touched Sakta's wrist.
+
+"Release on three," she said. "Do you understand?"
+
+Sakta wanted to tell her he could lower it more smoothly by stages, that he knew exactly how much remained in his arms. His hands were shaking against the stone. He had not felt them begin.
+
+"Yes," he said.
+
+They lowered the slab onto the chocks and the buried pry bar. Sakta tried to stand. His legs folded so quickly that Gatria caught his head before it struck the step.
+
+He woke in the infirmary with salt on his lips and Javo's torn route bag on the chair beside him.
+
+Javo sat on the next cot with one ankle wrapped and his supper balanced on his stomach. Bruising showed along his cheek, dark but not deep. He was using Sakta's spoon.
+
+"That's mine," Sakta said.
+
+"You were asleep."
+
+Gatria appeared at the foot of the bed. She held out a cup. "Compared with when we carried you in, your pulse is stronger. If you keep down this water, you may have broth."
+
+Sakta took the cup. His arms felt perfect. The cup clicked against his teeth.
+
+He drank carefully.
+
+"Javo's ankle?"
+
+"Sprained," Gatria said. "If he stays off it tonight, it should mend in the ordinary time."
+
+Sakta could mend nothing in Javo. He had always known that. The fact had never before seemed to occupy so much of a room.
+
+Javo scraped the last lentil from his bowl. "The lower route is closed until we reset twelve treads. The laundry route too."
+
+"How long?"
+
+"With three workers, two days. With you carrying stone, half a day. With you carrying stone before Gatria clears you, longer."
+
+Gatria held Sakta's gaze.
+
+"After food and sleep," he said. "After the checks."
+
+"Good," she said. "Finish the water."
+
+When she left, the kitchen noises returned through the open infirmary door: bowls stacking, somebody objecting to boiled cabbage, sandals scuffing the passage. Sakta set the empty cup on his knee.
+
+"There were forty-seven extra falls," he said.
+
+Javo looked at him.
+
+"Seven that first morning. Eight above the cistern. Twelve on the rest day when you changed the high flags. The others were short sets. I can write them in."
+
+"All of them?"
+
+Sakta went back through the sequence. At twenty-seven, his memory blurred with three nearly identical dawns. "No."
+
+Javo put the borrowed spoon in Sakta's empty cup. "Then don't write a number yet."
+
+The unfilled place in the tally bothered Sakta at once. It also felt honest.
+
+"Will you still measure?" he asked.
+
+Javo glanced at his wrapped ankle, then at the torn route bag. He did not answer quickly for Sakta's sake.
+
+"Tomorrow," he said, "you carry breakfast to the lower landing. At my pace. We measure every loose tread on the way. If you miss one, we come back up."
+
+It was not another fall.
+
+Sakta picked up the broth Gatria had left to cool. His hand still trembled, so he steadied the bowl with both palms and waited for Javo to put his feet on the floor first.

@@ -7,450 +7,516 @@ canon: false
 
 # The Night Harvest
 
-On the nights when the monsters came thickest, the refinery smelled of oranges.
+The first stranger ruined forty-three crowns' worth of lamp-grade throat node before Brelva could get off the weighing platform.
 
-The scent came from scrub foam sprayed over the receiving floor. It was meant to tame the reek of hot hide and opened gut. It never did. By midnight the whole yard smelled like fruit left in a butcher's sink, and the crews stopped noticing because the record board above the scales kept adding weight.
+She knew the value because she had just chalked it on the carcass board. Two nodes, no punctures, good color, vibration holding north-northeast. The creature that had grown them lay across the intake rails with its six legs trussed and its wet hide steaming in the cold. Three months ago, people had screamed at the sight of such a thing. Now a hook crew was arguing over who had misplaced the small gut knife.
 
-I noticed everything that could make weight lie.
+The stranger vaulted the rail.
 
-The carcass on my table had six limbs, though only four had reached the truck. Its hide went for roof laminate. Its hollow leg bones made kiln brick. Three translucent knots under the ribs held the blue charge we rendered for the yard lamps. A year earlier, before the first night arrivals, I would have called the whole animal impossible. Now I hooked a thumb under its breast seam and called, “Two intact. One split. Hide class three.”
+She was lean beneath a patched coat of plates, her black hair hacked short. Her long blade had opened the monster below its jaw. Before Brelva could call to the guards, the woman set an iron wedge between the paired swellings in its throat and struck once with her hand.
 
-The cutter beside me held out the shielded sample tin. I dropped the split knot inside and clamped the lid.
+Both nodes cracked.
 
-“Class two,” he said. “Look at the plates.”
+Blue fluid ran into the sawdust. The faint tremor under Brelva's palm stopped.
 
-“Look at the scorch under them.”
+“Forty-three,” Brelva said.
 
-“That happened on the truck.”
+Perren, who had been holding the tally slate, looked at the ruined nodes and then at the woman. “You think she takes crowns?”
 
-“Heat is heat.”
+“She can take the consequence.” Brelva stepped down. “You. Those were ours.”
 
-He made a face and marked my grade. The truck owner would lose twelve credits. My line would lose forty seconds. Both were better than letting scorched tissue foam inside a refining vat.
+The stranger stared at her. Rain ticked on her shoulder plates. Gray monster ash filled the seams, and three healed cuts crossed the woman's cheek.
 
-Behind me, the shift chief slapped the rail twice. “Your line's ten under target, Kessa.”
+Brelva pointed to the chalkboard, then the nodes, then held out her hand.
 
-“I found scorch under the plates.”
+The woman answered with a low cluster of sounds that had no edge Brelva could catch. She lifted one broken node. Its inner membrane, thin as an onion skin, shivered in the night air. She pointed along the north road, where the monster's living throat had faced when the hook crews brought it in. Then she pointed at the cold shed behind Brelva.
 
-“That isn't what I asked.”
+“Yes, we store them there,” Brelva said. “Very observant.”
 
-“Pass it and you'll have a blocked vat.”
+Perren touched her elbow. “Brelva.”
 
-He pointed at the next hanging carcass. “Move that one.” We were nineteen tonnes short of the biggest night harvest on record, and every pair of hands in the yard had already spent the bonus.
+Beyond the north lamps, something gave a long, hollow cry.
 
-Mine had paid the deposit on my brother's new walking brace three times over. The trouble was, I had spent the same money on rent and his last two therapy visits as well.
+The stranger dropped the membrane into a brazier. It curled, flashed green, and went still. She tapped the dead flesh, pointed toward the cry, and then laid two fingers against the hard-packed ground between them.
 
-My pocket vibrated. I knew who it was without looking.
+One relation at a time. Flesh. Road. Ground.
 
-“You're still at the plant,” my brother said when I answered. He could hear the cutting saws through my coat.
+Brelva understood none of it.
 
-“They offered the extension.”
+The stranger did not wait. She went over the rail again and ran north, coat plates clattering out of time with the rain.
 
-“You said you'd take the first shuttle home.”
+The intake supervisor arrived after the lamps had been shuttered and the hook crew sent after the cry. He crouched over the blue stain with both hands tucked into his sleeves.
 
-“I said I'd try.”
+“Purchased batch,” he said.
 
-“No. You said you'd be on it.”
+“Ours until you pay it,” Brelva said.
 
-A horn sounded at the north gate. Another loaded truck. The intake clerk raised both arms as if he had summoned it himself.
+“Purchased on the contract. Ruined on my floor. Your account will show the damage.”
 
-“The brace fitter opens at nine,” I said. “If we clear the record, I can pay the rest before your appointment.”
+Perren scraped sawdust over the stain with his boot. “Our account already shows an axle, two wheels, and a cart bed that leaks when it rains.”
 
-“And if you don't?”
+“Then don't let foreign scavengers onto the rail.”
 
-“Then I work tomorrow.”
+“I was grading,” Brelva said. “Your guards were eating.”
 
-He went quiet. Silence was the only way he could stop himself from asking for something. Since the delivery van had rolled with him inside it, he had learned to make every need sound optional.
+From behind the brine shed came the embarrassed clink of a spoon against a bowl.
 
-At last he said, “Don't make me the reason you stay there.”
+The supervisor closed his eyes. “They get twenty minutes for supper.”
 
-The belt jerked. A plated foreclaw caught the guide rail, closed hard enough to bend steel, then relaxed. Dead muscle sometimes kept instructions longer than life.
+“They took twenty-four.”
 
-“I have to go.”
+“Then I will purchase four minutes back from the dead nodes.” He rose, knees cracking. “Forty-three crowns deducted. Bring me three full loads before sixth night and the cart is clear.”
 
-“Kessa—”
+Brelva looked at the chalkboard. Three loads meant no short routes, no turning back because the dark sounded busy. It meant the marsh road, where their partners had died in the second week.
 
-I ended the call and reached for my grading hook.
+Perren set the slate under his arm. “We'll bring them.”
 
-By then the whole district depended on what came out of the monsters. We wore their plates, mixed their salts into batteries, burned their rendered blue charge over loading yards and doorways. The lamps cost less than imported fuel and shone through rain. People said they made the streets safer. Nobody said the other half aloud: as long as the creatures kept appearing, trucks kept rolling and night work paid better than day.
+Brelva said, “Two full, one mixed.”
 
-The next truck struck the gatepost on its way in.
+“Three full,” the supervisor said. “The refiners bought fuel I promised them. The clinic bought tendon. Six crews have advances against that money, including yours.”
 
-Its windshield was starred white. One mirror dragged by its cable. The driver leaned out, shouting for us to drop the barrier behind him, but the tarp over his load was already lifting.
+He did not sound greedy. He sounded tired, and the distinction annoyed her more.
 
-Not settling. Breathing.
+“Three,” Perren repeated.
 
-I hit the belt stop.
+Brelva watched rain fill the stranger's footprint in the sawdust. “If the north road stays open.”
 
-The chief's hand landed on the rail beside mine. “Why is your lane idle?”
+***
 
-“Something's alive.”
+On the second night, two more strangers appeared. One fought beside the slaughterhouse ditch with a hooked spear; the other used a short bow that punched bolts through the monsters' knee joints. Neither answered questions. Both ignored hide, bone, heat sacs, and the pale liver combs the clinic rendered into fever wash. They killed until the street was quiet, broke every throat node they could reach, heated the membranes, and left.
 
-“Nothing on that truck is alive.”
+The corpse industry had learned speed because rot did not care about grief. Roofers took the hides. Rope shops twisted tendon. Kilns ground the porous bones into hot-burning brick. In three months, the night harvest had put dismissed dockhands back on wages and given families a cheaper lamp than whale oil. The creatures kept coming. So did rent.
 
-“Then put your hand under the sheet.”
+At the yard, Brelva began a second tally in the back of her ledger.
 
-He did not.
+One wagon from the west ditch arrived untouched. Two creatures attacked behind it before the gate shut. A south-road load drew nothing until it passed a cold wagon carrying brined nodes; then three shapes abandoned the slaughterhouse pens and followed the wagon's iron wheels through the rain.
 
-A barbed head punched through the tarp. The creature had folded itself among four dead ones, black limbs nested into black limbs, and the truck crew had built the rest of the load over it. It came up with a strip of tarp hanging from its mouth. Cutters ran. The driver tried to climb through his window and caught his coat on the mirror bracket.
+Perren saw a different pattern.
 
-A small figure rose behind the monster.
+“The spear man stood here.” He put a finger on Brelva's map, on the row of cramped houses beyond the east drain. “Not where the thing came through. Here.”
 
-For three weeks we had been hearing about the strangers: people seen only after dark, wrapped in mismatched armor, walking toward monster cries while everyone else ran away. They accepted no bounties. They gave no interviews. Most of them did not appear to understand a word spoken to them.
+“A person can stand anywhere.”
 
-This one had ridden into our yard under the same tarp as the dead.
+“He kept his back to the doors.”
 
-They sprang onto the creature's back and locked one boot behind a ridge of shell. A hooked blade turned in their hands. The monster reared, throwing both of them against the truck's cage. The stranger stayed attached. They drove the short hook under a plate where my grading chart marked no useful seam, twisted once, and the creature fell across the load.
+“That is how you avoid being surrounded.”
 
-The stranger landed badly. One knee buckled, then held. They did not check it. They cut into the fresh carcass, dug out all three blue knots, and crushed them under the flat of the blade.
+“He had open road behind him.”
 
-The cutter beside me swore at the wasted money.
+Brelva drew the wagon route in chalk. “And six houses ahead. I can count roofs too.”
 
-The stranger looked up.
+Perren leaned across the cart tongue to inspect a split strap. “Didn't say you couldn't.”
 
-Behind intake stood four refining towers, thick pipes climbing their sides. Blue charge rose in each sight tube with the condenser stroke. Light moved across the stranger's face. They went still for half a breath, then ran directly at the towers.
+“You meant it.”
 
-Security dropped the wash grille.
+“I meant he put his body in a place. Bodies are usually honest about what they expect.”
 
-It caught them between the receiving floor and the chemical rinse bay. The stranger wheeled before the bars struck concrete, weapon raised. Three guards aimed shock batons through the mesh. For a second I thought the stranger would cut their way out. Instead they saw the batons pointed past them at the workers and let the hooked blade fall.
+“Ours expected supper twenty minutes ago.”
 
-Security dragged it clear with a pole.
+Perren pulled the strap tight. “Stew or the heel of cheese?”
 
-The stranger did not look at the guards again. They gripped the grille and watched the towers brighten.
+“Cheese tonight. Stew tomorrow if the west ditch pays.”
 
-“Lock it,” the chief said. “Until daylight, nobody opens that cage.”
+“That's a cruel order.”
 
-“You saw what they killed.”
+It was not a joke so much as the shape of an old complaint. Brelva cut the cheese and gave him the larger piece. He accepted it without thanks, which was how they had thanked each other since childhood.
 
-“I saw what they tried to reach.”
+On the third night, the guards ringed the brine shed with pikes. The supervisor had bought shutters for its vents and hired two extra hands from the roof-hide crew.
 
-The first monster pack hit the outer fence before I could answer. The rails rang the length of the north yard. Before we had the next load chained, the west alarm joined it. Our floodlamps surged blue, bleaching the trucks and every face beneath them.
+“Protection for stock already purchased,” he told Brelva when she objected to the added gate fee.
 
-The record board added another seven tonnes.
+“You put the fee on the crews whose stock you claim to own.”
 
-We worked.
+“Because if it burns, I still owe the refiners. If a guard dies, I owe a widow. If I do not hire the guard, I owe everyone an explanation for why I preferred the cheaper funeral.”
 
-There was no clean place to put fear on an intake line. A truck waited behind the one you were grading. A winch waited for your hand signal. If you stared too long at the fence, a cutter might put a blade through his glove. I opened carcasses, judged burns, and sent intact blue knots down the chilled chute toward the grinders.
+Perren was beneath the cart, packing grease around the left hub. “We could take the nodes straight to the refinery.”
 
-Every sixth condenser stroke, the knots trembled under my hook.
+“Their vats are full,” the supervisor said. “I purchased capacity for seventh day.”
 
-I had felt that before. We all had. Freshness, the training sheet called it. A dead knot kept enough charge to answer the machinery for several hours, which was how graders caught old tissue slipped beneath a warm load. After processing, its charge burned steadily in the lamps instead.
+“It's third day.”
 
-On the other side of the grille, the stranger tapped two fingers against the floor.
+“Yes. That is why we have a cold shed.”
 
-Once. Twice. A pause.
+Brelva checked the brine barrels: thirty-two sealed, eight open, vibration faint but even beneath their waxed lids.
 
-The nearest tower answered with a blue beat. A cry rolled along the north fence on the next.
+At midnight, a bolt struck the yard gate from outside. Not a monster bolt; one of the strangers' thick black shafts. It lodged above the latch.
 
-The stranger tapped again.
+The guards raised their pikes. The square-faced woman stood beyond the lamps with her empty hands spread. Behind her, shapes moved along the north road.
 
-I put my hook down.
+She pointed to the brine shed.
 
-“Lane,” the chief called.
+“No,” the supervisor said.
 
-“Sample check.”
+The word required no translation.
 
-“You checked it.”
+The woman pointed to the road. Then the shed. Then she drove the edge of one hand against her other palm.
 
-I took the shielded tin and went to the grille. The stranger's clothes were stitched with pieces of hide I did not recognize. Up close I could see that the hard line along their cheek was not paint but a pattern of old, pale scars. Their eyes moved from the tin to my face.
+“No,” he said again, louder. “Purchased stock.”
 
-“You understand this?” I asked.
+One of the new guards glanced at Brelva. “Should we move the barrels?”
 
-No response.
+“Hold your side of the gate,” the supervisor told him.
 
-I opened the lid a finger's width.
+The woman waited, watching Brelva rather than the pikes. When no one copied her, she turned and ran toward the moving shapes alone.
 
-Blue light wet my knuckles. Outside, something struck the north fence. The stranger recoiled from the tin, not in fear but urgency. They shoved their palm toward me.
+The attack ended two streets north. None reached the yard.
 
-“It's dead.”
+Brelva wrote that down too.
 
-Their fingers closed into a fist. Opened. Closed again. Then they pointed past me to the towers and dragged both hands apart as though tearing cloth.
+***
 
-“You want those broken.”
+On the fourth night, the left axle broke.
 
-A sharp nod.
+It happened on the marsh road, where reeds scraped the cart and black water covered both ditches. Brelva heard the crack, felt the load sag, and shouted before Perren could put his shoulder under it.
 
-“Why?”
+“Don't. Eleven hundredweight.”
 
-They crouched. With one finger, they drew three circles in spilled scrub foam. Small. Smaller. Smallest. They pointed at the sample tin for each. Then they swept the foam together into one bright smear and pointed at the nearest tower.
+“Wheel's in the ditch.”
 
-I understood concentration. I did not understand what they thought it did.
+“I can see the wheel.”
 
-They touched two fingers to their throat. Pointed beyond the fence. Tapped the floor in time with the condenser.
+“Then count how long until the lamps go out.”
 
-“A call?”
+They had nine carcasses, sixteen sound nodes packed in two brine tubs, three bad hides, and one lantern with less than a finger of oil. Behind them, far down the road, came the scrape of many feet.
 
-Their hand struck the grille.
+Perren pulled the jack from its bracket. “I lift. You seat the block.”
 
-Not an answer I could mistake.
+“We cut the nodes loose and leave the cart.”
 
-I looked back at the north wall. Monsters pressed there in layers, but the yard held blood, heat, noise, and people. Any one of those could draw them. The blue towers could be nothing more than the largest light in sight.
+“The cart is the promise.”
 
-The stranger reached through the bars and seized my sleeve.
+“A promise doesn't get to bury you.”
 
-Security lifted a baton. I waved it down.
+“Neither do you.”
 
-The stranger pressed my wrist to the grille. The metal quivered under the weight at the fence. Then they moved my hand to the floor, where the condenser pulse climbed through concrete. The two rhythms met under my skin.
+He said it into the mud, already setting the jack. There was no room in the road for the answer Brelva wanted: I kept you alive after the marsh took them. I learned every weight, every safe turn, every sound that meant run. She had promised their dead partners' families that she would not make the same mistake twice. Somewhere in keeping that promise, she had started deciding which risks belonged to Perren before he could speak.
 
-When they released me, I closed the sample tin. The stranger touched the lid, then covered the tower smear with both palms.
+The scrape grew louder.
 
-Shield it. Silence it. Something between those.
+“Lift,” she said. “On three. One, two—”
 
-I could stop the west grinder for ninety seconds under contamination authority. After that the chief's key was required.
+The square-faced stranger dropped from the reeds before three.
 
-I returned to my station, waited until he turned toward a truck, and tripped the grinder.
+Perren swung the jack handle at her. She caught it on a bracer, barked one sharp sound, and pointed at the tubs. Then she pressed her palm to the road.
 
-The west tower faded. Six lamps above the outer lane went dark, and white battery strips came on beneath them.
+Vibration hummed up through Brelva's boots.
 
-The monsters at that fence did not pour through the weakness.
+Not footsteps. Not yet.
 
-They let go.
+The sealed nodes were trembling hard enough to ring against the tubs.
 
-One by one, then in a rippling mass, they dropped from the rails. A guard shouted and aimed down, but the creatures turned away from him. They crossed behind the parked trucks toward the three towers still pulsing at full pressure.
+The stranger ripped the waxed cloth from one. She took out a node, cracked it on the cart rim, and thrust the inner membrane over Brelva's lantern.
 
-“Kessa.”
+Green light ran across it. The membrane shrank. Under Brelva's fingers, the vibration vanished.
 
-The chief stood at my shoulder.
+The remaining tub shook harder, each node seeming to lean north. The scrape behind them became a chorus. Ahead, beyond the bend, the dark answered.
 
-“They left the dark section,” I said.
+Brelva looked from one tub to the other. “They weren't following us yesterday.”
 
-His eyes followed the pack. “Bring the grinder back.”
+Perren heard what she did: one group on the road behind, another moving from ahead. “They don't need to follow the same wagon. They only need the same road.”
 
-“Watch where they're going.”
+The stranger pointed past them, toward the settlement. Then at the tubs.
 
-“I am. Bring it back.”
+Brelva cut the first lid open.
 
-“The emergency strips are enough to see.”
+Perren cracked nodes while she held membranes to the lantern. The stranger stood between them and the approaching sounds, blade low. She did not supervise. When Brelva fumbled one slick membrane, the woman snatched it from the mud, burned it, and returned to the dark.
 
-“They are enough to find an exit. They don't run the shock rail.”
+Eight nodes. Ten. The lamp oil guttered.
 
-One of the guards cried out as fresh bodies struck the north side. The chief took the key from his belt and reached across me.
+“Last two,” Perren said.
 
-I blocked the slot with my hand. “Give it another minute.”
+“One.”
 
-“I have three guards on that fence.”
+He pushed the final membrane into the flame with his bare thumb. It flashed. He hissed and wrapped his hand in his shirt.
 
-“The pack just walked past them.”
+The pressure under Brelva's boots stopped.
 
-“Then let them use the luck. Bring the light back.”
+The creatures did not disappear. They did not turn obediently or fall dead. One came out of the reeds on six bowed limbs, its pale mouth opening along its chest. The stranger met it. Perren dragged the jack clear. Brelva shoved the block beneath the axle, and together the siblings heaved the wheel onto the road while the fight thudded behind them.
 
-He pushed my hand aside and turned the key.
+When the cart rolled, they took the ordinary salvage and left the empty tubs.
 
-The west grinder roared. Blue climbed the tower. The creatures crossing the yard stopped so abruptly that two collided. They turned toward us.
+The stranger followed only as far as the first streetlamp. She put up her palm. Stop.
 
-Beyond the west fence, the lamps showed bare gravel and the long shadow of a drainage wall. On the next blue stroke, low shapes moved where the gravel had been. Perhaps they had climbed from the ditch. Perhaps they had been hidden beyond the light. I could not say where they started.
+Then she touched two fingers to the road and drew them toward herself.
 
-I saw where they faced.
+Approach.
 
-The towers answered one another. The packs came on.
+Brelva tried the motions. Palm. Two fingers drawn in.
 
-The chief did not repeat his order. He pulled the yard radio from his shoulder and sent every idle worker to the inner shelter. Then he told me, “Keep the line moving.”
+The woman corrected the angle of her wrist, once. Then she went back into the reeds.
 
-He was not protecting a record anymore. That frightened me more.
+***
 
-A truck jackknifed across the north entrance. Its trailer punched one fence rail outward, and three monsters forced themselves through the gap before security could shock it closed. The receiving crew abandoned their tables. Knives and hooks rang on concrete.
+By morning, Brelva had six routes and nineteen attacks marked in her ledger. She put the cold wagons in blue and the unbrined loads in white. Perren put stones on the places where the strangers had chosen to stand.
 
-The stranger hit the wash grille with both hands.
+The blue lines did not explain where the creatures came from or why the strangers knew how to kill them. They showed something smaller: preserved nodes passed near every cluster. When a wagon moved, attacks gathered behind its route. When nodes were broken and heated, the pressure stopped. The brine had not made a monster. The barrels had not commanded one. They held a direction that should have faded with death, and enough held directions made the night pay attention.
 
-I still had the sample tin tucked under one arm. My brother's brace deposit glowed on the record board in numbers that meant nothing to the creatures climbing through our gate.
+The supervisor studied the map through breakfast. He ate porridge while standing, spoon in one hand, invoices in the other.
 
-I took the security release from its glass box and opened the cage.
+“Six crews,” he said. “Forty barrels between them. Three refineries expecting delivery. The clinic has already paid against the tendon proceeds.”
 
-The stranger slipped through before the grille had risen to their shoulders. They snatched their hooked blade from the guard's pole, vaulted the idle belt, and ran at the nearest tower.
+“Keep the hide, bone, tendon, heat sacs,” Brelva said. “Stop brining nodes.”
 
-Not the breach. The tower.
+“On nineteen marks you made yourself.”
 
-Their weapon came up under the sight tube.
+“On nineteen sequences. Cold load, route, attack.”
 
-I rammed the round sample tin between the hook and the glass. Metal struck metal hard enough to numb both my hands. The stranger rounded on me. Fury made their face suddenly easy to read.
+“And on two nights when nothing reached the yard.”
 
-“Break that and it goes everywhere.”
+Perren laid a stone at the yard gate. “Because they stood outside it.”
 
-They did not understand the words. They shifted the hook for another cut.
+“Who?”
 
-I tore the tin open.
+“The people you keep calling scavengers.”
 
-The split blue knot shone between us. A monster inside the gate twisted away from a fleeing worker and snapped its head toward my hand.
+“They have not given me a name, an origin, or a bond against damages.” The supervisor put down his spoon. “I believe what can be charged to an account. That is not stupidity. It is how I make sure a hook hand gets paid after a richer person changes his mind.”
 
-The stranger saw it.
+Brelva opened the ledger to their contract. Three loads. Cart cleared. Perren's burned thumb stuck out of a fresh wrapping beside her hand.
 
-I clamped the lid. The creature staggered, turned twice, and found the tower again.
+“Refuse our final load,” she said. “No nodes.”
 
-I pointed to the glass tube, swept both arms wide to show a spill, then pointed down. Beneath each tower sat a buried quench vault, plated and packed with dead charcoal. Emergency dumping would drown the hot concentrate, shield it, and ruin every useful part of the night's run.
+The supervisor rubbed porridge from his moustache. “Then the contract fails. I cannot clear a cart on goods not delivered.”
 
-The stranger's gaze went from my tin to the red wheels on the vault pipes.
+Perren looked at Brelva, waiting.
 
-I pressed both palms down.
+She could say the route was too dangerous. She could say his hand made the choice. She could protect him so thoroughly he became one more item under her tally, weighed and routed without consent.
 
-For a breath we stood inside the hammering blue light, each trusting the other to see the danger the wrong kind of destruction would make.
+“What do you want?” she asked.
 
-The stranger lowered the blade. They struck its butt twice against the floor.
+His surprise lasted half a breath. “Take the ordinary parts. Leave every node here.”
 
-Outside the fence, two figures rose from the drainage shadow. One carried paired chopping blades. The other unwound a weighted cord. At their companion's signal, they did not attack the towers. They ran for the broken gate.
+“That concentrates the vibration.”
 
-The first stranger pointed the hook at the quench wheels.
+“Yes.”
 
-“Yes,” I said. “Those.”
+“The contract fails.”
 
-I pulled the emergency handle.
+“Yes.”
 
-Steel collars unlocked around all four towers. The grinders tripped, throwing the belts slack, but stored pressure kept the concentrate bright. Each vault had to be opened by hand. The red wheels stood along a service walk outside the receiving hall, beyond the shelter doors and twenty paces from the breach.
+“The cart stays in debt.”
 
-The chief caught me at the threshold.
+Perren touched the wrapped thumb to the map. “The east road runs past thirty doors. The north past twelve. Marsh past none. If we move forty barrels, we pick which doors hear them. If we break the barrels here, the walls are stone and the streets around us are wide.”
 
-“What did you do?”
+The supervisor said, “Those barrels contain stock I bought from people who cannot absorb the loss.”
 
-“Opened the quench.”
+“Then don't make them absorb it,” Perren said. “You bought it.”
 
-He looked past me. “And let that one out.”
+The man's mouth tightened.
 
-“They know what's calling them.”
+Brelva expected a refusal. Instead he gathered the invoices into one squared stack. “I will not authorize destruction on a grader's pattern.”
 
-“They tried to cut a tank.”
+“What will you authorize?” she asked.
 
-“So I showed them the vaults.”
+“Guards around the final intake. No wagons out after sunset. If the arrivals follow your map, I will open the shed myself.”
 
-His eyes narrowed at the word *showed*, but the west fence bent before he could answer.
+It was not enough. It was more than his obligations had allowed him five minutes earlier.
 
-“If you dump,” he said, “the yard lamps drain with it.”
+Brelva closed the contract. “Then we bring no nodes through housing.”
 
-“Turn the truck lights inward.”
+“How do you propose to harvest?”
 
-“Two drivers are gone.”
+“We don't. Not tonight.”
 
-“Then use the forklifts.”
+Perren nodded once. His choice, beside hers.
 
-A monster struck the shelter door from outside. The chief glanced toward the sound, measuring bodies, distance, minutes. He hated my answer because it left the work in his hands.
+***
 
-“Go,” he said. “I'll keep the belts dead.”
+They spent the fifth night hauling ordinary salvage into stone rooms and watching the barrel seals click faster.
 
-He did not promise me anything else.
+The sixth night came early under storm clouds.
 
-The stranger reached the first quench wheel ahead of me. They pulled the wrong way. I slapped their wrist, set both hands on the rim, and heaved clockwise. It fought through a quarter turn. The stranger understood and added their weight.
+By full dark, the wax seals on the cold shed had begun to click. Forty barrels, eighty-one nodes, each preserving a little directional tremor. Brelva felt their combined vibration through the weighing platform. It no longer pointed north or south. It traveled up her leg and settled behind her teeth.
 
-The pipe kicked under our feet.
+The first cry sounded west.
 
-Blue concentrate fell into the buried vault with a sound like gravel poured down a well. The first tower dimmed from the bottom upward. Along the north wall, a row of lamps went out. Forklift beams swung into their place, yellow and narrow.
+The second answered from the marsh.
 
-Every monster still outside changed direction toward the remaining towers. The chief shouted new positions over the radio. Guards left the dark rail instead of dying for it. Drivers angled their trucks into a second barrier. The creatures did not attack the vehicles until the vehicles stood between them and the blue.
+Guards shut the iron gate. Roof-hide workers carried finished sheets out of the cutting room, trying to save what water would ruin. A carter shouted that his team was still tied by the east wall. The supervisor moved through them with his ring of keys, assigning doors, counting purchased batches, refusing three separate demands at once.
 
-At the second wheel, resin had hardened around the spindle. I wedged my grading hook through the spokes. The stranger gripped its shaft beside my hands. We hauled until the hook bowed.
+“Unhitch the team,” Perren called.
 
-A creature came over the inner barrier behind us.
+“Not through the east gate,” Brelva said. “Bring them behind the bone shed.”
 
-The stranger released the hook, turned, and caught its forelimb with the crescent. They used the monster's rush to throw it off the walk. Below, the fighter with paired blades ended it. Neither paused. The stranger returned to the wheel and pointed at the bent hook.
+“That pen's full.”
 
-“It's cheaper than the tank,” I said.
+“Then move the empty racks.”
 
-That earned no sign they understood, but they set their shoulder under mine.
+One of the supper guards grabbed a rack. “This one sticks.”
 
-The spindle cracked free.
+“Lift before you pull,” Perren said. “Left foot's sunk.”
 
-The second tower emptied. Then the third.
+The ordinary talk steadied the yard for perhaps a minute. Lift. Pull. Bar the cutting room. Find the missing lantern. Then a creature hit the north gate hard enough to bow it inward.
 
-With each falling column of blue, the monsters crowded harder toward the last tower. They climbed one another at the east side until the pile reached the catwalk. The cord-fighter stood there alone, weight snapping around limbs, pulling one creature down before the next could use its back. Security fired past them. The stranger beside me made a short sound through their teeth and ran for the last wheel.
+More shapes entered the lamplight along the west road. Not an army in lines, not creatures under command. They came from separate dark streets, colliding, clawing past one another, drawn toward the vibration that made Brelva's bones hum.
 
-It would not move.
+The strangers arrived among them.
 
-The red paint had blistered off its hub. Steam feathered from the packing nut. We tried together and gained nothing. The stranger raised the crescent, aiming for the spindle this time.
+The spear man took the west mouth. The bow wielder climbed the bone shed. The square-faced woman came straight to the gate and raised her palm.
 
-I caught the weapon shaft and moved its point three fingers lower, to the brass locking pin. They watched my hand. Then they struck.
+Stop.
 
-The pin split.
+Brelva raised hers in return.
 
-The wheel lurched so fast it tore skin from my palms. I kept hold. The stranger caught the far side, and we rode it through the first turn.
+The woman drew two fingers toward her chest.
 
-Behind the glass, the final column began to sink.
+Approach.
 
-The yard went dark in pieces. Blue vanished from the roofline, the gate, the wet concrete. Battery bars and headlamps left deep black channels between their beams. The monsters reached the service walk. The stranger let go of the wheel to meet them.
+Brelva pointed to the cold shed, then crossed both forearms. Not yet.
 
-I held it alone.
+The woman's gaze snapped to the supervisor's key ring. She made the striking motion against her palm.
 
-The pipe shook my arms. Heat climbed through the rim. Below, the chief stood at the emergency panel with one hand on the dead-belt lock. A warning light flashed beside him.
+The gate bowed again. One hinge tore from stone.
 
-“Pressure's backing up!” he shouted.
+“Open the shed,” Brelva said.
 
-“How long?”
+The supervisor stared at the monsters.
 
-He read the gauge. “Keep turning.”
+“You said you would.”
 
-I put my boot against the wheel housing and pulled. The last turn came a finger at a time. The fighter's hook scraped sparks from the rail behind me. Something struck their shoulder and spun them into the tank wall. They pushed upright before I could look away from the wheel.
+“I said if they followed your map.”
 
-Then the vault pipe opened fully.
+“West, marsh, north. Three roads. No wagons.”
 
-The remaining blue dropped out of sight.
+“The purchased batches—”
 
-For two seconds the refinery held every sound: motors winding down, truck horns stuck under crushed cabs, workers breathing inside the shelter, monsters clawing metal.
+The gate split. A guard went down beneath the iron frame, his pike spinning away.
 
-The pulse under my boots ceased.
+Perren ran toward him.
 
-The creature nearest me stopped with one forelimb raised. Its head turned toward the empty tower, then toward the distant eastern clouds. Far away, another blue glow lay against the horizon.
+Brelva caught his sleeve, then let go before the grip became a command. “I get the keys.”
 
-The monster climbed down.
+“I'll get his shoulders.”
 
-Others followed, not calmly and not all at once. The three already trapped between the trucks kept attacking until the fighters killed them. Those beyond the gate broke from the fence and streamed east through the drainage cut. No new backs filled the gaps. The dark remained empty where they had been.
+“Drag toward the platform. Not the cutting room.”
 
-The stranger with the crescent stood among the last bodies, one arm hanging low. They looked at the buried vault, then at me.
+“I know the route.”
 
-I set the ruined grading hook on the rail. My hands had begun to sting.
+He did.
 
-The stranger touched two fingers to the shield plate over the vault, pointed east, and pressed a flat hand toward the ground. Their companions were already walking that way.
+Brelva went for the supervisor. He had not fled. He was trying to lift the fallen gate off the guard while creatures pressed into the opening and the spear man held them there.
 
-“Wait,” I said.
+“Keys,” she said.
 
-They followed the others beyond the gate, toward the faint blue on the clouds.
+“Third key. Brass.” His words came too quickly. “Open both vents first or the mineral vapor catches. The crews signed weight at intake. Every seal has a mark. I have to preserve the marks if I pay claims.”
 
-Dawn found the refinery with its towers empty and its yard full.
+“Then bring the chalkboard.”
 
-The carcasses on the stopped belts had gone cold. Buyers' trucks waited outside the fence, but nobody waved them in. Some workers sat against the shelter wall. Others searched the dark lanes with battery lamps for tools, boots, and people. The orange scrub foam had turned gray under all the tracks.
+He looked at her.
 
-The chief found me washing my palms at the emergency sink.
+“We break by batch,” she said. “You mark every barrel. You owe the loss to the people you bought from, not the refiners who never took delivery.”
 
-“Badge,” he said.
+The supervisor pulled the brass key free. “Claims before refiners.”
 
-I unclipped it. Kessa Morren was still legible beneath a sleeve of gray foam. I gave it to him.
+That was how he made courage: as an order of payment.
 
-He closed his fist around it. There were cuts across his knuckles I had not seen him get.
+They ran.
 
-“If they ask,” he said, “you opened the cage and pulled the quench.”
+Brelva opened the upper vent. Perren and the freed guard staggered to the platform. The guard's leg held, though blood darkened his trousers. The square-faced woman crossed the yard backward, blade working, her attention on the shed door.
 
-“I did.”
+Brelva drew two fingers toward herself.
 
-“They'll ask whether I ordered you.”
+Approach.
 
-“You didn't.”
+The woman came.
 
-He looked toward the four blank towers. A forklift's headlights moved slowly across them.
+The supervisor unlocked the shed. Cold mineral air rolled out. Inside, barrels knocked on their racks like a roomful of impatient fists.
 
-“Your brother's appointment is at nine,” he said.
+The woman pointed at the upper row, then at the brazier. One relation. Highest vibration, heat.
 
-I had told him that once, months ago, when asking for day work.
+“Top first,” Brelva said. “Perren, wedges.”
 
-“What happens tonight?” I asked.
+“Seals before breakage,” the supervisor said, dragging the chalkboard close.
 
-He rubbed his thumb over the edge of my badge. “First I get the gate closed.”
+“Then mark them.”
 
-He turned back toward the workers who still needed counting.
+They found a rhythm without finding a common language. Brelva tested lids and called quantities. Perren rolled barrels down the chute, bracing them with hip and shoulder, naming clear paths and injured workers. The supervisor shouted each crew's seal and struck it from the purchased column only after he saw the nodes broken. The stranger cracked paired nodes against her wedge, laid membranes into iron trays, and pushed the trays toward the brazier.
 
-Outside the gate, my phone found a signal and filled with missed calls. I rang my brother before he could ring again.
+Outside, guards and harvesters defended their own yard with hook poles, pikes, and the heavy boards used to turn carcasses. The newcomers did not command them. They filled gaps, demonstrated angles, waited for imitation. When the bow wielder slapped the roof twice and pointed down, a hide worker understood before anyone else and pulled two people clear of a creature climbing the gutter.
 
-“You sound awful,” he said.
+“Batch twelve, six pairs,” the supervisor called.
 
-“I lost the bonus.”
+“Five and one split,” Brelva said.
 
-A pause. “Are you hurt?”
+“Purchased as six.”
 
-“My hands. Nothing bad.”
+“Destroyed as eleven sound, one spoiled.”
 
-“Can you get to the bus?”
+“That is not how claims work.”
 
-I looked east. The last of the monsters were dark shapes below the blue horizon. Three smaller figures followed them at a steady walking pace.
+“It is how evidence works.”
 
-“The brace payment—” I began.
+“Mark eleven,” Perren said. “Argue at breakfast.”
 
-“We'll argue about that after you wash.”
+The supervisor marked eleven.
 
-The first bus was already turning into the refinery road, its ordinary yellow headlights bobbing over the ruts.
+Barrel after barrel. Membranes flashed green. The vibration changed from a pressure in Brelva's teeth to a tremor in the boards, then to separate beats she could count. Thirty-four. Twenty. Nine.
 
-“Get on it,” my brother said.
+A monster broke through the cutting-room wall instead of the gate. It shouldered shelves aside and lunged toward the shed. Brelva froze with a node in each hand.
 
-This time, I did.
+The stranger stepped between them. She struck low, missed, and went down beneath the creature's front limbs.
+
+Perren could have run. Instead he hooked the monster's rear joint with the cart chain and yelled, “Brelva, wheel!”
+
+She understood his route. She dropped the nodes into the tray, seized the loose wheel from beside the repair rack, and rolled it hard under the chain. The weight lifted the creature's leg just enough. The stranger twisted free and drove her wedge into the joint.
+
+The creature fell. The stranger rose with one sleeve torn and pointed at the tray.
+
+One relation. Nodes first.
+
+Brelva burned them.
+
+The final membrane curled into ash just before dawn.
+
+The monsters outside did not vanish. Those already at the yard kept fighting until the eastern roofs went gray, then scattered into alleys or fell beneath exhausted hands. But no new cries answered from the roads. The boards stopped trembling.
+
+Morning found the cold shed warm, empty, and reeking of salt.
+
+***
+
+They sorted what remained because useful things were still useful.
+
+Undamaged hide went to the roofers. Tendon went to the clinic contract. Bone was weighed for the kilns. The supervisor sat on an overturned barrel and recalculated eighty-one nodes as purchased loss, refinery default, guard injury, and four minutes of supper he conceded had not mattered after all.
+
+“Your cart is not clear,” he told Brelva and Perren.
+
+Perren flexed his burned thumb. “We noticed it was still here.”
+
+“The final-load contract failed.”
+
+Brelva waited.
+
+The supervisor tapped the claims column. “Your axle repair can move to salvage wages. Not forgiveness. Work.”
+
+“At what rate?” she asked.
+
+He named one.
+
+She named another. They argued it down by two crowns and back up by one.
+
+Across the yard, the square-faced woman helped the injured guard shift a rack. They had no words between them. He pointed to his bad leg; she took the heavier end. When it was set down, she raised her palm to him.
+
+He stopped.
+
+She drew two fingers toward herself.
+
+He approached, slowly this time, and handed her a cup of water.
+
+Brelva tore the blue route pages from her ledger and pinned them beside the gate, not as proof of the whole night or an answer to where anything had come from. Just roads, loads, attacks, and the order in which they had happened. Beneath them she hung a hammer, an iron tray, and an unbrined node from the morning's last carcass.
+
+Perren brought over two bowls of porridge.
+
+“Stew was the promise,” he said.
+
+“The kitchen wall has a hole.”
+
+“Promises keep having conditions with you.”
+
+Brelva took the smaller bowl before he could offer it. “Tomorrow, then.”
+
+The node gave one faint tremor toward the road. The stranger saw it. So did Brelva.
+
+Palm raised. Stop.
+
+Two fingers drawn close. Approach.
+
+The stranger took the iron tray. Brelva lifted the hammer. Perren steadied the hook, and the three of them went to break it.

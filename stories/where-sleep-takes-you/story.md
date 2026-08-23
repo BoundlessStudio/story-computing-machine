@@ -8,432 +8,250 @@ canon: false
 
 # Where Sleep Takes You
 
-Talune packs the blue mug in her last box, changes her mind, and sets it beside my bowl.
+At four minutes past four, Cira Keln clipped the storage-unit key inside her belt pouch and made Pevin Ors watch her zip it.
 
-“Take it,” I say.
+"Key, phone, ledger slot," she said, touching each part of the pouch. The phone had its own tether under the zipper. Her wrist tag showed a steady green bar. "Nothing loose on me."
 
-“You hate the green one.”
+Pevin rested both hands on the empty flat cart. He had spent the morning removing its bent wheel and putting on a sound one. The cart rolled straight now, which was the sort of answer he preferred to give. "Van nose out. Lift route clear."
 
-“The green one is a mug, not a crisis.”
+"If I stop answering, stop moving stock," Cira said. "If my location comes through, don't leave unless I tell you. If the call drops, finish the last confirmed load and wait."
 
-She turns the chip toward me. We eat the final noodles of our eight years as roommates from opposite ends of the kitchen table. Behind her, two cupboard doors stand open on bare shelves. The walls have pale squares where her pictures were. Most of the boxes have already gone three streets east, into an apartment with yellow cupboards and a bathroom window. Talune can walk back in six minutes. We have measured.
+"Confirmed."
 
-The mug is one of the small things we keep moving between our sides while dividing the strainers, the chairs, and a population of lidless containers. It gives us somewhere to look besides my clothes.
+The attendant held a tablet between them. Behind him, the corridor of storage doors ran under white lights to the loading bay. "Access ends at six. The clearance contractor takes possession then. Anything remaining may be removed, and the clearance charge goes to the account holder. I can witness authorization by live call, but I can't accept blanket disposal instructions."
 
-I am dressed for bed at ten in the evening: soft-soled boots, leggings, close shirt, and the flat kit strapped around my waist. Everything touching me and secured comes when I teleport. Everything loose stays. That is why there is no coat over the back of my chair and no blanket tucked through the strap as a cape, despite Talune's previous experiments.
+"There won't be blanket instructions," Cira said.
 
-She points her fork at the kit. “Open it.”
+"And I can't extend the time."
 
-“You helped pack it.”
+Cira looked past him into the unit. Four years of a closed instrument-repair shop had been compressed into twelve square metres: grey client trays on the left shelves, tools and standards on the right, obsolete housings in crates below, the steel bench at the back. Pevin had lettered the aisle in chalk on the concrete, leaving a body-width strip clear. The labels all faced inward, because a month's notice had made speed feel simple.
 
-“Humor the woman abandoning you for superior cupboards.”
+At thirty-eight, Cira had practiced many versions of leaving. This one had a hired van, a two-hour booking, one trusted former shopmate, and no authority over what stayed after six.
 
-“Nearby cupboards.”
+The attendant turned the tablet toward her. Cira read the authorization, chose the item-by-item option, and signed. Pevin pointed at the client shelves.
 
-“Open.”
+"Fastest is records, tools, metal by weight. We can sort the rest at the bay."
 
-I release the two metal snaps. Cash, gauze, a folded foil sheet, cloth tape, a pencil, and an embossed steel identification tag lie in their loops. My phone sits in a fabric band around my wrist, tethered through its case. No magnetic clasp. No bank card with a stripe for a jump to comb blank, and no little magnet to come back as a useless bit of metal. Teleportation ruins those every time. It has never made one point north, named a destination, or done anything else helpful.
+"Client by client," Cira said. "Records beside property. Closed claims separate from property still owed."
 
-Talune taps the tag. “Wear it, not pack it.”
+"More crossings."
 
-I tie it under my shirt. “There. Identified, solvent, and offensively sensible.”
+"Fewer calls tomorrow from people whose gauge we lost."
 
-“Keep a call open tonight.”
+Pevin set the first empty tote on the cart. "Client by client."
 
-“No.”
+They began with the upper shelves. Cira read the labels; Pevin matched each tray to its paper sleeve, then moved the pair to the cart. There was no need to discuss why his reach took the high rows and hers the waist-level ones, or why the clear strip remained clear even when it cost them a better angle. Their agreements had been made before the clock started.
 
-“You can turn the screen down.”
+Drowsiness did not move Cira. Closing her eyes did not move her. A loss of muscle tone could put her on the floor without sending her anywhere. Only the actual crossing into sleep triggered the displacement, once for each onset, and she had to wake before sleep could begin again.
 
-“And you can listen to me breathe until dawn from your exciting new bedroom.”
+At four seventeen, the print on a repair slip doubled. Cira was holding a shallow tray of steel pins.
 
-“I can hear when the room goes quiet.”
+"Tray down," she said.
 
-“The room is often quiet. That's why we paid for it.”
+Pevin took one step toward her and stopped outside the clear strip.
 
-Her fork stays raised. Talune uses each answer to narrow the next question. “If you fall asleep and don't wake at the landing?”
+Cira put the tray on the shelf, checked the key clip by touch, and lowered herself against the bare side wall. She got both feet away from the cart. The white lights thinned at their edges.
 
-“I keep sleeping.”
+"Clear," she said, and sleep took her.
 
-“If the landing wakes you?”
+A pressure snap pushed loose lint away from her arriving body. Cold vinyl pressed a square pattern into her cheek. Her wrist tag vibrated hard enough to pull her through the surface of sleep, then flashed its white strobe across a row of washing machines. Cira opened her eyes to a humming fluorescent tube and detergent air.
 
-“I come home.”
+She lay still until the room held one shape. No cart. No tray. Her clothes, clipped key, zipped pouch, phone, and tag had come. Nothing loose could have. No other person ever did.
 
-“How soon?”
+The tag showed an onset time of 4:18. The location line changed from SEARCHING to SENT, but there was no floor number. There never was. Coordinates described a point on a map after displacement; they did not say which level of a building had received her, and they had never told sleep where to send her.
 
-“Immediately. I send **back**. You see it. Done.”
+Cira sat up. Six washers, six dryers, a folding table, no windows. The handle moved, but the electronic lock held. On the wall, a service card gave the building's street number and an after-hours telephone line.
 
-“From here?”
+Her phone rang before she finished reading it.
 
-“From wherever sleep puts me.”
+"Laundry room," she told Pevin. "Locked. Address matches your dot. No floor."
 
-She lowers the fork. The word *sleep* does not need explanation between us. When wakefulness holds, I can go to a place I know well by bringing its sensory shape clear in my mind. When narcolepsy drops me into sleep, the choice disappears: every onset sends my sleeping body somewhere genuinely random. Need has never pulled me toward shelter. Fear has never pushed me toward danger. Talune is not an anchor, geography is not a hint, and thirteen years of notes produced only expensive paper.
+Behind his face on the screen, the storage shelves remained in order. He had not abandoned them to chase a coordinate. "Do you need me there?"
 
-The landing gives me something that supports my weight. It does not promise warmth, privacy, legal entry, still machinery, or a pleasant person to discover me. A quiet surface may let me sleep on. Cold, noise, or impact may return me to the problem.
+"No. Call the number I'm sending. Tell them an adult is locked in their laundry room and can verify by video. Keep sorting client trays. No disposal."
 
-Talune coils noodles around her fork and lets them fall. “One open call.”
+"Last confirmed load only."
 
-“You moved so we would stop doing this.”
+"You can build the next one. Don't send it down."
 
-“I moved because I wanted a door I could close.”
+He nodded once and ended the call.
 
-“Exactly.”
+Cira photographed the service card and sent it. Then she called the same number herself. The person who answered asked whether she had forced entry. Cira held the camera on the unmarked inside of the door, then on the tag log, then on her face. She gave her name and the room's number from the machine-maintenance sheet. Someone with access would come.
 
-“I still brought my phone.”
+Waiting used nineteen minutes. Cira sat on the folding table because the floor's chill had climbed through her trousers. The tag's strobe timed out; she left it off. Strobes made her visible after an arrival. Vibration helped wake her. Neither one chose a safe surface, and neither made the person with the key arrive sooner.
 
-I put my hand over the tag. “Wake. Home. Message. You go to sleep after the first one, if there is a first one.”
+When building staff opened the door, they did not ask for a demonstration. They checked her identification, wrote down the time, and led her through two fire doors to a lobby she had never seen. The storage facility lay nine blocks away, inside the old 1.5-kilometre circle around the unit. The laundry room had been one body-sized supported surface among all the eligible ones in that circle. There was no reason it had won.
 
-“And if you are hurt?”
+Cira hired a car rather than spend more of the booking on the walk. By the time she returned, the fare and the wait had consumed thirty-seven minutes of their buffer.
 
-“Home has bandages.”
+Pevin had staged two loads inside the unit. He stood aside so she could see every label before anything crossed the threshold.
 
-“That wasn't what I asked.”
+"Second tote," she said. "The blue tray is active, not closed. Its sleeve slid underneath."
 
-I lift my bowl and drink until she must choose between waiting and leaving. She waits.
+He crouched, found the sleeve, and shifted both together. "Active."
 
-At the door, she carries the box under one arm and takes the blue mug with the other hand.
+She pointed to a foam case in the tool stack. "That doesn't go with the client beside it. Calibration standard. Right side."
 
-“Thief,” I say.
+Pevin moved it without defending the first placement. That was another reason he was here.
 
-“Put it on the list.”
+At five oh-two, Cira changed the categories. Client records and property first. Then calibrated tools and standards. Then the one taped personal box from beneath the bench. Shelving could go. Empty housings could go. The bench, which had held its level through two moves and thousands of adjustments, became a loss they would accept if the clock required it.
 
-“I will send **back**.”
+Pevin looked from the bench to the loading-bay route. "With the lift clear, the bench is twelve minutes."
 
-Her thumb rubs once over the mug's chipped rim. “I know you will.”
+"Plus straps. Plus the corner. No."
 
-Then she goes.
+"No bench."
 
-The apartment sounds larger without her. Pipes mutter behind the bathroom wall. A bus sighs at the corner. I take my bowl to the sink, then leave it there because making the bedroom exact matters more.
+"And stop if I can't make item decisions. Not if I sound tired. If I can't answer the item."
 
-The rug's frayed edge meets my left boot when I stand beside the bed. The radiator gives two hollow knocks every few minutes. The lamp smells faintly of hot dust. Beneath the fitted sheet, one tired spring makes a rough coin against my hip. I know this room in summer heat and winter dark, in arguments and bad jokes and mornings when my eyes refuse to focus. Awake, I can hold these details until they replace the place around me.
+He stood with one hand on the flat cart, checking the load in his head. "Records, property, calibrated tools, personal box. No bench. I don't substitute my judgment if you're gone. I don't take an extra run without a confirmed list, even if it fits."
 
-I put the coat beside the bed. Close is not carried, but it looks prepared.
+He was overconfirming. Once, as agreed, while there was still room for correction.
 
-At the table I start the remaining-possessions list. **Blue mug—disputed. Peeler—Talune. Small pan—** I pause over that one, because the small pan has survived three kitchens and a fire. I write **joint custody**, cross it out, and begin **radia—**
+Cira pointed at the client trays. "Yes. Work."
 
-Plastic ridges press into my cheek. A reversing alarm shrieks somewhere beyond a metal wall.
+For the next nine minutes, they did. Pevin pushed the completed load toward the bay while Cira pulled the next labels into view. The attendant witnessed her authorize the first grouped transfer, then returned to the corridor desk. He did not offer advice. At five twelve he called through the open door, "Forty-eight minutes."
 
-I jerk upright. The bundles beneath me collapse inward with a crisp, enveloping crackle. They are tied stacks of packing sleeves, soft enough to take my weight and unstable enough to swallow one boot to the ankle. Sodium lamps hang high among roof trusses. Orange freight racks rise on either side. A roller door shakes as an engine revs beyond it, or behind it, or very close to it. My heart supplies several answers before my eyes supply one.
+Cira was kneeling beside the calibrated-tool stack with the ledger open on a crate. The line she wanted would not hold still. She blinked, waited, tried it again. The words returned, but the heaviness behind them did not recede.
 
-Home.
+"Case on the floor," she said.
 
-I pull up the rug under my left heel, the radiator's double knock, the dusty heat of the lamp, the spring's blunt pressure. The freight shed folds away.
+The large tool case was too bulky to secure to her body. She slid it clear of her knees for Pevin and put the ledger into its narrow pocket inside her pouch. Zip. Clip. She checked both.
 
-My bedroom arrives exactly where I asked for it. I arrive sitting hard beside the bed because I was sitting hard on the bundles. My shoulder catches the mattress. The coat slides to the floor.
+Pevin came back around the corner. He saw her sit in the clear strip with her shoulder against concrete. He put the cart brake on and waited.
 
-I send **back**.
+Cira did not bargain for another minute. Staying awake was not a route through this. "Clear."
 
-Talune answers before I have checked both palms.
+At 5:14, sleep began.
 
-**What woke you?**
+The pressure snap pushed grit outward across black roofing membrane.
 
-**Freight shed alarm. Five-star packing material.**
+Cira woke on her side under a hard white sky. Wind flattened her jacket against her ribs. The tag pulsed at her wrist and strobed against a low metal duct; beyond it, a fan turned behind a wire guard. She killed the strobe, rolled away from the fan housing, and sat with one palm planted on the dry roof.
 
-**Hurt?**
+Water shivered in a shallow depression two metres away. A parapet stood knee-high along the nearest edge. The selector excluded arrival inside solid matter, in liquid, on a moving vehicle, or anywhere without support. Those were the exclusions. A dry patch on an exposed service roof counted. So could a wet supported surface, locked access, cold and the ordinary hazards beside it.
 
-I look at the red mark the phone strap has left on my wrist and the plastic groove across my cheek.
+The onset log had saved. GPS found her near the far edge of the 1.5-kilometre circle around the unit and transmitted the coordinates when the tag caught signal. Now that she had arrived, any later onset here would start with this roof as its departure. The old circle offered no path home.
 
-**No.**
+The roof door was locked from her side. A yellow sign beside it listed a facilities number. Her phone showed one bar, lost it, then found it again.
 
-**Was the engine inside?**
+Pevin's call arrived as audio only.
 
-I listen, as if the apartment might know.
+"Roof," Cira said. "Controlled door. Wet areas, low parapet, fan. I'm clear of all three."
 
-**Outside, I think.**
+"I'm at the unit. The large case stayed."
 
-**Door between you and it? Other people? Could you stand?**
+"Good. Keep it for the next load. Put the attendant on speaker."
 
-I remember height, orange steel, a noise. I do not remember a person, an exit, or whether the bundle would have rolled under me if I tried to rise.
+The attendant's voice came from farther away. "Forty-one minutes. I can witness the call if I can hear you. I cannot delay close for access at your location."
 
-**I am home**, I type.
+"Witness and time," Cira said. "Nothing else."
 
-The typing dots appear, vanish, and return.
+"Understood."
 
-**That is one fact.**
+Cira called the roof number. Building staff could release her, but nobody with the right access was on site. She gave the door identifier and sent a photograph when data returned. The estimate was thirty to fifty minutes. Even the good edge of that estimate left too little time for a car back, the unit corridor and a load.
 
-I set the phone face down. The clock says 11:54. Nine minutes are missing. The pencil still rests against the unfinished word on the table, because I had not tied it to myself. I put it back in the kit and brush dust from my boots even though the boots are clean.
+She sat with her back to the door, away from the roof edge, and opened Pevin's video. The image resolved into the front wheels of the flat cart.
 
-At 12:18, I lie down. I turn the rug so the frayed edge is square again and set the fallen coat upright on the chair. The room does not require either correction. I make them anyway.
+"Show labels," she said.
 
-The second landing is quiet enough that I sleep through most of it.
+Pevin lifted the camera. Three cases and two archive crates filled the screen, all seen from the handle side. "These ride together. Cases low, crates behind. One trip to the van."
 
-I wake a little after two to cold dampness at my knees and the smell of crushed clover. Clouds turn the sky into one low gray lid. My shoulder rests on a cushion of long grass. No road lights move nearby. No animal breathes close enough to hear.
+"Labels first. Left to right."
 
-A low building stands beyond a wire fence. Its corrugated awning shelters a strip of dry earth, perhaps twenty paces away. The gate between us hangs open. I could reach the cover. I could sit with my back to the wall, listen for people or livestock, and use the rest my body has already managed to take.
+"If I turn them, I lose the load order."
 
-The time on my phone is 2:07.
+"Camera moves. Stock doesn't."
 
-Talune is waiting for one word.
+The screen froze on his sleeve, returned as a wash of squares, then cleared. Pevin unhooked the phone from the cart handle. He moved to the leftmost case and waited.
 
-Home comes easily because I have been rehearsing it instead of looking at the field. Rug. Knocks. Dust. Spring. The damp air disappears.
+"Closer," Cira said. She read the label. "Keep. Next."
 
-I land in a crouch beside the bed and send **back**.
+He shifted the camera, not the stock. The second case held setting blocks whose certificates had expired, but the blocks could be recertified. "Keep. Next."
 
-The answer appears at once.
+The third was an empty shell. "Leave. Crates now. Label only."
 
-**Hurt?**
+One crate carried closed invoices required for the final accounts. The other showed a torn archive label under a strip of tape. Cira asked Pevin to tilt the camera. Data broke before the smaller writing came into focus.
 
-**No. Damp field. I got nearly two hours. You were meant to sleep.**
+"Again," she said.
 
-**I did.**
+"Thirty-two minutes," the attendant said.
 
-Talune types carelessly when she has just woken. She loses capitals first, then punctuation, then whole necessary verbs. The sentence on my screen stands upright in polished shoes.
+The picture returned. Cira saw `18C` and the end of `CLAIMS` through the blur. That crate belonged with records, not stock. "Keep both crates. First authorization: two cases, two crates. Empty shell stays."
 
-**That sentence has punctuation.**
+The attendant repeated the count, not her reasons. "Witnessed."
 
-**I was awake.**
+Pevin loaded. When the call dropped, Cira had nothing to do but look at the locked roof door and hold her place in the sequence. Wanting the storage unit had no weight; neither fear nor calm changed the odds. No medication schedule, spoken instruction, training or device could predict the random choice or lean it toward the storage facility. What remained was the sequence after arrival: find where she was, make the call, decide what happened elsewhere.
 
-I peel off my damp socks. **Good night, Talune.**
+The video resumed from the loading bay. Pevin showed the cart entering the van, then set the camera where Cira could see him place the two cases against the forward wall and strap them. He put the crates behind them. The process took seven minutes.
 
-**Good night, Carys.**
+"Back to the unit," he said.
 
-Talune has not slept at all.
+Cira heard wheels and, behind him, the attendant calling, "Twenty-one minutes."
 
-Mud stipples the boot seams. I wipe it away, replace the socks, and leave the weatherproof layer folded in the kit drawer. It is thin, warm, and hateful against sheets. I am saving it for a worse place, though randomness does not reward economy and cloth does not become more rainproof through neglect.
+The next image came in fragments: ceiling, Pevin's shoulder, the chalk aisle, then the large tool case she had left. He set the phone on a shelf facing the labels. Beside the case were two heavy optical fixtures and the taped personal box. The fixtures belonged to the shop, not to clients. They could be sold. The tool case held the calibrated reference kit needed to finish three returns.
 
-At 2:39, the ordinary heaviness returns behind my eyes. I do not fight it. Fighting has never picked the destination either.
+"Case first," Cira said. "Personal box. Fixtures if time."
 
-The mattress warms my back.
+Pevin studied the shapes, then the route. "Case and box are one cart. I can come back for both fixtures if the lift is here."
 
-Rain strikes my face.
+"Countdown."
 
-I am flat on wet concrete beneath a yellow grid of cable supports. A red lamp pulses at floor level. Beyond a painted line, two rails run into darkness. The cold arrives first; then an electronic alarm punches through the last of sleep.
+"Fourteen minutes," the attendant said. "Last entry to this corridor is at five fifty-two. Anyone past the gate after six delays contractor possession and incurs an additional lock-in charge. I cannot authorize that."
 
-I roll away from the edge. My right palm slides across grit and catches on a broken lip in the concrete. The edge cuts across the heel of my palm. When I snatch the hand back, rain thins the blood and draws it toward my wrist.
+Pevin looked toward the corridor, measuring turns Cira could not see. "I can take one fixture with the case. It makes the cart wide at the corner."
 
-The walkway is narrow. I wedge one boot beneath me and rise too quickly. The sole slips. Farther along, a shallow awning covers a gray door. Its lever hangs down and the door stands open by the width of two fingers. I see all of that without making any of it useful.
+Cira pictured the case handle, the fixture feet, the concrete lip at the lift. "No. Case and box."
 
-The alarm pulses again.
+"One fixture by hand after."
 
-Home. Now.
+"No extra trip."
 
-I seize the frayed rug, lose it, find the radiator knock beneath the alarm, and force the lamp's hot-dust smell into the front of my mind. The destination holds. My judgment does not improve merely because the destination is right.
+He stopped. For a moment she heard only the roof fan and the faint rattle of the cart through his phone.
 
-The bedroom replaces the service platform while my weight is pitched forward over one bent leg. My foot finds dry floor where it expects slick concrete and grips. I go over my knee. The wounded palm strikes the rug before I can turn it away. My shoulder clips the chair, and the coat spills down after me.
+Then Pevin angled the camera toward the personal box. Its tape was grey with dust, but her block letters were visible. He waited.
 
-The radiator knocks twice above me.
+Cira pointed at the screen before remembering he could not see her hand in an audio drop. "Box confirmed. Load."
 
-I send **back**.
+He moved.
 
-Talune calls. I refuse it and type **small cut. handled.**
+The staff member coming to the roof called at 5:53 to say they had entered the building. Cira kept the line short and returned to Pevin's video. He was at the loading-bay corner. The wide case cleared it with centimetres to spare. The attendant appeared only long enough to say, "Six minutes. The remaining contents transfer to the contractor at six. Clearance fee will apply."
 
-She calls again.
+"Witness abandonment," Cira said. "Steel bench, two optical fixtures, shelving, obsolete housings, unselected contents. No further access by Pevin."
 
-I take the phone into the bathroom and answer with my good hand. “You were supposed to be asleep.”
+"Witnessed at five fifty-five."
 
-“What cut you?”
+Pevin's camera showed the van floor as he pushed the case aboard. Cira heard the brake set.
 
-“Bad concrete.”
+"Straps," she said.
 
-“Where?”
+He showed each buckle after tightening it. Then he stepped out of the van and waited beside the cart. He did not tell her the bench might still fit if he ran. He did not tell her what she should have chosen.
 
-“Service platform. Private, I think.”
+At six, the attendant closed the corridor gate. The sound reached Cira as a metallic shudder through Pevin's phone.
 
-“What made you wake?”
+The roof door opened at 6:04. Building staff checked Cira's identification against the call record, then took her down a service stair. By then Pevin had moved the van out of the contractor's lane and parked at the far end of the loading bay. Cira hired another car. She spent the ride with the ledger open on her lap, making a list she would have to revise when she saw what they actually had.
 
-“Rain. Alarm. Pick one.”
+Pevin had lowered the cart when she arrived. The attendant stood near the bay door with the completed witness record. He gave Cira the clearance amount, confirmed that the contractor had possession of the remainder, and left when she said she had no procedural question.
 
-“Were the rails live?”
+The van smelled of canvas straps and old paper. Cira climbed in, sat on the floor just inside the doors and checked the tag. No new onset. The two transmitted locations and times were present; the laundry-room signal delay was marked. She saved the log, then began the inventory.
 
-I turn on the tap. Pink water curls into the basin. “They did not introduce themselves.”
+Client trays: all but one closed-property sleeve, which might be inside the records crate. Calibrated cases: three. Reference kit: present, seals unbroken. Personal box: present. Taxi charges: two, both higher than the figure she had put aside. Clearance fee: accepted, not yet paid. Steel bench and fixtures: lost to the contractor unless recovery terms proved cheaper than replacement.
 
-“Carys.”
+Pevin opened the crate marked `18C`.
 
-“I was on the walkway, not the rails.”
+Inside were obsolete switch housings wrapped in invoices from eight years ago. The archive label had belonged to a different crate once; a paler rectangle on the lid showed where it had been moved. The crate had taken the space of both optical fixtures.
 
-“Are you hurt anywhere except your hand?”
+Pevin held one housing, looked at the label, and put it back. "Wrong crate."
 
-“My pride is beyond repair.”
+"Mine," Cira said. The choice had been hers, made from a broken picture under a clock. That did not make the contents different. She drew a line through `claims archive` in the ledger and wrote `obsolete housings`.
 
-“Your head. Knees. Ankle.”
+"The sleeve may be in the other crate," Pevin said.
 
-I test each while water runs over the cut. My right knee aches where it hit; the ankle bears weight. No head pain. “Knee. Hand. Nothing dramatic.”
+"Open that next. Then photograph every tray before unloading. Labels facing camera."
 
-“Were you fully awake when you came back?”
+He set the phone on the van floor and adjusted it until the first row of labels filled the frame. Cira moved the personal box out of the shot and buckled it to the wall ring beside her. Tomorrow she would call the three clients whose returns depended on the reference kit. Tonight she would request the contractor's recovery price for the fixtures and decline it if the fee crossed the replacement threshold. The bench did not need another decision.
 
-“I named the room and reached it.”
+Pevin put his hand on the second crate's lid and waited.
 
-“You reached it on the floor.”
+Cira checked the time, the uncounted trays, and the car due at the outer gate. She pointed to the crate.
 
-“The floor is part of the room.”
-
-Talune does not take the joke. “What was behind you?”
-
-“Tracks.”
-
-“Beside you.”
-
-“Cable racks. Lamps.”
-
-“Shelter?”
-
-I pull a square of gauze from the kit with my teeth. The image returns in pieces: gray door, lowered lever, black line between door and frame, awning beating with rain.
-
-“There was a door.”
-
-“Locked?”
-
-“Open a little.”
-
-“How far?”
-
-“Several steps.”
-
-“And you left before you knew whether it opened.”
-
-“I came home.”
-
-“You came home before finding out whether you could stand.”
-
-The gauze darkens in my palm. I replace it. “Home is known. That's the advantage.”
-
-“Knowing the address did not make your body ready to arrive.”
-
-“You wanted immediate messages. I gave you immediate messages.”
-
-“I wanted to know you were alive. Tonight you have sent me **back** three times and made me ask whether you were bleeding after each one.”
-
-“I wasn't bleeding after each one.”
-
-“That's your defense?”
-
-I pull the cloth tape against my teeth. It stretches without parting.
-
-“Kitchen shears,” Talune says.
-
-“Across the apartment.”
-
-“Then turn the tape sideways.”
-
-I obey because this is the kind of thing her attention does well. The tape parts cleanly. I anchor the gauze around my palm.
-
-“You moved out,” I say. “You don't have to keep doing this.”
-
-“I moved out because I wanted the yellow cupboards, Carys. I also want to turn my phone over and sleep.”
-
-“Do it.”
-
-“And if you call?”
-
-“Answer.”
-
-For four breaths I hear only the bathroom fan and the tap in Talune's kitchen.
-
-Talune says, “You tell me to sleep, then tell me to answer before the second ring.”
-
-“I want one person I trust to pick up if something is wrong.”
-
-“Then call when something is wrong. I will not stay awake for every **back**.”
-
-The tape has pulled a crease across my skin. I unwind it and start again. “How am I meant to know which wrong deserves a call when I've just woken on railway concrete?”
-
-“Look at the place before you leave it.”
-
-“I knew about the rails.”
-
-“After I asked. You didn't know about the open door until I kept asking. In the shed you couldn't tell me whether a vehicle was coming through. In the field you left a place you called fine because you expected me to answer.”
-
-“I did not say that.”
-
-“You checked my punctuation.”
-
-I have no dry answer ready. The bathroom fan pushes a thin whine through the room. My cut stings in time with my pulse.
-
-Talune continues, precise rather than gentle. “I know which details you skip. I cannot stay awake every night to ask for them.”
-
-I turn the steel tag over. Its blank back is scratched by years of ordinary keys I stopped carrying after one ruined magnetic fob too many. I press a strip of cloth tape across it.
-
-“Fine,” I say. “Three questions, since you like them.”
-
-“Not questions for me.”
-
-That stops the pencil.
-
-I picture the service platform. I had a route home. I used it before I knew what shape I was in.
-
-On the tape I print **AWAKE?**
-
-Talune hears the pencil. “Not awake as in you can say your name. Awake enough to choose.”
-
-“I know my name.”
-
-“You thought the freight engine was on two sides of a wall.”
-
-I add **HURT?** beneath the first word. “Second insult recorded.”
-
-“What changes the decision?”
-
-I inspect the bandage. It is snug without whitening my fingers. “Weather. Moving equipment. People. Exits.”
-
-“And the known place.”
-
-The bedroom will arrive where I ask for it. It will not straighten my knees or slow my fall. I fit the last words into two compressed lines: **SAFER HERE OR KNOWN PLACE?**
-
-“Can you read it?” Talune asks.
-
-I hold the tag near the bathroom light. “Yes.”
-
-“Good. If you need hands or a voice, call me once. I will answer. If the call cannot reach me, use the emergency number on the front.”
-
-“And if I don't need help?”
-
-“Decide what to do. Send facts when you can. I am not waiting for proof that you returned.”
-
-I close my fingers. The bandage holds. “What if the next place is worse?”
-
-“My ringer will be on.”
-
-“That isn't much.”
-
-“No.”
-
-I carry the phone to the bedroom. On Talune's end, a cupboard closes, then a tap runs. She is preparing for bed instead of preparing to watch me.
-
-“Stay until I get the wet clothes off,” I say.
-
-“This is your one call.”
-
-“I know.”
-
-“My messages are muted now. Your calls will ring.”
-
-I strip the damp shirt away from the secured kit, dry my shoulders, and pull on the thin weatherproof layer. It whispers at every movement. The boots stay. Cash, spare gauze, foil, pencil, taped tag, phone. Snaps and knots, nothing that expects magnetism to remember what it was.
-
-A mattress frame creaks through the phone.
-
-“The fingers are warm,” I say, flexing my palm. “The tape's holding.”
-
-Talune does not answer. Her breathing has lengthened. After half a minute, one small blunt snore reaches the receiver, the sound she has denied making since the first apartment.
-
-For once, I do not wake her to win the argument. I end the call.
-
-I leave the rug crooked. I leave the fallen coat on the floor because I am wearing the layer that matters. At 3:26, I lie down with my phone face down. My palm throbs. Sleep comes before I can arrange my face for it.
-
-Cold air finds the gap at my collar.
-
-I open my eyes on coarse office carpet. A steel shelf rises at my shoulder, loaded with envelopes, paper cups, and sealed boxes of toner. The hum above me is a ventilation grille. It has been blowing on my neck long enough to wake me; the phone says 5:48.
-
-Home is ready at the edge of thought. I leave it there.
-
-The tag lies against my ribs. I turn it over.
-
-Awake? I read the nearest box label twice, check the time again, and follow the vent's hum to its source. My thoughts stay in order.
-
-Hurt? The bandaged palm is dry. My knee bends. No new pain. My fingers and toes are warm enough, though the room is cold.
-
-Safer here or known place?
-
-I sit up slowly, brace the bandaged hand against my thigh, and wait for the room to stay level.
-
-Here is somebody else's storeroom. My sleeping body arrived supported between a low cabinet and the shelving, hidden from the door but not protected by a lock. Through a wired-glass pane I can see a dark office: chairs tucked under desks, blank monitors, a cleaner's cart parked near a green exit sign. No one moves. No conveyor or vehicle shares the room with me. A fire plan beside the door shows a stairwell at the end of one short corridor.
-
-The door has an ordinary lever on my side. Beyond the office, trespass and an alarm remain possible. Home is known and empty. Here, for the moment, the floor is stable and the corridor is silent. I can hold the bedroom clearly, but I have not yet tested my legs. Five minutes of listening is safer than carrying another bad posture home.
-
-I type one message.
-
-**awake, unhurt, staying five minutes**
-
-It shows delivered. Nothing follows. Talune is sleeping three streets away; I heard her begin.
-
-I set the phone face down on the carpet, shift with my back clear of the shelving, and study the strip of office visible through the glass. I count the desks between me and the stairwell. I find the ceiling camera and the angle it cannot see. I test the door without opening it and feel which way the latch gives.
-
-The five minutes start. I use them to learn the exit.
+"That one."

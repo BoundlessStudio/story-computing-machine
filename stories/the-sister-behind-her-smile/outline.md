@@ -2,38 +2,46 @@
 
 ## Story
 
-- Proposed reader-facing title: *The Sister Behind Her Smile*.
-- Premise and central promise: Lady Calithea Vellorin has always been volatile, extravagant, and skilled at turning tears, favors, and secrets into leverage. Her unnamed elder brother loves her while privately cleaning up much of the damage. One morning she becomes considerate without explanation. His pleasure turns to alarm because she remembers shared facts but shows no appetite, irritation, private shorthand, or preference. Resolve the mystery privately: Calithea is neither replaced nor possessed. She chose a courtly temper clasp to suppress emotional surges while preparing to repair a serious wrong. Her brother must separate love from enabling; Calithea must decide whether to remove the saturating clasp and attempt change with her full feelings intact.
-- Generating force and focal contradiction: A domestic investigation recurs through rooms and objects where the siblings practice an old arrangement: Calithea creates weather; her brother shields and forgives it. He wants proof that the gentle woman is his sister, yet her old behavior harmed others and made his rescuing feel necessary. Calithea wants to become less cruel without trusting herself with anger, jealousy, or shame. The clasp improves conduct while postponing what she will choose under distress.
-- Counterforce or complication: No villain is required. Calithea chose the clasp after a jealous lie cost an unnamed maid her position; an impending attempt at restitution makes the shortcut attractive. Her brother's justified suspicion shades into wanting the recognizable sister he knows how to manage. She expects him either to excuse the harm or seize control of the cure. The clasp was made for brief ceremonial composure; a full intense day makes delay painfully unsafe without creating a lethal emergency.
-- POV, distance, and information limit: Close first-person past through the brother. He reads Calithea's tells and household consequences but not how being her interpreter serves him. He cannot enter her mind, infer virtue from calmness, or know what she will choose after removal. Missing habits, hot metal beneath her collar, wilted flowers, and evasions narrow the possibilities before she names the clasp.
-- Governing movement and time shape: One day at Eavescross House, then a brief next-morning departure. The brother circles from breakfast through the morning room, old schoolroom, gallery, and Calithea's dressing room; familiar objects shift from evidence of replacement to evidence of enabling. Keep revelation and choice private near dusk. Use no public dinner, court hearing, demonstration, or report of whether restitution earns forgiveness.
-- Speculative rule or ordinary-world constraint: The temper clasp is a nonliving focus powered by its wearer. It diverts the first bodily surge of strong emotion into heat but cannot read morality, command kindness, change memory, remove desire, or supply judgment. Only the wearer can open it. Removal returns ordinary feeling gradually; saturation grows painfully hot and may crack, releasing stored arousal abruptly. It creates no duplicate, spirit, or permanent virtue. Courtiers use it briefly for ceremonies; its heat dries skin and wilts nearby flowers.
-- Dialogue pressure: The brother wants identity proof and removal; Calithea wants him to acknowledge her chosen change without taking charge of it. He approaches through childhood objects and the dismissed maid, while she redirects toward his habit of rescuing her. She withholds the clasp's saturation; he withholds how much he needs her dependence. His careful euphemisms should contrast with her newly measured but still incisive social reading.
+- Premise and central promise: Camet Auvray has loved Lady Odrienne through weaponized tears, debt-making gifts, servant rivalries, and emotional storms. Her abrupt generosity first feels like welcome reform. Then she yields treasured possessions, agrees before hearing requests, and times every gentle answer to the palace courtesy cadence. Camet must find and resolve what is wrong without declaring either cruelty or enforced kindness her “real” self.
+- Focal pressure or attachment: Camet’s wish for an easier sister delays the question of whether she can refuse. Odrienne sincerely wants to change after one scheme cost a maid her position, but fears that everyone enjoying her improvement will help make its restraint permanent.
+- Counterforce or complication: Gracework now delays every impulse Odrienne marked selfish, angry, disappointing, or demanding until it cannot reach voice or movement. Pressure escapes through reversed mirror motifs and disturbed music. Her shame, Camet’s relief, approaching dawn, and a spell that inhibits revocation provide opposition without a villain or replacement sister.
+- POV, distance, and information limit: Close first-person past through Camet, Odrienne’s younger brother. He reads leverage and broken behavioral patterns, not her mind. Felisane’s work observations, reflected thread, timing tests, and Odrienne’s deliberate visual and rhythmic choices reveal the mechanism. Smooth speech never proves consent.
+- Governing movement and time shape: One evening contracts from supper through service corridors and a dressing room to a private mirror chamber before dawn. Welcome improvements acquire costs, investigation becomes a signal test, and the climax requires coordinated physical action. End that morning with restitution and an imperfect ordinary choice, not public proof or reconciliation.
+- Speculative rule or ordinary-world constraint: Local gracework uses nonliving silver thread, mirrors, and instruments to store and transmit force supplied by a living wearer and singers. The wearer chooses impulses to pause; it cannot invent feelings, words, kindness, or another person. Odrienne’s exhaustive pattern renews through constrained responses and vents blocked intent as reflected color and altered notes. Seventh-dawn binding requires her to complete the initiating cadence. Broken music weakens it, but only Odrienne can revoke it by cutting her anchor stitch.
+
+## Voice
+
+- Narrative texture: Camet compares favors, timings, objects, and household consequences, shifting from amused suspicion to material attention. Mirrors provide evidence, never an evil double.
+- Conversational texture: Mix requests, corrections, work complaints, unfinished instructions, and status-softened refusals. Odrienne’s new speech is frictionless and cadence-timed; remembered old speech leaves asymmetries, not banter.
+- Rhetorical ownership: Camet reasons through debts and pattern breaks; free Odrienne uses status and emotional leverage, constrained Odrienne uses spatial, color, and rhythmic choices; Felisane names labor and harm; musicians use cues and counts.
+- Pressure behavior: Camet overquestions, then gets terse. Odrienne’s assent narrows into silence, tapping, and discord. Felisane becomes direct; musicians lose coordination when asked to judge consent.
+- Anti-default: Avoid quippy court mystery, polished siblings, lore confession, or possession disguised as kindness. Carry meaning through timing, service work, interrupted sound, and choice.
 
 ## Beats
 
-1. At breakfast, small reversals are genuinely kind but unnervingly frictionless. A shared childhood object elicits correct history without their usual attachment.
-2. Through household business, happiness becomes pattern recognition. Calithea solves problems yet initiates no pleasure and risks no one's disappointment. Heat at her throat, untouched food, and browning flowers accumulate as clues.
-3. In the old schoolroom, drafts of a restitution letter show that Calithea sought temporary aid herself. The discovery exposes the maid's dismissal and her brother's role in smoothing it over.
-4. In her dressing room, Calithea proves continuity through specific knowledge but refuses to perform cruelty as proof. The conflict shifts from whether she is real to whether they have mistaken volatility for honesty and protection for love.
-5. Rising heat forces a bounded choice without removing her agency. Her brother gives the practical risk, makes the room private, and stops directing her answer.
-6. Calithea opens the clasp herself. Returning anger, shame, appetite, and affection are messy, not revelatory. Movement, silence, and one concrete choice carry the turn; she is not instantly pleasant, and he does not resume excusing her.
-7. Next morning, Calithea leaves unclasped for the private visit she planned, without her brother scripting it. Forgiveness and lasting reform remain unknown; the mystery is resolved, while choosing differently remains slow work.
+1. At supper, Odrienne grants time off without extracting gratitude and replaces an insult with precision. Camet’s relief breaks when she offers away a defended keepsake and accepts a disadvantage before hearing it. Every response lands on the same courtesy phrase drifting from rehearsal.
+2. Camet finds no beneficiary behind a possible scheme. Felisane supplies concrete differences: fewer humiliations, but no preferences, private requests, complaints, or safety corrections. Colored knots move only in Odrienne’s mirror image.
+3. In the dressing room, gown motifs stay still while their reflections tighten and change color whenever Odrienne tries to contradict Camet. Factual answers cause nothing; desire and displeasure produce signals. She deliberately repeats a childhood rhythm through taps and reflected thread, proving intent without fluent translation.
+4. Gracework instructions and a half-unpicked cuff reveal Odrienne’s voluntary beginning, overbroad prohibitions, and the seventh-dawn condition. Camet confronts his praise of results without choice; Felisane maintains that restored agency does not erase household repair.
+5. Odrienne heads toward the mirror chamber along her enchantment-shaped plan. Her signals reject Camet’s attempt to tear the gown. Through broken counts and motifs, she directs him and Felisane to dampen corridor resonance, disrupt the singers’ tempo, and place a seam knife within her choice.
+6. The cadence makes Odrienne agreeable and unable to reach the anchor. Camet stops demanding verbal assurance; Felisane manages the gown and rejects unsafe shortcuts. When the chorus falls out of unison, Odrienne grasps the knife and cuts her own stitch before sunrise completes the circuit.
+7. Anger and tactics return beside intended kindness. Odrienne begins concrete restitution, accepts Felisane’s refusal of a grand gift, and keeps only a visible warning cuff that cannot inhibit action. At breakfast, one chosen courtesy survives beside familiar temper; the siblings do not explain the moment.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Lady Calithea Vellorin | new | The narrator's noble younger sister; no intentional connection to any established person or family. |
+| Camet Auvray | new | Younger brother who loves Odrienne while resenting her tactics. |
+| Lady Odrienne Auvray | new | Difficult noble sister caught in self-silencing gracework. |
+| Felisane | new | Maid whose labor knowledge keeps household harm visible. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Eavescross House | new | The siblings' aristocratic residence in an otherwise undocumented courtly era; no intentional connection to an established estate or realm. |
+| Valsor Palace | new | Noble residence containing the single-night action. |
 
 ## Continuity
 
-- Canon used: One deep-time world permits independent eras and local systems. Only living agency uses magic; a nonliving object may focus a wearer's magic. Personhood, consent, relationship, and responsibility remain consequential.
-- Boundaries and unknowns: The era, Vellorin family, Eavescross House, temper clasp, and its customs are story-local, with no link to Ersene, Lacebridge, Bellweather Hall, or another identity mechanism. The clasp establishes no universal relation among emotion, virtue, heat, magic, or souls. Do not certify Calithea's future goodness or make the harmed maid responsible for reconciliation.
+- Canon used: Only life originates magic; silver thread, mirrors, and instruments transmit Odrienne’s and the singers’ force. Odrienne remains one person with intact feelings, responsibility, relationships, and choice, in an unnamed deep-time era.
+- Boundaries and unknowns: Gracework is local and establishes no universal emotion, consent, clothing, mirror, music, or truth magic. Motifs carry contextual signals, not thoughts. Its origins, wider politics, long-term reform, and sibling reconciliation remain open.

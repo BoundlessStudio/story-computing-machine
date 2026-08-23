@@ -8,330 +8,250 @@ canon: false
 
 # The First Call
 
-The first thing Dawnwatch asked of Tebri was a repair.
+The rooster arrived at first call, marching in the ditch because the king's infantry had filled the road.
 
-He came up the muster road before the levy horn, while cooks were still coaxing damp wood and the kingdom's newest soldiers were discovering which straps pinched. He was a red rooster, broad in the breast, marching under a suit of battered armor.
+He came up no higher than the buckle on an infantryman's boot. Mud darkened his red feathers, and the armor fitted over him in narrow, battered plates: breast, back, shoulders, and two jointed guards that moved when he lifted his wings. Whoever had made it understood both metal and birds. Whoever had last repaired it had used a kettle patch and three kinds of rivet.
 
-Laughter reached him from both sides of the road. It began with the spear ranks, spread through the archers, and doubled when he passed the officers' horses without breaking step. Someone crowed back at him. Someone offered odds on how long he would last in the stew pot.
+The young armorer noticed all that before she noticed the laughter.
 
-Tebri did not laugh until he stopped at her bench.
+“What rank is he?” someone called from the pike carts.
 
-His breastplate was genuine steel, dark with old oil. Overlapping scales ran from his shoulders to his tail, their edges worn bright beneath a crust of road dust. The leather under his wings had been patched with three kinds of stitching. No craftsman had fitted the whole thing, at least not in its present shape; one hinge was village work, another delicate enough for a jeweler, and a strip of copper wire held the spine together where a proper pin had been lost.
+“Dinner.”
 
-The rooster looked at Tebri, looked at the buckles arranged on her cloth, and lifted his left wing. A belly strap had twisted half around.
+“Too stringy.”
 
-That was when she laughed. Not because he wore armor. Because every soldier who had ever reached her bench with a split strap had begun by telling her it was the armor's fault, and this one had simply shown her the fault.
+The rooster kept pace beside the wheels. He did not startle at the first horn or the stamping horses. When a wagon lurched toward the ditch, he climbed the bank, let it pass, and returned to the firmer ground without breaking stride.
 
-"Stand still, then."
+The armorer had been mending a buckler strap on her knee. She put it aside when she saw the loose plate lifting behind his left wing. “Hold there.”
 
-He did.
+He stopped.
 
-Tebri turned the strap flat. Its inner face was polished by long use, though the wearer beneath her hands was no larger than any farmyard cock. She punched a new hole, shortened a keeper, and tested the buckle with two fingers. The rooster shifted his weight once, settled the breastplate, and lowered his wing.
+That earned another laugh. A junior officer leaned down from his saddle and knotted a strip of royal blue through the rooster's back plates. “There. Our luck has put on colors.”
 
-"Better?"
+The soldiers cheered their new mascot. The rooster reached back, caught the cloth in his beak, and worried it free. He dropped it under the officer's horse.
 
-He struck the plate with his beak. The note rang clean.
+Even the armorer laughed then. She was nineteen, the army was clean, and nobody had yet taught her how quickly a joke could become an account of what had happened.
 
-The soldiers around the bench applauded. The rooster ignored them. He walked the length of Tebri's laid-out tools, paused over the awl she had used, then returned to the muster road.
+She tapped the ground beside her. The rooster stepped over. He watched her hands while she lifted the loose plate, trimmed the kettle patch, and set two proper rivets. There was room under the lame for a finger's breadth of travel, then another hidden fold beneath that. More room than any rooster could need. She tried to open it farther. His beak closed around the leather guard on her wrist—not hard, but exactly.
 
-A clerk intercepted him with the end of a roll. "Whose bird?"
+“All right,” she said. “Only what's loose.”
 
-"No mark," Tebri said.
+He let go.
 
-The captain appeared behind the clerk, fastening his sword belt as he walked. He had one boot on and one foot wrapped in linen. "Will it march?"
+When she finished, he scratched a brass harness ring out of the mud and pushed it against her boot. Then he returned to the verge. He refused the grain tossed after him and marched east while the army's road bent north.
 
-The rooster was already inspecting the last rank, ducking beneath the tails of coats and stepping around packs. Twice he stopped before a man whose scabbard hung too low. The men moved them out of his way, still grinning.
+By supper, he had joined them in the story.
 
-"Apparently," Tebri said.
+* * *
 
-"Put him with the baggage."
+For seven years the rooster appeared at wars that were not quite the one being told about him.
 
-A handler bent to catch him. The rooster slipped between the man's boots, crossed behind the column, and took a place on the road precisely one pace beyond the final soldier.
+He came to the armorer after the river campaign with a shoulder hinge crushed inward. The king's host had won its ford that day, so the men said their little bird had brought the current down. Yet the grit beneath his plates was white road chalk, not river sand, and the arrowhead caught in the hinge had the long, dark barb used by the army they had driven east a month before. He paid with a stirrup buckle and left before the victory horns.
 
-The captain watched him refuse a second pair of hands. "Mascot, then. Mascots don't need formation space."
+He came again during the winter siege. This time three lengths of cage wire had wound around his leg guard. Every strand was cut cleanly in two places. Black pitch glazed his breastplate and smelled of pine instead of the marsh tar used by the king's sappers. The armorer soaked it off, eased the swelling beneath, and showed him the padded strap before she buckled it. He inspected it with one bright eye. At dusk he vanished through a drain beneath the eastern wall.
 
-"No one asked what he needs."
+By then there were songs without verses and stories without witnesses. Recruits watched for red feathers before an assault. Drivers swore the rooster could take the first direct light of dawn into his body once, if he chose, and stand higher than a siege tower for nine minutes. Afterward, they said, he was cold enough to frost grass in summer. No two tellers agreed on where they had seen it. The armorer did not believe them, though the folded plates under his ordinary plates began to trouble her.
 
-The captain glanced at the unsounded horn, the waiting levy, and his bare foot. "I need the army moving. Clerk, write 'red rooster, mascot' and give the quartermaster a number."
+Belief was less useful than upkeep. She kept narrow rivets in a separate box. She learned how far he would permit her to lift a wing and which touch made him draw away. He learned that she would stop. That was trust, and because it was real, she mistook the story wrapped around it for real too.
 
-The clerk dipped his pen. "Name?"
+The third time, he arrived while she was teaching new hands to sort damaged mail. One shaft through his back plates bore the king's grey-and-blue fletching. Another, lodged along his breast, bore the enemy's black. Neither had reached flesh. The recruits crowded close, delighted by proof that their mascot had fought in the middle of everything.
 
-The rooster threw back his head and crowed.
+“Back up,” she told them. “He can't see my hands with your knees in the way.”
 
-It was a deep, carrying call. The horses along the picket tossed their heads; cooks looked up from their smoke; the officer holding the levy horn lowered it in surprise. For one breath the entire field listened to the rooster's call instead.
+She removed both shafts. Beneath them she found ash, more pine pitch, and the fine red dust of the east road. She could have followed the evidence then. Instead she burnished the plates and sent the recruits to supper with a story about how many arrows their luck could carry.
 
-The clerk wrote Dawnwatch.
+The rooster did not stay to hear it.
 
-Only after Dawnwatch had walked past every rank and wagon did he resume his place at the rear. The horn sounded late. He marched when the soldiers marched, beneath armor that had known other roads.
+* * *
 
-Within a month he belonged to every story the company told about itself.
+Seven years after first call, the king's host narrowed to three soldiers beside the east road.
 
-He slept under Tebri's fitting bench, where falling sparks died on the packed earth before they reached him. He cleared weevils from the flour. His shed feathers kept grain beetles away, though they also bleached every red-dyed thing they touched to orange. The quartermaster lined the bins with feathers, then came to Tebri waving a mottled cuff.
+Seven minutes remained before sunrise. Smoke from the ruined camp pressed low over the marsh, turning the causeway ahead into a grey strip that appeared and vanished. Behind them, the royal standard burned in a ditch. Ahead, somewhere past the smoke, harness bells kept ringing and then stopping.
 
-"That bird has eaten half my flour and ruined a good coat."
+The armorer was a sergeant now. Her last officer had died with one hand hooked in her apron and one order left in his mouth: fire the prepared road before dawn. The enemy's wagons were not to cross the causeway. Neither were the enemy's wounded, scavengers, camp children, stolen animals, or anyone else the smoke might be hiding. The officer had made it sound simple because he did not have enough breath for exceptions.
 
-"He ate what was eating the flour."
+The scout lay on the bank with his cheek to the wet grass. “Movement. East lip.”
 
-"I can dislike two creatures at once."
+“How many?”
 
-Dawnwatch opened one eye beneath the bench. The quartermaster tucked three more feathers into his sleeve before leaving.
+“Four.” He raised two fingers, changed it to three. “Three upright. Something low. No—there's a wheel. Might be two wheels.”
 
-He learned the company's calls, or perhaps he had known calls before theirs. He came to the short note for rations but ignored the one used for mules. He moved on the marching horn, halted on the double fall, and on inspection days walked the ranks ahead of the captain. The soldiers began tying bits of ribbon to his back plates. Dawnwatch removed each ribbon and left it in Tebri's scrap bowl.
+The field surgeon sat against the milestone, binding his own thigh above a deep cut. He drew each breath through his nose before speaking. “If it's the fire wagons, four is enough.”
 
-They called that pride in his costume.
+“Can you cross?” the sergeant asked.
 
-Tebri called him fussy, because fussy things were familiar. He would not enter his harness if a buckle lay crooked. If a scale caught the grain of his feathers, he gripped her sleeve and drew her hand to the spot. He never struck flesh. He waited until she understood, then tested the repair by sound.
+“With a shoulder, perhaps sixty paces. Not quickly. If the bleeding starts again, put me down before I put you down.”
 
-The first wet season put them on a border road drowned between willow marshes. Rain erased the road's edges and filled every wheel rut to the color of iron. The baggage master built Dawnwatch a dry perch under the canvas. Dawnwatch stepped off it and climbed the bare rise where the forward sentry stood.
+The pitch line ran from the roadside jars into reeds beneath the causeway. A slowcord waited in its clay gutter. Once lit, it would give them six minutes to get west of the low ridge. The sergeant had a coal nested in her tinder horn and the striker in her fist.
 
-Tebri followed with an oilcloth, meaning to cover the fresh patch on his back.
+The scout wiped his streaming eyes. “Now five shapes. Or the smoke moved.”
 
-The sentry leaned on his spear. "Your little officer wants the high ground."
+“Pick one.”
 
-Dawnwatch faced the willows instead of the road. Rain slicked his comb flat. He did not look at Tebri when she spread the cloth.
+“Smoke moved.” He listened. “Harness again. No marching feet.”
 
-"What is it?" she asked.
+The surgeon pulled the bandage tighter and went pale around the mouth. “By the time you're certain, the cord won't give us six minutes.”
 
-His head tipped left. Beyond the rain, nothing moved except long leaves.
+There was no commander left to ask. There were no reinforcements behind the ridge, only the dead and the westward trail of those who had run before the line broke. The sergeant had spent the night making the last order ready because readiness was a thing her hands could still provide. The jars were uncapped. The reeds were soaked. The cord had been measured twice.
 
-The sentry laughed. "Ask him where the enemy is while you're at it."
+Something rustled below the bank.
 
-Dawnwatch gave three short crows.
+The rooster climbed out of the ditch.
 
-The first silenced the sentry. The second turned him toward the willows. Before the third ended, Tebri saw a branch rise against the wind. Someone was passing beneath it.
+He was small as ever, though soot had turned his feathers almost black. The left wing guard hung by one strap. A burn had curled the tips of his tail, and he favored his right foot. Still he hauled himself onto the road and faced the causeway.
 
-She dropped the oilcloth and ran downhill shouting, "Willows!"
+The scout gave one exhausted breath that might once have been a laugh. “Knew our luck wasn't dead.”
 
-The hidden bowmen loosed before the captain had the shield rank closed. Arrows punched the baggage canvas. A frightened mule pulled the lead wagon crosswise, blocking the road behind them. Men crowded against the flooded ditch while more shapes moved through the willows.
+The rooster walked past him.
 
-Dawnwatch came down the rise into that confusion. He struck twice at the mouth of a charcoal track so narrow Tebri had mistaken it for runoff, then dragged one spur through the mud in a line toward the trees.
+The sergeant crouched, already reaching for the broken guard. “Here.”
 
-The sentry went first. The shield rank followed because there was no room to argue. Tebri cut the trapped mule loose while soldiers shouldered the wagon aside, and the company escaped between smoking charcoal pits before the hidden force closed the road.
+He stopped beyond her hand. When she showed him the rivet pliers, he looked once at the smoke ahead and stepped around her.
 
-Dawnwatch remained beside the track mouth until the last cart turned. He came after it with an arrow groove through three back scales and blood darkening the feathers beneath his right wing.
+“Not that way.” She moved to block him. “West.”
 
-He refused Tebri's hands until the captain had called the roll. Only when the final answer came did he crouch on her folded coat.
+He left the road, passed through the wet reeds, and returned to it on her other side. His limp made every third step dip. He continued east.
 
-By supper, the warning had become luck. Dawnwatch had climbed the hill to hunt worms. Dawnwatch's crow had startled the ambushers into moving too soon. Dawnwatch had scratched at the track because all roosters scratched, and the company had been clever enough to understand.
+The sergeant struck spark to tinder. The coal caught. She touched it to the slowcord, and a red point began to creep along the gutter.
 
-The sentry repeated those versions loudest.
+“Three uprights,” the scout said. “Certain now. One pushing the wheels.”
 
-Tebri set the damaged scales on her bench. "You saw him watching the trees."
+The rooster entered the smoke.
 
-"I saw him being a rooster," the sentry said. He could not meet her eyes. "And I followed. Both can be true."
+The red point moved past the first notch cut into the clay. Five minutes.
 
-She had no answer that would improve the metal. She cut a replacement from the blue cuff of a ruined vambrace, rounded the edge, and fitted it where the arrow had struck. Dawnwatch listened to its note. When Tebri reached for a punch to stamp the company's little crown into the plate, he put his foot over it.
+“Could still be a fire cart,” the sergeant said.
 
-"Not ours?" she asked.
+The scout did not answer. He had lowered his head to the roadbed. The surgeon watched the slowcord.
 
-His claws remained on the blank steel.
+From within the smoke came a wooden crack, then a horse's scream. Harness bells scattered into a wild, receding jangle. A fire rose where no fire had been, orange through the grey.
 
-She left it blank.
+The surgeon said, “That cart was loaded.”
 
-The second winter reduced the company to the smell of wet wool and the nightly recitation of names. Men slept with heated stones in their blankets and woke to stones cold enough to burn their palms. Dawnwatch's comb went pale at the tips. Tebri made him a lined cover for the armor; he tolerated it in camp and shook it off before every march.
+The red point reached the second notch.
 
-One evening the count came back complete. Forty-six walking, five carried, no one missing.
+The sergeant slid her knife beneath the cord and cut away the burning length. She crushed it under her heel. The unburned end went into her tinder horn beside the coal.
 
-Dawnwatch did not eat.
+No one asked whether that was a new order.
 
-He paced from the ration pan to the dark road, struck the pan once, and returned to the road. When Tebri blocked him, he tugged the ring on her lantern.
+Beyond the causeway, men shouted in the enemy's hard field cadence. A second voice answered from farther north, where the king's retreating sappers had abandoned two more pitch wagons. Fire came from both sides of the road now. One wagon rolled backward without horses, its flames tilting as it gathered speed. It struck something with a crash that shook the reeds.
 
-"The count is good."
+“That was the east rail,” the scout said. “Causeway's blocked.”
 
-He went six paces into the snow and waited.
+The sergeant stared into the smoke where the rooster had gone. On her workbench across seven years: white road chalk, black pitch, royal feathers, enemy barbs, cage wire cut twice. Damage from every banner, always carried out of a fire that threatened the same road.
 
-"The count is good," she said again, because the wind had begun filling their own tracks.
+The stories had put him beside their victories because that was where they had happened to see him afterward.
 
-Dawnwatch came back, struck the lantern ring, and walked away a second time.
+“Light,” the scout said.
 
-Tebri took the lantern. At the edge of camp she told the sentry, "If I am not back by the watch change, tell the captain his mascot has stolen his armorer."
+The horizon had opened beneath the smoke. A blade of direct sun lay across the far end of the causeway.
 
-Dawnwatch led her nearly half a mile. He left the road where a drift had buried the ditch and began digging with both feet. Tebri heard nothing until she knelt and pressed her ear to the snow. Beneath it, someone breathed in thin, broken pulls.
+For a moment there was only a small rooster in it.
 
-The missing spearman had answered at roll and wandered off afterward, fevered and snow-blind. One hand was wedged under his pack. Tebri dug until her fingers went numb. Dawnwatch crouched beside the small air hole and spread his wings across it, keeping loose snow from falling into the man's face.
+He stood beside the burning wreck with his injured foot lifted. Light ran red along his neck and flashed in the battered hinges she had repaired. It touched him fully. He did not change. Beyond him, dim figures struggled with the handcart, trapped between the wreck and the fire advancing through the reeds.
 
-They hauled him back on Tebri's coat. Dawnwatch walked beside his head, stopping whenever the man's breathing changed. At camp he ignored grain and warmth until the surgeon forced broth between the spearman's teeth.
+Then he set his foot down.
 
-The man's hands survived, except for the tips of two fingers. The story did not. By morning, the company had decided Dawnwatch had smelled his favorite soldier through the storm. By spring, some versions said the rooster had dragged the man free himself.
+His armor opened first. Pins rolled through curved slots. The narrow lames drew apart over hidden bands, each battered patch lifting into its place in a design the sergeant had handled for years without understanding. His body rose inside it. Legs thickened; claws tore furrows in the road; red feathers streamed upward through the smoke. His breast climbed above the wagon roof, then above the causeway posts. When he spread his wings, the air struck the marsh flat, but he did not fly. He braced.
 
-Tebri widened both belly straps after that winter. Dawnwatch had not grown, but the armor kept needing room in places that did not touch his body. She began recording every alteration on a strip of hide in her tool roll.
+The scout turned the quarter-hour sandglass from his map case. “Nine, wasn't it?”
 
-"You counted after the roll," she said while he stood on the bench.
+“If they kept that part straight.”
 
-Dawnwatch watched her select a drill.
+The rooster drove one armored shoulder against the burning wagon.
 
-"You knew one was gone."
+The first push failed. A black-fletched arrow struck between the plates on his back. He lurched, caught himself with one wing, and shoved again. Iron screamed along stone. The wagon shifted half its width.
 
-He picked up the narrow chisel in his beak and set it beside her hand.
+The figures behind it became people: an old man at one handle of the cart, two younger adults at the other, a child beneath a wet blanket, and a woman dragging a mule whose pack bore scraps of royal blue on one side and enemy black on the other. Loot, laundry, surrender rags—the sergeant could not tell. The rooster did not look for a uniform.
 
-The chisel was better suited to the rivet. Tebri used it. She still wrote mascot on the repair docket, because the quartermaster accepted repairs for mascots and asked questions about armor made for soldiers.
+More arrows crossed the light. One glanced off a shoulder plate. Two sank into the flesh below his raised wing. They did not grow with him. They remained ordinary arrows, absurdly small against his body and no less harmful. Blood darkened the feathers beneath them.
 
-Six years passed by changing the suit.
+“Six minutes,” the scout said.
 
-The copper wire vanished beneath a black steel bridge. Tebri replaced buckles, shortened straps, lengthened the same straps, and once found a sword cut in a place no rooster hiding under a wagon could have earned. The blue scales multiplied across Dawnwatch's right shoulder. Fewer soldiers remembered the muster. The ones who joined later knew him first as the lucky bird in the old stories.
+The rooster hooked his beak under the wagon's flaming drawbeam. He pulled backward, step by deliberate step, until one wheel dropped from the causeway into the reeds. Fire crawled up his loosened wing guard. He beat it against the stones, once, twice, keeping his weight on the beam. No magic closed the wounds. No flame turned aside for him.
 
-Then a drill broke through what Tebri had always thought was padding.
+The handcart squeezed through. The old man fell, rose, and pushed again. The mule balked at the rooster's legs; the woman covered its eyes with her sleeve and led it under the shadow of his breast. Last came two limping figures the scout had counted as one. They crossed without thanking anyone. They were still running when the rooster released the beam.
 
-An outer plate lifted from the breastpiece. Beneath it lay a second plate folded along a joint so fine it had gathered no rust. Another waited beneath that one, and another, nested like metal feathers. Their inner faces carried broad, smooth wear marks, each as wide as Tebri's palm. The leather she had believed too thick was doubled and turned inward around empty space.
+He did not turn toward the charred royal standard. He did not come to the sergeant. He shoved the wagon one final foot, enough to spill its burning load harmlessly into black water, and only then backed down the causeway.
 
-She removed three rivets. The back assembly loosened and revealed a black pin at its center, dull as quenched iron and untouched by six years of weather. Old tool marks scarred the socket. None were hers.
+He sagged against the drawbeam. The shoulder hinge she had mended after the river held; the newer strap beside it had burned through.
 
-Tebri reached for pliers.
+“Four minutes,” said the scout. “He's coming.”
 
-Dawnwatch knocked them from her hand.
+The enormous rooster limped toward them with dawn at his back and three arrows standing from his blood-wet feathers. Each step brought the road's tremor through the sergeant's boots. At the near end he folded his legs and lowered himself, not gracefully, beside the milestone. Heat rolled off him. His breath came with a low rough click.
 
-The blow was hard enough to send the tool under the bench. He planted both feet on the open harness. His feathers lifted; his amber eye stayed fixed on hers.
+The sergeant took one step closer. He drew his wing tight over the arrows.
 
-"That pin locks all of it," Tebri said. "If it shifts, the spine may open."
+She stopped.
 
-He struck the black head once.
+The surgeon held up both empty hands. His voice was slower now, each word placed around pain. “The shafts stay their size. You won't.” He pointed first to the deepest arrow, then to his forceps. “May we pull this one?”
 
-"Yes. I see it."
+The rooster watched him. Then he opened the wing far enough to expose the first shaft and laid his beak on the road.
 
-He placed one foot over the pin.
+“Three minutes,” the scout said.
 
-Not this tool, then. Or not this day. Tebri sat back on her heels. Around them, twelve soldiers did the camp work that thirty had shared at the beginning of the war. The cookfires were small. The captain's new orders waited under a stone, sending the company toward another road people had already failed to hold.
+The sergeant climbed between the unfolded back plates. The workmanship made sense at this scale: sliding braces, doubled straps, stops that kept metal from biting into living flesh. She cut the shaft short. The rooster's muscles clenched beneath her knees.
 
-"Were you this size when someone made it?"
+“Hold it straight,” the surgeon said. “Not up. Straight.”
 
-Dawnwatch stepped off the harness.
+She pulled. The rooster struck the stone once with his beak but did not close the wing. Blood followed the arrow. The surgeon pressed folded linen to the wound.
 
-"Did they call you something else?"
+At the second shaft, the sergeant reached too soon. The wing snapped shut, knocking her back a pace.
 
-He raised his left wing, exposing the belly strap.
+“Wait,” the surgeon said.
 
-Tebri almost laughed. Instead she closed the hidden plates and entered only "backplate rivets" on the repair docket. Mascots could be ordered under a wagon; whatever had worn those inner plates could not. By morning she had convinced herself the distinction was practical.
+They waited. Smoke moved over the sun, thinning the light but not ending it. The rooster's breathing slowed by one harsh click. He opened the wing again and shifted until the second arrow pointed toward the sergeant's hands.
 
-At dawn he took the forward half of the column.
+This one had lodged against a rib. She could feel its angle through the pliers.
 
-The last evening of the company began when Tebri's own side burned its supply carts.
+“Two minutes,” said the scout. “Little less.”
 
-They fired two to keep them from capture. An enemy arrow carried flame to the third. Oil ran across the road, and the road became a bright wall between the rearguard and the retreating army. Horns called from both sides of the smoke. One signaled withdrawal. Another insisted on holding ground no one could see.
+“Turn it a finger toward me,” the surgeon said.
 
-Tebri came through with the captain's weight on her left shoulder and her tool pack cutting into the right. His leg dragged uselessly. Behind them, arrows ticked off iron rims and disappeared into fire.
+“He'll bleed.”
 
-Dawnwatch emerged from beneath a wagon, feathers black with soot. Blood showed in a narrow line below the oldest side plate.
+“He already is. A finger.”
 
-"With me," Tebri coughed.
+The sergeant turned and drew. The arrow came free. The rooster's foot gouged four trenches in the road, but his wing remained open until the surgeon packed the wound.
 
-He ran the other way.
+The third shaft sat shallow in muscle. The surgeon showed it to him. The rooster pulled away.
 
-Eight soldiers had reached the unburned verge: the bowwoman, the spearman from the winter ditch, four others, Tebri, and the captain. The spearman carried the furled standard under one arm. All of them watched the smoke for shapes that did not come.
+“Leave it,” the sergeant said.
 
-Dawnwatch crossed to a weed-grown lane bending away from the main road. He struck its stones twice and cut a line in the ash behind him.
+“That one can stay through the change,” said the surgeon. “The deep ones could not.”
 
-The bowwoman saw first. "He found a turn."
+The scout knelt by the glass. “Half a minute.”
 
-"We don't know where it goes," Tebri said.
+Heat poured out of the rooster so fast that mist formed over the wet road. The great plates began to settle. The sergeant jumped down. Pins slid back through their slots; bands folded beneath lames; the giant breast sank toward them. At the glass's ninth-minute scratch, a small wounded rooster lay inside armor suddenly too cold to touch barehanded.
 
-"We know where this goes."
+The remaining arrow was once again large beside him. It had not moved deeper. Blood still seeped from the two packed wounds. He shivered hard enough to rattle every rivet she had ever set.
 
-Arrows landed along the verge. The captain tried to stand on his bad leg and folded. Dawnwatch repeated the two strikes, then disappeared down the lane.
+The surgeon slumped against the milestone. “Now the shallow one.”
 
-They followed.
+He raised the forceps and waited.
 
-The lane ended at a stone culvert beneath an old field wall. Dawnwatch tore dead grass from its mouth. The opening was too low for anyone carrying the captain, so Tebri and the bowwoman pushed him through on Tebri's leather apron and crawled after him. Beyond the wall, a drainage cut ran parallel to the road, deep enough to hide them if they stayed below its rim.
+After a moment, the rooster extended his wing.
 
-Dawnwatch walked its length, touching one boot, knee, or hand from each survivor. At the far end he listened toward the road. Then he turned back to the culvert.
+* * *
 
-Tebri caught the rear of his harness. "You've done it. Come on."
+They used the unburned slowcord to lash two spear shafts into a litter. The sergeant gave the rooster water in the cup of her palm, then set her wool lining beside him. He stepped onto it only after she moved her hand away.
 
-He leaned forward. His claws found holds in the mud. There was no frightened beating of wings, only steady pressure against her grip.
+The scout studied the fork beyond the marsh. “East branch drops more gently.”
 
-The bowwoman lifted her head above the bank and dropped at once. "They're spreading from the wagons. Two along our side."
+“Water?” the sergeant asked.
 
-Tebri picked Dawnwatch up. His injured leg shook against her wrist. "We can carry him between the bows."
+“I saw willows. I didn't see water.”
 
-The spearman unrolled the edge of the standard. "Use this."
+The surgeon eased himself onto the litter. “How far?”
 
-Dawnwatch allowed Tebri to loosen the first belly buckle. At the second, he twisted free, drove his beak against the black pin, and faced the culvert.
+“Two miles. Perhaps three.”
 
-Pin. Culvert. Then a black scratch drawn across the ditch in the direction the survivors needed to travel.
+“Call it three.”
 
-Tebri stared at him.
+The rooster climbed out of the wool. He tested his bandaged foot, crossed to the east branch, and stopped there while they lifted the litter. The sergeant took the heavier end. The scout adjusted his grip twice.
 
-He did it again.
+“Ready?” she asked.
 
-"No. That is the lock for every hidden plate. If I cut it, I cannot promise the harness will close."
+“No,” said the surgeon. “Go.”
 
-Dawnwatch set one foot toward the culvert.
-
-The captain, flat on the apron, opened his eyes. "Can he hold them?"
-
-"I don't know what he can do."
-
-Dawnwatch struck the pin.
-
-The bowwoman said, "They've found the lane."
-
-Voices carried through the culvert now. Someone pushed grass aside at its far mouth. Tebri pulled at the shoulder buckle, trying to strip the harness off and hide him under a coat.
-
-Dawnwatch caught the web of her hand in his beak.
-
-He did not bite down. He held her until she stopped.
-
-For six years Tebri had known the exact pressure he would accept under each wing. She knew which old scar made him shorten one step and which plate he tested twice in rain. She had read every choice he made as information when it concerned metal. Beyond her bench, she had let the company turn the same precision into luck.
-
-Dawnwatch released her hand and lowered his body before the black pin.
-
-Tebri took the narrow chisel from her pack.
-
-"Hold," she said.
-
-He became still.
-
-She set the edge into the old tool marks. The first hammer stroke chipped the socket. The second drove the pin sideways. At the third, the black metal split.
-
-Every hidden plate moved.
-
-The breastpiece opened in long sections across Dawnwatch's chest. Back scales slid outward, blue patches racing apart as older steel unfolded between them. Springs released with the shriek of drawn blades. The harness filled the ditch from wall to wall.
-
-Dawnwatch rose inside it.
-
-His legs lengthened and planted deeper in the mud. Red feathers spread through the widening armor; shoulders lifted above Tebri's head; the small wings she had bandaged in winter opened into vast feathered arms. He drove upward against the interlocking plates as if straightening after years spent bent.
-
-At the culvert, an enemy face appeared between the grasses.
-
-Dawnwatch turned. The full movement of him sent smoke and ash rolling back through the opening. He stepped over the field wall and vanished onto the burning road beyond the culvert.
-
-Tebri heard a bowstring. Then many. Metal rang. A wingbeat struck the air hard enough to flatten grass along the ditch, followed by men shouting to one another through the fire.
-
-The bowwoman seized Tebri's shoulder. "Move."
-
-They carried the captain south in the standard cloth and leather apron. The drainage cut narrowed, deepened, and finally joined an abandoned supply road sheltered by orchard walls. Behind them, impacts and wingbeats broke apart into distance. No one said what Dawnwatch might be doing. No one called it luck.
-
-They walked until night thinned behind the smoke.
-
-At dawn the bowwoman saw the figure on the ridge and raised her last arrow.
-
-He came out of the burning fields with sunrise behind him.
-
-He stood taller than a cavalry horse, an enormous red-feathered warrior armored in sweeping bands of black and battered steel. Tebri's blue repairs marked one shoulder like chips of sky. Broken arrows bristled from his back plates. Three unbroken shafts rose from the feathers between them, nodding with each step.
-
-The bowwoman did not loose.
-
-"Look at the right leg," Tebri said.
-
-One pace landed shorter than the other. The same old scar made him place the next with care.
-
-Dawnwatch reached the supply road and lowered his head. His amber gaze moved from the captain to the bowwoman, the standard bearer, the other soldiers, and Tebri. One by one. When he found all eight, he looked back toward the ridge.
-
-The bowwoman climbed it before anyone asked. She stayed low, searched the burning road, then returned.
-
-"Empty for now."
-
-Only then did Dawnwatch sink to one knee.
-
-The soldiers went to him without waiting for Tebri's order. The spearman held an opened plate aside with his shortened fingers. The bowwoman braced each arrow shaft while Tebri cut it near the base so the heads would not turn in the wounds. Others brought water, lifted armor, packed cloth where blood had darkened the feathers. Scars crossed his back beneath the plates, some narrow and white, others older than the suit's newest steel.
-
-The captain watched from the sling. His face had gone gray.
-
-"Dawnwatch," he said.
-
-The great head turned at the name. He let Tebri fasten the one surviving strap she could reach. As always, he shifted his shoulder, listened to the buckle settle, and struck the plate once with one blackened talon.
-
-The road forked beyond the orchard. One branch crossed open fields toward the retreating army. The other kept among ruined walls and untended trees.
-
-Dawnwatch went to the sheltered branch. He tapped its stones twice, then scored a line through the ash covering the open road.
-
-The last soldiers of the company gathered the captain's sling. Tebri took her place behind Dawnwatch. When he set a pace the wounded could keep, the others closed the gaps and moved with him.
+They went. The rooster kept to the verge, choosing his ground around stones and ash. When the litter fell behind, he waited. When all four were moving again, he continued toward the willows.
