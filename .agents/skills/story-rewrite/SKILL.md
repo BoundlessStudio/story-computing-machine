@@ -79,7 +79,7 @@ not merely wording, stop for the user.
    apply to rewrites.
 7. Resolve blocking findings through the smallest scope-compatible revision and
    use a fresh reviewer after every rerun.
-8. After PASS, apply AUTO, KEEP, or REGENERATE through the shared six cover
+8. After PASS, apply AUTO, KEEP, or REGENERATE through the shared seven cover
    gates. Run final validation, recapture, catalog check, commit, push, and open
    the draft pull request.
 

@@ -19,7 +19,11 @@ title image:
 - `title-image.jpg` — the final-story 9:16 portrait visual; never canon authority.
 
 The cover displays the exact reader-facing story title once. It has no author
-name, caption, logo, border, watermark, or other text.
+name, caption, logo, border, watermark, or other text. It is editorial packaging
+for a work of fiction, not an interior illustration, film poster, ensemble key
+visual, or visual synopsis. It should withhold most plot information and turn
+one story-specific contradiction, motif, figure, object, or threshold into an
+immediate invitation to read.
 
 The scaffold contains only the four Markdown files until the story passes
 review. No other files belong in a current story directory.
@@ -140,7 +144,9 @@ user requests one named stage.
 7. After `PASS`, delegate `title-image.jpg` to `story_title_illustrator`. It
    reads the complete final prose and writes only the spoiler-light 9:16 title
    visual. Unless the prompt says otherwise, use the repository's premium
-   anime/light-novel key-visual default defined in that agent.
+   illustrated-novel-cover default defined in that agent. Anime-influenced
+   rendering remains available when it suits the story, but the composition
+   must behave like a novel cover rather than franchise key art or a scene still.
    Include every reference image supplied with the original prompt in the
    assignment and in the image-generation call. Use resolved local paths when
    all originals have them; otherwise include the smallest recent-attachment
@@ -153,37 +159,44 @@ user requests one named stage.
    exact file with the available image-viewing tool. Image-generation output,
    prompt text, file metadata, and the illustrator's written report are not
    substitutes for seeing the saved pixels. Inspect the whole composition at
-   reduced cover size and inspect full-resolution details; when a hand, face,
-   object connection, title letter, or spatial relation remains doubtful, use
+   reduced cover size and inspect full-resolution details; when a depicted hand,
+   face, object connection, title letter, or spatial relation remains doubtful,
+   use
    additional visual crops or views before deciding. Temporary review images
    must stay outside the story directory and must not be committed.
    The illustrator and coordinator must each judge the actual saved image at
-   cover-card size and full resolution through six separate gates. A pass must
+   cover-card size and full resolution through seven separate gates. A pass must
    name visible evidence for every gate; repeating the prompt or the
    illustrator's self-report is not review:
-   - **Story promise** — the image foregrounds the story's distinctive emotional
-     or narrative contradiction, could not be mistaken for a generic genre
-     cover, preserves character roles and relationships, and does not imply a
-      resolution the prose has not earned.
-   - **Scene truth** — every depicted action, position, direction of travel,
-     spatial constraint, possession, support, and cause-and-effect relation
-     needed to read the chosen moment agrees with the prose. Openings, rooms,
-     vehicles, restraints, tools, and other affordances have plausible scale
-     and geometry. An attractive approximation fails when it changes how the
-     scene works or makes the decisive action physically ambiguous.
-   - **Role legibility** — story-important figures are distinguishable by
-     silhouette, face, clothing, posture, and placement; the viewer can tell who
-     is doing what, who holds power, and which objects belong to whom without a
-     prose explanation. Near-duplicate faces, ambiguous grouping, or static
-     poses that erase opposing choices fail.
+   - **Cover identity** — the image reads first as a professionally art-directed
+     novel cover, not an interior scene illustration, screenshot, film poster,
+     character lineup, split-panel montage, or visual plot summary. One dominant
+     image idea controls the composition and the typography belongs to the same
+     design.
+   - **Story promise** — the cover signals the story's genre, tone, and
+     distinctive emotional or narrative contradiction through a charged partial
+     image. It creates an unanswered question, remains recognizable as this
+     story rather than merely its genre, and does not imply a resolution,
+     romance, victory, scale, or stakes the prose has not earned.
+   - **Editorial restraint** — the cover uses only the minimum cast, props,
+     setting, and action needed for its hook. It does not inventory clues,
+     reconstruct sequential beats, give equal weight to a roomful of figures,
+     or explain who everyone is. Story specificity comes from selection and
+     visual tension, not completeness.
+   - **Depiction truth** — every person, role, relationship, object, action, and
+     spatial connection the cover does choose to depict agrees with the prose.
+     A symbolic image may compress reality but may not advertise a false event,
+     allegiance, power relation, or outcome. A literal scene must preserve the
+     geometry and cause-and-effect necessary for that chosen fragment to be
+     true.
    - **Cover read** — at thumbnail scale the exact title is readable once, the
-     focal hierarchy is immediate, and the important figures, relationships,
-     and story-specific objects remain legible rather than collapsing into a
-     crowded tableau.
+     focal hierarchy is immediate, and the dominant silhouette, emotional tone,
+     and story-specific hook survive reduction. Intentional negative space and
+     controlled detail beat crowded explanatory staging.
    - **Image integrity** — at full resolution anatomy and object counts are
      plausible, hands and faces withstand close inspection, perspective and
-      physical connections are coherent, and there is no unintended text,
-      pseudo-text, watermark, or visual artifact.
+     depicted physical connections are coherent, and there is no unintended
+     text, pseudo-text, watermark, or visual artifact.
    - **Production finish** — the image has intentional lighting, color
      separation, edge treatment, and typography rather than muddy values,
      overprocessed texture, illegible letterforms, accidental tangencies,
@@ -192,15 +205,18 @@ user requests one named stage.
      compression defects.
    The coordinator must compare the actual saved image against the prompt and
    final prose and make an independent decision; the illustrator's self-report
-   and the technical validator are not acceptance. If a required action, role,
+   and the technical validator are not acceptance. If a depicted action, role,
    object connection, or spatial fact is ambiguous, treat it as failed rather
    than resolving it charitably
    from the prose. Technical polish cannot compensate for a generic or
-   off-promise concept. When a gate fails, delegate a concise regeneration brief
-   that says what to preserve, names the blocking miss, directs the composition
-   or focal change, and restates the invariants. Require a new composition for a
-   story-promise failure and a targeted correction for a localized integrity
-   failure. Repeat review until all six gates pass, and do not capture a
+   off-promise concept, and factual completeness cannot compensate for a cover
+   that reads like an illustrated synopsis. When a gate fails, delegate a
+   concise regeneration brief that says what to preserve, names the blocking
+   miss, directs the concept, composition, or focal change, and restates the
+   invariants. Require a new concept for a cover-identity, story-promise, or
+   editorial-restraint failure, a new composition for a depiction-truth failure,
+   and a targeted correction only for a localized integrity or finish failure.
+   Repeat review until all seven gates pass, and do not capture a
    rejected image.
 8. Run `Test-Stories.ps1 -Phase Final` locally, capture the story with
    `python pages/build.py capture <slug>` once, and run
@@ -328,7 +344,7 @@ decision.
    collection-comparison gate does not apply to rewrites.
 7. After PASS, apply the recorded cover policy. For AUTO or KEEP with a retained
    candidate, open the JPEG at cover-card size and full resolution and judge all
-   six gates against the amended prompt and final rewrite. AUTO regenerates on
+   seven gates against the amended prompt and final rewrite. AUTO regenerates on
    failure; KEEP stops for user direction; REGENERATE uses the normal
    illustrator workflow. A valid final cover remains mandatory.
 8. Run final validation, recapture, and catalog check. Stage the four Markdown

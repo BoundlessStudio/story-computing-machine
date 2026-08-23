@@ -35,7 +35,7 @@ shared OUTLINE, REVIEW, and TITLE IMAGE responsibilities and use the repository'
    the shared REVIEW responsibility.
 7. Resolve a REVISE verdict through only its blocking findings, rerun PreReview,
    and use a fresh reviewer each time.
-8. After PASS, use the shared TITLE IMAGE responsibility and six saved-pixel
+8. After PASS, use the shared TITLE IMAGE responsibility and seven saved-pixel
    gates. Then run final validation, capture, catalog check, commit, push, and
    open the draft pull request.
 
