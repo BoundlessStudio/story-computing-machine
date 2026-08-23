@@ -6,15 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Rethka Vol | new | Focal rear-guard captain, called `Rethka`, and Heshavar's newly selected master; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
-| Eshren | new | Heshavar's living prior master and opposing migration champion; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Odmara | new | Independent chainwright and the worker whose stored repair pattern triggers the blade; no exact, alias, close-spelling, or confusing prior use found. |
+| Felrin | new | Senior chainwright who authorized Odmara's temporary splice and omitted its replacement; no exact, alias, close-spelling, or confusing prior use found. |
+| Kosca | new | Lift captain, original witness, and load controller; no exact, alias, close-spelling, or confusing prior use found. |
+| Yevet | new | Guild registrar and repair witness; no exact, alias, close-spelling, or confusing prior use found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Glass Sea | recurring | Canon hard, glasslike salt expanse used here only as Heshavar's material provenance; the description agrees with authority and adds no Glass Gate connection. |
-| Talasar | new | Later-age knife-backed highland passage and collapsing story venue; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Hearthchain | new | Cliff settlement built around a suspended terrace and quarry works; no exact, alias, close-spelling, or confusing prior use found. |
 
 ## Continuity
 
@@ -29,6 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Heshavar literally calls `Rethka Vol` four times while Eshren lives; the one-piece transparent construction, fixed salt seams, ordinary thirty-year mastery, voluntary release, contact-specific selection, single spent realm-cut, two separate escapes, destroyed return, and under-one-hour chronology remain clear and causal.
-- Notes: Heshavar is not a person or place inventory noun: the prose fixes it as wholly nonliving, non-sentient, uninhabited glass with no pulse, thought, spirit, or operator. Under the user's explicit ruling, its call, selection, refusal, and realm-cut are a Heshavar-only exception to the life-only rule and establish no capability for other Glass Sea glass.
-- Notes: Dialogue stays speaker-specific and action-bearing: Rethka works through counts, terrain, and commands; Eshren through routes, wounded, and practiced handling; the column-master through victory pressure. The parley, collapse choice, handoff negotiation, and final warnings change conduct without myth exposition or a thematic coda.
+- Notes: The blade's call remains a bounded, passive record of strain and prior work rather than sentient judgment; the load tests, shared repair, and transfer sequence resolve the alarm and distribute responsibility coherently. Dialogue stays differentiated by Odmara's tactile diagnosis, Felrin's narrowing technical defensiveness, Kosca's operational commands, and Yevet's revisable administrative categories.
