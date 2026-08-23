@@ -8,376 +8,426 @@ canon: false
 
 # The Mercy Circuit
 
-The repair kiosk was easiest to own after closing, when the shutters hid how much of it belonged to creditors.
+At fifty-two minutes to gatefall, you are explaining to a man that his hearing implant does not need a new ear.
 
-I had a thumb joint turning on the slow printer, an implant reader asking for an update I had already bought, and a quarterly bond notice glowing under my till. None of them needed me before morning. I killed the bench lamps one at a time and pulled the front shutter down.
+"Battery cradle," you say, turning the little crescent of ceramic under the bench lamp. "The contacts are green. I clean them, change the gasket, and you stop wearing it in the steam room."
 
-A plasma blaster came under it muzzle first.
+"I went once."
 
-I stopped with the metal slats a handspan above the weapon. The woman on the other side crouched, fed her rigid left arm through after it, and shouldered under the slats. Her bionic fingers were locked around the grip. The emitter scraped my floor until I caught it with a rubber block.
+"The corrosion went more than once."
 
-“Don’t drag that.”
+He considers arguing, then peers past you at the closing clock. Behind him, two courier riders wait with a knee actuator and a cracked navigation slate. Bevro is calling the last tray of pepper buns at his stall across the aisle. The Gantline Exchange has begun its evening contraction: awnings ratcheting inward, destination boards dimming one column at a time, floor-cleaners nosing under benches for dropped skewers and ticket chits.
 
-“I’m trying not to lose the hand.”
+You print the man a claim strip. The kiosk drawer records forty-two in promised labor and six in parts. Promised does not pay the stall fee, but the shape of the evening has finally begun to resemble enough.
 
-“The floor is cheaper.” I pushed the shutter up enough for her to duck inside. “Cell charge?”
+Then three low notes sound from the aisle.
 
-“Fourteen percent. Chamber reads open. Mercy inhibit is lit.”
+Not a horn. Not music. The first tone is a warning, the second the failed dump, the third the warning again because the failure has not gone anywhere.
 
-“Those are readings. What happened?”
+"Back," you tell your queue.
 
-She waited until the shutter shut behind her. It was Veska Doss, a freight escort whose wrist seals I had replaced twice. She usually arrived with a list of tolerances and exactly enough money. Tonight her jacket was dusty across one shoulder, and the skin above her nerve cuff had the dull, pinched look of a headache settling into flesh.
+A woman stands at the edge of the floor mosaic with her left arm clamped across her chest. Her right arm is sleeved in scarred blue composite from shoulder to knuckle. A plasma caster hangs below the forearm on its coupling rails, too large to hide and too hot to mistake for dead. Violet thread crawls along its emitter cage. Every few breaths the arm gives a small inward jerk, and the woman's jaw locks with it.
 
-“One ceiling plate,” she said. “No injuries.”
+Bevro has already stopped serving. "How far back?"
 
-“The blaster fired?”
+"Past your red tile. Nobody crosses it."
 
-“The ceiling didn’t shoot itself.”
+"My counter starts before the red tile."
 
-I switched the bench back on. “Put your elbow on the gray pad. Don’t fight the fingers.”
+"Then close the front for one minute."
 
-She laid the arm down. The status strip along the blaster grip flashed amber at the hand socket and red at the word MERCY. Every flash pulled a tiny answering tremor from her thumb.
+He looks at the six customers holding coins. "Make it a minute."
 
-“I need the hand open, the circuit bypassed, and a clean checkout before first freight,” she said.
+You drop the shield curtain around the left half of your bench and kick the ceramic catch tray out on its floor track. The woman does not move.
 
-“First freight is dawn.”
+"Can you set it in the tray?" you ask.
 
-“Its intake isn’t.”
+"If I could detach it, I wouldn't be here."
 
-I remembered her last invoice too. Veska paid without delay, which made her unusual enough to remember. A weapons rush would cover the stall bond and leave enough for the reader update. I slid a work field across the counter.
+Her words come out measured, each one fitted between something happening in the shoulder. You keep your hands visible.
 
-“Say the scope.”
+"I'm going to guide the caster, not your arm. You choose the movement. If it starts another tone, stop where you are. All right?"
 
-“I just did.”
+She nods once.
 
-“The field wants the person attached to the thumbprint.”
+"I need it spoken. The shield recorder doesn't count nods."
 
-She pressed her right thumb against the authorization pane. “Release hand. Bypass mercy circuit. Function-check weapon.”
+"Guide the caster. I move the arm. Stop on tone."
 
-“And you understand I may stop for a live-cell fault.”
+You take the weight through an insulated sling while she lowers the arm. At the lip of the tray, the violet fringe thickens. Her fingers close. The three notes sound. Heat punches through the sling into your palms, but the tray's ceramic vanes rise and drink the charge into a dull orange seam.
 
-“If you find one.”
+The woman sways against the counter.
 
-The field accepted her words. It did not ask why she had fired, who had been beneath the ceiling, or whether dawn work was worth what she was paying. That was part of the appeal of a kiosk. Hospitals had departments for questions. Licensed armorers had waiting periods. I had six square meters, a service seal, and the useful belief that a customer decided what came back connected to her body.
+"No hands," she says before you can reach for her.
 
-Before I could return anything, I had to make it harmless.
+You don't. "Chair behind your left knee."
 
-I locked the emitter into a scarred ceramic cradle. Because Veska’s fingers would not release, she had to stand beside the bench with her shoulder turned while I clamped the cell housing to my grounding braid.
+She finds it and sits.
 
-“The grip will heat during the bleed,” I said.
+Bevro pulls his display shutters down halfway. A customer asks whether the buns will still be hot. Bevro says, "Still hot. Counter's closed," and starts returning coins.
 
-“It’s already hot.”
+You bring up the kiosk intake screen. "Name for the receipt?"
 
-“Tell me if it changes sharply.”
+"Serren."
 
-She gave one curt nod.
+"Caster charged how high?"
 
-I opened the drain with an insulated key. Charge hissed into the sink block. The ferritic screws beside my wrist began to warm and creep toward the braid, tapping over the counter like beetles with bad legs. I dropped a heavy ceramic bowl over them.
+"Thirty-eight percent when the lockout began. Thirty-four now."
 
-Veska watched the bowl travel a fraction before its weight stopped it. “If that’s normal, why cover it?”
+"What happened just before?"
 
-“Normal things still disappear down drains. If the bowl lifts, leave.”
+"Cutting a radiator spine at the twelfth dock. Clean release. I let go. It dumped. Then it kept deciding I'd let go while I was holding it."
 
-She watched the bowl after that.
+You point to the privacy choices on the screen rather than turning it toward yourself. "Noninvasive diagnosis is forty-eight. It may end with the caster sealed for transport. I can test derived readings without copying your sensory log. If I need the raw log or your shoulder socket opened, I ask again. You can stop any test."
 
-When the cell gauge went dark, I checked the sink temperature, checked the chamber with a separate strip, and checked both again. The grip’s manual release had been hidden under a warranty seal. Someone had cut it before and painted the seam shut with red nail lacquer.
+"If you copy the raw log?"
 
-“Who serviced this?” I asked.
+"I don't unless you authorize it. If you show it to me, it stays on your arm unless you choose an export."
 
-“A route-side mechanic. He said the seal was cosmetic.”
+"And the arm?"
 
-“It covers the emergency release.”
+"Yours. The caster can be sealed. The arm doesn't become shop property because it came through my curtain."
 
-“He got the plate off.”
+Her eyes move to the closing clock. "Test it. No raw-log copy."
 
-“And painted shut what you needed tonight.”
+You touch ACCEPT on the screen only after she does.
 
-I scraped the lacquer out, tripped the pawl, and opened the grip plates around her fingers. The weapon slid free with a squeal of polymer against stippled metal. I set it in the cradle.
+The clinic seal identifies the mercy circuit as a paired shunt, one path across the shoulder socket and one at the caster coupling. The maintenance port gives you four lines of color and a haptic tick through the probe handle: contact green, co-contraction green, cone heat amber, charge violet. Under those, the circuit insists that control contact has been lost forty-one times in eleven minutes. Each recorded loss coincides with a safe dump. The record is tidy enough to accuse her hand.
 
-Veska’s hand remained a fist.
+Serren watches your face. "It says I released it."
 
-For the first time, her attention left the clock above my shutter. “Open it.”
+"It says the return path opened."
 
-“I released the grip.”
+"My hand stayed shut. Then the pain came."
 
-“Then open the hand.”
+"Where?"
 
-I touched a probe to the wrist service contacts. “Try first.”
+She draws two fingers along the upper edge of the composite shoulder. "There. Then through my teeth."
 
-Her index finger pulled sideways. The middle two loosened and snapped shut again. The little finger did not move. Her thumb shook against the base of the index as though it were pressing a button that was no longer there.
+You abbreviate too far, the habit that saves seconds and loses people. "Need differential obstruction and false-clear, then isolate flex."
 
-“That wasn’t happening before the shot,” she said.
+"In words I paid forty-eight for."
 
-“It is now.”
+"I make the circuit stop a firing condition on purpose. Then I fool it. After that I test the arm against a separate cable, without you in the loop."
 
-“I can see that.”
+"Do that."
 
-“Good. Keep seeing. Tell me if the cuff stings.”
+The first target is a heated gel block shaped like nothing alive. You swing it into the marked cone. Serren presses her thumb to the arm's service pad. A pale firing glyph appears over the caster, then folds closed. One low note. Correct block. No ignition.
 
-I isolated the hand controller from the nerve cuff. Direct bench commands opened each finger in sequence. The little finger lagged, but it moved. The thumb torque was worn, not failed. There was graphite packed in the palm vents and a hairline split in one outer seal, ordinary dirt and ordinary age. Nothing in the hand explained the locked firing grip.
+You replace the gel with a cold ceramic bar wrapped in packing foil. The range sensor sees the foil's clean reflection and reports empty air around it. The firing glyph opens.
 
-The blaster cost more than the hand and was built with less subtlety. I removed the grip cover and found the mercy board beneath two generations of newer shell. Its components were blunt, physical things: two command inputs, a coincidence gate, and a copper interrupt trace that broke the firing packet when those inputs arrived too far apart. One input came from the implant link. The other watched motor initiation at the nerve cuff. Agreement armed the emitter. Disagreement stopped it.
+Metta Orun arrives before you can cancel the test.
 
-Nothing on the board could identify a frightened person or an innocent target. It compared arrivals. Mercy was the sales word. What remained of its copper trace was nearly black, with one unburned neck thinner than a hair.
+She wears the grey overshirt of Exchange Safety over ordinary work trousers, her inspector seal clipped at the collar. She takes in the foil target, the live glyph, Serren in the chair, and Bevro's half-closed stall.
 
-I pointed the magnifier toward her. “This has interrupted at least once. There might be one safe break left.”
+"Kill the authorization," she says.
 
-“The fault light already told me that.”
+"Already local-zeroed."
 
-“The light told you to bring it here. This tells me not to waste the next disagreement.”
+"Say when."
 
-I connected the weapon alone to the isolated tester. Paired commands went in together. The coolant spun, the chamber gates aligned, and the emitter accepted a simulated pulse without charge. Everything I could test without forcing another disagreement passed.
+You hold up the deadman key. "Now."
 
-“Weapon passes on matched input,” I said.
+The glyph vanishes. Metta checks it on her own meter, then sets two folding beacons across the aisle. White lines join them on the floor. The remaining pepper-bun customers retreat without being asked twice.
 
-“Then bypass the match.”
+"Other false reads?" she asks.
 
-“Your hand hasn’t passed.”
+"Hot cargo can block empty space. Foil can clear an occupied cone. Poor contact and field noise corrupt the grip return."
 
-“My hand isn’t the part with MERCY lit across it.”
+"Can any channel identify a person, permission, or need?"
 
-I reconnected her cuff but kept the blaster out of the chain. “Close two fingers.”
+"No."
 
-She folded the index and middle together. The scope showed a command from the implant bus, then a second signal from her living nerves just behind it.
+Bevro comes around his counter. "No. Those lines eat my whole front."
 
-“Open.”
+"Live caster with a false-clear reading," Metta says. "Until sealed or bounded."
 
-Again, the implant packet arrived first. The cuff followed late enough to trouble a weapon, though the hand controller’s wider window merged them. On the third repetition the order reversed. On the fourth, the implant anticipated her motion so early that the fingers had already started before the cuff signal appeared.
+"How many minutes?"
 
-I enlarged that trace and turned the display toward her. “What was installed?”
+"Unknown."
 
-“Nothing in the hand.”
+"That isn't a number I can claim."
 
-“I didn’t ask about the hand.”
+Metta looks at you. "Can you bound the next test?"
 
-Veska looked at the two peaks. “A reaction patch.”
+"Shielded, no ignition, isolated flex harness. Six minutes."
 
-“When?”
+"Eight," Bevro says. "You'll always say six."
 
-“Thirteen days ago.”
+Metta moves one beacon half a tile inward after checking the angle to the ceramic tray. Bevro's register remains outside the line, but his hot case does not. He exhales through his nose and writes the time on a paper sleeve.
 
-“And you left it off the work order because?”
+Metta crouches far enough from Serren not to crowd her. "I can seal the detached caster if it comes off safely. I can also witness a bounded repair and certify tests. I don't have authority over your arm. Do you want to continue here?"
 
-“It passed the training shop.”
+"If you seal it, can I work at dawn?"
 
-“That isn’t an answer.”
+"No."
 
-“It is the answer they use.” She pulled her arm closer, though the test leads stopped it after a few centimeters. “My draw score slipped. Two more bad rounds and I lost the escort list. The patch moved me back above the line.”
+"Then I continue."
 
-“It predicts practiced motion.”
+"The answer can change."
 
-“It makes the hand keep up.”
+Serren turns to you. "Harness."
 
-“Sometimes. What happened in the freight gallery?”
+You fit the caster's service plug to a flex rig rated above its charge, brace the plug in ceramic jaws, and leave Serren's shoulder lead physically disconnected. Your hands make the motions her arm would make: grip return closed, co-contraction high, aim cone clear. Green, green, violet. You bend the harness three degrees.
 
-Her jaw set. This time she did not look at the clock. “The gallery was sealed. A door opened anyway. I started the draw, saw a maintenance stripe, and put my arm down. The blaster fired before it reached the sling.”
+The return line disappears. The rig snaps with the same three-note error. Its dump vane glows; Serren's shoulder does not jerk.
 
-“Where was the worker?”
+She shuts her eyes for half a breath. Relief, perhaps. Or only the absence of the next pain. You cannot meter which.
 
-“Under the barrel line. The pulse took the ceiling.”
+"That clears my hand," she says.
 
-“Did you send release before the pulse?”
+Metta does not give her the easy victory. "It proves the dropout happens without your hand. It doesn't prove the assembled caster is safe."
 
-“I lowered the gun.”
+"Fine. Prove the rest."
 
-“That is what you remember doing. I need the order your equipment received.”
+You open the compatibility record from the coupling liner. The record names a reclaimer, a lot, a conductivity band, and six approved prosthetic families. The seventh line says EXTENDED HIGH OUTPUT in a field that contains only a dash.
 
-“And I need you to write down that I lowered it.”
+"There," you say.
 
-The ticket field remained open beside us. I entered her sentence first, in her words. Then I attached the traces beneath it and marked what they could show.
+Serren leans forward. "A dash isn't a fault."
 
-While the hand ran a slow actuator cycle, I bought broth from the vending wall across the shutter. By then the last passenger transit had gone, leaving the concourse lights half-dimmed and my kiosk reflected back at us in the glass. Veska took the paper cup with her right hand.
+"It's missing provenance. Liner's carrying socket return. Caster ripple gets into it, flex raises resistance, mercy circuit reads release. Dump current looks for ceramic and finds your sensory bus on the way."
 
-“Use the left,” I said.
+"Can you stop compressing?" Metta asks.
 
-“You want me to spill it on your reader?”
+You point with the probe. "This layer was sold as compatible. It has no high-output rating. It is doing two jobs it should not share. When it flexes, the safety circuit mistakes a good grip for no grip. Then the safe dump hurts her because its path crosses the arm's feeling path."
 
-“That might persuade it to update.”
+Bevro, from behind the beacon line, says, "Is that six minutes?"
 
-She shifted the cup to the bionic hand. Before her cuff showed a complete reach, the patch sent a familiar grasp packet. The fingers formed around the cup; the living nerve signal followed; the hand controller reconciled them. Nothing spilled.
+"Seven," Metta says.
 
-Veska raised the cup slightly. “Good enough.”
+"Write seven."
 
-“For broth. The hand allows sloppy agreement. The blaster doesn’t.”
+You send the lot number to the reclaimer's night service. A synthetic chime promises a reply in three business hours. You call the voice address printed under it. Someone answers amid clattering metal.
 
-“So make it allow one channel.”
+"Lot?" the vendor asks.
 
-“That channel just moved before you did.”
+You give it.
 
-“It moved where I was going.”
+"Low-draw liner. Hands, elbow tools, weld pointers. Not plasma."
 
-“In a practiced reach. Your gallery stopped being practice halfway through.”
+"Your record lists six families and no ceiling."
 
-She drank without answering. Her eyes stayed on the blaster.
+"Record should say low-draw."
 
-The bypass she had ordered was simple: silver braid across the coincidence gate, ceramic shoes at either end, enough clearance from the cell housing to survive recoil heat. I cut the braid and formed it under the lens. I did not need Veska’s story to do that job. I needed steady hands and eighteen minutes.
+"It doesn't."
 
-The deposit amount shone at the edge of the till. With the rush charge, my bond notice would disappear before the shutters opened. I polished the contacts, measured the jumper twice, and set it beside the mercy board.
+"Then it copied wrong."
 
-Veska put down the empty cup. “How long?”
+Metta taps her recorder awake. "Name and role for that statement."
 
-“One connection.”
+The vendor hangs up.
 
-“Then connect it.”
+The audio remains. It is evidence of a bad record and a bad part, not a new part.
 
-I looked at the test result from the isolated weapon. I had made it pass by feeding it two commands at the same instant. That was not the system she would carry onto a freight route.
+You pull inventory onto the bench screen. The matched shoulder assembly is three days away. Your certified contact layer will fit, but only with a separate optical isolator between the mercy circuit and the sensory bus. The caster will also need an output cap until the matched assembly arrives.
 
-I rolled the dummy load from beneath the bench instead.
+Serren asks, "Bypass?"
 
-Her chair legs struck the floor as she stood. “What are you doing?”
+"I remove the mercy shunt, you stop getting dump pain. You also get a caster that can fire after your hand loses contact."
 
-“Testing the chain once.”
+"Price."
 
-“You said one connection.”
+"Bypass is thirty-five. I won't do it. Safe interim repair: ninety-two for the contact layer, sixty-eight for the isolator, forty-seven for the limiter and calibration, one twenty-three labor. Diagnosis rolls in. Three hundred thirty. It gives you reduced output for one shift if Metta certifies."
 
-“After the test.”
+Bevro makes a sound that might be a laugh if anything were funny. "Three hundred thirty for less fire."
 
-“First freight closes intake in four hours.”
+Serren does not look at him. "I have two hundred ten. The dawn cut pays after inspection."
 
-“If the trace holds, this takes five minutes.”
+You need tonight's receipts. The stall fee withdraws at midnight whether your principles balance or not. The installment form offers a collateral field. You clear it. Her arm is not stock, and holding the caster would prevent the job that could pay the balance.
 
-“And if it doesn’t?”
+"Two ten tonight," you say. "One twenty due after the cut, seven days at the outside. No interest. Parts warranty thirty days; labor warranty ends if another shop bypasses the shunt."
 
-“The mercy board dies open. No checkout by dawn.”
+"If the cut fails because you cap it?"
 
-She stared at me, then at the red bond notice under the glass of my till. “Easy risk from your side of the counter.”
+"You owe the parts, not the remaining labor. I document the output ceiling before you choose."
 
-I turned the dummy load so she could see its cold black tiles. “The easy job is already made. It’s lying there.”
+Metta says, "The certificate will state one shift, capped salvage use, matched assembly pending. It won't promise your job accepts the cap."
 
-“You spend my last working inhibit and still charge diagnosis.”
+Serren studies the output chart. She does not ask whether the offer is fair. She asks whether the cap will cut radiator spine.
 
-“I’ll waive the test. I won’t guess what the patch sends when you change a motion.”
+"On clean salvage, yes. Slower. Not on armored keel."
 
-“You weren’t hired to guess.”
+"It's clean salvage." She places her left thumb on the estimate. "Do it."
 
-“No. I was hired to check out a weapon attached to you.”
+"Socket access is separate," you say. "Privacy curtain closed. You can keep the raw log local. I need you awake enough to tell me what the haptic codes and the pain are doing. Stop at any time."
 
-Veska’s right hand closed around the back of the chair. She looked at the silver jumper, then at her left fingers, which were beginning to curl toward an absent grip.
+"Open the shoulder. Don't copy the log."
 
-“What do you need me to do?” she asked.
+You record the scope. She accepts it.
 
-I locked the drained blaster into the cradle and installed a bench cell that powered only the control path. The emitter had no plasma supply. An optical break let Veska’s wrist feed commands to the grip while keeping her body out of the power circuit. Even if every reading lied, there was nothing available to make a pulse.
+Bevro lifts the hot case from his counter. "Where can this go without crossing the line?"
 
-“Keep your left palm open,” I said. “Picture your draw. Stop before the muzzle clears.”
+"My ordinary wall socket," you say. "Not the orange one."
 
-“The patch was trained on a full draw.”
+"And when the Exchange kills the row?"
 
-“That is why we are here.”
+The clock shows twenty-nine minutes.
 
-She settled her forearm on the pad. The bionic fingers opened as far as their fault state allowed. I brought up the two traces: implant above, nerve cuff below. Between them, the mercy gate waited on its last copper neck.
+Metta calls facilities and asks for an inspection extension on the isolated work rail. Bevro listens only until she begins describing load classes.
 
-“Ready when you are.”
+"My case," he says. "Power or no power?"
 
-Veska breathed once through her nose. Her shoulder shifted a fraction. Her palm remained upward.
+"No power after gatefall unless it moves to the kiosk's ordinary socket now."
 
-The implant line jumped to FIRE.
+"Then move your courier knee. I've lost nine customers, and I'm not losing the tray."
 
-The cuff line stayed flat.
+The courier takes his actuator and claim strip to the bench outside the cordon. Bevro wheels his case against the kiosk wall, plugs it into the marked socket, and begins selling through the narrow end of his stall. He tells each customer where to stand. He writes every refused sale on the same paper sleeve.
 
-Inside the open grip, the remaining copper flashed orange and broke. The fire packet vanished at the gate. None of the dummy load’s tiles changed color. Veska’s hand had not closed.
+Behind the closed privacy curtain, Serren releases the shoulder latches herself. The composite shell rises on captive hinges. Beneath it, the service bay is warm and densely layered: clinic seals, braided control lines, a milky sensory ribbon, and the dull grey liner installed by the reclaimer. You do not touch anything yet.
 
-Only after the copper had broken did the cuff send RELEASE.
+"Local display or mine?" you ask.
 
-The bench cell shut itself off. A cooling fan started and whined into the quiet.
+"Mine."
 
-“Again,” Veska said.
+She brings the raw sensory log up as colored bands along her forearm. You see no memories, no intentions, no names. You see pressure, heat, charge bleed, the body's enormous traffic reduced to what the clinic chose to sample. Even that is more intimate than your bench needs to keep.
 
-“There is no again.” I lifted the cell out. “The interrupt is gone.”
+You send a test pulse through the contact layer. Her forearm answers with two blue taps.
 
-“You spent it.”
+"Location?"
 
-“Yes.”
+"Upper socket. Outside edge."
 
-She leaned over the scope. “The fire command came from me.”
+You flex the liner. Blue, then amber.
 
-“It came from the prediction patch.”
+"Now?"
 
-“Which is in me.”
+"Same. Warmer."
 
-“And your cuff sent release. I can tell you the patch can issue fire without matching motor initiation. I can’t tell you what you thought in the gallery.”
+Three degrees more. The return line thins. Red breaks across her display.
 
-Her gaze snapped up. “I already told you.”
+"Now?"
 
-“I wrote it first.”
+"Stop."
 
-She read the ticket, perhaps to check whether I had. Her shoulders lowered, but only a little.
+Your hands come off the rig. Metta checks the bench zero from beyond the curtain. Serren breathes through her nose, shallow and regular.
 
-I moved the finished jumper away from the board and opened three scopes on the work field. “Here is what I can still do. I fit the bypass. The implant channel controls fire alone. It may pass a basic function test, but my checkout states exactly that. Or I stop now and leave the hand in diagnostic mode. Or I cap the weapon socket and rebuild the hand around your nerve cuff. That gives you grip, release, fine control, and temperature warning. The patch stays in your arm, but it gets no path into the hand or a weapon until a clinic recalibrates it.”
+"Do you want the shoulder closed, or leave it open and wait?" you ask.
 
-“How long for the third?”
+"Wait."
 
-“Until morning.”
+The clock gives the fifteen-minute power warning. Outside, someone asks Bevro whether the pepper buns contain river nuts. Bevro says, "No nuts. Yes peppers. Two for nine." The ordinary answer reaches through the curtain and makes the silence inside it less medical.
 
-“After freight intake.”
+After a minute you ask, "Can you choose the next step? Remove the bad layer only, or fit the replacement and test?"
 
-“Yes.”
+Serren's answer is a single sound that might mean either.
 
-She did not touch the choices. “If I pick the bypass, will you fit it?”
+You do nothing.
 
-I wanted a rule that would put someone else’s name on the ticket. There wasn’t one. “I’ll fit what you authorize. I’ll sign `single-channel function`. I will not sign `matched control`.”
+Her eyes open. "Why did you stop?"
 
-“They won’t like that.”
+"I can't use that answer."
 
-“The function check will pass. The note stays.”
+She swallows. Looks at the parts on their clean mat. With her left hand she points first to the grey liner, then to the new contact layer, then to the isolator.
 
-“They read green fields at intake. Notes are for after trouble.”
+"Remove, replace, isolate," you say. "Is that your choice?"
 
-“Then the bypass could buy the shift.”
+"Yes. If I say red, hands off."
 
-She turned away and stood with her forehead nearly against the shutter. The dispatcher field on her wrist pulsed. She ignored it twice. On the third pulse, she opened it with her right hand, typed a short withdrawal, and sent it before she could edit.
+"Agreed."
 
-Then she selected the arm-only repair.
+The misrated liner peels away in one warm strip. Its underside bears a green-black track where the caster return has been wandering. You seat the certified layer without bridging the socket return, route the sensory ribbon through the optical isolator, and fit the limiter at the caster coupling. The mercy circuit remains where the clinic installed it. Its raw log remains on Serren's arm.
 
-“Cap the socket,” she said. “I need the hand for everything else.”
+Bevro calls the ten-minute warning before the Exchange does.
 
-I returned the weapons-rush portion of her deposit. My till balance dropped below the red bond notice again.
+"Seven," you call back.
 
-Veska saw it. “I didn’t ask for the refund.”
+"You said six last time."
 
-“The weapons rush ended with the mercy board.”
+"Seven to first result."
 
-“You still work all night.”
+"I wrote seven."
 
-“On the hand. Sit.”
+You close the shoulder shell, but Serren locks its latches. The caster stays in the ceramic tray while you attach a dummy grip to its coupling. Contact green. Co-contraction simulated. Cone clear. Charge now twenty-one percent.
 
-She sat, not smiling.
+Metta reopens only the shield-side test lane. "First test: deliberate contact loss. No ignition authorization."
 
-I sealed the weapon port with a ceramic terminator that would fracture visibly if anyone opened it. Then I routed the hand controller to the cuff’s living motor signal and excluded the predictive channel. That was controller work, not implant surgery. The patch remained beneath Veska’s skin, outside both my license and the reach of anything I kept beside a vending wall.
+You load the dummy grip and bend the isolated harness. The green contact line holds through the angle that failed before. Then you open the grip on purpose.
 
-Each finger had to learn its present limits under load. I rebuilt grip maps, restored the temperature path, and calibrated the thumb against three worn bearings that Veska refused to replace. She slept in the customer chair with her jacket folded under her neck. Once, when I woke her for a pain check, the isolated implant trace sent the beginning of a brace-before-rising motion before she stirred. Her hand stayed flat until her cuff told it otherwise. She watched both traces, then lay back without comment.
+Three tones sound. This time the middle note resolves downward. Violet charge leaves the emitter cage and enters the ceramic bank. Nothing enters the sensory path. Serren watches the color bands on her arm stay blue.
 
-Near dawn, cleaning carts brushed past the shutter. I stopped calculating the bond and laid out the least impressive checkout I could devise.
+"Again," she says.
 
-Veska woke to a rubber block, three coins, a cuff fastener, a cup of reheated broth, and a steel washer.
+You repeat it. Same result.
 
-“This is the test?” she asked.
+For the obstruction test, Metta places the heated gel inside the cone. Serren takes control of the arm. The caster is coupled now, its weight returning to her shoulder by increments while you remove the sling.
 
-“Try the block.”
+"Grip?" Metta asks.
 
-She squeezed until the green pressure stripe appeared, then released without a tremor. She walked the coins from palm to fingertips. The first one slipped; she caught it against the counter with her little finger and began again without looking at me. On the second pass, all three reached her thumb.
+"Mine," Serren says.
 
-She fastened her own cuff. The clasp was small and had annoyed her all night. Her left thumb held it steady while the index finger pushed it home.
+"Target?"
 
-I gave her the broth. An amber warning lit along her wrist before the cup became painful. She shifted her grip.
+"Hot block."
 
-Then I dropped the washer.
+"Authorization?"
 
-Her fingers closed after it struck the mat.
+"Test only."
 
-“Again,” she said.
+She presses the firing surface. The circuit reads heat and range, gives one low note, blocks ignition, and sends the ready charge into the tray's ceramic bank. On the arm display, a red bar covers the firing glyph: OBSTRUCTION.
 
-I lifted it and dropped it from a different height. This time she caught it between two fingers.
+Bevro is already dragging a scorched support from an old stall sign toward the shield lane. "Is this the thing you need to cut?"
 
-She opened her hand, turned the washer once between finger and thumb, and put it back in my parts bowl.
+"If you're giving it up," you say.
 
-The discharged blaster went into a locked claim bin with the dead mercy board still exposed. I printed the storage ticket and laid it by her left hand.
+"It has owed me storage for four months."
 
-“Thirty days without a storage charge,” I said.
+Metta scans it for pressure cells and trapped charge, then sets it in the cutting cradle. The lane seals. Serren sights down the radiator-thin brace.
 
-“I’ll be back before then.” She folded the ticket twice with the new grip. “Send the trace to my clinic address.”
+"Cap is live," you say. "It will feel slow."
 
-“Give me one.”
+"I know slow."
 
-She added it to the work order, paid the remaining hand charge, and tucked the claim ticket beneath her cuff. I raised the shutter. A man outside was already shifting his weight to quiet a squealing knee joint.
+The beam ignites no wider than a knitting needle. White light pools against the brace. Serren steadies it, adjusts half a degree, and takes nine seconds to make a cut her usual output might finish in three. The severed end drops into the tray.
 
-Veska stepped past him carrying the broth in her left hand. The blaster stayed in bin twenty-three, and the shutter finished rising.
+No cheer follows. Bevro looks at the clock. Metta looks at her meter. You look at the socket return, which remains green.
+
+Serren opens her hand. The caster powers down without dumping.
+
+Metta signs the bounded certificate at four minutes to gatefall. "One shift. Clean salvage only, within this output curve. Matched assembly before any renewal."
+
+"I heard you," Serren says, already reading the curve for herself.
+
+"Sign that you received the limits. Not that you agree with my taste in limits."
+
+Serren signs.
+
+You turn the privacy screen back toward her. Her forearm display still holds an eleven-second sensory window around the test pulses. You never exported it; the kiosk holds only the derived electrical readings.
+
+"Save that window to your private log, authorize a warranty copy, or delete it?"
+
+"Keep the electrical readings. Delete the window."
+
+She selects the eleven seconds. You check that the electrical capture remains separate. Together you watch the blocks vanish, then the temporary cache report zero.
+
+The receipt takes longer. Two hundred ten paid now. One hundred twenty due after the dawn cut or waived as labor if the documented cap prevents that specified clean-salvage job. Contact layer and isolator under thirty-day parts warranty. Limiter temporary. Mercy circuit retained. Raw log not copied. Reclaimer lot and vendor audio attached as provenance. Metta's certificate attached separately; it covers only the conditions she witnessed.
+
+Across the aisle, Bevro totals nine returned sales, three chilled buns, and twelve minutes of restricted frontage. Metta stamps the cordon start and end on his Exchange claim.
+
+"You missed the hot case," he tells her.
+
+"It stayed powered."
+
+"On their socket. That isn't free power."
+
+You add the meter reading to his claim. He reads it, folds the paper sleeve around the printout, and finally lifts the beacons himself when Metta unlocks them.
+
+The gate begins to lower with a chain-on-stone rattle.
+
+Serren stands. The repaired shoulder bears the caster without the inward jerk. She tests each finger once, not for you, and settles the arm close to her body before stepping into the remaining aisle.
+
+"Dawn," you say, because the debt field needs a date.
+
+"If the dock inspector can count to nine seconds."
+
+That is all. She goes.
+
+The man with the hearing implant is still waiting by the narrow end of Bevro's stall. He has bought the last two pepper buns and is holding them under his coat for warmth.
+
+"You said battery cradle," he reminds you.
+
+You look at the green contacts, the six-part gasket kit, the gate with half a metre left to fall, and tonight's receipts at last beginning to add up.
+
+"Ten minutes," you say.
+
+Bevro uncaps his marker. "I am writing down ten."
