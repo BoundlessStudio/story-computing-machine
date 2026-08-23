@@ -6,15 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Varoq | new | Caravan cutter and first-person narrator; no exact, alias, close-spelling, or confusing reuse found. |
-| Pava | new | Varoq's adult apprentice; no exact, alias, close-spelling, or confusing reuse found. |
-| Jassik | new | Itinerant roof-founder; no exact, alias, close-spelling, or confusing reuse found. |
+| Kedra | new | No exact or alias reuse found; baseline Kethra remains distinguishable in spelling, consonant sound, role, and story context. |
+| Beshan | new | No exact or alias reuse found; legacy Bash remains distinct in form, cadence, and role. |
+| Lurem | new | No exact or alias reuse found; legacy Lumen Mott remains distinct in form, sound, and role. |
+| Sovet | new | No exact or alias reuse found; rejected legacy Sorel Dane remains distinct in form, sound, and role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Merenza | new | Dead layered city and source of the sold civic letters; `MEREN_A` is its damaged displayed form, not another place, and no confusing reuse was found. |
+| Cerdovan | new | No exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -29,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The local nonmagical name ethic, undated ruin layer, and pale-rail effect respect current authority; the six-letter recovery, melted `Z`, unsafe brake, divided coil debt, retained gap, and continuing apprenticeship remain causally coherent.
+- Notes: The two-anchor system stays local and non-sentient; context loss remains irreversible, Lurem remains a legitimate buyer, and Beshan's costly, provisioned repair preserves agency without absolution. Dialogue stays role- and pressure-specific through the bargain, jam, and final disposition.
