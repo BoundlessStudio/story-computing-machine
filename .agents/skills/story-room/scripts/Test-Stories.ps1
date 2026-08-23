@@ -31,11 +31,15 @@ $requiredFiles = @('outline.md', 'prompt.md', 'review.md', 'story.md')
 $titleImageFile = 'title-image.jpg'
 $dialogueCraftProfiles = @(
     'prospective-2026-08-18',
-    'prospective-2026-08-21'
+    'prospective-2026-08-21',
+    'prospective-2026-08-23'
 )
-$voiceCraftProfile = 'prospective-2026-08-21'
+$voiceCraftProfiles = @(
+    'prospective-2026-08-21',
+    'prospective-2026-08-23'
+)
+$createDialogueCraftProfile = 'prospective-2026-08-23'
 $outlineWordLimit = 1200
-$voiceWordLimit = 180
 $errors = [Collections.Generic.List[string]]::new()
 $warnings = [Collections.Generic.List[string]]::new()
 $finalInventory = [Collections.Generic.List[object]]::new()
@@ -65,25 +69,25 @@ function Get-SectionMatches {
     ))
 }
 
-function Test-CraftProfile {
-    param([string]$PromptText, [string]$Profile)
+function Get-ActiveCraftProfile {
+    param([string]$PromptText)
 
-    $escaped = [regex]::Escape($Profile)
-    return [regex]::IsMatch(
-        $PromptText,
-        "(?m)^-[ \t]+Craft profile:[ \t]*${escaped}[ \t]*$"
-    )
-}
-
-function Test-AnyCraftProfile {
-    param([string]$PromptText, [string[]]$Profiles)
-
-    foreach ($profile in $Profiles) {
-        if (Test-CraftProfile $PromptText $profile) {
-            return $true
-        }
+    $profileSection = Get-Section $PromptText 'Rewrite constraints'
+    if ([string]::IsNullOrWhiteSpace($profileSection)) {
+        $profileSection = Get-Section $PromptText 'Constraints'
     }
-    return $false
+    if ([string]::IsNullOrWhiteSpace($profileSection)) {
+        return $null
+    }
+
+    $profileLines = @([regex]::Matches(
+        $profileSection,
+        '(?m)^-[ \t]+Craft profile:[ \t]*(?<value>[^\r\n]+?)[ \t]*\r?$'
+    ))
+    if ($profileLines.Count -ne 1) {
+        return $null
+    }
+    return $profileLines[0].Groups['value'].Value.Trim()
 }
 
 function Get-MarkdownWordCount {
@@ -97,11 +101,13 @@ function Get-MarkdownWordCount {
 }
 
 function Test-VoiceCapsule {
-    param([string]$StorySlug, [string]$OutlineText)
+    param([string]$StorySlug, [string]$OutlineText, [string]$Profile)
+
+    $voiceWordLimit = if ($Profile -eq $createDialogueCraftProfile) { 220 } else { 180 }
 
     $voiceMatches = @(Get-SectionMatches $OutlineText 'Voice')
     if ($voiceMatches.Count -ne 1) {
-        $errors.Add("$StorySlug/outline.md must contain exactly one Voice section for $voiceCraftProfile; found $($voiceMatches.Count).")
+        $errors.Add("$StorySlug/outline.md must contain exactly one Voice section for $Profile; found $($voiceMatches.Count).")
         return
     }
 
@@ -115,15 +121,18 @@ function Test-VoiceCapsule {
         'Narrative texture',
         'Conversational texture',
         'Rhetorical ownership',
-        'Pressure behavior',
-        'Anti-default'
+        'Pressure behavior'
     )
+    if ($Profile -eq $createDialogueCraftProfile) {
+        $fields += 'Relationship movement'
+    }
+    $fields += 'Anti-default'
     $values = @{}
     foreach ($field in $fields) {
         $escaped = [regex]::Escape($field)
         $fieldMatches = @([regex]::Matches(
             $voice,
-            "(?m)^[ \t]*-[ \t]+${escaped}:[ \t]*(?<value>[^\r\n]*)$"
+            "(?m)^[ \t]*-[ \t]+${escaped}:[ \t]*(?<value>[^\r\n]*)\r?$"
         ))
         if ($fieldMatches.Count -ne 1) {
             $errors.Add("$StorySlug/outline.md Voice section must contain exactly one '$field' field; found $($fieldMatches.Count).")
@@ -166,13 +175,112 @@ function Test-VoiceCapsule {
     }
 }
 
+function Test-DialogueDesign {
+    param([string]$StorySlug, [string]$OutlineText)
+
+    $storySection = Get-Section $OutlineText 'Story'
+    $noDialogue = 'N/A — no meaningful dialogue expected'
+    foreach ($field in @('Dialogue promise', 'Dialogic medium', 'Dialogue engine')) {
+        $escaped = [regex]::Escape($field)
+        $fieldMatches = @([regex]::Matches(
+            $storySection,
+            "(?m)^[ \t]*-[ \t]+${escaped}:[ \t]*(?<value>[^\r\n]*)\r?$"
+        ))
+        if ($fieldMatches.Count -ne 1) {
+            $errors.Add("$StorySlug/outline.md Story section must contain exactly one '$field' field for $createDialogueCraftProfile; found $($fieldMatches.Count).")
+            continue
+        }
+
+        $value = $fieldMatches[0].Groups['value'].Value.Trim()
+        if ([string]::IsNullOrWhiteSpace($value)) {
+            $errors.Add("$StorySlug/outline.md Story field '$field' must contain actionable story-specific guidance.")
+        }
+        elseif ($value -match '(?i)^N/A\b' -and $value -cne $noDialogue) {
+            $errors.Add("$StorySlug/outline.md Story field '$field' must use the exact no-dialogue value '$noDialogue' or provide story-specific guidance.")
+        }
+    }
+}
+
+function Test-RewriteSelections {
+    param([string]$StorySlug, [string]$SelectionText)
+
+    $scopeLines = @([regex]::Matches(
+        $SelectionText,
+        '(?m)^-[ \t]+Scope:[ \t]*(?<value>REBUILD|RESHAPE|SELECTIVE)[ \t]*\r?$'
+    ))
+    if ($scopeLines.Count -ne 1) {
+        $errors.Add("$StorySlug/prompt.md Rewrite selections must contain exactly one Scope: REBUILD, RESHAPE, or SELECTIVE line.")
+    }
+    $outsideLines = @([regex]::Matches(
+        $SelectionText,
+        '(?m)^-[ \t]+Outside named selections:[ \t]*(?<value>FLEXIBLE|KEEP|KEEP EXACT)[ \t]*\r?$'
+    ))
+    if ($outsideLines.Count -ne 1) {
+        $errors.Add("$StorySlug/prompt.md Rewrite selections must contain exactly one Outside named selections line.")
+    }
+    if ($scopeLines.Count -eq 1 -and $outsideLines.Count -eq 1) {
+        $scopeValue = $scopeLines[0].Groups['value'].Value
+        $expectedOutside = switch ($scopeValue) {
+            'REBUILD' { 'FLEXIBLE' }
+            'RESHAPE' { 'KEEP' }
+            'SELECTIVE' { 'KEEP EXACT' }
+        }
+        if ($outsideLines[0].Groups['value'].Value -cne $expectedOutside) {
+            $errors.Add("$StorySlug/prompt.md Rewrite scope $scopeValue requires Outside named selections: $expectedOutside.")
+        }
+    }
+
+    $valuesByCategory = @{}
+    $selectionOwners = @{}
+    foreach ($category in @('Keep exact', 'Keep in substance', 'Change or replace', 'Remove')) {
+        $escaped = [regex]::Escape($category)
+        $lines = @([regex]::Matches(
+            $SelectionText,
+            "(?m)^-[ \t]+${escaped}:[ \t]*(?<value>[^\r\n]+?)[ \t]*\r?$"
+        ))
+        if ($lines.Count -lt 1) {
+            $errors.Add("$StorySlug/prompt.md Rewrite selections must contain at least one '$category' line.")
+            $valuesByCategory[$category] = @()
+            continue
+        }
+        $values = @($lines | ForEach-Object { $_.Groups['value'].Value.Trim() })
+        if ($values -contains '') {
+            $errors.Add("$StorySlug/prompt.md Rewrite selections contains an empty '$category' value.")
+        }
+        if ($values -icontains 'none specified' -and $values.Count -ne 1) {
+            $errors.Add("$StorySlug/prompt.md Rewrite selections cannot mix 'none specified' with named '$category' values.")
+        }
+        foreach ($value in @($values | Where-Object { $_ -ine 'none specified' })) {
+            if ($selectionOwners.ContainsKey($value)) {
+                $errors.Add("$StorySlug/prompt.md Rewrite selection '$value' appears in both $($selectionOwners[$value]) and $category.")
+            }
+            else {
+                $selectionOwners[$value] = $category
+            }
+        }
+        $valuesByCategory[$category] = $values
+    }
+
+    if (
+        $scopeLines.Count -eq 1 -and
+        $scopeLines[0].Groups['value'].Value -eq 'SELECTIVE' -and
+        $valuesByCategory.ContainsKey('Change or replace') -and
+        $valuesByCategory.ContainsKey('Remove') -and
+        $valuesByCategory['Change or replace'] -icontains 'none specified' -and
+        $valuesByCategory['Remove'] -icontains 'none specified'
+    ) {
+        $errors.Add("$StorySlug/prompt.md SELECTIVE rewrite requires at least one Change or replace or Remove selection.")
+    }
+}
+
 function Test-RewritePrompt {
     param([string]$StorySlug, [string]$PromptText)
 
-    $headings = @('Rewrite request', 'Rewrite reference images', 'Rewrite constraints')
+    $requiredHeadings = @('Rewrite request', 'Rewrite reference images', 'Rewrite constraints')
+    $allHeadings = @($requiredHeadings) + 'Rewrite selections'
     $matchesByHeading = @{}
     $managedCount = 0
-    foreach ($heading in $headings) {
+    foreach ($heading in $allHeadings) {
         $matches = @(Get-SectionMatches $PromptText $heading)
         $matchesByHeading[$heading] = $matches
         $managedCount += $matches.Count
@@ -181,13 +289,16 @@ function Test-RewritePrompt {
         return
     }
 
-    foreach ($heading in $headings) {
+    foreach ($heading in $requiredHeadings) {
         $count = $matchesByHeading[$heading].Count
         if ($count -ne 1) {
             $errors.Add("$StorySlug/prompt.md must contain exactly one '$heading' section for a prepared rewrite; found $count.")
         }
     }
-    if (@($headings | Where-Object { $matchesByHeading[$_].Count -ne 1 }).Count -gt 0) {
+    if ($matchesByHeading['Rewrite selections'].Count -gt 1) {
+        $errors.Add("$StorySlug/prompt.md must contain at most one 'Rewrite selections' section; found $($matchesByHeading['Rewrite selections'].Count).")
+    }
+    if (@($requiredHeadings | Where-Object { $matchesByHeading[$_].Count -ne 1 }).Count -gt 0) {
         return
     }
 
@@ -201,8 +312,14 @@ function Test-RewritePrompt {
         $errors.Add("$StorySlug/prompt.md Rewrite reference images section must be non-empty.")
     }
 
+    $hasSelections = $matchesByHeading['Rewrite selections'].Count -eq 1
+    if ($hasSelections) {
+        $selections = $matchesByHeading['Rewrite selections'][0].Groups['body'].Value.Trim()
+        Test-RewriteSelections $StorySlug $selections
+    }
+
     $constraints = $matchesByHeading['Rewrite constraints'][0].Groups['body'].Value.Trim()
-    $coverLines = @([regex]::Matches($constraints, '(?m)^-[ \t]+Cover:[ \t]*(?<value>[^\r\n]+?)[ \t]*$'))
+    $coverLines = @([regex]::Matches($constraints, '(?m)^-[ \t]+Cover:[ \t]*(?<value>[^\r\n]+?)[ \t]*\r?$'))
     if ($coverLines.Count -ne 1) {
         $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one Cover policy.")
     }
@@ -212,16 +329,28 @@ function Test-RewritePrompt {
 
     $profileLines = @([regex]::Matches(
         $constraints,
-        '(?m)^-[ \t]+Craft profile:[ \t]*prospective-2026-08-21[ \t]*$'
+        '(?m)^-[ \t]+Craft profile:[ \t]*(?<value>prospective-2026-08-(?:21|23))[ \t]*\r?$'
     ))
     if ($profileLines.Count -ne 1) {
-        $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one active Craft profile: prospective-2026-08-21 line.")
+        $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one supported active Craft profile.")
+    }
+    else {
+        if (-not $hasSelections -and $profileLines[0].Groups['value'].Value -eq 'prospective-2026-08-23') {
+            $errors.Add("$StorySlug/prompt.md an 08-23 rewrite requires exactly one 'Rewrite selections' section.")
+        }
+        $expectedProfile = if ($hasSelections) { 'prospective-2026-08-23' } else { 'prospective-2026-08-21' }
+        if ($profileLines[0].Groups['value'].Value -cne $expectedProfile) {
+            $errors.Add("$StorySlug/prompt.md Rewrite contract requires Craft profile: $expectedProfile.")
+        }
     }
 
-    $authorityLines = @([regex]::Matches(
-        $constraints,
-        '(?m)^-[ \t]+Authority:[ \t]*the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding\.[ \t]*$'
-    ))
+    $authorityPattern = if ($hasSelections) {
+        '(?m)^-[ \t]+Authority:[ \t]*the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy\.[ \t]*\r?$'
+    }
+    else {
+        '(?m)^-[ \t]+Authority:[ \t]*the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding\.[ \t]*\r?$'
+    }
+    $authorityLines = @([regex]::Matches($constraints, $authorityPattern))
     if ($authorityLines.Count -ne 1) {
         $errors.Add("$StorySlug/prompt.md Rewrite constraints must contain exactly one rewrite authority line.")
     }
@@ -436,8 +565,9 @@ function Read-StoryPackage {
     $storyText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'story.md') -Raw
     $reviewText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'review.md') -Raw
 
-    $usesDialogueCraftProfile = Test-AnyCraftProfile $promptText $dialogueCraftProfiles
-    $usesVoiceCraftProfile = Test-CraftProfile $promptText $voiceCraftProfile
+    $activeCraftProfile = Get-ActiveCraftProfile $promptText
+    $usesDialogueCraftProfile = $activeCraftProfile -in $dialogueCraftProfiles
+    $usesVoiceCraftProfile = $activeCraftProfile -in $voiceCraftProfiles
     if ($usesDialogueCraftProfile) {
         $outlineWordCount = Get-MarkdownWordCount $outlineText
         if ($outlineWordCount -gt $outlineWordLimit) {
@@ -445,7 +575,10 @@ function Read-StoryPackage {
         }
     }
     if ($usesVoiceCraftProfile) {
-        Test-VoiceCapsule $slug $outlineText
+        Test-VoiceCapsule $slug $outlineText $activeCraftProfile
+    }
+    if ($activeCraftProfile -eq $createDialogueCraftProfile) {
+        Test-DialogueDesign $slug $outlineText
     }
     Test-RewritePrompt $slug $promptText
 
@@ -542,6 +675,7 @@ function Read-StoryPackage {
         StoryText = $storyText
         StoryBody = $storyBody
         ReviewText = $reviewText
+        ActiveCraftProfile = $activeCraftProfile
         UsesDialogueCraftProfile = $usesDialogueCraftProfile
         UsesVoiceCraftProfile = $usesVoiceCraftProfile
     }

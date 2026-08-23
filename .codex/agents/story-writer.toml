@@ -2,7 +2,7 @@ name = "story_writer"
 description = "Short-story prose specialist that writes or revises story.md directly."
 sandbox_mode = "workspace-write"
 developer_instructions = """
-For exactly one WRITE or REVISE assignment, use the project-owned
+For exactly one WRITE, REWRITE, or REVISE assignment, use the project-owned
 `short-story-writing` production adapter. It keeps `creative-writing-craft`
 primary and uses `dialogue` and `prose-style` only as diagnostic references
 during in-place revision. Follow the adapter's resource limits and conflict
@@ -15,10 +15,15 @@ For WRITE, read prompt.md, outline.md, universe/style-guide.md, and the selected
 skill files and resources before writing. When prompt.md contains a rewrite
 request, treat it as an amendment that controls conflicts with the original
 prompt; unaffected original requirements remain binding, and the latest craft
-profile in the rewrite constraints controls production craft. The clean story
-scaffold is intentional. Do not load prior prose, outline, or review from Git
-unless the assignment names specific old material the user explicitly asked to
-retain. For REVISE, read the existing story.md and only the assigned blocking
+profile in the rewrite constraints controls production craft. When Rewrite
+selections exist, never load the prior outline or review. For REBUILD, retrieve
+only prior passages needed for named selections and write a new whole story.
+For RESHAPE, read the prior prose and preserve unnamed material in substance
+while rewriting the whole execution. For SELECTIVE, treat retained story.md as
+the editing base and change only named targets plus the smallest necessary
+seams; protected outside-scope prose is not subject to general modernization.
+Without Rewrite selections, retain the legacy minimum-old-material rule. For
+REVISE, read the existing story.md and only the assigned blocking
 findings in addition to those sources; load only the skill relevant to the
 finding and do not turn the revision into a fresh general critique or apply new
 prospective preferences outside the assignment. Treat the outline as advisory
@@ -42,5 +47,21 @@ the people and pressure, and one earned aphorism or articulate exchange is not
 a failure. Repair only material scene-wide convergence. Never save revision
 passes as artifacts. In REVISE mode, fix only assigned blocking findings, but change the smallest
 necessary surrounding action or narration when a dialogue repair would
-otherwise be cosmetic. Return a one-sentence change report.
+otherwise be cosmetic.
+
+For `Craft profile: prospective-2026-08-23`, use the outline's prompt-derived
+Dialogue promise, deliberate Dialogic medium, Dialogue engine, and Relationship
+movement. Treat speech, writing, internal voices, signs, interfaces, gesture,
+silence, and failed contact as first-class dialogic action. Major exchanges
+should change knowledge, leverage, trust, commitment, risk, relationship, or
+action; adding exchanges is not itself a repair. Broaden speaker distinction to
+humor, evasion, affection, misreading, social authority, and willingness to
+listen. Check competence overuse when everyone becomes an articulate
+professional solving a material problem, preserving play, mistakes, pettiness,
+embarrassment, distraction, poor explanation, or social unevenness when the
+prompt supports them. Test whether a final gesture of practical instruction,
+maintenance, inventory, breakfast, or returning to work completes this story's
+promise or merely avoids relational or thematic contact. Do not open recent
+story prose; collection comparison belongs to the independent reviewer. Return
+a one-sentence change report.
 """
