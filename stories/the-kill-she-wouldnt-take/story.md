@@ -8,396 +8,290 @@ canon: false
 
 # The Kill She Wouldn't Take
 
-At fifteen-oh-eight, the Grand Halo brings our furnace worker up under the spawn lights again.
+Caro Blythe is already shouting when the red tally in the broadcast glass reaches ten.
 
-Camera Seven finds them in the spawn alcove: clean lungs hauling air, pistol restored to its unfired condition, face restored to the grin they wore at entry. The grin lasts until their visor updates.
+“Nash Harl got killed two hours ago and still made the final on time. Eleven-point-zero-eight seconds from flatline to both feet, which is quicker than Dax gets back from the bathroom. Welcome to Grandfall Arena, the largest televised deathmatch on the planet.”
 
-**DEATHS 6 / KILLS 1**
+Beside her, Dax Ulm pulls his headset away from one crushed ear. The booth glass trembles with eighty thousand people stamping in Grandfall Arena below. “I was negotiating with a zipper.”
 
-Then they see the relay. We see it too, enlarged in my monitor stack by a producer who knows a hook when one survives dismemberment.
+“You lost.”
 
-**FIND HORN MASK. ASK WHY RED. LISTEN.**
+“Split decision.”
 
-“And our newcomer is back in play,” I say, because *back* is the approved verb. Not *rebuilt*. Not *copied*. Certainly not *waking up without the last six people they were*. “One kill on the board, six visits to reconstruction, and fifteen minutes to turn that ugly ratio around.”
+The producer says, “Walk-on in five. Keep the earlier return in frame. Sell confidence.” The voice in their headsets is cool and close, untouched by the crowd.
 
-My producer presses her talk key. “Mention the debt.”
+A clear guard covers the medical-integrity key between Caro’s console and Dax’s. Caro gives the finals rule its required on-air read. “This booth holds one integrity challenge. Conflicting return telemetry lets us freeze the resolution clock, lock every registered arena weapon for twelve seconds, and force raw replay plus medical review. Call it wrong, the interrupted fighter restarts at center advantage and this booth loses its finals credentials.”
 
-We have been mentioning the debt since the gate-opening package: the iris doors peeling apart, peach-colored light across the entrant’s boots, fifty thousand throats opening at once. Six years at the night furnaces, wiped clean if the entrant collects Vesper’s bounty. Before the doors opened, the consent clerk asked whether they understood that reconstruction occurred eighteen seconds after a registered kill. They said yes. Asked whether they understood that pain was real, full-strength, and not simulated. Yes. Asked whether they understood they would return from the physical and mnemonic imprint taken at entry, retaining statistics and one self-authored message of forty characters. Yes, yes, yes.
+“So we can save a life or improve somebody’s aim while getting fired,” Dax says.
 
-Then they faced the nearest lens and said, “Temporary death, permanent money. What could go fucking wrong?”
+“Safeguard read complete,” the producer says. “Do not editorialize it.”
 
-It played beautifully in previews. It plays differently after you have watched them learn the answer six times.
+On the program monitor, Nash comes out beneath crossing bars of cyan light. His armor is modular white plate over black flex, built light enough to show the jump in his stride. Cyan seams wake along his shoulders. He throws both hands up, then slaps the outward-facing collar ring at his throat and points to the giant green assurance figure circling the arena. The earlier-death replay runs beside him: Nash flat on the floor, the fatal pulse marked cleanly; a cradle filling with white interference; Nash stepping out eleven seconds later, whole and swearing, one hand pressed to the ribs that no longer bear a wound.
 
-The crowd begins the Vesper chant. Her face rolls across the suspended screens, and I take the handoff because my voice is what several billion people have been taught to believe when the pictures move too quickly. “Forty-three confirmed kills for the reigning queen of the Halo. Still no registered death in twelve appearances.”
+“That is not swagger,” Dax says on air. “That is a man who has personally tested the warranty.”
 
-Camera Two has her on a broken causeway above the flooded garden. The white cybernetic visor hides her eyes behind red lenses, one horn chipped. Vivid red fiber-optic hair streams from her scalp through the dust. Green status lights step calmly along her neck, at odds with the gray scars on her segmented white armor. Her firearm is oversized even by arena standards, a long white-and-black brute braced to one mechanical forearm.
+“Verified before entry, verified at the gate, verified now. Harl’s return confidence is nine nines. He has died once tonight and remembers enough to do it better.”
 
-“Horn mask acquired,” I say. “Now let’s see whether our entrant follows their own advice.”
+“Or faster.”
 
-They run.
+The cyan light dies. Red opens across the far end of the arena, first in thin lines, then in a hard wash that turns the dust above the floor to smoke-colored gauze. Zindra Quell walks through it.
 
-The route to center is already chewed to shit. Damage persists even when bodies do not, so the field remembers everybody. The entrant crosses a tilted kitchen set, vaults the sink, and cuts through a row of suburban doors standing unsupported in smoke. Their feet take a left before their head does. A bolt burns through the brass knob where their mouth was about to be.
+Every camera finds her at once. A red fiber-optic mohawk burns from the crown of a white horned cybernetic mask. Segmented white armor rides over her shoulders and down her arms in overlapping shells, immaculate except for old scoring around the joints. Her firearm is so oversized she carries it low, barrel dragging a black shadow across the floor while its charge rails pulse red.
 
-They duck and fire twice. A competitor folds against a lilac bedroom door, suit shrilling the kill registration while a silver curtain rises around the body.
+Dax leans toward the monitor as if proximity could improve the picture. “That gun looks like somebody fucked a refrigerator and taught the baby to hate.”
 
-“Two kills,” I call. “And an apology.”
+Caro laughs too loudly. The producer says, “Good,” because the adult feed is meant to feel dangerous, and Caro rolls straight into the introduction. “Zindra Quell. Forty-two arena kills, forty-two verified returns on the other side, not one bout over four minutes. Nash Harl asked for the mountain. The mountain brought artillery.”
 
-“Sorry,” the entrant tells the dissolving competitor.
+Zindra stops on her mark. Nash bounces on his toes twenty meters away. The public assurance bars beside both portraits remain green.
 
-The crowd laughs. The producer floods the lower screen with the entrant’s bounty odds. Numbers are one way to keep people from hearing how long a scream lasts.
+The tally hits zero. The producer shouts, “LIVE!” Zindra fires before Caro can say the word.
 
-At twelve-oh-three, the entrant steps onto the causeway. Camera Two takes their front, Camera Nine gives us Vesper in profile, and a submerged drone looks up through garden water gone brown with pulverized concrete. The cannon comes around to the entrant’s chest.
+The shot crosses the floor as a red-white shove. Nash dives. The edge of it catches his left boot and spins him sideways, boot plating bursting off in three pieces. He lands hard, skids through cyan grit and comes up on one knee with blood already slicking the exposed skin above his ankle.
 
-“There you are,” Vesper says.
+“Quell opens center-left, Harl clears most of it, not all—mobility hit, lower leg, and he is up!”
 
-Her advertisements give her a rich, amused contralto. The causeway mic gives us a tired woman breathing too hard.
+“Up is doing charity work there,” Dax says. “His foot’s answering mail from another address.”
 
-The entrant raises their pistol. “Give me my left side. Better camera.”
+Nash runs anyway. Each step shortens on the injured side. He fires a compact pulse carbine in quick blue cuts, not at Zindra but at the illuminated floor fins around her. Two burst. A sheet of cyan sparks climbs between them.
 
-Vesper’s barrel dips half an inch.
+“Harl takes her sightline—smart, ugly, necessary.”
 
-“Not that one again.”
+“He can’t outshoot her, so he’s making the room worse. I like this little bastard.”
 
-I stop speaking. In my left ear, the producer says, “Again how?”
+The crowd mix swells until the booth desk buzzes under Caro’s forearms. On the raw overhead, Zindra’s white shape disappears into the sparks. Nash angles right. Caro calls the route, the damaged leg, the narrowing distance. Dax calls the lie in Nash’s shoulders half a second before he cuts back left.
 
-The entrant laughs. It is a good laugh, quick and dirty, the kind you use to convince your own spine. “The horn mask does fortunes now?”
+Zindra calls it first with her body. She pivots out of the sparks and drives the stock of the huge weapon across Nash’s chest. His armor takes the edge; the rest of him folds. The raw floor microphone catches one cracked grunt. Zindra lifts the muzzle for the finish.
 
-Under the causeway, something disturbs the water. Vesper snaps two fingers: down, stay. The entrant stays upright.
+Nash shoots her mask from the floor.
 
-“Why red?” they ask.
+Blue light smacks one white horn and snaps its tip away. Zindra’s head jerks; the right lens of the mask floods white. The arena detonates with noise.
 
-The green lights at Vesper’s throat miss a beat. “You said blue looked afraid.”
+Caro’s pencil rolls out of her hand. “HARL TAGS QUELL! Mask strike, no penetration, but the superstar’s right optic is washed and Nash Harl is somehow still in this goddamn fight!”
 
-“When?”
+“He made her blink. You ever try to move a corpse with a blink?” Dax is grinning now. Caro can see it reflected in the booth glass, wide and involuntary. “Dead gets you fresh. Hurt stays hurt until somebody ends it. He keeps piling hurt, he gets a chance.”
 
-“Write this down. Don’t come over the causeway.”
+Zindra answers with a backhand that sends the carbine away. Nash’s glove splits against the floor. Blood streaks the white knuckles of the armor. He scrambles after the weapon; she shoots the floor ahead of his reaching hand, close enough to fling him back through the hot wake.
 
-The entrant slaps open the relay and thumbs in letters.
+“And Quell takes the hand away without taking the hand off,” Caro says. “Control, control, control.”
 
-**SHE REMEMBERS. ASK ABOUT—**
+“Mean as rent.”
 
-“Movement beneath them,” I say. The submerged drone catches the gray oval of a rifle rising through weeds. “Garden attack, south side. Entrant does not see it. Vesper has the angle.”
+The producer feeds her a probability. Caro gives it to the audience: Zindra at ninety-six percent to finish inside forty seconds. Another figure moves in the thin operations strip beneath the program monitor. Nash’s return confidence drops from its long braid of nines to a dash.
 
-“I’m sorry,” Vesper says.
+Then the ring at his throat turns red.
 
-Her cannon fires into the entrant from three paces.
+Caro keeps talking. The public portrait beside Nash is still banded green, and green is the figure she has been told to read.
 
-The impact lifts them off the causeway. Armor holds together; the body inside it bends where bodies are not built to bend. The open mic gives us one raw, astonished sound before they strike the rail. White energy crawls through their suit. Their hand claws once against empty air.
+Dax stops grinning. “Did he just burn a trauma tracer?”
 
-Registered kill.
+“No,” the producer says in both their ears. “Telemetry variance. Non-air.”
 
-“Vesper protects the streak,” I say automatically. “No hesitation when the shot is clean.”
+On the arena floor, Nash reaches his carbine. Zindra stamps the barrel down. He lets go before the mechanism can take his fingers with it and rolls beneath her next swing. Caro catches up on sequence, voice climbing because climbing is what it does when anything beneath the sequence goes loose.
 
-Silver rises around the entrant. The garden rifle fires through the place their head had been and punches a molten hole in Vesper’s shoulder plate.
+“Harl abandons primary, Quell misses with the stock, twelve seconds in close range now, where Nash has no business surviving—”
 
-The replay is on me before I can breathe. We run the sequence at one-eighth speed with sponsor smoothing, agony recolored to a tasteful gold. Vesper’s lenses turn toward the ripple first. Her fingers signal. The entrant ignores her. Vesper’s firing line reaches them four hundredths of a second before the rifle’s does.
+“His collar’s red.”
 
-“Correction,” I say. My producer swears in my ear. “That was not a streak-protection shot. Vesper killed the entrant to beat the garden round. Reconstruction clock now at eleven seconds.”
+Dax says it on air.
 
-“Give me tactical mercy,” the producer says.
+The producer’s answer comes sharp. “Correct: impact-spectrum contamination. Caro, clarify.”
 
-I don’t. Mercy is a word cameras cannot verify.
+“Color pollution from the floor package,” Caro says. “The official return graphic remains green.” She can hear the dryness at the back of her own words. She swallows against it and finds the next number. “Zindra Quell has converted from this position in thirty-eight of forty—”
 
-At ten-forty-one, spawn light flares. The entrant comes back with clean armor, the gate-opening grin, and no knowledge of the causeway except what nine words on their wrist can carry.
+Zindra drives Nash into the cyan-lit wall.
 
-**SHE REMEMBERS. ASK ABOUT—**
+The firearm rises beneath his chin. Its rails brighten. Nash’s head is forced back against the plate, his throat bare above the cracked chest armor. Zindra has the shot. The clean angle starts the crowd’s low, rolling count before a finish.
 
-They stare at the dash. “About what?”
+Ten.
 
-“Beautiful,” says my producer. “Sell the mystery.”
+Nine.
 
-I describe the route instead.
+Zindra does not fire.
 
-The kitchen is burning blue. The garden has drained through a split basin. A sponsor arch lies across the row of doors. The entrant chooses a different path and nearly loses a boot to a loose cable snapping knee-high between two rails. They reach the concrete planter west of center at eight-fifty-nine. Vesper drops from the arch, catches the back of their armor, and drives them both down as rounds stitch the planter lip.
+“Quell holds him for the picture,” Caro says. “The queen of the long goodbye—”
 
-Her red fibers brush the entrant’s visor. Her cannon lands hard enough to crater concrete beside their head.
+“No.” Dax has both hands flat on the desk. “No, she’s not looking at his face.”
 
-“Get off,” the entrant says.
+Through the horned mask, Zindra’s head tilts by a few degrees. The muzzle stays fixed. Her gaze is impossible to see, but the turn of the mask points down, toward the red ring at Nash’s throat.
 
-“Stop helping them kill you.”
+Eight.
 
-“That’s rich.”
+The program monitor cuts to replay. Now the audience gets Nash’s strike on Zindra’s mask from three angles, blue light flowering off the broken horn. Caro’s replay notes arrive in her headset. On the smaller raw monitor, Zindra still pins Nash to the wall. The crowd count breaks apart into boos and baffled laughter.
 
-Vesper lets go at once. The entrant rolls up with their pistol; her cannon is already raised, but not quite aimed.
+“Call the replay,” the producer says. “Weapon contact. Possible upset momentum. Stay off live anomaly.”
 
-“Ask,” she says.
+Caro calls it. She names Nash’s timing, Zindra’s white-flared optic, the distance between the carbine and the mask. Her eyes do not leave the raw monitor.
 
-“I died halfway through the fucking note.” The entrant shakes their glowing wrist at her. “Excellent planning by somebody.”
+Dax says, “She’s reading his neck.”
 
-“The boot.”
+“Dax.”
 
-They look down. Both suit seals show green.
+“Look at her. She’s reading the fucking collar.”
 
-“Three lives ago, you said the left one opened,” Vesper says. “You asked me to hold.”
+The producer says, “We have no authenticated defect.”
 
-“Did you?”
+“Then put the confidence figure back.”
 
-“You kicked my cannon into the canal.”
+“Maintain replay.”
 
-The entrant grins. “Smart.”
+On raw, Nash plants his good foot against the wall and shoves. Zindra could fire. Instead she lets the muzzle swing wide. Nash tears free and drives his damaged shoulder into her breastplate. They go down together in a churn of white armor and red light.
 
-“You ran into a door.”
+The program returns live just as Zindra rises. Caro’s voice snaps back into form. “There it is! Harl breaks the corner, pays for it, but he breaks it!”
 
-“Less smart.”
+Nash’s left hand hangs close to his body. His breath jerks visibly through the flex at his ribs. He looks up at the green public assurance band above the arena, points at it once with his working hand, and comes forward.
 
-“You apologized to it.”
+Dax makes a sound too small for his microphone to need. “He can’t see his own collar.”
 
-“Was it hurt?”
+Zindra knocks aside Nash’s first punch. She catches the second, twists him past her, and shoots not into his body but through the last intact cells of his discarded carbine. The weapon flashes dead. The concussion opens a dark line of blood beneath Nash’s ear. He stumbles. Zindra catches the back of his chest plate before he can fall.
 
-Something shakes loose in Vesper’s breathing. It may be a laugh. The producer orders an audio boost, and in doing so drowns it under crowd compression.
+For one second they stand almost still, Zindra behind him, her white mask over his shoulder. Then she turns him toward the nearest camera.
 
-The entrant checks the dead camera above the planter, then the relay. “How many times have you killed me?”
+The red collar fills the raw monitor.
 
-“Six.”
+Zindra hooks two armored fingers under its outer rim and taps it against Nash’s throat: once, twice. He claws at her wrist, unable to see what she is showing. The live camera begins to push in.
 
-“Tally says seven.”
+The program cuts to a wide overhead. “Oh, fuck off,” Dax says. “Put the throat back.”
 
-“One wasn’t mine.”
+Caro stays on air. “On our raw feed, Quell is holding Harl’s collar to camera. That collar appears red. The public return assurance remains green.”
 
-“Why keep doing it?”
+“Possible impact-spectrum contamination,” the producer says. “No challenge basis. Move to resolution.”
 
-Footsteps hammer the east stair. Vesper points at a black seam behind the planter. “Service cut. Now.”
+“That tracer sits under the shoulder.” Dax jabs two fingers into his own jacket seam. “This is the link ring. Red there means nobody gets up in eleven.”
 
-“That wasn’t an answer.”
+A thirty-second resolution clock ignites around the arena rim. Two gates open for white-armored floor marshals, their weapons trained low while they wait out the stall interval. The public cheers the new number. Nash looks up, checks the green assurance band again, wipes blood from his mouth, and draws the compact backup weapon at his hip.
 
-“First time, you came for the bounty. Another time you asked me to beat a railgun charge. Once I was pissed off. Twice you wouldn’t listen.”
+“Resolution at thirty,” Caro calls. “At zero, floor enforcement can finish it for them. Quell has declined, Harl still has a sidearm, and the gates are open.”
 
-“And the others?”
+Nash fires. Zindra turns the huge gun in both hands and sends one red pulse through the sidearm’s housing. The compact weapon bursts apart without taking Nash’s hand; fragments score his glove and cheek. She catches his wrist, folds him face-first over her armored thigh, and uses the barrel of her own weapon as a bar across his shoulders. Its rails stay hot. Its muzzle stays off him.
 
-“Move.”
+“Quell disables secondary and keeps control,” Caro says. “No fatal contact.”
 
-Vesper turns her weapon toward the stair. Beneath the overlap of her breastplate, her live register glows white. The entrant sees it. Camera Nine sees their pistol settle.
+“She’s doing three jobs because the floor won’t do one,” Dax says. “Holding him, holding the gun, showing the collar.”
 
-“They have the bounty target,” I say. “Vesper has given them her back.”
+Zindra drags Nash upright just far enough to turn his neck toward the overhead lens. Red flares at his throat. The program camera remains wide enough to reduce it to a spark.
 
-The entrant lunges.
+“Twenty seconds,” the producer says. “Characterize competitive refusal. Do not authenticate color.”
 
-Vesper catches their wrist by reflex. The pistol discharges, she twists, and the cannon flashes against the entrant’s ribs. Their armor plates hammer inward with a sound like a steel door kicked off its track. Blood freckles the inside of their visor before the silver curtain blinds Camera Nine.
+Nash drives an elbow back. Zindra takes it against her plate, locks his arm and forces him down again without firing. The crowd’s laughter breaks into boos. At fifteen seconds, the marshals cross the gates.
 
-“Betrayal,” the producer says. The word appears as a suggested banner on my confidence screen. “Use it.”
+Zindra swings her firearm toward them.
 
-The reverse replay shows the entrant’s first shot clipping Vesper’s chipped horn.
+Caro’s voice jumps an octave. “Quell now warns floor enforcement off—”
 
-“The entrant fired first,” I say. “Vesper answered. Death eight.”
+Zindra fires across their path. The pulse tears a smoking line through the cyan-lit floor, close enough to stop the first marshal but not touch either one. She steps between their weapons and Nash, white armor squared, broken horn angled at the advancing line. Behind her, Nash claws one-handed toward the dead sidearm.
 
-“Nobody buys *answered*.”
+“Armed resistance,” the producer says. “Do not call medical intent.”
 
-On the stair, Vesper is shouting into a column of silver that cannot hear her.
+Dax leans so close to the raw monitor his breath marks it. “Her trigger finger comes off Harl every time she sees his neck. Every time. That’s not a tantrum.”
 
-At six-oh-two the entrant wakes with two kills, eight deaths, and the unfinished sentence. They erase it. For four seconds their relay is empty, a black field waiting for forty characters to decide what kind of person comes next.
+The resolution clock reaches twelve. The marshals raise their weapons.
 
-Then they write:
+Caro’s hand hovers over the clear guard between the consoles. “Dax. Is that your medical call?”
 
-**ASK HER TO FINISH. SERVICE CUT.**
+“No.” He looks from the red collar to Zindra’s straight trigger finger and back. “It’s my eyes. Tracer in the shoulder, link at the throat, gun hot and not on him. Hit the key.”
 
-“They’re going back,” I say.
+“Do not invoke,” the producer says. “Official assurance is valid.”
 
-“Of course they are. Double the bounty bug.”
+Nine seconds.
 
-The gold number swells across every public overlay. Furnace debt becomes a graphic: six years squeezed into six red bars. I have narrated those bars disappearing in rehearsal. I know the approved line about a life reclaimed. I also know the entrant cannot remember choosing Vesper over it, because they have not done that yet.
+Nash gets one knee under himself. Zindra shoves him flat with the heel of her boot and turns her gun on the marshals again. They fan apart, looking for an angle around her.
 
-They take the ruined kitchen at a sprint. A turret with half a sensor tracks them and apologizes while firing into the ceiling. The entrant slips through the service cut at five-eleven. Vesper follows sideways, cannon scraping sparks off both walls.
+Caro’s thumb strikes the clear guard instead of lifting it.
 
-Then we lose picture.
+“Up, then down,” Dax says.
 
-Camera Twelve is dead. The entrant’s body feed gives us a white wall, static, three frames of Vesper’s red hair. Audio survives as metal vibration.
+“I know how the fucking key works.”
 
-“Finish,” the entrant says.
+“Current evidence says—”
 
-“What?”
+She flips the guard and slams her palm onto the key. “GRANDFALL BOOTH MEDICAL-INTEGRITY CHALLENGE! Nash Harl, return-status conflict!”
 
-“Ask about what?”
+The challenge tone booms from the arena before the producer can answer. The resolution clock freezes at seven. Every registered weapon gives the same hard mechanical clack: Zindra’s red charge rails go black; the marshals’ firing spines collapse; the broken sidearm locks what little remains of itself. The program feed divides into raw collar close-up, return telemetry and live floor. Under challenge protocol, control cannot replace any of them.
 
-A pause. Vesper’s breathing. The crowd reaches us faintly through the structure.
+“Challenge registered,” the producer says. The coolness has gone out of the voice. “You are both under professional review.”
 
-“I don’t know,” she says.
+“Put it on my tab,” Dax says.
 
-The producer tells me to fill. I recap the bounty, the streak, the eight deaths. My mouth moves while I listen underneath myself.
+“You do not have a tab.”
 
-“You remembered the boot,” the entrant says.
+“Then Caro was right about the zipper.”
 
-“You never finished. You kept asking me to guess.”
+Caro is breathing through her mouth. She points at the replay pane with the pencil. “Medical-integrity review at seven seconds on the resolution clock. We are looking first at Harl’s return-confidence record. Roll from the drop.”
 
-“And?”
+The mandatory replay crawls forward. In one pane, Nash reaches for his carbine. Beneath it, his long chain of nines vanishes. Six frames later, the collar at his throat changes red. Beside both, the public assurance remains green.
 
-“I kept getting it wrong.”
+“There,” Caro says. “Private confidence absent before the first corner. Collar red. Public status unchanged.”
 
-For the next two minutes, the maintenance pocket gives us pieces: Vesper counting footsteps; the entrant telling her to stop counting and shoot; both of them swearing at a hatch that will not open. The body feed clears for half a second and shows Vesper dragging the entrant away from the grate. Then static eats them again.
+“Now give me Quell’s right hand,” Dax says.
 
-A rifle cracks. The body feed whirls. We get one frozen image of Vesper’s armored back between the entrant and the service cut, then nothing but white clipping and the horrible wet cough of somebody whose throat seal has failed.
+The replay jumps to the wall. Zindra has Nash pinned beneath the oversized firearm. Her damaged optic shines white. The angle is clean.
 
-“Kill registered,” I say. “Entrant down. Shooter unidentified.”
+“Finger wrapped,” Dax says. “Ready to finish. She looks down.”
 
-“Vesper did it again,” the producer says.
+The image advances one frame. Zindra’s index finger straightens along the weapon housing.
 
-“We don’t have that.”
+“Finger off. Muzzle into the wall. Look at her elbow—still tight. She hasn’t lost him.”
 
-“We have a body and Vesper standing.”
+“Possible fighter interpretation of unauthenticated equipment,” the producer says.
 
-“We don’t have it.”
+Dax misses the next telestrator mark and circles the broken horn. “Shit.”
 
-A maintenance drone noses through the grate too late for the kill. Its lens catches Vesper on one knee, shoulder smoking, her mechanical hand clamped over the entrant’s. Their thumb moves across the relay while the rest of them shakes.
+“Wrong red,” Caro says.
 
-**SERVICE 4. SHE'S TRYING. LET HER TALK.**
+“My hand’s shaking.”
 
-Vesper reads it aloud, but her voice breaks in the middle and the reconstruction tone takes the rest.
+“Again.”
 
-The sponsor replay never airs. There is no clean angle for the product mark.
+He clears the mark and draws a rough circle around Nash’s collar as Zindra turns it to camera. On the live-floor pane, she tests the locked trigger once, gets nothing, then plants the dead firearm crosswise between Nash and the marshals. One marshal reaches around it. Zindra slams an armored shoulder into his chest and drives him back without surrendering her position over Nash.
 
-At one-thirty-three, the spawn alcove detonates white. The entrant appears for the tenth time, armed, uninjured, and as new to the last fourteen minutes as they were at the gate.
+The raw crowd feed carries no single verdict. Some sections roar for the challenge, others chant for blood, and a bottle bursts against the booth glass two levels below.
 
-**DEATHS 9 / KILLS 2**
+“Seven seconds of weapon lock remaining,” Caro says. “Medical review still active. Harl conscious. Quell and both marshals upright.”
 
-**SERVICE 4. SHE'S TRYING. LET HER TALK.**
+A white medical verdict replaces the two green assurance bars. Nash’s return link is unverified. The public green was stale. The challenge is upheld.
 
-The Grand Halo around them is a building after a bombing. The central skyway lies across the basin. Gravity plates throw rain upward in glittering sheets. One giant screen has cracked across Vesper’s face; another is frozen on an old sponsor smile. Whole sectors have gone dark, and the surviving competitors move as muzzle flashes through the ruins.
+The end horn sounds twice, lower than a kill horn.
 
-The final-minute bounty doubles.
+“OFFICIAL MEDICAL STOPPAGE,” Caro calls. “NO CONTEST IN THE GRANDFALL FINAL! Booth challenge upheld with five seconds left on the weapon lock. Nash Harl and Zindra Quell are both alive!”
 
-“There it is,” my producer says. “Freedom money. Bring us home.”
+The roar below has no agreement in it. Cheers collide with boos; the rematch chant begins in one end and dies under an argument in the other.
 
-The entrant runs for Service 4.
+On the live pane, the marshals lower their locked weapons. Zindra keeps the dead cannon across Nash until two medics approach with empty hands. Only then does she lift her boot from his back and give them room. Nash rolls to his side, coughing. His left leg will not take weight. The collar at his throat remains red while the medics brace him.
 
-Our coverage there is shit: one maintenance lens high in a corner, the entrant’s damaged body feed, Vesper’s back, a warped panel that reflects more than it should and less than we need. The entrant slips into the pocket and turns. Vesper’s cannon fills the doorway.
+“Integrity process successful,” the producer says. The voice has recovered its polish. “Lead the safeguard. Do not say stale public status again. Rematch market opens in twenty.”
 
-“Clean shot,” I say.
+Dax looks toward Caro. “We still have credentials?”
 
-One second.
+“Ask me when my hand stops buzzing.”
 
-Two.
+“You hit it hard.”
 
-Vesper does not take it.
+“It was resisting.”
 
-The crowd changes pitch. Overlays breed around her body: **STREAK SECURE. LIVE ODDS. FINISH WINDOW.** The producer offers me *mind game*, *injury*, *mercy*. She has a whole menu of nouns for the space between a woman and a trigger.
+They are both still live. Caro sees the red air bars and swings back into sequence before the gap can widen. “The official sheet records a medical no-contest. Quell controlled every lethal angle and then resisted the resolution rather than take the red-collar finish. Harl leaves this final alive and unverified.”
 
-“Do it,” the entrant says. “Unless this is where you sell me a drink.”
+“No-contest is paper,” Dax says. “On the floor, Quell had him cold, saw the bad light, and spent the rest of the bout keeping everybody else from doing something stupid.”
 
-Vesper lowers the cannon until its muzzle touches the floor. “You always say something stupid here.”
+“Neutral analysis,” the producer warns.
 
-“Good. I’m consistent.”
+“That was neutral. You should hear the mean version.”
 
-“No.” Her breath catches. “You aren’t.”
+A rematch line slides onto the program beside the mandatory review replay. Zindra opens as a four-to-one favorite in a bout not yet booked. The network adds a live price pulse before either fighter reaches medical clearance.
 
-She releases the seal at her throat. Her live register brightens beneath the armor, a bare crescent of white. Legal target. One pistol shot at this range. Then she shoves the cannon across the floor until it strikes the entrant’s boot.
+“Sell the rematch,” the producer says. “Quell’s composure under anomaly. Harl’s impossible survival. Keep it premium.”
 
-“What the hell are you doing?”
+Caro reads the line. “Zindra Quell opens four-to-one if Grandfall can put these two back on the floor.”
 
-“You came for the bounty.”
+“Too low,” Dax says.
 
-“You came for the streak.”
+“You are not the bookmaker.”
 
-“I did.”
+“I’ve seen her work.”
 
-My producer says, “Strategy. Call it.”
+On the floor, Zindra allows a medic to touch the damaged white horn of her cybernetic mask, then bats the hand away and points toward Nash’s collar. The medic nods and follows the stretcher team. The gesture never reaches the main camera; it remains visible in the mandatory live pane beside the odds.
 
-The entrant aims at the register. Their bounty value occupies a third of my confidence screen. They could buy six furnace years, the entry fee, and a home somewhere the night does not glow orange.
+“Take the hesitation again,” Caro says. She pushes the telestrator pad toward Dax. “Give me the trigger hand.”
 
-“If I kill you, you come back,” they say.
+The producer starts a sponsor countdown in their headsets. Dax scrubs back two frames. “Here.”
 
-“She comes back.”
-
-“Who?”
-
-Vesper tries to answer. Nothing comes out. Running feet ring in the service cut.
-
-“The one at the gate,” she manages. “She won’t— These lives. You. I can’t put them in the relay.”
-
-The entrant’s pistol remains on the white crescent. “You want me to protect your memories?”
-
-“No.”
-
-“Bullshit.”
-
-“I don’t want another version of you.” Vesper jerks her head, angry at the sentence as soon as it exists. “That’s not—I know it isn’t mine to—”
-
-“No, it fucking isn’t.”
-
-“I know.”
-
-The producer says, “Romance angle is spiking.”
-
-“Shut up,” I say.
-
-There is a silence in my headset unlike the one in Service 4. Mine has invoices attached.
-
-In the warped panel, a competitor slides into the cut behind Vesper. The entrant sees the reflection.
-
-“Duck, hornhead.”
-
-Vesper drops. The entrant fires past her face and hits the rifle’s charge housing. Blue light punches through the pocket. Vesper looks up from the floor.
-
-“Cannon,” the entrant says.
-
-“You have it.”
-
-They glance at the huge weapon against their boot. “Right. Shit.”
-
-Vesper snatches it up as the competitor rushes. The maintenance camera judders. Vesper calls left; the entrant goes right and slams shoulder-first into the wall. A second shooter finds the grate. The entrant hurls a spent magazine at a camera drone, misses by a meter, and ducks as a round chips the other horn from Vesper’s visor.
-
-“Mask,” they say.
-
-“Busy.”
-
-“Looks better.”
-
-“Fuck you.”
-
-“There she is.”
-
-Twenty-three seconds.
-
-The cut shooter fires. Vesper turns her mechanical shoulder into the round instead of stepping aside. Segmented white armor bursts into ceramic petals; her register flares red but holds. The impact whips her against the wall.
-
-The cannon drops. The entrant catches it and goes to one knee under the weight.
-
-“Sorry,” they tell the weapon.
-
-Vesper, dazed against the wall, makes a sound that might be a laugh. “You do apologize to objects.”
-
-“Later.”
-
-The grate shooter leans into view. Vesper tracks the entrant’s eyes, turns without room to aim properly, and fires. The backblast throws both of them sideways. Outside, a silver curtain rises.
-
-The first competitor comes through the cut. They shoot Vesper’s hair, severing red fibers in a bright spray. The entrant catches the chipped edge of her breastplate and yanks her down.
-
-Eight seconds.
-
-Vesper has the runner centered. The runner has Vesper’s exposed register. The entrant has Vesper.
-
-“Take it,” my producer whispers.
-
-The entrant spends their final shot on the runner.
-
-Silver climbs. The Halo bell sounds before the curtain closes, and every remaining weapon locks blue.
-
-The crowd does not become one noble voice. Half of it boos the lost bounty. Some cheer Vesper’s preserved streak. Some chant the entrant’s number; others demand refunds. On the public feeds, strategy fights romance, conspiracy fights secret injury, and a sponsor poll asks whether hesitation makes champions human or weak.
-
-The entrant’s results stack over the field: no placement worth printing, bounty **FORFEITED**, debt unchanged. Vesper’s perfect-clear bonus drops to zero. Her no-death record remains.
-
-“Tell them what they saw,” the producer says.
-
-I look at the replay waiting beneath my hand: Vesper kneeling, register bare; the entrant’s pistol aimed; the final shot going elsewhere. I have told people what pictures mean for twenty-two years. Tonight I called an execution before a rifle round proved it a rescue. I called a reflex kill an answer because the alternative banner was worse. I sold nine deaths as nine fresh starts to someone who only got one beginning.
-
-“The bell is final,” I say. “The kill was there. The entrant didn’t take it.”
-
-That is all the picture can prove.
-
-The release passage opens after the weapon locks verify. Separate guard lights keep the entrant and Vesper a regulation pace apart. Workers enter the wreckage behind them before the last silver curtains fade. Tomorrow’s worlds are already coming through loading doors.
-
-Halfway down the passage, Vesper stops. Her microphone is still live.
-
-She raises both hands and removes the broken horned visor. The face underneath is younger than her advertisements permit, brown skin sweat-marked, mouth tight with exhaustion. Severed red fibers spill around her temples; green lights continue their steady count at her neck. Without the mask she looks neither harmless nor legendary. She looks back at the entrant.
-
-“For the record,” she says, “I didn’t laugh.”
-
-The entrant frowns, then looks toward the dead camera above them. “You did.”
-
-“I was choking.”
-
-“Same difference.”
-
-Vesper’s bare face gives her away. The laugh is small, wrecked, and unmistakable.
-
-The entrant hears it. This time, they keep it.
-
-My producer loads a new banner and waits for me to name what they are now. I leave the talk key dark.
+The rematch odds cover half the picture. Caro calls them, then calls Zindra’s straight trigger finger in the other half while Dax draws the circle cleanly this time.

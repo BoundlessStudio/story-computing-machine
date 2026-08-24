@@ -6,14 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Vesper | new | Story-local arena superstar retained through the reshape; no exact, alias, close-spelling, or confusing reuse found. |
+| Caro Blythe | new | Adult play-by-play broadcaster, also called `Caro`; no exact, alias, close-spelling, or confusing reuse. |
+| Dax Ulm | new | Adult color commentator, also called `Dax`; no exact, alias, close-spelling, or confusing reuse. |
+| Nash Harl | new | Adult deathmatch entrant, also called `Nash` and `Harl`; no exact, alias, close-spelling, or confusing reuse. |
+| Zindra Quell | new | Adult arena superstar, also called `Zindra` and `Quell`; no exact or alias reuse, and the close baseline form `Tamsin Quill` remains readily distinguishable. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Grand Halo | new | Story-local deathmatch arena, also called the Halo; no exact, alias, close-spelling, or confusing reuse found. |
-| Service 4 | new | Story-local maintenance pocket; no exact, alias, close-spelling, or confusing reuse found. |
+| Grandfall Arena | new | Televised deathmatch venue, also shortened to `Grandfall`; no exact, alias, close-spelling, or confusing reuse. |
 
 ## Continuity
 
@@ -28,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The RESHAPE preserves the match rules, lost-memory relationship, bounty choice, and release-passage payoff in substance while materially recasting the story as announcer-led live action; sustained profanity, explicit lethal impacts, and broadcast exploitation establish the requested R+ intensity.
+- Notes: The REBUILD selections are satisfied: a new booth-limited sportscast, image-guided arena-superstar design, uncensored but non-graphic R-rated treatment, and materially distinct challenge/no-contest resolution replace the prior prose and scene construction.
