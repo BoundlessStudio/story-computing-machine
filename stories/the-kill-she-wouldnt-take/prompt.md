@@ -20,21 +20,23 @@
 
 ## Rewrite request
 
-> re-write "The Kill She Wouldn't Take" to be more of announcer based POV - read on the action of the match; update the rating to R.&#x20;
+> remove "The Kill She Wouldn't Take" story and create a new outline based on the same prompt (tell from broadcasters POV, full sport caster energy, R rated) and use the image for the reference of the characters and settings.
 
 ## Rewrite reference images
 
-- None supplied for this rewrite.
+- `codex-clipboard-06ecc8fd-58e2-4c7f-9a18-f9be6c177355.png`
 
 ## Rewrite selections
 
-- Scope: RESHAPE
-- Outside named selections: KEEP
+- Scope: REBUILD
+- Outside named selections: FLEXIBLE
 - Keep exact: none specified
 - Keep in substance: none specified
-- Change or replace: Recast the full story into an announcer-based point of view that reads the live action of the match.
-- Change or replace: Update the tone and audience rating to R.
-- Remove: none specified
+- Change or replace: Tell the entire story from the live broadcasters' point of view, with their limited broadcast-facing access rather than the fighters' interiority.
+- Change or replace: Make sustained play-by-play and color commentary the narrative engine, delivering full sportscaster energy rather than occasional announcer framing.
+- Change or replace: Make the treatment R-rated through uncensored adult language, brutal but non-graphic deathmatch violence, and the broadcast industry's exploitative pressure, while preserving the prompt's emotional hesitation.
+- Change or replace: Use the supplied reference image as binding visual guidance for the arena superstar's recognizable character design and as nonbinding visual guidance for the televised arena setting.
+- Remove: Remove the current prose, scene construction, and narrative execution in full; do not preserve, paraphrase, or build the new outline from them.
 
 ## Rewrite constraints
 

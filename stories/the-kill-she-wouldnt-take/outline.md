@@ -2,49 +2,51 @@
 
 ## Story
 
-- Premise and central promise: In the closing fifteen minutes of the world’s largest televised deathmatch, its lead announcer calls an entrant’s repeated returns to superstar Vesper. She remembers every encounter; reconstruction erases theirs. Make the hesitation unfold live, ending with the bounty choice and a shared present.
-- Focal pressure or attachment: The announcer remembers every version the entrant lost while helping monetize them. The entrant wants Vesper’s bounty and freedom from furnace debt, but also wants to know why she remembers them. Vesper wants trust based on inaccessible history.
-- Counterforce or complication: Fighters, collapsing terrain, and the reset clock make contact lethal. The Grand Halo’s broadcast apparatus demands an instant sellable explanation. Vesper’s register is both the prize and the switch that would erase her accumulated memory.
-- POV, distance, and information limit: First-person present from the unnamed lead announcer, synchronized to play-by-play. The booth has selected cameras, statistics, replay, and captured audio—not thoughts. Dead zones stay opaque; the forty-character relay is knowable only when visible. Avoid sustained second-person interiority.
-- Governing movement and time shape: One continuous broadcast from respawn six to the bell. The field contracts from arena panorama to damaged cameras, service cut, and Service 4 while certainty becomes correction, uncertainty, then restraint. End on the release-passage feed.
-- Speculative rule or ordinary-world constraint: Eighteen seconds after a kill, entry-imprint reconstruction restores body and starting memory; pain is real, while statistics and one forty-character relay persist. Arena damage remains. Killing unbeaten Vesper would restore her without these encounters. The bell locks weapons. R intensity comes from strong language, felt deaths, vicious impacts, exploitation, and ethical ugliness, with non-graphic detail.
-- Dialogue promise: Propulsive sports commentary collides with badly timed recognition. Gallows humor, exhausted correction, commercial labels, and self-revision make communication abrasive and costly, not a polished identity debate.
-- Dialogic medium: Live call, talkback, arena audio, overlays, crowd, relay text, hand signals, missed coverage, and chosen dead air.
-- Dialogue engine: Vesper must persuade with memories only she owns; the entrant must test her before choosing the bounty; the announcer must interpret incomplete evidence under demands for certainty. Each attempt changes route, trust, leverage, or audience knowledge.
+- Premise and central promise: At Grandfall Arena, Caro Blythe and Dax Ulm call Nash Harl against superstar Zindra Quell. When Zindra corners Nash and stops, broadcast evidence reveals his next return is unverified; she refuses a permanent kill while the booth risks its one integrity challenge to stop the bout.
+- Focal pressure or attachment: Caro needs a definitive call protecting show and partnership; Dax needs words answerable to bodies, not graphics. Their pleasure in reversible violence fails when it may not reverse.
+- Counterforce or complication: A booth-only warning contradicts the public guarantee. Producer euphemisms, replay, resolution clock, crowd, and Nash’s trust all push him toward a permanent death while a false challenge would cost the booth its finals credentials and give him a worse restart.
+- POV, distance, and information limit: Objective third-person present, restricted to the booth. Arena facts arrive through selected monitors, graphics, crowd bleed, and delayed or raw feeds; no fighter minds or mics. Gestures remain inference until action, mandatory replay, and medical review confirm what the booth can responsibly call.
+- Governing movement and time shape: Twelve live minutes: walk-on hype, violent call, contradictory feeds, replay obstruction, hesitation, armed nonlethal resistance, booth challenge, mandatory review, compromised live spin. Keep narration embodied in the booth rather than transcript-form; the screened arena remains the climax.
+- Speculative rule or ordinary-world constraint: A fatal hit ends the bout and routes live body-memory capture to a cradle. A verified link rebuilds a healthy adult in eleven seconds with match memories and pain; nonfatal injury persists. An outward collar light and internal figure show link status, invisible to the wearer; red means no return. Nash returned earlier tonight, but after his link drops the network leaves public green. One booth integrity challenge can lock registered weapons for twelve seconds and force raw telemetry review; a false call costs credentials and grants center advantage. Treat returns as people; ontology stays unresolved.
+- Dialogue promise: Sustained, profane championship commentary stays fast, pleasurable, funny, fallible, and increasingly unsynchronized. Cohost rhythm collides with coercion and Zindra’s stance, aim, delay, and refusal.
+- Dialogic medium: On-air call; off-air mistakes; producer cues; conflicting graphics; replay; censored delay and raw monitor; crowd sound; gesture, silence, and failed fighter access.
+- Dialogue engine: Uncalled action threatens the show. Caro and Dax must distinguish what they see from what the producer certifies; Dax’s bodily read and Caro’s challenge call turn communication into a temporary weapon lock, medical knowledge, career risk, and a changed official result.
 
 ## Voice
 
-- Narrative texture: Present-tense play-by-play selects position, timing, sightlines, weapon state, pain, and replay corrections. Broadcast polish cracks without becoming transcript or omniscience; blind cameras leave blanks.
-- Conversational texture: The entrant jokes crudely when frightened, then asks bluntly. Vesper shifts from clipped commands to tired, incomplete explanation. Commercial booth talkback presses against ordinary confusion.
-- Rhetorical ownership: The announcer owns spatial synthesis, euphemism, and self-correction; the producer owns odds and impatient labels. The entrant owns deflection, suspicion, and misreading; Vesper owns remembered particulars, reluctant affection, and poor explanation.
-- Pressure behavior: Danger accelerates commentary but fragments Vesper. The entrant talks over fear and listens only after relay evidence accumulates. The producer fills ambiguity; the announcer gradually stops. Nobody gains eloquence on cue.
-- Relationship movement: Vesper wants continuity she cannot fairly request; the entrant wants proof and money but cannot ask her to mourn erased selves. The announcer wants viewer patience but can only change interpretive leverage by withholding a label.
-- Anti-default: Avoid instant moral diagnosis, articulate professionals solving identity, or crowd conversion. Keep errors, pettiness, missed audio, ugly commerce, physical confusion, and unresolved appetite active.
+- Narrative texture: Athletic present-tense verbs, monitor cuts, score pressure, then sensory drag when Zindra stops. Notice breath, armor, hands, framing, delay, and booth bodies; keep pain non-graphic.
+- Conversational texture: Layer exuberant call, filler stats, profanity, failed jokes, corrections, overlap, sponsor duties, and irritation. Mistakes survive; eloquence never arrives on cue.
+- Rhetorical ownership: Caro owns sequence, social authority, brittle humor, and evasive statistics. Dax owns bodily reading, vulgar analogy, disguised affection, and willingness to watch. The producer owns clipped euphemism and refuses listening. Zindra owns gesture and silence.
+- Pressure behavior: Caro accelerates, overnames, and obeys too long; Dax’s humor collapses into repeated observations. They interrupt before briefly coordinating. Feed cuts create frustrated, not polished, silence.
+- Relationship movement: Caro wants Dax to sustain the show but cannot ask him to certify a lie. Dax wants danger named but cannot ask her to burn both careers. His imperfect read and her challenge turn unequal risk into shared action; the producer immediately absorbs that action into a rematch market, so institutional power remains.
+- Anti-default: They are neither whistleblowers nor cool experts. They misread, enjoy, comply, swear, and act late; one life survives without crowd conversion, exposé, or reform.
 
 ## Beats
 
-1. Open at 15:08 after death six. The announcer remembers the entrant’s gate-opening bravado and every death; they have only statistics and a cryptic relay. Show Vesper’s white horned visor, red fiber-optic hair, green throat lights, segmented white armor, oversized firearm, and match wear.
-2. Call the run through wreckage to the causeway. Vesper recognizes a repeated joke and supplies a detail from a lost life, then kills the entrant to beat an attack from the flooded garden. Replay makes the announcer retract a tactical explanation.
-3. Let sponsor replay sanitize agony. The entrant returns knowing Vesper remembers. At the planter she recalls the loose-boot trick, directs them toward a service cut, and turns from the bounty target. The entrant attacks; her reflex kills them while producer and overlays impose labels.
-4. Broken coverage yields fragments in the maintenance pocket: Vesper cannot finish the question earlier selves asked; an opponent fires; she shields the entrant but fails. A camera catches enough of the dying entrant’s relay to establish that she is trying and must be heard.
-5. At 1:33, Vesper refuses a clean kill in Service 4, exposes her register, and pushes away her firearm. Her broken explanation establishes that her death would restore a Vesper without their history. Footsteps and producer demands prevent tidy debate.
-6. A competitor forces the choice. The entrant shoots past Vesper; they fight badly, misread directions, swear, collide with the weapon, and protect each other through action. The entrant spends the final shot on the opponent. The bell locks weapons; the bounty is forfeited.
-7. The broadcast splinters into strategy, romance, injury, and sponsor narratives; the crowd does not unite. In the release passage Vesper removes the visor, and an open microphone catches a worn dispute over a remembered joke. The entrant remembers; the announcer withholds a final label.
+1. Open at full volume. Seed the booth’s one costly integrity challenge, then establish Nash’s trust through his earlier death and rebuild. Caro sells an upset; Dax mocks her odds. Cameras worship Zindra’s red fiber-optic mohawk, white horned mask, segmented white armor, and oversized firearm. Other gear shares modular white plating and light accents without copying her.
+2. Zindra dominates while Nash sustains competitive call. Impacts, blood, pain, crowd mix, statistics, profanity, jokes, and producer pushes turn reversible harm into product without anatomical gore.
+3. Nash’s confidence figure drops and collar turns red; public graphics stay green. Caro trusts them. Dax sees a mismatch but initially misreads it. The producer marks it non-air and readies replay.
+4. Zindra corners Nash, sights the shot, notices his collar, and stops. The hosts sell showboating, then disagree as the pause becomes tactically absurd. Replay replaces live action while raw monitors retain the resolution clock.
+5. Nash advances under his guarantee. Zindra destroys his weapons without killing him, presents his collar to cameras that cut wide, and physically shields him from floor enforcement while remaining armed. Exploitative cues and clashing calls make the booth’s evidence and career risk inseparable.
+6. With permanent death seconds away, Dax supplies a bodily read rather than certainty and Caro invokes the integrity challenge. Registered weapons lock; mandatory replay shows the vanished private confidence, stale public green, red collar, and Zindra repeatedly taking her finger off the trigger. Medical review upholds the challenge.
+7. Both fighters remain alive under an official medical no-contest. The network immediately prices a rematch and orders premium spin; Caro and Dax stay live, call odds and telestrate Zindra’s trigger hand in the same frame. Stop on that compromised sportscast, without self-sacrifice, exposé, reform, crowd conversion, dead microphones, or thematic coda.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Vesper | new | Arena superstar retained from the story being reshaped; survivor of every current-match encounter and keeper of the entrant’s lost shared history. |
+| Caro Blythe | new | Adult play-by-play lead. |
+| Dax Ulm | new | Adult retired fighter and color analyst. |
+| Zindra Quell | new | Adult superstar using the supplied visual design. |
+| Nash Harl | new | Adult entrant trusting respawn. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Grand Halo | new | Retained deathmatch arena and broadcast venue; a persistent-damage course whose cameras, overlays, and service spaces control what the announcer can know. |
-| Service 4 | new | Retained maintenance pocket where hesitation becomes the final bounty choice. |
+| Grandfall Arena | new | World’s largest televised deathmatch venue. |
 
 ## Continuity
 
-- Canon used: Reconstructed people require a defined local mechanism, intact personhood, and ethical stakes. The supplied image controls Vesper’s recognizable identity and weapon-forward presence unless written authority conflicts.
-- Boundaries and unknowns: Grand Halo, Vesper, the entrant, and this respawn system remain story-local and non-canon. Do not decide whether reconstruction retrieves, copies, or continues a soul. The announcer cannot resolve the lost versions’ status, Vesper’s obligations, or audience belief.
+- Canon used: Digitally mediated reconstruction is possible, but local limits must preserve personhood and consequence. No connection to another era is required.
+- Boundaries and unknowns: Leave reconstruction’s relation to souls and afterlife unresolved. The reference binds Zindra’s red fiber-optic mohawk, white horned cybernetic mask, segmented white armor, and oversized futuristic firearm; it supports modular white gear and cyan/red neon atmosphere. Incidental markings are not facts; no second person appears. Use profanity, force, pain, blood, aftermath, and exploitation, but keep violence non-graphic.
