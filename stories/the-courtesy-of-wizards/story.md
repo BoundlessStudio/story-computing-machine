@@ -1,379 +1,369 @@
 ---
-title: "The Courtesy of Wizards"
+title: "The Seventh Borrowing"
 slug: "the-courtesy-of-wizards"
 created: 2026-08-23
 created-at: 2026-08-23T17:29:31-04:00
 canon: false
 ---
 
-# The Courtesy of Wizards
+# The Seventh Borrowing
 
-By dusk, Ysabet had packed the blue bowl three times.
+Velka woke because the rain was falling upward through her bed.
 
-First it had gone into the crate marked KEEP, because her grandmother had mixed pastry in it every winter and knocked the spoon twice against the rim. Then Ysabet had moved it to SELL, because memory was not a reason to transport chipped crockery across three counties. When she found herself wrapping it for KEEP again, she set it bare on the kitchen table and went to empty the hall desk instead.
+One drop struck her on the chin. A second rose through the mattress, passed between her shoulder blades, and burst against the underside of the quilt. The quilt was still there. The bed was not. Neither were the bedroom, the blue-tiled stove, the seven eastern windows, or the rest of the house.
 
-The house was nearly done. Cupboards stood open on pale, clean shapes where jars had been. The rugs were rolled. Every room had acquired the dry, accusing clarity of a place that would soon belong to someone who had never known Temmora.
+She lay in a heap of blankets on the bare foundation while dawn considered the horizon and decided, with offensive leisure, not to arrive yet.
 
-Someone knocked on the front door.
+At the far end of the foundation stood her front door.
 
-Not the neighbor, who used the kitchen entrance, and not the carter, who had promised morning. This was one measured knock, a pause of precisely the length required to become irritating, and then two more.
+The door was red, three hundred and twelve years old, and normally attached to a wall. It bowed.
 
-On the step stood a man in a dark plum cloak, with rain silvering his shoulders though the lane behind him was dry. He looked younger than Temmora had in Ysabet's earliest memories and exactly like the watercolor she had painted of him as a girl: narrow brown face, black hair tied at the nape, and an expression of mild anticipation, as if the world had been arranged for his amusement but was running a little late.
+"No," Velka said.
 
-He glanced past Ysabet at the open crates.
+Four brass-jointed legs snapped out from its lower edge. Demerin's blue spellwork flashed along the hinges, the stored force of his living hand hauling on every joint. The door had no more life in it than a thrown brick, though Demerin had taught it worse manners. It kicked a spray of gravel at her and ran.
 
-“You have put the blue bowl in the wrong category,” he said.
+Velka was after it before the quilt hit the ground.
 
-“Cantivet.”
+A card hung from the doorknob. She caught it as the door bounded over the garden wall.
 
-His smile widened. “She was flattering, I hope.”
+SEVENTH BORROWING, it read, in Demerin's stately black hand. ONE HOUSE, WITH CONTENTS. RECOVERY BY SUNRISE. DO TRY TO LOOK SURPRISED.
 
-“She was inconsistent.”
+Velka rubbed the card between two fingers. The pact answered in her bones: his power on the taking, hers on the road, both of them tangled in the old focus. Her house had not been destroyed. No living thing had been taken. Somewhere, every stolen room remained reachable by a continuous route. Those were the rules.
 
-“That sounds more like her.” He looked over Ysabet's shoulder again. “Where is Temmora?”
+Long life did not make wizards patient. It made them bored in more languages. Immense power merely allowed the boredom to acquire masonry and weather.
 
-There were gentle ways to tell strangers. Ysabet had spent four months learning them, and now possessed none.
+She could have brought the house back with half a thought and a rude gesture. She could also have signed a formal statement admitting defeat, which would have been less humiliating because paper burned.
 
-“Dead.”
+The red door reached the hill, put its brass legs together, and jumped through the air.
 
-Cantivet's smile remained, not from cruelty but from failure. The expression had been set for one answer, and he had no other ready. “No. This is the seventeenth year.”
+Velka stepped on the rain.
 
-“Both things can be true.”
+Each drop hardened beneath her bare foot. She ran upward on a silver staircase that assembled itself faster than weather had any right to manage, nightshirt flapping around her knees. The door landed at the top, opened, and showed her a sunny road climbing into a black thunderhead.
 
-“Not courteously.”
+"Your sense of proportion has not improved," she called.
 
-“She died in spring. I don't believe she scheduled it to inconvenience you.”
+Words appeared across the cloud in blue lightning.
 
-At that, his eyes finally returned to Ysabet's face. For a moment he seemed not young or old but stranded at a distance from which spring was still approaching. Then his gaze dropped to the keys in her hand.
+YOU KEPT MY WEST STAIRCASE FOR NINETY-THREE YEARS.
 
-He stepped forward.
+"It looked better on the coast."
 
-Ysabet did not move.
+The cloud struck at her.
 
-His boot stopped over the threshold. “Do you intend to keep me on the step?”
+Velka pinched the lightning out of the air, twisted it twice, and flung it down as a handrail. The rest of the storm followed, knitting rain and wind into a steep bright stair. It was a trick she had used in the Third Borrowing, when Demerin had hidden her winter in twelve green bottles and denied it while her courtyard fountain froze under a summer sun.
 
-“I intend to hear you ask.”
+She put one foot on the lowest step.
 
-“This house and I have survived six sovereigns, two roofs, an infestation of flour moths, and your grandmother's attempt to brew plum brandy.”
+The staircase turned over.
 
-“The step.”
+Velka fell through the thunderhead, past the fleeing door, and into an orchard whose trees grew roots-up from a white sky. She hit a pear tree at a speed that turned the pears to jam. One of the roots caught her nightshirt. She dangled over a bottomless blue morning, sticky from hair to ankles.
 
-He studied her with renewed interest, which was worse than annoyance. “May I come in?”
+The red door trotted along the underside of the orchard and paused to knock on itself.
 
-“For five minutes.”
+"You anticipated one thing," Velka told it.
 
-Cantivet entered as if she had granted him a province. The rain on his cloak vanished between one floorboard and the next. He went straight to the hall desk, though it had belonged to Temmora's parents and all its drawers looked alike. From within his sleeve he produced a round bone counter, its face cut with seven spokes, and set it on the bare top.
+The door knocked twice.
 
-“She has its mate,” he said.
+She flicked pear pulp off her nose. It became a flock of golden needles, each flying on the last push she gave it. They stitched the air into a taut sheet beneath her. Velka tore herself free, bounced off the sheet, and landed badly but upright.
 
-“Had.”
+A pear beside her bore a neat black inscription.
 
-“At our last courtesy, she promised to return it at our final one.”
+THIRD TURN REMEMBERED. LANDING UNIMPROVED.
 
-“Then she broke her promise.”
+Velka bit into the pear precisely where the final word had been. Demerin had spent a century studying her counters. The thought ought to have annoyed her.
 
-Cantivet touched the brass pull of the upper drawer. “Temmora never broke a promise if she could improve it instead.”
+It did. Mostly.
 
-He opened the drawer.
+The door ran.
 
-The desk receded from them with a polished wooden rush. A narrow corridor now stretched where six inches of stationery should have been, its papered walls lined with pens, sealing wax, and one petrified currant. At the same instant, the actual hall snapped short. The front door arrived just behind Ysabet's shoulder; the kitchen doorway stopped a pace beyond Cantivet.
+She chased it through the roots.
 
-Her stomach lurched. Her hand found the wall, which was solid, close, and still wore the faded stripe where Temmora's hatstand had stood.
+Beyond the orchard waited her west corridor, standing alone in a field of evening. The door fitted itself to the corridor's near end. When Velka crossed the threshold, the orchard snapped shut behind her, and the carpet rushed forward like a tongue.
 
-Cantivet leaned into the endless drawer. “Nothing.”
+Her rooms hung in a long chain through nowhere. The corridor opened into her breakfast room at half scale, then her attic turned sideways, then a tiled bath full of bottled weather. Doors, rugs, and ceiling beams connected them by narrow bridges. Everything belonged to her. Everything had been rearranged with Demerin's finicky sense of narrative.
 
-“Put the hall back.”
+The bottle marked LIGHT DRIZZLE exploded.
 
-“In a moment.” He shut the drawer. Its impossible depth disappeared, but the hall remained compressed. He opened the next one.
+A waterspout punched Velka through the breakfast-room doorway. She struck the tiny table with both shins and swore. Chairs clattered around her knees. The room had shrunk; she had not.
 
-“Your five minutes are diminishing.”
+From inside the sugar bowl came Demerin's voice, mellow with false concern. "You should sit down. Your house appears to be running away from you."
 
-“Time has not been altered.”
+Velka picked up the sugar bowl.
 
-“That wasn't reassurance.”
+"Careful," it said. "That is an heirloom."
 
-“No,” he said absently. “I find reassurance encourages people to repeat themselves.”
+"It was made last Tuesday."
 
-He searched every drawer and found two buttons, a bill for chimney work, and no second counter. Ysabet watched his hands. For someone capable of folding a corridor into a desk, he rummaged like anyone else. He turned over papers. He frowned beneath the furniture. He did not look through wood or summon lost things to his palm.
+"Tuesday has heirs."
 
-He swept the counter back into his sleeve.
+She crushed it in her fist.
 
-“Where did she hide what she stole?” he asked.
+The next doorway vanished.
 
-“From you?”
+"Petulance," said his voice from the broken porcelain, now less mellow, "has closed the approved route."
 
-“From anyone.”
+The Borrowing pulled sideways. To keep the recovery trail continuous, his spellwork shoved a new door into existence at the far end of the attic. The correction rattled through the rooms and up Velka's teeth. She smiled.
 
-“Places they had no right to search.”
+"There," Demerin said. "That smile. I knew you had one left."
 
-Cantivet glanced toward the kitchen. The doorway slid away from him as the hall recovered its length, overshot by several yards, and settled. “Then we will require tea.”
+Velka threw the porcelain into the bath. All twelve weather bottles burst at once.
 
-“We require nothing together.”
+Summer hail hammered the ceiling. A warm fog rolled along the tiles. Snow began falling upward, collided with sideways rain, and packed itself into furious white cubes. The bath tipped. Velka slid through it on her back, rode a wave over the rim, and landed in the sideways attic among six hundred years of things she had meant to throw away.
 
-But Ysabet followed him, because it was her house for eight more days and because she would not leave a wizard unattended among the crates. Also because the hall had become ordinary again so perfectly that the scuff by the skirting board had returned to its exact place. Being impressed by him felt like discovering a hole in her principles.
+A wooden sun from the First Borrowing spun on the rafters, lit by the last ember of power she'd put into it. Demerin had stolen every sunrise reflected in her windows and hidden them inside cheap toys. She had retaliated the next century by taking all the corners from his house. He had claimed not to mind, then spent forty years living in a building shaped like a boiled turnip.
 
-In the kitchen, Cantivet inspected the dresser while Ysabet filled the kettle. Temmora's stories had made him larger: a menace in moonlit orchards, a cheat at cards, a man who could turn a fortress gate to glass but once spent three days making every onion in the district taste faintly of pear. The man himself was opening flour tins.
+The attic's far door receded each time she approached it.
 
-“Those are empty,” Ysabet said.
+"You're repeating yourself," she said.
 
-“So was the desk.”
+Blue ink seeped across the slanted wall.
 
-“You improved it into a corridor.”
+IT HAS BEEN SIX HUNDRED YEARS. REPETITION IS NOW TRADITION.
 
-“Temporarily. I never alter Temmora's house beyond dawn unless she knowingly keeps the change.”
+Velka touched two fingers to the plaster. She did not blast it apart. Blasting was obvious. Instead she drew a small rectangle, added a handle, and opened her sketch.
 
-“That was your arrangement with her.”
+Behind it was the inside of the wall.
 
-His hand paused over the sugar tin.
+She stepped between the bricks, turned sideways, and walked through the narrow dark. Mortar combed her hair. At the outer layer she kicked once, hard, and sent a person-sized slab spinning into open sky.
 
-The kettle began to play a thin, cheerful dance tune. Across the room, Temmora's old music box screamed like escaping steam.
+The moment she damaged her own wall, the pact convulsed. Demerin's route, obliged to remain traversable, jerked after her. The shrinking door flew out of the attic and slammed into the hole she had made.
 
-Ysabet turned from one to the other. “Why?”
+Velka fell through before it could settle.
 
-“The kettle's whistle was tedious.”
+Her house was galloping across the sky.
 
-“And now?”
+It had no foundations now. Six tall chimneys struck the air in sequence, driving the rooms forward above a tract of empty country folded into pleats. Morning shone on one slope; midnight filled the next. Rivers poured over the creases and climbed the other side. Her red door hung from the house's lowest wall, kicking uselessly while Velka swung from its knob.
 
-“It is tedious in a different key.” Cantivet opened the sugar tin. “You see the improvement.”
+Demerin stood on the roof.
 
-The tune sped up as the water heated. Ysabet took the kettle off the hob before it reached a second verse. When she poured, both cups filled to the brim from one small stream, while the iron bucket by the stove gave a hollow glug and became somehow incapable of holding more than a thimbleful.
+He wore plum-colored robes, silver boots, and a crown of little chimneys that smoked in six contrary winds. His beard, black when the game began, was currently green and divided into three braids. This was either fashion or fallout. With Demerin, error often acquired buttons and declared itself ceremonial.
 
-“Stop using my tea to search.”
+"Velka!" He spread his arms. "Welcome to the culminating movement."
 
-“I am using the vessels.”
+She hauled herself onto the door's upper edge. "Your gutter is loose."
 
-“You're spilling on the table.”
+His left hand twitched toward it. He stopped himself. "A deliberate asymmetry. You are precisely on time."
 
-“Your grandmother would have laughed.”
+"I haven't owned a clock since you made them all recite your poetry."
 
-“My grandmother would have charged you for the tea.”
+"One poem."
 
-Cantivet looked at the spreading puddle, then at the blue bowl. “She used to strike the spoon twice on that rim.”
+"Four days long."
 
-Ysabet reached for a cloth. “Yes.”
+"It was an ambitious clock."
 
-“Always twice. Even when the spoon was clean.”
+The house leaped a crease in the world. Velka's feet flew out. She clung to the lintel; Demerin grabbed his crown with both hands and lost one silver boot.
 
-“Yes.”
+The boot tumbled into midnight. He watched it go.
 
-He seemed offended by the agreement. “It was an affectation.”
+"Deliberate?" Velka asked.
 
-“It was to shake off the batter.”
+"Nothing essential was in it."
 
-“It was an affectation with a domestic excuse.”
+He stamped once. The remaining boot spread sideways, divided with a wet pop, and fitted itself around both feet. One was now silver; the other was silver with toes at the heel.
 
-He spoke with the confidence of a man who had watched the same gesture for longer than Ysabet had been alive. The thought loosened something she had intended to keep tight.
+Velka looked at it.
 
-“How many times did you come here?” she asked.
+"Don't," he said.
 
-“Enough to know she would not hide a counter in sugar.”
+For one clean instant, surprise escaped her as laughter.
 
-“Not enough to stop looking.”
+Demerin's face changed. Not much. One corner of his mouth went up, and his next breath arrived too late.
 
-The music box shrieked again. Cantivet restored its tune with a flick of two fingers, though he let the kettle finish the melody. “The question lacks useful precision.”
+Then he remembered the performance. "As established in the Fourth and Sixth turns, you will enter through the principal—"
 
-Embarrassment, then. On him it wore very fine clothes.
+Velka said nothing.
 
-He proceeded to the parlor, where he exchanged the softness of two cushions with the hardness of the table and sat Ysabet down by mistake. Her knees struck what looked like faded velvet and behaved like oak. Cantivet apologized to the cushion, corrected the exchange, and began examining the rolled rugs.
+The house slowed.
 
-“Did the counter matter?” Ysabet asked.
+"—the principal recovery threshold."
 
-“All pieces matter within a game.”
+She swung beneath the door, caught a drainpipe, and began climbing. Her silence followed her like another piece of weather.
 
-“What game?”
+Demerin cleared his throat. "At which point you traditionally accuse me of excess."
 
-“An obsolete one. It lasted eleven days when played properly and several marriages when played badly.”
+The chimneys missed a step. Rooms banged together inside the house.
 
-“You don't want it to play with.”
+The route was waiting for her answer. Of course it was. He had built six centuries of her into the spell: every insult, counter, correction, and door she was supposed to choose. A perfect chase for a perfectly predictable opponent.
 
-He lifted one end of a rug. Its woven pattern flowed off it and climbed the wallpaper in orderly red vines, revealing nothing beneath but dust. “I dislike incomplete sets.”
+"You may substitute 'vulgarity,'" he offered. "I allowed for that."
 
-“You made the set incomplete.”
+Velka climbed past the second-story windows.
 
-“Temmora removed the piece.”
+"Or 'architectural self-praise.' Though that would be a phrase, not an accusation, strictly."
 
-“Why?”
+The house stopped.
 
-“I had won.”
+With no next response to pull it forward, the chimneys sank to their knees in the air. The folded continent began slowly unfolding beneath them.
 
-“Ah.”
+Demerin glanced at the roofline, then at Velka. "That is poor play."
 
-“Fairly.”
+She kept climbing.
 
-“Ah.”
+"Velka."
 
-The vines trembled. One sprouted a tiny woven pear.
+Nothing.
 
-Cantivet saw Ysabet looking and flattened the rug's pattern with unnecessary care. “She objected to my interpretation of a boundary line.”
+"You are enjoying this in an extremely cheap manner."
 
-“So she stole your piece.”
+He stepped to the gutter and knelt to repair the stalled route. The roof tiles peeled back under his fingers, revealing the blue-white knot of his working. He bent over it, muttering exceptions.
 
-“She retained material evidence pending appeal.”
+Velka snapped the drainpipe loose.
 
-Ysabet laughed before she could prevent it. Cantivet's expression brightened, and she resented that too.
+It sprang upright under the last force of her hand and flung her over the eaves. She hit Demerin across the shoulders. Both of them rolled down the roof, through a dormer window, and into her wardrobe.
 
-He turned the empty fireplace into the opening of Temmora's linen cupboard. Folded sheets sat where ash should have been. He pulled each stack out, and Ysabet made him fold it again when his first attempt produced corners of astonishing elegance and no relation to one another. Then came the sideboard, the umbrella crock, the cavities beneath the window seats. He made the parlor clock show the contents of locked boxes on its face, one object at each hour. He gave the curtains the transparency of glass and the windows the privacy of wool. Nothing woke, spoke, chose, or helped him. The house remained only matter under the attention of a man whose boredom could rearrange its purposes faster than Ysabet could complain.
+Coats burst outward. Demerin vanished under three centuries of sleeves. Velka came up wearing a military jacket she had stolen from him in the Fifth Borrowing and forgotten to return.
 
-For all that power, he needed her to say where to look next.
+"Thief," he said from beneath a fur collar.
 
-She led him to the workroom.
+"You put it in my house."
 
-Here the packing had stalled. Temmora's shears lay beside a square of black wool as if she had only gone downstairs for tea. Paper packets of needles filled one cabinet, and cards bearing scraps of thread recorded old repairs in Temmora's sharp hand. Ysabet had cleaned the room after the funeral but had not emptied it. Dust had returned lightly to the worktable, softening the marks where her grandmother's wrists used to rest.
+"Under protest."
 
-Cantivet did not enter at once.
+"You embroidered my initials in it."
 
-“Afraid of pins?” Ysabet asked.
+"As evidence."
 
-“I am wary of professions whose waste is designed to puncture the unwary.”
+The wardrobe offered seven exits, each door blazing with a different invitation. Her workroom door showed lamplight and the edge of her long black table. Demerin had made it the obvious route because for six centuries she had chosen the place where her tools were sharpest.
 
-“Stand still, then.”
+Velka opened the soot-black kitchen door instead.
 
-He stepped around a basket. Dust streaked the hem of his cloak. He brushed it off at once, and in lifting the heavy fabric exposed a narrow patch of plum silk that did not quite match the rest.
+Demerin stopped wrestling the coats. "That one isn't ready."
 
-Ysabet looked from the patch to the repair cards.
+She went through.
 
-Cantivet exchanged the contents of the thread cabinet with those of the button drawers. Hundreds of wooden, horn, bone, shell, and metal buttons slid into paper packets; skeins of thread packed themselves into shallow rows. He stared into both places, dissatisfied.
+The kitchen dropped her into a chimney.
 
-“That appears slower than looking normally,” Ysabet said.
+Soot filled her mouth and nose. Her bare feet hit hot iron, slipped, and sent her tumbling down the flue. She caught a ledge with one hand. Below, firelight breathed through a grate. Above, Demerin's alarm had become an untidy series of bangs.
 
-“It is considerably more interesting.”
+"You removed that door after the Second Borrowing!" he shouted.
 
-She found the card without searching for his name. Temmora had filed it under *Unpaid*, between a widow's winter coat and a christening gown never collected.
+"I put it back."
 
-Plum traveling cloak, left hem. Tear: owner stood too near his own weather. Payment refused on grounds of majesty. Blue chalk not worth saving.
+"When?"
 
-Pinned to the card was a single faded thread.
+Velka spat soot. "There was a Tuesday."
 
-Ysabet slid the card back before Cantivet turned. “She kept sentimental things upstairs.”
+She tore the grate free and dropped.
 
-“Temmora kept receipts upstairs.”
+She landed beneath Demerin's house.
 
-“Some of those too.”
+Its foundations hung overhead in an enormous chamber of open air. His cellars dangled upside down from black stone; beneath them, nested around them, room after room of Velka's stolen house spread in a hollow sphere. Stairways curved through the space. Windows looked inward. Her green drawing room floated past with a chandelier trailing behind it like a jellyfish.
 
-“Which room?”
+At the center sat Demerin's house, small as a jewel box and still somehow smug.
 
-“The back bedroom.”
+Between the two houses hung six objects on golden chains.
 
-She said it readily enough to make him suspicious, but suspicion and hope pulled in the same direction. He swept from the workroom. The stairs traded their destination with the pantry door: Cantivet opened a cupboard beneath the flour shelf and stepped out onto the upper landing. Ysabet refused. He had to restore the staircase before she followed, which cost him no more than a gesture and visibly cost him patience.
+The wooden sun from their first turn. The marble corner she had taken from him in the second. One of his weather bottles from the third, stoppered around a purple storm. A length of chimney from the fourth. The embroidered military coat's missing brass button from the fifth. The silver spoon that had started the Sixth Borrowing after Demerin claimed she would not notice it gone.
 
-In the back bedroom, Temmora's clothes still occupied one wardrobe. Ysabet had arranged for the charity shop to collect them in the morning. Cantivet went first to the hatboxes, found them empty, and looked under the bed.
+He had built a museum.
 
-“She once hid my left glove in a hatbox for a fortnight,” he said.
+The chase's bright taste vanished from Velka's mouth.
 
-Ysabet stared at him.
+Demerin dropped through the kitchen door and caught himself on a stairway. He had abandoned the crown. Soot striped his cheek, and the backward boot had come off entirely.
 
-“You could have made another.”
+"There," he said, breathless. "The full retrospective. Six turns answered, the seventh containing all—well, not containing, obviously. Enclosing. The spatial grammar is—"
 
-“That would have conceded the glove was lost.”
+"You rehearsed that."
 
-He opened the wardrobe and frowned at the dresses. “This is excessive. She had only one body.”
+"I refined it."
 
-“Some people change their clothes.”
+Her front steps glided toward them. The recovery route ended there, polished smooth, the brass bell waiting beneath her hand. One touch and the house would come apart from his, every room restored before sunrise. All she had to do was arrive where he had arranged for her to arrive.
 
-“Some people change the weather.”
+Demerin straightened. His robes were torn at one shoulder. He looked absurd, magnificent, and painfully hopeful.
 
-“And still own one cloak.”
+"Go on," he said.
 
-That struck. He lifted his chin and, with a careless turn of his wrist, exchanged the wardrobe's purpose with the bed's.
+Velka looked at the six trophies. Their game, pinned and labeled. Finished without the vulgarity of ending.
 
-The doors opened onto bare mattress ticking. Behind them lay pillow, quilt, and the shallow hollow Temmora's sleeping body had worn into the bed over forty years. On the bed itself, her dresses rose beneath the coverlet, skirts and sleeves stored in a long human-shaped mound. One cuff slipped out where a hand might have rested.
+She put her hands behind her back.
 
-Cantivet said, “There. Now she has made room for—”
+"You missed the spoon for eleven years," Demerin said.
 
-“Put it back.”
+"It was an ugly spoon."
 
-Perhaps he heard only the words. “I have barely begun.”
+"You interrogated three cupboards."
 
-Ysabet pulled the coverlet down. A brown dress collapsed across the mattress, empty from collar to hem.
+"They were evasive."
 
-“Put it back.”
+"And then you moved my mountain into the sea."
 
-This time he looked at her.
+"It was blocking my sunset."
 
-All evening he had mistaken restraint for participation. Irritation was how Temmora had played; a shut door had been a challenge; even death, announced plainly on the step, had become a hiding place he meant to search. Ysabet set the dress across her arms. Its cloth smelled of camphor, and under that, so faintly she might have supplied it herself, the lavender soap Temmora had bought in hard yellow bars.
+His grin arrived, but warily now. "Touch the step, Velka. You have reached the house. I have completed the seventh turn."
 
-Cantivet closed the wardrobe. The bed received its purpose again. He restored the clothes one by one, without making them fold themselves, and the ordinary slowness of it was the first apology he had offered.
+Completed. There it was again.
 
-“She said final,” he murmured.
+Velka regarded her house: the bedroom with its seven eastern windows, the bath still raining in several directions, the library whose books knew better than to speak, the kitchen door she had restored without telling him. She had built parts of it before Demerin grew his first beard. She loved the blue stove. She loved the western balcony. She loved, at that moment, none of it enough to do what he expected.
 
-“She also said courtesy.” Ysabet laid the dress on the bed. “You haven't shown me much.”
+"Keep it," she said.
 
-His face tightened. “I observed every boundary she ever required.”
+Demerin blinked. "What?"
 
-“She isn't here to require one.”
+"I accept the taking. The house is yours."
 
-The answer arrived in him and did not become speech. Downstairs, the kettle began the last three notes of its stolen tune, faltered, and went quiet.
+The pact rang.
 
-Cantivet looked toward the door. The house lengthened and settled around them. From below came a soft succession of corrections: drawers closing into their proper depths, crockery touching wood, the bucket taking back its capacity with a single iron knock. The curtains turned to cloth. The rug recovered its vines. He restored the whole house because Ysabet had stopped playing. The correction came without bargain or complaint.
+Every door in the hollow sphere slammed at once. The golden chains broke. Her ownership peeled from stone, timber, tile, spoon, bath, stove, and running red door in one tremendous silent shiver, and folded itself into Demerin's startled hands.
 
-When silence returned, she said, “You're the hiding place.”
+At sunrise, nothing would return.
 
-He glanced down at himself. “I assure you, this has never been true in any meaningful geographical sense.”
+His house, nested inside hers, was now locked inside his own enormous prize.
 
-“Your left hem.”
+"No," he said.
 
-His hand went to the mismatched patch. For the first time that evening, he looked alarmed.
+Velka smiled with all her teeth. "Poor play?"
 
-“She repaired it seventeen years ago,” Ysabet said. “After you stood too near your own weather.”
+"You cannot simply give away the objective."
 
-“That phrasing is prejudicial.”
+"I just did."
 
-“Take off the cloak.”
+"The seventh is supposed to resolve the preceding six."
 
-Cantivet went very still. Then he unfastened the silver clasp and laid the cloak on the restored bed. Without it, his fine black coat seemed oddly insufficient, like an argument missing its longest word.
+"It has. Your roof is inside your cellar."
 
-Ysabet fetched Temmora's small seam scissors from the workroom. Cantivet could have opened the stitches without touching them. She knew it; so did he. But he stood beside the bed while she eased four faded threads loose by hand. Temmora's repair held stubbornly. She had always sewn as if expecting cloth to survive its owner.
+"That is temporary."
 
-Something hard shifted under Ysabet's thumb.
+"Not anymore."
 
-The second bone counter fell onto the coverlet. With it came a worn nub of blue tailor's chalk. Cantivet caught the chalk before it rolled off the bed, leaving a bright mark across the black cuff of his coat.
+Demerin looked from the little house at the center to the vast sphere around it. He opened his mouth. Closed it. Opened it again.
 
-He did not brush it away.
+"I had a conclusion," he said.
 
-The counter had darkened against the lining over seventeen years. Cantivet took the one he had brought from his pocket and set them side by side. The seven spokes matched.
+"Yes. It was showing."
 
-“All that,” Ysabet said, “and you never checked your own coat.”
+Below the front steps, the Borrowing focus came loose from its hiding place: two flat rings of dark glass, interlinked, one carrying the pulse of Demerin's power and one carrying hers. It had enforced the limits, guarded every living body, and promised them reversal. Now it spun uselessly, full of six centuries of agreed restraint.
 
-“She knew I would not damage her work.”
+Velka snatched it from the air.
 
-He said it without grandeur. Ysabet understood then why Temmora had mended a wizard's cloak with thread that did not match: not because she lacked better silk, but because he would have to see her hand in it whenever he looked down. He had worn the patch for seventeen years. Temmora had trusted his vanity, his sentiment, or both.
+Demerin went still. "Don't be childish."
 
-Cantivet pressed his thumb into the chalk mark. “Seventeen years.”
+That was such an astonishing thing for him to say that she nearly dropped it.
 
-“A short time for you?”
+She hooked her fingers through both rings and pulled.
 
-He rubbed the blue dust between finger and thumb. “Not that short.”
+The focus broke.
 
-Ysabet went downstairs ahead of him. In the kitchen, the bucket held water, the music box played music, and tea had dried sticky on the table. The house was entirely restored, including its mess. She wrapped the blue bowl once more and placed it in KEEP.
+Dark glass burst into a hundred bright fragments. The safety of precedent vanished with it. So did the appointed day, the continuous route, the sunrise reversal, and every rule they had spent six hundred years finding ways not to break.
 
-At the gate, Cantivet fastened his cloak. Dusk had deepened into a cool blue that almost matched the chalk on his sleeve. He held one counter, turning it over between his fingers.
+For half a heartbeat, neither wizard moved.
 
-“You have the other,” he said.
+Then Velka caught the fragments in both hands and poured her power through them.
 
-Ysabet opened her hand. She had taken it from the bed while he was examining the chalk. It was not an elegant theft. Temmora would have called that camouflage.
+Each shard flared red, unfolded, and struck the air as a door. A hundred doors, none larger than a dinner plate, scattered through Demerin's newly acquired rooms. They snapped open. Carpets whipped through one. Windows went through another. His remaining silver boot shot past his ear and vanished behind a third.
 
-“Its set is incomplete,” Cantivet said.
+"Those are mine," he said.
 
-“So I've heard.”
+"Prove it."
 
-“What do you propose?”
+Velka ran through the nearest full-sized door as the hollow sphere began to turn. Behind her, Demerin made a noise she had not heard in three centuries: not a speech, not a ruling, but a delighted yelp.
 
-“Nothing yet.” She closed her fingers around the counter. “I am not taking my grandmother's place. I am not keeping her appointment. And you do not enter this house because I laughed at one of your mistakes.”
+The ceiling ahead became a floor. The floor became a flock of white stairs, each driven by a wild pulse from his outstretched hands. They crashed after her, shedding banisters. One bit through a wall. Another tripped over its own landing and took half the green drawing room with it.
 
-Cantivet's mouth opened on something polished. Whatever it was, he let it go.
+"I have not agreed to this turn!" Demerin shouted.
 
-“No,” he said.
+Velka vaulted a sideways window. "Catch me and object."
 
-The plainness of it reached her more surely than an apology.
+He laughed. The sound tore a blue seam from one end of the house to the other.
 
-Ysabet put one hand on the gate. “You may come back in winter. Once. You will knock. You will ask. I may send you away.”
-
-“And the counter?”
-
-“Depends whether you're interesting.”
-
-He looked offended, delighted, and—for the first time since she had opened the door—careful. “You have set a demanding condition.”
-
-“Live with it.”
-
-Cantivet glanced at the chalk on his sleeve. He could have lifted the mark as easily as he had lifted the hall's length. Instead he bowed to Ysabet, not to the keys at her waist or the woman she resembled, and walked down the lane wearing Temmora's blue.
+Beyond it waited no road, no prepared threshold, no graceful conclusion—only a black sea standing on edge, already falling toward them.

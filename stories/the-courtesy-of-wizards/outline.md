@@ -2,49 +2,50 @@
 
 ## Story
 
-- Premise and central promise: **The Courtesy of Wizards**. As Ysabet finishes clearing her late grandmother Temmora's house, ancient Cantivet arrives for the courtesy visit he and Temmora traded every seventeen years. Affronted that death might end their contest unanswered, he hunts for Temmora's promised final trick by turning the house playfully impossible. Deliver the delight, nuisance, and emotional asymmetry of fey-like wizard mischief, then let an ordinary trick expose what his performance is asking for.
-- Focal pressure or attachment: Ysabet wants her house and grief left out of a stranger's game, yet wants proof that Temmora's wizard stories described friendship rather than tolerated intrusion. Inheriting the keys must not make her Temmora's replacement.
-- Counterforce or complication: Cantivet rearranges a household more easily than he names attachment. His old courtesy translated irritation and affection into tricks, so he treats refusal as a move. Ysabet reads evasion as indifference; he reads resemblance as consent to continue.
-- POV, distance, and information limit: Close third past through Ysabet, alert to dust, mended cloth, room habits, and the indignity of being impressed. She cannot read Cantivet's age, limits, grief, or sincerity beyond his choices and lapses.
-- Governing movement and time shape: One evening crosses increasingly unusable rooms while each magical escalation uncovers smaller ordinary evidence. The hunt reverses when Ysabet realizes Quillon is the hiding place. Keep the turn private and social; end at the restored gate with future mischief chosen but unsettled.
-- Speculative rule or ordinary-world constraint: While present and attentive, Cantivet can exchange functions and sensible properties among nonliving household things; his living agency sustains every effect. Nothing awakens. His vast, effortless capacity is voluntarily bounded by his courtesy with Temmora: no changes to living bodies, minds, consent, or beyond the house, and reversal before dawn unless the host knowingly keeps one. This is his local art and chosen restraint, not universal wizard, invitation, contract, or name magic.
-- Dialogue promise: Comic, prickly negotiation between a grieving adult refusing recruitment by nostalgia and an ancient wizard whose polish collapses into pettiness, showing-off, bad guesses, and fascination. Mischief is a relationship language, but evasion is not automatically profound.
-- Dialogic medium: Speech braided with refusal, pointed hospitality, object placement, staged transformations, sewing evidence, and silence after Cantivet's failed attempts to charm or provoke.
-- Dialogue engine: Cantivet needs Ysabet's household knowledge; Ysabet needs him to distinguish remembered custom from present permission. Answers can become magical ammunition or evidence, so withholding and restoration repeatedly shift control.
+- Premise and central promise: **The Seventh Borrowing**. Once each century, powerful wizards Velka and Demerin steal from each other because ordinary marvels bore them. On the seventh turn, Demerin takes Velka's house and sends its front door running. Deliver an escalating prank chase driven by vanity and delight in being outplayed.
+- Focal pressure or attachment: Velka wants her house back without conceding, but more urgently wants proof that Demerin can still surprise her after six hundred years. She cannot admit how much their ridiculous rivalry matters.
+- Counterforce or complication: Demerin has built Velka's standard counters into the route. Either could overpower it but thereby lose. His need to script her reaction and her refusal keep changing victory.
+- POV, distance, and information limit: Close third past through Velka, tactile around moving thresholds and bad landings. She reads spellwork but not Demerin's intent, sees only the next doorway, and recalls old turns through biased triggers.
+- Governing movement and time shape: One dawn-to-dawn chase, with six previous turns embedded in present obstacles. Move from a bare foundation through folded country and displaced rooms to two houses nested in open air. End with a new prank in motion.
+- Speculative rule or ordinary-world constraint: Their jointly powered local pact lets the taker displace the other's nonliving property for one appointed day but requires a continuous, traversable recovery trail; it cannot take living bodies or involve unwilling outsiders. Spell-bearing constructs are not alive. Bypassing the trail forfeits. Theft reverses at sunrise unless accepted. Both can reshape matter, weather, scale, and distance, but cannot compel attention, amusement, or truth.
+- Dialogue promise: Rivals trade mock ceremony, petty corrections, bad-faith precedent, misdirection, and accidental delight. Keep their play socially uneven and untidy, never a competent diagnosis or polished relationship repair.
+- Dialogic medium: Speech, written challenges, destructive annotations, transformations as replies, deliberate silence, and doors opened or refused. Spellwork conveys intent without possessing voice or mind.
+- Dialogue engine: Velka needs Demerin to reveal the route; he needs her answers to advance his finale. Each response changes access or the rules' apparent meaning. Her unexpected silence eventually forces him to appear in person.
 
 ## Voice
 
-- Narrative texture: Dryly intimate and material. Pivot from spectacular alterations to dust, hems, and maintenance; Ysabet's reluctant wonder sharpens her judgment.
-- Conversational texture: Courtesy buckles into interruption, literalism, petty correction, and noncooperation. Keep mundane requests and jokes that fail for want of eighty years' context.
-- Rhetorical ownership: Cantivet owns grand comparison, misdirection, presumption, and admiration-seeking humor; embarrassment makes him overprecise. Ysabet owns domestic inference, blunt correction, skeptical humor, strategic misreading, and increasingly exact listening.
-- Pressure behavior: Ignored, Cantivet grows showier and childish, then inarticulate when implicated. Ysabet shifts from terse refusal to baiting his vanity, then withholds reassurance as leverage changes.
-- Relationship movement: Cantivet wants proof Temmora remembered him and hopes for a successor but cannot ask. Ysabet wants boundaries and proof of Temmora's regard without requesting sentiment. Intrusion becomes chosen, revocable curiosity.
-- Anti-default: Do not make them articulate experts solving enchanted architecture or secretly weaken Cantivet. Preserve unequal scale, mistakes, purposeless flourishes, and immense magic spent because boredom and affection make a small joke matter.
+- Narrative texture: Nimble close-third treats spectacular magic as familiar equipment and humiliation as emergency. Track workmanship, loopholes, bad landings, and the joke Velka nearly misses. Let wonder arrive through abrupt physical consequences, not lore.
+- Conversational texture: Mix mock solemnity with childish rule-lawyering, interruptions, century-old corrections, cheap jokes, failed taunts, and long refusals to answer.
+- Rhetorical ownership: Velka owns dry literalism, destructive editing, competitive silence, and humor that cheapens Demerin's premise. Demerin owns false courtesy, affectionate exaggeration, convenient precedent, and worsening explanations. She listens for traps; he mistakes restraint for admiration.
+- Pressure behavior: Anticipation makes Velka terse and physically rash. When his finale slips, Demerin talks too much, repeats rulings, and loses timing. Surprise sharpens both while reducing fluency.
+- Relationship movement: Velka wants an opponent who risks losing but cannot request continued companionship. Demerin wants proof she still chooses the game but cannot ask without spoiling it. Leverage passes from his script to her refusal; destroying the pact turns mutual attention into renewed commitment without verbal settlement.
+- Anti-default: Do not turn the chase into experts repairing magic, safe ornamental whimsy, or a disguised therapy session. Preserve vanity, disproportionate retaliation, embarrassment, genuine risk, bad explanations, and power used for indefensible fun.
 
 ## Beats
 
-1. At dusk, Cantivet arrives exactly seventeen years after his previous visit, scarcely older than Temmora's childhood descriptions. He treats the threshold as familiar; Ysabet makes him request entry.
-2. He produces one ordinary game piece and Temmora's old promise to return its mate at their final courtesy. His first flourish exchanges the hall's dimensions with a drawer: immense power used chiefly to resist dismissal.
-3. Through kitchen and parlor, Cantivet reshuffles functions after Ysabet's complaints and guesses, gaining no supernatural detection. His memory of Temmora complicates Ysabet's judgment while his delight in wrong rooms provokes her.
-4. In the workroom, sewing records, a mismatched old repair, and Cantivet's avoidance of dust near one cloak seam suggest a mundane answer. Ysabet misdirects the search to test whether he wants the object or the game.
-5. A bedroom joke mishandles Temmora's absence. Ysabet stops participating; Cantivet restores enough of the house to make refusal possible. She identifies him as the hiding place and withholds the location until he restores every room.
-6. The mate emerges from Temmora's seventeen-year-old cloak repair beside ordinary blue tailor's chalk, which stains Cantivet's finery. At the gate, Ysabet rejects automatic inheritance but makes a small countermove. He leaves visibly chalked despite being able to remove it.
+1. Before dawn, Velka finds a house-shaped absence. Her red front door bows, sprouts jointed legs, and runs. Restoring the house by force concedes; she pursues.
+2. The door climbs a storm-folded road and crosses a roots-up orchard. Demerin turns Velka's usual counter against her. An ugly landing proves he has studied six centuries of habits.
+3. Stolen rooms form a corridor baited with old pranks: bottled weather, doll-scale furniture, recurring collisions. Velka exits through a wall instead of solving the pattern; damaging her property forces a reroute.
+4. Demerin appears atop the fleeing house and frames this turn as their game's perfect completion. Velka hears rehearsed finality. She refuses the response his spell expects; the route stalls, forcing him to expose himself and shifting control of the ending.
+5. Rooms ride separate ribbons of road. Velka rejects the obvious workroom for a soot-black kitchen door, accepting embarrassment and poor position. It admits her beneath Demerin's house and disproves his model of her.
+6. In open air, his house sits inside hers among trophies from six turns. Demerin offers predictable recovery and seeks acknowledgment that his retrospective worked. Their argument exposes his scripted need for admiration and her practiced refusal.
+7. Velka accepts permanent loss of her house, making his recovery finale meaningless, then breaks the jointly powered Borrowing focus and catches its charged fragments. The safe rules end by choice; neither can rely on precedent or sunrise reversal.
+8. She turns the fragments into bright decoys and bolts through Demerin's unfolding rooms. He answers with extravagant, poorly controlled pursuit. Stop inside the first unscripted move: her house remains his inconvenient prize and neither knows what comes next.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Ysabet | new | Adult granddaughter and focal inheritor of Temmora's house. |
-| Temmora | new | Deceased grandmother whose final ordinary prank drives the visit; present only through effects and memory. |
-| Cantivet | new | Extremely long-lived wizard, Temmora's mischief partner, and maker of the local transformations. |
+| Velka | new | Focal wizard; no noun-history or authority collision found. |
+| Demerin | new | Velka's ancient rival; no noun-history or authority collision found. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | House, town, and region remain unnamed. |
+| None | none | No named place proposed. |
 
 ## Continuity
 
-- Canon used: Magic comes from living agency; nonliving objects may be shaped but do not become independent users. Systems and costs may be locally bounded; consent and personhood remain consequential.
-- Boundaries and unknowns: Do not make wizard or fey a universal species or behavior. Cantivet's age, longevity, wider capacity, and era remain open. Courtesy is voluntary relationship practice, not invitation law. Temmora's trick is mundane; no object is sentient or magical by itself.
+- Canon used: One deep-time world; magic is a cultural label for real systems; only life uses magic, while nonliving tools may carry supplied power. Use a new, unlocated high-magic era.
+- Boundaries and unknowns: The Borrowing is local, not universal contract, ownership, threshold, or language magic. Doors, cards, houses, roads, and decoys lack will and personhood. Exact ages, power sources, chronology, and other wizards' capacities remain unstated.

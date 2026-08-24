@@ -6,15 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Ysabet | new | Adult granddaughter and focal character; distinct from legacy Duchess Yselle Flint in form, sound, and role. |
-| Temmora | new | Deceased grandmother and Cantivet's former mischief partner; no exact, alias, close-spelling, or confusing reuse found. |
-| Cantivet | new | Long-lived wizard and Temmora's former mischief partner; no exact, alias, close-spelling, or confusing reuse found. |
+| Velka | new | No exact-name, alias, close-spelling, or confusing reuse found. |
+| Demerin | new | No exact-name, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing named place. |
+| None | none | No story-facing place proper nouns. |
 
 ## Continuity
 
@@ -29,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The wizard's fey-like longevity, power, boredom, and mischief drive a complete domestic contest whose restored boundaries and chosen future courtesy resolve the prompt without universalizing Cantivet's traits or magic.
+- Notes: The rebuild makes the wizards' longevity, immense power, boredom, and escalating mischief the story's active engine; the opening pressure, reversals, decisive abandonment of the house, and unscripted ending all grow from that promise. Velka's terse, destructive replies and Demerin's ceremonial over-explanation stay distinct, while the decisive and final exchanges change ownership, rules, leverage, and mutual commitment. The Borrowing remains a local, jointly powered focus, and its nonliving doors and objects store or shape supplied power without independent agency. The prior premise, cast, structure, dialogue, title, and ending are materially replaced as required by REBUILD.
