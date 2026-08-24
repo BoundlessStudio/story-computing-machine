@@ -665,3 +665,45 @@
      later enrollment, and this event's ordering relative to every other story
      remain unresolved. No crossover with another school, cold user, or power
      system is established.
+
+## Undated apartment rupture and two-tug repair
+
+- Status: LOCKED
+- Summary: During one Saturday in Miles Arden and Luz Navarro's unnamed
+  apartment, two shrinking-work cycles led from a minor repair and concealed
+  symptoms to a ruptured kitchen line, a jointly completed shutoff, and revised
+  safety terms.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: apartment valve incident
+- Notes:
+  1. During a fifteen-centimetre morning cycle, Luz repaired a jammed latch
+     inside a dry, unplugged countertop mixer, returned after eight minutes, and
+     showed a fine tremor. Later that morning, she and Miles found a corroded,
+     damp cold-water branch beneath the sink whose apartment stop did not fully
+     halt the drip; they stopped using the sink and postponed both repair and
+     argument.
+  2. Six hours after the morning cycle, Luz began a separate twelve-centimetre
+     cycle to reset a dry cabinet hinge pin. The corroded branch ruptured under
+     ordinary building pressure. Miles cut kitchen power, warned the unit below,
+     contained the flood, and called emergency maintenance; after he presented
+     the facts and his fear, Luz chose to enter the cabinet.
+  3. Luz cleared the hidden valve's clip and positioned a utility cord while
+     Miles supplied the full-sized pull. He honored each stop and slack signal.
+     After a slipped loop and worsening cold and tremor, Luz chose one final
+     attempt and directed two controlled pulls that closed the valve before the
+     twenty-three-minute alarm. Neither partner could complete the shutoff alone.
+  4. Miles lit and dried the exit rather than reaching blindly into the cabinet.
+     Luz left under her own power, requested his open hand as a bridge across the
+     final wet gap, reached the mat, and chose an early return. Its onset was
+     delayed by about ten seconds, but she returned over eight seconds before
+     the twenty-four-minute limit and accepted warmth, glucose, water, and a
+     chair.
+  5. After professional isolation of the branch, Miles apologized for his
+     unilateral veto and Luz disclosed tremors during three cycles. They wrote
+     revised terms together. Days later, after repair and under isolated
+     conditions, Luz chose another twelve-centimetre cycle and the couple
+     successfully tested an external valve pull using their two-tug signal.
+  6. The event's civil date, city, region, Galactic Cycle coordinate, ordering
+     relative to other stories, and relationship to another ability, emergency,
+     or plumbing system remain unresolved.

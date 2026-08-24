@@ -706,3 +706,16 @@
 - Aliases: `Water counted is fire denied`
 - Notes: The maxim expresses local inspection discipline; it is not a spell,
   oath, universal law, truth mechanism, or source of authority.
+
+## Two-tug rule
+
+- Status: LOCKED
+- Summary: The reader-facing label for Miles Arden and Luz Navarro's local cord
+  instruction in which two deliberate tugs direct Miles to pull steadily.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: `TWO TUGS: PULL STEADILY`; two-tug signal
+- Notes: One tug means stop and three mean give slack. The characters write the
+  two-tug instruction but do not use “two-tug rule” as an in-world noun phrase.
+  This is a local tactile convention using ordinary cord, not a universal
+  signal, spell, organization, technology, power, or character alias.

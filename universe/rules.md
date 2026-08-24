@@ -1189,3 +1189,92 @@
     category. Its origin, maximum output, full trigger range, recovery ceiling,
     and relationship to Marcus Bellweather's abyssal cold, Urumet's cold work,
     or any other cold system remain unresolved.
+
+## Luz Navarro's bounded shrinking ability
+
+- Status: LOCKED
+- Summary: Luz Navarro has a repeatable, self-directed living ability whose
+  observed cycles reduce her from 168 centimetres to twelve or fifteen
+  centimetres while preserving her adult identity and agency.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: Luz's shrinking ability
+- Notes:
+  - For an observed change, Luz plants both feet, chooses a target height, and
+    takes one controlled breath to a five-count; she then shrinks smoothly over
+    five seconds. Twelve centimetres is her practiced minimum. Luz initiates
+    and directs these observed cycles; Miles and the observed tools, radios,
+    timers, and plumbing cannot trigger them. No wider interference rule,
+    origin, taxonomy, or unobserved size range is established.
+  - Luz can choose an early return by announcing it and taking three slow
+    breaths. Once begun, the observed return to ordinary height takes about
+    eight seconds. Below half her ordinary height, her own living process begins
+    an automatic return at twenty-four minutes. The couple's twenty- and
+    twenty-three-minute timers only warn; Miles and the observed devices cannot
+    start, stop, cancel, or extend the return.
+  - Cold or low blood sugar can delay a chosen early return by as much as twenty
+    seconds but cannot extend the twenty-four-minute maximum. Beginning to
+    enlarge inside a space too narrow for her returning body can trap her.
+  - Across the observed cycles, Luz experiences hunger, tremor, loss of warmth,
+    and reduced precision. After returning she uses warmth, food or glucose,
+    fluids, and at least six hours of recovery before another safe cycle;
+    attempting one sooner risks an immediate uncontrolled return and a longer
+    recovery. These are Luz's local physical costs, not a universal price for
+    transformation.
+  - Luz's fitted work clothes change size with her. An ordinary battery radio
+    well below her observed 250-gram carry limit changed while held snugly under
+    her sleeve, and a screwdriver changed while held against bare skin. Loose
+    objects remain ordinary-sized, and objects picked up after she shrinks keep
+    their existing size. No behavior for other users, living passengers,
+    unobserved materials, or greater loads is established.
+  - At twelve centimetres, Luz's voice retains its familiar adult pitch but
+    barely carries one quiet metre and is overwhelmed by running water. At
+    twelve to fifteen centimetres she weighs little, can readily climb fixed
+    ribs and pipe braces, and can continue after an observed short shelf fall,
+    but lacks enough absolute leverage to turn a seized full-sized valve. A
+    draft can knock her down; moving cold water can drag, chill, or sweep her
+    into a gap. These observations establish no universal scale equation.
+  - This ability has no established relationship to refraction veils, dragon
+    guises, branch persons, divine forms, technology, artifacts, portals, or any
+    other transformation mechanism.
+
+## Miles and Luz's local shrinking-work practice
+
+- Status: LOCKED
+- Summary: Miles Arden and Luz Navarro use a jointly maintained household
+  practice for shrinking work that combines stated plans, passive safety tools,
+  requested assistance, symptom disclosure, and each partner's right to decline
+  their own participation.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Before an observed cycle, Luz states a target height and duration while the
+    couple checks fans, burner controls, taps, drain plugs, doors, and relevant
+    appliance power. They test two ordinary battery radios, place a bright
+    nonslip start-and-return mat, set independent twenty- and twenty-three-minute
+    warning timers, and open an emergency tray containing a flashlight, glucose
+    gel, utility cord, and dry towel ramp. These exact checks do not establish
+    that hidden building services such as the failed branch line are isolated.
+  - The radios are splash-resistant rather than soaking-proof. Their tactile
+    fallback uses one cord tug for stop, two for pull steadily, and three for
+    give slack. The radios, cord, timers, labels, mat, and tools are passive,
+    ordinary objects and neither control Luz's ability nor guarantee safety.
+  - Miles does not touch, lift, enclose, or carry Luz while she is small without
+    a direct request. When communication fails, he freezes or de-energizes known
+    hazards, preserves and lights an exit, and offers a reachable cord, dry
+    ramp, or still open hand rather than grabbing her. Luz chooses among the
+    offered routes and requests his hand when she wants it as a bridge.
+  - After a cycle, Miles and Luz record duration and symptoms together and pair
+    the record with food, fluids, and warmth. They treat it as shared evidence
+    for coordination, not permission that Miles grants.
+  - After the line rupture, they agreed that symptoms must be disclosed before
+    a cycle, bodily decisions remain Luz's, and either partner may decline their
+    own part in a plan. Luz chose not to shrink around live plumbing until they
+    had an accessible shutoff extension, waterproof communication, and a
+    verified dry route. With the branch repaired, the water isolated, and the
+    kitchen power off, they installed and successfully tested an external
+    cord-operated valve pull.
+  - This practice belongs only to Miles and Luz. It is not a universal consent,
+    rescue, plumbing, medical, legal, or transformation rule, and it gives
+    neither partner authority over the other's body or participation.
