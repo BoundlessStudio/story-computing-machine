@@ -8,396 +8,482 @@ canon: false
 
 # When the Needle Finds You
 
-The scream began at twelve-seventeen and lasted less than a second.
+**23:59:41 — CONTROL-ROOM MONITOR / RECORDING BEGINS**
 
-Salma Drey heard the room around it first. A relay clicked. A fan with a bad bearing dragged out a metallic tick. Someone inhaled too close to a dead microphone. Then the voice tore open, high and shocked, and fell into a wet cough.
+The first sound is the studio fan worrying its ruined bearing: *tick—drag, tick—drag*. Under it, a chair creaks. A gloved fingertip taps the turntable rim three times, each tap close and soft as a fingernail against a tooth.
 
-Across the console, the Crimson Jester did not move.
+SALMA DREY: Don’t touch it.
 
-He had dressed for the occasion: crimson coat over black vest, red felt hat, black hair straggling beneath it, wire glasses made dark by the studio lights. One black-gloved hand ringed the record on the turntable without touching it, thumb and forefinger almost making an eye. The other rested beside the fader. His grin had been painted wider at the corners tonight, or perhaps he was pulling it wider himself.
+THE CRIMSON JESTER: I am courting it.
 
-The city knew that grin. It had appeared on stolen billboards and in police composites, on shirts sold outside courthouse vigils, on every cheap receiver tuned after midnight to a frequency that officially belonged to weather balloons.
+SALMA: It doesn’t need encouragement.
 
-Salma knew the breath inside it.
+The record has no label. Its groove whispers beneath the raised needle. At 11:43 every night, a blank disc appears outside the locked station. One passage of the needle will yield the scream, confession, and final words of someone who will die before the following midnight, somewhere within reach of the pirate signal. Names and causes never come through. Voices do. The original will then smooth itself clean.
 
-The groove whispered on. The record had arrived blank-faced at 11:43, leaning against the locked studio door. It would permit one passage of one needle. By sunrise, copies of that passage would be everywhere. The original was already smoothing itself beneath the stylus, its black spiral closing like skin behind a cut.
+A switch snaps. The Jester’s breath leaves the monitor. When he speaks again, it comes through the broadcast compressor: warm, immense, a voice in a crimson coat.
 
-The confession came in pieces, each word pressed through pain.
+JESTER: Little mourners, lock your doors. Unplug the telephone. If someone you love is asleep beside you, put a hand over their mouth and make sure the breath still warms your palm. Midnight has come, and the needle is hungry.
 
-“She asked me not to play it. I heard her. I knew what it would do.” A stuttering breath. “I played it because I wanted them listening.”
+The record drops.
 
-Salma reached for the broadcast fader.
+Static. A relay clicks. The bad fan ticks. Someone inhales against a microphone so close that the capsule overloads.
 
-The Jester laid two black fingers across her wrist.
+Then the scream—high, male, shocked out of the body. It collapses into a wet cough and a series of choking attempts to pull air through pain.
 
-His public voice had velvet and razors in it. The voice on the record had neither.
+The Jester makes a small sound off-mic.
 
-“Salma,” it said. “Kill the red. Don’t let them hear me.”
+RECORDED VOICE: She asked me not to play it. I heard her. I knew what it would do.
 
-The needle ran onto smooth vinyl. Midnight’s audience received seven seconds of nothing before the Jester lifted his hand from Salma and leaned toward the microphone.
+The breath hitches. Somewhere in the future recording, something heavy strikes metal. The voice returns without its velvet.
 
-“Well,” he said, and the grin took possession of his voice, “tomorrow promises to be intimate.”
+RECORDED VOICE: I played it because I wanted them listening.
 
-Salma killed the feed.
+SALMA, farther from her microphone: Oh, fuck.
 
-The red ON AIR lamp remained lit.
+RECORDED VOICE: Salma. Kill the red. Don’t let them hear me.
 
-He looked at it. For the first time in the nine years she had known him, his timing failed.
+The needle reaches the center. Seven seconds of dead groove go out across the city.
 
-Then the lamp went dark, and the studio became only a hot room above a dead department store, full of cables, dust, and the animal stink of his fear.
+SALMA, close now: I’m dropping broadcast.
 
-“Take off the coat,” Salma said.
+JESTER: Wait.
 
-“I’m not having a cardiac event.”
+SALMA: Get your hand off me.
 
-“Then you won’t mind proving you can fit through the service hatch.”
+A fader slams. The carrier should close. Instead, the monitor gives a delayed copy of Salma’s last four words, thinner than the original. *Get your hand off me.* Then the red channel remains open.
 
-He removed one glove finger by finger. The hand beneath was shaking. “No one has ever escaped a record.”
+JESTER: Well.
 
-“No one has ever done what I told them.”
+He tries to put the smile back into the word. It breaks in the middle.
 
-“That cannot possibly be true.”
+JESTER: Tomorrow promises to be intimate.
 
-She pulled the cartridge from the turntable and snapped its needle against the console edge. It was theater; there was nothing left on the disc to play. The break still made him flinch.
+**00:01:08 — CARRIER LOSS / LOCAL TALKBACK**
 
-Every person on a midnight record had died before the next midnight, somewhere inside reach of the station’s signal. Salma had rerouted ambulances, bribed switchboard clerks, warned strangers, locked one terrified councilman in a bank vault with oxygen and two armed guards. The vault had stayed locked. At 9:06 the next evening, the councilman had choked on a piece of apple.
+SALMA: Coat off. Hat off. Freight stairs. East alley. Van.
 
-The records did not tell causes. They did not name their subjects. They gave a scream, a confession, final words, and the city supplied everything else.
+JESTER: I am not fleeing my own obituary in shirtsleeves.
 
-Salma used a clean phone to report a threat at the loading entrance, then hung up before the dispatcher could ask for her name. A patrol might circle the block for an hour. It was a thin measure, designed as much to preserve the station as to protect the man, and she knew it.
+SALMA: You’re not dying for ratings.
 
-“We go now,” Salma said. “Coat off. Hat off. Freight stairs, east alley, van.”
+JESTER: Everything dies for ratings. Marriages. Republics. Small dogs with unusual—
 
-He turned the dead record beneath one fingertip. “And deprive them of the only honest episode I’ve ever made?”
+SALMA: Take off the fucking coat.
 
-“You are not dying for ratings.”
+Leather whispers as one black glove is pulled free finger by finger. The studio fan keeps time while neither speaks.
 
-“Salma, everything dies for ratings. Marriages. Republics. Small dogs with unusual—”
+JESTER: No one has escaped a record.
 
-She slapped his hand away from the disc. “Off.”
+SALMA: No one has ever followed an instruction you didn’t give.
 
-The grin vanished so completely that the man behind it seemed younger and meaner. “If I run, they’ll say the record frightened me.”
+A sharp snap: Salma breaks the needle against the console, though the disc has already erased itself.
 
-“It frightened you.”
+JESTER, flinching audibly: Childish.
 
-“That is private.”
+SALMA: Four a.m. Streets empty. We move.
 
-Neither of them touched the console. The studio fan worried at its bad bearing.
+JESTER: That’s my producer.
 
-Salma looked at the dead microphone. Somewhere below, the building’s old heating pipes knocked three times. Through the headphones came a faint wash of static, then nothing. She should have taken his arm. She should have dragged him into the service hatch, left the station to repeaters and ghosts.
+SALMA: No. Your producer would already be cutting a teaser.
 
-Instead she said, “Four a.m. We move when the streets empty.”
+For twelve seconds there is only the fan and the shallow breath of a man trying not to sound frightened. Then the monitor dies.
 
-He put the glove back on. “I knew you’d see reason.”
+**03:58:12 — UNAUTHORIZED SIDEBAND / KETTLE TRANSMITTER**
 
-“I haven’t seen you in years.”
+A narrow signal wakes on the abandoned frequency.
 
-He reached for the hat, missed the brim, and tried again.
+JESTER, prerecorded: Our crimson hour continues at dawn. Call and tell me whether a man deserves to hear his own ending.
 
-At 3:58, Salma found his first betrayal of the day.
+The message repeats. During the third repetition, metal scrapes wood. A plastic shell hits the wall and bursts with a spit of sparks.
 
-The main board was cold. The antenna line she had cut lay visibly severed under her chair. Yet a narrow green tooth kept rising on the spectrum monitor, precisely where their signal should have been.
+SALMA: You soldered a transmitter into my kettle.
 
-She followed it behind a rack and found a cable no thicker than thread soldered into the talkback circuit. It fed a transmitter built inside an old electric kettle. The kettle had sat on the shelf for six months, and every time she complained that it leaked, he had offered to replace it.
+JESTER, live and uncompressed: I improved your kettle.
 
-His recorded show voice murmured from the monitor speaker.
+SALMA: You buried it in talkback. My circuit.
 
-“—our crimson hour continues at dawn. Call and tell me whether a man deserves to hear his own ending.”
+JESTER: Our circuit.
 
-Salma pulled the kettle down. The plastic bottom was warm.
+SALMA: They heard us after I cut the feed. They heard the room.
 
-The Jester stood in the doorway without his coat. In shirtsleeves he had narrow shoulders and a sweat-dark collar. He carried two paper cups.
+JESTER: They heard fear. That’s the merchandise.
 
-“You used my talkback,” she said.
+SALMA: Today it’s a fucking map.
 
-“I improved it.”
+Paper collapses in his hand. Liquid splashes the floor.
 
-She threw the kettle against the wall. It burst in sparks. He dropped one cup; bad coffee spread around his polished shoe.
+JESTER: That coffee was for you.
 
-“If they can hear you, they can hunt the carrier.”
+SALMA: Fuck your coffee.
 
-“They’ve been trying for a decade.”
+The receiver continues to replay their argument after they stop speaking. Because of a buffer error, the delayed version includes what the live channel omitted: the studio fan, a distant three-note freight chime whose last note buzzes low, and Salma saying, very quietly, *I should have left you the first night*.
 
-“Today one of them only has to succeed once.”
+JESTER: Did you say that just now?
 
-He stared at the dead kettle. “That was childish.”
+SALMA: I said it forty-three seconds ago. Kill the cache.
 
-“You put a transmitter in it.”
+JESTER: I can’t.
 
-“Also childish.” His mouth bent. Almost a smile, but too small to belong to the costume. “The coffee was for you.”
+The first telephone line rings before he finishes. Then a second. By the tenth, the tones have merged into one mechanical shriek.
 
-“Fuck your coffee.”
+**04:07:03 — CALL BANK / ROUTE UNKNOWN**
 
-At 4:07 the city began to call.
+CALLER 1: You sick fuck. You beautiful sick fuck. Play it again.
 
-He had opened the phone bank through the hidden route. Salma could disconnect the studio handset, but the calls would still queue on a server she had installed three buildings and two false leases ago. Their lights climbed one by one across the console: white, white, amber, white. Listeners eager to hear a condemned man joke. Listeners crying. Listeners screaming in imitation of the record and hanging up delighted with themselves.
+SALMA: No replay.
 
-At 6:30 he asked for one hour on air.
+CALLER 1: Nobody asked your fucking producer.
 
-At 6:31 Salma said no.
+JESTER: You heard the lady. No encore. Death is live theater.
 
-At 7:10 she caught him plugging a microphone directly into the emergency chain.
+CALLER 1: Then scream now. Give us something to compare.
 
-He held up both hands. “People are frightened.”
+The Jester disconnects. Three other callers are already screaming in imitation. One gargles water; another pounds meat against a counter and laughs when Salma curses him. The call lights multiply faster than she can close them.
 
-“Of your death?”
+**06:32:49 — EMERGENCY CHAIN / LIVE**
 
-“Of a world that has become tacky enough to kill me.”
+JESTER: Little mourners, your host remains disgustingly alive. My producer is beside me with a kill switch and the expression of a woman pricing industrial bleach.
 
-“They’re excited.”
+SALMA, talkback: No room details. No names. Ten minutes.
 
-“Many people make that mistake about fear.”
+Two taps against his microphone: understood.
 
-She should have broken the microphone. Instead she took the chair beside him and put her fingers on the kill switch.
+CALLER 2, crying: You played my brother last winter.
 
-The red lamp came on for the second time.
+The Jester waits. His silence has always been theatrical; this one is not. The caller drags breath through a blocked nose.
 
-“Little mourners,” the Jester said, luxuriant again, “you have heard the needle find your host. The day is young. My pulse is vigorous. My producer is making a face ordinarily seen on men discovering rats in a wedding cake.”
+JESTER: I remember him.
 
-Salma opened talkback. Only his headphones heard her. “No room details. No names. Ten minutes.”
+CALLER 2: You said he sounded brave.
 
-He tapped two fingers to his heart, their old signal for understood.
+JESTER: He did.
 
-The first caller sobbed too hard to speak. The Jester waited. Salma watched impatience tighten the skin beside his glasses, but he waited long enough for the caller to say, “You played my brother last winter.”
+CALLER 2: No. He sounded six. He was thirty-eight, and he called for our mother like he was six years old. Then cunts on the tram played it and laughed. Get that right before you die.
 
-The grin softened by a degree. “I remember.”
+The Jester’s inhale catches.
 
-“You said he sounded brave.”
+JESTER: I got it wrong.
 
-“He did.”
+CALLER 2: You made it wrong.
 
-“He wasn’t. He was calling for our mother.”
+The line closes.
 
-The Jester glanced at Salma. She made no signal.
+CALLER 3: How do we know it’s you on the record? Could be some sad bastard doing your voice.
 
-“Then I was wrong,” he said.
+JESTER: Sir, my sad bastards are union.
 
-The caller hung up. The skin beneath his painted grin had gone slack, and he covered it by taking the next call too quickly.
+The caller laughs, relieved to be given permission. He proposes a tiger. The Jester counters with a guillotine. The caller wants the tiger to work the guillotine. Their laughter becomes competitive and obscene, a pair of boys kicking something already dead. Salma cuts the line while Caller 3 is still begging for one more minute.
 
-“How do we know it was you?” a young voice demanded. “Could be some sad bastard doing an impression.”
+CALLER 4 says nothing.
 
-“Sir, my sad bastards are union.”
+Breathing, level and close. Behind it: two clear elevator notes and a third that fails in a low electric burr.
 
-The caller laughed. The Jester laughed with him. For thirty seconds they played at choosing the most theatrical possible death: guillotine, tiger, meteor shaped like a municipal clerk. Salma let it happen. The laughter was ugly and ordinary. When she cut the line, the caller was still saying wait.
+SALMA, talkback: Don’t react.
 
-The third caller said nothing.
+The Jester’s chair bangs the desk.
 
-Only breathing, level and close. Beneath it Salma heard a bell: two bright notes and a lower one that failed to ring cleanly.
+CALLER 4 plays another recording. It rides on a wash of sideband noise, the captured voice thin but unmistakably alive.
 
-She pulled one earcup aside. The building was silent. The caller had played the sound into the phone for them: the department store’s freight elevator, recorded close enough to catch the dying third note.
+WOMAN ON CAPTURE: Don’t air it. She’ll hear what I said and she’ll hear it with everybody. Please. I know what your show is. I’m asking you.
 
-The Jester heard it too. His gaze moved toward the floor.
+YOUNGER JESTER ON CAPTURE: A warning could save you.
 
-Salma hit mute.
+WOMAN: Don’t dress it up. You want the scream.
 
-The caller’s voice still came into the studio. A woman, older than Salma had expected. “Does the seventh-floor button still stick?”
+The capture stops.
 
-Salma dropped the master power switch. The board went black. Fans wound down. The red light died, but the caller’s last breath remained in the headphones for another half second.
+CALLER 4: Does the seventh-floor button still stick?
 
-In the new quiet, the Jester whispered, “She found us.”
+Salma drops the master bus. Most of the board goes dark. One channel remains, bleeding power from the hidden transmitter.
 
-“Who?”
+SALMA: Who’s on the line?
 
-He took off his glasses. Without them his eyes looked rubbed raw. “The first record.”
+JESTER: Her wife.
 
-Salma waited.
+SALMA: The woman on that tape—
 
-“Her wife was on it.” He wiped the lenses with the tail of his shirt. “Before the mythology. Before you.”
+JESTER: First record. Before the station had a name. Before you.
 
-The confession on tonight’s record moved through Salma again: *She asked me not to play it.*
+CALLER 4, still present through the unkillable sideband: Before the shirts. Before schoolchildren sang my wife dying at me in the street.
 
-“You spoke to the woman who died?”
+SALMA: How did you get this route?
 
-“She recognized her own voice from the teaser. She called. She said there were things her wife didn’t know.”
+CALLER 4: Your listeners. One heard the chime. One heard the fan. One used to deliver to the store downstairs. They’ve been helping all morning.
 
-“And you aired it.”
+From another leaking line, a man shouts, “Seventh floor!” Someone else yells that she should put the Jester on speaker when she shoots him. The widow disconnects, leaving a burst of feedback that swells until Salma tears off her headphones.
 
-“I thought warning people was the point.”
+SALMA: She asked you not to play it.
 
-Salma heard the polish forming and hated him for it. “No. Try again.”
+JESTER: I thought the warning was the point.
 
-His fingers worried at a loose screw in the glasses. “There were eighty-seven listeners when I played the teaser. There were twelve thousand by midnight. The phone board melted. I—” He stopped.
+SALMA: Try again.
 
-“You what?”
+JESTER: There were eighty-seven listeners for the teaser.
 
-“Wanted to hear how many.”
+SALMA: Again.
 
-The confession again, now stripped of prophecy. Not an occult compulsion. Not a host sacrificing himself for truth. A man in a room, watching numbers rise while a stranger begged.
+JESTER: Twelve thousand by midnight. The phone board melted. I watched the number climb.
 
-“Her wife heard the confession with everyone else,” he said. “It was about leaving her. She died before she could get home.”
+SALMA: And her wife heard the confession with them.
 
-Salma’s hand stayed on the dead switch. For years she had cleaned the signal until no siren, church bell, train horn, or power hum could betray them. She had rerouted hateful calls. She had made his cruelties sound like danger instead of appetite.
+JESTER: She was going to leave her. She died before she could get home.
 
-“I kept you safe,” she said.
+SALMA: So grief got a laugh track.
 
-He put his glasses on crooked. “Yes.”
+The bad fan ticks through a long failure of speech.
 
-“You let me think the police were the danger.”
+SALMA: I cleaned every signal. Shifted every route. I made you sound like danger when you were appetite.
 
-“Often they were.”
+JESTER: You kept us alive.
 
-“Not this morning.”
+SALMA: I kept you audible.
 
-He had no prepared answer. His failure to lie left her alone with how long she had declined to ask.
+For once, he does not correct her.
 
-At 9:00 Salma wiped the call server and told him they were leaving. He agreed.
+**09:12:20 — WATCHDOG CHANNEL / ELEVEN-MINUTE INTERVAL**
 
-At 9:12, a red lamp glowed behind a rack she had already stripped.
+A relay wakes behind the dead console. The midnight recording begins at double speed—half a scream, the first syllable of confession—before Salma pulls a cable and chokes it off.
 
-His hidden system was larger than the kettle. A watchdog buried in the emergency chain would restore the broadcast whenever the main feed stayed silent for eleven minutes. Worse, it had cached the midnight recording. At 11:50 that night, the recording would begin to loop from three rented transmitters across the city. She could not shut them down remotely without tracing each handshake through the station.
+SALMA: How many?
 
-“Insurance,” he said.
+JESTER: How many what?
 
-Salma turned on him with a fistful of warm cable. “You made your last words immortal.”
+SALMA: Mirrors.
 
-“I made the record impossible to suppress.”
+JESTER: Three transmitters.
 
-“It asked to be suppressed.”
+SALMA: When does the cache loop?
 
-His eyes went to the floor. “We don’t know what I meant.”
+JESTER: Eleven fifty.
 
-“You do.”
+SALMA: Jesus Christ.
 
-She could take him down the freight stairs now, disguise him, keep him moving until midnight. Or she could remain at the console and dismantle the loop before it gave every waiting listener another copy of his terror.
+JESTER: I made the records impossible to suppress.
 
-He had built the choice carefully enough to call it accident.
+SALMA: The record begged us to suppress it.
 
-“Go to the van,” she said.
+JESTER: We don’t know what I meant.
 
-“And you?”
+SALMA: Yes, we do. You built a machine to disobey dying people after you’re dead.
 
-“I’m killing the mirrors.”
+The next sound is cable ripped through a steel bracket. Salma is breathing hard.
 
-“Salma—”
+SALMA: Go to the van. Stay off every phone. I’ll kill the mirrors.
 
-“For once in your life, leave when somebody asks.”
+JESTER: I won’t leave you here with her.
 
-He gave her the hat. It was lighter than she expected, its brim dark with old sweat. Then he slipped into the service passage in his shirtsleeves and polished shoes, looking like a waiter fleeing a fire.
+SALMA: For once in your life, leave when somebody asks.
 
-By late evening, Salma had broken two transmitters away from the loop. The third kept waking under a new address. Every eleven minutes, the watchdog seized the carrier and played a burst of the morning show before she strangled it. Listeners used those bursts to triangulate. On the call server she could no longer erase, messages accumulated.
+Cloth brushes the talkback microphone. His hat lands on the desk, red felt over a hollow crown.
 
-At 10:42: *Seventh floor.*
+JESTER: You still have the emergency mic.
 
-At 11:03: *Red freight doors.*
+SALMA: Go.
 
-At 11:19: *I can hear your fan.*
+His polished shoes recede. A hatch shuts. Eleven minutes later, the watchdog seizes the carrier and broadcasts the sound of Salma crying once, angrily, before she can strangle the feed.
 
-At 11:40, someone cut the chain on the loading entrance.
+**18:24:01–23:39:58 — FRAGMENTED WATCHDOG BURSTS**
 
-The sound came up the elevator shaft, a bright metal clatter followed by one careful footstep. Salma shut down the spectrum monitor. The relay room went dim, its racks striped by city light passing through windows painted red years ago.
+Every eleven minutes the city receives between one and nine seconds.
 
-She texted the Jester: *Stay in van. Do not answer.*
+A screwdriver slips. Salma swears.
 
-His reply appeared at once.
+A transmitter address is read aloud, then abruptly lost.
 
-*You still have my hat.*
+The bad fan ticks.
 
-She typed *I know* and hated herself for sending it.
+Salma answers a call she believes is talkback: “Stay in the van.” It goes live. Callers repeat *the van, the van, the van* until the carrier closes.
 
-At 11:47 the ON AIR lamp came on.
+At 22:51, a woman says she can see a black vehicle from a roof. She gives two wrong streets and one correct sound: a church bell delayed by six seconds on the Jester’s portable receiver.
 
-The console was dead. The microphone before her was unplugged. Still, the lamp burned red.
+At 23:03, somebody reports red freight doors.
 
-From a battery radio on the shelf, the Crimson Jester said, “My persistent widow, you have climbed so far. It would be discourteous not to meet you.”
+At 23:19, a caller holds his phone beside several loading bays, inviting listeners to vote on which echo matches the midnight record.
 
-He was not in the van.
+At 23:40, a chain breaks below the station. The watchdog carries the metallic fall across the city.
 
-Salma ran.
+**23:46:13 — PORTABLE TRANSMITTER / LIVE**
 
-His voice led her through the dark sales floor beyond the studio, past headless mannequins and counters furred with dust. He had restored the third transmitter from a portable rig. The signal grew stronger as she neared the old alterations rooms.
+The Jester’s theme music returns, warped from a dying battery.
 
-“You wanted the man who broadcast her,” he told the caller and the city. “Not the engineer. Not the audience who made souvenirs. Here I am.”
+JESTER: My persistent widow, you have climbed so far. It would be discourteous not to meet you.
 
-“Shut up,” Salma said into talkback, but talkback was gone. He had made himself unable to hear her.
+SALMA, on local talkback: No. No, you asshole, stay in the van.
 
-The woman answered somewhere ahead, not through radio now but through the dark. “Take off the costume.”
+JESTER: The costume was lonely.
 
-The Jester stepped into the aisle between broken mirrors. Coat on again. Hatless. Wire glasses catching the transmitter’s red battery light. His grin looked painted on a corpse.
+Fabric moves at his lapel; the heavy crimson coat makes its own hush. His black gloves creak around the portable rig. Somewhere near him, a listener is whispering into an open call.
 
-“This is the costume,” he said.
+WHISPERING CALLER: I see him. Red coat, black vest, black gloves. Long black hair, wire glasses. Painted grin. No hat. He’s by the mirrors.
 
-“Take it off.”
+CALLER 5: Widow, two aisles left. He’s feeding back when he faces you.
 
-Salma saw the woman by the freight doors. Gray hair. Work boots. A pistol held in both hands, badly, the muzzle wandering with each breath.
+JESTER: You wanted the man who broadcast her. Not the engineer. Not the audience selling copies outside the courthouse. Here I am.
 
-The Jester looked toward Salma’s hiding place. He could not see her, but his pause was enough. The woman turned.
+WIDOW, distant but no longer on the phone: Take off the costume.
 
-He lunged for the gun.
+JESTER: This is the costume.
 
-The shot punched the room flat.
+The portable mic turns. Its feedback rises, dips, rises. Listeners call directions from what the noise tells them.
 
-His scream was exactly the record’s scream, but the sound around it was here at last: the portable rig’s relay, its bad fan dragging out the metallic tick, Salma’s own breath at the unplugged talkback pack clipped to her collar. He folded against the mirrored counter. The woman fired again and struck glass. Reflections burst around all three of them.
+CALLER 5: She’s behind you.
 
-Salma hit her low. The pistol skidded beneath a rack. The woman clawed Salma’s face, sobbing words without shape. Salma drove an elbow into her throat, got one knee under herself, and dragged the Jester by his coat through the relay-room door.
+CALLER 6: No, other side. Salma, say something so we can place the room.
 
-She slammed it and threw the bolt.
+SALMA remains silent.
 
-Outside, the woman struck the metal with both palms. “You played her begging! You made me hear it in taxis. At work. Children sang it at me.”
+Her talkback pack does not. It has buffered her first command. Eleven seconds late, from her hiding place, it whispers into the broadcast: *Stay in the van.*
 
-The Jester sagged against the racks. Blood ran through his fingers, black in the low light. The bullet had entered beneath his ribs. Each breath filled him less.
+The widow’s shoes stop.
 
-The red lamp above the disconnected microphone still burned. His portable transmitter had joined the watchdog chain; the live feed was coming from the mic pinned inside his lapel.
+CALLER 6: There. Right channel. She’s close.
 
-Salma tore it free.
+JESTER: Don’t look at her.
 
-For one instant the city heard cloth, his wet breath, her hand striking his chest. Then she crushed the mic beneath her heel.
+WIDOW: You brought her voice into my bed.
 
-The carrier remained open in dead air.
+JESTER: I know.
 
-“She asked me not to play it,” he said.
+WIDOW: You don’t get to say that like it helps.
 
-Not to an audience. Not in the sumptuous cadence. To Salma, because the locked door was bending inward and he was dying on a filthy floor and there was no longer enough breath for a mask.
+A glove slaps the portable microphone. His body rushes across the stereo field.
 
-“I heard her. I knew what it would do.” He swallowed, failed, tried again. “I played it because I wanted them listening.”
+The gunshot crushes every channel into white.
 
-Salma pressed both hands over the wound. Heat pushed between her fingers. “Save your air.”
+His scream returns exactly as the record promised: high, male, shocked. The mic hits the floor. A wet cough follows. Then glass bursts in a long, bright collapse, and the second shot is partly swallowed by feedback.
 
-“There isn’t any.”
+Salma hits the widow with a grunt and an impact that knocks breath from both women. The pistol skids audibly under metal. There is hair-pulling, a heel beating the floor, the widow sobbing words that clip beyond recognition. Salma’s mouth strikes something hard. When she breathes again, one tooth clicks loose against another.
 
-“Then steal some.” Her voice cracked into anger. “You’re good at stealing what belongs to dying people.”
+JESTER, farther away: Salma.
 
-His face tightened. She did not know if it was pain or agreement.
+SALMA: Crawl, you bastard. Crawl toward me.
 
-Outside, the woman had stopped hitting the door. The silence was worse. Salma pictured her searching the dark for the gun.
+His breath advances by inches. Each drag of the crimson coat across broken glass is answered by cheering callers.
 
-The watchdog clicked. Its display rolled toward 11:50. In three minutes it would begin the cached midnight record. The woman outside would hear her wife’s violation answered by another violation. The whole city would.
+CALLER 5: Louder. Put him closer to the mic.
 
-Salma could keep pressure on the wound or reach the rack.
+CALLER 1: Is that blood in his mouth? Ask him if he can taste it.
 
-The Jester lifted his bare hand and closed it around her wrist. Once, firmly. It was not one of their studio signals, but she understood it anyway.
+SALMA: Listen to yourselves.
 
-She let him go.
+CALLER 1: We are. That’s why we’re here.
 
-At the rack she ripped out one cable, then another. The carrier tone held. Wrong pair. She followed the red wire by touch behind the hot chassis while the relay door groaned.
+A door slams. A bolt drops. The widow strikes the other side with both palms.
 
-“Salma.”
+WIDOW: You played her begging. In taxis. At my work. Children sang it at me.
 
-She looked back.
+The Jester’s lapel mic is still live. His breath enters the city in damp, failing pulls. Salma presses cloth against the wound; the microphone catches the slick pressure of her hands and his involuntary cry.
 
-His glasses had slipped down his nose. Without the grin, without a microphone, he was only the frightened man who had hidden a transmitter in a kettle because silence felt like death before death came.
+The phone bank lights cannot be seen, but its queue tone rises in pitch as hundreds call at once.
 
-“Kill the red,” he said. “Don’t let them hear me.”
+**23:48:09 — RELAY ROOM / LAPEL MIC + CALL BANK BLEED**
 
-His hand opened on the floor.
+SALMA: Kill his channel.
 
-Salma found the wire and pulled until the connector tore skin from her palm.
+CALLER 7: Don’t you fucking dare.
 
-The red lamp went out.
+SALMA: This isn’t a vote.
 
-The city lost the carrier. The cached record died one second before its first groove would have played.
+CALLER 7: It always was.
 
-On the other side of the door, the woman found the pistol. The shot buckled metal beside Salma’s head. She took the broken connector, jammed it through the bolt housing, and twisted until it locked the mechanism crooked. Then she crawled back to him.
+JESTER: She asked me not to play it.
 
-No pulse answered her fingers. Blood glazed the little creases around his mouth. The corners were no longer smiling.
+The room behind his words matches the record now: relay click, bad fan, breath close against the capsule. Outside, the widow stops striking the door to listen.
 
-Sirens rose somewhere beyond the boarded windows. Perhaps a listener had traced them. Perhaps the woman had called them before climbing the stairs. Salma did not care which story the city would choose.
+JESTER: I heard her. I knew what it would do.
 
-The emergency microphone lay beside her, intact but disconnected. She picked it up because nine years of alarms had trained her hands. Its metal grille smelled of dust and his face paint.
+SALMA: Save your air.
 
-Across the dead frequency, thousands waited for her to explain the silence.
+JESTER: I played it because I wanted them listening.
 
-Salma put the microphone against her own mouth. Her breath touched the grille. Her thumb rested on a switch that could wake the final transmitter and give them the room: the woman weeping beyond the door, the sirens, the body cooling under Salma’s hand.
+The callers fall quiet. In that sudden space, the city can hear fluid catch in his throat.
 
-She bit down until she tasted blood.
+WIDOW, through the door: Say her name.
 
-She gave them nothing.
+The Jester tries. What emerges is air and a ruined consonant.
+
+WIDOW: You never knew it.
+
+SALMA: He doesn’t get to make this right for you.
+
+WIDOW: I didn’t come for right.
+
+The widow resumes beating the door. The frame groans.
+
+A relay clicks.
+
+SALMA: Watchdog’s awake. Two minutes to cache.
+
+JESTER: Keep pressure.
+
+SALMA: I can’t do both.
+
+CALLER 5: Let it play.
+
+CALLER 3, laughing again: Let him hear himself die while he dies.
+
+The Jester’s bare hand closes around Salma’s wrist. Skin, not glove. The pressure is weak but deliberate.
+
+JESTER: Salma. Kill the red.
+
+SALMA: If I leave this wound—
+
+JESTER: Don’t let them hear me.
+
+His grip opens.
+
+Her knees scrape the floor. Cables knock against rack doors. She pulls one.
+
+The carrier holds.
+
+She pulls another. The call bank vanishes, but the lapel mic remains. The city hears only the relay counting down, the widow’s shoulder hitting steel, and the Jester trying to breathe without making a sound for them.
+
+SALMA: Wrong pair.
+
+From the floor, his breath catches as if beginning her name. No word comes.
+
+SALMA: Don’t. Steal some air. You’re good at stealing what belongs to dying people.
+
+The line contains a small sound that could be pain or laughter. It ends in a choke.
+
+At 23:49:52, the cached record spins up. Its blank lead-in hisses.
+
+Salma follows a hot cable behind the chassis. Metal burns her palm; she curses and keeps pulling. The connector tears free with a hard electrical pop.
+
+The cache dies before the needle reaches its first sound.
+
+The red channel goes dark.
+
+**23:50:01 — LOCAL EMERGENCY RECORDER / NO CARRIER**
+
+The Jester is still audible to the room.
+
+One breath.
+
+Then another, smaller.
+
+His glasses scrape the floor when his head turns toward Salma’s crawling approach. His bare fingers catch briefly in her torn sleeve, then slide free. The last breath leaves without a word and does not return.
+
+Outside, the widow finds the pistol. A shot caves the door inward beside the recorder. Salma jams the torn connector through the bolt housing and twists until the mechanism locks crooked. Sirens approach beneath the widow’s grief, then drown it.
+
+**23:57:36 — EMERGENCY MICROPHONE / TRANSMITTER AVAILABLE**
+
+The microphone wakes locally when Salma lifts it. Its grille rasps against her split lip. Her breath shakes through the speakers in the room.
+
+Beyond the locked door, the widow asks, “Is he dead?”
+
+Salma says nothing.
+
+“I need to know.”
+
+Salma’s thumb rests on the switch that could wake the final transmitter. If she presses it, the city will receive everything it has demanded: the widow weeping on the floor, sirens climbing the freight shaft, Salma’s hurt breath, the body cooling close enough to touch. She could accuse the listeners. She could explain the first woman. She could make the Jester’s death mean whatever kept them tuned in through the advertisements that would bloom around it by morning.
+
+The dead frequency waits.
+
+The widow asks again, smaller, no longer a threat and not yet a plea.
+
+Salma lowers the microphone. She answers the woman through the door, too softly for any recorder to preserve.
+
+At midnight, she lets the transmitter wake to an empty input.
+
+For eleven minutes the city receives the most deliberate dead air it has ever heard.
