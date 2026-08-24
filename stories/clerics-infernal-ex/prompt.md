@@ -16,6 +16,10 @@
 >
 > The former relationship must materially cause both danger and solution rather than serve as a punchline. Do not treat Bosk’s sexuality as the joke, equate infernal nature with irredeemable personhood, divide fault falsely, restore the romance, or resolve the conflict through consequence-free killing. Emet and Lacrixa were consenting adults. Aim for 2,500–4,000 words and a Teen / PG-13 audience.
 
+## Cover direction
+
+> keep the cover image the same as the preivous some (as much as posible) i really like;
+
 ## Reference images
 
 - None supplied.
