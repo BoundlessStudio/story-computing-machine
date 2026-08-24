@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Kelmor | new | Adult saint and Oriane's beloved; no exact, alias, close-spelling, or confusing reuse found. |
-| Oriane | new | Adult demon and Kelmor's beloved; no exact, alias, close-spelling, or confusing reuse found. |
+| Sennara | new | Adult focal saint; the intimate shortening `Sen` is distinct from the legacy full name `Ilya Sen` and creates no confusing recurrence. |
+| Iverax | new | Adult person-like demon and Sennara's lover; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper noun appears. |
+| Salt Crucible | new | Story-local salt basin, also shortened to `the Crucible`; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The seven-visit romance and simultaneous final choices fulfill the prompt; the underfire and eclipse rules remain story-local and causally consistent.
+- Notes: The REBUILD materially replaces the prior prose and fulfills the amended R-rated adult love-story request through consent-forward non-explicit intimacy, adult language, consequential non-graphic violence, and a resolved beloved-versus-world choice.

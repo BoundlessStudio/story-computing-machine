@@ -8,350 +8,404 @@ canon: false
 
 # The Beloved World
 
-On the seventh year, Kelmor arrived late enough that Oriane had set only one bowl on the table.
+By midnight the Salt Crucible had skinned both of Sennara's boots white. Salt furred the seams, worked through the leather, and worried the old scar under her left heel. Iverax walked barefoot ahead of her. Each step melted a dark print in the crust, and each print hardened into glass before she reached it.
 
-The second bowl waited upside down on the shelf. Its blue rim showed through the darkening room like the last clean edge of the sun.
+"Slow down," she said.
 
-"You said before noon," she told him.
+He looked over one shoulder. His horns swept back close to his skull, black against the starless bowl of sky. "You said that last night, and then you objected when I did."
 
-"It is before noon."
+"That was in bed."
 
-"Saints must have a private noon. Convenient."
+"My mistake. I thought you admired consistency."
 
-He shut the door against a wind that smelled of iron. The latch caught neatly. After six years of his repairs, the door still sagged on its bottom hinge, but Oriane had learned exactly how much to lift it with her hip. He had offered to plane the swollen wood last autumn. She had forbidden him to improve the only thing in the house that still behaved reliably.
+"I admire breakfast. Give me the pear."
 
-Now he kept one hand on the latch, as if he might leave. Over his shoulder, the eclipse had begun its seventh passage. The fields lay in the bruised light that came before a storm, though there was not a cloud anywhere.
+He tossed it. She caught the strip of dried fruit one-handed, chewed twice, and spat out a grain of salt. Under her coat, the ash-silver knife knocked against her spine. The binding around her ribs tightened with every mile toward the fissure, a wire pulled through flesh by the approaching dawn.
 
-"There was trouble on the south road," he said. "A wagon overturned."
+Iverax watched her swallow. He had been watching her all night: her breathing, her limp, the hand she kept away from the knife. Heat showed faintly through the seams of his chest, not light exactly, but a red suggestion beneath brown skin. The worldfire inside him knew morning was close.
 
-"And if you hadn't stopped, the world would have ended with bruised cabbages."
+"How long?" he asked.
 
-"A boy was pinned under the axle."
+"Three hours."
 
-Oriane looked at his mud-stiff knees, his scraped palms. "Is he alive?"
+"You said three hours an hour ago."
 
-"Yes."
+"Then stop asking questions you hate the answers to."
 
-"Then I forgive the cabbages."
+He smiled. It was the smile that had once made her put a dagger to his throat and, much later, made her drag him naked across a rented room by his belt. Too much tooth. No apology in it.
 
-He almost smiled. The almost was worse than solemnity. She turned from him and took the second bowl down.
+"We could turn around," he said.
 
-Heat traveled ahead of her fingers. It lived beneath her skin now, brightening the fine creases of her knuckles, and the bowl warmed in her grasp. On the first eclipse she had needed to cup a kettle for ten minutes to make it steam. This morning the wash water had hissed when she put her hands into it.
+"No."
 
-His gaze stopped on her hand. He had always noticed everything he would have to kill.
+"There is an inn six days north. The owner cheats at cards and puts rosemary in everything. You threatened to break his fingers."
 
-"Eat," she said.
+"He pinched my ass."
 
-"Oriane."
+"I broke his fingers. You threatened his knees."
 
-"You can murder me hungry if that makes it holier. I won't."
+"Fond memories."
 
-He crossed the room and sat.
+"We could make more."
 
-Six years earlier, at the first eclipse, the door had refused to admit him.
+The words were light; the space after them was not. Sennara looked past him to the center of the basin, where a hairline blackness divided the salt. At black dawn that fissure would open. She would put ash-silver through Iverax's heart at the one instant his death could pour the worldfire harmlessly into the deep earth. The binding would follow it out of her, taking her blood, her breath, and whatever the priests had mistaken for a soul.
 
-Oriane watched through the front window while the appointed savior knocked, tried the latch, knocked again, and finally put his shoulder to the wood. He was younger than she had expected. Not young, exactly, but too young for the gray cloak and the careful mouth. The people who had sent him had called him a saint so often that she had imagined someone polished smooth by other people's faith. They called her a demon with equal certainty, though she had not yet chosen anything.
+Kill him sooner, and the fire would escape without direction. Fail to kill him at dawn, and it would consume him from within and cross the world looking for fuel.
 
-She opened the door just as he leaned in. He stumbled across the threshold and caught himself on the wall.
+There had never been a version in which both of them lived.
 
-"Excellent entrance," she said.
+"Walk," she said.
 
-He straightened. "The hinge is damaged."
+His smile went away. He walked.
 
-"And here I thought it was testing your character."
+* * *
 
-He had come to inspect her for signs of the underfire. The eclipse was no more than a dark bite from the sun then. He carried measuring threads in a wooden case, a brass lens, and a blade he never touched. None of them held magic. Tools could weigh the heat, show its direction, and tell him when the breach above the sun widened, but the two necessary acts belonged to living bodies: her will to send the fire down, his will to send it up.
+They had met when Sennara was thirty-six and still believed demons smelled of grave dirt.
 
-He explained this while she made tea, though she already knew it. At the seventh totality, the underfire would open through her. If he stopped her heart before she rooted it, the fire would cross into his body, pass skyward, and seal the breach. It would kill them both. If she first chose one living person and made a path to the ground, that person would be spared. She would die. The rooted fire would burn outward beyond recall, even if Kelmor took the rest of it into the sky.
+Iverax, already a century old, smelled of rain, blood, and the orange he had been eating when she kicked down his door. He was sitting on a table in an abandoned tollhouse with his shirt open and his boots in his lap. Her blessed sword touched the hollow beneath his jaw before the door struck the wall.
 
-If neither acted, the open breach would consume the world by another route.
+"Sennara," he said around a mouthful. "Your portraits are unfairly grim."
 
-The rules had been tested in ash, old records, and smaller wounds in the sky. No one had found a third path.
+"Your wanted notices leave out the horns."
 
-"How many people?" Oriane asked.
+"Artists struggle with majesty."
 
-"All of them."
+She had expected pleading or violence. The stupid flirtation delayed her by half a heartbeat, long enough for her sword to warm in her grip. Not from his skin. From something behind it, vast and waking.
 
-"I mean how many have you met?"
+"If you kill me now," he said, and for the first time there was no smile, "you kill everyone between here and the eastern sea."
 
-He paused with the cup halfway to his mouth. "That isn't a useful measure."
+She pressed the blade until blood welled. "Convenient."
 
-"No. It's a question."
+"Do it, then. We can be wrong together for a very short time."
 
-He put the cup down. "A great many."
+That was how her own hunters found them: saint and demon glaring at each other, neither willing to make the first fatal mistake. Her brothers loosed their crossbows without listening. Sennara knocked the first bolt aside. The second hit her high in the back, punched through her mail, and opened its silver hooks inside her shoulder.
 
-"Charming people?"
+Iverax could have fled. Instead he burned the crossbow strings out of the hunters' hands, caught Sennara before her knees struck the floor, and carried her down into the tollhouse cellar while blessed arrows shattered stone around them.
 
-"Some."
+"Don't touch it," she gasped when his fingers found the bolt.
 
-"Any terrible cooks?"
+"Excellent. I was afraid you might ask for help."
 
-He glanced into his tea. She had burned it, which ought not to have been possible. "At least one."
+"The hooks turn when you pull."
 
-That was the first time she made him smile. She disliked him for it at once.
+"I know what a barb is."
 
-He returned at the second eclipse with a new iron hinge wrapped in cloth.
+"You don't know this one."
 
-Kelmor had not been required to return. The brass lens could have gone to a local observer, and his presence changed nothing until the seventh shadow. Yet all winter he had remembered the burnt tea and Oriane's face when he told her that both of them would die. Not fear. Not relief. Appraisal, as if he were a coat someone had assured her would fit.
+"Then explain it, you infuriating woman."
 
-The new hinge was the wrong size.
+The cellar door jumped in its frame. Dust sifted over his hair. She told him where to cut, when to twist, when to stop. His hands shook only once, when the barb scraped bone. Hers shook constantly. She bit down on the leather belt he gave her and screamed anyway.
 
-"Did you measure anything during your inspection?" she asked.
+When it was out, he held the bloody device between two claws.
 
-"Your door was not my central concern."
+"Holy," he said.
 
-"You brought a box of thread."
+"Supposedly."
 
-"The thread measured heat."
+"Your friends seem lovely."
 
-"And measuring a hinge requires some forbidden, deadlier art."
+"They're not my friends."
 
-She made him hold the door while she packed the old screw holes with slivers of wood. The underfire turned the iron hot when she touched it. Kelmor wrapped his end in the cloth, and they fitted the hinge crooked between them.
+She took the bolt from him and broke it against the floor.
 
-Afterward she served him stew. She had over-salted it, but he ate two bowls because beyond her house a woman who mended fishing nets had once fed him the same kind of stew after a flood. He told Oriane about the woman's three-legged dog, which stole wet cord and buried it under her bed. He told her about a baker who gave away yesterday's loaves and cheated at dice, and the twins in the western hills who switched coats whenever a tax clerk visited.
+Something in his face changed then. Not forgiveness. They had done nothing yet that could be forgiven. It was recognition, mean and reluctant: she could reject her own kind; he could stay when flight was sensible. The old words, saint and demon, had failed to finish either of them.
 
-"You keep these people ready," Oriane said. "Do you practice?"
+It was not love. It was barely a truce. But when he helped her stand, his arm around her waist felt less like capture than the first dangerous answer to a question she had not meant to ask.
 
-"Practice what?"
+* * *
 
-"Unpacking the world on my table whenever I forget to feel guilty."
+The wind rose across the Crucible and drove salt against Sennara's mouth. Iverax stopped beside a cut in the basin where black rock showed through. He held out his hand.
 
-He set down his spoon. "You asked whom I had met."
+"What?"
 
-"Last year."
+"Your foot."
 
-"I needed time to answer."
+"Still attached."
 
-She laughed, then tried to hide it by reaching for the salt. Her fingers brushed his. The spoon in his bowl grew too hot to touch.
+"Bleeding."
 
-Kelmor jerked his hand away.
+She glanced down. Red had soaked through the split seam at her heel. "It'll last."
 
-Oriane did too. "That wasn't deliberate."
+"I wasn't asking about the fucking boot. Sit."
 
-It was the first thing she had said that sounded like an apology. He believed her, which frightened them both.
+She sat because he was right, which remained one of the least attractive things about him. Iverax crouched and lifted her foot onto his thigh. His palms were fever-hot. He unlaced the boot with the concentration of a man defusing a bomb, then swore at the raw crescent in her skin.
 
-His first letter arrived before the third eclipse. It contained four pages about failed methods of closing the breach and one sentence asking whether her roof still leaked. Oriane did not answer. She put it in the kitchen drawer beneath the good knife.
+"Your bedside manner has deteriorated," she said.
 
-His next letter described a lake freezing so suddenly that fish hung beneath the surface like dark stitches. At the bottom he wrote, *I thought you would like that.* She kept that one too.
+"My last patient stabbed me afterward."
 
-By his third visit, the roof did leak. They moved the table beneath the drip and ate bread that had gone wet along one edge. Oriane asked about the lake. Kelmor blinked at her, then tried to explain the pressure of ice on the banks.
+"You liked it."
 
-"Not the water," she said. "The fish."
+"Not where you put it."
 
-"They lived."
+He tore a strip from his shirt and wrapped her heel. The cloth smelled like him: cedar smoke, sweat, and the bitter soap he claimed not to use. His thumb rested a moment against the inside of her ankle. Sennara could feel his pulse there, too quick.
 
-"How disappointing for your story."
+She caught his wrist. "You're hotter."
 
-"You asked."
+"You say the sweetest things."
 
-"I wanted to know whether they moved."
+"Iverax."
 
-He considered. "A little. Their mouths opened and closed. Children lay on the ice to watch them."
+He looked at her fingers around him, not at her face. "We're nearer the fissure."
 
-That answer pleased her. It also annoyed her that he could tell.
+"Is that all?"
 
-Rain tapped the bowls they had placed under the leaks. Kelmor spoke of a baby who bit everyone except her exhausted father. Oriane listened until his invisible multitude crowded the kitchen again.
+"Isn't it enough?"
 
-"What did I do this winter?" she asked.
+It was not an answer. The binding under her ribs drew tight enough to make her vision spark. She released him before her grip became a plea.
 
-He stopped.
+He finished the knot, too carefully. "There. You may now march to our deaths without an undignified limp."
 
-"You don't know," she said.
+"I can limp with dignity."
 
-"What did you do?"
+"You do nothing with dignity. It's one of your better qualities."
 
-"Now it sounds like penance."
+He kissed the scar above her ankle. An absurdly courtly gesture from a half-naked demon kneeling in salt. She put her hand between his horns and held him there until his breath caught.
 
-She went outside into the rain. He found her behind the house beside three rows of onions and a collapsed fence. Half the plants had drowned. She had woven little caps for the remaining shoots from rushes, each one absurd and pointed.
+The first time she had done that, there had been rain beating on a stable roof and three dead hunters outside.
 
-"They looked cold," she said.
+* * *
 
-"They're onions."
+They had survived the ambush by falling together through a hayloft floor. Sennara cracked two ribs. Iverax took a consecrated knife through the meat of his thigh and complained more about the hay in his trousers.
 
-"You remember the name of a stranger's dog, but the onions don't qualify?"
+They drank the stablemaster's plum liquor while Sennara stitched him. He insulted her technique. She pulled the thread harder. By the time the bottle was empty, pain and exhaustion had stripped the last politeness from them.
 
-"The dog had a name."
+"You keep staring at my mouth," he said.
 
-"I'm not naming forty onions."
+"I'm considering sewing it shut."
 
-They rebuilt the fence in the rain. She was stronger than he was and worse with a hammer. He was patient until she drove a nail through his sleeve and pinned him to the post. Then he swore, and she laughed so hard she had to sit in the mud.
+"Your pupils disagree."
 
-He began laughing too. He knelt to free himself. She reached for the torn cloth, still smiling, and kissed him because neither of them had prepared an argument against it.
+"My pupils have poor judgment."
 
-The nail stayed in his sleeve until morning.
+He leaned back against the stall, hands open at his sides. For once he did not spend a joke to escape the silence. Rain ran through the broken roof and ticked against a bucket. Sennara could hear the horses shifting in the next stall and her own heart behaving like an idiot.
 
-At the fourth eclipse, there were two bowls on the table when he arrived. Kelmor noticed that before he noticed the new rug, the onions braided beside the hearth, or the packet of his letters tied with red thread in the open kitchen drawer.
+"Ask," she said.
 
-"You kept them," he said.
+His expression went briefly blank. "Are you sure?"
 
-Oriane pushed the drawer shut with her hip. "The good knife was underneath."
+"That wasn't it."
 
-"For two years?"
+"Sen."
 
-"I rarely need a good knife."
+"Ask me what you want."
 
-He had brought pears. She disliked pears. They ate all six while arguing about whether the soft brown patch counted as rot or merely character. Later, when the lamp went out, she led him upstairs without joking. The heat under her skin frightened him less in the dark, and that shamed him. He touched her as if touch itself could be separated from what his hands would one day do.
+The wanting reached his face before the words did. "I want your mouth. Your hands. I want you to stop looking at me as if wanting is a tactical failure. And if any of that isn't yours tonight, tell me now."
 
-In the morning, she woke with her cheek against his shoulder and his gray cloak tangled around their feet. Nothing had been solved. The discovery felt almost indecent.
+She set the needle down. "All of it is mine. Tonight, I want to give it to you."
 
-He stayed three days. At the doorway, leaving, he asked whether she would write.
+He still waited.
 
-"I might."
+"Yes," she said. "Come here."
 
-"You won't."
+His first kiss was almost careful. She laughed into it, and caution did not survive. They knocked over the bucket, frightened both horses, and discovered that cracked ribs made certain ambitions impossible and others merely inventive. When he asked again, breathless against her throat, she said yes again. After that there was only rain, heat, the rough blanket beneath her palms, and the startling tenderness of being desired by someone who knew exactly what she had been sent to do.
 
-"Then why ask?"
+Later, Iverax lay with his cheek on her stomach and one horn caught in the blanket.
 
-He lifted the door to spare the hinge as he pulled it closed. "I wanted to hear you consider it."
+"If you tell anyone about the bucket," he said, "I'll burn down a minor principality."
 
-She did write that winter. She wrote, *The onions are dead. This is not a metaphor, whatever your training has done to you.* She wrote, *I hate the way you say everyone, as though it means nobody can be held.* She wrote, *Come before noon next time.*
+"There aren't any nearby."
 
-She sent none of it.
+"I'll find one."
 
-At the fifth eclipse, Kelmor did not come.
+She worked the blanket loose from his horn. "You asked twice."
 
-Oriane set two bowls and let the stew reduce to paste. The shadow left the sun. Afternoon returned, offensively ordinary, to the table and the blue rims and the empty chair. She carried his portion into the yard and poured it over the place where the onions had failed.
+"You were drunk."
 
-His letter arrived nine days later.
+"So were you."
 
-*I believed absence might make the necessary thing possible,* he had written. *I was wrong about absence. I do not yet know if I was wrong about necessity.*
+"I am a demon. We metabolize consequences beautifully."
 
-She read it once. Then she repaired the roof alone, badly. The next rain came through above his side of the bed.
+She laughed hard enough to hurt her ribs. He lifted his head, astonished, as if this were the indecent thing they had done. Then he smiled with no performance in it, and she understood they were in far greater trouble than any hunters could make.
 
-He found the bucket there when he returned in the sixth year.
+* * *
 
-Oriane left him standing on the threshold until the wind blew rain down the back of his collar.
+The ruined shelter stood two miles from the fissure, three stone walls and half a roof left from people who had crossed the basin before it became holy. Sennara ducked inside to escape the wind. Iverax followed, bringing his heat with him.
 
-"May I come in?" he asked.
+She unbuckled the knife and laid it on the floor between them.
 
-"You usually do."
+He stared at it. "Charming."
 
-"Not last year."
+"Swear you won't ignite before dawn."
 
-"Ah. You noticed."
+"You know I don't swear."
 
-He looked older. It was not his face but the way he held his hands empty at his sides. No lens, no measuring thread, no reports. He had brought the same wrong-sized hinge, newly wrapped.
+"You swore at a kettle for ten minutes last winter."
 
-"I thought we could try again," he said.
+"It had betrayed me."
 
-She stared at the bundle. "That's the worst apology I've ever received."
+"Swear to me."
 
-"I could go and find a worse one."
+He turned away. Outside, salt hissed against stone.
 
-"You have experience now."
+Sennara rose. "If you're planning something stupid, remember that I know all your stupid plans."
 
-For a moment she hated him cleanly enough to breathe. Then his teeth began to chatter, and she stepped aside.
+"You failed to predict the blue shutters."
 
-They did not repair the hinge. They sat on the kitchen floor and drank the sour berry cordial she had been saving for someone she liked. Kelmor told her where he had gone: across the foothills, into crowded streets, onto boats, through three villages struck by fever. He had gathered more people because he thought quantity would restore the shape of his duty. It had. It had also failed to diminish her.
+"They were hideous."
 
-"There," Oriane said. "You've finally made me feel special."
+"They were cheerful."
 
-He rested his head against the cupboard. "I hurt you."
+"They looked like a brothel had drowned."
 
-"Don't become observant all at once. You'll strain something."
+"You liked that house."
 
-"I thought if I loved you less—"
+The last word broke in the middle. He put a hand against the wall. The stone smoked under his palm.
 
-"You would still kill me."
+They had lived in that house for eight months, longer than they had lived anywhere. Iverax baked bread badly and ate the burnt crusts before she woke. Sennara sharpened knives at the kitchen table and left filings in the butter. They planted onions, though neither knew how deep onions wanted to be, and in the afternoons they sometimes went back to bed simply because there was a bed and no one had found them yet.
 
-"Yes."
+Then a spring flood took the footbridge downstream with four children on the wrong bank.
 
-The answer struck hard because it came without saintly patience. Oriane put down her cup. Cordial had stained his lower lip purple. She wanted to wipe it away and wanted to split the cup against the hearth.
+Sennara tied a rope around her waist before Iverax could stop her. The water rolled trees past them like stripped bones. She reached the children. On the return crossing the rope snagged, and Iverax waded chest-deep into the flood, fire boiling the water around him, to cut her loose.
 
-She rubbed the purple stain from his lip with her thumb, harder than necessary. "I spent a year furious at you. I would still do it."
+For six days afterward she shook with fever. He slept on the floor beside her and woke furious every time she coughed.
 
-His eyes closed.
+"Four children," she said when she could stand again. "Four."
 
-"Look at me."
+"I can count."
 
-He did.
+"Their mother couldn't swim. The oldest was nine. What would you have had me do?"
 
-"You never ask," she said. "All those letters. All those people. You never once ask me to save you."
+"Live."
 
-"I can't ask that."
+"Answer the question."
 
-"You can. Your mouth works. I've heard it."
+He hurled a cup into the hearth. It shattered, and the pieces glowed. "I don't give a shit about the question."
 
-"Not for this."
+"That's the problem."
 
-"Because you don't want to live?"
+"No. The problem is that you'll spend yourself on anyone who asks and call it virtue when there's nothing left for me."
 
-He took too long.
+"They didn't ask. They were drowning."
 
-"No," he said.
+"And you weren't?"
 
-She waited for the rest, but Kelmor's gift for careful language had deserted him. He reached for her. She nearly refused. Then she put her hot palm against the back of his hand, and neither pretended it was forgiveness.
+He left before she could answer. By summer, the hunters had found the garden. They ran with one pack between them and never went back for the onions.
 
-On the seventh year, the stew was good.
+Now, in the shelter, Sennara crossed the knife on the floor and wrapped her arms around Iverax from behind. His body was almost too hot to touch.
 
-That irritated Oriane more than if she had burned it. Kelmor ate slowly while the eclipse pared the sunlight down. Heat pressed through the soles of her boots. The cups trembled whenever she breathed too deeply.
-
-He had spent the morning naming other possibilities, though they had worn them out years ago. Bind her hands. Take her far from soil. Drug them both. Kill her before totality. None changed the opening of the breach or the requirement that two living wills meet it at the proper instant. The underfire did not need her hands, soil was everywhere beneath them, and an early death would leave no living path to turn the fire skyward.
-
-"You forgot asking," she said.
-
-Kelmor's spoon stopped.
-
-"It remains an available method. Very little equipment."
-
-"Oriane."
-
-"There. Halfway done."
-
-The last crescent of sun narrowed. In the yard, birds had gone silent. The lines under Oriane's skin shone gold from wrist to elbow.
-
-Kelmor stood. The chair legs grated against the floor.
-
-"Not yet," she said.
+"I did like the house," she said into his shoulder.
 
 "I know."
 
-"You always look as if you're about to miss a carriage."
+"The shutters were still ugly."
 
-He came around the table. She moved to the other side, keeping the wood between them. They had practiced no part of this, but they had rehearsed it whenever he reached across her for salt, whenever she slipped past him in the narrow doorway. He needed only to lay his living hand over her heart when the breach opened. She needed only to choose him and let the underfire find ground.
+"Cruel to the end."
 
-"Ask me," she said.
+He turned. She kissed him before either could make another argument. His mouth tasted of salt and dried pear. He held himself rigid until she pulled his hands to her hips.
 
-He shook his head.
+"I want you," she said. "That isn't forgiveness in advance."
 
-"Not to change. Not to be good. Ask me for one thing you want."
+"Understood."
 
-The room dimmed to copper. Kelmor's breath came too fast. "Stay there."
+"And it isn't permission to save me."
 
-Oriane laughed once. There was no humor in it. "That is remarkably poor."
+His jaw tightened. "Understood."
 
-"Please."
+They undressed each other without hurry. There was nothing new to discover, only known scars, favorite places, the small private humiliations of two bodies that had slept, bled, sweated, and wanted together. He knelt to unlace her ruined boot. She bent to kiss the pale notch where her sword had once touched his throat. When he carried her to the least broken stretch of floor, she locked her legs around him and held his face between her hands.
 
-"Still poor."
+"Look at me," she said.
 
-The light vanished.
+He did.
 
-Underfire struck through her body. The table jumped between them, bowls smashing to the floor. Kelmor seized its edge and shoved. Oriane moved the other way, but he had known she would use the door. He caught her wrist beside the latch.
+Afterward, her coat covered them both. The knife lay beyond her reach. Iverax traced the binding's silver ridges under her breasts, his touch so gentle it made her want to strike him.
 
-Heat tore the breath from him. His palm began to blister. He held on.
+"Swear," she said once more.
 
-Oriane twisted, not to escape but to turn inside his reach. Her free hand closed on his wet, scraped fingers. For one instant they stood as they had over the crooked hinge, joined by something too hot for either to hold.
+He closed his eyes.
 
-He brought his other hand toward her heart.
+The binding cinched under Sennara's ribs. She waited until her hands stopped shaking, then fastened the knife against her back.
 
-She said, "Kelmor."
+Sennara got up and dressed. Iverax did not try to touch her again.
 
-The floor answered.
+* * *
 
-Fire went down through Oriane's feet with a sound like the whole house drawing breath. Kelmor's hand landed against her chest. He gave the living force in him its one command.
+Black dawn did not brighten the eastern sky. It extinguished it.
 
-Her heart stopped.
+The stars went out one by one as Sennara and Iverax reached the fissure. Darkness pooled along the crack, swallowing the salt at its edges. The binding tightened. Every silver ridge around Sennara's ribs lifted beneath her skin.
 
-The remaining underfire crossed into him. It climbed his bones, burst from his mouth in a white column, and tore through the roof without burning it. High above, something vast sealed shut. The black sun opened. Daylight returned.
+She drew the knife.
 
-Oriane folded against him. Kelmor caught her before she struck the floor. The terrible heat was gone from her skin. He pressed his burned hand to her back and said her name into the hair at her temple. When she did not answer, he said it again.
+Iverax stood on the other side of the fissure. His shirt hung open. The red beneath his skin had spread from his chest to his throat and down both arms.
 
-For a few seconds, the room remained still.
+"Too soon," she said.
 
-Then the rooted path reached the yard.
+"Sen."
 
-The dead onions flared first. Fire raced beneath the soil in straight gold veins, igniting the grass from its roots. The fence became a row of torches. Beyond it, fields brightened to the horizon, every furrow carrying flame farther than sight.
+"How long have you been feeding it?"
 
-Inside, the rug caught. The table blackened. Fire ran toward Kelmor and divided around his boots.
+"Walk away."
 
-He dragged Oriane closer as the window went white. The rafters began to burn. Beyond the doorway, the road lit in both directions, and the fire kept going.
+"How long?"
+
+He began talking too quickly. "The inn is still there. We could reach it before the next rain. You could break the owner's knees this time. I could buy you boots that don't bleed. We could find another house. No shutters, if you insist on living without joy."
+
+The fissure opened another finger's width. Heat rolled off him hard enough to sear her lips.
+
+"Iverax. Stop."
+
+"I planted the onions too deep," he said. "That's why they never came up. I read it in a book afterward. Two fingers, not a whole fucking grave."
+
+"Stop."
+
+"Come here."
+
+Not an argument. Not absolution. His hand reached across the black crack between them, palm up, shaking so badly the claws clicked.
+
+She wanted to take it. Her body had already leaned toward him before she understood.
+
+Iverax smiled then, terrible and frightened. His gaze dropped to the knife over her shoulder. He saw her reach for it, and he did not close his hand.
+
+Then he opened himself to the fire.
+
+It hit the world with the sound of a door kicked in.
+
+White flame raced out from his feet. The first surge crossed the Crucible before Sennara could draw breath, climbed the basin walls, and swept into the dark beyond. On the western ridge, watchfires vanished. Farther out, the black shapes of houses flashed white. A flock of night birds rose burning and fell.
+
+The binding around Sennara's chest caught. Silver fire ripped through every line. She smelled her own skin, heard herself scream, and felt the sacred wire come free.
+
+Iverax had done it. He had burned the death out of her.
+
+The worldfire gathered behind him for its second surge.
+
+Sennara crossed the fissure.
+
+He could have stopped her. His hands were fire now. His body had become the hinge of something enormous. But when she came at him, he lowered his arms.
+
+She drove the knife up beneath his ribs.
+
+The blade struck his heart. Heat split her palms. His weight folded against her, mouth open at her temple, no cleverness left in him. For one instant he clutched the back of her coat with ordinary human panic.
+
+"Sen," he said.
+
+She pushed the blade deeper.
+
+The fire went out.
+
+Not everywhere. The houses beyond the ridge continued to burn. Salt glowed red beneath her knees. But the vast pressure behind the flames collapsed, and the second surge never came.
+
+Iverax sagged in her arms. His eyes were still open. She felt the last beat of his heart through the knife, then nothing.
+
+Nothing answered when she called his name.
+
+* * *
+
+Sennara woke after sunrise with her face against cooling glass.
+
+Smoke had covered the sky. People moved through it on the basin's western rim: burned farmers, soldiers with torn banners, children blackened by soot. Some carried water. Some carried bodies. A woman called the same name until her voice failed, then kept shaping it with her mouth.
+
+The worldfire had taken a valley and the western edge of the Crucible. Beyond that, the fields still stood. Their stubble shone wetly under the ash. Thousands of roofs held. Millions of people had woken to an ordinary morning, cursed the smoke, fed their animals, touched the warm backs of the people beside them.
+
+Iverax lay where she had left him. The demon who had loved her more than all of them was cold.
+
+Sennara crawled to him first. She closed his eyes. She wanted to say something filthy enough to make him laugh, but every word belonged to a world in which he could hear it. She pressed her forehead to the place between his horns until someone nearby began to sob.
+
+Then she stood.
+
+At the rim, a burned man stumbled toward her. She reached without thinking for the heat that had always arrived at her shoulder before danger, before pain, before she admitted she needed help.
+
+There was only cold air.
+
+The man mistook her open hand for an offer. He took it.
+
+Sennara held on.
