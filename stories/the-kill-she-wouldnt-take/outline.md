@@ -2,48 +2,49 @@
 
 ## Story
 
-- Premise and central promise: **The Kill She Wouldn't Take**. A first-time contestant enters the Grand Halo expecting reversible death. Champion Vesper corners them late but cannot take another point: she has killed and met them repeatedly, while each rebuild erased the encounter from their memory. Resolve whether the contestant distrusts her hesitation, takes the career-making kill she offers, or preserves the only Vesper who remembers what grew between them.
-- Focal pressure or attachment: The unnamed contestant wants the bounty and attention attached to killing Vesper, turning a reckless entry into more than anonymous humiliation. Vesper wants her undefeated, no-death record but has become attached to someone who keeps meeting her for the first time.
-- Counterforce or complication: The clock, kill incentives, approaching fighters, and justified distrust compress the choice. Vesper's celebrity fluency makes truth sound like theater; refusal exposes them both. No malfunction or conspiracy supplies an answer.
-- POV, distance, and information limit: Body-close second-person present. Each rebuild brings pre-match knowledge, a higher death tally, and no lost-life memory. Persistent damage, the contestant's terse relay, and Vesper's impossible familiarity reveal repetition; her accumulated experience is known only through what she risks.
-- Governing movement and time shape: One twenty-two-minute match through four increasingly abbreviated lives, with the tally implying more. Each return crosses familiar ground differently; the last ninety seconds hold the corner and choice. End after weapons lock but before interviews, rulings, or reconciliation.
-- Speculative rule or ordinary-world constraint: A registered kill rebuilds a contestant after eighteen seconds from the unchanged body-and-memory imprint taken at entry. Score, deaths, arena damage, surviving people's memories, and one short self-authored relay persist; other match memories do not. Killing Vesper would likewise restore her entry-state self and erase her accumulated encounters. The reliable system is culturally treated as continuation, but its relation to souls, copies, or the afterlife remains unsettled. Pain, consent, and attachment still matter.
-- Dialogue promise: A glamorous champion's polished kill-floor patter frays as she tries to convince a suspicious stranger they already matter to her. Vesper carries prior exchanges; the contestant's disbelief and defensive humor are genuinely new each time.
-- Dialogic medium: Broadcast speech, the written relay, score and visor readouts, remembered fighting habits, weapon aim, and deliberate silence when either could fire.
-- Dialogue engine: Vesper must convey unverifiable shared history before the clock expires. The contestant's tests force her to sacrifice performance and tactical advantage; each accepted detail changes trust, aim, and who protects whose continuity.
+- Premise and central promise: In the closing fifteen minutes of the world’s largest televised deathmatch, its lead announcer calls an entrant’s repeated returns to superstar Vesper. She remembers every encounter; reconstruction erases theirs. Make the hesitation unfold live, ending with the bounty choice and a shared present.
+- Focal pressure or attachment: The announcer remembers every version the entrant lost while helping monetize them. The entrant wants Vesper’s bounty and freedom from furnace debt, but also wants to know why she remembers them. Vesper wants trust based on inaccessible history.
+- Counterforce or complication: Fighters, collapsing terrain, and the reset clock make contact lethal. The Grand Halo’s broadcast apparatus demands an instant sellable explanation. Vesper’s register is both the prize and the switch that would erase her accumulated memory.
+- POV, distance, and information limit: First-person present from the unnamed lead announcer, synchronized to play-by-play. The booth has selected cameras, statistics, replay, and captured audio—not thoughts. Dead zones stay opaque; the forty-character relay is knowable only when visible. Avoid sustained second-person interiority.
+- Governing movement and time shape: One continuous broadcast from respawn six to the bell. The field contracts from arena panorama to damaged cameras, service cut, and Service 4 while certainty becomes correction, uncertainty, then restraint. End on the release-passage feed.
+- Speculative rule or ordinary-world constraint: Eighteen seconds after a kill, entry-imprint reconstruction restores body and starting memory; pain is real, while statistics and one forty-character relay persist. Arena damage remains. Killing unbeaten Vesper would restore her without these encounters. The bell locks weapons. R intensity comes from strong language, felt deaths, vicious impacts, exploitation, and ethical ugliness, with non-graphic detail.
+- Dialogue promise: Propulsive sports commentary collides with badly timed recognition. Gallows humor, exhausted correction, commercial labels, and self-revision make communication abrasive and costly, not a polished identity debate.
+- Dialogic medium: Live call, talkback, arena audio, overlays, crowd, relay text, hand signals, missed coverage, and chosen dead air.
+- Dialogue engine: Vesper must persuade with memories only she owns; the entrant must test her before choosing the bounty; the announcer must interpret incomplete evidence under demands for certainty. Each attempt changes route, trust, leverage, or audience knowledge.
 
 ## Voice
 
-- Narrative texture: Second-person present restarts in sensory inventory—clean lungs, spawn light, weapon weight—then lets external residues defeat freshness. Compress repeated routes; linger on evidence the contestant's mind cannot supply.
-- Conversational texture: The contestant's boasts, jokes, and irritated questions are ordinary and badly timed. Vesper starts polished, then repeats herself, loses timing, and leaves exhausted pauses.
-- Rhetorical ownership: The contestant owns skeptical tests, defensive humor, quick comparisons, and celebrity misreadings. Vesper owns arena authority and exact recollection but evades attachment; affection appears as attention to small choices, and stress makes her the less fluent listener.
-- Pressure behavior: The contestant speeds up, interrupts, and unknowingly repeats questions. Vesper's explanations shorten and fail; aim, distance, and surrendered openings carry meaning while nearby combat prevents ethical debate.
-- Relationship movement: The contestant wants recognition and bounty but cannot ask whether a lost version mattered. Vesper wants trust without asking a stranger to value her private memories. Their exchange transfers lethal leverage to the contestant, then turns suspicion into mutual protection of current memory.
-- Anti-default: Avoid expert troubleshooters, polished personhood arguments, flirtatious rivalry, or crowd conversion. Keep the system functional and refusal rooted in lopsided memory, embarrassment, and costly attention.
+- Narrative texture: Present-tense play-by-play selects position, timing, sightlines, weapon state, pain, and replay corrections. Broadcast polish cracks without becoming transcript or omniscience; blind cameras leave blanks.
+- Conversational texture: The entrant jokes crudely when frightened, then asks bluntly. Vesper shifts from clipped commands to tired, incomplete explanation. Commercial booth talkback presses against ordinary confusion.
+- Rhetorical ownership: The announcer owns spatial synthesis, euphemism, and self-correction; the producer owns odds and impatient labels. The entrant owns deflection, suspicion, and misreading; Vesper owns remembered particulars, reluctant affection, and poor explanation.
+- Pressure behavior: Danger accelerates commentary but fragments Vesper. The entrant talks over fear and listens only after relay evidence accumulates. The producer fills ambiguity; the announcer gradually stops. Nobody gains eloquence on cue.
+- Relationship movement: Vesper wants continuity she cannot fairly request; the entrant wants proof and money but cannot ask her to mourn erased selves. The announcer wants viewer patience but can only change interpretive leverage by withholding a label.
+- Anti-default: Avoid instant moral diagnosis, articulate professionals solving identity, or crowd conversion. Keep errors, pettiness, missed audio, ugly commerce, physical confusion, and unresolved appetite active.
 
 ## Beats
 
-1. Enter the Grand Halo's saturated neon vastness. Vesper's red fiber-optic hair, horned white visor, segmented white armor, and oversized firearm dominate the screens; the contestant mistakes dying to her for safe relevance.
-2. In the first shown life, the contestant reaches Vesper and performs a memorable defeat. She kills them effortlessly. A clean, non-graphic rebuild, raised death tally, and replayed route expose missing experience.
-3. Shortened lives accumulate scorch marks, shifted cover, score changes, and an urgent relay. Vesper anticipates feints, humor, and escapes with growing reluctance; the contestant mistakes familiarity for celebrity gamesmanship.
-4. In the final life, the relay leads to a damaged service pocket where Vesper corners them but does not fire. Concrete details from prior meetings make repetition credible without confession or metaphysical explanation.
-5. The contestant tests her account as fighters close. Vesper reveals that killing her earns the bounty but restores a champion who will not remember them; she leaves the moral choice and weapon advantage to the contestant.
-6. The contestant has the clean kill, but warns Vesper and covers her flank. Vesper sacrifices her perfect record to keep them alive. Their defense is messy and based on seconds of trust, not instant intimacy.
-7. Weapons lock before either dies. Broadcast speculation continues without reform. In the release passage, Vesper removes her visor; both retain the same final interval, while earlier bonds and the contestant's ambitions remain unresolved.
+1. Open at 15:08 after death six. The announcer remembers the entrant’s gate-opening bravado and every death; they have only statistics and a cryptic relay. Show Vesper’s white horned visor, red fiber-optic hair, green throat lights, segmented white armor, oversized firearm, and match wear.
+2. Call the run through wreckage to the causeway. Vesper recognizes a repeated joke and supplies a detail from a lost life, then kills the entrant to beat an attack from the flooded garden. Replay makes the announcer retract a tactical explanation.
+3. Let sponsor replay sanitize agony. The entrant returns knowing Vesper remembers. At the planter she recalls the loose-boot trick, directs them toward a service cut, and turns from the bounty target. The entrant attacks; her reflex kills them while producer and overlays impose labels.
+4. Broken coverage yields fragments in the maintenance pocket: Vesper cannot finish the question earlier selves asked; an opponent fires; she shields the entrant but fails. A camera catches enough of the dying entrant’s relay to establish that she is trying and must be heard.
+5. At 1:33, Vesper refuses a clean kill in Service 4, exposes her register, and pushes away her firearm. Her broken explanation establishes that her death would restore a Vesper without their history. Footsteps and producer demands prevent tidy debate.
+6. A competitor forces the choice. The entrant shoots past Vesper; they fight badly, misread directions, swear, collide with the weapon, and protect each other through action. The entrant spends the final shot on the opponent. The bell locks weapons; the bounty is forfeited.
+7. The broadcast splinters into strategy, romance, injury, and sponsor narratives; the crowd does not unite. In the release passage Vesper removes the visor, and an open microphone catches a worn dispute over a remembered joke. The entrant remembers; the announcer withholds a final label.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Vesper | new | Arena superstar's mononym; glamorous and formidable, with the image-guided red luminous hair, horned white visor, white armor, and oversized firearm. No confusing prior use found. |
+| Vesper | new | Arena superstar retained from the story being reshaped; survivor of every current-match encounter and keeper of the entrant’s lost shared history. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Grand Halo | new | World's largest televised deathmatch arena and broadcast venue; no confusing prior use found. |
+| Grand Halo | new | Retained deathmatch arena and broadcast venue; a persistent-damage course whose cameras, overlays, and service spaces control what the announcer can know. |
+| Service 4 | new | Retained maintenance pocket where hesitation becomes the final bounty choice. |
 
 ## Continuity
 
-- Canon used: The deep-time world permits distinct local technologies and digitally mediated continuation. Personhood protection keeps pain, consent, memory loss, and attachment consequential.
-- Boundaries and unknowns: Era and geography remain unplaced. Grand Halo rebuilding is unrelated to established continuation systems; do not decide whether a rebuild is the same soul, a copy, or another ontology, or generalize its memory loss. Image-derived traits govern Vesper's design and neon atmosphere only; incidental markings and machinery establish no canon.
+- Canon used: Reconstructed people require a defined local mechanism, intact personhood, and ethical stakes. The supplied image controls Vesper’s recognizable identity and weapon-forward presence unless written authority conflicts.
+- Boundaries and unknowns: Grand Halo, Vesper, the entrant, and this respawn system remain story-local and non-canon. Do not decide whether reconstruction retrieves, copies, or continues a soul. The announcer cannot resolve the lost versions’ status, Vesper’s obligations, or audience belief.
