@@ -1133,3 +1133,46 @@
   - They are not Varkesh's eleven fellows or members of the Sleepless Majesty.
     The exact count, political disguise, and desire for long sleep are parallel
     local facts, not a crossover or universal dragon biology.
+
+## Caleb
+
+- Status: LOCKED
+- Summary: An adult incoming Brightward College student and Mirelle's
+  established boyfriend, whose first campus tour taught him to stand beside her
+  without translating or reducing her refusals.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: None
+- Notes:
+  - Before enrolling at Brightward, Caleb already knew Mirelle's cursed-cold
+    trigger, warning signs, physical costs, touch preferences, private
+    temperament, and ordinary habits through their shared domestic history.
+  - During orientation he tried to soften Mirelle's refusal of an instrumental
+    request. After she told him not to make her answer smaller, he apologized,
+    stopped interceding, and let her decide what each later encounter required.
+  - His humor is expansive and self-mocking. His surname, exact age beyond
+    adulthood, powers or lack of powers, origin, and later course at Brightward
+    remain unresolved.
+
+## Mirelle
+
+- Status: LOCKED
+- Summary: An adult Brightward College cursed-cold prodigy, feared under the
+  campus title Blizzard Baroness and established in an affectionate romantic
+  relationship with Caleb.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: Blizzard Baroness; Baroness
+- Notes:
+  - Mirelle is blunt and sparing with most people, dryly affectionate with
+    Caleb, and exact about consent, usefulness, and refusal. Their familiar
+    embraces neither cure her curse nor make her safe, available, or
+    explainable to other people.
+  - The Blizzard Baroness title appeared on her locker last winter amid campus
+    incidents and exaggerated rumors. She leaves the title standing
+    because the resulting distance can protect her boundaries, while
+    recognizing that fear is not respect and can coexist with exploitation.
+  - She iced the south practice court during an evacuation, failed a group
+    whose shields cracked, and warned one person who persisted in touching her
+    from behind. Rumors enlarged each incident beyond the established facts.
+  - She refused a resistance-practical request that classified her first as
+    equipment and then as a special capability provider, and later chose to
+    embrace Caleb publicly on her own terms.

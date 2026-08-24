@@ -3,7 +3,7 @@ title: "The Warmest Person in the Room"
 slug: "the-warmest-person-in-the-room"
 created: 2026-08-23
 created-at: 2026-08-23T17:31:29-04:00
-canon: false
+canon: true
 ---
 
 # The Warmest Person in the Room
