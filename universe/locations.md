@@ -550,6 +550,66 @@
     another established location is known. The plumbing and retrofit are
     ordinary nonliving mechanisms.
 
+## Eiren's threshold room
+
+- Status: LOCKED
+- Summary: An otherwise unplaced threshold room served as Eiren's side of the
+  living door-filament crossings through which Ryo returned between assignments.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: threshold room
+- Notes:
+  - The observed room had blank walls and a chair and gave Eiren a place to open,
+    hold, close, and later rest between Ryo's doors. The room itself showed no
+    independent life, agency, or power.
+  - Its physical location, era, access, ownership, persistence after Eiren's
+    visible filaments vanished, and relationship to Ryo's apartment, the ten
+    destinations, the Glass Gate, Deepmarket, or any other established place or
+    crossing remain unresolved.
+
+## Unnamed storm-engine town
+
+- Status: LOCKED
+- Summary: Ryo's tenth assignment reached an unnamed hillside town whose civic
+  tower concentrated seasonal storm protection in one sacrificial operator
+  before residents replaced that arrangement with distributed channels.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: tenth assignment destination; storm-engine town
+- Notes:
+  - The town's open stone tower held a three-storey black metal storm engine,
+    copper conduits, nine conductor vanes, a central control circle, and nine
+    squat manual stations. Roofs descended the hillside below it.
+  - Residents had small individual capacities to turn wind or bleed lightning
+    from roofs. Local crews spent years building manual channels intended to
+    distribute a seasonal storm through hundreds of participating hands.
+  - The severance storm cracked the tower, stripped roof tiles, and left the
+    town dark, but consumed no single operator. The extent of later repairs and
+    the system's subsequent use remain unknown.
+  - The town's name, civil date, era, world, planet, dimension, timeline, and
+    relationship to any established location or culture remain unresolved.
+
+## Ryo's unnamed apartment
+
+- Status: LOCKED
+- Summary: Ryo's original and final home is an unnamed apartment in an undated
+  modern-like setting whose ordinary front door framed both his prior isolation
+  and his first self-directed step after the assignments.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Before the assignments, the apartment's cheap wooden door, peeling number,
+    and chain stood between Ryo and a hallway he struggled to enter. On his
+    return, the apartment still held dust, unread phone messages, a remembered
+    grocery order, and unfinished ordinary problems.
+  - A trusted relative and neighborhood garden were reachable from Ryo's life,
+    but neither is named or geographically placed.
+  - No city, country, planet, calendar year, literal-Earth identity, or
+    relationship to another modern-like location is established. Eiren's
+    terminal one-way fold to this physical doorway does not classify the
+    apartment as part of a universal portal network.
+
 ## Unnamed callwright college and examination tower
 
 - Status: LOCKED

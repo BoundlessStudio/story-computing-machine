@@ -720,6 +720,22 @@
   This is a local tactile convention using ordinary cord, not a universal
   signal, spell, organization, technology, power, or character alias.
 
+## Necessary One
+
+- Status: LOCKED
+- Summary: The unnamed storm-engine town's local title for the single operator
+  into whom its old civic system concentrated residents' storm-working power.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: the Necessary One
+- Notes:
+  - The role protected the town until a storm burned its holder out. During the
+    tenth assignment, the engine's brass display mechanically applied the title
+    to Ryo Sato before he relinquished the role and its concentrated power.
+  - Earlier holders are unnamed. The term is not a distinct person's name, a
+    universal heroic office, a statement of destiny, or an alias for another
+    operator, sacrifice, civic role, or power system.
+
 ## Callwright practice vocabulary
 
 - Status: LOCKED

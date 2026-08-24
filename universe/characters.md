@@ -1217,6 +1217,83 @@
     relationship to another transformation system or established person is
     known.
 
+## Ryo Sato
+
+- Status: LOCKED
+- Summary: Ryo Sato is a living traveler who passed bodily through ten
+  assignments under Steward Eiren, then surrendered nine accumulated gifts and
+  returned powerless to begin a self-directed recovery.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ryo
+- Notes:
+  - Before the first assignment, panic attacks and job loss had narrowed Ryo's
+    life to an apartment that began as needed shelter and later held both safety
+    and shame. Games gave him stable rules and retryable goals; his isolation is
+    not established as a moral failure.
+  - All ten crossings preserved one continuous living body, memory, identity,
+    fatigue, and history. The first nine assignments left marked gifts of
+    extreme endurance, cleansing warmth, heat resistance, creature-speech,
+    fracture-sight, great strength, shadow-step, warding, and an instinct for
+    decisive action.
+  - Ryo repeatedly treated solvable crises, usefulness, victory, and praise as
+    substitutes for self-worth and left before accepting ordinary care. Eiren's
+    repeated assignments reinforced that pattern even though each asked-for
+    crossing followed his consent.
+  - In the tenth assignment, Ryo chose his own continued life without certainty
+    of victory, relinquished all nine gifts, and rejected an eleventh assignment.
+    His desire motivated the choice but did not act as metaphysical fuel.
+  - Ryo returned anxious and unfinished rather than cured. He asked a trusted
+    relative for help making one appointment and chose a possible visit to a
+    neighborhood garden because he liked wet soil, then opened his apartment
+    door without a miraculous instruction.
+  - His age, original city, country, era, wider family, later history, and
+    relationship to any established traveler, hero, power system, or crossing
+    remain unresolved.
+
+## Eiren
+
+- Status: LOCKED
+- Summary: Steward Eiren is the living door-steward who personally opened and
+  maintained Ryo Sato's ten consented assignment crossings and helped end their
+  mutually harmful hero-project relationship.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Steward Eiren
+- Notes:
+  - Eiren cared about Ryo but learned to feel real when needed, mistook her own
+    depletion for proof of care, and used Ryo's repeated victories and consent
+    to avoid examining what their pattern served. During the tenth assignment
+    she confessed that responsibility, refused to prescribe his next choice,
+    and later apologized without defense.
+  - Frightened people in one unspecified place once prayed for an exit and
+    called Eiren a goddess after seeing her open one. This past cultural label
+    does not establish continuing worship, objective godhood, a divine office,
+    or authority under the universe's divinity taxonomy.
+  - Eiren is distinct from Queen Aurelia and the woman claiming the Goddess of
+    Time title. No relationship to them, another deity, a divine government, or
+    any established crossing system is known.
+  - Her origin, species, age, wider history, full capability range, and ability
+    to make future crossings for anyone other than Ryo remain unresolved.
+
+## Jori Vale
+
+- Status: LOCKED
+- Summary: Jori Vale is the young civic engineer who directed the prepared crew
+  dismantling the unnamed hillside town's sacrificial storm engine.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Jori
+- Notes:
+  - Jori ordered Ryo to stay clear of the conductor paths, recognized that his
+    volunteering was re-centralizing the engine, and devised the emergency plan
+    that consumed one of his nine gifts at each manual station.
+  - Jori and the crew restored the failed ninth station's current by hand, kept
+    their own small currents alive during the storm, and accepted Ryo's eventual
+    cooperation without recasting his earlier interference as heroism.
+  - Jori's exact age, origin, later history, and relationship to any other Vale
+    or established engineer remain unresolved.
+
 ## Kethra
 
 - Status: LOCKED

@@ -1279,6 +1279,77 @@
     rescue, plumbing, medical, legal, or transformation rule, and it gives
     neither partner authority over the other's body or participation.
 
+## Eiren and Ryo's living door-filament link
+
+- Status: LOCKED
+- Summary: Eiren's living palm-filaments formed a costly, recurring crossing
+  link that carried the living Ryo bodily through ten consented assignments and
+  could briefly reopen a return path she personally maintained.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ryo's assignment thread; assignment filament
+- Notes:
+  - Bright filaments grew from the centers of Eiren's palms. She used them to
+    stitch, hold, close, and manipulate door-shaped thresholds; the doors,
+    threshold room, and destination openings showed no independent life or
+    agency.
+  - Eiren could perceive a distant pull centered on a crisis, choose it without
+    seeing its full circumstances, carry Ryo outward after asking his consent,
+    and maintain a brief return opening. She could not follow him into a
+    destination and had to remain awake while holding the return.
+  - Reopening the recurring route consumed Eiren's bodily strength. By the tenth
+    assignment the filament was nearly spent and its single short return window
+    coincided with the destination's storm peak. Eiren described the pattern as
+    consuming nine years of her life and considerably more of Ryo's, without
+    supplying a civil chronology or conversion between their experienced time.
+  - When Eiren cut the exposed storm-engine core with her filament, Ryo's
+    assignment thread burned out, his marks and gifts vanished, and Eiren's
+    visible palm-filaments were gone. She could no longer open another
+    assignment door for Ryo.
+  - After resting, Eiren managed one terminal one-way fold to the physical
+    doorway where she had first found Ryo. It was not an assignment and carried
+    no promised return. This residual act does not establish that she can or
+    cannot make another kind of doorway for another person.
+  - The destinations' objective number, type, and relationship remain unknown.
+    This link establishes no death, reincarnation, resurrection, copying,
+    reset, universal afterlife route, universal consent behavior, or connection
+    to the Glass Gate, Queen Street seam, Deepmarket, or another crossing.
+
+## Unnamed town's storm engine and distributed channels
+
+- Status: LOCKED
+- Summary: One unnamed town's nonliving storm engine concentrated residents'
+  small wind and lightning capacities in a sacrificial Necessary One, while a
+  prepared nine-station retrofit could distribute a storm among hundreds of
+  living participants.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: storm engine; nine manual stations
+- Notes:
+  - The engine gathered power supplied by living residents into one operator.
+    Its metal column, conductors, control circle, gauges, and brass acceptance
+    display stored, directed, and reacted to supplied power but showed no
+    independent life, judgment, destiny, or ability to originate magic.
+  - Concentration let one operator protect the town efficiently until seasonal
+    storms burned that person out. The town spent years building nine manual
+    discharge stations; each had been tested separately, but the full system
+    had not been tested together during a live storm.
+  - During a pressure test, the engine mechanically accepted Ryo as a new
+    Necessary One after he entered its control circle and supplied several
+    gifts. Each task he took disabled a manual station and increased the
+    centralized load.
+  - Jori's emergency severance routed one of Ryo's nine distinct gifts into each
+    station as a one-time charge. The stations consumed the gifts while their
+    living crews broke nine central bonds; no crew member received a permanent
+    version of Ryo's power.
+  - Eiren's living filament then cut the exposed central core. The distributed
+    channels grounded that storm through hundreds of waiting hands without
+    consuming a Necessary One, though the tower cracked, roof tiles were lost,
+    and the town went dark.
+  - These observations establish no broadly available technology, universal
+    nine-part pattern, transferable power method, storm rule, sacrificial law,
+    or metaphysical effect of praise, usefulness, desire, or consent.
+
 ## Callwright living shaper-caller activation
 
 - Status: LOCKED
