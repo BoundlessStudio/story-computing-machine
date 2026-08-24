@@ -819,3 +819,47 @@
   8. The event's civil date, era, wider location, later institutional effects,
      Galactic Cycle coordinate, and ordering relative to every other story
      remain unresolved.
+
+## Undated North Rise five-minute evacuation
+
+- Status: LOCKED
+- Summary: One undated kiln-shed blast disabled the North Rise and led Kezli,
+  Olbit, and Director Nalda Vick to evacuate forty people with a measured
+  five-minute rig before the lower station was destroyed.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: North Rise emergency; five-minute evacuation
+- Notes:
+  1. In one morning, a kiln-shed blast jolted the lower terrace, shattered the
+     North Rise's crown gear, cracked and displaced its pedestal, buried the
+     stair road, and stranded one cage below. Smoke approached forty people at
+     the lower station, including three children; one attendant had a bruised
+     shoulder.
+  2. Kezli and Olbit independently checked the surviving lift, rejected unsafe
+     weld, belt, direct-drive, and permanent-repair claims, tested a sacrificial
+     oakcloth sleeve, and built the bounded friction rig. Its operating ticket
+     declared four loads, five minutes, visible warning stages, terminal
+     isolation, and no restart.
+  3. The council ordered two guards to descend and return with a strongbox
+     before passenger evacuation. Kezli demonstrated that this extra cycle
+     would leave ten people below and refused to make the value choice. Nalda
+     voluntarily wrote, witnessed, and transmitted an order placing persons
+     before property and reserving all four loads for passengers.
+  4. Kezli and Olbit operated through the white, blue, yellow, orange, and red
+     stages while Nalda manifested and cleared each arriving group. Olbit made
+     the prepared second-load pressure correction. All four groups reached the
+     upper landing before bare iron initiated the predicted shear, roller
+     withdrawal, steam dump, and brake sequence.
+  5. After the lower flag confirmed no people remained, fire and a second
+     rockfall destroyed the lower station and buried the speaking-wire desk and
+     strongbox. By noon the temporary rig was spent, while the crown gear and
+     pedestal still required permanent work.
+  6. Nalda documented her maintenance deferral, priority decision, and the
+     rig's performance within every declared bound. She paid the emergency
+     invoice, commissioned Kezli's workshop to lead a permanent rebuild, and
+     assigned the ordinary lift mechanics as independent inspectors. The
+     inquiry, rebuild, and wider financial consequences remain unresolved.
+  7. The event's city, region, polity, civil date, era, Galactic Cycle
+     coordinate, and ordering relative to every established story remain
+     unresolved. It has no established relationship to another quarry,
+     disaster, civic system, workshop, or technology.

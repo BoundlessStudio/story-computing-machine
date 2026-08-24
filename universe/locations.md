@@ -632,3 +632,43 @@
   - The college's name, city, polity, civil date, wider era, later history, and
     relationship to Brightward, Cinder Annex, Northbridge Secondary, or any
     other established institution remain unresolved.
+
+## Unnamed North Rise quarry city
+
+- Status: LOCKED
+- Summary: An unnamed fantasy-industrial quarry city contains an upper landing
+  district and a lower quarry-and-kiln terrace linked by the North Rise.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - The observed lower terrace includes quarry sheds, a kiln yard, a lower
+    station, and a stair road. A kiln-shed blast, debris, fire, and rockfall can
+    isolate that terrace from the upper landing.
+  - The lift office holds an upper reserve, while a civic strongbox at the lower
+    station contained quarry receipts and wage reserves before it was buried.
+  - The city's name, region, polity, planet, calendar, era name, Galactic Cycle
+    coordinate, and relationship to the Flint quarry or any other established
+    place remain unresolved.
+
+## North Rise
+
+- Status: LOCKED
+- Summary: The North Rise is the unnamed quarry city's local coal-steam civic
+  lift between an upper landing and lower station.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: the Rise
+- Notes:
+  - Its ordinary drive uses a boiler-powered shaft, toothed crown gear, cable
+    drum, paired cages and cables, landing stops, and ratchet brakes. Signal
+    flags and a speaking wire connect the two stations.
+  - A kiln-shed blast broke the crown gear, cracked and displaced its masonry
+    pedestal, blocked the stair road, and stranded a cage below while several
+    other lift subsystems remained usable.
+  - The lower station, speaking-wire desk, and civic strongbox were buried by
+    fire and a second rockfall after the final passenger load reached safety.
+    The upper landing and terminal brake remained available for inspection.
+  - The North Rise and every observed component are ordinary, nonliving,
+    nonmagical, and non-agentic. Its architecture establishes no general civic
+    lift design or relationship to another machine, location, or power system.

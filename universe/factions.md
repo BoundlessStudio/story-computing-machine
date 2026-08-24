@@ -482,3 +482,51 @@
   - The examining panel recognized Kethra's demonstrated competence after the
     tower rescue. Its ruling conferred an office and seal, not a new magical
     faculty, voice, universal rank, or authority outside this college.
+
+## Kezli and Olbit's unnamed workshop
+
+- Status: LOCKED
+- Summary: Kezli and Olbit work through an unnamed local engineering workshop
+  whose North Rise response joined independent checking to an explicit,
+  bounded operating warranty.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Kezli's workshop
+- Notes:
+  - Kezli and Olbit divided diagnosis, load-path inspection, calculation,
+    construction, operation, adjustment, and terminal inspection so that major
+    claims survived more than one set of hands.
+  - For the North Rise job, their red-stamped ticket declared the load, governed
+    speed, five-minute runtime, visible wear stages, expected smoke and clatter,
+    clearance rules, terminal isolation, responsible roles, client priority,
+    and no restart after shear.
+  - Some local people said the workshop could make anything work. Kezli treated
+    that as cheap-miracle hyperbole and narrowed the actual promise to making
+    these damaged parts agree for five measured minutes.
+  - The workshop later received paid lead responsibility for the permanent
+    rebuild, with the lift's ordinary mechanics assigned as independent
+    inspectors.
+  - This entry establishes no guild, law, magical warranty, fixed service life,
+    universal workshop practice, or biological or cultural trait shared by all
+    goblins.
+
+## North Rise lift office and council
+
+- Status: LOCKED
+- Summary: A local lift office maintains the North Rise under an unnamed city
+  council with operational, financial, and investigative authority over that
+  civic service.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: lift office; council
+- Notes:
+  - The council could transmit an emergency order through its courier. Its
+    lower-station strongbox held quarry receipts and wage reserves, while the
+    lift office retained enough upper reserve to pay the emergency invoice.
+  - Director Nalda Vick expected an inquiry into her deferred maintenance and
+    the loss produced by her passenger-first priority. The outcome is unknown.
+  - The office issued the permanent rebuild order and could appoint Kezli's
+    workshop as lead and the existing lift mechanics as independent inspectors.
+  - No broader government structure, jurisdiction, currency, legal code,
+    lasting policy, or relationship to another council or civic office is
+    established.

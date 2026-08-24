@@ -1440,3 +1440,80 @@
   - These labels and effects are bounded to the witnessed local practice. They
     establish no general spell vocabulary, universal structural magic, or
     relationship to another system with similar words, materials, or effects.
+
+## North Rise five-minute emergency rig
+
+- Status: LOCKED
+- Summary: Kezli and Olbit built one mundane temporary friction drive that
+  transmitted the North Rise's surviving boiler power across its misaligned
+  drive for five declared minutes under a bounded passenger load.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: five-minute rig; North Rise emergency rig
+- Notes:
+  - After the blast, boiler pressure, piston rods, cables, cages, drum collar,
+    and landing brakes passed local checks. The fragmented brittle crown gear
+    could not be safely welded under passenger torque; the eleven-finger
+    pedestal offset would walk a leather belt off the rims; and direct drive
+    turned the drum about six times too fast for a safe landing. A replacement
+    crown and reset pedestal required days rather than minutes.
+  - Two contact rollers joined the surviving engine collar and hoist rim. Cart
+    springs supplied compliant flexure, a straight ore rail braced the frame,
+    and resin-bound oakcloth supplied the sacrificial contact surface. The
+    paired rollers followed the measured offset and shared side thrust.
+  - A salvaged ore-sorter flywheel smoothed piston pulses. Selected roller
+    diameters reduced shaft speed, and two platform-scale weights formed a
+    mechanical governor that adjusted the steam throttle around a painted safe
+    line. Every component had an ordinary assigned function and chose nothing.
+  - Under the required contact pressure, governed speed, declared passenger
+    load, and available clearance, five standard oakcloth leaves fit and wore
+    from white through blue, yellow, orange, and red to bare iron in five
+    minutes. A sixth standard leaf prevented engagement; six thinner strips
+    exposed iron before the fourth load could arrive.
+  - Chalk wear lines and copper tabs made the physical countdown visible and
+    rang a clapper as each leaf cleared. These signals measured local wear; they
+    did not control time or guarantee operation.
+  - The declared load consisted of forty people, including three children, in
+    four balanced groups of ten with bags on laps and quarry tools left below.
+    Volunteers with ballast and floor marks established the local loading plan;
+    this is not a universal passenger mass or lift capacity.
+  - During the second load, heat expansion drove one roller to its limit mark.
+    Olbit used a premeasured waiting hole and second fulcrum pin to lower spring
+    pressure one notch and recenter it. The correction was planned and depended
+    on the rig's remaining flexure travel.
+  - When the red leaf cleared, bare-iron contact loaded a pre-notched bronze
+    shear link until it parted. Released springs withdrew the rollers, the same
+    motion opened the steam dump, and the North Rise's tested ratchet brake
+    caught the drum at the landing. Sparks, scale, clatter, and steam were
+    predicted physical effects.
+  - After terminal shear, the leaves and link were spent, the shaft was
+    heat-scored, the flexure spring had no safe travel, and the permanent gear
+    and pedestal faults remained. Repacking or restarting was outside the
+    tested warranty.
+  - The rig's five-minute life belongs only to this measured configuration and
+    operation. It establishes no general repair recipe, goblin capability,
+    magical mechanism, machine personhood, universal warranty interval, or
+    relationship to another technology or power system.
+
+## North Rise operating ticket
+
+- Status: LOCKED
+- Summary: The North Rise emergency used an ordinary signed and red-stamped
+  ticket to expose the rig's tested limits, operating sequence, responsibility,
+  and client-selected use priority before engagement.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: red-stamped warranty; five-minute warranty
+- Notes:
+  - The ticket declared four passenger loads, governed speed, five minutes from
+    clutch engagement, five colored wear stages, expected smoke and clatter,
+    clearance at red, terminal shear, roller withdrawal, steam dump, brake
+    engagement, and no restart after shear.
+  - It included signatures for engineer, loadwright, director, and use priority.
+    Nalda's witnessed persons-before-property instruction reserved all four
+    cycles for passengers and left the civic strongbox below.
+  - After operation, punched color boxes documented that each stage occurred as
+    declared, and forty soot-marked fingerprints occupied the witness space.
+  - The ticket carried practical and civic evidence only. It did not compel
+    truth, consent, machinery, moral choice, payment, investigation, or any
+    other consequence and establishes no universal warranty law.
