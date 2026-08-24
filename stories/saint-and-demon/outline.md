@@ -2,49 +2,49 @@
 
 ## Story
 
-- Premise and central promise: At the seventh Long Eclipse, Kelmor can save the world only by killing Oriane, the underfire's bearer and his beloved. Oriane can release it first, irreversibly burning everything except Kelmor. Six years made them lovers without changing either choice. Oriane chooses groundfire; Kelmor kills her an instant later, too late to recall it. She dies, he survives, and the world burns beyond reach.
-- Focal pressure or attachment: Kelmor loves Oriane and a world made of particular people and unfinished lives; treating himself as expendable hides his own desire. Oriane's love makes scale morally irrelevant. She wants him to choose life once but cannot admit that his refusal feels like refusal of her.
-- Counterforce or complication: No antagonist or hidden solution exists. The eclipse, exclusive fire paths, and accurate mutual knowledge oppose them. Each mistakes intimacy for eventual conversion.
-- POV, distance, and information limit: Braided close third-person past, alternating at the thresholds of annual meetings. Neither gains the other's thoughts or moral endorsement. Keep the final visit mostly with Kelmor, making Oriane's choice legible through action and established signs.
-- Governing movement and time shape: Seven visits to Oriane's unnamed house across six years: hostile inspection, unwanted hospitality, shared repair, absence, chosen return, then one continuous final eclipse. Repetition changes the same doorway, meal, and reach. Stop inside the private consequence; no public response, memorial, recovery plan, or verdict.
-- Speculative rule or ordinary-world constraint: Oriane's living agency directs the story-local underfire once each Long Eclipse. If Kelmor kills her at totality before she roots it, all fire passes skyward, seals the breach, and kills them both. Before his touch, she may name one person and root a ground path: that person is spared, she dies, and the path cannot be recalled. Killing her afterward still sends the remaining core skyward but leaves the ground path burning. If neither acts, the breach consumes the world. This establishes no universal saint, demon, sacrifice, or fire rule.
-- Dialogue promise: A doomed romance carried by asymmetrical, funny household talk, not polished moral debate. Teasing bruises, practical questions become evasions, and neither lover converts the other or completes a clean confession.
-- Dialogic medium: Speech, unanswered letters, changed table settings, accepted or refused touch, and recurrent doorway silence. Nonverbal choice carries the climax after speech loses leverage.
-- Dialogue engine: Each visit asks whether the other has changed, altering knowledge of resolve and fear. Negotiating whether Kelmor stays, eats, sleeps, leaves, or returns creates the love that makes their final choices unbearable.
+- Premise and central promise: **The Beloved World** follows adult saint Sennara, required to kill demon-lover Iverax at black dawn, and Iverax, who can save her only by releasing fire worldwide. Deliver an R-rated tragic love story in which desire, sex, anger, and caretaking sharpen their moral opposition. He begins the world-burning; she kills him to stop it. Both definitions become consequential action without clean vindication.
+- Focal pressure or attachment: Sennara wants their stolen ordinary future but cannot make strangers its price. Iverax loves her appetites, profanity, scars, and exhausted private self; he cannot accept a world that praises her for agreeing to die. Each wants the other alive and morally recognizable.
+- Counterforce or complication: Their asymmetry of care, approaching black dawn, and the saint's fatal binding supply the counterforce. Both anticipate betrayal but not its instant. Fire moves faster than explanation; delay kills.
+- POV, distance, and information limit: Close third-person past through Sennara, bodily intimate but sexually non-explicit. She knows the rule and Iverax's habits, not his decision, until heat changes him and the horizon. Present sensations trigger three chronological memories.
+- Governing movement and time shape: One night walk across the Salt Crucible toward the binding fissure, braided with memories of truce, first intimacy, and failed domestic life. Each return shortens distance and options. Keep climax and damaged aftermath private, without public judgment or reform.
+- Speculative rule or ordinary-world constraint: Story-local worldfire inhabits one demon until black dawn; killing him early releases it uncontrolled. At dawn, a saint can reseal it by killing him with ash-silver, then the binding consumes her. If he ignites first, its first surge removes her binding before racing worldwide. Killing him then stops the spread but cannot restore lives or land. Person, bearer, saint, blade, and fire remain distinct.
+- Dialogue promise: Established lovers use sexual familiarity, old irritation, coarse candor, and knowledge of each other's evasions. Tenderness coexists with gallows humor and pettiness; debate cannot erase the injury.
+- Dialogic medium: Speech, chosen or refused touch, shared scars, one old note, intimate silence, and rising heat. Failed requests and a final familiar cue carry consequence.
+- Dialogue engine: Negotiating pace, rest, touch, and death's timing forces promises neither can give. Each attempt changes trust or tactical knowledge. Recognizing ignition commits Sennara to kill; Iverax lets her recognize it, preserving a fraction of her agency.
 
 ## Voice
 
-- Narrative texture: Intimate narration carries mythic stakes through soot in wash water, cooling food, a mended hinge, heat under skin, and eclipse light in a familiar room. Move swiftly through recurrence; slow when an old gesture gains cost.
-- Conversational texture: Range from clipped challenge to petty correction, awkward jokes, unfinished questions, and companionable quiet. Fluency varies by subject; neither speaks perpetually in maxims.
-- Rhetorical ownership: Kelmor names plural consequences and strangers' details, using patient saintly phrasing to hide desire. Oriane owns irreverent humor, singular examples, affectionate misdirection, and authority at home; frightened, she weaponizes remembered wording. He idealizes restraint; she calls self-sacrifice vanity.
-- Pressure behavior: Kelmor's accounting collapses into repetition and bodily facts. Oriane interrupts and fusses with objects; her humor fails before her resolve. Silence marks decisions, not serenity.
-- Relationship movement: Kelmor wants release for the world but cannot ask Oriane to help kill herself. Oriane wants him to ask to live but cannot request self-betrayal. Trust rises as hope of persuasion falls; the last exchange turns certainty into action, not reconciliation.
-- Anti-default: Avoid operatic aphorism-trading, seductive-demon banter, elegant grief, or a loophole preserving every good. Let recognizable habits and incompatible care—not public ethical proof—make the tragedy.
+- Narrative texture: Move by footfall, heat, salt, breath, and remembered touch. Sennara notices bodies before cosmology and consequence without bureaucratic distance; stay sensuous and severe, with physical fact but no gore.
+- Conversational texture: Range from crude teasing and complaint to blunt collision. Use overlap, unfinished thought, sexual ease, bad jokes, and touch or withdrawal carrying what speech cannot.
+- Rhetorical ownership: Sennara owns human examples, dry profanity, social authority, and trap questions. Iverax owns extravagance, indecent humor, affectionate misdirection, and selective listening; he explains desire better than consequence.
+- Pressure behavior: Sennara gets quieter and physically exact. Iverax talks too much, repeats domestic plans, then loses fluency. Both evade promises; neither delivers a polished final argument.
+- Relationship movement: Sennara wants him to accept being loved and killed but cannot request help with her suicide. Iverax wants her to choose herself but cannot request mass death. Exchanges move misreading into knowledge and incompatible action.
+- Anti-default: Do not make them articulate professionals solving magic, a redemption-through-love pair, or glamorous enemies trading interchangeable banter. Build love through embarrassing need, bodily familiarity, unequal moral scope, and surviving consequence.
 
 ## Beats
 
-1. Open on Kelmor's seventh arrival. Oriane has prepared for welcome and refusal; their friction over his lateness lets intimacy precede explanation while underfire signs establish the clock.
-2. Recur to his first guarded inspection. Oriane answers with unwanted hospitality and harmless directional heat. Their refusal to find each other morally mysterious begins the attraction.
-3. Compress the middle visits through household changes: unrequired returns, unanswered letters kept, a failed meal, a worsened repair, jealousy of the lives Kelmor remembers, and one absence. Love forms through error, pettiness, and return rather than declaration.
-4. In the final visit, rejected options expose the wound beneath the ethics: Kelmor never asks to be saved; Oriane experiences that as refusal of her. Speech does not resolve it.
-5. At totality, familiar gestures become tactical. Kelmor must cross the room and touch Oriane; she can release first. Use interrupted movement and established heat signs, not speeches.
-6. Oriane names Kelmor and sends fire down. He kills her almost simultaneously, sealing the breach but not recalling her fire. Keep violence non-graphic: Oriane dies, Kelmor is protected, the world burns.
-7. Stop in Kelmor's constrained perspective once the irreversible consequence is clear. No survivors' coda, resurrection, afterlife meeting, rebuilding, or final thematic line.
+1. Hours before black dawn, they enter the Salt Crucible. Establish blade, rising heat, adult familiarity, and catastrophe. Their argument starts with food, pace, and an old sexual joke rather than abstraction.
+2. A salt cut recalls their meeting: she came to execute him, learned early death would loose the fire, and accepted his help removing a holy barb. Armed truce begins in disgust, attraction, and rejected caricatures.
+3. Testing his temperature prompts one relational memory: after surviving hunters, they drink, quarrel, tend wounds, and freely choose sex. Fade to black after explicit adult consent; the awkward aftermath makes their wanted future concrete.
+4. At a ruined shelter, she seeks his non-ignition; he seeks her abandonment of the rite. Pettiness and desire interrupt. They choose final physical closeness without making sex reconciliation, cure, or permission.
+5. A failed domestic season shows chores, pleasure, then a quarrel after Sennara risks herself for strangers. She loves his fierce attention; he fears her universal care is always preparing to take her.
+6. At the fissure, Iverax gives a familiar cue before igniting. The surge removes her binding and causes visible regional deaths. Sennara kills him before it encompasses the world. Keep violence non-graphic and his death permanent.
+7. Sennara wakes among smoke, refugees, and missing voices: most survived; his attempted price remains real. End without tribunal or absolution, on her reaching for absent heat among people saved and harmed.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Kelmor | new | Adult saint and lover; targeted checks found no confusing reuse. |
-| Oriane | new | Adult demon and underfire bearer; targeted checks found no confusing reuse. |
+| Sennara | new | Adult focal saint and Iverax's established lover; no accepted exact or confusing noun reuse found. |
+| Iverax | new | Adult person-like demon, worldfire bearer, and Sennara's established lover; no accepted exact or confusing noun reuse found. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No named place proposed. |
+| Salt Crucible | new | Empty salt basin crossed on the final night; contains the binding fissure. No accepted exact or confusing noun reuse found. |
 
 ## Continuity
 
-- Canon used: One physical world persists across eras; this story occupies an undefined one. Saint, demon, and magic are cultural labels, and underfire requires living agency.
-- Boundaries and unknowns: Do not connect Oriane to the afterlife, established infernal cultures, or canonical fire systems. The eclipse's origin, era, cost, and rules remain local, establishing no universal sacrifice ethic. Keep violence non-graphic and adult intimacy non-explicit.
+- Canon used: An unspecified era of the one deep-time physical world. Magical and religious terms are viewpoint language, not objective categories; Iverax remains a person whose title does not reduce his love, consent, or responsibility.
+- Boundaries and unknowns: All proposed nouns and mechanisms are story-local. Establish no recurring office, faction, divine government, universal sacrifice, or connection to Cinder Annex, Ruth's station, Bellweather ashfire, or other saint, demon, afterlife, or fire traditions. Do not show Iverax's postmortem destination. Both lovers are adults; intimacy fades to black, and violence stays non-graphic but consequential.
