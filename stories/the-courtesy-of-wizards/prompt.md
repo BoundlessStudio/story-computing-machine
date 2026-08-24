@@ -17,3 +17,26 @@
 - Required: a complete story that resolves its central promise
 - Craft profile: prospective-2026-08-23
 - Avoid: none specified
+
+## Rewrite request
+
+> i read the "The Courtesy of Wizards" and its just boarding i don't think you understand the prompt. create a plan this time before handling a re-write.
+
+## Rewrite reference images
+
+- None supplied for this rewrite.
+
+## Rewrite selections
+
+- Scope: REBUILD
+- Outside named selections: FLEXIBLE
+- Keep exact: none specified
+- Keep in substance: none specified
+- Change or replace: The entire reader-facing story, including premise execution, characters, setting, structure, dialogue, title, and ending
+- Remove: none specified
+
+## Rewrite constraints
+
+- Cover: REGENERATE
+- Craft profile: prospective-2026-08-23
+- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.
