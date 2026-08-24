@@ -707,3 +707,72 @@
   6. The event's civil date, city, region, Galactic Cycle coordinate, ordering
      relative to other stories, and relationship to another ability, emergency,
      or plumbing system remain unresolved.
+
+## Ryo Sato's first nine undated assignments
+
+- Status: LOCKED
+- Summary: Before the storm-engine event, Eiren carried the living Ryo Sato
+  through nine consented crisis assignments whose victories accumulated nine
+  marked gifts without giving him self-worth apart from usefulness.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ryo's first nine worlds; nine victories
+- Notes:
+  1. Ryo held a broken floodgate, cleared a fevered well, carried seed grain
+     through burning grass, translated a furred hunting clan's warning, found a
+     path through a mirror corridor, lifted a collapsed fortress arch, stepped
+     through shadow into a besieged gatehouse, warded a winter refuge, and
+     exposed stolen water maps whose concealment sustained a war.
+  2. Those assignments left, respectively, marked capacities for extreme
+     endurance, cleansing warmth, heat resistance, creature-speech,
+     fracture-sight, great strength, shadow-step, warding, and recognition of a
+     decisive action. The gifts persisted with Ryo until the tenth assignment.
+  3. Ryo repeatedly departed before meals, care, grief, or celebration could
+     require him to exist outside the hero role. Eiren interpreted his consent
+     and success as evidence that more assignments were helping.
+  4. The destinations, other participants, dates, durations, causal systems,
+     and ordering relative to established eras and stories remain unknown.
+     `Worlds` is Ryo and Eiren's practical assignment language, not an objective
+     classification as planets, dimensions, universes, or timelines.
+
+## Undated tenth assignment and storm-engine severance
+
+- Status: LOCKED
+- Summary: Ryo's tenth consented assignment ended an unnamed town's sacrificial
+  storm-engine pattern, consumed his nine gifts and recurring assignment link,
+  and returned him powerless to choose an ordinary next step.
+- First established: stories/tenth-world-lesson/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: tenth-world lesson; storm-engine severance
+- Notes:
+  1. Exhausted and nearly out of filament, Eiren disclosed that she could see
+     only a pull centered on the ending of a hero's job, could offer one brief
+     return during the storm peak, and did not know the full circumstances. Ryo
+     consented and entered the unnamed hillside town.
+  2. Jori Vale's crew was dismantling the central storm engine in favor of nine
+     manual stations. Against Jori's instruction, Ryo entered the control
+     circle, supplied his gifts, and was mechanically accepted as a new
+     Necessary One; his attempts to guarantee safety disabled the distributed
+     system one station at a time.
+  3. After one failed solitary attempt, Eiren admitted that her need to be
+     needed had helped perpetuate Ryo's assignments and refused to prescribe
+     his decision. Jori and the ninth crew restored their station's current by
+     hand and asked Ryo to stop taking away everyone else's chance to act.
+  4. On Jori's count, Ryo released one gift into each station. He surrendered
+     his final certainty, stepped out of the control circle before success was
+     assured, and asked Eiren to use the remaining filament on the exposed core
+     rather than on his extraction.
+  5. Eiren cut the core, ending the assignment thread. Nine uneven channels
+     divided the storm through hundreds of living participants; the tower and
+     roofs were damaged and the town lost power, but no person was consumed as
+     the Necessary One.
+  6. Ryo and Eiren returned to the threshold room, acknowledged that neither
+     was fixed and that care did not erase harm, and ended the project-and-hero
+     relationship. After rest, Eiren made one terminal one-way fold to Ryo's
+     original apartment doorway.
+  7. Ryo returned anxious and without gifts, asked a trusted relative for help
+     making an appointment, considered visiting a neighborhood garden for his
+     own preference, and opened his ordinary apartment door himself.
+  8. The event's civil date, durations beyond Eiren's statement that the wider
+     pattern consumed nine years of her life, destination topology, and ordering
+     relative to every established story and era remain unresolved.
