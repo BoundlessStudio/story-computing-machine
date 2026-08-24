@@ -1293,3 +1293,73 @@
     cooperation without recasting his earlier interference as heroism.
   - Jori's exact age, origin, later history, and relationship to any other Vale
     or established engineer remain unresolved.
+
+## Kethra
+
+- Status: LOCKED
+- Summary: Kethra is a mute callwright shaper who designed the voiced lattice
+  and qualified for her college's local office of archmage through an emergency
+  tower rescue.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Kethra hears and communicates fluently through sign, slate, expression, and
+    field diagrams. She cannot produce ordinary spoken language; the cause of
+    her muteness is unstated, and the examination neither cures nor bypasses it.
+  - As a shaper, Kethra supplies living power, pattern, target, and direction.
+    Her local spells still require an authorized living caller to speak the
+    registered name, but that contribution does not transfer ownership of her
+    architecture or shaping to the caller.
+  - During the tower failure, Kethra diagnosed Dorram's dangerous load transfer,
+    assumed incident command, dismantled her four-year masterwork, and directed
+    the sequence that brought the occupied gallery down safely.
+  - The next morning she began her first safety briefing as an archmage using a
+    roster that preserved voluntary assignments, individual voice limits, and
+    the field signs for yes, wait, and stop.
+  - Her age, origin, family, later career, and relationship to any other magical
+    institution, spell system, or established person remain unresolved.
+
+## Ulan
+
+- Status: LOCKED
+- Summary: Ulan is a living caller and signing collaborator who contributed
+  three chosen calls to Kethra's archmage demonstration and tower rescue.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - After calling `Weightward` in the opening demonstration, Ulan identified a
+    rough edge in his throat and set a limit of two further safe calls. Kethra
+    recorded that limit, and he used those calls for `Airclear` and
+    `Safe Descent`.
+  - Ulan used wait when he needed recovery and gave fresh assent before the
+    final call after the sound path broke. He later declined spoken questions
+    and answered in sign while resting his voice.
+  - Ulan supplies living breath, consent, labor, and the audible registered
+    names; he does not shape, target, power, or own Kethra's spells.
+  - His age, occupation, origin, wider relationships, later history, and ability
+    to shape magic remain unresolved.
+
+## Dorram
+
+- Status: LOCKED
+- Summary: Dorram is the callwright college's chief examiner, a living shaper
+  and caller who recognized his emergency error, yielded command to Kethra, and
+  helped certify her as an archmage.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Dorram self-authorized through a brass node, shaped, called, powered, and
+    sustained `Roofstay`; his staff marked roof geometry but supplied no power.
+  - His incomplete structural map transferred the roof load toward the central
+    exit column. After Kethra demonstrated the danger, he placed her in incident
+    command, ended his spell on her signal, and voluntarily called her mapped
+    `Crown Release`.
+  - Dorram and the panel credited the callers' courage and labor separately from
+    Kethra's architecture, power, diagnosis, sequence, and command. His initial
+    dependence question and later correction do not establish general examiner
+    hostility or disability prejudice.
+  - His age, origin, prior career, later history, and relationship to any other
+    established person or institution remain unresolved.

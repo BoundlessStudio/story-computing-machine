@@ -776,3 +776,46 @@
   8. The event's civil date, durations beyond Eiren's statement that the wider
      pattern consumed nine years of her life, destination topology, and ordering
      relative to every established story and era remain unresolved.
+
+## Undated callwright examination-tower rescue
+
+- Status: LOCKED
+- Summary: During one archmage examination at an unnamed callwright college, a
+  structural failure turned Kethra's demonstration into a rescue that destroyed
+  her voiced lattice and established her qualification for the local office.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Kethra's archmage examination; examination-tower rescue
+- Notes:
+  1. Kethra and Ulan demonstrated `Weightward` through her voiced lattice before
+     the panel began a resilience trial. Kethra noticed a small western-joint
+     crack, requested a manual check, reduced her planned load by one third, and
+     confirmed each caller's assent.
+  2. The old joint then failed under the occupied gallery's ordinary weight.
+     Kethra aborted one pattern and honored an apprentice caller's stop. Dorram
+     self-called `Roofstay`, caught the roof, and unknowingly transferred its
+     load toward the buckling central exit column.
+  3. Kethra diagnosed the load path, used Ulan's chosen `Airclear` call to open
+     one breathing corridor, honored his wait, and mapped a sequence that would
+     sacrifice the crown rather than the trapped people. Dorram recognized his
+     error and placed her in incident command.
+  4. Kethra dismantled her masterwork and held three isolated cells. An adult
+     volunteer called `Weightward` to ground the gallery; Dorram ended
+     `Roofstay` and called Kethra's `Crown Release`; then a speaking rail broke
+     before Ulan's final call. Kethra carried the active node into direct range,
+     asked again, received his fresh yes, and released `Safe Descent` before the
+     ready window closed.
+  5. The platform and crown stones reached the open court slowly enough for the
+     last apprentice to be pulled clear. The injuries were bruises and shallow
+     cuts; the upper crown and ornate lattice were lost. The callers retained
+     credit for their own choices, courage, labor, breath, and limits.
+  6. At dusk, Dorram and the panel found Kethra qualified under all four local
+     archmage criteria because of her architecture, control, teachable method,
+     sacrifice, sequencing, and incident command. The ruling neither cured her
+     muteness nor reassigned the callers' contributions to her.
+  7. The next morning Kethra began her first safety briefing as an archmage with
+     a caller roster for voluntary assignments, individual voice limits, yes,
+     wait, and prominently placed stop.
+  8. The event's civil date, era, wider location, later institutional effects,
+     Galactic Cycle coordinate, and ordering relative to every other story
+     remain unresolved.
