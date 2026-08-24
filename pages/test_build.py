@@ -1,5 +1,6 @@
 import importlib.util
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -918,6 +919,21 @@ class StorySystemTests(unittest.TestCase):
             with self.subTest(source=source):
                 self.assertEqual(expected, build._content_rating(source))
 
+    def test_prompt_parser_strips_wp_marker_with_optional_markdown_heading(self):
+        cases = (
+            "> [WP] A traveler returns through a gate.",
+            "> # [WP] A traveler returns through a gate.",
+            "> # **[WP] A traveler returns through a gate.**",
+            "> # WP] A traveler returns through a gate.",
+        )
+        for source in cases:
+            with self.subTest(source=source):
+                prompt = f"# Prompt\n\n## Prompt\n\n{source}\n\n## Constraints\n\n- None\n"
+                self.assertEqual(
+                    "A traveler returns through a gate.",
+                    build.parse_writing_prompt(prompt, Path("prompt.md")),
+                )
+
     def test_same_day_catalog_order_uses_source_file_time(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -973,6 +989,9 @@ class StorySystemTests(unittest.TestCase):
         self.assertTrue(all(story.cover == f"covers/{story.slug}.jpg" for story in catalog.stories))
         self.assertTrue(all(build.DATE.fullmatch(story.edited) for story in catalog.stories))
         self.assertTrue(all(story.rating in build.RATINGS for story in catalog.stories))
+        self.assertFalse(
+            any(re.match(r"^(?:#{1,6}\s*)?\[?WP\]", story.prompt) for story in catalog.stories)
+        )
 
     def test_build_uses_stored_catalog(self):
         with tempfile.TemporaryDirectory() as temporary:

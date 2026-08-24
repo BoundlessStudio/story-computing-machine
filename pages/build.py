@@ -101,8 +101,7 @@ def parse_writing_prompt(content: str, path: Path) -> str:
         if cleaned:
             lines.append(cleaned)
     prompt = re.sub(r"\*\*", "", " ".join(lines)).strip()
-    if prompt.startswith("[WP]"):
-        prompt = prompt.removeprefix("[WP]").strip()
+    prompt = re.sub(r"^(?:#{1,6}\s*)?\[?WP\]\s*", "", prompt, count=1).strip()
     if not prompt:
         raise ValueError(f"{path} has an empty Prompt section")
     return prompt
