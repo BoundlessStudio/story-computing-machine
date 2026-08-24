@@ -12,7 +12,6 @@ Do not update it for current stories. Current metadata lives only in
 | `all-accounts-due` | *All Accounts Due* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `four-million-falling` | *Four Million Falling* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-sky-remembers-us` | *The Sky Remembers Us* | candidate | no | pending | no | — | Release-certified story candidate. |
-| `the-unrepeatable-working` | *The Unrepeatable Working* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-healers-measure` | *The Healer's Measure* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `clerics-infernal-ex` | *Hello, Lover* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `transitions-in-common` | *Transitions in Common* | candidate | no | pending | no | — | Release-certified story candidate. |
