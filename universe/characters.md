@@ -1363,3 +1363,79 @@
     hostility or disability prejudice.
   - His age, origin, prior career, later history, and relationship to any other
     established person or institution remain unresolved.
+
+## Kezli
+
+- Status: LOCKED
+- Summary: Kezli is a goblin emergency engineer who led her unnamed workshop's
+  response to the North Rise failure and became paid lead for its permanent
+  rebuild.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Kezli diagnosed the failed crown gear by sound and inspection, confirmed
+    which lift subsystems remained usable, and co-designed the measured
+    five-minute friction rig with Olbit.
+  - Her earlier maintenance bid had warned about the North Rise pedestal. She
+    nevertheless refused to promise a permanent repair, a sixth minute, or a
+    post-shear restart that the available evidence did not support.
+  - Kezli separated engineering limits from the client's moral decision: she
+    priced the passenger and strongbox options but required Director Nalda Vick
+    to choose and record the use priority.
+  - After the evacuation, Kezli inventoried the spent rig, accepted full
+    payment for the emergency work, and signed the permanent rebuild order.
+  - Her demonstrated expertise depends on measurement, testing, Olbit's
+    independent checks, the declared load, and this lift's surviving parts. It
+    is neither magic nor a species-wide goblin capacity.
+  - Kezli's age, family, wider history, later work, and relationship to any
+    established engineer, workshop, city, or mechanical system remain
+    unresolved.
+
+## Olbit
+
+- Status: LOCKED
+- Summary: Olbit is a goblin loadwright and Kezli's operating partner on the
+  North Rise emergency rig.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Olbit independently checked the lift's load path, cable, cages, brakes,
+    offset, and clearances before accepting any passenger operation.
+  - He contributed the second contact roller, flexure geometry, salvaged
+    flywheel, mechanical governor, warning tabs, and the prepared fulcrum-pin
+    correction used during the second load.
+  - Olbit rejected the passenger description `forty, roughly adult`, helped
+    establish four balanced ten-person loads, challenged Kezli's almost-written
+    sixth minute, monitored contact pressure, and inspected the terminal brake.
+  - His practice shows local professional competence and a deliberate
+    partnership with Kezli; it does not define every loadwright, goblin,
+    workshop, or emergency method.
+  - Olbit's age, family, wider history, later work, and relationship to any
+    established person or institution remain unresolved.
+
+## Nalda Vick
+
+- Status: LOCKED
+- Summary: Director Nalda Vick is the human director responsible for the North
+  Rise during its undated failure and evacuation.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Director Nalda Vick; Director Vick; Nalda
+- Notes:
+  - Nalda previously rejected Kezli's pedestal-maintenance bid and deferred the
+    work. During the emergency she signed the rig's declared limits and faced a
+    council order to retrieve a civic strongbox before evacuating everyone.
+  - After Kezli established that an extra cycle would leave ten people below,
+    Nalda voluntarily wrote, witnessed, and transmitted a
+    persons-before-property priority reserving all four loads for passengers.
+  - Nalda manifested and cleared the arriving groups, accepted the strongbox's
+    loss and the prospect of an inquiry, documented her maintenance and
+    priority decisions, and paid the emergency invoice in full.
+  - She commissioned Kezli's workshop as paid lead for the permanent pedestal
+    and crown-gear rebuild and named the ordinary lift mechanics as independent
+    inspectors. Completion of that rebuild and the inquiry's outcome are
+    unknown.
+  - Nalda's age, family, later career, wider authority, and relationship to any
+    other Vick, council, office, or established person remain unresolved.

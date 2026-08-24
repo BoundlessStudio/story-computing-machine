@@ -758,3 +758,21 @@
     names, universal spell labels, proof that speech outranks sign or writing,
     or evidence of shared origin with another call-, voice-, name-, lattice-,
     brass-, or structural-magic system.
+
+## Five-minute warranty
+
+- Status: LOCKED
+- Summary: The reader-facing label for Kezli and Olbit's declared operating
+  envelope for the temporary North Rise emergency rig.
+- First established: stories/the-five-minute-warranty/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: red-stamped warranty; North Rise operating ticket
+- Notes:
+  - The in-story ticket declares five minutes from clutch engagement under one
+    governed speed and passenger load, five colored oakcloth wear stages, a
+    designed terminal sequence, and no restart after shear.
+  - `Oakcloth leaf`, `flexure brace`, `use-priority line`, and `terminal shear`
+    are ordinary local component or record descriptions used for this job.
+  - The label is not a magical contract, general engineering standard,
+    species-wide goblin practice, universal five-minute limit, or alias for any
+    other warranty, machine, spell, artifact, or power system.
