@@ -3,7 +3,9 @@
 ## Prompt
 
 > [WP] A demon appears before your party, exclaiming “Hello lover!” Everyone looks at the bard, but then the cleric speaks up. “Actually, my ex is referring to me.”
->
+
+## Production brief
+
 > Create a wholly new current-format version of “Hello, Lover,” replacing the deleted legacy execution while preserving the story identity agreed in our editorial discussion.
 >
 > Keep these story elements in substance: close third person centered on cleric Emet Sarn, past tense; his adult demon ex Lacrixa; companions Bosk the bard and Udren the shield-bearer; character-driven fantasy adventure with romantic-comedy timing, infernal danger, and an emotionally sincere core; a stolen courtesy-hinge leaf expanded into a dangerous crossing between a roadside sanctuary and Lacrixa’s populated kiln court; three borrower loops removed in escalating stages; the former lovers’ embodied ability to work together; Emet’s admission that the House of Common Shelter never forbade their relationship; Lacrixa’s refusal of reunion; Udren grounding Emet without taking away his choice; Bosk maintaining the count after losing his drum; mutual destruction of the keyed leaves; reciprocal proper-name goodbyes; and the final contrast of an ordinary door propped open to cool morning.
