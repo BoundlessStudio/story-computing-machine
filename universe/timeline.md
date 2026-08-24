@@ -637,3 +637,73 @@
   water with human institutions. The intended sleep duration is not guaranteed,
   does not order this event relative to another story, and establishes no
   connection to the Sleepless Majesty collective's separate refuge or sleep.
+
+## Undated Brightward orientation tour
+
+- Status: LOCKED
+- Summary: On Caleb's first orientation morning at Brightward College, his
+  reunion with Mirelle exposed the fear and instrumental interest surrounding
+  the Blizzard Baroness title and changed how he supported her in public.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: None
+- Notes:
+  1. Forty-three minutes after arriving, Caleb found Mirelle, ran to her, and
+     exchanged a familiar welcome embrace. The registration hall fell silent
+     because other students feared her as the Blizzard Baroness.
+  2. During Mirelle's campus tour, students avoided her while one resistance-
+     practical student pursued access to her cold after having classified her
+     first as equipment and then as a special capability provider. Mirelle
+     refused, and Caleb initially tried to soften her answer.
+  3. In a private service stair, Mirelle explained the title's protective use
+     and exploitative cost. Caleb apologized for making her refusal smaller and
+     agreed to stop when she addressed him directly rather than translating her
+     for the campus.
+  4. Caleb honored her later answers without interceding. At the registration
+     landing, Mirelle chose a second public embrace; the crowd did not convert
+     or gain a claim on her private tenderness.
+  5. The civil date, city, country, era, Galactic Cycle coordinate, Caleb's
+     later enrollment, and this event's ordering relative to every other story
+     remain unresolved. No crossover with another school, cold user, or power
+     system is established.
+
+## Undated apartment rupture and two-tug repair
+
+- Status: LOCKED
+- Summary: During one Saturday in Miles Arden and Luz Navarro's unnamed
+  apartment, two shrinking-work cycles led from a minor repair and concealed
+  symptoms to a ruptured kitchen line, a jointly completed shutoff, and revised
+  safety terms.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: apartment valve incident
+- Notes:
+  1. During a fifteen-centimetre morning cycle, Luz repaired a jammed latch
+     inside a dry, unplugged countertop mixer, returned after eight minutes, and
+     showed a fine tremor. Later that morning, she and Miles found a corroded,
+     damp cold-water branch beneath the sink whose apartment stop did not fully
+     halt the drip; they stopped using the sink and postponed both repair and
+     argument.
+  2. Six hours after the morning cycle, Luz began a separate twelve-centimetre
+     cycle to reset a dry cabinet hinge pin. The corroded branch ruptured under
+     ordinary building pressure. Miles cut kitchen power, warned the unit below,
+     contained the flood, and called emergency maintenance; after he presented
+     the facts and his fear, Luz chose to enter the cabinet.
+  3. Luz cleared the hidden valve's clip and positioned a utility cord while
+     Miles supplied the full-sized pull. He honored each stop and slack signal.
+     After a slipped loop and worsening cold and tremor, Luz chose one final
+     attempt and directed two controlled pulls that closed the valve before the
+     twenty-three-minute alarm. Neither partner could complete the shutoff alone.
+  4. Miles lit and dried the exit rather than reaching blindly into the cabinet.
+     Luz left under her own power, requested his open hand as a bridge across the
+     final wet gap, reached the mat, and chose an early return. Its onset was
+     delayed by about ten seconds, but she returned over eight seconds before
+     the twenty-four-minute limit and accepted warmth, glucose, water, and a
+     chair.
+  5. After professional isolation of the branch, Miles apologized for his
+     unilateral veto and Luz disclosed tremors during three cycles. They wrote
+     revised terms together. Days later, after repair and under isolated
+     conditions, Luz chose another twelve-centimetre cycle and the couple
+     successfully tested an external valve pull using their two-tug signal.
+  6. The event's civil date, city, region, Galactic Cycle coordinate, ordering
+     relative to other stories, and relationship to another ability, emergency,
+     or plumbing system remain unresolved.

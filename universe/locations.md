@@ -510,3 +510,42 @@
   inspectors. Their water remains under human institutional control. This one
   local accommodation does not establish a universal dragon habitat, sleep
   facility, civic duty, or water system.
+
+## Brightward College
+
+- Status: LOCKED
+- Summary: A local superhero college with adult students whose hazardous
+  capability training, contradictory navigation, and campus culture frame
+  Mirelle's reputation as the Blizzard Baroness.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: Brightward
+- Notes:
+  - Observed campus spaces include a round central registration hall, dining
+    hall, clinic, equipment corridor, practice rooms and courts, covered
+    walkways, service stairs, training galleries, roofs, and courtyards.
+    Official arrows, luminous guidance, and temporary signs may contradict one
+    another.
+  - Brightward uses slates, forms, shield tests, demonstrations,
+    safety lights, waivers, and capability-specific training. One student's
+    effort to classify Mirelle as equipment or a provider for a live resistance
+    test is a bounded event, not an established college-wide policy.
+  - The college's city, country, civil date, era, Galactic Cycle coordinate,
+    accreditation authority, and relationship to Northbridge Secondary, Cinder
+    Annex, or any other institution remain unresolved.
+
+## Miles and Luz's unnamed apartment
+
+- Status: LOCKED
+- Summary: Miles Arden and Luz Navarro share an unnamed third-floor apartment
+  in an undated setting compatible with the modern-like era.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Its kitchen includes a sink base cabinet, fixed toe-kick, cold-water branch
+    line, hard-to-reach quarter-turn shutoff, kitchen breaker, and a unit below.
+    After the line rupture, the branch was professionally isolated and repaired
+    and the couple installed an external cord-operated valve pull.
+  - No city, country, planet, calendar year, building name, or relationship to
+    another established location is known. The plumbing and retrofit are
+    ordinary nonliving mechanisms.

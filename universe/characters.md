@@ -1133,3 +1133,86 @@
   - They are not Varkesh's eleven fellows or members of the Sleepless Majesty.
     The exact count, political disguise, and desire for long sleep are parallel
     local facts, not a crossover or universal dragon biology.
+
+## Caleb
+
+- Status: LOCKED
+- Summary: An adult incoming Brightward College student and Mirelle's
+  established boyfriend, whose first campus tour taught him to stand beside her
+  without translating or reducing her refusals.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: None
+- Notes:
+  - Before enrolling at Brightward, Caleb already knew Mirelle's cursed-cold
+    trigger, warning signs, physical costs, touch preferences, private
+    temperament, and ordinary habits through their shared domestic history.
+  - During orientation he tried to soften Mirelle's refusal of an instrumental
+    request. After she told him not to make her answer smaller, he apologized,
+    stopped interceding, and let her decide what each later encounter required.
+  - His humor is expansive and self-mocking. His surname, exact age beyond
+    adulthood, powers or lack of powers, origin, and later course at Brightward
+    remain unresolved.
+
+## Mirelle
+
+- Status: LOCKED
+- Summary: An adult Brightward College cursed-cold prodigy, feared under the
+  campus title Blizzard Baroness and established in an affectionate romantic
+  relationship with Caleb.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: Blizzard Baroness; Baroness
+- Notes:
+  - Mirelle is blunt and sparing with most people, dryly affectionate with
+    Caleb, and exact about consent, usefulness, and refusal. Their familiar
+    embraces neither cure her curse nor make her safe, available, or
+    explainable to other people.
+  - The Blizzard Baroness title appeared on her locker last winter amid campus
+    incidents and exaggerated rumors. She leaves the title standing
+    because the resulting distance can protect her boundaries, while
+    recognizing that fear is not respect and can coexist with exploitation.
+  - She iced the south practice court during an evacuation, failed a group
+    whose shields cracked, and warned one person who persisted in touching her
+    from behind. Rumors enlarged each incident beyond the established facts.
+  - She refused a resistance-practical request that classified her first as
+    equipment and then as a special capability provider, and later chose to
+    embrace Caleb publicly on her own terms.
+
+## Miles Arden
+
+- Status: LOCKED
+- Summary: At twenty-nine, Miles Arden is Luz Navarro's cohabiting partner of
+  four years and the full-sized participant in their apartment valve incident.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: Miles
+- Notes:
+  - Miles and Luz share their apartment, bills, domestic routines, and weekend
+    breakfasts. During the valve incident, Miles supplied the reach and force
+    Luz lacked at twelve centimetres, honored her stop and slack signals, and
+    offered contact only as a choice or after a direct request.
+  - Miles keeps detailed shrinking-work safety procedures. He later apologized
+    for turning fear into a unilateral veto over Luz's body and joined her in
+    replacing it with terms that require honest risk information, preserve her
+    bodily authority, and let either partner decline their own participation.
+  - No occupation, wider family, public role, or relationship to another
+    established person is known.
+
+## Luz Navarro
+
+- Status: LOCKED
+- Summary: At twenty-eight, Luz Navarro is Miles Arden's cohabiting partner and
+  the sole observed living operator of her repeatable shrinking ability.
+- First established: stories/life-with-a-girlfriend-with-shrinking-powers/05-story.md;
+  locked by explicit user decision, 2026-08-24
+- Aliases: Luz
+- Notes:
+  - Luz remains the same adult person at every observed size. She makes the
+    decisive bodily, route, valve, and return choices during the apartment
+    incident and continues using her ability after it.
+  - After hiding tremors from three cycles because she feared information would
+    become permission, Luz agreed to disclose symptoms needed for coordination
+    while retaining the final choice over her body. Her ability is neither
+    cured nor surrendered.
+  - No origin, diagnosis, occupation, public status, wider family, or
+    relationship to another transformation system or established person is
+    known.
