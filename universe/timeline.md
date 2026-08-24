@@ -637,3 +637,31 @@
   water with human institutions. The intended sleep duration is not guaranteed,
   does not order this event relative to another story, and establishes no
   connection to the Sleepless Majesty collective's separate refuge or sleep.
+
+## Undated Brightward orientation tour
+
+- Status: LOCKED
+- Summary: On Caleb's first orientation morning at Brightward College, his
+  reunion with Mirelle exposed the fear and instrumental interest surrounding
+  the Blizzard Baroness title and changed how he supported her in public.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: None
+- Notes:
+  1. Forty-three minutes after arriving, Caleb found Mirelle, ran to her, and
+     exchanged a familiar welcome embrace. The registration hall fell silent
+     because other students feared her as the Blizzard Baroness.
+  2. During Mirelle's campus tour, students avoided her while one resistance-
+     practical student pursued access to her cold after having classified her
+     first as equipment and then as a special capability provider. Mirelle
+     refused, and Caleb initially tried to soften her answer.
+  3. In a private service stair, Mirelle explained the title's protective use
+     and exploitative cost. Caleb apologized for making her refusal smaller and
+     agreed to stop when she addressed him directly rather than translating her
+     for the campus.
+  4. Caleb honored her later answers without interceding. At the registration
+     landing, Mirelle chose a second public embrace; the crowd did not convert
+     or gain a claim on her private tenderness.
+  5. The civil date, city, country, era, Galactic Cycle coordinate, Caleb's
+     later enrollment, and this event's ordering relative to every other story
+     remain unresolved. No crossover with another school, cold user, or power
+     system is established.

@@ -6,17 +6,17 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Caleb | new | Adult incoming student and Mirelle's established boyfriend; no exact or alias reuse was found, and the full form remains readily distinct from recurring Cal Mercer / Cal and the current forms Caelumar and Calo. |
-| Mirelle | new | Cursed cold prodigy and Caleb's girlfriend; no exact or alias reuse was found, and the name remains distinct from Mireth. |
-| Blizzard Baroness | new | Mirelle's qualified campus title; no exact or confusing reuse was found. |
-| Baroness | new | Shortened address for Mirelle's campus title; its story-specific use is not confusing with an unrelated generic Baroness role. |
+| Caleb | recurring | Intentionally the same LOCKED Caleb established by this story; no other exact or alias reuse was found, and the full name remains clear beside Cal Mercer / Cal, Caelumar, and Calo. |
+| Mirelle | recurring | Intentionally the same LOCKED Mirelle established by this story; no other exact or alias reuse was found, and the name remains readily distinct from Mireth and the other nearby Miri- forms. |
+| Blizzard Baroness | recurring | Intentionally the LOCKED campus title for Mirelle established by this story; no other exact, alias, close-spelling, or confusing reuse was found. |
+| Baroness | recurring | Intentionally the shortened LOCKED alias for Mirelle established by this story; its use remains distinct from an unrelated generic baroness role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Brightward College | new | Story-local superhero college; no exact or alias reuse was found. |
-| Brightward | new | Short form of Brightward College; its place function and spelling remain distinct from the person-name Brightguard. |
+| Brightward College | recurring | Intentionally the same LOCKED superhero college established by this story; no other exact, alias, close-spelling, or confusing reuse was found. |
+| Brightward | recurring | Intentionally the LOCKED short form of Brightward College established by this story; its spelling and place function remain distinct from the person-name Brightguard. |
 
 ## Continuity
 
@@ -31,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The rewrite preserves the exact title and required approach line and fulfills the amended RESHAPE contract: Caleb already knows Mirelle's curse, costs, touch preferences, affection, and private temperament, while Brightward's title, fear, rumors, avoidance, and exploitation supply the discovery. The familiar opening hug, institutional request, private correction, resumed tour, and Mirelle-led public embrace remain causally coherent without the removed mechanics tutorial, second freeze, relationship-doubt arc, or hidden-true-self framing. Caleb's expansive social humor, Mirelle's narrow authority and dry affection, and the students' rumor, euphemism, and instrumental need stay distinct; the decisive refusal changes Caleb's conduct, and the final exchange trusts the repeated embrace rather than explaining it away.
+- Notes: The rewritten story preserves the exact title and approach line and satisfies the amended RESHAPE selections: Caleb begins with established knowledge of Mirelle's curse, costs, touch, temperament, and affection, while Brightward's title, fear, avoidance, rumors, and exploitation provide the new discoveries. The welcome hug, attempted softening of Mirelle's refusal, private correction, resumed tour, and Mirelle-led public embrace are causally coherent; the removed mechanics tutorial, second freeze, permission-apology arc, relationship doubt, and hidden-true-self framing remain absent. Caleb's expansive self-mockery, Mirelle's narrow authority and dry affection, and the students' rumor and instrumental courtesy stay distinct through the decisive refusal and final exchange, which completes his move from translating her to listening.
