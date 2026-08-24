@@ -719,3 +719,26 @@
   two-tug instruction but do not use “two-tug rule” as an in-world noun phrase.
   This is a local tactile convention using ordinary cord, not a universal
   signal, spell, organization, technology, power, or character alias.
+
+## Callwright practice vocabulary
+
+- Status: LOCKED
+- Summary: A bounded vocabulary bundle used by one unnamed college for its
+  living shaper-caller spell practice and Kethra's demonstrated architecture.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - `Callwright practice` names the college's local system. A `shaper` supplies
+    living power, pattern, target, and direction; a `caller` supplies the
+    authorized present audible name; a `cell` is one prepared spell pattern;
+    and a `call-link` is its one-spell authorization connection.
+  - `Voiced lattice` names Kethra's three-cell design. A `speaking rail` is a
+    nonliving brass sound path and geometry marker used by that design.
+  - `Weightward`, `Roofstay`, `Airclear`, `Crown Release`, and `Safe Descent`
+    are registered labels for the five locally witnessed spells defined in
+    `rules.md`.
+  - These terms are not character aliases, objective magical categories, true
+    names, universal spell labels, proof that speech outranks sign or writing,
+    or evidence of shared origin with another call-, voice-, name-, lattice-,
+    brass-, or structural-magic system.

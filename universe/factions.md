@@ -443,3 +443,42 @@
   - The settlement was completed in six weeks after nine hundred amendments.
     It is local to this unnamed kingdom and does not establish universal
     constitutional law, an anti-monarchy rule, or authority over other dragons.
+
+## Unnamed college's callwright practice
+
+- Status: LOCKED
+- Summary: One unnamed college teaches a local magical practice that separates
+  living shapers, living callers, and individually prepared spell cells.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: callwright practice
+- Notes:
+  - A shaper supplies living power, pattern, target, and direction. A caller
+    supplies the required present audible registered name. A cell is one
+    prepared spell pattern awaiting that call.
+  - One living participant may occupy both roles only by completing the same
+    authorization and release procedure used by separate participants.
+  - The college teaches field signs, caller limits, aborts, direct and rail-borne
+    sound paths, and emergency workings. Kethra's post-rescue roster records
+    voluntary assignments and individual voice limits without establishing a
+    permanent college-wide reform.
+  - `Shaper`, `caller`, and `cell` are local lowercase work terms, not character
+    aliases, universal magical categories, social ranks, or evidence that
+    audible speech measures personhood or general magical competence.
+
+## Unnamed college's archmage office
+
+- Status: LOCKED
+- Summary: The callwright college awards a local lowercase office of archmage
+  for demonstrated architecture, control, safe instruction, and judgment.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: local archmage office
+- Notes:
+  - The four examination requirements are original spell architecture; precise
+    control of power and consequences; a method others can learn safely; and
+    discretionary command that values life above prestige, property, and the
+    candidate's own work.
+  - The examining panel recognized Kethra's demonstrated competence after the
+    tower rescue. Its ruling conferred an office and seal, not a new magical
+    faculty, voice, universal rank, or authority outside this college.

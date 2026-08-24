@@ -1278,3 +1278,94 @@
   - This practice belongs only to Miles and Luz. It is not a universal consent,
     rescue, plumbing, medical, legal, or transformation rule, and it gives
     neither partner authority over the other's body or participation.
+
+## Callwright living shaper-caller activation
+
+- Status: LOCKED
+- Summary: In one college's local callwright practice, a spell remains
+  incomplete until a living shaper supplies its power and direction and an
+  authorized living caller audibly speaks its full registered name.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: one-spell call-link
+- Notes:
+  - Shaper and caller touch the same brass node, the shaper marks one registered
+    spell, and the caller signs yes to authorize that caller for that cell. The
+    link lasts at most thirty breaths, ends if either participant breaks it, and
+    is spent by release; each cell requires separate authorization.
+  - The shaper's two-finger ready sign opens a twelve-heartbeat window. The full
+    registered name must arrive in order on one living exhalation, either
+    directly into the shaped acoustic field or through an intact speaking rail.
+    Clear conversational volume was sufficient for the witnessed `Weightward`.
+  - A late call, broken syllable, silence, or severed sound path releases no
+    spell. The incomplete pattern collapses and still fatigues the shaper.
+    Writing, signing, thought, recordings, stored commands, and later echoes do
+    not substitute for the present living audible call in this mechanism.
+  - A living shaper may also be the caller, as Dorram was for `Roofstay`, but
+    must still complete the node authorization and ready-window procedure. The
+    caller closes the pattern without taking ownership of its shaping.
+  - Callers use yes, wait, and crossed hands for stop. Stop cancels the relevant
+    cell immediately without penalty or argument; wait delays action; and
+    materially changed circumstances require fresh assent. These signs preserve
+    agency through participant conduct and do not magically compel or certify
+    consent.
+  - Strong or failed shaping can produce fatigue, tremor, pain, slowed movement,
+    lost precision, and collapse. Calling consumes breath and can roughen or
+    exhaust a throat, so an individual caller may set a call limit. These are
+    witnessed practical costs, not universal moral or metaphysical prices.
+  - This activation grammar is local. It establishes no universal speech,
+    breath, spell-name, true-name, consent, recording, or synthetic-voice rule
+    and no shared origin with another voice- or name-dependent system.
+
+## Kethra's voiced lattice and callwright apparatus
+
+- Status: LOCKED
+- Summary: Kethra's original voiced lattice lets one living shaper hold at most
+  three isolated callwright cells aligned to separate callers and sound paths
+  while retaining each spell's power, map, and target.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: voiced lattice; brass speaking rails and nodes
+- Notes:
+  - Every cell still requires its own authorization, ready sign, living audible
+    call, breath, and working sound path. Holding three is physically demanding,
+    and a failed or withdrawn cell can jeopardize the remaining sequence. The
+    lattice does not give Kethra a voice.
+  - Brass nodes and rails mark spell geometry and carry or modestly amplify a
+    present living voice into the shaped field. A small node can be removed and
+    carried into direct speaking range while the shaper maintains the target
+    geometry; a severed rail carries no call.
+  - The lattice, rails, nodes, diagrams, and stored or echoed sounds are
+    nonliving. They cannot consent, choose, supply power, target, sustain, cast,
+    or store a valid call for later use.
+  - Kethra dismantled and repurposed the lattice during the tower rescue, and
+    its ornate crown-mounted structure was destroyed with the upper ring.
+
+## Witnessed callwright spells at the examination tower
+
+- Status: LOCKED
+- Summary: Five registered spells were witnessed under the unnamed college's
+  local callwright activation grammar during Kethra's examination and rescue.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - `Weightward` moves an existing mapped load along grounded rails into sound
+    foundation. It creates no support, and an incorrect map can redirect weight
+    dangerously.
+  - `Roofstay` temporarily holds selected roof geometry while its living shaper
+    sustains it. Dorram's self-called release concentrated load on the central
+    exit column because his structural map was incomplete; his staff only
+    marked geometry.
+  - `Airclear` cleared dust from one mapped breathing corridor. It did not clear
+    the whole tower and consumed Kethra's strength and one of Ulan's safe calls.
+  - `Crown Release` separates selected masonry joints along the shaper's exact
+    mapped rails. It is destructive, could not safely act while `Roofstay`
+    pinned those joints, and destroyed Kethra's ornate lattice with the crown.
+  - `Safe Descent` slows a falling platform and nearby crown stones for a few
+    breaths while its shaper steers them. It does not stop or levitate them
+    indefinitely and required restoration of the active sound path within the
+    ready window.
+  - These labels and effects are bounded to the witnessed local practice. They
+    establish no general spell vocabulary, universal structural magic, or
+    relationship to another system with similar words, materials, or effects.
