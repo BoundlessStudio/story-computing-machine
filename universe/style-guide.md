@@ -196,9 +196,14 @@
     intimate participants must be unambiguously adults, and minors are never
     sexualized.
   - Violence, horror, abuse, prejudice, self-harm, crime, and death may be
-    explored when relevant, but treatment remains non-graphic,
+    explored when relevant. Treatment defaults to non-graphic,
     non-instructional, and non-endorsing, emphasizing character and consequence
     rather than spectacle.
+  - An explicitly adult prompt may authorize graphic violence, bodily injury,
+    horror, and death. Such treatment must remain consequence-focused,
+    story-bearing, non-instructional, and non-endorsing; explicitness cannot be
+    the work's sole purpose. This exception does not loosen the sexual-content
+    or minor-safety limits above.
   - Record audience, intensity, and content notes in each `prompt.md`.
   - If a passage cannot be drafted safely, narrow the narrative camera to
     implication, emotion, or aftermath rather than attempting safeguard evasion.

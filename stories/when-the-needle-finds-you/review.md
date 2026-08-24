@@ -6,14 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| THE CRIMSON JESTER | new | Retained prompt identity; `The Crimson Jester` is the prompt display form and `Jester` is a clear in-story alias. No exact, alias, close-spelling, or confusing reuse found in universe authority, the legacy baseline, locked legacy stories, or passing current reviews. |
-| SALMA DREY | new | Retained rewrite identity; `Salma Drey` is the title-case display form and `Salma` is the clear in-story short form. No exact, alias, close-spelling, or confusing reuse found in universe authority, the legacy baseline, locked legacy stories, or passing current reviews. |
+| Sivra Ossik | new | Also `Sivra`, `Siv`, and `Ms. Ossik`; focal recovery driver. No exact or alias reuse found. Released-baseline `Siva` and current `Ossia` / `Ossa Keld` are the nearest forms but remain distinct by full form, sound, and role. |
+| Olt Ossik | new | Also `Olt`; Sivra's adult brother. The shared surname is intentional; locked-legacy `Olbit` and current `Ossia` / `Ossa Keld` remain distinct by complete form, cadence, and role. |
+| The Crimson Jester | new | Also `the Crimson Jester` and `the Jester`; the amended prompt retains this pirate-radio host's identity within the rewrite, but no qualifying exact prior use exists outside the replaced package. No confusing other reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No story-facing place proper nouns. |
+| Masthead Baths | new | Condemned municipal pool and site of the Jester's studio; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -28,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The amended prompt and RESHAPE selections are fulfilled: radio failures cause the hunt and final choice, the harder adult horror remains purposeful and non-graphic, and protected identities, relationships, facts, and effects remain intact.
+- Notes: The REBUILD materially replaces the prior cast, viewpoint, causal route, scenes, throughline, and ending while retaining only the exact title, the Crimson Jester, and the required midnight-record premise. The survivor supplies Olt's blood and secret, the Jester causally steers a mutable forecast, and Olt's confession, screams, final words, and death resolve before the promised next midnight. Dialogue remains context-dependent and role-specific through Sivra's physical literalism, Olt's evasive reversals, the survivor's punitive economy, and the Jester's theatrical control; the closing broadcast changes public knowledge and accepts culpability rather than explaining an already completed action.

@@ -2,51 +2,50 @@
 
 ## Story
 
-- Premise and central promise: **When the Needle Finds You**. At midnight the Crimson Jester airs tomorrow's death record and hears himself. Salma Drey must save him without letting his culpability and a widow's fury become one last show. Listening helps cause the hunt.
-- Focal pressure or attachment: Salma can protect him, but her engineering made his violations irresistible. She wants obedience and truth without another stolen death; he wants survival without surrendering his audience.
-- Counterforce or complication: The deadline is inexorable, not causal. Hidden transmitters reopen the carrier, callers share clues, and the first victim's armed widow has a real grievance. Bleeding channels turn Salma's talkback against her.
-- POV, distance, and information limit: A timestamped acoustic record through what Salma monitors, transmits, or hears. Broadcast, calls, talkback, captured audio, equipment noise, and dead air replace third-person narration. Unseen action stays unknowable until audible; channel confusion carries danger.
-- Governing movement and time shape: Midnight to midnight. Gaps compress through calls and watchdog bursts; the last hour runs near real time as spectacle narrows to breath and impacts in the relay room. End on Salma's choice, not explanation.
-- Speculative rule or ordinary-world constraint: At 11:43 a blank record appears at the locked station. Its single needle passage carries a future victim's scream, confession, and final words. Every subject dies before next midnight within signal reach; name and cause are omitted. Technology can copy or suppress sound, not alter the omen.
-- Dialogue promise: Predatory showmanship collapses into profane adult fear. Private shorthand meets grief, obscene excitement, counterfeit concern, and ugly jokes; exchanges alter exposure, location, command, and abandonment.
-- Dialogic medium: Broadcast, calls, talkback, captured sideband, interruptions, delay, feedback, bleed, open microphones, playback artifacts, failed contact, and dead air.
-- Dialogue engine: The Jester needs rescue and attention; Salma needs his compliance and the network's routes; the widow needs him to hear the consent he ignored. Crossing channels changes knowledge, leverage, location risk, and what the city receives.
+- Premise and central promise: Sivra Ossik recognizes her brother Olt in the Crimson Jester's midnight record. His screams surround a confession that he locked eleven adults inside a tenement Sivra helped burn. She has one day to force the Jester to undo the forecast. Olt dies as recorded in the hidden studio; Sivra kills the Jester with his needle.
+- Focal pressure or attachment: Sivra always drags Olt from trouble and believes she never knowingly harms bystanders. She wants him alive even as truth makes rescue repulsive.
+- Counterforce or complication: Former spotter Olt supplied victims' blood and secrets; a survivor has returned the practice. The broadcast mobilizes relatives, bounty hunters, and the Jester, who stages forecasts to preserve his legend. Olt lies for protection.
+- POV, distance, and information limit: Close third-person past through forty-two-year-old Sivra, attentive to odor, weight, engines, bodily damage, and injured hands. She knows aftermath work and Olt's habits, not the crime, record, or studio. Sound precedes sight; pain narrows judgment.
+- Governing movement and time shape: One midnight-to-midnight rotation: recovery garage, listener pursuit, burned tenement, then Masthead Baths. The climax fills the final quarter; aftermath stays inside the studio.
+- Speculative rule or ordinary-world constraint: Fresh blood and a true secret let the Jester's living eye shed a black membrane holding that adult's likeliest death-sounds next day. Equipment only reads it. The future can diverge, but the Jester hears revisions and uses confession, tips, and violence to force reality toward his recording. The system is local and contingent.
+- Dialogue promise: Profane sibling intimacy meets polished sadism. Rescue exposes affection as leverage; confession worsens cooperation. The Jester disguises accomplices as an audience.
+- Dialogic medium: Speech, lies, call-ins, radio interruption, a bloodied address, silence, and record changes. No transcript blocks; transmissions redirect action.
+- Dialogue engine: Sivra needs the studio location, Olt needs protection without judgment, and the Jester needs tips and witness. Every disclosure changes route, risk, or allegiance until Olt tries to buy survival with Sivra's life.
 
 ## Voice
 
-- Narrative texture: Use timecodes, source labels, perspective, dropout, repetition, and the grain of breath, fan, relay, impact, and damaged microphone. Keep audible sequence exact and unseen geometry unresolved.
-- Conversational texture: Move among controlled monologue, clipped talkback, overlapping calls, obscenity, and frightened pauses. Permit pettiness, interruption, poor explanation, and airtime hunger.
-- Rhetorical ownership: The Jester owns theatrical metaphor, black humor, evasion, and authority until pain breaks cadence. Salma owns technical precision, commands, profanity, and reluctant listening; affection appears as labor. The widow owns specific memory and correction. Callers mimic, misread, jeer, plead, and compete.
-- Pressure behavior: Fear makes the Jester overperform, then lose breath and syntax. Salma repeats commands and grows brutally direct. The widow narrows around her wife's voice. Anonymous callers become bold; dead air makes them vicious.
-- Relationship movement: The Jester wants rescue without obedience or shame; Salma wants truth and compliance but cannot ask what existed outside the show. The widow wants acknowledgment that cannot restore consent. Transmissions expose Salma's complicity, bring the widow near, and make the dying Jester depend on Salma's refusal.
-- Anti-default: Avoid experts cleanly diagnosing an anomaly or conducting a redemption interview. Let radio betray expertise, humor curdle, listeners worsen danger, suffering escape control, and Salma deny explanation.
+- Narrative texture: Sound-forward, close, unsentimental. Measure gore through lost function and consequence while showing the destruction. Sivra's practiced handling fails when the corpse is family.
+- Conversational texture: Overlap, obscene family shorthand, commands, cruel jokes, caller noise, and intervals of breath or gesture. Ordinary irritation survives terror.
+- Rhetorical ownership: Sivra argues from physical facts, curses to stop discussion, and listens selectively. Olt revises memory, flatters, interrupts, and weaponizes affection. The Jester owns theatrical metaphor, false courtesy, and predatory questions.
+- Pressure behavior: Sivra becomes quiet and literal; Olt rapid and contradictory; the Jester cold but composed. Injuries break syntax and hearing.
+- Relationship movement: Sivra wants denial and obedience without admitting love; Olt wants rescue without judgment; the Jester wants her ratification. Confession turns trust into coercion, and Olt's attempted trade destroys the sibling claim.
+- Anti-default: No audio-decoding detective, innocent rescue, or expert team. Truth reduces cooperation; violence disables options and settles relationships.
 
 ## Beats
 
-1. Midnight's relay, bad fan, scream, wet cough, confession, and request identify the Jester. Salma cuts the fader, but ON AIR and a delayed return reveal leaked talkback.
-2. She orders escape through the abandoned store. He secretly routes a dawn show through a kettle transmitter. A buffer rebroadcasts their argument, exposing Salma's voice and the room's fan.
-3. Grieving relatives, scream imitators, obscene guesses, and threats flood the phones. Preserve the brother's correction and the prankster's ugly laughter. Callers compare echoes, bells, hum, and delay, becoming a distributed hunt.
-4. A silent caller plays the freight elevator's damaged chime and sideband of the dying woman refusing consent. Her widow has found them. The Jester admits audience growth outweighed her plea; Salma recognizes complicity.
-5. Salma finds the eleven-minute watchdog and cached loop across three transmitters. Unable to escort him while tracing them, she sends him to the van and stays. He leaves his hat; listeners map involuntary bursts.
-6. Open microphones disclose the breach. The Jester returns in coat, wire glasses, black gloves, long black hair, and predatory persona with a portable rig. He broadcasts while listeners direct the widow closer.
-7. Delayed talkback betrays Salma's position. The widow's gun, his lunge, shots, breaking mirrors, tackle, and retreat register through damaged sound. Render injury through impact, failing breath, choking, wound pressure, and impaired speech, not anatomy.
-8. His lapel mic carries the dying confession while the widow attacks the relay-room door and cached violation counts down. Salma leaves his wound to tear out the connector. He dies; she destroys the loop before playback.
-9. Sirens, the widow, Salma's hurt breath, and an emergency microphone remain. She could explain, accuse, or rebroadcast the room. She wakes no transmitter; deliberate dead air denies one final violation without absolution.
+1. Loading the previous victim's mangled body, Sivra hears the record and recognizes Olt through private history and confession. It contains a rotary motor, shattered teeth, an invasive needle, and Sivra nearby.
+2. Sivra finds Olt. His denial fails when flight changes the record. A listener attack kills one assailant, opens Sivra's forearm to tendon, and takes two of Olt's fingers, constraining later action.
+3. Call-ins narrow their route. Olt admits spotting victims and supplies Masthead Baths' blood-marked address, but calls the fire confession false.
+4. At the tenement, melted locks and fused remains force the truth: Olt knew eleven adults were inside, bolted the exits, and used Sivra as driver and cleanup. He blames the dead. She continues for answers, not absolution.
+5. Beneath the drained pool, the red-and-black Jester—round glasses, predatory grin, pale invasive gloves—holds an eye-like record. He shows the mutable forecast and how broadcast tips force events back toward it.
+6. Olt offers Sivra's blood and guilt, then pushes her toward the cutting arm. Their fight puts him on the motorized platter. She attempts rescue until he exploits her wound; she releases the brake. The stylus enters his eye and rotation destroys teeth, face, and throat in sequence; blood loss and aspiration end him visibly.
+7. The Jester records instead of defending himself. Sivra drives the arm through his living eye; the archive screams and he dies. The transmitter carries Olt's completed death before burning out. At the second midnight Sivra is alive, partly deaf, trapped beside both bodies; no new record plays.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| The Crimson Jester | new | Prompt's pirate host, found by his record; retain the reference's red-and-black hat, long black hair, wire glasses, black gloves, and predatory grin/persona. |
-| Salma Drey | new | Prompt's producer/engineer, moral counterforce, protector, and controller of the feed. |
+| Sivra Ossik | new | Forty-two-year-old corpse-recovery driver, focal character, and Olt's elder sister; no targeted noun reuse found. |
+| Olt Ossik | new | Sivra's adult brother, former spotter, and forecast victim; shared surname intentional. |
+| The Crimson Jester | new | Pirate-radio host and living source of the ocular records; reference-guided traits remain story-local. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No named place proposed. |
+| Masthead Baths | new | Condemned bathhouse hiding the studio beneath its drained pool; no targeted noun reuse found. |
 
 ## Continuity
 
-- Canon used: No shared noun or mechanism canon. Follow personhood protection, evidence discipline, and the locked non-graphic violence ceiling.
-- Boundaries and unknowns: Keep the anomaly local, unexplained, and non-compulsory. Preserve the widow's agency. Only listed reference traits recur, through captured perception. Keep adult profanity, moral ugliness, dread, and suffering purposeful, non-instructional, and non-graphic.
+- Canon used: Living agency powers the effect; equipment only reads and transmits it. Prediction requires local causality, personhood retains consequence, and the adult prompt activates the approved graphic-violence exception.
+- Boundaries and unknowns: All story nouns and this mechanism are new and non-canon. Establish no link to the Covenant of Hours or another prophecy, artifact, afterlife, radio, or city. Keep the exact title. The Jester's identity and faculty's origin remain unknown.
