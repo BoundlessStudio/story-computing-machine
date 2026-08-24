@@ -6,14 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Myrine | new | Story-local magical girl and focal character; no exact, alias, close-spelling, or confusing reuse found. |
-| Kletho | new | Story-local former training partner and constellation witness; no exact, alias, close-spelling, or confusing reuse found. |
+| Myrine | new | Magical-girl slayer; no exact, alias, close-spelling, or confusing reuse found in targeted authority and production history. |
+| Kletho | new | Constellation witness, former training rival, and battle partner; no exact, alias, close-spelling, or confusing reuse found in targeted authority and production history. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Nemea | new | Story-local mythic-era settlement and surrounding orchards and watercourse; no conflicting reuse found, and the current personal name Sileth Nemm remains distinct in form, kind, and role. |
+| Nemea | new | Water-stricken settlement; no exact or alias reuse found, and current person name Sileth Nemm remains distinct in form, type, and cadence. |
 
 ## Continuity
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Myrine's competitive jokes, Kletho's exact witness language, the lion's behavioral signaling, and their late gestural coordination retain distinct pressures and materially change action and trust; the cramped shared account completes the opening conflict over credit without restating the slaying or defaulting to a generic work coda.
+- Notes: The RESHAPE preserves the exact and substantive selections, materially centers the sustained battle, and keeps its intense, non-graphic combat and animal death within Teen / PG-13 (YA); the lion is unnamed in the final prose, so it adds no story-facing proper noun to the inventory.

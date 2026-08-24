@@ -2,50 +2,52 @@
 
 ## Story
 
-- Premise and central promise: **The Lion's Last Constellation.** Magical girl Myrine and her witness, Kletho, enter the orchards below Nemea to kill the Nemean Lion before it reaches the settlement's last watercourse. Deliver the impervious pelt, sword-sharp claws, armor-breaking jaws, and a hard-won slaying achieved through Myrine's transformation rather than a stronger weapon.
-- Focal pressure or attachment: Myrine wants an undisputed heroic deed and treats assistance as theft of honor. Former training partner Kletho wants Myrine alive and her witnessing to count as action; envy makes her care sound corrective.
-- Counterforce or complication: The lion defeats mortal weapons, including weapon-shaped magic, and attacks as a territorial predator rather than a speaking villain. An inherited quest verse praises attacks instead of describing danger; each polished mistake consumes finite power.
-- POV, distance, and information limit: Close second-person present, addressing Myrine as “you.” Stay with footing, breath, torn costume, and observed shame. Myrine knows her lessons and terrain but not Kletho's motives, the lion's intent beyond repeated behavior, or events beyond her cave light.
-- Governing movement and time shape: One night descends from orchard terrace through dry channel into a two-mouthed cave. Three contacts contract space: failed ranged attack, failed armored restraint, then unarmed grappling. End at the cave mouth before public retelling.
-- Speculative rule or ordinary-world constraint: Myrine's voluntary transformation displays seven luminous points. For each, Kletho truthfully names one visible bodily action and Myrine accepts it; Myrine's living magic magnifies that action for several breaths. Praise, prediction, metaphor, and unseen action fail, while mistaken acceptance still spends the point. Her nonliving sash only focuses the working. Weapon uses cannot breach the pelt, armor cannot survive the jaws, and spent points remain dark until moonrise. The pelt does not remove the lion's need to breathe.
-- Dialogue promise: Ceremonial quest language breaks into frightened, practical, sometimes petty coordination shaped by affection, jealousy, embarrassment, and unequal roles—not a polished heroism debate.
-- Dialogic medium: Witness clauses and acceptance, supplemented by sight lines, pointing, breath counts, touch, and failed contact under roars and echoes. The lion communicates only through animal behavior.
-- Dialogue engine: Kletho's accurate attention enables Myrine's magic, so exchanges spend power and alter action. Hiding fear inside the approved verse becomes untenable; survival requires shared authority over what is actually visible.
+- Premise and central promise: **The Lion's Last Constellation**. Myrine and witness Kletho defend Nemea's last water from the Nemean Lion. Sustain a legible battle in which weapons fail, the predator learns their magic, and seven costly lights narrow Myrine toward a throat-lock kill.
+- Focal pressure or attachment: Myrine wants the deed wholly hers; she resents needing her former training rival. Kletho wants them alive and the record exact but remains an observer. Survival turns rivalry into battle-forged cooperation.
+- Counterforce or complication: Impervious pelt turns weapons, sword-sharp claws cut bindings and flesh, and jaws crush armor. The conserving lion connects Kletho's words to effects, targets her, feigns fatigue, uses blind banks, and herds them toward its cistern cave.
+- POV, distance, and information limit: Second-person present, tight to Myrine's breath, balance, pain, pride, and sightline. She infers adaptation only from behavior and cannot know what Kletho sees through dust, darkness, or obstruction.
+- Governing movement and time shape: One night: contact on orchard terraces, forced descent into the dry watercourse, reversals around the broken cistern, then a cave grapple. Give about four-fifths of the prose to combat; compress procedure, argument, and accounting.
+- Speculative rule or ordinary-world constraint: Kletho names a visible action Myrine is performing; Myrine accepts; one of seven sash lights empowers only that action. False or non-action descriptions waste a light; none recharge. Weapon-shaped magic cannot breach the pelt. The last light strengthens an existing hold, then expires before death.
+- Dialogue promise: Rivalrous precision becomes battle intimacy as authorized witness language fractures into corrections, bad counting, fear, and exact calls. Unequal sightlines and imperfect listening matter more than eloquence.
+- Dialogic medium: Action calls and acceptance, warnings, gesture, the witness cord's pull, predatory feints, and silence under roar or distance.
+- Dialogue engine: Kletho must observe accurately; Myrine must trust each call. Exchanges can lose a light, redirect a body, expose Kletho, or transfer leadership, making communication drive combat.
 
 ## Voice
 
-- Narrative texture: Fast second-person present alternating kinetic compression with exact sensory pauses. Notice footing, breath, torn cloth, weight, and Kletho's attention; keep stars physical, not ornamental.
-- Conversational texture: Move from rehearsed cadence and irritable correction into overlaps, distance failures, ordinary fear, and badly timed humor.
-- Rhetorical ownership: Myrine owns competitive interpretation and minimizing jokes; Kletho owns formal verse, precision, and sideways affection. Kletho has witness authority but misreads pride; Myrine listens late.
-- Pressure behavior: Myrine becomes terse and accepts too quickly; Kletho loses meter, repeats concrete facts, then grows direct. Roars and echoes force gesture and touch.
-- Relationship movement: Myrine wants guidance without admitting need; Kletho wants trust without admitting envy. Exchanges shift leverage toward shared timing. The lion wants intrusion ended and raises risk behaviorally, without requests.
-- Anti-default: Avoid celestial lyricism, immaculate attacks, articulate professionals, and cute danger-banter; keep coordination young, bodily, fallible, and specific.
+- Narrative texture: Drive body-near during attacks, widening only to re-establish edges, banks, cave mouths, and footing. Notice pressure, breath, dust, failure, and pain before heroic appearance.
+- Conversational texture: Move from clipped rivalry and procedure into overlap, correction, repetition, failed numbers, practical calls, and brief dry humor without banter.
+- Rhetorical ownership: Myrine owns bodily judgment, competitive deflection, blunt humor, and late listening. Kletho owns authority and spatial exactness; fear fragments both. Her affection appears as correction and risk, Myrine's as protection. Neither becomes eloquent.
+- Pressure behavior: Myrine acts before hearing until injury makes acceptance deliberate. Kletho retreats into verse, then chooses visible fact; terror breaks counting, not attention. Obstruction forces gesture and misreading.
+- Relationship movement: Myrine wants sole credit but cannot ask Kletho to risk herself; Kletho wants acknowledgment but cannot request partnership. Useful calls transfer leverage until Myrine waits and Kletho names plainly; the joint record changes authorship, not rivalry into sentiment.
+- Anti-default: Avoid a tidy spell showcase, frictionless professionals, or a passive monster. Let momentum, bad footing, blocked sight, and predatory learning cause reversals; keep the kill exhausting and non-graphic.
 
 ## Beats
 
-1. At Nemea's last terrace, establish the lion's route toward water, seven points, official verse, and old training friction; begin the hunt quickly.
-2. Myrine spends points on a shot and cutting strike. Neither marks the pelt. Imprecise witnessing weakens one use; the countercharge drives them into the dry channel.
-3. While retreating, they dispute verse versus execution. The lion guards its breath after charges and circles to separate fighter from witness. Kletho's plain warning saves Myrine.
-4. At a broken cistern, restraint fails: claws sever binding, jaws break summoned armor, and dust destroys sight. Kletho abandons her official vantage to reach Myrine.
-5. They cover opposite cave mouths, then lose speech to echo. Gesture, marks, and touch restore timing. Myrine reserves the last point for a bodily hold.
-6. Myrine baits a charge without armor. Kletho witnesses the real action; the last point magnifies grip and braced breath. Myrine gets behind the jaws and kills the lion by denying it air. Keep the struggle dangerous and non-graphic.
-7. They verify death, tend Myrine's arm, and leave the pelt untouched. Kletho records the shared deed without ceremonial distortion. End as they start the hard walk out, before public celebration.
+1. The lion emerges on the lowest terrace between the girls and Nemea's water. Establish cord, rivalry, and lights in motion. Light one empowers a shot; harmless impact proves magical weapon-shape still counts as weapon and teaches the lion where power begins.
+2. It attacks before analysis. Light two drives Myrine under a claw sweep and into a blade attempt. Pelt turns edge; momentum carries her beyond safe footing; a claw slices her sash. Distance closes without harming the lion.
+3. The lion links Kletho's voice to effects and rushes her. Ceremonial praise names no true action; Myrine accepts reflexively, wasting light three. Her ordinary tackle saves Kletho but throws both over the wall, injuring her knee and surrendering high ground.
+4. In the watercourse, the lion vanishes above the bank and drops behind Kletho. Light four empowers Myrine's collapsing knee-turn enough to swing Kletho clear, worsening the joint. Honest imperfection works; the lion withholds charges when watched.
+5. Feigning fatigue, the lion blocks their return to water and herds them toward its den. At the cistern bend, light five turns crossed wrists into bands. It sets claws against them and severs them, leaving Myrine at jaw range.
+6. Light six empowers Myrine's set shoulder into armor. Jaws crush it, bruising ribs and shoulder, but Kletho opens the bite with a stone. The lion destroys her tablet and claws her arm; Myrine drags her through the spillway. Both are now combatants.
+7. In the cave, two entrances and echoes scramble direction. Cord, rubble, upper-mouth moonlight, and pillar restore sight and bait an overcommitment. Gesture sets the route, but Kletho cannot call the final action before it exists. Myrine waits, circles, mounts the lion, and reaches beneath its jaw.
+8. Kletho names the locked elbow; light seven deepens the throat hold. Unable to bite or reach Myrine, the lion smashes her against stone. Magic expires before death; Kletho's broken counting supplies time, not strength. Myrine holds until it dies, intensely but non-graphically.
+9. Compress aftermath to verification, bandaging, and a wax sliver. Myrine rejects sole credit; Kletho records the hold, witness, and seven dark lights; both mark it. They leave pelt and ceremony for later and help each other out while the water remains safe.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Myrine | new | Nineteen-year-old magical girl and second-person focal character; no connection to established magical-girl systems. |
-| Kletho | new | Myrine's former training partner and appointed constellation witness. |
-| Nemean Lion | new | Prompt-named living magical beast whose story-local body creates the hunt's constraints. |
+| Myrine | new | Nemea's magical-girl slayer; learns cooperation. |
+| Kletho | new | Myrine's witness and former rival; surviving tactical partner. |
+| Nemean Lion | new | Invulnerable predator threatening the water. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Nemea | new | Mythic-era settlement, orchards, dry watercourse, and surrounding gorge threatened by the lion. |
+| Nemea | new | Water-stricken settlement below the terraces. |
 
 ## Continuity
 
-- Canon used: An unidentified era of the one deep-time world may later become myth. Myrine supplies living magic; the sash only focuses it. “Magical girl” establishes no universal system.
-- Boundaries and unknowns: No relation to Heracles, Hercules, Solstice, or the Northbridge trio. Nemea, witnessing, seven points, and the pelt are story-local. The consented focus creates no universal word, truth, contract, constellation, or name magic; it contains no soul and proves no godhood.
+- Canon used: No story-specific shared canon. Apply the Teen / PG-13 ceiling; other magical-girl systems do not define Myrine's powers.
+- Boundaries and unknowns: Preserve title, names, seven-light rule, Kletho's survival, intact pelt, weapon failure, claws, jaws, throat-lock kill, threatened water, and shared record. Do not universalize the sash, explain the lion, locate Nemea in shared chronology, or make pelt prevent choking. Keep violence intense but non-graphic; retain Teen / PG-13 unless execution warrants higher.
