@@ -8,482 +8,366 @@ canon: false
 
 # When the Needle Finds You
 
-**23:59:41 — CONTROL-ROOM MONITOR / RECORDING BEGINS**
+By eleven fifty-seven, the woman in Sivra Ossik’s loading bay had stiffened around the steering column.
 
-The first sound is the studio fan worrying its ruined bearing: *tick—drag, tick—drag*. Under it, a chair creaks. A gloved fingertip taps the turntable rim three times, each tap close and soft as a fingernail against a tooth.
+The fire crew had cut the wheel free rather than peel her fingers from it. Sivra hooked the chain beneath the woman’s arms and worked the winch with her boot. The body came out of the wreck backward. Glass whispered from the coat. One leg ended in a blackened fan of bone below the knee, and the opened belly dragged a wet red rope across the bay floor.
 
-SALMA DREY: Don’t touch it.
+Yesterday’s record had contained a horn, a tire screaming sideways, and that woman begging someone not to leave her in the car. The city had listened. Somebody had found her first and taken whatever could be sold before the recovery call reached Sivra.
 
-THE CRIMSON JESTER: I am courting it.
+At midnight, every radio in the garage clicked on.
 
-SALMA: It doesn’t need encouragement.
+Sivra’s receiver had no plug. She had pulled it months ago. Its dial still rolled by itself until the needle found the pirate frequency, and a trumpet played three bright, stupid notes.
 
-The record has no label. Its groove whispers beneath the raised needle. At 11:43 every night, a blank disc appears outside the locked station. One passage of the needle will yield the scream, confession, and final words of someone who will die before the following midnight, somewhere within reach of the pirate signal. Names and causes never come through. Voices do. The original will then smooth itself clean.
+“Good midnight,” said the Crimson Jester. His voice was velvet laid over a drain. “Yesterday has kept its appointment. Shall we hear who tomorrow loves enough to murder?”
 
-A switch snaps. The Jester’s breath leaves the monitor. When he speaks again, it comes through the broadcast compressor: warm, immense, a voice in a crimson coat.
+The record dropped.
 
-JESTER: Little mourners, lock your doors. Unplug the telephone. If someone you love is asleep beside you, put a hand over their mouth and make sure the breath still warms your palm. Midnight has come, and the needle is hungry.
+First came a low rotary hum. Something tapped once per revolution. A man drew breath through his teeth and said, “I knew all eleven were inside. I bolted the doors. Sivra didn’t know.”
 
-The record drops.
+Sivra stepped off the winch control. The corpse settled onto the concrete.
 
-Static. A relay clicks. The bad fan ticks. Someone inhales against a microphone so close that the capsule overloads.
+A body struck metal. A woman nearby said nothing, only breathed in the flat, patient rhythm Sivra used when lifting dead weight. Then the man said, very softly, “Siv. Hold it. Hold the brake.”
 
-Then the scream—high, male, shocked out of the body. It collapses into a wet cough and a series of choking attempts to pull air through pain.
+The tapping became a wet puncture. He screamed. Olt had always gone high when pain surprised him, even at thirty-seven: one thin pitch before his voice remembered it was grown. Beneath it came the brittle scatter of teeth striking metal, then a bubbling cough.
 
-The Jester makes a small sound off-mic.
+The record ran for six more seconds. A needle grated through something softer than shellac.
 
-RECORDED VOICE: She asked me not to play it. I heard her. I knew what it would do.
+“Olt Ossik,” the Jester said. “Former finder of blood, faithless little brother, beloved arsonist. Twenty-three hours and fifty-nine minutes remain. I have his spotting ledger. At sunset I begin reading the addresses he sold me, with the secrets attached. If he wants to bargain for the pages, he knows the red room.”
 
-The breath hitches. Somewhere in the future recording, something heavy strikes metal. The voice returns without its velvet.
+The woman’s ruined car ticked as its engine cooled. Sivra took her keys from the hook and left the chain taut around the corpse.
 
-RECORDED VOICE: I played it because I wanted them listening.
+* * *
 
-SALMA, farther from her microphone: Oh, fuck.
+She found Olt late in the afternoon, fifteen hours later, asleep in the office above a shuttered tire shop. She had searched three betting rooms, two women who hated him, and a freight yard where a loader tried to sell her the wrong brother. The city had spent the day listening with its windows open. Every hour the Jester replayed a little more of Olt’s scream, then aired a clipped confession from someone Olt had once selected for him.
 
-RECORDED VOICE: Salma. Kill the red. Don’t let them hear me.
+Olt woke under Sivra’s hand with a pistol against his cheek.
 
-The needle reaches the center. Seven seconds of dead groove go out across the city.
+“Private family wake-up,” he said. “Very warm. Missed you too.”
 
-SALMA, close now: I’m dropping broadcast.
+His left palm wore a fresh bandage. She tore it off. The cut ran diagonally under his thumb, three days old and clotted badly.
 
-JESTER: Wait.
+“Who took your blood?”
 
-SALMA: Get your hand off me.
+“Nobody took it. Glass broke.”
 
-A fader slams. The carrier should close. Instead, the monitor gives a delayed copy of Salma’s last four words, thinner than the original. *Get your hand off me.* Then the red channel remains open.
+“Where?”
 
-JESTER: Well.
+“In the universal location called none of your business.” He tried a smile. “You look tired, Siv.”
 
-He tries to put the smile back into the word. It breaks in the middle.
+She pressed the pistol harder. “Eleven.”
 
-JESTER: Tomorrow promises to be intimate.
+His eyes went still before the rest of him did. Then he laughed too quickly. “Radio theater. He splices dead voices. You know that.”
 
-**00:01:08 — CARRIER LOSS / LOCAL TALKBACK**
+“I know your voice with teeth missing.”
 
-SALMA: Coat off. Hat off. Freight stairs. East alley. Van.
+“That’s a sentence I never hoped you’d need.”
 
-JESTER: I am not fleeing my own obituary in shirtsleeves.
+Sivra dragged him up by his collar. “Shoes.”
 
-SALMA: You’re not dying for ratings.
+The dead radio on the office shelf snapped alive.
 
-JESTER: Everything dies for ratings. Marriages. Republics. Small dogs with unusual—
+“A revision,” the Jester said, almost pleased. The new groove hissed beneath him. “Our guest has chosen his sister. Predictable, but touching. Olt, the woman from room six is waiting where you broke your glass. She would like you to remember her.”
 
-SALMA: Take off the fucking coat.
+Olt stared at the receiver. “He knew you’d come.”
 
-Leather whispers as one black glove is pulled free finger by finger. The studio fan keeps time while neither speaks.
+“It was here.”
 
-JESTER: No one has escaped a record.
+“You always bring the worst thing in the room and call it equipment.” He shoved his bare feet into boots. “Back stairs. Now.”
 
-SALMA: No one has ever followed an instruction you didn’t give.
+A rasping voice rose from beside the inspection pit. “Too late for the stairs.”
 
-A sharp snap: Salma breaks the needle against the console, though the disc has already erased itself.
+The woman who stepped into view was near Sivra’s age. Old fire had drawn the left side of her face tight and glossy, lifting that corner of her mouth into a permanent expression of disgust. In her good hand she carried a short chopping blade.
 
-JESTER, flinching audibly: Childish.
+“Room six,” Olt said.
 
-SALMA: Four a.m. Streets empty. We move.
+“Still counting better than you.”
 
-JESTER: That’s my producer.
+Sivra looked at Olt’s cut palm. “You took his blood.”
 
-SALMA: No. Your producer would already be cutting a teaser.
+“He put his hand through a bottle when I told him I’d lived. I kept the rag.” The woman touched the burned seam of her cheek. “I took the rag, his ledger, and the thing I saw him do to the Jester.”
 
-For twelve seconds there is only the fan and the shallow breath of a man trying not to sound frightened. Then the monitor dies.
+“That book was mine,” Olt said, offended before he became afraid.
 
-**03:58:12 — UNAUTHORIZED SIDEBAND / KETTLE TRANSMITTER**
+“It was everybody’s.”
 
-A narrow signal wakes on the abandoned frequency.
+He swept a second pistol from beneath the parts counter and fired. The bullet tore through the meat of the woman’s upper arm. A thumb-sized plug of flesh slapped the lift behind her, and the arm dropped uselessly.
 
-JESTER, prerecorded: Our crimson hour continues at dawn. Call and tell me whether a man deserves to hear his own ending.
+She came at him anyway.
 
-The message repeats. During the third repetition, metal scrapes wood. A plastic shell hits the wall and bursts with a spit of sparks.
+Sivra caught the chopping wrist before the blade reached Olt’s throat. The woman twisted, thinking Sivra had chosen her brother, and the edge opened Sivra’s forearm from elbow to palm. Skin spread. A pale flexor tendon lifted into the cut like a wet cable, and her last two fingers folded uselessly.
 
-SALMA: You soldered a transmitter into my kettle.
+Pain emptied the bay of everything except weight.
 
-JESTER, live and uncompressed: I improved your kettle.
+Sivra drove her forehead into the woman’s scarred cheek. Olt lunged for the blade as she reeled. The woman recovered first and chopped at his reaching hand.
 
-SALMA: You buried it in talkback. My circuit.
+Two of Olt’s fingers jumped away together. They struck the concrete with little damp taps.
 
-JESTER: Our circuit.
+He stared at the squared white ends in his hand. His mouth opened, but the scream took a moment to arrive.
 
-SALMA: They heard us after I cut the feed. They heard the room.
+Sivra had heard that delay on the record.
 
-JESTER: They heard fear. That’s the merchandise.
+She took the pistol and hooked it into her belt, then pinned Olt against the truck with her shoulder. The scarred woman leaned on the lift, blood running from both sides of her ruined arm.
 
-SALMA: Today it’s a fucking map.
+“The old tenement,” she said. “The service culvert under it reaches the Baths. You want his studio, that’s your door.”
 
-Paper collapses in his hand. Liquid splashes the floor.
+“Why tell us?” Sivra asked.
 
-JESTER: That coffee was for you.
+“Because he’ll call me a liar until you see what’s behind the fire door.” She looked at Olt. “Then I want him alive long enough to say it where everyone hears.”
 
-SALMA: Fuck your coffee.
+Olt clutched his hand to his chest. “She’s fucking insane.”
 
-The receiver continues to replay their argument after they stop speaking. Because of a buffer error, the delayed version includes what the live channel omitted: the studio fan, a distant three-note freight chime whose last note buzzes low, and Salma saying, very quietly, *I should have left you the first night*.
+“Yes,” the woman said. “You left me in a furnace. It affected my manners.”
 
-JESTER: Did you say that just now?
+* * *
 
-SALMA: I said it forty-three seconds ago. Kill the cache.
+Sivra wrapped her arm in a mechanic’s shirt, cinched it with a cargo strap, and drove one-handed. The scarred woman sat beside her with her shot arm tied against her chest. Olt folded himself against the passenger door, making a raw animal sound each time the truck hit a seam in the road.
 
-JESTER: I can’t.
+“Hospital,” he said.
 
-The first telephone line rings before he finishes. Then a second. By the tenth, the tones have merged into one mechanical shriek.
+“After the tenement,” the woman told him.
 
-**04:07:03 — CALL BANK / ROUTE UNKNOWN**
+“You’re leaking into your boot.”
 
-CALLER 1: You sick fuck. You beautiful sick fuck. Play it again.
+“Your concern is a rash. It’ll pass.”
 
-SALMA: No replay.
+The radio crackled, and the Jester read the first address from Olt’s ledger. He followed it with six words of a confession—a dying man admitting that he had emptied his mother’s medicine into the sink. The street number meant nothing to Sivra. Olt knew it. He shoved his mutilated hand under his opposite armpit and rocked.
 
-CALLER 1: Nobody asked your fucking producer.
+“You told me you found monsters,” Sivra said.
 
-JESTER: You heard the lady. No encore. Death is live theater.
+“He was stealing pills.”
 
-CALLER 1: Then scream now. Give us something to compare.
+“From his mother?”
 
-The Jester disconnects. Three other callers are already screaming in imitation. One gargles water; another pounds meat against a counter and laughs when Salma curses him. The call lights multiply faster than she can close them.
+“From everybody. Fuck, I didn’t interview the neighborhood.”
 
-**06:32:49 — EMERGENCY CHAIN / LIVE**
+The scarred woman gave a laugh that hurt her arm. “You interviewed me.”
 
-JESTER: Little mourners, your host remains disgustingly alive. My producer is beside me with a kill switch and the expression of a woman pricing industrial bleach.
+Olt slapped blood onto the fogged side window and wrote with the blunt gap of his hand: MASTHEAD BATHS.
 
-SALMA, talkback: No room details. No names. Ten minutes.
+Sivra looked at him.
 
-Two taps against his microphone: understood.
+“Old municipal pool,” he said. The words ran over each other now. “Condemned, south district. His studio’s under it, or was, I only went twice, maybe three times, fuck, Siv, don’t do the face. I found people. That was all. A cut from a bar glass, a secret they thought nobody knew. I brought him ingredients. I never touched the record.”
 
-CALLER 2, crying: You played my brother last winter.
+“You fed him people.”
 
-The Jester waits. His silence has always been theatrical; this one is not. The caller drags breath through a blocked nose.
+“Bad people. Mostly. People already halfway dead.”
 
-JESTER: I remember him.
+On the radio, the Jester inhaled with mock delicacy. “Olt, you wound me. There is no halfway. That is why the ending sounds so clean.”
 
-CALLER 2: You said he sounded brave.
+Olt struck the dashboard until the stump bled through its wrapping. “You said this thing wasn’t listening.”
 
-JESTER: He did.
+“Everything’s listening.”
 
-CALLER 2: No. He sounded six. He was thirty-eight, and he called for our mother like he was six years old. Then cunts on the tram played it and laughed. Get that right before you die.
+“I gave him your blood,” the scarred woman said. “Room six gave it back. I gave him the ledger too.”
 
-The Jester’s inhale catches.
+Olt stopped hitting the dash. “And what did you call the truth?”
 
-JESTER: I got it wrong.
+“I watched you bolt the rear doors. You poured fuel down the front stairs. You saw me crawl out through the coal hatch and ran.”
 
-CALLER 2: You made it wrong.
+“Lying cunt,” Olt whispered.
 
-The line closes.
+“The Baths’ surface doors are poured shut,” the woman said. “The service culvert starts under the old tenement. We go through the fire room.”
 
-CALLER 3: How do we know it’s you on the record? Could be some sad bastard doing your voice.
+“Drive there,” Olt told Sivra at once. “I can show you. No bodies, no locks. She’s one of his pets.”
 
-JESTER: Sir, my sad bastards are union.
+“You said the building was empty.”
 
-The caller laughs, relieved to be given permission. He proposes a tiger. The Jester counters with a guillotine. The caller wants the tiger to work the guillotine. Their laughter becomes competitive and obscene, a pair of boys kicking something already dead. Salma cuts the line while Caller 3 is still begging for one more minute.
+“It was. That’s what I’m saying.”
 
-CALLER 4 says nothing.
+“You just said no bodies.”
 
-Breathing, level and close. Behind it: two clear elevator notes and a third that fails in a low electric burr.
+“Same fucking thing.” He leaned toward her, gray with pain. “You want to save me or hold court? Because you can only do one with that arm.”
 
-SALMA, talkback: Don’t react.
+Sivra angled the truck toward a clinic. Olt saw the turn and grabbed the wheel. The truck mounted the curb, sheared off a mirror, and nearly folded itself around a light standard before she tore his hand away. Beneath the shouting, the record changed. For nine seconds the tooth sounds vanished; Olt died instead to glass entering his throat.
 
-The Jester’s chair bangs the desk.
+“Possibility remains generous,” the Jester said. “But at sunset I turn the next page.”
 
-CALLER 4 plays another recording. It rides on a wash of sideband noise, the captured voice thin but unmistakably alive.
+For three hours the Jester opened the ledger a page at a time, giving each address and withholding each name. Olt offered the scarred woman money, then protection, then the promise that Sivra would leave her beside the road. She answered him only when his directions to the tenement were wrong.
 
-WOMAN ON CAPTURE: Don’t air it. She’ll hear what I said and she’ll hear it with everybody. Please. I know what your show is. I’m asking you.
+At full dusk, Sivra drove toward it.
 
-YOUNGER JESTER ON CAPTURE: A warning could save you.
+He mistook that for belief.
 
-WOMAN: Don’t dress it up. You want the scream.
+* * *
 
-The capture stops.
+The building had burned six years before. Its front had fallen into the street, but the rear stairwell still stood behind a skin of soot-black brick. The scarred woman led Sivra and Olt through a cellar window as the last daylight thinned. Olt kept saying there would be nothing to see.
 
-CALLER 4: Does the seventh-floor button still stick?
+The utility corridor stank of wet ash and old fat. Sivra’s flashlight found a steel fire door bowed inward. The bolt was still seated in brackets welded across the outside.
 
-Salma drops the master bus. Most of the board goes dark. One channel remains, bleeding power from the hidden transmitter.
+“That could’ve been after,” Olt said.
 
-SALMA: Who’s on the line?
+She kicked the lower panel. Charred plaster broke away.
 
-JESTER: Her wife.
+Behind the door, eleven bodies had burned where they crowded for air. Heat had fused them through collapsed vinyl flooring into one dark mass: ribs, hips, a skull with both hands cooked against its mouth. When Sivra put her light low, she saw fingernails embedded in the melted underside of the door. Some had torn loose with the skin still attached.
 
-SALMA: The woman on that tape—
+She knew aftermath. She knew the sweet rancid odor released when old fire damage was disturbed. She knew how a body bent when tendons contracted in heat, and how several bodies became impossible to count unless you followed each spine.
 
-JESTER: First record. Before the station had a name. Before you.
+Eleven.
 
-CALLER 4, still present through the unkillable sideband: Before the shirts. Before schoolchildren sang my wife dying at me in the street.
+Her own memory supplied the rest: Olt loading fuel tins into her truck; Olt saying the block had been cleared; a dull pounding under the roar after she lit the stair rubbish. She had asked him what it was. Pipes, he’d said. Drive.
 
-SALMA: How did you get this route?
+She had driven.
 
-CALLER 4: Your listeners. One heard the chime. One heard the fan. One used to deliver to the store downstairs. They’ve been helping all morning.
+Olt’s light wandered across the dead. “They were extorting everybody on the row. Dealer in room four cut a boy’s face. You don’t know what they were.”
 
-From another leaking line, a man shouts, “Seventh floor!” Someone else yells that she should put the Jester on speaker when she shoots him. The widow disconnects, leaving a burst of feedback that swells until Salma tears off her headphones.
+“Adults,” Sivra said.
 
-SALMA: She asked you not to play it.
+“That’s not what I mean.”
 
-JESTER: I thought the warning was the point.
+“Alive.”
 
-SALMA: Try again.
+“Siv, I needed the witness gone. The rest wouldn’t leave. What was I supposed to do, knock on every door?”
 
-JESTER: There were eighty-seven listeners for the teaser.
+The word *witness* reached Olt a moment after he said it. His face collapsed.
 
-SALMA: Again.
+From the portable radio clipped to Sivra’s belt, the Jester whispered, “Again, please. We lost the first syllable.”
 
-JESTER: Twelve thousand by midnight. The phone board melted. I watched the number climb.
+Olt kicked the corpse mass. One fused arm broke at the elbow. “Fuck you. Fuck every one of you.”
 
-SALMA: And her wife heard the confession with them.
+Sivra seized him by the throat and held him against the fire door. She could kill him there. The certainty felt clean enough to rest inside.
 
-JESTER: She was going to leave her. She died before she could get home.
+Then the radio played the motor, the needle, her own breathing. Answers waited under Masthead Baths, and they had cost eleven people more than Olt’s neck.
 
-SALMA: So grief got a laugh track.
+She released him.
 
-The bad fan ticks through a long failure of speech.
+“You believe me now?” asked the scarred woman.
 
-SALMA: I cleaned every signal. Shifted every route. I made you sound like danger when you were appetite.
+Sivra switched the radio off. This time it stayed off.
 
-JESTER: You kept us alive.
+The woman’s knees buckled. She sat against the welded door, her makeshift sling black with blood. “Culvert’s behind the old boiler wall. Red lever, then the ladder.”
 
-SALMA: I kept you audible.
+“Come with us,” Sivra said.
 
-For once, he does not correct her.
+“I won’t make the ladder.” She nodded at the radio. “Leave me that. When you find his microphone, tell them where the bodies are.”
 
-**09:12:20 — WATCHDOG CHANNEL / ELEVEN-MINUTE INTERVAL**
+Sivra set the receiver beside her. The woman put her good hand over it as if holding a wound closed.
 
-A relay wakes behind the dead console. The midnight recording begins at double speed—half a scream, the first syllable of confession—before Salma pulls a cable and chokes it off.
+* * *
 
-SALMA: How many?
+Sivra and Olt entered Masthead Baths through the old tenement’s service culvert at eleven thirty-eight. Olt had remembered the route after all. He had lied because the only way to the studio passed the dead.
 
-JESTER: How many what?
+The drained pool opened below them, tiled walls dropping into darkness. A red bulb burned beneath the deep-end ladder. Under it, a steel hatch stood open.
 
-SALMA: Mirrors.
+The studio occupied the pump chamber. Acoustic felt covered the walls. A broadcast desk crowded the rim of a circular iron platform wider than a dining table, belt-driven by the old pool motor. Above the platform hung a jointed cutting arm whose outer sweep passed the desk. Its stylus was as long as Sivra’s hand.
 
-JESTER: Three transmitters.
+The motor was already turning slowly.
 
-SALMA: When does the cache loop?
+The Crimson Jester stood at the desk in a lacquer-red coat with black lapels. Round smoked glasses made mirrors of his eyes. His grin was broad and unhurried; his pale gloves reached almost to his elbows.
 
-JESTER: Eleven fifty.
+“Ms. Ossik.” He indicated the microphone. “You have done magnificent work while leaking on my floor.”
 
-SALMA: Jesus Christ.
+Olt snatched the pistol from Sivra’s belt and raised it. The Jester touched one fader, and the speakers filled with Olt choking. His arm jerked. Sivra took the pistol before he could fire and hooked it back into her belt.
 
-JESTER: I made the records impossible to suppress.
+“Show me the record,” she said.
 
-SALMA: The record begged us to suppress it.
+“Not how. Not why. Straight to the relic. You really are the better sibling.”
 
-JESTER: We don’t know what I meant.
+He removed his glasses. His right eye was ordinary and brown. Over the left lay a black, glossy film ringed with branching red vessels. He pinched its edge between two gloved fingers. The eye rolled toward his nose as he peeled. The membrane came free with a string of clear fluid and a soft sucking sound.
 
-SALMA: Yes, we do. You built a machine to disobey dying people after you’re dead.
+It widened in his palm. Grooves appeared across it, tightening inward around a blood-colored pupil. Across the exposed eye, another black film was already knitting itself from the red vessels.
 
-The next sound is cable ripped through a steel bracket. Salma is breathing hard.
+Olt retched.
 
-SALMA: Go to the van. Stay off every phone. I’ll kill the mirrors.
+The Jester laid the membrane on the broadcast turntable. “Fresh blood introduces us. A truth the owner has buried gives the eye somewhere to look. It shows no commandment, only the likeliest noise of that life ending before our next appointment. Your lady from room six supplied both. You supplied half that shelf before she supplied you.”
 
-JESTER: I won’t leave you here with her.
+He lowered a fine playback needle. The speakers gave them the pump motor, Sivra’s breath, Olt’s voice: *I knew all eleven.*
 
-SALMA: For once in your life, leave when somebody asks.
+“But we changed it,” Sivra said.
 
-Cloth brushes the talkback microphone. His hat lands on the desk, red felt over a hollow crown.
+“Repeatedly. Room six nearly cut his throat. He nearly bled empty in your cab. I heard every revision.” The Jester’s smile showed small, immaculate teeth. “I promised her a broadcast confession if she brought me blood and the ledger. I opened its pages until Olt had to come shut my mouth. She forced him through the one door he would never choose, and you kept him alive for me. Prediction is such a frail animal. One must keep breaking its legs in the desired direction.”
 
-JESTER: You still have the emergency mic.
+“You make them happen.”
 
-SALMA: Go.
+“I make them true. The city prefers verbs that wash their hands.”
 
-His polished shoes recede. A hatch shuts. Eleven minutes later, the watchdog seizes the carrier and broadcasts the sound of Salma crying once, angrily, before she can strangle the feed.
+The Jester turned the microphone toward Olt. “One plain fact buys you the right to propose an alternative.”
 
-**18:24:01–23:39:58 — FRAGMENTED WATCHDOG BURSTS**
+Olt’s gaze moved from the needle to Sivra. “I knew all eleven were inside. I bolted the doors. Sivra didn’t know.”
 
-Every eleven minutes the city receives between one and nine seconds.
+The pump motor revolved beneath his words. Even the breath between *inside* and *I* was the breath from the record.
 
-A screwdriver slips. Salma swears.
+Olt edged toward the desk. “Her blood’s fresher.”
 
-A transmitter address is read aloud, then abruptly lost.
+Sivra looked at him.
 
-The bad fan ticks.
+He could not meet her eyes, so he spoke faster. “She burned the building. I only locked it. She heard them pounding and drove anyway. That’s a true secret, isn’t it? Take hers. Peel one for her. Put her on tomorrow and let me walk.”
 
-Salma answers a call she believes is talkback: “Stay in the van.” It goes live. Callers repeat *the van, the van, the van* until the carrier closes.
+The Jester tilted his head. “You ask your sister for rescue so beautifully. You offer it less well.”
 
-At 22:51, a woman says she can see a black vehicle from a roof. She gives two wrong streets and one correct sound: a church bell delayed by six seconds on the Jester’s portable receiver.
+“You need a show.” Olt grabbed Sivra’s wounded arm and tore the cargo strap loose. The cut opened to the tendon again. Blood sheeted over his wrist. “Here. Enough for a fucking season.”
 
-At 23:03, somebody reports red freight doors.
+Sivra hit him with the pistol. He staggered, then drove his shoulder into her. They struck the turning platform together.
 
-At 23:19, a caller holds his phone beside several loading bays, inviting listeners to vote on which echo matches the midnight record.
+The Jester did not move to help. He opened the microphone.
 
-At 23:40, a chain breaks below the station. The watchdog carries the metallic fall across the city.
+“Dear city,” he said, “the forecast has arrived.”
 
-**23:46:13 — PORTABLE TRANSMITTER / LIVE**
+Olt shoved Sivra facedown beneath the cutting arm. Its heavy stylus passed a finger’s width from her eye. He was sobbing now, whether from pain or terror she could not tell.
 
-The Jester’s theme music returns, warped from a dying battery.
+“Just stay down,” he said. “For once, Siv, stay the fuck down.”
 
-JESTER: My persistent widow, you have climbed so far. It would be discourteous not to meet you.
+She hooked her good hand behind his knee and rolled. His mutilated hand struck the iron. He screamed and kicked her ribs until she lost breath. The platform carried him around. His coat snagged on a recessed bolt and dragged him flat, head toward the center.
 
-SALMA, on local talkback: No. No, you asshole, stay in the van.
+Sivra reached the brake lever. Her bad hand could not close around it, so she trapped it in the crook of her elbow and hauled. The platform slowed. Olt’s face stopped beneath the suspended stylus. Its point rested against the white of his left eye, dimpling without breaking it.
 
-JESTER: The costume was lonely.
+“Siv,” he said.
 
-Fabric moves at his lapel; the heavy crimson coat makes its own hush. His black gloves creak around the portable rig. Somewhere near him, a listener is whispering into an open call.
+She leaned her weight into the brake. The torn tendon slid under the skin of her arm. Her grip was already going.
 
-WHISPERING CALLER: I see him. Red coat, black vest, black gloves. Long black hair, wire glasses. Painted grin. No hat. He’s by the mirrors.
+Olt stretched toward her with his good hand. For one beat she believed he wanted help. Then his fingers entered her wound and hooked beneath the exposed tendon.
 
-CALLER 5: Widow, two aisles left. He’s feeding back when he faces you.
+He pulled.
 
-JESTER: You wanted the man who broadcast her. Not the engineer. Not the audience selling copies outside the courthouse. Here I am.
+White pain erased the room. Sivra heard herself breathing exactly as she had on the record.
 
-WIDOW, distant but no longer on the phone: Take off the costume.
+“Hold it,” Olt begged. “Hold the brake.”
 
-JESTER: This is the costume.
+She let go.
 
-The portable mic turns. Its feedback rises, dips, rises. Listeners call directions from what the noise tells them.
+The platform jumped to speed. The stylus punched through Olt’s eye and burst it against his temple in a wash of vitreous fluid and blood. Rotation pulled his face under the fixed point. It carved through the bridge of his nose, opened his cheek to the back teeth, then struck those teeth one by one. Enamel sprayed across the desk. His jaw tore sideways. He remained alive long enough to inhale the blood flooding his mouth.
 
-CALLER 5: She’s behind you.
+The next turn drove the stylus under his jaw and through the soft floor of his mouth. It came out beneath his tongue. He coughed red foam around the metal, heels battering the platform, while the arm advanced inward by another groove.
 
-CALLER 6: No, other side. Salma, say something so we can place the room.
+On the third turn, the point opened his throat. Blood crossed the room in a hot line. His kicking weakened, stopped, began again as small reflexes. Sivra watched the pulse in the wound empty him. She watched until the chest no longer lifted and the remaining eye no longer followed her.
 
-SALMA remains silent.
+The Jester kept one hand on the faders. With the other, he held the microphone close to capture the wet last turns.
 
-Her talkback pack does not. It has buffered her first command. Eleven seconds late, from her hiding place, it whispers into the broadcast: *Stay in the van.*
+“There,” he whispered. “No splice. No lie. Tell them you heard the truth, Sivra.”
 
-The widow’s shoes stop.
+She could hear their own broadcast returning through his headphones, a thin echo delayed by one heartbeat. Olt’s death had already gone out live. The Jester had wanted her voice as witness. Olt had wanted her body as payment. Both had mistaken what she was still willing to carry.
 
-CALLER 6: There. Right channel. She’s close.
+Sivra seized the jointed cutting arm and swung it off Olt.
 
-JESTER: Don’t look at her.
+The Jester finally raised his gloved hands. Not to defend himself. To protect the microphone.
 
-WIDOW: You brought her voice into my bed.
+She drove the stylus through his smoked glasses and into the black-veined eye.
 
-JESTER: I know.
+The globe ruptured with a thick pop. Black membrane spilled across his cheek in folded layers, each one scored with minute grooves. He made no polished sound then. He screamed like a man surprised to find a body under his costume.
 
-WIDOW: You don’t get to say that like it helps.
+Sivra put her shoulder behind the arm. The needle grated against the back of the socket, punched through thin bone, and entered his head. His legs thrashed against the desk. One pale glove closed on her hair and tore out a fistful; the other kept the microphone pressed against his mouth until his teeth cracked on it.
 
-A glove slaps the portable microphone. His body rushes across the stereo field.
+Every stored record in the studio began to scream.
 
-The gunshot crushes every channel into white.
+Shelved membranes shivered in their sleeves. Voices poured from the monitors over one another—confessions, prayers, curses, children’s names spoken by dying adults, the blunt animal noise at the end of language. The Jester’s remaining eye fixed on Sivra. She forced the arm deeper until blood ran from his nose and ear and his grip opened.
 
-His scream returns exactly as the record promised: high, male, shocked. The mic hits the floor. A wet cough follows. Then glass bursts in a long, bright collapse, and the second shot is partly swallowed by feedback.
+His body slid down the console, pulling half the switches with it.
 
-Salma hits the widow with a grunt and an impact that knocks breath from both women. The pistol skids audibly under metal. There is hair-pulling, a heel beating the floor, the widow sobbing words that clip beyond recognition. Salma’s mouth strikes something hard. When she breathes again, one tooth clicks loose against another.
+The transmitter took Olt’s completed death and threw it across the city. The motor’s belt snapped. A bank of tubes flared white. Sound struck Sivra hard enough to rupture something inside her left ear. Breakers slammed down, leaving half the console dark and the red broadcast lamp alive.
 
-JESTER, farther away: Salma.
+She crawled to the hatch, but the old pool motor had torn loose from its mounts. Masonry had dropped across the passage, sealing the culvert behind her.
 
-SALMA: Crawl, you bastard. Crawl toward me.
+Olt’s death began again. The Jester’s falling hand had caught a repeat switch.
 
-His breath advances by inches. Each drag of the crimson coat across broken glass is answered by cheering callers.
+Sivra crawled back to the desk, shoved his body clear, and killed the loop. The studio clock read eleven fifty-seven. One channel still showed a signal. The microphone lay between the Jester’s broken teeth.
 
-CALLER 5: Louder. Put him closer to the mic.
+Sivra sat between her brother’s opened body and the Jester’s red coat. She tightened the strap above her elbow with her teeth. Her left ear heard only a high, unbroken tone; her right heard the small sounds the dead continued making as metal cooled and blood found drains.
 
-CALLER 1: Is that blood in his mouth? Ask him if he can taste it.
+She wiped the microphone on the Jester’s lapel and opened it.
 
-SALMA: Listen to yourselves.
+“Masthead Baths,” she said. “Pump room under the drained pool. Bring cutters for the culvert and a stretcher to the old tenement south of here. Rear cellar. Welded fire door. Eleven bodies.”
 
-CALLER 1: We are. That’s why we’re here.
+Her voice came back through the surviving monitor, blurred but hers.
 
-A door slams. A bolt drops. The widow strikes the other side with both palms.
+“Room six, if you hear me, Olt is dead. The Jester is dead. Stay by the receiver.” She looked at her brother’s remaining eye. “My name is Sivra Ossik. I carried the fuel. I lit the stairs. I heard pounding and drove.”
 
-WIDOW: You played her begging. In taxis. At my work. Children sang it at me.
-
-The Jester’s lapel mic is still live. His breath enters the city in damp, failing pulls. Salma presses cloth against the wound; the microphone catches the slick pressure of her hands and his involuntary cry.
-
-The phone bank lights cannot be seen, but its queue tone rises in pitch as hundreds call at once.
-
-**23:48:09 — RELAY ROOM / LAPEL MIC + CALL BANK BLEED**
-
-SALMA: Kill his channel.
-
-CALLER 7: Don’t you fucking dare.
-
-SALMA: This isn’t a vote.
-
-CALLER 7: It always was.
-
-JESTER: She asked me not to play it.
-
-The room behind his words matches the record now: relay click, bad fan, breath close against the capsule. Outside, the widow stops striking the door to listen.
-
-JESTER: I heard her. I knew what it would do.
-
-SALMA: Save your air.
-
-JESTER: I played it because I wanted them listening.
-
-The callers fall quiet. In that sudden space, the city can hear fluid catch in his throat.
-
-WIDOW, through the door: Say her name.
-
-The Jester tries. What emerges is air and a ruined consonant.
-
-WIDOW: You never knew it.
-
-SALMA: He doesn’t get to make this right for you.
-
-WIDOW: I didn’t come for right.
-
-The widow resumes beating the door. The frame groans.
-
-A relay clicks.
-
-SALMA: Watchdog’s awake. Two minutes to cache.
-
-JESTER: Keep pressure.
-
-SALMA: I can’t do both.
-
-CALLER 5: Let it play.
-
-CALLER 3, laughing again: Let him hear himself die while he dies.
-
-The Jester’s bare hand closes around Salma’s wrist. Skin, not glove. The pressure is weak but deliberate.
-
-JESTER: Salma. Kill the red.
-
-SALMA: If I leave this wound—
-
-JESTER: Don’t let them hear me.
-
-His grip opens.
-
-Her knees scrape the floor. Cables knock against rack doors. She pulls one.
-
-The carrier holds.
-
-She pulls another. The call bank vanishes, but the lapel mic remains. The city hears only the relay counting down, the widow’s shoulder hitting steel, and the Jester trying to breathe without making a sound for them.
-
-SALMA: Wrong pair.
-
-From the floor, his breath catches as if beginning her name. No word comes.
-
-SALMA: Don’t. Steal some air. You’re good at stealing what belongs to dying people.
-
-The line contains a small sound that could be pain or laughter. It ends in a choke.
-
-At 23:49:52, the cached record spins up. Its blank lead-in hisses.
-
-Salma follows a hot cable behind the chassis. Metal burns her palm; she curses and keeps pulling. The connector tears free with a hard electrical pop.
-
-The cache dies before the needle reaches its first sound.
-
-The red channel goes dark.
-
-**23:50:01 — LOCAL EMERGENCY RECORDER / NO CARRIER**
-
-The Jester is still audible to the room.
-
-One breath.
-
-Then another, smaller.
-
-His glasses scrape the floor when his head turns toward Salma’s crawling approach. His bare fingers catch briefly in her torn sleeve, then slide free. The last breath leaves without a word and does not return.
-
-Outside, the widow finds the pistol. A shot caves the door inward beside the recorder. Salma jams the torn connector through the bolt housing and twists until the mechanism locks crooked. Sirens approach beneath the widow’s grief, then drown it.
-
-**23:57:36 — EMERGENCY MICROPHONE / TRANSMITTER AVAILABLE**
-
-The microphone wakes locally when Salma lifts it. Its grille rasps against her split lip. Her breath shakes through the speakers in the room.
-
-Beyond the locked door, the widow asks, “Is he dead?”
-
-Salma says nothing.
-
-“I need to know.”
-
-Salma’s thumb rests on the switch that could wake the final transmitter. If she presses it, the city will receive everything it has demanded: the widow weeping on the floor, sirens climbing the freight shaft, Salma’s hurt breath, the body cooling close enough to touch. She could accuse the listeners. She could explain the first woman. She could make the Jester’s death mean whatever kept them tuned in through the advertisements that would bloom around it by morning.
-
-The dead frequency waits.
-
-The widow asks again, smaller, no longer a threat and not yet a plea.
-
-Salma lowers the microphone. She answers the woman through the door, too softly for any recorder to preserve.
-
-At midnight, she lets the transmitter wake to an empty input.
-
-For eleven minutes the city receives the most deliberate dead air it has ever heard.
+The console clock rolled to midnight while she repeated the locations and her name.
