@@ -16,14 +16,23 @@
 
 ## Rewrite request
 
-> I want you to review and rewrite all dialog in no locked stories should based on the new improvements to the writing pipeline.
+> re-write "What Turned Eighteen" to reduce the number of duplicates to something more reasonable like 9;
 
 ## Rewrite reference images
 
 - None supplied for this rewrite.
 
+## Rewrite selections
+
+- Scope: SELECTIVE
+- Outside named selections: KEEP EXACT
+- Keep exact: none specified
+- Keep in substance: none specified
+- Change or replace: Reduce Arlon's distributed true form from forty-three duplicate bodies to exactly nine, updating only the dependent counts, groupings, recovery arithmetic, and smallest necessary action or language seams so the story remains internally coherent.
+- Remove: none specified
+
 ## Rewrite constraints
 
 - Cover: AUTO
-- Craft profile: prospective-2026-08-21
-- Authority: the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding.
+- Craft profile: prospective-2026-08-23
+- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.
