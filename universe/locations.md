@@ -549,3 +549,26 @@
   - No city, country, planet, calendar year, building name, or relationship to
     another established location is known. The plumbing and retrofit are
     ordinary nonliving mechanisms.
+
+## Unnamed callwright college and examination tower
+
+- Status: LOCKED
+- Summary: An unnamed college in an unspecified fantasy-era setting teaches a
+  local callwright practice and uses a stone examination tower for archmage
+  demonstrations.
+- First established: stories/voice-of-silence/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: callwright college; examination tower
+- Notes:
+  - The tower includes three occupied gallery levels, a central table and exit,
+    a high crown carried on stone ribs, a lower open court, brass nodes, and
+    speaking rails. An old western joint meets newer mortar in its masonry.
+  - During Kethra's examination the western joint failed, the central exit
+    buckled, and the upper crown was deliberately separated. The occupied
+    platform reached the court, which then served as the recovery area; the
+    crown and Kethra's ornate lattice were lost.
+  - The tower, masonry, brass apparatus, office seal, slates, and diagrams are
+    nonliving and do not choose, consent, originate power, sustain, or cast.
+  - The college's name, city, polity, civil date, wider era, later history, and
+    relationship to Brightward, Cinder Annex, Northbridge Secondary, or any
+    other established institution remain unresolved.
