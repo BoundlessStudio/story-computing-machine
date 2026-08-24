@@ -1,12 +1,12 @@
 ---
-title: "The Healer's Measure"
+title: "The Witchknight’s Measure"
 slug: "the-healers-measure"
 created: 2026-08-24
 created-at: 2026-08-24T13:34:12-04:00
 canon: false
 ---
 
-# The Healer's Measure
+# The Witchknight’s Measure
 
 Rhoswen had two fingers against Demech's wrist when the third bell rang.
 

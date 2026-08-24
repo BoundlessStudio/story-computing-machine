@@ -6,15 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Rhoswen | new | Also called `Rhos` and addressed as `Talder`; no exact, alias, close-spelling, or confusing reuse found. |
-| Demech | new | No exact, alias, close-spelling, or confusing reuse found. |
-| Fremda | new | Introduced as `Instructor Fremda`; no exact, alias, close-spelling, or confusing reuse found. |
+| Rhoswen | new | Also called `Rhos` and addressed as `Talder`; no exact, alias, close-spelling, or confusing prior use found. |
+| Demech | new | No exact, alias, close-spelling, or confusing prior use found. |
+| Fremda | new | Introduced as `Instructor Fremda`; no exact, alias, close-spelling, or confusing prior use found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Candlemere Chapterhouse | new | Also shortened to `Candlemere`; no exact, alias, close-spelling, or confusing reuse found. |
+| Candlemere Chapterhouse | new | Also shortened to `Candlemere`; no exact, alias, close-spelling, or confusing prior use found. |
 
 ## Continuity
 
@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The standard twenty-seven-month course gives setbacks, extra quarters, clinic and equipment labor, and repetition real weight; the capstone pays off triage, stance, signals, breath-count switching, terrain judgment, and carrying discipline without new power or a waived standard. Rhoswen, Demech, and Fremda retain distinct knowledge, pressure behavior, and verbal tactics, and the final return to practical care is earned by the story's work-and-discipline promise.
+- Notes: The selected title change is exact in metadata and H1, the prior title is absent from the reader-facing story, and all 19,607 protected prose bytes remain byte-identical to the prior version. The ordinary twenty-seven-month training arc earns its capstone through the practiced triage, switching, signals, stance, and carrying established throughout.

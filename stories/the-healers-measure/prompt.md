@@ -17,3 +17,26 @@
 - Required: a complete story that resolves its central promise
 - Craft profile: prospective-2026-08-23
 - Avoid: none specified
+
+## Rewrite request
+
+> i think your right and we should change the name to The Witchknight’s Measure; and redo the cover image to match.
+
+## Rewrite reference images
+
+- None supplied for this rewrite.
+
+## Rewrite selections
+
+- Scope: SELECTIVE
+- Outside named selections: KEEP EXACT
+- Keep exact: none specified
+- Keep in substance: none specified
+- Change or replace: Reader-facing title: replace The Healer's Measure with The Witchknight’s Measure.
+- Remove: none specified
+
+## Rewrite constraints
+
+- Cover: REGENERATE
+- Craft profile: prospective-2026-08-23
+- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.

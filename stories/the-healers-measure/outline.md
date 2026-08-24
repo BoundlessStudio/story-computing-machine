@@ -2,56 +2,51 @@
 
 ## Story
 
-- Premise and central promise: **The Healer's Measure** follows healer Rhoswen Talder through Candlemere Chapterhouse's ordinary witchknight course. She receives no waiver or singular power. Repetition, setbacks, an extra quarter, and discipline become the means by which she completes a dangerous but standard final assessment.
-- Focal pressure or attachment: Rhoswen spends herself on the first visible hurt. She wants a witchknight's reach without becoming someone who watches pain and waits; training must distinguish neglect from restraint that keeps several people alive.
-- Counterforce or complication: Armor, fatigue, slow blade learning, quicker trainees, and her own overcommitment resist Rhoswen. Instructor Fremda Drel protects a dependable standard; cohort mate Demech is both help and an irritating measure of missing skills.
-- POV, distance, and information limit: Close third-person past through Rhoswen, attentive to pulse, gait, swelling, breath, tools, and bodily cost. She infers others' feelings only from conduct and learns assessment decisions when given.
-- Governing movement and time shape: Twenty-seven cumulative months organized by workdays and seasonal gates. Compress routine through changed loads, worn gear, and fewer corrections; expand three failures and the autumn capstone. The climax occupies the final quarter, followed by private qualification.
-- Speculative rule or ordinary-world constraint: In this local practice, living healers can feed pulse-work either into injured tissue or through prepared iron to repel the living magical pulse-thorn, never both at once. Switching requires broken contact and a measured recovery count; overdraw produces tremor, confusion, and collapse. Iron conducts but cannot initiate magic or act. Witchknight training makes a safe, repeatable measure usable under exertion rather than unlocking greater power.
-- Dialogue promise: Instructional talk stays physical, repetitive, funny, and uneven: clipped corrections, bad explanations, healer shorthand, petty comparisons, and late admissions. Respect grows through correction and obedience, not polished mentorship speeches.
-- Dialogic medium: Speech, breath counts, hand signals, touch checks, chalk tallies, practice bells, focused silence, and repeated calls.
-- Dialogue engine: Rhoswen must understand Fremda's corrections, while paired work requires her and Demech to report capacity, injury, and timing. Failed receipts change the next repetition; capstone signals determine when guarding can yield to healing.
+- Premise and central promise: **The Witchknight’s Measure** follows healer Rhoswen Talder through an ordinary twenty-seven-month path to witchknight qualification. Labor, correction, time, and discipline earn a climax in which combined practiced skills let her extract an injured partner from a live lane.
+- Focal pressure or attachment: Rhoswen wants to become a witchknight without ceasing to be a healer. Her reflex to close any wound conflicts with preserving guard capacity, judging what can wait, and trusting her partner to do his share.
+- Counterforce or complication: No villain or exceptional destiny drives the story. Rhoswen’s premature care reflex meets fatigue, weather, injury, limited magical capacity, difficult terrain, exacting gates, and a curriculum unmoved by good intentions.
+- POV, distance, and information limit: Retain close third-person past through Rhoswen, registering depletion, counting, clinical judgment, irritation, and narrowed attention. Demech’s and Fremda’s knowledge reaches her only through action, reports, correction, scores, and signals.
+- Governing movement and time shape: Accumulate twenty-seven months across early days, winter failure, an extra spring quarter, and the second year, then slow into the autumn capstone and aftermath. Qualification remains an ordinary administrative outcome, not public acclaim or institutional change.
+- Speculative rule or ordinary-world constraint: Rhoswen’s living current heals by touch or guards through prepared iron, never both at once. She must break contact and allow six clean breaths before switching; overdraw lengthens recovery. The climax must preserve every stated limit.
+- Dialogue promise: Retain a practical, affectionate training relationship shaped by teasing, impatience, correction, embarrassment, and earned trust, alongside Fremda’s concise authority. Talk stays embedded in labor, never becoming a polished thematic declaration.
+- Dialogic medium: Speech, shouted reports, deliberately simplified hand and chest signals, bodily evidence, waiting silence, chalk reconstruction, score slates, notice boards, and the final qualification form all carry consequential information.
+- Dialogue engine: Rhoswen and Demech must coordinate guard changes, injury judgments, terrain, and carries while learning to understand one another’s imperfect descriptions. Misread or ignored communication produces failures; practiced reporting and signals later make the capstone extraction possible.
 
 ## Voice
 
-- Narrative texture: Cumulative, tactile narration measures progress through balance, breath, soreness, weather, gear, and earlier noticing. Compress repetition without making it effortless; slow at failure, choice, and integrated action.
-- Conversational texture: Use work-short corrections, clinic shorthand, counts, muttered jokes, incomplete complaints, and poor explanations. Permit talk that only completes a task.
-- Rhetorical ownership: Rhoswen owns anatomy, dry self-mockery, and embarrassed over-explanation. Fremda owns demonstration, questions, authority, and patient listening. Demech owns terrain comparisons, teasing affection, guesses, and late uncertainty.
-- Pressure behavior: Rhoswen contracts to triage nouns and numbers; Fremda grows quiet and gestural; Demech jokes past fear, then loses sentence endings. Missed receipts require repetition, not crisis eloquence.
-- Relationship movement: Rhoswen wants Fremda to confirm she remains a healer but cannot ask. Fremda wants reliable self-measure, not admiration. Demech wants unrequested reciprocal respect. Corrections move resentment into trust; the climax changes supervision into partnership.
-- Anti-default: Avoid a prodigy, abusive academy, painless montage, or experts lecturing toward competence. Skill stays sweaty, partial, repetitive, and uneven; payoff comes from trained sequence and teamwork, not new power.
+- Narrative texture: Retain concrete attention to breath counts, weight, footing, wounds, iron, weather, and maintenance. Compression makes months feel worked; the capstone narrows into bodily decisions without grandiosity.
+- Conversational texture: Keep talk brief, task-bound, and uneven: Demech’s bad-anatomy jokes, Rhoswen’s corrective irritation, trainees’ complaints, and Fremda’s spare commands. Humor releases pressure without erasing danger.
+- Rhetorical ownership: Rhoswen owns clinical distinctions and counts; Demech terrain, loads, rough metaphor, affectionate provocation, and fear-deflecting humor; Fremda social authority, patient silence, and questions that force reconstruction.
+- Pressure behavior: Blood initially narrows Rhoswen’s listening and speeds her count; discipline makes her direct. Demech jokes faster when hurt, then fragments. Fremda reduces language to signals and prompts.
+- Relationship movement: Rhoswen wants Demech’s trust but cannot ask him to risk relying on her; he wants partnership, not treatment as only a wound. Failures build reciprocal reliance. Fremda withholds reassurance while formal evaluation changes Rhoswen’s standing.
+- Anti-default: Preserve unexceptional ranking, chores, failed gates, imperfect explanations, and administrative qualification. Do not turn the collapse into destiny or the ending into acclaim, reform, or symbolic triumph.
 
 ## Beats
 
-1. At intake, Rhoswen joins a full healer cohort for the same baseline. She diagnoses a minor injury but drops her iron guard to treat it, allowing pulse-thorn through the lane. Fremda records good care and failed protection, then assigns ordinary remedial repetitions.
-
-2. Establish the early workday: loaded marches and falls; stance, blade, pulse-work switching, and patient carries; clinic or equipment duty after supper. Rhoswen improves slowly, while Demech's balance and imprecise medical language create mutual irritation.
-
-3. At the winter gate, cold and exhaustion expose her habit. She overspends pulse-work on a treatable cut, trembles during the switch, and leaves Demech guarding alone. Argument and Fremda's reconstruction make the cost legible. Rhoswen takes the standard extra quarter, not an exception.
-
-4. Spring and summer accumulate unglamorous change. Demech rebuilds her foot placement and carries; she teaches triage distinctions he dislikes. Their hand signals fail under rain and become simpler. Rhoswen repairs gear, works clinic shifts, repeats a gate, and passes without ranking first.
-
-5. On second-year roads and clearings, Fremda intervenes less. Routine cases prove competence without mini-climaxes: Rhoswen guards while another healer works, tolerates survivable pain, catches her tremor, and yields when spent. She qualifies for the autumn capstone with Demech.
-
-6. Climax: on the chapterhouse's standard live clearing, a rain-softened bank gives way, pinning Demech inside an active pulse-thorn lane while Fremda must hold the outer growth. Rhoswen does not rush straight to his bleeding leg. Maintained iron, practiced stance, breath recovery, rough signals, triage, switching discipline, and the loaded carry each become causal: she makes a safe pocket, gets Demech compressing his wound, confirms Fremda's limit, switches once to stabilize him, then guards their slow extraction without overdrawing. Demech's terrain read and Fremda's held boundary keep success collective.
-
-7. Demech makes an ordinary recovery; the cleared lane is a completed assessment, not legend. Fremda identifies no hidden gift, only reliable choices at full strain. Rhoswen qualifies beside her cohort and accepts a routine duty assignment with its refresher date attached.
+1. On Rhoswen’s first morning, she heals Demech’s minor practice injury while dropping her iron; Fremda praises the care but marks both trainees dead and assigns repetition after clinic duty.
+2. Early drills establish packs, falls, stance, switching, and six-breath recovery. A clinic success exposes that over-healing leaves Rhoswen fourteen breaths from usable iron.
+3. At the winter gate, Rhoswen treats Demech’s manageable calf cut, switches on five, and loses the lane. Their chalk reconstruction identifies how she spent both partners’ capacities; she enters the standard extra quarter.
+4. Spring rain exposes unusable signals. Rhoswen and Demech simplify them, trade clinical and load-bearing knowledge, repeat gates, repair equipment, and accumulate small gains. Rhoswen passes the last rain gate by delaying care until the lane is closed.
+5. The second year extends the same work into patrol roads, wet clearings, inventory, honest capacity reports, and mutual correction. Demech earns his own ordinary extra quarter after a bad route choice.
+6. In month twenty-seven, their supervised autumn capstone begins as a routine live-lane casualty extraction. A bank collapse pins and wounds Demech, converting the exercise into a real rescue.
+7. Rhoswen keeps her guard, triages from Demech’s reports, uses their signals, accepts Fremda’s timed cover, counts six, heals only enough for transport, waits another full switch, follows Demech’s terrain read, and applies their practiced loaded carry.
+8. The team clears the lane. Demech recovers with ordinary consequences; Rhoswen qualifies without commendation, receives a road rotation and refresher date, then resumes the joined work of keeping iron ready while providing care.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Rhoswen Talder | new | Experienced village healer taking the standard witchknight course; no exact, alias, close-spelling, or confusing prior use found. |
-| Fremda Drel | new | Witchknight instructor maintaining the ordinary qualification standard; no prior collision found. |
-| Demech | new | Rhoswen's cohort mate and eventual capstone partner; no prior collision found. |
+| Rhoswen Talder (Rhoswen; Rhos; Talder) | new | Focal healer and witchknight trainee; no match in canon, the frozen legacy-name baseline, or passing current inventories. |
+| Demech | new | Rhoswen’s training partner, former survey-chain carrier, and field healer; no prior match found. |
+| Fremda | new | Candlemere instructor who trains, evaluates, and supervises the pair; no prior match found. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Candlemere Chapterhouse | new | Local healer-to-witchknight training house and site of the final live clearing; no prior collision found. |
+| Candlemere Chapterhouse (Candlemere) | new | Training chapterhouse, clinic, practice grounds, and capstone clearing; no prior match or authoritative entry found. |
 
 ## Continuity
 
-- Canon used: Magic is culturally classified; only living beings use it. Prepared iron is a nonliving conduit dependent on a living practitioner. Keep the story accessible and consequence-focused.
-- Boundaries and unknowns: Candlemere, pulse-work, pulse-thorn, and witchknight qualification are story-local, with no asserted link to established eras or systems. Do not universalize course length, costs, terminology, or medicine, or make equipment independently agentic.
+- Canon used: None. Current universe authority defines no healer, witchknight, pulse-work, pulse-thorn, prepared-iron, character, or Candlemere facts; all such material remains internal to this non-canon story.
+- Boundaries and unknowns: Preserve every story-body sentence exactly. The only selected change is the reader-facing title, exactly **The Witchknight’s Measure**, in metadata and H1; the existing slug remains unchanged. Do not expand the training system, magic, ranks, geography, character histories, or post-qualification future, and do not promote incidental details to shared canon.
