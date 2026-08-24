@@ -6,13 +6,14 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Vesper | new | Arena superstar's mononym; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Vesper | new | Story-local arena superstar retained through the reshape; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Grand Halo | new | Televised deathmatch arena, also called the Halo; no exact, alias, close-spelling, or confusing prior reuse found. |
+| Grand Halo | new | Story-local deathmatch arena, also called the Halo; no exact, alias, close-spelling, or confusing reuse found. |
+| Service 4 | new | Story-local maintenance pocket; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Continuity
 
@@ -27,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The local rebuild system preserves pain, consent, and unresolved personhood stakes; the relay, hesitation, and distinct verbal behavior turn asymmetric memory into an earned choice and final shared recognition.
+- Notes: The RESHAPE preserves the match rules, lost-memory relationship, bounty choice, and release-passage payoff in substance while materially recasting the story as announcer-led live action; sustained profanity, explicit lethal impacts, and broadcast exploitation establish the requested R+ intensity.

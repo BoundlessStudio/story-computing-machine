@@ -8,462 +8,396 @@ canon: false
 
 # The Kill She Wouldn't Take
 
-The last thing you remember is the gate opening.
+At fifteen-oh-eight, the Grand Halo brings our furnace worker up under the spawn lights again.
 
-That is how the Grand Halo sells it: a beginning so enormous it survives anything that comes after. The iris doors peel apart. Light the color of cut fruit spills over your boots. Beyond it, the world's largest deathmatch rises in concentric ruins under a glass-black dome, every shattered bridge and flooded trench outlined in sponsor neon. Fifty thousand people become one sound. Several billion more are represented by a white number climbing in the corner of your visor.
+Camera Seven finds them in the spawn alcove: clean lungs hauling air, pistol restored to its unfired condition, face restored to the grin they wore at entry. The grin lasts until their visor updates.
 
-The consent clerk's questions still cling to you.
+**DEATHS 6 / KILLS 1**
 
-Do you understand that reconstruction occurs eighteen seconds after a registered kill?
-
-Yes.
-
-Do you understand that pain is neither reduced nor simulated?
-
-Yes.
-
-Do you understand that you will be restored from the physical and mnemonic imprint taken at entry, retaining match statistics and one self-authored relay of forty characters?
-
-Yes.
-
-That answer is worth six years at the night furnaces if you can collect the bounty on Vesper. It is worth being laughed out of the Halo in pieces if one of those pieces makes the evening reel. You step through the gate grinning because death has been made temporary, embarrassment has not, and only one of those facts interests you.
-
-Then the gate is gone.
-
-You are standing in white spawn light with clean lungs, an unfired pistol, and no idea how you arrived there.
-
-Your visor says:
-
-**MATCH 15:08 / DEATHS 6 / KILLS 1**
-
-Beneath it, in the relay field, your own blocky handwriting glows:
+Then they see the relay. We see it too, enlarged in my monitor stack by a producer who knows a hook when one survives dismemberment.
 
 **FIND HORN MASK. ASK WHY RED. LISTEN.**
 
-The crowd is shouting a name.
+“And our newcomer is back in play,” I say, because *back* is the approved verb. Not *rebuilt*. Not *copied*. Certainly not *waking up without the last six people they were*. “One kill on the board, six visits to reconstruction, and fifteen minutes to turn that ugly ratio around.”
 
-Vesper answers from every surface in the arena. Her face fills the suspended screens: a horned white visor over brown skin, red lenses bright as heating coils, a spray of luminous red fibers standing from her scalp. Segmented white armor cups her shoulders and ribs. Green status lights wink at her throat. She carries a firearm the size of a small animal, its long body braced against one mechanical forearm as if recoil is a rumor other people believe.
+My producer presses her talk key. “Mention the debt.”
 
-Her kill count rolls upward. Forty-three.
+We have been mentioning the debt since the gate-opening package: the iris doors peeling apart, peach-colored light across the entrant’s boots, fifty thousand throats opening at once. Six years at the night furnaces, wiped clean if the entrant collects Vesper’s bounty. Before the doors opened, the consent clerk asked whether they understood that reconstruction occurred eighteen seconds after a registered kill. They said yes. Asked whether they understood that pain was real, full-strength, and not simulated. Yes. Asked whether they understood they would return from the physical and mnemonic imprint taken at entry, retaining statistics and one self-authored message of forty characters. Yes, yes, yes.
 
-You have known her image for years. Everyone has. Vesper turning a sponsor's glass sideways because she dislikes the logo. Vesper winning in a sandstorm with one lens cracked. Vesper, undefeated in twelve Halo appearances, never rebuilt on camera.
+Then they faced the nearest lens and said, “Temporary death, permanent money. What could go fucking wrong?”
 
-Knowing the image does not explain your relay.
+It played beautifully in previews. It plays differently after you have watched them learn the answer six times.
 
-A section of skyway collapses beyond the spawn alcove. Its orange lattice strikes the basin below and remains there. Arena damage persists, the clerk said. Bodies do not. You look at the dust, then at the six beside **DEATHS**, and learn what absence weighs.
+The crowd begins the Vesper chant. Her face rolls across the suspended screens, and I take the handoff because my voice is what several billion people have been taught to believe when the pictures move too quickly. “Forty-three confirmed kills for the reigning queen of the Halo. Still no registered death in twelve appearances.”
 
-You run.
+Camera Two has her on a broken causeway above the flooded garden. The white cybernetic visor hides her eyes behind red lenses, one horn chipped. Vivid red fiber-optic hair streams from her scalp through the dust. Green status lights step calmly along her neck, at odds with the gray scars on her segmented white armor. Her firearm is oversized even by arena standards, a long white-and-black brute braced to one mechanical forearm.
 
-The route to the central ring has been chewed open. You cross a tilted kitchen set, a drowned garden, a row of suburban doors freestanding in smoke. The Halo calls the scenery *worlds*, because *cover* sounds cheap. At the third door your feet turn left before you decide. A bolt scorches the knob where your head would have been.
+“Horn mask acquired,” I say. “Now let’s see whether our entrant follows their own advice.”
 
-You duck, fire twice, and hear a competitor's suit announce a registered kill in a pleasant alto. Their body dissolves behind a silver curtain. It is clean enough for broadcast. The look they give you before the curtain closes is not.
+They run.
 
-Your tally becomes two.
+The route to center is already chewed to shit. Damage persists even when bodies do not, so the field remembers everybody. The entrant crosses a tilted kitchen set, vaults the sink, and cuts through a row of suburban doors standing unsupported in smoke. Their feet take a left before their head does. A bolt burns through the brass knob where their mouth was about to be.
 
-"Sorry," you say, too late for them and exactly in time for the nearest microphone.
+They duck and fire twice. A competitor folds against a lilac bedroom door, suit shrilling the kill registration while a silver curtain rises around the body.
 
-The crowd likes that.
+“Two kills,” I call. “And an apology.”
 
-You find Vesper on a broken causeway above the flooded garden. The screens show her from three angles. In person, her armor is scuffed gray at the edges, one horn chipped, the red fibers of her hair dimmed by drifting dust. Her cannon points down at the water.
+“Sorry,” the entrant tells the dissolving competitor.
 
-Before you can raise your pistol, it rises to your chest.
+The crowd laughs. The producer floods the lower screen with the entrant’s bounty odds. Numbers are one way to keep people from hearing how long a scream lasts.
 
-"There you are," she says.
+At twelve-oh-three, the entrant steps onto the causeway. Camera Two takes their front, Camera Nine gives us Vesper in profile, and a submerged drone looks up through garden water gone brown with pulverized concrete. The cannon comes around to the entrant’s chest.
 
-Her voice is lower than it is in advertisements. Tired, too. That must be branding: the champion letting the rookie feel briefly special before the spectacular death.
+“There you are,” Vesper says.
 
-"Give me your left side," you say. "It's my better camera."
+Her advertisements give her a rich, amused contralto. The causeway mic gives us a tired woman breathing too hard.
 
-Vesper's cannon dips by half an inch.
+The entrant raises their pistol. “Give me my left side. Better camera.”
 
-"Not that one again."
+Vesper’s barrel dips half an inch.
 
-You laugh because the alternative is admitting the relay might mean what it says. "The horn mask comes with fortune-telling?"
+“Not that one again.”
 
-Someone moves under the water. Vesper sees the ripple without looking. Her free hand snaps twice: down, stay. Arena hand-sign, crisp as an order.
+I stop speaking. In my left ear, the producer says, “Again how?”
 
-You do neither. "Why red?"
+The entrant laughs. It is a good laugh, quick and dirty, the kind you use to convince your own spine. “The horn mask does fortunes now?”
 
-For a fraction of a second she goes perfectly still.
+Under the causeway, something disturbs the water. Vesper snaps two fingers: down, stay. The entrant stays upright.
 
-"You said blue looked afraid," she answers.
+“Why red?” they ask.
 
-"When?"
+The green lights at Vesper’s throat miss a beat. “You said blue looked afraid.”
 
-The cannon charges with a whine you feel in your fillings. Vesper glances past you. "Write this down: don't come over the causeway."
+“When?”
 
-You slap the relay control on your wrist and stab letters with your thumb.
+“Write this down. Don’t come over the causeway.”
 
-**SHE REMEMBERS. ASK ABOUT—**
-
-The weapon under the water breaks the surface. Vesper says, "I'm sorry," and fires first.
-
-There is no gore. The Halo has strict broadcast standards.
-
-There is a white impact that finds every nerve at once, a hard taste of copper, and the certain animal knowledge that temporary pain is still pain while it owns you.
-
-Then nothing.
-
-Vesper gets all eighteen seconds.
-
-You get the gate opening.
-
-Light the color of cut fruit. Fifty thousand throats. Your own reckless grin, preserved in perfect condition.
-
-Then white spawn light, clean lungs, an unfired pistol.
-
-**MATCH 10:41 / DEATHS 7 / KILLS 2**
+The entrant slaps open the relay and thumbs in letters.
 
 **SHE REMEMBERS. ASK ABOUT—**
 
-"About what?" you demand.
+“Movement beneath them,” I say. The submerged drone catches the gray oval of a rifle rising through weeds. “Garden attack, south side. Entrant does not see it. Vesper has the angle.”
 
-The spawn alcove has no opinion.
+“I’m sorry,” Vesper says.
 
-You reach the causeway by a different route. It is worse now. Half the kitchen burns with blue smokeless flame, and the flooded garden has drained through a hole in the basin. An advertising arch lies across the suburban doors. You climb it on your hands because some dead version of you has thoughtfully left no instructions about the loose cable snapping at your ankles.
+Her cannon fires into the entrant from three paces.
 
-Vesper finds you before you find her.
+The impact lifts them off the causeway. Armor holds together; the body inside it bends where bodies are not built to bend. The open mic gives us one raw, astonished sound before they strike the rail. White energy crawls through their suit. Their hand claws once against empty air.
 
-She drops from the arch, catches the back of your armor, and drives both of you behind a concrete planter as a ribbon of rounds cuts the air above. Red fiber-light brushes your visor. Her cannon lands beside your head with a weight that makes the concrete ring.
+Registered kill.
 
-"Off," you say, trying to twist free.
+“Vesper protects the streak,” I say automatically. “No hesitation when the shot is clean.”
 
-"Stop helping them kill you."
+Silver rises around the entrant. The garden rifle fires through the place their head had been and punches a molten hole in Vesper’s shoulder plate.
 
-"That's rich."
+The replay is on me before I can breathe. We run the sequence at one-eighth speed with sponsor smoothing, agony recolored to a tasteful gold. Vesper’s lenses turn toward the ripple first. Her fingers signal. The entrant ignores her. Vesper’s firing line reaches them four hundredths of a second before the rifle’s does.
 
-She releases you at once. That is almost worse. Your pistol comes up; hers is already there, but angled a little aside.
+“Correction,” I say. My producer swears in my ear. “That was not a streak-protection shot. Vesper killed the entrant to beat the garden round. Reconstruction clock now at eleven seconds.”
 
-"Ask," Vesper says.
+“Give me tactical mercy,” the producer says.
 
-"About what? I died halfway through the note. Poor planning on my part."
+I don’t. Mercy is a word cameras cannot verify.
 
-"The boot."
-
-You look down despite yourself. Both seals read green.
-
-Something behind the horned visor changes. Not a smile. The memory of one, maybe.
-
-"Three lives ago, you told me your left boot had opened. You asked for a hold."
-
-"And the idiot superstar looked?"
-
-"The idiot superstar looked. You kicked my cannon into the canal and ran away laughing."
-
-"That does sound like me."
-
-"You said that last time."
-
-The joke leaves an odd little vacancy when it goes. You glance up at the nearest camera bead. Its glass is punched out.
-
-"Convenient dead microphone."
-
-"You shot it. Then you apologized to it."
-
-"Now you are making things up. I apologize to people. Sometimes."
-
-"You apologized to the door you ran into."
-
-"Was it a nice door?"
-
-Vesper's breath catches. The red fibers at her temple tremble with it. She turns the sound into a cough and looks over the planter.
-
-The relay burns on your wrist in your own hand. **SHE REMEMBERS.** Not *Vesper claims*. Not *possible tactic*. Some version of you had believed enough to spend twelve characters on certainty.
-
-"How many times have you killed me?"
-
-"Six."
-
-"The tally says seven."
-
-"One wasn't mine."
-
-"You keeping a scrapbook?"
-
-"Don't." The word comes too fast, stripped of camera polish. Then she tries again. "We have twenty seconds before the shooters on the east stair can see this planter. Go through the service cut behind you."
-
-"Why keep killing me?"
-
-"The first time, you tried to take the bounty. The second time, you asked me to beat the railgun charge. Once I was angry. Twice you wouldn't listen."
-
-"And the last time?"
-
-"You still wouldn't listen."
-
-East of the planter, metal rings under running feet.
-
-Vesper points to a black seam in the wall. You see a service cut barely wide enough for your shoulders. You also see her cannon turned away from you, and the glowing register beneath her breastplate, the legal target that could turn six years of furnace work into one squeezed trigger.
-
-She notices your attention. Of course she does.
-
-"Not yet," she says.
-
-You hate the command. You hate that your earlier self has left you the stranger's certainty without the reasons. You lunge for the register.
-
-Vesper moves by reflex.
-
-Her gauntlet catches your wrist. Your shot strikes her chipped horn. Her cannon flashes against your ribs.
-
-This death is quieter. It hurts just as much.
-
-At the edge of the white, Vesper is shouting something you cannot keep.
-
-The gate opens.
-
-The arena swallows you and gives you back to yourself.
-
-**MATCH 6:02 / DEATHS 8 / KILLS 2**
+At ten-forty-one, spawn light flares. The entrant comes back with clean armor, the gate-opening grin, and no knowledge of the causeway except what nine words on their wrist can carry.
 
 **SHE REMEMBERS. ASK ABOUT—**
 
-The words are infuriating now. You erase the unfinished instruction. For four long seconds the relay is blank.
+They stare at the dash. “About what?”
 
-Then, because you do not trust Vesper, you write to the only person here you trust less: the next you.
+“Beautiful,” says my producer. “Sell the mystery.”
+
+I describe the route instead.
+
+The kitchen is burning blue. The garden has drained through a split basin. A sponsor arch lies across the row of doors. The entrant chooses a different path and nearly loses a boot to a loose cable snapping knee-high between two rails. They reach the concrete planter west of center at eight-fifty-nine. Vesper drops from the arch, catches the back of their armor, and drives them both down as rounds stitch the planter lip.
+
+Her red fibers brush the entrant’s visor. Her cannon lands hard enough to crater concrete beside their head.
+
+“Get off,” the entrant says.
+
+“Stop helping them kill you.”
+
+“That’s rich.”
+
+Vesper lets go at once. The entrant rolls up with their pistol; her cannon is already raised, but not quite aimed.
+
+“Ask,” she says.
+
+“I died halfway through the fucking note.” The entrant shakes their glowing wrist at her. “Excellent planning by somebody.”
+
+“The boot.”
+
+They look down. Both suit seals show green.
+
+“Three lives ago, you said the left one opened,” Vesper says. “You asked me to hold.”
+
+“Did you?”
+
+“You kicked my cannon into the canal.”
+
+The entrant grins. “Smart.”
+
+“You ran into a door.”
+
+“Less smart.”
+
+“You apologized to it.”
+
+“Was it hurt?”
+
+Something shakes loose in Vesper’s breathing. It may be a laugh. The producer orders an audio boost, and in doing so drowns it under crowd compression.
+
+The entrant checks the dead camera above the planter, then the relay. “How many times have you killed me?”
+
+“Six.”
+
+“Tally says seven.”
+
+“One wasn’t mine.”
+
+“Why keep doing it?”
+
+Footsteps hammer the east stair. Vesper points at a black seam behind the planter. “Service cut. Now.”
+
+“That wasn’t an answer.”
+
+“First time, you came for the bounty. Another time you asked me to beat a railgun charge. Once I was pissed off. Twice you wouldn’t listen.”
+
+“And the others?”
+
+“Move.”
+
+Vesper turns her weapon toward the stair. Beneath the overlap of her breastplate, her live register glows white. The entrant sees it. Camera Nine sees their pistol settle.
+
+“They have the bounty target,” I say. “Vesper has given them her back.”
+
+The entrant lunges.
+
+Vesper catches their wrist by reflex. The pistol discharges, she twists, and the cannon flashes against the entrant’s ribs. Their armor plates hammer inward with a sound like a steel door kicked off its track. Blood freckles the inside of their visor before the silver curtain blinds Camera Nine.
+
+“Betrayal,” the producer says. The word appears as a suggested banner on my confidence screen. “Use it.”
+
+The reverse replay shows the entrant’s first shot clipping Vesper’s chipped horn.
+
+“The entrant fired first,” I say. “Vesper answered. Death eight.”
+
+“Nobody buys *answered*.”
+
+On the stair, Vesper is shouting into a column of silver that cannot hear her.
+
+At six-oh-two the entrant wakes with two kills, eight deaths, and the unfinished sentence. They erase it. For four seconds their relay is empty, a black field waiting for forty characters to decide what kind of person comes next.
+
+Then they write:
 
 **ASK HER TO FINISH. SERVICE CUT.**
 
-You take the short route through what remains of the kitchen. The blue fire has gone out. A dead turret sweeps back and forth, politely trying to identify heads with a ruined sensor. You pass it while it is apologizing for the inconvenience.
+“They’re going back,” I say.
 
-Vesper waits at the black seam.
+“Of course they are. Double the bounty bug.”
 
-Her cannon is charged. She does not point it at you.
+The gold number swells across every public overlay. Furnace debt becomes a graphic: six years squeezed into six red bars. I have narrated those bars disappearing in rehearsal. I know the approved line about a life reclaimed. I also know the entrant cannot remember choosing Vesper over it, because they have not done that yet.
 
-"Finish," you say.
+They take the ruined kitchen at a sprint. A turret with half a sensor tracks them and apologizes while firing into the ceiling. The entrant slips through the service cut at five-eleven. Vesper follows sideways, cannon scraping sparks off both walls.
 
-"What?"
+Then we lose picture.
 
-"Apparently I'm a mystery even to me. Ask about what?"
+Camera Twelve is dead. The entrant’s body feed gives us a white wall, static, three frames of Vesper’s red hair. Audio survives as metal vibration.
 
-She looks at your wrist. "I don't know."
+“Finish,” the entrant says.
 
-"You remembered the boot."
+“What?”
 
-"You never finished writing it. You kept asking me to guess."
+“Ask about what?”
 
-"And?"
+A pause. Vesper’s breathing. The crowd reaches us faintly through the structure.
 
-"I kept guessing wrong."
+“I don’t know,” she says.
 
-The admission is so useless it feels true.
+The producer tells me to fill. I recap the bounty, the streak, the eight deaths. My mouth moves while I listen underneath myself.
 
-You squeeze through the service cut. Vesper follows sideways, cannon scraping sparks from the wall. The passage smells of hot insulation and the sweet revival gel pumped through distant spawn banks. It ends in a maintenance pocket behind the ring, three walls and a grate overlooking the wreckage. No live screens. No cheers except as pressure in the metal.
+“You remembered the boot,” the entrant says.
 
-"How many times have we done this?" you ask.
+“You never finished. You kept asking me to guess.”
 
-"This pocket? Twice."
+“And?”
 
-"What happened?"
+“I kept getting it wrong.”
 
-"You tried to drink through your sealed visor."
+For the next two minutes, the maintenance pocket gives us pieces: Vesper counting footsteps; the entrant telling her to stop counting and shoot; both of them swearing at a hatch that will not open. The body feed clears for half a second and shows Vesper dragging the entrant away from the grate. Then static eats them again.
 
-"That's insulting."
+A rifle cracks. The body feed whirls. We get one frozen image of Vesper’s armored back between the entrant and the service cut, then nothing but white clipping and the horrible wet cough of somebody whose throat seal has failed.
 
-"You did it twice."
+“Kill registered,” I say. “Entrant down. Shooter unidentified.”
 
-"Now it's slander."
+“Vesper did it again,” the producer says.
 
-The cannon comes up. Not at you—past you.
+“We don’t have that.”
 
-Vesper fires through the service cut. Silver glare fills the narrow passage. A competitor's kill-curtain rises on the other side, and their shot arrives a breath later. It catches you above the collar, where armor turns sensation into a single terrible bell.
+“We have a body and Vesper standing.”
 
-You fall against Vesper. Her mechanical hand closes around yours.
+“We don’t have it.”
 
-"No," she says, as if refusal can catch a registered kill on its way to the system.
-
-Your relay is still open.
-
-With a thumb that no longer feels attached, you write:
+A maintenance drone noses through the grate too late for the kill. Its lens catches Vesper on one knee, shoulder smoking, her mechanical hand clamped over the entrant’s. Their thumb moves across the relay while the rest of them shakes.
 
 **SERVICE 4. SHE'S TRYING. LET HER TALK.**
 
-The last thing you hear is Vesper reading it aloud badly, losing the middle words.
+Vesper reads it aloud, but her voice breaks in the middle and the reconstruction tone takes the rest.
 
-Then the gate opens.
+The sponsor replay never airs. There is no clean angle for the product mark.
 
-It is magnificent. You remember thinking so.
+At one-thirty-three, the spawn alcove detonates white. The entrant appears for the tenth time, armed, uninjured, and as new to the last fourteen minutes as they were at the gate.
 
-The iris doors, the cut-fruit light, the world's roar. You step forward to become somebody.
-
-White spawn light replaces the memory before your boot comes down.
-
-**MATCH 1:33 / DEATHS 9 / KILLS 2**
+**DEATHS 9 / KILLS 2**
 
 **SERVICE 4. SHE'S TRYING. LET HER TALK.**
 
-The Halo has become a building after a storm. Whole sections are dark. A rain system has ruptured over the central ring, falling upward in glittering beads wherever the gravity plates misfire. The giant screens still show Vesper, but one is cracked across her face and another has frozen on an old smile.
+The Grand Halo around them is a building after a bombing. The central skyway lies across the basin. Gravity plates throw rain upward in glittering sheets. One giant screen has cracked across Vesper’s face; another is frozen on an old sponsor smile. Whole sectors have gone dark, and the surviving competitors move as muzzle flashes through the ruins.
 
-You sprint for the service cut with the bounty pulsing gold in the corner of your visor.
+The final-minute bounty doubles.
 
-It has doubled for the final minute.
+“There it is,” my producer says. “Freedom money. Bring us home.”
 
-The maintenance pocket is marked **4** in flaking white paint. You slip inside, turn, and find Vesper's cannon filling the doorway.
+The entrant runs for Service 4.
 
-She has you cornered. No cover, no second exit, nowhere to go but through her. The weapon's red apertures gather light. Her horned visor is expressionless. Her luminous hair throws thin red lines across the cramped walls.
+Our coverage there is shit: one maintenance lens high in a corner, the entrant’s damaged body feed, Vesper’s back, a warped panel that reflects more than it should and less than we need. The entrant slips into the pocket and turns. Vesper’s cannon fills the doorway.
 
-One second passes.
+“Clean shot,” I say.
+
+One second.
 
 Two.
 
-Vesper does not fire.
+Vesper does not take it.
 
-The crowd catches the hesitation before you trust it. Its roar changes pitch. The broadcast overlays bloom around her: **CLEAN SHOT. STREAK SECURE. LIVE ODDS.**
+The crowd changes pitch. Overlays breed around her body: **STREAK SECURE. LIVE ODDS. FINISH WINDOW.** The producer offers me *mind game*, *injury*, *mercy*. She has a whole menu of nouns for the space between a woman and a trigger.
 
-"Do it," you say. Your mouth is dry. "Unless this is the part where you sell me a drink."
+“Do it,” the entrant says. “Unless this is where you sell me a drink.”
 
-Her cannon lowers until its muzzle touches the floor.
+Vesper lowers the cannon until its muzzle touches the floor. “You always say something stupid here.”
 
-"You always say something stupid here," she says.
+“Good. I’m consistent.”
 
-"Good. Continuity."
+“No.” Her breath catches. “You aren’t.”
 
-"No. Not good."
+She releases the seal at her throat. Her live register brightens beneath the armor, a bare crescent of white. Legal target. One pistol shot at this range. Then she shoves the cannon across the floor until it strikes the entrant’s boot.
 
-Vesper reaches up and releases the seal at her throat. The visor stays on, but her live register brightens beneath it: an exposed crescent of white light. A legal kill. Your pistol would need less than a second.
+“What the hell are you doing?”
 
-"What are you doing?"
+“You came for the bounty.”
 
-"You came for the bounty."
+“You came for the streak.”
 
-"You came to keep your streak."
+“I did.”
 
-"I did."
+My producer says, “Strategy. Call it.”
 
-The past tense lands harder than a speech would have.
+The entrant aims at the register. Their bounty value occupies a third of my confidence screen. They could buy six furnace years, the entry fee, and a home somewhere the night does not glow orange.
 
-You aim at the crescent. The gold number in your visor is more money than you have ever seen attached to your own choices. The furnace debt gone. Your entry fee returned a hundred times. Your face on every screen instead of hers.
+“If I kill you, you come back,” they say.
 
-Vesper sets her cannon on the floor. With the mechanical arm, she shoves it toward you. It stops against your boot.
+“She comes back.”
 
-"If I kill you," you say, "you come back."
+“Who?”
 
-"Yes."
+Vesper tries to answer. Nothing comes out. Running feet ring in the service cut.
 
-"Very sad. Eighteen whole seconds."
+“The one at the gate,” she manages. “She won’t— These lives. You. I can’t put them in the relay.”
 
-"She comes back."
+The entrant’s pistol remains on the white crescent. “You want me to protect your memories?”
 
-You almost ask who. Then you understand.
+“No.”
 
-The Vesper who stepped through the gate. The undefeated champion with no memory of six apologies, a fake loose boot, a sealed drinking tube, or the stranger she keeps meeting after death. She will wake in white light, check a tally, read whatever relay she left herself, and wonder why a rookie is staring at her like a grave.
+“Bullshit.”
 
-Maybe that woman is Vesper. The entry contract says so. The courts say so. Most of the audience is betting so. Your pistol remains steady anyway.
+“I don’t want another version of you.” Vesper jerks her head, angry at the sentence as soon as it exists. “That’s not—I know it isn’t mine to—”
 
-"You expect me to protect your memories?" you ask.
+“No, it fucking isn’t.”
 
-"No."
+“I know.”
 
-"That's a terrible pitch."
+The producer says, “Romance angle is spiking.”
 
-"I had better ones. You didn't believe them."
+“Shut up,” I say.
 
-"Try me."
+There is a silence in my headset unlike the one in Service 4. Mine has invoices attached.
 
-Vesper's head turns toward the corridor. Running feet. Fifty-eight seconds.
+In the warped panel, a competitor slides into the cut behind Vesper. The entrant sees the reflection.
 
-"I know you hate being called brave," she says. "I know you tap the relay twice after you lie. I know you make the same joke differently and think that makes it new. I know you were scared the first time in this room and pretended your drinking tube was broken."
+“Duck, hornhead.”
 
-"It might have been."
+Vesper drops. The entrant fires past her face and hits the rifle’s charge housing. Blue light punches through the pocket. Vesper looks up from the floor.
 
-"You bit it. Water went up your nose."
+“Cannon,” the entrant says.
 
-"All right. Enough history."
+“You have it.”
 
-"That's all it is to you." Her polished cadence fails there. She looks down at the cannon, then back at you. "I don't know how to—"
+They glance at the huge weapon against their boot. “Right. Shit.”
 
-She stops. Listens to the feet. Starts again and does worse.
+Vesper snatches it up as the competitor rushes. The maintenance camera judders. Vesper calls left; the entrant goes right and slams shoulder-first into the wall. A second shooter finds the grate. The entrant hurls a spent magazine at a camera drone, misses by a meter, and ducks as a round chips the other horn from Vesper’s visor.
 
-"I don't want another version of you."
+“Mask,” they say.
 
-Your finger tightens on the trigger.
+“Busy.”
 
-"You don't get to choose that," you say.
+“Looks better.”
 
-"I know."
+“Fuck you.”
 
-The answer is immediate. No defense, no perfect counterargument. Just the champion kneeling behind her own enormous weapon while the audience screams for one of you to stop wasting time.
-
-In a warped steel panel beside her, you see a shape slide into the service cut.
-
-You can take the bounty before it reaches you. Vesper has offered the register, the weapon, the moment. One shot, and the only witness to eight lives of you will be gone. Another eighteen seconds, and a fresher Vesper can return to finish the match as if her hesitation belonged to nobody.
-
-The shape raises a rifle behind her.
-
-"Duck, hornhead."
-
-Vesper drops. Your shot passes where her face was and strikes the rifle's charge housing. The competitor curses. The corridor turns blue.
-
-Vesper stares at you from the floor.
-
-"Cannon," you say.
-
-"You have it."
-
-You look down. The oversized weapon is against your boot, approximately as useful as a fallen bridge. "Right. Excellent."
-
-She snatches it up. You fire around her shoulder. She blocks the cut; you try to cover the grate. Neither of you fits cleanly in the maintenance pocket with the cannon between you. Vesper calls left and you go right. You throw a spent magazine at a camera drone and miss by a meter. A round chips the other horn from her visor.
-
-"Your mask," you say.
-
-"Busy."
-
-"Now it's symmetrical."
-
-"I hate you."
-
-"See? Shared history."
-
-This time you hear her laugh. One startled bark, gone as she swings the cannon up.
+“There she is.”
 
 Twenty-three seconds.
 
-The competitor in the cut rushes. Vesper could step back and let their line pass through her into you. Instead she turns her mechanical shoulder into the shot. White armor bursts into harmless ceramic petals. Her register flares warning red but holds. The impact spins her against the wall.
+The cut shooter fires. Vesper turns her mechanical shoulder into the round instead of stepping aside. Segmented white armor bursts into ceramic petals; her register flares red but holds. The impact whips her against the wall.
 
-You catch the cannon before it pins her arm. Its weight drags you to one knee.
+The cannon drops. The entrant catches it and goes to one knee under the weight.
 
-"Sorry," you tell it.
+“Sorry,” they tell the weapon.
 
-"You do apologize to objects."
+Vesper, dazed against the wall, makes a sound that might be a laugh. “You do apologize to objects.”
 
-"Later."
+“Later.”
 
-There may not be a later. The opponent at the grate has found an angle. Vesper sees your eyes move, reads the angle from them, and fires without turning. A silver curtain rises outside. The first competitor comes through the cut at the same moment; you grab the chipped edge of Vesper's breastplate and pull her down as their round cuts red fibers from her hair.
+The grate shooter leans into view. Vesper tracks the entrant’s eyes, turns without room to aim properly, and fires. The backblast throws both of them sideways. Outside, a silver curtain rises.
+
+The first competitor comes through the cut. They shoot Vesper’s hair, severing red fibers in a bright spray. The entrant catches the chipped edge of her breastplate and yanks her down.
 
 Eight seconds.
 
-Vesper has a clean shot at the runner. You have a clean shot at Vesper. For one stretched instant all three of you know it.
+Vesper has the runner centered. The runner has Vesper’s exposed register. The entrant has Vesper.
 
-You shoot the runner.
+“Take it,” my producer whispers.
 
-Their kill-curtain has barely begun to shine when the Halo bell sounds.
+The entrant spends their final shot on the runner.
 
-Every weapon locks blue.
+Silver climbs. The Halo bell sounds before the curtain closes, and every remaining weapon locks blue.
 
-Rain falls upward. The crowd boos, cheers, and argues with itself. Your visor floods with results: you place nowhere important. Your bounty claim reads **FORFEITED**. Vesper's perfect-clear bonus vanishes beneath a storm of statistical explanations. Her no-death record remains, but on the central screens the replay has already chosen the image that will follow her instead: the champion on her knees, her register exposed, refusing to fire.
+The crowd does not become one noble voice. Half of it boos the lost bounty. Some cheer Vesper’s preserved streak. Some chant the entrant’s number; others demand refunds. On the public feeds, strategy fights romance, conspiracy fights secret injury, and a sponsor poll asks whether hesitation makes champions human or weak.
 
-Within seconds, the broadcast decides it was strategy. Then a sponsor dispute. Then romance. Then a secret injury. The Grand Halo can tolerate any answer that sells another angle.
+The entrant’s results stack over the field: no placement worth printing, bounty **FORFEITED**, debt unchanged. Vesper’s perfect-clear bonus drops to zero. Her no-death record remains.
 
-None of them changes the weapon cooling against your boot.
+“Tell them what they saw,” the producer says.
 
-The release passage opens after the locks are verified. You and Vesper enter under separate guard lights, a regulation pace apart. Neither of you tests it. Behind you, workers enter the ring before the last silver curtains have faded. Tomorrow's scenery begins moving into place.
+I look at the replay waiting beneath my hand: Vesper kneeling, register bare; the entrant’s pistol aimed; the final shot going elsewhere. I have told people what pictures mean for twenty-two years. Tonight I called an execution before a rifle round proved it a rescue. I called a reflex kill an answer because the alternative banner was worse. I sold nine deaths as nine fresh starts to someone who only got one beginning.
 
-Halfway down the passage, Vesper stops.
+“The bell is final,” I say. “The kill was there. The entrant didn’t take it.”
 
-She lifts both hands to the broken horns and removes her visor. The face beneath is younger than the screens permit, sweat-marked and furious with exhaustion. Red fibers spill around her bare temples, their light fading one strand at a time. Without the mask, she looks neither harmless nor legendary. She looks like the person who had all eighteen seconds.
+That is all the picture can prove.
 
-You still want the money. You still want to know what you said in the lives missing from you, and whether those words belong to you if you cannot remember meaning them. Vesper still has eight versions of your company and no right way to hand any of them back.
+The release passage opens after the weapon locks verify. Separate guard lights keep the entrant and Vesper a regulation pace apart. Workers enter the wreckage behind them before the last silver curtains fade. Tomorrow’s worlds are already coming through loading doors.
 
-"For the record," she says, "I didn't laugh."
+Halfway down the passage, Vesper stops. Her microphone is still live.
 
-"You did."
+She raises both hands and removes the broken horned visor. The face underneath is younger than her advertisements permit, brown skin sweat-marked, mouth tight with exhaustion. Severed red fibers spill around her temples; green lights continue their steady count at her neck. Without the mask she looks neither harmless nor legendary. She looks back at the entrant.
 
-"I was choking."
+“For the record,” she says, “I didn’t laugh.”
 
-"Same difference."
+The entrant frowns, then looks toward the dead camera above them. “You did.”
 
-She puts the visor under her arm. "Your joke is still bad."
+“I was choking.”
 
-"But you remember it."
+“Same difference.”
 
-Vesper looks at you, without lenses or a camera-ready answer.
+Vesper’s bare face gives her away. The laugh is small, wrecked, and unmistakable.
 
-This time, so do you.
+The entrant hears it. This time, they keep it.
+
+My producer loads a new banner and waits for me to name what they are now. I leave the talk key dark.
