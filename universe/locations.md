@@ -511,6 +511,28 @@
   local accommodation does not establish a universal dragon habitat, sleep
   facility, civic duty, or water system.
 
+## Brightward College
+
+- Status: LOCKED
+- Summary: A local superhero college with adult students whose hazardous
+  capability training, contradictory navigation, and campus culture frame
+  Mirelle's reputation as the Blizzard Baroness.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: Brightward
+- Notes:
+  - Observed campus spaces include a round central registration hall, dining
+    hall, clinic, equipment corridor, practice rooms and courts, covered
+    walkways, service stairs, training galleries, roofs, and courtyards.
+    Official arrows, luminous guidance, and temporary signs may contradict one
+    another.
+  - Brightward uses slates, forms, shield tests, demonstrations,
+    safety lights, waivers, and capability-specific training. One student's
+    effort to classify Mirelle as equipment or a provider for a live resistance
+    test is a bounded event, not an established college-wide policy.
+  - The college's city, country, civil date, era, Galactic Cycle coordinate,
+    accreditation authority, and relationship to Northbridge Secondary, Cinder
+    Annex, or any other institution remain unresolved.
+
 ## Miles and Luz's unnamed apartment
 
 - Status: LOCKED

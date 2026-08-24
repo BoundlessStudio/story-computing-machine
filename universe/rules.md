@@ -1169,6 +1169,27 @@
   or substitute for living judgment. Their bounded local functions do not
   redefine another artifact, record, bell, water system, or legal institution.
 
+## Mirelle's cursed cold
+
+- Status: LOCKED
+- Summary: Mirelle bears an individual living cursed-cold faculty whose startle
+  pulse reaches three metres and, once begun, can be redirected but not
+  canceled.
+- First established: stories/the-warmest-person-in-the-room/story.md
+- Aliases: None
+- Notes:
+  - Redirecting the pulse away from other people costs Mirelle sensation in her
+    hands. Repeated demonstrations can leave her fingers pale, numb, and
+    unreliable, with warmth returning slowly.
+  - A familiar approach that she sees in time permits ordinary welcome touch
+    without triggering the pulse. Mirelle and Caleb nevertheless treat an
+    unexpected approach or touch from behind as a known risk.
+  - These observed rules apply only to Mirelle. `Curse` is the established
+    local description, not a universal mechanism or objective cosmological
+    category. Its origin, maximum output, full trigger range, recovery ceiling,
+    and relationship to Marcus Bellweather's abyssal cold, Urumet's cold work,
+    or any other cold system remain unresolved.
+
 ## Luz Navarro's bounded shrinking ability
 
 - Status: LOCKED
