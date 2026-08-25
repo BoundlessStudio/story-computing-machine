@@ -25,13 +25,41 @@
   Q036, Q071)
 - Aliases: None
 - Notes:
-  1. The modern-like era is a low-magic trough after earlier ages of technology
-     and magic and before later ages in which gods rise again.
+  1. The Nell and Bash setting is one old low-magic modernity after earlier ages
+     of technology and magic and before later ages in which gods rise again.
   2. Relic anomalies such as the Glass Gate may survive during the trough even
      though ordinary life treats magic as myth or legend.
   3. The Glass-Sea era occurs long afterward.
   4. Ravel is another era of the same world, but its exact placement remains an
      open question.
+  5. Modern-looking and fantasy-looking civilizations are recurring cultural
+     forms across deep time, not unique universal rungs. Visual or social
+     resemblance alone does not identify an era.
+
+## Worldline backbone
+
+- Status: LOCKED
+- Summary: `All Accounts Due` ends the old magic-active material history; the
+  ensuing Long Dark contains our wholly magicless modern time; `The Sky
+  Remembers Us` begins new reciprocal magic after that zero.
+- First established: explicit user decision, 2026-08-25
+- Aliases: old magic; Long Dark; material zero; new magic; worldline backbone
+- Notes:
+  1. `All Accounts Due` is the hard end of the old magic-active history. No
+     capacity belonging to its six ended systems crosses into the Long Dark.
+  2. Material magic remains at perfect zero throughout the Long Dark. Our
+     ordinary modern time is one civilizational island inside that interval,
+     not the whole interval and not the earlier Nell and Bash modernity.
+  3. History continues during the zero. Multiple human or posthuman
+     modernities, technological heights, collapses, orbital inheritances, and
+     refoundings may be separated by immense spans without forming one ascent.
+  4. Fantasy kingdoms, contemporary societies, heroic public-power cultures,
+     and other familiar social forms may recur in different ages. Those forms
+     do not establish whether active magic belongs before the extinction or
+     after the reawakening.
+  5. `The Sky Remembers Us` begins a new magic-active history through reciprocal
+     links. It does not restore the six old systems or undo the intervening
+     zero.
 
 ## Day of Glass
 
@@ -1110,10 +1138,11 @@
   7. The broken Array entered ordinary free-fall. The story ends with Seyathi,
      alive and newly mortal, recognizing Faris's deception and receiving no
      answer from her attempted Grace gesture.
-  8. This event occurs after every currently admitted magic-active history in
-     the material world. Its civil date and Galactic Cycle coordinate remain
+  8. This event occurs after every old magic-active history then admitted in the
+     material world. Its civil date and Galactic Cycle coordinate remain
      unresolved. The placement does not map any earlier established system onto
-     a terminal root or make this story an origin shared by earlier histories.
+     a terminal root, make this story an origin shared by earlier histories, or
+     prohibit the later reciprocal new-magic history begun at the joined sky.
 
 ## Ages-later joined-sky awakening
 
