@@ -1600,6 +1600,166 @@
     evacuation, a universal disaster doctrine, nor a safe general procedure for
     jettisoning inhabited structures.
 
+## Ombria's living shadow planes
+
+- Status: LOCKED
+- Summary: Ombria can actively shape shadow cast by her living body into
+  independent planes that redirect physical loads and connect to Vantress's
+  local ward anchors.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: shadow planes; shadowcraft
+- Notes:
+  - At the Ninth Conduit, Ombria used the planes to redirect wind and mineral
+    grit, compress or block cinder routes, shelter districts, and form angled
+    baffles with measured gaps. Her hands and attention continuously shaped
+    every witnessed plane.
+  - Sustaining four planes produced mounting cold, shaking breath, shortened
+    speech, numbness, gray fingertips, and slowed control. Ombria described a
+    fifth plane as a maximum-three-breath emergency reach; the witnessed fifth
+    lasted two breaths, and attempting another in that condition might have
+    stopped her heart.
+  - Ombria can release planes independently. A released plane immediately
+    becomes ordinary shadow; a loaded plane can be tapered through a counted
+    lowering, while severe load makes its edges grainy and unstable.
+  - Four and five are Ombria's demonstrated local capacities in this crisis,
+    not universal shadowcraft limits. No autonomous shadow, inherited system,
+    mind entry, compulsion, independent target choice, or relationship to any
+    other shadow-named mechanism is established.
+
+## Draxenne's living cindercraft
+
+- Status: LOCKED
+- Summary: Draxenne can direct blue-white cinder through available mineral
+  paths and prepared ceramic, with bodily water, oxygen, heat, and attention
+  limiting sustained use.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: cindercraft; cinder streams
+- Notes:
+  - Draxenne drove cinder through grit, hairline stone cracks, grooved plates,
+    and braces; divided one path; sustained multiple streams; fused airborne
+    stormglass into heavy rounded beads; and softened ceramic into a
+    load-bearing repair.
+  - Heavy use consumed water and oxygen from her body, cracked skin beneath her
+    gloves, haloed her vision, shortened her breath, shook her muscles, and
+    caused severe exhaustion. Three streams during the blocked first plan
+    created acute oxygen debt; she and Ombria later agreed on two smaller
+    streams for the joint defense.
+  - A stream compressed without enough air or outlet can flash heat backward
+    along its mineral path, and excess fused glass can clog the route it was
+    meant to protect. Opening Draxenne's casting hand ends new flame, while
+    heat, softened ceramic, and fused material remain ordinary hazards.
+  - The witnessed limits depend on Draxenne, local materials, venting, and her
+    condition. Cindercraft is not autonomous fire, romantic or political
+    authority, a universal flame system, or evidence of connection to another
+    cinder-, fire-, or glass-named mechanism.
+
+## Ninth Conduit shadow-and-cinder interaction
+
+- Status: LOCKED
+- Summary: At the Ninth Conduit, Ombria's shaped shadow and Draxenne's cinder
+  produced different results according to physical geometry and coordination,
+  not attraction or shared magical ownership.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - An opposed shadow plane constricted Draxenne's mineral flame and could
+    force a backward flare. Angled baffles with deliberate gaps instead
+    compressed and aimed stormglass so cinder could vitrify it into falling
+    beads.
+  - Their successful defense depended on two living users coordinating timing,
+    pressure, venting, and separate material paths. Rivalry, desire, consent,
+    office, and the negotiated compact supplied no magical power.
+  - This one compatible interaction establishes no general equation,
+    superiority, shared origin, automatic combination, or compatibility with
+    any other shadow, fire, glass, ward, or mineral system.
+
+## Vantress ward apparatus
+
+- Status: LOCKED
+- Summary: The Ninth Conduit's brass studs, pylon, map, anchors, housing,
+  spillway, bridge, and ceramic fittings are nonliving infrastructure that
+  carries signals and physical loads without choosing or casting.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Vantress ward lattice; district ward network
+- Notes:
+  - Five pressure studs mechanically knock against the operator's hand with
+    district load signals, and the slate map displays pressure and fractures.
+    Living workers decide whether and how to answer them.
+  - The apparatus can route or bear force supplied through active shadow and
+    heated ceramic. After Draxenne and Ombria withdrew, the pylons retained
+    only harmless residue and the ward became inert.
+  - The system does not feel, call for help, recognize consent, select a ruler
+    or plan, originate power, or maintain itself. Its wider design, builders,
+    power classification, and relationship to any other lattice, conduit, or
+    ward system remain unresolved.
+
+## Cinder March stormglass
+
+- Status: LOCKED
+- Summary: One violet-black storm front carried sharp mineral grit torn from
+  the Cinder March toward Vantress, where cindercraft could fuse the material
+  into heavy black beads.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: stormglass
+- Notes:
+  - The windborne grit can choke roads, scour stone and roofs, load ward
+    structures, and move through channels under ordinary pressure. Once fused,
+    the beads fall, cool, and click as ordinary material.
+  - Stormglass is nonliving and non-agentic. Its exact composition, frequency,
+    source process beyond torn mineral grit, wider distribution, and magical or
+    technological classification remain unresolved.
+  - The term establishes no identity, shared origin, or mechanism with Qarsis
+    glasswind, the Glass Sea, Glass Gates, storm engines, or any other glass-
+    or storm-named phenomenon.
+
+## Cinder March prepared ward ceramics
+
+- Status: LOCKED
+- Summary: Draxenne's crews can prepare grooved, mineral-dusted ceramic plates
+  and fitted braces that channel or bear her cindercraft while she actively
+  supplies it.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: prepared plates; ceramic braces
+- Notes:
+  - Draxenne brought twelve fitted plates and four carts of powdered stone to
+    the breach. One plate vented heat during the contest, was recovered, and
+    rejoined the other eleven on the maintenance bridge.
+  - She later melted all twelve into an irregular load-bearing repair beneath
+    a falling slab, exhausting the March's prepared stock until her kilns could
+    replace it.
+  - The ceramics are nonliving, non-agentic, and not independently magical.
+    Twelve is the available stock for this incident, not a standard load, and
+    no universal material formula or connection to another ceramic technology
+    is established.
+
+## Ninth Conduit joint-defense stop procedure
+
+- Status: LOCKED
+- Summary: During their one joint defense, Draxenne and Ombria adopted an
+  individually usable stop condition and retained control of their separate
+  contributions.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - If either woman said stop, Ombria would turn her remaining three planes
+    inward, Draxenne would vent her streams into the spillway, and both would
+    leave the maintenance bridge even if doing so cost protection on both sides
+    of the wall.
+  - At completion Draxenne opened her hands while Ombria lowered each plane
+    through separate counts. Their ability to withdraw did not depend on the
+    other person's permission.
+  - This was a negotiated operational procedure, not a magical bond, consent
+    detector, punishment oath, regional law, or universal safety standard. Its
+    safe use depended on the physical spillway and both women remaining able to
+    act.
+
 ## Cody's bounded self-shapeshifting
 
 - Status: LOCKED

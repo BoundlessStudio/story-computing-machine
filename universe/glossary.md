@@ -799,6 +799,29 @@
     categories, general engineering standards, or evidence of shared origin or
     identity with another sea, city, ring, lift, bus, disaster, or system.
 
+## Vantress–Cinder March incident vocabulary
+
+- Status: LOCKED
+- Summary: A bounded vocabulary bundle for the people, places, infrastructure,
+  materials, and living work witnessed during the Ninth Conduit stormglass
+  breach.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - `Vantress` names the city; `Cinder March` names Draxenne's territory; and
+    `March road` names the local evacuation route between the outer settlements
+    and Vantress.
+  - `Night-Sovereign` is Ombria's local council-appointed civic office.
+    `Ninth Conduit` and `the Ninth` name the nonliving border ward complex.
+  - `Stormglass` names the local violet-black mineral grit carried by the
+    storm. `Shadow planes` names Ombria's actively shaped shadow work, and
+    `cindercraft` names Draxenne's actively directed mineral-and-ceramic work.
+  - None of these terms is a magical true name, objective universal category,
+    personified polity, divine classification, standing courtship practice, or
+    evidence of shared origin with the Ninth Hollow, Cinder Annex, Qarsis
+    glasswind, or another similarly named place or system.
+
 ## Transmutable (Cody's private usage)
 
 - Status: LOCKED

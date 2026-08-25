@@ -973,6 +973,62 @@
       civic disaster, magical system, reactor, lift, ring, or technological
       mechanism.
 
+## Undated Ninth Conduit stormglass breach
+
+- Status: LOCKED
+- Summary: During one undated night, Queen Draxenne and Night-Sovereign Ombria
+  turned a contested defense of the damaged Ninth Conduit into a joint action
+  that preserved both Vantress's inner market and the Cinder March road.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: What I Hate Most incident; Ninth Conduit breach
+- Notes:
+  1. A violet-black stormglass front advanced from the Cinder March toward
+     Vantress while evacuees used the March road. Draxenne arrived with twelve
+     prepared plates, four carts of powdered stone, and a channeling plan;
+     Ombria was already sustaining four planes while monitoring five district
+     pressure signals. The Ninth Conduit was split.
+  2. When Ombria proposed pulling the lattice inward and Draxenne proposed
+     channeling the storm through the old spillway, they negotiated a
+     thirty-breath contest for command of the conduit during this breach only.
+     Spoken yield, spoken withdrawal, or loss of housing contact ended a claim;
+     no cast could enter a body or strike a ward sheltering civilians; victory
+     granted no office, territory, future audience, touch, or other right.
+  3. On breath twenty-nine Ombria voluntarily removed her housing hand to
+     answer a third eastern-roof pressure signal, ending her claim under the
+     contact rule. Draxenne held through breath thirty, gained temporary conduit
+     command, and immediately extinguished her contest flame.
+  4. Draxenne's first plan protected the March road long enough for the last
+     wagons to clear. After eleven breaths, a concealed spillway crack redirected
+     pressure toward the inner market; fused stormglass clogged the outlet, and
+     a third cinder stream worsened the blockage. Draxenne ended all three
+     streams and released exclusive control; Ombria asked what she needed
+     instead of seizing command.
+  5. On the maintenance bridge, Ombria raised a fifth plane for two breaths to
+     catch the lower-eastern load, released it, transferred road-east next, and
+     reshaped her remaining three planes into vented baffles. Draxenne accepted
+     the two eastern loads through heated braces, kept to two smaller streams,
+     and both women retained the right to stop the operation.
+  6. Draxenne melted all twelve prepared plates into a load-bearing repair
+     beneath a falling slab. Their final coordinated pulse fused the stormglass
+     into falling beads; both women tapered their work, the ward became inert,
+     and the market and March road remained standing. The incident establishes
+     no permanent repair or casualty total.
+  7. Before dawn they adopted a reversible one-moon compact: Draxenne would
+     take the two eastern stations, provide crews, and replace the plates;
+     Ombria would retain the other three anchors and her office. Each kept an
+     independent safety veto and could end the compact after safe transfer.
+  8. Ombria marked private hours subject only to immediate danger to life.
+     Draxenne rejected any claim on Ombria, asked for time Ombria chose, and
+     separately requested courtship and a kiss. Ombria freely accepted both and
+     initiated the kiss. A later eastern signal passed to Draxenne under the
+     new work compact rather than as payment for romance.
+  9. The breach's civil date, era, duration beyond its witnessed night and
+     dawn, Galactic Cycle coordinate, wider weather consequences, completion of
+     the one-moon compact, and ordering relative to every established story
+     remain unresolved. It has no established connection to another storm,
+     glass phenomenon, ward system, city, or relationship.
+
 ## Undated Transitions in Common disclosure and portrait incident
 
 - Status: LOCKED
