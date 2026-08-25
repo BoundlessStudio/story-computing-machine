@@ -1044,6 +1044,18 @@ class StorySystemTests(unittest.TestCase):
             placements_by_chapter["old-modern-age"],
         )
         self.assertEqual(
+            [
+                "the-attendance-ledger",
+                "the-help-network",
+                "solstice-evening-bell",
+            ],
+            placements_by_chapter["old-modern-age"],
+        )
+        self.assertNotIn(
+            "the-attendance-ledger",
+            placements_by_chapter["hero-and-villain-institutions"],
+        )
+        self.assertEqual(
             ["the-count-was-131072"],
             placements_by_chapter["museum-hinge"],
         )
@@ -1083,9 +1095,9 @@ class StorySystemTests(unittest.TestCase):
         )
         self.assertEqual(
             {
-                "old-magic": 42,
+                "old-magic": 44,
                 "long-dark": 49,
-                "new-magic": 35,
+                "new-magic": 34,
                 "uncertain": 6,
             },
             dict(state_counts),
@@ -1093,9 +1105,9 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(
             {
                 "fixed": 4,
-                "inferred": 4,
+                "inferred": 6,
                 "speculative": 49,
-                "unresolved": 75,
+                "unresolved": 74,
             },
             dict(Counter(timeline.story_confidence.values())),
         )
