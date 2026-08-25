@@ -5,7 +5,7 @@
   "created": "2026-08-03",
   "stage": "candidate",
   "status": "candidate",
-  "canon": false,
+  "canon": true,
   "userDisposition": "pending",
   "publish": false,
   "promotionDate": null,
