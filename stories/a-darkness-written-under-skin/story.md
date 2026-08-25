@@ -7,37 +7,29 @@ canon: false
 
 # A Darkness Written Under Skin
 
-"Keep your hand flat," the practitioner said. "If the tendon shifts again, I have to start the channel map over."
+"Keep it flat," the practitioner said. "You've moved twice."
 
 You flattened your palm on the dye table. The wood was cold despite the steam that had lived in the workroom all night. Under your wrist, old stains made a dull geography: madder red in the knife cuts, walnut brown around a peg hole, one thumb-shaped island of blue that your mother claimed had been there before you were born.
 
-The practitioner drew a glass rod through the vial meant for tomorrow's graft. The ink climbed after it in a gray thread, neither dripping nor quite holding. A good match, she had said twice already. Your mother needed it said a third time.
+The practitioner drew a glass rod through the vial meant for tomorrow's graft. The ink climbed after it in a gray thread, neither dripping nor quite holding. A good match, she had said twice already. Your mother still watched the gray thread as if it might answer something.
 
-"And the swelling?" she asked. Her sleeves were rolled above the red-lake whorls at her elbows. Whenever she flexed her hands, the marks darkened and the damp cloth hanging behind her stopped bleeding color into color. "The woman at the clinic said three days. The man who measured the channels said five."
+"Three days or five?" she asked. Her sleeves were rolled above the red-lake whorls at her elbows. Whenever she flexed her hands, the marks darkened and the damp cloth hanging behind her stopped bleeding color into color. "The clinic gave me both."
 
-"Three before ordinary work. Five before dye vats." The practitioner touched the thread to a square of test paper. "You are not working tomorrow."
+"Three if you sit still for a living. Five for the vats." The practitioner touched the thread to a square of test paper.
 
-"I know," you said.
-
-"I was asking her," your mother said.
+"Five," your mother said, and pulled the aftercare sheet closer.
 
 Your younger brother snorted from the other end of the table. He had been told to hold the black-light inspection lamp and had spent the last ten minutes trying its violet beam on everything except the vial. White lint flared on his shirt. A smear of soap shone along the basin. His own birth mark, a loop of amber resin running from palm to forearm, disappeared under the strange light instead of brightening.
 
-"Are they glowing?" your brother asked, angling the beam toward his open mouth.
+"The soap's glowing," your brother said.
 
-"Not over the vial," you said.
-
-The lamp started toward his grin. Your mother caught the back of his collar without looking. "The paper. Before you scorch your eyes."
-
-"I can see where I'm pointing."
-
-"Then point it."
+The practitioner held out her empty hand. He took another look at the basin before bringing the lamp back over the table.
 
 Every child was born carrying some ink-like fluid in a pattern beneath or across the skin. Soot, resin, metal suspended in oil, substances with no names outside the families who passed them down: the fluid varied, and the pattern shaped the faculty. No one before you had been found empty.
 
 The practitioner lifted the paper. The artificial ink had spread into a narrow fork and stopped within the chalk ring. Tomorrow, under numbing salve, she would feed it into channels cut shallowly along your inner arm. Months later, if your body accepted it, the graft would let you hold a chosen color steady while you worked: no drift in the bath, no pale seam where cloth folded against itself. Not the broad, effortless command your mother's birth tattoo gave her. Something narrower. Something reliable. Something yours because you had signed for it and saved for it and spent six years saying you did not need it before admitting that you wanted it.
 
-"The lamp," the practitioner said.
+"Here," the practitioner said, tapping the test paper.
 
 Your brother aimed it at the paper. His wrist bumped yours.
 
@@ -51,213 +43,179 @@ Your brother moved the lamp.
 
 The line moved with the light, appearing ahead of it and going invisible behind.
 
-"Hold still," the practitioner said.
+"Wait," the practitioner said.
 
-"What is that?" your mother asked.
+"What?" your mother asked.
 
-"Lamp still."
+"Don't move the light."
 
-"I am holding it." Your brother's voice had risen. The beam shook over your hand. The buried line trembled with it, now black, now bruised purple. "I didn't spill anything. I didn't even open—"
+"I'm not." Your brother's voice had risen. The beam shook over your hand. The buried line trembled with it, now black, now bruised purple. "I didn't spill anything."
 
-"Put it in the stand," you said.
+"Spill what?" your mother said.
+
+"The stand," the practitioner said. "Put the lamp in."
 
 No one did.
 
-You took your hand off the table. The practitioner caught her own wrist before she caught yours.
+You took your hand off the table. The practitioner reached after it. You pulled your arm out of reach.
 
-"Turn your wrist toward me," she said.
+"Don't," you said.
 
-"Don't touch it."
+Her hands stopped in the air. You turned your wrist yourself.
 
-She dropped her hands to her sides. "The stand," she told your brother.
+At last your brother obeyed. The workroom changed under the fixed violet glow. Detergent flashed in the grain of the table. The boiled linen around the graft tools became painfully white. Where the light found your forearm, the hidden stroke divided and divided again, fine as frost under a windowpane, except frost lay on a surface and this did not. You turned your arm. The pattern turned inside it.
 
-This time your brother obeyed. The workroom changed under the fixed violet glow. Detergent flashed in the grain of the table. The boiled linen around the graft tools became painfully white. Where the light found your forearm, the hidden stroke divided and divided again, fine as frost under a windowpane, except frost lay on a surface and this did not. You turned your arm. The pattern turned inside it.
+Your mother came around the table, passed you, and slid the bolt across the workroom door.
 
-Your mother came around the table. "There was nothing. I washed you myself. Every crease. The midwife shaved your head because she thought it might be under the hair, and then the ward clinic used oil, and when you were six we went back because you had that fever—"
+"Turn it off," she said.
 
-"Don't touch me," you said.
+"Not yet."
 
-Her hand stopped two inches above your shoulder.
+The refusal surprised you. All your life other people had leaned closer to the absence, as if enough attention might produce what they expected. Now there was finally something to look at, and your mother wanted darkness back. You held your arm nearer the lamp.
 
-"I wasn't."
+"Anyone could come down."
 
-"You were going to."
+Your brother stared at your lit skin. "Does it hurt?"
 
-She lowered it. "All right."
+You did not know whether he meant the line, the light, or finding it. "No."
 
-Your brother stared at your lit skin. "You had one. This whole time, you actually had one. Wait until I tell—"
+The practitioner slid the graft vial away from the beam and stoppered it. She bent close to the light without reaching for you.
 
-"You won't."
+"Could the lamp have made it?" your mother asked.
 
-"No, I mean the house. Not everyone. Just downstairs."
+The practitioner looked up at her. "I don't know what it is."
 
-"No one downstairs."
-
-"They've known you since—"
-
-"No one."
-
-The word came out harder than you intended. He looked at the lamp instead of you.
-
-The practitioner slid the graft vial away from the beam and stoppered it. "First I want to know whether this is on the skin or under it."
-
-Your mother folded both hands against her stomach, covering half her red whorls. "You know what it is."
-
-"I know what it looks like."
-
-"A birth tattoo."
-
-"Maybe. I don't know the fluid or how deep it goes. I don't know what it does."
-
-"Could the lamp have done something to it?"
-
-"I don't know."
-
-"Then turn it off," you said.
+"Turn it off," you said.
 
 The practitioner reached past the stand and clicked the switch. Ordinary yellow lamplight returned. Your skin was bare. Not faded, not pale: bare, as it had been in every mirror and every examination room of your life.
 
 You rubbed your thumb over the place. Nothing rose under it.
 
-"I want to wash one patch," the practitioner said. "Water first."
+The practitioner took a fresh cloth and held it up where you could see. "Water."
 
-"Why?"
+You kept your wrist against your chest. She poured from the covered pitcher into a clean bowl and waited. At last you laid your arm on the table. The cloth passed over your wrist once, cool and rough. No color came away. Under violet light, the line returned with the same branches.
 
-"Residue may lift. A channel shouldn't."
-
-"Water. Nothing else."
-
-She poured from the covered pitcher into a clean bowl. Your mother opened her mouth as if to object to the cloth the practitioner chose, then shut it again. The cloth passed over your wrist once, cool and rough. No color came away. Under violet light, the line returned with the same branches.
-
-The practitioner put a clear glass plate between the lamp and your arm. The pattern remained. She moved the lamp to your other wrist. More black-violet lines rose there, thinner but unmistakable. At your permission she checked the bend of one elbow, then stopped when the beam showed the pattern climbing past your rolled sleeve.
+The practitioner put a clear glass plate between the lamp and your arm. The pattern remained. She nodded toward your other wrist. You gave it to the light. More black-violet lines rose there, thinner but unmistakable. At the bend of your elbow, the pattern climbed past your rolled sleeve.
 
 "Enough," you said.
 
 She switched the lamp off at once.
 
-Your mother exhaled through her teeth. "The registry wrote absent. I still have the paper. At school they said there was nothing to train. When the pain-worker couldn't settle your stitches, she said you were fighting her. I told her you'd gone white around the mouth, and she—"
+The practitioner drew the dark cloth around the graft vial.
 
-"Mum."
+"Why are you packing it?" you asked.
 
-"No. Every one of them said there was nothing. Twelve people put their hands on you and wrote down what you lacked. I want names."
+"I'm not putting new ink through that."
 
-"I want an answer about tomorrow."
+"Tomorrow?"
 
-"If they missed this, they can pay for the graft."
-
-"Can the graft proceed?" you asked the practitioner.
-
-She looked at the stoppered vial, not at your mother. "Not safely. The graft was mapped for empty tissue. If those are working channels, the new ink could cross them or your body could reject it. I won't put it in tomorrow."
-
-"Tomorrow is off?"
-
-"Yes."
+She shook her head. The graft had been mapped for tissue everyone believed empty. Whatever lay under your skin turned every shallow channel into a crossing she had not planned.
 
 You had spent months saving for tomorrow. Now the morning coach would leave without you, and the cancellation made no sound beyond the stopper pressed into the vial.
 
-Your brother picked a thread of glowing lint from his shirt. "Then maybe you don't need it."
+For weeks you had measured tomorrow in clean bandages and coach times. You knew which hand would lift the kettle, how long you could sleep without rolling onto the new channels, which vat you would try first when they healed. None of that preparation had included wanting the graft after someone found the thing you were supposed to have wanted instead.
 
-Your mother seized on that. "You never did."
+"Thank God," your mother said.
 
-The words struck worse from her than they would have from anyone else.
+"Don't."
+
+"I didn't mean—"
 
 "I wanted it," you said.
 
-"Because they spent twenty years telling you—"
+She had called you whole at clinic counters, at school meetings, in the kitchen after relatives tried to be kind. Now the edge of the aftercare sheet collapsed between her fingers.
 
-"You called it my choice yesterday."
+"I know." She folded the aftercare sheet across the middle, missed the crease, and folded it again.
 
-Your mother's mouth stayed open. Behind her, a drop fell from the draining cloth into the stone trough. Then another.
-
-The practitioner wrapped the vial in its dark cloth. "We can stop."
+Behind her, a drop fell from the draining cloth into the stone trough. Then another.
 
 "Can you tell what it does?" your brother asked.
 
-"Not from seeing it."
+"Couldn't tell you."
 
-"Most shapes give you a hint. Mine curls like a stove coil. Mum's spreads like dye in water."
+Your brother rubbed his palm. "That winter the wall froze. When you slept in my bed."
 
-"You know what yours does," the practitioner said. "That makes the shape look obvious. Without the faculty, it's only a shape."
+"What about it?"
 
-"But if it's been working—" He turned to you. "That winter you slept in my bed because the wall froze. I tried to warm your feet and it kept slipping. I thought you were kicking it away."
+"I couldn't warm your feet. Not properly. I thought you were kicking it away."
 
 "You were eight."
 
 "Nine. And you did kick."
 
-Your mother looked sharply at the practitioner. "The pain-worker."
+Your mother looked sharply at the practitioner. "The stitches. The pain-worker kept saying you were fighting her."
 
-"Could be," the practitioner said.
+"I remember the stitches," you said.
 
-"And the naming oil. And the fever—the cooling mark worked on the water, not on you."
+"And the naming oil," she went on. "It wouldn't stay on you. Then the fever—"
 
-"Those aren't tests," you said.
+"The kettle burned me," you said.
 
-"They happened."
+The burn had blistered two of your fingers for a week. Your mother looked at your hand as if it had interrupted her.
 
-"Other marks worked on me. You're picking the ones that didn't."
+"That was boiling water."
 
-Your mother looked at the hand she had lowered. The practitioner began setting the unused graft tools back into their case, piece by piece. Their little metal mouths clicked against the felt.
+"I know."
 
-"Is there a small test?" you asked.
+Your brother looked at you. "Did mine work? Other times, I mean."
 
-The practitioner's hand rested on the case lid. "Maybe. Does his warming mark behave the same way each time?"
+"Sometimes."
 
-"Ask the cuff he scorched," your mother said.
+"Sometimes?"
 
-"The iron was hot."
+The practitioner set the unused graft tools back into their case, piece by piece. Their little metal mouths clicked against the felt.
 
-"The iron was cold."
+"Try it now," you said.
 
-"It was near the stove."
+"No," your brother said.
 
-"Can you give someone mild heat on purpose?" the practitioner asked him.
+You held out your hand anyway.
 
-His joking fell away. "Yes. Warm, not hot. I do it for the setting bath."
+"I burned the cuff."
 
-The practitioner laid out the conditions slowly. Your brother would warm her palm first, then yours. He would use the same hand, the same duration, and what felt to him like the same effort. Afterward he would warm a metal cup, remove his hand, and you would touch it. The cup would test ordinary transferred heat. The direct contact would test a tattoo-mediated effect entering your body. The lamp would only show the buried pattern. It would not make the faculty happen.
+Until tonight he had told that story as a joke, changing whether the iron or the stove took the blame. Now he kept his thumb over the singed place as though it had become evidence against him.
 
-"And if it hurts?" your mother asked.
+"You said the iron did that," your mother said.
 
-"Then we stop. Any one of us can end it."
+"I don't know what did it."
 
-You looked at your brother. "Do you want to?"
+"You use your mark in the setting bath every day."
 
-He rubbed his amber-marked palm on his trousers. "If you do. I mean, yes, but not if you're only asking because she's here. Or because tomorrow's gone."
+"That's cloth."
 
-You waited.
+"Please," you said.
 
-He wiped his palm again. "Yes. If you still want me to."
+He looked at your hand, then rubbed his amber-marked palm hard against his trousers.
 
-The practitioner sat opposite him and placed her palm against his. "At the count of three. Stop at five."
+The practitioner sat opposite him and offered her palm. "On me first."
 
 His amber loops darkened. Nothing came from them on their own. He drew a breath, pressed his fingers into hers, and warmth spread a pink flush up her hand.
 
-"Even and mild," she said. She turned to you. "Ready?"
+"That's enough."
+
+He let go. The practitioner rubbed her thumb across the warmed center of her palm, then moved out of your place at the table.
 
 You put your palm against his. His skin was clammy.
 
-"You can stop," he said.
+"Your hand's freezing," he said.
 
 "Start."
 
 The amber deepened. Warmth flowed into your palm, as ordinary-seeming as sun through a window, then climbed to your wrist. You had expected resistance and found none. The surprise loosened something in your shoulders.
 
-"I feel it," you said.
+"Oh," you said.
 
-"What do you feel?" the practitioner asked.
+"Too much?"
 
-"Warm. Moving upward."
+You shook your head. Warmth was still moving toward your wrist when the practitioner tapped the table at five. Your brother released you, looking relieved.
 
-Your brother released you at five. "So it works."
+"Again," you said. "With the lamp."
 
-"That time." The practitioner glanced at the lamp, then at you. "Do you want to try keeping it out?"
+"You felt it."
 
-Your mother moved closer. "How do you refuse something with a mark you've never felt?"
+"I want to see."
 
-"I don't know," the practitioner said. "Think about the warmth and try not to let it in. If nothing changes, we stop."
-
-You permitted the lamp. Black-violet branches appeared through your hand and ran up beneath your cuff. Your brother's fingers hovered.
+The practitioner fitted the lamp into its stand. Black-violet branches appeared through your hand and ran up beneath your cuff. "Same hand," she told him.
 
 You remembered the pain-worker leaning over your split chin when you were eleven, her blue mark open across her throat, telling you to stop fighting the quiet she was offering. You had not known how to stop. You had only known you did not want her inside your hurt while she spoke as if your fear were disobedience.
 
@@ -273,118 +231,96 @@ Under the violet light, the lines within your palm drew tight around each place 
 
 Your brother swallowed. "I'm doing it."
 
-The practitioner watched your face. "Still all right?"
+"Don't force it," the practitioner said.
 
-"Yes," you said.
+"I'm not." His fingers tightened anyway. "It's warm on my side. It's just—"
 
-"Yes," he said, too quickly. "Still warm on my side. It's got nowhere to— I don't know. It's just there."
+He tore his hand away before five and tucked it under his opposite arm.
 
-At five he tore his hand away and tucked it under his opposite arm.
+"I didn't want it," you said.
 
-Your mother stared at your palm. "Again."
+He looked at you.
 
-"No," you said.
+"The heat," you said.
 
-"One more. We need—"
+"I know."
 
-"No."
+He said it too quickly and did not offer his hand again. The places where his palm had pressed yours cooled in separate damp patches.
 
-The practitioner switched off the lamp. "No. One is enough tonight."
-
-"But it could have been—"
-
-"Anything. We don't know what another try would do to either of them."
-
-"The cup," you said.
-
-She considered you. "You still want it?"
-
-"I want to know if ordinary heat gets through."
-
-Your brother fetched the little tin cup from beside the sink. He held it between both palms until his amber loops darkened and the metal gave a soft tick. Then he set it on the table and took his hands away. The practitioner tested it first with two fingers.
-
-"Warm," she said.
-
-You braced before you touched it.
-
-The heat entered your fingertips anyway. You let go.
-
-"Still warm?" your brother asked.
-
-"Warm," you said.
-
-"Then your mark didn't block the cup," the practitioner said.
-
-"And the lamp?" your mother asked.
-
-"The lamp only showed the lines. His hand was the test."
-
-Your brother nudged the cup by its handle. "But you stopped me."
-
-"Once," you said.
-
-"Wait until downstairs—" Your brother caught your look and glanced back at the cup. "Right. Nobody downstairs."
-
-Your mother had gone very still. She pressed one fingertip after another against her thumb, making a count only she understood. "We take the lamp and the old paper to the registry. Today. They test you again, and then they open every absent file they stamped without checking—"
+The practitioner leaned toward the dark lines. "Again."
 
 "No," you said.
 
-"If we wait, they'll say we contaminated it. Or that you moved. Or that the lamp was bad. I kept every receipt."
+"They said no," your mother said.
 
-"Mum."
+The practitioner looked at you as if she had only just heard herself. Then she switched off the lamp.
 
-You waited until she looked at you. Her fingers kept worrying the edge of her sleeve.
+Your brother fetched the little tin cup from beside the sink and held it between both palms. His amber loops darkened before he seemed to notice. The metal gave a soft tick.
 
-You sorted what could be said from what everyone wanted said. "Tomorrow is a consultation. No graft." You nodded toward the practitioner. "She writes that the channels make it unsafe. That's all. The clinic doesn't hear about the lamp. Nobody does, not tonight."
+He set it down too quickly. You moved it away from the edge of the table.
 
-"He'll have to lie to everyone in the house," your mother said, nodding toward your brother.
+Heat entered your fingertips. Nothing beneath your skin answered it.
 
-"He can say postponed."
+Your brother watched you put the cup down. Whatever had failed between your palms, it had not been warmth itself.
 
-"You know that isn't all."
+Afterward your brother tucked his hand under the other arm again.
 
-"Then tell me what else you mean."
+Your mother reached for the inspection lamp. "The paper's upstairs. We take both to the registry."
 
-For once, she did not have a chronology ready. She looked down at the table, at the unbroken geography of stains.
+"Leave it."
 
-Your brother rubbed his hidden palm against his trousers again. "What do I say at breakfast? They'll ask me because you don't talk when you're chewing. If I say medical, they'll think you're sick. If I say the ink was wrong, they'll blame her." He glanced at the practitioner. "Postponed. I can say that. Just postponed?"
+"They'll say we changed something. They'll say the lamp was wrong, or you moved, or—"
 
-"Yes."
+"I'm not going to the registry."
 
-"And if they ask until when?"
+"You have to go somewhere."
+
+"The clinic. For the appointment."
+
+"And after?"
 
 "I don't know."
 
-He nodded, unhappy with the answer but not trying to improve it.
+She let go of the lamp. "It has already been twenty years."
+
+You had no answer that would make twenty years shorter. Your mother pressed one fingertip after another against her thumb, making a count only she understood.
+
+"I kept every receipt," she said. "Every stupid little bottle they told us to try."
+
+Your brother rubbed his hidden palm against his trousers. "You said you didn't want it."
+
+"The heat."
+
+"I heard you."
+
+"Then what?"
+
+He picked at a loose thread on his cuff. "Nothing."
+
+You wanted to tell him the first warmth had felt like relief. By the time the words arrived, he was worrying the thread loose, and saying them would have sounded like another correction.
 
 The practitioner opened her case, took out the blank morning form, and wrote while the three of you watched. She turned it for you to read. Existing channel structure suspected. Planned graft contraindicated pending consultation. No claim about faculty. No description of the lamp.
 
-"Will the clinic accept that?" you asked.
+"Does it have to say existing?" you asked.
 
-"It's enough to cancel. They'll ask what we found."
+"If it doesn't, they'll send another vial."
 
-"Let them ask."
+"Nothing about the lamp."
+
+She drew a line through the blank space below the note.
 
 You signed beneath her note. Your hand shook only when the pen left the paper.
 
-Your mother noticed. She reached for you, remembered, and placed her palm flat on the table instead. The red whorls at her elbow faded to their resting color.
+Your mother noticed. "You've got ink."
 
-You turned your wrist upward between you and held out your hand. In ordinary light there was nothing to show her.
+A black smear from the pen crossed the side of your thumb. She set the damp cloth beside your hand. You wiped the ordinary ink away yourself.
 
-She waited.
-
-You put your hand in hers.
-
-She held it without calling the darkness up, without trying to feel a pattern buried deeper than touch. Across the table, your brother busied himself wrapping the cold inspection lamp in its frayed cord. He made a knot too tight, picked at it, and finally left it tangled.
+Across the table, your brother busied himself wrapping the cold inspection lamp in its frayed cord. He made a knot too tight, picked at it, and finally left it tangled.
 
 The practitioner packed the sealed graft vial in ice for return to the clinic. Your mother covered the unused aftercare food and put the kettle back on the stove. Nobody suggested waking the house.
 
+The bolt stayed across the workroom door. Each time a floorboard sounded overhead, your mother looked up, but she did not move toward it.
+
 By the time gray morning reached the high windows, the workroom looked almost ready for an ordinary day. Tools cased. Cloth folded. Consultation form tucked inside your coat. The tin cup had cooled beside the form; you carried it to the sink with the other dishes.
-
-Your mother held up two shirts. "Blue or brown?"
-
-The question was so small that it took you a moment to understand it.
-
-"Blue," you said.
 
 Your brother switched off the lamp at the wall, though it had already been dark for half an hour.
