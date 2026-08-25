@@ -1114,3 +1114,50 @@
      the material world. Its civil date and Galactic Cycle coordinate remain
      unresolved. The placement does not map any earlier established system onto
      a terminal root or make this story an origin shared by earlier histories.
+
+## Ages-later joined-sky awakening
+
+- Status: LOCKED
+- Summary: After a long interval of perfect material-world zero, ordinary light
+  from the No More Magic event reached an unaffected external reality and living
+  participants on both sides originated reciprocal magic anew.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: reciprocal awakening; sky awakening; return of magic; The Sky
+  Remembers Us event
+- Notes:
+  1. Immediately after the No More Magic ending, Seyathi reaches toward Faris
+     during the Array's fall. Faris raises a hand, their fingertips do not meet,
+     both strike the ground, and both die without restored power,
+     reconciliation, forgiveness, or continuation in the departing light.
+  2. Ordinary light carrying their final surfaces travels outward while ages,
+     geological change, and cultural change pass. Ithrom becomes a high black
+     plain, and the material world remains wholly without magic throughout this
+     interval.
+  3. The light reaches the boundary of Keshen's unaffected inward-fold reality.
+     Her unilateral attempt to rescue the falling image fails and causes local
+     harm, but the disturbed boundary reveals living people on both sides.
+  4. At Ithrom, magicless Dalo and Miraq see Keshen's realm across the ordinary
+     light. The sight spreads across both skies before new magic begins.
+     Material-side old words, prayer, objects, and unilateral reaches yield no
+     returned power; Keshen's existing external magic can disturb the boundary
+     but cannot complete the new link or restore power below.
+  5. Dalo and Keshen make compatible grounded and offered reaches. Their first
+     link originates new reciprocal magic and changes both realities. Miraq and
+     Keshen's oldest unnamed friend then enter the shared risk without becoming
+     owners or permission-givers.
+  6. Evidence of the first link spreads rather than a reservoir. Other living
+     participants on both sides answer, refuse, fail, or break off; new
+     links create varied bilateral effects and costs across both realities while
+     the six old systems remain permanently extinct.
+  7. At dawn, Dalo and Keshen jointly narrow their link and lower their hands,
+     but the mutual view remains. Its one-sided closure is impossible in the
+     observed event, and its longer-term operation and safety remain unresolved.
+  8. Dalo's inherited legend and one focal thought compress the old extinction
+     to Faris and Seyathi. They do not override the authoritative record that
+     six living authorities armed the terminal conditions and Faris released
+     them.
+  9. This awakening occurs after No More Magic and therefore after every
+     currently admitted magic-active material-world history. Its civil date,
+     Galactic Cycle coordinate, exact interval length, and ordering relative to
+     unrelated post-extinction nonmagical events remain unresolved.

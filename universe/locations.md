@@ -866,7 +866,7 @@
   material-world magical systems crossed and were permanently extinguished.
 - First established: stories/all-accounts-due/05-story.md; locked by explicit
   user decision, 2026-08-24
-- Aliases: Ithrom Array; the Array; Unwritten Axis; the Axis
+- Aliases: Ithrom Array; the Array; Unwritten Axis; the Axis; Ithrom
 - Notes:
   - Six-practice engineers built the Array, Parity Astrolabe, and Mortal Latch
     three hundred and two years before the terminal event as a distributed
@@ -880,6 +880,35 @@
     straightened, the Axis tore free, and the unsupported Array entered
     ordinary free-fall. No part retained power, agency, or a repeatable terminal
     action.
-  - The site's ground location, later material condition, and shortened name
-    `Ithrom` are not established by `All Accounts Due`. The Array has no known
-    connection to another junction, axis, array, gate, or crossing system.
+  - Ages later, ordinary geology has weathered the crater into a high black
+    plain containing fused gullies, half-buried arches, and inert stone. The
+    later culture uses `Ithrom` as a shortened name for the site. No anomalous
+    warmth, magic, hidden root, or restoration mechanism remains in the wreck.
+  - The site's wider geography, polity, civil dates, and Galactic Cycle
+    coordinates remain unresolved. The Array has no established connection to
+    another junction, axis, array, gate, or crossing system.
+
+## Keshen's unnamed inward-fold realm
+
+- Status: LOCKED
+- Summary: An unnamed living reality beyond the material world's closed
+  boundary is the unaffected external side of the joined-sky awakening.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Keshen's realm; the inward realm; the living folds
+- Notes:
+  - Before the awakening, its people live along inward folds without stars or
+    ordinary faraway distance. Welcomed living minds can bring rooms and paths
+    near; the upper boundary had never supplied a living answer.
+  - The realm is not a second physical shared world or hidden refuge for the six
+    extinct systems. Its own living magic was outside the No More Magic event.
+    No relationship to the universal afterlife, a destination once served by an
+    old material crossing, the Glass Gate, or another established external
+    reality is established.
+  - The awakening gives the realm true distance, pockets of weight, and shadows
+    cast by material-world stars while reciprocal effects also alter the
+    material world. The two realities become mutually visible but are not shown
+    physically merging or permitting bodily crossing.
+  - The realm's name, full inhabitants, origin, geography, cosmology, civil
+    date, Galactic Cycle coordinate, relationship to other external realities,
+    and later history remain unresolved.

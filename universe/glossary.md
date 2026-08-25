@@ -861,3 +861,27 @@
     earlier systems, erase magic from every reality, or bar a genuinely new
     system from later originating through living agents in an unaffected
     external reality.
+
+## Return of magic
+
+- Status: LOCKED
+- Summary: The bounded historical and reader-facing label for the ages-later
+  joined-sky awakening in which living agents originated genuinely new
+  reciprocal magic across two realities.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: reciprocal awakening; sky awakening; joined-sky awakening; The Sky
+  Remembers Us event
+- Notes:
+  - `Return` describes magic becoming possible again in the material world. It
+    does not mean that an old system, dead person, relic, reserve, seed,
+    inheritance, root, or material restoration path survived, revived, reversed
+    extinction, or supplied a hidden seventh system.
+  - `The sky's memory` is Dalo's inherited description of ordinary light that
+    preserves the visible image of Faris and Seyathi's failed reach. It is not a
+    mind, spirit, afterlife, prophecy, judgment, apology, forgiveness, command,
+    or source of power.
+  - `Joined sky` and `joined skies` describe the mutually visible reciprocal
+    relation. They do not establish a physical merger, bodily crossing, safe
+    bond, unilateral exit, universal magic taxonomy, or generic name for every
+    later magical practice.

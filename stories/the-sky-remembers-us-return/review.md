@@ -6,9 +6,9 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Dalo | new | No exact or alias reuse found; the one-name form and sibling role remain distinct from legacy Maude Dallow and current Dalsen. |
-| Miraq | new | No exact, alias, close-spelling, or confusing prior use found; Mirdakai and the established Miri- names remain readily distinct. |
-| Keshen | new | No exact, alias, close-spelling, or confusing prior use found; current Kessa remains readily distinct. |
+| Dalo | recurring | Intentionally the same LOCKED Dalo established by this story; no exact or alias reuse was found, and the one-name form remains distinct from legacy Maude Dallow and current Dalsen. |
+| Miraq | recurring | Intentionally the same LOCKED Miraq established by this story; no exact, alias, close-spelling, or confusing prior use was found, and Mirdakai and the established Miri- names remain readily distinct. |
+| Keshen | recurring | Intentionally the same LOCKED Keshen established by this story; no exact, alias, close-spelling, or confusing prior use was found, and current Kessa remains readily distinct. |
 | Faris | recurring | Intentionally the same nonmagical actor from `All Accounts Due`; the story preserves his complete extinction of all six systems. |
 | Seyathi | recurring | Intentionally the same newly mortal former goddess from `All Accounts Due`; she is neither restored nor contacted as a living person. |
 
@@ -32,4 +32,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Ordinary light carries only evidence of the completed extinction; new power originates through reciprocal living contact, changes both realms at global scale, and cannot be opened, altered, or closed from one side. Dalo's impulsive teasing and backtracking, Miraq's literal objections and quiet fear, and Keshen's spatial mistakes, gestures, refusals, and shared sensation remain distinct through the decisive link and final exchange.
+- Notes: Ordinary light carries only evidence of the completed extinction; new power originates through reciprocal living contact, changes both realities at global scale, and cannot be opened, altered, or closed from one side. That mutual veto is an unresolved coercion and hostage risk, not a consent-safety guarantee. Dalo's impulsive teasing and backtracking, Miraq's literal objections and quiet fear, and Keshen's spatial mistakes, gestures, refusals, and shared sensation remain distinct through the decisive link and final exchange.

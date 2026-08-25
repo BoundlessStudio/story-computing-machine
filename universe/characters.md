@@ -1698,8 +1698,10 @@
     event's sole causal participant: six living authorities had to arm the six
     terminal conditions.
   - `All Accounts Due` leaves Faris alive, powerless, and in open fall beside
-    the collapsing Array. His immediate fate beyond that ending is not
-    established by this entry.
+    the collapsing Array. `The Sky Remembers Us` establishes that he raises one
+    hand toward Seyathi without closing the gap, strikes the ground, and dies.
+    His intention in raising the hand remains unknown; the ordinary light that
+    preserves the image is neither his mind nor a continuation of him.
 
 ## Seyathi
 
@@ -1725,6 +1727,85 @@
     godhood while retaining identity, memory, relationships, anger,
     responsibility, and her valid grievance against Faris.
   - She recognizes the omitted scope, repeats Faris's promise back to him, and
-    attempts one final Grace gesture that produces nothing. `All Accounts Due`
-    leaves her alive and in open fall; it establishes neither forgiveness nor
-    consent to the result.
+    attempts one final Grace gesture that produces nothing. In `The Sky
+    Remembers Us`, she reaches toward Faris during the fall; their hands do not
+    meet, both strike the ground, and both die. Nothing restores her power,
+    reconciles them, or establishes forgiveness or consent to the extinction.
+    The ordinary light that preserves her image is neither her mind nor a
+    continuation of her.
+
+## Dalo
+
+- Status: LOCKED
+- Summary: Dalo is a magicless woman of the ages-later material world whose
+  compatible reach toward Keshen originates the first observed reciprocal
+  joined-sky link.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Dalo and Miraq travel three days to the weathered Ithrom site beneath the
+    returning ancient light. They share a grandmother, childhood memories, and
+    a close family history; the final prose does not specify their exact family
+    relationship.
+  - Dalo is impulsive, repeatedly moves closer to danger, and wants to be the
+    person who brings magic back. She also responds to correction, apologizes
+    for treating Miraq's following as agreement, and distinguishes the living
+    Keshen from the dead people preserved in the light.
+  - After one aborted sensation of contact, Dalo and Keshen deliberately answer
+    each other with one hand grounded in their own reality and one offered
+    across the boundary. Neither knows the resulting link's full operation or
+    inability to change from one side before it forms.
+  - Dalo cannot lower her hand or widen the first link alone. She recognizes
+    the danger and tells Miraq that she wants to continue. Miraq independently
+    enters the risk without giving permission; Dalo later narrows the link
+    jointly with Keshen.
+  - Dalo's family name, age, occupation, polity, later life, permanent effects,
+    and relationship to any other established person remain unresolved.
+
+## Miraq
+
+- Status: LOCKED
+- Summary: Miraq is Dalo's careful magicless companion and relative, whose
+  refusal, criticism, and later voluntary support remain distinct from control
+  over Dalo's choices.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Miraq accompanies Dalo to Ithrom, challenges her risky assumptions, and
+    initially declines Keshen's offered contact. Keshen accepts that refusal
+    without reproach or renewed pressure.
+  - Miraq does not authorize Dalo's first link. After she names her wish to
+    continue, he places a shaking hand over her grounded hand to enter the
+    existing risk; his presence changes what the four participants can share.
+  - At dawn Miraq remains beside Dalo and preserves his right to refuse future
+    requests. Their shared grandmother and childhood establish close family
+    history, but the final prose does not specify their exact relationship.
+  - Miraq's family name, age, occupation, later life, permanent effects, and
+    relationship to any other established person remain unresolved.
+
+## Keshen
+
+- Status: LOCKED
+- Summary: Keshen is a living woman from an unaffected inward-fold reality
+  whose compatible reach toward Dalo originates the first observed reciprocal
+  joined-sky link.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Keshen already has her realm's unrelated living capacity for shaping
+    distance. Her first attempt to pull the ancient image nearer fails, harms
+    her, displaces one shadow, and helps the boundary reveal living people on
+    both sides; it does not retrieve the dead or carry power from the light.
+  - She accepts Miraq's initial refusal, interrupts reckless reaches from her
+    own side, and returns to Dalo with one hand grounded and one offered. She
+    and Dalo withdraw from an initial sensation, correct visible hazards, and
+    then deliberately answer each other without knowing the link's full risks.
+  - Keshen discovers that only matched finger movements can narrow or widen the
+    first link. Her oldest unnamed friend voluntarily holds her grounded wrist
+    while Miraq enters the corresponding risk beside Dalo.
+  - Keshen's family name, species, age, occupation, later life, permanent
+    effects, and relationship to any other established person remain
+    unresolved. Her oldest friend remains unnamed.

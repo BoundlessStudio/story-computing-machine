@@ -3,7 +3,7 @@ title: "The Sky Remembers Us"
 slug: "the-sky-remembers-us-return"
 created: 2026-08-24
 created-at: 2026-08-24T13:33:19-04:00
-canon: false
+canon: true
 ---
 
 # The Sky Remembers Us
