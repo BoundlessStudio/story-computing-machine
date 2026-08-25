@@ -4657,34 +4657,6 @@ body.timeline-body {
   max-width: 42rem;
 }
 
-.signal-hero dl {
-  display: grid;
-  gap: 0.65rem;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  margin: 2rem 0 0;
-}
-
-.signal-hero dl div {
-  background: rgb(255 255 255 / 4%);
-  border: 1px solid var(--signal-line);
-  border-radius: 0.75rem;
-  padding: 0.85rem;
-}
-
-.signal-hero dt {
-  color: var(--signal-muted);
-  font-size: 0.61rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.signal-hero dd {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.75rem;
-  margin: 0.2rem 0 0;
-}
-
 .signal-hero-graphic {
   align-items: center;
   display: flex;
@@ -5632,6 +5604,126 @@ body.timeline-body {
   margin-top: 0.65rem;
 }
 
+.signal-continuation {
+  align-items: center;
+  background:
+    radial-gradient(circle at 50% 28%, rgb(130 221 192 / 12%), transparent 24rem),
+    linear-gradient(180deg, transparent, rgb(130 221 192 / 3%) 52%, transparent);
+  color: var(--signal-ink);
+  display: flex;
+  flex-direction: column;
+  min-height: clamp(30rem, 68vh, 42rem);
+  overflow: hidden;
+  padding: clamp(6rem, 12vw, 10rem) 1rem clamp(7rem, 15vw, 12rem);
+  position: relative;
+  text-align: center;
+}
+
+.signal-continuation::before {
+  background: linear-gradient(180deg, var(--signal-teal), rgb(130 221 192 / 32%), transparent);
+  box-shadow: 0 0 1.4rem rgb(130 221 192 / 58%);
+  content: "";
+  height: clamp(7rem, 14vw, 11rem);
+  left: calc(50% - 1px);
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.signal-continuation-mark {
+  height: 6rem;
+  margin-bottom: clamp(2rem, 5vw, 3.5rem);
+  position: relative;
+  width: 12rem;
+}
+
+.signal-continuation-mark::before,
+.signal-continuation-mark::after {
+  border: 1px solid rgb(130 221 192 / 54%);
+  border-radius: 50%;
+  box-shadow: 0 0 1.8rem rgb(130 221 192 / 12%);
+  content: "";
+  height: 4.4rem;
+  position: absolute;
+  top: 0.8rem;
+  width: 7rem;
+}
+
+.signal-continuation-mark::before {
+  left: 0;
+  transform: rotate(24deg);
+}
+
+.signal-continuation-mark::after {
+  right: 0;
+  transform: rotate(-24deg);
+}
+
+.signal-continuation-mark i {
+  background: var(--signal-teal);
+  border: 0.35rem solid #0a0c0d;
+  border-radius: 50%;
+  box-shadow: 0 0 1.4rem rgb(130 221 192 / 72%);
+  height: 1rem;
+  left: calc(50% - 0.5rem);
+  position: absolute;
+  top: calc(50% - 0.5rem);
+  width: 1rem;
+  z-index: 1;
+}
+
+.signal-continuation-copy {
+  max-width: 43rem;
+  position: relative;
+}
+
+.signal-continuation-copy > p:first-child {
+  color: var(--signal-teal);
+  font-size: 0.65rem;
+  font-weight: 850;
+  letter-spacing: 0.16em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.signal-continuation h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3rem, 7vw, 6.5rem);
+  font-weight: 500;
+  letter-spacing: -0.06em;
+  line-height: 0.92;
+  margin: 0.45rem 0 1.2rem;
+  text-wrap: balance;
+}
+
+.signal-continuation-copy > p:nth-of-type(2) {
+  color: var(--signal-muted);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  line-height: 1.55;
+  margin: 0 auto;
+  max-width: 36rem;
+}
+
+.signal-continuation a {
+  border-bottom: 1px solid rgb(130 221 192 / 48%);
+  color: var(--signal-teal);
+  display: inline-flex;
+  font-size: 0.68rem;
+  font-weight: 800;
+  gap: 0.55rem;
+  letter-spacing: 0.08em;
+  margin-top: 2.2rem;
+  padding-bottom: 0.25rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.signal-continuation a:hover,
+.signal-continuation a:focus-visible {
+  border-bottom-color: currentcolor;
+}
+
 @media (max-width: 950px) {
   .signal-hero {
     grid-template-columns: 1fr;
@@ -5668,10 +5760,6 @@ body.timeline-body {
 
   .signal-hero h1 {
     font-size: clamp(4rem, 20vw, 6rem);
-  }
-
-  .signal-hero dl {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .signal-hero-graphic {
