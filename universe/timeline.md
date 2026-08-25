@@ -864,6 +864,55 @@
      unresolved. It has no established relationship to another quarry,
      disaster, civic system, workshop, or technology.
 
+## Undated evacuation and escape from Salken's dungeon
+
+- Status: LOCKED
+- Summary: After an unmeasured confinement and repeated killings, Salken
+  followed an evacuation through one unnamed dungeon, interrupted their
+  preemptive violence, escaped at dawn, and submitted to surface searchers.
+- First established: stories/the-last-monster/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: The Last Monster incident; Salken's escape
+- Notes:
+  1. Salken killed a turning lantern-bearer and took its food, water, lantern,
+     and stamped buckle. A cool draft verified by flame, thread, and damp skin
+     gave Salken the first concrete route toward the surface.
+  2. Varied inhabitants passed a three-beat warning ahead, moved vulnerable
+     members and supplies, abandoned shelters, raised rear-facing barricades,
+     sealed passages behind themselves, and converged on the air-bearing route.
+     In a cistern, Salken recognized an earlier camp and a wound that had since
+     scarred amid evidence of displaced and dead occupants.
+  3. At a blocked spillway, Salken attacked two approaching figures after one
+     raised empty hands and the other carried rope. One died, one fled through
+     the bypass, their brighter lantern broke, and their bandages, water,
+     wedges, and open-sky map confirmed a practicable route without establishing
+     either figure's identity or purpose.
+  4. In the bypass, a small guardian held a sharp scrap down while shielding a
+     smaller dependent. Salken placed the sword out of reach, showed open hands,
+     backed away, and waited. The still-frightened guardian left the route open
+     and became an unwilling guide only while Salken maintained distance and
+     non-pursuit.
+  5. At the final grate, the guardian's improvised tool could not free the exit.
+     Salken used the sword as an ordinary lever, let the guardian and dependent
+     pass first, and left the blade trapped beneath shifting stone so the route
+     stayed open. All three emerged fully into open air at dawn; the two
+     inhabitants disappeared into brush.
+  6. An armed search party recognized Salken and a prior owner's stamped buckle,
+     bound Salken, and supplied measured water. Salken admitted killing people
+     and unidentified others, could not give a count, offered to show the
+     chambers, credited the fleeing inhabitants with leading the way out, and
+     asked that they be left alone. The searchers' final judgment, any rescue,
+     and every participant's later fate remain unknown.
+  7. The identities, species, guilt, intentions, and affiliations of most dead
+     and surviving beings remain unresolved. The incident establishes no
+     objective monster class, species-wide morality, permanent alliance,
+     complete signal language, or universal fear behavior.
+  8. Its civil date, exact duration, region, era, Galactic Cycle coordinate,
+     and ordering relative to every established story remain unresolved. The
+     event used ordinary architecture, tools, and physical mechanics and has no
+     established magical, divine, extraordinary-system, crossing, or universal
+     explanation.
+
 ## Undated Orison fall and Inner Sea landing
 
 - Status: LOCKED

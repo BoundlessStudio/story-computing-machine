@@ -1440,6 +1440,39 @@
   - Nalda's age, family, later career, wider authority, and relationship to any
     other Vick, council, office, or established person remain unresolved.
 
+## Salken
+
+- Status: LOCKED
+- Summary: Salken is the otherwise-unplaced survivor whose prolonged dungeon
+  confinement and deteriorating perception led them to kill people and
+  uncertain beings before they escaped, interrupted their preemptive violence,
+  and submitted to an unnamed search party.
+- First established: stories/the-last-monster/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Salken is the story's only named person. One surface searcher recognized the
+    mononym after Salken emerged; no gender, age, surname, origin, occupation,
+    title, prior relationship, or link to another established identity is known.
+  - Rusted gear, improvised repairs, layered injuries, a healed wound, and
+    failed wall counts show substantial underground survival, but no exact
+    duration, entry date, biological age change, or supernatural chronology.
+  - Prolonged deprivation, injury, isolation, darkness, pain, and
+    trauma-conditioned hypervigilance impaired Salken's perception and threat
+    interpretation. Those pressures neither compelled the killings nor erased
+    agency or responsibility; no diagnosis, innate evil, supernatural effect,
+    universal trauma response, or cure is established.
+  - Salken learned to answer uncertain movement with preemptive lethal force,
+    then deliberately spared one frightened guardian, sustained non-pursuit,
+    helped open the final grate, and abandoned the sword that held the route
+    open. These choices interrupted the pattern without proving recovery or
+    absolution.
+  - After escape, Salken knelt, accepted binding and measured water, admitted
+    killing people and unidentified others, offered to show the chambers, and
+    asked that the fleeing inhabitants be left alone. No count, legal category,
+    forgiveness, sentence, rescue outcome, later condition, or future decision
+    by the searchers is established.
+
 ## Inez Arco
 
 - Status: LOCKED

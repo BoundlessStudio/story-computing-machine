@@ -673,6 +673,34 @@
     nonmagical, and non-agentic. Its architecture establishes no general civic
     lift design or relationship to another machine, location, or power system.
 
+## Salken's unnamed dungeon and hillside drain
+
+- Status: LOCKED
+- Summary: One unnamed underground stone complex contains old service and
+  water-management architecture connected by an air-bearing evacuation route
+  to a hillside drain.
+- First established: stories/the-last-monster/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Salken's dungeon; unnamed dungeon
+- Notes:
+  - Observed spaces include stone intersections, wall niches, a cistern, a
+    rising spillway, a ventilation throat, a narrow moss-hung bypass, a slanted
+    root-crossed shaft, corroded grates, and the surface drain.
+  - A persistent cool draft, tested with a shielded lantern flame, a loose
+    thread, damp skin, leaf-mold scent, roots, and moving leaves, materially
+    marked the route from the lower passages to open air.
+  - A fallen block pinned the broad spillway grate, and Salken's blows damaged
+    its best wedge point. The smaller bypass remained usable. At the upper
+    grate, roots and shifted stone left a retaining gap through which ordinary
+    leverage opened a temporary exit.
+  - The complex, airflow, architecture, tools, and route are ordinary,
+    nonliving, nonmagical, and non-agentic. Airflow is not intuition or sentient
+    guidance, and the site has no established relationship to a portal,
+    crossing, living structure, or universal dungeon network.
+  - Its builder, purpose, age, extent, ownership, region, civil date, era,
+    Galactic Cycle coordinate, and relationship to every established place or
+    story remain unresolved.
+
 ## Orison
 
 - Status: LOCKED
