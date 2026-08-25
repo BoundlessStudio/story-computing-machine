@@ -1798,3 +1798,51 @@
     exchange, precision limits, long-term effects, and relationship to
     Northbridge's transformations, the Nina-Anin incident, Crown-era dragon
     guises, Luz Navarro's shrinking, or any other system remain unresolved.
+
+## No More Magic terminal extinction boundary
+
+- Status: LOCKED
+- Summary: One terminal event permanently ended the six magical systems then
+  active in the material world and every endogenous or material means of
+  restoring them, without forbidding a genuinely new system from later
+  originating through living agents in an unaffected external reality.
+- First established: stories/all-accounts-due/05-story.md; scope clarified and
+  locked by explicit user decision, 2026-08-24
+- Aliases: No More Magic event; six-root extinction
+- Notes:
+  - The six terminal systems were Tessellate Grace, Manyroom, Worldcoil, Inward
+    Fire, Kindred Graft, and Horizon Flight. They were distinct local systems,
+    not one universal origin for all magic across history.
+  - The Absolute Yoke carried adapter patterns for all six. Any surviving root
+    could preserve the other five patterns and compel living users to rebuild
+    their entrances, so six living authorities had to arm six terminal
+    conditions for simultaneous release.
+  - Seyathi armed Tessellate Grace without informed agreement to the worldwide
+    scope. King Malrec, Qeluun, Hurzai, Jelveth Sorn, and Ekkorath knew the full
+    purpose and freely renewed their separate choices. Faris supplied no magical
+    condition; he physically released the already armed sequence.
+  - The Missing Tessera, Sole Chamber, Nearmost Vertebra, Cold Maw, Unhatched
+    Form, Unflown Arc, Parity Astrolabe, and Mortal Latch were bounded nonliving
+    mechanisms. They stored, aligned, focused, or released living-supplied
+    conditions without choosing, consenting, judging, or originating power.
+  - Pulling the Latch's ordinary cotter caused simultaneous contact. Faris's
+    exact words `No More Magic` caused nothing and are not a spell, command,
+    true name, or reusable extinction mechanism.
+  - The release emptied living capacity, active workings, stored charge,
+    magical structures, material crossing anchors, faculties, hybrids,
+    reserves, relics, seeds, inheritance, recoverable patterns, and every
+    material restoration path of the six systems. No artifact, descendant, or
+    machine can recover those systems.
+  - Ending function preserved whatever ordinary matter could sustain. It did
+    not erase identity, memory, relationships, worship, grief, responsibility,
+    earlier history, or the universal afterlife, but it caused deaths when
+    magical bodies, structures, routes, and supports failed.
+  - Earlier magic-active histories remain real. The universal underlying
+    afterlife and realities beyond the closed material crossings were outside
+    Faris's act. The six systems can never return, but a genuinely new system
+    may later originate through living agents in an unaffected external
+    reality; such origination is not restoration, survival, reversal, or a
+    hidden seventh root.
+  - This event does not identify any previously established system with one of
+    the six terminal roots, prove that an earlier system survived until this
+    era, or make extinction a universal property of magic in every reality.

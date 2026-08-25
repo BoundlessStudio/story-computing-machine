@@ -1670,3 +1670,61 @@
     Neither image creates a public record of Cody's ability or Hugo's history.
   - The relationship is friendship, not established romance. Its later course
     and any wider consent practice remain unresolved.
+
+## Faris
+
+- Status: LOCKED
+- Summary: Faris is a lifelong nonmagical man who used thirty-one years of
+  earned relationships, bounded relic custody, and ordinary material action to
+  release the terminal extinction of six magical systems at the Ithrom Array.
+- First established: stories/all-accounts-due/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Faris has no dormant gift, severed faculty, magical immunity, chosen
+    destiny, superhuman mastery, or universal authority over magic. He remains
+    vulnerable to prepared surfaces, fire, gravity, injury, falling, and every
+    ordinary material hazard.
+  - Across six witnessed adventures he succeeds through mistakes, observation,
+    practical tools, persistence, bargaining, reciprocal aid, and willingness
+    to return after causing harm. The resulting favors and relics were not
+    gathered under one original extinction plan.
+  - At the Ithrom Array, Faris deliberately gives Seyathi a technically true but
+    incomplete request while five other authorities know the worldwide scope.
+    He then seats the nonliving Mortal Latch and pulls its ordinary cotter; his
+    declaration `No More Magic` witnesses the choice but causes nothing.
+  - Faris knowingly chooses deaths, collapse, and permanent loss to prevent the
+    Absolute Yoke from ending refusal. He is morally responsible but not the
+    event's sole causal participant: six living authorities had to arm the six
+    terminal conditions.
+  - `All Accounts Due` leaves Faris alive, powerless, and in open fall beside
+    the collapsing Array. His immediate fate beyond that ending is not
+    established by this entry.
+
+## Seyathi
+
+- Status: LOCKED
+- Summary: Seyathi is the former goddess of Tessellate Grace whose freely armed
+  but incompletely informed terminal condition made the No More Magic event
+  possible and left her alive, mortal, herself, and betrayed.
+- First established: stories/all-accounts-due/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - At the Talarum Steps, Seyathi holds a coercive pattern apart at a cost to
+    her sense of place, helps Faris free forty-three pilgrims, and gives him the
+    Missing Tessera with the warning that a promise protects only its exact
+    shape.
+  - At the Ithrom Array, she voluntarily arms the Tessera against the Absolute
+    Yoke under
+    Faris's narrow promise. Hidden terminal connections and the five informed
+    participants' silence leave her without informed agreement to worldwide
+    extinction; trust, not stupidity or magical compulsion, supplies her
+    mistaken inference.
+  - When Tessellate Grace ends, Seyathi loses radiance, power, and objective
+    godhood while retaining identity, memory, relationships, anger,
+    responsibility, and her valid grievance against Faris.
+  - She recognizes the omitted scope, repeats Faris's promise back to him, and
+    attempts one final Grace gesture that produces nothing. `All Accounts Due`
+    leaves her alive and in open fall; it establishes neither forgiveness nor
+    consent to the result.

@@ -839,3 +839,25 @@
     character alias, or magical true name. Its retired use neither assigns nor
     excludes any gender label for Cody and does not redefine `transgender` or
     the ordinary use of `trans`.
+
+## No More Magic
+
+- Status: LOCKED
+- Summary: Faris's witnessed declaration and the bounded historical label for
+  the permanent extinction of six material-world magical systems at the Ithrom
+  Array.
+- First established: stories/all-accounts-due/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: No More Magic event; six-root extinction; All Accounts Due event
+- Notes:
+  - The exact words accompanied Faris's ordinary cotter pull but caused no
+    effect. They are not a spell name, true name, magical command, prophecy,
+    artifact activation phrase, or repeatable way to end another system.
+  - The label does not make Faris the sole causal actor. Six living authorities
+    armed the required conditions; five knew the full scope, while Seyathi was
+    uniquely and deliberately left incompletely informed.
+  - `No More Magic` means that those six systems and every endogenous or
+    material restoration path remain permanently dead. It does not rename all
+    earlier systems, erase magic from every reality, or bar a genuinely new
+    system from later originating through living agents in an unaffected
+    external reality.

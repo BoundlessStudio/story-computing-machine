@@ -1073,3 +1073,44 @@
      and ordering relative to every established story remain unresolved. It has
      no established relationship to another school, modern-like setting,
      identity-exposure event, or transformation system.
+
+## Undated No More Magic extinction
+
+- Status: LOCKED
+- Summary: In a terminal era after every admitted magic-active material-world
+  history, seven living participants converged at the Ithrom Array and ended the
+  six magical systems then active in that world.
+- First established: stories/all-accounts-due/05-story.md; chronology and scope
+  locked by explicit user decision, 2026-08-24
+- Aliases: No More Magic event; All Accounts Due event
+- Notes:
+  1. Across thirty-one years, lifelong nonmagical Faris acquired eight bounded
+     relics and relationships with Seyathi, King Malrec, Qeluun, Hurzai,
+     Jelveth Sorn, and Ekkorath through six separate adventures. The relics did
+     not choose him, and the relationships were not one original terminal plan.
+  2. At the Ithrom Array, the Bound Ascendancy used the Absolute Yoke to combine
+     six magical systems into coercive command that would preserve magical
+     order by ending refusal.
+  3. Faris asked all six authorities to arm the terminal conditions. Malrec,
+     Qeluun, Hurzai, Jelveth, and Ekkorath knew the worldwide scope and renewed
+     their choices; Seyathi freely armed her condition under a technically true
+     request that concealed the full result.
+  4. The six authorities defended Faris while he seated the Mortal Latch. When
+     the Parity Astrolabe aligned, he pulled an ordinary cotter and said `No More
+     Magic`; the pull, not the words, released all six conditions at once.
+  5. Tessellate Grace, Inward Fire, Horizon Flight, Manyroom, Worldcoil, and
+     Kindred Graft ended in distinct material consequences. Magic-dependent
+     bodies and structures failed, cities and masses fell, some people survived
+     materially, and others died. The event preserved personhood rather than
+     ranking whose identity deserved survival.
+  6. Every capacity, working, charge, structure, crossing, faculty, hybrid,
+     reserve, relic, seed, and endogenous or material restoration path of the
+     six systems reached permanent zero. Earlier history, the universal
+     afterlife, and external realities remained outside the event.
+  7. The broken Array entered ordinary free-fall. The story ends with Seyathi,
+     alive and newly mortal, recognizing Faris's deception and receiving no
+     answer from her attempted Grace gesture.
+  8. This event occurs after every currently admitted magic-active history in
+     the material world. Its civil date and Galactic Cycle coordinate remain
+     unresolved. The placement does not map any earlier established system onto
+     a terminal root or make this story an origin shared by earlier histories.

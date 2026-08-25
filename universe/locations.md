@@ -858,3 +858,28 @@
     character's gender.
   - No shop name, owner, staff identity, street, city, wider retail practice,
     magical service, or connection to another established location is known.
+
+## Ithrom Array and Unwritten Axis
+
+- Status: LOCKED
+- Summary: The Ithrom Array was a nonliving terminal junction where six
+  material-world magical systems crossed and were permanently extinguished.
+- First established: stories/all-accounts-due/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ithrom Array; the Array; Unwritten Axis; the Axis
+- Notes:
+  - Six-practice engineers built the Array, Parity Astrolabe, and Mortal Latch
+    three hundred and two years before the terminal event as a distributed
+    failsafe against coupled roots. Timing custody and final-junction custody
+    were deliberately separated.
+  - The Array contained six sockets around the Unwritten Axis and a three-body-
+    length approach to the Latch recess. The Astrolabe only indicated parity;
+    the Latch only aligned and physically released conditions supplied by
+    living authorities.
+  - After the six systems ended, the Astrolabe and Latch broke, the world-curves
+    straightened, the Axis tore free, and the unsupported Array entered
+    ordinary free-fall. No part retained power, agency, or a repeatable terminal
+    action.
+  - The site's ground location, later material condition, and shortened name
+    `Ithrom` are not established by `All Accounts Due`. The Array has no known
+    connection to another junction, axis, array, gate, or crossing system.
