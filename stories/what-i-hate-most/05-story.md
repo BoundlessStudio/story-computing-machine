@@ -326,17 +326,13 @@ Unnamed crews moved beyond the open door, shoveling cooling beads from the chann
 
 The pressure map lay across their knees.
 
-“One moon cycle,” Draxenne said. “I take personal casting responsibility at the two eastern stations, holding their pressure through rebuilt ceramic braces, and I supply the maintenance crews. I replace the plates as soon as my kilns can fit them. You retain the other three anchors and your office.”
+“One moon cycle,” Draxenne said. “I take the two eastern stations. My crews maintain them; my kilns replace the plates. You keep the other three anchors and your office.”
 
-“Your veto remains yours,” Ombria said. “Mine remains mine. Either may end the compact after a safe transfer.”
-
-“Either may withdraw immediately from unsafe casting.”
+“Your veto remains yours,” Ombria said. “Mine remains mine. Either may stop unsafe casting at once; either may end the compact after a safe transfer.”
 
 Ombria marked the terms in chalk at the map's margin. Her handwriting was usually architectural. Tonight it leaned drunkenly downhill.
 
-“No magical bond,” Draxenne said. “No penalty beyond the ordinary consequences we arrange for.”
-
-“And no pretending this is permanent because permanence saves us another conversation.” Ombria drew two small blocks on the weekly duty slate. “These hours are private. The ward office does not summon me except for immediate danger to life.”
+Ombria turned the chalk to the weekly duty slate and drew two small blocks. “These hours are private. The ward office does not summon me except for immediate danger to life.”
 
 Draxenne looked at the blocks. “Private for whom?”
 
@@ -350,21 +346,13 @@ Ombria gave her a cold, level glance over the cup. The effect was impaired by th
 
 “Then clogged it.”
 
-There was the late humor, quiet and exact. Draxenne could have hidden in the familiar exchange all the way to sunrise.
+Draxenne left the last barb unanswered and touched the chalk marks.
 
-She touched the chalk marks instead.
+“What I said on the bridge was true,” she said. “But I shaped it like a claim on you.”
 
-“What I said on the bridge was true,” she said. “Badly shaped. Still true.”
+“You did.”
 
-Ombria waited.
-
-“I don't hate the city for needing you. I don't hate that you answer. I hate being given whatever remains after you have answered everyone until your hands cannot feel mine.” Draxenne looked down at her bandages. “And I have behaved as if the remedy were to make your attention mine. It isn't.”
-
-“No,” Ombria said.
-
-The word landed without softening. Draxenne respected it enough not to flinch.
-
-“I want time you choose before there is nothing left of you to choose with,” Draxenne said. “Emergencies will interrupt it. Your duty will remain yours. I will be angry sometimes, and I will try not to make the anger a claim.”
+“I don't hate the city for needing you, or you for answering.” Draxenne turned one bandaged palm upward between them. “I hate that by the time I reach you, you can't feel my hand. I want time you choose.”
 
 Ombria set down the cup. “Vantress cannot grant me to you. Your victory cannot. Your crown cannot.”
 
@@ -372,13 +360,11 @@ Ombria set down the cup. “Vantress cannot grant me to you. Your victory cannot
 
 “Do you?”
 
-Two years of almosts stood between them: rain stairs, council corridors, visits cut to pieces by pressure calls. Draxenne had always thought clarity meant losing ground. Tonight she had learned what happened when one kept exclusive control of a broken channel.
-
-She turned beneath the cloak until she faced Ombria fully.
+Draxenne turned beneath the cloak until she faced Ombria fully.
 
 “May I court you?”
 
-Ombria's expression changed by degrees. Weariness remained. So did authority, and the aggravating precision with which she inspected any proposal likely to affect her city. Underneath them, desire arrived without disguise.
+Ombria's expression changed by degrees. Weariness remained, along with the aggravating precision with which she inspected any proposal likely to affect her city.
 
 “Yes,” she said. “I would like that.”
 
@@ -388,12 +374,12 @@ Draxenne let out the breath she had been rationing. “May I kiss you now?”
 
 Ombria closed the distance.
 
-Her mouth was warmer than her hands and less careful than her speech. Draxenne tasted boiled water, smoke, and the sharp little sound Ombria made when Draxenne touched her jaw. She kept the kiss brief because they were injured, exhausted, and still sitting under a municipal duty slate. Brief did not mean uncertain.
+Her mouth was warmer than her hands and less careful than her speech. Draxenne tasted boiled water, smoke, and the sharp little sound Ombria made when Draxenne touched her jaw.
 
 A brass stud knocked beneath the pressure map.
 
 The eastern ward.
 
-Ombria began to reach from habit. Draxenne's bandaged palm was already waiting on the contact point. The signal traveled into her hand: weight, direction, an ordinary public need passed through ordinary metal. She took it. Ombria watched the signal settle beneath Draxenne's palm and did not reach again.
+Ombria began to reach from habit. Draxenne's bandaged palm was already waiting on the contact point. The signal traveled into her hand: weight, direction. She took it. Ombria watched the signal settle beneath Draxenne's palm and did not reach again.
 
 Outside, cooling stormglass clicked beneath the first gray light. Ombria used her free hand to pull Draxenne closer.
