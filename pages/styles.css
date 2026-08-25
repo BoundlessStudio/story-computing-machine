@@ -8,6 +8,120 @@
   --accent: #81552e;
   --accent-dark: #5f3a1e;
   --focus: #246b9f;
+  --active-surface: #eee5d9;
+  --neutral-chip: #eee5d9;
+  --neutral-chip-ink: #5b4632;
+  --positive-chip: #e1eddf;
+  --positive-chip-ink: #345d35;
+  --info-chip: #e2e8f4;
+  --info-chip-ink: #344f78;
+  --warning-chip: #f2e8d2;
+  --warning-chip-ink: #6a4c1f;
+  --danger-chip: #eee1df;
+  --danger-chip-ink: #74453f;
+  --card-shadow: rgb(65 48 30 / 8%);
+  --card-shadow-hover: rgb(65 48 30 / 14%);
+  --cover-matte: #17130f;
+  --cover-shadow: rgb(48 36 24 / 18%);
+  --worldline-bg: #f2ede4;
+  --worldline-panel: #fbf8f1;
+  --worldline-panel-raised: #fffdf8;
+  --worldline-ink: #24211d;
+  --worldline-muted: #665f56;
+  --worldline-line: rgb(62 48 34 / 20%);
+  --worldline-subtle-line: rgb(62 48 34 / 10%);
+  --worldline-amber: #92580f;
+  --worldline-blue: #326e91;
+  --worldline-teal: #176e5c;
+  --worldline-violet: #70548b;
+  --worldline-grey: #697074;
+  --worldline-page-glow: rgb(168 105 32 / 10%);
+  --worldline-hero-background:
+    radial-gradient(circle at 82% 18%, rgb(23 110 92 / 10%), transparent 25rem),
+    radial-gradient(circle at 24% 20%, rgb(146 88 15 / 16%), transparent 30rem),
+    linear-gradient(155deg, #fff4df, #eef5f2 62%, #f2ede4);
+  --worldline-skip-bg: #2c241b;
+  --worldline-skip-ink: #fffaf2;
+  --worldline-art-bg: #ddd5c9;
+  --worldline-nav-bg: rgb(242 237 228 / 94%);
+  --worldline-hover: rgb(80 58 35 / 7%);
+  --worldline-control-active: #6c4826;
+  --worldline-control-active-ink: #fffaf1;
+  --worldline-input-bg: #fffdf8;
+  --worldline-glass-bg: rgb(255 253 248 / 88%);
+  --worldline-shadow: rgb(65 44 25 / 14%);
+  --worldline-epoch-tone: 93%;
+  --worldline-epoch-end-tone: 98%;
+  --worldline-era-tone: 94%;
+  --worldline-era-end-tone: 88%;
+  --worldline-node-bg: #fbf8f1;
+  --worldline-drawer-bg: #fbf8f1;
+  --worldline-cover-bg: #17130f;
+  --worldline-marker-center: #f2ede4;
+  --worldline-badge-ink: #fffdf8;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ink: #f1ece4;
+  --muted: #b9afa2;
+  --paper: #151412;
+  --paper-raised: #211f1b;
+  --line: #403a33;
+  --accent: #d4a06e;
+  --accent-dark: #e2b582;
+  --focus: #79c6ff;
+  --active-surface: #332e27;
+  --neutral-chip: #35302a;
+  --neutral-chip-ink: #e1c7ac;
+  --positive-chip: #1e3a2a;
+  --positive-chip-ink: #a7d7ae;
+  --info-chip: #223149;
+  --info-chip-ink: #adc7ef;
+  --warning-chip: #463720;
+  --warning-chip-ink: #e8c681;
+  --danger-chip: #442927;
+  --danger-chip-ink: #efafa6;
+  --card-shadow: rgb(0 0 0 / 24%);
+  --card-shadow-hover: rgb(0 0 0 / 34%);
+  --cover-matte: #090807;
+  --cover-shadow: rgb(0 0 0 / 42%);
+  --worldline-bg: #08090a;
+  --worldline-panel: #111315;
+  --worldline-panel-raised: #17191c;
+  --worldline-ink: #f8f0e3;
+  --worldline-muted: #bdb4a7;
+  --worldline-line: rgb(246 230 207 / 18%);
+  --worldline-subtle-line: rgb(246 230 207 / 9%);
+  --worldline-amber: #efa94f;
+  --worldline-blue: #82b3cf;
+  --worldline-teal: #82ddc0;
+  --worldline-violet: #b79bd6;
+  --worldline-grey: #99a0a2;
+  --worldline-page-glow: rgb(239 169 79 / 8%);
+  --worldline-hero-background:
+    radial-gradient(circle at 82% 18%, rgb(130 221 192 / 12%), transparent 25rem),
+    radial-gradient(circle at 24% 20%, rgb(239 169 79 / 18%), transparent 30rem),
+    linear-gradient(155deg, #17120d, #0d1012 62%, #08090a);
+  --worldline-skip-bg: #fff7e9;
+  --worldline-skip-ink: #12100e;
+  --worldline-art-bg: #050708;
+  --worldline-nav-bg: rgb(8 9 10 / 94%);
+  --worldline-hover: rgb(255 255 255 / 6%);
+  --worldline-control-active: #f0e4d1;
+  --worldline-control-active-ink: #15110d;
+  --worldline-input-bg: #111315;
+  --worldline-glass-bg: rgb(10 12 13 / 84%);
+  --worldline-shadow: rgb(0 0 0 / 28%);
+  --worldline-epoch-tone: 18%;
+  --worldline-epoch-end-tone: 6%;
+  --worldline-era-tone: 16%;
+  --worldline-era-end-tone: 8%;
+  --worldline-node-bg: #0b0d0f;
+  --worldline-drawer-bg: #0d0f11;
+  --worldline-cover-bg: #08090a;
+  --worldline-marker-center: #0a0c0d;
+  --worldline-badge-ink: #091116;
 }
 
 @layer base {
@@ -25,7 +139,9 @@ html {
 }
 
 body {
+  background: var(--paper);
   margin: 0;
+  min-height: 100vh;
 }
 
 a {
@@ -90,8 +206,67 @@ a:focus-visible {
 }
 
 .site-nav a[aria-current="page"] {
-  background: #eee5d9;
+  background: var(--active-surface);
   color: var(--ink);
+}
+
+.site-actions {
+  align-items: center;
+  display: flex;
+  gap: 0.3rem;
+}
+
+.theme-toggle {
+  align-items: center;
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.68rem;
+  font-weight: 700;
+  gap: 0.38rem;
+  justify-content: center;
+  min-height: 2.25rem;
+  padding: 0.35rem 0.7rem;
+  transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent-dark);
+}
+
+.theme-toggle:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+
+.theme-icon {
+  fill: none;
+  height: 1rem;
+  stroke: currentcolor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+  width: 1rem;
+}
+
+.theme-icon-dark,
+[data-theme-label="dark"] {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-icon-light,
+:root[data-theme="dark"] [data-theme-label="light"] {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-icon-dark,
+:root[data-theme="dark"] [data-theme-label="dark"] {
+  display: inline;
 }
 
 .repository-link {
@@ -170,7 +345,7 @@ h1 {
   background: var(--paper-raised);
   border: 1px solid var(--line);
   border-radius: 0.7rem;
-  box-shadow: 0 0.4rem 1.4rem rgb(65 48 30 / 8%);
+  box-shadow: 0 0.4rem 1.4rem var(--card-shadow);
   color: inherit;
   display: flex;
   flex-direction: column;
@@ -182,13 +357,13 @@ h1 {
 
 .story-card-link:hover {
   border-color: var(--accent);
-  box-shadow: 0 0.8rem 2rem rgb(65 48 30 / 14%);
+  box-shadow: 0 0.8rem 2rem var(--card-shadow-hover);
   transform: translateY(-2px);
 }
 
 .card-cover {
   aspect-ratio: 9 / 16;
-  background: #17130f;
+  background: var(--cover-matte);
   display: block;
   height: auto;
   object-fit: contain;
@@ -268,9 +443,9 @@ h1 {
 .word-count,
 .rating,
 .status {
-  background: #eee5d9;
+  background: var(--neutral-chip);
   border-radius: 999px;
-  color: #5b4632;
+  color: var(--neutral-chip-ink);
   display: inline-block;
   font-size: 0.62rem;
   font-weight: 700;
@@ -281,38 +456,38 @@ h1 {
 
 .status-canon,
 .status-final {
-  background: #e1eddf;
-  color: #345d35;
+  background: var(--positive-chip);
+  color: var(--positive-chip-ink);
 }
 
 .status-reviewed {
-  background: #e2e8f4;
-  color: #344f78;
+  background: var(--info-chip);
+  color: var(--info-chip-ink);
 }
 
 .status-candidate {
-  background: #f2e8d2;
-  color: #6a4c1f;
+  background: var(--warning-chip);
+  color: var(--warning-chip-ink);
 }
 
 .status-abandoned {
-  background: #eee1df;
-  color: #74453f;
+  background: var(--danger-chip);
+  color: var(--danger-chip-ink);
 }
 
 .rating-pg {
-  background: #e1eddf;
-  color: #345d35;
+  background: var(--positive-chip);
+  color: var(--positive-chip-ink);
 }
 
 .rating-ya {
-  background: #e2e8f4;
-  color: #344f78;
+  background: var(--info-chip);
+  color: var(--info-chip-ink);
 }
 
 .rating-r-plus {
-  background: #eee1df;
-  color: #74453f;
+  background: var(--danger-chip);
+  color: var(--danger-chip-ink);
 }
 
 .story {
@@ -364,7 +539,7 @@ h1 {
 .story-cover img {
   aspect-ratio: 9 / 16;
   border-radius: 0.65rem;
-  box-shadow: 0 1rem 2.5rem rgb(48 36 24 / 18%);
+  box-shadow: 0 1rem 2.5rem var(--cover-shadow);
   display: block;
   height: auto;
   width: 100%;
@@ -442,15 +617,15 @@ h1 {
 /* The Magic Signal: a continuous era timeline with cover-backed story indexes */
 
 body:has(.signal-page) {
-  background: #08090a;
-  color: #f7f0e4;
+  background: var(--worldline-bg);
+  color: var(--worldline-ink);
   overflow-x: clip;
 }
 
 body:has(.signal-page) .site-header {
-  background: #08090a;
-  border-bottom-color: rgb(244 226 197 / 20%);
-  color: #f7f0e4;
+  background: var(--worldline-bg);
+  border-bottom-color: var(--worldline-line);
+  color: var(--worldline-ink);
 }
 
 body:has(.signal-page) .site-name,
@@ -460,8 +635,8 @@ body:has(.signal-page) .repository-link {
 }
 
 body:has(.signal-page) .site-nav a[aria-current="page"] {
-  background: #f2e7d6;
-  color: #15110d;
+  background: var(--worldline-control-active);
+  color: var(--worldline-control-active-ink);
 }
 
 main:has(.signal-page) {
@@ -471,23 +646,23 @@ main:has(.signal-page) {
 }
 
 body.timeline-body {
-  background: #08090a;
+  background: var(--worldline-bg);
 }
 
 .signal-page {
-  --signal-bg: #08090a;
-  --signal-panel: #111315;
-  --signal-panel-raised: #17191c;
-  --signal-ink: #f8f0e3;
-  --signal-muted: #bdb4a7;
-  --signal-line: rgb(246 230 207 / 18%);
-  --signal-amber: #efa94f;
-  --signal-blue: #82b3cf;
-  --signal-teal: #82ddc0;
-  --signal-violet: #b79bd6;
-  --signal-grey: #99a0a2;
+  --signal-bg: var(--worldline-bg);
+  --signal-panel: var(--worldline-panel);
+  --signal-panel-raised: var(--worldline-panel-raised);
+  --signal-ink: var(--worldline-ink);
+  --signal-muted: var(--worldline-muted);
+  --signal-line: var(--worldline-line);
+  --signal-amber: var(--worldline-amber);
+  --signal-blue: var(--worldline-blue);
+  --signal-teal: var(--worldline-teal);
+  --signal-violet: var(--worldline-violet);
+  --signal-grey: var(--worldline-grey);
   background:
-    radial-gradient(circle at 50% 22rem, rgb(239 169 79 / 8%), transparent 31rem),
+    radial-gradient(circle at 50% 22rem, var(--worldline-page-glow), transparent 31rem),
     var(--signal-bg);
   color: var(--signal-ink);
   font-family: ui-sans-serif, system-ui, sans-serif;
@@ -500,9 +675,9 @@ body.timeline-body {
 }
 
 .signal-skip-link {
-  background: #fff7e9;
+  background: var(--worldline-skip-bg);
   border-radius: 0.35rem;
-  color: #12100e;
+  color: var(--worldline-skip-ink);
   font-weight: 800;
   left: 1rem;
   padding: 0.8rem 1rem;
@@ -519,10 +694,7 @@ body.timeline-body {
 
 .signal-hero {
   align-items: center;
-  background:
-    radial-gradient(circle at 82% 18%, rgb(130 221 192 / 12%), transparent 25rem),
-    radial-gradient(circle at 24% 20%, rgb(239 169 79 / 18%), transparent 30rem),
-    linear-gradient(155deg, #17120d, #0d1012 62%, #08090a);
+  background: var(--worldline-hero-background);
   display: grid;
   gap: clamp(2rem, 5vw, 6rem);
   grid-template-columns: minmax(0, 1.05fr) minmax(24rem, 0.95fr);
@@ -535,7 +707,7 @@ body.timeline-body {
 
 .signal-hero::before,
 .signal-hero::after {
-  border: 1px solid rgb(246 230 207 / 10%);
+  border: 1px solid var(--worldline-subtle-line);
   border-radius: 50%;
   content: "";
   height: 42rem;
@@ -598,12 +770,12 @@ body.timeline-body {
 
 .signal-hero-art {
   aspect-ratio: 3 / 2;
-  background: #050708;
+  background: var(--worldline-art-bg);
   border: 1px solid var(--signal-line);
   border-radius: 1.4rem;
   box-shadow:
     inset 0 0 3rem rgb(0 0 0 / 24%),
-    0 1.2rem 3rem rgb(0 0 0 / 28%);
+    0 1.2rem 3rem var(--worldline-shadow);
   isolation: isolate;
   margin: 0;
   overflow: hidden;
@@ -628,7 +800,7 @@ body.timeline-body {
 }
 
 .signal-hero-art::after {
-  border: 1px solid rgb(246 230 207 / 9%);
+  border: 1px solid var(--worldline-subtle-line);
   border-radius: inherit;
   box-shadow: inset 0 0 2.5rem rgb(0 0 0 / 34%);
 }
@@ -643,9 +815,9 @@ body.timeline-body {
   width: 100%;
 }
 .signal-nav {
-  background: rgb(8 9 10 / 94%);
+  background: var(--worldline-nav-bg);
   border-block: 1px solid var(--signal-line);
-  box-shadow: 0 0.6rem 2rem rgb(0 0 0 / 28%);
+  box-shadow: 0 0.6rem 2rem var(--worldline-shadow);
   padding: 0.6rem max(1rem, calc((100vw - 82rem) / 2));
   position: sticky;
   top: 0;
@@ -673,7 +845,7 @@ body.timeline-body {
 .signal-nav-epochs a:hover,
 .signal-nav-epochs a:focus-visible,
 .signal-nav-epochs a[aria-current="location"] {
-  background: rgb(255 255 255 / 6%);
+  background: var(--worldline-hover);
   border-color: var(--nav-phase, var(--signal-amber));
 }
 
@@ -710,7 +882,7 @@ body.timeline-body {
 
 .signal-nav-tools {
   align-items: center;
-  border-top: 1px solid rgb(246 230 207 / 9%);
+  border-top: 1px solid var(--worldline-subtle-line);
   display: grid;
   gap: 0.55rem;
   grid-template-columns: minmax(0, 1fr) minmax(9rem, 13rem) auto auto;
@@ -738,9 +910,9 @@ body.timeline-body {
 }
 
 .signal-filter button[aria-pressed="true"] {
-  background: #f0e4d1;
-  border-color: #f0e4d1;
-  color: #15110d;
+  background: var(--worldline-control-active);
+  border-color: var(--worldline-control-active);
+  color: var(--worldline-control-active-ink);
   font-weight: 800;
 }
 
@@ -758,7 +930,7 @@ body.timeline-body {
 }
 
 .signal-search input {
-  background: #111315;
+  background: var(--worldline-input-bg);
   border: 1px solid var(--signal-line);
   border-radius: 0.45rem;
   color: var(--signal-ink);
@@ -783,10 +955,10 @@ body.timeline-body {
 
 .signal-legend {
   align-items: stretch;
-  background: rgb(10 12 13 / 84%);
+  background: var(--worldline-glass-bg);
   border: 1px solid var(--signal-line);
   border-radius: 0.85rem;
-  box-shadow: 0 0.7rem 1.8rem rgb(0 0 0 / 18%);
+  box-shadow: 0 0.7rem 1.8rem var(--worldline-shadow);
   display: grid;
   grid-template-columns: auto repeat(4, auto);
   justify-content: center;
@@ -821,7 +993,7 @@ body.timeline-body {
 }
 
 .signal-legend span + span {
-  border-left: 1px solid rgb(246 230 207 / 7%);
+  border-left: 1px solid var(--worldline-subtle-line);
 }
 
 .signal-legend span::before {
@@ -835,7 +1007,7 @@ body.timeline-body {
 
 .signal-legend .marker-fixed::before {
   color: var(--signal-amber);
-  box-shadow: 0 0 0 2px #08090a, 0 0 0 3px currentcolor;
+  box-shadow: 0 0 0 2px var(--signal-bg), 0 0 0 3px currentcolor;
 }
 
 .signal-legend .marker-inferred::before {
@@ -903,10 +1075,14 @@ body.timeline-body {
 .signal-epoch-heading::before {
   background:
     radial-gradient(circle at 84% 12%, hsl(var(--epoch-hue) 78% 68% / 18%), transparent 38%),
-    linear-gradient(135deg, hsl(var(--epoch-hue) 38% 18% / 92%), rgb(13 15 16 / 94%));
+    linear-gradient(
+      135deg,
+      hsl(var(--epoch-hue) 38% var(--worldline-epoch-tone) / 94%),
+      hsl(var(--epoch-hue) 18% var(--worldline-epoch-end-tone) / 98%)
+    );
   border: 1px solid hsl(var(--epoch-hue) 72% 68% / 18%);
   border-radius: 2.2rem;
-  box-shadow: 0 1.2rem 4rem hsl(var(--epoch-hue) 68% 20% / 16%);
+  box-shadow: 0 1.2rem 4rem var(--worldline-shadow);
   content: "";
   inset: 0;
   position: absolute;
@@ -915,13 +1091,21 @@ body.timeline-body {
 .signal-epoch:nth-child(3n + 2) .signal-epoch-heading::before {
   background:
     radial-gradient(circle at 12% 78%, hsl(var(--epoch-hue) 78% 68% / 16%), transparent 42%),
-    linear-gradient(215deg, hsl(var(--epoch-hue) 38% 18% / 92%), rgb(13 15 16 / 94%));
+    linear-gradient(
+      215deg,
+      hsl(var(--epoch-hue) 38% var(--worldline-epoch-tone) / 94%),
+      hsl(var(--epoch-hue) 18% var(--worldline-epoch-end-tone) / 98%)
+    );
 }
 
 .signal-epoch:nth-child(3n) .signal-epoch-heading::before {
   background:
     linear-gradient(115deg, hsl(var(--epoch-hue) 70% 54% / 12%) 0 22%, transparent 22% 72%, hsl(var(--epoch-hue) 60% 50% / 10%) 72%),
-    linear-gradient(145deg, hsl(var(--epoch-hue) 34% 17% / 94%), rgb(12 14 15 / 96%));
+    linear-gradient(
+      145deg,
+      hsl(var(--epoch-hue) 34% var(--worldline-epoch-tone) / 94%),
+      hsl(var(--epoch-hue) 18% var(--worldline-epoch-end-tone) / 98%)
+    );
 }
 
 .signal-epoch-heading > span {
@@ -962,7 +1146,7 @@ body.timeline-body {
 .signal-world-texture {
   --texture-accent: var(--signal-amber);
   align-items: center;
-  border-top: 1px solid rgb(246 230 207 / 10%);
+  border-top: 1px solid var(--worldline-subtle-line);
   display: flex;
   flex-wrap: wrap;
   gap: 0.42rem;
@@ -988,8 +1172,8 @@ body.timeline-body {
 
 .signal-world-texture span {
   align-items: center;
-  background: rgb(255 255 255 / 3%);
-  border: 1px solid rgb(246 230 207 / 12%);
+  background: var(--worldline-hover);
+  border: 1px solid var(--worldline-subtle-line);
   border-radius: 999px;
   color: var(--signal-ink);
   display: inline-flex;
@@ -1070,7 +1254,7 @@ body.timeline-body {
 
 .signal-era-node b {
   align-items: center;
-  background: #0b0d0f;
+  background: var(--worldline-node-bg);
   border: 2px solid currentcolor;
   border-radius: 50%;
   display: flex;
@@ -1101,10 +1285,14 @@ body.timeline-body {
 .signal-era-card {
   background:
     radial-gradient(circle at 88% 10%, hsl(var(--era-hue) 82% 70% / 24%), transparent 34%),
-    linear-gradient(145deg, hsl(var(--era-hue) 28% 16%), hsl(calc(var(--era-hue) + 18) 20% 8%));
+    linear-gradient(
+      145deg,
+      hsl(var(--era-hue) 28% var(--worldline-era-tone)),
+      hsl(calc(var(--era-hue) + 18) 20% var(--worldline-era-end-tone))
+    );
   border: 1px solid hsl(var(--era-hue) 68% 72% / 25%);
   border-radius: 1rem;
-  box-shadow: 0 0.9rem 2.2rem rgb(0 0 0 / 22%);
+  box-shadow: 0 0.9rem 2.2rem var(--worldline-shadow);
   color: var(--signal-ink);
   display: grid;
   gap: 0.55rem;
@@ -1117,13 +1305,21 @@ body.timeline-body {
 .signal-era:nth-child(3n + 2) .signal-era-card {
   background:
     radial-gradient(circle at 10% 92%, hsl(var(--era-hue) 78% 68% / 20%), transparent 38%),
-    linear-gradient(215deg, hsl(var(--era-hue) 30% 17%), hsl(calc(var(--era-hue) + 22) 18% 8%));
+    linear-gradient(
+      215deg,
+      hsl(var(--era-hue) 30% var(--worldline-era-tone)),
+      hsl(calc(var(--era-hue) + 22) 18% var(--worldline-era-end-tone))
+    );
 }
 
 .signal-era:nth-child(3n) .signal-era-card {
   background:
     linear-gradient(120deg, hsl(var(--era-hue) 76% 64% / 12%) 0 18%, transparent 18% 72%, hsl(var(--era-hue) 70% 60% / 9%) 72%),
-    linear-gradient(155deg, hsl(var(--era-hue) 26% 16%), hsl(calc(var(--era-hue) + 16) 18% 8%));
+    linear-gradient(
+      155deg,
+      hsl(var(--era-hue) 26% var(--worldline-era-tone)),
+      hsl(calc(var(--era-hue) + 16) 18% var(--worldline-era-end-tone))
+    );
 }
 
 .side-left .signal-era-card {
@@ -1188,7 +1384,7 @@ body.timeline-body {
 
 .signal-story-name {
   align-items: start;
-  border-bottom: 1px solid rgb(246 230 207 / 8%);
+  border-bottom: 1px solid var(--worldline-subtle-line);
   display: grid;
   gap: 0.55rem;
   grid-template-columns: 0.7rem minmax(0, 1fr);
@@ -1256,7 +1452,7 @@ body.timeline-body {
 
 .signal-era-footer {
   align-items: center;
-  border-top: 1px solid rgb(246 230 207 / 9%);
+  border-top: 1px solid var(--worldline-subtle-line);
   color: var(--signal-muted);
   display: flex;
   font-size: 0.63rem;
@@ -1295,7 +1491,7 @@ body.timeline-body {
 .signal-era-drawer {
   background:
     radial-gradient(circle at 50% 0, hsl(var(--epoch-hue) 64% 52% / 10%), transparent 30%),
-    #0d0f11;
+    var(--worldline-drawer-bg);
   border: 1px solid hsl(var(--epoch-hue) 62% 68% / 22%);
   border-radius: 1rem;
   margin: 0.2rem auto 1.5rem;
@@ -1366,10 +1562,10 @@ body.timeline-body {
 
 .signal-story-cover {
   aspect-ratio: 9 / 16;
-  background: #08090a;
+  background: var(--worldline-cover-bg);
   border: 2px solid var(--story-accent);
   border-radius: 0.6rem;
-  box-shadow: 0 0.8rem 1.8rem rgb(0 0 0 / 34%);
+  box-shadow: 0 0.8rem 1.8rem var(--worldline-shadow);
   display: block;
   overflow: hidden;
   position: relative;
@@ -1396,7 +1592,7 @@ body.timeline-body {
 }
 
 #all-accounts-due .signal-era-node b {
-  background: #020303;
+  background: var(--worldline-node-bg);
   box-shadow: 0 0 0 0.45rem rgb(239 169 79 / 8%), 0 0 2.2rem rgb(239 169 79 / 40%);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.2rem;
@@ -1415,7 +1611,7 @@ body.timeline-body {
 #ordinary-present-and-familiar-lives .signal-era-card::before {
   background: var(--signal-blue);
   border-radius: 999px;
-  color: #091116;
+  color: var(--worldline-badge-ink);
   content: "YOU ARE HERE";
   font-size: 0.52rem;
   font-weight: 900;
@@ -1487,7 +1683,7 @@ body.timeline-body {
 
 .signal-continuation-mark i {
   background: var(--signal-teal);
-  border: 0.35rem solid #0a0c0d;
+  border: 0.35rem solid var(--worldline-marker-center);
   border-radius: 50%;
   box-shadow: 0 0 1.4rem rgb(130 221 192 / 72%);
   height: 1rem;
@@ -1672,11 +1868,11 @@ body.timeline-body {
   }
 
   .signal-legend span:nth-of-type(even) {
-    border-left: 1px solid rgb(246 230 207 / 7%);
+    border-left: 1px solid var(--worldline-subtle-line);
   }
 
   .signal-legend span:nth-of-type(n + 3) {
-    border-top: 1px solid rgb(246 230 207 / 7%);
+    border-top: 1px solid var(--worldline-subtle-line);
   }
 
   .signal-worldline {

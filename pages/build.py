@@ -17,6 +17,7 @@ import markdown
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
 STYLESHEET_PATH = Path(__file__).with_name("styles.css")
+THEME_SCRIPT_PATH = Path(__file__).with_name("theme.js")
 TIMELINE_PATH = Path(__file__).with_name("timeline.json")
 TIMELINE_SCRIPT_PATH = Path(__file__).with_name("timeline.js")
 WORLDLINE_HERO_ART_PATH = Path(__file__).with_name("worldline-hero-art.webp")
@@ -930,6 +931,9 @@ def validate_repository_inventory(
 
 REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
 GITHUB_ICON = '''<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.64 0 8.13c0 3.59 2.29 6.64 5.47 7.71.4.08.55-.17.55-.39 0-.19-.01-.82-.01-1.49-2.01.44-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.59 1.23.83.72 1.23 1.87.88 2.33.67.07-.53.28-.88.51-1.08-1.78-.21-3.64-.9-3.64-4.01 0-.89.31-1.62.82-2.19-.08-.21-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.92c.68 0 1.36.09 2 .28 1.53-1.06 2.2-.84 2.2-.84.44 1.12.16 1.95.08 2.16.51.57.82 1.3.82 2.19 0 3.12-1.87 3.8-3.65 4.01.29.25.54.73.54 1.49 0 1.07-.01 1.93-.01 2.2 0 .22.15.47.55.39A8.03 8.03 0 0 0 16 8.13C16 3.64 12.42 0 8 0Z"/></svg>'''
+SUN_ICON = '''<svg class="theme-icon theme-icon-light" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v2.2M12 19.8V22M4.93 4.93l1.56 1.56M17.51 17.51l1.56 1.56M2 12h2.2M19.8 12H22M4.93 19.07l1.56-1.56M17.51 6.49l1.56-1.56"/></svg>'''
+MOON_ICON = '''<svg class="theme-icon theme-icon-dark" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.2 15.2A8.5 8.5 0 0 1 8.8 3.8a8.5 8.5 0 1 0 11.4 11.4Z"/></svg>'''
+THEME_BOOTSTRAP = '''<script>(function(){var key="story-computing-machine-theme",theme=null;try{theme=localStorage.getItem(key)}catch(error){}if(theme!=="light"&&theme!=="dark"){try{theme=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}catch(error){theme="light"}}document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme}());</script>'''
 
 
 def _page(
@@ -938,11 +942,19 @@ def _page(
     library_href: str,
     timeline_href: str,
     stylesheet_href: str,
+    theme_script_href: str,
     *,
     current: str | None = None,
     script_href: str | None = None,
 ) -> str:
     repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
+    theme_toggle = (
+        '<button class="theme-toggle" type="button" data-theme-toggle '
+        'aria-label="Toggle color theme" title="Toggle color theme">'
+        f'{SUN_ICON}{MOON_ICON}'
+        '<span class="theme-label" data-theme-label="light">Light</span>'
+        '<span class="theme-label" data-theme-label="dark">Dark</span></button>'
+    )
     library_current = ' aria-current="page"' if current == "library" else ""
     timeline_current = ' aria-current="page"' if current == "timeline" else ""
     header = (
@@ -950,7 +962,10 @@ def _page(
         f'<nav class="site-nav" aria-label="Primary">'
         f'<a href="{library_href}"{library_current}>Library</a>'
         f'<a href="{timeline_href}"{timeline_current}>Chronology</a></nav>'
-        f'{repository_link}</header>'
+        f'<div class="site-actions">{theme_toggle}{repository_link}</div></header>'
+    )
+    theme_script = (
+        f'<script src="{html.escape(theme_script_href, quote=True)}" defer></script>'
     )
     script = (
         f'<script src="{html.escape(script_href, quote=True)}" defer></script>'
@@ -961,9 +976,12 @@ def _page(
     return (
         '<!doctype html><html lang="en"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
+        '<meta name="color-scheme" content="light dark">'
+        '<meta name="theme-color" content="#f5f0e7">'
         f'<title>{html.escape(title)}</title>'
+        f'{THEME_BOOTSTRAP}'
         f'<link rel="stylesheet" href="{html.escape(stylesheet_href, quote=True)}">'
-        f'{script}</head><body{body_class}>{header}<main>{body}</main></body></html>'
+        f'{theme_script}{script}</head><body{body_class}>{header}<main>{body}</main></body></html>'
     )
 
 
@@ -1025,6 +1043,7 @@ def render_index(catalog: Catalog) -> str:
         "index.html",
         "timeline.html",
         "styles.css",
+        "theme.js",
         current="library",
     )
 
@@ -1048,6 +1067,7 @@ def render_story(story: Story) -> str:
         "../index.html",
         "../timeline.html",
         "../styles.css",
+        "../theme.js",
     )
 
 
@@ -1590,6 +1610,7 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
         "index.html",
         "timeline.html",
         "styles.css",
+        "theme.js",
         current="timeline",
         script_href="timeline.js",
     )
@@ -1621,6 +1642,7 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     (destination / "stories").mkdir()
     (destination / "covers").mkdir()
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
+    shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
     shutil.copy2(TIMELINE_SCRIPT_PATH, destination / "timeline.js")
     shutil.copy2(WORLDLINE_HERO_ART_PATH, destination / WORLDLINE_HERO_ART_PATH.name)
     (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
