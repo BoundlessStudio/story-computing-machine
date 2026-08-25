@@ -1012,16 +1012,25 @@ class StorySystemTests(unittest.TestCase):
         self.assertTrue(all(count == 1 for count in Counter(placements).values()))
         self.assertEqual(set(placements), set(timeline.story_confidence))
         self.assertEqual(
-            {"the-first-wound", "the-first-kingdom-was-late-on-taxes"},
+            {
+                "daughter-of-the-sun",
+                "the-first-wound",
+                "the-first-kingdom-was-late-on-taxes",
+                "the-small-moon-rose-first",
+                "tenth-world-lesson",
+                "the-count-was-131072",
+                "the-sky-remembers-us-return",
+            },
             set(timeline.story_spans),
         )
 
         chapter_ids = [chapter.id for chapter in timeline.chapters]
-        self.assertEqual("first-wonders", chapter_ids[0])
-        self.assertEqual("joined-sky", chapter_ids[-1])
-        self.assertLess(chapter_ids.index("modern-like-trough"), chapter_ids.index("glass-sea"))
-        self.assertLess(chapter_ids.index("terminal-convergence"), chapter_ids.index("long-zero"))
-        self.assertLess(chapter_ids.index("long-zero"), chapter_ids.index("joined-sky"))
+        self.assertEqual("ancient-guardians", chapter_ids[0])
+        self.assertEqual("second-sky-kingdoms", chapter_ids[-1])
+        self.assertLess(chapter_ids.index("old-modern-age"), chapter_ids.index("glass-sea-age"))
+        self.assertLess(chapter_ids.index("all-accounts-due"), chapter_ids.index("ordinary-present-and-familiar-lives"))
+        self.assertLess(chapter_ids.index("ordinary-present-and-familiar-lives"), chapter_ids.index("joined-sky"))
+        self.assertTrue(all(not chapter.ordered for chapter in timeline.chapters))
 
         placements_by_chapter = {
             chapter.id: [
@@ -1030,17 +1039,65 @@ class StorySystemTests(unittest.TestCase):
             ]
             for chapter in timeline.chapters
         }
-        self.assertLess(
-            placements_by_chapter["arcane-industry"].index("voice-of-silence"),
-            placements_by_chapter["arcane-industry"].index("a-lock-on-the-inside"),
-        )
         self.assertIn(
             "solstice-evening-bell",
-            placements_by_chapter["modern-like-trough"],
+            placements_by_chapter["old-modern-age"],
         )
         self.assertEqual(
             ["the-count-was-131072"],
-            placements_by_chapter["bay-museum-age"],
+            placements_by_chapter["museum-hinge"],
+        )
+        self.assertIn("the-room-that-waited", placements_by_chapter["great-falls-and-salvage"])
+        self.assertIn("apes-in-orbit", placements_by_chapter["orbital-watchers-and-successor-earths"])
+        self.assertIn("the-names-on-the-cups", placements_by_chapter["ordinary-present-and-familiar-lives"])
+        self.assertIn("four-million-falling", placements_by_chapter["great-falls-and-salvage"])
+        self.assertIn("the-night-harvest", placements_by_chapter["monsters-gods-and-avatars"])
+        self.assertIn("voice-of-silence", placements_by_chapter["colleges-and-apprenticeship-reform"])
+        self.assertIn("blade-calls-your-name", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
+        self.assertIn("golden-lion", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
+        self.assertEqual(
+            ["the-small-moon-rose-first"],
+            placements_by_chapter["ravel-bridge"],
+        )
+        self.assertIn("clerics-infernal-ex", placements_by_chapter["roads-markets-and-living-doors"])
+        self.assertEqual(["the-friends-i-built"], placements_by_chapter["constructed-life-at-cinder-annex"])
+        self.assertIn("the-players-above", placements_by_chapter["arcane-infrastructure-and-engineered-peril"])
+        self.assertIn("the-station-between", placements_by_chapter["anomalies-beside-material-zero"])
+        self.assertIn("his-infernal-majesty-says-no", placements_by_chapter["visitors-at-the-door"])
+        self.assertEqual(["tenth-world-lesson"], placements_by_chapter["assignment-bridge"])
+        self.assertIn("realms", placements_by_chapter["threshold-transit-and-unstable-travel"])
+        self.assertEqual(["where-no-unicorn-stands"], placements_by_chapter["second-sky-kingdoms"])
+        states_by_chapter = {
+            chapter.id: chapter.magic_state for chapter in timeline.chapters
+        }
+        self.assertEqual("old-magic", states_by_chapter["all-accounts-due"])
+        self.assertEqual("long-dark", states_by_chapter["ordinary-present-and-familiar-lives"])
+        self.assertEqual("new-magic", states_by_chapter["joined-sky"])
+        state_counts = Counter(
+            chapter.magic_state
+            for chapter in timeline.chapters
+            for _ in (
+                *chapter.stories,
+                *(slug for group in chapter.constellations for slug in group.stories),
+            )
+        )
+        self.assertEqual(
+            {
+                "old-magic": 42,
+                "long-dark": 49,
+                "new-magic": 35,
+                "uncertain": 6,
+            },
+            dict(state_counts),
+        )
+        self.assertEqual(
+            {
+                "fixed": 4,
+                "inferred": 4,
+                "speculative": 49,
+                "unresolved": 75,
+            },
+            dict(Counter(timeline.story_confidence.values())),
         )
 
     def test_timeline_rejects_duplicate_story_placement(self):
@@ -1055,7 +1112,7 @@ class StorySystemTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "repeats already placed stories"):
                 build.load_timeline(catalog, timeline_path)
 
-    def test_timeline_render_is_cover_led_universal_chronology(self):
+    def test_timeline_render_uses_decorative_hero_art(self):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
@@ -1064,29 +1121,90 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(len(catalog.stories), len(story_links))
         self.assertEqual({story.slug for story in catalog.stories}, set(story_links))
         self.assertTrue(all(count == 1 for count in Counter(story_links).values()))
-        self.assertGreaterEqual(
-            rendered.count('<img src="timeline-covers/'),
-            len(catalog.stories),
-        )
-        self.assertIn("A chronology of the shared universe", rendered)
-        self.assertIn("The Modern-like Low-Magic Trough", rendered)
-        self.assertIn("Off-Axis Realms", rendered)
-        self.assertIn("The Long Zero", rendered)
-        self.assertIn('class="timeline-chapter chapter-interval" id="long-zero"', rendered)
-        self.assertIn("≈01", rendered)
-        self.assertIn("Era fixed", rendered)
-        self.assertIn("era membership is established", rendered)
-        self.assertIn('class="timeline-span"', rendered)
-        self.assertIn('data-story-state="candidate"', rendered)
-        self.assertIn('<span class="timeline-story-state">Candidate</span>', rendered)
-        self.assertIn('aria-label="Approximate position 1 in this era band"', rendered)
-        self.assertIn('aria-label="Position unresolved within this era band"', rendered)
-        self.assertNotIn('aria-label="Read ', rendered)
+        self.assertNotIn('<img src="timeline-icons/', rendered)
+        self.assertEqual(len(catalog.stories), rendered.count('<img src="covers/'))
+        self.assertEqual(len(catalog.stories), rendered.count("data-story-marker"))
+        self.assertEqual(len(catalog.stories), rendered.count('class="signal-story-name marker-'))
+        self.assertEqual(len(catalog.stories), rendered.count('class="signal-story-cover"'))
+        self.assertNotIn('class="signal-story-copy"', rendered)
+        self.assertNotIn('class="signal-story-note"', rendered)
+        self.assertNotIn('class="signal-story-arrow"', rendered)
+        self.assertEqual(45, rendered.count("data-era-stop"))
+        self.assertEqual(45, rendered.count('style="--era-hue:'))
+        self.assertEqual(14, rendered.count("data-epoch-section"))
+        self.assertEqual(14, rendered.count('style="--epoch-hue:'))
+        self.assertEqual(14, rendered.count('class="signal-world-texture"'))
+        self.assertEqual(3, rendered.count("data-cycle-link"))
+        self.assertIn('<figure class="signal-hero-art" aria-hidden="true">', rendered)
+        self.assertIn('<img src="worldline-hero-art.webp" alt=""', rendered)
+        hero_start = rendered.index('<figure class="signal-hero-art"')
+        hero_end = rendered.index('</figure>', hero_start)
+        hero_markup = rendered[hero_start:hero_end]
+        self.assertNotIn("<a ", hero_markup)
+        self.assertNotIn("role=", hero_markup)
+        self.assertNotIn("data-hero-", rendered)
+        self.assertNotIn("signal-folded-worldline", rendered)
+        self.assertNotIn("folded-epoch", rendered)
+        self.assertNotIn("folded-hinge", rendered)
+        self.assertNotIn("signal-cycle-diagram", rendered)
+        self.assertNotIn("diagram-baseline", rendered)
+        self.assertNotIn("diagram-stage-label", rendered)
+        self.assertNotIn("diagram_y", rendered)
+        self.assertNotIn("signal-preview", rendered)
+        self.assertNotIn("perfect zero</span>", rendered)
+        self.assertIn("One worldline · 14 civilizational epochs", rendered)
+        self.assertIn("The Worldline", rendered)
+        self.assertIn("World age I", rendered)
+        self.assertIn("World age II", rendered)
+        self.assertIn("World age III", rendered)
+        self.assertIn("Old Magic", rendered)
+        self.assertIn("The Long Dark", rendered)
+        self.assertIn("New Magic", rendered)
+        self.assertIn("Material Refounding", rendered)
+        self.assertIn("Crowns Without Magic", rendered)
+        self.assertIn("The Machine Rise", rendered)
+        self.assertIn("The Great Falls", rendered)
+        self.assertIn("Successor & Orbital Civilizations", rendered)
+        self.assertIn("Magic Refounded", rendered)
+        self.assertIn("The Public-Magic Height", rendered)
+        self.assertIn("Guild Blades, Gaslight Houses &amp; Engineers", rendered)
+        self.assertIn("Synthetic Bodies &amp; War Legacies", rendered)
+        self.assertIn("Great Falls &amp; Salvage", rendered)
+        self.assertIn("Orbital Watchers &amp; Successor Earths", rendered)
+        self.assertIn("The Assignment Bridge", rendered)
+        self.assertIn("Hero &amp; Villain Institutions", rendered)
+        self.assertIn("Second-Sky Kingdoms", rendered)
+        self.assertIn("No magic + networked tech", rendered)
+        self.assertIn("Normals + exceptional actors", rendered)
+        self.assertIn("Humans + synthetics", rendered)
+        self.assertIn("Humans + dragons + slimes", rendered)
+        self.assertIn("New magic + high tech", rendered)
+        self.assertIn("Supers + normals", rendered)
+        self.assertIn("Humans + monsters + gods", rendered)
+        self.assertIn('class="signal-worldline"', rendered)
+        self.assertIn('class="signal-skip-link"', rendered)
+        self.assertIn("Close era indexes", rendered)
+        self.assertIn("Fixed anchor", rendered)
+        self.assertIn("Relative link", rendered)
+        self.assertIn("Compatible candidate", rendered)
+        self.assertIn("Working era fit", rendered)
+        self.assertIn('<strong>Placement evidence</strong>', rendered)
+        self.assertIn('aria-label="Placement evidence legend"', rendered)
+        self.assertIn('aria-label="The Room That Waited"', rendered)
+        self.assertIn('aria-label="The Station Between"', rendered)
         self.assertIn('data-placement-confidence="fixed"', rendered)
         self.assertIn('data-placement-confidence="inferred"', rendered)
         self.assertIn('data-placement-confidence="speculative"', rendered)
         self.assertIn('data-placement-confidence="unresolved"', rendered)
-        self.assertIn("not a publication or reading sequence", rendered.casefold())
+        self.assertNotIn("timeline-cover-frame", rendered)
+        self.assertNotIn("timeline-cover-grid", rendered)
+        self.assertNotIn("timeline-covers/", rendered)
+        self.assertNotIn("Off-Axis", rendered)
+        self.assertNotIn("data-offaxis-drawer", rendered)
+        self.assertNotIn("signal-coda", rendered)
+        self.assertNotIn("The rule of the line", rendered)
+        self.assertNotIn("The rhythm of the line", rendered)
+        self.assertIn('<body class="timeline-body">', rendered)
         self.assertIn('<script src="timeline.js" defer></script>', rendered)
         self.assertIn('<a href="timeline.html" aria-current="page">Chronology</a>', rendered)
 
@@ -1105,6 +1223,10 @@ class StorySystemTests(unittest.TestCase):
             self.assertTrue((output / "timeline.html").is_file())
             self.assertTrue((output / "timeline.js").is_file())
             self.assertTrue((output / "styles.css").is_file())
+            hero_art = output / build.WORLDLINE_HERO_ART_PATH.name
+            self.assertTrue(hero_art.is_file())
+            with build.Image.open(hero_art) as opened_hero_art:
+                self.assertEqual((1536, 1024), opened_hero_art.size)
             self.assertEqual(
                 len(catalog.stories),
                 len(list((output / "stories").glob("*.html"))),
@@ -1113,12 +1235,12 @@ class StorySystemTests(unittest.TestCase):
                 len(catalog.stories),
                 len(list((output / "covers").glob("*.jpg"))),
             )
-            timeline_covers = list((output / "timeline-covers").glob("*.jpg"))
-            self.assertEqual(len(catalog.stories), len(timeline_covers))
-            with build.Image.open(timeline_covers[0]) as timeline_cover:
+            timeline_icons = list((output / "timeline-icons").glob("*.jpg"))
+            self.assertEqual(len(catalog.stories), len(timeline_icons))
+            with build.Image.open(timeline_icons[0]) as timeline_icon:
                 self.assertEqual(
-                    (build.TIMELINE_COVER_WIDTH, build.TIMELINE_COVER_HEIGHT),
-                    timeline_cover.size,
+                    (build.TIMELINE_ICON_SIZE, build.TIMELINE_ICON_SIZE),
+                    timeline_icon.size,
                 )
             self.assertIn(
                 f"{len(catalog.stories)} stored publications",
@@ -1126,7 +1248,7 @@ class StorySystemTests(unittest.TestCase):
             )
             self.assertIn('class="story-grid"', (output / "index.html").read_text(encoding="utf-8"))
             self.assertIn(
-                f"All {len(catalog.stories)} published stories are accounted for below",
+                f"<dd>{len(catalog.stories)}</dd>",
                 (output / "timeline.html").read_text(encoding="utf-8"),
             )
 

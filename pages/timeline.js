@@ -2,49 +2,114 @@
   const timeline = document.querySelector("[data-timeline]");
   if (!timeline) return;
 
-  const buttons = [...timeline.querySelectorAll("[data-timeline-filter]")];
-  const stories = [...timeline.querySelectorAll("[data-placement-confidence]")];
+  const filterButtons = [...timeline.querySelectorAll("[data-timeline-filter]")];
+  const storyLinks = [...timeline.querySelectorAll("[data-story-link]")];
+  const storyMarkers = [...timeline.querySelectorAll("[data-story-marker]")];
+  const eraStops = [...timeline.querySelectorAll("[data-era-stop]")];
+  const search = timeline.querySelector("[data-timeline-search]");
   const result = timeline.querySelector("[data-visible-total]");
+  const collapseButton = timeline.querySelector("[data-collapse-eras]");
+  let activeFilter = "all";
 
-  const applyFilter = (filter) => {
-    let visibleTotal = 0;
+  const normalize = (value) =>
+    (value || "")
+      .normalize("NFKD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLocaleLowerCase();
 
-    stories.forEach((story) => {
-      const visible =
-        filter === "all" || story.dataset.placementConfidence === filter;
-      story.hidden = !visible;
-      if (visible) visibleTotal += 1;
+  const refresh = () => {
+    const query = normalize(search?.value.trim());
+    const visibleSlugs = new Set();
+
+    storyLinks.forEach((link) => {
+      const confidenceMatch =
+        activeFilter === "all" ||
+        link.dataset.placementConfidence === activeFilter;
+      const titleMatch = !query || normalize(link.dataset.title).includes(query);
+      const visible = confidenceMatch && titleMatch;
+      link.hidden = !visible;
+      if (visible) visibleSlugs.add(link.dataset.storySlug);
     });
 
-    timeline.querySelectorAll("[data-story-group]").forEach((group) => {
-      const visible = [...group.querySelectorAll("[data-placement-confidence]")].filter(
-        (story) => !story.hidden,
-      ).length;
-      const count = group.querySelector("[data-group-visible]");
-      if (count) count.textContent = String(visible);
-      group.hidden = visible === 0;
+    storyMarkers.forEach((marker) => {
+      marker.hidden = !visibleSlugs.has(marker.dataset.storySlug);
     });
 
-    timeline.querySelectorAll("[data-timeline-chapter]").forEach((chapter) => {
-      const groups = [...chapter.querySelectorAll("[data-story-group]")];
-      const hidden = groups.length > 0 && groups.every((group) => group.hidden);
-      chapter.hidden = hidden;
-      const stop = timeline.querySelector(`.timeline-orbit a[href="#${chapter.id}"]`);
-      if (stop) stop.closest("li").hidden = hidden;
-    });
-
-    buttons.forEach((button) => {
-      button.setAttribute(
-        "aria-pressed",
-        String(button.dataset.timelineFilter === filter),
+    eraStops.forEach((era) => {
+      const eraLinks = [...era.querySelectorAll("[data-story-link]")];
+      const visible = eraLinks.filter((link) => !link.hidden).length;
+      era.querySelectorAll("[data-era-visible]").forEach((count) => {
+        count.textContent = String(visible);
+      });
+      era.classList.toggle(
+        "is-filter-empty",
+        era.dataset.eraHasStories === "true" && visible === 0,
       );
     });
-    if (result) result.textContent = String(visibleTotal);
+
+    filterButtons.forEach((button) => {
+      button.setAttribute(
+        "aria-pressed",
+        String(button.dataset.timelineFilter === activeFilter),
+      );
+    });
+    if (result) result.textContent = String(visibleSlugs.size);
   };
 
-  buttons.forEach((button) => {
+  filterButtons.forEach((button) => {
     button.addEventListener("click", () => {
-      applyFilter(button.dataset.timelineFilter || "all");
+      activeFilter = button.dataset.timelineFilter || "all";
+      refresh();
     });
   });
+
+  search?.addEventListener("input", refresh);
+
+  eraStops.forEach((era) => {
+    era.addEventListener("toggle", () => {
+      if (!era.open) return;
+      era.closest("[data-epoch-section]")
+        ?.querySelectorAll("[data-era-stop][open]")
+        .forEach((other) => {
+          if (other !== era) other.open = false;
+        });
+    });
+  });
+
+  collapseButton?.addEventListener("click", () => {
+    eraStops.forEach((era) => {
+      era.open = false;
+    });
+  });
+
+  const cycleLinks = [...timeline.querySelectorAll("[data-cycle-link]")];
+  const epochSections = [...timeline.querySelectorAll("[data-epoch-section]")];
+  if ("IntersectionObserver" in window) {
+    const visible = new Map();
+    const updateCurrent = () => {
+      const currentSection = [...visible.entries()]
+        .filter(([, ratio]) => ratio > 0)
+        .sort((a, b) => b[1] - a[1])[0]?.[0];
+      const currentCycle = currentSection?.dataset.cycleSection;
+      cycleLinks.forEach((link) => {
+        if (link.dataset.cycleLink === currentCycle) {
+          link.setAttribute("aria-current", "location");
+        } else {
+          link.removeAttribute("aria-current");
+        }
+      });
+    };
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          visible.set(entry.target, entry.intersectionRatio);
+        });
+        updateCurrent();
+      },
+      { rootMargin: "-20% 0px -62% 0px", threshold: [0, 0.12, 0.35, 0.7] },
+    );
+    epochSections.forEach((section) => observer.observe(section));
+  }
+
+  refresh();
 })();

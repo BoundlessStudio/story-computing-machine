@@ -23,11 +23,21 @@
 ## Modern-like era
 
 - Status: CANON
-- Summary: The low-magic era associated with Nell and Bash that resembles
-  contemporary Earth without necessarily being literal real-world Earth.
-- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q003, Q006)
-- Aliases: Earth era; Nell and Bash era
-- Notes: Its exact Galactic Cycle coordinate is unresolved.
+- Summary: An era-level description for a civilization that resembles
+  contemporary Earth; modern-like culture can recur and does not identify one
+  unique universal coordinate.
+- First established: user decision, 2026-07-22 (`sources/decisions/2026-07-22-universe-grill.md` Q003, Q006);
+  recurrence clarified by explicit user decision, 2026-08-25
+- Aliases: modern-like civilization; Earth-like era
+- Notes:
+  - The Nell and Bash era is one old low-magic modernity before the Glass-Sea
+    era. `Earth era` and `Nell and Bash era` refer specifically to that
+    occurrence when used in its established context.
+  - Our literal modern time is a separate, wholly magicless civilization inside
+    the later Long Dark.
+  - A modern-looking culture with active magic may instead belong to an old
+    magic age or a post-reawakening age; material culture alone does not choose
+    between them.
 
 ## Ravel
 

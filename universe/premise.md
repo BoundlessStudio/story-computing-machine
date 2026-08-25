@@ -12,9 +12,17 @@
   era-bound cultural labels for the same physical world.
 - Notes:
   - The modern-like era associated with Nell and Bash resembles contemporary
-    Earth but is not necessarily our literal Earth.
+    Earth but is not our literal modern time.
   - The Glass-Sea era occurs long after that modern-like era. Ravel's position
     relative to either era remains unresolved.
+  - Modernity and fantasy are recurring civilizational shapes, not unique
+    universal epochs. Different human or posthuman societies may independently
+    reach familiar modern, heroic, magical, industrial, orbital, or feudal
+    forms and leave unrelated falls behind them.
+  - Our ordinary modern time occurs during the Long Dark after old magic ends.
+    Other magicless technological civilizations, collapses, and refoundings
+    occupy different parts of that immense interval; magic-active modernities
+    must occur before the extinction or after the joined-sky reawakening.
   - Other dimensions and timelines may exist, but none is required to connect
     these three eras.
   - Millions of years is the normal scale for civilizational layers, with no
