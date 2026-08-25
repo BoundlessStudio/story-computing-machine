@@ -39,10 +39,12 @@ prose controls story facts during cover generation unless the prompt explicitly
 makes an image detail binding.
 
 An existing story directory containing `05-story.md` uses the supported bundle
-format. Its `story.json` `canon` flag alone controls editability: `canon: false`
-stories may receive a localized edit or named replacement on an explicit user
-request, while `canon: true` locks the story and every bundle file against direct
-AI edits. An agent may unlock it only through the independent canon-state action
+format. Canon state alone controls editability in both layouts: `story.md`
+frontmatter is authoritative for a current-format story, and `story.json` is
+authoritative for a bundle-format story. A `canon: false` story may receive an
+explicitly requested localized edit or named replacement, while `canon: true`
+locks every file in the story package against direct human or AI edits. An
+agent may unlock it only through the separate, explicit canon-state action
 defined below. Extra bundle files are historical residue from the retired
 pipeline, not lifecycle authority. The title-image workflow may add or replace
 `title-image.jpg` beside a non-canon bundle without reopening the prose. Pages
@@ -55,11 +57,11 @@ bundle-format prose.
   before interpreting canon.
 - `universe/style-guide.md` is the binding narrative policy. Current scaffolds
   apply its prospective craft profile through the outline, writer, and reviewer
-  skills; the profile alone never reopens a completed story. A completed story
-  changes only through an explicitly named localized bundle edit or the
-  remove-then-create replacement workflow. A bundle-format story's `story.json`
-  canon flag, rather than its age, layout, status, or process metadata, controls
-  whether work may begin.
+  skills; the profile alone never reopens a completed story. A completed
+  non-canon story changes only through an explicitly named localized edit or
+  the remove-then-create replacement workflow. The authoritative canon flag,
+  rather than age, layout, status, editor identity, or process metadata,
+  controls whether work may begin.
 - `stories/NAMES.md` is the frozen name baseline from earlier production, not canon.
 - Current `review.md` files extend production memory for new people and places.
 - Plans, reviews, prompts, source notes, and non-canon stories never establish
@@ -67,8 +69,8 @@ bundle-format prose.
 
 ## Branches
 
-Before starting any new story or replacement, make branch setup the first
-repository action:
+Before starting any new story, replacement, or AI-performed story edit, make
+branch setup the first repository action:
 
 1. Switch to `main`.
 2. Pull the latest changes from `origin/main` with a fast-forward-only pull.
@@ -78,8 +80,8 @@ repository action:
    as the working directory for the coordinator and every delegated agent for
    the rest of the story workflow.
 
-Do not scaffold, inspect a replacement source for production, or modify story
-files until this sequence is complete. Resolve and retain the worktree's absolute path before
+Do not scaffold, inspect a replacement or edit source for production, or modify
+story files until this sequence is complete. Resolve and retain the worktree's absolute path before
 delegating, and include that path in every agent assignment so no story work
 lands in the primary checkout. Run all validation, capture, Git, push, and pull
 request commands from the worktree. If local changes prevent switching the
@@ -89,17 +91,19 @@ occupied, stop and ask the user how to preserve or reuse it. Never change
 through a pull request. Git is the history; do not create manifests, ledgers,
 receipts, release certificates, or duplicate lifecycle records.
 
-## Canon lock and bundle editing
+## Canon lock and story editing
 
-The repository owner may manually edit or overwrite any bundle-format story file. No
-change to this instruction file is required before or after that manual action.
-For AI work, inspect the named bundle-format story's `story.json` before reading for
-production. When `canon` is `false`, an explicit request to make a localized
-edit to that named story is sufficient authorization; do not require a special
-waiver or an amendment to `AGENTS.md`. Route a whole-story remake, rewrite, or
-overwrite through **Replacement workflow**. When `canon` is `true`, do not directly
-edit, overwrite, regenerate, or remove any story-bundle file. The only allowed
-preparatory mutation is an independent unlock action that changes the story's
+Humans and AI may directly patch or edit a story only while its authoritative
+marker says `canon: false`. For AI work, inspect only the named story's canon
+marker before reading it for production: `story.md` frontmatter for current
+format or `story.json` for bundle format. When the marker is `false`, an
+explicit request for a localized edit to that named story is sufficient AI
+authorization; do not require a special waiver or an amendment to `AGENTS.md`.
+Route a whole-story remake, rewrite, or overwrite through **Replacement
+workflow**. When the marker is `true`, reject the edit request and do not edit,
+overwrite, regenerate, or remove any file in the story package. An edit request
+does not imply permission to unlock. The only allowed preparatory mutation is a
+separately and explicitly requested unlock action that changes the
 authoritative canon marker from `true` to `false`.
 
 If a source marker already says `canon: false` while the publication catalog
@@ -108,10 +112,10 @@ difference, treat the story as locked and stop for an explicit reconciliation
 ruling. Never exploit an unexplained false marker or run capture in a way that
 silently demotes the published canon state.
 
-An explicit request to unlock a named story authorizes that action. An explicit
-request to edit or rewrite a named canon story also authorizes the agent to
-perform the unlock first unless the user says to preserve canon. The unlock
-must be its own verified patch and commit, changing only the canon marker:
+An explicit request to unlock a named story authorizes that action. A request
+to edit or rewrite a named canon story does not; reject it and ask for a
+separate unlock request if the user wants to make the story non-canon. The
+unlock must be its own verified patch and commit, changing only the canon marker:
 `story.json` for a bundle-format story or `story.md` frontmatter for a current-format story.
 Do not combine the unlock with prose, cover, review, catalog, captured-page, or
 universe edits. Once the unlock is complete, treat the story as non-canon and
@@ -128,22 +132,29 @@ Unlocking a story does not demote or erase facts already recorded in
 `universe/` as `LOCKED` or `CANON`. Those entries remain authoritative until a
 separate user-approved retcon changes them.
 
-For an AI-performed bundle edit:
+For an AI-performed localized story edit:
 
 1. Limit authority to the named story and the files or changes the user
    authorized. Complete the normal branch and dedicated worktree sequence
    before reading for production or modifying the story.
-2. Edit the authorized bundle prose directly. Preserve the bundle layout and do
-   not migrate it to the current four-file format or create process artifacts.
-   Leave historical bundle files unchanged unless the user explicitly includes
-   them in the localized edit.
+2. Edit the authorized prose directly and preserve its layout. For current
+   format, patch `story.md`; for bundle format, patch the authorized prose file
+   without migrating it to the current four-file format. Do not create process
+   artifacts. Leave other story files and historical bundle files unchanged
+   unless the user explicitly includes them or the current-format review loop
+   requires a fresh `review.md` for the changed prose.
 3. Use the smallest edit consistent with the request. Do not broaden a
    localized change into a general modernization pass; route whole-story work
    through **Replacement workflow**.
-4. Check the resulting prose and diff directly. Current-format validation and
-   prior bundle review records do not certify changed bundle prose. Run only
-   compatible targeted checks, and state plainly when an old review or captured
-   Pages snapshot may now be stale.
+4. Check the resulting prose and diff directly. For current format, run
+   `Test-Stories.ps1 -Story <slug> -Phase PreReview`, obtain a fresh independent
+   review for changed prose, and run final validation after `PASS`; a targeted
+   `REVISE` may be repaired through the ordinary writer/reviewer loop without a
+   replacement. For bundle format, current-format validation and prior bundle
+   review records do not certify changed prose, so run only compatible targeted
+   checks. In either layout, state plainly when an old review, cover, or
+   captured Pages snapshot may now be stale, and do not refresh publication
+   artifacts until the changed story has the required passing review.
 5. Even for a `canon: false` story, do not silently contradict shared authority.
    If the requested edit would change a fact represented in `LOCKED` or `CANON`
    universe notes, stop for the separate canon or retcon ruling. Prose-only
@@ -359,16 +370,16 @@ Use `story-create` when the user explicitly requests a whole-story remake,
 rewrite, overwrite, or replacement of one named completed story. Replacement
 means removing the named package and then creating a clean current-format story;
 it is not an in-place prose edit and has no preservation scopes. A localized
-edit to a named non-canon bundle-format story remains governed by **Canon lock
-and bundle editing**.
+edit to a named non-canon story in either layout remains governed by **Canon
+lock and story editing**.
 
 1. Complete the normal `main` update, `codex/story-<slug>` branch, and sibling
    worktree sequence before inspecting story material for production. Read only
    the named story's authoritative canon marker first. If it is missing,
    invalid, or ambiguous, stop for user direction.
-2. If the marker is `canon: true`, complete the independently verified
-   canon-marker-only unlock patch and commit before doing anything else. The
-   unlock changes no prose, cover, review, publication, or universe file.
+2. If the marker is `canon: true`, reject the replacement request and stop. The
+   request does not authorize an unlock; the user must request the independent
+   canon-marker-only unlock action separately before replacement work can begin.
 3. Before removing the package, preserve every verbatim user-authored prompt or
    request block and every associated reference-image inventory, then preserve
    the new replacement request and its references. Discard only machine-owned
@@ -510,9 +521,10 @@ authoritative `canon` flag to `true` in `story.md` frontmatter or bundle-format
 `story.json`. A conflict with `LOCKED` canon stops for a user ruling. Git records
 the transaction; no separate delta or promotion file is needed.
 
-`canon: true` is also the story-edit lock. Agents must not directly modify any
-content or bundle file while that state is true. To revise the story, first use
-the independent unlock action in **Canon lock and bundle editing**; the
+`canon: true` is also the story-edit lock for humans and AI. Reject direct edit
+requests while that state is true; they do not authorize an implicit unlock.
+To make later revision possible, the user must separately request the
+independent unlock action in **Canon lock and story editing**; the
 canon-marker-only patch and commit must complete before any story change begins.
 That unlock makes the story editable but does not itself alter authoritative
 `universe/` entries.
