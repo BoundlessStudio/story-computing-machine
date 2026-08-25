@@ -672,3 +672,60 @@
   - The North Rise and every observed component are ordinary, nonliving,
     nonmagical, and non-agentic. Its architecture establishes no general civic
     lift design or relationship to another machine, location, or power system.
+
+## Orison
+
+- Status: LOCKED
+- Summary: Orison is an ancient city that floated above the Inner Sea until a
+  reactor-and-lift failure permanently grounded it in the water.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Orison's resident-population line read 4,083,612 on the morning of the
+    disaster, before uncounted visitors. Residents locally celebrated it as
+    their greatest wonder.
+  - Before the fall, six concentric lift rings supported a city containing
+    dense housing, transit, hospitals, schools, workshops, reservoirs, civic
+    services, and six reactor blocks.
+  - The impact flooded lower streets and left the city settled unevenly. The
+    control room, not necessarily the whole city, rested at a measured
+    seven-degree southward cant in the immediate aftermath.
+  - Orison's exact altitude, construction date, builders, original purpose,
+    jurisdiction, civil era, prior population history, long-term habitability,
+    and relationship to another established city or system remain unresolved.
+
+## Inner Sea
+
+- Status: LOCKED
+- Summary: The Inner Sea is the sea immediately beneath Orison into which the
+  city's detached Low Keels and grounded main structure fell.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Rescue vessels approached Orison across the sea from windward after the
+    landing. Continued cooling of Reactor Four required a contamination
+    boundary across part of the water.
+  - The Inner Sea's extent, shores, ecology, surrounding polities, other names,
+    and relationship to the Glass Sea or any other established body of water
+    remain unresolved. Shared imagery establishes no identity or connection.
+
+## Orison's Low Keels and shelter routes
+
+- Status: LOCKED
+- Summary: Orison's detachable Low Keels formed an inhabited and industrial
+  lower city beneath the oldest ring deck, with Blue Deck serving as an upward
+  emergency-shelter boundary during the fall.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Low Keels; Blue Deck
+- Notes:
+  - The Low Keels contained freight vaults, reservoirs, sewage works,
+    workshops, and stacked housing. Keel South Three contained Paz's clinic.
+  - From South Three, maintenance stair K and the central paired shafts led
+    upward while west crossways became unsafe as the city tilted. Stair K's
+    restriction was removed for the whole clinic block during the evacuation.
+  - The story does not establish a complete city map, total number of Keels,
+    every section's function, routine route-access law, or a general design for
+    another floating city.

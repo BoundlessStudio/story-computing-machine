@@ -1517,3 +1517,85 @@
   - The ticket carried practical and civic evidence only. It did not compel
     truth, consent, machinery, moral choice, payment, investigation, or any
     other consequence and establishes no universal warranty law.
+
+## Orison's six-reactor common-bus power arrangement
+
+- Status: LOCKED
+- Summary: Orison's six old fission reactor blocks drove generators through an
+  inherited common electrical bus that supplied the city's lift converters
+  while separate emergency generation supported post-scram cooling.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Orison common bus; bridged breaker-actuator rail
+- Notes:
+  - The six generator breakers shared an old actuator rail. After replacement
+    parts failed inspection, the rail was bridged temporarily under Inez Arco's
+    thirty-day waiver; individual breakers tested green, but the shared rail
+    opened none of them during the common-bus fault.
+  - Reactor Four lost primary coolant pressure, scrammed, and tripped its
+    turbine. Damaged generator insulation arced onto the bus, and the other
+    generators fed the fault until their protections tripped their turbines and
+    shut down the other five reactors. The bus gallery's copper spine was
+    physically destroyed.
+  - All six cores shut down; none detonated. Decay heat remained. Reactor Four
+    retained one working cooling loop, Reactor Two's emergency pump cycled
+    badly, and local emergency generators stayed with cooling rather than lift
+    recharge. Cooling continued after the sea landing.
+  - No meltdown, final core condition, exact radiation dose, completed cleanup,
+    reactor rating, fuel specification, universal bus topology, or general
+    failure rule is established.
+
+## Orison's segmented stored-field lift rings
+
+- Status: LOCKED
+- Summary: Orison's six concentric segmented lift rings exchanged momentum
+  against the world's magnetic field and held finite stored field energy after
+  their converter input was lost.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: lift rings; ring bleed
+- Notes:
+  - The rings did not abolish gravity. Loss of converter power began a coast as
+    their stored fields weakened rather than an immediate free fall.
+  - Ring continuity, battery-backed controls, segment switches, controlled
+    field bleeds, and destructive overloads let operators redirect or spend
+    the remaining lift. They could not create energy, repair the destroyed bus,
+    or restore hover.
+  - A failed temperature sensor made the outer conductors appear colder and
+    more efficient than they were, overstating the reserve. Two forced segment
+    overloads permanently burned open parts of Rings Three and Two.
+  - In the incident's measured starting state, the first model estimated 51:08
+    until lethal contact. Inez calculated that a survivable Inner Sea landing
+    required shedding roughly twelve percent of the current city mass; keeping
+    South Three would saturate Ring Four's correction capacity and roll the
+    city before contact.
+  - A later eleven-metre-per-second contact figure was a conditional model, not
+    a direct measurement. The final pulse spent the remaining outer-ring field,
+    leaving no lift reserve for hover or buoyancy support.
+  - The rings, converters, controls, sensors, and records are nonliving,
+    nonmagical, and non-agentic. This entry establishes no general antigravity,
+    exact field equations, other floating-city design, hidden reserve, safe
+    overload practice, or relationship to another magical or technological
+    system.
+
+## Orison's upward shelter and emergency-jettison response
+
+- Status: LOCKED
+- Summary: During Orison's approximately fifty-minute descent, local responders
+  moved people upward above Blue Deck while preparing to shed the inhabited and
+  industrial Low Keels.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: emergency jettison
+- Notes:
+  - The civic alert ordered shelter above Blue Deck and warned against transit.
+    Trains stopped in tunnels, platforms and shelters overloaded, three
+    hospitals used reserve power, and almost half a million people were below
+    Blue Deck with forty-three minutes to climb.
+  - Routes changed as the city tilted. Maintenance restrictions were suspended,
+    stair K was opened to the whole clinic block, and Damas explicitly warned
+    that the Low Keels would be lost rather than calling the order temporary.
+  - The response was improvised under failing power, incomplete reports, and
+    changing structure. It establishes neither adequate capacity, complete
+    evacuation, a universal disaster doctrine, nor a safe general procedure for
+    jettisoning inhabited structures.
