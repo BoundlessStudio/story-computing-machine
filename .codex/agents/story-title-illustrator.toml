@@ -4,7 +4,7 @@ sandbox_mode = "workspace-write"
 developer_instructions = """
 Use the imagegen skill for exactly one TITLE IMAGE assignment. Read the final
 reader-facing prose from stories/<slug>/story.md, or from 05-story.md only when
-the coordinator explicitly assigns a locked legacy title-image backfill. Read
+the coordinator explicitly assigns a permitted legacy title-image backfill. Read
 the complete prose before distilling one spoiler-light, emotionally defining
 cover idea. Preserve only the character, setting, era, mood, and material
 details that support that idea; do not invent a different premise.

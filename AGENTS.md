@@ -36,12 +36,16 @@ prompt and universe authority control any conflict during outlining; the final
 prose controls story facts during cover generation unless the prompt explicitly
 makes an image detail binding.
 
-Any existing story directory containing `05-story.md` is a locked legacy
-bundle. Do not edit, migrate, validate, or regenerate its bundle files. Its
-extra files are historical residue from the retired pipeline. The title-image
-workflow may add or replace only `title-image.jpg` beside a legacy bundle;
-that asset does not alter or reopen the bundle. Only the explicit Pages capture
-command understands the legacy layout; normal story validation does not.
+Any existing story directory containing `05-story.md` is a legacy bundle. Its
+editability is determined by its canon state in `story.json`, not by its legacy
+layout: `canon: false` stories may be edited or rewritten on an explicit named
+user request, while `canon: true` locks the story and every bundle file against
+direct AI edits. An agent may unlock it only through the independent canon-state
+action defined below. Its extra files are historical residue from the retired
+pipeline. The title-image workflow may add or replace `title-image.jpg` beside
+a non-canon legacy bundle without reopening the prose. Only the explicit Pages
+capture command understands the legacy layout; normal story validation does
+not.
 
 ## Authority
 
@@ -50,8 +54,9 @@ command understands the legacy layout; normal story validation does not.
 - `universe/style-guide.md` is the binding narrative policy. Current scaffolds
   apply its prospective craft profile through the outline, writer, and reviewer
   skills; the profile alone never reopens a completed story. Only the explicit
-  rewrite workflow may reopen a named non-canon current story. Locked legacy
-  bundles remain closed.
+  rewrite workflow may reopen a named non-canon current story. A legacy story's
+  `story.json` canon state, rather than its age or layout, controls whether its
+  prose may be reopened.
 - `stories/NAMES.md` is the frozen name baseline for legacy stories, not canon.
 - Current `review.md` files extend production memory for new people and places.
 - Plans, reviews, prompts, source notes, and non-canon stories never establish
@@ -81,6 +86,62 @@ occupied, stop and ask the user how to preserve or reuse it. Never change
 `stories/` or `universe/` in the primary `main` checkout; merge the story branch
 through a pull request. Git is the history; do not create manifests, ledgers,
 receipts, release certificates, or duplicate lifecycle records.
+
+## Canon lock and legacy editing
+
+The repository owner may manually edit or overwrite any legacy story file. No
+change to this instruction file is required before or after that manual action.
+For AI work, inspect the named legacy story's `story.json` before reading for
+production. When `canon` is `false`, an explicit request to edit, overwrite, or
+rewrite that named story is sufficient authorization; do not require a special
+waiver or an amendment to `AGENTS.md`. When `canon` is `true`, do not directly
+edit, overwrite, regenerate, or remove any story-bundle file. The only allowed
+preparatory mutation is an independent unlock action that changes the story's
+authoritative canon marker from `true` to `false`.
+
+An explicit request to unlock a named story authorizes that action. An explicit
+request to edit or rewrite a named canon story also authorizes the agent to
+perform the unlock first unless the user says to preserve canon. The unlock
+must be its own verified patch and commit, changing only the canon marker:
+`story.json` for a legacy story or `story.md` frontmatter for a current story.
+Do not combine the unlock with prose, cover, review, catalog, captured-page, or
+universe edits. Once the unlock is complete, treat the story as non-canon and
+begin any requested content work as a later action. If the relevant state file
+is missing, invalid, or has no unambiguous canon state, stop for user direction
+instead of inferring it from the layout. A review request, critique, general
+approval to improve stories, or an unnamed request authorizes neither an unlock
+nor an edit.
+
+Unlocking a story does not demote or erase facts already recorded in
+`universe/` as `LOCKED` or `CANON`. Those entries remain authoritative until a
+separate user-approved retcon changes them.
+
+For an AI-performed legacy edit:
+
+1. Limit authority to the named story and the files or changes the user
+   authorized. Complete the normal branch and dedicated worktree sequence
+   before reading for production or modifying the story.
+2. Edit the authorized legacy file directly. Preserve the legacy layout and do
+   not run `prepare-rewrite.ps1`, migrate it to the current four-file format, or
+   create process artifacts. Leave historical bundle files unchanged unless
+   the user explicitly includes them in the override.
+3. Use the smallest edit consistent with the request. For a whole-file
+   overwrite or whole-story rewrite, the user's explicit instruction supplies
+   the needed authority; for a localized change, do not broaden it into a
+   general modernization pass.
+4. Check the resulting prose and diff directly. Current-story validation and
+   prior legacy review records do not certify changed legacy prose. Run only
+   compatible targeted checks, and state plainly when an old review or captured
+   Pages snapshot may now be stale.
+5. Even for a `canon: false` story, do not silently contradict shared authority.
+   If the requested edit would change a fact represented in `LOCKED` or `CANON`
+   universe notes, stop for the separate canon or retcon ruling. Prose-only
+   changes that preserve established facts need no such ruling.
+
+The current-format rewrite workflow below remains separate. Its rejection of a
+`05-story.md` directory means that its scaffold, selection contract, validator,
+and review machinery are incompatible with the legacy layout; it is not a
+content lock on a non-canon legacy story.
 
 ## `[WP]` workflow
 
@@ -290,9 +351,12 @@ Narrative texture and Anti-default remain required.
 Use `story-rewrite` only when the user explicitly requests a rewrite of one
 named completed current story. REWRITE may be a whole-story rebuild, a
 whole-story reshape, or a selective prose edit; REVISE remains the narrow
-blocking-fix loop after review. Reject directories containing `05-story.md`.
-Reject `canon: true` unless the user first resolves a separate canon or retcon
-decision.
+blocking-fix loop after review. A directory containing `05-story.md` is not
+eligible for this current-format workflow: route the named request through
+**Canon lock and legacy editing** when its `story.json` has `canon: false`. If
+either a legacy or current story has `canon: true`, do not edit its content or
+other files; perform and verify the independent canon-only unlock first when
+authorized, then start the rewrite as a later action.
 
 1. Complete the branch sequence above with `codex/rewrite-<slug>` and a sibling
    worktree before reading story files. Verify the prior PASS and package
@@ -456,6 +520,13 @@ and direct edits to the smallest relevant `universe/*.md` entries. Then set
 `canon: true` in `story.md`. A conflict with `LOCKED` canon stops for a user
 ruling. Git records the transaction; no separate delta or promotion file is
 needed.
+
+`canon: true` is also the story-edit lock. Agents must not directly modify any
+content or bundle file while that state is true. To revise the story, first use
+the independent unlock action in **Canon lock and legacy editing**; the
+canon-marker-only patch and commit must complete before any story change begins.
+That unlock makes the story editable but does not itself alter authoritative
+`universe/` entries.
 
 ## Pages
 

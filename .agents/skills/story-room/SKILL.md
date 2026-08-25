@@ -16,7 +16,12 @@ implemented by the binding style defaults, compact outline handoff, prose skill,
 and dialogue-aware review.
 Completion alone never authorizes reopening. Route to `story-rewrite` only when
 the user explicitly requests a rewrite of one named non-canon current story.
-Locked legacy bundles remain immutable.
+For a named legacy story, follow `AGENTS.md`'s **Canon lock and legacy editing** contract:
+`story.json` with `canon: false` permits an explicitly requested direct edit or
+rewrite. `canon: true` prohibits direct changes to every bundle file; an
+authorized agent must complete the independent canon-marker-only unlock before
+starting any content work. The old layout is a tooling boundary, not an
+immutability rule.
 
 ## CREATE handoff reference
 
