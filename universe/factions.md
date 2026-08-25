@@ -642,3 +642,50 @@
   - The council's composition, appointment procedure, ordinary staffing,
     jurisdiction, and later response remain unresolved. The office is neither
     a divine night court nor a universal magical caste.
+
+## Black Reed League
+
+- Status: LOCKED
+- Summary: The Black Reed League is the military organization that seized
+  Greyglass and advanced on Redwater's capital before being stopped at
+  Ninepin.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Black Reed; the League
+- Notes:
+  - The reported invasion train included about forty-five hundred foot, six
+    hundred horse, engineers, siege wagons, and a long southern supply line.
+    Its immediate objectives were Redwater's capital granaries and river-lock
+    tariffs.
+  - At Ninepin its cavalry and numerical width could not deploy across the
+    marsh, while two disabled siege wagons blocked the firm center under
+    northern bows. After two days of probes, the force withdrew toward
+    Greyglass because the road remained closed and its supply line was
+    stretched.
+  - The League retained Greyglass after the retreat. Its leaders, government,
+    homeland, culture, complete strength, ultimate motive, and later campaign
+    remain unresolved.
+
+## Harrowfast road-marshal network
+
+- Status: LOCKED
+- Summary: Harrowfast's road-marshal coordinates a human network of depots,
+  keepers, remount masters, captains, and reeves whose matched commitments can
+  support or halt a royal winter deployment.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: road-marshal office
+- Notes:
+  - During the Ninepin crisis, Sigrun's route ledger matched six depot seals
+    and the marks of twelve captains. Keepers and remount masters released
+    supplies only when their records agreed with hers.
+  - Gorm could call troops and attempt to remove Sigrun, but the participating
+    keepers and captains would stop until seven reeves appointed a replacement;
+    their notices required ten days of road during a six-day emergency.
+  - Three captain-representatives countersigned rights to refuse pillage,
+    pursuit beyond the border, or abandonment of Ninepin. The network's power
+    came from coordinated people and supplies rather than independent agency in
+    ledgers, seals, badges, or royal furniture.
+  - The office's usual selection procedure, peacetime reach, individual keeper
+    count, reeve jurisdictions, later holder, and relationship to other road or
+    military institutions remain unresolved.

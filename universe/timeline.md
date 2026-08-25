@@ -1190,3 +1190,62 @@
      currently admitted magic-active material-world history. Its civil date,
      Galactic Cycle coordinate, exact interval length, and ordering relative to
      unrelated post-extinction nonmagical events remain unresolved.
+
+## Undated Ninepin campaign
+
+- Status: LOCKED
+- Summary: In an undated magic-active era before the No More Magic extinction,
+  Redwater and Harrowfast formed a bounded emergency compact that stopped the
+  Black Reed League's siege train at Ninepin without completing a coerced royal
+  marriage.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Ninepin compact; defense of Ninepin; Redwater–Harrowfast campaign
+- Notes:
+  1. Prince Lysander released thirteen hundred seasonal soldiers when Redwater
+     lacked grain for both troops and households, then discounted warnings that
+     exposed the danger. The Greyglass marshal sold the gate, most of four
+     hundred border guards were captured, and a Black Reed force of about
+     forty-five hundred foot and six hundred horse advanced toward the capital.
+  2. With one hundred and eighty watch and seventy riders or couriers remaining,
+     Lysander ordered three villages evacuated, put sluice workers under the
+     watch, and assembled one hundred and twenty grain carts before seeking
+     Harrowfast's army on a six-day deadline.
+  3. Gorm offered Sigrun in marriage and demonstrated his six-heartbeat
+     scar-lattice strength by dragging an iron-banded table across the hall
+     doors. Sigrun refused the marriage; Lysander eventually accepted that
+     refusal and rejected Gorm's attempts to substitute either of her grown
+     sisters.
+  4. The signed compact deployed sixteen hundred Harrowfast combat soldiers and
+     two hundred and forty support workers under Sigrun. Harrowfast supplied
+     three days of grain; Redwater supplied carts and fodder; no foraging was
+     permitted; three captain-representatives could refuse pillage, border
+     pursuit, or abandonment of Ninepin.
+  5. One third of Redwater's river-lock tolls for seven years funded wages,
+     injured households, roads, and the three displaced villages. Lysander
+     accepted a public tribunal on his demobilization, Greyglass, and concealed
+     warning, including any lawful succession decision. The marriage clause was
+     struck and later formally voided with no surviving debt.
+  6. Six depots, remounts, staged columns, a verified ridge detour, Redwater's
+     day-four carts, and Lysander's household horses brought the northern host
+     to Ninepin on the fifth night tired, fed, and together.
+  7. Sigrun delayed flooding until the last civilians and scouts were clear,
+     then used the causeway's two culverts, marsh shoulders, wagon barricade,
+     bows, rotating units, and continued supply to stop the larger force. A
+     jammed east gate was freed by Lysander and six watch members; five returned
+     after the release.
+  8. Two Black Reed siege wagons blocked the road. After two days of probes, the
+     League withdrew toward Greyglass, and Sigrun enforced the compact's
+     no-pursuit boundary. Eleven northerners and four Redwater defenders died;
+     three roofs burned, families returned to damp homes, and the toll fund
+     began paying costs.
+  9. Before the twentieth day the northern columns began returning home. The
+     capital and granaries remained safe, but Greyglass remained occupied,
+     Lysander's tribunal and succession were unresolved, Sigrun still faced the
+     seven reeves, and Gorm had not answered her dispatches. Lysander gained
+     permission to send Sigrun one personal letter after the tribunal, with no
+     promise of an answer beyond her choice.
+  10. The campaign precedes the terminal No More Magic extinction. Its civil
+      date, Galactic Cycle coordinate, ordering relative to other pre-extinction
+      histories, and relationship to any other kingdom, war, road, marsh,
+      political office, or magical system remain unresolved.

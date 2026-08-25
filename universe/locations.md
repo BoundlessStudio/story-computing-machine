@@ -912,3 +912,91 @@
   - The realm's name, full inhabitants, origin, geography, cosmology, civil
     date, Galactic Cycle coordinate, relationship to other external realities,
     and later history remain unresolved.
+
+## Redwater
+
+- Status: LOCKED
+- Summary: Redwater is Lysander's local kingdom, whose capital granaries and
+  river locks survived the Black Reed invasion after its field army collapsed
+  at Greyglass.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: None
+- Notes:
+  - Before the invasion Lysander released thirteen hundred seasonal soldiers.
+    Four hundred border guards were then defeated or captured at Greyglass,
+    leaving one hundred and eighty city watch and seventy riders or couriers as
+    the kingdom's available force.
+  - The capital lies north of Ninepin Causeway and depends on river locks whose
+    tolls also affect Harrowfast's iron trade. Three villages stand along the
+    Ninepin approach and were evacuated during the campaign.
+  - Redwater supplied one hundred and twenty grain carts, fodder, sluice crews,
+    watch members, household horses, and one third of its river-lock tolls for
+    seven years under the emergency compact.
+  - The capital and granaries remained untaken, but Greyglass remained in Black
+    Reed hands when the northern host began returning home. Redwater's wider
+    geography, dynasty, council composition, later military recovery, and
+    tribunal result remain unresolved.
+
+## Harrowfast
+
+- Status: LOCKED
+- Summary: Harrowfast is Gorm's northern kingdom, whose distributed winter-road
+  institutions supplied Sigrun's army for the defense of Redwater.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: the North
+- Notes:
+  - Gorm's hall and Sigrun's road-marshal office are in Harrowfast. The kingdom
+    trades iron through Redwater's river locks and therefore had an independent
+    interest in preventing Black Reed control of the tariffs.
+  - A prepared road of roughly one hundred and forty miles, six depots,
+    remounts, staged yards, and participating keepers and captains supported the
+    five-day winter deployment to Ninepin without opening Harrowfast's northern
+    passes.
+  - The story establishes no permanent Redwater merger, occupation, annexation,
+    marriage alliance, or transfer of toll ownership to Gorm. Harrowfast's
+    borders, capital name, wider government, population, and later relations
+    with Redwater remain unresolved.
+
+## Greyglass and the Frostroad
+
+- Status: LOCKED
+- Summary: Greyglass is Redwater's betrayed border gate, and the Frostroad is
+  the prepared winter route linking the Redwater crisis to Harrowfast.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Greyglass; Frostroad
+- Notes:
+  - Greyglass fell after its unnamed marshal sold the gate. Most of its four
+    hundred border guards were captured in their beds, and survivors came south
+    without weapons.
+  - The Black Reed League retained Greyglass after withdrawing from Ninepin.
+    The marshal's identity, motive, later fate, and the gate's recovery remain
+    unresolved.
+  - The Frostroad's six-depot route supported the northern host's staged march.
+    A cracked river shelf forced a verified seven-mile ridge detour, and the
+    road's exact endpoints and ordinary-season operation remain unspecified.
+
+## Ninepin Causeway and Reedmarsh
+
+- Status: LOCKED
+- Summary: Ninepin Causeway is a narrow raised road across Reedmarsh whose firm
+  center, floodable shoulders, and two culverts enabled the defense of
+  Redwater's capital.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Ninepin; Reedmarsh
+- Notes:
+  - The causeway rises about a man's height above black marsh water and carries
+    the only firm local approach wide enough for the Black Reed siege train.
+    Two culverts and a maintenance cut run beneath its shoulders.
+  - Three nearby villages were evacuated before Sigrun staged the culvert
+    releases. One east-gate brace jammed; its removal cost one Redwater watch
+    member's life and helped soften the road around two blocking siege wagons.
+  - Redwater watch held the repaired barricade while families returned to damp
+    houses. The causeway's builders, exact location within Redwater, later
+    repairs, and relationship to any other marsh or named road remain unknown.
+  - Rimegate is a separate place known only through Gorm and
+    Sigrun's attributed account of his earlier coal-barricade coercion; its
+    geography and later history are unresolved.
