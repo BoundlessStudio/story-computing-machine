@@ -12,16 +12,23 @@ from pathlib import Path
 from typing import Any, Iterable
 
 import markdown
+from PIL import Image, ImageOps
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
 STYLESHEET_PATH = Path(__file__).with_name("styles.css")
+TIMELINE_PATH = Path(__file__).with_name("timeline.json")
+TIMELINE_SCRIPT_PATH = Path(__file__).with_name("timeline.js")
+TIMELINE_COVER_DIRECTORY = "timeline-covers"
+TIMELINE_COVER_WIDTH = 324
+TIMELINE_COVER_HEIGHT = 576
 TITLE_IMAGE_NAME = "title-image.jpg"
 TITLE_IMAGE_WIDTH = 864
 TITLE_IMAGE_HEIGHT = 1536
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RATINGS = frozenset({"PG", "YA", "R+"})
+PLACEMENT_CONFIDENCE = frozenset({"fixed", "inferred", "speculative", "unresolved"})
 
 
 @dataclass(frozen=True)
@@ -46,6 +53,45 @@ class Story:
 @dataclass(frozen=True)
 class Catalog:
     stories: tuple[Story, ...]
+
+
+@dataclass(frozen=True)
+class TimelineGroup:
+    id: str
+    eyebrow: str
+    title: str
+    description: str
+    sequence_note: str
+    confidence: str
+    stories: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class TimelineChapter:
+    id: str
+    type: str
+    eyebrow: str
+    title: str
+    description: str
+    sequence_note: str
+    confidence: str
+    stories: tuple[str, ...]
+    constellations: tuple[TimelineGroup, ...]
+
+
+@dataclass(frozen=True)
+class TimelineSpan:
+    start: str
+    end: str
+    note: str
+
+
+@dataclass(frozen=True)
+class Timeline:
+    chapters: tuple[TimelineChapter, ...]
+    story_moments: dict[str, tuple[str, ...]]
+    story_spans: dict[str, TimelineSpan]
+    story_confidence: dict[str, str]
 
 
 def read_json_object(path: Path) -> dict[str, Any]:
@@ -454,6 +500,194 @@ def load_catalog(snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     return Catalog(ordered)
 
 
+def _timeline_text(value: Any, label: str) -> str:
+    if not isinstance(value, str) or not value.strip():
+        raise ValueError(f"{label} must be a non-empty string")
+    return value.strip()
+
+
+def _timeline_story_slugs(value: Any, label: str) -> tuple[str, ...]:
+    if not isinstance(value, list):
+        raise ValueError(f"{label} must be a list")
+    slugs = tuple(value)
+    if any(not isinstance(slug, str) or not SLUG.fullmatch(slug) for slug in slugs):
+        raise ValueError(f"{label} contains an invalid story slug")
+    if len(set(slugs)) != len(slugs):
+        raise ValueError(f"{label} contains a duplicate story slug")
+    return slugs
+
+
+def _timeline_group(value: Any, label: str) -> TimelineGroup:
+    if not isinstance(value, dict):
+        raise ValueError(f"{label} must be an object")
+    require_exact_fields(
+        value,
+        {
+            "id",
+            "eyebrow",
+            "title",
+            "description",
+            "sequenceNote",
+            "confidence",
+            "stories",
+        },
+        label,
+    )
+    group_id = _timeline_text(value["id"], f"{label} id")
+    if not SLUG.fullmatch(group_id):
+        raise ValueError(f"{label} id must be a slug")
+    confidence = _timeline_text(value["confidence"], f"{label} confidence")
+    if confidence not in PLACEMENT_CONFIDENCE:
+        raise ValueError(f"{label} has unsupported confidence {confidence}")
+    return TimelineGroup(
+        id=group_id,
+        eyebrow=_timeline_text(value["eyebrow"], f"{label} eyebrow"),
+        title=_timeline_text(value["title"], f"{label} title"),
+        description=_timeline_text(value["description"], f"{label} description"),
+        sequence_note=_timeline_text(value["sequenceNote"], f"{label} sequenceNote"),
+        confidence=confidence,
+        stories=_timeline_story_slugs(value["stories"], f"{label} stories"),
+    )
+
+
+def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
+    value = read_json_object(path)
+    require_exact_fields(
+        value,
+        {
+            "schemaVersion",
+            "chapters",
+            "storyMoments",
+            "storySpans",
+            "storyConfidence",
+        },
+        str(path),
+    )
+    if value["schemaVersion"] != 1 or not isinstance(value["chapters"], list):
+        raise ValueError(f"Unsupported timeline snapshot in {path}")
+    if not isinstance(value["storyMoments"], dict):
+        raise ValueError(f"storyMoments in {path} must be an object")
+    if not isinstance(value["storySpans"], dict):
+        raise ValueError(f"storySpans in {path} must be an object")
+    if not isinstance(value["storyConfidence"], dict):
+        raise ValueError(f"storyConfidence in {path} must be an object")
+
+    known_slugs = {story.slug for story in catalog.stories}
+    seen_ids: set[str] = set()
+    placed_slugs: set[str] = set()
+    default_confidence: dict[str, str] = {}
+    chapters: list[TimelineChapter] = []
+    chapter_fields = {
+        "id",
+        "type",
+        "eyebrow",
+        "title",
+        "description",
+        "sequenceNote",
+        "confidence",
+        "stories",
+        "constellations",
+    }
+    supported_types = {"era", "branch", "field", "hinge", "interval"}
+
+    for index, item in enumerate(value["chapters"]):
+        label = f"timeline chapter {index}"
+        if not isinstance(item, dict):
+            raise ValueError(f"{label} must be an object")
+        require_exact_fields(item, chapter_fields, label)
+        chapter_id = _timeline_text(item["id"], f"{label} id")
+        chapter_type = _timeline_text(item["type"], f"{label} type")
+        chapter_confidence = _timeline_text(item["confidence"], f"{label} confidence")
+        if not SLUG.fullmatch(chapter_id) or chapter_id in seen_ids:
+            raise ValueError(f"{label} has an invalid or duplicate id")
+        if chapter_type not in supported_types:
+            raise ValueError(f"{label} has unsupported type {chapter_type}")
+        if chapter_confidence not in PLACEMENT_CONFIDENCE:
+            raise ValueError(
+                f"{label} has unsupported confidence {chapter_confidence}"
+            )
+        if not isinstance(item["constellations"], list):
+            raise ValueError(f"{label} constellations must be a list")
+
+        seen_ids.add(chapter_id)
+        stories = _timeline_story_slugs(item["stories"], f"{label} stories")
+        groups: list[TimelineGroup] = []
+        for group_index, group_value in enumerate(item["constellations"]):
+            group = _timeline_group(group_value, f"{label} constellation {group_index}")
+            if group.id in seen_ids:
+                raise ValueError(f"Timeline id {group.id} is duplicated")
+            seen_ids.add(group.id)
+            groups.append(group)
+
+        chapter_slugs = [*stories, *(slug for group in groups for slug in group.stories)]
+        unknown = sorted(set(chapter_slugs) - known_slugs)
+        repeated_here = sorted(
+            slug for slug in set(chapter_slugs) if chapter_slugs.count(slug) > 1
+        )
+        duplicate = sorted(slug for slug in chapter_slugs if slug in placed_slugs)
+        if unknown:
+            raise ValueError(f"{label} references unknown stories: {unknown}")
+        if repeated_here:
+            raise ValueError(f"{label} repeats stories within the chapter: {repeated_here}")
+        if duplicate:
+            raise ValueError(f"{label} repeats already placed stories: {duplicate}")
+        placed_slugs.update(chapter_slugs)
+        default_confidence.update({slug: chapter_confidence for slug in stories})
+        for group in groups:
+            default_confidence.update({slug: group.confidence for slug in group.stories})
+
+        chapters.append(
+            TimelineChapter(
+                id=chapter_id,
+                type=chapter_type,
+                eyebrow=_timeline_text(item["eyebrow"], f"{label} eyebrow"),
+                title=_timeline_text(item["title"], f"{label} title"),
+                description=_timeline_text(item["description"], f"{label} description"),
+                sequence_note=_timeline_text(
+                    item["sequenceNote"], f"{label} sequenceNote"
+                ),
+                confidence=chapter_confidence,
+                stories=stories,
+                constellations=tuple(groups),
+            )
+        )
+
+    moments: dict[str, tuple[str, ...]] = {}
+    for slug, labels in value["storyMoments"].items():
+        if slug not in known_slugs:
+            raise ValueError(f"storyMoments references unknown story {slug}")
+        if not isinstance(labels, list) or not labels or len(labels) > 8:
+            raise ValueError(f"storyMoments for {slug} must contain one to eight labels")
+        moments[slug] = tuple(
+            _timeline_text(moment, f"storyMoments for {slug}") for moment in labels
+        )
+
+    spans: dict[str, TimelineSpan] = {}
+    for slug, span in value["storySpans"].items():
+        if slug not in known_slugs:
+            raise ValueError(f"storySpans references unknown story {slug}")
+        if slug not in placed_slugs:
+            raise ValueError(f"storySpans references unplaced story {slug}")
+        if not isinstance(span, dict):
+            raise ValueError(f"storySpans for {slug} must be an object")
+        require_exact_fields(span, {"start", "end", "note"}, f"storySpans for {slug}")
+        spans[slug] = TimelineSpan(
+            start=_timeline_text(span["start"], f"storySpans start for {slug}"),
+            end=_timeline_text(span["end"], f"storySpans end for {slug}"),
+            note=_timeline_text(span["note"], f"storySpans note for {slug}"),
+        )
+
+    confidence = dict(default_confidence)
+    for slug, level in value["storyConfidence"].items():
+        if slug not in known_slugs:
+            raise ValueError(f"storyConfidence references unknown story {slug}")
+        if level not in PLACEMENT_CONFIDENCE:
+            raise ValueError(f"storyConfidence for {slug} is unsupported: {level}")
+        confidence[slug] = level
+
+    return Timeline(tuple(chapters), moments, spans, confidence)
+
+
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = Catalog(_ordered(stories))
     value = {
@@ -525,15 +759,37 @@ REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
 GITHUB_ICON = '''<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.64 0 8.13c0 3.59 2.29 6.64 5.47 7.71.4.08.55-.17.55-.39 0-.19-.01-.82-.01-1.49-2.01.44-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.59 1.23.83.72 1.23 1.87.88 2.33.67.07-.53.28-.88.51-1.08-1.78-.21-3.64-.9-3.64-4.01 0-.89.31-1.62.82-2.19-.08-.21-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.92c.68 0 1.36.09 2 .28 1.53-1.06 2.2-.84 2.2-.84.44 1.12.16 1.95.08 2.16.51.57.82 1.3.82 2.19 0 3.12-1.87 3.8-3.65 4.01.29.25.54.73.54 1.49 0 1.07-.01 1.93-.01 2.2 0 .22.15.47.55.39A8.03 8.03 0 0 0 16 8.13C16 3.64 12.42 0 8 0Z"/></svg>'''
 
 
-def _page(title: str, body: str, home_href: str, stylesheet_href: str) -> str:
+def _page(
+    title: str,
+    body: str,
+    library_href: str,
+    timeline_href: str,
+    stylesheet_href: str,
+    *,
+    current: str | None = None,
+    script_href: str | None = None,
+) -> str:
     repository_link = f'<a class="repository-link" href="{REPOSITORY_URL}" aria-label="View BoundlessStudio/story-computing-machine on GitHub" title="View repository on GitHub">{GITHUB_ICON}</a>'
-    header = f'<header class="site-header"><a class="site-name" href="{home_href}">Story Computing Machine</a>{repository_link}</header>'
+    library_current = ' aria-current="page"' if current == "library" else ""
+    timeline_current = ' aria-current="page"' if current == "timeline" else ""
+    header = (
+        f'<header class="site-header"><a class="site-name" href="{library_href}">Story Computing Machine</a>'
+        f'<nav class="site-nav" aria-label="Primary">'
+        f'<a href="{library_href}"{library_current}>Library</a>'
+        f'<a href="{timeline_href}"{timeline_current}>Chronology</a></nav>'
+        f'{repository_link}</header>'
+    )
+    script = (
+        f'<script src="{html.escape(script_href, quote=True)}" defer></script>'
+        if script_href is not None
+        else ""
+    )
     return (
         '<!doctype html><html lang="en"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
         f'<title>{html.escape(title)}</title>'
         f'<link rel="stylesheet" href="{html.escape(stylesheet_href, quote=True)}">'
-        f'</head><body>{header}<main>{body}</main></body></html>'
+        f'{script}</head><body>{header}<main>{body}</main></body></html>'
     )
 
 
@@ -589,7 +845,14 @@ def render_index(catalog: Catalog) -> str:
         f'<p class="collection-count">{len(items)} stored publications.</p>'
         f'<ol class="story-grid">{"".join(items)}</ol></section>'
     )
-    return _page("Shared-Universe Fiction", body, "index.html", "styles.css")
+    return _page(
+        "Shared-Universe Fiction",
+        body,
+        "index.html",
+        "timeline.html",
+        "styles.css",
+        current="library",
+    )
 
 
 def render_story(story: Story) -> str:
@@ -605,7 +868,295 @@ def render_story(story: Story) -> str:
         f'width="864" height="1536" decoding="async"></figure>'
         f'<div class="story-prose">{prose}</div></article>'
     )
-    return _page(story.title, body, "../index.html", "../styles.css")
+    return _page(
+        story.title,
+        body,
+        "../index.html",
+        "../timeline.html",
+        "../styles.css",
+    )
+
+
+def _timeline_cover(story: Story) -> str:
+    return f"{TIMELINE_COVER_DIRECTORY}/{story.slug}.jpg"
+
+
+def _write_timeline_cover(source: Path, destination: Path) -> None:
+    with Image.open(source) as opened:
+        image = ImageOps.exif_transpose(opened)
+        image = image.resize(
+            (TIMELINE_COVER_WIDTH, TIMELINE_COVER_HEIGHT),
+            Image.Resampling.LANCZOS,
+        )
+        if image.mode != "RGB":
+            image = image.convert("RGB")
+        image.save(
+            destination,
+            format="JPEG",
+            quality=84,
+            optimize=True,
+            progressive=True,
+        )
+
+
+def _timeline_card(
+    story: Story,
+    sequence_label: str,
+    moments: tuple[str, ...],
+    span: TimelineSpan | None,
+    confidence: str,
+) -> str:
+    slug = html.escape(story.slug, quote=True)
+    title = html.escape(story.title)
+    cover = html.escape(_timeline_cover(story), quote=True)
+    state_label = _story_label(story)
+    state = re.sub(r"[^a-z0-9]+", "-", state_label.casefold()).strip("-")
+    confidence_labels = {
+        "fixed": "Era fixed",
+        "inferred": "Era strongly inferred",
+        "speculative": "Era speculative",
+        "unresolved": "Era unresolved",
+    }
+    confidence_label = confidence_labels[confidence]
+    if sequence_label.startswith("≈"):
+        sequence_accessible = (
+            f' aria-label="Approximate position {int(sequence_label[1:])} '
+            f'in this era band"'
+        )
+    elif sequence_label == "?":
+        sequence_accessible = ' aria-label="Position unresolved within this era band"'
+    else:
+        sequence_accessible = ' aria-label="Only story in this era band"'
+    moment_list = ""
+    if moments:
+        moment_list = (
+            '<ol class="timeline-moments" aria-label="Key moments">'
+            + "".join(f"<li>{html.escape(moment)}</li>" for moment in moments)
+            + "</ol>"
+        )
+    span_marker = ""
+    if span is not None:
+        span_marker = (
+            f'<div class="timeline-span" role="group" aria-label="Story spans from '
+            f'{html.escape(span.start, quote=True)} to {html.escape(span.end, quote=True)}">'
+            f'<span class="timeline-span-labels"><span>{html.escape(span.start)}</span>'
+            f'<span>{html.escape(span.end)}</span></span>'
+            f'<i class="timeline-span-track" aria-hidden="true"></i>'
+            f'<span class="timeline-span-note">{html.escape(span.note)}</span></div>'
+        )
+    return (
+        f'<li class="timeline-story" data-story-state="{state}" '
+        f'data-placement-confidence="{confidence}">'
+        f'<a class="timeline-story-link" href="stories/{slug}.html">'
+        f'<span class="timeline-cover-frame">'
+        f'<img src="{cover}" alt="" width="{TIMELINE_COVER_WIDTH}" '
+        f'height="{TIMELINE_COVER_HEIGHT}" loading="lazy" decoding="async">'
+        f'<span class="timeline-sequence"{sequence_accessible}>{sequence_label}</span>'
+        f'</span><div class="timeline-story-copy">'
+        f'<span class="timeline-story-title">{title}</span>'
+        f'<span class="timeline-story-state">{state_label}</span>'
+        f'<span class="timeline-placement">{confidence_label}</span>'
+        f'{span_marker}{moment_list}</div></a></li>'
+    )
+
+
+def _timeline_ribbon(
+    slugs: tuple[str, ...],
+    stories_by_slug: dict[str, Story],
+    moments: dict[str, tuple[str, ...]],
+    spans: dict[str, TimelineSpan],
+    confidence: dict[str, str],
+    *,
+    ordered: bool = True,
+) -> str:
+    cards = "".join(
+        _timeline_card(
+            stories_by_slug[slug],
+            f"≈{index:02d}" if ordered and len(slugs) > 1 else "◆" if ordered else "?",
+            moments.get(slug, ()),
+            spans.get(slug),
+            confidence.get(slug, "unresolved"),
+        )
+        for index, slug in enumerate(slugs, start=1)
+    )
+    return (
+        f'<div class="timeline-story-group" data-story-group data-story-total="{len(slugs)}">'
+        f'<p class="timeline-group-count"><span data-group-visible>{len(slugs)}</span> '
+        f'<span aria-hidden="true">/</span> {len(slugs)} stories</p>'
+        f'<ol class="timeline-ribbon">{cards}</ol></div>'
+    )
+
+
+def _timeline_with_fallback(timeline: Timeline, catalog: Catalog) -> tuple[TimelineChapter, ...]:
+    assigned = {
+        slug
+        for chapter in timeline.chapters
+        for slug in (
+            *chapter.stories,
+            *(story for group in chapter.constellations for story in group.stories),
+        )
+    }
+    unplaced = tuple(
+        story.slug for story in reversed(catalog.stories) if story.slug not in assigned
+    )
+    if not unplaced:
+        return timeline.chapters
+    fallback = TimelineChapter(
+        id="unplaced-stories",
+        type="field",
+        eyebrow="Chronology still open",
+        title="The Uncharted Expanse",
+        description=(
+            "These stories have not yet been given an evidence-backed era placement. "
+            "They remain visible here without acquiring a date or a canon relationship."
+        ),
+        sequence_note="No in-world sequence is asserted inside this holding branch.",
+        confidence="unresolved",
+        stories=unplaced,
+        constellations=(),
+    )
+    return (*timeline.chapters, fallback)
+
+
+def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
+    chapters = _timeline_with_fallback(timeline, catalog)
+    stories_by_slug = {story.slug: story for story in catalog.stories}
+    confidence_counts = {
+        level: sum(
+            timeline.story_confidence.get(story.slug, "unresolved") == level
+            for story in catalog.stories
+        )
+        for level in ("fixed", "inferred", "speculative", "unresolved")
+    }
+
+    chapter_representatives = []
+    for chapter in chapters:
+        candidates = [
+            *chapter.stories,
+            *(slug for group in chapter.constellations for slug in group.stories),
+        ]
+        if candidates:
+            chapter_representatives.append(candidates[len(candidates) // 2])
+    if len(chapter_representatives) > 5:
+        last = len(chapter_representatives) - 1
+        representative_indexes = tuple(round(index * last / 4) for index in range(5))
+        hero_slugs = tuple(chapter_representatives[index] for index in representative_indexes)
+    else:
+        hero_slugs = tuple(chapter_representatives)
+    hero_covers = "".join(
+        f'<span class="hero-cover hero-cover-{index + 1}"><img '
+        f'src="{html.escape(_timeline_cover(stories_by_slug[slug]), quote=True)}" alt="" '
+        f'width="{TIMELINE_COVER_WIDTH}" height="{TIMELINE_COVER_HEIGHT}" '
+        f'decoding="async"></span>'
+        for index, slug in enumerate(hero_slugs)
+    )
+
+    overview = []
+    chapter_sections = []
+    era_index = 0
+    for chapter in chapters:
+        if chapter.type in {"branch", "field", "interval"}:
+            chapter_marker = "◇" if chapter.type == "branch" else "⋯"
+        else:
+            era_index += 1
+            chapter_marker = f"{era_index:02d}"
+        chapter_id = html.escape(chapter.id, quote=True)
+        overview.append(
+            f'<li class="orbit-stop orbit-{chapter.type}"><a href="#{chapter_id}">'
+            f'<span class="orbit-index">{chapter_marker}</span>'
+            f'<span class="orbit-label">{html.escape(chapter.title)}</span></a></li>'
+        )
+
+        groups = []
+        if chapter.stories:
+            groups.append(
+                _timeline_ribbon(
+                    chapter.stories,
+                    stories_by_slug,
+                    timeline.story_moments,
+                    timeline.story_spans,
+                    timeline.story_confidence,
+                    ordered=chapter.type not in {"branch", "field"},
+                )
+            )
+        for group in chapter.constellations:
+            groups.append(
+                f'<section class="timeline-constellation" id="{html.escape(group.id, quote=True)}" '
+                f'data-group-confidence="{group.confidence}">'
+                f'<header class="constellation-heading"><p class="timeline-eyebrow">{html.escape(group.eyebrow)}</p>'
+                f'<h3>{html.escape(group.title)}</h3>'
+                f'<p>{html.escape(group.description)}</p>'
+                f'<p class="sequence-note">{html.escape(group.sequence_note)}</p></header>'
+                f'{_timeline_ribbon(group.stories, stories_by_slug, timeline.story_moments, timeline.story_spans, timeline.story_confidence, ordered=group.confidence != "unresolved")}'
+                f'</section>'
+            )
+
+        chapter_sections.append(
+            f'<section class="timeline-chapter chapter-{chapter.type}" id="{chapter_id}" '
+            f'data-timeline-chapter data-group-confidence="{chapter.confidence}">'
+            f'<div class="timeline-chapter-inner"><header class="chapter-heading">'
+            f'<div class="chapter-number" aria-hidden="true">{chapter_marker}</div>'
+            f'<div><p class="timeline-eyebrow">{html.escape(chapter.eyebrow)}</p>'
+            f'<h2>{html.escape(chapter.title)}</h2>'
+            f'<p class="chapter-description">{html.escape(chapter.description)}</p>'
+            f'<p class="sequence-note">{html.escape(chapter.sequence_note)}</p></div></header>'
+            f'{"".join(groups)}</div></section>'
+        )
+
+    total = len(catalog.stories)
+    body = (
+        '<div class="timeline-page" data-timeline>'
+        '<section class="timeline-hero"><div class="timeline-hero-inner">'
+        '<div class="timeline-hero-copy">'
+        '<p class="timeline-kicker">A chronology of the shared universe</p>'
+        '<h1>The Long Orbit</h1>'
+        '<p class="timeline-lede">A working map of when every story happens: from buried '
+        'civilizations and crown ages through the modern-like trough, the second rise of '
+        'magic, the Glass Sea, <em>No More Magic</em>, and the sky that wakes afterward.</p>'
+        f'<p class="timeline-total">All {total} published stories are accounted for below. '
+        'This is an in-world chronology, not a publication or reading sequence. Border style '
+        'shows how firmly each story belongs to its era; approximate card numbers show the '
+        'working order inside it.</p>'
+        '<div class="timeline-legend" aria-label="Chronology legend">'
+        '<span><i class="legend-line legend-line-solid" aria-hidden="true"></i>Era fixed</span>'
+        '<span><i class="legend-line legend-line-inferred" aria-hidden="true"></i>Era inferred</span>'
+        '<span><i class="legend-line legend-line-dotted" aria-hidden="true"></i>Era speculative</span>'
+        '<span><i class="legend-orbit" aria-hidden="true"></i>Era unresolved</span>'
+        '<span><i class="legend-star" aria-hidden="true">✦</i>Canon story</span></div>'
+        '<div class="timeline-controls">'
+        '<div class="timeline-filter" role="group" aria-label="Filter stories by era confidence">'
+        f'<button type="button" data-timeline-filter="all" aria-pressed="true">All <span>{total}</span></button>'
+        f'<button type="button" data-timeline-filter="fixed" aria-pressed="false">Era fixed <span>{confidence_counts["fixed"]}</span></button>'
+        f'<button type="button" data-timeline-filter="inferred" aria-pressed="false">Era inferred <span>{confidence_counts["inferred"]}</span></button>'
+        f'<button type="button" data-timeline-filter="speculative" aria-pressed="false">Era speculative <span>{confidence_counts["speculative"]}</span></button>'
+        f'<button type="button" data-timeline-filter="unresolved" aria-pressed="false">Era unresolved <span>{confidence_counts["unresolved"]}</span></button>'
+        '</div><p class="timeline-filter-result" aria-live="polite">'
+        f'<span data-visible-total>{total}</span> placements in view</p></div>'
+        '<nav class="timeline-orbit" aria-label="Jump through the chronology">'
+        f'<ol>{"".join(overview)}</ol></nav>'
+        f'</div><div class="timeline-hero-covers" aria-hidden="true">{hero_covers}</div>'
+        '</div></section>'
+        f'<div class="timeline-chapters">{"".join(chapter_sections)}</div>'
+        '<aside class="timeline-coda"><p class="timeline-eyebrow">How to read the map</p>'
+        '<h2>One universe, deep time, honest uncertainty</h2>'
+        '<p>The eras and approximate card numbers describe a working universal sequence. A fixed '
+        'card means that its era membership is established—not that its exact neighbor or slot '
+        'inside that era is. Explicit story-to-story links appear in the key moments; otherwise '
+        'ribbon order remains a reconstruction from technological strata, magic density, archaeology, '
+        'social institutions, and recurring events. Unresolved branches stay off the main current '
+        'until the stories provide enough evidence to join it.</p>'
+        '<p><a href="index.html">Return to the complete cover library →</a></p></aside>'
+        '</div>'
+    )
+    return _page(
+        "The Long Orbit — Story Chronology",
+        body,
+        "index.html",
+        "timeline.html",
+        "styles.css",
+        current="timeline",
+        script_href="timeline.js",
+    )
 
 
 def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Path:
@@ -629,13 +1180,25 @@ def prepare_output(output: Path, repository_root: Path = REPOSITORY_ROOT) -> Pat
 
 def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     catalog = load_catalog(snapshot_path)
+    timeline = load_timeline(catalog)
     destination = prepare_output(output)
     (destination / "stories").mkdir()
     (destination / "covers").mkdir()
+    (destination / TIMELINE_COVER_DIRECTORY).mkdir()
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
+    shutil.copy2(TIMELINE_SCRIPT_PATH, destination / "timeline.js")
     (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
+    (destination / "timeline.html").write_text(
+        render_timeline(catalog, timeline),
+        encoding="utf-8",
+    )
     for story in catalog.stories:
-        shutil.copy2(snapshot_path.parent / story.cover, destination / story.cover)
+        source_cover = snapshot_path.parent / story.cover
+        shutil.copy2(source_cover, destination / story.cover)
+        _write_timeline_cover(
+            source_cover,
+            destination / _timeline_cover(story),
+        )
         (destination / "stories" / f"{story.slug}.html").write_text(
             render_story(story),
             encoding="utf-8",
@@ -668,7 +1231,19 @@ def main() -> None:
         print(f"Stored {len(catalog.stories)} stories in {SNAPSHOT_PATH}")
     else:
         catalog = load_catalog()
-        print(f"PASS: {len(catalog.stories)} stored stories")
+        timeline = load_timeline(catalog)
+        placed = {
+            slug
+            for chapter in timeline.chapters
+            for slug in (
+                *chapter.stories,
+                *(story for group in chapter.constellations for story in group.stories),
+            )
+        }
+        print(
+            f"PASS: {len(catalog.stories)} stored stories; "
+            f"{len(placed)} curated chronology placements"
+        )
 
 
 if __name__ == "__main__":

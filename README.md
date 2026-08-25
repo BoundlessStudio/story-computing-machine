@@ -68,6 +68,8 @@ a separate explicit user decision.
   beside their story prose as `title-image.jpg`.
 - `pages/catalog.json` — the stored publication snapshot used by Pages.
 - `pages/covers/` — captured title images used by the index and story pages.
+- `pages/timeline.json` — the curated in-universe era map and placement confidence
+  used by the visual chronology.
 - `pages/build.py` — captures reviewed stories and renders the snapshot.
 
 ## Two validation phases
@@ -159,7 +161,15 @@ Capture requires a passing review but does not duplicate the full story check.
 It stores the prose in `pages/catalog.json` and copies the title image into
 `pages/covers/`. The Pages index renders cover cards with each story's title,
 prompt, cover, created and edited dates, state, word count, and content rating;
-each story page places the cover below its title and prompt.
+each story page places the cover below its title and prompt. The separate
+`timeline.html` page arranges every cover by its proposed place in the universal
+chronology—not publication or reading order—from the first wonders through the
+Long Zero and Joined-Sky reawakening. Solid, dashed, dotted, and off-axis
+treatments distinguish fixed, inferred, speculative, and unresolved era
+membership; approximate card numbers show a working sequence inside each era.
+The chronology is a reader-facing working model; `universe/` remains the shared
+fact authority. The build derives compact timeline thumbnails from the captured
+covers while retaining the full-resolution art for the library and story pages.
 Verify the stored snapshot and reader locally:
 
 ```powershell
@@ -169,5 +179,6 @@ python pages/build.py build --output _site
 ```
 
 After merge, GitHub Actions only builds, uploads, and deploys
-the stored `pages/catalog.json` and `pages/covers/` snapshot with the reader
-stylesheet; it does not rerun story validation or reader tests.
+the stored catalog, chronology map, captured covers, reader stylesheet, and
+chronology interaction script; it does not rerun story validation or reader
+tests.
