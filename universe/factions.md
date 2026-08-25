@@ -642,3 +642,53 @@
   - The council's composition, appointment procedure, ordinary staffing,
     jurisdiction, and later response remain unresolved. The office is neither
     a divine night court nor a universal magical caste.
+
+## Unnamed night-harvest corpse industry
+
+- Status: LOCKED
+- Summary: One settlement's local corpse industry turns night-creature remains
+  into roofing, rope, fuel, medicine, brick, wages, and debt-backed contracts.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: night harvest; corpse industry
+- Notes:
+  - Within three months of the creatures' arrival, hook crews, graders,
+    harvesters, guards, carters, roofers, rope shops, kilns, clinics, refiners,
+    and a carcass-yard supervisor had formed an interdependent local trade.
+  - The unnamed supervisor bought batches from indebted crews, advanced value
+    across six crews, promised capacity to three refineries, charged damage and
+    protection against accounts, and tracked claims through seals, weights,
+    chalkboards, and invoices.
+  - During the sixth-night convergence he opened the cold shed after the
+    arrivals matched Brelva's route evidence, preserved batch marks while the
+    nodes were destroyed, placed crew claims before undelivered refinery
+    obligations, and moved Brelva and Perren's axle repair onto salvage wages.
+  - The records, seals, contracts, prices, debts, and purchased-stock labels are
+    ordinary human arrangements. They neither compel anyone nor give the
+    stockpile agency, and this incident establishes no general law, currency
+    system, permanent reform, or industry outside the unnamed settlement.
+
+## Unnamed night fighters
+
+- Status: LOCKED
+- Summary: At least three unfamiliar fighters arrived separately during the
+  night harvest, killed the creatures, destroyed throat-node membranes, and
+  cooperated through demonstration and limited gesture without sharing a
+  fluent language with the settlement.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: strangers; newcomers
+- Notes:
+  - The repeatedly observed woman used a long blade, an iron wedge, an open-palm
+    stop gesture, and a two-finger approach gesture. Two others used a hooked
+    spear and a short bow with thick black bolts.
+  - They ignored valuable hide, bone, tendon, heat sacs, liver combs, and node
+    fuel, instead protecting inhabited approaches and breaking and heating
+    every reachable node membrane.
+  - They did not command the settlement's defenders or provide an explanatory
+    translation. They filled gaps, demonstrated angles and priorities, waited
+    for imitation when possible, and continued acting alone when ignored.
+  - Their names, species, origin, organization, full language, arrival method,
+    knowledge source, number, later movements, and relationship to any crossing,
+    faction, adventurer, search party, or other established group remain
+    unresolved.
