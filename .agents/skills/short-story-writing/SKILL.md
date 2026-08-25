@@ -6,9 +6,14 @@ description: "Write or revise complete short-story prose through the repository'
 # Short-story writing
 
 Use for one WRITE assignment or one finding-driven REVISE assignment in a
-current four-file story package. Write only `stories/<slug>/story.md`. Preserve
-the scaffolded frontmatter, default to 2,500–4,000 words unless the prompt says
-otherwise, and create no draft copy, checklist, craft report, or other artifact.
+current four-file story package, or for one explicitly assigned LEGACY EDIT.
+For current work, write only `stories/<slug>/story.md`. For LEGACY EDIT, first
+verify that the story's independent canon unlock is already committed and its
+`story.json` now has `canon: false`, then write only
+`stories/<slug>/05-story.md`. Never edit prose or any bundle file while its
+authoritative canon state is `true`. Preserve the applicable frontmatter and
+legacy layout, default to 2,500–4,000 words unless the prompt says otherwise,
+and create no draft copy, checklist, craft report, or other artifact.
 
 The prompt is authoritative. For a prepared rewrite, the latest rewrite request
 and Rewrite selections control conflicts and its latest craft profile controls
@@ -33,7 +38,8 @@ contract. Their instructions to avoid writing or rewriting, ask the user
 questions, run optional scripts, persist output, or create reports do not apply.
 Neither do generic mandates for a hidden agenda, verbal tic, catchphrase,
 compulsory subtext, several simultaneous functions, punchy short sentences, or
-isolated paragraphs. Apply useful diagnoses by revising `story.md` in place.
+isolated paragraphs. Apply useful diagnoses by revising the assigned prose file
+in place.
 The prompt, story-specific Voice capsule, style guide, assignment, and this
 contract outrank generic prescriptions.
 

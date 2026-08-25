@@ -84,15 +84,23 @@ validation requires a readable 864x1536 JPEG for every current story. For
 ceiling, the three dialogue-design fields, the six-field Voice capsule, and the
 existing structured dialogue verdict. The earlier 08-18 and 08-21 contracts
 remain valid unchanged; 08-21 retains its five-field, 180-word Voice capsule.
-Both phases ignore locked legacy bundles; semantic noun extraction, dialogue
+Both phases ignore legacy bundles; semantic noun extraction, dialogue
 judgment, and continuity
 judgment remain the reviewer's responsibility.
 
 ## Rewriting a completed story
 
-A rewrite is available only for an explicitly named, completed current-format
-story with `canon: false`. Locked legacy bundles remain immutable; canon stories
-require a separate retcon or canon decision.
+A selection-contract rewrite is available only for an explicitly named,
+completed current-format story with `canon: false`. Legacy editability follows
+`story.json`, not the old layout: the repository owner may manually edit a
+legacy story, and the AI may directly edit, overwrite, or rewrite a named
+legacy story with `canon: false` when explicitly asked. `canon: true` locks the
+story and every bundle file against direct AI changes. An authorized agent may
+unlock it only as an independent action that changes and separately commits the
+canon marker to `false`; content work starts afterward. Unlocking does not
+remove facts already recorded as `LOCKED` or `CANON` in `universe/`. Direct
+legacy edits preserve the old layout and do not use the current rewrite
+preparation script or validator.
 
 After creating `codex/rewrite-<slug>` and its dedicated worktree, prepare the
 same four-file package with:

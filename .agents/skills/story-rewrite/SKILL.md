@@ -6,8 +6,14 @@ description: "Rewrite one completed non-canon current story with explicit keep, 
 # Story rewrite
 
 Use only when the user explicitly names one completed current-format,
-non-canon story to rewrite. Locked legacy bundles remain closed. Canon stories
-require a separate canon or retcon ruling. Read `../story-room/SKILL.md` for the
+non-canon story to rewrite. A legacy bundle containing `05-story.md` cannot use
+this selection-contract workflow or its preparation script. Route an explicit
+request for a named legacy story through `AGENTS.md`'s **Canon lock and legacy editing**
+contract: proceed directly when `story.json` has `canon: false`. When it has
+`canon: true`, no story or bundle file may be directly edited; perform the
+independent canon-marker-only unlock first when authorized, verify and commit
+it separately, and begin the rewrite afterward. Legacy layout alone is never
+grounds to refuse an authorized edit. Read `../story-room/SKILL.md` for the
 shared OUTLINE, REVIEW, and TITLE IMAGE responsibilities; use the same fresh
 outliner, writer, reviewer, production adapter, and cover gates as CREATE.
 

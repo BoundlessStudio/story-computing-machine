@@ -407,7 +407,7 @@ if (-not (Test-Path -LiteralPath $target -PathType Container)) {
     throw "Story directory not found: $target"
 }
 if (Test-Path -LiteralPath (Join-Path $target '05-story.md') -PathType Leaf) {
-    throw 'Locked legacy bundles cannot be rewritten.'
+    throw 'Legacy bundles cannot use the current-format rewrite preparation script. Follow the Canon lock and legacy editing contract for an authorized direct edit.'
 }
 
 $requiredFiles = @('prompt.md', 'outline.md', 'story.md', 'review.md', 'title-image.jpg')
