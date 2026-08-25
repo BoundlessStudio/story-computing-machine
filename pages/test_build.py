@@ -1067,6 +1067,68 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn('<script src="timeline.js" defer></script>', rendered)
         self.assertIn('<a href="timeline.html" aria-current="page">Chronology</a>', rendered)
 
+    def test_every_page_renders_shared_theme_controls_and_prepaint_bootstrap(self):
+        catalog = build.load_catalog()
+        story = catalog.stories[0]
+        rendered_pages = {
+            "library": (build.render_index(build.Catalog((story,))), "theme.js"),
+            "chronology": (
+                build.render_timeline(catalog, build.load_timeline(catalog)),
+                "theme.js",
+            ),
+            "story": (build.render_story(story), "../theme.js"),
+        }
+
+        for page_name, (rendered, script_href) in rendered_pages.items():
+            with self.subTest(page=page_name):
+                self.assertEqual(1, rendered.count('class="theme-toggle"'))
+                self.assertIn(
+                    '<button class="theme-toggle" type="button" data-theme-toggle',
+                    rendered,
+                )
+                self.assertIn('data-theme-label="light"', rendered)
+                self.assertIn('data-theme-label="dark"', rendered)
+                self.assertEqual(
+                    1,
+                    rendered.count(f'<script src="{script_href}" defer></script>'),
+                )
+                self.assertIn('<meta name="color-scheme" content="light dark">', rendered)
+                self.assertIn('<meta name="theme-color"', rendered)
+
+                bootstrap_start = rendered.index("<script>(function()")
+                bootstrap_end = rendered.index("</script>", bootstrap_start)
+                bootstrap = rendered[bootstrap_start:bootstrap_end]
+                self.assertIn("story-computing-machine-theme", bootstrap)
+                self.assertIn("localStorage.getItem", bootstrap)
+                self.assertIn("prefers-color-scheme: dark", bootstrap)
+                self.assertIn("document.documentElement.dataset.theme", bootstrap)
+                self.assertLess(bootstrap_start, rendered.index('<link rel="stylesheet"'))
+
+    def test_theme_script_implements_persistent_accessible_toggle(self):
+        script = (REPO / "pages/theme.js").read_text(encoding="utf-8")
+
+        for expected in (
+            'var STORAGE_KEY = "story-computing-machine-theme"',
+            'document.querySelector("[data-theme-toggle]")',
+            'document.querySelector(\'meta[name="theme-color"]\')',
+            "window.localStorage.getItem(STORAGE_KEY)",
+            "window.localStorage.setItem(STORAGE_KEY, theme)",
+            'toggle.addEventListener("click"',
+            'mediaQuery.addEventListener("change", followSystemPreference)',
+            'mediaQuery.addListener(followSystemPreference)',
+            'root.setAttribute("data-theme", nextTheme)',
+            "root.style.colorScheme = nextTheme",
+            'getPropertyValue("--paper")',
+            'toggle.setAttribute("aria-label", action)',
+            'toggle.setAttribute("title", action)',
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, script)
+
+        self.assertGreaterEqual(script.count("try {"), 5)
+        self.assertIn('value === "light" || value === "dark"', script)
+        self.assertIn("if (!hasExplicitPreference)", script)
+
     def test_build_uses_stored_catalog(self):
         with tempfile.TemporaryDirectory() as temporary:
             output = Path(temporary) / "site"
@@ -1080,8 +1142,13 @@ class StorySystemTests(unittest.TestCase):
                 build.load_story_source = original_loader
             self.assertTrue((output / "index.html").is_file())
             self.assertTrue((output / "timeline.html").is_file())
+            self.assertTrue((output / "theme.js").is_file())
             self.assertTrue((output / "timeline.js").is_file())
             self.assertTrue((output / "styles.css").is_file())
+            self.assertEqual(
+                (REPO / "pages/theme.js").read_bytes(),
+                (output / "theme.js").read_bytes(),
+            )
             hero_art = output / build.WORLDLINE_HERO_ART_PATH.name
             self.assertTrue(hero_art.is_file())
             self.assertEqual(build.WORLDLINE_HERO_ART_PATH.read_bytes(), hero_art.read_bytes())
