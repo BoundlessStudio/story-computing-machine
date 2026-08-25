@@ -590,22 +590,22 @@ function Get-PassingCurrentInventory {
     return @($rows)
 }
 
-$legacyFiles = @()
+$bundleStoryFiles = @()
 if (Test-Path -LiteralPath $storyRoot -PathType Container) {
-    $legacyFiles = @(
+    $bundleStoryFiles = @(
         Get-ChildItem -LiteralPath $storyRoot -Directory |
             ForEach-Object { Join-Path $_.FullName '05-story.md' } |
             Where-Object { Test-Path -LiteralPath $_ -PathType Leaf }
     )
 }
 
-function Test-LegacyExactUse {
+function Test-BundleExactUse {
     param([string]$Name)
 
-    if ($legacyFiles.Count -eq 0) {
+    if ($bundleStoryFiles.Count -eq 0) {
         return $false
     }
-    return @(Select-String -LiteralPath $legacyFiles -SimpleMatch -Pattern $Name -List).Count -gt 0
+    return @(Select-String -LiteralPath $bundleStoryFiles -SimpleMatch -Pattern $Name -List).Count -gt 0
 }
 
 function Test-FinalReview {
@@ -687,14 +687,15 @@ else {
 }
 
 $directories = [Collections.Generic.List[IO.DirectoryInfo]]::new()
-$legacyCount = 0
+$bundleCanonCount = 0
+$bundleNonCanonCount = 0
 if (-not [string]::IsNullOrWhiteSpace($Story)) {
     $target = Join-Path $storyRoot $Story
     if (-not (Test-Path -LiteralPath $target -PathType Container)) {
         $errors.Add("Story directory does not exist: stories/$Story.")
     }
     elseif (Test-Path -LiteralPath (Join-Path $target '05-story.md') -PathType Leaf) {
-        $errors.Add("stories/$Story is a legacy bundle unsupported by current-story validation.")
+        $errors.Add("stories/$Story uses bundle format; this validator handles current-format stories only, while its canon flag controls editability.")
     }
     else {
         $directories.Add((Get-Item -LiteralPath $target))
@@ -706,7 +707,26 @@ elseif (Test-Path -LiteralPath $storyRoot -PathType Container) {
             continue
         }
         if (Test-Path -LiteralPath (Join-Path $directory.FullName '05-story.md') -PathType Leaf) {
-            $legacyCount++
+            $recordPath = Join-Path $directory.FullName 'story.json'
+            if (-not (Test-Path -LiteralPath $recordPath -PathType Leaf)) {
+                $errors.Add("stories/$($directory.Name) uses bundle format but lacks story.json.")
+                continue
+            }
+            try {
+                $record = Get-Content -LiteralPath $recordPath -Raw | ConvertFrom-Json
+                if ($record.canon -isnot [bool]) {
+                    $errors.Add("stories/$($directory.Name)/story.json lacks a boolean canon flag.")
+                }
+                elseif ($record.canon) {
+                    $bundleCanonCount++
+                }
+                else {
+                    $bundleNonCanonCount++
+                }
+            }
+            catch {
+                $errors.Add("stories/$($directory.Name)/story.json is invalid JSON.")
+            }
             continue
         }
         $requiredFileCount = @($requiredFiles | Where-Object { Test-Path -LiteralPath (Join-Path $directory.FullName $_) -PathType Leaf }).Count
@@ -714,7 +734,7 @@ elseif (Test-Path -LiteralPath $storyRoot -PathType Container) {
             $directories.Add($directory)
         }
         else {
-            $errors.Add("stories/$($directory.Name) is neither a current four-file package nor a legacy bundle.")
+            $errors.Add("stories/$($directory.Name) is neither a current-format package nor a recognized bundle-format package.")
         }
     }
 }
@@ -749,8 +769,8 @@ if ($Phase -eq 'PreReview') {
         foreach ($row in $declared) {
             $static = if ($row.Kind -eq 'People') { $baselines.People } else { $baselines.Places }
             $currentMatch = @($existing | Where-Object { $_.Kind -eq $row.Kind -and $_.Key -eq $row.Key }).Count -gt 0
-            $legacyMatch = Test-LegacyExactUse $row.Name
-            $alreadyExists = ($static -contains $row.Name) -or $currentMatch -or $legacyMatch
+            $bundleMatch = Test-BundleExactUse $row.Name
+            $alreadyExists = ($static -contains $row.Name) -or $currentMatch -or $bundleMatch
 
             if ($row.Status -eq 'new' -and $alreadyExists) {
                 $errors.Add("$($row.Story)/outline.md marks $($row.Kind) noun '$($row.Name)' new, but that exact form already exists.")
@@ -790,7 +810,7 @@ foreach ($package in $packages) {
 foreach ($group in @($finalInventory | Group-Object Kind, Key)) {
     $sample = $group.Group[0]
     $static = if ($sample.Kind -eq 'People') { $baselines.People } else { $baselines.Places }
-    $legacyMatch = Test-LegacyExactUse $sample.Name
+    $bundleMatch = Test-BundleExactUse $sample.Name
     $newUses = @($group.Group | Where-Object Status -eq 'new')
     $recurringUses = @($group.Group | Where-Object Status -eq 'recurring')
 
@@ -798,10 +818,10 @@ foreach ($group in @($finalInventory | Group-Object Kind, Key)) {
         $stories = ($newUses.Story | Sort-Object -Unique) -join ', '
         $errors.Add("Noun '$($sample.Name)' is independently marked new in multiple $($sample.Kind.ToLowerInvariant()) inventories: $stories.")
     }
-    if ($newUses.Count -eq 1 -and (($static -contains $sample.Name) -or $legacyMatch)) {
+    if ($newUses.Count -eq 1 -and (($static -contains $sample.Name) -or $bundleMatch)) {
         $errors.Add("$($newUses[0].Story)/review.md marks '$($sample.Name)' new, but that exact $($sample.Kind.ToLowerInvariant()) form already exists.")
     }
-    if ($recurringUses.Count -gt 0 -and $newUses.Count -eq 0 -and -not ($static -contains $sample.Name) -and -not $legacyMatch) {
+    if ($recurringUses.Count -gt 0 -and $newUses.Count -eq 0 -and -not ($static -contains $sample.Name) -and -not $bundleMatch) {
         $stories = ($recurringUses.Story | Sort-Object -Unique) -join ', '
         $errors.Add("Noun '$($sample.Name)' is marked recurring in $stories, but no exact prior use was found.")
     }
@@ -812,4 +832,4 @@ if ($errors.Count -gt 0) {
     throw ('Final story validation failed:' + $separator + ($errors -join $separator))
 }
 
-"PASS: four-file scaffold; readable 864x1536 JPEG title-image files (technical check only; visual-tool review remains required); $($packages.Count) current stories; $legacyCount legacy stories ignored; final nouns and continuity verified."
+"PASS: four-file scaffold; readable 864x1536 JPEG title-image files (technical check only; visual-tool review remains required); $($packages.Count) current-format stories; $($bundleCanonCount + $bundleNonCanonCount) bundle-format stories ($bundleCanonCount canon, $bundleNonCanonCount non-canon); final nouns and continuity verified."

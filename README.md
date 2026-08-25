@@ -63,7 +63,7 @@ a separate explicit user decision.
 - `.codex/agents/` — the narrow outliner, writer, reviewer, and title-image roles.
 - `stories/_template/` — the four-file scaffold.
 - `universe/` — authoritative shared-universe facts and style constraints.
-- `stories/` — legacy bundles and current story packages; title images live
+- `stories/` — bundle-format and current-format story packages; title images live
   beside their story prose as `title-image.jpg`.
 - `pages/catalog.json` — the stored publication snapshot used by Pages.
 - `pages/covers/` — captured title images used by the index and story pages.
@@ -85,9 +85,10 @@ validation requires a readable 864x1536 JPEG for every current story. For
 ceiling, the three dialogue-design fields, the six-field Voice capsule, and the
 existing structured dialogue verdict. The earlier 08-18 and 08-21 contracts
 remain valid unchanged; 08-21 retains its five-field, 180-word Voice capsule.
-Both phases ignore legacy bundles; semantic noun extraction, dialogue
-judgment, and continuity
-judgment remain the reviewer's responsibility.
+Both phases validate current-format prose. Final validation also inventories
+bundle-format packages and verifies that each has a boolean canon flag; semantic
+noun extraction, dialogue judgment, and continuity judgment remain the
+reviewer's responsibility.
 
 ## Replacing a completed story
 
@@ -104,7 +105,7 @@ are discarded. The images must still be available as external paths or attachmen
 cannot recover an image, so inaccessible originals must be reattached.
 
 The old package and its catalog entry, captured cover, chronology placement, and
-legacy index row are then removed. `stories/NAMES.md` remains frozen production
+bundle index row are then removed. `stories/NAMES.md` remains frozen production
 memory, and authoritative universe facts are never removed as part of a
 replacement. Once the target path is absent, `new-story.ps1` creates a clean
 four-file package with the preserved prompt text and all accessible references.
@@ -113,8 +114,8 @@ cover. A replacement receives the ordinary CREATE craft profile, recent-story
 comparison, fresh cover, final validation, capture, parity check, push, and draft
 pull request.
 
-A narrowly requested edit to one named non-canon legacy story may still modify
-that legacy file directly under `AGENTS.md`'s canon-state rules. Completed
+A narrowly requested edit to one named non-canon bundle-format story may still
+modify that bundle's prose directly under `AGENTS.md`'s canon-state rules. Completed
 packages with historical rewrite sections remain readable, but those sections
 are inert history and are never produced by the current workflow.
 
@@ -142,10 +143,9 @@ confidence. Numbered era nodes order the eras; story groups inside each chapter
 are explicitly unordered.
 The chronology is a reader-facing working model; `universe/` remains the shared
 fact authority. It uses the same captured cover files as the library and story
-pages. The check command reconciles source packages, the legacy index, catalog,
-captured-cover bytes, and chronology placements, while recognizing the one
-explicitly unpublished superseded legacy source. Verify the snapshot and reader
-locally; `check` also prints any unresolved source/catalog canon conflicts:
+pages. The check command requires exact parity among source packages, the bundle
+index, catalog, captured-cover bytes, chronology placements, and authoritative
+source/catalog canon flags. Verify the snapshot and reader locally:
 
 ```powershell
 python pages/build.py check

@@ -39,7 +39,7 @@ commit when it is `true`. Preserve every verbatim user-authored prompt or
 request block, the verbatim new request, and all associated reference-image
 display names; discard machine workflow metadata, then resolve and inspect the external
 originals, requesting reattachment when one is inaccessible. Remove only that
-story's source package and publication, cover, timeline, and legacy-index
+story's source package and publication, cover, timeline, and bundle-index
 remnants, confirm the target directory is absent, and scaffold it anew with
 `new-story.ps1`. The new package carries all retained user-authored text and the new request in its
 single CREATE prompt and inventories every reference, but it never loads or
@@ -53,17 +53,17 @@ profile, when those packages are reviewed. New production does not create or
 alter that metadata and does not compare a replacement against the removed
 version.
 
-A directory containing `05-story.md` is a legacy story. Its larger file set
-belongs to the retired workflow, while `story.json` controls editability. A
-named story with `canon: false` permits only an explicitly requested narrow
-direct edit to the authorized legacy file. When `canon: true`, every bundle file
-remains locked until a separately authorized marker-only unlock is committed.
-A whole-story legacy remake uses remove-then-create replacement instead of
-migration or in-place transformation. The current validator ignores legacy
-bundles. The explicit Pages capture command retains a compatibility reader only
-for intentional snapshot refreshes.
+A directory containing `05-story.md` uses bundle format. Its larger file set
+belongs to a retired workflow, but only the boolean `canon` flag in `story.json`
+controls editability. A named story with `canon: false` permits only an
+explicitly requested narrow direct edit to its prose. When `canon: true`, every
+bundle file remains locked until a separately authorized marker-only unlock is
+committed. A whole-story remake uses remove-then-create replacement instead of
+migration or in-place transformation. The current validator inventories these
+packages and checks their canon flags without applying current-format prose
+rules. Pages capture reads both supported layouts.
 
-`NAMES.md` remains the frozen people-name baseline from legacy production. New
+`NAMES.md` remains the frozen people-name baseline from earlier production. New
 people and places are inventoried in each current story's `review.md`, avoiding
 another central record that must be synchronized.
 

@@ -403,7 +403,7 @@ class StorySystemTests(unittest.TestCase):
             )
             outline_path = story / "outline.md"
             outline_path.write_text(
-                outline_path.read_text(encoding="utf-8") + "\n\n" + ("legacy " * 1201),
+                outline_path.read_text(encoding="utf-8") + "\n\n" + ("earlier " * 1201),
                 encoding="utf-8",
             )
 
@@ -426,12 +426,12 @@ class StorySystemTests(unittest.TestCase):
             self.assertIn("Advisory outline noun", completed.stdout)
 
     def test_pre_review_rejects_exact_collisions_and_unknown_recurrence(self):
-        cases = ("legacy person", "current person", "universe place", "unknown recurrence")
+        cases = ("bundle person", "current person", "universe place", "unknown recurrence")
         for case in cases:
             with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
                 root = Path(temporary)
                 story = self.make_current_story(root, passing_review=False)
-                if case == "legacy person":
+                if case == "bundle person":
                     (root / "stories/NAMES.md").write_text(
                         "| Identity | Reserved forms | Story |\n"
                         "| --- | --- | --- |\n| Earlier Mira | `Mira` | locked-story |\n",
@@ -500,7 +500,7 @@ class StorySystemTests(unittest.TestCase):
             self.make_current_story(root)
             completed = self.validate(root, "Final")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-            self.assertIn("1 current stories", completed.stdout)
+            self.assertIn("1 current-format stories", completed.stdout)
 
     def test_final_validation_rejects_orphan_story_directory(self):
         for slug in ("orphan-package", "_trash"):
@@ -516,10 +516,10 @@ class StorySystemTests(unittest.TestCase):
                 self.assertNotEqual(0, completed.returncode)
                 normalized = " ".join((completed.stdout + completed.stderr).split())
                 self.assertIn(
-                    f"stories/{slug} is neither a current four-file package",
+                    f"stories/{slug} is neither a current-format package",
                     normalized,
                 )
-                self.assertIn("bundle.", normalized)
+                self.assertIn("bundle-format package.", normalized)
 
     def test_final_validation_accepts_create_dialogue_profile(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -782,19 +782,35 @@ class StorySystemTests(unittest.TestCase):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
 
-        source_count, published_count, legacy_count = build.validate_repository_inventory(
+        source_count, published_count, canon_count = build.validate_repository_inventory(
             catalog, timeline
         )
 
-        self.assertEqual(
-            len(catalog.stories) + len(build.UNPUBLISHED_SOURCE_SLUGS), source_count
-        )
+        self.assertEqual(len(catalog.stories), source_count)
         self.assertEqual(len(catalog.stories), published_count)
-        self.assertEqual(
-            len(list((REPO / "stories").glob("*/05-story.md"))), legacy_count
-        )
+        self.assertEqual(sum(story.canon for story in catalog.stories), canon_count)
 
-    def test_legacy_index_rejects_duplicate_story_rows(self):
+    def test_superseded_sky_source_is_removed_but_return_bookend_remains(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        published = {story.slug for story in catalog.stories}
+        placements = {
+            slug
+            for chapter in timeline.chapters
+            for slug in (
+                *chapter.stories,
+                *(slug for group in chapter.constellations for slug in group.stories),
+            )
+        }
+
+        self.assertFalse((REPO / "stories/the-sky-remembers-us").exists())
+        self.assertTrue((REPO / "stories/the-sky-remembers-us-return/story.md").is_file())
+        self.assertNotIn("the-sky-remembers-us", published)
+        self.assertIn("the-sky-remembers-us-return", published)
+        self.assertIn("the-sky-remembers-us-return", placements)
+        self.assertTrue((REPO / "pages/covers/the-sky-remembers-us-return.jpg").is_file())
+
+    def test_bundle_index_rejects_duplicate_story_rows(self):
         with tempfile.TemporaryDirectory() as temporary:
             index = Path(temporary) / "INDEX.md"
             index.write_text(
@@ -806,7 +822,7 @@ class StorySystemTests(unittest.TestCase):
             )
 
             with self.assertRaisesRegex(ValueError, "repeats story rows"):
-                build._legacy_index_slugs(index)
+                build._bundle_index_slugs(index)
 
     def test_stored_timeline_places_every_story_once(self):
         catalog = build.load_catalog()

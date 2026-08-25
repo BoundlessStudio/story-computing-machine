@@ -1,8 +1,8 @@
-# Locked legacy people-name baseline
+# Frozen people-name baseline
 
-This compact table preserves the character-facing forms used by locked legacy
-stories. It is production memory, not canon. Detailed historical rationales
-remain recoverable through Git history and the locked story bundles.
+This compact table preserves character-facing forms from earlier production.
+It is production memory, not canon. Detailed historical rationales remain
+recoverable through Git history and the canon-locked story bundles.
 
 For a current story, extract proposed people first and search this file only for
 those forms, close spellings, reversals, and confusable aliases. Do not load the

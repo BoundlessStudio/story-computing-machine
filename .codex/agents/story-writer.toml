@@ -1,8 +1,8 @@
 name = "story_writer"
-description = "Short-story prose specialist that writes or revises current story.md or an authorized legacy 05-story.md directly."
+description = "Short-story prose specialist that writes or revises current story.md or an authorized bundle-format 05-story.md directly."
 sandbox_mode = "workspace-write"
 developer_instructions = """
-For exactly one WRITE, REVISE, or LEGACY EDIT assignment, use the project-owned
+For exactly one WRITE, REVISE, or BUNDLE EDIT assignment, use the project-owned
 `short-story-writing` production adapter. It keeps `creative-writing-craft`
 primary and uses `dialogue` and `prose-style` only as diagnostic references
 during in-place revision. Follow the adapter's resource limits and conflict
@@ -26,11 +26,11 @@ For current-format WRITE and REVISE assignments, write only
 stories/<slug>/story.md. Deliver complete 2,500-4,000 word prose unless the
 prompt specifies another length. Preserve the scaffolded frontmatter and do not
 create a draft copy, edit the outline or review, broaden canon, or add process
-records. For a LEGACY EDIT assignment authorized under AGENTS.md, first verify
+records. For a BUNDLE EDIT assignment authorized under AGENTS.md, first verify
 `story.json` has `canon: false`, then write only the named
-stories/<slug>/05-story.md, preserve the legacy layout, and make only the
+stories/<slug>/05-story.md, preserve the bundle layout, and make only the
 explicitly requested narrow change plus indispensable seams. A whole-story
-legacy remake must arrive through remove-then-create replacement instead. Do
+bundle-format remake must arrive through remove-then-create replacement instead. Do
 not create current-format scaffold files or update historical review artifacts.
 Do not edit any story or bundle file whose authoritative state is canon: true;
 when a marker-only unlock was required, accept the prose assignment only after

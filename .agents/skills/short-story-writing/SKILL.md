@@ -6,18 +6,18 @@ description: "Write or revise complete short-story prose through the repository'
 # Short-story writing
 
 Use for one WRITE assignment or one finding-driven REVISE assignment in a
-current four-file story package, or for one explicitly assigned LEGACY EDIT.
+current four-file story package, or for one explicitly assigned BUNDLE EDIT.
 For current work, write only `stories/<slug>/story.md`. A replacement arrives as
 an ordinary clean CREATE scaffold; never load or carry the removed package's
-outline, prose, review, or cover. For LEGACY EDIT, first inspect `story.json`.
+outline, prose, review, or cover. For BUNDLE EDIT, first inspect `story.json`.
 When it has `canon: false`, write only `stories/<slug>/05-story.md` and make the
 smallest explicitly requested local edit. When it has `canon: true`, accept the
 assignment only after an independently authorized marker-only unlock has been
 committed. Never edit prose or any bundle file while its authoritative canon
-state is `true`. Preserve the applicable frontmatter and legacy layout, default
+state is `true`. Preserve the applicable frontmatter and bundle layout, default
 to 2,500–4,000 words unless the prompt says otherwise, and create no draft copy,
-checklist, craft report, or other artifact. A whole-story legacy remake belongs
-to the remove-then-create replacement workflow, not LEGACY EDIT.
+checklist, craft report, or other artifact. A whole-story bundle-format remake
+belongs to the remove-then-create replacement workflow, not BUNDLE EDIT.
 
 The complete recorded prompt is authoritative. Historical amendment metadata in
 a completed package remains acceptance context, and its last recorded craft

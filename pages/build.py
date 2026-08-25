@@ -30,7 +30,6 @@ PLACEMENT_CONFIDENCE = frozenset({"fixed", "inferred", "speculative", "unresolve
 TIMELINE_MAGIC_STATES = frozenset(
     {"old-magic", "long-dark", "new-magic", "uncertain", "off-axis"}
 )
-UNPUBLISHED_SOURCE_SLUGS = frozenset({"the-sky-remembers-us"})
 
 
 @dataclass(frozen=True)
@@ -363,18 +362,18 @@ def _load_current_story(directory: Path) -> Story:
     )
 
 
-def _load_legacy_story(directory: Path) -> Story:
+def _load_bundle_story(directory: Path) -> Story:
     record_path = directory / "story.json"
     record = read_json_object(record_path)
-    for field in ("slug", "title", "created", "status", "canon"):
+    for field in ("slug", "title", "created", "canon"):
         if field not in record:
             raise ValueError(f"{record_path} lacks {field}")
     if record["slug"] != directory.name or not SLUG.fullmatch(record["slug"]):
-        raise ValueError(f"Invalid legacy slug in {record_path}")
+        raise ValueError(f"Invalid bundle-format slug in {record_path}")
     if not isinstance(record["title"], str) or not DATE.fullmatch(record["created"]):
-        raise ValueError(f"Invalid legacy title or date in {record_path}")
-    if not isinstance(record["canon"], bool) or not isinstance(record["status"], str):
-        raise ValueError(f"Invalid legacy status in {record_path}")
+        raise ValueError(f"Invalid bundle-format title or date in {record_path}")
+    if not isinstance(record["canon"], bool):
+        raise ValueError(f"Invalid canon flag in {record_path}")
 
     story_path = directory / "05-story.md"
     front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
@@ -384,7 +383,7 @@ def _load_legacy_story(directory: Path) -> Story:
         "created": record["created"],
     }
     if front != expected:
-        raise ValueError(f"Legacy story identity differs in {story_path}")
+        raise ValueError(f"Bundle-format story identity differs in {story_path}")
 
     prompt_path = directory / "00-prompt.md"
     prompt_source = prompt_path.read_text(encoding="utf-8")
@@ -399,7 +398,7 @@ def _load_legacy_story(directory: Path) -> Story:
         ),
         rating=_content_rating(prompt_source),
         canon=record["canon"],
-        status=record["status"],
+        status="canon" if record["canon"] else "reviewed",
         prompt=parse_writing_prompt(prompt_source, prompt_path),
         cover=_source_cover(directory, record["slug"]),
         body=body.strip(),
@@ -413,7 +412,7 @@ def load_story_source(slug: str, repository_root: Path = REPOSITORY_ROOT) -> Sto
     if (directory / "story.md").is_file():
         return _load_current_story(directory)
     if (directory / "05-story.md").is_file():
-        return _load_legacy_story(directory)
+        return _load_bundle_story(directory)
     raise ValueError(f"No readable story source for {slug}")
 
 
@@ -784,7 +783,7 @@ def capture_all(
     return save_catalog(stories, snapshot_path)
 
 
-def _legacy_index_slugs(path: Path) -> set[str]:
+def _bundle_index_slugs(path: Path) -> set[str]:
     rows = re.findall(
         r"^\| `([^`]+)` \|",
         path.read_text(encoding="utf-8"),
@@ -792,8 +791,25 @@ def _legacy_index_slugs(path: Path) -> set[str]:
     )
     duplicates = sorted(slug for slug, count in Counter(rows).items() if count > 1)
     if duplicates:
-        raise ValueError(f"Legacy index repeats story rows: {duplicates}")
+        raise ValueError(f"Bundle index repeats story rows: {duplicates}")
     return set(rows)
+
+
+def _source_canon_marker(directory: Path) -> bool:
+    current_path = directory / "story.md"
+    bundle_record_path = directory / "story.json"
+    if current_path.is_file():
+        metadata, _ = parse_front_matter(
+            current_path.read_text(encoding="utf-8"), current_path
+        )
+        return _bool(metadata.get("canon", ""), current_path, "canon")
+    if bundle_record_path.is_file():
+        value = read_json_object(bundle_record_path)
+        source_canon = value.get("canon")
+        if not isinstance(source_canon, bool):
+            raise ValueError(f"Invalid canon marker in {bundle_record_path}")
+        return source_canon
+    raise ValueError(f"No canon marker found in {directory}")
 
 
 def published_canon_marker_conflicts(
@@ -803,20 +819,9 @@ def published_canon_marker_conflicts(
     conflicts: list[str] = []
     for story in catalog.stories:
         directory = repository_root / "stories" / story.slug
-        current_path = directory / "story.md"
-        legacy_path = directory / "story.json"
-        if current_path.is_file():
-            metadata, _ = parse_front_matter(
-                current_path.read_text(encoding="utf-8"), current_path
-            )
-            source_canon = _bool(metadata.get("canon", ""), current_path, "canon")
-        elif legacy_path.is_file():
-            value = read_json_object(legacy_path)
-            source_canon = value.get("canon")
-            if not isinstance(source_canon, bool):
-                raise ValueError(f"Invalid canon marker in {legacy_path}")
-        else:
+        if not directory.is_dir():
             continue
+        source_canon = _source_canon_marker(directory)
         if source_canon != story.canon:
             conflicts.append(story.slug)
     return tuple(sorted(conflicts))
@@ -841,12 +846,12 @@ def validate_repository_inventory(
         == (directory / "05-story.md").is_file()
     }
     source_slugs = set(story_directories) - invalid_sources
-    legacy_slugs = {
+    bundle_slugs = {
         slug
         for slug, directory in story_directories.items()
         if (directory / "05-story.md").is_file()
     }
-    index_slugs = _legacy_index_slugs(story_root / "INDEX.md")
+    index_slugs = _bundle_index_slugs(story_root / "INDEX.md")
     catalog_slugs = {story.slug for story in catalog.stories}
     cover_root = snapshot_path.parent / "covers"
     cover_slugs = {path.stem for path in cover_root.glob("*.jpg")}
@@ -868,10 +873,10 @@ def validate_repository_inventory(
     problems: list[str] = []
     if invalid_sources:
         problems.append(f"unrecognized story directories: {sorted(invalid_sources)}")
-    if legacy_slugs != index_slugs:
+    if bundle_slugs != index_slugs:
         problems.append(
-            f"legacy index differs from legacy sources: index-only={sorted(index_slugs - legacy_slugs)}, "
-            f"source-only={sorted(legacy_slugs - index_slugs)}"
+            f"bundle index differs from bundle-format sources: index-only={sorted(index_slugs - bundle_slugs)}, "
+            f"source-only={sorted(bundle_slugs - index_slugs)}"
         )
     if catalog_slugs != cover_slugs:
         problems.append(
@@ -885,13 +890,24 @@ def validate_repository_inventory(
             f"catalog differs from chronology: catalog-only={sorted(catalog_slugs - placement_slugs)}, "
             f"chronology-only={sorted(placement_slugs - catalog_slugs)}, placements={len(placements)}"
         )
-    if catalog_slugs - source_slugs:
-        problems.append(f"published stories without sources: {sorted(catalog_slugs - source_slugs)}")
-    source_only = source_slugs - catalog_slugs
-    if source_only != set(UNPUBLISHED_SOURCE_SLUGS):
+    if catalog_slugs != source_slugs:
         problems.append(
-            f"unexpected unpublished sources: found={sorted(source_only)}, "
-            f"expected={sorted(UNPUBLISHED_SOURCE_SLUGS)}"
+            f"catalog differs from story sources: catalog-only={sorted(catalog_slugs - source_slugs)}, "
+            f"source-only={sorted(source_slugs - catalog_slugs)}"
+        )
+    source_canon = {
+        slug: _source_canon_marker(directory)
+        for slug, directory in story_directories.items()
+        if slug in source_slugs
+    }
+    canon_conflicts = sorted(
+        story.slug
+        for story in catalog.stories
+        if story.slug in source_canon and source_canon[story.slug] != story.canon
+    )
+    if canon_conflicts:
+        problems.append(
+            f"catalog canon states differ from authoritative source flags: {canon_conflicts}"
         )
     missing_source_covers = [
         slug for slug in sorted(catalog_slugs) if not (story_root / slug / TITLE_IMAGE_NAME).is_file()
@@ -909,7 +925,7 @@ def validate_repository_inventory(
         problems.append(f"captured covers differ from story sources: {stale_covers}")
     if problems:
         raise ValueError("Repository inventory mismatch: " + "; ".join(problems))
-    return len(source_slugs), len(catalog_slugs), len(legacy_slugs)
+    return len(source_slugs), len(catalog_slugs), sum(source_canon.values())
 
 
 REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
@@ -1648,20 +1664,14 @@ def main() -> None:
     else:
         catalog = load_catalog()
         timeline = load_timeline(catalog)
-        source_count, published_count, legacy_count = validate_repository_inventory(
+        source_count, published_count, canon_count = validate_repository_inventory(
             catalog, timeline
         )
-        canon_conflicts = published_canon_marker_conflicts(catalog)
         print(
             f"PASS: {published_count} published stories, covers, and chronology placements; "
-            f"{source_count} source packages ({legacy_count} legacy, "
-            f"{len(UNPUBLISHED_SOURCE_SLUGS)} explicitly unpublished)"
+            f"{source_count} source packages ({canon_count} canon, "
+            f"{source_count - canon_count} non-canon)"
         )
-        if canon_conflicts:
-            print(
-                "WARNING: published canon state conflicts with authoritative source markers for "
-                f"{len(canon_conflicts)} stories: {', '.join(canon_conflicts)}"
-            )
 
 
 if __name__ == "__main__":

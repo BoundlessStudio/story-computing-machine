@@ -27,7 +27,7 @@ prose.
    external reference; if any original cannot be accessed, ask the user to
    attach it again.
 3. For a replacement, remove only the explicitly named source package and its
-   publication, cover, timeline, and legacy-index remnants. Do not retain or
+   publication, cover, timeline, and bundle-index remnants. Do not retain or
    read its outline, prose, review, or cover as creative input. Confirm the
    target directory is absent. Run `../story-room/scripts/new-story.ps1` with a
    single CREATE prompt that preserves all retained user-authored text and the

@@ -16,11 +16,11 @@ implemented by the binding style defaults, compact outline handoff, prose skill,
 and dialogue-aware review.
 Completion alone never authorizes reopening. A named whole-story remake is a
 remove-then-create replacement, never an in-place transformation. Before any
-replacement or narrow legacy edit, follow `AGENTS.md`'s **Canon lock and legacy
+replacement or narrow bundle edit, follow `AGENTS.md`'s **Canon lock and bundle
 editing** contract. `canon: true` prohibits direct changes to every bundle file;
 an authorized agent must complete and commit the independent canon-marker-only
 unlock before content work. A missing or ambiguous marker stops for user
-direction. A named legacy story with `canon: false` permits
+direction. A named bundle-format story with `canon: false` permits
 only the explicitly requested narrow direct edit; a whole-story remake uses the
 replacement path. The old layout is a tooling boundary, not an immutability
 rule.
@@ -32,7 +32,7 @@ rule.
    block, the verbatim new request, and every associated reference-image
    display name. Discard machine-owned selection, cover-policy, constraint, and
    workflow metadata. Resolve and visually inspect every retained and newly supplied external reference. Remove only the
-   named story's source and publication, cover, timeline, and legacy-index
+   named story's source and publication, cover, timeline, and bundle-index
    remnants, then confirm the target directory is absent. Never load or carry
    its prior outline, prose, review, or cover. Scaffold with
    `scripts/new-story.ps1`, passing every retained and newly supplied reference through
@@ -116,7 +116,7 @@ rule.
 
 Do not create research briefs, authority snapshots, handoff records, separate
 draft/final files, canon deltas, release records, promotion manifests, story
-READMEs, or index projections. Do not reread the complete legacy corpus when a
+READMEs, or index projections. Do not reread the complete bundle corpus when a
 targeted search answers the continuity question.
 
 Before delegating an 08-23 CREATE outline, count passing current stories created
