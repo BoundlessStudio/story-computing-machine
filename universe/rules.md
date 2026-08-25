@@ -1759,3 +1759,42 @@
     detector, punishment oath, regional law, or universal safety standard. Its
     safe use depended on the physical spillway and both women remaining able to
     act.
+
+## Cody's bounded self-shapeshifting
+
+- Status: LOCKED
+- Summary: Cody is the sole observed living operator of a voluntary ability that
+  reshapes their own body among practiced masculine, feminine, and mixed human
+  ranges while preserving one continuous person.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Cody begins a change by deliberately choosing and holding a remembered
+    body-map, then releasing a held breath into it. Fear can disrupt an initiated
+    change but cannot start one without Cody's choice; no word, garment, mirror,
+    sign, camera, photograph, food, drink, room, or other nonliving object acts
+    as the operator.
+  - Demonstrated changes alter Cody's height, build, reach, balance, facial line,
+    hair, voice resonance, and clothing fit within human versions of Cody. Cody
+    cannot copy another person, and no duplicate, branch, separate mind,
+    form-linked personality, nonhuman body, or change to another being is shown.
+  - One practiced full-body change takes about forty seconds and produces warmth,
+    trembling from effort, and pose-like muscular fatigue. Clothes and carried
+    objects do not transform, so Cody uses loose layers, multiple sizes, and
+    private rooms.
+  - A full change leaves Cody thirsty, hungry, muscularly weak, and unable to
+    rely on another full change for about twenty minutes. Water, food, quiet, and
+    time support recovery but do not power, choose, trigger, or reverse a form.
+  - When Cody voluntarily attempts an early reversal while frightened and still
+    in cooldown, the change stalls in a stable mixed body with trembling and
+    brief dizziness. This single event does not establish that every interrupted
+    change behaves identically.
+  - Ordinary witnesses can remember a change and an ordinary camera could record
+    one; the ability supplies no memory veil, recognition distortion,
+    transforming equipment, or automatic concealment.
+  - Cody's anatomy, body, clothing, voice, record, and ability do not establish
+    an objective gender. The ability's source, inheritance, exact metabolic
+    exchange, precision limits, long-term effects, and relationship to
+    Northbridge's transformations, the Nina-Anin incident, Crown-era dragon
+    guises, Luz Navarro's shrinking, or any other system remain unresolved.

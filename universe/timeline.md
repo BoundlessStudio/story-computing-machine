@@ -1028,3 +1028,48 @@
      the one-moon compact, and ordering relative to every established story
      remain unresolved. It has no established connection to another storm,
      glass phenomenon, ward system, city, or relationship.
+
+## Undated Transitions in Common disclosure and portrait incident
+
+- Status: LOCKED
+- Summary: Across one Friday-to-Monday interval, Cody and Hugo's differently
+  understood use of `trans` led to an unannounced shapeshifting reveal, a breach
+  of trust, and a bounded continuation of their friendship.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Transitions in Common incident
+- Notes:
+  1. Late Friday in an unnamed school costume room, Hugo privately told Cody he
+     was trans while explaining why he wanted control of an arts-night portrait.
+     Cody knew the common transgender meaning but interpreted the word through
+     a private shortening of `transmutable`, answered `me too`, and accepted
+     further disclosure while each friend believed a different secret was being
+     protected.
+  2. On Saturday, the friends selected clothes at an unnamed secondhand shop and
+     stated real but differently scoped privacy limits for a planned Sunday
+     changing-and-portrait session.
+  3. On Sunday, Cody took an ambiguous agreement to `change` as permission to
+     reveal shapeshifting and changed to a feminine body. Hugo clarified that he
+     is a transgender boy. Cody's frightened early reversal then stalled in a
+     mixed body during the personal cooldown.
+  4. When an unnamed student came for a rolling rack, Hugo kept both private
+     disclosures out of his explanation, called the room a private wardrobe
+     fitting, and obtained ten minutes. He protected Cody from involuntary
+     exposure without forgiving the breach, then ended the portrait session and
+     left on his own terms. The other student learned neither secret.
+  5. On Sunday evening, Cody sent an apology that named the assumption, false
+     claim of shared experience, acceptance of further private disclosure, and
+     failure to ask specifically about witnessing shapeshifting. The message
+     requested neither a reply nor forgiveness.
+  6. On Monday, Hugo chose a new meeting, tested Cody's understanding, stated his
+     boundaries, and decided the friendship could continue without erasing the
+     breach. Each friend then authorized a separate portrait under separately
+     stated conditions: Hugo approved one image for display, while Cody approved
+     one private image in a deliberately chosen mixed body.
+  7. The incident establishes no equivalence between transgender identity and
+     shapeshifting, no public disclosure of either secret, no final gender label
+     for Cody, and no universal privacy or consent protocol.
+  8. Its civil date, school, locality, region, era, Galactic Cycle coordinate,
+     and ordering relative to every established story remain unresolved. It has
+     no established relationship to another school, modern-like setting,
+     identity-exposure event, or transformation system.
