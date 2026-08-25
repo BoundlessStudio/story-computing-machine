@@ -757,3 +757,44 @@
   - The story does not establish a complete city map, total number of Keels,
     every section's function, routine route-access law, or a general design for
     another floating city.
+
+## Cody and Hugo's unnamed school costume room
+
+- Status: LOCKED
+- Summary: One unnamed modern-like school contains an auditorium costume room
+  used for Hugo's disclosure, Cody's shapeshifting reveal, and their later
+  boundary-setting and self-portrait session.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: unnamed school auditorium and costume room
+- Notes:
+  - The room contains ordinary costume racks and boxes, changing screens, a
+    simple door latch, a portrait corner marked by faded tape, and instant-camera
+    equipment. None of these nonliving objects has magical agency or guarantees
+    privacy.
+  - The school requires a self-portrait for a Monday arts-night display. Hugo
+    reviews the developed images and selects the exact portrait permitted for
+    display; no trans-specific rite, magical practice, legal record, or
+    universal school custom is established.
+  - The school and costume room are not established as Northbridge Secondary,
+    Cinder Annex, Brightward College, or any other school or place already in
+    authority. Their locality, region, polity, planet, civil date, Galactic
+    Cycle coordinate, and wider institutional practice remain unresolved.
+
+## Unnamed secondhand shop in Cody and Hugo's locality
+
+- Status: LOCKED
+- Summary: Cody and Hugo visit one unnamed secondhand clothing shop where Hugo
+  selects portrait clothes and Cody selects garments suited to different
+  practiced bodies and presentations.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Hugo selects a charcoal vest and open-collar shirt. Cody selects a soft blue
+    blouse, a sharply cut jacket, and clothing in multiple sizes.
+  - The garments, fitting-room fixtures, bags, and shop are ordinary and
+    nonliving. Clothing does not transform with Cody or determine either
+    character's gender.
+  - No shop name, owner, staff identity, street, city, wider retail practice,
+    magical service, or connection to another established location is known.

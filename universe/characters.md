@@ -1540,3 +1540,78 @@
     the unlocated people nor Paz's later residence, work, or role in recovery.
   - Paz's age, occupation, origin beyond Orison, wider family, later history,
     and relationship to any other established person remain unresolved.
+
+## Cody
+
+- Status: LOCKED
+- Summary: Cody is a student who uses the stable name Cody and they/them
+  pronouns while voluntarily moving among practiced masculine, feminine, and
+  mixed human versions of their own body.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Cody's school records and usual public presentation use one practiced
+    masculine body. Masculine, feminine, and mixed bodies and presentations can
+    each feel good to them, but their inward gender remains questioning or
+    unlabeled; they consider `genderfluid` without adopting it as a final label.
+  - Cody remains one continuous, accountable person in every body, with the same
+    memory, name, pronouns, promises, learned behavior, and persistent scuff on
+    the left knee. No form is established as original, truest, separate, or less
+    responsible.
+  - Cody's assumption about Hugo's disclosure and failure to name shapeshifting
+    before revealing it caused a breach of trust. Cody later apologized without
+    demanding a reply or forgiveness and accepted Hugo's limits before their
+    friendship resumed on revised terms.
+  - Cody's family name, assigned sex, origin, species, family history, medical
+    history, ability source, later gender label, and relationship to any other
+    established person or transformation system remain unresolved.
+
+## Hugo
+
+- Status: LOCKED
+- Summary: Hugo is a student and transgender boy whose private disclosure,
+  portrait, bodily history, and continued friendship with Cody remain subject
+  to his own stated boundaries.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Hugo uses he/him pronouns. He chooses a charcoal vest and open-collar shirt
+    for a school arts-night self-portrait and approves the exact image permitted
+    for display without making his transgender history part of that display.
+  - During Cody's unannounced shapeshifting reveal, Hugo protects Cody from an
+    approaching student's view without forgiving the breach, ends the session,
+    and later chooses the conditions under which contact and portrait work may
+    resume.
+  - Hugo reserves questions about his anatomy and medical history, controls who
+    learns he is transgender, and may begin any further disclosure himself. His
+    clothes and portrait do not prove his boyhood, and his choices establish no
+    universal transgender practice.
+  - Hugo's family name, assigned sex, deadname, anatomy, medical history, family
+    response, disclosure outside this friendship, later history, and
+    relationship to any other established person remain unresolved.
+
+## Cody and Hugo's repaired friendship
+
+- Status: LOCKED
+- Summary: Cody and Hugo are school friends whose relationship continues on
+  revised terms after a double meaning, an unannounced shapeshifting reveal,
+  and a specific apology rupture their initial sense of common ground.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Their common ground includes other people's guesses and concern over who
+    receives private information, but Cody's shapeshifting is not equivalent to
+    Hugo being transgender and neither experience explains the other.
+  - Hugo decides he is willing to remain friends without pretending the breach
+    did not happen. Each friend keeps the other's distinct private information,
+    and they treat questions, presence, transformation, camera use, image
+    retention, display, and sharing as separable matters controlled by the
+    affected person.
+  - At the final observed meeting, Hugo permits one portrait of himself to be
+    displayed and Cody permits Hugo to keep one portrait of Cody privately.
+    Neither image creates a public record of Cody's ability or Hugo's history.
+  - The relationship is friendship, not established romance. Its later course
+    and any wider consent practice remain unresolved.
