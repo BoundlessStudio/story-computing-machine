@@ -757,3 +757,63 @@
   - The story does not establish a complete city map, total number of Keels,
     every section's function, routine route-access law, or a general design for
     another floating city.
+
+## Vantress
+
+- Status: LOCKED
+- Summary: Vantress is a walled city adjoining the Cinder March whose local
+  defenses include a five-district ward network and the Ninth Conduit border
+  junction.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Witnessed or directly implicated features include a northern parapet and
+    gate, crowded inner streets, an inner market, eastern roofs, a ward office,
+    district anchors, and a March road used for evacuation.
+  - The city has an otherwise undefined council that appoints its
+    Night-Sovereign. The ward network depends on living operators and ordinary
+    maintenance rather than autonomous city magic.
+  - Vantress's population, country, calendar, full government, complete map,
+    wider history, and relationship to any established city or era remain
+    unresolved.
+
+## Cinder March
+
+- Status: LOCKED
+- Summary: The Cinder March is Queen Draxenne's territory on the other side of
+  Vantress's Ninth Conduit border junction.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: the March
+- Notes:
+  - The witnessed border area includes outer settlements and an evacuation
+    road into Vantress. Storms can tear mineral grit from March terrain and
+    drive it toward the city.
+  - Draxenne commands crews and kilns able to prepare fitted ceramic defenses.
+    She spent the March's twelve available fitted plates during this incident
+    and agreed that her kilns would replace them.
+  - The March's boundaries, capital, population, succession, culture, civil
+    era, and relationship to Cinder Annex or another fire-, ash-, glass-, or
+    mineral-named place remain unresolved. Shared vocabulary establishes no
+    connection.
+
+## Ninth Conduit border complex
+
+- Status: LOCKED
+- Summary: The Ninth Conduit is disputed local ward infrastructure at the
+  border junction between Vantress and the Cinder March.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ninth Conduit; the Ninth
+- Notes:
+  - The complex includes an iron-rimmed conduit housing, a central pylon with
+    five brass pressure studs, a slate pressure map, district anchors, a
+    descending maintenance bridge, ceramic braces, and an old spillway below
+    Vantress's inner market.
+  - A concealed spillway crack and later failing slab complicated the
+    stormglass defense. Draxenne and Ombria's final repair kept both the March
+    road and the market standing but did not establish a permanent rebuild.
+  - Every observed component is nonliving and non-agentic. `Ninth` establishes
+    neither the number nor design of other conduits and has no connection to
+    the Ninth Hollow, whose bounded alias is `the Hollow`.

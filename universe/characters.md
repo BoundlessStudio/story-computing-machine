@@ -1540,3 +1540,58 @@
     the unlocated people nor Paz's later residence, work, or role in recovery.
   - Paz's age, occupation, origin beyond Orison, wider family, later history,
     and relationship to any other established person remain unresolved.
+
+## Queen Draxenne
+
+- Status: LOCKED
+- Summary: Queen Draxenne is the thirty-nine-year-old ruler of the Cinder
+  March and a living cindercraft user who helped preserve both sides of its
+  border with Vantress during one stormglass breach.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Draxenne
+- Notes:
+  - Draxenne arrived at the Ninth Conduit with twelve prepared ceramic plates,
+    four carts of powdered stone, and a plan to defend the March road and outer
+    settlements without stripping protection from Vantress.
+  - She won temporary conduit command from Ombria under their negotiated
+    thirty-breath contest, ended her own dangerous casts when concealed damage
+    made the plan fail, released exclusive control, and accepted a shared
+    defense instead of treating victory as permanent authority.
+  - Draxenne spent all twelve plates in the joint repair, committed her crews
+    and kilns to two eastern ward stations for one moon cycle, and retained an
+    independent safety veto and right of withdrawal.
+  - After distinguishing her desire for chosen time from any claim on Ombria,
+    Draxenne separately asked to court and kiss her; neither Draxenne's crown,
+    victory, magic, jealousy, nor emergency labor supplied consent.
+  - Her wider reign, succession, family, capital, later history, relationship
+    to any other queen or crown, and abilities beyond the witnessed local
+    cindercraft remain unresolved.
+
+## Night-Sovereign Ombria
+
+- Status: LOCKED
+- Summary: Night-Sovereign Ombria is the forty-two-year-old,
+  council-appointed Vantress officeholder and living shadowcraft user who
+  managed the city's ward planes during one stormglass breach.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ombria
+- Notes:
+  - Ombria monitored five district pressure signals, actively sustained as
+    many as four shadow planes at serious bodily cost, and briefly shaped a
+    fifth plane for two breaths during the joint defense.
+  - During the conduit contest she voluntarily ended her claim to answer a
+    third eastern-roof signal. She then honored Draxenne's temporary command,
+    asked what Draxenne needed when that plan failed, and negotiated a joint
+    procedure with an individually usable stop condition.
+  - Ombria retained her office, three ward anchors, an independent safety veto,
+    and the right to end the one-moon compact after safe transfer. She reserved
+    private hours from the ward office except for immediate danger to life.
+  - Ombria freely accepted Draxenne's requests for courtship and a kiss and
+    initiated the kiss. Their emergency compact, political positions, and
+    earlier rivalry establish no romantic obligation or guaranteed future.
+  - `Night-Sovereign` is a local civic office, not a divine, hereditary,
+    taxonomic, or universal nocturnal title. Ombria's family, origin, later
+    tenure, and relationship to another sovereign or shadow system remain
+    unresolved.
