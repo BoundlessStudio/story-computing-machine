@@ -912,3 +912,63 @@
      event used ordinary architecture, tools, and physical mechanics and has no
      established magical, divine, extraordinary-system, crossing, or universal
      explanation.
+
+## Undated Orison fall and Inner Sea landing
+
+- Status: LOCKED
+- Summary: One common-bus and lift failure forced the floating city of Orison
+  to shed its Low Keels and make a destructive permanent landing on the Inner
+  Sea.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Orison disaster; Orison descent
+- Notes:
+  1. Reactor Four's coolant-pressure loss, scram, turbine trip, generator arc,
+     and closed breaker initiated a common-bus cascade that shut down all six
+     reactors, destroyed the bus gallery's copper spine, and ended converter
+     power to the lift rings. Emergency generation remained with cooling.
+  2. The first vertical-rate model gave 51:08 until lethal contact. With almost
+     half a million people below Blue Deck, Damas ordered every Low Keel cleared
+     upward and truthfully announced their coming emergency jettison.
+  3. Inez calculated that roughly twelve percent of the city mass had to be
+     lost. Operators separated freight, tank, utility, housing, and
+     clinic-bearing sections; one freight bridge tore apart, detached cargo and
+     at least one platform hit the sea, severed utilities started fires, and a
+     shelter stair collapsed.
+  4. South Three's latch bank remained closed while the clinic evacuation was
+     unconfirmed. With nineteen seconds before Ring Four exceeded correction
+     capacity, Inez destructively overloaded Ring Three segment south-six,
+     tore the latch free, and dropped the inhabited clinic sector.
+  5. A frozen western switch on Ring Two caused Orison to roll. A powerless
+     tilt sensor held a stale six-degree reading while the visible horizon
+     continued to climb, so Inez used the horizon and burned the opposite
+     east-five segment to correct the city's attitude.
+  6. Corrected telemetry revealed less outer-ring reserve than modeled. Inez
+     rejected a stretched pulse calculated to leave a twenty-one-metre-per-
+     second contact and committed both outer rings to a pulse conditionally
+     modeled for about eleven metres per second. That impact speed was not
+     directly measured.
+  7. Orison struck the Inner Sea nearly level, impacted twice, flooded from
+     below, and settled unevenly. The control room rested at a measured
+     seven-degree southward cant; the citywide angle was not established. The
+     ring fields were spent, two ring segments were permanently lost, and
+     Orison could no longer rise on that lift system.
+  8. In the immediate aftermath, three ring trunks were reported flooded, two
+     holding, and one uncertain. Two districts smoked, lower streets flooded,
+     Reactor Four still required cooling, and responders needed a contamination
+     boundary across part of the Inner Sea. Deaths and missing people were
+     acknowledged without a final count.
+  9. Rescue boats approached from windward, initially able to move hundreds and
+     then thousands. Moving survivors from a city that held 4,083,612 residents
+     plus uncounted visitors would take days in favorable weather, while every
+     survivor had lost a home capable of rising. Survivors formed a hand-to-hand
+     line for water, bandages, children, and stretchers.
+  10. A partial Central School list placed Paz Arco with thirty-seven patients
+      and nine staff while four patients and three staff from the clinic group
+      remained unlocated. No final casualty, survivor, contamination, recovery,
+      or resettlement account is established.
+  11. The event's civil date, Orison's era and altitude, Galactic Cycle
+      coordinate, and ordering relative to every established story remain
+      unresolved. It has no established relationship to another sea, city,
+      civic disaster, magical system, reactor, lift, ring, or technological
+      mechanism.

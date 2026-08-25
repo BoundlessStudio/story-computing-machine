@@ -776,3 +776,25 @@
   - The label is not a magical contract, general engineering standard,
     species-wide goblin practice, universal five-minute limit, or alias for any
     other warranty, machine, spell, artifact, or power system.
+
+## Orison incident vocabulary
+
+- Status: LOCKED
+- Summary: A bounded vocabulary bundle for Orison's geography, infrastructure,
+  controls, and emergency descent.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - `Orison` names the floating and later grounded city; `Inner Sea` names the
+    water beneath it; `Blue Deck` is an emergency-shelter boundary; and `Low
+    Keels` names the detachable inhabited and industrial lower platforms.
+  - `Keel South Three` and `South Three` name the clinic-bearing sector dropped
+    during the descent. `Lift rings` names Orison's six segmented support rings,
+    and `ring bleed` means a controlled expenditure of their finite field.
+  - `Emergency jettison` is Damas's plain-language public label for the Low Keel
+    release. `Common bus` and `actuator rail` describe ordinary local electrical
+    and control infrastructure involved in the initiating failure.
+  - These terms are not character aliases, magical true names, universal
+    categories, general engineering standards, or evidence of shared origin or
+    identity with another sea, city, ring, lift, bus, disaster, or system.

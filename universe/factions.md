@@ -577,3 +577,43 @@
   - No organization, settlement, law, adventuring culture, authority,
     jurisdiction, final decision, or relationship to another established group
     is known.
+
+## Orison's dead-magic civic teaching
+
+- Status: LOCKED
+- Summary: Orison schoolchildren learn a local civic account that magic died
+  before human workers raised the city as their greatest wonder.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - An old school mosaic carries the local caption
+    `When magic died, human hands built the greatest wonder.` Inez treats
+    Orison's lift rings as measurable engineering and had corrected Paz for
+    calling them enchanted.
+  - No magic returns during the fall, and no dormant power lifts the city after
+    impact.
+  - This is Orison's cultural teaching and the Arco sisters' learned model, not
+    proof that magic ended everywhere, that human workers were the original
+    builders, or that Orison objectively outranks every other wonder.
+
+## Orison's local control and emergency authority
+
+- Status: LOCKED
+- Summary: Orison maintains local civic, reactor, lift, evacuation, shelter,
+  medical, transit, fire, and rescue functions that coordinated imperfectly
+  during the city's fall.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Orison Council; reactor-and-lift control
+- Notes:
+  - An otherwise unnamed Council required a projected-loss comparison before
+    inhabited platform separation could be authorized. A control shift chief
+    held operational authority over reactor cooling, lift response, emergency
+    jettison, and public landing warnings.
+  - District evacuation desks, a civic alert channel, emergency offices,
+    shelter ledgers, three hospitals, transit operators, fire crews, and
+    sea-rescue coordination are shown or directly invoked during the incident.
+  - No formal agency names, statutes, complete chain of command, ordinary
+    procedure, nation, jurisdiction beyond Orison, or lasting institutional
+    reform is established.

@@ -1472,3 +1472,71 @@
     asked that the fleeing inhabitants be left alone. No count, legal category,
     forgiveness, sentence, rescue outcome, later condition, or future decision
     by the searchers is established.
+
+## Inez Arco
+
+- Status: LOCKED
+- Summary: Inez Arco is an Orison lift-balance engineer whose decisions during
+  the city's catastrophic descent helped bring it down on the Inner Sea with
+  survivors.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Inez; Arco
+- Notes:
+  - Inez is Paz Arco's sister. Before the disaster she signed a thirty-day
+    operating waiver for a bridged breaker-actuator rail after the individual
+    breakers tested green.
+  - She diagnosed the common-bus cascade, calculated the required mass
+    shedding, designed and executed the Low Keel release and ring-bleed
+    sequence, and opened maintenance stair K to Paz's whole clinic block.
+  - When South Three's latch remained closed, Inez permanently burned one ring
+    segment to release it. She later burned a second segment to correct Orison's
+    roll and spent the remaining outer-ring field on the final deceleration.
+  - After impact she had an injured ankle and joined a survivor line carrying
+    supplies toward the rescue boats. Her calculations and choices did not
+    restore Orison or produce a complete casualty account.
+  - Her age, origin, education, later career, later accountability, wider
+    family, and relationship to any other established person or system remain
+    unresolved.
+
+## Chief Damas
+
+- Status: LOCKED
+- Summary: Chief Damas is Orison's local reactor-and-lift control shift chief
+  during the city's descent and Inner Sea landing.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Damas
+- Notes:
+  - Damas kept emergency generation assigned to post-scram reactor cooling,
+    demanded evidence before irreversible actions, and authorized the full Low
+    Keel evacuation and emergency jettison.
+  - With nineteen seconds before Ring Four exceeded correction capacity, he
+    left the final decision on the stuck South Three release to Inez as the
+    engineer responsible for the sequence.
+  - He coordinated the final brace warning and, after landing with an injured
+    forearm, reported the provisional Central School receiving list for Paz's
+    clinic group.
+  - His authority is local to Orison's control operation during this incident.
+    His age, origin, family, later status, and wider institutional authority
+    remain unresolved.
+
+## Paz Arco
+
+- Status: LOCKED
+- Summary: Paz Arco is Inez Arco's sister and a participant in the evacuation
+  of a clinic group from Orison's Low Keel South Three.
+- First established: stories/four-million-falling/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Paz
+- Notes:
+  - Paz rejected sister-only access to maintenance stair K and required Inez to
+    open the route to the whole clinic block.
+  - Her moving group was initially reported as forty-one patients, twelve
+    staff, and six neighboring civilians. A later partial receiving list placed
+    Paz at Central School with thirty-seven patients and nine staff while four
+    patients and three staff from the clinic group remained unlocated.
+  - The receiving list is provisional. It establishes neither the final fate of
+    the unlocated people nor Paz's later residence, work, or role in recovery.
+  - Paz's age, occupation, origin beyond Orison, wider family, later history,
+    and relationship to any other established person remain unresolved.
