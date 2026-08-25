@@ -1942,3 +1942,70 @@
     square-faced fighter from one attacking creature.
   - Perren and Brelva remain siblings and working partners. His age, wider
     family, origin, later work, and fate remain unresolved.
+
+## Agnes Wold
+
+- Status: LOCKED
+- Summary: Agnes Wold is the skilled carpenter and limeworker who bought and
+  restored the ruined Hollow Cask while ending its concealed dependence on a
+  living cellar colony.
+- First established: stories/the-hollow-cask/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Agnes
+- Notes:
+  - Agnes spent nearly all she owned on the pub and personally stabilized its
+    roof, drainage, walls, gallery, cellar, and surviving decorative fabric for
+    a harvest reopening.
+  - She tested the Underbreath's responses before admitting customers, treated
+    its demonstrated preference and refusal as sufficient reason not to claim
+    it through the deed, and rejected fumigation and hidden compulsory labor.
+  - During the storm she independently shored the sound inner beam, removed the
+    smoke-driving apparatus, cut away the decorated failing bay, and accepted a
+    smaller hall carried by ordinary oak posts.
+  - Her age, origin, training history, later finances, future ownership of the
+    pub, and relationship to any other established person remain unresolved.
+
+## Silas Cray
+
+- Status: LOCKED
+- Summary: Silas Cray is the local sawyer who withheld a family-held record of
+  the Hollow Cask's coercive smoke route before helping Agnes make the damaged
+  hall independently safe.
+- First established: stories/the-hollow-cask/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Silas
+- Notes:
+  - Silas initially urged dismantling and concealed his forebear's maintenance
+    book because he wanted the pub kept shut. The book corroborated later
+    smoke-driven exploitation but did not identify the builders or the
+    Underbreath's origin.
+  - He disclosed the book during the storm, opened the copper grille, shored
+    the sound beam, and drove the wedge that separated the failing outer bay.
+  - He later supplied sound oak at his own cost and displayed the maintenance
+    book beneath a public notice that also recorded how long he withheld it.
+    His help does not erase or excuse that withholding.
+  - His age, wider family, later work, and relationship to any other established
+    person remain unresolved.
+
+## The Underbreath
+
+- Status: LOCKED
+- Summary: The Underbreath is the local name for a living, nonverbal colony of
+  pale fungal cords and amber grain-sized mites occupying an ancient oak
+  cask-shell beneath the Hollow Cask.
+- First established: stories/the-hollow-cask/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: None
+- Notes:
+  - Its mites carry damp pulp toward brood, its visible margins grow after
+    shade and water are restored, and its cords bear heat and smoke scars.
+  - In a bounded test the colony protected brood, refused food beside a
+    smoke-stained route, released a loaded peg, and sought fresh air around an
+    obstruction. During the storm it later withdrew through an opened route
+    after the dangerous structural connection was severed.
+  - These observations establish coordinated preference, refusal, and
+    consequential response without proving speech, humanlike cognition, an
+    individual mind, or any exact degree of personhood.
+  - The colony's species, origin, uninterrupted age, long-term intentions,
+    continued residence, and relationship to any other organism, collective,
+    magic, or established person remain unresolved.
