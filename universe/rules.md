@@ -1798,3 +1798,105 @@
     exchange, precision limits, long-term effects, and relationship to
     Northbridge's transformations, the Nina-Anin incident, Crown-era dragon
     guises, Luz Navarro's shrinking, or any other system remain unresolved.
+
+## No More Magic terminal extinction boundary
+
+- Status: LOCKED
+- Summary: One terminal event permanently ended the six magical systems then
+  active in the material world and every endogenous or material means of
+  restoring them, without forbidding a genuinely new system from later
+  originating through living agents in an unaffected external reality.
+- First established: stories/all-accounts-due/05-story.md; scope clarified and
+  locked by explicit user decision, 2026-08-24
+- Aliases: No More Magic event; six-root extinction
+- Notes:
+  - The six terminal systems were Tessellate Grace, Manyroom, Worldcoil, Inward
+    Fire, Kindred Graft, and Horizon Flight. They were distinct local systems,
+    not one universal origin for all magic across history.
+  - The Absolute Yoke carried adapter patterns for all six. Any surviving root
+    could preserve the other five patterns and compel living users to rebuild
+    their entrances, so six living authorities had to arm six terminal
+    conditions for simultaneous release.
+  - Seyathi armed Tessellate Grace without informed agreement to the worldwide
+    scope. King Malrec, Qeluun, Hurzai, Jelveth Sorn, and Ekkorath knew the full
+    purpose and freely renewed their separate choices. Faris supplied no magical
+    condition; he physically released the already armed sequence.
+  - The Missing Tessera, Sole Chamber, Nearmost Vertebra, Cold Maw, Unhatched
+    Form, Unflown Arc, Parity Astrolabe, and Mortal Latch were bounded nonliving
+    mechanisms. They stored, aligned, focused, or released living-supplied
+    conditions without choosing, consenting, judging, or originating power.
+  - Pulling the Latch's ordinary cotter caused simultaneous contact. Faris's
+    exact words `No More Magic` caused nothing and are not a spell, command,
+    true name, or reusable extinction mechanism.
+  - The release emptied living capacity, active workings, stored charge,
+    magical structures, material crossing anchors, faculties, hybrids,
+    reserves, relics, seeds, inheritance, recoverable patterns, and every
+    material restoration path of the six systems. No artifact, descendant, or
+    machine can recover those systems.
+  - Ending function preserved whatever ordinary matter could sustain. It did
+    not erase identity, memory, relationships, worship, grief, responsibility,
+    earlier history, or the universal afterlife, but it caused deaths when
+    magical bodies, structures, routes, and supports failed.
+  - Earlier magic-active histories remain real. The universal underlying
+    afterlife and realities beyond the closed material crossings were outside
+    Faris's act. The six systems can never return, but a genuinely new system
+    may later originate through living agents in an unaffected external
+    reality; such origination is not restoration, survival, reversal, or a
+    hidden seventh root.
+  - This event does not identify any previously established system with one of
+    the six terminal roots, prove that an earlier system survived until this
+    era, or make extinction a universal property of magic in every reality.
+
+## Reciprocal joined-sky magic
+
+- Status: LOCKED
+- Summary: Ages after the No More Magic event, compatible reaches by living
+  agents on opposite sides of an unaffected external boundary originate a
+  genuinely new reciprocal system whose effects and costs touch both realities.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: joined-sky magic; reciprocal awakening; the joined sky; joined skies
+- Notes:
+  - Ordinary light carries only the ancient image of Faris and Seyathi.
+    Keshen's existing living magic striking the external boundary makes living
+    counterparts visible across it. The light carries no mind, power, judgment,
+    forgiveness, seed, root, reserve, or restoration mechanism. The six
+    terminal systems and the Ithrom wreck remain permanently dead.
+  - The first link begins only when Dalo and Keshen make compatible living
+    reaches, each grounding one hand in her own reality and offering the other.
+    Dalo's earlier unilateral reach produces nothing; Keshen's unilateral
+    external magic distorts her own realm and reveals the boundary but cannot
+    form the new system or return magic to the material world. They deliberately
+    answer each other after one aborted contact, but neither understands the
+    link's operation or lock-in before formation; this is not established
+    informed consent or a guarantee of safety.
+  - Formation gives Dalo Keshen's directional experience and gives Keshen
+    gravity; it redirects their shadows and produces new color in Ithrom's dead
+    stone. These effects originate no reservoir and do not reproduce any of the
+    six old systems.
+  - Neither Dalo nor Keshen can lower, widen, narrow, alter, or close the first
+    link alone. A unilateral attempt can transmit pain or destabilize the other
+    side. Matched actions can narrow the active pressure, but a dimmer mutual
+    view remains and cannot be closed or widened from one side. This creates
+    mutual-veto, coercion, and hostage risks; Dalo's momentary judgment that the
+    link is not a trap is not a system guarantee.
+  - Later compatible reaches use hands, attention, song and answer, or other
+    living reciprocal media and produce different effects and costs in both
+    realities. Prayer, command, blood, words, stone, glass, or metal alone do
+    nothing, and captured ordinary light retains no power after living
+    participants turn away.
+  - Refusals before formation are observed and leave blank sky without
+    punishment. Some attempts fail or break off. These facts do not establish a
+    unilateral post-formation right or mechanism of withdrawal.
+  - The story does not resolve safe permanent joint closure; what happens when
+    one participant seeks exit and the other refuses; sleep, incapacity,
+    coercion, communication failure, or death; persistence, transfer, survivor
+    entrapment, or afterlife interaction; or safeguards against abuse,
+    surveillance, involuntary memory exposure, pain, or withheld closure.
+    Children do produce brief reciprocal effects, but minors' informed-decision
+    capacity, guardian authority, rescission rights, and eligibility for a
+    persistent link remain unresolved. Collateral third-party effects also
+    occur, but their consent requirements, safeguards, limits, and liability,
+    along with proxy authority and the role of nearby helpers, remain
+    unresolved. Nonhuman capacity thresholds, maximum costs, and asymmetric
+    costs are likewise unresolved.

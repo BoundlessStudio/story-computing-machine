@@ -1073,3 +1073,91 @@
      and ordering relative to every established story remain unresolved. It has
      no established relationship to another school, modern-like setting,
      identity-exposure event, or transformation system.
+
+## Undated No More Magic extinction
+
+- Status: LOCKED
+- Summary: In a terminal era after every admitted magic-active material-world
+  history, seven living participants converged at the Ithrom Array and ended the
+  six magical systems then active in that world.
+- First established: stories/all-accounts-due/05-story.md; chronology and scope
+  locked by explicit user decision, 2026-08-24
+- Aliases: No More Magic event; All Accounts Due event
+- Notes:
+  1. Across thirty-one years, lifelong nonmagical Faris acquired eight bounded
+     relics and relationships with Seyathi, King Malrec, Qeluun, Hurzai,
+     Jelveth Sorn, and Ekkorath through six separate adventures. The relics did
+     not choose him, and the relationships were not one original terminal plan.
+  2. At the Ithrom Array, the Bound Ascendancy used the Absolute Yoke to combine
+     six magical systems into coercive command that would preserve magical
+     order by ending refusal.
+  3. Faris asked all six authorities to arm the terminal conditions. Malrec,
+     Qeluun, Hurzai, Jelveth, and Ekkorath knew the worldwide scope and renewed
+     their choices; Seyathi freely armed her condition under a technically true
+     request that concealed the full result.
+  4. The six authorities defended Faris while he seated the Mortal Latch. When
+     the Parity Astrolabe aligned, he pulled an ordinary cotter and said `No More
+     Magic`; the pull, not the words, released all six conditions at once.
+  5. Tessellate Grace, Inward Fire, Horizon Flight, Manyroom, Worldcoil, and
+     Kindred Graft ended in distinct material consequences. Magic-dependent
+     bodies and structures failed, cities and masses fell, some people survived
+     materially, and others died. The event preserved personhood rather than
+     ranking whose identity deserved survival.
+  6. Every capacity, working, charge, structure, crossing, faculty, hybrid,
+     reserve, relic, seed, and endogenous or material restoration path of the
+     six systems reached permanent zero. Earlier history, the universal
+     afterlife, and external realities remained outside the event.
+  7. The broken Array entered ordinary free-fall. The story ends with Seyathi,
+     alive and newly mortal, recognizing Faris's deception and receiving no
+     answer from her attempted Grace gesture.
+  8. This event occurs after every currently admitted magic-active history in
+     the material world. Its civil date and Galactic Cycle coordinate remain
+     unresolved. The placement does not map any earlier established system onto
+     a terminal root or make this story an origin shared by earlier histories.
+
+## Ages-later joined-sky awakening
+
+- Status: LOCKED
+- Summary: After a long interval of perfect material-world zero, ordinary light
+  from the No More Magic event reached an unaffected external reality and living
+  participants on both sides originated reciprocal magic anew.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: reciprocal awakening; sky awakening; return of magic; The Sky
+  Remembers Us event
+- Notes:
+  1. Immediately after the No More Magic ending, Seyathi reaches toward Faris
+     during the Array's fall. Faris raises a hand, their fingertips do not meet,
+     both strike the ground, and both die without restored power,
+     reconciliation, forgiveness, or continuation in the departing light.
+  2. Ordinary light carrying their final surfaces travels outward while ages,
+     geological change, and cultural change pass. Ithrom becomes a high black
+     plain, and the material world remains wholly without magic throughout this
+     interval.
+  3. The light reaches the boundary of Keshen's unaffected inward-fold reality.
+     Her unilateral attempt to rescue the falling image fails and causes local
+     harm, but the disturbed boundary reveals living people on both sides.
+  4. At Ithrom, magicless Dalo and Miraq see Keshen's realm across the ordinary
+     light. The sight spreads across both skies before new magic begins.
+     Material-side old words, prayer, objects, and unilateral reaches yield no
+     returned power; Keshen's existing external magic can disturb the boundary
+     but cannot complete the new link or restore power below.
+  5. Dalo and Keshen make compatible grounded and offered reaches. Their first
+     link originates new reciprocal magic and changes both realities. Miraq and
+     Keshen's oldest unnamed friend then enter the shared risk without becoming
+     owners or permission-givers.
+  6. Evidence of the first link spreads rather than a reservoir. Other living
+     participants on both sides answer, refuse, fail, or break off; new
+     links create varied bilateral effects and costs across both realities while
+     the six old systems remain permanently extinct.
+  7. At dawn, Dalo and Keshen jointly narrow their link and lower their hands,
+     but the mutual view remains. Its one-sided closure is impossible in the
+     observed event, and its longer-term operation and safety remain unresolved.
+  8. Dalo's inherited legend and one focal thought compress the old extinction
+     to Faris and Seyathi. They do not override the authoritative record that
+     six living authorities armed the terminal conditions and Faris released
+     them.
+  9. This awakening occurs after No More Magic and therefore after every
+     currently admitted magic-active material-world history. Its civil date,
+     Galactic Cycle coordinate, exact interval length, and ordering relative to
+     unrelated post-extinction nonmagical events remain unresolved.

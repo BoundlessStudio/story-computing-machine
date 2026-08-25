@@ -3,11 +3,11 @@
   "slug": "all-accounts-due",
   "title": "All Accounts Due",
   "created": "2026-08-05",
-  "stage": "candidate",
-  "status": "candidate",
-  "canon": false,
-  "userDisposition": "pending",
-  "publish": false,
-  "promotionDate": null,
+  "stage": "final",
+  "status": "final",
+  "canon": true,
+  "userDisposition": "accepted",
+  "publish": true,
+  "promotionDate": "2026-08-24",
   "provenance": "pipeline"
 }

@@ -858,3 +858,57 @@
     character's gender.
   - No shop name, owner, staff identity, street, city, wider retail practice,
     magical service, or connection to another established location is known.
+
+## Ithrom Array and Unwritten Axis
+
+- Status: LOCKED
+- Summary: The Ithrom Array was a nonliving terminal junction where six
+  material-world magical systems crossed and were permanently extinguished.
+- First established: stories/all-accounts-due/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Ithrom Array; the Array; Unwritten Axis; the Axis; Ithrom
+- Notes:
+  - Six-practice engineers built the Array, Parity Astrolabe, and Mortal Latch
+    three hundred and two years before the terminal event as a distributed
+    failsafe against coupled roots. Timing custody and final-junction custody
+    were deliberately separated.
+  - The Array contained six sockets around the Unwritten Axis and a three-body-
+    length approach to the Latch recess. The Astrolabe only indicated parity;
+    the Latch only aligned and physically released conditions supplied by
+    living authorities.
+  - After the six systems ended, the Astrolabe and Latch broke, the world-curves
+    straightened, the Axis tore free, and the unsupported Array entered
+    ordinary free-fall. No part retained power, agency, or a repeatable terminal
+    action.
+  - Ages later, ordinary geology has weathered the crater into a high black
+    plain containing fused gullies, half-buried arches, and inert stone. The
+    later culture uses `Ithrom` as a shortened name for the site. No anomalous
+    warmth, magic, hidden root, or restoration mechanism remains in the wreck.
+  - The site's wider geography, polity, civil dates, and Galactic Cycle
+    coordinates remain unresolved. The Array has no established connection to
+    another junction, axis, array, gate, or crossing system.
+
+## Keshen's unnamed inward-fold realm
+
+- Status: LOCKED
+- Summary: An unnamed living reality beyond the material world's closed
+  boundary is the unaffected external side of the joined-sky awakening.
+- First established: stories/the-sky-remembers-us-return/story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Keshen's realm; the inward realm; the living folds
+- Notes:
+  - Before the awakening, its people live along inward folds without stars or
+    ordinary faraway distance. Welcomed living minds can bring rooms and paths
+    near; the upper boundary had never supplied a living answer.
+  - The realm is not a second physical shared world or hidden refuge for the six
+    extinct systems. Its own living magic was outside the No More Magic event.
+    No relationship to the universal afterlife, a destination once served by an
+    old material crossing, the Glass Gate, or another established external
+    reality is established.
+  - The awakening gives the realm true distance, pockets of weight, and shadows
+    cast by material-world stars while reciprocal effects also alter the
+    material world. The two realities become mutually visible but are not shown
+    physically merging or permitting bodily crossing.
+  - The realm's name, full inhabitants, origin, geography, cosmology, civil
+    date, Galactic Cycle coordinate, relationship to other external realities,
+    and later history remain unresolved.
