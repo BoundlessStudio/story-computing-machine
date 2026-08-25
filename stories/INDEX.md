@@ -7,7 +7,6 @@ Do not update it for current stories. Current metadata lives only in
 | Story | Title | Status | Canon | User disposition | Publish | Promotion date | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | `strength-of-ten` | *The Strength of Ten* | candidate | no | pending | no | — | Release-certified story candidate. |
-| `a-friendly-little-game` | *A Friendly Little Game* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-hollow-cask` | *The Hollow Cask* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `all-accounts-due` | *All Accounts Due* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `four-million-falling` | *Four Million Falling* | candidate | no | pending | no | — | Release-certified story candidate. |
