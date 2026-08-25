@@ -2,7 +2,7 @@
 title: "The Night Harvest"
 slug: "the-night-harvest"
 created: 2026-08-06
-canon: false
+canon: true
 ---
 
 # The Night Harvest

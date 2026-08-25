@@ -1809,3 +1809,50 @@
   - Keshen's family name, species, age, occupation, later life, permanent
     effects, and relationship to any other established person remain
     unresolved. Her oldest friend remains unnamed.
+
+## Brelva
+
+- Status: LOCKED
+- Summary: Brelva is a carcass grader and hauling-cart co-owner who identified
+  the route danger preserved in brined throat nodes during one unnamed
+  settlement's sixth-night convergence.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: None
+- Notes:
+  - Brelva grades harvested creatures by material quality, weight, vibration,
+    and price. Her observations across six routes and nineteen attacks linked
+    preserved-node shipments to the places where later attacks clustered.
+  - She and her brother Perren depended on a three-load contract to clear their
+    leaking cart and broken axle. Brelva initially treated that promise and her
+    fear after prior partners' deaths as authority to decide Perren's risks.
+  - After seeing one node's vibration end when its membrane was heated, she
+    asked Perren what he wanted, joined him in refusing the final harvest, and
+    helped destroy the yard's accumulated stock without routing it past homes.
+  - Brelva negotiated the surviving axle debt onto salvage wages, posted only
+    the observed route sequence rather than a global explanation, and adopted
+    the strangers' stop and approach gestures for limited future cooperation.
+  - Her age, family beyond Perren, origin, later work, wider influence, and fate
+    remain unresolved.
+
+## Perren
+
+- Status: LOCKED
+- Summary: Perren is Brelva's brother and hauling partner, whose attention to
+  bodies, routes, and chosen positions helped establish the danger posed by
+  preserved throat nodes.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: None
+- Notes:
+  - Perren maintains and operates the siblings' indebted cart, reads physical
+    placement as evidence of expected danger, and recognized that the strange
+    fighters repeatedly put themselves between node loads and inhabited doors.
+  - On the marsh road he helped crack and heat sixteen preserved nodes, burned
+    his thumb on the final membrane, and still chose to stop harvesting rather
+    than move the larger stockpile along a populated route.
+  - During the yard convergence he rescued an injured guard, coordinated clear
+    paths, and used the cart chain and a loose wheel to help free the
+    square-faced fighter from one attacking creature.
+  - Perren and Brelva remain siblings and working partners. His age, wider
+    family, origin, later work, and fate remain unresolved.
