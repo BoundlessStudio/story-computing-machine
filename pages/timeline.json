@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "chapters": [
+    {
+      "id": "first-wonders",
+      "type": "era",
+      "eyebrow": "Before the ledgers",
+      "title": "First Wonders",
+      "description": "The oldest layer we can glimpse: transformations, sacred fires, and powers remembered more like folktale than history.",
+      "sequenceNote": "These stories occupy the deep mythic past; their order inside the era remains deliberately provisional.",
+      "confidence": "speculative",
+      "stories": [
+        "where-the-white-elk-went",
+        "the-morning-her-hand-moved",
+        "a-crown-for-the-endless-fire",
+        "the-last-flames"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "wandering-magic",
+      "type": "era",
+      "eyebrow": "Roads before institutions",
+      "title": "Wandering Magic & First Kingdoms",
+      "description": "Magic travels in bodies, names, monsters, guests, and village bargains before durable states learn to contain it.",
+      "sequenceNote": "A broad early-age sequence inferred from social scale and magical custom, not a dated dynasty list.",
+      "confidence": "speculative",
+      "stories": [
+        "the-villages-only-mage",
+        "the-name-the-water-took",
+        "there-goes-your-name",
+        "every-flower-she-knew",
+        "the-weight-they-never-counted",
+        "coiled-together",
+        "friends-of-the-night",
+        "the-lions-last-constellation",
+        "the-ninety-year-barrier",
+        "tea-for-the-first-guest",
+        "the-hollow-cask",
+        "the-last-monster",
+        "clerics-infernal-ex"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "crowns-and-covenants",
+      "type": "era",
+      "eyebrow": "The age of thrones",
+      "title": "Crowns, Covenants & Dragon States",
+      "description": "Courts, priesthoods, infernal treaties, hidden heirs, and sleeping dragons turn personal power into political order.",
+      "sequenceNote": "The era is secure as a civilizational layer; most story-to-story ordering inside it is still speculative.",
+      "confidence": "speculative",
+      "stories": [
+        "the-kingdom-of-later",
+        "never-a-mascot",
+        "four-crowns-in-hiding",
+        "the-walls-are-thick-enough",
+        "when-the-eagle-bowed",
+        "a-crown-in-the-bargain",
+        "strength-of-ten",
+        "where-no-unicorn-stands",
+        "the-vacant-throne",
+        "a-throne-neither-wanted",
+        "the-sister-behind-her-smile",
+        "the-gentlest-terror",
+        "save-that-dragon",
+        "mother-of-monsters",
+        "the-shape-of-mercy",
+        "the-future-that-refused-us",
+        "a-crown-of-quiet-hours",
+        "the-peace-they-could-sleep-through",
+        "the-kingdom-was-the-easy-part",
+        "saint-and-demon",
+        "head-priests-in-love",
+        "his-infernal-majesty-says-no"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "civic-arcana",
+      "type": "era",
+      "eyebrow": "Magic gets paperwork",
+      "title": "Guilds, Colleges & Civic Arcana",
+      "description": "Healers measure, schools classify, cities regulate, and ordinary lives grow around magic sturdy enough to become infrastructure.",
+      "sequenceNote": "Placed after the crown age by institutional maturity; the individual sequence is a working reconstruction.",
+      "confidence": "speculative",
+      "stories": [
+        "blood-types-of-immortality",
+        "the-thousandth-fall",
+        "the-healers-measure",
+        "the-ordinary-slime",
+        "the-last-thing-i-could-fix",
+        "the-door-knows-home",
+        "the-rule-between-courses",
+        "the-courtesy-of-blades",
+        "a-little-winter-for-sale",
+        "fifty-seven-minutes",
+        "fourth-house",
+        "a-darkness-written-under-skin",
+        "the-weight-of-falling-up-rune-shoes"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "arcane-industry",
+      "type": "era",
+      "eyebrow": "Systems of wonder",
+      "title": "Arcane Industry",
+      "description": "Foundations, warranties, command structures, and manufactured companions mark a world trying to make magic repeatable.",
+      "sequenceNote": "One relationship fixes a local link; the rest follow a speculative rise in technological and civic complexity.",
+      "confidence": "speculative",
+      "stories": [
+        "the-city-of-eleven-foundations",
+        "the-unfinished-sunset",
+        "blade-calls-your-name",
+        "voice-of-silence",
+        "a-lock-on-the-inside",
+        "the-friends-i-built",
+        "the-five-minute-warranty",
+        "the-thirteenth-command",
+        "what-i-hate-most"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "fallen-engines",
+      "type": "era",
+      "eyebrow": "After the ascent",
+      "title": "Fallen Engines & Salvage",
+      "description": "Vast machines fall, patient rooms wait, names survive wreckage, and the remnants of one high order become another age's ruins.",
+      "sequenceNote": "A decline-and-recovery layer inferred from scale, debris, and the way surviving systems are encountered.",
+      "confidence": "speculative",
+      "stories": [
+        "four-million-falling",
+        "the-room-that-waited",
+        "leave-the-names",
+        "the-upward-rain"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "modern-like-trough",
+      "type": "era",
+      "eyebrow": "Magic beneath the ordinary",
+      "title": "The Modern-like Low-Magic Trough",
+      "description": "Buses, cafés, clinics, schools, rentals, and small towns dominate the surface while old powers persist in families, mirrors, sleep, weather, and thresholds.",
+      "sequenceNote": "Seven stories are fixed to this era by universe authority, but their relative order remains unresolved; neighboring placements use shared material culture and low public magical visibility.",
+      "confidence": "inferred",
+      "stories": [
+        "before-she-gets-tired",
+        "everyone-knows-her",
+        "the-names-on-the-cups",
+        "empire-within",
+        "the-night-she-knew",
+        "the-inheritance-remembers",
+        "the-trouble-with-tuesdays",
+        "self-reflection",
+        "a-place-for-the-living",
+        "thirteen-years-borrowed",
+        "the-other-twin",
+        "the-wrong-side-of-the-part",
+        "the-cat-who-had-enough",
+        "the-wolf-in-the-mirror",
+        "the-bat-at-the-door",
+        "by-tooth-and-threshold",
+        "she-literally-has-wings",
+        "what-the-town-owed-her",
+        "life-with-a-girlfriend-with-shrinking-powers",
+        "lightning-carries-one",
+        "where-sleep-takes-you",
+        "roads-under-impossible-stars",
+        "the-last-bus-to-briar-hill",
+        "the-hoarders-house",
+        "the-first-wound",
+        "when-the-needle-finds-you",
+        "terms-at-four",
+        "transitions-in-common",
+        "witch-cold",
+        "the-attendance-ledger",
+        "solstice-evening-bell"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "off-axis-realms",
+      "type": "branch",
+      "eyebrow": "Not safely reducible to one line",
+      "title": "Off-Axis Realms",
+      "description": "Some stories cross realms, compress unequal clocks, or sit outside ordinary material time. Their internal sequences are real even when their attachment point is not.",
+      "sequenceNote": "Shown beside the trough because of visible modern bridges, without pretending that this settles their universal position.",
+      "confidence": "unresolved",
+      "stories": [],
+      "constellations": [
+        {
+          "id": "ravel-modern-bridge",
+          "eyebrow": "Unequal clocks",
+          "title": "Ravel / Modern Bridge",
+          "description": "A small moon, eleven seconds, four months, and a year belong to the same causal chain but not the same clock.",
+          "sequenceNote": "The bridge is explicit; Ravel's position relative to the main material chronology is unresolved.",
+          "confidence": "unresolved",
+          "stories": [
+            "the-small-moon-rose-first"
+          ]
+        },
+        {
+          "id": "modern-frame-unknown-destinations",
+          "eyebrow": "Departure and return",
+          "title": "Modern Frame, Unknown Destinations",
+          "description": "A recognizable apartment doorway brackets journeys whose worlds cannot be assigned to the main historical line.",
+          "sequenceNote": "Its frame resembles the low-magic present; its ten worlds remain off-axis.",
+          "confidence": "unresolved",
+          "stories": [
+            "tenth-world-lesson"
+          ]
+        },
+        {
+          "id": "unresolved-crossings",
+          "eyebrow": "Worlds that resist coordinates",
+          "title": "Unresolved Crossings",
+          "description": "Realm structure and higher-order play make linear placement less truthful than an open branch.",
+          "sequenceNote": "No authoritative hinge currently joins these stories to a material era.",
+          "confidence": "unresolved",
+          "stories": [
+            "realms",
+            "the-players-above"
+          ]
+        },
+        {
+          "id": "outside-material-time",
+          "eyebrow": "Between destinations",
+          "title": "Outside Material Time",
+          "description": "A station between worlds belongs to the universe without occupying a stable historical address inside it.",
+          "sequenceNote": "Its relation to material eras is intentionally left open.",
+          "confidence": "unresolved",
+          "stories": [
+            "the-station-between"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bay-museum-age",
+      "type": "hinge",
+      "eyebrow": "Centuries become an exhibit",
+      "title": "The Long Reign & the Bay Museum",
+      "description": "The Battle of the Bay has passed from lived crisis into curated history—except for the witness still alive to correct the count.",
+      "sequenceNote": "Explicitly centuries after Solstice Evening Bell.",
+      "confidence": "inferred",
+      "stories": [
+        "the-count-was-131072"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "public-return",
+      "type": "era",
+      "eyebrow": "Wonder in public view",
+      "title": "Public Return & the Augmented City",
+      "description": "Gods, monsters, drones, altered bodies, municipal systems, and engineered mercy share the streets openly.",
+      "sequenceNote": "Placed after the trough by visibility and technological integration; most internal ordering remains inferred.",
+      "confidence": "inferred",
+      "stories": [
+        "the-night-harvest",
+        "what-turned-eighteen",
+        "anatomy-of-a-god",
+        "deaths-patron",
+        "captive-couples",
+        "ultimate-evil-dog",
+        "the-name-i-kept",
+        "the-warmest-person-in-the-room",
+        "drone-down",
+        "the-unfixed-face",
+        "the-mercy-circuit",
+        "the-driver-the-city-could-not-see",
+        "what-she-remembered-of-peace",
+        "the-kill-she-wouldnt-take"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "orbital-zenith",
+      "type": "era",
+      "eyebrow": "The sky becomes inhabited",
+      "title": "Orbital Zenith & Living Cities",
+      "description": "Bodies, clouds, songs, habitats, and watchers stretch civilization from transformed cities into orbit and the outer system.",
+      "sequenceNote": "A high-technology sequence inferred from spatial reach and social integration.",
+      "confidence": "inferred",
+      "stories": [
+        "the-body-called-one",
+        "laughing-clouds",
+        "rooms-before-sunrise",
+        "the-unfixed-song",
+        "deja-vu-too-late",
+        "last-watcher-of-jupiter",
+        "the-shadow-that-nested",
+        "apes-in-orbit",
+        "kite-letters-below"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "archive-refoundings",
+      "type": "era",
+      "eyebrow": "Worlds become strata",
+      "title": "Archive Civilizations & Reclaimed Worlds",
+      "description": "Kingdoms, foundations, and starward rituals persist long enough to be buried, excavated, reconstructed, and misunderstood by successor cultures.",
+      "sequenceNote": "A far-future layer inferred from deep-time archaeology and civilizational refounding.",
+      "confidence": "inferred",
+      "stories": [
+        "the-first-kingdom-was-late-on-taxes",
+        "the-foundations-remember",
+        "the-star-that-followed-the-bells"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "glass-sea",
+      "type": "hinge",
+      "eyebrow": "A regional system breaks",
+      "title": "The Glass-Sea Catastrophe",
+      "description": "The Day of Glass consumes six outer cities and breaks a centralized solar network; four centuries later, recovery of the buried record begins the second dawn.",
+      "sequenceNote": "Its regional scope and four-century internal interval are fixed by authoritative chronology.",
+      "confidence": "fixed",
+      "stories": [
+        "daughter-of-the-sun"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "terminal-convergence",
+      "type": "hinge",
+      "eyebrow": "Every account closes",
+      "title": "Terminal Convergence",
+      "description": "After every admitted magic-active material history, the universe reaches its final reckoning.",
+      "sequenceNote": "Fixed as the last material-history event before the Long Zero.",
+      "confidence": "fixed",
+      "stories": [
+        "all-accounts-due"
+      ],
+      "constellations": []
+    },
+    {
+      "id": "long-zero",
+      "type": "interval",
+      "eyebrow": "No story occupies this interval",
+      "title": "The Long Zero",
+      "description": "Ages of perfect absence separate extinction from return. The empty space is part of the chronology.",
+      "sequenceNote": "Fixed between Terminal Convergence and the Joined-Sky reawakening.",
+      "confidence": "fixed",
+      "stories": [],
+      "constellations": []
+    },
+    {
+      "id": "joined-sky",
+      "type": "hinge",
+      "eyebrow": "After absence",
+      "title": "The Joined-Sky Reawakening",
+      "description": "Ages after the perfect zero, sky and world remember one another and existence begins again in a transformed register.",
+      "sequenceNote": "Fixed as the furthest known point on the shared-universe chronology.",
+      "confidence": "fixed",
+      "stories": [
+        "the-sky-remembers-us-return"
+      ],
+      "constellations": []
+    }
+  ],
+  "storyMoments": {
+    "where-the-white-elk-went": [
+      "A white elk crosses beyond the known boundary"
+    ],
+    "the-morning-her-hand-moved": [
+      "The first impossible movement",
+      "A life reorganizes around the wonder"
+    ],
+    "a-crown-for-the-endless-fire": [
+      "The endless fire is given a crown"
+    ],
+    "when-the-eagle-bowed": [
+      "An imperial symbol yields"
+    ],
+    "tea-for-the-first-guest": [
+      "Hospitality precedes the later rules"
+    ],
+    "a-crown-of-quiet-hours": [
+      "After 218 years of rule",
+      "Six weeks to the Charter",
+      "Seven months until the dragons sleep"
+    ],
+    "the-peace-they-could-sleep-through": [
+      "The dragons sleep",
+      "Human hearings govern the peace"
+    ],
+    "the-unfinished-sunset": [
+      "An engineered sunset refuses completion"
+    ],
+    "voice-of-silence": [
+      "Kethra qualifies as an archmage"
+    ],
+    "a-lock-on-the-inside": [
+      "Later: Kethra takes a mistreated apprentice"
+    ],
+    "four-million-falling": [
+      "Four million descend from the old height"
+    ],
+    "the-trouble-with-tuesdays": [
+      "A recurring weekday breach exposes hidden magic"
+    ],
+    "the-first-wound": [
+      "A battle about 25,000 years before the tram-and-therapy present",
+      "Therapy follows the wound backward"
+    ],
+    "solstice-evening-bell": [
+      "The Battle of the Bay"
+    ],
+    "the-small-moon-rose-first": [
+      "617 Ravel days",
+      "Eleven seconds for Nell",
+      "Four modern months later for Bash",
+      "One year after Nell"
+    ],
+    "tenth-world-lesson": [
+      "Departure through an apartment doorway",
+      "Nine assignments",
+      "The tenth severance",
+      "Return through the same doorway"
+    ],
+    "the-count-was-131072": [
+      "Centuries after the Battle of the Bay",
+      "The last living witness corrects the museum"
+    ],
+    "kite-letters-below": [
+      "Orbital messages descend by kite"
+    ],
+    "the-first-kingdom-was-late-on-taxes": [
+      "An early village becomes a kingdom",
+      "Millions of years later: excavation"
+    ],
+    "daughter-of-the-sun": [
+      "The Day of Glass",
+      "Four centuries of aftermath",
+      "The second dawn"
+    ],
+    "all-accounts-due": [
+      "The final admitted magic-active material history"
+    ],
+    "the-sky-remembers-us-return": [
+      "Ages after perfect zero",
+      "Sky and world rejoin"
+    ]
+  },
+  "storySpans": {
+    "the-first-wound": {
+      "start": "Deep prehistory",
+      "end": "Modern trough",
+      "note": "Ancient battle → tram-and-therapy present"
+    },
+    "the-first-kingdom-was-late-on-taxes": {
+      "start": "First kingdoms",
+      "end": "Archive age",
+      "note": "Village origin → excavation millions later"
+    }
+  },
+  "storyConfidence": {
+    "a-lock-on-the-inside": "inferred",
+    "the-names-on-the-cups": "fixed",
+    "the-trouble-with-tuesdays": "fixed",
+    "self-reflection": "fixed",
+    "a-place-for-the-living": "fixed",
+    "she-literally-has-wings": "speculative",
+    "the-first-wound": "speculative",
+    "transitions-in-common": "fixed",
+    "the-attendance-ledger": "fixed",
+    "solstice-evening-bell": "fixed",
+    "deaths-patron": "speculative"
+  }
+}

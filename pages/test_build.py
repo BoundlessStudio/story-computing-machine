@@ -1,4 +1,5 @@
 import importlib.util
+import json
 import os
 import re
 import shutil
@@ -6,6 +7,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+from collections import Counter
 from pathlib import Path
 
 SPEC = importlib.util.spec_from_file_location("story_site", Path(__file__).with_name("build.py"))
@@ -993,6 +995,101 @@ class StorySystemTests(unittest.TestCase):
             any(re.match(r"^(?:#{1,6}\s*)?\[?WP\]", story.prompt) for story in catalog.stories)
         )
 
+    def test_stored_timeline_places_every_story_once(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        placements = [
+            slug
+            for chapter in timeline.chapters
+            for slug in (
+                *chapter.stories,
+                *(slug for group in chapter.constellations for slug in group.stories),
+            )
+        ]
+
+        self.assertEqual(len(catalog.stories), len(placements))
+        self.assertEqual({story.slug for story in catalog.stories}, set(placements))
+        self.assertTrue(all(count == 1 for count in Counter(placements).values()))
+        self.assertEqual(set(placements), set(timeline.story_confidence))
+        self.assertEqual(
+            {"the-first-wound", "the-first-kingdom-was-late-on-taxes"},
+            set(timeline.story_spans),
+        )
+
+        chapter_ids = [chapter.id for chapter in timeline.chapters]
+        self.assertEqual("first-wonders", chapter_ids[0])
+        self.assertEqual("joined-sky", chapter_ids[-1])
+        self.assertLess(chapter_ids.index("modern-like-trough"), chapter_ids.index("glass-sea"))
+        self.assertLess(chapter_ids.index("terminal-convergence"), chapter_ids.index("long-zero"))
+        self.assertLess(chapter_ids.index("long-zero"), chapter_ids.index("joined-sky"))
+
+        placements_by_chapter = {
+            chapter.id: [
+                *chapter.stories,
+                *(slug for group in chapter.constellations for slug in group.stories),
+            ]
+            for chapter in timeline.chapters
+        }
+        self.assertLess(
+            placements_by_chapter["arcane-industry"].index("voice-of-silence"),
+            placements_by_chapter["arcane-industry"].index("a-lock-on-the-inside"),
+        )
+        self.assertIn(
+            "solstice-evening-bell",
+            placements_by_chapter["modern-like-trough"],
+        )
+        self.assertEqual(
+            ["the-count-was-131072"],
+            placements_by_chapter["bay-museum-age"],
+        )
+
+    def test_timeline_rejects_duplicate_story_placement(self):
+        catalog = build.load_catalog()
+        value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        duplicated_slug = value["chapters"][0]["stories"][0]
+        value["chapters"][1]["stories"].append(duplicated_slug)
+
+        with tempfile.TemporaryDirectory() as temporary:
+            timeline_path = Path(temporary) / "timeline.json"
+            timeline_path.write_text(json.dumps(value), encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "repeats already placed stories"):
+                build.load_timeline(catalog, timeline_path)
+
+    def test_timeline_render_is_cover_led_universal_chronology(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        rendered = build.render_timeline(catalog, timeline)
+
+        story_links = re.findall(r'href="stories/([^"/]+)\.html"', rendered)
+        self.assertEqual(len(catalog.stories), len(story_links))
+        self.assertEqual({story.slug for story in catalog.stories}, set(story_links))
+        self.assertTrue(all(count == 1 for count in Counter(story_links).values()))
+        self.assertGreaterEqual(
+            rendered.count('<img src="timeline-covers/'),
+            len(catalog.stories),
+        )
+        self.assertIn("A chronology of the shared universe", rendered)
+        self.assertIn("The Modern-like Low-Magic Trough", rendered)
+        self.assertIn("Off-Axis Realms", rendered)
+        self.assertIn("The Long Zero", rendered)
+        self.assertIn('class="timeline-chapter chapter-interval" id="long-zero"', rendered)
+        self.assertIn("≈01", rendered)
+        self.assertIn("Era fixed", rendered)
+        self.assertIn("era membership is established", rendered)
+        self.assertIn('class="timeline-span"', rendered)
+        self.assertIn('data-story-state="candidate"', rendered)
+        self.assertIn('<span class="timeline-story-state">Candidate</span>', rendered)
+        self.assertIn('aria-label="Approximate position 1 in this era band"', rendered)
+        self.assertIn('aria-label="Position unresolved within this era band"', rendered)
+        self.assertNotIn('aria-label="Read ', rendered)
+        self.assertIn('data-placement-confidence="fixed"', rendered)
+        self.assertIn('data-placement-confidence="inferred"', rendered)
+        self.assertIn('data-placement-confidence="speculative"', rendered)
+        self.assertIn('data-placement-confidence="unresolved"', rendered)
+        self.assertIn("not a publication or reading sequence", rendered.casefold())
+        self.assertIn('<script src="timeline.js" defer></script>', rendered)
+        self.assertIn('<a href="timeline.html" aria-current="page">Chronology</a>', rendered)
+
     def test_build_uses_stored_catalog(self):
         with tempfile.TemporaryDirectory() as temporary:
             output = Path(temporary) / "site"
@@ -1005,6 +1102,8 @@ class StorySystemTests(unittest.TestCase):
             finally:
                 build.load_story_source = original_loader
             self.assertTrue((output / "index.html").is_file())
+            self.assertTrue((output / "timeline.html").is_file())
+            self.assertTrue((output / "timeline.js").is_file())
             self.assertTrue((output / "styles.css").is_file())
             self.assertEqual(
                 len(catalog.stories),
@@ -1014,11 +1113,22 @@ class StorySystemTests(unittest.TestCase):
                 len(catalog.stories),
                 len(list((output / "covers").glob("*.jpg"))),
             )
+            timeline_covers = list((output / "timeline-covers").glob("*.jpg"))
+            self.assertEqual(len(catalog.stories), len(timeline_covers))
+            with build.Image.open(timeline_covers[0]) as timeline_cover:
+                self.assertEqual(
+                    (build.TIMELINE_COVER_WIDTH, build.TIMELINE_COVER_HEIGHT),
+                    timeline_cover.size,
+                )
             self.assertIn(
                 f"{len(catalog.stories)} stored publications",
                 (output / "index.html").read_text(encoding="utf-8"),
             )
             self.assertIn('class="story-grid"', (output / "index.html").read_text(encoding="utf-8"))
+            self.assertIn(
+                f"All {len(catalog.stories)} published stories are accounted for below",
+                (output / "timeline.html").read_text(encoding="utf-8"),
+            )
 
     def test_rendering_places_cover_below_title_and_prompt(self):
         story = build.load_catalog().stories[0]
@@ -1028,6 +1138,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn(f'src="../{story.cover}"', rendered)
         self.assertLess(rendered.index("<h1>"), rendered.index('class="prompt"'))
         self.assertLess(rendered.index('class="prompt"'), rendered.index('class="story-cover"'))
+        self.assertIn('<a href="../timeline.html">Chronology</a>', rendered)
 
     def test_index_cards_include_prompt_and_requested_metadata(self):
         story = build.load_catalog().stories[0]
