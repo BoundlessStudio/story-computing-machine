@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Brelva | new | Carcass grader and Perren's sister; no exact, alias, close-spelling, or confusing reuse found. |
-| Perren | new | Hauler and Brelva's brother; no exact, alias, close-spelling, or confusing reuse found. |
+| Brelva | recurring | Intentionally the same LOCKED Brelva established by this story; no exact, alias, close-spelling, or confusing reuse found. |
+| Perren | recurring | Intentionally the same LOCKED Perren established by this story; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The newcomers remain unnamed and barely communicative; their limited operational gestures support cooperation without supplying fluent exposition.
+- Notes: Fresh promotion review confirms that the newcomers remain unnamed and barely communicative; their limited operational gestures support cooperation without supplying fluent exposition. The observed throat-node effect neither creates nor commands the night creatures, and its wider ontology and origin remain unresolved.

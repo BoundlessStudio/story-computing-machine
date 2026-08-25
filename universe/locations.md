@@ -1000,3 +1000,25 @@
   - Rimegate is a separate place known only through Gorm and
     Sigrun's attributed account of his earlier coal-barricade coercion; its
     geography and later history are unresolved.
+## Unnamed night-harvest settlement and carcass yard
+
+- Status: LOCKED
+- Summary: An unnamed settlement developed a walled carcass-processing yard
+  and related trades during the first three months of recurring night-creature
+  attacks.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: night-harvest yard; cold yard
+- Notes:
+  - The yard includes intake rails, a weighing platform, carcass board, brine
+    and cold sheds, cutting room, bone shed, repair racks, stone storage rooms,
+    braziers, an iron gate, and nearby housing reached by north, east, west, and
+    marsh roads.
+  - Roofers use hides, rope shops twist tendon, kilns grind porous bone into
+    hot-burning brick, clinics use pale liver combs for fever wash, and
+    refiners buy throat nodes for lamp fuel. Heat sacs and other ordinary
+    salvage also retain value.
+  - The surrounding settlement includes former dockworkers, harvest crews,
+    guards, carters, homes, streets, ditches, and a marsh. The story establishes
+    no settlement name, region, polity, calendar, population, global geography,
+    or relationship to another established place.

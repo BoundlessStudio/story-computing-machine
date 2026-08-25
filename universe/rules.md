@@ -1928,3 +1928,41 @@
     bloodline, royal or northern faculty, repeatable recovery interval, or
     relationship to another lattice, scar, heat, strength, healing, or bodily
     system.
+## Night-creature throat-node direction effect
+
+- Status: LOCKED
+- Summary: Paired throat nodes from one locally observed type of six-limbed
+  night creature can retain a directional vibration after death; cold brine
+  preserves the effect, while cracking the node and heating its inner membrane
+  ends it.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: throat node; sound node; node signal
+- Notes:
+  - The creatures began appearing after dark three months before the witnessed
+    convergence. One observed type has six bowed limbs, a pale mouth opening
+    along its chest, paired throat swellings, blue node fluid, heat sacs, porous
+    bone, useful tendon and hide, and a pale liver comb.
+  - A fresh node vibrates toward the direction associated with the living
+    creature's arrival. Death weakens that vibration; cold mineral brine can
+    preserve it in harvested stock.
+  - Across Brelva's six routes and nineteen observed attack sequences,
+    preserved loads preceded attack clusters. A forty-barrel stockpile holding
+    eighty-one nodes drew creatures from several roads even when no wagon was
+    moving.
+  - Destroying and heating all membranes stopped the accumulated directional
+    pressure and ended new answering cries. Creatures already present did not
+    vanish, die, become obedient, or immediately retreat; they continued
+    fighting until dawn or physical defeat.
+  - The dead nodes store a direction supplied while part of a living creature;
+    they do not choose, summon deliberately, create, command, or control the
+    creatures. Brine preserves the stored effect but supplies no independent
+    agency.
+  - The creatures' origin, total number, intelligence, personhood, taxonomy,
+    arrival system, daytime state, global distribution, and relationship to the
+    fighters remain unresolved. `Monster` is a local human label, not an
+    objective taxon or moral category.
+  - The story does not establish whether this effect is biological, magical,
+    technological, or another local system, and it has no established
+    relationship to another beast, corpse, signal, direction, brine, crossing,
+    node, or postmortem mechanism.

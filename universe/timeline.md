@@ -1249,3 +1249,50 @@
       date, Galactic Cycle coordinate, ordering relative to other pre-extinction
       histories, and relationship to any other kingdom, war, road, marsh,
       political office, or magical system remain unresolved.
+## Undated Night Harvest convergence
+
+- Status: LOCKED
+- Summary: Three months after recurring night creatures first appeared, one
+  unnamed settlement's corpse industry discovered that its brined throat-node
+  stock preserved a directional effect and destroyed eighty-one nodes during a
+  sixth-night convergence.
+- First established: stories/the-night-harvest/story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Night Harvest incident; cold-yard convergence
+- Notes:
+  1. By the first witnessed night, the settlement had built a useful carcass
+     industry, and siblings Brelva and Perren needed three full loads to clear
+     their cart debt. An unfamiliar fighter destroyed two lamp-grade throat
+     nodes, tried to indicate their relation to road and ground, and left to
+     meet another attack.
+  2. Two more fighters appeared on the second night. Across later loads Brelva
+     tracked routes and attacks while Perren tracked where the fighters placed
+     themselves relative to occupied homes.
+  3. On the fourth night a broken axle stranded the siblings with sixteen
+     brined nodes on the marsh road. The recurring fighter demonstrated that
+     cracking a node and heating its membrane ended the vibration; Brelva and
+     Perren destroyed the load while the fighter held off approaching
+     creatures.
+  4. By morning Brelva had marked six routes and nineteen attack sequences.
+     Perren chose to stop harvesting rather than move the larger stockpile past
+     homes, and Brelva asked for his choice instead of deciding the risk for
+     him. The supervisor agreed to observe one final intake before authorizing
+     destruction.
+  5. On the sixth night forty barrels containing eighty-one nodes drew creatures
+     from the west, marsh, and north without moving wagons. After the gate
+     failed, the supervisor opened the cold shed, settlement workers and the
+     unfamiliar fighters defended the yard, and the stock was destroyed by
+     recorded batch.
+  6. The final heated membrane ended new answering cries but did not remove the
+     creatures already present. Survivors sorted useful ordinary parts after
+     dawn, recorded crew claims and injury, preserved Brelva and Perren's debt
+     as paid salvage work, and posted the bounded route evidence with tools for
+     future node destruction.
+  7. The recurring fighter, Brelva, and Perren ended by jointly destroying one
+     newly harvested unbrined node through their limited stop and approach
+     gestures. The settlement did not gain fluent translation or a global
+     explanation, and the wider night-creature arrival remained unresolved.
+  8. The event's civil date, era, Galactic Cycle coordinate, relationship to the
+     No More Magic extinction or joined-sky awakening, and ordering relative to
+     every other established story remain unresolved because the node effect's
+     underlying category is not established.
