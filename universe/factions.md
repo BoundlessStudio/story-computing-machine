@@ -617,3 +617,28 @@
   - No formal agency names, statutes, complete chain of command, ordinary
     procedure, nation, jurisdiction beyond Orison, or lasting institutional
     reform is established.
+
+## Vantress Night-Sovereign office and ward labor
+
+- Status: LOCKED
+- Summary: Vantress's council appoints a Night-Sovereign who is publicly
+  answerable for the city's ward work; Ombria held that office during the
+  Ninth Conduit stormglass breach.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: Night-Sovereign; ward office
+- Notes:
+  - Five mechanical pressure studs carry district demands to the central
+    pylon, but the officeholder decides which anchors receive actively shaped
+    shadow. The signals and apparatus neither command nor replace the living
+    worker.
+  - Ombria's witnessed workload was dangerously concentrated rather than
+    established as a permanent requirement. After the breach she retained the
+    office and three anchors while Draxenne took two eastern stations for one
+    moon cycle.
+  - Each woman retained an independent veto over unsafe casting and could end
+    the compact after safe transfer. Ombria also marked private hours that the
+    ward office would interrupt only for immediate danger to life.
+  - The council's composition, appointment procedure, ordinary staffing,
+    jurisdiction, and later response remain unresolved. The office is neither
+    a divine night court nor a universal magical caste.

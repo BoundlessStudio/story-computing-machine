@@ -972,3 +972,104 @@
       unresolved. It has no established relationship to another sea, city,
       civic disaster, magical system, reactor, lift, ring, or technological
       mechanism.
+
+## Undated Ninth Conduit stormglass breach
+
+- Status: LOCKED
+- Summary: During one undated night, Queen Draxenne and Night-Sovereign Ombria
+  turned a contested defense of the damaged Ninth Conduit into a joint action
+  that preserved both Vantress's inner market and the Cinder March road.
+- First established: stories/what-i-hate-most/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: What I Hate Most incident; Ninth Conduit breach
+- Notes:
+  1. A violet-black stormglass front advanced from the Cinder March toward
+     Vantress while evacuees used the March road. Draxenne arrived with twelve
+     prepared plates, four carts of powdered stone, and a channeling plan;
+     Ombria was already sustaining four planes while monitoring five district
+     pressure signals. The Ninth Conduit was split.
+  2. When Ombria proposed pulling the lattice inward and Draxenne proposed
+     channeling the storm through the old spillway, they negotiated a
+     thirty-breath contest for command of the conduit during this breach only.
+     Spoken yield, spoken withdrawal, or loss of housing contact ended a claim;
+     no cast could enter a body or strike a ward sheltering civilians; victory
+     granted no office, territory, future audience, touch, or other right.
+  3. On breath twenty-nine Ombria voluntarily removed her housing hand to
+     answer a third eastern-roof pressure signal, ending her claim under the
+     contact rule. Draxenne held through breath thirty, gained temporary conduit
+     command, and immediately extinguished her contest flame.
+  4. Draxenne's first plan protected the March road long enough for the last
+     wagons to clear. After eleven breaths, a concealed spillway crack redirected
+     pressure toward the inner market; fused stormglass clogged the outlet, and
+     a third cinder stream worsened the blockage. Draxenne ended all three
+     streams and released exclusive control; Ombria asked what she needed
+     instead of seizing command.
+  5. On the maintenance bridge, Ombria raised a fifth plane for two breaths to
+     catch the lower-eastern load, released it, transferred road-east next, and
+     reshaped her remaining three planes into vented baffles. Draxenne accepted
+     the two eastern loads through heated braces, kept to two smaller streams,
+     and both women retained the right to stop the operation.
+  6. Draxenne melted all twelve prepared plates into a load-bearing repair
+     beneath a falling slab. Their final coordinated pulse fused the stormglass
+     into falling beads; both women tapered their work, the ward became inert,
+     and the market and March road remained standing. The incident establishes
+     no permanent repair or casualty total.
+  7. Before dawn they adopted a reversible one-moon compact: Draxenne would
+     take the two eastern stations, provide crews, and replace the plates;
+     Ombria would retain the other three anchors and her office. Each kept an
+     independent safety veto and could end the compact after safe transfer.
+  8. Ombria marked private hours subject only to immediate danger to life.
+     Draxenne rejected any claim on Ombria, asked for time Ombria chose, and
+     separately requested courtship and a kiss. Ombria freely accepted both and
+     initiated the kiss. A later eastern signal passed to Draxenne under the
+     new work compact rather than as payment for romance.
+  9. The breach's civil date, era, duration beyond its witnessed night and
+     dawn, Galactic Cycle coordinate, wider weather consequences, completion of
+     the one-moon compact, and ordering relative to every established story
+     remain unresolved. It has no established connection to another storm,
+     glass phenomenon, ward system, city, or relationship.
+
+## Undated Transitions in Common disclosure and portrait incident
+
+- Status: LOCKED
+- Summary: Across one Friday-to-Monday interval, Cody and Hugo's differently
+  understood use of `trans` led to an unannounced shapeshifting reveal, a breach
+  of trust, and a bounded continuation of their friendship.
+- First established: stories/transitions-in-common/05-story.md; locked by
+  explicit user decision, 2026-08-24
+- Aliases: Transitions in Common incident
+- Notes:
+  1. Late Friday in an unnamed school costume room, Hugo privately told Cody he
+     was trans while explaining why he wanted control of an arts-night portrait.
+     Cody knew the common transgender meaning but interpreted the word through
+     a private shortening of `transmutable`, answered `me too`, and accepted
+     further disclosure while each friend believed a different secret was being
+     protected.
+  2. On Saturday, the friends selected clothes at an unnamed secondhand shop and
+     stated real but differently scoped privacy limits for a planned Sunday
+     changing-and-portrait session.
+  3. On Sunday, Cody took an ambiguous agreement to `change` as permission to
+     reveal shapeshifting and changed to a feminine body. Hugo clarified that he
+     is a transgender boy. Cody's frightened early reversal then stalled in a
+     mixed body during the personal cooldown.
+  4. When an unnamed student came for a rolling rack, Hugo kept both private
+     disclosures out of his explanation, called the room a private wardrobe
+     fitting, and obtained ten minutes. He protected Cody from involuntary
+     exposure without forgiving the breach, then ended the portrait session and
+     left on his own terms. The other student learned neither secret.
+  5. On Sunday evening, Cody sent an apology that named the assumption, false
+     claim of shared experience, acceptance of further private disclosure, and
+     failure to ask specifically about witnessing shapeshifting. The message
+     requested neither a reply nor forgiveness.
+  6. On Monday, Hugo chose a new meeting, tested Cody's understanding, stated his
+     boundaries, and decided the friendship could continue without erasing the
+     breach. Each friend then authorized a separate portrait under separately
+     stated conditions: Hugo approved one image for display, while Cody approved
+     one private image in a deliberately chosen mixed body.
+  7. The incident establishes no equivalence between transgender identity and
+     shapeshifting, no public disclosure of either secret, no final gender label
+     for Cody, and no universal privacy or consent protocol.
+  8. Its civil date, school, locality, region, era, Galactic Cycle coordinate,
+     and ordering relative to every established story remain unresolved. It has
+     no established relationship to another school, modern-like setting,
+     identity-exposure event, or transformation system.
