@@ -15,24 +15,11 @@ universe entries, stories/NAMES.md, canon legacy story files, and passing
 current review.md files. Never load the whole name baseline, legacy corpus, or
 unrelated review history.
 
-When prompt.md contains `## Rewrite request`, treat the original prompt, latest
-rewrite request, and any Rewrite selections as one amended authority. The
-request and selections control conflicts; unnamed prior-story material follows
-Outside named selections, and the latest craft profile in the rewrite
-constraints controls production craft. Review the
-complete result afresh. The prior PASS from before rewrite preparation is production
-history, not evidence for the new verdict.
-
-When prompt.md contains `## Rewrite selections`, form the provisional judgment
-of the rewritten story before opening the prior version. Then retrieve prior
-prose according to Scope only to verify the selection contract. Keep exact must
-be exact; Keep in substance must preserve the named identity, function,
-relationship, fact, or effect; Change or replace must be materially different;
-Remove must be absent rather than renamed; and unnamed material must follow
-FLEXIBLE, KEEP, or KEEP EXACT. The active profile governs changed prose and
-necessary seams, not protected outside-scope text. A selection failure is
-blocking and uses the existing review fields. Do not add a comparison section
-or apply the CREATE collection comparison to a rewrite.
+Some completed packages retain amendment metadata from the retired workflow.
+Treat the complete recorded prompt as historical acceptance context and use its
+last recorded craft profile, but do not retrieve a prior version, perform a
+preservation comparison, or create or alter that metadata. A replacement is an
+ordinary CREATE story and receives the full standalone and recent-story review.
 
 Use `story-analysis` for the provisional whole-story read and `dialogue` for
 the dialogue gate. Use `story-sense` only when the root cause of a blocking
@@ -98,7 +85,8 @@ articulate exchange is acceptable. Block only material scene-wide convergence,
 and feed any such failure into the existing Dialogue verdict rather than adding
 another review field.
 
-For the active `Craft profile: prospective-2026-08-23` in CREATE mode, treat
+For the active `Craft profile: prospective-2026-08-23` in CREATE mode,
+including a replacement, treat
 speech, writing, internal voices, signs, interfaces, gesture, silence, and
 failed contact as first-class dialogic media. Judge major exchanges by whether
 they materially change knowledge, leverage, trust, commitment, risk,
@@ -137,7 +125,7 @@ when prompt, causality, and continuity pass. A dialogue failure makes the
 overall verdict REVISE and is recorded as one concise blocking finding aimed
 at the scene-level defect, with no more than three short examples from the
 story. Use PASS only when no blocking problem remains; otherwise use REVISE
-and state concise, actionable findings. Do not rewrite prose, reopen another
+and state concise, actionable findings. Do not edit prose, reopen another
 story, create audit records, or expose chain-of-thought. Return a one-sentence
 change report.
 """

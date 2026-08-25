@@ -1,36 +1,47 @@
 ---
 name: story-room
-description: "Shared outline, review, and title-image stage contract used by the separate story-create and story-rewrite workflows."
+description: "Shared outline, review, and title-image stage contract used by story-create for new and replacement stories."
 ---
 
 # Story room
 
-Use as the shared stage contract behind `story-create` and `story-rewrite`, or
-when the user explicitly requests one named OUTLINE, REVIEW, or TITLE IMAGE
-stage. Route new prompts to `story-create` and explicit rewrites to
-`story-rewrite`. Prefer safe, low-impact assumptions over questions. Default to
-a coherent 2,500–4,000 word story unless the prompt says otherwise.
+Use as the shared stage contract behind `story-create`, or when the user
+explicitly requests one named OUTLINE, REVIEW, or TITLE IMAGE stage. Route both
+new prompts and explicitly requested whole-story replacements to `story-create`.
+Prefer safe, low-impact assumptions over questions. Default to a coherent
+2,500–4,000 word story unless the prompt says otherwise.
 
 For CREATE mode, the scaffold marks the self-contained prospective craft profile
 implemented by the binding style defaults, compact outline handoff, prose skill,
 and dialogue-aware review.
-Completion alone never authorizes reopening. Route to `story-rewrite` only when
-the user explicitly requests a rewrite of one named non-canon current story.
-For a named legacy story, follow `AGENTS.md`'s **Canon lock and legacy editing** contract:
-`story.json` with `canon: false` permits an explicitly requested direct edit or
-rewrite. `canon: true` prohibits direct changes to every bundle file; an
-authorized agent must complete the independent canon-marker-only unlock before
-starting any content work. The old layout is a tooling boundary, not an
-immutability rule.
+Completion alone never authorizes reopening. A named whole-story remake is a
+remove-then-create replacement, never an in-place transformation. Before any
+replacement or narrow legacy edit, follow `AGENTS.md`'s **Canon lock and legacy
+editing** contract. `canon: true` prohibits direct changes to every bundle file;
+an authorized agent must complete and commit the independent canon-marker-only
+unlock before content work. A missing or ambiguous marker stops for user
+direction. A named legacy story with `canon: false` permits
+only the explicitly requested narrow direct edit; a whole-story remake uses the
+replacement path. The old layout is a tooling boundary, not an immutability
+rule.
 
 ## CREATE handoff reference
 
-1. Work on a non-main branch. Identify and visually inspect every reference
-   image supplied with the request, then scaffold with `scripts/new-story.ps1`,
-   passing those paths or attachment labels through `-ReferenceImage` so
-   `prompt.md` inventories their display names. Record `None supplied` when the
-   request has no reference images. Reference originals remain external inputs;
-   never copy them into the story directory.
+1. Work on the dedicated story worktree prepared from current `main`. For a
+   replacement, first preserve every verbatim user-authored prompt or request
+   block, the verbatim new request, and every associated reference-image
+   display name. Discard machine-owned selection, cover-policy, constraint, and
+   workflow metadata. Resolve and visually inspect every retained and newly supplied external reference. Remove only the
+   named story's source and publication, cover, timeline, and legacy-index
+   remnants, then confirm the target directory is absent. Never load or carry
+   its prior outline, prose, review, or cover. Scaffold with
+   `scripts/new-story.ps1`, passing every retained and newly supplied reference through
+   `-ReferenceImage` and keeping all user-authored request text verbatim in the single CREATE
+   prompt. If any original is unavailable, request it again before scaffolding.
+   For a fresh story, preserve the supplied prompt and references in the same
+   way. Record `None supplied` when there are no reference images. Reference
+   originals remain external inputs; never copy them into the story directory
+   or create amendment or selection sections.
 2. Preserve the prompt, then delegate OUTLINE to a fresh `story_outliner`.
    Include every
    supplied reference image in the assignment with a resolvable path or
@@ -49,9 +60,9 @@ immutability rule.
 4. Run `scripts/Test-Stories.ps1 -Story <slug> -Phase PreReview` once and pass
    its concise result to the reviewer. Do not save another report file.
 5. Delegate one fresh independent REVIEW to `story_reviewer`. For an 08-23
-   CREATE story, include the six most recent resolved passing current-story
-   paths excluding the target for its collection comparison, or all available
-   when fewer than six exist. It reads prompt and
+   CREATE story, including a replacement, include the six most recent resolved
+   passing current-story paths excluding the target for its collection
+   comparison, or all available when fewer than six exist. It reads prompt and
    prose first and forms a provisional reader-facing judgment with
    `story-analysis` and, when applicable, `dialogue` before opening the outline.
    It may use `story-sense`, `prose-style`, or `sensitivity-check` only for a
@@ -67,10 +78,11 @@ immutability rule.
    agent's premium illustrated-novel-cover default. Anime-influenced rendering
    is available when it suits the story, but franchise key-art, poster, and
    scene-still composition are not the default.
-   Include every reference image from the original request in the assignment
-   and as an actual image-generation reference. Use resolved local paths when
-   all originals have them; otherwise use the smallest recent-attachment set
-   containing them all. The illustrator inspects each reference before forming
+   Include every reference image inventoried by the CREATE prompt, from every
+   retained request block and the new request when this is a replacement, in the
+   assignment and as an actual image-generation reference. Use resolved local
+   paths when all originals have them; otherwise use the smallest
+   recent-attachment set containing them all. The illustrator inspects each
    the cover brief and preserves recognizable traits relevant to the requested
    character, object, setting, mood, palette, or style. Final prose controls
    story facts; a reference image is not canon unless the written prompt makes
@@ -107,31 +119,15 @@ draft/final files, canon deltas, release records, promotion manifests, story
 READMEs, or index projections. Do not reread the complete legacy corpus when a
 targeted search answers the continuity question.
 
-Before delegating an 08-23 CREATE outline, count passing current stories whose
-base Constraints profile is 08-23 and whose prompt has no Rewrite request. At
-each nonzero multiple of ten, perform a no-artifact rolling audit of the ten
-most recent: compare dialogic
+Before delegating an 08-23 CREATE outline, count passing current stories created
+under the base 08-23 CREATE contract. Historical packages carrying amendment
+metadata from the retired workflow are not retroactively reclassified. At each
+nonzero multiple of ten, perform a no-artifact rolling audit of the ten most
+recent: compare dialogic
 media, articulate-competence structures, workplace triads, reasoning patterns,
 humor levels, and ending gestures. Give the outliner only a compact collection
 anti-default brief. Do not expose prior prose or Voice capsules to the outliner
 or writer.
-
-## REWRITE handoff reference
-
-`story-rewrite` owns rewrite intake, scope, prior-version access, preparation,
-and selection compliance. A rewrite still delegates fresh OUTLINE, WRITE, and
-REVIEW stages and uses this skill's shared responsibilities. Its managed prompt
-records REBUILD, RESHAPE, or SELECTIVE plus Keep exact, Keep in substance,
-Change or replace, Remove, and outside-scope behavior.
-
-For rewrite stages, treat the original prompt, latest Rewrite request, and
-Rewrite selections as one amended authority. The request and selections control
-conflicts; unnamed prior material follows the recorded outside-scope policy.
-Prior outline and review remain history. Prior prose access is scope-bound:
-minimal named passages for REBUILD, the full throughline for RESHAPE, and the
-retained editing base for SELECTIVE. The current craft profile governs changed
-prose and necessary seams, but never authorizes rewriting protected material
-merely to modernize it. The old PASS is not evidence for the new verdict.
 
 ## OUTLINE responsibility
 
@@ -215,13 +211,6 @@ or models to imitate. Quiet, private, observational, recursive, or non-climactic
 outcomes are valid. Record draftable
 beats or movements, not a craft audit.
 
-For a prepared rewrite, perform the OUTLINE assignment from the amended prompt
-and Rewrite selections. Prior outline and review remain out of scope. Access
-prior prose according to the recorded scope: named passages only for REBUILD,
-the full throughline for RESHAPE, and the retained editing base for SELECTIVE.
-Express preservation and change through the existing Story, Voice, and Beats
-sections; write no comparison, change log, or alternate outline.
-
 ## REVIEW mode
 
 Write only `review.md`. Follow its template exactly:
@@ -239,12 +228,10 @@ hidden agendas, verbal tics, or compulsory subtext.
 - inventory all story-facing people and place proper nouns;
 - mark each noun `new` or `recurring`, with `None` for an empty category;
 - check the prompt, current universe authority, and internal story facts;
-- when `## Rewrite request` exists, treat it and any Rewrite selections as an
-  amendment whose conflicting terms override the original prompt; unnamed
-  prior-story material follows Outside named selections;
-- when `## Rewrite selections` exists, verify every Keep exact, Keep in
-  substance, Change or replace, Remove, and outside-scope obligation against the
-  prior prose after forming the provisional judgment of the new story;
+- when a completed historical package carries amendment metadata from the
+  retired workflow, treat the complete recorded prompt as acceptance context
+  and use its last recorded craft profile; do not retrieve a prior version,
+  perform a preservation comparison, or create or alter that metadata;
 - for a prompt carrying `Craft profile: prospective-2026-08-08`,
   `prospective-2026-08-18`, `prospective-2026-08-21`, or
   `prospective-2026-08-23`, check material
@@ -284,8 +271,9 @@ functions, or punchy sentences are diagnostic suggestions, not requirements.
 One earned aphorism or articulate exchange is acceptable; only material
 scene-wide convergence changes the existing Dialogue verdict to REVISE.
 
-For an 08-23 CREATE story, treat speech, writing, internal voices, signs,
-interfaces, gesture, silence, and failed contact as first-class dialogic media.
+For an 08-23 CREATE story, including a replacement, treat speech, writing,
+internal voices, signs, interfaces, gesture, silence, and failed contact as
+first-class dialogic media.
 Judge major exchanges by whether they change knowledge, leverage, trust,
 commitment, risk, relationship, or action, not by how many lines they contain.
 Check competence overuse and whether the ending defaults to practical
@@ -303,17 +291,6 @@ Use Dialogue REVISE when changing only job, system, or setting nouns could
 transplant the target's reasoning pattern, relationship action, or ending
 gesture into the recent set. Record one concise dialogue finding and no audit,
 comparison section, or extra verdict field.
-
-For a prepared rewrite, selection compliance is independently blocking. Read
-the prior version only after the provisional prompt, story, and dialogue
-judgment. Exact keeps must remain exact; substantive keeps must retain the named
-identity, function, relationship, fact, or effect; Change targets must be
-materially different; Remove targets must be absent rather than renamed; and
-unnamed material must follow FLEXIBLE, KEEP, or KEEP EXACT. Judge changed prose
-and necessary seams under the active craft profile without forcing protected
-outside-scope prose through a prospective modernization pass. Record failures
-as concise prompt or dialogue findings in the existing review structure; add no
-rewrite-comparison field or artifact.
 
 ## TITLE IMAGE responsibility
 
@@ -348,8 +325,8 @@ typography, palette, and light, followed only by facts actually visible in the
 frame. Do not paste a plot summary or enumerate the cast, clues, props, and beats
 that the image is meant to omit.
 
-Inspect every reference image supplied with the original request and include
-all of them as actual inputs to image generation. Use `referenced_image_paths`
+Inspect every reference image inventoried by the CREATE prompt and include all
+of them as actual inputs to image generation. Use `referenced_image_paths`
 when every reference has a resolved local path; otherwise use the smallest
 supported recent-image set that includes them all, never both mechanisms. Keep
 the requested subject identity, design traits, setting cues, mood, palette, or

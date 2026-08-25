@@ -6,13 +6,13 @@ import json
 import re
 import shutil
 import subprocess
+from collections import Counter
 from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Iterable
 
 import markdown
-from PIL import Image, ImageOps
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
@@ -20,13 +20,6 @@ STYLESHEET_PATH = Path(__file__).with_name("styles.css")
 TIMELINE_PATH = Path(__file__).with_name("timeline.json")
 TIMELINE_SCRIPT_PATH = Path(__file__).with_name("timeline.js")
 WORLDLINE_HERO_ART_PATH = Path(__file__).with_name("worldline-hero-art.webp")
-TIMELINE_ICON_DIRECTORY = "timeline-icons"
-TIMELINE_ICON_SIZE = 160
-# Kept as aliases for the retired chronology renderers below. The live page uses
-# these square assets strictly as small story emblems, never as cover cards.
-TIMELINE_COVER_DIRECTORY = TIMELINE_ICON_DIRECTORY
-TIMELINE_COVER_WIDTH = TIMELINE_ICON_SIZE
-TIMELINE_COVER_HEIGHT = TIMELINE_ICON_SIZE
 TITLE_IMAGE_NAME = "title-image.jpg"
 TITLE_IMAGE_WIDTH = 864
 TITLE_IMAGE_HEIGHT = 1536
@@ -37,6 +30,7 @@ PLACEMENT_CONFIDENCE = frozenset({"fixed", "inferred", "speculative", "unresolve
 TIMELINE_MAGIC_STATES = frozenset(
     {"old-magic", "long-dark", "new-magic", "uncertain", "off-axis"}
 )
+UNPUBLISHED_SOURCE_SLUGS = frozenset({"the-sky-remembers-us"})
 
 
 @dataclass(frozen=True)
@@ -749,15 +743,32 @@ def _capture_cover(story: Story, repository_root: Path, snapshot_path: Path) -> 
     shutil.copy2(source, destination)
 
 
+def _refuse_canon_demotions(stories: Iterable[Story], published: Catalog) -> None:
+    published_by_slug = {story.slug: story for story in published.stories}
+    demotions = sorted(
+        story.slug
+        for story in stories
+        if story.slug in published_by_slug
+        and published_by_slug[story.slug].canon
+        and not story.canon
+    )
+    if demotions:
+        raise ValueError(
+            "Refusing to demote published canon stories from source markers: "
+            f"{demotions}. Reconcile the authoritative canon markers first."
+        )
+
+
 def capture_story(
     slug: str,
     repository_root: Path = REPOSITORY_ROOT,
     snapshot_path: Path = SNAPSHOT_PATH,
 ) -> Catalog:
     story = load_story_source(slug, repository_root)
-    existing = list(load_catalog(snapshot_path).stories) if snapshot_path.exists() else []
+    published = load_catalog(snapshot_path) if snapshot_path.exists() else Catalog(())
+    _refuse_canon_demotions((story,), published)
     _capture_cover(story, repository_root, snapshot_path)
-    remaining = (item for item in existing if item.slug != story.slug)
+    remaining = (item for item in published.stories if item.slug != story.slug)
     return save_catalog((story, *remaining), snapshot_path)
 
 
@@ -765,18 +776,140 @@ def capture_all(
     repository_root: Path = REPOSITORY_ROOT,
     snapshot_path: Path = SNAPSHOT_PATH,
 ) -> Catalog:
-    story_root = repository_root / "stories"
-    slugs = [
-        item.name
-        for item in story_root.iterdir()
-        if item.is_dir()
-        and not item.name.startswith("_")
-        and ((item / "story.md").is_file() or (item / "05-story.md").is_file())
-    ]
-    stories = tuple(load_story_source(slug, repository_root) for slug in slugs)
+    published = load_catalog(snapshot_path)
+    stories = tuple(load_story_source(story.slug, repository_root) for story in published.stories)
+    _refuse_canon_demotions(stories, published)
     for story in stories:
         _capture_cover(story, repository_root, snapshot_path)
     return save_catalog(stories, snapshot_path)
+
+
+def _legacy_index_slugs(path: Path) -> set[str]:
+    rows = re.findall(
+        r"^\| `([^`]+)` \|",
+        path.read_text(encoding="utf-8"),
+        flags=re.MULTILINE,
+    )
+    duplicates = sorted(slug for slug, count in Counter(rows).items() if count > 1)
+    if duplicates:
+        raise ValueError(f"Legacy index repeats story rows: {duplicates}")
+    return set(rows)
+
+
+def published_canon_marker_conflicts(
+    catalog: Catalog,
+    repository_root: Path = REPOSITORY_ROOT,
+) -> tuple[str, ...]:
+    conflicts: list[str] = []
+    for story in catalog.stories:
+        directory = repository_root / "stories" / story.slug
+        current_path = directory / "story.md"
+        legacy_path = directory / "story.json"
+        if current_path.is_file():
+            metadata, _ = parse_front_matter(
+                current_path.read_text(encoding="utf-8"), current_path
+            )
+            source_canon = _bool(metadata.get("canon", ""), current_path, "canon")
+        elif legacy_path.is_file():
+            value = read_json_object(legacy_path)
+            source_canon = value.get("canon")
+            if not isinstance(source_canon, bool):
+                raise ValueError(f"Invalid canon marker in {legacy_path}")
+        else:
+            continue
+        if source_canon != story.canon:
+            conflicts.append(story.slug)
+    return tuple(sorted(conflicts))
+
+
+def validate_repository_inventory(
+    catalog: Catalog,
+    timeline: Timeline,
+    repository_root: Path = REPOSITORY_ROOT,
+    snapshot_path: Path = SNAPSHOT_PATH,
+) -> tuple[int, int, int]:
+    story_root = repository_root / "stories"
+    story_directories = {
+        item.name: item
+        for item in story_root.iterdir()
+        if item.is_dir() and item.name != "_template"
+    }
+    invalid_sources = {
+        slug
+        for slug, directory in story_directories.items()
+        if (directory / "story.md").is_file()
+        == (directory / "05-story.md").is_file()
+    }
+    source_slugs = set(story_directories) - invalid_sources
+    legacy_slugs = {
+        slug
+        for slug, directory in story_directories.items()
+        if (directory / "05-story.md").is_file()
+    }
+    index_slugs = _legacy_index_slugs(story_root / "INDEX.md")
+    catalog_slugs = {story.slug for story in catalog.stories}
+    cover_root = snapshot_path.parent / "covers"
+    cover_slugs = {path.stem for path in cover_root.glob("*.jpg")}
+    invalid_cover_entries = {
+        path.name
+        for path in cover_root.iterdir()
+        if not path.is_file() or path.suffix.lower() != ".jpg"
+    }
+    placements = [
+        slug
+        for chapter in timeline.chapters
+        for slug in (
+            *chapter.stories,
+            *(story for group in chapter.constellations for story in group.stories),
+        )
+    ]
+    placement_slugs = set(placements)
+
+    problems: list[str] = []
+    if invalid_sources:
+        problems.append(f"unrecognized story directories: {sorted(invalid_sources)}")
+    if legacy_slugs != index_slugs:
+        problems.append(
+            f"legacy index differs from legacy sources: index-only={sorted(index_slugs - legacy_slugs)}, "
+            f"source-only={sorted(legacy_slugs - index_slugs)}"
+        )
+    if catalog_slugs != cover_slugs:
+        problems.append(
+            f"catalog differs from captured covers: catalog-only={sorted(catalog_slugs - cover_slugs)}, "
+            f"cover-only={sorted(cover_slugs - catalog_slugs)}"
+        )
+    if invalid_cover_entries:
+        problems.append(f"unrecognized captured-cover entries: {sorted(invalid_cover_entries)}")
+    if catalog_slugs != placement_slugs or len(placements) != len(placement_slugs):
+        problems.append(
+            f"catalog differs from chronology: catalog-only={sorted(catalog_slugs - placement_slugs)}, "
+            f"chronology-only={sorted(placement_slugs - catalog_slugs)}, placements={len(placements)}"
+        )
+    if catalog_slugs - source_slugs:
+        problems.append(f"published stories without sources: {sorted(catalog_slugs - source_slugs)}")
+    source_only = source_slugs - catalog_slugs
+    if source_only != set(UNPUBLISHED_SOURCE_SLUGS):
+        problems.append(
+            f"unexpected unpublished sources: found={sorted(source_only)}, "
+            f"expected={sorted(UNPUBLISHED_SOURCE_SLUGS)}"
+        )
+    missing_source_covers = [
+        slug for slug in sorted(catalog_slugs) if not (story_root / slug / TITLE_IMAGE_NAME).is_file()
+    ]
+    if missing_source_covers:
+        problems.append(f"published stories without source covers: {missing_source_covers}")
+    stale_covers = [
+        slug
+        for slug in sorted(catalog_slugs)
+        if slug not in missing_source_covers
+        if (story_root / slug / TITLE_IMAGE_NAME).read_bytes()
+        != (cover_root / f"{slug}.jpg").read_bytes()
+    ]
+    if stale_covers:
+        problems.append(f"captured covers differ from story sources: {stale_covers}")
+    if problems:
+        raise ValueError("Repository inventory mismatch: " + "; ".join(problems))
+    return len(source_slugs), len(catalog_slugs), len(legacy_slugs)
 
 
 REPOSITORY_URL = "https://github.com/BoundlessStudio/story-computing-machine"
@@ -899,760 +1032,6 @@ def render_story(story: Story) -> str:
         "../index.html",
         "../timeline.html",
         "../styles.css",
-    )
-
-
-def _timeline_cover(story: Story) -> str:
-    return f"{TIMELINE_COVER_DIRECTORY}/{story.slug}.jpg"
-
-
-def _write_timeline_cover(source: Path, destination: Path) -> None:
-    with Image.open(source) as opened:
-        image = ImageOps.exif_transpose(opened)
-        image = ImageOps.fit(
-            image,
-            (TIMELINE_ICON_SIZE, TIMELINE_ICON_SIZE),
-            method=Image.Resampling.LANCZOS,
-            centering=(0.5, 0.42),
-        )
-        if image.mode != "RGB":
-            image = image.convert("RGB")
-        image.save(
-            destination,
-            format="JPEG",
-            quality=84,
-            optimize=True,
-            progressive=True,
-        )
-
-
-def _timeline_card(
-    story: Story,
-    sequence_label: str,
-    moments: tuple[str, ...],
-    span: TimelineSpan | None,
-    confidence: str,
-) -> str:
-    slug = html.escape(story.slug, quote=True)
-    title = html.escape(story.title)
-    cover = html.escape(_timeline_cover(story), quote=True)
-    state_label = _story_label(story)
-    state = re.sub(r"[^a-z0-9]+", "-", state_label.casefold()).strip("-")
-    confidence_labels = {
-        "fixed": "Era fixed",
-        "inferred": "Era strongly inferred",
-        "speculative": "Era speculative",
-        "unresolved": "Era unresolved",
-    }
-    confidence_label = confidence_labels[confidence]
-    if sequence_label.startswith("≈"):
-        sequence_accessible = (
-            f' aria-label="Approximate position {int(sequence_label[1:])} '
-            f'in this era band"'
-        )
-    elif sequence_label == "?":
-        sequence_accessible = ' aria-label="Position unresolved within this era band"'
-    else:
-        sequence_accessible = ' aria-label="Only story in this era band"'
-    moment_list = ""
-    if moments:
-        moment_list = (
-            '<ol class="timeline-moments" aria-label="Key moments">'
-            + "".join(f"<li>{html.escape(moment)}</li>" for moment in moments)
-            + "</ol>"
-        )
-    span_marker = ""
-    if span is not None:
-        span_marker = (
-            f'<div class="timeline-span" role="group" aria-label="Story spans from '
-            f'{html.escape(span.start, quote=True)} to {html.escape(span.end, quote=True)}">'
-            f'<span class="timeline-span-labels"><span>{html.escape(span.start)}</span>'
-            f'<span>{html.escape(span.end)}</span></span>'
-            f'<i class="timeline-span-track" aria-hidden="true"></i>'
-            f'<span class="timeline-span-note">{html.escape(span.note)}</span></div>'
-        )
-    return (
-        f'<li class="timeline-story" data-story-state="{state}" '
-        f'data-placement-confidence="{confidence}">'
-        f'<a class="timeline-story-link" href="stories/{slug}.html">'
-        f'<span class="timeline-cover-frame">'
-        f'<img src="{cover}" alt="" width="{TIMELINE_COVER_WIDTH}" '
-        f'height="{TIMELINE_COVER_HEIGHT}" loading="lazy" decoding="async">'
-        f'<span class="timeline-sequence"{sequence_accessible}>{sequence_label}</span>'
-        f'</span><div class="timeline-story-copy">'
-        f'<span class="timeline-story-title">{title}</span>'
-        f'<span class="timeline-story-state">{state_label}</span>'
-        f'<span class="timeline-placement">{confidence_label}</span>'
-        f'{span_marker}{moment_list}</div></a></li>'
-    )
-
-
-def _timeline_ribbon(
-    slugs: tuple[str, ...],
-    stories_by_slug: dict[str, Story],
-    moments: dict[str, tuple[str, ...]],
-    spans: dict[str, TimelineSpan],
-    confidence: dict[str, str],
-    *,
-    ordered: bool = True,
-) -> str:
-    cards = "".join(
-        _timeline_card(
-            stories_by_slug[slug],
-            f"≈{index:02d}" if ordered and len(slugs) > 1 else "◆" if ordered else "?",
-            moments.get(slug, ()),
-            spans.get(slug),
-            confidence.get(slug, "unresolved"),
-        )
-        for index, slug in enumerate(slugs, start=1)
-    )
-    return (
-        f'<div class="timeline-story-group" data-story-group data-story-total="{len(slugs)}">'
-        f'<p class="timeline-group-count"><span data-group-visible>{len(slugs)}</span> '
-        f'<span aria-hidden="true">/</span> {len(slugs)} stories</p>'
-        f'<ol class="timeline-ribbon">{cards}</ol></div>'
-    )
-
-
-def _timeline_with_fallback(timeline: Timeline, catalog: Catalog) -> tuple[TimelineChapter, ...]:
-    assigned = {
-        slug
-        for chapter in timeline.chapters
-        for slug in (
-            *chapter.stories,
-            *(story for group in chapter.constellations for story in group.stories),
-        )
-    }
-    unplaced = tuple(
-        story.slug for story in reversed(catalog.stories) if story.slug not in assigned
-    )
-    if not unplaced:
-        return timeline.chapters
-    fallback = TimelineChapter(
-        id="unplaced-stories",
-        magic_state="off-axis",
-        ordered=False,
-        type="field",
-        eyebrow="Chronology still open",
-        title="The Uncharted Expanse",
-        description=(
-            "These stories have not yet been given an evidence-backed era placement. "
-            "They remain visible here without acquiring a date or a canon relationship."
-        ),
-        sequence_note="No in-world sequence is asserted inside this holding branch.",
-        confidence="unresolved",
-        stories=unplaced,
-        constellations=(),
-    )
-    return (*timeline.chapters, fallback)
-
-
-def _render_timeline_legacy(catalog: Catalog, timeline: Timeline) -> str:
-    chapters = _timeline_with_fallback(timeline, catalog)
-    stories_by_slug = {story.slug: story for story in catalog.stories}
-    confidence_counts = {
-        level: sum(
-            timeline.story_confidence.get(story.slug, "unresolved") == level
-            for story in catalog.stories
-        )
-        for level in ("fixed", "inferred", "speculative", "unresolved")
-    }
-
-    def chapter_slugs(chapter: TimelineChapter) -> tuple[str, ...]:
-        return (
-            *chapter.stories,
-            *(slug for group in chapter.constellations for slug in group.stories),
-        )
-
-    chapters_by_state = {
-        state: tuple(chapter for chapter in chapters if chapter.magic_state == state)
-        for state in TIMELINE_MAGIC_STATES
-    }
-    state_counts = {
-        state: sum(len(chapter_slugs(chapter)) for chapter in state_chapters)
-        for state, state_chapters in chapters_by_state.items()
-    }
-
-    dark_slugs = tuple(
-        slug
-        for chapter in chapters_by_state["long-dark"]
-        for slug in chapter_slugs(chapter)
-    )
-    hero_candidates = (
-        "all-accounts-due",
-        dark_slugs[len(dark_slugs) // 2] if dark_slugs else "all-accounts-due",
-        "the-sky-remembers-us-return",
-    )
-    hero_slugs = tuple(slug for slug in hero_candidates if slug in stories_by_slug)
-    hero_covers = "".join(
-        f'<span class="hero-cover hero-cover-{index + 1}"><img '
-        f'src="{html.escape(_timeline_cover(stories_by_slug[slug]), quote=True)}" alt="" '
-        f'width="{TIMELINE_COVER_WIDTH}" height="{TIMELINE_COVER_HEIGHT}" '
-        f'decoding="async"></span>'
-        for index, slug in enumerate(hero_slugs)
-    )
-
-    state_content = {
-        "old-magic": {
-            "number": "I",
-            "sigil": "✦",
-            "eyebrow": "Magic state · active",
-            "title": "The Many Ages of Magic",
-            "description": (
-                "These are recurring civilizational forms, not stages of one society. "
-                "Kingdoms, modernities, industries, and ruins may recur in any order across old magic."
-            ),
-            "start": "First wonders",
-            "end": "All Accounts Due",
-            "cycles": (
-                "wild / local",
-                "crown / covenant",
-                "civic arcana",
-                "high systems",
-                "falls / refoundings",
-            ),
-        },
-        "long-dark": {
-            "number": "II",
-            "sigil": "0",
-            "eyebrow": "Magic state · zero · our present is here",
-            "title": "The Long Dark",
-            "description": (
-                "Human modernities rise more than once, fail in different ways, and leave silos, "
-                "cities, stations, successor peoples, and archives. Similar technology does not establish shared ancestry or order."
-            ),
-            "start": "After All Accounts Due",
-            "end": "Before The Sky Remembers Us",
-            "cycles": (
-                "magicless modernities",
-                "human afterfalls",
-                "synthetic worlds",
-                "orbital successors",
-                "archive refoundings",
-            ),
-        },
-        "new-magic": {
-            "number": "III",
-            "sigil": "↗",
-            "eyebrow": "Magic state · reciprocal",
-            "title": "Magic Begins Again",
-            "description": (
-                "The Sky does not restore the six dead systems. Living participants originate "
-                "a new reciprocal magic; later public, modern, fantasy, and fallen worlds need not form one ascent."
-            ),
-            "start": "The Sky Remembers Us",
-            "end": "The unwritten future",
-            "cycles": (
-                "reciprocal awakening",
-                "public-magic worlds",
-                "later fantasy forms",
-                "future falls",
-            ),
-        },
-        "uncertain": {
-            "number": "?",
-            "sigil": "⇄",
-            "eyebrow": "Boundary field",
-            "title": "Stories That Refuse a Side",
-            "description": (
-                "Active impossibilities exclude these stories from the Long Dark, but their settings "
-                "do not yet reveal whether they occur before extinction or after reawakening."
-            ),
-            "start": "Old magic",
-            "end": "New magic",
-            "cycles": (
-                "hidden magic modernity",
-                "folkloric modernity",
-                "public magic modernity",
-            ),
-        },
-        "off-axis": {
-            "number": "∞",
-            "sigil": "◇",
-            "eyebrow": "Outside the worldline",
-            "title": "Off-Axis Realms",
-            "description": (
-                "Unequal clocks, external realities, and locations outside material time keep "
-                "their own sequences without borrowing a place on the main current."
-            ),
-            "start": "Known internal sequence",
-            "end": "Universal position open",
-            "cycles": (
-                "unequal clocks",
-                "external worlds",
-                "outside material time",
-            ),
-        },
-    }
-
-    state_sections: dict[str, str] = {}
-    for state in ("old-magic", "long-dark", "new-magic", "uncertain", "off-axis"):
-        state_chapters = chapters_by_state[state]
-        if not state_chapters:
-            continue
-        state_meta = state_content[state]
-        rendered_chapters: list[str] = []
-        era_links: list[str] = []
-        for chapter_index, chapter in enumerate(state_chapters, start=1):
-            special_markers = {
-                "terminal-convergence": "END",
-                "our-present-marker": "YOU ARE HERE",
-                "joined-sky": "BEGIN",
-                "western-bay-invasion": "ANCHOR",
-                "glass-sea": "LATER",
-                "contemporary-supernatural": "⇄",
-                "old-dark-hinge": "?",
-                "off-axis-realms": "∞",
-            }
-            unordered_markers = {
-                "old-magic": "WAVE",
-                "long-dark": "ISLAND",
-                "new-magic": "WAVE",
-                "uncertain": "?",
-                "off-axis": "∞",
-            }
-            chapter_marker = special_markers.get(
-                chapter.id,
-                f"{state_meta['number']}.{chapter_index}"
-                if chapter.ordered
-                else unordered_markers[state],
-            )
-            chapter_id = html.escape(chapter.id, quote=True)
-            era_links.append(
-                f'<li><a data-chapter-link href="#{chapter_id}">'
-                f'<span>{html.escape(chapter_marker)}</span>'
-                f'<em>{html.escape(chapter.title)}</em></a></li>'
-            )
-
-            groups = []
-            if chapter.stories:
-                groups.append(
-                    _timeline_ribbon(
-                        chapter.stories,
-                        stories_by_slug,
-                        timeline.story_moments,
-                        timeline.story_spans,
-                        timeline.story_confidence,
-                        ordered=chapter.ordered,
-                    )
-                )
-            for group in chapter.constellations:
-                groups.append(
-                    f'<section class="timeline-constellation" id="{html.escape(group.id, quote=True)}" '
-                    f'data-group-confidence="{group.confidence}">'
-                    f'<header class="constellation-heading"><p class="timeline-eyebrow">{html.escape(group.eyebrow)}</p>'
-                    f'<h4>{html.escape(group.title)}</h4>'
-                    f'<p>{html.escape(group.description)}</p>'
-                    f'<p class="sequence-note">{html.escape(group.sequence_note)}</p></header>'
-                    f'{_timeline_ribbon(group.stories, stories_by_slug, timeline.story_moments, timeline.story_spans, timeline.story_confidence, ordered=group.ordered)}'
-                    f'</section>'
-                )
-
-            rendered_chapters.append(
-                f'<section class="timeline-chapter chapter-{chapter.type}" id="{chapter_id}" '
-                f'data-timeline-chapter data-group-confidence="{chapter.confidence}">'
-                f'<div class="timeline-chapter-inner"><header class="chapter-heading">'
-                f'<div class="chapter-number" aria-hidden="true">{html.escape(chapter_marker)}</div>'
-                f'<div><p class="timeline-eyebrow">{html.escape(chapter.eyebrow)}</p>'
-                f'<h3>{html.escape(chapter.title)}</h3>'
-                f'<p class="chapter-description">{html.escape(chapter.description)}</p>'
-                f'<p class="sequence-note">{html.escape(chapter.sequence_note)}</p></div></header>'
-                f'{"".join(groups)}</div></section>'
-            )
-
-        state_id = f"state-{state}"
-        cycle_labels = "".join(
-            f'<span>{html.escape(label)}</span>' for label in state_meta["cycles"]
-        )
-        state_sections[state] = (
-            f'<section class="timeline-state {state_id}" id="{state_id}" '
-            f'data-timeline-state="{state}">'
-            f'<header class="timeline-state-header"><div class="timeline-state-header-inner">'
-            f'<div class="state-sigil" aria-hidden="true">{state_meta["sigil"]}</div>'
-            f'<div class="state-heading"><p class="timeline-eyebrow">{state_meta["eyebrow"]}</p>'
-            f'<h2>{state_meta["title"]}</h2><p>{state_meta["description"]}</p>'
-            f'<div class="state-range"><span>{state_meta["start"]}</span><i aria-hidden="true"></i>'
-            f'<span>{state_meta["end"]}</span></div>'
-            f'<div class="state-cycles" aria-label="Recurring civilizational shapes">{cycle_labels}</div></div>'
-            f'<p class="state-story-count"><strong data-state-visible>{state_counts[state]}</strong> '
-            f'stor{"y" if state_counts[state] == 1 else "ies"}</p></div>'
-            f'<nav class="state-era-nav" aria-label="Jump within {html.escape(state_meta["title"])}"><ol>'
-            f'{"".join(era_links)}</ol></nav></header>{"".join(rendered_chapters)}</section>'
-        )
-
-    total = len(catalog.stories)
-    cosmology = (
-        '<nav class="timeline-cosmology" aria-label="The three states of the universal timeline">'
-        '<a class="cosmology-state cosmology-old" href="#state-old-magic">'
-        f'<span>I</span><small>Magic active</small><strong>The many ages</strong><em>{state_counts["old-magic"]} stories</em></a>'
-        '<div class="cosmology-boundary boundary-end"><small>Old magic ends</small><strong>All Accounts Due</strong></div>'
-        '<a class="cosmology-state cosmology-dark" href="#state-long-dark">'
-        f'<span>II</span><small>Magic absent</small><strong>The Long Dark</strong><em>{state_counts["long-dark"]} stories · our present</em></a>'
-        '<div class="cosmology-boundary boundary-begin"><small>New magic begins</small><strong>The Sky Remembers Us</strong></div>'
-        '<a class="cosmology-state cosmology-new" href="#state-new-magic">'
-        f'<span>III</span><small>Magic reciprocal</small><strong>The second history</strong><em>{state_counts["new-magic"]} stories</em></a>'
-        '</nav>'
-    )
-    body = (
-        '<div class="timeline-page" data-timeline>'
-        '<section class="timeline-hero"><div class="timeline-hero-inner">'
-        '<div class="timeline-hero-copy">'
-        '<p class="timeline-kicker">A chronology of the shared universe</p>'
-        '<h1>The Worldline</h1>'
-        '<p class="timeline-lede">Every story placed by universal era—this is not a publication or reading sequence. '
-        'Magic is the measuring instrument: alive across many ages, absent through our present, '
-        'then born anew when <em>The Sky Remembers Us</em>.</p>'
-        f'<p class="timeline-total">All {total} published stories are accounted for below. '
-        'The eras flow downward and the covers wrap into visible constellations. Border style '
-        'shows placement confidence; wave and island markers deliberately avoid inventing an internal order.</p>'
-        '<div class="timeline-legend" aria-label="Chronology legend">'
-        '<span><i class="legend-line legend-line-solid" aria-hidden="true"></i>Era fixed</span>'
-        '<span><i class="legend-line legend-line-inferred" aria-hidden="true"></i>Era inferred</span>'
-        '<span><i class="legend-line legend-line-dotted" aria-hidden="true"></i>Era speculative</span>'
-        '<span><i class="legend-orbit" aria-hidden="true"></i>Era unresolved</span>'
-        '<span><i class="legend-star" aria-hidden="true">✦</i>Canon story</span></div>'
-        '<div class="timeline-controls">'
-        '<div class="timeline-filter" role="group" aria-label="Filter stories by era confidence">'
-        f'<button type="button" data-timeline-filter="all" aria-pressed="true">All <span>{total}</span></button>'
-        f'<button type="button" data-timeline-filter="fixed" aria-pressed="false">Era fixed <span>{confidence_counts["fixed"]}</span></button>'
-        f'<button type="button" data-timeline-filter="inferred" aria-pressed="false">Era inferred <span>{confidence_counts["inferred"]}</span></button>'
-        f'<button type="button" data-timeline-filter="speculative" aria-pressed="false">Era speculative <span>{confidence_counts["speculative"]}</span></button>'
-        f'<button type="button" data-timeline-filter="unresolved" aria-pressed="false">Era unresolved <span>{confidence_counts["unresolved"]}</span></button>'
-        '</div><p class="timeline-filter-result" aria-live="polite">'
-        f'<span data-visible-total>{total}</span> placements in view</p></div>'
-        f'{cosmology}'
-        '<div class="timeline-side-jumps"><span>Not forced onto the line:</span>'
-        f'<a href="#state-uncertain">⇄ Extinction side unresolved · {state_counts["uncertain"]}</a>'
-        f'<a href="#state-off-axis">◇ Off-axis · {state_counts["off-axis"]}</a></div>'
-        f'</div><div class="timeline-hero-covers" aria-hidden="true">{hero_covers}</div>'
-        '</div></section>'
-        '<div class="timeline-current">'
-        f'{state_sections.get("old-magic", "")}'
-        f'{state_sections.get("long-dark", "")}'
-        f'{state_sections.get("new-magic", "")}'
-        '</div><aside class="timeline-side-fields" aria-label="Chronology branches">'
-        f'{state_sections.get("uncertain", "")}'
-        f'{state_sections.get("off-axis", "")}'
-        '</aside>'
-        '<aside class="timeline-coda"><p class="timeline-eyebrow">How to read the map</p>'
-        '<h2>One world. Three conditions. Honest uncertainty.</h2>'
-        '<p>A fixed card means its broad era or boundary is established—not that its exact neighbor is. '
-        'The Long Dark contains all magicless history, including our modern time; a contemporary aesthetic '
-        'alone is not enough to enter it. Stories with active impossibilities remain between old and new '
-        'magic until a real hinge identifies their side. Off-axis stories keep their own causal sequences '
-        'without pretending they have a material-world date.</p>'
-        '<p><a href="index.html">Return to the complete cover library →</a></p></aside>'
-        '</div>'
-    )
-    return _page(
-        "The Worldline — Story Chronology",
-        body,
-        "index.html",
-        "timeline.html",
-        "styles.css",
-        current="timeline",
-        script_href="timeline.js",
-    )
-
-
-def _atlas_story_card(
-    story: Story,
-    moments: tuple[str, ...],
-    span: TimelineSpan | None,
-    confidence: str,
-) -> str:
-    slug = html.escape(story.slug, quote=True)
-    title = html.escape(story.title)
-    cover = html.escape(_timeline_cover(story), quote=True)
-    story_state = _story_label(story)
-    state_class = re.sub(r"[^a-z0-9]+", "-", story_state.casefold()).strip("-")
-    evidence = {
-        "fixed": ("●", "Fixed anchor"),
-        "inferred": ("↔", "Relative link"),
-        "speculative": ("◇", "Compatible candidate"),
-        "unresolved": ("?", "Coordinate open"),
-    }
-    glyph, evidence_label = evidence[confidence]
-    note = (
-        f'<span class="atlas-story-note">{html.escape(moments[0])}</span>'
-        if moments
-        else ""
-    )
-    span_marker = ""
-    if span is not None:
-        span_marker = (
-            f'<span class="timeline-span" aria-label="{html.escape(span.note, quote=True)}">'
-            f'<span>{html.escape(span.start)}</span><i aria-hidden="true"></i>'
-            f'<span>{html.escape(span.end)}</span></span>'
-        )
-    canon_marker = (
-        '<span class="atlas-canon" aria-hidden="true">✦</span>' if story.canon else ""
-    )
-    return (
-        f'<li class="timeline-story" data-story-state="{state_class}" '
-        f'data-placement-confidence="{confidence}">'
-        f'<a class="timeline-story-link" href="stories/{slug}.html" aria-label="{title}">'
-        f'<span class="timeline-cover-frame"><img src="{cover}" alt="" '
-        f'width="{TIMELINE_COVER_WIDTH}" height="{TIMELINE_COVER_HEIGHT}" '
-        f'loading="lazy" decoding="async">{canon_marker}'
-        f'<span class="timeline-evidence evidence-{confidence}" aria-hidden="true">{glyph}</span></span>'
-        f'<span class="timeline-story-copy"><strong class="timeline-story-title">{title}</strong>'
-        f'<span class="timeline-story-meta"><span>{html.escape(story_state)}</span>'
-        f'<span>{evidence_label}</span></span>{span_marker}{note}</span></a></li>'
-    )
-
-
-def _atlas_story_group(
-    slugs: tuple[str, ...],
-    stories_by_slug: dict[str, Story],
-    timeline: Timeline,
-) -> str:
-    cards = "".join(
-        _atlas_story_card(
-            stories_by_slug[slug],
-            timeline.story_moments.get(slug, ()),
-            timeline.story_spans.get(slug),
-            timeline.story_confidence.get(slug, "unresolved"),
-        )
-        for slug in slugs
-    )
-    count = len(slugs)
-    return (
-        f'<div class="timeline-story-group" data-story-group data-story-total="{count}">'
-        f'<p class="timeline-group-count"><span data-group-visible>{count}</span> '
-        f'of {count} stor{"y" if count == 1 else "ies"} visible</p>'
-        f'<ol class="timeline-cover-grid">{cards}</ol></div>'
-    )
-
-
-def _atlas_constellation(
-    group: TimelineGroup,
-    stories_by_slug: dict[str, Story],
-    timeline: Timeline,
-    tone: str,
-) -> str:
-    group_id = html.escape(group.id, quote=True)
-    count = len(group.stories)
-    return (
-        f'<details class="atlas-constellation constellation-{tone}" id="{group_id}" '
-        f'data-constellation data-group-confidence="{group.confidence}">'
-        f'<summary><span class="constellation-orbit" aria-hidden="true"><i></i></span>'
-        f'<span class="constellation-summary-copy"><span class="timeline-eyebrow">'
-        f'{html.escape(group.eyebrow)}</span><strong>{html.escape(group.title)}</strong>'
-        f'<span>{html.escape(group.description)}</span></span>'
-        f'<span class="constellation-summary-meta"><span class="constellation-count">'
-        f'<b data-group-summary-visible>{count}</b> stor{"y" if count == 1 else "ies"}</span>'
-        f'<span class="constellation-action"><span class="when-closed">Explore</span>'
-        f'<span class="when-open">Close</span></span></span></summary>'
-        f'<div class="constellation-body"><p class="sequence-note">'
-        f'{html.escape(group.sequence_note)}</p>'
-        f'{_atlas_story_group(group.stories, stories_by_slug, timeline)}</div></details>'
-    )
-
-
-def _atlas_anchor(
-    chapter: TimelineChapter,
-    stories_by_slug: dict[str, Story],
-    timeline: Timeline,
-    role: str,
-) -> str:
-    return (
-        f'<article class="atlas-anchor anchor-{role}" id="{html.escape(chapter.id, quote=True)}" '
-        f'data-timeline-chapter data-group-confidence="{chapter.confidence}">'
-        f'<header><p class="timeline-eyebrow">{html.escape(chapter.eyebrow)}</p>'
-        f'<h3>{html.escape(chapter.title)}</h3>'
-        f'<p>{html.escape(chapter.description)}</p></header>'
-        f'{_atlas_story_group(chapter.stories, stories_by_slug, timeline)}'
-        f'<p class="sequence-note">{html.escape(chapter.sequence_note)}</p></article>'
-    )
-
-
-def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
-    chapters = _timeline_with_fallback(timeline, catalog)
-    stories_by_slug = {story.slug: story for story in catalog.stories}
-    chapters_by_id = {chapter.id: chapter for chapter in chapters}
-    required_ids = {
-        "western-bay-invasion",
-        "glass-sea",
-        "terminal-convergence",
-        "our-present-marker",
-        "long-dark-candidates",
-        "joined-sky",
-        "relative-links",
-        "side-of-zero-open",
-        "off-axis-realms",
-    }
-    missing_ids = sorted(required_ids - set(chapters_by_id))
-    if missing_ids:
-        raise ValueError(f"Timeline atlas is missing required chapters: {missing_ids}")
-
-    confidence_order = ("fixed", "inferred", "speculative", "unresolved")
-    confidence_counts = {
-        level: sum(
-            timeline.story_confidence.get(story.slug, "unresolved") == level
-            for story in catalog.stories
-        )
-        for level in confidence_order
-    }
-
-    def chapter_slugs(chapter: TimelineChapter) -> tuple[str, ...]:
-        return (
-            *chapter.stories,
-            *(slug for group in chapter.constellations for slug in group.stories),
-        )
-
-    state_counts = {
-        state: sum(
-            len(chapter_slugs(chapter))
-            for chapter in chapters
-            if chapter.magic_state == state
-        )
-        for state in TIMELINE_MAGIC_STATES
-    }
-    total = len(catalog.stories)
-
-    hero_slugs = (
-        "all-accounts-due",
-        "the-room-that-waited",
-        "the-sky-remembers-us-return",
-    )
-    hero_covers = "".join(
-        f'<span class="hero-cover hero-cover-{index + 1}"><img '
-        f'src="{html.escape(_timeline_cover(stories_by_slug[slug]), quote=True)}" alt="" '
-        f'width="{TIMELINE_COVER_WIDTH}" height="{TIMELINE_COVER_HEIGHT}" '
-        f'decoding="async"></span>'
-        for index, slug in enumerate(hero_slugs)
-    )
-
-    old_anchors = "".join(
-        _atlas_anchor(chapters_by_id[chapter_id], stories_by_slug, timeline, role)
-        for chapter_id, role in (
-            ("western-bay-invasion", "minor"),
-            ("glass-sea", "minor"),
-            ("terminal-convergence", "boundary"),
-        )
-    )
-    long_dark = chapters_by_id["long-dark-candidates"]
-    long_dark_arcs = "".join(
-        _atlas_constellation(group, stories_by_slug, timeline, "dark")
-        for group in long_dark.constellations
-    )
-    joined_sky = _atlas_anchor(
-        chapters_by_id["joined-sky"], stories_by_slug, timeline, "boundary"
-    )
-    relative = chapters_by_id["relative-links"]
-    relative_links = "".join(
-        _atlas_constellation(group, stories_by_slug, timeline, "relative")
-        for group in relative.constellations
-    )
-    uncertainty = chapters_by_id["side-of-zero-open"]
-    uncertainty_groups = "".join(
-        _atlas_constellation(group, stories_by_slug, timeline, "uncertain")
-        for group in uncertainty.constellations
-    )
-    off_axis = chapters_by_id["off-axis-realms"]
-    off_axis_groups = "".join(
-        _atlas_constellation(group, stories_by_slug, timeline, "offaxis")
-        for group in off_axis.constellations
-    )
-    present = chapters_by_id["our-present-marker"]
-
-    body = (
-        '<a class="timeline-skip-link" href="#timeline-atlas">Skip to the worldline map</a>'
-        '<div class="timeline-page" data-timeline>'
-        '<section class="timeline-hero"><div class="timeline-hero-inner">'
-        '<div class="timeline-hero-copy"><p class="timeline-kicker">A universal chronology, not a reading order</p>'
-        '<h1>The Worldline</h1>'
-        '<p class="timeline-lede">Four fixed lights in a history measured by magic: '
-        'alive, extinguished through our present, then born anew. Everything else keeps '
-        'only the position its evidence earns.</p>'
-        '<dl class="timeline-proof-strip">'
-        f'<div><dt>Fixed anchors</dt><dd>{confidence_counts["fixed"]}</dd></div>'
-        f'<div><dt>Relative links</dt><dd>{confidence_counts["inferred"]}</dd></div>'
-        f'<div><dt>Long Dark candidates</dt><dd>{confidence_counts["speculative"]}</dd></div>'
-        f'<div><dt>Coordinates open</dt><dd>{confidence_counts["unresolved"]}</dd></div></dl>'
-        f'<p class="timeline-total">All {total} stories appear exactly once. Open a constellation '
-        'when you want its covers; the map itself stays compact.</p></div>'
-        f'<div class="timeline-hero-covers" aria-hidden="true">{hero_covers}</div>'
-        '</div></section>'
-        '<nav class="worldline-dock" aria-label="Worldline map">'
-        '<div class="worldline-dock-main">'
-        f'<a href="#old-magic-map" data-worldline-link="old-magic"><span>✦</span><strong>Old Magic</strong>'
-        f'<small>{state_counts["old-magic"]} fixed · ends at All Accounts</small></a>'
-        f'<a href="#long-dark-map" data-worldline-link="long-dark"><span>0</span><strong>The Long Dark</strong>'
-        f'<small>{state_counts["long-dark"]} candidates · our present inside</small></a>'
-        f'<a href="#new-magic-map" data-worldline-link="new-magic"><span>✧</span><strong>New Magic</strong>'
-        f'<small>{state_counts["new-magic"]} fixed · begins at the Sky</small></a></div>'
-        '<div class="worldline-dock-branches">'
-        f'<a href="#uncertainty-map" data-worldline-link="uncertain">⇄ Uncertainty belt · {state_counts["uncertain"]}</a>'
-        f'<a href="#off-axis-map" data-worldline-link="off-axis">◇ Off-axis · {state_counts["off-axis"]}</a>'
-        '</div></nav>'
-        '<section class="timeline-tools" aria-label="Timeline controls">'
-        '<div><p class="timeline-eyebrow">Filter by evidence</p>'
-        '<div class="timeline-filter" role="group" aria-label="Filter stories by placement evidence">'
-        f'<button type="button" data-timeline-filter="all" aria-pressed="true">All <span>{total}</span></button>'
-        f'<button type="button" data-timeline-filter="fixed" aria-pressed="false">Anchor <span>{confidence_counts["fixed"]}</span></button>'
-        f'<button type="button" data-timeline-filter="inferred" aria-pressed="false">Relative <span>{confidence_counts["inferred"]}</span></button>'
-        f'<button type="button" data-timeline-filter="speculative" aria-pressed="false">Candidate <span>{confidence_counts["speculative"]}</span></button>'
-        f'<button type="button" data-timeline-filter="unresolved" aria-pressed="false">Open <span>{confidence_counts["unresolved"]}</span></button>'
-        '</div></div><div class="timeline-tool-status">'
-        f'<p><strong data-visible-total>{total}</strong> placements in view</p>'
-        '<button type="button" data-collapse-constellations>Collapse all constellations</button>'
-        '</div></section>'
-        '<div class="timeline-atlas" id="timeline-atlas">'
-        '<section class="atlas-worldline" aria-label="The fixed universal worldline">'
-        f'<section class="atlas-state atlas-old" id="old-magic-map" data-map-section="old-magic" '
-        f'data-timeline-state="old-magic"><header class="atlas-state-heading"><span class="atlas-sigil">✦</span>'
-        f'<div><p class="timeline-eyebrow">Before perfect zero · <strong data-state-visible>{state_counts["old-magic"]}</strong> stories fixed</p>'
-        '<h2>Old Magic</h2><p>Countless magical civilizations may rise and fall here. '
-        'Only this narrow chain is presently anchored.</p></div></header>'
-        f'<div class="atlas-anchor-stack">{old_anchors}</div></section>'
-        f'<section class="atlas-state atlas-dark" id="long-dark-map" data-map-section="long-dark" '
-        f'data-timeline-state="long-dark"><header class="atlas-state-heading"><span class="atlas-sigil">0</span>'
-        f'<div><p class="timeline-eyebrow">Perfect material zero · <strong data-state-visible>{state_counts["long-dark"]}</strong> candidates</p>'
-        '<h2>The Long Dark</h2><p>Not one civilization, but a vast interval containing '
-        'independent modernities, afterfalls, successors, and archives.</p></div></header>'
-        f'<aside class="our-present"><span>You are here</span><strong>{html.escape(present.title)}</strong>'
-        f'<p>{html.escape(present.description)}</p></aside>'
-        f'<div class="parallel-arcs" aria-label="Parallel Long Dark possibilities">{long_dark_arcs}</div></section>'
-        f'<section class="atlas-state atlas-new" id="new-magic-map" data-map-section="new-magic" '
-        f'data-timeline-state="new-magic"><header class="atlas-state-heading"><span class="atlas-sigil">✧</span>'
-        f'<div><p class="timeline-eyebrow">After perfect zero · <strong data-state-visible>{state_counts["new-magic"]}</strong> story fixed</p>'
-        '<h2>New Magic</h2><p>The second history begins with reciprocal life. '
-        'No later published civilization is fixed here yet.</p></div></header>'
-        f'{joined_sky}<div class="new-horizon" aria-hidden="true"><span></span><span></span><span></span>'
-        '<p>The future remains unwritten</p></div></section></section>'
-        f'<section class="uncertainty-field" id="uncertainty-map" data-map-section="uncertain" '
-        f'data-timeline-state="uncertain"><header class="field-heading"><div><p class="timeline-eyebrow">'
-        f'Side branches · <strong data-state-visible>{state_counts["uncertain"]}</strong> stories</p>'
-        f'<h2>{html.escape(uncertainty.title)}</h2><p>{html.escape(uncertainty.description)}</p></div>'
-        '<div class="uncertainty-symbol" aria-hidden="true">⇄</div></header>'
-        f'<div class="relative-link-field"><header><p class="timeline-eyebrow">{html.escape(relative.eyebrow)}</p>'
-        f'<h3>{html.escape(relative.title)}</h3><p>{html.escape(relative.description)}</p></header>'
-        f'<div class="constellation-grid relative-grid">{relative_links}</div></div>'
-        f'<div class="constellation-grid uncertainty-grid">{uncertainty_groups}</div></section>'
-        f'<aside class="offaxis-field" id="off-axis-map" data-map-section="off-axis" '
-        f'data-timeline-state="off-axis"><header class="field-heading"><div>'
-        f'<p class="timeline-eyebrow">Outside stable material dating · '
-        f'<strong data-state-visible>{state_counts["off-axis"]}</strong> stories</p>'
-        f'<h2>{html.escape(off_axis.title)}</h2><p>{html.escape(off_axis.description)}</p></div>'
-        '<div class="offaxis-orbit" aria-hidden="true"><i></i><i></i><i></i></div></header>'
-        f'<div class="constellation-grid offaxis-grid">{off_axis_groups}</div></aside></div>'
-        '<aside class="timeline-coda"><p class="timeline-eyebrow">The evidence rule</p>'
-        '<h2>Shape is not a date.</h2><p>A kingdom can rise after a city. A superhero '
-        'modernity can precede extinction or follow the joined sky. A ruin can belong to '
-        'any fall. The map fixes cross-story chronology only where the stories or universe '
-        'authority actually supply a hinge.</p><p><a href="index.html">Return to the complete cover library →</a></p></aside>'
-        '</div>'
-    )
-    return _page(
-        "The Worldline — Story Chronology",
-        body,
-        "index.html",
-        "timeline.html",
-        "styles.css",
-        current="timeline",
-        script_href="timeline.js",
     )
 
 
@@ -2225,7 +1604,6 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     destination = prepare_output(output)
     (destination / "stories").mkdir()
     (destination / "covers").mkdir()
-    (destination / TIMELINE_COVER_DIRECTORY).mkdir()
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(TIMELINE_SCRIPT_PATH, destination / "timeline.js")
     shutil.copy2(WORLDLINE_HERO_ART_PATH, destination / WORLDLINE_HERO_ART_PATH.name)
@@ -2237,10 +1615,6 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     for story in catalog.stories:
         source_cover = snapshot_path.parent / story.cover
         shutil.copy2(source_cover, destination / story.cover)
-        _write_timeline_cover(
-            source_cover,
-            destination / _timeline_cover(story),
-        )
         (destination / "stories" / f"{story.slug}.html").write_text(
             render_story(story),
             encoding="utf-8",
@@ -2258,8 +1632,8 @@ def main() -> None:
     capture_parser = commands.add_parser("capture", help="Store one reviewed story for Pages.")
     capture_parser.add_argument("slug")
 
-    commands.add_parser("capture-all", help="Regenerate the stored snapshot from every story source.")
-    commands.add_parser("check", help="Validate the stored publication snapshot.")
+    commands.add_parser("capture-all", help="Refresh every published story from its source package.")
+    commands.add_parser("check", help="Validate publication and source inventory parity.")
 
     args = parser.parse_args()
     if args.command == "build":
@@ -2274,18 +1648,20 @@ def main() -> None:
     else:
         catalog = load_catalog()
         timeline = load_timeline(catalog)
-        placed = {
-            slug
-            for chapter in timeline.chapters
-            for slug in (
-                *chapter.stories,
-                *(story for group in chapter.constellations for story in group.stories),
-            )
-        }
-        print(
-            f"PASS: {len(catalog.stories)} stored stories; "
-            f"{len(placed)} curated chronology placements"
+        source_count, published_count, legacy_count = validate_repository_inventory(
+            catalog, timeline
         )
+        canon_conflicts = published_canon_marker_conflicts(catalog)
+        print(
+            f"PASS: {published_count} published stories, covers, and chronology placements; "
+            f"{source_count} source packages ({legacy_count} legacy, "
+            f"{len(UNPUBLISHED_SOURCE_SLUGS)} explicitly unpublished)"
+        )
+        if canon_conflicts:
+            print(
+                "WARNING: published canon state conflicts with authoritative source markers for "
+                f"{len(canon_conflicts)} stories: {', '.join(canon_conflicts)}"
+            )
 
 
 if __name__ == "__main__":

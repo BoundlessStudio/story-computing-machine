@@ -71,7 +71,7 @@
     at least one consequence unrelated to the central theme. Make operative
     limits clear without turning prose into a manual.
   - Vary architecture as well as setting. Do not default to a public technical
-    emergency that proves an ethical thesis, converts a crowd, rewrites an
+    emergency that proves an ethical thesis, converts a crowd, overhauls an
     institution, and closes on a polished emblem. A story may run, walk,
     circle, braid, accumulate, contain, recur, or stop after a recognition; its
     movements still need an intelligible relation to one another.
@@ -132,11 +132,12 @@
     the existing single Dialogue verdict after first judging prompt and prose
     without the outline.
   - `Craft profile: prospective-2026-08-23` extends 08-21 for newly scaffolded
-    CREATE stories and newly prepared selection-contract rewrites. Before drafting, derive a dialogue promise from
-    the prompt's relationship, tonal, and communication implications; choose a
-    deliberate dialogic medium; and state why communication itself produces
-    movement. Speech, writing, internal voices, signs, interfaces, gesture,
-    silence, and failed contact are all first-class options.
+    CREATE stories, including remove-then-create replacements. Before drafting,
+    derive a dialogue promise from the prompt's relationship, tonal, and
+    communication implications; choose a deliberate dialogic medium; and state
+    why communication itself produces movement. Speech, writing, internal
+    voices, signs, interfaces, gesture, silence, and failed contact are all
+    first-class options.
   - The 08-23 outline adds Dialogue promise, Dialogic medium, and Dialogue engine
     to Story plus Relationship movement to Voice. The six-field Voice capsule
     is capped at 220 words. Relationship movement states what major participants
@@ -151,23 +152,21 @@
     distraction, poor explanation, or social unevenness. Check that a closing
     gesture of instructions, maintenance, inventory, breakfast, or returning to
     work is earned by the story rather than used to avoid thematic contact.
-  - For CREATE only, after the standalone dialogue judgment, compare only the target's dialogic
-    pattern, one major exchange, and final meaningful exchange against bounded
-    passages from the six most recent passing stories, or all available when
-    fewer than six exist. Materially transplantable reasoning, relationship
-    action, or ending gestures block through the same
-    single Dialogue verdict; similarity that the prompt genuinely earns does
-    not. After each ten completed 08-23 CREATE stories, run a no-artifact rolling
-    collection audit of media, competence structures, workplace triads,
-    reasoning patterns, humor levels, and ending gestures, and feed only a
-    compact anti-default brief into the next outline.
-  - In an 08-23 rewrite, the Rewrite selections define the preservation
-    boundary. REBUILD permits new whole-story execution outside named keeps;
-    RESHAPE preserves unnamed material in substance; SELECTIVE preserves
-    unnamed prose exactly and changes only named targets plus necessary seams.
-    Apply prospective craft defaults to changed prose, not as a reason to
-    modernize protected text. Selection compliance is blocking, while the
-    recent-story collection comparison remains CREATE-only.
+  - For CREATE, including replacements, after the standalone dialogue judgment,
+    compare only the target's dialogic pattern, one major exchange, and final
+    meaningful exchange against bounded passages from the six most recent
+    passing stories, or all available when fewer than six exist. Materially
+    transplantable reasoning, relationship action, or ending gestures block
+    through the same single Dialogue verdict; similarity that the prompt
+    genuinely earns does not. After each ten completed 08-23 CREATE stories,
+    run a no-artifact rolling collection audit of media, competence structures,
+    workplace triads, reasoning patterns, humor levels, and ending gestures, and
+    feed only a compact anti-default brief into the next outline.
+  - A replacement begins from an absent target and a clean CREATE scaffold. It
+    preserves all prior user-authored prompt/request text, the new request, and accessible external
+    references, but it does not inherit prior outline, prose, review, or cover.
+    Prospective craft defaults and the full recent-story comparison apply to the
+    new work as ordinary CREATE production.
 
 ## Tonal range, scale, and connection
 

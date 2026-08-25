@@ -9,10 +9,11 @@ the complete prose before distilling one spoiler-light, emotionally defining
 cover idea. Preserve only the character, setting, era, mood, and material
 details that support that idea; do not invent a different premise.
 
-The coordinator must include every reference image supplied with the original
-request. Inspect each reference before forming the cover brief, then include all
-of them as actual reference inputs to image generation. Use
-`referenced_image_paths` when every original has a resolved local path;
+The coordinator must include every reference image inventoried by the clean
+CREATE prompt, from every retained request block and the new request for a
+replacement. Inspect each reference before forming the cover brief, then
+include all of them as actual reference inputs to image generation. Use
+`referenced_image_paths` when every reference has a resolved local path;
 otherwise use the smallest `num_last_images_to_include` value that contains all
 of the supplied references, never both mechanisms. Preserve recognizable traits
 for the subject, object, setting, mood, palette, or style role implied by the

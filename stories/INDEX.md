@@ -1,4 +1,4 @@
-# Locked legacy story index
+# Legacy story index
 
 This is a frozen index of the stories produced before the four-file workflow.
 Do not update it for current stories. Current metadata lives only in
@@ -11,7 +11,6 @@ Do not update it for current stories. Current metadata lives only in
 | `all-accounts-due` | *All Accounts Due* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `four-million-falling` | *Four Million Falling* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-sky-remembers-us` | *The Sky Remembers Us* | candidate | no | pending | no | — | Release-certified story candidate. |
-| `the-healers-measure` | *The Healer's Measure* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `transitions-in-common` | *Transitions in Common* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `what-i-hate-most` | *What I Hate Most* | candidate | no | pending | no | — | Release-certified story candidate. |
 | `the-last-monster` | *The Last Monster* | candidate | no | pending | no | — | Release-certified story candidate. |
