@@ -1149,6 +1149,13 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(3, rendered.count("data-cycle-link"))
         self.assertIn('<figure class="signal-hero-art" aria-hidden="true">', rendered)
         self.assertIn('<img src="worldline-hero-art.webp" alt=""', rendered)
+        hero_section = rendered[
+            rendered.index('<section class="signal-hero">') : rendered.index(
+                "</section>", rendered.index('<section class="signal-hero">')
+            )
+        ]
+        for removed_stat in ("Epochs", "Named eras", "Stories plotted", "Fixed anchors"):
+            self.assertNotIn(f"<dt>{removed_stat}</dt>", hero_section)
         hero_start = rendered.index('<figure class="signal-hero-art"')
         hero_end = rendered.index('</figure>', hero_start)
         hero_markup = rendered[hero_start:hero_end]
@@ -1216,6 +1223,17 @@ class StorySystemTests(unittest.TestCase):
         self.assertNotIn("signal-coda", rendered)
         self.assertNotIn("The rule of the line", rendered)
         self.assertNotIn("The rhythm of the line", rendered)
+        self.assertIn(
+            '<footer class="signal-continuation" aria-labelledby="signal-continuation-title">',
+            rendered,
+        )
+        self.assertIn("Past the last plotted age", rendered)
+        self.assertIn("The line goes on.", rendered)
+        self.assertIn("unnamed ages are already beginning", rendered)
+        self.assertLess(
+            rendered.index('id="epoch-second-sky-rise"'),
+            rendered.index('class="signal-continuation"'),
+        )
         self.assertIn('<body class="timeline-body">', rendered)
         self.assertIn('<script src="timeline.js" defer></script>', rendered)
         self.assertIn('<a href="timeline.html" aria-current="page">Chronology</a>', rendered)
@@ -1260,7 +1278,7 @@ class StorySystemTests(unittest.TestCase):
             )
             self.assertIn('class="story-grid"', (output / "index.html").read_text(encoding="utf-8"))
             self.assertIn(
-                f"<dd>{len(catalog.stories)}</dd>",
+                f"<strong data-visible-total>{len(catalog.stories)}</strong>",
                 (output / "timeline.html").read_text(encoding="utf-8"),
             )
 
