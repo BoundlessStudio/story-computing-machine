@@ -25,9 +25,7 @@ Your younger brother snorted from the other end of the table. He had been told t
 
 "Do my teeth," he said.
 
-"Do the vial," you told him.
-
-"Your teeth will still be there after breakfast."
+"Do the vial," you told him. "Your teeth will still be there after breakfast."
 
 "That wasn't the question."
 
@@ -255,7 +253,7 @@ The practitioner sat opposite him and placed her palm against his. "At the count
 
 His amber loops darkened. Nothing came from them on their own. He drew a breath, pressed his fingers into hers, and warmth spread a pink flush up her hand.
 
-"Even and mild," she said. "Again with your hand, if you consent."
+"Even and mild," she said. She turned to you. "Your hand next, if you consent."
 
 You put your palm against his. His skin was clammy.
 
@@ -267,9 +265,9 @@ The amber deepened. Warmth flowed into your palm, as ordinary-seeming as sun thr
 
 "I feel it," you said.
 
-"Same as mine?" the practitioner asked.
+"What do you feel?" the practitioner asked.
 
-"I don't know what yours felt like. Warm. Moving upward."
+"Warm. Moving upward."
 
 Your brother released you at five. "That worked."
 
@@ -333,17 +331,15 @@ The heat entered your fingertips anyway. You let go.
 
 "So fire still burns," your brother said.
 
-"Heat does," the practitioner replied. "Once his faculty has changed the cup's temperature, the cup is only warm metal. Your mark did not cool it or prevent contact heat."
+"Heat does," the practitioner replied. "Once he's warmed the cup, it's ordinary warm metal. Your mark didn't stop it."
 
-"And the lamp?"
+"And the lamp?" your mother asked.
 
-"Showed us a pattern. Nothing more that we can support."
+"It showed us the pattern. Nothing more."
 
 Your brother nudged the cup by its handle. "So you can say no to marks."
 
-"Sometimes," the practitioner said.
-
-"Maybe," you said. "When I know to do it."
+"I said no to your warmth once," you said. "When I knew to."
 
 "That's going to make school contests unfair."
 
@@ -355,7 +351,7 @@ Your mother had gone very still. She pressed one fingertip after another against
 
 "Not tonight," you said.
 
-"If we wait, they will say we contaminated the evidence. They always find a way. The midwife blamed the oil. The school blamed your temper. The clinic said grafting was a kindness after they made us pay for every test. I have the receipts. I have every one."
+"If we wait, they will say we contaminated the evidence. They always find a way. The school blamed your temper. The clinic called grafting a kindness after they made us pay for every test. I have the receipts. Every one."
 
 "Mum, listen."
 
