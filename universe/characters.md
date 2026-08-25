@@ -1810,6 +1810,92 @@
     effects, and relationship to any other established person remain
     unresolved. Her oldest friend remains unnamed.
 
+## Prince Lysander
+
+- Status: LOCKED
+- Summary: Prince Lysander is Redwater's thirty-year-old prince, whose early
+  demobilization and concealed warning failure left the kingdom defenseless
+  before he accepted public accountability and a costly northern compact.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Lysander
+- Notes:
+  - Lysander released thirteen hundred seasonal soldiers when Redwater lacked
+    grain for both troops and households, chose the households, and later
+    discounted Greyglass warnings because recalling the companies would expose
+    the danger created by that choice.
+  - After Greyglass fell, he ordered the three Ninepin villages evacuated,
+    placed sluice workers under the watch, and broke his own river-store seals
+    for one hundred and twenty grain carts before northern aid was secured.
+  - He entered Harrowfast prepared to marry any of King Gorm's three grown
+    daughters for an army, but learned to treat Sigrun's refusal as final and
+    rejected Gorm's attempts to substitute either of her sisters.
+  - Under the Ninepin compact he publicly admitted his concealment, yielded
+    northern operational command, committed one third of Redwater's river-lock
+    tolls for seven years, and accepted a tribunal that could remove him from
+    the succession. He also surrendered his household horses and the wedding
+    chain's gold to the campaign and casualty fund.
+  - At Ninepin he helped free the jammed east culvert, accepted Sigrun's
+    no-pursuit limit after the defense, and redirected Redwater's effort toward
+    observation and returning villagers.
+  - His tribunal result, succession, later rule, family history, and any future
+    relationship with Sigrun remain unresolved. He may send her one personal
+    letter after the tribunal; she has promised only that she may answer.
+
+## Princess Sigrun
+
+- Status: LOCKED
+- Summary: Princess Sigrun is King Gorm's thirty-two-year-old second daughter
+  and Harrowfast's road-marshal, whose refusal of marriage remained effective
+  while she designed and commanded the Ninepin compact.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Sigrun
+- Notes:
+  - Sigrun is one of Gorm's three grown daughters. She immediately refused the
+    proposed marriage to Lysander and never exchanged consent, betrothal, or a
+    surviving romantic obligation for military aid.
+  - Her road-marshal authority depends on keepers, remount masters, captains,
+    reeves, ledgers, supplies, and matching human commitments rather than
+    magical compulsion or unrestricted royal command.
+  - She calculated the force and supply envelope, secured reciprocal trade and
+    casualty terms, required Lysander's tribunal, and set anti-pillage,
+    no-pursuit, command, duration, and civilian-clearance limits.
+  - Sigrun commanded the five-day winter deployment and the defense of Ninepin,
+    refusing to flood the causeway shoulders before the last civilians and
+    scouts cleared and ending the advance once the agreed objective was held.
+  - She began returning the northern columns before the compact's twentieth day
+    and was due to answer the seven reeves afterward. The result, her later
+    office, her relationship with Gorm, and whether she answers Lysander's
+    permitted letter remain unresolved.
+
+## King Gorm
+
+- Status: LOCKED
+- Summary: King Gorm rules Harrowfast as a brutal warrior whose personally
+  costly scar-lattice exertion can briefly produce strength comparable to ten
+  haulers.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Gorm; King of the North
+- Notes:
+  - Gorm has three grown daughters and attempted to exchange first Sigrun, then
+    either sister, for political and military terms. His royal offer supplied
+    no daughter's consent, and the final compact voided the marriage promise.
+  - He punished a road clerk by sending him coatless to a cold outer arch after
+    the clerk challenged his troop arithmetic. Sigrun later ended the
+    punishment through her office.
+  - Gorm reported breaking Rimegate after moving a coal barricade and
+    withholding household coal until surrender. The coercion is attested by
+    both his boast and Sigrun's correction; its wider context and casualties
+    remain unknown.
+  - In the witnessed Harrowfast hall display, Gorm dragged an iron-banded oak
+    table across a splintering floor in six heartbeats and blocked the doors.
+    He afterward became grey, cold, stiff, and trembling and later could not
+    close his fingers on the table for a second display.
+  - He ultimately sealed the levy call after Sigrun, Lysander, twelve captains,
+    and three representatives established the compact's human commitments and
+    limits. His later response to Sigrun and the campaign is unresolved.
 ## Brelva
 
 - Status: LOCKED

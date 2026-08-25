@@ -1901,6 +1901,33 @@
     unresolved. Nonhuman capacity thresholds, maximum costs, and asymmetric
     costs are likewise unresolved.
 
+## Gorm's personal scar-lattice exertion
+
+- Status: LOCKED
+- Summary: Gorm can briefly drive his own living heat and strength through a
+  personal scar lattice for extreme exertion followed by severe cold,
+  trembling, and impaired movement.
+- First established: stories/strength-of-ten/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: scar-lattice; strength of ten men
+- Notes:
+  - Local old stories say an unnamed living field-healer laid the scar paths
+    into Gorm after a spear wound decades earlier. That origin remains
+    attributed history rather than an observed procedure.
+  - In the one witnessed use, Gorm took a measured breath, the scars at his
+    throat darkened, and he dragged an iron-banded oak table across a
+    splintering floor in six heartbeats. Lysander judged the burst comparable
+    to ten haulers.
+  - Immediately afterward Gorm needed furs, heated stones, broth, and careful
+    movement; he became grey and trembling and later that day could not close
+    his fingers on the table for a second display.
+  - Gorm is the living user and source of the exertion. The scars do not choose,
+    consent, or act independently, and the table, seals, ledgers, ration badge,
+    wedding chain, and clasp remain ordinary non-agentic objects.
+  - The event establishes no exact universal tenfold ratio, extra durability,
+    bloodline, royal or northern faculty, repeatable recovery interval, or
+    relationship to another lattice, scar, heat, strength, healing, or bodily
+    system.
 ## Night-creature throat-node direction effect
 
 - Status: LOCKED
