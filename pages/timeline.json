@@ -190,10 +190,10 @@
       "type": "hinge",
       "eyebrow": "Old-magic cycle 13 · low-signal modernity",
       "title": "The Old Modern Age",
-      "description": "A modern human civilization lives with weak, institutionalized old magic before the Glass-Sea era.",
-      "sequenceNote": "Fixed old-magic anchor: the Battle of the Bay precedes the Glass-Sea catastrophe.",
+      "description": "A modern human civilization lives with hidden magical girls, ordinary public institutions, and rare ultrahuman power before the Glass-Sea era.",
+      "sequenceNote": "Northbridge incident → Help Network → Battle of the Bay. Their relative sequence is explicit; the Battle remains the fixed pre-Glass-Sea anchor.",
       "confidence": "fixed",
-      "stories": ["solstice-evening-bell"],
+      "stories": ["the-attendance-ledger", "the-help-network", "solstice-evening-bell"],
       "constellations": []
     },
     {
@@ -544,7 +544,7 @@
       "description": "Hero families, villain households, magical illness, and combat schooling form a distinct public-power society.",
       "sequenceNote": "A dedicated superhero-era fit; it is not our ordinary modernity with exceptions added.",
       "confidence": "unresolved",
-      "stories": ["captive-couples", "the-name-i-kept", "witch-cold", "the-attendance-ledger"],
+      "stories": ["captive-couples", "the-name-i-kept", "witch-cold"],
       "constellations": []
     },
     {
@@ -602,7 +602,9 @@
     "the-room-that-waited": ["One human modernity falls without launching its nuclear arsenal", "Agrarian descendants inherit a sealed machine room as unreadable ruin"],
     "the-trouble-with-tuesdays": ["A recurring weekday breach exposes hidden magic"],
     "the-first-wound": ["A remembered battle about 25,000 years before an undated therapy frame", "Therapy follows the wound backward"],
-    "solstice-evening-bell": ["The Battle of the Bay"],
+    "the-attendance-ledger": ["The Northbridge showcase incident"],
+    "the-help-network": ["After Northbridge: a local contact card becomes a global help network"],
+    "solstice-evening-bell": ["Later: the Battle of the Bay"],
     "the-small-moon-rose-first": ["617 Ravel days", "Eleven seconds for Nell", "Four old-modern months later for Bash", "One year after Nell"],
     "clerics-infernal-ex": ["A roadside sanctuary and kiln court use crafted, bearer-powered crossings"],
     "the-friends-i-built": ["Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open"],
@@ -630,5 +632,8 @@
     "the-sky-remembers-us-return": {"start": "All Accounts aftermath", "end": "First reciprocal link", "note": "Fall → ages of zero → genuinely new magic"},
     "tenth-world-lesson": {"start": "Modern apartment departure", "end": "Return through the same doorway", "note": "Modern frame; ten destination coordinates remain open"}
   },
-  "storyConfidence": {}
+  "storyConfidence": {
+    "the-attendance-ledger": "inferred",
+    "the-help-network": "inferred"
+  }
 }
