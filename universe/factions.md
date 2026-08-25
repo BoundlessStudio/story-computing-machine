@@ -530,3 +530,50 @@
   - No broader government structure, jurisdiction, currency, legal code,
     lasting policy, or relationship to another council or civic office is
     established.
+
+## Unnamed inhabitants of Salken's dungeon
+
+- Status: LOCKED
+- Summary: Several physically varied, unnamed inhabitants of one dungeon showed
+  observation, material culture, care for vulnerable members, route knowledge,
+  and coordinated self-protection while evacuating ahead of Salken.
+- First established: stories/the-last-monster/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: None
+- Notes:
+  - Observed inhabitants used sleeping slings, bedding, gathered food, splints,
+    tools, warning marks, rear-facing barricades, sealed passages, and a known
+    route to the hillside drain. Some carried or shielded smaller dependents.
+  - Repeated groups of three knocks, taps, marks, and scratches functioned
+    contextually as a local warning and movement cue during the evacuation. The
+    signal is unnamed and not fully translated; no complete language, magical
+    command, universal code, faction name, or fixed meaning in every use is
+    established.
+  - Their coordinated retreat was a learned response to Salken during this one
+    incident. It establishes neither a permanent alliance nor a single faction,
+    and it does not prove that every inhabitant was harmless.
+  - Their species, number, language, kinship, intelligence categories, diet,
+    origins, and relationship to surface peoples remain unresolved. Appearance
+    does not establish guilt, personhood category, or moral alignment, and the
+    story's unstable labels `monster` and `adventurer` are not objective taxa.
+
+## Unnamed searchers in Salken's incident
+
+- Status: LOCKED
+- Summary: An unnamed armed surface group found and restrained Salken outside
+  the dungeon while providing guarded, measured care.
+- First established: stories/the-last-monster/05-story.md; locked by explicit
+  user decision, 2026-08-24
+- Aliases: surface searchers; search party
+- Notes:
+  - At least one group member was a searcher, recognized Salken, and recognized
+    the stamped buckle Salken carried as belonging to `one of ours`.
+  - The group ordered Salken's hands visible, bound their wrists, supplied one
+    measured swallow of water, heard the confession and offer of assistance,
+    and took Salken away without striking them or promising forgiveness.
+  - `One of ours` establishes a relationship to the buckle's prior owner but
+    does not identify that person, settle whether the owner was the slain
+    lantern-bearer, or define the group's exact search objective.
+  - No organization, settlement, law, adventuring culture, authority,
+    jurisdiction, final decision, or relationship to another established group
+    is known.
