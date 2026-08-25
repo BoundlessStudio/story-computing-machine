@@ -1966,3 +1966,45 @@
     technological, or another local system, and it has no established
     relationship to another beast, corpse, signal, direction, brine, crossing,
     node, or postmortem mechanism.
+
+## Underbreath contraction and Hollow Cask routing network
+
+- Status: LOCKED
+- Summary: Living Underbreath cords can supply supernatural contraction to
+  colonized old oak inside the Hollow Cask, while the pub's dowels, joinery,
+  feed route, smoke route, and cask-shell remain inert components with distinct
+  local functions.
+- First established: stories/the-hollow-cask/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Underbreath mechanism; Hollow Cask structural network
+- Notes:
+  - Living cords supply the force. Colonized hollow dowels transmit it, and
+    linked pegs, mortises, and gallery joinery carry or bear the resulting
+    structural load. The copper or serving gutter routes poured material, clay
+    branches and the bellows throat route smoke, and the cask-shell houses the
+    colony.
+  - Through that local network the colony can fractionally close old oak grain,
+    settle or release pegs, alter a gallery load path, and under smoke-driven
+    contraction lift the bowed gallery nearly level. It cannot make rotten
+    joinery sound, as the restored loading split a decayed mortise.
+  - Shade, water, fresh air, a graded drain, an open grille, the damp cask seam,
+    and malt-associated material support the observed habitat. Water and malt
+    are care and resources, not payment, command, or universal magical fuel.
+  - In one controlled route test the colony recoiled from soot, left
+    smoke-adjacent food, moved brood toward fresh air, released a loaded peg
+    when that route was blocked, and sent a new thread around the obstruction.
+    This establishes bounded preference and refusal rather than speech or a
+    decoded language.
+  - Later pub practice routed bitter smoke into structural bays, reduced feed,
+    and demanded greater loads. During a storm, reversed draft drove the colony
+    into a hot flight contraction; the smoke path compelled no safe obedience
+    and nearly turned a restored historic profile into structural collapse.
+  - Independent shores, removal of the bellows throat, an opened cool-air route,
+    and severance of the colonized dowel let the colony withdraw from the doomed
+    bay. Agnes did not command that retreat, and continued residence after the
+    crisis remains a revisable choice rather than a service compact.
+  - No effect is established in uncolonized timber, outside this pub, or without
+    living cords. The mechanism establishes no general construction practice,
+    exact force rating, universal consent rule, building personhood, reliable
+    obedience, or relationship to another fungus, colony, cask, smoke, oak,
+    restoration, or magical system.

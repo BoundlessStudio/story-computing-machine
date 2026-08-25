@@ -1296,3 +1296,41 @@
      No More Magic extinction or joined-sky awakening, and ordering relative to
      every other established story remain unresolved because the node effect's
      underlying category is not established.
+
+## Undated Hollow Cask restoration
+
+- Status: LOCKED
+- Summary: Agnes Wold bought and restored the ruined Hollow Cask, discovered
+  its living Underbreath colony, removed a coercive structural arrangement, and
+  reopened a smaller independently supported hall by the harvest gathering.
+- First established: stories/the-hollow-cask/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Hollow Cask restoration; Hollow Cask storm
+- Notes:
+  1. Agnes bought the crumbling pub with a twelve-week harvest aim, immediately
+     shored the worst gallery bay, repaired roof drainage, removed hard cement,
+     and uncovered material evidence of the hall's former communal grandeur.
+  2. She and Silas opened the cellar and found the Underbreath in an old
+     cask-shell linked to hollow structural dowels. Agnes repaired drainage and
+     ventilation, preserved breathing gaps, and conducted a measured load and
+     route test before allowing customers into the room.
+  3. Fabric, soot, wall tallies, burn scars, and Silas's family-held maintenance
+     book showed that later practice drove the colony with bitter smoke while
+     reducing feed and increasing crowd loads; none of that evidence identifies
+     the first builders or proves an original covenant.
+  4. An early storm reversed the rebuilt flue draft, drove smoke into the
+     structural bays, made the colony contract, lifted the bowed gallery, and
+     split a rotten mortise. No one was injured.
+  5. Agnes and Silas shored sound heartwood, opened the grille, removed the
+     bellows throat, sawed through the old scarf and colonized dowel, and wedged
+     the failed decorated bay away. The colony withdrew, the outer bay fell on
+     the cleared floor, and the inner beam and roof remained supported.
+  6. At harvest reopening, the reduced hall stood on visible ordinary posts.
+     The cellar remained protected habitat with an open exit, unconditional
+     water and malt, and no hidden living load; the maintenance book and a
+     notice of the evidence, smoke harm, and interpretive limits were public.
+  7. The event belongs to a magic-active span of material history and therefore
+     not to the perfectly magicless Long Dark. Its civil date, Galactic Cycle
+     coordinate, placement before the No More Magic extinction or after the
+     joined-sky reawakening, and relationship to every other established person,
+     place, event, or magical system remain unresolved.

@@ -1022,3 +1022,32 @@
     guards, carters, homes, streets, ditches, and a marsh. The story establishes
     no settlement name, region, polity, calendar, population, global geography,
     or relationship to another established place.
+
+## The Hollow Cask and unnamed rural district
+
+- Status: LOCKED
+- Summary: The Hollow Cask is an old countryside pub that Agnes Wold restored
+  as a smaller, independently supported public hall while preserving the
+  Underbreath's occupied cellar habitat.
+- First established: stories/the-hollow-cask/05-story.md; locked by explicit
+  user decision, 2026-08-25
+- Aliases: Hollow Cask
+- Notes:
+  - At purchase the pub had three roof breaches, failed drainage, wet and
+    incompatible wall finishes, a soft wall plate, a bowed gallery, a swollen
+    cellar door, and extensive rot and damp.
+  - Wear, a former three-sided gallery, a speaking step, a sprung elm dance
+    floor, madder-and-gold plaster, blue-glass lamp traces, tile, dance tokens,
+    and tallies for feasts, grazing meetings, birth cups, and roof funds show a
+    costly and heavily used communal hall rather than aristocratic grandeur.
+  - An enormous oak cask-shell sits in masonry older than the visible pub
+    fabric. Three later floors and successive repairs accommodated its hollow
+    dowels, establishing relative age but no absolute date, builder, culture,
+    original purpose, or uninterrupted colony history.
+  - At reopening, visible oak posts carry the reduced hall; one jagged gilded
+    gallery end and surviving painted procession remain; the open grille,
+    water, malt, locked cellar, and public notice support habitat without
+    requiring labor or public display from the Underbreath.
+  - The pub and its apparatus are nonliving. Its country, polity, village,
+    exact era, legal regime, long-term business outcome, and relationship to
+    any other established place remain unresolved.
