@@ -31,23 +31,39 @@ prospectively, including a bounded recent-story interchangeability check. The
 workflow stays inside the four authored Markdown files: it adds no checklist or
 audit artifact and does not reopen completed stories.
 
-Creation and rewriting have separate entry workflows. A new story starts from a
-fresh prompt through `story-create`. An explicitly requested rewrite uses
-`story-rewrite`, which records one scope in `prompt.md`: `REBUILD` for a new
-whole-story execution, `RESHAPE` for a whole-story pass that preserves unnamed
-material in substance, or `SELECTIVE` for named edits while all other prose
-remains exact. Keep-exact, keep-in-substance, change-or-replace, and remove
-selections make the preservation boundary reviewable. Both workflows use the
-same outline, prose, dialogue, independent review, and cover standards; no
-rewrite brief, comparison report, or backup prose is added to the story folder.
+Both new stories and explicitly requested whole-story replacements use
+`story-create`. Replacement is remove then create, never mutation of the old
+package. After the dedicated branch and worktree are ready, inspect the named
+story's canon marker and complete a separately authorized marker-only unlock
+commit when it is `true`. Preserve every verbatim user-authored prompt or
+request block, the verbatim new request, and all associated reference-image
+display names; discard machine workflow metadata, then resolve and inspect the external
+originals, requesting reattachment when one is inaccessible. Remove only that
+story's source package and publication, cover, timeline, and bundle-index
+remnants, confirm the target directory is absent, and scaffold it anew with
+`new-story.ps1`. The new package carries all retained user-authored text and the new request in its
+single CREATE prompt and inventories every reference, but it never loads or
+carries the old outline, prose, review, or cover. It receives the full CREATE
+outline, prose, recent-story comparison, independent review, cover, capture, and
+publication workflow.
 
-A directory containing `05-story.md` is a locked legacy story. Its larger file
-set belongs to the retired workflow. Do not edit or migrate its bundle files;
-the title-image workflow may add or replace only `title-image.jpg` beside them.
-The current validator ignores legacy bundles. The explicit Pages capture
-command retains a compatibility reader only for intentional snapshot refreshes.
+Some completed stories retain amendment metadata from a retired production
+path. It remains inert acceptance context, including the last recorded craft
+profile, when those packages are reviewed. New production does not create or
+alter that metadata and does not compare a replacement against the removed
+version.
 
-`NAMES.md` remains the frozen people-name baseline from legacy production. New
+A directory containing `05-story.md` uses bundle format. Its larger file set
+belongs to a retired workflow, but only the boolean `canon` flag in `story.json`
+controls editability. A named story with `canon: false` permits only an
+explicitly requested narrow direct edit to its prose. When `canon: true`, every
+bundle file remains locked until a separately authorized marker-only unlock is
+committed. A whole-story remake uses remove-then-create replacement instead of
+migration or in-place transformation. The current validator inventories these
+packages and checks their canon flags without applying current-format prose
+rules. Pages capture reads both supported layouts.
+
+`NAMES.md` remains the frozen people-name baseline from earlier production. New
 people and places are inventoried in each current story's `review.md`, avoiding
 another central record that must be synchronized.
 

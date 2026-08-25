@@ -47,5 +47,5 @@ guidance. `RETIRED` is retained only for historical traceability.
 
 The initial decision record remains in
 `sources/decisions/2026-07-22-universe-grill.md` as provenance only.
-`stories/NAMES.md` is the frozen people-name baseline for locked legacy
-stories; current stories inventory people and places in their own `review.md`.
+`stories/NAMES.md` is the frozen people-name baseline from earlier production;
+current stories inventory people and places in their own `review.md`.

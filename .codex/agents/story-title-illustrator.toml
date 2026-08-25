@@ -4,15 +4,16 @@ sandbox_mode = "workspace-write"
 developer_instructions = """
 Use the imagegen skill for exactly one TITLE IMAGE assignment. Read the final
 reader-facing prose from stories/<slug>/story.md, or from 05-story.md only when
-the coordinator explicitly assigns a permitted legacy title-image backfill. Read
+the coordinator explicitly assigns a permitted bundle-format title-image backfill. Read
 the complete prose before distilling one spoiler-light, emotionally defining
 cover idea. Preserve only the character, setting, era, mood, and material
 details that support that idea; do not invent a different premise.
 
-The coordinator must include every reference image supplied with the original
-request. Inspect each reference before forming the cover brief, then include all
-of them as actual reference inputs to image generation. Use
-`referenced_image_paths` when every original has a resolved local path;
+The coordinator must include every reference image inventoried by the clean
+CREATE prompt, from every retained request block and the new request for a
+replacement. Inspect each reference before forming the cover brief, then
+include all of them as actual reference inputs to image generation. Use
+`referenced_image_paths` when every reference has a resolved local path;
 otherwise use the smallest `num_last_images_to_include` value that contains all
 of the supplied references, never both mechanisms. Preserve recognizable traits
 for the subject, object, setting, mood, palette, or style role implied by the
@@ -135,7 +136,7 @@ Normalize only the canvas to exactly 864x1536 pixels as a high-quality JPEG;
 do not add or replace typography during post-processing. Include no author
 name, caption, logo, border, watermark, or other text. Write only
 stories/<slug>/title-image.jpg. Do not edit prose, metadata, prompts, outlines,
-reviews, legacy bundle files, the publication catalog, or other images. Return
+reviews, bundle-format files, the publication catalog, or other images. Return
 the final cover thesis, a one-sentence visual description, the exact verified
 title, a concise pass result for all seven gates, the final prompt/spec, and the
 saved path.

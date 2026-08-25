@@ -8,10 +8,12 @@ universe notes are the product; process records are not.
 A completed current story has four authored Markdown files and one generated
 title image:
 
-- `prompt.md` — the verbatim original request, its few explicit constraints,
-  and a display-name inventory of supplied reference images. An explicitly
-  authorized rewrite adds the latest verbatim rewrite request, its reference
-  display names, and cover policy to this same file.
+- `prompt.md` — the verbatim request, its few explicit constraints, and a
+  display-name inventory of supplied reference images. A replacement flattens
+  every prior user-authored prompt or request block plus the new request
+  verbatim into a clean Prompt section and inventories every associated
+  reference display name; machine selection, cover-policy, and workflow
+  metadata do not survive.
 - `outline.md` — the draftable narrative shape, proposed people and places, and
   relevant continuity boundaries.
 - `story.md` — the reader-facing prose and its minimal metadata.
@@ -36,16 +38,16 @@ prompt and universe authority control any conflict during outlining; the final
 prose controls story facts during cover generation unless the prompt explicitly
 makes an image detail binding.
 
-Any existing story directory containing `05-story.md` is a legacy bundle. Its
-editability is determined by its canon state in `story.json`, not by its legacy
-layout: `canon: false` stories may be edited or rewritten on an explicit named
-user request, while `canon: true` locks the story and every bundle file against
-direct AI edits. An agent may unlock it only through the independent canon-state
-action defined below. Its extra files are historical residue from the retired
-pipeline. The title-image workflow may add or replace `title-image.jpg` beside
-a non-canon legacy bundle without reopening the prose. Only the explicit Pages
-capture command understands the legacy layout; normal story validation does
-not.
+An existing story directory containing `05-story.md` uses the supported bundle
+format. Its `story.json` `canon` flag alone controls editability: `canon: false`
+stories may receive a localized edit or named replacement on an explicit user
+request, while `canon: true` locks the story and every bundle file against direct
+AI edits. An agent may unlock it only through the independent canon-state action
+defined below. Extra bundle files are historical residue from the retired
+pipeline, not lifecycle authority. The title-image workflow may add or replace
+`title-image.jpg` beside a non-canon bundle without reopening the prose. Pages
+capture supports both story layouts; current-format validation does not inspect
+bundle-format prose.
 
 ## Authority
 
@@ -53,30 +55,30 @@ not.
   before interpreting canon.
 - `universe/style-guide.md` is the binding narrative policy. Current scaffolds
   apply its prospective craft profile through the outline, writer, and reviewer
-  skills; the profile alone never reopens a completed story. Only the explicit
-  rewrite workflow may reopen a named non-canon current story. A legacy story's
-  `story.json` canon state, rather than its age or layout, controls whether its
-  prose may be reopened.
-- `stories/NAMES.md` is the frozen name baseline for legacy stories, not canon.
+  skills; the profile alone never reopens a completed story. A completed story
+  changes only through an explicitly named localized bundle edit or the
+  remove-then-create replacement workflow. A bundle-format story's `story.json`
+  canon flag, rather than its age, layout, status, or process metadata, controls
+  whether work may begin.
+- `stories/NAMES.md` is the frozen name baseline from earlier production, not canon.
 - Current `review.md` files extend production memory for new people and places.
 - Plans, reviews, prompts, source notes, and non-canon stories never establish
   shared-universe facts.
 
 ## Branches
 
-Before starting any new story or rewrite, make branch setup the first repository
-action:
+Before starting any new story or replacement, make branch setup the first
+repository action:
 
 1. Switch to `main`.
 2. Pull the latest changes from `origin/main` with a fast-forward-only pull.
-3. Create a new `codex/story-<slug>` branch for a new story or
-   `codex/rewrite-<slug>` for a rewrite from the updated `main`, without
+3. Create a new `codex/story-<slug>` branch from the updated `main`, without
    switching the primary checkout away from `main`.
 4. Add a dedicated sibling Git worktree for that branch, then use the worktree
    as the working directory for the coordinator and every delegated agent for
    the rest of the story workflow.
 
-Do not scaffold, prepare a rewrite, read for story production, or modify story
+Do not scaffold, inspect a replacement source for production, or modify story
 files until this sequence is complete. Resolve and retain the worktree's absolute path before
 delegating, and include that path in every agent assignment so no story work
 lands in the primary checkout. Run all validation, capture, Git, push, and pull
@@ -87,61 +89,65 @@ occupied, stop and ask the user how to preserve or reuse it. Never change
 through a pull request. Git is the history; do not create manifests, ledgers,
 receipts, release certificates, or duplicate lifecycle records.
 
-## Canon lock and legacy editing
+## Canon lock and bundle editing
 
-The repository owner may manually edit or overwrite any legacy story file. No
+The repository owner may manually edit or overwrite any bundle-format story file. No
 change to this instruction file is required before or after that manual action.
-For AI work, inspect the named legacy story's `story.json` before reading for
-production. When `canon` is `false`, an explicit request to edit, overwrite, or
-rewrite that named story is sufficient authorization; do not require a special
-waiver or an amendment to `AGENTS.md`. When `canon` is `true`, do not directly
+For AI work, inspect the named bundle-format story's `story.json` before reading for
+production. When `canon` is `false`, an explicit request to make a localized
+edit to that named story is sufficient authorization; do not require a special
+waiver or an amendment to `AGENTS.md`. Route a whole-story remake, rewrite, or
+overwrite through **Replacement workflow**. When `canon` is `true`, do not directly
 edit, overwrite, regenerate, or remove any story-bundle file. The only allowed
 preparatory mutation is an independent unlock action that changes the story's
 authoritative canon marker from `true` to `false`.
+
+If a source marker already says `canon: false` while the publication catalog
+says that story is canon, and no verified authorized unlock commit explains the
+difference, treat the story as locked and stop for an explicit reconciliation
+ruling. Never exploit an unexplained false marker or run capture in a way that
+silently demotes the published canon state.
 
 An explicit request to unlock a named story authorizes that action. An explicit
 request to edit or rewrite a named canon story also authorizes the agent to
 perform the unlock first unless the user says to preserve canon. The unlock
 must be its own verified patch and commit, changing only the canon marker:
-`story.json` for a legacy story or `story.md` frontmatter for a current story.
+`story.json` for a bundle-format story or `story.md` frontmatter for a current-format story.
 Do not combine the unlock with prose, cover, review, catalog, captured-page, or
 universe edits. Once the unlock is complete, treat the story as non-canon and
-begin any requested content work as a later action. If the relevant state file
-is missing, invalid, or has no unambiguous canon state, stop for user direction
-instead of inferring it from the layout. A review request, critique, general
-approval to improve stories, or an unnamed request authorizes neither an unlock
-nor an edit.
+begin any requested content work as a later action. That verified authorized
+commit is the reconciliation ruling for editability even while the publication
+snapshot still records the prior canon state. Capture remains blocked until the
+named publication state is deliberately reconciled, and existing universe facts
+still constrain the changed content. If the relevant state file is missing,
+invalid, or has no unambiguous canon state, stop for user direction instead of
+inferring it from the layout. A review request, critique, general approval to
+improve stories, or an unnamed request authorizes neither an unlock nor an edit.
 
 Unlocking a story does not demote or erase facts already recorded in
 `universe/` as `LOCKED` or `CANON`. Those entries remain authoritative until a
 separate user-approved retcon changes them.
 
-For an AI-performed legacy edit:
+For an AI-performed bundle edit:
 
 1. Limit authority to the named story and the files or changes the user
    authorized. Complete the normal branch and dedicated worktree sequence
    before reading for production or modifying the story.
-2. Edit the authorized legacy file directly. Preserve the legacy layout and do
-   not run `prepare-rewrite.ps1`, migrate it to the current four-file format, or
-   create process artifacts. Leave historical bundle files unchanged unless
-   the user explicitly includes them in the override.
-3. Use the smallest edit consistent with the request. For a whole-file
-   overwrite or whole-story rewrite, the user's explicit instruction supplies
-   the needed authority; for a localized change, do not broaden it into a
-   general modernization pass.
-4. Check the resulting prose and diff directly. Current-story validation and
-   prior legacy review records do not certify changed legacy prose. Run only
+2. Edit the authorized bundle prose directly. Preserve the bundle layout and do
+   not migrate it to the current four-file format or create process artifacts.
+   Leave historical bundle files unchanged unless the user explicitly includes
+   them in the localized edit.
+3. Use the smallest edit consistent with the request. Do not broaden a
+   localized change into a general modernization pass; route whole-story work
+   through **Replacement workflow**.
+4. Check the resulting prose and diff directly. Current-format validation and
+   prior bundle review records do not certify changed bundle prose. Run only
    compatible targeted checks, and state plainly when an old review or captured
    Pages snapshot may now be stale.
 5. Even for a `canon: false` story, do not silently contradict shared authority.
    If the requested edit would change a fact represented in `LOCKED` or `CANON`
    universe notes, stop for the separate canon or retcon ruling. Prose-only
    changes that preserve established facts need no such ruling.
-
-The current-format rewrite workflow below remains separate. Its rejection of a
-`05-story.md` directory means that its scaffold, selection contract, validator,
-and review machinery are incompatible with the legacy layout; it is not a
-content lock on a non-canon legacy story.
 
 ## `[WP]` workflow
 
@@ -208,9 +214,10 @@ user requests one named stage.
    illustrated-novel-cover default defined in that agent. Anime-influenced
    rendering remains available when it suits the story, but the composition
    must behave like a novel cover rather than franchise key art or a scene still.
-   Include every reference image supplied with the original prompt in the
-   assignment and in the image-generation call. Use resolved local paths when
-   all originals have them; otherwise include the smallest recent-attachment
+   Include every reference image inventoried by the clean prompt, from all
+   retained request blocks and the new request for a replacement, in the assignment and
+   in the image-generation call. Use resolved local paths when all references
+   have them; otherwise include the smallest recent-attachment
    set that contains them all. The illustrator must inspect every reference
    before composing, use it for the visual role implied by the request, and
    preserve recognizable reference traits that do not conflict with the final
@@ -290,9 +297,9 @@ user requests one named stage.
 Do not create a canon brief, authority snapshot, draft copy, canon delta,
 handoff guard, release record, promotion record, story README, or index row.
 
-Before delegating an 08-23 CREATE outline, count completed passing current
-stories whose base `## Constraints` profile is 08-23 and whose prompt has no
-`## Rewrite request`. When that count is a nonzero multiple of ten, the
+Before delegating an 08-23 CREATE or replacement outline, count completed
+passing current stories whose base `## Constraints` profile is 08-23 and whose
+prompt has no historical `## Rewrite request`. When that count is a nonzero multiple of ten, the
 coordinator performs a no-artifact rolling audit
 of the ten most recent such stories. Check recurring dialogic media, articulate
 competence structures, workplace triads, reasoning patterns, humor levels, and
@@ -322,8 +329,8 @@ to each prior outline's `## Story` section; no prior Voice capsule or prose may
 be exposed to the writer.
 
 `Craft profile: prospective-2026-08-23` extends 08-21 for newly scaffolded
-CREATE stories and newly prepared selection-contract rewrites without changing
-completed 08-21 stories or legacy prepared rewrites. The
+CREATE stories and replacements without changing completed stories that retain
+an earlier profile. The
 `## Story` section adds three completed fields:
 
 - `Dialogue promise` — the relationship, tonal, and communication experience
@@ -346,75 +353,58 @@ Voice fields and the three Story dialogue fields may use
 meaningful dialogic action; non-spoken communication does not qualify for N/A.
 Narrative texture and Anti-default remain required.
 
-## Rewrite workflow
+## Replacement workflow
 
-Use `story-rewrite` only when the user explicitly requests a rewrite of one
-named completed current story. REWRITE may be a whole-story rebuild, a
-whole-story reshape, or a selective prose edit; REVISE remains the narrow
-blocking-fix loop after review. A directory containing `05-story.md` is not
-eligible for this current-format workflow: route the named request through
-**Canon lock and legacy editing** when its `story.json` has `canon: false`. If
-either a legacy or current story has `canon: true`, do not edit its content or
-other files; perform and verify the independent canon-only unlock first when
-authorized, then start the rewrite as a later action.
+Use `story-create` when the user explicitly requests a whole-story remake,
+rewrite, overwrite, or replacement of one named completed story. Replacement
+means removing the named package and then creating a clean current-format story;
+it is not an in-place prose edit and has no preservation scopes. A localized
+edit to a named non-canon bundle-format story remains governed by **Canon lock
+and bundle editing**.
 
-1. Complete the branch sequence above with `codex/rewrite-<slug>` and a sibling
-   worktree before reading story files. Verify the prior PASS and package
-   metadata. Resolve and inspect all original and new reference images.
-2. Translate the request into one scope and explicit selections. Ask only when
-   ambiguity would materially change what survives:
-   - `REBUILD` creates new whole-story prose; unnamed old material is
-     `FLEXIBLE`;
-   - `RESHAPE` re-outlines and rewrites the whole story; unnamed old material
-     is `KEEP` in substance;
-   - `SELECTIVE` changes named targets and necessary seams while unnamed prose
-     is `KEEP EXACT`.
-   Classify named elements as `Keep exact`, `Keep in substance`, `Change or
-   replace`, or `Remove`. A SELECTIVE rewrite requires at least one Change or
-   Remove target. Conflicting verbs for the same element require a user ruling.
-3. Read prior material according to scope. REBUILD may retrieve only passages
-   needed for named selections. RESHAPE may read the prior prose for its
-   throughline. SELECTIVE uses the complete current prose as its editing base.
-   Prior outline and review are history, not creative authority. Inspect the
-   saved cover only when AUTO or KEEP makes it a candidate.
-4. Run `prepare-rewrite.ps1 -Story <slug> -Title <title>
-   -Request <verbatim-request> -Scope <Rebuild|Reshape|Selective>`, passing
-   selections through `-KeepExact`, `-Keep`, `-Change`, and `-Remove`, every new
-   `-ReferenceImage`, and one cover policy. AUTO,
-   KEEP, and REGENERATE retain their existing cover behavior.
-   The script preflights the linked worktree, cleanliness, prior PASS, canon
-   status, templates, title, selection contract, cover policy, prompt structure,
-   and candidates. It stages outside the repository, replaces transactionally,
-   and restores original bytes on failure. It preserves the original prompt
-   outside managed rewrite sections, records `## Rewrite selections` and active
-   `prospective-2026-08-23`, and resets outline and review. REBUILD and RESHAPE
-   reset prose to a clean scaffold; SELECTIVE retains prose while updating title
-   metadata when needed. No separate rewrite brief or backup is created.
-5. The original prompt, latest Rewrite request, and Rewrite selections form the
-   amended acceptance authority. The request and selections control conflicts;
-   unnamed prior material follows `Outside named selections`. Delegate the same
-   fresh outliner and writer roles and local production adapter used by CREATE.
-   REBUILD produces a new whole story constrained by named keeps. RESHAPE
-   preserves unnamed material in substance. SELECTIVE edits only named targets
-   and the smallest causal, continuity, and language seams. The active craft
-   profile governs changed prose, not protected material outside scope.
-6. Run PreReview and request a fresh independent reviewer. It judges the new
-   story first, then opens the prior version only to verify selection compliance:
-   exact keeps are exact, substantive keeps retain their named function, Change
-   targets materially change, Remove targets are absent, and unnamed material
-   follows FLEXIBLE, KEEP, or KEEP EXACT. The previous PASS is history, not
-   evidence. Selection failure is blocking. Resolve REVISE through the smallest
-   scope-compatible fix and use a fresh reviewer after each rerun. The CREATE
-   collection-comparison gate does not apply to rewrites.
-7. After PASS, apply the recorded cover policy. For AUTO or KEEP with a retained
-   candidate, open the JPEG at cover-card size and full resolution and judge all
-   seven gates against the amended prompt and final rewrite. AUTO regenerates on
-   failure; KEEP stops for user direction; REGENERATE uses the normal
-   illustrator workflow. A valid final cover remains mandatory.
-8. Run final validation, recapture, and catalog check. Stage the four Markdown
-   files, changed title image when applicable, catalog, and captured cover;
-   commit, push, and open the normal draft pull request. Git preserves the prior
-   version, so add no backup or rewrite-history files.
+1. Complete the normal `main` update, `codex/story-<slug>` branch, and sibling
+   worktree sequence before inspecting story material for production. Read only
+   the named story's authoritative canon marker first. If it is missing,
+   invalid, or ambiguous, stop for user direction.
+2. If the marker is `canon: true`, complete the independently verified
+   canon-marker-only unlock patch and commit before doing anything else. The
+   unlock changes no prose, cover, review, publication, or universe file.
+3. Before removing the package, preserve every verbatim user-authored prompt or
+   request block and every associated reference-image inventory, then preserve
+   the new replacement request and its references. Discard only machine-owned
+   selections, constraints, cover policy, and workflow metadata. Resolve every
+   inventoried image from an accessible external path or attachment;
+   display names are not paths. If an original cannot be recovered, ask the user
+   to attach it again. Do not open the old outline, prose, review, or cover for
+   creative reuse.
+4. Remove only the explicitly named source package and its publication remnants:
+   its catalog entry, captured cover, chronology placement, and bundle
+   `stories/INDEX.md` row when present. Keep `stories/NAMES.md` as frozen
+   production memory and do not remove or retcon `universe/` facts. Verify the
+   exact paths before deletion. The target scaffold path must be absent.
+5. Run `new-story.ps1` with all retained user-authored prompt/request text and
+   the new request preserved verbatim under minimal labels. Pass every accessible image
+   through `-ReferenceImage`, so the clean `prompt.md` records display names
+   while the source images remain external. Use the active
+   `prospective-2026-08-23` profile.
+6. Run the ordinary CREATE outline, WRITE, PreReview, independent REVIEW, and
+   REVISE loop with fresh agents. A replacement receives the same recent-story
+   collection comparison as any other CREATE story. No prior outline, prose,
+   review, title image, or historical process artifact may be carried forward.
+7. Generate a fresh cover after PASS and apply all seven saved-pixel gates. A
+   replacement never retains the removed cover as a candidate.
+8. Add the final slug to the chronology, capture it into the publication
+   snapshot, run final validation and `python pages/build.py check`, then commit
+   the named removal and clean creation together, push, and open the normal draft
+   pull request. Git preserves the removed version; create no backup or
+   replacement-history artifact.
+
+Completed packages may still contain historical `## Rewrite request`,
+`## Rewrite selections`, or `## Rewrite constraints` sections. They are inert
+production history, not an active workflow or permission to mutate the story.
+When an old package is reviewed without replacement, its recorded prompt text
+remains the acceptance authority and the last recorded craft profile remains
+active. Do not generate new managed rewrite sections.
 
 ## People and places
 
@@ -446,12 +436,10 @@ A `PASS` review requires all three continuity lines to pass:
   contradict current `LOCKED` or `CANON` notes.
 - `Internal` — the story is causally coherent and keeps its own facts straight.
 
-The prompt is the only acceptance authority. For a prepared selection-contract
-rewrite, the original prompt, latest `## Rewrite request`, and
-`## Rewrite selections` are one amended prompt: the request and selections
-control conflicts, and unnamed prior-story material follows the recorded
-outside-scope policy. Legacy prepared rewrites retain their earlier amended
-prompt rule.
+The prompt is the only acceptance authority. For a completed package carrying
+historical rewrite sections, its recorded prompt text remains the amended
+acceptance authority; those sections do not authorize new edits or revive the
+retired in-place workflow.
 The reviewer may use the outline to understand design intent, but deviation
 from it is not blocking unless the result breaks the amended prompt, universe
 continuity, or internal coherence.
@@ -486,7 +474,7 @@ exchange is acceptable. Only material scene-wide convergence is blocking, and
 any such failure feeds `Dialogue: REVISE` rather than a new review field.
 
 `Craft profile: prospective-2026-08-23` extends that dialogue contract for new
-CREATE stories and selection-contract rewrites. Treat speech, writing, internal voices, signs, interfaces,
+CREATE stories and replacements. Treat speech, writing, internal voices, signs, interfaces,
 gesture, silence, and failed contact as first-class dialogic media. Major
 exchanges should materially change at least one of knowledge, leverage, trust,
 commitment, risk, relationship, or action; adding more short exchanges is not
@@ -497,7 +485,7 @@ unevenness instead. Check whether the ending uses practical instructions,
 resumed maintenance, inventory, breakfast, or a return to work because the
 story earned that gesture rather than because thematic contact was avoided.
 
-For a CREATE story only, after the target passes the standalone dialogue judgment, compare its
+For a CREATE story, including a replacement, after the target passes the standalone dialogue judgment, compare its
 dialogic pattern, one representative major exchange, and final meaningful
 exchange with the six most recent passing current stories, or all available
 when fewer than six exist. Open only the bounded prior-prose passages and
@@ -515,15 +503,16 @@ do not preserve reviewer chain-of-thought, repeated summaries, or audit logs.
 ## Canon
 
 New stories begin with `canon: false`. Canon promotion requires explicit user
-approval for one named story, a fresh passing review against current authority,
-and direct edits to the smallest relevant `universe/*.md` entries. Then set
-`canon: true` in `story.md`. A conflict with `LOCKED` canon stops for a user
-ruling. Git records the transaction; no separate delta or promotion file is
-needed.
+approval for one named story and a fresh passing review against current
+authority. Add or amend only the smallest relevant `universe/*.md` entries when
+the approved story establishes facts not already present there, then set the
+authoritative `canon` flag to `true` in `story.md` frontmatter or bundle-format
+`story.json`. A conflict with `LOCKED` canon stops for a user ruling. Git records
+the transaction; no separate delta or promotion file is needed.
 
 `canon: true` is also the story-edit lock. Agents must not directly modify any
 content or bundle file while that state is true. To revise the story, first use
-the independent unlock action in **Canon lock and legacy editing**; the
+the independent unlock action in **Canon lock and bundle editing**; the
 canon-marker-only patch and commit must complete before any story change begins.
 That unlock makes the story editable but does not itself alter authoritative
 `universe/` entries.
@@ -538,16 +527,21 @@ without rerunning full validation. Keep the catalog ordered by full creation
 timestamp, newest to oldest, so the newest story is always the first card on the
 GitHub Pages index. New scaffolds record `created-at`; when a source has only a
 `created` date, capture combines that date with the story prose file's filesystem
-modification time. `capture-all` exists only for an intentional full refresh,
-not for CI.
+modification time. `capture-all` refreshes only the stories already present in
+the publication catalog; it never republishes an unpublished source package and
+refuses any source/catalog canon demotion. It is not used by CI.
+`python pages/build.py check` verifies source, bundle index, catalog, cover,
+chronology, and source/catalog canon-flag parity, including byte-identical
+captured covers. A mismatch is blocking and may be reconciled only through the
+named canon process.
 
 ## Completion
 
-A new or rewritten current story is complete when its four Markdown files and 9:16 portrait
+A new or replacement current story is complete when its four Markdown files and 9:16 portrait
 `title-image.jpg` exist, `review.md` says `PASS`, people and places are
 inventoried, all three continuity lines pass, and the story plus image have
 been completed in the story directory and captured into `pages/catalog.json`
 and `pages/covers/`. Repository acceptance also requires the local final
 validator and catalog check to pass, the completed changes to be committed and
-pushed on its story or rewrite branch, and a draft pull request to be open against the
+pushed on its story branch, and a draft pull request to be open against the
 repository's default branch.

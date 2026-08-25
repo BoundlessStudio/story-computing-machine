@@ -8,6 +8,7 @@ import sys
 import tempfile
 import unittest
 from collections import Counter
+from dataclasses import replace
 from pathlib import Path
 
 SPEC = importlib.util.spec_from_file_location("story_site", Path(__file__).with_name("build.py"))
@@ -19,9 +20,7 @@ SPEC.loader.exec_module(build)
 REPO = Path(__file__).resolve().parents[1]
 STORY_VALIDATOR = REPO / ".agents/skills/story-room/scripts/Test-Stories.ps1"
 NEW_STORY = REPO / ".agents/skills/story-room/scripts/new-story.ps1"
-PREPARE_REWRITE = REPO / ".agents/skills/story-room/scripts/prepare-rewrite.ps1"
 STORY_CREATE_SKILL = REPO / ".agents/skills/story-create/SKILL.md"
-STORY_REWRITE_SKILL = REPO / ".agents/skills/story-rewrite/SKILL.md"
 
 
 class StorySystemTests(unittest.TestCase):
@@ -136,58 +135,6 @@ class StorySystemTests(unittest.TestCase):
             encoding="utf-8",
         )
 
-    def make_rewrite_worktree(self, temporary_root: Path) -> Path:
-        source = temporary_root / "source"
-        source.mkdir()
-        story = self.make_current_story(source)
-        self.use_create_dialogue_profile(story)
-        subprocess.run(
-            ["git", "init", "-b", "main"],
-            cwd=source,
-            text=True,
-            capture_output=True,
-            check=True,
-        )
-        subprocess.run(
-            ["git", "add", "."],
-            cwd=source,
-            text=True,
-            capture_output=True,
-            check=True,
-        )
-        subprocess.run(
-            [
-                "git",
-                "-c",
-                "user.name=Story Tests",
-                "-c",
-                "user.email=story-tests@example.invalid",
-                "commit",
-                "-m",
-                "fixture",
-            ],
-            cwd=source,
-            text=True,
-            capture_output=True,
-            check=True,
-        )
-        subprocess.run(
-            ["git", "branch", "codex/rewrite-sample"],
-            cwd=source,
-            text=True,
-            capture_output=True,
-            check=True,
-        )
-        worktree = temporary_root / "rewrite-worktree"
-        subprocess.run(
-            ["git", "worktree", "add", str(worktree), "codex/rewrite-sample"],
-            cwd=source,
-            text=True,
-            capture_output=True,
-            check=True,
-        )
-        return worktree
-
     def validate(self, root: Path, phase: str, story: str | None = None) -> subprocess.CompletedProcess:
         command = [
             "pwsh",
@@ -203,22 +150,16 @@ class StorySystemTests(unittest.TestCase):
             command.extend(("-Story", story))
         return subprocess.run(command, cwd=root, text=True, capture_output=True, check=False)
 
-    def test_create_and_rewrite_have_distinct_entry_skills(self):
+    def test_story_create_documents_remove_then_create_replacement(self):
         create = STORY_CREATE_SKILL.read_text(encoding="utf-8")
-        rewrite = STORY_REWRITE_SKILL.read_text(encoding="utf-8")
 
         self.assertIn("name: story-create", create)
-        self.assertIn("Never\nuse this skill to reopen an existing story", create)
-        self.assertIn("name: story-rewrite", rewrite)
-        for scope in ("REBUILD", "RESHAPE", "SELECTIVE"):
-            self.assertIn(f"`{scope}`", rewrite)
-        for selection in (
-            "Keep exact",
-            "Keep in substance",
-            "Change or replace",
-            "Remove",
-        ):
-            self.assertIn(selection, rewrite)
+        self.assertIn("remove only the explicitly named source package", create)
+        self.assertIn("user-authored prompt or request block", create)
+        self.assertIn("reference-image", create)
+        self.assertIn("display name", create)
+        self.assertIn("Discard only machine-owned", create)
+        self.assertNotIn("story-rewrite", create)
 
     def test_scaffold_creates_exactly_four_files(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -397,7 +338,7 @@ class StorySystemTests(unittest.TestCase):
 
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
 
-    def test_rewrite_constraints_override_base_create_profile_schema(self):
+    def test_last_recorded_craft_profile_is_active(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
             story = self.make_current_story(root, passing_review=False)
@@ -406,237 +347,14 @@ class StorySystemTests(unittest.TestCase):
             prompt_path = story / "prompt.md"
             prompt_path.write_text(
                 prompt_path.read_text(encoding="utf-8")
-                + "\n## Rewrite request\n\n> Retell the story through a colder lens.\n\n"
-                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
-                "## Rewrite constraints\n\n- Cover: AUTO\n"
-                "- Craft profile: prospective-2026-08-21\n"
-                "- Authority: the rewrite request controls where it conflicts with the original prompt; all unaffected original requirements remain binding.\n",
+                + "\n## Historical production context\n\n"
+                "- Craft profile: prospective-2026-08-21\n",
                 encoding="utf-8",
             )
 
             completed = self.validate(root, "PreReview", "sample")
 
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-
-    def test_new_rewrite_profile_requires_selection_contract(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            root = Path(temporary)
-            story = self.make_current_story(root, passing_review=False)
-            self.use_create_dialogue_profile(story)
-            prompt_path = story / "prompt.md"
-            prompt_path.write_text(
-                prompt_path.read_text(encoding="utf-8")
-                + "\n## Rewrite request\n\n> Replace the ending.\n\n"
-                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
-                "## Rewrite constraints\n\n- Cover: AUTO\n"
-                "- Craft profile: prospective-2026-08-23\n"
-                "- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.\n",
-                encoding="utf-8",
-            )
-
-            completed = self.validate(root, "PreReview", "sample")
-
-            self.assertNotEqual(0, completed.returncode)
-            self.assertIn("requires exactly one 'Rewrite selections'", completed.stdout + completed.stderr)
-
-    def test_pre_review_accepts_selection_contract_rewrite(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            root = Path(temporary)
-            story = self.make_current_story(root, passing_review=False)
-            self.use_create_dialogue_profile(story)
-            prompt_path = story / "prompt.md"
-            prompt_path.write_text(
-                prompt_path.read_text(encoding="utf-8")
-                + "\n## Rewrite request\n\n> Replace the ending while preserving the reunion.\n\n"
-                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
-                "## Rewrite selections\n\n- Scope: SELECTIVE\n"
-                "- Outside named selections: KEEP EXACT\n"
-                "- Keep exact: none specified\n"
-                "- Keep in substance: the reunion\n"
-                "- Change or replace: the ending\n"
-                "- Remove: none specified\n\n"
-                "## Rewrite constraints\n\n- Cover: AUTO\n"
-                "- Craft profile: prospective-2026-08-23\n"
-                "- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.\n",
-                encoding="utf-8",
-            )
-
-            completed = self.validate(root, "PreReview", "sample")
-
-            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-
-    def test_pre_review_rejects_scope_with_contradictory_outside_rule(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            root = Path(temporary)
-            story = self.make_current_story(root, passing_review=False)
-            self.use_create_dialogue_profile(story)
-            prompt_path = story / "prompt.md"
-            prompt_path.write_text(
-                prompt_path.read_text(encoding="utf-8")
-                + "\n## Rewrite request\n\n> Replace the ending.\n\n"
-                "## Rewrite reference images\n\n- None supplied for this rewrite.\n\n"
-                "## Rewrite selections\n\n- Scope: SELECTIVE\n"
-                "- Outside named selections: FLEXIBLE\n"
-                "- Keep exact: none specified\n"
-                "- Keep in substance: none specified\n"
-                "- Change or replace: the ending\n"
-                "- Remove: none specified\n\n"
-                "## Rewrite constraints\n\n- Cover: AUTO\n"
-                "- Craft profile: prospective-2026-08-23\n"
-                "- Authority: the rewrite request and selections control where they conflict with the original prompt; outside named selections follows the recorded preservation policy.\n",
-                encoding="utf-8",
-            )
-
-            completed = self.validate(root, "PreReview", "sample")
-
-            self.assertNotEqual(0, completed.returncode)
-            normalized_output = " ".join((completed.stdout + completed.stderr).split())
-            self.assertIn(
-                "Rewrite scope SELECTIVE requires Outside named selections: KEEP",
-                normalized_output,
-            )
-            self.assertIn("EXACT.", normalized_output)
-
-    def test_prepare_rewrite_rebuild_records_selection_contract(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            worktree = self.make_rewrite_worktree(Path(temporary))
-
-            completed = subprocess.run(
-                [
-                    "pwsh",
-                    "-NoProfile",
-                    "-File",
-                    str(PREPARE_REWRITE),
-                    "-ProjectRoot",
-                    str(worktree),
-                    "-Story",
-                    "sample",
-                    "-Title",
-                    "Sample",
-                    "-Request",
-                    "Retell the story with a colder lens.",
-                    "-Scope",
-                    "Rebuild",
-                    "-Keep",
-                    "Mira's attachment to Alder Gate",
-                    "-Change",
-                    "the returning-traveler plot",
-                    "-Remove",
-                    "the decision to stay",
-                    "-Cover",
-                    "Keep",
-                ],
-                cwd=worktree,
-                text=True,
-                capture_output=True,
-                check=False,
-            )
-
-            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-            prompt = (worktree / "stories/sample/prompt.md").read_text(encoding="utf-8")
-            outline = (worktree / "stories/sample/outline.md").read_text(encoding="utf-8")
-            story = (worktree / "stories/sample/story.md").read_text(encoding="utf-8")
-            self.assertIn("Craft profile: prospective-2026-08-23", prompt)
-            self.assertIn("## Rewrite selections", prompt)
-            self.assertIn("- Scope: REBUILD", prompt)
-            self.assertIn("- Outside named selections: FLEXIBLE", prompt)
-            self.assertIn("- Keep in substance: Mira's attachment to Alder Gate", prompt)
-            self.assertIn("- Change or replace: the returning-traveler plot", prompt)
-            self.assertIn("- Remove: the decision to stay", prompt)
-            self.assertIn("## Rewrite constraints", prompt)
-            for field in (
-                "Dialogue promise",
-                "Dialogic medium",
-                "Dialogue engine",
-                "Relationship movement",
-            ):
-                self.assertIn(f"- {field}:", outline)
-            self.assertIn("Complete reader-facing prose goes here", story)
-            self.assertNotIn("Mira walked through Alder Gate", story)
-
-    def test_prepare_rewrite_selective_preserves_existing_prose(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            worktree = self.make_rewrite_worktree(Path(temporary))
-
-            completed = subprocess.run(
-                [
-                    "pwsh",
-                    "-NoProfile",
-                    "-File",
-                    str(PREPARE_REWRITE),
-                    "-ProjectRoot",
-                    str(worktree),
-                    "-Story",
-                    "sample",
-                    "-Title",
-                    "Sample",
-                    "-Request",
-                    "Replace the ending but preserve the opening prose.",
-                    "-Scope",
-                    "Selective",
-                    "-KeepExact",
-                    "the opening sentence",
-                    "-Change",
-                    "the final decision",
-                    "-Cover",
-                    "Keep",
-                ],
-                cwd=worktree,
-                text=True,
-                capture_output=True,
-                check=False,
-            )
-
-            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-            prompt = (worktree / "stories/sample/prompt.md").read_text(encoding="utf-8")
-            story = (worktree / "stories/sample/story.md").read_text(encoding="utf-8")
-            self.assertIn("- Scope: SELECTIVE", prompt)
-            self.assertIn("- Outside named selections: KEEP EXACT", prompt)
-            self.assertIn("- Keep exact: the opening sentence", prompt)
-            self.assertIn("- Change or replace: the final decision", prompt)
-            self.assertIn("Mira walked through Alder Gate and chose to stay.", story)
-            self.assertNotIn("Complete reader-facing prose goes here", story)
-
-    def test_prepare_rewrite_reshape_uses_substantive_preservation_default(self):
-        with tempfile.TemporaryDirectory() as temporary:
-            worktree = self.make_rewrite_worktree(Path(temporary))
-
-            completed = subprocess.run(
-                [
-                    "pwsh",
-                    "-NoProfile",
-                    "-File",
-                    str(PREPARE_REWRITE),
-                    "-ProjectRoot",
-                    str(worktree),
-                    "-Story",
-                    "sample",
-                    "-Title",
-                    "Sample",
-                    "-Request",
-                    "Keep the emotional throughline but reshape the plot.",
-                    "-Scope",
-                    "Reshape",
-                    "-Keep",
-                    "Mira's attachment to Alder Gate",
-                    "-Change",
-                    "the sequence of events",
-                    "-Cover",
-                    "Keep",
-                ],
-                cwd=worktree,
-                text=True,
-                capture_output=True,
-                check=False,
-            )
-
-            self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-            prompt = (worktree / "stories/sample/prompt.md").read_text(encoding="utf-8")
-            story = (worktree / "stories/sample/story.md").read_text(encoding="utf-8")
-            self.assertIn("- Scope: RESHAPE", prompt)
-            self.assertIn("- Outside named selections: KEEP", prompt)
-            self.assertIn("Complete reader-facing prose goes here", story)
-            self.assertNotIn("Mira walked through Alder Gate", story)
 
     def test_pre_review_rejects_0823_voice_over_220_words(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -685,7 +403,7 @@ class StorySystemTests(unittest.TestCase):
             )
             outline_path = story / "outline.md"
             outline_path.write_text(
-                outline_path.read_text(encoding="utf-8") + "\n\n" + ("legacy " * 1201),
+                outline_path.read_text(encoding="utf-8") + "\n\n" + ("earlier " * 1201),
                 encoding="utf-8",
             )
 
@@ -708,12 +426,12 @@ class StorySystemTests(unittest.TestCase):
             self.assertIn("Advisory outline noun", completed.stdout)
 
     def test_pre_review_rejects_exact_collisions_and_unknown_recurrence(self):
-        cases = ("legacy person", "current person", "universe place", "unknown recurrence")
+        cases = ("bundle person", "current person", "universe place", "unknown recurrence")
         for case in cases:
             with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
                 root = Path(temporary)
                 story = self.make_current_story(root, passing_review=False)
-                if case == "legacy person":
+                if case == "bundle person":
                     (root / "stories/NAMES.md").write_text(
                         "| Identity | Reserved forms | Story |\n"
                         "| --- | --- | --- |\n| Earlier Mira | `Mira` | locked-story |\n",
@@ -782,7 +500,26 @@ class StorySystemTests(unittest.TestCase):
             self.make_current_story(root)
             completed = self.validate(root, "Final")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
-            self.assertIn("1 current stories", completed.stdout)
+            self.assertIn("1 current-format stories", completed.stdout)
+
+    def test_final_validation_rejects_orphan_story_directory(self):
+        for slug in ("orphan-package", "_trash"):
+            with self.subTest(slug=slug), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                self.make_current_story(root)
+                orphan = root / "stories" / slug
+                orphan.mkdir()
+                (orphan / "notes.txt").write_text("orphan", encoding="utf-8")
+
+                completed = self.validate(root, "Final")
+
+                self.assertNotEqual(0, completed.returncode)
+                normalized = " ".join((completed.stdout + completed.stderr).split())
+                self.assertIn(
+                    f"stories/{slug} is neither a current-format package",
+                    normalized,
+                )
+                self.assertIn("bundle-format package.", normalized)
 
     def test_final_validation_accepts_create_dialogue_profile(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -908,6 +645,52 @@ class StorySystemTests(unittest.TestCase):
             self.assertEqual("PG", catalog.stories[0].rating)
             self.assertTrue((root / "covers/sample.jpg").is_file())
 
+    def test_capture_all_refreshes_only_existing_publications(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            published = self.make_current_story(root)
+            snapshot = root / "catalog.json"
+            build.capture_story("sample", root, snapshot)
+
+            unpublished = root / "stories/unpublished"
+            shutil.copytree(published, unpublished)
+            story_path = unpublished / "story.md"
+            story_path.write_text(
+                story_path.read_text(encoding="utf-8")
+                .replace("title: Sample", "title: Unpublished")
+                .replace("slug: sample", "slug: unpublished")
+                .replace("# Sample", "# Unpublished"),
+                encoding="utf-8",
+            )
+
+            catalog = build.capture_all(root, snapshot)
+
+            self.assertEqual(("sample",), tuple(story.slug for story in catalog.stories))
+            self.assertFalse((root / "covers/unpublished.jpg").exists())
+
+    def test_capture_refuses_to_demote_published_canon(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self.make_current_story(root)
+            snapshot = root / "catalog.json"
+            captured = build.capture_story("sample", root, snapshot)
+            build.save_catalog(
+                (replace(captured.stories[0], canon=True, status="canon"),), snapshot
+            )
+
+            conflicts = build.published_canon_marker_conflicts(
+                build.load_catalog(snapshot), root
+            )
+            self.assertEqual(("sample",), conflicts)
+            for operation in (
+                lambda: build.capture_story("sample", root, snapshot),
+                lambda: build.capture_all(root, snapshot),
+            ):
+                with self.subTest(operation=operation), self.assertRaisesRegex(
+                    ValueError, "Refusing to demote published canon"
+                ):
+                    operation()
+
     def test_content_rating_maps_to_supported_card_symbols(self):
         cases = {
             "- Tone and audience: broadly accessible unless specified": "PG",
@@ -994,6 +777,52 @@ class StorySystemTests(unittest.TestCase):
         self.assertFalse(
             any(re.match(r"^(?:#{1,6}\s*)?\[?WP\]", story.prompt) for story in catalog.stories)
         )
+
+    def test_repository_story_and_publication_inventory_is_reconciled(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+
+        source_count, published_count, canon_count = build.validate_repository_inventory(
+            catalog, timeline
+        )
+
+        self.assertEqual(len(catalog.stories), source_count)
+        self.assertEqual(len(catalog.stories), published_count)
+        self.assertEqual(sum(story.canon for story in catalog.stories), canon_count)
+
+    def test_superseded_sky_source_is_removed_but_return_bookend_remains(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        published = {story.slug for story in catalog.stories}
+        placements = {
+            slug
+            for chapter in timeline.chapters
+            for slug in (
+                *chapter.stories,
+                *(slug for group in chapter.constellations for slug in group.stories),
+            )
+        }
+
+        self.assertFalse((REPO / "stories/the-sky-remembers-us").exists())
+        self.assertTrue((REPO / "stories/the-sky-remembers-us-return/story.md").is_file())
+        self.assertNotIn("the-sky-remembers-us", published)
+        self.assertIn("the-sky-remembers-us-return", published)
+        self.assertIn("the-sky-remembers-us-return", placements)
+        self.assertTrue((REPO / "pages/covers/the-sky-remembers-us-return.jpg").is_file())
+
+    def test_bundle_index_rejects_duplicate_story_rows(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            index = Path(temporary) / "INDEX.md"
+            index.write_text(
+                "| Story | Title |\n"
+                "| --- | --- |\n"
+                "| `duplicate` | *First* |\n"
+                "| `duplicate` | *Second* |\n",
+                encoding="utf-8",
+            )
+
+            with self.assertRaisesRegex(ValueError, "repeats story rows"):
+                build._bundle_index_slugs(index)
 
     def test_stored_timeline_places_every_story_once(self):
         catalog = build.load_catalog()
@@ -1255,8 +1084,7 @@ class StorySystemTests(unittest.TestCase):
             self.assertTrue((output / "styles.css").is_file())
             hero_art = output / build.WORLDLINE_HERO_ART_PATH.name
             self.assertTrue(hero_art.is_file())
-            with build.Image.open(hero_art) as opened_hero_art:
-                self.assertEqual((1536, 1024), opened_hero_art.size)
+            self.assertEqual(build.WORLDLINE_HERO_ART_PATH.read_bytes(), hero_art.read_bytes())
             self.assertEqual(
                 len(catalog.stories),
                 len(list((output / "stories").glob("*.html"))),
@@ -1265,13 +1093,7 @@ class StorySystemTests(unittest.TestCase):
                 len(catalog.stories),
                 len(list((output / "covers").glob("*.jpg"))),
             )
-            timeline_icons = list((output / "timeline-icons").glob("*.jpg"))
-            self.assertEqual(len(catalog.stories), len(timeline_icons))
-            with build.Image.open(timeline_icons[0]) as timeline_icon:
-                self.assertEqual(
-                    (build.TIMELINE_ICON_SIZE, build.TIMELINE_ICON_SIZE),
-                    timeline_icon.size,
-                )
+            self.assertFalse((output / "timeline-icons").exists())
             self.assertIn(
                 f"{len(catalog.stories)} stored publications",
                 (output / "index.html").read_text(encoding="utf-8"),

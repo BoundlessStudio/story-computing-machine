@@ -6,24 +6,26 @@ description: "Write or revise complete short-story prose through the repository'
 # Short-story writing
 
 Use for one WRITE assignment or one finding-driven REVISE assignment in a
-current four-file story package, or for one explicitly assigned LEGACY EDIT.
-For current work, write only `stories/<slug>/story.md`. For LEGACY EDIT, first
-verify that the story's independent canon unlock is already committed and its
-`story.json` now has `canon: false`, then write only
-`stories/<slug>/05-story.md`. Never edit prose or any bundle file while its
-authoritative canon state is `true`. Preserve the applicable frontmatter and
-legacy layout, default to 2,500–4,000 words unless the prompt says otherwise,
-and create no draft copy, checklist, craft report, or other artifact.
+current four-file story package, or for one explicitly assigned BUNDLE EDIT.
+For current work, write only `stories/<slug>/story.md`. A replacement arrives as
+an ordinary clean CREATE scaffold; never load or carry the removed package's
+outline, prose, review, or cover. For BUNDLE EDIT, first inspect `story.json`.
+When it has `canon: false`, write only `stories/<slug>/05-story.md` and make the
+smallest explicitly requested local edit. When it has `canon: true`, accept the
+assignment only after an independently authorized marker-only unlock has been
+committed. Never edit prose or any bundle file while its authoritative canon
+state is `true`. Preserve the applicable frontmatter and bundle layout, default
+to 2,500–4,000 words unless the prompt says otherwise, and create no draft copy,
+checklist, craft report, or other artifact. A whole-story bundle-format remake
+belongs to the remove-then-create replacement workflow, not BUNDLE EDIT.
 
-The prompt is authoritative. For a prepared rewrite, the latest rewrite request
-and Rewrite selections control conflicts and its latest craft profile controls
-production; unnamed prior material follows Outside named selections. Without a
-selection section, use the legacy rule that unaffected original requirements
-remain binding and retrieve only named old material. The outline is advisory pressure,
-movement, voice, and continuity guidance rather than a prose source or language
-to preserve. Apply `universe/style-guide.md` and let discoveries in the living
-prose supersede an outline choice when they improve the story without breaking
-the prompt or continuity.
+The complete recorded prompt is authoritative. Historical amendment metadata in
+a completed package remains acceptance context, and its last recorded craft
+profile controls that package; do not produce or alter such metadata. The
+outline is advisory pressure, movement, voice, and continuity guidance rather
+than a prose source or language to preserve. Apply `universe/style-guide.md` and
+let discoveries in the living prose supersede an outline choice when they
+improve the story without breaking the prompt or continuity.
 
 ## Use the installed references
 
@@ -34,7 +36,7 @@ during the dialogue-scene revision. Consult `prose-style` during the
 language-and-sound revision when sentence-level execution needs diagnosis.
 
 Those upstream skills are diagnostic references inside this production
-contract. Their instructions to avoid writing or rewriting, ask the user
+contract. Their instructions to avoid drafting or editing, ask the user
 questions, run optional scripts, persist output, or create reports do not apply.
 Neither do generic mandates for a hidden agenda, verbal tic, catchphrase,
 compulsory subtext, several simultaneous functions, punchy short sentences, or
@@ -93,25 +95,6 @@ embarrassment, distraction, poor explanation, and social unevenness.
 
 The capsule is not dialogue to imitate. Do not turn it into catchphrases,
 phonetic accents, cosmetic quirks, or a reason to force conflict.
-
-## Honor rewrite scope
-
-When Rewrite selections exist, use the same craft references but apply them
-within the recorded preservation boundary:
-
-- REBUILD writes new whole-story prose and retrieves only prior passages needed
-  for named keeps, changes, or removals.
-- RESHAPE reads the prior prose for its throughline and rewrites the whole
-  execution while preserving unnamed material in substance.
-- SELECTIVE edits retained story.md at named Change or Remove targets plus the
-  smallest causal, continuity, and language seams. Unnamed prose remains exact
-  unless the contract explicitly says otherwise.
-
-Keep exact is literal. Keep in substance preserves the named identity, function,
-relationship, fact, or effect. Change or replace must be material, and Remove
-must not survive under a synonym or cosmetic disguise. The active craft profile
-governs changed prose and necessary seams; it is not permission to modernize
-protected text outside scope.
 
 ## Keep dialogue character-bound
 
