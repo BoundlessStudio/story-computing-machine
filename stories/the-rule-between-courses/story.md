@@ -1,341 +1,441 @@
 ---
-title: "The Rule Between Courses"
+title: "All the Good Things"
 slug: "the-rule-between-courses"
 created: 2026-08-24
 created-at: 2026-08-24T19:41:52-04:00
 canon: false
 ---
 
-# The Rule Between Courses
+# All the Good Things
 
-Mekko reached the restaurant with rain cooling between his shoulder blades and three minutes left before seven. Talja was already at the corner table, of course. Her tawny ears showed above the menu. One of them turned toward the door before the little brass bell had finished ringing.
+Linette had just asked whether she should bring the smoked-pepper char when Ceret heard herself say, “Yes, and the lemon potatoes for Dabria, and Mezzara will want—”
 
-“You ran,” she said.
+Linette laid three menus on the table, though only one chair was occupied. “You may choose water for people who aren’t here.”
 
-“You said seven.”
+“Dabria always orders the char.”
 
-“I said before seven.”
+“Last time she ordered the mullet.”
 
-“That is what I heard.”
+“Only because the char was sold out.”
 
-“Yes.” She folded the menu. “That has generally been the problem.”
+“She can tell me when she arrives.” Linette turned the empty glasses upright. Her black tail curved behind her apron, still except at the tip. “I’ll bring the water.”
 
-It was one of their worn jokes, though it had not been funny for some time. Mekko gave it the usual answer anyway, a hand to his chest as if falsely accused, and crossed the room.
+Ceret folded her hands under the table before she could straighten the menus into a single exact fan. “And three plates?”
 
-The place was smaller than it had looked from the street. Dark ceiling beams pressed the amber candlelight down over six tables. A dark-eared woman played a six-string guitar beside the shuttered window, her thumb keeping a low, unhurried pattern beneath the murmur of cutlery. Warm wood, lemon peel, lamp oil, wet wool. Beneath all of it lay the deep browned smell of fish skin.
+“That much I can assume.”
 
-That smell took the edge off Mekko’s running heart before he had even removed his coat.
+The restaurant’s one small room glowed in layers of amber: candle cups on the tables, shaded lamps along the plaster walls, a copper shine from the open kitchen hatch. The chairs had curved gaps beneath their back rails so tails could hang or curl without being trapped. Ceret had chosen the round table near the guitarist, close enough to hear the brush of fingers on strings but not so close that conversation became work.
 
-Talja watched him notice the canvas bag against her chair. It was a traveling bag, not her usual sagging market sack. The buckles were fastened. One corner bulged around something badly packed.
+Joia sat on a low stool in the corner, tuning quietly. She drew one string down, listened with one russet ear inclined, and adjusted it by a fraction. Around her, the early diners kept their voices low without seeming to mean to.
 
-“What’s in there?” he asked.
+Since spring, the three friends had managed hurried cups of tea and meetings in pairs, but no supper together. Ceret had missed the interruptions as much as the talk.
 
-“Sit down.”
+Ceret checked the door. Then she checked it again.
 
-“A brick?”
+Linette set down the water. “Still absent.”
 
-“Several. I’m building a wall.”
+“I was looking at the rain.”
 
-There. Better. Her mouth had almost bent at one corner.
+“It remains wet.”
 
-The proprietor came over before Mekko could ask again. He was a compact, gray-whiskered catfolk with tufted ears, one nicked across the tip. He took Mekko’s wet coat, hung it well away from the stove, and tapped the inside of the menu with one blunt claw.
+The door opened before Ceret could answer. Mezzara entered first, unfastening her damp green coat as she walked, and Dabria crowded in behind her with a striped shawl over her head and a paper parcel tucked under one arm. Rain had darkened their sleeves and tails. At the sight of them, Ceret stood so quickly that her knee struck the table and made all three empty glasses chime.
 
-The ancient house rule occupied a square of its own. Its old-fashioned loops had been recopied around a newer ink stain:
+“That was almost musical,” Dabria said.
 
-*When the table is bare, the door belongs to the departing guest. Those who remain keep their chairs until the outer latch falls. The kitchen waits.*
+Mezzara kissed Ceret’s cheek, then pressed two cool fingers to the silver-speckled fur at the base of her ear. “You’re early.”
 
-Mekko looked up. “Does dessert count as a course?”
+“I’m on time.”
 
-The proprietor’s whiskers moved. “If it arrives.”
+“For us, that’s early.”
 
-He collected their menus and left.
+Dabria embraced Ceret one-armed, still protecting the parcel. She smelled of rain, citrus soap, and the cold street. “Please tell me there’s food coming.”
 
-“You brought me to a place with threats in the menu,” Mekko said.
+“Linette wouldn’t let me order yours.”
 
-“One threat. The rest is fish.”
+“Good.” Dabria dropped into her chair and guided her tawny, dark-ringed tail through the open back. “I changed my mind on the walk.”
 
-“You know how to apologize.”
+Ceret sat more slowly. “About the char?”
 
-Talja’s fingers, resting on the table, drew together. “I didn’t say this was an apology.”
+“About everything. Then back again about most of it.”
 
-Before he could decide whether she meant it lightly, the first course came: shallow earthen bowls of clear broth, fragrant with ginger and charred bones, and crisp little cakes flecked with green onion. Mekko took one swallow and felt warmth open down his chest. Talja slid the dish of red pepper oil away from him without asking. He always added too much, then spent the rest of the meal insisting his eyes watered from joy.
+Mezzara hung her coat on the wall peg. The fur along one dark ear was still beaded with rain. “We took the wrong tram.”
 
-“I can govern myself,” he said.
+“It wasn’t wrong,” Dabria said. “It went past the soap shop.”
 
-“Of course.”
+“It did not come here.”
 
-He reached for the oil. She raised one eyebrow. He took a cake instead.
+“But I needed soap.” Dabria lifted the parcel as evidence. “Now I have two bars.”
 
-For several minutes they ate as if the last month had been no more than bad weather. Talja complained that the cakes had been cut too neatly to possess character. Mekko claimed she had once eaten six misshapen ones from a street pan and called them rustic. She corrected him: five, and he had eaten the sixth while distracting the vendor. He objected to the word *distracting*. The guitar moved steadily under them, three low notes and a soft brush of strings, three low notes and a soft brush.
+“You made us get off six streets away.”
 
-Talja remembered every stupid detail. That was the trouble. Someone who remembered you stealing a cake at sixteen ought not to be able to vanish for ten days, answer two notes with one-word replies, and then invite you to supper as if testing whether the familiar shape still fit.
+“And now I have soap.”
 
-Mekko broke another cake in half. “So. The wall.”
+Linette arrived with a folded cloth for the damp table edge and waited while Dabria moved her parcel. She did not glance at Ceret.
 
-“After the broth.”
+Dabria read the menu from top to bottom, lips moving slightly. “I’ll have the char.”
 
-“We’re after some of it.”
+Ceret looked at Linette, who remained professionally blank.
 
-“Mekko.”
+“With the green olives, not the potatoes,” Dabria added.
 
-His tail, looped around the chair leg to keep it out of the aisle, tightened once. He let the question go. Not because she had won, he told himself. Because the broth was too good to waste on an argument.
+“You don’t like olives,” Ceret said.
 
-When the bowls were empty, two servers appeared and removed everything at once, even the pepper oil. The bare wood looked unexpectedly wide between Mekko and Talja. Around the room, conversation thinned. The guitarist let the last note of her phrase breathe a little longer.
+“I didn’t. Someone has been putting them in rice at home, and apparently I like them when I’m not told in advance.”
 
-At the table nearest the door, a sand-colored elder placed both palms flat and stood.
+“Who is someone?” Ceret asked.
 
-Every body in the room knew before every mind agreed.
+Dabria opened her mouth, but Mezzara spoke over her. “Salt-baked bream for me, please. And the tomato salad.”
 
-Mekko’s gaze caught the swing of the elder’s coat hem. His shoulders tipped forward. Across the aisle, a broad diner with pale rosettes closed her hand around the stem of an empty glass; behind her, a striped man’s claws clicked once against his chair rung. Talja’s ears turned toward the exit. Even the proprietor had gone still beside the kitchen curtain.
+Ceret turned. “Not the river trout?”
 
-Nobody rose.
+“I can have trout another day.”
 
-The elder did not hurry. He buttoned his coat, nodded to the companion who remained seated, and walked between the tables. Mekko could hear each step separately. His cheetah-line body offered the distance to the door, the open aisle, the easy fact of closing ground. It offered no reason. Bodies were old in that way. They brought advice from ancestors who had never seen a chair.
+There was no sensible answer to that. Ceret picked up her own menu, which she had already read twice. “Then the herb-roasted bass. We’ll share all three.”
 
-Mekko put his fingertips against the candle glass. Heat bit gently through it. The guitarist began the pattern again. Three low notes. A brush. The rosette-marked diner loosened her grip on the glass. The striped man tucked his hands under his thighs and looked down at a knot in the table.
+“If you ask before moving food onto my plate,” Mezzara said.
 
-At the threshold, the elder opened the outer door. Rain breathed into the room. Then the door shut, the latch dropped, and six tables exhaled in six different rhythms.
+“When have I not asked?”
 
-The next course came through the kitchen curtain.
+Mezzara and Dabria looked at each other.
 
-Talja had been watching Mekko. She looked away too late.
+“Recently,” Ceret amended.
 
-“I read the rule,” he said.
+Linette took the menus. “I’ll begin with the small gilt fish and fennel. You can practice.”
 
-“Good.”
+Once she was gone, the first few minutes broke apart pleasantly. Dabria wanted to know whether Ceret had cut her own fringe; Ceret insisted it had merely dried badly in the rain. Mezzara asked if the loose window above Ceret’s sink had finally been fixed. Ceret asked why Mezzara had a streak of white dust on her sleeve. Dabria unwrapped one of the soaps to let them smell it, then complained that the rose scent was much stronger in the warm room than it had been in the shop.
 
-“I can read old loops. Even the threatening kind.”
+“You’ve bought a cupboard fragrance,” Mezzara said.
 
-“That wasn’t what I was checking.”
+“It smelled like orange peel outside.”
 
-The second course was a whole roasted river fish laid over fennel and little yellow potatoes, its skin blistered bronze and shining with butter. The server set down two plates and one narrow knife, then left them to divide it. Mekko lifted the cheek from Talja’s side and placed it on her plate. She pushed the crisp tail toward him. They had done this so often that neither gesture seemed to require permission. For one painful second, that felt like an answer.
+“Outside was mostly tram smoke.”
 
-The fish came clean from the bone. Smoke, salt, sweet white flesh. The room softened again around chewing, and the guitar found a playful turn it had not used before. Mekko ate the tail in two bites.
+Ceret pushed the soap farther from her water glass. “Give it to the someone who taught you to eat olives.”
 
-“Tomorrow,” Talja said, looking at the fish instead of him, “I’m taking the north coach.”
+Dabria started folding the paper around it again. “They chose the other one.”
 
-He finished chewing. “For how long?”
+“They?”
 
-“The whole route.”
+“I’ll tell you. I was going to tell you.”
 
-“That wasn’t what I asked.”
+“After the soap?”
 
-“No.” She worked the narrow knife beneath a rib. “I took a room over a bakery. I start at the printworks on Monday.”
+Dabria’s ears tipped outward. “The soap was meant to lead there.”
 
-The words arrived like pieces from different conversations. A room. A printworks. Monday. Mekko fitted them together and disliked the picture.
+Mezzara reached for the water jug. “You started at the wrong end.”
 
-“You hate engraving letters.”
+“Then I’ll begin again after food.”
 
-“I’ll be cutting pictures.”
+The small fish arrived on a dark oval plate, their skins crisp and gold, laid over fennel shaved thin enough to turn translucent at the edges. Preserved lemon shone between them. For a while the talk narrowed to ordinary negotiations: which fish had the fewest bones, whether Dabria had taken all the lemon, who wanted the last piece of bread while it was still warm.
 
-“Backward.”
+“This was our first table,” Ceret said when only tails and bright smears of oil remained on the platter.
 
-“That’s how printing works.”
+Mezzara looked toward the window. “No, the first one was against that wall.”
 
-“Your left wrist aches in cold weather.”
+“It was this table. I remember the candle wobbling every time the kitchen door opened.”
 
-“They have a stove.”
+“There wasn’t a candle,” Dabria said. “It was afternoon.”
 
-“Rooms over bakeries get mice.”
+“It was dark.”
 
-Talja finally looked at him. “You think that will discourage me?”
+“Because it was raining.”
 
-He nearly smiled. It would have been easy to take the opening and turn the whole thing back toward ordinary talk. Instead he heard himself say, “I can find you something here.”
+“It was night,” Ceret said. “We had spent all day moving Mezzara’s boxes, and the bottom came out of the one with the blue bowls.”
 
-Her ears lowered, not flat, but no longer easy. “I found something there.”
+“The bottom did not come out. The knot slipped.” Mezzara extracted a neat backbone from the last fish and placed it at the side of her plate. “Also, there were eight bowls.”
 
-“You didn’t ask me.”
+“Twelve,” Ceret said.
 
-“Correct.”
+“Eight bowls and a blanket.”
 
-“I know people at two shops. Three, if the paper seller still owes me for the window.”
+Dabria pointed her fork at Mezzara. “A wet blanket.”
 
-“I’m not looking for a shop here.”
+“Because you set it in the gutter.”
 
-“The north coach takes four days and smells like damp rope.”
+“To catch the bowl I saved.”
 
-“Mekko.”
+“You saved no bowl. Ceret caught the stack against her coat.”
 
-“And that bag won’t survive the axle road.” He nudged it with his foot. “You packed the blue cup, didn’t you? That’s the corner.”
+Ceret could see it as soon as Mezzara said it: her younger self kneeling on slick paving stones, a tower of blue ceramic pressed to her ribs, rain dripping off her chin. She had forgotten the weight of the bowls. She had remembered only Dabria laughing and Mezzara saying, with terrible calm, that the blanket would wash.
 
-Talja pulled the bag away from him with her heel. “I did not invite you to repair the move.”
+“We came in because we could smell grilled fish from the street,” Ceret said.
 
-“Then why invite me?”
+“We came in because you wouldn’t let us carry another box before supper,” Dabria said.
 
-Her knife slipped from the spine and struck the plate. The little sound turned two nearby ears. Talja set the knife down carefully.
+“We came in,” Mezzara said, “because it was open.”
 
-“Because leaving without telling you would be rotten.”
+They considered these accounts.
 
-He waited for more. She picked a piece of fennel from beneath the fish and ate it.
+“All of that can be true,” Dabria decided.
 
-“That’s it?”
+“Not the candle,” Mezzara said.
 
-“No. That’s what I can say while you keep arguing with the coach.”
+Joia began to play before Ceret could defend it. Her thumb kept a soft, quick pattern on the lower strings while the melody passed above it, light enough that the clink of cutlery stayed part of the room. Ceret watched Dabria’s ears turn toward the corner. Mezzara rested both wrists beside her plate. At another table, a child stopped trying to balance a spoon on one finger.
 
-“I’m not arguing with the coach.”
+No one at Ceret’s table spoke until the piece ended. Their applause joined the room’s, brief and warm. Joia nodded without standing and started another tune.
 
-Talja gave him a tired look.
+The second tune left longer spaces between its chords. Ceret let her eyes settle on the candle. This one did wobble when Linette passed with a tray, though there was no kitchen draft anymore.
 
-Mekko’s fork bowed against his plate. He laid it down. The guitar’s low phrase slipped between them, soft and repetitive, something the ear could hold without having to understand.
+When Joia paused for tea, Linette cleared the first platter and brought the tomato salad. Mezzara caught Ceret looking at the white mark on her sleeve again.
 
-“Are you leaving the district,” he asked, “or are you leaving me?”
+“Plaster,” she said.
 
-Talja’s tail had gone still against the leg of her chair. “I need to leave the district.”
+“I guessed plaster.”
 
-“That is not an answer.”
+“You asked why.”
 
-“It’s the answer I have.”
+“I assumed you would eventually tell me.”
 
-“You have had a month to get one.”
+“I looked at a room this afternoon.”
 
-“I had a month to pack.”
+Ceret expected the rest: a temporary room before another journey, a place to leave two cases while Mezzara worked elsewhere. “For how long?”
 
-He looked at the bag again. The badly fitted corner. The dark wet mark where it had stood in rain before he arrived. This had not begun tonight. It had not even begun when her replies became short.
+Mezzara spooned tomatoes onto her plate. “I hope for years.”
 
-“Why here?” he asked.
+Dabria bit into a strip of bread, apparently unsurprised.
 
-Talja glanced at the square on the menu, though the proprietor had taken the menu away. The motion was small. Mekko saw it anyway.
+“Here?” Ceret asked.
 
-The fish settled heavily inside him.
+“Three streets over. Above a cabinetmaker. The room has an east window, and the little alcove is wide enough for a table.”
 
-“The cakes,” she said. “You like them.”
+“I thought you still wanted to go north in the autumn.”
 
-“Why here?”
+“That was four autumns ago.”
 
-“The music helps.”
+“You said you’d never live where you could hear the same bells every day.”
 
-“Talja.”
+Mezzara’s mouth bent. “I said I would never live above the bell shop again. The apprentice tested them before breakfast.”
 
-Her fingers spread on the table, claws barely showing. “Because of the rule.”
+Dabria covered a laugh with her napkin.
 
-The teasing answer rose first: *I can govern myself.* It had already gone sour. Mekko swallowed it.
+“I may have remembered the broader meaning,” Ceret said.
 
-“You thought I would hunt you.”
+“You made it broader. You do that when a story has an untidy edge.”
 
-“I thought you would follow.”
+Ceret picked up the salad spoon. “Does the alcove get the morning light?”
 
-“That isn’t the same.”
+“Some. The building across the lane takes part of it.”
 
-“It is after I say don’t.”
+“Enough for a lemon tree?”
 
-The line was plain. That made it worse.
+“Perhaps herbs. A lemon tree would have to be very forgiving.”
 
-“I have never hurt you.”
+“And the plaster?”
 
-“You came to my room after I asked for a night alone.”
+“I leaned against the wall while the landlord found the key to the cupboard.”
 
-“I waited downstairs.”
+“Is the cupboard good?” Dabria asked.
 
-“All night.”
+“We never found out. He had brought the cellar key.”
 
-“I was worried.”
+Dabria nodded gravely. “Promising. A man with many keys suggests many cupboards.”
 
-“You followed me out of the lantern market.”
+“Or one cupboard he has never opened,” Mezzara said.
 
-“You left in the middle of an argument.”
+Ceret began to offer the name of another street, another landlord, a sunlit top floor she had once passed on her way to the market. She stopped after, “There’s a building near—”
 
-“Yes.”
+Mezzara waited.
 
-“There were drunks in the lower street.”
+“What do you want in it?” Ceret asked instead.
 
-“There are always drunks in the lower street. You passed me twice on the roofs and dropped into the alley ahead of me.” Her voice had lost its dry edge. Each sentence took effort now. “You don’t threaten. You just... arrive. At my door, at my work, around the next corner. With a joke, usually. Or a solution I didn’t ask for. Before I’ve decided whether I want you there.”
+The question seemed to please her more than Ceret had expected. Mezzara put down the spoon. “A table I don’t have to clear before I eat. A cupboard that closes. Light enough to sew black thread without carrying the sleeve to the window. Two comfortable chairs.”
 
-Mekko saw the alley as she said it: his easy leap from the tiles, her face turning up, his pleasure at having beaten her to the corner. He had thought the anger in her eyes was still about the lantern market.
+“Only two?” Dabria asked.
 
-“You could have said it like that.”
+“Other people can sit on ordinary chairs.”
 
-Talja stared at him.
+“I have a green chair you can take.”
 
-There it was again, his answer reaching the place before he did.
+“I said comfortable.”
 
-He rubbed one thumb against the other. The instinct in him was not shame, though shame could ride it. It was simpler: something precious moving away, legs gathering to keep it near. His ancestors had given him the gathering. They had not chosen Talja, or the market, or the night below her window. Those choices were his.
+“The green chair has character.”
 
-Talja looked down at the stripped fish. “I tried shorter versions.”
+“The green chair leans toward the door.”
 
-“I thought you wanted me to prove I cared.”
+“It encourages visitors not to linger.”
 
-“I know.”
+Their main plates arrived before Mezzara could reject it again. Linette carried the fish one at a time: the char with dark pepper and a bowl of glossy olives; the bream under a shell of salt that she opened at the table, sending up a clean thread of steam; the bass surrounded by roasted tomatoes, herbs, and small yellow potatoes. She turned each platter so the serving spoons faced inward.
 
-He wished she had snapped at him. He knew how to answer anger. Her tired certainty gave him nothing to push against.
+“The peppers are hotter at this end,” she told Dabria. “And yes, you may all exchange pieces. Ceret has asked properly.”
 
-The servers came for the second course.
+“Once,” Mezzara said.
 
-Mekko almost told them to leave the plates. Talja’s hand withdrew before he could speak. The fish bones went, the potatoes went, the greasy knife and both forks went. A cloth passed once over the table, erasing a bright crescent of butter. Then there was only bare wood, two hands on either side of it, and the traveling bag against Talja’s ankle.
+“A beginning,” Linette replied, already moving toward another table.
 
-The guitarist returned to the opening three-note pattern.
+They tasted each fish before returning to anything important. The bream was tender and sweet beneath its salt crust; the char left warmth at the back of Ceret’s tongue. Dabria discovered that she liked the green olives less on their own than she did in rice, and deposited two on Ceret’s plate without asking.
 
-Talja lifted the bag. Her chair scraped back.
+“The someone,” Ceret prompted.
 
-The room turned.
+Dabria drank water. “Yes.”
 
-Not as one creature. The rosette-marked diner shut her eyes and gripped her own wrist. The striped man’s chin jerked toward the aisle before he fixed his attention on the candle. A young server stopped with a stack of bowls against his chest, ears flattened at the crash of wood. At the kitchen curtain, the proprietor raised one hand, palm down. He did not command. He reminded.
+Mezzara, occupied with a fish bone, said, “Try the middle this time.”
 
-The guitarist’s thumb caught the wrong string. A sharp note rang out. She winced, let it die, and found the pattern again.
+Dabria arranged her fork and knife, then rearranged them. “I’ve been seeing someone. No, that sounds recent. We’ve been together for a while. They stay most nights. Nearly every night, except their early mornings are easier from their own rooms, so some weeks it’s four nights, and some—”
 
-Talja stood beside the table with her bag in one hand. Her tawny ears were low now. One faced Mekko; one tracked the room. The muscles across her shoulders held too square, ready to turn toward any movement. The bag handle creaked under her claws. Mekko could not tell whether her lion-line blood urged her to hold ground or gain the door. He could tell she was resisting something.
+“How long?” Ceret asked.
 
-Mekko’s heels lifted inside his boots.
+“Since late winter. Properly. Before that, it depends what counts.”
 
-The distance broke itself into gifts. Three strides to clear the table. Another four to the door. Talja was burdened on the left and would turn right around the rosette diner’s chair. He could be beside her before the latch rose. He could take the bag, slow her, say one thing she would finally hear. His sight narrowed until the buckled handle became the cleanest object in the room.
+“Who counts?”
 
-The candle glass burned under his palm.
+“We do. Differently.” Dabria’s tail tip tapped once against the chair leg. “I wanted to ask whether they could come to supper sometime.”
 
-“Mekko,” Talja said.
+Ceret paused with a piece of bass halfway to her plate.
 
-He had not realized he was half out of the chair. The front legs rested on the floor; the back legs did not.
+Dabria went on at once. “Not every time. Not this table, I mean this table is fine, but I don’t mean they belong at every supper because that would make it a different—unless you wanted—”
 
-The proprietor’s hand remained raised. Nobody moved to stop him. That was the terrible part. No charm tightened beneath the floorboards; no catch fastened Mekko’s chair. The proprietor’s hand was only a hand.
+“Ceret is holding hot fish in the air,” Mezzara said.
 
-Mekko lowered the chair.
+Ceret put it down. “I was wondering if they eat fish.”
 
-Talja breathed through her nose. Once. Again. She adjusted her grip on the bag but did not thank him.
+Dabria blinked. “They eat almost everything. Not fennel.”
 
-“You’re going now,” he said.
+“Then the first plate would have been difficult.”
 
-“Yes.”
+“They could move it aside.”
 
-“Not after dessert.”
+“What are they like?” Ceret asked.
 
-“No.”
+Dabria’s shoulders lowered. “Patient with kettles. Impatient with hems. They read the last page first, which I object to, although not enough to stop lending them books. They leave tea in every room.”
 
-His laugh came out as a small, ugly puff. “So you paid for dessert you never meant to eat.”
+“That’s what you do,” Mezzara said.
 
-“I thought you might eat it.”
+“I leave cups. They leave tea in the cups.”
 
-“Generous.”
+“A household distinction,” Ceret said.
 
-She flinched. He was glad for half a heartbeat, and then not glad at all.
+“You’ll understand when you see the windowsill.” Dabria rubbed her thumb over the edge of her napkin. “I wanted you to meet them. And I wanted this sometimes. Still. I couldn’t find a way to ask for both without making one sound like the apology for the other.”
 
-Talja took one step toward the aisle.
+Ceret had been ready with questions about work, family, how they had met, whether they treated Dabria well. They crowded behind her teeth. She began with the easiest. “Do they know how much you talk during the quiet parts of songs?”
 
-“If I stay here,” he said, “does that mean we’re still—”
+“I do not.”
 
-The question failed in his mouth. Friends, he had meant. Something. Anything not already packed away.
+Mezzara looked toward Joia’s stool. “You whispered through half the last piece.”
 
-Talja did not rescue it. “I don’t know.”
+“That was before it began.”
 
-“You chose this place because you didn’t trust me.”
+“Joia had begun.”
 
-“I chose it because I needed to get through the door.” Her voice thinned on the last word. She looked toward the entrance, then back at him. “Please don’t make me explain it better.”
+Dabria turned to Ceret. “You see why I need another person on my side.”
 
-He wanted an answer he could use. A promise that stillness would purchase another supper, another note, the right to know which room stood over which bakery. Wanting it tightened every muscle he had just lowered.
+“I’d like to meet them,” Ceret said. “Bring them one evening, if they can come.”
 
-At the kitchen curtain, a server waited with covered bowls. Steam leaked around the lids. The proprietor glanced from Talja to Mekko, then angled his palm toward the kitchen, offering to send the food out of sight.
+Dabria smiled, not broadly, but for long enough that Ceret had time to notice. “All right.”
 
-Mekko took his hand off the candle. For a moment it trembled in the open air. Then he turned the palm down on the bare table.
+“And some suppers can still be three,” Ceret added.
 
-“Hold the course,” he said.
+“Please.” Dabria picked up her fork again. “That was the part I kept making worse in my head.”
 
-The proprietor lowered his hand. The covered bowls disappeared behind the curtain.
+Mezzara passed her the char. “It took you four months to produce that sentence.”
 
-Talja’s eyes closed briefly. When they opened, she gave Mekko no smile and no promise. She shifted the bag higher and walked.
+“The sentence took four months. Other things happened meanwhile.”
 
-Every step tugged at the ready place behind his ribs. Mekko kept both feet flat. The guitar counted something slower than pursuit. Around him, strangers attended to their own hands, their own breathing, their own ancient advice. No other chair scraped.
+“The soap, for example.”
 
-Talja reached the entrance and lifted the latch. Cold air slipped over the bare tables. She did not look back again.
+“The soap happened today.”
 
-The door closed. Through wood and rain, Mekko heard her steps quicken: six, nine, twelve, then the turn toward the coach road. His body knew how little time the rule had cost him. It knew the angle of the roofs and how easily he could still make up the distance.
+Ceret reached for an olive from Dabria’s plate, and Dabria tapped the back of her hand away with two fingers. “Ask.”
 
-He stayed in the chair until the footsteps were gone.
+“May I have the olive you don’t want?”
 
-The next course waited in the kitchen. Beside the shuttered window, the guitarist kept playing, one low phrase carrying into the place where Talja’s steps had been.
+“No. But you may have this one.” Dabria selected another, apparently identical olive, and set it on Ceret’s plate.
+
+Mezzara leaned back while Linette replaced their water. “What about you, Ceret?”
+
+“What about me?”
+
+“We have supplied rooms, keys, poor chairs, soap, and a person who abuses tea. You’ve told us nothing.”
+
+“Nothing has happened.”
+
+“Did they fix the window over your sink?” Mezzara asked.
+
+“Yes. In May.”
+
+“And the damp patch?”
+
+“Dry. Mostly.”
+
+Dabria tucked one foot beneath her chair. “Did you move your bed away from the cold wall?”
+
+Ceret looked at her. “Last month.”
+
+“Does your shoulder hurt less in the morning?”
+
+“A little.”
+
+“And the basil?” Mezzara asked.
+
+“Dead.”
+
+Dabria clicked her tongue.
+
+“It was a weak plant.”
+
+“You said it had survived two winters.”
+
+“Then it was an old, tired plant.”
+
+“What did you put in the pot?”
+
+“Mint. My sister gave me a cutting.”
+
+“The one that tastes like pepper?”
+
+“That was the other mint. This one tastes like mint.”
+
+Mezzara waited while Dabria served herself another potato. “You were going to have supper with your sister on Thursdays.”
+
+“I do. When she isn’t working late. Her youngest has decided soup is an insult, so we eat a lot of bread.”
+
+“And the clarinet downstairs?” Dabria asked.
+
+“Upstairs. The boy knows six notes now.”
+
+“Last time it was four.”
+
+“The fifth was a difficult week.”
+
+They both laughed, and Ceret did too. She had called the months empty because no single event seemed large enough to set in the middle of the table. Yet Mezzara remembered the wall by her bed. Dabria remembered the boy’s four notes.
+
+“I’ve been leaving work early on Tuesdays,” Ceret said. “Not early. On time. I walk home by the long street and buy whatever fruit is cheapest.”
+
+“What was cheapest this week?” Mezzara asked.
+
+“Small red plums. Sour ones.”
+
+“You like those,” Dabria said.
+
+“I’d forgotten.”
+
+Joia returned to her stool. She tightened one string, played a chord, and looked toward the kitchen hatch. Linette lifted a hand to say she had heard. The next set began with a slower tune, low notes opening beneath a plain melody.
+
+At Ceret’s table, forks settled. Dabria wrapped both hands around her glass. Mezzara’s ears inclined toward the music, and the candle traced a narrow line along the dark fur of her cheek. Ceret listened without trying to decide what the tune was about. Joia repeated the melody, changed two notes, and let the last chord fade under the murmur of the room.
+
+During the applause, Linette offered them honey cakes. They agreed to one plate and then, after Linette looked at the cleaned fish, two. Dabria claimed she could eat only half and finished a whole cake before the second song.
+
+Joia played three more pieces. Between them came the sounds the music had made room for: a chair easing over the floor, rain ticking at the window, someone near the kitchen laughing into a napkin. Dabria’s tail curled loosely around one ankle. Ceret’s lay warm against the leg of her chair.
+
+When Joia finally set the guitar aside, the room’s conversations rose by degrees. Mezzara lifted her teacup and frowned into it.
+
+“I never finished telling you about the room,” she said.
+
+“You reached the cupboard,” Ceret said.
+
+“Barely. I didn’t tell you the measurements.”
+
+Dabria leaned closer. “How wide?”
+
+“Five and a half paces, not counting the alcove.”
+
+“Your paces or the landlord’s?” Ceret asked.
+
+“Mine. His were enormous and he kept stepping on the hem of his coat.”
+
+Dabria moved the candle toward the center of the table. “Say this is the window.”
+
+“That is the alcove,” Mezzara said. “The window is the sugar bowl.”
+
+“Then where’s the warm wall?” Ceret asked.
+
+Mezzara shifted the cups aside and laid one hand flat beside Ceret’s plate. “Here. The bed would go along it, and the table would face this way...”
