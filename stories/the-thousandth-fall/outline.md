@@ -2,46 +2,50 @@
 
 ## Story
 
-- Premise and central promise: Sakta, a monastery healer and undistinguished runner, discovers that self-healing while his body still bears a training load returns repaired tissue to that loaded state. Repeated exertion, repair, food, and sleep produce impossible adaptation. Within six weeks he can shift a loaded grain sledge, overtake falling stone, and sustain effort beyond any other monk. Deliver all three powers materially, then test them in the rescue caused by his thousandth weighted fall.
-- Focal pressure or attachment: Sakta wants an ability that belongs to him, not another infirmary patient's recovery, and wants route-wise Javo to witness the discovery as shared work. Success turns Javo's counting and cautions into services Sakta expects rather than evidence that can change the plan. Sakta must decide whether an extraordinary body excuses him from depending on another person's judgment.
-- Counterforce or complication: Healing erases warnings without replacing fuel, attention, or coordination. Sakta trusts absent pain over Javo's evidence of tremor and worn stone. Infirmarian Gatria will observe but not certify an unknown practice as safe. Fatigue, leverage, the ordinary cliff stair, and Sakta's misjudged force create the crisis; no rival or hostile authority is needed.
-- POV, distance, and information limit: Close third-person past through Sakta. Intimacy with heat, strain, balance, and repair makes discovery exhilarating. As healing outruns sensation, missed footing, displaced objects, faces, and delayed consequences become more reliable than pain. Sakta knows only his local faculty and cannot judge himself accurately from inside exertion.
-- Governing movement and time shape: A cumulative six weeks organized around selected counts—first tests, hundredth, five hundredth, nine hundred ninety-nine—rather than a smooth montage. Repeated returns to the sand yard and cliff stair alter Sakta's body and Javo's role. Slow into continuous time for the thousandth attempt and rescue; end in immediate recovery with training still possible under changed terms, not public proof or a moral speech.
-- Speculative rule or ordinary-world constraint: Sakta's living attention repairs fresh damage only in his own living body. Repair under load preserves that alignment; repetition plus ordinary nourishment and sleep accelerates strength, endurance, and speed. Healing cannot create breath, calories, water, salts, skill, or concentration, and may mask heat, tremor, and poor control. Lost focus ends active repair. Gear and monastery structures are ordinary, non-agentic matter.
+- Premise and central promise: Monk Rasden leaves a self-healing working open while moving, making each survived overload the pattern his body restores next. After 999 deliberate falls ratchet him into impossible power, a natural cliff-break drops a crowded bridge into Suncleft Gorge. His thousandth fall must save people beyond ordinary reach by combining absurd strength, unrivaled stamina, and insane speed.
+- Focal pressure or attachment: Rasden wants to find his limit and wants Palla to answer with challenge, not fear. She wants his achievement to matter beyond training but cannot ask him to risk himself for strangers.
+- Counterforce or complication: The spell cannot invent capability: Rasden must complete each harder exertion alive, follows one continuous effort, and heals only him. The collapsing bridge forces running, catching, carrying, and climbing into one action.
+- POV, distance, and information limit: Close third past through Rasden, intimate with breath, impact, alignment, and exhilaration. Palla remains external through dares, mistakes, calls, and reactions; no expert certifies the technique.
+- Governing movement and time shape: Compress one season around numbered falls and three benchmarks, then render the rescue minute by minute. Fall 999 ends training; disaster makes the thousandth attempt decisive action, recognition, and a wider horizon.
+- Speculative rule or ordinary-world constraint: Conventional self-mending restores the body's last intact pattern. Rasden withholds closure during exertion, so the spell updates “intact” after each completed overload, repairs its damage, and enables repetition. Stopping seals the gain; a new motion must be earned incrementally. This is a local living practice.
+- Dialogue promise: Competitive warmth, petty scorekeeping, breathless wonder, boasts that become true, astonished interruptions, and clipped rescue calls—not polished ethical argument.
+- Dialogic medium: Mainly face-to-face speech and shouted calls, supported by a knotted fall-count cord, pointing, laughter, missed responses, and immediate action.
+- Dialogue engine: Palla sets challenges; Rasden attempts them. During collapse she sees victims he cannot while only he can reach them, so each call changes route, risk, and trust.
 
 ## Voice
 
-- Narrative texture: Accelerate through counted repetitions, then widen around touch, footing, breath, heat, and altered scale; let chores register growth better than numerical exposition. As inner signals fail, notice external consequences without leaving Sakta's POV.
-- Conversational texture: Practical training talk mixes with meals, laundry, schedules, and route gossip. Disagreement grows through ignored questions and changed instructions, not polished debate or constant wit.
-- Rhetorical ownership: Sakta reasons by sequences and repeatable thresholds; Javo from terrain, wear, and discrepancies; Gatria through comparisons across examinations and conditional permissions.
-- Pressure behavior: Effort makes Sakta overprecise before replies shorten or miss questions. Javo reduces speech to directions during rescue. Gatria becomes direct but waits for an actual response.
-- Anti-default: Avoid the triumphant montage, invulnerable stoicism, interchangeable limit-breaking slogans, sage lecture, and closing lesson about true strength.
+- Narrative texture: Drive attention through footing, air pressure, weight, heartbeats, and distance. Sentences accelerate in runs and falls, then open when new capacity becomes effortless. Numbers mark milestones, not clinical data.
+- Conversational texture: Training talk overlaps with laughter, bad bets, needling, and plain amazement. Rescue speech contracts to names, locations, counts, and involuntary reactions; survivors never become a chorus.
+- Rhetorical ownership: Rasden owns bodily comparisons, counts, literal listening, and earnest boasts. Palla owns exaggeration, affectionate mockery, social nerve, mistakes, and undisguised awe. Pilgrims contribute fragmentary fear.
+- Pressure behavior: Rasden grows more delighted and fluent under strain until rescue demands spare breath. Palla's jokes become sharp calls, then ragged relief. Neither pauses for theory or correction.
+- Relationship movement: Rasden wants belief but cannot request admiration; Palla wants trust but cannot ask for a fatal-looking leap. Training builds trust; rescue makes her calls decisive.
+- Anti-default: No articulate-healer ethics debate or procedural solution. Keep the limit kinetic, humor warmly competitive, power exhilarating, and the ending on mastery and farther possibility.
 
 ## Beats
 
-1. While carrying an infirmary cauldron, Sakta heals a strained wrist without releasing the load and feels repair settle around it. Controlled yard tests, not major injury, show the next repetition becoming easier. Javo spots the change; Gatria distinguishes evidence from safety.
-2. Sakta and Javo set padded falls, stair circuits, carries, meals, sleep, and stop conditions. Coordination makes early gains enjoyable. By the hundredth fall, Sakta exceeds his build, while thirst, hunger, heat, and required attention reveal costs.
-3. Returns at five hundred and later counts make power concrete: Sakta shifts a team-sized grain sledge, repeats the full stair circuit without rest, and crosses safe ground too quickly for Javo's intermediate mark. Preserve wonder; strength is not itself the error.
-4. Sakta heals through tremor and treats Javo's reports as interruptions. Gatria finds coordination lag and conditions supervision on answered checks and shared stop calls. Sakta verbally agrees but adds private work, making his count and symptoms unreliable.
-5. At nine hundred ninety-nine, Javo sees a tread move and refuses another attempt there. Sakta mistakes absent pain for control. His accelerated thousandth landing dislodges the worn edge; a slab catches Javo on the lower switchback.
-6. Sakta outruns debris, arrests the slab with absurd strength, and holds it through sustained healing. Masked depletion makes fine movement dangerous, so he must follow Javo's terrain directions and maintain a less impressive position until Gatria arrives with ordinary rope and leverage.
-7. Sakta cannot heal away dehydration, shaking, responsibility, or Javo's minor injury. He accepts food, rest, and an honest recount before proposing another test. Javo may decline or redefine partnership; stop on a practical recovery decision that preserves power and price without explaining them.
+1. On a Midsky Cloister stair run, Rasden begins a self-mend after falling but answers Palla's taunt before closing it. His next leap lands easily. A higher drop confirms that motion inside the unfinished spell becomes his new intact pattern. Palla knots fall one and demands better.
+2. Compress a season of delighted increments. Rasden hoists a laden grain wagon that twelve oxen stalled and walks it uphill. He runs from sunrise to sunrise while Palla changes mounts three times and the third horse tires first. He crosses half a mile and takes a target pennant before her arrow reaches it. Falls rise from wall to tower to gorge shelves; her competitive disbelief becomes awe.
+3. On fall 999, Rasden connects a high-shelf landing, uphill sprint, and one-handed bell lift without closing the mend. He and Palla anticipate a ceremonial thousandth at dawn. First, a blameless rock shelf shears away and tears the Pilgrim Span loose beneath a spring caravan.
+4. Rasden reaches Suncleft Gorge before the echoes finish, catches a severed rope, arrests the bridge deck, and repeatedly carries pilgrims up the cliff without slowing. Palla runs the rim, calling victims he cannot see. Keep the saved count and pace visible.
+5. The last anchorage fails beneath several children in a bridge cradle. Rasden chooses the drop as fall 1,000, overtakes them along collapsing planks and ledges, catches the full weight, and carries it up the gorge wall without breaking his kinetic chain. Speed wins interception, strength reverses the fall, and stamina sustains climb and healing.
+6. Survivors answer with astonished recognition, not debate. Palla knots the thousandth fall and claims her part as witness and caller. Rescue complete, Rasden tests his new speed toward the distant mountains as she names a farther challenge.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Sakta | new | Focal monk and self-healer; no conflicting reuse found. |
-| Javo | new | Route-wise training and rescue partner; no conflicting reuse found. |
-| Gatria | new | Infirmarian; no exact, alias, close-spelling, phonetic, or confusing reuse found. |
+| Rasden | new | Focal monk who discovers the open self-mend. |
+| Palla | new | Cliff courier, competitive friend, fall-counter, and rescue caller. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| None | none | No named place proposed. |
+| Midsky Cloister | new | Rasden's mountain monastery and training base. |
+| Suncleft Gorge | new | Canyon of the rock collapse and rescue. |
+| Pilgrim Span | new | Crowded rope bridge torn loose by the cliff-break. |
 
 ## Continuity
 
-- Canon used: Only living beings use magic; Sakta alone supplies this self-healing. System labels are cultural, and cost is not a universal fuel. Keep training and rescue injuries non-graphic.
-- Boundaries and unknowns: Rates and limits belong only to Sakta, not all healing or bodies. Monastery, gear, rope, and stairs remain nonliving and non-agentic. Establish no connection to another system, limitless stamina, unconscious healing, or healing others.
+- Canon used: Deep time permits recurring fantasy civilizations and local magic-active histories. Place this undated society before the No More Magic extinction.
+- Boundaries and unknowns: The local open mend is unrelated to the six terminal systems, joined-sky magic, or the canonical personal scar-lattice. Establish no universal healing rule, later survival, exact era order, or recurrence of proposed nouns.
