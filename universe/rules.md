@@ -2008,3 +2008,52 @@
     exact force rating, universal consent rule, building personhood, reliable
     obedience, or relationship to another fungus, colony, cask, smoke, oak,
     restoration, or magical system.
+
+## Unnamed ink-channel birth-mark system and hidden resistance
+
+- Status: LOCKED
+- Summary: In one unnamed magic-active society, living people are born with
+  ink-like channel patterns that shape individual faculties; one person long
+  believed unmarked has black-violet channels visible under ultraviolet light,
+  and one bounded comparison supports their deliberate resistance to a direct
+  tattoo-mediated warming effect.
+- First established: stories/a-darkness-written-under-skin/story.md; locked by
+  explicit user decision, 2026-08-25
+- Aliases: birth tattoo; birth mark; hidden ink channels
+- Notes:
+  - Observed birth-mark fluids include soot, amber resin, red lake, and metal
+    suspended in oil. The fluid and channel pattern vary between people, and
+    the pattern shapes the living user's faculty; this does not establish a
+    complete taxonomy, power ceiling, or inheritance rule.
+  - The focal adult's mother bears red-lake whorls associated with keeping dyes
+    from bleeding into one another. Their younger brother bears amber-resin
+    loops and can send warmth directly through touch or warm an ordinary metal
+    object. These are individual observations, not universal behaviors of red
+    lake, resin, dye, or heat.
+  - A black-light inspection lamp revealed branching black-violet channels
+    beneath the focal adult's wrists and forearm. The pattern remained after a
+    water wipe and behind clear glass, disappeared under ordinary light, and
+    did not establish that ultraviolet light awakened, powered, or changed it.
+  - In one comparison, the brother's direct warmth entered while the focal
+    adult remained receptive. During a second contact they deliberately held
+    it out, no warmth crossed, and the visible channels tightened around the
+    contact points. A metal cup warmed by the same faculty still transferred
+    ordinary heat to them afterward.
+  - The comparison supports only conditional resistance to that directly
+    mediated effect. Its breadth, reliability, anatomy, cost, safety, and
+    interaction with any other faculty remain unresolved; it does not suppress
+    another user's mark, erase created physical effects, or prevent ordinary
+    injury.
+  - A planned artificial-ink graft would have placed shallow channels in tissue
+    believed empty and, if accepted over months, supplied narrow control over a
+    chosen dye color. Discovery of existing channels made that specific graft
+    unsafe pending consultation because crossing behavior had not been
+    assessed.
+  - Earlier failed naming oil, pain-working, and childhood warming are
+    retrospective possibilities rather than confirmed demonstrations. The
+    registry, clinic, school sorting, graft practice, and inspection procedure
+    establish no universal institution or standard outside this society.
+  - The living people are the faculty users. Marks, fluids, lamp, cup, graft
+    tools, forms, and ordinary ink have no established agency, and this system
+    has no established relationship to another tattoo, scar, ink, light,
+    channel, lattice, graft, resistance, or body-based system.

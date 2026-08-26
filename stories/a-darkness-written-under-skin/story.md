@@ -2,7 +2,7 @@
 title: "A Darkness Written Under Skin"
 slug: "a-darkness-written-under-skin"
 created: 2026-08-06
-canon: false
+canon: true
 ---
 
 # A Darkness Written Under Skin
