@@ -1185,15 +1185,6 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
     """Render a continuous vertical era signal with compact story-name lists."""
     stories_by_slug = {story.slug: story for story in catalog.stories}
     chapters_by_id = {chapter.id: chapter for chapter in timeline.chapters}
-    confidence_order = ("fixed", "inferred", "speculative", "unresolved")
-    confidence_counts = {
-        level: sum(
-            timeline.story_confidence.get(story.slug, "unresolved") == level
-            for story in catalog.stories
-        )
-        for level in confidence_order
-    }
-    total = len(catalog.stories)
 
     epoch_specs = (
         (
@@ -1577,17 +1568,8 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
         f'</div><div class="signal-hero-graphic">{hero_artwork}</div></section>'
         '<nav class="signal-nav" aria-label="Timeline epochs">'
         f'<div class="signal-nav-epochs">{"".join(nav_links)}</div>'
-        '<div class="signal-nav-tools"><div class="signal-filter" role="group" aria-label="Filter by placement evidence">'
-        f'<button type="button" data-timeline-filter="all" aria-pressed="true">All <span>{total}</span></button>'
-        f'<button type="button" data-timeline-filter="fixed" aria-pressed="false">Fixed <span>{confidence_counts["fixed"]}</span></button>'
-        f'<button type="button" data-timeline-filter="inferred" aria-pressed="false">Linked <span>{confidence_counts["inferred"]}</span></button>'
-        f'<button type="button" data-timeline-filter="speculative" aria-pressed="false">Candidate <span>{confidence_counts["speculative"]}</span></button>'
-        f'<button type="button" data-timeline-filter="unresolved" aria-pressed="false">Working fit <span>{confidence_counts["unresolved"]}</span></button>'
-        '</div><label class="signal-search"><span>Find a story</span>'
-        '<input type="search" data-timeline-search placeholder="Search titles" autocomplete="off"></label>'
-        '<p class="signal-result"><strong data-visible-total>'
-        f'{total}</strong> stories in view</p><button type="button" data-collapse-eras>Close era indexes</button>'
-        '</div></nav>'
+        '<div class="signal-nav-tools"><button type="button" data-collapse-eras>Close era indexes</button></div>'
+        '</nav>'
         '<div class="signal-legend" aria-label="Placement evidence legend">'
         '<strong>Placement evidence</strong>'
         '<span class="marker-fixed">Fixed anchor</span><span class="marker-inferred">Relative link</span>'

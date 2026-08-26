@@ -1032,6 +1032,10 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn('class="signal-worldline"', rendered)
         self.assertIn('class="signal-skip-link"', rendered)
         self.assertIn("Close era indexes", rendered)
+        self.assertNotIn("data-timeline-filter", rendered)
+        self.assertNotIn("data-timeline-search", rendered)
+        self.assertNotIn("data-visible-total", rendered)
+        self.assertNotIn("stories in view", rendered)
         self.assertIn("Fixed anchor", rendered)
         self.assertIn("Relative link", rendered)
         self.assertIn("Compatible candidate", rendered)
@@ -1166,10 +1170,9 @@ class StorySystemTests(unittest.TestCase):
                 (output / "index.html").read_text(encoding="utf-8"),
             )
             self.assertIn('class="story-grid"', (output / "index.html").read_text(encoding="utf-8"))
-            self.assertIn(
-                f"<strong data-visible-total>{len(catalog.stories)}</strong>",
-                (output / "timeline.html").read_text(encoding="utf-8"),
-            )
+            timeline_page = (output / "timeline.html").read_text(encoding="utf-8")
+            self.assertNotIn("data-timeline-filter", timeline_page)
+            self.assertNotIn("data-timeline-search", timeline_page)
 
     def test_rendering_places_cover_below_title_and_prompt(self):
         story = build.load_catalog().stories[0]

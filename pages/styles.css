@@ -883,20 +883,12 @@ body.timeline-body {
 .signal-nav-tools {
   align-items: center;
   border-top: 1px solid var(--worldline-subtle-line);
-  display: grid;
-  gap: 0.55rem;
-  grid-template-columns: minmax(0, 1fr) minmax(9rem, 13rem) auto auto;
+  display: flex;
+  justify-content: flex-end;
   margin-top: 0.55rem;
   padding-top: 0.55rem;
 }
 
-.signal-filter {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-}
-
-.signal-filter button,
 .signal-nav-tools > button {
   background: transparent;
   border: 1px solid var(--signal-line);
@@ -907,50 +899,6 @@ body.timeline-body {
   font-size: 0.65rem;
   min-height: 2.25rem;
   padding: 0.45rem 0.72rem;
-}
-
-.signal-filter button[aria-pressed="true"] {
-  background: var(--worldline-control-active);
-  border-color: var(--worldline-control-active);
-  color: var(--worldline-control-active-ink);
-  font-weight: 800;
-}
-
-.signal-search {
-  display: grid;
-  gap: 0.2rem;
-}
-
-.signal-search span {
-  color: var(--signal-muted);
-  font-size: 0.57rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.signal-search input {
-  background: var(--worldline-input-bg);
-  border: 1px solid var(--signal-line);
-  border-radius: 0.45rem;
-  color: var(--signal-ink);
-  font: inherit;
-  font-size: 0.72rem;
-  min-height: 2.1rem;
-  min-width: 0;
-  padding: 0.4rem 0.6rem;
-  width: 100%;
-}
-
-.signal-result {
-  color: var(--signal-muted);
-  font-size: 0.66rem;
-  margin: 0;
-  white-space: nowrap;
-}
-
-.signal-result strong {
-  color: var(--signal-ink);
 }
 
 .signal-legend {
@@ -1622,10 +1570,6 @@ body.timeline-body {
   top: -0.7rem;
 }
 
-.signal-era.is-filter-empty {
-  opacity: 0.25;
-}
-
 .signal-continuation {
   align-items: center;
   background:
@@ -1760,16 +1704,8 @@ body.timeline-body {
     max-width: 48rem;
   }
 
-  .signal-nav-tools {
-    grid-template-columns: minmax(0, 1fr) minmax(9rem, 12rem) auto;
-  }
-
   .signal-nav-epochs {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .signal-result {
-    display: none;
   }
 }
 
@@ -1820,23 +1756,6 @@ body.timeline-body {
 
   .signal-nav-epochs a small {
     font-size: 0.49rem;
-  }
-
-  .signal-nav-tools {
-    grid-template-columns: 1fr auto;
-  }
-
-  .signal-filter {
-    grid-column: 1 / -1;
-  }
-
-  .signal-filter button {
-    flex: 1 1 auto;
-    padding-inline: 0.55rem;
-  }
-
-  .signal-search {
-    min-width: 0;
   }
 
   .signal-nav-tools > button {
@@ -1985,10 +1904,7 @@ body.timeline-body {
 }
 
 @media print {
-  .signal-nav,
-  .signal-search,
-  .signal-filter,
-  .signal-nav-tools > button {
+  .signal-nav {
     display: none;
   }
 
