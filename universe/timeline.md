@@ -1334,3 +1334,45 @@
      coordinate, placement before the No More Magic extinction or after the
      joined-sky reawakening, and relationship to every other established person,
      place, event, or magical system remain unresolved.
+
+## Undated ultraviolet birth-mark discovery and canceled graft
+
+- Status: LOCKED
+- Summary: During one pre-dawn graft preparation, ultraviolet light revealed a
+  hidden birth mark in a person believed unmarked for twenty years; a bounded
+  comparison indicated conditional resistance to one tattoo-mediated effect,
+  and the scheduled graft was canceled pending consultation.
+- First established: stories/a-darkness-written-under-skin/story.md; locked by
+  explicit user decision, 2026-08-25
+- Aliases: black-light discovery; hidden birth-mark discovery
+- Notes:
+  1. On the night before an artificial-ink graft, an unnamed practitioner tested
+     the planned vial in a family dye-workroom while the focal adult, their
+     mother, and their younger brother prepared for the next morning's trip.
+  2. The brother's inspection lamp accidentally cast ultraviolet light across
+     the focal adult's wrist, revealing black-violet branching channels. Water,
+     clear glass, and examination of the other wrist and elbow supported a
+     subsurface pattern that remained invisible in ordinary light.
+  3. The practitioner canceled the scheduled graft because it had been mapped
+     for tissue believed empty and the existing channels created an unassessed
+     crossing risk. The focal adult had chosen and saved for that graft, so its
+     cancellation remained a loss rather than proof that they had never needed
+     or wanted it.
+  4. The brother first warmed the practitioner's hand and then the focal adult's
+     receptive hand. In a second, lamp-visible contact the focal adult
+     deliberately refused the warmth; no warmth crossed, and they stopped a
+     requested repetition. A cup the brother warmed separately still passed
+     ordinary heat to the focal adult.
+  5. The mother wanted to take the lamp and old records to the registry, while
+     the focal adult refused wider disclosure that night. The practitioner
+     recorded only suspected existing channels and a contraindicated graft,
+     made no claim about the faculty or lamp, and preserved the appointment as
+     a private consultation.
+  6. The discovery remained inside the locked workroom before gray morning.
+     Nothing established another hidden-mark case, a public correction, the
+     faculty's wider limits, a completed graft, or a later family resolution.
+  7. The event belongs to magic-active history and therefore not to the
+     perfectly magicless Long Dark. Its civil date, Galactic Cycle coordinate,
+     placement before the No More Magic extinction or after the joined-sky
+     reawakening, and relationship to every other established person, place,
+     event, or magical system remain unresolved.
