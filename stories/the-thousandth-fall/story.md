@@ -1,420 +1,345 @@
 ---
 title: "The Thousandth Fall"
 slug: "the-thousandth-fall"
-created: 2026-08-06
+created: 2026-08-25
+created-at: 2026-08-25T22:35:52-04:00
 canon: false
 ---
 
 # The Thousandth Fall
 
-The infirmary cauldron was halfway off its hook when Sakta's right wrist gave a small, hot pull.
+Rasden discovered the wrong way to heal himself because Palla would not let him finish doing it properly.
 
-He stopped. The cauldron hung from both hands, sloshing barley water close to the rim. Across the kitchen, steam filmed the windows and turned three novices into pale shapes among the drying cloths. If he called for help, someone would come. That was the sensible procedure: lower the load, cool the strain, mend only when the muscle had settled into its proper rest.
+He had missed the turn on the Midsky Cloister stair and gone shoulder-first into the rain trough. Water slapped over the tiles. His left arm hung numb, his ankle had folded somewhere beneath him, and Palla leaned over the rail above with the expression of a woman who had just won something.
 
-Instead Sakta held on.
+“Seven landings,” she called. “You made seven.”
 
-He put his attention into the wrist. Healing was easier with his eyes shut, but the cauldron made that unwise. He found the strain as a roughness inside himself and worked across it, fiber by fiber, while the iron handle kept pulling down.
+Rasden pushed wet hair out of his eyes with his good hand. “There were eight.”
 
-Warmth gathered under his skin. The roughness smoothed.
+“The trough isn't a landing.”
 
-When the warmth faded, the cauldron was still heavy. Yet his wrist no longer felt like a wrist enduring the handle. It felt built around the weight.
+“Then why am I on it?”
 
-Sakta carried the cauldron to the long table without spilling a drop.
+Laughing hurt his ribs. He pressed two fingers below his breastbone and drew the opening breath of a self-mend.
 
-Javo came in with a bundle of damp route flags over one shoulder. He stopped where Sakta had stopped.
+The working found the last sound shape of him: shoulder seated, ankle straight, ribs without their bright cracks. That was how a mend worked. It held the body's last whole pattern and persuaded blood, bone, and breath to return to it. Warmth packed his shoulder. His ankle pulled straight with a deep, unpleasant click.
 
-"You left heel marks."
+All that remained was the closing breath.
 
-"I was carrying this."
+Palla vaulted the rail, dropped beside him, and plucked his sandal from the trough. “You owe me three honey cakes.”
 
-"You carry it every third day. Those are deeper."
+“Two.” Rasden rose to take it from her.
 
-Javo had a way of noticing the complaint a floor made after everyone else had crossed it. He set down the flags and pressed a thumb into one heel mark, though there was nothing to learn from cooling stone that he did not already know.
+He had answered before closing the mend.
 
-Sakta flexed his wrist. "It pulled. I healed before I set the pot down."
+The warmth should have faded. Instead it moved with him, quick and curious, down his thighs and into the foot he planted on the tiles. Rasden stopped. The working stopped with him, waiting.
 
-"And?"
+“What?” Palla asked.
 
-"And it stopped pulling."
+“Nothing yet.”
 
-"That is what healing does."
+He jumped from the trough to the stair rail, a distance he usually crossed with an undignified scramble. His bare foot struck the narrow stone. His calf tightened, his ankle wobbled, and the open mend flashed through both, not dragging them back to their earlier state but holding the landing he had just survived. When he sprang to the next rail, the motion came cleanly. Easier.
 
-"Not like this." Sakta hooked his fingers under one handle and lifted. The cauldron rose one-handed, barley water rolling toward him. He caught it with the other hand before the novices could shout. "Did you see?"
+Palla's grin went crooked. “Do that again.”
 
-Javo looked first at the cauldron, then at the scrape its foot had made on the table. "I saw you nearly feed the floor."
+He did. Then he jumped two rails.
 
-But he smiled.
+They moved to the laundry roof, where the drop was high enough to make Rasden's stomach float. He opened a fresh mend, stepped off, and landed in the herb bed with both feet under him. Pain flared up his shins. The spell followed it, learned the shape of the impact, and left him standing.
 
-They began in the sand yard after the evening bowls were washed.
+On the second drop, the pain was less. On the third, he barely bent his knees.
 
-The first test was too small for Gatria to forbid. Sakta held a stone at arm's length until the muscles in his shoulder trembled, healed the faint damage without lowering it, rested, ate half a heel of bread, and tried again. Javo counted heartbeats and moved a chalk mark each time Sakta's elbow sagged.
+Palla pulled a courier's cord from her belt and tied the first knot.
 
-On the fourth hold, Sakta's arm stayed level beyond the third mark.
+“One,” she said.
 
-On the seventh, Javo stopped smiling.
+Rasden looked up at the bellhouse roof. “That hardly seems worth counting.”
 
-"Again," Sakta said.
+“Good. Impress me.”
 
-"You said seven."
+He tried the bellhouse next and discovered the first limit by arriving on his back. The mend repaired him, but it repaired him to the last landing he had actually completed. It would not pretend a failure had been a success. It could not invent strength, quickness, or balance. It could only accept what his living body had done and make that achievement the new whole.
 
-"Seven was the comparison. Eight tells us whether the comparison repeats."
+So they went higher by honest increments. The right way to use a self-mend was to remain still and let yesterday's body rescue today's. Rasden's way was to leave the working open and give it a better body to remember.
 
-"Eight tells us you can change a number while I'm holding the chalk."
+By the end of the afternoon, Palla's cord held twelve knots. By sunset, Rasden had stopped hearing the ground as a warning. It had become an answer coming up to meet him.
 
-They took the stone to Gatria.
+Over the next season, they learned that the spell remembered motions, not wishes. A harder fall taught him to fall. It did nothing for his arms until Palla began piling monastery grindstones on a carrying bar and Rasden began lifting them, one more each time, while the mend listened. Running required its own progression: stair, courtyard, ridge road, mountain circuit. Every gain had to be completed alive. Every new effort began just beyond the last one.
 
-The infirmarian examined Sakta beside a lamp, comparing one shoulder with the other, then his pulse before and after a careful healing. Gatria's hands were cool and unhurried. She asked him to touch each fingertip to his thumb, then to catch a dropped linen twist. He missed the twist the first time.
+They loved it.
 
-"Compared with this morning, the muscle is thicker," she said. "Compared with your left shoulder, it is warmer and less exact."
+At one hundred falls, Rasden stepped from the cloister wall and landed hard enough to crack the paving beneath his heels. Palla inspected the cracks, then deducted two falls because he had used the same paving stone twice.
 
-"Because I trained it."
+“The ground doesn't care,” he told her.
 
-"Possibly. If you test it tomorrow and the difference remains after food and sleep, you have evidence. If you test it tonight until it fails, you have enthusiasm."
+“The ground doesn't keep the cord.”
 
-"Is it dangerous?"
+At three hundred, he could drop from the bellhouse, rebound from the courtyard, and clear the outer wall without touching the stair between. At six hundred, he began using the quarry shelves below the cloister. Palla would stand at the top and throw pebbles after him. He always reached the bottom first.
 
-Gatria waited.
+Strength announced itself on the east road after three days of rain. A grain wagon had sunk to its hubs on the uphill turn. Twelve oxen leaned into the traces until their flanks shone, and the wagon did not move the width of a fingernail.
 
-Sakta realized she was waiting for him to meet her eyes. He did.
+Palla looked from the stalled team to Rasden. “Absolutely not.”
 
-"I don't know," she said. "That is different from no."
+“You brought me here.”
 
-By morning, the difference remained.
+“To help push. In a humble, monk-like manner.”
 
-They made rules because Javo liked routes and Sakta liked sequences. The sand yard only. No drops higher than Sakta's knee until the twentieth fall. Padded sash around the ribs. Water every ten. Food every thirty. Javo called the stops. Gatria examined him after each set and could end the work.
+The drovers unhitched the oxen. Rasden crouched under the wagon's rear beam, found his grip, and opened a mend. Grain filled the bed higher than his head. The iron-rimmed wheels were sunk halfway into black mud.
 
-Sakta wrote the rules in the back of the laundry tally, below six missing pillow covers and a note about soap.
+He lifted.
 
-The falling was Javo's idea. Muscles worked differently when they caught a body all at once. He built a low platform from ordinary grain pallets and spread sand beneath it twice as deep as necessary. Sakta stepped off wearing two flour sacks crossed over his chest, landed bent-kneed, and held the load while he repaired the small shocks in his calves, thighs, back, and feet.
+The first pull tore every muscle across his back. The working swept through the damage, preserving the completed inch. He reset his feet and lifted again. Mud released the wheels with four enormous sucking sounds. The whole laden wagon rose until daylight showed beneath every wheel.
 
-The first fall hurt less than carrying the cauldron.
+Rasden walked it forty paces uphill and set it on dry road.
 
-The second felt cleaner.
+No one spoke. Even the oxen watched him.
 
-At the tenth, his landing drove neat hollows into the sand.
+Palla recovered first. “You tilted it.”
 
-"Water," Javo said.
+“Did I?”
 
-"At twelve. Ten was barely a set."
+“Terribly. Grain could've shifted.”
 
-"The agreement says ten."
+“Take a knot away.”
 
-"The agreement also says you call stops based on what you see. What do you see?"
+“Strength isn't falls. I keep standards.”
 
-Javo pointed to the dark crescent under Sakta's collar. "Sweat. Drink."
+Stamina took longer to become ridiculous. Rasden ran from one sunrise to the next along the ridge circuit, never letting the mend close. Palla rode beside him to count the laps. She changed horses at noon, changed again at moonrise, and borrowed a third before dawn. The third horse was blowing foam when the sun returned. Rasden was still taking the uphill turn at the same pace as the first lap.
 
-Sakta drank.
+Palla swayed in the saddle. “If you say ‘again,’ I will push you off a mountain.”
 
-He had spent six years in the infirmary watching other people's recoveries become celebrations that walked away without him. A potter's fingers closed around clay again. A fevered child demanded pears. A courier tested a healed ankle in the corridor until Gatria chased her outside. Sakta loved those departures. He did. But afterward he folded the abandoned blankets and scrubbed the cups, restored to the same ordinary body with which he had arrived.
+“Would you count it?”
 
-This stayed.
+“No.”
 
-At the hundredth fall, the sacks no longer dragged him forward. He landed so lightly that Javo crouched to inspect the sand.
+He ran another lap while she thought of a worse answer.
 
-"The right hollow is longer," Javo said.
+For speed, Palla planted a red pennant at a target half a mile across the high meadow. She carried the strongest courier bow and a flight arrow fletched in white so Rasden could not claim he had lost sight of it.
 
-"By a finger."
+“You leave when I loose,” she said. “Not when I breathe. Not when I blink. When the string speaks.”
 
-"Two. And the near pallet has started to tilt."
+“You blink loudly.”
 
-"Then we turn it. Ten more on the other side, and we see if the hollow follows me or the wood."
+The bow snapped.
 
-"After supper."
+Rasden drove one foot into the earth. The meadow flattened into a green roar. Wind crushed his robe against his chest, then lost hold of it. He reached the target, tore free the red pennant, and turned while Palla's arrow was still a white fleck climbing through the blue. It struck the straw butt as he passed the halfway stone on his return.
 
-"Nine first. One completes the set."
+He stopped beside her with the pennant streaming from his fist.
 
-Javo held out the water dipper.
+Palla stared at the target, then at him. “I blinked.”
 
-Sakta's annoyance vanished when he tried to take it. His fingers closed late, and water splashed down both their sandals.
+“Loudly.”
 
-Hunger came with an edge sharp enough to make the dining hall smell painful. Sakta ate two bowls of lentils, three pieces of flatbread, and Javo's untouched turnip before noticing whose plate it had come from.
+She hit him with the bowstring cap. She was laughing too hard to make it hurt.
 
-"You don't like turnips," Sakta said.
+The cord filled, and Palla retied its single knots into tens and its tens into hundreds. She miscounted twice, accused Rasden once, found both missing knots in her own work, and refused to apologize. Nine hundred became nine hundred and fifty. They moved their falls to the gorge shelves where cloud shadow passed below their feet.
 
-"I was saving that one to dislike later."
+Fall nine hundred and ninety-nine began on the highest shelf above Midsky Cloister.
 
-Sakta pushed half a pear across the table. Javo accepted the peace offering and then stole the other half while Sakta was drinking.
+“Make this one ugly,” Palla said. She stood far below on the bell terrace, the counting cord wrapped twice around her wrist.
 
-The rules grew. Salt in the water. Two rest days in every seven. No healing through dizziness. No stair training after rain. Sakta added columns to the laundry tally until the monastery had a better record of his calves than its sheets.
+Rasden stepped into open air.
 
-By the fifth week and the five hundredth fall, they needed a higher platform and six sacks.
+For three long breaths there was only the plunge, robe snapping, mountain turning around him. He struck the terrace in a low crouch. Stone burst outward in a ring. Before the debris landed, he was running uphill. He crossed the cloister stairs, circled the bellhouse, caught the great bronze bell one-handed beneath its rim, and lifted it clear of its timber cradle.
 
-The change announced itself most clearly during chores. A grain sledge lost a wheel pin in the lower storehouse, and four monks stood around it arguing about whether to unload the winter barley. Sakta crouched, put his shoulder under the rail, and lifted. The runners cleared the floor.
+The clapper gave one soft, astonished note.
 
-Nobody spoke until Javo slid the pin back into place.
+Rasden set the bell down as gently as a cup. The mend remained open inside him, following fall into sprint into lift as one unbroken effort.
 
-"Set it down," Javo said.
+Palla held up the new knot. “Nine hundred and ninety-nine.”
 
-Sakta did, gently. Wonder ran through him brighter than healing heat. The sledge had been heavy, yes, but heavy had become a fact he could move through rather than an answer.
+“You're sure?”
 
-That evening he ran the cliff stair, all seven switchbacks from the herb terraces to the upper bell, came down, and ran it again. Route runners who managed three ascents without a pause bragged about it over supper. On the fifth circuit Javo sat on the laundry step to continue counting. On the ninth, Sakta's legs remained strong, his breath still arriving in measured pulls. He could repair the work almost as quickly as his muscles made it.
+“I could untie one.”
 
-His mouth, however, had gone dry enough that his tongue caught on his teeth.
+He began jogging circles around her. If he came fully to rest, the working would settle around what he had already achieved. He wanted the thousandth fall to complete the same great sentence, from the high shelf to whatever dawn gave them.
 
-"Stop," Javo called.
+Palla walked backward to stay in front of him. “At sunrise, the south face.”
 
-"One circuit. Then water."
+“Too easy.”
 
-"Your left foot is clipping the inner edges."
+“In the dark?”
 
-"Not on the ascent."
+“Better.”
 
-"Both descents. The fourth landing has a raised seam."
+“Fine. Blindfolded.”
 
-Sakta was already running. He heard the last sentence as pieces separated by his own footfalls.
+“Now you're trying.”
 
-He cleared the seam. He cleared the next three steps. On the lower turn, his left sandal scraped stone exactly where Javo had predicted.
+Rasden completed ten more circles. The bell stood quiet in its cradle, and Palla had begun proposing increasingly foolish blindfolds, when a sound much larger than bronze rolled across the mountains. Rasden turned.
 
-Sakta finished the circuit anyway.
+Two ridges away, the western wall of Suncleft Gorge split along a water-dark seam. Spring melt had worked deep into the stone; now a shelf the size of a village square peeled loose under its own weight. It fell in a pale, grinding sheet. The western anchorage of the Pilgrim Span vanished with it.
 
-Gatria compared his pulse with the old records and made him follow her finger with his eyes. "Your recovery is faster. Your attention is not. If you answer checks and obey either person's stop call, I will observe the next week. If you argue while moving, I won't."
+The bridge was crowded. For one suspended instant Rasden saw the caravan against the sky: bright packs, walking staffs, adults reaching for children. Then the far end dropped. The span folded into the gorge.
 
-"I can stop arguing while moving."
+Palla shouted his name, but Rasden was already gone.
 
-"That was not the condition."
+The road to Suncleft was two steep miles. He crossed it before the first crash finished echoing. Trees hammered past. A mule on the approach threw up its head at the thunder of his feet, and then he was at the eastern anchorage as the last main rope tore through its stone guide.
 
-He looked at Javo. Javo was rubbing chalk dust out of the cracks in his hand.
+Rasden caught it.
 
-"Answer checks," Sakta said. "Shared stops. Seven days."
+The rope burned through both palms and hauled him to the lip. Forty yards of timber deck swung down with a caravan tangled across it. He saw the cliff rushing up to meet them and planted one foot.
 
-Gatria waited until he nodded.
+The stone beneath it shattered. His knee bent, his shoulder opened with a hot internal rip, and the mend flooded every break. Rasden pulled. The bridge stopped a man's height from smashing into the eastern wall.
 
-For two days he kept the terms exactly.
+For a heartbeat it hung from his hands and the one surviving main rope. Then he dragged the whole span upward until its lower decking struck a broad sloping ledge. Timber shrieked. The ledge held. Rasden threw the rope he had caught around its scarred stone horn and pulled until the fibers locked. Between the two eastern ropes and the ledge, the ruined span held.
 
-On the third morning, Javo left before dawn to replace route flags above the goat path. Sakta meant only to test whether slow falls demanded less concentration. Twelve became twenty because his pulse stayed even. At twenty, he added a sack. At twenty-seven, the breakfast bell rang.
+Palla arrived on a lathered horse, flung herself from the saddle, and skidded to the rim. “Forty-seven!” she gasped.
 
-He entered twenty in the tally, then stared at the number. The difference was only seven. Seven did not alter the next threshold. It merely spared Javo a discussion about work already done.
+“People?”
 
-He left the number where it was.
+“No, turnips. Yes, people. I think. The bridge moved.”
 
-At six hundred, Sakta crossed the safe ground between Javo's two chalk marks before Javo could call the intermediate time.
+The ruined span hung almost vertically against the cliff. Pilgrims clung to planks, side netting, and one another. Rasden could have hauled all of it higher, but arms and ankles were threaded through torn ropes. His mend healed only him. One hard jerk would save the bridge and kill the people on it.
 
-"Again," Sakta said, laughing.
+He ran down the cliff.
 
-Javo still held the string pinched between two fingers. "You passed the mulberry before I looked up from your start."
+“Blue coat under the second crossbeam!” Palla called. “Can't use her leg.”
 
-"Then look up sooner."
+Rasden found the woman wedged beneath a rail, broke the rail with two fingers, and lifted her against his chest. A boy had both arms around her waist. Rasden took him too and climbed.
 
-"The ground dips beyond it. Your stride shortened where you didn't expect the hollow."
+He did not climb as other people climbed. His fingers struck cracks and released. His feet touched stone just long enough to drive him upward. He reached the rim, placed both pilgrims in waiting hands, and turned without letting his heels become still.
 
-"But it held. Put the finish farther out."
+“Two,” Palla said.
 
-Javo gathered the string. "Tomorrow. I need a longer measure."
+“You said forty-seven.”
 
-Sakta ran the route once more while Javo was coiling it. By the time Javo shouted, Sakta was already skidding to a delighted stop at the wall.
+“Then stop chatting.”
 
-The delight lasted. That was part of the trouble. Strength was not a punishment in disguise. Speed did not sour because it frightened someone else. Sakta liked the instant when distance lost its authority. He liked carrying laundry baskets three at a time and arriving before the kitchen bell finished sounding. He liked Javo's startled laughter when a stone intended for two men rose in Sakta's hands.
+Down again.
 
-He liked being the reason Javo revised a route.
+On the second trip he carried three. On the third, four, two under one arm and two gripping the rope across his back. Each descent lowered him through drifting dust and the creak of failing timber. Each ascent carried more lives against the pull of the gorge. The open mend raced around his ribs, through his shoulders, behind his knees. It repaired what the effort tore, and what he completed became the strength for the next trip.
 
-By nine hundred, Javo no longer laughed when Sakta changed the measure.
+“Nine!” Palla called.
 
-"Your sash buckle has worn through two holes," he said before one evening set.
+Rasden ran down.
 
-"I tightened it."
+“Red shawl, left side!”
 
-"The west pallet is splitting."
+He crossed the hanging deck.
 
-"We replaced the crosspiece."
+“Other left. Mine. Sorry!”
 
-"The west tread beneath the mat has shifted half a thumb since last week."
+He changed direction so sharply a plank spun away beneath him. “Your left is terrible.”
 
-"My foot doesn't touch that side."
+“My left can see!”
 
-"The mat does."
+The red shawl proved to be tied around a pack. The pilgrim hung three yards lower in a gray cloak, too frightened to call. Rasden gathered him up and was back at the rim before Palla finished swearing at the shawl.
 
-Sakta rolled his shoulders under the weighted frame. "Nine hundred and ninety-nine tonight. Tomorrow, one clean fall makes the thousand. Then we move the platform back to the yard."
+“Ten!”
 
-"Tonight is finished."
+Trip followed trip. Dust thickened, and the ledge beneath the bridge shed chips into the gorge. Rasden's counting narrowed to grips, bodies, turns: a pair of sisters who would not release each other's hands, a man with a bleeding temple, a baby shoved at him by three different arms. None of them could borrow his healing, so he made his speed gentle, a burst through empty space and a smooth turn when he carried someone, never a stop.
 
-"You haven't seen the first landing."
+“Thirty-one!”
 
-"I've seen the stair."
+Palla ran the rim above him, dropping to her belly to see under each fold of the ruined span. Her early calls had carried jokes. Now they came clipped and raw.
 
-"One fall. You call the angle."
+“Two beneath you. One lower. Lower!”
 
-Javo carried the frame away instead.
+Rasden tore open the side net and found them.
 
-Sakta followed him into the store passage. "You agreed to the count."
+Seven more came up through dust and swinging rope.
 
-Javo set the frame against the wall. "I agreed to look."
+“Forty!”
 
-"And you looked. So give me the adjustment."
+He brought up an old man and two young pilgrims bound together by a loop of handrope. His breath still arrived as easily as it had on the first descent. Palla's did not. She was on hands and knees at the edge, hair white with stone dust.
 
-"Move the whole set to the yard. Two days to level the sand and rebuild."
+“Quit dancing,” she said as Rasden jogged a tight circle to keep the mend open.
 
-"For one fall?"
+“Nine hundred and ninety-nine is still listening.”
 
-"For whatever number it really is."
+“Show-off. Go.”
 
-The passage narrowed around that sentence.
+He went.
 
-Sakta heard himself become precise. "The recorded sequence is consistent. Twenty after the five hundredth rest day, forty per training day except the two reduced sets, plus—"
+The lower net held only packs twisting in the dust. Rasden swept beneath it once, saw no reaching hands, and ran back as the surviving anchorage cracked.
 
-"Plus mornings when I was on the routes. The laundry tally has chalk under ink."
+Palla counted the people behind her. Her lips moved twice. “Forty-three.”
 
-Sakta had thought the ink covered it.
+“Four missing.”
 
-Javo picked up his route bag. "Nine hundred and ninety-nine is your number. The stair doesn't care."
+She looked over the edge. Her face changed.
 
-The next afternoon came bright and dry. Javo spent it on the lower switchbacks, replacing a loose parapet marker before evening wind. Sakta found the weighted frame in the store passage.
+Beneath the lowest intact planks hung the bridge cradle, the deep woven basket used to carry small children across the span. Four pale faces looked through its netting. The cradle had twisted under the deck where Rasden could not see it from below.
 
-He told himself he would not use it. He carried it only as far as the upper landing. He checked the sky, the tread, the split pallet, the sandbag mat on the landing below. The west tread had not moved since morning. His ankles were cool. His breath was full. There was no pain anywhere.
+Palla pointed. “There. Rasden, there!”
 
-One fall. Then the argument would be about a completed fact.
+The eastern anchorage shelf tore out of the mountain. Rope, timber, and cradle dropped together.
 
-He fastened the frame.
+Rasden reached the edge. The thousandth fall had been meant for dawn, with a blindfold and Palla's worst possible counting. Instead there were four children falling into Suncleft Gorge and Palla beside him with the cord clenched in both fists.
 
-The power in his legs had outgrown the height. To make the landing count, he drove upward as well as out, folded in the air, and dropped hard onto the sandbag mat.
+“Count this one,” he said.
 
-For one gorgeous instant, everything held.
+“Just go!”
 
-Then the outer edge of the stair went down.
+He went.
 
-The tread Javo had measured tipped beneath the sandbags. Its iron pin tore out of mortar. The stone struck the switchback below and broke into gray wedges that bounded toward Javo.
+The cradle had a head start. Gravity was fast. Rasden had become faster.
 
-He turned at the first crack. One fragment hit his route bag and spun him against the parapet. The bag's strap caught under a second, larger slab as it slid across the step. Javo went down on one knee, pinned sideways, while the loosened outer course above him began to lean.
+He struck a falling plank with both feet and drove it upward, himself downward. A second crossbeam spun below; he caught it with one hand, swung past, and kicked away. He used the collapsing bridge as a stair built out of instants. Rope snapped by his cheek. The gorge wind tore the breath from his mouth. He passed the broken deck, passed the long end of the main cable, and saw the cradle above him.
 
-Sakta ran.
+Rasden hit the cliff below it running downward.
 
-He reached the inner wall before the dust reached it, took four steps in one, and cut across the turn so fast the world became pale stone and Javo's open mouth. A slab twice the size of the grain sledge lurched free above them.
+Three steps matched the cradle's plunge. On the fourth he turned, got both shoulders beneath the bridge's central beam, and caught its full falling weight.
 
-Sakta put both hands under it.
+The impact drove him twenty feet down the wall.
 
-The impact drove him to one knee. Something tore from his left shoulder to his ribs. He caught the damage with his attention and repaired it while the stone kept descending. Heat flooded him. His leg straightened. The slab rose a finger's width.
+He let it. His legs folded a little at a time, bleeding speed from the cradle instead of stopping it all at once. Rock exploded under each foot. The four children bounced in the net but did not strike the beam. Behind them, forty yards of wet rope and timber bucked like a living thing.
 
-"Can you move?" he asked.
+Rasden's spine bowed. Something tore from hip to ribs. The open mend blazed through him, restoring not the man who had begun at Midsky, not the man who had lifted the grain wagon, but the man who was still holding a bridge.
 
-Javo pulled at the trapped strap. "No. Left corner."
+He stopped falling. Then he climbed.
 
-Sakta shifted left.
+Strength turned the full weight upward. Speed found grips before shattered stone could leave them. Stamina, after two miles and trip upon trip along the cliff, kept his heart driving with the same delighted force. The working joined all three because he gave it no pause in which to divide them.
 
-"Not yours. The slab's. Lower."
+Rasden ran up the face of Suncleft Gorge with the broken Pilgrim Span across his shoulders.
 
-Directions that would have been obvious at breakfast scattered in the strain. Sakta looked at Javo's hand, followed the line of his finger, and lowered the slab's left corner into a shallow notch in the inner wall.
+Palla's voice reached him from above, cracked beyond any joke. “Come on. Come on!”
 
-The stone settled. Not enough to release him. Enough to change the pull.
+He climbed through the dust. The rim drew near. Hands reached down and snatched the cradle's net, but Rasden did not surrender its weight until all four children rolled onto solid ground. Then he heaved the bridge beam over the edge and landed beside it on both feet.
 
-"Now?"
+The thousandth fall ended at the top.
 
-"Hold."
+For a moment Suncleft Gorge was silent except for settling stones and Palla trying to breathe.
 
-Sakta held.
+Then forty-seven survivors began shouting.
 
-His arms no longer hurt. That was useless information. Water streamed from his face. His heartbeat seemed to come from somewhere beyond the dust. He repaired a quiver in his thigh, then another in his shoulder. Each healing returned the muscle to the shape of its labor, but the shape grew harder to command. His hands wanted to shove the slab clear in one movement.
+Some cried Rasden's name because they had heard Palla screaming it down the cliff. Others simply cheered. The boy from the first trip wrapped both arms around Rasden's leg. One of the children from the cradle looked at the wreckage, looked at Rasden, and demanded, “Again!”
 
-Javo saw the change. "Don't lift."
+Palla sat down hard and laughed until she coughed.
 
-"I can clear it."
+Rasden took the closing breath. The mend settled through him, warm as sunrise, around a body that had caught a bridge and carried it upward. Nothing diminished. Nothing rolled back.
 
-"Loose course above you. Hold."
+Palla rose with the counting cord. Her hands shook as she worked a new knot into its end.
 
-Sakta's next breath scraped dry. He fixed his eyes on a pale chip beside Javo's knee. The chip doubled, joined, separated.
+“That's ugly,” Rasden said.
 
-"Javo."
+“It's a thousand. It gets to be ugly.” She pulled it tight and looped the cord around his wrist. “Also, I called the red shawl correctly.”
 
-"Still here."
+“You called a pack.”
 
-"Next sequence."
+“There was a person near it.”
 
-"No sequence. Right foot back."
+“On the other side.”
 
-Sakta moved it too far.
+Palla lifted her chin toward the forty-seven people alive behind him. “Forty-seven. Right enough.”
 
-"Half that. Stop."
+Rasden looked at her. Dust striped her face. Her eyes were bright, and there was no fear in them now, only the enormous answer he had wanted from her and never known how to ask for.
 
-He stopped. The position felt smaller, weaker, wrong. It also put his hip beneath the slab and left both hands steady.
+Palla glanced away first. “You wanted a proper thousandth.”
 
-"Call Gatria," Javo said.
+“Was that proper?”
 
-Sakta drew breath to shout and got only a dry cough.
+“No. It was ridiculous.” Her grin returned, ragged at the edges. “It'll do.”
 
-Javo shouted instead. Once, twice. His voice carried down the cliff face and back through the kitchens. Footsteps answered above.
+Beyond the broken span, mountains rose in blue ranks farther than Rasden had ever traveled. Sunlight caught snow on the highest peak.
 
-Gatria arrived with two monks, a coil of rope, wooden chocks, and the long kitchen pry bar. No magic moved in any of it. The rope was hemp. The chocks were scarred from propping carts. She took in the broken stair, Javo's pinned strap, and Sakta under the slab.
+Palla saw him looking. Of course she did.
 
-"Sakta. Look at me."
+“That one,” she said, pointing at the farthest white summit. “Before sunset.”
 
-He tried. Her face slid past his focus.
+“What do I win?”
 
-"Can you hold without healing?"
+“Fall one thousand and one.”
 
-"No."
+Rasden bent forward. Behind him the survivors shouted his name. Palla shouted louder, because she was still ahead on volume.
 
-"Can you hold while I count ten?"
-
-He listened to the question twice. "Yes."
-
-She waited until he had answered. Then she looped the rope around the slab and set the others at the pry bar. Javo gave them the sound footholds: inner seam, second tread, avoid the white crack. Gatria counted. At seven, the bar took weight. At nine, someone drove a chock beneath the lower edge.
-
-"Now lift one finger," Javo said.
-
-Sakta obeyed.
-
-The rope tightened. The slab rose just enough for Javo to cut his bag strap with Gatria's knife and drag his leg free. Gatria shoved him toward the wall, then touched Sakta's wrist.
-
-"Release on three," she said. "Do you understand?"
-
-Sakta wanted to tell her he could lower it more smoothly by stages, that he knew exactly how much remained in his arms. His hands were shaking against the stone. He had not felt them begin.
-
-"Yes," he said.
-
-They lowered the slab onto the chocks and the buried pry bar. Sakta tried to stand. His legs folded so quickly that Gatria caught his head before it struck the step.
-
-He woke in the infirmary with salt on his lips and Javo's torn route bag on the chair beside him.
-
-Javo sat on the next cot with one ankle wrapped and his supper balanced on his stomach. Bruising showed along his cheek, dark but not deep. He was using Sakta's spoon.
-
-"That's mine," Sakta said.
-
-"You were asleep."
-
-Gatria appeared at the foot of the bed. She held out a cup. "Compared with when we carried you in, your pulse is stronger. If you keep down this water, you may have broth."
-
-Sakta took the cup. His arms felt perfect. The cup clicked against his teeth.
-
-He drank carefully.
-
-"Javo's ankle?"
-
-"Sprained," Gatria said. "If he stays off it tonight, it should mend in the ordinary time."
-
-Sakta could mend nothing in Javo. He had always known that. The fact had never before seemed to occupy so much of a room.
-
-Javo scraped the last lentil from his bowl. "The lower route is closed until we reset twelve treads. The laundry route too."
-
-"How long?"
-
-"With three workers, two days. With you carrying stone, half a day. With you carrying stone before Gatria clears you, longer."
-
-Gatria held Sakta's gaze.
-
-"After food and sleep," he said. "After the checks."
-
-"Good," she said. "Finish the water."
-
-When she left, the kitchen noises returned through the open infirmary door: bowls stacking, somebody objecting to boiled cabbage, sandals scuffing the passage. Sakta set the empty cup on his knee.
-
-"There were forty-seven extra falls," he said.
-
-Javo looked at him.
-
-"Seven that first morning. Eight above the cistern. Twelve on the rest day when you changed the high flags. The others were short sets. I can write them in."
-
-"All of them?"
-
-Sakta went back through the sequence. At twenty-seven, his memory blurred with three nearly identical dawns. "No."
-
-Javo put the borrowed spoon in Sakta's empty cup. "Then don't write a number yet."
-
-The unfilled place in the tally bothered Sakta at once. It also felt honest.
-
-"Will you still measure?" he asked.
-
-Javo glanced at his wrapped ankle, then at the torn route bag. He did not answer quickly for Sakta's sake.
-
-"Tomorrow," he said, "you carry breakfast to the lower landing. At my pace. We measure every loose tread on the way. If you miss one, we come back up."
-
-It was not another fall.
-
-Sakta picked up the broth Gatria had left to cool. His hand still trembled, so he steadied the bowl with both palms and waited for Javo to put his feet on the floor first.
+He ran, and Suncleft Gorge gave his first stride back as thunder.
