@@ -924,8 +924,8 @@ class StorySystemTests(unittest.TestCase):
         )
         self.assertEqual(
             {
-                "old-magic": 44,
-                "long-dark": 49,
+                "old-magic": 45,
+                "long-dark": 50,
                 "new-magic": 34,
                 "uncertain": 6,
             },
@@ -935,8 +935,8 @@ class StorySystemTests(unittest.TestCase):
             {
                 "fixed": 4,
                 "inferred": 6,
-                "speculative": 49,
-                "unresolved": 74,
+                "speculative": 50,
+                "unresolved": 75,
             },
             dict(Counter(timeline.story_confidence.values())),
         )
