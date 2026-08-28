@@ -191,9 +191,9 @@
       "eyebrow": "Old-magic cycle 13 · low-signal modernity",
       "title": "The Old Modern Age",
       "description": "A modern human civilization lives with hidden magical girls, ordinary public institutions, and rare ultrahuman power before the Glass-Sea era.",
-      "sequenceNote": "Northbridge incident → Help Network → Battle of the Bay. Their relative sequence is explicit; the Battle remains the fixed pre-Glass-Sea anchor.",
+      "sequenceNote": "Northbridge incident → Help Network → Battle of the Bay → The Dress They Brought Her. Their relative sequence is explicit; the post-battle misidentification precedes the later museum visit.",
       "confidence": "fixed",
-      "stories": ["the-attendance-ledger", "the-help-network", "solstice-evening-bell"],
+      "stories": ["the-attendance-ledger", "the-help-network", "solstice-evening-bell", "the-dress-they-brought-her"],
       "constellations": []
     },
     {
@@ -605,6 +605,7 @@
     "the-attendance-ledger": ["The Northbridge showcase incident"],
     "the-help-network": ["After Northbridge: a local contact card becomes a global help network"],
     "solstice-evening-bell": ["Later: the Battle of the Bay"],
+    "the-dress-they-brought-her": ["After the Battle of the Bay: officials mistake another woman for the last magical girl"],
     "the-small-moon-rose-first": ["617 Ravel days", "Eleven seconds for Nell", "Four old-modern months later for Bash", "One year after Nell"],
     "clerics-infernal-ex": ["A roadside sanctuary and kiln court use crafted, bearer-powered crossings"],
     "the-friends-i-built": ["Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open"],
