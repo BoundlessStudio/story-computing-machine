@@ -190,10 +190,10 @@
       "type": "hinge",
       "eyebrow": "Old-magic cycle 13 · low-signal modernity",
       "title": "The Old Modern Age",
-      "description": "A modern human civilization lives with hidden magical girls, ordinary public institutions, and rare ultrahuman power before the Glass-Sea era.",
-      "sequenceNote": "Northbridge incident → Help Network → Battle of the Bay → The Dress They Brought Her. Their relative sequence is explicit; the post-battle misidentification precedes the later museum visit.",
+      "description": "A modern human civilization spans a changing magical-girl age, from ordinary public abundance to hidden local teams, rare ultrahuman power, and the long fade before the Glass-Sea era.",
+      "sequenceNote": "Not About That precedes the Battle of the Bay while magical girls remain numerous. Separately, Northbridge incident → Help Network → Battle of the Bay → The Dress They Brought Her; the post-battle misidentification precedes the later museum visit.",
       "confidence": "fixed",
-      "stories": ["the-attendance-ledger", "the-help-network", "solstice-evening-bell", "the-dress-they-brought-her"],
+      "stories": ["not-about-that", "the-attendance-ledger", "the-help-network", "solstice-evening-bell", "the-dress-they-brought-her"],
       "constellations": []
     },
     {
@@ -602,6 +602,7 @@
     "the-room-that-waited": ["One human modernity falls without launching its nuclear arsenal", "Agrarian descendants inherit a sealed machine room as unreadable ruin"],
     "the-trouble-with-tuesdays": ["A recurring weekday breach exposes hidden magic"],
     "the-first-wound": ["A remembered battle about 25,000 years before an undated therapy frame", "Therapy follows the wound backward"],
+    "not-about-that": ["Magical girls fill the old-modern sky", "Before the Battle of the Bay"],
     "the-attendance-ledger": ["The Northbridge showcase incident"],
     "the-help-network": ["After Northbridge: a local contact card becomes a global help network"],
     "solstice-evening-bell": ["Later: the Battle of the Bay"],
