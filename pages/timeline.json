@@ -132,6 +132,19 @@
       "constellations": []
     },
     {
+      "id": "perfumed-manners",
+      "magicState": "old-magic",
+      "ordered": false,
+      "type": "branch",
+      "eyebrow": "Undated old-magic society · personal defenses",
+      "title": "Perfumed Manners",
+      "description": "A protective fragrance changes the private rules of friendship at a birthday reception.",
+      "sequenceNote": "Placed in the old magic-active history; its relation to neighboring stories and named eras is unresolved.",
+      "confidence": "unresolved",
+      "stories": ["a-note-of-spite"],
+      "constellations": []
+    },
+    {
       "id": "schools-houses-and-classification",
       "magicState": "old-magic",
       "ordered": false,
