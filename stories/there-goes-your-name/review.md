@@ -6,7 +6,7 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Sedge | new | The shepherd's freely chosen call-name; no exact, alias, close-spelling, or confusing reuse found in the required noun sources. |
+| Sedge | recurring | The same shepherd first established by this story, now recorded in `universe/characters.md`; the freely chosen call-name is not an unrelated reuse. |
 
 ## Places
 

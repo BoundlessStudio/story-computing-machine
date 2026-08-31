@@ -2,7 +2,7 @@
 title: "There Goes Your Name"
 slug: "there-goes-your-name"
 created: 2026-08-06
-canon: false
+canon: true
 ---
 
 # There Goes Your Name

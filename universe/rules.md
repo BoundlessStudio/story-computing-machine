@@ -2057,3 +2057,27 @@
     tools, forms, and ordinary ink have no established agency, and this system
     has no established relationship to another tattoo, scar, ink, light,
     channel, lattice, graft, resistance, or body-based system.
+
+## Sedge's local name-call binding
+
+- Status: CANON
+- Summary: In Sedge's locality, living callers use names to send voices with
+  a clear sense of direction through obscuring weather; an unnamed living fae
+  can steal and deliberately redirect one such binding.
+- First established: stories/there-goes-your-name/story.md
+- Aliases: name-work; name-call
+- Notes:
+  - The fae touches Sedge's throat and takes the old binding without permission.
+    While carrying it, the fae draws the sister's calls toward its hand and
+    turns their apparent direction. It acknowledges that turning them is a
+    choice. The stolen name is not an independent magical actor.
+  - The old word remains remembered, recognized, and carved on the father's
+    whistle. The theft does not erase Sedge's identity or kinship, and ordinary
+    speech, whistles, gestures, tracking, and the dog's training still work.
+  - After Sedge chooses a new name, the sister deliberately calls it back while
+    meaning Sedge. Her calls then reach Sedge with clear direction despite the
+    fae retaining the old binding. This is the witnessed naming sequence, not
+    a universal consent rule or a complete specification for all name-work.
+  - No exact range, general theft or restoration procedure, persistence limit,
+    or connection to another naming system is established. The horn whistle,
+    carved letters, and rope have no demonstrated magical agency.
