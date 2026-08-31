@@ -874,9 +874,11 @@ class StorySystemTests(unittest.TestCase):
         )
         self.assertEqual(
             [
+                "not-about-that",
                 "the-attendance-ledger",
                 "the-help-network",
                 "solstice-evening-bell",
+                "the-dress-they-brought-her",
             ],
             placements_by_chapter["old-modern-age"],
         )
@@ -924,8 +926,8 @@ class StorySystemTests(unittest.TestCase):
         )
         self.assertEqual(
             {
-                "old-magic": 45,
-                "long-dark": 50,
+                "old-magic": 52,
+                "long-dark": 52,
                 "new-magic": 34,
                 "uncertain": 6,
             },
@@ -933,10 +935,10 @@ class StorySystemTests(unittest.TestCase):
         )
         self.assertEqual(
             {
-                "fixed": 4,
+                "fixed": 6,
                 "inferred": 6,
-                "speculative": 50,
-                "unresolved": 75,
+                "speculative": 52,
+                "unresolved": 80,
             },
             dict(Counter(timeline.story_confidence.values())),
         )
@@ -970,8 +972,8 @@ class StorySystemTests(unittest.TestCase):
         self.assertNotIn('class="signal-story-copy"', rendered)
         self.assertNotIn('class="signal-story-note"', rendered)
         self.assertNotIn('class="signal-story-arrow"', rendered)
-        self.assertEqual(45, rendered.count("data-era-stop"))
-        self.assertEqual(45, rendered.count('style="--era-hue:'))
+        self.assertEqual(len(timeline.chapters), rendered.count("data-era-stop"))
+        self.assertEqual(len(timeline.chapters), rendered.count('style="--era-hue:'))
         self.assertEqual(14, rendered.count("data-epoch-section"))
         self.assertEqual(14, rendered.count('style="--epoch-hue:'))
         self.assertEqual(14, rendered.count('class="signal-world-texture"'))

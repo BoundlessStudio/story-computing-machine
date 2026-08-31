@@ -1259,6 +1259,7 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
             (
                 "healers-blood-and-bounded-bodies",
                 "guilds-gods-and-repair",
+                "perfumed-manners",
                 "schools-houses-and-classification",
             ),
         ),
