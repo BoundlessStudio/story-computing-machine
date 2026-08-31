@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The required fae line appears verbatim; the local, living-agent call-name binding stays bounded, and the final work exchange tests Sedge without recovering or devaluing the old name.
+- Notes: The rope handoff, trained retrieval, theft disclosure, deliberate pursuit pivot, and 106-sheep count are coherent. The fae's sensory evasions and the siblings' interrupted, disputatious speech remain distinct through the rescue and final exchange. The required fae line appears verbatim; the bounded, living-agent call-name magic leaves memory and kinship intact.
