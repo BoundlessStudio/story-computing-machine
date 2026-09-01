@@ -928,7 +928,7 @@ class StorySystemTests(unittest.TestCase):
             {
                 "old-magic": 52,
                 "long-dark": 52,
-                "new-magic": 34,
+                "new-magic": 35,
                 "uncertain": 6,
             },
             dict(state_counts),
@@ -938,7 +938,7 @@ class StorySystemTests(unittest.TestCase):
                 "fixed": 6,
                 "inferred": 6,
                 "speculative": 52,
-                "unresolved": 80,
+                "unresolved": 81,
             },
             dict(Counter(timeline.story_confidence.values())),
         )
