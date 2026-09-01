@@ -910,6 +910,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(["tenth-world-lesson"], placements_by_chapter["assignment-bridge"])
         self.assertIn("realms", placements_by_chapter["threshold-transit-and-unstable-travel"])
         self.assertEqual(["where-no-unicorn-stands"], placements_by_chapter["second-sky-kingdoms"])
+        self.assertEqual(["the-second-wearing"], placements_by_chapter["unassigned-heirloom"])
         states_by_chapter = {
             chapter.id: chapter.magic_state for chapter in timeline.chapters
         }
@@ -929,7 +930,7 @@ class StorySystemTests(unittest.TestCase):
                 "old-magic": 52,
                 "long-dark": 52,
                 "new-magic": 34,
-                "uncertain": 6,
+                "uncertain": 7,
             },
             dict(state_counts),
         )
@@ -938,7 +939,7 @@ class StorySystemTests(unittest.TestCase):
                 "fixed": 6,
                 "inferred": 6,
                 "speculative": 52,
-                "unresolved": 80,
+                "unresolved": 81,
             },
             dict(Counter(timeline.story_confidence.values())),
         )

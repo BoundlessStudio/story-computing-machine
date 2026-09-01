@@ -483,6 +483,19 @@
       "constellations": []
     },
     {
+      "id": "unassigned-heirloom",
+      "magicState": "uncertain",
+      "ordered": false,
+      "type": "branch",
+      "eyebrow": "Undated living artifact · inheritance without assignment",
+      "title": "The Unassigned Heirloom",
+      "description": "A long-boxed sentient pendant meets the niece who inherits it and learns that possession does not appoint a wearer.",
+      "sequenceNote": "Its living contact-voice proves a local active system, but the maker, mechanism, era, location, and relation to other artifacts remain unresolved.",
+      "confidence": "unresolved",
+      "stories": ["the-second-wearing"],
+      "constellations": []
+    },
+    {
       "id": "inheritances-and-altered-selves",
       "magicState": "new-magic",
       "ordered": false,
