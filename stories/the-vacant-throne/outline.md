@@ -2,46 +2,53 @@
 
 ## Story
 
-- Premise and central promise: Fifteen years after the human king died fighting the demon queen, twelve-year-old Vumo reaches the crown keep with his missing sword. The court mistakes the half-demon bearer for an heir, hostage, or trick. Vumo stole it because human levies and the queen's retrieval column are converging on Blackmere, their mixed border home. Resolve why the queen kept it, what killed the king, and whether the throne can be filled without turning Vumo into proof. The king died recalling every human banner; the queen withheld the sword so no successor could reverse him. His sister Veldan takes the throne but refuses his scale of command.
-- Focal pressure or attachment: Vumo wants both columns diverted before dusk and to go home, not become a court ward or answer for all half-demons. They control the sword and know the pursuit route, but are exhausted, less fluent in court language, and unable to activate it. They hide the theft because adults may value the relic over Blackmere. Veldan wants protection without becoming the sovereign the sword encourages; her refusal now makes urgent orders contestable.
-- Counterforce or complication: The marshal favors one realm-wide recall over riders despite its lethal cost. The pursuing demon captain wants Vumo safe and the sword restored before its loss renews war. He can redirect the demon column only by owning the theft and disobeying recovery orders. Human officers differ over stability, loyalty, and risk; the captain's attachment conflicts with duty and deterrence.
-- POV, distance, and information limit: Close third past through Vumo, attentive to weight, routes, horn intervals, hands nearing the sword, and withheld language. Vumo knows the queen's account and border roads, not succession law, Veldan's intention, or the king's mind. Reconstruct his death from testimony, recorded cost, and Veldan's recognition; the sword neither replays history nor certifies truth.
-- Governing movement and time shape: One late afternoon, ascending from city gate to long-unused throne, then descending toward the stables. Each threshold changes who controls access to Vumo and sword. Fully render the gate refusal, private examination, captain's interception, causal revelation, bounded accession, and paired recalls. Keep the decision among a few people rather than a council spectacle. End with Vumo choosing the return journey while Veldan bears the immediate work of occupying the seat.
-- Speculative rule or ordinary-world constraint: The royal sword is a nonliving focus powered by a living crowned bearer. It transmits an order through oath-rings worn by living human captains; it cannot choose heirs, detect blood, judge truth, compel demons, or act alone. Cost scales with recipients, distance, and reversal of an active order. Calling two nearby banners causes pain and temporary weakness; the king's realm-wide reversal was fatal. Vumo's parentage grants no command. Demon horns and human riders are ordinary communication, so Blackmere requires Veldan's limited call, the marshal's riders, and the demon captain's voluntary counterorder.
+- Title: The Vacant Throne
+- Premise and central promise: Fifteen years after the human king died fighting the demon queen, his sister's caretaker compact expires at sunset. On the ritual day of silence, a half-demon child arrives with the missing royal sword and queen's signet. Resolve credible recognition as heir, voluntary accession under bounded regency, and belonging that erases neither parent.
+- Focal pressure or attachment: The Seatkeeper loves her brother and their peace, but vacancy has become memorial and avoidance. She must prevent rival claims while deciding whether protection means trust or control.
+- Counterforce or complication: The First Captain fears a demon-backed claimant and needs clear command. The exhausted child distrusts human ritual and will not surrender either inheritance. Provenance supports parentage but not motive; sunset prevents leisurely proof.
+- POV, distance, and information limit: Close third past through the grieving Seatkeeper, knowledgeable about sword, law, and king. She cannot know the child's thoughts, the queen's intent, or the battle's private truth. Gesture and consequence revise her understanding.
+- Governing movement and time shape: One anniversary, predawn to sunset. The Seatkeeper travels the coronation route backward from throne to gate; after the child arrives, a shrinking party retraces it inward. Contract from memorial court through throne room into family wing; omit a policy coda.
+- Speculative rule or ordinary-world constraint: Demons are a local living people, not a moral or afterlife category. The nonliving sword chooses nobody; private repair, battle damage, and provenance make it evidence. Existing law permits a minor's accession through voluntary mark, regency seal, submitted military command, and maternal signet.
+- Dialogue promise: A wholly unspoken succession where ceremony meets a hungry child's refusal, adult misreading, resentment, awkwardness, and hesitant care. Physical choices retain dignity without polished mime.
+- Dialogic medium: Ritual silence; gesture, gaze, posture, offered touch, object custody, thresholds, troop movement, and unquoted legal marks. Use no audible or quoted language, writing, or telepathy.
+- Dialogue engine: The child must make identity and consent legible without yielding selfhood. The Seatkeeper risks trust; the Captain distinguishes succession from conquest. Refusals and witnessed marks change leverage, protection, or allegiance.
 
 ## Voice
 
-- Narrative texture: Follow Vumo's attention to reach, exits, horn intervals, and whether adults look at child or sword. Expand sentences with legible routes; contract them when custody closes.
-- Conversational texture: Mix instructions, partial explanations, status-conscious questions, and pauses from translation or distrust. Vumo answers concretely and sometimes leaves false assumptions untouched; nobody recites faction doctrine.
-- Rhetorical ownership: Vumo reasons through distance, sequence, and family consequence. Veldan separates authority from capacity. The marshal calculates coverage and delay. The demon captain frames custody, orders, and liability, not species destiny.
-- Pressure behavior: Vumo loses court vocabulary before route precision. Veldan slows and sharpens. The marshal interrupts and compresses. The captain's official fluency breaks when Vumo's safety conflicts with duty; listening changes action before agreement.
-- Anti-default: Avoid faction symmetry, precocious child speeches, bloodline mystique, and a final exchange explaining what action already shows.
+- Narrative texture: Ceremonial but bodily: notice weight, fatigue, dust, cloth, metal, and involuntary memory. Keep myth at practical observation's edge; revised noticing replaces exposition.
+- Conversational texture: No audible or quoted language. Exchanges are interruptible, misread, and uneven: trained adults overperform protocol while the child delays, imitates badly, or refuses.
+- Rhetorical ownership: The Seatkeeper owns law, affection, and grief-shaped misreading; the child owns blunt spatial choices, wary humor, and selective imitation; the Captain owns coercive staging, embarrassed recalculation, and the least willingness to listen.
+- Pressure behavior: The Seatkeeper rushes interpretation, then waits. The child clutches possessions and becomes direct when cornered. The Captain reduces people to positions until relinquishment is his only credible response.
+- Relationship movement: The child wants safety without permission to remain the queen's child. The Seatkeeper wants unearned trust; the Captain wants reassurance without admitting fear. Acts shift custody toward kinship, suspicion toward allegiance, and claim toward obligation.
+- Anti-default: Do not turn silence into polished mime, the sword into objective legitimacy, or officials into flawless puzzle-solvers. Preserve hunger, pettiness, wrong guesses, ceremonial absurdity, and resistance to making the child a reconciliation emblem.
 
 ## Beats
 
-1. At the closing gate, Vumo resists threats, flattery, and misidentification and insists on Veldan.
-2. Inside, contested seals delay messengers. Veldan privately examines sword and request without treating Vumo's body as inheritance evidence.
-3. Vumo admits theft and the deadline but withholds the battle account until Veldan dispatches riders. The marshal argues for custody and maximum reach.
-4. The demon captain catches up. Seeking Vumo and sword, he exposes his column's route; protective familiarity complicates rather than cancels duty.
-5. On the ascent, Vumo gives the queen's account. Veldan connects the king's symptoms to command records while everyone retains reasons for distrust and rejects the heir fantasy.
-6. As both columns near Blackmere, Vumo retains the sword until Veldan chooses accession and limited call. The captain separately chooses whether to countermand his side.
-7. Two human banners receive the costly order; riders cover the rest while the captain sends demon horns. Movement changes without proving peace or converting factions.
-8. Vumo declines a ceremonial place and takes the fastest escort home. Veldan remains with pain, claimants, and work; the sword is under her control without defining the child.
+1. Before dawn, establish empty throne, death-day silence, and sunset limit. The Seatkeeper prepares to claim the crown; the Captain's deployments show vacancy has become dangerous.
+2. The child arrives with sword and signet. The Captain treats both as contraband; the Seatkeeper secures passage without pretending certainty. The child refuses to release either inheritance.
+3. Along the inward route, accumulate fallible evidence: private sword repair, battle scars, age, mixed traits, an imperfect family gesture, and the queen's seal. Hunger and a mistaken bow prevent mythic poise. Kinship grows credible; motive remains unknown.
+4. In the memorial court, pressure to honor one parent against the other produces a single act of dual mourning. The Seatkeeper recognizes how her guardianship of memory excluded a living relative. The court remains divided.
+5. The Captain bars the throne-room threshold. The child puts the sword beyond reach rather than surrendering it; the Seatkeeper reduces the room to essential witnesses. The Captain grants passage before loyalty, changing the physical balance.
+6. Make accession chosen, not magical: the child accepts the sovereign mark while retaining the maternal signet; the Seatkeeper seals a bounded regency; the Captain submits command. Complete the instrument without quoted text. Succession and minority authority are settled.
+7. In the family wing, the Seatkeeper returns the sword and offers proximity without demanding affection. End when the child makes a small, revocable choice to keep her nearby: political resolution is complete while trust remains work.
 
 ## People
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Vumo | new | Half-demon child and focal courier; no exact, alias, close, or confusing reuse found. |
-| Veldan | new | Late king's sister and reluctant successor; unique, distinct from current `Velcor`. |
+| Seatkeeper | new | Late king's sister, caretaker, and focal character. |
+| half-demon child | new | Royal claimant carrying both inheritances. |
+| First Captain | new | Commander and political counterforce. |
+| human king | new | Child's father, dead fifteen years. |
+| demon queen | new | Absent mother whose intent remains unknown. |
 
 ## Places
 
 | Noun | Status | Role / recurrence note |
 | --- | --- | --- |
-| Blackmere | new | Mixed border village; no exact, alias, close, or confusing place reuse found. |
+| None | none | Capital, palace, and battlefield remain unnamed. |
 
 ## Continuity
 
-- Canon used: Living agency powers magic; the sword is a nonliving focus. Magic and demon are cultural labels. Blood or artifact cannot settle Vumo's personhood or moral choices.
-- Boundaries and unknowns: This realm, demon polity, battle, sword, oath-rings, and Blackmere are local to an unplaced era, with no connection to Cinder Annex, Ersene, King Ambric, or the Crowned Ancestors' kingdom. Do not universalize succession, demon biology, or infernal geography. Leave the queen's wider motives, Vumo's exact parentage, and long-term settlement open.
+- Canon used: An undated fantasy civilization on the one physical world. Only life uses magic; artifacts lack agency; contested evidence matters; royal resemblance creates no cross-system connection.
+- Boundaries and unknowns: Link no existing king, queen, crown, sword, throne, demon culture, afterlife, or kingdom. Leave era, geography, wider demon biology, the queen, and the battle's private truth unresolved. Ancestry grants neither virtue nor destiny. Use no spoken dialogue or quoted speech, writing, or telepathy.
