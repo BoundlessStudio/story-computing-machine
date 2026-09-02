@@ -1414,6 +1414,7 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
             (
                 "joined-sky",
                 "time-foresight-and-copies",
+                "unassigned-heirloom",
                 "inheritances-and-altered-selves",
                 "visitors-at-the-door",
                 "assignment-bridge",

@@ -1376,3 +1376,24 @@
      placement before the No More Magic extinction or after the joined-sky
      reawakening, and relationship to every other established person, place,
      event, or magical system remain unresolved.
+
+## Undated Sedge name theft and hillside rescue
+
+- Status: CANON
+- Summary: During a foggy sheep drive, a fae steals a shepherd's name-call
+  binding; the shepherd rescues their sister and chooses the call-name Sedge.
+- First established: stories/there-goes-your-name/story.md
+- Aliases: None
+- Notes:
+  1. At a spring near an unnamed sheepfold, the fae takes the old binding.
+     Its redirection of the sister's calls draws the shepherd uphill while
+     the sister follows a lame ewe and lamb onto unsafe ground below.
+  2. The shepherd stops chasing the fae and follows tracks and the dog. With
+     the dog's trained rope retrieval and the siblings' coordinated crossing,
+     the ewe, sister, and lamb reach safety and return to the fold.
+  3. The shepherd chooses Sedge; the sister's deliberate call establishes the
+     new name's directional use. The fae leaves with the old binding. The
+     siblings resume sorting, count 106 sheep, and start a recount.
+  4. The event belongs to magic-active history, not the magicless Long Dark.
+     Its civil date, Galactic Cycle coordinate, and placement relative to the
+     extinction and joined-sky reawakening remain unresolved.

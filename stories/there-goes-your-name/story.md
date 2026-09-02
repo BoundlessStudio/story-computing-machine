@@ -2,7 +2,7 @@
 title: "There Goes Your Name"
 slug: "there-goes-your-name"
 created: 2026-08-06
-canon: false
+canon: true
 ---
 
 # There Goes Your Name
@@ -177,11 +177,11 @@ My sister called again. Her voice came from behind me.
 
 The fae stood behind me.
 
-This time I watched it work. It raised its closed hand as she called and drew the sound toward itself with a long inhalation, pleased as a child smelling cakes. The old name had not led me anywhere. The fae had.
+It raised its closed hand as she called and drew the sound toward itself with a long inhalation, pleased as a child smelling cakes. I wanted to reach for that fist again. I tightened my grip on the crook instead.
 
-"You've been running," I said.
+"I'm going down," I said.
 
-It smiled. "So have you."
+It smiled. "But I'm up here."
 
 I dropped to one knee beside the prints. Rain had not yet filled them. The lame ewe was setting the bad hind hoof along its outer edge, as she had in the morning. My sister had kept her on the softer ground until the juniper. Beyond it, the slope broke toward the scree channel.
 
@@ -271,9 +271,9 @@ She closed her eyes. "You left it on the gate."
 
 The fae crouched above the scree, peering at my sister. "She's red under the mud. Like a rowan fruit dropped in broth."
 
-My sister stared at it. "Is that what stole your name?"
+My sister stared at it. "What's that doing here?"
 
-"Yes."
+"It stole my name."
 
 "Ugly little midden-pip. Give it back."
 
@@ -281,7 +281,7 @@ The fae drew itself up. "I am not ugly."
 
 "Then stand somewhere useful."
 
-I sent the dog back with the hand-signal for the fold. It hesitated, glanced at my sister, and went when I repeated it. While we waited, I tested the slope with the crook. The middle ran at a touch. The safer line curved east across a narrow band of grass, down to the dog's ledge, then back under my sister's shelf. We would need the rope for the ewe. We would need my sister to move first.
+I signaled the dog toward the fold, then tugged an empty fist toward me: fetch the rope. We had taught it that during lambing. It hesitated, glanced at my sister, and went when I repeated the signals. While we waited, I tested the slope with the crook. The middle ran at a touch. The safer line curved east across a narrow band of grass, down to the dog's ledge, then back under my sister's shelf. We would need the rope for the ewe. We would need my sister to move first.
 
 "The lamb goes inside your coat," I told her. "Feet down."
 
@@ -329,9 +329,9 @@ That was true. She threaded the rope behind the ewe's forelegs instead, working 
 
 "Easy," she said. "No, not there. Here. That's grass. Put your stupid foot on it."
 
-The ewe listened to pressure, footing, and the dog's stillness. She did not need a name. She reached my ledge trembling. I lowered her to the dog, who stood and kept her from turning uphill.
+The ewe listened to pressure, footing, and the dog's stillness. She did not need a name. She reached my ledge trembling. I worked the loop free, then eased her down to the dog, who stood and kept her from turning uphill.
 
-My sister worked the loop free of the ewe and passed it under her own arms. Then she crossed with the lamb. Halfway, the black-edged stone rolled. Her left foot went out.
+I threw the loop back to my sister. She passed it under her own arms, then crossed with the lamb. Halfway, the black-edged stone rolled. Her left foot went out.
 
 She did not call my name. She said, "Rope!"
 
@@ -443,7 +443,7 @@ I turned in time to block the lame ewe from following the yearlings through. Her
 
 "Wrap that foot," she said. "Rain's getting in."
 
-I reached for the wool bandage in my pack. "Count the lambs first."
+I reached for the wool bandage in my pack. "Count the flock first."
 
 "I already did."
 
