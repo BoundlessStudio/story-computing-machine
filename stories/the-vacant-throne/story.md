@@ -1,382 +1,207 @@
 ---
 title: "The Vacant Throne"
 slug: "the-vacant-throne"
-created: 2026-08-06
+created: 2026-09-02
+created-at: 2026-09-02T12:49:30-04:00
 canon: false
 ---
 
 # The Vacant Throne
 
-The keep gate was already lifting when Vumo reached it.
+Before dawn, the Seatkeeper found a dead moth in the hollow of the throne.
 
-They came at a stumbling run through the evening market, one hand clamped over the wrapped hilt above their shoulder, the other holding the scabbard clear of the stones. The sword was nearly as long as they were tall. Its iron tip had beaten a dark rhythm against every mile from the eastern ridge, and Vumo's palm had gone numb before noon.
+It had battered itself pale against the high windows and fallen between the seat and the carved back, where no servant had dared reach beneath the mourning cloth. She pinched it by one powdery wing and carried it down the seven steps. The throne had been vacant for fifteen years. Dust might touch it. Sunlight might. No living hand had.
 
-"Wait," they called. "I have to see Veldan."
+At the foot of the dais waited the crown and the succession skin. Her seal lay beside them in a cedar box. By sunset the red wax would hold either a new sovereign's mark above her bounded regency, or her mark alone above the closing line of the caretaker compact. She had spent half her life preventing that second impression from looking like hunger.
 
-The gate sergeant looked first at Vumo's single horn, then at the red cloth wound around the sword. His hand went to his whistle. Above him the chain kept clanking, shrinking the strip of daylight beneath the gate.
+The silence had begun at moonset. Black cords bound the court's sleeves, and until the sun dropped behind the western wall, no human voice could take part in the anniversary. The custom was older than her brother's death, meant to deny boasting to victory and excuses to defeat. In fifteen observances it had become chiefly a way to survive remembering him.
 
-"Lady Veldan," Vumo tried. Court speech liked its handles. "Before dusk. Blackmere will have two armies in it."
+The First Captain stood below the open doors with his sword belted and his command staff under one arm. His hands had already rearranged the palace. Two fingers sent guards to the gallery. A flattened palm closed the river gate. A turn of his fist thickened the line before the throne room. He wore no mourning cord.
 
-The sergeant chopped his hand down. The chain stopped. By then three guards had surrounded Vumo without seeming to move, spears angled inward. A fourth caught the loose end of the red wrapping with the hook of his polearm and tugged.
+The Seatkeeper looked through the doors at the crowded antechamber. Three rival houses had arrived before midnight, each carrying enough cousins to become a future. Their banners hung furled by law, bright fringes showing beneath their black covers. At sunset the compact expired. If she did not take the crown, someone would try to take the room.
 
-Gold flashed underneath: a crowned bird with one wing broken.
+She closed the cedar box and began the coronation route backward.
 
-Nobody in the gatehouse spoke for a breath.
+Her brother had once walked it from gate to throne through thrown petals and ringing bronze. She had followed six paces behind, watching a loose thread tremble on his shoulder. Now she passed from the throne room into the memorial court, where his stone likeness lay with both hands empty; through the long gallery of ancestral faces; across the rain court; and down toward the outer gate. At each threshold she tested the seal and counted the guards. The Captain followed, correcting her counts with small movements of his staff.
 
-"Put it on the ground," the sergeant said.
+The sky had paled enough to show the gate towers when the wicket opened from outside. The gatekeeper stumbled backward. A child came through after him.
 
-"No."
+They were perhaps fourteen, perhaps younger beneath the dirt. A hood covered most of their head, but two blunt horn tips had worn holes in the cloth. Dust made a mask of their face except where sweat had cut tracks from the temples. Their coat was demon work, scaled at one shoulder with overlapping red leather, and human work at the other, patched in square stitches by someone impatient. A round iron signet hung against their chest.
 
-"Submit the weapon."
+The royal sword hung at their hip.
 
-Vumo knew *submit* from delivery forms. It meant a clerk kept your packet and forgot you were waiting. "I carry it to Veldan."
+It was too long for them. The scabbard struck every third paving stone, and their hand stayed locked around the belt to keep its weight from dragging the buckle loose. The blue enamel of the pommel had been burned brown on one side. Below it, just visible through a split in the grip, ran a wire repair no court copyist had ever recorded.
 
-"Where did you get it?"
+The Captain's staff came level. Spears crossed behind the child.
 
-"East."
+They stopped. Their gaze moved from the spearheads to the walls, to the wicket still open at their back, and then to the Seatkeeper. Their eyes were dark red around human-gray irises. Not flame. Not omen. Merely eyes narrowed against a dawn they had been awake too long to meet.
 
-"From whom?"
+The Captain opened one hand for the sword.
 
-"I need Veldan."
+The child's fist tightened on the belt. With the other hand they covered the signet at their chest. Their shoulders rose, ready for a blow or flight, though the scabbard had already trapped itself between their ankles.
 
-The youngest guard stared at the narrow dark horn rising through Vumo's wet hair. "Is that the heir, then?"
+The Seatkeeper stepped under the Captain's staff.
 
-Vumo had heard *heir* twice on the road and understood it only because both speakers had tried to kneel afterward. "I'm a courier."
+Up close, the sword was worse than any replica would have dared. The scabbard bore white scratches beneath newer travel stains. A crescent of the guard had melted. One side of the grip had been rebound in black cord, but the old repair remained: a double strand of copper passed through three holes in the sharkskin, crossed once, and knotted under the king's forefinger.
 
-"That is the royal sword."
+She had made that repair at sixteen, furious with her brother for breaking the grip against a pear tree. She had used wire stripped from their mother's ruined astrolabe and hidden the knot because her work was ugly. Her brother had liked the roughness beneath his finger. On the morning of his last campaign he had rubbed it while she fastened his cloak.
 
-"Yes. It is also heavy."
+The sword did nothing now. It gave off no heat. It leaned with all its ordinary weight against a hungry child's hip.
 
-The sergeant's mouth almost changed shape. Then a horn sounded outside the city, far down the east road: one long note, two short. Vumo turned toward it before they could stop themself.
+The Seatkeeper raised both empty hands. Then she took one step back and turned toward the palace. After a moment, the child followed. The Captain lowered his staff, but he did not dismiss the spears.
 
-The sergeant noticed. "Your escort?"
+* * *
 
-"Not mine. If you shut me out, they reach this gate before I reach Blackmere. If you let me in, maybe nobody reaches Blackmere."
+On a coronation morning, the long gallery displayed bowls of saffron, salt, coins, and winter fruit, each an old promise made visible. No one had thought to remove them for a succession expected to begin at sunset. The child reached the first bowl, seized a plum, and bit through its bitter skin.
 
-He studied the mud on Vumo's leggings, the split sole of one boot, and the way their fingers had locked around the strap. Then he ordered the wicket opened.
+Purple juice ran over their knuckles. A court usher flinched as if a treaty had been torn. The child saw him, looked at the row of untouched bowls, and chose a second plum. This one disappeared into their coat.
 
-"Inside. Slowly. You touch the hilt, we put you down."
+The Seatkeeper almost smiled. The impulse hurt more cleanly than grief had in years.
 
-Vumo ducked under the half-raised gate. "I have been touching it since yesterday. It doesn't do anything."
+She led them beneath the painted kings. The Captain kept to the child's sword side. Behind him came the keeper of seals, two judges, six guards, and the boldest members of the waiting houses. The procession swelled whenever a side door opened. It was already turning the child's hunger into pageantry.
 
-That frightened them more than the gold bird had.
+At the portrait of the late king, the child stopped.
 
-They took Vumo uphill through four courtyards. At every door somebody asked for a seal, and at every door the people escorting Vumo had a different one. A green seal opened the armory passage but not the royal stair. A black seal opened the stair but sent a clerk running to find whether it had expired. Fifteen years without a king had left the keep full of locks that disagreed.
+The painter had given him a broad, painless face and a hand resting lightly on the sword. Nothing in it resembled the man who had climbed wet roofs, hoarded quince paste, or laughed with his whole spine. Nothing resembled the body returned from the battlefield either. The child studied the painted hand. Their own thumb began to scrape across the first knuckle of the forefinger.
 
-Vumo counted turns. Left past the cistern, right at the kitchens, sixty-three steps beside arrow slits, then a covered bridge. From the bridge they could see the west road descending through barley fields. Dust hung above it in two long smears.
+Her brother had worn that patch of skin smooth whenever he waited for someone else to decide.
 
-The human banners were closer than they had feared.
+The Seatkeeper reached before she meant to. The child recoiled so sharply that the sword struck the wall. Guards caught their hilts. The Captain's staff snapped upright.
 
-"Water," the sergeant told a page outside a low map room. "And bread. Not wine."
+No metal cleared leather. In the held breath afterward, the Seatkeeper lowered her hand. She had intended to turn the child's wrist toward the light, to find proof in bone and habit. What she had shown instead was how quickly kinship could become inspection.
 
-"I don't need bread."
+The child rubbed the bumped scabbard with their sleeve. They would not look at her.
 
-"That wasn't a question."
+She turned to remove the line of people behind them. It took time. The rival houses mistook the first sweep of her hand for an invitation forward. The judges mistook the second for a demand that they surround the child. One guard backed into a saffron bowl and stood in yellow dust while the child watched with exhausted, unwilling amusement. At last the Seatkeeper pointed every unnecessary witness toward the side doors and waited until obedience became less embarrassing than refusal.
 
-It was the first court sentence Vumo understood completely.
+The gallery emptied to the child, the Captain, the keeper of seals, and one judge from each rival house. The spears remained at the far end.
 
-Veldan came in before the food. She wore a gray riding coat with one cuff unbuttoned, and she had the same long nose as the dead king on the coins, though the coins had never looked tired. A square-shouldered marshal followed her carrying three message boards under one arm.
+The Captain's jaw worked beneath the scar that divided it. Yet when the child resumed walking, he moved half a pace farther away from the sword.
 
-Neither of them knelt to Vumo.
+At the rain court, sunlight found the signet on the child's chest. The Seatkeeper knew its shape from old border documents and the broken standards carried home after the battle: an iron disk wider than two fingers, its face divided by a deep diagonal groove, one half polished, the other stippled. The demon queen's seal had authorized granaries, marriages, troop roads, and executions long before human songs reduced her to horns above a field of fire. This signet was battered at its edge and dark with the grease of constant handling. It might have been stolen. So might the sword. Together they proved possession, not birth, and possession proved no purpose at all.
 
-Veldan closed the door. "What do you want me to call you?"
+The child shifted the disk under their coat when they noticed her attention.
 
-"Vumo."
+The Seatkeeper turned her eyes away first.
 
-"How old are you?"
+* * *
 
-"Twelve."
+The memorial court had been built around an accusation.
 
-"And the sword?"
+Her brother's stone figure lay at its center, his empty hands lifted upon his breast. Above him, a wall mosaic showed the last battle as the survivors preferred it: the human king in white mail; the demon queen enormous beneath a red sky; their blades meeting in a burst of gold. Along the floor, a black stone band represented the burned field. Visitors placed human mourning tokens on the raised bier and cast enemy tokens into a bronze ash basin at its foot.
 
-"Still the king's, I suppose."
+The child entered and became still. The Captain indicated the sword rest on the bier. The keeper of seals uncovered the ash basin. Every trained gesture in the room offered the same bargain. One inheritance could be honored. The other could be discarded.
 
-The marshal held out his hand. "Set it on the table."
+The child looked at the Seatkeeper.
 
-Vumo backed until the scabbard struck the wall. The room had one door, two shuttered windows, and no other way out except the hearth, which would fit a cat but not a courier with a royal sword.
+She had meant to give reassurance. Instead she glanced at the sword rest, too quick and too plainly. The child's mouth hardened.
 
-Veldan glanced at the marshal's hand. He lowered it.
+They unbuckled the royal sword. The Captain leaned forward. The child carried it past the bier and laid it on the black floor band beneath the place where the two mosaic blades met. Then they took off the demon signet.
 
-"Blackmere," she said. "Tell me what is moving toward it."
+For an instant the Seatkeeper expected iron to strike bronze. The child set the signet beside the sword.
 
-Relief made Vumo's knees shake. This was route language. "Two human banners from the west. The first left the chalk ford at second bell. Wagons, so they take the causeway. The second crossed the lower ferry before noon. No wagons. They can cut through the willow fields and come into Blackmere from the north."
+They knelt on the battle line, not on the king's white marble and not on the red field assigned to the queen. Their head bowed until the horn tips touched the scabbard. One hand closed around the signet; the other held the ugly copper knot in the grip. The pose had no place in court ritual. It was unbalanced and uncomfortable. After a few breaths, the child's knees slid on the polished stone, and they caught themselves with an elbow.
 
-The marshal put his boards down. "Numbers?"
+No one moved to help.
 
-"First, maybe three hundred feet and thirty horses. Second, less. I counted cook carts, not feet."
+The Seatkeeper saw then what the court had required of them: not evidence, but amputation. It had made her brother easier to mourn by leaving no space beside him for the child who had survived him. It had made an enemy eternal so no one need wonder what had passed between king and queen before the killing blow, or why the sword had crossed the border in her keeping.
 
-"Why?"
+She did not know whether the demon queen lived. She did not know whether the queen had sent the child as heir, hostage, weapon, or burden. The child's bent head answered none of it. Grief was not testimony, but it was still grief.
 
-"Cook carts don't leave the line to piss in hedges."
+The Seatkeeper lifted the bronze ash basin and carried it to the wall. Its feet shrieked faintly across the stone. She set it beneath an old rain stain, far from both child and bier. Then she sat on the black band, not beside the child but near enough that they could choose the distance.
 
-He accepted that with a short nod. "And the other army?"
+Around the court, certainty broke unevenly. The keeper of seals lowered his eyes. One judge knelt on the white marble; another remained standing. The Captain watched the passage behind them, counting bodies and exits because that was the shape fear took in him.
 
-"Recovery column. East ridge road. Four companies when they left, but the stone descent makes them single file. Their captain won't take the marsh cut in rain. He hates losing boots."
+The child raised their head. Their cheeks were dry. After considering the Seatkeeper for several long breaths, they took the hidden plum from their coat and rolled it across the black stone. It stopped against the hem of her robe. The Seatkeeper set it between them. She did not eat it. Neither did the child.
 
-"You know him?" Veldan asked.
+* * *
 
-Vumo looked at the door. "He is my mother's brother."
+At the throne-room doors, the First Captain barred the way.
 
-The marshal's fingers returned to the top message board. "Convenient."
+Sunlight had reached the upper windows. Less than an hour remained before it touched the western wall, and the antechamber beyond the Captain had filled again. The rival houses stood in ordered blocks. Their covered banners were now upright. The silence had sharpened every shuffle, buckle, and drawn breath.
 
-"No. He knows all my hiding roads."
+The Captain planted his command staff across the threshold. He pointed to the royal sword, then to the hands of the waiting guards.
 
-The page arrived with bread and a clay cup. Vumo drank without taking their eyes off the marshal. He had begun arranging wooden markers on the map: two blue west of Blackmere, four black to the east. Five more blue markers remained in his fist, for levy companies on farther roads.
+The child stared at him. Sweat had pasted their hair to their temples beneath the torn hood. The sword belt was slipping again. For one ugly moment the Seatkeeper feared they would draw. Not because the sword had willed it, or blood demanded it, but because tired children made terrible choices when adults arranged the room to leave only terrible choices.
 
-"If the western force keeps its pace," he said, "the lead banner reaches the village before sunset. The second arrives near dark. Riders leaving now could meet the first at the mill bridge, if the west gate clears them at once. The northern approach is harder."
+The child turned around, walked back into the memorial court, unfastened the belt, and placed sword and scabbard in the center of the open floor. Then they returned empty-handed. The weapon lay beyond their reach and beyond the Captain's threshold. It belonged to no one's custody but the witnesses'.
 
-"Send both," Veldan said.
+The Captain kept his staff raised. The Seatkeeper removed the audience again.
 
-"With whose order?"
+This time there was no confusion in her gesture. She pointed to the outer gallery, then to each house in turn. Silk shifted. Faces flushed. One by one the blocks broke apart and withdrew until only the three judges, the keeper of seals, and six palace guards remained. The Captain tightened his grip. She pointed the guards out as well.
 
-"Mine."
+His eyes found hers. Fifteen years of service stood between them: riots contained, borders held, assassination letters burned, nights when his soldiers had been the only thing between caretaker and crown. She knew what he protected. A command without a monarch became a private army by increments, each defensible on the day. He knew what she had permitted. A vacant throne had let them both call possession duty.
 
-"Your warning, perhaps. Not a recall. Half the captains will pause to argue whether the vacant seal binds them."
+The Captain looked past her to the child. They had begun picking dried plum skin from beneath one thumbnail.
 
-"Then choose riders who argue while moving."
+His staff lowered a finger's breadth. The child noticed. They straightened and attempted the soldiers' closed-fist salute. They used the wrong hand, struck their collarbone too hard, and winced. It might have been mockery. It might have been effort. The Captain's face passed through offense, surprise, and something close to shame.
 
-The marshal looked at her, then called through the door. He gave clipped instructions: two pairs from the west stable, one for the causeway, one by the willow track; fresh horses waiting at the second post; no trumpet at the gate. The page repeated every turn back to him before running.
+He stepped aside before anyone had sworn loyalty. The child crossed the threshold.
 
-Only when the footsteps had faded did Veldan face Vumo again. "Now. Did the queen send you with that sword?"
+* * *
 
-Vumo broke the bread in half. It was still warm. They had not expected that. "No."
+The vacant throne made them look smaller.
 
-"Did you steal it?" the marshal asked.
+It made everyone smaller; that was part of its design. The blackwood back rose twice a person's height, carved with human victories until no bare grain showed. The child approached only as far as the first step. Their attention fixed on the side passage through which they had entered. The route back to the sword remained open.
 
-"Yes."
+From gate to throne, the Seatkeeper had weighed the claim. The private repair and battle damage made the blade more than a court copy. The signet matched the queen's old impressions down to its chipped rim. The child's age, mixed features, and unconscious family habit made theft alone a poorer answer than inheritance. Any piece might deceive; together they met the old law's threshold for a minor claimant under witnessed regency. They revealed nothing about the queen's purpose, and promised nothing about the ruler the child might become.
 
-His chair scraped. Veldan did not move.
+The Seatkeeper laid the succession skin on the low table. Its old marks were simple: a sovereign's chosen figure in the upper circle, a regent's seal inside a boundary below, military submission at the foot. No mark could prove parentage. No wax could make a good ruler. The instrument could only record what living people had risked in one another's sight.
 
-"How did you reach it?" she asked.
+She opened the cedar box. Her seal showed a key laid across an empty chair. For fifteen years it had granted her power to preserve the estate, collect revenue, appoint judges, and command defense without occupying the throne. At sunset the outer ring would become void. A minor sovereign could renew her service only inside a smaller ring, ending at majority and forbidding her to alter the succession, begin a war, or dispose of the royal household. Those limits were cut into the bronze rim as notches any witness could count.
 
-"I take route slips to the queen's lower archive. The long box is on the inventory every month. The lock lifts if you turn it halfway first."
+She warmed the wax. Before the child touched stylus or crown, she pressed her seal into the bounded circle.
 
-Vumo shoved half the bread into a coat pocket for their little brother, though by the time they got home it would be hard as roof tile. "The human levy was already called. They said Blackmere had fed demon scouts. The queen sent no soldiers until I took the sword. Then she sent my uncle because he is meant to bring back both."
+The impression came out crooked. One side of the chair vanished into red. Good. Let it be plain that she had bound herself before she knew whether they would choose her.
 
-"Both?"
+She placed the stylus beside the upper circle and retreated from the table. Then she took the crown from its cushion and set it on the lowest throne step, leaving both the side passage and the main doors clear.
 
-"Me and the sword."
+The child could walk out. The Captain's staff no longer blocked the way. Their sword waited in the memorial court. Whatever the queen intended, whatever the kingdom desired, the space around the succession table held no hand but theirs. The light climbed the western wall.
 
-"In what order?" Veldan asked.
+The child approached the skin. They examined the Seatkeeper's impression, tracing the boundary notches without touching the wax. Their hand went to the demon signet, still hanging at their chest. The keeper of seals offered a shallow dish for it. They ignored him.
 
-Vumo looked at her. She had heard the part that mattered.
+With the signet clenched in the left hand, they took the stylus in the right. The first stroke tore the prepared surface. The second wandered. They frowned, scraped a patch smooth with the stylus handle, and began again. This time they made a small figure of three joined angles, cramped but unmistakably deliberate. Then they put the stylus down.
 
-"He is supposed to say the sword first."
+No fire passed through the room. The sword remained on the memorial floor. The mark was valid because the child had made it freely before witnesses, and because the adults present would now be answerable for honoring it.
 
-The marshal circled the table. "Give it to us and we can end this."
+The First Captain came to the table. His command staff ended in an iron cap worn bright by his palm. Once impressed beneath a sovereign's mark, it submitted the palace garrison and dissolved every emergency authority he had accumulated during the vacancy. He held it above the wax long enough for the sun to touch the final row of carvings.
 
-"Can you?"
+Then he pressed down.
 
-"That weapon carried orders to every sworn captain in the realm."
+The keeper of seals folded the skin. The three judges set their plain witness marks along the seam. The caretaker compact ended inside the same breath as the regency began.
 
-"It carried nothing for me. I held it. I talked at it. I even said the long king words from the box."
+The Captain went to one knee. The judges followed, one readily, one stiffly, one after looking toward the empty gallery. The Seatkeeper knelt last. She did not bow to the sword, the signet, or the mingled blood courtiers would soon make into a story. She bowed to a tired child who had been given room to refuse and had chosen an obligation no child should have needed to carry alone.
 
-"What long words?"
+On the western wall, the last light withdrew.
 
-Vumo tried to remember. "Sovereign imperative. Lawful issue. The rest had too many joins."
+Somewhere beyond the palace, bells began to strike the end of silence. The child flinched at the first blow. The crown waited on the step, too large and much too clean.
 
-Veldan pulled back a chair and sat. "The sword is a focus. It has no ear. A living crowned bearer supplies the call; the metal gives it a road to the oath-rings."
+They picked it up, turned it over, and set it on the throne's broad arm. Then they sat on the lowest step with the iron signet safe in both hands.
 
-"So crown somebody," Vumo said.
+No one mistook the seat for vacancy.
 
-The marshal breathed out through his nose. Veldan merely looked at the two blue markers moving, in Vumo's mind, along roads no piece of painted wood could show.
+* * *
 
-"There have been six claimants in fifteen years," she said. "Three could persuade a district to obey them. One could perhaps survive a coronation. None could hold enough captains together to prevent the others from testing the claim."
+Night found the new sovereign in the family wing.
 
-"You could."
+The Seatkeeper had opened her brother's chamber. Its bed had been remade every seventh day for fifteen years, its shutters oiled, its winter robes aired and returned to cedar chests. The child stood in the doorway, took in the vast bed and the preserved boots beneath it, and backed away.
 
-"I have authority as the king's sister to attempt it. That is not the same as having the capacity to use what follows."
+They chose the little map room across the corridor instead.
 
-The difference balanced neatly in court speech. Vumo understood only the refusal.
+It had a narrow couch, shelves crowded with rolled borders, and a window seat deep enough to sleep in. The Seatkeeper sent the servants away before they could transform it into another shrine. She brought water, a basin, bread, and the royal sword herself.
 
-Outside, boots hammered across the bridge. A guard shouted. The gatehouse horn answered with the same long note and two short that had sounded on the east road.
+The child had removed the torn hood. Their horn tips curved back close to the skull, one ridged, one chipped. They watched as she laid the sword on the window seat within easy reach. For the first time that day, their hand did not close around it at once.
 
-Vumo closed their coat over the hilt.
+The Seatkeeper placed the plum from the memorial court beside the bread. She indicated the bell pull, the water, the inner bolt. Then she stopped. Practical gestures multiplied when affection lacked permission. She could fill the room with provisions and still make it a cell.
 
-The door opened hard enough to strike the wall. The demon captain entered between four guards, rain shining on the ridges of his swept-back horns. He had surrendered his sword belt, but not the brass signal horn across his chest. Its cord was the one Vumo's mother had repaired with green thread last winter.
+She moved to the door and left it open.
 
-His gaze found Vumo first. His shoulders dropped half an inch.
+Behind her, wood scraped softly over stone.
 
-"You left your coat," he said.
+The child had hooked one foot around a low stool. They dragged it from beneath the map table, shoved it across the rug, and left it beside the window seat. Not close enough to touch. Near enough that two people could look through the same pane.
 
-Vumo's hand tightened around the bread in their pocket. "This is my coat."
+Their gaze met hers and darted away. One hand rested on the demon queen's signet. The other, empty, held the stool steady.
 
-"Your rain coat. The one your mother patched twice."
+The Seatkeeper came back into the room.
 
-"Three times."
-
-"Vumo." His court pronunciation was usually flawless. Their name came out rough. Then he saw the sword and put the rest of himself back in order. "Lady Veldan. I am commissioned to recover property held under the demon queen's war seal and to return a minor courier to lawful family custody."
-
-The marshal said, "You brought four companies for a family errand?"
-
-"For an object whose theft may be treated as an act of war. Your levy supplied the interpretation before we arrived."
-
-"Your column is on our side of the ridge."
-
-"The ridge is disputed."
-
-They sounded as if they could continue until both armies met. Vumo slid between them and pointed at the map.
-
-"They'll come down here," they told Veldan, tapping the east road. "Not the marsh. If they see the first human banner in Blackmere, the front company closes the square from the south. Then my mother can't get from the dye yard to our house. My brother waits there after school. He doesn't know the cellar latch sticks."
-
-The captain's eyes went to Vumo's finger. "The column will not harm your family."
-
-"How do they know which family?"
-
-He opened his mouth. Nothing came.
-
-Veldan stood. "Can you countermand them?"
-
-"I have orders to recover the sword."
-
-"That is not what she asked," the marshal said.
-
-"I heard her."
-
-Another horn sounded below, closer now. The captain turned his head toward the window. His officers would hear whatever signal he gave. They would also record it.
-
-"I can redirect my own column," he said. "I cannot answer for what the queen sends after I disobey her."
-
-"I need today," Vumo said. "Tomorrow has other roads."
-
-The captain rubbed the green thread on his horn cord with one thumb. "First the sword."
-
-Vumo stepped away from him.
-
-Veldan's face went still. "Why did your queen keep it?"
-
-The captain looked away from Veldan and toward the marshal, measuring who knew what.
-
-Vumo had carried the answer across two borders. They had held it back because it belonged to the queen, because their uncle would call it war testimony, because adults became dangerous when a story fit what they already wanted. But Veldan had sent riders before knowing whether Vumo was thief or bait.
-
-"She said she didn't kill him," Vumo said.
-
-The marshal's hand struck the table. "Careful."
-
-"I am. I asked her last winter why a sword that never moved needed four guards on its route slip. She said she broke his shield, and he cut through her shoulder wing. Then he felt the human banners reach the valley and saw where they'd meet. He had called all of them forward with the sword. He called all of them back. She said the second call burned the life out of him."
-
-The captain shut his eyes once.
-
-Veldan asked, "You were there?"
-
-"I carried the queen's standard. I saw him standing after her blade was down. I saw him raise the sword. Then every human oath-ring on the field lit white." The captain's formal cadence thinned. "When it ended, he was on his knees. The queen took the weapon because... because if another crown reversed that recall, the war began again."
-
-"And because we could not call our own captains without it," the marshal said.
-
-"Both can be true."
-
-Veldan walked to the shutter and opened it. Evening wind lifted the map papers. "My brother's body had one shoulder wound, shallow. His sword hand was burned to the elbow. The physicians wrote that his heart looked sound and stopped anyway. I thought they had hidden the queen's poison."
-
-She turned toward the royal stair.
-
-"Bring the boards," she told the marshal.
-
-He understood before Vumo did. "If you take the seat now, every claimant will call it a panic crown."
-
-"Yes."
-
-"The sword may reach every oath-ring still sworn. One call would cover all western approaches."
-
-"It would also repeat his scale. Bring the boards."
-
-The climb to the throne room was one hundred and twelve steps. Vumo counted because counting kept the sword from dragging and the captain from catching their eye. The marshal climbed fast enough to interrupt anyone who might have spoken. Veldan climbed slowly, saving breath. At the ninety-third step, the east horn sounded again.
-
-The throne room was smaller than the songs made it. Dust covered the benches along the walls. The throne itself was black oak worn pale at both arms, and on its seat rested a plain iron circlet in a folded square of linen. No ghost guarded it. No light fell from the ceiling.
-
-Veldan took off her riding coat. "Marshal, witness under the old succession."
-
-"I witness your lawful claim," he said. "I do not promise the realm will be sensible about it."
-
-"Noted."
-
-She lifted the circlet with both hands and placed it on her own head. Then she sat.
-
-Nothing happened.
-
-Vumo nearly laughed. The captain made a small sound that might have been relief.
-
-Veldan held out her hand. "Vumo. The sword proves you carried it here. It proves nothing else about you. Will you give it into my control for one bounded call?"
-
-That was not *submit*. Vumo could hear the edges of it.
-
-They unbuckled the strap. When Veldan took the weight, the relief was so sudden Vumo swayed. She laid the blade across her knees, drew it two handspans, and pressed her living palm to the flat below the guard.
-
-Gold traveled through the crowned bird. It did not wake like an eye. It merely carried what she put into it.
-
-The marshal set two blue markers on the step below her. "The causeway banner first. The nearer ring. Then the north company. Stop both."
-
-"There are seven banners in motion," Veldan said.
-
-"Those two cover Blackmere. The others can be delayed by riders if the captains cooperate."
-
-"If they don't?"
-
-"Then I ride after them myself."
-
-Veldan nodded and spoke the name of the first captain, not loudly, but the gold ran down the fuller. "Halt at the mill bridge. Do not enter Blackmere. Hold west of the water and await written orders."
-
-Somewhere beyond the hills, an oath-ring received her.
-
-Her fingers clenched. Vumo saw pain pull the color from her mouth. She waited until her breathing slowed, then named the captain approaching through the willow fields.
-
-"Turn north at the split oak. Camp above the lower ferry. Do not approach Blackmere."
-
-The gold went out. Veldan pushed the blade back into its scabbard with both hands, then leaned against the throne. A thread of blood slipped from one nostril.
-
-The marshal knelt only long enough to take the message boards. "I can send riders for the remaining five."
-
-"Send them. No royal call unless they refuse."
-
-He was already on his feet, calculating aloud as he went. "West pair changes at the barley post. North pair cuts the abbey field. One reserve behind each in case a horse founders. Gate clear in four minutes."
-
-His boots diminished down the stair.
-
-The captain remained beside the dusty benches. No gold had crossed his horn. No order had reached into him.
-
-Vumo said, "The east road is yours."
-
-"The sword remains ours."
-
-"My mother won't care whose sword it is."
-
-"Your mother will care whether I come home under arrest. She will care whether you are charged with theft. She will..." His hand closed around the horn. The rest failed him.
-
-Vumo waited. Below the keep, the gate bell rang four times as the marshal's riders went out.
-
-The captain crossed to the open western shutter. He raised the brass horn and blew three descending notes, paused, then sounded one low note twice. The pattern carried across the roofs toward the eastern ridge.
-
-Halt. Turn south to dry ground. Make camp.
-
-An answer came faintly through the rain.
-
-The captain lowered the horn. "My counterorder. My liability. It does not settle the weapon."
-
-Veldan wiped her nose on the unbuttoned cuff of her riding coat. "No. It settles your column for tonight."
-
-Vumo went to the window. Far down the west road, one smear of dust had stopped before the river. The other bent northward, barely visible between the willows. On the east ridge, horns passed the captain's order from company to company, each repetition fainter than the last.
-
-Blackmere still lay between them, and nothing was moving toward it.
-
-Veldan called for the gate sergeant. When he arrived, she told him to prepare the fastest sound horse in the stable, two escorts, food, and a dry coat small enough for Vumo.
-
-"There should be a room made ready here," the sergeant ventured. His eyes kept drifting toward the circlet. "For the royal bearer."
-
-"Courier," Vumo said.
-
-Veldan pressed two fingers to her temple. "For the courier, then."
-
-"I need to go home."
-
-"Tonight?"
-
-Vumo traced the return route on the dusty sill. "South gate to the kiln track. Past the stopped column before full dark, then the sheep bridge. The river road is shorter, but your first banner is sitting on it now."
-
-The captain said, "I am going with you."
-
-It did not sound like custody this time. Vumo considered him, then nodded once.
-
-The sergeant led them toward the stair. At the top, Vumo looked back.
-
-Veldan had not risen from the throne. The sword lay across its arms while she read the first of the marshal's returning boards, one hand holding the page steady against the evening wind. The circlet sat crooked on her hair. Below, stable doors opened, riders shouted for room, and a groom swore at a frightened horse.
-
-Vumo started down before anyone could straighten the crown.
+She sat where the child had put her, while the sword lay quiet between them and the door remained open.
