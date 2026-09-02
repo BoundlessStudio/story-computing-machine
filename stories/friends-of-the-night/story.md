@@ -3,7 +3,7 @@ title: "Friends of the Night"
 slug: "friends-of-the-night"
 created: 2026-08-07
 created-at: 2026-08-07T09:03:57-04:00
-canon: false
+canon: true
 ---
 
 # Friends of the Night
