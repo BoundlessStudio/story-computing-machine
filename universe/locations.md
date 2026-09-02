@@ -1051,3 +1051,27 @@
   - The pub and its apparatus are nonliving. Its country, polity, village,
     exact era, legal regime, long-term business outcome, and relationship to
     any other established place remain unresolved.
+
+## Shalegate
+
+- Status: LOCKED
+- Summary: Shalegate is a fortified settlement in a barley-growing border
+  valley that overlaps the local feeding range and den network of shadow
+  beasts.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: None
+- Notes:
+  - Shalegate has a walled fort with east and south beacons, a lower gate and
+    wicket, inner roofs, a north path and ledge, western road and outer ridge,
+    barley fields, streams, hazels, beast runs, dens, and boundary cairns.
+  - Local residents once used beacon-lit hunts, hounds, hooked poles, and drive
+    paths against shadow beasts after fire-lengthened shadows reached outer
+    houses. Tavik's later dusk-keeping changed lamp, slaughter, and run practices
+    and ended the drives for at least six years before Drost's siege.
+  - Shalegate fielded 406 fit defenders during the siege. Its broader
+    population, polity, government, economy, exact borders, country, and later
+    relationship with Drost's unnamed homeland remain unresolved.
+  - The valley exists in a magic-active span of history. Its civil date,
+    Galactic Cycle coordinate, and relationship to any other established place
+    remain unresolved.

@@ -2028,3 +2028,110 @@
     back. The fae leaves carrying the old binding, with no return established.
     Sedge's age, gender, wider family, and connections to other known people
     remain unspecified.
+
+## Tavik
+
+- Status: LOCKED
+- Summary: Tavik is Shalegate's dusk-keeper, whose six years of observation
+  and tolerated nearness with Crooktail helped end beast drives and later
+  enabled an invading host's noncombat withdrawal.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: None
+- Notes:
+  - Tavik succeeded Denek, shuttered house lamps, moved slaughter scraps away
+    from lanes, cut new beast runs toward the stream, and ended the organized
+    drives. No Shalegate resident shrank during the following six years.
+  - Tavik regularly left food for Crooktail and learned some local routes,
+    feeding signs, fire conditions, and recovery boundaries. Tavik cannot read,
+    command, or guarantee a shadow beast's choices and recognizes that
+    familiarity is not proof of humanlike friendship.
+  - During Drost's siege, Tavik helped confirm outward restoration, opposed
+    killing diminished captives, negotiated an unlit withdrawal route, helped
+    free Crooktail, and marked the boundary road used by the retreating host.
+  - Tavik's age, gender, origin, later office, relationship with Crooktail, and
+    connection to any other established person remain unresolved.
+
+## Denek
+
+- Status: LOCKED
+- Summary: Denek is Shalegate's former dusk-keeper and beast hunter, whose
+  knowledge of the old drives helped Tavik free Crooktail and guide the siege
+  withdrawal without erasing Denek's prior role in killing beasts.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: None
+- Notes:
+  - Denek taught Tavik local safety rules and remembered that earlier beacon
+    light had drawn feeding routes through outer homes before hunters answered
+    with hounds, hooked poles, and organized drives.
+  - During the siege he guided Tavik along an old drive path, cut Crooktail's
+    net, marked the retreat fork, and helped reopen a burned, collapsed den.
+    These actions do not establish that he stopped fearing the beasts or that
+    the former hunts were harmless.
+  - Denek's age, origin, later work, wider relationships, and fate remain
+    unresolved.
+
+## Torma
+
+- Status: LOCKED
+- Summary: Torma is Shalegate's defense captain, who protected diminished
+  captives, authorized the darkened rescue route, negotiated Drost's retreat,
+  and held the fort's archers during the withdrawal.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: None
+- Notes:
+  - Torma initially kept the fort beacons lit while ordering water and mapped
+    beast runs, then hooded the lights in sections after the invaders' expanded
+    fires trapped beasts and intensified the danger.
+  - Her withdrawal terms required abandoned siege engines and stacked pikes,
+    extinguished open flames, sheathed sidearms, a dusk departure, and continued
+    movement beyond bow range. She repeatedly ordered Shalegate's defenders to
+    hold fire while the host crossed the boundary.
+  - Torma's age, origin, formal rank beyond defense captain, later command, and
+    connection to any other established person remain unresolved.
+
+## Marshal Drost
+
+- Status: LOCKED
+- Summary: Drost is the invading marshal who brought 1,842 soldiers into
+  Shalegate, worsened the shadow-beast danger with expanded fires and nets, and
+  ultimately led the surviving host out under negotiated terms.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: Drost
+- Notes:
+  - Drost initially rejected Tavik's unlit withdrawal offer and ordered wider
+    fire lines with nets and handlers. He later became partly diminished,
+    released Crooktail's final net anchor, accepted Torma's terms, and imposed
+    disciplined intervals and fire restrictions during the retreat.
+  - At the western boundary Drost reported 1,840 soldiers alive at the latest
+    count, with two of the earlier seventeen missing still absent. The story
+    establishes no reconciliation, alliance, surrender of sidearms, or later
+    peace between his polity and Shalegate.
+  - Drost's age, homeland, sovereign, prior campaigns, later command, and fate
+    remain unresolved.
+
+## Crooktail
+
+- Status: LOCKED
+- Summary: Crooktail is a nonverbal shadow beast in Shalegate's valley, known
+  to Tavik by a right-angled tail and pale forepaw seam and distinguished by a
+  voluntary, wary familiarity rather than obedience.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: None
+- Notes:
+  - Crooktail has a physical body with dark fur, ribs, broad toes, teeth, and
+    ordinary vulnerabilities; it can sneeze, carry mud and burrs, be trapped in
+    a net, suffer rubbed fur, and leave tracks.
+  - Tavik fed Crooktail for six years at a measured distance. Crooktail sometimes
+    ate nearby, once followed a blood-marked road, and after the siege chose to
+    approach closer than the old twelve-pace measure.
+  - Crooktail bit fire-stretched shadows during the siege and was freed from an
+    invader's net by Tavik, Denek, and Drost. Its choices establish no speech,
+    command bond, moral detection, immunity, or humanlike account of friendship.
+  - Crooktail's age, sex, origin, species boundaries, intelligence, later
+    relationship with Tavik, and connection to any other magical beast remain
+    unresolved.
