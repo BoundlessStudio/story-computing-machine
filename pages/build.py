@@ -146,13 +146,20 @@ def parse_writing_prompt(content: str, path: Path) -> str:
     if match is None:
         raise ValueError(f"{path} lacks a Prompt section")
 
+    source = match.group("prompt").strip()
+    wp_marker = re.search(r"\[?WP\]", source, flags=re.IGNORECASE)
+    if wp_marker is not None:
+        source = source[wp_marker.end() :]
+        paragraph_end = re.search(r"\n(?:[ \t]*>[ \t]*)?\n", source)
+        if paragraph_end is not None:
+            source = source[: paragraph_end.start()]
+
     lines = []
-    for line in match.group("prompt").strip().splitlines():
+    for line in source.splitlines():
         cleaned = re.sub(r"^\s*>\s?", "", line).strip()
         if cleaned:
             lines.append(cleaned)
     prompt = re.sub(r"\*\*", "", " ".join(lines)).strip()
-    prompt = re.sub(r"^(?:#{1,6}\s*)?\[?WP\]\s*", "", prompt, count=1).strip()
     if not prompt:
         raise ValueError(f"{path} has an empty Prompt section")
     return prompt
