@@ -2009,3 +2009,22 @@
   - The colony's species, origin, uninterrupted age, long-term intentions,
     continued residence, and relationship to any other organism, collective,
     magic, or established person remain unresolved.
+
+## Sedge
+
+- Status: CANON
+- Summary: Sedge is a shepherd who chooses a new working call-name after an
+  unnamed fae steals the old name's directional binding.
+- First established: stories/there-goes-your-name/story.md
+- Aliases: None
+- Notes:
+  - Sedge tends a flock with an unnamed fourteen-year-old sister and a trained
+    dog. Their dead father gave Sedge the undisclosed, two-syllable old name
+    and carved it into a horn whistle when Sedge was seven.
+  - The theft leaves Sedge's memory, family recognition, skills, and attachment
+    to the old name intact. Sedge abandons pursuit of the fae to rescue the
+    sister, a lame ewe, and its lamb using tracks, the dog, and a rope.
+  - Sedge chooses the new name for calling; the sister deliberately calls it
+    back. The fae leaves carrying the old binding, with no return established.
+    Sedge's age, gender, wider family, and connections to other known people
+    remain unspecified.
