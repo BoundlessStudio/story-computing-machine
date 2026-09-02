@@ -13,7 +13,10 @@ title image:
   every prior user-authored prompt or request block plus the new request
   verbatim into a clean Prompt section and inventories every associated
   reference display name; machine selection, cover-policy, and workflow
-  metadata do not survive.
+  metadata do not survive. Within that preserved material, `[WP]` marks the
+  reader-facing writing prompt; adjacent untagged explanation or context stays
+  in `prompt.md` for production but is not part of the prompt published on
+  GitHub Pages.
 - `outline.md` — the draftable narrative shape, proposed people and places, and
   relevant continuity boundaries.
 - `story.md` — the reader-facing prose and its minimal metadata.
@@ -164,7 +167,11 @@ For an AI-performed localized story edit:
 
 Use the `story-create` skill for a new prompt tagged `[WP]`. Use `story-room`
 only for its shared OUTLINE, REVIEW, and TITLE IMAGE stage contract or when the
-user requests one named stage.
+user requests one named stage. Treat the text following `[WP]` through the end
+of that blockquote paragraph as the writing prompt. Preserve surrounding
+user-authored material verbatim as production context, but do not fold it into
+the reader-facing prompt. New requests should use one `[WP]` marker and separate
+any additional context into a later blockquote paragraph.
 
 1. Before scaffolding, identify and visually inspect every reference image
    attached to the request. Scaffold the four files with `new-story.ps1`,
@@ -535,7 +542,10 @@ That unlock makes the story editable but does not itself alter authoritative
 GitHub Pages builds and publishes only that snapshot; it never traverses
 `stories/` or runs story validation. The `capture` command requires a passing
 review and copies one completed story and its title image into the snapshot
-without rerunning full validation. Keep the catalog ordered by full creation
+without rerunning full validation. For a tagged source, capture publishes only
+the blockquote paragraph introduced by `[WP]`; untagged context remains solely
+in the source `prompt.md`. Legacy Prompt sections without a `[WP]` marker keep
+their whole section as the display prompt. Keep the catalog ordered by full creation
 timestamp, newest to oldest, so the newest story is always the first card on the
 GitHub Pages index. New scaffolds record `created-at`; when a source has only a
 `created` date, capture combines that date with the story prose file's filesystem

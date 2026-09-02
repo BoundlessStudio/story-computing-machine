@@ -710,6 +710,7 @@ class StorySystemTests(unittest.TestCase):
             "> # [WP] A traveler returns through a gate.",
             "> # **[WP] A traveler returns through a gate.**",
             "> # WP] A traveler returns through a gate.",
+            "> [wp] A traveler returns through a gate.",
         )
         for source in cases:
             with self.subTest(source=source):
@@ -718,6 +719,45 @@ class StorySystemTests(unittest.TestCase):
                     "A traveler returns through a gate.",
                     build.parse_writing_prompt(prompt, Path("prompt.md")),
                 )
+
+    def test_prompt_parser_uses_only_wp_paragraph_for_pages(self):
+        prompt = (
+            "# Prompt\n\n## Prompt\n\n"
+            "> [WP] The stars turn to the first people. Humanity!\n"
+            ">\n"
+            "> Some context to think about: Earth may simply be first.\n\n"
+            "## Constraints\n\n- None\n"
+        )
+
+        self.assertEqual(
+            "The stars turn to the first people. Humanity!",
+            build.parse_writing_prompt(prompt, Path("prompt.md")),
+        )
+
+    def test_prompt_parser_starts_at_inline_wp_marker(self):
+        prompt = (
+            "# Prompt\n\n## Prompt\n\n"
+            "> Replacement and production context remains in this file.\n\n"
+            "> The title suggests [WP] The sky remembers us from both directions.\n\n"
+            "## Constraints\n\n- None\n"
+        )
+
+        self.assertEqual(
+            "The sky remembers us from both directions.",
+            build.parse_writing_prompt(prompt, Path("prompt.md")),
+        )
+
+    def test_prompt_parser_preserves_legacy_untagged_prompt_section(self):
+        prompt = (
+            "# Prompt\n\n## Prompt\n\n"
+            "> A quiet walk.\n> The rain follows.\n\n"
+            "## Constraints\n\n- None\n"
+        )
+
+        self.assertEqual(
+            "A quiet walk. The rain follows.",
+            build.parse_writing_prompt(prompt, Path("prompt.md")),
+        )
 
     def test_same_day_catalog_order_uses_source_file_time(self):
         with tempfile.TemporaryDirectory() as temporary:

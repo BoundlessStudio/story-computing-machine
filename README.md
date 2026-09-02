@@ -31,6 +31,10 @@ certificates. Each cover includes the exact reader-facing story title once.
 
    ```text
    [WP] Every city has a ghost assigned to it. Tonight, ours resigns.
+
+   Additional context may follow in a separate paragraph. It remains in
+   prompt.md for story production but is not displayed as the prompt on Pages.
+
    Target: about 3,000 words; close third person; melancholy but hopeful.
    ```
 
@@ -132,7 +136,11 @@ Capture requires a passing review but does not duplicate the full story check.
 It stores the prose in `pages/catalog.json` and copies the title image into
 `pages/covers/`. Capture and `capture-all` refuse to demote a catalog-canon story
 when its source marker disagrees; reconcile that marker through the named canon
-process first. The Pages index renders cover cards with each story's title,
+process first. When a Prompt section contains `[WP]`, only the text from that
+marker to the end of its blockquote paragraph is reader-facing; surrounding
+untagged context remains available in `prompt.md` but is omitted from Pages.
+Legacy untagged Prompt sections continue to publish in full. The Pages index
+renders cover cards with each story's title,
 prompt, cover, created and edited dates, state, word count, and content rating;
 each story page places the cover below its title and prompt. The separate
 `timeline.html` page arranges every cover by its proposed place in the universal
