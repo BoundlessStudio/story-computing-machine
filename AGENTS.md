@@ -480,6 +480,24 @@ material reader-facing dialogue defect is independently blocking;
 Dialogue REVISE requires an overall REVISE and one concise targeted finding
 supported by no more than three short examples.
 
+Before higher-order dialogue judgment, scan every exchange against its adjacent
+action and narration for literal and conversational coherence: verbs must fit
+their objects and depicted actions; referents must resolve, or their ambiguity
+must be legible and handled by uptake; time and space must remain possible; the
+speaker's stance toward knowledge or perception must be supported; listeners
+must be able to recover the meaning to which the next turn responds; and a
+setup line must not exist only to manufacture a polished correction, joke,
+aphorism, or last word. Do not repair the prose charitably by
+substituting the author's likely intention for what is written, or promote what
+a speaker could have observed into evidence the prompt or scene does not
+supply. One line that materially confuses the event or reply causality is
+independently blocking and need not form a scene-wide pattern. Figurative
+language, lies, guesses,
+mistakes, deliberate misunderstanding, or non sequitur may depart from literal
+truth or adjacency only when their mode and intended effect are legible in the
+story. A reply may register confusion, affect, or figurative intent but may not
+retroactively supply semantic or technical content absent from the prior beat.
+
 `Craft profile: prospective-2026-08-21` extends the 08-18 contract without
 changing any completed 08-18 story. It keeps the same single Dialogue verdict.
 The reviewer forms a provisional dialogue judgment before opening the outline,
@@ -489,7 +507,9 @@ rhetorical ownership, reasoning-shape diversity, secondary-character chorus,
 unequal fluency under pressure, ordinary or single-purpose speech, and
 over-explanation in the final exchange. One earned aphorism or articulate
 exchange is acceptable. Only material scene-wide convergence is blocking, and
-any such failure feeds `Dialogue: REVISE` rather than a new review field.
+any such failure feeds `Dialogue: REVISE` rather than a new review field. This
+scene-wide threshold governs the higher-order convergence tests; it does not
+weaken the line-specific coherence gate above.
 
 `Craft profile: prospective-2026-08-23` extends that dialogue contract for new
 CREATE stories and replacements. Treat speech, writing, internal voices, signs, interfaces,

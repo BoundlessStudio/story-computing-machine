@@ -98,12 +98,29 @@
     without scripting confessions, reconciliations, or final thematic lines. An
     optional dialogue-pressure note is capped at 75 words.
   - Under the 2026-08-18 profile, revise every major dialogue exchange in place.
-    Test whether it changes knowledge, leverage, commitment, risk,
-    relationship, or action; whether abstraction belongs to the speaker;
-    whether exposition is needed by the listener; and whether the ending
-    explains action that already landed. Preserve unequal fluency when the
-    characters and pressure support it rather than imposing resistance or
-    inarticulacy as a quota.
+    Before higher-order craft, scan every exchange in order for shared-reality
+    coherence: the words must fit the depicted action and object; references
+    must resolve, or their ambiguity must be legible and handled by uptake; time
+    and space must remain possible; the speaker's stance toward knowledge or
+    perception must be supported; and each reply must follow from what its
+    listener could reasonably understand. Figurative language, lies, guesses,
+    mistakes, and deliberate misunderstanding may
+    depart from literal truth or adjacency only when their mode is legible. A
+    reply may register confusion, affect, or figurative intent but may not
+    supply semantic or technical content absent from the prior beat.
+    When the prompt or scene explicitly limits evidence, do not promote what a
+    speaker could have observed into what they did observe; new evidence may
+    arrive through dialogue only when no supplied boundary forbids it.
+    Setup and delivery are one causal unit. Reject a line that exists only to
+    manufacture a correction, joke, aphorism, or last word, and do not let
+    voice, wit, rhythm, subtext, or dramatic function compensate for broken
+    scene-grounded sense.
+  - After that coherence gate passes, test whether each major exchange changes
+    knowledge, leverage, commitment, risk, relationship, or action; whether
+    abstraction belongs to the speaker; whether exposition is needed by the
+    listener; and whether the ending explains action that already landed.
+    Preserve unequal fluency when the characters and pressure support it rather
+    than imposing resistance or inarticulacy as a quota.
   - The reviewer reads prompt and prose before the outline and records
     `Dialogue: PASS`, `REVISE`, or `N/A`. N/A means essentially no meaningful
     dialogue. A material reader-facing dialogue failure is blocking
@@ -128,8 +145,10 @@
     reasoning-shape diversity, secondary-character chorus, unequal fluency
     under pressure, and the availability of ordinary or single-purpose speech.
     One earned aphorism or articulate exchange is allowed; only material
-    scene-wide convergence is blocking. The reviewer records the result through
-    the existing single Dialogue verdict after first judging prompt and prose
+    scene-wide convergence is blocking for those higher-order pattern tests.
+    One materially incoherent line may independently block under the
+    shared-reality gate above. The reviewer records the result through the
+    existing single Dialogue verdict after first judging prompt and prose
     without the outline.
   - `Craft profile: prospective-2026-08-23` extends 08-21 for newly scaffolded
     CREATE stories, including remove-then-create replacements. Before drafting,

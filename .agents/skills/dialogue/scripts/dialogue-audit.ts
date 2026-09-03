@@ -1,10 +1,11 @@
 #!/usr/bin/env -S deno run --allow-read
 
 /**
- * Dialogue Audit - Double-Duty and Anti-Pattern Checker
+ * Heuristic Dialogue Pattern Audit
  *
  * Analyzes dialogue for function coverage (plot, character, subtext, relationship)
  * and common anti-patterns (exposition dump, identical twins, etc.).
+ * It cannot judge literal or conversational coherence and never certifies PASS.
  *
  * Usage:
  *   deno run --allow-read dialogue-audit.ts scene.txt
@@ -23,7 +24,6 @@ interface DialogueAudit {
     subtextPresent: FunctionSignals;
     relationshipDynamics: FunctionSignals;
   };
-  functionScore: number;
 
   // Tag analysis
   tagAnalysis: {
@@ -40,6 +40,10 @@ interface DialogueAudit {
   // Overall assessment
   issues: string[];
   recommendations: string[];
+  manualReview: {
+    required: boolean;
+    cannotAssess: string[];
+  };
 }
 
 interface FunctionSignals {
@@ -54,6 +58,15 @@ interface AntiPattern {
   severity: "high" | "medium" | "low";
   evidence: string[];
 }
+
+const MANUAL_COHERENCE_GATES = [
+  "verb-object and action-language compatibility",
+  "referent resolution",
+  "physical and temporal possibility",
+  "speaker knowledge stance and perception",
+  "listener uptake and reply causality",
+  "whether a line should exist",
+];
 
 // Patterns for detecting dialogue functions
 
@@ -98,14 +111,46 @@ const EXPOSITION_PATTERNS = [
 ];
 
 const SAID_BOOKISMS = [
-  "exclaimed", "declared", "announced", "proclaimed", "stated",
-  "uttered", "articulated", "vocalized", "verbalized", "intoned",
-  "opined", "remarked", "observed", "noted", "commented",
-  "retorted", "countered", "snapped", "barked", "growled",
-  "hissed", "snarled", "spat", "thundered", "boomed",
-  "cooed", "purred", "breathed", "sighed", "moaned",
-  "whimpered", "sobbed", "wailed", "shrieked", "screamed",
-  "chuckled", "giggled", "laughed", "snickered", "guffawed",
+  "exclaimed",
+  "declared",
+  "announced",
+  "proclaimed",
+  "stated",
+  "uttered",
+  "articulated",
+  "vocalized",
+  "verbalized",
+  "intoned",
+  "opined",
+  "remarked",
+  "observed",
+  "noted",
+  "commented",
+  "retorted",
+  "countered",
+  "snapped",
+  "barked",
+  "growled",
+  "hissed",
+  "snarled",
+  "spat",
+  "thundered",
+  "boomed",
+  "cooed",
+  "purred",
+  "breathed",
+  "sighed",
+  "moaned",
+  "whimpered",
+  "sobbed",
+  "wailed",
+  "shrieked",
+  "screamed",
+  "chuckled",
+  "giggled",
+  "laughed",
+  "snickered",
+  "guffawed",
 ];
 
 function countMatches(text: string, patterns: RegExp[]): string[] {
@@ -145,10 +190,13 @@ function analyzeDialogueTags(text: string): DialogueAudit["tagAnalysis"] {
 
   // Count action beats (sentences with dialogue followed by action, not tag)
   // Heuristic: dialogue ending with period followed by capital letter action
-  const actionBeatPattern = /"\s+[A-Z][a-z]+\s+(walked|stood|sat|turned|looked|crossed|nodded|shook|smiled|frowned|leaned|moved|stepped|grabbed|picked|put|set|ran|jumped)/gi;
+  const actionBeatPattern =
+    /"\s+[A-Z][a-z]+\s+(walked|stood|sat|turned|looked|crossed|nodded|shook|smiled|frowned|leaned|moved|stepped|grabbed|picked|put|set|ran|jumped)/gi;
   const actionBeats = text.match(actionBeatPattern) || [];
 
-  const foundBookisms = [...new Set(bookismMatches.map(m => m.toLowerCase()))];
+  const foundBookisms = [
+    ...new Set(bookismMatches.map((m) => m.toLowerCase())),
+  ];
 
   return {
     saidCount: saidMatches.length,
@@ -172,7 +220,8 @@ function detectAntiPatterns(text: string): AntiPattern[] {
   });
 
   // Emotional Narrator (adverbs in tags)
-  const emotionalTagPattern = /said\s+(angrily|sadly|happily|nervously|anxiously|fearfully|hopefully|desperately|quietly|loudly|softly|firmly|gently|harshly)/gi;
+  const emotionalTagPattern =
+    /said\s+(angrily|sadly|happily|nervously|anxiously|fearfully|hopefully|desperately|quietly|loudly|softly|firmly|gently|harshly)/gi;
   const emotionalMatches = text.match(emotionalTagPattern) || [];
   patterns.push({
     name: "Emotional Narrator",
@@ -182,7 +231,8 @@ function detectAntiPatterns(text: string): AntiPattern[] {
   });
 
   // The Philosopher (explicit theme statements)
-  const philosopherPattern = /\b(the moral is|what this means|the lesson here|you see|the truth is|life is about|that's what .* is really about)\b/gi;
+  const philosopherPattern =
+    /\b(the moral is|what this means|the lesson here|you see|the truth is|life is about|that's what .* is really about)\b/gi;
   const philosopherMatches = text.match(philosopherPattern) || [];
   patterns.push({
     name: "The Philosopher",
@@ -202,16 +252,6 @@ function detectAntiPatterns(text: string): AntiPattern[] {
     evidence: [...new Set(fillerMatches)].slice(0, 5),
   });
 
-  // On-the-nose emotions
-  const onTheNosePattern = /"[^"]*\b(I'm angry|I'm sad|I'm happy|I'm scared|I'm worried|I feel angry|I feel sad|I feel happy)\b[^"]*"/gi;
-  const onTheNoseMatches = text.match(onTheNosePattern) || [];
-  patterns.push({
-    name: "On-The-Nose Emotions",
-    detected: onTheNoseMatches.length > 0,
-    severity: onTheNoseMatches.length >= 2 ? "high" : "medium",
-    evidence: onTheNoseMatches.map(m => m.substring(0, 50) + (m.length > 50 ? "..." : "")),
-  });
-
   return patterns;
 }
 
@@ -222,7 +262,7 @@ function calculateDialogueRatio(text: string): number {
 }
 
 function auditDialogue(text: string): DialogueAudit {
-  const words = text.split(/\s+/).filter(w => w.length > 0);
+  const words = text.split(/\s+/).filter((w) => w.length > 0);
   const dialogueContent = (text.match(/"[^"]+"/g) || []).join(" ");
 
   // Detect functions
@@ -230,13 +270,11 @@ function auditDialogue(text: string): DialogueAudit {
     plotAdvancement: detectFunction(dialogueContent, PLOT_PATTERNS),
     characterReveal: detectFunction(dialogueContent, CHARACTER_PATTERNS),
     subtextPresent: detectFunction(dialogueContent, SUBTEXT_INDICATORS),
-    relationshipDynamics: detectFunction(dialogueContent, RELATIONSHIP_PATTERNS),
+    relationshipDynamics: detectFunction(
+      dialogueContent,
+      RELATIONSHIP_PATTERNS,
+    ),
   };
-
-  // Calculate function score (0-100)
-  const detectedCount = Object.values(functions).filter(f => f.detected).length;
-  const highConfidence = Object.values(functions).filter(f => f.confidence === "high").length;
-  const functionScore = Math.min(100, (detectedCount * 20) + (highConfidence * 10));
 
   // Analyze tags
   const tagAnalysis = analyzeDialogueTags(text);
@@ -248,19 +286,11 @@ function auditDialogue(text: string): DialogueAudit {
   const issues: string[] = [];
   const recommendations: string[] = [];
 
-  if (detectedCount < 2) {
-    issues.push("Dialogue may be single-function (fails Double-Duty Test)");
-    recommendations.push("Add a second purpose: character revelation, relationship shift, or subtext");
-  }
-
-  if (!functions.subtextPresent.detected) {
-    issues.push("No subtext indicators detected - dialogue may be too on-the-nose");
-    recommendations.push("Give characters hidden agendas; make them want things they can't ask for directly");
-  }
-
   if (!tagAnalysis.tagHealthy) {
     issues.push("Too many said-bookisms relative to 'said'");
-    recommendations.push("Replace descriptive tags with action beats or let dialogue carry emotion");
+    recommendations.push(
+      "Replace descriptive tags with action beats or let dialogue carry emotion",
+    );
   }
 
   for (const pattern of antiPatterns) {
@@ -269,39 +299,60 @@ function auditDialogue(text: string): DialogueAudit {
     }
   }
 
-  if (antiPatterns.find(p => p.name === "Exposition Dump" && p.detected)) {
-    recommendations.push("Find conflict in the information or have characters discover it on-page");
+  if (antiPatterns.find((p) => p.name === "Exposition Dump" && p.detected)) {
+    recommendations.push(
+      "Surface information through participant need, discovery, consequence, or genuine disagreement",
+    );
   }
 
-  if (antiPatterns.find(p => p.name === "Emotional Narrator" && p.detected)) {
-    recommendations.push("Remove adverbs from tags; let words and action beats carry emotion");
-  }
-
-  if (antiPatterns.find(p => p.name === "On-The-Nose Emotions" && p.detected)) {
-    recommendations.push("Convert direct emotional statements to shown behavior or subtext");
+  if (antiPatterns.find((p) => p.name === "Emotional Narrator" && p.detected)) {
+    recommendations.push(
+      "Remove adverbs from tags; let words and action beats carry emotion",
+    );
   }
 
   return {
-    lineCount: text.split("\n").filter(l => l.trim()).length,
+    lineCount: text.split("\n").filter((l) => l.trim()).length,
     wordCount: words.length,
     dialogueRatio: calculateDialogueRatio(text),
     functions,
-    functionScore,
     tagAnalysis,
     antiPatterns,
     issues,
     recommendations,
+    manualReview: {
+      required: true,
+      cannotAssess: MANUAL_COHERENCE_GATES,
+    },
   };
 }
 
 function formatReport(audit: DialogueAudit): string {
   const lines: string[] = [];
+  const detectedFunctionSignals =
+    Object.values(audit.functions).filter((f) => f.detected).length;
 
-  lines.push("# Dialogue Audit\n");
-  lines.push(`Words: ${audit.wordCount} | Dialogue ratio: ${(audit.dialogueRatio * 100).toFixed(1)}%`);
-  lines.push(`Double-Duty Score: ${audit.functionScore}/100\n`);
+  lines.push("# Heuristic Dialogue Pattern Audit\n");
+  lines.push(
+    "> This report is not a dialogue PASS. Run the manual Ground check before using any result or recommendation.\n",
+  );
+  lines.push(
+    `Words: ${audit.wordCount} | Dialogue ratio: ${
+      (audit.dialogueRatio * 100).toFixed(1)
+    }%`,
+  );
+  lines.push(
+    `Function-signal categories: ${detectedFunctionSignals}/4 (keyword heuristics only)\n`,
+  );
 
-  lines.push("## Function Detection (Double-Duty Test)\n");
+  lines.push("## Required Manual Ground Check\n");
+  lines.push("  This tool cannot assess:");
+  for (const gate of audit.manualReview.cannotAssess) {
+    lines.push(`  - ${gate}`);
+  }
+  lines.push("");
+
+  lines.push("## Function-Signal Detection\n");
   const functionNames = {
     plotAdvancement: "Plot Advancement",
     characterReveal: "Character Revelation",
@@ -313,7 +364,9 @@ function formatReport(audit: DialogueAudit): string {
     const func = audit.functions[key as keyof typeof audit.functions];
     const status = func.detected ? "+" : "-";
     const conf = func.detected ? ` (${func.confidence})` : "";
-    const signals = func.signals.length > 0 ? `: ${func.signals.slice(0, 3).join(", ")}` : "";
+    const signals = func.signals.length > 0
+      ? `: ${func.signals.slice(0, 3).join(", ")}`
+      : "";
     lines.push(`  ${status} ${label}${conf}${signals}`);
   }
   lines.push("");
@@ -323,12 +376,16 @@ function formatReport(audit: DialogueAudit): string {
   lines.push(`  Other tags: ${audit.tagAnalysis.otherTagCount}`);
   lines.push(`  Action beats: ${audit.tagAnalysis.actionBeatCount}`);
   if (audit.tagAnalysis.saidBookisms.length > 0) {
-    lines.push(`  Said-bookisms found: ${audit.tagAnalysis.saidBookisms.join(", ")}`);
+    lines.push(
+      `  Said-bookisms found: ${audit.tagAnalysis.saidBookisms.join(", ")}`,
+    );
   }
-  lines.push(`  Tag health: ${audit.tagAnalysis.tagHealthy ? "Good" : "Needs work"}`);
+  lines.push(
+    `  Tag health: ${audit.tagAnalysis.tagHealthy ? "Good" : "Needs work"}`,
+  );
   lines.push("");
 
-  const detectedPatterns = audit.antiPatterns.filter(p => p.detected);
+  const detectedPatterns = audit.antiPatterns.filter((p) => p.detected);
   if (detectedPatterns.length > 0) {
     lines.push("## Anti-Patterns Detected\n");
     for (const pattern of detectedPatterns) {
@@ -358,10 +415,22 @@ function formatReport(audit: DialogueAudit): string {
 
   if (audit.issues.length === 0) {
     lines.push("## Assessment\n");
-    lines.push("  Dialogue passes basic checks. Verify manually that:");
+    lines.push(
+      "  No heuristic pattern flags were found. This is not a coherence pass. Verify manually that:",
+    );
+    lines.push(
+      "  - Words describe the action and objects actually on the page",
+    );
+    lines.push(
+      "  - Each speaker's knowledge, guess, lie, or mistake is supported",
+    );
+    lines.push("  - Listeners can recover the meaning their replies depend on");
+    lines.push("  - Each line needs to exist");
     lines.push("  - Characters sound distinct (run voice-check)");
-    lines.push("  - Subtext is actually present (not just indicators)");
-    lines.push("  - Conversation changes something by the end");
+    lines.push(
+      "  - Any indirection or subtext is character- and context-supported",
+    );
+    lines.push("  - The exchange performs its participant-specific purpose");
     lines.push("");
   }
 
@@ -372,7 +441,7 @@ async function main(): Promise<void> {
   const args = Deno.args;
 
   if (args.includes("--help") || args.includes("-h")) {
-    console.log(`Dialogue Audit - Double-Duty and Anti-Pattern Checker
+    console.log(`Heuristic Dialogue Pattern Audit
 
 Usage:
   deno run --allow-read dialogue-audit.ts <file>
@@ -387,6 +456,10 @@ Checks for:
   - Function coverage (plot, character, subtext, relationship)
   - Tag usage (said vs. said-bookisms)
   - Common anti-patterns (exposition dump, emotional narrator, etc.)
+
+Cannot assess literal action-language fit, referents, speaker knowledge stance,
+listener uptake, reply causality, or whether a line should exist. This tool
+never certifies dialogue PASS; run the manual Ground check first.
 `);
     Deno.exit(0);
   }
@@ -398,7 +471,7 @@ Checks for:
     const textIndex = args.indexOf("--text");
     text = args[textIndex + 1] || "";
   } else {
-    const file = args.find(a => !a.startsWith("--"));
+    const file = args.find((a) => !a.startsWith("--"));
     if (file) {
       try {
         text = await Deno.readTextFile(file);
@@ -410,7 +483,9 @@ Checks for:
   }
 
   if (!text.trim()) {
-    console.error("Error: No text provided. Use --text or provide a file path.");
+    console.error(
+      "Error: No text provided. Use --text or provide a file path.",
+    );
     Deno.exit(1);
   }
 

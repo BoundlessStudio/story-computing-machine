@@ -260,6 +260,21 @@ departure from a default is not a finding. Keep the review short. Findings and
 outcomes belong in the file; hidden reasoning, audit narration, the craft
 checklist, and repeated plot summaries do not.
 
+Before judging higher-order dialogue craft, scan every exchange for literal and
+conversational coherence against its adjacent action and narration. Confirm
+verb-object and action-language fit, resolved or legibly ambiguous referents,
+possible time and space, a supported speaker stance toward knowledge or
+perception, listener uptake, reply causality, and whether a setup line exists
+only to manufacture a polished delivery. Do not charitably replace the written
+action with the author's likely intention or promote possible speaker access
+into an observation the prompt or scene does not supply. A single line that
+materially confuses what happened or why the next turn follows is independently
+blocking; it need not recur scene-wide. Figurative language, lies, guesses, mistakes,
+deliberate misunderstanding, or non sequitur may depart from literal truth or
+adjacency only when their mode and intended effect are legible in the story. A
+reply may register confusion, affect, or figurative intent but may not
+retroactively supply semantic or technical content absent from the prior beat.
+
 For `prospective-2026-08-21`, form the provisional dialogue judgment before
 opening the outline, then compare it with the Voice capsule as intent rather
 than proof. Test context dependence and quote-card neatness, rhetorical
@@ -269,7 +284,9 @@ final exchange explains what action already established. Upstream preferences
 for hidden agendas, verbal tics, universal subtext, multiple simultaneous
 functions, or punchy sentences are diagnostic suggestions, not requirements.
 One earned aphorism or articulate exchange is acceptable; only material
-scene-wide convergence changes the existing Dialogue verdict to REVISE.
+scene-wide convergence changes the existing Dialogue verdict to REVISE for
+these higher-order pattern tests. The basic coherence gate above remains
+line-specific.
 
 For an 08-23 CREATE story, including a replacement, treat speech, writing,
 internal voices, signs, interfaces, gesture, silence, and failed contact as
