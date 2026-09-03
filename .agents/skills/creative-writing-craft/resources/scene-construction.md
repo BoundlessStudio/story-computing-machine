@@ -25,19 +25,53 @@ everything, the description carries narrative weight and earns the opening.
 
 ## Dialogue
 
-Dialogue does at least two things at once: advance the plot AND reveal
-character, or reveal character AND build tension, or build tension AND seed
-information. Single-purpose dialogue ("As you know, the reactor is on the
-third floor") feels flat because real conversation is never purely
-transactional.
+**Shared reality comes first.** Before judging voice, subtext, or dramatic
+function, reconstruct the exchange in plain language. The words must fit the
+physical action and object, the speaker's stance toward knowledge or perception
+must be supported, pronouns and comparisons must resolve or their ambiguity
+must be legible and handled by uptake, and each reply must be a credible
+response to what the listener could understand. Figurative speech,
+lies, guesses, mistakes, and deliberate misunderstanding may depart from
+literal truth or adjacency only when their mode is legible. A response may
+register confusion, affect, or figurative intent but may not supply semantic or
+technical content absent from the prior beat. A polished line that requires the
+reader to repair the setup is not compressed dialogue; it is a continuity error
+at sentence scale.
 
-**Subtext.** Characters rarely say exactly what they mean. They deflect,
-understate, change the subject, answer a different question than the one asked.
-The gap between what's said and what's meant is where characterization lives.
+When the setup explicitly limits evidence, preserve that boundary. A speaker
+who could plausibly have seen something has not therefore seen it. Dialogue may
+reveal new evidence, but it may not silently invent an observation that the
+prompt or scene withholds.
+
+Setup and delivery form one causal unit. The delivery may sharpen, distort, or
+misunderstand what the setup supplies, but it cannot silently substitute a
+different action merely to land a joke or aphorism. If a word feels wrong,
+first ask whether the line should exist; changing the word alone may preserve
+an author-serving setup. Draft in causal order: event, speaker attention and
+aim, line mode, line, listener uptake, response. Do not write a delivery first
+and backfill the setup it needs.
+
+Once coherent, a meaningful exchange often does more than one thing: advance
+plot and reveal character, reveal character and build tension, or build tension
+and seed information. Individual lines may still coordinate, comfort, stall,
+refuse, or fail at contact without carrying a second purpose. The defect is an
+exchange that briefs the reader without participant-specific action, not every
+single-purpose utterance.
+
+**Subtext.** When characters have reasons not to speak directly, they may
+deflect, understate, change the subject, or answer a different question. The gap
+between what's said and what's meant can carry characterization; it is not a
+quota, and earned directness should remain direct.
 
 **Voice differentiation.** Each character should sound distinct enough that you
 could identify the speaker without dialogue tags. Vocabulary, sentence
 structure, speech patterns, what they choose to talk about.
+
+**Listener uptake.** For each response, state what the listener reasonably took
+the prior words or action to mean. The response may reveal a deliberate
+misreading, evasion, or confusion, but the scene must own that gap. Do not let a
+character answer the author's intended meaning when the spoken line does not
+carry it.
 
 **Action beats over dialogue tags.** "Said" is invisible; use it freely. Use
 action beats to show how something is said: "She set the cup down carefully.
