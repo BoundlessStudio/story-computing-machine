@@ -4,6 +4,8 @@
 
 > [WP] The gothic witch that lives in apartment next to you looks incredible youthful but it seems like every family in town owes her something.
 
+> lets restore the original story; but reall audit and correct the dialog as that is a many issue with the original version.
+
 ## Constraints
 
 - Target length: 2,500–4,000 words
