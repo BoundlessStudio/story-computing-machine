@@ -1,10 +1,11 @@
 #!/usr/bin/env -S deno run --allow-read
 
 /**
- * Voice Check - Dialogue Voice Distinctiveness Analyzer
+ * Voice Check - Quantitative Dialogue Voice-Pattern Analyzer
  *
  * Analyzes dialogue to measure how distinct each speaker's voice is.
  * Compares vocabulary, sentence patterns, and speech characteristics.
+ * It does not judge whether a line makes literal or conversational sense.
  *
  * Usage:
  *   deno run --allow-read voice-check.ts dialogue.txt
@@ -28,11 +29,17 @@ interface SpeakerStats {
 
 interface VoiceAnalysis {
   speakers: Record<string, SpeakerStats>;
-  overallDistinctiveness: number;
+  surfacePatternIndex: number | null;
   vocabularyOverlap: number;
+  sampleAdequate: boolean;
+  minimumLinesPerSpeaker: number;
   patternsComparison: PatternComparison[];
   issues: string[];
   recommendations: string[];
+  manualReview: {
+    required: boolean;
+    limitation: string;
+  };
 }
 
 interface PatternComparison {
@@ -42,19 +49,111 @@ interface PatternComparison {
   distinct: boolean;
 }
 
+const MIN_LINES_PER_SPEAKER = 5;
+
 // Common words to ignore in vocabulary analysis
 const STOP_WORDS = new Set([
-  "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for",
-  "of", "with", "by", "from", "as", "is", "was", "are", "were", "been",
-  "be", "have", "has", "had", "do", "does", "did", "will", "would",
-  "could", "should", "may", "might", "must", "shall", "can", "need",
-  "it", "its", "this", "that", "these", "those", "i", "you", "he",
-  "she", "we", "they", "me", "him", "her", "us", "them", "my", "your",
-  "his", "our", "their", "mine", "yours", "hers", "ours", "theirs",
-  "what", "which", "who", "whom", "whose", "where", "when", "why", "how",
-  "all", "each", "every", "both", "few", "more", "most", "other", "some",
-  "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too",
-  "very", "just", "also", "now", "here", "there", "then", "once",
+  "the",
+  "a",
+  "an",
+  "and",
+  "or",
+  "but",
+  "in",
+  "on",
+  "at",
+  "to",
+  "for",
+  "of",
+  "with",
+  "by",
+  "from",
+  "as",
+  "is",
+  "was",
+  "are",
+  "were",
+  "been",
+  "be",
+  "have",
+  "has",
+  "had",
+  "do",
+  "does",
+  "did",
+  "will",
+  "would",
+  "could",
+  "should",
+  "may",
+  "might",
+  "must",
+  "shall",
+  "can",
+  "need",
+  "it",
+  "its",
+  "this",
+  "that",
+  "these",
+  "those",
+  "i",
+  "you",
+  "he",
+  "she",
+  "we",
+  "they",
+  "me",
+  "him",
+  "her",
+  "us",
+  "them",
+  "my",
+  "your",
+  "his",
+  "our",
+  "their",
+  "mine",
+  "yours",
+  "hers",
+  "ours",
+  "theirs",
+  "what",
+  "which",
+  "who",
+  "whom",
+  "whose",
+  "where",
+  "when",
+  "why",
+  "how",
+  "all",
+  "each",
+  "every",
+  "both",
+  "few",
+  "more",
+  "most",
+  "other",
+  "some",
+  "such",
+  "no",
+  "nor",
+  "not",
+  "only",
+  "own",
+  "same",
+  "so",
+  "than",
+  "too",
+  "very",
+  "just",
+  "also",
+  "now",
+  "here",
+  "there",
+  "then",
+  "once",
 ]);
 
 function extractDialogue(text: string): Map<string, string[]> {
@@ -116,7 +215,9 @@ function extractDialogue(text: string): Map<string, string[]> {
   return speakers;
 }
 
-function analyzeVocabulary(lines: string[]): { unique: Set<string>; top: [string, number][] } {
+function analyzeVocabulary(
+  lines: string[],
+): { unique: Set<string>; top: [string, number][] } {
   const wordCounts = new Map<string, number>();
   const unique = new Set<string>();
 
@@ -150,19 +251,20 @@ function countContractions(lines: string[]): number {
 }
 
 function countQuestions(lines: string[]): number {
-  const questions = lines.filter(l => l.trim().endsWith("?")).length;
+  const questions = lines.filter((l) => l.trim().endsWith("?")).length;
   return lines.length > 0 ? questions / lines.length : 0;
 }
 
 function countExclamations(lines: string[]): number {
-  const exclamations = lines.filter(l => l.trim().endsWith("!")).length;
+  const exclamations = lines.filter((l) => l.trim().endsWith("!")).length;
   return lines.length > 0 ? exclamations / lines.length : 0;
 }
 
 function countFragments(lines: string[]): number {
   // Simple heuristic: lines without verbs or very short
   let fragments = 0;
-  const verbPatterns = /\b(is|are|was|were|am|be|been|being|have|has|had|do|does|did|will|would|could|should|can|may|might|must|shall|go|goes|went|gone|going|come|comes|came|coming|get|gets|got|getting|make|makes|made|making|know|knows|knew|knowing|think|thinks|thought|thinking|take|takes|took|taking|see|sees|saw|seeing|want|wants|wanted|wanting|say|says|said|saying|tell|tells|told|telling|ask|asks|asked|asking|need|needs|needed|needing|feel|feels|felt|feeling|try|tries|tried|trying|leave|leaves|left|leaving|call|calls|called|calling|keep|keeps|kept|keeping|let|lets|letting|begin|begins|began|begun|beginning|seem|seems|seemed|seeming|help|helps|helped|helping|show|shows|showed|showing|hear|hears|heard|hearing|play|plays|played|playing|run|runs|ran|running|move|moves|moved|moving|live|lives|lived|living|believe|believes|believed|believing|hold|holds|held|holding|bring|brings|brought|bringing|write|writes|wrote|writing|stand|stands|stood|standing|lose|loses|lost|losing|pay|pays|paid|paying|meet|meets|met|meeting|include|includes|included|including|continue|continues|continued|continuing|set|sets|setting|learn|learns|learned|learning|change|changes|changed|changing|lead|leads|led|leading|understand|understands|understood|understanding|watch|watches|watched|watching|follow|follows|followed|following|stop|stops|stopped|stopping|create|creates|created|creating|speak|speaks|spoke|speaking|read|reads|reading|allow|allows|allowed|allowing|add|adds|added|adding|spend|spends|spent|spending|grow|grows|grew|growing|open|opens|opened|opening|walk|walks|walked|walking|win|wins|won|winning|offer|offers|offered|offering|remember|remembers|remembered|remembering|love|loves|loved|loving|consider|considers|considered|considering|appear|appears|appeared|appearing|buy|buys|bought|buying|wait|waits|waited|waiting|serve|serves|served|serving|die|dies|died|dying|send|sends|sent|sending|expect|expects|expected|expecting|build|builds|built|building|stay|stays|stayed|staying|fall|falls|fell|fallen|falling|cut|cuts|cutting|reach|reaches|reached|reaching|kill|kills|killed|killing|remain|remains|remained|remaining)\b/i;
+  const verbPatterns =
+    /\b(is|are|was|were|am|be|been|being|have|has|had|do|does|did|will|would|could|should|can|may|might|must|shall|go|goes|went|gone|going|come|comes|came|coming|get|gets|got|getting|make|makes|made|making|know|knows|knew|knowing|think|thinks|thought|thinking|take|takes|took|taking|see|sees|saw|seeing|want|wants|wanted|wanting|say|says|said|saying|tell|tells|told|telling|ask|asks|asked|asking|need|needs|needed|needing|feel|feels|felt|feeling|try|tries|tried|trying|leave|leaves|left|leaving|call|calls|called|calling|keep|keeps|kept|keeping|let|lets|letting|begin|begins|began|begun|beginning|seem|seems|seemed|seeming|help|helps|helped|helping|show|shows|showed|showing|hear|hears|heard|hearing|play|plays|played|playing|run|runs|ran|running|move|moves|moved|moving|live|lives|lived|living|believe|believes|believed|believing|hold|holds|held|holding|bring|brings|brought|bringing|write|writes|wrote|writing|stand|stands|stood|standing|lose|loses|lost|losing|pay|pays|paid|paying|meet|meets|met|meeting|include|includes|included|including|continue|continues|continued|continuing|set|sets|setting|learn|learns|learned|learning|change|changes|changed|changing|lead|leads|led|leading|understand|understands|understood|understanding|watch|watches|watched|watching|follow|follows|followed|following|stop|stops|stopped|stopping|create|creates|created|creating|speak|speaks|spoke|speaking|read|reads|reading|allow|allows|allowed|allowing|add|adds|added|adding|spend|spends|spent|spending|grow|grows|grew|growing|open|opens|opened|opening|walk|walks|walked|walking|win|wins|won|winning|offer|offers|offered|offering|remember|remembers|remembered|remembering|love|loves|loved|loving|consider|considers|considered|considering|appear|appears|appeared|appearing|buy|buys|bought|buying|wait|waits|waited|waiting|serve|serves|served|serving|die|dies|died|dying|send|sends|sent|sending|expect|expects|expected|expecting|build|builds|built|building|stay|stays|stayed|staying|fall|falls|fell|fallen|falling|cut|cuts|cutting|reach|reaches|reached|reaching|kill|kills|killed|killing|remain|remains|remained|remaining)\b/i;
 
   for (const line of lines) {
     const wordCount = line.split(/\s+/).length;
@@ -179,7 +281,7 @@ function calculateSentenceLength(lines: string[]): number {
   let totalSentences = 0;
 
   for (const line of lines) {
-    const words = line.split(/\s+/).filter(w => w.length > 0);
+    const words = line.split(/\s+/).filter((w) => w.length > 0);
     totalWords += words.length;
     // Count sentence-ending punctuation
     const sentences = (line.match(/[.!?]+/g) || []).length || 1;
@@ -212,7 +314,7 @@ function analyzeSpeaker(name: string, lines: string[]): SpeakerStats {
 function calculateVariance(values: number[]): number {
   if (values.length < 2) return 0;
   const mean = values.reduce((a, b) => a + b, 0) / values.length;
-  const squaredDiffs = values.map(v => (v - mean) ** 2);
+  const squaredDiffs = values.map((v) => (v - mean) ** 2);
   return squaredDiffs.reduce((a, b) => a + b, 0) / values.length;
 }
 
@@ -230,7 +332,9 @@ function calculateOverlap(speakers: Map<string, SpeakerStats>): number {
 
   for (let i = 0; i < allWords.length; i++) {
     for (let j = i + 1; j < allWords.length; j++) {
-      const intersection = new Set([...allWords[i]].filter(w => allWords[j].has(w)));
+      const intersection = new Set(
+        [...allWords[i]].filter((w) => allWords[j].has(w)),
+      );
       const union = new Set([...allWords[i], ...allWords[j]]);
       totalOverlap += intersection.size / union.size;
       pairs++;
@@ -269,7 +373,9 @@ function analyzeVoices(speakerData: Map<string, string[]>): VoiceAnalysis {
       const nums: number[] = [];
 
       for (const name of speakerNames) {
-        const val = speakerStats.get(name)![metric.name as keyof SpeakerStats] as number;
+        const val = speakerStats.get(
+          name,
+        )![metric.name as keyof SpeakerStats] as number;
         values[name] = val;
         nums.push(val);
       }
@@ -285,58 +391,97 @@ function analyzeVoices(speakerData: Map<string, string[]>): VoiceAnalysis {
   }
 
   const vocabularyOverlap = calculateOverlap(speakerStats);
+  const sampleAdequate = speakerStats.size >= 2 &&
+    [...speakerStats.values()].every((stats) =>
+      stats.lineCount >= MIN_LINES_PER_SPEAKER
+    );
 
-  // Calculate overall distinctiveness (0-100)
-  const distinctPatterns = patterns.filter(p => p.distinct).length;
+  // Calculate a surface-pattern index only when every speaker has enough lines.
+  const distinctPatterns = patterns.filter((p) => p.distinct).length;
   const patternScore = (distinctPatterns / Math.max(patterns.length, 1)) * 50;
   const overlapScore = (1 - vocabularyOverlap) * 50;
-  const overallDistinctiveness = Math.round(patternScore + overlapScore);
+  const surfacePatternIndex = sampleAdequate
+    ? Math.round(patternScore + overlapScore)
+    : null;
 
   // Generate issues and recommendations
   const issues: string[] = [];
   const recommendations: string[] = [];
 
-  if (vocabularyOverlap > 0.6) {
-    issues.push("High vocabulary overlap between speakers");
-    recommendations.push("Give each character domain-specific vocabulary or verbal tics");
-  }
-
-  if (patterns.filter(p => !p.distinct).length > patterns.length / 2) {
-    issues.push("Speech patterns too similar across speakers");
-    recommendations.push("Vary sentence length, directness, or formality between characters");
-  }
-
-  const lowContraction = [...speakerStats.values()].filter(s => s.contractionRate < 0.05);
-  if (lowContraction.length === speakerStats.size && speakerStats.size > 0) {
-    issues.push("No speakers use contractions - may feel formal/wooden");
-    recommendations.push("Add contractions for more natural speech patterns");
-  }
-
-  const allQuestions = [...speakerStats.values()].filter(s => s.questionRate > 0.5);
-  if (allQuestions.length > speakerStats.size / 2) {
-    issues.push("Most speakers ask many questions - may indicate exposition dump pattern");
-  }
-
   if (speakerStats.size < 2) {
     issues.push("Need at least two speakers to compare voice distinctiveness");
+  } else if (!sampleAdequate) {
+    issues.push(
+      `Insufficient sample for a surface-pattern index; provide at least ${MIN_LINES_PER_SPEAKER} lines per speaker`,
+    );
+  } else {
+    if (vocabularyOverlap > 0.6) {
+      issues.push("High vocabulary overlap between speakers");
+      recommendations.push(
+        "Differentiate what each character notices, assumes, explains, and refuses to formulate",
+      );
+    }
+
+    if (patterns.filter((p) => !p.distinct).length > patterns.length / 2) {
+      issues.push("Speech patterns too similar across speakers");
+      recommendations.push(
+        "Vary sentence length, directness, or formality between characters",
+      );
+    }
+
+    const lowContraction = [...speakerStats.values()].filter((s) =>
+      s.contractionRate < 0.05
+    );
+    if (lowContraction.length === speakerStats.size) {
+      issues.push(
+        "All speakers have a low contraction rate; confirm that the formality is character- and scene-specific",
+      );
+    }
+
+    const allQuestions = [...speakerStats.values()].filter((s) =>
+      s.questionRate > 0.5
+    );
+    if (allQuestions.length > speakerStats.size / 2) {
+      issues.push(
+        "Most speakers ask many questions; inspect whether the pattern comes from character pressure or information delivery",
+      );
+    }
   }
 
   return {
     speakers,
-    overallDistinctiveness,
+    surfacePatternIndex,
     vocabularyOverlap,
+    sampleAdequate,
+    minimumLinesPerSpeaker: MIN_LINES_PER_SPEAKER,
     patternsComparison: patterns,
     issues,
     recommendations,
+    manualReview: {
+      required: true,
+      limitation:
+        "Surface-pattern analysis cannot assess literal or conversational coherence and never certifies PASS.",
+    },
   };
 }
 
 function formatReport(analysis: VoiceAnalysis): string {
   const lines: string[] = [];
 
-  lines.push("# Voice Distinctiveness Analysis\n");
-  lines.push(`Overall distinctiveness: ${analysis.overallDistinctiveness}/100`);
-  lines.push(`Vocabulary overlap: ${(analysis.vocabularyOverlap * 100).toFixed(1)}%\n`);
+  lines.push("# Quantitative Voice-Pattern Analysis\n");
+  lines.push(
+    "> Surface-pattern distinctiveness is not dialogue quality. Run the manual Ground check before using this report.\n",
+  );
+  if (analysis.sampleAdequate) {
+    lines.push(`Surface-pattern index: ${analysis.surfacePatternIndex}/100`);
+    lines.push(
+      `Vocabulary overlap: ${(analysis.vocabularyOverlap * 100).toFixed(1)}%\n`,
+    );
+  } else {
+    lines.push(
+      `Surface-pattern index: not reported (requires at least ${analysis.minimumLinesPerSpeaker} lines per speaker)\n`,
+    );
+  }
 
   lines.push("## Speaker Profiles\n");
   for (const [name, stats] of Object.entries(analysis.speakers)) {
@@ -347,7 +492,9 @@ function formatReport(analysis: VoiceAnalysis): string {
     lines.push(`  Questions: ${(stats.questionRate * 100).toFixed(1)}%`);
     lines.push(`  Fragments: ${(stats.fragmentRate * 100).toFixed(1)}%`);
     if (stats.topWords.length > 0) {
-      lines.push(`  Top words: ${stats.topWords.slice(0, 5).map(([w]) => w).join(", ")}`);
+      lines.push(
+        `  Top words: ${stats.topWords.slice(0, 5).map(([w]) => w).join(", ")}`,
+      );
     }
     lines.push("");
   }
@@ -357,7 +504,9 @@ function formatReport(analysis: VoiceAnalysis): string {
     for (const pattern of analysis.patternsComparison) {
       const status = pattern.distinct ? "+" : "-";
       const values = Object.entries(pattern.values)
-        .map(([name, val]) => `${name}: ${typeof val === 'number' ? val.toFixed(2) : val}`)
+        .map(([name, val]) =>
+          `${name}: ${typeof val === "number" ? val.toFixed(2) : val}`
+        )
         .join(", ");
       lines.push(`  ${status} ${pattern.metric}: ${values}`);
     }
@@ -387,7 +536,7 @@ async function main(): Promise<void> {
   const args = Deno.args;
 
   if (args.includes("--help") || args.includes("-h")) {
-    console.log(`Voice Check - Dialogue Voice Distinctiveness Analyzer
+    console.log(`Voice Check - Quantitative Dialogue Voice-Pattern Analyzer
 
 Usage:
   deno run --allow-read voice-check.ts <file>
@@ -405,7 +554,9 @@ Expected formats:
   - SPEAKER: Dialogue
 
 The tool compares vocabulary, sentence patterns, and speech characteristics
-to measure how distinct each speaker's voice is.
+to estimate how distinct each speaker's surface patterns are. It cannot assess
+literal action-language fit, referents, speaker knowledge stance, listener uptake,
+reply causality, or whether a line should exist, and it never certifies PASS.
 `);
     Deno.exit(0);
   }
@@ -417,7 +568,7 @@ to measure how distinct each speaker's voice is.
     const textIndex = args.indexOf("--text");
     text = args[textIndex + 1] || "";
   } else {
-    const file = args.find(a => !a.startsWith("--"));
+    const file = args.find((a) => !a.startsWith("--"));
     if (file) {
       try {
         text = await Deno.readTextFile(file);
@@ -429,14 +580,18 @@ to measure how distinct each speaker's voice is.
   }
 
   if (!text.trim()) {
-    console.error("Error: No text provided. Use --text or provide a file path.");
+    console.error(
+      "Error: No text provided. Use --text or provide a file path.",
+    );
     Deno.exit(1);
   }
 
   const speakerData = extractDialogue(text);
 
   if (speakerData.size === 0) {
-    console.error("Error: Could not extract dialogue. Check format (see --help).");
+    console.error(
+      "Error: Could not extract dialogue. Check format (see --help).",
+    );
     Deno.exit(1);
   }
 
@@ -450,7 +605,7 @@ to measure how distinct each speaker's voice is.
         Object.entries(analysis.speakers).map(([k, v]) => [
           k,
           { ...v, uniqueWords: [...v.uniqueWords] },
-        ])
+        ]),
       ),
     };
     console.log(JSON.stringify(jsonSafe, null, 2));

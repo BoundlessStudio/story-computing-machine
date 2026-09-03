@@ -96,6 +96,47 @@ embarrassment, distraction, poor explanation, and social unevenness.
 The capsule is not dialogue to imitate. Do not turn it into catchphrases,
 phonetic accents, cosmetic quirks, or a reason to force conflict.
 
+## Ground dialogue before styling it
+
+Treat setup and delivery as one causal unit. Before applying the Voice capsule,
+subtext, rhetorical ownership, humor, rhythm, or dramatic-function tests, scan
+every spoken and non-spoken exchange in scene order:
+
+While drafting, use a private five-beat micro-cycle: fix the observable event;
+name what the speaker notices and wants now; choose the line's literal or marked
+mode; write the line; then paraphrase what the listener can recover before
+writing the response. Never draft a punchline, correction, aphorism, or retort
+first and reverse-engineer a convenient setup around it.
+
+1. **Event test:** Restate the preceding action and relevant scene state in
+   plain verbs. Do not substitute the intention behind the prose for what the
+   prose actually depicts.
+2. **Language-fit test:** Confirm that verbs fit their objects, comparisons
+   produce a recoverable image, referents resolve or their ambiguity is legible
+   and handled by uptake, and physical and temporal relations remain possible.
+3. **Access test:** State the speaker's knowledge stance. A sincere assertion
+   requires plausible access; a lie, bluff, guess, or mistake instead requires
+   a character-supported motive or limitation and believable uptake. When the
+   prompt or scene explicitly limits evidence, do not promote what a speaker
+   could have seen or inferred into what they did see or know. A line may reveal
+   new evidence only when no supplied boundary forbids it.
+4. **Uptake test:** State what the listener could reasonably understand from
+   the words and observable action, without author-only context.
+5. **Reply test:** Confirm that the next turn responds to that understood
+   meaning. Figurative speech, deliberate misunderstanding, evasion, a lie, or
+   failed contact may depart from literal truth or adjacency, but its mode must
+   be legible rather than accidentally incoherent. A response may confirm
+   confusion, affect, or figurative intent; it cannot supply semantic or
+   technical content absent from the prior beat.
+6. **Existence test:** Remove the line mentally. If its only loss is a setup for
+   a correction, joke, aphorism, or last word, delete or rebuild the exchange
+   from the participants' actual attention and need.
+
+A line that fails any of these tests is rejected before higher-order craft is
+considered. Do not save it because it is vivid, funny, concise, characterful,
+subtextual, or useful to the outline. When one word appears wrong, first rerun
+the whole exchange; synonym replacement may preserve the bad setup.
+
 ## Keep dialogue character-bound
 
 Important speakers may differ through syntax, specificity, professional or
@@ -152,9 +193,11 @@ After complete prose exists, revise the same file at four scales:
    rules, knowledge, omissions, repetition, and transitions. Remove repeated
    interpretation after action and reaction already carry the point.
 3. **Dialogue scenes:** Apply the Voice capsule and character-bound tests above;
-   check necessary exposition, unequal fluency, outline language in speech,
-   relationship movement, and whether the final exchange says completed action
-   aloud or falls into the outline's identified collection ending default.
+   begin with the event, language-fit, access, uptake, reply, and existence
+   tests, then check necessary exposition, unequal fluency, outline language in
+   speech, relationship movement, and whether the final exchange says completed
+   action aloud or falls into the outline's identified collection ending
+   default.
 4. **Language and sound:** Tune viewpoint filtering, paragraph breath, sentence
    rhythm, images, and speaker-specific language. Repair generic gestures,
    synthetic metaphors, accidental echoes, and emphasis created only by punchy
