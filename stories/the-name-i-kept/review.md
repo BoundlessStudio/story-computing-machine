@@ -6,10 +6,13 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Ossia | new | Younger Vardel sibling and focal hero; no exact, alias, close-spelling, or confusing reuse found. |
-| Kerin | new | Disowned older Vardel sibling; no exact, alias, close-spelling, or confusing reuse found. |
-| Vardel | new | Shared family surname and power-family label for Ossia and Kerin; no exact, alias, close-spelling, or confusing reuse found. |
-| Stillmark | new | Deceased supervillain whose live heartbeat link forced Kerin's terminal act; no exact, alias, close-spelling, or confusing reuse found. |
+| Auden | new | Disowned older sibling, also known as Rampart; no exact, alias, close-spelling, or confusing reuse found. |
+| Mica | new | Younger sibling and focal hero; no exact, alias, close-spelling, or confusing reuse found. |
+| Serrin | new | Family surname shared by Auden, Mica, and their parents; no exact, alias, close-spelling, or confusing reuse found. |
+| Rampart | new | Auden's hero identity; the intentional alias is clear in context, with no confusing reuse found. |
+| Crownfire | new | Hero identity of Auden and Mica's mother; no exact, alias, close-spelling, or confusing reuse found. |
+| Palisade | new | Hero identity of Auden and Mica's father; no exact, alias, close-spelling, or confusing reuse found. |
+| Shearpoint | new | Deceased supervillain whose final attack forced Auden's lethal response; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
@@ -30,4 +33,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The story cleanly separates Kerin's culpable lone pursuit from the forced killing; the band repair, calibration error, parental break, and bounded tram test carry that distinction through action and distinct, pressure-shaped speech.
+- Notes: The story resolves the prompt through Mica's public refusal and Auden's control over their own evidence. The laundromat argument, evidence selection, studio confrontation, and final washer exchange preserve distinct pressures and verbal behavior, while the closing shared action carries the relationship without explaining it again.
