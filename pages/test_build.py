@@ -21,6 +21,17 @@ REPO = Path(__file__).resolve().parents[1]
 STORY_VALIDATOR = REPO / ".agents/skills/story-room/scripts/Test-Stories.ps1"
 NEW_STORY = REPO / ".agents/skills/story-room/scripts/new-story.ps1"
 STORY_CREATE_SKILL = REPO / ".agents/skills/story-create/SKILL.md"
+FRIENDS_NAME_EXCEPTION_HEADING = (
+    "## 2026-09-03 — Friends of the Night name-conflict exception"
+)
+FRIENDS_NAME_EXCEPTION_ROWS = (
+    ("friends-of-the-night", "People", "Crooktail", "universe/characters.md#Crooktail"),
+    ("friends-of-the-night", "People", "Denek", "universe/characters.md#Denek"),
+    ("friends-of-the-night", "People", "Drost", "universe/characters.md#Marshal Drost"),
+    ("friends-of-the-night", "People", "Tavik", "universe/characters.md#Tavik"),
+    ("friends-of-the-night", "People", "Torma", "universe/characters.md#Torma"),
+    ("friends-of-the-night", "Places", "Shalegate", "universe/locations.md#Shalegate"),
+)
 
 
 class StorySystemTests(unittest.TestCase):
@@ -149,6 +160,54 @@ class StorySystemTests(unittest.TestCase):
         if story is not None:
             command.extend(("-Story", story))
         return subprocess.run(command, cwd=root, text=True, capture_output=True, check=False)
+
+    def make_friends_name_fixture(
+        self, root: Path, slug: str = "friends-of-the-night"
+    ) -> Path:
+        """Synthetic prose and inventories; never open the real story package."""
+        original = self.make_current_story(root)
+        story = original.rename(root / "stories" / slug)
+        for path in story.glob("*.md"):
+            content = path.read_text(encoding="utf-8")
+            content = content.replace("slug: sample", f"slug: {slug}")
+            content = content.replace("canon: false", "canon: true")
+            content = content.replace("Mira", "Crooktail").replace("Alder Gate", "Shalegate")
+            if path.name in ("outline.md", "review.md"):
+                additional_people = "".join(
+                    f"| {name} | new | Synthetic person for the collision test. |\n"
+                    for name in ("Denek", "Drost", "Tavik", "Torma")
+                )
+                content = content.replace("\n## Places", additional_people + "\n## Places")
+            elif path.name == "story.md":
+                content = content.replace(
+                    "Crooktail walked", "Crooktail, Denek, Drost, Tavik, and Torma walked"
+                )
+            path.write_text(content, encoding="utf-8")
+        (root / "universe/characters.md").write_text(
+            "# Characters\n\n"
+            + "".join(
+                f"## {name}\n\n- Aliases: None\n\n"
+                for name in ("Crooktail", "Denek", "Tavik", "Torma")
+            )
+            + "## Marshal Drost\n\n- Aliases: Drost\n",
+            encoding="utf-8",
+        )
+        (root / "universe/locations.md").write_text(
+            "# Locations\n\n## Shalegate\n\n- Aliases: None\n", encoding="utf-8"
+        )
+        return story
+
+    def write_friends_name_exception(
+        self, root: Path, rows: tuple = FRIENDS_NAME_EXCEPTION_ROWS
+    ) -> None:
+        (root / "universe/retcons.md").write_text(
+            "# Retcons\n\n"
+            + FRIENDS_NAME_EXCEPTION_HEADING
+            + "\n\n| Story | Kind | Noun | Conflicting source |\n"
+            + "| --- | --- | --- | --- |\n"
+            + "".join("| " + " | ".join(row) + " |\n" for row in rows),
+            encoding="utf-8",
+        )
 
     def test_story_create_documents_remove_then_create_replacement(self):
         create = STORY_CREATE_SKILL.read_text(encoding="utf-8")
@@ -476,6 +535,191 @@ class StorySystemTests(unittest.TestCase):
             )
             completed = self.validate(root, "PreReview", "sample")
             self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_friends_name_exception_accepts_only_the_six_approved_source_pairs(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_friends_name_fixture(root)
+            self.write_friends_name_exception(root)
+            for phase in ("PreReview", "Final"):
+                with self.subTest(phase=phase):
+                    completed = self.validate(
+                        root, phase, story.name if phase == "PreReview" else None
+                    )
+                    self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
+
+    def test_friends_name_exception_requires_an_explicit_complete_approval(self):
+        cases = ("missing file", "wrong section", "missing row")
+        for case in cases:
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_friends_name_fixture(root)
+                if case == "missing row":
+                    self.write_friends_name_exception(root, FRIENDS_NAME_EXCEPTION_ROWS[:-1])
+                elif case == "wrong section":
+                    self.write_friends_name_exception(root)
+                    path = root / "universe/retcons.md"
+                    path.write_text(
+                        path.read_text(encoding="utf-8").replace(
+                            FRIENDS_NAME_EXCEPTION_HEADING, "## An unrelated historical ruling"
+                        ),
+                        encoding="utf-8",
+                    )
+                for phase in ("PreReview", "Final"):
+                    with self.subTest(phase=phase):
+                        completed = self.validate(
+                            root, phase, story.name if phase == "PreReview" else None
+                        )
+                        self.assertNotEqual(0, completed.returncode)
+
+    def test_friends_name_exception_rejects_invalid_or_out_of_scope_rows(self):
+        cases = {
+            "wrong story": ("another-story", "People", "Crooktail", "universe/characters.md#Crooktail"),
+            "wrong kind": ("friends-of-the-night", "Places", "Crooktail", "universe/characters.md#Crooktail"),
+            "wrong noun": ("friends-of-the-night", "People", "Someone Else", "universe/characters.md#Crooktail"),
+            "wrong source": ("friends-of-the-night", "People", "Crooktail", "universe/characters.md#Someone Else"),
+            "wildcard source": ("friends-of-the-night", "People", "Crooktail", "universe/characters.md#*"),
+            "missing cell": ("friends-of-the-night", "People", "Crooktail"),
+            "extra cell": (*FRIENDS_NAME_EXCEPTION_ROWS[0], "unbounded approval"),
+            "duplicate": FRIENDS_NAME_EXCEPTION_ROWS[0],
+        }
+        for case, invalid_row in cases.items():
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_friends_name_fixture(root)
+                # Append to a fully valid approval: ignoring the invalid row must not pass.
+                self.write_friends_name_exception(
+                    root, (*FRIENDS_NAME_EXCEPTION_ROWS, invalid_row)
+                )
+                for phase in ("PreReview", "Final"):
+                    with self.subTest(phase=phase):
+                        completed = self.validate(
+                            root, phase, story.name if phase == "PreReview" else None
+                        )
+                        self.assertNotEqual(0, completed.returncode)
+
+    def test_friends_name_exception_rejects_ambiguous_or_malformed_tables(self):
+        header = "| Story | Kind | Noun | Conflicting source |\n"
+        divider = "| --- | --- | --- | --- |\n"
+        for case in ("duplicate section", "missing header", "missing divider", "repeated header"):
+            with self.subTest(case=case), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_friends_name_fixture(root)
+                self.write_friends_name_exception(root)
+                path = root / "universe/retcons.md"
+                content = path.read_text(encoding="utf-8")
+                if case == "duplicate section":
+                    content += "\n" + content[content.index(FRIENDS_NAME_EXCEPTION_HEADING):]
+                elif case == "missing header":
+                    content = content.replace(header, "")
+                elif case == "missing divider":
+                    content = content.replace(divider, "")
+                else:
+                    content = content.replace(header, header + header)
+                path.write_text(content, encoding="utf-8")
+                for phase in ("PreReview", "Final"):
+                    with self.subTest(phase=phase):
+                        completed = self.validate(
+                            root, phase, story.name if phase == "PreReview" else None
+                        )
+                        self.assertNotEqual(0, completed.returncode)
+
+    def test_friends_name_exception_does_not_cover_additional_collision_sources(self):
+        for source in ("NAMES", "universe", "bundle", "current"):
+            with self.subTest(source=source), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_friends_name_fixture(root)
+                self.write_friends_name_exception(root)
+                if source == "NAMES":
+                    (root / "stories/NAMES.md").write_text(
+                        "| Identity | Reserved forms | Story |\n| --- | --- | --- |\n"
+                        "| Other Crooktail | `Crooktail` | earlier-story |\n",
+                        encoding="utf-8",
+                    )
+                elif source == "universe":
+                    path = root / "universe/characters.md"
+                    path.write_text(
+                        path.read_text(encoding="utf-8")
+                        + "\n## Another Person\n\n- Aliases: Crooktail\n",
+                        encoding="utf-8",
+                    )
+                elif source == "bundle":
+                    prior = root / "stories/earlier-story"
+                    prior.mkdir()
+                    (prior / "05-story.md").write_text(
+                        "# Earlier Story\n\nCrooktail waited.\n", encoding="utf-8"
+                    )
+                    (prior / "story.json").write_text('{"canon": false}\n', encoding="utf-8")
+                else:
+                    prior = root / "stories/another-story"
+                    shutil.copytree(story, prior)
+                    path = prior / "story.md"
+                    path.write_text(
+                        path.read_text(encoding="utf-8").replace(
+                            "slug: friends-of-the-night", "slug: another-story"
+                        ),
+                        encoding="utf-8",
+                    )
+                for phase in ("PreReview", "Final"):
+                    with self.subTest(phase=phase):
+                        completed = self.validate(
+                            root, phase, story.name if phase == "PreReview" else None
+                        )
+                        self.assertNotEqual(0, completed.returncode)
+                        output = completed.stdout + completed.stderr
+                        self.assertIn("Crooktail", output)
+                        if source == "current" and phase == "Final":
+                            self.assertIn("independently marked new", output)
+
+    def test_friends_name_exception_never_exempts_a_different_story(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_friends_name_fixture(root, "another-story")
+            self.write_friends_name_exception(root)
+            for phase in ("PreReview", "Final"):
+                with self.subTest(phase=phase):
+                    completed = self.validate(
+                        root, phase, story.name if phase == "PreReview" else None
+                    )
+                    self.assertNotEqual(0, completed.returncode)
+                    self.assertIn("Crooktail", completed.stdout + completed.stderr)
+
+    def test_friends_name_exception_does_not_survive_unlocking_or_replacement(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_friends_name_fixture(root)
+            self.write_friends_name_exception(root)
+            path = story / "story.md"
+            path.write_text(
+                path.read_text(encoding="utf-8").replace("canon: true", "canon: false"),
+                encoding="utf-8",
+            )
+            for phase in ("PreReview", "Final"):
+                with self.subTest(phase=phase):
+                    completed = self.validate(
+                        root, phase, story.name if phase == "PreReview" else None
+                    )
+                    self.assertNotEqual(0, completed.returncode)
+                    self.assertIn("Crooktail", completed.stdout + completed.stderr)
+
+    def test_friends_name_exception_keeps_sources_visible_for_recurrence(self):
+        for slug in ("friends-of-the-night", "another-story"):
+            with self.subTest(slug=slug), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_friends_name_fixture(root, slug)
+                self.write_friends_name_exception(root)
+                for name in ("outline.md", "review.md"):
+                    path = story / name
+                    path.write_text(
+                        path.read_text(encoding="utf-8").replace(" | new | ", " | recurring | "),
+                        encoding="utf-8",
+                    )
+                for phase in ("PreReview", "Final"):
+                    with self.subTest(phase=phase):
+                        completed = self.validate(
+                            root, phase, story.name if phase == "PreReview" else None
+                        )
+                        self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
 
     def test_pre_review_rejects_bad_metadata_and_missing_prose(self):
         cases = ("bad metadata", "missing prose")

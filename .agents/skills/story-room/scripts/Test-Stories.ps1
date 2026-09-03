@@ -510,27 +510,47 @@ function Read-StoryPackage {
         StoryText = $storyText
         StoryBody = $storyBody
         ReviewText = $reviewText
+        Canon = $front.Success -and $metadata.canon -ceq 'true'
         ActiveCraftProfile = $activeCraftProfile
         UsesDialogueCraftProfile = $usesDialogueCraftProfile
         UsesVoiceCraftProfile = $usesVoiceCraftProfile
     }
 }
 
+function Add-StaticNoun {
+    param(
+        [string]$Kind, [string]$Name, [string]$Source,
+        [Collections.Generic.HashSet[string]]$Set, [hashtable]$Sources
+    )
+
+    $null = $Set.Add($Name)
+    $key = "$Kind|$($Name.ToLowerInvariant())"
+    if (-not $Sources.ContainsKey($key)) {
+        $Sources[$key] = [Collections.Generic.HashSet[string]]::new([StringComparer]::Ordinal)
+    }
+    $null = $Sources[$key].Add($Source)
+}
+
 function Add-UniverseNouns {
-    param([string]$Path, [Collections.Generic.HashSet[string]]$Set)
+    param(
+        [string]$Path, [Collections.Generic.HashSet[string]]$Set,
+        [string]$Kind, [string]$SourcePath, [hashtable]$Sources
+    )
 
     if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) {
         return
     }
+    $heading = ''
     foreach ($line in Get-Content -LiteralPath $Path) {
         if ($line -match '^##\s+(?<name>.+?)\s*$') {
-            $null = $Set.Add($Matches['name'])
+            $heading = $Matches['name']
+            Add-StaticNoun $Kind $heading "$SourcePath#$heading" $Set $Sources
         }
         elseif ($line -match '^-\s+Aliases:\s*(?<aliases>.+?)\s*$' -and $Matches['aliases'] -ne 'None') {
             foreach ($alias in ($Matches['aliases'] -split '[;,]')) {
                 $clean = $alias.Trim().Trim('`')
                 if (-not [string]::IsNullOrWhiteSpace($clean)) {
-                    $null = $Set.Add($clean)
+                    Add-StaticNoun $Kind $clean "$SourcePath#$heading" $Set $Sources
                 }
             }
         }
@@ -540,6 +560,7 @@ function Add-UniverseNouns {
 function Get-StaticBaselines {
     $people = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
     $places = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+    $sources = @{}
 
     $namesPath = Join-Path $storyRoot 'NAMES.md'
     if (Test-Path -LiteralPath $namesPath -PathType Leaf) {
@@ -552,14 +573,72 @@ function Get-StaticBaselines {
                 continue
             }
             foreach ($match in [regex]::Matches($cells[1], '\x60(?<name>[^\x60]+)\x60')) {
-                $null = $people.Add($match.Groups['name'].Value)
+                Add-StaticNoun 'People' $match.Groups['name'].Value 'stories/NAMES.md' $people $sources
             }
         }
     }
 
-    Add-UniverseNouns (Join-Path $ProjectRoot 'universe/characters.md') $people
-    Add-UniverseNouns (Join-Path $ProjectRoot 'universe/locations.md') $places
-    return [pscustomobject]@{ People = $people; Places = $places }
+    Add-UniverseNouns (Join-Path $ProjectRoot 'universe/characters.md') $people 'People' 'universe/characters.md' $sources
+    Add-UniverseNouns (Join-Path $ProjectRoot 'universe/locations.md') $places 'Places' 'universe/locations.md' $sources
+    return [pscustomobject]@{ People = $people; Places = $places; Sources = $sources }
+}
+
+function Get-ApprovedNameConflicts {
+    # One user-approved ruling, not a general bypass for promoted stories.
+    $approved = [Collections.Generic.HashSet[string]]::new([StringComparer]::Ordinal)
+    $path = Join-Path $ProjectRoot 'universe/retcons.md'
+    if (-not (Test-Path -LiteralPath $path -PathType Leaf)) {
+        return ,$approved
+    }
+    $sections = @(Get-SectionMatches (Get-Content -LiteralPath $path -Raw) '2026-09-03 — Friends of the Night name-conflict exception')
+    if ($sections.Count -eq 0) {
+        return ,$approved
+    }
+    if ($sections.Count -ne 1) {
+        $errors.Add('universe/retcons.md repeats the Friends of the Night name-conflict exception section.')
+        return ,$approved
+    }
+    $section = $sections[0].Groups['body'].Value
+    $permitted = @(
+        'friends-of-the-night|People|Crooktail|universe/characters.md#Crooktail',
+        'friends-of-the-night|People|Denek|universe/characters.md#Denek',
+        'friends-of-the-night|People|Drost|universe/characters.md#Marshal Drost',
+        'friends-of-the-night|People|Tavik|universe/characters.md#Tavik',
+        'friends-of-the-night|People|Torma|universe/characters.md#Torma',
+        'friends-of-the-night|Places|Shalegate|universe/locations.md#Shalegate'
+    )
+    $headerCount = 0
+    $dividerCount = 0
+    foreach ($line in ($section -split '\r?\n')) {
+        if (-not $line.Trim().StartsWith('|')) { continue }
+        $cells = @(($line.Trim().Trim('|') -split '\|') | ForEach-Object { $_.Trim() })
+        $key = $cells -join '|'
+        if ($key -ceq 'Story|Kind|Noun|Conflicting source') { $headerCount++; continue }
+        if ($key -eq '---|---|---|---') { $dividerCount++; continue }
+        if ($cells.Count -ne 4 -or $key -cnotin $permitted) {
+            $errors.Add('universe/retcons.md contains a malformed or out-of-scope Friends of the Night name-conflict allowance.')
+        }
+        elseif (-not $approved.Add($key)) {
+            $errors.Add('universe/retcons.md repeats a Friends of the Night name-conflict allowance.')
+        }
+    }
+    if ($headerCount -ne 1 -or $dividerCount -ne 1) {
+        $errors.Add('universe/retcons.md requires one complete Friends of the Night name-conflict allowance table.')
+    }
+    return ,$approved
+}
+
+function Test-UnapprovedStaticConflict {
+    param([object]$Row)
+
+    $lockedOrigin = @($packages | Where-Object { $_.Slug -ceq $Row.Story -and $_.Canon }).Count -eq 1
+    foreach ($source in $baselines.Sources["$($Row.Kind)|$($Row.Key)"]) {
+        $key = "$($Row.Story)|$($Row.Kind)|$($Row.Name)|$source"
+        if (-not $lockedOrigin -or -not $approvedNameConflicts.Contains($key)) {
+            return $true
+        }
+    }
+    return $false
 }
 
 function Get-PassingCurrentInventory {
@@ -754,6 +833,7 @@ foreach ($directory in $directories) {
 }
 
 $baselines = Get-StaticBaselines
+$approvedNameConflicts = Get-ApprovedNameConflicts
 
 if ($Phase -eq 'PreReview') {
     $existing = @(Get-PassingCurrentInventory $Story)
@@ -772,7 +852,8 @@ if ($Phase -eq 'PreReview') {
             $bundleMatch = Test-BundleExactUse $row.Name
             $alreadyExists = ($static -contains $row.Name) -or $currentMatch -or $bundleMatch
 
-            if ($row.Status -eq 'new' -and $alreadyExists) {
+            $unapprovedConflict = (Test-UnapprovedStaticConflict $row) -or $currentMatch -or $bundleMatch
+            if ($row.Status -eq 'new' -and $unapprovedConflict) {
                 $errors.Add("$($row.Story)/outline.md marks $($row.Kind) noun '$($row.Name)' new, but that exact form already exists.")
             }
             elseif ($row.Status -eq 'recurring' -and -not $alreadyExists) {
@@ -818,7 +899,7 @@ foreach ($group in @($finalInventory | Group-Object Kind, Key)) {
         $stories = ($newUses.Story | Sort-Object -Unique) -join ', '
         $errors.Add("Noun '$($sample.Name)' is independently marked new in multiple $($sample.Kind.ToLowerInvariant()) inventories: $stories.")
     }
-    if ($newUses.Count -eq 1 -and (($static -contains $sample.Name) -or $bundleMatch)) {
+    if ($newUses.Count -eq 1 -and ((Test-UnapprovedStaticConflict $newUses[0]) -or $bundleMatch)) {
         $errors.Add("$($newUses[0].Story)/review.md marks '$($sample.Name)' new, but that exact $($sample.Kind.ToLowerInvariant()) form already exists.")
     }
     if ($recurringUses.Count -gt 0 -and $newUses.Count -eq 0 -and -not ($static -contains $sample.Name) -and -not $bundleMatch) {
