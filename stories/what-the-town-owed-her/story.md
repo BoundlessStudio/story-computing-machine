@@ -7,454 +7,338 @@ canon: false
 
 # What the Town Owed Her
 
-I was wrapping my mother's cups in grocery circulars when the paramedics brought the woman from downstairs through the lobby.
+On the afternoon I came back to empty my grandmother’s apartment, the witch next door refused a jar of honey, examined a coil of copper wire, and sent a boy home for a different key.
 
-The keys were due back at noon. I had grown up across the hall from Aldith, then moved away; now every cupboard I emptied seemed to contain one more thing my mother had expected to keep.
+The three offerings arrived within twenty minutes of one another. Rain followed each visitor up the stairs of Rookglass House and darkened the boards outside number six. The woman with the honey said her mother had kept bees because Evadne Trell once asked it of the family. The electrician carrying the wire said his father had told him never to arrive empty-handed. The boy held out a wardrobe key on a red ribbon and whispered that his grandfather’s promise was older than the building’s electric lights.
 
-The apartment windows faced the parking lot. From my mother's kitchen I saw the ambulance doors shut on a gray blanket, one socked foot, and three hands trying to manage the same oxygen mask. Sleet ticked against the glass. Somebody had propped the building's front door open with a bag of salt, so cold air kept finding its way up the stairwell.
+“That's the wardrobe key,” Evadne told him. “Ask your mother whether I can borrow the long one for the east yard tonight.”
 
-Aldith Gant came in before the ambulance pulled away. I knew her by the black dress and the square little boots. Everybody knew Aldith, though nobody agreed on what to call her when she was not present. Witch was the word that survived every correction.
+The boy ran. Evadne returned the wire and told the electrician to keep it dry. She was still holding the honey when she noticed me watching from number five.
 
-She usually looked about twenty-five. That night, crossing the lot, she looked forty. On the stairs she put one hand on the rail and looked sixty.
+She looked twenty-six at most. Her black dress had a narrow standing collar and enough old mending at the cuffs to defeat the illusion that it was costume. Black hair curved beneath her jaw. In my grandmother’s hallway hung a photograph of a summer procession taken when the stone angels over the front door still had faces; Evadne stood at its edge in the same dress, looking exactly as she did now.
 
-Then something heavy struck the wall next door.
+“You’re the granddaughter,” she said.
 
-I set down the cup, went into the hall, and found her door open. Aldith lay on one knee beside an overturned umbrella stand. Her hair, normally black to the roots, had gone white above one ear. Fine lines moved across her face while I watched, deepening as if an invisible hand were testing different versions of her.
+“Leonie Sayer.” I glanced at the jar. “Are they paying you?”
 
-"Don't call them back," she said.
+“They think they ought to.” She handed the honey back to its owner. “Take it home. If I need help tonight, I'll come and ask.”
 
-"Are you bleeding?"
+The woman clutched the jar. “My mother said we owed whatever you named.”
 
-"No."
+“I remember.” Evadne kept her hand beneath the jar until the woman had it securely. “Go home before the lower road fills.”
 
-"Chest pain?"
+The woman went. Evadne watched until the front door shut, then looked at the keys in my hand.
 
-"Not at present."
+“I saw the surveyor here this morning. Did he look at the east cellar wall?”
 
-"Dizzy?"
+I had spent ten years pricing other people’s renovations. I knew what sellers concealed behind fresh paint and what water did when it found lime mortar. I also knew the surveyor had called Rookglass House damp but serviceable that morning. The sale of number five was the one clean piece of work my grandmother’s death had left me: four rooms emptied, one signature, a train away from Mirehaven.
 
-"At intervals."
+“He called it damp but serviceable. Why?”
 
-She looked toward the stairs, where the ambulance siren had begun to recede. "The danger requiring them is downstairs. Help me inside. Your mother owes me one safety watch."
+“There's water behind it. I could hear it this morning.”
 
-My hand was already under her elbow. I took it away.
+“In this weather, I'd be surprised if there wasn't.”
 
-"My mother is dead."
+“Go down and listen before you sign anything.”
 
-"I am aware."
+I closed number five between us.
 
-"Then ask me."
+My grandmother’s apartment smelled of lavender polish and the gas fire she had refused to replace. Boxes waited under the sitting-room window. I packed her chipped bowls, the cardigans she had darned at both elbows, and the brass level she used to set shelves more accurately than any tradesman she hired. The easy objects went first. Her blue teacup remained beside the sink because I could not decide whether keeping it would be sentimental or cheap.
 
-Aldith's mouth tightened. Another year, or ten, passed over it. "The procedure has a deadline. Discussion is more useful at the table."
+In the lowest drawer of her tool chest I found an envelope sealed with red wax. My name was on the front. Inside, in her square pencilled hand, she had written:
 
-"Can you stand?"
+*When Evadne asks, open the east cellar wall. My masonry set is under the kitchen boards.*
 
-"Probably."
+I took the note next door.
 
-"Try without proving anything."
+Number six was darker than the corridor. Candles burned in saucers along a mantel, and bunches of drying leaves hung over black wallpaper. None of that unsettled me as much as the practical things: two storm lanterns fuelled and trimmed, rope coiled by the door, wool blankets stacked on a chair. Evadne had laid a pair of mud-caked boots beneath the photograph of herself at the old procession.
 
-She used the doorframe and I used her forearm, and between us we got her upright.
+“What did my grandmother put behind the wall?” I asked.
 
-Her apartment should have disappointed anyone hoping for a witch. The black lace curtains were real, and dried plants hung from the ceiling, but most of the plants had supermarket price stickers on their pots. A smoke detector blinked above a stack of repair notices. Her kitchen table held an electric kettle with its lid tied down by butcher's string, three tins of soup, a blood-pressure cuff, and a jar full of dead batteries.
+“She didn't put anything there. The wall blocks an old service gallery. There's a relief gate at the far end.”
 
-The tall cabinet against the wall was another matter. It was dark wood, older than the building, with hundreds of shallow drawers and brass label frames. The labels were surnames. I could not think of an established family in town that was missing.
+“Then why brick up the access?”
 
-Aldith lowered herself into a chair.
+“People wanted the cellar dry. Later they wanted the storage bay above it. Your grandmother found the mistake after the joist pocket began to split.”
 
-"Sit still." I went back through the hall for the pulse oximeter in my mother's bathroom. I had almost thrown it out that afternoon. The batteries still worked.
+“And opening it drops her floor?”
 
-When I clipped it to Aldith's finger, she watched the numbers with more suspicion than fear.
+“It needs shoring first. Even then, there'll be repairs.”
 
-"Your pulse is too fast. Oxygen's all right. How old are you supposed to be?"
+She said it without apology, which made me trust her less.
 
-"Adult."
+A vibration passed through the boards. The candle flames shortened. Somewhere below us, water struck stone with the flat, heavy sound of a shoulder against a door.
 
-"A number."
+“Do you want me to open it or not?” I asked.
 
-"Not a useful one."
+“I need to see how bad the leak is. The gate may be beyond us.”
 
-"For you, or for me?"
+“You haven't even looked at it?”
 
-"Neither, tonight."
+“At the wall, yes. I can't see through it, Leonie. That gate hasn't been used in more than a century.”
 
-I took her temperature, checked that she knew where she was, and made her squeeze both my hands. Both trembled, but the strength matched. When I asked what had happened downstairs, she told me the tenant's lungs had tightened too quickly for the ambulance to arrive in time.
+She picked up one lantern. I kept my grandmother’s note and followed her down.
 
-"She agreed to twenty minutes," Aldith said. "I held the failure while she kept breathing. They have her now."
+The east cellar wall ran beneath number five. It had been plastered, painted, and hidden behind two storage cages, but water had drawn a diagonal gray line from the ceiling to the floor. Evadne knelt and fitted two fingers into the lowest mortar joint. When she pulled them free, they shone black.
 
-"You took it?"
+“This is coming from the marsh,” she said.
 
-"Carried. It was not removed from her. Nor was the cause."
+“You can tell from the mud?”
 
-"And this is what it does to you."
+“Look. There's a reed seed in it.”
 
-"This is some of what it does. The rest is less photogenic."
+She showed me a barbed seed stuck to her wet fingertip. The river marsh lay beyond the lower road; water from it should not have been pressing uphill against Rookglass House.
 
-That was close to the dry, polished Aldith people quoted after running into her at the grocer's. But her breath snagged at the end. She pressed two fingers beneath her jaw as if checking a seam.
+On a crate beside the wall sat a thin black notebook and a packet of photographs. The first photograph showed Evadne waist-deep in floodwater, holding a window frame above three people crowded on a roof. The date on the back was a hundred and fourteen years old. In another, she carried a soot-blackened child from a shop fire. In a third, she stood beside my grandmother, who was young enough to have both front teeth and furious enough to be recognizable.
 
-I reached for my phone.
+The notebook held brief entries. A rescue, a date, the exact words blurted afterward. *Anything you ask.* *Anything in my power.* *Call, and we will come.* Beside some, Evadne had noted a tool or an access point: yard key, chain hoist, drainage rods, timber shores. The words continued through generations, though the faces in the photographs wrinkled and disappeared.
 
-"If your breathing changes or you lose strength, I'm calling."
+Evadne had not changed.
 
-"Agreed."
+I put the pictures down. “Is this why you haven't aged? These promises?”
 
-"You don't get to agree on my behalf."
+She looked up from the wall. “Yes.”
 
-"No. I meant I will not stop you. The restoration should begin first."
+“What did you take from them?”
 
-Before sunrise, she explained, her body could work its way back toward the state it maintained. Not to childhood and not to health without limits. Toward an adult baseline. Food helped. Sleep would follow. A living witness had to keep contact, observe what changed, and interrupt any correction that went wrong. A mirror could show her a face, a clock could count minutes, and the cuff could display pressure. None could decide that a blue lip mattered more than a smooth hand.
+“I haven't taken anyone's years.”
 
-"How long?" I asked.
+I turned over the photograph of my grandmother. Evadne reached for it, then left it in my hand.
 
-"A full watch is usually three hours. Tonight may require four."
+The vibration came again. Dust slipped from the crack onto Evadne’s shoulder. She brushed it away.
 
-"And my mother promised one."
+“I was twenty-six when the first flood came. Twelve people were trapped upstairs. I held the stair for them, and afterward they promised me anything I wanted.” She pressed her palm to the plaster, listening through it. “I'd only asked for blankets. I should have left it at that.”
 
-"Yes."
+“But you didn't.”
 
-"Show me."
+“No. A promise given to me after I've worked magic can stay open until I release it. I kept that one. I stopped aging, and when I tried to leave Mirehaven, I couldn't get past the boundary. Every promise since has made it worse.”
 
-For the first time, Aldith looked directly at the cabinet.
+I looked at the notebook. “If you burnt this?”
 
-"After soup."
+“I'd still be here. It's my working. The book is so I don't forget who promised what.”
 
-"Before."
+“And their grandchildren?”
 
-She pushed herself up. I blocked the cabinet with my shoulder.
+“I've never bound them. They weren't there to make the promises.”
 
-"Tell me which drawer."
+“Does the boy know that?”
 
-"Lerrow. Ninth row."
+“I've told his mother.”
 
-The drawer stuck halfway. Aldith told me to lift as I pulled, the same way my mother used to instruct me about the freezer door. Inside lay a packet of index cards bound with blue thread, a small brass button, and a folded drawing in wax crayon. Nothing glowed. Nothing turned itself toward me. The cabinet smelled of dust and furniture oil.
+“He sounded frightened.”
 
-My mother's card was on top because Aldith had moved it there recently. Her handwriting listed a night spent in my mother's apartment after outpatient surgery, including two calls to a nurse, four cups of tea, and a pan that had boiled dry. Beneath that, my mother had promised one waking safety watch, *if asked while able*. A narrower line followed: *personal undertaking*.
+Evadne rubbed the mud from her fingers onto her skirt. “I know. But if she keeps the key, I find another way into the yard. There's no curse for refusing me.”
 
-"Where does it say me?" I asked.
+“But you kept the promises open.”
 
-Aldith pulled the soup tin closer but did not answer.
+“Yes.”
 
-"Where?"
+“Why?”
 
-"It does not."
+Evadne rose and took the lantern. Its light made the young planes of her face severe; her voice was only tired.
 
-"You said my family owed."
+“That gate was never repaired. They sealed this passage and built over the other entrances. Your grandmother understood what would happen when it flooded again. She kept measuring. I asked the other households to keep the equipment.”
 
-"The drawer is indexed by family."
+“You could have asked them without keeping all this.” I held out the notebook.
 
-"That's a drawer."
+Evadne took it but did not put it away. “The garage still has the winch. The hardware family kept the key. I was afraid they'd forget why.”
 
-"It is also how residents have referred to the accounts for generations."
+“My grandmother didn't need to be frightened into it.”
 
-"Generations you've outlived."
+“No. She didn't.”
 
-She put both palms flat on the table. The fingers had swollen at their joints. "Yes."
+A sound like a plate breaking came from inside the wall. Black water needled through the diagonal crack and struck Evadne’s skirt.
 
-I took the tin to the counter. Her opener chewed the lid without piercing it. My mother's opener worked. I brought that over too.
+She seized my wrist and pulled me clear as a palm-sized piece of plaster burst outward. Water spread over the cellar tiles.
 
-"I'm heating this," I said. "That isn't a watch."
+“Get your grandmother's notes,” she said. “She marked how far the crown could move before the infill started taking its weight. We need that number before we touch the wall.”
 
-"Understood."
+That was not a demand for faith. It was a dimension I could check.
 
-"And I haven't agreed to anything."
+Upstairs, I pried up the short kitchen board my grandmother had marked with two neat nail heads. Her masonry set lay below it in an oilcloth roll: lump hammer, three chisels, an offset spanner, and a folding rule. Beneath the tools was a school exercise book filled with section drawings of the foundation.
 
-"You have stated that twice."
+The first drawing showed the main storm culvert bending under the lower road. At Rookglass House, a branch led east through the service gallery to an older channel that emptied beyond the houses into the marsh. A vertical iron gate kept the branch shut. My grandmother had drawn the wheel, the chain drum, and two keeper pins. Later pages tracked the east arch’s movement in millimetres.
 
-"You'll hear it again if you keep calling it an account."
+Her final entry was six weeks old.
 
-The tied kettle clicked off before the water boiled. I used a saucepan. While the soup warmed, Aldith directed me through the cards. A hollow circle meant fulfilled. A slash meant lapsed with the person who had made the promise. A square meant someone else had chosen to take a task on. A question mark meant disputed. Two short vertical strokes meant Aldith owed the person named.
+*If the crown opens past eighteen, shore the joist, remove the infill, clear the screen, lift both keepers, raise gate. Water will take old channel. Do not stand beyond the left inspection slot when gate rises.*
 
-The Lerrow packet was not unusual. One card recorded a loan returned in cash. Another had been closed by three afternoons repairing a roof. A child's drawing of a black bird had been listed as payment for sitting through a fever, then crossed out and relabeled *gift, no balance*. Further down, Aldith owed somebody a replacement pair of work boots. On the oldest cards, dates had been revised into newer styles by hands that were not hers.
+In the margin she had written: *Leonie will know eighteen when she sees it.*
 
-"How many of these are magic?"
+I hated her for being right.
 
-"A minority. I delivered children before there was a clinic. I have translated letters, watched doors, lent deposits, sat with the dying, and once kept sixteen geese in this kitchen."
+The crack measured twenty-one millimetres at the crown.
 
-I looked at the narrow room. "All at once?"
+When I reached the cellar, water covered Evadne’s boots. A rust-colored stream ran down the stairs from the street drain, and the wall bowed between its old brick edges.
 
-"It was raining."
+“Where does the diverted water come out?” I asked.
 
-The answer arrived so plainly that I laughed. Aldith did not, but some of the strain around her mouth eased.
+“Below the last houses, into open marsh.”
 
-The buzzer sounded.
+“Who has checked that outlet?”
 
-She flinched at the noise. "That will be the groceries."
+“I walked it at noon. Reeds, no masonry fall.”
 
-"You ordered groceries during an emergency?"
+“The wall is acting as a buttress. We shore the joist before we touch a brick. What can your magic actually hold?”
 
-"On Tuesday."
+“The stone arch and the pressure behind it. Not the gate. Not the iron. Not you.”
 
-At the front door stood a wet young man holding two paper sacks against his chest. He did not stare at Aldith's face. If his family had been dealing with her for generations, he had either seen stranger things or learned good manners.
+“How long?”
 
-"Six tins, bread, eggs," he said. "They were out of peaches."
+“In this water, perhaps half an hour.”
 
-"Pears are fine."
+I unfolded my grandmother’s oilcloth on the stair. The offer on number five depended on an intact foundation and an empty storage bay. Once we opened the infill, the surveyor would condemn the east floor until it was rebuilt. The buyer would be gone before the rain stopped.
 
-"There aren't pears."
+Another brick edged forward.
 
-"Then your list is complete. Put them down, please."
+“Ask me,” I said.
 
-He set the bags inside. "My grandmother said this finishes the month."
+Evadne looked at the hammer, then at me. “Will you open it?”
 
-Aldith nodded. "It does. Tell her the total was exact."
+I took the lump hammer from its loop. “Show me where to put the shores.”
 
-"She knows. Night."
+We did not summon Mirehaven to hear an explanation. We climbed the stairs and knocked on doors.
 
-He was already pulling up his hood when I asked, "Was that a debt?"
+At number four, Evadne asked a retired carpenter for two timber shores and help setting them beneath the east joist. He stared at her unchanged face.
 
-"Standing exchange," Aldith said. "His grandmother prefers not to drive after dusk. I revise letters from the council for her."
+“My father said we owed you any timber in the yard.”
 
-"So you owe her."
+“Can you help us shore the east joist? Two sound lengths should do it.”
 
-"On alternate weeks."
+He rubbed his bad thumb against the door latch. “I’ll set them. I won’t crawl through anything.”
 
-I put the soup in front of Aldith. She managed four spoonfuls, then stopped to breathe. Her hair was white now except for a dark strip at the nape. I had been watching it change so closely that I nearly missed the grayness spreading around her lips.
+“Good. Bring wedges.”
 
-"Enough cabinet. We call."
+At the ground-floor flat, a woman held a sleeping child against her shoulder. Her family’s hand pump stood in the hall beneath a coat.
 
-"Wait."
+“I won’t go below,” she said before Evadne could speak.
 
-"No."
+“Could we borrow the pump?”
 
-She held up one finger, listening to something I could not hear. Her breathing loosened. The gray receded.
+“You can take it. Bring it back if there’s a house left.”
 
-"Residual constriction," she said.
+“I will try.”
 
-"Your regular doctor knows about this?"
+The old man from the hardware family reached the front step as we came down. This time the long iron key hung from his fist.
 
-"Enough to monitor the consequences. There is a number beneath the kettle."
+“My daughter said yes,” he told Evadne. “Lift the east gate on its hinge before you turn. It jams in rain.”
 
-I found a card taped to the counter and called. An operator took Aldith's pulse and symptoms, asked her if I could continue speaking, and told us a nurse would ring back.
+“Will you open it for us?” Evadne asked. “We'll need someone there to keep the winch line off the stone.”
 
-Aldith looked back at the Lerrow drawer. "The town calls all of it debt because that is shorter than distinguishing work from aid, current promises from dead ones, and favors people insist on returning after I have declined them. Marriages join headings. New households acquire old cards when they take over shops or care. The cabinet eventually gains everyone who remains."
+“I'll stay by the gate,” he said. “You go on.”
 
-"And you let them think their children owe you."
+At the garage around the corner, water already ran over the threshold. The mechanic listened while I described the buried gate and the straight pull through the east yard.
 
-"Sometimes I corrected them."
+“The truck can’t clear Rookglass’s arch,” he said.
 
-"Sometimes."
+“The key opens the yard gate,” I said. “You can reverse to the alley and feed cable through.”
 
-She adjusted the soup spoon until it lay parallel with the table edge. "Predictability is useful when a person may need an awake body at four in the morning."
+“Sixty feet?”
 
-"Useful to you."
+“I haven't measured the yard. And there's the gallery beyond the cellar.”
 
-"Yes."
+He looked at the water climbing his tool cabinet. “I've got eighty. I'll bring the lot.”
 
-She did not add a condition.
+A woman waiting behind him shook her head when Evadne turned to her. “My husband can’t walk down from the upper road alone. I’m going for him.”
 
-Her phone lay beside the blood-pressure cuff. She scrolled through a list, tapped one entry, and put the call on speaker when her hand began to shake.
+“Go and get him,” Evadne said.
 
-A tired voice answered. A television muttered behind it.
+The woman stayed a moment. “What about what Gran said? After the fire?”
 
-"I require a safety witness until sunrise," Aldith said. "Your aunt left one unfulfilled watch. You are listed under the same household."
+“I'll release it. You're needed at home.”
 
-There was a pause. "She died two years ago."
+The woman pulled her collar up and ran into the rain.
 
-"I know. You may assume it if you choose."
+By the time we returned, neighbors had made a relay without being told to make one. The carpenter passed braces down the stair. The mother in the ground-floor flat passed the pump after them, then shut her door on the noise. Two bakers from the lower road arrived with doubled flour sacks and began carrying rubble toward the yard. The mechanic backed his truck into the alley. The long key opened the rusted gate only after the old man lifted it bodily on its hinges.
 
-"I'm not coming. The baby's asleep and I've had two beers."
+The first shore took the joist’s weight with a wooden groan. I drove its wedges until the brass level on the floor stopped trembling. The second stood clear of the access arch. Then I set my grandmother’s broad chisel into the mortar.
 
-Aldith closed her eyes. "Understood."
+The first brick I knocked free ended the sale.
 
-"Are you bad?"
+Cold water punched through the hole. Evadne planted both palms against the old stone arch. Light rose under the skin of her wrists, each pulse sending a white branch through the wet joints. The arch stopped grinding. Water flattened against the opening as if her hands had changed its mind, but the force bent her elbows and drove her heels backward across the tiles.
 
-"I have another option."
+“High courses first,” she said. “Leave the sides until the shore settles.”
 
-She did not. I could tell because I was standing in the option's shoes.
+We obeyed. The carpenter worked opposite me with a pry bar. The bakers caught bricks and filled sacks. The pump coughed black water through a hose into the yard. When the hole reached shoulder width, Evadne let a controlled sheet spill around her boots.
 
-"All right," the voice said. "I hope you're okay."
+Beyond the infill, the service gallery ran under a low stone arch for twelve feet. A broken debris screen lay across it, packed with roots and bottles. Behind that, the gate wheel showed one rusted rim above the rising water.
 
-"Yes. Good night."
+The mechanic threaded his cable past us. The old man guided its hook through the screen while the bakers kept the slack from tangling around Evadne’s ankles. Outside, the truck engine deepened. Iron tore free with a scream and came toward us under a black mat of roots.
 
-After the call ended, Aldith took my mother's card from the packet. On its final line she drew the lapsed slash. Then she found the other aunt's card and did the same.
+“Stop!” I shouted.
 
-"There," she said.
+The cable stilled. We unhooked the screen and dragged it into the cellar. Evadne’s light flickered. Her lips had lost their color, and one knee shook against her skirt.
 
-"There what?"
+“You said half an hour.”
 
-"Accurate categories."
+“It was a guess.” Her heel slipped on the wet tile. “There's more pressure now.”
 
-She returned the cards to the drawer and tied the blue thread. She did not ask me to stay. Instead she set a kitchen timer for five minutes and dragged a standing mirror from beside the cabinet.
+“Can you hold ten more minutes?”
 
-"What are you doing?"
+She shook her head. “Just hurry.”
 
-"A reduced cycle."
+I tied the relay rope around my waist and took the hammer, offset spanner, and narrow chisel inside my coat. The carpenter paid out the other end as I stepped through the breach. Water climbed from my knees to my hips where the gallery dipped.
 
-"You said a living witness."
+The gate wheel resisted, then moved when the mechanic levered a spoke with the pry bar. Chain clanked inside the drum. The iron gate rose the width of my hand and stopped.
 
-"For a safe full restoration. This may prevent additional loss."
+A surge struck from the main culvert. The gallery ceiling jumped. Behind me, one of Evadne’s palms tore from the arch and a stone dropped where her head had been. The carpenter caught her shoulder; Evadne slammed her hand back into the joint. White light returned in a ragged fan.
 
-"May."
+“Wheel’s free,” the mechanic called. “Something below is holding it.”
 
-She sat facing the mirror, pressed one palm to her breastbone, and curled the other around her own wrist. The timer began its cheap mechanical ticking.
+I opened my grandmother’s exercise book inside the oilcloth. Her last drawing put the lower keeper on our side. I found its square head under the water and fitted the offset spanner. It turned once, shedding rust, then came loose. The gate did not rise.
 
-At first nothing happened. Then the skin of her right hand drew tight against the bones while the left remained knotted and old. Black traveled from the roots of her hair in a glossy wave, but only on the side nearest the mirror. Tightening skin dragged one corner of her mouth upward. The glass merely showed the false smile back to her.
+The second keeper was beyond the gate, reachable from the left inspection slot.
 
-"Stop," I said.
+I could see the slot now that the screen was gone: a shoulder-wide cut in the gallery wall beside the iron leaf. Water drove through it toward the old channel. My grandmother’s warning sat under my thumb. Do not stand beyond it when the gate rises.
 
-Her eyes stayed on the glass. Her shoulders pulled back with each breath, too far, as if a wire inside her had shortened.
+“When the gate moves, pull me out,” I told the carpenter. “Don't wait for me to shout.”
 
-"Aldith. Stop."
+“Wait.” He called one of the bakers down to take the rope behind him, then leaned past the shore for a clear view of the gate. “All right. Go.”
 
-"Four minutes."
+I took a breath and checked the knot at my waist.
 
-"Your left side isn't changing. Look at me."
+I turned sideways and entered the slot.
 
-She turned her head by degrees. The young half of her face looked startled; the old half sagged with concentration.
+Stone took the skin from my knuckles. The water rose to my chest, dragging at my coat. I reached around the back edge of the gate and found the keeper by touch, a blunt iron tongue seated upside down in its bracket exactly as my grandmother had drawn it. The narrow chisel fit beneath.
 
-"Incorrect," she whispered.
+My first hammer blow vanished in the storm noise. The second jarred the iron. The third freed it.
 
-The word was barely out before she released her wrist. The change broke. Her hair settled into iron gray, and her shoulders dropped. She caught herself on the table rather than reaching for me.
+The gate leaped upward six inches.
 
-I switched off the timer.
+Water seized my legs and folded me into the stone. The rope snapped tight around my waist. The carpenter and baker were already pulling, but something held me against the gate.
 
-For a while the radiator knocked and the soup cooled between us.
+Hands hauled. My coat caught on the keeper. For one blind second I hung between the opening gate and the pull of the water; then the seam tore, the coat released, and I slid backward into the gallery.
 
-"If I do this," I said, "it's tonight. I can stop it. It doesn't go in the cabinet."
+“Raise it!” I coughed.
 
-Aldith's gaze moved to the closed Lerrow drawer, then back. "I can write an exclusion."
+The mechanic and carpenter drove the wheel together. The chain drum turned. As the gate climbed, the surge found the old relief channel.
 
-"No writing."
+The water did not stop. It changed its destination.
 
-She opened her mouth, closed it, and gripped the table edge.
+It roared through the inspection slot, under the gate, and away toward the marsh. Pressure dropped so fast that my ears rang. The crack-light faded from the arch. Evadne sagged between the two shores, her hands gray with cold, every line of her face still impossibly young.
 
-"Stay?"
+We carried her upstairs in one of the blankets she had stacked by her door.
 
-I took off my coat. "Tonight."
+At dawn, number five’s east floor rested three centimetres low against the new shores. Brick dust coated my grandmother’s bowls, and the blue teacup had cracked where I had left it beside the sink. The lower road was wet to its thresholds but no longer filling. Beneath Rookglass House, the reopened channel made a steady sound like distant wind.
 
-The procedure began with toast.
+Evadne sat on the landing with the black notebook. She crossed out the promises of the households that had brought the key, the pump, the truck, the timber, and the sacks. She crossed out the woman’s refusal too. Then she turned the remaining pages, spoke once for each dead promise-maker, and released every promise that had never been answered at all. The paper did nothing but take the pencil marks. Evadne’s living voice did the work.
 
-Aldith ate two pieces while I wrote the time on the back of a repair notice. She had me wash my hands, move my chair to her left, and keep two fingers against the pulse in her wrist. Every eight minutes I asked her name, where she was, and whether the pain had moved. Every twenty, she stopped and I decided whether we continued. She did not decide for me, though twice I had to wait out the phrasing she preferred before she managed a question.
+It took less time than cleaning the blood from my scraped knuckles.
 
-The first cycle softened the swelling in her fingers. It also brought back the constriction. Her chest hitched, and my own breath answered before I could prevent it.
+We walked alone to the edge of Mirehaven. The rain had thinned to mist. At the white boundary post, Evadne stopped and pressed two fingers to her throat as if checking a pulse.
 
-"Pause," I said.
+“What happens if it still holds you?” I asked.
 
-"The interval is not complete."
+“I bruise my shoulder on the air. I have done it often enough.”
 
-"Pause."
+She stepped past the post.
 
-She let go at once.
+Nothing stopped her.
 
-I counted her breaths. Fifteen. Sixteen. The kettle clicked uselessly on the counter.
+Evadne walked several paces down the wet road, then farther, until a laugh escaped her. When she turned, one silver hair lay against the black at her temple. She touched it with an astonished hand.
 
-"Did the woman downstairs feel this while you held it?"
+I had not decided whether to rebuild number five or sell it wounded. I had decided only that I was cold and that my grandmother’s blue tea tin was still above the stove.
 
-"Less. That was the point."
+“I’m making tea,” I said. “Come back with me if you want some.”
 
-"Don't make me drag answers out one word at a time."
-
-Aldith rested her forehead on her free hand. "I cannot give you a complete forecast. The work is not cleanly divided."
-
-"That I can use."
-
-We waited until her breathing eased. When I asked whether to continue, she said, "I would like to," which was not the same as an instruction.
-
-Near one in the morning, I carried another box from next door and packed while she rested. She watched me wrap the cups. My mother had kept twelve, though she lived alone and never invited more than three people at once.
-
-"She disliked receiving help," Aldith said.
-
-"She disliked owing."
-
-"Yes."
-
-"You gave her a way to call it even."
-
-Aldith rubbed the brass button between her fingers. "She asked for one."
-
-I sealed the box harder than necessary. Tape screamed off the roll.
-
-"She could've called me."
-
-"Perhaps."
-
-"You don't know."
-
-"No."
-
-I expected more from her: a reason my mother had chosen the woman next door, a neat last fact I could blame or treasure. Aldith only put the button back in its drawer.
-
-The next cycle brought her face toward the one I knew from the hallway, but not evenly. A line stayed carved beside her mouth. The white above her ear remained. Under my fingers her pulse skipped, corrected, then skipped again.
-
-"Stop."
-
-"It has only been six minutes."
-
-"I know."
-
-"The asymmetry can settle."
-
-"Can."
-
-Her gaze sharpened. For a second I saw why a whole town might prefer to promise later rather than refuse her now.
-
-Then she looked down at my fingers on her wrist.
-
-"Stop," she said.
-
-I pulled away. We sat without touching while sleet blurred the parking-lot lights.
-
-At three, the clinic's overnight service called back. The nurse asked questions that had ordinary answers: pulse, temperature, breathing, alertness, medication, pain. Aldith answered the first two in complete sentences, shortened the third, and looked at me when asked whether someone could remain with her.
-
-"Yes," I told the nurse. "Until morning."
-
-"If her breathing tightens again, don't wait for us. Call emergency services. She needs an urgent appointment after eight either way."
-
-"Got it."
-
-"And keep her warm."
-
-"We are sitting on top of a radiator."
-
-"Not too warm, then."
-
-That ended the conversation. Aldith seemed offended by its usefulness.
-
-We did two more cycles. She got younger by increments no mirror could have judged correctly: tendons eased; her hearing cleared; the tremor narrowed to two fingers. When the restoration tried to erase the line beside her mouth, her pulse stumbled. I stopped it. The line stayed.
-
-By seven, the sky had paled from black to the dirty blue of dishwater. Aldith looked perhaps thirty, which meant she no longer looked like the Aldith people knew. Exhaustion sat plainly on her. The white above one ear had not moved.
-
-"One more could reach baseline," she said.
-
-"No."
-
-She flexed her left hand. "The remaining variance is visible."
-
-"Your pulse says no."
-
-"It says caution."
-
-"Mine says no."
-
-She glanced at the cabinet, where two lapsed marks had changed nothing except the record. "Then we are finished."
-
-I released her wrist. That was all. In the quiet, a truck scraped sleet from the lot.
-
-At eight, Aldith called the clinic and accepted the first appointment. She made the call without using my name, my mother's promise, or the word account.
-
-I carried my coat and the empty soup tin back across the hall. My mother's kitchen had gone cold. The box of cups waited where I had left it, one flap open.
-
-As I folded it shut, Aldith knocked once on my doorframe. She had changed into a heavy black cardigan and was holding the broken kettle by its handle.
-
-"The driver will be here in twelve minutes," she said.
-
-"Shoes with a better sole. The steps are ice."
-
-"Those are in the bedroom."
-
-She did not move.
-
-"What?"
-
-"This lid is becoming dangerous."
-
-I looked at the butcher's string, the warped hinge, and the screwdriver still lying beside my mother's junk drawer.
-
-"Leave it on the counter," I said. "I'll see if the pin comes out."
-
-Aldith set it down among the circulars. "I can pay you."
-
-"Later. Go find your shoes."
-
-She went next door. Through the wall I heard one drawer open, then another, then the dull knock of a shoe hitting the floor.
-
-I started on the kettle while I waited for her ride.
+Evadne looked once along the road she could finally take. Then she crossed into Mirehaven beside me, and we went back to Rookglass House while the old channel carried the storm under our feet.

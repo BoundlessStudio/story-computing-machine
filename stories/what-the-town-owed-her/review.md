@@ -6,14 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Aldith Gant | new | The youthful-looking witch next door; no exact, alias, close-spelling, or confusing reuse found. |
-| Lerrow | new | The unnamed narrator's family surname and cabinet heading; no exact, alias, close-spelling, or confusing reuse found. |
+| Leonie Sayer | new | Also Leonie; adult narrator and Evadne's neighbor. No exact, alias, close-spelling, or confusing reuse found. |
+| Evadne Trell | new | Also Evadne; youthful witch and living source of the local promise-working. No exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | The town, apartment building, and clinic are unnamed. |
+| Mirehaven | new | Town containing the local working's boundary; no established-location identity or confusing reuse. |
+| Rookglass House | new | Also Rookglass; apartment building above the relief channel. No established-location identity or confusing reuse. |
 
 ## Continuity
 
@@ -28,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The overnight watch resolves the apparent townwide debt through heterogeneous, fallible records and a freely bounded neighborly choice. Aldith's categorical precision, the narrator's practical resistance, and the secondary speakers' immediate limits remain distinct under pressure; the final kettle exchange trusts action rather than restating the resolution. “My grandmother” is ordinary kinship description, not a reader-facing proper noun. The local bodily suspension and restoration keep their costs and limits, leave records inert, and establish no universal witch or consent rule.
+- Notes: The debt-and-youth mystery resolves through the flood rescue and Evadne's release. Her guarded admissions, Leonie's practical skepticism, and the neighbors' household limits remain distinct. The rescue signal has explicit uptake, and the final invitation earns Evadne's voluntary return without explaining it again. Magic remains locally bounded and supplied by Evadne; the ledger and infrastructure have no independent agency.
