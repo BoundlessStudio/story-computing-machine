@@ -69,47 +69,35 @@ The notebook held brief entries. A rescue, a date, the exact words blurted after
 
 Evadne had not changed.
 
-I put the pictures down. “Is this why you haven't aged? These promises?”
+I held my grandmother's photograph beside the notebook. “She got old doing this for you.”
 
-“Yes.”
+Evadne took her hand off the page.
 
-“What did you take from them?”
+“Is that how it works?” I asked. “You stay like this, and she—”
 
-“I haven't taken anyone's years.”
+“No. I haven't taken anyone's years.” She reached for the photograph, then left it in my hand. “The promises keep me young. They also keep me here.”
 
-I turned over the photograph of my grandmother. Evadne reached for it, then left it in my hand.
+She had been twenty-six when the first flood came. Twelve people were trapped upstairs; she had held the stair for them, and afterward they had promised her anything she wanted.
 
-“I was twenty-six when the first flood came. Twelve people were trapped upstairs. I held the stair for them, and afterward they promised me anything I wanted.” She drew a finger down the notebook's open page. “I'd only asked for blankets. I should have left it at that.”
+“I'd only asked for blankets,” she said. “I should have left it at that.”
 
-“But you didn't.”
+A promise given to her after she'd worked magic could stay open until she released it, she told me. Keeping that first one had stopped her aging. Then she'd tried to leave Mirehaven and found she couldn't get past the boundary. Every promise since had made it worse.
 
-“No. A promise given to me after I've worked magic can stay open until I release it. I kept that one. I stopped aging, and when I tried to leave Mirehaven, I couldn't get past the boundary. Every promise since has made it worse.”
+I ran my finger past the old entries to the names of children and grandchildren. “You put them in here too. That boy thought he owed you a key.”
 
-I looked at the notebook. “If you burnt this?”
+“So I know whose door to knock on. I haven't bound them, Leonie. They weren't there to make the promises.” Evadne looked toward the door. “I've told his mother there's no curse for refusing me. If she keeps the key, I find another way into the yard.”
 
-“I'd still be here. It's my working. The book is so I don't forget who promised what.”
+“You need to tell him.”
 
-“And their grandchildren?”
+“I know.”
 
-“I've never bound them. They weren't there to make the promises.”
+I found my grandmother's entry. “Cross hers out. She's dead.”
 
-“Does the boy know that?”
+Evadne covered the words with her hand. “It's only a record. If I burned it, I'd still be here. I have to let the promise go myself.”
 
-“I've told his mother.”
+I waited. She moved her hand, leaving the page open, and bent to pull on her boots. For a moment I thought she meant to leave me standing there.
 
-“He sounded frightened.”
-
-Evadne looked toward the door. “I know. But if she keeps the key, I find another way into the yard. There's no curse for refusing me.”
-
-“But you kept the promises open.”
-
-“Yes.”
-
-“Why?”
-
-She bent to pull on her boots. For a moment I thought she meant to leave me standing there.
-
-“The people who made them died. I was still here, and there was always another fire, another winter. I wanted someone to come when I asked.” She pulled a lace too hard and had to loosen it. “Each spring I think I'll finish with the book. Then I put it away.”
+“I know she's dead,” she said. “The first people died too. I was still here, and there was always another fire, another winter. I wanted someone to come when I asked.” She pulled a lace too hard and had to loosen it. “Each spring I think I'll finish with the book. Then I put it away.”
 
 “My grandmother didn't need to be frightened into helping you.”
 
@@ -237,9 +225,27 @@ I dried my hands. “She didn't tell me that.”
 
 “No. I don't suppose she did.”
 
-Evadne spoke my grandmother's name and released her promise. Then she found the entries for the families that had helped, and the promise made by the grandmother of the woman who had gone home to her husband. She released that one too. Her pencil hovered over the next page. Downstairs, someone called a sleepy goodbye.
+Evadne spoke my grandmother's name and released her promise. Then she found the entries for the families that had helped, and the promise made by the grandmother of the woman who had gone home to her husband. She released that one too.
 
-Evadne turned back to the beginning of the book.
+She closed the notebook with a finger between the pages. Downstairs, someone called a sleepy goodbye. Evadne turned toward the stairs and listened until the front door shut. Then she drew her finger out and rested both hands on the cover.
+
+“I could put it away again.”
+
+She turned one hand palm upward. It was scraped where she had pressed it against the bridge. With her other hand she touched the smooth skin above her wrist.
+
+“I don't want to get old, Leonie.”
+
+I set the basin aside and sat beside her. Across the landing, my grandmother's door stood open on the half-filled boxes.
+
+Evadne opened the book again. She found the words *Call, and we will come* and held the page flat.
+
+“They never came.” She smoothed a folded corner. “I kept thinking they might.”
+
+She read the name above the promise. Then she stopped, her lips still parted.
+
+“I release you,” she said.
+
+She sat for a while before putting a line through it. Then she turned back to the beginning of the book.
 
 It took her some time. She worked through every remaining entry, speaking once for each promise-maker, including those whose families had moved away or never answered her at all. The paper did nothing but take the pencil marks. Evadne’s living voice did the work.
 

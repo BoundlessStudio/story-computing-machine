@@ -6,15 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Leonie Sayer | new | Also Leonie; adult narrator and granddaughter. No outside-story exact, alias, close-spelling, or confusing reuse found. |
-| Evadne Trell | new | Also Evadne; living witch responsible for the local promise-working. No outside-story exact, alias, close-spelling, or confusing reuse found. |
+| Leonie Sayer | new | Also Leonie; adult narrator clearing her grandmother's apartment. Exact, alias, and close-spelling searches found no confusing outside-story reuse. |
+| Evadne Trell | new | Also Evadne; living witch responsible for the local promise-working. Exact, alias, and close-spelling searches found no confusing outside-story reuse. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Mirehaven | new | Town and boundary of Evadne's confinement; no established-place identity or confusing reuse found. |
-| Rookglass House | new | Apartment building above the channel, beside the safe yard and upper road. No established-place identity or confusing reuse found. |
+| Mirehaven | new | Town whose boundary confines Evadne until she releases the promises; no established identity or confusing reuse found. |
+| Rookglass House | new | Apartment building beside the raised yard and upper road, above the drainage channel; no established identity or confusing reuse found. |
 
 ## Continuity
 
@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The photographs show ordinary aging across decades, and Leonie's complaint about another errand fits the note and Evadne's reply. The rescue's limited magical hold, assisted retreat, and all-clear are coherent; the speakers retain distinct attention and uneven fluency. Evadne's living promise-working imposes no magical liability on descendants. Releasing all promises and freely accepting tea resolves the debt mystery while preserving Leonie's grief and intention to sell.
+- Notes: Leonie's suspicion about her grandmother drives the notebook exchange; Evadne's defensive answers and delayed admission make the necessary explanation personal. The rescue retains clear geography, limited living magic, and uneven, urgent speech. At dawn, Evadne nearly puts the book away, admits her fear of aging, and struggles to release an unanswered promise before choosing freely. The book remains a record, descendants bear no magical liability, and the final invitation preserves both Evadne's freedom and Leonie's intention to sell without a replacement promise. No shared-authority or chronology conflict found.
