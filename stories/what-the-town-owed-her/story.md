@@ -71,23 +71,23 @@ A vibration passed through the boards. The candle flames shortened. Somewhere be
 
 “Do you want me to open it or not?” I asked.
 
-“I need to see how bad the leak is. The gate may be beyond us.”
+“I need to see how much worse the wall has got. Then we can decide whether it's safe to break through.”
 
-“You haven't even looked at it?”
+“And the gate?”
 
-“At the wall, yes. I can't see through it, Leonie. That gate hasn't been used in more than a century.”
+“I can't inspect it until we're through. It hasn't been used in more than a century.”
 
 She picked up one lantern. I kept my grandmother’s note and followed her down.
 
 The east cellar wall ran beneath number five. It had been plastered, painted, and hidden behind two storage cages, but water had drawn a diagonal gray line from the ceiling to the floor. Evadne knelt and fitted two fingers into the lowest mortar joint. When she pulled them free, they shone black.
 
-“This is coming from the marsh,” she said.
+“The lower-road drains were spouting when I came back,” she said.
 
-“You can tell from the mud?”
+“The main culvert?”
 
-“Look. There's a reed seed in it.”
+“Backing up. This passage is filling with it.”
 
-She showed me a barbed seed stuck to her wet fingertip. The river marsh lay beyond the lower road; water from it should not have been pressing uphill against Rookglass House.
+The culvert carried rain down from the upper road. Evadne wiped the black silt from her fingers, and more welled through the joint.
 
 On a crate beside the wall sat a thin black notebook and a packet of photographs. The first photograph showed Evadne waist-deep in floodwater, holding a window frame above three people crowded on a roof. The date on the back was a hundred and fourteen years old. In another, she carried a soot-blackened child from a shop fire. In a third, she stood beside my grandmother, who was young enough to have both front teeth and furious enough to be recognizable.
 
@@ -157,7 +157,7 @@ That was not a demand for faith. It was a dimension I could check.
 
 Upstairs, I pried up the short kitchen board my grandmother had marked with two neat nail heads. Her masonry set lay below it in an oilcloth roll: lump hammer, three chisels, an offset spanner, and a folding rule. Beneath the tools was a school exercise book filled with section drawings of the foundation.
 
-The first drawing showed the main storm culvert bending under the lower road. At Rookglass House, a branch led east through the service gallery to an older channel that emptied beyond the houses into the marsh. A vertical iron gate kept the branch shut. My grandmother had drawn the wheel, the chain drum, and two keeper pins. Later pages tracked the east arch’s movement in millimetres.
+The first drawing showed the main storm culvert bending under the lower road toward the river. At Rookglass House, a branch led east through the service gallery to an older channel with a separate outlet, lower down the marsh beyond the houses. A vertical iron gate kept the branch shut. My grandmother had drawn the wheel, the chain drum, and two keeper pins. Later pages tracked the east arch’s movement in millimetres.
 
 Her final entry was six weeks old.
 
@@ -167,9 +167,9 @@ In the margin she had written: *Leonie will know eighteen when she sees it.*
 
 I hated her for being right.
 
-The crack measured twenty-one millimetres at the crown.
-
 When I reached the cellar, water covered Evadne’s boots. A rust-colored stream ran down the stairs from the street drain, and the wall bowed between its old brick edges.
+
+I opened the folding rule. The crack measured twenty-one millimetres at the crown.
 
 “Where does the diverted water come out?” I asked.
 
@@ -177,7 +177,7 @@ When I reached the cellar, water covered Evadne’s boots. A rust-colored stream
 
 “Who has checked that outlet?”
 
-“I walked it at noon. Reeds, no masonry fall.”
+“I walked it at noon. Clear of rubble, and the marsh water was below its mouth.”
 
 “The wall is acting as a buttress. We shore the joist before we touch a brick. What can your magic actually hold?”
 
@@ -187,7 +187,7 @@ When I reached the cellar, water covered Evadne’s boots. A rust-colored stream
 
 “In this water, perhaps half an hour.”
 
-I unfolded my grandmother’s oilcloth on the stair. The offer on number five depended on an intact foundation and an empty storage bay. Once we opened the infill, the surveyor would condemn the east floor until it was rebuilt. The buyer would be gone before the rain stopped.
+I unfolded my grandmother’s oilcloth on the stair. The offer on number five depended on an intact foundation. The wall had already put an end to that. I could still leave an agent to deal with the damage and take my train. Staying meant helping make the building safe before I knew what would be left to sell.
 
 Another brick edged forward.
 
@@ -199,13 +199,13 @@ I took the lump hammer from its loop. “Show me where to put the shores.”
 
 We did not summon Mirehaven to hear an explanation. We climbed the stairs and knocked on doors.
 
-At number four, Evadne asked a retired carpenter for two timber shores and help setting them beneath the east joist. He stared at her unchanged face.
+At number four, a retired carpenter opened the door. He stared at Evadne’s unchanged face.
 
 “My father said we owed you any timber in the yard.”
 
-“Can you help us shore the east joist? Two sound lengths should do it.”
+“Can you help us shore the east joist?” she asked. “And we'll need a frame under the cellar arch once we've opened it.”
 
-He rubbed his bad thumb against the door latch. “I’ll set them. I won’t crawl through anything.”
+He rubbed his bad thumb against the door latch. “I’ll set the supports. I won’t crawl through anything.”
 
 “Good. Bring wedges.”
 
@@ -223,17 +223,17 @@ The old man from the hardware family reached the front step as we came down. Thi
 
 “My daughter said yes,” he told Evadne. “Lift the east gate on its hinge before you turn. It jams in rain.”
 
-“Will you open it for us?” Evadne asked. “We'll need someone there to keep the winch line off the stone.”
+“Will you open it for us?” Evadne asked. “We'll need someone there to watch the winch line and pass word to the driver.”
 
 “I'll stay by the gate,” he said. “You go on.”
 
-At the garage around the corner, water already ran over the threshold. The mechanic listened while I described the buried gate and the straight pull through the east yard.
+At the garage around the corner, water already ran over the threshold. I told the mechanic we needed his winch at Rookglass House to pull out a debris screen before we could reach the buried gate.
 
 “The truck can’t clear Rookglass’s arch,” he said.
 
-“The key opens the yard gate,” I said. “You can reverse to the alley and feed cable through.”
+“You can reverse to the alley,” I said. “Feed cable through the yard gate and down the outside cellar steps. Can you turn the line toward the gallery?”
 
-“Sixty feet?”
+“With blocks, if there's something sound to anchor them to. How far? Sixty feet?”
 
 “I haven't measured the yard. And there's the gallery beyond the cellar.”
 
@@ -249,25 +249,27 @@ The woman stayed a moment. “What about what Gran said? After the fire?”
 
 The woman pulled her collar up and ran into the rain.
 
-By the time we returned, neighbors had made a relay without being told to make one. The carpenter passed braces down the stair. The mother in the ground-floor flat passed the pump after them, then shut her door on the noise. Two bakers from the lower road arrived with doubled flour sacks and began carrying rubble toward the yard. The mechanic backed his truck into the alley. The long key opened the rusted gate only after the old man lifted it bodily on its hinges.
+By the time we returned, neighbors had made a relay without being told to make one. The carpenter passed braces down the stair. The mother in the ground-floor flat passed the pump after them, then shut her door on the noise. Two bakers from the lower road arrived and doubled their flour sacks to take the rubble. The mechanic backed his truck into the alley. The long key opened the rusted gate only after the old man lifted it bodily on its hinges.
 
-The first shore took the joist’s weight with a wooden groan. I drove its wedges until the brass level on the floor stopped trembling. The second stood clear of the access arch. Then I set my grandmother’s broad chisel into the mortar.
+The first shore took the joist’s weight with a wooden groan. I drove its wedges until the brass level I had brought down lay still on the floor. The second stood clear of the access arch. The carpenter laid out the extra posts and head timber for the arch frame beside the stair.
 
-The first brick I knocked free ended the sale.
+Evadne planted both palms against the old stone arch. Light rose under the skin of her wrists, each pulse sending a white branch through the wet joints. The arch stopped grinding. I set my grandmother’s broad chisel into the mortar and knocked the first brick into a flour sack.
 
-Cold water punched through the hole. Evadne planted both palms against the old stone arch. Light rose under the skin of her wrists, each pulse sending a white branch through the wet joints. The arch stopped grinding. Water flattened against the opening as if her hands had changed its mind, but the force bent her elbows and drove her heels backward across the tiles.
+Cold water punched through the hole. It flattened against the opening as if her hands had changed its mind, but the force bent her elbows and drove her heels backward across the tiles.
 
-“High courses first,” she said. “Leave the sides until the shore settles.”
+“High courses first,” she said. “Leave me room at the sides.”
 
-We obeyed. The carpenter worked opposite me with a pry bar. The bakers caught bricks and filled sacks. The pump coughed black water through a hose into the yard. When the hole reached shoulder width, Evadne let a controlled sheet spill around her boots.
+We obeyed. The carpenter worked opposite me with a pry bar. The bakers took turns carrying sacks and working the pump, which coughed black water through a hose into the yard. When the hole reached shoulder width, Evadne let a controlled sheet spill around her boots.
 
 Beyond the infill, the service gallery ran under a low stone arch for twelve feet. A broken debris screen lay across it, packed with roots and bottles. Behind that, the gate wheel showed one rusted rim above the rising water.
 
-The mechanic threaded his cable past us. The old man guided its hook through the screen while the bakers kept the slack from tangling around Evadne’s ankles. Outside, the truck engine deepened. Iron tore free with a scream and came toward us under a black mat of roots.
+The mechanic rigged one guide block above the outside cellar steps and another on the sound wall opposite the breach, testing each old hauling ring before he trusted it. His cable came through the yard gate, down the steps, round the lower block and back toward the gallery. One baker hooked it through the screen while the other kept the slack from Evadne’s ankles. The mechanic went back out to the truck.
+
+At his call, the bakers, carpenter and I stood clear of the line. Evadne held her place beside the opening. The engine deepened. Iron tore free with a scream and came toward us under a black mat of roots.
 
 “Stop!” I shouted.
 
-The cable stilled. We unhooked the screen and dragged it into the cellar. Evadne’s light flickered. Her lips had lost their color, and one knee shook against her skirt.
+The old man relayed my shout from the yard gate. The cable stilled. We unhooked the screen, dragged it aside, and pulled the loose cable out of the breach. The mechanic came down again. Evadne’s light flickered. Her lips had lost their color, and one knee shook against her skirt.
 
 “You said half an hour.”
 
@@ -277,23 +279,23 @@ The cable stilled. We unhooked the screen and dragged it into the cellar. Evadne
 
 She shook her head. “Just hurry.”
 
-I tied the relay rope around my waist and took the hammer, offset spanner, and narrow chisel inside my coat. The carpenter paid out the other end as I stepped through the breach. Water climbed from my knees to my hips where the gallery dipped.
+I opened the exercise book on the oilcloth and traced the two keepers once more. Then I tied the relay rope around my waist and took the hammer, offset spanner, and narrow chisel inside my coat. The carpenter paid out the other end as I stepped through the breach. Water climbed from my knees to my hips where the gallery dipped. The mechanic followed with the pry bar.
 
-The gate wheel resisted, then moved when the mechanic levered a spoke with the pry bar. Chain clanked inside the drum. The iron gate rose the width of my hand and stopped.
+“Both keepers first,” I told him. “Don't turn the wheel until I'm back beside you.”
 
-A surge struck from the main culvert. The gallery ceiling jumped. Behind me, one of Evadne’s palms tore from the arch and a stone dropped where her head had been. The carpenter caught her shoulder; Evadne slammed her hand back into the joint. White light returned in a ragged fan.
+He set his hand on the rim and waited.
 
-“Wheel’s free,” the mechanic called. “Something below is holding it.”
+A surge struck from the main culvert. Behind me, one of Evadne’s palms tore from the arch. She flinched aside as a stone dropped where her head had been. The carpenter caught her shoulder; Evadne slammed her hand back into the joint. White light returned in a ragged fan.
 
-I opened my grandmother’s exercise book inside the oilcloth. Her last drawing put the lower keeper on our side. I found its square head under the water and fitted the offset spanner. It turned once, shedding rust, then came loose. The gate did not rise.
+The nearer keeper's square head lay under the water. I fitted the offset spanner. The pin turned once, shedding rust, then came free. I put it on the ledge beside the wheel.
 
 The second keeper was beyond the gate, reachable from the left inspection slot.
 
-I could see the slot now that the screen was gone: a shoulder-wide cut in the gallery wall beside the iron leaf. Water drove through it toward the old channel. My grandmother’s warning sat under my thumb. Do not stand beyond it when the gate rises.
+I could see the slot now that the screen was gone: a shoulder-wide cut in the gallery wall beside the iron leaf. Even with the gate shut, water drove through that narrow bypass toward the old channel. I remembered my grandmother's warning. Do not stand beyond it when the gate rises.
 
-“When the gate moves, pull me out,” I told the carpenter. “Don't wait for me to shout.”
+“Three tugs, pull me out,” I told the carpenter. “Or if you see me go under. I may not be able to shout.”
 
-“Wait.” He called one of the bakers down to take the rope behind him, then leaned past the shore for a clear view of the gate. “All right. Go.”
+“Wait.” He called one of the bakers over to take the rope behind him, then leaned past the shore for a clear view of the slot. “All right. Go.”
 
 I took a breath and checked the knot at my waist.
 
@@ -303,19 +305,23 @@ Stone took the skin from my knuckles. The water rose to my chest, dragging at my
 
 My first hammer blow vanished in the storm noise. The second jarred the iron. The third freed it.
 
-The gate leaped upward six inches.
+I tucked the freed keeper into my coat and tried to turn back. My boot slipped from the submerged ledge. The current seized my legs and folded me against the stone. I caught the rope at my waist and jerked it three times.
 
-Water seized my legs and folded me into the stone. The rope snapped tight around my waist. The carpenter and baker were already pulling, but something held me against the gate.
+Hands hauled. My coat caught on the empty keeper bracket. For one blind second I hung against the pull of the water; then the seam tore, the coat released, and I slid backward into the gallery.
 
-Hands hauled. My coat caught on the keeper. For one blind second I hung between the opening gate and the pull of the water; then the seam tore, the coat released, and I slid backward into the gallery.
+The mechanic caught me beside the wheel. I clung to its mounting until I had my feet under me.
 
 “Raise it!” I coughed.
 
-The mechanic and carpenter drove the wheel together. The chain drum turned. As the gate climbed, the surge found the old relief channel.
+The wheel resisted. The mechanic levered a spoke with the pry bar while I pulled the rim. The chain drum turned. As the gate climbed, the surge found the old relief channel.
 
 The water did not stop. It changed its destination.
 
-It roared through the inspection slot, under the gate, and away toward the marsh. Pressure dropped so fast that my ears rang. The crack-light faded from the arch. Evadne sagged between the two shores, her hands gray with cold, every line of her face still impossibly young.
+It roared under the gate and away toward the lower marsh. The water fell from my hips to my knees. Behind me, Evadne still had both hands on the broken arch.
+
+“Keep holding,” the carpenter told her. “We're nearly there.”
+
+Once we were out of the gallery, he and the bakers brought the waiting timbers into the opening. They set the frame on broad footboards and wedged its head against the sound stones on either side of the gap. Evadne's light faded slowly as she let the timber take the weight. The carpenter watched the wedges. Nothing moved. Only then did her hands fall, gray with cold, every line of her face still impossibly young.
 
 We carried her upstairs in one of the blankets she had stacked by her door.
 
