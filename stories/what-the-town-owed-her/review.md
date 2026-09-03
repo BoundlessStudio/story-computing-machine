@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The already-damaged sale, separate marsh outlet, winch relay, keeper-release and rescue sequence, subsequent gate raising, and transfer to timber support form a coherent causal chain. Leonie's skepticism, Evadne's guarded admissions and strained urgency, and the neighbors' practical limits remain distinct; the final invitation makes her return voluntary without restating the story's argument.
+- Notes: Three nonblocking clarity issues remain in `story.md`: at line 54, identify Evadne's procession photograph as another print, since the earlier photograph hangs in the grandmother's hallway; at line 92, clarify Evadne's position and what holding the window frame accomplishes for the people on the roof, as the rescue image is ambiguous rather than demonstrably impossible; at line 330, name the grandmother's recorded promise as the entry being cancelled rather than the woman's refusal.
