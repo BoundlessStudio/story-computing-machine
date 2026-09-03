@@ -1443,3 +1443,48 @@
      Magic extinction or after the joined-sky reawakening, and relationship to
      every other established person, place, event, or magical system remain
      unresolved.
+
+## Undated forecasted royal succession and king's death
+
+- Status: LOCKED
+- Summary: After a forecast said that a blood heir would kill their father for
+  his throne before the year's turning, the younger present sibling freely
+  accepted the office that night, ending the king's injury-suspending interval
+  and allowing his original fatal injury to take effect.
+- First established: stories/a-throne-neither-wanted/story.md; locked by
+  explicit user decision, 2026-09-02
+- Aliases: forecasted succession; black-stone throne succession
+- Notes:
+  1. At breakfast, a rite keeper produced the line `Before the next turning of
+     the year, one blood-heir will kill the seated king for his throne.` The
+     forecast identified neither which heir nor which act and left motive and
+     result ambiguous. The king refused to name a suspected child.
+  2. The younger sibling and their older sister inspected household succession
+     records and learned that completed readings had matched despite delay,
+     misunderstanding, and harmful avoidance attempts. The siblings also
+     discovered that the sister had prepared emergency instruments to protect
+     both of their futures if their father died.
+  3. A physician revealed that a scaffold accident the previous year had
+     crushed the king's chest fatally. The coronation working had supplied an
+     interval rather than healing him, and his pain and weakness had sharply
+     worsened. The king had concealed the truth because he feared his suffering
+     would force an heir's choice.
+  4. The king asked for the interval to end that night but stated that neither
+     child owed him the transfer and refused to rank their futures. The older
+     sister offered to take the office; the younger sibling chose it without
+     treating the sister's freedom as the sole reason, and the sister stepped
+     aside after receiving that assurance.
+  5. In the emptied throne chamber, the younger heir sat, took the king's hand,
+     confirmed that he still wanted the transfer, and spoke acceptance. The
+     office passed, the old support ended, and the king died from the original
+     injury. The physician confirmed his death; the new ruler's immediate rise
+     from the throne did not reverse the transfer.
+  6. Near midnight, the siblings stopped the medicine clock, rinsed the king's
+     cup, and went together to open the doors to the waiting court. Their grief,
+     the older sister's survey, the new ruler's medical studies and reign, and
+     the kingdom's later governance remain unresolved.
+  7. The event belongs to a magic-active span of history and therefore not to
+     the perfectly magicless Long Dark. Its civil date, Galactic Cycle
+     coordinate, placement before the No More Magic extinction or after the
+     joined-sky reawakening, and relationship to every other established
+     person, place, monarchy, prophecy, or magical system remain unresolved.

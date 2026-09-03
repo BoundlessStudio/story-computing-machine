@@ -2124,3 +2124,48 @@
     Bellweather's beast affinity, Garran's command-bonds, the stormhart, Luz
     Navarro's shrinking ability, or any other established beast, shadow, light,
     size-changing, boundary, or restoration system.
+
+## Unnamed royal forecasting rite and coronation working
+
+- Status: LOCKED
+- Summary: In one unnamed magic-active monarchy, a living rite keeper's heat
+  can produce a grain pattern that reports a future act, while a separate
+  throne-linked coronation working suspends the consequence of a seated ruler's
+  fatal injury until a direct heir freely accepts the office.
+- First established: stories/a-throne-neither-wanted/story.md; locked by
+  explicit user decision, 2026-09-02
+- Aliases: succession forecast; coronation working; throne working
+- Notes:
+  - A rite keeper warmed winter water in a shallow silver dish between her
+    palms, causing black grains to climb through the water and form words. Once
+    her living heat left, the grains became inert and illegible. The dish,
+    water, and grains have no established agency.
+  - The royal household's three centuries of records contained no failed
+    pattern, and every completed line examined by the rite keeper matched the
+    record. People had delayed or misunderstood readings and had committed
+    harmful acts while trying to avoid them, but this forecast reported an act
+    rather than compelling anyone to perform it.
+  - The witnessed line named one blood heir, the seated king, the throne, and a
+    deadline before the next turning of the year. It did not identify the heir
+    or act, or distinguish whether `for` described motive or result. This local
+    evidence establishes no universal rule of fate and no relationship to
+    Sablewake's binding Covenant of Hours or another prophetic system.
+  - The throne is worked black stone without an established mind, desire,
+    judgment, voice, or independent choice. During the witnessed transfer it
+    responded to the seated heir, the ruler's hand, and the office between two
+    living people; it did not test character or supply wisdom.
+  - The coronation working had suspended the consequence of the king's fatal
+    crushed-chest injury while he remained the seated ruler. It did not heal,
+    copy, or replace him. His pain and weakness continued, and the local medical
+    archive contained no interval that passed eighteen months.
+  - For this succession, a direct heir had to sit, take the ruler's hand, and
+    speak acceptance freely. The heir retained a stop before each step. Spoken
+    acceptance completed the transfer, ended the former ruler's support, and
+    could not be undone by immediately rising from the throne.
+  - The accepting heir experienced the office as heat and weight moving through
+    their body, not as the throne's desire or intelligence. The later effects,
+    limits, costs, and capabilities of holding the office remain unresolved.
+  - The rite, throne, injury interval, and succession practice are local to this
+    unnamed monarchy. They establish no universal royal law and no connection
+    to Solstice's crown, Ersene, another throne, crown, office, suspended-life
+    mechanism, or monarchy.

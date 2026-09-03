@@ -3,7 +3,7 @@ title: "The Throne Neither of Us Wanted"
 slug: "a-throne-neither-wanted"
 created: 2026-08-07
 created-at: 2026-08-07T08:29:26-04:00
-canon: false
+canon: true
 ---
 
 # The Throne Neither of Us Wanted

@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The prophecy, throne working, and succession practice remain bounded local facts, distinct from established named systems and settings.
+- Notes: The forecasting rite, throne working, and succession practice are coherent bounded local facts in an unspecified magic-active era; they establish no connection to the Covenant of Hours, another monarchy, or a universal prophecy rule.
