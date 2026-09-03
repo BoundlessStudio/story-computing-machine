@@ -1398,6 +1398,52 @@
      Its civil date, Galactic Cycle coordinate, and placement relative to the
      extinction and joined-sky reawakening remain unresolved.
 
+## Undated three-night siege of Shalegate
+
+- Status: LOCKED
+- Summary: During a three-night siege, Shalegate's shadow beasts diminished
+  members of Drost's invading host through fire-stretched shadows, leading to a
+  negotiated dark withdrawal beyond the beasts' restorative boundary.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: Shalegate siege; dark withdrawal
+- Notes:
+  1. Drost entered the valley with 1,842 soldiers, horses, wagons, pikes, siege
+     frames, and many open flames against Shalegate's 406 fit defenders. The
+     fort lit its beacons despite Tavik's warning about shadows crossing beast
+     runs.
+  2. On the first night, one Shalegate sentry and multiple enemy pickets were
+     diminished. Tavik and Denek took the sentry beyond the north ledge, where
+     the sentry and person-bound gear returned to ordinary size. Shalegate
+     protected five captured diminished soldiers and offered Drost an unlit
+     western withdrawal route.
+  3. Drost rejected that offer and ordered wider fire lines, nets, and handlers.
+     On the second night the resulting shadows intensified the feeding, toppled
+     shared equipment as people changed size, endangered horses and soldiers,
+     burned dens, and trapped Crooktail beside the largest fire.
+  4. Torma hooded the fort beacons in sections and sent Tavik and Denek through
+     an old drive path. Drost, himself partly diminished, cut the final net
+     anchor after 311 soldiers had changed and seventeen were missing, then
+     accepted negotiation rather than continue the assault.
+  5. Torma required the host to abandon siege engines and stacked pikes,
+     extinguish every open flame, sheath sidearms, depart at dusk, and continue
+     beyond bow range. Drost accepted, organized diminished soldiers by pace,
+     and kept only shielded lamps inside three wagons for tally work.
+  6. On the third night the host followed a rope road through darkness while
+     Shalegate's archers held fire. Soldiers and affected gear recovered at the
+     western cairns in spaced intervals. Drost reported 1,840 alive at the
+     latest count; two of the earlier missing soldiers remained absent.
+  7. By dawn the host had continued west, leaving pikes and siege engines.
+     Three dens had burned, one beast remained missing, Denek helped reopen a
+     collapsed den, and Crooktail voluntarily approached Tavik more closely than
+     before. No alliance, reconciliation, permanent peace, or later war outcome
+     is established.
+  8. The event belongs to magic-active history, not the magicless Long Dark.
+     Its civil date, Galactic Cycle coordinate, placement before the No More
+     Magic extinction or after the joined-sky reawakening, and relationship to
+     every other established person, place, event, or magical system remain
+     unresolved.
+
 ## Undated forecasted royal succession and king's death
 
 - Status: LOCKED

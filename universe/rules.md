@@ -2082,6 +2082,49 @@
     or connection to another naming system is established. The horn whistle,
     carved letters, and rope have no demonstrated magical agency.
 
+## Shalegate shadow-beast feeding and diminution
+
+- Status: LOCKED
+- Summary: In Shalegate's valley, a living shadow beast can bite a person's
+  shadow when open flame stretches it, proportionally diminishing that person
+  and their worn or carried belongings until they cross outward beyond the
+  beasts' local range.
+- First established: stories/friends-of-the-night/story.md; locked by explicit
+  user decision, 2026-09-02
+- Aliases: shadow feeding; shadow-beast shrinking; diminution
+- Notes:
+  - Shadow beasts are physical living animals with fur, bodies, tracks, feeding
+    routes, and vulnerability to nets and fire-damaged habitat. They are not
+    made of darkness. The witnessed supernatural effect is supplied by the living beast;
+    shadows, flames, lamps, nets, roads, clothing, weapons, and cairns remain
+    nonliving conditions, tools, or affected matter.
+  - A bite to a fire-lengthened shadow can produce partial or severe
+    proportional diminution without tearing the shadow or directly injuring the
+    body. The witnessed change itself was painless, but cold, falls, fire,
+    trampling, wheels, horses, equipment, and ordinary terrain remained dangerous.
+  - Clothing, armor, a sheathed or carried weapon, and other person-bound gear
+    changed in proportion with the wearer. Dropped torches, shared ladders,
+    wagons, siege engines, pikes, roads, and surrounding terrain remained at
+    ordinary scale. The exact attachment boundary and behavior of every object
+    class remain unresolved.
+  - Daylight did not reverse the effect. Crossing outward beyond the local
+    boundary restored a person and their affected gear through a brief uneven
+    growth, making spacing necessary when multiple people crossed. The exact
+    range, boundary geometry, duration, inward-crossing behavior, and every
+    possible reversal condition remain unresolved.
+  - High exposed beacons and bonfires cast useful feeding paths; shielded lamps
+    in the witnessed retreat did not cast shadows beyond their enclosures that
+    beasts could use. This does not establish an exhaustive light taxonomy or a
+    universal relationship between darkness, flame, and magical animals.
+  - The beasts showed no allegiance, moral selection, guilt detection, speech,
+    compelled obedience, or guaranteed protection. Feeding affected Shalegate's
+    sentry and Drost's soldiers alike, and familiarity with Tavik did not make
+    Crooktail controllable.
+  - The system is local to Shalegate's beasts and remains unrelated to Phoebe
+    Bellweather's beast affinity, Garran's command-bonds, the stormhart, Luz
+    Navarro's shrinking ability, or any other established beast, shadow, light,
+    size-changing, boundary, or restoration system.
+
 ## Unnamed royal forecasting rite and coronation working
 
 - Status: LOCKED
