@@ -65,7 +65,7 @@ I had argued about that chair myself. Its stuffing was coming through the seat, 
 
 On Evadne's table lay a thin black notebook and a packet of photographs. She shifted them to make room for the note, exposing a picture of herself knee-deep in floodwater, bracing a sagging wooden stair while three people descended toward a boat. The date on the back was a hundred and fourteen years old. In another, she carried a soot-blackened child from a shop fire. In a third, she stood beside my grandmother, who was young enough to have both front teeth and furious enough to be recognizable.
 
-The notebook held brief entries. A rescue, a date, the exact words blurted afterward. *Anything you ask.* *Anything in my power.* *Call, and we will come.* Beside them were addresses, some crossed out and replaced, and the names of children and grandchildren. Nearly every family I remembered was there. The faces in the photographs wrinkled and disappeared.
+The notebook held brief entries. A rescue, a date, the exact words blurted afterward. *Anything you ask.* *Anything in my power.* *Call, and we will come.* Beside them were addresses, some crossed out and replaced, and the names of children and grandchildren. Nearly every family I remembered was there. I found the same people in photographs taken decades apart, older each time. Some were missing from the most recent pictures.
 
 Evadne had not changed.
 
@@ -123,7 +123,7 @@ Now a man in a bright coat was knocking on the lower doors. The channel carried 
 
 “They're bringing them up,” she said. “I'd better go.”
 
-I retrieved my grandmother's note from the table. “She left this for me as if I was staying.”
+I retrieved my grandmother's note from the table. “I'm trying to pack up her things, and she's still giving me errands.”
 
 “You owe me nothing, Leonie. Not because of her. Not because you live next door.” Evadne picked up a lantern. “You can sell the apartment.”
 
