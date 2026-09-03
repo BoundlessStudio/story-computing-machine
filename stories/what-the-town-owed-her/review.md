@@ -14,7 +14,7 @@ Verdict: PASS
 | Noun | Status | Continuity note |
 | --- | --- | --- |
 | Mirehaven | new | Town and boundary of Evadne's confinement; no established-place identity or confusing reuse found. |
-| Rookglass House | new | Also Rookglass; apartment building containing the cellar access. No established-place identity or confusing reuse found. |
+| Rookglass House | new | Apartment building above the channel, beside the safe yard and upper road. No established-place identity or confusing reuse found. |
 
 ## Continuity
 
@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Three nonblocking clarity issues remain in `story.md`: at line 54, identify Evadne's procession photograph as another print, since the earlier photograph hangs in the grandmother's hallway; at line 92, clarify Evadne's position and what holding the window frame accomplishes for the people on the roof, as the rescue image is ambiguous rather than demonstrably impossible; at line 330, name the grandmother's recorded promise as the entry being cancelled rather than the woman's refusal.
+- Notes: The requested climax change preserves the youthful-witch mystery while making the danger a fresh tree impact during an underway evacuation. The safe bank, damaged span, contact-dependent holding, assisted return, and explicit all-clear remain coherent. Leonie's questioning, Evadne's guarded admissions, and the evacuees' frightened, imperfect exchanges retain distinct pressures and credible uptake. Freely offered help and Evadne's own dependence support her release of the promises; the final invitation preserves both her freedom and Leonie's intention to sell. Evadne supplies the local magic, and descendants inherit no magical liability.
