@@ -147,12 +147,15 @@ class StorySystemTests(unittest.TestCase):
             encoding="utf-8",
         )
 
-    def validate(self, root: Path, phase: str, story: str | None = None) -> subprocess.CompletedProcess:
+    def validate(
+        self, root: Path, phase: str, story: str | None = None,
+        *, validator: Path = STORY_VALIDATOR,
+    ) -> subprocess.CompletedProcess:
         command = [
             "pwsh",
             "-NoProfile",
             "-File",
-            str(STORY_VALIDATOR),
+            str(validator),
             "-ProjectRoot",
             str(root),
             "-Phase",
@@ -161,6 +164,16 @@ class StorySystemTests(unittest.TestCase):
         if story is not None:
             command.extend(("-Story", story))
         return subprocess.run(command, cwd=root, text=True, capture_output=True, check=False)
+
+    def validate_with_decoder(self, root: Path, decoder_source: str) -> subprocess.CompletedProcess:
+        """Exercise the native decoder protocol without changing checkout files."""
+        validator = root / STORY_VALIDATOR.relative_to(REPO)
+        validator.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(STORY_VALIDATOR, validator)
+        helper = root / "pages/image_validation.py"
+        helper.parent.mkdir(exist_ok=True)
+        helper.write_text(decoder_source, encoding="utf-8")
+        return self.validate(root, "Final", validator=validator)
 
     def make_friends_name_fixture(
         self, root: Path, slug: str = "friends-of-the-night"
@@ -1027,6 +1040,87 @@ class StorySystemTests(unittest.TestCase):
                     result = self.validate(root, "Final")
                     self.assertNotEqual(0, result.returncode, result.stdout + result.stderr)
                     self.assertIn("title-image.jpg", result.stdout + result.stderr)
+
+    def test_title_image_decoder_reports_missing_pillow_as_tooling_failure(self):
+        result = subprocess.run(
+            [sys.executable, "-I", "-S", str(REPO / "pages/image_validation.py")],
+            input="[]", text=True, capture_output=True, check=False,
+        )
+        self.assertEqual(2, result.returncode, result.stdout + result.stderr)
+        self.assertEqual("", result.stdout)
+        self.assertIn("Pillow", result.stderr)
+        self.assertIn("python -m pip install -r pages/requirements.txt", result.stderr)
+
+    @unittest.skipUnless(shutil.which("pwsh"), "PowerShell is required")
+    def test_final_rejects_invalid_cover_when_pillow_is_missing(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            (story / "title-image.jpg").write_bytes(b"not a JPEG")
+            # -I also excludes ambient PYTHONPATH; -S hides installed Pillow.
+            command = [sys.executable, "-I", "-S", str(REPO / "pages/image_validation.py")]
+            result = self.validate_with_decoder(
+                root, f"import os\nos.execv({sys.executable!r}, {command!r})\n"
+            )
+            output = result.stdout + result.stderr
+            self.assertNotEqual(0, result.returncode, output)
+            self.assertIn("Title-image decoder failed", output)
+            self.assertIn("Pillow", output)
+
+    @unittest.skipUnless(shutil.which("pwsh"), "PowerShell is required")
+    def test_final_rejects_invalid_title_image_decoder_responses(self):
+        cases = (
+            ("empty-success", "", 0),
+            ("empty-failure", "", 1),
+            ("whitespace-success", " \n\t ", 0),
+            ("whitespace-failure", " \n\t ", 1),
+            ("invalid-json", "[", 0),
+            ("null", "null", 0),
+            ("object", "{}", 0),
+            ("string", '"error"', 1),
+            ("number", "0", 0),
+            ("boolean", "false", 0),
+            ("null-member", "[null]", 1),
+            ("number-member", "[1]", 1),
+            ("object-member", '[{"error": "invalid cover"}]', 1),
+            ("nested-array", '[[]]', 1),
+            ("empty-error", '[""]', 1),
+            ("whitespace-error", '["  "]', 1),
+            ("mixed-members", '["invalid cover", null]', 1),
+            ("errors-with-success", '["invalid cover"]', 0),
+            ("no-errors-with-failure", "[]", 1),
+            ("unexpected-exit", "[]", 2),
+        )
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self.make_current_story(root)
+            for case, stdout, exit_code in cases:
+                with self.subTest(case=case):
+                    result = self.validate_with_decoder(
+                        root,
+                        f"import sys\nsys.stdout.write({stdout!r})\nraise SystemExit({exit_code})\n",
+                    )
+                    output = result.stdout + result.stderr
+                    self.assertNotEqual(0, result.returncode, output)
+                    self.assertIn("Title-image decoder failed", output)
+
+    @unittest.skipUnless(shutil.which("pwsh"), "PowerShell is required")
+    def test_final_accepts_valid_title_image_decoder_responses(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self.make_current_story(root)
+            for errors in ([], ["first invalid cover"], ["first invalid cover", "second invalid cover"]):
+                with self.subTest(errors=errors):
+                    exit_code = 1 if errors else 0
+                    result = self.validate_with_decoder(
+                        root,
+                        f"import sys\nsys.stdout.write({json.dumps(errors)!r})\nraise SystemExit({exit_code})\n",
+                    )
+                    output = result.stdout + result.stderr
+                    self.assertEqual(not errors, result.returncode == 0, output)
+                    self.assertNotIn("Title-image decoder failed", output)
+                    for error in errors:
+                        self.assertIn(error, output)
 
     def test_capture_preserves_editorial_prompt_while_refreshing_prose(self):
         for operation in ("capture", "capture-all"):

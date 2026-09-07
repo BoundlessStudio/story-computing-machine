@@ -321,10 +321,28 @@ function Test-TitleImages {
         $output = $json | & python $helper
         $decoderExit = $LASTEXITCODE
         if ($decoderExit -notin @(0, 1)) {
-            throw 'Install Python dependencies with python -m pip install -r pages/requirements.txt.'
+            throw "Decoder exited with code $decoderExit. Check Python and install dependencies with python -m pip install -r pages/requirements.txt."
         }
-        foreach ($problem in @($output | ConvertFrom-Json)) {
-            $errors.Add([string]$problem)
+        # Python failures can also exit 1; only a consistent JSON response certifies the check ran.
+        $response = $output -join "`n"
+        if ([string]::IsNullOrWhiteSpace($response)) {
+            throw 'Decoder returned no JSON result.'
+        }
+        $problems = ConvertFrom-Json -InputObject $response -NoEnumerate
+        if ($problems -isnot [array]) {
+            throw 'Decoder result must be a JSON array of error messages.'
+        }
+        foreach ($problem in $problems) {
+            if ($problem -isnot [string] -or [string]::IsNullOrWhiteSpace($problem)) {
+                throw 'Decoder error messages must be nonempty strings.'
+            }
+        }
+        $expectedExit = if ($problems.Count -eq 0) { 0 } else { 1 }
+        if ($decoderExit -ne $expectedExit) {
+            throw 'Decoder exit code contradicts its JSON result.'
+        }
+        foreach ($problem in $problems) {
+            $errors.Add($problem)
         }
     }
     catch {

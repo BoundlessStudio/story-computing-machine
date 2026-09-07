@@ -9,10 +9,12 @@ from pathlib import Path
 try:
     from PIL import Image, ImageFile
 except ImportError as exc:
-    raise SystemExit(
+    print(
         "Cover validation requires Pillow. Install dependencies with "
-        "python -m pip install -r pages/requirements.txt"
-    ) from exc
+        "python -m pip install -r pages/requirements.txt",
+        file=sys.stderr,
+    )
+    raise SystemExit(2) from exc
 
 TITLE_IMAGE_WIDTH = 864
 TITLE_IMAGE_HEIGHT = 1536
