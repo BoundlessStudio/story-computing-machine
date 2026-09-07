@@ -7,12 +7,21 @@ import re
 import shutil
 import subprocess
 from collections import Counter
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Iterable
 
 import markdown
+
+if __package__:
+    from .image_validation import (
+        TITLE_IMAGE_WIDTH, TITLE_IMAGE_HEIGHT, validate_title_image as _validate_title_image,
+    )
+else:
+    from image_validation import (
+        TITLE_IMAGE_WIDTH, TITLE_IMAGE_HEIGHT, validate_title_image as _validate_title_image,
+    )
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = Path(__file__).with_name("catalog.json")
@@ -22,8 +31,6 @@ TIMELINE_PATH = Path(__file__).with_name("timeline.json")
 TIMELINE_SCRIPT_PATH = Path(__file__).with_name("timeline.js")
 WORLDLINE_HERO_ART_PATH = Path(__file__).with_name("worldline-hero-art.webp")
 TITLE_IMAGE_NAME = "title-image.jpg"
-TITLE_IMAGE_WIDTH = 864
-TITLE_IMAGE_HEIGHT = 1536
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RATINGS = frozenset({"PG", "YA", "R+"})
@@ -196,67 +203,6 @@ def _bool(value: str, path: Path, field: str) -> bool:
     raise ValueError(f"{path} field {field} must be true or false")
 
 
-def _jpeg_dimensions(path: Path) -> tuple[int, int]:
-    try:
-        data = path.read_bytes()
-    except OSError as exc:
-        raise ValueError(f"Cannot read title image {path}: {exc}") from exc
-    if len(data) < 4 or data[:2] != b"\xff\xd8":
-        raise ValueError(f"{path} is not a readable JPEG")
-
-    start_of_frame = {
-        0xC0,
-        0xC1,
-        0xC2,
-        0xC3,
-        0xC5,
-        0xC6,
-        0xC7,
-        0xC9,
-        0xCA,
-        0xCB,
-        0xCD,
-        0xCE,
-        0xCF,
-    }
-    offset = 2
-    while offset < len(data):
-        while offset < len(data) and data[offset] != 0xFF:
-            offset += 1
-        while offset < len(data) and data[offset] == 0xFF:
-            offset += 1
-        if offset >= len(data):
-            break
-
-        marker = data[offset]
-        offset += 1
-        if marker in {0x01, 0xD8, 0xD9} or 0xD0 <= marker <= 0xD7:
-            continue
-        if offset + 1 >= len(data):
-            break
-
-        segment_length = int.from_bytes(data[offset : offset + 2], "big")
-        if segment_length < 2 or offset + segment_length > len(data):
-            break
-        if marker in start_of_frame:
-            if segment_length < 7:
-                break
-            height = int.from_bytes(data[offset + 3 : offset + 5], "big")
-            width = int.from_bytes(data[offset + 5 : offset + 7], "big")
-            return width, height
-        offset += segment_length
-    raise ValueError(f"{path} is not a readable JPEG")
-
-
-def _validate_title_image(path: Path) -> None:
-    width, height = _jpeg_dimensions(path)
-    if (width, height) != (TITLE_IMAGE_WIDTH, TITLE_IMAGE_HEIGHT):
-        raise ValueError(
-            f"{path} must be exactly {TITLE_IMAGE_WIDTH}x{TITLE_IMAGE_HEIGHT}; "
-            f"found {width}x{height}"
-        )
-
-
 def _cover_value(slug: str) -> str:
     return f"covers/{slug}.jpg"
 
@@ -325,6 +271,48 @@ def _resolve_edited(paths: Iterable[Path], repository_root: Path) -> str:
     return datetime.fromtimestamp(latest_modified).astimezone().date().isoformat()
 
 
+def _review_problems(review: str, profile: str | None) -> list[str]:
+    """Read declarations only; prose, names, and craft still need independent review."""
+    review = review.replace("\r\n", "\n").replace("\r", "\n")
+    rules = {
+        "Verdict": (None, {"PASS"}),
+        "Prompt": ("Continuity", {"PASS"}),
+        "Universe": ("Continuity", {"PASS"}),
+        "Internal": ("Continuity", {"PASS"}),
+        "Blocking": ("Findings", {"none"}),
+    }
+    dialogue_required = profile in {
+        "prospective-2026-08-18", "prospective-2026-08-21", "prospective-2026-08-23",
+    }
+    # Older profiles need no Dialogue field, but an explicit failure is never PASS.
+    if dialogue_required or re.search(r"(?m)^-[ \t]+Dialogue:", review):
+        rules["Dialogue"] = ("Craft", {"PASS", "N/A"})
+    problems = []
+    for label, (section, allowed) in rules.items():
+        prefix = "" if label == "Verdict" else r"-[ \t]+"
+        pattern = rf"(?m)^{prefix}{label}:[ \t]*(?P<value>[^\n]*?)[ \t]*$"
+        declarations = list(re.finditer(pattern, review))
+        if len(declarations) != 1:
+            problems.append(f"{label} must have exactly one declaration")
+            continue
+        if declarations[0]["value"] not in allowed:
+            problems.append(f"{label} must be {' or '.join(sorted(allowed))}")
+        if section is None:
+            body = re.split(r"(?m)^##[ \t]+", review, maxsplit=1)[0]
+        else:
+            sections = list(re.finditer(
+                rf"(?ms)^##[ \t]+{section}[ \t]*\n(?P<body>.*?)(?=^##[ \t]+|\Z)",
+                review,
+            ))
+            if len(sections) != 1:
+                problems.append(f"{label} requires exactly one {section} section")
+                continue
+            body = sections[0]["body"]
+        if len(re.findall(pattern, body)) != 1:
+            problems.append(f"{label} is outside its required section")
+    return problems
+
+
 def _load_current_story(directory: Path) -> Story:
     story_path = directory / "story.md"
     front, body = parse_front_matter(story_path.read_text(encoding="utf-8"), story_path)
@@ -340,18 +328,14 @@ def _load_current_story(directory: Path) -> Story:
 
     review_path = directory / "review.md"
     review = review_path.read_text(encoding="utf-8")
-    required_review_lines = (
-        r"(?m)^Verdict:\s*PASS\s*$",
-        r"(?m)^-\s+Prompt:\s*PASS\s*$",
-        r"(?m)^-\s+Universe:\s*PASS\s*$",
-        r"(?m)^-\s+Internal:\s*PASS\s*$",
-        r"(?m)^-\s+Blocking:\s*none\s*$",
-    )
-    if any(re.search(pattern, review) is None for pattern in required_review_lines):
-        raise ValueError(f"{review_path} is not a passing review")
-
     prompt_path = directory / "prompt.md"
     prompt_source = prompt_path.read_text(encoding="utf-8")
+    profiles = re.findall(r"(?m)^-[ \t]+Craft profile:[ \t]*([^\r\n]+)", prompt_source)
+    profile = profiles[-1].strip() if profiles else None
+    problems = _review_problems(review, profile)
+    if problems:
+        raise ValueError(f"{review_path} is not a passing review: {'; '.join(problems)}")
+
     return Story(
         slug=front["slug"],
         title=front["title"],
@@ -774,6 +758,9 @@ def capture_story(
     story = load_story_source(slug, repository_root)
     published = load_catalog(snapshot_path) if snapshot_path.exists() else Catalog(())
     _refuse_canon_demotions((story,), published)
+    previous = next((item for item in published.stories if item.slug == slug), None)
+    if previous is not None:
+        story = replace(story, prompt=previous.prompt)
     _capture_cover(story, repository_root, snapshot_path)
     remaining = (item for item in published.stories if item.slug != story.slug)
     return save_catalog((story, *remaining), snapshot_path)
@@ -784,7 +771,10 @@ def capture_all(
     snapshot_path: Path = SNAPSHOT_PATH,
 ) -> Catalog:
     published = load_catalog(snapshot_path)
-    stories = tuple(load_story_source(story.slug, repository_root) for story in published.stories)
+    stories = tuple(
+        replace(load_story_source(story.slug, repository_root), prompt=story.prompt)
+        for story in published.stories
+    )
     _refuse_canon_demotions(stories, published)
     for story in stories:
         _capture_cover(story, repository_root, snapshot_path)

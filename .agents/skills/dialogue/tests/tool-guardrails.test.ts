@@ -144,39 +144,41 @@ Deno.test("production and review contracts keep coherence ahead of style", async
     content.craft.includes("Shared reality comes first"),
     "General scene craft must put shared reality first",
   );
-  assert(
-    content.writer.includes("Ground dialogue before styling it") &&
-      content.writer.includes("Never draft a punchline"),
-    "Writer contract must prevent delivery-first drafting",
-  );
-  assert(
-    content.reviewer.includes("Before judging higher-order dialogue craft"),
-    "Reviewer contract must run coherence before style",
-  );
-  for (
-    const [name, text] of Object.entries({
-      craft: content.craft,
-      writer: content.writer,
-      reviewer: content.reviewer,
-      agents: content.agents,
-      styleGuide: content.styleGuide,
-    })
-  ) {
+  for (const name of ["writer", "reviewer", "agents"]) {
     assert(
-      /\blie(?:s)?\b/.test(text) && /\bguess(?:es)?\b/.test(text) &&
-        /\bmistake(?:s)?\b/.test(text),
-      `${name} must preserve marked nonliteral and epistemic modes`,
-    );
-    assert(
-      /semantic or\s+technical content/.test(text),
-      `${name} must prevent replies from inventing a missing mapping`,
-    );
-    assert(
-      /(?:could (?:plausibly )?have (?:seen|observed|inferred)|possible speaker access)/
-        .test(text),
-      `${name} must preserve explicit evidence boundaries`,
+      content[name].includes("universe/style-guide.md#story-craft-defaults"),
+      name + " must link directly to the authoritative craft policy",
     );
   }
+  const policy = content.styleGuide;
+  assert(
+    /\blies\b/.test(policy) && /\bguesses\b/.test(policy) && /\bmistakes\b/.test(policy),
+    "Policy must preserve legible nonliteral and epistemic modes",
+  );
+  assert(
+    /semantic or\s+technical content/.test(policy),
+    "Policy must prevent replies from supplying missing meaning",
+  );
+  assert(
+    /could have observed/.test(policy),
+    "Policy must preserve explicit evidence boundaries",
+  );
+  assert(
+    policy.includes("Before higher-order craft") &&
+      policy.includes("One materially incoherent line") &&
+      policy.includes("scene-wide convergence"),
+    "Policy must keep line-specific coherence distinct from higher-order convergence",
+  );
+  assert(
+    content.writer.includes("Never draft a punchline") &&
+      content.writer.includes("semantic dialogue gate before rhetorical"),
+    "Writer procedure must apply coherence before polishing dialogue",
+  );
+  assert(
+    content.reviewer.includes("semantic") &&
+      content.reviewer.includes("coherence gate before higher-order dialogue judgment"),
+    "Review procedure must apply coherence before higher-order dialogue judgment",
+  );
 });
 
 Deno.test("semantic corpus preserves the failure and exception coverage", async () => {
