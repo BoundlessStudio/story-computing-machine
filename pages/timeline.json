@@ -535,6 +535,19 @@
       "constellations": []
     },
     {
+      "id": "gods-at-home-in-cusco",
+      "magicState": "uncertain",
+      "ordered": false,
+      "type": "branch",
+      "eyebrow": "Undated magical modernity · a divine family in human company",
+      "title": "Gods at Home in Cusco",
+      "description": "An eldest demigod helps six divine siblings navigate ordinary family life in Cusco.",
+      "sequenceNote": "The family's living powers place this household outside the magicless Long Dark; its relation to extinction, reawakening, and other divine families remains unresolved.",
+      "confidence": "unresolved",
+      "stories": ["the-one-who-gets-tired"],
+      "constellations": []
+    },
+    {
       "id": "monsters-gods-and-avatars",
       "magicState": "new-magic",
       "ordered": false,
