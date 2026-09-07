@@ -579,8 +579,10 @@
     Those sensory presentations do not prove what either destination contains
     or whether either label is morally accurate.
   - Hester could observe the paired service, explain limited local procedure,
-    and use an unmarked staff passage that rejected Ruth. The passage is not a
-    demonstrated passenger route, appeal, third destination, or escape.
+    and use an unmarked staff passage that rejected Ruth. The door stopped a
+    hand's width short of its frame while Hester looked through the gap and
+    answered Ruth, then sealed. The passage is not a demonstrated passenger
+    route, appeal, third destination, or escape.
   - New dead passengers and paired services continued after Ruth's service,
     but her blank ticket neither reset nor admitted her to their trains. Her
     later assistance was voluntary conduct, not a divinely assigned office,
@@ -751,11 +753,12 @@
     technology. Health and location sharing is opt-in and may be withheld or
     disconnected; a living Rollcaller filament physically bridging connected
     equipment was required to compromise the relay.
-  - The four-person arrangement is informal, local, and mutually anonymous,
-    not a faction, handler institution, command structure, or universal hidden
-    authority. Night Clerk may state risks, recommend retreat, and offer
-    support but never orders transformation or controls another participant's
-    body.
+  - The four-person arrangement is informal and local, with identities
+    undisclosed on the relay; Gideon's privately inferred knowledge remains
+    unknown to the trio. It is not a faction, handler institution, command
+    structure, or universal hidden authority. Night Clerk may state risks,
+    recommend retreat, and offer support but never orders transformation or
+    controls another participant's body.
   - The established compromise check treats an order to transform as evidence
     that the channel is compromised. After the incident, the team added a
     local darkness protocol: when they request operational blackout, Night
@@ -1305,7 +1308,9 @@
   - When Eiren cut the exposed storm-engine core with her filament, Ryo's
     assignment thread burned out, his marks and gifts vanished, and Eiren's
     visible palm-filaments were gone. She could no longer open another
-    assignment door for Ryo.
+    assignment door for Ryo. He took her hand and passed sideways through the
+    existing narrowing return doorway before it closed, without widening the
+    opening or restoring the spent assignment thread.
   - After resting, Eiren managed one terminal one-way fold to the physical
     doorway where she had first found Ryo. It was not an assignment and carried
     no promised return. This residual act does not establish that she can or

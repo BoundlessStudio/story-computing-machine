@@ -403,10 +403,14 @@
   2. House Cress and Larkspur renewed freely. Mossback then refused Duchess
      Yselle and disclosed House Flint's illegal cut beneath the protected
      nesting ledge.
-  3. Before the refusal was formally witnessed, Mossback used the still-active
-     Flint focus twice to warn that stormwater had entered the flood channel
-     and threatened his clutch and the villages. Olyra then recognized the
-     refusal, suspended House Flint's title, and ended the focus.
+  3. A quarry courier reached the court with a report of water entering the
+     nesting cavern and a shifting quarry wall. Before the refusal was formally
+     witnessed, Mossback used the still-active Flint focus twice to direct
+     Yselle's attention north and warned the court aloud of the danger to his
+     clutch and the villages. The courier supplied the distant observations;
+     the focus carried direction, urgency, and attention between its partners.
+     Olyra then recognized the refusal, suspended House Flint's title, and ended
+     the focus.
   4. Olyra risked her succession by asking Nyrzath to choose her before the
      court. He freely renewed on the condition that she remember witnessing was
      not commanding, creating their new focus before its first call.
@@ -713,9 +717,11 @@
      argument.
   2. Six hours after the morning cycle, Luz began a separate twelve-centimetre
      cycle to reset a dry cabinet hinge pin. The corroded branch ruptured under
-     ordinary building pressure. Miles cut kitchen power, warned the unit below,
-     contained the flood, and called emergency maintenance; after he presented
-     the facts and his fear, Luz chose to enter the cabinet.
+     ordinary building pressure. Miles switched off and unplugged the hotplate
+     before cutting kitchen power, which extinguished the lights and stopped
+     the refrigerator. After he presented the facts and his fear, Luz chose to
+     enter the cabinet. While she worked, he contained the flood, warned the unit
+     below, and called emergency maintenance.
   3. Luz cleared the hidden valve's clip and positioned a utility cord while
      Miles supplied the full-sized pull. He honored each stop and slack signal.
      After a slipped loop and worsening cold and tremor, Luz chose one final

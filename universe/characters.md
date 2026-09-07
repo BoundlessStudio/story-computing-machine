@@ -648,6 +648,9 @@
     cumulative ordinary observation rather than magic, records, surveillance,
     or one decisive clue. The girls remain unaware both that Mr. Tolland is
     Night Clerk and that he knows their civilian identities.
+  - At lunch, Kiteglass reported the classroom alias probe over the relay.
+    Gideon's questions and advice used her account without
+    disclosing his own classroom observations or either identity secret.
   - He offers facts, options, classwide accommodations, and mundane emergency
     cover. He does not order transformation, engagement, retreat, bodily
     action, or recovery, and accepted the team's requested blackout even though
@@ -766,6 +769,10 @@
 - Notes:
   - Yara issues emergency water as recoverable hospitality credit at the
     ordinary ration price and accepts payment in coin or work.
+  - Tair paid for his first two measures with one coin on arrival; Yara returned
+    the second coin as double payment. His later cup came from his contracted
+    northbound provisions, without charging the settled hospitality credit
+    again.
   - She recognized Tair's sunwheel heart as usable bimetal, obtained Tair's
     informed sale rather than confiscating it, cut the replacement tongue, and
     calibrated it without requesting fresh magical cold.
@@ -1718,11 +1725,12 @@
     Missing Tessera with the warning that a promise protects only its exact
     shape.
   - At the Ithrom Array, she voluntarily arms the Tessera against the Absolute
-    Yoke under
-    Faris's narrow promise. Hidden terminal connections and the five informed
-    participants' silence leave her without informed agreement to worldwide
-    extinction; trust, not stupidity or magical compulsion, supplies her
-    mistaken inference.
+    Yoke under Faris's narrow promise. Faris had disclosed the worldwide scope
+    and costs to the other five participants before they came; they renew their
+    choices without stating that scope in her hearing. Their silence about the
+    full result and the hidden terminal connections leave her without informed
+    agreement to worldwide extinction; trust, not stupidity or magical
+    compulsion, supplies her mistaken inference.
   - When Tessellate Grace ends, Seyathi loses radiance, power, and objective
     godhood while retaining identity, memory, relationships, anger,
     responsibility, and her valid grievance against Faris.
