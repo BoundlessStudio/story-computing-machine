@@ -530,14 +530,14 @@ By sunset, the first distilled drops were ticking into clay channels.
 Yara gave me another cold cup. She opened the ledger before I could object and
 drew a line through my blue square.
 
-"Hospitality credit recovered," she said. "Included in your northbound
-provisions."
+"Hospitality credit paid on arrival," she said. "This cup is included in your
+northbound provisions."
 
-"So the city paid itself for my water with money it owes me."
+"So the city is handing me water it already owes me."
 
 "You are learning civic finance."
 
-"It resembles theft performed by very patient ink."
+"It resembles hospitality performed by very patient ink."
 
 "That is the nicest thing anyone has said about my work today."
 

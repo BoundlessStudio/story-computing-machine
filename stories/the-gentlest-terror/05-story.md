@@ -231,6 +231,11 @@ Olyra felt her throne shift beneath feet that had not yet reached it.
 
 * * *
 
+A quarry courier stumbled through the gallery doors, rain dripping from his
+coat. He stopped beneath Mossback's head. "The north cut has broken into the
+flood channel. Water's entering the nesting cavern. The wall was shifting when
+I left."
+
 Duchess Yselle's old alliance scale began to smoke.
 
 She cried out and nearly dropped it. Frost whitened her knuckles as Mossback's
@@ -238,15 +243,14 @@ deliberate call seized both their attention and pointed north. Olyra felt
 nothing through her own focus, but she saw the cost in Mossback: his breath
 shortened, and a rim of ice formed where his claws touched stone.
 
-"Water," he said. "The quarry wall is moving."
+"Water," he said. "Where I warned your crews it would go."
 
 The court's high windows flashed white with the storm. A heartbeat later,
 thunder shook the banners.
 
 Mossback called again. Duchess Yselle staggered.
 
-"The cut has opened into the flood channel," he said. "Water is entering the
-north cavern. If the wall fails outward, it reaches the villages."
+"If that wall fails outward," he said, "the flood reaches the villages."
 
 "Then renew," Duchess Yselle said. She thrust the smoking scale toward him as
 if it were a bridle. "Renew, and I will call you to the rescue."

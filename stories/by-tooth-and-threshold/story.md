@@ -154,7 +154,7 @@ Dev dropped it into a galvanized parts can, pressed the lid tight, and nested th
 
 The engine went silent beyond the bend.
 
-Dev called emergency services. He gave his address, described an armed trespasser tracking an illegal steel trap, and said the weapon might be a veterinary dart launcher. The dispatcher asked whether he could remain inside. He looked at the trap, at the mudroom's two doors, and at Audra's eyes fixed on the dark glass.
+Dev called emergency services. He gave his address and reported that a man was tracking an illegal steel trap to his house. The dispatcher asked whether he could remain inside. He looked at the trap, at the mudroom's two doors, and at Audra's eyes fixed on the dark glass.
 
 "Not safely," he said.
 
@@ -350,4 +350,4 @@ Dev gave her the six. He went back to the mudroom, photographed the separated tr
 
 At 7:44, the first wash of emergency lights reached the upper trees. Dev switched on the yard floodlights and aimed every bright angle toward the broken pen. Below them, unseen from the drive, grass whispered along the drainage cut and then went still.
 
-The gate would need a new post. His pickup had a dart buried in the side panel. Audra's blood marked the mudroom mat and the lower fence. Dev added the damaged gate and truck to the notes on his phone, left the wired-open trap uncovered on the bench, and went out with empty hands when the first response vehicle came through.
+The gate would need a new post. His pickup's side panel bore the dent from the dart. Audra's blood marked the mudroom mat and the lower fence. Dev added the damaged gate and truck to the notes on his phone, left the wired-open trap uncovered on the bench, and went out with empty hands when the first response vehicle came through.

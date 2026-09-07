@@ -20,7 +20,7 @@ Beside her, Dax Ulm pulls his headset away from one crushed ear. The booth glass
 
 The producer says, “Walk-on in five. Keep the earlier return in frame. Sell confidence.” The voice in their headsets is cool and close, untouched by the crowd.
 
-A clear guard covers the medical-integrity key between Caro’s console and Dax’s. Caro gives the finals rule its required on-air read. “This booth holds one integrity challenge. Conflicting return telemetry lets us freeze the resolution clock, lock every registered arena weapon for twelve seconds, and force raw replay plus medical review. Call it wrong, the interrupted fighter restarts at center advantage and this booth loses its finals credentials.”
+A clear guard covers the medical-integrity key between Caro’s console and Dax’s. Caro gives the finals rule its required on-air read. “This booth holds one integrity challenge. Conflicting return telemetry lets us freeze the resolution clock, lock every registered arena weapon for sixty seconds, and force raw replay plus medical review. Call it wrong, the interrupted fighter restarts at center advantage and this booth loses its finals credentials.”
 
 “So we can save a life or improve somebody’s aim while getting fired,” Dax says.
 

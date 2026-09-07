@@ -334,7 +334,7 @@ For one deafening moment, Ryo thought he had abandoned everyone. Then eight chan
 
 The black column split along its central seam. Beneath the casing, the sacrificial core hung exposed: a fist-sized knot where all nine lines had once become one.
 
-The return door was now barely wider than Eiren’s hand.
+The return door was now too narrow for Ryo to pass through facing forward.
 
 “Use the filament,” Ryo said.
 
@@ -370,7 +370,7 @@ Eiren’s doorway folded inward.
 
 Ryo wanted to stay long enough to prove the lights would return. He wanted a final count, a clean result, permission to call his choice correct.
 
-Instead he took Eiren’s hand.
+Instead he turned sideways, took Eiren’s hand, and squeezed through.
 
 He left before certainty.
 

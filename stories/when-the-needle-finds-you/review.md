@@ -6,15 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Sivra Ossik | new | Also `Sivra`, `Siv`, and `Ms. Ossik`; focal recovery driver. No exact or alias reuse found. Released-baseline `Siva` and current `Ossia` / `Ossa Keld` are the nearest forms but remain distinct by full form, sound, and role. |
-| Olt Ossik | new | Also `Olt`; Sivra's adult brother. The shared surname is intentional; locked-legacy `Olbit` and current `Ossia` / `Ossa Keld` remain distinct by complete form, cadence, and role. |
-| The Crimson Jester | new | Also `the Crimson Jester` and `the Jester`; the amended prompt retains this pirate-radio host's identity within the rewrite, but no qualifying exact prior use exists outside the replaced package. No confusing other reuse found. |
+| Sivra Ossik | new | Also Sivra, Siv, and Ms. Ossik; focal recovery driver. No exact or alias reuse; released Siva and current Ossa Keld remain distinct by full form, sound, and role. |
+| Olt Ossik | new | Also Olt; Sivra's brother, sharing her surname intentionally. No exact or alias reuse; legacy Olbit remains distinct by spelling, cadence, identity, and role. |
+| The Crimson Jester | new | Also the Crimson Jester and the Jester; retained prompt identity within this package, with no qualifying prior exact or confusing reuse elsewhere. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Masthead Baths | new | Condemned municipal pool and site of the Jester's studio; no exact, alias, close-spelling, or confusing reuse found. |
+| Masthead Baths | new | Also the Baths; condemned pool with the studio below. Targeted baseline, passing-review, and authority searches found no exact, alias, close-spelling, or confusing reuse. |
 
 ## Continuity
 
@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The REBUILD materially replaces the prior cast, viewpoint, causal route, scenes, throughline, and ending while retaining only the exact title, the Crimson Jester, and the required midnight-record premise. The survivor supplies Olt's blood and secret, the Jester causally steers a mutable forecast, and Olt's confession, screams, final words, and death resolve before the promised next midnight. Dialogue remains context-dependent and role-specific through Sivra's physical literalism, Olt's evasive reversals, the survivor's punitive economy, and the Jester's theatrical control; the closing broadcast changes public knowledge and accepts culpability rather than explaining an already completed action.
+- Notes: PreReview PASS supplied. The explicit descent places both siblings by the repair-bay counter before the ambush; removed glasses leave the Jester's eye exposed for the final strike. The original reference was visually inspected: red and black clothing, round glasses, pale gloves, grin, and record-eye imagery remain recognizable. Olt's evasions and betrayal, the survivor's testimony, and the Jester's coercion causally produce the recorded death; Sivra's final broadcast owns her complicity and requests rescue. Consequential graphic injury fulfills the explicit adult exception. Living ocular magic remains local, and dialogue passes the recorded 08-23 profile; no collection comparison applies to this localized edit.

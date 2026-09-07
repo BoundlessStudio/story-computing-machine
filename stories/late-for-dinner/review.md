@@ -30,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The surrender and kitchen exchanges keep Rellan’s wry overtalk, Cadren’s fraying formality, and Nerava’s spare authority distinct; the damaged-dinner ending is earned by the prompt and the marriage.
+- Notes: Rellan binds the guard with a torn strip and hangs the remaining linen from the shaft, making its later use as a surrender flag coherent. The quarter exchange preserves his limited authority; the private dinner resolves the rescue promise through distinct marital and military voices.

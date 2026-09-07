@@ -62,7 +62,7 @@ Cadren looked toward the hidden southern mouth. “How many?”
 
 The soldier had no answer. Cadren rubbed dust across his forehead and ordered four soldiers forward.
 
-They raised the wagon enough for the carter to drag the guard clear. Rellan crawled after him and used his dinner linen to bind the swelling leg. The cloth had been white when he packed it. Now cream, onion skins, and road dust had made a map of it.
+They raised the wagon enough for the carter to drag the guard clear. Rellan crawled after him and tore a strip from his dinner linen to bind the swelling leg. The cloth had been white when he packed it. Now cream, onion skins, and road dust had made a map of it. He hung the remaining linen from the wagon shaft.
 
 Cadren waited until the knot was tied.
 

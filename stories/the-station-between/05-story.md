@@ -489,11 +489,11 @@ gray wall.
 
 I hurried after her. The opening narrowed before I reached it. I wedged the
 blank ticket into the gap. The door pushed the paper back without bending it
-and shut.
+and stopped a hand's width short of the frame.
 
 “Hester.”
 
-She looked at me from the other side.
+She looked at me through the gap.
 
 “How long am I here?”
 

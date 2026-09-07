@@ -294,7 +294,7 @@ Elsidra started the rig. “Rovandis, get your van behind me.”
 
 Elsidra painted only what did not exist before she reached it.
 
-At each junction she laid a single dash on the safe branch and waited. Caelumar answered with two white flashes when he saw it. Rovandis followed at a distance, using one short horn blast to hold and two to advance. Caelumar answered each instruction with his brake light: steady red for holding, two taps for moving.
+Elsidra added Rovandis to the call and set her phone to speaker. At each junction she laid a single dash on the safe branch and waited. Caelumar answered with two white flashes when he saw it. Rovandis followed at a distance, using one short horn blast to hold and two to advance. Caelumar answered each instruction with his brake light: steady red for holding, two taps for moving.
 
 They built the route a piece at a time. No destination appeared on a screen. No one named a street.
 
@@ -308,7 +308,7 @@ Elsidra held the rig straight. “Why?”
 
 “The third hook's pulling.”
 
-Rovandis leaned over from the passenger seat. “Metal doesn't pull.”
+Rovandis's voice came through the speaker. “Metal doesn't pull.”
 
 “Then my hand does. Straight.”
 
@@ -352,9 +352,9 @@ Rovandis braked sideways across the lane. “I can reach him faster.”
 
 “His light is dying.”
 
-“Then listen for it.”
+“Wait for the next flash.”
 
-“You can't listen to a light.”
+“I can't see him.”
 
 Elsidra pointed through the rain. A faint red pulse appeared beyond the bend, reflecting off the wet trunks rather than shining directly at them. Caelumar had stopped. He was waiting for the next thing they made.
 

@@ -108,7 +108,7 @@ We both looked at his hands.
 
 "Didn't say I would."
 
-The trowel still hung at his thigh. The slate rested freely in his palms.
+The trowel still hung at his thigh. The slate rested freely in my arms.
 
 I set the slate on my bench. "Put it beside the basin now. If you choose."
 

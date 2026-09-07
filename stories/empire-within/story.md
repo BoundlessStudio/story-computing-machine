@@ -240,8 +240,6 @@ The underboss smiled at the command as though she had performed a trick he taugh
 
 His eyes moved to the orders on the floor. “You found both letters. Good. Saves us pretending this can be repaired privately.”
 
-Nobody had told him there were two.
-
 The rival looked up at him. His people raised their weapons by degrees.
 
 The ward captain stepped backward. “I am not party to an internal succession matter.”
@@ -249,8 +247,6 @@ The ward captain stepped backward. “I am not party to an internal succession m
 “You don't need to be,” the underboss said. “Your operation begins on schedule. We settle the house and give you a quiet district by morning.”
 
 The captain went completely still.
-
-Elspeth had not said the time aloud either.
 
 For a moment, every choice in the room showed its edge. The rival could kill everyone across the pool and call it family duty. The captain could let his approaching officers turn the basement into evidence and bodies. Elspeth's people could choose the man who had hired them, fed them, taught many of them the first rules—or the woman in front of the guns.
 
@@ -448,8 +444,8 @@ Elspeth had to follow her finger twice before she understood.
 
 The driver nodded and gave the man a strip of cloth for somebody else's wound.
 
-Elspeth surveyed what remained. Four active traitors lay dead. Two had surrendered. One had escaped through the kitchen and would keep running until fear or hunger made his next decision. Her runner was still upstairs in the private room, cooling beside the orders that had spent her voice. The man with the chest wound had stopped breathing during the fight. The lieutenant sagged against the east door, upright only because the metal bar held him.
+Elspeth surveyed what remained. Four active traitors lay dead. Two had surrendered. One had escaped through the kitchen and would keep running until fear or hunger made his next decision. Her runner was still back in her private room, cooling on the blood-soaked boards. The man with the chest wound had stopped breathing during the fight. The lieutenant sagged against the east door, upright only because the metal bar held him.
 
-“Get the wounded into cars,” she said. “Bring the runner down.”
+“Get the wounded into cars,” she said. “Then go back for the runner.”
 
 Men older than her moved. The lieutenant moved first.

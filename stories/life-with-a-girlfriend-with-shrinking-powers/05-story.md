@@ -128,7 +128,7 @@ He heard the command in his own voice and hated that it had arrived before thoug
 
 “Cut the kitchen breaker.”
 
-He ran to the panel. The kitchen went dark; the refrigerator hum and hotplate light died. When he returned with the flashlight, water had spread halfway across the floor, but Luz remained on the mat.
+He ran to the panel. The kitchen went dark and the refrigerator hum died. When he returned with the flashlight, water had spread halfway across the floor, but Luz remained on the mat.
 
 “I can reach that handle,” she said.
 

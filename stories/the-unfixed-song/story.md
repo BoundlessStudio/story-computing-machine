@@ -264,9 +264,9 @@ The first mast answered in color. The second showed black-white-white.
 
 Wrong.
 
-“Second relay, clear your middle!” Mazhira called. Wind tore half the words away. “Not two white. Middle black!”
+“Second relay, change your last!” Mazhira called. Wind tore half the words away. “Not two white. Last black!”
 
-The relay changed. Down the city's long articulated spine, shutters began to answer, a stuttering pattern of comprehension.
+The last shutter changed to black. Down the city's long articulated spine, shutters began to answer, a stuttering pattern of comprehension.
 
 Zulmec struck four low beats. The lead hull dipped toward the shelf.
 

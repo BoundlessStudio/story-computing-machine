@@ -174,7 +174,7 @@ Faris looked at the half-closed passage, then at the ladder rising through heat 
 
 Hurzai burned a path for him. The fire ate a visible hollow from the demon lord's side. Faris climbed through before the metal could flow back, knowing rescue had already placed him in debt and that the price was being paid in living flesh.
 
-Hurzai could have left through the breach. Instead, the demon lord lifted Faris out of the predator's reach and showed him the real shutter chain. Faris climbed. He passed an artifact vault whose door had split in the fighting. Any one object inside could have bought him a quiet lifetime.
+Hurzai could have left through the breach. Instead, the demon lord lifted Faris clear of the buckling gear train and showed him the real shutter chain. Faris climbed. He passed an artifact vault whose door had split in the fighting. Any one object inside could have bought him a quiet lifetime.
 
 Below, the young struck the furnace wall with weakening hands.
 
@@ -270,9 +270,7 @@ The Sole Chamber rang louder. Malrec stood at the second socket in a crown that 
 
 “No exemption.”
 
-“Then your terms reduce every royal door to carpentry, including mine.”
-
-“Yes.”
+“Then I ask nothing further.” Before they came, Faris had told him that every royal door would become carpentry, including his own.
 
 Malrec looked toward the many palaces sheltering his people. “Let the record show that necessity has defeated negotiation. Witness this: I release every claim in the Sole Chamber, including my own.”
 
@@ -282,23 +280,23 @@ The Nearmost Vertebra knocked hard enough to fracture stone. The immense curve o
 
 END US? came the pressure, making Faris's broken brace tremble.
 
-“You may die,” Faris said. “All who depend on Worldcoil may die. I am asking you to align it anyway.”
+Faris had warned Qeluun before they came: they might die, and so might all who depended on Worldcoil. He had offered no protection from that cost. “I am asking you to align it anyway,” he said.
 
 Silence pressed on him. Then Qeluun moved the Nearmost Vertebra into place. The bone pulsed once and became dust. Gravity convulsed. The third socket shone.
 
 The Cold Maw opened wider. Hurzai's woundless older body gleamed with contained fire beside the fourth socket, but he did not touch the jaws.
 
-“One quenched furnace does not cool a foundry. Show me why all six roots must die with this mold.”
+“One quenched furnace does not cool a foundry. Show me how you will keep the Yoke from returning.”
 
 Faris pointed to the band of black fire descending through a folded horizon. “Turn one jaw far enough to close its present furnace line. Not far enough to arm it.”
 
 Hurzai narrowed the Maw. Its Yoke-band pinched out—and reappeared inside a Grace command, carrying black appetite through colored stone.
 
-“Every Yoke branch holds all six adapter patterns,” Faris said. “End five and the sixth preserves their instructions, then compels its users to rebuild the entrances. All six must lose capacity together.”
+“Every Yoke branch holds all six adapter patterns,” Faris said. “End five and the sixth preserves their instructions, then compels its users to rebuild the entrances. All six branches must close together.” Hurzai knew what Faris left unsaid: closing them forever required the death of every root that fed them.
 
-Hurzai reopened it. “Then we pour out the metal, break the molds, and accept the workers caught by the heat. Name them.”
+Hurzai reopened it. “And the cost you named?”
 
-“Some demons will survive,” Faris said. “Some will not. Fortresses will collapse. Stored heat will break loose. Your lordship and your fire end with theirs.”
+Before they came, Faris had named it without Seyathi there to hear: some demons would survive, some would not; fortresses would collapse and stored heat break loose. Hurzai's lordship and fire would end with theirs. “Unchanged,” Faris said.
 
 Hurzai's face hardened without becoming calm. “You have named flesh, furnace, and crown. I accept the burn.” He seized both jaws and wrenched them outward. They fused around the socket. Black light filled it.
 
@@ -306,25 +304,25 @@ Forced wings erupted from attacking soldiers below. Jelveth stood over the Unwri
 
 Without lifting the Latch from its carrying cradle, Faris rotated its selector plate toward her. Two instructions were cut into the metal: end function; preserve matter.
 
-Jelveth read twice. “Fixed tissue remains. No body is declared false. The shared heart?”
+Jelveth read twice. “Fixed tissue remains. No body is declared false. You have changed nothing else?”
 
-“Its impossible sharing ends. Each body keeps whatever its own matter can sustain.”
+“Nothing.” When she had asked him about the shared heart before coming, he had told her its impossible sharing would end. Each body would keep whatever its own matter could sustain.
 
-“Which is not a promise that each body lives.”
+“And you offer no further assurance?”
 
-“It is not.”
+“None.”
 
 She closed the Unhatched Form in both hands and opened the Axis with a precise incision of borrowed sight. The Form went still. The fifth socket accepted it.
 
 Across the ring, the Unflown Arc lifted from its cradle as if remembering a route it had never flown. Ekkorath faced the sixth socket while cities flickered at the ends of their wings.
 
-“Dragons will be grounded,” Faris said. “Crossings will close. Suspended cities will fall toward whatever is physically below them. You may tear your last flight holding the corridor long enough for me to reach the Latch.”
+Before asking Ekkorath to come, Faris had named the cost of the last flight: dragons grounded, crossings closed, suspended cities falling toward whatever lay physically below them. Now he said, “You may tear your last flight holding the corridor long enough for me to reach the Latch.”
 
-Ekkorath's long gaze stayed on the cities. “You have named roofs and routes. Name the people under them.”
+Ekkorath's long gaze stayed on the cities. “And the people beneath your answer?”
 
-“People inside falling cities will die. People below some of them will die. Dragons that cannot survive grounded will die. I cannot count them, and I am choosing the fall anyway.”
+Faris had named them too: people inside falling cities, people below them, dragons that could not survive grounded. He had not been able to count them then. He could not count them now. “I have found no way to spare them.”
 
-“Now you have named the country beneath your answer.” Ekkorath spread their wounded wings. “I will fly it once.”
+Ekkorath spread their wounded wings. “I will fly it once.”
 
 Ekkorath lowered the Unflown Arc into the socket and flew the terminal counter-circuit. The shed horn lit along an old fracture. Five Astrolabe needles held their timings while the sixth swept toward them.
 

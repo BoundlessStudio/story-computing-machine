@@ -340,7 +340,7 @@ The leader pointed, assigning hands. The cross-talk collapsed into work calls.
 
 “Trace slack.”
 
-“Meal uphill.”
+“Meal downhill.”
 
 Mud squeezed under your boots. Your shoulder trembled, not from the clean downward weight but from small corrections as the crew removed it in pieces. When the second crib block seated, the wheelwright slapped the frame twice.
 

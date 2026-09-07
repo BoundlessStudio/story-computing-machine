@@ -258,7 +258,7 @@ The god watched the strain travel through rope, block, hook, and stone. "The hoo
 
 He bowed his head once. Not submission. Attention.
 
-The charge entered the lower street. Its rumble filled the gallery floor. Derva tied the thin rope to the counterweight pin and passed its free end to the lieutenant.
+The charge entered the lower street. Its rumble filled the gallery floor. Derva tied the thin rope to the counterweight's lifting eye and passed its free end to the lieutenant.
 
 "When the prow clears the bridge, pull. Not before. If the weight hits the prow, it rolls into the wall. We need the drive shaft behind the second wheel."
 

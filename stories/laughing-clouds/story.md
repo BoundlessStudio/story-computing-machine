@@ -206,7 +206,7 @@ Rasim reached for his elbow and planted his own foot on the same wet seam. His s
 
 Ianthe struck the mechanical cutoff.
 
-The pumps stopped. The cloud shed one hard curtain of rain and came apart. Amber light ran around its edge as it fell, then went dark.
+The spray stopped. The cloud shed one hard curtain of rain and came apart. Amber light ran around its edge as it fell, then went dark.
 
 “Don't move,” Ianthe said. She was beside Rasim before the digital log finished writing. “Is your knee bearing weight?”
 

@@ -412,7 +412,7 @@ That was not neat enough to be a confession, and the young man had no neat answe
 
 For several breaths neither of them spoke.
 
-The carrier's horse appeared beyond the hawthorn, head low against the rain. Its harness bells gave one exhausted clank. The wizard heard it too; his hands tightened once on the chipped cup, then eased.
+The carrier's horse appeared beyond the hawthorn, head low against the rain. Its harness bells gave one exhausted clank. The wizard heard it too; his hands tightened once on the white cup, then eased.
 
 "You said you grow three shrubs upstairs," the young man said.
 
@@ -424,7 +424,7 @@ The carrier's horse appeared beyond the hawthorn, head low against the rain. Its
 
 "Then I've got time for one answer. Why don't the cups match?"
 
-The wizard looked at the thin porcelain in the young man's hands, then down at the old clay cup with its missing crescent.
+The wizard looked at the old clay cup with its missing crescent in the young man's hands, then down at the thin porcelain.
 
 "That," he said, "is not a short answer."
 

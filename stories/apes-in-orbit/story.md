@@ -440,7 +440,7 @@ Qemri counted through the fading vibration. The quarry distance, the depth of th
 
 The chamber broke into work.
 
-The south beacon had gone dark when its lashings failed. The north one still transmitted from the broken axle. The quarry beacon transmitted for six more breaths, then vanished beneath the returning stone. Oxaul saved the traces twice. When he tried to say what they proved, his first sentence would not start.
+The south beacon had gone dark when its lashings failed. The north one still transmitted. The quarry beacon transmitted for six more breaths, then vanished beneath the returning stone. Oxaul saved the traces twice. When he tried to say what they proved, his first sentence would not start.
 
 Sulekk waited beside him, dust striping her crest.
 

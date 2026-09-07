@@ -342,7 +342,7 @@ Nivra stared at the spoon pressed against her skirt.
 
 She rinsed it and went on stirring.
 
-The lentils needed salt. Calo told her so. She told him his mouth had been ruined by pickles. They argued for three ordinary sentences, then he added salt to his own bowl. I tasted the meal through him: earth, fennel, too much pepper. Nivra gave us the heel of the bread because Calo liked it. I learned that my old teeth now caught fibers between the same two molars where they always had.
+The lentils needed salt. Calo told her so. She told him his mouth had been ruined by pickles. They argued for three ordinary sentences, then he added salt to his own bowl. I tasted the meal through him: earth, fennel, too much pepper. Nivra gave us the heel of the bread because Calo liked it.
 
 At ten, someone knocked twice at the back door.
 
@@ -378,7 +378,7 @@ Skin met skin.
 
 The passage opened, and for the first time in thirteen years I did not cross into foreign weather.
 
-I came home to an ankle that remembered breaking, a jaw that clicked on the left, lungs with more room than Calo’s. The damaged fingers buzzed faintly. My heart—her heart—beat slower than I expected.
+I came home to an ankle that remembered breaking, a jaw that clicked on the left, lungs with more room than Calo’s. A fiber of bread caught between the same two molars where food always had. The damaged fingers buzzed faintly. My heart—her heart—beat slower than I expected.
 
 Nivra surrounded me not as memories, not as thoughts I could read, but as resistance with shape. She held the eyes. She held the hands. I could feel which movements she considered before she made them, small currents gathering behind muscle, but not why.
 
@@ -456,11 +456,11 @@ I closed our left hand. Mine. I lifted it to the lamplight. Mine.
 
 Nivra’s next word came faintly. *Calo.*
 
-He rose despite his knee. He did not come closer. “She said out, Tamaris.”
+He rose despite his knee. He did not come closer. “Let her answer, Tamaris.”
 
 “I heard.” My voice from my throat. Older, roughened, real.
 
-“Then move.”
+“Then let her.”
 
 Eleven-fifty-eight.
 

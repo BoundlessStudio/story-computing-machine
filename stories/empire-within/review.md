@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The gang-war, official, and betrayal crises resolve through Elspeth's direct exercise and defense of power; her earned fear and respect remain inferable through others' choices. The graphic violence serves adult-noir consequence, remains non-instructional, and preserves Elspeth's agency.
+- Notes: The underboss's knowledge is consistent with having organized the forged orders and raid; it is no longer treated as impossible access. The runner remains in Elspeth's private room, separate from the club. Her costly choices resolve the coup and support the implied history of feared authority within the authorized adult-noir scope.

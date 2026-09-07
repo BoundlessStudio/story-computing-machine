@@ -194,7 +194,7 @@ Nuvaya's finger remained on the shortest road. Kalmid had always given her puzzl
 
 ***
 
-Their answer took three hours to build because none of the four relays could speak in another's place.
+Their answer took three hours to build because none of the four relays could speak in another's place. For most of that time, Nuvaya's reports placed the five riders beside the same roadside trough, waiting below the fork.
 
 Ilvara received the others' findings in Nalevane as a field of mirrors: dark squares under cloud, sudden white glances when Breqen's workers tipped them to the lamp. She put four stones on the ledger, one for each refuge, and refused to move any closer together.
 
@@ -254,7 +254,7 @@ She tapped the route board. “Kalmid taught us never to name a road while movin
 
 “The road can. We built it.”
 
-Nuvaya looked toward the dust line. Waiting had always felt to her like surrender performed in a chair. This waiting had edges. A gate shut here. A shutter reversed there. A broken bridge waited around a bend no invader had bothered to learn.
+Nuvaya looked toward the waiting riders. Waiting had always felt to her like surrender performed in a chair. This waiting had edges. A gate shut here. A shutter reversed there. A broken bridge waited around a bend no invader had bothered to learn.
 
 “Send it,” she said.
 

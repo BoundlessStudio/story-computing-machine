@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The reversed patronage is literal and bounded, the four engine circuits escalate causally, and Derva's physical cost and dismissal complete the promised adventure. Dialogue remains context-dependent and role-specific: Derva speaks in work orders and revisions, the god in distinctions about completion and authority, the lieutenant in timing and acceptable loss, while evacuees stay usefully single-purpose; the interrupted departure avoids a final explanatory thesis.
+- Notes: The safety pin is removed before the thin rope attaches to the counterweight's lifting eye, so the later pull can swing the weight. Derva's orders, the god's completion limits and the lieutenant's load calls remain distinct. The bounded inverse patronage ends with the repeating charge.

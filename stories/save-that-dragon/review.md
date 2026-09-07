@@ -6,10 +6,10 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Queen Urrava | new | The reigning mother whose sealed writ establishes her part in the raid; no exact, alias, close-spelling, or confusing reuse found. |
-| Princess Daziel | new | Urrava's adult daughter and the bereaved hunter operating the quarry rig; no exact, alias, close-spelling, or confusing reuse found. |
-| Imer Quast | new | The dismissed quarry engineer and focal rescuer; no exact, alias, close-spelling, or confusing reuse found. |
-| Hovan Setch | new | The attendant whose dragon-signal knowledge remains explicitly limited; no exact, alias, close-spelling, or confusing reuse found. |
+| Queen Urrava | new | Also `Urrava`; reigning mother whose writ establishes her part in the raid; no confusing reuse found. |
+| Princess Daziel | new | Also `Daziel`; adult daughter and bereaved hunter; no confusing reuse found. |
+| Imer Quast | new | Also `Imer`; dismissed quarry engineer and focal rescuer; no confusing reuse found. |
+| Hovan Setch | new | Also `Hovan`; attendant with explicitly limited dragon-signal knowledge; no confusing reuse found. |
 | Thelrax | new | The autonomous, nonverbal dragon held in the quarry snare; no exact, alias, close-spelling, or confusing reuse found. |
 
 ## Places
@@ -31,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Urrava's writ changes Daziel's knowledge without proving Thelrax innocent; Daziel's dump choice and Thelrax's bodily refusal preserve their agency. The one-night mechanism, crew accounting, and residual-trigger shutdown are coherent, and the four speaking voices remain distinct without a mercy speech.
+- Notes: Daziel releases the lever and stay rope before reaching the dump pin with both hands; the resulting frame failure makes her choice costly. The release sequence and residual-trigger shutdown hold. Writ and signal exchanges distinguish evidence, refusal and intent without absolving Thelrax.
