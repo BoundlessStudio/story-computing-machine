@@ -117,19 +117,23 @@ At lunch, Gideon locked himself in the equipment room behind the lab and
 plugged an ordinary headset into an ordinary phone. The voice scrambler made
 him sound like a courteous cupboard.
 
-“Rollcaller survived,” Night Clerk said. “It entered the school ventilation,
-heard me call one civilian name, and tested the alias Kiteglass. It had sight
-of the paper register. I saw living filament.”
+“Something in the school ventilation tried my alias during attendance,”
+Kiteglass said. “Right after a civilian name. Same whisper as last night.”
+
+“Assume the Rollcaller survived,” Night Clerk said. “Could it see the register?”
+
+“From that grate? Yes.”
 
 Silence held on the relay. Their health and location channels showed only what
 each girl had chosen to share: three rough status lights, no names, no map
 points.
 
-“How many people reacted?” Kiteglass asked.
+“How many people reacted?” Night Clerk asked.
 
-“One nearly did. I interrupted. The room did not appear to notice.”
+“I nearly did. Then a book hit the floor and everyone looked that way.”
 
-“Nearly,” Kiteglass repeated, annoyed with herself.
+“Nearly,” Kiteglass repeated, annoyed with herself. Gideon let her account stand
+without adding anything she had not told him.
 
 “The creature engineered surprise. That is information about its method, not a
 failure on your part.”

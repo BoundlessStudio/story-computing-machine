@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Tea freshness and age/guest chronology are explicit; the exit mechanics remain local and causally legible, and the continued conversation is voluntary and bounded.
+- Notes: The second-infusion exchange leaves the chipped clay cup with the young man and the white porcelain with the wizard through the ending. Fresh tea and the centuries without guests fulfill the prompt; the opened exit makes their continued, increasingly particular conversation voluntary.

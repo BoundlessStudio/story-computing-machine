@@ -7,7 +7,7 @@ Verdict: PASS
 | Noun | Status | Continuity note |
 | --- | --- | --- |
 | Ceret | new | No exact or alias reuse found; passing-current `Ceryth` remains readily distinguishable by its `-yth` ending. |
-| Dabria | new | No exact, alias, close-spelling, or confusing reuse found. |
+| Veslina | new | Adult catfolk friend with an unnamed partner; exact and close-form searches including Vesl, Vesna, and Vesrina found no confusing reuse. The final prose no longer uses Dabria, avoiding accidental overlap with Dabria Finne. |
 | Mezzara | new | No exact or alias reuse found; passing-current `Mazhira` remains distinct in spelling and sound. |
 | Linette | new | No exact, alias, close-spelling, or confusing reuse found; legacy `Linda` is readily distinguishable. |
 | Joia | new | No exact, alias, close-spelling, or confusing reuse found. |
@@ -31,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The REBUILD preserves the reference image's warm catfolk restaurant, shared fish, close friendship, and live music while materially replacing the prior hunt, house-rule, departure, and cast execution; every named removal is absent and the FLEXIBLE outside-scope obligation is satisfied. Distinct, context-bound conversation changes knowledge and trust around Mezzara's room and Dabria's partner, while the continuing table-map exchange earns its practical ending from the prompt's ordinary-life promise.
+- Notes: The localized rename is consistent throughout the prose and distinguishes Veslina from Dabria Finne; the advisory outline's old name does not control the final inventory. The original reference was visually inspected, and its warm catfolk restaurant, prepared fish, close friendship, and soft guitar remain the scene's basis. The complete amended prompt is fulfilled without the removed hunt, house rule, or manufactured danger. Mistaken memories are marked and corrected in conversation; Ceret's assumptions, Mezzara's domestic particulars, Veslina's hesitant invitation, and Linette's service remain responsive through the ordinary final room-planning exchange. The recorded profile remains active.

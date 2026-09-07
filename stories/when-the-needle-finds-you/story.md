@@ -74,7 +74,9 @@ Olt stared at the receiver. “He knew you’d come.”
 
 “You always bring the worst thing in the room and call it equipment.” He shoved his bare feet into boots. “Back stairs. Now.”
 
-A rasping voice rose from beside the inspection pit. “Too late for the stairs.”
+Olt hurried down the back stairs, Sivra at his heels. At the bottom he veered toward the parts counter.
+
+A rasping voice rose from beside the inspection pit. “Too late to run.”
 
 The woman who stepped into view was near Sivra’s age. Old fire had drawn the left side of her face tight and glossy, lifting that corner of her mouth into a permanent expression of disgust. In her good hand she carried a short chopping blade.
 
@@ -340,7 +342,7 @@ Sivra seized the jointed cutting arm and swung it off Olt.
 
 The Jester finally raised his gloved hands. Not to defend himself. To protect the microphone.
 
-She drove the stylus through his smoked glasses and into the black-veined eye.
+She drove the stylus into the black-veined eye.
 
 The globe ruptured with a thick pop. Black membrane spilled across his cheek in folded layers, each one scored with minute grooves. He made no polished sound then. He screamed like a man surprised to find a body under his costume.
 

@@ -6,15 +6,15 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Tamaris | new | Disembodied searcher who can inhabit one consenting host for a bounded day; targeted authority, legacy-name, and passing-review searches found no exact, alias, or confusing close reuse. |
-| Calo | new | Final-day host who retains and enforces control of his body; no exact or alias reuse was found, and the near recurring form Cal Mercer/Cal remains distinct in sound, full form, and role. |
-| Nivra | new | Autonomous person living in Tamaris's original body; no exact or alias reuse was found, and the near recurring form Nina remains distinguishable in spelling, sound, and story function. |
+| Tamaris | new | Disembodied searcher; targeted baseline, passing-review, and authority searches found no exact, alias, close-spelling, or confusing reuse. |
+| Calo | new | Consenting host and Nivra's friend; distinct from Cal Mercer/Cal in spelling, sound, identity, and role. |
+| Nivra | new | Separate person living in Tamaris's original body; distinct from canonical Nina in spelling, identity, mechanism, and role. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| None | none | No named story-facing place appears. |
+| None | none | No story-facing named place. |
 
 ## Continuity
 
@@ -29,4 +29,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The one-day transfer, revocation, thirteen-heartbeat, and midnight-anchor rules remain coherent across the final borrowed day. Tamaris's brief consent violation is treated as harm, Nivra retains independent personhood and decisive agency, and the ending resolves the search without overstating what bodily continuity proves. Calo's bodily pragmatism, Nivra's dated facts and conditions, and Tamaris's inventory language stay distinct through the decisive exchange; the final logistical lines do not restate the theme.
+- Notes: PreReview PASS supplied. Original-body sensation begins only after entry; Calo demands an answer to his audible question without hearing private speech. Host control, the midnight anchor, and the thirteen-heartbeat transfer support the consequential final release. Tamaris's pressure, Nivra's refusals, Calo's bodily limits, and the volunteer's final permission remain distinct under the recorded 08-21 profile. The search resolves while both women's personhood and losses remain real; no universal possession or consent rule is asserted.

@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The costly present-tense roof repair resolves the immediate livelihood threat without curing the kingdom; the living fairy supplies the magic, and the dialogue preserves distinct official, trade, and fairy reasoning under pressure.
+- Notes: The cobbler sets the caught slate on the bench before asking the slater to move it, making the present-action test possible. The fairy's living agency, claim withdrawal and helpers' bounded commitments remain consistent; the partial repair earns payment without curing the kingdom.

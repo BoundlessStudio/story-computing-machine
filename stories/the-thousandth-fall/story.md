@@ -102,7 +102,7 @@ Palla recovered first. “You tilted it.”
 
 “Strength isn't falls. I keep standards.”
 
-Stamina took longer to become ridiculous. Rasden ran from one sunrise to the next along the ridge circuit, never letting the mend close. Palla rode beside him to count the laps. She changed horses at noon, changed again at moonrise, and borrowed a third before dawn. The third horse was blowing foam when the sun returned. Rasden was still taking the uphill turn at the same pace as the first lap.
+Stamina took longer to become ridiculous. Rasden ran from one sunrise to the next along the ridge circuit, never letting the mend close. Palla rode beside him to count the laps. She changed horses at noon, changed again at moonrise, and borrowed a fourth before dawn. The fourth horse was blowing foam when the sun returned. Rasden was still taking the uphill turn at the same pace as the first lap.
 
 Palla swayed in the saddle. “If you say ‘again,’ I will push you off a mountain.”
 

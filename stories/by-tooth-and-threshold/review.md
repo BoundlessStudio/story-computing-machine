@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Dev Kaylor | new | No exact, alias, close-spelling, or confusing reuse found in canon, the frozen baseline, locked legacy prose, or passing current inventories. |
-| Audra Liske | new | No exact, alias, close-spelling, or confusing reuse found in canon, the frozen baseline, locked legacy prose, or passing current inventories. |
+| Dev Kaylor | new | Also `Dev`; no exact, alias, close-spelling, or confusing reuse found in targeted authority and name-memory searches. |
+| Audra Liske | new | Also `Audra`; the injured woman and wolf are one person, with no confusing prior name reuse found. |
 
 ## Places
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The 6:14–7:44 action spans exactly ninety minutes; Audra’s voluntary seventy-second changes, preserved injury, second-change cost, transmitter limits, and bounded debt remain causally consistent without romance, pack bond, ownership, or servitude.
+- Notes: The 6:14–7:44 encounter allows both seventy-second transformations and the stated thirty-six-minute interval. The gate pins the pole before Dev reopens it to disarm the setter. Agreed signals, injury and shielded transmitter remain bounded; Audra chooses her repayment and departure.

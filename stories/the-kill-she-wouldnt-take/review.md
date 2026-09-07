@@ -30,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The REBUILD selections are satisfied: a new booth-limited sportscast, image-guided arena-superstar design, uncensored but non-graphic R-rated treatment, and materially distinct challenge/no-contest resolution replace the prior prose and scene construction.
+- Notes: The sixty-second weapon lock permits the mandatory replay and medical decision while the separate resolution clock stays frozen at seven; the upheld challenge arrives with five seconds of weapon lock left. Complete prompt and prose review preserves the booth-limited perspective, sustained sports commentary, adult language, non-graphic violence, and meaningful hesitation. The supplied original was visually inspected: Zindra retains the red fiber-optic mohawk, white horned cybernetic mask, segmented white armor, and oversized firearm. Caro's calls, Dax's imperfect observations, and the producer's pressure remain grounded in their respective feeds and access through the decisive challenge and compromised final broadcast; the recorded profile remains active.

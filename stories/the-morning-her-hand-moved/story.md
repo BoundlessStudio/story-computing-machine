@@ -138,7 +138,7 @@ At the turn, a girl had wrapped both arms around a horned garden goat that refus
 
 Aksor took the lead rope. The phrase he began had the shape of a bowl blessing, but dust shook from the wall and the goat lunged.
 
-“No. Put your foot flat,” he told the girl. “Flat. Hip to the wall. Give me the rope.” He covered the goat's eyes with his discarded mantle and pulled it through.
+“No. Put your foot flat,” he told the girl. “Flat. Hip to the wall. Give me the rope.” He drew his sleeve over his free hand, covered the goat's eyes, and pulled it through.
 
 Above them, stone columns broke from the smallest knuckle temple. The residents had emptied it minutes before. Its bell struck twice as the columns slid, then stopped when the whole portico went down toward the palm center in a cloud of pale dust.
 

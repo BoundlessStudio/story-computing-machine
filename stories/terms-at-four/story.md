@@ -358,6 +358,10 @@ Your former colleague’s head snapped toward the phone.
 
 “The command is irreversible. Hold is only a request to the monitor now.”
 
+The key-store indicator changed to a permanent null. The independent monitor returned the same result.
+
+“Key destruction confirmed,” you said.
+
 The court screen refreshed. A receipt number appeared, followed by a file index. You opened two random pages. Signatures, dates, the arming language you remembered objecting to, and the authorization used to detain the crew. The originals carried registry seals.
 
 “Filing accepted,” you said. “Documents present.”
@@ -390,13 +394,13 @@ She said your old project shorthand, barely more than breath. “Abort shadow?�
 
 “Could be.” You watched the physical channel, not her. “Wait.”
 
-At twelve seconds, two marks arrived together. The key store returned a permanent null. The pressure seal opened. A new object appeared on civilian tracking, separating slowly from the platform.
+At twelve seconds, telemetry returned. The key store still showed its permanent null. The pressure seal opened. A new object appeared on civilian tracking, separating slowly from the platform.
 
 The armed lattice had ejected.
 
 You checked the independent observers. Both matched. No targeting path remained; no ground command could restore one. Its armed mode was gone.
 
-“Key destroyed,” you said. “Lattice separate and inert. Disarmament confirmed.”
+“Key remains destroyed,” you said. “Lattice separate and inert. Disarmament confirmed.”
 
 “My office confirms,” the Prime Minister said. “The call is ending now.”
 

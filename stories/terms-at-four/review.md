@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The adult hostess, full tea spread, government bargain, irreversible satellite disarmament, release of all six hostages, and immediate legal consequence are resolved on page; the dialogue keeps the guest, hostess, Prime Minister, and captives distinct under pressure.
+- Notes: Independent confirmation of key destruction now precedes the filing acknowledgement and hostage release; the later blackout ends with that null state unchanged and the lattice ejected. The negotiated sequence, five released workers and six freed hostages remain distinct, and the final statement preserves the coercion's consequences.

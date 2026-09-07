@@ -21,7 +21,7 @@ Verdict: PASS
 | Noun | Status | Continuity note |
 | --- | --- | --- |
 | Nalevane | new | Tide-bound sanctuary kingdom using mirror relays; no exact, alias, or confusing close reuse found. |
-| Rusk Hollow | new | Mountain sanctuary kingdom using tuned bells; the full compound remains readily distinct from `Ninth Hollow`, `Ruskala`, and legacy-baseline person `Kelan Rusk`. |
+| Rusk Hollow | new | Mountain sanctuary kingdom using tuned bells; the full compound remains readily distinct from `Ninth Hollow` and legacy-baseline person `Kelan Rusk`. |
 | Oriel Strand | new | Wind-scoured sanctuary kingdom using woven vanes; no exact, alias, or confusing close reuse found. |
 | Ternhold | new | Valley sanctuary kingdom using shadow lamps; no exact, alias, or confusing close reuse found. |
 | Foldgate | new | Final-text name for the abandoned transfer station and interception site; no exact, alias, or confusing close reuse found. |
@@ -39,4 +39,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The story keeps exactly four princesses, gives every refuge a decisive local check and every host control over equipment and sanctuary, and keeps the composite signal, Foldgate timing, five-rider capture, custody, and continued hiding causally legible. Dialogue remains differentiated by each sister's and host's attention and pressure behavior; the final exchanges confirm choices through local work without restating a thesis.
+- Notes: Reports keep the five riders waiting below the fork during the three-hour construction of the answer, reconciling their travel estimate with the later capture. The four princesses and hosts make distinct contributions and retain separate sanctuaries; final work exchanges preserve those choices.

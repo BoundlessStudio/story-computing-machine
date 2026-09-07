@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Four active crossings produce distinct, safe, mechanically verified destinations under one coherent rule; the wear evidence supports the diagnosis, and the resulting certificate, estate classification, equal shares, and routed goods resolve the practical dispute without ranking homes or repairing the family. Dialogue remains differentiated through the apprentice's material conditionals, the executor's schedule and document language, the brother's maintenance attention, the middle sister's interrupted household sequencing, and the youngest sibling's sparse access corrections; the decisive technical exchange is earned by the tests, while the final exchange returns to ordinary logistics rather than restating the theme.
+- Notes: The executor clears the receiving threshold while the route remains braced open, then returns and resets before the next valid turn. Four distinct homes pass the same checks; the evidence supports function without ranking homes. Work and family exchanges remain differentiated through the estate decision and collection.

@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The nonliving condenser's audio trigger, visible targeting states, finite water and charge, consent boundary, and runoff safeguards remain causal and bounded; Ianthe and Rasim retain distinct reasoning and unequal pressure behavior through the decisive and final exchanges.
+- Notes: The disabled pump leaves trapped accumulator pressure, which supplies the accidental cloud until the mechanical cutoff stops spray. Ianthe's admission matches that cause. Judging and the final passive test preserve finite resources, consent limits, and the rivals' distinct observation and reasoning.

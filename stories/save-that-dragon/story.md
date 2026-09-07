@@ -350,11 +350,11 @@ Daziel looked at the spear, then at the red dump pin securing its bed over the e
 
 He had no useful answer. “Pin needs both hands. Twist left before you pull.”
 
-She took her right hand from the firing lever and caught the dump pin. The trigger arm jumped but did not fall; the lower pawl, jammed against Imer’s flywheel, held it by half a tooth.
+She took her right hand from the firing lever. The trigger arm jumped but did not fall; the lower pawl, jammed against Imer’s flywheel, held it by half a tooth.
 
-Then Daziel let the stay rope run from her left hand.
+Then Daziel let the stay rope run from her left hand and lunged for the dump pin.
 
-The upright tore. Imer’s pry bar bowed. Daziel twisted the pin left and hauled. It came out to the stop chain.
+The upright tore. Imer’s pry bar bowed. Daziel caught the pin with both hands, twisted it left, and hauled. It came out to the stop chain.
 
 The spear bed tipped into the shaft. Timber, iron spear, and counterweight fell together. The sound went down for a long time before stone answered.
 

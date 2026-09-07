@@ -6,16 +6,16 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Elsidra | new | Focal line painter; no exact, alias, close-spelling, contained-form, or confusing accepted reuse was found. |
-| Vaudessa Talwin | new | Full form at first introduction; the prose later uses the short form Vaudessa. Neither form has exact or confusing accepted reuse, and Talwin remains distinct from Talvi. |
-| Rovandis | new | Parcel driver and Caelumar's father; no exact, alias, close-spelling, contained-form, or confusing accepted reuse was found. |
-| Caelumar | new | Young courier and active target; the full form is distinct from recurring Cal Mercer/Cal, and no standalone `Cael` appears in the prose. |
+| Elsidra | new | Focal line painter; targeted baseline, passing-review, and authority searches found no exact, alias, close-spelling, or confusing reuse. |
+| Vaudessa Talwin | new | Also Vaudessa; family ritual keeper. No exact or alias reuse; Talwin remains distinguishable from legacy Talvi. |
+| Rovandis | new | Parcel driver and Caelumar's father; no exact, alias, close-spelling, or confusing reuse found. |
+| Caelumar | new | Courier and active target; distinct from Cal Mercer/Cal by full form, identity, and role. No standalone Cael alias appears. |
 
 ## Places
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| NINE-LARCH | new | Exact uppercase road-sign form used in the prose; no exact, alias, close-spelling, contained-form, or confusing prior place reuse was found. |
+| NINE-LARCH | new | Exact road-sign form; no exact, alias, close-spelling, or confusing place reuse found. |
 
 ## Continuity
 
@@ -30,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Lifting the threshold spike selects the last Talwin to leave, and the falling count consistently tracks lost inherited route cues without erasing Caelumar's identity. Fresh paint and responsive light, horn, brake, and tactile signals build a route the curse has not inherited; living relatives supply the choices and responses while objects transmit or display the effect, and Caelumar actively observes, waits, reverses, answers, and crosses. Dialogue remains context-bound and speaker-specific across Elsidra's material tests and terse commands, Rovandis's procedural skepticism and paternal urgency, Vaudessa's household memory and touch-led reports, and Caelumar's impatient courier observations; pressure changes their fluency, and the final practical exchange does not explain the resolution again.
+- Notes: PreReview PASS supplied. The speakerphone carries Rovandis's dialogue from the following van; waiting for a flash and then seeing its reflection forms a coherent exchange. Newly answered marks preserve a route without restoring lost cues prematurely. Elsidra's tests, Rovandis's impatience, Vaudessa's tactile knowledge, and Caelumar's practical answers remain distinct through the return and final lamp check under the recorded 08-21 profile. The living family supplies a local working; the spike has no independent agency.

@@ -354,7 +354,7 @@ Not an argument. Not absolution. His hand reached across the black crack between
 
 She wanted to take it. Her body had already leaned toward him before she understood.
 
-Iverax smiled then, terrible and frightened. His gaze dropped to the knife over her shoulder. He saw her reach for it, and he did not close his hand.
+Iverax smiled then, terrible and frightened. His gaze dropped to the knife in her hand. He saw her grip tighten, and he did not close his hand.
 
 Then he opened himself to the fire.
 

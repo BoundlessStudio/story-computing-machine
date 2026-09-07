@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The consent boundary remains active after the concealed risk is exposed, and the client completes his own return rather than being cured or rescued. The ancient battle remains fallible lived recall, with uncertainty around positions, counts, and necessity preserved.
+- Notes: The slate remains facedown during the second descent and return, and is turned upright afterward without restarting recording. The battle dialogue respects incomplete perception; renewed consent and independent exit remain active, while discovery of the source does not cure the client's distress.

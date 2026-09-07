@@ -30,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The undated local self-mend fits a magic-active history and remains distinct from locked scar-lattice exertion; the progression rule, three benchmarks, 47-person count, bridge geometry, and combined-ability thousandth fall are coherent. Rasden's dry challenge and Palla's scorekeeping, mistakes, and clipped rescue calls remain distinct under pressure; their final exchange earns the larger horizon without repeating the rescue.
+- Notes: Palla's starting horse and three changes make four mounts, with the fourth exhausted at sunrise. The living self-mend earns separate strength, stamina and speed benchmarks before combining them in the external rescue. The forty-seven survivors and Palla's final challenge fulfill the promised victorious horizon.

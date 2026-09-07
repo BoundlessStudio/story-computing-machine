@@ -6,8 +6,8 @@ Verdict: PASS
 
 | Noun | Status | Continuity note |
 | --- | --- | --- |
-| Imogen | new | Adult protagonist and Nuala's best friend; no exact, alias, close-spelling, or confusing reuse found. |
-| Nuala | new | Adult magical girl with independent craft and consent agency; distinct from legacy Nalda Vick and current Nadira Whitlock in spelling, sound, identity, and story context. |
+| Imogen | new | Focal caregiver and best friend; targeted baseline, passing-review, and authority searches found no exact, alias, close-spelling, or confusing reuse. |
+| Nuala | new | Adult magical girl and active care partner; no exact or alias reuse. Distinct from legacy Nalda Vick by spelling, sound, identity, and role. |
 
 ## Places
 
@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The exact six-effect pool remains random and non-steerable within its three-metre, direct-sight, and opaque-barrier limits; Nuala's terse consent and craft corrections remain distinct from Imogen's logistics through the decisive and final exchanges.
+- Notes: PreReview PASS supplied. The offered water answers the opening request. Both swap targets are within sight and range after Imogen sets down the cup and retreats. Warnings disclose timing rather than the random effect; barriers, durations, and lasting damage remain consequential. Nuala's gestures and abbreviated speech actively change the route and care plan, while Imogen learns to wait; the final drink signal has clear uptake. Dialogue passes the recorded 08-21 profile, and Nuala remains the local living source of magic.

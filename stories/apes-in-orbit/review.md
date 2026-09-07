@@ -30,4 +30,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: Beacon and coil accounting, obsolete-target guidance, council-to-impact chronology, and the quarry/hatchery action are coherent; the altered course remains evidence of control, not human intent or peace.
+- Notes: The south beacon crew can obtain the west-loop axle without changing the north or quarry positions. Charge limits, evacuation and firing decisions remain coherent. Oxaul distinguishes observed commands from inferred intention; the final crew-board exchange follows Qemri's practical authority.

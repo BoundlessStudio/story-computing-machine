@@ -27,4 +27,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The bounded strength, bodily costs, unsafe shifting loads, and negotiated work limits resolve the prompt without turning bullying into training, revenge, or chosen-one validation.
+- Notes: The collapsed uphill wheel leaves the downhill side raised; removing high copper and shifting meal downhill counters that lean, and the work call matches the plan. Stable-load strength remains distinct from shifting-load danger. The final negotiation gives the protagonist credible limits and chosen work without excusing the bullying.

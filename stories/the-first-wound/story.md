@@ -418,7 +418,7 @@ He considered the little black square as if it were another barrier under his ha
 
 “Yes.”
 
-He stood carefully. The movement exposed how unsteady he was; one hand went to the table, then withdrew before she could offer hers. He looked once at the facedown slate before turning toward the door.
+He stood carefully. The movement exposed how unsteady he was; one hand went to the table, then withdrew before she could offer hers. He looked once at the dark slate before turning toward the door.
 
 At the door, he paused with his fingers on the latch.
 

@@ -46,7 +46,7 @@ She pushed it aside. “Good entrance.”
 
 “Drink.”
 
-“I brought both.” I opened the case. Oral rehydration packets, water, medicine, two thermometers because one was a plan and two was a system, towels, tape, rubbish bags, cooling cloths, spare socks, a compact tool roll, and the flat packet of colored cards Nuala used for noisy jobs. “I left the broth in the car. Too hot to carry through this.”
+“I brought water.” I opened the case. Oral rehydration packets, water, medicine, two thermometers because one was a plan and two was a system, towels, tape, rubbish bags, cooling cloths, spare socks, a compact tool roll, and the flat packet of colored cards Nuala used for noisy jobs. “I left the broth in the car. Too hot to carry through this.”
 
 Nuala pointed at the water. Her hand was steady enough to choose it. I poured. She sat on the floor rather than cross the field of newly landed objects, and I crouched close while she drank three measured swallows.
 
@@ -304,11 +304,11 @@ It was not a quip so much as accurate ownership. I had added the thing after she
 
 She tapped blue.
 
-I brought water from the far station. Halfway to the ring, coral lights lit the drops on the cup. The chime fell through its three notes.
+I brought water from the far station. Just inside the ring, coral lights lit the drops on the cup. The chime fell through its three notes.
 
-I set the cup down where I stood and braced.
+I set the cup down and stepped back outside the ring to brace.
 
-Nuala sneezed. The covered cup and a folded rubbish bag exchanged places. Water struck the floor from inside its lid, a hard splash but not a spill. The bag appeared at my feet. Neither object had been fastened; both had been in her direct sight, less than three metres away.
+Nuala sneezed. The covered cup and a folded rubbish bag exchanged places. Water struck the floor from inside its lid, a hard splash but not a spill. The bag appeared where I had stood. Neither object had been fastened; both had been in her direct sight, less than three metres away.
 
 I looked at the cup. Then at Nuala.
 

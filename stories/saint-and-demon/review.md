@@ -28,4 +28,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The REBUILD materially replaces the prior prose and fulfills the amended R-rated adult love-story request through consent-forward non-explicit intimacy, adult language, consequential non-graphic violence, and a resolved beloved-versus-world choice.
+- Notes: The already-drawn knife stays in Sennara's hand through her tightened grip and the killing stroke. Adult intimacy remains non-explicit, and the final failed appeal grows from the lovers' incompatible commitments; the fire's casualties remain consequential after she stops its spread.

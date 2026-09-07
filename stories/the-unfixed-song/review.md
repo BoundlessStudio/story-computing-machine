@@ -31,4 +31,4 @@ Verdict: PASS
 ## Findings
 
 - Blocking: none
-- Notes: The bounded forecast bargain, competing soundings, authenticated lower route, signal error, delayed turn, and resulting safe passage and narrowed teaching tradition remain causally coherent. Heket's procedural exactness, Zulmec's rhythmic insistence, Brannic's labor-first commands, Kuvesh's protocol language, Mazhira's testing questions and decisions, the archive's status voice, and the deck worker's ordinary concern stay distinct through the decisive authorization and final lesson without collapsing into a chorus or explanatory coda.
+- Notes: Changing the last shutter converts black-white-white to the ordered black-white-black. Soundings, sail reduction and delayed turn retain distinct functions. The forecast bargain delivers safety while requiring Mazhira to teach a disputed claim; the elders' disagreement survives both authorization and the final lesson.

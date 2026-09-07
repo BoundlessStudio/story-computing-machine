@@ -200,7 +200,7 @@ The seat caught her. Vertigo rose harder, cold and immediate, and for a second t
 
 The clock showed 2.
 
-The water jug stood capped behind them. Hollis's shoulder was unmarked. The passenger door shut cleanly, without the pale crease left by the concrete.
+The water jug stood capped behind them. Hollis's shoulder was unmarked. The driver's door shut cleanly, without the pale crease left by the concrete.
 
 "Let me finish," Hollis said.
 

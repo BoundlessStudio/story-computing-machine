@@ -74,9 +74,9 @@ RASKA: 11.
 
 Sevi added a short horizontal stroke to Raska’s column.
 
-“I was one behind,” Raska said. “I am still one behind.”
+“I brought one down and I’m still a whole point behind,” Raska said.
 
-“That is a fascinating property of halves,” Kero said.
+“You were one and a half behind,” Kero said.
 
 “I should get style.”
 
@@ -380,7 +380,7 @@ None of it happened in the right order.
 
 The trolley struck the straps. The straps lifted the bin. The drone climbed right, met the bowed shutter, and pitched under its own correction. One rotor burst into white fragments. Kero ducked too late and lost a strip of hair. Sevi fell backward into a stack of plastic baskets. Raska ended on both knees with the bin rolling away from her.
 
-The drone hit the paving stones upside down.
+The drone hit the paving stones belly-first.
 
 Its charge fired into the metal shutter. Blue light raced upward, found nothing living, and went out.
 
