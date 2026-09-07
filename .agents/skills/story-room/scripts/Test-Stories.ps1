@@ -65,7 +65,7 @@ function Get-SectionMatches {
     $escaped = [regex]::Escape($Heading)
     return @([regex]::Matches(
         $Text,
-        "(?ms)^##\s+$escaped\s*\r?\n(?<body>.*?)(?=^##\s+|\z)"
+        "(?ms)^##[ \t]+$escaped[ \t]*\r?\n(?<body>.*?)(?=^##[ \t]+|\z)"
     ))
 }
 
@@ -310,68 +310,25 @@ function Read-LooseNounRows {
     return @($rows)
 }
 
-function Get-JpegDimensions {
-    param([string]$Path)
+function Test-TitleImages {
+    param([string[]]$Paths)
 
-    $bytes = [IO.File]::ReadAllBytes($Path)
-    if ($bytes.Length -lt 4 -or $bytes[0] -ne 0xff -or $bytes[1] -ne 0xd8) {
-        return $null
+    if ($Paths.Count -eq 0) { return }
+    # Resolve code from this checkout, not ProjectRoot (which may be a test fixture).
+    $helper = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../../../../pages/image_validation.py'))
+    try {
+        $json = ConvertTo-Json -InputObject @($Paths) -Compress
+        $output = $json | & python $helper
+        $decoderExit = $LASTEXITCODE
+        if ($decoderExit -notin @(0, 1)) {
+            throw 'Install Python dependencies with python -m pip install -r pages/requirements.txt.'
+        }
+        foreach ($problem in @($output | ConvertFrom-Json)) {
+            $errors.Add([string]$problem)
+        }
     }
-
-    $startOfFrameMarkers = @(0xc0, 0xc1, 0xc2, 0xc3, 0xc5, 0xc6, 0xc7, 0xc9, 0xca, 0xcb, 0xcd, 0xce, 0xcf)
-    $offset = 2
-    while ($offset -lt $bytes.Length) {
-        while ($offset -lt $bytes.Length -and $bytes[$offset] -ne 0xff) {
-            $offset++
-        }
-        while ($offset -lt $bytes.Length -and $bytes[$offset] -eq 0xff) {
-            $offset++
-        }
-        if ($offset -ge $bytes.Length) {
-            break
-        }
-
-        $marker = $bytes[$offset]
-        $offset++
-        if ($marker -in @(0x01, 0xd8, 0xd9) -or ($marker -ge 0xd0 -and $marker -le 0xd7)) {
-            continue
-        }
-        if ($offset + 1 -ge $bytes.Length) {
-            break
-        }
-
-        $segmentLength = ([int]$bytes[$offset] -shl 8) + [int]$bytes[$offset + 1]
-        if ($segmentLength -lt 2 -or $offset + $segmentLength -gt $bytes.Length) {
-            break
-        }
-        if ($marker -in $startOfFrameMarkers) {
-            if ($segmentLength -lt 7) {
-                break
-            }
-            $height = ([int]$bytes[$offset + 3] -shl 8) + [int]$bytes[$offset + 4]
-            $width = ([int]$bytes[$offset + 5] -shl 8) + [int]$bytes[$offset + 6]
-            return [pscustomobject]@{ Width = $width; Height = $height }
-        }
-        $offset += $segmentLength
-    }
-    return $null
-}
-
-function Test-TitleImage {
-    param([string]$StorySlug, [string]$Path)
-
-    if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) {
-        $errors.Add("$StorySlug is missing $titleImageFile.")
-        return
-    }
-
-    $dimensions = Get-JpegDimensions $Path
-    if ($null -eq $dimensions) {
-        $errors.Add("$StorySlug/$titleImageFile is not a readable JPEG.")
-        return
-    }
-    if ($dimensions.Width -ne 864 -or $dimensions.Height -ne 1536) {
-        $errors.Add("$StorySlug/$titleImageFile must be exactly 864x1536 (9:16 portrait); found $($dimensions.Width)x$($dimensions.Height).")
+    catch {
+        $errors.Add("Title-image decoder failed: $($_.Exception.Message)")
     }
 }
 
@@ -392,9 +349,6 @@ function Read-StoryPackage {
     }
     if ($missing.Count -gt 0) {
         return $null
-    }
-    if ($Phase -eq 'Final') {
-        Test-TitleImage $slug (Join-Path $Directory.FullName $titleImageFile)
     }
 
     $promptText = Get-Content -LiteralPath (Join-Path $Directory.FullName 'prompt.md') -Raw
@@ -641,6 +595,50 @@ function Test-UnapprovedStaticConflict {
     return $false
 }
 
+function Get-ReviewProblems {
+    param([string]$Text, [string]$Profile)
+
+    $rules = [ordered]@{
+        Verdict = @{ Section = $null; Allowed = @('PASS') }
+        Prompt = @{ Section = 'Continuity'; Allowed = @('PASS') }
+        Universe = @{ Section = 'Continuity'; Allowed = @('PASS') }
+        Internal = @{ Section = 'Continuity'; Allowed = @('PASS') }
+        Blocking = @{ Section = 'Findings'; Allowed = @('none') }
+    }
+    if ($Profile -cin $dialogueCraftProfiles -or [regex]::IsMatch($Text, '(?m)^-[ \t]+Dialogue:')) {
+        $rules.Dialogue = @{ Section = 'Craft'; Allowed = @('PASS', 'N/A') }
+    }
+    $problems = [Collections.Generic.List[string]]::new()
+    foreach ($label in $rules.Keys) {
+        $rule = $rules[$label]
+        $prefix = if ($label -eq 'Verdict') { '' } else { '-[ \t]+' }
+        $pattern = '(?m)^' + $prefix + $label + ':[ \t]*(?<value>[^\r\n]*?)[ \t]*\r?$'
+        $declarations = [regex]::Matches($Text, $pattern)
+        if ($declarations.Count -ne 1) {
+            $problems.Add("$label must have exactly one declaration.")
+            continue
+        }
+        if ($declarations[0].Groups['value'].Value -cnotin $rule.Allowed) {
+            $problems.Add("$label must be $($rule.Allowed -join ' or ').")
+        }
+        if ($null -eq $rule.Section) {
+            $body = ([regex]::Split($Text, '(?m)^##[ \t]+'))[0]
+        }
+        else {
+            $sections = @(Get-SectionMatches $Text $rule.Section)
+            if ($sections.Count -ne 1) {
+                $problems.Add("$label requires exactly one $($rule.Section) section.")
+                continue
+            }
+            $body = $sections[0].Groups['body'].Value
+        }
+        if ([regex]::Matches($body, $pattern).Count -ne 1) {
+            $problems.Add("$label is outside its required section.")
+        }
+    }
+    return @($problems)
+}
+
 function Get-PassingCurrentInventory {
     param([string]$ExcludeStory)
 
@@ -657,9 +655,10 @@ function Get-PassingCurrentInventory {
             continue
         }
         $text = Get-Content -LiteralPath $reviewPath -Raw
-        if ($text -notmatch '(?m)^Verdict:\s*PASS\s*$') {
-            continue
-        }
+        $promptPath = Join-Path $directory.FullName 'prompt.md'
+        if (-not (Test-Path -LiteralPath $promptPath -PathType Leaf)) { continue }
+        $profile = Get-ActiveCraftProfile (Get-Content -LiteralPath $promptPath -Raw)
+        if (@(Get-ReviewProblems $text $profile).Count -gt 0) { continue }
         foreach ($kind in @('People', 'Places')) {
             foreach ($row in Read-LooseNounRows $text $kind $directory.Name) {
                 $rows.Add($row)
@@ -684,7 +683,19 @@ function Test-BundleExactUse {
     if ($bundleStoryFiles.Count -eq 0) {
         return $false
     }
-    return @(Select-String -LiteralPath $bundleStoryFiles -SimpleMatch -Pattern $Name -List).Count -gt 0
+    $pattern = '(?<![\p{L}\p{M}\p{N}_])' + [regex]::Escape($Name) + '(?![\p{L}\p{M}\p{N}_])'
+    return @(Select-String -LiteralPath $bundleStoryFiles -Pattern $pattern -List).Count -gt 0
+}
+
+function Test-DocumentedBundleRecurrence {
+    param([object]$Row)
+
+    if ($Row.Status -ne 'recurring') { return $false }
+    # The independent reviewer owns equivalence; verify its cited prior spelling.
+    foreach ($variant in [regex]::Matches($Row.Note, '\x60(?<name>[^\x60\r\n|]+)\x60')) {
+        if (Test-BundleExactUse $variant.Groups['name'].Value) { return $true }
+    }
+    return $false
 }
 
 function Test-FinalReview {
@@ -692,52 +703,9 @@ function Test-FinalReview {
 
     $slug = $Package.Slug
     $reviewText = $Package.ReviewText
-    if ($reviewText -notmatch '(?m)^Verdict:\s*PASS\s*$') {
-        $errors.Add("$slug/review.md verdict is not PASS.")
-    }
-    foreach ($area in @('Prompt', 'Universe', 'Internal')) {
-        if ($reviewText -notmatch "(?m)^-\s+${area}:\s*PASS\s*$") {
-            $errors.Add("$slug/review.md continuity line '$area' is not PASS.")
-        }
-    }
-    if ($reviewText -notmatch '(?m)^-\s+Blocking:\s*none\s*$') {
-        $errors.Add("$slug/review.md has unresolved or malformed blocking findings.")
-    }
-    $requiredReviewHeadings = @('Continuity', 'Findings')
-    if ($Package.UsesDialogueCraftProfile) {
-        $requiredReviewHeadings += 'Craft'
-    }
-    foreach ($heading in $requiredReviewHeadings) {
-        if ([string]::IsNullOrWhiteSpace((Get-Section $reviewText $heading))) {
-            if ($heading -eq 'Craft') {
-                $errors.Add("$slug/review.md lacks a non-empty 'Craft' section for the required Dialogue verdict.")
-            }
-            else {
-                $errors.Add("$slug/review.md lacks a non-empty '$heading' section.")
-            }
-        }
-    }
-
-    if ($Package.UsesDialogueCraftProfile) {
-        $craftSection = Get-Section $reviewText 'Craft'
-        if (-not [string]::IsNullOrWhiteSpace($craftSection)) {
-            $dialogueLines = [regex]::Matches(
-                $craftSection,
-                '(?m)^-\s+Dialogue:\s*(?<value>[^\r\n]+?)\s*$'
-            )
-            if ($dialogueLines.Count -ne 1) {
-                $errors.Add("$slug/review.md Craft section must contain exactly one Dialogue verdict.")
-            }
-            else {
-                $dialogueVerdict = $dialogueLines[0].Groups['value'].Value.Trim()
-                if ($dialogueVerdict -notin @('PASS', 'REVISE', 'N/A')) {
-                    $errors.Add("$slug/review.md Dialogue verdict must be PASS, REVISE, or N/A; found '$dialogueVerdict'.")
-                }
-                elseif ($dialogueVerdict -eq 'REVISE') {
-                    $errors.Add("$slug/review.md Dialogue verdict is REVISE.")
-                }
-            }
-        }
+    $profile = Get-ActiveCraftProfile $Package.PromptText
+    foreach ($problem in @(Get-ReviewProblems $reviewText $profile)) {
+        $errors.Add("$slug/review.md $problem")
     }
 
     foreach ($kind in @('People', 'Places')) {
@@ -818,6 +786,10 @@ elseif (Test-Path -LiteralPath $storyRoot -PathType Container) {
     }
 }
 
+if ($Phase -eq 'Final') {
+    Test-TitleImages @($directories | ForEach-Object { Join-Path $_.FullName $titleImageFile })
+}
+
 $packages = [Collections.Generic.List[object]]::new()
 foreach ($directory in $directories) {
     $package = Read-StoryPackage $directory
@@ -846,11 +818,25 @@ if ($Phase -eq 'PreReview') {
             }
         }
 
+        $reviewedRecurrences = @()
+        $profile = Get-ActiveCraftProfile $package.PromptText
+        if (@(Get-ReviewProblems $package.ReviewText $profile).Count -eq 0) {
+            $reviewedRecurrences = @(
+                foreach ($kind in @('People', 'Places')) {
+                    Get-NounRows $package.Slug $kind $package.ReviewText 'review.md' |
+                        Where-Object { Test-DocumentedBundleRecurrence $_ }
+                }
+            )
+        }
+
         foreach ($row in $declared) {
             $static = if ($row.Kind -eq 'People') { $baselines.People } else { $baselines.Places }
             $currentMatch = @($existing | Where-Object { $_.Kind -eq $row.Kind -and $_.Key -eq $row.Key }).Count -gt 0
             $bundleMatch = Test-BundleExactUse $row.Name
-            $alreadyExists = ($static -contains $row.Name) -or $currentMatch -or $bundleMatch
+            $documentedRecurrence = $row.Status -eq 'recurring' -and @(
+                $reviewedRecurrences | Where-Object { $_.Kind -eq $row.Kind -and $_.Key -eq $row.Key }
+            ).Count -gt 0
+            $alreadyExists = ($static -contains $row.Name) -or $currentMatch -or $bundleMatch -or $documentedRecurrence
 
             $unapprovedConflict = (Test-UnapprovedStaticConflict $row) -or $currentMatch -or $bundleMatch
             if ($row.Status -eq 'new' -and $unapprovedConflict) {
@@ -902,7 +888,8 @@ foreach ($group in @($finalInventory | Group-Object Kind, Key)) {
     if ($newUses.Count -eq 1 -and ((Test-UnapprovedStaticConflict $newUses[0]) -or $bundleMatch)) {
         $errors.Add("$($newUses[0].Story)/review.md marks '$($sample.Name)' new, but that exact $($sample.Kind.ToLowerInvariant()) form already exists.")
     }
-    if ($recurringUses.Count -gt 0 -and $newUses.Count -eq 0 -and -not ($static -contains $sample.Name) -and -not $bundleMatch) {
+    if ($recurringUses.Count -gt 0 -and $newUses.Count -eq 0 -and -not ($static -contains $sample.Name) -and -not $bundleMatch -and
+        @($recurringUses | Where-Object { Test-DocumentedBundleRecurrence $_ }).Count -eq 0) {
         $stories = ($recurringUses.Story | Sort-Object -Unique) -join ', '
         $errors.Add("Noun '$($sample.Name)' is marked recurring in $stories, but no exact prior use was found.")
     }

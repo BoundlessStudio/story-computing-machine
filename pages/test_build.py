@@ -11,6 +11,11 @@ from collections import Counter
 from dataclasses import replace
 from pathlib import Path
 
+from PIL import Image
+
+# Support both unittest discovery and direct module loading of the Pages script.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 SPEC = importlib.util.spec_from_file_location("story_site", Path(__file__).with_name("build.py"))
 build = importlib.util.module_from_spec(SPEC)
 assert SPEC.loader
@@ -36,12 +41,8 @@ FRIENDS_NAME_EXCEPTION_ROWS = (
 
 class StorySystemTests(unittest.TestCase):
     def write_title_image(self, story: Path, width: int = 864, height: int = 1536) -> None:
-        # Minimal JPEG structure sufficient for the story validator's dimension check.
-        story.joinpath("title-image.jpg").write_bytes(
-            bytes.fromhex("ffd8ffc0001108")
-            + height.to_bytes(2, "big")
-            + width.to_bytes(2, "big")
-            + bytes.fromhex("03011100021100031100ffd9")
+        Image.new("RGB", (width, height), (40, 60, 90)).save(
+            story / "title-image.jpg", format="JPEG"
         )
 
     def write_review(self, story: Path, passing: bool) -> None:
@@ -210,7 +211,7 @@ class StorySystemTests(unittest.TestCase):
         )
 
     def test_story_create_documents_remove_then_create_replacement(self):
-        create = STORY_CREATE_SKILL.read_text(encoding="utf-8")
+        create = " ".join(STORY_CREATE_SKILL.read_text(encoding="utf-8").split())
 
         self.assertIn("name: story-create", create)
         self.assertIn("remove only the explicitly named source package", create)
@@ -499,6 +500,7 @@ class StorySystemTests(unittest.TestCase):
                 elif case == "current person":
                     prior = root / "stories/prior"
                     prior.mkdir()
+                    shutil.copy2(story / "prompt.md", prior / "prompt.md")
                     self.write_review(prior, passing=True)
                 elif case == "universe place":
                     (root / "universe/locations.md").write_text(
@@ -871,6 +873,191 @@ class StorySystemTests(unittest.TestCase):
                 self.assertNotEqual(0, completed.returncode)
                 self.assertIn("Final story validation failed", completed.stdout + completed.stderr)
 
+    def test_review_declarations_must_be_unique_and_in_their_sections(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            path = story / "review.md"
+            original = path.read_text(encoding="utf-8")
+            cases = {
+                "conflicting verdict": original + "\nVerdict: REVISE\n",
+                "duplicate pass": original + "\nVerdict: PASS\n",
+                "conflicting continuity": original + "\n- Prompt: REVISE\n",
+                "duplicate continuity": original + "\n- Universe: PASS\n",
+                "unresolved blocker": original + "\n- Blocking: Repair the ending.\n",
+                "empty verdict": original.replace("Verdict: PASS", "Verdict:\nPASS"),
+                "empty continuity": original.replace("- Internal: PASS", "- Internal:\nPASS"),
+                "misplaced verdict": original.replace("Verdict: PASS\n", "") + "\nVerdict: PASS\n",
+                "misplaced continuity": original.replace("- Prompt: PASS\n", "") + "\n- Prompt: PASS\n",
+                "misplaced blocker": original.replace("- Blocking: none\n", "").replace(
+                    "## Continuity", "- Blocking: none\n\n## Continuity"
+                ),
+                "duplicate section": original + "\n## Continuity\n\nA second section.\n",
+                "misplaced dialogue": original.replace("- Dialogue: PASS\n", "") + "\n- Dialogue: PASS\n",
+                "failed dialogue": original.replace("- Dialogue: PASS", "- Dialogue: REVISE"),
+                "duplicate dialogue": original + "\n- Dialogue: PASS\n",
+            }
+            for label, review in cases.items():
+                with self.subTest(case=label):
+                    path.write_text(review, encoding="utf-8")
+                    result = self.validate(root, "Final")
+                    self.assertNotEqual(0, result.returncode, label)
+                    self.assertIn("review.md", result.stdout + result.stderr)
+                    with self.assertRaisesRegex(ValueError, "not a passing review"):
+                        build.capture_story("sample", root, root / "catalog.json")
+                    self.assertFalse((root / "catalog.json").exists())
+                    self.assertFalse((root / "covers/sample.jpg").exists())
+
+    def test_ambiguous_prior_review_does_not_establish_name_memory(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            prior = root / "stories/prior"
+            shutil.copytree(story, prior)
+            prior_review = prior / "review.md"
+            prior_review.write_text(
+                prior_review.read_text(encoding="utf-8") + "\nVerdict: REVISE\n",
+                encoding="utf-8",
+            )
+            result = self.validate(root, "PreReview", "sample")
+            self.assertEqual(0, result.returncode, result.stdout + result.stderr)
+
+    def test_bundle_name_search_uses_whole_words(self):
+        cases = (
+            ("Mira", "A distant mirage shimmered.", False),
+            ("Mira", "The admiral departed.", False),
+            ("Mira", "Mira arrived.", True),
+            ("Mira", "MIRA arrived.", True),
+            ("Mira", "Mira's map lay open.", True),
+            ("Mira", "(Mira) waited.", True),
+            ("Mira", "Miranda arrived.", False),
+            ("Éva", "Évasion was written on the sign.", False),
+            ("Éva", "Éva arrived.", True),
+            ("Mira+", "Mira arrived.", False),
+            ("Mira+", "Mira+ arrived.", True),
+            ("Mira Gate", "Mira Gateway opened.", False),
+            ("Mira Gate", "Mira Gate opened.", True),
+        )
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            originals = {p: p.read_text(encoding="utf-8") for p in story.glob("*.md")}
+            bundle = root / "stories/prior"
+            bundle.mkdir()
+            (bundle / "story.json").write_text('{"canon": true}', encoding="utf-8")
+            for name, text, collision in cases:
+                with self.subTest(name=name, text=text):
+                    for path, source in originals.items():
+                        path.write_text(source.replace("Mira", name), encoding="utf-8")
+                    (bundle / "05-story.md").write_text(text, encoding="utf-8")
+                    for phase in ("PreReview", "Final"):
+                        result = self.validate(root, phase, "sample" if phase == "PreReview" else None)
+                        self.assertEqual(collision, result.returncode != 0, result.stdout + result.stderr)
+                        if collision:
+                            self.assertIn("exact", result.stdout + result.stderr)
+
+    def test_documented_variant_preserves_reviewed_recurrence(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            for filename in ("outline.md", "review.md"):
+                path = story / filename
+                path.write_text(
+                    path.read_text(encoding="utf-8").replace(
+                        "| Mira | new |", "| Mira | recurring |"
+                    ),
+                    encoding="utf-8",
+                )
+            review = story / "review.md"
+            baseline = review.read_text(encoding="utf-8")
+            bundle = root / "stories/prior"
+            bundle.mkdir()
+            (bundle / "story.json").write_text('{"canon": true}', encoding="utf-8")
+            (bundle / "05-story.md").write_text("The Miran coast was quiet.", encoding="utf-8")
+            cases = (
+                ("Intentional geographic recurrence via the prior bundle's " + chr(96) + "Miran" + chr(96) + " descriptor.", True),
+                ("A nonempty note without a cited form.", False),
+                ("Prior " + chr(96) + "Miranda" + chr(96) + " is absent.", False),
+                ("Prior " + chr(96) + "Mir" + chr(96) + " is only a substring.", False),
+            )
+            for note, accepted in cases:
+                with self.subTest(note=note):
+                    review.write_text(
+                        baseline.replace("Unique in the checked baseline.", note), encoding="utf-8",
+                    )
+                    for phase in ("PreReview", "Final"):
+                        result = self.validate(root, phase, "sample" if phase == "PreReview" else None)
+                        self.assertEqual(accepted, result.returncode == 0, result.stdout + result.stderr)
+            # A pending/contradictory review cannot supply variant provenance.
+            review.write_text(
+                baseline.replace("Unique in the checked baseline.", cases[0][0])
+                + "\nVerdict: REVISE\n",
+                encoding="utf-8",
+            )
+            result = self.validate(root, "PreReview", "sample")
+            self.assertNotEqual(0, result.returncode)
+            self.assertIn("no exact prior use", result.stdout + result.stderr)
+
+    def test_title_image_requires_a_complete_jpeg_decode(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            story = self.make_current_story(root)
+            path = story / "title-image.jpg"
+            valid = path.read_bytes()
+            header_only = (
+                bytes.fromhex("ffd8ffc0001108") + (1536).to_bytes(2, "big")
+                + (864).to_bytes(2, "big") + bytes.fromhex("03011100021100031100ffd9")
+            )
+            path.write_bytes(valid)
+            build._validate_title_image(path)
+            for case in ("header-only", "truncated", "disguised-png", "wrong-size"):
+                with self.subTest(case=case):
+                    if case == "header-only":
+                        path.write_bytes(header_only)
+                    elif case == "truncated":
+                        path.write_bytes(valid[:-30])
+                    elif case == "disguised-png":
+                        Image.new("RGB", (864, 1536)).save(path, format="PNG")
+                    else:
+                        self.write_title_image(story, 400, 600)
+                    with self.assertRaises(ValueError):
+                        build._validate_title_image(path)
+                    with self.assertRaises(ValueError):
+                        build.capture_story("sample", root, root / "catalog.json")
+                    result = self.validate(root, "Final")
+                    self.assertNotEqual(0, result.returncode, result.stdout + result.stderr)
+                    self.assertIn("title-image.jpg", result.stdout + result.stderr)
+
+    def test_capture_preserves_editorial_prompt_while_refreshing_prose(self):
+        for operation in ("capture", "capture-all"):
+            with self.subTest(operation=operation), tempfile.TemporaryDirectory() as temporary:
+                root = Path(temporary)
+                story = self.make_current_story(root)
+                snapshot = root / "catalog.json"
+                first = build.capture_story("sample", root, snapshot).stories[0]
+                self.assertEqual("A traveler returns through a gate.", first.prompt)
+                editorial = "The approved public premise."
+                build.save_catalog((replace(first, prompt=editorial),), snapshot)
+                prompt = story / "prompt.md"
+                prompt.write_text(
+                    prompt.read_text(encoding="utf-8").replace(
+                        "A traveler returns through a gate.", "A changed production premise."
+                    ),
+                    encoding="utf-8",
+                )
+                prose = story / "story.md"
+                prose.write_text(
+                    prose.read_text(encoding="utf-8") + "\nShe closed the gate.\n",
+                    encoding="utf-8",
+                )
+                result = (
+                    build.capture_story("sample", root, snapshot)
+                    if operation == "capture" else build.capture_all(root, snapshot)
+                )
+                self.assertEqual(editorial, result.stories[0].prompt)
+                self.assertIn("She closed the gate.", result.stories[0].body)
+                self.assertEqual(4, json.loads(snapshot.read_text())["schemaVersion"])
+
     def test_capture_requires_pass_but_does_not_repeat_full_validation(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -1124,7 +1311,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual({story.slug for story in catalog.stories}, set(placements))
         self.assertTrue(all(count == 1 for count in Counter(placements).values()))
         self.assertEqual(set(placements), set(timeline.story_confidence))
-        self.assertEqual(
+        self.assertTrue(
             {
                 "daughter-of-the-sun",
                 "the-first-wound",
@@ -1133,8 +1320,7 @@ class StorySystemTests(unittest.TestCase):
                 "tenth-world-lesson",
                 "the-count-was-131072",
                 "the-sky-remembers-us-return",
-            },
-            set(timeline.story_spans),
+            } <= set(timeline.story_spans),
         )
 
         chapter_ids = [chapter.id for chapter in timeline.chapters]
@@ -1156,24 +1342,20 @@ class StorySystemTests(unittest.TestCase):
             "solstice-evening-bell",
             placements_by_chapter["old-modern-age"],
         )
-        self.assertEqual(
-            [
+        self.assertTrue(
+            {
                 "not-about-that",
                 "the-attendance-ledger",
                 "the-help-network",
                 "solstice-evening-bell",
                 "the-dress-they-brought-her",
-            ],
-            placements_by_chapter["old-modern-age"],
+            } <= set(placements_by_chapter["old-modern-age"]),
         )
         self.assertNotIn(
             "the-attendance-ledger",
             placements_by_chapter["hero-and-villain-institutions"],
         )
-        self.assertEqual(
-            ["the-count-was-131072"],
-            placements_by_chapter["museum-hinge"],
-        )
+        self.assertIn("the-count-was-131072", placements_by_chapter["museum-hinge"])
         self.assertIn("the-room-that-waited", placements_by_chapter["great-falls-and-salvage"])
         self.assertIn("apes-in-orbit", placements_by_chapter["orbital-watchers-and-successor-earths"])
         self.assertIn("the-names-on-the-cups", placements_by_chapter["ordinary-present-and-familiar-lives"])
@@ -1182,51 +1364,40 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn("voice-of-silence", placements_by_chapter["colleges-and-apprenticeship-reform"])
         self.assertIn("blade-calls-your-name", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
         self.assertIn("golden-lion", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
-        self.assertEqual(
-            ["the-small-moon-rose-first"],
-            placements_by_chapter["ravel-bridge"],
-        )
+        self.assertIn("the-small-moon-rose-first", placements_by_chapter["ravel-bridge"])
         self.assertIn("clerics-infernal-ex", placements_by_chapter["roads-markets-and-living-doors"])
-        self.assertEqual(["the-friends-i-built"], placements_by_chapter["constructed-life-at-cinder-annex"])
+        self.assertIn("the-friends-i-built", placements_by_chapter["constructed-life-at-cinder-annex"])
         self.assertIn("the-players-above", placements_by_chapter["arcane-infrastructure-and-engineered-peril"])
         self.assertIn("the-station-between", placements_by_chapter["anomalies-beside-material-zero"])
         self.assertIn("his-infernal-majesty-says-no", placements_by_chapter["visitors-at-the-door"])
-        self.assertEqual(["tenth-world-lesson"], placements_by_chapter["assignment-bridge"])
+        self.assertIn("tenth-world-lesson", placements_by_chapter["assignment-bridge"])
         self.assertIn("realms", placements_by_chapter["threshold-transit-and-unstable-travel"])
-        self.assertEqual(["where-no-unicorn-stands"], placements_by_chapter["second-sky-kingdoms"])
-        self.assertEqual(["the-second-wearing"], placements_by_chapter["unassigned-heirloom"])
+        self.assertIn("where-no-unicorn-stands", placements_by_chapter["second-sky-kingdoms"])
+        self.assertIn("the-second-wearing", placements_by_chapter["unassigned-heirloom"])
         states_by_chapter = {
             chapter.id: chapter.magic_state for chapter in timeline.chapters
         }
         self.assertEqual("old-magic", states_by_chapter["all-accounts-due"])
         self.assertEqual("long-dark", states_by_chapter["ordinary-present-and-familiar-lives"])
         self.assertEqual("new-magic", states_by_chapter["joined-sky"])
-        state_counts = Counter(
-            chapter.magic_state
+        self.assertTrue(all(
+            chapter.magic_state in build.TIMELINE_MAGIC_STATES
             for chapter in timeline.chapters
-            for _ in (
-                *chapter.stories,
-                *(slug for group in chapter.constellations for slug in group.stories),
-            )
-        )
-        self.assertEqual(
-            {
-                "old-magic": 52,
-                "long-dark": 53,
-                "new-magic": 35,
-                "uncertain": 7,
-            },
-            dict(state_counts),
-        )
-        self.assertEqual(
-            {
-                "fixed": 6,
-                "inferred": 6,
-                "speculative": 53,
-                "unresolved": 82,
-            },
-            dict(Counter(timeline.story_confidence.values())),
-        )
+        ))
+        self.assertTrue(set(timeline.story_confidence.values()) <= build.PLACEMENT_CONFIDENCE)
+
+    def test_timeline_accepts_collection_growth_without_fixed_totals(self):
+        catalog = build.load_catalog()
+        extra = replace(catalog.stories[0], slug="additional-story")
+        expanded = build.Catalog((*catalog.stories, extra))
+        value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        value["chapters"][0]["stories"].append(extra.slug)
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "timeline.json"
+            path.write_text(json.dumps(value), encoding="utf-8")
+            timeline = build.load_timeline(expanded, path)
+        self.assertEqual(len(expanded.stories), len(timeline.story_confidence))
+        self.assertIn(extra.slug, timeline.chapters[0].stories)
 
     def test_timeline_rejects_duplicate_story_placement(self):
         catalog = build.load_catalog()
