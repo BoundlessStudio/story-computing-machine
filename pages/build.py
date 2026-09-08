@@ -1109,7 +1109,7 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
     else:
         from atlas import render
     return _page(
-        "The Worldline — An Atlas of Countless Beginnings", render(catalog, timeline),
+        "The Worldline — A Chronology of One World", render(catalog, timeline),
         "index.html", "timeline.html", "styles.css", "theme.js",
         current="timeline", script_href="timeline.js",
     )

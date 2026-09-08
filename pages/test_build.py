@@ -1,4 +1,5 @@
 import importlib.util
+import html
 import json
 import os
 import re
@@ -1476,25 +1477,49 @@ class StorySystemTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "repeats already placed stories"):
                 build.load_timeline(catalog, path)
 
-    def test_atlas_renders_individual_chronological_events_and_resolvable_connections(self):
+    def test_worldline_renders_one_chronology_with_native_era_disclosures(self):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
+        eras = [era for cycle in timeline.cycles for era in cycle.eras]
         self.assertEqual(len(catalog.stories), rendered.count('class="worldline-event '))
         self.assertEqual(len(catalog.stories), rendered.count('class="atlas-cover"'))
         self.assertEqual(len(timeline.cycles), rendered.count("data-cycle-section="))
-        self.assertEqual(sum(len(cycle.eras) for cycle in timeline.cycles), rendered.count("data-era-section="))
-        self.assertEqual(2 * sum(len(cycle.eras) for cycle in timeline.cycles), rendered.count("data-horizon-era="))
+        self.assertEqual(len(eras), rendered.count("data-era-section="))
+        self.assertEqual(len(eras), rendered.count('data-era-dialog'))
         self.assertEqual(len(timeline.connections), rendered.count("data-thread-kind="))
-        self.assertNotIn("Fixed anchor", rendered)
-        self.assertNotIn('data-position=', rendered)
         self.assertEqual(len(catalog.stories), rendered.count('Era placement proposed'))
-        self.assertNotIn("data-era-stop", rendered)
-        self.assertNotIn("reading cycle", rendered)
+        for obsolete in ('Fixed anchor', 'data-position=', 'data-horizon-era=',
+                         'Orbital cycle navigator', 'data-weave', 'data-depth-picker',
+                         'data-depth-history', 'data-atlas-state', 'data-atlas-cycle',
+                         'data-era-stop', 'reading cycle'):
+            self.assertNotIn(obsolete, rendered)
+        self.assertEqual(1, rendered.count('class="worldline" id="atlas-explore"'))
+        self.assertEqual(1, rendered.count('aria-label="The great ages"'))
         rendered_order = re.findall(r'<article class="worldline-event [^>]+id="story-([^" ]+)"', rendered)
         self.assertEqual([slug for cycle in timeline.cycles for slug in cycle.stories], rendered_order)
-        for story in catalog.stories:
-            self.assertIn(f'href="stories/{story.slug}.html"', rendered)
+        articles = dict(re.findall(r'<article class="worldline-event [^>]+id="story-([^" ]+)"[^>]*>(.*?)</article>', rendered, re.S))
+        for slug, article in articles.items():
+            with self.subTest(story=slug):
+                self.assertEqual(2, article.count(f'href="stories/{slug}.html"'))
+                self.assertIn('<details class="event-details" data-event-details><summary>', article)
+                moments = timeline.story_moments.get(slug, ())
+                self.assertEqual(bool(moments), f'id="depth-{slug}"' in article)
+                for moment in moments:
+                    self.assertIn(f'<li>{html.escape(moment, quote=True)}</li>', article)
+                if slug in timeline.story_spans:
+                    self.assertIn(html.escape(timeline.story_spans[slug].note, quote=True), article)
+        self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', rendered)))
+        for era in eras:
+            with self.subTest(era=era.id):
+                panel = rendered.split(f'<details class="history-era" id="era-{era.id}"', 1)[1].split('</dialog></details>', 1)[0]
+                self.assertIn('<summary class="era-stop">', panel)
+                self.assertIn(f'<dialog class="era-dialog" aria-labelledby="era-title-{era.id}" data-era-dialog>', panel)
+                self.assertIn(f'<h3 id="era-title-{era.id}">', panel)
+                self.assertEqual(list(era.stories), re.findall(r'data-story-slug="([^"]+)"', panel))
+                self.assertNotIn('<dialog open', panel)
+        self.assertIn('<details class="connections-library" id="atlas-threads"><summary>', rendered)
+        self.assertIn('data-connections-dialog aria-label="Connections across history"', rendered)
         ids = re.findall(r'\bid="([^" ]+)"', rendered)
         self.assertEqual(len(ids), len(set(ids)))
         for target in re.findall(r'href="#([^" ]+)"', rendered):
@@ -1502,18 +1527,43 @@ class StorySystemTests(unittest.TestCase):
         for label in ("Galactic Cycle", "spacing is schematic", "Direct connection", "Thematic echo", "Date unresolved"):
             self.assertIn(label, rendered)
         self.assertIn('role="status"', rendered)
-        self.assertIn('aria-label="Orbital cycle navigator"', rendered)
         self.assertIn('href="atlas.css"', rendered)
         self.assertIn("Life in this era", rendered)
         self.assertIn("regional stories may overlap in time", rendered)
         self.assertIn("May share a horizon with", rendered)
         self.assertIn("Historical hypothesis", rendered)
-        self.assertIn('data-weave', rendered)
-        self.assertIn('data-depth-picker', rendered)
-        self.assertIn('data-depth-history', rendered)
-        self.assertIn('a remembered event can reach beyond its story’s proposed era', rendered)
+        self.assertIn('A remembered event can reach beyond its story’s proposed era', rendered)
         without_spans = build.render_timeline(catalog, replace(timeline, story_spans={}))
-        self.assertNotIn('href="#atlas-depths"', without_spans)
+        self.assertNotIn('class="story-span"', without_spans)
+        self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', without_spans)))
+
+    def test_worldline_escapes_editorial_text_in_panels_and_search_attributes(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        unsafe = '\"><script>alert("history")</script> & <new era>'
+        escaped = html.escape(unsafe, quote=True)
+        first_cycle = timeline.cycles[0]
+        first_era = first_cycle.eras[0]
+        slug = first_era.stories[0]
+        catalog = replace(catalog, stories=tuple(replace(story, title=unsafe) if story.slug == slug else story
+                                                for story in catalog.stories))
+        altered_era = replace(first_era, title=unsafe, description=unsafe, context=(unsafe, unsafe))
+        altered_cycle = replace(first_cycle, title=unsafe, eras=(altered_era, *first_cycle.eras[1:]))
+        placements = dict(timeline.story_placements)
+        placements[slug] = replace(placements[slug], note=unsafe)
+        moments = dict(timeline.story_moments)
+        moments[slug] = (unsafe,)
+        connection = replace(timeline.connections[0], label=unsafe, note=unsafe)
+        altered = replace(timeline, cycles=(altered_cycle, *timeline.cycles[1:]), story_placements=placements,
+                          story_moments=moments, connections=(connection, *timeline.connections[1:]))
+        rendered = build.render_timeline(catalog, altered)
+        self.assertNotIn('<script>alert(', rendered)
+        self.assertNotIn('<new era>', rendered)
+        self.assertIn(f'aria-label="Read {escaped}"', rendered)
+        self.assertIn(f'<h3 id="era-title-{first_era.id}">{escaped}</h3>', rendered)
+        self.assertIn(f'<li>{escaped}</li>', rendered)
+        self.assertIn(f'<p>{escaped}</p>', rendered)
+        self.assertIn(f'data-search="{escaped} ', rendered)
 
     def test_contextual_eras_preserve_cohorts_and_separate_incompatible_rules(self):
         timeline = build.load_timeline(build.load_catalog())

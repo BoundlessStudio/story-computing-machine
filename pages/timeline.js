@@ -1,240 +1,174 @@
 (() => {
   const atlas = document.querySelector('[data-timeline]');
-  if (!atlas) return;
-  atlas.querySelectorAll('.atlas-controls, .thread-controls').forEach((controls) => { controls.hidden = false; });
-
-  const stories = [...atlas.querySelectorAll('.worldline-event')];
-  const details = [...atlas.querySelectorAll('[data-event-details]')];
+  if (!atlas || typeof HTMLDialogElement === 'undefined' || typeof HTMLDialogElement.prototype.showModal !== 'function') return;
+  atlas.classList.add('is-interactive');
+  const search = atlas.querySelector('[data-atlas-search]');
+  const feedback = atlas.querySelector('[data-search-feedback]');
+  const count = atlas.querySelector('[data-atlas-count]');
   const cycles = [...atlas.querySelectorAll('[data-cycle-section]')];
   const eras = [...atlas.querySelectorAll('[data-era-section]')];
-  const search = atlas.querySelector('[data-atlas-search]');
-  const state = atlas.querySelector('[data-atlas-state]');
-  const cyclePicker = atlas.querySelector('[data-atlas-cycle]');
-  const count = atlas.querySelector('[data-atlas-count]');
-  const fold = atlas.querySelector('[data-toggle-details]');
+  const stories = [...atlas.querySelectorAll('[data-story-slug]')];
   const threads = [...atlas.querySelectorAll('[data-thread-kind]')];
-  const threadButtons = [...atlas.querySelectorAll('[data-thread-filter]')];
-  const weave = atlas.querySelector('[data-weave]');
-  const routes = weave.querySelector('.weave-routes');
-  const bands = [...atlas.querySelectorAll('[data-horizon-era]')];
-  const overviewBands = [...weave.querySelectorAll('[data-horizon-era]')];
-  const readout = atlas.querySelector('[data-weave-readout]');
-  const defaultReadout = readout.textContent;
-  let threadKind = 'direct';
-  let highlightedEra = null;
-  let drawFrame;
-  const normalize = (value) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’‘]/g, "'");
+  const connections = atlas.querySelector('[data-connections-dialog]');
+  const threadFilters = [...atlas.querySelectorAll('[data-thread-filter]')];
+  let activeDialog = null;
+  let returnFocus = null;
+  let previousOverflow = '';
+  let connectionOrigin = null;
+  const normalize = value => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’‘]/g, "'");
 
-  atlas.querySelectorAll('[data-orbit-title]').forEach((link) => {
-    const describe = () => {
-      atlas.querySelector('[data-orbit-readout]').textContent = link.dataset.orbitTitle;
-      atlas.querySelector('[data-orbit-context]').textContent = link.dataset.orbitState;
-    };
-    link.addEventListener('pointerenter', describe);
-    link.addEventListener('focus', describe);
-  });
-
-  const updateFoldLabel = () => {
-    const visible = details.filter((detail) => !detail.closest('.worldline-event').hidden);
-    fold.textContent = visible.some((detail) => detail.open) ? 'Collapse story details' : 'Expand story details';
-    fold.disabled = !visible.length;
-  };
-
+  search.closest('label').hidden = false;
   function filterStories() {
-    [...cyclePicker.options].forEach((option) => {
-      option.disabled = option.value !== 'all' && state.value !== 'all' && option.dataset.magicState !== state.value;
+    const terms = normalize(search.value.trim()).split(/\s+/).filter(Boolean);
+    stories.forEach(story => { story.hidden = !terms.every(term => normalize(story.dataset.search).includes(term)); });
+    eras.forEach(era => {
+      const matches = [...era.querySelectorAll('[data-story-slug]')].filter(story => !story.hidden);
+      era.hidden = !matches.length;
+      const titles = era.querySelector('[data-era-matches]');
+      titles.hidden = !terms.length;
+      titles.textContent = matches.map(story => story.querySelector('h4').textContent.replace('↗', '').trim()).join(' · ');
+      era.querySelector('[data-era-count]').textContent = matches.length;
+      era.querySelector('[data-era-noun]').textContent = matches.length === 1 ? 'story' : 'stories';
     });
-    if (cyclePicker.selectedOptions[0]?.disabled) cyclePicker.value = 'all';
-    const query = normalize(search.value.trim());
-    const terms = query.split(/\s+/).filter(Boolean);
-    stories.forEach((story) => {
-      const cycle = story.closest('[data-cycle-section]');
-      story.hidden = !terms.every((term) => normalize(story.dataset.search).includes(term)) ||
-        (state.value !== 'all' && state.value !== cycle.dataset.magicState) ||
-        (cyclePicker.value !== 'all' && cyclePicker.value !== cycle.dataset.cycleSection);
+    cycles.forEach(cycle => { cycle.hidden = ![...cycle.querySelectorAll('[data-era-section]')].some(era => !era.hidden); });
+    atlas.querySelectorAll('[data-phase]').forEach(phase => {
+      phase.hidden = !cycles.some(cycle => !cycle.hidden && cycle.dataset.magicState === phase.dataset.phase);
     });
-    if (query) details.forEach((detail) => {
-      if (!detail.closest('.worldline-event').hidden) detail.open = true;
-    });
-    eras.forEach((era) => {
-      era.hidden = ![...era.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
-    });
-    const visibleEras = new Set(eras.filter((era) => !era.hidden).map((era) => era.dataset.eraSection));
-    bands.forEach((band) => band.classList.toggle('is-muted', !visibleEras.has(band.dataset.horizonEra)));
-    cycles.forEach((cycle) => {
-      cycle.hidden = ![...cycle.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
-    });
-    const total = stories.filter((story) => !story.hidden).length;
-    const totalCycles = cycles.filter((cycle) => !cycle.hidden).length;
-    const totalEras = eras.filter((era) => !era.hidden).length;
-    count.textContent = `${total} ${total === 1 ? 'story' : 'stories'} in ${totalEras} ${totalEras === 1 ? 'era' : 'eras'} across ${totalCycles} ${totalCycles === 1 ? 'cycle' : 'cycles'}`;
+    feedback.hidden = !terms.length;
+    const total = stories.filter(story => !story.hidden).length;
+    const eraCount = eras.filter(era => !era.hidden).length;
+    count.textContent = total + (total === 1 ? ' story in ' : ' stories in ') + eraCount + (eraCount === 1 ? ' era' : ' eras');
     atlas.querySelector('[data-atlas-empty]').hidden = total > 0;
-    updateFoldLabel();
   }
-
-  function resetStories() {
-    search.value = '';
-    state.value = 'all';
-    cyclePicker.value = 'all';
-    filterStories();
+  function clearSearch() { search.value = ''; filterStories(); }
+  function setHash(hash, replace = false) {
+    if (location.hash !== hash) history[replace ? 'replaceState' : 'pushState'](null, '', hash || location.pathname + location.search);
   }
-
-  function filterThreads(kind) {
-    threadKind = kind;
-    threads.forEach((thread) => { thread.hidden = kind !== 'all' && thread.dataset.threadKind !== kind; });
-    threadButtons.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.threadFilter === kind)));
-    const total = threads.filter((thread) => !thread.hidden).length;
-    atlas.querySelector('[data-thread-count]').textContent = `${total} ${total === 1 ? 'thread' : 'threads'}`;
-    const local = threads.filter((thread) => !thread.hidden && thread.dataset.fromEra === thread.dataset.toEra).length;
-    atlas.querySelector('[data-map-count]').textContent = `${total - local} connections between eras · ${local} local connections inside eras`;
-    scheduleRoutes();
+  function closeDialog(restoreFocus = true) {
+    if (!activeDialog) return;
+    const closing = activeDialog;
+    activeDialog = null;
+    closing.close();
+    closing.closest('details').open = false;
+    document.body.style.overflow = previousOverflow;
+    if (restoreFocus && returnFocus?.isConnected) returnFocus.focus({preventScroll: true});
   }
-
-  function highlightEra(eraId) {
-    highlightedEra = eraId;
-    const connected = new Set(eraId ? [eraId] : []);
-    threads.filter((thread) => !thread.hidden).forEach((thread) => {
-      if (eraId && [thread.dataset.fromEra, thread.dataset.toEra].includes(eraId)) {
-        connected.add(thread.dataset.fromEra);
-        connected.add(thread.dataset.toEra);
-      }
-    });
-    bands.forEach((band) => band.classList.toggle('is-connected', connected.has(band.dataset.horizonEra)));
-    routes.classList.toggle('has-selection', Boolean(eraId));
-    [...routes.querySelectorAll('a')].forEach((link) => {
-      link.classList.toggle('is-connected', Boolean(eraId && [link.dataset.fromEra, link.dataset.toEra].includes(eraId)));
-    });
+  function showDialog(dialog, trigger) {
+    if (activeDialog === dialog) return;
+    closeDialog(false);
+    returnFocus = trigger || dialog.closest('details').querySelector('summary');
+    dialog.closest('details').open = true;
+    previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    activeDialog = dialog;
+    dialog.showModal();
+    dialog.scrollTop = 0;
+    dialog.querySelector('[data-dialog-close]').focus({preventScroll: true});
   }
-
-  function drawRoutes() {
-    const surface = weave.getBoundingClientRect();
-    if (!surface.width || !surface.height) return;
-    routes.setAttribute('viewBox', `0 0 ${surface.width} ${surface.height}`);
-    const boxes = new Map(overviewBands.map((band) => [band.dataset.horizonEra, band.getBoundingClientRect()]));
-    routes.replaceChildren();
-    threads.forEach((thread, index) => {
-      const from = thread.dataset.fromEra;
-      const to = thread.dataset.toEra;
-      if (from === to || (threadKind !== 'all' && thread.dataset.threadKind !== threadKind)) return;
-      const source = boxes.get(from);
-      const target = boxes.get(to);
-      if (!source || !target) return;
-      const x1 = source.left - surface.left + Math.min(12, source.width / 2);
-      const y1 = source.top - surface.top + source.height / 2;
-      const x2 = target.left - surface.left + Math.min(12, target.width / 2);
-      const y2 = target.top - surface.top + target.height / 2;
-      const bend = Math.max(4, Math.min(x1, x2) - 28 - (index % 4) * 8);
-      const link = document.createElementNS('http://www.w3.org/2000/svg', 'a');
-      link.setAttribute('href', `#${thread.id}`);
-      link.setAttribute('aria-label', `${thread.dataset.threadLabel}: read connection notes`);
-      link.setAttribute('class', thread.dataset.threadKind);
-      link.dataset.fromEra = from;
-      link.dataset.toEra = to;
-      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-      path.setAttribute('d', `M${x1},${y1} C${bend},${y1} ${bend},${y2} ${x2},${y2}`);
-      const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-      title.textContent = thread.dataset.threadLabel;
-      link.append(title, path);
-      link.addEventListener('pointerenter', () => { readout.textContent = thread.dataset.threadLabel; });
-      link.addEventListener('focus', () => { readout.textContent = thread.dataset.threadLabel; });
-      routes.append(link);
-    });
-    highlightEra(highlightedEra);
+  function showEra(era, trigger) {
+    const dialog = era.querySelector('[data-era-dialog]');
+    showDialog(dialog, trigger);
+    const available = eras.filter(item => !item.hidden);
+    const index = available.indexOf(era);
+    dialog.querySelector('[data-era-prev]').disabled = index <= 0;
+    dialog.querySelector('[data-era-next]').disabled = index >= available.length - 1;
   }
-
-  function scheduleRoutes() {
-    cancelAnimationFrame(drawFrame);
-    drawFrame = requestAnimationFrame(drawRoutes);
+  function filterThreads(kind = 'all', id = null) {
+    threads.forEach(thread => { thread.hidden = id ? thread.id !== id : kind !== 'all' && thread.dataset.threadKind !== kind; });
+    threadFilters.forEach(button => button.setAttribute('aria-pressed', String(!id && button.dataset.threadFilter === kind)));
+    connections.querySelector('.thread-controls').hidden = Boolean(id);
+    connections.querySelector('[data-all-connections]').hidden = !id;
   }
-
-  bands.forEach((band) => {
-    const describe = () => {
-      readout.textContent = `${band.dataset.eraTitle}. ${band.dataset.eraDescription}`;
-      highlightEra(band.dataset.horizonEra);
-    };
-    const clear = () => { highlightEra(null); readout.textContent = defaultReadout; };
-    band.addEventListener('pointerenter', describe);
-    band.addEventListener('focus', describe);
-    band.addEventListener('pointerleave', clear);
-    band.addEventListener('blur', clear);
-  });
-  if ('ResizeObserver' in window) new ResizeObserver(scheduleRoutes).observe(weave);
-  window.addEventListener('resize', scheduleRoutes);
-  document.fonts?.ready.then(scheduleRoutes);
-
-  const depthPicker = atlas.querySelector('[data-depth-picker]');
-  const depthHistories = [...atlas.querySelectorAll('[data-depth-history]')];
-  function selectDepth(id) {
-    if (!depthPicker || !depthHistories.some((panel) => panel.id === id)) return;
-    depthPicker.value = id;
-    depthHistories.forEach((panel) => {
-      panel.hidden = panel.id !== id;
-      panel.classList.toggle('is-selected', panel.id === id);
-      panel.open = panel.id === id;
-    });
-  }
-  if (depthPicker) {
-    depthPicker.closest('label').hidden = false;
-    depthPicker.addEventListener('change', () => {
-      selectDepth(depthPicker.value);
-      history.replaceState(null, '', `#${depthPicker.value}`);
-    });
-    selectDepth(depthPicker.value);
-  }
-
-  function revealFragment(hash, moveFocus = false) {
+  function reveal(hash, focus = true) {
     let id;
     try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
     const target = document.getElementById(id);
-    if (!target) return;
-    if (target.matches('[data-depth-history]')) selectDepth(id);
-    if (target.closest('[data-cycle-section]')) {
-      resetStories();
-      const detail = target.closest('.worldline-event')?.querySelector('[data-event-details]');
-      if (detail) detail.open = true;
+    if (!target) { closeDialog(); return; }
+    const era = target.closest('[data-era-section]');
+    if (era) {
+      if (era.hidden || target.closest('[data-story-slug]')?.hidden) clearSearch();
+      showEra(era);
+      const story = target.closest('[data-story-slug]');
+      if (story) {
+        story.querySelector('[data-event-details]').open = true;
+        requestAnimationFrame(() => {
+          story.setAttribute('tabindex', '-1');
+          story.focus({preventScroll: true});
+          story.scrollIntoView({block: 'start'});
+        });
+      }
+      return;
     }
-    if (target.matches('[data-thread-kind]')) filterThreads('all');
-    if (moveFocus) requestAnimationFrame(() => {
+    if (target.matches('[data-thread-kind]') || target.id === 'atlas-threads') {
+      if (activeDialog !== connections) {
+        connectionOrigin = activeDialog?.matches('[data-era-dialog]')
+          ? document.activeElement.closest('[data-story-slug]') || activeDialog.closest('[data-era-section]') : null;
+      }
+      filterThreads('all', target.matches('[data-thread-kind]') ? target.id : null);
+      showDialog(connections);
+      connections.querySelector('[data-dialog-close]').textContent = connectionOrigin ? '← Back to the era' : '← Back to the timeline';
+      return;
+    }
+    closeDialog(false);
+    if (target.closest('[data-cycle-section]') || target.matches('[data-phase]')) clearSearch();
+    if (focus) {
       target.setAttribute('tabindex', '-1');
-      target.focus({ preventScroll: true });
-      target.scrollIntoView({ block: 'start' });
-    });
-  }
-
-  search.addEventListener('input', filterStories);
-  state.addEventListener('change', filterStories);
-  cyclePicker.addEventListener('change', filterStories);
-  atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { resetStories(); search.focus(); });
-  fold.addEventListener('click', () => {
-    const visible = details.filter((detail) => !detail.closest('.worldline-event').hidden);
-    const shouldOpen = !visible.some((detail) => detail.open);
-    visible.forEach((detail) => { detail.open = shouldOpen; });
-    updateFoldLabel();
-  });
-  details.forEach((detail) => detail.addEventListener('toggle', updateFoldLabel));
-  threadButtons.forEach((button) => button.addEventListener('click', () => filterThreads(button.dataset.threadFilter)));
-
-  atlas.addEventListener('click', (event) => {
-    const link = event.target.closest('a[href^="#"]');
-    if (link && !event.ctrlKey && !event.metaKey && !event.shiftKey && !event.altKey) {
-      revealFragment(link.getAttribute('href'), true);
+      target.focus({preventScroll: true});
+      target.scrollIntoView({block: 'start'});
     }
-  });
-  window.addEventListener('hashchange', () => revealFragment(location.hash, true));
-  revealFragment(location.hash, Boolean(location.hash));
-  filterThreads(location.hash.startsWith('#thread-') ? 'all' : 'direct');
-
-  if ('IntersectionObserver' in window) {
-    const links = [...atlas.querySelectorAll('[data-cycle-link]')];
-    const observer = new IntersectionObserver((entries) => {
-      const active = entries.find((entry) => entry.isIntersecting);
-      if (!active) return;
-      atlas.querySelector('[data-atlas-location]').textContent = active.target.querySelector('h2').textContent;
-      links.forEach((link) => {
-        if (link.dataset.cycleLink === active.target.dataset.cycleSection) link.setAttribute('aria-current', 'location');
-        else link.removeAttribute('aria-current');
-      });
-    }, { rootMargin: '-10% 0px -75% 0px', threshold: 0 });
-    cycles.forEach((cycle) => observer.observe(cycle));
   }
+  eras.forEach(era => {
+    const summary = era.querySelector('.era-stop');
+    summary.addEventListener('click', event => {
+      event.preventDefault();
+      setHash('#' + era.id);
+      showEra(era, summary);
+    });
+    ['prev', 'next'].forEach(direction => {
+      era.querySelector('[data-era-' + direction + ']').addEventListener('click', () => {
+        const available = eras.filter(item => !item.hidden);
+        const next = available[available.indexOf(era) + (direction === 'prev' ? -1 : 1)];
+        if (next) { setHash('#' + next.id); showEra(next); }
+      });
+    });
+  });
+  atlas.querySelector('.connections-library > summary').addEventListener('click', event => {
+    event.preventDefault(); setHash('#atlas-threads'); reveal('#atlas-threads');
+  });
+  atlas.querySelectorAll('dialog').forEach(dialog => {
+    const leave = () => {
+      if (dialog === connections && connectionOrigin) {
+        const origin = connectionOrigin;
+        connectionOrigin = null;
+        closeDialog(false);
+        setHash('#' + origin.id, true);
+        reveal('#' + origin.id);
+        return;
+      }
+      const era = dialog.closest('[data-era-section]');
+      closeDialog();
+      setHash(era ? '#' + era.closest('[data-cycle-section]').id : '#atlas-explore', true);
+    };
+    dialog.querySelector('[data-dialog-close]').addEventListener('click', leave);
+    dialog.addEventListener('cancel', event => { event.preventDefault(); leave(); });
+    dialog.addEventListener('click', event => {
+      if (event.target !== dialog) return;
+      const box = dialog.getBoundingClientRect();
+      if (event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom) leave();
+    });
+  });
+  connections.querySelector('[data-all-connections]').addEventListener('click', () => { filterThreads(); setHash('#atlas-threads', true); connections.scrollTop = 0; });
+  threadFilters.forEach(button => button.addEventListener('click', () => filterThreads(button.dataset.threadFilter)));
+  atlas.addEventListener('click', event => {
+    const link = event.target.closest('a[href^="#"]');
+    if (!link || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    setHash(link.hash);
+    reveal(link.hash);
+  });
+  search.addEventListener('input', filterStories);
+  atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { clearSearch(); search.focus(); });
+  window.addEventListener('popstate', () => reveal(location.hash));
+  window.addEventListener('hashchange', () => reveal(location.hash));
+  reveal(location.hash, Boolean(location.hash));
 })();
