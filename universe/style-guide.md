@@ -177,15 +177,49 @@
     passing stories, or all available when fewer than six exist. Materially
     transplantable reasoning, relationship action, or ending gestures block
     through the same single Dialogue verdict; similarity that the prompt
-    genuinely earns does not. After each ten completed 08-23 CREATE stories,
-    run a no-artifact rolling collection audit of media, competence structures,
-    workplace triads, reasoning patterns, humor levels, and ending gestures, and
-    feed only a compact anti-default brief into the next outline.
+    genuinely earns does not. Broader advisory audits follow
+    [Collection variation](#collection-variation); selection, timing, and the
+    compact outline handoff belong to
+    [Collection context](../.agents/skills/story-create/SKILL.md#collection-context).
   - A replacement begins from an absent target and a clean CREATE scaffold. It
     preserves all prior user-authored prompt/request text, the new request, and accessible external
     references, but it does not inherit prior outline, prose, review, or cover.
     Prospective craft defaults and the full recent-story comparison apply to the
     new work as ordinary CREATE production.
+
+## Collection variation
+
+- Status: CANON
+- Summary: Compare character transformations, dialogue, and emotional
+  destinations across completed stories, then use supported patterns to widen
+  the possibilities considered for future work.
+- First established: user decision, 2026-09-07
+- Aliases: None
+- Notes:
+  - Apply prospectively to CREATE planning and completed-batch audits. Preserve
+    recorded craft profiles and review thresholds; an audit neither reopens a
+    completed story nor authorizes edits, unlocks, or a new rejection gate.
+  - Trace focal attachment or contradiction, pressure, decisive change or
+    refusal to change, and consequences. Compare the relation between those
+    elements across stories, not just their settings, props, or climax venues.
+    A shared ethic can recur without requiring the same character lesson.
+  - Keep dialogue explicit: scene-grounded setup and reply, knowledge and
+    listener uptake, distinct ways of thinking, rhetorical ownership, ordinary
+    speech, humor, and what exchanges change between participants. Look across
+    major and final exchanges for repeated polished arguments, explanatory
+    choruses, negotiation routines, or reconciliation scripts. Include
+    non-spoken media, competence structures, workplace triads, and humor levels.
+    Surface voice differences and individual Dialogue PASS verdicts do not
+    establish collection variety; existing semantic coherence gates still come
+    before stylistic judgments.
+  - Distinguish a closing gesture from its emotional destination and remaining
+    cost or uncertainty. Different activities can all restore the same kind of
+    connection; similar gestures can carry very different consequences.
+  - Judge recurrence against the prompts and genres before calling it a limiting
+    default. Preserve earned warmth, eloquence, directness, natural humor, and
+    reconciliation. Seek more possibilities where the prompt allows them; do
+    not impose tragedy, unresolved conflict, awkward speech, novelty quotas, or
+    a predetermined distribution of endings.
 
 ## Tonal range, scale, and connection
 

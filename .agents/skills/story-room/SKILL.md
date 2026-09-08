@@ -68,10 +68,13 @@ becoming another canon brief.
 
 Read only the Story design sections of the recent outlines supplied under
 [Collection context](../story-create/SKILL.md#collection-context). Use these and
-any compact audit brief to avoid repeating movement, climax venue, collective
-turn, and ending gesture. Never open their Voice sections or prose, reproduce
-the brief as a new section, or treat comparisons as canon. Return a one-sentence
-change report.
+any compact audit brief to consider the style guide's
+[collection variation](../../../universe/style-guide.md#collection-variation)
+questions alongside movement, climax venue, and collective turn. Make useful
+choices within the existing Story, Beats, and Anti-default fields, without
+scripting dialogue or an ending to satisfy the brief. Never open prior Voice
+sections or prose, reproduce the brief as a new section, or treat comparisons
+as canon. Return a one-sentence change report.
 
 ## REVIEW
 
@@ -122,6 +125,8 @@ to confirm PASS and only the bounded prose passages plus adjacent action needed;
 never prior outlines or Voice capsules. Apply the style guide's collection
 interchangeability standard. This is the sole exception to unrelated-history
 limits; do not expose the passages to the outliner/writer.
+The coordinator's broader collection audit is prospective planning guidance;
+it does not add a verdict or expand the active profile's blocking thresholds.
 
 Follow the template exactly, using one declaration of each verdict:
 
