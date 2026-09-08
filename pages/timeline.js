@@ -3,14 +3,14 @@
   if (!atlas) return;
   atlas.querySelectorAll('.atlas-controls, .thread-controls').forEach((controls) => { controls.hidden = false; });
 
-  const stories = [...atlas.querySelectorAll('.atlas-story')];
-  const eras = [...atlas.querySelectorAll('[data-era-stop]')];
+  const stories = [...atlas.querySelectorAll('.worldline-event')];
+  const details = [...atlas.querySelectorAll('[data-event-details]')];
   const cycles = [...atlas.querySelectorAll('[data-cycle-section]')];
   const search = atlas.querySelector('[data-atlas-search]');
   const state = atlas.querySelector('[data-atlas-state]');
   const cyclePicker = atlas.querySelector('[data-atlas-cycle]');
   const count = atlas.querySelector('[data-atlas-count]');
-  const fold = atlas.querySelector('[data-collapse-eras]');
+  const fold = atlas.querySelector('[data-toggle-details]');
   const threads = [...atlas.querySelectorAll('[data-thread-kind]')];
   const threadButtons = [...atlas.querySelectorAll('[data-thread-filter]')];
   const normalize = (value) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’‘]/g, "'");
@@ -25,8 +25,8 @@
   });
 
   const updateFoldLabel = () => {
-    const visible = eras.filter((era) => !era.hidden);
-    fold.textContent = visible.some((era) => era.open) ? 'Fold all eras' : 'Unfold all eras';
+    const visible = details.filter((detail) => !detail.closest('.worldline-event').hidden);
+    fold.textContent = visible.some((detail) => detail.open) ? 'Collapse story details' : 'Expand story details';
     fold.disabled = !visible.length;
   };
 
@@ -37,23 +37,21 @@
     if (cyclePicker.selectedOptions[0]?.disabled) cyclePicker.value = 'all';
     const query = normalize(search.value.trim());
     const terms = query.split(/\s+/).filter(Boolean);
-    const filtering = Boolean(query || state.value !== 'all' || cyclePicker.value !== 'all');
     stories.forEach((story) => {
       const cycle = story.closest('[data-cycle-section]');
       story.hidden = !terms.every((term) => normalize(story.dataset.search).includes(term)) ||
         (state.value !== 'all' && state.value !== cycle.dataset.magicState) ||
         (cyclePicker.value !== 'all' && cyclePicker.value !== cycle.dataset.cycleSection);
     });
-    eras.forEach((era) => {
-      era.hidden = filtering && ![...era.querySelectorAll('.atlas-story')].some((story) => !story.hidden);
-      if (filtering && !era.hidden) era.open = true;
+    if (query) details.forEach((detail) => {
+      if (!detail.closest('.worldline-event').hidden) detail.open = true;
     });
     cycles.forEach((cycle) => {
-      cycle.hidden = ![...cycle.querySelectorAll('[data-era-stop]')].some((era) => !era.hidden);
+      cycle.hidden = ![...cycle.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
     });
     const total = stories.filter((story) => !story.hidden).length;
     const totalCycles = cycles.filter((cycle) => !cycle.hidden).length;
-    count.textContent = `${total} ${total === 1 ? 'story' : 'stories'} across ${totalCycles} reading ${totalCycles === 1 ? 'cycle' : 'cycles'}`;
+    count.textContent = `${total} ${total === 1 ? 'story' : 'stories'} across ${totalCycles} ${totalCycles === 1 ? 'cycle' : 'cycles'}`;
     atlas.querySelector('[data-atlas-empty]').hidden = total > 0;
     updateFoldLabel();
   }
@@ -79,8 +77,8 @@
     if (!target) return;
     if (target.closest('[data-cycle-section]')) {
       resetStories();
-      const era = target.closest('[data-era-stop]');
-      if (era) era.open = true;
+      const detail = target.closest('.worldline-event')?.querySelector('[data-event-details]');
+      if (detail) detail.open = true;
     }
     if (target.matches('[data-thread-kind]')) filterThreads('all');
     if (moveFocus) requestAnimationFrame(() => {
@@ -95,12 +93,12 @@
   cyclePicker.addEventListener('change', filterStories);
   atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { resetStories(); search.focus(); });
   fold.addEventListener('click', () => {
-    const visible = eras.filter((era) => !era.hidden);
-    const shouldOpen = !visible.some((era) => era.open);
-    visible.forEach((era) => { era.open = shouldOpen; });
+    const visible = details.filter((detail) => !detail.closest('.worldline-event').hidden);
+    const shouldOpen = !visible.some((detail) => detail.open);
+    visible.forEach((detail) => { detail.open = shouldOpen; });
     updateFoldLabel();
   });
-  eras.forEach((era) => era.addEventListener('toggle', updateFoldLabel));
+  details.forEach((detail) => detail.addEventListener('toggle', updateFoldLabel));
   threadButtons.forEach((button) => button.addEventListener('click', () => filterThreads(button.dataset.threadFilter)));
 
   atlas.addEventListener('click', (event) => {

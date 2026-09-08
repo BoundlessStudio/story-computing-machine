@@ -1,1029 +1,959 @@
 {
-  "schemaVersion": 4,
-  "chapters": [
+  "schemaVersion": 5,
+  "cycles": [
     {
-      "id": "ancient-guardians",
+      "id": "cycle-01-furthest-remembered",
+      "title": "The Furthest Remembered",
+      "eyebrow": "Old history · proposed turn 1",
       "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The World Before Its Maps",
-      "title": "Ancient Guardians",
-      "description": "A guardian crosses a living boundary; a dragon faces an ending. The age of the beings exceeds what their witnesses can measure.",
-      "sequenceNote": "An old-magic reading proposal. Ancient beings do not prove that either story predates kingdoms, or that the two share an origin.",
-      "confidence": "unresolved",
+      "description": "The furthest represented past already has old guardians, towns, schools and governments. A village gift and a magical champion occupy different reaches; urban life is ancient here too.",
+      "sequenceNote": "First represented turn, not the world's origin. Local centuries remain inside their stories; the order between independent societies is proposed.",
       "stories": [
         "where-the-white-elk-went",
-        "the-last-flames"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "first-gifts-and-compacts",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The World Before Its Maps",
-      "title": "Gifts That Become Custom",
-      "description": "A village mage, a heroic calling, and a ninety-year barrier show small communities living with long responsibilities.",
-      "sequenceNote": "Independent magical customs, provisionally read in old history. Neither a common first gift nor an internal date order is established.",
-      "confidence": "unresolved",
-      "stories": [
         "the-villages-only-mage",
-        "the-lions-last-constellation",
-        "the-ninety-year-barrier"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "old-towers-and-first-guests",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The World Before Its Maps",
-      "title": "Towers, Guests & Long Waits",
-      "description": "A first guest and a dream carried across a sixty-year separation bring company to old, isolated dwellings.",
-      "sequenceNote": "The dream imprisonment belongs before extinction; hospitality and architecture alone do not date the other story.",
-      "confidence": "unresolved",
-      "stories": [
-        "tea-for-the-first-guest",
-        "a-knock-in-someone-elses-sleep"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "roads-markets-and-living-doors",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The World Before Its Maps",
-      "title": "Roads, Markets & Living Doors",
-      "description": "Trade, repair, shelter circuits, and bearer-powered crossings let wonder travel between communities.",
-      "sequenceNote": "A civic-road phase fit; the doors and markets are not one system.",
-      "confidence": "unresolved",
-      "stories": [
+        "blood-types-of-immortality",
+        "never-a-mascot",
         "a-little-winter-for-sale",
-        "the-door-knows-home",
-        "clerics-infernal-ex"
-      ],
-      "constellations": []
+        "the-lions-last-constellation",
+        "fourth-house",
+        "the-friends-i-built",
+        "a-crown-of-quiet-hours",
+        "the-door-knows-home"
+      ]
     },
     {
-      "id": "founding-legends",
+      "id": "cycle-02-second-horizon",
+      "title": "The Second Horizon",
+      "eyebrow": "Old history · proposed turn 2",
       "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Weather of Crowns",
-      "title": "Founding Legends",
-      "description": "Commoners, impossible champions, and returned royal signs become the stories kingdoms build upon.",
-      "sequenceNote": "Grouped by founding scale rather than one dynasty or continent.",
-      "confidence": "unresolved",
+      "description": "Another kingdom and a modern sky crowded with magical girls precede communities living beside much older powers. That public modernity has a distant place before Northbridge and the Bay.",
+      "sequenceNote": "Not About That begins the longer proposed magical-girl chronology here. Its distance from Northbridge is editorial, not a dated institutional lineage.",
       "stories": [
         "the-kingdom-of-later",
-        "never-a-mascot",
-        "when-the-eagle-bowed"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "succession-and-broken-prophecy",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Weather of Crowns",
-      "title": "Succession & Broken Prophecy",
-      "description": "Vacant thrones, divided heirs, altered sisters, and refused futures make succession unstable.",
-      "sequenceNote": "These succession crises share a political maturity, not a family tree.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-vacant-throne",
-        "the-sister-behind-her-smile",
-        "the-future-that-refused-us",
-        "the-bride-who-came-back"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "dragon-polities",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Weather of Crowns",
-      "title": "Dragon Polities",
-      "description": "Dragon allies, rotating royal offices, and a collective divine guise create three independent arrangements for rule.",
-      "sequenceNote": "These are parallel dragon governments. The Crown of Quiet Hours and The Peace They Could Sleep Through share neither an established cast nor a sequel relationship.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-gentlest-terror",
-        "a-crown-of-quiet-hours",
-        "the-peace-they-could-sleep-through"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "the-ninepin-compact",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Weather of Crowns",
-      "title": "The Ninepin Compact",
-      "description": "A king can move a table with scar-lattice strength; a road-marshal can move an army only with food, time, and human agreements.",
-      "sequenceNote": "The established Ninepin chronology places this campaign before No More Magic. Its scar-lattice power excludes the Long Dark; its relation to other kingdoms is undated.",
-      "confidence": "fixed",
-      "stories": [
-        "strength-of-ten"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "saints-demons-and-monster-sanctuaries",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Weather of Crowns",
-      "title": "Saints, Demons & Monster Sanctuaries",
-      "description": "Religious office, forbidden love, monster refuge, and merciful power contest who deserves protection.",
-      "sequenceNote": "Sacred and monstrous labels are local; the stories establish no universal theology.",
-      "confidence": "unresolved",
-      "stories": [
-        "mother-of-monsters",
-        "the-shape-of-mercy",
-        "saint-and-demon",
-        "head-priests-in-love"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "healers-blood-and-bounded-bodies",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Hands That Made the World",
-      "title": "Healers, Blood & Bounded Bodies",
-      "description": "Blood, training, injury, justice, and the limits of repair become practical responsibilities in independent healing cultures.",
-      "sequenceNote": "A mature healing culture fit; the practices remain locally bounded.",
-      "confidence": "unresolved",
-      "stories": [
-        "blood-types-of-immortality",
-        "the-thousandth-fall",
-        "the-healers-measure",
-        "the-seventh-night"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "guilds-gods-and-repair",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Hands That Made the World",
-      "title": "Guilds, Gods & Repair",
-      "description": "Legendary makers and accidental civic divinity turn magical competence into public responsibility.",
-      "sequenceNote": "The shared fit is professionalized power, not one guild or pantheon.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-last-thing-i-could-fix",
-        "fifty-seven-minutes",
-        "where-it-hurts"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "perfumed-manners",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Independent era pocket · The Hands That Made the World",
-      "title": "Perfumed Manners",
-      "description": "A protective fragrance changes the private rules of friendship at a birthday reception.",
-      "sequenceNote": "Placed in the old magic-active history; its relation to neighboring stories and named eras is unresolved.",
-      "confidence": "unresolved",
-      "stories": [
-        "a-note-of-spite"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "schools-houses-and-classification",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Hands That Made the World",
-      "title": "Schools, Houses & Classification",
-      "description": "Magic is sorted into houses, examinations, assessments, and institutions that can be challenged.",
-      "sequenceNote": "A shared institutional phase; the schools and classifications are independent.",
-      "confidence": "unresolved",
-      "stories": [
-        "fourth-house",
         "the-weight-of-falling-up-rune-shoes",
-        "an-ordinary-education"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "colleges-and-apprenticeship-reform",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Independent era pocket · The Hands That Made the World",
-      "title": "Colleges & Apprenticeship Reform",
-      "description": "Kethra's qualification and later apprenticeship preserve a local sequence inside institutional magecraft.",
-      "sequenceNote": "Only the relationship between these two stories is linked; the wider era remains a fit.",
-      "confidence": "inferred",
-      "stories": [
-        "voice-of-silence",
-        "a-lock-on-the-inside"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "arcane-infrastructure-and-engineered-peril",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Hands That Made the World",
-      "title": "Arcane Infrastructure & Engineered Peril",
-      "description": "An unfinished sunset, a hostile system, and a labyrinth turn the use of unusual power into practical work.",
-      "sequenceNote": "An old-magic engineering proposal. The stories do not share an inventor, a technology lineage, or a demonstrated sequence.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-unfinished-sunset",
-        "what-i-hate-most",
-        "the-way-around"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "old-modern-age",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · A Sky Full of Lives",
-      "title": "The Old Modern Age",
-      "description": "A populated magical-girl sky, Northbridge mutual aid, the Battle of the Bay, and a false survivor identification make an intentionally connected reading arc.",
-      "sequenceNote": "The intended reading sequence gives Not About That → Bay and Attendance Ledger → Help Network → Bay → Dress → Count. Northbridge and the crowded-sky story have no established order between them; only the Bay-to-Glass-Sea relation is established shared chronology.",
-      "confidence": "inferred",
-      "stories": [
         "not-about-that",
+        "fifty-seven-minutes",
+        "the-gentlest-terror",
+        "mother-of-monsters",
+        "the-name-the-water-took",
+        "tea-for-the-first-guest",
+        "the-morning-her-hand-moved",
+        "the-ninety-year-barrier"
+      ]
+    },
+    {
+      "id": "cycle-03-long-afterlight",
+      "title": "The Long Afterlight",
+      "eyebrow": "Old history · proposed turn 3",
+      "magicState": "old-magic",
+      "description": "Royal inheritances, engineered wonders and laboratory lives precede the quieter modernity reached by Nell and Bash. Their ordinary-looking world occupies one reach of a much older, uneven magical history.",
+      "sequenceNote": "Nell and Bash's material endpoint precedes the Glass Sea. Ravel keeps its unresolved coordinate; its temporal crossing is not flattened into this cycle.",
+      "stories": [
+        "when-the-eagle-bowed",
+        "the-shape-of-mercy",
+        "the-unfinished-sunset",
+        "the-last-thing-i-could-fix",
+        "a-note-of-spite",
+        "an-ordinary-education",
+        "clerics-infernal-ex",
+        "the-small-moon-rose-first",
+        "every-flower-she-knew",
+        "a-crown-for-the-endless-fire"
+      ]
+    },
+    {
+      "id": "cycle-04-returning-years",
+      "title": "The Returning Years",
+      "eyebrow": "Old history · proposed turn 4",
+      "magicState": "old-magic",
+      "description": "New courts and teaching traditions share a proposed turn with Northbridge's magical girls. Kethra's episodes keep one human-scale sequence; Northbridge's three-afternoon continuation keeps another.",
+      "sequenceNote": "Distinct local sequences within a proposed turn. Northbridge is placed after the earlier crowded sky and before the Bay without inventing a shared organization or surviving cast.",
+      "stories": [
+        "the-sister-behind-her-smile",
+        "voice-of-silence",
+        "a-lock-on-the-inside",
+        "the-second-wearing",
         "the-attendance-ledger",
         "the-help-network",
+        "the-thousandth-fall",
+        "saint-and-demon",
+        "the-night-harvest"
+      ]
+    },
+    {
+      "id": "cycle-05-bay-centuries",
+      "title": "The Bay and Its Centuries",
+      "eyebrow": "Old history · proposed turn 5",
+      "magicState": "old-magic",
+      "description": "Older bargains and training histories give way to the Bay's local arc. The battle, false survivor claim and centuries-later museum occupy separate points, followed by other proposed histories before the Glass Sea.",
+      "sequenceNote": "Bay, Dress and Count remain in one cycle: their interval is local centuries, not successive galactic orbits. Count's pre-extinction side is proposed; its centuries-after-Bay relation is explicit.",
+      "stories": [
+        "the-peace-they-could-sleep-through",
+        "the-healers-measure",
+        "head-priests-in-love",
         "solstice-evening-bell",
-        "the-dress-they-brought-her"
-      ],
-      "constellations": []
+        "the-dress-they-brought-her",
+        "the-count-was-131072",
+        "stay-out-of-my-city",
+        "the-bride-who-came-back",
+        "the-future-that-refused-us"
+      ]
     },
     {
-      "id": "brackenport-truce",
+      "id": "cycle-06-last-old-turn",
+      "title": "The Last Old Turn",
+      "eyebrow": "Old history · proposed turn 6",
       "magicState": "old-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · A Sky Full of Lives",
-      "title": "Nine Years of Harbor Peace",
-      "description": "A parent stops a harbor confrontation, then faces the limits of that protection when his daughter leaves nine years later.",
-      "sequenceNote": "The local nine-year interval is explicit. Old-modern placement is editorial; no demonstrated link joins Brackenport to the Bay or Northbridge.",
-      "confidence": "unresolved",
+      "description": "The Glass Sea follows the earlier modernities. Kingdoms, private curses, a long imprisonment and Faris's thirty-one-year accumulation occupy separate reaches of the final represented old turn.",
+      "sequenceNote": "The Daughter's four-century history and Ninepin's pre-extinction campaign precede All Accounts Due. The boundary ends old magic; none of these systems is carried through the zero.",
       "stories": [
-        "stay-out-of-my-city"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "glass-sea-age",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "hinge",
-      "eyebrow": "Fixed boundary · The Sun’s Long Afterlife",
-      "title": "The Glass-Sea Age",
-      "description": "The Day of Glass begins a four-century regional aftermath that ends with a second dawn.",
-      "sequenceNote": "Long after the Nell and Bash modernity and after the Battle of the Bay. The Day of Glass and second dawn are separated by four centuries; neither dates unrelated kingdoms.",
-      "confidence": "fixed",
-      "stories": [
-        "daughter-of-the-sun"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "all-accounts-due",
-      "magicState": "old-magic",
-      "ordered": false,
-      "type": "hinge",
-      "eyebrow": "Fixed boundary · The Last Convergence",
-      "title": "All Accounts Due",
-      "description": "Every old magic-active material history reaches one hard stop. Six systems fall permanently to zero.",
-      "sequenceNote": "Fixed extinction boundary: no powered remnant crosses into the Long Dark.",
-      "confidence": "fixed",
-      "stories": [
+        "the-vacant-throne",
+        "strength-of-ten",
+        "where-it-hurts",
+        "daughter-of-the-sun",
+        "the-seventh-night",
+        "what-i-hate-most",
+        "the-way-around",
+        "the-last-flames",
+        "a-knock-in-someone-elses-sleep",
         "all-accounts-due"
-      ],
-      "constellations": []
+      ]
     },
     {
-      "id": "bodies-outside-the-old-measure",
+      "id": "cycle-07-first-unlit",
+      "title": "The First Unlit Turn",
+      "eyebrow": "The Long Dark · proposed turn 7",
       "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Crowns in the Material World",
-      "title": "Bodies Outside the Old Measure",
-      "description": "Caravans, serpentfolk, and dungeon survivors inhabit a material world broader than one human norm.",
-      "sequenceNote": "Creature form does not imply magic; these cultures share no proven kingdom.",
-      "confidence": "speculative",
-      "stories": [
-        "the-weight-they-never-counted",
-        "coiled-together",
-        "the-last-monster"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "refuge-courts-and-marriage-states",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Crowns in the Material World",
-      "title": "Refuge Courts & Marriage States",
-      "description": "Refuge, imperial walls, negotiated marriages, a reclaimed capital, and ordinary meals give political history a human scale.",
-      "sequenceNote": "Material-court candidates inside the Long Dark. These independent courts are not an early universal stage, and their nonmagical scenes alone cannot establish absolute dates.",
-      "confidence": "speculative",
-      "stories": [
-        "four-crowns-in-hiding",
-        "the-walls-are-thick-enough",
-        "a-crown-in-the-bargain",
-        "late-for-dinner",
-        "the-door-in-the-ivy"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "creature-cultures-without-enchantment",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Crowns in the Material World",
-      "title": "Creature Cultures Without Enchantment",
-      "description": "Dragons, adventurers, slimes, and catfolk belong to societies whose local causes need no spell system.",
-      "sequenceNote": "A deliberately material fantasy-age fit; biology and custom are not treated as magic.",
-      "confidence": "speculative",
-      "stories": [
-        "save-that-dragon",
-        "the-kingdom-was-the-easy-part",
-        "the-ordinary-slime",
-        "the-rule-between-courses",
-        "only-eighteen"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "guild-blades-gaslight-houses-and-engineers",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Cities Found by Hand",
-      "title": "Guild Blades, Gaslight Houses & Engineers",
-      "description": "Dueling custom, named tools, unreliable engineering, and status houses produce a fantasy-shaped material modernity.",
-      "sequenceNote": "A civic-technology phase fit; no shared city or industrial revolution is asserted.",
-      "confidence": "speculative",
-      "stories": [
-        "the-courtesy-of-blades",
-        "blade-calls-your-name",
-        "the-five-minute-warranty",
-        "golden-lion"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "beyond-the-great-wall",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Independent era pocket · Cities Found by Hand",
-      "title": "Beyond the Great Wall",
-      "description": "Human scouts discover an electrified coastal civilization beyond a boundary closed since the horde's defeat.",
-      "sequenceNote": "The five-hundred-year interval follows a local war. The scouts and the illuminated city are contemporaries: technological difference across the wall is not a universal era ladder.",
-      "confidence": "speculative",
-      "stories": [
-        "the-lights-beyond"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "ordinary-present-and-familiar-lives",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Small Present",
-      "title": "Ordinary Present & Familiar Lives",
-      "description": "Friendship, festivals, bodies, cafés, and ordinary social pressure define a recognizably material present.",
-      "sequenceNote": "These modern-shaped lives are compatible with our era without being one city or exact year.",
-      "confidence": "speculative",
-      "stories": [
-        "before-she-gets-tired",
-        "everyone-knows-her",
-        "the-other-twin",
-        "the-names-on-the-cups",
-        "sakura-hearted"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "private-powers-and-public-states",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Small Present",
-      "title": "Private Power",
-      "description": "A criminal household turns family standing, force, and civil authority into competing kinds of power.",
-      "sequenceNote": "A material political-modernity candidate. Its city and historical relation to everyday modern lives are unestablished.",
-      "confidence": "speculative",
-      "stories": [
-        "empire-within"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "layered-and-networked-cities",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The City & the Synthetic Self",
-      "title": "Layered & Networked Cities",
-      "description": "Architectural layers, class interfaces, surveillance, and autonomous traffic make the city itself a governing system.",
-      "sequenceNote": "A networked-modernity grouping; the cities are independent designs.",
-      "confidence": "speculative",
-      "stories": [
-        "the-city-of-eleven-foundations",
-        "the-thirteenth-command",
-        "drone-down",
-        "the-driver-the-city-could-not-see"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "synthetic-bodies-and-war-legacies",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The City & the Synthetic Self",
-      "title": "Synthetic Bodies & War Legacies",
-      "description": "Mutable bodies, bionics, android veterans, and respawn spectacle push personhood through engineered systems.",
-      "sequenceNote": "A synthetic-modernity phase, not one technology stack or political order.",
-      "confidence": "speculative",
-      "stories": [
-        "the-unfixed-face",
-        "the-mercy-circuit",
-        "what-she-remembered-of-peace",
-        "the-kill-she-wouldnt-take",
-        "a-little-more-room"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "archive-refoundings",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The City & the Synthetic Self",
-      "title": "Bodies & Memory Reconstructed",
-      "description": "Leased neural memory and genetically reconstructed rulers turn the recoverable past into a struggle over present ownership.",
-      "sequenceNote": "Two distinct technological modernities. Neural extraction is not ancient excavation, and genetic reconstruction is not resurrection or restored autobiographical memory.",
-      "confidence": "speculative",
-      "stories": [
-        "the-foundations-remember",
-        "the-ten-thousand-year-queen"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "great-falls-and-salvage",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Worlds That Fall, Worlds That Move",
-      "title": "Great Falls & Salvage",
-      "description": "Floating cities fail, launch rooms wait, names outlive wreckage, and exposed seas reveal prior orders.",
-      "sequenceNote": "Each fall keeps its own cause and successor history; the markers do not share one collapse.",
-      "confidence": "speculative",
+      "description": "A reactor city falls in a world that remembers magic as long dead. Independent caravans, houses, bodily technologies and an orbital watch occupy an early proposed part of the long material history.",
+      "sequenceNote": "Extinction need not erase machinery, biology or civilization. These material societies retain separate histories; their different falls have no established common cause.",
       "stories": [
         "four-million-falling",
-        "the-room-that-waited",
-        "leave-the-names",
-        "the-upward-rain"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "mobile-cities-and-restored-bodies",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Worlds That Fall, Worlds That Move",
-      "title": "Moving Cities & Engineered Habitats",
-      "description": "Managed weather, living leased rooms, and a city of separate hulls make habitation something people continually maintain.",
-      "sequenceNote": "Independent technologically sustained societies; none is proved to follow one of the nearby collapse stories or to form a common recovery.",
-      "confidence": "speculative",
-      "stories": [
-        "laughing-clouds",
-        "rooms-before-sunrise",
-        "the-unfixed-song"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "orbital-watchers-and-successor-earths",
-      "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Inherited Orbit",
-      "title": "Orbital Watchers & Abandoned Earth",
-      "description": "Jovian defense, an inherited sunshade, fragile kite messages, and a dinosaur surface polity tell different orbital histories.",
-      "sequenceNote": "No common exodus, station network, or successor Earth is established. The local human departure in The Apes Above does not date the other stories.",
-      "confidence": "speculative",
-      "stories": [
+        "the-weight-they-never-counted",
+        "golden-lion",
+        "the-mercy-circuit",
+        "the-unfixed-face",
+        "the-walls-are-thick-enough",
         "last-watcher-of-jupiter",
+        "the-room-that-waited",
+        "the-ordinary-slime"
+      ]
+    },
+    {
+      "id": "cycle-08-another-world",
+      "title": "Another World of Days",
+      "eyebrow": "The Long Dark · proposed turn 8",
+      "magicState": "long-dark",
+      "description": "Courts and engineering reappear; familiar streets precede layered cities and bodily reconstruction. Elsewhere a sunshade is inhabited, ruins are salvaged and a caregiver counts eighteen years.",
+      "sequenceNote": "The turn follows the preceding material histories provisionally. The orbital machinery, salvage routes and surface societies have no established common ancestry.",
+      "stories": [
+        "four-crowns-in-hiding",
+        "the-five-minute-warranty",
+        "everyone-knows-her",
+        "the-city-of-eleven-foundations",
+        "the-kill-she-wouldnt-take",
+        "coiled-together",
         "the-shadow-that-nested",
-        "kite-letters-below",
-        "apes-in-orbit"
-      ],
-      "constellations": []
+        "leave-the-names",
+        "only-eighteen"
+      ]
     },
     {
-      "id": "orbital-leverage",
+      "id": "cycle-09-brief-meridian",
+      "title": "Our Brief Meridian",
+      "eyebrow": "The Long Dark · proposed turn 9",
       "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Inherited Orbit",
-      "title": "Power Above the Table",
-      "description": "A former orbital-defense engineer brings control of remote infrastructure into a very personal negotiation.",
-      "sequenceNote": "A technological political-modernity candidate. The orbital platform is not assigned to Jupiter’s defense, the human exodus, or any other station history.",
-      "confidence": "speculative",
+      "description": "Courtly lives lead into the familiar scale of dates, cafes and political power. This proposed turn also accommodates ten thousand years of later reconstruction and societies with sharply different neighboring technologies.",
+      "sequenceNote": "Our ordinary magicless modernity belongs in the Long Dark. The pharaohs retain their roughly ten-thousand-year local gap; the Great Wall's five centuries remain regional.",
       "stories": [
-        "terms-at-four"
-      ],
-      "constellations": []
+        "a-crown-in-the-bargain",
+        "the-courtesy-of-blades",
+        "before-she-gets-tired",
+        "the-names-on-the-cups",
+        "empire-within",
+        "the-ten-thousand-year-queen",
+        "deja-vu-too-late",
+        "terms-at-four",
+        "the-lights-beyond"
+      ]
     },
     {
-      "id": "embodied-spaceflight",
+      "id": "cycle-10-fourth-unlit",
+      "title": "The Fourth Unlit Turn",
+      "eyebrow": "The Long Dark · proposed turn 10",
       "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Inherited Orbit",
-      "title": "The Body in the Machine",
-      "description": "A recovered pilot pattern must inhabit a failing shell; a one-use neural restore leaves a tug pilot facing consequences already in motion.",
-      "sequenceNote": "Engineered body and memory systems justify a material-history proposal. These flight incidents have no common program, conflict, or chronological order.",
-      "confidence": "speculative",
+      "description": "Another dungeon culture, a new family modernity, networked control and technological war occupy a further turn. Its later points reach different ruined cities and a queen's recovered capital.",
+      "sequenceNote": "Modern appearances recur after the familiar island. Synthetic combat remains material; the courts and the machines retain independent histories.",
       "stories": [
+        "the-last-monster",
+        "blade-calls-your-name",
+        "the-other-twin",
+        "the-thirteenth-command",
+        "drone-down",
+        "what-she-remembered-of-peace",
         "the-body-called-one",
-        "deja-vu-too-late"
-      ],
-      "constellations": []
+        "the-door-in-the-ivy"
+      ]
     },
     {
-      "id": "the-older-sky",
+      "id": "cycle-11-distant-habitable",
+      "title": "The Distant Habitable",
+      "eyebrow": "The Long Dark · proposed turn 11",
       "magicState": "long-dark",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Inherited Orbit",
-      "title": "The Older Sky",
-      "description": "A damaged living starship meets a shepherd; elsewhere, a pursued courier helps humanity destroy an ancient road network and begin slower rescue flights.",
-      "sequenceNote": "Two deep technological inheritances, provisionally in the Long Dark. Neither living ship nor stellar roads establishes a common civilization or an operative spell system.",
-      "confidence": "speculative",
+      "description": "Another court precedes another intimate modern life. Cities grow rooms, orbital inhabitants misremember the surface, and later civic worlds preserve disputed histories in memories and navigation songs.",
+      "sequenceNote": "The apartment, station, memory city and fleet are individually placed societies. Their proposed succession establishes no direct descent or common catastrophe.",
       "stories": [
+        "save-that-dragon",
+        "sakura-hearted",
+        "a-little-more-room",
+        "the-driver-the-city-could-not-see",
+        "rooms-before-sunrise",
+        "kite-letters-below",
+        "the-foundations-remember",
+        "the-unfixed-song"
+      ]
+    },
+    {
+      "id": "cycle-12-before-answer",
+      "title": "Before the Answering Sky",
+      "eyebrow": "The Long Dark · proposed turn 12",
+      "magicState": "long-dark",
+      "description": "Royal households return far into material history. Inventions, a successor Earth and ancient stellar routes approach the boundary where a different kind of relation becomes possible.",
+      "sequenceNote": "Material events remain magicless. Ruth's station story is positioned only by her proposed living-world endpoint; its afterlife remains undated. Reawakening follows this represented turn.",
+      "stories": [
+        "late-for-dinner",
+        "the-rule-between-courses",
+        "laughing-clouds",
+        "apes-in-orbit",
         "the-star-that-followed-the-bells",
-        "the-first-people"
-      ],
-      "constellations": []
+        "the-first-people",
+        "the-station-between"
+      ]
     },
     {
-      "id": "joined-sky",
+      "id": "cycle-13-answering-dawn",
+      "title": "The Answering Dawn",
+      "eyebrow": "New history · proposed turn 13",
       "magicState": "new-magic",
-      "ordered": false,
-      "type": "hinge",
-      "eyebrow": "Fixed boundary · The First Reciprocal Dawn",
-      "title": "The Sky Remembers Us",
-      "description": "After ages of perfect absence, living people on both sides of the sky originate reciprocal magic.",
-      "sequenceNote": "Fixed reawakening boundary: genuinely new magic begins here; the six old systems remain dead.",
-      "confidence": "fixed",
+      "description": "The first reciprocal link opens this history. Much later within the proposed turn, another kingdom, private foresight, domestic obligations and urban inheritance show possible new magical societies.",
+      "sequenceNote": "Only the first link's place after perfect zero is fixed. Later slots contain proposed independent systems, not demonstrated descendants of that link.",
       "stories": [
-        "the-sky-remembers-us-return"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "time-foresight-and-copies",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Hours We Borrow",
-      "title": "Time, Foresight & Copies",
-      "description": "Clairvoyance, repeated Tuesdays, and a temporary second self make impossible events intensely private.",
-      "sequenceNote": "A proposed post-return pocket of private magic. Neither secrecy nor modern appearance proves proximity to reawakening or descent from reciprocal links.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-night-she-knew",
-        "the-trouble-with-tuesdays",
-        "self-reflection"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "inheritances-and-altered-selves",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Hours We Borrow",
-      "title": "Lives Carried by Others",
-      "description": "A thirteen-year search through borrowed hosts, changed partners, a speaking cat, and a crafted wig place unusual capacities inside close relationships.",
-      "sequenceNote": "A proposed post-return pocket of intimate magic. Its systems have no demonstrated joined-sky descent, and an inherited object does not imply a surviving extinct system.",
-      "confidence": "unresolved",
-      "stories": [
-        "thirteen-years-borrowed",
-        "the-wrong-side-of-the-part",
-        "the-cat-who-had-enough",
-        "the-wolf-in-the-mirror"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "visitors-at-the-door",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Extra Place at the Table",
-      "title": "Visitors at the Door",
-      "description": "Necromantic families, animal visitors, angels, and an infernal royal gate turn private thresholds into relationships.",
-      "sequenceNote": "Grouped by domestic crossings, not one species, afterlife, or portal network.",
-      "confidence": "unresolved",
-      "stories": [
-        "a-place-for-the-living",
-        "the-bat-at-the-door",
-        "by-tooth-and-threshold",
-        "she-literally-has-wings",
-        "his-infernal-majesty-says-no"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "transformations-become-public",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Citizens of Different Bodies",
-      "title": "Marks, Forms & Public Recognition",
-      "description": "Coming of age, hidden birth marks, and a school portrait force institutions to notice how poorly their categories fit living people.",
-      "sequenceNote": "A proposed post-return society pocket. Its independent transformation and mark systems are not one inheritance, and their position after reawakening remains unproven.",
-      "confidence": "unresolved",
-      "stories": [
-        "what-turned-eighteen",
-        "transitions-in-common",
-        "a-darkness-written-under-skin"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "bodies-in-close-company",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Citizens of Different Bodies",
-      "title": "A Different Scale of Closeness",
-      "description": "Shrinking power and an unusual thermal body change the ordinary practicalities of living beside someone.",
-      "sequenceNote": "An independent post-return proposal for intimate bodily magic; a modern apartment does not by itself date either story.",
-      "confidence": "unresolved",
-      "stories": [
-        "life-with-a-girlfriend-with-shrinking-powers",
-        "the-warmest-person-in-the-room"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "hero-and-villain-institutions",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Citizens of Different Bodies",
-      "title": "Hero & Villain Institutions",
-      "description": "Hero families, villain households, magical illness, and combat schooling form a distinct public-power society.",
-      "sequenceNote": "A dedicated superhero-era fit; it is not our ordinary modernity with exceptions added.",
-      "confidence": "unresolved",
-      "stories": [
-        "captive-couples",
-        "the-name-i-kept",
-        "witch-cold"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "monsters-gods-and-avatars",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Gods in Company",
-      "title": "Gods in Public, Gods at Home",
-      "description": "Regenerating divinity, mortal champions, a grandmother, and a villain household test the difference between power and entitlement.",
-      "sequenceNote": "A proposed magical public life, not one pantheon or a historical stage reached everywhere together.",
-      "confidence": "unresolved",
-      "stories": [
-        "anatomy-of-a-god",
-        "deaths-patron",
-        "ultimate-evil-dog",
-        "gods-afraid-of-grandma"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "threshold-transit-and-unstable-travel",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Roads Between Lives",
-      "title": "Threshold Transit & Unstable Travel",
-      "description": "Lightning, sleep, buses, and licensed living seams make impossible travel part of modern life.",
-      "sequenceNote": "A crossing-modernity fit; destinations and mechanisms remain separate.",
-      "confidence": "unresolved",
-      "stories": [
-        "lightning-carries-one",
-        "where-sleep-takes-you",
-        "the-last-bus-to-briar-hill",
-        "realms"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "counted-roads-and-old-promises",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Roads Between Lives",
-      "title": "Roads That Remember Obligations",
-      "description": "A removed threshold disrupts a road; generations of local promises bind a witch to a town. Public works must reckon with private inheritances.",
-      "sequenceNote": "A proposed mature magical civic history. The road working and promise-binding are different local systems, with no common source or fixed order.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-inheritance-remembers",
-        "what-the-town-owed-her"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "second-sky-kingdoms",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Kingdoms Beneath Another Sky",
-      "title": "Crowns Under Another Sky",
-      "description": "A sky kingdom negotiates rescue and a family negotiates royal succession: fantasy-shaped states can occupy later magical history too.",
-      "sequenceNote": "A deliberately speculative post-return placement. Active wards and injury-suspending office exclude material zero but do not prove this era or any descent from reciprocal magic.",
-      "confidence": "speculative",
-      "stories": [
+        "the-sky-remembers-us-return",
         "where-no-unicorn-stands",
-        "a-throne-neither-wanted"
-      ],
-      "constellations": []
+        "the-night-she-knew",
+        "by-tooth-and-threshold",
+        "anatomy-of-a-god",
+        "the-inheritance-remembers",
+        "the-first-kingdom-was-late-on-taxes"
+      ]
     },
     {
-      "id": "the-kingdoms-edges",
+      "id": "cycle-14-second-open-horizon",
+      "title": "The Second Open Horizon",
+      "eyebrow": "New history · proposed turn 14",
       "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Kingdoms Beneath Another Sky",
-      "title": "At the Kingdoms’ Edges",
-      "description": "A shepherd chooses a new call-name; a valley learns how to let shadow beasts and an invading host pass without further killing.",
-      "sequenceNote": "Both tales require active magic while leaving either side of zero open. This is a speculative later-world home; no shared fae or beast system is established.",
-      "confidence": "speculative",
+      "description": "Another pastoral society, retired adventurers and an anxious modern family occupy separate reaches. Later, an infernal household sends a child toward college, towns remember obligations and travelers return from unsynchronized clocks.",
+      "sequenceNote": "Recurring modern and courtly forms receive another chronological turn. The assignment story provisionally locates its home frame here; none of its ten destinations inherits that coordinate.",
       "stories": [
         "there-goes-your-name",
-        "friends-of-the-night"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "hospitality-after-many-winters",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · Kingdoms Beneath Another Sky",
-      "title": "Hospitality After Many Winters",
-      "description": "A restored public house uncovers living structural labor and reopens with ordinary posts and a protected cellar habitat.",
-      "sequenceNote": "The Hollow Cask belongs to active magical history with either side of zero open. A post-return location is proposed; the building’s age proves no survival across extinction.",
-      "confidence": "speculative",
-      "stories": [
+        "the-kingdom-was-the-easy-part",
+        "self-reflection",
+        "life-with-a-girlfriend-with-shrinking-powers",
+        "his-infernal-majesty-says-no",
+        "captive-couples",
+        "what-the-town-owed-her",
+        "tenth-world-lesson",
         "the-hollow-cask"
-      ],
-      "constellations": []
+      ]
     },
     {
-      "id": "civic-myth-and-dangerous-archives",
+      "id": "cycle-15-world-grows-old",
+      "title": "The World Grows Old Again",
+      "eyebrow": "New history · proposed turn 15",
       "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Future Has a Past",
-      "title": "The Depth of a Memory",
-      "description": "A therapist follows a living memory across roughly 25,000 years; a collection exposes the perils of keeping unusual things.",
-      "sequenceNote": "A late post-return reading proposal, not a dated shared archive age. The remembered battle has its own unresolved coordinate; no common memory substance is implied.",
-      "confidence": "unresolved",
+      "description": "An old monarchy appears deep into new history. Later lives contend with borrowed years, public transformations and divine office. An expedition meets an unexplained sea, and a mill town meets a higher-order machine.",
+      "sequenceNote": "Local antiquity can develop after reawakening. The monarchy's rite, possession, transit and machine remain independent systems without an asserted common origin.",
       "stories": [
+        "a-throne-neither-wanted",
+        "thirteen-years-borrowed",
+        "what-turned-eighteen",
+        "deaths-patron",
+        "lightning-carries-one",
         "the-hoarders-house",
-        "the-first-wound"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "dangerous-media",
-      "magicState": "new-magic",
-      "ordered": false,
-      "type": "era",
-      "eyebrow": "Independent era pocket · The Future Has a Past",
-      "title": "What Survives the Recording",
-      "description": "A fatal media encounter makes reproduction itself a threat. A civilization can preserve something it does not understand.",
-      "sequenceNote": "A post-return reading proposal for a media-saturated magical society; neither a shared archive nor a measured distance from reawakening is established.",
-      "confidence": "unresolved",
-      "stories": [
-        "when-the-needle-finds-you"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "ravel-bridge",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Clocks That Will Not Align",
-      "title": "The Ravel Bridge",
-      "description": "Nell and Bash touch the old low-magic modernity while Ravel remains another undated era of the same physical world.",
-      "sequenceNote": "The unequal clocks and old-modern endpoint are fixed; Ravel's universal coordinate is not.",
-      "confidence": "inferred",
-      "stories": [
-        "the-small-moon-rose-first"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "the-displaced-village",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Clocks That Will Not Align",
-      "title": "Where the Mountain Used to Be",
-      "description": "An intact village appears inside an excavation on the same bedrock, millions of years beyond the world it remembers.",
-      "sequenceNote": "A real story-local temporal displacement, not an excavation-only future frame. The crossing mechanism and both Galactic coordinates remain unresolved.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-first-kingdom-was-late-on-taxes"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "assignment-bridge",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Clocks That Will Not Align",
-      "title": "The Assignment Bridge",
-      "description": "One modern apartment brackets ten bodily crossings whose worlds keep their own histories.",
-      "sequenceNote": "Ryo's departure and return supply the working coordinate; the ten destinations do not inherit it.",
-      "confidence": "unresolved",
-      "stories": [
-        "tenth-world-lesson"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "museum-hinge",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Clocks That Will Not Align",
-      "title": "The Museum Hinge",
-      "description": "Centuries after the Battle of the Bay, its last witness corrects the museum record.",
-      "sequenceNote": "The story is later than Solstice Evening Bell but not bounded relative to All Accounts Due.",
-      "confidence": "inferred",
-      "stories": [
-        "the-count-was-131072"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "colossi-and-buried-engines",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · The World Withholds an Answer",
-      "title": "Beneath the Measured World",
-      "description": "An inhabited stone body moves; a candle crown bears the strain of a buried furnace. Skilled repairs expose effects without settling their origins.",
-      "sequenceNote": "Off-axis: neither story establishes an exclusively nonmagical cause. The moving body and crown cannot be used as evidence of operative magic during the Long Dark.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-morning-her-hand-moved",
-        "a-crown-for-the-endless-fire"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "altered-memory-and-valley-medicine",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · The World Withholds an Answer",
-      "title": "Ecologies with Open Causes",
-      "description": "A pool releases one-use object memories; a gatherer works with precisely bounded medicinal plants. Knowing an effect is not the same as knowing its cosmological category.",
-      "sequenceNote": "Their mechanisms and era coordinates remain independent and open. The memory pool is no longer asserted to belong to material zero.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-name-the-water-took",
-        "every-flower-she-knew"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "the-night-node-convergence",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · The World Withholds an Answer",
-      "title": "The Night Harvest",
-      "description": "A corpse industry grows within three months of an unexplained arrival; six nights of observation change how a settlement handles the remains.",
-      "sequenceNote": "The throat-node effect’s category, era, and relation to extinction and awakening remain unresolved. The settlement’s rapid industry cannot date the wider world.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-night-harvest"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "the-higher-order-machine",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · The World Withholds an Answer",
-      "title": "A Game Reaches Down",
-      "description": "A mill-room game becomes contact with a higher-order machine, answered through local engineering.",
-      "sequenceNote": "The observed interface does not establish an era, material-world side, or common origin with other anomalous machines.",
-      "confidence": "unresolved",
-      "stories": [
+        "the-upward-rain",
         "the-players-above"
-      ],
-      "constellations": []
+      ]
     },
     {
-      "id": "constructed-life-at-cinder-annex",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Rooms Beside the Worldline",
-      "title": "Constructed Life at Cinder Annex",
-      "description": "A school treats living magic, engineered friends, and accessible systems as teachable craft.",
-      "sequenceNote": "Its civilizational shape fits arcane industry; the Annex's physical-world relation and side of zero remain unresolved.",
-      "confidence": "unresolved",
+      "id": "cycle-16-farther-turning",
+      "title": "The Farther Turning",
+      "eyebrow": "New history · proposed turn 16",
+      "magicState": "new-magic",
+      "description": "A siege is followed across proposed distances by another urban age of changed identities, families and hero institutions. Crossing markets and an impossible road trip occupy separate points.",
+      "sequenceNote": "The siege's three nights stay local. The later familiar societies are proposed; the road trip's altered desert retains its unsettled clocks.",
       "stories": [
-        "the-friends-i-built"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "unassigned-heirloom",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Rooms Beside the Worldline",
-      "title": "The Unassigned Heirloom",
-      "description": "A long-boxed sentient pendant meets the niece who inherits it and learns that possession does not appoint a wearer.",
-      "sequenceNote": "Its living contact-voice proves a local active system, but the maker, mechanism, era, location, and relation to other artifacts remain unresolved.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-second-wearing"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "gods-at-home-in-cusco",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Rooms Beside the Worldline",
-      "title": "Gods at Home in Cusco",
-      "description": "An eldest demigod helps six divine siblings navigate ordinary family life in Cusco.",
-      "sequenceNote": "The family's living powers place this household outside the magicless Long Dark; its relation to extinction, reawakening, and other divine families remains unresolved.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-one-who-gets-tired"
-      ],
-      "constellations": []
-    },
-    {
-      "id": "anomalies-beside-material-zero",
-      "magicState": "uncertain",
-      "ordered": false,
-      "type": "branch",
-      "eyebrow": "Off-axis era pocket · Rooms Beside the Worldline",
-      "title": "Anomalies Beside Material Zero",
-      "description": "A modern death and an impossible sky touch familiar material lives while their larger ontologies resist dating.",
-      "sequenceNote": "The living frames suggest the Long Dark; the station and cosmic anomaly themselves remain coordinate-open.",
-      "confidence": "unresolved",
-      "stories": [
-        "the-station-between",
+        "friends-of-the-night",
+        "the-wrong-side-of-the-part",
+        "the-bat-at-the-door",
+        "transitions-in-common",
+        "the-name-i-kept",
+        "realms",
+        "gods-afraid-of-grandma",
         "roads-under-impossible-stars"
-      ],
-      "constellations": []
+      ]
+    },
+    {
+      "id": "cycle-17-familiar-future",
+      "title": "A Familiar Future",
+      "eyebrow": "New history · proposed turn 17",
+      "magicState": "new-magic",
+      "description": "Yet another modernity holds colleges, households, public body classifications and private impossible time. Familiar rooms recur far from the first modern stories.",
+      "sequenceNote": "Independent magical modernities receive distant future places. Fenwick's family intervals remain intact; Cusco identifies a setting, not a Galactic date.",
+      "stories": [
+        "the-warmest-person-in-the-room",
+        "the-cat-who-had-enough",
+        "a-darkness-written-under-skin",
+        "she-literally-has-wings",
+        "the-trouble-with-tuesdays",
+        "where-sleep-takes-you",
+        "the-one-who-gets-tired"
+      ]
+    },
+    {
+      "id": "cycle-18-last-visible-horizon",
+      "title": "The Last Visible Horizon",
+      "eyebrow": "New history · proposed turn 18",
+      "magicState": "new-magic",
+      "description": "The furthest plotted turn returns to ordinary intimacy before opening toward civic magic and a long personal past. Late therapy looks back roughly twenty-five thousand years without closing the universe's future.",
+      "sequenceNote": "This is the current atlas horizon, not the world's end. The First Wound is located by its therapy frame; its remembered battle retains an unresolved earlier coordinate.",
+      "stories": [
+        "the-wolf-in-the-mirror",
+        "a-place-for-the-living",
+        "witch-cold",
+        "ultimate-evil-dog",
+        "the-last-bus-to-briar-hill",
+        "when-the-needle-finds-you",
+        "the-first-wound"
+      ]
     }
   ],
+  "storyPlacements": {
+    "where-the-white-elk-went": {
+      "position": 7.0,
+      "note": "The guardian's remembered span exceeds local kingdoms. A far-past position gives that longevity room while leaving the world outside the boundary older and unknown."
+    },
+    "the-villages-only-mage": {
+      "position": 17.0,
+      "note": "A remote village already belongs to a wider world of traveling mages. Its early position centers on the community's encounter with that wider magical culture."
+    },
+    "blood-types-of-immortality": {
+      "position": 29.0,
+      "note": "The sorcerer's blood discoveries belong to one research history. They provisionally precede later institutional healing without claiming those healers learned from this work."
+    },
+    "never-a-mascot": {
+      "position": 41.0,
+      "note": "The warrior's change from ridiculed soldier to legend takes years. It supplies an early local war history separate from later crowns and campaigns."
+    },
+    "a-little-winter-for-sale": {
+      "position": 53.0,
+      "note": "A desert trading city already purchases a dragon's work. Commerce, specialized labor and urban life are well established in this far-past society."
+    },
+    "the-lions-last-constellation": {
+      "position": 62.0,
+      "note": "A magical champion faces a mythic local task. This earlier proposed occurrence of the magical-girl form is distant from the crowded modern sky, without an asserted lineage."
+    },
+    "fourth-house": {
+      "position": 71.0,
+      "note": "An established three-house classification is challenged. The institution already has a history when this new category appears late in the turn."
+    },
+    "the-friends-i-built": {
+      "position": 80.0,
+      "note": "Cinder Annex combines engineered craft, living collaborators and formal education. This old-history slot is tentative: the Annex's physical-world relation and side of zero remain unknown."
+    },
+    "a-crown-of-quiet-hours": {
+      "position": 88.0,
+      "note": "The dragons have 218 years of rule before the Charter and seven-month works. Their local reform stays together, far from the unrelated Sleepless Majesty government."
+    },
+    "the-door-knows-home": {
+      "position": 96.0,
+      "note": "The family's traveling door requires an existing craft and repair culture. This old civic crossing history sits late in the first represented turn."
+    },
+    "the-kingdom-of-later": {
+      "position": 6.0,
+      "note": "The fairy-tale kingdom has developed habits that delay daily life. It begins another proposed turn after earlier urban histories; kingdoms can recur."
+    },
+    "the-weight-of-falling-up-rune-shoes": {
+      "position": 16.0,
+      "note": "The flying assessment belongs to an established school. It occupies a separate age after the earlier classification tale, with no institutional succession implied."
+    },
+    "not-about-that": {
+      "position": 27.0,
+      "note": "Magical girls are numerous in the everyday sky. This modernity is placed well before Northbridge and the Bay, giving the intended arc a genuinely distant beginning."
+    },
+    "fifty-seven-minutes": {
+      "position": 39.0,
+      "note": "The shipwright's fifty-seven-minute divine office belongs to one mature coastal community. Its later position keeps local god-making distinct from the preceding public-power modernity."
+    },
+    "the-gentlest-terror": {
+      "position": 50.0,
+      "note": "Dragon alliances already organize noble households. This kingdom is a courtly recurrence after a modern-shaped age, separate from the first turn's dragon government."
+    },
+    "mother-of-monsters": {
+      "position": 61.0,
+      "note": "The sanctuary has accumulated refugees before the army arrives. This later kingdom's conflict grows from an established history of displacement and protection."
+    },
+    "the-name-the-water-took": {
+      "position": 71.0,
+      "note": "Retrieved objects retain one-use sensory fragments. A tentative active-history slot preserves that unresolved effect without calling it magicless technology or connecting it to neural memory markets."
+    },
+    "tea-for-the-first-guest": {
+      "position": 80.0,
+      "note": "The wizard has lived roughly two thousand years and waited centuries for company. That local duration stays inside this slot; the tower does not survive extinction by implication."
+    },
+    "the-morning-her-hand-moved": {
+      "position": 88.0,
+      "note": "A thousand years of local ledgers precede the inhabited hand's movement. The settlement has a deep history; the colossus's underlying mechanism remains unknown."
+    },
+    "the-ninety-year-barrier": {
+      "position": 96.0,
+      "note": "Ninety years of the witch's work precede the child's breach. That whole undertaking lies within one locality near this turn's end."
+    },
+    "when-the-eagle-bowed": {
+      "position": 6.0,
+      "note": "The Eagle Queen's execution is already a century past. Her return begins a later proposed turn, separate from the preceding dragon-allied dynasty."
+    },
+    "the-shape-of-mercy": {
+      "position": 15.0,
+      "note": "A mage lineage has mature expectations about its children's powers. It provisionally precedes this turn's low-magic modern endpoint without supplying other systems' origins."
+    },
+    "the-unfinished-sunset": {
+      "position": 25.0,
+      "note": "The ronin returns after twenty years. The village's held sunset and the years outside it give this event two different experiences of the same local interval."
+    },
+    "the-last-thing-i-could-fix": {
+      "position": 36.0,
+      "note": "The smith's reputation requires developed magical craft and heroic equipment. That mature repair culture is placed before this turn's laboratory-and-school modernity."
+    },
+    "a-note-of-spite": {
+      "position": 46.0,
+      "note": "Protective spells have become a social custom. This mature magical society receives a position before Nell and Bash's ordinary world that treats magic as myth."
+    },
+    "an-ordinary-education": {
+      "position": 57.0,
+      "note": "Laboratory creation and school life coexist with active magic. This placement makes technology part of old history before the later low-magic trough."
+    },
+    "clerics-infernal-ex": {
+      "position": 67.0,
+      "note": "Sanctuary and kiln court have their own bearer-powered crossings. A separate point keeps that route outside Nell and Bash's Glass Gate chronology."
+    },
+    "the-small-moon-rose-first": {
+      "position": 77.0,
+      "note": "This point locates Nell and Bash's old low-magic material endpoint before the Glass Sea. The 617 Ravel days, eleven Earth seconds and four-month offset keep distinct clocks; Ravel remains unassigned."
+    },
+    "every-flower-she-knew": {
+      "position": 87.0,
+      "note": "Eleven flowering seasons precede one storm-bound harvest. This later rural setting is proposed; the bounded medicine proves neither an ordinary botanical cause nor a shared magical system."
+    },
+    "a-crown-for-the-endless-fire": {
+      "position": 96.0,
+      "note": "The furnace tender and six candle states expose an inherited working older than the repair. This tentative old-history point leaves the fire's underlying category unresolved."
+    },
+    "the-sister-behind-her-smile": {
+      "position": 7.0,
+      "note": "A noble household confronts one sister's change. This court is placed early in a later turn, long after the earlier dynastic histories."
+    },
+    "voice-of-silence": {
+      "position": 20.0,
+      "note": "Kethra's examination establishes her archmage qualification. Her proposed point immediately precedes her later teaching story, with the actual interval undated."
+    },
+    "a-lock-on-the-inside": {
+      "position": 21.0,
+      "note": "The same qualified archmage takes a mistreated apprentice. It follows Voice of Silence in one local lifetime-scale sequence; no measured delay is added."
+    },
+    "the-second-wearing": {
+      "position": 33.0,
+      "note": "The boxed interval cannot be measured, but the niece's inheritance supplies a living endpoint. That endpoint is provisionally here; maker and earlier storage remain undated."
+    },
+    "the-attendance-ledger": {
+      "position": 46.0,
+      "note": "Six months of Night Clerk support precede the showcase. This modernity is proposed much later than Not About That and before the Bay, without a common institution."
+    },
+    "the-help-network": {
+      "position": 47.0,
+      "note": "The opening is the third afternoon after the showcase; the network grows over months. It stays beside Attendance Ledger; its distant-before-Bay placement is editorial."
+    },
+    "the-thousandth-fall": {
+      "position": 62.0,
+      "note": "Repeated training develops a local use of self-healing. This later discipline retains its own duration without becoming the source of other healer stories."
+    },
+    "saint-and-demon": {
+      "position": 75.0,
+      "note": "The opposed callings belong to an established religious world. Their relationship is placed late in this turn; the wider theology and its historical origins remain local."
+    },
+    "the-night-harvest": {
+      "position": 91.0,
+      "note": "Three months after the creatures appear, six nights of evidence lead to the node convergence. A proposed active-history slot preserves the effect's unknown category without asserting material-zero technology."
+    },
+    "the-peace-they-could-sleep-through": {
+      "position": 7.0,
+      "note": "Two centuries of the Sleepless Majesty's files precede the grain dispute. This dragon polity is far from the first turn's Charter government, with no shared cast or sequel."
+    },
+    "the-healers-measure": {
+      "position": 20.0,
+      "note": "Training and witchknight qualification require sustained local work. A separate proposed pre-Bay position does not make this the battle's medical institution."
+    },
+    "head-priests-in-love": {
+      "position": 29.0,
+      "note": "The relationship presupposes two established local faiths. Their conflict occupies an earlier reach of the turn that eventually contains the Bay."
+    },
+    "solstice-evening-bell": {
+      "position": 35.0,
+      "note": "The Bay precedes the Glass-Sea era. It follows the earlier proposed magical-girl modernities, while its actual civil date and Galactic coordinate remain open."
+    },
+    "the-dress-they-brought-her": {
+      "position": 36.0,
+      "note": "The intended sequence places the damaged identification system after the Bay and before the museum. The prisoner is a different woman from Solstice; this is a nearby aftermath point."
+    },
+    "the-count-was-131072": {
+      "position": 37.0,
+      "note": "Solstice visits the museum centuries after the battle. One cycle preserves that local interval; the museum's pre-extinction side is proposed, not an established date."
+    },
+    "stay-out-of-my-city": {
+      "position": 57.0,
+      "note": "Brackenport's ultimatum and the daughter's departure are nine local years apart. This independent modernity is proposed after the Bay arc without inventing an invasion response."
+    },
+    "the-bride-who-came-back": {
+      "position": 74.0,
+      "note": "Winter tribute has become an established bargain between these kingdoms. Their courtly world appears after the modern-shaped Bay and Brackenport histories in this proposal."
+    },
+    "the-future-that-refused-us": {
+      "position": 92.0,
+      "note": "The broken prophecy leaves its own immediate aftermath and cost. A late-turn point separates this local predictive system from the next turn's succession histories."
+    },
+    "the-vacant-throne": {
+      "position": 6.0,
+      "note": "Fifteen years of vacancy end in the child's arrival. This kingdom is proposed in the final old turn; its compact and remembered gestures remain local."
+    },
+    "strength-of-ten": {
+      "position": 15.0,
+      "note": "Ninepin is explicitly pre-extinction. Its five-day deployment and return before day twenty remain one campaign; the distance from other old histories is proposed."
+    },
+    "where-it-hurts": {
+      "position": 25.0,
+      "note": "The emotional-wounding sword already has an adventurer-world reputation. This later old-history point remains independent of Ninepin's scar-lattice and military institutions."
+    },
+    "daughter-of-the-sun": {
+      "position": 38.0,
+      "note": "The Glass Sea follows Nell and Bash's modernity and Solstice's Bay. Day of Glass and second dawn remain four local centuries apart here, before extinction."
+    },
+    "the-seventh-night": {
+      "position": 49.0,
+      "note": "The adventurer's recurring curse belongs to active old history in this proposal. Its personal cycle remains within a late old-world society."
+    },
+    "what-i-hate-most": {
+      "position": 59.0,
+      "note": "The engineered confrontation belongs to a separate advanced magical society. A late old-history position does not derive its technology from the Glass Sea."
+    },
+    "the-way-around": {
+      "position": 70.0,
+      "note": "The desert labyrinth is already ancient on the hunter's arrival. A late old-history point allows that local past without assigning the labyrinth to a terminal system."
+    },
+    "the-last-flames": {
+      "position": 80.0,
+      "note": "The keeper's long memory precedes the young dragons' sudden arrival. The unnamed threat remains unresolved even though this story is placed late in old history."
+    },
+    "a-knock-in-someone-elses-sleep": {
+      "position": 89.0,
+      "note": "The dream relay follows sixty years of separation during explicitly pre-extinction imprisonment. Both episodes remain on the old side; the entity is not placed inside zero."
+    },
+    "all-accounts-due": {
+      "position": 98.0,
+      "note": "Faris's thirty-one-year accumulation ends at the fixed extinction boundary. Every proposed old-history point precedes it; no old magical capacity enters the following cycles."
+    },
+    "four-million-falling": {
+      "position": 7.0,
+      "note": "The reactor city belongs to a culture saying magic has long died. This early represented zero point allows inherited machinery to fail without making reactors surviving magic."
+    },
+    "the-weight-they-never-counted": {
+      "position": 18.0,
+      "note": "A caravan recognizes bodily strength the village undervalued. This later material society has nonhuman biological capacities without requiring operative magic."
+    },
+    "golden-lion": {
+      "position": 30.0,
+      "note": "The cane exposes surviving people behind a supposedly extinct House. This civic world has already lived through a violent break in its own political history."
+    },
+    "the-mercy-circuit": {
+      "position": 42.0,
+      "note": "Bionic and implant repair requires a mature technological economy. It forms one material modernity early in the zero, far from the later synthetic-body histories."
+    },
+    "the-unfixed-face": {
+      "position": 53.0,
+      "note": "Widely available genetic modification produces another embodied modernity. Its later position is editorial; no common lineage with the repair kiosk is established."
+    },
+    "the-walls-are-thick-enough": {
+      "position": 65.0,
+      "note": "The imperial marriage and garden scene need no enchantment. This later courtly recurrence can occupy material history after an advanced city."
+    },
+    "last-watcher-of-jupiter": {
+      "position": 77.0,
+      "note": "Thirty years of Jovian watch precede the machines' turn toward deep space. This separate orbital civilization is not another story's station or a surviving magical defense."
+    },
+    "the-room-that-waited": {
+      "position": 88.0,
+      "note": "A modernity falls without firing its arsenal; agrarian descendants enter the sealed room. Both local stages stay here, separate from the floating city's collapse."
+    },
+    "the-ordinary-slime": {
+      "position": 96.0,
+      "note": "Observation changes how a locally ordinary organism is handled. This material community is placed late in the turn; its relation to the earlier collapse is unknown."
+    },
+    "four-crowns-in-hiding": {
+      "position": 6.0,
+      "note": "Four royal sisters take refuge in smaller kingdoms. Another network of material courts opens this later turn, with its own dynasties and threats."
+    },
+    "the-five-minute-warranty": {
+      "position": 17.0,
+      "note": "Goblin engineering sustains practical inventions with short working lives. This community occupies another industrial age early in the second represented material turn."
+    },
+    "everyone-knows-her": {
+      "position": 29.0,
+      "note": "An annual urban festival frames an ordinary recognition puzzle. This familiar modernity occupies a different cycle from the cafe story and our proposed present island."
+    },
+    "the-city-of-eleven-foundations": {
+      "position": 40.0,
+      "note": "Many architectural and technological styles coexist in one city. Its districts share a present despite their very different appearances."
+    },
+    "the-kill-she-wouldnt-take": {
+      "position": 52.0,
+      "note": "Televised combat and bodily rebuilding imply mature engineered public life. This later-turn culture is independent of the preceding cycle's genetic society."
+    },
+    "coiled-together": {
+      "position": 64.0,
+      "note": "The serpentfolk queen's care is a local bodily and cultural fact. This later court can exist within material history without invoking enchantment."
+    },
+    "the-shadow-that-nested": {
+      "position": 77.0,
+      "note": "An ancient sunshade supports a living migration. The crew's present is placed here; earlier builders remain undated and unrelated to Jovian Station."
+    },
+    "leave-the-names": {
+      "position": 88.0,
+      "note": "The salvage code is older than the caravan's dead cities. Its late-turn position accommodates that deep local past without assigning the ruins to a known collapse."
+    },
+    "only-eighteen": {
+      "position": 96.0,
+      "note": "Almost two centuries of caregiving precede eighteen human years with the twins. The household's entire story remains local, while its members experience that duration differently."
+    },
+    "a-crown-in-the-bargain": {
+      "position": 6.0,
+      "note": "A political marriage confronts two people's plans. This court opens another material turn, far from the pre-extinction Ninepin negotiation it echoes."
+    },
+    "the-courtesy-of-blades": {
+      "position": 17.0,
+      "note": "The duel and courtship belong to an established culture of blades and conventions. This local society precedes the turn's familiar modern island."
+    },
+    "before-she-gets-tired": {
+      "position": 29.0,
+      "note": "Friends discuss an ordinary romantic decision. Their brief conversation belongs near the proposed familiar modern island, where deep history gives way to one person's immediate uncertainty."
+    },
+    "the-names-on-the-cups": {
+      "position": 38.0,
+      "note": "Hinge's story runs from early autumn to the first Sunday in May. One ordinary interval stays near the proposed present without imposing a shared city on other romances."
+    },
+    "empire-within": {
+      "position": 47.0,
+      "note": "The crime boss's three sleepless days belong to a material political modernity. This neighboring proposed date remains independent of the cafe and its cast."
+    },
+    "the-ten-thousand-year-queen": {
+      "position": 49.0,
+      "note": "Reconstructed adults arrive roughly ten thousand years after their genetic sources, with four further years to later contracts. This present-centered cycle keeps that local gap; reconstruction is not continuous memory or resurrection."
+    },
+    "deja-vu-too-late": {
+      "position": 63.0,
+      "note": "A one-charge neural baseline is restored after the loss. This later engineered society stays material: the outside world and its consequences have not rewound."
+    },
+    "terms-at-four": {
+      "position": 78.0,
+      "note": "An orbital platform supplies leverage during a domestic tea party. This later political modernity is not a continuation of Jovian defense or another exodus."
+    },
+    "the-lights-beyond": {
+      "position": 94.0,
+      "note": "The scouts cross five hundred years after a local war and meet a contemporaneous illuminated city. Their technological difference remains geographic, not successive universal stages."
+    },
+    "the-last-monster": {
+      "position": 7.0,
+      "note": "The dungeon inhabitants and lost adventurer require no operative enchantment for their conflict. This local material society opens another distant turn."
+    },
+    "blade-calls-your-name": {
+      "position": 19.0,
+      "note": "The blade belongs to a local craft and social world. This point offers another material-age history, distant from the earlier duel and House societies."
+    },
+    "the-other-twin": {
+      "position": 31.0,
+      "note": "The siblings' shared body and puberty belong to an ordinary embodied modernity. This familiar life is placed in a later material turn, beyond the present-centered island."
+    },
+    "the-thirteenth-command": {
+      "position": 43.0,
+      "note": "The combat-controller update is an engineered event. Its point marks a separate technological society; class terminology is not evidence of surviving magic."
+    },
+    "drone-down": {
+      "position": 55.0,
+      "note": "Police drones are routine enough to produce a teenage counterculture. This separate networked modernity has no established city or sequence shared with the driver story."
+    },
+    "what-she-remembered-of-peace": {
+      "position": 67.0,
+      "note": "Android rehabilitation precedes renewed war and old programming. That local peace-to-war sequence stays together, without turning the conflict into a universal collapse."
+    },
+    "the-body-called-one": {
+      "position": 78.0,
+      "note": "Four years in Unit 02 precede extraction and a courier flight. This later stellar conflict is independent of the android's war and the other pilot's neural restoration."
+    },
+    "the-upward-rain": {
+      "position": 90.0,
+      "note": "The expedition's instruments observe an upward sea over a drowned city without explaining its cause. Its present is tentatively placed in this active era; the site's earlier sinking and the anomaly's mechanism remain undated."
+    },
+    "the-door-in-the-ivy": {
+      "position": 96.0,
+      "note": "Clarimond retakes her capital seventeen years after leaving. This later courtly society is another material recurrence, not an inferred descendant of submerged ruins."
+    },
+    "save-that-dragon": {
+      "position": 7.0,
+      "note": "A queen asks that a dragon be protected from her daughter. Ropes and winches ground the rescue in physical work; its place in this later material court is tentative, with the dragon's fire unclassified."
+    },
+    "sakura-hearted": {
+      "position": 20.0,
+      "note": "Domestic machinery and a private evening belong to a technological household. A familiar modern life appears again far beyond the present-centered island."
+    },
+    "a-little-more-room": {
+      "position": 23.0,
+      "note": "The android neighbor's arrival develops through hallway encounters. This nearby but independent material modernity gains no shared city or cast from similar domestic technology."
+    },
+    "the-driver-the-city-could-not-see": {
+      "position": 40.0,
+      "note": "An unregistered passenger exposes an autonomous city's limits. This separate networked society lies after the drone-policed city without an asserted succession."
+    },
+    "rooms-before-sunrise": {
+      "position": 53.0,
+      "note": "Engineered living apartments make the worker's overnight deadline possible. Their present occupies this material turn; living tissue does not prove surviving old magic."
+    },
+    "kite-letters-below": {
+      "position": 67.0,
+      "note": "Eight centuries of false teaching precede the kite correspondence. The mechanic's present is proposed here, independently of all other orbital civilizations."
+    },
+    "the-foundations-remember": {
+      "position": 81.0,
+      "note": "The active rail line and neural extraction belong to a city denying older civilizations. This is its present, not an archaeological frame or a sequel to the orbital correspondence."
+    },
+    "the-unfixed-song": {
+      "position": 94.0,
+      "note": "Generations of routes precede the archive's standardization offer. This late-turn migratory society keeps its inheritance without required descent from the earlier memory city."
+    },
+    "late-for-dinner": {
+      "position": 7.0,
+      "note": "The general's household and legion belong to a recurring material kingdom. This domestic conflict opens the last represented turn before reawakening."
+    },
+    "the-kingdom-was-the-easy-part": {
+      "position": 11.0,
+      "note": "The adventurers' retired life follows their public victories. Lantern lights sustained by breath and attention require an active magical history; this later kingdom's position after reawakening is proposed."
+    },
+    "the-rule-between-courses": {
+      "position": 31.0,
+      "note": "Catfolk instincts and the restaurant's inherited rule form a local biological and social history. An established dining culture occupies this late material age."
+    },
+    "laughing-clouds": {
+      "position": 43.0,
+      "note": "The annual festival implies mature engineering and a history of repurposed failures. Another inventive city has developed deep into the long magicless interval."
+    },
+    "apes-in-orbit": {
+      "position": 56.0,
+      "note": "Human departure precedes the dinosaur surface polity and orbital remnant. Both local endpoints stay together here without dating any other station by that exodus."
+    },
+    "the-star-that-followed-the-bells": {
+      "position": 70.0,
+      "note": "The shepherd encounters a living starship with damaged memory. This separate late material inheritance makes neither the ship nor its flock a spell system."
+    },
+    "the-first-people": {
+      "position": 83.0,
+      "note": "The courier reaches humanity as the makers of ancient stellar roads. This late proposed material setting preserves deep human antiquity without identifying those roads with the nearby ship."
+    },
+    "the-station-between": {
+      "position": 96.0,
+      "note": "This tentative point locates only Ruth's familiar material-life endpoint before reawakening. Her station and trains remain outside material dating, not active magic within the Long Dark."
+    },
+    "the-sky-remembers-us-return": {
+      "position": 2.0,
+      "note": "Ordinary light crosses the whole Long Dark from the All Accounts aftermath. This point is the first reciprocal link, the fixed new-magic beginning; the earlier fall is not moved here."
+    },
+    "where-no-unicorn-stands": {
+      "position": 18.0,
+      "note": "The queen's magic and storm wards exclude material zero. A later kingdom in this first proposed new turn gives courts a future without deriving their wards from the first link."
+    },
+    "the-night-she-knew": {
+      "position": 33.0,
+      "note": "Private clairvoyance exists in a familiar household. This later modernity is proposed after reawakening, without assuming the power was secret everywhere or newly invented."
+    },
+    "by-tooth-and-threshold": {
+      "position": 47.0,
+      "note": "The visitor arrives days after the trapped wolf's rescue. That local sequence stays together in this later household, without common ancestry for other transformations."
+    },
+    "anatomy-of-a-god": {
+      "position": 61.0,
+      "note": "The confrontation presupposes practical knowledge of bodies called divine. A mature society later in the first new turn has already learned something about their limits."
+    },
+    "the-inheritance-remembers": {
+      "position": 77.0,
+      "note": "The threshold working activates during demolition in a developed civic world. Its generations fit within new history; its road is unrelated to autonomous-city networks."
+    },
+    "the-first-kingdom-was-late-on-taxes": {
+      "position": 94.0,
+      "note": "The intact village arrives at an excavation millions of years after departure. This point tentatively places the arrival in new history; departure and mechanism keep separate unresolved coordinates."
+    },
+    "there-goes-your-name": {
+      "position": 7.0,
+      "note": "The theft and chosen name belong to a pastoral locality with active magic. A second post-return turn is proposed, separate from earlier kingdoms and later superhero names."
+    },
+    "self-reflection": {
+      "position": 20.0,
+      "note": "Anin's independent life lasts four dawns in a modern household. The entire incident stays at one point in this later proposed modernity, not across multiple cycles."
+    },
+    "life-with-a-girlfriend-with-shrinking-powers": {
+      "position": 33.0,
+      "note": "Shrinking is woven into an intimate modern life. This separate point stays distant from Shalegate's beast effect without proposing one size-changing tradition."
+    },
+    "his-infernal-majesty-says-no": {
+      "position": 46.0,
+      "note": "The private infernal gate reaches a contemporary human engineering college. Only the human frame is proposed here; the infernal realm gains no Galactic coordinate."
+    },
+    "captive-couples": {
+      "position": 59.0,
+      "note": "Established hero and villain identities shape two marriages. This public-power culture occupies a later post-return age; its institutions have no established ancestry in Northbridge or the Bay."
+    },
+    "what-the-town-owed-her": {
+      "position": 72.0,
+      "note": "Generations of obligations precede the town's encounter with its youthful witch. This late point allows local antiquity after return without making promise-binding surviving solar fire."
+    },
+    "tenth-world-lesson": {
+      "position": 84.0,
+      "note": "Ryo leaves and returns through the same apartment doorway. Only the home frame is proposed here; ten destinations and their assignment clocks remain separately undated."
+    },
+    "the-hollow-cask": {
+      "position": 96.0,
+      "note": "A twelve-week reopening plan meets living Underbreath in old timber. Local age fits this proposed later turn; neither the building nor colony is said to cross extinction."
+    },
+    "a-throne-neither-wanted": {
+      "position": 7.0,
+      "note": "Three centuries of forecasting records precede roughly a year of suspended injury. These local spans fit a later new-history kingdom; rite and office remain unrelated to earlier crowns."
+    },
+    "thirteen-years-borrowed": {
+      "position": 23.0,
+      "note": "Thirteen years of searching end in a bounded encounter through a living host. The full search stays within this proposed point without an era-spanning possession lineage."
+    },
+    "what-turned-eighteen": {
+      "position": 39.0,
+      "note": "Public true-form recognition is established before one eighteenth birthday. This later society retains its own classification history, separate from previous private transformations."
+    },
+    "deaths-patron": {
+      "position": 55.0,
+      "note": "A god seeks one person's earthly championship. It occupies a distinct later divine setting, not the pantheon of the first new turn's anatomical confrontation."
+    },
+    "lightning-carries-one": {
+      "position": 70.0,
+      "note": "Observed costs limit one person's lightning transit. This later civic modernity is proposed without a common network of gates, buses or dreams."
+    },
+    "the-hoarders-house": {
+      "position": 83.0,
+      "note": "The museum already employs agents to handle dangerous artifacts. This later position gives collection local time to accumulate; the objects gain no assumed old-system survival."
+    },
+    "the-players-above": {
+      "position": 95.0,
+      "note": "The mill town confronts a higher-order machine through practical engineering. This tentative active-history point leaves the machine's ontology and external perspective undated."
+    },
+    "friends-of-the-night": {
+      "position": 8.0,
+      "note": "Six years of proximity precede Shalegate's three-night siege. The entire local history sits in another later kingdom; its beasts are not successors of Night Harvest creatures."
+    },
+    "the-wrong-side-of-the-part": {
+      "position": 22.0,
+      "note": "The wig changes its wearer within a modern setting. This event has a later post-return place, while the artifact's maker and earlier history remain unknown."
+    },
+    "the-bat-at-the-door": {
+      "position": 35.0,
+      "note": "The daughter's care for a bat precedes the visitors' godparent request. Those days remain together in a household placed within this later magical modernity."
+    },
+    "transitions-in-common": {
+      "position": 48.0,
+      "note": "The friendship reveals a difference between gender and shapeshifting. This ordinary-looking magical society is placed in a later turn, with its own local conventions."
+    },
+    "the-name-i-kept": {
+      "position": 61.0,
+      "note": "A hero family has already disowned an older sibling. This later public-power culture is separated from the captured couples and magical girls, with no common institution."
+    },
+    "realms": {
+      "position": 74.0,
+      "note": "Phones, a hospital and a tablet coexist with the living Queen Street seam. This later proposed modernity preserves the return window without joining Deepmarket to another gate."
+    },
+    "gods-afraid-of-grandma": {
+      "position": 85.0,
+      "note": "The grandmother's continued earthly life involves local gods. Its late point is distinct from earlier divine societies and the future Cusco household."
+    },
+    "roads-under-impossible-stars": {
+      "position": 96.0,
+      "note": "The road trip changes under an anomalous sky. Only its living departure frame is tentatively here; altered roads and experienced reversals retain unsettled clocks."
+    },
+    "the-warmest-person-in-the-room": {
+      "position": 8.0,
+      "note": "The superhero college already teaches a cursed prodigy. This distant public-power modernity is separated from Northbridge's school and the other hero families."
+    },
+    "the-cat-who-had-enough": {
+      "position": 24.0,
+      "note": "The inherited cat's advice belongs to an established household arrangement. This far-future point locates the present exchange; the cat's earlier history remains undated."
+    },
+    "a-darkness-written-under-skin": {
+      "position": 40.0,
+      "note": "Twenty years of presumed absence precede ultraviolet discovery of living birth channels. This active-history point is proposed after reawakening; the society is not placed in material zero."
+    },
+    "she-literally-has-wings": {
+      "position": 56.0,
+      "note": "Marriage and overlooked bodily identity unfold in a familiar magical household. This far-future society accommodates the extraordinary within an established ordinary life."
+    },
+    "the-trouble-with-tuesdays": {
+      "position": 71.0,
+      "note": "Forty-six activations, seven Tuesdays to the audit and Rose's later nine-day overwrite keep one family sequence. This later frame is proposed; the watch is not an extinct-system survivor."
+    },
+    "where-sleep-takes-you": {
+      "position": 85.0,
+      "note": "Sleep-triggered travel complicates an existing modern life. This far-future position preserves the individual's local limits; no common network with other crossing stories is established."
+    },
+    "the-one-who-gets-tired": {
+      "position": 96.0,
+      "note": "The magical Cusco household's oldest sibling has a human limit. Active powers exclude zero; this far-future point is provisional and supplies no common date for other South American history."
+    },
+    "the-wolf-in-the-mirror": {
+      "position": 8.0,
+      "note": "The full-moon transformation belongs to a recurring household interval. A far-future setting is proposed without connecting the curse to the earlier visitor's biology."
+    },
+    "a-place-for-the-living": {
+      "position": 24.0,
+      "note": "Decades-dead relatives visit during one first family dinner. This later history keeps its local kept-place practice unrelated to Ruth's station or borrowed hosts."
+    },
+    "witch-cold": {
+      "position": 40.0,
+      "note": "A magical girl's cold interrupts friendship with uncontrolled spells. Another magical-girl modernity occupies this last turn, far from the Bay's local sequence."
+    },
+    "ultimate-evil-dog": {
+      "position": 56.0,
+      "note": "The villain's transformation turns attempted infiltration into domestic life. This separate late setting establishes no continuity with nearby magical girls or earlier divine bodies."
+    },
+    "the-last-bus-to-briar-hill": {
+      "position": 71.0,
+      "note": "A contemporary journey takes a fairy-tale shape. This later civic world has its own route, not an endpoint of Deepmarket or the Glass Gate."
+    },
+    "when-the-needle-finds-you": {
+      "position": 85.0,
+      "note": "Pirate radio presupposes mature media and a local dangerous predictive practice. Its late modernity is separate from the Fenwick watch and other archives."
+    },
+    "the-first-wound": {
+      "position": 96.0,
+      "note": "Therapy after a tram incident supplies the farthest proposed frame. Eighty-three years earlier is intermediate; the roughly twenty-five-thousand-year-old battle stays separately undated, not assigned across extinction."
+    }
+  },
   "storyMoments": {
     "a-knock-in-someone-elses-sleep": [
       "An undated imprisonment before the terminal extinction",
@@ -1337,311 +1267,161 @@
     }
   },
   "storyConfidence": {
+    "where-the-white-elk-went": "unresolved",
+    "the-last-flames": "unresolved",
+    "the-villages-only-mage": "unresolved",
+    "the-lions-last-constellation": "unresolved",
+    "the-ninety-year-barrier": "unresolved",
+    "tea-for-the-first-guest": "unresolved",
+    "a-knock-in-someone-elses-sleep": "unresolved",
+    "a-little-winter-for-sale": "unresolved",
+    "the-door-knows-home": "unresolved",
+    "clerics-infernal-ex": "unresolved",
+    "the-kingdom-of-later": "unresolved",
+    "never-a-mascot": "unresolved",
+    "when-the-eagle-bowed": "unresolved",
+    "the-vacant-throne": "unresolved",
+    "the-sister-behind-her-smile": "unresolved",
+    "the-future-that-refused-us": "unresolved",
+    "the-bride-who-came-back": "unresolved",
+    "the-gentlest-terror": "unresolved",
+    "a-crown-of-quiet-hours": "unresolved",
+    "the-peace-they-could-sleep-through": "unresolved",
+    "strength-of-ten": "fixed",
+    "mother-of-monsters": "unresolved",
+    "the-shape-of-mercy": "unresolved",
+    "saint-and-demon": "unresolved",
+    "head-priests-in-love": "unresolved",
+    "blood-types-of-immortality": "unresolved",
+    "the-thousandth-fall": "unresolved",
+    "the-healers-measure": "unresolved",
+    "the-seventh-night": "unresolved",
+    "the-last-thing-i-could-fix": "unresolved",
+    "fifty-seven-minutes": "unresolved",
+    "where-it-hurts": "unresolved",
+    "a-note-of-spite": "unresolved",
+    "fourth-house": "unresolved",
+    "the-weight-of-falling-up-rune-shoes": "unresolved",
+    "an-ordinary-education": "unresolved",
+    "voice-of-silence": "inferred",
+    "a-lock-on-the-inside": "inferred",
+    "the-unfinished-sunset": "unresolved",
+    "what-i-hate-most": "unresolved",
+    "the-way-around": "unresolved",
+    "not-about-that": "inferred",
     "the-attendance-ledger": "inferred",
     "the-help-network": "inferred",
-    "stay-out-of-my-city": "unresolved",
-    "not-about-that": "inferred",
+    "solstice-evening-bell": "fixed",
     "the-dress-they-brought-her": "inferred",
-    "strength-of-ten": "fixed",
-    "a-darkness-written-under-skin": "speculative",
-    "the-sky-remembers-us-return": "fixed",
+    "stay-out-of-my-city": "unresolved",
+    "daughter-of-the-sun": "fixed",
     "all-accounts-due": "fixed",
-    "solstice-evening-bell": "fixed"
+    "the-weight-they-never-counted": "speculative",
+    "coiled-together": "speculative",
+    "the-last-monster": "speculative",
+    "four-crowns-in-hiding": "speculative",
+    "the-walls-are-thick-enough": "speculative",
+    "a-crown-in-the-bargain": "speculative",
+    "late-for-dinner": "speculative",
+    "the-door-in-the-ivy": "speculative",
+    "save-that-dragon": "speculative",
+    "the-kingdom-was-the-easy-part": "speculative",
+    "the-ordinary-slime": "speculative",
+    "the-rule-between-courses": "speculative",
+    "only-eighteen": "speculative",
+    "the-courtesy-of-blades": "speculative",
+    "blade-calls-your-name": "speculative",
+    "the-five-minute-warranty": "speculative",
+    "golden-lion": "speculative",
+    "the-lights-beyond": "speculative",
+    "before-she-gets-tired": "speculative",
+    "everyone-knows-her": "speculative",
+    "the-other-twin": "speculative",
+    "the-names-on-the-cups": "speculative",
+    "sakura-hearted": "speculative",
+    "empire-within": "speculative",
+    "the-city-of-eleven-foundations": "speculative",
+    "the-thirteenth-command": "speculative",
+    "drone-down": "speculative",
+    "the-driver-the-city-could-not-see": "speculative",
+    "the-unfixed-face": "speculative",
+    "the-mercy-circuit": "speculative",
+    "what-she-remembered-of-peace": "speculative",
+    "the-kill-she-wouldnt-take": "speculative",
+    "a-little-more-room": "speculative",
+    "the-foundations-remember": "speculative",
+    "the-ten-thousand-year-queen": "speculative",
+    "four-million-falling": "speculative",
+    "the-room-that-waited": "speculative",
+    "leave-the-names": "speculative",
+    "the-upward-rain": "unresolved",
+    "laughing-clouds": "speculative",
+    "rooms-before-sunrise": "speculative",
+    "the-unfixed-song": "speculative",
+    "last-watcher-of-jupiter": "speculative",
+    "the-shadow-that-nested": "speculative",
+    "kite-letters-below": "speculative",
+    "apes-in-orbit": "speculative",
+    "terms-at-four": "speculative",
+    "the-body-called-one": "speculative",
+    "deja-vu-too-late": "speculative",
+    "the-star-that-followed-the-bells": "speculative",
+    "the-first-people": "speculative",
+    "the-sky-remembers-us-return": "fixed",
+    "the-night-she-knew": "unresolved",
+    "the-trouble-with-tuesdays": "unresolved",
+    "self-reflection": "unresolved",
+    "thirteen-years-borrowed": "unresolved",
+    "the-wrong-side-of-the-part": "unresolved",
+    "the-cat-who-had-enough": "unresolved",
+    "the-wolf-in-the-mirror": "unresolved",
+    "a-place-for-the-living": "unresolved",
+    "the-bat-at-the-door": "unresolved",
+    "by-tooth-and-threshold": "unresolved",
+    "she-literally-has-wings": "unresolved",
+    "his-infernal-majesty-says-no": "unresolved",
+    "what-turned-eighteen": "unresolved",
+    "transitions-in-common": "unresolved",
+    "a-darkness-written-under-skin": "speculative",
+    "life-with-a-girlfriend-with-shrinking-powers": "unresolved",
+    "the-warmest-person-in-the-room": "unresolved",
+    "captive-couples": "unresolved",
+    "the-name-i-kept": "unresolved",
+    "witch-cold": "unresolved",
+    "anatomy-of-a-god": "unresolved",
+    "deaths-patron": "unresolved",
+    "ultimate-evil-dog": "unresolved",
+    "gods-afraid-of-grandma": "unresolved",
+    "lightning-carries-one": "unresolved",
+    "where-sleep-takes-you": "unresolved",
+    "the-last-bus-to-briar-hill": "unresolved",
+    "realms": "unresolved",
+    "the-inheritance-remembers": "unresolved",
+    "what-the-town-owed-her": "unresolved",
+    "where-no-unicorn-stands": "speculative",
+    "a-throne-neither-wanted": "speculative",
+    "there-goes-your-name": "speculative",
+    "friends-of-the-night": "speculative",
+    "the-hollow-cask": "speculative",
+    "the-hoarders-house": "unresolved",
+    "the-first-wound": "unresolved",
+    "when-the-needle-finds-you": "unresolved",
+    "the-small-moon-rose-first": "inferred",
+    "the-first-kingdom-was-late-on-taxes": "unresolved",
+    "tenth-world-lesson": "unresolved",
+    "the-count-was-131072": "inferred",
+    "the-morning-her-hand-moved": "unresolved",
+    "a-crown-for-the-endless-fire": "unresolved",
+    "the-name-the-water-took": "unresolved",
+    "every-flower-she-knew": "unresolved",
+    "the-night-harvest": "unresolved",
+    "the-players-above": "unresolved",
+    "the-friends-i-built": "unresolved",
+    "the-second-wearing": "unresolved",
+    "the-one-who-gets-tired": "unresolved",
+    "the-station-between": "unresolved",
+    "roads-under-impossible-stars": "unresolved"
   },
-  "cycles": [
-    {
-      "id": "wild-compacts",
-      "title": "The World Before Its Maps",
-      "eyebrow": "Old histories · living boundaries",
-      "magicState": "old-magic",
-      "description": "Guardians, village gifts, guests, and roads make local worlds large enough to inhabit.",
-      "sequenceNote": "A reading circuit through old-magic candidates, not the first Galactic Cycle or a claim that every village predates every city.",
-      "chapters": [
-        "ancient-guardians",
-        "first-gifts-and-compacts",
-        "old-towers-and-first-guests",
-        "roads-markets-and-living-doors"
-      ]
-    },
-    {
-      "id": "weather-of-crowns",
-      "title": "The Weather of Crowns",
-      "eyebrow": "Old histories · states and sacred offices",
-      "magicState": "old-magic",
-      "description": "Kingdoms rise, heirs refuse, dragons govern, and armies learn the practical size of a promise.",
-      "sequenceNote": "Independent political histories. Only Ninepin’s pre-extinction side is fixed here; the neighboring courts have no shared dynasty or synchronized rise.",
-      "chapters": [
-        "founding-legends",
-        "succession-and-broken-prophecy",
-        "dragon-polities",
-        "the-ninepin-compact",
-        "saints-demons-and-monster-sanctuaries"
-      ]
-    },
-    {
-      "id": "hands-that-made-the-world",
-      "title": "The Hands That Made the World",
-      "eyebrow": "Old histories · craft and institutions",
-      "magicState": "old-magic",
-      "description": "Healing, instruction, repair, manners, and public systems turn power into daily work.",
-      "sequenceNote": "A second lens on old history rather than a universal industrial phase. Kethra’s qualification precedes her later apprenticeship; other chapter order is provisional.",
-      "chapters": [
-        "healers-blood-and-bounded-bodies",
-        "guilds-gods-and-repair",
-        "perfumed-manners",
-        "schools-houses-and-classification",
-        "colleges-and-apprenticeship-reform",
-        "arcane-infrastructure-and-engineered-peril"
-      ]
-    },
-    {
-      "id": "sky-full-of-lives",
-      "title": "A Sky Full of Lives",
-      "eyebrow": "Old modernity · abundance, mutual aid, aftermath",
-      "magicState": "old-magic",
-      "description": "The magical-girl reading arc moves from everyday wonder toward the Bay and its contested aftermath; Brackenport keeps a separate clock.",
-      "sequenceNote": "The subplot’s intended relative order and local sequels shape this circuit. No established date joins Brackenport, Northbridge, and every other modern-looking story.",
-      "chapters": [
-        "old-modern-age",
-        "brackenport-truce"
-      ]
-    },
-    {
-      "id": "solar-afterlives",
-      "title": "The Sun’s Long Afterlife",
-      "eyebrow": "Old histories · four centuries after glass",
-      "magicState": "old-magic",
-      "description": "A regional catastrophe becomes public ritual until fractured evidence makes a second dawn possible.",
-      "sequenceNote": "The Glass-Sea age is later than Nell and Bash’s modernity and the Bay. Its four centuries measure a regional history, not a global civilizational cycle.",
-      "chapters": [
-        "glass-sea-age"
-      ]
-    },
-    {
-      "id": "last-convergence",
-      "title": "The Last Convergence",
-      "eyebrow": "Fixed boundary · the end of old magic",
-      "magicState": "old-magic",
-      "description": "Thirty-one years of separate adventures converge at the Array. Six living authorities arm conditions whose release ends the old systems permanently.",
-      "sequenceNote": "All old magic-active material history lies before this boundary. Similar earlier systems are not assigned to one terminal root.",
-      "chapters": [
-        "all-accounts-due"
-      ]
-    },
-    {
-      "id": "courts-without-enchantment",
-      "title": "Crowns in the Material World",
-      "eyebrow": "The Long Dark · candidate courtly civilizations",
-      "magicState": "long-dark",
-      "description": "Creature peoples, sovereign households, adventurers, and long-lived carers need no enchantment to have histories.",
-      "sequenceNote": "These are possible islands inside the magicless interval, not a single medieval age. Unusual biology and courtly appearance establish neither magic nor dates.",
-      "chapters": [
-        "bodies-outside-the-old-measure",
-        "refuge-courts-and-marriage-states",
-        "creature-cultures-without-enchantment"
-      ]
-    },
-    {
-      "id": "cities-found-by-hand",
-      "title": "Cities Found by Hand",
-      "eyebrow": "The Long Dark · candidate craft modernities",
-      "magicState": "long-dark",
-      "description": "Blades, engines, inherited houses, and a road beyond a five-century wall make neighboring worlds newly legible.",
-      "sequenceNote": "A material-history reading circuit. The Great Wall’s five centuries are local; an illuminated city is not proof that these societies occupy successive universal rungs.",
-      "chapters": [
-        "guild-blades-gaslight-houses-and-engineers",
-        "beyond-the-great-wall"
-      ]
-    },
-    {
-      "id": "the-small-present",
-      "title": "The Small Present",
-      "eyebrow": "The Long Dark · an ordinary civilizational island",
-      "magicState": "long-dark",
-      "description": "Cafés, siblings, households, attraction, and private power belong within the same deep history as empires and stars.",
-      "sequenceNote": "Our magicless modern time belongs inside the Long Dark. These familiar stories are candidate neighbors of that island, without a common city or exact year.",
-      "chapters": [
-        "ordinary-present-and-familiar-lives",
-        "private-powers-and-public-states"
-      ]
-    },
-    {
-      "id": "city-and-synthetic-self",
-      "title": "The City & the Synthetic Self",
-      "eyebrow": "The Long Dark · candidate engineered societies",
-      "magicState": "long-dark",
-      "description": "Layered infrastructure and manufactured bodies make recognition, control, and personhood civic questions.",
-      "sequenceNote": "Independent material modernities; no single technology ladder leads from these cities to the other circuits.",
-      "chapters": [
-        "layered-and-networked-cities",
-        "synthetic-bodies-and-war-legacies",
-        "archive-refoundings"
-      ]
-    },
-    {
-      "id": "worlds-that-move",
-      "title": "Worlds That Fall, Worlds That Move",
-      "eyebrow": "The Long Dark · independent falls and habitations",
-      "magicState": "long-dark",
-      "description": "A city falls. A launch room outlives its makers. Elsewhere, rafts and living rooms remain homes by being maintained.",
-      "sequenceNote": "This juxtaposes collapse and habitation without inventing successor links. Different falls may be separated by immense spans, and moving cities need not follow them.",
-      "chapters": [
-        "great-falls-and-salvage",
-        "mobile-cities-and-restored-bodies"
-      ]
-    },
-    {
-      "id": "the-inherited-orbit",
-      "title": "The Inherited Orbit",
-      "eyebrow": "The Long Dark · candidate stellar histories",
-      "magicState": "long-dark",
-      "description": "Stations, shades, couriers, pilots, and the oldest routes carry incompatible pieces of technological deep time.",
-      "sequenceNote": "The local exodus, flight incidents, and earlier stellar histories keep their own sequences. None is assigned a common launch, war, planetwide fall, or Galactic coordinate.",
-      "chapters": [
-        "orbital-watchers-and-successor-earths",
-        "orbital-leverage",
-        "embodied-spaceflight",
-        "the-older-sky"
-      ]
-    },
-    {
-      "id": "first-reciprocal-dawn",
-      "title": "The First Reciprocal Dawn",
-      "eyebrow": "Fixed boundary · new magic begins",
-      "magicState": "new-magic",
-      "description": "Ordinary light outlives ages of perfect zero. Living people on both sides of the sky make something that did not exist before.",
-      "sequenceNote": "The first link originates new magic; it restores none of the six extinct systems. The reading circuits that follow are proposals, not established descendants.",
-      "chapters": [
-        "joined-sky"
-      ]
-    },
-    {
-      "id": "borrowed-hours",
-      "title": "The Hours We Borrow",
-      "eyebrow": "Proposed later history · private impossibilities",
-      "magicState": "new-magic",
-      "description": "Foresight, repeated time, a temporary second self, and lives carried by others open different kinds of intimate duration.",
-      "sequenceNote": "A possible post-return pocket, not evidence that magic was initially secret or that time and possession share an origin. All unrelated dates remain open.",
-      "chapters": [
-        "time-foresight-and-copies",
-        "inheritances-and-altered-selves"
-      ]
-    },
-    {
-      "id": "the-extra-place",
-      "title": "The Extra Place at the Table",
-      "eyebrow": "Proposed later history · domestic crossings",
-      "magicState": "new-magic",
-      "description": "The dead, unfamiliar visitors, wings, and an infernal family complicate who may come inside and who may leave.",
-      "sequenceNote": "Independent households provisionally after reawakening. They share neither an afterlife route nor one portal network.",
-      "chapters": [
-        "visitors-at-the-door"
-      ]
-    },
-    {
-      "id": "citizens-of-different-bodies",
-      "title": "Citizens of Different Bodies",
-      "eyebrow": "Proposed later history · public difference",
-      "magicState": "new-magic",
-      "description": "Private forms meet school portraits, civil categories, hero institutions, and the practical space between lovers.",
-      "sequenceNote": "A possible mature magical society circuit. Public recognition does not prove one later age, and transformation systems remain independent.",
-      "chapters": [
-        "transformations-become-public",
-        "bodies-in-close-company",
-        "hero-and-villain-institutions"
-      ]
-    },
-    {
-      "id": "gods-in-company",
-      "title": "Gods in Company",
-      "eyebrow": "Proposed later history · authority made social",
-      "magicState": "new-magic",
-      "description": "Gods, champions, grandmothers, and domestic villainy place immense power among people who can answer back.",
-      "sequenceNote": "A separate proposed divine modernity, not the next inevitable stage after superheroes and not a universal pantheon.",
-      "chapters": [
-        "monsters-gods-and-avatars"
-      ]
-    },
-    {
-      "id": "roads-between-lives",
-      "title": "The Roads Between Lives",
-      "eyebrow": "Proposed later history · transit and public works",
-      "magicState": "new-magic",
-      "description": "Travel by lightning, sleep, bus, and living seams meets the obligations embedded in roads and towns.",
-      "sequenceNote": "A possible integrated magical civic history. Each crossing and obligation has its own mechanism; no old network is presumed to have survived extinction.",
-      "chapters": [
-        "threshold-transit-and-unstable-travel",
-        "counted-roads-and-old-promises"
-      ]
-    },
-    {
-      "id": "kingdoms-beneath-another-sky",
-      "title": "Kingdoms Beneath Another Sky",
-      "eyebrow": "Proposed later history · fantasy returns as a social form",
-      "magicState": "new-magic",
-      "description": "New kingdoms can have old buildings, customary names, restless boundaries, and difficult inheritances. Deep time makes room for fantasy after modernity.",
-      "sequenceNote": "Explicitly speculative post-return homes for coordinate-open magic-active tales. Their local antiquity is not an ancient-system survival, shared ancestry, or a dated sequence.",
-      "chapters": [
-        "second-sky-kingdoms",
-        "the-kingdoms-edges",
-        "hospitality-after-many-winters"
-      ]
-    },
-    {
-      "id": "the-future-has-a-past",
-      "title": "The Future Has a Past",
-      "eyebrow": "Proposed later history · long memory and dangerous media",
-      "magicState": "new-magic",
-      "description": "Even a later magical world can carry millennia of private history and preserve objects or recordings it cannot safely interpret.",
-      "sequenceNote": "A reading proposal for deep post-return history. The 25,000-year memory span is local; it does not date the therapy frame or establish which side of zero contains the remembered battle.",
-      "chapters": [
-        "civic-myth-and-dangerous-archives",
-        "dangerous-media"
-      ]
-    },
-    {
-      "id": "clocks-that-will-not-align",
-      "title": "Clocks That Will Not Align",
-      "eyebrow": "Off-axis · partial coordinates and temporal bridges",
-      "magicState": "uncertain",
-      "description": "Ravel, a displaced village, a sequence of assignments, and a museum witness each offer a clock that cannot yet be laid flat on the worldline.",
-      "sequenceNote": "Only their stated local intervals and proven endpoints are ordered. Missing coordinates are left missing rather than filled by resemblance.",
-      "chapters": [
-        "ravel-bridge",
-        "the-displaced-village",
-        "assignment-bridge",
-        "museum-hinge"
-      ]
-    },
-    {
-      "id": "the-world-withholds-an-answer",
-      "title": "The World Withholds an Answer",
-      "eyebrow": "Off-axis · observed effects, unresolved causes",
-      "magicState": "uncertain",
-      "description": "An inhabited colossus, a furnace crown, object memories, medicinal plants, night creatures, and a higher-order machine expose the limits of easy labels.",
-      "sequenceNote": "Mechanism-open tales remain outside an asserted old/new/zero assignment. Measurements and practical repairs do not prove that an effect is exclusively nonmagical.",
-      "chapters": [
-        "colossi-and-buried-engines",
-        "altered-memory-and-valley-medicine",
-        "the-night-node-convergence",
-        "the-higher-order-machine"
-      ]
-    },
-    {
-      "id": "rooms-beside-the-worldline",
-      "title": "Rooms Beside the Worldline",
-      "eyebrow": "Off-axis · living voices and other ontologies",
-      "magicState": "uncertain",
-      "description": "A constructed-life school, an inherited pendant, a divine family, and arrivals beyond ordinary material life keep their own unsettled relation to history.",
-      "sequenceNote": "The active powers and off-world frames here are not exceptions inside the Long Dark. Their material coordinates, era sides, and connections remain unestablished.",
-      "chapters": [
-        "constructed-life-at-cinder-annex",
-        "unassigned-heirloom",
-        "gods-at-home-in-cusco",
-        "anomalies-beside-material-zero"
-      ]
-    }
-  ],
   "connections": [
     {
       "id": "extinction-to-reciprocity",
@@ -1681,7 +1461,7 @@
       "to": "solstice-evening-bell",
       "kind": "direct",
       "label": "Mutual aid before the Bay",
-      "note": "The intended reading sequence sets The Help Network after The Attendance Ledger and before Solstice Evening Bell. This is an editorial sequence, with no established date or institutional ancestry."
+      "note": "The intended reading sequence places The Help Network after The Attendance Ledger and before Solstice Evening Bell. Northbridge is proposed in an earlier cycle than the Bay; that distance is editorial, with no dated interval or institutional ancestry."
     },
     {
       "id": "crowded-sky-before-bay",
@@ -1689,7 +1469,7 @@
       "to": "solstice-evening-bell",
       "kind": "direct",
       "label": "A crowded sky, then the Bay",
-      "note": "The intended reading sequence locates Not About That before Solstice, when magical girls are numerous. Its order relative to Northbridge remains open."
+      "note": "The intended sequence locates Not About That before Solstice, when magical girls are numerous. The timeline proposes a separate earlier cycle before Northbridge as well; only the pre-Bay reading order is supplied, not a measured gap."
     },
     {
       "id": "bay-to-misidentification",
@@ -1713,7 +1493,7 @@
       "to": "the-count-was-131072",
       "kind": "direct",
       "label": "The witness corrects the count",
-      "note": "The museum prose explicitly identifies its living witness as Solstice Evening Bell, centuries after the same Battle of the Bay. The museum’s side of extinction remains unknown."
+      "note": "The prose identifies its living witness as Solstice Evening Bell, centuries after the same Battle of the Bay. Both points remain in one proposed cycle to preserve that local interval; the museum's pre-extinction side remains editorial."
     },
     {
       "id": "kethra-after-qualification",
@@ -1729,7 +1509,7 @@
       "to": "the-peace-they-could-sleep-through",
       "kind": "echo",
       "label": "Two arrangements for twelve dragons",
-      "note": "Indirect parallel only: Kharost’s rotating Crown offices and Varkesh’s collective Sleepless Majesty make different bargains with governance and sleep. No common cast, state, or sequel is established."
+      "note": "Indirect parallel across distant proposed cycles: Kharost's rotating Crown offices and Varkesh's collective Sleepless Majesty make different bargains with governance and sleep. No common cast, state or sequel is established."
     },
     {
       "id": "living-buildings",

@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import math
 import re
 import shutil
 import subprocess
@@ -65,33 +66,6 @@ class Catalog:
 
 
 @dataclass(frozen=True)
-class TimelineGroup:
-    id: str
-    ordered: bool
-    eyebrow: str
-    title: str
-    description: str
-    sequence_note: str
-    confidence: str
-    stories: tuple[str, ...]
-
-
-@dataclass(frozen=True)
-class TimelineChapter:
-    id: str
-    magic_state: str
-    ordered: bool
-    type: str
-    eyebrow: str
-    title: str
-    description: str
-    sequence_note: str
-    confidence: str
-    stories: tuple[str, ...]
-    constellations: tuple[TimelineGroup, ...]
-
-
-@dataclass(frozen=True)
 class TimelineSpan:
     start: str
     end: str
@@ -106,7 +80,7 @@ class TimelineCycle:
     magic_state: str
     description: str
     sequence_note: str
-    chapters: tuple[str, ...]
+    stories: tuple[str, ...]
 
 
 @dataclass(frozen=True)
@@ -120,12 +94,18 @@ class TimelineConnection:
 
 
 @dataclass(frozen=True)
+class TimelinePlacement:
+    position: float
+    note: str
+
+
+@dataclass(frozen=True)
 class Timeline:
-    chapters: tuple[TimelineChapter, ...]
+    cycles: tuple[TimelineCycle, ...]
+    story_placements: dict[str, TimelinePlacement]
     story_moments: dict[str, tuple[str, ...]]
     story_spans: dict[str, TimelineSpan]
     story_confidence: dict[str, str]
-    cycles: tuple[TimelineCycle, ...]
     connections: tuple[TimelineConnection, ...]
 
 
@@ -536,227 +516,89 @@ def _timeline_story_slugs(value: Any, label: str) -> tuple[str, ...]:
     return slugs
 
 
-def _timeline_group(value: Any, label: str) -> TimelineGroup:
-    if not isinstance(value, dict):
-        raise ValueError(f"{label} must be an object")
-    require_exact_fields(
-        value,
-        {
-            "id",
-            "ordered",
-            "eyebrow",
-            "title",
-            "description",
-            "sequenceNote",
-            "confidence",
-            "stories",
-        },
-        label,
-    )
-    group_id = _timeline_text(value["id"], f"{label} id")
-    if not SLUG.fullmatch(group_id):
-        raise ValueError(f"{label} id must be a slug")
-    confidence = _timeline_text(value["confidence"], f"{label} confidence")
-    if not isinstance(value["ordered"], bool):
-        raise ValueError(f"{label} ordered must be a boolean")
-    if confidence not in PLACEMENT_CONFIDENCE:
-        raise ValueError(f"{label} has unsupported confidence {confidence}")
-    return TimelineGroup(
-        id=group_id,
-        ordered=value["ordered"],
-        eyebrow=_timeline_text(value["eyebrow"], f"{label} eyebrow"),
-        title=_timeline_text(value["title"], f"{label} title"),
-        description=_timeline_text(value["description"], f"{label} description"),
-        sequence_note=_timeline_text(value["sequenceNote"], f"{label} sequenceNote"),
-        confidence=confidence,
-        stories=_timeline_story_slugs(value["stories"], f"{label} stories"),
-    )
-
-
 def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     value = read_json_object(path)
-    require_exact_fields(
-        value,
-        {
-            "schemaVersion",
-            "chapters",
-            "storyMoments",
-            "storySpans",
-            "storyConfidence",
-            "cycles",
-            "connections",
-        },
-        str(path),
-    )
-    if value["schemaVersion"] != 4 or not isinstance(value["chapters"], list):
+    require_exact_fields(value, {
+        "schemaVersion", "cycles", "storyPlacements", "storyMoments",
+        "storySpans", "storyConfidence", "connections",
+    }, str(path))
+    if value["schemaVersion"] != 5:
         raise ValueError(f"Unsupported timeline snapshot in {path}")
-    if not isinstance(value["storyMoments"], dict):
-        raise ValueError(f"storyMoments in {path} must be an object")
-    if not isinstance(value["storySpans"], dict):
-        raise ValueError(f"storySpans in {path} must be an object")
-    if not isinstance(value["storyConfidence"], dict):
-        raise ValueError(f"storyConfidence in {path} must be an object")
+    for key in ("storyPlacements", "storyMoments", "storySpans", "storyConfidence"):
+        if not isinstance(value[key], dict):
+            raise ValueError(f"{key} must be an object")
+    known = {story.slug for story in catalog.stories}
+    for key in ("storyPlacements", "storyConfidence"):
+        if set(value[key]) != known:
+            raise ValueError(f"{key} must cover every published story exactly once")
 
-    known_slugs = {story.slug for story in catalog.stories}
-    seen_ids: set[str] = set()
-    placed_slugs: set[str] = set()
-    default_confidence: dict[str, str] = {}
-    chapters: list[TimelineChapter] = []
-    chapter_fields = {
-        "id",
-        "magicState",
-        "ordered",
-        "type",
-        "eyebrow",
-        "title",
-        "description",
-        "sequenceNote",
-        "confidence",
-        "stories",
-        "constellations",
-    }
-    supported_types = {"era", "branch", "field", "hinge", "interval"}
-
-    for index, item in enumerate(value["chapters"]):
-        label = f"timeline chapter {index}"
+    placements: dict[str, TimelinePlacement] = {}
+    for slug, item in value["storyPlacements"].items():
         if not isinstance(item, dict):
-            raise ValueError(f"{label} must be an object")
-        require_exact_fields(item, chapter_fields, label)
-        chapter_id = _timeline_text(item["id"], f"{label} id")
-        magic_state = _timeline_text(item["magicState"], f"{label} magicState")
-        if not isinstance(item["ordered"], bool):
-            raise ValueError(f"{label} ordered must be a boolean")
-        chapter_type = _timeline_text(item["type"], f"{label} type")
-        chapter_confidence = _timeline_text(item["confidence"], f"{label} confidence")
-        if not SLUG.fullmatch(chapter_id) or chapter_id in seen_ids:
-            raise ValueError(f"{label} has an invalid or duplicate id")
-        if chapter_type not in supported_types:
-            raise ValueError(f"{label} has unsupported type {chapter_type}")
-        if magic_state not in TIMELINE_MAGIC_STATES:
-            raise ValueError(f"{label} has unsupported magic state {magic_state}")
-        if chapter_confidence not in PLACEMENT_CONFIDENCE:
-            raise ValueError(
-                f"{label} has unsupported confidence {chapter_confidence}"
-            )
-        if not isinstance(item["constellations"], list):
-            raise ValueError(f"{label} constellations must be a list")
-
-        seen_ids.add(chapter_id)
-        stories = _timeline_story_slugs(item["stories"], f"{label} stories")
-        groups: list[TimelineGroup] = []
-        for group_index, group_value in enumerate(item["constellations"]):
-            group = _timeline_group(group_value, f"{label} constellation {group_index}")
-            if group.id in seen_ids:
-                raise ValueError(f"Timeline id {group.id} is duplicated")
-            seen_ids.add(group.id)
-            groups.append(group)
-
-        chapter_slugs = [*stories, *(slug for group in groups for slug in group.stories)]
-        unknown = sorted(set(chapter_slugs) - known_slugs)
-        repeated_here = sorted(
-            slug for slug in set(chapter_slugs) if chapter_slugs.count(slug) > 1
-        )
-        duplicate = sorted(slug for slug in chapter_slugs if slug in placed_slugs)
-        if unknown:
-            raise ValueError(f"{label} references unknown stories: {unknown}")
-        if repeated_here:
-            raise ValueError(f"{label} repeats stories within the chapter: {repeated_here}")
-        if duplicate:
-            raise ValueError(f"{label} repeats already placed stories: {duplicate}")
-        placed_slugs.update(chapter_slugs)
-        default_confidence.update({slug: chapter_confidence for slug in stories})
-        for group in groups:
-            default_confidence.update({slug: group.confidence for slug in group.stories})
-
-        chapters.append(
-            TimelineChapter(
-                id=chapter_id,
-                magic_state=magic_state,
-                ordered=item["ordered"],
-                type=chapter_type,
-                eyebrow=_timeline_text(item["eyebrow"], f"{label} eyebrow"),
-                title=_timeline_text(item["title"], f"{label} title"),
-                description=_timeline_text(item["description"], f"{label} description"),
-                sequence_note=_timeline_text(
-                    item["sequenceNote"], f"{label} sequenceNote"
-                ),
-                confidence=chapter_confidence,
-                stories=stories,
-                constellations=tuple(groups),
-            )
-        )
-
-    moments: dict[str, tuple[str, ...]] = {}
-    for slug, labels in value["storyMoments"].items():
-        if slug not in known_slugs:
-            raise ValueError(f"storyMoments references unknown story {slug}")
-        if not isinstance(labels, list) or not labels or len(labels) > 8:
-            raise ValueError(f"storyMoments for {slug} must contain one to eight labels")
-        moments[slug] = tuple(
-            _timeline_text(moment, f"storyMoments for {slug}") for moment in labels
-        )
-
-    spans: dict[str, TimelineSpan] = {}
-    for slug, span in value["storySpans"].items():
-        if slug not in known_slugs:
-            raise ValueError(f"storySpans references unknown story {slug}")
-        if slug not in placed_slugs:
-            raise ValueError(f"storySpans references unplaced story {slug}")
-        if not isinstance(span, dict):
-            raise ValueError(f"storySpans for {slug} must be an object")
-        require_exact_fields(span, {"start", "end", "note"}, f"storySpans for {slug}")
-        spans[slug] = TimelineSpan(
-            start=_timeline_text(span["start"], f"storySpans start for {slug}"),
-            end=_timeline_text(span["end"], f"storySpans end for {slug}"),
-            note=_timeline_text(span["note"], f"storySpans note for {slug}"),
-        )
-
-    confidence = dict(default_confidence)
-    for slug, level in value["storyConfidence"].items():
-        if slug not in known_slugs:
-            raise ValueError(f"storyConfidence references unknown story {slug}")
-        if level not in PLACEMENT_CONFIDENCE:
-            raise ValueError(f"storyConfidence for {slug} is unsupported: {level}")
-        confidence[slug] = level
-
-    if placed_slugs != known_slugs:
-        raise ValueError(f"Chronology is missing published stories: {sorted(known_slugs - placed_slugs)}")
+            raise ValueError(f"Placement for {slug} must be an object")
+        require_exact_fields(item, {"position", "note"}, f"Placement for {slug}")
+        position = item["position"]
+        if (isinstance(position, bool) or not isinstance(position, (int, float))
+                or not math.isfinite(position) or not 0 < position < 100):
+            raise ValueError(f"Placement position for {slug} must be finite and between 0 and 100")
+        placements[slug] = TimelinePlacement(float(position), _timeline_text(item["note"], f"Placement note for {slug}"))
 
     if not isinstance(value["cycles"], list) or not value["cycles"]:
         raise ValueError("Timeline cycles must be a non-empty list")
     cycles: list[TimelineCycle] = []
     cycle_ids: set[str] = set()
-    assigned_chapters: set[str] = set()
-    chapter_states = {chapter.id: chapter.magic_state for chapter in chapters}
+    assigned: set[str] = set()
     for item in value["cycles"]:
         if not isinstance(item, dict):
             raise ValueError("Timeline cycle must be an object")
-        require_exact_fields(item, {"id", "title", "eyebrow", "magicState", "description", "sequenceNote", "chapters"}, "Timeline cycle")
+        require_exact_fields(item, {"id", "title", "eyebrow", "magicState", "description", "sequenceNote", "stories"}, "Timeline cycle")
         cycle_id = _timeline_text(item["id"], "Cycle id")
         if not SLUG.fullmatch(cycle_id) or cycle_id in cycle_ids:
             raise ValueError("Timeline cycle has an invalid or duplicate id")
-        state = item["magicState"]
+        state = _timeline_text(item["magicState"], "Cycle magic state")
         if state not in TIMELINE_MAGIC_STATES:
             raise ValueError("Timeline cycle has an unsupported magic state")
-        ids = _timeline_story_slugs(item["chapters"], "Cycle chapters")
-        if not ids or set(ids) - chapter_states.keys() or set(ids) & assigned_chapters:
-            raise ValueError("Cycle chapters must be known, non-empty, and assigned exactly once")
-        if any(chapter_states[chapter_id] != state for chapter_id in ids):
-            raise ValueError("Cycle and chapter magic states must agree")
+        slugs = _timeline_story_slugs(item["stories"], "Cycle stories")
+        if not slugs or set(slugs) - known:
+            raise ValueError("Cycle stories must be known and non-empty")
+        if set(slugs) & assigned:
+            raise ValueError("Cycle repeats already placed stories")
+        positions = [placements[slug].position for slug in slugs]
+        if any(left >= right for left, right in zip(positions, positions[1:])):
+            raise ValueError("Story positions must increase strictly within each cycle")
         cycles.append(TimelineCycle(
             cycle_id, _timeline_text(item["title"], "Cycle title"),
             _timeline_text(item["eyebrow"], "Cycle eyebrow"), state,
             _timeline_text(item["description"], "Cycle description"),
-            _timeline_text(item["sequenceNote"], "Cycle sequenceNote"), ids,
+            _timeline_text(item["sequenceNote"], "Cycle sequenceNote"), slugs,
         ))
         cycle_ids.add(cycle_id)
-        assigned_chapters.update(ids)
-    if assigned_chapters != chapter_states.keys():
-        raise ValueError("Every chronology chapter must belong to a cycle")
+        assigned.update(slugs)
+    if assigned != known:
+        raise ValueError(f"Chronology is missing published stories: {sorted(known - assigned)}")
+
+    confidence = {}
+    for slug, level in value["storyConfidence"].items():
+        if not isinstance(level, str) or level not in PLACEMENT_CONFIDENCE:
+            raise ValueError(f"storyConfidence for {slug} is unsupported")
+        confidence[slug] = level
+    moments = {}
+    for slug, labels in value["storyMoments"].items():
+        if slug not in known:
+            raise ValueError(f"storyMoments references unknown story {slug}")
+        if not isinstance(labels, list) or not labels or len(labels) > 8:
+            raise ValueError(f"storyMoments for {slug} must contain one to eight labels")
+        moments[slug] = tuple(_timeline_text(label, f"Moment for {slug}") for label in labels)
+    spans = {}
+    for slug, span in value["storySpans"].items():
+        if slug not in known or not isinstance(span, dict):
+            raise ValueError(f"Invalid storySpans entry for {slug}")
+        require_exact_fields(span, {"start", "end", "note"}, f"storySpans for {slug}")
+        spans[slug] = TimelineSpan(*(_timeline_text(span[key], f"Span {key} for {slug}") for key in ("start", "end", "note")))
 
     if not isinstance(value["connections"], list):
         raise ValueError("Timeline connections must be a list")
-    connections: list[TimelineConnection] = []
+    connections = []
     connection_ids: set[str] = set()
     connection_pairs: set[tuple[str, str, str]] = set()
     for item in value["connections"]:
@@ -764,10 +606,12 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             raise ValueError("Timeline connection must be an object")
         require_exact_fields(item, {"id", "from", "to", "kind", "label", "note"}, "Timeline connection")
         connection_id = _timeline_text(item["id"], "Connection id")
-        source, target, kind = item["from"], item["to"], item["kind"]
+        source = _timeline_text(item["from"], "Connection source")
+        target = _timeline_text(item["to"], "Connection target")
+        kind = _timeline_text(item["kind"], "Connection kind")
         if not SLUG.fullmatch(connection_id) or connection_id in connection_ids:
             raise ValueError("Timeline connection has an invalid or duplicate id")
-        if source not in known_slugs or target not in known_slugs or source == target:
+        if source not in known or target not in known or source == target:
             raise ValueError("Connection endpoints must be different published stories")
         if kind not in {"direct", "echo"}:
             raise ValueError("Connection kind must be direct or echo")
@@ -779,8 +623,7 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             _timeline_text(item["note"], "Connection note")))
         connection_ids.add(connection_id)
         connection_pairs.add(pair)
-
-    return Timeline(tuple(chapters), moments, spans, confidence, tuple(cycles), tuple(connections))
+    return Timeline(tuple(cycles), placements, moments, spans, confidence, tuple(connections))
 
 
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
@@ -944,14 +787,7 @@ def validate_repository_inventory(
         for path in cover_root.iterdir()
         if not path.is_file() or path.suffix.lower() != ".jpg"
     }
-    placements = [
-        slug
-        for chapter in timeline.chapters
-        for slug in (
-            *chapter.stories,
-            *(story for group in chapter.constellations for story in group.stories),
-        )
-    ]
+    placements = [slug for cycle in timeline.cycles for slug in cycle.stories]
     placement_slugs = set(placements)
 
     problems: list[str] = []
@@ -1152,13 +988,6 @@ def render_story(story: Story) -> str:
         "../timeline.html",
         "../styles.css",
         "../theme.js",
-    )
-
-
-def _signal_chapter_slugs(chapter: TimelineChapter) -> tuple[str, ...]:
-    return (
-        *chapter.stories,
-        *(slug for group in chapter.constellations for slug in group.stories),
     )
 
 
