@@ -14,6 +14,15 @@
   const fold = atlas.querySelector('[data-toggle-details]');
   const threads = [...atlas.querySelectorAll('[data-thread-kind]')];
   const threadButtons = [...atlas.querySelectorAll('[data-thread-filter]')];
+  const weave = atlas.querySelector('[data-weave]');
+  const routes = weave.querySelector('.weave-routes');
+  const bands = [...atlas.querySelectorAll('[data-horizon-era]')];
+  const overviewBands = [...weave.querySelectorAll('[data-horizon-era]')];
+  const readout = atlas.querySelector('[data-weave-readout]');
+  const defaultReadout = readout.textContent;
+  let threadKind = 'direct';
+  let highlightedEra = null;
+  let drawFrame;
   const normalize = (value) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’‘]/g, "'");
 
   atlas.querySelectorAll('[data-orbit-title]').forEach((link) => {
@@ -50,6 +59,8 @@
     eras.forEach((era) => {
       era.hidden = ![...era.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
     });
+    const visibleEras = new Set(eras.filter((era) => !era.hidden).map((era) => era.dataset.eraSection));
+    bands.forEach((band) => band.classList.toggle('is-muted', !visibleEras.has(band.dataset.horizonEra)));
     cycles.forEach((cycle) => {
       cycle.hidden = ![...cycle.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
     });
@@ -69,10 +80,106 @@
   }
 
   function filterThreads(kind) {
+    threadKind = kind;
     threads.forEach((thread) => { thread.hidden = kind !== 'all' && thread.dataset.threadKind !== kind; });
     threadButtons.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.threadFilter === kind)));
     const total = threads.filter((thread) => !thread.hidden).length;
     atlas.querySelector('[data-thread-count]').textContent = `${total} ${total === 1 ? 'thread' : 'threads'}`;
+    const local = threads.filter((thread) => !thread.hidden && thread.dataset.fromEra === thread.dataset.toEra).length;
+    atlas.querySelector('[data-map-count]').textContent = `${total - local} connections between eras · ${local} local connections inside eras`;
+    scheduleRoutes();
+  }
+
+  function highlightEra(eraId) {
+    highlightedEra = eraId;
+    const connected = new Set(eraId ? [eraId] : []);
+    threads.filter((thread) => !thread.hidden).forEach((thread) => {
+      if (eraId && [thread.dataset.fromEra, thread.dataset.toEra].includes(eraId)) {
+        connected.add(thread.dataset.fromEra);
+        connected.add(thread.dataset.toEra);
+      }
+    });
+    bands.forEach((band) => band.classList.toggle('is-connected', connected.has(band.dataset.horizonEra)));
+    routes.classList.toggle('has-selection', Boolean(eraId));
+    [...routes.querySelectorAll('a')].forEach((link) => {
+      link.classList.toggle('is-connected', Boolean(eraId && [link.dataset.fromEra, link.dataset.toEra].includes(eraId)));
+    });
+  }
+
+  function drawRoutes() {
+    const surface = weave.getBoundingClientRect();
+    if (!surface.width || !surface.height) return;
+    routes.setAttribute('viewBox', `0 0 ${surface.width} ${surface.height}`);
+    const boxes = new Map(overviewBands.map((band) => [band.dataset.horizonEra, band.getBoundingClientRect()]));
+    routes.replaceChildren();
+    threads.forEach((thread, index) => {
+      const from = thread.dataset.fromEra;
+      const to = thread.dataset.toEra;
+      if (from === to || (threadKind !== 'all' && thread.dataset.threadKind !== threadKind)) return;
+      const source = boxes.get(from);
+      const target = boxes.get(to);
+      if (!source || !target) return;
+      const x1 = source.left - surface.left + Math.min(12, source.width / 2);
+      const y1 = source.top - surface.top + source.height / 2;
+      const x2 = target.left - surface.left + Math.min(12, target.width / 2);
+      const y2 = target.top - surface.top + target.height / 2;
+      const bend = Math.max(4, Math.min(x1, x2) - 28 - (index % 4) * 8);
+      const link = document.createElementNS('http://www.w3.org/2000/svg', 'a');
+      link.setAttribute('href', `#${thread.id}`);
+      link.setAttribute('aria-label', `${thread.dataset.threadLabel}: read connection notes`);
+      link.setAttribute('class', thread.dataset.threadKind);
+      link.dataset.fromEra = from;
+      link.dataset.toEra = to;
+      const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      path.setAttribute('d', `M${x1},${y1} C${bend},${y1} ${bend},${y2} ${x2},${y2}`);
+      const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+      title.textContent = thread.dataset.threadLabel;
+      link.append(title, path);
+      link.addEventListener('pointerenter', () => { readout.textContent = thread.dataset.threadLabel; });
+      link.addEventListener('focus', () => { readout.textContent = thread.dataset.threadLabel; });
+      routes.append(link);
+    });
+    highlightEra(highlightedEra);
+  }
+
+  function scheduleRoutes() {
+    cancelAnimationFrame(drawFrame);
+    drawFrame = requestAnimationFrame(drawRoutes);
+  }
+
+  bands.forEach((band) => {
+    const describe = () => {
+      readout.textContent = `${band.dataset.eraTitle}. ${band.dataset.eraDescription}`;
+      highlightEra(band.dataset.horizonEra);
+    };
+    const clear = () => { highlightEra(null); readout.textContent = defaultReadout; };
+    band.addEventListener('pointerenter', describe);
+    band.addEventListener('focus', describe);
+    band.addEventListener('pointerleave', clear);
+    band.addEventListener('blur', clear);
+  });
+  if ('ResizeObserver' in window) new ResizeObserver(scheduleRoutes).observe(weave);
+  window.addEventListener('resize', scheduleRoutes);
+  document.fonts?.ready.then(scheduleRoutes);
+
+  const depthPicker = atlas.querySelector('[data-depth-picker]');
+  const depthHistories = [...atlas.querySelectorAll('[data-depth-history]')];
+  function selectDepth(id) {
+    if (!depthPicker || !depthHistories.some((panel) => panel.id === id)) return;
+    depthPicker.value = id;
+    depthHistories.forEach((panel) => {
+      panel.hidden = panel.id !== id;
+      panel.classList.toggle('is-selected', panel.id === id);
+      panel.open = panel.id === id;
+    });
+  }
+  if (depthPicker) {
+    depthPicker.closest('label').hidden = false;
+    depthPicker.addEventListener('change', () => {
+      selectDepth(depthPicker.value);
+      history.replaceState(null, '', `#${depthPicker.value}`);
+    });
+    selectDepth(depthPicker.value);
   }
 
   function revealFragment(hash, moveFocus = false) {
@@ -80,6 +187,7 @@
     try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
     const target = document.getElementById(id);
     if (!target) return;
+    if (target.matches('[data-depth-history]')) selectDepth(id);
     if (target.closest('[data-cycle-section]')) {
       resetStories();
       const detail = target.closest('.worldline-event')?.querySelector('[data-event-details]');
@@ -114,6 +222,7 @@
   });
   window.addEventListener('hashchange', () => revealFragment(location.hash, true));
   revealFragment(location.hash, Boolean(location.hash));
+  filterThreads(location.hash.startsWith('#thread-') ? 'all' : 'direct');
 
   if ('IntersectionObserver' in window) {
     const links = [...atlas.querySelectorAll('[data-cycle-link]')];

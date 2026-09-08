@@ -47,14 +47,30 @@ The Chronology reconstructs one world's long history through Galactic Cycles,
 historical eras, and individual stories. An era groups stories by compatible
 institutions, technology, magical conditions, and inherited history. Different
 societies can coexist within a period; similar forms can recur long afterward.
-Each era explains its context and place in the larger succession. Every story
-has a schematic position and a placement rationale in `pages/timeline.json`.
+Each era explains its context and place in the larger succession. Era bands and
+story windows describe possible horizons within a cycle, not measured durations.
+Overlapping horizons allow regional contemporaries; a story's location is not
+inferred from its position in a displayed list. Each has a placement rationale
+in `pages/timeline.json`.
 Grouping and broad succession are editorial proposals; established local
 intervals and the worldline backbone constrain them. Exact Galactic dates
-remain unresolved. Connections distinguish direct sequences from echoes.
+remain unresolved. Evidence labels describe established boundaries, constraints,
+relative sequences, contextual evidence, or undated frames independently of
+proposed placement. Connections distinguish direct sequences, explicitly proposed
+historical interpretations, and thematic echoes. Only connections marked
+`ordering: before` impose a relative order. The history map draws those different
+relationships between overlapping era bands; local sequences remain visible
+beside the stories.
+The historical layers explorer unfolds stories with recorded spans and at least
+three moments. These steps follow each story's internal chronology, including
+older events outside its proposed era; their visual thickness is symbolic.
+The explorer and map share the same chronology data and keep working as native
+links and disclosure panels when JavaScript is unavailable.
 The validator requires complete story coverage, unique era IDs, historical
-context for each era, increasing schematic positions within each cycle, and
-valid connection endpoints before Pages can build.
+context for each era, finite windows contained by their eras, valid connection
+endpoints and evidence categories, and a feasible partial chronological order
+before Pages can build. Circular or transitively impossible sequences are rejected;
+overlapping windows and independent display orders are supported.
 
 ## Local commands
 

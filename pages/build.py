@@ -35,7 +35,7 @@ TITLE_IMAGE_NAME = "title-image.jpg"
 SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RATINGS = frozenset({"PG", "YA", "R+"})
-PLACEMENT_CONFIDENCE = frozenset({"fixed", "inferred", "speculative", "unresolved"})
+TIMELINE_EVIDENCE = frozenset({"boundary", "constrained", "relative", "contextual", "undated"})
 TIMELINE_MAGIC_STATES = frozenset(
     {"old-magic", "long-dark", "new-magic", "uncertain", "off-axis"}
 )
@@ -73,6 +73,12 @@ class TimelineSpan:
 
 
 @dataclass(frozen=True)
+class TimelineWindow:
+    start: float
+    end: float
+
+
+@dataclass(frozen=True)
 class TimelineEra:
     id: str
     title: str
@@ -80,6 +86,7 @@ class TimelineEra:
     context: tuple[str, ...]
     sequence_note: str
     stories: tuple[str, ...]
+    window: TimelineWindow
 
 
 @dataclass(frozen=True)
@@ -105,11 +112,13 @@ class TimelineConnection:
     kind: str
     label: str
     note: str
+    ordering: str
+    basis: str
 
 
 @dataclass(frozen=True)
 class TimelinePlacement:
-    position: float
+    window: TimelineWindow
     note: str
 
 
@@ -119,7 +128,7 @@ class Timeline:
     story_placements: dict[str, TimelinePlacement]
     story_moments: dict[str, tuple[str, ...]]
     story_spans: dict[str, TimelineSpan]
-    story_confidence: dict[str, str]
+    story_evidence: dict[str, str]
     connections: tuple[TimelineConnection, ...]
 
 
@@ -530,19 +539,81 @@ def _timeline_story_slugs(value: Any, label: str) -> tuple[str, ...]:
     return slugs
 
 
+def _timeline_window(value: Any, label: str) -> TimelineWindow:
+    if not isinstance(value, dict):
+        raise ValueError(f"{label} must be an object")
+    require_exact_fields(value, {"start", "end"}, label)
+    start, end = value["start"], value["end"]
+    if any(isinstance(number, bool) or not isinstance(number, (int, float))
+           or not math.isfinite(number) for number in (start, end)):
+        raise ValueError(f"{label} bounds must be finite numbers")
+    if not 0 <= start < end <= 100:
+        raise ValueError(f"{label} must have 0 <= start < end <= 100")
+    return TimelineWindow(float(start), float(end))
+
+
+def _validate_timeline_order(cycles, placements, connections):
+    """Check a partial order against possible horizons, without dating peers."""
+    locations = {slug: index for index, cycle in enumerate(cycles) for slug in cycle.stories}
+    successors = {slug: set() for slug in placements}
+    incoming = {slug: 0 for slug in placements}
+    earliest = {slug: locations[slug] * 100 + place.window.start for slug, place in placements.items()}
+    latest = {slug: locations[slug] * 100 + place.window.end for slug, place in placements.items()}
+    state_order = {"old-magic": 0, "long-dark": 1, "new-magic": 2}
+    states = [state_order[cycle.magic_state] for cycle in cycles if cycle.magic_state in state_order]
+    if states != sorted(states):
+        raise ValueError("Worldline history must preserve old magic, Long Dark, then new magic")
+
+    def precedes(source, target):
+        if target not in successors[source]:
+            successors[source].add(target)
+            incoming[target] += 1
+
+    for link in connections:
+        if link.ordering == "before":
+            precedes(link.source, link.target)
+    # The material frames respect the two boundaries even without individual
+    # connection cards repeating the same worldline rule for every story.
+    for anchor, state, closes in (("all-accounts-due", "old-magic", True),
+                                  ("the-sky-remembers-us-return", "new-magic", False)):
+        if anchor not in locations:
+            continue
+        if cycles[locations[anchor]].magic_state != state:
+            raise ValueError(f"Worldline boundary {anchor} has the wrong magic state")
+        for cycle in cycles:
+            if cycle.magic_state == state:
+                for slug in cycle.stories:
+                    if slug != anchor:
+                        precedes(slug, anchor) if closes else precedes(anchor, slug)
+    ready = [slug for slug, degree in incoming.items() if degree == 0]
+    visited = 0
+    while ready:
+        source = ready.pop()
+        visited += 1
+        if earliest[source] >= latest[source]:
+            raise ValueError(f"Chronological connection contradicts the proposed window for {source}")
+        for target in successors[source]:
+            earliest[target] = max(earliest[target], earliest[source])
+            incoming[target] -= 1
+            if incoming[target] == 0:
+                ready.append(target)
+    if visited != len(placements):
+        raise ValueError("Chronological connections contain a cycle")
+
+
 def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     value = read_json_object(path)
     require_exact_fields(value, {
         "schemaVersion", "cycles", "storyPlacements", "storyMoments",
-        "storySpans", "storyConfidence", "connections",
+        "storySpans", "storyEvidence", "connections",
     }, str(path))
-    if value["schemaVersion"] != 6:
+    if value["schemaVersion"] != 7:
         raise ValueError(f"Unsupported timeline snapshot in {path}")
-    for key in ("storyPlacements", "storyMoments", "storySpans", "storyConfidence"):
+    for key in ("storyPlacements", "storyMoments", "storySpans", "storyEvidence"):
         if not isinstance(value[key], dict):
             raise ValueError(f"{key} must be an object")
     known = {story.slug for story in catalog.stories}
-    for key in ("storyPlacements", "storyConfidence"):
+    for key in ("storyPlacements", "storyEvidence"):
         if set(value[key]) != known:
             raise ValueError(f"{key} must cover every published story exactly once")
 
@@ -550,12 +621,9 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     for slug, item in value["storyPlacements"].items():
         if not isinstance(item, dict):
             raise ValueError(f"Placement for {slug} must be an object")
-        require_exact_fields(item, {"position", "note"}, f"Placement for {slug}")
-        position = item["position"]
-        if (isinstance(position, bool) or not isinstance(position, (int, float))
-                or not math.isfinite(position) or not 0 < position < 100):
-            raise ValueError(f"Placement position for {slug} must be finite and between 0 and 100")
-        placements[slug] = TimelinePlacement(float(position), _timeline_text(item["note"], f"Placement note for {slug}"))
+        require_exact_fields(item, {"window", "note"}, f"Placement for {slug}")
+        placements[slug] = TimelinePlacement(_timeline_window(item["window"], f"Placement window for {slug}"),
+                                            _timeline_text(item["note"], f"Placement note for {slug}"))
 
     if not isinstance(value["cycles"], list) or not value["cycles"]:
         raise ValueError("Timeline cycles must be a non-empty list")
@@ -579,7 +647,7 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
         for era in item["eras"]:
             if not isinstance(era, dict):
                 raise ValueError("Timeline era must be an object")
-            require_exact_fields(era, {"id", "title", "description", "context", "sequenceNote", "stories"}, "Timeline era")
+            require_exact_fields(era, {"id", "title", "description", "context", "sequenceNote", "stories", "window"}, "Timeline era")
             era_id = _timeline_text(era["id"], "Era id")
             if not SLUG.fullmatch(era_id) or era_id in era_ids:
                 raise ValueError("Timeline era has an invalid or duplicate id")
@@ -591,17 +659,17 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             if not isinstance(era["context"], list) or not 2 <= len(era["context"]) <= 4:
                 raise ValueError("Era context must give two to four historical observations")
             context = tuple(_timeline_text(observation, "Era context") for observation in era["context"])
+            window = _timeline_window(era["window"], f"Era window for {era_id}")
+            for slug in era_slugs:
+                if not window.start <= placements[slug].window.start < placements[slug].window.end <= window.end:
+                    raise ValueError(f"Story window for {slug} lies outside its era")
             eras.append(TimelineEra(
                 era_id, _timeline_text(era["title"], "Era title"),
                 _timeline_text(era["description"], "Era description"), context,
-                _timeline_text(era["sequenceNote"], "Era sequenceNote"), era_slugs,
+                _timeline_text(era["sequenceNote"], "Era sequenceNote"), era_slugs, window,
             ))
             era_ids.add(era_id)
             assigned.update(era_slugs)
-        slugs = tuple(slug for era in eras for slug in era.stories)
-        positions = [placements[slug].position for slug in slugs]
-        if any(left >= right for left, right in zip(positions, positions[1:])):
-            raise ValueError("Story positions must increase strictly within each cycle")
         cycles.append(TimelineCycle(
             cycle_id, _timeline_text(item["title"], "Cycle title"),
             _timeline_text(item["eyebrow"], "Cycle eyebrow"), state,
@@ -612,11 +680,11 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     if assigned != known:
         raise ValueError(f"Chronology is missing published stories: {sorted(known - assigned)}")
 
-    confidence = {}
-    for slug, level in value["storyConfidence"].items():
-        if not isinstance(level, str) or level not in PLACEMENT_CONFIDENCE:
-            raise ValueError(f"storyConfidence for {slug} is unsupported")
-        confidence[slug] = level
+    evidence = {}
+    for slug, level in value["storyEvidence"].items():
+        if not isinstance(level, str) or level not in TIMELINE_EVIDENCE:
+            raise ValueError(f"storyEvidence for {slug} is unsupported")
+        evidence[slug] = level
     moments = {}
     for slug, labels in value["storyMoments"].items():
         if slug not in known:
@@ -639,7 +707,7 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     for item in value["connections"]:
         if not isinstance(item, dict):
             raise ValueError("Timeline connection must be an object")
-        require_exact_fields(item, {"id", "from", "to", "kind", "label", "note"}, "Timeline connection")
+        require_exact_fields(item, {"id", "from", "to", "kind", "label", "note", "ordering", "basis"}, "Timeline connection")
         connection_id = _timeline_text(item["id"], "Connection id")
         source = _timeline_text(item["from"], "Connection source")
         target = _timeline_text(item["to"], "Connection target")
@@ -648,17 +716,26 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             raise ValueError("Timeline connection has an invalid or duplicate id")
         if source not in known or target not in known or source == target:
             raise ValueError("Connection endpoints must be different published stories")
-        if kind not in {"direct", "echo"}:
-            raise ValueError("Connection kind must be direct or echo")
+        if kind not in {"direct", "echo", "historical"}:
+            raise ValueError("Connection kind must be direct, historical or echo")
+        ordering = _timeline_text(item["ordering"], "Connection ordering")
+        basis = _timeline_text(item["basis"], "Connection basis")
+        if ordering not in {"before", "none"}:
+            raise ValueError("Connection ordering must be before or none")
+        allowed_basis = {"direct": {"established", "reading-sequence"},
+                         "historical": {"proposed"}, "echo": {"thematic"}}
+        if basis not in allowed_basis[kind] or (kind == "echo" and ordering != "none"):
+            raise ValueError("Connection basis and ordering must match its kind")
         pair = (min(source, target), max(source, target), kind)
         if pair in connection_pairs:
             raise ValueError("Timeline connection repeats a story pair")
         connections.append(TimelineConnection(connection_id, source, target, kind,
             _timeline_text(item["label"], "Connection label"),
-            _timeline_text(item["note"], "Connection note")))
+            _timeline_text(item["note"], "Connection note"), ordering, basis))
         connection_ids.add(connection_id)
         connection_pairs.add(pair)
-    return Timeline(tuple(cycles), placements, moments, spans, confidence, tuple(connections))
+    _validate_timeline_order(cycles, placements, connections)
+    return Timeline(tuple(cycles), placements, moments, spans, evidence, tuple(connections))
 
 
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:

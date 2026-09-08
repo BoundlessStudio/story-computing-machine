@@ -14,11 +14,15 @@ STATE_LABELS = {
     "off-axis": "Beyond the material clock",
 }
 EVIDENCE = {
-    "fixed": "Fixed anchor",
-    "inferred": "Relative link",
-    "speculative": "Proposed placement",
-    "unresolved": "Date unresolved",
+    "boundary": "Worldline boundary",
+    "constrained": "Established constraint",
+    "relative": "Relative sequence",
+    "contextual": "Contextual evidence",
+    "undated": "Date unresolved",
 }
+LINK_LABELS = {"direct": "Direct connection", "historical": "Historical hypothesis", "echo": "Thematic echo"}
+BASIS_LABELS = {"established": "Established chronology", "reading-sequence": "Supplied reading sequence",
+                "proposed": "Proposed historical interpretation", "thematic": "A parallel, not a date"}
 
 
 def esc(value):
@@ -60,13 +64,104 @@ def orbit_map(cycles):
     )
 
 
-def period(position):
-    return "Early" if position < 34 else "Middle" if position < 67 else "Late"
+def horizon(cycle, *, overview=False):
+    """Pack possible era intervals in lanes; intersection never implies descent."""
+    ends, bands = [], []
+    for era in sorted(cycle.eras, key=lambda era: (era.window.start, era.window.end)):
+        narrow = era.window.end - era.window.start < 15
+        lane = len(ends) if narrow else next((index for index, end in enumerate(ends) if end <= era.window.start), len(ends))
+        if lane == len(ends):
+            ends.append(100 if narrow else era.window.end)
+        else:
+            ends[lane] = era.window.end
+        bands.append(
+            f'<a class="horizon-band{" narrow-horizon" if narrow else ""}{" end-horizon" if narrow and era.window.start > 50 else ""}" href="#era-{esc(era.id)}" '
+            f'data-horizon-era="{esc(era.id)}" data-era-title="{esc(era.title)}" '
+            f'data-era-description="{esc(era.description)}" '
+            f'aria-label="{esc(era.title)}: {len(era.stories)} stories, proposed horizon" '
+            f'title="{esc(era.title)} · {len(era.stories)} stories" '
+            f'style="--start:{era.window.start:g}%;--range:{era.window.end-era.window.start:g}%;--lane:{lane}">'
+            f'<span>{esc(era.title)}</span><small>{len(era.stories)} {"life" if len(era.stories) == 1 else "lives"}</small></a>'
+        )
+    return f'<div class="era-horizon{" overview-horizon" if overview else ""}" style="--lanes:{len(ends)}">{"".join(bands)}</div>'
+
+
+def weave(cycles):
+    rows = ''.join(
+        f'<div class="weave-row state-{cycle.magic_state}"><a class="weave-cycle" href="#cycle-{esc(cycle.id)}">'
+        f'<span>{index:02d}</span><strong>{esc(cycle.title)}</strong><small>{STATE_LABELS[cycle.magic_state]}</small></a>'
+        f'{horizon(cycle, overview=True)}</div>' for index, cycle in enumerate(cycles, 1)
+    )
+    return (
+        '<section class="atlas-weave" id="atlas-weave" aria-labelledby="weave-title">'
+        '<header class="weave-heading"><div><p class="atlas-kicker">A palimpsest of civilizations</p>'
+        '<h2 id="weave-title">Many lives.<br><em>One unfolding world.</em></h2></div>'
+        '<p>Read the great turns downward. Within each turn, bands open from earlier to later. '
+        'Overlapping bands leave room for societies living at the same time. Enter one to meet its people.</p></header>'
+        '<div class="weave-key"><span class="band-swatch">Proposed era horizon</span>'
+        '<span>Overlapping horizons ≠ a shared civilization</span><span>Distances are unmeasured</span></div>'
+        '<div class="weave-tools"><div class="weave-toolbar"><div class="thread-controls" role="group" aria-label="Connections on the history map" hidden>'
+        '<button type="button" data-thread-filter="direct" aria-pressed="true">Direct connections</button>'
+        '<button type="button" data-thread-filter="historical" aria-pressed="false">Historical hypotheses</button>'
+        '<button type="button" data-thread-filter="echo" aria-pressed="false">Thematic echoes</button>'
+        '<button type="button" data-thread-filter="all" aria-pressed="false">All threads</button></div>'
+        '<a href="#atlas-threads">Read the connection notes ↗</a></div><p class="weave-count" data-map-count aria-live="polite"></p>'
+        '<p class="weave-readout" role="status" data-weave-readout>Follow a band to explore its era. Lines connect stories; they do not date the space between them.</p></div>'
+        f'<div class="weave-surface" data-weave><svg class="weave-routes" aria-label="Connections between eras"></svg>{rows}</div>'
+        '</section>'
+    )
+
+
+def depth_explorer(stories, timeline, locations):
+    """Expose local historical layers without inventing Galactic coordinates."""
+    panels, options = [], []
+    for cycle in timeline.cycles:
+        for slug in cycle.stories:
+            span = timeline.story_spans.get(slug)
+            moments = timeline.story_moments.get(slug, ())
+            if not span or len(moments) < 3:
+                continue
+            story = stories[slug]
+            options.append(f'<option value="depth-{esc(slug)}">{esc(story.title)}</option>')
+            layers = ''.join(
+                f'<li><span class="depth-number" aria-hidden="true">{index:02d}</span>'
+                f'<p>{esc(moment)}</p></li>' for index, moment in enumerate(moments, 1)
+            )
+            panels.append(
+                f'<details class="depth-history state-{cycle.magic_state}" id="depth-{esc(slug)}" '
+                f'data-depth-history{" open" if not panels else ""}>'
+                f'<summary>{esc(story.title)}</summary><div class="depth-cutaway">'
+                '<div class="depth-art"><span class="depth-axis">Earlier traces ↓ Later lives</span>'
+                f'<a href="stories/{esc(slug)}.html" aria-label="Read {esc(story.title)}">'
+                f'<img src="{esc(story.cover)}" alt="" width="864" height="1536" loading="lazy"></a>'
+                f'<span class="depth-cycle">Proposed cycle {locations[slug][0]:02d}</span></div>'
+                f'<div class="depth-layers"><p class="atlas-kicker">The history carried inside this story</p>'
+                f'<h3>{esc(story.title)}</h3><ol>{layers}</ol>'
+                f'<p class="depth-scale">{esc(span.note)}</p>'
+                f'<a class="depth-return" href="#story-{esc(slug)}" data-locate-story="{esc(slug)}">Find this life among its contemporaries ↗</a>'
+                '</div></div></details>'
+            )
+    if not panels:
+        return ''
+    return (
+        '<section class="atlas-depths" id="atlas-depths" aria-labelledby="depth-title">'
+        '<header><div><p class="atlas-kicker">Beneath the present</p>'
+        '<h2 id="depth-title">Every age has<br><em>older worlds inside it.</em></h2></div>'
+        '<p>A forest grows over a vanished hall. A ruler inherits an ancient name. '
+        'An ordinary evening carries centuries. Open a story and follow the layers it actually remembers.</p></header>'
+        '<label class="depth-picker" hidden><span>Choose a history to unfold</span>'
+        f'<select data-depth-picker>{"".join(options)}</select></label>'
+        f'<div class="depth-histories">{"".join(panels)}</div>'
+        '<p class="depth-footnote">These are intervals and sequences within individual stories. '
+        'Layer thickness is symbolic; a remembered event can reach beyond its story’s proposed era.</p></section>'
+    )
 
 
 def render(catalog, timeline):
     stories = {story.slug: story for story in catalog.stories}
     locations = {slug: (number, cycle) for number, cycle in enumerate(timeline.cycles, 1) for slug in cycle.stories}
+    depth_view = depth_explorer(stories, timeline, locations)
+    depth_invitation = '<a class="atlas-deeper" href="#atlas-depths">Explore the histories within ↓</a>' if depth_view else ''
     story_eras = {slug: era for cycle in timeline.cycles for era in cycle.eras for slug in era.stories}
     related = {slug: [] for slug in stories}
     for connection in timeline.connections:
@@ -80,12 +175,11 @@ def render(catalog, timeline):
             f'<span>{number:02d}</span><strong>{esc(cycle.title)}</strong><small>{len(cycle.eras)} eras · {len(cycle.stories)} stories</small></a>'
         )
         events = {}
-        previous_position = 0
         for local_index, slug in enumerate(cycle.stories):
             story = stories[slug]
             era = story_eras[slug]
             placement = timeline.story_placements[slug]
-            confidence = timeline.story_confidence[slug]
+            evidence = timeline.story_evidence[slug]
             moments = timeline.story_moments.get(slug, ())
             span = timeline.story_spans.get(slug)
             span_html = f'<p class="story-span"><b>{esc(span.start)} → {esc(span.end)}</b>{esc(span.note)}</p>' if span else ''
@@ -96,57 +190,57 @@ def render(catalog, timeline):
                 other_number, other_cycle = locations[other]
                 crossing = f'Cycle {other_number:02d} · {story_eras[other].title}' if other_cycle.id != cycle.id else story_eras[other].title
                 connections.append(
-                    f'<li class="event-connection {link.kind}"><span>{"Direct connection" if link.kind == "direct" else "Thematic echo"} · {crossing}</span>'
+                    f'<li class="event-connection {link.kind}"><span>{LINK_LABELS[link.kind]} · {crossing}</span>'
                     f'<a href="#story-{esc(other)}" data-locate-story="{esc(other)}">{esc(stories[other].title)} <i aria-hidden="true">↗</i></a>'
                     f'<small>{esc(link.label)}</small><a class="connection-evidence" href="#thread-{esc(link.id)}">Connection notes</a></li>'
                 )
             connection_html = f'<ul class="event-connections">{"".join(connections)}</ul>' if connections else ''
             details = (
-                f'<details class="event-details" data-event-details><summary>Local time &amp; connections <span aria-hidden="true">+</span></summary>'
+                f'<details class="event-details" data-event-details><summary>Surviving evidence &amp; connections <span aria-hidden="true">+</span></summary>'
                 f'<div>{moment_html}{span_html}{connection_html}</div></details>'
                 if moments or span or connections else ''
             )
-            gap = 20 if slug == era.stories[0] else min(55, max(14, (placement.position - previous_position) * 4))
             events[slug] = (
-                f'<article class="worldline-event event-{"left" if local_index % 2 == 0 else "right"}" id="story-{esc(slug)}" '
-                f'data-story-slug="{esc(slug)}" data-position="{placement.position:g}" '
+                f'<article class="worldline-event evidence-{evidence}" id="story-{esc(slug)}" '
+                f'data-story-slug="{esc(slug)}" '
                 f'data-search="{esc(" ".join((story.title, cycle.title, era.title, era.description, *era.context, placement.note, *moments)).lower())}" '
-                f'data-placement-confidence="{confidence}" style="--event-gap:{gap:.1f}px">'
-                f'<span class="event-coordinate">{period(placement.position)} in cycle {number:02d}</span>'
-                f'<span class="event-node evidence-{confidence}" aria-hidden="true"></span>'
+                f'data-story-evidence="{evidence}">'
                 '<div class="event-card">'
                 f'<a class="atlas-cover" href="stories/{esc(slug)}.html" aria-label="Read {esc(story.title)}">'
                 f'<img src="{esc(story.cover)}" alt="" width="864" height="1536" loading="lazy" decoding="async"></a>'
                 '<div class="event-copy">'
-                f'<span class="evidence evidence-{confidence}">{EVIDENCE[confidence]}</span>'
+                f'<span class="evidence evidence-{evidence}">{EVIDENCE[evidence]}</span>'
                 f'<h4><a href="stories/{esc(slug)}.html">{esc(story.title)}</a></h4>'
+                '<p class="placement-status">Era placement proposed</p>'
                 f'<p class="event-placement">{esc(placement.note)}</p>{details}</div></div></article>'
             )
-            previous_position = placement.position
         era_panels = []
         for era_number, era in enumerate(cycle.eras, 1):
             context = ''.join(f'<li>{esc(observation)}</li>' for observation in era.context)
+            peers = [peer for peer in cycle.eras if peer.id != era.id
+                     and max(peer.window.start, era.window.start) < min(peer.window.end, era.window.end)]
+            peers_html = ('<div class="era-peers"><span>May share a horizon with</span>'
+                          + ''.join(f'<a href="#era-{esc(peer.id)}">{esc(peer.title)} ↗</a>' for peer in peers)
+                          + '</div>') if peers else ''
+            local_links = [link for link in timeline.connections if link.ordering == "before"
+                           and link.source in era.stories and link.target in era.stories]
+            paths = ''.join(
+                f'<li><span>{BASIS_LABELS[link.basis]}</span><a href="#story-{esc(link.source)}">{esc(stories[link.source].title)}</a>'
+                f'<b aria-label="before">→</b><a href="#story-{esc(link.target)}">{esc(stories[link.target].title)}</a></li>'
+                for link in local_links
+            )
+            local_order = f'<ul class="era-local-order" aria-label="Known and proposed local sequences">{paths}</ul>' if paths else ''
             era_panels.append(
                 f'<section class="history-era" id="era-{esc(era.id)}" data-era-section="{esc(era.id)}" '
                 f'aria-labelledby="era-title-{esc(era.id)}">'
                 '<header class="era-heading"><div class="era-introduction">'
-                f'<p class="atlas-kicker">Era {number:02d}.{era_number:02d} · {len(era.stories)} {"story" if len(era.stories) == 1 else "stories"}</p>'
+                f'<p class="atlas-kicker">Cycle {number:02d} · A proposed era · {len(era.stories)} {"story" if len(era.stories) == 1 else "stories"}</p>'
                 f'<h3 id="era-title-{esc(era.id)}">{esc(era.title)}</h3><p>{esc(era.description)}</p></div>'
                 f'<div class="era-context"><span>Life in this era</span><ul>{context}</ul></div></header>'
                 f'<p class="era-sequence-note"><span>Place in history</span>{esc(era.sequence_note)}</p>'
-                f'<div class="cycle-events">{"".join(events[slug] for slug in era.stories)}</div></section>'
+                f'{peers_html}{local_order}<p class="era-order-note">Lives within this horizon. Only the linked sequences establish an order.</p>'
+                f'<div class="era-lives">{"".join(events[slug] for slug in era.stories)}</div></section>'
             )
-        era_ranges = ''.join(
-            f'<a class="cycle-era-range" href="#era-{esc(era.id)}" '
-            f'style="--start:{timeline.story_placements[era.stories[0]].position:g}%;--range:{max(1, timeline.story_placements[era.stories[-1]].position - timeline.story_placements[era.stories[0]].position):g}%" '
-            f'aria-label="Enter {esc(era.title)}" title="{esc(era.title)}"></a>'
-            for era in cycle.eras
-        )
-        miniature = era_ranges + ''.join(
-            f'<a href="#story-{esc(slug)}" data-locate-story="{esc(slug)}" '
-            f'style="--position:{timeline.story_placements[slug].position:g}%" aria-label="Locate {esc(stories[slug].title)}" '
-            f'title="{esc(stories[slug].title)}"><span></span></a>' for slug in cycle.stories
-        )
         era_index = ''.join(f'<a href="#era-{esc(era.id)}">{esc(era.title)}</a>' for era in cycle.eras)
         sections.append(
             f'<section class="atlas-cycle state-{cycle.magic_state}" id="cycle-{esc(cycle.id)}" '
@@ -156,8 +250,8 @@ def render(catalog, timeline):
             f'<p class="atlas-kicker">{esc(cycle.eyebrow)} · {len(cycle.eras)} eras · {len(cycle.stories)} stories</p>'
             f'<h2>{esc(cycle.title)}</h2><p>{esc(cycle.description)}</p>'
             f'<p class="cycle-placement">{esc(cycle.sequence_note)}</p>'
-            f'<nav class="cycle-strip" aria-label="Story positions in cycle {number:02d}">{miniature}</nav>'
-            '<div class="cycle-strip-labels" aria-hidden="true"><span>Earlier</span><span>Later →</span></div>'
+            f'<nav class="cycle-horizons" aria-label="Proposed era horizons in cycle {number:02d}">{horizon(cycle)}</nav>'
+            '<div class="cycle-strip-labels"><span>Earlier possible horizons</span><span>Later possible horizons →</span></div>'
             f'<nav class="cycle-era-index" aria-label="Eras in cycle {number:02d}">{era_index}</nav></div>'
             f'<span class="cycle-state">{STATE_LABELS[cycle.magic_state]}</span></header>'
             f'<div class="cycle-eras">{"".join(era_panels)}</div>'
@@ -166,15 +260,18 @@ def render(catalog, timeline):
 
     thread_cards = []
     for link in timeline.connections:
-        label = 'Direct connection' if link.kind == 'direct' else 'Thematic echo'
+        label = LINK_LABELS[link.kind]
         endpoints = ''.join(
             f'<a href="#story-{esc(slug)}" data-locate-story="{esc(slug)}">'
             f'<small>Cycle {locations[slug][0]:02d} · {esc(story_eras[slug].title)}</small><span>{esc(stories[slug].title)}</span></a>'
             for slug in (link.source, link.target)
         )
         thread_cards.append(
-            f'<article class="thread-card {link.kind}" id="thread-{esc(link.id)}" data-thread-kind="{link.kind}">'
+            f'<article class="thread-card {link.kind}" id="thread-{esc(link.id)}" data-thread-kind="{link.kind}" '
+            f'data-from-era="{esc(story_eras[link.source].id)}" data-to-era="{esc(story_eras[link.target].id)}" '
+            f'data-thread-label="{esc(link.label)}">'
             f'<span class="atlas-kicker">{label}</span><h3>{esc(link.label)}</h3>'
+            f'<p class="thread-basis">{BASIS_LABELS[link.basis]}</p>'
             f'<div class="thread-endpoints">{endpoints}</div><p>{esc(link.note)}</p></article>'
         )
     populated_states = {cycle.magic_state for cycle in timeline.cycles}
@@ -187,9 +284,10 @@ def render(catalog, timeline):
         '<a class="atlas-skip" href="#atlas-explore">Skip to the timeline</a><div class="atlas" data-timeline>'
         '<section class="atlas-hero"><div class="atlas-hero-copy">'
         '<p class="atlas-kicker">One world, across deep time</p>'
-        '<h1>The Worldline<span>Civilizations rise.<br>The world remembers.</span></h1>'
+        '<h1>The Worldline<span>Civilizations rise.<br> The world remembers.</span></h1>'
         '<p class="atlas-lede">One world, inhabited again and again. Its people build cities, make ordinary lives, lose histories, and raise new civilizations among the traces of the old.</p>'
-        '<a class="atlas-enter" href="#atlas-explore">Enter the timeline <span aria-hidden="true">↘</span></a>'
+        '<a class="atlas-enter" href="#atlas-weave">Enter the timeline <span aria-hidden="true">↘</span></a>'
+        f'{depth_invitation}'
         f'<div class="atlas-totals"><span><b>{len(stories)}</b> stories</span><span><b>{sum(len(cycle.eras) for cycle in timeline.cycles)}</b> historical eras</span>'
         f'<span><b>{len(timeline.cycles)}</b> proposed cycles</span></div>'
         f'</div><div class="atlas-orrery">{orbit_map(timeline.cycles)}'
@@ -205,12 +303,13 @@ def render(catalog, timeline):
         '<div><span>III · After the return</span><strong>New magic</strong><p>Reciprocal links. A different beginning.</p></div></section>'
         '<section class="atlas-reading-note"><span class="atlas-kicker">Reading the chronology</span>'
         '<p>A <b>Galactic Cycle</b> is an orbit of this world’s star system around the galaxy. Within the cycles, eras bring stories together through their technologies, institutions, magical conditions, and relationship to the past. Different societies can share a period.</p>'
-        '<p>The era groupings and broad succession are a proposed reconstruction of one history. Exact Galactic coordinates remain open; spacing is schematic. Within an era, regional stories may overlap in time. Established sequences and local intervals retain precedence.</p></section>'
+        '<p>The era groupings and broad succession are a proposed reconstruction of one history. Exact Galactic coordinates remain open; spacing is schematic. Bands show possible placement, not a measured lifetime. Within and between overlapping eras, regional stories may overlap in time. Established sequences and local intervals retain precedence.</p></section>'
+        f'{depth_view}{weave(timeline.cycles)}'
         '<section class="atlas-directory" aria-labelledby="directory-title"><div class="atlas-section-label">'
         '<h2 id="directory-title">Travel through the cycles</h2><a href="#atlas-threads">Follow the connections ↗</a></div>'
         f'<nav class="cycle-directory" aria-label="Chronological cycles">{"".join(directory)}</nav></section>'
         '<nav class="atlas-wayfinder" aria-label="Atlas wayfinder"><span data-atlas-location>The timeline</span>'
-        '<div><a href="#directory-title">Cycles ↑</a><a href="#atlas-explore">Find a story</a><a href="#atlas-threads">Threads ↗</a></div></nav>'
+        '<div><a href="#atlas-weave">History map ↑</a><a href="#atlas-explore">Find a story</a><a href="#atlas-threads">Threads ↗</a></div></nav>'
         '<div class="atlas-explore" id="atlas-explore"><div class="atlas-controls" hidden>'
         '<label class="atlas-search"><span>Find a story or historical context</span><input type="search" data-atlas-search placeholder="A title, an institution, a memory…" autocomplete="off"></label>'
         f'<label class="atlas-filter"><span>History category</span><select data-atlas-state><option value="all">All histories</option>{state_options}</select></label>'
@@ -218,16 +317,18 @@ def render(catalog, timeline):
         '<button type="button" data-atlas-reset>Reset</button><button type="button" data-toggle-details>Expand story details</button>'
         '</div><div class="atlas-results"><p role="status" aria-live="polite" data-atlas-count>'
         f'{len(stories)} stories in {sum(len(cycle.eras) for cycle in timeline.cycles)} eras across {len(timeline.cycles)} cycles</p>'
-        '<div class="atlas-evidence-legend" aria-label="Placement evidence"><span class="evidence evidence-fixed">Fixed anchor</span>'
-        '<span class="evidence evidence-inferred">Relative link</span><span class="evidence evidence-speculative">Proposed</span>'
-        '<span class="evidence evidence-unresolved">Unresolved</span></div></div>'
+        '<div class="atlas-evidence-legend" aria-label="Surviving evidence"><span class="evidence evidence-boundary">Worldline boundary</span>'
+        '<span class="evidence evidence-constrained">Established constraint</span><span class="evidence evidence-relative">Relative sequence</span>'
+        '<span class="evidence evidence-contextual">Contextual evidence</span><span class="evidence evidence-undated">Date unresolved</span></div></div>'
+        '<p class="evidence-reading-note">These marks describe what survives in the stories and established chronology. Every numbered cycle and era placement remains a proposal.</p>'
         '<p class="atlas-empty" data-atlas-empty hidden>No stories match this part of the timeline. Try another title or reset the filters.</p>'
         f'<div class="atlas-cycles">{"".join(sections)}</div></div>'
         '<section class="atlas-threads" id="atlas-threads"><header class="threads-heading"><p class="atlas-kicker">Across the distance</p>'
         '<h2>The past reaches<br><em>into another age.</em></h2>'
-        '<p>Some connections follow the same people or events. Others echo across this world’s civilizations. Every endpoint leads back to its era and individual story. Notes may reveal story outcomes.</p></header>'
+        '<p>Some connections follow the same people or events. Historical hypotheses explore how conditions might change across ages; thematic echoes connect questions that recur. Every endpoint leads back to its era and individual story. Notes may reveal story outcomes.</p></header>'
         '<div class="thread-controls" role="group" aria-label="Connection type" hidden><button type="button" data-thread-filter="all" aria-pressed="true">All threads</button>'
         '<button type="button" data-thread-filter="direct" aria-pressed="false">Direct connections</button>'
+        '<button type="button" data-thread-filter="historical" aria-pressed="false">Historical hypotheses</button>'
         '<button type="button" data-thread-filter="echo" aria-pressed="false">Thematic echoes</button></div>'
         f'<p class="thread-count" data-thread-count role="status">{len(timeline.connections)} threads</p>'
         f'<div class="thread-grid">{"".join(thread_cards)}</div></section>'
