@@ -1352,6 +1352,7 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
                 "Modern states + cities",
             ),
             (
+                "beyond-the-great-wall",
                 "ordinary-present-and-familiar-lives",
                 "private-powers-and-public-states",
                 "anomalies-beside-material-zero",
@@ -1431,6 +1432,7 @@ def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
                 "Heroic + civic institutions",
             ),
             (
+                "gods-at-home-in-cusco",
                 "monsters-gods-and-avatars",
                 "transformations-become-public",
                 "hero-and-villain-institutions",
