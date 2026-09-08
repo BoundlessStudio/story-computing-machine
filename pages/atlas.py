@@ -11,7 +11,7 @@ BASIS_LABELS = {"established": "Established chronology", "reading-sequence": "Su
                 "proposed": "Proposed historical interpretation", "thematic": "A parallel, not a date"}
 PHASE_COPY = {"old-magic": "Civilizations built upon civilizations.",
               "long-dark": "Magic is absent. The world keeps making history.",
-              "new-magic": "Magic returns. A different world grows around it."}
+              "new-magic": "New workings enter an already ancient world."}
 
 def esc(value):
     return html.escape(str(value), quote=True)
@@ -140,6 +140,8 @@ def render(catalog, timeline):
         '<details class="reading-guide"><summary>How to read this history</summary><div>'
         '<p>A <b>Galactic Cycle</b> is an orbit of this world’s star system around the galaxy. '
         'These cycles and eras are a proposed reconstruction; spacing is schematic, not a measured duration.</p>'
+        '<p>Magic’s extinction and return anchor the three great ages. Divine rule, technology and public powers '
+        'have their own regional histories; they need not flourish, fade or return together.</p>'
         '<p>Technologies, institutions and inherited histories bring stories together. Within a cycle, '
         'regional stories may overlap in time; the order of era entries does not establish succession. '
         'Established sequences and local intervals take precedence.</p>'

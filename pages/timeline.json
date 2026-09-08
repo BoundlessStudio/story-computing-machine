@@ -47,7 +47,6 @@
             "the-gentlest-terror",
             "strength-of-ten",
             "the-bride-who-came-back",
-            "the-vacant-throne",
             "mother-of-monsters"
           ],
           "window": {
@@ -432,17 +431,34 @@
       "sequenceNote": "The first represented Long Dark reach is not its first generation. Civic engineering and dispersed territorial power overlap as regional fortunes vary; the layout does not make every road polity a successor to Orison.",
       "eras": [
         {
-          "id": "dark-civic-machines",
-          "title": "The civic machine",
-          "description": "Public infrastructure and small workshops depend on maintained physical devices. Practical knowledge matters from the reactor system to the repair bench and the handling of a common organism.",
+          "id": "dark-reactor-city",
+          "title": "The reactor city",
+          "description": "Four million people depend on Orison’s ancient fission reactors and powered magnetic rings. Hospitals, trains and district evacuation make maintenance a matter of citywide survival.",
           "context": [
-            "Machinery, maintenance and measured physical behavior support ordinary work.",
-            "Guilds, workshops and public infrastructure distribute technical expertise.",
-            "Cities and smaller communities have unequal engineering capacities."
+            "A metropolitan population depends on inherited nuclear and electromagnetic infrastructure.",
+            "Operators maintain complex physical systems in a culture that remembers magic as long dead.",
+            "Public services and emergency movement depend on the same vulnerable city machinery."
           ],
-          "sequenceNote": "A material engineering horizon after magic has died, overlapping road-bound societies. The reactor city, workshops and guild works have no established mutual order or common collapse.",
+          "sequenceNote": "Advanced engineering already exists in this early represented Long Dark reach. Orison’s date relative to the workshops and road societies is unestablished; neither a shared collapse nor a shared origin is implied.",
           "stories": [
-            "four-million-falling",
+            "four-million-falling"
+          ],
+          "window": {
+            "start": 10,
+            "end": 75
+          }
+        },
+        {
+          "id": "dark-civic-machines",
+          "title": "The workshop networks",
+          "description": "Repair benches, guild works and practical assays sustain skilled livelihoods. Expertise travels through services and trades, with physical devices and ordinary organisms doing the work.",
+          "context": [
+            "Maintained mechanisms and measured physical behavior support ordinary work.",
+            "Guilds, workshops and service trades distribute technical expertise.",
+            "Practical knowledge answers a customer’s problem or a local material need."
+          ],
+          "sequenceNote": "These workshop and guild societies overlap the proposed reactor-city and road horizons. Their smaller working scale does not make them ancestors or descendants of Orison; no common engineering tradition is established.",
+          "stories": [
             "the-five-minute-warranty",
             "the-ordinary-slime",
             "blade-calls-your-name"
@@ -485,18 +501,19 @@
         {
           "id": "dark-imperial-households",
           "title": "The imperial household",
-          "description": "Palace decisions extend into armies, capitals and family life. Household relationships become matters of public power, while practical rescue still comes down to tools and labor.",
+          "description": "Palace decisions extend into armies, capitals and family life. Succession, household obligations and limits on a ruler’s authority shape public power, while practical rescue still comes down to tools and labor.",
           "context": [
             "Rulers, capitals and standing military forces give households public reach.",
-            "Marriage, inheritance and returning relatives affect territorial authority.",
+            "Marriage, inheritance, witnessed succession and returning relatives affect territorial authority.",
             "Physical travel, weapons and manual work dominate the represented action."
           ],
-          "sequenceNote": "Palace and town histories overlap without a single imperial succession. The capital’s seventeen-year absence remains local; Save That Dragon is tentative because its rescue uses ropes and winches while the dragon’s fire is unclassified.",
+          "sequenceNote": "Palace and town histories overlap without one imperial succession. The capital’s seventeen-year absence and the vacant throne’s fifteen years remain local. The Vacant Throne’s side of extinction is unresolved; Save That Dragon is also tentative because its dragon’s fire is unclassified.",
           "stories": [
             "the-walls-are-thick-enough",
             "the-door-in-the-ivy",
             "late-for-dinner",
-            "save-that-dragon"
+            "save-that-dragon",
+            "the-vacant-throne"
           ],
           "window": {
             "start": 10,
@@ -533,26 +550,27 @@
       "title": "A Familiar Meridian",
       "eyebrow": "The Long Dark · proposed turn 9",
       "magicState": "long-dark",
-      "description": "Another long reach arrives at recognizably modern streets: festivals, cafés, phones and ordinary private lives. Elsewhere in this broad period, mature engineering lets dynastic and private ambitions reach into genetic history and orbit.",
-      "sequenceNote": "The familiar present is a small region of an immense material history. Its broad horizon can overlap advanced engineering elsewhere; the reconstructed pharaohs’ roughly ten-thousand-year interval remains local, not a series of galactic orbits.",
+      "description": "Another long reach contains recognizably modern streets: festivals, cafés, phones and ordinary private lives. Closed borders can conceal a neighboring city’s electric transport; elsewhere, private engineering reaches from a household workshop into orbit.",
+      "sequenceNote": "The familiar present is one region of an immense material history. Unequal neighboring societies can coexist, and advanced engineering need not follow ordinary modern life. The proposed horizon joins material and institutional contexts without dating these communities to one present.",
       "eras": [
         {
           "id": "dark-familiar-streets",
           "title": "The familiar street",
-          "description": "Modern services and institutions support lives whose decisive events can fit inside a conversation, a season or a family home.",
+          "description": "Modern services and institutions support domestic lives and encounters across closed borders. Electric streets, familiar transport and commercial travel can coexist with a neighbor’s very different expectations.",
           "context": [
             "Familiar modern technology and everyday urban or domestic institutions frame the living scenes.",
             "Relationships, employment and bodily life require no operative material magic.",
-            "Immediate local calendars matter more to the characters than deep planetary history."
+            "Five centuries of closed borders conceal a neighboring modern society in one story; the difference is geographic within its present."
           ],
-          "sequenceNote": "The familiar-present horizon can overlap later engineering elsewhere; these lives have no established mutual order. Ruth’s material life alone is placed here, while her station retains an unresolved afterlife coordinate.",
+          "sequenceNote": "These familiar societies have no established mutual order. The scouts’ local five-century interval does not establish a lost technological age. Ruth’s material life alone is placed here, while her station retains an unresolved afterlife coordinate.",
           "stories": [
             "everyone-knows-her",
             "before-she-gets-tired",
             "the-names-on-the-cups",
             "empire-within",
             "the-other-twin",
-            "the-station-between"
+            "the-station-between",
+            "the-lights-beyond"
           ],
           "window": {
             "start": 10,
@@ -562,15 +580,14 @@
         {
           "id": "dark-engineered-sovereignty",
           "title": "Engineering within familiar lives",
-          "description": "A reconstructed dynasty builds continental authority, a private engineer holds orbital leverage, and an inventive household rebuilds the machine from its first date. Technical reach can grow without making daily life look unfamiliar.",
+          "description": "A private engineer holds orbital leverage, while an inventive household rebuilds the machine from its first date. Technical reach can become politically significant without making daily rooms, meals and relationships unfamiliar.",
           "context": [
-            "Advanced material engineering coexists with ordinary rooms, meals and relationships.",
-            "Private technical work ranges from domestic machinery to orbital and continental systems.",
-            "Inherited names and remembered experiences can be deliberately reconstructed without recreating the original past."
+            "Advanced material engineering coexists with ordinary domestic life.",
+            "Private technical work ranges from a household machine to control of satellites.",
+            "Personal relationships shape the use of expertise without establishing a common industry or state."
           ],
-          "sequenceNote": "These proposed technical societies overlap the familiar streets. The pharaohs' reconstruction comes roughly ten thousand years after their ancient sources, followed by sixty years of empire-building. The anniversary household and satellite dispute have no established relation to that empire.",
+          "sequenceNote": "These proposed technical societies overlap the familiar streets. The anniversary household and satellite dispute have no established mutual order or shared program; orbital capability is already present within this reach.",
           "stories": [
-            "the-ten-thousand-year-queen",
             "terms-at-four",
             "sakura-hearted"
           ],
@@ -586,8 +603,8 @@
       "title": "The Manufactured Citizen",
       "eyebrow": "The Long Dark · proposed turn 10",
       "magicState": "long-dark",
-      "description": "Later technical civilizations make bodies, identity and perception into services—and assets institutions can own or command. Domestic manufacture, consumer reconstruction, controlled cities and military systems coexist across regions that draw the boundary of personhood differently.",
-      "sequenceNote": "A proposed expansion of material capabilities after the familiar meridian. Domestic, consumer, civic and military arrangements overlap; the bands show different social uses of technology, not a compulsory progression or one lineage.",
+      "description": "Technical civilizations make bodies, identity and perception into services—and assets institutions can own or command. Domestic manufacture, reconstructed rulers, controlled cities and military systems draw the boundary of personhood differently.",
+      "sequenceNote": "This reach is proposed around institutions that manufacture or administer identity. Domestic, commercial, civic and military arrangements overlap. Its later position does not establish a technological advance over every earlier society or descent from the familiar meridian.",
       "eras": [
         {
           "id": "dark-modified-neighbourhoods",
@@ -610,18 +627,18 @@
         },
         {
           "id": "dark-bodies-on-demand",
-          "title": "Bodies on demand",
-          "description": "Commercial and medical systems can revise appearance, rebuild combatants or restore a recorded neural state. The material consequences outside the body remain.",
+          "title": "Reconstructed lives",
+          "description": "Commercial, medical and political systems can revise appearance, rebuild combatants or grow rulers from ancient genetic sources. A manufactured body does not settle who owns its future.",
           "context": [
-            "Genetic modification, bodily reconstruction or neural intervention is technically developed.",
-            "Medical and commercial institutions mediate access to altered bodies and identities.",
-            "The changes remain physical processes with limits and continuing external consequences."
+            "Genetic modification and bodily reconstruction are technically developed.",
+            "Medical, commercial and political institutions mediate access to altered bodies and identities.",
+            "Physical reconstruction can reproduce traits without recovering a vanished person’s memories."
           ],
-          "sequenceNote": "Consumer and institutional capabilities overlap other technical regions. Their mutual order is open; the one-charge neural restoration does not rewind the outside world.",
+          "sequenceNote": "These distinct reconstruction societies overlap other technical regions without an established mutual order. The queen’s roughly ten-thousand-year historical gap, nineteen years of development and sixty-year imperial career are local intervals, not Galactic Cycles.",
           "stories": [
             "the-unfixed-face",
             "the-kill-she-wouldnt-take",
-            "deja-vu-too-late"
+            "the-ten-thousand-year-queen"
           ],
           "window": {
             "start": 20,
@@ -631,17 +648,18 @@
         {
           "id": "dark-controlled-cities",
           "title": "The city that accounts for you",
-          "description": "Data systems decide who can move, be recognized or possess a history. Urban infrastructure becomes an instrument of corporate and civic authority.",
+          "description": "Data systems decide who can move, remain housed, be recognized or possess a history. Registration can control access even when the city’s buildings are engineered living tissue.",
           "context": [
-            "Ubiquitous networks, surveillance and automated urban services govern daily movement.",
+            "Networks and automated urban services govern movement, housing or public knowledge.",
             "Institutions claim authority through registration, visibility or control of records.",
-            "Excluded people and censored histories expose the limits of apparently complete civic knowledge."
+            "Excluded residents and censored histories expose the limits of apparently complete civic knowledge."
           ],
           "sequenceNote": "Pervasive control is a regional political arrangement within the technical horizon, not a necessary later stage. Each city has its own present and concealed past; no common administration is established.",
           "stories": [
             "drone-down",
             "the-driver-the-city-could-not-see",
-            "the-foundations-remember"
+            "the-foundations-remember",
+            "rooms-before-sunrise"
           ],
           "window": {
             "start": 20,
@@ -675,23 +693,22 @@
       "title": "The Inhabited Ruins",
       "eyebrow": "The Long Dark · proposed turn 11",
       "magicState": "long-dark",
-      "description": "What technical civilizations leave behind becomes the setting for new lives. Some communities salvage or misunderstand older works; others build mature ecological cities whose varied districts and migrating traditions belong to the same present.",
-      "sequenceNote": "A proposed reach of lost history and rebuilding after earlier technical civilizations. Inequality remains geographic as well as temporal: ruined frontiers and illuminated cities can be contemporaries, and the bands preserve that possibility.",
+      "description": "Technical histories survive unevenly through inhabited remains, salvage and working cities. Some communities recover forgotten works; others sustain environmental infrastructure and migrating traditions in an active present.",
+      "sequenceNote": "This proposed reach places incomplete historical knowledge beside functioning civic systems. Loss and continuity vary by region; its cities are not all rebuildings after one collapse, and their capabilities do not set a universal technological level.",
       "eras": [
         {
           "id": "dark-buried-territories",
           "title": "The buried territories",
-          "description": "Descendants, salvagers and scouts read material remains with incomplete inherited knowledge. Their discoveries reveal how unevenly a civilization’s past can survive.",
+          "description": "Descendants and salvagers read material remains with incomplete inherited knowledge. Their discoveries reveal how unevenly a civilization’s past can survive.",
           "context": [
             "Lost technical histories persist through sealed works, ruins and salvage.",
             "Present communities recover or interpret remnants through practical exploration.",
-            "Neighboring regions can retain very different levels of technology and historical knowledge."
+            "A recovered structure does not identify the origin or fate of every surrounding society."
           ],
-          "sequenceNote": "Lost knowledge and technical rebuilding can be contemporaries in different regions. The room’s two local stages stay together; the scouts’ five centuries after war do not date the neighboring city to an earlier universal age.",
+          "sequenceNote": "Lost knowledge can coexist with functioning technical cities elsewhere. The room’s two local stages stay together; its descendants and the salvage expedition have no established mutual order or common catastrophe.",
           "stories": [
             "the-room-that-waited",
-            "leave-the-names",
-            "the-lights-beyond"
+            "leave-the-names"
           ],
           "window": {
             "start": 10,
@@ -701,16 +718,15 @@
         {
           "id": "dark-living-cities",
           "title": "The living city",
-          "description": "Rebuilding uses ecology, climate and collective resources as infrastructure. Mature technical systems coexist with local building traditions and inherited routes.",
+          "description": "Ecology, climate and collective resources become working infrastructure. Mature technical systems coexist with varied building traditions and inherited routes.",
           "context": [
-            "Material or biological engineering supports housing, water and environmental management.",
+            "Material engineering supports buildings, water and environmental management.",
             "Cities and communities negotiate common resources through everyday institutions.",
-            "Long-standing local forms and advanced technology can share a present."
+            "Different local forms and advanced technology can share a present."
           ],
-          "sequenceNote": "These civic systems overlap the ruined territories rather than waiting for every region to recover. Their internal order is unknown; tissue, condensation and materially varied foundations require no surviving old magic.",
+          "sequenceNote": "These civic systems overlap the proposed ruined territories. Their order is unknown; condensation, seasonal routes and materially varied foundations do not establish descent from a common lost city or require surviving old magic.",
           "stories": [
             "the-city-of-eleven-foundations",
-            "rooms-before-sunrise",
             "the-unfixed-song",
             "laughing-clouds"
           ],
@@ -726,8 +742,8 @@
       "title": "The World Beneath Its Sky",
       "eyebrow": "The Long Dark · proposed turn 12",
       "magicState": "long-dark",
-      "description": "The material world expands again into the inheritance above it. Surface communities and old orbital structures have kept different histories; farther along, stellar roads make humanity itself an ancient presence to be encountered and interpreted.",
-      "sequenceNote": "A late represented reach of inherited orbital and stellar infrastructure with overlapping horizons. Earlier builders and departures stay undated, with no common exodus. Reawakening lies beyond this material reach.",
+      "description": "Communities inhabit the world’s orbital and stellar surroundings as well as its ground. Working cargo routes, inherited mechanisms and ancient human roads preserve different histories; surface and space societies need not rise or fall together.",
+      "sequenceNote": "A late represented reach of working and inherited orbital infrastructure, with overlapping horizons. This is not the first space age: earlier reaches already contain satellites and orbital shields. Builders and departures stay undated, with no common exodus; reawakening lies beyond this material reach.",
       "eras": [
         {
           "id": "dark-divided-sky-ground",
@@ -751,16 +767,17 @@
         {
           "id": "dark-maintained-orbits",
           "title": "The maintained sky",
-          "description": "Working crews inhabit space through repairs, thermal margins and physical ecological management. Old mechanisms remain useful and hazardous even when their origins are lost.",
+          "description": "Crews sustain occupied space through cargo work, repairs, thermal margins and physical ecological management. Inherited mechanisms and present-day flight equipment both impose practical limits.",
           "context": [
-            "Occupied stations and surface grids require continuous technical maintenance.",
-            "Unclassified life shares the environment with large inherited structures.",
-            "Local crews can isolate or adapt older mechanisms without recovering their builders' intentions."
+            "Occupied stations, cargo routes and surface grids require continuous technical work.",
+            "Docking, crew rescue and thermal or ecological hazards shape daily decisions.",
+            "Crews use distinct safety systems and inherited structures without establishing one builder or space program."
           ],
-          "sequenceNote": "A proposed orbital maintenance horizon overlapping divided ground societies. Jupiter's thirty-year watch and the terrestrial sunshade remain separate programs; their similar problems do not identify one builder, organism or signal.",
+          "sequenceNote": "This orbital-work horizon overlaps divided ground societies. Jupiter’s thirty-year watch, the terrestrial sunshade and the cargo tug have no established mutual order. The tug’s one-charge neural restoration leaves outside momentum and consequences unchanged.",
           "stories": [
             "last-watcher-of-jupiter",
-            "the-shadow-that-nested"
+            "the-shadow-that-nested",
+            "deja-vu-too-late"
           ],
           "window": {
             "start": 10,
@@ -1004,20 +1021,19 @@
         },
         {
           "id": "new-negotiated-crossings",
-          "title": "Negotiated passages",
-          "description": "A hidden market route and a private infernal gate reach contemporary human services. Their travelers must handle local access conditions and ordinary institutional requirements in the same journey.",
+          "title": "College across the gate",
+          "description": "A private infernal passage reaches a human engineering college. Family authority meets admissions, accommodation and emergency-contact requirements at one material endpoint.",
           "context": [
-            "Hospitals, communications and a human engineering college establish contemporary material endpoints.",
-            "Particular gates regulate access through their own conditions.",
-            "Human paperwork and care requirements do not establish one public system for supernatural travel."
+            "Communications and a human engineering college establish a contemporary material endpoint.",
+            "A particular gate gives one family access across realms.",
+            "Ordinary paperwork and clinical limits shape the student’s practical independence."
           ],
-          "sequenceNote": "The human material frames overlap these modern societies. Their mutual order is open; Deepmarket and the infernal realm keep independent unresolved coordinates, and the two gates are not a shared network.",
+          "sequenceNote": "Only the human college frame is placed among these modern societies. The infernal realm retains an unresolved coordinate; a private gate and an unprepared ordinary clinic do not prove this society precedes specialist crossing services elsewhere.",
           "window": {
             "start": 20,
             "end": 90
           },
           "stories": [
-            "realms",
             "his-infernal-majesty-says-no"
           ]
         }
@@ -1033,14 +1049,14 @@
       "eras": [
         {
           "id": "new-public-bodies",
-          "title": "Public bodies, ordinary services",
-          "description": "Unusual bodies fit into recognizable streets and household routines. Some bodily differences are publicly ordinary; others are accommodated with everyday equipment and negotiated practical limits.",
+          "title": "Bodies in everyday life",
+          "description": "Bodily capacities and unpredictable workings fit into recognizable streets and household routines. Locally ordinary wings, adapted equipment and care during illness involve different practical accommodations.",
           "context": [
             "Grown, inherited and built wings are recognized everyday possibilities in one community.",
-            "Radios, tools, transport and domestic arrangements accommodate particular capacities.",
-            "Recognition does not remove bodily costs, privacy or unequal knowledge."
+            "Radios, tools and domestic arrangements accommodate particular capacities or uncontrolled workings.",
+            "Household adaptations and ordinary nursing advice do not establish one specialist institution or shared public status."
           ],
-          "sequenceNote": "These households overlap organized public powers and specialized care. Their mutual order is unresolved, and shrinking, wings and lightning retain different mechanisms and limits.",
+          "sequenceNote": "These households overlap organized extraordinary work and practices of care. Their mutual order is unresolved; wings, shrinking and illness-triggered workings retain different mechanisms and limits.",
           "window": {
             "start": 10,
             "end": 85
@@ -1048,13 +1064,13 @@
           "stories": [
             "she-literally-has-wings",
             "life-with-a-girlfriend-with-shrinking-powers",
-            "lightning-carries-one"
+            "witch-cold"
           ]
         },
         {
           "id": "new-hero-institutions",
           "title": "Organized extraordinary work",
-          "description": "Colleges, patrols and established hero or villain identities make power a recognizable occupation. The people inside those institutions still have ordinary friendships, illness, marriages and family disputes.",
+          "description": "Colleges, patrols and established hero or villain identities make power a recognizable occupation. The people inside those institutions still have ordinary friendships, injuries, marriages and family disputes.",
           "context": [
             "Formal training and established hero or villain roles organize public expectations.",
             "Equipment, response habits and professional identities continue into domestic life.",
@@ -1069,27 +1085,29 @@
             "the-warmest-person-in-the-room",
             "captive-couples",
             "the-name-i-kept",
-            "witch-cold",
             "ultimate-evil-dog"
           ]
         },
         {
           "id": "new-practices-of-care",
-          "title": "Practices of care and access",
-          "description": "Equipment and professional practice address unusual bodily events without claiming complete control. A displacement alert system and a therapist’s living faculty work inside established urban services.",
+          "title": "Care at the limits of ordinary life",
+          "description": "Clinical work, specialist equipment and negotiated support address extraordinary experiences without complete explanations. Practitioners and families respond to displacement, altered aging, dangerous crossings and memories whose origins remain uncertain.",
           "context": [
-            "A purpose-built onset and location tag helps staff respond to involuntary travel.",
+            "An onset and location tag helps staff respond to involuntary travel.",
             "A recurring memory-therapy practice separates ordinary recording from a practitioner’s faculty.",
-            "Identification, appointment routines and urban transport remain part of everyday access."
+            "Licensed crossing staff and a clinic beside one return tunnel support monitored treatment.",
+            "Clinical aging estimates and family accommodations address one traveler’s lasting injuries without explaining all of his experienced time."
           ],
-          "sequenceNote": "These services overlap domestic accommodation and organized power. The stories have no established mutual order. Only the therapy frame is placed; the patient’s earlier memories retain unresolved coordinates.",
+          "sequenceNote": "These practices overlap household accommodation and organized power; their order is unknown. Specialist services need not postdate an unprepared clinic elsewhere. Only the human care frames are placed: Deepmarket, the patient’s earlier memories and the lightning journey’s internal duration remain unresolved.",
           "window": {
             "start": 15,
             "end": 90
           },
           "stories": [
             "where-sleep-takes-you",
-            "the-first-wound"
+            "the-first-wound",
+            "realms",
+            "lightning-carries-one"
           ]
         },
         {
@@ -1155,7 +1173,7 @@
       "eyebrow": "New magic · proposed turn 4",
       "magicState": "new-magic",
       "description": "Two further societies organize everyday expectations around population-wide bodily conventions. One makes birth channels central to craft and clinical work; another expects a true-form change at eighteen. These are distinct conditions of life, separated here across a long proposed reach.",
-      "sequenceNote": "One Galactic Cycle can contain many societies and changes. The disjoint horizons keep the birthmark and eighteenth-year conventions separate; their order is proposed, with an unmeasured interval. This suggests a later spread of population-wide bodily expectations without asserting a common mechanism, biological evolution, or descent from the Civic Powers.",
+      "sequenceNote": "One Galactic Cycle can contain many societies and changes. Disjoint horizons keep the birthmark and eighteenth-year conventions separate; their order and unmeasured interval are proposed. Population-wide bodily expectations are their social context, not proof of a later evolutionary stage or descent from the Civic Powers.",
       "eras": [
         {
           "id": "new-marked-lives",
@@ -1297,10 +1315,10 @@
     },
     "the-vacant-throne": {
       "window": {
-        "start": 35,
-        "end": 95
+        "start": 10,
+        "end": 85
       },
-      "note": "Fifteen years of vacancy end with the child’s arrival. The compact, remembered gestures and succession belong to one local kingdom."
+      "note": "Fifteen years of vacancy end through witnessed succession, bounded regency and the surrender of emergency military authority. Placed provisionally with these legal and military court societies; the story’s side of the extinction remains unestablished. The absence of an enacted working does not prove a magicless age."
     },
     "mother-of-monsters": {
       "window": {
@@ -1608,7 +1626,7 @@
         "start": 10,
         "end": 75
       },
-      "note": "Orison’s reactor and powered magnetic rings belong to a culture that remembers magic as long dead. Its engineering history does not establish that this particular city existed before extinction."
+      "note": "Orison’s ancient fission reactors and powered magnetic rings sustain a city of four million in a culture that remembers magic as long dead. This metropolitan infrastructure has its own proposed horizon; smaller workshop economies nearby in the layout are not its established predecessors or successors."
     },
     "the-five-minute-warranty": {
       "window": {
@@ -1766,10 +1784,10 @@
     },
     "the-ten-thousand-year-queen": {
       "window": {
-        "start": 40,
-        "end": 95
+        "start": 20,
+        "end": 85
       },
-      "note": "Engineered adults arrive roughly ten thousand years after their genetic sources, with four further years to later contracts. The broad familiar-meridian placement retains that local gap; reconstruction is not continuous memory or resurrection."
+      "note": "Merneith awakens roughly ten thousand years after the last pharaoh was entombed, following nineteen years of genetic development. Her awakening begins a sixty-year career of infrastructure and empire-building. The age of her own ancient genetic sources is a separate question; reconstruction supplies neither ancient memories nor resurrection."
     },
     "terms-at-four": {
       "window": {
@@ -1815,10 +1833,10 @@
     },
     "deja-vu-too-late": {
       "window": {
-        "start": 20,
+        "start": 10,
         "end": 85
       },
-      "note": "A one-charge neural baseline is restored after the loss. This consumer and combat technology changes the person’s neural state while the outside world and its consequences remain unchanged."
+      "note": "An orbital cargo tug operates among occupied service infrastructure, refinery traffic and docking hazards. Its one-charge neural baseline is flight-safety equipment: restoring the pilot leaves external momentum, other people and the loss unchanged."
     },
     "drone-down": {
       "window": {
@@ -1886,9 +1904,9 @@
     "the-lights-beyond": {
       "window": {
         "start": 10,
-        "end": 85
+        "end": 75
       },
-      "note": "The scouts cross five hundred years after a local war and meet a contemporaneous illuminated city."
+      "note": "After five hundred years of closed borders following a local war, scouts encounter a neighboring city with electric transport, illuminated streets and commercial seaplanes. Unequal contemporaries fit this modern horizon; the story does not establish a fallen technological civilization."
     },
     "the-city-of-eleven-foundations": {
       "window": {
@@ -1899,10 +1917,10 @@
     },
     "rooms-before-sunrise": {
       "window": {
-        "start": 25,
-        "end": 95
+        "start": 20,
+        "end": 90
       },
-      "note": "Engineered living apartments make the worker's overnight deadline possible."
+      "note": "A census refresh erases five housing bindings while their residents remain alive. Engineered living apartments enforce those records, placing this city beside other societies governed by registration and administrative visibility, without making their systems or governments identical."
     },
     "the-unfixed-song": {
       "window": {
@@ -2158,10 +2176,10 @@
     },
     "realms": {
       "window": {
-        "start": 20,
+        "start": 15,
         "end": 90
       },
-      "note": "Phones, a hospital and a tablet coexist with a regulated living seam on Queen Street. The modern human frame is placed here; the return window remains local and Deepmarket keeps an open coordinate."
+      "note": "Licensed exit staff and a clinic beside the return tunnel provide screened treatment and monitoring. This human care frame fits a context of practical services around unusual crossings; Deepmarket keeps an open coordinate, and specialist care here does not date an unprepared clinic elsewhere."
     },
     "his-infernal-majesty-says-no": {
       "window": {
@@ -2196,7 +2214,7 @@
         "start": 10,
         "end": 85
       },
-      "note": "A magical girl's cold interrupts friendship with uncontrolled spells."
+      "note": "An illness brings uncontrolled workings into a friend’s home, where agreed signals, adapted equipment and ordinary nursing advice support care. A working outfit and noisy jobs do not establish a hero college or agency; everyday accommodation is the stronger social context."
     },
     "ultimate-evil-dog": {
       "window": {
@@ -2221,10 +2239,10 @@
     },
     "lightning-carries-one": {
       "window": {
-        "start": 10,
-        "end": 85
+        "start": 15,
+        "end": 90
       },
-      "note": "Two people negotiate the bodily and experienced-time costs of lightning travel while using ordinary buses and phones. This private encounter shares a proposed civic horizon with publicly accommodated capacities, while its mechanism and earlier journeys remain distinct."
+      "note": "Tobin and his sister Hazel reunite eight external years after the journey. A prior clinical estimate puts his additional accelerated aging at eleven to fourteen months. Their negotiated care fits this context while preserving the distinction between bodily change, external time and unresolved experienced duration; lightning is not established as a public transport service."
     },
     "when-the-needle-finds-you": {
       "window": {
@@ -2689,7 +2707,7 @@
     "the-ten-thousand-year-queen": {
       "start": "Ancient genetic sources",
       "end": "Sixty years of a reconstructed dynasty",
-      "note": "Roughly ten thousand years to reconstruction, then sixty local years; neither is continuous ancient memory"
+      "note": "The awakening is roughly ten thousand years after the last pharaoh’s entombment, followed by sixty local years. The ancient genetic sources have their own dates; no original memories are recovered."
     },
     "thirteen-years-borrowed": {
       "start": "Beginning of a search",
