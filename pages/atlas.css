@@ -82,6 +82,7 @@
 .atlas-search { flex: 1; min-width: 15rem; }
 .atlas-controls input, .atlas-controls select { width: 100%; border: 1px solid var(--atlas-line); background: var(--atlas-panel); color: var(--atlas-ink); padding: .72rem .85rem; border-radius: 2px; font-size: .8rem; height: 2.8rem; }
 .atlas-filter { min-width: 13rem; }
+.atlas-cycle-filter { flex: 1.15; min-width: 16rem; }
 .atlas-controls button { padding: .7rem .85rem; min-height: 2.8rem; border: 1px solid var(--atlas-line); border-radius: 2px; background: transparent; color: var(--atlas-ink); font: .69rem/1.4 ui-sans-serif, system-ui, sans-serif; }
 .atlas-controls button:hover { background: var(--worldline-hover); }
 .atlas-results { display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: center; justify-content: space-between; margin: .8rem 0 3rem; color: var(--atlas-muted); font: .61rem/1.5 ui-monospace, monospace; }

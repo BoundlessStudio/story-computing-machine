@@ -146,6 +146,10 @@ def render(catalog, timeline):
         )
     populated_states = {cycle.magic_state for cycle in timeline.cycles}
     state_options = ''.join(f'<option value="{key}">{label}</option>' for key, label in STATE_LABELS.items() if key in populated_states)
+    cycle_options = ''.join(
+        f'<option value="{esc(cycle.id)}" data-magic-state="{cycle.magic_state}">{number:02d} · {esc(cycle.title)}</option>'
+        for number, cycle in enumerate(timeline.cycles, 1)
+    )
     return (
         '<a class="atlas-skip" href="#atlas-explore">Skip to stories</a><div class="atlas" data-timeline>'
         '<section class="atlas-hero"><div class="atlas-hero-copy">'
@@ -176,7 +180,8 @@ def render(catalog, timeline):
         '<div><a href="#directory-title">Cycles ↑</a><a href="#atlas-explore">Find a story</a><a href="#atlas-threads">Threads ↗</a></div></nav>'
         '<div class="atlas-explore" id="atlas-explore"><div class="atlas-controls" hidden>'
         '<label class="atlas-search"><span>Find a story or era</span><input type="search" data-atlas-search placeholder="A title, a world, a memory…" autocomplete="off"></label>'
-        f'<label class="atlas-filter"><span>World history</span><select data-atlas-state><option value="all">All histories</option>{state_options}</select></label>'
+        f'<label class="atlas-filter"><span>History category</span><select data-atlas-state><option value="all">All histories</option>{state_options}</select></label>'
+        f'<label class="atlas-filter atlas-cycle-filter"><span>Reading cycle</span><select data-atlas-cycle><option value="all">All {len(timeline.cycles)} cycles</option>{cycle_options}</select></label>'
         '<button type="button" data-atlas-reset>Reset</button><button type="button" data-collapse-eras>Fold all eras</button>'
         '</div><div class="atlas-results"><p role="status" aria-live="polite" data-atlas-count>'
         f'{len(stories)} stories across {len(timeline.cycles)} reading cycles</p>'

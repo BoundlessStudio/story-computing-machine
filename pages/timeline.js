@@ -8,6 +8,7 @@
   const cycles = [...atlas.querySelectorAll('[data-cycle-section]')];
   const search = atlas.querySelector('[data-atlas-search]');
   const state = atlas.querySelector('[data-atlas-state]');
+  const cyclePicker = atlas.querySelector('[data-atlas-cycle]');
   const count = atlas.querySelector('[data-atlas-count]');
   const fold = atlas.querySelector('[data-collapse-eras]');
   const threads = [...atlas.querySelectorAll('[data-thread-kind]')];
@@ -30,13 +31,18 @@
   };
 
   function filterStories() {
+    [...cyclePicker.options].forEach((option) => {
+      option.disabled = option.value !== 'all' && state.value !== 'all' && option.dataset.magicState !== state.value;
+    });
+    if (cyclePicker.selectedOptions[0]?.disabled) cyclePicker.value = 'all';
     const query = normalize(search.value.trim());
     const terms = query.split(/\s+/).filter(Boolean);
-    const filtering = Boolean(query || state.value !== 'all');
+    const filtering = Boolean(query || state.value !== 'all' || cyclePicker.value !== 'all');
     stories.forEach((story) => {
       const cycle = story.closest('[data-cycle-section]');
       story.hidden = !terms.every((term) => normalize(story.dataset.search).includes(term)) ||
-        (state.value !== 'all' && state.value !== cycle.dataset.magicState);
+        (state.value !== 'all' && state.value !== cycle.dataset.magicState) ||
+        (cyclePicker.value !== 'all' && cyclePicker.value !== cycle.dataset.cycleSection);
     });
     eras.forEach((era) => {
       era.hidden = filtering && ![...era.querySelectorAll('.atlas-story')].some((story) => !story.hidden);
@@ -55,6 +61,7 @@
   function resetStories() {
     search.value = '';
     state.value = 'all';
+    cyclePicker.value = 'all';
     filterStories();
   }
 
@@ -85,6 +92,7 @@
 
   search.addEventListener('input', filterStories);
   state.addEventListener('change', filterStories);
+  cyclePicker.addEventListener('change', filterStories);
   atlas.querySelector('[data-atlas-reset]').addEventListener('click', () => { resetStories(); search.focus(); });
   fold.addEventListener('click', () => {
     const visible = eras.filter((era) => !era.hidden);
