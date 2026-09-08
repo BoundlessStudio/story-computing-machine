@@ -1548,7 +1548,7 @@ class StorySystemTests(unittest.TestCase):
         catalog = replace(catalog, stories=tuple(replace(story, title=unsafe) if story.slug == slug else story
                                                 for story in catalog.stories))
         altered_era = replace(first_era, title=unsafe, description=unsafe, context=(unsafe, unsafe))
-        altered_cycle = replace(first_cycle, title=unsafe, eras=(altered_era, *first_cycle.eras[1:]))
+        altered_cycle = replace(first_cycle, title=unsafe, eyebrow=unsafe, eras=(altered_era, *first_cycle.eras[1:]))
         placements = dict(timeline.story_placements)
         placements[slug] = replace(placements[slug], note=unsafe)
         moments = dict(timeline.story_moments)
@@ -1562,25 +1562,32 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn(f'aria-label="Read {escaped}"', rendered)
         self.assertIn(f'<h3 id="era-title-{first_era.id}">{escaped}</h3>', rendered)
         self.assertIn(f'<li>{escaped}</li>', rendered)
+        self.assertIn(f'<p class="cycle-context">{escaped}</p>', rendered)
         self.assertIn(f'<p>{escaped}</p>', rendered)
         self.assertIn(f'data-search="{escaped} ', rendered)
 
-    def test_contextual_eras_preserve_cohorts_and_separate_incompatible_rules(self):
-        timeline = build.load_timeline(build.load_catalog())
-        location = {slug: (cycle.id, era.id) for cycle in timeline.cycles
-                    for era in cycle.eras for slug in era.stories}
-        for cohort in (
-            ("the-mercy-circuit", "a-little-more-room"),
-            ("sakura-hearted", "terms-at-four"),
-            ("four-crowns-in-hiding", "a-crown-in-the-bargain"),
-            ("last-watcher-of-jupiter", "the-shadow-that-nested"),
-            ("the-warmest-person-in-the-room", "captive-couples", "the-name-i-kept"),
-            ("the-attendance-ledger", "the-help-network"),
-        ):
-            with self.subTest(cohort=cohort):
-                self.assertEqual(1, len({location[slug] for slug in cohort}))
-        self.assertNotEqual(location["a-darkness-written-under-skin"][1],
-                            location["what-turned-eighteen"][1])
+    def test_admitted_magical_histories_cannot_cross_the_extinction_boundary(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        # Test the authority boundary, not a preferred editorial cohort.
+        for slug in ("the-last-bus-to-briar-hill", "the-trouble-with-tuesdays",
+                     "self-reflection", "the-wrong-side-of-the-part",
+                     "transitions-in-common", "a-place-for-the-living",
+                     "the-warmest-person-in-the-room", "realms"):
+            for state in ("long-dark", "new-magic"):
+                with self.subTest(story=slug, state=state), tempfile.TemporaryDirectory() as temporary:
+                    value = json.loads(json.dumps(original))
+                    source = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                                  if slug in era["stories"])
+                    source["stories"].remove(slug)
+                    destination = next(cycle for cycle in value["cycles"]
+                                       if cycle["magicState"] == state)["eras"][0]
+                    destination["stories"].append(slug)
+                    value["storyPlacements"][slug]["window"] = destination["window"].copy()
+                    path = Path(temporary) / "timeline.json"
+                    path.write_text(json.dumps(value), encoding="utf-8")
+                    with self.assertRaisesRegex(ValueError, "must precede the old magic extinction"):
+                        build.load_timeline(catalog, path)
 
     def test_atlas_rejects_missing_story_invalid_positions_and_broken_connections(self):
         catalog = build.load_catalog()

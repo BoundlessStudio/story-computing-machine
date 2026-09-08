@@ -564,6 +564,17 @@ def _validate_timeline_order(cycles, placements, connections):
     if states != sorted(states):
         raise ValueError("Worldline history must preserve old magic, Long Dark, then new magic")
 
+    # These magical histories were already admitted when the terminal boundary
+    # was locked on 2026-08-24. Their unresolved local dates permit contextual
+    # movement, but do not place them after that boundary. Later admissions
+    # explicitly leaving old/new open are not covered by this constraint.
+    for slug in ("the-last-bus-to-briar-hill", "the-trouble-with-tuesdays",
+                 "self-reflection", "the-wrong-side-of-the-part",
+                 "transitions-in-common", "a-place-for-the-living",
+                 "the-warmest-person-in-the-room", "realms"):
+        if slug in locations and cycles[locations[slug]].magic_state != "old-magic":
+            raise ValueError(f"Established magical history {slug} must precede the old magic extinction")
+
     def precedes(source, target):
         if target not in successors[source]:
             successors[source].add(target)

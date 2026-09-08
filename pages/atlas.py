@@ -112,7 +112,8 @@ def render(catalog, timeline):
             f'<section class="atlas-cycle state-{cycle.magic_state}" id="cycle-{esc(cycle.id)}" '
             f'data-cycle-section="{esc(cycle.id)}" data-magic-state="{cycle.magic_state}">'
             '<header class="cycle-heading">'
-            f'<p class="atlas-kicker">Cycle {number:02d}</p><h3>{esc(cycle.title)}</h3></header>'
+            f'<p class="atlas-kicker">Cycle {number:02d}</p><h3>{esc(cycle.title)}</h3>'
+            f'<p class="cycle-context">{esc(cycle.eyebrow)}</p></header>'
             f'<span class="cycle-node" aria-hidden="true">{number:02d}</span>'
             f'<div class="cycle-eras">{"".join(era_panels)}</div></section>')
 

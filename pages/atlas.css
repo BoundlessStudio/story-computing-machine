@@ -51,6 +51,7 @@
 .cycle-heading { padding: .9rem 1.4rem 0 0; }
 .cycle-heading .atlas-kicker { color: var(--cycle-color); margin: 0 0 .55rem; font-size: .6rem; }
 .cycle-heading h3 { font-weight: 400; font-size: 1.7rem; letter-spacing: -.025em; line-height: 1.12; margin: 0; }
+.cycle-context { color: var(--atlas-muted); font: .76rem/1.65 ui-sans-serif, system-ui, sans-serif; margin: .85rem 0 0; max-width: 23rem; }
 .cycle-node { align-self: start; justify-self: center; width: 2.6rem; height: 2.6rem; border: 1px solid var(--cycle-color); background: var(--worldline-bg); color: var(--cycle-color); border-radius: 50%; display: grid; place-items: center; margin-top: 1rem; font: italic 1rem Georgia, serif; box-shadow: 0 0 0 .4rem var(--worldline-bg); }
 .cycle-eras { position: relative; min-width: 0; padding-left: 1.1rem; }
 .cycle-eras::before { position: absolute; content: ''; left: 0; top: 2.3rem; bottom: 2.6rem; border-left: 1px solid var(--atlas-line); }
