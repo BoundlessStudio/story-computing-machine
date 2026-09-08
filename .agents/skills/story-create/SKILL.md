@@ -45,8 +45,9 @@ canon/retcon rulings, or material prompt reinterpretation.
    block. Both illustrator and coordinator inspect the exact saved JPEG and
    independently apply all seven gates. Send the contract's regeneration brief
    on failure and repeat until accepted; do not capture a rejected image.
-8. Complete [Publication](#publication). The four authored Markdown files and
-   accepted title image remain the only current story artifacts.
+8. Complete [Publication](#publication) and any batch-completion audit due under
+   [Collection context](#collection-context). The four authored Markdown files
+   and accepted title image remain the only current story artifacts.
 
 ## Replacement
 
@@ -77,7 +78,9 @@ Add the final slug to chronology; commit the named removal and creation together
 
 ## Collection context
 
-Comparison is production memory, never canon or a model to imitate.
+Comparison is production memory, never canon or a model to imitate. Order recent
+stories by full source creation timestamp, using Pages' existing fallback when
+needed, rather than edit or merge time. Confirm passing reviews before reuse.
 
 - Before OUTLINE, resolve up to five recent passing current outlines. The
   outliner may read only their `## Story` design sections, never prior Voice
@@ -86,14 +89,32 @@ Comparison is production memory, never canon or a model to imitate.
   current-story paths excluding the target, or all available if fewer exist.
   Give these paths only to the reviewer, which follows the bounded comparison
   procedure in [REVIEW](../story-room/SKILL.md#review).
-- Before an 08-23 outline, count completed passing current stories whose base
-  `## Constraints` profile is 08-23 and whose prompt has no historical
-  `## Rewrite request`. At a nonzero multiple of ten, the coordinator audits
-  the ten most recent qualifying stories without saving an artifact. Examine
-  dialogic media, articulate competence, workplace triads, reasoning patterns,
-  humor levels, and ending gestures. Give the outliner only a compact
-  anti-default brief; never expose the sampled prose or Voice capsules to the
-  outliner or writer.
+- Before the first OUTLINE in each CREATE request, the coordinator audits up to
+  ten most recent passing current stories, excluding the target, under
+  [Collection variation](../../../universe/style-guide.md#collection-variation).
+  Read their recorded prompts and bounded opening, decisive, and closing prose
+  passages, including adjacent action and major dialogue exchanges. Expand only
+  as needed to establish a suspected pattern; outline intent and review PASS
+  are not evidence of narrative variety. Do not inspect removed replacement
+  artifacts. This replaces the exact-multiple-of-ten trigger.
+- For an explicitly grouped multi-story batch, also compare all its completed
+  passing stories with one another once the batch finishes, including siblings
+  produced in parallel. Use the same audit method; do not infer batch membership
+  from dates or delay unrelated stories. Findings guide subsequent CREATE work,
+  not revisions to the completed batch.
+- Give the next outliner an advisory brief of at most 150 words: up to three
+  supported recurring patterns, the range they crowd out, and opportunities
+  compatible with the new prompt. Include dialogue as well as character change
+  and emotional destination. Do not prescribe an ending, quote sampled prose,
+  summarize prior scenes, or expose prior Voice capsules. The writer receives
+  only the target's resulting outline, never the sampled material.
+- Before every OUTLINE handoff, re-resolve the current ordered sample. Reuse
+  in-conversation findings only when that sample's membership and source
+  versions match the audited set; otherwise reconstruct them from the current
+  sample. Always tailor the brief to the current prompt, even when the sample
+  is unchanged. Save no audit file, checklist, ledger, or new story field.
+  Bounded audit sampling never certifies a story's dialogue; the ordinary
+  independent review and its existing dialogue thresholds remain required.
 
 ## Publication
 
