@@ -6,6 +6,7 @@
   const stories = [...atlas.querySelectorAll('.worldline-event')];
   const details = [...atlas.querySelectorAll('[data-event-details]')];
   const cycles = [...atlas.querySelectorAll('[data-cycle-section]')];
+  const eras = [...atlas.querySelectorAll('[data-era-section]')];
   const search = atlas.querySelector('[data-atlas-search]');
   const state = atlas.querySelector('[data-atlas-state]');
   const cyclePicker = atlas.querySelector('[data-atlas-cycle]');
@@ -46,12 +47,16 @@
     if (query) details.forEach((detail) => {
       if (!detail.closest('.worldline-event').hidden) detail.open = true;
     });
+    eras.forEach((era) => {
+      era.hidden = ![...era.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
+    });
     cycles.forEach((cycle) => {
       cycle.hidden = ![...cycle.querySelectorAll('.worldline-event')].some((story) => !story.hidden);
     });
     const total = stories.filter((story) => !story.hidden).length;
     const totalCycles = cycles.filter((cycle) => !cycle.hidden).length;
-    count.textContent = `${total} ${total === 1 ? 'story' : 'stories'} across ${totalCycles} ${totalCycles === 1 ? 'cycle' : 'cycles'}`;
+    const totalEras = eras.filter((era) => !era.hidden).length;
+    count.textContent = `${total} ${total === 1 ? 'story' : 'stories'} in ${totalEras} ${totalEras === 1 ? 'era' : 'eras'} across ${totalCycles} ${totalCycles === 1 ? 'cycle' : 'cycles'}`;
     atlas.querySelector('[data-atlas-empty]').hidden = total > 0;
     updateFoldLabel();
   }

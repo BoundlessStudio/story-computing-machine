@@ -1429,14 +1429,28 @@ class StorySystemTests(unittest.TestCase):
         self.assertLess(location["the-small-moon-rose-first"], location["daughter-of-the-sun"])
         self.assertLess(location["all-accounts-due"], location["the-names-on-the-cups"])
         self.assertLess(location["the-names-on-the-cups"], location["the-sky-remembers-us-return"])
+        old = [slug for cycle in timeline.cycles if cycle.magic_state == "old-magic" for slug in cycle.stories]
+        new = [slug for cycle in timeline.cycles if cycle.magic_state == "new-magic" for slug in cycle.stories]
+        self.assertEqual("all-accounts-due", old[-1])
+        self.assertEqual("the-sky-remembers-us-return", new[0])
+        order = {"old-magic": 0, "long-dark": 1, "new-magic": 2}
+        states = [order[cycle.magic_state] for cycle in timeline.cycles if cycle.magic_state in order]
+        self.assertEqual(sorted(states), states)
+        self.assertEqual(location["voice-of-silence"][0], location["a-lock-on-the-inside"][0])
+        self.assertLess(location["voice-of-silence"], location["a-lock-on-the-inside"])
 
     def test_timeline_accepts_collection_growth_without_fixed_totals(self):
         catalog = build.load_catalog()
         extra = replace(catalog.stories[0], slug="additional-story")
         expanded = build.Catalog((*catalog.stories, extra))
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
-        last_position = value["storyPlacements"][value["cycles"][-1]["stories"][-1]]["position"]
-        value["cycles"][-1]["stories"].append(extra.slug)
+        last_position = value["storyPlacements"][value["cycles"][-1]["eras"][-1]["stories"][-1]]["position"]
+        value["cycles"][-1]["eras"].append({
+            "id": "additional-era", "title": "Another inhabited horizon",
+            "description": "A later society has another history to tell.",
+            "context": ["A distinct civic setting.", "An inherited local technology."],
+            "sequenceNote": "A proposed later period.", "stories": [extra.slug],
+        })
         value["storyPlacements"][extra.slug] = {"position": (last_position + 100) / 2, "note": "A later proposed story position."}
         value["storyConfidence"][extra.slug] = "speculative"
         with tempfile.TemporaryDirectory() as temporary:
@@ -1445,12 +1459,13 @@ class StorySystemTests(unittest.TestCase):
             timeline = build.load_timeline(expanded, path)
         self.assertEqual(len(expanded.stories), len(timeline.story_placements))
         self.assertIn(extra.slug, timeline.cycles[-1].stories)
+        self.assertIn('id="era-additional-era"', build.render_timeline(expanded, timeline))
         self.assertIn(f'id="story-{extra.slug}"', build.render_timeline(expanded, timeline))
 
     def test_timeline_rejects_duplicate_story_placement(self):
         catalog = build.load_catalog()
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
-        value["cycles"][1]["stories"].append(value["cycles"][0]["stories"][0])
+        value["cycles"][1]["eras"][0]["stories"].append(value["cycles"][0]["eras"][0]["stories"][0])
         with tempfile.TemporaryDirectory() as temporary:
             path = Path(temporary) / "timeline.json"
             path.write_text(json.dumps(value), encoding="utf-8")
@@ -1464,6 +1479,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(len(catalog.stories), rendered.count('class="worldline-event '))
         self.assertEqual(len(catalog.stories), rendered.count('<img src="covers/'))
         self.assertEqual(len(timeline.cycles), rendered.count("data-cycle-section="))
+        self.assertEqual(sum(len(cycle.eras) for cycle in timeline.cycles), rendered.count("data-era-section="))
         self.assertEqual(len(timeline.connections), rendered.count("data-thread-kind="))
         self.assertNotIn("atlas-story-grid", rendered)
         self.assertNotIn("data-era-stop", rendered)
@@ -1481,20 +1497,43 @@ class StorySystemTests(unittest.TestCase):
         self.assertIn('role="status"', rendered)
         self.assertIn('aria-label="Orbital cycle navigator"', rendered)
         self.assertIn('href="atlas.css"', rendered)
+        self.assertIn("Life in this era", rendered)
+        self.assertIn("regional stories may overlap in time", rendered)
+
+    def test_contextual_eras_preserve_cohorts_and_separate_incompatible_rules(self):
+        timeline = build.load_timeline(build.load_catalog())
+        location = {slug: (cycle.id, era.id) for cycle in timeline.cycles
+                    for era in cycle.eras for slug in era.stories}
+        for cohort in (
+            ("the-mercy-circuit", "sakura-hearted", "a-little-more-room"),
+            ("the-warmest-person-in-the-room", "captive-couples", "the-name-i-kept"),
+            ("the-attendance-ledger", "the-help-network"),
+        ):
+            with self.subTest(cohort=cohort):
+                self.assertEqual(1, len({location[slug] for slug in cohort}))
+        self.assertNotEqual(location["a-darkness-written-under-skin"][0],
+                            location["what-turned-eighteen"][0])
 
     def test_atlas_rejects_missing_story_invalid_positions_and_broken_connections(self):
         catalog = build.load_catalog()
         original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
-        first = original["cycles"][0]["stories"][0]
-        second = original["cycles"][0]["stories"][1]
+        cycle_index, era_index = next((ci, ei) for ci, cycle in enumerate(original["cycles"])
+                                     for ei, era in enumerate(cycle["eras"]) if len(era["stories"]) > 1)
+        def members(value):
+            return value["cycles"][cycle_index]["eras"][era_index]["stories"]
+        first, second = members(original)[:2]
         mutations = (
-            ("missing story", lambda v: v["cycles"][0]["stories"].pop(), "missing published stories"),
+            ("missing story", lambda v: members(v).pop(), "missing published stories"),
+            ("no eras", lambda v: v["cycles"][0].update(eras=[]), "eras must be a non-empty list"),
+            ("duplicate era", lambda v: v["cycles"][-1]["eras"][-1].update(id=v["cycles"][0]["eras"][0]["id"]), "duplicate id"),
+            ("empty context", lambda v: v["cycles"][0]["eras"][0].update(context=[]), "two to four historical observations"),
+            ("blank context", lambda v: v["cycles"][0]["eras"][0].update(context=["", "A place."]), "non-empty string"),
             ("missing position", lambda v: v["storyPlacements"].pop(first), "cover every published story"),
             ("empty rationale", lambda v: v["storyPlacements"][first].update(note=""), "non-empty string"),
             ("non-finite position", lambda v: v["storyPlacements"][first].update(position=float("nan")), "must be finite"),
             ("out of cycle", lambda v: v["storyPlacements"][first].update(position=100), "must be finite"),
             ("overlapping positions", lambda v: v["storyPlacements"][second].update(position=v["storyPlacements"][first]["position"]), "increase strictly"),
-            ("reversed order", lambda v: v["cycles"][0]["stories"].reverse(), "increase strictly"),
+            ("reversed order", lambda v: members(v).reverse(), "increase strictly"),
             ("unknown connection", lambda v: v["connections"][0].update(to="nonexistent-story"), "Connection endpoints"),
             ("self connection", lambda v: v["connections"][0].update(to=v["connections"][0]["from"]), "Connection endpoints"),
             ("unknown kind", lambda v: v["connections"][0].update(kind="sequel-maybe"), "Connection kind"),

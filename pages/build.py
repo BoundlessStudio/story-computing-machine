@@ -73,6 +73,16 @@ class TimelineSpan:
 
 
 @dataclass(frozen=True)
+class TimelineEra:
+    id: str
+    title: str
+    description: str
+    context: tuple[str, ...]
+    sequence_note: str
+    stories: tuple[str, ...]
+
+
+@dataclass(frozen=True)
 class TimelineCycle:
     id: str
     title: str
@@ -80,7 +90,11 @@ class TimelineCycle:
     magic_state: str
     description: str
     sequence_note: str
-    stories: tuple[str, ...]
+    eras: tuple[TimelineEra, ...]
+
+    @property
+    def stories(self) -> tuple[str, ...]:
+        return tuple(slug for era in self.eras for slug in era.stories)
 
 
 @dataclass(frozen=True)
@@ -522,7 +536,7 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
         "schemaVersion", "cycles", "storyPlacements", "storyMoments",
         "storySpans", "storyConfidence", "connections",
     }, str(path))
-    if value["schemaVersion"] != 5:
+    if value["schemaVersion"] != 6:
         raise ValueError(f"Unsupported timeline snapshot in {path}")
     for key in ("storyPlacements", "storyMoments", "storySpans", "storyConfidence"):
         if not isinstance(value[key], dict):
@@ -547,22 +561,44 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
         raise ValueError("Timeline cycles must be a non-empty list")
     cycles: list[TimelineCycle] = []
     cycle_ids: set[str] = set()
+    era_ids: set[str] = set()
     assigned: set[str] = set()
     for item in value["cycles"]:
         if not isinstance(item, dict):
             raise ValueError("Timeline cycle must be an object")
-        require_exact_fields(item, {"id", "title", "eyebrow", "magicState", "description", "sequenceNote", "stories"}, "Timeline cycle")
+        require_exact_fields(item, {"id", "title", "eyebrow", "magicState", "description", "sequenceNote", "eras"}, "Timeline cycle")
         cycle_id = _timeline_text(item["id"], "Cycle id")
         if not SLUG.fullmatch(cycle_id) or cycle_id in cycle_ids:
             raise ValueError("Timeline cycle has an invalid or duplicate id")
         state = _timeline_text(item["magicState"], "Cycle magic state")
         if state not in TIMELINE_MAGIC_STATES:
             raise ValueError("Timeline cycle has an unsupported magic state")
-        slugs = _timeline_story_slugs(item["stories"], "Cycle stories")
-        if not slugs or set(slugs) - known:
-            raise ValueError("Cycle stories must be known and non-empty")
-        if set(slugs) & assigned:
-            raise ValueError("Cycle repeats already placed stories")
+        if not isinstance(item["eras"], list) or not item["eras"]:
+            raise ValueError("Cycle eras must be a non-empty list")
+        eras = []
+        for era in item["eras"]:
+            if not isinstance(era, dict):
+                raise ValueError("Timeline era must be an object")
+            require_exact_fields(era, {"id", "title", "description", "context", "sequenceNote", "stories"}, "Timeline era")
+            era_id = _timeline_text(era["id"], "Era id")
+            if not SLUG.fullmatch(era_id) or era_id in era_ids:
+                raise ValueError("Timeline era has an invalid or duplicate id")
+            era_slugs = _timeline_story_slugs(era["stories"], "Era stories")
+            if not era_slugs or set(era_slugs) - known:
+                raise ValueError("Era stories must be known and non-empty")
+            if set(era_slugs) & assigned:
+                raise ValueError("Era repeats already placed stories")
+            if not isinstance(era["context"], list) or not 2 <= len(era["context"]) <= 4:
+                raise ValueError("Era context must give two to four historical observations")
+            context = tuple(_timeline_text(observation, "Era context") for observation in era["context"])
+            eras.append(TimelineEra(
+                era_id, _timeline_text(era["title"], "Era title"),
+                _timeline_text(era["description"], "Era description"), context,
+                _timeline_text(era["sequenceNote"], "Era sequenceNote"), era_slugs,
+            ))
+            era_ids.add(era_id)
+            assigned.update(era_slugs)
+        slugs = tuple(slug for era in eras for slug in era.stories)
         positions = [placements[slug].position for slug in slugs]
         if any(left >= right for left, right in zip(positions, positions[1:])):
             raise ValueError("Story positions must increase strictly within each cycle")
@@ -570,10 +606,9 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             cycle_id, _timeline_text(item["title"], "Cycle title"),
             _timeline_text(item["eyebrow"], "Cycle eyebrow"), state,
             _timeline_text(item["description"], "Cycle description"),
-            _timeline_text(item["sequenceNote"], "Cycle sequenceNote"), slugs,
+            _timeline_text(item["sequenceNote"], "Cycle sequenceNote"), tuple(eras),
         ))
         cycle_ids.add(cycle_id)
-        assigned.update(slugs)
     if assigned != known:
         raise ValueError(f"Chronology is missing published stories: {sorted(known - assigned)}")
 

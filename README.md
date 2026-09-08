@@ -43,15 +43,18 @@ decision. For named replacements and localized edits, see
 - `pages/catalog.json`, `pages/covers/`: publication snapshot.
 - `pages/timeline.json`: curated chronology; `universe/` remains authoritative.
 
-The Chronology places individual stories along a proposed sequence of Galactic
-Cycles. Civilizations and familiar social forms recur across the sequence;
-stories are not collected into thematic era panels. Every publication has one
-cycle, a distinct schematic position, and a placement rationale in
-`pages/timeline.json`. Established local intervals and the worldline backbone
-constrain the proposal; exact Galactic dates remain unresolved. Connections lead
-between individual positions, with direct links distinguished from echoes.
-The validator requires complete coverage, increasing positions within each
-cycle, and valid connection endpoints before Pages can build.
+The Chronology reconstructs one world's long history through Galactic Cycles,
+historical eras, and individual stories. An era groups stories by compatible
+institutions, technology, magical conditions, and inherited history. Different
+societies can coexist within a period; similar forms can recur long afterward.
+Each era explains its context and place in the larger succession. Every story
+has a schematic position and a placement rationale in `pages/timeline.json`.
+Grouping and broad succession are editorial proposals; established local
+intervals and the worldline backbone constrain them. Exact Galactic dates
+remain unresolved. Connections distinguish direct sequences from echoes.
+The validator requires complete story coverage, unique era IDs, historical
+context for each era, increasing schematic positions within each cycle, and
+valid connection endpoints before Pages can build.
 
 ## Local commands
 
