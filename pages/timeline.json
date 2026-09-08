@@ -37,7 +37,7 @@
       "description": "Ancient dwellings and rural refuges make hospitality the first durable magical institution.",
       "sequenceNote": "The shared shape is old, inhabited magic; no common road or chronology is asserted.",
       "confidence": "unresolved",
-      "stories": ["tea-for-the-first-guest", "the-hollow-cask"],
+      "stories": ["tea-for-the-first-guest", "the-hollow-cask", "a-knock-in-someone-elses-sleep"],
       "constellations": []
     },
     {
@@ -310,7 +310,7 @@
       "description": "Hidden princesses, imperial walls, strategic marriages, and military treaties sustain nonmagical states.",
       "sequenceNote": "A shared courtly morphology, not one royal lineage.",
       "confidence": "speculative",
-      "stories": ["four-crowns-in-hiding", "the-walls-are-thick-enough", "a-crown-in-the-bargain", "strength-of-ten", "late-for-dinner"],
+      "stories": ["four-crowns-in-hiding", "the-walls-are-thick-enough", "a-crown-in-the-bargain", "strength-of-ten", "late-for-dinner", "the-door-in-the-ivy"],
       "constellations": []
     },
     {
@@ -340,6 +340,19 @@
       "constellations": []
     },
     {
+      "id": "beyond-the-great-wall",
+      "magicState": "long-dark",
+      "ordered": false,
+      "type": "branch",
+      "eyebrow": "Material first contact · five centuries after the war",
+      "title": "Beyond the Great Wall",
+      "description": "Human scouts discover an electrified coastal civilization beyond a boundary closed since the horde's defeat.",
+      "sequenceNote": "A material-technology placement; only the five-hundred-year interval after the local war is fixed. Its relation to other civilizations remains unresolved.",
+      "confidence": "speculative",
+      "stories": ["the-lights-beyond"],
+      "constellations": []
+    },
+    {
       "id": "ordinary-present-and-familiar-lives",
       "magicState": "long-dark",
       "ordered": false,
@@ -349,7 +362,7 @@
       "description": "Friendship, festivals, bodies, cafés, and ordinary social pressure define a recognizably material present.",
       "sequenceNote": "These modern-shaped lives are compatible with our era without being one city or exact year.",
       "confidence": "speculative",
-      "stories": ["before-she-gets-tired", "everyone-knows-her", "the-other-twin", "the-names-on-the-cups"],
+      "stories": ["before-she-gets-tired", "everyone-knows-her", "the-other-twin", "the-names-on-the-cups", "sakura-hearted"],
       "constellations": []
     },
     {
@@ -627,6 +640,8 @@
     }
   ],
   "storyMoments": {
+    "a-knock-in-someone-elses-sleep": ["An undated imprisonment before the terminal extinction", "A childhood friendship loses direct contact", "Sixty years later: one child's dream relay"],
+    "the-lights-beyond": ["Five hundred years after the horde's defeat", "The first human scouts cross the Great Wall", "An illuminated city and powered flight change the journey"],
     "where-the-white-elk-went": ["A white elk crosses beyond the known boundary"],
     "the-morning-her-hand-moved": ["The first impossible movement", "A life reorganizes around the wonder"],
     "a-crown-for-the-endless-fire": ["The endless fire is given a crown"],
