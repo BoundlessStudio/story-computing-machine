@@ -206,7 +206,7 @@
       "description": "A modern human civilization spans a changing magical-girl age, from ordinary public abundance to hidden local teams, rare ultrahuman power, and the long fade before the Glass-Sea era.",
       "sequenceNote": "Not About That precedes the Battle of the Bay while magical girls remain numerous. Separately, Northbridge incident → Help Network → Battle of the Bay → The Dress They Brought Her; the post-battle misidentification precedes the later museum visit.",
       "confidence": "fixed",
-      "stories": ["not-about-that", "the-attendance-ledger", "the-help-network", "solstice-evening-bell", "the-dress-they-brought-her"],
+      "stories": ["not-about-that", "the-attendance-ledger", "the-help-network", "solstice-evening-bell", "the-dress-they-brought-her", "stay-out-of-my-city"],
       "constellations": []
     },
     {
@@ -661,6 +661,7 @@
     "the-help-network": ["After Northbridge: a local contact card becomes a global help network"],
     "solstice-evening-bell": ["Later: the Battle of the Bay"],
     "the-dress-they-brought-her": ["After the Battle of the Bay: officials mistake another woman for the last magical girl"],
+    "stay-out-of-my-city": ["A harbor ultimatum establishes Brackenport's peace", "Nine years later: a daughter's departure", "Its relation to the other old-modern stories remains unresolved"],
     "the-small-moon-rose-first": ["617 Ravel days", "Eleven seconds for Nell", "Four old-modern months later for Bash", "One year after Nell"],
     "clerics-infernal-ex": ["A roadside sanctuary and kiln court use crafted, bearer-powered crossings"],
     "the-friends-i-built": ["Cinder Annex teaches living magic as engineered craft; its material-world coordinate remains open"],
@@ -690,6 +691,7 @@
   },
   "storyConfidence": {
     "the-attendance-ledger": "inferred",
-    "the-help-network": "inferred"
+    "the-help-network": "inferred",
+    "stay-out-of-my-city": "unresolved"
   }
 }
