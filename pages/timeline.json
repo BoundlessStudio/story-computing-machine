@@ -37,7 +37,7 @@
       "description": "Ancient dwellings and rural refuges make hospitality the first durable magical institution.",
       "sequenceNote": "The shared shape is old, inhabited magic; no common road or chronology is asserted.",
       "confidence": "unresolved",
-      "stories": ["tea-for-the-first-guest", "the-hollow-cask"],
+      "stories": ["tea-for-the-first-guest", "the-hollow-cask", "a-knock-in-someone-elses-sleep"],
       "constellations": []
     },
     {
@@ -627,6 +627,7 @@
     }
   ],
   "storyMoments": {
+    "a-knock-in-someone-elses-sleep": ["An undated imprisonment before the terminal extinction", "A childhood friendship loses direct contact", "Sixty years later: one child's dream relay"],
     "the-lights-beyond": ["Five hundred years after the horde's defeat", "The first human scouts cross the Great Wall", "An illuminated city and powered flight change the journey"],
     "where-the-white-elk-went": ["A white elk crosses beyond the known boundary"],
     "the-morning-her-hand-moved": ["The first impossible movement", "A life reorganizes around the wonder"],
