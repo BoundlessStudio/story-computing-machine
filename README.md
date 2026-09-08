@@ -43,6 +43,14 @@ decision. For named replacements and localized edits, see
 - `pages/catalog.json`, `pages/covers/`: publication snapshot.
 - `pages/timeline.json`: curated chronology; `universe/` remains authoritative.
 
+The Chronology presents an orbital atlas of reading cycles, searchable eras,
+and direct connections or thematic echoes between stories. Cycle numbers are
+navigation, not Galactic Cycle coordinates. Its placements and connection notes
+are editorial; unresolved dates and mechanisms remain visible. The snapshot
+validator requires every published story and every chapter to appear exactly
+once, and verifies all connection endpoints before Pages can build. Add new
+chapters to a cycle in `pages/timeline.json`; the atlas renders them automatically.
+
 ## Local commands
 
 Install the Python dependencies, Markdown and Pillow:

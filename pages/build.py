@@ -99,11 +99,34 @@ class TimelineSpan:
 
 
 @dataclass(frozen=True)
+class TimelineCycle:
+    id: str
+    title: str
+    eyebrow: str
+    magic_state: str
+    description: str
+    sequence_note: str
+    chapters: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class TimelineConnection:
+    id: str
+    source: str
+    target: str
+    kind: str
+    label: str
+    note: str
+
+
+@dataclass(frozen=True)
 class Timeline:
     chapters: tuple[TimelineChapter, ...]
     story_moments: dict[str, tuple[str, ...]]
     story_spans: dict[str, TimelineSpan]
     story_confidence: dict[str, str]
+    cycles: tuple[TimelineCycle, ...]
+    connections: tuple[TimelineConnection, ...]
 
 
 def read_json_object(path: Path) -> dict[str, Any]:
@@ -560,10 +583,12 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             "storyMoments",
             "storySpans",
             "storyConfidence",
+            "cycles",
+            "connections",
         },
         str(path),
     )
-    if value["schemaVersion"] != 3 or not isinstance(value["chapters"], list):
+    if value["schemaVersion"] != 4 or not isinstance(value["chapters"], list):
         raise ValueError(f"Unsupported timeline snapshot in {path}")
     if not isinstance(value["storyMoments"], dict):
         raise ValueError(f"storyMoments in {path} must be an object")
@@ -694,7 +719,68 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             raise ValueError(f"storyConfidence for {slug} is unsupported: {level}")
         confidence[slug] = level
 
-    return Timeline(tuple(chapters), moments, spans, confidence)
+    if placed_slugs != known_slugs:
+        raise ValueError(f"Chronology is missing published stories: {sorted(known_slugs - placed_slugs)}")
+
+    if not isinstance(value["cycles"], list) or not value["cycles"]:
+        raise ValueError("Timeline cycles must be a non-empty list")
+    cycles: list[TimelineCycle] = []
+    cycle_ids: set[str] = set()
+    assigned_chapters: set[str] = set()
+    chapter_states = {chapter.id: chapter.magic_state for chapter in chapters}
+    for item in value["cycles"]:
+        if not isinstance(item, dict):
+            raise ValueError("Timeline cycle must be an object")
+        require_exact_fields(item, {"id", "title", "eyebrow", "magicState", "description", "sequenceNote", "chapters"}, "Timeline cycle")
+        cycle_id = _timeline_text(item["id"], "Cycle id")
+        if not SLUG.fullmatch(cycle_id) or cycle_id in cycle_ids:
+            raise ValueError("Timeline cycle has an invalid or duplicate id")
+        state = item["magicState"]
+        if state not in TIMELINE_MAGIC_STATES:
+            raise ValueError("Timeline cycle has an unsupported magic state")
+        ids = _timeline_story_slugs(item["chapters"], "Cycle chapters")
+        if not ids or set(ids) - chapter_states.keys() or set(ids) & assigned_chapters:
+            raise ValueError("Cycle chapters must be known, non-empty, and assigned exactly once")
+        if any(chapter_states[chapter_id] != state for chapter_id in ids):
+            raise ValueError("Cycle and chapter magic states must agree")
+        cycles.append(TimelineCycle(
+            cycle_id, _timeline_text(item["title"], "Cycle title"),
+            _timeline_text(item["eyebrow"], "Cycle eyebrow"), state,
+            _timeline_text(item["description"], "Cycle description"),
+            _timeline_text(item["sequenceNote"], "Cycle sequenceNote"), ids,
+        ))
+        cycle_ids.add(cycle_id)
+        assigned_chapters.update(ids)
+    if assigned_chapters != chapter_states.keys():
+        raise ValueError("Every chronology chapter must belong to a cycle")
+
+    if not isinstance(value["connections"], list):
+        raise ValueError("Timeline connections must be a list")
+    connections: list[TimelineConnection] = []
+    connection_ids: set[str] = set()
+    connection_pairs: set[tuple[str, str, str]] = set()
+    for item in value["connections"]:
+        if not isinstance(item, dict):
+            raise ValueError("Timeline connection must be an object")
+        require_exact_fields(item, {"id", "from", "to", "kind", "label", "note"}, "Timeline connection")
+        connection_id = _timeline_text(item["id"], "Connection id")
+        source, target, kind = item["from"], item["to"], item["kind"]
+        if not SLUG.fullmatch(connection_id) or connection_id in connection_ids:
+            raise ValueError("Timeline connection has an invalid or duplicate id")
+        if source not in known_slugs or target not in known_slugs or source == target:
+            raise ValueError("Connection endpoints must be different published stories")
+        if kind not in {"direct", "echo"}:
+            raise ValueError("Connection kind must be direct or echo")
+        pair = (min(source, target), max(source, target), kind)
+        if pair in connection_pairs:
+            raise ValueError("Timeline connection repeats a story pair")
+        connections.append(TimelineConnection(connection_id, source, target, kind,
+            _timeline_text(item["label"], "Connection label"),
+            _timeline_text(item["note"], "Connection note")))
+        connection_ids.add(connection_id)
+        connection_pairs.add(pair)
+
+    return Timeline(tuple(chapters), moments, spans, confidence, tuple(cycles), tuple(connections))
 
 
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
@@ -970,6 +1056,7 @@ def _page(
         else ""
     )
     body_class = ' class="timeline-body"' if current == "timeline" else ""
+    atlas_styles = '<link rel="stylesheet" href="atlas.css">' if current == "timeline" else ""
     return (
         '<!doctype html><html lang="en"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -978,7 +1065,7 @@ def _page(
         f'<title>{html.escape(title)}</title>'
         f'{THEME_BOOTSTRAP}'
         f'<link rel="stylesheet" href="{html.escape(stylesheet_href, quote=True)}">'
-        f'{theme_script}{script}</head><body{body_class}>{header}<main>{body}</main></body></html>'
+        f'{atlas_styles}{theme_script}{script}</head><body{body_class}>{header}<main>{body}</main></body></html>'
     )
 
 
@@ -1075,527 +1162,15 @@ def _signal_chapter_slugs(chapter: TimelineChapter) -> tuple[str, ...]:
     )
 
 
-def _signal_evidence(level: str) -> tuple[str, str]:
-    return {
-        "fixed": ("Fixed anchor", "Solid double ring"),
-        "inferred": ("Relative link", "Linked ring"),
-        "speculative": ("Compatible candidate", "Dotted ring"),
-        "unresolved": ("Working era fit", "Open split ring"),
-    }[level]
-
-
-def _signal_story_marker(story: Story, confidence: str) -> str:
-    title = html.escape(story.title, quote=True)
-    slug = html.escape(story.slug, quote=True)
-    evidence, _ = _signal_evidence(confidence)
-    return (
-        f'<span class="signal-story-name marker-{confidence}" data-story-marker '
-        f'data-story-slug="{slug}" data-placement-confidence="{confidence}" '
-        f'data-title="{title}" title="{title} · {html.escape(evidence, quote=True)}">'
-        f'<i aria-hidden="true"></i><span>{title}</span></span>'
-    )
-
-
-def _signal_story_link(
-    story: Story,
-    confidence: str,
-) -> str:
-    slug = html.escape(story.slug, quote=True)
-    cover = html.escape(story.cover, quote=True)
-    return (
-        f'<a class="signal-story-link" href="stories/{slug}.html" aria-label="{html.escape(story.title, quote=True)}" '
-        f'data-story-link data-story-slug="{slug}" data-title="{html.escape(story.title, quote=True)}" '
-        f'data-placement-confidence="{confidence}">'
-        '<span class="signal-story-cover">'
-        f'<img src="{cover}" alt="" width="{TITLE_IMAGE_WIDTH}" height="{TITLE_IMAGE_HEIGHT}" '
-        'loading="lazy" decoding="async"></span></a>'
-    )
-
-
-def _signal_era_stop(
-    chapter: TimelineChapter,
-    era_number: int,
-    side: str,
-    stories_by_slug: dict[str, Story],
-    timeline: Timeline,
-    epoch_hue: int,
-    era_offset: int,
-) -> str:
-    slugs = _signal_chapter_slugs(chapter)
-    markers = "".join(
-        _signal_story_marker(stories_by_slug[slug], timeline.story_confidence[slug])
-        for slug in slugs
-    )
-    links = "".join(
-        _signal_story_link(
-            stories_by_slug[slug],
-            timeline.story_confidence[slug],
-        )
-        for slug in slugs
-    )
-    total = len(slugs)
-    count_label = (
-        f"{total} {'story' if total == 1 else 'stories'}"
-        if total
-        else "Open future"
-    )
-    marker_field = markers or '<span class="signal-future-dots" aria-hidden="true">· · ·</span>'
-    drawer = (
-        f'<div class="signal-era-drawer"><div class="signal-story-index" '
-        f'data-story-group data-story-total="{total}">{links}</div></div>'
-        if total
-        else (
-            f'<div class="signal-era-drawer signal-era-drawer-empty"><p>{html.escape(chapter.sequence_note)}</p></div>'
-        )
-    )
-    node_label = f"{era_number:02d}"
-    if chapter.id == "all-accounts-due":
-        node_label = "0"
-    elif chapter.id == "joined-sky":
-        node_label = "✧"
-    elif chapter.confidence == "fixed":
-        node_label = "✦"
-    elif chapter.confidence == "inferred":
-        node_label = "↔"
-    era_hue = (epoch_hue + era_offset * 7) % 360
-    return (
-        f'<details class="signal-era signal-era-{chapter.magic_state} signal-type-{chapter.type} side-{side}" '
-        f'id="{html.escape(chapter.id, quote=True)}" data-era-stop data-timeline-state="{chapter.magic_state}" '
-        f'data-era-has-stories="{str(bool(total)).lower()}" data-era-number="{era_number}" '
-        f'style="--era-hue:{era_hue};--epoch-hue:{epoch_hue}">'
-        '<summary>'
-        f'<span class="signal-era-node" aria-hidden="true"><i></i><b>{node_label}</b></span>'
-        '<span class="signal-era-card">'
-        f'<span class="signal-era-kicker">{html.escape(chapter.eyebrow)}</span>'
-        f'<span class="signal-era-title">{html.escape(chapter.title)}</span>'
-        f'<span class="signal-era-description">{html.escape(chapter.description)}</span>'
-        f'<span class="signal-marker-cloud">{marker_field}</span>'
-        f'<span class="signal-era-footer"><span><strong data-era-visible>{total}</strong> '
-        f'<span data-era-count-label>{html.escape("story" if total == 1 else "stories") if total else "future"}</span></span>'
-        f'<span class="signal-era-action">{"Open index" if total else "Unwritten"}</span></span>'
-        '</span></summary>'
-        f'{drawer}</details>'
-    )
-
-
 def render_timeline(catalog: Catalog, timeline: Timeline) -> str:
-    """Render a continuous vertical era signal with compact story-name lists."""
-    stories_by_slug = {story.slug: story for story in catalog.stories}
-    chapters_by_id = {chapter.id: chapter for chapter in timeline.chapters}
-
-    epoch_specs = (
-        (
-            "first-breath",
-            "old",
-            "Epoch I",
-            "The First Magical Rise",
-            "Old Magic · Rise",
-            "Guardians, village gifts, dangerous names, and first compacts form the earliest magical civilizations.",
-            (
-                "Wild magic + handcraft",
-                "Gifted + ordinary",
-                "Humans + ancient beings",
-                "Village compacts",
-            ),
-            (
-                "ancient-guardians",
-                "first-gifts-and-compacts",
-            ),
-        ),
-        (
-            "roads-between-wonders",
-            "old",
-            "Epoch II",
-            "The Road Age",
-            "Old Magic · Expansion",
-            "Hospitality, markets, repair, and living crossings connect small magical communities into wider exchange networks.",
-            (
-                "Practical magic + craft",
-                "Bearers + ordinary traders",
-                "Mixed peoples + guests",
-                "Roads + markets",
-            ),
-            (
-                "old-towers-and-first-guests",
-                "roads-markets-and-living-doors",
-            ),
-        ),
-        (
-            "crowned-age",
-            "old",
-            "Epoch III",
-            "The Crowned Height",
-            "Old Magic · Height",
-            "Founding legends mature into succession crises, dragon governments, sacred opposition, and monster sanctuary.",
-            (
-                "Court magic + weapons",
-                "Rulers + commoners",
-                "Humans + dragons + monsters",
-                "Kingdoms + sanctuaries",
-            ),
-            (
-                "founding-legends",
-                "succession-and-broken-prophecy",
-                "dragon-polities",
-                "saints-demons-and-monster-sanctuaries",
-            ),
-        ),
-        (
-            "civic-arcana",
-            "old",
-            "Epoch IV",
-            "Civic Arcana",
-            "Old Magic · Civic height",
-            "Healers, guilds, schools, houses, and classification systems make impossible power accountable to public life.",
-            (
-                "Measured magic + medicine",
-                "Gifted + ordinary",
-                "Many peoples",
-                "Guilds + schools",
-            ),
-            (
-                "healers-blood-and-bounded-bodies",
-                "guilds-gods-and-repair",
-                "perfumed-manners",
-                "schools-houses-and-classification",
-            ),
-        ),
-        (
-            "engineered-magic",
-            "old",
-            "Epoch V",
-            "Arcane Industry",
-            "Old Magic · Industrial height",
-            "Infrastructure, colleges, apprenticeships, constructed life, and engineered peril turn magic into repeatable systems.",
-            (
-                "Engineered magic + machines",
-                "Mages + constructed life",
-                "Human + infernal + unknown",
-                "Colleges + infrastructure",
-            ),
-            (
-                "arcane-infrastructure-and-engineered-peril",
-                "colleges-and-apprenticeship-reform",
-                "constructed-life-at-cinder-annex",
-            ),
-        ),
-        (
-            "old-modern-end",
-            "old",
-            "Epoch VI",
-            "The First Fall",
-            "Old Magic · Fall",
-            "A low-signal modernity, unequal-world bridge, catastrophe, museum memory, and terminal convergence close the first magical history.",
-            (
-                "Fading magic + modern tech",
-                "Mostly ordinary lives",
-                "Unequal worlds",
-                "Modernity → collapse",
-            ),
-            (
-                "old-modern-age",
-                "ravel-bridge",
-                "glass-sea-age",
-                "museum-hinge",
-                "all-accounts-due",
-            ),
-        ),
-        (
-            "material-dawn",
-            "dark",
-            "Epoch VII",
-            "Material Refounding",
-            "The Long Dark · Refounding",
-            "Colossi, buried engines, dangerous ecologies, and creature peoples begin new civilizations under perfect material zero.",
-            (
-                "No magic + buried tech",
-                "Normals + altered bodies",
-                "Creature peoples + colossi",
-                "Refounding settlements",
-            ),
-            (
-                "colossi-and-buried-engines",
-                "altered-memory-and-valley-medicine",
-                "bodies-outside-the-old-measure",
-            ),
-        ),
-        (
-            "crowns-without-magic",
-            "dark",
-            "Epoch VIII",
-            "Crowns Without Magic",
-            "The Long Dark · Crowned height",
-            "Courts, creature cultures, guild blades, gaslight houses, and engineers rebuild fantasy-shaped societies without operative magic.",
-            (
-                "No magic + craft / steam",
-                "Unusual bodies, no spellcraft",
-                "Humans + dragons + slimes",
-                "Kingdoms + guilds",
-            ),
-            (
-                "refuge-courts-and-marriage-states",
-                "creature-cultures-without-enchantment",
-                "guild-blades-gaslight-houses-and-engineers",
-            ),
-        ),
-        (
-            "long-dark-modernities",
-            "dark",
-            "Epoch IX",
-            "The Machine Rise",
-            "The Long Dark · Machine rise",
-            "Ordinary lives, political power, unexplained anomalies, networked cities, and synthetic bodies occupy separate material modernities.",
-            (
-                "No magic + networked tech",
-                "Normals + exceptional actors",
-                "Humans + synthetics",
-                "Modern states + cities",
-            ),
-            (
-                "beyond-the-great-wall",
-                "ordinary-present-and-familiar-lives",
-                "private-powers-and-public-states",
-                "anomalies-beside-material-zero",
-                "layered-and-networked-cities",
-                "synthetic-bodies-and-war-legacies",
-            ),
-        ),
-        (
-            "great-falls",
-            "dark",
-            "Epoch X",
-            "The Great Falls",
-            "The Long Dark · Fall",
-            "Independent material civilizations collapse into wreckage, silent weapons, salvage codes, and exposed ruins.",
-            (
-                "No magic + ruin tech",
-                "Survivors + weapons",
-                "Humans + successors",
-                "Collapse + salvage",
-            ),
-            (
-                "great-falls-and-salvage",
-            ),
-        ),
-        (
-            "successor-orbital-rise",
-            "dark",
-            "Epoch XI",
-            "Successor & Orbital Civilizations",
-            "The Long Dark · Successor rise",
-            "Mobile cities, restored bodies, orbital watchers, inherited Earths, and archives rise from unrelated material pasts.",
-            (
-                "No magic + orbital tech",
-                "Restored + altered bodies",
-                "Humans + posthumans + apes",
-                "Mobile cities + successor Earths",
-            ),
-            (
-                "mobile-cities-and-restored-bodies",
-                "orbital-watchers-and-successor-earths",
-                "archive-refoundings",
-            ),
-        ),
-        (
-            "joined-hidden-return",
-            "new",
-            "Epoch XII",
-            "Magic Refounded",
-            "New Magic · Refounding",
-            "The joined sky starts magic again; foresight, inheritances, altered selves, visitors, and threshold assignments follow privately.",
-            (
-                "New magic + modern tech",
-                "Hidden powers + normals",
-                "Humans + visitors + altered selves",
-                "Private refoundings",
-            ),
-            (
-                "joined-sky",
-                "time-foresight-and-copies",
-                "unassigned-heirloom",
-                "inheritances-and-altered-selves",
-                "visitors-at-the-door",
-                "assignment-bridge",
-            ),
-        ),
-        (
-            "public-magic-height",
-            "new",
-            "Epoch XIII",
-            "The Public-Magic Height",
-            "New Magic · Public height",
-            "Monsters, transformations, superhero institutions, transit, and civic myth become the infrastructure of a second magical modernity.",
-            (
-                "New magic + high tech",
-                "Supers + normals",
-                "Humans + monsters + gods",
-                "Heroic + civic institutions",
-            ),
-            (
-                "gods-at-home-in-cusco",
-                "monsters-gods-and-avatars",
-                "transformations-become-public",
-                "hero-and-villain-institutions",
-                "threshold-transit-and-unstable-travel",
-                "civic-myth-and-dangerous-archives",
-            ),
-        ),
-        (
-            "second-sky-rise",
-            "new",
-            "Epoch XIV",
-            "Second-Sky Kingdoms",
-            "New Magic · Second rise",
-            "Magic outlives its modern institutions and begins producing fantasy-shaped kingdoms again; their eventual height and fall remain unwritten.",
-            (
-                "New magic + later craft",
-                "Publicly enchanted lives",
-                "Humans + mythical peoples",
-                "Kingdoms rising again",
-            ),
-            (
-                "second-sky-kingdoms",
-            ),
-        ),
-    )
-    epoch_hues = {
-        "first-breath": 34,
-        "roads-between-wonders": 43,
-        "crowned-age": 18,
-        "civic-arcana": 52,
-        "engineered-magic": 326,
-        "old-modern-end": 7,
-        "material-dawn": 198,
-        "crowns-without-magic": 222,
-        "long-dark-modernities": 204,
-        "great-falls": 239,
-        "successor-orbital-rise": 184,
-        "joined-hidden-return": 158,
-        "public-magic-height": 172,
-        "second-sky-rise": 139,
-    }
-    if set(epoch_hues) != {spec[0] for spec in epoch_specs}:
-        raise ValueError("Every timeline epoch must have one visual hue")
-    expected_ids = {
-        chapter_id
-        for _, _, _, _, _, _, _, chapter_ids in epoch_specs
-        for chapter_id in chapter_ids
-    }
-    if set(chapters_by_id) != expected_ids:
-        missing = sorted(expected_ids - set(chapters_by_id))
-        extra = sorted(set(chapters_by_id) - expected_ids)
-        raise ValueError(f"Timeline renderer chapter mismatch; missing={missing}, extra={extra}")
-
-    era_number = 0
-    epoch_sections: list[str] = []
-    phase_specs = (
-        ("old", "World age I", "Old Magic"),
-        ("dark", "World age II", "The Long Dark"),
-        ("new", "World age III", "New Magic"),
-    )
-    nav_links: list[str] = []
-    for phase_key, cycle_title, phase_title in phase_specs:
-        phase_epochs = [spec for spec in epoch_specs if spec[1] == phase_key]
-        phase_stories = sum(
-            len(_signal_chapter_slugs(chapters_by_id[chapter_id]))
-            for spec in phase_epochs
-            for chapter_id in spec[7]
-        )
-        epoch_numbers = [spec[2].removeprefix("Epoch ") for spec in phase_epochs]
-        epoch_range = (
-            f"Epoch {epoch_numbers[0]}"
-            if len(epoch_numbers) == 1
-            else f"Epochs {epoch_numbers[0]}–{epoch_numbers[-1]}"
-        )
-        nav_links.append(
-            f'<a href="#epoch-{phase_epochs[0][0]}" data-cycle-link="{phase_key}">'
-            f'<span>{cycle_title}</span><strong>{phase_title}</strong>'
-            f'<small>{epoch_range} · {phase_stories} plotted</small></a>'
-        )
-
-    hero_artwork = (
-        '<figure class="signal-hero-art" aria-hidden="true">'
-        '<img src="worldline-hero-art.webp" alt="" width="1536" height="1024" '
-        'decoding="async" fetchpriority="high"></figure>'
-    )
-    for (
-        epoch_key,
-        epoch_phase,
-        epoch_number,
-        epoch_title,
-        epoch_phase_title,
-        epoch_description,
-        epoch_world_tags,
-        chapter_ids,
-    ) in epoch_specs:
-        epoch_stories = sum(
-            len(_signal_chapter_slugs(chapters_by_id[chapter_id]))
-            for chapter_id in chapter_ids
-        )
-        epoch_story_label = "story marker" if epoch_stories == 1 else "story markers"
-        epoch_era_label = "era" if len(chapter_ids) == 1 else "eras"
-        stops: list[str] = []
-        for local_index, chapter_id in enumerate(chapter_ids):
-            era_number += 1
-            chapter = chapters_by_id[chapter_id]
-            stops.append(
-                _signal_era_stop(
-                    chapter,
-                    era_number,
-                    "left" if local_index % 2 == 0 else "right",
-                    stories_by_slug,
-                    timeline,
-                    epoch_hues[epoch_key],
-                    local_index,
-                )
-            )
-        epoch_sections.append(
-            f'<section class="signal-epoch epoch-{epoch_phase}" id="epoch-{epoch_key}" '
-            f'data-epoch-section="{epoch_key}" data-cycle-section="{epoch_phase}" '
-            f'style="--epoch-hue:{epoch_hues[epoch_key]}"><header class="signal-epoch-heading">'
-            f'<span>{epoch_number}</span><div><p>{epoch_phase_title} · {epoch_stories} {epoch_story_label} across {len(chapter_ids)} {epoch_era_label}</p>'
-            f'<h2>{epoch_title}</h2><p>{epoch_description}</p>'
-            '<div class="signal-world-texture" aria-label="World conditions in this epoch"><b>This world</b>'
-            f'{"".join(f"<span>{html.escape(tag)}</span>" for tag in epoch_world_tags)}</div></div></header>'
-            f'<div class="signal-era-sequence">{"".join(stops)}</div></section>'
-        )
-
-    body = (
-        '<a class="signal-skip-link" href="#worldline-sequence">Skip to the worldline</a>'
-        '<div class="signal-page" data-timeline>'
-        '<section class="signal-hero"><div class="signal-hero-copy">'
-        f'<p>One worldline · {len(epoch_specs)} civilizational epochs</p><h1>The Worldline</h1>'
-        '<p class="signal-hero-lede">Civilizations rise, peak, fall, and begin again—under old magic, repeatedly through the Long Dark, and once more after the sky remembers. Every epoch names the kind of world its stories inhabit.</p>'
-        f'</div><div class="signal-hero-graphic">{hero_artwork}</div></section>'
-        '<nav class="signal-nav" aria-label="Timeline epochs">'
-        f'<div class="signal-nav-epochs">{"".join(nav_links)}</div>'
-        '<div class="signal-nav-tools"><button type="button" data-collapse-eras>Close era indexes</button></div>'
-        '</nav>'
-        '<div class="signal-legend" aria-label="Placement evidence legend">'
-        '<strong>Placement evidence</strong>'
-        '<span class="marker-fixed">Fixed anchor</span><span class="marker-inferred">Relative link</span>'
-        '<span class="marker-speculative">Compatible candidate</span><span class="marker-unresolved">Working era fit</span>'
-        '</div>'
-        f'<div class="signal-worldline" id="worldline-sequence">{"".join(epoch_sections)}</div>'
-        '<footer class="signal-continuation" aria-labelledby="signal-continuation-title">'
-        '<div class="signal-continuation-mark" aria-hidden="true"><i></i></div>'
-        '<div class="signal-continuation-copy">'
-        '<p>Past the last plotted age</p>'
-        '<h2 id="signal-continuation-title">The line goes on.</h2>'
-        '<p>Every ending on this map becomes someone else’s deep history. Beyond the final marker, unnamed ages are already beginning.</p>'
-        '<a href="index.html">Return to the story library <span aria-hidden="true">→</span></a>'
-        '</div></footer>'
-        '</div>'
-    )
+    if __package__:
+        from .atlas import render
+    else:
+        from atlas import render
     return _page(
-        "The Worldline — Story Chronology",
-        body,
-        "index.html",
-        "timeline.html",
-        "styles.css",
-        "theme.js",
-        current="timeline",
-        script_href="timeline.js",
+        "The Worldline — An Atlas of Countless Beginnings", render(catalog, timeline),
+        "index.html", "timeline.html", "styles.css", "theme.js",
+        current="timeline", script_href="timeline.js",
     )
 
 
@@ -1627,6 +1202,7 @@ def build(output: Path, snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:
     shutil.copy2(STYLESHEET_PATH, destination / "styles.css")
     shutil.copy2(THEME_SCRIPT_PATH, destination / "theme.js")
     shutil.copy2(TIMELINE_SCRIPT_PATH, destination / "timeline.js")
+    shutil.copy2(Path(__file__).with_name("atlas.css"), destination / "atlas.css")
     shutil.copy2(WORLDLINE_HERO_ART_PATH, destination / WORLDLINE_HERO_ART_PATH.name)
     (destination / "index.html").write_text(render_index(catalog), encoding="utf-8")
     (destination / "timeline.html").write_text(

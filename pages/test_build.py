@@ -1417,67 +1417,25 @@ class StorySystemTests(unittest.TestCase):
             } <= set(timeline.story_spans),
         )
 
-        chapter_ids = [chapter.id for chapter in timeline.chapters]
-        self.assertEqual("ancient-guardians", chapter_ids[0])
-        self.assertEqual("second-sky-kingdoms", chapter_ids[-1])
-        self.assertLess(chapter_ids.index("old-modern-age"), chapter_ids.index("glass-sea-age"))
-        self.assertLess(chapter_ids.index("all-accounts-due"), chapter_ids.index("ordinary-present-and-familiar-lives"))
-        self.assertLess(chapter_ids.index("ordinary-present-and-familiar-lives"), chapter_ids.index("joined-sky"))
-        self.assertTrue(all(not chapter.ordered for chapter in timeline.chapters))
-
         placements_by_chapter = {
-            chapter.id: [
-                *chapter.stories,
-                *(slug for group in chapter.constellations for slug in group.stories),
-            ]
+            chapter.id: build._signal_chapter_slugs(chapter)
             for chapter in timeline.chapters
         }
-        self.assertIn(
-            "solstice-evening-bell",
-            placements_by_chapter["old-modern-age"],
-        )
-        self.assertTrue(
-            {
-                "not-about-that",
-                "the-attendance-ledger",
-                "the-help-network",
-                "solstice-evening-bell",
-                "the-dress-they-brought-her",
-            } <= set(placements_by_chapter["old-modern-age"]),
-        )
-        self.assertNotIn(
-            "the-attendance-ledger",
-            placements_by_chapter["hero-and-villain-institutions"],
-        )
-        self.assertIn("the-count-was-131072", placements_by_chapter["museum-hinge"])
-        self.assertIn("the-room-that-waited", placements_by_chapter["great-falls-and-salvage"])
-        self.assertIn("apes-in-orbit", placements_by_chapter["orbital-watchers-and-successor-earths"])
-        self.assertIn("the-names-on-the-cups", placements_by_chapter["ordinary-present-and-familiar-lives"])
-        self.assertIn("four-million-falling", placements_by_chapter["great-falls-and-salvage"])
-        self.assertIn("the-night-harvest", placements_by_chapter["monsters-gods-and-avatars"])
-        self.assertIn("voice-of-silence", placements_by_chapter["colleges-and-apprenticeship-reform"])
-        self.assertIn("blade-calls-your-name", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
-        self.assertIn("golden-lion", placements_by_chapter["guild-blades-gaslight-houses-and-engineers"])
-        self.assertIn("the-small-moon-rose-first", placements_by_chapter["ravel-bridge"])
-        self.assertIn("clerics-infernal-ex", placements_by_chapter["roads-markets-and-living-doors"])
-        self.assertIn("the-friends-i-built", placements_by_chapter["constructed-life-at-cinder-annex"])
-        self.assertIn("the-players-above", placements_by_chapter["arcane-infrastructure-and-engineered-peril"])
-        self.assertIn("the-station-between", placements_by_chapter["anomalies-beside-material-zero"])
-        self.assertIn("his-infernal-majesty-says-no", placements_by_chapter["visitors-at-the-door"])
-        self.assertIn("tenth-world-lesson", placements_by_chapter["assignment-bridge"])
-        self.assertIn("realms", placements_by_chapter["threshold-transit-and-unstable-travel"])
-        self.assertIn("where-no-unicorn-stands", placements_by_chapter["second-sky-kingdoms"])
-        self.assertIn("the-second-wearing", placements_by_chapter["unassigned-heirloom"])
-        states_by_chapter = {
-            chapter.id: chapter.magic_state for chapter in timeline.chapters
-        }
-        self.assertEqual("old-magic", states_by_chapter["all-accounts-due"])
-        self.assertEqual("long-dark", states_by_chapter["ordinary-present-and-familiar-lives"])
-        self.assertEqual("new-magic", states_by_chapter["joined-sky"])
-        self.assertTrue(all(
-            chapter.magic_state in build.TIMELINE_MAGIC_STATES
+        states = {
+            slug: chapter.magic_state
             for chapter in timeline.chapters
-        ))
+            for slug in build._signal_chapter_slugs(chapter)
+        }
+        self.assertEqual("old-magic", states["all-accounts-due"])
+        self.assertEqual("old-magic", states["strength-of-ten"])
+        self.assertEqual("long-dark", states["the-names-on-the-cups"])
+        self.assertEqual("new-magic", states["the-sky-remembers-us-return"])
+        self.assertIn(states["the-night-harvest"], {"off-axis", "uncertain"})
+        self.assertNotEqual("long-dark", states["the-name-the-water-took"])
+        self.assertTrue(all(not chapter.ordered for chapter in timeline.chapters))
+        cycle_chapters = [chapter for cycle in timeline.cycles for chapter in cycle.chapters]
+        self.assertEqual(set(placements_by_chapter), set(cycle_chapters))
+        self.assertEqual(len(cycle_chapters), len(set(cycle_chapters)))
         self.assertTrue(set(timeline.story_confidence.values()) <= build.PLACEMENT_CONFIDENCE)
 
     def test_timeline_accepts_collection_growth_without_fixed_totals(self):
@@ -1505,123 +1463,62 @@ class StorySystemTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "repeats already placed stories"):
                 build.load_timeline(catalog, timeline_path)
 
-    def test_timeline_render_uses_decorative_hero_art(self):
+    def test_atlas_renders_every_story_cycle_and_connection_with_resolvable_links(self):
         catalog = build.load_catalog()
         timeline = build.load_timeline(catalog)
         rendered = build.render_timeline(catalog, timeline)
-
-        story_links = re.findall(r'href="stories/([^"/]+)\.html"', rendered)
-        self.assertEqual(len(catalog.stories), len(story_links))
-        self.assertEqual({story.slug for story in catalog.stories}, set(story_links))
-        self.assertTrue(all(count == 1 for count in Counter(story_links).values()))
-        self.assertNotIn('<img src="timeline-icons/', rendered)
+        self.assertEqual(len(catalog.stories), rendered.count('class="atlas-story"'))
         self.assertEqual(len(catalog.stories), rendered.count('<img src="covers/'))
-        self.assertEqual(len(catalog.stories), rendered.count("data-story-marker"))
-        self.assertEqual(len(catalog.stories), rendered.count('class="signal-story-name marker-'))
-        self.assertEqual(len(catalog.stories), rendered.count('class="signal-story-cover"'))
-        self.assertNotIn('class="signal-story-copy"', rendered)
-        self.assertNotIn('class="signal-story-note"', rendered)
-        self.assertNotIn('class="signal-story-arrow"', rendered)
         self.assertEqual(len(timeline.chapters), rendered.count("data-era-stop"))
-        self.assertEqual(len(timeline.chapters), rendered.count('style="--era-hue:'))
-        self.assertEqual(14, rendered.count("data-epoch-section"))
-        self.assertEqual(14, rendered.count('style="--epoch-hue:'))
-        self.assertEqual(14, rendered.count('class="signal-world-texture"'))
-        self.assertEqual(3, rendered.count("data-cycle-link"))
-        self.assertIn('<figure class="signal-hero-art" aria-hidden="true">', rendered)
-        self.assertIn('<img src="worldline-hero-art.webp" alt=""', rendered)
-        hero_section = rendered[
-            rendered.index('<section class="signal-hero">') : rendered.index(
-                "</section>", rendered.index('<section class="signal-hero">')
-            )
-        ]
-        for removed_stat in ("Epochs", "Named eras", "Stories plotted", "Fixed anchors"):
-            self.assertNotIn(f"<dt>{removed_stat}</dt>", hero_section)
-        hero_start = rendered.index('<figure class="signal-hero-art"')
-        hero_end = rendered.index('</figure>', hero_start)
-        hero_markup = rendered[hero_start:hero_end]
-        self.assertNotIn("<a ", hero_markup)
-        self.assertNotIn("role=", hero_markup)
-        self.assertNotIn("data-hero-", rendered)
-        self.assertNotIn("signal-folded-worldline", rendered)
-        self.assertNotIn("folded-epoch", rendered)
-        self.assertNotIn("folded-hinge", rendered)
-        self.assertNotIn("signal-cycle-diagram", rendered)
-        self.assertNotIn("diagram-baseline", rendered)
-        self.assertNotIn("diagram-stage-label", rendered)
-        self.assertNotIn("diagram_y", rendered)
-        self.assertNotIn("signal-preview", rendered)
-        self.assertNotIn("perfect zero</span>", rendered)
-        self.assertIn("One worldline · 14 civilizational epochs", rendered)
-        self.assertIn("The Worldline", rendered)
-        self.assertIn("World age I", rendered)
-        self.assertIn("World age II", rendered)
-        self.assertIn("World age III", rendered)
-        self.assertIn("Old Magic", rendered)
-        self.assertIn("The Long Dark", rendered)
-        self.assertIn("New Magic", rendered)
-        self.assertIn("Material Refounding", rendered)
-        self.assertIn("Crowns Without Magic", rendered)
-        self.assertIn("The Machine Rise", rendered)
-        self.assertIn("The Great Falls", rendered)
-        self.assertIn("Successor & Orbital Civilizations", rendered)
-        self.assertIn("Magic Refounded", rendered)
-        self.assertIn("The Public-Magic Height", rendered)
-        self.assertIn("Guild Blades, Gaslight Houses &amp; Engineers", rendered)
-        self.assertIn("Synthetic Bodies &amp; War Legacies", rendered)
-        self.assertIn("Great Falls &amp; Salvage", rendered)
-        self.assertIn("Orbital Watchers &amp; Successor Earths", rendered)
-        self.assertIn("The Assignment Bridge", rendered)
-        self.assertIn("Hero &amp; Villain Institutions", rendered)
-        self.assertIn("Second-Sky Kingdoms", rendered)
-        self.assertIn("No magic + networked tech", rendered)
-        self.assertIn("Normals + exceptional actors", rendered)
-        self.assertIn("Humans + synthetics", rendered)
-        self.assertIn("Humans + dragons + slimes", rendered)
-        self.assertIn("New magic + high tech", rendered)
-        self.assertIn("Supers + normals", rendered)
-        self.assertIn("Humans + monsters + gods", rendered)
-        self.assertIn('class="signal-worldline"', rendered)
-        self.assertIn('class="signal-skip-link"', rendered)
-        self.assertIn("Close era indexes", rendered)
-        self.assertNotIn("data-timeline-filter", rendered)
-        self.assertNotIn("data-timeline-search", rendered)
-        self.assertNotIn("data-visible-total", rendered)
-        self.assertNotIn("stories in view", rendered)
-        self.assertIn("Fixed anchor", rendered)
-        self.assertIn("Relative link", rendered)
-        self.assertIn("Compatible candidate", rendered)
-        self.assertIn("Working era fit", rendered)
-        self.assertIn('<strong>Placement evidence</strong>', rendered)
-        self.assertIn('aria-label="Placement evidence legend"', rendered)
-        self.assertIn('aria-label="The Room That Waited"', rendered)
-        self.assertIn('aria-label="The Station Between"', rendered)
-        self.assertIn('data-placement-confidence="fixed"', rendered)
-        self.assertIn('data-placement-confidence="inferred"', rendered)
-        self.assertIn('data-placement-confidence="speculative"', rendered)
-        self.assertIn('data-placement-confidence="unresolved"', rendered)
-        self.assertNotIn("timeline-cover-frame", rendered)
-        self.assertNotIn("timeline-cover-grid", rendered)
-        self.assertNotIn("timeline-covers/", rendered)
-        self.assertNotIn("Off-Axis", rendered)
-        self.assertNotIn("data-offaxis-drawer", rendered)
-        self.assertNotIn("signal-coda", rendered)
-        self.assertNotIn("The rule of the line", rendered)
-        self.assertNotIn("The rhythm of the line", rendered)
-        self.assertIn(
-            '<footer class="signal-continuation" aria-labelledby="signal-continuation-title">',
-            rendered,
-        )
-        self.assertIn("Past the last plotted age", rendered)
-        self.assertIn("The line goes on.", rendered)
-        self.assertIn("unnamed ages are already beginning", rendered)
-        self.assertLess(
-            rendered.index('id="epoch-second-sky-rise"'),
-            rendered.index('class="signal-continuation"'),
-        )
+        self.assertEqual(len(timeline.cycles), rendered.count("data-cycle-section="))
+        self.assertEqual(len(timeline.connections), rendered.count("data-thread-kind="))
+        for story in catalog.stories:
+            self.assertIn(f'id="story-{story.slug}"', rendered)
+            self.assertIn(f'href="stories/{story.slug}.html"', rendered)
+        ids = re.findall(r'\bid="([^" ]+)"', rendered)
+        self.assertEqual(len(ids), len(set(ids)), "Atlas IDs must be unique")
+        for target in re.findall(r'href="#([^" ]+)"', rendered):
+            self.assertIn(target, ids, f"Broken atlas fragment: {target}")
+        for label in ("Galactic Cycle", "not dates", "Direct connection", "Thematic echo", "Date unresolved"):
+            self.assertIn(label, rendered)
+        self.assertIn('role="status"', rendered)
+        self.assertIn('aria-label="Orbital cycle navigator"', rendered)
+        self.assertIn('href="atlas.css"', rendered)
         self.assertIn('<body class="timeline-body">', rendered)
         self.assertIn('<script src="timeline.js" defer></script>', rendered)
-        self.assertIn('<a href="timeline.html" aria-current="page">Chronology</a>', rendered)
+
+    def test_atlas_grows_without_renderer_chapter_mapping(self):
+        catalog = build.load_catalog()
+        value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        chapter = dict(value["chapters"][0], id="a-future-era", stories=[], constellations=[])
+        value["chapters"].append(chapter)
+        cycle = next(cycle for cycle in value["cycles"] if cycle["magicState"] == chapter["magicState"])
+        cycle["chapters"].append(chapter["id"])
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "timeline.json"
+            path.write_text(json.dumps(value), encoding="utf-8")
+            rendered = build.render_timeline(catalog, build.load_timeline(catalog, path))
+        self.assertIn('id="a-future-era"', rendered)
+
+    def test_atlas_rejects_missing_story_cycle_and_broken_connection(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        mutations = (
+            ("missing story", lambda v: v["chapters"][0]["stories"].pop(), "missing published stories"),
+            ("missing cycle chapter", lambda v: v["cycles"][0]["chapters"].pop(), "(Every chronology chapter|Cycle chapters)"),
+            ("unknown connection", lambda v: v["connections"][0].update(to="nonexistent-story"), "Connection endpoints"),
+            ("self connection", lambda v: v["connections"][0].update(to=v["connections"][0]["from"]), "Connection endpoints"),
+            ("bad cycle state", lambda v: v["cycles"][0].update(magicState="long-dark"), "magic states must agree"),
+            ("unknown connection kind", lambda v: v["connections"][0].update(kind="sequel-maybe"), "Connection kind"),
+        )
+        for name, mutate, error in mutations:
+            with self.subTest(name=name), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                mutate(value)
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                with self.assertRaisesRegex(ValueError, error):
+                    build.load_timeline(catalog, path)
 
     def test_every_page_renders_shared_theme_controls_and_prepaint_bootstrap(self):
         catalog = build.load_catalog()
@@ -1701,6 +1598,7 @@ class StorySystemTests(unittest.TestCase):
             self.assertTrue((output / "theme.js").is_file())
             self.assertTrue((output / "timeline.js").is_file())
             self.assertTrue((output / "styles.css").is_file())
+            self.assertTrue((output / "atlas.css").is_file())
             self.assertEqual(
                 (REPO / "pages/theme.js").read_bytes(),
                 (output / "theme.js").read_bytes(),
