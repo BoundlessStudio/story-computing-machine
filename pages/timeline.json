@@ -372,12 +372,12 @@
           "id": "old-colleges-signal-roads",
           "title": "Kethra's qualification and later teaching",
           "magicState": "old-magic",
-          "description": "An established qualification precedes the same archmage's work with an apprentice; the interval is undated.",
+          "description": "Kethra qualifies, begins teaching, and later faces a different responsibility toward an apprentice.",
           "context": [
-            "Four years of research and an examination rescue change Kethra's standing within a callwright college. Its living geometry and hand language form the established first half of the Kethra pair.",
-            "An established qualification precedes the same archmage's work with an apprentice; the interval is undated."
+            "Four years designing a voiced lattice precede Kethra's examination in an already established callwright college. A structural failure turns the trial into a rescue; her qualification and first safety briefing belong to this story. Lock continues the same archmage's practice later. The older-cycle position is proposed, while the college's wider institutional ancestry remains unknown.",
+            "Kethra already bears her new archmage seal when an apprentice's third morning of petitioning leads to an offered seven-day trial. Only its first day and night are witnessed. A failed lesson exposes how fear of losing housing can distort agreement, and Kethra separates board from work. The direct sequel has no measured interval or completed seven-day outcome."
           ],
-          "sequenceNote": "An established qualification precedes the same archmage's work with an apprentice; the interval is undated. The display position is proposed; local durations are not converted into an orbital date.",
+          "sequenceNote": "The same Kethra and call-link practice establish the sequence. Voice already includes her first archmage briefing; Lock witnesses only the first day and night of a later offered seven-day trial. The intervening interval and wider era remain unmeasured.",
           "stories": [
             "voice-of-silence",
             "a-lock-on-the-inside"
@@ -663,7 +663,7 @@
       "id": "cycle-02-returning-sovereignties",
       "title": "The Returning Sovereignties",
       "eyebrow": "After Nell, many old-magical societies have histories of their own.",
-      "description": "Divine governments and maritime communities reappear in the proposed history after Nell. Northbridge's hidden helpers precede a later public sky; ordinary school life, private families and public capacities continue within different societies. Solstice's coronation and her circles' fading precede the Bay by their own history; a prisoner is later misidentified and the same queen encounters a museum centuries afterward. The Glass Sea has its separate four-century inheritance of regional loss and maintained services. These histories establish no single rise and fall of all public powers.",
+      "description": "Divine governments and maritime communities reappear in the proposed history after Nell. Northbridge’s locally hidden help and Lowen’s established public sky may overlap in different civic settings; one does not date the other. Their supplied positions precede the Bay. Solstice’s coronation and her circles’ fading have their own earlier history; a prisoner is misidentified in the supplied aftermath and the same queen encounters a museum centuries later. Vantress begins a local service compact, while the Glass Sea has a separate four-century inheritance of loss and maintained works. These histories establish no single rise and fall of all public powers.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -708,10 +708,10 @@
           "magicState": "old-magic",
           "description": "The same young practitioners continue three afternoons after the showcase and extend their help over the following months.",
           "context": [
-            "Six months of anonymous assistance precede an exposure attack that the team successfully interrupts. No transformation is witnessed; classmates can explain the names and blurred footage as a stunt. The city's explicit disbelief motivates this proposed earlier reach, separate from later publicly taught and employed powers.",
-            "Direct Northbridge continuation; expansion takes months. The supplied reading sequence places it before the Bay without a measured gap."
+            "Six months of anonymous assistance precede one school day's exposure attack and the next morning's trial check-in policy. The trio's bodies, living focuses and ordinary communications have distinct limits. Northbridge's city treats magic as fiction; that local response does not date every city reached by the later help network or require public flight elsewhere to begin afterward.",
+            "Two mission-free nights precede the first card. Expansion takes months through ordinary contacts and travel. The requester confirms chosen company, not verified safety. The supplied before-Bay order gives no interval to that battle or to Lowen's city."
           ],
-          "sequenceNote": "The same young practitioners continue three afternoons after the showcase and extend their help over the following months. The display position is proposed; local durations are not converted into an orbital date.",
+          "sequenceNote": "The same three girls and their continuing injuries connect the showcase to the third afternoon and the following months. Their international contacts do not establish worldwide secrecy or a date before Lowen’s public sky. The before-Bay order comes from the supplied chronology.",
           "stories": [
             "the-attendance-ledger",
             "the-help-network"
@@ -722,15 +722,33 @@
           }
         },
         {
+          "id": "event-not-about-that",
+          "title": "Not About That",
+          "magicState": "old-magic",
+          "description": "Years of family practice and one summer's lessons → A late-afternoon flight ending at dusk.",
+          "context": [
+            "A family practice box kept for years, summer landing lessons, delivery work, agricultural rain hauling and a practice circle on a school roof already sustain Lowen's public sky. At fifteen he takes a focus one day before a planned supervised trial. The user places this before the Bay. Its possible horizon now overlaps Northbridge's: personal anonymity elsewhere does not supply an earlier date, and no common city or school system is established.",
+            "The focus has been kept for years; Sarena has taught landings all summer and spent three weeks securing permission for tomorrow's trial. Lowen's unsupervised afternoon establishes no origin of public flight, identity verdict or permission for a future trial. Its order against Northbridge remains unknown."
+          ],
+          "sequenceNote": "Its proposed horizon overlaps Northbridge and several other pre-Bay societies. The user supplies its order before Solstice Evening Bell; Lowen’s city and the Northbridge network have no established mutual order. The range marks possible placement, not the duration of his afternoon.",
+          "stories": [
+            "not-about-that"
+          ],
+          "window": {
+            "start": 9.26,
+            "end": 38.51
+          }
+        },
+        {
           "id": "event-the-second-wearing",
           "title": "The Second Wearing",
           "magicState": "old-magic",
           "description": "Pavia and the pendant → A niece’s chosen contact.",
           "context": [
-            "Proposed in the returning old-magical ages, after Nell's low-magic home and before the later public sky. A living pendant has a private thirty-one-year history of storage inside an ordinary family; that is neither evidence of global magical decline nor the age of its civilization. Its limited memories do not make it a record of Pavia's whole life.",
+            "Proposed in the returning old-magical ages, after Nell's low-magic home. A living pendant has a private thirty-one-year history of storage inside an ordinary family; that is neither evidence of global magical decline nor the age of its civilization. Its limited memories do not make it a record of Pavia's whole life.",
             "The label and family history establish thirty-one boxed years; the pendant could not measure them itself."
           ],
-          "sequenceNote": "Proposed after The Help Network and before The Throne Neither of Us Wanted. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Its selected position follows the Northbridge pair and precedes The Throne Neither of Us Wanted. Lowen’s broadened possible horizon overlaps it; a private pendant history gives no date for the public knowledge of another city.",
           "stories": [
             "the-second-wearing"
           ],
@@ -802,31 +820,13 @@
             "Mallowbreak's launch crews, court, harbor registers and old relief works meet eighty-six years of agelessness and fifty-seven minutes of divine office. Orselle's commands displace water toward two neighboring coves; restoring ordinary flow requires prepared timber, evacuation and surrender of her gift. Her earlier shipwright liability remains.",
             "Eighty-six years of agelessness precede fifty-seven minutes of divine office; these are separate local intervals."
           ],
-          "sequenceNote": "Proposed after The Peace They Could Sleep Through and before Not About That. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Peace They Could Sleep Through and before The One Who Gets Tired. Lowen’s possible horizon also reaches this part of the cycle; the maritime crisis establishes no order against his city.",
           "stories": [
             "fifty-seven-minutes"
           ],
           "window": {
             "start": 33.63,
             "end": 35.03
-          }
-        },
-        {
-          "id": "event-not-about-that",
-          "title": "Not About That",
-          "magicState": "old-magic",
-          "description": "An established public sky → One afternoon of ordinary flight.",
-          "context": [
-            "Delivery work, municipal weather, roof schooling and family practice make public flight ordinary city life. Its supplied reading position is before the Bay; no shared city or direct lineage to Solstice is established.",
-            "Only the reading position before the Bay is supplied; the culture’s founding date and relation to Solstice’s circles remain open."
-          ],
-          "sequenceNote": "Proposed after The Tide Will Have Her Answer and before The One Who Gets Tired. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
-          "stories": [
-            "not-about-that"
-          ],
-          "window": {
-            "start": 37.11,
-            "end": 38.51
           }
         },
         {
@@ -838,7 +838,7 @@
             "Leonor's Cusco combines ordinary work, buses and cinema with a divine household whose parents still have worshippers elsewhere. Her human needs have been part of the family for years. The proposed later old-magical position permits private divine life within an inhabited modern society; it supplies no shared calendar with other cities or proof of public disbelief.",
             "Family roles and ordinary routines already exist before this afternoon. The parents' active capacities and worship elsewhere keep this distinct from the wholly magicless modern interval."
           ],
-          "sequenceNote": "Proposed after Not About That and before Transitions in Common. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
+          "sequenceNote": "Proposed after The Tide Will Have Her Answer and before Transitions in Common. The local family history establishes no common city, institution or measured calendar with either neighbor.",
           "stories": [
             "the-one-who-gets-tired"
           ],
@@ -1013,10 +1013,10 @@
           "id": "event-the-dress-they-brought-her",
           "title": "The Dress They Brought Her",
           "magicState": "old-magic",
-          "description": "Damaged battle records → A false identity withdrawn.",
+          "description": "The battle's damaged recovery records → One evening's canceled extraction.",
           "context": [
-            "Damaged post-battle cameras, booking systems and labor procedures misidentify an ordinary prisoner. The supplied sequence places this after the Bay and before the museum; the prisoner is not Solstice.",
-            "The supplied sequence is Bay → Dress → Count; the interval to this recovery action is unestablished and the prisoner is not Solstice."
+            "The supplied Bay aftermath leaves broken cameras, twelve-hour staff shifts and damaged recovery records alongside functioning prison custody. A sixty-three-second scan boundary error turns an ordinary prisoner's booking map into a false survivor claim. She refuses a transfer that would authenticate the mistake. The user places this before the later museum encounter; the independent anonymous count remains one and the prisoner remains in custody.",
+            "Cell, intake and return form one local episode after the battle, before the museum in the user's supplied chronology. Sixty-three seconds separates the scanned records; twelve hours describes staff shifts. Neither duration dates the aftermath against the Bay."
           ],
           "sequenceNote": "Proposed after Solstice Evening Bell and before The Morning Her Hand Moved. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1085,10 +1085,10 @@
           "id": "event-what-i-hate-most",
           "title": "What I Hate Most",
           "magicState": "old-magic",
-          "description": "An inherited ward network → A shared duty compact.",
+          "description": "Existing ward work and a two-year private history → The storm night and the compact's first dawn.",
           "context": [
-            "Vantress sustains border wards through ceramic work, heat, pressure and municipal crews. It belongs beside engineered public power networks; no common source with the solar branches or an infernal realm is established.",
-            "The storm crisis and one-moon compact are local; the ward system’s founding date is unknown."
+            "Vantress's council-appointed ward office and Draxenne's kiln crews already share a contested border infrastructure. Old masonry, unrepaired roads and concentrated operator labor matter more to its historical placement than either ruler's title. The retained late-II position proposes an existing civic engineering world before the Glass-Sea present, without identifying its technologies, government or ancestry with that region. The new one-moon service compact begins at dawn; its completion is not shown.",
+            "An almost-kiss two years earlier and road repairs overdue three seasons belong to different prior histories. The thirty-breath contest and two-breath fifth plane occur within one night. One moon is the adopted compact's term, not elapsed time; plate replacement and permanent repairs remain future work."
           ],
           "sequenceNote": "Proposed after A Place for the Living and before Daughter of the Sun. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -2864,7 +2864,7 @@
         "start": 16.23,
         "end": 17.63
       },
-      "note": "Proposed in the returning old-magical ages, after Nell's low-magic home and before the later public sky. A living pendant has a private thirty-one-year history of storage inside an ordinary family; that is neither evidence of global magical decline nor the age of its civilization. Its limited memories do not make it a record of Pavia's whole life."
+      "note": "Proposed in the returning old-magical ages, after Nell's low-magic home. A living pendant has a private thirty-one-year history of storage inside an ordinary family; that is neither evidence of global magical decline nor the age of its civilization. Its limited memories do not make it a record of Pavia's whole life."
     },
     "the-last-thing-i-could-fix": {
       "window": {
@@ -2906,14 +2906,14 @@
         "start": 60.63,
         "end": 61.75
       },
-      "note": "Four years of research and an examination rescue change Kethra's standing within a callwright college. Its living geometry and hand language form the established first half of the Kethra pair."
+      "note": "Four years designing a voiced lattice precede Kethra's examination in an already established callwright college. A structural failure turns the trial into a rescue; her qualification and first safety briefing belong to this story. Lock continues the same archmage's practice later. The older-cycle position is proposed, while the college's wider institutional ancestry remains unknown."
     },
     "a-lock-on-the-inside": {
       "window": {
         "start": 62.87,
         "end": 63.99
       },
-      "note": "Kethra is now archmage during a seven-day apprentice trial. This follows Voice of Silence in the same teaching institution; the interval between the stories remains unspecified."
+      "note": "Kethra already bears her new archmage seal when an apprentice's third morning of petitioning leads to an offered seven-day trial. Only its first day and night are witnessed. A failed lesson exposes how fear of losing housing can distort agreement, and Kethra separates board from work. The direct sequel has no measured interval or completed seven-day outcome."
     },
     "the-weight-of-falling-up-rune-shoes": {
       "window": {
@@ -2959,10 +2959,10 @@
     },
     "not-about-that": {
       "window": {
-        "start": 37.11,
+        "start": 9.26,
         "end": 38.51
       },
-      "note": "Delivery work, municipal weather, roof schooling and family practice make public flight ordinary city life. Its supplied reading position is before the Bay; no shared city or direct lineage to Solstice is established."
+      "note": "A family practice box kept for years, summer landing lessons, delivery work, agricultural rain hauling and a practice circle on a school roof already sustain Lowen's public sky. At fifteen he takes a focus one day before a planned supervised trial. The user places this before the Bay. Its possible horizon now overlaps Northbridge's: personal anonymity elsewhere does not supply an earlier date, and no common city or school system is established."
     },
     "the-small-moon-rose-first": {
       "window": {
@@ -3053,14 +3053,14 @@
         "start": 9.26,
         "end": 10.66
       },
-      "note": "Six months of anonymous assistance precede an exposure attack that the team successfully interrupts. No transformation is witnessed; classmates can explain the names and blurred footage as a stunt. The city's explicit disbelief motivates this proposed earlier reach, separate from later publicly taught and employed powers."
+      "note": "Six months of anonymous assistance precede one school day's exposure attack and the next morning's trial check-in policy. The trio's bodies, living focuses and ordinary communications have distinct limits. Northbridge's city treats magic as fiction; that local response does not date every city reached by the later help network or require public flight elsewhere to begin afterward."
     },
     "the-help-network": {
       "window": {
         "start": 12.74,
         "end": 14.14
       },
-      "note": "Beginning three afternoons after the showcase, private contacts spread help across countries and oceans over months. The international secrecy motivates historical distance from the later public sky. Attendance is its established predecessor; emergence into public life remains a proposed intervening history."
+      "note": "The third afternoon after Northbridge's showcase begins a direct continuation with the same three girls and continuing injuries. Over months, travel, photographs, translation and permission-based forwarding connect independently practiced magic across oceans. Alias protection concerns personal exposure; the story does not establish that every participating city disbelieves in magic. Its before-Bay placement follows the user's supplied chronology; order against Lowen's public city remains open."
     },
     "solstice-evening-bell": {
       "window": {
@@ -3074,7 +3074,7 @@
         "start": 78.89,
         "end": 80.29
       },
-      "note": "Damaged post-battle cameras, booking systems and labor procedures misidentify an ordinary prisoner. The supplied sequence places this after the Bay and before the museum; the prisoner is not Solstice."
+      "note": "The supplied Bay aftermath leaves broken cameras, twelve-hour staff shifts and damaged recovery records alongside functioning prison custody. A sixty-three-second scan boundary error turns an ordinary prisoner's booking map into a false survivor claim. She refuses a transfer that would authenticate the mistake. The user places this before the later museum encounter; the independent anonymous count remains one and the prisoner remains in custody."
     },
     "the-count-was-131072": {
       "window": {
@@ -3095,7 +3095,7 @@
         "start": 92.82,
         "end": 94.22
       },
-      "note": "Vantress sustains border wards through ceramic work, heat, pressure and municipal crews. It belongs beside engineered public power networks; no common source with the solar branches or an infernal realm is established."
+      "note": "Vantress's council-appointed ward office and Draxenne's kiln crews already share a contested border infrastructure. Old masonry, unrepaired roads and concentrated operator labor matter more to its historical placement than either ruler's title. The retained late-II position proposes an existing civic engineering world before the Glass-Sea present, without identifying its technologies, government or ancestry with that region. The new one-moon service compact begins at dawn; its completion is not shown."
     },
     "daughter-of-the-sun": {
       "window": {
@@ -3867,10 +3867,20 @@
       "Night proceeds without sudden aging or lost memories; Neth crosses freely, and Arveth works under supervision pending further judgment"
     ],
     "voice-of-silence": [
-      "Kethra qualifies as an archmage"
+      "After four years of design, Kethra demonstrates a voiced lattice within an existing college examination and caller practice.",
+      "A crack prompts a manual check and a reduced trial load; the old joint then fails under the occupied gallery's ordinary weight.",
+      "Dorram's Roofstay catches the roof but loads the exit column. Kethra maps a different rescue while honoring callers' waits and stops.",
+      "Three separately authorized calls ground the gallery, release the crown and slow the descent. A broken speaking rail forces a fresh assent within the final ready window.",
+      "The people reach the court alive with bruises and cuts; the upper crown and Kethra's ornate lattice are lost.",
+      "At dusk the panel grants the local archmage office. Next morning she begins her first safety briefing with voluntary assignments and individual voice limits."
     ],
     "a-lock-on-the-inside": [
-      "Later: Kethra takes a mistreated apprentice"
+      "Kethra is already an archmage with a new seal; a mistreated apprentice has returned for three mornings seeking a place.",
+      "She offers a seven-day trial with a room, food and a first lesson, using her existing call-link practice.",
+      "An attempted Practice Wick call breaks before completion. The wick stays dark while Kethra is fatigued and the apprentice's injured voice worsens.",
+      "The apprentice prepares to leave, expecting the stopped lesson to cost housing. Kethra recognizes that agreement given to secure a place did not settle the lesson's limits.",
+      "Kethra guarantees seven days of board separately from work. The apprentice chooses to stay for one night.",
+      "The story ends with an inside bolt and an unhealed voice; later training, recovery and the former household's accountability remain open."
     ],
     "four-million-falling": [
       "Orison's founding story credits human builders after the death of magic",
@@ -3897,20 +3907,30 @@
       "The session ends without settling the battle's uncertain count or promising a cure; the client uses his present grounding habit at the door"
     ],
     "not-about-that": [
-      "Magical girls already work across delivery routes, agricultural weather and an inhabited city sky.",
-      "One ordinary afternoon passes through family instruction, public travel and personal decisions."
+      "A family practice box has held the focus for years. Sarena teaches landings through the summer and spends three weeks obtaining permission for a supervised trial.",
+      "Fifteen-year-old Lowen takes it one day early and supplies its power himself. Delivery flyers, rain hauling and rooftop practice already belong to ordinary city life.",
+      "The unfamiliar body delights him, but copied maneuvers add stored lift that must be discharged through a controlled landing before reversion.",
+      "Repeated attempts damage laundry and a planter, exhaust Sarena's wind-knots and worsen their argument.",
+      "At dusk Sarena anchors her last knot to the water tank; Lowen chooses the catch and uses his practiced landing to ground the lift.",
+      "An apology, a requested photograph and voluntary reversion preserve Lowen's own account of himself. Sarena remains hurt and angry; damaged belongings and any next trial remain unresolved."
     ],
     "the-attendance-ledger": [
-      "For six months, the Night Clerk quietly helps the three defenders.",
-      "A failed online attendance system leaves a paper record that an identity-seeking creature exploits.",
-      "During the showcase, the team contains the attack without publicly confirming their transformations.",
-      "The school tries a different check-in policy; the team receives two nights free of missions."
+      "Six months earlier, three anonymous magical girls enlist Night Clerk for routes, weather and practical support. Gideon later infers their identities through ordinary observation.",
+      "The Rollcaller survives the preceding night's fight; the trio comes to school with a bruised wrist, cold hands, sensory strain and exhaustion.",
+      "A network failure requires paper attendance. The creature probes reactions, steals a page and starts the guardian stream forty minutes early.",
+      "The girls reject its copied transformation order. At their request Gideon cuts power, ending the stream at twenty-three viewers before any transformation is witnessed.",
+      "While the class evacuates, a guarded exit, chosen decoys and severed living filaments expose and contain the creature; the ordinary equipment supplies no magical agency.",
+      "That evening the trio reports short-term containment in an unplugged case and chooses food, injury checks and two mission-free nights. Permanent disposition remains undecided.",
+      "Next morning the school trials silent self-check-in. Public identity proof and the teacher's private knowledge remain undisclosed."
     ],
     "the-help-network": [
-      "On the third afternoon after the showcase, one contact card states an alias, available help and limits.",
-      "Family travel, photographs, translation and forwarding carry adapted cards across countries and oceans.",
-      "Over months, independent groups share different magical practices without a central roster.",
-      "During a distant crisis, helpers pass responsibility between willing contacts rather than requiring one team to remain always available."
+      "On the third afternoon after the showcase and two quiet nights, Cassia, Drita and Bryn make a contact card with offered help, limits and forwarding permission.",
+      "Four initial contacts pass the card onward. Family travel, photographs and translation carry adapted versions across oceans without a central command.",
+      "Near the middle of the term the shared name appears. Bryn's master list lasts four days; different groups retain their own records, labels and practices.",
+      "Months after the first card, a distant requester refuses identity, location and transformation proof and asks for company rather than an imposed plan.",
+      "After clarification, helpers offer dots at five-minute intervals and carry a limited request toward a contact the requester herself chooses.",
+      "The requester reports chosen company and asks the outer thread to end. Its members receive neither identity proof nor a verified resolution of the threat.",
+      "Later cards leave return confirmation to the requester. Cassia narrows her availability while other people continue answering independently."
     ],
     "solstice-evening-bell": [
       "Independent circles debate monarchy for eleven days; on the twelfth morning twelve adult volunteers give their lives to make final works for the crown",
@@ -3920,9 +3940,13 @@
       "The central release closes the rupture and ends every crown tone; dawn finds Solstice alive with her innate force, no bridgehead and no second wave"
     ],
     "the-dress-they-brought-her": [
-      "The battle damages civic services and leaves burned archive pages in a recovery stream.",
-      "An unreadable separator lets a prison booking map become false evidence of a magical survivor.",
-      "The prisoner exposes the boundary error and refuses the extraction; the anonymous count of one remains unchanged."
+      "The western sky has gone white in a battle; cameras, traffic lights and recovery archives are damaged while prison staff work twelve-hour shifts.",
+      "A visiting officer joins an anonymous era-local count of one to a separate recovery packet containing the prisoner's portrait.",
+      "The packet has swallowed an intake body map after five burned pages and an unreadable separator. The proposed transfer would add a fresh live identity anchor.",
+      "At intake, a carbon property receipt and the prison's raw copy expose the sixty-three-second boundary error.",
+      "The exterior gate still offers movement out of the prison, but she steps back before a new scan can authenticate the false identity.",
+      "The officer removes her body map and portrait, saves the evidence and cancels the extraction. The independent count of one does not change.",
+      "She returns to the cell with an injured arm and unchanged custody; the actual counted person's identity and location remain unavailable."
     ],
     "stay-out-of-my-city": [
       "When Elvi is ten, recurring battles have closed schools three times that month; Warren stops a harbor confrontation and excludes armed organizations",
@@ -4262,10 +4286,13 @@
       "At Zadie's confession, sixty-eight people are counted dead, including the readers, and eleven are missing. Rescuers act on observations and safeguards while the final toll and judgment remain open."
     ],
     "what-i-hate-most": [
-      "District wards, conduits and mechanical pressure signals place a city’s protection in living hands.",
-      "A storm and split conduit expose old masonry failures; a single-controller plan blocks its own spillway.",
-      "Ceramic braces take physical loads while two distinct living powers jointly clear the stormglass.",
-      "The rulers agree a one-moon service compact with separate vetoes and a safe transfer on withdrawal."
+      "Ombria's council-appointed office monitors five district loads; existing ward work leaves her dangerously overextended. Draxenne arrives with twelve prepared plates and four carts of mineral fuel.",
+      "They agree a thirty-breath contest limited to command of the breached conduit. Ombria relinquishes contact on breath twenty-nine to protect eastern roofs.",
+      "Draxenne's plan works for eleven breaths before a hidden spillway crack redirects the load. A third heat stream worsens the blockage, so she stops and releases exclusive control.",
+      "A revised transfer uses a fifth shadow plane for two breaths, within a three-breath emergency limit. Two heated braces then take loads while three remaining planes become baffles.",
+      "Draxenne melts all twelve fitted plates into a repair, depleting the March's ready stock. Two living workers coordinate the final pulse; the ward becomes inert after their withdrawal.",
+      "Before dawn, clearance crews are working and the rulers adopt a reversible one-moon division of service with separate vetoes and safe-transfer conditions.",
+      "Ombria grants courtship separately from public duty. Draxenne answers the next eastern signal under the new compact; its full term, replenishment and lasting repair remain unshown."
     ],
     "the-way-around": [
       "Azhra's ring structure, three warning scripts and marks from earlier expeditions precede the current visit; their separate ages and makers are unknown.",
@@ -4859,19 +4886,19 @@
       "note": "The label and family history establish thirty-one boxed years; the pendant could not measure them itself."
     },
     "the-attendance-ledger": {
-      "start": "Six months of anonymous help",
-      "end": "The school after the showcase",
-      "note": "Northbridge’s locally low public knowledge of magic is explicit; it is not a date for every contemporary city."
+      "start": "Six months of anonymous support",
+      "end": "The morning after the showcase",
+      "note": "The preceding night's injuries continue through the school day. Two mission-free nights are chosen for recovery, not shown completed here. Northbridge's local disbelief and withheld identities establish no worldwide stage of ignorance."
     },
     "the-help-network": {
-      "start": "Three afternoons after the showcase",
-      "end": "A distributed help culture",
-      "note": "Direct Northbridge continuation; expansion takes months. The supplied reading sequence places it before the Bay without a measured gap."
+      "start": "The third afternoon after the showcase",
+      "end": "Months of distributed help and a changed handoff",
+      "note": "Two mission-free nights precede the first card. Expansion takes months through ordinary contacts and travel. The requester confirms chosen company, not verified safety. The supplied before-Bay order gives no interval to that battle or to Lowen's city."
     },
     "not-about-that": {
-      "start": "An established public sky",
-      "end": "One afternoon of ordinary flight",
-      "note": "Only the reading position before the Bay is supplied; the culture’s founding date and relation to Solstice’s circles remain open."
+      "start": "Years of family practice and one summer's lessons",
+      "end": "A late-afternoon flight ending at dusk",
+      "note": "The focus has been kept for years; Sarena has taught landings all summer and spent three weeks securing permission for tomorrow's trial. Lowen's unsupervised afternoon establishes no origin of public flight, identity verdict or permission for a future trial. Its order against Northbridge remains unknown."
     },
     "solstice-evening-bell": {
       "start": "The independent circles' coronation",
@@ -4879,9 +4906,9 @@
       "note": "The centuries before the battle include the circles' fading; the battle does not cause that earlier disappearance. Crown loss is permanent but does not extinguish Solstice's own force or all magic. The later museum follows this same witness by further centuries."
     },
     "the-dress-they-brought-her": {
-      "start": "Damaged battle records",
-      "end": "A false identity withdrawn",
-      "note": "The supplied sequence is Bay → Dress → Count; the interval to this recovery action is unestablished and the prisoner is not Solstice."
+      "start": "The battle's damaged recovery records",
+      "end": "One evening's canceled extraction",
+      "note": "Cell, intake and return form one local episode after the battle, before the museum in the user's supplied chronology. Sixty-three seconds separates the scanned records; twelve hours describes staff shifts. Neither duration dates the aftermath against the Bay."
     },
     "the-future-that-refused-us": {
       "start": "Three centuries of guarantees",
@@ -4889,9 +4916,9 @@
       "note": "The covenant renews through nine living readers every thirty years; its local end is not the universal extinction."
     },
     "what-i-hate-most": {
-      "start": "An inherited ward network",
-      "end": "A shared duty compact",
-      "note": "The storm crisis and one-moon compact are local; the ward system’s founding date is unknown."
+      "start": "Existing ward work and a two-year private history",
+      "end": "The storm night and the compact's first dawn",
+      "note": "An almost-kiss two years earlier and road repairs overdue three seasons belong to different prior histories. The thirty-breath contest and two-breath fifth plane occur within one night. One moon is the adopted compact's term, not elapsed time; plate replacement and permanent repairs remain future work."
     },
     "the-way-around": {
       "start": "An already ancient, repeatedly visited structure",
@@ -5332,6 +5359,16 @@
       "start": "A shared life before the Salt Crucible",
       "end": "Survival after one regional catastrophe",
       "note": "The eight-month household is their longest residence, not the duration of their relationship. The final crossing runs from night into black dawn and the aftermath after sunrise. Their ages at meeting and these local intervals do not date the Crucible against other civilizations."
+    },
+    "voice-of-silence": {
+      "start": "Four years designing the lattice",
+      "end": "The morning after qualification",
+      "note": "The research span belongs to Kethra's apparatus, not the age of the college. The rescue destroys her original lattice. Her first archmage briefing follows next morning; the interval to the later apprentice remains undated."
+    },
+    "a-lock-on-the-inside": {
+      "start": "A later petition to the new archmage",
+      "end": "The apprentice's first chosen night",
+      "note": "Three mornings of petitioning precede the offered trial. Seven days is its proposed term, not elapsed story time. The final inside bolt secures one night; voice recovery, the remaining trial and a lasting apprenticeship are unresolved."
     }
   },
   "storyEvidence": {
@@ -5537,7 +5574,7 @@
       "to": "solstice-evening-bell",
       "kind": "direct",
       "label": "Mutual aid before the Bay",
-      "note": "The supplied sequence places the Northbridge showcase and its third-afternoon continuation before the Bay. The network shows ordinary communication joining independent magical practices over months; the coronation recalls independent circles, but no organizational descent or measured interval is established.",
+      "note": "The user explicitly places the Help Network after Attendance and before Solstice Evening Bell. Its opening fixes the first interval at three afternoons; ordinary communication then spreads independent practices over months. The gap to the Bay and any descent into Solstice’s circles remain unestablished.",
       "ordering": "before",
       "basis": "reading-sequence"
     },
@@ -5547,7 +5584,7 @@
       "to": "solstice-evening-bell",
       "kind": "direct",
       "label": "A crowded sky, then the Bay",
-      "note": "The supplied sequence places Not About That before the Bay. This reconstruction places its everyday public flight in an earlier horizon than the battle’s queen without living subjects. No shared school, cast or institutional descent is established.",
+      "note": "The user explicitly sets Not About That before the events of Solstice Evening Bell. Its already ordinary public flight belongs before the Bay in this chronology, without a measured gap, common school, or identified descent into Solstice’s circles. This order does not date it against Northbridge.",
       "ordering": "before",
       "basis": "reading-sequence"
     },
@@ -5557,7 +5594,7 @@
       "to": "the-dress-they-brought-her",
       "kind": "direct",
       "label": "The aftermath misidentifies a survivor",
-      "note": "The intended reading sequence places Dress after Solstice and before Count. Its damaged post-battle institutions turn ordinary booking marks into a false survivor claim. The prisoner is not Solstice.",
+      "note": "The user places Dress between Solstice Evening Bell and Count as a continuation of that subplot. Its recent battle aftermath, damaged recovery records and independent count of one support that placement. No exact interval is supplied; the falsely identified prisoner is not Solstice.",
       "ordering": "before",
       "basis": "reading-sequence"
     },
@@ -5567,7 +5604,7 @@
       "to": "the-count-was-131072",
       "kind": "direct",
       "label": "From misidentification to misremembrance",
-      "note": "The subplot’s intended reading sequence places Dress between Solstice and Count, without an established interval. The prisoner and the later museum witness are different people.",
+      "note": "The user places the prison episode before the later museum story. Dress withdraws a false identity without changing the anonymous count; Count follows the actual Bay witness centuries after the battle. The two women are different people and the prison incident’s exact place within that interval is unknown.",
       "ordering": "before",
       "basis": "reading-sequence"
     },
@@ -5586,8 +5623,8 @@
       "from": "voice-of-silence",
       "to": "a-lock-on-the-inside",
       "kind": "direct",
-      "label": "The archmage becomes a teacher",
-      "note": "Voice establishes Kethra’s qualification; Lock begins with the same named archmage taking a mistreated apprentice and uses her call-link practice. The interval is not dated.",
+      "label": "Qualification, then an apprentice’s first night",
+      "note": "Voice grants Kethra the archmage office and already ends with her first safety briefing. Lock follows the same new-sealed archmage and call-link practice through the first day and night of an offered seven-day trial. The interval between stories and the rest of the trial are unshown.",
       "ordering": "before",
       "basis": "established"
     },
@@ -5935,11 +5972,11 @@
       "id": "hidden-help-before-public-flight",
       "from": "the-help-network",
       "to": "not-about-that",
-      "kind": "historical",
-      "label": "From secret contacts to an ordinary public sky",
-      "note": "Northbridge's helpers prevent public exposure in a city that treats magic as fiction; their private network then grows internationally. Lowen's city openly uses flight for deliveries, weather and family practice. This contrast motivates a substantial proposed historical separation. The change in public knowledge is unknown, and the Help Network is not established as the origin of later schools or circles.",
-      "ordering": "before",
-      "basis": "proposed"
+      "kind": "echo",
+      "label": "Different cities, different public knowledge",
+      "note": "Northbridge’s city treats magic as fiction; the network protects individual identities across independently practiced systems. Lowen’s city openly uses flight, rain hauling and family practice. Neither story dates the other, and the international contacts establish no worldwide secrecy or later public revelation. Their possible horizons overlap in this reconstruction without asserting contemporary cities or a shared tradition.",
+      "ordering": "none",
+      "basis": "thematic"
     },
     {
       "id": "public-education-and-eligibility",
@@ -6127,7 +6164,7 @@
       "to": "what-i-hate-most",
       "kind": "echo",
       "label": "Shared service, separate allegiances",
-      "note": "The Brackwater priests maintain passage without converting each other. Vantress's rulers establish a one-moon service compact with separate safety vetoes, keeping courtship distinct from public duty. These are different arrangements for working together; no treaty descent or common divine law is established.",
+      "note": "The Brackwater priests maintain passage without converting each other. Before dawn, Vantress’s rulers adopt a one-moon service compact with separate safety vetoes and begin its first handoff; the month’s completion is unshown. Courtship remains distinct from public duty. No treaty descent or common divine law is established.",
       "ordering": "none",
       "basis": "thematic"
     },
@@ -6372,7 +6409,7 @@
         {
           "cycleId": "cycle-02-returning-sovereignties",
           "title": "Cities rework inherited systems",
-          "note": "Separate watershed works free a public water system from the royal sleep basin. In the proposed later reach, the Glass Sea decentralizes its damaged solar inheritance and Vantress develops a shared service compact. Each change depends on technical crews and specific limits on control.",
+          "note": "Separate watershed works free a public water system from the royal sleep basin. In the proposed later reach, Vantress’s existing ward operators begin a one-moon service compact, while the Glass Sea decentralizes a different four-century solar inheritance. Kiln crews, cleared channels and physical load paths make each change possible; neither story proves technical descent from the other.",
           "anchors": [
             "a-crown-of-quiet-hours",
             "daughter-of-the-sun",
@@ -6455,8 +6492,8 @@
         },
         {
           "cycleId": "cycle-02-returning-sovereignties",
-          "title": "Hidden aid and a later public sky",
-          "note": "Northbridge's secret international help precedes a proposed later reach of public teaching and aerial work. Solstice's circles eventually vanish on their own history; the Bay does not end all extraordinary institutions.",
+          "title": "Private identities within different public worlds",
+          "note": "Northbridge’s direct sequel grows through ordinary international contacts while Lowen’s city already has delivery flight, rain hauling and family practice. Their relative dates are unknown; both precede the Bay in the supplied chronology. Solstice’s circles fade on their own history, and the Bay supplies no universal end to extraordinary institutions.",
           "anchors": [
             "the-help-network",
             "not-about-that",
