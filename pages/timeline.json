@@ -2702,7 +2702,7 @@
           "magicState": "new-magic",
           "description": "A hall built around an older cask shell → A smaller hall reopens.",
           "context": [
-            "Successive rebuilding, coerced living labor and neglect precede a twelve-week restoration and a smaller reopening. This actual local institutional refounding belongs with the proposed later civic craft societies, without assigning the decline to the Salt Crucible or another story’s catastrophe.",
+            "Successive rebuilding, coerced living labor and neglect precede Agnes's purchase. She begins with a twelve-week harvest aim and reopens a smaller independently supported hall by the gathering. This local restoration belongs within the proposed later civic craft societies; neither the earlier decline nor the colony's history is tied to the Salt Crucible or another story's catastrophe.",
             "Successive rebuilding, coerced living labor, abandonment and restoration belong to the same institution across undated generations."
           ],
           "sequenceNote": "Proposed after The House of Possible Uses and before Where the Mountain Used to Be. These separate inhabited structures have no established builders, common society or mutual dates.",
@@ -3511,7 +3511,7 @@
         "start": 79.21,
         "end": 80.61
       },
-      "note": "Successive rebuilding, coerced living labor and neglect precede a twelve-week restoration and a smaller reopening. This actual local institutional refounding belongs with the proposed later civic craft societies, without assigning the decline to the Salt Crucible or another story’s catastrophe."
+      "note": "Successive rebuilding, coerced living labor and neglect precede Agnes's purchase. She begins with a twelve-week harvest aim and reopens a smaller independently supported hall by the gathering. This local restoration belongs within the proposed later civic craft societies; neither the earlier decline nor the colony's history is tied to the Salt Crucible or another story's catastrophe."
     },
     "where-no-unicorn-stands": {
       "window": {
@@ -4389,7 +4389,7 @@
     "the-city-of-eleven-foundations": [
       "Weeks of heat leave receiving reservoirs low before a cloudburst and upstream surge block the sole low outfall",
       "Local protective gates divide the shared ring into pressure compartments; residents evacuate low rooms as loads pass between districts",
-      "Inhabitants connect existing storage, vents, pumps and gravity-fed filters, accepting damage to equalize the ring before the outfall is cleared",
+      "Inhabitants accept damage to connect storage, vents, one mechanical lift and gravity-fed filters; the ring equalizes while the low outfall remains blocked.",
       "Later repairs keep visible flood marks, accessible releases, cross-border spillways and equalization slots. The city's distinct inhabited districts persist"
     ],
     "thirteen-years-borrowed": [
@@ -5978,8 +5978,8 @@
       "from": "the-hollow-cask",
       "to": "rooms-before-sunrise",
       "kind": "echo",
-      "label": "A home is also a living body",
-      "note": "Agnes exposes coerced structural labor; Lirenn discovers occupied volume inside living leased rooms. The echo connects a renewed-magical craft society and a much earlier material city without asserting shared biology or building lineage.",
+      "label": "The lives that buildings depend on",
+      "note": "Agnes's inert hall depends on a separate living colony for concealed structural labor until she replaces that support. Lirenn's leased rooms are parts of a growing reef tower with unregistered occupants. This compares a renewed-magical craft society and an earlier proposed material city without claiming a common biology, building lineage or form of personhood.",
       "ordering": "none",
       "basis": "thematic"
     },
