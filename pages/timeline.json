@@ -1132,7 +1132,7 @@
           "magicState": "old-magic",
           "description": "An existing college life and the previous winter's reputation → One orientation morning.",
           "context": [
-            "Placed in the proposed later old-magical reach, Brightward already joins specialist teaching, certification, clinics, equipment testing and routine maintenance around living capacities. This fits the period's applied expertise and institutional demands without making an ordinary school its precursor. Canon fixes the story before extinction; its later-than-Glass-Sea position is proposed, and Brightward has no established link to the Array or its roots.",
+            "Placed in a proposed later old-magical period, Brightward already has specialist teaching, certification, clinics, equipment testing and routine maintenance. These practices can recur and do not date it after Candlemere or any other school. Mirelle's living cold requires an active-magical setting, while the college's era and order against other stories remain unestablished. The retained pre-extinction position is a reconstruction, with no established link to the Glass Sea, Array or its roots.",
             "Certification, equipment forms and an established clinic locate the story within a professional institution. Mirelle's useful knowledge and refusals remain her own; the ordinary scarf changes neither her power nor its costs."
           ],
           "sequenceNote": "Selected in a later old-magical period with established applied expertise, within the possible horizon of Kharost's water reform and before the selected Qarsis cold-work slot. Neither a common employer, college, root system nor institutional descent is established.",
@@ -3714,7 +3714,7 @@
         "start": 7.3,
         "end": 8.7
       },
-      "note": "Placed in the proposed later old-magical reach, Brightward already joins specialist teaching, certification, clinics, equipment testing and routine maintenance around living capacities. This fits the period's applied expertise and institutional demands without making an ordinary school its precursor. Canon fixes the story before extinction; its later-than-Glass-Sea position is proposed, and Brightward has no established link to the Array or its roots."
+      "note": "Placed in a proposed later old-magical period, Brightward already has specialist teaching, certification, clinics, equipment testing and routine maintenance. These practices can recur and do not date it after Candlemere or any other school. Mirelle's living cold requires an active-magical setting, while the college's era and order against other stories remain unestablished. The retained pre-extinction position is a reconstruction, with no established link to the Glass Sea, Array or its roots."
     },
     "captive-couples": {
       "window": {
@@ -5824,7 +5824,7 @@
     "transitions-in-common": "constrained",
     "a-darkness-written-under-skin": "contextual",
     "life-with-a-girlfriend-with-shrinking-powers": "constrained",
-    "the-warmest-person-in-the-room": "constrained",
+    "the-warmest-person-in-the-room": "contextual",
     "captive-couples": "undated",
     "the-name-i-kept": "undated",
     "witch-cold": "undated",
