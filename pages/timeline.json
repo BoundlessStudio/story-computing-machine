@@ -499,7 +499,7 @@
       "id": "cycle-04-human-refoundings",
       "title": "The Human Refoundings",
       "eyebrow": "Ordinary modernity, reconstructed antiquity and another technological height.",
-      "description": "Ordinary modern life occupies one island of the Long Dark. Later technical societies make bodily alteration and artificial persons part of daily life, but disagree over who controls those lives. City records govern access to housing and work, while shared repair keeps different communities connected. Merneith builds an empire through utilities and costly political bargains. Elsewhere, workers and former military bodies contest the reach of command. Freight and skilled watch crews sustain inhabited orbits, where machinery must also account for existing nonhuman life.",
+      "description": "Ordinary modern life occupies one island of the Long Dark. Later technical societies sustain household invention, paid repairs, bodily revision and artificial persons, with uneven access and different claims on those lives. Broadcasts, surveillance, transport and memory debt give institutions power over people; skilled cooperation also works inside those systems. Living housing and whole districts depend on shared circulation and maintenance. Merneith builds an empire through utilities and costly political bargains. Elsewhere, workers and former military bodies contest command. Freight and skilled watch crews sustain inhabited orbits, where machinery must also account for existing nonhuman life.",
       "sequenceNote": "These proposed histories overlap rather than form a ladder from a kind society to an oppressive one. Modernity and the Queen's reconstruction share one orbital interval; the ten-thousand-year antiquity and sixty-year rise remain local spans. Advanced capacity and unequal access coexist.",
       "eras": [
         {
@@ -528,19 +528,21 @@
         },
         {
           "id": "dark-rebuilt-cities",
-          "title": "The bodies people live in",
+          "title": "Homes and neighborhood workshops",
           "magicState": "long-dark",
-          "description": "Modified and artificial bodies belong to ordinary households, clinics and repair economies, with personal needs that their engineering cannot decide.",
+          "description": "Paid repairs, domestic invention and public workshops make sophisticated tools part of work, affection and everyday pleasure.",
           "context": [
-            "Repairs, replacement parts and home experiments coexist with affection, money and choices about help.",
-            "Routine seedglass revisions make bodily continuity a family question even where changing one's face is commonplace."
+            "A salvage worker needs an affordable, certified repair to keep earning. At a repair festival, engineers and residents test a small device against its actual users, water supply and hazards.",
+            "An android chooses music and companionship in her own apartment; elsewhere a spouse spends months rebuilding a shared amusement-ride memory. Technical capability does not decide what either person wants.",
+            "Routine seedglass revisions bring clinical services into family life. Bodies, keepsakes and useful machines have different maintenance needs, even within this proposed neighborhood of civilian technologies."
           ],
-          "sequenceNote": "These are proposed neighboring consumer and clinical cultures. They share practical access to bodily technology, with distinct costs and devices; they can coexist with the more coercive institutions elsewhere in this reach.",
+          "sequenceNote": "These are proposed neighboring household, workshop and clinical cultures, with no established common city, manufacturer or legal regime. Not every person has a modified body. Small devices and ordinary services can coexist with metropolitan control systems and large civic works; their availability is not uniform.",
           "stories": [
             "the-mercy-circuit",
             "a-little-more-room",
             "sakura-hearted",
-            "the-unfixed-face"
+            "the-unfixed-face",
+            "laughing-clouds"
           ],
           "window": {
             "start": 36,
@@ -551,15 +553,15 @@
           "id": "dark-registered-lives",
           "title": "The lives a city will recognize",
           "magicState": "long-dark",
-          "description": "Cities and commercial institutions make safety, housing, movement and even memory depend on an authorized record.",
+          "description": "Broadcast entertainment, surveillance, transport and memory debt give institutions immediate power over embodied lives and livelihoods.",
           "context": [
-            "An arena's return status and a tower's lease records can contradict living bodies; official recognition has immediate physical consequences.",
-            "Surveillance, an android's managed identity and neural debt expose the people and older foundations left outside the public account."
+            "A deathmatch audience receives a stale promise of return while a fighter, commentators and an existing medical challenge keep the opponent alive. Commercial pressure and working safeguards occupy the same institution.",
+            "Street surveillance counts association even when a child only witnesses. A municipal android marked demolished needs a manual driver and an old ferry to escape a city whose automated traffic continues working.",
+            "Memory repossession funds housing and technical training while enabling censorship. A worker loses his route memory; a collector preserves it at personal cost, with independent inspection still to come."
           ],
-          "sequenceNote": "These proposed urban neighbors share a dependence on institutional records, with different laws and technologies. Their failures occur inside functioning cities rather than proving a general technical collapse.",
+          "sequenceNote": "These proposed urban neighbors exercise different forms of institutional control; no common state, software or chronological succession is established. Technical abundance does not ensure secure housing, bodily autonomy or trustworthy public information. Cooperation also occurs inside these cities.",
           "stories": [
             "the-kill-she-wouldnt-take",
-            "rooms-before-sunrise",
             "drone-down",
             "the-driver-the-city-could-not-see",
             "the-foundations-remember"
@@ -571,16 +573,17 @@
         },
         {
           "id": "dark-shared-civic-work",
-          "title": "The cities that must work together",
+          "title": "The cities held together by maintenance",
           "magicState": "long-dark",
-          "description": "Residents and practitioners keep different capacities useful by sharing space, testing assumptions and maintaining the connections between them.",
+          "description": "Occupied rooms and distinct districts share circulation, structural loads and the costs of keeping a city habitable.",
           "context": [
-            "A repair festival discovers that an attractive invention still has to fit the people around it.",
-            "Eleven simultaneous districts survive through connected hydraulic capacities; their different architecture remains inhabited."
+            "A reef tower circulates air, nutrients and waste through living housing. Five residents lose recognition after a census error; their emergency growth both supports them and endangers other rooms. One resident gives up her room to restore six floors of air.",
+            "Eleven inhabited districts already share a basin and service ring. During the flood, residents connect existing pumps, storage, vents and biological filters, accepting damaged rooms and planted beds to preserve the whole city.",
+            "Neither intervention ends with everything restored. The tower still needs pruning, temporary services and corrected leases; the basin retains silt, displaced masonry and new maintenance access across its district boundaries."
           ],
-          "sequenceNote": "These cities provide a civic counterpoint to coercive recording systems in the same proposed technical reach. Shared repair is an alternative practice, not their proven successor government.",
+          "sequenceNote": "These two cities share a proposed context of occupied biological materials, specialized maintenance and physically interdependent public works. Their relative dates, builders and geographic relationship remain unresolved. The reef tower is not identified with the eleven-district basin, and shared repair does not establish a common government or a later reform of the other cities.",
           "stories": [
-            "laughing-clouds",
+            "rooms-before-sunrise",
             "the-city-of-eleven-foundations"
           ],
           "window": {
@@ -1583,21 +1586,21 @@
         "start": 36,
         "end": 83
       },
-      "note": "An aftermarket exchange supports prostheses, plasma tools, clinic seals and repair warranties. A courier's bounded repair belongs to a neighborhood economy built around personally modified bodies and paid technical craft."
+      "note": "Serren is a salvage worker whose prosthetic plasma tool needs a paid repair. A misrated aftermarket liner injures her through the safety circuit. An Exchange inspector can certify one reduced-output shift; a matched assembly, the dawn job inspection and the remaining payment still lie ahead."
     },
     "sakura-hearted": {
       "window": {
         "start": 36,
         "end": 83
       },
-      "note": "Apartment electronics, recorded music and a home lathe coexist with a measured pulsed-field lift. Its small-scale consumer engineering closely fits A Little More Room, without requiring the same city or manufacturer."
+      "note": "A home workshop, an amusement-hall sale and a ten-year relationship support Celestine's anniversary reconstruction. Her receiver discs lift small objects with limited range and charge; the ride uses a motor on its floor-standing base. Neither spouse is established as an android or a modified body, and the domestic technology need not share Suzette's origin."
     },
     "a-little-more-room": {
       "window": {
         "start": 36,
         "end": 83
       },
-      "note": "An android's apartment, recordings, segmented joints and ordinary domestic negotiations share the consumer and workshop culture of Sakura-Hearted. Her cognitive filters have specified limits; they do not remove her will."
+      "note": "Suzette lives in her own apartment, lends records and asks Robin to dance. Her manufactured joints, cognitive filters and secured railgun coexist with ordinary preferences and refusal. This supports a civilian technical setting compatible with Sakura-Hearted, without establishing their common city, manufacturer, legal rights or bodily origin."
     },
     "the-unfixed-face": {
       "window": {
@@ -1611,7 +1614,7 @@
         "start": 36,
         "end": 83
       },
-      "note": "Global broadcasts and an eighty-thousand-seat arena commercialize verified death-and-return technology. Forty-two previous returns make a stale status record an institutional hazard inside an ongoing public industry."
+      "note": "Grandfall broadcasts a commercial deathmatch from an arena holding eighty thousand spectators. Quell has killed forty-two opponents who returned; Nash returned two hours earlier. Those successes do not validate his now-unverified link. Existing medical safeguards stop the final despite production pressure, leaving him alive and injured without a booked rematch or a repaired return link."
     },
     "deja-vu-too-late": {
       "window": {
@@ -1625,21 +1628,21 @@
         "start": 48,
         "end": 79
       },
-      "note": "Automated delivery, surveillance and working subsurface machinery persist beside bread queues and a closed station. This is an unequal functioning technical city, not proof that all its infrastructure has vanished."
+      "note": "Working delivery machinery, bread stalls and automated enforcement coexist with a closed station and worn street equipment. Raska, Kero and fourteen-year-old witness Sevi learn that the city counts association independently of their game. Their final escape leaves surveillance records and a queued upload intact; no general rebellion or collapse is established."
     },
     "the-driver-the-city-could-not-see": {
       "window": {
         "start": 53,
         "end": 81
       },
-      "note": "Automated transit and legally managed android identities dominate a city whose old river and freight roads remain inhabited. One night's escape reveals simultaneous technical centers and manual margins."
+      "note": "Arovi is a municipal android marked demolished and facing memory rollback; Kaith earns from a surviving manual cab license. A midnight-to-dawn trip uses their learned signals, old service routes and a working freight ferry. Leaving the network costs Kaith her practical licensed livelihood. Routes, fuel and charging beyond the river remain choices and constraints, not assured refuge."
     },
     "the-foundations-remember": {
       "window": {
         "start": 55,
         "end": 80
       },
-      "note": "Neural debt, commercial memory and rail work make recorded identity part of a city's property system. Evidence of older load-bearing masonry challenges founding propaganda; it does not identify the city with Eleven Foundations."
+      "note": "Commercial neural debt exposes a rail worker's claimed discovery beneath the city's First Foundation story. His coherent recollection contains older worked stone and a transit-signed gauge that might verify it; the site is not independently inspected on-page. Haru loses the ordered memory while Amel preserves the complete route in her collateralized private memory and sets out to investigate."
     },
     "the-thirteenth-command": {
       "window": {
@@ -1695,14 +1698,14 @@
         "start": 51,
         "end": 79
       },
-      "note": "Eleven architectural and technical districts actively share one basin and one failing ring. Their simultaneous repair establishes a city of coexisting capacities, not eleven successive extinct civilizations."
+      "note": "Eleven contemporaneous districts share one river basin and service ring. Human inhabitants reconfigure existing physical capacities to survive a flood; ordinary living filters do not supply magic or autonomous rescue. Damage and later maintenance changes belong to this local history. Neither architectural variety nor the current grouping establishes a lineage, era or common city with the reef tower."
     },
     "rooms-before-sunrise": {
       "window": {
         "start": 49,
         "end": 75
       },
-      "note": "A six-hundred-lease living tower stands above reef foundations. Five temporarily detached housing bindings were wrongly archived, producing an urgent registration and repair crisis within a sophisticated municipal biology."
+      "note": "A six-hundred-lease reef tower depends on maintained living circulation. A census refresh wrongly archives five valid bindings detached for a floor molt; residents preserve their cultures through risky emergency growth. Physical housing is recognized before sunrise, but the lease and census errors remain. This fits the shared maintenance context without locating the tower in the eleven-district basin."
     },
     "the-unfixed-song": {
       "window": {
@@ -1716,7 +1719,7 @@
         "start": 36,
         "end": 83
       },
-      "note": "A municipal repair festival reuses failed batteries, tram infrastructure and solar cloth. Sensors and firmware remain ordinary working knowledge; reuse is not evidence that this city follows a global collapse."
+      "note": "A civic repair festival supports reused materials, engineers, shared tools and public play. A condenser's acoustic error becomes one supervised cooling trial with water, energy and access limits. Conditional acceptance is not general deployment, and the ending tests possible opt-in signals with the pump off. Its workshop context does not require an earlier global collapse."
     },
     "kite-letters-below": {
       "window": {
@@ -2302,9 +2305,10 @@
       "Before the twentieth day, northern columns begin returning."
     ],
     "the-foundations-remember": [
-      "Earlier builders create the worked structure beneath the claimed foundation layer",
-      "The city’s official founding story claims its first pillars rested on raw stone",
-      "A worker's bodily route memory threatens that claim and is preserved inside collateralized personal memory"
+      "Haru has maintained Line Zero for nineteen years. He reports leaving a gauge nine days before collection; his site report precedes collection by six days and dismissal by six hours",
+      "His recollection shows worn, repaired masonry beneath an anchor stamped one year before the official First Foundation. Memory consistency alone cannot verify the claim",
+      "Amel preserves the full four-minute-forty-one-second route at the cost of part of a childhood memory; Haru's ordered interval and the work cache are erased",
+      "Facing a personal-space audit in four hours, Amel obtains six minutes of platform access and sets out. Gauge recovery, independent verification and the audit outcome are not shown"
     ],
     "the-inheritance-remembers": [
       "A family preserves a threshold-counting custom after its practical meaning is forgotten",
@@ -2338,13 +2342,14 @@
       "At twenty-six, Clarimond retakes the capital and reunites with Belda. Belda declines a return to palace life, and they begin a relationship that makes room for their separate histories."
     ],
     "a-little-more-room": [
-      "An android neighbor arrives and asks about a record",
-      "Repeated hallway encounters make room for mutual interest"
+      "Suzette moves in the day before meeting Robin; she returns his borrowed record three days after their first conversation",
+      "A Friday invitation leads to Saturday evening in her apartment, where she explains the limits of her filters and corrects his guesses about her preferences",
+      "They make more floor space and dance together; her expressed wish supplies the answer that her constant blush cannot"
     ],
     "sakura-hearted": [
-      "A moon ride carries the couple on a date ten years earlier",
-      "Eight years of marriage bring a private anniversary",
-      "The rebuilt ride turns on its base beneath paper planets in their apartment"
+      "The couple first share the moon ride ten years before this anniversary; their marriage begins two years later",
+      "Celestine spends months rebuilding the sold ride and makes small scenes from their eight years of marriage",
+      "At ages thirty-six and thirty-eight they ride again in their apartment, with limited receiver-disc scenery and an ordinary motor beneath the seats"
     ],
     "the-second-wearing": [
       "The living pendant accompanies Pavia for years and knows only the parts of her life shared with it.",
@@ -2472,14 +2477,16 @@
       "A caravan recognizes and pays for strength that local work had undervalued"
     ],
     "rooms-before-sunrise": [
-      "Five temporarily detached housing bindings are wrongly archived during a floor molt",
-      "Living chambers grow outside the official census while their residents remain alive",
-      "A pre-sunrise repair keeps the living cultures viable and opens temporary egress; the census and lease entries remain unresolved"
+      "Five valid bindings are temporarily detached for a full-floor molt; the subsequent census refresh wrongly archives them before replanting",
+      "Residents preserve their cultures on a ceramic comb and sustain rooms outside the census; the duration of unsafe budding is disputed",
+      "During the final night, Eshun sacrifices her room to restore air above while residents and Lirenn open medical access and detach the growth stimulus",
+      "The rooms regulate as housing and the cultures survive in quarantine. At sunrise, pruning and temporary circulation continue while five census and lease records remain wrong"
     ],
     "the-city-of-eleven-foundations": [
-      "Eleven different technical districts actively inhabit one basin",
-      "A storm exposes failures at their shared boundaries",
-      "Crews combine their contemporaneous capacities to repair the ring"
+      "Weeks of heat leave receiving reservoirs low before a cloudburst and upstream surge block the sole low outfall",
+      "Local protective gates divide the shared ring into pressure compartments; residents evacuate low rooms as loads pass between districts",
+      "Inhabitants connect existing storage, vents, pumps and gravity-fed filters, accepting damage to equalize the ring before the outfall is cleared",
+      "Later repairs keep visible flood marks, accessible releases, cross-border spillways and equalization slots. The city's distinct inhabited districts persist"
     ],
     "thirteen-years-borrowed": [
       "Tamaris awakens behind a stranger’s eyes and begins a search through living hosts",
@@ -2665,6 +2672,36 @@
       "The junior keeper raises the alarm seven minutes after the first pattern, including two minutes after the crack",
       "Controlled comparisons support a limited reading of present water stress; noisy work later requires reliance on ordinary gauges",
       "A full spill release saves the houses and sacrifices the reed crop. The bank is protected by additional cuts; the cracked wall remains under watch"
+    ],
+    "the-mercy-circuit": [
+      "Fifty-two minutes before gatefall, Serren arrives after repeated painful safety dumps from her salvage tool",
+      "An isolated test reproduces the fault without her hand; the liner lacks the required high-output provenance",
+      "A replacement layer, sensory isolator and output cap pass witnessed tests; the inspector certifies one shift at four minutes to gatefall",
+      "Serren leaves with the raw sensory window deleted. The dawn job, outstanding payment and matched assembly remain future obligations"
+    ],
+    "the-kill-she-wouldnt-take": [
+      "Nash returns from an earlier death in 11.08 seconds, two hours before the final; Quell's forty-two prior opponents have verified returns",
+      "His private confidence disappears and his collar turns red while the public assurance stays green; Quell refuses the lethal finish",
+      "Caro invokes the medical challenge with seven seconds before enforcement; a sixty-second weapon lock gives the review time to uphold it",
+      "The bout ends as a medical no-contest with both fighters alive. Nash remains injured and unverified while the network prices a rematch not yet booked"
+    ],
+    "drone-down": [
+      "Raska was stunned three weeks before the opening bread-queue intervention; Kero's protective behavior has strained their game",
+      "Four nights later, Raska freezes during a shared attempt. Their separation continues until Sevi draws them to another active unit on the tenth evening",
+      "Sevi's high association count reveals that witnessing has also exposed them; the three cooperate to bring the drone down",
+      "Reading its underside would increase the danger. They leave the fall unscored and escape before retrieval, with the city's upload still queued"
+    ],
+    "the-driver-the-city-could-not-see": [
+      "At twelve minutes past midnight, Arovi pays for a manual trip to the western freight quay and shows the threat of memory rollback",
+      "Mass checks and confused signals force them to adapt. Kaith removes the transponder fuse before a cabin scan, losing the cab's usable registration",
+      "They guide the cab through an old channel and reach a departing cable ferry; the city continues operating behind them",
+      "At dawn they choose a joint route toward fuel and further roads. Arovi's charging needs, registry gates and Kaith's livelihood remain practical concerns"
+    ],
+    "laughing-clouds": [
+      "Two hours and twelve minutes before judging, a condenser rains on a laughing child after misclassifying acoustic noise as moisture",
+      "Trials reveal overspray, depleted reserves and a slipping hazard; a trapped-pressure release forces a smaller field with a human opt-in steward",
+      "One supervised demonstration receives conditional acceptance. It provides limited cooling and planter water without replacing drinking water, irrigation or shade",
+      "After cleanup that afternoon, Ianthe and Rasim record possible opt-in motions with the pump off; an autonomous permission system has not been demonstrated"
     ]
   },
   "storySpans": {
@@ -2904,9 +2941,9 @@
       "note": "A century of repairs carries the old alloy into a later service blade. A six-year temporary splice fails in the present; the material’s history is longer than the current fault."
     },
     "the-foundations-remember": {
-      "start": "Worked stone beneath the claimed beginning",
-      "end": "A worker recovers the forbidden route",
-      "note": "An already worn and repaired stair, lintel and channel precede an anchor stamped a year before the official First Foundation. The older builders and the full interval remain unknown."
+      "start": "A claimed discovery beneath Line Zero",
+      "end": "A preserved route and an inspection still ahead",
+      "note": "The older masonry and anchor date are encountered through Haru's recollection. Amel retains the complete route, with its original owner identified, while his ordered memories are erased. A gauge reportedly left nine days earlier might independently support the claim; neither its recovery nor the builders' history is established."
     },
     "a-throne-neither-wanted": {
       "start": "Three centuries of household forecasts",
@@ -3032,6 +3069,51 @@
       "start": "Twelve years of practical care",
       "end": "A storm encounter in an occupied sanctuary",
       "note": "Prior experience supplies a starting technique that must be changed for this individual body. The sanctuary's age, the earlier users of its care apparatus and its relation to other regenerator populations remain unknown."
+    },
+    "the-mercy-circuit": {
+      "start": "An evening repair before gatefall",
+      "end": "One certified shift, with later work still due",
+      "note": "The certificate is signed forty-eight minutes after the opening clock. The matched assembly is three days away; the dawn cut and remaining payment are not shown. One-shift approval is not a permanent repair warranty for unrestricted use."
+    },
+    "a-little-more-room": {
+      "start": "A new neighbor and a borrowed record",
+      "end": "Saturday evening, dancing together",
+      "note": "The record comes back three days after the first meeting, followed by a Friday invitation and Saturday visit. The opening weekday is unstated; the sequence does not supply a civil date or a shared calendar with other stories."
+    },
+    "sakura-hearted": {
+      "start": "A date on the moon ride ten years earlier",
+      "end": "The eighth wedding anniversary",
+      "note": "The couple are twenty-eight and twenty-six on the earlier date, thirty-eight and thirty-six now. Marriage begins two years after that date; months of workshop preparation precede this one evening."
+    },
+    "the-kill-she-wouldnt-take": {
+      "start": "A successful return two hours before the final",
+      "end": "A medical stoppage before lethal enforcement",
+      "note": "Nash's earlier 11.08-second return and the forty-two verified returns of Quell's opponents are separate records. The final challenge freezes the resolution at seven seconds and is upheld with five seconds left on its sixty-second weapon lock. No later return or rematch is established."
+    },
+    "rooms-before-sunrise": {
+      "start": "A floor molt, census error and emergency growth",
+      "end": "Sunrise with housing recognized and repair ongoing",
+      "note": "Municipal repair slips establish valid prior detachment. Mular admits three or four months of budding; Kevi says longer. That dispute remains. The final intervention starts fifty-one minutes before sunrise intake and does not complete census or lease restoration."
+    },
+    "drone-down": {
+      "start": "An earlier stun and a contested bread-queue fall",
+      "end": "A later shared escape without a scored victory",
+      "note": "The stun is three weeks before the opening; the next failed joint attempt is four nights later. The final challenge comes on the tenth evening of the ensuing separation. Surveillance associations, the score and physical survival measure different things."
+    },
+    "the-driver-the-city-could-not-see": {
+      "start": "A coin fare at twelve minutes past midnight",
+      "end": "A ferry landing at dawn",
+      "note": "One night is enough to escape the city network, not to establish a new home or livelihood. Restoring the fuse would expose the missing journey; the chosen roads still require fuel, charging and decisions about registry gates."
+    },
+    "laughing-clouds": {
+      "start": "A festival entry before judging",
+      "end": "Cleanup and passive signal trials that afternoon",
+      "note": "The first deadline is two hours and twelve minutes away. Available charge permits one bounded demonstration and cleanup; the final optical samples do not run the pumps. Acceptance remains conditional, with no later adoption or completed redesign shown."
+    },
+    "the-city-of-eleven-foundations": {
+      "start": "Weeks of heat before a basin-wide storm",
+      "end": "Survival followed by lasting maintenance changes",
+      "note": "The emergency uses existing contemporary districts and equipment. The river falls and the outfall becomes reachable after the city has already been saved. The duration of later repairs is unmeasured; eleven foundations do not mean eleven sequential civilizations."
     }
   },
   "storyEvidence": {
@@ -3477,7 +3559,7 @@
       "to": "the-city-of-eleven-foundations",
       "kind": "echo",
       "label": "The city depends on what lies beneath",
-      "note": "A hidden older support carries a city that denies its past; eleven different hydraulic foundations must work together during a flood. Both stories make infrastructure consequential. Architectural variety does not establish historical layers, a common origin, or a later change in public knowledge.",
+      "note": "A rail worker recalls older masonry carrying a city that claims a raw-stone beginning; preserving the route makes independent inspection possible but does not complete it. The eleven-district city demonstrably shares hydraulic loads during its flood. This thematic comparison establishes no common origin, historical layers or later public acceptance of the worker's claim.",
       "ordering": "none",
       "basis": "thematic"
     },
@@ -3577,7 +3659,7 @@
       "to": "the-city-of-eleven-foundations",
       "kind": "historical",
       "label": "Living districts need a common city",
-      "note": "Living housing, district boundaries and shared civic services place these cities in a compatible technical horizon. This is a proposed institutional context, not proof that the reef tower stands in the eleven-district basin.",
+      "note": "The reef tower and basin city depend on shared flow and maintenance across occupied spaces. In one, improvised housing both sustains excluded residents and endangers neighbors; in the other, local protective boundaries magnify a common flood. These support a proposed neighboring civic context without identifying their biology, builders, government or location.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -3900,6 +3982,26 @@
       "note": "Salken mistakes evacuation signals for a hunt. The outrider and cousin misread a constrained rescue and broken speech, while a rope carrier distinguishes what was actually witnessed. Each place has limited local signals; neither establishes a common language, people or history.",
       "ordering": "none",
       "basis": "thematic"
+    },
+    {
+      "id": "a-body-beyond-municipal-service",
+      "from": "a-little-more-room",
+      "to": "the-driver-the-city-could-not-see",
+      "kind": "historical",
+      "label": "Artificial people, different claims on a life",
+      "note": "Suzette has an apartment, preferences and filters with specific limits; Arovi is a municipal android escaping threatened rollback. Their different situations support neighboring technical societies without establishing a shared manufacturer, legal regime, emancipation or chronological order. Suzette's ordinary private life is not proof that Arovi's city later reforms.",
+      "ordering": "none",
+      "basis": "proposed"
+    },
+    {
+      "id": "repair-tested-against-living-use",
+      "from": "the-mercy-circuit",
+      "to": "laughing-clouds",
+      "kind": "historical",
+      "label": "A working device still needs a bounded use",
+      "note": "Paid salvage repair and a civic festival both depend on skilled testing, limited resources and human decisions about safe use. A one-shift certificate and one conditional demonstration preserve different local limits. The proposed workshop context does not establish a common regulator or make either machine able to recognize a person's wishes.",
+      "ordering": "none",
+      "basis": "proposed"
     }
   ],
   "historyThreads": [
@@ -4190,7 +4292,7 @@
         {
           "cycleId": "cycle-04-human-refoundings",
           "title": "Antiquity becomes a political resource",
-          "note": "Reconstructed rulers build a new empire from ancient identities while another city conceals the older structure supporting its claimed beginning.",
+          "note": "Reconstructed rulers build a new empire from ancient identities. Elsewhere, a repossession company orders the erasure of a worker's claimed discovery beneath its city's official founding story. A preserved route still needs independent physical verification; the two accounts establish no common ancient people.",
           "anchors": [
             "the-ten-thousand-year-queen",
             "the-foundations-remember"
