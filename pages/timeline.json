@@ -1667,16 +1667,16 @@
           "magicState": "long-dark",
           "description": "Four years inside Unit 02 → A rescue soon after extraction into another body.",
           "context": [
-            "A functioning Directorate pursues Loxan into an active annex within a ruined orbital foundry. Four years of embodied service precede her extraction and the current rescue. This proposed material age contains both coercive military programs and separate civilian work; a ruined site does not date a civilization's collapse. The story establishes neither interstellar travel nor a common manufacturer with other neural technologies.",
+            "A functioning Directorate pursues Loxan into an active annex within a ruined orbital foundry. Four years of embodied service precede her extraction and the current rescue; those years do not date the program's origin. Its broader proposed material period may overlap civilian orbital freight. Maintained vessels, inhabited facilities and specialized neural systems support that possibility without establishing a common institution, manufacturer or technical succession. The ruined foundry does not date a civilization's collapse, and the story establishes no interstellar range.",
             "The supposedly decommissioned annex still acts for a living institution. Escape begins care for two bodies without resolving identity, liberating every pilot or ending the Directorate."
           ],
-          "sequenceNote": "Proposed after The Kill She Wouldn't Take and before The Warning Comes Second. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The rescue's possible period overlaps The Warning Comes Second. The military embodiment program and civilian memory harness do different work; neither story establishes the other as a technical precursor. This is an uncertain external placement, not the duration of Loxan's service or rescue.",
           "stories": [
             "the-body-called-one"
           ],
           "window": {
             "start": 81.46,
-            "end": 82.86
+            "end": 87.81
           }
         },
         {
@@ -1688,7 +1688,7 @@
             "Paid tug crews, refinery cargo, leases and an inhabited ring form an operating civilian freight economy. The consented device restores one neural baseline after ninety-six seconds while bodies, ships and transmissions continue. This proposed orbital position describes a material society with specialized memory technology; it does not establish time travel, interstellar range or a shared military history.",
             "The failed approach becomes a rescue with continuing injury and lost cargo. The ring, its residents and the civilian institutions remain in operation; this is not the end of orbital commerce."
           ],
-          "sequenceNote": "Orbital freight occupies a selected part of the broad material period that domestic invention and prosthetic repair may also inhabit. Its nearby military history establishes no common war, government or technology lineage. These are proposed positions, not measured calendar intervals.",
+          "sequenceNote": "Orbital freight occupies a selected part of the broad material period that domestic invention and prosthetic repair may also inhabit. The military rescue may fall within this same possible period; no common war, government or technology lineage is established. These are proposed positions, not measured calendar intervals.",
           "stories": [
             "deja-vu-too-late"
           ],
@@ -3397,9 +3397,9 @@
     "the-body-called-one": {
       "window": {
         "start": 81.46,
-        "end": 82.86
+        "end": 87.81
       },
-      "note": "A functioning Directorate pursues Loxan into an active annex within a ruined orbital foundry. Four years of embodied service precede her extraction and the current rescue. This proposed material age contains both coercive military programs and separate civilian work; a ruined site does not date a civilization's collapse. The story establishes neither interstellar travel nor a common manufacturer with other neural technologies."
+      "note": "A functioning Directorate pursues Loxan into an active annex within a ruined orbital foundry. Four years of embodied service precede her extraction and the current rescue; those years do not date the program's origin. Its broader proposed material period may overlap civilian orbital freight. Maintained vessels, inhabited facilities and specialized neural systems support that possibility without establishing a common institution, manufacturer or technical succession. The ruined foundry does not date a civilization's collapse, and the story establishes no interstellar range."
     },
     "last-watcher-of-jupiter": {
       "window": {
@@ -6299,7 +6299,7 @@
       "to": "deja-vu-too-late",
       "kind": "historical",
       "label": "Civilian work beside the military sky",
-      "note": "A ruined military foundry's active archive and paid tug crews occupy a proposed overlapping technical reach. Both use embodied neural systems under material limits. A shared trading network, military history or manufacturer is not established.",
+      "note": "An active military annex and working civilian tug services can occupy the same proposed orbital period. The Directorate maps embodied patterns into another body; the tug's harness restores one pilot's stored working and episodic memory while physical events continue. Neither system is established as the other's precursor. Their selected windows now overlap without establishing a shared trading network, military history or manufacturer.",
       "ordering": "none",
       "basis": "proposed"
     },
