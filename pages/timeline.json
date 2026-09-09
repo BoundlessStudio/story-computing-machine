@@ -2478,17 +2478,17 @@
       "id": "cycle-07-later-refoundings",
       "title": "The Later Refoundings",
       "eyebrow": "Later kingdoms, long inhabited lives, and a disputed deep past.",
-      "description": "Later post-return societies include campaign veterans, functioning kingdoms, mature royal services, bodily professions and public works. Brackenport's nine-year history supplies a different political choice: ordinary city government continues while armed hero organizations are excluded and remain active elsewhere. Local victories, deferred repairs and old memories are not a common founding event. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
+      "description": "Later post-return societies include campaign veterans, functioning kingdoms, mature royal services, volunteer relays, individual specialists and public works. Brackenport's nine-year history supplies a different political choice: ordinary city government continues while armed hero organizations are excluded and remain active elsewhere. Local victories, deferred repairs and old memories are not a common founding event. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
           "id": "event-thirteen-years-borrowed",
           "title": "Thirteen Years Borrowed",
           "magicState": "new-magic",
-          "description": "A living visitor enters repeated host care → A return after thirteen local years.",
+          "description": "The first displaced awakening, thirteen years earlier → A midnight departure into another volunteer.",
           "context": [
-            "Coastal trams, clinical records, lamp oil and a documented volunteer relay sustain a living visitor. The thirteen-year search belongs to organized body care; its case has passed through eighty-six hands in the last three years, not eighty-six hosts across the whole search.",
-            "Thirteen years of living host transfers pass while the original body ages from thirty-one to forty-four. The case's eighty-six hands describe a three-year interval, not the total number of hosts."
+            "Tamaris's living host relay spans thirteen years in a coastal society with trams, medical records and volunteer handovers. During those same years, Nivra learns to move, speak, write and work in the body Tamaris lost. The proposed later placement contains both histories; the final visit does not restore Tamaris's former life or end her need for hosts.",
+            "The original body ages from thirty-one to forty-four while Nivra builds her own life. The case passes through eighty-six hands during its last three years. One visit brings Tamaris back into the body, but she releases control before midnight, is expelled and enters a waiting volunteer within seven heartbeats. Her original displacement and any lasting solution remain unexplained."
           ],
           "sequenceNote": "The first proposed event in this cycle, before The Kingdom Was the Easy Part. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -2575,10 +2575,10 @@
           "id": "event-the-first-wound",
           "title": "The First Wound",
           "magicState": "new-magic",
-          "description": "Undated early battle → Therapy after a tram incident.",
+          "description": "An undated early battle in a much longer life → A therapy session six days after the tram incident.",
           "context": [
-            "A living memory specialist works in a tram-served clinical world with a client who estimates his age at roughly twenty-five thousand years, with gaps in his count. The present is placed with professional care; an undated early battle and memories explicitly set 612 and eighty-three years earlier belong to his personal history.",
-            "The client estimates his age at roughly 25,000 years; this does not date the battle. Other memories are explicitly set 612 and eighty-three years before the present."
+            "A tram incident brings an already long-lived client to a living memory specialist. His memories show a refuge 612 years earlier and a factory eighty-three years earlier, each already operating in its own crisis; they do not identify one civilization progressing into the present clinic. His estimated age is about twenty-five thousand years, with gaps. The selected post-return session does not date his earliest battle or establish the source of his longevity.",
+            "The client's approximate 25,000-year age does not date the battle. His 612-year and eighty-three-year memories are local intervals, not Galactic Cycle coordinates. The session reaches a remembered starting point without resolving its uncertain counts or promising a cure; neither old-magic survival nor a common history for the three societies is established."
           ],
           "sequenceNote": "Proposed after The Seventh Night and before The Anatomy of a God. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -2595,7 +2595,7 @@
           "magicState": "new-magic",
           "description": "Twelve years of practical care → A storm encounter in an occupied sanctuary.",
           "context": [
-            "A traveler with twelve years of practical care, including regenerator care, enters an occupied sanctuary without visible attendants. Mineral water, heat, worn braces and a body unlike the traveler's stepsister require a revised technique. The sanctuary's history and its owner's divine claim remain unresolved within this proposed later care horizon.",
+            "A traveler's twelve years of practical care make regeneration familiar where they come from. In a neglected mountain sanctuary, one man presents his own renewal as divinity, yet worn braces, salt jars and mineral water preserve evidence of earlier practical care there too. The encounter belongs to a proposed later inhabited region; it does not represent the invention of regenerator medicine. The site's age, divine claim and relationship to other populations remain unknown.",
             "Prior experience supplies a starting technique that must be changed for this individual body. The sanctuary's age, the earlier users of its care apparatus and its relation to other regenerator populations remain unknown."
           ],
           "sequenceNote": "Proposed after The First Wound and before When the Needle Finds You. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
@@ -3536,7 +3536,7 @@
         "start": 45.03,
         "end": 46.43
       },
-      "note": "A traveler with twelve years of practical care, including regenerator care, enters an occupied sanctuary without visible attendants. Mineral water, heat, worn braces and a body unlike the traveler's stepsister require a revised technique. The sanctuary's history and its owner's divine claim remain unresolved within this proposed later care horizon."
+      "note": "A traveler's twelve years of practical care make regeneration familiar where they come from. In a neglected mountain sanctuary, one man presents his own renewal as divinity, yet worn braces, salt jars and mineral water preserve evidence of earlier practical care there too. The encounter belongs to a proposed later inhabited region; it does not represent the invention of regenerator medicine. The site's age, divine claim and relationship to other populations remain unknown."
     },
     "deaths-patron": {
       "window": {
@@ -3613,7 +3613,7 @@
         "start": 2.3,
         "end": 3.7
       },
-      "note": "Coastal trams, clinical records, lamp oil and a documented volunteer relay sustain a living visitor. The thirteen-year search belongs to organized body care; its case has passed through eighty-six hands in the last three years, not eighty-six hosts across the whole search."
+      "note": "Tamaris's living host relay spans thirteen years in a coastal society with trams, medical records and volunteer handovers. During those same years, Nivra learns to move, speak, write and work in the body Tamaris lost. The proposed later placement contains both histories; the final visit does not restore Tamaris's former life or end her need for hosts."
     },
     "the-wrong-side-of-the-part": {
       "window": {
@@ -3788,7 +3788,7 @@
         "start": 36.48,
         "end": 37.88
       },
-      "note": "A living memory specialist works in a tram-served clinical world with a client who estimates his age at roughly twenty-five thousand years, with gaps in his count. The present is placed with professional care; an undated early battle and memories explicitly set 612 and eighty-three years earlier belong to his personal history."
+      "note": "A tram incident brings an already long-lived client to a living memory specialist. His memories show a refuge 612 years earlier and a factory eighty-three years earlier, each already operating in its own crisis; they do not identify one civilization progressing into the present clinic. His estimated age is about twenty-five thousand years, with gaps. The selected post-return session does not date his earliest battle or establish the source of his longevity."
     },
     "tenth-world-lesson": {
       "window": {
@@ -4328,9 +4328,13 @@
       "Later repairs keep visible flood marks, accessible releases, cross-border spillways and equalization slots. The city's distinct inhabited districts persist"
     ],
     "thirteen-years-borrowed": [
-      "Tamaris awakens behind a stranger’s eyes and begins a search through living hosts",
-      "Thirteen years pass while her original body ages from thirty-one to forty-four and Nivra builds a life within it",
-      "A present-day visit through Calo brings the two living minds together without settling ownership by prior occupancy"
+      "Tamaris awakens behind a stranger's eyes thirteen years before the present; the cause of her separation from her original body is unknown.",
+      "Nivra awakens on the fourth morning after that body is found breathing. Recovery includes speech, movement and writing; she signs her chosen name after eleven months and begins kiln work in the ninth spring.",
+      "A record reporting the body's death misdirects the search. Tamaris passes three streets away in the second year while Nivra is still learning stairs; neither history waits for the other.",
+      "The relay case passes through eighty-six hands in its last three years. Calo accepts the present day's visit with separate limits on voice and movement; his food, sleep and injured knee constrain their journey.",
+      "Late that evening Nivra admits Tamaris for observation and then lends movement in stages. A waiting volunteer has agreed to the next handover; the visit is not an unconditional return.",
+      "At eleven-fifty-six, Tamaris finds she can anchor in her original body and begins suppressing Nivra. Keeping control through midnight would displace Nivra into the relay; the story does not show that outcome.",
+      "Tamaris opens her hand at eleven-fifty-nine. Nivra regains control; midnight expels Tamaris, who enters the waiting volunteer within seven heartbeats. Nivra retains her body and Tamaris still depends on borrowed life."
     ],
     "the-warmest-person-in-the-room": [
       "Brightward is part of Mirelle's life before her relationship with Caleb; their domestic knowledge of her cold is already established",
@@ -4771,9 +4775,9 @@
       "note": "The independent network has an undated earlier history. Four centuries separate the Day of Glass from the present crisis. The forty-three-minute decision, three-second final intervention and one-hour later covenant are local intervals, not measures of an age or links to the Bay."
     },
     "the-first-wound": {
-      "start": "Undated early battle",
-      "end": "Therapy after a tram incident",
-      "note": "The client estimates his age at roughly 25,000 years; this does not date the battle. Other memories are explicitly set 612 and eighty-three years before the present."
+      "start": "An undated early battle in a much longer life",
+      "end": "A therapy session six days after the tram incident",
+      "note": "The client's approximate 25,000-year age does not date the battle. His 612-year and eighty-three-year memories are local intervals, not Galactic Cycle coordinates. The session reaches a remembered starting point without resolving its uncertain counts or promising a cure; neither old-magic survival nor a common history for the three societies is established."
     },
     "the-first-kingdom-was-late-on-taxes": {
       "start": "The village's departure, before millions of outside years",
@@ -4816,9 +4820,9 @@
       "note": "The awakening is roughly ten thousand years after the last pharaoh’s entombment, followed by sixty local years. The ancient genetic sources have their own dates; no original memories are recovered."
     },
     "thirteen-years-borrowed": {
-      "start": "A living visitor enters repeated host care",
-      "end": "A return after thirteen local years",
-      "note": "Thirteen years of living host transfers pass while the original body ages from thirty-one to forty-four. The case's eighty-six hands describe a three-year interval, not the total number of hosts."
+      "start": "The first displaced awakening, thirteen years earlier",
+      "end": "A midnight departure into another volunteer",
+      "note": "The original body ages from thirty-one to forty-four while Nivra builds her own life. The case passes through eighty-six hands during its last three years. One visit brings Tamaris back into the body, but she releases control before midnight, is expelled and enters a waiting volunteer within seven heartbeats. Her original displacement and any lasting solution remain unexplained."
     },
     "a-crown-of-quiet-hours": {
       "start": "218 years of masked rule",
@@ -6582,8 +6586,8 @@
         },
         {
           "cycleId": "cycle-07-later-refoundings",
-          "title": "Care meets inherited expectations",
-          "note": "Long memories and borrowed bodies require practical care. Elsewhere, expected birth marks and access to grafts make bodily identity a family and occupational pressure. These cultures develop different relationships between capacity and choice.",
+          "title": "Different bodies, existing lives",
+          "note": "Tamaris's thirteen-year search overlaps Nivra's separate life in the body she lost; a visit does not end the host relay. Another society has a memory specialist whose ancient client withholds his full risk history. Elsewhere, expected birth marks and paid grafts shape a twenty-year case. These local histories establish no common medical tradition or order of discovery.",
           "anchors": [
             "the-first-wound",
             "thirteen-years-borrowed",
@@ -6665,7 +6669,7 @@
         {
           "cycleId": "cycle-07-later-refoundings",
           "title": "Old lives meet later institutions",
-          "note": "Kettlebridge's transported inhabitants confront a founding identity assigned by later institutions; the supposed family descent is unproven. Elsewhere, an ancient client's memory has limits that present expertise cannot erase. These encounters preserve different relationships between elapsed history and lived experience.",
+          "note": "Kettlebridge crosses millions of outside years while its receiving institutions have already excavated for generations. Its departure remains unplaced. Elsewhere, a client's roughly 25,000-year lifespan does not date his early battle or explain his longevity. These two histories do not establish that an old magical capacity survives extinction; the vast post-return interval remains unmeasured.",
           "anchors": [
             "the-first-kingdom-was-late-on-taxes",
             "the-first-wound"
