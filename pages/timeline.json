@@ -2090,7 +2090,7 @@
       "id": "cycle-06-new-inhabited-world",
       "title": "The New Inhabited World",
       "eyebrow": "Many generations after the new beginning.",
-      "description": "An unmeasured history separates the first reciprocal link from these mature societies. Working settlements, water kingdoms, inherited obligations and recognized public professions have distinct local histories. An ordinary street festival and Nuala's household care occupy a proposed overlapping period of working modern services; neither dates the other's city or turns every civilian life into a magical event. An infernal tribute court and a human college coexist; individual journeys preserve different clocks without dating their destinations. Private families, technical support and public powers coexist without one progression from secrecy to recognition. A closed repair business leaves ordinary client obligations despite its owner's unusual condition. The Salt Crucible ends one worldfire and binding amid a regional catastrophe; it supplies no evidence that all other magic ends or that later societies share its aftermath.",
+      "description": "An unmeasured history separates the first reciprocal link from these mature societies. Working settlements, water kingdoms, inherited obligations and recognized public professions have distinct local histories. An ordinary festival and Nuala's household care occupy one proposed overlapping period of working modern services. An infernal tribute court and a human college coexist; individual journeys preserve different clocks without dating their destinations. In a later proposed civic period, organized patrol work, a family's public accountability and Brackenport's exclusion of armed organizations may overlap. Schools, hospitals, utilities, work and government continue under different regional arrangements. The Salt Crucible ends one worldfire and binding amid a separate regional catastrophe; it supplies no evidence that all other magic ends or that later societies share its aftermath.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2423,16 +2423,52 @@
           "magicState": "new-magic",
           "description": "A patrol and a ventilation failure at 2:13 → Hospital assessment at 3:28.",
           "context": [
-            "Patrol software, utility reserves, responding staff and a physician familiar with powers support an established profession. That institutional context supports the proposed post-return neighborhood with The Name I Kept, without proving a common agency or which story happens first. Seventy-five minutes runs from the ventilation failure to hospital assessment, not the duration of captivity.",
+            "A working utility reserve serves three clinics and an assisted-living tower. Patrol software, a supervisor and a physician familiar with powers organize the response. This supports a proposed overlapping civic period with the Serrin family's public record and Brackenport's independent municipal policy: ordinary services and extraordinary responders operate under different rules. No common agency, city or mutual event order is established. The seventy-five-minute incident remains its own local interval.",
             "Operational rules and previous injuries already exist before the incident. The aftermath changes one app arrangement, not the whole profession, and the criminals' escape and continuing medical care remain part of the outcome."
           ],
-          "sequenceNote": "Proposed between What Turned Eighteen and Lightning Carries One. The professional link to The Name I Kept is a compatible historical context with unknown mutual order; the neighboring bodily customs are not its origin.",
+          "sequenceNote": "Shares a proposed overlapping period with Stay Out of My City and The Name I Kept. Their local incidents are not ordered against one another; the common window allows different regional institutions to coexist.",
           "stories": [
             "captive-couples"
           ],
           "window": {
             "start": 77.5,
-            "end": 78.9
+            "end": 88.3
+          }
+        },
+        {
+          "id": "event-the-name-i-kept",
+          "title": "The Name I Kept",
+          "magicState": "new-magic",
+          "description": "The bridge event six months earlier → A later 6 p.m. public statement.",
+          "context": [
+            "A two-generation family team works amid broadcasts, hearings, suit telemetry, power-informed medical advice and ordinary wage labor. Those existing institutions support a proposed overlapping civic period with Held Together and Brackenport's municipal policy. Different ways of employing, judging and excluding public heroes can coexist. The six-month bridge history belongs to this family; the wider profession's age, shared agencies and the three stories' mutual order remain unresolved.",
+            "The bridge, evidence handling and later testimony form one local chain. The existence of hearings and public records precedes the present disclosure; its outcome remains unsettled."
+          ],
+          "sequenceNote": "Shares a proposed overlapping period with Stay Out of My City and Held Together. Their local incidents are not ordered against one another; the common window allows different regional institutions to coexist.",
+          "stories": [
+            "the-name-i-kept"
+          ],
+          "window": {
+            "start": 77.5,
+            "end": 88.3
+          }
+        },
+        {
+          "id": "event-stay-out-of-my-city",
+          "title": "Stay Out of My City",
+          "magicState": "new-magic",
+          "description": "A harbor ultimatum when Elvi is ten → Her university departure nine years later.",
+          "context": [
+            "Brackenport's police, schools, housing, treatment, council and university routes operate throughout nine years while armed organizations remain active beyond its boundary. That simultaneous regional difference supports a proposed overlapping civic period with Held Together and The Name I Kept. The shared context is functioning public services and competing authority over extraordinary work. Their cities, organizations and mutual dates remain unknown; local exclusion does not require a later worldwide stage.",
+            "A mature profession does not disappear when one city excludes it. Brackenport's continuing institutions, outside emergencies and a daughter's departure make this a regional political history with nine years of change."
+          ],
+          "sequenceNote": "Shares a proposed overlapping period with Held Together and The Name I Kept. Their local incidents are not ordered against one another; the common window allows different regional institutions to coexist.",
+          "stories": [
+            "stay-out-of-my-city"
+          ],
+          "window": {
+            "start": 77.5,
+            "end": 88.3
           }
         },
         {
@@ -2444,31 +2480,13 @@
             "Hazel has used solo crossings for six months when she first carries Tobin; eight outside years later they revisit changed streets by bus and on foot. Clinics have measured some bodily change, but her journey model remains incomplete and there is no demonstrated public hero organization. This proposed post-return history concerns a family's long aftermath, not a stage of the profession in Held Together or the origin of a common transport network.",
             "The notebook and Hazel's retained habits support a lived journey she cannot consciously recall. Her explanation of restored solo arrivals and passenger anchoring remains tentative. Tobin controls access to selected pages; recognition does not settle his internal chronology, cure him or produce forgiveness."
           ],
-          "sequenceNote": "Proposed after Held Together and before The Name I Kept. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed within the broad period of Held Together, The Name I Kept and Brackenport, before The Beloved World. Its family journey has no established order against those incidents or connection to their agencies.",
           "stories": [
             "lightning-carries-one"
           ],
           "window": {
             "start": 82.2,
             "end": 83.6
-          }
-        },
-        {
-          "id": "event-the-name-i-kept",
-          "title": "The Name I Kept",
-          "magicState": "new-magic",
-          "description": "The bridge event six months earlier → A later 6 p.m. public statement.",
-          "context": [
-            "A two-generation family hero team works amid broadcasts, hearings, suit telemetry and power-informed medical advice. These existing institutions support a proposed professional context with Held Together, but establish neither a long dynasty nor inherited agencies. The bridge event six months earlier and the family's concealed knowledge lead to a public statement, with its legal and family consequences still open.",
-            "The bridge, evidence handling and later testimony form one local chain. The existence of hearings and public records precedes the present disclosure; its outcome remains unsettled."
-          ],
-          "sequenceNote": "Proposed after Lightning Carries One and before The Beloved World. The family's public record and the Salt Crucible's regional catastrophe retain separate histories, with no known causal connection or interval between them.",
-          "stories": [
-            "the-name-i-kept"
-          ],
-          "window": {
-            "start": 86.9,
-            "end": 88.3
           }
         },
         {
@@ -2480,7 +2498,7 @@
             "Travel and an eight-month rural household precede Sennara and Iverax's arrival at the Salt Crucible. A hunting order, roads, inns and inhabited farms already have histories of their own. The chosen post-return position contains one regional catastrophe: Iverax's early worldfire surge burns a valley and the basin's western edge before Sennara kills him and prevents a second surge. This ends his worldfire and her binding, not all magic in the region or world.",
             "Ordinary fires, injuries and rescue work continue while millions elsewhere survive. Sennara lives and helps a burned man, but Iverax remains dead. Neither their lost household nor the Crucible establishes a shared fall, the origin of another people or a founding event for every later society."
           ],
-          "sequenceNote": "The last selected story in this cycle, after The Name I Kept. Its regional catastrophe is not a Galactic Cycle boundary or a universal loss of magic. No later kingdom or city is established as its reconstruction, and the exact position remains proposed.",
+          "sequenceNote": "The last selected story in this cycle, after the overlapping civic period and Lightning Carries One. Its regional catastrophe is not a Galactic Cycle boundary or a universal loss of magic. No later kingdom or city is established as its reconstruction, and the exact position remains proposed.",
           "stories": [
             "saint-and-demon"
           ],
@@ -2495,7 +2513,7 @@
       "id": "cycle-07-later-refoundings",
       "title": "The Later Refoundings",
       "eyebrow": "Later kingdoms, long inhabited lives, and a disputed deep past.",
-      "description": "Later post-return societies include campaign veterans, functioning kingdoms, mature royal services, volunteer relays, individual specialists and public works. Brackenport's nine-year history supplies a different political choice: ordinary city government continues while armed hero organizations are excluded and remain active elsewhere. Local victories, deferred repairs and old memories are not a common founding event. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
+      "description": "Later post-return societies include campaign veterans, functioning kingdoms, mature royal services, volunteer relays, individual specialists and public works. A thirteen-year host relay runs alongside another person's life; a bounded death god needs civic crews and physical repairs to complete one rescue. Local victories, deferred repairs and old memories are not a common founding event. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2651,31 +2669,13 @@
             "A maintained district already has a ward ring, reservoir, evacuation signals, hauling crews and a working winchwright. Forty living spellwrights supply the demonstration engine's stored charge; a broken stop-pin lets it repeat through streets that continue to deteriorate. The death god needs a local willing patron and completed failures on which to act. This proposed later active era does not date his origin, establish a universal patronage rule or make the engine a return of extinct magic.",
             "Seven minutes is the engine's repeating circuit, not a reset of the district or its people. Damage, evacuation and physical work accumulate between passes. Derva's one-cause patronage ends after the drive and stored pattern are stopped; the gate remains partly open under control, with bracing and wall work still required."
           ],
-          "sequenceNote": "Proposed after When the Needle Finds You and before Stay Out of My City. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
+          "sequenceNote": "Proposed after When the Needle Finds You and before The House of Possible Uses. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "deaths-patron"
           ],
           "window": {
             "start": 62.12,
             "end": 63.52
-          }
-        },
-        {
-          "id": "event-stay-out-of-my-city",
-          "title": "Stay Out of My City",
-          "magicState": "new-magic",
-          "description": "A harbor ultimatum when Elvi is ten → Her university departure nine years later.",
-          "context": [
-            "Placed provisionally in a later post-return age, this is a city's response to an entrenched hero economy. Nine years of exclusion let police, housing, treatment, schools and council life continue while armed organizations keep operating elsewhere. This follows the proposed professional world of Cycle VI as a later political alternative, without identifying its agencies or powers with Brackenport's. An earlier active-magical date remains possible.",
-            "A mature profession does not disappear when one city excludes it. Brackenport's continuing institutions, outside emergencies and a daughter's departure make this a regional political history with nine years of change."
-          ],
-          "sequenceNote": "Proposed after When Death Knelt and before The House of Possible Uses, among later societies with established services and different forms of authority. No shared state, government or recent catastrophe places these neighbors together; the nine-year city history does not found this cycle.",
-          "stories": [
-            "stay-out-of-my-city"
-          ],
-          "window": {
-            "start": 67.0,
-            "end": 68.4
           }
         },
         {
@@ -2687,7 +2687,7 @@
             "A museum follows sale records into a crowded household where salvage knowledge, uncertain ownership and blocked access already matter. An eleven-year record dates the marker-containing lot, while the four objects' origins and other acquisition histories remain incomplete. Emergency containment and limited clearance follow observed local effects. The active seed's biology and connection to any older magic remain unknown; this proposed later placement does not establish survival of an extinct system.",
             "Agents arrive after half past four. Their inspection, changed rooms and containment occupy the evening; separation and receipts take until midnight. Enna returns the next morning, and near noon the side door opens only partway. Neither that limited progress nor one lot's sale date resolves the whole collection's history or ownership."
           ],
-          "sequenceNote": "Proposed after Stay Out of My City and before The Hollow Cask. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
+          "sequenceNote": "Proposed after When Death Knelt and before The Hollow Cask. These are selected historical positions, not a shared government, institution or measured calendar. Explicit connections distinguish established and supplied order from reconstruction.",
           "stories": [
             "the-hoarders-house"
           ],
@@ -3060,10 +3060,10 @@
     },
     "stay-out-of-my-city": {
       "window": {
-        "start": 67.0,
-        "end": 68.4
+        "start": 77.5,
+        "end": 88.3
       },
-      "note": "Placed provisionally in a later post-return age, this is a city's response to an entrenched hero economy. Nine years of exclusion let police, housing, treatment, schools and council life continue while armed organizations keep operating elsewhere. This follows the proposed professional world of Cycle VI as a later political alternative, without identifying its agencies or powers with Brackenport's. An earlier active-magical date remains possible."
+      "note": "Brackenport's police, schools, housing, treatment, council and university routes operate throughout nine years while armed organizations remain active beyond its boundary. That simultaneous regional difference supports a proposed overlapping civic period with Held Together and The Name I Kept. The shared context is functioning public services and competing authority over extraordinary work. Their cities, organizations and mutual dates remain unknown; local exclusion does not require a later worldwide stage."
     },
     "the-attendance-ledger": {
       "window": {
@@ -3719,16 +3719,16 @@
     "captive-couples": {
       "window": {
         "start": 77.5,
-        "end": 78.9
+        "end": 88.3
       },
-      "note": "Patrol software, utility reserves, responding staff and a physician familiar with powers support an established profession. That institutional context supports the proposed post-return neighborhood with The Name I Kept, without proving a common agency or which story happens first. Seventy-five minutes runs from the ventilation failure to hospital assessment, not the duration of captivity."
+      "note": "A working utility reserve serves three clinics and an assisted-living tower. Patrol software, a supervisor and a physician familiar with powers organize the response. This supports a proposed overlapping civic period with the Serrin family's public record and Brackenport's independent municipal policy: ordinary services and extraordinary responders operate under different rules. No common agency, city or mutual event order is established. The seventy-five-minute incident remains its own local interval."
     },
     "the-name-i-kept": {
       "window": {
-        "start": 86.9,
+        "start": 77.5,
         "end": 88.3
       },
-      "note": "A two-generation family hero team works amid broadcasts, hearings, suit telemetry and power-informed medical advice. These existing institutions support a proposed professional context with Held Together, but establish neither a long dynasty nor inherited agencies. The bridge event six months earlier and the family's concealed knowledge lead to a public statement, with its legal and family consequences still open."
+      "note": "A two-generation family team works amid broadcasts, hearings, suit telemetry, power-informed medical advice and ordinary wage labor. Those existing institutions support a proposed overlapping civic period with Held Together and Brackenport's municipal policy. Different ways of employing, judging and excluding public heroes can coexist. The six-month bridge history belongs to this family; the wider profession's age, shared agencies and the three stories' mutual order remain unresolved."
     },
     "witch-cold": {
       "window": {
@@ -4973,7 +4973,7 @@
     "stay-out-of-my-city": {
       "start": "A harbor ultimatum when Elvi is ten",
       "end": "Her university departure nine years later",
-      "note": "The first-year challenges and visits at thirteen and sixteen precede the ninth-year departure. Five crime-free years are a shorter interval within the city history. This local sequence is established in the prose; its later post-return placement is a chosen reconstruction, not an established connection to the Bay or another hero agency."
+      "note": "The first-year challenges and visits at thirteen and sixteen precede the ninth-year departure. Five crime-free years are a shorter interval within the city history. This local sequence is established in the prose; its proposed overlap with other post-return civic histories supplies no shared calendar or connection to their agencies."
     },
     "only-eighteen": {
       "start": "Twins arrive at six weeks",
@@ -6339,7 +6339,7 @@
       "to": "stay-out-of-my-city",
       "kind": "historical",
       "label": "Public heroes and a city's refusal",
-      "note": "Held Together shows the care, utilities and medical support organized hero work needs. In the proposed later history, Brackenport redirects resources and excludes armed organizations while other places still need them. This is a possible political contrast within the post-return world, not proof of shared agencies, equipment or a causal sequence between the two incidents.",
+      "note": "Held Together's clinics, utility staff and supervised patrols depend on continuing urban services. Brackenport funds police, housing, treatment and schools while armed organizations keep operating beyond its boundary. These existing institutions support a proposed overlapping period with different regional policies. Their organizations, cities and incidents are not identified with one another, and neither story establishes the later decline of the other's profession.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -6369,7 +6369,7 @@
       "to": "the-name-i-kept",
       "kind": "historical",
       "label": "A profession needs care and accountability",
-      "note": "Patrol work, power-informed medicine, operational records and institutional responsibility support a proposed professional context for both stories. The family team in The Name I Kept spans two shown generations; it does not date the profession's origin. The agencies, incidents and their mutual order remain distinct and unresolved.",
+      "note": "Patrol supervision, power-informed medicine, operational records, hearings and ordinary paid work support an overlapping proposed civic period. The Serrin family spans two shown generations; the profession already exists around both stories. Their agencies and incidents remain distinct, with no established mutual order or shared date.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -6788,21 +6788,21 @@
         },
         {
           "cycleId": "cycle-06-new-inhabited-world",
-          "title": "Ordinary services continue around new powers",
-          "note": "An ordinary festival shares the selected period with modern household care; radios, phones, work schedules and physical access already organize both. Public hero services and agricultural cloud societies occupy other regional settings within the same broad history. Their equipment and methods need not be available everywhere.",
+          "title": "Shared civic needs, different public choices",
+          "note": "Ordinary festivals require volunteers, communications and maintained streets. In a later proposed overlapping civic period, organized patrols protect utilities and receive specialist care while Brackenport funds ordinary services and excludes armed organizations. The profession continues outside its boundary. These regional choices can coexist without a shared government, agency or global retreat from public powers.",
           "anchors": [
             "everyone-knows-her",
             "captive-couples",
-            "where-no-unicorn-stands"
+            "stay-out-of-my-city"
           ],
-          "kind": "recurrence"
+          "kind": "proposed"
         },
         {
           "cycleId": "cycle-07-later-refoundings",
-          "title": "Later communities choose different public services",
-          "note": "Brackenport invests in ordinary services during nine years excluding armed hero organizations. A different town restores a hall, while Kettlebridge arrives among highly mechanized excavation and older civic institutions. These separate histories do not form one city, reconstruction program or final technological rung.",
+          "title": "Public works require continuing care",
+          "note": "A maintained civic ward needs crews, gate control and physical bracing even with a death god's bounded help. A separate town restores a hall, while Kettlebridge arrives among highly mechanized excavation and older civic institutions. These histories preserve different public services without forming one city, reconstruction program or final technological rung.",
           "anchors": [
-            "stay-out-of-my-city",
+            "deaths-patron",
             "the-hollow-cask",
             "the-first-kingdom-was-late-on-taxes"
           ],
