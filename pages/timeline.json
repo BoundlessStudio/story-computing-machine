@@ -1721,7 +1721,7 @@
       "id": "cycle-05-divided-world-joined-sky",
       "title": "The Divided World and the Joined Sky",
       "eyebrow": "Political falls and surviving expertise before the joined sky.",
-      "description": "Inherited works, regional wars and functioning networked cities occupy this proposed reach alongside rural waterworks and specialized field medicine. Caravan journeys, Nerava's campaign and a city's ferry escape now share a possible period of working travel economies: loads, provisions, paid skills, road access and uneven services constrain their different journeys. The managed city already connects to less comprehensively served roads; its technology does not date every other region. Anvek's district has a separate conflict while residents and services continue. Their geographic connections, governments and relative dates remain unestablished. Other communities keep incomplete accounts of ground or sky. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch occupies a proposed later orbital continuation without a known connection to its signal. New magic begins after a separate, unmeasured interval.",
+      "description": "Inherited works, regional wars and functioning networked cities occupy this proposed reach alongside rural waterworks and specialized field medicine. Copperwell's continuing dispatch and repair work may overlap the reservoir and field-medicine communities; differences in local control equipment do not establish their relative dates. Caravan journeys, Nerava's campaign and a city's ferry escape now share a possible period of working travel economies: loads, provisions, paid skills, road access and uneven services constrain their different journeys. The managed city already connects to less comprehensively served roads; its technology does not date every other region. Anvek's district has a separate conflict while residents and services continue. Their geographic connections, governments and relative dates remain unestablished. Other communities keep incomplete accounts of ground or sky. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch occupies a proposed later orbital continuation without a known connection to its signal. New magic begins after a separate, unmeasured interval.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1913,13 +1913,31 @@
             "A maintained reservoir combines gauges, controlled assays and a reed keeper's knowledge. A colony responds to current stress in connected wet mica; work noise and rain can make it unreadable. Reopening a spill bricked three generations earlier saves houses by sacrificing the reed crop, leaving a cracked wall and continuing repair watches.",
             "Present tests change the gate decision. Saving houses costs the reed harvest and further bank work; a damaged wall and quarter-hour readings remain after the crest."
           ],
-          "sequenceNote": "The selected window may overlap Every Flower She Knew after The Driver the City Could Not See and before The Lights Beyond. Their distinct waterworks and specialized observations give a proposed material context without sharing a flood, watershed or calendar.",
+          "sequenceNote": "The selected window may overlap Every Flower She Knew and The Thirteenth Command after The Driver the City Could Not See. Reservoir assays, specialized harvesting and Copperwell's dispatch work can operate in different regions of the proposed period. Their shared need for maintained water does not establish a common flood, watershed, institution or event order.",
           "stories": [
             "the-ordinary-slime"
           ],
           "window": {
             "start": 43.42,
             "end": 44.83
+          }
+        },
+        {
+          "id": "event-the-thirteenth-command",
+          "title": "The Thirteenth Command",
+          "magicState": "long-dark",
+          "description": "Thirty-six years of dispatch work → One short command session and an unsettled dawn.",
+          "context": [
+            "Copperwell's damaged command board operates amid continuing civic records, beacon use and thirty-six years of Edda's dispatch work. Crews have repaired routes and widened a vent beyond its obsolete maps; current reports and manual controls remain essential. Its proposed window may overlap the reservoir and field-medicine communities despite different local equipment. The initial class is imposed before consent, and the eventual joint physical work leaves the armed water dispute unsettled.",
+            "The lattice reorganizes existing skill while exhausting its cells. The ceasefire, narrow water release and incident record are shown; a new civilian board and lasting water settlement remain future proposals."
+          ],
+          "sequenceNote": "The selected window may overlap The Ordinary Slime and Every Flower She Knew, extending through the proposed periods of The Lights Beyond, A Question for the Sky and The Apes Above. Copperwell's local control equipment does not date those other societies. Its placement before The Memory Under Line Zero remains a reconstruction; no common watershed, government, builders or mutual event order is established.",
+          "stories": [
+            "the-thirteenth-command"
+          ],
+          "window": {
+            "start": 43.42,
+            "end": 68.33
           }
         },
         {
@@ -1974,24 +1992,6 @@
           "window": {
             "start": 57.0,
             "end": 67.0
-          }
-        },
-        {
-          "id": "event-the-thirteenth-command",
-          "title": "The Thirteenth Command",
-          "magicState": "long-dark",
-          "description": "Thirty-six years of dispatch work → One short command session and an unsettled dawn.",
-          "context": [
-            "Copperwell's old technological board indexes Edda's thirty-six years of dispatch work and applies a class before she can consent. She later accepts a temporary session whose links require individual choices. Current repair reports correct obsolete data; joint physical work saves the cistern while the armed water dispute remains unresolved.",
-            "The lattice reorganizes existing skill while exhausting its cells. The ceasefire, narrow water release and incident record are shown; a new civilian board and lasting water settlement remain future proposals."
-          ],
-          "sequenceNote": "Proposed after The Apes Above and before The Memory Under Line Zero. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "the-thirteenth-command"
-          ],
-          "window": {
-            "start": 66.92,
-            "end": 68.33
           }
         },
         {
@@ -3382,10 +3382,10 @@
     },
     "the-thirteenth-command": {
       "window": {
-        "start": 66.92,
+        "start": 43.42,
         "end": 68.33
       },
-      "note": "Copperwell's old technological board indexes Edda's thirty-six years of dispatch work and applies a class before she can consent. She later accepts a temporary session whose links require individual choices. Current repair reports correct obsolete data; joint physical work saves the cistern while the armed water dispute remains unresolved."
+      "note": "Copperwell's damaged command board operates amid continuing civic records, beacon use and thirty-six years of Edda's dispatch work. Crews have repaired routes and widened a vent beyond its obsolete maps; current reports and manual controls remain essential. Its proposed window may overlap the reservoir and field-medicine communities despite different local equipment. The initial class is imposed before consent, and the eventual joint physical work leaves the armed water dispute unsettled."
     },
     "what-she-remembered-of-peace": {
       "window": {
@@ -6559,7 +6559,7 @@
       "to": "the-thirteenth-command",
       "kind": "historical",
       "label": "Watersheds kept working",
-      "note": "These waterworks share a proposed regional horizon of continuing maintenance and contested water use. One combines a biological indicator with gauges; Copperwell corrects old telemetry through current reports and physical coordination. No common river, state, builders or relative order is established.",
+      "note": "A proposed overlapping regional period accommodates the reservoir's gauges, assays and reed keeping beside Copperwell's beacons, civic archive and manual controls. Copperwell's old board does not replace continuing repairs or current reports; the reservoir's simpler apparatus does not make its community an earlier stage of that city. One emergency sacrifices a reed crop to protect houses, while the other leaves an armed dispute over access. No common river, state, builders or event order is established.",
       "ordering": "none",
       "basis": "proposed"
     },
