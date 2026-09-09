@@ -156,7 +156,7 @@
             "Cooling contracts, freight credit, mine work and dockside processing keep trade moving; ordinary travelers depend on paid lodging and work in the next town.",
             "Delvers find traces of earlier visitors. An isolated wizard recalls imperial commerce, but his first guest in centuries cannot tell him which of those distant institutions still exist."
           ],
-          "sequenceNote": "These working corridors overlap the chartered towns and professions. The wizard's isolation does not prove a general collapse. The Night Harvest's underlying category and old-versus-new position remain unresolved; this is its proposed operating context.",
+          "sequenceNote": "These working corridors overlap the household towns and professions. The wizard's isolation does not prove a general collapse. The Night Harvest sits provisionally in this trade horizon, but its effect's category and position relative to extinction or reawakening remain unresolved.",
           "stories": [
             "a-little-winter-for-sale",
             "a-crown-for-the-endless-fire",
@@ -653,19 +653,20 @@
       "id": "cycle-05-divided-world-joined-sky",
       "title": "The Divided World and the Joined Sky",
       "eyebrow": "Road cultures and working orbits diverge; the oldest fast roads close before new magic begins.",
-      "description": "Deep history has made knowledge uneven. A village moralizes bodies whose freight adaptations a caravan can partly explain; a closed pass and obsolete orbital accounts hide technically capable neighbors. Other crews maintain old structures or help a wounded vessel. The First People's destruction of the stellar lattice is a different, explicit rupture that makes its connected worlds depend on slower aid. Much later, reciprocal contact begins genuinely new magic over an already inhabited world.",
+      "description": "Deep history has made knowledge uneven. Keepers, repair crews and watershed workers retain practical expertise even where records are incomplete. A village moralizes bodies whose freight adaptations a caravan can partly explain; a closed pass and obsolete orbital accounts hide technically capable neighbors. Other crews maintain old structures or help a wounded vessel. The First People's destruction of the stellar lattice is a different, explicit rupture that makes its connected worlds depend on slower aid. Much later, reciprocal contact begins genuinely new magic over an already inhabited world.",
       "sequenceNote": "Ignorance in one community can coexist with knowledge elsewhere. These stories do not require one common collapse. The root burn and reawakening remain distinct events; the injured vessel has no established place before or after the burn.",
       "eras": [
         {
           "id": "dark-inherited-road-worlds",
           "title": "The inhabited road and water worlds",
           "magicState": "long-dark",
-          "description": "Road communities, occupied underground spaces and contested watersheds sustain lives among uneven inheritances.",
+          "description": "Caravan trade, maintained waterworks and inhabited underground routes carry on amid incomplete records and disputed histories.",
           "context": [
-            "A civic engine survives in a salvage economy; freight adaptations persist in a population after their original methods become disputed.",
-            "Ordinary organism behavior, route knowledge, rifles and obsolete sensors support different communities."
+            "Cerdovan's engine still has operators, buyers and a known purpose. Its keepers defend the location of civic records while a caravan must pay for safe equipment, restored custody and a longer road.",
+            "Reservoir work depends on current measurements and local knowledge as well as old machinery. One watershed sacrifices a reed crop to protect houses; Copperwell's opposing groups cooperate long enough to preserve a cistern without settling their water dispute.",
+            "Varied underground inhabitants have food, bedding, dependents and escape routes. Surface travelers misread warnings and unfamiliar bodies; limited observation can support one rescue or choice without establishing a whole people's history."
           ],
-          "sequenceNote": "These societies need not share one collapse or ancestor. Some technical loss is explicit, while other apparent ruins are inhabited places misread by outsiders.",
+          "sequenceNote": "These are proposed neighboring histories with no established common collapse, ancestor, river or political authority. Some inherited explanations have been lost while practical expertise continues. Ordinary biological differences and active local institutions belong to this Long Dark proposal; their appearance alone does not date them.",
           "stories": [
             "leave-the-names",
             "the-last-monster",
@@ -921,7 +922,7 @@
           "description": "Practitioners and volunteers meet lives whose memories, regeneration and bodily occupation exceed ordinary expectations.",
           "context": [
             "A thirteen-year host search and a very old client's memory work require negotiated access to another person's body or mind.",
-            "A practitioner's experience of regenerator care exposes the limitations beneath an isolated sanctuary's claim to godhood."
+            "A traveler adapts learned care to a regenerator whose body differs from a familiar patient's. The occupied sanctuary contains neglected recovery apparatus; its owner's divine claim does not settle his nature or the identity and history of the apparatus's earlier users."
           ],
           "sequenceNote": "These proposed professional neighbors share learned care and its limits. Their mechanisms and personal histories differ; neither a long life nor an old sanctuary establishes the age of the others.",
           "stories": [
@@ -1302,7 +1303,7 @@
         "start": 41,
         "end": 59
       },
-      "note": "A three-month ecological arrival becomes a dockside industry of hides, fuel, clinic material and debt. Six nights expose a local node's effects; the phenomenon's category and old-versus-new placement remain unresolved."
+      "note": "Three months of corpse processing support roofs, rope, fuel, clinic supplies and debt. A six-night investigation exposes the preserved nodes' directional effect; destroying the stock changes handling while ordinary salvage and unpaid obligations continue. Its category and position relative to either magical boundary remain unknown, so this older trade placement stays proposed."
     },
     "a-crown-for-the-endless-fire": {
       "window": {
@@ -1421,7 +1422,7 @@
         "start": 17,
         "end": 57
       },
-      "note": "Reservoir gauges, chemical assays and collective organism behavior meet a spillway bricked three generations earlier. This maintained agricultural watershed shares a material horizon with road societies; its ordinary biology is not a surviving magical root."
+      "note": "A maintained reservoir combines gauges, controlled assays and a reed keeper's knowledge. A colony responds to current stress in connected wet mica; work noise and rain can make it unreadable. Reopening a spill bricked three generations earlier saves houses by sacrificing the reed crop, leaving a cracked wall and continuing repair watches."
     },
     "blade-calls-your-name": {
       "window": {
@@ -1456,14 +1457,14 @@
         "start": 5,
         "end": 64
       },
-      "note": "Caravan work, road wardens and a local serpent queen depend on wages, warnings, translation and ordinary bodily capacities. Its proposed place beside inherited road societies is contextual; physiology does not prove the whole world is magicless."
+      "note": "Flooding, dangerous basin air and a failed rope maneuver bring a surface outrider, a serpent queen and other rescuers into a joint escape. Warnings, bodily capacities and route knowledge remain local and fallible. A six-day paid trial is agreed only after reaching fresh air, with one recovery night first and the outer road still flooded."
     },
     "the-last-monster": {
       "window": {
         "start": 5,
         "end": 64
       },
-      "note": "Searchers enter reused underground spaces occupied by varied living communities. The present is one of settlement and rescue within inherited architecture; neither the confinement's duration nor the builders' era is known."
+      "note": "Salken moves through underground spaces whose inhabitants are evacuating ahead of them. The identified search party meets Salken on the surface after escape; the figures below retain unresolved identities and purposes. Food, shelters, tools and route knowledge establish occupied lives without dating their builders or Salken's confinement."
     },
     "the-walls-are-thick-enough": {
       "window": {
@@ -1645,7 +1646,7 @@
         "start": 29,
         "end": 60
       },
-      "note": "A guarded cistern faces starving neighboring settlements amid rifles, obsolete sensors and archived civic records. Edda's thirty-six years of dispatch knowledge make this a resource and maintenance history; temporary commands consume cells rather than will."
+      "note": "Copperwell's old technological board indexes Edda's thirty-six years of dispatch work and applies a class before she can consent. She later accepts a temporary session whose links require individual choices. Current repair reports correct obsolete data; joint physical work saves the cistern while the armed water dispute remains unresolved."
     },
     "what-she-remembered-of-peace": {
       "window": {
@@ -1680,7 +1681,7 @@
         "start": 11,
         "end": 45
       },
-      "note": "A caravan's salvage economy encounters a roofless city and a functioning mechanical metal-dissolution engine. Old civic nameplates survive into a later road culture, giving this ruin an actual material inheritance."
+      "note": "A caravan trades with an operator who still knows how Cerdovan's civic dissolution engine works. An original name strip authorizes it through physical shape, while keepers preserve provenance. Recovering the strip costs profit, a road bond and continuing labor; it cannot restore destroyed inscriptions or lost locations."
     },
     "the-lights-beyond": {
       "window": {
@@ -1813,7 +1814,7 @@
         "start": 34,
         "end": 73
       },
-      "note": "A traveling practitioner with twelve years of regenerator care finds physical care apparatus inside an abandoned cult sanctuary. Professional bodily knowledge and inherited institutions locate this history; a claim of godhood does not prove one."
+      "note": "A traveler with twelve years of practical care, including regenerator care, enters an occupied sanctuary without visible attendants. Mineral water, heat, worn braces and a body unlike the traveler's stepsister require a revised technique. The sanctuary's history and its owner's divine claim remain unresolved within this proposed later care horizon."
     },
     "deaths-patron": {
       "window": {
@@ -2163,7 +2164,9 @@
     "the-first-wound": [
       "An undated early battle leaves the first remembered wound; the client estimates his present age at roughly twenty-five thousand years",
       "A refuge memory lies 612 years back; a factory memory lies eighty-three years back",
-      "A present tram incident leads into work with a living memory specialist"
+      "Six days after the tram incident, a living memory specialist follows the client's chosen starting point",
+      "His initial twelve-year risk history proves incomplete; a second descent proceeds under new limits and without recording",
+      "The session ends without settling the battle's uncertain count or promising a cure; the client uses his present grounding habit at the door"
     ],
     "not-about-that": [
       "Magical girls already work across delivery routes, agricultural weather and an inhabited city sky.",
@@ -2310,10 +2313,11 @@
       "The spike breaks, signs return and the crew secures the route for cleanup in daylight"
     ],
     "the-night-harvest": [
-      "Creatures appear; their bodies enter established markets for roofs, rope, medicine and lamps.",
-      "Over three months, preserved throat nodes accumulate as valuable material.",
-      "Foreign fighters and local route observations reveal the danger of those stored nodes.",
-      "During the convergence, eighty-one preserved nodes are destroyed and ordinary salvage can continue."
+      "Creatures appear; over three months their bodies enter existing markets for roofs, rope, medicine and lamps",
+      "Preserved throat nodes accumulate as valuable stock. During the fourth night, a stranded load supplies a test of breaking and heating their membranes",
+      "On the sixth night, a fixed stockpile draws converging attacks; workers and unfamiliar fighters destroy eighty-one nodes by recorded batch",
+      "New answering cries stop, but creatures already present keep fighting. After dawn, ordinary salvage continues and crew losses remain in the accounts",
+      "The cart remains in debt; axle repair is renegotiated through salvage wages. Limited shared gestures support continued node destruction without explaining the wider arrival"
     ],
     "the-body-called-one": [
       "Four years inside Unit 02 precede extraction into a failing shell",
@@ -2488,14 +2492,16 @@
       "An orientation morning includes three bounded demonstrations"
     ],
     "the-thirteenth-command": [
-      "Edda accumulates thirty-six years of dispatch experience",
-      "An old sensor board and a changed landscape make archived plans unreliable",
-      "A roughly eleven-minute command session uses experience while consuming battery cells"
+      "Edda accumulates thirty-six years of dispatch experience while maps, sensors and the actual cistern diverge",
+      "The damaged lattice applies a class while she is unconscious; after waking she accepts a temporary session with roughly eleven minutes of cell life",
+      "Current human reports correct old maps. Individual Common Cause links share information while physical work by both sides arrests the cascade",
+      "The incident log is exported and the class discarded. At dawn, a narrow eastward channel and a fragile armed ceasefire remain; a civilian board is still only proposed"
     ],
     "anatomy-of-a-god": [
-      "A practitioner accumulates twelve years of regenerator-care experience",
-      "Travel reaches a neglected cult sanctuary",
-      "Physical care apparatus complicates the claim that its inhabitant is a god"
+      "Twelve years of practical care include experience helping the traveler's regenerator stepsister",
+      "An occupied, neglected sanctuary exposes a different pattern of regeneration and older physical recovery apparatus",
+      "An adapted temporary restraint permits escape without resolving the owner's claim of godhood",
+      "A reachable release buckle and water remain for the recovering man; the traveler takes a higher track because the ravine road has flooded"
     ],
     "the-night-she-knew": [
       "Private predictive fragments begin in childhood",
@@ -2638,6 +2644,27 @@
       "After seventy-six hours awake, Elspeth learns that forged orders and a prior continuity rule are directing her crews against a rival's children",
       "A poolside confrontation exposes the underboss's coup; divided loyalties and the rival's daughter affect who survives",
       "The underboss dies and the raid is canceled; the rival settles tonight while retaining his wider grievance"
+    ],
+    "leave-the-names": [
+      "An apprentice trades a civic name strip for a needed brake before the caravan's descent",
+      "The next day, recovering custody costs the clean-metal profit and shelf-road bond; skilled work frees the strip and restores the paired anchors",
+      "Destroyed inscriptions and lost locations remain lost. The apprentice stays for an unfinished inventory while the caravan takes the longer road"
+    ],
+    "the-last-monster": [
+      "An unmeasured confinement and repeated violence precede Salken's escape; the inhabitants' warnings travel ahead of them",
+      "After further killings, Salken stops attacking a guardian, lets it and its dependent pass first, and leaves the sword holding the exit open",
+      "At dawn, surface searchers restrain Salken and hear their confession. Judgment, any later rescue and the inhabitants' fate remain unknown"
+    ],
+    "coiled-together": [
+      "Less than an hour of lost awareness precedes the outrider's waking; the first remembered rescue remains incomplete",
+      "A rope loaded against advice breaks the fissure lip; the group builds another route and the outrider requests a specifically bounded second carry",
+      "Fresh air ends the immediate escape, while flooding blocks the outer road. One recovery night precedes an agreed six-day paid trial"
+    ],
+    "the-ordinary-slime": [
+      "A side spill has remained bricked for three generations while the reservoir and reed beds stay in use",
+      "The junior keeper raises the alarm seven minutes after the first pattern, including two minutes after the crack",
+      "Controlled comparisons support a limited reading of present water stress; noisy work later requires reliance on ordinary gauges",
+      "A full spill release saves the houses and sacrifices the reed crop. The bank is protected by additional cuts; the cracked wall remains under watch"
     ]
   },
   "storySpans": {
@@ -2774,7 +2801,7 @@
     "the-night-harvest": {
       "start": "New creatures in an old trade economy",
       "end": "A changed handling practice",
-      "note": "Three months of local industry, followed by a six-night investigation; foreign knowledge is older but its place of origin is unspecified."
+      "note": "Three months of local industry, followed by a six-night investigation. The fighters bring handling knowledge the local industry lacks; their origin and prior history remain unknown."
     },
     "a-crown-for-the-endless-fire": {
       "start": "An older maintained fire bridge",
@@ -2975,6 +3002,36 @@
       "start": "Asha dies years before Ruth",
       "end": "Ruth remains after her own service expires",
       "note": "The hospital history precedes Ruth's death. Paired trains and later arrivals use the station's local clock; they establish no elapsed interval or transport development in the material world."
+    },
+    "leave-the-names": {
+      "start": "The name strip is traded before a dangerous descent",
+      "end": "Recovery work changes the next departure",
+      "note": "The caravan loses the shelf-road bond and takes a route expected to add three or four days. Twelve days of provisions support the apprentice's unfinished inventory; neither its completion nor continued apprenticeship is assured."
+    },
+    "the-last-monster": {
+      "start": "An unmeasured confinement",
+      "end": "Escape and restraint at dawn",
+      "note": "Worn equipment, scars and an old camp demonstrate elapsed time without supplying a duration. The final confession does not settle the identities, number or later fates of those below."
+    },
+    "coiled-together": {
+      "start": "Less than an hour of lost awareness",
+      "end": "One recovery night before a paid trial",
+      "note": "The six-day job remains ahead, subject to a safe surface path and the outrider's right to leave. The witnessed second carry does not prove every earlier event or settle accusations about other travelers."
+    },
+    "the-ordinary-slime": {
+      "start": "A spill closed three generations earlier",
+      "end": "Storm response and continuing repair watches",
+      "note": "Present tests change the gate decision. Saving houses costs the reed harvest and further bank work; a damaged wall and quarter-hour readings remain after the crest."
+    },
+    "the-thirteenth-command": {
+      "start": "Thirty-six years of dispatch work",
+      "end": "One short command session and an unsettled dawn",
+      "note": "The lattice reorganizes existing skill while exhausting its cells. The ceasefire, narrow water release and incident record are shown; a new civilian board and lasting water settlement remain future proposals."
+    },
+    "anatomy-of-a-god": {
+      "start": "Twelve years of practical care",
+      "end": "A storm encounter in an occupied sanctuary",
+      "note": "Prior experience supplies a starting technique that must be changed for this individual body. The sanctuary's age, the earlier users of its care apparatus and its relation to other regenerator populations remain unknown."
     }
   },
   "storyEvidence": {
@@ -3811,6 +3868,36 @@
       "kind": "echo",
       "label": "The person behind an authorization",
       "note": "Adrian uses ordinary witnessed records to preserve his consent after a decade of family concealment. Elspeth confronts forged orders and a continuity rule that discredits her real voice. Both expose how household authority can detach an official account from the person it names, through different institutions and without a shared mechanism or lineage.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "the-evidence-a-name-can-carry",
+      "from": "golden-lion",
+      "to": "leave-the-names",
+      "kind": "echo",
+      "label": "The evidence a name can carry",
+      "note": "A newly made Lion cane prompts testimony from a living survivor. Cerdovan's original strips physically authorize an engine and preserve civic context. Neither recovery restores everything that was lost; the objects retain distinct functions with no shared naming power, law or lineage.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "watersheds-kept-working",
+      "from": "the-ordinary-slime",
+      "to": "the-thirteenth-command",
+      "kind": "historical",
+      "label": "Watersheds kept working",
+      "note": "These waterworks share a proposed regional horizon of continuing maintenance and contested water use. One combines a biological indicator with gauges; Copperwell corrects old telemetry through current reports and physical coordination. No common river, state, builders or relative order is established.",
+      "ordering": "none",
+      "basis": "proposed"
+    },
+    {
+      "id": "warnings-shaped-by-local-knowledge",
+      "from": "the-last-monster",
+      "to": "coiled-together",
+      "kind": "echo",
+      "label": "Warnings heard through fear",
+      "note": "Salken mistakes evacuation signals for a hunt. The outrider and cousin misread a constrained rescue and broken speech, while a rope carrier distinguishes what was actually witnessed. Each place has limited local signals; neither establishes a common language, people or history.",
       "ordering": "none",
       "basis": "thematic"
     }
