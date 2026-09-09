@@ -763,17 +763,17 @@
           "id": "new-towns-inherited-obligations",
           "title": "The obligations a household inherits",
           "magicState": "new-magic",
-          "description": "Long local relationships with witches, gods and familiars persist inside ordinary work, care and family life.",
+          "description": "Long-lived neighbors and inherited companions carry obligations into modern family life, where help, debt and ownership remain different claims.",
           "context": [
-            "A town remembers a witch's rescue while open promises still constrain her; a grandmother's years of service make divine favors costly.",
-            "An inherited cat and a witch's household carry practical knowledge that still has to accommodate money, illness and other people's choices."
+            "Evadne releases the promises that kept her young and confined; the descendants were never magically bound. Her return to the town is voluntary.",
+            "For forty-six years, local gods divert work to postpone Valka's claim on their old debts. Their interventions consume capacity needed elsewhere and do not make her immortal.",
+            "An owner who inherited Mizzle delays a business decision while relying on the cat's compelled advice. Mizzle depends on that owner's everyday care."
           ],
-          "sequenceNote": "These proposed regional neighbors already have customs for living with extraordinary inhabitants. Their obligations have different histories and mechanisms; the new world has had time to make a past of its own.",
+          "sequenceNote": "These proposed regional neighbors have long local histories, but the obligations run in different directions. Descendants do not inherit Evadne’s magical bonds; Valka retains her own claim; Mizzle’s new owner has responsibilities toward a dependent companion. No common contract system is established.",
           "stories": [
             "what-the-town-owed-her",
             "gods-afraid-of-grandma",
-            "the-cat-who-had-enough",
-            "witch-cold"
+            "the-cat-who-had-enough"
           ],
           "window": {
             "start": 12,
@@ -808,17 +808,19 @@
           "magicState": "new-magic",
           "description": "Households, clinicians and ordinary services learn enough about particular conditions to help people live with them.",
           "context": [
+            "A witch already knows the limits of her six erratic sneeze effects. Her friend learns to follow her decisions while an ordinary nurse advises on the fever.",
             "An engineer builds practical accommodation for a monthly curse; a sleep-triggered displacement acquires household and property routines.",
             "A traveler's bounded journeys and bodily costs receive clinical attention even while the faculty remains only partly understood."
           ],
           "sequenceNote": "These proposed neighbors share case-specific care rather than a common power or profession. Their practical knowledge can coexist with hidden communities and public heroes elsewhere.",
           "stories": [
+            "witch-cold",
             "the-wolf-in-the-mirror",
             "where-sleep-takes-you",
             "lightning-carries-one"
           ],
           "window": {
-            "start": 22,
+            "start": 12,
             "end": 87
           }
         },
@@ -1829,7 +1831,7 @@
         "start": 12,
         "end": 76
       },
-      "note": "Freelance work, a retail lease and household finances surround a bounded inherited cat's interventions. This modern domestic history needs no public registry or hidden ancient civilization to explain its setting."
+      "note": "Ten months after inheriting Mizzle, an owner faces a retail commitment left unanswered for nineteen days. The cat's compelled speech and dependence on ordinary care sit beside freelance work, a sister's separate business plans and losses that remain payable. The owner withdraws from the bakery without transferring that decision to Mizzle."
     },
     "the-trouble-with-tuesdays": {
       "window": {
@@ -1843,7 +1845,7 @@
         "start": 34,
         "end": 72
       },
-      "note": "A 108-year life and forty-six years of bounded service bring local road, weather and hearth gods into a modern valley's costs. These are surviving regional obligations, not proof of one world-wide pantheon."
+      "note": "At sixty-two, Valka enters a card game over old divine debts, interrupted when paramedics restart her heart. For forty-six years the gods divert bounded services to postpone her return and collection. At 108, the claim remains hers and the game resumes. Their domains, costs and ordinary medical limits do not establish a worldwide pantheon or immortality."
     },
     "the-night-she-knew": {
       "window": {
@@ -1969,7 +1971,7 @@
         "start": 12,
         "end": 76
       },
-      "note": "A nurse call, a handmade professional outfit and household knowledge frame six erratic sneeze effects. Its context is modern domestic care; no public hero institution or common transformation mechanism is established."
+      "note": "Nuala already knows her six random workings and helps design the care around them. Her friend and an ordinary nurse supply different kinds of assistance. The fever and repair obligations continue after the immediate crisis, placing this household with practical accommodation rather than inherited debts."
     },
     "ultimate-evil-dog": {
       "window": {
@@ -2032,7 +2034,7 @@
         "start": 46,
         "end": 83
       },
-      "note": "Estate salvage, museums and emergency containment services trace a marker-containing lot purchased eleven years earlier. That dates the lot, not the whole collection. Pipes, fans and material craft frame the house's living seed; its placement follows a working industrial artifact economy."
+      "note": "Estate salvage, museum records and emergency containment trace a marker-containing lot bought eleven years earlier. That dates the lot, not the whole collection or every object. Four objects have different observed roles; the active collector's seed is contained, while its origin and biology remain unestablished. The household begins limited clearance afterward."
     },
     "the-first-wound": {
       "window": {
@@ -2203,8 +2205,10 @@
     ],
     "where-no-unicorn-stands": [
       "A queen’s coronation four days earlier roots a storm above thirsty valley orchards",
-      "The same act traps a Pegasus cloud city; its failed messages lead to the heir’s abduction",
-      "A staged release lets the cloud city move and rain reach the valley, without settling the two kingdoms’ conflict"
+      "The claim traps an inhabited Pegasus cloud city; returned messages show failed delivery, not everything the queen knew",
+      "A captain abducts the heir without the regent’s order, while the two populations remain in danger",
+      "The regent orders his unconditional return before the heir offers three bounded releases on the homeward route",
+      "The queen releases the root; rain reaches the valley and the damaged cloud city moves, with losses uncounted and peace unsettled"
     ],
     "the-count-was-131072": [
       "The Bay is fought and its crown permanently expended.",
@@ -2489,6 +2493,48 @@
       "A civilian home and repair life exist before the renewed attack",
       "Anvek chooses a bounded use of retained military capacities as the neighbors evacuate",
       "The residents escape, while the home burns and the wider war continues"
+    ],
+    "there-goes-your-name": [
+      "A household uses name-calls alongside whistles, dog training and ordinary shepherding",
+      "A fae steals and redirects one directional binding while the old word, memories and family ties remain",
+      "Tracks, a trained dog and a rope enable the hillside rescue",
+      "Sedge chooses a new call-name; the sister establishes its use and the flock work resumes"
+    ],
+    "gods-afraid-of-grandma": [
+      "At sixty-two, Valka enters a game over old divine debts; paramedics restart her heart before the arrangement is settled",
+      "Forty-six years of local interventions postpone collection while consuming services needed elsewhere",
+      "Her grandchild discovers the arrangement and cannot obtain a guarantee against death",
+      "At 108, Valka keeps her claim and resumes the game; its eventual settlement remains open"
+    ],
+    "the-cat-who-had-enough": [
+      "Ten months after inheritance, Mizzle’s replies still require sincere complaints directed to her",
+      "Nineteen days of unspoken withdrawal from a bakery plan end before the contractual deadline",
+      "The sister transfers the remaining deposit to a smaller business; withdrawal losses and repayment obligations persist",
+      "The owner begins practical care and overdue work without making the cat responsible for the decision"
+    ],
+    "witch-cold": [
+      "A witch cold makes each of Nuala’s sneezes release one of six known workings, selected randomly",
+      "Her knowledge changes the proposed room, route and supply arrangement",
+      "Ordinary nursing advice and shared signals support continuing care without controlling the next working",
+      "A final rain drains safely; the fever, monitoring and material repairs remain unfinished"
+    ],
+    "the-hoarders-house": [
+      "A sale eleven years earlier dates the marker-containing lot, while other acquisition histories remain incomplete",
+      "A museum investigation triggers responses inside an obstructed household",
+      "Four objects are isolated by observed behavior; containment ends the room expansion",
+      "Ownership notices remain pending and the household begins clearing one route and one category"
+    ],
+    "deaths-patron": [
+      "A demonstration engine stores one charge supplied by forty living spellwrights",
+      "A broken stop-pin allows seven-minute repetitions through a changing, damaged district",
+      "Derva accepts one bounded patronage while crews engineer the physical failure the god cannot initiate",
+      "The repeating pattern ends and the bond is dismissed; ordinary gate bracing and repair continue"
+    ],
+    "when-the-needle-finds-you": [
+      "An arson six years earlier leaves concealed bodies and a surviving witness",
+      "A midnight broadcast predicts Olt’s death within a day, with forecasts changing as people act",
+      "A survivor seeks a public confession and supplies evidence of the older crime; the Jester exploits her pursuit to steer his forecast",
+      "Olt and the Jester die; Sivra uses the surviving channel to confess and request rescue, whose arrival is not shown"
     ]
   },
   "storySpans": {
@@ -3758,8 +3804,8 @@
           "title": "Recognition returns unevenly",
           "note": "Hidden neighbors, documented individual conditions and public hero professions coexist in the new world. The community that changes at eighteen has a distinct population custom; one city's knowledge cannot classify every inhabitant.",
           "anchors": [
+            "witch-cold",
             "she-literally-has-wings",
-            "captive-couples",
             "the-name-i-kept"
           ],
           "kind": "recurrence"
