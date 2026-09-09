@@ -1456,7 +1456,7 @@
       "id": "cycle-04-human-refoundings",
       "title": "The Human Refoundings",
       "eyebrow": "Ordinary modernity and later material civilizations.",
-      "description": "A wholly magicless modern interval is followed in the reconstruction by further material societies. An ordinary tram town with different bodies has its own position among home invention, implants, reconstructed antiquity, artificial persons, body revision and inhabited cities. These populations and services do not share an established origin. Orbital command, civilian freight and later fighting overlap different institutional histories; technical capacities vary by place and field.",
+      "description": "A wholly magicless modern interval is followed in the reconstruction by further material societies. Home invention, bodily repair, reconstructed antiquity, artificial persons and inhabited cities have different local histories. Civilian orbital freight and a coercive military embodiment program occupy a proposed later technical reach without sharing an established government or manufacturer. Their equipment does not supply one ladder of progress, and the next cycle is not founded by one war or universal collapse.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1684,10 +1684,10 @@
           "id": "event-the-body-called-one",
           "title": "The Body Called One",
           "magicState": "long-dark",
-          "description": "Four years inside Unit 02 precede extraction into a failing shell",
+          "description": "Four years inside Unit 02 → A rescue soon after extraction into another body.",
           "context": [
-            "A Directorate pursues Loxan through the active systems of a supposedly decommissioned annex inside a ruined foundry. She recovers pilot addresses without their keys, escapes with a preserved body and requests medical help for both of them. The origin of her active mind and the other body's awareness remain unresolved; the rescue does not free every pilot.",
-            "Four years inside Unit 02 precede extraction into a failing shell A courier flight continues under bodily and pursuit deadlines"
+            "A functioning Directorate pursues Loxan into an active annex within a ruined orbital foundry. Four years of embodied service precede her extraction and the current rescue. This proposed material age contains both coercive military programs and separate civilian work; a ruined site does not date a civilization's collapse. The story establishes neither interstellar travel nor a common manufacturer with other neural technologies.",
+            "The supposedly decommissioned annex still acts for a living institution. Escape begins care for two bodies without resolving identity, liberating every pilot or ending the Directorate."
           ],
           "sequenceNote": "Proposed after The Kill She Wouldn't Take and before The Warning Comes Second. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1702,54 +1702,18 @@
           "id": "event-deja-vu-too-late",
           "title": "The Warning Comes Second",
           "magicState": "long-dark",
-          "description": "One consented neural baseline is restored after the triggering loss",
+          "description": "A baseline before the docking approach → The damage ledger at 12:04 after the reprise.",
           "context": [
-            "Paid tug crews, refinery cargo and an inhabited ring use a consented neural baseline with a ninety-six-second memory cost. Civilian orbital work is proposed alongside the ground and military technical societies; the warning is not a literal backward jump in time.",
-            "One consented neural baseline is restored after the triggering loss The charge is exhausted; material consequences have not rewound"
+            "Paid tug crews, refinery cargo, leases and an inhabited ring form an operating civilian freight economy. The consented device restores one neural baseline after ninety-six seconds while bodies, ships and transmissions continue. This proposed orbital position describes a material society with specialized memory technology; it does not establish time travel, interstellar range or a shared military history.",
+            "The failed approach becomes a rescue with continuing injury and lost cargo. The ring, its residents and the civilian institutions remain in operation; this is not the end of orbital commerce."
           ],
-          "sequenceNote": "Proposed after The Body Called One and before The Last Watcher of Jupiter. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The last proposed event in this cycle, after The Body Called One. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
           "stories": [
             "deja-vu-too-late"
           ],
           "window": {
             "start": 86.41,
             "end": 87.81
-          }
-        },
-        {
-          "id": "event-last-watcher-of-jupiter",
-          "title": "The Last Watcher of Jupiter",
-          "magicState": "long-dark",
-          "description": "Thirty years of containment duty → A forty-minute emergency and the next watch.",
-          "context": [
-            "Thirteen thousand station residents depend on a staffed containment watch and its maintenance crews. Thirty years of service and an eight-year-old analog repair precede a forty-minute emergency. The pilots restore a working watch with no spare emitters; the deep signal's origin and the organism's intelligence remain unknown.",
-            "An analog repair made eight years before the emergency leaves one frame outside the unknown signal’s command path. The staffed service continues afterward with reduced equipment; these local intervals do not date the signal or a wider civilization."
-          ],
-          "sequenceNote": "Proposed after The Warning Comes Second and before What She Remembered of Peace. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "last-watcher-of-jupiter"
-          ],
-          "window": {
-            "start": 91.35,
-            "end": 92.75
-          }
-        },
-        {
-          "id": "event-what-she-remembered-of-peace",
-          "title": "What She Remembered of Peace",
-          "magicState": "long-dark",
-          "description": "Independent technicians sever Anvek’s involuntary command receiver at her request",
-          "context": [
-            "At Anvek's request, independent technicians have severed the receiver that enabled involuntary command. Her civilian life precedes renewed war; she chooses to use bounded retained combat capacities alongside ordinary rescue equipment. This is not a restored remote override or a common liberation history with Loxan.",
-            "Independent technicians sever Anvek’s involuntary command receiver at her request A civilian home and repair life exist before the renewed attack Anvek chooses a bounded use of retained military capacities as the neighbors evacuate The residents escape, while the home burns and the wider war continues"
-          ],
-          "sequenceNote": "The last proposed event in this cycle, after The Last Watcher of Jupiter. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "what-she-remembered-of-peace"
-          ],
-          "window": {
-            "start": 96.3,
-            "end": 97.7
           }
         }
       ]
@@ -1758,7 +1722,7 @@
       "id": "cycle-05-divided-world-joined-sky",
       "title": "The Divided World and the Joined Sky",
       "eyebrow": "Political falls and surviving expertise before the joined sky.",
-      "description": "People maintain inherited works while particular kingdoms fall and other polities remain capable. Communities with incomplete accounts of the ground or sky coexist in this proposed reach with fully operating networked cities. The First People's loss of the fast stellar roads is a separate explicit rupture, not the explanation for every ruin or local gap in knowledge. Much later, the joined-sky link begins new magic.",
+      "description": "Inherited works, regional wars and fully functioning networked cities coexist in this proposed reach with communities holding incomplete accounts of ground or sky. Anvek's district loses homes while its residents and services continue. Later, the First People destroy the universal fast stellar roads, leaving slower craft and inhabited worlds. The Jupiter watch is placed after that rupture as a proposed continuation of capable local orbital life; its signal has no known connection to the burn. The joined-sky link begins new magic after a separate, unmeasured interval.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1860,13 +1824,31 @@
             "Freight-adapted bodies persist in a manual road economy, but knowledge is unequal: the village moralizes strength while a caravan keeps an older anatomical survey and recognizes nutritional costs. An earlier culture of bodily revision is a useful proposed comparison; seedglass is not established as these people's ancestry.",
             "Bodily capacity survives while accounts of whether ancestors were bred, built or repaired diverge; no maker or Galactic coordinate is identified."
           ],
-          "sequenceNote": "Proposed after Coiled Together and before The Driver the City Could Not See. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after Coiled Together and before What She Remembered of Peace. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
           "stories": [
             "the-weight-they-never-counted"
           ],
           "window": {
             "start": 31.68,
             "end": 33.08
+          }
+        },
+        {
+          "id": "event-what-she-remembered-of-peace",
+          "title": "What She Remembered of Peace",
+          "magicState": "long-dark",
+          "description": "Years of independent civilian life → A district evacuation and shelter care.",
+          "context": [
+            "Placed among the later divided material societies, this is a ground-city history of civic life interrupted by regional fighting. Anvek has already gained an appeal, independent technical help and years of ordinary home life; other institutions and residents still need her chosen assistance. This position does not make the war a worldwide collapse, a sequel to Loxan's military program or a consequence of the much later proposed fast-road burn.",
+            "One home is destroyed, but neighbors, responders and practical institutions continue. Anvek's freedom has its own history; it does not establish a universal emancipation sequence for artificial people."
+          ],
+          "sequenceNote": "Proposed after The Weight They Never Counted and before The Driver the City Could Not See. Different body histories and functioning material communities occupy this reach; no shared city, war or political regime connects the neighboring events.",
+          "stories": [
+            "what-she-remembered-of-peace"
+          ],
+          "window": {
+            "start": 35.1,
+            "end": 36.5
           }
         },
         {
@@ -1878,7 +1860,7 @@
             "Proposed in the later Long Dark, while other communities possess narrower accounts of their world. This city still operates sophisticated registration, android labor and transport controls; its existence prevents local loss of knowledge elsewhere from becoming a global technological disappearance. Kaith and Arovi escape one jurisdiction under immediate fuel and charging constraints. No common city or political succession is established.",
             "One night is enough to escape the city network, not to establish a new home or livelihood. Restoring the fuse would expose the missing journey; the chosen roads still require fuel, charging and decisions about registry gates."
           ],
-          "sequenceNote": "Proposed after The Weight They Never Counted and before The Ordinary Slime. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after What She Remembered of Peace and before The Ordinary Slime. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
           "stories": [
             "the-driver-the-city-could-not-see"
           ],
@@ -1927,10 +1909,10 @@
           "id": "event-kite-letters-below",
           "title": "A Question for the Sky",
           "magicState": "long-dark",
-          "description": "The inherited account of surface abandonment → Reed-and-radiator contact.",
+          "description": "An inherited account of surface abandonment → Three observed passes and a bounded contact agreement.",
           "context": [
-            "An orbital society dates an alleged surface failure to 812 years earlier, then finds inhabited terraces and related service script below. Shared inheritance and diverged knowledge coexist in the same present; the official extinction claim is wrong.",
-            "812 years is the station's taught interval, not a verified date of surface extinction"
+            "The station teaches that the last ground habitats failed 812 years earlier, but its present picture of an empty surface is contradicted by living tenders. Their script resembles old service forms, establishing related provenance without a proven route of inheritance. This is a proposed Long Dark encounter between differently informed contemporaries. It neither verifies nor disproves every part of the alleged ancient failure.",
+            "Shared old signs can survive through different histories. The confirmed exchange establishes present neighbors and limits for one optical set, not a surface census, known ancestry or a completed reform of the whole station."
           ],
           "sequenceNote": "Placed beside the orbital-account incident as an independent regional history. Their mutual order and common dates remain unresolved; neither discovery causes the other.",
           "stories": [
@@ -1945,10 +1927,10 @@
           "id": "event-apes-in-orbit",
           "title": "The Apes Above",
           "magicState": "long-dark",
-          "description": "Human station maps mark a once-empty basin; their age cannot be read",
+          "description": "Earlier ballast descents and the damaged hatchery → One diverted descent and a proposed three-pass trial.",
           "context": [
-            "Surface cities of descendants of dinosaurs coexist with orbiting humans whose old maps miss them. Thermal transport and radio warnings solve one descent crisis; neither population is assigned a universal earlier or later evolutionary rung.",
-            "Human station maps mark a once-empty basin; their age cannot be read A living dinosaur polity occupies the basin beneath repeated ballast descents Three ground beacons are ranged again; a later steering command diverts one fall The council authorizes a three-pass signaling trial, with defensive conditions"
+            "A surface polity with hatcheries, trams, waterworks and technical observers lives beneath human stations using an old empty-basin target. Their coexistence supplies this proposed material-era position; neither body type dates a civilization's origin. An echo and a later steering command precede one diversion, but the humans' intentions, the map's age and any relationship to the other station stories remain unknown.",
+            "The surface has an operating government and engineering capacity of its own. Ballast, propulsion corrections and a ground signaling choice cause material effects; neither an evolutionary ladder nor a shared station collapse connects this society to the other orbital histories."
           ],
           "sequenceNote": "Placed beside the closed-pass correspondence as an independent regional history. The two stories can overlap in this reconstruction without sharing a population, institution or event.",
           "stories": [
@@ -2035,18 +2017,36 @@
           "id": "event-the-first-people",
           "title": "The First People",
           "magicState": "long-dark",
-          "description": "Roads built before the younger stellar civilizations → The root burn and slow-aid launches.",
+          "description": "Roads built before the younger stellar civilizations → One night of root destruction and the first slow-aid launch.",
           "context": [
-            "An ordinary-looking home retains the root of humanity's vastly older interstellar roads. Burning it closes the fast network and leaves living civilizations dependent on slower travel, making this a genuine historical rupture within the story.",
-            "An immense undated inheritance ends in one night; enemy occupations and separated populations remain"
+            "An ordinary-looking Earth home remains part of a civilian listening and response system with records of humanity's vastly older stellar roads. The census and Earth records align that inheritance with life predating the younger worlds. Burning the fast lattice changes interstellar access; inhabited worlds, local conflicts and slower craft remain. This is a specific transport rupture, not the extinction of magic or all technical capacity.",
+            "The choice closes universal fast routing at a material cost and leaves further decisions to living people. Slower travel is not assigned an unstated propulsion limit, and the burn does not date unrelated orbital encounters."
           ],
-          "sequenceNote": "Proposed after The Star That Followed the Bells and before The Sky Remembers Us. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The fast-road burn retains its proposed late Long Dark position. The following Jupiter watch is a chosen view of capable local services after that loss, with no established interval or causal connection to its signal. The return of magic remains a separate later boundary.",
           "stories": [
             "the-first-people"
           ],
           "window": {
             "start": 90.42,
             "end": 91.83
+          }
+        },
+        {
+          "id": "event-last-watcher-of-jupiter",
+          "title": "The Last Watcher of Jupiter",
+          "magicState": "long-dark",
+          "description": "Thirty years of containment duty → The next watch forty minutes after the forced turn.",
+          "context": [
+            "Placed provisionally after the fast-road rupture, the Jovian watch shows sophisticated local services still operating: thirty years of duty, staffed maintenance, medical support and relief craft. Its present crisis depends on local control paths and available emitters, not demonstrated use of the lost stellar roads. The source does not date the watch against that rupture; an earlier Long Dark position remains possible. The distant signal's age, source and relation to any network are unknown.",
+            "The emergency ends with a continuing watch and no spare working emitter for safe reshaping. Neither a strange signal nor one obsolete repair proves a universal loss of knowledge, an intentional attack by the organism or a civilization's final watch."
+          ],
+          "sequenceNote": "The reconstruction places this local service after The First People's fast-road burn and before The Sky Remembers Us. That order is a proposal about continuing material life, not an established date, a source for the signal or a dependency on the coming magic.",
+          "stories": [
+            "last-watcher-of-jupiter"
+          ],
+          "window": {
+            "start": 93.4,
+            "end": 94.8
           }
         },
         {
@@ -2058,7 +2058,7 @@
             "Ordinary light carries the extinction's final image across ages of perfect material zero. The first bilateral link between Dalo and Keshen begins genuinely new magic; no old root is restored, and the earlier scenes do not share the link's date.",
             "Fall → ages of zero → genuinely new magic"
           ],
-          "sequenceNote": "The last proposed event in this cycle, after The First People. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The last proposed event in this cycle, after The Last Watcher of Jupiter. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
           "stories": [
             "the-sky-remembers-us-return"
           ],
@@ -3340,7 +3340,7 @@
         "start": 86.41,
         "end": 87.81
       },
-      "note": "Paid tug crews, refinery cargo and an inhabited ring use a consented neural baseline with a ninety-six-second memory cost. Civilian orbital work is proposed alongside the ground and military technical societies; the warning is not a literal backward jump in time."
+      "note": "Paid tug crews, refinery cargo, leases and an inhabited ring form an operating civilian freight economy. The consented device restores one neural baseline after ninety-six seconds while bodies, ships and transmissions continue. This proposed orbital position describes a material society with specialized memory technology; it does not establish time travel, interstellar range or a shared military history."
     },
     "drone-down": {
       "window": {
@@ -3372,24 +3372,24 @@
     },
     "what-she-remembered-of-peace": {
       "window": {
-        "start": 96.3,
-        "end": 97.7
+        "start": 35.1,
+        "end": 36.5
       },
-      "note": "At Anvek's request, independent technicians have severed the receiver that enabled involuntary command. Her civilian life precedes renewed war; she chooses to use bounded retained combat capacities alongside ordinary rescue equipment. This is not a restored remote override or a common liberation history with Loxan."
+      "note": "Placed among the later divided material societies, this is a ground-city history of civic life interrupted by regional fighting. Anvek has already gained an appeal, independent technical help and years of ordinary home life; other institutions and residents still need her chosen assistance. This position does not make the war a worldwide collapse, a sequel to Loxan's military program or a consequence of the much later proposed fast-road burn."
     },
     "the-body-called-one": {
       "window": {
         "start": 81.46,
         "end": 82.86
       },
-      "note": "A Directorate pursues Loxan through the active systems of a supposedly decommissioned annex inside a ruined foundry. She recovers pilot addresses without their keys, escapes with a preserved body and requests medical help for both of them. The origin of her active mind and the other body's awareness remain unresolved; the rescue does not free every pilot."
+      "note": "A functioning Directorate pursues Loxan into an active annex within a ruined orbital foundry. Four years of embodied service precede her extraction and the current rescue. This proposed material age contains both coercive military programs and separate civilian work; a ruined site does not date a civilization's collapse. The story establishes neither interstellar travel nor a common manufacturer with other neural technologies."
     },
     "last-watcher-of-jupiter": {
       "window": {
-        "start": 91.35,
-        "end": 92.75
+        "start": 93.4,
+        "end": 94.8
       },
-      "note": "Thirteen thousand station residents depend on a staffed containment watch and its maintenance crews. Thirty years of service and an eight-year-old analog repair precede a forty-minute emergency. The pilots restore a working watch with no spare emitters; the deep signal's origin and the organism's intelligence remain unknown."
+      "note": "Placed provisionally after the fast-road rupture, the Jovian watch shows sophisticated local services still operating: thirty years of duty, staffed maintenance, medical support and relief craft. Its present crisis depends on local control paths and available emitters, not demonstrated use of the lost stellar roads. The source does not date the watch against that rupture; an earlier Long Dark position remains possible. The distant signal's age, source and relation to any network are unknown."
     },
     "the-room-that-waited": {
       "window": {
@@ -3445,14 +3445,14 @@
         "start": 53.0,
         "end": 63.0
       },
-      "note": "An orbital society dates an alleged surface failure to 812 years earlier, then finds inhabited terraces and related service script below. Shared inheritance and diverged knowledge coexist in the same present; the official extinction claim is wrong."
+      "note": "The station teaches that the last ground habitats failed 812 years earlier, but its present picture of an empty surface is contradicted by living tenders. Their script resembles old service forms, establishing related provenance without a proven route of inheritance. This is a proposed Long Dark encounter between differently informed contemporaries. It neither verifies nor disproves every part of the alleged ancient failure."
     },
     "apes-in-orbit": {
       "window": {
         "start": 57.0,
         "end": 67.0
       },
-      "note": "Surface cities of descendants of dinosaurs coexist with orbiting humans whose old maps miss them. Thermal transport and radio warnings solve one descent crisis; neither population is assigned a universal earlier or later evolutionary rung."
+      "note": "A surface polity with hatcheries, trams, waterworks and technical observers lives beneath human stations using an old empty-basin target. Their coexistence supplies this proposed material-era position; neither body type dates a civilization's origin. An echo and a later steering command precede one diversion, but the humans' intentions, the map's age and any relationship to the other station stories remain unknown."
     },
     "the-shadow-that-nested": {
       "window": {
@@ -3473,7 +3473,7 @@
         "start": 90.42,
         "end": 91.83
       },
-      "note": "An ordinary-looking home retains the root of humanity's vastly older interstellar roads. Burning it closes the fast network and leaves living civilizations dependent on slower travel, making this a genuine historical rupture within the story."
+      "note": "An ordinary-looking Earth home remains part of a civilian listening and response system with records of humanity's vastly older stellar roads. The census and Earth records align that inheritance with life predating the younger worlds. Burning the fast lattice changes interstellar access; inhabited worlds, local conflicts and slower craft remain. This is a specific transport rupture, not the extinction of magic or all technical capacity."
     },
     "the-sky-remembers-us-return": {
       "window": {
@@ -3989,15 +3989,20 @@
       "The sword's relocation and further donor-source work remain ahead; the institution has begun revision, not completed it"
     ],
     "kite-letters-below": [
-      "The station inherits a service script and teaches that surface habitats failed 812 years earlier",
-      "Living ground tenders use stored sunlight and body heat to signal through star-reeds",
-      "Orbital radiator vanes answer; corrected messages ask that the ground initiate future contact"
+      "A maintained orbital society inherits old service script and teaches an 812-year interval since the supposed failure of ground habitats",
+      "Living tenders form a question in star-reeds using stored sunlight and bodily heat; their population history remains unknown",
+      "A planned night pass fourteen hours and fifty-one minutes later permits one heat-limited radiator reply; a hinge fault truncates the message",
+      "After a further fifteen hours and nine minutes, a corrected ground reply confirms receipt and sets limits on centered observation and position recording",
+      "The station sends a shorter manual reply and receives an acknowledgment; seven markers do not establish a census or every operator's identity",
+      "Temporary coordinates are cleared from this optical set, automatic acquisition is disabled and further contact awaits the ground's choice"
     ],
     "apes-in-orbit": [
-      "Human station maps mark a once-empty basin; their age cannot be read",
-      "A living dinosaur polity occupies the basin beneath repeated ballast descents",
-      "Three ground beacons are ranged again; a later steering command diverts one fall",
-      "The council authorizes a three-pass signaling trial, with defensive conditions"
+      "Repeated station ballast descents follow an old basin target; its age and operators' knowledge are unknown",
+      "The eighth descent damages the hatchery and burns two carriers; the council prepares for the ninth with ninety minutes remaining",
+      "Three ground beacons send one amplified return, leaving a third of the stored charge for a weaker defensive shot",
+      "The stations range the beacons; a later command changes the descent toward the quarry, and Qemri withholds fire",
+      "The quarry impact leaves fire and damage, with no deaths reported; the earlier burned carriers remain in care",
+      "The council authorizes only a conditional three-pass trial while water, roof repair, evacuation and coil-recharge demands continue"
     ],
     "the-first-kingdom-was-late-on-taxes": [
       "Kettlebridge has working trades, households and a tax reeve before the aurora. A washed-out bridge contributes to three quarters of unpaid tax; this is not an established first kingdom.",
@@ -4078,12 +4083,20 @@
       "The cart remains in debt; axle repair is renegotiated through salvage wages. Limited shared gestures support continued node destruction without explaining the wider arrival"
     ],
     "the-body-called-one": [
-      "Four years inside Unit 02 precede extraction into a failing shell",
-      "A courier flight continues under bodily and pursuit deadlines"
+      "For four years, Loxan believes she pilots Unit 02 from a hidden body; rebels extract its active pattern into a failing emergency shell",
+      "Less than an hour after extraction, she enters the foundry debris while pursuit and bodily-support estimates change",
+      "The annex reveals that 01 and 02 number embodiments; a preserved biological body shares her recorded name and sensory history",
+      "The records leave the origin of her active mind and the preserved body's awareness unresolved",
+      "A retrieval probe shortens the available time; Loxan chooses the thirty-eight-second address index and cradle release instead of another harmful challenge for the command seed",
+      "She escapes with both bodies supported and requests a medical rendezvous; the addresses have no keys and the other pilots remain unrescued"
     ],
     "deja-vu-too-late": [
-      "One consented neural baseline is restored after the triggering loss",
-      "The charge is exhausted; material consequences have not rewound"
+      "A consented neural baseline is stored before approach while Orivan goes outside to inspect cargo latches",
+      "After a triggering structural loss, Kessa's working and episodic memory returns to that baseline; ninety-six seconds have elapsed for everyone and everything else",
+      "A frozen alignment packet continues to pass its checksum; present physical damage and several imperfect measurements contradict it",
+      "A missed hazard instruction forces another roll before Kessa ejects all six cargo drums and uses the remaining thrust pulse",
+      "At 9:41 after the reprise, the tug has cleared the collision course; by 11:32 Orivan is inside with his injured leg",
+      "At 12:04 Kessa records the losses; medical recovery and the altered financial year remain ahead"
     ],
     "only-eighteen": [
       "Ceveth has almost two centuries of professional care experience before the home hires her for her first human babies, who arrive at six weeks.",
@@ -4148,10 +4161,13 @@
       "The smaller hall reopens on ordinary posts while the colony receives habitat without compulsory work"
     ],
     "the-first-people": [
-      "Humanity sends roads and empty stations toward stars before younger civilizations arise",
-      "Later travelers inherit the routes and turn humanity's priority into a story of legendary elders",
-      "A pursued courier reaches a civilian listener in a rain-soaked house on Earth",
-      "A rolling root burn destroys the inherited fast-road network; slower rescue craft launch into a still-inhabited sky"
+      "Humans build roads and empty stations before the younger stellar civilizations arise; the exact epoch remains undated",
+      "Later travelers inherit those routes while a hostile power captures universal routing and isolates living worlds",
+      "Heshi reaches a civilian listener on Earth with a damaged census; separate records support the depth of the human inheritance",
+      "She exposes hidden refuges through the census and helps shape a rolling burn to reduce losses in transit",
+      "The fast lattice closes; some travelers clear it and others vanish, while one hostile vessel reaches Earth and is held beyond the atmosphere",
+      "Enemy forces already at other worlds remain and Heshi's home does not answer",
+      "A slower relief craft launches toward a refuge with perhaps forty days of air and a thirty-six-day journey; arrival is unshown"
     ],
     "the-ten-thousand-year-queen": [
       "Roughly ten thousand years after the last pharaoh, adults are reconstructed from fragmentary ancient DNA",
@@ -4165,9 +4181,13 @@
       "A crew opens four shutters enough to reduce eclipse risk while leaving other sectors inhabited"
     ],
     "last-watcher-of-jupiter": [
-      "Thirty years of watch keep a charged Jovian organism below inhabited orbit",
-      "An eight-year-old analog repair leaves one frame outside an unclassified command path",
-      "Pilots isolate the affected controls and restore containment; the signal's source stays unknown"
+      "For thirty years, a staffed watch keeps a charged Jovian organism's upper currents below inhabited orbit",
+      "Eight years before the crisis, a micrometeor-damaged correlator is replaced with an analog integrator that costs Cairn Nine autonomous navigation",
+      "At 03:17, an unknown three-channel signal turns eleven frames; Nine remains under local control while the containment field fails",
+      "Pilots and station crews create unloaded service windows and physically isolate the affected command paths; the organism responds to the changed field",
+      "Ten emitters reshape the field, then Nine's integrator burns out; another recovered frame replaces it while one remains safely dark",
+      "Forty minutes after the turn, the next watch has ten working emitters and all twelve pilots accounted for; traffic remains stopped",
+      "The deep signal continues without a connected command path; medical care and Varai's relief tug remain ahead"
     ],
     "blade-calls-your-name": [
       "An old sky-iron quarry saw survives through a century of repairs in a service blade",
@@ -4308,10 +4328,12 @@
       "The lattice is physically ejected; this platform is disarmed and the wider legal outcome remains open"
     ],
     "what-she-remembered-of-peace": [
-      "Independent technicians sever Anvek’s involuntary command receiver at her request",
-      "A civilian home and repair life exist before the renewed attack",
-      "Anvek chooses a bounded use of retained military capacities as the neighbors evacuate",
-      "The residents escape, while the home burns and the wider war continues"
+      "At Anvek's request, independent technicians sever the remote coercion receiver while preserving memory and voluntary choices",
+      "Years of housing hearings, repairs and ordinary home life precede the attack on the district",
+      "A ranging burst and impact interrupt a kitchen repair; eleven residents gather while the stair proves unusable",
+      "Anvek chooses bounded use of retained capacities alongside a produce cradle, local keys, lamps, radio and residents' own knowledge",
+      "The eleven residents reach safety; Olyne and Anvek descend separately while their home burns",
+      "Thirteen people from the block reach the shelter; Anvek's damaged shoulder needs care and its lasting condition remains unknown while fighting continues"
     ],
     "there-goes-your-name": [
       "A household uses name-calls alongside whistles, dog training and ordinary shepherding",
@@ -4670,9 +4692,9 @@
       "note": "Six weeks to the Charter, seven months to the completed works; Kharost’s dragons are distinct from Varkesh’s collective god."
     },
     "kite-letters-below": {
-      "start": "The inherited account of surface abandonment",
-      "end": "Reed-and-radiator contact",
-      "note": "812 years is the station's taught interval, not a verified date of surface extinction"
+      "start": "An inherited account of surface abandonment",
+      "end": "Three observed passes and a bounded contact agreement",
+      "note": "The 812 years date what the station teaches, not independently verified extinction or continuous isolation. Living people now disprove the continuing empty-world claim, but do not establish what happened then. The next usable window is fourteen hours away; no later contact or institutional review is shown."
     },
     "the-shadow-that-nested": {
       "start": "The sunshade's unknown construction",
@@ -4691,8 +4713,8 @@
     },
     "the-first-people": {
       "start": "Roads built before the younger stellar civilizations",
-      "end": "The root burn and slow-aid launches",
-      "note": "An immense undated inheritance ends in one night; enemy occupations and separated populations remain"
+      "end": "One night of root destruction and the first slow-aid launch",
+      "note": "The road's immense age is not calibrated here. Thirty-six days is a projected journey against perhaps forty days of air, not a completed rescue. The lost network is specific: the subsequent world still has spacecraft, records, institutions and unresolved occupations."
     },
     "the-upward-rain": {
       "start": "Several undated phases of coastal work",
@@ -4866,8 +4888,8 @@
     },
     "last-watcher-of-jupiter": {
       "start": "Thirty years of containment duty",
-      "end": "A forty-minute emergency and the next watch",
-      "note": "An analog repair made eight years before the emergency leaves one frame outside the unknown signal’s command path. The staffed service continues afterward with reduced equipment; these local intervals do not date the signal or a wider civilization."
+      "end": "The next watch forty minutes after the forced turn",
+      "note": "The eight-year-old repair is one machine's history. Forty minutes reaches the watch handoff, not completed repairs or Varai's departure; her tug is fourteen minutes away. Neither interval dates the signal or measures time since the fast-road burn. Local service survives with reduced equipment."
     },
     "head-priests-in-love": {
       "start": "An established two-god harbor truce",
@@ -5148,6 +5170,26 @@
       "start": "An existing college life and the previous winter's reputation",
       "end": "One orientation morning",
       "note": "Mirelle's college history predates the couple. The three demonstrations occur before Caleb notices her numb hands during the tour. Tomorrow's requested ten-minute practical is refused, not performed. These intervals date the relationship and morning, not the age of the college or its place relative to another school."
+    },
+    "the-body-called-one": {
+      "start": "Four years inside Unit 02",
+      "end": "A rescue soon after extraction into another body",
+      "note": "The four years date Loxan's service, not the institution or foundry. Changing pursuit estimates and the unreliable support countdown are different clocks. The twenty-seven-minute archive copy, forty-second seed copy and one-minute-fifty cradle release are alternative operations, not one completed sequence."
+    },
+    "deja-vu-too-late": {
+      "start": "A baseline before the docking approach",
+      "end": "The damage ledger at 12:04 after the reprise",
+      "note": "Ninety-six seconds are missing from Kessa's restored memory, not from physical history. The displayed 9:41, 11:32 and 12:04 are elapsed minutes and seconds after restoration. The collision's complete control history remains unavailable; bodily anticipation supplies evidence, not a recovered recording or another attempt."
+    },
+    "what-she-remembered-of-peace": {
+      "start": "Years of independent civilian life",
+      "end": "A district evacuation and shelter care",
+      "note": "The earlier appeal and technical work precede this emergency. The library's eight cumulative minutes and ninety seconds of available high torque are capacity limits, not the rescue's duration or the length of the war. Twenty-two and eight seconds of torque are used in separate actions; the broader conflict has no given dates."
+    },
+    "apes-in-orbit": {
+      "start": "Earlier ballast descents and the damaged hatchery",
+      "end": "One diverted descent and a proposed three-pass trial",
+      "note": "The ninth descent supplies a local countdown, not the age of the station network. Its change follows the beacon return, but the purpose behind that change remains unproved. The next three passes are planned under abort conditions; neither lasting peace nor repaired public works is shown."
     }
   },
   "storyEvidence": {
@@ -6056,6 +6098,16 @@
       "note": "Briar's travelers need a fresh, freely given answer from outside. Cleo must remake contact for a particular sleeping neighbor, with her own play and limits intact. The living intermediaries perform different tasks; this comparison establishes no common dream route, portal, power or historical order.",
       "ordering": "none",
       "basis": "thematic"
+    },
+    {
+      "id": "local-orbits-after-fast-roads",
+      "from": "the-first-people",
+      "to": "last-watcher-of-jupiter",
+      "kind": "historical",
+      "label": "Local services after the fast roads",
+      "note": "The proposed sequence separates loss of universal fast transit from the continuing work of a planetary station. Jupiter's watch uses maintained local equipment and relief services; the story does not date them against the root burn or identify the persistent signal with that network. This is a historical possibility, not a demonstrated causal chain.",
+      "ordering": "none",
+      "basis": "proposed"
     }
   ],
   "historyThreads": [
@@ -6190,12 +6242,12 @@
         },
         {
           "cycleId": "cycle-05-divided-world-joined-sky",
-          "title": "Knowledge survives in different hands",
-          "note": "Inherited mine works and distinct regional relays still need skilled operators. Other communities lack accounts that capable cities, caravans or orbital neighbors retain. The First People's destruction of the fast stellar roads is a separate explicit rupture.",
+          "title": "A lost route does not end technical life",
+          "note": "Inherited mine works still need skilled operators while other material communities retain different knowledge. The First People's fast-road burn is one explicit transport rupture. The later proposed Jupiter watch keeps local orbital service operating with staff, repairs and finite equipment, without a known link to the burn or its signal.",
           "anchors": [
             "a-crown-for-the-endless-fire",
-            "four-crowns-in-hiding",
-            "the-first-people"
+            "the-first-people",
+            "last-watcher-of-jupiter"
           ],
           "kind": "proposed"
         },
@@ -6264,7 +6316,7 @@
         {
           "cycleId": "cycle-04-human-refoundings",
           "title": "Who controls a technical body?",
-          "note": "Routine body plans and home repair make technology personal; housing records and military commands can turn that capacity into control. Anvek has already escaped involuntary command while Loxan is still pursued. Different settlements of bodily authority overlap.",
+          "note": "Routine body plans and home repair make technology personal; housing records and military commands can turn it into control. Loxan's escape leaves another body's awareness and her own continuity unresolved. These different institutions establish no common manufacturer or universal settlement of bodily authority.",
           "anchors": [
             "the-unfixed-face",
             "rooms-before-sunrise",
@@ -6274,12 +6326,12 @@
         },
         {
           "cycleId": "cycle-05-divided-world-joined-sky",
-          "title": "A population outlives its explanation",
-          "note": "A village calls inherited strength virtue while a caravan recognizes anatomy and nutritional costs. Surface peoples also exceed old orbital classifications. New magic eventually adds a capacity without explaining or replacing these populations.",
+          "title": "Different bodies inhabit working societies",
+          "note": "A village misreads inherited strength, Anvek has secured an independent civilian life before choosing a rescue, and a surface polity maintains hatcheries and public works beneath human stations. Different explanations and rights coexist; they establish neither one ancestry nor a universal liberation or decline.",
           "anchors": [
             "the-weight-they-never-counted",
-            "apes-in-orbit",
-            "the-sky-remembers-us-return"
+            "what-she-remembered-of-peace",
+            "apes-in-orbit"
           ],
           "kind": "proposed"
         },
