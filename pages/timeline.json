@@ -76,21 +76,21 @@
         },
         {
           "id": "old-chartered-towns",
-          "title": "The chartered towns",
+          "title": "The households and working towns",
           "magicState": "old-magic",
-          "description": "Court patronage, hereditary houses and ordinary paid livelihoods meet in commercially mature towns.",
+          "description": "Paid labor, practical care and private ambitions connect wealthy households with working shops and shared public rooms.",
           "context": [
-            "Tax, rent, household service and credit connect powerful patrons to working shops.",
-            "Coaches, smoking trams, care work, theaters, restaurants and apprenticeships support lives beyond the court."
+            "Royal guarantees and household commands meet the limits of actual work. A roof still needs sound materials and willing hands; wages and wrongful dismissals remain obligations after a magical crisis ends.",
+            "Living gracework and protective perfume operate beside ordinary tools, accounts and music. The Bellweather household must preserve consent in unenchanted ink, while a hereditary club confronts survivors its official roll has erased.",
+            "Long-lived carers raise children whose lives move faster than their own. Elsewhere, friends meet over paid food and music in a town where furniture already accommodates tails. Work, pleasure and family life continue beyond the ambitions of a court."
           ],
-          "sequenceNote": "Mundane civic lives belong in this magic-active world without requiring a magical explanation. The towns are proposed regional neighbors with different rulers, institutions and local clocks.",
+          "sequenceNote": "These are proposed neighboring cultures with distinct households, institutions and populations. Their livelihoods can coexist in an older magic-active world; no common charter, species ancestry or sequence of their personal events is established.",
           "stories": [
             "the-kingdom-of-later",
             "the-shape-of-mercy",
             "the-sister-behind-her-smile",
             "a-note-of-spite",
             "golden-lion",
-            "the-courtesy-of-blades",
             "only-eighteen",
             "the-rule-between-courses"
           ],
@@ -128,13 +128,15 @@
           "description": "Qualification, teaching and working appointments shape who can practice a capacity and which communities can receive that work.",
           "context": [
             "Kethra's qualification and later teaching form a direct local history; other practitioners confront assessment, sponsorship and access to training.",
+            "Lacebridge's municipal fencing yard trains patrol workers and teachers. Fiora's accepted head-instructor post takes her upriver to East Weir; the local bout and supper leave that professional move intact.",
             "Road rotations and a seasonal shelter circuit take skilled care beyond the school. A technical annex must recognize living collaborators and provide access to its instruction."
           ],
-          "sequenceNote": "Kethra's pair stays together. The other institutions form a proposed professional horizon with distinct rules and sources of power. The Cinder Annex is placed by its educational context while its physical coordinate remains unresolved.",
+          "sequenceNote": "Kethra's pair stays together. The other institutions form a proposed professional horizon with distinct rules and sources of power. Lacebridge's ordinary training supplies no common magical system or institutional ancestry. The Cinder Annex is placed by its educational context while its physical coordinate remains unresolved.",
           "stories": [
             "fourth-house",
             "clerics-infernal-ex",
             "the-healers-measure",
+            "the-courtesy-of-blades",
             "voice-of-silence",
             "a-lock-on-the-inside",
             "the-weight-of-falling-up-rune-shoes",
@@ -502,14 +504,15 @@
       "eras": [
         {
           "id": "dark-familiar-modernity",
-          "title": "The ordinary modern island",
+          "title": "The familiar civic world",
           "magicState": "long-dark",
-          "description": "Ordinary work, care, relationships and captured civic power occupy a familiar modern world.",
+          "description": "Festivals, arts venues, cafes, schools and clinics sustain ordinary lives. Elsewhere in this proposed modern horizon, criminal households have compromised the police.",
           "context": [
-            "Cafes, festivals, arts venues, schools, transport and medicine sustain ordinary lives.",
-            "Family obligations, personal choices and captured civic power shape lives with no demonstrated active material magic."
+            "Volunteer radios and physical street closures coordinate a festival; staffing, transport deadlines and working equipment constrain an arts showcase. People make time for family and courtship alongside those shared tasks.",
+            "Cafe staff learn the limits of knowing a customer. A clinic records two people's choices in one medical chart. Familiar institutions must respond to what people actually say, rather than treat routine observations as permission.",
+            "Elspeth's criminal house depends on crews and compromised police. Forged orders turn trusted procedures against her, and stopping one raid leaves the wider city and its unsettled obligations in place. Ruth's life belongs provisionally to this modern horizon; her afterlife follows its own local services."
           ],
-          "sequenceNote": "Our ordinary modern time belongs to the Long Dark. Ruth is placed by her originating life; the afterlife station remains outside the material clock. No literal Seattle history is automatically imported.",
+          "sequenceNote": "Our ordinary modern time belongs to the Long Dark. These stories form a proposed civic horizon with no established common city, year or government. Ruth is placed by her originating life; the afterlife station remains outside the material clock. Local Seattle names do not import literal Seattle history.",
           "stories": [
             "everyone-knows-her",
             "before-she-gets-tired",
@@ -1110,28 +1113,28 @@
         "start": 17,
         "end": 55
       },
-      "note": "A rented cobbler's shop, taxation and delayed royal reimbursements expose the gap between court favor and a town's cash economy. Its living postponement working operates inside established trade and law."
+      "note": "A rented cobbler's shop relies on a royal roof guarantee while rent and taxes remain due. Withdrawing the postponed claim gives up reimbursement; a limited repair still needs paid materials, a slater's knowledge and a ropemaker's voluntary work. The living grace protects refusals without supplying those resources."
     },
     "the-shape-of-mercy": {
       "window": {
         "start": 17,
         "end": 55
       },
-      "note": "An aristocratic household rules tenants and orchards while a child conceals a desire-gift for ten years. Patronage, inheritance and ordinary records locate this history beside other households shaped by chartered authority."
+      "note": "A landed household conceals Adrian's severance gift from him for ten years after his childhood intervention against his father. The succession crisis makes informed choice and ordinary witnessed records part of his stewardship. Tenants, damaged orchards and injured relatives remain after the magical coercion ends."
     },
     "the-sister-behind-her-smile": {
       "window": {
         "start": 17,
         "end": 55
       },
-      "note": "Palace seamstresses, paid grace work and acoustic craft make appearance a professional service. Six days of suppression lead to a review two years later; this is a labor and patronage history within a wealthy court."
+      "note": "Palace seamstresses, paid gracework and acoustic craft support a wealthy household. After six days of self-suppression, Odrienne cuts her anchor as the musicians disrupt the seventh-dawn cadence that would bind it. That morning she orders a review of dismissals from the previous two years."
     },
     "a-note-of-spite": {
       "window": {
         "start": 17,
         "end": 55
       },
-      "note": "Perfume, anti-hex commodities, hired servants and drawing-room committees support a mature consumer enchantment economy. A thirty-year friendship gives the birthday crisis its local depth."
+      "note": "Protective perfume, music and household work support a consumer enchantment economy. Clorinda has rehearsed for her birthday beyond a thirty-year friendship's familiar roles. A defense against hexes cannot make Lavinia listen; the friend must choose to leave the song to its singer."
     },
     "the-second-wearing": {
       "window": {
@@ -1495,14 +1498,14 @@
         "start": 27,
         "end": 51
       },
-      "note": "Gaslit hereditary houses administer credit, votes and belonging while ordinary survivors live beyond a political purge. This mature urban household economy fits the older chartered towns; the replica cane restores remembrance, not magical or legal power."
+      "note": "Gaslit hereditary houses administer credit, votes and belonging through a male roll that has erased living survivors of a purge. Aldous's testimony recognizes the people behind a newly made replica cane while he remains on the Heron roll. Remembrance changes before the institution itself does."
     },
     "the-courtesy-of-blades": {
       "window": {
         "start": 25,
         "end": 52
       },
-      "note": "Paid instruction, patrol qualifications and a move for employment connect river towns through skilled work. This ordinary profession belongs within the older chartered urban economy rather than requiring a wholly magicless age."
+      "note": "Lacebridge's municipal yard connects teaching, patrol qualification and paid work upriver. Six months separate the recorded trial and rematch; Fiora has already accepted East Weir's head-instructor post before the farewell bout. This proposed educational horizon preserves an ordinary profession inside the older inhabited world."
     },
     "only-eighteen": {
       "window": {
@@ -1516,42 +1519,42 @@
         "start": 29,
         "end": 54
       },
-      "note": "Smoking trams, rented homes, cabinetmaking and restaurants sustain an ordinary working-city life in the proposed older chartered towns. The dinner remains a personal event, not a court or magical incident."
+      "note": "Restaurants, cabinetmaking, rented rooms and smoking trams sustain a working town with furred, tail-bearing inhabitants and furniture made for their bodies. Friends update old assumptions about one another over dinner. This proposed older-town placement establishes neither a magical faculty nor an engineered origin for its population."
     },
     "everyone-knows-her": {
       "window": {
         "start": 5,
         "end": 34
       },
-      "note": "Volunteer radio, family stalls, cars and an annual street festival build a modern city through ordinary social knowledge. It fits the Long Dark's familiar modern island without needing a hidden power."
+      "note": "An annual street festival runs through volunteer radios, timed closures, vendors and family work. The skater's apparent universal recognition comes from several ordinary sources, including prior visits and circulating descriptions. Reaching her niece also means dealing with the stall shift her sibling has covered."
     },
     "before-she-gets-tired": {
       "window": {
         "start": 5,
         "end": 34
       },
-      "note": "Buses, network payments, audio equipment and fire-code work support a community arts center. A volunteer's move toward a professional contract belongs to the ordinary civic economy of this modern horizon."
+      "note": "A community arts center depends on volunteer labor, network payments, sound equipment and transport deadlines. Beatriz has already secured her first paid contract when she schedules a date around the Friday showcase and her first contract weekend. Work and courtship continue as separate commitments in this proposed modern horizon."
     },
     "the-names-on-the-cups": {
       "window": {
         "start": 5,
         "end": 34
       },
-      "note": "Seattle's cafés, Route 49, museum work and field-guide illustration anchor an ordinary modern setting. That modern island belongs to the Long Dark, distinct from Nell and Bash's older magic-active modernity."
+      "note": "Hinge's Seattle-named locality has Route 49, museum work and field-guide illustration. Across autumn to May, staff and customers replace inferred intimacy with direct knowledge and requested choices. The Long Dark placement is proposed; local names establish no literal Seattle history or connection to the Hinge matchmaking service in another story."
     },
     "empire-within": {
       "window": {
         "start": 5,
         "end": 34
       },
-      "note": "Phones, sedans, cameras and corrupt police support an inherited criminal house inside a continuing modern city. One night's seizure of control is a local political fracture, not a civilizational collapse."
+      "note": "An incumbent criminal leader counters forged orders and a rule that makes her own voice inadmissible to her crews. Phones, surviving witnesses, armed loyalties and compromised police determine what she can stop. The failed coup and canceled raid settle one night's confrontation while the rival's claims and the wider city remain."
     },
     "the-other-twin": {
       "window": {
         "start": 5,
         "end": 34
       },
-      "note": "Modern school, transport, insurance and specialist care accommodate two heads sharing one circulation. The story establishes neither an engineered origin nor a magical faculty; unusual anatomy alone does not date a technological revolution."
+      "note": "School, transport, insurance and specialist care must recognize two people sharing a body and circulation. Separate recordings let both state their wishes before a monitored temporary treatment; follow-up and ordinary coordination remain necessary. Neither an engineered origin nor a magical faculty is established."
     },
     "the-station-between": {
       "window": {
@@ -2212,7 +2215,10 @@
       "Local route knowledge and engineering redirect the hazard before the morning market"
     ],
     "the-station-between": [
-      "Ruth dies in a familiar modern life; the station itself remains outside material dating"
+      "Asha dies years before Ruth after Ruth leaves her hospital bedside despite promising to stay",
+      "After Ruth's death, her help lets Sabine board a mismatched train; Sabine is forcibly transferred while remaining herself",
+      "Ruth lets her own paired service expire without revealing her ticket and remains stranded",
+      "She later helps a new passenger through a matching service; her own blank ticket remains unusable"
     ],
     "his-infernal-majesty-says-no": [
       "A private infernal gate opens onto a contemporary human engineering college"
@@ -2273,7 +2279,9 @@
       "Dalo and Keshen answer each other across the returned image; the first reciprocal link begins new magic"
     ],
     "golden-lion": [
-      "A new cane exposes the difference between an extinct House and its surviving people"
+      "Aldous survives a childhood purge through adoption while the lost House's surviving people disappear from its official account",
+      "At a later gathering, a newly made cane and shared family memory make him acknowledge those survivors publicly",
+      "He protects his sister's identity and remains on the Heron roll; the testimony does not restore the lost House"
     ],
     "the-name-the-water-took": [
       "A route-captain destroys the last mapped approach and submerges",
@@ -2317,7 +2325,7 @@
     ],
     "only-eighteen": [
       "An elf with almost two centuries of care experience receives six-week-old human twins",
-      "Eighteen human years pass with a different weight for their caretaker"
+      "At eighteen the twins leave for a bakery apprenticeship and theater work; their beds remain available and a performance visit is promised"
     ],
     "the-door-in-the-ivy": [
       "Clarimond escapes the coup at nine; kitchen workers later free the injured Belda, who survives in the city.",
@@ -2577,6 +2585,59 @@
       "Twenty-three days after her departure, Marzena returns while Cyrak burns. She knew the released heat would travel back through the network, but not how far.",
       "Ylva cuts the remaining hot cords as the ice road fails; Tirza acknowledges that she avoided asking what the treaty cost.",
       "The gate opens and no bride is to leave that night or at dawn. The copper tally stays outside the queen's private custody; casualties, retaliation and a lasting settlement remain unknown."
+    ],
+    "the-kingdom-of-later": [
+      "For three months the roof guarantee has moved the repair date forward at each dawn while rent and taxes remain due",
+      "The cobbler withdraws the claim permanently and obtains limited help through immediate, voluntary agreements",
+      "A material patch protects the workbench and stock; the remaining roof still needs repair"
+    ],
+    "the-shape-of-mercy": [
+      "At nine, Adrian severs his father's gift while stopping harm to Phoebe; his family then hides his own faculty from him",
+      "Ten years later, Garran brings an already-bound stormhart to the succession dinner",
+      "A narrowly chosen severance frees the stormhart; ordinary records preserve Adrian's decision across the missing memory",
+      "The next morning he accepts stewardship with explicit consent and recordkeeping terms; injuries and orchard damage remain"
+    ],
+    "the-sister-behind-her-smile": [
+      "Six days of living gracework suppress Odrienne's choices before a binding due at the seventh dawn",
+      "Felisane and the musicians help Odrienne interrupt the cadence and cut her own anchor",
+      "Before breakfast, she orders wages for the wrongly dismissed maid and a review looking back over two years"
+    ],
+    "a-note-of-spite": [
+      "Clorinda prepares a solo birthday performance through rehearsals after thirty years of friendship",
+      "The protective perfume blocks hexes; Lavinia must choose for herself to let Clorinda finish the song"
+    ],
+    "the-courtesy-of-blades": [
+      "In the earlier trial, Jasper's truthful self-call gives Fiora the deciding touch in a three-to-two win",
+      "Six months later, Fiora self-calls Jasper's deciding touch; the rematch is recorded separately from her earlier qualification",
+      "Their supper begins on the evening before her planned dawn departure for an already accepted teaching appointment"
+    ],
+    "the-rule-between-courses": [
+      "After months without a supper together, three friends bring outdated expectations to the table",
+      "They learn about changed housing plans, a relationship and the small improvements in a supposedly uneventful life"
+    ],
+    "everyone-knows-her": [
+      "Festival volunteers relay a skater's description while closing the route behind its last wheels",
+      "She leaves the skating route, reaches her niece and takes over the family stall shift her sibling has been covering"
+    ],
+    "before-she-gets-tired": [
+      "On Wednesday, Beatriz proposes Tuesday for a date, preserving Friday's showcase and Saturday's first paid call",
+      "The Friday crew handles equipment failure and cuts the program to meet real transport and closing deadlines",
+      "Tuesday's dinner takes place after Beatriz's first contract weekend"
+    ],
+    "the-names-on-the-cups": [
+      "Eleven autumn Sundays of watching become a staff chart that is later destroyed; Rae declines Nora's invitation because she is already seeing Highway",
+      "Through the following months, Nora and Claire learn each other directly while the earlier unauthorized drawings stay closed",
+      "On the first Sunday in May they agree to one date; Claire's six-week coastal assignment is still scheduled to begin in June"
+    ],
+    "the-other-twin": [
+      "At fourteen, continuing bodily changes make alternating daily choices inadequate for a shared body",
+      "After a missed winter concert, both siblings record their own wishes and confirm them at a second consultation",
+      "A February morning follows the start of monitored temporary treatment; care and coordination continue"
+    ],
+    "empire-within": [
+      "After seventy-six hours awake, Elspeth learns that forged orders and a prior continuity rule are directing her crews against a rival's children",
+      "A poolside confrontation exposes the underboss's coup; divided loyalties and the rival's daughter affect who survives",
+      "The underboss dies and the raid is canceled; the rival settles tonight while retaining his wider grievance"
     ]
   },
   "storySpans": {
@@ -2622,7 +2683,7 @@
     },
     "only-eighteen": {
       "start": "Twins arrive at six weeks",
-      "end": "Eighteen years of care",
+      "end": "The twins leave at eighteen",
       "note": "Human and elf lifespans give one interval different weight"
     },
     "the-ten-thousand-year-queen": {
@@ -2859,6 +2920,61 @@
       "start": "Fifteen years of caretaker rule",
       "end": "A minor's witnessed accession",
       "note": "The caretaker compact expires at sunset. The new regency is bounded until majority; the wider succession and the demon queen's intentions remain unknown."
+    },
+    "the-kingdom-of-later": {
+      "start": "Three months of daily roof-repair deferrals",
+      "end": "A partial repair after the claim is withdrawn",
+      "note": "The old promise and daily postponement precede the repair. Giving up reimbursement does not remove rent, material costs or the need for further work."
+    },
+    "the-shape-of-mercy": {
+      "start": "Adrian intervenes at nine",
+      "end": "The succession crisis ten years later",
+      "note": "His family conceals his faculty during the interval. The present severance is recorded before the act and witnessed afterward; the record preserves evidence without restoring the missing memory."
+    },
+    "the-sister-behind-her-smile": {
+      "start": "Six days of self-suppression",
+      "end": "The seventh-dawn binding cadence is interrupted",
+      "note": "The letters follow before breakfast that morning. Their two-year interval looks backward over dismissals to be reviewed, not forward to a later reform."
+    },
+    "a-note-of-spite": {
+      "start": "A friendship formed thirty years earlier",
+      "end": "A birthday song after months of rehearsal",
+      "note": "The friendship supplies shared habits; months of preparation with a pianist give Clorinda an ambition beyond their old duet. Lavinia must decide how to respond during the performance."
+    },
+    "golden-lion": {
+      "start": "A childhood purge and adoption",
+      "end": "A newly made cane reaches a later House gathering",
+      "note": "Living relatives carry the history omitted from the roll. The replica helps Aldous recognize a survivor; its new manufacture does not make the family memory recent."
+    },
+    "the-courtesy-of-blades": {
+      "start": "Fiora wins the earlier trial",
+      "end": "A rematch and supper six months later",
+      "note": "Her next-dawn departure and head-instructor appointment are already planned. The new result neither rewrites her qualification nor cancels her employment move."
+    },
+    "before-she-gets-tired": {
+      "start": "Wednesday: a date is proposed around existing work",
+      "end": "Tuesday: dinner after the first contract weekend",
+      "note": "Friday belongs to the showcase and Saturday to the paid call. The date follows those commitments; the story does not postpone Beatriz's career for courtship."
+    },
+    "the-names-on-the-cups": {
+      "start": "Early autumn: the Sunday routines begin",
+      "end": "First Sunday in May: one date is agreed",
+      "note": "Months of direct conversation follow Rae's refusal. Claire's six-week assignment begins in June, after the depicted agreement; the date and later relationship have not yet been shown."
+    },
+    "the-other-twin": {
+      "start": "Bodily changes at fourteen",
+      "end": "A February morning after treatment begins",
+      "note": "The winter conflict, two consultations and separate statements precede monitored temporary treatment. Its effects remain under observation while school and daily care continue."
+    },
+    "empire-within": {
+      "start": "Forged orders surface after seventy-six sleepless hours",
+      "end": "The same night: the coup fails and the raid is canceled",
+      "note": "The underboss has prepared the crews to distrust their leader's voice. His death ends the immediate attempt, while surviving people, rival claims and corrupt institutions persist."
+    },
+    "the-station-between": {
+      "start": "Asha dies years before Ruth",
+      "end": "Ruth remains after her own service expires",
+      "note": "The hospital history precedes Ruth's death. Paired trains and later arrivals use the station's local clock; they establish no elapsed interval or transport development in the material world."
     }
   },
   "storyEvidence": {
@@ -3243,8 +3359,8 @@
       "from": "thirteen-years-borrowed",
       "to": "the-station-between",
       "kind": "echo",
-      "label": "A return cannot decide for its inhabitants",
-      "note": "Thirteen Years Borrowed concerns living minds and a volunteer host relay; The Station Between concerns an encountered afterlife. Both make return a problem of whose choice can govern passage. This is a thematic parallel, not a shared mechanism or date.",
+      "label": "Another person pays for the hoped-for answer",
+      "note": "Tamaris nearly displaces Nivra while trying to reclaim a living body; Ruth helps Sabine board a mismatched train partly to test escape for herself. Both confront the cost imposed on another person by their own hope. The relay and the afterlife station retain different mechanisms and outcomes, with no shared chronology.",
       "ordering": "none",
       "basis": "thematic"
     },
@@ -3665,6 +3781,36 @@
       "kind": "echo",
       "label": "The terms of a promised future",
       "note": "Sablewake's living readers enforce a witnessed future, leaving the city without redundancy. In the Long Dark, a new climate archive offers eighteen-hour forecasts in exchange for an authorized route song carrying unproved historical blame. The comparison concerns the terms of reliance, not shared machinery, compulsion or institutional descent.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "courtship-around-working-appointments",
+      "from": "the-courtesy-of-blades",
+      "to": "before-she-gets-tired",
+      "kind": "echo",
+      "label": "Courtship makes room for an existing career",
+      "note": "Fiora's supper leaves her teaching move intact. Beatriz sets a date after the showcase and her first paid weekend. These distinct professional lives give courtship practical limits without connecting the institutions or establishing an order between the stories.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "learning-a-person-beyond-old-habits",
+      "from": "the-rule-between-courses",
+      "to": "the-names-on-the-cups",
+      "kind": "echo",
+      "label": "Learning a person beyond familiar habits",
+      "note": "Ceret must hear how her friends' lives have changed. At Hinge, observed routines and purchase histories give way to what people choose to disclose. Their shared concern is the work of knowing someone over time; no common town, population history or personal connection is established.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "the-person-behind-an-authorization",
+      "from": "the-shape-of-mercy",
+      "to": "empire-within",
+      "kind": "echo",
+      "label": "The person behind an authorization",
+      "note": "Adrian uses ordinary witnessed records to preserve his consent after a decade of family concealment. Elspeth confronts forged orders and a continuity rule that discredits her real voice. Both expose how household authority can detach an official account from the person it names, through different institutions and without a shared mechanism or lineage.",
       "ordering": "none",
       "basis": "thematic"
     }
