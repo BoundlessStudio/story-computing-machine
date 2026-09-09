@@ -241,7 +241,7 @@
       "id": "cycle-02-returning-sovereignties",
       "title": "The Returning Sovereignties",
       "eyebrow": "Gods, human governments and a public magical sky follow different fortunes.",
-      "description": "After Nell's older modernity, living gods and extraordinary capacities again shape later societies. Northbridge's concealed international aid occupies an earlier reach than schools and city skies where powers have become ordinary public knowledge. Elsewhere, divine administrations and dynasties confront the people their promises consume. Solstice's vanished circles belong to one loss within this plural world. The later Glass Sea still has living powers, technical crews and a political inheritance to repair.",
+      "description": "After Nell's older modernity, living gods and extraordinary capacities again shape later societies. Northbridge's concealed international aid occupies an earlier reach than schools and city skies where powers have become ordinary public knowledge. Elsewhere, long-lived governments transfer responsibility, harbor rites sustain passage, and royal families confront the claims made on their lives. Forests grow through older kingdoms while other inhabited places adapt their inherited works. Solstice's vanished circles belong to one loss within this plural world. The later Glass Sea still has living powers, technical crews and a political inheritance to repair.",
       "sequenceNote": "Nell's home precedes later divine rises. The hidden-to-public transition is an editorial reconstruction, with no known disclosure event or institutional descent. The Bay and Glass Sea remain ordered landmarks; neither ends all magical societies before the Ascendancy.",
       "eras": [
         {
@@ -265,19 +265,18 @@
         },
         {
           "id": "old-contested-governments",
-          "title": "The governments that promise too much",
+          "title": "The guarantees people live under",
           "magicState": "old-magic",
-          "description": "Public worship, divine judgment and forecasts make authority depend on promises that living rulers and institutions cannot fulfill indefinitely.",
+          "description": "Water, grain and everyday safety depend on long-lived institutions whose promises shape what people can decide for themselves.",
           "context": [
-            "Two dragon administrations confront different failures of rule; a harbor's priests and brief godhood show other relationships between worship and public office.",
-            "A city's predictive guarantee shapes generations of decisions before its citizens must act without the promised answer."
+            "Kharost's rulers divert public water toward private sleep; an inquiry and elected councils lead to cooling works on a separate watershed.",
+            "The Sleepless Majesty's conflicting grain judgments give way to a ninety-day bargain between farmers and importers, revised after the first measured shortfall.",
+            "Sablewake's nine living readers enforce a witnessed future at a cost to their own memories. Three centuries of guaranteed outcomes have left ordinary rescue services without reserves."
           ],
-          "sequenceNote": "These proposed regional contemporaries try different ways to live with powerful institutions. A fabricated ancestral cult, an actual collective god and distinct forecasting practices retain separate histories.",
+          "sequenceNote": "These proposed regional contemporaries have different institutions and outcomes. An invented ancestral cult ends, an actual collective god abdicates, and a binding prophecy is irreversibly broken. None of these local changes ends magic throughout the world.",
           "stories": [
             "a-crown-of-quiet-hours",
             "the-peace-they-could-sleep-through",
-            "fifty-seven-minutes",
-            "head-priests-in-love",
             "the-future-that-refused-us"
           ],
           "window": {
@@ -286,15 +285,36 @@
           }
         },
         {
+          "id": "old-waterfront-covenants",
+          "title": "The harbors of living powers",
+          "magicState": "old-magic",
+          "description": "Shipwrights, crews, harbor officers and priests work where living powers affect tides, launches and safe passage.",
+          "context": [
+            "Brackwater's two congregations maintain a shared route through rival divine jurisdictions. The priests complete its renewal while keeping their separate allegiances.",
+            "Mallowbreak's misrule rite briefly gives an ageless shipwright authority over harbor water. Imprecise commands move danger toward neighboring coves; crews, runners and an old relief gate make her return to mortality survivable.",
+            "The truce remains in force and the shipwright remains answerable to her court. Neither story ends with ordinary work or public obligations disappearing."
+          ],
+          "sequenceNote": "These are proposed maritime contemporaries with distinct ports, rites and living powers. Their relative order, trade between them and any shared ritual ancestry remain unknown. A working truce is not a failed government, and one temporary godhood is not the founding or fall of a pantheon.",
+          "stories": [
+            "head-priests-in-love",
+            "fifty-seven-minutes"
+          ],
+          "window": {
+            "start": 12,
+            "end": 39
+          }
+        },
+        {
           "id": "old-dynastic-reckonings",
           "title": "The families inside the succession",
           "magicState": "old-magic",
-          "description": "Inherited government demands a life from a person before that person has decided how to live.",
+          "description": "Royal succession, coerced marriage and return from exile place public claims inside private relationships.",
           "context": [
-            "A dying king's children confront the bodily cost of succession; another court has made daughters into an infrastructure sacrifice.",
-            "A returned queen finds other lives continued through her exile, while an unexpected heir interrupts fifteen years of vacancy."
+            "A terminally injured king's children confront a voluntary transfer of office. Their forecast reports the act without compelling it; another kingdom recognizes a minor through evidence, witnesses and a bounded regency.",
+            "A century of bridal processions supplies living bodies to a southern heat network. One bride's return exposes the cost while leaving the fire's casualties and the next political response unknown.",
+            "Clarimond retakes her capital after seventeen years, but Belda has built a household of her own. A restored crown gives the queen no claim to recover her caregiver's intervening life."
           ],
-          "sequenceNote": "These are distinct dynasties within the later political reach. Their succession crises can coexist with divine administrations; each family's loss and return belongs to its own local history.",
+          "sequenceNote": "These proposed neighbors share dynastic pressures without a common succession law, family or war. Accepting an office, interrupting a coercive treaty and returning to an occupied capital have different consequences; the stories do not establish one regional collapse or restoration.",
           "stories": [
             "a-throne-neither-wanted",
             "the-bride-who-came-back",
@@ -332,12 +352,13 @@
           "id": "old-changing-inhabited-land",
           "title": "The forests and occupied foundations",
           "magicState": "old-magic",
-          "description": "Forests, refuges and long-inhabited ground change around people whose memories outlast particular kingdoms.",
+          "description": "Living forests, old refuges and settlements occupy ground whose history exceeds their current maps and routines.",
           "context": [
-            "Royal land becomes pasture, orchard and woodland while a living forest system persists.",
-            "Old mortuary structures shelter refugees; another settlement must move when its supposedly permanent ground stirs."
+            "Reused halls, orchards and abandoned roads gradually become woodland. Newly joined roots change a living forest's reach beyond its old boundary stones.",
+            "Young refugees bring knowledge that an ancient mortuary keeper lacks. Their changing signals, her carried sensations and altered flues together turn the temple into a refuge.",
+            "A thousand years of settlement records cannot predict a moving hand. Local knowledge of water, routes and households keeps residents alive while they relocate onto the forearm."
           ],
-          "sequenceNote": "These local landscape histories overlap the functioning states. The moving colossus establishes neither divine resurrection nor a common cause for other catastrophes.",
+          "sequenceNote": "These local histories can overlap functioning states elsewhere. Woodland growth need not follow one destruction, the northern threat has no established link to the royal dragons, and the moving colossus proves neither divine resurrection nor a common cause for other catastrophes.",
           "stories": [
             "where-the-white-elk-went",
             "the-last-flames",
@@ -1068,7 +1089,7 @@
         "start": 5,
         "end": 49
       },
-      "note": "Three dynasties have turned annual bridal sacrifice into a glass-and-heat system for furnaces, baths and streets. The twenty-three-day crisis belongs to an urban resource state, not merely an early marriage custom."
+      "note": "A century of annual bridal processions conceals the use of living brides in Cyrak's furnace, bathhouse and kiln network. Marzena returns twenty-three days after leaving Iskal; this is the interval of her absence, not the duration of the return crisis. The fire's toll, any southern retaliation and a durable replacement for the treaty remain unknown."
     },
     "the-vacant-throne": {
       "window": {
@@ -1236,28 +1257,28 @@
         "start": 10,
         "end": 31
       },
-      "note": "A 218-year pacification order depends on dragon labor, hydraulic administration and worship of fabricated dead rulers. Its political redesign belongs beside long-lived governments; that worship never establishes actual godhood."
+      "note": "A 218-year order sustains real public works through twelve dragons and forty-seven royal masks. Its fabricated ancestral cult confers no godhood. After a water diversion disables fire protection, an inquiry leads to elected councils and separate public cooling works; the intended two-century sleep is not an elapsed interval."
     },
     "the-peace-they-could-sleep-through": {
       "window": {
         "start": 14,
         "end": 37
       },
-      "note": "Two centuries of roads, grain and collective divine adjudication create a government that cannot keep delegating every judgment upward. Its institutional transition parallels the other long reign without sharing its dragons or false masks."
+      "note": "Two centuries of roads, grain and collective divine adjudication leave farmers and importers appealing upward for incompatible guarantees. Their ninety-day grain bargain begins a revisable practice; the dragons surrender royal and religious authority. Godhood ends while their bodies and powers remain, independently of Kharost's false royal ancestry."
     },
     "fifty-seven-minutes": {
       "window": {
         "start": 15,
         "end": 38
       },
-      "note": "A commercial harbor's insurance, registers and court procedures meet eighty-six years of agelessness and fifty-seven minutes of actual godhood. Authority is local to this maritime crisis, not a universal new pantheon."
+      "note": "Mallowbreak's launch crews, court, harbor registers and old relief works meet eighty-six years of agelessness and fifty-seven minutes of divine office. Orselle's commands displace water toward two neighboring coves; restoring ordinary flow requires prepared timber, evacuation and surrender of her gift. Her earlier shipwright liability remains."
     },
     "head-priests-in-love": {
       "window": {
         "start": 12,
         "end": 39
       },
-      "note": "Two priests in their seventh year of cooperation perform a Brackwater rite that has survived 112 circuits. Departure and mooring rites already serve a commercial port under distinct gods and covenants."
+      "note": "Levara and Ambel are in their seventh year of shared service at Brackwater. Mooring and departure rites already support working wharves under distinct gods. They complete the truce without converting each other; their private meeting six days later is planned, and the gods' silence does not end either jurisdiction."
     },
     "saint-and-demon": {
       "window": {
@@ -1341,7 +1362,7 @@
         "start": 25,
         "end": 47
       },
-      "note": "A hydraulic city has renewed a predictive guarantee every thirty years across three centuries. Ending that local arrangement belongs with mature institutions governing through promised futures, not necessarily the world's final age."
+      "note": "For three centuries, nine living readers have renewed Sablewake's binding prophecy every thirty years, enforcing a witnessed sequence at a cost to their memories. That guarantee has displaced reserves and backup crews. Its local, irreversible breach leaves rescues and accountability unfinished; it is distinct from a forecast that merely reports an act."
     },
     "what-i-hate-most": {
       "window": {
@@ -2094,16 +2115,18 @@
       "The visit ends without supplying a complete account of the outside world."
     ],
     "a-crown-of-quiet-hours": [
-      "Twelve dragons rotate forty-seven royal masks across 218 years; the state worships its fabricated dead rulers.",
-      "Records expose the living arrangement and its failed plan for uninterrupted sleep.",
-      "The Charter retires the masks and their worship while establishing accountable councils and archives.",
-      "Separate watershed cooling works are completed so the dragons can sleep without the old royal fiction."
+      "Twelve dragons maintain forty-seven royal masks and a fabricated ancestral cult across 218 years.",
+      "A royal water diversion leaves hydrants dry during the Founding Day fire; the dragons reveal themselves and work beside human crews.",
+      "Six weeks later, a debated Charter transfers law, water, appointments and records to elected human councils.",
+      "Seven months after the fire, separate watershed cooling works are completed under public control; the dragons intend to sleep for two centuries."
     ],
     "the-peace-they-could-sleep-through": [
       "Twelve dragons govern through one worshipped living guise for two centuries, forming an actual collective god.",
-      "Contradictory grain rulings expose disagreements within the Sleepless Majesty.",
-      "Negotiation removes the collective’s sovereign authority and hidden veto; the dragons depart for a refuge.",
-      "Human parties begin deciding disputes under procedures due for review after one year."
+      "Conflicting grain judgments force farmers and importers to confront the limits of a final royal answer.",
+      "The parties make a ninety-day agreement protecting seed while retaining bounded debt repayment and opening stock and cost records.",
+      "On day seventeen, a shortfall prompts a fourteen-hour meeting and an amended release schedule.",
+      "The dragons surrender royal and religious authority and leave for a refuge; continued private worship does not preserve their godhood.",
+      "Ordinary hearings continue under recallable chairs. After one year, the districts can keep, replace or discard the procedure; that review has not yet occurred."
     ],
     "the-unfinished-sunset": [
       "Mineral panes and copper rails make a forty-three-minute solar harvest a collective village practice.",
@@ -2297,8 +2320,10 @@
       "Eighteen human years pass with a different weight for their caretaker"
     ],
     "the-door-in-the-ivy": [
-      "Seventeen years after leaving: Clarimond retakes the capital",
-      "A conversation beside a childhood door interrupts the public victory"
+      "Clarimond escapes the coup at nine; kitchen workers later free the injured Belda, who survives in the city.",
+      "During the seventeen-year separation, Belda marries and raises a stepdaughter while Clarimond builds a life abroad.",
+      "Belda sends two letters after hearing of the royal army the previous autumn; Clarimond receives neither.",
+      "At twenty-six, Clarimond retakes the capital and reunites with Belda. Belda declines a return to palace life, and they begin a relationship that makes room for their separate histories."
     ],
     "a-little-more-room": [
       "An android neighbor arrives and asks about a record",
@@ -2324,9 +2349,10 @@
       "The original injury takes effect when the support ends"
     ],
     "the-vacant-throne": [
-      "Fifteen years of vacancy approach the end of a caretaker compact",
-      "A child arrives with the dead king’s sword and remembered gestures",
-      "Recognition does not compel the child to take the throne"
+      "Fifteen years of caretaker government approach the sunset expiry of its compact after the king's death in a border war.",
+      "A minor arrives with the king's sword, the demon queen's signet and remembered gestures; the combined evidence meets a legal threshold without proving every part of their history.",
+      "The Seatkeeper accepts regency limits before the child freely marks accession. The Captain submits the garrison and relinquishes accumulated emergency authority.",
+      "A witnessed regency begins; the child keeps both inheritances. The demon queen's fate and purpose remain unknown."
     ],
     "a-darkness-written-under-skin": [
       "After twenty years believed unmarked: ultraviolet light exposes a hidden birth mark",
@@ -2397,20 +2423,24 @@
     "the-last-flames": [
       "Alexstrasza maintains mortuary procedures older than the kingdoms she can still place, carrying freely left final sensations within herself.",
       "Ygdrane dies and freely leaves flame before the refugees arrive.",
-      "Sixty-one living young dragons seek shelter from a northern catastrophe.",
-      "Alexstrasza routes the differing patterns through old gates and flues; all sixty-one survive without losing their final flame."
+      "Sixty-one living young dragons seek shelter and bring changing signals that can disrupt a northern threat's matched pitch.",
+      "The youths' varied signals, Alexstrasza's carried sensations and altered airflow disrupt the pull through the temple. All sixty-one retain their final flame.",
+      "Some youths choose to carry copied patterns to nearby rookeries; others repair Stillfire as Alexstrasza and Ceryth complete Ygdrane's burial."
     ],
     "fifty-seven-minutes": [
       "At thirty-nine, Orselle receives salt-breath and agelessness from a dying sea creature.",
-      "Eighty-six years pass; a harbor book preserves a ritual while losing a crucial instruction.",
+      "Eighty-six years pass; four years before the present launch she loses her master's seal after certifying a faulty ferry repair.",
       "The misrule rite gives her fifty-seven minutes of divine responsibility for the harbor.",
-      "She uses an old relief gate to protect neighboring coves and completes the shore-return, surrendering the gift."
+      "Her imprecise commands displace the tide toward neighboring coves; runners carry warnings while crews prepare an old relief gate.",
+      "Shore-return ends her authority and salt-breath as the prepared route admits the water. She becomes mortal without eighty-six years arriving at once.",
+      "Damage is counted, the rite book is corrected, and the ferry hearing remains scheduled; rescue has not restored her professional seal."
     ],
     "the-future-that-refused-us": [
-      "Three centuries of successful prediction make spare boats, medicine, timber and trained substitutes seem wasteful.",
-      "Six months of hidden preparation teach thousands a counter-cadence for a forty-nine-heartbeat hinge.",
-      "The covenant breaks; an untested counterweight jams and the lower ward floods.",
-      "The city counts sixty-eight dead and eleven missing, admits the concealed risk, and begins rescue through observation and shared safeguards."
+      "Three centuries of enforced forecasts make spare boats, medicine, timber and trained substitutes seem wasteful; nine living readers bear the working's memory cost.",
+      "Six months of hidden preparation teach thousands a counter-cadence for a forty-nine-heartbeat hinge, while concealing the risk to the lower ward.",
+      "During the overloaded hinge, Nilo leaves the wheel and Zadie releases an untested counterweight; it jams before the Covenant finally breaks.",
+      "The breach ends corrective pressure without undoing the flood, five reader deaths or other losses.",
+      "At Zadie's confession, sixty-eight people are counted dead, including the readers, and eleven are missing. Rescuers act on observations and safeguards while the final toll and judgment remain open."
     ],
     "what-i-hate-most": [
       "District wards, conduits and mechanical pressure signals place a city’s protection in living hands.",
@@ -2535,6 +2565,18 @@
       "A midnight broadcast predicts Olt’s death within a day, with forecasts changing as people act",
       "A survivor seeks a public confession and supplies evidence of the older crime; the Jester exploits her pursuit to steer his forecast",
       "Olt and the Jester die; Sivra uses the surviving channel to confess and request rescue, whose arrival is not shown"
+    ],
+    "head-priests-in-love": [
+      "An established harbor truce requires rival priests to share a circuit through moored and outward-flowing water.",
+      "In their seventh year together, Levara and Ambel receive competing commands to bring the other into their own god's allegiance.",
+      "They reject conversion as the condition of their relationship and plan a private meal six days later.",
+      "The completed exchange preserves both divine claims and safe passage; neither priest abandons their office."
+    ],
+    "the-bride-who-came-back": [
+      "For a century, annual bridal processions uphold a border treaty while the south binds living brides into its heat network.",
+      "Twenty-three days after her departure, Marzena returns while Cyrak burns. She knew the released heat would travel back through the network, but not how far.",
+      "Ylva cuts the remaining hot cords as the ice road fails; Tirza acknowledges that she avoided asking what the treaty cost.",
+      "The gate opens and no bride is to leave that night or at dawn. The copper tally stays outside the queen's private custody; casualties, retaliation and a lasting settlement remain unknown."
     ]
   },
   "storySpans": {
@@ -2797,6 +2839,26 @@
       "start": "Thirty years of containment duty",
       "end": "A forty-minute emergency and the next watch",
       "note": "An analog repair made eight years before the emergency leaves one frame outside the unknown signal’s command path. The staffed service continues afterward with reduced equipment; these local intervals do not date the signal or a wider civilization."
+    },
+    "head-priests-in-love": {
+      "start": "An established two-god harbor truce",
+      "end": "A seventh year of shared service",
+      "note": "One response has survived 112 circuits. The priests complete the current rite; their meal six days later is a plan, not an elapsed event."
+    },
+    "the-bride-who-came-back": {
+      "start": "A century of bridal processions",
+      "end": "Twenty-three days after departure",
+      "note": "The return exposes a coercive heat system and interrupts the next departure. The halt through dawn does not establish a permanent end to the treaty."
+    },
+    "the-door-in-the-ivy": {
+      "start": "A coup and seventeen years apart",
+      "end": "A reunion at twenty-six",
+      "note": "Belda was thirty-four at the escape and has been married for fourteen years by the reunion. Both lives continued beyond their earlier palace life."
+    },
+    "the-vacant-throne": {
+      "start": "Fifteen years of caretaker rule",
+      "end": "A minor's witnessed accession",
+      "note": "The caretaker compact expires at sunset. The new regency is bounded until majority; the wider succession and the demon queen's intentions remain unknown."
     }
   },
   "storyEvidence": {
@@ -3575,6 +3637,36 @@
       "note": "A Jovian watch follows an organism's response to pressure; a sunshade crew follows nesting animals' responses to movement. Human settlements depend on maintenance that accounts for existing life. The species, builders and control systems have separate, unresolved histories.",
       "ordering": "none",
       "basis": "thematic"
+    },
+    {
+      "id": "harbor-rights-and-working-tides",
+      "from": "head-priests-in-love",
+      "to": "fifty-seven-minutes",
+      "kind": "historical",
+      "label": "Living powers in working harbors",
+      "note": "Both ports sustain launches and passage through crews, maintained routes and bounded relationships with living powers. Brackwater renews an established two-god truce; Mallowbreak contains a temporary divine office through evacuation and physical relief works. Their proposed maritime context establishes no shared port, ritual ancestry or mutual order.",
+      "ordering": "none",
+      "basis": "proposed"
+    },
+    {
+      "id": "shared-service-separate-allegiances",
+      "from": "head-priests-in-love",
+      "to": "what-i-hate-most",
+      "kind": "echo",
+      "label": "Shared service, separate allegiances",
+      "note": "The Brackwater priests maintain passage without converting each other. Vantress's rulers establish a one-moon service compact with separate safety vetoes, keeping courtship distinct from public duty. These are different arrangements for working together; no treaty descent or common divine law is established.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "the-terms-of-a-forecast",
+      "from": "the-future-that-refused-us",
+      "to": "the-unfixed-song",
+      "kind": "echo",
+      "label": "The terms of a promised future",
+      "note": "Sablewake's living readers enforce a witnessed future, leaving the city without redundancy. In the Long Dark, a new climate archive offers eighteen-hour forecasts in exchange for an authorized route song carrying unproved historical blame. The comparison concerns the terms of reliance, not shared machinery, compulsion or institutional descent.",
+      "ordering": "none",
+      "basis": "thematic"
     }
   ],
   "historyThreads": [
@@ -3596,11 +3688,11 @@
         },
         {
           "cycleId": "cycle-02-returning-sovereignties",
-          "title": "Rule consumes its rulers and families",
-          "note": "Divine administrations promise more than they can sustain; inherited governments demand sacrifices from the families inside them. These concurrent political problems have different local answers.",
+          "title": "Authority is shared, inherited or surrendered",
+          "note": "Abdication ends the Sleepless Majesty's godhood, harbor priests preserve distinct divine jurisdictions, and a child accepts a bounded regency. These political changes have different local consequences while magic remains active.",
           "anchors": [
-            "a-crown-of-quiet-hours",
             "the-peace-they-could-sleep-through",
+            "head-priests-in-love",
             "the-vacant-throne"
           ],
           "kind": "proposed"
@@ -3676,8 +3768,9 @@
         {
           "cycleId": "cycle-02-returning-sovereignties",
           "title": "Cities rework inherited systems",
-          "note": "The Glass Sea decentralizes a damaged solar inheritance; Vantress develops a different shared service compact. Their technical crews remain part of living cities.",
+          "note": "Separate watershed works free a public water system from the royal sleep basin. In the proposed later reach, the Glass Sea decentralizes its damaged solar inheritance and Vantress develops a shared service compact. Each change depends on technical crews and specific limits on control.",
           "anchors": [
+            "a-crown-of-quiet-hours",
             "daughter-of-the-sun",
             "what-i-hate-most"
           ],
