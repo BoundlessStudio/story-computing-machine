@@ -393,7 +393,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A vigorous magical world ends; later people build and lose wonders of their own.",
-      "description": "The Ascendancy grows from armistice councils after route wars and furnace invasions, seeking to bind every root while magical cities and societies remain active. All Accounts Due ends that material capacity. After an unmeasured interval, secular engineering cultures keep cities, workshops and maritime communities working. Orison’s permanent grounding is one later technical loss; other inhabited places continue.",
+      "description": "The Ascendancy grows from armistice councils after route wars and furnace invasions, seeking to bind every root while magical cities and societies remain active. All Accounts Due ends the old magical capacity while leaving whatever ordinary matter can sustain. After an unmeasured interval, engineering cultures keep cities, workshops and maritime communities working. Orison's permanent grounding is one later technical loss; other inhabited places continue.",
       "sequenceNote": "Extinction lies inside this proposed orbit. Its remaining reaches belong to the perfectly magicless Long Dark; matter, populations and ordinary knowledge can persist. The schematic gap after extinction represents an unmeasured history rather than an immediate reconstruction generation.",
       "eras": [
         {
@@ -418,12 +418,12 @@
           "id": "dark-civic-machines",
           "title": "The working machine cities",
           "magicState": "long-dark",
-          "description": "Material cities sustain practical expertise through paid workshops, maintenance and repeated repair.",
+          "description": "Paid workshops, inspectors and civic records sustain working infrastructure; possessing the knowledge to replace a part does not ensure the work gets done.",
           "context": [
-            "Coal, steam, quarry work and speaking-wire signals organize civic labor.",
-            "A century of alloy repair and a failing municipal machine expose how technical knowledge is kept through work."
+            "Coal, steam, quarry work and speaking-wire signals organize civic labor. At North Rise, the director deferred maintenance before the disaster and later commissions a permanent rebuild.",
+            "Hearthchain's guild record describes a completed replacement where a temporary splice actually remains. Repair knowledge survives, while false attribution hides unfinished work."
           ],
-          "sequenceNote": "These are operating industrial traditions within the Long Dark. Their cities and dates are distinct; neither is a first generation after extinction.",
+          "sequenceNote": "These are proposed neighboring industrial traditions within the Long Dark. Their dates and any relationship between the workshops remain unresolved; neither is identified as a first generation after extinction.",
           "stories": [
             "the-five-minute-warranty",
             "blade-calls-your-name"
@@ -437,12 +437,12 @@
           "id": "dark-maritime-engineering",
           "title": "The inhabited machine coasts",
           "magicState": "long-dark",
-          "description": "Engineered mobile communities depend on maintained structures, weather knowledge and populations capable of living through failure.",
+          "description": "Mobile cities depend on continuing skill, collective navigation and decisions made for whole populations.",
           "context": [
-            "A sailing commonwealth keeps hulls, gardens, forges and mechanical forecasts in service.",
-            "Orison’s nuclear lift system fails irreversibly; surviving residents must leave by sea."
+            "A sailing city's newly operating forecast service requires one authoritative route song. Practical navigation becomes bound to an unproved account of an earlier loss.",
+            "Orison's nuclear lift system fails irreversibly; surviving residents must leave by sea. Its inhabited neighbors still possess working vessels."
           ],
-          "sequenceNote": "The maritime settings share a proposed technical reach, not a fleet or sea. Orison remembers human building after magic’s death; its grounding leaves other communities and technologies intact.",
+          "sequenceNote": "The shared context is maintained mobile settlement, not common machinery or an established fleet. Orison remembers human building after magic's death. Its permanent grounding is a local loss, distinct from the sailing city's new forecast capacity.",
           "stories": [
             "the-unfixed-song",
             "four-million-falling"
@@ -476,7 +476,7 @@
       "id": "cycle-04-human-refoundings",
       "title": "The Human Refoundings",
       "eyebrow": "Ordinary modernity, reconstructed antiquity and another technological height.",
-      "description": "Ordinary modern life occupies one island of the Long Dark. Later technical societies make bodily alteration and artificial persons part of daily life, but disagree over who controls those lives. Some institutions turn records into ownership and exclusion; other cities depend on shared repair across differences. Merneith's infrastructure empire and military control of bodies show further concentrations of power, alongside continuing civilian orbital work.",
+      "description": "Ordinary modern life occupies one island of the Long Dark. Later technical societies make bodily alteration and artificial persons part of daily life, but disagree over who controls those lives. City records govern access to housing and work, while shared repair keeps different communities connected. Merneith builds an empire through utilities and costly political bargains. Elsewhere, workers and former military bodies contest the reach of command. Freight and skilled watch crews sustain inhabited orbits, where machinery must also account for existing nonhuman life.",
       "sequenceNote": "These proposed histories overlap rather than form a ladder from a kind society to an oppressive one. Modernity and the Queen's reconstruction share one orbital interval; the ten-thousand-year antiquity and sixty-year rise remain local spans. Advanced capacity and unequal access coexist.",
       "eras": [
         {
@@ -566,17 +566,17 @@
         },
         {
           "id": "dark-planetary-states",
-          "title": "The planetary infrastructure states",
+          "title": "The New Egyptian Empire",
           "magicState": "long-dark",
-          "description": "States extend their authority through continental utilities and orbital engineering.",
+          "description": "Merneith's linked water, energy and weather systems grow into an empire whose shared protections make both membership and departure consequential.",
           "context": [
-            "Reconstructed ancient identities become a new political project rather than restored ancient minds.",
-            "Water, energy, weather satellites and defended ground stations give public authority material reach."
+            "Adults reconstructed from ancient DNA choose new lives without recovering pharaonic memories. Merneith turns an imposed museum identity into a political project.",
+            "Engineers, councils, shared courts and military protection sustain the expanding network. A coast that votes to leave waits nineteen months beyond its agreed departure while a separate shield lattice is built.",
+            "After sixty years, four people in five live within the empire. Reconstructed relatives retain lives and ambitions that their public royal roles cannot settle."
           ],
-          "sequenceNote": "Merneith’s sixty-year rise is explicit; her ancient sources have their own dates. The other orbital-defense state is a contextual neighbor, not an identified successor government.",
+          "sequenceNote": "The ten-thousand-year antiquity and sixty-year imperial rise are local spans. Their proposed position does not date an ancient civilization against our ordinary modern island. Neighboring technical histories are not established provinces, successors or products of Merneith's empire.",
           "stories": [
-            "the-ten-thousand-year-queen",
-            "terms-at-four"
+            "the-ten-thousand-year-queen"
           ],
           "window": {
             "start": 32,
@@ -584,18 +584,37 @@
           }
         },
         {
-          "id": "dark-ground-orbit-workers",
-          "title": "The ground and orbital working world",
+          "id": "dark-military-command",
+          "title": "The reach of military command",
           "magicState": "long-dark",
-          "description": "Military and civilian institutions use bodies, neural systems and maintained orbital structures in the same broad technical reach.",
+          "description": "Military systems reach into civilian work, homes and embodied lives, while courts, technicians and fugitives establish different limits on that control.",
           "context": [
-            "Civilian repair lives remain entangled with military overrides and an abandoned orbital foundry.",
-            "Paid tug crews, refinery cargo and inhabited defense stations still require bounded experiments and practical maintenance."
+            "One government's armed platform becomes leverage in a confrontation over detained maintenance workers and six hostages. Disarmament requires verifiable physical breaks and a court record.",
+            "Anvek already has voluntary control after technicians severed her remote receiver; renewed war threatens the civilian life she helped build.",
+            "Loxan escapes a Directorate that still pursues her. A ruined foundry conceals an active archive and recovery system, preserving a local institution's power inside apparently discarded infrastructure."
           ],
-          "sequenceNote": "The military and civilian histories overlap by proposal. Their technologies and commands are distinct; an abandoned foundry does not mean all orbital civilization has ended.",
+          "sequenceNote": "These proposed neighboring histories share military uses of technical capacity. A shared government, war or legal settlement is not established. They overlap civilian body cultures and orbital work without establishing a common campaign or a single transition from captivity to freedom.",
           "stories": [
+            "terms-at-four",
             "what-she-remembered-of-peace",
-            "the-body-called-one",
+            "the-body-called-one"
+          ],
+          "window": {
+            "start": 49,
+            "end": 96
+          }
+        },
+        {
+          "id": "dark-ground-orbit-workers",
+          "title": "The orbital settlements at work",
+          "magicState": "long-dark",
+          "description": "Freight crews and long-serving watch teams sustain inhabited orbital settlements through paid labor, maintenance and bounded technical decisions.",
+          "context": [
+            "A tug carries refinery membranes under delivery and lease obligations. One pilot's restored neural baseline leaves lost cargo, bodily injuries and everyone else's memories in the continuing world.",
+            "For thirty years, a staffed Jovian watch has kept a living electroplasma organism below inhabited orbit. The crisis ends with all twelve pilots safe and ten working emitters, leaving no spare capacity."
+          ],
+          "sequenceNote": "The precise relationship between these proposed working orbital societies is unresolved. Freight contracts and a long containment watch establish different ongoing institutions. A neural baseline and a containment correlator serve different purposes; neither establishes a common military program. The watch continues after its emergency, while the ancient sunshade in the later reconstruction has an unknown construction history.",
+          "stories": [
             "deja-vu-too-late",
             "last-watcher-of-jupiter"
           ],
@@ -1369,7 +1388,7 @@
         "start": 34,
         "end": 58
       },
-      "note": "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop. Neglected maintenance becomes a rescue and a permanent repair contract; the story shows functioning industry rather than a lost technology."
+      "note": "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop. Replacement manufacture remains possible despite deferred maintenance. The rescue is completed and a permanent rebuild commissioned; the inquiry, rebuilding and financial consequences lie beyond the story."
     },
     "the-ordinary-slime": {
       "window": {
@@ -1383,7 +1402,7 @@
         "start": 39,
         "end": 65
       },
-      "note": "A cliff city's guilds preserve a century of chain maintenance through wages, records and diagnostic tools. A falsely attributed six-year repair is corrected within an active technical tradition."
+      "note": "Hearthchain preserves a century of maintenance through skilled work and diagnostic tools. A temporary splice remains for six years because its replacement was falsely recorded as complete. Correcting attribution enables the immediate repair, while future maintenance and judgment remain separate obligations."
     },
     "four-crowns-in-hiding": {
       "window": {
@@ -1530,7 +1549,7 @@
         "start": 54,
         "end": 80
       },
-      "note": "Orbital defense targeting, civilian trackers, courts and executive authority make engineering part of an active state's reach. The domestic crisis belongs to this planetary institutional context, rather than to a generic category of unusual bodies."
+      "note": "An armed orbital platform, detained workers, six hostages and a high court define one state's reach. Destroying the key and ejecting the lattice disarm that platform; retrieval would take months. Its proposed context is military authority and civilian recourse. The story does not establish the continental utility network or imperial jurisdiction shown in Merneith's history."
     },
     "the-mercy-circuit": {
       "window": {
@@ -1607,21 +1626,21 @@
         "start": 55,
         "end": 82
       },
-      "note": "Independent technicians and legal appeal have freed a former military body from remote override. Years of civilian repair work precede renewed war; local rescue uses both ordinary equipment and bounded surviving combat capacities."
+      "note": "At Anvek's request, independent technicians have severed the receiver that enabled involuntary command. Her civilian life precedes renewed war; she chooses to use bounded retained combat capacities alongside ordinary rescue equipment. This is not a restored remote override or a common liberation history with Loxan."
     },
     "the-body-called-one": {
       "window": {
         "start": 59,
         "end": 88
       },
-      "note": "An active military exploits embodied personas while an abandoned orbital foundry still holds recoverable infrastructure. The rescue joins the political economy of commanded bodies to orbital history; the two are not separate stages of technological development."
+      "note": "A Directorate pursues Loxan through the active systems of a supposedly decommissioned annex inside a ruined foundry. She recovers pilot addresses without their keys, escapes with a preserved body and requests medical help for both of them. The origin of her active mind and the other body's awareness remain unresolved; the rescue does not free every pilot."
     },
     "last-watcher-of-jupiter": {
       "window": {
         "start": 62,
         "end": 95
       },
-      "note": "A maintained Jovian station and its long-lived defense machines belong to the proposed active ground-and-orbit technical reach. Thirty years of watch and a bounded crisis establish operational history, not the abandonment of orbital civilization."
+      "note": "Thirteen thousand station residents depend on a staffed containment watch and its maintenance crews. Thirty years of service and an eight-year-old analog repair precede a forty-minute emergency. The pilots restore a working watch with no spare emitters; the deep signal's origin and the organism's intelligence remain unknown."
     },
     "the-room-that-waited": {
       "window": {
@@ -1663,7 +1682,7 @@
         "start": 40,
         "end": 70
       },
-      "note": "A mobile maritime city maintains hulls, forges, gardens, relay colors and physical soundings while testing a mechanical climate archive against conflicting inherited accounts. It is proposed beside other engineered mobile communities; its fleet is not Orison’s rescuers or successor."
+      "note": "A sailing city maintains hulls, gardens, forges and physical soundings while a new climate archive begins operating. Forecast access requires one authorized route song, including blame that current measurements cannot prove. This is an expansion of service with a historical cost, placed provisionally beside another maintained mobile city."
     },
     "laughing-clouds": {
       "window": {
@@ -2452,6 +2471,24 @@
       "Damage from both armies reveals the road the bird has actually been protecting.",
       "At first direct dawn light, one chosen enlargement lasts nine minutes and leaves wounds and cold.",
       "The survivors give care and leave together; no army acquires command of the bird."
+    ],
+    "the-unfixed-song": [
+      "A climate archive has been speaking for three days while navigators retain competing route songs",
+      "Fresh soundings guide the present route but cannot settle who ordered an earlier loss",
+      "Mazhira authorizes one complete song to obtain eighteen-hour forecasts and teaches its unproved accusation",
+      "The other elder continues practical sounding work while refusing to teach the authorized record"
+    ],
+    "terms-at-four": [
+      "Five maintenance workers are detained after refusing the final arming sequence",
+      "A former project engineer takes six hostages to force access to counsel and the original court filings",
+      "A witnessed sequence secures counsel, destroys the targeting key, files the originals and releases the hostages",
+      "The lattice is physically ejected; this platform is disarmed and the wider legal outcome remains open"
+    ],
+    "what-she-remembered-of-peace": [
+      "Independent technicians sever Anvek’s involuntary command receiver at her request",
+      "A civilian home and repair life exist before the renewed attack",
+      "Anvek chooses a bounded use of retained military capacities as the neighbors evacuate",
+      "The residents escape, while the home burns and the wider war continues"
     ]
   },
   "storySpans": {
@@ -2709,6 +2746,11 @@
       "start": "An armorer first meets the rooster",
       "end": "A shared retreat seven years later",
       "note": "The seven-year repair history is explicit. It dates neither the armor's construction nor the beginning of the bird's independent mission."
+    },
+    "last-watcher-of-jupiter": {
+      "start": "Thirty years of containment duty",
+      "end": "A forty-minute emergency and the next watch",
+      "note": "An analog repair made eight years before the emergency leaves one frame outside the unknown signal’s command path. The staffed service continues afterward with reduced equipment; these local intervals do not date the signal or a wider civilization."
     }
   },
   "storyEvidence": {
@@ -3262,11 +3304,11 @@
       "id": "ground-orbit-statecraft",
       "from": "the-ten-thousand-year-queen",
       "to": "terms-at-four",
-      "kind": "historical",
-      "label": "Government reaches into orbit",
-      "note": "Water and energy utilities, satellites and orbital control link political authority to a planetary engineering economy. The two states may share a broad technical horizon; no dynasty, succession or common government is established.",
+      "kind": "echo",
+      "label": "The political reach of orbital machinery",
+      "note": "Merneith's water and weather systems make political departure costly. Another government's armed platform becomes leverage over detention and court access. Physical control affects public authority at different territorial scales; a shared state or supply network is not established.",
       "ordering": "none",
-      "basis": "proposed"
+      "basis": "thematic"
     },
     {
       "id": "road-customs-and-fresh-replies",
@@ -3304,7 +3346,7 @@
       "to": "deja-vu-too-late",
       "kind": "historical",
       "label": "Civilian work beside the military sky",
-      "note": "An abandoned military foundry and actively paid tug crews belong to a proposed overlapping orbital economy. Neural systems, repair and embodied lives supply a concrete technical context; neither a common station, manufacturer nor army is established.",
+      "note": "A ruined military foundry's active archive and paid tug crews occupy a proposed overlapping technical reach. Both use embodied neural systems under material limits. A shared trading network, military history or manufacturer is not established.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -3467,6 +3509,26 @@
       "note": "Rasden changes what self-mending practice preserves; Pelmara develops a different capacity after an old gift is withdrawn. Repetition and bodily experience expose incomplete descriptions in distinct ways. Cultivated is provisional terminology for Pelmara's case, not a diagnosis imposed on Rasden.",
       "ordering": "none",
       "basis": "thematic"
+    },
+    {
+      "id": "command-after-service",
+      "from": "what-she-remembered-of-peace",
+      "to": "the-body-called-one",
+      "kind": "echo",
+      "label": "Freedom after military use",
+      "note": "Anvek chooses to use retained combat capacities after technicians have severed remote coercion. Loxan is still pursued through a working recovery system. These are different histories of individual freedom, without an established shared war or liberation movement.",
+      "ordering": "none",
+      "basis": "thematic"
+    },
+    {
+      "id": "orbital-work-and-nonhuman-life",
+      "from": "last-watcher-of-jupiter",
+      "to": "the-shadow-that-nested",
+      "kind": "echo",
+      "label": "The sky has other inhabitants",
+      "note": "A Jovian watch follows an organism's response to pressure; a sunshade crew follows nesting animals' responses to movement. Human settlements depend on maintenance that accounts for existing life. The species, builders and control systems have separate, unresolved histories.",
+      "ordering": "none",
+      "basis": "thematic"
     }
   ],
   "historyThreads": [
@@ -3510,7 +3572,7 @@
         {
           "cycleId": "cycle-04-human-refoundings",
           "title": "Power is built in matter",
-          "note": "Perfect zero leaves rulers dependent on material institutions. Reconstructed royal identities and continental utilities support a new imperial rise without restored ancient minds.",
+          "note": "Perfect zero leaves rulers dependent on material institutions. Merneith's utilities support an empire, while a different state's armed platform and courts become the instruments of a local confrontation. Ancient royal identities supply public meaning without restored minds or divine power.",
           "anchors": [
             "the-ten-thousand-year-queen",
             "terms-at-four"
@@ -3672,7 +3734,7 @@
         {
           "cycleId": "cycle-04-human-refoundings",
           "title": "Who controls a technical body?",
-          "note": "Routine body plans and home repair make technology personal; housing records and military commands can make a living body an institutional possession. These different regimes overlap.",
+          "note": "Routine body plans and home repair make technology personal; housing records and military commands can turn that capacity into control. Anvek has already escaped involuntary command while Loxan is still pursued. Different settlements of bodily authority overlap.",
           "anchors": [
             "the-unfixed-face",
             "rooms-before-sunrise",
@@ -3744,10 +3806,11 @@
         },
         {
           "cycleId": "cycle-03-extinction-human-works",
-          "title": "A break becomes civic memory",
-          "note": "Orison turns magic's death into a founding image and maintains incomplete inherited diagrams. Agrarian finders in another proposed reach cannot interpret a silo. Surviving knowledge outside either setting remains open.",
+          "title": "History becomes working knowledge",
+          "note": "Orison makes magic's death a founding image. A sailing city gains forecasts by authorizing a disputed inherited account. Agrarian finders elsewhere cannot interpret a silo. Practical usefulness, accepted history and surviving understanding diverge within this proposed reach.",
           "anchors": [
             "four-million-falling",
+            "the-unfixed-song",
             "the-room-that-waited"
           ],
           "kind": "proposed"
