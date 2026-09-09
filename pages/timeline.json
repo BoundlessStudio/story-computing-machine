@@ -5,7 +5,7 @@
       "id": "cycle-01-older-inhabited-world",
       "title": "The Older Inhabited World",
       "eyebrow": "Earlier powers, practiced institutions, and the generations before Nell.",
-      "description": "The chosen sequence begins with older territorial powers and long-lived local obligations, then moves through public offices, household economies and established teaching. Isolated practitioners and privately retained workings carry different pieces of that history into an ordinary-looking modern reach. Nell and Bash's low-magic home is its final fixed landmark; their destination in Ravel keeps its unresolved place.",
+      "description": "The chosen older sequence contains territorial powers and long-lived local obligations, public offices, household economies and established teaching. These are already inhabited societies with their own prior generations, not beginnings assigned by the presence of dragons, elves or crowns. Isolated practitioners and privately retained workings lead into an ordinary-looking modern reach. Nell and Bash's low-magic home is its final fixed landmark; Ravel keeps its unresolved place.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -30,10 +30,10 @@
           "id": "event-the-gentlest-terror",
           "title": "The Gentlest Terror",
           "magicState": "old-magic",
-          "description": "Dragon watch, rescue and nesting rights already form an old service compact.",
+          "description": "An old alliance order and a recent royal death → The accession, flood rescue and resumed convocation.",
           "context": [
-            "Dragon watch, rescue and nesting rights already form an old service compact. A succession crisis tests mature institutions; the king's death is recent, while the founding obligation is much older.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "Ersene already has an old alliance law, noble houses, quarry works, maintained watersheds and dragons with centuries of experience. Three weeks after King Ambric's death, a witnessed refusal and flood crisis test that existing order. The retained older position concerns this established territorial society, not the first appearance of dragons, monarchy or public service.",
+            "The king's three-week absence is distinct from the much older institutions and dragons' lives. No global founding date is established. Injury care and House Flint's ordinary judgment remain consequences beyond the witnessed crisis."
           ],
           "sequenceNote": "Proposed after When the Eagle Bowed and before Mother of Monsters. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -179,31 +179,13 @@
             "Arveth refuses a grain seizure, then traps her own village while trying to divert the pursuing patrol. Twenty outside years and remembered repetitions of forty-three minutes expose the cost of her choice inside a collective agricultural working.",
             "Twenty years outside; repeated experience within one forty-three-minute sunset."
           ],
-          "sequenceNote": "Proposed after One Night's Mercy and before The Strength of Ten. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after One Night's Mercy and before The Lion's Last Constellation. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-unfinished-sunset"
           ],
           "window": {
             "start": 22.58,
             "end": 23.7
-          }
-        },
-        {
-          "id": "event-strength-of-ten",
-          "title": "The Strength of Ten",
-          "magicState": "old-magic",
-          "description": "The military demand → The columns’ return.",
-          "context": [
-            "An established old-magical history of lock tolls, grain depots and military roads. Sigrun's command is capped at twenty days; the compact assigns one-third of lock tolls to wages, injured households, roads and displaced villages for seven years.",
-            "The deployment is explicitly before extinction; the kingdom’s larger date is unknown."
-          ],
-          "sequenceNote": "Proposed after The Unfinished Sunset and before The Lion's Last Constellation. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "strength-of-ten"
-          ],
-          "window": {
-            "start": 24.82,
-            "end": 25.94
           }
         },
         {
@@ -215,7 +197,7 @@
             "Nemea's council requires a witness for a seven-light deed but excludes that witness from heroic participation. A failing spring makes protection urgent; Myrine and Kletho survive by departing from the authorized heroic account. This is one civic arrangement for public power, not a generic origin of magical girls.",
             "A failed spring makes the remaining watercourse a public necessity; a dangerous lion drives its carriers away. A council witness must name visible actions, while authorized praise wastes one of seven lights. Myrine and Kletho fight together; the final hold continues after its magical support expires. Their joint account challenges what the council will credit, without establishing an enacted reform."
           ],
-          "sequenceNote": "Proposed after The Strength of Ten and before Late for Dinner. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Unfinished Sunset and before Late for Dinner. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-lions-last-constellation"
           ],
@@ -287,49 +269,13 @@
             "Municipal assessors, guilds, insurance and permits regulate a clay worker's craft. After ten years of Gifted practice ends, Pelmara's different adult-developed capacity receives a ten-day limited license under the provisional description Cultivated. One case does not establish a universally adopted fourth category or a source shared with other stories.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after The First Call and before The Gentleman with the Golden Lion. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The First Call and before The Witchknight’s Measure. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "fourth-house"
           ],
           "window": {
             "start": 36.01,
             "end": 37.13
-          }
-        },
-        {
-          "id": "event-golden-lion",
-          "title": "The Gentleman with the Golden Lion",
-          "magicState": "old-magic",
-          "description": "A childhood purge and adoption → A newly made cane reaches a later House gathering.",
-          "context": [
-            "Gaslit hereditary houses administer credit, votes and belonging through a male roll that has erased living survivors of a purge. Aldous's testimony recognizes the people behind a newly made replica cane while he remains on the Heron roll. Remembrance changes before the institution itself does.",
-            "Living relatives carry the history omitted from the roll. The replica helps Aldous recognize a survivor; its new manufacture does not make the family memory recent."
-          ],
-          "sequenceNote": "Proposed after The Fourth House and before All the Good Things. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "golden-lion"
-          ],
-          "window": {
-            "start": 38.25,
-            "end": 39.37
-          }
-        },
-        {
-          "id": "event-the-rule-between-courses",
-          "title": "All the Good Things",
-          "magicState": "old-magic",
-          "description": "After months without a supper together, three friends bring outdated expectations to the table",
-          "context": [
-            "Restaurants, cabinetmaking, rented rooms and smoking trams sustain a working town with furred, tail-bearing inhabitants and furniture made for their bodies. Friends update old assumptions about one another over dinner. This proposed older-town placement establishes neither a magical faculty nor an engineered origin for its population.",
-            "After months without a supper together, three friends bring outdated expectations to the table They learn about changed housing plans, a relationship and the small improvements in a supposedly uneventful life"
-          ],
-          "sequenceNote": "Proposed after The Gentleman with the Golden Lion and before The Witchknight’s Measure. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "the-rule-between-courses"
-          ],
-          "window": {
-            "start": 40.49,
-            "end": 41.61
           }
         },
         {
@@ -341,7 +287,7 @@
             "Fees, sponsorship, service terms and a twenty-seven-month capstone lead into road rotations and recurring training. Formal education feeds an itinerant public-health profession.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after All the Good Things and before The One Who Helped Everyone. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Fourth House and before The One Who Helped Everyone. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-healers-measure"
           ],
@@ -359,31 +305,13 @@
             "A mountain village's mill, cistern and road depend on many accumulated living favors. Visiting certified surveyors connect that rural network to a wider professional culture; the village is not simply an earlier stage than the city.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after The Witchknight’s Measure and before The Kingdom of Later. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Witchknight’s Measure and before The Shape of Mercy. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-villages-only-mage"
           ],
           "window": {
             "start": 44.96,
             "end": 46.08
-          }
-        },
-        {
-          "id": "event-the-kingdom-of-later",
-          "title": "The Kingdom of Later",
-          "magicState": "old-magic",
-          "description": "Three months of daily roof-repair deferrals → A partial repair after the claim is withdrawn.",
-          "context": [
-            "A rented cobbler's shop relies on a royal roof guarantee while rent and taxes remain due. Withdrawing the postponed claim gives up reimbursement; a limited repair still needs paid materials, a slater's knowledge and a ropemaker's voluntary work. The living grace protects refusals without supplying those resources.",
-            "The old promise and daily postponement precede the repair. Giving up reimbursement does not remove rent, material costs or the need for further work."
-          ],
-          "sequenceNote": "Proposed after The One Who Helped Everyone and before The Shape of Mercy. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "the-kingdom-of-later"
-          ],
-          "window": {
-            "start": 47.2,
-            "end": 48.32
           }
         },
         {
@@ -395,7 +323,7 @@
             "A landed household conceals Adrian's severance gift from him for ten years after his childhood intervention against his father. The succession crisis makes informed choice and ordinary witnessed records part of his stewardship. Tenants, damaged orchards and injured relatives remain after the magical coercion ends.",
             "His family conceals his faculty during the interval. The present severance is recorded before the act and witnessed afterward; the record preserves evidence without restoring the missing memory."
           ],
-          "sequenceNote": "Proposed after The Kingdom of Later and before The Sister Behind Her Smile. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The One Who Helped Everyone and before The Sister Behind Her Smile. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-shape-of-mercy"
           ],
@@ -555,8 +483,8 @@
           "magicState": "old-magic",
           "description": "Twins arrive at six weeks → The twins leave at eighteen.",
           "context": [
-            "A long-lived childcare professional watches human twins grow from six weeks to eighteen amid wages, coaches, bakery apprenticeships and theater work. That ordinary care economy fits the older commercial road world; elf physiology establishes no global magic state.",
-            "Human and elf lifespans give one interval different weight"
+            "A professional caregiver with almost two centuries of experience raises her first human twins from six weeks to eighteen within working households, coach routes, wage labor, bakery training and theater. Those services continue as the twins choose their own work. The older placement is retained as one possible inhabited period; neither elf physiology nor the absence of a depicted spell supplies a date or population origin.",
+            "Almost two centuries of earlier care precede these eighteen human years; that career is not the age of this home or of the whole society. The twins' departure is witnessed, while a later performance visit remains a promise."
           ],
           "sequenceNote": "Proposed after The Friends I Built and before A Crown in the Bargain. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1267,9 +1195,27 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The later old-magical reach contains established hired services, doorway work, commercial crossings and bodily abilities embedded in ordinary infrastructure. All Accounts Due then ends the old material magic. An unmeasured interval separates it from the Long Dark's courts and working cities. Surveillance, maritime engineering, Orison's fall and a much later encounter with a forgotten arsenal belong to separate histories within the zero.",
+      "description": "The proposed later old-magical reach includes kingdoms dependent on depot networks, paid expertise, doorway work, commercial crossings and bodily abilities embedded in ordinary infrastructure. All Accounts Due then ends the old material magic. Unmeasured intervals separate that boundary from ordinary courts, hereditary House institutions and working cities during the zero. Surveillance, maritime engineering, Orison's fall and an encounter with a forgotten arsenal have separate local histories; they are not one uninterrupted ascent or one empire.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
+        {
+          "id": "event-strength-of-ten",
+          "title": "The Strength of Ten",
+          "magicState": "old-magic",
+          "description": "Demobilization and warnings before the compact → The first columns return before day twenty.",
+          "context": [
+            "Placed in the later old-magical reach, where established civil offices and supply networks constrain a ruler's personal power. Sigrun's authority depends on six depots, twelve captains and seven reeves; Gorm's costly six-heartbeat exertion cannot replace their work. The campaign is explicitly before extinction, but its position after the earlier kingdoms and Glass-Sea era is a proposal, not a known date or political lineage.",
+            "A six-day threat, five-day march and two days of enemy probes belong to one local campaign. Seven years describes the agreed toll commitment, not time elapsed by the ending. The campaign must precede extinction; its position among other old-magical societies remains proposed."
+          ],
+          "sequenceNote": "Proposed before Where It Hurts. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "stories": [
+            "strength-of-ten"
+          ],
+          "window": {
+            "start": 0.5,
+            "end": 1.9
+          }
+        },
         {
           "id": "event-where-it-hurts",
           "title": "Where It Hurts",
@@ -1279,7 +1225,7 @@
             "Proposed before extinction in a later age of publicly known magical work. The hiring fair, expedition contracts and advertised nonlethal weapon establish an operating economy, not the discovery of a new power. The four-year partnership and independently planned departure precede the afternoon's injury. Its order against the other later old-magical stories remains a reconstruction.",
             "The partnership has lasted four years. A room is arranged the preceding week and the ticket bought that morning, before the bout. The injury may ease over days, but no exact recovery, completed departure or reconciliation is witnessed."
           ],
-          "sequenceNote": "The first proposed event in this cycle, before A Little Winter for Sale. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Strength of Ten and before A Little Winter for Sale. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "where-it-hurts"
           ],
@@ -1387,13 +1333,31 @@
             "Proposed among the Long Dark's earlier human polities. Belisar's power operates through treaty articles, guards, correspondence and a winter levy; the witnessed conflict needs no active magical mechanism. This is a separate imperial history from Merneith's much later reconstruction. Its founding and distance from extinction are unknown; the six-month suspension is a local legal interval.",
             "The evening's thirty-six-minute estimate narrows as the guard round approaches. The papers cross before accreditation expires; the next morning starts a six-month legal suspension. The later hearing is not shown."
           ],
-          "sequenceNote": "Proposed after All Accounts Due and before The Five-Minute Warranty. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after All Accounts Due and before The Gentleman with the Golden Lion. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-walls-are-thick-enough"
           ],
           "window": {
             "start": 49.3,
             "end": 50.7
+          }
+        },
+        {
+          "id": "event-golden-lion",
+          "title": "The Gentleman with the Golden Lion",
+          "magicState": "long-dark",
+          "description": "A childhood purge and adoption → A newly made cane reaches a later House gathering.",
+          "context": [
+            "Placed provisionally in a Long Dark urban society whose hereditary Houses administer credit, votes and burial through ordinary records. A childhood purge still shapes the living generation; a new cane prompts testimony without magical authentication or restoration of the lost House. These material institutions can exercise power during the zero. An old-magical-era setting is still possible; gaslight and noble dress alone do not decide the date.",
+            "Aldous's childhood removal, fifty-three years carrying a cane, forty-six Hall gatherings and the replica's eleven weeks are separate measures. Living people preserve what the institutional roll excludes. Their testimony changes this evening without restoring the House or dating the surrounding civilization."
+          ],
+          "sequenceNote": "Proposed after The Walls Are Thick Enough and before The Five-Minute Warranty. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "stories": [
+            "golden-lion"
+          ],
+          "window": {
+            "start": 53.2,
+            "end": 54.6
           }
         },
         {
@@ -1405,7 +1369,7 @@
             "Coal, steam, quarry work and speaking-wire signals sustain a paid civic workshop. Replacement manufacture remains possible despite deferred maintenance. The rescue is completed and a permanent rebuild commissioned; the inquiry, rebuilding and financial consequences lie beyond the story.",
             "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
           ],
-          "sequenceNote": "Proposed after The Walls Are Thick Enough and before The Blade Calls Your Name. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Gentleman with the Golden Lion and before The Blade Calls Your Name. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-five-minute-warranty"
           ],
@@ -1510,7 +1474,7 @@
       "id": "cycle-04-human-refoundings",
       "title": "The Human Refoundings",
       "eyebrow": "Ordinary modernity and later material civilizations.",
-      "description": "A wholly magicless modern interval is followed in the reconstruction by further technical societies. Home invention, implants, reconstructed antiquity, artificial persons, body revision and inhabited cities occupy their own positions. Orbital command, civilian freight and later fighting overlap different institutional histories. The selected sequence does not give every region one technology level or turn military power into the origin of all civilian work.",
+      "description": "A wholly magicless modern interval is followed in the reconstruction by further material societies. An ordinary tram town with different bodies has its own position among home invention, implants, reconstructed antiquity, artificial persons, body revision and inhabited cities. These populations and services do not share an established origin. Orbital command, civilian freight and later fighting overlap different institutional histories; technical capacities vary by place and field.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1545,13 +1509,31 @@
             "Proposed after the ordinary-modern interval and before the later body-revision societies in this selected material history. The couple builds a bounded electromagnetic attraction with limited lift, range and power; neither spouse is established as an android or a modified person. Their marriage and remembered earlier ride supply local years, not a shared calendar with another inventor.",
             "The couple are twenty-eight and twenty-six on the earlier date, thirty-eight and thirty-six now. Marriage begins two years after that date; months of workshop preparation precede this one evening."
           ],
-          "sequenceNote": "Proposed after The Station Between and before The Mercy Circuit. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The ordinary modern interval and before All the Good Things. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "sakura-hearted"
           ],
           "window": {
             "start": 31.98,
             "end": 33.38
+          }
+        },
+        {
+          "id": "event-the-rule-between-courses",
+          "title": "All the Good Things",
+          "magicState": "long-dark",
+          "description": "Months of separately changing lives → One evening of catching up.",
+          "context": [
+            "Placed provisionally in a later material modernity: smoking trams, rented rooms, workshops, restaurants and music sustain ordinary working lives. Furniture routinely accommodates the inhabitants' furred, tail-bearing bodies. No active magic is needed by the events shown; the population's origin is unknown, so this Long Dark placement asserts neither magical ancestry nor descent from a named body-modification technology.",
+            "Four-autumn-old intentions, a relationship underway since late winter and a room viewed that afternoon enter the same conversation. These local intervals do not identify a shared calendar, city or ancestry with any other modern story."
+          ],
+          "sequenceNote": "Proposed after Sakura-Hearted and before The Mercy Circuit. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "stories": [
+            "the-rule-between-courses"
+          ],
+          "window": {
+            "start": 34.5,
+            "end": 35.9
           }
         },
         {
@@ -1563,7 +1545,7 @@
             "Proposed before the later placements of routine whole-body revision and military embodiment. This working market already supports implants, prosthetic service, certified components and specialist salvage tools. Serren is a salvage worker. The repair receives a certificate for one capped shift; parts availability, paid labor and the following dawn's job remain real limits. No common manufacturer or city is established.",
             "The certificate is signed forty-eight minutes after the opening clock. The matched assembly is three days away; the dawn cut and remaining payment are not shown. One-shift approval is not a permanent repair warranty for unrestricted use."
           ],
-          "sequenceNote": "Proposed after Sakura-Hearted and before The Queen After Ten Thousand Years. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after All the Good Things and before The Queen After Ten Thousand Years. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-mercy-circuit"
           ],
@@ -2514,7 +2496,7 @@
       "id": "cycle-07-later-refoundings",
       "title": "The Later Refoundings",
       "eyebrow": "Later kingdoms, long inhabited lives, and a disputed deep past.",
-      "description": "A later new-magical world contains campaign veterans and functioning kingdoms as well as bodily professions, public works and sophisticated investigations of the past. Local lives carry their own spans: a victory six weeks before one household story, years of managing a curse, much older memories and inhabited structures. The Salt Crucible does not found these societies. Kettlebridge arrives in a receiving society whose excavators and heritage authorities already have generations of history; its much earlier departure remains unplaced.",
+      "description": "Later post-return societies include campaign veterans, functioning kingdoms and mature royal service bureaucracies alongside bodily professions, public works and investigations of the past. Local spans remain distinct: a victory six weeks before one household story, three months of deferred repair in another polity, years of managing a curse and much older memories. Neither Dabria's victory nor the Salt Crucible founds these other societies. Kettlebridge arrives among institutions with generations of prior excavation; its much earlier departure remains unplaced.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2544,13 +2526,31 @@
             "Proposed in the later new-magical history as a separate kingdom after an established campaign. The old campaign hands have six years with Dabria behind them; the story does not date the entire war. The opening is six weeks after victory, and the main change concerns how former companions live afterward. A later heroic kingdom can coexist with technical cities. No old dragon lineage or connection to the Salt Crucible is established.",
             "The opening is six weeks after victory. Six days of games lead to the seventh-night crisis, followed by two days of door repairs and a gathering on the third evening. The old campaign hands' six years with Dabria do not establish the duration of the entire war. These intervals belong to one household's local aftermath."
           ],
-          "sequenceNote": "Proposed after Thirteen Years Borrowed and before A Darkness Written Under Skin. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after Thirteen Years Borrowed and before The Kingdom of Later. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "the-kingdom-was-the-easy-part"
           ],
           "window": {
             "start": 10.85,
             "end": 12.25
+          }
+        },
+        {
+          "id": "event-the-kingdom-of-later",
+          "title": "The Kingdom of Later",
+          "magicState": "new-magic",
+          "description": "Three months of daily roof-repair deferrals → A partial repair after the claim is withdrawn.",
+          "context": [
+            "Placed provisionally among later post-return polities, after government and trade have had time to develop elaborate service obligations. The crown offers roof guarantees while collecting current taxes and rent; paid specialists and limited materials remain necessary. One living fairy enforces the local grace without being able to judge abuse or compel repair. This later placement treats it as a new-era practice, not a surviving terminal root or a sequel to Dabria's kingdom; its actual origin and era remain unknown.",
+            "The old promise and daily postponement precede the repair. Giving up reimbursement does not remove rent, material costs or the need for further work."
+          ],
+          "sequenceNote": "Proposed after The Kingdom Was the Easy Part and before A Darkness Written Under Skin. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "stories": [
+            "the-kingdom-of-later"
+          ],
+          "window": {
+            "start": 15.1,
+            "end": 16.5
           }
         },
         {
@@ -2562,7 +2562,7 @@
             "This society expects every newborn to carry a faculty-bearing mark and offers paid artificial grafts. Family dye work and the stigma of apparent absence shape a twenty-year case and six years of refusal. Its distinct hereditary expectations differ from both selective hero professions and eighteenth-year transformation; their lineage remains unestablished.",
             "After twenty years believed unmarked: ultraviolet light exposes a hidden birth mark The graft is withheld pending consultation; a form records the concern without disclosing the ultraviolet finding"
           ],
-          "sequenceNote": "Proposed after The Kingdom Was the Easy Part and before The Seventh Night. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after The Kingdom of Later and before The Seventh Night. These neighboring positions are a reconstruction, not an established succession or measured interval.",
           "stories": [
             "a-darkness-written-under-skin"
           ],
@@ -2801,14 +2801,14 @@
         "start": 4.68,
         "end": 5.8
       },
-      "note": "Dragon watch, rescue and nesting rights already form an old service compact. A succession crisis tests mature institutions; the king's death is recent, while the founding obligation is much older."
+      "note": "Ersene already has an old alliance law, noble houses, quarry works, maintained watersheds and dragons with centuries of experience. Three weeks after King Ambric's death, a witnessed refusal and flood crisis test that existing order. The retained older position concerns this established territorial society, not the first appearance of dragons, monarchy or public service."
     },
     "strength-of-ten": {
       "window": {
-        "start": 24.82,
-        "end": 25.94
+        "start": 0.5,
+        "end": 1.9
       },
-      "note": "An established old-magical history of lock tolls, grain depots and military roads. Sigrun's command is capped at twenty days; the compact assigns one-third of lock tolls to wages, injured households, roads and displaced villages for seven years."
+      "note": "Placed in the later old-magical reach, where established civil offices and supply networks constrain a ruler's personal power. Sigrun's authority depends on six depots, twelve captains and seven reeves; Gorm's costly six-heartbeat exertion cannot replace their work. The campaign is explicitly before extinction, but its position after the earlier kingdoms and Glass-Sea era is a proposal, not a known date or political lineage."
     },
     "the-bride-who-came-back": {
       "window": {
@@ -2833,10 +2833,10 @@
     },
     "the-kingdom-of-later": {
       "window": {
-        "start": 47.2,
-        "end": 48.32
+        "start": 15.1,
+        "end": 16.5
       },
-      "note": "A rented cobbler's shop relies on a royal roof guarantee while rent and taxes remain due. Withdrawing the postponed claim gives up reimbursement; a limited repair still needs paid materials, a slater's knowledge and a ropemaker's voluntary work. The living grace protects refusals without supplying those resources."
+      "note": "Placed provisionally among later post-return polities, after government and trade have had time to develop elaborate service obligations. The crown offers roof guarantees while collecting current taxes and rent; paid specialists and limited materials remain necessary. One living fairy enforces the local grace without being able to judge abuse or compel repair. This later placement treats it as a new-era practice, not a surviving terminal root or a sequel to Dabria's kingdom; its actual origin and era remain unknown."
     },
     "the-shape-of-mercy": {
       "window": {
@@ -3218,10 +3218,10 @@
     },
     "golden-lion": {
       "window": {
-        "start": 38.25,
-        "end": 39.37
+        "start": 53.2,
+        "end": 54.6
       },
-      "note": "Gaslit hereditary houses administer credit, votes and belonging through a male roll that has erased living survivors of a purge. Aldous's testimony recognizes the people behind a newly made replica cane while he remains on the Heron roll. Remembrance changes before the institution itself does."
+      "note": "Placed provisionally in a Long Dark urban society whose hereditary Houses administer credit, votes and burial through ordinary records. A childhood purge still shapes the living generation; a new cane prompts testimony without magical authentication or restoration of the lost House. These material institutions can exercise power during the zero. An old-magical-era setting is still possible; gaslight and noble dress alone do not decide the date."
     },
     "the-courtesy-of-blades": {
       "window": {
@@ -3235,14 +3235,14 @@
         "start": 71.82,
         "end": 72.94
       },
-      "note": "A long-lived childcare professional watches human twins grow from six weeks to eighteen amid wages, coaches, bakery apprenticeships and theater work. That ordinary care economy fits the older commercial road world; elf physiology establishes no global magic state."
+      "note": "A professional caregiver with almost two centuries of experience raises her first human twins from six weeks to eighteen within working households, coach routes, wage labor, bakery training and theater. Those services continue as the twins choose their own work. The older placement is retained as one possible inhabited period; neither elf physiology nor the absence of a depicted spell supplies a date or population origin."
     },
     "the-rule-between-courses": {
       "window": {
-        "start": 40.49,
-        "end": 41.61
+        "start": 34.5,
+        "end": 35.9
       },
-      "note": "Restaurants, cabinetmaking, rented rooms and smoking trams sustain a working town with furred, tail-bearing inhabitants and furniture made for their bodies. Friends update old assumptions about one another over dinner. This proposed older-town placement establishes neither a magical faculty nor an engineered origin for its population."
+      "note": "Placed provisionally in a later material modernity: smoking trams, rented rooms, workshops, restaurants and music sustain ordinary working lives. Furniture routinely accommodates the inhabitants' furred, tail-bearing bodies. No active magic is needed by the events shown; the population's origin is unknown, so this Long Dark placement asserts neither magical ancestry nor descent from a named body-modification technology."
     },
     "everyone-knows-her": {
       "window": {
@@ -4019,9 +4019,11 @@
       "Dalo and Keshen answer each other across the returned image; the first reciprocal link begins new magic"
     ],
     "golden-lion": [
-      "Aldous survives a childhood purge through adoption while the lost House's surviving people disappear from its official account",
-      "At a later gathering, a newly made cane and shared family memory make him acknowledge those survivors publicly",
-      "He protects his sister's identity and remains on the Heron roll; the testimony does not restore the lost House"
+      "At seven, Aldous is removed from House Lion and raised under another name. Adult condemnations, property forfeiture and a male-only roll erase the recognized House without proving every relative dead.",
+      "He carries his Heron cane for fifty-three years and attends forty-six gatherings at Menagerie Hall; those are different personal intervals within an existing House system.",
+      "Rafe brings an eleven-week-old replica based on his grandmother's private drawing. Its new manufacture and an old remembered mistake authenticate different things.",
+      "Aldous publicly recognizes his surviving elder sister while withholding her name and address. The testimony does not restore House Lion or secure institutional agreement.",
+      "Rafe leaves with the cane. Aldous is counted with House Heron; no subsequent reunion with his sister or reform of the roll is shown."
     ],
     "the-name-the-water-took": [
       "A route-captain destroys the last mapped approach and submerges",
@@ -4034,9 +4036,12 @@
       "Before midnight: four bounded medicinal allocations"
     ],
     "strength-of-ten": [
-      "The capital faces a six-day military threat while six depots and lock tolls sustain its army.",
-      "A five-day deployment reaches Ninepin under a twenty-day compact.",
-      "Before the twentieth day, northern columns begin returning."
+      "After demobilizing thirteen hundred seasonal soldiers, Lysander discounts warnings; Greyglass is betrayed and Redwater faces a six-day advance with only its remaining watch and riders.",
+      "Gorm's one six-heartbeat exertion is followed by severe cold and impaired movement. Sigrun refuses marriage, and the existing depot, captain and reeve system prevents an instant replacement of her command.",
+      "The compact commits sixteen hundred soldiers and two hundred and forty support workers, a twenty-day command limit and one-third of lock tolls for seven years. It forbids foraging and gives representatives defined refusal powers.",
+      "Six depots, a verified detour, day-four carts and replacement horses bring staged columns to Ninepin on the fifth night. A broken axle and fodder shortage cost real time and resources.",
+      "Civilians and scouts clear before the culverts open. A jammed gate costs one watch member's life; sustained supply and terrain hold the road through two days of enemy probes.",
+      "Black Reed retreats toward occupied Greyglass. Before day twenty the northern return begins; fifteen defenders are dead and the toll fund has begun paying costs. The tribunal, succession and any answer to Lysander's permitted letter remain ahead."
     ],
     "the-foundations-remember": [
       "Haru has maintained Line Zero for nineteen years. He reports leaving a gauge nine days before collection; his site report precedes collection by six days and dismissal by six hours",
@@ -4066,8 +4071,10 @@
       "The charge is exhausted; material consequences have not rewound"
     ],
     "only-eighteen": [
-      "An elf with almost two centuries of care experience receives six-week-old human twins",
-      "At eighteen the twins leave for a bakery apprenticeship and theater work; their beds remain available and a performance visit is promised"
+      "Ceveth has almost two centuries of professional care experience before the home hires her for her first human babies, who arrive at six weeks.",
+      "At five, nine and fourteen the twins grow through lessons, play, changing tastes and work while Ceveth's body changes little. A tale learned 160 years earlier carries a much older, variable memory into their childhood.",
+      "At eighteen they choose a bakery apprenticeship and theater work. Wages, travel and living arrangements have been considered; their beds remain available if they return.",
+      "The coach leaves with both twins. Ceveth promises to visit when Romy has a performance date, but that visit and the twins' new careers are not yet shown."
     ],
     "the-door-in-the-ivy": [
       "Clarimond escapes the coup at nine; kitchen workers later free the injured Belda, who survives in the city.",
@@ -4363,8 +4370,10 @@
       "Their supper begins on the evening before her planned dawn departure for an already accepted teaching appointment"
     ],
     "the-rule-between-courses": [
-      "After months without a supper together, three friends bring outdated expectations to the table",
-      "They learn about changed housing plans, a relationship and the small improvements in a supposedly uneventful life"
+      "The friends have met in pairs since spring but have not shared a supper for months. Mezzara's former plan to go north belongs four autumns earlier, not to her present intentions.",
+      "An afternoon room viewing, an existing relationship since late winter and small household changes precede the dinner independently of Ceret's knowledge.",
+      "During the meal they correct memories, listen to music and make room for different food choices and ambitions in an already functioning town.",
+      "A future introduction is welcomed and a possible room is arranged with cups on the table. Neither the move nor that later supper has yet occurred."
     ],
     "everyone-knows-her": [
       "Festival volunteers relay a skater's description while closing the route behind its last wheels",
@@ -4517,6 +4526,13 @@
       "Before an earlier guard round and the notary's expiring safe-conduct, a sealed petition and original witness register leave the palace.",
       "At dawn, the petition suspends the disputed winter levy for six months while Tazri remains confined and Mireth loses her appointment.",
       "The tribunal and its judgment are still future events; delay has been obtained, not release or an annulment."
+    ],
+    "the-gentlest-terror": [
+      "Ersene's paired service law and maintained waterworks precede the succession. King Ambric has been dead three weeks, leaving his old alliance focus inert.",
+      "Mossback refuses House Flint's renewal after an illegal quarry cut threatens his nest. A courier then reports the flood; the refusal is witnessed and the old focus ceases to carry either partner's call.",
+      "Olyra suspends Flint's title and asks Nyrzath for a new alliance that he can refuse. Their fresh focus precedes the journey to the quarry; her final royal confirmation is still contingent.",
+      "The rescue uses a human-width sluice passage, maintained Cress cisterns and costly dragon labor. Nyrzath's wing is badly injured while the clutch and villages survive.",
+      "Mossback refuses Flint again before sunset. The convocation resumes around the injured dragon and confirms Olyra; the Dread Passage ends. Ordinary judgment, repair duties and care do not disappear with the successful rescue."
     ]
   },
   "storySpans": {
@@ -4563,7 +4579,7 @@
     "only-eighteen": {
       "start": "Twins arrive at six weeks",
       "end": "The twins leave at eighteen",
-      "note": "Human and elf lifespans give one interval different weight"
+      "note": "Almost two centuries of earlier care precede these eighteen human years; that career is not the age of this home or of the whole society. The twins' departure is witnessed, while a later performance visit remains a promise."
     },
     "the-ten-thousand-year-queen": {
       "start": "Ancient genetic sources",
@@ -4716,9 +4732,9 @@
       "note": "The Array was built 302 years before the confrontation; Faris accumulates the relics over thirty-one years. Neither interval is a construction duration. The six ended roots are not universal origins for every earlier magic."
     },
     "strength-of-ten": {
-      "start": "The military demand",
-      "end": "The columns’ return",
-      "note": "The deployment is explicitly before extinction; the kingdom’s larger date is unknown."
+      "start": "Demobilization and warnings before the compact",
+      "end": "The first columns return before day twenty",
+      "note": "A six-day threat, five-day march and two days of enemy probes belong to one local campaign. Seven years describes the agreed toll commitment, not time elapsed by the ending. The campaign must precede extinction; its position among other old-magical societies remains proposed."
     },
     "the-weight-they-never-counted": {
       "start": "Freight adaptations in earlier hill populations",
@@ -4823,7 +4839,7 @@
     "golden-lion": {
       "start": "A childhood purge and adoption",
       "end": "A newly made cane reaches a later House gathering",
-      "note": "Living relatives carry the history omitted from the roll. The replica helps Aldous recognize a survivor; its new manufacture does not make the family memory recent."
+      "note": "Aldous's childhood removal, fifty-three years carrying a cane, forty-six Hall gatherings and the replica's eleven weeks are separate measures. Living people preserve what the institutional roll excludes. Their testimony changes this evening without restoring the House or dating the surrounding civilization."
     },
     "the-courtesy-of-blades": {
       "start": "Fiora wins the earlier trial",
@@ -4999,6 +5015,16 @@
       "start": "Four months of imperial marriage",
       "end": "The first day of a six-month suspension",
       "note": "The evening's thirty-six-minute estimate narrows as the guard round approaches. The papers cross before accreditation expires; the next morning starts a six-month legal suspension. The later hearing is not shown."
+    },
+    "the-gentlest-terror": {
+      "start": "An old alliance order and a recent royal death",
+      "end": "The accession, flood rescue and resumed convocation",
+      "note": "The king's three-week absence is distinct from the much older institutions and dragons' lives. No global founding date is established. Injury care and House Flint's ordinary judgment remain consequences beyond the witnessed crisis."
+    },
+    "the-rule-between-courses": {
+      "start": "Months of separately changing lives",
+      "end": "One evening of catching up",
+      "note": "Four-autumn-old intentions, a relationship underway since late winter and a room viewed that afternoon enter the same conversation. These local intervals do not identify a shared calendar, city or ancestry with any other modern story."
     }
   },
   "storyEvidence": {
@@ -5574,7 +5600,7 @@
       "to": "a-crown-in-the-bargain",
       "kind": "historical",
       "label": "Royal power depends on paid public work",
-      "note": "In the selected older history, Sigrun's compact precedes Tareya's separate bargain. Command, toll revenue, wages, grain and repair make royal authority dependent on people outside it in both cases. This is a proposed recurrence of negotiated service, not a common crown, law or established institutional lineage.",
+      "note": "Across two proposed old-magical ages, Sigrun's compact and Tareya's separate bargain make royal authority depend on work, supply and payment beyond the ruler. This comparison establishes no mutual order, common crown, law or institutional lineage; the selected event positions remain separate from the recurrence.",
       "ordering": "none",
       "basis": "proposed"
     },
@@ -5918,9 +5944,9 @@
         {
           "cycleId": "cycle-01-older-inhabited-world",
           "title": "A crown meets another will",
-          "note": "Older crowns bargain with living powers and existing local obligations. A ruler's ambition does not establish one origin for the region's inhabitants, and the proposed histories of later empires recur after different breaks.",
+          "note": "Ersene's existing alliances distribute watch, rescue, nesting care and watershed work between freely choosing partners. Another court bargains over marriage and service. These institutions already have histories; they establish neither one original monarchy nor a common dragon or divine lineage.",
           "anchors": [
-            "strength-of-ten",
+            "the-gentlest-terror",
             "a-crown-in-the-bargain"
           ],
           "kind": "proposed"
@@ -5938,11 +5964,12 @@
         },
         {
           "cycleId": "cycle-03-extinction-human-works",
-          "title": "The old divine power ends",
-          "note": "The Ascendancy grows from armistice councils into universal compulsion. All Accounts Due ends old magic, and Orison later celebrates human engineering after magic’s death.",
+          "title": "Institutions across the extinction",
+          "note": "Ninepin's proposed late-old campaign depends on depots and public offices while a ruler's personal magic remains active. The terminal extinction later ends all old material magical capacity. A separate House society exercises authority through ordinary records and inherited status during the proposed zero-era reach; it is not established as Ninepin's successor.",
           "anchors": [
+            "strength-of-ten",
             "all-accounts-due",
-            "four-million-falling"
+            "golden-lion"
           ],
           "kind": "proposed"
         },
@@ -5979,8 +6006,9 @@
         {
           "cycleId": "cycle-07-later-refoundings",
           "title": "Divinity meets practical work",
-          "note": "A bounded death god participates in civic labor while a practitioner examines an older sanctuary’s claim to godhood. Their different authority remains open to ordinary consequences.",
+          "note": "A later royal service bureaucracy can delay work despite a living fairy's protections. A bounded death god participates in civic labor, while a practitioner examines an older sanctuary's claim to godhood. These are distinct institutions with local capabilities, not evidence of one restored old order.",
           "anchors": [
+            "the-kingdom-of-later",
             "deaths-patron",
             "anatomy-of-a-god"
           ],
