@@ -323,31 +323,13 @@
             "Midsky Cloister, ridge roads, grain traffic and a busy pilgrim crossing exist before Rasden's discovery. An interrupted self-mend lets completed living effort become his new bodily baseline; separate practice develops strength, speed and stamina. This individual history fits the selected older active world without dating the origin of healing, establishing a common school with other stories or promising the same results to everyone. The bridge's failure comes from spring melt in the gorge, independently of his training.",
             "The first afternoon supplies twelve counted falls and the following season develops separate kinds of practice. The thousandth is an achievement count, not elapsed years; dawn was the plan that the earlier rescue overtook."
           ],
-          "sequenceNote": "Proposed after A Note of Spite and before The Courtesy of Blades. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Proposed after A Note of Spite and before Kethra's qualification and later teaching. The latter stories share their own established sequence; their relationship to this fall remains reconstruction, not a measured interval.",
           "stories": [
             "the-thousandth-fall"
           ],
           "window": {
             "start": 56.15,
             "end": 57.27
-          }
-        },
-        {
-          "id": "event-the-courtesy-of-blades",
-          "title": "The Courtesy of Blades",
-          "magicState": "old-magic",
-          "description": "Fiora wins the earlier trial → A rematch and supper six months later.",
-          "context": [
-            "Lacebridge's municipal yard connects teaching, patrol qualification and paid work upriver. Six months separate the recorded trial and rematch; Fiora has already accepted East Weir's head-instructor post before the farewell bout. This proposed educational horizon preserves an ordinary profession inside the older inhabited world.",
-            "Her next-dawn departure and head-instructor appointment are already planned. The new result neither rewrites her qualification nor cancels her employment move."
-          ],
-          "sequenceNote": "Proposed after The Thousandth Fall and before The Voice of Silence. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "the-courtesy-of-blades"
-          ],
-          "window": {
-            "start": 58.39,
-            "end": 59.51
           }
         },
         {
@@ -1069,7 +1051,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. Kharost's proposed later placement joins this period through existing water administration and the completed transfer to public control; its horizon may overlap several independent services. Cira's instrument trade, Queen Street's clinical services and Luz's household maintenance occupy another proposed overlapping urban period. Their repairs, records and paid labor remain necessary around distinct living abilities. These prior histories do not form one civilization or shared reform. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, optical civic records, working cities, surveillance and maritime systems occupy different material settings. Avarnth's marriage and relief agreements depend on law, labor and supplies. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
+      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. Kharost's proposed later placement joins this period through existing water administration and the completed transfer to public control; its horizon may overlap several independent services. Cira's instrument trade, Queen Street's clinical services and Luz's household maintenance occupy another proposed overlapping urban period. Their repairs, records and paid labor remain necessary around distinct living abilities. These prior histories do not form one civilization or shared reform. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, civic training, optical records, working cities, surveillance and maritime systems occupy different material settings. Lacebridge's river patrol and paid teaching belong to an operating town economy; its possible horizon overlaps the House gathering, Avarnth's legal agreements and the workshop histories. Their distinct institutions supply no common government or succession. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1297,13 +1279,31 @@
             "Placed provisionally in a Long Dark urban society whose hereditary Houses administer credit, votes and burial through ordinary records. A childhood purge still shapes the living generation; a new cane prompts testimony without magical authentication or restoration of the lost House. These material institutions can exercise power during the zero. An old-magical-era setting is still possible; gaslight and noble dress alone do not decide the date.",
             "Aldous's childhood removal, fifty-three years carrying a cane, forty-six Hall gatherings and the replica's eleven weeks are separate measures. Living people preserve what the institutional roll excludes. Their testimony changes this evening without restoring the House or dating the surrounding civilization."
           ],
-          "sequenceNote": "Proposed after The Walls Are Thick Enough and before A Crown in the Bargain. These neighboring positions are a reconstruction, not an established succession or measured interval.",
+          "sequenceNote": "The selected House gathering may overlap Lacebridge's civic training. Avarnth and the workshop histories occupy later selected positions. These are independent material institutions with different forms of membership and authority; no shared polity or measured mutual order is established.",
           "stories": [
             "golden-lion"
           ],
           "window": {
             "start": 53.2,
             "end": 54.6
+          }
+        },
+        {
+          "id": "event-the-courtesy-of-blades",
+          "title": "The Courtesy of Blades",
+          "magicState": "long-dark",
+          "description": "Fiora wins the earlier trial → A rematch and supper six months later.",
+          "context": [
+            "Selected within the Long Dark's civic history, Lacebridge already supports a municipal blade yard, a river patrol, equipment inspection and paid teaching upriver at East Weir. Public qualification, written records and hired travel operate through ordinary means. These institutions fit the proposed material period of independently governed towns, courts and workshops; their possible overlap does not establish a common river, government or calendar. Six months separate the trial and rematch, and Fiora's accepted appointment precedes the farewell bout. An active-magical era remains possible, but none is required by the established practices.",
+            "Her next-dawn departure and head-instructor appointment are already planned. The new result neither rewrites her qualification nor cancels her employment move."
+          ],
+          "sequenceNote": "The selected material interval may overlap the House gathering, Avarnth's treaty registration and the North Rise and Hearthchain workshop histories. Each community already has its own working institutions. Their mutual dates and regional connections remain unestablished; the six-month interval belongs only to Fiora and Jasper's two bouts.",
+          "stories": [
+            "the-courtesy-of-blades"
+          ],
+          "window": {
+            "start": 53.2,
+            "end": 66.37
           }
         },
         {
@@ -3242,10 +3242,10 @@
     },
     "the-courtesy-of-blades": {
       "window": {
-        "start": 58.39,
-        "end": 59.51
+        "start": 53.2,
+        "end": 66.37
       },
-      "note": "Lacebridge's municipal yard connects teaching, patrol qualification and paid work upriver. Six months separate the recorded trial and rematch; Fiora has already accepted East Weir's head-instructor post before the farewell bout. This proposed educational horizon preserves an ordinary profession inside the older inhabited world."
+      "note": "Selected within the Long Dark's civic history, Lacebridge already supports a municipal blade yard, a river patrol, equipment inspection and paid teaching upriver at East Weir. Public qualification, written records and hired travel operate through ordinary means. These institutions fit the proposed material period of independently governed towns, courts and workshops; their possible overlap does not establish a common river, government or calendar. Six months separate the trial and rematch, and Fiora's accepted appointment precedes the farewell bout. An active-magical era remains possible, but none is required by the established practices."
     },
     "only-eighteen": {
       "window": {
@@ -6684,7 +6684,7 @@
         {
           "cycleId": "cycle-03-extinction-human-works",
           "title": "Authority before and after extinction",
-          "note": "Ninepin's campaign depends on depots and public offices while its ruler's magic remains active. Kharost's separate capital later transfers law and water to human councils in the reconstruction; this is a local reform, with no divine office to extinguish. All Accounts Due ends old material magic after an unmeasured interval. In the selected zero-era reach, Avarnth's optical registry and funded relief operate through matter and law. These governments have no established succession.",
+          "note": "Ninepin's campaign depends on depots and public offices while its ruler's magic remains active. Kharost's separate capital later transfers law and water to human councils in the reconstruction; this is a local reform, with no divine office to extinguish. All Accounts Due ends old material magic after an unmeasured interval. In the selected zero-era reach, Lacebridge's public qualification and river patrol coexist provisionally with courts such as Avarnth, whose optical registry and funded relief operate through matter and law. These institutions have no established common jurisdiction or succession.",
           "anchors": [
             "strength-of-ten",
             "all-accounts-due",
