@@ -1069,7 +1069,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. Kharost's proposed later placement joins this period through existing water administration and the completed transfer to public control; its horizon may overlap several independent services. Their prior histories do not form one civilization or shared reform. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, optical civic records, working cities, surveillance and maritime systems occupy different material settings. Avarnth's marriage and relief agreements depend on law, labor and supplies. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
+      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. Kharost's proposed later placement joins this period through existing water administration and the completed transfer to public control; its horizon may overlap several independent services. Cira's instrument trade, Queen Street's clinical services and Luz's household maintenance occupy another proposed overlapping urban period. Their repairs, records and paid labor remain necessary around distinct living abilities. These prior histories do not form one civilization or shared reform. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, courts, hereditary Houses, optical civic records, working cities, surveillance and maritime systems occupy different material settings. Avarnth's marriage and relief agreements depend on law, labor and supplies. Orison's technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1204,16 +1204,34 @@
           "magicState": "old-magic",
           "description": "The timed Queen Street entry → The dealer at the clinic.",
           "context": [
-            "Queen Street already supports licensed witnesses, paid runners, medical records and screened clinical care around a living crossing. These established services support the selected later old-magical context, but do not date it before extinction. An active-magical setting is required; the retained pre-extinction position is a reconstruction. Deepmarket's coordinates and any relationship to the six ended systems remain unknown. One transfusion helps Lena, and the dealer's arrival leaves the confrontation unresolved.",
+            "Queen Street already supports licensed witnesses, paid runners, medical records and screened clinical care around a living crossing. These established services support the selected later old-magical context, but do not date it before extinction. An active-magical setting is required; the retained pre-extinction position is a reconstruction. Deepmarket's coordinates and any relationship to the six ended systems remain unknown. One transfusion helps Lena, and the dealer's arrival leaves the confrontation unresolved. Its selected urban horizon may overlap the repair-trade and apartment histories without identifying their cities.",
             "One marked return window contains the crossing and theft. The following clinic treatment helps Lena but does not cure her. The stolen token's follow trail has been used; further treatment and the confrontation remain unresolved."
           ],
-          "sequenceNote": "Proposed after The Door Knows Home and before Life with a Girlfriend with Shrinking Powers. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Its selected late old-magical window may overlap Cira's instrument-repair economy and Miles and Luz's apartment maintenance. These independent services supply a proposed urban context, not a shared city, crossing system or known mutual order. Deepmarket's coordinates remain unresolved.",
           "stories": [
             "realms"
           ],
           "window": {
             "start": 25.8,
-            "end": 27.2
+            "end": 35.03
+          }
+        },
+        {
+          "id": "event-where-sleep-takes-you",
+          "title": "Where Sleep Takes You",
+          "magicState": "old-magic",
+          "description": "A closed shop's accumulated obligations → Clearance and a continuing inventory.",
+          "context": [
+            "Cira's former instrument-repair shop belongs to a city with calibrated standards, client-property obligations, GPS, building access staff and hired transport. Its proposed later old-magical position may overlap Queen Street's licensed services and Miles and Luz's apartment maintenance. These are compatible working economies with ordinary technical labor already in place; no shared city, employer or actual supply relationship is established. Her sleep-triggered displacement requires active magic but does not date it on either side of extinction or identify a named old root. The earlier placement is a reconstruction.",
+            "Tracking and remote authorization help after displacement; they do not select the next landing. Cira retains decision-making authority while still making a costly error from a blurred label. The clearance leaves fees, lost equipment, an unresolved sleeve and further client work."
+          ],
+          "sequenceNote": "Selected in an overlapping late old-magical urban period with Realms and Life with a Girlfriend with Shrinking Powers. The repair trade, clinical services and building maintenance are already operating in their separate settings. No mutual order, common calendar or connection between their powers is established; the selected period precedes All Accounts Due.",
+          "stories": [
+            "where-sleep-takes-you"
+          ],
+          "window": {
+            "start": 25.8,
+            "end": 35.03
           }
         },
         {
@@ -1222,15 +1240,15 @@
           "magicState": "old-magic",
           "description": "Two Saturday shrinking cycles → The later isolated valve test.",
           "context": [
-            "Proposed in the mature mixed world before extinction: bodily ability, ordinary appliances, building services and professional maintenance are all already in use. Luz's four-year partnership and practiced limits do not belong automatically with other transformation stories. Her twenty-four-minute maximum applies below half height, and safe cycles need at least six hours between them. No proximity to Faris's lifetime is implied.",
+            "Proposed in the mature mixed world before extinction: bodily ability, ordinary appliances, building services and professional maintenance are all already in use. Luz's four-year partnership and practiced limits do not belong automatically with other transformation stories. Her twenty-four-minute maximum applies below half height, and safe cycles need at least six hours between them. No proximity to Faris's lifetime is implied. The selected window may overlap Queen Street's clinical services and Cira's repair trade; their separate cities and local abilities remain unidentified with one another.",
             "The first cycle lasts eight minutes; at least six hours separate safe cycles. During the second, Luz returns before the twenty-four-minute limit for shrinking below half height. Days later, after professional repairs, the couple tests the external valve pull under isolated conditions."
           ],
-          "sequenceNote": "Proposed after Realms and before All Accounts Due. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The selected period may overlap Queen Street's clinical services and Cira's repair trade before All Accounts Due. Ordinary maintenance remains necessary around distinct living abilities. The overlap is provisional and supplies no shared city, profession, power or measured interval.",
           "stories": [
             "life-with-a-girlfriend-with-shrinking-powers"
           ],
           "window": {
-            "start": 33.63,
+            "start": 25.8,
             "end": 35.03
           }
         },
@@ -2090,7 +2108,7 @@
       "id": "cycle-06-new-inhabited-world",
       "title": "The New Inhabited World",
       "eyebrow": "Many generations after the new beginning.",
-      "description": "An unmeasured history separates the first reciprocal link from these mature societies. Working settlements, water kingdoms, inherited obligations and recognized public professions have distinct local histories. An ordinary festival and Nuala's household care occupy one proposed overlapping period of working modern services. An infernal tribute court and a human college coexist; individual journeys preserve different clocks without dating their destinations. In a later proposed civic period, organized patrol work, a family's public accountability and Brackenport's exclusion of armed organizations may overlap. Schools, hospitals, utilities, work and government continue under different regional arrangements. The Salt Crucible ends one worldfire and binding amid a separate regional catastrophe; it supplies no evidence that all other magic ends or that later societies share its aftermath.",
+      "description": "An unmeasured history separates the first reciprocal link from these mature societies. Working settlements, water kingdoms, inherited obligations and recognized public professions have distinct local histories. An ordinary festival and Nuala's household care occupy one proposed overlapping period of working modern services. An infernal tribute court and a human college coexist; individual journeys preserve different clocks without dating their destinations. Family secrecy, specialist household care, familiar wings and expected birthday changes may overlap the proposed civic period of organized patrol work, a family's public accountability and Brackenport's exclusion of armed organizations. Private knowledge does not date a society before these public institutions. Schools, hospitals, utilities, work and government continue under different regional arrangements. The Salt Crucible ends one worldfire and binding amid a separate regional catastrophe; it supplies no evidence that all other magic ends or that later societies share its aftermath.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -2156,13 +2174,13 @@
             "Placed provisionally in the mature post-return world, this private family history does not establish an early stage of public understanding. The mother's fears of diagnosis, testing and disbelief are fears, not a documented medical response. Such secrecy could coexist with recognized powers elsewhere. An earlier active-magical age remains possible; the daughter supplies no cross-story date.",
             "Childhood experience precedes years of secret tests and one Sunday conversation. No shared school, clinic or calendar places the family before the other modern societies."
           ],
-          "sequenceNote": "The selected position between The Players Above and Where No Unicorn Stands remains a proposal. Family secrecy supplies no evidence that this happens before the public powers later on the map.",
+          "sequenceNote": "The chosen VI window permits overlap with the public civic histories. A mother's private fears do not put this family before professional care or public powers elsewhere. No shared institution or mutual date is established.",
           "stories": [
             "the-night-she-knew"
           ],
           "window": {
             "start": 16.4,
-            "end": 17.8
+            "end": 88.3
           }
         },
         {
@@ -2336,13 +2354,13 @@
             "A wildlife carer and a neighboring family use phones, a car, recovery equipment and planned medical follow-up while learning how to care for one injured child. The family's distinct language, changing rules and optional pledge coexist with that modern infrastructure. This post-return placement is proposed; the carer's surprise does not date the wider society or connect this kin group to any wolf population.",
             "Recovery, reunion and a freely accepted trial agreement form this local history. A familiar phone network and an unfamiliar family custom operate on the same evening."
           ],
-          "sequenceNote": "Its selected position between The Gods Are Afraid of Grandma and The Wolf in the Mirror is provisional. Neither the pledge nor the bodily change establishes ancestry or temporal order between these households.",
+          "sequenceNote": "This family's possible VI horizon extends through the public civic period. Its unfamiliar customs and the carer's surprise may coexist with recognized professions in other communities. The next-day doctor visit remains future, and no shared clinic or species ancestry is established.",
           "stories": [
             "the-bat-at-the-door"
           ],
           "window": {
-            "start": 54.0,
-            "end": 55.4
+            "start": 54,
+            "end": 88.3
           }
         },
         {
@@ -2354,31 +2372,13 @@
             "Three weeks of adapting a studio and a week of rehearsing cues precede a recurring lunar night. A specialist supplies the sound box; household barriers, a camera and agreed outside-help thresholds support the care. This proposed post-return setting has practical expertise without establishing a shared hero agency. Privacy within a family does not date the community's knowledge of powers.",
             "Preparation, the timed night and the following morning are established. The household can seek technical help while keeping the experience private; no historical transition from hidden to public powers follows."
           ],
-          "sequenceNote": "Proposed between By Wing and Welcome and Where Sleep Takes You. Shared concern for care does not establish a common changing mechanism, population or calendar.",
+          "sequenceNote": "The proposed VI horizon may overlap the later civic histories. Specialist equipment and agreed outside help already exist alongside household privacy; the story does not precede public professions by virtue of keeping a curse private. Its monthly preparation remains a separate local clock.",
           "stories": [
             "the-wolf-in-the-mirror"
           ],
           "window": {
             "start": 58.7,
-            "end": 60.1
-          }
-        },
-        {
-          "id": "event-where-sleep-takes-you",
-          "title": "Where Sleep Takes You",
-          "magicState": "new-magic",
-          "description": "A closed shop's accumulated obligations → Clearance and a continuing inventory.",
-          "context": [
-            "Four years of repair-shop history are packed into storage after its closure. Cira clears client property, calibrated tools and records under a fixed contractor deadline. A month's notice, a former colleague's practical preparations, tracking equipment, hired transport and witnessed item decisions form a mature service economy. This supports the selected post-return context without making her a member of a shared power-care institution or dating her condition's origin.",
-            "Tracking and remote authorization help after displacement; they do not select the next landing. Cira retains decision-making authority while still making a costly error from a blurred label. The clearance leaves fees, lost equipment, an unresolved sleeve and further client work."
-          ],
-          "sequenceNote": "Proposed after The Wolf in the Mirror and before She Literally Has Wings. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
-          "stories": [
-            "where-sleep-takes-you"
-          ],
-          "window": {
-            "start": 63.4,
-            "end": 64.8
+            "end": 88.3
           }
         },
         {
@@ -2390,13 +2390,13 @@
             "Charity work, buses, hospitals and years of ordinary neighborly help form the surrounding society. Tomas regards several origins of wings as familiar possibilities, yet both he and Julian can misread Coralie. Public familiarity and private misunderstanding already coexist. Her active flight makes the zero unsuitable, but its proposed post-return date is not a discovered stage after hidden powers.",
             "The evening draws on years of practical relationships. Other people's explanations of Coralie are fallible, and the story supplies no ancestry connecting the different bodies they describe."
           ],
-          "sequenceNote": "Its position between Where Sleep Takes You and What Turned Eighteen is proposed. Everyday familiarity with wings does not place this city before the birthday-changing community or after a universal era of secrecy.",
+          "sequenceNote": "This proposed VI horizon may overlap the public civic histories and the other private households. Long-standing familiarity with varied wings does not date a universal change in public knowledge. Coralie's community, the hero organizations and the birthday-changing population have no established common history.",
           "stories": [
             "she-literally-has-wings"
           ],
           "window": {
             "start": 68.1,
-            "end": 69.5
+            "end": 88.3
           }
         },
         {
@@ -2408,13 +2408,13 @@
             "Arlon's community expects varied changes at eighteen; family preparation, a cousin's work and Jaro's amended records show an established local custom. The first afternoon in nine bodies is personal adaptation within that continuing society. A mature post-return position is proposed, but the custom's age, population origin and relation to other cities remain unknown.",
             "The wider custom already exists before this birthday. Arlon's unusual form is one person's beginning, not the birth of a species or a new worldwide magic rule."
           ],
-          "sequenceNote": "Proposed between She Literally Has Wings and Held Together. The birthday custom supplies no chronological bridge from familiar wings to selective professional powers.",
+          "sequenceNote": "The proposed VI horizon may overlap the civic professions and private-family histories. This community already has birthday customs, amended records and apprenticeships; Arlon's first changed afternoon does not initiate a wider historical stage. No ancestry or common calendar joins these populations.",
           "stories": [
             "what-turned-eighteen"
           ],
           "window": {
             "start": 72.8,
-            "end": 74.2
+            "end": 88.3
           }
         },
         {
@@ -3614,7 +3614,7 @@
     "the-night-she-knew": {
       "window": {
         "start": 16.4,
-        "end": 17.8
+        "end": 88.3
       },
       "note": "Placed provisionally in the mature post-return world, this private family history does not establish an early stage of public understanding. The mother's fears of diagnosis, testing and disbelief are fears, not a documented medical response. Such secrecy could coexist with recognized powers elsewhere. An earlier active-magical age remains possible; the daughter supplies no cross-story date."
     },
@@ -3655,22 +3655,22 @@
     },
     "the-bat-at-the-door": {
       "window": {
-        "start": 54.0,
-        "end": 55.4
+        "start": 54,
+        "end": 88.3
       },
       "note": "A wildlife carer and a neighboring family use phones, a car, recovery equipment and planned medical follow-up while learning how to care for one injured child. The family's distinct language, changing rules and optional pledge coexist with that modern infrastructure. This post-return placement is proposed; the carer's surprise does not date the wider society or connect this kin group to any wolf population."
     },
     "the-wolf-in-the-mirror": {
       "window": {
         "start": 58.7,
-        "end": 60.1
+        "end": 88.3
       },
       "note": "Three weeks of adapting a studio and a week of rehearsing cues precede a recurring lunar night. A specialist supplies the sound box; household barriers, a camera and agreed outside-help thresholds support the care. This proposed post-return setting has practical expertise without establishing a shared hero agency. Privacy within a family does not date the community's knowledge of powers."
     },
     "she-literally-has-wings": {
       "window": {
         "start": 68.1,
-        "end": 69.5
+        "end": 88.3
       },
       "note": "Charity work, buses, hospitals and years of ordinary neighborly help form the surrounding society. Tomas regards several origins of wings as familiar possibilities, yet both he and Julian can misread Coralie. Public familiarity and private misunderstanding already coexist. Her active flight makes the zero unsuitable, but its proposed post-return date is not a discovered stage after hidden powers."
     },
@@ -3698,9 +3698,9 @@
     "realms": {
       "window": {
         "start": 25.8,
-        "end": 27.2
+        "end": 35.03
       },
-      "note": "Queen Street already supports licensed witnesses, paid runners, medical records and screened clinical care around a living crossing. These established services support the selected later old-magical context, but do not date it before extinction. An active-magical setting is required; the retained pre-extinction position is a reconstruction. Deepmarket's coordinates and any relationship to the six ended systems remain unknown. One transfusion helps Lena, and the dealer's arrival leaves the confrontation unresolved."
+      "note": "Queen Street already supports licensed witnesses, paid runners, medical records and screened clinical care around a living crossing. These established services support the selected later old-magical context, but do not date it before extinction. An active-magical setting is required; the retained pre-extinction position is a reconstruction. Deepmarket's coordinates and any relationship to the six ended systems remain unknown. One transfusion helps Lena, and the dealer's arrival leaves the confrontation unresolved. Its selected urban horizon may overlap the repair-trade and apartment histories without identifying their cities."
     },
     "his-infernal-majesty-says-no": {
       "window": {
@@ -3746,17 +3746,17 @@
     },
     "life-with-a-girlfriend-with-shrinking-powers": {
       "window": {
-        "start": 33.63,
+        "start": 25.8,
         "end": 35.03
       },
-      "note": "Proposed in the mature mixed world before extinction: bodily ability, ordinary appliances, building services and professional maintenance are all already in use. Luz's four-year partnership and practiced limits do not belong automatically with other transformation stories. Her twenty-four-minute maximum applies below half height, and safe cycles need at least six hours between them. No proximity to Faris's lifetime is implied."
+      "note": "Proposed in the mature mixed world before extinction: bodily ability, ordinary appliances, building services and professional maintenance are all already in use. Luz's four-year partnership and practiced limits do not belong automatically with other transformation stories. Her twenty-four-minute maximum applies below half height, and safe cycles need at least six hours between them. No proximity to Faris's lifetime is implied. The selected window may overlap Queen Street's clinical services and Cira's repair trade; their separate cities and local abilities remain unidentified with one another."
     },
     "where-sleep-takes-you": {
       "window": {
-        "start": 63.4,
-        "end": 64.8
+        "start": 25.8,
+        "end": 35.03
       },
-      "note": "Four years of repair-shop history are packed into storage after its closure. Cira clears client property, calibrated tools and records under a fixed contractor deadline. A month's notice, a former colleague's practical preparations, tracking equipment, hired transport and witnessed item decisions form a mature service economy. This supports the selected post-return context without making her a member of a shared power-care institution or dating her condition's origin."
+      "note": "Cira's former instrument-repair shop belongs to a city with calibrated standards, client-property obligations, GPS, building access staff and hired transport. Its proposed later old-magical position may overlap Queen Street's licensed services and Miles and Luz's apartment maintenance. These are compatible working economies with ordinary technical labor already in place; no shared city, employer or actual supply relationship is established. Her sleep-triggered displacement requires active magic but does not date it on either side of extinction or identify a named old root. The earlier placement is a reconstruction."
     },
     "lightning-carries-one": {
       "window": {
@@ -3775,7 +3775,7 @@
     "what-turned-eighteen": {
       "window": {
         "start": 72.8,
-        "end": 74.2
+        "end": 88.3
       },
       "note": "Arlon's community expects varied changes at eighteen; family preparation, a cousin's work and Jaro's amended records show an established local custom. The first afternoon in nine bodies is personal adaptation within that continuing society. A mature post-return position is proposed, but the custom's age, population origin and relation to other cities remain unknown."
     },
@@ -6642,6 +6642,16 @@
       "ordering": "none",
       "label": "What a traveler brings back",
       "note": "Nell and Bash return to separate departure anchors with younger bodies and retained memories; Tobin returns with uneven lived time, altered belongings and partial additional aging. These different histories make the traveler's experience matter beyond an outside clock. Their resemblance establishes no shared gate, passenger mechanism, destination era or lineage across the extinction."
+    },
+    {
+      "id": "ordinary-trades-around-living-powers",
+      "from": "life-with-a-girlfriend-with-shrinking-powers",
+      "to": "where-sleep-takes-you",
+      "kind": "historical",
+      "label": "Ordinary trades keep the city working",
+      "note": "Proposed overlap: Miles and Luz depend on building access, ordinary water and electrical systems, and professional repairs. Cira's separate instrument trade depends on calibration, client property, hired transport and facility staff. These working economies can coexist around living abilities that cannot replace their labor and equipment. No actual customer, supplier, landlord, city, power origin or mutual date is shared by implication.",
+      "ordering": "none",
+      "basis": "proposed"
     }
   ],
   "historyThreads": [
@@ -6756,10 +6766,10 @@
         {
           "cycleId": "cycle-03-extinction-human-works",
           "title": "Public control and continuing technical work",
-          "note": "Kharost's cooling settlement and Qarsis's hired cold work occupy a proposed overlapping old-magical period of existing urban services. Separate watersheds and bounded contracts address different obligations. After extinction, material courts, workshops and cities continue; Orison's grounding is one local loss amid surviving expertise, while another community explores an unidentified arsenal. No shared city or continuous technical lineage is established.",
+          "note": "Kharost's cooling settlement and Qarsis's hired cold work occupy one proposed old-magical period of urban services. A later selected horizon lets Cira's calibrated instrument trade coexist with Queen Street's clinical work and ordinary apartment maintenance in distinct cities. Living abilities do not replace their staff, tools, records or logistics. After extinction, material courts, workshops and cities continue; Orison's grounding is one local loss amid surviving expertise. No shared city or continuous technical lineage is established.",
           "anchors": [
             "a-crown-of-quiet-hours",
-            "a-little-winter-for-sale",
+            "where-sleep-takes-you",
             "four-million-falling"
           ],
           "kind": "proposed"
@@ -6873,7 +6883,7 @@
         {
           "cycleId": "cycle-06-new-inhabited-world",
           "title": "Public familiarity and private knowledge differ",
-          "note": "Specialist care and public professions can coexist with intimate secrecy and misclassification. Coralie's neighbors know ordinary life with wings yet misread her, while a hero family controls a public record. The expected birthday change belongs to another local custom. These differences supply no universal progression or ancestry.",
+          "note": "Specialist care and public professions occupy possible overlapping periods with intimate secrecy, family discoveries and expected birthday changes. Coralie's neighbors know ordinary life with wings yet misread her; another household privately manages a curse while specialists already work; a hero family controls a public record. These local histories do not form stages from hidden to public powers or establish common ancestry.",
           "anchors": [
             "witch-cold",
             "she-literally-has-wings",
