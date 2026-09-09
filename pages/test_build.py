@@ -1393,7 +1393,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(set(placements), set(timeline.story_evidence))
         self.assertEqual(set(placements), set(timeline.story_placements))
         self.assertGreater(len(timeline.cycles), 4)
-        states = {slug: cycle.magic_state for cycle in timeline.cycles for slug in cycle.stories}
+        states = {slug: era.magic_state for cycle in timeline.cycles for era in cycle.eras for slug in era.stories}
         self.assertEqual("old-magic", states["all-accounts-due"])
         self.assertEqual("old-magic", states["strength-of-ten"])
         self.assertEqual("long-dark", states["the-names-on-the-cups"])
@@ -1414,7 +1414,7 @@ class StorySystemTests(unittest.TestCase):
         museum = location["the-count-was-131072"]
         self.assertLessEqual(early, bay)
         self.assertEqual(attendance, help_network)
-        self.assertLess(help_network, bay)
+        self.assertLessEqual(help_network, bay)
         self.assertEqual(bay, dress)
         self.assertEqual(bay, museum)
         before = {(link.source, link.target) for link in timeline.connections if link.ordering == "before"}
@@ -1425,16 +1425,17 @@ class StorySystemTests(unittest.TestCase):
                      ("the-dress-they-brought-her", "the-count-was-131072"),
                      ("voice-of-silence", "a-lock-on-the-inside")):
             self.assertIn(pair, before)
-        self.assertLess(bay, location["daughter-of-the-sun"])
+        self.assertLessEqual(bay, location["daughter-of-the-sun"])
+        self.assertIn(("solstice-evening-bell", "daughter-of-the-sun"), before)
         self.assertLess(location["the-small-moon-rose-first"], location["daughter-of-the-sun"])
         self.assertLess(location["all-accounts-due"], location["the-names-on-the-cups"])
         self.assertLess(location["the-names-on-the-cups"], location["the-sky-remembers-us-return"])
-        old = [slug for cycle in timeline.cycles if cycle.magic_state == "old-magic" for slug in cycle.stories]
-        new = [slug for cycle in timeline.cycles if cycle.magic_state == "new-magic" for slug in cycle.stories]
+        old = [slug for cycle in timeline.cycles for era in cycle.eras if era.magic_state == "old-magic" for slug in era.stories]
+        new = [slug for cycle in timeline.cycles for era in cycle.eras if era.magic_state == "new-magic" for slug in era.stories]
         self.assertEqual("all-accounts-due", old[-1])
         self.assertEqual("the-sky-remembers-us-return", new[0])
         order = {"old-magic": 0, "long-dark": 1, "new-magic": 2}
-        states = [order[cycle.magic_state] for cycle in timeline.cycles if cycle.magic_state in order]
+        states = [order[era.magic_state] for cycle in timeline.cycles for era in cycle.eras if era.magic_state in order]
         self.assertEqual(sorted(states), states)
         self.assertEqual(location["voice-of-silence"], location["a-lock-on-the-inside"])
 
@@ -1444,7 +1445,7 @@ class StorySystemTests(unittest.TestCase):
         expanded = build.Catalog((*catalog.stories, extra))
         value = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
         value["cycles"][-1]["eras"].append({
-            "id": "additional-era", "title": "Another inhabited horizon",
+            "id": "additional-era", "title": "Another inhabited horizon", "magicState": "new-magic",
             "description": "A later society has another history to tell.",
             "context": ["A distinct civic setting.", "An inherited local technology."],
             "sequenceNote": "A proposed later period.", "stories": [extra.slug],
@@ -1506,7 +1507,7 @@ class StorySystemTests(unittest.TestCase):
         self.assertEqual(len(timeline.story_moments), len(re.findall(r'id="depth-[^"]+"', rendered)))
         for era in eras:
             with self.subTest(era=era.id):
-                panel = rendered.split(f'<details class="history-era" id="era-{era.id}"', 1)[1].split('</dialog></details>', 1)[0]
+                panel = rendered.split(f'<details class="history-era state-{era.magic_state}" id="era-{era.id}"', 1)[1].split('</dialog></details>', 1)[0]
                 self.assertIn('<summary class="era-stop">', panel)
                 self.assertIn(f'<dialog class="era-dialog" aria-labelledby="era-title-{era.id}" data-era-dialog>', panel)
                 self.assertIn(f'<h3 id="era-title-{era.id}">', panel)
@@ -1597,8 +1598,11 @@ class StorySystemTests(unittest.TestCase):
                     source = next(era for cycle in value["cycles"] for era in cycle["eras"]
                                   if slug in era["stories"])
                     source["stories"].remove(slug)
-                    destination = next(cycle for cycle in value["cycles"]
-                                       if cycle["magicState"] == state)["eras"][0]
+                    if not source["stories"]:
+                        for cycle in value["cycles"]:
+                            cycle["eras"] = [era for era in cycle["eras"] if era is not source]
+                    destination = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                                       if era["magicState"] == state)
                     destination["stories"].append(slug)
                     value["storyPlacements"][slug]["window"] = destination["window"].copy()
                     path = Path(temporary) / "timeline.json"
@@ -1619,15 +1623,70 @@ class StorySystemTests(unittest.TestCase):
                 source = next(era for cycle in value["cycles"] for era in cycle["eras"]
                               if slug in era["stories"])
                 source["stories"].remove(slug)
-                destination = next(cycle for cycle in value["cycles"]
-                                   if cycle["magicState"] == state)["eras"][0]
+                for thread in value["historyThreads"]:
+                    for stage in thread["stages"]:
+                        stage["anchors"] = list(dict.fromkeys(
+                            source["stories"][0] if anchor == slug else anchor for anchor in stage["anchors"]))
+                destination = next(era for cycle in value["cycles"] for era in cycle["eras"]
+                                   if era["magicState"] == state)
                 destination["stories"].append(slug)
                 value["storyPlacements"][slug]["window"] = destination["window"].copy()
                 path = Path(temporary) / "timeline.json"
                 path.write_text(json.dumps(value), encoding="utf-8")
                 loaded = build.load_timeline(catalog, path)
-                states = {item: cycle.magic_state for cycle in loaded.cycles for item in cycle.stories}
+                states = {item: era.magic_state for cycle in loaded.cycles for era in cycle.eras for item in era.stories}
                 self.assertEqual(state, states[slug])
+
+    def test_magic_boundaries_can_divide_an_orbit_but_not_reverse_its_history(self):
+        timeline = build.load_timeline(build.load_catalog())
+        for anchor, extinction in (("all-accounts-due", True), ("the-sky-remembers-us-return", False)):
+            with self.subTest(boundary=anchor):
+                cycle = next(cycle for cycle in timeline.cycles if anchor in cycle.stories)
+                self.assertEqual("mixed", cycle.magic_state)
+                dark_story = next(slug for era in cycle.eras if era.magic_state == "long-dark" for slug in era.stories)
+                placements = dict(timeline.story_placements)
+                early, late = build.TimelineWindow(0, 1), build.TimelineWindow(99, 100)
+                placements[anchor] = replace(placements[anchor], window=late if extinction else early)
+                placements[dark_story] = replace(placements[dark_story], window=early if extinction else late)
+                with self.assertRaisesRegex(ValueError, "contradicts"):
+                    build._validate_timeline_order(timeline.cycles, placements, ())
+
+    def test_history_currents_show_the_whole_world_and_escape_their_accounts(self):
+        catalog = build.load_catalog()
+        timeline = build.load_timeline(catalog)
+        unsafe = '\"><script>invented descent</script>'
+        thread = timeline.history_threads[0]
+        changed = replace(thread, title=unsafe, description=unsafe,
+                          stages=(replace(thread.stages[0], title=unsafe, note=unsafe), *thread.stages[1:]))
+        rendered = build.render_timeline(catalog, replace(timeline, history_threads=(changed, *timeline.history_threads[1:])))
+        self.assertNotIn(unsafe, rendered)
+        self.assertIn(html.escape(unsafe, quote=True), rendered)
+        self.assertEqual(len(timeline.history_threads), rendered.count('data-history-thread '))
+        self.assertEqual(sum(len(item.stages) for item in timeline.history_threads), rendered.count('data-history-stage '))
+        self.assertLess(rendered.index('id="atlas-currents"'), rendered.index('id="atlas-explore"'))
+        self.assertIn('the thread alone does not establish descent', rendered)
+        for cycle in timeline.cycles:
+            self.assertIn(f'href="#cycle-{cycle.id}"', rendered)
+            self.assertIn(f'<p class="cycle-history">{html.escape(cycle.description, quote=True)}</p>', rendered)
+
+    def test_history_current_cannot_cite_a_story_in_the_wrong_orbit(self):
+        catalog = build.load_catalog()
+        original = json.loads(build.TIMELINE_PATH.read_text(encoding="utf-8"))
+        mutations = (
+            ("wrong orbit", lambda v: v["historyThreads"][0]["stages"][0].update(anchors=v["cycles"][-1]["eras"][0]["stories"][:1]), "placed in its cycle"),
+            ("empty anchors", lambda v: v["historyThreads"][0]["stages"][0].update(anchors=[]), "one to three"),
+            ("unknown kind", lambda v: v["historyThreads"][0]["stages"][0].update(kind="canonical-descent"), "unsupported kind"),
+            ("duplicate thread", lambda v: v["historyThreads"].append(v["historyThreads"][0]), "duplicate id"),
+            ("backward stages", lambda v: v["historyThreads"][0]["stages"].reverse(), "in order"),
+        )
+        for name, mutate, error in mutations:
+            with self.subTest(case=name), tempfile.TemporaryDirectory() as temporary:
+                value = json.loads(json.dumps(original))
+                mutate(value)
+                path = Path(temporary) / "timeline.json"
+                path.write_text(json.dumps(value), encoding="utf-8")
+                with self.assertRaisesRegex(ValueError, error):
+                    build.load_timeline(catalog, path)
 
     def test_atlas_rejects_missing_story_invalid_positions_and_broken_connections(self):
         catalog = build.load_catalog()

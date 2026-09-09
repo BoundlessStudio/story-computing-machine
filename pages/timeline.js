@@ -33,8 +33,9 @@
     });
     cycles.forEach(cycle => { cycle.hidden = ![...cycle.querySelectorAll('[data-era-section]')].some(era => !era.hidden); });
     atlas.querySelectorAll('[data-phase]').forEach(phase => {
-      phase.hidden = !cycles.some(cycle => !cycle.hidden && cycle.dataset.magicState === phase.dataset.phase);
+      phase.hidden = !eras.some(era => !era.hidden && era.dataset.magicState === phase.dataset.phase);
     });
+    atlas.querySelector('.history-braid').hidden = Boolean(terms.length);
     feedback.hidden = !terms.length;
     const total = stories.filter(story => !story.hidden).length;
     const eraCount = eras.filter(era => !era.hidden).length;
@@ -88,7 +89,7 @@
     const era = target.closest('[data-era-section]');
     if (era) {
       if (era.hidden || target.closest('[data-story-slug]')?.hidden) clearSearch();
-      showEra(era);
+      showEra(era, trigger);
       const story = target.closest('[data-story-slug]');
       if (story) {
         story.querySelector('[data-event-details]').open = true;

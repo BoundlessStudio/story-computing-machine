@@ -102,6 +102,7 @@ class TimelineEra:
     sequence_note: str
     stories: tuple[str, ...]
     window: TimelineWindow
+    magic_state: str
 
 
 @dataclass(frozen=True)
@@ -109,7 +110,6 @@ class TimelineCycle:
     id: str
     title: str
     eyebrow: str
-    magic_state: str
     description: str
     sequence_note: str
     eras: tuple[TimelineEra, ...]
@@ -117,6 +117,15 @@ class TimelineCycle:
     @property
     def stories(self) -> tuple[str, ...]:
         return tuple(slug for era in self.eras for slug in era.stories)
+
+    @property
+    def magic_states(self) -> tuple[str, ...]:
+        return tuple(dict.fromkeys(era.magic_state for era in self.eras))
+
+    @property
+    def magic_state(self) -> str:
+        """A display color only; constraints belong to individual eras."""
+        return self.magic_states[0] if len(self.magic_states) == 1 else "mixed"
 
 
 @dataclass(frozen=True)
@@ -138,6 +147,23 @@ class TimelinePlacement:
 
 
 @dataclass(frozen=True)
+class HistoryStage:
+    cycle_id: str
+    title: str
+    note: str
+    anchors: tuple[str, ...]
+    kind: str
+
+
+@dataclass(frozen=True)
+class HistoryThread:
+    id: str
+    title: str
+    description: str
+    stages: tuple[HistoryStage, ...]
+
+
+@dataclass(frozen=True)
 class Timeline:
     cycles: tuple[TimelineCycle, ...]
     story_placements: dict[str, TimelinePlacement]
@@ -145,6 +171,7 @@ class Timeline:
     story_spans: dict[str, TimelineSpan]
     story_evidence: dict[str, str]
     connections: tuple[TimelineConnection, ...]
+    history_threads: tuple[HistoryThread, ...]
 
 
 def read_json_object(path: Path) -> dict[str, Any]:
@@ -575,12 +602,14 @@ def _validate_timeline_order(cycles, placements, connections):
     earliest = {slug: locations[slug] * 100 + place.window.start for slug, place in placements.items()}
     latest = {slug: locations[slug] * 100 + place.window.end for slug, place in placements.items()}
     state_order = {"old-magic": 0, "long-dark": 1, "new-magic": 2}
-    states = [state_order[cycle.magic_state] for cycle in cycles if cycle.magic_state in state_order]
+    material_states = {slug: era.magic_state for cycle in cycles for era in cycle.eras for slug in era.stories}
+    states = [state_order[era.magic_state] for cycle in cycles for era in cycle.eras
+              if era.magic_state in state_order]
     if states != sorted(states):
         raise ValueError("Worldline history must preserve old magic, Long Dark, then new magic")
 
     for slug in PRE_EXTINCTION_MATERIAL_HISTORIES:
-        if slug in locations and cycles[locations[slug]].magic_state != "old-magic":
+        if slug in locations and material_states[slug] != "old-magic":
             raise ValueError(f"Established magical history {slug} must precede the old magic extinction")
 
     def precedes(source, target):
@@ -597,13 +626,15 @@ def _validate_timeline_order(cycles, placements, connections):
                                   ("the-sky-remembers-us-return", "new-magic", False)):
         if anchor not in locations:
             continue
-        if cycles[locations[anchor]].magic_state != state:
+        if material_states[anchor] != state:
             raise ValueError(f"Worldline boundary {anchor} has the wrong magic state")
-        for cycle in cycles:
-            if cycle.magic_state == state:
-                for slug in cycle.stories:
-                    if slug != anchor:
-                        precedes(slug, anchor) if closes else precedes(anchor, slug)
+        for slug, material_state in material_states.items():
+            if slug == anchor or material_state not in state_order:
+                continue
+            # An extinction/return can lie inside an orbit. Check both sides
+            # of each boundary rather than assuming entire cycles share a phase.
+            is_before = state_order[material_state] < state_order[state] or (material_state == state and closes)
+            precedes(slug, anchor) if is_before else precedes(anchor, slug)
     ready = [slug for slug, degree in incoming.items() if degree == 0]
     visited = 0
     while ready:
@@ -624,9 +655,9 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     value = read_json_object(path)
     require_exact_fields(value, {
         "schemaVersion", "cycles", "storyPlacements", "storyMoments",
-        "storySpans", "storyEvidence", "connections",
+        "storySpans", "storyEvidence", "connections", "historyThreads",
     }, str(path))
-    if value["schemaVersion"] != 7:
+    if value["schemaVersion"] != 8:
         raise ValueError(f"Unsupported timeline snapshot in {path}")
     for key in ("storyPlacements", "storyMoments", "storySpans", "storyEvidence"):
         if not isinstance(value[key], dict):
@@ -653,23 +684,23 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
     for item in value["cycles"]:
         if not isinstance(item, dict):
             raise ValueError("Timeline cycle must be an object")
-        require_exact_fields(item, {"id", "title", "eyebrow", "magicState", "description", "sequenceNote", "eras"}, "Timeline cycle")
+        require_exact_fields(item, {"id", "title", "eyebrow", "description", "sequenceNote", "eras"}, "Timeline cycle")
         cycle_id = _timeline_text(item["id"], "Cycle id")
         if not SLUG.fullmatch(cycle_id) or cycle_id in cycle_ids:
             raise ValueError("Timeline cycle has an invalid or duplicate id")
-        state = _timeline_text(item["magicState"], "Cycle magic state")
-        if state not in TIMELINE_MAGIC_STATES:
-            raise ValueError("Timeline cycle has an unsupported magic state")
         if not isinstance(item["eras"], list) or not item["eras"]:
             raise ValueError("Cycle eras must be a non-empty list")
         eras = []
         for era in item["eras"]:
             if not isinstance(era, dict):
                 raise ValueError("Timeline era must be an object")
-            require_exact_fields(era, {"id", "title", "description", "context", "sequenceNote", "stories", "window"}, "Timeline era")
+            require_exact_fields(era, {"id", "title", "description", "context", "sequenceNote", "stories", "window", "magicState"}, "Timeline era")
             era_id = _timeline_text(era["id"], "Era id")
             if not SLUG.fullmatch(era_id) or era_id in era_ids:
                 raise ValueError("Timeline era has an invalid or duplicate id")
+            state = _timeline_text(era["magicState"], "Era magic state")
+            if state not in TIMELINE_MAGIC_STATES:
+                raise ValueError("Timeline era has an unsupported magic state")
             era_slugs = _timeline_story_slugs(era["stories"], "Era stories")
             if not era_slugs or set(era_slugs) - known:
                 raise ValueError("Era stories must be known and non-empty")
@@ -685,13 +716,13 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
             eras.append(TimelineEra(
                 era_id, _timeline_text(era["title"], "Era title"),
                 _timeline_text(era["description"], "Era description"), context,
-                _timeline_text(era["sequenceNote"], "Era sequenceNote"), era_slugs, window,
+                _timeline_text(era["sequenceNote"], "Era sequenceNote"), era_slugs, window, state,
             ))
             era_ids.add(era_id)
             assigned.update(era_slugs)
         cycles.append(TimelineCycle(
             cycle_id, _timeline_text(item["title"], "Cycle title"),
-            _timeline_text(item["eyebrow"], "Cycle eyebrow"), state,
+            _timeline_text(item["eyebrow"], "Cycle eyebrow"),
             _timeline_text(item["description"], "Cycle description"),
             _timeline_text(item["sequenceNote"], "Cycle sequenceNote"), tuple(eras),
         ))
@@ -754,7 +785,43 @@ def load_timeline(catalog: Catalog, path: Path = TIMELINE_PATH) -> Timeline:
         connection_ids.add(connection_id)
         connection_pairs.add(pair)
     _validate_timeline_order(cycles, placements, connections)
-    return Timeline(tuple(cycles), placements, moments, spans, evidence, tuple(connections))
+    if not isinstance(value["historyThreads"], list) or not value["historyThreads"]:
+        raise ValueError("History threads must be a non-empty list")
+    history_threads = []
+    history_ids = set()
+    cycle_positions = {cycle.id: index for index, cycle in enumerate(cycles)}
+    story_cycles = {slug: cycle.id for cycle in cycles for slug in cycle.stories}
+    for item in value["historyThreads"]:
+        if not isinstance(item, dict):
+            raise ValueError("History thread must be an object")
+        require_exact_fields(item, {"id", "title", "description", "stages"}, "History thread")
+        thread_id = _timeline_text(item["id"], "History thread id")
+        if not SLUG.fullmatch(thread_id) or thread_id in history_ids:
+            raise ValueError("History thread has an invalid or duplicate id")
+        if not isinstance(item["stages"], list) or not item["stages"]:
+            raise ValueError("History thread stages must be a non-empty list")
+        stages = []
+        previous = -1
+        for stage in item["stages"]:
+            if not isinstance(stage, dict):
+                raise ValueError("History stage must be an object")
+            require_exact_fields(stage, {"cycleId", "title", "note", "anchors", "kind"}, "History stage")
+            cycle_id = _timeline_text(stage["cycleId"], "History stage cycle")
+            if cycle_id not in cycle_positions or cycle_positions[cycle_id] <= previous:
+                raise ValueError("History stages must follow different known cycles in order")
+            anchors = _timeline_story_slugs(stage["anchors"], "History stage anchors")
+            if not 1 <= len(anchors) <= 3 or any(story_cycles.get(slug) != cycle_id for slug in anchors):
+                raise ValueError("History stage anchors must be one to three stories placed in its cycle")
+            kind = _timeline_text(stage["kind"], "History stage kind")
+            if kind not in {"established", "proposed", "recurrence", "absence"}:
+                raise ValueError("History stage has an unsupported kind")
+            stages.append(HistoryStage(cycle_id, _timeline_text(stage["title"], "History stage title"),
+                                       _timeline_text(stage["note"], "History stage note"), anchors, kind))
+            previous = cycle_positions[cycle_id]
+        history_threads.append(HistoryThread(thread_id, _timeline_text(item["title"], "History thread title"),
+                                            _timeline_text(item["description"], "History thread description"), tuple(stages)))
+        history_ids.add(thread_id)
+    return Timeline(tuple(cycles), placements, moments, spans, evidence, tuple(connections), tuple(history_threads))
 
 
 def save_catalog(stories: Iterable[Story], snapshot_path: Path = SNAPSHOT_PATH) -> Catalog:

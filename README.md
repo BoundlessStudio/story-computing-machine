@@ -47,6 +47,9 @@ The Chronology reconstructs one world's long history through Galactic Cycles,
 historical eras, and individual stories. An era groups stories by compatible
 institutions, technology, magical conditions, and inherited history. Different
 societies can coexist within a period; similar forms can recur long afterward.
+Cycles are orbital units, so magic's extinction or return can happen within
+one. The magic phase belongs to the era, not the entire cycle. An ordinary
+story's lack of visible magic does not by itself place its society in the zero.
 Each era explains its context and place in the larger succession. Era and
 story windows describe possible horizons within a cycle, not measured durations.
 Overlapping horizons allow regional contemporaries; a story's location is not
@@ -59,8 +62,13 @@ relative sequences, contextual evidence, or undated frames independently of
 proposed placement. Connections distinguish direct sequences, explicitly proposed
 historical interpretations, and thematic echoes. Only connections marked
 `ordering: before` impose a relative order.
-The page presents one vertical worldline, with the great ages, cycles, and eras
-along the same path. Era entries open their stories, historical context, and
+The overview weaves four recurring histories across the cycles: authority,
+public works, extraordinary bodies, and inherited memory. Each stitch opens
+its account and the stories supporting it. These are editorial interpretations;
+a continuous visual thread does not establish descent, common origin, or a
+shared cause. `historyThreads` stages cite stories placed in their own cycles.
+The vertical worldline then shows each cycle's larger history, with magic's
+boundaries inside the relevant cycles. Era entries open their stories, historical context, and
 local sequences in a focused panel. Each story's “Place in history” disclosure
 holds its placement rationale, internal sequence, recorded span, and connections;
 older remembered events can reach outside the story's proposed era. Connections
@@ -71,7 +79,9 @@ when JavaScript is unavailable.
 The validator requires complete story coverage, unique era IDs, historical
 context for each era, finite windows contained by their eras, valid connection
 endpoints and evidence categories, and a feasible partial chronological order
-before Pages can build. Circular or transitively impossible sequences are rejected;
+before Pages can build. Both sides of the extinction and return are checked,
+including when stories share an orbit with a boundary. History-current anchors
+must belong to their cited cycles. Circular or transitively impossible sequences are rejected;
 overlapping windows and independent display orders are supported.
 
 ## Local commands
