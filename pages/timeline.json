@@ -391,10 +391,10 @@
           "id": "event-the-weight-of-falling-up-rune-shoes",
           "title": "The Weight of Falling Up",
           "magicState": "old-magic",
-          "description": "A collegium teaches practical flight through roof surveys while brooms, winged horses and rune shoes coexist.",
+          "description": "An established flight school and years of observation → One morning's qualified pass.",
           "context": [
-            "A collegium teaches practical flight through roof surveys while brooms, winged horses and rune shoes coexist. That institutional training belongs to the circulation of technical skills, not a single universal flight technology.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "Nine Eaves already maintains practice brooms, inspected horse equipment, course lanes, standard diagrams and a rooftop-survey practicum. Juni's assessment tests a known three-breath stabilizer and repair judgment within that established profession. The school predates this assessment; its wider date and any historical descent into Lowen's city or Brightward College remain unknown.",
+            "The survey roster closes that day. Three breaths measures the one-use stabilizer, not the whole flight. Juni fails stationary control but passes the overall assessment with declared repair margins; no later survey assignment or wider adoption is shown."
           ],
           "sequenceNote": "Proposed after A Lock on the Inside and before Hello, Lover. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1123,7 +1123,7 @@
       "id": "cycle-03-extinction-human-works",
       "title": "The Extinction and the Human Works",
       "eyebrow": "A later active world, the extinction, and separate human histories afterward.",
-      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. A mountain research practice adds years of papers, controlled comparisons and patient limits to that varied institutional world; its findings are local. The terminal world is still rich in magic when All Accounts Due ends its old material function. Unmeasured intervals then separate ordinary courts, hereditary Houses, working cities, surveillance, maritime engineering, Orison's fall and a forgotten arsenal. They do not share an established empire or uninterrupted ascent.",
+      "description": "The later old-magical reach brings depot-dependent kingdoms, specialist training, certification, paid expertise and commercial crossings into the reconstruction. These institutions have separate prior histories. All Accounts Due ends old material magic in a world still rich in it. After unmeasured intervals, ordinary courts, hereditary Houses, working cities, surveillance and maritime systems occupy different material settings. Orison’s technical fall and agrarian exploration of an older arsenal may overlap: local ignorance and retained expertise do not establish one global descent or a shared empire.",
       "sequenceNote": "This is a proposed temporal reconstruction of one world. Each independent story has a selected position; shared episodes stay together where continuity supports it. Positions are ordering slots, not measured orbital dates. Local years, flashbacks and unplaced destinations remain in the individual histories. Resemblance of subject, genre or appearance does not establish a shared era.",
       "eras": [
         {
@@ -1222,7 +1222,7 @@
           "magicState": "old-magic",
           "description": "The mother's years of use → Collection before the estate deadline.",
           "context": [
-            "Proposed in the later old-magical ages, after the earlier qualification and public-school histories. Courts and an established locksmith profession can use bounded doorway tests during an ordinary estate appraisal. The mother's repeated use left passive wear, not a stored person or fixed destination; all four heirs already have equal shares. Independent qualification still awaits the master's inspection.",
+            "Proposed in the later old-magical reach, the doorway workshop combines mechanical repair, bounded living-user tests, estate appraisal and a trade qualification system. These are existing institutions within an inhabited modern society, not proof of descent from earlier schools or licenses. The mother’s wear stores no person or fixed destination; all four heirs already have equal shares. Independent qualification still awaits the master’s inspection.",
             "Earlier use leaves mechanical wear, not a stored destination. The apprentice has two hours and fourteen minutes until five; the door is collected at 4:51. Independent qualification awaits the master's inspection, and the house sale is due to complete the next day."
           ],
           "sequenceNote": "Proposed after The Fourth Blood and before Realms. These positions belong to a varied later old-magical history; no common profession, institution, root or measured calendar connects the events.",
@@ -1405,7 +1405,7 @@
             "Orison’s civic founding story credits human builders after magic’s death. Generations maintain six reactors through incomplete inherited diagrams until fifty minutes force permanent grounding and evacuation. This is a positive remembered relation to extinction, with an unmeasured gap and a local technical fall.",
             "The descent lasts roughly fifty minutes; the city's age and the builders' date remain unresolved"
           ],
-          "sequenceNote": "Proposed after The Unfixed Song and before The Room That Waited. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "The selected late-III position follows The Unfixed Song. The Room That Waited now has an overlapping possible horizon; Orison’s collapse does not establish a worldwide decline or the other community’s date.",
           "stories": [
             "four-million-falling"
           ],
@@ -1418,17 +1418,17 @@
           "id": "event-the-room-that-waited",
           "title": "The Room That Waited",
           "magicState": "long-dark",
-          "description": "An arsenal built by an earlier technical society → A warning left by later agrarian finders.",
+          "description": "An undated facility and a recent promise → A warning left at sunset.",
           "context": [
-            "Agrarian finders enter a buried, dormant launch facility whose controls they cannot identify. This is positive evidence of lost technical knowledge; its earlier use, builders’ fate, elapsed generations and cause of loss remain unknown.",
-            "The generations and cause of knowledge loss are uncounted. The dormant facility does not establish an earlier launch or a nuclear war."
+            "Agrarian finders enter a buried launch facility while seeking storage for threatened winter grain. They retain practical skills and some old written words but cannot identify its controls. That local gap can coexist with technical expertise elsewhere, so its proposed late-III horizon now overlaps Orison's. The facility's builders, earlier use and abandonment have no established connection to Orison's fall.",
+            "A promise three days earlier shapes this afternoon's shared exploration; roughly four weeks before frost is the finders' estimate. The building's prior occupation and loss of usable knowledge are undated. No launch, nuclear war, measured number of generations or order against Orison is established."
           ],
-          "sequenceNote": "The last proposed event in this cycle, after Four Million Falling. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
+          "sequenceNote": "Placed in a proposed late-III reach that may overlap Orison. The facility predates its finders, but neither that local interval nor their missing vocabulary orders them after the floating city’s fall. This range is possible placement, not a measured age of the building.",
           "stories": [
             "the-room-that-waited"
           ],
           "window": {
-            "start": 96.3,
+            "start": 88.47,
             "end": 97.7
           }
         }
@@ -1558,10 +1558,10 @@
           "id": "event-the-unfixed-face",
           "title": "The Unfixed Face",
           "magicState": "long-dark",
-          "description": "Routine seedglass body plans support clinics, family businesses, trains and electric displays.",
+          "description": "Family practice, repeated visits and an earlier roof leak → The studio's sunset closure.",
           "context": [
-            "Routine seedglass body plans support clinics, family businesses, trains and electric displays. A one-sunset archive deadline belongs to an established biomedical service economy, not its first discovery.",
-            "Its broader date is unresolved. The selected position does not establish a shared civilization with neighboring stories."
+            "Mirrorglass House is an established family revision business within a society of routine body plans, trains and specialist care. Its closing afternoon exposes a particular archive mistake and failures in communication; it does not mark the loss of the surrounding clinical economy. The proposed material placement has no demonstrated genealogical link to the freight-adapted hill populations.",
+            "Lucian died at seventy-three; a stored face is an earlier body plan, not his mind. Mekran's four later treatment stages take eleven minutes within a longer emergency. Six breaths describes specific eye revisions, not every transformation. Other revision services and ordinary city life continue after this studio closes."
           ],
           "sequenceNote": "Proposed after A Little More Room and before A Little Weather Between Us. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1819,10 +1819,10 @@
           "id": "event-the-weight-they-never-counted",
           "title": "The Weight They Never Counted",
           "magicState": "long-dark",
-          "description": "Freight adaptations in earlier hill populations → Caravan work in a later manual economy.",
+          "description": "An undated bodily inheritance and an eighteenth birthday → The first shift under a six-week trial.",
           "context": [
-            "Freight-adapted bodies persist in a manual road economy, but knowledge is unequal: the village moralizes strength while a caravan keeps an older anatomical survey and recognizes nutritional costs. An earlier culture of bodily revision is a useful proposed comparison; seedglass is not established as these people's ancestry.",
-            "Bodily capacity survives while accounts of whether ancestors were bred, built or repaired diverge; no maker or Galactic coordinate is identified."
+            "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and functioning technical knowledge: weights, rigging, nutrition, axle limits and load plans are measured together. Its proposed V position concerns a working regional economy with an older bodily history; neither that history's makers nor a descent from seedglass clinics is identified.",
+            "The copied survey disputes whether earlier populations were bred, built or repaired. Tests begin the first evening and continue next morning; four days of instruction and a missed-meal setback precede the explicitly dated seventh-morning wagon crisis. The later market agreement starts a six-week trial whose completion is unshown."
           ],
           "sequenceNote": "Proposed after Coiled Together and before What She Remembered of Peace. These are selected positions in a varied material history. No common war, government, technology lineage or measured calendar follows from their neighborhood.",
           "stories": [
@@ -2920,7 +2920,7 @@
         "start": 65.11,
         "end": 66.23
       },
-      "note": "A collegium teaches practical flight through roof surveys while brooms, winged horses and rune shoes coexist. That institutional training belongs to the circulation of technical skills, not a single universal flight technology."
+      "note": "Nine Eaves already maintains practice brooms, inspected horse equipment, course lanes, standard diagrams and a rooftop-survey practicum. Juni's assessment tests a known three-breath stabilizer and repair judgment within that established profession. The school predates this assessment; its wider date and any historical descent into Lowen's city or Brightward College remain unknown."
     },
     "the-healers-measure": {
       "window": {
@@ -2948,7 +2948,7 @@
         "start": 17.97,
         "end": 19.37
       },
-      "note": "Proposed in the later old-magical ages, after the earlier qualification and public-school histories. Courts and an established locksmith profession can use bounded doorway tests during an ordinary estate appraisal. The mother's repeated use left passive wear, not a stored person or fixed destination; all four heirs already have equal shares. Independent qualification still awaits the master's inspection."
+      "note": "Proposed in the later old-magical reach, the doorway workshop combines mechanical repair, bounded living-user tests, estate appraisal and a trade qualification system. These are existing institutions within an inhabited modern society, not proof of descent from earlier schools or licenses. The mother’s wear stores no person or fixed destination; all four heirs already have equal shares. Independent qualification still awaits the master’s inspection."
     },
     "an-ordinary-education": {
       "window": {
@@ -3172,7 +3172,7 @@
         "start": 31.68,
         "end": 33.08
       },
-      "note": "Freight-adapted bodies persist in a manual road economy, but knowledge is unequal: the village moralizes strength while a caravan keeps an older anatomical survey and recognizes nutritional costs. An earlier culture of bodily revision is a useful proposed comparison; seedglass is not established as these people's ancestry."
+      "note": "A village ranks inherited bodily strength while a traveling caravan carries permits, toll schedules and a fragmentary anatomical survey. The same journey demonstrates unequal explanations and functioning technical knowledge: weights, rigging, nutrition, axle limits and load plans are measured together. Its proposed V position concerns a working regional economy with an older bodily history; neither that history's makers nor a descent from seedglass clinics is identified."
     },
     "coiled-together": {
       "window": {
@@ -3326,7 +3326,7 @@
         "start": 51.77,
         "end": 53.17
       },
-      "note": "Routine seedglass body plans support clinics, family businesses, trains and electric displays. A one-sunset archive deadline belongs to an established biomedical service economy, not its first discovery."
+      "note": "Mirrorglass House is an established family revision business within a society of routine body plans, trains and specialist care. Its closing afternoon exposes a particular archive mistake and failures in communication; it does not mark the loss of the surrounding clinical economy. The proposed material placement has no demonstrated genealogical link to the freight-adapted hill populations."
     },
     "the-kill-she-wouldnt-take": {
       "window": {
@@ -3393,10 +3393,10 @@
     },
     "the-room-that-waited": {
       "window": {
-        "start": 96.3,
+        "start": 88.47,
         "end": 97.7
       },
-      "note": "Agrarian finders enter a buried, dormant launch facility whose controls they cannot identify. This is positive evidence of lost technical knowledge; its earlier use, builders’ fate, elapsed generations and cause of loss remain unknown."
+      "note": "Agrarian finders enter a buried launch facility while seeking storage for threatened winter grain. They retain practical skills and some old written words but cannot identify its controls. That local gap can coexist with technical expertise elsewhere, so its proposed late-III horizon now overlaps Orison's. The facility's builders, earlier use and abandonment have no established connection to Orison's fall."
     },
     "leave-the-names": {
       "window": {
@@ -3889,9 +3889,13 @@
       "Orison reaches the Inner Sea; survivors must leave a city that cannot rise again"
     ],
     "the-room-that-waited": [
-      "A dormant launch facility outlasts accessible knowledge of its purpose",
-      "Later agrarian finders recognize EXIT but cannot identify the launch facility",
-      "They leave the room unused and mark the hazardous route"
+      "Three days after Kilta promises Zumi first judgment on the next discovery, moldy winter grain and approaching frost make a dry cellar valuable.",
+      "Thirteen-year-old Zumi finds moving air beneath the wash. They open a crooked metal hatch near sunset and enter with an oil lamp and return marks.",
+      "Warning signs, protective suits, beds and paired controls defeat their first storage explanation, although some words such as EXIT remain readable.",
+      "A surviving plan corrects Kilta's remembered route. Two-person stations and launch labels remain incompletely understood; nothing powers up.",
+      "Zumi refuses an experiment with the paired controls, recalling an earlier mill injury. Kilta accepts the limit instead of imposing their first theory.",
+      "Zumi leads the return by the plan and chalk marks as lamp oil reaches the last line.",
+      "At sunset they leave both a shelter mark and a danger mark. The grain problem, the site's safety and the history of its builders remain unresolved."
     ],
     "the-trouble-with-tuesdays": [
       "A watch and its witnessed contract pass from Eli’s grandfather into the family",
@@ -4303,9 +4307,13 @@
       "An arrow emerges afterward carrying a chip of the exterior stone. Tressa makes room for three names in the finding; complete inertness of the ruin is not demonstrated."
     ],
     "the-weight-they-never-counted": [
-      "Earlier hill populations are fitted for freight; the method is later disputed",
-      "Their dense bones and layered tissue persist in a manual road economy",
-      "A caravan recognizes and pays for strength that local work had undervalued"
+      "At eighteen, the road hand leaves a village that treats strength as moral rank, carrying a low-rate work token obtained the previous evening.",
+      "On the first day, two marked hundred-kilogram blocks reveal a capacity the caravan had not priced. Private testing exposes load, ground, footwear and food limits.",
+      "An old copied survey describes freight adaptations but leaves their makers, date and method uncertain; its knowledge survives alongside the village's different explanation.",
+      "Next-morning tests lead to a cautious work limit and revised pay. Four days of instruction follow, but extra lifts and a missed meal produce knee and heel injury.",
+      "On the seventh morning, a tilting wagon exceeds predictable lifting conditions. The road hand identifies its misplaced cargo and helps direct unloading before the crew blocks it safely.",
+      "At a later market, the worker negotiates a lower ordinary load, separate rations and boot charges, recovery time, planning training and a six-week trial.",
+      "The next morning begins with a modest balanced load and a manifest assignment. The worker has not become a limitless replacement for other hands or completed the trial."
     ],
     "rooms-before-sunrise": [
       "Five valid bindings are temporarily detached for a full-floor molt; the subsequent census refresh wrongly archives them before replanting",
@@ -4737,6 +4745,23 @@
       "Iverax ignites early to burn Sennara's death-binding away; the first surge destroys inhabited ground beyond the western ridge",
       "Sennara kills him before the second surge; the worldfire stops while ordinary buildings continue burning",
       "After sunrise she wakes alive amid regional survivors, leaves Iverax's body and takes a burned man's hand while the wider world continues"
+    ],
+    "the-weight-of-falling-up-rune-shoes": [
+      "Nine Eaves already provides standard practice brooms, inspected harnesses, different course lanes and a professional survey roster. Juni has watched its flying practices for years.",
+      "On the assessment roof, Juni draws known wind curls on ordinary shoes and explains a one-use crown that stabilizes for exactly three powered breaths without steering.",
+      "Repeated microbursts wear the right curl during the stationary test. Juni sees the damage and refuses an offered repair pause with a one-point deduction.",
+      "A hard reverse brake destroys the right channel. More power to the surviving left jet increases the dangerous spin until Juni cuts it.",
+      "Juni redraws the right curl and crown while falling, then uses its three breaths to repair the left before resuming balanced thrust.",
+      "A controlled landing and an honest fault report earn an overall pass despite failed stationary control. Future long crossings require an explicit repair threshold and enough drawing to preserve a safety margin."
+    ],
+    "the-unfixed-face": [
+      "Family practice and repeated client visits precede the closing day. During an earlier roof leak, Lucian moved two anonymous emergency fragments into his own active preset.",
+      "Public presets expire at noon and the remaining archive is due for sunset sterilization. Korrin has activated their father's old face without checking its carrier index.",
+      "Mekran arrives after a failed return begun three bells earlier on a train. His available communication channels change as the sisters search the archive.",
+      "The borrowed face and remembered script damage trust; Mekran stops their explanations and their family argument. His consent and the private carrier sequence identify his return fragment.",
+      "Releasing the fragment removes Korrin's mourning preset. Erisel then mistakes a pain flare for assent but stops before the next stage opens.",
+      "Directional hand pressure supports four further stages over eleven minutes. Treatment restores stable functions and the possibility of later revision, without forcing a remembered face.",
+      "At sunset the sisters finish the bounded archive closure. Mekran leaves with a remnant membrane; ordinary body revision continues in the city and in the sisters' own choices."
     ]
   },
   "storySpans": {
@@ -4816,9 +4841,9 @@
       "note": "The descent lasts roughly fifty minutes; the city's age and the builders' date remain unresolved"
     },
     "the-room-that-waited": {
-      "start": "An arsenal built by an earlier technical society",
-      "end": "A warning left by later agrarian finders",
-      "note": "The generations and cause of knowledge loss are uncounted. The dormant facility does not establish an earlier launch or a nuclear war."
+      "start": "An undated facility and a recent promise",
+      "end": "A warning left at sunset",
+      "note": "A promise three days earlier shapes this afternoon's shared exploration; roughly four weeks before frost is the finders' estimate. The building's prior occupation and loss of usable knowledge are undated. No launch, nuclear war, measured number of generations or order against Orison is established."
     },
     "the-first-people": {
       "start": "Roads built before the younger stellar civilizations",
@@ -4941,9 +4966,9 @@
       "note": "A six-day threat, five-day march and two days of enemy probes belong to one local campaign. Seven years describes the agreed toll commitment, not time elapsed by the ending. The campaign must precede extinction; its position among other old-magical societies remains proposed."
     },
     "the-weight-they-never-counted": {
-      "start": "Freight adaptations in earlier hill populations",
-      "end": "Caravan work in a later manual economy",
-      "note": "Bodily capacity survives while accounts of whether ancestors were bred, built or repaired diverge; no maker or Galactic coordinate is identified."
+      "start": "An undated bodily inheritance and an eighteenth birthday",
+      "end": "The first shift under a six-week trial",
+      "note": "The copied survey disputes whether earlier populations were bred, built or repaired. Tests begin the first evening and continue next morning; four days of instruction and a missed-meal setback precede the explicitly dated seventh-morning wagon crisis. The later market agreement starts a six-week trial whose completion is unshown."
     },
     "the-lights-beyond": {
       "start": "The wall closes after the horde defeat",
@@ -5369,6 +5394,16 @@
       "start": "A later petition to the new archmage",
       "end": "The apprentice's first chosen night",
       "note": "Three mornings of petitioning precede the offered trial. Seven days is its proposed term, not elapsed story time. The final inside bolt secures one night; voice recovery, the remaining trial and a lasting apprenticeship are unresolved."
+    },
+    "the-weight-of-falling-up-rune-shoes": {
+      "start": "An established flight school and years of observation",
+      "end": "One morning's qualified pass",
+      "note": "The survey roster closes that day. Three breaths measures the one-use stabilizer, not the whole flight. Juni fails stationary control but passes the overall assessment with declared repair margins; no later survey assignment or wider adoption is shown."
+    },
+    "the-unfixed-face": {
+      "start": "Family practice, repeated visits and an earlier roof leak",
+      "end": "The studio's sunset closure",
+      "note": "Lucian died at seventy-three; a stored face is an earlier body plan, not his mind. Mekran's four later treatment stages take eleven minutes within a longer emergency. Six breaths describes specific eye revisions, not every transformation. Other revision services and ordinary city life continue after this studio closes."
     }
   },
   "storyEvidence": {
@@ -5803,9 +5838,9 @@
       "from": "four-million-falling",
       "to": "the-room-that-waited",
       "kind": "historical",
-      "label": "What different communities can still explain",
-      "note": "A proposed long sequence contrasts Orison's working but incomplete reactor knowledge with agrarian finders who cannot interpret a launch facility. Orison's fall leaves survivors, rescue vessels and technically capable neighbors; it does not cause the other community's ignorance. The silo's builders, prior use and loss of knowledge remain unidentified.",
-      "ordering": "before",
+      "label": "Uneven knowledge in an inhabited world",
+      "note": "The proposed late-III horizons now overlap: a maintained reactor city and agrarian finders of an unfamiliar launch facility can belong to different regions of an unevenly informed world. Orison’s fall leaves living expertise and rescue services; it does not explain the finders’ ignorance. The facility’s builders, abandonment and order against Orison remain unidentified.",
+      "ordering": "none",
       "basis": "proposed"
     },
     {
@@ -5842,11 +5877,11 @@
       "id": "flight-becomes-civic-practice",
       "from": "the-weight-of-falling-up-rune-shoes",
       "to": "not-about-that",
-      "kind": "historical",
-      "label": "From taught flight to an inhabited sky",
-      "note": "Proposed long development: Nine Eaves already teaches roof-level flight and survey work using several kinds of focus; the later public sky uses diverse living flight in deliveries, family instruction and agricultural weather. The bridge is the spread of practical aerial knowledge through teaching and work, not a common power source or proof that one academy founded that city.",
-      "ordering": "before",
-      "basis": "proposed"
+      "kind": "echo",
+      "label": "Practical flight in different cities",
+      "note": "Nine Eaves already has standard flight teaching, inspected equipment and survey work; Lowen’s city already has family instruction, delivery flight and agricultural rain hauling. These are established practices in their own settings, not a witnessed invention followed by adoption. Their chosen cycles remain different, but no route of transmission, institutional descent or mutual date is established by flying.",
+      "ordering": "none",
+      "basis": "thematic"
     },
     {
       "id": "dragon-service-becomes-a-trade",
@@ -5882,31 +5917,31 @@
       "id": "qualified-threshold-trades",
       "from": "fourth-house",
       "to": "the-door-knows-home",
-      "kind": "historical",
-      "label": "The licensed trades reach the threshold",
-      "note": "The earlier municipal assessment and later proposed doorway trade both require demonstrated work. The apprentice's independent qualification still awaits inspection. This chosen long sequence treats professional qualification as a recurring institution, not evidence that a particular guild or magical system survived every intervening age.",
-      "ordering": "before",
-      "basis": "proposed"
+      "kind": "echo",
+      "label": "One job, bounded certification",
+      "note": "Pelmara receives a ten-day license for one observed faculty with continuing safety objections. The doorway apprentice documents four sound sets and their limits while independent qualification still awaits a master’s inspection. The comparison concerns the scope of professional permission; it supplies no common guild, historical transmission or order between those systems.",
+      "ordering": "none",
+      "basis": "thematic"
     },
     {
       "id": "schools-across-old-modernity",
       "from": "the-weight-of-falling-up-rune-shoes",
       "to": "the-warmest-person-in-the-room",
-      "kind": "historical",
-      "label": "Teaching extraordinary work",
-      "note": "Field practice, technical instruction and professional expectations connect an old collegium with a later modern college in this reconstruction. Their capacities and institutions remain different; no school descent or inherited flight system is established.",
-      "ordering": "before",
-      "basis": "proposed"
+      "kind": "echo",
+      "label": "What qualification actually permits",
+      "note": "Juni passes for rooftop-survey practice despite failing stationary control, subject to explicit repair margins. At Brightward, a proposed shield certification still depends on a live test that Mirelle refuses to supply. Both institutions constrain practical work, but neither establishes the other’s date, curriculum, ancestry or access to a common power.",
+      "ordering": "none",
+      "basis": "thematic"
     },
     {
       "id": "bodies-outlast-industries",
       "from": "the-unfixed-face",
       "to": "the-weight-they-never-counted",
-      "kind": "historical",
-      "label": "A body can outlast its public explanation",
-      "note": "This proposed sequence compares routine bodily revision in an operating clinical economy with a much later village that moralizes freight adaptations. The caravan still has an anatomical survey and recognizes nutritional costs: knowledge survives unevenly. The comparison does not establish that seedglass changes produced inherited freight bodies, or identify any common population or industry.",
-      "ordering": "before",
-      "basis": "proposed"
+      "kind": "echo",
+      "label": "Bodies and their inherited explanations",
+      "note": "Mirrorglass House closes one family archive inside a continuing body-revision economy. A different caravan carries a copied survey of freight-adapted populations whose makers and method remain disputed. Unequal knowledge exists within that journey itself. The comparison identifies no seedglass ancestry, lost common industry or date between the societies.",
+      "ordering": "none",
+      "basis": "thematic"
     },
     {
       "id": "municipal-living-structures",
@@ -6420,7 +6455,7 @@
         {
           "cycleId": "cycle-03-extinction-human-works",
           "title": "Human works rise and fail",
-          "note": "Later old-magical services precede extinction. Separate human courts, working cities and maritime systems then operate during the zero; Orison's grounding is one local loss before the proposed encounter with an unrecognized arsenal.",
+          "note": "Later old-magical services precede extinction. Courts, working cities and maritime systems then operate within the zero. Orison’s grounding is one local loss amid surviving technical work; the unrecognized arsenal has an overlapping possible horizon and an unidentified history of its own.",
           "anchors": [
             "a-little-winter-for-sale",
             "four-million-falling",
@@ -6515,7 +6550,7 @@
         {
           "cycleId": "cycle-04-human-refoundings",
           "title": "Who controls a technical body?",
-          "note": "Routine body plans and home repair make technology personal; housing records and military commands can turn it into control. Loxan's escape leaves another body's awareness and her own continuity unresolved. These different institutions establish no common manufacturer or universal settlement of bodily authority.",
+          "note": "Routine body plans and home repair make technology personal; housing records and military commands can turn it into control. Closing one revision archive does not end the surrounding industry. Loxan’s escape leaves another body’s awareness and her own continuity unresolved. These institutions supply no common manufacturer or ancestry for later freight-adapted populations.",
           "anchors": [
             "the-unfixed-face",
             "rooms-before-sunrise",
