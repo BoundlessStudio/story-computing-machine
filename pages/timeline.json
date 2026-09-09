@@ -672,7 +672,7 @@
           "description": "Industrial societies maintain specialized body care, memory work and communication systems with histories of their own.",
           "context": [
             "Trams, clinical records, workrooms, ultraviolet lamps, valves and broadcasts support distinct professions and populations.",
-            "A client’s twenty-five-thousand-year memory and an abandoned cult sanctuary put earlier lives inside present practical work."
+            "A client who estimates his age at twenty-five thousand years recalls an undated early battle; an abandoned cult sanctuary provides a different encounter with older lives."
           ],
           "sequenceNote": "The remembered battle, later refuge and factory scenes are personal spans rather than entire Galactic Cycles. Birth-channel rules and the predictive eye remain distinct local systems.",
           "stories": [
@@ -1792,21 +1792,21 @@
         "start": 46,
         "end": 83
       },
-      "note": "Estate salvage, museums and emergency containment services manage eleven years of accumulated purchases. Pipes, fans and material craft frame the house's living seed; its placement follows a working industrial artifact economy."
+      "note": "Estate salvage, museums and emergency containment services trace a marker-containing lot purchased eleven years earlier. That dates the lot, not the whole collection. Pipes, fans and material craft frame the house's living seed; its placement follows a working industrial artifact economy."
     },
     "the-first-wound": {
       "window": {
         "start": 25,
         "end": 67
       },
-      "note": "A living memory specialist works in a tram-served clinical world while their client remembers roughly twenty-five thousand years. The present is placed with professional care; ancient gates, later refuge and factory experience remain a separate personal span."
+      "note": "A living memory specialist works in a tram-served clinical world with a client who estimates his age at roughly twenty-five thousand years, with gaps in his count. The present is placed with professional care; an undated early battle and memories explicitly set 612 and eighty-three years earlier belong to his personal history."
     },
     "tenth-world-lesson": {
       "window": {
         "start": 66,
         "end": 94
       },
-      "note": "Ryo’s apartment, games and grocery app belong to the established pre-extinction material frame. The assignments take nine years of Eiren’s life and considerably more of Ryo’s; neither gives the elapsed time at home. The storm society’s centralized sacrifice and distributed stations have their own unresolved coordinates."
+      "note": "Ryo's apartment, games and grocery app supply this proposed modern home placement. His admitted magical history precedes extinction, but the apartment's planet and its relationship to other modern settings remain unestablished. The assignments take nine years of Eiren's life and considerably more of Ryo's; neither gives the elapsed time at home. The storm society and assignment destinations retain their own unresolved coordinates."
     }
   },
   "storyMoments": {
@@ -1893,7 +1893,7 @@
       "Many years later Eli dies; nine days afterward Rose inherits the watch and rewinds those nine days"
     ],
     "the-first-wound": [
-      "A battle lies roughly twenty-five thousand local years before the present",
+      "An undated early battle leaves the first remembered wound; the client estimates his present age at roughly twenty-five thousand years",
       "A refuge memory lies 612 years back; a factory memory lies eighty-three years back",
       "A present tram incident leads into work with a living memory specialist"
     ],
@@ -2228,9 +2228,9 @@
       "note": "The Day of Glass is four centuries before the present; the network’s earlier independent period is undated."
     },
     "the-first-wound": {
-      "start": "Remembered battle",
+      "start": "Undated early battle",
       "end": "Therapy after a tram incident",
-      "note": "Roughly 25,000 local years; endpoints not assigned Galactic coordinates"
+      "note": "The client estimates his age at roughly 25,000 years; this does not date the battle. Other memories are explicitly set 612 and eighty-three years before the present."
     },
     "the-first-kingdom-was-late-on-taxes": {
       "start": "Kettlebridge’s departure",
@@ -2255,7 +2255,7 @@
     "tenth-world-lesson": {
       "start": "The apartment departure",
       "end": "The apartment return",
-      "note": "Nine years on Eiren’s clock, considerably more on Ryo’s. The elapsed home interval and destination coordinates are unspecified; the home frame precedes extinction."
+      "note": "Nine years on Eiren's clock, considerably more on Ryo's. The elapsed home interval and destination coordinates are unspecified; the displayed home placement is a reconstruction."
     },
     "stay-out-of-my-city": {
       "start": "The harbor ultimatum",
@@ -3317,7 +3317,7 @@
         {
           "cycleId": "cycle-07-later-refoundings",
           "title": "Long lives need present care",
-          "note": "A twenty-five-thousand-year memory, a thirteen-year host search and regenerator care put old personal histories inside current professions.",
+          "note": "An approximately twenty-five-thousand-year-old client, a thirteen-year host search and regenerator care put different kinds of long personal history inside current professions. The client’s age does not establish the date of his earliest remembered battle.",
           "anchors": [
             "the-first-wound",
             "thirteen-years-borrowed",
