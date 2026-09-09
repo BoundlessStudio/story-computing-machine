@@ -2613,7 +2613,7 @@
           "description": "An undated early battle in a much longer life → A therapy session six days after the tram incident.",
           "context": [
             "A tram incident brings an already long-lived client to a living memory specialist. His memories show a refuge 612 years earlier and a factory eighty-three years earlier, each already operating in its own crisis; they do not identify one civilization progressing into the present clinic. His estimated age is about twenty-five thousand years, with gaps. The selected post-return session does not date his earliest battle or establish the source of his longevity.",
-            "The client's approximate 25,000-year age does not date the battle. His 612-year and eighty-three-year memories are local intervals, not Galactic Cycle coordinates. The session reaches a remembered starting point without resolving its uncertain counts or promising a cure; neither old-magic survival nor a common history for the three societies is established."
+            "The client's approximate 25,000-year age does not date the battle. His 612-year and eighty-three-year memories are local intervals, not Galactic Cycle coordinates. The factory memory shows an unscarred left hand, while the earlier battle produces the scar seen in the present; that sequence remains unresolved. The session reaches a remembered starting point without resolving its uncertain counts or promising a cure; neither old-magic survival nor a common history for the three societies is established."
           ],
           "sequenceNote": "Proposed after The Seventh Night and before The Anatomy of a God. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -3937,7 +3937,7 @@
     ],
     "the-first-wound": [
       "An undated early battle leaves the first remembered wound; the client estimates his present age at roughly twenty-five thousand years",
-      "A refuge memory lies 612 years back; a factory memory lies eighty-three years back",
+      "A refuge memory lies 612 years back; a factory memory lies eighty-three years back. The factory hand lacks the scar produced in the earlier battle and present during the session; the discrepancy is unresolved.",
       "Six days after the tram incident, a living memory specialist follows the client's chosen starting point",
       "His initial twelve-year risk history proves incomplete; a second descent proceeds under new limits and without recording",
       "The session ends without settling the battle's uncertain count or promising a cure; the client uses his present grounding habit at the door"
@@ -4948,7 +4948,7 @@
     "the-first-wound": {
       "start": "An undated early battle in a much longer life",
       "end": "A therapy session six days after the tram incident",
-      "note": "The client's approximate 25,000-year age does not date the battle. His 612-year and eighty-three-year memories are local intervals, not Galactic Cycle coordinates. The session reaches a remembered starting point without resolving its uncertain counts or promising a cure; neither old-magic survival nor a common history for the three societies is established."
+      "note": "The client's approximate 25,000-year age does not date the battle. His 612-year and eighty-three-year memories are local intervals, not Galactic Cycle coordinates. The factory memory shows an unscarred left hand, while the earlier battle produces the scar seen in the present; that sequence remains unresolved. The session reaches a remembered starting point without resolving its uncertain counts or promising a cure; neither old-magic survival nor a common history for the three societies is established."
     },
     "the-first-kingdom-was-late-on-taxes": {
       "start": "The village's departure, before millions of outside years",
