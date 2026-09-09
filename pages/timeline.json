@@ -481,10 +481,10 @@
           "id": "event-tea-for-the-first-guest",
           "title": "Tea for the First Guest",
           "magicState": "old-magic",
-          "description": "An imperial-age tower → The first guest in centuries.",
+          "description": "The tower's uncertain age and centuries without a guest → A second infusion beside the open road.",
           "context": [
-            "A roughly two-thousand-year-old tower recalls imperial leaf duties, grain fleets and horse relays while its present visitor repairs account books in a printing, coach and paid-lodging economy. The present belongs with commercial roads; the older political world is an internal historical span.",
-            "The foundation is about 2,012 years old, with several years of uncertainty; no named empire is placed elsewhere."
+            "The wizard maintains a privately aligned tower beside a world of carriers, printers, bookbinders and paid lodging. He recalls imperial duties and freight relays, but the visitor cannot establish those powers' present reach or fate. The retained older placement concerns this functioning commercial setting and its isolated magical neighbor. The tower's age and centuries without a guest do not date a collapse outside it; other intruders have entered, and the present visitor gives only the local knowledge he has.",
+            "The wizard calculates 2,012 foundation years from the visitor's calendar, uncertain by four or five years, and says he is seven months older. His 387 guestless years do not exclude intruders. The roughly twenty minutes outside and the cart's ten-to-fifteen-minute approach are estimates; departure is not shown."
           ],
           "sequenceNote": "Proposed after The Way Around and before The Wrong Side of the Part. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -887,10 +887,10 @@
           "id": "event-where-the-white-elk-went",
           "title": "Where the White Elk Went",
           "magicState": "old-magic",
-          "description": "Halls, farms and roads → A joined woodland.",
+          "description": "Three thousand autumns and successive land uses → The third-day discovery and a further walk.",
           "context": [
-            "More than three thousand autumns turn royal halls into fields, orchards and woods around one enduring witness. Its present is an inhabited palimpsest with a specific long local history.",
-            "Avarra remembers at least three thousand autumns; the successive land uses are local, not dated Galactic eras."
+            "At least three thousand autumns include successive royal, agricultural and woodland uses of one landscape around Avarra. Abandoned works have different histories: some stone is reused, some obstructs roots, and a recent break allows older and younger woodland to join. The selected old-magical period contains that ongoing living connection and layered regional history. The kingdoms' identities and dates remain uncertain; none is identified with another story's government.",
+            "Avarra recalls three thousand autumns and perhaps more. The journey takes three days to the broken foundation; the woodland had already joined since the previous circuit. The precise trigger, individual kingdoms' dates and Winterbough's intended explanation remain uncertain."
           ],
           "sequenceNote": "Proposed after The Vacant Throne and before A Knock in Someone Else's Sleep. Explicit connections carry established or supplied order; other neighboring positions remain reconstruction. These slots are not measured Galactic Cycle coordinates.",
           "stories": [
@@ -1382,10 +1382,10 @@
           "id": "event-four-million-falling",
           "title": "Four Million Falling",
           "magicState": "long-dark",
-          "description": "The builders' incompletely preserved engineering → A grounded city and its surviving population.",
+          "description": "An inherited city and a recent operating waiver → Permanent grounding and an unfinished rescue.",
           "context": [
-            "Orison’s civic founding story credits human builders after magic’s death. Generations maintain six reactors through incomplete inherited diagrams until fifty minutes force permanent grounding and evacuation. This is a positive remembered relation to extinction, with an unmeasured gap and a local technical fall.",
-            "The descent lasts roughly fifty minutes; the city's age and the builders' date remain unresolved"
+            "Orison has living engineering, medical, civic and rescue services before its failure. Its school account places human construction after magic's death; the chosen Long Dark position identifies that remembered break with the established extinction without certifying the builders' story. A recent bridged-control arrangement turns one fault into loss of the shared power bus. The grounding destroys this lift system while cooling, rescue and technical expertise continue. No worldwide collapse or date for the unidentified arsenal in The Room That Waited is established.",
+            "The descent lasts approximately fifty minutes; 51:08 is the first contact forecast, and eleven metres per second is a conditional landing model. Moving survivors would take days in favorable weather. The city's founding date and its remembered extinction interval remain unresolved."
           ],
           "sequenceNote": "The selected late-III position follows The Unfixed Song. The Room That Waited now has an overlapping possible horizon; Orison’s collapse does not establish a worldwide decline or the other community’s date.",
           "stories": [
@@ -1998,10 +1998,10 @@
           "id": "event-the-shadow-that-nested",
           "title": "The Shadow That Nested",
           "magicState": "long-dark",
-          "description": "The sunshade's unknown construction → Partial repair beside its new ecology.",
+          "description": "An unregistered sunshade above working grids → Partial reopening and the crew leaving the rim.",
           "context": [
-            "An ancient sunshade shelters ordinary organisms above inhabited, technically capable surface grids. A tug crew's repair preserves both nests and some power; the structure's lost builders do not make the whole present a ruin.",
-            "The builders and elapsed interval remain unknown; orbital infrastructure has acquired another use"
+            "An ancient unregistered sunshade lies above working surface grids, thermal storage and a capable orbital tug crew. Reports of an omen close charging yards even while engineers coordinate a mechanical intervention. Organisms use the inherited machinery, but their full lifecycle and its builders remain unknown. The selected Long Dark horizon may overlap the stellar-road rupture; neither the shade nor its migration is identified with that network. This repair leaves a functioning surrounding society and a still-broken inhabited structure.",
+            "The changing countdowns are forecasts received with communication delay. The final southern shadow band lasts 109 seconds, within the accepted 112-second limit. Construction, habitation duration, the migration's wider route and any later full repair remain undated."
           ],
           "sequenceNote": "The proposed later Long Dark placement overlaps the stellar-road rupture. This inhabited structure has no established date before or after that rupture, and no common collapse is implied.",
           "stories": [
@@ -2741,7 +2741,7 @@
         "start": 64.97,
         "end": 66.37
       },
-      "note": "More than three thousand autumns turn royal halls into fields, orchards and woods around one enduring witness. Its present is an inhabited palimpsest with a specific long local history."
+      "note": "At least three thousand autumns include successive royal, agricultural and woodland uses of one landscape around Avarra. Abandoned works have different histories: some stone is reused, some obstructs roots, and a recent break allows older and younger woodland to join. The selected old-magical period contains that ongoing living connection and layered regional history. The kingdoms' identities and dates remain uncertain; none is identified with another story's government."
     },
     "the-last-flames": {
       "window": {
@@ -2783,7 +2783,7 @@
         "start": 80.77,
         "end": 81.89
       },
-      "note": "A roughly two-thousand-year-old tower recalls imperial leaf duties, grain fleets and horse relays while its present visitor repairs account books in a printing, coach and paid-lodging economy. The present belongs with commercial roads; the older political world is an internal historical span."
+      "note": "The wizard maintains a privately aligned tower beside a world of carriers, printers, bookbinders and paid lodging. He recalls imperial duties and freight relays, but the visitor cannot establish those powers' present reach or fate. The retained older placement concerns this functioning commercial setting and its isolated magical neighbor. The tower's age and centuries without a guest do not date a collapse outside it; other intruders have entered, and the present visitor gives only the local knowledge he has."
     },
     "the-unfinished-sunset": {
       "window": {
@@ -3147,7 +3147,7 @@
         "start": 88.47,
         "end": 89.87
       },
-      "note": "Orison’s civic founding story credits human builders after magic’s death. Generations maintain six reactors through incomplete inherited diagrams until fifty minutes force permanent grounding and evacuation. This is a positive remembered relation to extinction, with an unmeasured gap and a local technical fall."
+      "note": "Orison has living engineering, medical, civic and rescue services before its failure. Its school account places human construction after magic's death; the chosen Long Dark position identifies that remembered break with the established extinction without certifying the builders' story. A recent bridged-control arrangement turns one fault into loss of the shared power bus. The grounding destroys this lift system while cooling, rescue and technical expertise continue. No worldwide collapse or date for the unidentified arsenal in The Room That Waited is established."
     },
     "the-five-minute-warranty": {
       "window": {
@@ -3476,7 +3476,7 @@
         "start": 77.0,
         "end": 94.0
       },
-      "note": "An ancient sunshade shelters ordinary organisms above inhabited, technically capable surface grids. A tug crew's repair preserves both nests and some power; the structure's lost builders do not make the whole present a ruin."
+      "note": "An ancient unregistered sunshade lies above working surface grids, thermal storage and a capable orbital tug crew. Reports of an omen close charging yards even while engineers coordinate a mechanical intervention. Organisms use the inherited machinery, but their full lifecycle and its builders remain unknown. The selected Long Dark horizon may overlap the stellar-road rupture; neither the shade nor its migration is identified with that network. This repair leaves a functioning surrounding society and a still-broken inhabited structure."
     },
     "the-star-that-followed-the-bells": {
       "window": {
@@ -3833,10 +3833,12 @@
       "They separate their savings and retain their own choices about the inn. Their report gives the captain a firsthand account of the road and flight; later visits, a reopened border and changes to public teaching are not shown."
     ],
     "where-the-white-elk-went": [
-      "A hall becomes farm walls; the walls disappear into an orchard.",
-      "Oaks grow through the orchard; a later road bends around them and vanishes beneath beech.",
-      "For a long time, a buried foundation kept the younger woodland’s roots apart from Elderweald.",
-      "Following the elk, Avarra discovers that storm-broken masonry has already allowed the two woodlands to join."
+      "For at least three thousand autumns, Avarra and Winterbough follow Elderweald's circuit. Its living rhythm reaches her through roots and the elk; the unchanged boundary stones shape her expectation of where that connection ends.",
+      "Beyond the stones, halls become farm walls, orchards grow wild, old trees divert later roads and woodland occupies abandoned ground. These successive land uses precede the journey; no single catastrophe explains all the ruins.",
+      "On the first day, Winterbough crosses the old boundary and offers Avarra the choice to dismount. She goes with him. Beyond the stones she senses a faint continuation of the rhythm, including through roots at their overnight resting place.",
+      "On the second day, they cross a rootless paved court where the felt rhythm stops, then returns at the far roots. Avarra continues beside the elk through uncertainty rather than receiving an explanation of his intentions.",
+      "At noon on the third day, they find roots meeting through a recently broken buried foundation. The older and younger woodlands have already joined since the last circuit; a storm, a root's growth or their combination may have completed the connection.",
+      "Avarra leaves the old markers behind and walks with Winterbough into the younger woodland. Their relationship to the boundary changes after the landscape has changed; they do not create the new connection by discovering it."
     ],
     "the-morning-her-hand-moved": [
       "For a thousand years, ledgers describe settled life on a body whose death supposedly predates the towns.",
@@ -3860,10 +3862,12 @@
       "By the next dawn, the sisters leave with wounds and limited money; the crowns dispute the site while the eyries hold"
     ],
     "tea-for-the-first-guest": [
-      "The tower belongs to an older world of imperial duties, grain fleets and horse relays.",
-      "Centuries pass without a guest while the wizard maintains his threshold.",
-      "A present-day bookmender enters but cannot identify the empires his host remembers.",
-      "The visit ends without supplying a complete account of the outside world."
+      "The wizard recalls older imperial duties, grain fleets and freight relays without knowing their present condition. By the visitor's calendar, he calculates the foundation as about 2,012 years old, with four or five years of uncertainty; he is seven months older.",
+      "The visitor enters accidentally while seeking shelter on a wet road. His immediate world contains coaching inns, carrier carts, printing, account-book repair and uncertain paid work; he cannot answer for every empire the wizard remembers.",
+      "The wizard calls him the first guest in 387 years while acknowledging other intruders. Fresh tea and an offered washroom fail to answer the visitor's need to see an actual exit.",
+      "The wizard holds the original roadside alignment open through a living working. Lamps and the drying rail lose service and the room cools; the ordinary fire remains. The visitor touches the wet arch and puts a foot on the road, confirming that he can leave.",
+      "Seeing a carrier approach, the visitor chooses to stay for another infusion until it arrives, with the doorway kept open. Their conversation turns to ordinary repairs, food and finding work; the wizard admits that his own choices helped make the tower hard to find.",
+      "The carrier nears the bend while the visitor asks about the mismatched cups. The story ends with the conversation continuing. His departure, employment and any later return to this uncertain alignment remain unshown."
     ],
     "a-crown-of-quiet-hours": [
       "Twelve dragons maintain forty-seven royal identities over 218 years. Their roads, sewers, grain measures and fire protection are real; the dead Crowned Ancestors are invented, and the living ruler receives no worship.",
@@ -3907,10 +3911,14 @@
       "The story ends with an inside bolt and an unhealed voice; later training, recovery and the former household's accountability remain open."
     ],
     "four-million-falling": [
-      "Orison's founding story credits human builders after the death of magic",
-      "Generations maintain six reactors and lift rings while copying gaps in the builders' diagrams",
-      "A common power failure forces evacuation and the sacrifice of the Low Keels",
-      "Orison reaches the Inner Sea; survivors must leave a city that cannot rise again"
+      "An ancient inhabited city maintains six fission reactors, stored-field lift rings and extensive civilian services. The morning population line lists 4,083,612 residents, before uncounted visitors. Its school mosaic credits human builders after magic died; that cultural account does not independently verify the original builders or the scope of the earlier loss.",
+      "After replacement parts fail inspection, an old shared breaker-actuator rail is bridged under Inez's thirty-day operating waiver. Individual breakers test green. Inspection and maintenance decisions precede the disaster; the source of the rejected parts is unknown.",
+      "Reactor Four's coolant loss and generator fault spread through the still-connected bus. All six cores shut down and the power spine is destroyed. Emergency generators remain assigned to cooling; the rings coast on finite stored fields.",
+      "An initial forecast allows about fifty-one minutes. Inez's landing plan requires shedding roughly twelve percent of the city mass. Low Keel residents move upward; after Paz challenges privileged access, maintenance stair K opens to the whole clinic block.",
+      "South Three's latch remains closed while its evacuation is unconfirmed. Inez burns a ring segment to tear it free before the remaining city loses balance. A later frozen switch requires a second permanent segment loss to correct the roll.",
+      "Corrected telemetry reveals less reserve than expected. The final pulse spends the remaining outer-ring field, and Orison strikes the sea twice, floods and settles. The eleven-metre-per-second prediction is not a measured impact speed; this lift system cannot raise the city again.",
+      "A partial receiving list locates Paz with thirty-seven patients and nine staff while four patients and three staff remain unlocated. Cooling and rescue continue; a contamination boundary is needed. The immediate report supplies no final population, casualty or resettlement account.",
+      "Inez joins the supply line as boats approach. Moving the survivors and feeding them on the grounded city remain ongoing work, with weather affecting the projected evacuation time. Local expertise and surrounding rescue capacity survive the loss of the airborne city."
     ],
     "the-room-that-waited": [
       "Three days after Kilta promises Zumi first judgment on the next discovery, moldy winter grain and approaching frost make a dry cellar valuable.",
@@ -4269,9 +4277,13 @@
       "Hatshepsut leaves before the transmission. The broadcast shows two rulers and keeps her empty throne outside the frame; the empire and its utilities continue. Later, Merneith brings Ramesses' chair beside her own for a private audience, without a shown change to the world's government."
     ],
     "the-shadow-that-nested": [
-      "An unregistered eight-sector sunshade outlasts its original service",
-      "Small organisms nest in its housings while ground grids depend on solar charging",
-      "A crew opens four shutters enough to reduce eclipse risk while leaving other sectors inhabited"
+      "An old eight-sector sunshade has lost attitude control and answers no registry or beacon. Organisms nest around its fixed housings while solar pressure turns the structure toward a dangerous overlap with the moon's shadow.",
+      "Ground crews manage charging-yard closures, pumps and thermal reserves as the tug approaches. Storage can carry one shadow, and communication delay separates the received countdowns from the ground's current state.",
+      "A bounded test makes the animals brace and tighten fibers across the rollers. Full drive would sweep the nests; a tow cannot safely separate the tracks, and cutting free the leaves would retain the shadow while creating uncontrolled debris.",
+      "Local maintenance clamps allow individual leaves to be moved. Adults loosen crossing fibers near a moving light boundary while brood cups remain, but the crew cannot identify the departure cue or predict a complete cycle from those observations.",
+      "The first movement makes the fibers tighten again. Small pulses, waits, revised observations and the tug's reaction control allow a different four-sector plan. Ground control explicitly accepts the longer southern band within its available reserve.",
+      "The crew locks A, D, E and H a few degrees open, preserving the fixed brood housings and leaving the other sectors untouched. The shared collar drive remains isolated; migration continues around machinery whose original operation has not been restored.",
+      "The southern band lasts 109 seconds and storage bottoms at 4.3 percent. Pumps restart in sequence and one charging-yard gate reopens. With eight percent return reserve, the crew leaves the rim; the remaining shade is broadside, inhabited and broken."
     ],
     "last-watcher-of-jupiter": [
       "For thirty years, a staffed watch keeps a charged Jovian organism's upper currents below inhabited orbit",
@@ -4989,14 +5001,14 @@
       "note": "The 812 years date what the station teaches, not independently verified extinction or continuous isolation. Living people now disprove the continuing empty-world claim, but do not establish what happened then. The next usable window is fourteen hours away; no later contact or institutional review is shown."
     },
     "the-shadow-that-nested": {
-      "start": "The sunshade's unknown construction",
-      "end": "Partial repair beside its new ecology",
-      "note": "The builders and elapsed interval remain unknown; orbital infrastructure has acquired another use"
+      "start": "An unregistered sunshade above working grids",
+      "end": "Partial reopening and the crew leaving the rim",
+      "note": "The changing countdowns are forecasts received with communication delay. The final southern shadow band lasts 109 seconds, within the accepted 112-second limit. Construction, habitation duration, the migration's wider route and any later full repair remain undated."
     },
     "four-million-falling": {
-      "start": "The builders' incompletely preserved engineering",
-      "end": "A grounded city and its surviving population",
-      "note": "The descent lasts roughly fifty minutes; the city's age and the builders' date remain unresolved"
+      "start": "An inherited city and a recent operating waiver",
+      "end": "Permanent grounding and an unfinished rescue",
+      "note": "The descent lasts approximately fifty minutes; 51:08 is the first contact forecast, and eleven metres per second is a conditional landing model. Moving survivors would take days in favorable weather. The city's founding date and its remembered extinction interval remain unresolved."
     },
     "the-room-that-waited": {
       "start": "An undated facility and a recent promise",
@@ -5019,14 +5031,14 @@
       "note": "The earlier clinic estimate of eleven to fourteen months of extra aging is not Tobin's current total age or the duration of the crossing. Contradictory counts of years, sleeps, days and distance remain part of his experienced history. Neither that history nor Hazel's later explanation dates another era."
     },
     "where-the-white-elk-went": {
-      "start": "Halls, farms and roads",
-      "end": "A joined woodland",
-      "note": "Avarra remembers at least three thousand autumns; the successive land uses are local, not dated Galactic eras."
+      "start": "Three thousand autumns and successive land uses",
+      "end": "The third-day discovery and a further walk",
+      "note": "Avarra recalls three thousand autumns and perhaps more. The journey takes three days to the broken foundation; the woodland had already joined since the previous circuit. The precise trigger, individual kingdoms' dates and Winterbough's intended explanation remain uncertain."
     },
     "tea-for-the-first-guest": {
-      "start": "An imperial-age tower",
-      "end": "The first guest in centuries",
-      "note": "The foundation is about 2,012 years old, with several years of uncertainty; no named empire is placed elsewhere."
+      "start": "The tower's uncertain age and centuries without a guest",
+      "end": "A second infusion beside the open road",
+      "note": "The wizard calculates 2,012 foundation years from the visitor's calendar, uncertain by four or five years, and says he is seven months older. His 387 guestless years do not exclude intruders. The roughly twenty minutes outside and the cart's ten-to-fifteen-minute approach are estimates; departure is not shown."
     },
     "the-last-flames": {
       "start": "An old dragon mortuary",
